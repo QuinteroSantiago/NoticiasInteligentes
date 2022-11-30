@@ -2,7 +2,9 @@ import React from 'react';
 
 function Intro() {
     return (
-        <div>Intro</div>
+        <div>
+            <h1>Intro</h1>
+        </div>
     )
 }
 
