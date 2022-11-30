@@ -34,6 +34,6 @@ public class TaskEndpointTests {
                 .content("{\"taskName\": \"Sample Task\"}");
         this.mvc.perform(request)
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.taskName", instanceOf(String.class)));
+                .andExpect(jsonPath("$.id", instanceOf(Number.class)));
     }
 }

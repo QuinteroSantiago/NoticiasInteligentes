@@ -23,6 +23,10 @@ public class Task {
         this.taskDescription = taskDescription;
     }
 
+    public Long getId() {
+        return id;
+    }
+
     public String getTaskDescription() {
         return taskDescription;
     }
