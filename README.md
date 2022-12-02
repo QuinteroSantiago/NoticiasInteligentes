@@ -1,20 +1,12 @@
 # Gomu Cloud
-
+Place where I will host some ideas
 
 ## Ideas
 Some of the feature ideas that should be implemented in the Gomu cloud.
 
 ## TODO
 ### Frontend
-1. Choose Aesthetic for website.
-2. Create wireframes for UI of 
-   1. Landing Page 
-   2. User Management System
-   3. TODO List
-   4. Day Summary Display Page
-2. Choose all frontend technologies to achieve UI.
 ### Backend
-1. 
 
 ### App Wide
 1. User Management System
@@ -31,3 +23,6 @@ Some of the feature ideas that should be implemented in the Gomu cloud.
         - Day of the week, day of the month, month, and year.
         - Routine
         - TODO
+
+### Noticias Inteligentes
+Make a news aggregator script that distinguishes positive and negative news using support vector machines.
