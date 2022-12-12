@@ -1,6 +1,6 @@
 import React from 'react';
 
-function NewsItem({ title, imgUrl, stack, link }) {
+function NewsItem({ title, imgUrl, tags, link }) {
    return (
       <a 
          href={link}
@@ -16,7 +16,7 @@ function NewsItem({ title, imgUrl, stack, link }) {
          <div className="w-full p-2">
             <h3 className="text-lg md:text-xl dark:text-black mb-2 md:mb-3 font-semibold">{title}</h3>
             <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm dark:text-black ">
-               {stack.map(item => (
+               {tags.map(item => (
                   <span className="inline-block px-2 py-1 border-2 border-stone-900 dark:border-black rounded-md">
                      {item}
                   </span>
