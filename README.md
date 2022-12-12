@@ -1,9 +1,4 @@
-# Noticias Inteligentes
-Place where I will host some ideas
+# Noticias Inteligentes v1.0.1
+This version of NoticiasInteligentes.com has 6 news feed items, is a single page serverless static web application, it is not secure.
 
-## Ideas
-Some of the feature ideas that should be implemented in Noticias Inteligentes.
-
-Make a news aggregator script that distinguishes positive and negative news using support vector machines.
-
-Make a MVP that you can see all of the good news in the first webpage
+It is hosted in a DNS in AWS that redirects to a static website saved in an S3 bucket.
