@@ -1,14 +1,14 @@
 import React from 'react'
 import Intro from './components/Intro'
 import Footer from './components/Footer'
-import Portfolio from './components/Portfolio'
+import NewsFeed from './components/NewsFeed'
 
 function App() {
 
   return (
     <div>
       <Intro />
-      <Portfolio />
+      <NewsFeed />
       <Footer />
     </div>
   )
