@@ -7,7 +7,7 @@ export default [
    },
    {
       title: 'Un francés inventa acceso al agua potable para todas partes del mundo',
-      imgUrl: '/assets/noticia-2.jpeg',
+      imgUrl: '/assets/noticia2.jpeg',
       tags: ['Francia', 'Agua Potable'],
       link: 'https://lacarabuenadelmundo.com/inventan-un-sistema-para-potabilizar-agua-en-cualquier-parte/',
    },
