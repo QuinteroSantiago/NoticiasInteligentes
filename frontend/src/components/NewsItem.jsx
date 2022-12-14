@@ -1,6 +1,6 @@
 import React from 'react';
 
-function NewsItem({ title, imgUrl, tags, link }) {
+function NewsItem({ title, imgUrl, tags, link, date }) {
    return (
       <a 
          href={link}
@@ -8,6 +8,11 @@ function NewsItem({ title, imgUrl, tags, link }) {
          rel="noopener noreferrer"
          className="border-2 border-stone-900 dark:border-black rounded-md overflow-hidden"
       >
+         <p className="flex justify-end text-xs md:text-sm">
+            <span>
+               {date}
+            </span>
+         </p>
          <img
             src={imgUrl}
             alt={title}
