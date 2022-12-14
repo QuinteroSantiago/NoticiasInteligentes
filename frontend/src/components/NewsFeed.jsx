@@ -12,6 +12,7 @@ function NewsFeed() {
                   title={project.title}
                   tags={project.tags}
                   link={project.link}
+                  date={project.date}
                />
             ))}
          </div>
