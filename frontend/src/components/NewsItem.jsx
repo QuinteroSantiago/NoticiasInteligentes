@@ -14,8 +14,8 @@ function NewsItem({ title, imgUrl, tags, link, date }) {
                alt={title}
                className="w-full h-36 md:h-48 object-cover cursor-pointer"
             />
-            <p className="absolute text-xs top-3 right-3 dark:text-white">
-               <span className="inline-block px-1 border-2 dark:border-black bg-stone-800 opacity-70 rounded-lg">
+            <p className="absolute text-s top-2 right-2 text-white">
+               <span className="inline-block px-1 border-2 dark:border-black bg-stone-800 opacity-75 rounded-lg">
                   {date}
                </span>
             </p>
