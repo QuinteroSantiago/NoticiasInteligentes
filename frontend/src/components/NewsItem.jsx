@@ -1,6 +1,10 @@
 import React from 'react';
 
 function NewsItem({ title, imgUrl, tags, link, date }) {
+   console.log(title)
+   console.log(imgUrl)
+   console.log(tags)
+   console.log(link)
    return (
       <a 
          href={link}
