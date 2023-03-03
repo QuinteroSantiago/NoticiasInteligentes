@@ -8,3 +8,10 @@ Some of the feature ideas that should be implemented in Noticias Inteligentes.
 - Separate News Articles and YouTube videos.
 - Add Search for newsletter
 - Auto fetch positive news
+
+# FRONTEND
+npm run dev
+
+# BACKEND
+source ./venv/bin/activate
+uvicorn main:app --reload

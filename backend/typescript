@@ -1,0 +1,1212 @@
+Script started on Wed Feb 22 19:22:40 2023
+Node.js version v19.0.0 detected.
+Odd numbered Node.js versions will not enter LTS status and should not be used for production. For more information, please see https://nodejs.org/en/about/releases/.
+/dev/fd/12:18: command not found: compdef
+l[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro backend % [K[?2004hl lls[?2004l
+__pycache__	main.py		src		typescript	venv
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro backend % [K[?2004hccd sc  src[1m/[0m[0m/scripts[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hlls[?2004l
+news_fetcher.py
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hppython news_fetcher.py[1m [0m[0m [?2004l
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004h../.  ccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro src % [K[?2004h../.  ccd [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro ~ % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro ~ % [K[?2004hlls[?2004l
+Applications		Downloads		Music			Pictures		awscli-bundle.zip	opt
+Desktop			Library			My Games		Public			cache
+Documents		Movies			Parallels		awscli-bundle		nltk_data
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro ~ % [K[?2004hccd Desktop[1m/[0m[0m/scs[1m/[0m[0m    projects[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro projects % [K[?2004hlls[?2004l
+Daydreamer			NoticiasInteligentes		SigmaProject			react-frontend
+GomuCloud			SentimentAnalysisSpanishText	ddailyjournal
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro projects % [K[?2004hccd NoticiasInteligentes[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro NoticiasInteligentes % [K[?2004hlls[?2004l
+LICENSE			README.md		backend			frontend		package-lock.json	package.json
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro NoticiasInteligentes % [K[?2004hllzl ls[?2004l
+LICENSE			README.md		backend			frontend		package-lock.json	package.json
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(base) santiagoquintero@Santiagos-MacBook-Pro NoticiasInteligentes % [K[?2004hccd backend[1m/[0m[0m        c  ccd backend[1m/[0m[0m        c  ssource ./   ./backend[1m/[0m[0m/venv[1m/[0m[0m/n bin[1m/[0m[0m/activate[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro NoticiasInteligentes % [K[?2004h--y-  ppython ./  backend[1m/[0m[0m/src[1m/[0m[0m/c scripts[1m/[0m[0m/news_fetcher.py[1m [0m[0m [?2004l
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro NoticiasInteligentes % [K[?2004h[7mpip install requests[27m[20D[27mp[27mi[27mp[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27mr[27me[27mq[27mu[27me[27ms[27mt[27ms[?2004l
+Requirement already satisfied: requests in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (2.28.1)
+Requirement already satisfied: idna<4,>=2.5 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2.10)
+Requirement already satisfied: charset-normalizer<3,>=2 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2.0.4)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (1.26.11)
+Requirement already satisfied: certifi>=2017.4.17 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2022.9.24)
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro NoticiasInteligentes % [K[?2004hccd s backend[1m/[0m[0m/a src[1m/[0m[0m/scripts[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004h[7mpip install requests[27m[20D[27mp[27mi[27mp[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27mr[27me[27mq[27mu[27me[27ms[27mt[27ms[?2004l
+Requirement already satisfied: requests in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (2.28.1)
+Requirement already satisfied: certifi>=2017.4.17 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2022.9.24)
+Requirement already satisfied: charset-normalizer<3,>=2 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2.0.4)
+Requirement already satisfied: idna<4,>=2.5 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2.10)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (1.26.11)
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hppython  news_fetcher.py[1m [0m[0m [?2004l
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hppip install         p  ppip install requests[?2004l
+Requirement already satisfied: requests in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (2.28.1)
+Requirement already satisfied: certifi>=2017.4.17 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2022.9.24)
+Requirement already satisfied: charset-normalizer<3,>=2 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2.0.4)
+Requirement already satisfied: idna<4,>=2.5 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (2.10)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from requests) (1.26.11)
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hppython 3 news_fetcher.py[1m [0m[0m [?2004l
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hppython --v[?2004l
+unknown option --v
+usage: /opt/homebrew/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython --vr ersion[?2004l
+Python 3.10.8
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython --version[1C             p  python --v3 news_fetcher.py[23Dpip install requests   3 install requests[17D[?2004l
+Collecting requests
+  Downloading requests-2.28.2-py3-none-any.whl (62 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/62.8 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━[0m [32m30.7/62.8 kB[0m [31m1.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m62.8/62.8 kB[0m [31m887.3 kB/s[0m eta [36m0:00:00[0m
+[?25hCollecting charset-normalizer<4,>=2
+  Downloading charset_normalizer-3.0.1-cp311-cp311-macosx_11_0_arm64.whl (121 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/121.1 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m30.7/121.1 kB[0m [31m1.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━[0m [32m71.7/121.1 kB[0m [31m1.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m121.1/121.1 kB[0m [31m1.1 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting idna<4,>=2.5
+  Using cached idna-3.4-py3-none-any.whl (61 kB)
+Collecting urllib3<1.27,>=1.21.1
+  Downloading urllib3-1.26.14-py2.py3-none-any.whl (140 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/140.6 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.0/140.6 kB[0m [31m1.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━[0m [32m81.9/140.6 kB[0m [31m1.4 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m140.6/140.6 kB[0m [31m1.3 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting certifi>=2017.4.17
+  Downloading certifi-2022.12.7-py3-none-any.whl (155 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/155.3 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m41.0/155.3 kB[0m [31m1.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━[0m [32m92.2/155.3 kB[0m [31m1.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━[0m [32m122.9/155.3 kB[0m [31m1.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m155.3/155.3 kB[0m [31m1.2 MB/s[0m eta [36m0:00:00[0m
+[?25hInstalling collected packages: charset-normalizer, urllib3, idna, certifi, requests
+Successfully installed certifi-2022.12.7 charset-normalizer-3.0.1 idna-3.4 requests-2.28.2 urllib3-1.26.14
+
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m A new release of pip available: [0m[31;49m22.3[0m[39;49m -> [0m[32;49m23.0.1[0m
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m To update, run: [0m[32;49mpip3 install --upgrade pip[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpip3 install requests[21Dpython --version           3 news_fetcher.py[23Dpip install requests   [20Dpython news_fetcher.py[?2004l
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython news_fetcher.py[22Dpip3 install requests [21Dpython news_fetcher.py[?2004l
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 10, in <module>
+    response = requests.get('https://newsdata.io/api/1/news?apikey=pub_1709389c6917d1ce9fcfbc5f7904091ccdf06&country=es,us,ve&language=es')
+NameError: name 'requests' is not defined
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython news_fetcher.py[?2004l
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004h[7mpip list[27m
+[K[A[66C[27mp[27mi[27mp[27m [27ml[27mi[27ms[27mt[1B[K[?2004l
+Package                       Version
+----------------------------- --------------------
+alabaster                     0.7.12
+anaconda-client               1.11.0
+anaconda-navigator            2.3.2
+anaconda-project              0.11.1
+anyio                         3.5.0
+appdirs                       1.4.4
+applaunchservices             0.3.0
+appnope                       0.1.2
+appscript                     1.1.2
+argon2-cffi                   21.3.0
+argon2-cffi-bindings          21.2.0
+arrow                         1.2.2
+astroid                       2.11.7
+astropy                       5.1
+atomicwrites                  1.4.0
+attrs                         21.4.0
+Automat                       20.2.0
+autopep8                      1.6.0
+Babel                         2.9.1
+backcall                      0.2.0
+backports.functools-lru-cache 1.6.4
+backports.tempfile            1.0
+backports.weakref             1.0.post1
+bcrypt                        3.2.0
+beautifulsoup4                4.11.1
+binaryornot                   0.4.4
+bitarray                      2.5.1
+bkcharts                      0.2
+black                         22.6.0
+bleach                        4.1.0
+bokeh                         2.4.3
+boto3                         1.24.28
+botocore                      1.27.28
+Bottleneck                    1.3.5
+brotlipy                      0.7.0
+certifi                       2022.9.24
+cffi                          1.15.1
+chardet                       3.0.4
+charset-normalizer            2.0.4
+click                         8.0.4
+cloudpickle                   2.0.0
+clyent                        1.2.2
+colorama                      0.4.5
+colorcet                      3.0.0
+conda                         23.1.0
+conda-build                   3.22.0
+conda-content-trust           0.1.3
+conda-pack                    0.6.0
+conda-package-handling        1.9.0
+conda-repo-cli                1.0.20
+conda-token                   0.4.0
+conda-verify                  3.4.2
+constantly                    15.1.0
+cookiecutter                  1.7.3
+cryptography                  37.0.1
+cssselect                     1.1.0
+cycler                        0.11.0
+Cython                        0.29.32
+cytoolz                       0.11.0
+daal4py                       2021.6.0
+dask                          2022.7.0
+datashader                    0.14.1
+datashape                     0.5.4
+debugpy                       1.5.1
+decorator                     5.1.1
+deep-translator               1.10.1
+defusedxml                    0.7.1
+diff-match-patch              20200713
+dill                          0.3.4
+distributed                   2022.7.0
+docutils                      0.18.1
+docx                          0.2.4
+entrypoints                   0.4
+et-xmlfile                    1.1.0
+fastapi                       0.92.0
+fastjsonschema                2.16.2
+feedfinder2                   0.0.4
+feedparser                    6.0.10
+filelock                      3.6.0
+flake8                        4.0.1
+Flask                         1.1.2
+fonttools                     4.25.0
+fsspec                        2022.7.1
+future                        0.18.2
+gensim                        4.1.2
+glob2                         0.7
+gmpy2                         2.1.2
+google-trans-new              1.1.9
+googletrans                   4.0.0rc1
+greenlet                      1.1.1
+h11                           0.9.0
+h2                            3.2.0
+h5py                          3.7.0
+HeapDict                      1.0.1
+holoviews                     1.15.0
+hpack                         3.0.0
+hstspreload                   2023.1.1
+httpcore                      0.9.1
+httptools                     0.5.0
+httpx                         0.13.3
+huggingface-hub               0.12.1
+hvplot                        0.8.0
+hyperframe                    5.2.0
+hyperlink                     21.0.0
+idna                          2.10
+imagecodecs                   2021.8.26
+imageio                       2.19.3
+imagesize                     1.4.1
+importlib-metadata            4.11.3
+incremental                   21.3.0
+inflection                    0.5.1
+iniconfig                     1.1.1
+intake                        0.6.5
+intervaltree                  3.1.0
+ipykernel                     6.15.2
+ipython                       7.31.1
+ipython-genutils              0.2.0
+ipywidgets                    7.6.5
+isort                         5.9.3
+itemadapter                   0.3.0
+itemloaders                   1.0.4
+itsdangerous                  2.0.1
+jdcal                         1.4.1
+jedi                          0.18.1
+jellyfish                     0.9.0
+jieba3k                       0.35.1
+Jinja2                        2.11.3
+jinja2-time                   0.2.0
+jmespath                      0.10.0
+joblib                        1.1.0
+json5                         0.9.6
+jsonschema                    4.16.0
+jupyter                       1.0.0
+jupyter_client                7.3.4
+jupyter-console               6.4.3
+jupyter_core                  4.11.1
+jupyter-server                1.18.1
+jupyterlab                    3.4.4
+jupyterlab-pygments           0.1.2
+jupyterlab-server             2.10.3
+jupyterlab-widgets            1.0.0
+keyring                       23.4.0
+kiwisolver                    1.4.2
+lazy-object-proxy             1.6.0
+libarchive-c                  2.9
+llvmlite                      0.38.0
+locket                        1.0.0
+lxml                          4.9.1
+lz4                           3.1.3
+Markdown                      3.3.4
+MarkupSafe                    2.0.1
+matplotlib                    3.5.2
+matplotlib-inline             0.1.6
+mccabe                        0.7.0
+mistune                       0.8.4
+mkl-fft                       1.3.1
+mkl-random                    1.2.2
+mkl-service                   2.4.0
+mock                          4.0.3
+mpmath                        1.2.1
+msgpack                       1.0.3
+multipledispatch              0.6.0
+munkres                       1.1.4
+mypy-extensions               0.4.3
+navigator-updater             0.3.0
+nbclassic                     0.3.5
+nbclient                      0.5.13
+nbconvert                     6.4.4
+nbformat                      5.5.0
+nest-asyncio                  1.5.5
+networkx                      2.8.4
+newspaper3k                   0.2.8
+nltk                          3.8.1
+nose                          1.3.7
+notebook                      6.4.12
+numba                         0.55.1
+numexpr                       2.8.3
+numpy                         1.21.5
+numpydoc                      1.4.0
+olefile                       0.46
+openpyxl                      3.0.10
+packaging                     21.3
+pandas                        1.4.4
+pandocfilters                 1.5.0
+panel                         0.13.1
+param                         1.12.0
+parsel                        1.6.0
+parso                         0.8.3
+partd                         1.2.0
+pathlib                       1.0.1
+pathspec                      0.9.0
+patsy                         0.5.2
+pep8                          1.7.1
+pexpect                       4.8.0
+pickleshare                   0.7.5
+Pillow                        9.2.0
+pip                           22.2.2
+pkginfo                       1.8.2
+platformdirs                  2.5.2
+plotly                        5.9.0
+pluggy                        1.0.0
+ply                           3.11
+poyo                          0.5.0
+prometheus-client             0.14.1
+prompt-toolkit                3.0.20
+Protego                       0.1.16
+psutil                        5.9.0
+ptyprocess                    0.7.0
+py                            1.11.0
+pyasn1                        0.4.8
+pyasn1-modules                0.2.8
+pycodestyle                   2.8.0
+pycosat                       0.6.3
+pycparser                     2.21
+pyct                          0.4.8
+pycurl                        7.45.1
+pydantic                      1.10.5
+PyDispatcher                  2.0.5
+pydocstyle                    6.1.1
+pyerfa                        2.0.0
+pyflakes                      2.4.0
+Pygments                      2.11.2
+PyHamcrest                    2.0.2
+PyJWT                         2.4.0
+pylint                        2.14.5
+pyls-spyder                   0.4.0
+pyobjc-core                   8.5
+pyobjc-framework-Cocoa        8.5
+pyobjc-framework-CoreServices 8.5
+pyobjc-framework-FSEvents     8.5
+pyodbc                        4.0.34
+pyOpenSSL                     22.0.0
+pyparsing                     3.0.9
+PyQt5-sip                     12.11.0
+pyrsistent                    0.18.0
+PySocks                       1.7.1
+pytest                        7.1.2
+python-dateutil               2.8.2
+python-docx                   0.8.11
+python-dotenv                 0.21.1
+python-lsp-black              1.2.1
+python-lsp-jsonrpc            1.0.0
+python-lsp-server             1.5.0
+python-slugify                5.0.2
+python-snappy                 0.6.0
+pytz                          2022.1
+pyviz-comms                   2.0.2
+PyWavelets                    1.3.0
+PyYAML                        6.0
+pyzmq                         23.2.0
+QDarkStyle                    3.0.2
+qstylizer                     0.1.10
+QtAwesome                     1.0.3
+qtconsole                     5.3.2
+QtPy                          2.2.0
+queuelib                      1.5.0
+regex                         2022.7.9
+requests                      2.28.1
+requests-file                 1.5.1
+rfc3986                       1.5.0
+rope                          0.22.0
+Rtree                         0.9.7
+ruamel.yaml                   0.17.21
+ruamel.yaml.clib              0.2.6
+ruamel-yaml-conda             0.15.100
+s3transfer                    0.6.0
+scikit-image                  0.19.2
+scikit-learn                  1.0.2
+scikit-learn-intelex          2021.20221004.121333
+scipy                         1.9.1
+Scrapy                        2.6.2
+seaborn                       0.11.2
+Send2Trash                    1.8.0
+service-identity              18.1.0
+setuptools                    63.4.1
+sgmllib3k                     1.0.0
+sip                           6.6.2
+six                           1.16.0
+smart-open                    5.2.1
+sniffio                       1.2.0
+snowballstemmer               2.2.0
+sortedcollections             2.1.0
+sortedcontainers              2.4.0
+soupsieve                     2.3.1
+Sphinx                        5.0.2
+sphinxcontrib-applehelp       1.0.2
+sphinxcontrib-devhelp         1.0.2
+sphinxcontrib-htmlhelp        2.0.0
+sphinxcontrib-jsmath          1.0.1
+sphinxcontrib-qthelp          1.0.3
+sphinxcontrib-serializinghtml 1.1.5
+spyder                        5.3.3
+spyder-kernels                2.3.3
+SQLAlchemy                    1.4.39
+starlette                     0.25.0
+statsmodels                   0.13.2
+sympy                         1.10.1
+tables                        3.6.1
+tabulate                      0.8.10
+TBB                           0.2
+tblib                         1.7.0
+tenacity                      8.0.1
+terminado                     0.13.1
+testpath                      0.6.0
+text-unidecode                1.3
+textblob                      0.17.1
+textdistance                  4.2.1
+threadpoolctl                 2.2.0
+three-merge                   0.1.1
+tifffile                      2021.7.2
+tinycss                       0.4
+tinysegmenter                 0.3
+tldextract                    3.2.0
+tokenizers                    0.13.2
+toml                          0.10.2
+tomli                         2.0.1
+tomlkit                       0.11.1
+toolz                         0.11.2
+torch                         1.13.1
+torchvision                   0.14.1
+tornado                       6.1
+tqdm                          4.64.1
+traitlets                     5.1.1
+transformers                  4.26.1
+Twisted                       22.2.0
+typing_extensions             4.3.0
+ujson                         5.4.0
+Unidecode                     1.2.0
+urllib3                       1.26.11
+uvicorn                       0.20.0
+uvloop                        0.17.0
+w3lib                         1.21.0
+watchdog                      2.1.6
+watchfiles                    0.18.1
+wcwidth                       0.2.5
+webencodings                  0.5.1
+websocket-client              0.58.0
+websockets                    10.4
+Werkzeug                      2.0.3
+whatthepatch                  1.0.2
+wheel                         0.37.1
+widgetsnbextension            3.5.2
+wordcloud                     1.8.2.2
+wrapt                         1.14.1
+wurlitzer                     3.0.2
+xarray                        0.20.1
+xlrd                          2.0.1
+XlsxWriter                    3.0.3
+xlwings                       0.27.15
+yapf                          0.31.0
+zict                          2.1.0
+zipp                          3.8.0
+zope.interface                5.4.0
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004h[7mpython3 -m[27m[10D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mm r news_fetcher.py[1m [0m[0m [?2004l
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 19, in <module>
+    json.dump(allArticles, f)
+    ^^^^
+NameError: name 'json' is not defined
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 -m news_fetcher.py[?2004l
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 4, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hppip install pandas[?2004l
+Requirement already satisfied: pandas in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (1.4.4)
+Requirement already satisfied: python-dateutil>=2.8.1 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from pandas) (2.8.2)
+Requirement already satisfied: pytz>=2020.1 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from pandas) (2022.1)
+Requirement already satisfied: numpy>=1.18.5 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from pandas) (1.21.5)
+Requirement already satisfied: six>=1.5 in /Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages (from python-dateutil>=2.8.1->pandas) (1.16.0)
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpip install pandas[18Dpython3 -m news_fetcher.py[?2004l
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 4, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 -m news_fetcher.py[P[19C [20D[?2004l
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/runpy.py", line 187, in _run_module_as_main
+    mod_name, mod_spec, code = _get_module_details(mod_name, _Error)
+  File "/opt/homebrew/Cellar/python@3.10/3.10.8/Frameworks/Python.framework/Versions/3.10/lib/python3.10/runpy.py", line 110, in _get_module_details
+    __import__(pkg_name)
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython -m news_fetcher.py3 -m news_fetcher.py[19D[?2004l
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 4, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004h[7mpip3 install pandas - -upgrade[27m[30D[27mp[27mi[27mp[27m3[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27mp[27ma[27mn[27md[27ma[27ms[27m [27m-[27m [27m-[27mu[27mp[27mg[27mr[27ma[27md[27me[?2004l
+
+Usage:   
+  pip3 install [options] <requirement specifier> [package-index-options] ...
+  pip3 install [options] -r <requirements file> [package-index-options] ...
+  pip3 install [options] [-e] <vcs project url> ...
+  pip3 install [options] [-e] <local project path> ...
+  pip3 install [options] <archive url/path> ...
+
+no such option: -u
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpip3 install pandas - -upgrade-upgrade [9D[?2004l
+Collecting pandas
+  Downloading pandas-1.5.3-cp311-cp311-macosx_11_0_arm64.whl (10.8 MB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/10.8 MB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.1/10.8 MB[0m [31m1.7 MB/s[0m eta [36m0:00:07[0m[2K     [38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.2/10.8 MB[0m [31m2.8 MB/s[0m eta [36m0:00:04[0m[2K     [38;2;249;38;114m━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.6/10.8 MB[0m [31m5.3 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m1.6/10.8 MB[0m [31m10.7 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.2/10.8 MB[0m [31m17.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━[0m [32m6.2/10.8 MB[0m [31m27.3 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━[0m [32m8.3/10.8 MB[0m [31m33.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m10.8/10.8 MB[0m [31m53.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10.8/10.8 MB[0m [31m49.1 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting python-dateutil>=2.8.1
+  Using cached python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+Collecting pytz>=2020.1
+  Downloading pytz-2022.7.1-py2.py3-none-any.whl (499 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/499.4 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m499.4/499.4 kB[0m [31m47.5 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting numpy>=1.21.0
+  Downloading numpy-1.24.2-cp311-cp311-macosx_11_0_arm64.whl (13.8 MB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/13.8 MB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.4/13.8 MB[0m [31m89.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━[0m [32m6.2/13.8 MB[0m [31m81.5 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━[0m [32m9.2/13.8 MB[0m [31m82.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━[0m [32m12.0/13.8 MB[0m [31m78.7 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m [32m13.8/13.8 MB[0m [31m76.7 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m13.8/13.8 MB[0m [31m67.8 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting six>=1.5
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: pytz, six, numpy, python-dateutil, pandas
+Successfully installed numpy-1.24.2 pandas-1.5.3 python-dateutil-2.8.2 pytz-2022.7.1 six-1.16.0
+
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m A new release of pip available: [0m[31;49m22.3[0m[39;49m -> [0m[32;49m23.0.1[0m
+[1m[[0m[34;49mnotice[0m[1;39;49m][0m[39;49m To update, run: [0m[32;49mpip3 install --upgrade pip[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpip3 install pandas --upgrade[8D -upgrade[9D-upgrade [29D                             [29D[7mpip3 install --upgrade pip[27m[26D[27mp[27mi[27mp[27m3[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27m-[27m-[27mu[27mp[27mg[27mr[27ma[27md[27me[27m [27mp[27mi[27mp[?2004l
+Requirement already satisfied: pip in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (22.3)
+Collecting pip
+  Downloading pip-23.0.1-py3-none-any.whl (2.1 MB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/2.1 MB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.1/2.1 MB[0m [31m1.8 MB/s[0m eta [36m0:00:02[0m[2K     [38;2;249;38;114m━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.2/2.1 MB[0m [31m3.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.6/2.1 MB[0m [31m5.2 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━[0m [32m1.3/2.1 MB[0m [31m9.1 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m2.1/2.1 MB[0m [31m11.8 MB/s[0m eta [36m0:00:00[0m
+[?25hInstalling collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 22.3
+    Uninstalling pip-22.3:
+      Successfully uninstalled pip-22.3
+Successfully installed pip-23.0.1
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpip3 install --upgrade pip[13Dpandas --upgrade[8D -upgrade[30Dpython3 -m news_fetcher.py    [?2004l
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 5, in <module>
+    from deep_translator import GoogleTranslator
+ModuleNotFoundError: No module named 'deep_translator'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 -m news_fetcher.py[26Dpip3 install --upgrade pip[13Dpandas --upgrade[16D[7P[9C pip   [13Dpandas --upgrade[7md[7me[7me[7mp[7m_[7mt[7mranslator[27mpgrade[15D[27md[27me[27me[27mp[27m_[27mt[27mr[27ma[27mn[27ms[27ml[27ma[27mt[27mo[27mr[1C[16D -upgrade              [14D[9D-udeep_translatorpgrade[23D -upgrade              [14D[P[9C [10D- -upgrade[9D[1C[1C-upgrade [9D[1C[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[7md[7me[7me[7mp[7m_[7mt[7mr[7ma[7mn[7ms[7mlator[27m --upgrade[10D[15D[27md[27me[27me[27mp[27m_[27mt[27mr[27ma[27mn[27ms[27ml[27ma[27mt[27mo[27mr[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+Collecting deep_translator
+  Using cached deep_translator-1.10.1-py3-none-any.whl (35 kB)
+Collecting beautifulsoup4<5.0.0,>=4.9.1
+  Downloading beautifulsoup4-4.11.2-py3-none-any.whl (129 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/129.4 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━━━━━━━━━[0m [32m71.7/129.4 kB[0m [31m1.7 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m129.4/129.4 kB[0m [31m1.9 MB/s[0m eta [36m0:00:00[0m
+[?25hRequirement already satisfied: requests<3.0.0,>=2.23.0 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from deep_translator) (2.28.2)
+Collecting soupsieve>1.2
+  Downloading soupsieve-2.4-py3-none-any.whl (37 kB)
+Requirement already satisfied: charset-normalizer<4,>=2 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from requests<3.0.0,>=2.23.0->deep_translator) (3.0.1)
+Requirement already satisfied: idna<4,>=2.5 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from requests<3.0.0,>=2.23.0->deep_translator) (3.4)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from requests<3.0.0,>=2.23.0->deep_translator) (1.26.14)
+Requirement already satisfied: certifi>=2017.4.17 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from requests<3.0.0,>=2.23.0->deep_translator) (2022.12.7)
+Installing collected packages: soupsieve, beautifulsoup4, deep_translator
+Successfully installed beautifulsoup4-4.11.2 deep_translator-1.10.1 soupsieve-2.4
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpip3 install deep_translator --upgrade[38Dpython3 -m news_fetcher.py            [12D[?2004l
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 6, in <module>
+    from textblob import TextBlob
+ModuleNotFoundError: No module named 'textblob'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 -m news_fetcher.py[24Dpip3 install deep_translator --upgrade[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11D[P[10C [11Dt --upgrade[10De --upgrade[10Dx --upgrade[10Dt --upgrade[10Db --upgrade[10Dl --upgrade[10Do --upgrade[10Db --upgrade[10D[?2004l
+Collecting textblob
+  Using cached textblob-0.17.1-py2.py3-none-any.whl (636 kB)
+Collecting nltk>=3.1
+  Using cached nltk-3.8.1-py3-none-any.whl (1.5 MB)
+Collecting click
+  Using cached click-8.1.3-py3-none-any.whl (96 kB)
+Collecting joblib
+  Downloading joblib-1.2.0-py3-none-any.whl (297 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/298.0 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;249;38;114m━━━━━━━━━[0m[38;2;249;38;114m╸[0m[38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m71.7/298.0 kB[0m [31m1.8 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;249;38;114m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[38;5;237m╺[0m[38;5;237m━━━━━━━━━[0m [32m225.3/298.0 kB[0m [31m3.0 MB/s[0m eta [36m0:00:01[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m298.0/298.0 kB[0m [31m3.2 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting regex>=2021.8.3
+  Downloading regex-2022.10.31-cp311-cp311-macosx_11_0_arm64.whl (287 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/287.2 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m287.2/287.2 kB[0m [31m16.2 MB/s[0m eta [36m0:00:00[0m
+[?25hCollecting tqdm
+  Downloading tqdm-4.64.1-py2.py3-none-any.whl (78 kB)
+[?25l     [38;5;237m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/78.5 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [38;2;114;156;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m78.5/78.5 kB[0m [31m10.3 MB/s[0m eta [36m0:00:00[0m
+[?25hInstalling collected packages: tqdm, regex, joblib, click, nltk, textblob
+Successfully installed click-8.1.3 joblib-1.2.0 nltk-3.8.1 regex-2022.10.31 textblob-0.17.1 tqdm-4.64.1
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpip3 install textblob --upgrade[31Dpython3 -m news_fetcher.py     [?2004l
+                                               title                                               link  ... language sentiment_score
+0  Montero afirma que la banca y las energéticas ...  https://es.investing.com/news/economy/montero-...  ...  spanish        0.000000
+1  El dólar avanza ya que minutas de la Fed señal...  https://es.investing.com/news/economy/el-dolar...  ...  spanish        0.250000
+2  Rendimientos bonos EEUU bajan, inversores cons...  https://es.investing.com/news/economy/los-rend...  ...  spanish        0.000000
+3  Management 2023: enfrentar renuncias masivas c...  https://gestion.pe/opinion/rosa-maria-fuchsman...  ...  spanish        0.421875
+4  ¿Sientes que usas demasiada tecnología? Estos ...  https://www.caraotadigital.net/tendencias/sien...  ...  spanish        0.235714
+5  ¿Realmente la economía se recuperó? Esto dicen...  https://www.caraotadigital.net/venezuela/realm...  ...  spanish        0.086607
+6              Componente docente en la Ucab Guayana  https://primicia.com.ve/guayana/ciudad/compone...  ...  spanish        0.250000
+7  Basura y contaminación no dejan caminar por la...  https://www.elimpulso.com/2023/02/22/basura-y-...  ...  spanish        0.303333
+8  Incendio consumió casa en La Dolorita, cuando ...  https://www.caraotadigital.net/venezuela/incen...  ...  spanish       -0.033333
+9  #VIDEO Elda Jiménez: En Lara existe un déficit...  https://www.elimpulso.com/2023/02/22/elda-jime...  ...  spanish        0.138889
+
+[10 rows x 14 columns]
+/Library/Frameworks/Python.framework/Versions/3.11/bin/python3: Error while finding module specification for 'news_fetcher.py' (ModuleNotFoundError: __path__ attribute not found on 'news_fetcher' while trying to find 'news_fetcher.py'). Try using 'news_fetcher' instead of 'news_fetcher.py' as the module name.
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 -m news_fetcher.py[P[16C [17D[P[16C [17D[P[15C [17D[?2004l
+                                               title                                               link  ... language sentiment_score
+0  Montero afirma que la banca y las energéticas ...  https://es.investing.com/news/economy/montero-...  ...  spanish        0.000000
+1  El dólar avanza ya que minutas de la Fed señal...  https://es.investing.com/news/economy/el-dolar...  ...  spanish        0.250000
+2  Rendimientos bonos EEUU bajan, inversores cons...  https://es.investing.com/news/economy/los-rend...  ...  spanish        0.000000
+3  Management 2023: enfrentar renuncias masivas c...  https://gestion.pe/opinion/rosa-maria-fuchsman...  ...  spanish        0.421875
+4  ¿Sientes que usas demasiada tecnología? Estos ...  https://www.caraotadigital.net/tendencias/sien...  ...  spanish        0.235714
+5  ¿Realmente la economía se recuperó? Esto dicen...  https://www.caraotadigital.net/venezuela/realm...  ...  spanish        0.086607
+6              Componente docente en la Ucab Guayana  https://primicia.com.ve/guayana/ciudad/compone...  ...  spanish        0.250000
+7  Basura y contaminación no dejan caminar por la...  https://www.elimpulso.com/2023/02/22/basura-y-...  ...  spanish        0.303333
+8  Incendio consumió casa en La Dolorita, cuando ...  https://www.caraotadigital.net/venezuela/incen...  ...  spanish       -0.033333
+9  #VIDEO Elda Jiménez: En Lara existe un déficit...  https://www.elimpulso.com/2023/02/22/elda-jime...  ...  spanish        0.138889
+
+[10 rows x 14 columns]
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hclearpython3 news_fetcher.py               file_deleter.py[1m [0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hcclear[?2004l
+[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hclearpython3 file_deleter.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 file_deleter.py[23Dclear                  [18Dpython3 file_deleter.py[?2004l
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-log2.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-arcsinh.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-arctanh.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-sin.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-cos.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-cbrt.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-arctan.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-cosh.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-expm1.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-sinh.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-tanh.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-log10.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-arcsin.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-arccos.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-log1p.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-log.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-exp2.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-arccosh.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-tan.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/core/tests/data/umath-validation-set-exp.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/philox-testset-1.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/philox-testset-2.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/sfc64-testset-1.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/sfc64-testset-2.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/mt19937-testset-2.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/mt19937-testset-1.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/pcg64-testset-1.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/pcg64-testset-2.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv
+deleted :  /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv
+deleted :  /Library/Ruby/Gems/2.6.0/gems/test-unit-3.2.9/test/fixtures/header.csv
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/file_deleter.py", line 16, in <module>
+    os.remove(path)
+PermissionError: [Errno 13] Permission denied: '/Library/Ruby/Gems/2.6.0/gems/test-unit-3.2.9/test/fixtures/header.csv'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hllsl  python3 file_deleter.py[23D                       [23Dppwd[?2004l
+/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpwd[?2004l
+/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpwdpython3 file_deleter.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 file_deleter.py[?2004l
+deleted :  /Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/data_file.csv
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 file_deleter.py[23Dpwd                    [20Dpython3 file_deleter.py[23Dclear                  [18Dpython3 file_deleter.py[23Dclear                  [18Dpython3 news_fetcher.py[?2004l
+                                               title                                               link  ... language sentiment_score
+0  Montero afirma que la banca y las energéticas ...  https://es.investing.com/news/economy/montero-...  ...  spanish        0.000000
+1  El dólar avanza ya que minutas de la Fed señal...  https://es.investing.com/news/economy/el-dolar...  ...  spanish        0.250000
+2  Rendimientos bonos EEUU bajan, inversores cons...  https://es.investing.com/news/economy/los-rend...  ...  spanish        0.000000
+3  Management 2023: enfrentar renuncias masivas c...  https://gestion.pe/opinion/rosa-maria-fuchsman...  ...  spanish        0.421875
+4  ¿Sientes que usas demasiada tecnología? Estos ...  https://www.caraotadigital.net/tendencias/sien...  ...  spanish        0.235714
+5  ¿Realmente la economía se recuperó? Esto dicen...  https://www.caraotadigital.net/venezuela/realm...  ...  spanish        0.086607
+6              Componente docente en la Ucab Guayana  https://primicia.com.ve/guayana/ciudad/compone...  ...  spanish        0.250000
+7  Basura y contaminación no dejan caminar por la...  https://www.elimpulso.com/2023/02/22/basura-y-...  ...  spanish        0.303333
+8  Incendio consumió casa en La Dolorita, cuando ...  https://www.caraotadigital.net/venezuela/incen...  ...  spanish       -0.033333
+9  #VIDEO Elda Jiménez: En Lara existe un déficit...  https://www.elimpulso.com/2023/02/22/elda-jime...  ...  spanish        0.138889
+
+[10 rows x 14 columns]
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 news_fetcher.py[15Dfile_delet[5C[?2004l
+file deleted
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 file_deleter.py[?2004l
+file not found
+file deleted
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 file_deleter.py[15Dnews_fetch[5C     [10Dfile_deleter.py[15Dnews_fetch     [?2004l
+/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetch': [Errno 2] No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hppup python 3 3 news_fetcher.py[1m [0m[0m [?2004l
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 52
+    text = text.lower()a
+                       ^
+SyntaxError: invalid syntax
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 news_fetcher.py[?2004l
+                                               title                                               link  ... language sentiment_score
+0  Montero afirma que la banca y las energéticas ...  https://es.investing.com/news/economy/montero-...  ...  spanish        0.000000
+1  El dólar avanza ya que minutas de la Fed señal...  https://es.investing.com/news/economy/el-dolar...  ...  spanish        0.250000
+2  Rendimientos bonos EEUU bajan, inversores cons...  https://es.investing.com/news/economy/los-rend...  ...  spanish        0.000000
+3  Management 2023: enfrentar renuncias masivas c...  https://gestion.pe/opinion/rosa-maria-fuchsman...  ...  spanish        0.421875
+4  ¿Sientes que usas demasiada tecnología? Estos ...  https://www.caraotadigital.net/tendencias/sien...  ...  spanish        0.235714
+5  ¿Realmente la economía se recuperó? Esto dicen...  https://www.caraotadigital.net/venezuela/realm...  ...  spanish        0.086607
+6              Componente docente en la Ucab Guayana  https://primicia.com.ve/guayana/ciudad/compone...  ...  spanish        0.250000
+7  Basura y contaminación no dejan caminar por la...  https://www.elimpulso.com/2023/02/22/basura-y-...  ...  spanish        0.303333
+8  Incendio consumió casa en La Dolorita, cuando ...  https://www.caraotadigital.net/venezuela/incen...  ...  spanish       -0.033333
+9  #VIDEO Elda Jiménez: En Lara existe un déficit...  https://www.elimpulso.com/2023/02/22/elda-jime...  ...  spanish        0.138889
+
+[10 rows x 14 columns]
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 news_fetcher.py     [10Dfile_deleter.py[15Dnews_fetch[5C[15Dfile_delet[5C[23Dpwd                    [20Dpython3 file_deleter.py[23Dclear                  [18Dpython3 file_deleter.py[?2004l
+file deleted
+file deleted
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 file_deleter.py[15Dnews_fetch[5C[?2004l
+                                               title                                               link  ... language sentiment_score
+0  Montero afirma que la banca y las energéticas ...  https://es.investing.com/news/economy/montero-...  ...  spanish        0.000000
+1  El dólar avanza ya que minutas de la Fed señal...  https://es.investing.com/news/economy/el-dolar...  ...  spanish        0.250000
+2  Rendimientos bonos EEUU bajan, inversores cons...  https://es.investing.com/news/economy/los-rend...  ...  spanish        0.000000
+3  Management 2023: enfrentar renuncias masivas c...  https://gestion.pe/opinion/rosa-maria-fuchsman...  ...  spanish        0.421875
+4  ¿Sientes que usas demasiada tecnología? Estos ...  https://www.caraotadigital.net/tendencias/sien...  ...  spanish        0.235714
+5  ¿Realmente la economía se recuperó? Esto dicen...  https://www.caraotadigital.net/venezuela/realm...  ...  spanish        0.086607
+6              Componente docente en la Ucab Guayana  https://primicia.com.ve/guayana/ciudad/compone...  ...  spanish        0.250000
+7  Basura y contaminación no dejan caminar por la...  https://www.elimpulso.com/2023/02/22/basura-y-...  ...  spanish        0.303333
+8  Incendio consumió casa en La Dolorita, cuando ...  https://www.caraotadigital.net/venezuela/incen...  ...  spanish       -0.033333
+9  #VIDEO Elda Jiménez: En Lara existe un déficit...  https://www.elimpulso.com/2023/02/22/elda-jime...  ...  spanish        0.138889
+
+[10 rows x 14 columns]
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 78, in <module>
+    news_fetcher()
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 61, in news_fetcher
+    with open('./data/news_articles.json', 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/news_articles.json'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 news_fetcher.py[?2004l
+                                               title                                               link  ... language sentiment_score
+0  Montero afirma que la banca y las energéticas ...  https://es.investing.com/news/economy/montero-...  ...  spanish        0.000000
+1  El dólar avanza ya que minutas de la Fed señal...  https://es.investing.com/news/economy/el-dolar...  ...  spanish        0.250000
+2  Rendimientos bonos EEUU bajan, inversores cons...  https://es.investing.com/news/economy/los-rend...  ...  spanish        0.000000
+3  Management 2023: enfrentar renuncias masivas c...  https://gestion.pe/opinion/rosa-maria-fuchsman...  ...  spanish        0.421875
+4  ¿Sientes que usas demasiada tecnología? Estos ...  https://www.caraotadigital.net/tendencias/sien...  ...  spanish        0.235714
+5  ¿Realmente la economía se recuperó? Esto dicen...  https://www.caraotadigital.net/venezuela/realm...  ...  spanish        0.086607
+6              Componente docente en la Ucab Guayana  https://primicia.com.ve/guayana/ciudad/compone...  ...  spanish        0.250000
+7  Basura y contaminación no dejan caminar por la...  https://www.elimpulso.com/2023/02/22/basura-y-...  ...  spanish        0.303333
+8  Incendio consumió casa en La Dolorita, cuando ...  https://www.caraotadigital.net/venezuela/incen...  ...  spanish       -0.033333
+9  #VIDEO Elda Jiménez: En Lara existe un déficit...  https://www.elimpulso.com/2023/02/22/elda-jime...  ...  spanish        0.138889
+
+[10 rows x 14 columns]
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 78, in <module>
+    news_fetcher()
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 61, in news_fetcher
+    with open('./data/news_articles.json', 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './data/news_articles.json'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 news_fetcher.py[?2004l
+                                               title                                               link  ... language sentiment_score
+0  Montero afirma que la banca y las energéticas ...  https://es.investing.com/news/economy/montero-...  ...  spanish        0.000000
+1  El dólar avanza ya que minutas de la Fed señal...  https://es.investing.com/news/economy/el-dolar...  ...  spanish        0.250000
+2  Rendimientos bonos EEUU bajan, inversores cons...  https://es.investing.com/news/economy/los-rend...  ...  spanish        0.000000
+3  Management 2023: enfrentar renuncias masivas c...  https://gestion.pe/opinion/rosa-maria-fuchsman...  ...  spanish        0.421875
+4  ¿Sientes que usas demasiada tecnología? Estos ...  https://www.caraotadigital.net/tendencias/sien...  ...  spanish        0.235714
+5  ¿Realmente la economía se recuperó? Esto dicen...  https://www.caraotadigital.net/venezuela/realm...  ...  spanish        0.086607
+6              Componente docente en la Ucab Guayana  https://primicia.com.ve/guayana/ciudad/compone...  ...  spanish        0.250000
+7  Basura y contaminación no dejan caminar por la...  https://www.elimpulso.com/2023/02/22/basura-y-...  ...  spanish        0.303333
+8  Incendio consumió casa en La Dolorita, cuando ...  https://www.caraotadigital.net/venezuela/incen...  ...  spanish       -0.033333
+9  #VIDEO Elda Jiménez: En Lara existe un déficit...  https://www.elimpulso.com/2023/02/22/elda-jime...  ...  spanish        0.138889
+
+[10 rows x 14 columns]
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 78, in <module>
+    news_fetcher()
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_fetcher.py", line 61, in news_fetcher
+    with open('/data/news_articles.json', 'w') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/data/news_articles.json'
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 news_fetcher.py[?2004l
+                                               title                                               link  ... language sentiment_score
+0  Montero afirma que la banca y las energéticas ...  https://es.investing.com/news/economy/montero-...  ...  spanish        0.000000
+1  El dólar avanza ya que minutas de la Fed señal...  https://es.investing.com/news/economy/el-dolar...  ...  spanish        0.250000
+2  Rendimientos bonos EEUU bajan, inversores cons...  https://es.investing.com/news/economy/los-rend...  ...  spanish        0.000000
+3  Management 2023: enfrentar renuncias masivas c...  https://gestion.pe/opinion/rosa-maria-fuchsman...  ...  spanish        0.421875
+4  ¿Sientes que usas demasiada tecnología? Estos ...  https://www.caraotadigital.net/tendencias/sien...  ...  spanish        0.235714
+5  ¿Realmente la economía se recuperó? Esto dicen...  https://www.caraotadigital.net/venezuela/realm...  ...  spanish        0.086607
+6              Componente docente en la Ucab Guayana  https://primicia.com.ve/guayana/ciudad/compone...  ...  spanish        0.250000
+7  Basura y contaminación no dejan caminar por la...  https://www.elimpulso.com/2023/02/22/basura-y-...  ...  spanish        0.303333
+8  Incendio consumió casa en La Dolorita, cuando ...  https://www.caraotadigital.net/venezuela/incen...  ...  spanish       -0.033333
+9  #VIDEO Elda Jiménez: En Lara existe un déficit...  https://www.elimpulso.com/2023/02/22/elda-jime...  ...  spanish        0.138889
+
+[10 rows x 14 columns]
+file deleted
+file deleted
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro scripts % [K[?2004hpython3 news_fetcher.py[23D                       [23Dccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro src % [K[?2004hlls[?2004l
+data		dependencies.py	internal	routers		scripts
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro src % [K[?2004h[7muvicorn main:app --reload[27m[25D[27mu[27mv[27mi[27mc[27mo[27mr[27mn[27m [27mm[27ma[27mi[27mn[27m:[27ma[27mp[27mp[27m [27m-[27m-[27mr[27me[27ml[27mo[27ma[27m                     u  ccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro backend % [K[?2004h[7muvicorn main:app --reload[27m[25D[27mu[27mv[27mi[27mc[27mo[27mr[27mn[27m [27mm[27ma[27mi[27mn[27m:[27ma[27mp[27mp[27m [27m-[27m-[27mr[27me[27ml[27mo[27ma[27md[?2004l
+[32mINFO[0m:     Will watch for changes in these directories: ['/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend']
+[32mINFO[0m:     Uvicorn running on [1mhttp://127.0.0.1:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     Started reloader process [[36m[1m86578[0m] using [36m[1mWatchFiles[0m
+[32mINFO[0m:     Started server process [[36m86580[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59398 - "[1mGET / HTTP/1.1[0m" [32m200 OK[0m
+[32mINFO[0m:     127.0.0.1:59398 - "[1mGET /otros HTTP/1.1[0m" [31m404 Not Found[0m
+[32mINFO[0m:     127.0.0.1:59398 - "[1mGET /otros/ HTTP/1.1[0m" [31m404 Not Found[0m
+[32mINFO[0m:     127.0.0.1:59399 - "[1mGET /news/otros/ HTTP/1.1[0m" [33m307 Temporary Redirect[0m
+[32mINFO[0m:     127.0.0.1:59399 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m86580[0m]
+[32mINFO[0m:     Started server process [[36m86756[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m86756[0m]
+[32mINFO[0m:     Started server process [[36m86790[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m86790[0m]
+[32mINFO[0m:     Started server process [[36m86810[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59444 - "[1mGET / HTTP/1.1[0m" [32m200 OK[0m
+[32mINFO[0m:     127.0.0.1:59444 - "[1mGET /favicon.ico HTTP/1.1[0m" [31m404 Not Found[0m
+[32mINFO[0m:     127.0.0.1:59444 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m86810[0m]
+[32mINFO[0m:     Started server process [[36m86885[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59455 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m86885[0m]
+[32mINFO[0m:     Started server process [[36m86933[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59464 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[32mINFO[0m:     127.0.0.1:59464 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m86933[0m]
+[32mINFO[0m:     Started server process [[36m86960[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59470 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[32mINFO[0m:     127.0.0.1:59470 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m86960[0m]
+[32mINFO[0m:     Started server process [[36m86995[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59483 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+ç^C[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m86995[0m]
+[32mINFO[0m:     Stopping reloader process [[36m[1m86578[0m]
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[J(backend) (base) santiagoquintero@Santiagos-MacBook-Pro backend % [K[?2004huvicorn main:app --reload[?2004l
+[32mINFO[0m:     Will watch for changes in these directories: ['/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend']
+[32mINFO[0m:     Uvicorn running on [1mhttp://127.0.0.1:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     Started reloader process [[36m[1m87023[0m] using [36m[1mWatchFiles[0m
+[32mINFO[0m:     Started server process [[36m87025[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59491 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[32mINFO[0m:     127.0.0.1:59494 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87025[0m]
+[32mINFO[0m:     Started server process [[36m87101[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59519 - "[1mGET / HTTP/1.1[0m" [32m200 OK[0m
+[32mINFO[0m:     127.0.0.1:59519 - "[1mGET /news HTTP/1.1[0m" [33m307 Temporary Redirect[0m
+[32mINFO[0m:     127.0.0.1:59519 - "[1mGET /news/ HTTP/1.1[0m" [32m200 OK[0m
+[32mINFO[0m:     127.0.0.1:59535 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[32mINFO[0m:     127.0.0.1:59541 - "[1mGET /news/1 HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[32mINFO[0m:     127.0.0.1:59541 - "[1mGET /news/0 HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[32mINFO[0m:     127.0.0.1:59541 - "[1mGET /news HTTP/1.1[0m" [33m307 Temporary Redirect[0m
+[32mINFO[0m:     127.0.0.1:59541 - "[1mGET /news/ HTTP/1.1[0m" [32m200 OK[0m
+[32mINFO[0m:     127.0.0.1:59541 - "[1mGET /news/1 HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87101[0m]
+[32mINFO[0m:     Started server process [[36m87221[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87221[0m]
+[32mINFO[0m:     Started server process [[36m87245[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59557 - "[1mGET /news/1 HTTP/1.1[0m" [32m200 OK[0m
+[32mINFO[0m:     127.0.0.1:59558 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87245[0m]
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Started server process [[36m87326[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87326[0m]
+[32mINFO[0m:     Started server process [[36m87358[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87358[0m]
+[32mINFO[0m:     Started server process [[36m87373[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87373[0m]
+[32mINFO[0m:     Started server process [[36m87392[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87392[0m]
+[32mINFO[0m:     Started server process [[36m87419[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'main.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87419[0m]
+[32mINFO[0m:     Started server process [[36m87500[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'main.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87500[0m]
+Process SpawnProcess-12:
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/_subprocess.py", line 76, in subprocess_started
+    target(sockets=sockets)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/server.py", line 60, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1517, in uvloop.loop.Loop.run_until_complete
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/server.py", line 67, in serve
+    config.load()
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/config.py", line 477, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/importer.py", line 21, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/./main.py", line 19, in <module>
+    app.include_router(articles.router, all_articles.router)
+TypeError: include_router() takes 2 positional arguments but 3 were given
+[33mWARNING[0m:  WatchFiles detected changes in 'main.py'. Reloading...
+[32mINFO[0m:     Started server process [[36m87627[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'main.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87627[0m]
+[32mINFO[0m:     Started server process [[36m87655[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87655[0m]
+[32mINFO[0m:     Started server process [[36m87682[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59650 - "[1mGET /news/otros HTTP/1.1[0m" [31m422 Unprocessable Entity[0m
+[32mINFO[0m:     127.0.0.1:59650 - "[1mGET /otros HTTP/1.1[0m" [32m200 OK[0m
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87682[0m]
+[32mINFO[0m:     Started server process [[36m87711[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87711[0m]
+[32mINFO[0m:     Started server process [[36m87737[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59663 - "[1mGET /otros HTTP/1.1[0m" [91m500 Internal Server Error[0m
+[31mERROR[0m:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/applications.py", line 271, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/applications.py", line 118, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/cors.py", line 84, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 706, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/routing.py", line 237, in app
+    raw_response = await run_endpoint_function(
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/routing.py", line 163, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/./src/routers/all_articles.py", line 7, in ultimo
+    f = open('./scripts/news_articles.json')
+FileNotFoundError: [Errno 2] No such file or directory: './scripts/news_articles.json'
+[32mINFO[0m:     127.0.0.1:59664 - "[1mGET /otros HTTP/1.1[0m" [91m500 Internal Server Error[0m
+[31mERROR[0m:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/applications.py", line 271, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/applications.py", line 118, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/cors.py", line 84, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 706, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/routing.py", line 237, in app
+    raw_response = await run_endpoint_function(
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/routing.py", line 163, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/./src/routers/all_articles.py", line 7, in ultimo
+    f = open('./scripts/news_articles.json')
+FileNotFoundError: [Errno 2] No such file or directory: './scripts/news_articles.json'
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87737[0m]
+[32mINFO[0m:     Started server process [[36m87798[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59806 - "[1mGET /otros HTTP/1.1[0m" [91m500 Internal Server Error[0m
+[31mERROR[0m:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/applications.py", line 271, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/applications.py", line 118, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/cors.py", line 84, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 706, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/routing.py", line 237, in app
+    raw_response = await run_endpoint_function(
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/routing.py", line 163, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/./src/routers/all_articles.py", line 7, in ultimo
+    f = open('/scripts/news_articles.json')
+FileNotFoundError: [Errno 2] No such file or directory: '/scripts/news_articles.json'
+[33mWARNING[0m:  WatchFiles detected changes in 'src/routers/all_articles.py'. Reloading...
+[32mINFO[0m:     Shutting down
+[32mINFO[0m:     Waiting for application shutdown.
+[32mINFO[0m:     Application shutdown complete.
+[32mINFO[0m:     Finished server process [[36m87798[0m]
+[32mINFO[0m:     Started server process [[36m87827[0m]
+[32mINFO[0m:     Waiting for application startup.
+[32mINFO[0m:     Application startup complete.
+[32mINFO[0m:     127.0.0.1:59871 - "[1mGET /otros HTTP/1.1[0m" [91m500 Internal Server Error[0m
+[31mERROR[0m:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/protocols/http/httptools_impl.py", line 419, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 78, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/applications.py", line 271, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/applications.py", line 118, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/cors.py", line 84, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 706, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/routing.py", line 237, in app
+    raw_response = await run_endpoint_function(
+  File "/Users/santiagoquintero/opt/anaconda3/lib/python3.9/site-packages/fastapi/routing.py", line 163, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/./src/routers/all_articles.py", line 7, in ultimo
+    f = open('news_articles.json')
+FileNotFoundError: [Errno 2] No such file or directory: 'news_articles.json'

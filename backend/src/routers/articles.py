@@ -27,8 +27,19 @@ articles_db = {
 async def read_projects():
     return articles_db
 
-@router.get("/{projectId}")
+@router.get("/{newsId}")
 async def read_project(newsId: int):
     if newsId not in articles_db:
         raise HTTPException(status_code=404, detail="Project not found")
-    return {"name": articles_db[newsId]["title"],"projectId": projectId}
+    return {"name": articles_db[newsId]["title"],"newsId": newsId}
+
+
+
+@router.get("/otros")
+async def ultimo():
+    # f = open('./scripts/news_articles.json')
+    # data = json.load(f)
+    # f.close()
+    return {"name": "Gracias","projectId": "Denada"}
+
+    # Closing file

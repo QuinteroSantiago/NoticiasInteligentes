@@ -2,6 +2,7 @@ from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 
 from src.routers import articles
+from src.routers import all_articles
 
 app = FastAPI()
 
@@ -16,6 +17,7 @@ app.add_middleware(
 )
 
 app.include_router(articles.router)
+app.include_router(all_articles.router)
 
 @app.get("/")
 async def root():
