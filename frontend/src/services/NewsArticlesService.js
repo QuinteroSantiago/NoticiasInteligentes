@@ -1,18 +1,15 @@
-import axios from "axios"
+import axios from "axios";
 
-const instance = axios.create({baseURL: 'http://localhost:8000/'})
+const instance = axios.create({ baseURL: "http://localhost:8000/otros" });
 
-const getNewsArticles = async id => {
-    let response = null;
-    try {
-        response = await instance.get('/news')
-    } catch (exc) {
-        console.log(exc.message)
-    } finally{
-        return response;
-    }
+const getNewsArticles = async (id) => {
+  try {
+    const response = await instance.get();
+    return response;
+  } catch (error) {
+    console.error("Error fetching news articles:", error.message);
+    return null;
+  }
 };
-
-
 
 export { getNewsArticles };

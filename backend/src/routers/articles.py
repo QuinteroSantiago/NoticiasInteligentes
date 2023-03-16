@@ -37,9 +37,4 @@ async def read_project(newsId: int):
 
 @router.get("/otros")
 async def ultimo():
-    # f = open('./scripts/news_articles.json')
-    # data = json.load(f)
-    # f.close()
     return {"name": "Gracias","projectId": "Denada"}
-
-    # Closing file

@@ -1,12 +1,12 @@
 from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
-from mangum import Mangum
+# from mangum import Mangum
 
 from src.routers import articles
 from src.routers import all_articles
 
 app = FastAPI()
-handler = Mangum(app)
+# handler = Mangum(app)
 
 origins = ["*"]
 

@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react';
-// import newsData from '../data/newsData';
 import { getNewsArticles } from '../services/NewsArticlesService'
 import NewsItem from './NewsItem';
 
@@ -24,11 +23,13 @@ function NewsFeed() {
          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {newsData?.map(newsArticle => {
                return <NewsItem
+                  key={newsArticle.at(0)}
                   imgUrl={newsArticle.at(1).imgUrl}
                   title={newsArticle.at(1).title}
                   tags={newsArticle.at(1).tags}
                   link={newsArticle.at(1).link} 
                   date={newsArticle.at(1).date}
+                  sentimentScore={newsArticle.at(1).sentiment_score}
                   />
                })}
          </div>

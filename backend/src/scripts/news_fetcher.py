@@ -1,11 +1,7 @@
 import requests
-import json
-import csv
 import pandas as pd
-from deep_translator import GoogleTranslator
-from textblob import TextBlob
-import os
-
+from sentiment_analysis import sentiment_analysis
+import json
 
 def news_fetcher():
     # Get URL response
@@ -14,66 +10,86 @@ def news_fetcher():
     # Store usable response data
     allArticles = response.json()['results']
 
-
-    # Store Data in json file
-    with open('data.json', 'w') as f:
-        json.dump(allArticles, f)
-        
-
-    # Convert data to csv
-    with open('data.json') as json_file:
-        data = json.load(json_file)
-        
-    data_file = open('data_file.csv', 'w')
-    csv_writer = csv.writer(data_file)
-    count = 0
-
-    for column in data:
-        if count == 0:
-            header = column.keys()
-            csv_writer.writerow(header)
-            count += 1
-        csv_writer.writerow(column.values())
-    data_file.close()
-
-
-    # Store Data in data frame
-    df = pd.read_csv('data_file.csv')
+    # Convert data to DataFrame
+    df = pd.DataFrame(allArticles)
 
     # Add sentiment score to dataframe
-    df[['sentiment_score']] = 0
+    df['sentiment_score'] = 0
 
     # Traverse DataFrame for sentiment analysis
     for index, row in df.iterrows():
         desc = row['description']
-        if isinstance(desc, float):
-            text = GoogleTranslator(source='es', target='en').translate(row['title'])
+        if pd.isna(desc):
+            text = row['title']
         else:
-            text = GoogleTranslator(source='es', target='en').translate(row['description'])
-        text = text.lower()
-        blob = TextBlob(text)
-        sentiment = blob.sentiment.polarity
-        df['sentiment_score'] = df['sentiment_score'].replace(['sentiment_score'])
-        df.at[index,'sentiment_score'] = sentiment
-    print(df)
+            text = row['description']
+        sentiment = sentiment_analysis(text.lower())
+        df.at[index, 'sentiment_score'] = sentiment
 
-    out = df.to_json(orient='records')[1:-1].replace('},{', '} {')
-    with open('news_articles.json', 'w') as f:
-        f.write(out)
+    # Convert DataFrame to array of JSON objects
+    json_array = df.to_dict(orient='records')
+    
+    return json_array
 
-def file_deleter():
-    file1 = 'data_file.csv'
-    if(os.path.exists(file1) and os.path.isfile(file1)):
-        os.remove(file1)
-        print("file deleted")
-    else:
-        print("file not found")
+def create_json_structure(json_array):
+    articles_db = {}
+    
+    for index, row in enumerate(json_array):
+        article_id = index + 1
+        keywords = row['keywords']
+        category = row['category']
+        if keywords:
+            if isinstance(keywords, list):
+                tags = keywords
+            else:
+                tags = list(set(keywords.split(',')))
+        elif category:
+            tags = category
+        else:
+            tags = []
+        # tags = list(set(keywords.split(','))) if keywords else []
+        articles_db[article_id] = {
+            "title": row['title'],
+            "imgUrl": row['image_url'],
+            "tags": tags,
+            "link": row['link'],
+            "date": row['pubDate'],
+            "sentiment_score": row['sentiment_score'],
+        }
+    
+    return articles_db
 
-    file2 = 'data.json'
-    if(os.path.exists(file2) and os.path.isfile(file2)):
-        os.remove(file2)
-        print("file deleted")
+def append_to_file(articles_db, file_name='news_articles.json'):
+    # Check if the file exists, otherwise create an empty dictionary
+    try:
+        with open(file_name, 'r') as f:
+            existing_data = json.load(f)
+    except FileNotFoundError:
+        existing_data = {}
+
+    # Append the new articles_db to the existing data
+    existing_data.update(articles_db)
+
+    existing_data = unique_ids(existing_data)
+
+    # Write the updated data back to the file
+    with open(file_name, 'w') as f:
+        json.dump(existing_data, f)
+
+def unique_ids(data):
+    # Fix duplicate keys by generating new unique ids
+    fixed_data = {}
+    seen_titles = set()
+    idx = 1
+    for item in data.values():
+        # Check if the title has not been seen before
+        if item["title"] not in seen_titles:
+            fixed_data[str(idx)] = item
+            seen_titles.add(item["title"])
+            idx += 1
+    return fixed_data
 
 
-news_fetcher()
-file_deleter()
+news_array = news_fetcher()
+articles_db = create_json_structure(news_array)
+append_to_file(articles_db)

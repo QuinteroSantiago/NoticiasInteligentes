@@ -1,12 +1,13 @@
 from fastapi import APIRouter, HTTPException, Depends
 import json
+import os
+
 router = APIRouter()
 
 @router.get("/otros")
 async def ultimo():
-    f = open('news_articles.json')
-    data = json.load(f)
-    f.close()
-    return {"name": "Gracias","projectId": "Denada"}
+    file_path = os.path.abspath('/Users/santiagoquintero/Desktop/projects/NoticiasInteligentes/backend/src/scripts/news_articles.json')  
+    with open(file_path) as f:
+        data = json.load(f)
+    return data
 
-    # Closing file
