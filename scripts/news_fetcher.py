@@ -73,22 +73,10 @@ def create_json_structure(json_array):
 
     return articles_db
 
-def append_to_file(articles_db, file_name='./scripts/news_articles.json'):
-    # Check if the file exists, otherwise create an empty dictionary
-    try:
-        with open(file_name, 'r') as f:
-            existing_data = json.load(f)
-    except FileNotFoundError:
-        existing_data = {}
-
-    # Append the new articles_db to the existing data
-    existing_data.update(articles_db)
-
-    existing_data = unique_ids(existing_data)
-
+def write_to_json_file(articles_db, file_name='./scripts/news_articles.json'):
     # Write the updated data back to the file
     with open(file_name, 'w') as f:
-        json.dump(existing_data, f)
+        json.dump(articles_db, f)
 
 def unique_ids(data):
     # Fix duplicate keys by generating new unique ids
@@ -160,7 +148,7 @@ def append_json_to_js(json_file, js_file):
 # Main process
 news_array = news_fetcher()
 articles_db = create_json_structure(news_array)
-append_to_file(articles_db)
+write_to_json_file(articles_db)
 
 json_file = './scripts/news_articles.json'
 js_file = './src/data/news_articles.js'

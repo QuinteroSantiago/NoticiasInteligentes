@@ -16,6 +16,8 @@ function NewsFeed() {
          if (filter === 'positive') return newsItem.sentiment_score >= -0.1;
          if (filter === 'negative') return newsItem.sentiment_score < 0;
          return true;
+      }).sort((a, b) => {
+         return new Date(b.date) - new Date(a.date);
       });
       setFilteredNewsData(newData);
    }, [filter]);
