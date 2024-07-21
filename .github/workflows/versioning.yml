@@ -1,0 +1,50 @@
+name: Version Management
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Generate release notes
+        id: release_notes
+        run: .github/scripts/generate_release_notes.sh
+
+      - name: Manual version bump
+        id: bump_version
+        run: .github/scripts/bump_version.sh
+
+      - name: Generate Release Description
+        id: release_description
+        run: .github/scripts/generate_release_description.sh
+
+      - name: Push changes
+        run: |
+          git push origin main --tags
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Release
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const releaseNotes = `${{ steps.release_description.outputs.description }}`;
+            const newVersion = '${{ steps.bump_version.outputs.new_version }}';
+            github.rest.repos.createRelease({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              tag_name: newVersion,
+              name: newVersion,
+              body: releaseNotes,
+              draft: false,
+              prerelease: false
+            });
