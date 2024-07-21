@@ -1,5 +1,5 @@
 export default [
-    {
+   {
       title: 'Atrae emociones positivas y ten una vida mas plena',
       imgUrl: '/assets/news_images/noticia1.webp',
       tags: ['Bienestar',],
@@ -23,7 +23,7 @@ export default [
    {
       title: 'Descubierto uno de los mayores arrecifes de coral del mundo',
       imgUrl: '/assets/news_images/noticia4.webp',
-      tags: ['Arrecifes','Océanos', 'Tahití'],
+      tags: ['Arrecifes', 'Océanos', 'Tahití'],
       link: 'https://www.sonbuenasnoticias.com/destacado/descubierto-uno-de-los-mayores-arrecifes-de-coral-del-mundo/',
       date: '1-22-2022',
    },
@@ -37,8 +37,8 @@ export default [
    {
       title: 'Marruecos: Primer país africano que llega a una semifinal del Mundial!',
       imgUrl: '/assets/news_images/noticia6.webp',
-      tags: ['Marruecos','Mundial 2022'],
+      tags: ['Marruecos', 'Mundial 2022'],
       link: 'https://www.bbc.com/mundo/noticias-63930291',
       date: '12-10-2022',
    },
-] 
+]
