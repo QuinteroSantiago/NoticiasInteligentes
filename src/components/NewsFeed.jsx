@@ -24,10 +24,25 @@ function NewsFeed() {
 
    return (
       <div className="flex flex-col items-center justify-center px-10">
-         <div className="mb-4">
-            <button onClick={() => handleFilterChange('all')} className="mx-2 px-4 py-2 bg-gray-200 rounded">Todas las noticias</button>
-            <button onClick={() => handleFilterChange('positive')} className="mx-2 px-4 py-2 bg-green-200 rounded">Noticias positivas</button>
-            <button onClick={() => handleFilterChange('negative')} className="mx-2 px-4 py-2 bg-red-200 rounded">Noticias negativas</button>
+         <div className="mb-4 sm:w-full sm:text-center">
+            <button
+               onClick={() => handleFilterChange('all')}
+               className={`mx-2 px-4 py-2 rounded ${filter === 'all' ? 'border-2 border-black bg-gray-200' : 'bg-gray-200'}`}
+            >
+               Todas las noticias
+            </button>
+            <button
+               onClick={() => handleFilterChange('positive')}
+               className={`mx-2 px-4 py-2 rounded ${filter === 'positive' ? 'border-2 border-black bg-green-200' : 'bg-green-200'}`}
+            >
+               Noticias positivas
+            </button>
+            <button
+               onClick={() => handleFilterChange('negative')}
+               className={`mx-2 px-4 py-2 rounded ${filter === 'negative' ? 'border-2 border-black bg-red-200' : 'bg-red-200'}`}
+            >
+               Noticias negativas
+            </button>
          </div>
          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
             {filteredNewsData.map((newsItem, index) => (
