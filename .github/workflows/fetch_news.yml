@@ -7,15 +7,12 @@ on:
     - cron: '0 15 * * *'  # Runs at 11 AM EDT (3 PM UTC)
     - cron: '0 18 * * *'  # Runs at 2 PM EDT (6 PM UTC)
     - cron: '0 23 * * *'  # Runs at 7 PM EDT (11 PM UTC)
-  # Uncomment below to run the action on push to main branch
-  # push:
-  #   branches:
-  #     - main
+  workflow_dispatch:
 
 jobs:
   fetch_and_update_news:
     runs-on: ubuntu-latest
-
+    if: github.ref == 'refs/heads/main'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -23,7 +20,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'  # Ensure this matches your project requirements
+          python-version: '3.9'
 
       - name: Install dependencies
         run: |
@@ -33,7 +30,7 @@ jobs:
         env:
           NEWS_DATA_API_KEY: ${{ secrets.NEWS_DATA_API_KEY }}
           STABILITY_API_KEY: ${{ secrets.STABILITY_API_KEY }}
-          API_HOST: 'https://api.stability.ai'  # Or your API host if different
+          API_HOST: 'https://api.stability.ai'
         run: python ./scripts/news_fetcher.py
 
       - name: Commit and Push Changes
