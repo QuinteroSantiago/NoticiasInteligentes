@@ -45,6 +45,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
+          git pull -r
           git config --local user.email "santiago@gomu.cloud"
           git config --local user.name "Santiago Quintero"
           git add src/data/news_articles.js public/assets/ai_generated/*
