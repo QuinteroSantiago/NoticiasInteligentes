@@ -27,7 +27,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas requests torch transformers
+          pip install pandas requests torch transformers sentencepiece
 
       - name: Fetch News and Process Data
         env:
