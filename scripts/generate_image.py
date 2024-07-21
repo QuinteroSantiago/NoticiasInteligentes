@@ -6,7 +6,9 @@ import uuid
 # Stability AI API configuration
 engine_id = "stable-diffusion-v1-6"
 api_host = os.getenv('API_HOST', 'https://api.stability.ai')
-api_key = os.getenv("STABILITY_API_KEY")
+# api_key = os.getenv("STABILITY_API_KEY")
+api_key="sk-u20jzL9T79MKLKS4H67j54cqj0qelXpuXTiEsGgGobbsESZ5"
+
 
 if api_key is None:
     raise Exception("Missing Stability API key.")
@@ -38,7 +40,7 @@ def generate_image(prompt):
 
     data = response.json()
 
-    output_dir = '../public/assets/ai_generated'
+    output_dir = './assets/ai_generated'
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -46,7 +48,8 @@ def generate_image(prompt):
     for i, image in enumerate(data["artifacts"]):
         random_string = uuid.uuid4().hex
         image_path = f"{output_dir}/v1_txt2img_{random_string}.png"
-        with open(image_path, "wb") as f:
+        image_path_public = f"./public/assets/ai_generated/v1_txt2img_{random_string}.png"
+        with open(image_path_public, "wb") as f:
             f.write(base64.b64decode(image["base64"]))
 
     return image_path
