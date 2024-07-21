@@ -8,7 +8,12 @@ import json
 
 def news_fetcher():
     # Get URL response
-    api_key = os.getenv("NEWS_DATA_API_KEY")
+    # api_key = os.getenv("NEWS_DATA_API_KEY")
+
+    api_key="pub_17093db4fdf09f370aaa223e73a151920ed1a"
+    if api_key is None:
+        raise Exception("Missing News Data IO API key.")
+
     response = requests.get(f'https://newsdata.io/api/1/news?apikey={api_key}&country=ar,mx,es,us,ve&language=es&category=top')
 
     # Store usable response data
@@ -68,7 +73,7 @@ def create_json_structure(json_array):
 
     return articles_db
 
-def append_to_file(articles_db, file_name='news_articles.json'):
+def append_to_file(articles_db, file_name='./scripts/news_articles.json'):
     # Check if the file exists, otherwise create an empty dictionary
     try:
         with open(file_name, 'r') as f:
@@ -100,8 +105,12 @@ def unique_ids(data):
 
 def append_json_to_js(json_file, js_file):
     # Read the JSON data
-    with open(json_file, 'r', encoding='utf-8') as f:
-        json_data = json.load(f)
+    try:
+        with open(json_file, 'r', encoding='utf-8') as f:
+            json_data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Error reading {json_file}: {e}")
+        json_data = {}  # Set default if file is missing or empty
 
     # Format the JSON data for the JavaScript array
     new_entries = []
@@ -116,12 +125,20 @@ def append_json_to_js(json_file, js_file):
         })
 
     # Read the existing JavaScript file
-    with open(js_file, 'r', encoding='utf-8') as f:
-        js_content = f.read()
+    try:
+        with open(js_file, 'r', encoding='utf-8') as f:
+            js_content = f.read()
+    except FileNotFoundError:
+        print(f"{js_file} not found, creating new file.")
+        js_content = "const newsData = [];"
 
     # Find the start and end of the array
     start_index = js_content.find('[')
     end_index = js_content.rfind(']')
+    if start_index == -1 or end_index == -1:
+        # Handle missing or malformed array structure
+        print("No valid array found in the JS file, resetting file structure.")
+        start_index, end_index = js_content.find('['), js_content.rfind(']')
 
     # Get the existing array content
     existing_array_content = js_content[start_index+1:end_index].strip()
@@ -145,7 +162,7 @@ news_array = news_fetcher()
 articles_db = create_json_structure(news_array)
 append_to_file(articles_db)
 
-json_file = 'news_articles.json'
-js_file = '../src/data/news_articles.js'
+json_file = './scripts/news_articles.json'
+js_file = './src/data/news_articles.js'
 
 append_json_to_js(json_file, js_file)
