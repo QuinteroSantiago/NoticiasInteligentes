@@ -1,11 +1,11 @@
 import React from 'react';
 
 function monthName(monthNumber) {
-    switch(monthNumber) {
+    switch (monthNumber) {
         case 1:
             return "Enero";
         case 2:
-            return "Febrero";        
+            return "Febrero";
         case 3:
             return "Marzo";
         case 4:
@@ -15,28 +15,28 @@ function monthName(monthNumber) {
         case 6:
             return "Junio";
         case 7:
-            return "Julio";          
+            return "Julio";
         case 8:
-            return "Agosto";         
+            return "Agosto";
         case 9:
-            return "Septiembre";         
+            return "Septiembre";
         case 10:
-            return "Octubre";         
+            return "Octubre";
         case 11:
-            return "Noviembre";         
+            return "Noviembre";
         case 12:
-            return "Diciembre";         
+            return "Diciembre";
         default:
             return "{OUT OF RANGE MONTH!!!}"
-    }      
+    }
 };
 
 function dayName(dayNumber) {
-    switch(dayNumber) {
+    switch (dayNumber) {
         case 0:
             return "Domingo";
         case 1:
-            return "Lunes";        
+            return "Lunes";
         case 2:
             return "Martes";
         case 3:
@@ -46,10 +46,10 @@ function dayName(dayNumber) {
         case 5:
             return "Viernes";
         case 6:
-            return "Sábado";          
+            return "Sábado";
         default:
             return "{OUT OF RANGE DAY!!!}"
-    }      
+    }
 };
 
 function TimeKeeper() {
@@ -64,8 +64,8 @@ function TimeKeeper() {
 
     return (
         <div className="flex items-center justify-center flex-col text-center pb-6">
-            <p className="text-lg max-w-xl mb-6"> 
-                Hoy es <i>{day}</i>, <b>{date}</b> de <b>{month}</b>, <b>{year}</b>. 
+            <p className="text-lg max-w-xl mb-6">
+                Hoy es <i>{day}</i>, <b>{date}</b> de <b>{month}</b>, <b>{year}</b>.
             </p>
         </div>
     )

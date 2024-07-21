@@ -1,0 +1,45 @@
+name: News Fetcher Workflow
+
+on:
+  schedule:
+    - cron: '0 10 * * *'  # Runs at 6 AM EDT (10 AM UTC)
+    - cron: '0 12 * * *'  # Runs at 8 AM EDT (12 PM UTC)
+    - cron: '0 15 * * *'  # Runs at 11 AM EDT (3 PM UTC)
+    - cron: '0 18 * * *'  # Runs at 2 PM EDT (6 PM UTC)
+    - cron: '0 23 * * *'  # Runs at 7 PM EDT (11 PM UTC)
+  # Uncomment below to run the action on push to main branch
+  # push:
+  #   branches:
+  #     - main
+
+jobs:
+  fetch_and_update_news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'  # Ensure this matches your project requirements
+
+      - name: Install dependencies
+        run: |
+          pip install pandas requests torch transformers
+
+      - name: Fetch News and Process Data
+        env:
+          NEWS_DATA_API_KEY: ${{ secrets.NEWS_DATA_API_KEY }}
+          STABILITY_API_KEY: ${{ secrets.STABILITY_API_KEY }}
+          API_HOST: 'https://api.stability.ai'  # Or your API host if different
+        run: python ./scripts/news_fetcher.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/data/news_articles.js public/assets/ai_generated/*
+          git commit -m "Update news articles and images" || echo "No changes to commit"
+          git push
