@@ -13,6 +13,7 @@ jobs:
   fetch_and_update_news:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -22,9 +23,18 @@ jobs:
         with:
           python-version: '3.9'
 
+      - name: Cache Python dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install dependencies
         run: |
-          pip install pandas requests torch transformers sentencepiece protobuf
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
 
       - name: Fetch News and Process Data
         env:
