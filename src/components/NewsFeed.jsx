@@ -1,19 +1,24 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import newsData from '../data/news_articles';
 import NewsItem from './NewsItem';
 
 function NewsFeed() {
-   const [filter, setFilter] = useState('all'); // State to control the filter
+   const [filter, setFilter] = useState('all');
 
    const handleFilterChange = (newFilter) => {
       setFilter(newFilter);
    };
 
-   const filteredNewsData = newsData.filter(newsItem => {
-      if (filter === 'positive') return newsItem.sentiment_score >= -0.1;
-      if (filter === 'negative') return newsItem.sentiment_score < 0;
-      return true; // 'all' or default case
-   });
+   const [filteredNewsData, setFilteredNewsData] = useState(newsData);
+
+   useEffect(() => {
+      const newData = newsData.filter(newsItem => {
+         if (filter === 'positive') return newsItem.sentiment_score >= -0.1;
+         if (filter === 'negative') return newsItem.sentiment_score < 0;
+         return true;
+      });
+      setFilteredNewsData(newData);
+   }, [filter]);
 
    return (
       <div className="flex flex-col items-center justify-center px-10">
@@ -23,9 +28,9 @@ function NewsFeed() {
             <button onClick={() => handleFilterChange('negative')} className="mx-2 px-4 py-2 bg-red-200 rounded">Noticias negativas</button>
          </div>
          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
-            {filteredNewsData.map((newsItem) => (
+            {filteredNewsData.map((newsItem, index) => (
                <NewsItem
-                  key={newsItem.link}
+                  key={`${newsItem.link}-${index}`}
                   imgUrl={newsItem.image_url}
                   title={newsItem.title}
                   tags={newsItem.tags}

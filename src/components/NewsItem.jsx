@@ -11,7 +11,6 @@ function NewsItem({ title, imgUrl, tags, link, date, sentimentScore }) {
       const calculatedScore = ((sentimentScore + 1) / 2) * 100;
       setPositivityScore(calculatedScore);
 
-      console.log('calculatedScore: ', calculatedScore)
       if (calculatedScore >= 75) {
          setTextColor('text-green-500');
       } else if (calculatedScore > 51) {
