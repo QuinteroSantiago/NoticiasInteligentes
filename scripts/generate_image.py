@@ -6,9 +6,7 @@ import uuid
 # Stability AI API configuration
 engine_id = "stable-diffusion-v1-6"
 api_host = os.getenv('API_HOST', 'https://api.stability.ai')
-# api_key = os.getenv("STABILITY_API_KEY")
-api_key="sk-u20jzL9T79MKLKS4H67j54cqj0qelXpuXTiEsGgGobbsESZ5"
-
+api_key = os.getenv("STABILITY_API_KEY")
 
 if api_key is None:
     raise Exception("Missing Stability API key.")
