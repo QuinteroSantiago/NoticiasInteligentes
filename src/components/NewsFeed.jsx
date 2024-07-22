@@ -13,7 +13,7 @@ function NewsFeed() {
 
    useEffect(() => {
       const newData = newsData.filter(newsItem => {
-         if (filter === 'positive') return newsItem.sentiment_score >= -0.1;
+         if (filter === 'positive') return newsItem.sentiment_score >= 0;
          if (filter === 'negative') return newsItem.sentiment_score < 0;
          return true;
       }).sort((a, b) => {
