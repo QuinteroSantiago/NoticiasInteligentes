@@ -1451,5 +1451,196 @@ export default [
         "link": "https://www.estrategiasdeinversion.com/actualidad/noticias/empresas/gigas-n-732517",
         "date": "2024-07-22 05:30:00",
         "sentiment_score": 0.5499342884868383
+    },
+    {
+        "title": "Recetas saludables: pollo en dos pasos, una opción fácil y nutritiva",
+        "image_url": "https://www.infobae.com/resizer/v2/43ORWTKVGBG73B7Z2MKUG2VPWM.jpg?auth=d52f5441d4966e0a08d390be9aaee6c039654c9b1a9ab9d5c555811f8baee70d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/recetas-saludables-pollo-en-dos-pasos-una-opcion-facil-y-nutritiva/",
+        "date": "2024-07-22 07:01:39",
+        "sentiment_score": 0.40333813335746527
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Ciudad de México",
+        "image_url": "https://www.infobae.com/resizer/v2/NGQFZKUY2JF3VECGWLB6UH3LDY.jpg?auth=a67e3c31226fb6a46a4935ed7eea3484a50c043b92ad71a4bee1a994d8f7e5be",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/22/prediccion-del-clima-estas-son-las-temperaturas-en-ciudad-de-mexico/",
+        "date": "2024-07-22 07:01:16",
+        "sentiment_score": -0.1714000180363655
+    },
+    {
+        "title": "El principal índice de Corea del Sur cerró a la baja este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/OJP2QUEVBVB6JCWEC7CI2UPXNM.jpg?auth=6f82883d97b0e2a78bc05f6413d7b6f2e71b87b438eec726c1bd0aad13f52137",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/el-principal-indice-de-corea-del-sur-cerro-a-la-baja-este-22-de-julio/",
+        "date": "2024-07-22 07:00:54",
+        "sentiment_score": -0.5005850754678249
+    },
+    {
+        "title": "La amenaza de Garamendi si el Gobierno aprueba la reducción de jornada sin pactar con la CEOE y el dardo a Yolanda Díaz",
+        "image_url": "https://www.infobae.com/resizer/v2/CW2RS5WSANCHDJAJDS6X5HIQKA.png?auth=d37999ec76ed4c4c0ff0d79ab991acc62217fc9faaaedf5df194d4d49ecaf5d8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/22/la-amenaza-de-garamendi-si-el-gobierno-aprueba-la-reduccion-de-jornada-sin-pactar-con-la-ceoe-y-el-dardo-a-yolanda-diaz/",
+        "date": "2024-07-22 06:52:12",
+        "sentiment_score": -0.6021383255720139
+    },
+    {
+        "title": "Captan en VIDEO el momento exacto del asesinato de Milton Morales Figueroa, comisario de la SSC-CDMX",
+        "image_url": "https://www.infobae.com/resizer/v2/NFXAD6XVIFGT5CM735HV2KXPS4.jpg?auth=1719058f8ed437ef2f0099aaf2cbe7bec01432784ea8c4b54728c0c82a555ac7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/22/captan-en-video-el-momento-exacto-del-asesinato-de-milton-morales-figueroa-comisario-de-la-ssc-cdmx/",
+        "date": "2024-07-22 06:48:47",
+        "sentiment_score": -0.3363397978246212
+    },
+    {
+        "title": "El evangelio y las lecturas: la palabra del 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/3CWL5LSLMJCELNPXYRTFSAGMJU.jpg?auth=1b690ad06b092942d55dfb5fdd87238ec1247ad5299e7b9298a05c49fd5f2320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/el-evangelio-y-las-lecturas-la-palabra-del-22-de-julio/",
+        "date": "2024-07-22 06:31:43",
+        "sentiment_score": 0.012989521026611328
+    },
+    {
+        "title": "Este es el precio de la gasolina este 22 de julio en Madrid, Barcelona y otras ciudades de España",
+        "image_url": "https://www.infobae.com/resizer/v2/QN6ZREYPHRGZFJJCGAQVXUQEHU.jpg?auth=f93e2aeefcac5ca92e4c49aee8b421d137e1566c8b67bd88ea5fcfa8b597fde7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/22/este-es-el-precio-de-la-gasolina-este-22-de-julio-en-madrid-barcelona-y-otras-ciudades-de-espana/",
+        "date": "2024-07-22 06:31:17",
+        "sentiment_score": -0.06122170388698578
+    },
+    {
+        "title": "Nikkei 225: el principal índice de Tokio cerró a la baja este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/WKV6TJJ66RFQFEZTYHZIKYDPWE.jpg?auth=60f04a2d8fd0b5b62040d900db901bebcc96d4feb3931c6d1962ce20fe3d1edf",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/nikkei-225-el-principal-indice-de-tokio-cerro-a-la-baja-este-22-de-julio/",
+        "date": "2024-07-22 06:30:52",
+        "sentiment_score": -0.3896690458059311
+    },
+    {
+        "title": "Qué santo se festeja hoy: onomásticos de este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/IQM6WEVHDFDPBITPRRMDLESHSI.jpg?auth=45be222fede90f54f5d81cf6056322f40155dd41bcafe7e496794138584d3594",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/que-santo-se-festeja-hoy-onomasticos-de-este-22-de-julio/",
+        "date": "2024-07-22 06:16:02",
+        "sentiment_score": -0.039158329367637634
+    },
+    {
+        "title": "La popular actriz de televisión Esta TerBlanche fallece a los 51 años",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/07/22/imagen-de-la-popular-actriz-esta-terblanche.png",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/internacional/2024/07/22/popular-actriz-television-esta-terblanche-fallece-1750474.html",
+        "date": "2024-07-22 07:03:41",
+        "sentiment_score": 0.08609785884618759
+    },
+    {
+        "title": "¿Es Kamala Harris ahora la candidata demócrata? Respuestas a las preguntas clave sobre la decisión de Biden de abandonar la carrera electoral",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Biden-Harris-presidencia-reeleccion.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/kamala-harris-candidata-democrata-respuestas-preguntas-decision-biden-abandonar-carrera-electoral-trax/",
+        "date": "2024-07-22 06:59:56",
+        "sentiment_score": -0.3018101453781128
+    },
+    {
+        "title": "Kamala Harris presenta su candidatura presidencial: sólo ella puede usar los 90 millones de Biden",
+        "image_url": "https://okdiario.com/img/2024/07/22/joe-biden-y-kamala-harris..jpg",
+        "tags": [
+            "kamala harris",
+            "joe biden",
+            "internacional"
+        ],
+        "link": "https://okdiario.com/internacional/kamala-harris-presenta-candidatura-presidencial-solo-puede-usar-90-millones-biden-13196532",
+        "date": "2024-07-22 06:51:00",
+        "sentiment_score": -0.10498969256877899
+    },
+    {
+        "title": "Comienza la campaña contra Kamala Harris: Donald Trump y el Partido Republicano ya preparan su artillería",
+        "image_url": "https://media.vozpopuli.com/2024/07/campana-donald-trump-j-d-vance-republicanos-1-1024x576.jpg",
+        "tags": [
+            "fox",
+            "joe biden",
+            "estados unidos",
+            "elecciones",
+            "partido demócrata",
+            "internacional",
+            "abc",
+            "demócratas",
+            "casa blanca",
+            "elecciones primarias",
+            "fox news",
+            "partido republicano",
+            "elecciones estados unidos",
+            "republicanos",
+            "debates",
+            "debates electorales",
+            "cnn"
+        ],
+        "link": "https://www.vozpopuli.com/internacional/campana-contra-kamala-harris-donald-trump-partido-republicano.html",
+        "date": "2024-07-22 06:50:56",
+        "sentiment_score": -0.07475581765174866
+    },
+    {
+        "title": "Una muerte por el virus Nipah pone en alerta a los funcionarios sanitarios del sur de la India",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/virus-nipah.webp",
+        "tags": [
+            "india",
+            "virus"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/muerte-por-virus-nipah-alerta-funcionarios-sanitarios-sur-india-reux/",
+        "date": "2024-07-22 06:49:59",
+        "sentiment_score": -0.6622987277805805
+    },
+    {
+        "title": "Lo que sabemos cuatro días después de que una actualización de software dejara fuera de servicio los sistemas informáticos de todo el mundo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/apagon-informatico-aeropuerto-Atlanta-e1721626003332.jpg?quality=100&strip=info",
+        "tags": [
+            "aviación"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/lo-que-sabemos-apagon-actualizacion-software-sistemas-informaticos-vuelos-aeropuertos-trax/",
+        "date": "2024-07-22 06:31:22",
+        "sentiment_score": -0.8270456846803427
+    },
+    {
+        "title": "Joe Biden se retira de la contienda para las Elecciones de 2024",
+        "image_url": "https://cdn.benzinga.com/files/imagecache/story_image_685x375C/images/story/2024/07/21/Vilnius--Lithuania--12th-July-2023--Joe-.jpeg",
+        "tags": [
+            "elecciones 2024",
+            "debate presidencial",
+            "joe biden",
+            "partido demócrata",
+            "economía",
+            "panorama político",
+            "cnn",
+            "noticias de ee.uu.",
+            "noticias de última hora",
+            "política de ee.uu.",
+            "renuncia presidencial",
+            "política internacional"
+        ],
+        "link": "https://es.benzinga.com/noticias/joe-biden-se-retira-contienda-elecciones-2024/",
+        "date": "2024-07-22 06:30:12",
+        "sentiment_score": -0.11251261830329895
     }
 ];
