@@ -7,19 +7,24 @@ import os
 import json
 
 def news_fetcher():
-    # Get URL response
     api_key = os.getenv("NEWS_DATA_API_KEY")
-
     if api_key is None:
         raise Exception("Missing News Data IO API key.")
 
-    response = requests.get(f'https://newsdata.io/api/1/news?apikey={api_key}&country=ar,mx,es,us,ve&language=es&category=top')
+    sources = ["infobae", "cnn", "miami", "elpais.com/us/"]
+    all_articles = []
 
-    # Store usable response data
-    allArticles = response.json()['results']
+    # Fetch data from all sources
+    for source in sources:
+        response = requests.get(f'https://newsdata.io/api/1/news?apikey={api_key}&q={source}&country=es,us,ve&language=es&category=business,health,technology,top,world')
+        print(f'Response {source}: {response}')
+        if response.status_code == 200:
+            all_articles.extend(response.json().get('results', []))
+
+    print(f'all_articles: {all_articles}')
 
     # Convert data to DataFrame
-    df = pd.DataFrame(allArticles)
+    df = pd.DataFrame(all_articles)
 
     # Add sentiment score to dataframe
     df['sentiment_score'] = 0.0
@@ -34,10 +39,7 @@ def news_fetcher():
         sentiment = sentiment_analysis(text.lower())
         df.at[index, 'sentiment_score'] = float(sentiment)
 
-    # Convert DataFrame to array of JSON objects
-    json_array = df.to_dict(orient='records')
-
-    return json_array
+    return df.to_dict(orient='records')
 
 def create_json_structure(json_array):
     articles_db = {}
