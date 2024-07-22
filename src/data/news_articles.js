@@ -2116,5 +2116,147 @@ export default [
         "link": "https://2001online.com/nacionales/elecciones-claudio-fermin-promete-descentralizacion-y-la-reforma-del-estado-video/",
         "date": "2024-07-21 14:00:00",
         "sentiment_score": 0.07906453311443329
+    },
+    {
+        "title": "VÍDEO: Albares rechaza el boicot a la presidencia húngara y apela a la \"unidad y solidaridad\" de la UE",
+        "image_url": "https://www.infobae.com/resizer/v2/72JLCST3YFALBLZX6RY2SSMMIY.jpg?auth=b72b68978230567faf396025599c644875449edbde0030de7851b325f7bb452c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/video-albares-rechaza-el-boicot-a-la-presidencia-hungara-y-apela-a-la-unidad-y-solidaridad-de-la-ue/",
+        "date": "2024-07-22 10:03:48",
+        "sentiment_score": -0.5725681483745575
+    },
+    {
+        "title": "Kiev agradece el apoyo de Biden en medio del temor a la 'paz exprés' que propone Trump",
+        "image_url": "https://www.infobae.com/resizer/v2/OKLZCMU5A5C3NHMBXEDZAGYLEY.jpg?auth=e7293c16745da1ca0d973be453436761db5da41dbfbf2008c367d01f493bc73d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/kiev-agradece-el-apoyo-de-biden-en-medio-del-temor-a-la-paz-expres-que-propone-trump/",
+        "date": "2024-07-22 10:01:28",
+        "sentiment_score": -0.49579256772994995
+    },
+    {
+        "title": "El Ejército y la Policía de Uganda rodean la sede del partido del opositor Bobi Wine",
+        "image_url": "./assets/ai_generated/v1_txt2img_9d8b9080748b442dae62d6ca44a1f1c2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-ejercito-y-la-policia-de-uganda-rodean-la-sede-del-partido-del-opositor-bobi-wine/",
+        "date": "2024-07-22 10:00:55",
+        "sentiment_score": -0.5384231470525265
+    },
+    {
+        "title": "Nacho Fernández será homenajeado y despedido el miércoles 24 de julio",
+        "image_url": "./assets/ai_generated/v1_txt2img_cc7a811e1f7a4a81831dee35061f6179.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/nacho-fernandez-sera-homenajeado-y-despedido-el-miercoles-24-de-julio/",
+        "date": "2024-07-22 10:00:38",
+        "sentiment_score": -0.1373821422457695
+    },
+    {
+        "title": "El Kremlin valora positivamente las palabras de Zelenski sobre las negociaciones con Rusia",
+        "image_url": "./assets/ai_generated/v1_txt2img_e4244d911e6b4abaa3430454e0f47105.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-kremlin-valora-positivamente-las-palabras-de-zelenski-sobre-las-negociaciones-con-rusia/",
+        "date": "2024-07-22 10:00:21",
+        "sentiment_score": 0.7483449541032314
+    },
+    {
+        "title": "Cómo es el nuevo método para la extracción de oro en residuos electrónicos de forma sostenible",
+        "image_url": "https://www.infobae.com/resizer/v2/467DZW2YHRHHVFKIS4NHSQVE2M.jpg?auth=ff54ce3e9e0fc07e79b0c07d53b36b74a3683a23120f6dd55b9669bb2dc29685",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/ciencia-america/2024/07/22/como-es-el-nuevo-metodo-para-la-extraccion-de-oro-en-residuos-electronicos-de-forma-sostenible/",
+        "date": "2024-07-22 09:59:00",
+        "sentiment_score": 0.20310980454087257
+    },
+    {
+        "title": "El curioso pueblo galés que cuenta con un destacado restaurante y una leyenda aterradora",
+        "image_url": "https://www.infobae.com/resizer/v2/TVIFJ3A2RFCBJFI32QAHCRLDG4.jpg?auth=c887167d3354b6bf2dd10074fe10e895d7499e55a46a5f58d19138bbd16c5086",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2024/07/22/el-curioso-pueblo-gales-que-cuenta-con-un-destacado-restaurante-y-una-leyenda-aterradora/",
+        "date": "2024-07-22 09:56:00",
+        "sentiment_score": 0.18542302027344704
+    },
+    {
+        "title": "La actualización defectuosa de CrowdStrike afectó a menos del 1% de los dispositivos Windows, según Microsoft",
+        "image_url": "https://www.infobae.com/resizer/v2/RV26VYA5WZDFJJU7KBZ7WAOSTY.jpg?auth=9ba259361b1dc7502a927c63c5725555d47ae662871e9acef914cf786fa11425",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/la-actualizacion-defectuosa-de-crowdstrike-afecto-a-menos-del-1-de-los-dispositivos-windows-segun-microsoft/",
+        "date": "2024-07-22 09:48:08",
+        "sentiment_score": -0.8167097736150026
+    },
+    {
+        "title": "La UE prorroga otros seis meses las sanciones económicas contra Rusia por la invasión de Ucrania",
+        "image_url": "https://www.infobae.com/resizer/v2/YFKJIXQQO5FJ5MRPLMGNJCXFKI.jpg?auth=f113fbb307dab4cade99acf110e36dd63fd6804bb9b74b138761d4c9d880f886",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/la-ue-prorroga-otros-seis-meses-las-sanciones-economicas-contra-rusia-por-la-invasion-de-ucrania/",
+        "date": "2024-07-22 09:47:50",
+        "sentiment_score": -0.8292668182402849
+    },
+    {
+        "title": "Más de 60.000 personas de 18 países asistieron a las dos citas del Gozo Festival en Santiago",
+        "image_url": "https://www.infobae.com/resizer/v2/7YVJN4HFMJE6ZFRVTMNQA3PUAM.jpg?auth=c307bbf1af551c2727769e30bec8113613eee9624e687f7a852ff7af293268d1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/mas-de-60000-personas-de-18-paises-asistieron-a-las-dos-citas-del-gozo-festival-en-santiago/",
+        "date": "2024-07-22 09:47:32",
+        "sentiment_score": 0.11302932724356651
+    },
+    {
+        "title": "Las 5 cosas que debes saber este 22 de julio: ¿Por qué se retiró Biden?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ap24192650157484-e1720677302675.webp",
+        "tags": [
+            "5 cosas",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/5-cosas-22-julio-retiro-biden-candidatura-orix/",
+        "date": "2024-07-22 09:58:26",
+        "sentiment_score": -0.20481321588158607
+    },
+    {
+        "title": "Qué esperar de las elecciones presidenciales de Venezuela, la mayor prueba para Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161027636.webp",
+        "tags": [
+            "nicolás maduro",
+            "elecciones venezuela",
+            "venezuela",
+            "edmundo gonzález urrutia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/esperar-eleccione-venezuela-prueba-maduro-trax/",
+        "date": "2024-07-22 09:38:47",
+        "sentiment_score": 0.1625126302242279
+    },
+    {
+        "title": "Madre e hija venezolanas murieron en la selva del Darién (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Venezolanas-1024x532.jpg",
+        "tags": [
+            "2001online",
+            "estados unidos",
+            "onu",
+            "darién",
+            "venezolanas",
+            "migración",
+            "panamá",
+            "migrantes venezolanos",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/migracion/madre-e-hija-venezolanas-murieron-en-la-selva-del-darien-detalles/",
+        "date": "2024-07-22 09:48:58",
+        "sentiment_score": -0.8652364034205675
     }
 ];
