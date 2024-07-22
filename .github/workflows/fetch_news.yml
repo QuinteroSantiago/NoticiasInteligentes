@@ -43,6 +43,7 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
+    needs: fetch_and_update_news
     timeout-minutes: 5
     steps:
       - name: Checkout repository
