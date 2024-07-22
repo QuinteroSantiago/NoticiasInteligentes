@@ -8,9 +8,8 @@ import json
 
 def news_fetcher():
     # Get URL response
-    # api_key = os.getenv("NEWS_DATA_API_KEY")
+    api_key = os.getenv("NEWS_DATA_API_KEY")
 
-    api_key="pub_17093db4fdf09f370aaa223e73a151920ed1a"
     if api_key is None:
         raise Exception("Missing News Data IO API key.")
 
