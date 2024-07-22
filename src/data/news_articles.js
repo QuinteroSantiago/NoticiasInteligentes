@@ -1815,5 +1815,306 @@ export default [
         "link": "https://www.eleconomista.es/actualidad/noticias/12919328/07/24/kamala-harris-presenta-su-candidatura-a-la-presidencia-de-eeuu-formalmente-ante-la-comision-federal-electoral.html",
         "date": "2024-07-22 07:21:13",
         "sentiment_score": 0.19510095566511154
+    },
+    {
+        "title": "FundéuRAE: “fórmula” o “papeleta”, mejor que “ticket (presidencial)”",
+        "image_url": "./assets/ai_generated/v1_txt2img_489f802c22ce45f8814e2123f8154f13.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/fundeurae-formula-o-papeleta-mejor-que-ticket-presidencial/",
+        "date": "2024-07-22 09:19:08",
+        "sentiment_score": -0.0012197345495224
+    },
+    {
+        "title": "Borrell pide mantener apoyo de la UE a Ucrania sin esperar al resultado electoral en EEUU tras la retirada de Biden",
+        "image_url": "https://www.infobae.com/resizer/v2/VCDLSTM6WVBE5OE42GIVQY7R5Y.jpg?auth=e33f5fa98e76c7829bcc9e5f539329ea251ce3c4043355b0cd45ab32f9612bb9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/borrell-pide-mantener-apoyo-de-la-ue-a-ucrania-sin-esperar-al-resultado-electoral-en-eeuu-tras-la-retirada-de-biden/",
+        "date": "2024-07-22 09:18:25",
+        "sentiment_score": -0.35106150805950165
+    },
+    {
+        "title": "Vivendi elige Londres para la posible cotización de Canal+ y Ámsterdam para la de Havas",
+        "image_url": "https://www.infobae.com/resizer/v2/6WYKG67OLFBVJGSTLN6ZSDZHMI.jpg?auth=092914b3cfed086fae43e7312beb61d1c02611346d0a593f7686a93f590b5d0a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/vivendi-elige-londres-para-la-posible-cotizacion-de-canal-y-amsterdam-para-la-de-havas/",
+        "date": "2024-07-22 09:18:07",
+        "sentiment_score": 0.09536731988191605
+    },
+    {
+        "title": "El Real Madrid recupera el naranja en la segunda equipación para la temporada 2024-2025",
+        "image_url": "https://www.infobae.com/resizer/v2/K3UFJXTTBVCGDIJN2KRJGNONO4.jpg?auth=317cd2f4169381c29fc692bab7f543737ccbdb084fe1d71be32828973327e318",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-real-madrid-recupera-el-naranja-en-la-segunda-equipacion-para-la-temporada-2024-2025/",
+        "date": "2024-07-22 09:17:49",
+        "sentiment_score": 0.4468070790171623
+    },
+    {
+        "title": "La app Mensajes de Samsung dejará de llegar preinstalada en los nuevos dispositivos",
+        "image_url": "https://www.infobae.com/resizer/v2/54QDR3LP7NCXDEIAZQJM66O4RI.jpg?auth=51f66937678b98dcc32b938cc2610a18ebf3ec8ca19f6bd5513c6a9d7761f1dd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/la-app-mensajes-de-samsung-dejara-de-llegar-preinstalada-en-los-nuevos-dispositivos/",
+        "date": "2024-07-22 09:17:30",
+        "sentiment_score": -0.5483092293143272
+    },
+    {
+        "title": "Fracasa otro intento de Gobierno en Bulgaria, que se encamina hacia nuevas elecciones",
+        "image_url": "./assets/ai_generated/v1_txt2img_c6d8520877ba43e0862ec51c2182e18e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/fracasa-otro-intento-de-gobierno-en-bulgaria-que-se-encamina-hacia-nuevas-elecciones/",
+        "date": "2024-07-22 09:16:09",
+        "sentiment_score": 0.047596365213394165
+    },
+    {
+        "title": "Cómo es la “isla en el cielo”, el curioso bosque de África que fue hallado hace apenas 20 años",
+        "image_url": "https://www.infobae.com/resizer/v2/W2464QS5QVEHTOFTN3PIRLY72M.jpg?auth=9946e55dcd227cdcf81cc02b74848d652853905d3504a7fbb6d36214ca3186d3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2024/07/22/como-es-la-isla-en-el-cielo-el-curioso-bosque-de-africa-que-fue-hallado-hace-apenas-20-anos/",
+        "date": "2024-07-22 09:16:00",
+        "sentiment_score": 0.1526438295841217
+    },
+    {
+        "title": "El déficit de la eurozona bajó al 3,2 % hasta marzo, pero la deuda subió al 88,7 %",
+        "image_url": "./assets/ai_generated/v1_txt2img_816d2102c1ce4851a326e7097bd274c7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-deficit-de-la-eurozona-bajo-al-32-hasta-marzo-pero-la-deuda-subio-al-887/",
+        "date": "2024-07-22 09:15:52",
+        "sentiment_score": -0.3173006698489189
+    },
+    {
+        "title": "España avanza primera operación de Europa para que pacientes tetrapléjicos respiren solos",
+        "image_url": "./assets/ai_generated/v1_txt2img_a89e8ced61044eb7949b384a15274ac2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/espana-avanza-primera-operacion-de-europa-para-que-pacientes-tetraplejicos-respiren-solos/",
+        "date": "2024-07-22 09:15:35",
+        "sentiment_score": 0.21943532675504684
+    },
+    {
+        "title": "Un juez cita a Pedro Sánchez como testigo en una investigación sobre su esposa",
+        "image_url": "./assets/ai_generated/v1_txt2img_f398faa3bd214e2dae5383deab3d0f29.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/un-juez-cita-a-pedro-sanchez-como-testigo-en-una-investigacion-sobre-su-esposa/",
+        "date": "2024-07-22 09:15:18",
+        "sentiment_score": -0.1740834340453148
+    },
+    {
+        "title": "Una aviadora de la Armada consigue la primera victoria aire-aire de una mujer piloto de un caza estadounidense",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Mujer-piloto-US-Navy-fighter-e1721636661855.jpeg?quality=100&strip=info",
+        "tags": [
+            "piloto",
+            "mujer",
+            "defensa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/aviadora-armada-primera-victoria-aire-aire-caza-estadounidense-trax/",
+        "date": "2024-07-22 08:40:21",
+        "sentiment_score": -0.5161532163619995
+    },
+    {
+        "title": "La reacción de Obama a la decisión de Biden de apoyar a Harris y no buscar la reelección",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ccfeb235-985d-48dc-ab06-794f17991872-e1721609236424.jpg?quality=100&strip=info",
+        "tags": [
+            "política",
+            "barack obama",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/21/la-reaccion-de-obama-renuncia-biden-reeleccion-trax/",
+        "date": "2024-07-22 00:48:57",
+        "sentiment_score": -0.3991922214627266
+    },
+    {
+        "title": "¿Qué pasará con los casi US$ 96 millones en efectivo recolectados por la campaña de Biden?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/kamala-harris-democartas-biden.jpg?quality=100&strip=info",
+        "tags": [
+            "joe biden",
+            "elecciones en estados unidos",
+            "kamala harris",
+            "elecciones estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/21/que-pasara-con-us-96-millones-efectivo-campana-biden-harris-trax/",
+        "date": "2024-07-22 00:31:48",
+        "sentiment_score": -0.07391399517655373
+    },
+    {
+        "title": "Las rondas de la semana: Café de Finca, Nearby Computing, Widhoc...",
+        "image_url": "https://forbes.es/wp-content/uploads/2024/07/acuerdo-cerrado-dar-la-mano.jpg",
+        "tags": [
+            "empresas",
+            "quatt",
+            "rondas de financiación",
+            "integra therapeutics",
+            "nearby computing",
+            "ronda de financiación",
+            "carwow",
+            "café de finca",
+            "widhoc"
+        ],
+        "link": "https://forbes.es/empresas/492437/las-rondas-de-la-semana-cafe-de-finca-nearby-computing-widhoc/",
+        "date": "2024-07-22 08:51:56",
+        "sentiment_score": 0.05481751263141632
+    },
+    {
+        "title": "Pronóstico del estado del tiempo: las temperaturas que se esperan en Miami este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/XBZ2BHCHLJD2ZFTVQJ25M6CKTM.jpg?auth=9b6c99d3a88848d8f6682f5725ab80f71610c63e178744d0a5e9682498a80ddd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/pronostico-del-estado-del-tiempo-las-temperaturas-que-se-esperan-en-miami-este-22-de-julio/",
+        "date": "2024-07-22 08:16:25",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "CNE distribuyó el 100% de las máquinas electorales (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/9-5.jpg",
+        "tags": [
+            "cne",
+            "nacionales",
+            "elecciones presidenciales en venezuela",
+            "máquinas electorales"
+        ],
+        "link": "https://2001online.com/nacionales/cne-distribuyo-el-100-de-las-maquinas-electorales-detalles/",
+        "date": "2024-07-22 04:08:14",
+        "sentiment_score": 0.08946847170591354
+    },
+    {
+        "title": "Barack Obama: De nuestro partido surgirá un candidato extraordinario",
+        "image_url": "https://2001online.com/wp-content/uploads/2022/03/Barack-Obama.jpeg",
+        "tags": [
+            "obama",
+            "eeuu",
+            "biden",
+            "barck obama",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/barack-obama-de-nuestro-partido-surgira-un-candidato-extraordinario/",
+        "date": "2024-07-22 03:50:00",
+        "sentiment_score": 0.04216219484806061
+    },
+    {
+        "title": "Donald Trump: Joe Biden nunca debió ser presidente de EEUU",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/8-3.jpg",
+        "tags": [
+            "eeuu",
+            "elecciones en eeuu",
+            "joe biden",
+            "donald trump",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/donald-trump-joe-biden-nunca-debio-ser-presidente-de-eeuu/",
+        "date": "2024-07-22 03:46:09",
+        "sentiment_score": -0.31668516248464584
+    },
+    {
+        "title": "MP designa fiscal para investigar ataque contra diputado Inacio Da Costa",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/02-2.jpg",
+        "tags": [
+            "nacionales",
+            "ministerio público",
+            "inacio da costa",
+            "tarek william saab"
+        ],
+        "link": "https://2001online.com/nacionales/mp-designa-fiscal-para-investigar-ataque-contra-diputado-inacio-da-costa/",
+        "date": "2024-07-22 03:32:11",
+        "sentiment_score": -0.2681715488433838
+    },
+    {
+        "title": "Sepa cómo será el cronograma de distribución de gasolina del 22 al 28 de julio",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/8-4.jpg",
+        "tags": [
+            "servicios",
+            "gasolina subsidiada",
+            "distribución de gasolina",
+            "cronograma de istribución de gasolina"
+        ],
+        "link": "https://2001online.com/servicios/sepa-como-sera-el-cronograma-de-distribucion-de-gasolina-del-22-al-28-de-julio/",
+        "date": "2024-07-22 03:30:00",
+        "sentiment_score": 0.10296378284692764
+    },
+    {
+        "title": "Edward Snowden explica el por qué de \"nunca confiar\" en OpenAI ni en ChatGPT",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/descarga-2024-07-20T233244.974.jpeg",
+        "tags": [
+            "ia",
+            "openai",
+            "chatgpt",
+            "curiosidades",
+            "edward snowden"
+        ],
+        "link": "https://2001online.com/curiosidades/edward-snowden-explica-el-por-que-de-nunca-confiar-en-openai-ni-en-chatgpt/",
+        "date": "2024-07-22 03:30:00",
+        "sentiment_score": -0.6164901256561279
+    },
+    {
+        "title": "Edmundo González: Es hora de que Venezuela consiga la reconciliación",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/6-5-1280x720.jpeg",
+        "tags": [
+            "nacionales",
+            "elecciones presidenciales en venezuela",
+            "maría corina machado",
+            "edmundo gonzález"
+        ],
+        "link": "https://2001online.com/nacionales/edmundo-gonzalez-es-hora-de-que-venezuela-consiga-la-reconciliacion/",
+        "date": "2024-07-22 03:15:04",
+        "sentiment_score": -0.12217281758785248
+    },
+    {
+        "title": "Así puede registrarse en Emprender Juntos para recibir créditos bancarios (+Pasos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/5-6.jpg",
+        "tags": [
+            "emprendedores",
+            "servicios",
+            "emprender juntos",
+            "créditos bancarios"
+        ],
+        "link": "https://2001online.com/servicios/asi-puede-registrarse-en-emprender-juntos-para-recibir-creditos-bancarios-pasos/",
+        "date": "2024-07-22 02:03:12",
+        "sentiment_score": 0.47701190412044525
+    },
+    {
+        "title": "Maduro reacciona a la renuncia de Biden a la reelección presidencial",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/GTC0-gIW8AAroii-1280x720.jpeg",
+        "tags": [
+            "nacionales",
+            "joe biden",
+            "elecciones en eeuu",
+            "nicolás maduro"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-reacciona-a-la-renuncia-de-biden-a-la-reeleccion-presidencial/",
+        "date": "2024-07-22 00:01:37",
+        "sentiment_score": -0.1972312033176422
+    },
+    {
+        "title": "Elecciones | Claudio Fermín promete descentralización y la Reforma del Estado (+VIDEO)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Claudio-Fermin-I-1024x689.jpg",
+        "tags": [
+            "venezuela",
+            "claudio fermín",
+            "presidenciales",
+            "nacionales",
+            "elecciones",
+            "2001online",
+            "elecciones 28 julio"
+        ],
+        "link": "https://2001online.com/nacionales/elecciones-claudio-fermin-promete-descentralizacion-y-la-reforma-del-estado-video/",
+        "date": "2024-07-21 14:00:00",
+        "sentiment_score": 0.07906453311443329
     }
 ];
