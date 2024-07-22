@@ -2258,5 +2258,145 @@ export default [
         "link": "https://2001online.com/migracion/madre-e-hija-venezolanas-murieron-en-la-selva-del-darien-detalles/",
         "date": "2024-07-22 09:48:58",
         "sentiment_score": -0.8652364034205675
+    },
+    {
+        "title": "Tribunal Supremo ruso confirma la condena de 19 años del fallecido Navalni",
+        "image_url": "./assets/ai_generated/v1_txt2img_8da7c796d5dc4bc0a42ffc514916391e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/tribunal-supremo-ruso-confirma-la-condena-de-19-anos-del-fallecido-navalni/",
+        "date": "2024-07-22 11:15:48",
+        "sentiment_score": -0.4222406968474388
+    },
+    {
+        "title": "El Kremlin condena la decisión de Francia de no permitir a periodistas rusos cubrir JJOO",
+        "image_url": "./assets/ai_generated/v1_txt2img_ccc13a7f73e24974a2c8c31c32a6a31b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-kremlin-condena-la-decision-de-francia-de-no-permitir-a-periodistas-rusos-cubrir-jjoo/",
+        "date": "2024-07-22 11:15:31",
+        "sentiment_score": -0.9121068613603711
+    },
+    {
+        "title": "El Gobierno confía en que el PP \"como mínimo se abstenga\" y permita tramitar la Ley de Extranjería",
+        "image_url": "https://www.infobae.com/resizer/v2/ZSPZFW6EBZGEXOAF7I5SH6HQ3U.jpg?auth=e3cd827de526a9cdf2dedaaf0174ac7ffdff793959cb0da020a6338b2edaaac4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-gobierno-confia-en-que-el-pp-como-minimo-se-abstenga-y-permita-tramitar-la-ley-de-extranjeria/",
+        "date": "2024-07-22 11:04:26",
+        "sentiment_score": 0.2690083831548691
+    },
+    {
+        "title": "El Ibex se impulsa un 0,75% en la media sesión y mira de nuevo a los 11.200 enteros",
+        "image_url": "https://www.infobae.com/resizer/v2/G3765OCLB5EZFKESZGS3NP3GQU.jpg?auth=6a73aee322743fc32e9493f11b0a6950a5e68d2a7e26d289408b607ee94fc3b7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-ibex-se-impulsa-un-075-en-la-media-sesion-y-mira-de-nuevo-a-los-11200-enteros/",
+        "date": "2024-07-22 11:04:08",
+        "sentiment_score": 0.19078020006418228
+    },
+    {
+        "title": "Turquía acusa Katz de \"intentar esconder los crímenes israelíes\" con \"mentiras y difamaciones\"",
+        "image_url": "https://www.infobae.com/resizer/v2/T4ZVQMLO3BAHXJFPPZMNL3IGFI.jpg?auth=fc68e51521cbaa5b6358658812bf9897b2eefa883842f2b3f0602271edeba2c9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/turquia-acusa-katz-de-intentar-esconder-los-crimenes-israelies-con-mentiras-y-difamaciones/",
+        "date": "2024-07-22 11:03:50",
+        "sentiment_score": -0.8737826840952039
+    },
+    {
+        "title": "La deuda de la eurozona repuntó al 88,7% del PIB en el primer trimestre y el déficit bajó al 3,2%",
+        "image_url": "https://www.infobae.com/resizer/v2/NTZ3P6YF2JHW5CAPZCYTVDMQPE.jpg?auth=06a26aa80c74326f049708a61f98aaec1f62cca9c074a11f90893b3d719e5ff7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/la-deuda-de-la-eurozona-repunto-al-887-del-pib-en-el-primer-trimestre-y-el-deficit-bajo-al-32/",
+        "date": "2024-07-22 11:03:32",
+        "sentiment_score": -0.2768898606300354
+    },
+    {
+        "title": "Lunes, 22 de julio de 2024 (11:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_dcc2f8dfda6d4fd0819d8078b3184f39.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/lunes-22-de-julio-de-2024-1100-gmt/",
+        "date": "2024-07-22 11:01:10",
+        "sentiment_score": -0.011781293898820877
+    },
+    {
+        "title": "Bruselas recuerda a los operadores de transporte cuáles son los derechos de los pasajeros",
+        "image_url": "./assets/ai_generated/v1_txt2img_b447a09cf07c492ba98225a0eeb9d5f9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/bruselas-recuerda-a-los-operadores-de-transporte-cuales-son-los-derechos-de-los-pasajeros/",
+        "date": "2024-07-22 11:00:53",
+        "sentiment_score": 0.07953451573848724
+    },
+    {
+        "title": "Meloni agradece a Costa un liderazgo \"compartido y pragmático\" del Consejo Europeo",
+        "image_url": "./assets/ai_generated/v1_txt2img_c80f7184f3254ca3b1bd5f09e798a593.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/meloni-agradece-a-costa-un-liderazgo-compartido-y-pragmatico-del-consejo-europeo/",
+        "date": "2024-07-22 11:00:37",
+        "sentiment_score": 0.6464919894933701
+    },
+    {
+        "title": "Los muertos en la Franja de Gaza superan los 39.000 en casi diez meses de guerra",
+        "image_url": "./assets/ai_generated/v1_txt2img_e7370e6f1848494abc4fec3a84520f72.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/los-muertos-en-la-franja-de-gaza-superan-los-39000-en-casi-diez-meses-de-guerra/",
+        "date": "2024-07-22 11:00:19",
+        "sentiment_score": -0.6781166549772024
+    },
+    {
+        "title": "Protesta masiva en la isla española de Mallorca para pedir \"límites al turismo\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2020/07/mallorca-GettyImages-1227805983-e1596072182486.jpg?quality=100&strip=info",
+        "tags": [
+            "europa",
+            "turismo",
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/protesta-masiva-en-la-isla-espanola-de-mallorca-para-pedir-limites-al-turismo-trax/",
+        "date": "2024-07-22 10:15:40",
+        "sentiment_score": -0.6711144335567951
+    },
+    {
+        "title": "El polémico análisis de una figura de la selección de Colombia tras el triunfo de Argentina en la Copa América: “Tuvieron suerte”",
+        "image_url": "https://www.infobae.com/resizer/v2/4M6H6MEPZIJK2J2YRNRGEK5MCE.jpg?auth=54a7423ccc5144a37e24967e2e6a22ccbb73aa4c6627b80245057ffc5b21a0a3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/07/22/el-polemico-analisis-de-una-figura-de-la-seleccion-de-colombia-tras-el-triunfo-de-argentina-en-la-copa-america-tuvieron-suerte/",
+        "date": "2024-07-22 10:52:10",
+        "sentiment_score": -0.08400623127818108
+    },
+    {
+        "title": "Detenido sexagenario por abuso sexual contra cuatro niñas en La Guaira",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/abuso-sexual-3-1280x720.jpg",
+        "tags": [
+            "2001online",
+            "la guaira",
+            "policía de la guaira",
+            "seguridad ciudadana",
+            "bri",
+            "detenido",
+            "abuso sexual",
+            "vergas",
+            "sucesos"
+        ],
+        "link": "https://2001online.com/sucesos/detenido-sexagenario-por-abuso-sexual-contra-cuatro-ninas-en-la-guaira/",
+        "date": "2024-07-22 10:16:50",
+        "sentiment_score": -0.738149231299758
     }
 ];
