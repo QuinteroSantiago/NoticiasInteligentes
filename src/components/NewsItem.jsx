@@ -2,22 +2,22 @@ import { useState, useEffect } from 'react';
 
 function NewsItem({ title, imgUrl, tags, link, date, sentimentScore }) {
    const [imageUrl, setImageUrl] = useState('/assets/placeholder-for-na.png');
-   const [positivityScore, setPositivityScore] = useState(50); // Default at neutral (50)
+   const [sentimentPercentage, setSentimentPercentage] = useState(50); // Default at neutral (50)
    const [textColor, setTextColor] = useState('text-black'); // Default text color
 
    useEffect(() => {
 
       // Calculate positivity score from sentimentScore and update text color
-      const calculatedScore = ((sentimentScore + 1) / 2) * 100;
-      setPositivityScore(calculatedScore);
+      const calculatedScore = sentimentScore * 100;
+      setSentimentPercentage(calculatedScore);
 
-      if (calculatedScore >= 75) {
+      if (calculatedScore >= 50) {
          setTextColor('text-green-500');
-      } else if (calculatedScore > 51) {
+      } else if (calculatedScore > 0.1) {
          setTextColor('text-green-200');
-      } else if (calculatedScore > 49) {
+      } else if (calculatedScore > -0.1) {
          setTextColor('text-white');
-      } else if (calculatedScore >= 25) {
+      } else if (calculatedScore >= -50) {
          setTextColor('text-red-200');
       } else {
          setTextColor('text-red-500');
@@ -48,7 +48,7 @@ function NewsItem({ title, imgUrl, tags, link, date, sentimentScore }) {
                {date}
             </p>
             <p className={`absolute bottom-2 left-2 text-lg font-bold bg-stone-700 opacity-90 rounded-lg px-2 py-1 ${textColor}`}>
-               {`${positivityScore.toFixed(0)}% Positivo`}
+               {`${Math.abs(sentimentPercentage).toFixed(0)}% ${sentimentPercentage < 0 ? 'Negativo' : 'Positivo'}`}
             </p>
          </div>
          <div className="p-2">
