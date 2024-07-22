@@ -45,9 +45,11 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
+          git stash
           git pull -r
+          git stash pop
           git config --local user.email "santiago@gomu.cloud"
           git config --local user.name "Santiago Quintero"
-          git add src/data/news_articles.js public/assets/ai_generated/*
+          git add .
           git commit -m "Update news articles and images" || echo "No changes to commit"
           git push
