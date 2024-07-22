@@ -11,7 +11,7 @@ def news_fetcher():
     if api_key is None:
         raise Exception("Missing News Data IO API key.")
 
-    sources = ["infobae", "cnn", "miami", "elpais.com/us/"]
+    sources = ["www.infobae.com/america/", "cnnespanol.cnn.com", "miami", "elpais.com/us/"]
     all_articles = []
 
     # Fetch data from all sources
@@ -20,6 +20,9 @@ def news_fetcher():
         print(f'Response {source}: {response}')
         if response.status_code == 200:
             all_articles.extend(response.json().get('results', []))
+    response = requests.get(f'https://newsdata.io/api/1/news?apikey={api_key}&q=2001online.com&country=ve&language=es&category=top')
+    print(f'Response 2001online.com: {response}')
+    all_articles.extend(response.json().get('results', []))
 
     print(f'all_articles: {all_articles}')
 
