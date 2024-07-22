@@ -13,7 +13,7 @@ if api_key is None:
     raise Exception("Missing Stability API key.")
 
 def generate_image(prompt):
-    prompt = GoogleTranslator(source='auto', target='en').translate(prompt) 
+    prompt = GoogleTranslator(source='auto', target='en').translate(prompt)
     response = requests.post(
         f"{api_host}/v1/generation/{engine_id}/text-to-image",
         headers={
