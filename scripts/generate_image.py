@@ -2,6 +2,7 @@ import base64
 import os
 import requests
 import uuid
+from deep_translator import GoogleTranslator
 
 # Stability AI API configuration
 engine_id = "stable-diffusion-v1-6"
@@ -12,6 +13,7 @@ if api_key is None:
     raise Exception("Missing Stability API key.")
 
 def generate_image(prompt):
+    prompt = GoogleTranslator(source='auto', target='en').translate(prompt) 
     response = requests.post(
         f"{api_host}/v1/generation/{engine_id}/text-to-image",
         headers={
