@@ -1,4 +1,5 @@
 import json
+import re
 
 js_file = './src/data/news_articles.js'
 
@@ -9,6 +10,10 @@ with open(js_file, 'r', encoding='utf-8') as file:
 # Remove the 'export default ' prefix from the content
 if content.startswith('export default '):
     content = content[len('export default '):]
+
+# Remove the trailing '];' to make it a valid JSON
+if content.endswith('];'):
+    content = content[:-2] + ']'
 
 # Try parsing the JSON data
 try:
@@ -32,18 +37,26 @@ except json.JSONDecodeError as e:
     print(content[line_start:line_end])
     exit(1)
 
-# Remove duplicates by converting each dictionary to a string with sorted keys
+# Function to normalize title and date
+def normalize_item(item):
+    normalized_title = item['title'].strip().lower()
+    normalized_date = item['date'].strip()
+    return (normalized_title, normalized_date)
+
+# Remove duplicates by using a set to track seen titles and sentiment_scores
 seen = set()
 new_data = []
 for item in json_data:
-    item_str = json.dumps(item, sort_keys=True)
-    if item_str not in seen:
+    identifier = normalize_item(item)
+    if identifier not in seen:
         new_data.append(item)
-        seen.add(item_str)
+        seen.add(identifier)
 
 # Convert the cleaned list back to JSON
-cleaned_json = json.dumps(new_data, indent=4)
+cleaned_json = json.dumps(new_data, indent=4, ensure_ascii=False)
 
 # Write the cleaned JSON back to the JavaScript file with UTF-8 encoding
 with open(js_file, 'w', encoding='utf-8') as file:
     file.write(f'export default {cleaned_json};')
+
+print("Duplicates removed and file updated successfully!")
