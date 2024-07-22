@@ -1642,5 +1642,178 @@ export default [
         "link": "https://es.benzinga.com/noticias/joe-biden-se-retira-contienda-elecciones-2024/",
         "date": "2024-07-22 06:30:12",
         "sentiment_score": -0.11251261830329895
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Puebla de Zaragoza?",
+        "image_url": "https://www.infobae.com/resizer/v2/QXH3EP3RPZGBROLE56CHQ5Y4M4.jpg?auth=e68720ad190f2951d210f0bf39b2a8c2405febcde3dd6cb4507366f2f2a0b9fb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/22/cual-es-la-temperatura-promedio-en-puebla-de-zaragoza/",
+        "date": "2024-07-22 08:00:57",
+        "sentiment_score": 0.07421069592237473
+    },
+    {
+        "title": "Clima en Cancún: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/Y75QPZHPGFFW3FPDEXK7OSNINM.jpg?auth=c46d4c97a7c4d46853b19daeb08d19965529f3cfee2ea4113d01264d030fa515",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/22/clima-en-cancun-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2024-07-22 07:46:21",
+        "sentiment_score": 0.6286973133683205
+    },
+    {
+        "title": "Pamela López presume arreglos florales de remitente desconocido tras separación con Christian Cueva",
+        "image_url": "https://www.infobae.com/resizer/v2/OXG3CLXCKZF23GAQMDFURARWTA.jpg?auth=f7201f05cad548dcf71f3d28769a64faca6b2fa4d0f79d95c5b997a545d53801",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/07/22/pamela-lopez-presume-arreglos-florales-de-remitente-desconocido-tras-separacion-con-christian-cueva/",
+        "date": "2024-07-22 07:37:55",
+        "sentiment_score": 0.11182577908039093
+    },
+    {
+        "title": "ATX comienza la jornada al alza este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/77VCCJ4PFBG3JPFUFLTTLMQC5U.jpg?auth=3c64258524743a5869f8ea78028c5f76bc35837c13eecd1fd1273425a373885a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/atx-comienza-la-jornada-al-alza-este-22-de-julio/",
+        "date": "2024-07-22 07:32:58",
+        "sentiment_score": 0.8082789443433285
+    },
+    {
+        "title": "BEL-20 INDEX se mueve en terreno verde durante inicio de la sesión de este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/CNTK2G5LPNAJZE2D2O36FJQW3A.jpg?auth=9afbd48b11d1fd012e40f434a7634c2c0d0ebf82fc578720317f0cc87518aced",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/bel-20-index-se-mueve-en-terreno-verde-durante-inicio-de-la-sesion-de-este-22-de-julio/",
+        "date": "2024-07-22 07:32:40",
+        "sentiment_score": 0.06851798295974731
+    },
+    {
+        "title": "Acciones italianas van al alza durante arranque de la sesión de este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/BIJLGR3YPFCMFLBTUVYE6CTEHM.jpg?auth=ce766d135309c814829bf6ab7e4f3af14445a5ede09f9753370a64864a4c7583",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/acciones-italianas-van-al-alza-durante-arranque-de-la-sesion-de-este-22-de-julio/",
+        "date": "2024-07-22 07:32:23",
+        "sentiment_score": 0.786242738366127
+    },
+    {
+        "title": "OMX Stockholm 30 comienza operaciones al alza este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/ZB3IJAAWF5CYXJQ4TW3QYWYAJU.jpg?auth=f168bfe57512a5107a54b6bfd33381d0af2feb453766590145e6458b3bd28ed7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/omx-stockholm-30-comienza-operaciones-al-alza-este-22-de-julio/",
+        "date": "2024-07-22 07:32:05",
+        "sentiment_score": 0.2560604065656662
+    },
+    {
+        "title": "Acciones suizas se disparan al alza tras arranque de la jornada de este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/GOIOQPRUHFCGNPXDDLQRSCHVKI.jpg?auth=51493f9e6cc5f1314fd1184c0fd6a242786e1043f3d3e4c8767279a41d49fcf7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/acciones-suizas-se-disparan-al-alza-tras-arranque-de-la-jornada-de-este-22-de-julio/",
+        "date": "2024-07-22 07:31:47",
+        "sentiment_score": 0.6827420815825462
+    },
+    {
+        "title": "AEX registra ganancias de 0,28% durante arranque de la jornada este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/C73EBPDPPVBMLAWXENZQUOF7PM.jpg?auth=6861d29a6c3488ef43ea8ee0e3531c777315e9810d783900f62a46044cd56e8b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/aex-registra-ganancias-de-028-durante-arranque-de-la-jornada-este-22-de-julio/",
+        "date": "2024-07-22 07:31:30",
+        "sentiment_score": 0.3764384649693966
+    },
+    {
+        "title": "Euro Stoxx 50 va a la alza durante inicio de la jornada este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/7ERENI2H2JA3NPKP2VDVXLI5MI.jpg?auth=81d2e05630f7f4ee3f0946f21917b4fcefd6a130241e7460200324a317fddd4f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/22/euro-stoxx-50-va-a-la-alza-durante-inicio-de-la-jornada-este-22-de-julio/",
+        "date": "2024-07-22 07:31:12",
+        "sentiment_score": 0.14416999742388725
+    },
+    {
+        "title": "Esta pareja construyó una casa en Tailandia después de que el huracán Harvey inundara su propiedad en Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/1-Jim-y-Som-Dolan-Huracan-Harvey-Tailandia-e1721633864499.jpeg?quality=100&strip=info",
+        "tags": [
+            "tailandia",
+            "historia",
+            "asia",
+            "historias humanas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/pareja-eeuu-tailandia-huracan-harvey-nuevo-hogar-trax/",
+        "date": "2024-07-22 08:08:02",
+        "sentiment_score": -0.31797904521226883
+    },
+    {
+        "title": "La maquinaria Harris arranca a mil: recauda 47 millones para su campaña en siete horas",
+        "image_url": "https://img.huffingtonpost.es/files/image_720_480/uploads/2024/07/22/kamala-harris-en-la-noche-del-2-de-noviembre-de-2020-tras-conocer-su-victoria-en-las-elecciones-en-d-ca-addresses-supporters-at-a-drive-in-election-eve-rally-on-november-2-2020-in-philadelphia-pennsylvania-democratic-presidential-nominee-joe-bid.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/la-maquinaria-harris-arranca-mil-recauda-47-millones-campana-siete-horasbr.html",
+        "date": "2024-07-22 07:53:13",
+        "sentiment_score": 0.39016086608171463
+    },
+    {
+        "title": "Kamala Harris recibe importantes apoyos a su candidatura, mientras otros permanecen en silencio",
+        "image_url": "http://www.publico.es//uploads/2024/07/22/669e0c4dc0470.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "http://www.publico.es/internacional/kamala-harris-recibe-importantes-apoyos-candidatura-otros-permanecen-silencio.html",
+        "date": "2024-07-22 07:49:00",
+        "sentiment_score": 0.03349539637565613
+    },
+    {
+        "title": "El fallo de CrowdStrike afectó a menos del 1% de los equipos Windows que hay en el mundo, pero fue suficiente para desatar el caos",
+        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/07/pasajeros-haciendo-cola-mostradores-aeropuerto-internacional-hong-kong-caida-sistema-informatico-interrumpio-operaciones-aerolineas-3781637.jpg?tf=1200x",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.businessinsider.es/fallo-crowdstrike-afecto-menos-1-equipos-windows-hay-mundo-pero-fue-suficiente-desatar-caos-1396726",
+        "date": "2024-07-22 07:40:27",
+        "sentiment_score": -0.8465784369036555
+    },
+    {
+        "title": "Europa reintroduce el servicio militar obligatorio ante la amenaza de Rusia",
+        "image_url": "https://global-assets.benzinga.com/es/2024/07/22015109/war-469503_1920.jpg",
+        "tags": [
+            "otan",
+            "política de defensa",
+            "seguridad internacional",
+            "estrategia militar",
+            "conflicto rusia-ucrania",
+            "amenaza rusa",
+            "europa",
+            "geopolítica",
+            "servicio militar obligatorio",
+            "noticias mundiales",
+            "defensa europea"
+        ],
+        "link": "https://es.benzinga.com/global/europa-reintroduce-servicio-militar-obligatorio/",
+        "date": "2024-07-22 07:21:42",
+        "sentiment_score": -0.3154340088367462
+    },
+    {
+        "title": "Kamala Harris presenta su candidatura a la Presidencia de EEUU formalmente ante la Comisión Federal Electoral",
+        "image_url": "https://s10.s3c.es/imag/_v0/4000x2183/2/9/4/1200x655_EuropaPress_6101895_july_2024_washington_district_of_columbia_usa_united_states_vice_president.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/12919328/07/24/kamala-harris-presenta-su-candidatura-a-la-presidencia-de-eeuu-formalmente-ante-la-comision-federal-electoral.html",
+        "date": "2024-07-22 07:21:13",
+        "sentiment_score": 0.19510095566511154
     }
 ];
