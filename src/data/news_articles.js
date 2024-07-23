@@ -3225,5 +3225,141 @@ export default [
         "link": "https://2001online.com/nacionales/cuando-se-desplegara-el-plan-republica-de-cara-a-las-elecciones-presidenciales/",
         "date": "2024-07-23 00:26:19",
         "sentiment_score": -0.003825262188911438
+    },
+    {
+        "title": "Biden vuelve este martes a la Casa Blanca tras recuperarse \"casi por completo\" de los síntomas de COVID-19",
+        "image_url": "https://www.infobae.com/resizer/v2/MLOO654QG5ADBKHTSRZQULPSNM.jpg?auth=55dfa28253aa94254c6603bd3a05057abc8a64f7486fa15518c5ec79c8fa48b6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/biden-vuelve-este-martes-a-la-casa-blanca-tras-recuperarse-casi-por-completo-de-los-sintomas-de-covid-19/",
+        "date": "2024-07-23 02:17:15",
+        "sentiment_score": -0.024129271507263184
+    },
+    {
+        "title": "Kamala Harris alcanza el apoyo de suficientes delegados para garantizar su nominación",
+        "image_url": "./assets/ai_generated/v1_txt2img_54d31888b845427287e3c41fc1f66a75.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/kamala-harris-alcanza-el-apoyo-de-suficientes-delegados-para-garantizar-su-nominacion/",
+        "date": "2024-07-23 02:17:09",
+        "sentiment_score": 0.5088844746351242
+    },
+    {
+        "title": "Assange se recupera tras su liberación con sus hijos y esposa en una playa de Australia",
+        "image_url": "https://www.infobae.com/resizer/v2/QSFISLXV3NC7XEVSMN6QDXD2L4.jpg?auth=679d0c2341fe0672ef4b888357fe0257c523376b520634b96f28506d5fd77ab4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/assange-se-recupera-tras-su-liberacion-con-sus-hijos-y-esposa-en-una-playa-de-australia/",
+        "date": "2024-07-23 02:16:58",
+        "sentiment_score": -0.030053317546844482
+    },
+    {
+        "title": "Cuatro presos se fugan de un centro de salud en Ecuador al irrumpir un grupo armado",
+        "image_url": "./assets/ai_generated/v1_txt2img_778de97df9d84db792fb5dad6a694d16.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/cuatro-presos-se-fugan-de-un-centro-de-salud-en-ecuador-al-irrumpir-un-grupo-armado/",
+        "date": "2024-07-23 02:16:10",
+        "sentiment_score": -0.8492687400430441
+    },
+    {
+        "title": "Al grito de 'no más olé', Petro sanciona la ley que prohíbe corridas de toros en Colombia",
+        "image_url": "./assets/ai_generated/v1_txt2img_6efb83ddecc54de9851830a32a06b5bc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/al-grito-de-no-mas-ole-petro-sanciona-la-ley-que-prohibe-corridas-de-toros-en-colombia/",
+        "date": "2024-07-23 02:15:53",
+        "sentiment_score": -0.33428576588630676
+    },
+    {
+        "title": "Encuentran un taller de jade de 3.400 años en las enigmáticas ruinas chinas de Sanxingdui",
+        "image_url": "./assets/ai_generated/v1_txt2img_e8c2f62976da4999bf365ae4f820708a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/encuentran-un-taller-de-jade-de-3400-anos-en-las-enigmaticas-ruinas-chinas-de-sanxingdui/",
+        "date": "2024-07-23 02:15:36",
+        "sentiment_score": -0.7160971648991108
+    },
+    {
+        "title": "Una pareja que intentaba cruzar el Atlántico fue encontrada muerta en Canadá",
+        "image_url": "https://www.infobae.com/resizer/v2/AWIYTNTLW5FA3AQ2CY6QAYY23E.png?auth=c1697acbe9d676c56fb14ac41193b71c2312d5049729099599dbf756c4155b68",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/the-new-york-times/2024/07/23/una-pareja-que-intentaba-cruzar-el-atlantico-fue-encontrada-muerta-en-canada/",
+        "date": "2024-07-23 02:15:18",
+        "sentiment_score": -0.015234917402267456
+    },
+    {
+        "title": "Estados Unidos aportará otros 60 millones de dólares y vehículos blindados para Haití",
+        "image_url": "https://www.infobae.com/resizer/v2/PHHBPGNYNFGWXFKLJ2GVSSSP7I.jpg?auth=8e1a6b588a039bf8d24408b6800476e46968e09bf9f41757fca8fffa7367fea0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/estados-unidos-aportara-otros-60-millones-de-dolares-y-vehiculos-blindados-para-haiti/",
+        "date": "2024-07-23 02:01:32",
+        "sentiment_score": 0.1797713190317154
+    },
+    {
+        "title": "Taiwán emite una alerta marítima y suspende actividades por la llegada del tifón Gaemi",
+        "image_url": "./assets/ai_generated/v1_txt2img_62a5af0208f24953980b62c9f08ddf40.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/taiwan-emite-una-alerta-maritima-y-suspende-actividades-por-la-llegada-del-tifon-gaemi/",
+        "date": "2024-07-23 02:00:53",
+        "sentiment_score": -0.8911251332610846
+    },
+    {
+        "title": "Médicos y universitarios colombianos lloran muerte de colega residente víctima de matoneo",
+        "image_url": "./assets/ai_generated/v1_txt2img_a9866a836a404928b0c85505c55160c9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/medicos-y-universitarios-colombianos-lloran-muerte-de-colega-residente-victima-de-matoneo/",
+        "date": "2024-07-23 02:00:36",
+        "sentiment_score": -0.8493520263582468
+    },
+    {
+        "title": "Marina Calabró y Rolando Barbano habrían pasado la noche juntos: el sorpresivo detalle que los delató",
+        "image_url": "https://www.infobae.com/resizer/v2/RFPGJGXUTBC3BONR4IIIIO427E.jpg?auth=dd3622d1a55b6520a923df927138045b6d062d016ba3d0d1a1947d27abd61580",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2024/07/23/marina-calabro-y-rolando-barbano-habrian-pasado-la-noche-juntos-el-sorpresivo-detalle-que-los-delato/",
+        "date": "2024-07-23 02:12:30",
+        "sentiment_score": 0.14088252186775208
+    },
+    {
+        "title": "Emiten orden de captura contra responsables del intento de homicidio del diputado Da Costa",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/MP.jpg",
+        "tags": [
+            "intento de asesinato",
+            "diputado opositor inacio da costa.",
+            "nacionales",
+            "militantes de vente venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/emiten-orden-captura-responsables-intento-homicidio-diputado-da-costa/",
+        "date": "2024-07-23 01:57:25",
+        "sentiment_score": -0.5730314739048481
+    },
+    {
+        "title": "Conozca cómo será el proceso de votación para venezolanos en Chile el #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/11955606_j-7iIC7-EaoHLXvYqwH5R-_5P8C21oXDqCooz73Z-Zw.jpg",
+        "tags": [
+            "chile",
+            "embajada de venezuela",
+            "nacionales",
+            "elecciones 28 julio"
+        ],
+        "link": "https://2001online.com/nacionales/conozca-como-sera-el-proceso-de-votacion-para-venezolanos-en-chile-el-28jul/",
+        "date": "2024-07-23 01:23:04",
+        "sentiment_score": 0.11632504314184189
     }
 ];
