@@ -4056,5 +4056,195 @@ export default [
         "link": "https://www.infobae.com/venezuela/2024/07/23/la-diaspora-venezolana-se-organiza-para-participar-en-la-eleccion-presidencial-del-28j-pese-a-no-votar/",
         "date": "2024-07-23 07:14:16",
         "sentiment_score": 0.08686503767967224
+    },
+    {
+        "title": "Cómo fue pasar un año en una base de la NASA que simulaba estar en Marte",
+        "image_url": "https://www.infobae.com/resizer/v2/NUWCCRL4ZZGDRJ4MHYYGYOH224.jpg?auth=8c3b1c2699a68d6cd263ba91fbda2292abaa8dad7168ff4a3f4c545414baecb1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/ciencia-america/2024/07/23/como-fue-pasar-un-ano-en-una-base-de-la-nasa-que-simulaba-estar-en-marte/",
+        "date": "2024-07-23 09:21:00",
+        "sentiment_score": 0.05253962427377701
+    },
+    {
+        "title": "El Gobierno cesa a Isabel García como directora del Instituto de las Mujeres tras el caso de contratos de puntos violeta",
+        "image_url": "https://www.infobae.com/resizer/v2/PCORQR6FXNF2HIBUATL4CWKJVQ.jpg?auth=2ea49573824ea9d8cc4281bd78d98df8d1fadde02ef646f871ee40abafe17153",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/el-gobierno-cesa-a-isabel-garcia-como-directora-del-instituto-de-las-mujeres-tras-el-caso-de-contratos-de-puntos-violeta/",
+        "date": "2024-07-23 09:17:53",
+        "sentiment_score": -0.6896615270525217
+    },
+    {
+        "title": "Kristen Michal, el paciente e \"inevitable\" nuevo primer ministro estonio",
+        "image_url": "https://www.infobae.com/resizer/v2/TVH4PLMWR5FUPMMT5L7MUFJTCI.jpg?auth=a4699e5d285b684b9daf7230d1feb07d4b8b9f1b176c712e28d92021151ae36f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/kristen-michal-el-paciente-e-inevitable-nuevo-primer-ministro-estonio/",
+        "date": "2024-07-23 09:17:52",
+        "sentiment_score": -0.6872709840536118
+    },
+    {
+        "title": "Llueve ceniza sobre Catania y alrededores por la intensa actividad del volcán Etna",
+        "image_url": "https://www.infobae.com/resizer/v2/4EIBWZRIN5E23GVH45S5YDP53U.jpg?auth=932e8fa2f7e68ac7ec54235a699b0d361caa3d2fe8342b233a1e1e2bf91455e2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/llueve-ceniza-sobre-catania-y-alrededores-por-la-intensa-actividad-del-volcan-etna/",
+        "date": "2024-07-23 09:17:38",
+        "sentiment_score": -0.7028915286064148
+    },
+    {
+        "title": "La Federación Mexicana de Fútbol anuncia a Javier Aguirre como nuevo seleccionador hasta 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/XF5GX3OTNVH5FON4K4QNKVSFJE.jpg?auth=43d5aa9ce2796a7d28ebfb3cc6969aa9b2610d27f678ca5523121b60b10bf793",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/la-federacion-mexicana-de-futbol-anuncia-a-javier-aguirre-como-nuevo-seleccionador-hasta-2026/",
+        "date": "2024-07-23 09:17:35",
+        "sentiment_score": 0.22395699843764305
+    },
+    {
+        "title": "OTAN anuncia el nombramiento del español Javier Colomina como su representante para el sur",
+        "image_url": "./assets/ai_generated/v1_txt2img_5f10fc41c1184d108d6af6ab1be33ceb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/otan-anuncia-el-nombramiento-del-espanol-javier-colomina-como-su-representante-para-el-sur/",
+        "date": "2024-07-23 09:17:24",
+        "sentiment_score": 0.207734152674675
+    },
+    {
+        "title": "Japón impone sanciones a cuatro colonos israelíes por actos de violencia contra palestinos en Cisjordania",
+        "image_url": "https://www.infobae.com/resizer/v2/WBEEQPSPSBDNTCR3BNJUHHJUTI.jpg?auth=e2ebf2b5ab97d3d616e0f8002a586397ab388b19533da05922a96a4e847d727f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/japon-impone-sanciones-a-cuatro-colonos-israelies-por-actos-de-violencia-contra-palestinos-en-cisjordania/",
+        "date": "2024-07-23 09:17:17",
+        "sentiment_score": -0.8817589115351439
+    },
+    {
+        "title": "Al menos siete palestinos muertos en distintas redadas israelíes en Cisjordania",
+        "image_url": "./assets/ai_generated/v1_txt2img_c7a7a6b5a6f046b9a7cce8872d47e8a4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/al-menos-siete-palestinos-muertos-en-distintas-redadas-israelies-en-cisjordania/",
+        "date": "2024-07-23 09:17:07",
+        "sentiment_score": -0.812048053368926
+    },
+    {
+        "title": "TikTok lanzará su servicio de compras integrado en España este año, según Bloomberg",
+        "image_url": "./assets/ai_generated/v1_txt2img_b3d54225d0f14ff5bc5ef824cc134047.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/tiktok-lanzara-su-servicio-de-compras-integrado-en-espana-este-ano-segun-bloomberg/",
+        "date": "2024-07-23 09:16:50",
+        "sentiment_score": 0.2330202627927065
+    },
+    {
+        "title": "Alemania presentará candidatura para los Juegos Olímpicos de 2040",
+        "image_url": "./assets/ai_generated/v1_txt2img_f393b21c01b945a1bdf49b65c364fdce.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/alemania-presentara-candidatura-para-los-juegos-olimpicos-de-2040/",
+        "date": "2024-07-23 09:16:11",
+        "sentiment_score": 0.14929357171058655
+    },
+    {
+        "title": "JD Vance indicó repetidamente en 2016 que creía que Donald Trump había cometido agresiones sexuales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/JD-Vance-VP-Trump-e1721724652874.jpg?quality=100&strip=info",
+        "tags": [
+            "j. d. vance",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/jd-vance-indico-donald-trump-cometio-agresiones-sexuales-trax/",
+        "date": "2024-07-23 09:07:17",
+        "sentiment_score": -0.656043067574501
+    },
+    {
+        "title": "La startup israelí de ciberseguridad Wiz finaliza las negociaciones con Google por un acuerdo de 23.000 millones de dólares",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/wiz.webp",
+        "tags": [
+            "wiz",
+            "google",
+            "tecnología"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/ciberseguridad-wiz-finaliza-negociaciones-google-acuerdo-23-000-millones-dolares-trax/",
+        "date": "2024-07-23 09:02:06",
+        "sentiment_score": 0.22667071223258972
+    },
+    {
+        "title": "Policía de Illinois difunde el video del tiroteo mortal contra una mujer negra en su domicilio por parte de un ayudante del sheriff",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/xsonya-massey-from-ben-crump-s-office-20240722185306640.jpg?quality=100&strip=info",
+        "tags": [
+            "crimen",
+            "cámara corporal",
+            "illinois",
+            "brutalidad policial"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/sonya-massey-policia-illinois-video-tiroteo-mortal-mujer-negra-ayudante-sheriff-trax/",
+        "date": "2024-07-23 08:32:15",
+        "sentiment_score": -0.7111389469355345
+    },
+    {
+        "title": "Un juez de Missouri anula la condena por asesinato de un hombre encarcelado durante más de 30 años",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Misouri-e1721721711591.jpg?quality=100&strip=info",
+        "tags": [
+            "condena",
+            "missouri",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/juez-missouri-anula-condena-asesinato-hombre-encarcelado-mas-30-anos-ap/",
+        "date": "2024-07-23 08:23:48",
+        "sentiment_score": -0.6283306051045656
+    },
+    {
+        "title": "Exclusiva: Beyoncé autoriza a Kamala Harris a utilizar su canción 'Freedom' para su campaña presidencial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-Harris-Beyonce-cancion-Freedom-campana.jpeg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "beyoncé",
+            "celebridades"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/beyonce-autoriza-kamala-harris-utilizar-cancion-freedom-campana-presidencial-trax/",
+        "date": "2024-07-23 08:17:25",
+        "sentiment_score": 0.5998074598610401
+    },
+    {
+        "title": "Empresa española de restauración Udon abrirá en Ecuador y México a partir de septiembre",
+        "image_url": "./assets/ai_generated/v1_txt2img_6e537a1036b244b1b65b8da78555dec8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/empresa-espanola-de-restauracion-udon-abrira-en-ecuador-y-mexico-a-partir-de-septiembre/",
+        "date": "2024-07-23 09:15:54",
+        "sentiment_score": 0.07569663599133492
+    },
+    {
+        "title": "Empresa de restauración Udon prepara aperturas en Ecuador y México a partir de septiembre",
+        "image_url": "./assets/ai_generated/v1_txt2img_dae353f9472549339d20cdcb460c5fc0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/23/empresa-de-restauracion-udon-prepara-aperturas-en-ecuador-y-mexico-a-partir-de-septiembre/",
+        "date": "2024-07-23 08:48:42",
+        "sentiment_score": 0.15859552845358849
+    },
+    {
+        "title": "Clima hoy en EEUU: temperaturas para Miami este 23 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/FSDR727FLJFIPN2ZRLIRPFI7BY.jpg?auth=4269c17c93852275b10be8974dd6dd1403203b006f1a96d738ab3363912fbe36",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/23/clima-hoy-en-eeuu-temperaturas-para-miami-este-23-de-julio/",
+        "date": "2024-07-23 08:16:38",
+        "sentiment_score": -0.0541306734085083
     }
 ];
