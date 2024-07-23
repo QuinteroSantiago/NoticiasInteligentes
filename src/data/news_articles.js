@@ -3907,5 +3907,154 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2024/07/23/grandes-duelos-alcaraz-y-sinner-y-nadal-y-djokovic/",
         "date": "2024-07-23 06:16:55",
         "sentiment_score": 0.4222877770662308
+    },
+    {
+        "title": "Mueren cinco palestinos, entre ellos dos comandantes de grupos armados, en un bombardeo de Israel en Tulkarem",
+        "image_url": "https://www.infobae.com/resizer/v2/KL4WF7PAGRFVFHXEAPREA6GKLM.jpg?auth=abc9f70a650529f2273e9c16208d89709581b68482cd7c5549d7e3351e3d5983",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/mueren-cinco-palestinos-entre-ellos-dos-comandantes-de-grupos-armados-en-un-bombardeo-de-israel-en-tulkarem/",
+        "date": "2024-07-23 08:02:45",
+        "sentiment_score": -0.7933156304061413
+    },
+    {
+        "title": "Muere una persona en un ataque con drones contra un ferri en un puerto en la región rusa de Krasnodar",
+        "image_url": "https://www.infobae.com/resizer/v2/3HOGPE47BJCCVE7ZYRWP62XUKQ.jpg?auth=edc83c1ea0c2f82d2d0410cc2c4faa095b8ca82f750f7670eb157ccfbde7b7d4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/muere-una-persona-en-un-ataque-con-drones-contra-un-ferri-en-un-puerto-en-la-region-rusa-de-krasnodar/",
+        "date": "2024-07-23 08:02:32",
+        "sentiment_score": -0.7875509597361088
+    },
+    {
+        "title": "Martes, 23 de julio de 2024 (08:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_8a3e7ebb59ee4b65ac24bcfee3f776f7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/martes-23-de-julio-de-2024-0800-gmt/",
+        "date": "2024-07-23 08:00:37",
+        "sentiment_score": -0.008823864161968231
+    },
+    {
+        "title": "Organizaciones humanitarias piden a Bangladés rendir cuentas por muertes de estudiantes",
+        "image_url": "./assets/ai_generated/v1_txt2img_66cc929fbfc746feb33f19d2946b8e2a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/organizaciones-humanitarias-piden-a-banglades-rendir-cuentas-por-muertes-de-estudiantes/",
+        "date": "2024-07-23 08:00:20",
+        "sentiment_score": -0.735464496538043
+    },
+    {
+        "title": "El suspiro de Fabiola Martínez al enterarse de que Gabriela Guillén prepara sus memorias: \"Ay, Dios mío\"",
+        "image_url": "https://www.infobae.com/resizer/v2/AA4GNIZGKBB43LFTOFE3TM7UBQ.jpg?auth=f923696f8c44a5500b4849a762ccaa6e44c344a373706db573bab4ef2c4eec8f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/el-suspiro-de-fabiola-martinez-al-enterarse-de-que-gabriela-guillen-prepara-sus-memorias-ay-dios-mio/",
+        "date": "2024-07-23 08:00:16",
+        "sentiment_score": 0.03548461198806763
+    },
+    {
+        "title": "Hungría dice que corte de tránsito de crudo ruso por Ucrania es una \"amenaza fundamental\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_692fb20f535a44c882e713ef0f20c9bb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/hungria-dice-que-corte-de-transito-de-crudo-ruso-por-ucrania-es-una-amenaza-fundamental/",
+        "date": "2024-07-23 07:48:06",
+        "sentiment_score": -0.8122754655778408
+    },
+    {
+        "title": "Tres encarcelados en Francia por una tentativa de asesinato yihadista por un expresidiario",
+        "image_url": "./assets/ai_generated/v1_txt2img_a66ba5beb3064c3caed139cceb565232.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/tres-encarcelados-en-francia-por-una-tentativa-de-asesinato-yihadista-por-un-expresidiario/",
+        "date": "2024-07-23 07:46:10",
+        "sentiment_score": -0.8328407872468233
+    },
+    {
+        "title": "Martes, 23 de julio de 2024 (07.30 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_cbc768914dda4649966787c7ca7f9cfc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/martes-23-de-julio-de-2024-0730-gmt/",
+        "date": "2024-07-23 07:45:53",
+        "sentiment_score": 0.0010634362697601318
+    },
+    {
+        "title": "Al menos tres palestinos muertos en distintas redadas israelíes en Cisjordania",
+        "image_url": "./assets/ai_generated/v1_txt2img_75efd79cbdb841d6ad768ccfb8affe7f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/al-menos-tres-palestinos-muertos-en-distintas-redadas-israelies-en-cisjordania/",
+        "date": "2024-07-23 07:45:37",
+        "sentiment_score": -0.8132140655070543
+    },
+    {
+        "title": "Naturgy mantiene ganancias a junio, con 1.043 millones, y adelanta unos objetivos récord para 2024",
+        "image_url": "https://www.infobae.com/resizer/v2/QYFYWZFVNFB3XPRPUX3Q4ZAPGU.jpg?auth=350f1177c4a53ee386a0900861f0645c897e0b0d660d4f41b6293f85c91c871a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/naturgy-mantiene-ganancias-a-junio-con-1043-millones-y-adelanta-unos-objetivos-record-para-2024/",
+        "date": "2024-07-23 07:32:37",
+        "sentiment_score": 0.78384143486619
+    },
+    {
+        "title": "ANÁLISIS | Harris tiene un comienzo soñado, pero la tarea por delante es monumental",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-3.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones 2024",
+            "joe biden",
+            "elecciones estados unidos",
+            "partido demócrata",
+            "análisis",
+            "convención nacional demócrata",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/kamala-harris-desafios-por-delante-analisis-trax/",
+        "date": "2024-07-23 07:44:11",
+        "sentiment_score": -0.47075704485177994
+    },
+    {
+        "title": "Hamas y Fatah firman un acuerdo en Beijing para “poner fin” a su división, según medios estatales chinos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Beijing-e1721718544774.jpg?quality=100&strip=info",
+        "tags": [
+            "estado palestino",
+            "hamas",
+            "medio oriente",
+            "china"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/hamas-fatah-facciones-palestinas-china-trax/",
+        "date": "2024-07-23 07:37:50",
+        "sentiment_score": 0.08980387449264526
+    },
+    {
+        "title": "Un ex desarrollador de Rockstar asegura que GTA VI no será muy diferente a GTA V",
+        "image_url": "https://cdn.alfabetajuega.com/alfabetajuega/2024/07/gta-vi-contorno.1721721111.2108.jpg?width=1200%26aspect_ratio%3D1200%3A631",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.mundodeportivo.com/alfabeta/rockstar/un-ex-desarrollador-de-rockstar-asegura-que-gta-vi-no-sera-muy-diferente-a-gta-v",
+        "date": "2024-07-23 07:52:06",
+        "sentiment_score": 0.01040467619895935
+    },
+    {
+        "title": "La diáspora venezolana se organiza para participar en la elección presidencial del 28J pese a no votar",
+        "image_url": "https://www.infobae.com/resizer/v2/2Y4K5PXTDJDMXPBVWRUQFOXUGU.jpg?auth=bb488e883e0d5724c986306caeb0d5864a2f2413336feaa1eb6e092f58a81af7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/venezuela/2024/07/23/la-diaspora-venezolana-se-organiza-para-participar-en-la-eleccion-presidencial-del-28j-pese-a-no-votar/",
+        "date": "2024-07-23 07:14:16",
+        "sentiment_score": 0.08686503767967224
     }
 ];
