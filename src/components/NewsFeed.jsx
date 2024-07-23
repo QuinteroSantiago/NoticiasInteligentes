@@ -29,7 +29,11 @@ function NewsFeed() {
             filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
             break;
          case 'alphabetical':
-            filteredData.sort((a, b) => a.title.localeCompare(b.title));
+            filteredData.sort((a, b) => {
+               const titleA = a.title.replace(/^[^A-Za-z]+/, '');
+               const titleB = b.title.replace(/^[^A-Za-z]+/, '');
+               return titleA.localeCompare(titleB);
+            });
             break;
       }
 
