@@ -5,8 +5,8 @@ import NewsControls from './NewsControls';
 import Pagination from './Pagination';
 
 function NewsFeed() {
-   const [filter, setFilter] = useState(localStorage.getItem('newsFilter') || 'all');
-   const [sortMethod, setSortMethod] = useState(localStorage.getItem('newsSortMethod') || 'date');
+   const [filter, setFilter] = useState(localStorage.getItem('newsFilter') || 'positive');
+   const [sortMethod, setSortMethod] = useState(localStorage.getItem('newsSortMethod') || 'most_positive');
    const [currentPage, setCurrentPage] = useState(1);
    const [itemsPerPage, setItemsPerPage] = useState(50);
    const [paginatedData, setPaginatedData] = useState([]);
