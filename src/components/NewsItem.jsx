@@ -43,6 +43,7 @@ function NewsItem({ title, imgUrl, tags, link, date, sentimentScore }) {
                src={imageUrl}
                alt={title}
                className="w-full h-36 md:h-48 object-cover cursor-pointer"
+               onError={() => setImageUrl('/assets/placeholder-for-na.png')}
             />
             <p className="absolute top-2 right-2 text-white text-sm bg-stone-800 opacity-75 rounded-lg px-2 py-1">
                {date}
