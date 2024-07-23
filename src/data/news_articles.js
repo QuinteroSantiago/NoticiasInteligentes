@@ -2398,5 +2398,368 @@ export default [
         "link": "https://2001online.com/sucesos/detenido-sexagenario-por-abuso-sexual-contra-cuatro-ninas-en-la-guaira/",
         "date": "2024-07-22 10:16:50",
         "sentiment_score": -0.738149231299758
+    },
+    {
+        "title": "La Bolsa de Buenos Aires cierra con una subida del 1,36 %",
+        "image_url": "./assets/ai_generated/v1_txt2img_62f2f6b06de549e3bb290245f48d2be3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/la-bolsa-de-buenos-aires-cierra-con-una-subida-del-136/",
+        "date": "2024-07-22 22:18:59",
+        "sentiment_score": 0.349030751734972
+    },
+    {
+        "title": "El presidente del BID destaca a América Latina como parte de las soluciones globales",
+        "image_url": "./assets/ai_generated/v1_txt2img_6aae0b46dcf347caa8b45902e38c8b96.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-presidente-del-bid-destaca-a-america-latina-como-parte-de-las-soluciones-globales/",
+        "date": "2024-07-22 22:18:47",
+        "sentiment_score": 0.5954435616731644
+    },
+    {
+        "title": "Biden: \"Sigo plenamente comprometido. El nombre ha cambiado, pero la misión no\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_e71f74a3c9e14d8bbb7e3f599dd7aaa1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/biden-sigo-plenamente-comprometido-el-nombre-ha-cambiado-pero-la-mision-no/",
+        "date": "2024-07-22 22:18:23",
+        "sentiment_score": 0.23944976180791855
+    },
+    {
+        "title": "El chavismo dice que alianza opositora \"cantará fraude\" desde Miami el día de los comicios",
+        "image_url": "https://www.infobae.com/resizer/v2/R36URTJUKFGNNCE3RSSJ2EU24U.jpg?auth=c50b09ed69a8ba7e5b3d07a71c352628096305853586ba5fd52c9323a02a4f76",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-chavismo-dice-que-alianza-opositora-cantara-fraude-desde-miami-el-dia-de-los-comicios/",
+        "date": "2024-07-22 22:17:32",
+        "sentiment_score": -0.7007439397275448
+    },
+    {
+        "title": "Harris recauda más de 74 millones de euros en las primeras 24 horas de candidatura, cifra récord en esta campaña",
+        "image_url": "https://www.infobae.com/resizer/v2/DXDFJLAOYBHB7FSMYKXOSUJMNY.jpg?auth=e2beac04606546a18c1954b6e94a86487314cafdded4055ec4ed93c5c95d2ae3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/harris-recauda-mas-de-74-millones-de-euros-en-las-primeras-24-horas-de-candidatura-cifra-record-en-esta-campana/",
+        "date": "2024-07-22 22:17:21",
+        "sentiment_score": 0.6518261209130287
+    },
+    {
+        "title": "Ministro chileno del Deporte explorará en París candidatura para los Olímpicos de 2036",
+        "image_url": "./assets/ai_generated/v1_txt2img_a32c6665daf0424b9c5e3d84383b3e70.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/ministro-chileno-del-deporte-explorara-en-paris-candidatura-para-los-olimpicos-de-2036/",
+        "date": "2024-07-22 22:16:58",
+        "sentiment_score": 0.13918562233448029
+    },
+    {
+        "title": "Caricom exige a la Iglesia anglicana que reconozca que la esclavitud fue ilegal en Jamaica",
+        "image_url": "./assets/ai_generated/v1_txt2img_3adee025d5db440dbb0ed37f934f96be.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/caricom-exige-a-la-iglesia-anglicana-que-reconozca-que-la-esclavitud-fue-ilegal-en-jamaica/",
+        "date": "2024-07-22 22:16:24",
+        "sentiment_score": -0.6676750220358372
+    },
+    {
+        "title": "Lunes, 22 de julio de 2024 (22:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_b9fee2890a1748db85d2795d17ee9337.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/lunes-22-de-julio-de-2024-2200-gmt/",
+        "date": "2024-07-22 22:16:07",
+        "sentiment_score": -0.0072317831218242645
+    },
+    {
+        "title": "El Parlamento israelí aprueba en primera lectura designar a la UNRWA como organización terrorista",
+        "image_url": "https://www.infobae.com/resizer/v2/B4Y72UAA6BFX5EKUQJL4VOUYLU.jpg?auth=69dda1370740e99f8877e24c6e1ca23417e4871ee27b4299f4cedf1f973e2fc0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-parlamento-israeli-aprueba-en-primera-lectura-designar-a-la-unrwa-como-organizacion-terrorista/",
+        "date": "2024-07-22 22:03:01",
+        "sentiment_score": -0.728174015879631
+    },
+    {
+        "title": "Borja Iglesias: \"Cuando llegué al Celta, mi sensación era que no me había marchado\"",
+        "image_url": "https://www.infobae.com/resizer/v2/B6QECHT4WNEY3NEI5UVK2XAWHE.jpg?auth=24ebd849f85f199b6f37c9d952cae0eb504aa5dd53e85c42de2362af77a42057",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/borja-iglesias-cuando-llegue-al-celta-mi-sensacion-era-que-no-me-habia-marchado/",
+        "date": "2024-07-22 22:02:24",
+        "sentiment_score": -0.2805144712328911
+    },
+    {
+        "title": "¿Qué pasó el día del intento de asesinato de Trump? Esto revela la audiencia de la directora del Servicio Secreto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20808155-25922-158-still-20240722151113410.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "donald trump magnicidio"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/intento-asesinato-trump-audiencia-directora-servicio-secreto-trax/",
+        "date": "2024-07-22 22:15:33",
+        "sentiment_score": -0.8045306755229831
+    },
+    {
+        "title": "¿Por qué las elecciones en Venezuela podrían tener efectos en todo el continente?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/copia-de-thumbnail-youtube-17.png",
+        "tags": [
+            "nicolás maduro",
+            "edmundo gonzález urrutia",
+            "venezuela",
+            "elecciones venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-maduro-oposicion-gonzalez-orix/",
+        "date": "2024-07-22 21:49:20",
+        "sentiment_score": -0.32759928703308105
+    },
+    {
+        "title": "Adoptan medidas sanitarias fronterizas en República Dominicana ante posible brote de ántrax en Haití",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/logo-cnn.webp",
+        "tags": [
+            "república dominicana"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/medidas-sanitarias-fronterizas-republica-dominicana-antrax-haiti-orix/",
+        "date": "2024-07-22 21:44:54",
+        "sentiment_score": -0.41263726353645325
+    },
+    {
+        "title": "Legisladora republicana arremete contra directora del Servicio Secreto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/pinta-00-00-28-20-imagen-fija029.jpg?quality=100&strip=info",
+        "tags": [
+            "estados unidos noticias",
+            "noticias de ee.uu.",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/legisladora-servicio-secreto-trump-ush-trax/",
+        "date": "2024-07-22 21:25:37",
+        "sentiment_score": -0.8311188723891973
+    },
+    {
+        "title": "La lista de demócratas que podrían ser la elección para vicepresidente de Kamala Harris",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/lista-vicepresidentes-kamala.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "política",
+            "vicepresidente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/lista-vicepresidente-kamala-karris-trax/",
+        "date": "2024-07-22 20:55:08",
+        "sentiment_score": -0.014265969395637512
+    },
+    {
+        "title": "Ryanair estima que las precios de los boletos bajarán este verano",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1241644768.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ryanair-precios-mas-bajos-verano-cnn-dinero-tv/",
+        "date": "2024-07-22 20:42:58",
+        "sentiment_score": 0.026246801018714905
+    },
+    {
+        "title": "La visita de Netanyahu a Estados Unidos podría ser crucial para un acuerdo de cese del fuego. Pero ¿quiere uno el primer ministro?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161659173.webp",
+        "tags": [
+            "benjamin netanyahu",
+            "israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/visita-netanyahu-eeuu-acuerdo-cese-del-fuego-gaza-trax/",
+        "date": "2024-07-22 20:37:36",
+        "sentiment_score": -0.26750020682811737
+    },
+    {
+        "title": "¿Por qué Delta sigue cancelando vuelos mientras otras aerolíneas vuelven a la normalidad?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1481987203.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-delta-cancelaciones-vuelos-fallo-microsoft-computadoras-cnn-dinero-tv/",
+        "date": "2024-07-22 20:34:31",
+        "sentiment_score": -0.7860916331410408
+    },
+    {
+        "title": "Mercados globales reportan ganancias tras renuncia de Biden a la candidatura",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162011564_cc77d9.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-mercados-globales-ganancias-renuncia-joe-biden-presidencia-cnn-dinero-tv/",
+        "date": "2024-07-22 20:23:04",
+        "sentiment_score": 0.31720070540905
+    },
+    {
+        "title": "Harris ensalza a Biden: un legado \"inigualable\" que \"no tiene comparación\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Copia-de-FOTO-PARA-WP-2024-07-22T122002.082.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "ee.uu.",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/harris-ensalza-biden-legado-inigualable-no-tiene-comparacion-trax/",
+        "date": "2024-07-22 19:14:51",
+        "sentiment_score": -0.46419256925582886
+    },
+    {
+        "title": "Lionel Messi y Antonela Roccuzzo lucen cuerpazo en una tarde en yate con Luis Suárez y Sofía Balbi",
+        "image_url": "https://www.hola.com/horizon/landscape/2a47baa5ed52-anr-1.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20240722708488/lionel-messi-antonela-roccuzzo-miami-luis-suarez/",
+        "date": "2024-07-22 22:13:11",
+        "sentiment_score": 0.4926206171512604
+    },
+    {
+        "title": "Lanzaron una campaña para que Messi visite el Santuario de San Nicolás, una promesa del jugador si la Argentina ganaba el Mundial",
+        "image_url": "./assets/ai_generated/v1_txt2img_218e1a6e77aa4ab29d16f6ddf6c1a56c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/07/22/lanzaron-una-campana-para-que-messi-visite-el-santuario-de-san-nicolas-una-promesa-del-jugador-si-la-argentina-ganaba-el-mundial/",
+        "date": "2024-07-22 22:12:26",
+        "sentiment_score": 0.4273373708128929
+    },
+    {
+        "title": "Cathy Juvinao se metió en la polémica de la “politización” de la selección Colombia",
+        "image_url": "https://www.infobae.com/resizer/v2/2VHOLLB6SRGVFL7TCVRSGDOUEY.png?auth=aee71dacef8b45ab2d4f6d285065276c7cd4a9f5aa75edc9d96dbfa4170d6f16",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/07/22/cathy-juvinao-se-metio-en-la-polemica-de-la-politizacion-de-la-seleccion-colombia/",
+        "date": "2024-07-22 22:11:40",
+        "sentiment_score": -0.6128856185823679
+    },
+    {
+        "title": "¿Cuál es la fortuna de Galilea Montijo según las mediciones de riqueza de las celebridades?",
+        "image_url": "https://www.infobae.com/resizer/v2/ZL6XA3FD7JCRVHUVRVYEQWNJAU.jpg?auth=1e4981e5c1c48f5ccd00718aace2f432adeaedf626b5fccaa836e45e50d900c0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/22/cual-es-la-fortuna-de-galilea-montijo-segun-las-mediciones-de-riqueza-de-las-celebridades/",
+        "date": "2024-07-22 22:02:00",
+        "sentiment_score": 0.8476242758333683
+    },
+    {
+        "title": "El Festival de Jazz de Santander apuesta por la ortodoxia y los jóvenes talentos",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/07/22/jazz.santander.1.emmetcohen-kL2D-U220790566675nk-758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/festival-jazz-santander-apuesta-ortodoxia-jovenes-talentos-20240722235824-nt.html",
+        "date": "2024-07-22 21:58:26",
+        "sentiment_score": 0.5495668519288301
+    },
+    {
+        "title": "Carteristas en serie en St. Pete enfrentan cargos, según declaración jurada",
+        "image_url": "https://www.wfla.com/wp-content/uploads/sites/71/2024/07/GettyImages-532338651.jpg?w=900",
+        "tags": [
+            "noticias locales",
+            "tampa hoy"
+        ],
+        "link": "https://www.wfla.com/tampa-hoy/noticias-locales/carteristas-en-serie-en-st-pete-enfrentan-cargos-segun-declaracion-jurada/",
+        "date": "2024-07-22 21:49:40",
+        "sentiment_score": -0.6240597553551197
+    },
+    {
+        "title": "Presentan en Miami 'Ellos gritan libertad', documental sobre las protestas de 2021 en Cuba",
+        "image_url": "./assets/ai_generated/v1_txt2img_022844fadd2247c085aaf548cb1c8ea5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/presentan-en-miami-ellos-gritan-libertad-documental-sobre-las-protestas-de-2021-en-cuba/",
+        "date": "2024-07-22 21:30:39",
+        "sentiment_score": -0.05798131972551346
+    },
+    {
+        "title": "El equipo ideal de Mascherano para salir a buscar la tercera medalla dorada de la historia en los Juegos Olímpicos",
+        "image_url": "https://www.infobae.com/resizer/v2/S2YZF4TMDFDSHLVTR4AVKT3YUQ.JPG?auth=565ff28aba3721ce39d33131c1054c1781872340a81b6ed36d0556ce0ab611ba",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/07/22/el-equipo-ideal-de-mascherano-para-salir-a-buscar-la-tercera-medalla-dorada-de-la-historia-en-los-juegos-olimpicos/",
+        "date": "2024-07-22 20:52:21",
+        "sentiment_score": 0.05672209709882736
+    },
+    {
+        "title": "Florida se mantuvo como líder en educación superior en Estados Unidos, según un informe",
+        "image_url": "https://www.infobae.com/resizer/v2/ZV7RCU5LHFEPJCYLNVMCGG27NI.jpg?auth=e80586ef28028fe07bb868eaab7c74358582a44442187139a078a4cab52576ba",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/estados-unidos/2024/07/22/florida-se-mantuvo-como-lider-en-educacion-superior-en-estados-unidos-segun-un-informe/",
+        "date": "2024-07-22 20:48:57",
+        "sentiment_score": 0.8176649697124958
+    },
+    {
+        "title": "Un ciberataque paraliza el mayor tribunal de Estados Unidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FAHITEE2JJC4FGPSDADJRYKEAE.jpg?auth=14eb21f3f22f4beadfefe91a177b636076a60f127e1e7b6709c74354f557bfc2",
+        "tags": [
+            "los ángeles",
+            "california",
+            "estados unidos",
+            "delincuencia",
+            "robos",
+            "hacker",
+            "usuarios internet",
+            "tribunales",
+            "ataques informáticos"
+        ],
+        "link": "https://elpais.com/us/2024-07-22/un-ciberataque-paraliza-el-mayor-tribunal-de-estados-unidos.html",
+        "date": "2024-07-22 20:58:42",
+        "sentiment_score": -0.567568514496088
+    },
+    {
+        "title": "Dólar BCV Venezuela: Así se cotizará la moneda estadounidense este #23Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/bcv-22-de-julio.png",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/dolar-bcv-venezuela-se-cotizara-23jul/",
+        "date": "2024-07-22 19:47:25",
+        "sentiment_score": 0.1023610532283783
+    },
+    {
+        "title": "Jorge Rodríguez denuncia \"instalación de centro opositor\" en Miami",
+        "image_url": "https://2001online.com/wp-content/uploads/2023/11/CRodri%CC%81guez-Vinotinto-.png",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/jorge-rodriguez-centro-opositor-miami/",
+        "date": "2024-07-22 18:10:47",
+        "sentiment_score": -0.31951991841197014
+    },
+    {
+        "title": "Laser Airlines agregó nuevas frecuencias (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/IMG-20240722-WA02161.jpg",
+        "tags": [
+            "laser airlines agregó nuevas frecuencias",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/laser-airlines-agrego-nuevas-frecuencias-detalles/",
+        "date": "2024-07-22 16:30:00",
+        "sentiment_score": 0.4624112844467163
+    },
+    {
+        "title": "Sistema Patria: Inicia pago especial para adultos mayores (+Monto)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/03/Salario-minimo.jpg",
+        "tags": [
+            "sistema patria: inicia pago especial para adultos mayores (+monto)",
+            "venezuela",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/sistema-patria-inicia-pago-especial-para-adultos-mayores-monto/",
+        "date": "2024-07-22 15:08:07",
+        "sentiment_score": 0.10903533920645714
     }
 ];
