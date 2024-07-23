@@ -4,8 +4,8 @@ import NewsItem from './NewsItem';
 import NewsControls from './NewsControls';
 
 function NewsFeed() {
-   const [filter, setFilter] = useState('all');
-   const [sortMethod, setSortMethod] = useState('date');
+   const [filter, setFilter] = useState(localStorage.getItem('newsFilter') || 'all');
+   const [sortMethod, setSortMethod] = useState(localStorage.getItem('newsSortMethod') || 'date');
    const [currentPage, setCurrentPage] = useState(1);
    const [itemsPerPage, setItemsPerPage] = useState(50);
    const [paginatedData, setPaginatedData] = useState([]);
@@ -42,6 +42,11 @@ function NewsFeed() {
       setPaginatedData(paginatedItems);
       setNumPages(Math.ceil(filteredData.length / itemsPerPage));
    }, [filter, sortMethod, currentPage, itemsPerPage]);
+
+   useEffect(() => {
+      localStorage.setItem('newsFilter', filter);
+      localStorage.setItem('newsSortMethod', sortMethod);
+   }, [filter, sortMethod]);
 
    const handlePageChange = (newPage) => {
       setCurrentPage(newPage);
