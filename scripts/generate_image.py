@@ -36,7 +36,9 @@ def generate_image(prompt):
     )
 
     if response.status_code != 200:
-        raise Exception("Non-200 response: " + str(response.text))
+        print("(generate-image) Non-200 response: " + str(response.text))
+        return '/assets/placeholder-for-na.png'
+
 
     data = response.json()
 
