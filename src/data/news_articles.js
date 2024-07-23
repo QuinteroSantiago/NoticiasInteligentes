@@ -4246,5 +4246,116 @@ export default [
         "link": "https://www.infobae.com/noticias/2024/07/23/clima-hoy-en-eeuu-temperaturas-para-miami-este-23-de-julio/",
         "date": "2024-07-23 08:16:38",
         "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Encontraron muertos en un bote salvavidas a una pareja que llevaba un mes desaparecida en el Atlántico",
+        "image_url": "https://www.infobae.com/resizer/v2/BWWJ3OUIVBCK5PLG5RYEU542LY.jpg?auth=e53efcac2d0f76c19247a0614edc2d386fcc5f1019c71718b6eb54b7b5922194",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2024/07/23/encontraron-muertos-en-un-bote-salvavidas-a-una-pareja-que-llevaba-un-mes-desaparecida-en-el-atlantico/",
+        "date": "2024-07-23 10:12:12",
+        "sentiment_score": 0.10681262612342834
+    },
+    {
+        "title": "Rusia dice haber matado a 50 \"instructores occidentales\" en un ataque contra la provincia ucraniana de Járkov",
+        "image_url": "https://www.infobae.com/resizer/v2/D2B2KSMJEVHE7PG6NEHKNV4SO4.jpg?auth=a2630e6027c803ea16b16aecf41c4a2cafe340314508b44941befdf4f58cb8e6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/rusia-dice-haber-matado-a-50-instructores-occidentales-en-un-ataque-contra-la-provincia-ucraniana-de-jarkov/",
+        "date": "2024-07-23 10:03:53",
+        "sentiment_score": -0.8153662849217653
+    },
+    {
+        "title": "La ola de calor llega mañana a su punto álgido, con valores por encima de los 43oC, pero el episodio remitirá el jueves",
+        "image_url": "https://www.infobae.com/resizer/v2/GJM7UKHNZBGPDNMTWNL6COKWAA.jpg?auth=9df6969a1bb2a77a3f9827f4f2082158e17c81d500186b66755b6f86a8ae5f54",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/la-ola-de-calor-llega-manana-a-su-punto-algido-con-valores-por-encima-de-los-43c-pero-el-episodio-remitira-el-jueves/",
+        "date": "2024-07-23 10:03:36",
+        "sentiment_score": -0.03086090087890625
+    },
+    {
+        "title": "Las autoridades de Gaza elevan a cerca de 90 los muertos por la nueva ofensiva de Israel contra Jan Yunis",
+        "image_url": "https://www.infobae.com/resizer/v2/Q45APZ5KMFBVTDGESF3MEBD64I.jpg?auth=fdc7b03c3557a2685dd0495fb0092df43285a1e18e200bc9c8be70acd3d09c33",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/las-autoridades-de-gaza-elevan-a-cerca-de-90-los-muertos-por-la-nueva-ofensiva-de-israel-contra-jan-yunis/",
+        "date": "2024-07-23 10:03:17",
+        "sentiment_score": -0.7940132580697536
+    },
+    {
+        "title": "Polonia entrena militarmente a miles de empleados públicos y estudiantes de primaria",
+        "image_url": "./assets/ai_generated/v1_txt2img_e2b23cc9facc4b2fa30424cfa69369dd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/polonia-entrena-militarmente-a-miles-de-empleados-publicos-y-estudiantes-de-primaria/",
+        "date": "2024-07-23 10:01:57",
+        "sentiment_score": -0.216973215341568
+    },
+    {
+        "title": "Llueve ceniza sobre Catania y se cancelan vuelos por la intensa actividad del volcán Etna",
+        "image_url": "./assets/ai_generated/v1_txt2img_69a6034ad04f4b93a0d1424e0894e5ff.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/llueve-ceniza-sobre-catania-y-se-cancelan-vuelos-por-la-intensa-actividad-del-volcan-etna/",
+        "date": "2024-07-23 10:01:40",
+        "sentiment_score": -0.868409987539053
+    },
+    {
+        "title": "Israel deplora el acuerdo entre facciones palestinas para formar un Gobierno de unidad",
+        "image_url": "./assets/ai_generated/v1_txt2img_db7b091ba8424adf8e1eb4314a9c2f22.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/israel-deplora-el-acuerdo-entre-facciones-palestinas-para-formar-un-gobierno-de-unidad/",
+        "date": "2024-07-23 10:01:23",
+        "sentiment_score": -0.22226595878601074
+    },
+    {
+        "title": "Rahm: \"Si todo transcurre con normalidad, tendré opciones de ganar una medalla\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_ee82ff8a83e94e66a85ac79cf34e292c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/rahm-si-todo-transcurre-con-normalidad-tendre-opciones-de-ganar-una-medalla/",
+        "date": "2024-07-23 10:01:06",
+        "sentiment_score": 0.6473563592880964
+    },
+    {
+        "title": "Masarova, eliminada en octavos de final en el torneo de Praga",
+        "image_url": "./assets/ai_generated/v1_txt2img_5d8d829acab9431bb048466cc7705f8c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/masarova-eliminada-en-octavos-de-final-en-el-torneo-de-praga/",
+        "date": "2024-07-23 10:00:49",
+        "sentiment_score": -0.310632586479187
+    },
+    {
+        "title": "París: claves de redacción",
+        "image_url": "./assets/ai_generated/v1_txt2img_b22e1dd50eb14fac89d4dd284f5bb039.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/paris-claves-de-redaccion/",
+        "date": "2024-07-23 10:00:33",
+        "sentiment_score": -0.013689517974853516
+    },
+    {
+        "title": "Las 5 cosas que debes saber este 23 de julio: ¿Qué esperar de las elecciones en Venezuela?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/venezuela-elecciones-costa-rica-ecuador-republica-dominicana.jpg?quality=100&strip=info",
+        "tags": [
+            "5 cosas",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/5-cosas-23-julio-elecciones-venezuela-orix/",
+        "date": "2024-07-23 09:53:58",
+        "sentiment_score": -0.48449746519327164
     }
 ];
