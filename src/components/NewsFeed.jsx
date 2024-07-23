@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import newsData from '../data/news_articles';
 import NewsItem from './NewsItem';
 import NewsControls from './NewsControls';
+import Pagination from './Pagination';
 
 function NewsFeed() {
    const [filter, setFilter] = useState(localStorage.getItem('newsFilter') || 'all');
@@ -54,7 +55,7 @@ function NewsFeed() {
 
    const handleItemsPerPageChange = (event) => {
       setItemsPerPage(Number(event.target.value));
-      setCurrentPage(1); // Reset to first page with new item count
+      setCurrentPage(1);
    };
 
    return (
@@ -73,44 +74,13 @@ function NewsFeed() {
             ))
             }
          </div>
-         <div className="flex items-center justify-center my-4 space-x-1">
-            <button
-               onClick={() => handlePageChange(currentPage - 1)}
-               disabled={currentPage === 1}
-               className="px-4 py-2 rounded text-white bg-blue-500 hover:bg-blue-700 disabled:bg-gray-400 cursor-pointer"
-            >
-               Previous
-            </button>
-            {Array.from({ length: numPages }, (_, i) => i + 1).map(page => (
-               <button
-                  key={page}
-                  onClick={() => handlePageChange(page)}
-                  disabled={page === currentPage}
-                  className={`px-3 py-1 rounded ${page === currentPage ? 'bg-blue-700 text-white' : 'bg-gray-200 hover:bg-blue-500 text-blue-700'}`}
-               >
-                  {page}
-               </button>
-            ))}
-            <button
-               onClick={() => handlePageChange(currentPage + 1)}
-               disabled={currentPage === numPages}
-               className="px-4 py-2 rounded text-white bg-blue-500 hover:bg-blue-700 disabled:bg-gray-400 cursor-pointer"
-            >
-               Next
-            </button>
-         </div>
-         <div>
-            <select
-               onChange={handleItemsPerPageChange}
-               value={itemsPerPage}
-               className="px-4 py-2 rounded bg-blue-200 hover:bg-blue-400 cursor-pointer"
-            >
-               <option value="10">10 items per page</option>
-               <option value="25">25 items per page</option>
-               <option value="50">50 items per page</option>
-               <option value="100">100 items per page</option>
-            </select>
-         </div>
+         <Pagination
+            currentPage={currentPage}
+            numPages={numPages}
+            onPageChange={handlePageChange}
+            itemsPerPage={itemsPerPage}
+            onItemsPerPageChange={handleItemsPerPageChange}
+         />
       </div>
    );
 }
