@@ -2945,5 +2945,285 @@ export default [
         "link": "https://2001online.com/nacionales/arranco-el-debate-de-ley-para-recuperar-el-ingreso-de-los-trabajadores-detalles/",
         "date": "2024-07-22 23:09:00",
         "sentiment_score": 0.13345901668071747
+    },
+    {
+        "title": "Partido político propone prohibir los programas de tv sobre narcotráfico en Costa Rica",
+        "image_url": "./assets/ai_generated/v1_txt2img_1ffcbc34c87c44d9b2d30fd5a8c6b65d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/partido-politico-propone-prohibir-los-programas-de-tv-sobre-narcotrafico-en-costa-rica/",
+        "date": "2024-07-23 01:16:27",
+        "sentiment_score": -0.6386169493198395
+    },
+    {
+        "title": "El Gobierno de Venezuela agradece a Ortega \"tanto amor\" y \"compromiso revolucionario\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_e888311100bb4f76aa3399af14536edc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/el-gobierno-de-venezuela-agradece-a-ortega-tanto-amor-y-compromiso-revolucionario/",
+        "date": "2024-07-23 01:16:10",
+        "sentiment_score": 0.7046082466840744
+    },
+    {
+        "title": "Al menos 6 miembros de las autodefensas mueren en ataque en estado mexicano de Guerrero",
+        "image_url": "./assets/ai_generated/v1_txt2img_29f723d9e46c4a9bb63f78d796f2e86e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/al-menos-6-miembros-de-las-autodefensas-mueren-en-ataque-en-estado-mexicano-de-guerrero/",
+        "date": "2024-07-23 01:15:53",
+        "sentiment_score": -0.8480836153030396
+    },
+    {
+        "title": "Perú recibe bienes arqueológicos repatriados de Australia, Estados Unidos, Canadá y Suiza",
+        "image_url": "./assets/ai_generated/v1_txt2img_0dcf0ba814ee4fb98f786a7158024ff1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/peru-recibe-bienes-arqueologicos-repatriados-de-australia-estados-unidos-canada-y-suiza/",
+        "date": "2024-07-23 01:15:35",
+        "sentiment_score": -0.059778258204460144
+    },
+    {
+        "title": "El líder de la junta militar de Birmania asume también la presidencia del país",
+        "image_url": "./assets/ai_generated/v1_txt2img_6eae0d97cff94679ac1664a261f177a9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/el-lider-de-la-junta-militar-de-birmania-asume-tambien-la-presidencia-del-pais/",
+        "date": "2024-07-23 01:15:19",
+        "sentiment_score": -0.16796158999204636
+    },
+    {
+        "title": "Harris recaudó 81 millones de dólares en sus primeras 24 horas como candidata",
+        "image_url": "https://www.infobae.com/resizer/v2/YAC4DI5YS5G2JLM6RJTHEHTJDY.jpg?auth=8a9f9971133e00d9a1711a4530ce897b67a3aee8e17da553170276a5370d91e7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/the-new-york-times/2024/07/23/harris-recaudo-81-millones-de-dolares-en-sus-primeras-24-horas-como-candidata/",
+        "date": "2024-07-23 01:15:18",
+        "sentiment_score": -0.015234917402267456
+    },
+    {
+        "title": "La Guardia Revolucionaria de Irán incauta un buque cargado de \"combustible de contrabando\" en el golfo Pérsico",
+        "image_url": "https://www.infobae.com/resizer/v2/UCLNMPJAFBCFHBPI6O4H23CNXY.jpg?auth=a1b7c0049a82bfc05c3c11ef9d1187d73d703f953ef259f6e502ad42398e02e3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/la-guardia-revolucionaria-de-iran-incauta-un-buque-cargado-de-combustible-de-contrabando-en-el-golfo-persico/",
+        "date": "2024-07-23 01:02:31",
+        "sentiment_score": -0.7446132749319077
+    },
+    {
+        "title": "La Comisión Electoral de Ruanda confirma la reelección de Kagame como presidente con el 99,18% de los votos",
+        "image_url": "https://www.infobae.com/resizer/v2/QQYWEYDPIVAYPHF4S6RRQK7W6I.jpg?auth=92077924459dc986f0bd9b3e8ef8fc7b59560517da09fd626b9bd667e159b8ce",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/la-comision-electoral-de-ruanda-confirma-la-reeleccion-de-kagame-como-presidente-con-el-9918-de-los-votos/",
+        "date": "2024-07-23 01:02:18",
+        "sentiment_score": 0.15613988041877747
+    },
+    {
+        "title": "Partido Demócrata seleccionará a su candidato a las presidenciales antes del 7 de agosto",
+        "image_url": "./assets/ai_generated/v1_txt2img_1757889030e747428867a828f06cfeff.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/partido-democrata-seleccionara-a-su-candidato-a-las-presidenciales-antes-del-7-de-agosto/",
+        "date": "2024-07-23 01:00:51",
+        "sentiment_score": 0.09126954898238182
+    },
+    {
+        "title": "La oposición mayoritaria llama a colaborar en el traslado de venezolanos en las elecciones",
+        "image_url": "./assets/ai_generated/v1_txt2img_6dac680012bc4ec38c86e10be623a0fb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/la-oposicion-mayoritaria-llama-a-colaborar-en-el-traslado-de-venezolanos-en-las-elecciones/",
+        "date": "2024-07-23 01:00:39",
+        "sentiment_score": 0.3192699998617172
+    },
+    {
+        "title": "\"Los Simpson\" vuelven a recibir crédito por predecir la política estadounidense",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/20240722-kamala-harris-lisa-simpson-split.webp",
+        "tags": [
+            "kamala harris",
+            "los simpson",
+            "series",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/los-simpson-credito-predecir-politica-estadounidense-trax/",
+        "date": "2024-07-23 01:18:05",
+        "sentiment_score": 0.11845816671848297
+    },
+    {
+        "title": "Líderes europeos reaccionan con respeto y admiración al anuncio de Biden",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162324762-1.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lideres-europa-reax-anuncio-biden-candidatura-elecciones-eeuu-panorama-mundial/",
+        "date": "2024-07-23 01:10:26",
+        "sentiment_score": 0.0459229052066803
+    },
+    {
+        "title": "Científicos descubren que se produce oxígeno «oscuro» a 4.000 metros de profundidad en el océano",
+        "image_url": "./assets/ai_generated/v1_txt2img_5317bd771ba14dfc84662100275d8f0e.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2024/07/22/descubrimiento-oxigeno-oscuro-fondo-marino-trax/",
+        "date": "2024-07-23 01:03:38",
+        "sentiment_score": -0.3475339710712433
+    },
+    {
+        "title": "Netanyahu visita EE.UU. en medio de una turbulencia política",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/cnne-aade7b43-130721142304-benjamin-netanyahu-horizontal-large-gallery.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "biden",
+            "netanyahu"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/netanyahu-visita-eeuu-biden-rehenes-panorama-mundial-tv/",
+        "date": "2024-07-23 01:03:26",
+        "sentiment_score": -0.08944636583328247
+    },
+    {
+        "title": "Científicos descubren que se produce oxígeno \"oscuro\" a 4.000 metros de profundidad en el océano",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/cerianthid-hires.webp",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/descubrimiento-oxigeno-oscuro-fondo-marino-trax/",
+        "date": "2024-07-23 00:55:43",
+        "sentiment_score": 0.3799353912472725
+    },
+    {
+        "title": "Así elaboraron el quesillo o queso Oaxaca más grande del mundo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/sequence-04-00-00-37-08-still021.jpg?quality=100&strip=info",
+        "tags": [
+            "queso",
+            "récord guinness",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/queso-oaxaca-mas-grande-mundo-rompe-record-guinness-quesillo-perspectivas-mexico-tv/",
+        "date": "2024-07-23 00:46:58",
+        "sentiment_score": 0.10278065502643585
+    },
+    {
+        "title": "López Obrador y Maduro reaccionan a la decisión de Biden",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/sequence-04-00-01-14-16-still020.jpg?quality=100&strip=info",
+        "tags": [
+            "amlo",
+            "partido demócrata",
+            "joe biden",
+            "maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biden-candidatura-amlo-maduro-reacciones-perspectivas-mexico-tv/",
+        "date": "2024-07-23 00:45:56",
+        "sentiment_score": -0.2318124696612358
+    },
+    {
+        "title": "Kimberly Cheatle, directora del Servicio Secreto, recibió fuertes críticas a su trabajo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162437686.jpg?quality=100&strip=info",
+        "tags": [
+            "donald trump",
+            "noticias de estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/servicio-secreto-audiencia-magnicidio-trump-cheatle-dusa-tv/",
+        "date": "2024-07-22 23:24:42",
+        "sentiment_score": -0.8980599520727992
+    },
+    {
+        "title": "Lionel Messi y Antonela Roccuzzo disfrutan de merecidas vacaciones tras Copa América",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/AP23128601023929.jpg",
+        "tags": [
+            "messi",
+            "fútbol",
+            "antonela roccuzzo",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/07/22/lionel-messi-y-antonela-roccuzzo-disfrutan-de-merecidas-vacaciones-tras-copa-america/",
+        "date": "2024-07-23 01:23:00",
+        "sentiment_score": 0.32984551787376404
+    },
+    {
+        "title": "Lizardo Ponce contó cómo era el ingenioso método para que nadie pueda tomar fotos en el casamiento de Oriana Sabatini y Paulo Dybala",
+        "image_url": "https://www.infobae.com/resizer/v2/EH56GPCE4NBT7LRGSWYWUEC7NU.png?auth=d278930f39c274b433b00bc0f6fd5629d77bf6aed92b039f509d6d2cf6acc7d5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2024/07/23/lizardo-ponce-como-era-el-ingenioso-metodo-para-que-nadie-pueda-tomar-fotos-en-el-casamiento-de-oriana-sabatini-y-paulo-dybala/",
+        "date": "2024-07-23 01:19:53",
+        "sentiment_score": -0.07759539037942886
+    },
+    {
+        "title": "Mujer se declara culpable de tramar esquema Ponzi que defraudó casi 200 millones en EEUU",
+        "image_url": "./assets/ai_generated/v1_txt2img_5671e2cf0f774c39ac3437fbd5737317.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/mujer-se-declara-culpable-de-tramar-esquema-ponzi-que-defraudo-casi-200-millones-en-eeuu/",
+        "date": "2024-07-23 00:15:38",
+        "sentiment_score": -0.8710756711661816
+    },
+    {
+        "title": "Mujer se declara culpable de tramar esquema Ponzi que defraudó casi 200 millones en EEUU",
+        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efe2f1fcdafd2626a6eff2350af494b56c5cb412c64w.jpg?fit=1920%2C1277&ssl=1",
+        "tags": [
+            "estados unidos"
+        ],
+        "link": "https://holanews.com/mujer-se-declara-culpable-de-tramar-esquema-ponzi-que-defraudo-casi-200-millones-en-eeuu/",
+        "date": "2024-07-23 00:14:42",
+        "sentiment_score": -0.758579459041357
+    },
+    {
+        "title": "Lionel Messi y Luis Suárez, figuras del Inter Miami, no estarán en el Juego de Estrellas de la MLS",
+        "image_url": "./assets/ai_generated/v1_txt2img_2826e3ab3b304328833da7d9eae9c037.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-07-22/lionel-messi-y-luis-suarez-figuras-del-inter-miami-no-estaran-en-el-juego-de-estrellas-de-la-mls",
+        "date": "2024-07-23 00:06:27",
+        "sentiment_score": -0.6925732735544443
+    },
+    {
+        "title": "Viajar en metro es cosa de pobres",
+        "image_url": "https://s1.elespanol.com/2024/07/22/actualidad/872423440_247970443_1706x960.png?contentId=ESPIMA20240722_0691",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20240723/viajar-metro-cosa-pobres/872542748_13.html",
+        "date": "2024-07-23 00:00:00",
+        "sentiment_score": -0.9057590765878558
+    },
+    {
+        "title": "Lesiones dejan fuera a Lionel Messi y Luis Suárez del Juego de las Estrellas de la MLS",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/LI2UXV4LD5AJHML6V6FZVFYFRI.jpg?auth=86af1af6cc50542ea21b570e94493bdaf6c794ba65a6ca657df7069d9bac7cd9&height=2958&smart=true&width=4437",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2024/07/22/lesiones-dejan-fuera-a-lionel-messi-y-luis-suarez-del-juego-de-las-estrellas-de-la-mls/",
+        "date": "2024-07-22 23:25:01",
+        "sentiment_score": 0.10711846873164177
+    },
+    {
+        "title": "¿Cuándo se desplegará el Plan República de cara a las elecciones presidenciales?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/descarga-2024-07-22T202048.708.jpeg",
+        "tags": [
+            "plan república",
+            "28julio",
+            "#28jul",
+            "elecciones presidenciales",
+            "nacionales",
+            "plan república 2024",
+            "fanb"
+        ],
+        "link": "https://2001online.com/nacionales/cuando-se-desplegara-el-plan-republica-de-cara-a-las-elecciones-presidenciales/",
+        "date": "2024-07-23 00:26:19",
+        "sentiment_score": -0.003825262188911438
     }
 ];
