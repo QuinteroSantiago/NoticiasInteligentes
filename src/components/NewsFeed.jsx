@@ -1,19 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import newsData from '../data/news_articles';
 import NewsItem from './NewsItem';
+import NewsControls from './NewsControls';
 
 function NewsFeed() {
    const [filter, setFilter] = useState('all');
-   const [sortMethod, setSortMethod] = useState('date');  // Default sort by date
+   const [sortMethod, setSortMethod] = useState('date');
    const [filteredAndSortedNewsData, setFilteredAndSortedNewsData] = useState(newsData);
-
-   const handleFilterChange = (newFilter) => {
-      setFilter(newFilter);
-   };
-
-   const handleSortChange = (event) => {
-      setSortMethod(event.target.value);
-   };
 
    useEffect(() => {
       let filteredData = newsData.filter(newsItem => {
@@ -44,18 +37,7 @@ function NewsFeed() {
 
    return (
       <div className="flex flex-col items-center justify-center px-10">
-         <div className="mb-4 sm:w-full sm:text-center">
-            <button onClick={() => handleFilterChange('all')} className={`mx-2 px-4 py-2 rounded ${filter === 'all' ? 'border-2 border-black bg-gray-200' : 'bg-gray-200'}`}>Todas las noticias</button>
-            <button onClick={() => handleFilterChange('positive')} className={`mx-2 px-4 py-2 rounded ${filter === 'positive' ? 'border-2 border-black bg-green-200' : 'bg-green-200'}`}>Noticias positivas</button>
-            <button onClick={() => handleFilterChange('negative')} className={`mx-2 px-4 py-2 rounded ${filter === 'negative' ? 'border-2 border-black bg-red-200' : 'bg-red-200'}`}>Noticias negativas</button>
-            {/* Dropdown for sorting */}
-            <select onChange={handleSortChange} value={sortMethod} className="mx-2 px-4 py-2 rounded bg-blue-200">
-               <option value="date">Más recientes</option>
-               <option value="most_positive">Más positivas</option>
-               <option value="most_negative">Más negativas</option>
-               <option value="alphabetical">Alfabético</option>
-            </select>
-         </div>
+         <NewsControls filter={filter} setFilter={setFilter} sortMethod={sortMethod} setSortMethod={setSortMethod} />
          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
             {filteredAndSortedNewsData.map((newsItem, index) => (
                <NewsItem
