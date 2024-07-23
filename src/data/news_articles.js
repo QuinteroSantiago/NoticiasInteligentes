@@ -3755,5 +3755,157 @@ export default [
         "link": "https://2001online.com/nacionales/maduro-ofrece-financiamiento-a-un-millon-de-emprendedores-sepa-como-acceder/",
         "date": "2024-07-23 03:00:00",
         "sentiment_score": 0.2077440619468689
+    },
+    {
+        "title": "El Partido Conservador británico dará a conocer a su nuevo líder el 2 de noviembre",
+        "image_url": "./assets/ai_generated/v1_txt2img_da6e612aedf144ab84a5837bde0fc0bc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/el-partido-conservador-britanico-dara-a-conocer-a-su-nuevo-lider-el-2-de-noviembre/",
+        "date": "2024-07-23 07:00:54",
+        "sentiment_score": 0.0373472198843956
+    },
+    {
+        "title": "Dos muertos y 13 heridos por el derrumbe de un balcón en Nápoles",
+        "image_url": "./assets/ai_generated/v1_txt2img_e1c7654257d94892aaa642708cf8af9b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/dos-muertos-y-13-heridos-por-el-derrumbe-de-un-balcon-en-napoles/",
+        "date": "2024-07-23 07:00:37",
+        "sentiment_score": -0.8379676900804043
+    },
+    {
+        "title": "Rusia concentra su mayor número de ataques en los ejes orientales de Pokrovsk y Kramatorsk",
+        "image_url": "./assets/ai_generated/v1_txt2img_fa5d391369b340bea75eff2e8aba8a3b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/rusia-concentra-su-mayor-numero-de-ataques-en-los-ejes-orientales-de-pokrovsk-y-kramatorsk/",
+        "date": "2024-07-23 07:00:20",
+        "sentiment_score": -0.5891900844871998
+    },
+    {
+        "title": "Evo Morales dijo que el alzamiento militar en Bolivia fue un “show” del gobierno con impacto en la economía",
+        "image_url": "https://www.infobae.com/resizer/v2/67W7S5VXXSPSJ6YKLORYMEGWCE.jpg?auth=e9b2be2ccc762246565a079b85a63e3637d1823404ff07f914cf7de5645e71e0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/america-latina/2024/07/23/evo-morales-dijo-que-el-alzamiento-militar-en-bolivia-fue-un-show-del-gobierno-con-impacto-en-la-economia/",
+        "date": "2024-07-23 06:47:56",
+        "sentiment_score": -0.5260431095957756
+    },
+    {
+        "title": "El ministro de Exteriores de Ucrania realizará desde hoy una visita oficial de cuatro días a China",
+        "image_url": "./assets/ai_generated/v1_txt2img_cf0e6f4d7c644ee283cfafb98ff2a8ef.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/el-ministro-de-exteriores-de-ucrania-realizara-desde-hoy-una-visita-oficial-de-cuatro-dias-a-china/",
+        "date": "2024-07-23 06:47:54",
+        "sentiment_score": 0.05784543231129646
+    },
+    {
+        "title": "Guindos afirma que para el BCE septiembre es \"mucho mejor\" para tomar decisiones sobre tipos",
+        "image_url": "https://www.infobae.com/resizer/v2/5XCTQQ6TRRFZLFIY52ZRJP5BQ4.jpg?auth=55df07952cad91bd8ad3bc827ed4b89daf3d716f83870356f38549262418a1f1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/guindos-afirma-que-para-el-bce-septiembre-es-mucho-mejor-para-tomar-decisiones-sobre-tipos/",
+        "date": "2024-07-23 06:47:37",
+        "sentiment_score": 0.6566577777266502
+    },
+    {
+        "title": "La segunda ola de calor del verano pone hoy en aviso amarillo o naranja a más de la mitad del país",
+        "image_url": "https://www.infobae.com/resizer/v2/Q3IU3ICR3ZDJHMFBL3DKB4JIBI.jpg?auth=8c722931984a72a5757770c7c35957cdc77c586baa6c214195ecb27349788c01",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/la-segunda-ola-de-calor-del-verano-pone-hoy-en-aviso-amarillo-o-naranja-a-mas-de-la-mitad-del-pais/",
+        "date": "2024-07-23 06:47:19",
+        "sentiment_score": -0.5923863686621189
+    },
+    {
+        "title": "Taiwán emite una alerta marítima y terrestre ante la inminente llegada del tifón Gaemi",
+        "image_url": "https://www.infobae.com/resizer/v2/UL4AUBLZXJFQ5G33JT2GFJUEDQ.jpg?auth=cfe513b779449a5e1ab18374b3daac6b0ec281d652b59a7f777cc108df6a4471",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/taiwan-emite-una-alerta-maritima-y-terrestre-ante-la-inminente-llegada-del-tifon-gaemi/",
+        "date": "2024-07-23 06:45:52",
+        "sentiment_score": -0.19211922585964203
+    },
+    {
+        "title": "Ataques ucranianos dejan nueve heridos en la región rusa de Bélgorod",
+        "image_url": "./assets/ai_generated/v1_txt2img_bab80452bd53452e8407bab4c358917a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/ataques-ucranianos-dejan-nueve-heridos-en-la-region-rusa-de-belgorod/",
+        "date": "2024-07-23 06:45:32",
+        "sentiment_score": -0.8294748980551958
+    },
+    {
+        "title": "Grandes figuras que se perderán los Juegos Olímpicos de París",
+        "image_url": "./assets/ai_generated/v1_txt2img_f1e081c33d314f938998a5bd3b480fb5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/grandes-figuras-que-se-perderan-los-juegos-olimpicos-de-paris/",
+        "date": "2024-07-23 06:31:42",
+        "sentiment_score": -0.30878737568855286
+    },
+    {
+        "title": "Biden se reunirá esta semana con las familias de los rehenes estadounidenses en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Biden-families-hostages-e1721715153983.jpeg?quality=100&strip=info",
+        "tags": [
+            "israel hamas rehenes",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/biden-se-reunira-familias-rehenes-estadounidenses-gaza-trax/",
+        "date": "2024-07-23 06:42:49",
+        "sentiment_score": -0.07170974463224411
+    },
+    {
+        "title": "Por qué Delta sigue cancelando vuelos mientras otras aerolíneas vuelven a la normalidad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Delta-airlines-problemas-software-e1721711854969.jpg?quality=100&strip=info",
+        "tags": [
+            "aviación",
+            "delta airlines"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/por-que-delta-cancela-vuelos-apagon-crowdstrike-trax/",
+        "date": "2024-07-23 06:16:37",
+        "sentiment_score": -0.6790916230529547
+    },
+    {
+        "title": "¿Cuál fue el último gran operativo que encabezó Milton Morales Figueroa, comisario de la SSC asesinado?",
+        "image_url": "https://www.infobae.com/resizer/v2/XUOQ4VYFZFGDPPAEWROZUSN2RI.jpg?auth=b9a9af62c6e9ff269f5757cf0a33c708dfb27e7e5d9a0c59777b69db714dfe34",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/23/cual-fue-el-ultimo-gran-operativo-que-encabezo-milton-morales-figueroa-comisario-de-la-ssc-asesinado/",
+        "date": "2024-07-23 06:35:11",
+        "sentiment_score": -0.8890177784487605
+    },
+    {
+        "title": "Presentaron en Miami “Ellos gritan libertad”, el documental sobre las masivas protestas de 2021 en Cuba",
+        "image_url": "https://www.infobae.com/resizer/v2/2LOP67TRFVFPJE7KWG3VLAVAYA.jpg?auth=c48a5e4e46811e570542e66b1c678b02ee24447dff8cf5b080ba018cc22a225c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/estados-unidos/2024/07/23/presentaron-en-miami-ellos-gritan-libertad-el-documental-sobre-las-masivas-protestas-de-2021-en-cuba/",
+        "date": "2024-07-23 06:33:45",
+        "sentiment_score": 0.21183834969997406
+    },
+    {
+        "title": "Grandes duelos: Alcaraz y Sinner y Nadal y Djokovic",
+        "image_url": "./assets/ai_generated/v1_txt2img_2506fe7a57874020b71b73a75cfc6d48.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/grandes-duelos-alcaraz-y-sinner-y-nadal-y-djokovic/",
+        "date": "2024-07-23 06:16:55",
+        "sentiment_score": 0.4222877770662308
     }
 ];
