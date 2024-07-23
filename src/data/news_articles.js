@@ -4357,5 +4357,158 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/07/23/5-cosas-23-julio-elecciones-venezuela-orix/",
         "date": "2024-07-23 09:53:58",
         "sentiment_score": -0.48449746519327164
+    },
+    {
+        "title": "Dos estudiantes españoles, una argentina y una peruana disputarán la final del Mundial de Oratoria 'Esto es debatible'",
+        "image_url": "https://www.infobae.com/resizer/v2/MI6RNVB54FGJ5M7EG47RGMV3N4.jpg?auth=9e5d68a60337dfa2cd235f0b059806ce12f52e251f0205b66a6f5ffbf760fab7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/dos-estudiantes-espanoles-una-argentina-y-una-peruana-disputaran-la-final-del-mundial-de-oratoria-esto-es-debatible/",
+        "date": "2024-07-23 11:19:58",
+        "sentiment_score": 0.03269875794649124
+    },
+    {
+        "title": "Belarra anuncia un acuerdo con PSOE para apoyar el decreto anticrisis a cambio de mantener el bono eléctrico",
+        "image_url": "https://www.infobae.com/resizer/v2/EURYA7IG3NA77KPNDPCVJF57ZA.jpg?auth=19087be9c6bf490bc9108ed3a8d8410f67d29a6068ce888bef47e0a2f241ee83",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/belarra-anuncia-un-acuerdo-con-psoe-para-apoyar-el-decreto-anticrisis-a-cambio-de-mantener-el-bono-electrico/",
+        "date": "2024-07-23 11:19:40",
+        "sentiment_score": 0.28654371201992035
+    },
+    {
+        "title": "Udon Asian Food acelera su plan de expansión internacional con su llegada a México y Ecuador",
+        "image_url": "https://www.infobae.com/resizer/v2/MJ3AE5XNJFB37H3GOGLVR2HUWY.jpg?auth=deacc50b2bd85d76313081c24980e89a39a866f27f551ea42844d3aaebcf69f4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/udon-asian-food-acelera-su-plan-de-expansion-internacional-con-su-llegada-a-mexico-y-ecuador/",
+        "date": "2024-07-23 11:19:16",
+        "sentiment_score": 0.6752393711358309
+    },
+    {
+        "title": "Ligas Europeas y FIFPRO presentarán ante la Comisión Europea una queja contra el calendario aprobado por FIFA",
+        "image_url": "https://www.infobae.com/resizer/v2/LAJJJVYA4ZFOTISWWTFRLHNE7I.jpg?auth=176a6b91dc9fa9c8fa72314fd062414451a63fd0f619dcd0ca6fe045788b7961",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/ligas-europeas-y-fifpro-presentaran-ante-la-comision-europea-una-queja-contra-el-calendario-aprobado-por-fifa/",
+        "date": "2024-07-23 11:18:57",
+        "sentiment_score": -0.6480570919811726
+    },
+    {
+        "title": "Nora Brugman: \"Llegar con la presión de favoritos es un privilegio\"",
+        "image_url": "https://www.infobae.com/resizer/v2/M2U4DS3JABEPRBWOUCVWH7PR4Q.jpg?auth=9e95e9d3a1ff46977505ac42c5e5dee39b6692d73eb9a70d13757201c2ebf33d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/nora-brugman-llegar-con-la-presion-de-favoritos-es-un-privilegio/",
+        "date": "2024-07-23 11:18:20",
+        "sentiment_score": 0.8501302730292082
+    },
+    {
+        "title": "Moldovan se incorpora a la pretemporada pendiente de su futuro",
+        "image_url": "https://www.infobae.com/resizer/v2/SIKZIRMNOFBODBPXT36FEDLX3M.jpg?auth=90402c615acb9f3547460c4e953dc397d31016e1675251afdbbd05c96d1838a6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/moldovan-se-incorpora-a-la-pretemporada-pendiente-de-su-futuro/",
+        "date": "2024-07-23 11:17:49",
+        "sentiment_score": 0.28885724768042564
+    },
+    {
+        "title": "Díaz Acosta se lleva el duelo de argentinos ante Coria y se clasifica a octavos de final",
+        "image_url": "./assets/ai_generated/v1_txt2img_1757076f0ac54f2dac5eae2613dd3ca2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/diaz-acosta-se-lleva-el-duelo-de-argentinos-ante-coria-y-se-clasifica-a-octavos-de-final/",
+        "date": "2024-07-23 11:16:45",
+        "sentiment_score": 0.314727745950222
+    },
+    {
+        "title": "Bombardeos israelíes dejan otros 84 gazatíes muertos y más de 300 heridos en el último día",
+        "image_url": "./assets/ai_generated/v1_txt2img_471a66a97de04cf5a0cc1319dc801001.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/bombardeos-israelies-dejan-otros-84-gazaties-muertos-y-mas-de-300-heridos-en-el-ultimo-dia/",
+        "date": "2024-07-23 11:16:28",
+        "sentiment_score": -0.8025933634489775
+    },
+    {
+        "title": "Ampliación de cobertura EFE Audiovisual Internacional 23 jul (11.00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_e32a48ab723745519ad4bcfefdd80e68.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/ampliacion-de-cobertura-efe-audiovisual-internacional-23-jul-1100-gmt/",
+        "date": "2024-07-23 11:16:11",
+        "sentiment_score": 0.06335610896348953
+    },
+    {
+        "title": "Agencia Espacial Europea amplia colaboración con Reino Unido en su centro de innovación",
+        "image_url": "./assets/ai_generated/v1_txt2img_fb4456ec46d641b39948e25f1eccba96.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/agencia-espacial-europea-amplia-colaboracion-con-reino-unido-en-su-centro-de-innovacion/",
+        "date": "2024-07-23 11:15:55",
+        "sentiment_score": 0.6626054383814335
+    },
+    {
+        "title": "Harris estudia cambios en la sede de su campaña, aunque desconfía de los dramas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-4-e1721730207619.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/personal-de-campana-de-harris-trax/",
+        "date": "2024-07-23 11:07:40",
+        "sentiment_score": -0.41313038021326065
+    },
+    {
+        "title": "Biden se retira como candidato en EE.UU., en vivo: reacciones y apoyos a la candidatura de Kamala Harris",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/kamala-harris-campana.jpg?quality=100&strip=info",
+        "tags": [
+            "presidencia ee.uu.",
+            "elecciones estados unidos",
+            "joe biden",
+            "minuto a minuto",
+            "instanoticias",
+            "kamala harris",
+            "donald turmp"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/joe-biden-retira-candidato-eeuu-elecciones-presidencia-2024-trax/",
+        "date": "2024-07-23 10:40:20",
+        "sentiment_score": -0.6438400596380234
+    },
+    {
+        "title": "A la venta los pisos de lujo del palacete de Vista Alegre en Gijón: piscina, amplias terrazas, solárium...",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/07/23/vista-palacio-somio-gijon-kRTF-U220794100111NmE-758x531@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/gijon/venta-pisos-gijon-lujo-palacete-vista-alegre-somio-20240723113434-nt.html",
+        "date": "2024-07-23 11:03:01",
+        "sentiment_score": 0.4541361592710018
+    },
+    {
+        "title": "Dólar BCV Venezuela: Así se cotiza la moneda estadounidense este #23Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Dolar.jpg",
+        "tags": [
+            "dólar latam",
+            "nacionales",
+            "dólar bcv",
+            "bcv",
+            "2001online",
+            "#dólar",
+            "dólar bcv venezuela"
+        ],
+        "link": "https://2001online.com/dolarlatam/dolar-bcv-venezuela-asi-se-cotiza-la-moneda-estadounidense-este-23jul/",
+        "date": "2024-07-23 10:45:32",
+        "sentiment_score": 0.023927442729473114
     }
 ];
