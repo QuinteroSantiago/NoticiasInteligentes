@@ -2761,5 +2761,189 @@ export default [
         "link": "https://2001online.com/nacionales/sistema-patria-inicia-pago-especial-para-adultos-mayores-monto/",
         "date": "2024-07-22 15:08:07",
         "sentiment_score": 0.10903533920645714
+    },
+    {
+        "title": "El productor musical Raphy Pina insta a jóvenes a tener precaución para no acabar presos",
+        "image_url": "./assets/ai_generated/v1_txt2img_21b3ba65a0484f829a1ab1b15a73d476.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-productor-musical-raphy-pina-insta-a-jovenes-a-tener-precaucion-para-no-acabar-presos/",
+        "date": "2024-07-22 23:17:52",
+        "sentiment_score": -0.6221436858177185
+    },
+    {
+        "title": "El son imparable de Eliades Ochoa inunda La Mar de Músicas",
+        "image_url": "./assets/ai_generated/v1_txt2img_0bea3e2f3bac4703955617b67069f15b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-son-imparable-de-eliades-ochoa-inunda-la-mar-de-musicas/",
+        "date": "2024-07-22 23:17:39",
+        "sentiment_score": 0.7214170694351196
+    },
+    {
+        "title": "Al menos 25 muertos en el centro de Malí por un ataque atribuido a un grupo vinculado a Al Qaeda",
+        "image_url": "https://www.infobae.com/resizer/v2/7Z4ZO4UUUFFZROGFA2BTAXLPOQ.jpg?auth=3da0f71f44bcce92dacac512f2858ce1e9f1b628eeeb4464a3a32440d83aa66d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/al-menos-25-muertos-en-el-centro-de-mali-por-un-ataque-atribuido-a-un-grupo-vinculado-a-al-qaeda/",
+        "date": "2024-07-22 23:17:18",
+        "sentiment_score": -0.8131647128611803
+    },
+    {
+        "title": "Dos sismos de 5,7 y varias réplicas sacuden la frontera entre Panamá y Costa Rica",
+        "image_url": "./assets/ai_generated/v1_txt2img_76914253066248509b5931bb73530a41.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/dos-sismos-de-57-y-varias-replicas-sacuden-la-frontera-entre-panama-y-costa-rica/",
+        "date": "2024-07-22 23:16:27",
+        "sentiment_score": -0.7751569431275129
+    },
+    {
+        "title": "Fossati ratifica su compromiso de clasificar a Perú al Mundial del 2026",
+        "image_url": "./assets/ai_generated/v1_txt2img_6d2e146b481746a6a863781d6769614e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/fossati-ratifica-su-compromiso-de-clasificar-a-peru-al-mundial-del-2026/",
+        "date": "2024-07-22 23:16:10",
+        "sentiment_score": 0.48952485248446465
+    },
+    {
+        "title": "El presidente dominicano se posiciona a favor \"del que gane\" las elecciones de EE.UU.",
+        "image_url": "./assets/ai_generated/v1_txt2img_92626b0d878940cd92ef79a842cc2283.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/el-presidente-dominicano-se-posiciona-a-favor-del-que-gane-las-elecciones-de-eeuu/",
+        "date": "2024-07-22 23:15:36",
+        "sentiment_score": 0.36373673379421234
+    },
+    {
+        "title": "Condenan a hombre que estafó casi tres millones haciéndose pasar por Justin Bieber y otros",
+        "image_url": "./assets/ai_generated/v1_txt2img_198aed5c124d47d89e7d60b51991b18f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/condenan-a-hombre-que-estafo-casi-tres-millones-haciendose-pasar-por-justin-bieber-y-otros/",
+        "date": "2024-07-22 23:01:10",
+        "sentiment_score": -0.8719496540725231
+    },
+    {
+        "title": "Sharon Stone se suma a Bob Odenkirk como protagonista de 'Nobody 2'",
+        "image_url": "./assets/ai_generated/v1_txt2img_22e2803037e446f492f9e1f6eeab3a8d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/sharon-stone-se-suma-a-bob-odenkirk-como-protagonista-de-nobody-2/",
+        "date": "2024-07-22 23:00:53",
+        "sentiment_score": -0.07258579134941101
+    },
+    {
+        "title": "México confía en Javier Aguirre y Rafa Márquez para el Mundial 2026",
+        "image_url": "./assets/ai_generated/v1_txt2img_0e3a980c061148e296db3a3b0b15ff80.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/mexico-confia-en-javier-aguirre-y-rafa-marquez-para-el-mundial-2026/",
+        "date": "2024-07-22 23:00:40",
+        "sentiment_score": 0.610995901748538
+    },
+    {
+        "title": "TNT iguala la oferta de Amazon y pelea por retener los derechos de la NBA",
+        "image_url": "https://www.infobae.com/resizer/v2/DEFYBRD5LFG2RGI4NOCKIQSWVQ.jpg?auth=b126111524d2d7bb161b5e986577ea6ae3d2444b51a28468b407014327388e61",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/tnt-iguala-la-oferta-de-amazon-y-pelea-por-retener-los-derechos-de-la-nba/",
+        "date": "2024-07-22 22:47:17",
+        "sentiment_score": -0.7947145942598581
+    },
+    {
+        "title": "Así han reaccionado los demócratas latinos ante la decisión de Joe Biden",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162922542.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biden-harris-latinos-democratas-elecciones-dusa-tv/",
+        "date": "2024-07-22 23:18:25",
+        "sentiment_score": 0.46301785111427307
+    },
+    {
+        "title": "Encuesta sugiere que Harris podría mejorar la posición electoral demócrata entre estos grupos de personas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/c-gettyimages-2154632445.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "trump",
+            "instanoticias",
+            "elecciones en estados unidos",
+            "joe biden"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/encuesta-harris-superar-biden-trump-trax/",
+        "date": "2024-07-22 23:11:01",
+        "sentiment_score": -0.12723343074321747
+    },
+    {
+        "title": "Jimena Barón y su novio Matías Palleiro compartieron sus ganas de tener un hijo juntos",
+        "image_url": "https://www.infobae.com/resizer/v2/4AYPHYSN4NA5RPZGOO4GJB7BRI.jpg?auth=754470dfddcf01a8b51a8d742339a2b2a26f7a35a825c54e4331d86e8462e036",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2024/07/22/jimena-baron-y-su-novio-matias-palleiro-confesaron-sus-ganas-de-tener-un-hijo-juntos/",
+        "date": "2024-07-22 23:10:35",
+        "sentiment_score": 0.027466975152492523
+    },
+    {
+        "title": "Van 60 medios bloqueados por internet en el país: este 22Jul fueron cinco, alerta ONG",
+        "image_url": "https://www.caraotadigital.net/wp-content/uploads/2023/11/Cantv-CD-1.jpg",
+        "tags": [
+            "medios",
+            "libertad de expresión",
+            "venezuela",
+            "bloqueos",
+            "ddhh"
+        ],
+        "link": "https://www.caraotadigital.net/venezuela/van-60-medios-bloqueados-por-internet-en-el-pais-este-22jul-fueron-cinco-alerta-ong/",
+        "date": "2024-07-22 23:08:33",
+        "sentiment_score": -0.4978584684431553
+    },
+    {
+        "title": "Acusan a operador que prometía desde Colombia alivio de deudas estudiantiles en EE.UU.",
+        "image_url": "./assets/ai_generated/v1_txt2img_00533a9f73b147878a9699a75cb15304.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/22/acusan-a-operador-que-prometia-desde-colombia-alivio-de-deudas-estudiantiles-en-eeuu/",
+        "date": "2024-07-22 22:45:20",
+        "sentiment_score": -0.8383669648319483
+    },
+    {
+        "title": "CNE realizó Auditoría de Predespacho para las elecciones del #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/GTFcv-9XgAAB3nk-1280x720.jpeg",
+        "tags": [
+            "elecciones 28 julio",
+            "nacionales",
+            "cne"
+        ],
+        "link": "https://2001online.com/nacionales/cne-realizo-auditoria-de-predespacho-de-cara-a-las-elecciones-del-28jul/",
+        "date": "2024-07-22 23:24:00",
+        "sentiment_score": 0.08755519986152649
+    },
+    {
+        "title": "Arrancó el debate de ley para recuperar el ingreso de los trabajadores (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Ley-Antibloqueo-1280x720.jpeg",
+        "tags": [
+            "ingreso integral",
+            "ley antibloqueo",
+            "nacionales",
+            "venezuela",
+            "2001online"
+        ],
+        "link": "https://2001online.com/nacionales/arranco-el-debate-de-ley-para-recuperar-el-ingreso-de-los-trabajadores-detalles/",
+        "date": "2024-07-22 23:09:00",
+        "sentiment_score": 0.13345901668071747
     }
 ];
