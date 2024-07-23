@@ -3361,5 +3361,399 @@ export default [
         "link": "https://2001online.com/nacionales/conozca-como-sera-el-proceso-de-votacion-para-venezolanos-en-chile-el-28jul/",
         "date": "2024-07-23 01:23:04",
         "sentiment_score": 0.11632504314184189
+    },
+    {
+        "title": "Hamás, Fatah y grupos palestinos acuerdan en China formar un Gobierno de unidad nacional",
+        "image_url": "./assets/ai_generated/v1_txt2img_c496a9092921444e9d0835b73ee410e1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/hamas-fatah-y-grupos-palestinos-acuerdan-en-china-formar-un-gobierno-de-unidad-nacional/",
+        "date": "2024-07-23 06:15:53",
+        "sentiment_score": -0.273772157728672
+    },
+    {
+        "title": "Bangladés amanece en calma pero bajo toque de queda por las protestas estudiantiles",
+        "image_url": "./assets/ai_generated/v1_txt2img_bf2025bd7100411c86754f715624f2c0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/banglades-amanece-en-calma-pero-bajo-toque-de-queda-por-las-protestas-estudiantiles/",
+        "date": "2024-07-23 06:15:36",
+        "sentiment_score": -0.36091814935207367
+    },
+    {
+        "title": "Beyoncé autoriza a Kamala Harris a usar su tema \"Freedom\" en sus actos, según CNN",
+        "image_url": "./assets/ai_generated/v1_txt2img_64df273b91a041279c4913d226694282.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/beyonce-autoriza-a-kamala-harris-a-usar-su-tema-freedom-en-sus-actos-segun-cnn/",
+        "date": "2024-07-23 06:15:19",
+        "sentiment_score": 0.30968736857175827
+    },
+    {
+        "title": "Pionyang dice que no le importa quién gane elecciones en EEUU y apunta a que no dialogará",
+        "image_url": "./assets/ai_generated/v1_txt2img_fe0d4489e02042848d832e0b18ee0545.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/pionyang-dice-que-no-le-importa-quien-gane-elecciones-en-eeuu-y-apunta-a-que-no-dialogara/",
+        "date": "2024-07-23 06:00:55",
+        "sentiment_score": -0.3113902546465397
+    },
+    {
+        "title": "Irán captura un buque cisterna con bandera de Togo por contrabando",
+        "image_url": "./assets/ai_generated/v1_txt2img_82a1b11f482949378f1ad07fc059579d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/iran-captura-un-buque-cisterna-con-bandera-de-togo-por-contrabando/",
+        "date": "2024-07-23 06:00:39",
+        "sentiment_score": -0.5612168200314045
+    },
+    {
+        "title": "Hamás, Fatah y otras facciones palestinas firman un acuerdo de unidad en Pekín",
+        "image_url": "./assets/ai_generated/v1_txt2img_1380685cd7d94fb8b05ab570ebeaaa90.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/hamas-fatah-y-otras-facciones-palestinas-firman-un-acuerdo-de-unidad-en-pekin/",
+        "date": "2024-07-23 06:00:22",
+        "sentiment_score": 0.08764861524105072
+    },
+    {
+        "title": "Un tribunal ruso condena a la periodista ruso-estadounidense Alsu Kurmasheva a 6,5 años de cárcel",
+        "image_url": "https://www.infobae.com/resizer/v2/YSNDQKZULRDXFJ56BQG23UUMEE.jpg?auth=4e6f72c47f777ee1b7d4cbe666efa3074c51b7df37b6cc2e5e6fe04c0b107583",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/un-tribunal-ruso-condena-a-la-periodista-ruso-estadounidense-alsu-kurmasheva-a-65-anos-de-carcel/",
+        "date": "2024-07-23 05:47:20",
+        "sentiment_score": -0.8041746411472559
+    },
+    {
+        "title": "Dimite presidente de la farmacéutica nipona cuyo suplemento dietético causó varias muertes",
+        "image_url": "./assets/ai_generated/v1_txt2img_cc80b3381bab4743aa242a5d9555a635.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/dimite-presidente-de-la-farmaceutica-nipona-cuyo-suplemento-dietetico-causo-varias-muertes/",
+        "date": "2024-07-23 05:46:54",
+        "sentiment_score": -0.8443720545619726
+    },
+    {
+        "title": "La India presenta sus presupuestos con la infraestructura y el desempleo en el foco",
+        "image_url": "./assets/ai_generated/v1_txt2img_e13bd41c04364528821dcd0d7c79df5e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/la-india-presenta-sus-presupuestos-con-la-infraestructura-y-el-desempleo-en-el-foco/",
+        "date": "2024-07-23 05:45:54",
+        "sentiment_score": -0.1123553067445755
+    },
+    {
+        "title": "Hamas y resto de facciones palestinas firman un acuerdo de unidad en Pekín",
+        "image_url": "./assets/ai_generated/v1_txt2img_7e68825c4013413194d05e88dc8eba0f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/hamas-y-resto-de-facciones-palestinas-firman-un-acuerdo-de-unidad-en-pekin/",
+        "date": "2024-07-23 05:45:37",
+        "sentiment_score": 0.12041065096855164
+    },
+    {
+        "title": "Harris consigue suficientes apoyos de delegados para ganar la nominación presidencial demócrata",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-Harris-2.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/harris-apoyos-delegados-nominacion-presidencial-democrata-trax/",
+        "date": "2024-07-23 04:35:42",
+        "sentiment_score": 0.3172329217195511
+    },
+    {
+        "title": "Las posturas de Trump sobre migración y economía",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/trump-convencion-republicana-still_dfb5ce.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "cnn en español",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-migracion-biden/",
+        "date": "2024-07-23 04:25:44",
+        "sentiment_score": -0.3637651726603508
+    },
+    {
+        "title": "Demócratas reaccionan a renuncia de Biden a la candidatura",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162011564_c7f0f8.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/renuncia-biden-candidatura/",
+        "date": "2024-07-23 04:19:33",
+        "sentiment_score": -0.19403837621212006
+    },
+    {
+        "title": "¿El chavismo se ha acercado a la oposición venezolana? Corina Machado responde",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2159963754.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maria-corina-machado-chavismo-maduro-acercamiento-conclusiones-tv/",
+        "date": "2024-07-23 02:55:21",
+        "sentiment_score": -0.35431692749261856
+    },
+    {
+        "title": "Corina Machado detalla cuál será su lugar si Edmundo González gana elecciones en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162344180.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/votantes-venezuela-corina-machado-maduro-edmundo-elecciones-conclusiones-tv/",
+        "date": "2024-07-23 02:52:19",
+        "sentiment_score": 0.13143490254878998
+    },
+    {
+        "title": "María Corina Machado en Conclusiones: Maduro ha hecho de su campaña la violencia, es lo único que le queda",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/maria-corina-machado.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "maría corina machado",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/22/maria-corina-machado-venezuela-elecciones-conclusiones-entrevista-conclu-orix/",
+        "date": "2024-07-23 02:49:40",
+        "sentiment_score": -0.6097972393035889
+    },
+    {
+        "title": "Corina Machado explica el rol de las FF.AA. en la defensa del voto en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1462891844.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-corina-machado-resultados-elecciones-fuerzas-armadas-maduro-conclusiones-tv/",
+        "date": "2024-07-23 02:46:05",
+        "sentiment_score": -0.43134675547480583
+    },
+    {
+        "title": "María Corina Machado: Los ciudadanos son héroes de lo que está pasando y de lo que va a ocurrir",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1681257752.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "venezuela",
+            "maría corina machado",
+            "elecciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maria-corina-machado-oposicion-maduro-conclusiones-tv/",
+        "date": "2024-07-23 02:42:01",
+        "sentiment_score": -0.7761652171611786
+    },
+    {
+        "title": "20 años sin Carmen Ordóñez: recordamos sus grandes amores",
+        "image_url": "https://www.hola.com/horizon/landscape/81b797954d28-carmen-ordonez-gtres11.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/actualidad/20240723707761/carmen-ordonez-grandes-amores/",
+        "date": "2024-07-23 05:38:24",
+        "sentiment_score": 0.027442321181297302
+    },
+    {
+        "title": "Una mujer se declara culpable de tramar esquema Ponzi que defraudó casi 200 millones en EE UU",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/03/09/carlo-ponzi.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5534041/0/eeuu-fraude-mujer-se-declara-culpable-tramar-esquema-ponzi-que-defraudo-casi-200-millones-eeuu/",
+        "date": "2024-07-23 04:34:42",
+        "sentiment_score": -0.7560308128595352
+    },
+    {
+        "title": "El dominicano Soto y el puertorriqueño Lindor encienden la llama latina en las Grandes Ligas",
+        "image_url": "https://www.infobae.com/resizer/v2/7KL5J4ZKBVC4FFEMSYG4XVHJ7A.jpg?auth=b45eec2f37d5162838da8953a1de42ed3498f8462379d863637fb5f2efe8278e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/el-dominicano-soto-y-el-puertorriqueno-lindor-encienden-la-llama-latina-en-las-grandes-ligas/",
+        "date": "2024-07-23 04:30:42",
+        "sentiment_score": 0.5697361305356026
+    },
+    {
+        "title": "El dominicano Soto y el puertorriqueño Lindor encienden la llama latina en Grandes Ligas",
+        "image_url": "./assets/ai_generated/v1_txt2img_17c9ac664c5142189f361648e54d9fb1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/el-dominicano-soto-y-el-puertorriqueno-lindor-encienden-la-llama-latina-en-grandes-ligas/",
+        "date": "2024-07-23 04:00:37",
+        "sentiment_score": 0.42884134501218796
+    },
+    {
+        "title": "La pobreza es mayor en las ciudades más latinas de Estados Unidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZHVKKR34MBEOXBIGMNTVMNLJCE.jpg?auth=8e2b9521aed976e2a32f7b63124914e99b629ea0a7513c476d39f13ede192049",
+        "tags": [
+            "pobreza",
+            "miami",
+            "latinos",
+            "california",
+            "estados unidos",
+            "texas",
+            "florida",
+            "américa",
+            "economía"
+        ],
+        "link": "https://elpais.com/us/economia/2024-07-23/la-pobreza-es-mayor-en-las-ciudades-mas-latinas-de-estados-unidos.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.17568664252758026
+    },
+    {
+        "title": "Tengo un pisazo para ti: cómo los agentes inmobiliarios han conquistado TikTok",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PMA3GXLUHRC3VAX7GGXYVP6TLI.jpg?auth=b9100df0a080ceb453ea1fd5eb551addc5774f04cf02b1a9799a26eced414100",
+        "tags": [
+            "arquitectura",
+            "lujo",
+            "vivienda",
+            "madrid",
+            "turismo",
+            "casas",
+            "estilo vida"
+        ],
+        "link": "https://elpais.com/icon-design/2024-07-23/tiburones-cayetanos-y-pisos-que-valen-millones-como-los-agentes-inmobiliarios-han-conquistado-tiktok.html",
+        "date": "2024-07-23 03:30:00",
+        "sentiment_score": 0.471303790807724
+    },
+    {
+        "title": "André-Pierre Gignac se suma a las voces críticas contra la Leagues Cup: “Es show”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/AP24049172777147-e1721704958479.jpg",
+        "tags": [
+            "leagues cup",
+            "mls",
+            "andré pierre-gignac",
+            "deportes",
+            "fútbol",
+            "liga mx"
+        ],
+        "link": "https://eldiariony.com/2024/07/22/andre-pierre-gignac-se-suma-a-las-voces-criticas-contra-la-leagues-cup-es-show/",
+        "date": "2024-07-23 03:23:46",
+        "sentiment_score": -0.1161414384841919
+    },
+    {
+        "title": "Los Heat frustran la gran noche de LaRavia y Scottie Pippen Jr y ganan la Summer League",
+        "image_url": "./assets/ai_generated/v1_txt2img_e65604c19f414034a1e340b137743406.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/los-heat-frustran-la-gran-noche-de-laravia-y-scottie-pippen-jr-y-ganan-la-summer-league/",
+        "date": "2024-07-23 03:00:37",
+        "sentiment_score": -0.3638070970773697
+    },
+    {
+        "title": "Conoce los 5 lugares de EEUU donde las viviendas fueron más asequibles en julio",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/04/viviendas-EEUU.jpeg",
+        "tags": [
+            "viviendas eeuu",
+            "internacionales",
+            "eeuu",
+            "viviendas asequibles",
+            "viviendas baratas eeuu",
+            "2001online"
+        ],
+        "link": "https://2001online.com/internacionales/conoce-los-5-lugares-de-eeuu-donde-las-viviendas-fueron-mas-asequibles-en-julio/",
+        "date": "2024-07-23 03:00:00",
+        "sentiment_score": 0.03333863615989685
+    },
+    {
+        "title": "Los perfumes de verano que triunfan entre las coruñesas que adoran el olor a playa",
+        "image_url": "https://s1.elespanol.com/2024/07/22/quincemil/vivir/moda-vivir/872423278_247965433_1706x960.jpg?contentId=ESPIMA20240722_0529",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/quincemil/vivir/moda-vivir/20240723/perfumes-verano-triunfan-corunesas-adoran-olor-playa/872413074_0.html",
+        "date": "2024-07-23 03:00:00",
+        "sentiment_score": 0.7537875473499298
+    },
+    {
+        "title": "Los Endres consiguen una casa después de toda una vida en la calle",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FLAQMCJUPREKXMCWHO33AQ35FE.jpg?auth=9359e6c4a745c4a7d05437f05b9bcc7c460a6dfe4376ffcc0d831842c423f7c8",
+        "tags": [
+            "pobreza",
+            "desigualdad social",
+            "california",
+            "vivienda",
+            "estados unidos",
+            "familia",
+            "américa",
+            "san diego"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/los-endres-consiguen-una-casa-despues-de-toda-una-vida-en-la-calle.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": -0.12030711770057678
+    },
+    {
+        "title": "Anita Álvarez vuelve a sumergirse en el agua para perseguir el sueño olímpico en París 2024",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E7BI3S7SRRGZ7CX57ZAEWML5VU.jpg?auth=25a4bcd8de34ed64a5056114b4f7e81adade74a82da0e0b16aca4042e33129ec",
+        "tags": [
+            "natación",
+            "deporte extremo",
+            "deporte femenino",
+            "estados unidos",
+            "juegos olímpicos 2020",
+            "natación sincronizada",
+            "juegos olímpicos 2016",
+            "américa"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/anita-alvarez-vuelve-a-sumergirse-en-el-agua-para-perseguir-el-sueno-olimpico-en-paris-2024.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.7746482528746128
+    },
+    {
+        "title": "De 11 millones de habitantes a poco más de 8,5: el saldo real de la crisis migratoria en Cuba",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KAVB2G3EQVE73FO2WFUKEHUHXM.jpg?auth=a84a33505afa44af884d98d44749e793654d596bbf1dd8067300453172f70ca4",
+        "tags": [
+            "miguel díaz-canel",
+            "crisis económica",
+            "demografía",
+            "protestas sociales",
+            "estados unidos",
+            "cuba",
+            "américa",
+            "inmigración"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/de-11-millones-de-habitantes-a-poco-mas-de-85-el-saldo-real-de-la-crisis-migratoria-en-cuba.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.11453482508659363
+    },
+    {
+        "title": "Video | Los momentos destacados del primer mitin de Kamala Harris",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3DJ4GIN62NGR3CAPUI5UEYTL2Y?auth=df99a253acbb86ab9e60bf8ada0ea4310de1ae84ea9481e6bfdcb905832c34b9&width=1200",
+        "tags": [
+            "elecciones ee uu",
+            "joseph biden",
+            "elecciones",
+            "donald trump",
+            "estados unidos",
+            "américa",
+            "kamala harris",
+            "mitin electoral"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/video-los-momentos-destacados-del-primer-mitin-de-kamala-harris.html",
+        "date": "2024-07-23 03:23:07",
+        "sentiment_score": 0.09855347871780396
+    },
+    {
+        "title": "Maduro ofrece financiamiento a un millón de emprendedores: sepa cómo acceder",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/4f74244f-c964-4474-8e2c-034eb3dbb9b9_w1023_r1_s.jpg",
+        "tags": [
+            "credimujer",
+            "credijoven",
+            "crediemprendebdv",
+            "nicolás maduro",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-ofrece-financiamiento-a-un-millon-de-emprendedores-sepa-como-acceder/",
+        "date": "2024-07-23 03:00:00",
+        "sentiment_score": 0.2077440619468689
     }
 ];
