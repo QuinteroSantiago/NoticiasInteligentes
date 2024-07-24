@@ -11,7 +11,7 @@ def news_fetcher():
     if api_key is None:
         raise Exception("Missing News Data IO API key.")
 
-    sources = ["www.infobae.com/america/", "cnnespanol.cnn.com", "miami", "elpais.com/us/"]
+    sources = ["www.infobae.com/espana/", "cnnespanol.cnn.com", "www.abc.es", "elpais.com/espana"]
     all_articles = []
 
     # Fetch data from all sources
