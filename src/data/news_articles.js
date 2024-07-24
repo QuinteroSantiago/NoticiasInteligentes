@@ -100,38 +100,6 @@ export default [
         "sentiment_score": 0.4338913522660732
     },
     {
-        "title": "Decenas de personas murieron y miles huyeron después de que Israel redujera la \"zona humanitaria\" en Gaza",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gente-gaza.png",
-        "tags": [
-            "medio oriente",
-            "israel hamas gaza"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/23/israel-reduce-zona-humanitaria-gaza-muertos-desplazados-trax/",
-        "date": "2024-07-23 20:54:42",
-        "sentiment_score": -0.8990362174808979
-    },
-    {
-        "title": "ANÁLISIS | La falla tecnológica mundial demostró que estamos a sólo un error del caos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162018355.webp",
-        "tags": [
-            "análisis",
-            "ciberseguridad"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/23/analisis-falla-tecnologica-mundial-crowstrike-microsoft-trax/",
-        "date": "2024-07-23 20:49:14",
-        "sentiment_score": -0.8774209022521973
-    },
-    {
-        "title": "Así fue la primera aparición de Biden tras retirarse de la elección",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/biden0-20240723202134234.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/joe-biden-covid-renuncia-perspectivas-mexico-tv-ush/",
-        "date": "2024-07-23 20:24:57",
-        "sentiment_score": -0.34547460079193115
-    },
-    {
         "title": "El presidente de la Asociación Uruguaya tomó distancia de las explosivas declaraciones de Bielsa en la Copa América: “No representan la opinión de la AUF”",
         "image_url": "https://www.infobae.com/resizer/v2/V7KNWY33GOK4Y4TEAAV7JSFYLY.jpg?auth=ab8dde1f188c94c0796dddbbb0098fa0c410f45e863419ad35270c43b7c00746",
         "tags": [
@@ -182,40 +150,6 @@ export default [
         "sentiment_score": 0.841404085047543
     },
     {
-        "title": "Néstor Lorenzo podría irse de la selección Colombia: tendría dos ofertas sobre la mesa",
-        "image_url": "https://www.infobae.com/resizer/v2/24BEOWYQCJA3TPIKQ47KL5A534.jpg?auth=130a8aa1c9bcacab69fa5cd0c7a9f45b628801c9d0314f1360109dfa9469b367",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2024/07/23/nestor-lorenzo-podria-irse-de-la-seleccion-colombia-tendria-dos-ofertas-sobre-la-mesa/",
-        "date": "2024-07-23 21:17:02",
-        "sentiment_score": 0.6591298282146454
-    },
-    {
-        "title": "Infiltrados en la final de la Copa América en Miami podrían perder la visa y residencia estadounidense",
-        "image_url": "https://www.caraotadigital.net/wp-content/uploads/2024/07/ESTADIO-DE-MIAMI.jpg",
-        "tags": [
-            "estados unidos",
-            "usa",
-            "visa",
-            "eeuu",
-            "visa americana"
-        ],
-        "link": "https://www.caraotadigital.net/usa/infiltrados-en-la-final-de-la-copa-america-en-miami-podrian-perder-la-visa-y-residencia-estadounidense/",
-        "date": "2024-07-23 20:56:03",
-        "sentiment_score": -0.8692097086459398
-    },
-    {
-        "title": "Lionel Messi se recupera de la lesión en el tobillo en la tranquilidad de su hogar",
-        "image_url": "https://www.hola.com/horizon/landscape/e916cff74020-ss.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/us-es/celebrities/20240723708792/lionel-messi-lesion-copa-america-recuperacion/",
-        "date": "2024-07-23 20:53:33",
-        "sentiment_score": 0.0006835609674453735
-    },
-    {
         "title": "Cobertura especial 2001: elecciones presidenciales Venezuela 2024",
         "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-439.png",
         "tags": [
@@ -226,20 +160,6 @@ export default [
         "link": "https://2001online.com/nacionales/cobertura-especial-2001-elecciones-presidenciales-venezuela-2024/",
         "date": "2024-07-23 22:19:24",
         "sentiment_score": 0.23597058653831482
-    },
-    {
-        "title": "Maduro anunció fondo para emprendimientos de las personas de la tercera edad (+MONTO)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-23-at-4.24.17-PM.jpeg",
-        "tags": [
-            "maduro",
-            "fondo de emprendimiento tercera edad",
-            "tercera edad",
-            "años dorados",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/maduro-anuncio-fondo-para-emprendimientos-de-las-personas-de-la-tercera-edad-monto/",
-        "date": "2024-07-23 21:00:00",
-        "sentiment_score": 0.39381488412618637
     },
     {
         "title": "Mariposas y polillas atraen el polen sin contacto gracias a la electricidad estática",
@@ -2003,5 +1923,125 @@ export default [
         "link": "https://www.larazon.es/cataluna/foto-colectania-barcelona-acercara-fotografia-espanola-exposicion-miami-eeuu_2024072466a0b097ef894800011270ef.html",
         "date": "2024-07-24 07:43:19",
         "sentiment_score": 0.689209345728159
+    },
+    {
+        "title": "La alta afluencia de turistas en los JJOO impulsa la demanda desde París a países como España, EEUU o Reino Unido",
+        "image_url": "https://www.infobae.com/resizer/v2/DQ6I6IMKPNHA5O7IQSHMSBPDIE.jpg?auth=009ff38a3731cc1d7e6a1778402cbdffc96f9dd29340c6c5f855d813f33d7b43",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-alta-afluencia-de-turistas-en-los-jjoo-impulsa-la-demanda-desde-paris-a-paises-como-espana-eeuu-o-reino-unido/",
+        "date": "2024-07-24 09:18:20",
+        "sentiment_score": 0.3833174407482147
+    },
+    {
+        "title": "Muere un palestino tiroteado por las fuerzas de Israel en una nueva operación en Cisjordania",
+        "image_url": "https://www.infobae.com/resizer/v2/N4FBNVZVXZDLTF63HL7EEDWU44.jpg?auth=3571a651385979c42782975329eb380fcd80fbdbd75fb5ce2d8dc47a611c353b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/muere-un-palestino-tiroteado-por-las-fuerzas-de-israel-en-una-nueva-operacion-en-cisjordania/",
+        "date": "2024-07-24 09:18:07",
+        "sentiment_score": -0.78911935351789
+    },
+    {
+        "title": "Una reconstrucción facial reveló cómo era el verdadero rostro de Tutankamón",
+        "image_url": "./assets/ai_generated/v1_txt2img_e98dd0f2e974424798bd07a7dc38b5c2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2024/07/24/una-reconstruccion-facial-revelo-como-era-el-verdadero-rostro-de-tutankamon/",
+        "date": "2024-07-24 09:18:00",
+        "sentiment_score": 0.7007922418415546
+    },
+    {
+        "title": "Al menos cinco muertos tras una explosión en una destilería de José Cuervo, en México",
+        "image_url": "https://www.infobae.com/resizer/v2/NQSS2OISL5FA5KDAOP2ELGIEWY.jpg?auth=4b8580230e2909fd7c23dcbc8a257f0cab1f8de4f76186074d5b19adf4f673d1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/al-menos-cinco-muertos-tras-una-explosion-en-una-destileria-de-jose-cuervo-en-mexico/",
+        "date": "2024-07-24 09:17:54",
+        "sentiment_score": -0.8023961503058672
+    },
+    {
+        "title": "Reino Unido dice que un importante almacén de armas de Rusia fue alcanzado por un ataque con drones de Ucrania",
+        "image_url": "https://www.infobae.com/resizer/v2/XJS7F4OY4VF3BCNHUMC5VUS3QM.jpg?auth=ebf5c1a92e1ffd659e046485797a46ba267b5f6827b1aec2a2aeda66df6864e4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/reino-unido-dice-que-un-importante-almacen-de-armas-de-rusia-fue-alcanzado-por-un-ataque-con-drones-de-ucrania/",
+        "date": "2024-07-24 09:17:36",
+        "sentiment_score": -0.5203175358474255
+    },
+    {
+        "title": "FundéuRAE: “llamada robotizada” o “robollamada”, alternativas a “robocall”",
+        "image_url": "./assets/ai_generated/v1_txt2img_ca55b758ff0f48dbae0f5d075901b7ed.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/fundeurae-llamada-robotizada-o-robollamada-alternativas-a-robocall/",
+        "date": "2024-07-24 09:16:41",
+        "sentiment_score": 0.03163816034793854
+    },
+    {
+        "title": "Catania prohíbe circular a las motos por las toneladas de cenizas procedentes del volcán Etna",
+        "image_url": "https://www.infobae.com/resizer/v2/45Y3SDRAEFHEVJYBSBXVI35YKI.jpg?auth=91255fcb508b1b6367faa5581b51625fd5e79b0736b5b8b46297ce7229d71860",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/catania-prohibe-circular-a-las-motos-por-las-toneladas-de-cenizas-procedentes-del-volcan-etna/",
+        "date": "2024-07-24 09:16:14",
+        "sentiment_score": -0.817127600312233
+    },
+    {
+        "title": "El español Fernando Franco adapta al cine 'Subsuelo', novela del argentino Fernando Luján",
+        "image_url": "./assets/ai_generated/v1_txt2img_16c810bde32943f0bcf2c8ed9065e749.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-espanol-fernando-franco-adapta-al-cine-subsuelo-novela-del-argentino-fernando-lujan/",
+        "date": "2024-07-24 09:15:53",
+        "sentiment_score": 0.07409121841192245
+    },
+    {
+        "title": "Patricia Cerezo se ruboriza con solo pensar en una posible pedida de mano",
+        "image_url": "https://www.infobae.com/resizer/v2/D44WMJGC6JC4NJ22L4SRTG2L7I.jpg?auth=e19c3eb40bd5e84664169fc6aa51a310ce7ee011084ff56a2766f65b23cb9663",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/patricia-cerezo-se-ruboriza-con-solo-pensar-en-una-posible-pedida-de-mano/",
+        "date": "2024-07-24 09:15:34",
+        "sentiment_score": -0.42274102568626404
+    },
+    {
+        "title": "Catania prohíbe circular a las motos por las toneladas de cenizas procedentes del Etna",
+        "image_url": "./assets/ai_generated/v1_txt2img_f10e45b1adee42ee90e140a30b87f286.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/catania-prohibe-circular-a-las-motos-por-las-toneladas-de-cenizas-procedentes-del-etna/",
+        "date": "2024-07-24 09:15:19",
+        "sentiment_score": -0.8249461948871613
+    },
+    {
+        "title": "Millones de migrantes venezolanos no pueden votar pese al peso económico de sus remesas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/332283c1-7ef0-42cd-b77a-fe2166843442_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/internacional/2024/07/24/millones-migrantes-venezolanos-no-pueden-votar-pese-a-remesas-106014656.html",
+        "date": "2024-07-24 08:57:48",
+        "sentiment_score": 0.33604851365089417
+    },
+    {
+        "title": "Millones de migrantes venezolanos no pueden votar pese al peso económico de sus remesas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/332283c1-7ef0-42cd-b77a-fe2166843442_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.epe.es/es/internacional/20240724/millones-migrantes-venezolanos-no-pueden-votar-pese-a-remesas-106014611",
+        "date": "2024-07-24 08:57:45",
+        "sentiment_score": 0.3284406214952469
     }
 ];
