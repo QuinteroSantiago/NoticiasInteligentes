@@ -199,17 +199,6 @@ export default [
         "sentiment_score": 0.35282646492123604
     },
     {
-        "title": "El ministro de Asuntos Exteriores de Ucrania llega a China en su primera visita importante desde el inicio de la guerra",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2160721745.jpg?quality=100&strip=info",
-        "tags": [
-            "guerra de rusia en ucrania",
-            "ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/23/visita-kuleba-ucrania-china-trax/",
-        "date": "2024-07-23 17:57:57",
-        "sentiment_score": 0.015424728393554688
-    },
-    {
         "title": "El presidente de la Asociación Uruguaya tomó distancia de las explosivas declaraciones de Bielsa en la Copa América: “No representan la opinión de la AUF”",
         "image_url": "https://www.infobae.com/resizer/v2/V7KNWY33GOK4Y4TEAAV7JSFYLY.jpg?auth=ab8dde1f188c94c0796dddbbb0098fa0c410f45e863419ad35270c43b7c00746",
         "tags": [
@@ -349,42 +338,6 @@ export default [
         "link": "https://elpais.com/us/2024-07-23/la-muerte-de-una-mujer-negra-que-habia-pedido-ayuda-al-911-reabre-el-debate-sobre-la-violencia-policial.html",
         "date": "2024-07-23 18:30:36",
         "sentiment_score": -0.8273289389908314
-    },
-    {
-        "title": "Autoridades federales inician investigación a Delta Air Lines por cancelaciones masivas de vuelos tras el fallo informático",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/T6GXX6KAMVFTBFBGWQW5PE5DBI.jpg?auth=aeebac28f972029ccfc7e2734306d818af91e488a5c1eb5e2faeb6ccd7f8eb5a",
-        "tags": [
-            "américa",
-            "estados unidos",
-            "transporte aéreo",
-            "microsoft",
-            "aerolíneas",
-            "transporte",
-            "aeropuertos",
-            "delta airlines",
-            "cancelaciones transporte"
-        ],
-        "link": "https://elpais.com/us/2024-07-23/autoridades-federales-inician-investigacion-a-delta-air-lines-por-cancelaciones-masivas-de-vuelos-tras-el-fallo-informatico.html",
-        "date": "2024-07-23 17:25:09",
-        "sentiment_score": -0.8634332725778222
-    },
-    {
-        "title": "Estados Unidos denuncia un presunto fraude a hispanos con deudas estudiantiles",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UTLPSNAWVNEGPL3AJ7LRXKZGBU.jpg?auth=882e5d1ced556d9b2cb44ad35da11d6b95bd0d7f57f5733c853b2cf7ba149005",
-        "tags": [
-            "américa",
-            "puerto rico",
-            "deudas",
-            "fraudes",
-            "latinos",
-            "estados unidos",
-            "consumidores",
-            "florida",
-            "préstamos"
-        ],
-        "link": "https://elpais.com/us/economia/2024-07-23/estados-unidos-denuncia-un-presunto-fraude-a-hispanos-con-deudas-estudiantiles.html",
-        "date": "2024-07-23 16:24:23",
-        "sentiment_score": -0.7642222214490175
     },
     {
         "title": "Cobertura especial 2001: elecciones presidenciales Venezuela 2024",
@@ -1828,5 +1781,172 @@ export default [
         "link": "https://2001online.com/nacionales/coordinador-de-vente-venezuela-se-desmayo-en-acto-de-campana-en-el-zulia-video/",
         "date": "2024-07-24 03:29:42",
         "sentiment_score": -0.373298779129982
+    },
+    {
+        "title": "Bangladés relaja el toque de queda y reabre oficinas y fábricas tras caos por protestas",
+        "image_url": "./assets/ai_generated/v1_txt2img_63b8640348fa421eb16c15508a50fa88.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/banglades-relaja-el-toque-de-queda-y-reabre-oficinas-y-fabricas-tras-caos-por-protestas/",
+        "date": "2024-07-24 06:15:18",
+        "sentiment_score": -0.11116388440132141
+    },
+    {
+        "title": "Bukele elimina aranceles a más de cien productos alimentarios para combatir el alza de precios",
+        "image_url": "https://www.infobae.com/resizer/v2/LM6Q3RT4UJGY5GUDAHHHPZA3EY.jpg?auth=5a881f508e7088a7c8e07088ab759bea5f14e49c9d494b07de067fa07c1daa55",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/bukele-elimina-aranceles-a-mas-de-cien-productos-alimentarios-para-combatir-el-alza-de-precios/",
+        "date": "2024-07-24 06:02:13",
+        "sentiment_score": -0.025792419910430908
+    },
+    {
+        "title": "Alemania prohíbe el Centro Islámico de Hamburgo por ser extremista y apoyar a Hizbulá",
+        "image_url": "./assets/ai_generated/v1_txt2img_fedace120c0d4ff786e1012fab6117f7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/alemania-prohibe-el-centro-islamico-de-hamburgo-por-ser-extremista-y-apoyar-a-hizbula/",
+        "date": "2024-07-24 06:00:36",
+        "sentiment_score": -0.8939961493015289
+    },
+    {
+        "title": "Pionyang ha podido enviar hasta 5,2 millones de rondas de artillería a Moscú, según Seúl",
+        "image_url": "./assets/ai_generated/v1_txt2img_d55c8ac8e1a54346b5796a3382f6325d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/pionyang-ha-podido-enviar-hasta-52-millones-de-rondas-de-artilleria-a-moscu-segun-seul/",
+        "date": "2024-07-24 06:00:19",
+        "sentiment_score": 0.29088083654642105
+    },
+    {
+        "title": "EEUU sanciones a tres personas por ayudar a financiar Estado Islámico en África",
+        "image_url": "./assets/ai_generated/v1_txt2img_712781632bf046ff8feb127c90f3c9c7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/eeuu-sanciones-a-tres-personas-por-ayudar-a-financiar-estado-islamico-en-africa/",
+        "date": "2024-07-24 05:47:16",
+        "sentiment_score": -0.8741785362362862
+    },
+    {
+        "title": "Efemérides del 25 de julio",
+        "image_url": "./assets/ai_generated/v1_txt2img_aae90b7e680d46608d552aa8f560a04a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/efemerides-del-25-de-julio/",
+        "date": "2024-07-24 05:45:35",
+        "sentiment_score": -0.015202894806861877
+    },
+    {
+        "title": "Un niño muerto y 6 heridos en un ataque atribuido a disidencias de las FARC en Colombia",
+        "image_url": "./assets/ai_generated/v1_txt2img_884d9dc8e321495bafe19ccc719fb82a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-nino-muerto-y-6-heridos-en-un-ataque-atribuido-a-disidencias-de-las-farc-en-colombia/",
+        "date": "2024-07-24 05:45:18",
+        "sentiment_score": -0.8457914236932993
+    },
+    {
+        "title": "El primer ministro de Montenegro reforma su Gobierno con una mayor presencia de proserbios y probosnios",
+        "image_url": "https://www.infobae.com/resizer/v2/MNI5XS6LXBDOTA4ZRHIGFC2PMA.jpg?auth=386e5a451f52a84e19a1c5273a8bff0c70e6aa209f0a3a79a962126e2d7c9eec",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-primer-ministro-de-montenegro-reforma-su-gobierno-con-una-mayor-presencia-de-proserbios-y-probosnios/",
+        "date": "2024-07-24 05:17:29",
+        "sentiment_score": 0.28273454308509827
+    },
+    {
+        "title": "Banco Santander gana 6.059 millones en el primer semestre, un 15,6% más",
+        "image_url": "./assets/ai_generated/v1_txt2img_9dd50d780b8e449d983828db2084d266.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/banco-santander-gana-6059-millones-en-el-primer-semestre-un-156-mas/",
+        "date": "2024-07-24 05:17:16",
+        "sentiment_score": 0.4066982939839363
+    },
+    {
+        "title": "Interna del MAS en Bolivia: seguidores de Luis Arce rechazaron la proclamación de Evo Morales como líder del partido",
+        "image_url": "https://www.infobae.com/resizer/v2/SHDUX5IFIBDORLFAHULAIPWMSY.jpg?auth=3f7fe36e6e15b5691287fe4acb301379d3ec520c0d8e9824da8478a16c7b8c8f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/america-latina/2024/07/24/interna-del-mas-en-bolivia-seguidores-de-luis-arce-rechazaron-la-proclamacion-de-evo-morales-como-lider-del-partido/",
+        "date": "2024-07-24 05:15:11",
+        "sentiment_score": -0.07074421644210815
+    },
+    {
+        "title": "Desilusionado con Biden, Hollywood se entusiasma con Kamala Harris",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-5.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "hollywood",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/biden-hollywood-entusiasmo-apoyo-kamala-harris-trax/",
+        "date": "2024-07-24 04:37:40",
+        "sentiment_score": -0.24702872335910797
+    },
+    {
+        "title": "Una sencilla herramienta puede predecir el riesgo de demencia y depresión, según un estudio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/tool-dementia-depression-.jpeg?quality=100&strip=info",
+        "tags": [
+            "demencia",
+            "depresión",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/brain-care-score-herramienta-predecir-riesgo-demencia-depresion-trax/",
+        "date": "2024-07-24 04:26:22",
+        "sentiment_score": 0.42794693633913994
+    },
+    {
+        "title": "JLo cumple 55 años: la actriz latina mejor paga del mundo, la pelea con Mariah Carey y sus vaivenes con Ben Affleck",
+        "image_url": "./assets/ai_generated/v1_txt2img_759ec7e2c6324d13a5a1f078c53971cb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/historias/2024/07/24/jlo-cumple-55-anos-la-actriz-latina-mejor-paga-del-mundo-la-pelea-con-mariah-carey-y-sus-vaivenes-con-ben-affleck/",
+        "date": "2024-07-24 05:38:01",
+        "sentiment_score": 0.205224871635437
+    },
+    {
+        "title": "Miami o el amor al arte: ocho motivos que te empujarán a visitar la ciudad (más allá de los tópicos)",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/07/19/669a544d43617.r_d.1514-2054-0.jpeg",
+        "tags": [
+            "viajes"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/viajes/20240724/9813269/miami-propuestas-arte-viaje-visitar-ciudad.html",
+        "date": "2024-07-24 04:41:39",
+        "sentiment_score": 0.8761991886422038
+    },
+    {
+        "title": "Liga MX dominó el Skills Challenge del All-Star de la MLS",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/USA-Today-Sports-Daniel-Bartel-5.jpg",
+        "tags": [
+            "all star game",
+            "fútbol",
+            "mls",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/07/24/liga-mx-domino-el-skills-challenge-del-all-star-de-la-mls/",
+        "date": "2024-07-24 04:40:23",
+        "sentiment_score": 0.1682644784450531
+    },
+    {
+        "title": "Quintana brilla en nueva York y Ramírez lo hace en Cleveland",
+        "image_url": "./assets/ai_generated/v1_txt2img_b56cb262f1e24603b7119fc877780401.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/quintana-brilla-en-nueva-york-y-ramirez-lo-hace-en-cleveland/",
+        "date": "2024-07-24 04:15:18",
+        "sentiment_score": 0.2862251028418541
     }
 ];
