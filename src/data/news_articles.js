@@ -130,26 +130,6 @@ export default [
         "sentiment_score": -0.3973304331302643
     },
     {
-        "title": "Ella es la hija de Esperanza Gómez que pocos conocen: cómo se llama y cuántos años tiene",
-        "image_url": "https://www.infobae.com/resizer/v2/ZZMAPJF7BVCXBBI76ZETRN53JU.png?auth=251793e1c338a03fa87e3cee7f2b6dae3645530d98a72bd4421374ef3129abbc",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/colombia/2024/07/23/ella-es-la-hija-de-esperanza-gomez-que-pocos-conocen-como-se-llama-y-cuantos-anos-tiene/",
-        "date": "2024-07-23 21:44:59",
-        "sentiment_score": -0.884575791656971
-    },
-    {
-        "title": "10 resorts de Florida para pasar vacaciones con la familia",
-        "image_url": "https://www.metroworldnews.com/resizer/v2/M7ZDOIXYZ5FFZIFH73TX6X2FAM.jpeg?auth=3a43acee190a394fa7108d3f939f57f83924fec78ded6cf43f225ccd2e07939e&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.metroworldnews.com/noticias/2024/07/23/10-resorts-de-florida-para-pasar-vacaciones-con-la-familia/",
-        "date": "2024-07-23 21:36:32",
-        "sentiment_score": 0.841404085047543
-    },
-    {
         "title": "Cobertura especial 2001: elecciones presidenciales Venezuela 2024",
         "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-439.png",
         "tags": [
@@ -2043,5 +2023,189 @@ export default [
         "link": "https://www.epe.es/es/internacional/20240724/millones-migrantes-venezolanos-no-pueden-votar-pese-a-remesas-106014611",
         "date": "2024-07-24 08:57:45",
         "sentiment_score": 0.3284406214952469
+    },
+    {
+        "title": "Nadal: \"Entiendo el morbo y la ilusión, pero jugar con Alcaraz no se traduce a éxito\"",
+        "image_url": "https://www.infobae.com/resizer/v2/6QLMDG3XXFDSFGTE6EQRGPSY4A.jpg?auth=16ae895842ddd5cc0e6b5385433b7c6cdd6e6e6fad30c39ee80c660f12dbf7f2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/nadal-entiendo-el-morbo-y-la-ilusion-pero-jugar-con-alcaraz-no-se-traduce-a-exito/",
+        "date": "2024-07-24 10:04:42",
+        "sentiment_score": -0.008667051792144775
+    },
+    {
+        "title": "Sánchez escribe al juez del 'caso Begoña Gómez': \"Mi declaración se deberá prestar por escrito\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_c8a681c8ac124d968281a4638b01aeea.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/sanchez-escribe-al-juez-del-caso-begona-gomez-mi-declaracion-se-debera-prestar-por-escrito/",
+        "date": "2024-07-24 10:04:25",
+        "sentiment_score": -0.2471727840602398
+    },
+    {
+        "title": "Junts dice que tumbar la senda de déficit no supone pérdidas para CC.AA. y corresponde al Gobierno arreglarlo",
+        "image_url": "https://www.infobae.com/resizer/v2/DI63ZXOVPZBYFNDKDVUIRLYNV4.jpg?auth=384fc57173611ac3f1866fcf84ffbcd52cc105ef915991f095c5556802143cc6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/junts-dice-que-tumbar-la-senda-de-deficit-no-supone-perdidas-para-ccaa-y-corresponde-al-gobierno-arreglarlo/",
+        "date": "2024-07-24 10:04:08",
+        "sentiment_score": -0.39292673021554947
+    },
+    {
+        "title": "La rama de Al Qaeda en el Sahel reclama el ataque contra un puesto militar en el norte de Togo",
+        "image_url": "https://www.infobae.com/resizer/v2/32SGT5RIKFHYJARIDDOZF56UII.jpg?auth=3a5f10b3d4d3f10c924c66368b66194c57d588c6f87e99893642bd36f04c6eac",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-rama-de-al-qaeda-en-el-sahel-reclama-el-ataque-contra-un-puesto-militar-en-el-norte-de-togo/",
+        "date": "2024-07-24 10:03:38",
+        "sentiment_score": -0.808742705732584
+    },
+    {
+        "title": "Ascienden a nueve los fallecidos en el naufragio del 'Argos Georgia' en Malvinas",
+        "image_url": "https://www.infobae.com/resizer/v2/N72D5EQJVJHI5EXMOJRSBWAIHA.jpg?auth=4702d39f18abffc672190296eb97216cc7be952c053fcc1b5d16040e9a3c66c2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/ascienden-a-nueve-los-fallecidos-en-el-naufragio-del-argos-georgia-en-malvinas/",
+        "date": "2024-07-24 10:03:20",
+        "sentiment_score": -0.8237830437719822
+    },
+    {
+        "title": "Maduro ensalza la transparencia del sistema electoral venezolano frente al de EEUU, Brasil o Colombia",
+        "image_url": "https://www.infobae.com/resizer/v2/QBXXSKTWJBDOTJEJVHW7Z62NEY.jpg?auth=042748201fe1a995c638deb7af0471b7d19626e126656f4ca7fca5bf46ead3ff",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/maduro-ensalza-la-transparencia-del-sistema-electoral-venezolano-frente-al-de-eeuu-brasil-o-colombia/",
+        "date": "2024-07-24 10:03:02",
+        "sentiment_score": -0.2567088007926941
+    },
+    {
+        "title": "Santander concreta que el lanzamiento de Openbank en EE.UU. será en otoño",
+        "image_url": "https://www.infobae.com/resizer/v2/JIMDCP4I4RGR3CLM2DEJJ2KDOY.jpg?auth=edd6cb2e8db6fecc79ea5255b644cc7af97ce765f2612b9ab41a39642da0a3a0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/santander-concreta-que-el-lanzamiento-de-openbank-en-eeuu-sera-en-otono/",
+        "date": "2024-07-24 10:02:44",
+        "sentiment_score": 0.05513069033622742
+    },
+    {
+        "title": "Adobe amplía con Firefly las herramientas creativas y de edición disponibles para Illustrator y Photoshop",
+        "image_url": "./assets/ai_generated/v1_txt2img_fdf28993b1a8491a91d0e0993215cb96.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/adobe-amplia-con-firefly-las-herramientas-creativas-y-de-edicion-disponibles-para-illustrator-y-photoshop/",
+        "date": "2024-07-24 10:02:25",
+        "sentiment_score": 0.3841308727860451
+    },
+    {
+        "title": "Israel continúa su ofensiva sobre la devastada Franja de Gaza, haciendo foco en Jan Yunis",
+        "image_url": "./assets/ai_generated/v1_txt2img_cd0bda36350e4c24a0ae727ebc0aceae.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/israel-continua-su-ofensiva-sobre-la-devastada-franja-de-gaza-haciendo-foco-en-jan-yunis/",
+        "date": "2024-07-24 10:01:28",
+        "sentiment_score": -0.5898390859365463
+    },
+    {
+        "title": "El Betis viaja a Estados Unidos para afrontar la segunda concentración de la pretemporada",
+        "image_url": "./assets/ai_generated/v1_txt2img_22f8c30ae77b417bae7e81c80f91e561.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-betis-viaja-a-estados-unidos-para-afrontar-la-segunda-concentracion-de-la-pretemporada/",
+        "date": "2024-07-24 10:01:11",
+        "sentiment_score": 0.019089095294475555
+    },
+    {
+        "title": "Las 5 cosas que debes saber este 24 de julio: Las elecciones que podrían sacudir la geopolítica regional",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/venezuela-analisis.webp",
+        "tags": [
+            "instanoticias",
+            "5 cosas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/5-cosas-24-julio-maduro-venezuela-elecciones-geopolitica-orix/",
+        "date": "2024-07-24 10:00:24",
+        "sentiment_score": -0.08995383977890015
+    },
+    {
+        "title": "Netanyahu hablará ante el Congreso de Estados Unidos y tratará de redirigir la atención estadounidense a Medio Oriente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Netanyahu-addresses-Congress-e1721809937132.jpeg?quality=100&strip=info",
+        "tags": [
+            "benjamin netanyahu",
+            "estados unidos noticias",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/netanyahu-congreso-estados-unidos-atencion-estadounidense-medio-oriente-trax/",
+        "date": "2024-07-24 09:48:53",
+        "sentiment_score": -0.45032573491334915
+    },
+    {
+        "title": "Una investigación en Nueva Zelandia concluye que 200.000 niños y adultos vulnerables sufrieron abusos en centros de acogida",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163347488-e1721808569570.jpg?quality=100&strip=info",
+        "tags": [
+            "nueva zelandia",
+            "oceanía"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/investigacion-nueva-zelandia-abusos-centros-acogida-iglesia-reux/",
+        "date": "2024-07-24 09:45:22",
+        "sentiment_score": -0.821533233858645
+    },
+    {
+        "title": "Clima en Guadalajara: cuál será la temperatura máxima y mínima este 24 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/W5PFUE66SRDB5MKOLU2KQ3OWSI.jpg?auth=59a45ac4ad4c4202fea27a4479599f1453382eab941930d14e7c797f41a23b25",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/24/clima-en-guadalajara-cual-sera-la-temperatura-maxima-y-minima-este-24-de-julio/",
+        "date": "2024-07-24 09:37:36",
+        "sentiment_score": 0.07421069592237473
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Miami este miércoles",
+        "image_url": "https://www.infobae.com/resizer/v2/RWRJXO4FENEV5CA3I36CO2QP44.jpg?auth=0f4c0727388a81fd81f11c7370cb024aa723dfc5d537c10c5723a0e13ba4ef7d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/24/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-miami-este-miercoles/",
+        "date": "2024-07-24 09:37:17",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "México: las predicciones del tiempo en Puebla de Zaragoza este 24 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/53PTFJEQJJB4XPFN7F5SYFFA6Q.jpg?auth=f348d08a8c9d9af4bc4f2f86803d4fb3dc26e8fb30510ebd8599d4182ea015c8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/24/mexico-las-predicciones-del-tiempo-en-puebla-de-zaragoza-este-24-de-julio/",
+        "date": "2024-07-24 09:36:56",
+        "sentiment_score": 0.6286973133683205
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Mérida este miércoles",
+        "image_url": "https://www.infobae.com/resizer/v2/3JDFG66HQNHCZAENY6KFV6JSDQ.jpg?auth=d0ceb23877b0343d12c85a3f538d803facbde2023e9362b2103af76099000876",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/24/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-merida-este-miercoles/",
+        "date": "2024-07-24 09:36:17",
+        "sentiment_score": -0.1714000180363655
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 24 de julio en Ecatepec",
+        "image_url": "https://www.infobae.com/resizer/v2/75UCDQP2TFAXRKPXMPB4DGASVE.jpg?auth=005f954f76fe0173264e91e2653e406b8b654a6c75a796f80e55d09cb90d6112",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/24/clima-las-temperaturas-que-predominaran-este-24-de-julio-en-ecatepec/",
+        "date": "2024-07-24 09:35:58",
+        "sentiment_score": 0.6286973133683205
     }
 ];
