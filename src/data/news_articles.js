@@ -3643,5 +3643,640 @@ export default [
         "link": "https://2001online.com/internacionales/kamala-harris-recibe-respaldo-de-democratas-en-el-congreso/",
         "date": "2024-07-23 19:21:35",
         "sentiment_score": 0.1175006777048111
+    },
+    {
+        "title": "La junta militar de Birmania libera a un influyente líder cristiano detenido desde hace tres meses",
+        "image_url": "https://www.infobae.com/resizer/v2/VFRT5GEV4VH4TGMTPSB54OOQIA.jpg?auth=b4654314b4e73450854ecb318bf9adff64c27eb29df3548ace8954a44d4c6aab",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-junta-militar-de-birmania-libera-a-un-influyente-lider-cristiano-detenido-desde-hace-tres-meses/",
+        "date": "2024-07-24 02:17:30",
+        "sentiment_score": -0.4112340807914734
+    },
+    {
+        "title": "EEUU asegura que Hamás no puede tener ningún poder en Gaza tras el acuerdo de las facciones palestinas",
+        "image_url": "https://www.infobae.com/resizer/v2/2X7FEITKHRCD3AGV6NQJ3ZKDLA.jpg?auth=61f8063dca8610431d7eaed15f0795f9dd8b2c2828ea891c58ebc3875be65b55",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/eeuu-asegura-que-hamas-no-puede-tener-ningun-poder-en-gaza-tras-el-acuerdo-de-las-facciones-palestinas/",
+        "date": "2024-07-24 02:17:17",
+        "sentiment_score": -0.692575391381979
+    },
+    {
+        "title": "República Dominicana extraditó a Honduras a estadounidense acusado de matar a 3 mujeres",
+        "image_url": "./assets/ai_generated/v1_txt2img_e770cc24055d47939c1ff16c703cbaa7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/republica-dominicana-extradito-a-honduras-a-estadounidense-acusado-de-matar-a-3-mujeres/",
+        "date": "2024-07-24 02:15:36",
+        "sentiment_score": -0.8357828892767429
+    },
+    {
+        "title": "Taiwán amanece con escuelas y oficinas cerradas por la proximidad del tifón Gaemi",
+        "image_url": "./assets/ai_generated/v1_txt2img_2dcf88a33658404faa8c1bf828a4b9a0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/taiwan-amanece-con-escuelas-y-oficinas-cerradas-por-la-proximidad-del-tifon-gaemi/",
+        "date": "2024-07-24 02:15:18",
+        "sentiment_score": -0.8984410930424929
+    },
+    {
+        "title": "Candidato a gobernador de Misuri amenaza con encarcelar a todos los inmigrantes ilegales",
+        "image_url": "./assets/ai_generated/v1_txt2img_fc3e7913e2564db78bcb5f17a849d0a1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/candidato-a-gobernador-de-misuri-amenaza-con-encarcelar-a-todos-los-inmigrantes-ilegales/",
+        "date": "2024-07-24 02:01:45",
+        "sentiment_score": -0.8421625178307295
+    },
+    {
+        "title": "Condenan a 3 años y 4 meses de cárcel a exjuez de Ecuador que liberó a sicarios de 'narco'",
+        "image_url": "./assets/ai_generated/v1_txt2img_60865be62bd64b52a421472f6bcdb3b9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/condenan-a-3-anos-y-4-meses-de-carcel-a-exjuez-de-ecuador-que-libero-a-sicarios-de-narco/",
+        "date": "2024-07-24 02:01:12",
+        "sentiment_score": -0.8184788934886456
+    },
+    {
+        "title": "Fuerza Armada de Venezuela dice que defenderá soberanía popular en comicios presidenciales",
+        "image_url": "./assets/ai_generated/v1_txt2img_778e455b251a4245a64478ac08ea6011.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/fuerza-armada-de-venezuela-dice-que-defendera-soberania-popular-en-comicios-presidenciales/",
+        "date": "2024-07-24 02:00:54",
+        "sentiment_score": 0.24575482308864594
+    },
+    {
+        "title": "Un zoológico en México exhibe al público la atención clínica a 300 especies de animales",
+        "image_url": "./assets/ai_generated/v1_txt2img_f64f4503d07e4080905c54e676948c64.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-zoologico-en-mexico-exhibe-al-publico-la-atencion-clinica-a-300-especies-de-animales/",
+        "date": "2024-07-24 02:00:38",
+        "sentiment_score": 0.2640283480286598
+    },
+    {
+        "title": "Un globo norcoreano que transportaba desechos alcanza la oficina presidencial surcoreana",
+        "image_url": "./assets/ai_generated/v1_txt2img_89f5918218e746c8b6c00be01654d757.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-globo-norcoreano-que-transportaba-desechos-alcanza-la-oficina-presidencial-surcoreana/",
+        "date": "2024-07-24 02:00:21",
+        "sentiment_score": -0.5544766671955585
+    },
+    {
+        "title": "Cuándo se inventó el dinero y en qué momento el dólar se convirtió en la principal moneda del mundo",
+        "image_url": "https://www.infobae.com/resizer/v2/A2WNZZJQUFAKBDQFCN6WTANBYI.jpg?auth=3a65939a9a38481a741296b2f635ed6a8420de1d9e1027b25c2af2313eb200a6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2024/07/24/cuando-se-invento-el-dinero-y-en-que-momento-el-dolar-se-convirtio-en-la-principal-moneda-del-mundo/",
+        "date": "2024-07-24 01:53:00",
+        "sentiment_score": 0.06917166709899902
+    },
+    {
+        "title": "Las oportunidades de México en el “nearshoring” de semiconductores",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/cnne-1479409-ee-uu-restringe-exportacion-de-chips-a-china.jpg?quality=100&strip=info",
+        "tags": [
+            "economía",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-nearshoring-semiconductores-usaid-panorama-mundial-tv/",
+        "date": "2024-07-24 01:46:04",
+        "sentiment_score": 0.46094124764204025
+    },
+    {
+        "title": "Durante su visita a Washington, Netanyahu escuchó reclamos de familiares de rehenes en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20810188-15909-331999999999-still.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/netanyahu-washington-reunion-familiares-rehenes-gaza-panorama-mundial-tv/",
+        "date": "2024-07-24 01:33:10",
+        "sentiment_score": -0.27150002121925354
+    },
+    {
+        "title": "Esto es lo que según María Corina Machado podría pasar el día después de las elecciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2159130017.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-elecciones-dia-despues-maduro-votantes-fraude-conclusiones-tv/",
+        "date": "2024-07-24 01:32:37",
+        "sentiment_score": -0.5172427855432034
+    },
+    {
+        "title": "Crece censura en Venezuela, Maduro llama a los medios \"sicarios de la mentira\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20812806-50176-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-bloqueos-medios-elecciones-venezuela-mentiras-conclusiones-tv/",
+        "date": "2024-07-24 01:32:33",
+        "sentiment_score": -0.8177193235605955
+    },
+    {
+        "title": "Elon Musk pone pausa a la construcción de la fábrica de Tesla en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1392610598-20240705201234751_908b3f.jpg?quality=100&strip=info",
+        "tags": [
+            "tesla",
+            "negocios",
+            "elon musk"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elon-musk-tesla-planta-nuevo-leon-mexico-panorama-mundial-tv/",
+        "date": "2024-07-24 01:15:21",
+        "sentiment_score": 0.21215352416038513
+    },
+    {
+        "title": "“Nos pueden retornar 20.000 veces, pero 20.000 vamos a volver”, dice un migrante",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162551759.jpg?quality=100&strip=info",
+        "tags": [
+            "chiapas",
+            "méxico",
+            "caravana de migrantes",
+            "migración"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/caravana-migrante-chiapas-migracion-perspectivas-mexico-tv/",
+        "date": "2024-07-24 01:09:16",
+        "sentiment_score": -0.1088600605726242
+    },
+    {
+        "title": "Repuntan los casos de covid-19 en Ciudad de México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1235923430.jpg?quality=100&strip=info",
+        "tags": [
+            "covid",
+            "méxico",
+            "covid-19",
+            "contagios"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/covid-repunte-contagios-cdmx-variantes-omicron-cubrebocas-perspectivas-mexico-tv/",
+        "date": "2024-07-24 01:08:50",
+        "sentiment_score": -0.2861233726143837
+    },
+    {
+        "title": "Una ballena salta del océano y voltea un barco que transportaba pasajeros",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20812158-160-339-still.jpg?quality=100&strip=info",
+        "tags": [
+            "ballena",
+            "animales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ballena-voltea-barco-pasajeros-perspectivas-mexico-tv/",
+        "date": "2024-07-24 01:01:39",
+        "sentiment_score": -0.5178640000522137
+    },
+    {
+        "title": "Barco pesquero se hunde frente a las Islas Malvinas. Deja al menos 6 muertos y 7 desaparecidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/islas-malvinas.jpg?quality=100&strip=info",
+        "tags": [
+            "las malvinas",
+            "accidentes"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/barco-pesquero-hunde-islas-malvinas-trax/",
+        "date": "2024-07-24 00:43:49",
+        "sentiment_score": -0.8969600470736623
+    },
+    {
+        "title": "9 estados de Estados Unidos registran cerca de 70 incendios activos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2160929820.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendios-activos-estados-unidos/",
+        "date": "2024-07-24 00:34:21",
+        "sentiment_score": -0.48277441039681435
+    },
+    {
+        "title": "República Dominicana extraditó a Honduras a estadounidense acusado de matar a 3 mujeres",
+        "image_url": "./assets/ai_generated/v1_txt2img_35c2b6470f4748b8af1598ceaae50ec8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/republica-dominicana-extradito-a-honduras-a-estadounidense-acusado-de-matar-a-3-mujeres/",
+        "date": "2024-07-24 02:15:36",
+        "sentiment_score": -0.8357828892767429
+    },
+    {
+        "title": "Davinson Sánchez dejó picantes declaraciones sobre la jugada que terminó en el gol de Argentina",
+        "image_url": "https://www.infobae.com/resizer/v2/EBLI3EYAGQSTW27SGBQ7CKCS2I.jpg?auth=58a28188d37ee46e1de68fab8a199e7ac562b23c024e0ac7c2817f6bcf4e0f00",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/07/24/davinson-sanchez-dejo-picantes-declaraciones-sobre-la-jugada-que-termino-en-el-gol-de-argentina/",
+        "date": "2024-07-24 02:07:47",
+        "sentiment_score": 0.3878786042332649
+    },
+    {
+        "title": "Albert Suárez salió del juego por lesión",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/07/albert-suarez.png",
+        "tags": [
+            "destacados",
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/albert-suarez-salio-del-juego-por-lesion/",
+        "date": "2024-07-24 01:50:16",
+        "sentiment_score": -0.7737230770289898
+    },
+    {
+        "title": "EEUU | Estas son las mejores ciudades de Florida para trabajar en verano",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/ORLANDO.jpg",
+        "tags": [
+            "internacionales",
+            "olando",
+            "trabajar",
+            "cabo doral",
+            "miami",
+            "fort lauderdale",
+            "st petesburg",
+            "florida",
+            "empleo",
+            "verano",
+            "tampa",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-estas-son-las-mejores-ciudades-de-florida-para-trabajar-en-verano/",
+        "date": "2024-07-24 01:26:17",
+        "sentiment_score": 0.7281792983412743
+    },
+    {
+        "title": "Yeison Jiménez no aguantó más y le cantó la tabla a un internauta y hasta lo llamó “tarado”",
+        "image_url": "https://www.infobae.com/resizer/v2/REU4HKKT4ZBN3FVXM3FVAZV2QI.jpg?auth=ea1697ff70cf14df84577c962fe64ba9417c5a7e7e25126216182775f3d3c547",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/07/24/yeison-jimenez-no-aguanto-mas-y-le-canto-la-tabla-a-un-internauta-y-hasta-lo-llamo-tarado/",
+        "date": "2024-07-24 01:24:45",
+        "sentiment_score": -0.6698855329304934
+    },
+    {
+        "title": "El Zoológico de Miami da la bienvenida a un canguro arborícola, en peligro de extinción",
+        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efe00d2204424dfcc1f347cee5b7e6ccbd18621cc3dw.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "estados unidos"
+        ],
+        "link": "https://holanews.com/el-zoologico-de-miami-da-la-bienvenida-a-un-canguro-arboricola-en-peligro-de-extincion/",
+        "date": "2024-07-24 00:24:44",
+        "sentiment_score": -0.5188203230500221
+    },
+    {
+        "title": "¿Información sobre tu viaje? Estos son los vuelos cancelados y demorados en el AICM",
+        "image_url": "https://www.infobae.com/resizer/v2/4IH2ONMSJZEAHCYXJ47Y2QIX4U.jpg?auth=c7be7894fdee036655e34c0cd5140a8e07106a83df8785ebb6d39018124b6d6f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/24/informacion-sobre-tu-viaje-estos-son-los-vuelos-cancelados-y-demorados-en-el-aicm/",
+        "date": "2024-07-24 00:16:03",
+        "sentiment_score": -0.26359451934695244
+    },
+    {
+        "title": "‘Tragedia en Collins Avenue’: el libro de Juan Manuel Robles sobre las víctimas del derrumbe del edificio en Surfside, Miami",
+        "image_url": "https://www.infobae.com/resizer/v2/5QKMUNGVMFFHJIRRMS7YPN2D2E.png?auth=41a43ef5722903845d0dae7c27d942e6b79d8d6628e1a34c500077271fdd66de",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/07/24/tragedia-en-collins-avenue-el-libro-de-juan-manuel-robles-sobre-las-victimas-del-derrumbe-del-edificio-en-surfside-miami/",
+        "date": "2024-07-24 00:00:13",
+        "sentiment_score": 0.02991548553109169
+    },
+    {
+        "title": "Lanzan cómic biográfico de Ryan Reynolds en vísperas del estreno de 'Deadpool y Wolverine'",
+        "image_url": "./assets/ai_generated/v1_txt2img_0400082b27244d508fb84d8c78577a29.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/lanzan-comic-biografico-de-ryan-reynolds-en-visperas-del-estreno-de-deadpool-y-wolverine/",
+        "date": "2024-07-23 23:47:23",
+        "sentiment_score": 0.03494904935359955
+    },
+    {
+        "title": "Lanzan cómic biográfico de Ryan Reynolds en vísperas del estreno de 'Deadpool y Lobezno'",
+        "image_url": "./assets/ai_generated/v1_txt2img_f65ef01e944f4a4f84c4388d9582b193.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/lanzan-comic-biografico-de-ryan-reynolds-en-visperas-del-estreno-de-deadpool-y-lobezno/",
+        "date": "2024-07-23 23:45:38",
+        "sentiment_score": 0.015713505446910858
+    },
+    {
+        "title": "Antonio Villaraigosa anuncia que buscará ser gobernador de California en 2026",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5P3RXE6VIRGGXD66L6HWCUXBBY.jpg?auth=bd4f7e38091f7a5f62edc26dd3f5f203f0e41eacda07e98dad7fbca797fe62d9",
+        "tags": [
+            "políticos",
+            "partido demócrata ee uu",
+            "los ángeles",
+            "estados unidos",
+            "gavin newsom",
+            "california",
+            "américa",
+            "antonio villaraigosa",
+            "elecciones ee uu",
+            "campañas electorales",
+            "elecciones"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/antonio-villaraigosa-anuncia-que-buscara-ser-gobernador-de-california-en-2026.html",
+        "date": "2024-07-23 19:37:11",
+        "sentiment_score": 0.012178078293800354
+    },
+    {
+        "title": "La muerte de una mujer negra que había pedido ayuda al 911 reabre el debate sobre la violencia policial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CPJCAOPCTFCSHHUJJIMUZBP62U.jpg?auth=98e1ef2842e1d753188e93cd8835b9e37ec0db846943f5194a7409ec391ba058&width=1200",
+        "tags": [
+            "violencia policial",
+            "estados unidos",
+            "homicidios",
+            "justicia",
+            "abuso policial",
+            "américa",
+            "afroamericanos",
+            "policía"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/la-muerte-de-una-mujer-negra-que-habia-pedido-ayuda-al-911-reabre-el-debate-sobre-la-violencia-policial.html",
+        "date": "2024-07-23 18:30:36",
+        "sentiment_score": -0.8273289389908314
+    },
+    {
+        "title": "Autoridades federales inician investigación a Delta Air Lines por cancelaciones masivas de vuelos tras el fallo informático",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T6GXX6KAMVFTBFBGWQW5PE5DBI.jpg?auth=aeebac28f972029ccfc7e2734306d818af91e488a5c1eb5e2faeb6ccd7f8eb5a",
+        "tags": [
+            "américa",
+            "estados unidos",
+            "transporte aéreo",
+            "microsoft",
+            "aerolíneas",
+            "transporte",
+            "aeropuertos",
+            "delta airlines",
+            "cancelaciones transporte"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/autoridades-federales-inician-investigacion-a-delta-air-lines-por-cancelaciones-masivas-de-vuelos-tras-el-fallo-informatico.html",
+        "date": "2024-07-23 17:25:09",
+        "sentiment_score": -0.8634332725778222
+    },
+    {
+        "title": "Estados Unidos denuncia un presunto fraude a hispanos con deudas estudiantiles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UTLPSNAWVNEGPL3AJ7LRXKZGBU.jpg?auth=882e5d1ced556d9b2cb44ad35da11d6b95bd0d7f57f5733c853b2cf7ba149005",
+        "tags": [
+            "américa",
+            "puerto rico",
+            "deudas",
+            "fraudes",
+            "latinos",
+            "estados unidos",
+            "consumidores",
+            "florida",
+            "préstamos"
+        ],
+        "link": "https://elpais.com/us/economia/2024-07-23/estados-unidos-denuncia-un-presunto-fraude-a-hispanos-con-deudas-estudiantiles.html",
+        "date": "2024-07-23 16:24:23",
+        "sentiment_score": -0.7642222214490175
+    },
+    {
+        "title": "Los Endres consiguen una casa después de toda una vida en la calle",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FLAQMCJUPREKXMCWHO33AQ35FE.jpg?auth=9359e6c4a745c4a7d05437f05b9bcc7c460a6dfe4376ffcc0d831842c423f7c8",
+        "tags": [
+            "pobreza",
+            "desigualdad social",
+            "california",
+            "vivienda",
+            "estados unidos",
+            "familia",
+            "américa",
+            "san diego"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/los-endres-consiguen-una-casa-despues-de-toda-una-vida-en-la-calle.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": -0.12030711770057678
+    },
+    {
+        "title": "Anita Álvarez vuelve a sumergirse en el agua para perseguir el sueño olímpico en París 2024",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E7BI3S7SRRGZ7CX57ZAEWML5VU.jpg?auth=25a4bcd8de34ed64a5056114b4f7e81adade74a82da0e0b16aca4042e33129ec",
+        "tags": [
+            "natación",
+            "deporte extremo",
+            "deporte femenino",
+            "estados unidos",
+            "juegos olímpicos 2020",
+            "natación sincronizada",
+            "juegos olímpicos 2016",
+            "américa"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/anita-alvarez-vuelve-a-sumergirse-en-el-agua-para-perseguir-el-sueno-olimpico-en-paris-2024.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.7746482528746128
+    },
+    {
+        "title": "La pobreza es mayor en las ciudades más latinas de Estados Unidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZHVKKR34MBEOXBIGMNTVMNLJCE.jpg?auth=8e2b9521aed976e2a32f7b63124914e99b629ea0a7513c476d39f13ede192049",
+        "tags": [
+            "pobreza",
+            "miami",
+            "latinos",
+            "california",
+            "estados unidos",
+            "texas",
+            "florida",
+            "américa",
+            "economía"
+        ],
+        "link": "https://elpais.com/us/economia/2024-07-23/la-pobreza-es-mayor-en-las-ciudades-mas-latinas-de-estados-unidos.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.17568664252758026
+    },
+    {
+        "title": "De 11 millones de habitantes a poco más de 8,5: el saldo real de la crisis migratoria en Cuba",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KAVB2G3EQVE73FO2WFUKEHUHXM.jpg?auth=a84a33505afa44af884d98d44749e793654d596bbf1dd8067300453172f70ca4",
+        "tags": [
+            "miguel díaz-canel",
+            "crisis económica",
+            "demografía",
+            "protestas sociales",
+            "estados unidos",
+            "cuba",
+            "américa",
+            "inmigración"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/de-11-millones-de-habitantes-a-poco-mas-de-85-el-saldo-real-de-la-crisis-migratoria-en-cuba.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.11453482508659363
+    },
+    {
+        "title": "Video | Los momentos destacados del primer mitin de Kamala Harris",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3DJ4GIN62NGR3CAPUI5UEYTL2Y?auth=df99a253acbb86ab9e60bf8ada0ea4310de1ae84ea9481e6bfdcb905832c34b9&width=1200",
+        "tags": [
+            "elecciones ee uu",
+            "joseph biden",
+            "elecciones",
+            "donald trump",
+            "estados unidos",
+            "américa",
+            "kamala harris",
+            "mitin electoral"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/video-los-momentos-destacados-del-primer-mitin-de-kamala-harris.html",
+        "date": "2024-07-23 03:23:07",
+        "sentiment_score": 0.09855347871780396
+    },
+    {
+        "title": "Un ciberataque paraliza el mayor tribunal de Estados Unidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FAHITEE2JJC4FGPSDADJRYKEAE.jpg?auth=14eb21f3f22f4beadfefe91a177b636076a60f127e1e7b6709c74354f557bfc2",
+        "tags": [
+            "los ángeles",
+            "california",
+            "estados unidos",
+            "delincuencia",
+            "robos",
+            "hacker",
+            "usuarios internet",
+            "tribunales",
+            "ataques informáticos"
+        ],
+        "link": "https://elpais.com/us/2024-07-22/un-ciberataque-paraliza-el-mayor-tribunal-de-estados-unidos.html",
+        "date": "2024-07-22 20:58:42",
+        "sentiment_score": -0.567568514496088
+    },
+    {
+        "title": "EEUU | Así puede adiestrarse como mecánico de aviones en Los Ángeles gratis",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/1689662708014.jpg",
+        "tags": [
+            "mec{anico de aviones",
+            "internacionales",
+            "los ángeles",
+            "gratis",
+            "2001online",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-asi-puede-adiestrarse-como-mecanico-de-aviones-en-los-angeles-gratis/",
+        "date": "2024-07-24 02:00:00",
+        "sentiment_score": 0.3984687030315399
+    },
+    {
+        "title": "Explosión hidrotermal causó pánico en el parque Yellowstone (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Yellowstone-1200x720.jpeg",
+        "tags": [
+            "parque yellowstone",
+            "internacionales",
+            "2001online",
+            "eeuu",
+            "explosión hidrotermal"
+        ],
+        "link": "https://2001online.com/internacionales/explosion-hidrotermal-causo-panico-en-el-parque-yellowstone-video/",
+        "date": "2024-07-24 02:00:00",
+        "sentiment_score": -0.8741739559918642
+    },
+    {
+        "title": "Maduro compara el sistema electoral venezolano con el de Brasil y Colombia (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/CNE-1.jpg",
+        "tags": [
+            "colombia",
+            "brasil",
+            "nacionales",
+            "sistema electoral venezolano"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-compara-el-sistema-electoral-venezolano-con-el-de-brasil/",
+        "date": "2024-07-24 01:55:18",
+        "sentiment_score": -0.7310774102807045
+    },
+    {
+        "title": "EEUU | Disneyland premia a una ciudad de California con promociones increíbles",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Disneyland.jpg",
+        "tags": [
+            "disneyland",
+            "internacionales",
+            "promociones",
+            "2001online",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-disneyland-premia-a-una-ciudad-de-california-con-promociones-increibles/",
+        "date": "2024-07-24 01:50:00",
+        "sentiment_score": 0.773640338331461
+    },
+    {
+        "title": "EEUU | Conozca cómo recibir asesoría legal gratis ante desalojos ilegales en Los Ángeles",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/desalojo.jpg",
+        "tags": [
+            "asesoría legal",
+            "internacionales",
+            "desalojos ilegales",
+            "gratis",
+            "2001online",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-conozca-como-recibir-asesoria-legal-gratis-ante-desalojos-ilegales-en-los-angeles/",
+        "date": "2024-07-24 01:40:00",
+        "sentiment_score": 0.03494240343570709
+    },
+    {
+        "title": "Con dólares falsos pagó apuestas y bebidas en Chichiriviche",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-444.png",
+        "tags": [
+            "dolares",
+            "falcomn",
+            "sucesos",
+            "detenido hombre por pagar con dolares falsos",
+            "chichiriviche"
+        ],
+        "link": "https://2001online.com/sucesos/con-dolares-falsos-pago-apuestas-y-bebidas-en-chichiriviche/",
+        "date": "2024-07-24 01:31:03",
+        "sentiment_score": -0.559443149715662
+    },
+    {
+        "title": "Ganó $1 millón en la lotería pero un empleado le robó el boleto",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/descarga-3-3-1200x720.jpg",
+        "tags": [
+            "lotería",
+            "curiosidades",
+            "tennessee"
+        ],
+        "link": "https://2001online.com/curiosidades/gano-1-millon-en-la-loteria-pero-un-empleado-le-robo-el-boleto/",
+        "date": "2024-07-24 01:30:28",
+        "sentiment_score": -0.6867878325283527
+    },
+    {
+        "title": "EEUU: Bank of America cerrará más sucursales en agosto (+Listado)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Bank-of-America-1280x720.jpg",
+        "tags": [
+            "internacionales",
+            "eeuu",
+            "bank of america"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-bank-of-america-cerrara-mas-sucursales-en-agosto-listado/",
+        "date": "2024-07-24 01:30:00",
+        "sentiment_score": 0.4295131787657738
+    },
+    {
+        "title": "¿Cómo registrarte en el Sistema patria para acceder a Credivida?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-443.png",
+        "tags": [
+            "patria",
+            "credivida",
+            "servicios",
+            "sistema patria",
+            "emprendedores"
+        ],
+        "link": "https://2001online.com/servicios/como-registrarte-en-el-sistema-patria-para-acceder-a-credivida/",
+        "date": "2024-07-24 01:28:00",
+        "sentiment_score": 0.2803656905889511
+    },
+    {
+        "title": "Anuncian más de 300 créditos para emprendedores en Miranda (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/4972185653651549119.jpg",
+        "tags": [
+            "miranda",
+            "charallave",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/anuncian-mas-de-300-creditos-para-emprendedores-en-miranda-detalles/",
+        "date": "2024-07-24 00:06:25",
+        "sentiment_score": 0.3070007637143135
     }
 ];
