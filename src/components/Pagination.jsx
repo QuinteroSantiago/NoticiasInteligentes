@@ -1,4 +1,5 @@
 import React from 'react';
+import { ITEMS_PER_PAGE_OPTIONS } from '../constants';
 
 function Pagination({ currentPage, numPages, onPageChange, itemsPerPage, onItemsPerPageChange }) {
     const pageNumbers = [];
@@ -63,10 +64,9 @@ function Pagination({ currentPage, numPages, onPageChange, itemsPerPage, onItems
                     value={itemsPerPage}
                     className="px-4 py-2 rounded bg-blue-200 hover:bg-blue-400 cursor-pointer"
                 >
-                    <option value="10">10 ítems por página</option>
-                    <option value="25">25 ítems por página</option>
-                    <option value="50">50 ítems por página</option>
-                    <option value="100">100 ítems por página</option>
+                    {ITEMS_PER_PAGE_OPTIONS.map(option => (
+                        <option key={option} value={option}>{option} ítems por página</option>
+                    ))}
                 </select>
             </div>
         </div>

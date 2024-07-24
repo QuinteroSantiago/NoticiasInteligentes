@@ -1,9 +1,12 @@
-import React, { useState, useEffect } from 'react';
+// NewsFeed.jsx
+import React, { useEffect, useState } from 'react';
+import { useNewsState } from '../StateProvider';
 import newsData from '../data/news_articles';
 import NewsItem from './NewsItem';
 import NewsControls from './NewsControls';
 import Pagination from './Pagination';
 import SearchBar from './SearchBar';
+import { FILTERS, SORT_METHODS } from '../constants';
 
 function normalizeText(text) {
     return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "") // Remove accents
@@ -12,34 +15,42 @@ function normalizeText(text) {
 }
 
 function NewsFeed() {
-   const [filter, setFilter] = useState(localStorage.getItem('newsFilter') || 'positive');
-   const [sortMethod, setSortMethod] = useState(localStorage.getItem('newsSortMethod') || 'date');
-   const [currentPage, setCurrentPage] = useState(1);
-   const [itemsPerPage, setItemsPerPage] = useState(50);
+   const {
+      filter,
+      setFilter,
+      sortMethod,
+      setSortMethod,
+      currentPage,
+      setCurrentPage,
+      itemsPerPage,
+      setItemsPerPage,
+      searchTerm,
+      setSearchTerm,
+   } = useNewsState();
+
    const [paginatedData, setPaginatedData] = useState([]);
    const [numPages, setNumPages] = useState(0);
-   const [searchTerm, setSearchTerm] = useState('');
 
    useEffect(() => {
         let filteredData = newsData.filter(newsItem => {
-            const matchesFilter = filter === 'all' ||
-                                (filter === 'positive' && newsItem.sentiment_score >= 0) ||
-                                (filter === 'negative' && newsItem.sentiment_score < 0);
+            const matchesFilter = filter === FILTERS.ALL ||
+                                (filter === FILTERS.POSITIVE && newsItem.sentiment_score >= 0) ||
+                                (filter === FILTERS.NEGATIVE && newsItem.sentiment_score < 0);
             const matchesSearch = normalizeText(newsItem.title).includes(normalizeText(searchTerm));
             return matchesFilter && matchesSearch;
         });
 
       switch (sortMethod) {
-         case 'most_positive':
+         case SORT_METHODS.MOST_POSITIVE:
             filteredData.sort((a, b) => b.sentiment_score - a.sentiment_score);
             break;
-         case 'most_negative':
+         case SORT_METHODS.MOST_NEGATIVE:
             filteredData.sort((a, b) => a.sentiment_score - b.sentiment_score);
             break;
-         case 'date':
+         case SORT_METHODS.DATE:
             filteredData.sort((a, b) => new Date(b.date) - new Date(a.date));
             break;
-         case 'alphabetical':
+         case SORT_METHODS.ALPHABETICAL:
             filteredData.sort((a, b) => {
                const titleA = a.title.replace(/^[^A-Za-z]+/, '');
                const titleB = b.title.replace(/^[^A-Za-z]+/, '');
@@ -54,11 +65,6 @@ function NewsFeed() {
       setNumPages(Math.ceil(filteredData.length / itemsPerPage));
    }, [filter, sortMethod, currentPage, itemsPerPage, searchTerm]);
 
-   useEffect(() => {
-      localStorage.setItem('newsFilter', filter);
-      localStorage.setItem('newsSortMethod', sortMethod);
-   }, [filter, sortMethod]);
-
    const handlePageChange = (newPage) => {
       setCurrentPage(newPage);
    };
@@ -71,7 +77,12 @@ function NewsFeed() {
    return (
       <div className="flex flex-col items-center justify-center px-10">
          <SearchBar searchTerm={searchTerm} onSearchChange={setSearchTerm} />
-         <NewsControls filter={filter} setFilter={setFilter} sortMethod={sortMethod} setSortMethod={setSortMethod} />
+         <NewsControls 
+            filter={filter} 
+            setFilter={setFilter} 
+            sortMethod={sortMethod} 
+            setSortMethod={setSortMethod} 
+         />
          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
             {paginatedData.map((newsItem, index) => (
                <NewsItem
@@ -81,9 +92,9 @@ function NewsFeed() {
                   tags={newsItem.tags}
                   link={newsItem.link}
                   date={newsItem.date}
-                  sentimentScore={newsItem.sentiment_score} />
-            ))
-            }
+                  sentimentScore={newsItem.sentiment_score} 
+               />
+            ))}
          </div>
          <Pagination
             currentPage={currentPage}
