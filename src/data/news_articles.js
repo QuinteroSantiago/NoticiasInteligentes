@@ -132,41 +132,6 @@ export default [
         "sentiment_score": -0.34547460079193115
     },
     {
-        "title": "Bob Menéndez renunciará a su escaño en el Senado de EE.UU. a partir del 20 de agosto, según fuentes",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/bob-menendez-escano-reuncia-senado-estados-unidos.jpg?quality=100&strip=info",
-        "tags": [
-            "senado de estados unidos",
-            "política",
-            "bob menendez"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/23/bob-menendez-renunciara-escano-senado-ee-uu-20-agosto-fuentes-trax/",
-        "date": "2024-07-23 20:07:06",
-        "sentiment_score": -0.854189308360219
-    },
-    {
-        "title": "¿Qué nos dicen las encuestas sobre el enfrentamiento entre Trump y Harris?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-kamala-trump.jpg?quality=100&strip=info",
-        "tags": [
-            "kamala harris",
-            "videos digitales",
-            "elecciones en estados unidos",
-            "noticias de donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/puede-kamala-harris-vencer-donald-turmp-ush-trax/",
-        "date": "2024-07-23 19:27:53",
-        "sentiment_score": -0.3224090114235878
-    },
-    {
-        "title": "Al 39% de estadounidenses les preocupa que sus ingresos no sean suficientes",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/loans-10.jpeg?quality=100&strip=info",
-        "tags": [
-            "business"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-ingresos-preocupaciones-no-sean-suficientes-cnn-dinero-tv/",
-        "date": "2024-07-23 19:17:36",
-        "sentiment_score": -0.8134712865576148
-    },
-    {
         "title": "El presidente de la Asociación Uruguaya tomó distancia de las explosivas declaraciones de Bielsa en la Copa América: “No representan la opinión de la AUF”",
         "image_url": "https://www.infobae.com/resizer/v2/V7KNWY33GOK4Y4TEAAV7JSFYLY.jpg?auth=ab8dde1f188c94c0796dddbbb0098fa0c410f45e863419ad35270c43b7c00746",
         "tags": [
@@ -251,46 +216,6 @@ export default [
         "sentiment_score": 0.0006835609674453735
     },
     {
-        "title": "EE.UU. sanciona a dos líderes del Cartel de Jalisco vinculados al tráfico de fentanilo",
-        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efedef60deae14654dee1069dc931a8545326053c35w.jpg?fit=1371%2C1920&ssl=1",
-        "tags": [
-            "estados unidos"
-        ],
-        "link": "https://holanews.com/ee-uu-sanciona-a-dos-lideres-del-cartel-de-jalisco-vinculados-al-trafico-de-fentanilo/",
-        "date": "2024-07-23 19:44:37",
-        "sentiment_score": -0.5728867650032043
-    },
-    {
-        "title": "Llega a Cabo Cañaveral el cohete de la NASA que se usará en la misión lunar Artemis II",
-        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efec639e14b883b7cfb618ca70c53de70609d2473e7w.jpg?fit=1920%2C1281&ssl=1",
-        "tags": [
-            "enterate"
-        ],
-        "link": "https://holanews.com/llega-a-cabo-canaveral-el-cohete-de-la-nasa-que-se-usara-en-la-mision-lunar-artemis-ii/",
-        "date": "2024-07-23 19:39:39",
-        "sentiment_score": 0.1510060429573059
-    },
-    {
-        "title": "Antonio Villaraigosa anuncia que buscará ser gobernador de California en 2026",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5P3RXE6VIRGGXD66L6HWCUXBBY.jpg?auth=bd4f7e38091f7a5f62edc26dd3f5f203f0e41eacda07e98dad7fbca797fe62d9",
-        "tags": [
-            "políticos",
-            "partido demócrata ee uu",
-            "los ángeles",
-            "estados unidos",
-            "gavin newsom",
-            "california",
-            "américa",
-            "antonio villaraigosa",
-            "elecciones ee uu",
-            "campañas electorales",
-            "elecciones"
-        ],
-        "link": "https://elpais.com/us/2024-07-23/antonio-villaraigosa-anuncia-que-buscara-ser-gobernador-de-california-en-2026.html",
-        "date": "2024-07-23 19:37:11",
-        "sentiment_score": 0.012178078293800354
-    },
-    {
         "title": "Cobertura especial 2001: elecciones presidenciales Venezuela 2024",
         "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-439.png",
         "tags": [
@@ -315,126 +240,6 @@ export default [
         "link": "https://2001online.com/nacionales/maduro-anuncio-fondo-para-emprendimientos-de-las-personas-de-la-tercera-edad-monto/",
         "date": "2024-07-23 21:00:00",
         "sentiment_score": 0.39381488412618637
-    },
-    {
-        "title": "EEUU | Así puede sacar la Real ID en el estado de Pensilvania (+Detalles)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/real-id-pensilvania-1280x720.jpg",
-        "tags": [
-            "cómo solicitar la identificación oficial",
-            "pensilvania",
-            "internacionales",
-            "real id",
-            "eeuu"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-asi-puede-sacar-la-real-id-en-el-estado-de-pensilvania-detalles/",
-        "date": "2024-07-23 20:00:00",
-        "sentiment_score": -0.02785538136959076
-    },
-    {
-        "title": "Dólar BCV Venezuela: Así se cotizará la moneda estadounidense hasta el 25Jul",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/hhhhhhh.png",
-        "tags": [
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/dolar-bcv-cotizara-estadounidense-25jul/",
-        "date": "2024-07-23 19:51:28",
-        "sentiment_score": 0.07753793150186539
-    },
-    {
-        "title": "¿Cómo saber si el gato tiene otitis? Aquí te decimos",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/otitis_en_gatos.jpg",
-        "tags": [
-            "otitis",
-            "otitis en el gato",
-            "mascotas",
-            "gato"
-        ],
-        "link": "https://2001online.com/zona3d/mascotas/como-saber-si-el-gato-tiene-otitis-aqui-te-decimos/",
-        "date": "2024-07-23 19:50:11",
-        "sentiment_score": 0.18633025884628296
-    },
-    {
-        "title": "¡No lo podrás creer! El costoso regalo que le hizo Lewis Hamilton a Shakira (+DETALLES)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Cortesia-DCI-1024x683.png",
-        "tags": [
-            "lewis hamilton",
-            "venezuela",
-            "shakira",
-            "internacionales",
-            "2001online",
-            "sucesos",
-            "en el chisme",
-            "piloto",
-            "eeuu",
-            "deportes",
-            "nacionales",
-            "fórmula 1"
-        ],
-        "link": "https://2001online.com/deportes/no-podras-creer-el-costoso-regalo-que-le-hizo-lewis-hamilton-a-shakira-detalles/",
-        "date": "2024-07-23 19:39:38",
-        "sentiment_score": -0.17952652275562286
-    },
-    {
-        "title": "EEUU: La ciudad cerca de Texas que paga $5.000 por vivir allí (+Requisitos)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/06/ciudad-1200x720.jpg",
-        "tags": [
-            "eeuu",
-            "vivir",
-            "ciudad",
-            "internacionales"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-la-ciudad-cerca-de-texas-que-paga-5-000-por-vivir-alli-requisitos/",
-        "date": "2024-07-23 19:32:48",
-        "sentiment_score": 0.5805951915681362
-    },
-    {
-        "title": "Kamala Harris recibe respaldo de demócratas en el Congreso",
-        "image_url": "https://2001online.com/wp-content/uploads/2021/10/kamala.jpg",
-        "tags": [
-            "kamala harris recibe respaldo de demócratas en el congreso",
-            "eeuu",
-            "internacionales"
-        ],
-        "link": "https://2001online.com/internacionales/kamala-harris-recibe-respaldo-de-democratas-en-el-congreso/",
-        "date": "2024-07-23 19:21:35",
-        "sentiment_score": 0.1175006777048111
-    },
-    {
-        "title": "¿Irina Baeva le montó los cuernos a Gabriel Soto?: Esto dijo el actor",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-2024-07-17T124808.967.jpg",
-        "tags": [
-            "venezuela",
-            "googlenews",
-            "rusa",
-            "internacionales",
-            "2001online",
-            "hola",
-            "infidelidad",
-            "en el chisme",
-            "actrizrusa",
-            "entretenimiento",
-            "irianbaeva",
-            "polémica",
-            "23dejuliode2024",
-            "eeuu",
-            "farándula",
-            "nacionales",
-            "actormexicano"
-        ],
-        "link": "https://2001online.com/farandula/irina-baeva-le-monto-los-cuernos-a-gabriel-soto-esto-dijo-el-actor/",
-        "date": "2024-07-23 19:19:25",
-        "sentiment_score": -0.13117977231740952
-    },
-    {
-        "title": "Revelan verdadera identidad de Hello Kitty",
-        "image_url": "https://static.independent.co.uk/2024/07/19/23/newFile.jpg",
-        "tags": [
-            "revelan verdadera identidad de hello kitty",
-            "curiosidades"
-        ],
-        "link": "https://2001online.com/curiosidades/revelan-verdadera-identidad-de-hello-kitty/",
-        "date": "2024-07-23 19:15:00",
-        "sentiment_score": 0.06415791809558868
     },
     {
         "title": "Mariposas y polillas atraen el polen sin contacto gracias a la electricidad estática",
@@ -2032,5 +1837,171 @@ export default [
         "link": "https://reporteconfidencial.info/2024/07/24/solicita-e-imprime-el-rif-del-seniat-desde-tu-casa-en-4-pasos/",
         "date": "2024-07-24 06:45:10",
         "sentiment_score": 0.26650676876306534
+    },
+    {
+        "title": "Deutsche Bank pierde 143 millones en el segundo trimestre, sus primeros 'números rojos' en cuatro años",
+        "image_url": "https://www.infobae.com/resizer/v2/WFSQXW3CPBEUNPE7LRWTMSFTKE.jpg?auth=b4c7c9c63c7657d388b8d0c123f4f8c03f351ae9ef707677392f4724be753791",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/deutsche-bank-pierde-143-millones-en-el-segundo-trimestre-sus-primeros-numeros-rojos-en-cuatro-anos/",
+        "date": "2024-07-24 08:03:16",
+        "sentiment_score": -0.5351569876074791
+    },
+    {
+        "title": "(AMP) Iberdrola dispara beneficio un 64% a junio, hasta 4.134 millones, y apunta a ganancias récord en 2024",
+        "image_url": "https://www.infobae.com/resizer/v2/VTP6E6VQC5HAZGUGONHNOQCFOA.jpg?auth=980533a37e4781634715e31f71fdd862e37ff2383dc8067f6257626f269a67d5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/amp-iberdrola-dispara-beneficio-un-64-a-junio-hasta-4134-millones-y-apunta-a-ganancias-record-en-2024/",
+        "date": "2024-07-24 08:03:04",
+        "sentiment_score": 0.6089547723531723
+    },
+    {
+        "title": "Herido de gravedad un militar de Reino Unido tras ser apuñalado cerca de un cuartel en el condado de Kent",
+        "image_url": "https://www.infobae.com/resizer/v2/6QY4IVG4F5GC5OCHNQD723VKUU.jpg?auth=64e20fa570c0ce04640f83fee2d3a5223f5dae3d02c5ff174a0d1835bc49ab90",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/herido-de-gravedad-un-militar-de-reino-unido-tras-ser-apunalado-cerca-de-un-cuartel-en-el-condado-de-kent/",
+        "date": "2024-07-24 08:02:50",
+        "sentiment_score": -0.8429625611752272
+    },
+    {
+        "title": "Pedro Sánchez escribe al juez del 'caso Begoña Gómez' y le pide declarar por escrito",
+        "image_url": "https://www.infobae.com/resizer/v2/PNBKYDAJRZB3LHEQTFZ5W2UEDU.jpg?auth=6f5457ae79ab9659a020a66475e3340954cb047b9b3e0786e0314f15e662884a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/pedro-sanchez-escribe-al-juez-del-caso-begona-gomez-y-le-pide-declarar-por-escrito/",
+        "date": "2024-07-24 08:02:31",
+        "sentiment_score": -0.6212279219180346
+    },
+    {
+        "title": "Miércoles, 24 de julio de 2024 (08:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_564d18e986ba4735bac8fc4cf8f43617.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/miercoles-24-de-julio-de-2024-0800-gmt/",
+        "date": "2024-07-24 08:01:45",
+        "sentiment_score": -0.012146525084972382
+    },
+    {
+        "title": "La final por equipos masculinos de gimnasia, el gran reto pendiente del deporte español",
+        "image_url": "./assets/ai_generated/v1_txt2img_0a6d0b5b704d433982e7af7074600cd1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-final-por-equipos-masculinos-de-gimnasia-el-gran-reto-pendiente-del-deporte-espanol/",
+        "date": "2024-07-24 08:01:28",
+        "sentiment_score": 0.034993723034858704
+    },
+    {
+        "title": "David Cal: \"Lo impensable parece no conseguir una medalla, con el equipo que hay\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_6abaed2676a64e0f8a6b79ae03da4a90.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/david-cal-lo-impensable-parece-no-conseguir-una-medalla-con-el-equipo-que-hay/",
+        "date": "2024-07-24 08:01:11",
+        "sentiment_score": -0.8847641535103321
+    },
+    {
+        "title": "Atletas ucranianos llegarán hoy a París tras hacer parte de su viaje en tren desde Kiev",
+        "image_url": "./assets/ai_generated/v1_txt2img_0678935ec000403d9fa277140118a6db.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/atletas-ucranianos-llegaran-hoy-a-paris-tras-hacer-parte-de-su-viaje-en-tren-desde-kiev/",
+        "date": "2024-07-24 08:00:54",
+        "sentiment_score": 0.06987414509057999
+    },
+    {
+        "title": "China apoya que Ucrania y Rusia negocien y pide buscar una \"solución política\" a la guerra",
+        "image_url": "./assets/ai_generated/v1_txt2img_a18fea0b7944470a8b2ad497197aad1f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/china-apoya-que-ucrania-y-rusia-negocien-y-pide-buscar-una-solucion-politica-a-la-guerra/",
+        "date": "2024-07-24 08:00:37",
+        "sentiment_score": -0.20138049125671387
+    },
+    {
+        "title": "Filipinas declara el estado de calamidad por las inundaciones en Manila",
+        "image_url": "./assets/ai_generated/v1_txt2img_459b537d39bf4fde93e6ed62d2d8b1bb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/filipinas-declara-el-estado-de-calamidad-por-las-inundaciones-en-manila/",
+        "date": "2024-07-24 08:00:20",
+        "sentiment_score": -0.9008906409144402
+    },
+    {
+        "title": "Condenan a una empleada del ejército de EE.UU. que robó casi US$ 109 millones para comprar mansiones y coches de lujo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Janet-Yamanaka-Mello-e1721806481609.jpg?quality=100&strip=info",
+        "tags": [
+            "fraude",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/empleada-ejercito-eeuu-robo-millones-mansiones-coches-ap/",
+        "date": "2024-07-24 07:54:46",
+        "sentiment_score": -0.8805123846977949
+    },
+    {
+        "title": "Un avión nepalí se estrelló en el despegue y dejó 18 muertos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/logo-cnn.webp",
+        "tags": [
+            "avión",
+            "nepal",
+            "asia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/18-muertos-estrellarse-avion-nepali-despegue-katmandu-trax/",
+        "date": "2024-07-24 07:44:19",
+        "sentiment_score": -0.7934172498062253
+    },
+    {
+        "title": "\"Su extraordinaria historia de origen podría ayudar a ampliar la base\": diversos donantes compiten para ayudar a Harris a hacer historia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-7.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/donantes-kamala-harris-diversidad-origen-trax/",
+        "date": "2024-07-24 07:40:18",
+        "sentiment_score": -0.10869698226451874
+    },
+    {
+        "title": "Globos de basura de Corea del Norte caen cerca de la oficina presidencial de Corea del Sur",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Corea-Norte-Globos-sur-seul-e1721802740655.jpg?quality=100&strip=info",
+        "tags": [
+            "globos basura",
+            "corea"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/globos-basura-corea-norte-oficina-presidencial-sur-trax/",
+        "date": "2024-07-24 07:15:34",
+        "sentiment_score": -0.9028420830145478
+    },
+    {
+        "title": "Miércoles, 24 de julio de 2024 (07.30 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_428fddb1376648ef8fde55ef41189e8c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/miercoles-24-de-julio-de-2024-0730-gmt/",
+        "date": "2024-07-24 07:46:10",
+        "sentiment_score": -0.0027771368622779846
+    },
+    {
+        "title": "Foto Colectania de Barcelona acercará la fotografía española en una exposición en Miami (EE.UU.)",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/07/22/6329E0C5-06BB-4435-A4B1-D2C55ED61E7F/96.jpg?crop=1920%2C1080%2Cx0%2Cy228&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/foto-colectania-barcelona-acercara-fotografia-espanola-exposicion-miami-eeuu_2024072466a0b097ef894800011270ef.html",
+        "date": "2024-07-24 07:43:19",
+        "sentiment_score": 0.689209345728159
     }
 ];
