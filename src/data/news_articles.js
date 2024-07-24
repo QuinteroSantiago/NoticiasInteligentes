@@ -351,18 +351,6 @@ export default [
         "sentiment_score": 0.4624112844467163
     },
     {
-        "title": "Sistema Patria: Inicia pago especial para adultos mayores (+Monto)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/03/Salario-minimo.jpg",
-        "tags": [
-            "sistema patria: inicia pago especial para adultos mayores (+monto)",
-            "venezuela",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/sistema-patria-inicia-pago-especial-para-adultos-mayores-monto/",
-        "date": "2024-07-22 15:08:07",
-        "sentiment_score": 0.10903533920645714
-    },
-    {
         "title": "El productor musical Raphy Pina insta a jóvenes a tener precaución para no acabar presos",
         "image_url": "./assets/ai_generated/v1_txt2img_21b3ba65a0484f829a1ab1b15a73d476.png",
         "tags": [
@@ -4278,5 +4266,653 @@ export default [
         "link": "https://2001online.com/nacionales/anuncian-mas-de-300-creditos-para-emprendedores-en-miranda-detalles/",
         "date": "2024-07-24 00:06:25",
         "sentiment_score": 0.3070007637143135
+    },
+    {
+        "title": "Hillary Clinton advierte que Harris se enfrenterá al \"sexismo y los dobles estándares\" durante la campaña",
+        "image_url": "https://www.infobae.com/resizer/v2/FVCG23JCWZBZJIU5VF6HZOGGNY.jpg?auth=2bab6d987b0ebe88a6b7954553e79bc0481be69030fa0b76260219490a373e71",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/hillary-clinton-advierte-que-harris-se-enfrentera-al-sexismo-y-los-dobles-estandares-durante-la-campana/",
+        "date": "2024-07-24 03:17:20",
+        "sentiment_score": -0.1571667268872261
+    },
+    {
+        "title": "Cuáles son los mejores y los peores pasaportes del mundo",
+        "image_url": "https://www.infobae.com/resizer/v2/QDF4B2Z33BBJNJZQMGJKNE7VUM.jpg?auth=5395286f0eb9725dee15bfc8dac03d0ded59083f2da833ad7623a3565863ddd2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2024/07/24/cuales-son-los-mejores-y-los-peores-pasaportes-del-mundo/",
+        "date": "2024-07-24 03:02:21",
+        "sentiment_score": 0.6342360191047192
+    },
+    {
+        "title": "Un globo con basura enviado por Corea del Norte cae en el recinto de la Oficina Presidencial surcoreana",
+        "image_url": "https://www.infobae.com/resizer/v2/5QOZ2FZZJBFQZFJERVZ3QIUQTE.jpg?auth=23567e84c400343091ddaa5ca43850d054a5d38439646e9ab9a5bce12ad80074",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-globo-con-basura-enviado-por-corea-del-norte-cae-en-el-recinto-de-la-oficina-presidencial-surcoreana/",
+        "date": "2024-07-24 03:02:14",
+        "sentiment_score": -0.8816644996404648
+    },
+    {
+        "title": "El beneficio la filial de Iberdrola en Brasil se mantuvo estable en el primer semestre",
+        "image_url": "./assets/ai_generated/v1_txt2img_cdd8d9412f0847648083cd26c4decc57.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-beneficio-la-filial-de-iberdrola-en-brasil-se-mantuvo-estable-en-el-primer-semestre/",
+        "date": "2024-07-24 03:01:45",
+        "sentiment_score": 0.6879843436181545
+    },
+    {
+        "title": "Al menos dos muertos y dos heridos deja explosión en fábrica de tequila en oeste de México",
+        "image_url": "./assets/ai_generated/v1_txt2img_c4f109fa8be949a2a32626caf9bd4fe8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/al-menos-dos-muertos-y-dos-heridos-deja-explosion-en-fabrica-de-tequila-en-oeste-de-mexico/",
+        "date": "2024-07-24 03:01:30",
+        "sentiment_score": -0.8029269557446241
+    },
+    {
+        "title": "San Lorenzo suma tres puntos por primera vez en la Liga Profesional argentina",
+        "image_url": "./assets/ai_generated/v1_txt2img_efdf9b2a9bca468691a5bc53edf28063.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/san-lorenzo-suma-tres-puntos-por-primera-vez-en-la-liga-profesional-argentina/",
+        "date": "2024-07-24 03:01:13",
+        "sentiment_score": 0.6479370668530464
+    },
+    {
+        "title": "Michael Gallup, exestrella de los Cowboys, anuncia su retiro de la NFL a los 28 años",
+        "image_url": "./assets/ai_generated/v1_txt2img_3800609764e141c4a5f08b284fd015fa.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/michael-gallup-exestrella-de-los-cowboys-anuncia-su-retiro-de-la-nfl-a-los-28-anos/",
+        "date": "2024-07-24 03:00:57",
+        "sentiment_score": -0.2335396148264408
+    },
+    {
+        "title": "Piovi le da la victoria a la Liga MX en el reto de habilidades de la MLS",
+        "image_url": "./assets/ai_generated/v1_txt2img_8226895e0dc248379d5505d98c8023b2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/piovi-le-da-la-victoria-a-la-liga-mx-en-el-reto-de-habilidades-de-la-mls/",
+        "date": "2024-07-24 03:00:22",
+        "sentiment_score": 0.6137144081294537
+    },
+    {
+        "title": "Corea del Norte apuesta por \"abrir una nueva era\" de relaciones con Bielorrusia",
+        "image_url": "./assets/ai_generated/v1_txt2img_cab121f9d82e426b9e399e35646badf6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/corea-del-norte-apuesta-por-abrir-una-nueva-era-de-relaciones-con-bielorrusia/",
+        "date": "2024-07-24 02:45:38",
+        "sentiment_score": 0.6213744021952152
+    },
+    {
+        "title": "Legisladores cuestionan la paridad de género en la reforma judicial de México",
+        "image_url": "./assets/ai_generated/v1_txt2img_32b6fb9198b6467fbcc560d5be70a981.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/legisladores-cuestionan-la-paridad-de-genero-en-la-reforma-judicial-de-mexico/",
+        "date": "2024-07-24 02:45:21",
+        "sentiment_score": -0.6326939314603806
+    },
+    {
+        "title": "Juan Guaidó explicó cómo planean defender el voto de los venezolanos en las elecciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162585812.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "juan guaidó",
+            "venezuela",
+            "elecciones venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/llamado-defensa-voto-opositores-regimen-maduro-elecciones-conclusiones-tv/",
+        "date": "2024-07-24 02:41:46",
+        "sentiment_score": -0.001169353723526001
+    },
+    {
+        "title": "Maduro podría ganar esta elección sin fraude electoral, dice experta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/copia-de-thumbnail-youtube-17_dede9d.png",
+        "tags": [
+            "análisis",
+            "entrevistas",
+            "nicolás maduro",
+            "elecciones venezuela",
+            "cnn en español",
+            "edmundo gonzález urrutia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/urrutia-maduro-chavismo/",
+        "date": "2024-07-24 02:32:08",
+        "sentiment_score": 0.15339529514312744
+    },
+    {
+        "title": "Guaidó plantea la posibilidad de una amnistía para Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162586274.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "juan guaidó",
+            "nicolás maduro",
+            "amnistía"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-fraude-plan-oposicion-maduro-conclusiones-tv/",
+        "date": "2024-07-24 02:31:35",
+        "sentiment_score": 0.005993694067001343
+    },
+    {
+        "title": "Este año “puede lograrse la alternancia del poder” en Venezuela, dice experta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162020933_a10b65.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "latinos",
+            "nicolás maduro",
+            "elecciones venezuela",
+            "cnn en español",
+            "edmundo gonzález urrutia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-julio/",
+        "date": "2024-07-24 02:22:59",
+        "sentiment_score": 0.10639804601669312
+    },
+    {
+        "title": "Las oportunidades de México en el “nearshoring” de semiconductores",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/cnne-1479409-ee-uu-restringe-exportacion-de-chips-a-china.jpg?quality=100&strip=info",
+        "tags": [
+            "economía",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-nearshoring-semiconductores-usaid-panorama-mundial-tv/",
+        "date": "2024-07-24 01:46:04",
+        "sentiment_score": 0.46094124764204025
+    },
+    {
+        "title": "Durante su visita a Washington, Netanyahu escuchó reclamos de familiares de rehenes en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20810188-15909-331999999999-still.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/netanyahu-washington-reunion-familiares-rehenes-gaza-panorama-mundial-tv/",
+        "date": "2024-07-24 01:33:10",
+        "sentiment_score": -0.27150002121925354
+    },
+    {
+        "title": "Esto es lo que según María Corina Machado podría pasar el día después de las elecciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2159130017.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-elecciones-dia-despues-maduro-votantes-fraude-conclusiones-tv/",
+        "date": "2024-07-24 01:32:37",
+        "sentiment_score": -0.5172427855432034
+    },
+    {
+        "title": "Crece censura en Venezuela, Maduro llama a los medios \"sicarios de la mentira\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20812806-50176-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-bloqueos-medios-elecciones-venezuela-mentiras-conclusiones-tv/",
+        "date": "2024-07-24 01:32:33",
+        "sentiment_score": -0.8177193235605955
+    },
+    {
+        "title": "Elon Musk pone pausa a la construcción de la fábrica de Tesla en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1392610598-20240705201234751_908b3f.jpg?quality=100&strip=info",
+        "tags": [
+            "tesla",
+            "negocios",
+            "elon musk"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elon-musk-tesla-planta-nuevo-leon-mexico-panorama-mundial-tv/",
+        "date": "2024-07-24 01:15:21",
+        "sentiment_score": 0.21215352416038513
+    },
+    {
+        "title": "“Nos pueden retornar 20.000 veces, pero 20.000 vamos a volver”, dice un migrante",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162551759.jpg?quality=100&strip=info",
+        "tags": [
+            "chiapas",
+            "méxico",
+            "caravana de migrantes",
+            "migración"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/caravana-migrante-chiapas-migracion-perspectivas-mexico-tv/",
+        "date": "2024-07-24 01:09:16",
+        "sentiment_score": -0.1088600605726242
+    },
+    {
+        "title": "Piovi le da la victoria a la Liga MX en el reto de habilidades de la MLS",
+        "image_url": "./assets/ai_generated/v1_txt2img_da3fe60a4c464df583a18485e50fdfd7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/piovi-le-da-la-victoria-a-la-liga-mx-en-el-reto-de-habilidades-de-la-mls/",
+        "date": "2024-07-24 03:00:22",
+        "sentiment_score": 0.6137144081294537
+    },
+    {
+        "title": "El gallego que diseña bodegas de lujo en España y EE.UU.",
+        "image_url": "https://cflvdg.avoz.es/sc/5kQz-3QHaNTVWzzecQleUKKBw-U=/768x/2024/07/23/00121721731982114599392/Foto/j_20240710_125411000.jpg",
+        "tags": [
+            "yes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/yes/2024/07/23/gallego-disena-bodegas-lujo-espana-eeuu/00031721735524805550702.htm",
+        "date": "2024-07-24 03:00:00",
+        "sentiment_score": 0.1675586700439453
+    },
+    {
+        "title": "Noche tropical en Vigo con Luis Fonsi y un «Despacito» que se hizo esperar",
+        "image_url": "https://cflvdg.avoz.es/sc/ntrpUVDfGmtBGEUwS3A1ZItkSfA=/768x/2024/07/23/00121721768582082395418/Foto/i_20240723_224352001.jpg",
+        "tags": [
+            "música",
+            "abel caballero",
+            "canadá",
+            "conciertos",
+            "sergio dalma",
+            "vigo ciudad"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/vigo/vigo/2024/07/24/noche-tropical-vigo-luis-fonsi-despacito-hizo-esperarde-conciertos/0003_202407G24P28991.htm",
+        "date": "2024-07-24 03:00:00",
+        "sentiment_score": 0.07945884764194489
+    },
+    {
+        "title": "Luis Arráez lideró blanqueada de San Diego en la capital",
+        "image_url": "./assets/ai_generated/v1_txt2img_9e55ace6df614cc396f4d23b96195cc1.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/175705/luis-arraez-lidero-blanqueada-de-san-diego-en-la-capital/",
+        "date": "2024-07-24 02:39:25",
+        "sentiment_score": 0.06996920704841614
+    },
+    {
+        "title": "República Dominicana extraditó a Honduras a estadounidense acusado de matar a 3 mujeres",
+        "image_url": "./assets/ai_generated/v1_txt2img_2450be6ba1254686956b727b303fcdd4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/republica-dominicana-extradito-a-honduras-a-estadounidense-acusado-de-matar-a-3-mujeres/",
+        "date": "2024-07-24 02:15:36",
+        "sentiment_score": -0.8357828892767429
+    },
+    {
+        "title": "Davinson Sánchez dejó picantes declaraciones sobre la jugada que terminó en el gol de Argentina",
+        "image_url": "https://www.infobae.com/resizer/v2/EBLI3EYAGQSTW27SGBQ7CKCS2I.jpg?auth=58a28188d37ee46e1de68fab8a199e7ac562b23c024e0ac7c2817f6bcf4e0f00",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/07/24/davinson-sanchez-dejo-picantes-declaraciones-sobre-la-jugada-que-termino-en-el-gol-de-argentina/",
+        "date": "2024-07-24 02:07:47",
+        "sentiment_score": 0.3878786042332649
+    },
+    {
+        "title": "Albert Suárez salió del juego por lesión",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/07/albert-suarez.png",
+        "tags": [
+            "destacados",
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/albert-suarez-salio-del-juego-por-lesion/",
+        "date": "2024-07-24 01:50:16",
+        "sentiment_score": -0.7737230770289898
+    },
+    {
+        "title": "EEUU | Estas son las mejores ciudades de Florida para trabajar en verano",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/ORLANDO.jpg",
+        "tags": [
+            "internacionales",
+            "olando",
+            "trabajar",
+            "cabo doral",
+            "miami",
+            "fort lauderdale",
+            "st petesburg",
+            "florida",
+            "empleo",
+            "verano",
+            "tampa",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-estas-son-las-mejores-ciudades-de-florida-para-trabajar-en-verano/",
+        "date": "2024-07-24 01:26:17",
+        "sentiment_score": 0.7281792983412743
+    },
+    {
+        "title": "Yeison Jiménez no aguantó más y le cantó la tabla a un internauta y hasta lo llamó “tarado”",
+        "image_url": "https://www.infobae.com/resizer/v2/REU4HKKT4ZBN3FVXM3FVAZV2QI.jpg?auth=ea1697ff70cf14df84577c962fe64ba9417c5a7e7e25126216182775f3d3c547",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/07/24/yeison-jimenez-no-aguanto-mas-y-le-canto-la-tabla-a-un-internauta-y-hasta-lo-llamo-tarado/",
+        "date": "2024-07-24 01:24:45",
+        "sentiment_score": -0.6698855329304934
+    },
+    {
+        "title": "El Zoológico de Miami da la bienvenida a un canguro arborícola, en peligro de extinción",
+        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efe00d2204424dfcc1f347cee5b7e6ccbd18621cc3dw.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "estados unidos"
+        ],
+        "link": "https://holanews.com/el-zoologico-de-miami-da-la-bienvenida-a-un-canguro-arboricola-en-peligro-de-extincion/",
+        "date": "2024-07-24 00:24:44",
+        "sentiment_score": -0.5188203230500221
+    },
+    {
+        "title": "Antonio Villaraigosa anuncia que buscará ser gobernador de California en 2026",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5P3RXE6VIRGGXD66L6HWCUXBBY.jpg?auth=bd4f7e38091f7a5f62edc26dd3f5f203f0e41eacda07e98dad7fbca797fe62d9",
+        "tags": [
+            "políticos",
+            "partido demócrata ee uu",
+            "los ángeles",
+            "estados unidos",
+            "gavin newsom",
+            "california",
+            "américa",
+            "antonio villaraigosa",
+            "elecciones ee uu",
+            "campañas electorales",
+            "elecciones"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/antonio-villaraigosa-anuncia-que-buscara-ser-gobernador-de-california-en-2026.html",
+        "date": "2024-07-23 19:37:11",
+        "sentiment_score": 0.012178078293800354
+    },
+    {
+        "title": "La muerte de una mujer negra que había pedido ayuda al 911 reabre el debate sobre la violencia policial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CPJCAOPCTFCSHHUJJIMUZBP62U.jpg?auth=98e1ef2842e1d753188e93cd8835b9e37ec0db846943f5194a7409ec391ba058&width=1200",
+        "tags": [
+            "violencia policial",
+            "estados unidos",
+            "homicidios",
+            "justicia",
+            "abuso policial",
+            "américa",
+            "afroamericanos",
+            "policía"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/la-muerte-de-una-mujer-negra-que-habia-pedido-ayuda-al-911-reabre-el-debate-sobre-la-violencia-policial.html",
+        "date": "2024-07-23 18:30:36",
+        "sentiment_score": -0.8273289389908314
+    },
+    {
+        "title": "Autoridades federales inician investigación a Delta Air Lines por cancelaciones masivas de vuelos tras el fallo informático",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T6GXX6KAMVFTBFBGWQW5PE5DBI.jpg?auth=aeebac28f972029ccfc7e2734306d818af91e488a5c1eb5e2faeb6ccd7f8eb5a",
+        "tags": [
+            "américa",
+            "estados unidos",
+            "transporte aéreo",
+            "microsoft",
+            "aerolíneas",
+            "transporte",
+            "aeropuertos",
+            "delta airlines",
+            "cancelaciones transporte"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/autoridades-federales-inician-investigacion-a-delta-air-lines-por-cancelaciones-masivas-de-vuelos-tras-el-fallo-informatico.html",
+        "date": "2024-07-23 17:25:09",
+        "sentiment_score": -0.8634332725778222
+    },
+    {
+        "title": "Estados Unidos denuncia un presunto fraude a hispanos con deudas estudiantiles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UTLPSNAWVNEGPL3AJ7LRXKZGBU.jpg?auth=882e5d1ced556d9b2cb44ad35da11d6b95bd0d7f57f5733c853b2cf7ba149005",
+        "tags": [
+            "américa",
+            "puerto rico",
+            "deudas",
+            "fraudes",
+            "latinos",
+            "estados unidos",
+            "consumidores",
+            "florida",
+            "préstamos"
+        ],
+        "link": "https://elpais.com/us/economia/2024-07-23/estados-unidos-denuncia-un-presunto-fraude-a-hispanos-con-deudas-estudiantiles.html",
+        "date": "2024-07-23 16:24:23",
+        "sentiment_score": -0.7642222214490175
+    },
+    {
+        "title": "Los Endres consiguen una casa después de toda una vida en la calle",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FLAQMCJUPREKXMCWHO33AQ35FE.jpg?auth=9359e6c4a745c4a7d05437f05b9bcc7c460a6dfe4376ffcc0d831842c423f7c8",
+        "tags": [
+            "pobreza",
+            "desigualdad social",
+            "california",
+            "vivienda",
+            "estados unidos",
+            "familia",
+            "américa",
+            "san diego"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/los-endres-consiguen-una-casa-despues-de-toda-una-vida-en-la-calle.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": -0.12030711770057678
+    },
+    {
+        "title": "Anita Álvarez vuelve a sumergirse en el agua para perseguir el sueño olímpico en París 2024",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E7BI3S7SRRGZ7CX57ZAEWML5VU.jpg?auth=25a4bcd8de34ed64a5056114b4f7e81adade74a82da0e0b16aca4042e33129ec",
+        "tags": [
+            "natación",
+            "deporte extremo",
+            "deporte femenino",
+            "estados unidos",
+            "juegos olímpicos 2020",
+            "natación sincronizada",
+            "juegos olímpicos 2016",
+            "américa"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/anita-alvarez-vuelve-a-sumergirse-en-el-agua-para-perseguir-el-sueno-olimpico-en-paris-2024.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.7746482528746128
+    },
+    {
+        "title": "La pobreza es mayor en las ciudades más latinas de Estados Unidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZHVKKR34MBEOXBIGMNTVMNLJCE.jpg?auth=8e2b9521aed976e2a32f7b63124914e99b629ea0a7513c476d39f13ede192049",
+        "tags": [
+            "pobreza",
+            "miami",
+            "latinos",
+            "california",
+            "estados unidos",
+            "texas",
+            "florida",
+            "américa",
+            "economía"
+        ],
+        "link": "https://elpais.com/us/economia/2024-07-23/la-pobreza-es-mayor-en-las-ciudades-mas-latinas-de-estados-unidos.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.17568664252758026
+    },
+    {
+        "title": "De 11 millones de habitantes a poco más de 8,5: el saldo real de la crisis migratoria en Cuba",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KAVB2G3EQVE73FO2WFUKEHUHXM.jpg?auth=a84a33505afa44af884d98d44749e793654d596bbf1dd8067300453172f70ca4",
+        "tags": [
+            "miguel díaz-canel",
+            "crisis económica",
+            "demografía",
+            "protestas sociales",
+            "estados unidos",
+            "cuba",
+            "américa",
+            "inmigración"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/de-11-millones-de-habitantes-a-poco-mas-de-85-el-saldo-real-de-la-crisis-migratoria-en-cuba.html",
+        "date": "2024-07-23 04:00:00",
+        "sentiment_score": 0.11453482508659363
+    },
+    {
+        "title": "Video | Los momentos destacados del primer mitin de Kamala Harris",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3DJ4GIN62NGR3CAPUI5UEYTL2Y?auth=df99a253acbb86ab9e60bf8ada0ea4310de1ae84ea9481e6bfdcb905832c34b9&width=1200",
+        "tags": [
+            "elecciones ee uu",
+            "joseph biden",
+            "elecciones",
+            "donald trump",
+            "estados unidos",
+            "américa",
+            "kamala harris",
+            "mitin electoral"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/video-los-momentos-destacados-del-primer-mitin-de-kamala-harris.html",
+        "date": "2024-07-23 03:23:07",
+        "sentiment_score": 0.09855347871780396
+    },
+    {
+        "title": "Un ciberataque paraliza el mayor tribunal de Estados Unidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FAHITEE2JJC4FGPSDADJRYKEAE.jpg?auth=14eb21f3f22f4beadfefe91a177b636076a60f127e1e7b6709c74354f557bfc2",
+        "tags": [
+            "los ángeles",
+            "california",
+            "estados unidos",
+            "delincuencia",
+            "robos",
+            "hacker",
+            "usuarios internet",
+            "tribunales",
+            "ataques informáticos"
+        ],
+        "link": "https://elpais.com/us/2024-07-22/un-ciberataque-paraliza-el-mayor-tribunal-de-estados-unidos.html",
+        "date": "2024-07-22 20:58:42",
+        "sentiment_score": -0.567568514496088
+    },
+    {
+        "title": "Así funciona en 2024 el sistema de legalización y apostilla de documentos en Venezuela",
+        "image_url": "./assets/ai_generated/v1_txt2img_3bfab1ef86c444caa129a1d446b77d11.png",
+        "tags": [
+            "apostilla",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/asi-funciona-en-2024-el-sistema-de-legalizacion-y-apostilla-de-documentos-en-venezuela/",
+        "date": "2024-07-24 03:00:00",
+        "sentiment_score": 0.0655868798494339
+    },
+    {
+        "title": "María Brea, la caraqueña que ha triunfado en los concursos internacionales de Ópera",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Maria-Brea.jpg",
+        "tags": [
+            "maría brea",
+            "venezolana en concursos de ópera",
+            "migración"
+        ],
+        "link": "https://2001online.com/migracion/maria-brea-caraquena-triunfado-concursos-opera/",
+        "date": "2024-07-24 02:27:47",
+        "sentiment_score": -0.14006449282169342
+    },
+    {
+        "title": "Rector Conrado Pérez explicó cómo funciona el conteo de votos en Venezuela",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/754d750e-181b-4b73-a1a1-e2b0478721fd.jpg",
+        "tags": [
+            "elecciones 2024",
+            "cne",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/rector-conrado-perez-explico-como-funciona-el-conteo-de-votos-en-venezuela/",
+        "date": "2024-07-24 02:26:15",
+        "sentiment_score": 0.21071061491966248
+    },
+    {
+        "title": "EEUU | Así puede adiestrarse como mecánico de aviones en Los Ángeles gratis",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/1689662708014.jpg",
+        "tags": [
+            "mec{anico de aviones",
+            "internacionales",
+            "los ángeles",
+            "gratis",
+            "2001online",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-asi-puede-adiestrarse-como-mecanico-de-aviones-en-los-angeles-gratis/",
+        "date": "2024-07-24 02:00:00",
+        "sentiment_score": 0.3984687030315399
+    },
+    {
+        "title": "Explosión hidrotermal causó pánico en el parque Yellowstone (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Yellowstone-1200x720.jpeg",
+        "tags": [
+            "parque yellowstone",
+            "internacionales",
+            "2001online",
+            "eeuu",
+            "explosión hidrotermal"
+        ],
+        "link": "https://2001online.com/internacionales/explosion-hidrotermal-causo-panico-en-el-parque-yellowstone-video/",
+        "date": "2024-07-24 02:00:00",
+        "sentiment_score": -0.8741739559918642
+    },
+    {
+        "title": "Maduro compara el sistema electoral venezolano con el de Brasil y Colombia (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/CNE-1.jpg",
+        "tags": [
+            "colombia",
+            "brasil",
+            "nacionales",
+            "sistema electoral venezolano"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-compara-el-sistema-electoral-venezolano-con-el-de-brasil/",
+        "date": "2024-07-24 01:55:18",
+        "sentiment_score": -0.7310774102807045
+    },
+    {
+        "title": "EEUU | Disneyland premia a una ciudad de California con promociones increíbles",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Disneyland.jpg",
+        "tags": [
+            "disneyland",
+            "internacionales",
+            "promociones",
+            "2001online",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-disneyland-premia-a-una-ciudad-de-california-con-promociones-increibles/",
+        "date": "2024-07-24 01:50:00",
+        "sentiment_score": 0.773640338331461
+    },
+    {
+        "title": "EEUU | Conozca cómo recibir asesoría legal gratis ante desalojos ilegales en Los Ángeles",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/desalojo.jpg",
+        "tags": [
+            "asesoría legal",
+            "internacionales",
+            "desalojos ilegales",
+            "gratis",
+            "2001online",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-conozca-como-recibir-asesoria-legal-gratis-ante-desalojos-ilegales-en-los-angeles/",
+        "date": "2024-07-24 01:40:00",
+        "sentiment_score": 0.03494240343570709
+    },
+    {
+        "title": "Con dólares falsos pagó apuestas y bebidas en Chichiriviche",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-444.png",
+        "tags": [
+            "dolares",
+            "falcomn",
+            "sucesos",
+            "detenido hombre por pagar con dolares falsos",
+            "chichiriviche"
+        ],
+        "link": "https://2001online.com/sucesos/con-dolares-falsos-pago-apuestas-y-bebidas-en-chichiriviche/",
+        "date": "2024-07-24 01:31:03",
+        "sentiment_score": -0.559443149715662
+    },
+    {
+        "title": "Ganó $1 millón en la lotería pero un empleado le robó el boleto",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/descarga-3-3-1200x720.jpg",
+        "tags": [
+            "lotería",
+            "curiosidades",
+            "tennessee"
+        ],
+        "link": "https://2001online.com/curiosidades/gano-1-millon-en-la-loteria-pero-un-empleado-le-robo-el-boleto/",
+        "date": "2024-07-24 01:30:28",
+        "sentiment_score": -0.6867878325283527
     }
 ];
