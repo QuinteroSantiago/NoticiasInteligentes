@@ -17,6 +17,12 @@ def list_images_in_directory(directory):
     """List all image files in the specified directory."""
     return {file for file in os.listdir(directory) if file.endswith(('.png', '.jpg', '.jpeg'))}
 
+def normalize_item(item):
+    """Create a normalized identifier for a news item."""
+    normalized_title = item['title'].strip().lower()
+    sentiment_score = str(item['sentiment_score']).strip()
+    return normalized_title + sentiment_score
+
 def find_unreferenced_images(js_data, image_directory):
     """Find images in the directory that are not referenced in the JSON data."""
     image_urls = set(item.get('image_url') for item in js_data if item.get('image_url'))
@@ -30,19 +36,25 @@ try:
     js_data = extract_json_from_js(js_file)
 
     # Current time minus 24 hours
-    cutoff_date = datetime.now() - timedelta(days=2)
+    cutoff_date = datetime.now() - timedelta(days=1)
 
-    # Filter news items newer than 24 hours
-    recent_news = [item for item in js_data if datetime.strptime(item['date'], '%Y-%m-%d %H:%M:%S') > cutoff_date]
+    # Track seen items and filter duplicates
+    seen = set()
+    new_data = []
+    for item in js_data:
+        identifier = normalize_item(item)
+        if identifier not in seen and datetime.strptime(item['date'], '%Y-%m-%d %H:%M:%S') > cutoff_date:
+            new_data.append(item)
+            seen.add(identifier)
 
-    # Write back to file if needed
-    cleaned_json = json.dumps(recent_news, indent=4, ensure_ascii=False)
+    # Write back to file
+    cleaned_json = json.dumps(new_data, indent=4, ensure_ascii=False)
     with open(js_file, 'w', encoding='utf-8') as file:
         file.write(f'export default {cleaned_json};')
-    print("Old news removed and file updated successfully!")
+    print("Old news and duplicates removed and file updated successfully!")
 
     # Find and delete unreferenced images
-    unreferenced_images = find_unreferenced_images(recent_news, images_dir)
+    unreferenced_images = find_unreferenced_images(new_data, images_dir)
     if unreferenced_images:
         for image in unreferenced_images:
             os.remove(os.path.join(images_dir, image))
