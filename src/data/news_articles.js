@@ -167,38 +167,6 @@ export default [
         "sentiment_score": -0.8134712865576148
     },
     {
-        "title": "Caravana de unas 2.000 personas se dirige a EE.UU. En el grupo hay decenas de niños y bebés",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/apimages-3a848d7caa7843e1949f2d6eff2f60e8.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-mexico-caravana-chiapas-redaccion-buenos-aires-tv/",
-        "date": "2024-07-23 19:06:17",
-        "sentiment_score": 0.1867428719997406
-    },
-    {
-        "title": "Dramático rescate de un camionero atrapado por las inundaciones en China",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/whatsapp-image-2024-07-23-at-15-13-29-1.jpeg?quality=100&strip=info",
-        "tags": [
-            "cambio climático",
-            "video digitales",
-            "tifón"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rescate-camion-inundaciones-redaccion-buenos-aires-tv/",
-        "date": "2024-07-23 19:04:01",
-        "sentiment_score": -0.6164997257292271
-    },
-    {
-        "title": "BYD construirá planta de vehículos eléctricos en Turquía",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1620887418.jpg?quality=100&strip=info",
-        "tags": [
-            "business"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/byd-planta-vehiculos-electricos-chinos-turquia-cnn-dinero-tv/",
-        "date": "2024-07-23 19:02:19",
-        "sentiment_score": 0.35282646492123604
-    },
-    {
         "title": "El presidente de la Asociación Uruguaya tomó distancia de las explosivas declaraciones de Bielsa en la Copa América: “No representan la opinión de la AUF”",
         "image_url": "https://www.infobae.com/resizer/v2/V7KNWY33GOK4Y4TEAAV7JSFYLY.jpg?auth=ab8dde1f188c94c0796dddbbb0098fa0c410f45e863419ad35270c43b7c00746",
         "tags": [
@@ -321,23 +289,6 @@ export default [
         "link": "https://elpais.com/us/2024-07-23/antonio-villaraigosa-anuncia-que-buscara-ser-gobernador-de-california-en-2026.html",
         "date": "2024-07-23 19:37:11",
         "sentiment_score": 0.012178078293800354
-    },
-    {
-        "title": "La muerte de una mujer negra que había pedido ayuda al 911 reabre el debate sobre la violencia policial",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CPJCAOPCTFCSHHUJJIMUZBP62U.jpg?auth=98e1ef2842e1d753188e93cd8835b9e37ec0db846943f5194a7409ec391ba058&width=1200",
-        "tags": [
-            "violencia policial",
-            "estados unidos",
-            "homicidios",
-            "justicia",
-            "abuso policial",
-            "américa",
-            "afroamericanos",
-            "policía"
-        ],
-        "link": "https://elpais.com/us/2024-07-23/la-muerte-de-una-mujer-negra-que-habia-pedido-ayuda-al-911-reabre-el-debate-sobre-la-violencia-policial.html",
-        "date": "2024-07-23 18:30:36",
-        "sentiment_score": -0.8273289389908314
     },
     {
         "title": "Cobertura especial 2001: elecciones presidenciales Venezuela 2024",
@@ -1948,5 +1899,138 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2024/07/24/quintana-brilla-en-nueva-york-y-ramirez-lo-hace-en-cleveland/",
         "date": "2024-07-24 04:15:18",
         "sentiment_score": 0.2862251028418541
+    },
+    {
+        "title": "Línea Directa gana 25,4 millones de euros hasta junio, frente a pérdidas de 15,1 millones",
+        "image_url": "https://www.infobae.com/resizer/v2/DUASS3FQ3NFRLMYUB5KY6NTDBY.jpg?auth=63060323c39d05ea140b40361b85ea9f798e70215fd7fa50b27fc4ac46eadf78",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/linea-directa-gana-254-millones-de-euros-hasta-junio-frente-a-perdidas-de-151-millones/",
+        "date": "2024-07-24 07:03:53",
+        "sentiment_score": 0.11499004065990448
+    },
+    {
+        "title": "Repsol eleva un 14,5% su beneficio a junio, hasta 1.626 millones, y lanza nuevas recompras de acciones",
+        "image_url": "https://www.infobae.com/resizer/v2/BTRLKKQOARGTRKFKDNELQQTZTQ.jpg?auth=189a8277556ff419394cff3e763ffe19f5de48a9d484ae0520cd53de65c72a6f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/repsol-eleva-un-145-su-beneficio-a-junio-hasta-1626-millones-y-lanza-nuevas-recompras-de-acciones/",
+        "date": "2024-07-24 07:03:41",
+        "sentiment_score": 0.6720641367137432
+    },
+    {
+        "title": "Redondo desliga el cese de Isabel García de supuestas ilegalidades y defiende que el centro necesitaba un \"impulso\"",
+        "image_url": "https://www.infobae.com/resizer/v2/2XEJ2AGA6RGN5LRWI6HODBI2Q4.jpg?auth=6f5e1dbf36ddf1a43c2719ab02d9550dbefbf8433117206f1af60dd3fae751f5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/redondo-desliga-el-cese-de-isabel-garcia-de-supuestas-ilegalidades-y-defiende-que-el-centro-necesitaba-un-impulso/",
+        "date": "2024-07-24 07:03:29",
+        "sentiment_score": -0.8109007701277733
+    },
+    {
+        "title": "Heridas dos personas en Moscú a causa de la explosión de un artefacto colocado en un coche",
+        "image_url": "https://www.infobae.com/resizer/v2/LK4LCY4ELNBMPKABM2FUG5Z5XU.jpg?auth=9a8fbe582f59967515d6e3dd7cf5380d0174472a4b6c51bb9d9d9e1fa94b5e6c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/heridas-dos-personas-en-moscu-a-causa-de-la-explosion-de-un-artefacto-colocado-en-un-coche/",
+        "date": "2024-07-24 07:03:16",
+        "sentiment_score": -0.7849275544285774
+    },
+    {
+        "title": "Hillary Clinton advierte de que Harris se enfrenterá al \"sexismo y los dobles estándares\" durante la campaña",
+        "image_url": "https://www.infobae.com/resizer/v2/AFR7FB7P5FHUHBN5T6NFENF7PA.jpg?auth=d06b647f52d7e6bb6ce77281fd37ba21bda9e82dd548895d2ff9bf61e65d8419",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/hillary-clinton-advierte-de-que-harris-se-enfrentera-al-sexismo-y-los-dobles-estandares-durante-la-campana/",
+        "date": "2024-07-24 07:02:58",
+        "sentiment_score": -0.12640825659036636
+    },
+    {
+        "title": "Iberdrola dispara beneficio un 64% a junio, hasta 4.134 millones, y apunta a ganancias récord en 2024",
+        "image_url": "https://www.infobae.com/resizer/v2/UREA5TO3JNFVZMWIAQOVLDOXAA.jpg?auth=9d801ead52a4b15b8e630e239bfb84d8306918d9c48784d45ce165a25654cb93",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/iberdrola-dispara-beneficio-un-64-a-junio-hasta-4134-millones-y-apunta-a-ganancias-record-en-2024/",
+        "date": "2024-07-24 07:02:39",
+        "sentiment_score": 0.6651176251471043
+    },
+    {
+        "title": "Muere una persona en un nuevo ataque de Rusia contra la ciudad ucraniana de Jersón, en Ucrania",
+        "image_url": "https://www.infobae.com/resizer/v2/3PUOH6QSBVEMRIAO2BMOQIHKBQ.jpg?auth=71412fcb8c92b79ada10b90f33b378549997bf8575465fa539f74a90d04c9928",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/muere-una-persona-en-un-nuevo-ataque-de-rusia-contra-la-ciudad-ucraniana-de-jerson-en-ucrania/",
+        "date": "2024-07-24 07:02:21",
+        "sentiment_score": -0.833249693736434
+    },
+    {
+        "title": "España exhibe sus aviones de combate en Australia en unos ejercicios multinacionales",
+        "image_url": "https://www.infobae.com/resizer/v2/OSO233KHU5F33G3NPJFXRDDJYA.jpg?auth=fbcdb66cc898098a7653ed910e5420cb6bb33237b47373ce52d35fb5f6a54f99",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/espana-exhibe-sus-aviones-de-combate-en-australia-en-unos-ejercicios-multinacionales/",
+        "date": "2024-07-24 07:01:11",
+        "sentiment_score": 0.13708245754241943
+    },
+    {
+        "title": "Activistas se pegan a pista de aeropuerto alemán de Colonia/Bonn y bloquean tráfico aéreo",
+        "image_url": "./assets/ai_generated/v1_txt2img_90bfae8bae92427a99bc01860bf56f61.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/activistas-se-pegan-a-pista-de-aeropuerto-aleman-de-coloniabonn-y-bloquean-trafico-aereo/",
+        "date": "2024-07-24 07:00:49",
+        "sentiment_score": -0.7187670692801476
+    },
+    {
+        "title": "Al menos cinco muertos al estrellarse un avión con 19 personas a bordo en Nepal",
+        "image_url": "./assets/ai_generated/v1_txt2img_e51d8a300e504524a892907ef20581fc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/24/al-menos-cinco-muertos-al-estrellarse-un-avion-con-19-personas-a-bordo-en-nepal/",
+        "date": "2024-07-24 07:00:33",
+        "sentiment_score": -0.7864377629011869
+    },
+    {
+        "title": "Un estudio revela la presencia de \"sustancias químicas eternas\" tóxicas en plaguicidas utilizados en alimentos, hogares y mascotas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Toxic-chemicals-PFAS--e1721800108690.jpeg?quality=100&strip=info",
+        "tags": [
+            "contaminación de plástico",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/pfas-plaguicidas-sustancias-quimicas-eternas-toxicas-alimentos-hogares-mascotas-trax/",
+        "date": "2024-07-24 06:23:37",
+        "sentiment_score": -0.6501200273633003
+    },
+    {
+        "title": "Israel impide la entrada en Gaza a médicos con ascendencia palestina",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/suleiman-and-kids-2.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "guerra hamas israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/israel-restricciones-medicos-palestinos-gaza-trax/",
+        "date": "2024-07-24 06:18:52",
+        "sentiment_score": -0.6577548272907734
+    },
+    {
+        "title": "Solicita e imprime el RIF del SENIAT desde tu casa: En 4 pasos",
+        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2024/07/solicita-e-imprime-el-rif-del-seniat-desde-tu-casa-en-4-pasos-laverdaddemonagas.com-la-verdad-de-monagas-24-860x484.jpg",
+        "tags": [
+            "nacionales",
+            "principales"
+        ],
+        "link": "https://reporteconfidencial.info/2024/07/24/solicita-e-imprime-el-rif-del-seniat-desde-tu-casa-en-4-pasos/",
+        "date": "2024-07-24 06:45:10",
+        "sentiment_score": 0.26650676876306534
     }
 ];
