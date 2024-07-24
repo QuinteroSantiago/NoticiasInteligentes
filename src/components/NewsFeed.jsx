@@ -3,6 +3,13 @@ import newsData from '../data/news_articles';
 import NewsItem from './NewsItem';
 import NewsControls from './NewsControls';
 import Pagination from './Pagination';
+import SearchBar from './SearchBar';
+
+function normalizeText(text) {
+    return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "") // Remove accents
+                .replace(/ñ/g, 'n') // Replace 'ñ' with 'n'
+                .toLowerCase(); // Convert text to lower case
+}
 
 function NewsFeed() {
    const [filter, setFilter] = useState(localStorage.getItem('newsFilter') || 'positive');
@@ -11,13 +18,16 @@ function NewsFeed() {
    const [itemsPerPage, setItemsPerPage] = useState(50);
    const [paginatedData, setPaginatedData] = useState([]);
    const [numPages, setNumPages] = useState(0);
+   const [searchTerm, setSearchTerm] = useState('');
 
    useEffect(() => {
-      let filteredData = newsData.filter(newsItem => {
-         if (filter === 'positive') return newsItem.sentiment_score >= 0;
-         if (filter === 'negative') return newsItem.sentiment_score < 0;
-         return true;
-      });
+        let filteredData = newsData.filter(newsItem => {
+            const matchesFilter = filter === 'all' ||
+                                (filter === 'positive' && newsItem.sentiment_score >= 0) ||
+                                (filter === 'negative' && newsItem.sentiment_score < 0);
+            const matchesSearch = normalizeText(newsItem.title).includes(normalizeText(searchTerm));
+            return matchesFilter && matchesSearch;
+        });
 
       switch (sortMethod) {
          case 'most_positive':
@@ -42,7 +52,7 @@ function NewsFeed() {
       const paginatedItems = filteredData.slice(startIndex, startIndex + itemsPerPage);
       setPaginatedData(paginatedItems);
       setNumPages(Math.ceil(filteredData.length / itemsPerPage));
-   }, [filter, sortMethod, currentPage, itemsPerPage]);
+   }, [filter, sortMethod, currentPage, itemsPerPage, searchTerm]);
 
    useEffect(() => {
       localStorage.setItem('newsFilter', filter);
@@ -60,6 +70,7 @@ function NewsFeed() {
 
    return (
       <div className="flex flex-col items-center justify-center px-10">
+         <SearchBar searchTerm={searchTerm} onSearchChange={setSearchTerm} />
          <NewsControls filter={filter} setFilter={setFilter} sortMethod={sortMethod} setSortMethod={setSortMethod} />
          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
             {paginatedData.map((newsItem, index) => (
