@@ -4510,5 +4510,538 @@ export default [
         "link": "https://2001online.com/dolarlatam/dolar-bcv-venezuela-asi-se-cotiza-la-moneda-estadounidense-este-23jul/",
         "date": "2024-07-23 10:45:32",
         "sentiment_score": 0.023927442729473114
+    },
+    {
+        "title": "El grupo terrorista Hezbollah ejecutó tres ataques a Israel tras un operativo que abatió a uno de sus miembros en el Líbano",
+        "image_url": "https://www.infobae.com/resizer/v2/YXVQHRY7MFGVYJXRMTD2XCWCWA.jpg?auth=5c45a3a34e2524b507d677ee1046a0525d79357e86f0de2216d49e5322d61b9f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2024/07/23/el-grupo-terrorista-hezbollah-ejecuto-tres-ataques-a-israel-tras-un-operativo-que-abatio-a-uno-de-sus-miembros-en-el-libano/",
+        "date": "2024-07-23 22:20:59",
+        "sentiment_score": -0.6383315529674292
+    },
+    {
+        "title": "Martes, 23 de julio de 2024 (22:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_e0484a4f74424df0a80915adbd94c8f4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/martes-23-de-julio-de-2024-2200-gmt/",
+        "date": "2024-07-23 22:19:26",
+        "sentiment_score": -0.005534771829843521
+    },
+    {
+        "title": "Endrick: \"Estoy muy contento de fichar por el Madrid. Vamos hacer una historia muy grande\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_3636879623f04d0cafd0fa6569a5f6cc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/endrick-estoy-muy-contento-de-fichar-por-el-madrid-vamos-hacer-una-historia-muy-grande/",
+        "date": "2024-07-23 22:19:08",
+        "sentiment_score": 0.9136039009317756
+    },
+    {
+        "title": "Armada argentina colabora en las tareas de rescate del pesquero hundido cerca de Malvinas",
+        "image_url": "./assets/ai_generated/v1_txt2img_af4f4788a8c34f0cb06253854013a06e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/armada-argentina-colabora-en-las-tareas-de-rescate-del-pesquero-hundido-cerca-de-malvinas/",
+        "date": "2024-07-23 22:18:52",
+        "sentiment_score": -0.33278031647205353
+    },
+    {
+        "title": "Rudy: \"He intentado siempre representar de la mejor manera posible esta camiseta\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_6c9fc1c7cc8d4fd68461c62dc802c6cf.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/rudy-he-intentado-siempre-representar-de-la-mejor-manera-posible-esta-camiseta/",
+        "date": "2024-07-23 22:18:35",
+        "sentiment_score": 0.5777528919279575
+    },
+    {
+        "title": "La estrella dominicana Junior Firpo se pierde los Juegos Olímpicos",
+        "image_url": "./assets/ai_generated/v1_txt2img_5090321d46624ba7bcde8fd5fa465609.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/la-estrella-dominicana-junior-firpo-se-pierde-los-juegos-olimpicos/",
+        "date": "2024-07-23 22:18:18",
+        "sentiment_score": -0.8700503809377551
+    },
+    {
+        "title": "Seguidores de Luis Arce rechazan acto de proclamación de Evo Morales como líder del MAS",
+        "image_url": "./assets/ai_generated/v1_txt2img_a629e05a7b3c429d85df07195bc8d1a3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/seguidores-de-luis-arce-rechazan-acto-de-proclamacion-de-evo-morales-como-lider-del-mas/",
+        "date": "2024-07-23 22:18:01",
+        "sentiment_score": -0.7940604612231255
+    },
+    {
+        "title": "ONG denuncia que militares venezolanos apoyan minería \"prohibida\" en territorio amazónico",
+        "image_url": "./assets/ai_generated/v1_txt2img_4c981ef65d1946e9b54352b1352639bf.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/ong-denuncia-que-militares-venezolanos-apoyan-mineria-prohibida-en-territorio-amazonico/",
+        "date": "2024-07-23 22:17:44",
+        "sentiment_score": -0.5993921346962452
+    },
+    {
+        "title": "UNICEF denuncia que dos de sus vehículos han sido alcanzados por balas en la Franja de Gaza",
+        "image_url": "https://www.infobae.com/resizer/v2/X4GB62YPGZBC7PK2CWSOY2TUPU.jpg?auth=4dc9e676e17105843829f40e046cdac61f5077ec1e1adab23b27b02682f6c3b5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/unicef-denuncia-que-dos-de-sus-vehiculos-han-sido-alcanzados-por-balas-en-la-franja-de-gaza/",
+        "date": "2024-07-23 22:17:38",
+        "sentiment_score": -0.5824056565761566
+    },
+    {
+        "title": "Juancho Hernángómez: \"Quiero disfrutar del momento y de la experiencia\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_0e7132dd8b444a9195146ab06b5739eb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/juancho-hernangomez-quiero-disfrutar-del-momento-y-de-la-experiencia/",
+        "date": "2024-07-23 22:17:27",
+        "sentiment_score": 0.4338913522660732
+    },
+    {
+        "title": "Decenas de personas murieron y miles huyeron después de que Israel redujera la \"zona humanitaria\" en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gente-gaza.png",
+        "tags": [
+            "medio oriente",
+            "israel hamas gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/israel-reduce-zona-humanitaria-gaza-muertos-desplazados-trax/",
+        "date": "2024-07-23 20:54:42",
+        "sentiment_score": -0.8990362174808979
+    },
+    {
+        "title": "ANÁLISIS | La falla tecnológica mundial demostró que estamos a sólo un error del caos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162018355.webp",
+        "tags": [
+            "análisis",
+            "ciberseguridad"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/analisis-falla-tecnologica-mundial-crowstrike-microsoft-trax/",
+        "date": "2024-07-23 20:49:14",
+        "sentiment_score": -0.8774209022521973
+    },
+    {
+        "title": "Así fue la primera aparición de Biden tras retirarse de la elección",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/biden0-20240723202134234.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/joe-biden-covid-renuncia-perspectivas-mexico-tv-ush/",
+        "date": "2024-07-23 20:24:57",
+        "sentiment_score": -0.34547460079193115
+    },
+    {
+        "title": "Bob Menéndez renunciará a su escaño en el Senado de EE.UU. a partir del 20 de agosto, según fuentes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/bob-menendez-escano-reuncia-senado-estados-unidos.jpg?quality=100&strip=info",
+        "tags": [
+            "senado de estados unidos",
+            "política",
+            "bob menendez"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/bob-menendez-renunciara-escano-senado-ee-uu-20-agosto-fuentes-trax/",
+        "date": "2024-07-23 20:07:06",
+        "sentiment_score": -0.854189308360219
+    },
+    {
+        "title": "¿Qué nos dicen las encuestas sobre el enfrentamiento entre Trump y Harris?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-kamala-trump.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "videos digitales",
+            "elecciones en estados unidos",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/puede-kamala-harris-vencer-donald-turmp-ush-trax/",
+        "date": "2024-07-23 19:27:53",
+        "sentiment_score": -0.3224090114235878
+    },
+    {
+        "title": "Al 39% de estadounidenses les preocupa que sus ingresos no sean suficientes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/loans-10.jpeg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-ingresos-preocupaciones-no-sean-suficientes-cnn-dinero-tv/",
+        "date": "2024-07-23 19:17:36",
+        "sentiment_score": -0.8134712865576148
+    },
+    {
+        "title": "Caravana de unas 2.000 personas se dirige a EE.UU. En el grupo hay decenas de niños y bebés",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/apimages-3a848d7caa7843e1949f2d6eff2f60e8.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-mexico-caravana-chiapas-redaccion-buenos-aires-tv/",
+        "date": "2024-07-23 19:06:17",
+        "sentiment_score": 0.1867428719997406
+    },
+    {
+        "title": "Dramático rescate de un camionero atrapado por las inundaciones en China",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/whatsapp-image-2024-07-23-at-15-13-29-1.jpeg?quality=100&strip=info",
+        "tags": [
+            "cambio climático",
+            "video digitales",
+            "tifón"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rescate-camion-inundaciones-redaccion-buenos-aires-tv/",
+        "date": "2024-07-23 19:04:01",
+        "sentiment_score": -0.6164997257292271
+    },
+    {
+        "title": "BYD construirá planta de vehículos eléctricos en Turquía",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1620887418.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/byd-planta-vehiculos-electricos-chinos-turquia-cnn-dinero-tv/",
+        "date": "2024-07-23 19:02:19",
+        "sentiment_score": 0.35282646492123604
+    },
+    {
+        "title": "El ministro de Asuntos Exteriores de Ucrania llega a China en su primera visita importante desde el inicio de la guerra",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2160721745.jpg?quality=100&strip=info",
+        "tags": [
+            "guerra de rusia en ucrania",
+            "ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/23/visita-kuleba-ucrania-china-trax/",
+        "date": "2024-07-23 17:57:57",
+        "sentiment_score": 0.015424728393554688
+    },
+    {
+        "title": "El presidente de la Asociación Uruguaya tomó distancia de las explosivas declaraciones de Bielsa en la Copa América: “No representan la opinión de la AUF”",
+        "image_url": "https://www.infobae.com/resizer/v2/V7KNWY33GOK4Y4TEAAV7JSFYLY.jpg?auth=ab8dde1f188c94c0796dddbbb0098fa0c410f45e863419ad35270c43b7c00746",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/07/23/el-presidente-de-la-asociacion-uruguaya-tomo-distancia-de-las-explosivas-declaraciones-de-bielsa-en-la-copa-america-no-representan-la-opinion-de-la-auf/",
+        "date": "2024-07-23 22:19:04",
+        "sentiment_score": -0.28473834693431854
+    },
+    {
+        "title": "Urgen a EE.UU. otorgar nuevo TPS para hondureños y detener discriminación en la frontera",
+        "image_url": "./assets/ai_generated/v1_txt2img_029976e7470742c385a9280466528fb6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/23/urgen-a-eeuu-otorgar-nuevo-tps-para-hondurenos-y-detener-discriminacion-en-la-frontera/",
+        "date": "2024-07-23 22:15:39",
+        "sentiment_score": -0.5103339478373528
+    },
+    {
+        "title": "Urgen a EE.UU. otorgar nuevo TPS para hondureños y detener discriminación en la frontera",
+        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efe940ebc0e539e0d9c6d493da57b44d846db8d8274w.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "estados unidos"
+        ],
+        "link": "https://holanews.com/urgen-a-ee-uu-otorgar-nuevo-tps-para-hondurenos-y-detener-discriminacion-en-la-frontera/",
+        "date": "2024-07-23 22:14:42",
+        "sentiment_score": -0.3973304331302643
+    },
+    {
+        "title": "Ella es la hija de Esperanza Gómez que pocos conocen: cómo se llama y cuántos años tiene",
+        "image_url": "https://www.infobae.com/resizer/v2/ZZMAPJF7BVCXBBI76ZETRN53JU.png?auth=251793e1c338a03fa87e3cee7f2b6dae3645530d98a72bd4421374ef3129abbc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/07/23/ella-es-la-hija-de-esperanza-gomez-que-pocos-conocen-como-se-llama-y-cuantos-anos-tiene/",
+        "date": "2024-07-23 21:44:59",
+        "sentiment_score": -0.884575791656971
+    },
+    {
+        "title": "10 resorts de Florida para pasar vacaciones con la familia",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/M7ZDOIXYZ5FFZIFH73TX6X2FAM.jpeg?auth=3a43acee190a394fa7108d3f939f57f83924fec78ded6cf43f225ccd2e07939e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/noticias/2024/07/23/10-resorts-de-florida-para-pasar-vacaciones-con-la-familia/",
+        "date": "2024-07-23 21:36:32",
+        "sentiment_score": 0.841404085047543
+    },
+    {
+        "title": "Néstor Lorenzo podría irse de la selección Colombia: tendría dos ofertas sobre la mesa",
+        "image_url": "https://www.infobae.com/resizer/v2/24BEOWYQCJA3TPIKQ47KL5A534.jpg?auth=130a8aa1c9bcacab69fa5cd0c7a9f45b628801c9d0314f1360109dfa9469b367",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/07/23/nestor-lorenzo-podria-irse-de-la-seleccion-colombia-tendria-dos-ofertas-sobre-la-mesa/",
+        "date": "2024-07-23 21:17:02",
+        "sentiment_score": 0.6591298282146454
+    },
+    {
+        "title": "Infiltrados en la final de la Copa América en Miami podrían perder la visa y residencia estadounidense",
+        "image_url": "https://www.caraotadigital.net/wp-content/uploads/2024/07/ESTADIO-DE-MIAMI.jpg",
+        "tags": [
+            "estados unidos",
+            "usa",
+            "visa",
+            "eeuu",
+            "visa americana"
+        ],
+        "link": "https://www.caraotadigital.net/usa/infiltrados-en-la-final-de-la-copa-america-en-miami-podrian-perder-la-visa-y-residencia-estadounidense/",
+        "date": "2024-07-23 20:56:03",
+        "sentiment_score": -0.8692097086459398
+    },
+    {
+        "title": "Lionel Messi se recupera de la lesión en el tobillo en la tranquilidad de su hogar",
+        "image_url": "https://www.hola.com/horizon/landscape/e916cff74020-ss.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20240723708792/lionel-messi-lesion-copa-america-recuperacion/",
+        "date": "2024-07-23 20:53:33",
+        "sentiment_score": 0.0006835609674453735
+    },
+    {
+        "title": "EE.UU. sanciona a dos líderes del Cartel de Jalisco vinculados al tráfico de fentanilo",
+        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efedef60deae14654dee1069dc931a8545326053c35w.jpg?fit=1371%2C1920&ssl=1",
+        "tags": [
+            "estados unidos"
+        ],
+        "link": "https://holanews.com/ee-uu-sanciona-a-dos-lideres-del-cartel-de-jalisco-vinculados-al-trafico-de-fentanilo/",
+        "date": "2024-07-23 19:44:37",
+        "sentiment_score": -0.5728867650032043
+    },
+    {
+        "title": "Llega a Cabo Cañaveral el cohete de la NASA que se usará en la misión lunar Artemis II",
+        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efec639e14b883b7cfb618ca70c53de70609d2473e7w.jpg?fit=1920%2C1281&ssl=1",
+        "tags": [
+            "enterate"
+        ],
+        "link": "https://holanews.com/llega-a-cabo-canaveral-el-cohete-de-la-nasa-que-se-usara-en-la-mision-lunar-artemis-ii/",
+        "date": "2024-07-23 19:39:39",
+        "sentiment_score": 0.1510060429573059
+    },
+    {
+        "title": "Antonio Villaraigosa anuncia que buscará ser gobernador de California en 2026",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5P3RXE6VIRGGXD66L6HWCUXBBY.jpg?auth=bd4f7e38091f7a5f62edc26dd3f5f203f0e41eacda07e98dad7fbca797fe62d9",
+        "tags": [
+            "políticos",
+            "partido demócrata ee uu",
+            "los ángeles",
+            "estados unidos",
+            "gavin newsom",
+            "california",
+            "américa",
+            "antonio villaraigosa",
+            "elecciones ee uu",
+            "campañas electorales",
+            "elecciones"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/antonio-villaraigosa-anuncia-que-buscara-ser-gobernador-de-california-en-2026.html",
+        "date": "2024-07-23 19:37:11",
+        "sentiment_score": 0.012178078293800354
+    },
+    {
+        "title": "La muerte de una mujer negra que había pedido ayuda al 911 reabre el debate sobre la violencia policial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CPJCAOPCTFCSHHUJJIMUZBP62U.jpg?auth=98e1ef2842e1d753188e93cd8835b9e37ec0db846943f5194a7409ec391ba058&width=1200",
+        "tags": [
+            "violencia policial",
+            "estados unidos",
+            "homicidios",
+            "justicia",
+            "abuso policial",
+            "américa",
+            "afroamericanos",
+            "policía"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/la-muerte-de-una-mujer-negra-que-habia-pedido-ayuda-al-911-reabre-el-debate-sobre-la-violencia-policial.html",
+        "date": "2024-07-23 18:30:36",
+        "sentiment_score": -0.8273289389908314
+    },
+    {
+        "title": "Autoridades federales inician investigación a Delta Air Lines por cancelaciones masivas de vuelos tras el fallo informático",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T6GXX6KAMVFTBFBGWQW5PE5DBI.jpg?auth=aeebac28f972029ccfc7e2734306d818af91e488a5c1eb5e2faeb6ccd7f8eb5a",
+        "tags": [
+            "américa",
+            "estados unidos",
+            "transporte aéreo",
+            "microsoft",
+            "aerolíneas",
+            "transporte",
+            "aeropuertos",
+            "delta airlines",
+            "cancelaciones transporte"
+        ],
+        "link": "https://elpais.com/us/2024-07-23/autoridades-federales-inician-investigacion-a-delta-air-lines-por-cancelaciones-masivas-de-vuelos-tras-el-fallo-informatico.html",
+        "date": "2024-07-23 17:25:09",
+        "sentiment_score": -0.8634332725778222
+    },
+    {
+        "title": "Estados Unidos denuncia un presunto fraude a hispanos con deudas estudiantiles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UTLPSNAWVNEGPL3AJ7LRXKZGBU.jpg?auth=882e5d1ced556d9b2cb44ad35da11d6b95bd0d7f57f5733c853b2cf7ba149005",
+        "tags": [
+            "américa",
+            "puerto rico",
+            "deudas",
+            "fraudes",
+            "latinos",
+            "estados unidos",
+            "consumidores",
+            "florida",
+            "préstamos"
+        ],
+        "link": "https://elpais.com/us/economia/2024-07-23/estados-unidos-denuncia-un-presunto-fraude-a-hispanos-con-deudas-estudiantiles.html",
+        "date": "2024-07-23 16:24:23",
+        "sentiment_score": -0.7642222214490175
+    },
+    {
+        "title": "Cobertura especial 2001: elecciones presidenciales Venezuela 2024",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-439.png",
+        "tags": [
+            "2001online",
+            "venezuela",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/cobertura-especial-2001-elecciones-presidenciales-venezuela-2024/",
+        "date": "2024-07-23 22:19:24",
+        "sentiment_score": 0.23597058653831482
+    },
+    {
+        "title": "Maduro anunció fondo para emprendimientos de las personas de la tercera edad (+MONTO)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-23-at-4.24.17-PM.jpeg",
+        "tags": [
+            "maduro",
+            "fondo de emprendimiento tercera edad",
+            "tercera edad",
+            "años dorados",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncio-fondo-para-emprendimientos-de-las-personas-de-la-tercera-edad-monto/",
+        "date": "2024-07-23 21:00:00",
+        "sentiment_score": 0.39381488412618637
+    },
+    {
+        "title": "EEUU | Así puede sacar la Real ID en el estado de Pensilvania (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/real-id-pensilvania-1280x720.jpg",
+        "tags": [
+            "cómo solicitar la identificación oficial",
+            "pensilvania",
+            "internacionales",
+            "real id",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-asi-puede-sacar-la-real-id-en-el-estado-de-pensilvania-detalles/",
+        "date": "2024-07-23 20:00:00",
+        "sentiment_score": -0.02785538136959076
+    },
+    {
+        "title": "Dólar BCV Venezuela: Así se cotizará la moneda estadounidense hasta el 25Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/hhhhhhh.png",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/dolar-bcv-cotizara-estadounidense-25jul/",
+        "date": "2024-07-23 19:51:28",
+        "sentiment_score": 0.07753793150186539
+    },
+    {
+        "title": "¿Cómo saber si el gato tiene otitis? Aquí te decimos",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/otitis_en_gatos.jpg",
+        "tags": [
+            "otitis",
+            "otitis en el gato",
+            "mascotas",
+            "gato"
+        ],
+        "link": "https://2001online.com/zona3d/mascotas/como-saber-si-el-gato-tiene-otitis-aqui-te-decimos/",
+        "date": "2024-07-23 19:50:11",
+        "sentiment_score": 0.18633025884628296
+    },
+    {
+        "title": "¡No lo podrás creer! El costoso regalo que le hizo Lewis Hamilton a Shakira (+DETALLES)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Cortesia-DCI-1024x683.png",
+        "tags": [
+            "lewis hamilton",
+            "venezuela",
+            "shakira",
+            "internacionales",
+            "2001online",
+            "sucesos",
+            "en el chisme",
+            "piloto",
+            "eeuu",
+            "deportes",
+            "nacionales",
+            "fórmula 1"
+        ],
+        "link": "https://2001online.com/deportes/no-podras-creer-el-costoso-regalo-que-le-hizo-lewis-hamilton-a-shakira-detalles/",
+        "date": "2024-07-23 19:39:38",
+        "sentiment_score": -0.17952652275562286
+    },
+    {
+        "title": "EEUU: La ciudad cerca de Texas que paga $5.000 por vivir allí (+Requisitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/06/ciudad-1200x720.jpg",
+        "tags": [
+            "eeuu",
+            "vivir",
+            "ciudad",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-la-ciudad-cerca-de-texas-que-paga-5-000-por-vivir-alli-requisitos/",
+        "date": "2024-07-23 19:32:48",
+        "sentiment_score": 0.5805951915681362
+    },
+    {
+        "title": "Kamala Harris recibe respaldo de demócratas en el Congreso",
+        "image_url": "https://2001online.com/wp-content/uploads/2021/10/kamala.jpg",
+        "tags": [
+            "kamala harris recibe respaldo de demócratas en el congreso",
+            "eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/kamala-harris-recibe-respaldo-de-democratas-en-el-congreso/",
+        "date": "2024-07-23 19:21:35",
+        "sentiment_score": 0.1175006777048111
+    },
+    {
+        "title": "¿Irina Baeva le montó los cuernos a Gabriel Soto?: Esto dijo el actor",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-2024-07-17T124808.967.jpg",
+        "tags": [
+            "venezuela",
+            "googlenews",
+            "rusa",
+            "internacionales",
+            "2001online",
+            "hola",
+            "infidelidad",
+            "en el chisme",
+            "actrizrusa",
+            "entretenimiento",
+            "irianbaeva",
+            "polémica",
+            "23dejuliode2024",
+            "eeuu",
+            "farándula",
+            "nacionales",
+            "actormexicano"
+        ],
+        "link": "https://2001online.com/farandula/irina-baeva-le-monto-los-cuernos-a-gabriel-soto-esto-dijo-el-actor/",
+        "date": "2024-07-23 19:19:25",
+        "sentiment_score": -0.13117977231740952
+    },
+    {
+        "title": "Revelan verdadera identidad de Hello Kitty",
+        "image_url": "https://static.independent.co.uk/2024/07/19/23/newFile.jpg",
+        "tags": [
+            "revelan verdadera identidad de hello kitty",
+            "curiosidades"
+        ],
+        "link": "https://2001online.com/curiosidades/revelan-verdadera-identidad-de-hello-kitty/",
+        "date": "2024-07-23 19:15:00",
+        "sentiment_score": 0.06415791809558868
     }
 ];
