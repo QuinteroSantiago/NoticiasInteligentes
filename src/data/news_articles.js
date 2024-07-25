@@ -147,81 +147,6 @@ export default [
         "sentiment_score": -0.5591352339833975
     },
     {
-        "title": "¿Usa Kamala Harris la cultura pop a su favor?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162428633.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones ee.uu",
-            "kamala harris",
-            "beyoncé",
-            "pop",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/kamalaharris-cultura-pop-elecciones-eeuu-ush-trax/",
-        "date": "2024-07-24 20:05:50",
-        "sentiment_score": -0.2125358134508133
-    },
-    {
-        "title": "El gobierno de EE.UU. abre investigación a Delta por cancelaciones",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1350327181-20240724191932061.jpg?quality=100&strip=info",
-        "tags": [
-            "delta",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-investigacion-delta-cancelaciones-vuelos-aerolineas-cnn-dinero-tv/",
-        "date": "2024-07-24 19:40:45",
-        "sentiment_score": -0.5517574306577444
-    },
-    {
-        "title": "Santo Patrón de España",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/santiago-compostela-peregrinos-RdmplAsLfAxLycpNBFthcZK-758x531@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/jose-joaquin-gallardo-santo-patron-espana-20240725220738-nts.html",
-        "date": "2024-07-24 20:07:38",
-        "sentiment_score": 0.0781785249710083
-    },
-    {
-        "title": "Hay que ser positivos",
-        "image_url": "./assets/ai_generated/v1_txt2img_489cfb1cbb6e48649870cbf3841b6bd3.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/javier-macias-positivos-20240725220737-nts.html",
-        "date": "2024-07-24 20:07:37",
-        "sentiment_score": -0.043619751930236816
-    },
-    {
-        "title": "Neandertales",
-        "image_url": "./assets/ai_generated/v1_txt2img_3a5de30fa3e4452a99e26c4cf0b6c3a2.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-neandertales-20240725220736-nts.html",
-        "date": "2024-07-24 20:07:36",
-        "sentiment_score": -0.08152598142623901
-    },
-    {
-        "title": "El Supremo obliga a Pumpido a retratarse ya",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/Pumpido_20240724194056-RiRMWI9T4UBLSEhLwsGMcVK-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-supremo-obliga-pumpido-retratarse-20240725215200-nt.html",
-        "date": "2024-07-24 19:52:00",
-        "sentiment_score": -0.13327303528785706
-    },
-    {
-        "title": "Al menos 15 personas mueren en el naufragio de un cayuco que partió de Gambia hacia Canarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/X53QO65K6VEWRDX5G2BMAW2XKU.jpg?auth=594e7adc6241522b290b526276de9d3036c336698991cb5719f51c9bd661747e",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-07-24/al-menos-15-personas-mueren-en-el-naufragio-de-un-cayuco-que-partio-de-gambia-hacia-canarias.html",
-        "date": "2024-07-24 19:38:38",
-        "sentiment_score": -0.7517698220908642
-    },
-    {
         "title": "¿Qué pasaría si Donald Trump cierra la frontera? Esto advierte López Obrador",
         "image_url": "./assets/ai_generated/v1_txt2img_4b3b7f36279149d7a4a247b8139cc2bf.png",
         "tags": [
@@ -304,50 +229,6 @@ export default [
         "link": "https://2001online.com/internacionales/eeuu-conozca-los-nuevos-requisitos-para-recibir-cupones-snap-detalles/",
         "date": "2024-07-24 20:25:04",
         "sentiment_score": 0.20689444802701473
-    },
-    {
-        "title": "EEUU: Los empleos mejor pagados de Florida de hasta $143.000 al año (+Lista)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/06/empleo-1-1280x720.jpg",
-        "tags": [
-            "internacionales",
-            "empleos",
-            "eeuu",
-            "florida"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-los-empleos-mejor-pagados-de-florida-de-hasta-143-000-al-ano-lista/",
-        "date": "2024-07-24 20:08:56",
-        "sentiment_score": 0.7901028841733932
-    },
-    {
-        "title": "Nadia Franco comprueba la versatilidad laboral de un profesional de la administración actual",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/3-2-1200x720.png",
-        "tags": [
-            "migración"
-        ],
-        "link": "https://2001online.com/migracion/nadia-franco-comprueba-la-versatilidad-laboral-de-un-profesional-de-la-administracion-actual/",
-        "date": "2024-07-24 20:08:22",
-        "sentiment_score": 0.5027571991086006
-    },
-    {
-        "title": "Venezuela firma acuerdo energético con Trinidad y Tobago (+Detalles)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-461.png",
-        "tags": [
-            "nacionales",
-            "venezuela firma acuerdo energético con trinidad y tobago (+detalles)"
-        ],
-        "link": "https://2001online.com/nacionales/venezuela-firma-acuerdo-energetico-con-trinidad-y-tobago/",
-        "date": "2024-07-24 20:04:10",
-        "sentiment_score": 0.01756548136472702
-    },
-    {
-        "title": "Chavismo cierra campaña en Caracas este 25Jul (+RUTA DE PARTIDA)",
-        "image_url": "https://2001online.com/wp-content/uploads/2023/02/psuv-1.jpg",
-        "tags": [
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/chavismo-cierra-campana-en-caracas-este-25jul-ruta-de-partida/",
-        "date": "2024-07-24 19:58:05",
-        "sentiment_score": -0.005175381898880005
     },
     {
         "title": "Argentina coloca deuda en el mercado doméstico por valor de 4.316,3 millones de euros",
@@ -1176,5 +1057,72 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/coalicion-partidos-diputados/",
         "date": "2024-07-25 06:16:35",
         "sentiment_score": 0.07209746539592743
+    },
+    {
+        "title": "Pasa a disposición judicial el padre confeso por intentar matar a su bebé de un mes en Manacor",
+        "image_url": "https://www.infobae.com/resizer/v2/XCQY7HWKYRASJNH7TPURE4U2EA.jpg?auth=ec0fe095ab97d696da9cf3410476d4ec1f708fa95a6971b1d674c267dbed9d46",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/pasa-a-disposicion-judicial-el-padre-confeso-por-intentar-matar-a-su-bebe-de-un-mes-en-manacor/",
+        "date": "2024-07-25 07:50:11",
+        "sentiment_score": -0.7789947241544724
+    },
+    {
+        "title": "Jové (ERC) rechaza consultar al TJUE la aplicación de la Ley de Amnistía",
+        "image_url": "https://www.infobae.com/resizer/v2/YVS74CL73BEVNDAJASFIEIIPHI.jpg?auth=2cf8ce210942b980d10b290e67d0fca43d1dd2d897b5597ad44f4c8f58dcd89e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/jove-erc-rechaza-consultar-al-tjue-la-aplicacion-de-la-ley-de-amnistia/",
+        "date": "2024-07-25 07:49:53",
+        "sentiment_score": -0.5878718085587025
+    },
+    {
+        "title": "El padre detenido por intentar matar a su bebé de 30 días en Manacor pasa este jueves a disposición judicial",
+        "image_url": "https://www.infobae.com/resizer/v2/UTORVA4E3JGG5IZT5Z3P7ZTQKU.jpg?auth=f60853a5e435dcfa5712b08d0c979b16d3a98c6b06eb6bf0f823f1e491d74707",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-padre-detenido-por-intentar-matar-a-su-bebe-de-30-dias-en-manacor-pasa-este-jueves-a-disposicion-judicial/",
+        "date": "2024-07-25 07:34:24",
+        "sentiment_score": -0.6428646501153708
+    },
+    {
+        "title": "Los demócratas de la Cámara de Representantes elogian el discurso de Biden sobre el traspaso de la antorcha",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Biden_5f2a85.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "biden"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/democratas-camara-alaban-discurso-biden-renuncia-antorcha-trax/",
+        "date": "2024-07-25 08:04:19",
+        "sentiment_score": -0.3369784355163574
+    },
+    {
+        "title": "Kamala Harris navega entre Biden y Netanyahu mientras considera su postura sobre Israel",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-Harris-Israel-Netanyahu-e1721890057206.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "israel noticias",
+            "elecciones estados unidos",
+            "elecciones 2024",
+            "guerra israel y hamas",
+            "kamala harris",
+            "benjamin netanyahu"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/kamala-harris-biden-netanyahu-postura-israel-trax/",
+        "date": "2024-07-25 07:59:25",
+        "sentiment_score": -0.5050541087985039
+    },
+    {
+        "title": "Cuánto dinero cobra un dependiente de Zara en España en 2024: salario base y complementos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/25/zara-tienda-kQ6C-U602883022208k7C-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/dinero-cobra-dependiente-zara-espana-2024-salario-20240725100000-nt.html",
+        "date": "2024-07-25 08:00:03",
+        "sentiment_score": -0.06122139096260071
     }
 ];
