@@ -372,57 +372,6 @@ export default [
         "sentiment_score": 0.3911348208785057
     },
     {
-        "title": "Hallado el cadáver del joven de 14 años desaparecido el sábado en un pantano de Lleida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BEPLEJ7I2RDSVPLZVTRZFVNZFQ.jpg?auth=bef3396d936b75dbaabd35a91d89b68c9d9f20e9c71ddd19cf911c92935d1e60",
-        "tags": [
-            "ahogamientos",
-            "verano",
-            "mossos d'esquadra",
-            "sucesos",
-            "lleida",
-            "cataluña",
-            "sociedad",
-            "embalses"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-24/hallado-el-cadaver-del-joven-de-14-anos-desaparecido-el-sabado-en-un-pantano-de-lleida.html",
-        "date": "2024-07-24 15:59:12",
-        "sentiment_score": -0.07028642296791077
-    },
-    {
-        "title": "Muere un asistente al concierto de Karol G. después de la agresión de otro en la calle",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3X54KJGRCFGEVMTRHNCX6ZRL5A.png?auth=8f6c212217f1266ffd10ed889d9e340f8cbd51a32998dfb6fa79fdc5f7571bea",
-        "tags": [
-            "agresiones físicas",
-            "madrid",
-            "comunidad de madrid",
-            "sucesos",
-            "investigación policial",
-            "homicidios",
-            "policía"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-07-24/muere-un-asistente-al-concierto-de-karol-g-despues-de-la-agresion-de-otro-en-la-calle.html",
-        "date": "2024-07-24 15:47:46",
-        "sentiment_score": -0.8208797462284565
-    },
-    {
-        "title": "La empresa del hermano de Ximo Puig defiende la legalidad de la gestión de las subvenciones recibidas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4XTFBZ4HCRDTRP6RB3KEMPKSC4.JPG?auth=ea0067c94156b5585bd896a5598834939eaaf87ac3b038b8849e39d691c5c763",
-        "tags": [
-            "ximo puig",
-            "subvenciones",
-            "comunidad valenciana",
-            "comunicación",
-            "castellón",
-            "estafas",
-            "tribunales",
-            "fraudes",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-24/la-empresa-del-hermano-de-ximo-puig-defiende-la-legalidad-de-la-gestion-de-las-subvenciones-recibidas.html",
-        "date": "2024-07-24 15:26:08",
-        "sentiment_score": -0.8799560498446226
-    },
-    {
         "title": "¿Qué pasaría si Donald Trump cierra la frontera? Esto advierte López Obrador",
         "image_url": "./assets/ai_generated/v1_txt2img_4b3b7f36279149d7a4a247b8139cc2bf.png",
         "tags": [
@@ -1041,5 +990,121 @@ export default [
         "link": "https://elpais.com/espana/andalucia/2024-07-25/los-13-barrios-hartos-de-sevilla-se-rebelan-contra-los-continuos-cortes-de-luz-la-situacion-es-de-calamidad.html",
         "date": "2024-07-25 03:00:00",
         "sentiment_score": 0.2879547253251076
+    },
+    {
+        "title": "El nuevo CGPJ echa a andar con más de cinco años de retraso y su presidencia en el aire",
+        "image_url": "./assets/ai_generated/v1_txt2img_84dd931240ab4772bd675b31edde034f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-nuevo-cgpj-echa-a-andar-con-mas-de-cinco-anos-de-retraso-y-su-presidencia-en-el-aire/",
+        "date": "2024-07-25 03:46:16",
+        "sentiment_score": -0.7780222613364458
+    },
+    {
+        "title": "Zaragoza: el pronóstico del clima para este 25 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/QV4GEKQTKRE73A5PNJCSSO4TKA.jpg?auth=112218544752ec2e273f98ea32ae695b25aac5bcf33b94609636827550ac6bb3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/zaragoza-el-pronostico-del-clima-para-este-25-de-julio/",
+        "date": "2024-07-25 03:30:59",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Este jueves habrá temperaturas notablemente elevadas y cielos despejados",
+        "image_url": "./assets/ai_generated/v1_txt2img_7335d384fa474354a57112de0461a11a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/este-jueves-habra-temperaturas-notablemente-elevadas-y-cielos-despejados/",
+        "date": "2024-07-25 03:17:13",
+        "sentiment_score": 0.45712047815322876
+    },
+    {
+        "title": "Comprobar Bonoloto: los resultados de este 24 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/DPXSJWM6ZNA2ZDOENQ7RIPK6Z4.jpg?auth=a9b3e2c434cb84910c5e2c91c8605f637181fa42a3cb89c539986806d9c03dfe",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/comprobar-bonoloto-los-resultados-de-este-24-de-julio/",
+        "date": "2024-07-25 03:15:54",
+        "sentiment_score": 0.12853093445301056
+    },
+    {
+        "title": "ERC acelera la negociación para consultar a sus bases la investidura de Illa a primeros de agosto",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QAJ3MIH2YRFUJHO2YR3LIWWLUU.jpg?auth=aeedf1d11c157914d820f747f14f4325c604a1f8092fe5fbc1e880552a7713f1",
+        "tags": [
+            "erc",
+            "generalitat cataluña",
+            "investidura parlamentaria",
+            "política",
+            "psoe",
+            "pere aragonès",
+            "pedro sánchez",
+            "psc",
+            "parlament cataluña",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/erc-acelera-la-negociacion-para-consultar-a-sus-bases-la-investidura-de-illa-a-primeros-de-agosto.html",
+        "date": "2024-07-25 03:40:00",
+        "sentiment_score": 0.43363698571920395
+    },
+    {
+        "title": "El Gobierno se desespera ante la guerra Junts-ERC: parece casi imposible contentar a los dos a la vez",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T7E6WHHSJRGLVFSS2SHLGZ24F4.jpg?auth=8029c8a3c30c8a521f2bd1aaa93fb29e9b648fbc8d8a1a71ffcd9d02cce609eb",
+        "tags": [
+            "erc",
+            "generalitat cataluña",
+            "juntsxcat",
+            "presupuestos generales estado",
+            "política",
+            "psoe",
+            "psc",
+            "españa",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/el-gobierno-se-desespera-ante-la-guerra-junts-erc-parece-casi-imposible-contentar-a-los-dos-a-la-vez.html",
+        "date": "2024-07-25 03:40:00",
+        "sentiment_score": 0.048042550683021545
+    },
+    {
+        "title": "Los 20 vocales del nuevo Poder Judicial buscan consensos para elegir presidente antes de siete días",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RMDN3ZLK2OOCHR37SAH7A7L7MA.jpg?auth=c14d54fba9f23534a859a0829c35386d4b21bf94a86005142ad334c715def72b",
+        "tags": [
+            "erc",
+            "tribunales",
+            "justicia",
+            "poder judicial",
+            "partidos conservadores",
+            "juan espadas cejas",
+            "cgpj",
+            "gobierno",
+            "pactos políticos",
+            "españa",
+            "pactos de estado",
+            "congreso diputados",
+            "senado",
+            "sumar",
+            "partidos políticos",
+            "tribunal supremo",
+            "antonio silván",
+            "jueces"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/los-vocales-del-nuevo-poder-judicial-toman-posesion-a-la-espera-de-nominar-a-su-presidente.html",
+        "date": "2024-07-25 03:40:00",
+        "sentiment_score": 0.06060057878494263
+    },
+    {
+        "title": "Vídeo | El pacto judicial, un mirlo blanco en las relaciones PP-PSOE: así llegaron a grandes acuerdos en el pasado los dos partidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DYOWMN3KLNEANGCG62BWAT3BVU.JPG?auth=0a3d03f0785fb7b86f2041af768152f91e90fc98e343dbd2cb738709981ab4be&width=1200",
+        "tags": [
+            "poder judicial",
+            "reforma judicial",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/video-el-pacto-judicial-un-mirlo-blanco-en-las-relaciones-pp-psoe-asi-llegaron-a-grandes-acuerdos-en-el-pasado-los-dos-partidos.html",
+        "date": "2024-07-25 03:15:00",
+        "sentiment_score": -0.19216981530189514
     }
 ];
