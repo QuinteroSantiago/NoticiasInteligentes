@@ -423,63 +423,6 @@ export default [
         "sentiment_score": -0.8799560498446226
     },
     {
-        "title": "Feijóo hurga en la fragilidad del Gobierno, pero evita cualquier alternativa con Junts",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y4FTAVWUP73SZO3RQHCLUBOL2A.jpg?auth=749750789e09421e607ed5984cec5a366e80d087d0070de583f82c80c3b4f4dc",
-        "tags": [
-            "juntsxcat",
-            "ley extranjería",
-            "gasto público",
-            "alberto núñez feijóo",
-            "partidos políticos",
-            "españa",
-            "pedro sánchez",
-            "carles puigdemont",
-            "psoe",
-            "votación parlamentaria",
-            "pp",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/2024-07-24/feijoo-hurga-en-la-fragilidad-del-gobierno-pero-evita-cualquier-alternativa-con-junts.html",
-        "date": "2024-07-24 14:08:39",
-        "sentiment_score": -0.8530715387314558
-    },
-    {
-        "title": "Espadas acusa a Susana Díaz de “dañar la honorabilidad” de Chaves y Griñán por los ERE",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4GWUNW2REBGUZPZOLVD2CTLGAE.jpg?auth=3e18c39dadb9dcebb901e780b572a508602cb1536f9d26f2806c91db626bd7e0",
-        "tags": [
-            "susana díaz",
-            "josé antonio griñan martínez",
-            "caso de los ere",
-            "partidos políticos",
-            "andalucía",
-            "españa",
-            "juan espadas cejas",
-            "psoe-a",
-            "psoe",
-            "manuel chaves",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/2024-07-24/espadas-acusa-a-susana-diaz-de-danar-la-honorabilidad-de-chaves-y-grinan-por-los-ere.html",
-        "date": "2024-07-24 14:07:46",
-        "sentiment_score": -0.09622262418270111
-    },
-    {
-        "title": "Urkullu presidirá una fundación europeísta que impulsará el eje atlántico",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O2ZTO56HORNZZJOSPRXI3MNLRQ.jpg?auth=0b4d192e60b84b0a35b65b943190ff8ebc857fe1e2b4f305d4c9d64aa82cfa7b",
-        "tags": [
-            "fundación",
-            "iñigo urkullu",
-            "país vasco",
-            "europa",
-            "españa",
-            "lehendakari",
-            "gobierno vasco"
-        ],
-        "link": "https://elpais.com/espana/2024-07-24/urkullu-presidira-una-fundacion-europeista-que-impulsara-el-eje-atlantico.html",
-        "date": "2024-07-24 13:53:15",
-        "sentiment_score": 0.04367503523826599
-    },
-    {
         "title": "¿Qué pasaría si Donald Trump cierra la frontera? Esto advierte López Obrador",
         "image_url": "./assets/ai_generated/v1_txt2img_4b3b7f36279149d7a4a247b8139cc2bf.png",
         "tags": [
@@ -828,5 +771,188 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/07/24/netanyahu-no-muertos-civiles-rafah-trax/",
         "date": "2024-07-25 00:44:04",
         "sentiment_score": -0.5627093408256769
+    },
+    {
+        "title": "Reporte meteorológico: las temperaturas que se esperan en Málaga este 25 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/SNEPGAYMSZBJTNGLSE2CQ3CAUQ.jpg?auth=e8cde570fd03547575bb1d393211c6aa2ad186d164a54b8ee4f600d94cb9376f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/reporte-meteorologico-las-temperaturas-que-se-esperan-en-malaga-este-25-de-julio/",
+        "date": "2024-07-25 02:02:09",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "España: las predicciones del tiempo para Madrid este 25 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/K653GTAJBRFA5PEVXPCPOOC2AI.jpg?auth=9887f16c0341a1573e06aff4c4eb268b55818ebdf169aa9bf6efb8cf37875b9c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/espana-las-predicciones-del-tiempo-para-madrid-este-25-de-julio/",
+        "date": "2024-07-25 01:31:49",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Las 10 películas de Netflix en España para engancharse este día",
+        "image_url": "https://www.infobae.com/resizer/v2/RLQDJHDSHJDUJA3JBDHTRGWPHI.jpg?auth=f3e9dd9f0b5a8519cb17f1707e6882f49cfb1aff59dedfa691035737a84032bf",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/las-10-peliculas-de-netflix-en-espana-para-engancharse-este-dia/",
+        "date": "2024-07-25 01:31:06",
+        "sentiment_score": 0.21778565645217896
+    },
+    {
+        "title": "Delsa Solórzano explica cuáles han sido los obstáculos que enfrentó la oposición venezolana",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161443601-20240725021913752.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "venezuela",
+            "delsa solórzano",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-oposicion-elecciones-cne-credenciales-testigos-conclusiones-tv/",
+        "date": "2024-07-25 02:22:38",
+        "sentiment_score": -0.25055142492055893
+    },
+    {
+        "title": "Delsa Solórzano explica el plan de la oposición para defender el voto en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162586108.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "venezuela",
+            "delsa solórzano",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cne-credenciales-testigos-elecciones-venezuela-fraude-conclusiones-tv/",
+        "date": "2024-07-25 02:20:55",
+        "sentiment_score": -0.11705262959003448
+    },
+    {
+        "title": "Maduro denuncia conspiración de medios sobre un falso fraude electoral",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161984046.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fraude-maduro-elecciones-plan-medios-conspiracion-cocnlusiones-tv/",
+        "date": "2024-07-25 01:46:37",
+        "sentiment_score": -0.8282035291194916
+    },
+    {
+        "title": "Biden dice que su decisión de abandonar la campaña fue para defender la democracia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/biden-discurso.jpg?quality=100&strip=info",
+        "tags": [
+            "instanoticias",
+            "joe biden",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/biden-discurso-decision-abandonar-campana-defender-democracia-trax/",
+        "date": "2024-07-25 01:43:47",
+        "sentiment_score": 0.01120130717754364
+    },
+    {
+        "title": "Alberto Fernández cancela viaje a Venezuela por pedido del régimen de Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1374896823.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/alberto-fernandez-elecciones-venezuela-resultado-regimen-conclusiones-tv/",
+        "date": "2024-07-25 01:37:30",
+        "sentiment_score": -0.7718080636113882
+    },
+    {
+        "title": "Netanyahu dice que la guerra puede acabar mañana si Hamas se rinde",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162692817.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/netanyahu-guerra-acabar-manana-hamas/",
+        "date": "2024-07-25 01:34:46",
+        "sentiment_score": -0.6432302221655846
+    },
+    {
+        "title": "Las reacciones ante la posible cancelación de una planta de Tesla en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2153263085.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "tesla",
+            "elon musk",
+            "nuevo león"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tesla-nuevo-leon-planta-suspendida-elon-musk-trump-elecciones-reacciones-perspectivas-mexico-tv/",
+        "date": "2024-07-25 01:31:56",
+        "sentiment_score": -0.8433228544890881
+    },
+    {
+        "title": "Un invitado no deseado se sumó a los Juegos Olímpicos de París: el covid-19",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ap24206457843346.webp",
+        "tags": [
+            "instanoticias",
+            "juegos olímpicos de parís 2024",
+            "covid-19"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/covid-juegos-olimpicos-paris-2024-trax/",
+        "date": "2024-07-25 01:23:22",
+        "sentiment_score": -0.3055964857339859
+    },
+    {
+        "title": "Las cuatro grandes energéticas ganan un 30% más pese a la caída de precios",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/25/energeticas-RV57PO4SE57B3TcohjJmOmK-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cuatro-grandes-energeticas-ganan-pese-caida-precios-20240725192914-nt.html",
+        "date": "2024-07-25 02:14:35",
+        "sentiment_score": -0.08459816873073578
+    },
+    {
+        "title": "Meloni comienza a pagar un precio por el 'no' a Von der Leyen",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/24/melonivonderleyen-RhpauGg0jJXPwDfshg6WDnN-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/meloni-comienza-pagar-precio-von-der-leyen-20240724041321-nt.html",
+        "date": "2024-07-25 02:13:22",
+        "sentiment_score": -0.1289946734905243
+    },
+    {
+        "title": "La Justicia belga eleva a 80 millones el embargo a España por impago de las renovables",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/10/Renovableslaudo-RLEYhLTumNKnujMKs1AdiSO-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/justicia-belga-eleva-millones-embargo-espana-impago-20240724194433-nt.html",
+        "date": "2024-07-25 02:07:27",
+        "sentiment_score": -0.09265017509460449
+    },
+    {
+        "title": "Los húngaros de Magyar Vagon, abiertos a «hacer hueco» a la SEPI en su opa sobre Talgo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/25/Talgo-ReiB7pRHfRk63cVx4J53DuJ-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/hungaros-magyar-vagon-abiertos-hueco-sepi-opa-20240725040604-nt.html",
+        "date": "2024-07-25 02:06:05",
+        "sentiment_score": -0.1552443653345108
+    },
+    {
+        "title": "Correos pierde otros 120 millones a pesar de la inyección de 247 del Estado y del año electoral",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/25/1473191866-Rcs9F2cpyI3G6kBFNSUPwHN-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/correos-pierde-120-millones-pesar-inyeccion-247-20240725040316-nt.html",
+        "date": "2024-07-25 02:04:06",
+        "sentiment_score": -0.14445307850837708
+    },
+    {
+        "title": "Una legislatura agónica",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/Bolanys-RGOyC9XXfUFGg5xf8KkBPYK-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-legislatura-agonica-20240725194627-nt.html",
+        "date": "2024-07-25 01:57:37",
+        "sentiment_score": -0.04103511571884155
     }
 ];
