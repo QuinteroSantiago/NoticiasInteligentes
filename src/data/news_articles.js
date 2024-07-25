@@ -1,116 +1,5 @@
 export default [
     {
-        "title": "Controlado el incendio forestal declarado en Cartaya (Huelva)",
-        "image_url": "./assets/ai_generated/v1_txt2img_b292e4edb8ba4789bf1212ea347d4cba.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/controlado-el-incendio-forestal-declarado-en-cartaya-huelva/",
-        "date": "2024-07-24 22:19:31",
-        "sentiment_score": -0.49853572621941566
-    },
-    {
-        "title": "Hoy será noticia. Jueves, 25 de julio de 2024",
-        "image_url": "./assets/ai_generated/v1_txt2img_5f17c757b7cd420d95822043cf85f5d0.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/hoy-sera-noticia-jueves-25-de-julio-de-2024/",
-        "date": "2024-07-24 22:19:15",
-        "sentiment_score": 0.03101586177945137
-    },
-    {
-        "title": "Chaves dice que las nuevas sentencias de los ERE tendrán \"el límite\" del TC y no ve \"ningún recorrido\" a Manos Limpias",
-        "image_url": "https://www.infobae.com/resizer/v2/5DTOZNC2UNDFTNU45FYHZCIBXA.jpg?auth=98aa774952fac05f677ba827d8e111bd73f4e5b11afc4c924a4efeb7aa5171ff",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/chaves-dice-que-las-nuevas-sentencias-de-los-ere-tendran-el-limite-del-tc-y-no-ve-ningun-recorrido-a-manos-limpias/",
-        "date": "2024-07-24 22:19:07",
-        "sentiment_score": -0.4802642557770014
-    },
-    {
-        "title": "Argentina coloca deuda en el mercado doméstico por valor de 4.316,3 millones de euros",
-        "image_url": "./assets/ai_generated/v1_txt2img_7766f94ae9af444ca9b13de9677bf7c3.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/argentina-coloca-deuda-en-el-mercado-domestico-por-valor-de-43163-millones-de-euros/",
-        "date": "2024-07-24 22:46:47",
-        "sentiment_score": -0.6526911910623312
-    },
-    {
-        "title": "Hallan el cuerpo sin vida de un hombre en una playa de El Ejido (Almería)",
-        "image_url": "./assets/ai_generated/v1_txt2img_9478ee74b6b74fb4bb71d1df8357d328.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/hallan-el-cuerpo-sin-vida-de-un-hombre-en-una-playa-de-el-ejido-almeria/",
-        "date": "2024-07-24 22:46:28",
-        "sentiment_score": -0.7124503832310438
-    },
-    {
-        "title": "Abascal, sobre la petición de declaración por escrito de Sánchez: \"No debe ser tratado con ningún tipo de distinción\"",
-        "image_url": "https://www.infobae.com/resizer/v2/QNPW2THEBZGMPNR64CCFTH4YUM.jpg?auth=41a2bed768cd30a7e9026056c7852b4cd8a95787379c8c3d26c50e47529388c6",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/abascal-sobre-la-peticion-de-declaracion-por-escrito-de-sanchez-no-debe-ser-tratado-con-ningun-tipo-de-distincion/",
-        "date": "2024-07-24 22:34:09",
-        "sentiment_score": -0.4063014052808285
-    },
-    {
-        "title": "Muere un conductor al ser atropellado por un camión en la A-44 en La Guardia (Jaén)",
-        "image_url": "./assets/ai_generated/v1_txt2img_8584421abeb54167b49ed573a22eeebe.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/muere-un-conductor-al-ser-atropellado-por-un-camion-en-la-a-44-en-la-guardia-jaen/",
-        "date": "2024-07-24 22:31:08",
-        "sentiment_score": -0.7897053025662899
-    },
-    {
-        "title": "Kamala Harris toma ventaja y explota las redes sociales a su favor",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161823256-1.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-redes-sociales-kamala-harris-candidatura-dusa-tv/",
-        "date": "2024-07-24 23:13:16",
-        "sentiment_score": 0.6973578482866287
-    },
-    {
-        "title": "Demócratas aprueban las reglas para nominar a su candidato",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161323413.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-kamala-harris-democratas-delegados-elecciones-dusa-tv/",
-        "date": "2024-07-24 22:58:27",
-        "sentiment_score": 0.02088332176208496
-    },
-    {
-        "title": "Netanyahu rechaza acusaciones de genocidio en discurso ante el Congreso de EE.UU. y califica de \"antiisraelíes\" a quienes se manifiestan contra la guerra en Gaza",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/netanyahu-congreso-e1721859554247.jpg?quality=100&strip=info",
-        "tags": [
-            "benjamin netanyahu",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/netanyahu-discurso-congreso-estados-unidos-acusaciones-genocidio-trax/",
-        "date": "2024-07-24 22:48:38",
-        "sentiment_score": -0.8542128354310989
-    },
-    {
-        "title": "Tarek William Saab dijo a CNN que las elecciones en Venezuela serán “limpias, transparentes y pacíficas”",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162327819.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/tarek-william-saab-elecciones-redaccion-buenos-aires-sot/",
-        "date": "2024-07-24 22:27:42",
-        "sentiment_score": 0.14319662749767303
-    },
-    {
         "title": "ONG denuncia bloqueo a una decena de portales informativos en Venezuela",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ong-bloqueos-medios-digitales-venezuela-elecciones.jpg?quality=100&strip=info",
         "tags": [
@@ -150,29 +39,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/ia-incendios-forestlaes-usc-ush-orix/",
         "date": "2024-07-24 23:29:58",
         "sentiment_score": 0.43155957013368607
-    },
-    {
-        "title": "Siguen las comparecencias para aclarar qué pasó en el intento de magnicidio contra Trump",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161353780.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-fbi-magnicidio-congreso-investigacion-dusa-tv/",
-        "date": "2024-07-24 23:19:20",
-        "sentiment_score": -0.2225949726998806
-    },
-    {
-        "title": "Así fue la votación en las últimas dos elecciones presidenciales de Venezuela",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/maduro-capriles-falcon-venezuela.jpg?quality=100&strip=info",
-        "tags": [
-            "henrique capriles",
-            "elecciones en venezuela",
-            "nicolás maduro",
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/votacion-ultimas-dos-elecciones-presidenciales-venezuela-orix/",
-        "date": "2024-07-24 23:18:16",
-        "sentiment_score": 0.1374680995941162
     },
     {
         "title": "Clima: las temperaturas que predominarán este 25 de julio en Barcelona",
@@ -1203,5 +1069,190 @@ export default [
         "link": "https://www.abc.es/internacional/alemania-recluta-ejercito-2000-menores-ano-20240725120956-nt.html",
         "date": "2024-07-25 10:09:56",
         "sentiment_score": -0.08591631054878235
+    },
+    {
+        "title": "La alcaldesa de Valencia pide que RFEF y CSD aclararen \"en horas\" su exclusión como sede",
+        "image_url": "./assets/ai_generated/v1_txt2img_eb1b391e9c1b4f5db57b07da6d26eb1c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-alcaldesa-de-valencia-pide-que-rfef-y-csd-aclararen-en-horas-su-exclusion-como-sede/",
+        "date": "2024-07-25 11:18:48",
+        "sentiment_score": -0.6667374968528748
+    },
+    {
+        "title": "Daniel Sánchez Llibre, sobre el nuevo patrocinio: \"Es un acuerdo bueno para todos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_5c2686c8d6274665bd237b6a8fb9a3b3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/daniel-sanchez-llibre-sobre-el-nuevo-patrocinio-es-un-acuerdo-bueno-para-todos/",
+        "date": "2024-07-25 11:18:31",
+        "sentiment_score": 0.806400939822197
+    },
+    {
+        "title": "Fin de la ola de calor, pero no de las altas temperaturas que seguirán rondando los 37-40o",
+        "image_url": "./assets/ai_generated/v1_txt2img_bbd4502c36de4d958f33b4006d3f6e70.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/fin-de-la-ola-de-calor-pero-no-de-las-altas-temperaturas-que-seguiran-rondando-los-37-40/",
+        "date": "2024-07-25 11:18:13",
+        "sentiment_score": -0.3377854973077774
+    },
+    {
+        "title": "La falta de materiales pone en riesgo los objetivos del Acuerdo de París, según un estudio",
+        "image_url": "./assets/ai_generated/v1_txt2img_c1b53a2101dc4f908f8631644d84beba.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-falta-de-materiales-pone-en-riesgo-los-objetivos-del-acuerdo-de-paris-segun-un-estudio/",
+        "date": "2024-07-25 11:17:56",
+        "sentiment_score": -0.7782659102231264
+    },
+    {
+        "title": "Jové (ERC) se opone a llevar la amnistía a Europa:el 1-O no afectó a las finanzas de la UE",
+        "image_url": "./assets/ai_generated/v1_txt2img_072618b09e2e4f70b3e36231298d2193.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/jove-erc-se-opone-a-llevar-la-amnistia-a-europael-1-o-no-afecto-a-las-finanzas-de-la-ue/",
+        "date": "2024-07-25 11:17:39",
+        "sentiment_score": -0.5917437300086021
+    },
+    {
+        "title": "Page espera que algunos ya se hayan dado cuenta de que Puigdemont \"no paga, solo cobra\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_1081dcfa34fa450991d63be21b138de1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/page-espera-que-algunos-ya-se-hayan-dado-cuenta-de-que-puigdemont-no-paga-solo-cobra/",
+        "date": "2024-07-25 11:17:23",
+        "sentiment_score": -0.33676135540008545
+    },
+    {
+        "title": "'Maximiliana' conecta a abuelos y nietos a través de cartas sin coste y desde WhatsApp",
+        "image_url": "./assets/ai_generated/v1_txt2img_2eee2fc349214903846251da5a4f8c43.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/maximiliana-conecta-a-abuelos-y-nietos-a-traves-de-cartas-sin-coste-y-desde-whatsapp/",
+        "date": "2024-07-25 11:17:05",
+        "sentiment_score": 0.16810901649296284
+    },
+    {
+        "title": "Dos condenados a cuatro años cada uno por agresión sexual a dos jóvenes de 16 y 18 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/dos-condenados-a-cuatro-anos-cada-uno-por-agresion-sexual-a-dos-jovenes-de-16-y-18-anos/",
+        "date": "2024-07-25 11:16:49",
+        "sentiment_score": -0.678930664435029
+    },
+    {
+        "title": "Detenido por conducir sin carnet, atropellar a un ciclista y circular con él en la baca",
+        "image_url": "./assets/ai_generated/v1_txt2img_721259be67414d77af8d68235a03e42e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/detenido-por-conducir-sin-carnet-atropellar-a-un-ciclista-y-circular-con-el-en-la-baca/",
+        "date": "2024-07-25 11:16:31",
+        "sentiment_score": -0.7875904329121113
+    },
+    {
+        "title": "En qué orden y dónde ver las películas de ‘X-Men’ para preparar ‘Deadpool y Lobezno’",
+        "image_url": "https://www.infobae.com/resizer/v2/D2RHKHD4NJEWQJ5MREDSWDULPU.jpg?auth=201d45088fbad994d5fce86640ba066dc93006d60f0300321b690a5d7d5a6cc7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/07/25/en-que-orden-y-donde-ver-las-peliculas-de-x-men-para-preparar-deadpool-y-lobezno/",
+        "date": "2024-07-25 11:08:11",
+        "sentiment_score": 0.5827129408717155
+    },
+    {
+        "title": "Consejo Asesor afirma que Meta debe esforzarse más para hacer frente a la pornografía falsa y no consentida",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Meta.jpg?quality=100&strip=info",
+        "tags": [
+            "tecnología",
+            "meta"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/consejo-asesor-meta-porno-deepfake-no-consensuado-trax/",
+        "date": "2024-07-25 11:13:16",
+        "sentiment_score": -0.7497063782066107
+    },
+    {
+        "title": "Las FDI dicen que más de 60 ataques aéreos en Gaza durante el último día; los servicios de rescate informan de muertes en el centro y norte de Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/logo-cnn.webp",
+        "tags": [
+            "ataques hamas israel",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/fdi-60-ataques-aereos-gaza-servicios-de-rescate-muertes-centro-norte-de-gaza-trax/",
+        "date": "2024-07-25 10:22:54",
+        "sentiment_score": -0.5414202623069286
+    },
+    {
+        "title": "Jill Biden viaja a los Juegos Olímpicos de París mientras su marido pasa la antorcha",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Jill-Biden.jpg?quality=100&strip=info",
+        "tags": [
+            "jill biden",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/jill-biden-paris-juegos-olimpicos-antorcha-trax/",
+        "date": "2024-07-25 10:17:19",
+        "sentiment_score": -0.27039941400289536
+    },
+    {
+        "title": "El Ayuntamiento de Barcelona insta al desalojo de las paradas de los pajareros de la Rambla y estos se niegan a entregar las llaves",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HZHDJ45ODPDK5VZFPRQ4BEZFA4.JPG?auth=aa233115043c4215c3a3c73594d98fd6c7c1b9637ae326850a01ca1534f91f16",
+        "tags": [
+            "ayuntamiento barcelona",
+            "empresarios",
+            "cataluña",
+            "barcelona",
+            "la rambla"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/el-ayuntamiento-de-barcelona-insta-al-desalojo-de-las-paradas-de-los-pajareros-de-la-rambla-y-estos-se-niegan-a-entregar-las-llaves.html",
+        "date": "2024-07-25 11:06:26",
+        "sentiment_score": -0.832252025604248
+    },
+    {
+        "title": "Foment tacha de “impresentable” la nueva protección del delta del Llobregat que bloquea la ampliación del aeropuerto del Prat",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/X6Q3QQGNNZDUNCFMUWYGDDPWMM.JPG?auth=9a78739b055afb0f00fcfe476dbec213a7e20469d16d00b9f7701aefeec9416b",
+        "tags": [
+            "aena aeropuertos",
+            "fomento del trabajo nacional",
+            "protección espacios naturales",
+            "aeropuerto el prat",
+            "generalitat cataluña",
+            "medio ambiente",
+            "cataluña",
+            "protección ambiental",
+            "el prat de llobregat",
+            "patronal",
+            "protección animales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/foment-tacha-de-impresentable-la-nueva-proteccion-del-delta-del-llobregat-que-bloquea-la-ampliacion-del-aeropuerto-del-prat.html",
+        "date": "2024-07-25 10:39:18",
+        "sentiment_score": -0.9177779611200094
+    },
+    {
+        "title": "Isabel Franc: “Las lesbianas no estamos de moda ni lo estaremos nunca”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TYVQWKYEJNCEFHVVORZRM36N2E.jpg?auth=2e784704435f30b8ce74518125fd44f729fb4be7c1d67f4dabfd41a2dd031f4a",
+        "tags": [
+            "cataluña",
+            "lesbianas",
+            "homosexualidad",
+            "comunidad lgtbiq",
+            "gays",
+            "barcelona",
+            "historia",
+            "orgullo lgtbi",
+            "lgtbifobia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/isabel-franc-las-lesbianas-no-estamos-de-moda-ni-lo-estaremos-nunca.html",
+        "date": "2024-07-25 10:29:43",
+        "sentiment_score": 0.03427048772573471
     }
 ];
