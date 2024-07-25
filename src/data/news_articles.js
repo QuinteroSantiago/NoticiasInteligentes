@@ -1,131 +1,5 @@
 export default [
     {
-        "title": "Qué es un alternador del coche y para qué sirve",
-        "image_url": "https://www.infobae.com/resizer/v2/FEIKQWVFLNGMJLBSTPKPF3NPTE.jpg?auth=87dd1e711ae24364d9d47319be95b5b0abfec43cfb4c1901d1b291640f51abb2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/24/que-es-un-alternador-del-coche-y-para-que-sirve/",
-        "date": "2024-07-24 11:11:45",
-        "sentiment_score": -0.829736202955246
-    },
-    {
-        "title": "El Supremo decreta que llevar a un perro de una raza potencialmente peligrosa suelto y sin bozal es una imprudencia grave",
-        "image_url": "https://www.infobae.com/resizer/v2/SWDLQXY72FDB5JVARRNVGP3WFM.jpg?auth=309cadafed1312a7101f2b9a6d2778fdd144aa888d89de1b3ccbeacc8dda84ce",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/24/el-supremo-decreta-que-llevar-a-un-perro-de-una-raza-potencialmente-peligrosa-suelto-y-sin-bozal-es-una-imprudencia-grave/",
-        "date": "2024-07-24 11:03:45",
-        "sentiment_score": -0.8388316882774234
-    },
-    {
-        "title": "Aragonès recibe a Sánchez en la entrada del Palau de la Generalitat",
-        "image_url": "https://www.infobae.com/resizer/v2/L2LIBT6W7BAOLDTCIJ27JSJ2L4.jpg?auth=cf63d2545cea09f17c15f8ee822c42ab73fa26089bb154807baa9884f589d917",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/aragones-recibe-a-sanchez-en-la-entrada-del-palau-de-la-generalitat/",
-        "date": "2024-07-24 11:02:21",
-        "sentiment_score": 0.0752328485250473
-    },
-    {
-        "title": "Un experimento de cine: utilizan la serie ‘Juego de Tronos’ para la investigación de la ceguera facial",
-        "image_url": "https://www.infobae.com/resizer/v2/V3A755I5GZGGNLVMG7PJEZYPLI.jpg?auth=c3f5a7afa4c31575aae859c1991b7fdbf5a0c9ec7ff5dd575d320101af7be7f1",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/24/un-experimento-de-cine-utilizan-la-serie-juego-de-tronos-para-la-investigacion-de-la-ceguera-facial/",
-        "date": "2024-07-24 11:00:03",
-        "sentiment_score": -0.8963416218757629
-    },
-    {
-        "title": "La niña que ganó tres medallas de oro compitiendo descalza: se pintó unas zapatillas imaginarias de Nike",
-        "image_url": "https://www.infobae.com/resizer/v2/LUJLPLTQGNHSLHSQZQVZPDDPSY.jpg?auth=b73e0f738ec5100e5ff0b77758c786cd5e6d0690019144602a324570f2f58281",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/24/la-nina-que-gano-tres-medallas-de-oro-compitiendo-descalza-se-pinto-unas-zapatillas-imaginarias-de-nike/",
-        "date": "2024-07-24 10:59:24",
-        "sentiment_score": -0.5903486646711826
-    },
-    {
-        "title": "Una mujer viaja a 90 países, pero solo en uno querría vivir: “Pago 275 euros de alquiler y 32 por el psicólogo”",
-        "image_url": "https://www.infobae.com/resizer/v2/6XOMYI3G7BCJPC25DDCDNN7YRA.jpg?auth=a097f1dc1147d124691f9e99e19be572aa0a09806e8c6e81f3215f20242a92c9",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2024/07/24/una-mujer-viaja-a-90-paises-pero-solo-en-uno-querria-vivir-pago-275-euros-de-alquiler-y-32-por-el-psicologo/",
-        "date": "2024-07-24 10:58:14",
-        "sentiment_score": 0.06865786015987396
-    },
-    {
-        "title": "El PP de C-LM exige a Page que se deje de \"teatrillos\" y presente el recurso de inconstitucionalidad contra la amnistía",
-        "image_url": "https://www.infobae.com/resizer/v2/EUDGYEAFCJD57HBL6C65RLJFLM.jpg?auth=ab0d8f2a719cb59de42cf836b97f55c12608bd5829beb8e1ffe4b7231eb2bdff",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/el-pp-de-c-lm-exige-a-page-que-se-deje-de-teatrillos-y-presente-el-recurso-de-inconstitucionalidad-contra-la-amnistia/",
-        "date": "2024-07-24 10:50:29",
-        "sentiment_score": -0.7414525058120489
-    },
-    {
-        "title": "Andalucía sobre la conferencia de presidentes: \"Si Sánchez no lo hace por las buenas, será el Supremo quien le obligue\"",
-        "image_url": "https://www.infobae.com/resizer/v2/AMN4SSC7J5GSROCUWZZKJ5WNAA.jpg?auth=59de6f9015e844795733507c246d1af774a441cb3839feb7e067e79fdabb2dd3",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/andalucia-sobre-la-conferencia-de-presidentes-si-sanchez-no-lo-hace-por-las-buenas-sera-el-supremo-quien-le-obligue/",
-        "date": "2024-07-24 10:50:10",
-        "sentiment_score": -0.5962290465831757
-    },
-    {
-        "title": "Marlaska cede competencias a la Ertzaintza en los puertos y aeropuertos del País Vasco",
-        "image_url": "https://www.infobae.com/resizer/v2/I4TV4AABLZASLNPPA4PBJHXL3A.jpg?auth=7e43cb58cfe85f3d62865c883037ceeb5a54ce2617ee8d31129966491316cb95",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/marlaska-cede-competencias-a-la-ertzaintza-en-los-puertos-y-aeropuertos-del-pais-vasco/",
-        "date": "2024-07-24 10:49:34",
-        "sentiment_score": -0.08076336979866028
-    },
-    {
-        "title": "Resultados ganadores del Super Once del 24 julio",
-        "image_url": "https://www.infobae.com/resizer/v2/NCPDAZK7MJHLNHDOXYKN2S3J3U.jpg?auth=224992f9ad7f5b72ff909e9470d70c2f838ecd1119ca05a84af4cefc5943df30",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/24/resultados-ganadores-del-super-once-del-24-julio/",
-        "date": "2024-07-24 10:45:23",
-        "sentiment_score": 0.02386106178164482
-    },
-    {
-        "title": "Eslovaquia y Hungría acusan a Ucrania de violar su tratado de asociación con la UE",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/24/orban_zelenski-RfzWDcsN0U1Wu6jO4k97ExL-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eslovaquia-hungria-acusan-ucrania-violar-tratado-asociacion-20240724122906-nt.html",
-        "date": "2024-07-24 10:30:17",
-        "sentiment_score": -0.14509055018424988
-    },
-    {
-        "title": "El presidente del Parlamento balear, sobre la foto de víctimas del franquismo que rompió: “El Rey ha entendido lo que ocurrió”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3DQ23Y6IUMUWWWEANWQRB6OZYU.jpg?auth=05d963b8ccb94b59f33be68204d73def42b6258c7a3ad07a41713a512e11463b",
-        "tags": [
-            "mallorca",
-            "reina letizia",
-            "vox",
-            "palma",
-            "españa",
-            "casa real",
-            "felipe vi"
-        ],
-        "link": "https://elpais.com/espana/2024-07-24/el-presidente-del-parlamento-balear-sobre-la-foto-de-victimas-del-franquismo-que-rompio-el-rey-ha-entendido-lo-que-ocurrio.html",
-        "date": "2024-07-24 11:06:46",
-        "sentiment_score": -0.05889616906642914
-    },
-    {
         "title": "Controlado el incendio forestal declarado en Cartaya (Huelva)",
         "image_url": "./assets/ai_generated/v1_txt2img_b292e4edb8ba4789bf1212ea347d4cba.png",
         "tags": [
@@ -732,5 +606,86 @@ export default [
         "link": "https://2001online.com/nacionales/chavismo-cierra-campana-en-caracas-este-25jul-ruta-de-partida/",
         "date": "2024-07-24 19:58:05",
         "sentiment_score": -0.005175381898880005
+    },
+    {
+        "title": "Argentina coloca deuda en el mercado doméstico por valor de 4.316,3 millones de euros",
+        "image_url": "./assets/ai_generated/v1_txt2img_7766f94ae9af444ca9b13de9677bf7c3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/argentina-coloca-deuda-en-el-mercado-domestico-por-valor-de-43163-millones-de-euros/",
+        "date": "2024-07-24 22:46:47",
+        "sentiment_score": -0.6526911910623312
+    },
+    {
+        "title": "Hallan el cuerpo sin vida de un hombre en una playa de El Ejido (Almería)",
+        "image_url": "./assets/ai_generated/v1_txt2img_9478ee74b6b74fb4bb71d1df8357d328.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/hallan-el-cuerpo-sin-vida-de-un-hombre-en-una-playa-de-el-ejido-almeria/",
+        "date": "2024-07-24 22:46:28",
+        "sentiment_score": -0.7124503832310438
+    },
+    {
+        "title": "Abascal, sobre la petición de declaración por escrito de Sánchez: \"No debe ser tratado con ningún tipo de distinción\"",
+        "image_url": "https://www.infobae.com/resizer/v2/QNPW2THEBZGMPNR64CCFTH4YUM.jpg?auth=41a2bed768cd30a7e9026056c7852b4cd8a95787379c8c3d26c50e47529388c6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/abascal-sobre-la-peticion-de-declaracion-por-escrito-de-sanchez-no-debe-ser-tratado-con-ningun-tipo-de-distincion/",
+        "date": "2024-07-24 22:34:09",
+        "sentiment_score": -0.4063014052808285
+    },
+    {
+        "title": "Muere un conductor al ser atropellado por un camión en la A-44 en La Guardia (Jaén)",
+        "image_url": "./assets/ai_generated/v1_txt2img_8584421abeb54167b49ed573a22eeebe.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/muere-un-conductor-al-ser-atropellado-por-un-camion-en-la-a-44-en-la-guardia-jaen/",
+        "date": "2024-07-24 22:31:08",
+        "sentiment_score": -0.7897053025662899
+    },
+    {
+        "title": "Kamala Harris toma ventaja y explota las redes sociales a su favor",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161823256-1.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-redes-sociales-kamala-harris-candidatura-dusa-tv/",
+        "date": "2024-07-24 23:13:16",
+        "sentiment_score": 0.6973578482866287
+    },
+    {
+        "title": "Demócratas aprueban las reglas para nominar a su candidato",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161323413.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-kamala-harris-democratas-delegados-elecciones-dusa-tv/",
+        "date": "2024-07-24 22:58:27",
+        "sentiment_score": 0.02088332176208496
+    },
+    {
+        "title": "Netanyahu rechaza acusaciones de genocidio en discurso ante el Congreso de EE.UU. y califica de \"antiisraelíes\" a quienes se manifiestan contra la guerra en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/netanyahu-congreso-e1721859554247.jpg?quality=100&strip=info",
+        "tags": [
+            "benjamin netanyahu",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/netanyahu-discurso-congreso-estados-unidos-acusaciones-genocidio-trax/",
+        "date": "2024-07-24 22:48:38",
+        "sentiment_score": -0.8542128354310989
+    },
+    {
+        "title": "Tarek William Saab dijo a CNN que las elecciones en Venezuela serán “limpias, transparentes y pacíficas”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162327819.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tarek-william-saab-elecciones-redaccion-buenos-aires-sot/",
+        "date": "2024-07-24 22:27:42",
+        "sentiment_score": 0.14319662749767303
     }
 ];
