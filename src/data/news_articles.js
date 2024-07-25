@@ -954,5 +954,92 @@ export default [
         "link": "https://www.abc.es/opinion/editorial-abc-legislatura-agonica-20240725194627-nt.html",
         "date": "2024-07-25 01:57:37",
         "sentiment_score": -0.04103511571884155
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Sevilla",
+        "image_url": "https://www.infobae.com/resizer/v2/NZTDHFBUSJBDBM6YBKH3ZT6WLU.jpg?auth=f268ede8e0ad20050bfce6726ac69c4916160a6b1f68276c3c84d9c1de0fd466",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-sevilla/",
+        "date": "2024-07-25 02:31:00",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "15 muertos y más de 195 desaparecidos tras el naufragio de un barco que transportaba migrantes en Mauritania",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Captura-de-pantalla-2024-07-24-a-las-22.59.41.png",
+        "tags": [
+            "naufragio",
+            "inmigración"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/muertos-desaparecidos-naufragio-barco-migrantes-mauritania-trax/",
+        "date": "2024-07-25 02:25:01",
+        "sentiment_score": -0.7583176009356976
+    },
+    {
+        "title": "Video muestra las protestas en Washington por la visita de Netanyahu",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/53080487-79769484-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "benjamin netanyahu",
+            "noticias de ee.uu.",
+            "congreso de ee.uu.",
+            "protestas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-contra-netanyahu-congreso-gaza-israel-digivid-trax/",
+        "date": "2024-07-25 02:24:03",
+        "sentiment_score": -0.17837099730968475
+    },
+    {
+        "title": "La batalla de Montecarmelo: las “erratas” de Almeida y los cambios de planos para sortear la fosa de los 451 brigadistas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/C6PUBJST4FDTHPWLV7FO5UJWFQ.jpg?auth=2effebcaffe26b97ce25b5504d08b088b3565ebf148b3e002abc715284aa5794",
+        "tags": [
+            "comunidad de madrid",
+            "josé luis martínez almeida",
+            "madrid",
+            "memoria histórica",
+            "obras públicas",
+            "memoria",
+            "fosas comunes",
+            "ayuntamiento madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-25/la-batalla-de-montecarmelo-las-erratas-de-almeida-y-los-cambios-de-planos-para-sortear-la-fosa-de-los-451-brigadistas.html",
+        "date": "2024-07-25 03:07:00",
+        "sentiment_score": -0.6435920223593712
+    },
+    {
+        "title": "Los costureros, esas máquinas del tiempo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/K7AXZ73CMJG75OCMOTQH4WFWN4.jpg?auth=f659e3420cf624a155829bf9d231d4f1f803c45238aeb2ee0ffde4e14e631b3b",
+        "tags": [
+            "comunidad de madrid",
+            "madrid",
+            "vacaciones",
+            "abuelos",
+            "verano",
+            "oficios tradicionales"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-25/los-costureros-esas-maquinas-del-tiempo.html",
+        "date": "2024-07-25 03:00:00",
+        "sentiment_score": 0.8108143974095583
+    },
+    {
+        "title": "Los 13 “barrios hartos” de Sevilla se rebelan contra los continuos cortes de luz: “La situación es de calamidad”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4EIHLO2IYZEMRM43JWHFLKNALM.jpg?auth=b0fb1aefb8f93d205112eff59dfcdca904d36ecd1292c5417b913fbb0c7f1885",
+        "tags": [
+            "pobreza energética",
+            "olas calor",
+            "sevilla",
+            "junta de andalucía",
+            "ayuntamiento sevilla",
+            "gobierno",
+            "energía eléctrica",
+            "españa",
+            "endesa",
+            "andalucía",
+            "pobreza"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-07-25/los-13-barrios-hartos-de-sevilla-se-rebelan-contra-los-continuos-cortes-de-luz-la-situacion-es-de-calamidad.html",
+        "date": "2024-07-25 03:00:00",
+        "sentiment_score": 0.2879547253251076
     }
 ];
