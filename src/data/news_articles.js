@@ -1,1919 +1,5 @@
 export default [
     {
-        "title": "Los tanques israelíes se adentraron en el sur de Gaza mientras siguen las conversaciones sobre alto el fuego",
-        "image_url": "https://www.infobae.com/resizer/v2/IJ55YXLOT6AS4RVGINPN7PUNZI.jpg?auth=44049f7ff54f3f62666c8339b517b484767508cfd158011648b2257288268882",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2024/07/24/los-tanques-israelies-se-adentraron-en-el-sur-de-gaza-mientras-siguen-las-conversaciones-sobre-alto-el-fuego/",
-        "date": "2024-07-24 00:26:34",
-        "sentiment_score": -0.4445902705192566
-    },
-    {
-        "title": "Al menos 15 soldados de Níger y 21 terroristas mueren en enfrentamientos en el suroeste del país",
-        "image_url": "https://www.infobae.com/resizer/v2/TLOEI4VD7RAJJP7SFVYZN34ZT4.jpg?auth=7d39012ab1bbc10fd825283b4c3a5b0998be867786bf2359d7d0e28abad36990",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/al-menos-15-soldados-de-niger-y-21-terroristas-mueren-en-enfrentamientos-en-el-suroeste-del-pais/",
-        "date": "2024-07-24 00:17:35",
-        "sentiment_score": -0.7524351179599762
-    },
-    {
-        "title": "Un tribunal antiterrorista de Túnez emite una orden de arresto contra un alto cargo del opositor Ennahda",
-        "image_url": "https://www.infobae.com/resizer/v2/JPURXI3JLZAITDLNXOZE7J2R4I.jpg?auth=538bdf71fb0f955969ae3cc61f6dc0b6606847879b11b6d151e19af5ead42f3d",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-tribunal-antiterrorista-de-tunez-emite-una-orden-de-arresto-contra-un-alto-cargo-del-opositor-ennahda/",
-        "date": "2024-07-24 00:17:22",
-        "sentiment_score": -0.7836395483464003
-    },
-    {
-        "title": "La flota de vehículos circulantes en Argentina envejece y apenas creció en 2023",
-        "image_url": "./assets/ai_generated/v1_txt2img_9bbb77f980194bb2b60e3a6376d37dfa.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-flota-de-vehiculos-circulantes-en-argentina-envejece-y-apenas-crecio-en-2023/",
-        "date": "2024-07-24 00:16:58",
-        "sentiment_score": -0.052975863218307495
-    },
-    {
-        "title": "Temas del día de EFE Internacional del 23 de julio de 2024 (24:00 GMT)",
-        "image_url": "./assets/ai_generated/v1_txt2img_b230cdb4356e4e3e8087bdcc159ca589.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/temas-del-dia-de-efe-internacional-del-23-de-julio-de-2024-2400-gmt/",
-        "date": "2024-07-24 00:16:46",
-        "sentiment_score": -0.004094403237104416
-    },
-    {
-        "title": "Un avión con destino a Chile debió regresar a Asunción por impacto de ave",
-        "image_url": "./assets/ai_generated/v1_txt2img_2ed90021e8aa494d9c5c667e62c5be0c.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-avion-con-destino-a-chile-debio-regresar-a-asuncion-por-impacto-de-ave/",
-        "date": "2024-07-24 00:16:29",
-        "sentiment_score": -0.7438895963132381
-    },
-    {
-        "title": "Cancillería colombiana llama a embajador ante la FAO para proceso por agresión machista",
-        "image_url": "./assets/ai_generated/v1_txt2img_0c23d2287f6949adac18edfdc9429017.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/cancilleria-colombiana-llama-a-embajador-ante-la-fao-para-proceso-por-agresion-machista/",
-        "date": "2024-07-24 00:15:53",
-        "sentiment_score": -0.6420004926621914
-    },
-    {
-        "title": "Milei acude al teatro Colón acompañado de una famosa presentadora de televisión argentina",
-        "image_url": "./assets/ai_generated/v1_txt2img_503045a91c5345e5ada6ca7f9af528c6.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/milei-acude-al-teatro-colon-acompanado-de-una-famosa-presentadora-de-television-argentina/",
-        "date": "2024-07-24 00:15:36",
-        "sentiment_score": 0.08463266491889954
-    },
-    {
-        "title": "Renuncia la directora del Servicio Secreto después del atentado contra Trump",
-        "image_url": "https://www.infobae.com/resizer/v2/RLC2OPXXUJCGFF7OOAB7GWL3JA.jpg?auth=c06555e205bf7c3e1d47f41b69e1a5fcdc3f19d4212fb88ebc5a0b39d8144e95",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/the-new-york-times/2024/07/24/renuncia-la-directora-del-servicio-secreto-despues-del-atentado-contra-trump/",
-        "date": "2024-07-24 00:15:19",
-        "sentiment_score": -0.015234917402267456
-    },
-    {
-        "title": "Arturo Vidal sufre lesión que pone en duda su presencia ante Junior por Copa Libertadores",
-        "image_url": "./assets/ai_generated/v1_txt2img_3750f6e6d2e84b619ce97b4c080c3635.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/arturo-vidal-sufre-lesion-que-pone-en-duda-su-presencia-ante-junior-por-copa-libertadores/",
-        "date": "2024-07-24 00:15:19",
-        "sentiment_score": -0.8643890637904406
-    },
-    {
-        "title": "La policía estatal de Pensilvania revela detalles sorprendentes sobre el tiroteo en el mitin de Trump",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/servicio-secreto-mitin-trump.jpg?quality=100&strip=info",
-        "tags": [
-            "política",
-            "tiroteo",
-            "donald turmp",
-            "donald trump",
-            "donald trump magnicidio"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/23/policia-estatal-pensilvania-detalles-sorprendentes-tiroteo-mitin-trump-trax/",
-        "date": "2024-07-23 23:51:58",
-        "sentiment_score": -0.48724159225821495
-    },
-    {
-        "title": "Explosión hidrotermal en Yellowstone lleva al cierre de partes del parque nacional",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/yellowstone-explosion.jpeg?quality=100&strip=info",
-        "tags": [
-            "parque nacional yellowstone",
-            "noticias de ee.uu.",
-            "yellowstone"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/23/explosion-hidrotermal-yellowstone-trax/",
-        "date": "2024-07-23 23:32:12",
-        "sentiment_score": -0.7314566969871521
-    },
-    {
-        "title": "La pesadilla para los usuarios de Delta sigue, hay cientos de pasajeros varados",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1354656267.jpg?quality=100&strip=info",
-        "tags": [
-            "noticias de ee.uu.",
-            "delta airlines"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/delta-aeropuertos-apagon-informatico-dusa-tv/",
-        "date": "2024-07-23 23:23:47",
-        "sentiment_score": -0.8363047055900097
-    },
-    {
-        "title": "El Zoológico de Miami da la bienvenida a un canguro arborícola, en peligro de extinción",
-        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efe00d2204424dfcc1f347cee5b7e6ccbd18621cc3dw.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "estados unidos"
-        ],
-        "link": "https://holanews.com/el-zoologico-de-miami-da-la-bienvenida-a-un-canguro-arboricola-en-peligro-de-extincion/",
-        "date": "2024-07-24 00:24:44",
-        "sentiment_score": -0.5188203230500221
-    },
-    {
-        "title": "¿Información sobre tu viaje? Estos son los vuelos cancelados y demorados en el AICM",
-        "image_url": "https://www.infobae.com/resizer/v2/4IH2ONMSJZEAHCYXJ47Y2QIX4U.jpg?auth=c7be7894fdee036655e34c0cd5140a8e07106a83df8785ebb6d39018124b6d6f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/mexico/2024/07/24/informacion-sobre-tu-viaje-estos-son-los-vuelos-cancelados-y-demorados-en-el-aicm/",
-        "date": "2024-07-24 00:16:03",
-        "sentiment_score": -0.26359451934695244
-    },
-    {
-        "title": "‘Tragedia en Collins Avenue’: el libro de Juan Manuel Robles sobre las víctimas del derrumbe del edificio en Surfside, Miami",
-        "image_url": "https://www.infobae.com/resizer/v2/5QKMUNGVMFFHJIRRMS7YPN2D2E.png?auth=41a43ef5722903845d0dae7c27d942e6b79d8d6628e1a34c500077271fdd66de",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/mexico/2024/07/24/tragedia-en-collins-avenue-el-libro-de-juan-manuel-robles-sobre-las-victimas-del-derrumbe-del-edificio-en-surfside-miami/",
-        "date": "2024-07-24 00:00:13",
-        "sentiment_score": 0.02991548553109169
-    },
-    {
-        "title": "Lanzan cómic biográfico de Ryan Reynolds en vísperas del estreno de 'Deadpool y Wolverine'",
-        "image_url": "./assets/ai_generated/v1_txt2img_61cc1d2f97a84d7393ead74aebc1b3cb.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/23/lanzan-comic-biografico-de-ryan-reynolds-en-visperas-del-estreno-de-deadpool-y-wolverine/",
-        "date": "2024-07-23 23:47:23",
-        "sentiment_score": 0.03494904935359955
-    },
-    {
-        "title": "Lanzan cómic biográfico de Ryan Reynolds en vísperas del estreno de 'Deadpool y Lobezno'",
-        "image_url": "./assets/ai_generated/v1_txt2img_ae698d886bc44420b1774f4a7b1ca621.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/23/lanzan-comic-biografico-de-ryan-reynolds-en-visperas-del-estreno-de-deadpool-y-lobezno/",
-        "date": "2024-07-23 23:45:38",
-        "sentiment_score": 0.015713505446910858
-    },
-    {
-        "title": "Peruano se declara culpable de fraude millonario a hispanos que extorsionaba por teléfono",
-        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2024/07/rss-efe5153519d4588d6ea0562c608d5469d8133d93725w.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "estados unidos"
-        ],
-        "link": "https://holanews.com/peruano-se-declara-culpable-de-fraude-millonario-a-hispanos-que-extorsionaba-por-telefono/",
-        "date": "2024-07-23 23:39:37",
-        "sentiment_score": -0.8866384895518422
-    },
-    {
-        "title": "Peruano se declara culpable de fraude millonario a hispanos que extorsionaba por teléfono",
-        "image_url": "./assets/ai_generated/v1_txt2img_1ebe28a32f864c5694ff0cd7a75f3fdc.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/23/peruano-se-declara-culpable-de-fraude-millonario-a-hispanos-que-extorsionaba-por-telefono/",
-        "date": "2024-07-23 23:30:21",
-        "sentiment_score": -0.8827199069783092
-    },
-    {
-        "title": "Anuncian más de 300 créditos para emprendedores en Miranda (+Detalles)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/4972185653651549119.jpg",
-        "tags": [
-            "miranda",
-            "charallave",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/anuncian-mas-de-300-creditos-para-emprendedores-en-miranda-detalles/",
-        "date": "2024-07-24 00:06:25",
-        "sentiment_score": 0.3070007637143135
-    },
-    {
-        "title": "El líder de Hamás y el ministro de Exteriores talibán hablan sobre el actual conflicto en la Franja de Gaza",
-        "image_url": "https://www.infobae.com/resizer/v2/MXAWRPSVDZGVJNEZ4OMO47P6Y4.jpg?auth=138f455c2e3f70089c78d3a849492fb8adf4ec8b7b1c3e01e2fc0621488c99d0",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-lider-de-hamas-y-el-ministro-de-exteriores-taliban-hablan-sobre-el-actual-conflicto-en-la-franja-de-gaza/",
-        "date": "2024-07-24 01:17:16",
-        "sentiment_score": -0.39498625695705414
-    },
-    {
-        "title": "Taiwán vislumbra una relación fuerte y duradera con Guatemala",
-        "image_url": "./assets/ai_generated/v1_txt2img_0f0948bfed9a4d4391586ddb1f996f95.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/taiwan-vislumbra-una-relacion-fuerte-y-duradera-con-guatemala/",
-        "date": "2024-07-24 01:15:53",
-        "sentiment_score": 0.8211938235908747
-    },
-    {
-        "title": "El colombiano Llaneros gana en la segunda jornada de la Libertadores femenina de futsal",
-        "image_url": "./assets/ai_generated/v1_txt2img_2b99719c60f246cbb0195cb21d2fc66d.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-colombiano-llaneros-gana-en-la-segunda-jornada-de-la-libertadores-femenina-de-futsal/",
-        "date": "2024-07-24 01:15:37",
-        "sentiment_score": 0.4983370937407017
-    },
-    {
-        "title": "Sheinbaum asegura que hay \"finanzas sanas\" en México para el inicio de su Administración",
-        "image_url": "./assets/ai_generated/v1_txt2img_0a3e9c416b6d4972b43571f5f67d60ef.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/sheinbaum-asegura-que-hay-finanzas-sanas-en-mexico-para-el-inicio-de-su-administracion/",
-        "date": "2024-07-24 01:15:19",
-        "sentiment_score": 0.4867096468806267
-    },
-    {
-        "title": "Denuncian vulneración de derechos tras desalojo de sede indígena en la Amazonía de Ecuador",
-        "image_url": "./assets/ai_generated/v1_txt2img_2eb052d72a484e8c9b57f949009cb452.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/denuncian-vulneracion-de-derechos-tras-desalojo-de-sede-indigena-en-la-amazonia-de-ecuador/",
-        "date": "2024-07-24 01:00:37",
-        "sentiment_score": -0.8184629343450069
-    },
-    {
-        "title": "Hillary Clinton dice que Harris tiene talento, experiencia y puede derrotar a Trump",
-        "image_url": "./assets/ai_generated/v1_txt2img_e92b3e4eb4f34afebc9207fa1232f9cf.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/hillary-clinton-dice-que-harris-tiene-talento-experiencia-y-puede-derrotar-a-trump/",
-        "date": "2024-07-24 01:00:20",
-        "sentiment_score": 0.5068864896893501
-    },
-    {
-        "title": "Aumenta la violencia en Kenia: mientras el Ejército ocupa la calle, manifestantes se enfrentaron a un grupo progubernamental",
-        "image_url": "https://www.infobae.com/resizer/v2/OGLP5ZMJQLXY42UQNW6NLPO2SI.jpg?auth=6734e5e212f7f940b03c52f73d1f52dcaa05f908162ead28683da88b88ffd9c7",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2024/07/24/aumenta-la-violencia-en-kenia-mientras-el-ejercito-ocupa-la-calle-manifestantes-se-enfrentaron-a-un-grupo-progubernamental/",
-        "date": "2024-07-24 00:55:24",
-        "sentiment_score": -0.8254912178963423
-    },
-    {
-        "title": "La ONU advirtió que está aumentando la amenaza de los hutíes para la navegación internacional",
-        "image_url": "https://www.infobae.com/resizer/v2/YSHQ6IPC65FJTB7NFFJQ4YWO6Y.jpg?auth=f261a64559f99d24b6e83720b5d8a172e162ad2bac84aaa8fcc7cf3f65d7f610",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2024/07/24/la-onu-advirtio-que-esta-aumentando-la-amenaza-de-los-huties-para-la-navegacion-internacional/",
-        "date": "2024-07-24 00:50:47",
-        "sentiment_score": -0.829215781763196
-    },
-    {
-        "title": "Aumentó a 229 la cifra de muertos por deslizamientos de tierra en el sur de Etiopía",
-        "image_url": "https://www.infobae.com/resizer/v2/7BJKQMADMPQA4YUE5LZ57RRC3A.jpg?auth=28ccca5f17a4af77d6880a1a956bddb0e73486b8a62631741da4618e818ce621",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2024/07/24/aumento-a-229-la-cifra-de-muertos-por-deslizamientos-de-tierra-en-el-sur-de-etiopia/",
-        "date": "2024-07-24 00:47:14",
-        "sentiment_score": -0.6890428718179464
-    },
-    {
-        "title": "Cantabria baila bachata y merengue al ritmo del colombiano Manuel Turizo",
-        "image_url": "./assets/ai_generated/v1_txt2img_a964e0b644bc4feea35219be7476476c.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/cantabria-baila-bachata-y-merengue-al-ritmo-del-colombiano-manuel-turizo/",
-        "date": "2024-07-24 00:46:52",
-        "sentiment_score": 0.1233590617775917
-    },
-    {
-        "title": "Elon Musk pone pausa a la construcción de la fábrica de Tesla en México",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1392610598-20240705201234751_908b3f.jpg?quality=100&strip=info",
-        "tags": [
-            "tesla",
-            "negocios",
-            "elon musk"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elon-musk-tesla-planta-nuevo-leon-mexico-panorama-mundial-tv/",
-        "date": "2024-07-24 01:15:21",
-        "sentiment_score": 0.21215352416038513
-    },
-    {
-        "title": "“Nos pueden retornar 20.000 veces, pero 20.000 vamos a volver”, dice un migrante",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162551759.jpg?quality=100&strip=info",
-        "tags": [
-            "chiapas",
-            "méxico",
-            "caravana de migrantes",
-            "migración"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/caravana-migrante-chiapas-migracion-perspectivas-mexico-tv/",
-        "date": "2024-07-24 01:09:16",
-        "sentiment_score": -0.1088600605726242
-    },
-    {
-        "title": "Repuntan los casos de covid-19 en Ciudad de México",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1235923430.jpg?quality=100&strip=info",
-        "tags": [
-            "covid",
-            "méxico",
-            "covid-19",
-            "contagios"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/covid-repunte-contagios-cdmx-variantes-omicron-cubrebocas-perspectivas-mexico-tv/",
-        "date": "2024-07-24 01:08:50",
-        "sentiment_score": -0.2861233726143837
-    },
-    {
-        "title": "Una ballena salta del océano y voltea un barco que transportaba pasajeros",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20812158-160-339-still.jpg?quality=100&strip=info",
-        "tags": [
-            "ballena",
-            "animales"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ballena-voltea-barco-pasajeros-perspectivas-mexico-tv/",
-        "date": "2024-07-24 01:01:39",
-        "sentiment_score": -0.5178640000522137
-    },
-    {
-        "title": "Barco pesquero se hunde frente a las Islas Malvinas. Deja al menos 6 muertos y 7 desaparecidos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/islas-malvinas.jpg?quality=100&strip=info",
-        "tags": [
-            "las malvinas",
-            "accidentes"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/23/barco-pesquero-hunde-islas-malvinas-trax/",
-        "date": "2024-07-24 00:43:49",
-        "sentiment_score": -0.8969600470736623
-    },
-    {
-        "title": "9 estados de Estados Unidos registran cerca de 70 incendios activos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2160929820.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/incendios-activos-estados-unidos/",
-        "date": "2024-07-24 00:34:21",
-        "sentiment_score": -0.48277441039681435
-    },
-    {
-        "title": "Yeison Jiménez no aguantó más y le cantó la tabla a un internauta y hasta lo llamó “tarado”",
-        "image_url": "https://www.infobae.com/resizer/v2/REU4HKKT4ZBN3FVXM3FVAZV2QI.jpg?auth=ea1697ff70cf14df84577c962fe64ba9417c5a7e7e25126216182775f3d3c547",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/colombia/2024/07/24/yeison-jimenez-no-aguanto-mas-y-le-canto-la-tabla-a-un-internauta-y-hasta-lo-llamo-tarado/",
-        "date": "2024-07-24 01:24:45",
-        "sentiment_score": -0.6698855329304934
-    },
-    {
-        "title": "La junta militar de Birmania libera a un influyente líder cristiano detenido desde hace tres meses",
-        "image_url": "https://www.infobae.com/resizer/v2/VFRT5GEV4VH4TGMTPSB54OOQIA.jpg?auth=b4654314b4e73450854ecb318bf9adff64c27eb29df3548ace8954a44d4c6aab",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-junta-militar-de-birmania-libera-a-un-influyente-lider-cristiano-detenido-desde-hace-tres-meses/",
-        "date": "2024-07-24 02:17:30",
-        "sentiment_score": -0.4112340807914734
-    },
-    {
-        "title": "EEUU asegura que Hamás no puede tener ningún poder en Gaza tras el acuerdo de las facciones palestinas",
-        "image_url": "https://www.infobae.com/resizer/v2/2X7FEITKHRCD3AGV6NQJ3ZKDLA.jpg?auth=61f8063dca8610431d7eaed15f0795f9dd8b2c2828ea891c58ebc3875be65b55",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/eeuu-asegura-que-hamas-no-puede-tener-ningun-poder-en-gaza-tras-el-acuerdo-de-las-facciones-palestinas/",
-        "date": "2024-07-24 02:17:17",
-        "sentiment_score": -0.692575391381979
-    },
-    {
-        "title": "República Dominicana extraditó a Honduras a estadounidense acusado de matar a 3 mujeres",
-        "image_url": "./assets/ai_generated/v1_txt2img_e770cc24055d47939c1ff16c703cbaa7.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/republica-dominicana-extradito-a-honduras-a-estadounidense-acusado-de-matar-a-3-mujeres/",
-        "date": "2024-07-24 02:15:36",
-        "sentiment_score": -0.8357828892767429
-    },
-    {
-        "title": "Taiwán amanece con escuelas y oficinas cerradas por la proximidad del tifón Gaemi",
-        "image_url": "./assets/ai_generated/v1_txt2img_2dcf88a33658404faa8c1bf828a4b9a0.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/taiwan-amanece-con-escuelas-y-oficinas-cerradas-por-la-proximidad-del-tifon-gaemi/",
-        "date": "2024-07-24 02:15:18",
-        "sentiment_score": -0.8984410930424929
-    },
-    {
-        "title": "Candidato a gobernador de Misuri amenaza con encarcelar a todos los inmigrantes ilegales",
-        "image_url": "./assets/ai_generated/v1_txt2img_fc3e7913e2564db78bcb5f17a849d0a1.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/candidato-a-gobernador-de-misuri-amenaza-con-encarcelar-a-todos-los-inmigrantes-ilegales/",
-        "date": "2024-07-24 02:01:45",
-        "sentiment_score": -0.8421625178307295
-    },
-    {
-        "title": "Condenan a 3 años y 4 meses de cárcel a exjuez de Ecuador que liberó a sicarios de 'narco'",
-        "image_url": "./assets/ai_generated/v1_txt2img_60865be62bd64b52a421472f6bcdb3b9.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/condenan-a-3-anos-y-4-meses-de-carcel-a-exjuez-de-ecuador-que-libero-a-sicarios-de-narco/",
-        "date": "2024-07-24 02:01:12",
-        "sentiment_score": -0.8184788934886456
-    },
-    {
-        "title": "Fuerza Armada de Venezuela dice que defenderá soberanía popular en comicios presidenciales",
-        "image_url": "./assets/ai_generated/v1_txt2img_778e455b251a4245a64478ac08ea6011.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/fuerza-armada-de-venezuela-dice-que-defendera-soberania-popular-en-comicios-presidenciales/",
-        "date": "2024-07-24 02:00:54",
-        "sentiment_score": 0.24575482308864594
-    },
-    {
-        "title": "Un zoológico en México exhibe al público la atención clínica a 300 especies de animales",
-        "image_url": "./assets/ai_generated/v1_txt2img_f64f4503d07e4080905c54e676948c64.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-zoologico-en-mexico-exhibe-al-publico-la-atencion-clinica-a-300-especies-de-animales/",
-        "date": "2024-07-24 02:00:38",
-        "sentiment_score": 0.2640283480286598
-    },
-    {
-        "title": "Un globo norcoreano que transportaba desechos alcanza la oficina presidencial surcoreana",
-        "image_url": "./assets/ai_generated/v1_txt2img_89f5918218e746c8b6c00be01654d757.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-globo-norcoreano-que-transportaba-desechos-alcanza-la-oficina-presidencial-surcoreana/",
-        "date": "2024-07-24 02:00:21",
-        "sentiment_score": -0.5544766671955585
-    },
-    {
-        "title": "Cuándo se inventó el dinero y en qué momento el dólar se convirtió en la principal moneda del mundo",
-        "image_url": "https://www.infobae.com/resizer/v2/A2WNZZJQUFAKBDQFCN6WTANBYI.jpg?auth=3a65939a9a38481a741296b2f635ed6a8420de1d9e1027b25c2af2313eb200a6",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2024/07/24/cuando-se-invento-el-dinero-y-en-que-momento-el-dolar-se-convirtio-en-la-principal-moneda-del-mundo/",
-        "date": "2024-07-24 01:53:00",
-        "sentiment_score": 0.06917166709899902
-    },
-    {
-        "title": "Las oportunidades de México en el “nearshoring” de semiconductores",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/cnne-1479409-ee-uu-restringe-exportacion-de-chips-a-china.jpg?quality=100&strip=info",
-        "tags": [
-            "economía",
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mexico-nearshoring-semiconductores-usaid-panorama-mundial-tv/",
-        "date": "2024-07-24 01:46:04",
-        "sentiment_score": 0.46094124764204025
-    },
-    {
-        "title": "Durante su visita a Washington, Netanyahu escuchó reclamos de familiares de rehenes en Gaza",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20810188-15909-331999999999-still.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/netanyahu-washington-reunion-familiares-rehenes-gaza-panorama-mundial-tv/",
-        "date": "2024-07-24 01:33:10",
-        "sentiment_score": -0.27150002121925354
-    },
-    {
-        "title": "Esto es lo que según María Corina Machado podría pasar el día después de las elecciones",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2159130017.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/venezuela-elecciones-dia-despues-maduro-votantes-fraude-conclusiones-tv/",
-        "date": "2024-07-24 01:32:37",
-        "sentiment_score": -0.5172427855432034
-    },
-    {
-        "title": "Crece censura en Venezuela, Maduro llama a los medios \"sicarios de la mentira\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20812806-50176-still.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-bloqueos-medios-elecciones-venezuela-mentiras-conclusiones-tv/",
-        "date": "2024-07-24 01:32:33",
-        "sentiment_score": -0.8177193235605955
-    },
-    {
-        "title": "Davinson Sánchez dejó picantes declaraciones sobre la jugada que terminó en el gol de Argentina",
-        "image_url": "https://www.infobae.com/resizer/v2/EBLI3EYAGQSTW27SGBQ7CKCS2I.jpg?auth=58a28188d37ee46e1de68fab8a199e7ac562b23c024e0ac7c2817f6bcf4e0f00",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2024/07/24/davinson-sanchez-dejo-picantes-declaraciones-sobre-la-jugada-que-termino-en-el-gol-de-argentina/",
-        "date": "2024-07-24 02:07:47",
-        "sentiment_score": 0.3878786042332649
-    },
-    {
-        "title": "Albert Suárez salió del juego por lesión",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/07/albert-suarez.png",
-        "tags": [
-            "destacados",
-            "deportes"
-        ],
-        "link": "https://lacalle.com.ve/albert-suarez-salio-del-juego-por-lesion/",
-        "date": "2024-07-24 01:50:16",
-        "sentiment_score": -0.7737230770289898
-    },
-    {
-        "title": "EEUU | Estas son las mejores ciudades de Florida para trabajar en verano",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/ORLANDO.jpg",
-        "tags": [
-            "internacionales",
-            "olando",
-            "trabajar",
-            "cabo doral",
-            "miami",
-            "fort lauderdale",
-            "st petesburg",
-            "florida",
-            "empleo",
-            "verano",
-            "tampa",
-            "eeuu"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-estas-son-las-mejores-ciudades-de-florida-para-trabajar-en-verano/",
-        "date": "2024-07-24 01:26:17",
-        "sentiment_score": 0.7281792983412743
-    },
-    {
-        "title": "EEUU | Así puede adiestrarse como mecánico de aviones en Los Ángeles gratis",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/1689662708014.jpg",
-        "tags": [
-            "mec{anico de aviones",
-            "internacionales",
-            "los ángeles",
-            "gratis",
-            "2001online",
-            "eeuu"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-asi-puede-adiestrarse-como-mecanico-de-aviones-en-los-angeles-gratis/",
-        "date": "2024-07-24 02:00:00",
-        "sentiment_score": 0.3984687030315399
-    },
-    {
-        "title": "Explosión hidrotermal causó pánico en el parque Yellowstone (+Video)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Yellowstone-1200x720.jpeg",
-        "tags": [
-            "parque yellowstone",
-            "internacionales",
-            "2001online",
-            "eeuu",
-            "explosión hidrotermal"
-        ],
-        "link": "https://2001online.com/internacionales/explosion-hidrotermal-causo-panico-en-el-parque-yellowstone-video/",
-        "date": "2024-07-24 02:00:00",
-        "sentiment_score": -0.8741739559918642
-    },
-    {
-        "title": "Maduro compara el sistema electoral venezolano con el de Brasil y Colombia (+Video)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/CNE-1.jpg",
-        "tags": [
-            "colombia",
-            "brasil",
-            "nacionales",
-            "sistema electoral venezolano"
-        ],
-        "link": "https://2001online.com/nacionales/maduro-compara-el-sistema-electoral-venezolano-con-el-de-brasil/",
-        "date": "2024-07-24 01:55:18",
-        "sentiment_score": -0.7310774102807045
-    },
-    {
-        "title": "EEUU | Disneyland premia a una ciudad de California con promociones increíbles",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Disneyland.jpg",
-        "tags": [
-            "disneyland",
-            "internacionales",
-            "promociones",
-            "2001online",
-            "eeuu"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-disneyland-premia-a-una-ciudad-de-california-con-promociones-increibles/",
-        "date": "2024-07-24 01:50:00",
-        "sentiment_score": 0.773640338331461
-    },
-    {
-        "title": "EEUU | Conozca cómo recibir asesoría legal gratis ante desalojos ilegales en Los Ángeles",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/desalojo.jpg",
-        "tags": [
-            "asesoría legal",
-            "internacionales",
-            "desalojos ilegales",
-            "gratis",
-            "2001online",
-            "eeuu"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-conozca-como-recibir-asesoria-legal-gratis-ante-desalojos-ilegales-en-los-angeles/",
-        "date": "2024-07-24 01:40:00",
-        "sentiment_score": 0.03494240343570709
-    },
-    {
-        "title": "Con dólares falsos pagó apuestas y bebidas en Chichiriviche",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-444.png",
-        "tags": [
-            "dolares",
-            "falcomn",
-            "sucesos",
-            "detenido hombre por pagar con dolares falsos",
-            "chichiriviche"
-        ],
-        "link": "https://2001online.com/sucesos/con-dolares-falsos-pago-apuestas-y-bebidas-en-chichiriviche/",
-        "date": "2024-07-24 01:31:03",
-        "sentiment_score": -0.559443149715662
-    },
-    {
-        "title": "Ganó $1 millón en la lotería pero un empleado le robó el boleto",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/descarga-3-3-1200x720.jpg",
-        "tags": [
-            "lotería",
-            "curiosidades",
-            "tennessee"
-        ],
-        "link": "https://2001online.com/curiosidades/gano-1-millon-en-la-loteria-pero-un-empleado-le-robo-el-boleto/",
-        "date": "2024-07-24 01:30:28",
-        "sentiment_score": -0.6867878325283527
-    },
-    {
-        "title": "EEUU: Bank of America cerrará más sucursales en agosto (+Listado)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Bank-of-America-1280x720.jpg",
-        "tags": [
-            "internacionales",
-            "eeuu",
-            "bank of america"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-bank-of-america-cerrara-mas-sucursales-en-agosto-listado/",
-        "date": "2024-07-24 01:30:00",
-        "sentiment_score": 0.4295131787657738
-    },
-    {
-        "title": "¿Cómo registrarte en el Sistema patria para acceder a Credivida?",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-443.png",
-        "tags": [
-            "patria",
-            "credivida",
-            "servicios",
-            "sistema patria",
-            "emprendedores"
-        ],
-        "link": "https://2001online.com/servicios/como-registrarte-en-el-sistema-patria-para-acceder-a-credivida/",
-        "date": "2024-07-24 01:28:00",
-        "sentiment_score": 0.2803656905889511
-    },
-    {
-        "title": "Hillary Clinton advierte que Harris se enfrenterá al \"sexismo y los dobles estándares\" durante la campaña",
-        "image_url": "https://www.infobae.com/resizer/v2/FVCG23JCWZBZJIU5VF6HZOGGNY.jpg?auth=2bab6d987b0ebe88a6b7954553e79bc0481be69030fa0b76260219490a373e71",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/hillary-clinton-advierte-que-harris-se-enfrentera-al-sexismo-y-los-dobles-estandares-durante-la-campana/",
-        "date": "2024-07-24 03:17:20",
-        "sentiment_score": -0.1571667268872261
-    },
-    {
-        "title": "Cuáles son los mejores y los peores pasaportes del mundo",
-        "image_url": "https://www.infobae.com/resizer/v2/QDF4B2Z33BBJNJZQMGJKNE7VUM.jpg?auth=5395286f0eb9725dee15bfc8dac03d0ded59083f2da833ad7623a3565863ddd2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2024/07/24/cuales-son-los-mejores-y-los-peores-pasaportes-del-mundo/",
-        "date": "2024-07-24 03:02:21",
-        "sentiment_score": 0.6342360191047192
-    },
-    {
-        "title": "Un globo con basura enviado por Corea del Norte cae en el recinto de la Oficina Presidencial surcoreana",
-        "image_url": "https://www.infobae.com/resizer/v2/5QOZ2FZZJBFQZFJERVZ3QIUQTE.jpg?auth=23567e84c400343091ddaa5ca43850d054a5d38439646e9ab9a5bce12ad80074",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-globo-con-basura-enviado-por-corea-del-norte-cae-en-el-recinto-de-la-oficina-presidencial-surcoreana/",
-        "date": "2024-07-24 03:02:14",
-        "sentiment_score": -0.8816644996404648
-    },
-    {
-        "title": "El beneficio la filial de Iberdrola en Brasil se mantuvo estable en el primer semestre",
-        "image_url": "./assets/ai_generated/v1_txt2img_cdd8d9412f0847648083cd26c4decc57.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-beneficio-la-filial-de-iberdrola-en-brasil-se-mantuvo-estable-en-el-primer-semestre/",
-        "date": "2024-07-24 03:01:45",
-        "sentiment_score": 0.6879843436181545
-    },
-    {
-        "title": "Al menos dos muertos y dos heridos deja explosión en fábrica de tequila en oeste de México",
-        "image_url": "./assets/ai_generated/v1_txt2img_c4f109fa8be949a2a32626caf9bd4fe8.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/al-menos-dos-muertos-y-dos-heridos-deja-explosion-en-fabrica-de-tequila-en-oeste-de-mexico/",
-        "date": "2024-07-24 03:01:30",
-        "sentiment_score": -0.8029269557446241
-    },
-    {
-        "title": "San Lorenzo suma tres puntos por primera vez en la Liga Profesional argentina",
-        "image_url": "./assets/ai_generated/v1_txt2img_efdf9b2a9bca468691a5bc53edf28063.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/san-lorenzo-suma-tres-puntos-por-primera-vez-en-la-liga-profesional-argentina/",
-        "date": "2024-07-24 03:01:13",
-        "sentiment_score": 0.6479370668530464
-    },
-    {
-        "title": "Michael Gallup, exestrella de los Cowboys, anuncia su retiro de la NFL a los 28 años",
-        "image_url": "./assets/ai_generated/v1_txt2img_3800609764e141c4a5f08b284fd015fa.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/michael-gallup-exestrella-de-los-cowboys-anuncia-su-retiro-de-la-nfl-a-los-28-anos/",
-        "date": "2024-07-24 03:00:57",
-        "sentiment_score": -0.2335396148264408
-    },
-    {
-        "title": "Piovi le da la victoria a la Liga MX en el reto de habilidades de la MLS",
-        "image_url": "./assets/ai_generated/v1_txt2img_8226895e0dc248379d5505d98c8023b2.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/piovi-le-da-la-victoria-a-la-liga-mx-en-el-reto-de-habilidades-de-la-mls/",
-        "date": "2024-07-24 03:00:22",
-        "sentiment_score": 0.6137144081294537
-    },
-    {
-        "title": "Corea del Norte apuesta por \"abrir una nueva era\" de relaciones con Bielorrusia",
-        "image_url": "./assets/ai_generated/v1_txt2img_cab121f9d82e426b9e399e35646badf6.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/corea-del-norte-apuesta-por-abrir-una-nueva-era-de-relaciones-con-bielorrusia/",
-        "date": "2024-07-24 02:45:38",
-        "sentiment_score": 0.6213744021952152
-    },
-    {
-        "title": "Legisladores cuestionan la paridad de género en la reforma judicial de México",
-        "image_url": "./assets/ai_generated/v1_txt2img_32b6fb9198b6467fbcc560d5be70a981.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/legisladores-cuestionan-la-paridad-de-genero-en-la-reforma-judicial-de-mexico/",
-        "date": "2024-07-24 02:45:21",
-        "sentiment_score": -0.6326939314603806
-    },
-    {
-        "title": "Juan Guaidó explicó cómo planean defender el voto de los venezolanos en las elecciones",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162585812.jpg?quality=100&strip=info",
-        "tags": [
-            "nicolás maduro",
-            "juan guaidó",
-            "venezuela",
-            "elecciones venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/llamado-defensa-voto-opositores-regimen-maduro-elecciones-conclusiones-tv/",
-        "date": "2024-07-24 02:41:46",
-        "sentiment_score": -0.001169353723526001
-    },
-    {
-        "title": "Maduro podría ganar esta elección sin fraude electoral, dice experta",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/copia-de-thumbnail-youtube-17_dede9d.png",
-        "tags": [
-            "análisis",
-            "entrevistas",
-            "nicolás maduro",
-            "elecciones venezuela",
-            "cnn en español",
-            "edmundo gonzález urrutia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/urrutia-maduro-chavismo/",
-        "date": "2024-07-24 02:32:08",
-        "sentiment_score": 0.15339529514312744
-    },
-    {
-        "title": "Guaidó plantea la posibilidad de una amnistía para Maduro",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162586274.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "juan guaidó",
-            "nicolás maduro",
-            "amnistía"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-fraude-plan-oposicion-maduro-conclusiones-tv/",
-        "date": "2024-07-24 02:31:35",
-        "sentiment_score": 0.005993694067001343
-    },
-    {
-        "title": "Este año “puede lograrse la alternancia del poder” en Venezuela, dice experta",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162020933_a10b65.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "latinos",
-            "nicolás maduro",
-            "elecciones venezuela",
-            "cnn en español",
-            "edmundo gonzález urrutia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-julio/",
-        "date": "2024-07-24 02:22:59",
-        "sentiment_score": 0.10639804601669312
-    },
-    {
-        "title": "El gallego que diseña bodegas de lujo en España y EE.UU.",
-        "image_url": "https://cflvdg.avoz.es/sc/5kQz-3QHaNTVWzzecQleUKKBw-U=/768x/2024/07/23/00121721731982114599392/Foto/j_20240710_125411000.jpg",
-        "tags": [
-            "yes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/yes/2024/07/23/gallego-disena-bodegas-lujo-espana-eeuu/00031721735524805550702.htm",
-        "date": "2024-07-24 03:00:00",
-        "sentiment_score": 0.1675586700439453
-    },
-    {
-        "title": "Noche tropical en Vigo con Luis Fonsi y un «Despacito» que se hizo esperar",
-        "image_url": "https://cflvdg.avoz.es/sc/ntrpUVDfGmtBGEUwS3A1ZItkSfA=/768x/2024/07/23/00121721768582082395418/Foto/i_20240723_224352001.jpg",
-        "tags": [
-            "música",
-            "abel caballero",
-            "canadá",
-            "conciertos",
-            "sergio dalma",
-            "vigo ciudad"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/vigo/vigo/2024/07/24/noche-tropical-vigo-luis-fonsi-despacito-hizo-esperarde-conciertos/0003_202407G24P28991.htm",
-        "date": "2024-07-24 03:00:00",
-        "sentiment_score": 0.07945884764194489
-    },
-    {
-        "title": "Luis Arráez lideró blanqueada de San Diego en la capital",
-        "image_url": "./assets/ai_generated/v1_txt2img_9e55ace6df614cc396f4d23b96195cc1.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://elperiodiquito.com/deportes/175705/luis-arraez-lidero-blanqueada-de-san-diego-en-la-capital/",
-        "date": "2024-07-24 02:39:25",
-        "sentiment_score": 0.06996920704841614
-    },
-    {
-        "title": "Así funciona en 2024 el sistema de legalización y apostilla de documentos en Venezuela",
-        "image_url": "./assets/ai_generated/v1_txt2img_3bfab1ef86c444caa129a1d446b77d11.png",
-        "tags": [
-            "apostilla",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/asi-funciona-en-2024-el-sistema-de-legalizacion-y-apostilla-de-documentos-en-venezuela/",
-        "date": "2024-07-24 03:00:00",
-        "sentiment_score": 0.0655868798494339
-    },
-    {
-        "title": "María Brea, la caraqueña que ha triunfado en los concursos internacionales de Ópera",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Maria-Brea.jpg",
-        "tags": [
-            "maría brea",
-            "venezolana en concursos de ópera",
-            "migración"
-        ],
-        "link": "https://2001online.com/migracion/maria-brea-caraquena-triunfado-concursos-opera/",
-        "date": "2024-07-24 02:27:47",
-        "sentiment_score": -0.14006449282169342
-    },
-    {
-        "title": "Rector Conrado Pérez explicó cómo funciona el conteo de votos en Venezuela",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/754d750e-181b-4b73-a1a1-e2b0478721fd.jpg",
-        "tags": [
-            "elecciones 2024",
-            "cne",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/rector-conrado-perez-explico-como-funciona-el-conteo-de-votos-en-venezuela/",
-        "date": "2024-07-24 02:26:15",
-        "sentiment_score": 0.21071061491966248
-    },
-    {
-        "title": "San Lorenzo suma sus primeros tres puntos en el actual torneo de fútbol en Argentina",
-        "image_url": "https://www.infobae.com/resizer/v2/AIVADQHQVJEA7ON3O4A4F45EUQ.jpg?auth=d89c4e8d6896cdb8de89a8297bef2c2c2c23b6789877afe9777d4597bb5af0ea",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/san-lorenzo-suma-sus-primeros-tres-puntos-en-el-actual-torneo-de-futbol-en-argentina/",
-        "date": "2024-07-24 04:01:23",
-        "sentiment_score": 0.4581683501601219
-    },
-    {
-        "title": "Miércoles, 24 de julio de 2024 (04:00 GMT)",
-        "image_url": "./assets/ai_generated/v1_txt2img_0c1bbeb91ef5447b9e967cb9031a958e.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/miercoles-24-de-julio-de-2024-0400-gmt/",
-        "date": "2024-07-24 04:00:24",
-        "sentiment_score": -0.010811571031808853
-    },
-    {
-        "title": "La Policía del Capitolio de EEUU detiene a 200 personas que protestaban contra la visita de Netanyahu",
-        "image_url": "https://www.infobae.com/resizer/v2/44UHUHUI2ZEL3FVXSDLSXGNI3M.jpg?auth=1ef3653cdf9ecd408fcb3ffe60c5ed9d13ee738db9a24130ef0cb95292b76bda",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-policia-del-capitolio-de-eeuu-detiene-a-200-personas-que-protestaban-contra-la-visita-de-netanyahu/",
-        "date": "2024-07-24 03:47:18",
-        "sentiment_score": -0.8101842682808638
-    },
-    {
-        "title": "Japón protesta por las sanciones de Rusia contra empresarios nipones por apoyar a Kiev",
-        "image_url": "./assets/ai_generated/v1_txt2img_b96b171f368140cfb4b53fb06330a13c.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/japon-protesta-por-las-sanciones-de-rusia-contra-empresarios-nipones-por-apoyar-a-kiev/",
-        "date": "2024-07-24 03:46:37",
-        "sentiment_score": -0.3576716184616089
-    },
-    {
-        "title": "La cadena nipona de tiendas de conveniencia Lawson deja de cotizar en bolsa tras 24 años",
-        "image_url": "./assets/ai_generated/v1_txt2img_72aad6cb9c964fce8ddc7f9ffdbbc638.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-cadena-nipona-de-tiendas-de-conveniencia-lawson-deja-de-cotizar-en-bolsa-tras-24-anos/",
-        "date": "2024-07-24 03:46:26",
-        "sentiment_score": -0.6788675282150507
-    },
-    {
-        "title": "1-1. Rosario Central empata en la casa del Inter y avanza a octavos",
-        "image_url": "./assets/ai_generated/v1_txt2img_524f1b80967e4b668c5106b243cfc174.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/1-1-rosario-central-empata-en-la-casa-del-inter-y-avanza-a-octavos/",
-        "date": "2024-07-24 03:45:37",
-        "sentiment_score": 0.5098663605749607
-    },
-    {
-        "title": "La guatemalteca Martínez anota dos goles en goleada del Monterrey al Atlas",
-        "image_url": "./assets/ai_generated/v1_txt2img_b4272471c2ec4fc995af22a3d94b963a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-guatemalteca-martinez-anota-dos-goles-en-goleada-del-monterrey-al-atlas/",
-        "date": "2024-07-24 03:30:20",
-        "sentiment_score": 0.38939206302165985
-    },
-    {
-        "title": "Alejandro Crocker, el venezolano que hace alta costura con lo que la gente tira a la basura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QCX4OOLYQJCCDJ3OOZQ4ZGR6UM.jpg?auth=c4da72870ce55907e6d4fae71cc04578176fde2c0fc2a5aa3ec66c9474e827ce",
-        "tags": [
-            "venezuela",
-            "moda alternativa",
-            "colombia",
-            "reciclaje",
-            "economía circular",
-            "moda",
-            "economía sostenible",
-            "américa",
-            "desarrollo sostenible"
-        ],
-        "link": "https://elpais.com/america-colombia/2024-07-24/alejandro-crocker-el-venezolano-que-hace-alta-costura-con-lo-que-la-gente-tira-a-la-basura.html",
-        "date": "2024-07-24 04:00:00",
-        "sentiment_score": 0.045478567481040955
-    },
-    {
-        "title": "Jonrón de Jeff McNeil lideró triunfo de Mets ante Yankees",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/AP24206035000632.jpg",
-        "tags": [
-            "béisbol",
-            "deportes",
-            "new york yankees",
-            "new york mets"
-        ],
-        "link": "https://eldiariony.com/2024/07/23/jonron-de-jeff-mcneil-lidero-triunfo-de-mets-ante-yankees/",
-        "date": "2024-07-24 03:42:59",
-        "sentiment_score": 0.8038614802062511
-    },
-    {
-        "title": "Lila Abed: “La relación bilateral entre Estados Unidos y México es una de las pocas que afecta la vida diaria de millones de personas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6OR4WNWKDBGTTAJPQQZUDK3UZ4.jpg?auth=a62ce54da9a795ad3133499dfc6f5524de17a816937fcf85781c0fe2ee85fd5c",
-        "tags": [
-            "noticias de méxico",
-            "ciudad de méxico",
-            "relaciones internacionales",
-            "diplomacia",
-            "estados unidos",
-            "américa",
-            "washington d.c.",
-            "claudia sheinbaum"
-        ],
-        "link": "https://elpais.com/us/2024-07-24/lila-abed-la-relacion-bilateral-entre-estados-unidos-y-mexico-es-una-de-las-pocas-que-afecta-la-vida-diaria-de-millones-de-personas.html",
-        "date": "2024-07-24 04:00:00",
-        "sentiment_score": 0.4584328457713127
-    },
-    {
-        "title": "Sin gira, sin casa y en plena crisis matrimonial: el agridulce 55o cumpleaños de Jennifer Lopez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7BHKJFLVVJAJXEYDPYLR6CRGKA.jpg?auth=c44dca2ed89cd9741087b294ac3134cd9e2985aebfbb37acfe12963adb108eb9",
-        "tags": [
-            "ben affleck",
-            "cine",
-            "música",
-            "hollywood",
-            "jennifer lópez",
-            "jennifer garner",
-            "cantantes",
-            "actrices",
-            "famosos",
-            "estados unidos",
-            "actores",
-            "américa",
-            "california"
-        ],
-        "link": "https://elpais.com/us/entretenimiento/2024-07-24/sin-gira-sin-casa-y-en-plena-crisis-matrimonial-el-agridulce-55-cumpleanos-de-jennifer-lopez.html",
-        "date": "2024-07-24 04:00:00",
-        "sentiment_score": -0.9151723766699433
-    },
-    {
-        "title": "Víctor Montalvo quiere romper la pista en París 2024",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2ZMXJI4U6FHS3FJ4N35EJACIBA.jpg?auth=a4b2ecec8cdf70be7151d08d3173cf407d94a1225feb7ab1d39d8988b8be495f",
-        "tags": [
-            "baile",
-            "juegos olímpicos 2024",
-            "deportes",
-            "hip hop",
-            "florida",
-            "breakdance",
-            "estados unidos",
-            "américa",
-            "juegos olímpicos"
-        ],
-        "link": "https://elpais.com/us/2024-07-24/victor-montalvo-quiere-romper-la-pista-en-paris-2024.html",
-        "date": "2024-07-24 04:00:00",
-        "sentiment_score": 0.717068774625659
-    },
-    {
-        "title": "Banda Los Fabulosos Cadillacs se presentará en Caracas (+Fecha)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/descarga-2024-07-24T000812.689.jpeg",
-        "tags": [
-            "caracas",
-            "universidad santa maria",
-            "los fabulosos cadillacs",
-            "usm",
-            "farándula"
-        ],
-        "link": "https://2001online.com/farandula/banda-los-fabulosos-cadillacs-se-presentara-en-caracas-fecha/",
-        "date": "2024-07-24 04:08:51",
-        "sentiment_score": 0.19598525762557983
-    },
-    {
-        "title": "Estos centros comerciales no trabajarán el domingo #28Jul",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/foto-cortesia-17094.jpg",
-        "tags": [
-            "sambil",
-            "elecciones 28 julio",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/estos-centros-comerciales-no-trabajaran-el-domingo-28jul/",
-        "date": "2024-07-24 03:45:18",
-        "sentiment_score": -0.10460279136896133
-    },
-    {
-        "title": "Desarticulan banda criminal \"Los Fresas\" en Cabudare",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Cicpc-5.jpg",
-        "tags": [
-            "lara",
-            "desarticulan banda",
-            "cabudare",
-            "los fresas",
-            "sucesos",
-            "banda los fresas",
-            "barquisimeto"
-        ],
-        "link": "https://2001online.com/sucesos/desarticulan-banda-criminal-los-fresas-en-cabudare/",
-        "date": "2024-07-24 03:43:42",
-        "sentiment_score": -0.746601440012455
-    },
-    {
-        "title": "Coordinador de Vente Venezuela se desmayó en acto de campaña en el Zulia (+Video)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/06/Vente-Venezuela-4-696x446-1.jpg",
-        "tags": [
-            "zulia",
-            "vente venzeuakla",
-            "maracaibo",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/coordinador-de-vente-venezuela-se-desmayo-en-acto-de-campana-en-el-zulia-video/",
-        "date": "2024-07-24 03:29:42",
-        "sentiment_score": -0.373298779129982
-    },
-    {
-        "title": "Bangladés relaja el toque de queda y reabre oficinas y fábricas tras caos por protestas",
-        "image_url": "./assets/ai_generated/v1_txt2img_63b8640348fa421eb16c15508a50fa88.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/banglades-relaja-el-toque-de-queda-y-reabre-oficinas-y-fabricas-tras-caos-por-protestas/",
-        "date": "2024-07-24 06:15:18",
-        "sentiment_score": -0.11116388440132141
-    },
-    {
-        "title": "Bukele elimina aranceles a más de cien productos alimentarios para combatir el alza de precios",
-        "image_url": "https://www.infobae.com/resizer/v2/LM6Q3RT4UJGY5GUDAHHHPZA3EY.jpg?auth=5a881f508e7088a7c8e07088ab759bea5f14e49c9d494b07de067fa07c1daa55",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/bukele-elimina-aranceles-a-mas-de-cien-productos-alimentarios-para-combatir-el-alza-de-precios/",
-        "date": "2024-07-24 06:02:13",
-        "sentiment_score": -0.025792419910430908
-    },
-    {
-        "title": "Alemania prohíbe el Centro Islámico de Hamburgo por ser extremista y apoyar a Hizbulá",
-        "image_url": "./assets/ai_generated/v1_txt2img_fedace120c0d4ff786e1012fab6117f7.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/alemania-prohibe-el-centro-islamico-de-hamburgo-por-ser-extremista-y-apoyar-a-hizbula/",
-        "date": "2024-07-24 06:00:36",
-        "sentiment_score": -0.8939961493015289
-    },
-    {
-        "title": "Pionyang ha podido enviar hasta 5,2 millones de rondas de artillería a Moscú, según Seúl",
-        "image_url": "./assets/ai_generated/v1_txt2img_d55c8ac8e1a54346b5796a3382f6325d.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/pionyang-ha-podido-enviar-hasta-52-millones-de-rondas-de-artilleria-a-moscu-segun-seul/",
-        "date": "2024-07-24 06:00:19",
-        "sentiment_score": 0.29088083654642105
-    },
-    {
-        "title": "EEUU sanciones a tres personas por ayudar a financiar Estado Islámico en África",
-        "image_url": "./assets/ai_generated/v1_txt2img_712781632bf046ff8feb127c90f3c9c7.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/eeuu-sanciones-a-tres-personas-por-ayudar-a-financiar-estado-islamico-en-africa/",
-        "date": "2024-07-24 05:47:16",
-        "sentiment_score": -0.8741785362362862
-    },
-    {
-        "title": "Efemérides del 25 de julio",
-        "image_url": "./assets/ai_generated/v1_txt2img_aae90b7e680d46608d552aa8f560a04a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/efemerides-del-25-de-julio/",
-        "date": "2024-07-24 05:45:35",
-        "sentiment_score": -0.015202894806861877
-    },
-    {
-        "title": "Un niño muerto y 6 heridos en un ataque atribuido a disidencias de las FARC en Colombia",
-        "image_url": "./assets/ai_generated/v1_txt2img_884d9dc8e321495bafe19ccc719fb82a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/un-nino-muerto-y-6-heridos-en-un-ataque-atribuido-a-disidencias-de-las-farc-en-colombia/",
-        "date": "2024-07-24 05:45:18",
-        "sentiment_score": -0.8457914236932993
-    },
-    {
-        "title": "El primer ministro de Montenegro reforma su Gobierno con una mayor presencia de proserbios y probosnios",
-        "image_url": "https://www.infobae.com/resizer/v2/MNI5XS6LXBDOTA4ZRHIGFC2PMA.jpg?auth=386e5a451f52a84e19a1c5273a8bff0c70e6aa209f0a3a79a962126e2d7c9eec",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-primer-ministro-de-montenegro-reforma-su-gobierno-con-una-mayor-presencia-de-proserbios-y-probosnios/",
-        "date": "2024-07-24 05:17:29",
-        "sentiment_score": 0.28273454308509827
-    },
-    {
-        "title": "Banco Santander gana 6.059 millones en el primer semestre, un 15,6% más",
-        "image_url": "./assets/ai_generated/v1_txt2img_9dd50d780b8e449d983828db2084d266.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/banco-santander-gana-6059-millones-en-el-primer-semestre-un-156-mas/",
-        "date": "2024-07-24 05:17:16",
-        "sentiment_score": 0.4066982939839363
-    },
-    {
-        "title": "Interna del MAS en Bolivia: seguidores de Luis Arce rechazaron la proclamación de Evo Morales como líder del partido",
-        "image_url": "https://www.infobae.com/resizer/v2/SHDUX5IFIBDORLFAHULAIPWMSY.jpg?auth=3f7fe36e6e15b5691287fe4acb301379d3ec520c0d8e9824da8478a16c7b8c8f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/america-latina/2024/07/24/interna-del-mas-en-bolivia-seguidores-de-luis-arce-rechazaron-la-proclamacion-de-evo-morales-como-lider-del-partido/",
-        "date": "2024-07-24 05:15:11",
-        "sentiment_score": -0.07074421644210815
-    },
-    {
-        "title": "Desilusionado con Biden, Hollywood se entusiasma con Kamala Harris",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-5.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones en estados unidos",
-            "hollywood",
-            "kamala harris"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/biden-hollywood-entusiasmo-apoyo-kamala-harris-trax/",
-        "date": "2024-07-24 04:37:40",
-        "sentiment_score": -0.24702872335910797
-    },
-    {
-        "title": "Una sencilla herramienta puede predecir el riesgo de demencia y depresión, según un estudio",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/tool-dementia-depression-.jpeg?quality=100&strip=info",
-        "tags": [
-            "demencia",
-            "depresión",
-            "noticias de salud"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/brain-care-score-herramienta-predecir-riesgo-demencia-depresion-trax/",
-        "date": "2024-07-24 04:26:22",
-        "sentiment_score": 0.42794693633913994
-    },
-    {
-        "title": "JLo cumple 55 años: la actriz latina mejor paga del mundo, la pelea con Mariah Carey y sus vaivenes con Ben Affleck",
-        "image_url": "./assets/ai_generated/v1_txt2img_759ec7e2c6324d13a5a1f078c53971cb.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/historias/2024/07/24/jlo-cumple-55-anos-la-actriz-latina-mejor-paga-del-mundo-la-pelea-con-mariah-carey-y-sus-vaivenes-con-ben-affleck/",
-        "date": "2024-07-24 05:38:01",
-        "sentiment_score": 0.205224871635437
-    },
-    {
-        "title": "Miami o el amor al arte: ocho motivos que te empujarán a visitar la ciudad (más allá de los tópicos)",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/07/19/669a544d43617.r_d.1514-2054-0.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/viajes/20240724/9813269/miami-propuestas-arte-viaje-visitar-ciudad.html",
-        "date": "2024-07-24 04:41:39",
-        "sentiment_score": 0.8761991886422038
-    },
-    {
-        "title": "Liga MX dominó el Skills Challenge del All-Star de la MLS",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/USA-Today-Sports-Daniel-Bartel-5.jpg",
-        "tags": [
-            "all star game",
-            "fútbol",
-            "mls",
-            "deportes"
-        ],
-        "link": "https://eldiariony.com/2024/07/24/liga-mx-domino-el-skills-challenge-del-all-star-de-la-mls/",
-        "date": "2024-07-24 04:40:23",
-        "sentiment_score": 0.1682644784450531
-    },
-    {
-        "title": "Quintana brilla en nueva York y Ramírez lo hace en Cleveland",
-        "image_url": "./assets/ai_generated/v1_txt2img_b56cb262f1e24603b7119fc877780401.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/quintana-brilla-en-nueva-york-y-ramirez-lo-hace-en-cleveland/",
-        "date": "2024-07-24 04:15:18",
-        "sentiment_score": 0.2862251028418541
-    },
-    {
-        "title": "Línea Directa gana 25,4 millones de euros hasta junio, frente a pérdidas de 15,1 millones",
-        "image_url": "https://www.infobae.com/resizer/v2/DUASS3FQ3NFRLMYUB5KY6NTDBY.jpg?auth=63060323c39d05ea140b40361b85ea9f798e70215fd7fa50b27fc4ac46eadf78",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/linea-directa-gana-254-millones-de-euros-hasta-junio-frente-a-perdidas-de-151-millones/",
-        "date": "2024-07-24 07:03:53",
-        "sentiment_score": 0.11499004065990448
-    },
-    {
-        "title": "Repsol eleva un 14,5% su beneficio a junio, hasta 1.626 millones, y lanza nuevas recompras de acciones",
-        "image_url": "https://www.infobae.com/resizer/v2/BTRLKKQOARGTRKFKDNELQQTZTQ.jpg?auth=189a8277556ff419394cff3e763ffe19f5de48a9d484ae0520cd53de65c72a6f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/repsol-eleva-un-145-su-beneficio-a-junio-hasta-1626-millones-y-lanza-nuevas-recompras-de-acciones/",
-        "date": "2024-07-24 07:03:41",
-        "sentiment_score": 0.6720641367137432
-    },
-    {
-        "title": "Redondo desliga el cese de Isabel García de supuestas ilegalidades y defiende que el centro necesitaba un \"impulso\"",
-        "image_url": "https://www.infobae.com/resizer/v2/2XEJ2AGA6RGN5LRWI6HODBI2Q4.jpg?auth=6f5e1dbf36ddf1a43c2719ab02d9550dbefbf8433117206f1af60dd3fae751f5",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/redondo-desliga-el-cese-de-isabel-garcia-de-supuestas-ilegalidades-y-defiende-que-el-centro-necesitaba-un-impulso/",
-        "date": "2024-07-24 07:03:29",
-        "sentiment_score": -0.8109007701277733
-    },
-    {
-        "title": "Heridas dos personas en Moscú a causa de la explosión de un artefacto colocado en un coche",
-        "image_url": "https://www.infobae.com/resizer/v2/LK4LCY4ELNBMPKABM2FUG5Z5XU.jpg?auth=9a8fbe582f59967515d6e3dd7cf5380d0174472a4b6c51bb9d9d9e1fa94b5e6c",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/heridas-dos-personas-en-moscu-a-causa-de-la-explosion-de-un-artefacto-colocado-en-un-coche/",
-        "date": "2024-07-24 07:03:16",
-        "sentiment_score": -0.7849275544285774
-    },
-    {
-        "title": "Hillary Clinton advierte de que Harris se enfrenterá al \"sexismo y los dobles estándares\" durante la campaña",
-        "image_url": "https://www.infobae.com/resizer/v2/AFR7FB7P5FHUHBN5T6NFENF7PA.jpg?auth=d06b647f52d7e6bb6ce77281fd37ba21bda9e82dd548895d2ff9bf61e65d8419",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/hillary-clinton-advierte-de-que-harris-se-enfrentera-al-sexismo-y-los-dobles-estandares-durante-la-campana/",
-        "date": "2024-07-24 07:02:58",
-        "sentiment_score": -0.12640825659036636
-    },
-    {
-        "title": "Iberdrola dispara beneficio un 64% a junio, hasta 4.134 millones, y apunta a ganancias récord en 2024",
-        "image_url": "https://www.infobae.com/resizer/v2/UREA5TO3JNFVZMWIAQOVLDOXAA.jpg?auth=9d801ead52a4b15b8e630e239bfb84d8306918d9c48784d45ce165a25654cb93",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/iberdrola-dispara-beneficio-un-64-a-junio-hasta-4134-millones-y-apunta-a-ganancias-record-en-2024/",
-        "date": "2024-07-24 07:02:39",
-        "sentiment_score": 0.6651176251471043
-    },
-    {
-        "title": "Muere una persona en un nuevo ataque de Rusia contra la ciudad ucraniana de Jersón, en Ucrania",
-        "image_url": "https://www.infobae.com/resizer/v2/3PUOH6QSBVEMRIAO2BMOQIHKBQ.jpg?auth=71412fcb8c92b79ada10b90f33b378549997bf8575465fa539f74a90d04c9928",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/muere-una-persona-en-un-nuevo-ataque-de-rusia-contra-la-ciudad-ucraniana-de-jerson-en-ucrania/",
-        "date": "2024-07-24 07:02:21",
-        "sentiment_score": -0.833249693736434
-    },
-    {
-        "title": "España exhibe sus aviones de combate en Australia en unos ejercicios multinacionales",
-        "image_url": "https://www.infobae.com/resizer/v2/OSO233KHU5F33G3NPJFXRDDJYA.jpg?auth=fbcdb66cc898098a7653ed910e5420cb6bb33237b47373ce52d35fb5f6a54f99",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/espana-exhibe-sus-aviones-de-combate-en-australia-en-unos-ejercicios-multinacionales/",
-        "date": "2024-07-24 07:01:11",
-        "sentiment_score": 0.13708245754241943
-    },
-    {
-        "title": "Activistas se pegan a pista de aeropuerto alemán de Colonia/Bonn y bloquean tráfico aéreo",
-        "image_url": "./assets/ai_generated/v1_txt2img_90bfae8bae92427a99bc01860bf56f61.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/activistas-se-pegan-a-pista-de-aeropuerto-aleman-de-coloniabonn-y-bloquean-trafico-aereo/",
-        "date": "2024-07-24 07:00:49",
-        "sentiment_score": -0.7187670692801476
-    },
-    {
-        "title": "Al menos cinco muertos al estrellarse un avión con 19 personas a bordo en Nepal",
-        "image_url": "./assets/ai_generated/v1_txt2img_e51d8a300e504524a892907ef20581fc.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/al-menos-cinco-muertos-al-estrellarse-un-avion-con-19-personas-a-bordo-en-nepal/",
-        "date": "2024-07-24 07:00:33",
-        "sentiment_score": -0.7864377629011869
-    },
-    {
-        "title": "Un estudio revela la presencia de \"sustancias químicas eternas\" tóxicas en plaguicidas utilizados en alimentos, hogares y mascotas",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Toxic-chemicals-PFAS--e1721800108690.jpeg?quality=100&strip=info",
-        "tags": [
-            "contaminación de plástico",
-            "noticias de salud"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/pfas-plaguicidas-sustancias-quimicas-eternas-toxicas-alimentos-hogares-mascotas-trax/",
-        "date": "2024-07-24 06:23:37",
-        "sentiment_score": -0.6501200273633003
-    },
-    {
-        "title": "Israel impide la entrada en Gaza a médicos con ascendencia palestina",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/suleiman-and-kids-2.jpg?quality=100&strip=info",
-        "tags": [
-            "medio oriente",
-            "guerra hamas israel"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/israel-restricciones-medicos-palestinos-gaza-trax/",
-        "date": "2024-07-24 06:18:52",
-        "sentiment_score": -0.6577548272907734
-    },
-    {
-        "title": "Solicita e imprime el RIF del SENIAT desde tu casa: En 4 pasos",
-        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2024/07/solicita-e-imprime-el-rif-del-seniat-desde-tu-casa-en-4-pasos-laverdaddemonagas.com-la-verdad-de-monagas-24-860x484.jpg",
-        "tags": [
-            "nacionales",
-            "principales"
-        ],
-        "link": "https://reporteconfidencial.info/2024/07/24/solicita-e-imprime-el-rif-del-seniat-desde-tu-casa-en-4-pasos/",
-        "date": "2024-07-24 06:45:10",
-        "sentiment_score": 0.26650676876306534
-    },
-    {
-        "title": "Deutsche Bank pierde 143 millones en el segundo trimestre, sus primeros 'números rojos' en cuatro años",
-        "image_url": "https://www.infobae.com/resizer/v2/WFSQXW3CPBEUNPE7LRWTMSFTKE.jpg?auth=b4c7c9c63c7657d388b8d0c123f4f8c03f351ae9ef707677392f4724be753791",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/deutsche-bank-pierde-143-millones-en-el-segundo-trimestre-sus-primeros-numeros-rojos-en-cuatro-anos/",
-        "date": "2024-07-24 08:03:16",
-        "sentiment_score": -0.5351569876074791
-    },
-    {
-        "title": "(AMP) Iberdrola dispara beneficio un 64% a junio, hasta 4.134 millones, y apunta a ganancias récord en 2024",
-        "image_url": "https://www.infobae.com/resizer/v2/VTP6E6VQC5HAZGUGONHNOQCFOA.jpg?auth=980533a37e4781634715e31f71fdd862e37ff2383dc8067f6257626f269a67d5",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/amp-iberdrola-dispara-beneficio-un-64-a-junio-hasta-4134-millones-y-apunta-a-ganancias-record-en-2024/",
-        "date": "2024-07-24 08:03:04",
-        "sentiment_score": 0.6089547723531723
-    },
-    {
-        "title": "Herido de gravedad un militar de Reino Unido tras ser apuñalado cerca de un cuartel en el condado de Kent",
-        "image_url": "https://www.infobae.com/resizer/v2/6QY4IVG4F5GC5OCHNQD723VKUU.jpg?auth=64e20fa570c0ce04640f83fee2d3a5223f5dae3d02c5ff174a0d1835bc49ab90",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/herido-de-gravedad-un-militar-de-reino-unido-tras-ser-apunalado-cerca-de-un-cuartel-en-el-condado-de-kent/",
-        "date": "2024-07-24 08:02:50",
-        "sentiment_score": -0.8429625611752272
-    },
-    {
-        "title": "Pedro Sánchez escribe al juez del 'caso Begoña Gómez' y le pide declarar por escrito",
-        "image_url": "https://www.infobae.com/resizer/v2/PNBKYDAJRZB3LHEQTFZ5W2UEDU.jpg?auth=6f5457ae79ab9659a020a66475e3340954cb047b9b3e0786e0314f15e662884a",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/pedro-sanchez-escribe-al-juez-del-caso-begona-gomez-y-le-pide-declarar-por-escrito/",
-        "date": "2024-07-24 08:02:31",
-        "sentiment_score": -0.6212279219180346
-    },
-    {
-        "title": "Miércoles, 24 de julio de 2024 (08:00 GMT)",
-        "image_url": "./assets/ai_generated/v1_txt2img_564d18e986ba4735bac8fc4cf8f43617.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/miercoles-24-de-julio-de-2024-0800-gmt/",
-        "date": "2024-07-24 08:01:45",
-        "sentiment_score": -0.012146525084972382
-    },
-    {
-        "title": "La final por equipos masculinos de gimnasia, el gran reto pendiente del deporte español",
-        "image_url": "./assets/ai_generated/v1_txt2img_0a6d0b5b704d433982e7af7074600cd1.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-final-por-equipos-masculinos-de-gimnasia-el-gran-reto-pendiente-del-deporte-espanol/",
-        "date": "2024-07-24 08:01:28",
-        "sentiment_score": 0.034993723034858704
-    },
-    {
-        "title": "David Cal: \"Lo impensable parece no conseguir una medalla, con el equipo que hay\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_6abaed2676a64e0f8a6b79ae03da4a90.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/david-cal-lo-impensable-parece-no-conseguir-una-medalla-con-el-equipo-que-hay/",
-        "date": "2024-07-24 08:01:11",
-        "sentiment_score": -0.8847641535103321
-    },
-    {
-        "title": "Atletas ucranianos llegarán hoy a París tras hacer parte de su viaje en tren desde Kiev",
-        "image_url": "./assets/ai_generated/v1_txt2img_0678935ec000403d9fa277140118a6db.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/atletas-ucranianos-llegaran-hoy-a-paris-tras-hacer-parte-de-su-viaje-en-tren-desde-kiev/",
-        "date": "2024-07-24 08:00:54",
-        "sentiment_score": 0.06987414509057999
-    },
-    {
-        "title": "China apoya que Ucrania y Rusia negocien y pide buscar una \"solución política\" a la guerra",
-        "image_url": "./assets/ai_generated/v1_txt2img_a18fea0b7944470a8b2ad497197aad1f.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/china-apoya-que-ucrania-y-rusia-negocien-y-pide-buscar-una-solucion-politica-a-la-guerra/",
-        "date": "2024-07-24 08:00:37",
-        "sentiment_score": -0.20138049125671387
-    },
-    {
-        "title": "Filipinas declara el estado de calamidad por las inundaciones en Manila",
-        "image_url": "./assets/ai_generated/v1_txt2img_459b537d39bf4fde93e6ed62d2d8b1bb.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/filipinas-declara-el-estado-de-calamidad-por-las-inundaciones-en-manila/",
-        "date": "2024-07-24 08:00:20",
-        "sentiment_score": -0.9008906409144402
-    },
-    {
-        "title": "Condenan a una empleada del ejército de EE.UU. que robó casi US$ 109 millones para comprar mansiones y coches de lujo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Janet-Yamanaka-Mello-e1721806481609.jpg?quality=100&strip=info",
-        "tags": [
-            "fraude",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/empleada-ejercito-eeuu-robo-millones-mansiones-coches-ap/",
-        "date": "2024-07-24 07:54:46",
-        "sentiment_score": -0.8805123846977949
-    },
-    {
-        "title": "Un avión nepalí se estrelló en el despegue y dejó 18 muertos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/logo-cnn.webp",
-        "tags": [
-            "avión",
-            "nepal",
-            "asia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/18-muertos-estrellarse-avion-nepali-despegue-katmandu-trax/",
-        "date": "2024-07-24 07:44:19",
-        "sentiment_score": -0.7934172498062253
-    },
-    {
-        "title": "\"Su extraordinaria historia de origen podría ayudar a ampliar la base\": diversos donantes compiten para ayudar a Harris a hacer historia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-7.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones en estados unidos",
-            "kamala harris"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/donantes-kamala-harris-diversidad-origen-trax/",
-        "date": "2024-07-24 07:40:18",
-        "sentiment_score": -0.10869698226451874
-    },
-    {
-        "title": "Globos de basura de Corea del Norte caen cerca de la oficina presidencial de Corea del Sur",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Corea-Norte-Globos-sur-seul-e1721802740655.jpg?quality=100&strip=info",
-        "tags": [
-            "globos basura",
-            "corea"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/globos-basura-corea-norte-oficina-presidencial-sur-trax/",
-        "date": "2024-07-24 07:15:34",
-        "sentiment_score": -0.9028420830145478
-    },
-    {
-        "title": "Miércoles, 24 de julio de 2024 (07.30 GMT)",
-        "image_url": "./assets/ai_generated/v1_txt2img_428fddb1376648ef8fde55ef41189e8c.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/miercoles-24-de-julio-de-2024-0730-gmt/",
-        "date": "2024-07-24 07:46:10",
-        "sentiment_score": -0.0027771368622779846
-    },
-    {
-        "title": "Foto Colectania de Barcelona acercará la fotografía española en una exposición en Miami (EE.UU.)",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/07/22/6329E0C5-06BB-4435-A4B1-D2C55ED61E7F/96.jpg?crop=1920%2C1080%2Cx0%2Cy228&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/foto-colectania-barcelona-acercara-fotografia-espanola-exposicion-miami-eeuu_2024072466a0b097ef894800011270ef.html",
-        "date": "2024-07-24 07:43:19",
-        "sentiment_score": 0.689209345728159
-    },
-    {
-        "title": "La alta afluencia de turistas en los JJOO impulsa la demanda desde París a países como España, EEUU o Reino Unido",
-        "image_url": "https://www.infobae.com/resizer/v2/DQ6I6IMKPNHA5O7IQSHMSBPDIE.jpg?auth=009ff38a3731cc1d7e6a1778402cbdffc96f9dd29340c6c5f855d813f33d7b43",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-alta-afluencia-de-turistas-en-los-jjoo-impulsa-la-demanda-desde-paris-a-paises-como-espana-eeuu-o-reino-unido/",
-        "date": "2024-07-24 09:18:20",
-        "sentiment_score": 0.3833174407482147
-    },
-    {
-        "title": "Muere un palestino tiroteado por las fuerzas de Israel en una nueva operación en Cisjordania",
-        "image_url": "https://www.infobae.com/resizer/v2/N4FBNVZVXZDLTF63HL7EEDWU44.jpg?auth=3571a651385979c42782975329eb380fcd80fbdbd75fb5ce2d8dc47a611c353b",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/muere-un-palestino-tiroteado-por-las-fuerzas-de-israel-en-una-nueva-operacion-en-cisjordania/",
-        "date": "2024-07-24 09:18:07",
-        "sentiment_score": -0.78911935351789
-    },
-    {
-        "title": "Una reconstrucción facial reveló cómo era el verdadero rostro de Tutankamón",
-        "image_url": "./assets/ai_generated/v1_txt2img_e98dd0f2e974424798bd07a7dc38b5c2.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2024/07/24/una-reconstruccion-facial-revelo-como-era-el-verdadero-rostro-de-tutankamon/",
-        "date": "2024-07-24 09:18:00",
-        "sentiment_score": 0.7007922418415546
-    },
-    {
-        "title": "Al menos cinco muertos tras una explosión en una destilería de José Cuervo, en México",
-        "image_url": "https://www.infobae.com/resizer/v2/NQSS2OISL5FA5KDAOP2ELGIEWY.jpg?auth=4b8580230e2909fd7c23dcbc8a257f0cab1f8de4f76186074d5b19adf4f673d1",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/al-menos-cinco-muertos-tras-una-explosion-en-una-destileria-de-jose-cuervo-en-mexico/",
-        "date": "2024-07-24 09:17:54",
-        "sentiment_score": -0.8023961503058672
-    },
-    {
-        "title": "Reino Unido dice que un importante almacén de armas de Rusia fue alcanzado por un ataque con drones de Ucrania",
-        "image_url": "https://www.infobae.com/resizer/v2/XJS7F4OY4VF3BCNHUMC5VUS3QM.jpg?auth=ebf5c1a92e1ffd659e046485797a46ba267b5f6827b1aec2a2aeda66df6864e4",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/reino-unido-dice-que-un-importante-almacen-de-armas-de-rusia-fue-alcanzado-por-un-ataque-con-drones-de-ucrania/",
-        "date": "2024-07-24 09:17:36",
-        "sentiment_score": -0.5203175358474255
-    },
-    {
-        "title": "FundéuRAE: “llamada robotizada” o “robollamada”, alternativas a “robocall”",
-        "image_url": "./assets/ai_generated/v1_txt2img_ca55b758ff0f48dbae0f5d075901b7ed.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/fundeurae-llamada-robotizada-o-robollamada-alternativas-a-robocall/",
-        "date": "2024-07-24 09:16:41",
-        "sentiment_score": 0.03163816034793854
-    },
-    {
-        "title": "Catania prohíbe circular a las motos por las toneladas de cenizas procedentes del volcán Etna",
-        "image_url": "https://www.infobae.com/resizer/v2/45Y3SDRAEFHEVJYBSBXVI35YKI.jpg?auth=91255fcb508b1b6367faa5581b51625fd5e79b0736b5b8b46297ce7229d71860",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/catania-prohibe-circular-a-las-motos-por-las-toneladas-de-cenizas-procedentes-del-volcan-etna/",
-        "date": "2024-07-24 09:16:14",
-        "sentiment_score": -0.817127600312233
-    },
-    {
-        "title": "El español Fernando Franco adapta al cine 'Subsuelo', novela del argentino Fernando Luján",
-        "image_url": "./assets/ai_generated/v1_txt2img_16c810bde32943f0bcf2c8ed9065e749.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-espanol-fernando-franco-adapta-al-cine-subsuelo-novela-del-argentino-fernando-lujan/",
-        "date": "2024-07-24 09:15:53",
-        "sentiment_score": 0.07409121841192245
-    },
-    {
-        "title": "Patricia Cerezo se ruboriza con solo pensar en una posible pedida de mano",
-        "image_url": "https://www.infobae.com/resizer/v2/D44WMJGC6JC4NJ22L4SRTG2L7I.jpg?auth=e19c3eb40bd5e84664169fc6aa51a310ce7ee011084ff56a2766f65b23cb9663",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/patricia-cerezo-se-ruboriza-con-solo-pensar-en-una-posible-pedida-de-mano/",
-        "date": "2024-07-24 09:15:34",
-        "sentiment_score": -0.42274102568626404
-    },
-    {
-        "title": "Catania prohíbe circular a las motos por las toneladas de cenizas procedentes del Etna",
-        "image_url": "./assets/ai_generated/v1_txt2img_f10e45b1adee42ee90e140a30b87f286.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/catania-prohibe-circular-a-las-motos-por-las-toneladas-de-cenizas-procedentes-del-etna/",
-        "date": "2024-07-24 09:15:19",
-        "sentiment_score": -0.8249461948871613
-    },
-    {
-        "title": "Millones de migrantes venezolanos no pueden votar pese al peso económico de sus remesas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/332283c1-7ef0-42cd-b77a-fe2166843442_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/internacional/2024/07/24/millones-migrantes-venezolanos-no-pueden-votar-pese-a-remesas-106014656.html",
-        "date": "2024-07-24 08:57:48",
-        "sentiment_score": 0.33604851365089417
-    },
-    {
-        "title": "Millones de migrantes venezolanos no pueden votar pese al peso económico de sus remesas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/332283c1-7ef0-42cd-b77a-fe2166843442_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.epe.es/es/internacional/20240724/millones-migrantes-venezolanos-no-pueden-votar-pese-a-remesas-106014611",
-        "date": "2024-07-24 08:57:45",
-        "sentiment_score": 0.3284406214952469
-    },
-    {
-        "title": "Nadal: \"Entiendo el morbo y la ilusión, pero jugar con Alcaraz no se traduce a éxito\"",
-        "image_url": "https://www.infobae.com/resizer/v2/6QLMDG3XXFDSFGTE6EQRGPSY4A.jpg?auth=16ae895842ddd5cc0e6b5385433b7c6cdd6e6e6fad30c39ee80c660f12dbf7f2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/nadal-entiendo-el-morbo-y-la-ilusion-pero-jugar-con-alcaraz-no-se-traduce-a-exito/",
-        "date": "2024-07-24 10:04:42",
-        "sentiment_score": -0.008667051792144775
-    },
-    {
-        "title": "Sánchez escribe al juez del 'caso Begoña Gómez': \"Mi declaración se deberá prestar por escrito\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_c8a681c8ac124d968281a4638b01aeea.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/sanchez-escribe-al-juez-del-caso-begona-gomez-mi-declaracion-se-debera-prestar-por-escrito/",
-        "date": "2024-07-24 10:04:25",
-        "sentiment_score": -0.2471727840602398
-    },
-    {
-        "title": "Junts dice que tumbar la senda de déficit no supone pérdidas para CC.AA. y corresponde al Gobierno arreglarlo",
-        "image_url": "https://www.infobae.com/resizer/v2/DI63ZXOVPZBYFNDKDVUIRLYNV4.jpg?auth=384fc57173611ac3f1866fcf84ffbcd52cc105ef915991f095c5556802143cc6",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/junts-dice-que-tumbar-la-senda-de-deficit-no-supone-perdidas-para-ccaa-y-corresponde-al-gobierno-arreglarlo/",
-        "date": "2024-07-24 10:04:08",
-        "sentiment_score": -0.39292673021554947
-    },
-    {
-        "title": "La rama de Al Qaeda en el Sahel reclama el ataque contra un puesto militar en el norte de Togo",
-        "image_url": "https://www.infobae.com/resizer/v2/32SGT5RIKFHYJARIDDOZF56UII.jpg?auth=3a5f10b3d4d3f10c924c66368b66194c57d588c6f87e99893642bd36f04c6eac",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/la-rama-de-al-qaeda-en-el-sahel-reclama-el-ataque-contra-un-puesto-militar-en-el-norte-de-togo/",
-        "date": "2024-07-24 10:03:38",
-        "sentiment_score": -0.808742705732584
-    },
-    {
-        "title": "Ascienden a nueve los fallecidos en el naufragio del 'Argos Georgia' en Malvinas",
-        "image_url": "https://www.infobae.com/resizer/v2/N72D5EQJVJHI5EXMOJRSBWAIHA.jpg?auth=4702d39f18abffc672190296eb97216cc7be952c053fcc1b5d16040e9a3c66c2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/ascienden-a-nueve-los-fallecidos-en-el-naufragio-del-argos-georgia-en-malvinas/",
-        "date": "2024-07-24 10:03:20",
-        "sentiment_score": -0.8237830437719822
-    },
-    {
-        "title": "Maduro ensalza la transparencia del sistema electoral venezolano frente al de EEUU, Brasil o Colombia",
-        "image_url": "https://www.infobae.com/resizer/v2/QBXXSKTWJBDOTJEJVHW7Z62NEY.jpg?auth=042748201fe1a995c638deb7af0471b7d19626e126656f4ca7fca5bf46ead3ff",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/maduro-ensalza-la-transparencia-del-sistema-electoral-venezolano-frente-al-de-eeuu-brasil-o-colombia/",
-        "date": "2024-07-24 10:03:02",
-        "sentiment_score": -0.2567088007926941
-    },
-    {
-        "title": "Santander concreta que el lanzamiento de Openbank en EE.UU. será en otoño",
-        "image_url": "https://www.infobae.com/resizer/v2/JIMDCP4I4RGR3CLM2DEJJ2KDOY.jpg?auth=edd6cb2e8db6fecc79ea5255b644cc7af97ce765f2612b9ab41a39642da0a3a0",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/santander-concreta-que-el-lanzamiento-de-openbank-en-eeuu-sera-en-otono/",
-        "date": "2024-07-24 10:02:44",
-        "sentiment_score": 0.05513069033622742
-    },
-    {
-        "title": "Adobe amplía con Firefly las herramientas creativas y de edición disponibles para Illustrator y Photoshop",
-        "image_url": "./assets/ai_generated/v1_txt2img_fdf28993b1a8491a91d0e0993215cb96.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/adobe-amplia-con-firefly-las-herramientas-creativas-y-de-edicion-disponibles-para-illustrator-y-photoshop/",
-        "date": "2024-07-24 10:02:25",
-        "sentiment_score": 0.3841308727860451
-    },
-    {
-        "title": "Israel continúa su ofensiva sobre la devastada Franja de Gaza, haciendo foco en Jan Yunis",
-        "image_url": "./assets/ai_generated/v1_txt2img_cd0bda36350e4c24a0ae727ebc0aceae.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/israel-continua-su-ofensiva-sobre-la-devastada-franja-de-gaza-haciendo-foco-en-jan-yunis/",
-        "date": "2024-07-24 10:01:28",
-        "sentiment_score": -0.5898390859365463
-    },
-    {
-        "title": "El Betis viaja a Estados Unidos para afrontar la segunda concentración de la pretemporada",
-        "image_url": "./assets/ai_generated/v1_txt2img_22f8c30ae77b417bae7e81c80f91e561.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/24/el-betis-viaja-a-estados-unidos-para-afrontar-la-segunda-concentracion-de-la-pretemporada/",
-        "date": "2024-07-24 10:01:11",
-        "sentiment_score": 0.019089095294475555
-    },
-    {
-        "title": "Las 5 cosas que debes saber este 24 de julio: Las elecciones que podrían sacudir la geopolítica regional",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/venezuela-analisis.webp",
-        "tags": [
-            "instanoticias",
-            "5 cosas"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/5-cosas-24-julio-maduro-venezuela-elecciones-geopolitica-orix/",
-        "date": "2024-07-24 10:00:24",
-        "sentiment_score": -0.08995383977890015
-    },
-    {
-        "title": "Netanyahu hablará ante el Congreso de Estados Unidos y tratará de redirigir la atención estadounidense a Medio Oriente",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Netanyahu-addresses-Congress-e1721809937132.jpeg?quality=100&strip=info",
-        "tags": [
-            "benjamin netanyahu",
-            "estados unidos noticias",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/netanyahu-congreso-estados-unidos-atencion-estadounidense-medio-oriente-trax/",
-        "date": "2024-07-24 09:48:53",
-        "sentiment_score": -0.45032573491334915
-    },
-    {
-        "title": "Una investigación en Nueva Zelandia concluye que 200.000 niños y adultos vulnerables sufrieron abusos en centros de acogida",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163347488-e1721808569570.jpg?quality=100&strip=info",
-        "tags": [
-            "nueva zelandia",
-            "oceanía"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/investigacion-nueva-zelandia-abusos-centros-acogida-iglesia-reux/",
-        "date": "2024-07-24 09:45:22",
-        "sentiment_score": -0.821533233858645
-    },
-    {
-        "title": "Clima en Guadalajara: cuál será la temperatura máxima y mínima este 24 de julio",
-        "image_url": "https://www.infobae.com/resizer/v2/W5PFUE66SRDB5MKOLU2KQ3OWSI.jpg?auth=59a45ac4ad4c4202fea27a4479599f1453382eab941930d14e7c797f41a23b25",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/mexico/2024/07/24/clima-en-guadalajara-cual-sera-la-temperatura-maxima-y-minima-este-24-de-julio/",
-        "date": "2024-07-24 09:37:36",
-        "sentiment_score": 0.07421069592237473
-    },
-    {
-        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Miami este miércoles",
-        "image_url": "https://www.infobae.com/resizer/v2/RWRJXO4FENEV5CA3I36CO2QP44.jpg?auth=0f4c0727388a81fd81f11c7370cb024aa723dfc5d537c10c5723a0e13ba4ef7d",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/noticias/2024/07/24/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-miami-este-miercoles/",
-        "date": "2024-07-24 09:37:17",
-        "sentiment_score": 0.17115062847733498
-    },
-    {
-        "title": "México: las predicciones del tiempo en Puebla de Zaragoza este 24 de julio",
-        "image_url": "https://www.infobae.com/resizer/v2/53PTFJEQJJB4XPFN7F5SYFFA6Q.jpg?auth=f348d08a8c9d9af4bc4f2f86803d4fb3dc26e8fb30510ebd8599d4182ea015c8",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/mexico/2024/07/24/mexico-las-predicciones-del-tiempo-en-puebla-de-zaragoza-este-24-de-julio/",
-        "date": "2024-07-24 09:36:56",
-        "sentiment_score": 0.6286973133683205
-    },
-    {
-        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Mérida este miércoles",
-        "image_url": "https://www.infobae.com/resizer/v2/3JDFG66HQNHCZAENY6KFV6JSDQ.jpg?auth=d0ceb23877b0343d12c85a3f538d803facbde2023e9362b2103af76099000876",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/mexico/2024/07/24/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-merida-este-miercoles/",
-        "date": "2024-07-24 09:36:17",
-        "sentiment_score": -0.1714000180363655
-    },
-    {
-        "title": "Clima: las temperaturas que predominarán este 24 de julio en Ecatepec",
-        "image_url": "https://www.infobae.com/resizer/v2/75UCDQP2TFAXRKPXMPB4DGASVE.jpg?auth=005f954f76fe0173264e91e2653e406b8b654a6c75a796f80e55d09cb90d6112",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/mexico/2024/07/24/clima-las-temperaturas-que-predominaran-este-24-de-julio-en-ecatepec/",
-        "date": "2024-07-24 09:35:58",
-        "sentiment_score": 0.6286973133683205
-    },
-    {
         "title": "Qué es un alternador del coche y para qué sirve",
         "image_url": "https://www.infobae.com/resizer/v2/FEIKQWVFLNGMJLBSTPKPF3NPTE.jpg?auth=87dd1e711ae24364d9d47319be95b5b0abfec43cfb4c1901d1b291640f51abb2",
         "tags": [
@@ -2024,96 +110,6 @@ export default [
         "sentiment_score": -0.14509055018424988
     },
     {
-        "title": "Los costes laborales subieron el año pasado un 5,4% impulsados por el alza de las cotizaciones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/24/trabajador-RZxHjHuhkHJI8bxtBxnTHmJ-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/costes-salariales-subieron-ano-pasado-impulsados-alza-20240724122022-nt.html",
-        "date": "2024-07-24 10:21:23",
-        "sentiment_score": -0.11264164745807648
-    },
-    {
-        "title": "La hora y dieciocho minutos que bloquearon millones de ordenadores Windows en todo el mundo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/07/24/crowd-ep-2-Rqo84uy87LQ8MwwT5Xtx0sM-758x531@diario_abc.JPG",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/hora-dieciocho-minutos-bloquearon-millones-ordenadores-windows-20240724113403-nt.html",
-        "date": "2024-07-24 09:34:04",
-        "sentiment_score": -0.19991587102413177
-    },
-    {
-        "title": "El de los dos DNI era Pedro Sánchez",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/1484015177-U83271835835aeA-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jesus-lillo-dos-dni-era-pedro-sanchez-20240725113314-nt.html",
-        "date": "2024-07-24 09:33:14",
-        "sentiment_score": -0.09388795495033264
-    },
-    {
-        "title": "Los precios hoteleros aumentaron en España casi un 8% en junio, llegando a una subida máxima del 18% en Madrid",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/24/turismoplaya-R1bfBLKa3Dnz4Oa9iSgGchK-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/precios-hoteleros-aumentaron-espana-junio-llegando-subida-20240724100903-nt.html",
-        "date": "2024-07-24 09:00:44",
-        "sentiment_score": -0.10272115468978882
-    },
-    {
-        "title": "Un militar ruso herido en la explosión de un coche en Moscú",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/24/coche_bomba2-R8IfRj0qHVp99M6XMm8td6O-758x531@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/militar-ruso-herido-explosion-coche-moscu-20240724104034-nt.html",
-        "date": "2024-07-24 08:40:34",
-        "sentiment_score": -0.2260880321264267
-    },
-    {
-        "title": "La CNMC investiga a Apple por posibles prácticas anticompetitivas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/24/apple-RbdezOWwZznfhNh8ftwnMxM-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cnmc-investiga-apple-posibles-practicas-anticompetitivas-20240724102809-nt.html",
-        "date": "2024-07-24 08:29:26",
-        "sentiment_score": -0.24895347654819489
-    },
-    {
-        "title": "Mueren 18 personas tras estrellarse un avión durante su despegue en el aeropuerto de Katmandú, Nepal",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/24/nepal-kM2F-U602880261672f5D-758x531@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/mueren-personas-tras-estrellarse-avion-despegue-aeropuerto-20240724095859-nt.html",
-        "date": "2024-07-24 07:59:00",
-        "sentiment_score": -0.5431938394904137
-    },
-    {
-        "title": "Iberdrola dispara su beneficio hasta los 4.134 millones, un 64% más por la venta del negocio mexicano",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/24/Iberdrolaefe-RpxLuGfbSbtc1Z0IAnuhncK-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/iberdrola-dispara-beneficio-4134-millones-venta-negocio-20240724092448-nt.html",
-        "date": "2024-07-24 07:24:48",
-        "sentiment_score": -0.022038549184799194
-    },
-    {
-        "title": "La muerte de un alto policía en México sacude al futuro gobierno de la presidenta Sheinbaum",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/24/sheinbaum-RYWj419bFc3HZw6QVBNQJ5L-758x531@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/muerte-alto-policia-mexico-sacude-futuro-gobierno-20240724091731-nt.html",
-        "date": "2024-07-24 07:17:31",
-        "sentiment_score": -0.1767958700656891
-    },
-    {
         "title": "El presidente del Parlamento balear, sobre la foto de víctimas del franquismo que rompió: “El Rey ha entendido lo que ocurrió”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/3DQ23Y6IUMUWWWEANWQRB6OZYU.jpg?auth=05d963b8ccb94b59f33be68204d73def42b6258c7a3ad07a41713a512e11463b",
         "tags": [
@@ -2130,183 +126,611 @@ export default [
         "sentiment_score": -0.05889616906642914
     },
     {
-        "title": "Detenido un bombero voluntario por presuntamente provocar el incendio de Portbou de 2023",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TYLXZJUF4VFKXN3FI6TMOVBVTM.jpg?auth=3870059e48176918c03b7daa91afb09933f5f739e80c9a99d2964ed8dd74631b",
+        "title": "Controlado el incendio forestal declarado en Cartaya (Huelva)",
+        "image_url": "./assets/ai_generated/v1_txt2img_b292e4edb8ba4789bf1212ea347d4cba.png",
         "tags": [
-            "portbou",
-            "bomberos",
-            "cataluña",
-            "detenciones",
-            "girona",
-            "incendios forestales"
+            "top"
         ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-24/detenido-un-bombero-voluntario-por-presuntamente-provocar-el-incendio-de-portbou-de-2023.html",
-        "date": "2024-07-24 09:52:37",
-        "sentiment_score": -0.07193829119205475
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/controlado-el-incendio-forestal-declarado-en-cartaya-huelva/",
+        "date": "2024-07-24 22:19:31",
+        "sentiment_score": -0.49853572621941566
     },
     {
-        "title": "La Comisión Europea destaca el “progreso significativo” de España con la renovación del Poder Judicial",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KIMSBYNEPRC5FL4P6Z4ZUD2CO4.jpg?auth=c8ae94ade9d503b3b7e67adf0f5453723e6f31f2912a7775a6a1770a92990bb7",
+        "title": "Hoy será noticia. Jueves, 25 de julio de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_5f17c757b7cd420d95822043cf85f5d0.png",
         "tags": [
-            "unión europea",
-            "cgpj",
-            "procés independentista catalán",
-            "política",
-            "félix bolaños garcía",
-            "comisión europea",
-            "esteban gonzález pons",
-            "españa",
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/hoy-sera-noticia-jueves-25-de-julio-de-2024/",
+        "date": "2024-07-24 22:19:15",
+        "sentiment_score": 0.03101586177945137
+    },
+    {
+        "title": "Chaves dice que las nuevas sentencias de los ERE tendrán \"el límite\" del TC y no ve \"ningún recorrido\" a Manos Limpias",
+        "image_url": "https://www.infobae.com/resizer/v2/5DTOZNC2UNDFTNU45FYHZCIBXA.jpg?auth=98aa774952fac05f677ba827d8e111bd73f4e5b11afc4c924a4efeb7aa5171ff",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/chaves-dice-que-las-nuevas-sentencias-de-los-ere-tendran-el-limite-del-tc-y-no-ve-ningun-recorrido-a-manos-limpias/",
+        "date": "2024-07-24 22:19:07",
+        "sentiment_score": -0.4802642557770014
+    },
+    {
+        "title": "0-0. Osasuna empata a cero con el Huesca en el segundo amistoso de la pretemporada",
+        "image_url": "./assets/ai_generated/v1_txt2img_862dab4402844fa79eb8fce4142e868b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/0-0-osasuna-empata-a-cero-con-el-huesca-en-el-segundo-amistoso-de-la-pretemporada/",
+        "date": "2024-07-24 21:34:22",
+        "sentiment_score": 0.1904335916042328
+    },
+    {
+        "title": "La ministra británica de Economía dirá en G20 que su país está de nuevo abierto a negocios",
+        "image_url": "./assets/ai_generated/v1_txt2img_9eba2c23862d45b187bff53b11758d97.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/la-ministra-britanica-de-economia-dira-en-g20-que-su-pais-esta-de-nuevo-abierto-a-negocios/",
+        "date": "2024-07-24 21:19:50",
+        "sentiment_score": 0.5609550923109055
+    },
+    {
+        "title": "Nota rectificatoria",
+        "image_url": "./assets/ai_generated/v1_txt2img_95a91c8b4b144dffb16fa78b5e25a2e2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/nota-rectificatoria/",
+        "date": "2024-07-24 21:19:12",
+        "sentiment_score": -0.08232426643371582
+    },
+    {
+        "title": "El accidente de un camión obliga a cortar la A-52 sentido Benavente en la operación salida",
+        "image_url": "./assets/ai_generated/v1_txt2img_c8831dc235b146a58a578ed108a830a3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/el-accidente-de-un-camion-obliga-a-cortar-la-a-52-sentido-benavente-en-la-operacion-salida/",
+        "date": "2024-07-24 21:02:45",
+        "sentiment_score": -0.6942395716905594
+    },
+    {
+        "title": "Lotería 6/49: jugada ganadora y resultado del último sorteo",
+        "image_url": "https://www.infobae.com/resizer/v2/WMVKE4HDFZAD5BHEA2A35RV5FU.jpg?auth=fe2d6c26ca92172f7659440b81f964b512a3afb263ece5c3642d40cda4004b78",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/24/loteria-649-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
+        "date": "2024-07-24 21:00:26",
+        "sentiment_score": 0.46823830530047417
+    },
+    {
+        "title": "Valverde: \"En Burgos nos sobró espesura, contra el Racing hemos tenido más calidad\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_ee505a6946324c0cafbcf2a97c2c2f02.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/valverde-en-burgos-nos-sobro-espesura-contra-el-racing-hemos-tenido-mas-calidad/",
+        "date": "2024-07-24 20:48:51",
+        "sentiment_score": 0.563706211745739
+    },
+    {
+        "title": "Estabilizado el incendio de El Pueyo de Araguás tras calcinar 150 hectáreas",
+        "image_url": "./assets/ai_generated/v1_txt2img_eb6c48b7c61f4c4897645357753a8ab6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/24/estabilizado-el-incendio-de-el-pueyo-de-araguas-tras-calcinar-150-hectareas/",
+        "date": "2024-07-24 20:48:15",
+        "sentiment_score": -0.7421957589685917
+    },
+    {
+        "title": "Trump dice que México está controlado por cárteles y que el Gobierno está \"petrificado\" por temor a ellos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2162235596_ea7c29.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/trum-vance-entrevista-fox-mexico-carteles-orix/",
+        "date": "2024-07-24 22:11:12",
+        "sentiment_score": -0.8240123819559813
+    },
+    {
+        "title": "Colonos israelíes atacan a granjeros palestinos y activistas extranjeros en la Ribera Occidental",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still_20810791_11492.665_still.jpg?quality=100&strip=info",
+        "tags": [
+            "conflicto israel y palestina",
+            "medio oriente",
+            "israel noticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colonos-israel-granjeros-palestinos-activistas-trax/",
+        "date": "2024-07-24 21:01:11",
+        "sentiment_score": -0.7443843893706799
+    },
+    {
+        "title": "Por qué muchos venezolanos que viven en Perú deben viajar a Venezuela a votar",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1236717439-1.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela",
+            "perú"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/venezolanos-peru-viajar-venezuela-votar-elecciones-2024-orix/",
+        "date": "2024-07-24 20:53:49",
+        "sentiment_score": -0.21057361364364624
+    },
+    {
+        "title": "El atacante de Trump buscó detalles del asesinato de JFK y voló un dron cerca del lugar del mitin de campaña, dice el FBI",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2162669106.jpg?quality=100&strip=info",
+        "tags": [
+            "fbi",
+            "noticias de donald trump",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/atacante-trump-investigacion-fbi-audiencia-congreso-trax/",
+        "date": "2024-07-24 20:31:48",
+        "sentiment_score": -0.5591352339833975
+    },
+    {
+        "title": "¿Usa Kamala Harris la cultura pop a su favor?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162428633.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones ee.uu",
+            "kamala harris",
+            "beyoncé",
+            "pop",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamalaharris-cultura-pop-elecciones-eeuu-ush-trax/",
+        "date": "2024-07-24 20:05:50",
+        "sentiment_score": -0.2125358134508133
+    },
+    {
+        "title": "El gobierno de EE.UU. abre investigación a Delta por cancelaciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1350327181-20240724191932061.jpg?quality=100&strip=info",
+        "tags": [
+            "delta",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-investigacion-delta-cancelaciones-vuelos-aerolineas-cnn-dinero-tv/",
+        "date": "2024-07-24 19:40:45",
+        "sentiment_score": -0.5517574306577444
+    },
+    {
+        "title": "“Me despojaron de mi dignidad”, video muestra el momento en que sacan a Terrell Davis de un avión",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-terrel.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/terrel-davis-vuelo-united-arlines-ush-trax/",
+        "date": "2024-07-24 19:10:00",
+        "sentiment_score": -0.6208646632730961
+    },
+    {
+        "title": "Acciones de Tesla se desploman más del 40% tras caída de beneficios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/adobestock-447756667-editorial-use-only.jpeg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tesla-acciones-desploman-competencia-caida-ganancias-cnn-dinero-tv/",
+        "date": "2024-07-24 18:50:11",
+        "sentiment_score": 0.3087153285741806
+    },
+    {
+        "title": "Encuesta CNN: Harris mejora los resultados de Biden frente a Trump en un primer sondeo al nuevo enfrentamiento",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/kamala-harris-elecciones-ee-uu-trump-e1721838204995.webp",
+        "tags": [
+            "elecciones en estados unidos",
+            "encuesta cnn",
+            "elecciones estados unidos",
+            "instanoticias",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/encuesta-cnn-harris-mejora-desempeno-biden-trump-primer-sondeo-trax/",
+        "date": "2024-07-24 18:43:51",
+        "sentiment_score": -0.21055978536605835
+    },
+    {
+        "title": "Un nuevo estudio busca reducir las muertes por cáncer colorrectal en Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/39730945-06295727-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muertes-cancer-colorrectal-minuto-de-salud/",
+        "date": "2024-07-24 17:33:51",
+        "sentiment_score": -0.06631839275360107
+    },
+    {
+        "title": "Santo Patrón de España",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/santiago-compostela-peregrinos-RdmplAsLfAxLycpNBFthcZK-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jose-joaquin-gallardo-santo-patron-espana-20240725220738-nts.html",
+        "date": "2024-07-24 20:07:38",
+        "sentiment_score": 0.0781785249710083
+    },
+    {
+        "title": "Hay que ser positivos",
+        "image_url": "./assets/ai_generated/v1_txt2img_489cfb1cbb6e48649870cbf3841b6bd3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-positivos-20240725220737-nts.html",
+        "date": "2024-07-24 20:07:37",
+        "sentiment_score": -0.043619751930236816
+    },
+    {
+        "title": "Neandertales",
+        "image_url": "./assets/ai_generated/v1_txt2img_3a5de30fa3e4452a99e26c4cf0b6c3a2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-neandertales-20240725220736-nts.html",
+        "date": "2024-07-24 20:07:36",
+        "sentiment_score": -0.08152598142623901
+    },
+    {
+        "title": "El Supremo obliga a Pumpido a retratarse ya",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/Pumpido_20240724194056-RiRMWI9T4UBLSEhLwsGMcVK-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-supremo-obliga-pumpido-retratarse-20240725215200-nt.html",
+        "date": "2024-07-24 19:52:00",
+        "sentiment_score": -0.13327303528785706
+    },
+    {
+        "title": "¿Empresas sistémicas?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/25/crowd-kVQG--1200x630@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-empresas-sistemicas-20240725203454-nt.html",
+        "date": "2024-07-24 18:35:14",
+        "sentiment_score": -0.30173610150814056
+    },
+    {
+        "title": "El tirador que intentó matar a Trump buscó en Google detalles sobre el asesinato de John F. Kennedy, según el FBI",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/24/FBI-kZuF-U602883135625UXE-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/tirador-intento-matar-trump-busco-google-detalles-20240724195538-nt.html",
+        "date": "2024-07-24 17:57:41",
+        "sentiment_score": -0.2636549025774002
+    },
+    {
+        "title": "Bruselas vuelve a dejar en el aire la fusión de Iberia y Air Europa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/24/1484059686-RcEdJjGpv0mOJGTGU7cBu6L-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/bruselas-vuelve-dejar-aire-fusion-iberia-air-20240724193045-nt.html",
+        "date": "2024-07-24 17:31:33",
+        "sentiment_score": -0.11724737286567688
+    },
+    {
+        "title": "La juguetería de Igualdad",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/1484005366-U87388075361ivq-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-jugueteria-igualdad-20240725192318-nt.html",
+        "date": "2024-07-24 17:23:18",
+        "sentiment_score": -0.1380731165409088
+    },
+    {
+        "title": "Un año del 23J, seis de escandalera",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/1483806922-RjbZ1l4HNtCRzCMGlhLt4jM-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-fernandezmiranda-ano-23j-seis-escandalera-20240725192300-nt.html",
+        "date": "2024-07-24 17:23:01",
+        "sentiment_score": -0.09255668520927429
+    },
+    {
+        "title": "Que viene la ola",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/1484015985-U41740725356ghW-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/berta-gonzalez-de-vega-viene-ola-20240725192248-nt.html",
+        "date": "2024-07-24 17:22:48",
+        "sentiment_score": -0.12280172109603882
+    },
+    {
+        "title": "Al menos 15 personas mueren en el naufragio de un cayuco que partió de Gambia hacia Canarias",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/X53QO65K6VEWRDX5G2BMAW2XKU.jpg?auth=594e7adc6241522b290b526276de9d3036c336698991cb5719f51c9bd661747e",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-07-24/al-menos-15-personas-mueren-en-el-naufragio-de-un-cayuco-que-partio-de-gambia-hacia-canarias.html",
+        "date": "2024-07-24 19:38:38",
+        "sentiment_score": -0.7517698220908642
+    },
+    {
+        "title": "Los cuatro ‘ultras’ condenados por apalear a un manifestante independentista piden la amnistía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PYNEQFQ6B5ELHCRGH446MRSMBU.jpg?auth=371aa268bf59d69f5a01cbbaa34b7bd2098f1a36c547a0a673bc188e03ce265f",
+        "tags": [
             "ley de amnistía",
-            "partidos políticos",
-            "justicia",
-            "estado de derecho"
+            "sentencia procés",
+            "juicio al procés",
+            "sentencias condenatorias",
+            "cataluña",
+            "ultras"
         ],
-        "link": "https://elpais.com/espana/2024-07-24/la-comision-europea-destaca-el-progreso-significativo-de-espana-con-la-renovacion-del-poder-judicial.html",
-        "date": "2024-07-24 09:51:48",
-        "sentiment_score": -0.13335219025611877
+        "link": "https://elpais.com/espana/catalunya/2024-07-24/los-cuatro-ultras-condenados-por-apalear-a-un-manifestante-independentista-piden-la-amnistia.html",
+        "date": "2024-07-24 18:09:55",
+        "sentiment_score": 0.04862715303897858
     },
     {
-        "title": "Teresa Gimpera, traer la modernidad a una España triste",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7WDKPAGKEFAIHPY455ZF4SF5AQ.jpg?auth=61b18c6c4d9981bccd8844729c2fdced17f36370562ca910519a6ef62be67e97",
+        "title": "Detenida la conductora de una furgoneta que causó un accidente con tres muertos en la C-37",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KLSYQ32RGZFXLNNDYPWLUR2EWE?auth=cb258390748bee02505d09b417cc52f6e8de0d340725391bc711a06c1fa4af86",
         "tags": [
-            "obituarios",
-            "cultura",
-            "teresa gimpera",
-            "modelos",
-            "franquismo",
-            "actrices",
-            "películas",
-            "barcelona",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-24/teresa-gimpera-traer-la-modernidad-a-una-espana-triste.html",
-        "date": "2024-07-24 07:56:08",
-        "sentiment_score": 0.6800316572189331
-    },
-    {
-        "title": "El muñeco de Junqueras colgado en un puente de Sant Vicenç dels Horts también se ideó desde ERC",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7ZH7HFFUD5DGVUPCU4NY2B36JQ.jpg?auth=8cc800deca604338b19e7a005dc471c5bdd4cad18e08956056d6e6ceb42a4533",
-        "tags": [
-            "sant vicenç dels horts",
-            "presos",
-            "erc",
-            "marta rovira i vergés",
-            "elecciones europeas 2019",
-            "oriol junqueras",
-            "elecciones europeas",
-            "elecciones",
-            "campañas electorales",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-24/el-muneco-de-junqueras-colgado-en-un-puente-de-sant-vicenc-dels-horts-tambien-se-ideo-desde-erc.html",
-        "date": "2024-07-24 07:44:57",
-        "sentiment_score": -0.5364935845136642
-    },
-    {
-        "title": "Dos españoles muertos, dos desaparecidos y seis supervivientes en el pesquero hundido en Malvinas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BPXJ4S573ZBNZMTSSZ7LQDFJTE.jpg?auth=0a3fe870058fbf250e3ec3a8ba58b5372882deb404cba9dfec376de82ff9f040",
-        "tags": [
-            "españa",
-            "accidentes marítimos",
-            "pesqueros",
-            "islas malvinas",
-            "embarcaciones",
-            "galicia",
             "sucesos",
-            "salvamento marítimo"
+            "cataluña",
+            "mossos d'esquadra",
+            "accidentes tráfico",
+            "tráfico"
         ],
-        "link": "https://elpais.com/espana/2024-07-24/dos-espanoles-muertos-dos-desaparecidos-y-seis-supervivientes-en-el-pesquero-hundido-en-malvinas.html",
-        "date": "2024-07-24 07:42:39",
-        "sentiment_score": -0.24168257042765617
+        "link": "https://elpais.com/espana/catalunya/2024-07-24/detenida-la-conductora-de-una-furgoneta-que-causo-un-accidente-con-tres-muertos-en-la-c-37.html",
+        "date": "2024-07-24 17:49:19",
+        "sentiment_score": -0.5291832163929939
     },
     {
-        "title": "Junts marca distancias con Sánchez como aviso por la negociación de Illa y compromete a la mayoría de investidura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UCPXK34ISBAXTLJUMZ24O6IZ6M.jpg?auth=09a2d73a325981db4b761d135fd31b7771d9b2f692b325c522d7d8a7ecb4829b",
+        "title": "Valencia y el Gobierno acuerdan invertir 250 millones para el soterramiento parcial de las vías de Serrería",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VY35V4VXB3HHE6AR32W4IJ3S6A.jpg?auth=b96b5375a170ae8d26f8f0085fade8c3e7ee826f45f965a30098498563201aca",
         "tags": [
-            "pactos políticos",
+            "óscar puente santiago",
+            "vías ferroviarias",
+            "trenes",
+            "comunidad valenciana",
+            "urbanismo",
+            "maría josé catalá",
+            "infraestructuras del transporte",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-24/valencia-y-el-gobierno-acuerdan-invertir-250-millones-para-el-soterramiento-parcial-de-las-vias-de-serreria.html",
+        "date": "2024-07-24 16:33:13",
+        "sentiment_score": 0.3911348208785057
+    },
+    {
+        "title": "Hallado el cadáver del joven de 14 años desaparecido el sábado en un pantano de Lleida",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BEPLEJ7I2RDSVPLZVTRZFVNZFQ.jpg?auth=bef3396d936b75dbaabd35a91d89b68c9d9f20e9c71ddd19cf911c92935d1e60",
+        "tags": [
+            "ahogamientos",
+            "verano",
+            "mossos d'esquadra",
+            "sucesos",
+            "lleida",
             "cataluña",
-            "pactos de estado",
-            "psoe",
-            "españa",
-            "congreso diputados",
-            "estabilidad laboral",
-            "erc",
-            "debates elecciones generales",
-            "investidura parlamentaria pedro sánchez 2019 28-a",
-            "investidura parlamentaria pedro sánchez 2023",
-            "gobierno de coalición",
-            "debates parlamentarios",
-            "investidura parlamentaria",
-            "sumar",
-            "presupuestos generales estado",
+            "sociedad",
+            "embalses"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-24/hallado-el-cadaver-del-joven-de-14-anos-desaparecido-el-sabado-en-un-pantano-de-lleida.html",
+        "date": "2024-07-24 15:59:12",
+        "sentiment_score": -0.07028642296791077
+    },
+    {
+        "title": "Muere un asistente al concierto de Karol G. después de la agresión de otro en la calle",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3X54KJGRCFGEVMTRHNCX6ZRL5A.png?auth=8f6c212217f1266ffd10ed889d9e340f8cbd51a32998dfb6fa79fdc5f7571bea",
+        "tags": [
+            "agresiones físicas",
+            "madrid",
+            "comunidad de madrid",
+            "sucesos",
+            "investigación policial",
+            "homicidios",
+            "policía"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-24/muere-un-asistente-al-concierto-de-karol-g-despues-de-la-agresion-de-otro-en-la-calle.html",
+        "date": "2024-07-24 15:47:46",
+        "sentiment_score": -0.8208797462284565
+    },
+    {
+        "title": "La empresa del hermano de Ximo Puig defiende la legalidad de la gestión de las subvenciones recibidas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4XTFBZ4HCRDTRP6RB3KEMPKSC4.JPG?auth=ea0067c94156b5585bd896a5598834939eaaf87ac3b038b8849e39d691c5c763",
+        "tags": [
+            "ximo puig",
+            "subvenciones",
+            "comunidad valenciana",
+            "comunicación",
+            "castellón",
+            "estafas",
+            "tribunales",
+            "fraudes",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-24/la-empresa-del-hermano-de-ximo-puig-defiende-la-legalidad-de-la-gestion-de-las-subvenciones-recibidas.html",
+        "date": "2024-07-24 15:26:08",
+        "sentiment_score": -0.8799560498446226
+    },
+    {
+        "title": "Feijóo hurga en la fragilidad del Gobierno, pero evita cualquier alternativa con Junts",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y4FTAVWUP73SZO3RQHCLUBOL2A.jpg?auth=749750789e09421e607ed5984cec5a366e80d087d0070de583f82c80c3b4f4dc",
+        "tags": [
             "juntsxcat",
-            "bildu"
-        ],
-        "link": "https://elpais.com/espana/2024-07-24/junts-marca-distancias-con-sanchez-como-aviso-por-la-negociacion-de-illa-y-compromete-a-la-mayoria-de-investidura.html",
-        "date": "2024-07-24 03:40:00",
-        "sentiment_score": -0.2369847595691681
-    },
-    {
-        "title": "Sánchez se cita con Aragonès para lanzar a ERC un mensaje de confianza en el cumplimiento de los pactos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YQD5UH7UPVFD5DMOKCWKH6ZFJY.jpg?auth=04962e2ce91c735eb8a34981769b90f0b0f068f82716d49e6741566210c4ec74",
-        "tags": [
-            "psc",
-            "cataluña",
-            "psoe",
-            "generalitat cataluña",
+            "ley extranjería",
+            "gasto público",
+            "alberto núñez feijóo",
+            "partidos políticos",
             "españa",
-            "pere aragonès",
             "pedro sánchez",
-            "erc",
-            "política",
-            "elecciones catalanas"
-        ],
-        "link": "https://elpais.com/espana/2024-07-24/sanchez-se-cita-con-aragones-para-lanzar-a-erc-un-mensaje-de-confianza-en-el-cumplimiento-de-los-pactos.html",
-        "date": "2024-07-24 03:40:00",
-        "sentiment_score": 0.14182524010539055
-    },
-    {
-        "title": "La encrucijada del Gobierno canario después de que el PP haya dado la espalda a la ley que negoció en las islas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6D2BWSKVRNANXPSQMHG4K7B6KY.jpg?auth=3847ae74f3e9ff22b7ee5a95e05de686c98e42e91571794259acbe1db0b04eb9",
-        "tags": [
-            "migrantes",
-            "inmigración",
+            "carles puigdemont",
+            "psoe",
+            "votación parlamentaria",
             "pp",
-            "ángel víctor torres",
-            "inmigración irregular",
-            "migración",
-            "inmigración irregular españa",
-            "gobierno canarias",
-            "españa",
-            "inmigrantes africanos",
-            "menores",
-            "menores migrantes",
-            "pp canarias",
-            "josé manuel soria",
-            "inmigrantes",
-            "coalición canaria",
-            "fernando clavijo",
-            "canarias"
+            "política"
         ],
-        "link": "https://elpais.com/espana/2024-07-24/la-encrucijada-del-gobierno-canario-despues-de-que-el-pp-haya-dado-la-espalda-a-la-ley-que-negocio-en-las-islas.html",
-        "date": "2024-07-24 03:40:00",
-        "sentiment_score": -0.4821048155426979
+        "link": "https://elpais.com/espana/2024-07-24/feijoo-hurga-en-la-fragilidad-del-gobierno-pero-evita-cualquier-alternativa-con-junts.html",
+        "date": "2024-07-24 14:08:39",
+        "sentiment_score": -0.8530715387314558
     },
     {
-        "title": "La vivienda de temporada copa el 40% de la oferta de alquiler de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O5J2Y36JDLYNK5DS56OWE64A3I.jpg?auth=6a9dfb3d67ec31d2a942d5e5d988003ceefdf1f95aca3495371aea4160337095",
+        "title": "Espadas acusa a Susana Díaz de “dañar la honorabilidad” de Chaves y Griñán por los ERE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4GWUNW2REBGUZPZOLVD2CTLGAE.jpg?auth=3e18c39dadb9dcebb901e780b572a508602cb1536f9d26f2806c91db626bd7e0",
         "tags": [
-            "mercado inmobiliario",
-            "legislación vivienda",
-            "cataluña",
-            "precios",
-            "generalitat cataluña",
-            "vivienda",
-            "barcelona",
-            "viviendas alquiler"
+            "susana díaz",
+            "josé antonio griñan martínez",
+            "caso de los ere",
+            "partidos políticos",
+            "andalucía",
+            "españa",
+            "juan espadas cejas",
+            "psoe-a",
+            "psoe",
+            "manuel chaves",
+            "política"
         ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-24/la-vivienda-de-temporada-copa-el-40-de-la-oferta-de-alquiler-de-barcelona.html",
-        "date": "2024-07-24 03:15:00",
-        "sentiment_score": 0.03429868817329407
+        "link": "https://elpais.com/espana/2024-07-24/espadas-acusa-a-susana-diaz-de-danar-la-honorabilidad-de-chaves-y-grinan-por-los-ere.html",
+        "date": "2024-07-24 14:07:46",
+        "sentiment_score": -0.09622262418270111
+    },
+    {
+        "title": "Urkullu presidirá una fundación europeísta que impulsará el eje atlántico",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O2ZTO56HORNZZJOSPRXI3MNLRQ.jpg?auth=0b4d192e60b84b0a35b65b943190ff8ebc857fe1e2b4f305d4c9d64aa82cfa7b",
+        "tags": [
+            "fundación",
+            "iñigo urkullu",
+            "país vasco",
+            "europa",
+            "españa",
+            "lehendakari",
+            "gobierno vasco"
+        ],
+        "link": "https://elpais.com/espana/2024-07-24/urkullu-presidira-una-fundacion-europeista-que-impulsara-el-eje-atlantico.html",
+        "date": "2024-07-24 13:53:15",
+        "sentiment_score": 0.04367503523826599
+    },
+    {
+        "title": "¿Qué pasaría si Donald Trump cierra la frontera? Esto advierte López Obrador",
+        "image_url": "./assets/ai_generated/v1_txt2img_4b3b7f36279149d7a4a247b8139cc2bf.png",
+        "tags": [
+            "donald trump",
+            "amlo",
+            "migración"
+        ],
+        "link": "https://2001online.com/migracion/que-pasaria-si-donald-trump-cierra-la-frontera-esto-advierte-lopez-obrador/",
+        "date": "2024-07-24 21:00:00",
+        "sentiment_score": -0.1726038157939911
+    },
+    {
+        "title": "¿Qué tarjetas funcionan para hacer compras internacionales desde Venezuela?",
+        "image_url": "https://pxcdn.meridiano.net/052024/1716380413347/tarjetas-de-credito-TDC.jpg?cw=807",
+        "tags": [
+            "bancos",
+            "bancos vnezolanos",
+            "servicios",
+            "tarjetas",
+            "compras internacionales"
+        ],
+        "link": "https://2001online.com/servicios/que-tarjetas-funcionan-para-hacer-compras-internacionales-desde-venezuela/",
+        "date": "2024-07-24 21:00:00",
+        "sentiment_score": 0.050973858684301376
+    },
+    {
+        "title": "Antonio Ecarri cierra campaña y llama a votar masivamente el #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Foto-cortesia-33.jpg",
+        "tags": [
+            "venezuela",
+            "nacionales",
+            "presidenciales en venezuela",
+            "antonio ecarri",
+            "caracas",
+            "#28jul",
+            "28 de julio",
+            "eeuu",
+            "elecciones en venezuela",
+            "2001online"
+        ],
+        "link": "https://2001online.com/nacionales/antonio-ecarri-cierra-campana-y-llama-a-votar-masivamente-el-28jul/",
+        "date": "2024-07-24 20:49:16",
+        "sentiment_score": 0.10876218229532242
+    },
+    {
+        "title": "EEUU: Cómo tramitar la Real ID en Oregon antes de la fecha límite (+Pasos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Real-ID-1063x720.jpg",
+        "tags": [
+            "internacionales",
+            "real id",
+            "eeuu",
+            "oregon"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-como-tramitar-la-real-id-en-oregon-antes-de-la-fecha-limite-pasos/",
+        "date": "2024-07-24 20:43:17",
+        "sentiment_score": 0.0822722464799881
+    },
+    {
+        "title": "Cheque de estímulo en California por $12.000: Cómo cobrarlo (+Requisitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/cheque-estimulo-california.jpeg",
+        "tags": [
+            "internacionales",
+            "eeuu",
+            "cheque de estímulo",
+            "california"
+        ],
+        "link": "https://2001online.com/internacionales/cheque-de-estimulo-en-california-por-12000-como-cobrarlo-requisitos/",
+        "date": "2024-07-24 20:30:00",
+        "sentiment_score": 0.3856097012758255
+    },
+    {
+        "title": "EEUU | Conozca los nuevos requisitos para recibir cupones SNAP (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/SNAP-2-1200x720.jpg",
+        "tags": [
+            "internacionales",
+            "eeuu",
+            "cupones snap",
+            "nuevos requisitos laborales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-conozca-los-nuevos-requisitos-para-recibir-cupones-snap-detalles/",
+        "date": "2024-07-24 20:25:04",
+        "sentiment_score": 0.20689444802701473
+    },
+    {
+        "title": "EEUU: Los empleos mejor pagados de Florida de hasta $143.000 al año (+Lista)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/06/empleo-1-1280x720.jpg",
+        "tags": [
+            "internacionales",
+            "empleos",
+            "eeuu",
+            "florida"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-los-empleos-mejor-pagados-de-florida-de-hasta-143-000-al-ano-lista/",
+        "date": "2024-07-24 20:08:56",
+        "sentiment_score": 0.7901028841733932
+    },
+    {
+        "title": "Nadia Franco comprueba la versatilidad laboral de un profesional de la administración actual",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/3-2-1200x720.png",
+        "tags": [
+            "migración"
+        ],
+        "link": "https://2001online.com/migracion/nadia-franco-comprueba-la-versatilidad-laboral-de-un-profesional-de-la-administracion-actual/",
+        "date": "2024-07-24 20:08:22",
+        "sentiment_score": 0.5027571991086006
+    },
+    {
+        "title": "Venezuela firma acuerdo energético con Trinidad y Tobago (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-461.png",
+        "tags": [
+            "nacionales",
+            "venezuela firma acuerdo energético con trinidad y tobago (+detalles)"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-firma-acuerdo-energetico-con-trinidad-y-tobago/",
+        "date": "2024-07-24 20:04:10",
+        "sentiment_score": 0.01756548136472702
+    },
+    {
+        "title": "Chavismo cierra campaña en Caracas este 25Jul (+RUTA DE PARTIDA)",
+        "image_url": "https://2001online.com/wp-content/uploads/2023/02/psuv-1.jpg",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/chavismo-cierra-campana-en-caracas-este-25jul-ruta-de-partida/",
+        "date": "2024-07-24 19:58:05",
+        "sentiment_score": -0.005175381898880005
     }
 ];
