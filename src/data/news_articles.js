@@ -206,16 +206,6 @@ export default [
         "sentiment_score": -0.21055978536605835
     },
     {
-        "title": "Un nuevo estudio busca reducir las muertes por cáncer colorrectal en Estados Unidos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/39730945-06295727-generated-thumbnail.jpg?quality=100&strip=info",
-        "tags": [
-            "health"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/muertes-cancer-colorrectal-minuto-de-salud/",
-        "date": "2024-07-24 17:33:51",
-        "sentiment_score": -0.06631839275360107
-    },
-    {
         "title": "Santo Patrón de España",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/santiago-compostela-peregrinos-RdmplAsLfAxLycpNBFthcZK-758x531@diario_abc.jpg",
         "tags": [
@@ -266,56 +256,6 @@ export default [
         "sentiment_score": -0.30173610150814056
     },
     {
-        "title": "El tirador que intentó matar a Trump buscó en Google detalles sobre el asesinato de John F. Kennedy, según el FBI",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/24/FBI-kZuF-U602883135625UXE-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/tirador-intento-matar-trump-busco-google-detalles-20240724195538-nt.html",
-        "date": "2024-07-24 17:57:41",
-        "sentiment_score": -0.2636549025774002
-    },
-    {
-        "title": "Bruselas vuelve a dejar en el aire la fusión de Iberia y Air Europa",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/24/1484059686-RcEdJjGpv0mOJGTGU7cBu6L-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bruselas-vuelve-dejar-aire-fusion-iberia-air-20240724193045-nt.html",
-        "date": "2024-07-24 17:31:33",
-        "sentiment_score": -0.11724737286567688
-    },
-    {
-        "title": "La juguetería de Igualdad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/1484005366-U87388075361ivq-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/angel-antonio-herrera-jugueteria-igualdad-20240725192318-nt.html",
-        "date": "2024-07-24 17:23:18",
-        "sentiment_score": -0.1380731165409088
-    },
-    {
-        "title": "Un año del 23J, seis de escandalera",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/1483806922-RjbZ1l4HNtCRzCMGlhLt4jM-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/juan-fernandezmiranda-ano-23j-seis-escandalera-20240725192300-nt.html",
-        "date": "2024-07-24 17:23:01",
-        "sentiment_score": -0.09255668520927429
-    },
-    {
-        "title": "Que viene la ola",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/1484015985-U41740725356ghW-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/berta-gonzalez-de-vega-viene-ola-20240725192248-nt.html",
-        "date": "2024-07-24 17:22:48",
-        "sentiment_score": -0.12280172109603882
-    },
-    {
         "title": "Al menos 15 personas mueren en el naufragio de un cayuco que partió de Gambia hacia Canarias",
         "image_url": "https://imagenes.elpais.com/resizer/v2/X53QO65K6VEWRDX5G2BMAW2XKU.jpg?auth=594e7adc6241522b290b526276de9d3036c336698991cb5719f51c9bd661747e",
         "tags": [
@@ -324,52 +264,6 @@ export default [
         "link": "https://elpais.com/espana/2024-07-24/al-menos-15-personas-mueren-en-el-naufragio-de-un-cayuco-que-partio-de-gambia-hacia-canarias.html",
         "date": "2024-07-24 19:38:38",
         "sentiment_score": -0.7517698220908642
-    },
-    {
-        "title": "Los cuatro ‘ultras’ condenados por apalear a un manifestante independentista piden la amnistía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PYNEQFQ6B5ELHCRGH446MRSMBU.jpg?auth=371aa268bf59d69f5a01cbbaa34b7bd2098f1a36c547a0a673bc188e03ce265f",
-        "tags": [
-            "ley de amnistía",
-            "sentencia procés",
-            "juicio al procés",
-            "sentencias condenatorias",
-            "cataluña",
-            "ultras"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-24/los-cuatro-ultras-condenados-por-apalear-a-un-manifestante-independentista-piden-la-amnistia.html",
-        "date": "2024-07-24 18:09:55",
-        "sentiment_score": 0.04862715303897858
-    },
-    {
-        "title": "Detenida la conductora de una furgoneta que causó un accidente con tres muertos en la C-37",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KLSYQ32RGZFXLNNDYPWLUR2EWE?auth=cb258390748bee02505d09b417cc52f6e8de0d340725391bc711a06c1fa4af86",
-        "tags": [
-            "sucesos",
-            "cataluña",
-            "mossos d'esquadra",
-            "accidentes tráfico",
-            "tráfico"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-24/detenida-la-conductora-de-una-furgoneta-que-causo-un-accidente-con-tres-muertos-en-la-c-37.html",
-        "date": "2024-07-24 17:49:19",
-        "sentiment_score": -0.5291832163929939
-    },
-    {
-        "title": "Valencia y el Gobierno acuerdan invertir 250 millones para el soterramiento parcial de las vías de Serrería",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VY35V4VXB3HHE6AR32W4IJ3S6A.jpg?auth=b96b5375a170ae8d26f8f0085fade8c3e7ee826f45f965a30098498563201aca",
-        "tags": [
-            "óscar puente santiago",
-            "vías ferroviarias",
-            "trenes",
-            "comunidad valenciana",
-            "urbanismo",
-            "maría josé catalá",
-            "infraestructuras del transporte",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-24/valencia-y-el-gobierno-acuerdan-invertir-250-millones-para-el-soterramiento-parcial-de-las-vias-de-serreria.html",
-        "date": "2024-07-24 16:33:13",
-        "sentiment_score": 0.3911348208785057
     },
     {
         "title": "¿Qué pasaría si Donald Trump cierra la frontera? Esto advierte López Obrador",
@@ -1106,5 +1000,148 @@ export default [
         "link": "https://elpais.com/espana/2024-07-25/video-el-pacto-judicial-un-mirlo-blanco-en-las-relaciones-pp-psoe-asi-llegaron-a-grandes-acuerdos-en-el-pasado-los-dos-partidos.html",
         "date": "2024-07-25 03:15:00",
         "sentiment_score": -0.19216981530189514
+    },
+    {
+        "title": "Tipo de cambio: precio del euro frente al dólar hoy 25 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/SAXE3HYNMFHZHACF2TPTNPSWHQ.jpg?auth=b30f0e34d628e05b5a765cc37d185df5a5199c284ad67c7998ba25d80fdf2b9b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/tipo-de-cambio-precio-del-euro-frente-al-dolar-hoy-25-de-julio/",
+        "date": "2024-07-25 05:15:25",
+        "sentiment_score": -0.22137631475925446
+    },
+    {
+        "title": "¿Por qué no ahorramos? El descuento hiperbólico o por qué preferimos 300 euros hoy a 340 dentro de un mes",
+        "image_url": "https://www.infobae.com/resizer/v2/TMP3JEBOCRGLREW2GSD2RLP3QE.png?auth=96e365900aa4e7514586ea9b872e10b3d3e2730a2b75235d6adb02d492974078",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/por-que-no-ahorramos-el-descuento-hiperbolico-o-por-que-preferimos-300-euros-hoy-a-340-dentro-de-un-mes/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": 0.5101727247238159
+    },
+    {
+        "title": "Cuenta atrás para el final del Neptuno, el buque nodriza de los submarinos de la Armada que nació como remolcador de plataformas petrolíferas",
+        "image_url": "https://www.infobae.com/resizer/v2/KHQOSHGD2VC7FLDCFJUXELXO7Y.jpg?auth=022fafa3951b424c542a18f48aa101ef2749b86c28e68a4352bd309a018b4f4a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/cuenta-atras-para-el-final-del-neptuno-el-buque-nodriza-de-los-submarinos-de-la-armada-que-nacio-como-remolcador-de-plataformas-petroliferas/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": 0.32632795721292496
+    },
+    {
+        "title": "El increíble pueblo costero que combina historia, cultura y mar: tiene impresionantes playas de arena fina y agua cristalina",
+        "image_url": "https://www.infobae.com/resizer/v2/USEAFN4RNFH57BYYV43TU323RQ.jpg?auth=52bd24f0ddd27d0c1d76b48b4dc96cd2725f599ac62d53650028041a7e770db7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2024/07/25/el-increible-pueblo-costero-que-combina-historia-cultura-y-mar-tiene-impresionantes-playas-de-arena-fina-y-agua-cristalina/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": 0.7511830776929855
+    },
+    {
+        "title": "Sánchez cumple con ERC y PNV frente a la “hostia” de Junts: cierra más traspasos a Cataluña y amplía las funciones de la Ertzaintza",
+        "image_url": "https://www.infobae.com/resizer/v2/XZCMPWAN3JH2XNPW6UOLG52H34.jpg?auth=6d721ee92e6ec917f1770a94c923af835872773ec1098ca4de5a1c97e1d51473",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/sanchez-cumple-con-erc-y-pnv-frente-a-la-hostia-de-junts-cierra-mas-traspasos-a-cataluna-y-amplia-las-funciones-de-la-ertzaintza/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": -0.8506869785487652
+    },
+    {
+        "title": "Qué deportista español ha participado en más ediciones de los Juegos Olímpicos",
+        "image_url": "https://www.infobae.com/resizer/v2/SI5POKY5QFFHLOO653Q64JDZF4.jpg?auth=ff555409d14095549e885a2d6050ebd5d4795f5a607d0dc267c40126f6dd34d6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/07/25/que-deportista-espanol-ha-participado-en-mas-ediciones-de-los-juegos-olimpicos/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": 0.29211851209402084
+    },
+    {
+        "title": "El espectacular palacio renacentista que está en una ciudad Patrimonio de la Humanidad: fue un convento y ahora es la sede del Ayuntamiento",
+        "image_url": "https://www.infobae.com/resizer/v2/L4OALHCXJZD2JHM53ZEAV73OTU.jpg?auth=aca325602ae4bd4cedd5c70813a3789793fe03dc6579186b67df75e847053c4a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2024/07/25/el-espectacular-palacio-renacentista-que-esta-en-una-ciudad-patrimonio-de-la-humanidad-fue-un-convento-y-ahora-es-la-sede-del-ayuntamiento/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": 0.048772573471069336
+    },
+    {
+        "title": "Aceite de oliva virgen extra: propiedades y beneficios del ‘superalimento’ español cuida el corazón",
+        "image_url": "https://www.infobae.com/resizer/v2/HSVFBYHQTNDYFB73C3272OLKDM.jpg?auth=b6ea7ef33c1af218661cf6ed7a3fc1f6a4d04701dc19581bb5df6377ac06d51d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/aceite-de-oliva-virgen-extra-aove-propiedades-y-beneficios-del-superalimento-espanol-cuida-el-corazon/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": -0.32774849236011505
+    },
+    {
+        "title": "La selección femenina de fútbol debuta en París: de ganar el Mundial y el beso no consentido de Rubiales a Montse Tomé y el objetivo de los Juegos Olímpicos",
+        "image_url": "https://www.infobae.com/resizer/v2/APH4LUJ6JNFN5LDB5DQTAYITY4.jpg?auth=9a73df8a9773eac903900a1e4a07c3be680764a1a65ed828f2d5737bc4824f12",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/07/25/la-seleccion-femenina-de-futbol-debuta-en-paris-de-ganar-el-mundial-y-el-beso-no-consentido-de-rubiales-a-montse-tome-y-el-objetivo-de-los-juegos-olimpicos/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": 0.2574409693479538
+    },
+    {
+        "title": "Spotify tiene un DJ particular para ti: así funciona la nueva herramienta que utiliza Inteligencia Artificial",
+        "image_url": "https://www.infobae.com/resizer/v2/IZSKP3PIV5GHDEQTPRGYJ446IM.jpg?auth=e35e77376eda5bc66b2004c496c8d08ae3021613ca54520e5c343ead50151160",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/07/25/spotify-tiene-un-dj-particular-para-ti-asi-funciona-la-nueva-herramienta-que-utiliza-inteligencia-artificial/",
+        "date": "2024-07-25 05:00:02",
+        "sentiment_score": 0.5078179650008678
+    },
+    {
+        "title": "Suspenden los vuelos en el aeropuerto de Frankfurt debido a una manifestación",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/03/aeropuerto-frankfurt.jpg?quality=100&strip=info",
+        "tags": [
+            "vuelos cancelados",
+            "aviación"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/suspenden-los-vuelos-en-el-aeropuerto-de-frankfurt-debido-a-manifestacion-trax/",
+        "date": "2024-07-25 05:17:10",
+        "sentiment_score": -0.6840374208986759
+    },
+    {
+        "title": "El Tribunal Superior Electoral de Brasil cancela envío de observadores electorales a Venezuela en reclamo por dichos de Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162327819.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/tribunal-superior-electoral-brasil-cancela-envio-observadores-electorales-venezuela-en-reclamo-dichos-maduro-orix/",
+        "date": "2024-07-25 05:10:32",
+        "sentiment_score": -0.863251662813127
+    },
+    {
+        "title": "Erdogan corteja al \"terrorista\" Bashar Al-Assad entre presiones para resolver el \"problema sirio\" de Turquía",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Erdogan-Turquia-Assad-Siria.jpeg?quality=100&strip=info",
+        "tags": [
+            "asia",
+            "turquía siria"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/erdogan-corteja-terrorista-assad-resolver-problema-sirio-turquia-trax/",
+        "date": "2024-07-25 04:50:57",
+        "sentiment_score": -0.7164747640490532
+    },
+    {
+        "title": "Un estudio demuestra que beber con moderación no alarga la vida",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/07/24/avion-alcohol--758x531.jpeg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/revision-concluye-estudios-sobre-beneficios-consumo-moderado-20240724150233-nt.html",
+        "date": "2024-07-25 05:41:00",
+        "sentiment_score": -0.11747673153877258
     }
 ];
