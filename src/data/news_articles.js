@@ -172,40 +172,6 @@ export default [
         "sentiment_score": -0.5517574306577444
     },
     {
-        "title": "“Me despojaron de mi dignidad”, video muestra el momento en que sacan a Terrell Davis de un avión",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-terrel.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/terrel-davis-vuelo-united-arlines-ush-trax/",
-        "date": "2024-07-24 19:10:00",
-        "sentiment_score": -0.6208646632730961
-    },
-    {
-        "title": "Acciones de Tesla se desploman más del 40% tras caída de beneficios",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/adobestock-447756667-editorial-use-only.jpeg?quality=100&strip=info",
-        "tags": [
-            "business"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/tesla-acciones-desploman-competencia-caida-ganancias-cnn-dinero-tv/",
-        "date": "2024-07-24 18:50:11",
-        "sentiment_score": 0.3087153285741806
-    },
-    {
-        "title": "Encuesta CNN: Harris mejora los resultados de Biden frente a Trump en un primer sondeo al nuevo enfrentamiento",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/kamala-harris-elecciones-ee-uu-trump-e1721838204995.webp",
-        "tags": [
-            "elecciones en estados unidos",
-            "encuesta cnn",
-            "elecciones estados unidos",
-            "instanoticias",
-            "kamala harris"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/encuesta-cnn-harris-mejora-desempeno-biden-trump-primer-sondeo-trax/",
-        "date": "2024-07-24 18:43:51",
-        "sentiment_score": -0.21055978536605835
-    },
-    {
         "title": "Santo Patrón de España",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/25/santiago-compostela-peregrinos-RdmplAsLfAxLycpNBFthcZK-758x531@diario_abc.jpg",
         "tags": [
@@ -244,16 +210,6 @@ export default [
         "link": "https://www.abc.es/opinion/editorial-abc-supremo-obliga-pumpido-retratarse-20240725215200-nt.html",
         "date": "2024-07-24 19:52:00",
         "sentiment_score": -0.13327303528785706
-    },
-    {
-        "title": "¿Empresas sistémicas?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/25/crowd-kVQG--1200x630@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/john-muller-empresas-sistemicas-20240725203454-nt.html",
-        "date": "2024-07-24 18:35:14",
-        "sentiment_score": -0.30173610150814056
     },
     {
         "title": "Al menos 15 personas mueren en el naufragio de un cayuco que partió de Gambia hacia Canarias",
@@ -1143,5 +1099,82 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/revision-concluye-estudios-sobre-beneficios-consumo-moderado-20240724150233-nt.html",
         "date": "2024-07-25 05:41:00",
         "sentiment_score": -0.11747673153877258
+    },
+    {
+        "title": "¿Es necesario el carnet de conducir para ser policía nacional?",
+        "image_url": "https://www.infobae.com/resizer/v2/MMRXBUEHMFBO7G3PTBAVAV7RCU.jpg?auth=e634880c6e95045b10984002dfc5a1290449d1cb781d4655a8c62659a309a4ef",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/es-necesario-el-carnet-de-conducir-para-ser-policia-nacional/",
+        "date": "2024-07-25 07:01:36",
+        "sentiment_score": 0.02775326371192932
+    },
+    {
+        "title": "Vinagre de manzana: propiedades y beneficios del alimento que es bajo en calorías y reduce el colesterol",
+        "image_url": "https://www.infobae.com/resizer/v2/NGTPTTFVBVF2JBF3FWKHPAADVQ.jpg?auth=7af27e1742d76d79388e2486f88f81d9c0e727993a7b118129d85499d68b05fa",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/vinagre-de-manzana-propiedades-y-beneficios-del-alimento-que-es-bajo-en-calorias-y-reduce-el-colesterol/",
+        "date": "2024-07-25 06:54:44",
+        "sentiment_score": 0.21058721095323563
+    },
+    {
+        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 25 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/34UEVS5QT5BDTPD2TLHN47M4OQ.jpg?auth=57b12c39eae71d322c74bdc7670e4804d284de070968ee3bee27235b8fc45277",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-25-de-julio/",
+        "date": "2024-07-25 06:31:21",
+        "sentiment_score": -0.07317215204238892
+    },
+    {
+        "title": "Los videos de la Policía golpeando a hombres en el aeropuerto del Reino Unido provocan indignación mientras la fuerza se presenta ante el organismo de control",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/manifestantes-afuera.webp",
+        "tags": [
+            "reino unido",
+            "policía británica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/videos-policia-golpeando-a-hombres-aeropuerto-reino-unido-provocan-indignacion-mientras-fuerza-presenta-organismo-control-trax/",
+        "date": "2024-07-25 07:08:16",
+        "sentiment_score": -0.8669989248737693
+    },
+    {
+        "title": "El reclutamiento en línea del ISIS-K supone una amenaza para la seguridad de Occidente antes de los Juegos Olímpicos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Juegos-olimpicos-paris-isisk-e1721885646159.jpeg?quality=100&strip=info",
+        "tags": [
+            "juegos olímpicos de parís 2024",
+            "isis-k",
+            "europa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/reclutamiento-isis-k-amenaza-seguridad-occidente-antes-juegos-olimpicos-paris-trax/",
+        "date": "2024-07-25 06:26:58",
+        "sentiment_score": -0.8936917167156935
+    },
+    {
+        "title": "Jorge Alcocer: coalición de Morena, PT y PVEM debe recibir un máximo de 300 diputados, ni uno más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2020/10/190225102139-mexico-guardia-nacional-amlo-senado-pkg-krupskaia-alis-00015611-full-169.jpg?quality=100&strip=info",
+        "tags": [
+            "política",
+            "aristegui",
+            "méxico",
+            "análisis",
+            "congreso"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/oficialismo-congreso-partidos/",
+        "date": "2024-07-25 06:24:29",
+        "sentiment_score": -0.21854209899902344
+    },
+    {
+        "title": "El Artículo 54 de la Constitución fue un avance para la democracia, opina experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/cnne-1382520-que-iniciativas-aprobaron-los-diputados-de-mexico-en-sesion-maratonica_6f2ce3.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/coalicion-partidos-diputados/",
+        "date": "2024-07-25 06:16:35",
+        "sentiment_score": 0.07209746539592743
     }
 ];
