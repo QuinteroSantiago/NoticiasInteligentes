@@ -687,5 +687,69 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/tarek-william-saab-elecciones-redaccion-buenos-aires-sot/",
         "date": "2024-07-24 22:27:42",
         "sentiment_score": 0.14319662749767303
+    },
+    {
+        "title": "ONG denuncia bloqueo a una decena de portales informativos en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ong-bloqueos-medios-digitales-venezuela-elecciones.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/ong-denuncia-bloqueo-portales-informativos-venezuela-orix/",
+        "date": "2024-07-25 00:20:44",
+        "sentiment_score": -0.691396564245224
+    },
+    {
+        "title": "Palestinos atrapados entre Israel y Hamas describen una situación terrible",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20810725-73440-591-still.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/palestinos-atrapados-israel-hamas-trax/",
+        "date": "2024-07-25 00:19:00",
+        "sentiment_score": -0.8626836249604821
+    },
+    {
+        "title": "¿Qué es una explosión hidrotermal, como la que se registró en Yellowstone?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/yellowstone-explosion-hidrotermal-parque-nacional-orix-00-00-34-22-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/yellowstone-explosion-hidrotermal-parque-nacional-orix/",
+        "date": "2024-07-25 00:13:46",
+        "sentiment_score": -0.14663510769605637
+    },
+    {
+        "title": "Un nuevo método que combina la IA con información satelital podría predecir incendios forestales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/video1483342864-00-03-00-07-imagen-fija002.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ia-incendios-forestlaes-usc-ush-orix/",
+        "date": "2024-07-24 23:29:58",
+        "sentiment_score": 0.43155957013368607
+    },
+    {
+        "title": "Siguen las comparecencias para aclarar qué pasó en el intento de magnicidio contra Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161353780.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-fbi-magnicidio-congreso-investigacion-dusa-tv/",
+        "date": "2024-07-24 23:19:20",
+        "sentiment_score": -0.2225949726998806
+    },
+    {
+        "title": "Así fue la votación en las últimas dos elecciones presidenciales de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/maduro-capriles-falcon-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "henrique capriles",
+            "elecciones en venezuela",
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/votacion-ultimas-dos-elecciones-presidenciales-venezuela-orix/",
+        "date": "2024-07-24 23:18:16",
+        "sentiment_score": 0.1374680995941162
     }
 ];
