@@ -30,27 +30,6 @@ export default [
         "sentiment_score": -0.4802642557770014
     },
     {
-        "title": "0-0. Osasuna empata a cero con el Huesca en el segundo amistoso de la pretemporada",
-        "image_url": "./assets/ai_generated/v1_txt2img_862dab4402844fa79eb8fce4142e868b.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/0-0-osasuna-empata-a-cero-con-el-huesca-en-el-segundo-amistoso-de-la-pretemporada/",
-        "date": "2024-07-24 21:34:22",
-        "sentiment_score": 0.1904335916042328
-    },
-    {
-        "title": "Trump dice que México está controlado por cárteles y que el Gobierno está \"petrificado\" por temor a ellos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2162235596_ea7c29.jpg?quality=100&strip=info",
-        "tags": [
-            "méxico",
-            "donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/trum-vance-entrevista-fox-mexico-carteles-orix/",
-        "date": "2024-07-24 22:11:12",
-        "sentiment_score": -0.8240123819559813
-    },
-    {
         "title": "Argentina coloca deuda en el mercado doméstico por valor de 4.316,3 millones de euros",
         "image_url": "./assets/ai_generated/v1_txt2img_7766f94ae9af444ca9b13de9677bf7c3.png",
         "tags": [
@@ -1078,5 +1057,151 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-07-25/un-peritaje-determinara-si-las-obras-en-la-mejor-biblioteca-del-mundo-la-garcia-marquez-entran-en-la-garantia.html",
         "date": "2024-07-25 08:23:00",
         "sentiment_score": -0.738113658502698
+    },
+    {
+        "title": "Jorge Javier Vázquez renueva su contrato con Mediaset y asegura su futuro en la cadena hasta 2027",
+        "image_url": "https://www.infobae.com/resizer/v2/ALA44SIKPRH6LJDCXYIBP3PYUY.jpg?auth=4532d22edf331112de57b932b56bc62d0641a1843f76d2cf6b430415a3b2ecd9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/jorge-javier-vazquez-renueva-su-contrato-con-mediaset-y-asegura-su-futuro-en-la-cadena-hasta-2027/",
+        "date": "2024-07-25 10:11:26",
+        "sentiment_score": 0.31207307800650597
+    },
+    {
+        "title": "El sueldo de los empleados de Alcampo en 2024: un salario base de cerca de 16.000 euros al año",
+        "image_url": "https://www.infobae.com/resizer/v2/WMJSHM2L6RA7DFOUHWG2F4ZOWE.png?auth=e9deb13397e894e9c24dd2f046d1088a8c9c6165c0eeb39059a4258cadcb6ef5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/el-sueldo-de-los-empleados-de-alcampo-en-2024-un-salario-base-de-cerca-de-16000-euros-al-ano/",
+        "date": "2024-07-25 10:10:01",
+        "sentiment_score": 0.09569579362869263
+    },
+    {
+        "title": "Egipto sube hasta un 15 % el precio de combustible en su retirada gradual de subsidios",
+        "image_url": "./assets/ai_generated/v1_txt2img_7919e039ab984fc48ee03741b997ac6c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/egipto-sube-hasta-un-15-el-precio-de-combustible-en-su-retirada-gradual-de-subsidios/",
+        "date": "2024-07-25 10:09:08",
+        "sentiment_score": -0.044304072856903076
+    },
+    {
+        "title": "AstraZeneca ganó 4.108 millones de dólares en el primer semestre, un 13 % más",
+        "image_url": "./assets/ai_generated/v1_txt2img_64ee9cdf18ec45e1b2a623cb4e0e3167.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/astrazeneca-gano-4108-millones-de-dolares-en-el-primer-semestre-un-13-mas/",
+        "date": "2024-07-25 10:08:51",
+        "sentiment_score": 0.567858599126339
+    },
+    {
+        "title": "La cadena Party Fiesta va a liquidación y despide a 140 personas",
+        "image_url": "./assets/ai_generated/v1_txt2img_f83ee26cedc54a7bbf0389c22bcab885.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-cadena-party-fiesta-va-a-liquidacion-y-despide-a-140-personas/",
+        "date": "2024-07-25 10:08:34",
+        "sentiment_score": -0.8017244935035706
+    },
+    {
+        "title": "El beneficio semestral de Sanofi bajó un 34,5 % a 2.246 millones de euros",
+        "image_url": "./assets/ai_generated/v1_txt2img_8be240efbd964abea856d056a6be9dbf.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-beneficio-semestral-de-sanofi-bajo-un-345-a-2246-millones-de-euros/",
+        "date": "2024-07-25 10:08:17",
+        "sentiment_score": 0.4522404223680496
+    },
+    {
+        "title": "El beneficio semestral de Neste se desploma un 96 % hasta los 18 millones de euros",
+        "image_url": "./assets/ai_generated/v1_txt2img_22cc10596f32451b887a84afe44fdc72.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-beneficio-semestral-de-neste-se-desploma-un-96-hasta-los-18-millones-de-euros/",
+        "date": "2024-07-25 10:08:00",
+        "sentiment_score": 0.1908659189939499
+    },
+    {
+        "title": "Cuánto dinero se cobra por medalla de oro en los Juegos Olímpicos de París 2024",
+        "image_url": "https://www.infobae.com/resizer/v2/6X2LC7GSGI3LVUG2WQBHWYQX7Q.jpg?auth=f4716542b2bbe7d0d214e85071a6e77559835c983806401ce97cc65f6fba5455",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/07/25/cuanto-dinero-se-cobra-por-medalla-de-oro-en-los-juegos-olimpicos-de-paris-2024/",
+        "date": "2024-07-25 10:07:56",
+        "sentiment_score": 0.3813297227025032
+    },
+    {
+        "title": "La confianza empresarial en Alemania cae considerablemente en julio por la economía",
+        "image_url": "./assets/ai_generated/v1_txt2img_8f6ecdf64b9d4b7faaffb87a25ed8163.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-confianza-empresarial-en-alemania-cae-considerablemente-en-julio-por-la-economia/",
+        "date": "2024-07-25 10:07:43",
+        "sentiment_score": 0.6104095615446568
+    },
+    {
+        "title": "Patronal EuroCommerce pide a la UE que retrase su ley contra la deforestación importada",
+        "image_url": "./assets/ai_generated/v1_txt2img_c211e0798caf4cdcbda359ece120e20a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/patronal-eurocommerce-pide-a-la-ue-que-retrase-su-ley-contra-la-deforestacion-importada/",
+        "date": "2024-07-25 10:07:25",
+        "sentiment_score": -0.7844152972102165
+    },
+    {
+        "title": "Las 5 cosas que debes saber este 25 de julio: Así le ha ido a Venezuela con Maduro en el poder",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2105334774-e1711406356912.webp",
+        "tags": [
+            "5 cosas",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/5-cosas-25-julio-venezuela-maduro-orix/",
+        "date": "2024-07-25 09:58:43",
+        "sentiment_score": -0.1599900722503662
+    },
+    {
+        "title": "La demanda por difamación de Andrew Tate contra su acusadora por trata de seres humanos puede seguir adelante, dice un juez",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Andrew-Tate-e1721896973455.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "misoginia",
+            "tráfico de personas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/andrew-tate-demanda-difamacion-acusadora-trata-personas-adelante-ap/",
+        "date": "2024-07-25 09:48:35",
+        "sentiment_score": -0.5530653186142445
+    },
+    {
+        "title": "China recibe esta semana a delegaciones palestinas y ucranianas. Pero, ¿puede desempeñar el papel de agente de paz en los conflictos mundiales?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/China-Palestinian-factions-at-the-Diaoyutai-State.jpg?quality=100&strip=info",
+        "tags": [
+            "guerra isael hamas",
+            "análisis",
+            "guerra de rusia en ucrania",
+            "china"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/china-delegaciones-palestina-ucrania-agente-paz-conflictos-mundiales-trax/",
+        "date": "2024-07-25 09:44:55",
+        "sentiment_score": -0.7856587320566177
+    },
+    {
+        "title": "Alemania recluta para su Ejército casi 2.000 menores al año",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/25/pistorius-Rt3Vfi38mmPdhBJkM6JhiyH-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/alemania-recluta-ejercito-2000-menores-ano-20240725120956-nt.html",
+        "date": "2024-07-25 10:09:56",
+        "sentiment_score": -0.08591631054878235
     }
 ];
