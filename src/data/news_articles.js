@@ -40,66 +40,6 @@ export default [
         "sentiment_score": 0.1904335916042328
     },
     {
-        "title": "La ministra británica de Economía dirá en G20 que su país está de nuevo abierto a negocios",
-        "image_url": "./assets/ai_generated/v1_txt2img_9eba2c23862d45b187bff53b11758d97.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/la-ministra-britanica-de-economia-dira-en-g20-que-su-pais-esta-de-nuevo-abierto-a-negocios/",
-        "date": "2024-07-24 21:19:50",
-        "sentiment_score": 0.5609550923109055
-    },
-    {
-        "title": "Nota rectificatoria",
-        "image_url": "./assets/ai_generated/v1_txt2img_95a91c8b4b144dffb16fa78b5e25a2e2.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/nota-rectificatoria/",
-        "date": "2024-07-24 21:19:12",
-        "sentiment_score": -0.08232426643371582
-    },
-    {
-        "title": "El accidente de un camión obliga a cortar la A-52 sentido Benavente en la operación salida",
-        "image_url": "./assets/ai_generated/v1_txt2img_c8831dc235b146a58a578ed108a830a3.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/el-accidente-de-un-camion-obliga-a-cortar-la-a-52-sentido-benavente-en-la-operacion-salida/",
-        "date": "2024-07-24 21:02:45",
-        "sentiment_score": -0.6942395716905594
-    },
-    {
-        "title": "Lotería 6/49: jugada ganadora y resultado del último sorteo",
-        "image_url": "https://www.infobae.com/resizer/v2/WMVKE4HDFZAD5BHEA2A35RV5FU.jpg?auth=fe2d6c26ca92172f7659440b81f964b512a3afb263ece5c3642d40cda4004b78",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/24/loteria-649-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
-        "date": "2024-07-24 21:00:26",
-        "sentiment_score": 0.46823830530047417
-    },
-    {
-        "title": "Valverde: \"En Burgos nos sobró espesura, contra el Racing hemos tenido más calidad\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_ee505a6946324c0cafbcf2a97c2c2f02.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/valverde-en-burgos-nos-sobro-espesura-contra-el-racing-hemos-tenido-mas-calidad/",
-        "date": "2024-07-24 20:48:51",
-        "sentiment_score": 0.563706211745739
-    },
-    {
-        "title": "Estabilizado el incendio de El Pueyo de Araguás tras calcinar 150 hectáreas",
-        "image_url": "./assets/ai_generated/v1_txt2img_eb6c48b7c61f4c4897645357753a8ab6.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/24/estabilizado-el-incendio-de-el-pueyo-de-araguas-tras-calcinar-150-hectareas/",
-        "date": "2024-07-24 20:48:15",
-        "sentiment_score": -0.7421957589685917
-    },
-    {
         "title": "Trump dice que México está controlado por cárteles y que el Gobierno está \"petrificado\" por temor a ellos",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2162235596_ea7c29.jpg?quality=100&strip=info",
         "tags": [
@@ -109,126 +49,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/07/24/trum-vance-entrevista-fox-mexico-carteles-orix/",
         "date": "2024-07-24 22:11:12",
         "sentiment_score": -0.8240123819559813
-    },
-    {
-        "title": "Colonos israelíes atacan a granjeros palestinos y activistas extranjeros en la Ribera Occidental",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still_20810791_11492.665_still.jpg?quality=100&strip=info",
-        "tags": [
-            "conflicto israel y palestina",
-            "medio oriente",
-            "israel noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/colonos-israel-granjeros-palestinos-activistas-trax/",
-        "date": "2024-07-24 21:01:11",
-        "sentiment_score": -0.7443843893706799
-    },
-    {
-        "title": "Por qué muchos venezolanos que viven en Perú deben viajar a Venezuela a votar",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1236717439-1.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "elecciones en venezuela",
-            "perú"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/venezolanos-peru-viajar-venezuela-votar-elecciones-2024-orix/",
-        "date": "2024-07-24 20:53:49",
-        "sentiment_score": -0.21057361364364624
-    },
-    {
-        "title": "El atacante de Trump buscó detalles del asesinato de JFK y voló un dron cerca del lugar del mitin de campaña, dice el FBI",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2162669106.jpg?quality=100&strip=info",
-        "tags": [
-            "fbi",
-            "noticias de donald trump",
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/24/atacante-trump-investigacion-fbi-audiencia-congreso-trax/",
-        "date": "2024-07-24 20:31:48",
-        "sentiment_score": -0.5591352339833975
-    },
-    {
-        "title": "¿Qué pasaría si Donald Trump cierra la frontera? Esto advierte López Obrador",
-        "image_url": "./assets/ai_generated/v1_txt2img_4b3b7f36279149d7a4a247b8139cc2bf.png",
-        "tags": [
-            "donald trump",
-            "amlo",
-            "migración"
-        ],
-        "link": "https://2001online.com/migracion/que-pasaria-si-donald-trump-cierra-la-frontera-esto-advierte-lopez-obrador/",
-        "date": "2024-07-24 21:00:00",
-        "sentiment_score": -0.1726038157939911
-    },
-    {
-        "title": "¿Qué tarjetas funcionan para hacer compras internacionales desde Venezuela?",
-        "image_url": "https://pxcdn.meridiano.net/052024/1716380413347/tarjetas-de-credito-TDC.jpg?cw=807",
-        "tags": [
-            "bancos",
-            "bancos vnezolanos",
-            "servicios",
-            "tarjetas",
-            "compras internacionales"
-        ],
-        "link": "https://2001online.com/servicios/que-tarjetas-funcionan-para-hacer-compras-internacionales-desde-venezuela/",
-        "date": "2024-07-24 21:00:00",
-        "sentiment_score": 0.050973858684301376
-    },
-    {
-        "title": "Antonio Ecarri cierra campaña y llama a votar masivamente el #28Jul",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Foto-cortesia-33.jpg",
-        "tags": [
-            "venezuela",
-            "nacionales",
-            "presidenciales en venezuela",
-            "antonio ecarri",
-            "caracas",
-            "#28jul",
-            "28 de julio",
-            "eeuu",
-            "elecciones en venezuela",
-            "2001online"
-        ],
-        "link": "https://2001online.com/nacionales/antonio-ecarri-cierra-campana-y-llama-a-votar-masivamente-el-28jul/",
-        "date": "2024-07-24 20:49:16",
-        "sentiment_score": 0.10876218229532242
-    },
-    {
-        "title": "EEUU: Cómo tramitar la Real ID en Oregon antes de la fecha límite (+Pasos)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Real-ID-1063x720.jpg",
-        "tags": [
-            "internacionales",
-            "real id",
-            "eeuu",
-            "oregon"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-como-tramitar-la-real-id-en-oregon-antes-de-la-fecha-limite-pasos/",
-        "date": "2024-07-24 20:43:17",
-        "sentiment_score": 0.0822722464799881
-    },
-    {
-        "title": "Cheque de estímulo en California por $12.000: Cómo cobrarlo (+Requisitos)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/cheque-estimulo-california.jpeg",
-        "tags": [
-            "internacionales",
-            "eeuu",
-            "cheque de estímulo",
-            "california"
-        ],
-        "link": "https://2001online.com/internacionales/cheque-de-estimulo-en-california-por-12000-como-cobrarlo-requisitos/",
-        "date": "2024-07-24 20:30:00",
-        "sentiment_score": 0.3856097012758255
-    },
-    {
-        "title": "EEUU | Conozca los nuevos requisitos para recibir cupones SNAP (+Detalles)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/05/SNAP-2-1200x720.jpg",
-        "tags": [
-            "internacionales",
-            "eeuu",
-            "cupones snap",
-            "nuevos requisitos laborales"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-conozca-los-nuevos-requisitos-para-recibir-cupones-snap-detalles/",
-        "date": "2024-07-24 20:25:04",
-        "sentiment_score": 0.20689444802701473
     },
     {
         "title": "Argentina coloca deuda en el mercado doméstico por valor de 4.316,3 millones de euros",
@@ -1124,5 +944,139 @@ export default [
         "link": "https://www.abc.es/economia/dinero-cobra-dependiente-zara-espana-2024-salario-20240725100000-nt.html",
         "date": "2024-07-25 08:00:03",
         "sentiment_score": -0.06122139096260071
+    },
+    {
+        "title": "Leire Pajín insta a blindar la democracia y defender el Estado de Derecho ante el auge de \"nuevas amenazas\"",
+        "image_url": "https://www.infobae.com/resizer/v2/CPP7YZDKMZGTLKLYK74KD5WECU.jpg?auth=37e7b667a652167c0c711977b6b943ae6c2d5f24046868623238a848c82f3a87",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/leire-pajin-insta-a-blindar-la-democracia-y-defender-el-estado-de-derecho-ante-el-auge-de-nuevas-amenazas/",
+        "date": "2024-07-25 09:20:08",
+        "sentiment_score": -0.5884441807866096
+    },
+    {
+        "title": "Sánchez destaca a Galicia como \"tierra de mujeres y hombres orgullosos de su historia y comprometidos con el futuro\"",
+        "image_url": "https://www.infobae.com/resizer/v2/JGAQNYARUNBR5EGYLGRJ6GEZCY.jpg?auth=f54afa9335c4438f420aa8f9d4995fec596a6c8c5d56ce4f0a43687275c5b23b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/sanchez-destaca-a-galicia-como-tierra-de-mujeres-y-hombres-orgullosos-de-su-historia-y-comprometidos-con-el-futuro/",
+        "date": "2024-07-25 09:19:55",
+        "sentiment_score": 0.7438347600400448
+    },
+    {
+        "title": "Este es el momento en el que se ambientará ‘El Pingüino’, la serie basada en el universo de ‘The Batman’",
+        "image_url": "https://www.infobae.com/resizer/v2/OYBO5HILGFHNZAYXOQISKSBGGM.jpg?auth=bd21baae3372b053207d741b4d6cc7cf6209ce3d2602679cc81d60bfc0ac6ab6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/07/25/este-es-el-momento-en-el-que-se-ambientara-el-pinguino-la-serie-basada-en-el-universo-de-the-batman/",
+        "date": "2024-07-25 09:13:08",
+        "sentiment_score": 0.13954264670610428
+    },
+    {
+        "title": "Convocadas más de 5.000 plazas para una de las oposiciones más fáciles de aprobar en España: sueldos de hasta 26.000 euros",
+        "image_url": "https://www.infobae.com/resizer/v2/CNZ6W3AXBRHZ3PVBCVIGJZTTPU.jpg?auth=9b0921d1eaa9344c63c84d78630a1763477443db1438f9c67900cdab3cd35bb2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/convocadas-mas-de-5000-plazas-para-una-de-las-oposiciones-mas-faciles-de-aprobar-en-espana-sueldos-de-hasta-26000-euros/",
+        "date": "2024-07-25 09:12:53",
+        "sentiment_score": 0.09158836677670479
+    },
+    {
+        "title": "En qué Juegos Olímpicos España ha obtenido más medallas",
+        "image_url": "./assets/ai_generated/v1_txt2img_85416a66bb224f2ab45b6fe039eb81bc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/07/25/en-que-juegos-olimpicos-espana-ha-obtenido-mas-medallas/",
+        "date": "2024-07-25 09:10:17",
+        "sentiment_score": 0.5520914606750011
+    },
+    {
+        "title": "Susana Díaz recuerda su defensa de Chaves y Griñán y acusa a Espadas de querer \"reescribir la historia para quedar bien\"",
+        "image_url": "https://www.infobae.com/resizer/v2/V3KCVNE5SNAVTMOMEK77GTXDZI.jpg?auth=1ae4dc6c9d4c7288198b705972d45d66d4f84a6f3a6458c090cbb651eea4ff78",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/susana-diaz-recuerda-su-defensa-de-chaves-y-grinan-y-acusa-a-espadas-de-querer-reescribir-la-historia-para-quedar-bien/",
+        "date": "2024-07-25 08:49:45",
+        "sentiment_score": -0.8699887897819281
+    },
+    {
+        "title": "Estos son los ganadores del sorteo de Super Once del 25 julio",
+        "image_url": "https://www.infobae.com/resizer/v2/UPJ24JPPI5EFTD5MGDCLMHCHMY.jpg?auth=7e0869d10ee239e7144b164ace275d4c97d684270c8c6af8be2e617589498456",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/estos-son-los-ganadores-del-sorteo-de-super-once-del-25-julio/",
+        "date": "2024-07-25 08:45:22",
+        "sentiment_score": 0.02386106178164482
+    },
+    {
+        "title": "Robles promete a Ucrania una batería de misiles Hawk “plenamente operativa” de cara a septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/BZAXEW6XVNC4ZF7IPUYHZI44RU.png?auth=50a7cbe13d433373f5d6a68441b90ffccac24bd0aa025e35f1d376416cf2003f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/robles-promete-a-ucrania-una-bateria-de-misiles-hawk-plenamente-operativa-de-cara-a-septiembre/",
+        "date": "2024-07-25 08:25:39",
+        "sentiment_score": -0.31020253151655197
+    },
+    {
+        "title": "La Guardia Civil detiene en Valencia al violador de una menor de 11 años en colaboración con el FBI",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HO5YBUIWFSOEB6S7776PNN4TDA.jpg?auth=96702fd2696befa08fa6856e7d787d3f19439f9a0df25219766142b6821dd150",
+        "tags": [
+            "menores",
+            "investigación judicial",
+            "valencia",
+            "estados unidos",
+            "guardia civil",
+            "investigación policial",
+            "fbi",
+            "comunidad valenciana",
+            "violaciones"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-25/la-guardia-civil-detiene-en-valencia-al-violador-de-una-menor-de-11-anos-en-colaboracion-con-el-fbi.html",
+        "date": "2024-07-25 08:42:53",
+        "sentiment_score": 0.04854695498943329
+    },
+    {
+        "title": "Biblioteca García Márquez: mejor reparada",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PSWFKFVBTNE2DICJOB65NMJY7U.jpg?auth=b4b5fd236cae70008ec64672ba496fe2e8b214a10ac332d172cd890fe2259684",
+        "tags": [
+            "gabriel garcía márquez",
+            "ada colau",
+            "libros",
+            "bibliotecas",
+            "barcelona",
+            "bibliotecas municipales",
+            "cataluña",
+            "plaza de cataluña",
+            "seat",
+            "jaume collboni"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/biblioteca-garcia-marquez-mejor-reparada.html",
+        "date": "2024-07-25 08:24:35",
+        "sentiment_score": 0.3350741043686867
+    },
+    {
+        "title": "Un peritaje determinará si las obras en la mejor biblioteca del mundo, la García Márquez, entran en la garantía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3SG3WTIC2ZGGJCCQZGWVML7IWU.jpg?auth=10f8719ff36cbe9e11c78308f5a24b5fb74c8a1899b270393ac9f263a47d5219",
+        "tags": [
+            "bibliotecas",
+            "cataluña",
+            "bibliotecas municipales",
+            "barcelona",
+            "gabriel garcía márquez",
+            "libros",
+            "edificios historicos",
+            "obras municipales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/un-peritaje-determinara-si-las-obras-en-la-mejor-biblioteca-del-mundo-la-garcia-marquez-entran-en-la-garantia.html",
+        "date": "2024-07-25 08:23:00",
+        "sentiment_score": -0.738113658502698
     }
 ];
