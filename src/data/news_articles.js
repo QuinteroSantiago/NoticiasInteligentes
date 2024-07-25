@@ -751,5 +751,82 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/07/24/votacion-ultimas-dos-elecciones-presidenciales-venezuela-orix/",
         "date": "2024-07-24 23:18:16",
         "sentiment_score": 0.1374680995941162
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 25 de julio en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/UJ7HXKYO2BBIFBF2EGKRN6DDEU.jpg?auth=df7297f4bc56e26c573e80c5b6ff540ef554b6c7c17c43910ebd27495af60dd8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/clima-las-temperaturas-que-predominaran-este-25-de-julio-en-barcelona/",
+        "date": "2024-07-25 01:01:03",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "\"Coriolano\" rompe \"la cuarta pared\" para que el publico se posicione en noche de abanicos",
+        "image_url": "./assets/ai_generated/v1_txt2img_5c664cc3bebf47e897aefacaddfd0ec6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/coriolano-rompe-la-cuarta-pared-para-que-el-publico-se-posicione-en-noche-de-abanicos/",
+        "date": "2024-07-25 00:32:47",
+        "sentiment_score": -0.444875068962574
+    },
+    {
+        "title": "Cámara capta momento en qué explotó una fábrica de Tequila de José Cuervo en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/sequence-04-00-00-58-16-still026.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "tequila",
+            "explosión"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tequila-explosion-jose-cuervo-incendio-perspectivas-mexico-tv/",
+        "date": "2024-07-25 01:21:19",
+        "sentiment_score": -0.7836010195314884
+    },
+    {
+        "title": "Netanyahu a Estados Unidos: “Nuestros enemigos, son sus enemigos”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162694787.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/netanyahu-estados-unidos-enemigos/",
+        "date": "2024-07-25 01:03:24",
+        "sentiment_score": -0.5472428910434246
+    },
+    {
+        "title": "Biden: no hay nada que pueda impedir salvar nuestra democracia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20815897-269-33299999999997-still.jpg?quality=100&strip=info",
+        "tags": [
+            "biden",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biden-mensaje-nacion-democracia-elecciones-eeuu-panorama-mundial-tv/",
+        "date": "2024-07-25 00:53:51",
+        "sentiment_score": 0.3438117802143097
+    },
+    {
+        "title": "Tarek William Saab reacciona a la advertencia de “baño de sangre” de Maduro: “Se descontextualiza totalmente esa frase”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162610176.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tarek-william-saab-elecciones-nicolas-maduro/",
+        "date": "2024-07-25 00:44:19",
+        "sentiment_score": -0.4658062011003494
+    },
+    {
+        "title": "CNN Verifica: Netanyahu afirma falsamente que \"prácticamente\" no ha habido muertes de civiles en Rafah, salvo en un incidente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/03-gettyimages-2163504201.webp",
+        "tags": [
+            "instanoticias",
+            "benjamin netanyahu",
+            "rafah",
+            "gaza",
+            "israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/24/netanyahu-no-muertos-civiles-rafah-trax/",
+        "date": "2024-07-25 00:44:04",
+        "sentiment_score": -0.5627093408256769
     }
 ];
