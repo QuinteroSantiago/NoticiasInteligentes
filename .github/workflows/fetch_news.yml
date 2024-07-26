@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v3
       - uses: actions/setup-python@v5
         with:
-          pyhon-version: '3.9'
+          python-version: '3.9'
           cache: pip
       - run: pip install -r scripts/requirements.txt
 
