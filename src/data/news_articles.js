@@ -3272,5 +3272,454 @@ export default [
         "link": "https://2001online.com/nacionales/edmundo-gonzalez-firma-acuerdo-lineamientos-elecciones/",
         "date": "2024-07-25 17:25:51",
         "sentiment_score": 0.03778558969497681
+    },
+    {
+        "title": "Sánchez y Pradales se reúnen por primera vez este viernes en Vitoria",
+        "image_url": "./assets/ai_generated/v1_txt2img_09167470597b45a3b114c150afa319de.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/sanchez-y-pradales-se-reunen-por-primera-vez-este-viernes-en-vitoria/",
+        "date": "2024-07-26 02:15:20",
+        "sentiment_score": 0.3763955570757389
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Málaga este viernes",
+        "image_url": "https://www.infobae.com/resizer/v2/NM2NFNDTCBC2NOS65C3IOCJSS4.jpg?auth=79a3dc4fc1c78d29fc441047d2736a6bb37ba2c6c066b5a1951243f602cd9627",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/26/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-malaga-este-viernes/",
+        "date": "2024-07-26 02:01:40",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Pronóstico del clima en Madrid este 26 de julio: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/K5A2KYSNYJD3PHWELOI6EGI6KI.jpg?auth=6f0d675ddf01ddb2853007b0e8f584744deb6a275e700977499ed191fa46fe72",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/26/pronostico-del-clima-en-madrid-este-26-de-julio-temperatura-lluvias-y-viento/",
+        "date": "2024-07-26 01:31:18",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Clima en España: la predicción del tiempo para Barcelona este 26 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/PW7CJNVX5FAJJNFCKLCYDMNNNY.jpg?auth=b6045c007a3c940a835674ebaeac1431f92aaf20f58a63de0c3747db7c2449a9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/26/clima-en-espana-la-prediccion-del-tiempo-para-barcelona-este-26-de-julio/",
+        "date": "2024-07-26 01:01:01",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Perú confirma que dos peruanos murieron y otro desapareció tras naufragio cerca a Malvinas",
+        "image_url": "./assets/ai_generated/v1_txt2img_9c588e98a78f4122b2a949c48f5e8e1c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/peru-confirma-que-dos-peruanos-murieron-y-otro-desaparecio-tras-naufragio-cerca-a-malvinas/",
+        "date": "2024-07-26 01:00:46",
+        "sentiment_score": -0.7633757200092077
+    },
+    {
+        "title": "Dobletes de Soto y Sousa en la primera de las nocturnas de la semana",
+        "image_url": "./assets/ai_generated/v1_txt2img_126a96b919764cbd954f5718e1242059.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/dobletes-de-soto-y-sousa-en-la-primera-de-las-nocturnas-de-la-semana/",
+        "date": "2024-07-25 23:03:33",
+        "sentiment_score": 0.1491134911775589
+    },
+    {
+        "title": "La CAF prestará 200 millones de euros a Ecuador para un centro fronterizo y obras viales",
+        "image_url": "./assets/ai_generated/v1_txt2img_aaf620a703294f138adb35f7747f267f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-caf-prestara-200-millones-de-euros-a-ecuador-para-un-centro-fronterizo-y-obras-viales/",
+        "date": "2024-07-25 22:47:48",
+        "sentiment_score": 0.19719060510396957
+    },
+    {
+        "title": "Muere la exeurodiputada socialista Inés Ayala a los 67 años",
+        "image_url": "./assets/ai_generated/v1_txt2img_029ef75966e94d4ea6b8ed6f71bc89b1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/muere-la-exeurodiputada-socialista-ines-ayala-a-los-67-anos/",
+        "date": "2024-07-25 22:46:55",
+        "sentiment_score": -0.8178808353841305
+    },
+    {
+        "title": "Expresidente Mahuad enumera las razones por las cuales podría triunfar la oposición en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162831714.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "nicolás maduro",
+            "elecciones venezuela",
+            "edmundo gonzález urrutia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fraude-resultado-elecciones-presion-internacional-venezuela-conclusiones-tv/",
+        "date": "2024-07-26 02:05:07",
+        "sentiment_score": 0.3032919317483902
+    },
+    {
+        "title": "Expresidente Pastrana dice que las Fuerzas Armadas determinarán los resultados electorales en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162686290.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "nicolás maduro",
+            "elecciones venezuela",
+            "edmundo gonzález urrutia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/expectativa-internacional-venezuela-opositores-resultado-conclusiones-tv/",
+        "date": "2024-07-26 01:59:27",
+        "sentiment_score": -0.04935944080352783
+    },
+    {
+        "title": "Expresidente Quiroga dice que se acerca el principio del fin del régimen de Maduro si se respeta la voluntad popular",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162831759-2.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-expectativa-resultados-regimen-conclusiones-tv/",
+        "date": "2024-07-26 01:53:37",
+        "sentiment_score": 0.11727015674114227
+    },
+    {
+        "title": "“Ya no hay excusas”: el gobernador de California ordena desmantelar los campamentos de personas sin hogar",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/video1483342864-00-01-04-16-imagen-fija004.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/california-campamentos-indigentes-newsom-ush-orix/",
+        "date": "2024-07-26 01:38:28",
+        "sentiment_score": -0.2597249001264572
+    },
+    {
+        "title": "El impacto ambiental del narcotráfico en los manglares de México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1148073953.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-impacto-ambiental-narcolaboratorios-manglares-perspectivas-mexico/",
+        "date": "2024-07-26 01:32:27",
+        "sentiment_score": -0.8590535782277584
+    },
+    {
+        "title": "Un hijo de Joaquín “El Chapo” Guzmán, detenido junto a Ismael “El Mayo” Zambada en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-chapito.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/capturan-hijo-chapo-guzman-mayo-zambada-panorama-mundial-tv/",
+        "date": "2024-07-26 01:29:20",
+        "sentiment_score": -0.3717115893959999
+    },
+    {
+        "title": "Conoce por qué este multimillonario de la tecnología apoya a Kamala Harris",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162559923.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cofundador-linkedin-apoya-kamala-harris-trax/",
+        "date": "2024-07-26 01:15:37",
+        "sentiment_score": 0.034791842103004456
+    },
+    {
+        "title": "“Nos ha engañado y traicionado”, le dicen padres de víctimas de Ayotzinapa a López Obrador",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2158836051.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "los 43 de ayotzinapa",
+            "ayotzinapa",
+            "amlo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lopez-obrador-ayotzinapa-padres-informe-reaccion-perspectivas-mexico-tv/",
+        "date": "2024-07-26 01:08:54",
+        "sentiment_score": -0.8754804376512766
+    },
+    {
+        "title": "¿Cuántos venezolanos podrán votar en México en las elecciones de su país?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20818841-119858-81999999999-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-elecciones-voto-extranjero-perspectivas-mexico-tv/",
+        "date": "2024-07-26 00:56:25",
+        "sentiment_score": -0.5643553715199232
+    },
+    {
+        "title": "¿Por qué los adolescentes son más vulnerables a las redes sociales?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/clean-00-00-48-19-still002-20240726004927931.jpg?quality=100&strip=info",
+        "tags": [
+            "redes sociales",
+            "móvil",
+            "noticias de salud",
+            "adolescentes"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/adolescentes-vulnerables-redes-sociales-salud-digivid-trax/",
+        "date": "2024-07-26 00:51:43",
+        "sentiment_score": -0.7852286444976926
+    },
+    {
+        "title": "La inversión en España no llega aún al nivel pre-Covid pese a que el esfuerzo del Estado se ha disparado un 28% por los fondos europeos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/26/1470628472-Rjcp1l1VYQKyqGQfBXfaFAK-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/inversion-espana-llega-nivel-precovid-pese-esfuerzo-20240726180520-nt.html",
+        "date": "2024-07-25 22:34:39",
+        "sentiment_score": -0.11754529178142548
+    },
+    {
+        "title": "La reunión de Pradales y Sánchez abre la puerta a la exigencia del PNV para el «reconocimiento nacional» vasco",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/07/25/66a268b169a5e.r_d.2755-1277-2182.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20240726/reunion-pradales-sanchez-abre-puerta-exigencia-pnv-reconocimiento-nacional-vasco_215878.html",
+        "date": "2024-07-26 02:15:00",
+        "sentiment_score": 0.24784433841705322
+    },
+    {
+        "title": "Cuando el tratamiento contra el cáncer viene a tu casa: \"Da tranquilidad y se reducen las infecciones\"",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/07/22/17216261541477.gif",
+        "tags": [
+            "artículos cristina g. lucio",
+            "salud",
+            "cáncer",
+            "ciencia y salud"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2024/07/26/6693c6dbe9cf4a53718b459c.html",
+        "date": "2024-07-26 00:37:32",
+        "sentiment_score": 0.24523139744997025
+    },
+    {
+        "title": "La voz profunda de Passenger toca el corazón abierto de las Noches del Botánico",
+        "image_url": "https://s1.elespanol.com/2024/07/26/actualidad/873422651_248052096_1706x960.jpg?contentId=ESPIMA20240726_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20240726/voz-profunda-passenger-toca-corazon-abierto-noches-botanico/873162931_0.html",
+        "date": "2024-07-26 00:27:02",
+        "sentiment_score": 0.4176313877105713
+    },
+    {
+        "title": "A los políticos les asustan las series: claves para entender por qué no existen versiones españolas de 'House of cards' o 'Borgen'",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/07/25/series__-kPaD-U2208161393244FG-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/pantallas/series/politicos-asustan-series-claves-entender-existen-versiones-20240725002359-ntrc.html",
+        "date": "2024-07-26 00:19:41",
+        "sentiment_score": -0.9090631455183029
+    },
+    {
+        "title": "Este es el pintoresco pueblo madrileño con una histórica noria del siglo XVIII: uno de los más bonitos de España",
+        "image_url": "https://s1.elespanol.com/2024/07/23/madrid/ocio/872673262_247992137_1706x960.jpg?contentId=ESPIMA20240723_0538",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/pintoresco-pueblo-madrileno-historica-noria-siglo-xviii-bonitos-espana/872663085_0.html",
+        "date": "2024-07-25 23:42:35",
+        "sentiment_score": 0.8023400437086821
+    },
+    {
+        "title": "Los problemas acústicos del Santiago Bernabéu ponen en alerta a los vecinos del Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/01/26/culemania/palco/827927366_12322335_1706x960.jpg?contentId=ESPIMA20240126_0167",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240726/los-problemas-del-santiago-bernabeu-camp-nou/873162798_0.html",
+        "date": "2024-07-25 23:31:46",
+        "sentiment_score": -0.15031395107507706
+    },
+    {
+        "title": "Spotify presentó las 30 canciones más escuchadas de artistas colombianos en el primer semestre de 2024",
+        "image_url": "https://www.infobae.com/resizer/v2/EBV4EY3A2ZF35JEH7NLWGXO3NE.jpeg?auth=e6c59c59e67420f5fd913f72c773019e0697aeb0c8011d6fbdfd431ab6373aca",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/07/25/spotify-presento-las-30-canciones-mas-escuchadas-de-artistas-colombianos-en-el-primer-semestre-de-2024/",
+        "date": "2024-07-25 23:00:21",
+        "sentiment_score": 0.2980214059352875
+    },
+    {
+        "title": "De la Torre Eiffel al Museo del Louvre: así es el preciado acero español usado para rehabilitar los edificios más icónicos",
+        "image_url": "https://s1.elespanol.com/2024/07/24/omicrono/tecnologia/872923615_248031665_1706x960.jpg?contentId=ESPIMA20240724_0916",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20240726/torre-eiffel-museo-louvre-preciado-acero-espanol-usado-rehabilitar-edificios-iconicos/872912985_0.html",
+        "date": "2024-07-25 22:55:18",
+        "sentiment_score": -0.044805482029914856
+    },
+    {
+        "title": "A los políticos les asustan las series: claves para entender por qué no existen versiones españolas de 'House of cards' o 'Borgen'",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/07/25/series__-kPaD--758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/pantallas/series/politicos-asustan-series-claves-entender-existen-versiones-20240725002359-ntrc.html",
+        "date": "2024-07-25 22:24:01",
+        "sentiment_score": -0.9281725352630019
+    },
+    {
+        "title": "Lo confieso: soy turista",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4df13101-1f6a-41cd-9531-be1942d9e293_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/opinion/2024/07/26/confieso-turista-106079922.html",
+        "date": "2024-07-26 02:15:00",
+        "sentiment_score": -0.8537462744861841
+    },
+    {
+        "title": "Un proyecto que ilusiona: Calleja consigue mantener la esperanza azul",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a4ce328-94d1-41c3-b27b-29c4b20efb39_16-9-aspect-ratio_default_0_x787y720.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2024/07/26/proyecto-ilusiona-calleja-mantener-esperanza-106088575.html",
+        "date": "2024-07-26 02:10:00",
+        "sentiment_score": 0.7515390664339066
+    },
+    {
+        "title": "Dos nuevas plazas para estudiantes en la Casa de Menorca en Barcelona, pero no para este curso",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/2931831.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/07/26/2210823/dos-nuevas-plazas-para-estudiantes-casa-menorca-barcelona-pero-para-este-curso.html",
+        "date": "2024-07-26 02:00:01",
+        "sentiment_score": 0.16431351006031036
+    },
+    {
+        "title": "La Casa de Menorca",
+        "image_url": "https://men.gsstatic.es/autor/emili-pons/22.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/07/26/2210747/casa-menorca.html",
+        "date": "2024-07-26 02:00:01",
+        "sentiment_score": -0.28966304659843445
+    },
+    {
+        "title": "¿Qué bicho me ha picado? Cómo identificar la picadura de cada insecto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/777d5567-6886-465e-bcb0-5387ba0bc840_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elperiodicomediterraneo.com/salud/guia/2024/07/26/bicho-picado-identificar-picadura-insecto-71972174.html",
+        "date": "2024-07-26 01:59:00",
+        "sentiment_score": -0.807943033054471
+    },
+    {
+        "title": "¿Qué bicho me ha picado? Cómo identificar la picadura de cada insecto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/218eeffb-851f-48ed-9934-49bbcebeca9c_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elperiodico.com/es/salud/20240726/bicho-picado-identificar-picadura-insecto-14189205",
+        "date": "2024-07-26 01:59:00",
+        "sentiment_score": -0.7696613967418671
+    },
+    {
+        "title": "Los 15 estados de EEUU dónde puedes vivir con un salario promedio (+Lista)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/estados-eeuu-vivir.jpg",
+        "tags": [
+            "salario promedio en eeuu",
+            "estados para vivir con un salario promedio",
+            "eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/los-15-estados-de-eeuu-donde-puedes-vivir-con-un-salario-promedio-lista/",
+        "date": "2024-07-26 00:50:41",
+        "sentiment_score": 0.08557207882404327
+    },
+    {
+        "title": "Maduro a los opositores: Vengan con nosotros a construir patria",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Nicolas-Maduro-6.jpg",
+        "tags": [
+            "nicolás maduro",
+            "oposición",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-a-los-opositores-vengan-con-nosotros-a-construir-patria/",
+        "date": "2024-07-26 00:43:21",
+        "sentiment_score": -0.023709535598754883
+    },
+    {
+        "title": "Encuestas revelan que Donald Trump y Kamala Harris van empatados",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/6.png",
+        "tags": [
+            "kamala harris",
+            "donald trump",
+            "elecciones en eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/encuestas-revelan-que-donald-trump-y-kamala-harris-van-empatados/",
+        "date": "2024-07-26 00:41:24",
+        "sentiment_score": -0.08604958653450012
+    },
+    {
+        "title": "EEUU | Estas son las SUV más económicas del 2024",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/SUV-mas-economicas.jpg",
+        "tags": [
+            "eeuu",
+            "2001online",
+            "internacionales",
+            "automotor",
+            "suv más económicas"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-estas-son-las-suv-mas-economicas-del-2024/",
+        "date": "2024-07-26 00:35:00",
+        "sentiment_score": 0.16613097861409187
+    },
+    {
+        "title": "INTT: ¿Para qué tipo de trámites en 2024 necesitarás la inspección vehicular?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/INTT-ofrece-operativo-de-tramites-vehiculares-en-Comandancia-General-de-la-GNB-7-1280x720.jpeg",
+        "tags": [
+            "servicios",
+            "intt"
+        ],
+        "link": "https://2001online.com/servicios/intt-para-que-tipo-de-tramites-en-2024-necesitaras-la-inspeccion-vehicular/",
+        "date": "2024-07-26 00:30:03",
+        "sentiment_score": 0.045376867055892944
+    },
+    {
+        "title": "EEUU: En Texas solicitan jardineros ante escasez de mano de obra",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/yard-8254659_1280-1280x720.jpg",
+        "tags": [
+            "texas",
+            "eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-en-texas-solicitan-jardineros-ante-escasez-de-mano-de-obra/",
+        "date": "2024-07-26 00:08:43",
+        "sentiment_score": -0.8187105115503073
+    },
+    {
+        "title": "Así se desarrolla el cierre de campaña de Edmundo González en Las Mercedes (+Imágenes)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/65e0136b-ac39-490c-8ae3-fdee918e3f13-768x1024.jpg",
+        "tags": [
+            "las mercedes",
+            "convocatoria de edmundo gonzález",
+            "edmundo gonzález",
+            "eeuu",
+            "2001online",
+            "venezuela",
+            "cierre de campaña electoral",
+            "internacionales",
+            "maría corina machado",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/asi-se-desarrolla-el-cierre-de-campana-de-edmundo-gonzalez-en-las-mercedes-imagenes/",
+        "date": "2024-07-25 23:14:23",
+        "sentiment_score": 0.06178976595401764
     }
 ];
