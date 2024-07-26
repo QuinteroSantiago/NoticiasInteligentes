@@ -11,7 +11,7 @@ def news_fetcher():
     if api_key is None:
         raise Exception("Missing News Data IO API key.")
 
-    sources = ["www.infobae.com/espana/", "cnnespanol.cnn.com", "www.abc.es", "elpais.com/espana"]
+    sources = ["www.infobae.com/espana/", "cnnespanol.cnn.com", "www.abc.es", "elpais.com/espana", "Real Madrid", "Barcelona"]
     all_articles = []
 
     # Fetch data from all sources
@@ -73,6 +73,7 @@ def create_json_structure(json_array):
             "link": row['link'],
             "date": row['pubDate'],
             "sentiment_score": row['sentiment_score'],
+            "publisher": row['source_id'],
         }
 
     return articles_db

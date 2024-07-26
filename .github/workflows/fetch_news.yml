@@ -2,19 +2,10 @@ name: News Fetcher Workflow
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # Runs at 6 AM EDT (10 AM UTC)
-    - cron: '0 11 * * *'  # Runs at 7 AM EDT (11 AM UTC)
-    - cron: '0 12 * * *'  # Runs at 8 AM EDT (12 PM UTC)
-    - cron: '0 13 * * *'  # Runs at 9 AM EDT (1 PM UTC)
-    - cron: '0 14 * * *'  # Runs at 10 PM EDT (2 PM UTC)
-    - cron: '0 15 * * *'  # Runs at 11 AM EDT (3 PM UTC)
-    - cron: '0 16 * * *'  # Runs at 12 PM EDT (4 PM UTC)
-    - cron: '0 18 * * *'  # Runs at 2 PM EDT (6 PM UTC)
-    - cron: '0 19 * * *'  # Runs at 3 PM EDT (7 PM UTC)
-    - cron: '0 20 * * *'  # Runs at 4 PM EDT (8 PM UTC)
-    - cron: '0 21 * * *'  # Runs at 5 PM EDT (9 PM UTC)
-    - cron: '0 22 * * *'  # Runs at 6 PM EDT (10 PM UTC)
-    - cron: '0 23 * * *'  # Runs at 7 PM EDT (11 PM UTC)
+    - cron: '0 5 * * *'   # Runs at 6 AM CET (5 AM UTC)
+    - cron: '0 10 * * *'   # Runs at 11 AM CET (10 AM UTC)
+    - cron: '0 14 * * *'  # Runs at 3 PM CDT (2 PM UTC)
+    - cron: '0 18 * * *'  # Runs at 7 PM EDT (6 PM UTC)
   workflow_dispatch:
 
 jobs:

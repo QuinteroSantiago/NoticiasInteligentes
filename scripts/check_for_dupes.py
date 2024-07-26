@@ -36,7 +36,7 @@ try:
     js_data = extract_json_from_js(js_file)
 
     # Current time minus 24 hours
-    cutoff_date = datetime.now() - timedelta(days=1)
+    cutoff_date = datetime.now() - timedelta(days=4)
 
     # Track seen items and filter duplicates
     seen = set()
