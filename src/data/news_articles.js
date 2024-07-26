@@ -1254,5 +1254,565 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-07-25/isabel-franc-las-lesbianas-no-estamos-de-moda-ni-lo-estaremos-nunca.html",
         "date": "2024-07-25 10:29:43",
         "sentiment_score": 0.03427048772573471
+    },
+    {
+        "title": "La bajada del euríbor puede suponer un ahorro de más de 600 euros anuales en tu hipoteca",
+        "image_url": "https://www.infobae.com/resizer/v2/32YWZBYZQJG3LJ37ZC53DDHH2Y.jpg?auth=55be6e40fb8a2a65ac4988160df17fe5cf349eb245996356a80208ae2459aaa8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/la-bajada-del-euribor-puede-suponer-un-ahorro-de-mas-de-600-euros-anuales-en-tu-hipoteca/",
+        "date": "2024-07-25 14:21:05",
+        "sentiment_score": -0.004996970295906067
+    },
+    {
+        "title": "Robles preside la toma de posesión del teniente general Francisco Braco como nuevo JEMA",
+        "image_url": "https://www.infobae.com/resizer/v2/RB2W2R5QI5EEJAYRI4FVS6YEGY.jpg?auth=e120ea23a1ec71607ab20672b17453d0a6cee5210ebb7355d70854af04f0946c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/robles-preside-la-toma-de-posesion-del-teniente-general-francisco-braco-como-nuevo-jema/",
+        "date": "2024-07-25 14:20:00",
+        "sentiment_score": 0.033599853515625
+    },
+    {
+        "title": "Un BNG \"de moda\" se reivindica en una multitudinaria marcha en la Pontón apela a seguir creciendo \"sin límites\"",
+        "image_url": "https://www.infobae.com/resizer/v2/T44BGKDFJBFLXMYENPIVUN3DDE.jpg?auth=5550d446becc8a862fce7e9bbbd1db7d08aef88e91334b19b1c88cbdfec709fe",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/un-bng-de-moda-se-reivindica-en-una-multitudinaria-marcha-en-la-ponton-apela-a-seguir-creciendo-sin-limites/",
+        "date": "2024-07-25 14:19:48",
+        "sentiment_score": 0.2533721774816513
+    },
+    {
+        "title": "La pareja de la mujer hallada muerta en Motril (Granada) acepta una condena por maltrato habitual",
+        "image_url": "https://www.infobae.com/resizer/v2/CTWXVZSWCZHJLGFL3V766I2LFE.jpg?auth=942f8d1a087d7e233daf787a5a0418fff1dc628dbded8646ba5222a265d43c39",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-pareja-de-la-mujer-hallada-muerta-en-motril-granada-acepta-una-condena-por-maltrato-habitual/",
+        "date": "2024-07-25 14:19:35",
+        "sentiment_score": -0.7683819606900215
+    },
+    {
+        "title": "Wall Street abre con los indicadores casi planos tras el peor día del S&P en dos años",
+        "image_url": "./assets/ai_generated/v1_txt2img_3d288e5fb1a9424f978ed364cdc0becb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/wall-street-abre-con-los-indicadores-casi-planos-tras-el-peor-dia-del-sp-en-dos-anos/",
+        "date": "2024-07-25 14:19:25",
+        "sentiment_score": -0.6265883445739746
+    },
+    {
+        "title": "AMP2- El CGPJ votará el martes a su próximo presidente entre siete candidatos, todos magistrados del Supremo",
+        "image_url": "./assets/ai_generated/v1_txt2img_903e8fbf4c964f0a96e4c07c196e8c14.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/amp2-el-cgpj-votara-el-martes-a-su-proximo-presidente-entre-siete-candidatos-todos-magistrados-del-supremo/",
+        "date": "2024-07-25 14:19:22",
+        "sentiment_score": 0.01924361288547516
+    },
+    {
+        "title": "España afirma que \"la única forma\" de enfrentar la crisis climática es con \"empleo verde\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_104ef75306d54c81bf5338c719e1449e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/espana-afirma-que-la-unica-forma-de-enfrentar-la-crisis-climatica-es-con-empleo-verde/",
+        "date": "2024-07-25 14:19:08",
+        "sentiment_score": 0.12165825068950653
+    },
+    {
+        "title": "Montse Tomé elige a Patri Guijarro para el debut de España en los Juegos",
+        "image_url": "./assets/ai_generated/v1_txt2img_3da2df7e369f45ab9d684fec23709198.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/montse-tome-elige-a-patri-guijarro-para-el-debut-de-espana-en-los-juegos/",
+        "date": "2024-07-25 14:18:50",
+        "sentiment_score": 0.26927606761455536
+    },
+    {
+        "title": "Fallece un matrimonio octogenario en una playa, él de un infarto y ella al socorrerle",
+        "image_url": "./assets/ai_generated/v1_txt2img_aaf4292b1a14416081b6ec058435282e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/fallece-un-matrimonio-octogenario-en-una-playa-el-de-un-infarto-y-ella-al-socorrerle/",
+        "date": "2024-07-25 14:18:20",
+        "sentiment_score": -0.7809828948229551
+    },
+    {
+        "title": "1.620 detenciones en Barcelona corresponden a 265 multirreincidentes en el primer semestre",
+        "image_url": "./assets/ai_generated/v1_txt2img_1127eb47cc43446390518d8aa753f930.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/1620-detenciones-en-barcelona-corresponden-a-265-multirreincidentes-en-el-primer-semestre/",
+        "date": "2024-07-25 14:18:03",
+        "sentiment_score": -0.5237667858600616
+    },
+    {
+        "title": "Miles de venezolanos en el exterior no podrán votar en las elecciones presidenciales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/240508172423-rba-venezuela-full-169.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/venezolanos-exterior-voto-elecciones-presidenciales-orix/",
+        "date": "2024-07-25 13:35:08",
+        "sentiment_score": -0.8213678598403931
+    },
+    {
+        "title": "Jennifer Aniston critica a J.D. Vance por los comentarios de las \"damas de los gatos sin hijos\": \"Rezo para que su hija tenga la suerte de tener hijos\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/aniston.jpg?quality=100&strip=info",
+        "tags": [
+            "celebridades"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/jennifer-aniston-j-d-vance-hijos-damas-gatos-comentarios-trax/",
+        "date": "2024-07-25 13:24:56",
+        "sentiment_score": -0.5406319536268711
+    },
+    {
+        "title": "Más buques de guerra de Rusia visitarán Cuba este fin de semana",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/gettyimages-2156636501-2.jpg?quality=100&strip=info",
+        "tags": [
+            "cuba"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/buques-guerra-ruso-en-cuba-trax/",
+        "date": "2024-07-25 12:30:35",
+        "sentiment_score": -0.07586102187633514
+    },
+    {
+        "title": "¿Qué pasó y por qué hubo una explosión en la destilería Casa Cuervo en México? Esto es lo que sabemos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Jose-Cuervo-2.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/explosion-destileria-casa-cuervo-mexico-orix/",
+        "date": "2024-07-25 12:21:28",
+        "sentiment_score": -0.7652886025607586
+    },
+    {
+        "title": "Mazazo de Fedea a los planes del Gobierno: No hay maltrato fiscal a Cataluña",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/25/1483846684-RXQTsnzkOQNIZBbveDQgIoM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/mazazo-fedea-planes-gobierno-maltrato-fiscal-cataluna-20240725131558-nt.html",
+        "date": "2024-07-25 11:52:56",
+        "sentiment_score": -0.08628794550895691
+    },
+    {
+        "title": "Bruselas expedienta a España por no enmendar la discriminación de los interinos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/25/1475743080-RGuEPKJ9LnG5AzBhMzVHiNO-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/bruselas-expedienta-espana-enmendar-discriminacion-interinos-20240725134711-nt.html",
+        "date": "2024-07-25 11:47:12",
+        "sentiment_score": -0.13904975354671478
+    },
+    {
+        "title": "El PSOE registra cuatro querellas contra 11 dirigentes del PP y Vox por acusarlo de robar en los ERE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NRVBNRZZYFDJ3EF4TTEH5KGRVA.jpg?auth=e9d429efb60c346b0ecc6532b670d87f5296a8fb802834dfd6eed201cf3c876c",
+        "tags": [
+            "injurias",
+            "psoe-a",
+            "elías bendodo",
+            "caso de los ere",
+            "tribunales",
+            "juan espadas cejas",
+            "calumnias",
+            "españa",
+            "vox",
+            "pp",
+            "andalucía"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/el-psoe-registra-cuatro-querellas-contra-11-dirigentes-del-pp-y-vox-por-acusarlo-de-robar-en-los-ere.html",
+        "date": "2024-07-25 13:47:18",
+        "sentiment_score": -0.4189247637987137
+    },
+    {
+        "title": "Pontón avisa a Rueda en la gran fiesta del nacionalismo gallego: “No tenemos techo y cada día somos más”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CM3UXT3SO6UH5Z2JYEOSBSKFDQ.jpg?auth=dceed7f3350dd17f10f07929cf398eeae59cdc749bf2f2cf0168a30f52ecbf1c",
+        "tags": [
+            "españa",
+            "alfonso rueda",
+            "ana pontón",
+            "bng",
+            "xose manuel beiras",
+            "alberto núñez feijóo",
+            "galicia",
+            "nacionalismo"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/ponton-avisa-a-rueda-en-la-gran-fiesta-del-nacionalismo-gallego-no-tenemos-techo-y-cada-dia-somos-mas.html",
+        "date": "2024-07-25 13:19:17",
+        "sentiment_score": 0.16138948500156403
+    },
+    {
+        "title": "Detenida en Valencia una exjueza argentina acusada de buscar a mujeres embarazadas sin recursos para vender sus bebés",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LNPPNVODUZDUVM3W2WRBUOJNIM.jpg?auth=8c5e781fe32e4885de3f687738ccc084a4f7bcb33d8be029155b5ad34ea42a42",
+        "tags": [
+            "españa",
+            "ministerio del interior",
+            "argentina",
+            "fugitivos",
+            "detenciones",
+            "policía nacional",
+            "jueces",
+            "adopciones",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/detenida-en-valencia-una-exjueza-argentina-acusada-de-buscar-a-mujeres-embarazadas-sin-recursos-para-vender-sus-bebes.html",
+        "date": "2024-07-25 12:13:57",
+        "sentiment_score": -0.7696671318262815
+    },
+    {
+        "title": "El Tribunal de Estrasburgo avala el archivo por la justicia española del caso de Couso, asesinado en Irak",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7OFFYQRIFWDLNNZX2AIWIFFDNY.jpg?auth=f1d1bd7f90787461d5fb4c285f07b60a1d39463dcd672cfe583cacda1cb0e605",
+        "tags": [
+            "tribunal supremo",
+            "indemnizaciones",
+            "guerra irak",
+            "josé couso",
+            "guerra",
+            "tribunal estrasburgo",
+            "justicia",
+            "josé maría aznar"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/el-tribunal-de-estrasburgo-avala-el-archivo-por-la-justicia-espanola-del-caso-de-couso-asesinado-en-irak.html",
+        "date": "2024-07-25 12:09:00",
+        "sentiment_score": -0.7919495292007923
+    },
+    {
+        "title": "Las entidades independentistas llaman a una Diada unitaria y descentralizada en medio de la negociación de la investidura",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/M5UBWJTBCFHTHHWBN4KR5NB45Y.jpg?auth=045a17836a7a041591d6d598f6799c1c44f853cf607a1c3a13bc8871b413e8f9",
+        "tags": [
+            "lluís llach",
+            "anc",
+            "cataluña",
+            "política",
+            "políticos",
+            "diada",
+            "barcelona",
+            "òmnium cultural",
+            "salvador illa",
+            "independencia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/las-entidades-independentistas-llaman-a-una-diada-unitaria-y-descentralizada-en-medio-de-la-negociacion-de-la-investidura.html",
+        "date": "2024-07-25 11:27:52",
+        "sentiment_score": 0.05711359530687332
+    },
+    {
+        "title": "La innovadora fórmula de Laporta para que el Barça ingrese más dinero",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/24/culemania/palco/872922719_13264394_1706x960.jpg?contentId=ESPIMA20240724_0020",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240725/la-innovadora-formula-laporta-barca-ingrese-dinero/873162741_0.html",
+        "date": "2024-07-25 14:19:49",
+        "sentiment_score": 0.3248315006494522
+    },
+    {
+        "title": "La Aemet avisa: este es el pueblo que ha marcado el récord de temperatura del año, al alcanzar los 45,6°C",
+        "image_url": "https://s1.elespanol.com/2024/07/25/sociedad/873173104_248045634_1706x960.jpg?contentId=ESPIMA20240725_0430",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20240725/aemet-avisa-pueblo-marcado-record-temperatura-ano-alcanzar/873162865_0.html",
+        "date": "2024-07-25 14:18:21",
+        "sentiment_score": 0.2112341672182083
+    },
+    {
+        "title": "El rector de la Complutense reveló al juez que Begoña Gómez hablaba de sus negocios con Sánchez",
+        "image_url": "https://okdiario.com/img/2024/07/25/rector-ok.jpg",
+        "tags": [
+            "investigación",
+            "tribunales",
+            "universidad complutense de madrid",
+            "begoña gómez"
+        ],
+        "link": "https://okdiario.com/investigacion/rector-complutense-juez-begona-gomez-negocios-pedro-sanchez-13216763",
+        "date": "2024-07-25 14:17:41",
+        "sentiment_score": -0.4732201024889946
+    },
+    {
+        "title": "La OSCyL participa este viernes 26 de julio en el IX Festival Internacional de Ópera de Cámara – Little Ópera de Zamora",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/07/25/7ADB39B9-D50D-492C-A786-FDA5B81B87D1/orquesta-sinfonica-castilla-leon_96.jpg?crop=4331%2C2436%2Cx0%2Cy210&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "castilla y león",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/oscyl-participa-este-viernes-26-julio-festival-internacional-opera-camara-little-opera-zamora_2024072566a25b558ec920000190ee10.html",
+        "date": "2024-07-25 14:04:05",
+        "sentiment_score": 0.030520547181367874
+    },
+    {
+        "title": "Así son los siete magistrados que ha propuesto el CGPJ para presidir el Supremo",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/nuevo-CGPJ-1-469x317.jpg",
+        "tags": [
+            "magistrado",
+            "tribunales",
+            "elecciones",
+            "consejo general del poder judicial (cgpj)",
+            "perfiles",
+            "tribunal supremo",
+            "candidatos"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-07-25/siete-magistrados-cgpj-supremo/",
+        "date": "2024-07-25 14:03:21",
+        "sentiment_score": 0.02467793971300125
+    },
+    {
+        "title": "El Gobierno español rechaza cambiar la ley de extranjería por decreto",
+        "image_url": "https://www.infobae.com/resizer/v2/DQBDEGE64BHQDOWVWE77YLEIGU.jpg?auth=18c53993aa821b97ffa3083bf48da1bbb0285446bbd8988f9095bf50f6974b89",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/25/el-gobierno-espanol-rechaza-cambiar-la-ley-de-extranjeria-por-decreto/",
+        "date": "2024-07-25 14:02:29",
+        "sentiment_score": -0.6260108128190041
+    },
+    {
+        "title": "Las Ferias y Fiestas de Salamanca contarán con 111 actividades del 6 al 15 de septiembre",
+        "image_url": "https://s1.elespanol.com/2024/07/25/castilla-y-leon/region/salamanca/873173047_248043876_1706x960.jpg?contentId=ESPIMA20240725_0373",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20240725/ferias-fiestas-salamanca-contaran-actividades-septiembre/873162868_0.html",
+        "date": "2024-07-25 13:20:05",
+        "sentiment_score": 0.037178196012973785
+    },
+    {
+        "title": "Que alguien le explique a Flick qué es el entorno antes de que se ponga a llorar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/620c343c-ea65-466e-82d0-2192959d7331_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/deportes/20240725/alguien-le-explique-flick-entornoantes-106068598",
+        "date": "2024-07-25 13:04:23",
+        "sentiment_score": 0.5460107326507568
+    },
+    {
+        "title": "Pontón celebra o Día da Patria destacando o crecemento do BNG: “Imos seguir facendo historia”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3c9b17a5-a2da-4591-b8d3-bfee629ef2c0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/galicia/2024/07/25/ponton-dia-patria-galicia-106068077.html",
+        "date": "2024-07-25 12:59:08",
+        "sentiment_score": -0.025909990072250366
+    },
+    {
+        "title": "Rufus Wainwright, deslumbrante en San Sebastián a pesar de algún que otro despiste",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2024/07/25/66a24af95cc73.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2024/07/25/rufus-wainwright-deslumbrante-san-sebastian-pesar-despiste-616662-1034.html",
+        "date": "2024-07-25 12:56:33",
+        "sentiment_score": 0.19284237921237946
+    },
+    {
+        "title": "Barcelona identifica a 265 multirreincidentes que acumulan un total de 4.676 delitos",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/07/25/66a25c961ae2a.r_d.927-566-5238.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20240725/barcelona-identifica-265-multirreincidentes-acumulan-total-4676-delitos_215864.html",
+        "date": "2024-07-25 14:19:31",
+        "sentiment_score": -0.49216616712510586
+    },
+    {
+        "title": "Tal día como HOY 26 de julio",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/07/25/cumple-khCC-U220806639857ytD-758x531@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/dia-hoy-julio-20240726161914-nt.html",
+        "date": "2024-07-25 14:19:14",
+        "sentiment_score": 0.03745543956756592
+    },
+    {
+        "title": "Una persona herida por un nuevo tiroteo en la Mina, Barcelona",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/06/20/667451751d03e.r_d.211-2063.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20240725/persona-herida-nuevo-tiroteo-mina-barcelona_215865.html",
+        "date": "2024-07-25 14:18:52",
+        "sentiment_score": -0.828301077708602
+    },
+    {
+        "title": "Carolina Marín: \"El objetivo no es sólo el oro olímpico, sino el proceso\"",
+        "image_url": "https://www.infobae.com/resizer/v2/TEEC7RAZDZAJZE6RNUD2RZ3VJU.jpg?auth=e267f3dcba6efd4a472d0d7a62dd58d07db4f5c17e2904350c08c3ef60e26915",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/25/carolina-marin-el-objetivo-no-es-solo-el-oro-olimpico-sino-el-proceso/",
+        "date": "2024-07-25 14:17:49",
+        "sentiment_score": 0.15608879923820496
+    },
+    {
+        "title": "Foment acusa al Govern de ampliar la protección del delta del Llobregat para \"bloquear\" la ampliación de El Prat",
+        "image_url": "https://s10.s3c.es/imag/_v0/2560x1707/d/2/0/1200x655_fomentzepa.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/12925305/07/24/foment-acusa-al-govern-de-ampliar-la-proteccion-del-delta-del-llobregat-para-bloquear-la-ampliacion-de-el-prat.html",
+        "date": "2024-07-25 14:15:56",
+        "sentiment_score": 0.0823727548122406
+    },
+    {
+        "title": "Flick: «Mi objetivo es ganar títulos, pero hay que ir paso a paso»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/07/25/flick-kjTC-U220813845124zlC-758x531@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/hansi-flick-joan-laporta-barcelona-20240725143546-ntrc.html",
+        "date": "2024-07-25 14:14:32",
+        "sentiment_score": 0.18338214606046677
+    },
+    {
+        "title": "Entidades independentistas llaman a convertir la diada en una gran manifestación unitaria",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/03/24/66008bc409cab.r_d.2687-1696.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20240725/entidades-independentistas-llaman-convertir-diada-gran-manifestacion-unitaria_215858.html",
+        "date": "2024-07-25 14:13:13",
+        "sentiment_score": 0.3625570982694626
+    },
+    {
+        "title": "Presidenciales 2024: Reubican centros de votación en Colombia y España",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/02/cronograma-electoral-CNE-elecciones.jpg",
+        "tags": [
+            "nacionales",
+            "migración"
+        ],
+        "link": "https://2001online.com/migracion/reubican-centros-votacion-colombia-espana/",
+        "date": "2024-07-25 13:18:27",
+        "sentiment_score": 0.036822326481342316
+    },
+    {
+        "title": "Pagos en el Sistema Patria: ¿Qué bonos están activos este #25Jul?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Sistema-Patria.jpg",
+        "tags": [
+            "venezuela",
+            "pagos en el sistema patria: ¿qué bonos están activos este #25jul?",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/pagos-en-el-sistema-patria-que-bonos-estan-activos-este-25jul/",
+        "date": "2024-07-25 13:00:00",
+        "sentiment_score": -0.025872860103845596
+    },
+    {
+        "title": "CNE aclara cuándo deberán cerrar las mesas de votación",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/06/Simulacro-Electoral.png",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/cne-mesas-votacion-cerraran-electores/",
+        "date": "2024-07-25 12:38:43",
+        "sentiment_score": 0.08015209063887596
+    },
+    {
+        "title": "Dólar BCV Venezuela: Así se cotiza la moneda estadounidense este #25Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/BCV-25-JUL.png",
+        "tags": [
+            "dólar latam",
+            "economía",
+            "2001online",
+            "dólar bcv venezuela: así se cotiza la moneda estadounidense este #25jul",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/dolar-bcv-venezuela-asi-se-cotiza-la-moneda-estadounidense-este-25jul/",
+        "date": "2024-07-25 12:23:44",
+        "sentiment_score": 0.03160031884908676
+    },
+    {
+        "title": "Funvisis confirma sismo de 3.8 en las últimas horas (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Funvisis.jpg",
+        "tags": [
+            "funvisis confirma sismo de 3.8 en las últimas horas",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/funvisis-confirma-sismo-de-3-8-en-las-ultimas-horas-detalles/",
+        "date": "2024-07-25 11:54:33",
+        "sentiment_score": -0.09426315128803253
+    },
+    {
+        "title": "Inameh prevé nubosidad parcial y lluvias en las próximas horas",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Inameh-1-1.jpg",
+        "tags": [
+            "venezuela",
+            "inameh prevé nubosidad parcial y lluvias en las próximas horas",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/inameh-preve-nubosidad-parcial-y-lluvias-en-las-proximas-horas/",
+        "date": "2024-07-25 11:37:13",
+        "sentiment_score": 0.044781044125556946
+    },
+    {
+        "title": "¿Qué pasaría si Donald Trump cierra la frontera? Esto advierte López Obrador",
+        "image_url": "./assets/ai_generated/v1_txt2img_cc1407f14d7a4519a7249fa0b9c9e2a8.png",
+        "tags": [
+            "donald trump",
+            "amlo",
+            "migración"
+        ],
+        "link": "https://2001online.com/migracion/que-pasaria-si-donald-trump-cierra-la-frontera-esto-advierte-lopez-obrador/",
+        "date": "2024-07-24 21:00:00",
+        "sentiment_score": -0.1726038157939911
+    },
+    {
+        "title": "¿Qué tarjetas funcionan para hacer compras internacionales desde Venezuela?",
+        "image_url": "https://pxcdn.meridiano.net/052024/1716380413347/tarjetas-de-credito-TDC.jpg?cw=807",
+        "tags": [
+            "bancos",
+            "bancos vnezolanos",
+            "servicios",
+            "tarjetas",
+            "compras internacionales"
+        ],
+        "link": "https://2001online.com/servicios/que-tarjetas-funcionan-para-hacer-compras-internacionales-desde-venezuela/",
+        "date": "2024-07-24 21:00:00",
+        "sentiment_score": 0.050973858684301376
+    },
+    {
+        "title": "Antonio Ecarri cierra campaña y llama a votar masivamente el #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Foto-cortesia-33.jpg",
+        "tags": [
+            "venezuela",
+            "nacionales",
+            "presidenciales en venezuela",
+            "antonio ecarri",
+            "caracas",
+            "#28jul",
+            "28 de julio",
+            "eeuu",
+            "elecciones en venezuela",
+            "2001online"
+        ],
+        "link": "https://2001online.com/nacionales/antonio-ecarri-cierra-campana-y-llama-a-votar-masivamente-el-28jul/",
+        "date": "2024-07-24 20:49:16",
+        "sentiment_score": 0.10876218229532242
+    },
+    {
+        "title": "EEUU: Cómo tramitar la Real ID en Oregon antes de la fecha límite (+Pasos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Real-ID-1063x720.jpg",
+        "tags": [
+            "internacionales",
+            "real id",
+            "eeuu",
+            "oregon"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-como-tramitar-la-real-id-en-oregon-antes-de-la-fecha-limite-pasos/",
+        "date": "2024-07-24 20:43:17",
+        "sentiment_score": 0.0822722464799881
     }
 ];
