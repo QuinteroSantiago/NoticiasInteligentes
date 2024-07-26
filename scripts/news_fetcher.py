@@ -73,7 +73,7 @@ def create_json_structure(json_array):
             "link": row['link'],
             "date": row['pubDate'],
             "sentiment_score": row['sentiment_score'],
-            "publisher": row['source_id'],
+            "publisher": row.get('source_id', 'Otros')
         }
 
     return articles_db
