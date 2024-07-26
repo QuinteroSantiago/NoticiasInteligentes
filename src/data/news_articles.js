@@ -3721,5 +3721,561 @@ export default [
         "link": "https://2001online.com/nacionales/asi-se-desarrolla-el-cierre-de-campana-de-edmundo-gonzalez-en-las-mercedes-imagenes/",
         "date": "2024-07-25 23:14:23",
         "sentiment_score": 0.06178976595401764
+    },
+    {
+        "title": "Abuelos y nietos: Veranos en el pueblo y otras formas de ocio y cuidados",
+        "image_url": "./assets/ai_generated/v1_txt2img_267f9096bf424cca863cceae924f052f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/abuelos-y-nietos-veranos-en-el-pueblo-y-otras-formas-de-ocio-y-cuidados/",
+        "date": "2024-07-26 06:15:55",
+        "sentiment_score": 0.18975181877613068
+    },
+    {
+        "title": "Qué pasa si tengo una pensión de incapacidad permanente y no puedo pagar mis deudas",
+        "image_url": "https://www.infobae.com/resizer/v2/2MYDIIOORZAUBK7XMAU4BRR4GM.jpg?auth=e09c255ae1e1a9cf79c150ae6c2d68aa89fb66dca37c162d38636846f1d4ca8c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/26/que-pasa-si-tengo-una-pension-de-incapacidad-permanente-y-no-puedo-pagar-mis-deudas/",
+        "date": "2024-07-26 05:52:36",
+        "sentiment_score": 0.08392658084630966
+    },
+    {
+        "title": "BASF redujo su beneficio un 12,8 % en el primer semestre por la caída de precios",
+        "image_url": "./assets/ai_generated/v1_txt2img_6fa4a5e2cbe24be5b39559d36f981ec1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/basf-redujo-su-beneficio-un-128-en-el-primer-semestre-por-la-caida-de-precios/",
+        "date": "2024-07-26 05:46:41",
+        "sentiment_score": -0.03384247422218323
+    },
+    {
+        "title": "Holcim logra beneficios de 1.380 millones de dólares en la primera mitad de año (-3,4 %)",
+        "image_url": "./assets/ai_generated/v1_txt2img_08a452423bbf42ec8e80c6a210471479.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/holcim-logra-beneficios-de-1380-millones-de-dolares-en-la-primera-mitad-de-ano-34/",
+        "date": "2024-07-26 05:46:25",
+        "sentiment_score": 0.6535350047051907
+    },
+    {
+        "title": "Ojo con beber al volante, puede llevarte a la ruina económica",
+        "image_url": "./assets/ai_generated/v1_txt2img_9c2a22234ed04a1b81ad72ccbb1fee56.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/ojo-con-beber-al-volante-puede-llevarte-a-la-ruina-economica/",
+        "date": "2024-07-26 05:46:06",
+        "sentiment_score": -0.9090776424854994
+    },
+    {
+        "title": "El calor remite, aunque el centro peninsular tiene aviso naranja por máximas entre 39-40o",
+        "image_url": "./assets/ai_generated/v1_txt2img_a5e708cadcf94f2aad3c569b18178a4d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/el-calor-remite-aunque-el-centro-peninsular-tiene-aviso-naranja-por-maximas-entre-39-40/",
+        "date": "2024-07-26 05:45:50",
+        "sentiment_score": -0.050657719373703
+    },
+    {
+        "title": "Científicos españoles relacionan unas secuencias móviles del ADN que alteran los genes con el síndrome de Down",
+        "image_url": "https://www.infobae.com/resizer/v2/M2EQHWHLXBH6PHJWZ4MIPERGMA.jpg?auth=7f0510211916b596b5bd72da5396422250fbd6c757066a70320f70873095d3ee",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/26/cientificos-espanoles-relacionan-unas-secuencias-moviles-del-adn-que-alteran-los-genes-con-el-sindrome-de-down/",
+        "date": "2024-07-26 05:45:42",
+        "sentiment_score": 0.22915520519018173
+    },
+    {
+        "title": "Efemérides del 27 de julio",
+        "image_url": "./assets/ai_generated/v1_txt2img_4ceb47d41f444445ae8e15f70b9497ee.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/efemerides-del-27-de-julio/",
+        "date": "2024-07-26 05:45:31",
+        "sentiment_score": -0.015892766416072845
+    },
+    {
+        "title": "La china Lenovo nombra a Tolga Kurtoglu, ex de HP, como nuevo director de tecnología",
+        "image_url": "./assets/ai_generated/v1_txt2img_916048d56d9e4c62bb6b49e76732f948.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/la-china-lenovo-nombra-a-tolga-kurtoglu-ex-de-hp-como-nuevo-director-de-tecnologia/",
+        "date": "2024-07-26 05:30:24",
+        "sentiment_score": 0.1768580675125122
+    },
+    {
+        "title": "Torres quiere que los benedictinos salgan de Cuelgamuros \"de manera educada y acordada\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_32ca492113fb491c90f6060476679d07.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/torres-quiere-que-los-benedictinos-salgan-de-cuelgamuros-de-manera-educada-y-acordada/",
+        "date": "2024-07-26 05:17:31",
+        "sentiment_score": -0.3110494837164879
+    },
+    {
+        "title": "Un trabajador indio endeudado encuentra un diamante de US$ 100.000 que le cambiará la vida",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/raju-gond.jpg?quality=100&strip=info",
+        "tags": [
+            "diamante",
+            "vida"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/trabajador-indio-diamante-encuentro-trax/",
+        "date": "2024-07-26 06:08:58",
+        "sentiment_score": -0.21163521707057953
+    },
+    {
+        "title": "OpenAI le compite a Google con un nuevo motor de búsqueda de inteligencia artificial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2153474303-20240725185842649.webp",
+        "tags": [
+            "inteligencia artificial",
+            "inteligencia artifical",
+            "google",
+            "openai",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/openai-google-motor-busqueda-inteligencia-artifical-trax/",
+        "date": "2024-07-26 05:40:57",
+        "sentiment_score": 0.2935531586408615
+    },
+    {
+        "title": "Harris y Trump en desacuerdo sobre el debate presidencial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-Trump.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/harris-trump-desacuerdo-debate-presidencial-trax/",
+        "date": "2024-07-26 05:16:58",
+        "sentiment_score": -0.7399971894919872
+    },
+    {
+        "title": "Jóvenes opositores venezolanos se preparan para abandonar el país si Maduro es reelegido",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Venezuela-jovenes-elecciones-resultaod-e1721967099444.jpeg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/jovenes-opositores-venezolanos-abandonar-pais-maduro-reeleccion-trax/",
+        "date": "2024-07-26 04:49:30",
+        "sentiment_score": -0.7276294156908989
+    },
+    {
+        "title": "Cuando Barbie aprendió lo que era un ginecólogo, también lo hicieron muchas otras personas, según un nuevo estudio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Copia-de-FOTO-PARA-WP-2024-07-25T110842.682.jpg?quality=100&strip=info",
+        "tags": [
+            "cine",
+            "noticias de salud",
+            "barbie"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/barbie-aprendio-ginecologo-muchas-personas-nuevo-estudio-trax/",
+        "date": "2024-07-26 04:01:34",
+        "sentiment_score": -0.026247523725032806
+    },
+    {
+        "title": "Venezolanos residentes en Argentina hablan de un posible regreso a casa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/60936510-53319444-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezolanos-residentes-argentina-maduro-oposicion-elecciones/",
+        "date": "2024-07-26 02:40:52",
+        "sentiment_score": -0.1445981040596962
+    },
+    {
+        "title": "Harris dice que \"no se quedará en silencio\" ante el sufrimiento de Gaza y le pide a Netanyahu que concrete un acuerdo de alto el fuego",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ap24207806429876.jpg?quality=100&strip=info",
+        "tags": [
+            "benjamin netanyahu",
+            "noticias de ee.uu.",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/kamala-harris-silencio-gaza-netanyahu-trax/",
+        "date": "2024-07-26 02:22:18",
+        "sentiment_score": -0.21440841257572174
+    },
+    {
+        "title": "Cuánto dinero cobra un profesor de secundaria en España en 2024: sueldos por comunidades autónomas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/26/profesores-secundaria-ktpD-U602883350561ywF-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/dinero-cobra-profesor-secundaria-espana-2024-sueldos-20240726080000-nt.html",
+        "date": "2024-07-26 06:00:00",
+        "sentiment_score": -0.12228657305240631
+    },
+    {
+        "title": "Protejamos la piscina Stella, un lugar único por su arquitectura, su paisajismo y su historia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KWAJ2FR3NRG5TMQDYLDENTKRII.jpg?auth=f5187a7ce69a2ebfe5cdc2e4f9344bd18f400f5e2ee71eb25ec04451620719f3",
+        "tags": [
+            "patrimonio cultural",
+            "patrimonio artístico",
+            "piscinas",
+            "arquitectura",
+            "madrid",
+            "comunidad de madrid",
+            "ayuntamiento madrid",
+            "opinión",
+            "protección patrimonio",
+            "ayuntamientos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-26/protejamos-la-piscina-stella-un-lugar-unico-por-su-arquitectura-su-paisajismo-y-su-historia.html",
+        "date": "2024-07-26 05:29:36",
+        "sentiment_score": -0.9161913022398949
+    },
+    {
+        "title": "“Si no combatimos la desigualdad, lo pagaremos con la democracia”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EZODK5XNLJB3HG4BLGB4S4UVSI.jpg?auth=dd0f086911faf8643bf7c09c27798e4d77a617b655c9a7c8c60df56a0fcaa8aa",
+        "tags": [
+            "desigualdad económica",
+            "desigualdad social",
+            "españa",
+            "pedro sánchez",
+            "gobierno de españa",
+            "sumar",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2024-07-26/si-no-combatimos-la-desigualdad-lo-pagaremos-con-la-democracia.html",
+        "date": "2024-07-26 03:40:00",
+        "sentiment_score": -0.4741826802492142
+    },
+    {
+        "title": "El regreso de Puigdemont condiciona el tramo final de las negociaciones para investir a Illa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H7CXUTHMRNFA5EEBQPQAOUMEWU.jpg?auth=27cec646fa124d9047dee82764b1acded807b87cd4e8fd0b4943975557967656",
+        "tags": [
+            "generalitat cataluña",
+            "juntsxcat",
+            "cataluña",
+            "carles puigdemont",
+            "política",
+            "parlament cataluña",
+            "psc",
+            "erc"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-26/el-regreso-de-puigdemont-condiciona-el-tramo-final-de-las-negociaciones-para-investir-a-illa.html",
+        "date": "2024-07-26 03:40:00",
+        "sentiment_score": -0.095577672123909
+    },
+    {
+        "title": "El Tribunal de Cuentas, primera instancia que acude a la justicia europea contra la ley de amnistía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/74RTNSUAE4QB4Z7RMEUJ2JXIXY.jpg?auth=7f06cbd97a693965f90b36b23387a62a56fab36c378bb2cb76f7f0c602541ab5",
+        "tags": [
+            "tribunales",
+            "generalitat cataluña",
+            "amnistía",
+            "españa",
+            "carles puigdemont",
+            "oriol junqueras",
+            "unión europea",
+            "procés independentista catalán",
+            "gobierno",
+            "tribunal de cuentas",
+            "tribunal justicia unión europea",
+            "ley de amnistía",
+            "malversación fondos",
+            "justicia"
+        ],
+        "link": "https://elpais.com/espana/2024-07-26/el-tribunal-de-cuentas-primera-instancia-que-acude-a-la-justicia-europea-contra-la-ley-de-amnistia.html",
+        "date": "2024-07-26 03:40:00",
+        "sentiment_score": -0.8308733329176903
+    },
+    {
+        "title": "Un error judicial deja sin castigo a una red que captó a mujeres vulnerables en Perú y las llevó como ‘mulas’ a España",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OQOMLGNVH5JZFEXBPCGZQOLBHI.jpg?auth=b06c8e07e3028bc41f2bb983f61c967544a8591c755273d24b622cfa805bf84d",
+        "tags": [
+            "cataluña",
+            "tráfico cocaína",
+            "errores judiciales",
+            "trata de seres humanos",
+            "trata de mujeres",
+            "sentencias absolutorias",
+            "prostitución",
+            "sentencias",
+            "sentencias condenatorias"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-26/un-error-judicial-deja-sin-castigo-a-una-red-que-capto-a-mujeres-vulnerables-en-peru-y-las-llevo-como-mulas-a-espana.html",
+        "date": "2024-07-26 03:40:00",
+        "sentiment_score": -0.7394008412957191
+    },
+    {
+        "title": "Planes de este fin de semana: fiestas en Poble Sec o Carnaval en Castelldefels",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AXON47U2YBAUDJ3O5OLA73MISU.jpg?auth=c924b51855545e318b1a721e205e015c43b978df825dc7346bad85d1710e04c9",
+        "tags": [
+            "barcelona",
+            "castelldefels",
+            "conciertos",
+            "festivales",
+            "cultura",
+            "carnavales",
+            "cataluña",
+            "música"
+        ],
+        "link": "https://elpais.com/espana/catalunya/barcelona-se-sale/2024-07-26/planes-de-este-fin-de-semana-fiestas-en-poble-sec-o-carnaval-en-castelldefels.html",
+        "date": "2024-07-26 03:15:00",
+        "sentiment_score": 0.17777902632951736
+    },
+    {
+        "title": "Se buscan ‘albañilas’, pintoras y fontaneras para formar cuadrilla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IPAGMENFEVAT5I6SGVBC35TEOI.jpg?auth=11c275d56bb3ace90cb642f58955c7d961a169bbd85182f2e04ac14b41b85026",
+        "tags": [
+            "obras rehabilitación",
+            "igualdad salarial",
+            "obras reforma",
+            "almoradí",
+            "oficios",
+            "igualdad oportunidades",
+            "rehabilitación edificios",
+            "obras mantenimiento",
+            "rehabilitación vivienda",
+            "alicante",
+            "comunidad valenciana",
+            "mujeres"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-26/se-buscan-albanilas-para-formar-cuadrilla.html",
+        "date": "2024-07-26 03:09:00",
+        "sentiment_score": 0.004910089075565338
+    },
+    {
+        "title": "Experiencias más allá del postureo: tres locales de moda para comer y beber de verdad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7DM27PNY5JDZ5OSB6EDTRS2OCI.jpg?auth=0f45cf3ad1b70cc42b35b62fe0abbf992e4b3910f2735c6356fe52edd5c2732b",
+        "tags": [
+            "moda",
+            "coctelería",
+            "restaurantes",
+            "café",
+            "café de especialidad",
+            "tendencias",
+            "madrid",
+            "comunidad de madrid",
+            "restauración",
+            "ocio",
+            "verano",
+            "hostelería",
+            "cócteles",
+            "zona malasaña",
+            "bares",
+            "cafeterías",
+            "tiempo libre"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-26/experiencias-mas-alla-del-postureo-tres-locales-de-moda-para-comer-y-beber-de-verdad.html",
+        "date": "2024-07-26 03:00:00",
+        "sentiment_score": 0.3122689798474312
+    },
+    {
+        "title": "Un viaje de 7.000 kilómetros para votar este domingo contra Maduro",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/C4I4AONBWVEUTBOUFNDUZOWNJE.jpg?auth=8cadc296052f8efd6daf31d7c6881847dd58e3d64cac2d67b4a31d61661c2927",
+        "tags": [
+            "venezuela",
+            "inmigrantes latinoamericanos",
+            "caracas",
+            "chavismo",
+            "edmundo gonzález",
+            "maría corina machado",
+            "madrid",
+            "pasajeros",
+            "nicolás maduro",
+            "comunidad de madrid",
+            "elecciones venezuela",
+            "aeropuerto madrid barajas",
+            "vuelo",
+            "exilio",
+            "viajes",
+            "inmigrantes",
+            "aeropuertos",
+            "barrio salamanca"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-26/un-viaje-de-7000-kilometros-para-votar-este-domingo-contra-maduro.html",
+        "date": "2024-07-26 03:00:00",
+        "sentiment_score": -0.4573011174798012
+    },
+    {
+        "title": "La Oficina Antifraude andaluza investiga la “afinidad política y sindical” de trabajadores del Ayuntamiento de Martos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/24AKDVKC6VFEFPXWDK2VSWJKPM.png?auth=f8f6666af3f6d14b2daf06ef60e714731a70ccbab44537018db8ba807bc4a406",
+        "tags": [
+            "corrupción",
+            "corrupción política",
+            "pp-a",
+            "martos",
+            "psoe-a",
+            "junta de andalucía",
+            "provincia jaén",
+            "españa",
+            "andalucía",
+            "fraudes"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-07-26/la-oficina-antifraude-andaluza-investiga-la-afinidad-politica-y-sindical-de-trabajadores-del-ayuntamiento-de-martos.html",
+        "date": "2024-07-26 03:00:00",
+        "sentiment_score": -0.8676590155810118
+    },
+    {
+        "title": "Ultimando el pacto y un juez espiado",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/06/26/politica/865923462_13273971_1706x960.jpg?contentId=ESPIMA20240626_0063",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20240726/ultimando-el-pacto-un-juez-espiado/873412654_0.html",
+        "date": "2024-07-26 06:13:34",
+        "sentiment_score": -0.8000782933086157
+    },
+    {
+        "title": "'Transformers One' arranca la Comic-Con de San Diego con el origen de una enemistad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d291621-a4ee-44ce-852f-edb2651041f6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/cultura/2024/07/26/transformers-one-arranca-comic-san-106091507.html",
+        "date": "2024-07-26 05:43:11",
+        "sentiment_score": -0.6539065502583981
+    },
+    {
+        "title": "¿A qué le tenemos miedo?",
+        "image_url": "https://www.infobae.com/resizer/v2/Q6HZNWNJNBCNBA2THLSO4YUYCA.jpg?auth=2d611d7a1dd59d6aa9a0881f6775d635113bb9ea6494d1205f6ee0d2c6bcd93b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/opinion/2024/07/26/a-que-le-tenemos-miedo/",
+        "date": "2024-07-26 05:35:37",
+        "sentiment_score": -0.8523629438132048
+    },
+    {
+        "title": "Génova reconoce \"tensiones\" con Coalición Canaria por la crisis migratoria y el cortejo de Torres",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/99b104af-7fee-4fc1-b91a-82c7e84ae5d2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/espana/2024/07/26/genova-desconfia-cortejo-psoe-coalicion-canaria-crisis-migratoria-106091349.html",
+        "date": "2024-07-26 05:32:32",
+        "sentiment_score": -0.8227220103144646
+    },
+    {
+        "title": "Venta de Baños, del pasado ferroviario al desarrollo industrial",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/07/12/venta-Rvs6yj4z8ThKP8byIif4naP-758x531@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/palencia/venta-banos-pasado-ferroviario-desarrollo-industrial-20240726123804-nt.html",
+        "date": "2024-07-26 05:22:44",
+        "sentiment_score": 0.05094053968787193
+    },
+    {
+        "title": "Guerra entre Israel y Gaza, en directo | La Casa Blanca considera a Netanyahu “un amigo de EE UU”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DMRNQVAV4JGMPNVAOUCQ7GQL6Y.jpg?auth=6f9aebdaadd385e4c47319c417e56d24f8d87c1be75936a8a4aaceec94acebc1",
+        "tags": [
+            "tel aviv",
+            "franja gaza",
+            "tregua",
+            "cisjordania",
+            "oriente próximo",
+            "bombardeos",
+            "palestina",
+            "conflicto árabe-israelí",
+            "hamás",
+            "guerra",
+            "jerusalén",
+            "territorios palestinos",
+            "benjamin netanyahu",
+            "conflictos armados",
+            "israel"
+        ],
+        "link": "https://elpais.com/internacional/2024-07-26/guerra-entre-israel-y-gaza-en-directo.html",
+        "date": "2024-07-26 05:01:15",
+        "sentiment_score": -0.7067833170294762
+    },
+    {
+        "title": "Girona FC y Espanyol, el cara a cara de dos realidades opuestas",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/2728.png",
+        "tags": [
+            "actualidad",
+            "girona fc"
+        ],
+        "link": "https://lagradaonline.com/girona-fc-espanyol/",
+        "date": "2024-07-26 05:00:08",
+        "sentiment_score": 0.6994146294891834
+    },
+    {
+        "title": "El 'Puerto Banús' que inversores cataríes quieren construir en Málaga entra de lleno en la fase de licencia",
+        "image_url": "https://s1.elespanol.com/2022/01/27/malaga/malaga-ciudad/645696154_221433761_1706x960.jpg?contentId=ESPIMA20220127_0730",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/malaga-ciudad/20240726/puerto-banus-inversores-cataries-quieren-construir-malaga-entra-lleno-fase-licencia/873162891_0.html",
+        "date": "2024-07-26 05:00:00",
+        "sentiment_score": 0.165317015722394
+    },
+    {
+        "title": "El vídeo de la bronca del juez al abogado de Begoña en la declaración del rector: «No haga gestos»",
+        "image_url": "https://okdiario.com/img/2024/07/25/rector-ok-1.jpg",
+        "tags": [
+            "investigación",
+            "pedro sánchez",
+            "tribunales",
+            "begoña gómez"
+        ],
+        "link": "https://okdiario.com/investigacion/video-bronca-juez-abogado-begona-declaracion-rector-13218306",
+        "date": "2024-07-26 04:51:05",
+        "sentiment_score": -0.5297355279326439
+    },
+    {
+        "title": "Begoña Gómez retorció el reglamento de la Complutense para colocar a 27 profesores afines en su máster",
+        "image_url": "https://okdiario.com/img/2024/07/25/begona-gomez-retorcio-interior.jpg",
+        "tags": [
+            "gobierno",
+            "universidad complutense de madrid",
+            "pedro sánchez",
+            "begoña gómez",
+            "españa"
+        ],
+        "link": "https://okdiario.com/espana/begona-gomez-retorcio-reglamento-complutense-colocar-27-profesores-afines-master-13216747",
+        "date": "2024-07-26 04:45:11",
+        "sentiment_score": -0.3579295426607132
+    },
+    {
+        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Teòric, Casa Pince y Bodega J. Cala",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f0d8eea-1c27-44a9-b810-db13d8657866_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20240726/buenos-restaurantes-barcelona-teoric-casa-pince-bodega-j-cala-106054986",
+        "date": "2024-07-26 06:01:15",
+        "sentiment_score": -0.2884328067302704
+    },
+    {
+        "title": "Una receta de patatas cuya idea surgió tras completar el servicio militar",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/07/25/IMG_8664-k9DI-U220722219588xc-758x531@El%20Norte.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/canal-recetas/receta-patatas-idea-surgio-tras-completar-servicio-20240726065344-nt.html",
+        "date": "2024-07-26 05:50:55",
+        "sentiment_score": -0.051525115966796875
+    },
+    {
+        "title": "Los demonios y la paz del sargento Fran Garrigós, el militar que lucha por el oro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b890e0e8-7f5c-4bf5-b0fe-ff5b95f3066c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/olimpiadas/2024/07/26/demonios-paz-sargento-fran-garrigos-106091607.html",
+        "date": "2024-07-26 05:44:48",
+        "sentiment_score": 0.07956403493881226
+    },
+    {
+        "title": "Tòfol Martínez gana el primer día del Bilbao Blues Festival",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/07/26/bilbao-blues-consurso-kK4C--758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/tofol-martinez-gana-primer-dia-bilbao-blues-20240726073859-nt.html",
+        "date": "2024-07-26 05:38:59",
+        "sentiment_score": 0.2591312825679779
     }
 ];
