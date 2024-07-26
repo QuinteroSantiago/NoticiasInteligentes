@@ -1814,5 +1814,215 @@ export default [
         "link": "https://2001online.com/internacionales/eeuu-como-tramitar-la-real-id-en-oregon-antes-de-la-fecha-limite-pasos/",
         "date": "2024-07-24 20:43:17",
         "sentiment_score": 0.0822722464799881
+    },
+    {
+        "title": "Las ganancias netas de Cemex cayeron un 3 % en el primer semestre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_8fd0b9b2d1f243da95bab12ce0c5b3a8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/las-ganancias-netas-de-cemex-cayeron-un-3-en-el-primer-semestre-de-2024/",
+        "date": "2024-07-25 14:35:46",
+        "sentiment_score": -0.12206270545721054
+    },
+    {
+        "title": "La GVA lamenta que el Gobierno se centre en la vivienda turística y no en las vacías",
+        "image_url": "./assets/ai_generated/v1_txt2img_7b1a39b5991e4371bcb8eae5deaca151.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-gva-lamenta-que-el-gobierno-se-centre-en-la-vivienda-turistica-y-no-en-las-vacias/",
+        "date": "2024-07-25 14:35:29",
+        "sentiment_score": -0.8016692735254765
+    },
+    {
+        "title": "El aeropuerto de Huelva despega de manos de Fundación Caja Rural, AZVI y Avoris (Barceló)",
+        "image_url": "./assets/ai_generated/v1_txt2img_892af129558d45569964cc9ddae67e5c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-aeropuerto-de-huelva-despega-de-manos-de-fundacion-caja-rural-azvi-y-avoris-barcelo/",
+        "date": "2024-07-25 14:35:12",
+        "sentiment_score": -0.38722722604870796
+    },
+    {
+        "title": "Rodrigo Conde: \"Esperamos preparados para conseguir grandes logros\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_f62b7aa97b5b45769282dbedb44b0d7b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/rodrigo-conde-esperamos-preparados-para-conseguir-grandes-logros/",
+        "date": "2024-07-25 14:34:43",
+        "sentiment_score": 0.8040110506117344
+    },
+    {
+        "title": "Jessica Valls: \"Me sigo poniendo nerviosa a pesar de ser mis terceros juegos olímpicos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_368151312c3d415e803aa32a6272bc70.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/jessica-valls-me-sigo-poniendo-nerviosa-a-pesar-de-ser-mis-terceros-juegos-olimpicos/",
+        "date": "2024-07-25 14:34:26",
+        "sentiment_score": -0.8219278398901224
+    },
+    {
+        "title": "Ovación de la bancada soberanista a Ruben Wagensberg (ERC) en su regreso al Parlament",
+        "image_url": "./assets/ai_generated/v1_txt2img_2fefca18f5914c2b83bbd153f5089989.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/ovacion-de-la-bancada-soberanista-a-ruben-wagensberg-erc-en-su-regreso-al-parlament/",
+        "date": "2024-07-25 14:33:21",
+        "sentiment_score": 0.13437050580978394
+    },
+    {
+        "title": "Observa cómo un poderoso tifón “rebota” en Taiwán como si fuera un \"pinball\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_a03b3eb498f54fe68bda4f9845de5704.png",
+        "tags": [
+            "tifón",
+            "pinball",
+            "mundo",
+            "taiwán"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tifon-taiwan-pinball-clima/",
+        "date": "2024-07-25 14:23:53",
+        "sentiment_score": -0.05290666222572327
+    },
+    {
+        "title": "Lula retira a sus observadores de las elecciones venezolanas tras dudar Maduro de la integridad democrática brasileña",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/25/lulamaduro-RxIO4yly6mZoDQVGiIIuwIL-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/lula-retira-observadores-elecciones-venezolanas-tras-dudar-20240725163325-nt.html",
+        "date": "2024-07-25 14:33:26",
+        "sentiment_score": -0.1580987125635147
+    },
+    {
+        "title": "Director deportivo de Lazio habló sobre el interés en James Rodríguez",
+        "image_url": "./assets/ai_generated/v1_txt2img_bca64abbdb6b45cea9c161a3135da597.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/07/25/director-deportivo-de-lazio-hablo-sobre-el-interes-en-james-rodriguez/",
+        "date": "2024-07-25 14:29:05",
+        "sentiment_score": 0.37965816259384155
+    },
+    {
+        "title": "Los jesuitas de Cataluña admiten 41 acusados de pederastia desde los años cuarenta: “La cultura del silencio fue la dominante”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FR6REISOUNAARMKUIP3YWHWCFU.jpg?auth=fe6ed5480e2b8a4c220c3d8cd6803745ac34eccfc7c52275923b99a102891843",
+        "tags": [
+            "órdenes religiosas",
+            "sociedad",
+            "iglesia católica",
+            "iglesia católica española",
+            "conferencia episcopal española",
+            "violaciones",
+            "curas",
+            "abusos sexuales iglesia católica españa",
+            "religión",
+            "abusos sexuales",
+            "pederastia",
+            "abusos sexuales iglesia católica"
+        ],
+        "link": "https://elpais.com/sociedad/2024-07-25/los-jesuitas-de-cataluna-admiten-41-acusados-de-pederastia-desde-los-anos-cuarenta-la-cultura-del-silencio-fue-la-dominante.html",
+        "date": "2024-07-25 14:34:14",
+        "sentiment_score": -0.6229252330958843
+    },
+    {
+        "title": "Festes de Gràcia 2024 en Barcelona: programa, fechas y detalles",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/08/22/vivir-en-barcelona/606199375_9158092_1706x960.jpg?contentId=ESPIMA20210822_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gracia/20240725/festes-de-gracia-en-barcelona-programa-fechas-detalles/873162742_0.html",
+        "date": "2024-07-25 14:33:37",
+        "sentiment_score": 0.6807779567316175
+    },
+    {
+        "title": "La periodista de la Agencia EFE Natalia Arriaga, relevista de la antorcha de París 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_1953e8783c45421496aea1acf01b0609.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/25/la-periodista-de-la-agencia-efe-natalia-arriaga-relevista-de-la-antorcha-de-paris-2024/",
+        "date": "2024-07-25 14:33:33",
+        "sentiment_score": -0.019870243966579437
+    },
+    {
+        "title": "Veeva Vault Quality ayuda a Neuraxpharm a impulsar operaciones de calidad fluidas",
+        "image_url": "https://mma.prnewswire.com/media/1488285/Veeva_Systems_Logo.jpg?p=publish",
+        "tags": [
+            "cloud computing/internet of things",
+            "computer & electronics",
+            "biotechnology",
+            "cpr",
+            "tls",
+            "health care & hospitals",
+            "iot",
+            "bio",
+            "hea",
+            "telecommunications industry",
+            "stw",
+            "computer software"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/veeva-vault-quality-ayuda-a-neuraxpharm-a-impulsar-operaciones-de-calidad-fluidas-302206739.html",
+        "date": "2024-07-25 14:33:00",
+        "sentiment_score": 0.6277108956128359
+    },
+    {
+        "title": "Bárbara Rey aparece en el 'prime time' de TVE con una pulsera en la que se lee \"Gobierno dimisión\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/25/barbara-rey-en-lazos-de-sangre.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/noticia/5535065/0/barbara-rey-aparece-prime-time-tve-con-una-pulsera-que-se-lee-gobierno-dimision/",
+        "date": "2024-07-25 14:32:17",
+        "sentiment_score": -0.18922867998480797
+    },
+    {
+        "title": "La música catalana se tomará el Central Park este domingo",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/Agenda-Catalan-Sounds-1.jpg",
+        "tags": [
+            "conciertos en nueva york",
+            "summerstage",
+            "conciertos en nyc",
+            "nueva york",
+            "central park"
+        ],
+        "link": "https://eldiariony.com/2024/07/25/la-musica-catalana-se-tomara-el-central-park-este-domingo/",
+        "date": "2024-07-25 14:30:00",
+        "sentiment_score": 0.6422619223594666
+    },
+    {
+        "title": "De Niña Pastori y su marido a Mariló Montero: los VIPs que han disfrutado del concierto de Luis Miguel en Chiclana",
+        "image_url": "https://www.hola.com/horizon/landscape/d82a0868e7a3-dlu5615270033.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/actualidad/20240725709097/luis-miguel-concierto-chiclana/",
+        "date": "2024-07-25 14:25:00",
+        "sentiment_score": 0.32175682485103607
+    },
+    {
+        "title": "La America’s Cup promueve la accesibilidad y la democratización de la vela",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/louis-vuitton-copa-america-1-1-469x317.jpg",
+        "tags": [
+            "actualidad",
+            "servimedia"
+        ],
+        "link": "https://theobjective.com/actualidad/2024-07-25/americas-cup-vela/",
+        "date": "2024-07-25 14:24:49",
+        "sentiment_score": 0.7522548586130142
+    },
+    {
+        "title": "Unai Simón echa un cable a Nico Williams, objetivo del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/25/culemania/culemaniacos/873172756_13272047_1706x960.jpg?contentId=ESPIMA20240725_0082",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20240725/unai-simon-cable-nico-williams-objetivo-barca/873162740_0.html",
+        "date": "2024-07-25 14:23:29",
+        "sentiment_score": -0.48039622232317924
     }
 ];
