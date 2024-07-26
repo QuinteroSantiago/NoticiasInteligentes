@@ -2024,5 +2024,635 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20240725/unai-simon-cable-nico-williams-objetivo-barca/873162740_0.html",
         "date": "2024-07-25 14:23:29",
         "sentiment_score": -0.48039622232317924
+    },
+    {
+        "title": "Spotify España: las 10 canciones más sonadas hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/IMPJZQYSFFCT5LEE3Y233JR2KU.jpg?auth=9dab3f5d29276349da062e82eb07e751d76a277731638721defdd82c76cd5859",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/spotify-espana-las-10-canciones-mas-sonadas-hoy/",
+        "date": "2024-07-25 17:16:18",
+        "sentiment_score": 0.5542884767055511
+    },
+    {
+        "title": "El Parlamento de Cataluña designa a los ocho senadores propuestos por PSC, Junts, ERC y PP",
+        "image_url": "./assets/ai_generated/v1_txt2img_7166ee08b1df462d88e9726562641884.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-parlamento-de-cataluna-designa-a-los-ocho-senadores-propuestos-por-psc-junts-erc-y-pp/",
+        "date": "2024-07-25 17:08:06",
+        "sentiment_score": -0.04029092937707901
+    },
+    {
+        "title": "Hallan herramientas y restos de tigre de sable y de mamut en yacimientos de Orce (Granada)",
+        "image_url": "./assets/ai_generated/v1_txt2img_8da4f95046564d66a7c085e5ba03d5b7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/hallan-herramientas-y-restos-de-tigre-de-sable-y-de-mamut-en-yacimientos-de-orce-granada/",
+        "date": "2024-07-25 17:07:49",
+        "sentiment_score": -0.12145772576332092
+    },
+    {
+        "title": "Muere un hombre de 73 años en una playa de Port de la Selva (Girona)",
+        "image_url": "./assets/ai_generated/v1_txt2img_e090d4920fa04dbdb06ee25f7ced76f4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/muere-un-hombre-de-73-anos-en-una-playa-de-port-de-la-selva-girona/",
+        "date": "2024-07-25 17:07:20",
+        "sentiment_score": -0.7642843052744865
+    },
+    {
+        "title": "Nuevos dispositivos permiten a los Mossos leer en ruta el tacógrafo de vehículos pesados",
+        "image_url": "./assets/ai_generated/v1_txt2img_69e1d4338d37427d9c47f8bbf66f3538.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/nuevos-dispositivos-permiten-a-los-mossos-leer-en-ruta-el-tacografo-de-vehiculos-pesados/",
+        "date": "2024-07-25 17:07:03",
+        "sentiment_score": 0.14130402356386185
+    },
+    {
+        "title": "Fallecidos y un superviviente del naufragio del Argos llegan a Puerto Stanley (Malvinas)",
+        "image_url": "./assets/ai_generated/v1_txt2img_33fd0fb137ab49feb32f4b846048c603.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/fallecidos-y-un-superviviente-del-naufragio-del-argos-llegan-a-puerto-stanley-malvinas/",
+        "date": "2024-07-25 17:06:46",
+        "sentiment_score": -0.6702840924263
+    },
+    {
+        "title": "La comisión que investiga al rector de la Universidad de Salamanca tendrá tres expertos",
+        "image_url": "./assets/ai_generated/v1_txt2img_6aba4c54875c42318f2223521d3ef914.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-comision-que-investiga-al-rector-de-la-universidad-de-salamanca-tendra-tres-expertos/",
+        "date": "2024-07-25 17:06:29",
+        "sentiment_score": 0.025608733296394348
+    },
+    {
+        "title": "Luz verde del Parlamento catalán a cambiar el reglamento para permitir el voto telemático",
+        "image_url": "./assets/ai_generated/v1_txt2img_ce1c2038772b4bddba90901486de4c10.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/luz-verde-del-parlamento-catalan-a-cambiar-el-reglamento-para-permitir-el-voto-telematico/",
+        "date": "2024-07-25 17:06:12",
+        "sentiment_score": 0.2932990491390228
+    },
+    {
+        "title": "Vocales del CGPJ elegirán a presidente entre 3 candidatos progresistas y 4 conservadores",
+        "image_url": "./assets/ai_generated/v1_txt2img_d8db2e8c947f4d5caafd6a70a15dc554.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/vocales-del-cgpj-elegiran-a-presidente-entre-3-candidatos-progresistas-y-4-conservadores/",
+        "date": "2024-07-25 17:05:55",
+        "sentiment_score": -0.05967099964618683
+    },
+    {
+        "title": "El Parlament designa los 8 senadores autonómicos de PSC, Junts, ERC y PP",
+        "image_url": "https://www.infobae.com/resizer/v2/HKC5IG6J25ABXLU6CQTHWRF7D4.jpg?auth=7bf285eb0f5e89eacab4da9e3afa1637d53e8697a1ea28474bda80323c63cf51",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-parlament-designa-los-8-senadores-autonomicos-de-psc-junts-erc-y-pp/",
+        "date": "2024-07-25 17:04:45",
+        "sentiment_score": -0.039732396602630615
+    },
+    {
+        "title": "Claudia Sheinbaum anuncia un nuevo miembro para su gabinete",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/19244406-45398777-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "elecciones en méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/claudia-sheinbaum-mexico-gabinete-elecciones-orix/",
+        "date": "2024-07-25 17:01:10",
+        "sentiment_score": 0.37181099504232407
+    },
+    {
+        "title": "Cancilleres de Colombia y Brasil se reunirán este jueves en Brasilia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2154131877-e1721925608910.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/canciller-colombia-brasil-reuniran-orix/",
+        "date": "2024-07-25 16:44:00",
+        "sentiment_score": -0.050172433257102966
+    },
+    {
+        "title": "Canciller de Colombia no viajará a Caracas para las elecciones de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2154131877-e1721925608910.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/canciller-de-colombia-no-viajara-a-caracas-para-las-elecciones-de-venezuela/",
+        "date": "2024-07-25 16:44:00",
+        "sentiment_score": -0.5053220391273499
+    },
+    {
+        "title": "El incendio Park de California aumenta 7 veces su tamaño en unas horas y Oregon se enfrenta al mayor incendio activo de EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Copia-de-FOTO-PARA-WP-2024-07-25T095233.139.jpg?quality=100&strip=info",
+        "tags": [
+            "incendios"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/incendio-park-california-oregon-mayor-incendio-activo-ee-uu-trax/",
+        "date": "2024-07-25 16:26:27",
+        "sentiment_score": -0.5166798308491707
+    },
+    {
+        "title": "Rescate social a través de la música: conoce el sistema de orquestas de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20812362-233676-06699999998-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sistema-orquestas-venezuela-cafe-tv/",
+        "date": "2024-07-25 15:42:34",
+        "sentiment_score": 0.2034633308649063
+    },
+    {
+        "title": "¿Descuento o discriminación? Esta es la medida que implementaron los restaurantes en Japón ante el exceso de turismo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/restaurante-japones-sushi-turismo-e1721917365130.webp",
+        "tags": [
+            "restaurantes",
+            "sushi",
+            "instanoticias",
+            "gentrificación",
+            "turismo",
+            "japón"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/japon-restaurantes-exceso-turismo-precios-trax/",
+        "date": "2024-07-25 15:35:23",
+        "sentiment_score": -0.8394972253590822
+    },
+    {
+        "title": "Esto sabemos sobre el ayudante del sheriff acusado de matar a Sonya Massey en su casa después de que pidiera ayuda al 911",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Copia-de-FOTO-PARA-WP-2024-07-25T082339.547.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/esto-sabemos-ayudante-sheriff-acusado-matar-sonya-massey-ayuda-911-trax/",
+        "date": "2024-07-25 15:23:05",
+        "sentiment_score": -0.6018655821681023
+    },
+    {
+        "title": "Kamala Harris quiere ser la primera presidenta de Silicon Valley en Estados Unidos, y cuenta con apoyo para lograrlo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/kamala5.jpg?quality=100&strip=info",
+        "tags": [
+            "política",
+            "kamala harris",
+            "silicon valley"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/25/kamala-harris-primera-presidenta-silicon-valley-trax/",
+        "date": "2024-07-25 15:17:55",
+        "sentiment_score": 0.19254709780216217
+    },
+    {
+        "title": "Experto analiza la inseguridad y los nuevos delitos que se cometen en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/53440970-17379318-generated-thumbnail_097dac.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "inseguridad",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inseguridad-venezuela-cafe-tv/",
+        "date": "2024-07-25 15:00:26",
+        "sentiment_score": -0.5369811020791531
+    },
+    {
+        "title": "Sheinbaum le responde a Trump y rechaza que cárteles controlen México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/19244406-45398777-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-carteles-drogas-trump-sot/",
+        "date": "2024-07-25 14:54:37",
+        "sentiment_score": -0.764864943921566
+    },
+    {
+        "title": "Israel recupera los cadáveres de cinco secuestrados durante los ataques del 7 de octubre",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/25/Israel-kGkH-U602886653009s0C-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/israel-recupera-cadaveres-cinco-secuestrados-ataques-octubre-20240725184108-nt.html",
+        "date": "2024-07-25 16:41:09",
+        "sentiment_score": -0.17417632043361664
+    },
+    {
+        "title": "Endesa vende casi el 50% de su negocio solar en España a la empresa emiratí Masdar por 817 millones de euros",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/25/endesa--758x531.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/endesa-vende-negocio-solar-espana-masdar-817-20240725183458-nt.html",
+        "date": "2024-07-25 16:40:02",
+        "sentiment_score": -0.03354260325431824
+    },
+    {
+        "title": "La división entre Donald Trump y el México de López Obrador sigue aumentando",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/25/lopezobradior-RmIGRAQns6e5sbO5bb6k6cM-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/division-donald-trump-mexico-lopez-obrador-sigue-20240725172421-nt.html",
+        "date": "2024-07-25 15:24:21",
+        "sentiment_score": -0.0993245542049408
+    },
+    {
+        "title": "¿Te sorprende que una mujer esté pintando cuevas?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MP7D3ZAPNZB5LJRLOSRO6FRAWQ.jpeg?auth=e6f09033f1495b513171718e83b5fee52a1e13307f30e0a2ab402e522b56a2cb",
+        "tags": [
+            "generalitat cataluña",
+            "museos",
+            "pintura rupestre",
+            "cultura",
+            "arte prehispánico",
+            "historia",
+            "historia arte",
+            "patrimonio cultural",
+            "educación",
+            "museos públicos",
+            "arte digital",
+            "lleida",
+            "patrimonio artístico",
+            "arte",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/te-sorprende-que-una-mujer-este-pintando-cuevas.html",
+        "date": "2024-07-25 16:54:14",
+        "sentiment_score": 0.30016517639160156
+    },
+    {
+        "title": "Moreno se desmarca del discurso duro de Feijóo: “No voy a participar en la cacería del inmigrante”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HPTNOHGO6VDD7BVUA2DPPPUDTI.png?auth=4b39a73adbe16fbd51ac801e538ceda373f113c756c1b75e555b0afa5a81ce41",
+        "tags": [
+            "junta de andalucía",
+            "inmigración",
+            "andalucía",
+            "menores migrantes",
+            "españa",
+            "pp",
+            "pp-a",
+            "migración",
+            "alberto núñez feijóo",
+            "vox",
+            "juan manuel moreno"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/moreno-se-desmarca-del-discurso-duro-de-feijoo-no-voy-a-participar-en-la-caceria-del-inmigrante.html",
+        "date": "2024-07-25 16:02:18",
+        "sentiment_score": -0.8971770694479346
+    },
+    {
+        "title": "Guardia Urbana y Mossos controlan a 265 ladrones en Barcelona a quienes se imputa 4.676 delitos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CRAKWN4A6JC2TJCLFMVOOEIH7E.jpg?auth=8a76aaf28a067ac30a5b174141ce44985012e2c407b7840a129d6d42d21a9460",
+        "tags": [
+            "cataluña",
+            "mossos d'esquadra",
+            "barcelona",
+            "ayuntamiento barcelona",
+            "guardia urbana"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-25/guardia-urbana-y-mossos-controlan-a-265-ladrones-en-barcelona-a-quienes-se-imputa-4676-delitos.html",
+        "date": "2024-07-25 15:28:44",
+        "sentiment_score": -0.7136545274406672
+    },
+    {
+        "title": "Tras los pasos de las bandas napolitanas especializadas en el robo de relojes de lujo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2ZC535PNHRFPXJ6SBAGOBYTXMI.jpg?auth=cfeff7d50e3aec74536f7df0c9b2b32d809162fa754bcd2e2e18a6c11fe74757",
+        "tags": [
+            "málaga",
+            "policía nacional",
+            "marbella",
+            "nápoles",
+            "turismo",
+            "italia",
+            "ministerio del interior",
+            "relojes",
+            "costa del sol",
+            "detenciones",
+            "delincuencia",
+            "lujo",
+            "relojes pulsera",
+            "ibiza",
+            "españa",
+            "madrid",
+            "udev",
+            "barcelona",
+            "camorra",
+            "robos"
+        ],
+        "link": "https://elpais.com/espana/2024-07-25/tras-los-pasos-de-las-bandas-napolitanas-especializadas-en-el-robo-de-relojes-de-lujo.html",
+        "date": "2024-07-25 15:08:07",
+        "sentiment_score": -0.7987837698310614
+    },
+    {
+        "title": "El Ayuntamiento cierra La Hípica de Valencia para su transformación en un polideportivo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MVMKRSZJH5EMNMK3EI4YKUS7XM.jpg?auth=da505a212db809398537f53886fdd91322321826e9f02a9fc77f49560efeede6",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-25/el-ayuntamiento-cierra-la-hipica-de-valencia-para-su-transformacion-en-un-polideportivo.html",
+        "date": "2024-07-25 14:39:04",
+        "sentiment_score": 0.3462737500667572
+    },
+    {
+        "title": "Endesa vende a Masdar el 49,99% de su negocio solar por 817 millones de euros",
+        "image_url": "https://www.infobae.com/resizer/v2/D4ZSKJH62TM7T7A3K6K3FCE6O4.jpg?auth=94dfa8671cf1956fd8e6312121bf1d6419ab0925479a9cc46a5c46aaed6c3f1e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/25/endesa-vende-a-masdar-el-4999-de-su-negocio-solar-por-817-millones-de-euros/",
+        "date": "2024-07-25 16:38:16",
+        "sentiment_score": 0.41624562069773674
+    },
+    {
+        "title": "La Bolsa española modera su caída tras el PIB de EE.UU. y baja un 0,58 % al cierre",
+        "image_url": "./assets/ai_generated/v1_txt2img_602328ede5f74533954a7082b3bd675a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-bolsa-espanola-modera-su-caida-tras-el-pib-de-eeuu-y-baja-un-058-al-cierre/",
+        "date": "2024-07-25 16:31:36",
+        "sentiment_score": 0.2174568921327591
+    },
+    {
+        "title": "Más de un centenar de actos festivos marcarán las Ferias y Fiestas de Salamanca",
+        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/07/25/presentacion-U10683343704WfC--758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/salamanca/programacion-completa-ferias-fiestas-salamanca-2024-20240725112157-nt.html",
+        "date": "2024-07-25 16:25:09",
+        "sentiment_score": 0.3830669932067394
+    },
+    {
+        "title": "El Barça de basket pasa de reforzar una posición: el Real Madrid, mientras, se hace fuerte",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/06/20/culemania/secciones/864423687_13123417_1706x960.jpg?contentId=ESPIMA20240620_0138",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20240725/el-barca-de-reforzar-posicion-real-madrid/873162756_0.html",
+        "date": "2024-07-25 16:23:43",
+        "sentiment_score": -0.6938104592263699
+    },
+    {
+        "title": "Dos 'barras bravas' del Newell's de Rosario detenidos por las amenazas contra Di María",
+        "image_url": "./assets/ai_generated/v1_txt2img_7ab531e641134458bfa70c489e87a1e9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/25/dos-barras-bravas-del-newells-de-rosario-detenidos-por-las-amenazas-contra-di-maria/",
+        "date": "2024-07-25 15:32:03",
+        "sentiment_score": -0.8649763725697994
+    },
+    {
+        "title": "Madrugar en Vitoria por unos ajos buenos, bonitos y baratos",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/73984902-f903-49f0-947a-aa4901cbee89_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdealava.eus/gasteiz/2024/07/25/madrugar-vitoria-ajos-buenos-bonitos-mercado-8522059.html",
+        "date": "2024-07-25 15:29:56",
+        "sentiment_score": -0.25181610882282257
+    },
+    {
+        "title": "La Euskal Encounter arranca con más de 4.000 personas",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/07/25/euskal-encounter--758x531.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bizkaia/euskal-encounter-arranca-4000-personas-listas-jugar-20240725164204-nt.html",
+        "date": "2024-07-25 14:47:06",
+        "sentiment_score": 0.1270277500152588
+    },
+    {
+        "title": "Una gran variedad de catas de vino, cerveza, jamón o embutidos llegan en agosto a estos pueblos de Segovia",
+        "image_url": "https://s1.elespanol.com/2024/07/25/castilla-y-leon/region/segovia/873173125_248046305_1706x960.jpg?contentId=ESPIMA20240725_0451",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20240725/gran-variedad-catas-vino-cerveza-jamon-embutidos-llegan-agosto-pueblos-segovia/873162902_0.html",
+        "date": "2024-07-25 14:46:38",
+        "sentiment_score": 0.3036521375179291
+    },
+    {
+        "title": "Ronald Araujo empieza la recuperación en la Ciutat Esportiva del Barça",
+        "image_url": "https://www.infobae.com/resizer/v2/HCJIY4JKVZCO7JNDLYIHH2U6MU.jpg?auth=c5c106edb79ada86912664de277ab1a89e40923c236195c61bb7eb79d48bd9d0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/25/ronald-araujo-empieza-la-recuperacion-en-la-ciutat-esportiva-del-barca/",
+        "date": "2024-07-25 17:17:53",
+        "sentiment_score": 0.4559590630233288
+    },
+    {
+        "title": "El uruguayo Ronald Araujo inicia su recuperación en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/EEJXIT3EBFFRLCDNXI5N5BIXGE.jpg?auth=ffe04b615f88df3133cca163c0bcc192733affb7f3cc13a829c866ceab338921",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/25/el-uruguayo-ronald-araujo-inicia-su-recuperacion-en-barcelona/",
+        "date": "2024-07-25 17:17:21",
+        "sentiment_score": 0.23913700878620148
+    },
+    {
+        "title": "El nuevo entrenador del Barça va fuerte: cambio de capitán, jugadores reforzados y un adiós",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/25/culemania/primer-equipo/873172780_13272765_1706x960.jpg?contentId=ESPIMA20240725_0106",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240725/el-entrenador-barca-fuerte-capitan-jugadores-reforzados/873162761_0.html",
+        "date": "2024-07-25 17:15:16",
+        "sentiment_score": 0.41044678911566734
+    },
+    {
+        "title": "Ya en tierra y con buen estado de salud los seis supervivientes del Argos Georgia",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/23/argos-georgia.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5535105/0/los-supervivientes-argos-georgia-ya-tierra-buen-estado-salud/",
+        "date": "2024-07-25 17:11:25",
+        "sentiment_score": -0.5492782816290855
+    },
+    {
+        "title": "Exteriores repatriará a los tripulantes del ‘Argos Georgia’ el fin de semana",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/07/25/66a2845a2048a.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.lavanguardia.com/vida/20240725/9829758/exteriores-repatriara-tripulantes-argos-georgia-semana.html",
+        "date": "2024-07-25 17:08:48",
+        "sentiment_score": -0.4552268795669079
+    },
+    {
+        "title": "Las olas de calor en Europa son hasta 3oC más cálidas que lo observado hasta ahora",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/07/25/66a22c2e50e10.r_d.4926-3061-0.jpeg",
+        "tags": [
+            "natural"
+        ],
+        "link": "https://www.lavanguardia.com/natural/20240725/9829544/olas-calor-europa-son-3oc-mas-calidas.html",
+        "date": "2024-07-25 17:08:22",
+        "sentiment_score": -0.599995655938983
+    },
+    {
+        "title": "Este es el bar más antiguo de Barcelona: espíritu bohemio y viaje al pasado",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/07/18/vivir-en-barcelona/779932186_10844706_1706x960.jpg?contentId=ESPIMA20230718_0187",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240725/este-es-el-bar-mas-antiguo-de-barcelona-espiritu-bohemio-viaje-al-pasado/873162769_0.html",
+        "date": "2024-07-25 17:07:36",
+        "sentiment_score": 0.8134867213666439
+    },
+    {
+        "title": "Maduro envía mensaje a pocas horas del cierre de campaña",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-475.png",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-mensaje-horas-cierre-campana/",
+        "date": "2024-07-25 17:02:54",
+        "sentiment_score": 0.08646900951862335
+    },
+    {
+        "title": "EEUU | Gumbo: aprende a elaborar esta receta consumida en Houston",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/istockphoto-1223136489-612x612-1.jpeg",
+        "tags": [
+            "receta",
+            "houston",
+            "gastronomía",
+            "estadosunidos",
+            "gastronomia",
+            "gumbo"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/eeuu-gumbo-aprende-a-elaborar-esta-receta-consumida-en-houston/",
+        "date": "2024-07-25 17:02:00",
+        "sentiment_score": -0.017987146973609924
+    },
+    {
+        "title": "Así puedes registrarte en la Gran Misión Venezuela Mujer (+Pasos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/04/2-4.jpg",
+        "tags": [
+            "servicios",
+            "así puedes registrarte en la gran misión venezuela mujer (+pasos)"
+        ],
+        "link": "https://2001online.com/servicios/asi-puedes-registrarte-en-la-gran-mision-venezuela-mujer-pasos/",
+        "date": "2024-07-25 16:55:42",
+        "sentiment_score": 0.5049115940928459
+    },
+    {
+        "title": "La polémica que salpica a Mr. Beast por presunto acoso infantil (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Cortesia-60.jpg",
+        "tags": [
+            "ava kris tyson",
+            "polémica",
+            "venezuela",
+            "delitos sexuales",
+            "eeuu",
+            "2001online",
+            "internacionales",
+            "farándula internacional",
+            "menor de edad",
+            "en el chisme",
+            "mr. beast",
+            "acoso infantil",
+            "farándula",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/farandula/la-polemica-que-salpica-a-mr-beast-por-presunto-acoso-infantil-detalles/",
+        "date": "2024-07-25 16:52:54",
+        "sentiment_score": -0.5515671446919441
+    },
+    {
+        "title": "Sobrepensar | 3 estrategias que te ayudan a combatir este hábito",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/auxilio-mi-mente-no-deja-de-pensar-nosotras-colombia-preview.jpg",
+        "tags": [
+            "salud",
+            "pensamiento",
+            "bienestar",
+            "sobrepensar"
+        ],
+        "link": "https://2001online.com/zona3d/bienestar/sobrepensar-3-estrategias-que-te-ayudan-a-combatir-este-habito/",
+        "date": "2024-07-25 16:46:21",
+        "sentiment_score": 0.39218883216381073
+    },
+    {
+        "title": "Así se prepara Corina Smith para los Premios Juventud 2024 (+VIDEO)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-25-at-12.42.03-PM-1-611x1024.jpeg",
+        "tags": [
+            "show",
+            "corinasmith",
+            "25dejuliode2024",
+            "puertorico",
+            "googlenews",
+            "venezuela",
+            "viral",
+            "coliseo",
+            "eeuu",
+            "premiosjuventud",
+            "2001online",
+            "internacionales",
+            "en el chisme",
+            "farandulavenezolana",
+            "farándula",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/farandula/asi-se-prepara-corina-smith-para-los-premios-juventud-2024-video/",
+        "date": "2024-07-25 16:45:35",
+        "sentiment_score": 0.13400684297084808
+    },
+    {
+        "title": "Edmundo González y María Corina Machado recomiendan votar \"lo más temprano que puedan\"",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-25-at-12.15.15-PM-768x1024.jpeg",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/edmundo-gonzalez-maria-corina-machado-votar-mas-temprano/",
+        "date": "2024-07-25 16:24:16",
+        "sentiment_score": -0.059462592005729675
+    },
+    {
+        "title": "Juega y gana en tu teléfono con la app de 1Win Perú",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-474.png",
+        "tags": [
+            "curiosidades"
+        ],
+        "link": "https://2001online.com/curiosidades/guia-1win-app-peru-para-celulares/",
+        "date": "2024-07-25 16:23:50",
+        "sentiment_score": 0.3368148244917393
+    },
+    {
+        "title": "¿Yailin ‘La Más Viral’ le lanza a Karol G en su nuevo tema?: Esto se sabe",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/02/yailin_la_mas_viral_0.jpg.jpg",
+        "tags": [
+            "yailin",
+            "farándula",
+            "yailin “la más viral”"
+        ],
+        "link": "https://2001online.com/farandula/yailin-la-mas-viral-le-lanza-a-karol-g-en-su-nuevo-tema-esto-se-sabe/",
+        "date": "2024-07-25 16:21:57",
+        "sentiment_score": -0.1300973892211914
+    },
+    {
+        "title": "Sepa cómo trabajan las aerolíneas nacionales este #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/aerolineas.jpg",
+        "tags": [
+            "elecciones presidenciales",
+            "sepa cómo trabajan las aerolíneas nacionales este #28jul",
+            "venezuela",
+            "aerolíneas nacionales",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/sepa-como-trabajan-las-aerolineas-nacionales-este-28jul/",
+        "date": "2024-07-25 16:04:42",
+        "sentiment_score": 0.12345996499061584
     }
 ];
