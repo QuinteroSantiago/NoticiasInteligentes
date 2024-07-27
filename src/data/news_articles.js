@@ -5094,5 +5094,530 @@ export default [
         "link": "https://2001online.com/servicios/asi-puedes-comprar-un-smart-tv-con-cashea-detalles/",
         "date": "2024-07-26 14:30:00",
         "sentiment_score": 0.20539052784442902
+    },
+    {
+        "title": "Exteriores explica que Venezuela no autorizó delegación del Senado y solo PP decidió ir",
+        "image_url": "./assets/ai_generated/v1_txt2img_270662c8247f47b199c98cb4aa5f0e1a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/exteriores-explica-que-venezuela-no-autorizo-delegacion-del-senado-y-solo-pp-decidio-ir/",
+        "date": "2024-07-26 21:47:15",
+        "sentiment_score": -0.665650250390172
+    },
+    {
+        "title": "Retenida en Caracas la delegación del PP que ha viajado a las elecciones, según Feijóo",
+        "image_url": "./assets/ai_generated/v1_txt2img_5dd7915c0ac2417ebf67ef334531c34d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/retenida-en-caracas-la-delegacion-del-pp-que-ha-viajado-a-las-elecciones-segun-feijoo/",
+        "date": "2024-07-26 21:35:23",
+        "sentiment_score": -0.30006328597664833
+    },
+    {
+        "title": "Rafa Nadal recoge la antorcha olímpica de Zidane en la traca final de la inauguración de los Juegos Olímpicos",
+        "image_url": "https://www.infobae.com/resizer/v2/A2JOERDZDTMRRJKO6U7ZHHUVJQ.jpg?auth=0a9e0a0264f4cc25b4e456aed5cb526e5ee05d63277d05154ee9341a9781ebe8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/07/26/rafa-nadal-recoge-la-antorcha-olimpica-de-zidane-en-la-traca-final-de-la-inauguracion-de-los-juegos-olimpicos/",
+        "date": "2024-07-26 21:24:18",
+        "sentiment_score": 0.8222714606672525
+    },
+    {
+        "title": "El Athletic compara la ceremonia de París con la gabarra: \"En Bilbao nos adelantamos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_aeca86a6515e4b8a904dfaa52b505b8a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/el-athletic-compara-la-ceremonia-de-paris-con-la-gabarra-en-bilbao-nos-adelantamos/",
+        "date": "2024-07-26 21:06:12",
+        "sentiment_score": -0.25350890308618546
+    },
+    {
+        "title": "Un joven hospitalizado muy grave por ahogamiento en la piscina de San Blas (Madrid)",
+        "image_url": "./assets/ai_generated/v1_txt2img_4f3dc5a5ab7242039f85ae211be270d9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/un-joven-hospitalizado-muy-grave-por-ahogamiento-en-la-piscina-de-san-blas-madrid/",
+        "date": "2024-07-26 21:05:30",
+        "sentiment_score": -0.8287209533154964
+    },
+    {
+        "title": "El campeón comedor de sobaos revalida título mundial con récord: 17 sobaos en 8 minutos",
+        "image_url": "./assets/ai_generated/v1_txt2img_1c2218dfe8ad41f79b82d7801b37d100.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/el-campeon-comedor-de-sobaos-revalida-titulo-mundial-con-record-17-sobaos-en-8-minutos/",
+        "date": "2024-07-26 21:05:13",
+        "sentiment_score": 0.6560287773609161
+    },
+    {
+        "title": "España debuta contra Australia, un equipo con nueve jugadores de la NBA en sus filas",
+        "image_url": "./assets/ai_generated/v1_txt2img_3e208e1215ba4af5bdbf12cba80a6093.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/espana-debuta-contra-australia-un-equipo-con-nueve-jugadores-de-la-nba-en-sus-filas/",
+        "date": "2024-07-26 20:33:12",
+        "sentiment_score": 0.14678800106048584
+    },
+    {
+        "title": "La terna a hombros en Almadén",
+        "image_url": "./assets/ai_generated/v1_txt2img_d2eb046b84c84a72baa0e7275d44c473.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/la-terna-a-hombros-en-almaden/",
+        "date": "2024-07-26 20:32:14",
+        "sentiment_score": -0.32069211453199387
+    },
+    {
+        "title": "Elma Saiz tacha de \"esperpento\" la instrucción judicial contra Begoña Gómez y dice que está hecha para buscar titulares",
+        "image_url": "https://www.infobae.com/resizer/v2/TLYHZMOZ25HMJJX7PTOPVYQUKY.jpg?auth=3a66fa2b5cf525e5a3202e7ffdcb942492581113ecc54bfca9d0807d9260c406",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/elma-saiz-tacha-de-esperpento-la-instruccion-judicial-contra-begona-gomez-y-dice-que-esta-hecha-para-buscar-titulares/",
+        "date": "2024-07-26 20:19:17",
+        "sentiment_score": -0.7461832538247108
+    },
+    {
+        "title": "Maikel Mesa: \"Todos nos equivocamos, pero si estoy aquí es porque he querido estar\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_eb3938f806704955a152544c813fec1a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/maikel-mesa-todos-nos-equivocamos-pero-si-estoy-aqui-es-porque-he-querido-estar/",
+        "date": "2024-07-26 20:16:27",
+        "sentiment_score": 0.06367622315883636
+    },
+    {
+        "title": "La inflación en EE.UU. se acerca al objetivo del 2% de la Reserva Federal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/adobestock-537348939.jpeg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-inflacion-cae-desacelera-reserva-federal-economia-recuperacion-cnn-dinero-tv/",
+        "date": "2024-07-26 22:12:54",
+        "sentiment_score": -0.26660817116498947
+    },
+    {
+        "title": "Más de 237 ciudades de Estados Unidos aumentan el precio de viviendas iniciales a US$ 1 millón, según reporte",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/adobestock-624234837.jpeg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-aumento-precio-vivienda-inflacion-economia-cnn-dinero-tv/",
+        "date": "2024-07-26 22:12:24",
+        "sentiment_score": 0.06767544150352478
+    },
+    {
+        "title": "Buscan prohibir que redes sociales publiquen información personal de menores en Puerto Rico",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2159782892.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/puerto-rico-proyecto-redes-sociales-informacion-menores/",
+        "date": "2024-07-26 22:08:45",
+        "sentiment_score": -0.7832756191492081
+    },
+    {
+        "title": "Gobierno de Venezuela cierra fronteras y pone en vigor otras medidas previo a las elecciones presidenciales del domingo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/frontera-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/gobierno-venezuela-cierra-fronteras-medidas-elecciones-presidenciales-orix/",
+        "date": "2024-07-26 21:47:08",
+        "sentiment_score": -0.24152209609746933
+    },
+    {
+        "title": "Gabriel Boric se suma a las críticas contra Nicolás Maduro: “No se puede amenazar con baños de sangre”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/GettyImages-1768176133-e1699383226980.jpg?quality=100&strip=info",
+        "tags": [
+            "gabriel boric",
+            "nicolás maduro",
+            "venezuela noticias",
+            "chile"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/gabriel-boric-criticas-nicolas-maduro-amenazar-banos-de-sangre-orix/",
+        "date": "2024-07-26 21:29:48",
+        "sentiment_score": -0.5937472209334373
+    },
+    {
+        "title": "“No cualquiera puede entrar a Venezuela”, dice vicepresidenta Delcy Rodríguez mientras el Gobierno impide entrada al país de varios exmandatarios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/delcy-rodriguez-e1722026537382.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/delcy-rodriguez-no-cualquiera-entrar-venezuela-orix/",
+        "date": "2024-07-26 20:36:36",
+        "sentiment_score": -0.7237589843571186
+    },
+    {
+        "title": "OPINIÓN | Elecciones en Venezuela: los comicios están en el foco de la comunidad internacional",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/venezuela-20240726195241460.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-opinion-comicios-efectos-politicos-redaccion-buenos-aires-tv/",
+        "date": "2024-07-26 19:59:52",
+        "sentiment_score": -0.11017098277807236
+    },
+    {
+        "title": "Golpe al narcotráfico: el impacto de las detenciones para el Cártel de Sinaloa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/zambada.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-cartel-sinaloa-golpe-narcotrafico-redaccion-buenos-aires-tv/",
+        "date": "2024-07-26 19:58:58",
+        "sentiment_score": -0.6110401451587677
+    },
+    {
+        "title": "\"Evita: la más amada, la más odiada\" , el mito argentino en clave teatral",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/evita.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-eva-peron-aniversario-redaccion-buenos-aires-tv/",
+        "date": "2024-07-26 19:57:41",
+        "sentiment_score": -0.18303632736206055
+    },
+    {
+        "title": "Estas son las 5 películas más populares del momento, según Rotten Tomatoes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/twitters.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/peliculas-mas-populares-del-momento-2024-redaccion-buenos-aires-tv/",
+        "date": "2024-07-26 19:57:32",
+        "sentiment_score": 0.31878670305013657
+    },
+    {
+        "title": "La Fernando III (como Loyola) viene a sumar",
+        "image_url": "./assets/ai_generated/v1_txt2img_0cf4ed27b28547a1bd883c965f42adc5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-fernando-iii-loyola-viene-sumar-20240727213348-nts.html",
+        "date": "2024-07-26 19:36:01",
+        "sentiment_score": -0.0432528555393219
+    },
+    {
+        "title": "Retenido en Panamá un avión con destino a Venezuela con varios expresidentes latinoamericanos a bordo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/26/Corina-klLE-U602891083373V4E-758x531@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/retenido-panama-avion-destino-venezuela-varios-expresidentes-20240726213542-nt.html",
+        "date": "2024-07-26 19:35:42",
+        "sentiment_score": -0.09941411018371582
+    },
+    {
+        "title": "El andalucismo de Cervantes",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/27/estatua-miguel-cervantes-RNGVqSGxEwpk1CjQ4nSylWJ-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/regla-contreras-andalucismo-cervantes-20240727213354-nts.html",
+        "date": "2024-07-26 19:33:55",
+        "sentiment_score": 0.007248967885971069
+    },
+    {
+        "title": "Nuestra memoria cerrada por obras",
+        "image_url": "./assets/ai_generated/v1_txt2img_a082c0477a49462988a6157bcaf6a124.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/eva-diaz-perez-memoria-cerrada-obras-20240727213347-nts.html",
+        "date": "2024-07-26 19:33:48",
+        "sentiment_score": -0.0821392685174942
+    },
+    {
+        "title": "El cartucho de Pepe Luis",
+        "image_url": "./assets/ai_generated/v1_txt2img_1ffb9ccad0c3491faafb90e0f5955e45.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antologia-del-recuadro-de-antonio-burgos-cartucho-pepe-luis-20240727213346-nts.html",
+        "date": "2024-07-26 19:33:46",
+        "sentiment_score": 0.0011359453201293945
+    },
+    {
+        "title": "La trastienda de la inmigración",
+        "image_url": "./assets/ai_generated/v1_txt2img_de13bfecf2f14a029d8722d94a73b32e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-trastienda-inmigracion-20240727213344-nts.html",
+        "date": "2024-07-26 19:33:45",
+        "sentiment_score": -0.21849633753299713
+    },
+    {
+        "title": "La traición de un hijo del Chapo permitió la caída del Mayo Zambado, el capo del cártel de Sinaloa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/26/elmayoavion-RBLgstELSLqeTiQ07fofCMJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/traicion-hijo-chapo-permitio-caida-mayo-zambado-20240726205615-nt.html",
+        "date": "2024-07-26 18:59:00",
+        "sentiment_score": -0.23209203779697418
+    },
+    {
+        "title": "Trump recibe y perdona a Netanyahu tras años de divorcio",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/26/trump-netan-R8o6h7hHTA8IUe9iUUPi3BI-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-recibe-perdona-netanyahu-tras-anos-divorcio-20240726202159-nt.html",
+        "date": "2024-07-26 18:21:59",
+        "sentiment_score": -0.12582004070281982
+    },
+    {
+        "title": "La prensa satírica se ceba con Macron: «Últimos Juegos Olímpicos antes de la guerra civil»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/26/CharlieHebdo-kqvH-U6028907176020x-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/prensa-satirica-ceba-macron-ultimos-juegos-olimpicos-20240726200349-nt.html",
+        "date": "2024-07-26 18:03:49",
+        "sentiment_score": -0.1493474692106247
+    },
+    {
+        "title": "La depredación de la Universidad",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/27/ABC_angulooscuro_depredadoresuniversidad_DEPRADA-R0zjrvamhi3E6U1DZ6Rq8PP-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-depredacion-universidad-20240727193304-nt.html",
+        "date": "2024-07-26 17:33:05",
+        "sentiment_score": -0.1327694058418274
+    },
+    {
+        "title": "Admitida a trámite la querella de los vecinos del Bernabéu contra el Real Madrid por los conciertos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TDFPWOAAARG6TOGQOBIOEJWLFM.jpg?auth=3db6ae6c5659c6cc7730dd41adc9c0c0270f18b5234898d4f8856dcc5cf6199a",
+        "tags": [
+            "real madrid",
+            "madrid",
+            "juicios",
+            "josé luis martínez almeida",
+            "abogados",
+            "tribunales",
+            "denuncias",
+            "ayuntamiento madrid",
+            "querellas",
+            "comunidad de madrid",
+            "asociaciones vecinos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-26/admitida-a-tramite-la-querella-de-los-vecinos-del-bernabeu-contra-el-real-madrid-por-los-conciertos.html",
+        "date": "2024-07-26 18:22:44",
+        "sentiment_score": -0.44934845715761185
+    },
+    {
+        "title": "Zinedine Zidane se roba todas las miradas en la inauguración de París 2024 [Video]",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/AP24208764997358-e1722029432711.jpg",
+        "tags": [
+            "juegos olímpicos",
+            "deportes",
+            "zinedine zidane",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/07/26/zinedine-zidane-se-roba-todas-las-miradas-en-la-inauguracion-de-paris-2024-video/",
+        "date": "2024-07-26 21:31:37",
+        "sentiment_score": 0.6349068395793438
+    },
+    {
+        "title": "James Rodríguez no la tendría fácil para volver a Europa: estas serían las condiciones para firmar contrato",
+        "image_url": "./assets/ai_generated/v1_txt2img_0d68dd7dbec542a7942efb928d2128ac.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/07/26/james-rodriguez-no-la-tendria-facil-para-volver-a-europa-estas-serian-las-condiciones-para-firmar-contrato/",
+        "date": "2024-07-26 20:43:09",
+        "sentiment_score": -0.013206765055656433
+    },
+    {
+        "title": "El juez cita al Real Madrid por la denuncia de los vecinos por “delito medioambiental” por los conciertos del Bernabéu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c7b7ab77-4972-478b-9727-10385c5de1bb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/sociedad/2024/07/26/juez-cita-real-madrid-denuncia-106128419.html",
+        "date": "2024-07-26 20:03:16",
+        "sentiment_score": -0.7143997028470039
+    },
+    {
+        "title": "Keidi Baré, séptimo fichaje del Real Zaragoza",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/07/26/keidi-bare-persigue-a-adrian-liso-en-el-ultimo-real-zaragoza-espanyol.r_d.625-277-0.jpeg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/futbol/real-zaragoza/2024/07/26/keidi-bare-septimo-fichaje-del-real-zaragoza-1751701.html",
+        "date": "2024-07-26 20:01:29",
+        "sentiment_score": 0.419552706182003
+    },
+    {
+        "title": "Cuando se deja para mañana lo que se puede hacer hoy: “2 de cada 10 personas tiene problemas con la procrastinación”",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/07/25/la-psicologa-solange-otermin.r_d.1333-1000-3712.jpeg",
+        "tags": [
+            "salud"
+        ],
+        "link": "https://www.heraldo.es/noticias/salud/2024/07/26/procrastinar-dejar-manana-puedes-hacer-hoy-1751381.html",
+        "date": "2024-07-26 20:00:00",
+        "sentiment_score": 0.03258174657821655
+    },
+    {
+        "title": "Bárbara Latorre, experiencia y gol para el Deportivo femenino",
+        "image_url": "https://s1.elespanol.com/2024/07/26/quincemil/deporte/deportivo/873423635_248082754_1706x960.jpg?contentId=ESPIMA20240726_0986",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/quincemil/deporte/deportivo/20240726/barbara-latorre-experiencia-gol-deportivo-femenino/873413152_0.html",
+        "date": "2024-07-26 19:52:40",
+        "sentiment_score": 0.43299608677625656
+    },
+    {
+        "title": "Los Juegos de la paridad",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/07/26/66a40cdc01379.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20240727/9832460/juegos-paridad.html",
+        "date": "2024-07-26 22:12:49",
+        "sentiment_score": 0.8803469128906727
+    },
+    {
+        "title": "Puigdemont despliega todas sus armas para frenar el pacto de investidura PSC-ERC",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/07/carles-puigdemont.jpg",
+        "tags": [
+            "salvador illa",
+            "españa",
+            "carles puigdemont",
+            "cataluña",
+            "erc - esquerra republicana de catalunya"
+        ],
+        "link": "https://www.elindependiente.com/espana/cataluna/2024/07/27/puigdemont-despliega-todas-sus-armas-para-frenar-el-pacto-de-investidura-psc-erc/",
+        "date": "2024-07-26 22:05:09",
+        "sentiment_score": 0.11645252257585526
+    },
+    {
+        "title": "Una investidura y un socio despechado",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3e1fd65375.r_d.832-660-0.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.lavanguardia.com/politica/20240727/9832247/investidura-socio-despechado-puigdemont-rovira-illa-sanchez.html",
+        "date": "2024-07-26 22:05:00",
+        "sentiment_score": -0.8899745848029852
+    },
+    {
+        "title": "Riner y Perec fueron los últimos relevistas con Rafa Nadal protagonista",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dded7ae5-ff8d-4291-abe2-0a4e5fa063f5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/olimpiadas/2024/07/27/riner-perec-ultimos-relevistas-nadal-106132889.html",
+        "date": "2024-07-26 22:00:03",
+        "sentiment_score": 0.28597991168498993
+    },
+    {
+        "title": "El Aeropuerto Lleida-Alguaire ya produce energía renovable: otros casos de éxito en Cataluña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/26/business/873422741_13276721_1706x960.jpg?contentId=ESPIMA20240726_0092",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240727/el-aeropuerto-lleida-alguaire-produce-energia-renovable-cataluna/873412689_0.html",
+        "date": "2024-07-26 22:00:00",
+        "sentiment_score": 0.5610254779458046
+    },
+    {
+        "title": "Los semáforos del sábado 27 de julio: David Virós, Xavier Trias, Cesc Casadesús y Francisco José Garzón",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20240727/9831998/semaforos-sabado-27-julio-david-viros-xavier-trias-cesc-casadesus-francisco-jose-garzon.html",
+        "date": "2024-07-26 22:00:00",
+        "sentiment_score": 0.10833850502967834
+    },
+    {
+        "title": "Pablo Sánchez",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/12/07/vida/815428556_12051775_1706x960.jpg?contentId=ESPIMA20231207_0107",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240727/pablo-sanchez/873412783_0.html",
+        "date": "2024-07-26 22:00:00",
+        "sentiment_score": -0.13412287831306458
+    },
+    {
+        "title": "El mercado de directivos y empresarios de Cataluña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/26/business/873422767_13277493_1706x960.jpg?contentId=ESPIMA20240726_0118",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240727/el-mercado-de-directivos-empresarios-cataluna/872912805_0.html",
+        "date": "2024-07-26 22:00:00",
+        "sentiment_score": 0.015111874788999557
+    },
+    {
+        "title": "CNE instaló centro internacional de prensa para las elecciones del #28Jul",
+        "image_url": "./assets/ai_generated/v1_txt2img_2e469ef3edf24b5cbd630e112cf6aef4.png",
+        "tags": [
+            "elecciones presidenciales",
+            "nacionales",
+            "elvis amoroso",
+            "cne"
+        ],
+        "link": "https://2001online.com/nacionales/cne-instalo-centro-internacional-de-prensa-para-las-elecciones-del-28jul/",
+        "date": "2024-07-26 22:06:01",
+        "sentiment_score": 0.0291910320520401
+    },
+    {
+        "title": "Delsa Solórzano: Hubo incidencias en menos del 1% de las mesas instaladas este #26Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Delsa-Solorzano.jpg",
+        "tags": [
+            "elecciones presidenciales",
+            "nacionales",
+            "mesas instaladas",
+            "delsa solórzano"
+        ],
+        "link": "https://2001online.com/nacionales/solorzano-hubo-incidencias-en-menos-del-1-de-las-mesas/",
+        "date": "2024-07-26 21:51:23",
+        "sentiment_score": -0.2432115375995636
+    },
+    {
+        "title": "INAC desmiente declaraciones del presidente de Panamá sobre espacio aéreo venezolano",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Jose-Raul-Mulino.jpeg",
+        "tags": [
+            "nacionales",
+            "inac",
+            "copa airlines",
+            "panamá",
+            "elecciones presidenciales en venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/inac-desmiente-declaraciones-del-presidente-de-panama-sobre-espacio-aereo-venezolano/",
+        "date": "2024-07-26 21:31:42",
+        "sentiment_score": -0.2064226046204567
+    },
+    {
+        "title": "¿Hasta qué fecha estará cerrada la frontera de Venezuela?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Cierre-fronterizo.jpg",
+        "tags": [
+            "nacionales",
+            "venezuela",
+            "desplazamiento fronterizo"
+        ],
+        "link": "https://2001online.com/nacionales/hasta-que-fecha-estara-cerrada-la-frontera-de-venezuela/",
+        "date": "2024-07-26 21:03:55",
+        "sentiment_score": -0.17180093377828598
     }
 ];
