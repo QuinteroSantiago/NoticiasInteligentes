@@ -4277,5 +4277,822 @@ export default [
         "link": "https://www.elcorreo.com/culturas/musica/tofol-martinez-gana-primer-dia-bilbao-blues-20240726073859-nt.html",
         "date": "2024-07-26 05:38:59",
         "sentiment_score": 0.2591312825679779
+    },
+    {
+        "title": "El Gobierno andaluz pide a Caja Rural y SPV que cumplan la ley en el hotel Guadalpín Banús",
+        "image_url": "./assets/ai_generated/v1_txt2img_583ac45370c94d90b400640c3808469a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/el-gobierno-andaluz-pide-a-caja-rural-y-spv-que-cumplan-la-ley-en-el-hotel-guadalpin-banus/",
+        "date": "2024-07-26 17:05:47",
+        "sentiment_score": -0.1770341396331787
+    },
+    {
+        "title": "Pemex pierde 12.568 millones de euros en el primer semestre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_a4db7e786aac4cfc9b75055492006a72.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/pemex-pierde-12568-millones-de-euros-en-el-primer-semestre-de-2024/",
+        "date": "2024-07-26 17:05:18",
+        "sentiment_score": -0.6146451849490404
+    },
+    {
+        "title": "Schareina, en motos, y De Mevius en coches, los más rápidos en la prólogo de la Baja 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_fc25b8d3200d4e6bb1f1f0d3a2cc03e3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/schareina-en-motos-y-de-mevius-en-coches-los-mas-rapidos-en-la-prologo-de-la-baja-2024/",
+        "date": "2024-07-26 17:05:00",
+        "sentiment_score": 0.19171354919672012
+    },
+    {
+        "title": "Sergi Gómez, Javi Puado, Leandro Cabrera y Pol Lozano, capitanes del Espanyol",
+        "image_url": "./assets/ai_generated/v1_txt2img_0faf31b6f21c429a9ef315da307d29dd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/sergi-gomez-javi-puado-leandro-cabrera-y-pol-lozano-capitanes-del-espanyol/",
+        "date": "2024-07-26 17:04:43",
+        "sentiment_score": -0.06879638135433197
+    },
+    {
+        "title": "Sergio Lozano dice que es un reto \"ilusionante\" el Mundial tras la grave lesión sufrida",
+        "image_url": "./assets/ai_generated/v1_txt2img_846e78f89c6e4278a531819f7699ccab.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/sergio-lozano-dice-que-es-un-reto-ilusionante-el-mundial-tras-la-grave-lesion-sufrida/",
+        "date": "2024-07-26 17:04:26",
+        "sentiment_score": -0.4322206526994705
+    },
+    {
+        "title": "El amuleto en forma de cruz de la esgrimista Lucía Martín: “Mi padre podría haber frenado uno de los golpes que me llevó a los juegos Olímpicos”",
+        "image_url": "https://www.infobae.com/resizer/v2/52RHNDTF2JGQ3CQZDLP7AAAXAI.png?auth=25ce2da6e27ed76178825399f17c4a22483996cf1188cb559d319a63380e80b6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/07/26/el-amuleto-en-forma-de-cruz-de-la-esgrimista-lucia-martin-mi-padre-podria-haber-frenado-uno-de-los-golpes-que-me-llevo-a-los-juegos-olimpicos/",
+        "date": "2024-07-26 17:02:39",
+        "sentiment_score": -0.5794981904327869
+    },
+    {
+        "title": "Cuánto gana una enfermera de quirófano en España: sueldo base y complementos",
+        "image_url": "https://www.infobae.com/resizer/v2/IG6QPFMDENCY5DQJLD4H65MHPU.jpg?auth=418755ab9e41eb7ffe22b40789c093661710570907e0501dd4afe93519a533e7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/26/cuanto-gana-una-enfermera-de-quirofano-en-espana-sueldo-base-y-complementos/",
+        "date": "2024-07-26 16:52:45",
+        "sentiment_score": 0.3175005726516247
+    },
+    {
+        "title": "EDPR dispara el beneficio hasta junio al ganar 210 millones, un 162 % más",
+        "image_url": "./assets/ai_generated/v1_txt2img_702ec67f63e8476188e12003f14ae30e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/edpr-dispara-el-beneficio-hasta-junio-al-ganar-210-millones-un-162-mas/",
+        "date": "2024-07-26 16:50:26",
+        "sentiment_score": 0.6641491390764713
+    },
+    {
+        "title": "Ibai Gómez: “Veo al equipo muy ilusionado”",
+        "image_url": "./assets/ai_generated/v1_txt2img_d8669f50b3404e12a4971821370e228c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/ibai-gomez-veo-al-equipo-muy-ilusionado/",
+        "date": "2024-07-26 16:49:57",
+        "sentiment_score": -0.8119970858097076
+    },
+    {
+        "title": "El rey despachará el martes en Palma con Sánchez tras la reunión del Consejo de Ministros",
+        "image_url": "./assets/ai_generated/v1_txt2img_c58b2cea21ef40c8827ff52d4882f6a8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/el-rey-despachara-el-martes-en-palma-con-sanchez-tras-la-reunion-del-consejo-de-ministros/",
+        "date": "2024-07-26 16:49:38",
+        "sentiment_score": 0.0023227259516716003
+    },
+    {
+        "title": "“Es un avance importante en el combate al narcotráfico”: AMLO se refiere a la detención de “El Mayo” Zambada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162891749.jpg?quality=100&strip=info",
+        "tags": [
+            "narcotráfico",
+            "mayo zambada",
+            "amlo",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/amlo-detencion-mayo-zambada-joaquin-guzman-lopez-narcotrafico/",
+        "date": "2024-07-26 16:51:49",
+        "sentiment_score": 0.21283629536628723
+    },
+    {
+        "title": "El crecimiento económico de EE.UU. tiende a la normalización, dice una experta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/12458662-22266266-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "inflación ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/economia-estados-unidos-actualidad-crecimiento/",
+        "date": "2024-07-26 16:48:21",
+        "sentiment_score": 0.012872055172920227
+    },
+    {
+        "title": "La inflación muestra señales de moderación en EE.UU. y llegará al 2 % a mediados de 2025, dice experta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/11744501-93711382-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inflacion-economia-estados-unidos-actualidad/",
+        "date": "2024-07-26 16:37:33",
+        "sentiment_score": -0.05744624137878418
+    },
+    {
+        "title": "Un video capta el momento en que una casa de California explota en un incendio forestal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/07-07-xx-2024-07-25t080703z-981325829-rc2729a3v3hb-rtrmadp-3-usa-wildfires-jpg-1.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-incendio-forestal-california-casa-explosion-ush-trax/",
+        "date": "2024-07-26 16:35:55",
+        "sentiment_score": -0.4872064422816038
+    },
+    {
+        "title": "El momento en que Barack y Michelle Obama respaldan a Kamala Harris en su aspiración presidencial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20820295-52014-903-still.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "michelle obama",
+            "barack obama",
+            "elecciones ee.uu",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-haris-michelle-barack-obama-llamada-ush-trax/",
+        "date": "2024-07-26 15:45:51",
+        "sentiment_score": 0.09197822213172913
+    },
+    {
+        "title": "El FBI quiere entrevistar a Trump como parte de la investigación del intento de magnicidio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/trump_7e4f87.jpg?quality=100&strip=info",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/fbi-entrevistar-trump-investigacion-intento-magnicidio-trax/",
+        "date": "2024-07-26 15:16:49",
+        "sentiment_score": -0.6558266188949347
+    },
+    {
+        "title": "Secretaria de Seguridad de México: El Gobierno mexicano no participó en la detención del \"Mayo\" Zambada",
+        "image_url": "./assets/ai_generated/v1_txt2img_bc373169f74d4615ab34571b685dce2c.png",
+        "tags": [
+            "méxico",
+            "mayo zambada"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ismael-el-mayo-zambada-mexico-gobierno-cafe-tv/",
+        "date": "2024-07-26 14:48:57",
+        "sentiment_score": -0.25214043259620667
+    },
+    {
+        "title": "Imágenes satelitales muestran la magnitud del incendio Park en California",
+        "image_url": "./assets/ai_generated/v1_txt2img_6acd16763865412ba4290224090d29b1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/satelite-incendio-forestal-california-ush-orix/",
+        "date": "2024-07-26 14:39:51",
+        "sentiment_score": -0.583592476323247
+    },
+    {
+        "title": "María Corina Machado, la mujer detrás del movimiento opositor de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/mcm.webp",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/maria-corina-machado-oposicion-lider-elecciones-venezuela-trax/",
+        "date": "2024-07-26 14:38:42",
+        "sentiment_score": -0.15668754279613495
+    },
+    {
+        "title": "¿Quién es Cilia Flores, la esposa de Maduro y “primera combatiente” del chavismo?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-515135972-e1721997711663.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/cilia-florres-esposa-de-maduro-chavismo-venezuela-elecciones-orix/",
+        "date": "2024-07-26 14:11:06",
+        "sentiment_score": -0.41664301604032516
+    },
+    {
+        "title": "«Chulesca» carta de Óscar Puente a Alfonso Rueda: lo reta a pagar el AVE entre Galicia y Portugal",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/26/RuedaPuente-kmPC-U602890371562ZHB-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/chulesca-carta-oscar-puente-alfonso-rueda-reta-20240726190907-nt.html",
+        "date": "2024-07-26 17:09:08",
+        "sentiment_score": -0.05508509278297424
+    },
+    {
+        "title": "Ismael 'El Mayo' Zambada: el último narcocorrido del traficante más peligroso",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/26/ismaelzambadaelmayo-RyWLSkItLx5Q7DvvfMn80JI-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ismael-mayo-zambada-ultimo-narcocorrido-traficante-peligroso-20240726184831-nt.html",
+        "date": "2024-07-26 16:48:31",
+        "sentiment_score": -0.15594220161437988
+    },
+    {
+        "title": "Illycaffè refuerza su plan de expansión con un nuevo director en el área de ventas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/26/FotoMarcVin%CC%83olasPrensa5-RdQAMVQrx4SkYEKl27uKNaM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/illycaffe-refuerza-plan-expansion-nuevo-director-area-20240726162552-nt.html",
+        "date": "2024-07-26 15:28:03",
+        "sentiment_score": 0.034887492656707764
+    },
+    {
+        "title": "El grupo español Soficu Group se expande en República Dominicana",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/26/WhatsAppImage2024-07-26at16.36.28-RmHxiI3se8Ygiw6KKzDvc6H-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/grupo-espanol-soficu-group-expande-republica-dominicana-20240726172629-nt.html",
+        "date": "2024-07-26 15:27:51",
+        "sentiment_score": 0.04678407311439514
+    },
+    {
+        "title": "Así están usando Alexa los hoteles para decirte la contraseña del WiFi o la carta de comida",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/07/26/nh-RJWGjXgIOz4BWgbWIoNmrZO-758x531@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/usando-alexa-hoteles-decirte-contrasena-wifi-carta-20240726165331-nt.html",
+        "date": "2024-07-26 14:53:32",
+        "sentiment_score": 0.01224932074546814
+    },
+    {
+        "title": "Esto es lo primero que una persona con alzhéimer comienza a olvidar: el síntoma inicial más claro de esta enfermedad",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/07/26/4787808-RA6M973AMTGjUMWy4oX8L8I-758x531@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/primero-persona-alzheimer-comienza-olvidar-sintoma-inicial-enfermedad-20240726161712-nt.html",
+        "date": "2024-07-26 14:24:20",
+        "sentiment_score": -0.13212242722511292
+    },
+    {
+        "title": "La UE aconseja no aprobar lecanemab, un fármaco controvertido para el alzzhéimer",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/07/26/cerebro--758x531.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/ue-aconseja-aprobar-lecanemab-farmaco-controvertido-alzzheimer-20240726152309-nt.html",
+        "date": "2024-07-26 13:24:39",
+        "sentiment_score": -0.08162000775337219
+    },
+    {
+        "title": "Una vacuna contra el virus del herpes se asocia a menor riesgo de demencia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/07/26/cancer-RzoTfoPf0rAG6UOxCgxSr0N-758x531@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/vacuna-virus-herpes-asocia-menor-riesgo-demencia-20240726140958-nt.html",
+        "date": "2024-07-26 13:00:04",
+        "sentiment_score": -0.12889260053634644
+    },
+    {
+        "title": "El Corte Inglés nombra como CEO a Gastón Bottazzini y prepara nuevo plan estratégico",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/26/MartaAlvarezefe-RbDoHcgVy7ov9cOKwbNFSuO-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/corte-ingles-nombra-ceo-gaston-bottazzini-prepara-20240726142041-nt.html",
+        "date": "2024-07-26 12:20:42",
+        "sentiment_score": -0.001987546682357788
+    },
+    {
+        "title": "Oliu invierte un millón de euros en el Sabadell en plena opa de BBVA",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/26/Oliu-RssyyQ9Lk2CpRA8FSHc8IJN-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/oliu-invierte-millon-euros-sabadell-plena-opa-20240726135415-nt.html",
+        "date": "2024-07-26 11:54:15",
+        "sentiment_score": -0.08874364197254181
+    },
+    {
+        "title": "El público del Liceo vive una noche de pasión y ritos paganos con ‘Sacre’ de la coreógrafa alemana Sasha Waltz",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NCJL4GBDDJF5TIK7UVTCEKEKLY.crdownload?auth=9a240ca2e02fef86278fa561ef351bedcca5a3abf0b18a4c8eadc2136076ae66",
+        "tags": [
+            "danza",
+            "barcelona",
+            "cataluña",
+            "artes escénicas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-26/el-publico-del-liceo-vive-una-noche-de-pasion-y-ritos-paganos-con-sacre-de-la-coreografa-alemana-sasha-waltz.html",
+        "date": "2024-07-26 16:35:25",
+        "sentiment_score": -0.5926277860999107
+    },
+    {
+        "title": "El festival Grec cierra la edición de 2024 con un balance de 136.000 espectadores",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6H25NY7WAJDODLTGY75OZMCI2A.jpg?auth=48c8466e03efec4d6b5edd67c22063f467d716c140543543853154d078361ddd",
+        "tags": [
+            "teatro",
+            "festivales",
+            "arte",
+            "barcelona",
+            "cultura",
+            "festival grec",
+            "música",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-26/el-festival-grec-cierra-la-edicion-de-2024-con-un-balance-de-136000-espectadores.html",
+        "date": "2024-07-26 15:29:22",
+        "sentiment_score": 0.7293996848165989
+    },
+    {
+        "title": "El ladrón de Atrio: “Los vídeos, que no se vieron en el juicio, no demuestran que yo robé las botellas de vino”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4M4NQNBEKVAS5EUPM6WFOQR3Q4.jpg?auth=ffa7239b85257491f2659753b2ff639db7704b7022a10c674a2a554cd6758325",
+        "tags": [
+            "prisiones",
+            "robos",
+            "defensa",
+            "españa",
+            "cáceres",
+            "proceso judicial",
+            "hurto",
+            "atrio"
+        ],
+        "link": "https://elpais.com/espana/2024-07-26/el-ladron-de-atrio-los-videos-que-no-se-vieron-en-el-juicio-no-demuestran-que-yo-robe-las-botellas-de-vino.html",
+        "date": "2024-07-26 14:41:26",
+        "sentiment_score": -0.7738833893090487
+    },
+    {
+        "title": "Xavier Trias abandona la política: “Hoy no diré que ‘us bombin’. Hoy os daré las gracias”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PSWA3ZICKP5YRZOS3GTYYWURC4.jpg?auth=96179851e4d95aba96cb3f09f538bbf949cddbc33f0eff25a31205fbce55892f",
+        "tags": [
+            "jaume collboni",
+            "juntsxcat",
+            "jubilación",
+            "xavier trias",
+            "ayuntamientos",
+            "cataluña",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-26/xavier-trias-abandona-la-politica-hoy-no-dire-que-us-bombin-hoy-os-dare-las-gracias.html",
+        "date": "2024-07-26 14:35:32",
+        "sentiment_score": -0.36063775420188904
+    },
+    {
+        "title": "Sánchez y Pradales abordan el cumplimiento del Estatuto vasco con “clara voluntad de colaborar”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4BBXHLRPDYH6W3UVSGVQHAV7WI.jpg?auth=8e6f9bb86355df4a0ea7e240138e02e20cf84372affe2ad047ec2d3c27bb3432",
+        "tags": [
+            "eaj-pnv",
+            "lehendakari",
+            "estatuto gernika",
+            "pedro sánchez",
+            "gobierno vasco",
+            "imanol pradales",
+            "españa",
+            "pse-ee psoe",
+            "país vasco"
+        ],
+        "link": "https://elpais.com/espana/2024-07-26/sanchez-y-pradales-abordan-el-cumplimiento-del-estatuto-vasco-con-clara-voluntad-de-colaborar.html",
+        "date": "2024-07-26 14:07:16",
+        "sentiment_score": 0.7850967086851597
+    },
+    {
+        "title": "Muere Inés Ayala Sender, la eurodiputada que peleó por el ferrocarril",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DYW7KALA7D757FMXEGD6LV3EWY.jpg?auth=0ab07e1c6bb3152f3ef709d081da75e0286e2126f9f9ddb11ebd526edac7f081",
+        "tags": [
+            "socialismo",
+            "psoe",
+            "trenes",
+            "unión europea",
+            "obituarios",
+            "in memoriam",
+            "política",
+            "parlamento europeo",
+            "inés ayala",
+            "aragón",
+            "corredor cantábrico-mediterráneo",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-07-26/muere-ines-ayala-sender-la-eurodiputada-que-peleo-por-el-ferrocarril.html",
+        "date": "2024-07-26 13:52:05",
+        "sentiment_score": -0.016835540533065796
+    },
+    {
+        "title": "El Supremo decide que el ‘caso Koldo’ siga en la Audiencia Nacional y no pase a la Fiscalía Europea",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ATQ66E53FZAT3PBWYPGT5LH7WU.jpg?auth=2ffe316f2b3f33ac1fcaf9aff7bd5767ea4e7bce368a0cb853770bbf9c60c0bf",
+        "tags": [
+            "ministerio de transportes",
+            "fiscalía anticorrupción",
+            "josé luis ábalos",
+            "corrupción",
+            "mascarillas",
+            "españa",
+            "fiscalía europea",
+            "ismael moreno chamarro",
+            "tribunal supremo",
+            "audiencia nacional",
+            "koldo garcía",
+            "fraudes",
+            "pandemia",
+            "caso koldo"
+        ],
+        "link": "https://elpais.com/espana/2024-07-26/el-supremo-decide-que-el-caso-koldo-siga-en-la-audiencia-nacional-y-no-pase-a-la-fiscalia-europea.html",
+        "date": "2024-07-26 12:59:24",
+        "sentiment_score": -0.5757409557700157
+    },
+    {
+        "title": "Vídeo | Detenido el conductor de un camión que circuló durante seis kilómetros ebrio y en sentido contrario en Sevilla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/S5LVHR25JNEZPKC6L6DZ3I6XDI.jpg?auth=442ef9a949cc1db2e0f12138e025fc514fbc0d4dab8ea6a08fdc760073bdcc29&width=1200",
+        "tags": [
+            "sevilla",
+            "españa",
+            "delitos tráfico",
+            "detenciones",
+            "kamikazes",
+            "seguridad vial",
+            "delitos",
+            "accidentes tráfico",
+            "guardia civil",
+            "dgt"
+        ],
+        "link": "https://elpais.com/espana/2024-07-26/video-detenido-el-conductor-de-un-camion-que-circulo-durante-seis-kilometros-ebrio-y-en-sentido-contrario-en-sevilla.html",
+        "date": "2024-07-26 12:13:13",
+        "sentiment_score": -0.7462067399173975
+    },
+    {
+        "title": "5 planes gratis en Madrid del 26 de julio al 2 de agosto: jazz en parque del Oeste y una exposición de las raíces africanas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O75ZBTFECVDJRM74B7GX3JLEOI.jpg?auth=322d23e2279b2a86206735c0bbb93bc54c2bd73d4013aa82178507cafd2cb9fb",
+        "tags": [
+            "cultura",
+            "música",
+            "fotografía",
+            "veranos de la villa",
+            "exposiciones temporales",
+            "historia",
+            "japón",
+            "jazz",
+            "exposiciones",
+            "comunidad de madrid",
+            "música en vivo",
+            "fundación telefónica",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-26/5-planes-gratis-en-madrid-del-26-de-julio-al-2-de-agosto-jazz-en-parque-del-oeste-y-una-exposicion-de-las-raices-africanas.html",
+        "date": "2024-07-26 12:06:09",
+        "sentiment_score": 0.07563265040516853
+    },
+    {
+        "title": "Cae un grupo criminal que captaba ‘mulas bancarias’ para perpetrar estafas ‘online’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3T5MT34HHFEVXNHJQYXSFRYFWM.png?auth=3bd41c44a2faa49806aa8957e5240be7ef2a0c9d7c80cca3d27ecbeece0de437",
+        "tags": [
+            "estafas",
+            "andalucía",
+            "cataluña",
+            "menores",
+            "policía nacional",
+            "españa",
+            "jaén",
+            "fraudes"
+        ],
+        "link": "https://elpais.com/espana/2024-07-26/cae-un-grupo-criminal-que-captaba-mulas-bancarias-para-perpetrar-estafas-online.html",
+        "date": "2024-07-26 11:49:35",
+        "sentiment_score": -0.5957143343985081
+    },
+    {
+        "title": "Pedro Piqueras se reúne con el Club Conecta, el foro de periodistas castellano-manchegos en Madrid",
+        "image_url": "https://s1.elespanol.com/2024/07/26/actualidad/873423454_248077282_1706x960.jpg?contentId=ESPIMA20240726_0805",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20240726/pedro-piqueras-reune-club-conecta-foro-periodistas-castellano-manchegos-madrid/873413112_0.html",
+        "date": "2024-07-26 17:01:50",
+        "sentiment_score": 0.13480518385767937
+    },
+    {
+        "title": "Simeone se vuelve loco: va a por cuatro fichajes en la agenda del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/12/06/culemania/primer-equipo/815178510_13277828_1706x960.jpg?contentId=ESPIMA20231206_0036",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240726/simeone-vuelve-loco-cuatro-fichajes-agenda-barca/873412766_0.html",
+        "date": "2024-07-26 16:54:52",
+        "sentiment_score": 0.12123328819870949
+    },
+    {
+        "title": "Sin salirse del guion",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2024/07/26/66a3cd165883b.jpeg",
+        "tags": [
+            "tudela y ribera"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/navarra/tudela-ribera/2024/07/26/salirse-guion-616799-1007.html",
+        "date": "2024-07-26 16:45:57",
+        "sentiment_score": -0.705810971558094
+    },
+    {
+        "title": "Por qué una familia rica con tres hijos puede acceder al bono social eléctrico para familias vulnerables",
+        "image_url": "https://static.infolibre.es/clip/0aa424b2-5bee-46c2-9dec-490b6e2dd755_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.infolibre.es/economia/familia-rica-tres-hijos-acceder-bono-social-electrico-familias-vulnerables_1_1847732.html",
+        "date": "2024-07-26 16:39:52",
+        "sentiment_score": -0.020118296146392822
+    },
+    {
+        "title": "Gabi Nunes, tras dos lesiones de cruzado y gol en París 2024: “Soy un milagro”",
+        "image_url": "./assets/ai_generated/v1_txt2img_b52ad32297274f05b7c63536e2373ed2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/26/gabi-nunes-tras-dos-lesiones-de-cruzado-y-gol-en-paris-2024-soy-un-milagro/",
+        "date": "2024-07-26 16:17:49",
+        "sentiment_score": 0.7436031475663185
+    },
+    {
+        "title": "San Bartolomé de Tirajana renueva la flota de sus bomberos con 1,5 millones de euros",
+        "image_url": "https://s3.ppllstatics.com/canarias7/www/multimedia/2024/07/26/San-Bartolome-bomberos-vehiculos-presentacion-Tunte-piscina-julio-2024-kwOF-U220823679322ePE-758x531@Canarias7.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.canarias7.es/canarias/gran-canaria/san-bartolome-tirajana-renueva-flota-bomberos-1500000-20240726164138-nt.html",
+        "date": "2024-07-26 16:07:12",
+        "sentiment_score": 0.27643711119890213
+    },
+    {
+        "title": "El aprendizaje alemán de Juan Núñez",
+        "image_url": "./assets/ai_generated/v1_txt2img_4f29c4bbe34b48eaad4cff7267198dc7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/el-aprendizaje-aleman-de-juan-nunez/",
+        "date": "2024-07-26 15:50:39",
+        "sentiment_score": -0.12997260689735413
+    },
+    {
+        "title": "Nueva estafa en WhatsApp a padres de familia con supuesta emergencia: No caigas",
+        "image_url": "https://www.infobae.com/resizer/v2/MAOXXGSVVJBRPFNPSYFBX4B7FA.jpg?auth=599d44131cd19e51e6c4b7c267c8522865cc74ec98b841382ac37c122fd070c8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/tecno/2024/07/26/nueva-estafan-en-whatsapp-a-padres-de-familia-con-supuesta-emergencia-no-caigas/",
+        "date": "2024-07-26 15:46:31",
+        "sentiment_score": -0.8815847225487232
+    },
+    {
+        "title": "Muere Salustiano del Campo «pionero» de la sociología española",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/04/usar-gafas-ganar-dinero-vista.jpg",
+        "tags": [
+            "sociología",
+            "cis",
+            "actualidad"
+        ],
+        "link": "https://theobjective.com/actualidad/2024-07-26/muere-salustiano-campo-sociologia-espanola/",
+        "date": "2024-07-26 15:20:50",
+        "sentiment_score": -0.031359829008579254
+    },
+    {
+        "title": "Atletas de México en los Juegos Olímpicos de París 2024: horarios y dónde ver la transmisión",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O2LY3CRJDJCOFKJEOLH7ZK5NH4.jpg?auth=4804776db2bc74a1071595f7a15c363acb889fe86ce01e7d1bdc364143fddc64",
+        "tags": [
+            "deportes",
+            "juegos olímpicos 2024",
+            "natación",
+            "tiro con arco",
+            "méxico",
+            "latinoamérica",
+            "deportes acuáticos",
+            "américa",
+            "boxeo"
+        ],
+        "link": "https://elpais.com/mexico/2024-07-26/atletas-de-mexico-en-los-juegos-olimpicos-de-paris-2024-horarios-y-donde-ver-la-transmision.html",
+        "date": "2024-07-26 17:16:02",
+        "sentiment_score": 0.3076304458081722
+    },
+    {
+        "title": "Alicante analiza los últimos tratamientos contra el cáncer y el apoyo a pacientes en el Oncocongreso",
+        "image_url": "https://s1.elespanol.com/2024/07/26/alicante/vivir/salud/873423296_248072430_1706x960.jpg?contentId=ESPIMA20240726_0647",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/alicante/vivir/salud/20240726/alicante-analiza-ultimos-tratamientos-cancer-apoyo-pacientes-oncocongreso/873413052_0.html",
+        "date": "2024-07-26 17:07:04",
+        "sentiment_score": 0.13701320253312588
+    },
+    {
+        "title": "Un brote de salmonelosis deja 29 infectados, 4 de ellos hospitalizados, tras comer una tortilla en un restaurante de Barcelona",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/03/07/17098072668709.jpg",
+        "tags": [
+            "barcelona",
+            "cataluña",
+            "enfermedades infecciosas"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2024/07/26/66a3ceb921efa032238b458e.html",
+        "date": "2024-07-26 16:57:18",
+        "sentiment_score": -0.2209591455757618
+    },
+    {
+        "title": "Los McLaren desafían a Verstappen en Bélgica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/48036fbc-842d-4986-ae93-7773ba8d5e9a_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elperiodico.com/es/mundial-f1/20240726/mclaren-desafian-verstappen-belgica-libres-gran-premio-106117065",
+        "date": "2024-07-26 16:52:18",
+        "sentiment_score": -0.05531904101371765
+    },
+    {
+        "title": "El Hospital Vall d'Hebron de Barcelona opera un tumor parafaríngeo con una técnica que evita incisiones",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/26/intervencion-del-equipo-del-vall-dhebron.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5535504/0/hospital-vall-dhebron-barcelona-opera-tumor-parafaringeo-tecnica-evita-incisiones/",
+        "date": "2024-07-26 16:49:27",
+        "sentiment_score": 0.2538091875612736
+    },
+    {
+        "title": "Brote de salmonelosis en Barcelona: al menos 29 intoxicados por la tortilla de patata de un bar",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/07/juez-residencia-salmonelosis-muertos-469x317.jpg",
+        "tags": [
+            "sociedad",
+            "infecciones",
+            "salmonella",
+            "brotes",
+            "tortilla",
+            "barcelona"
+        ],
+        "link": "https://theobjective.com/sociedad/2024-07-26/salmonelosis-barcelona-tortilla-patata/",
+        "date": "2024-07-26 16:41:42",
+        "sentiment_score": -0.7230430711060762
+    },
+    {
+        "title": "EEUU | Conozca el calendario de atención del Consulado Móvil mexicano hasta el #31Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/423861914_786346740197990_4673023417917585938_n-1053x720.jpg",
+        "tags": [
+            "consulado de méxico en eeuu",
+            "consulado móvil mexicano",
+            "estados",
+            "consulado móvil",
+            "atención",
+            "fechas",
+            "jornadas",
+            "trámites consulares",
+            "ciudades",
+            "eeuu",
+            "2001online",
+            "consulado",
+            "mexicanos",
+            "internacionales",
+            "news",
+            "jornada"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-conozca-el-calendario-de-atencion-del-consulado-movil-mexicano-hasta-el-31jul/",
+        "date": "2024-07-26 15:00:00",
+        "sentiment_score": 0.16995400562882423
+    },
+    {
+        "title": "Ofrecen alta recompensa en dólares por información del perrito ‘Manchas’ (+MONTO)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Manchas-778x720.jpg",
+        "tags": [
+            "perrito manchas",
+            "farmatodo",
+            "perrito",
+            "dólares",
+            "comunidad",
+            "mascota",
+            "miranda",
+            "2001online",
+            "sucesos",
+            "manchas"
+        ],
+        "link": "https://2001online.com/comunidad/ofrecen-alta-recompensa-en-dolares-por-informacion-del-perrito-manchas-monto/",
+        "date": "2024-07-26 14:50:57",
+        "sentiment_score": 0.26429483294487
+    },
+    {
+        "title": "Diferencias entre el perro caliente venezolano y el estadounidense",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Dn5Z19WU0AIPpT5-1.jpg",
+        "tags": [
+            "comida chatarra",
+            "gastronomía",
+            "eeuu",
+            "comida callejera",
+            "perro caliente",
+            "comida",
+            "estados unidos"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/diferencias-entre-el-perro-caliente-venezolano-y-el-estadounidense/",
+        "date": "2024-07-26 14:49:53",
+        "sentiment_score": 0.038206249475479126
+    },
+    {
+        "title": "EEUU | Estos beneficiarios recibirán hasta $1.751 por pagos SNAP en Illinois en los próximos días",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/06/snap-florida-recertificacion-junio.webp",
+        "tags": [
+            "internacionales",
+            "eeuu",
+            "2001online"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-estos-beneficiarios-recibiran-hasta-1-751-por-pagos-snap-en-illinois-en-los-proximos-dias/",
+        "date": "2024-07-26 14:45:00",
+        "sentiment_score": 0.6414118185639381
+    },
+    {
+        "title": "La impactante declaración que hizo Elizabeth Gutiérrez sobre William Levy",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/04/image-175.png",
+        "tags": [
+            "googlenews",
+            "actorcubano",
+            "ruptura",
+            "venezuela",
+            "farandulaestadounidense",
+            "farándula",
+            "farandulacubana",
+            "en el chisme",
+            "cuba",
+            "nacionales",
+            "entretenimiento",
+            "elizabethgutiérrez",
+            "williamlevy",
+            "eeuu",
+            "2001online",
+            "26dejuliode2024",
+            "instagran",
+            "viral",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/farandula/la-impactante-declaracion-que-hizo-elizabeth-gutierrez-sobre-william-levy/",
+        "date": "2024-07-26 14:41:58",
+        "sentiment_score": -0.010166943073272705
+    },
+    {
+        "title": "Los Ángeles | Eventos que se presentarán hasta el #31Jul con bajo costo (+Listado)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Cortesia-AARP.jpg",
+        "tags": [
+            "cultura",
+            "actividades",
+            "eeuu",
+            "los ángeles",
+            "internacionales",
+            "moda",
+            "concierto",
+            "cine",
+            "estados unidos"
+        ],
+        "link": "https://2001online.com/internacionales/los-angeles-eventos-que-se-presentaran-hasta-el-31jul-con-bajo-costo-listado/",
+        "date": "2024-07-26 14:36:00",
+        "sentiment_score": 0.1556801088154316
+    },
+    {
+        "title": "Estos fueron los mejores looks de los Premios Juventud 2024 (+Fotos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-488.png",
+        "tags": [
+            "mejores looks",
+            "farándula",
+            "premios juventud 2024"
+        ],
+        "link": "https://2001online.com/farandula/estos-fueron-los-mejores-looks-de-los-premios-juventud-2024-fotos/",
+        "date": "2024-07-26 14:33:52",
+        "sentiment_score": 0.20911485701799393
+    },
+    {
+        "title": "Ranking de atletas con más medallas en unos Juegos Olímpicos",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Captura-de-pantalla-2024-07-26-a-las-9.26.10-a.-m.png",
+        "tags": [
+            "juegosolimpicos",
+            "deporte",
+            "entretenimiento",
+            "medallasolimpicas",
+            "atletas",
+            "medallas",
+            "paris"
+        ],
+        "link": "https://2001online.com/zona3d/entretenimiento/ranking-de-atletas-con-mas-medallas-en-unos-juegos-olimpicos/",
+        "date": "2024-07-26 14:30:00",
+        "sentiment_score": 0.6793801933526993
+    },
+    {
+        "title": "Así puedes comprar un Smart TV con Cashea (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-486.png",
+        "tags": [
+            "servicios",
+            "así puedes comprar un smart tv con cashea (+detalles)"
+        ],
+        "link": "https://2001online.com/servicios/asi-puedes-comprar-un-smart-tv-con-cashea-detalles/",
+        "date": "2024-07-26 14:30:00",
+        "sentiment_score": 0.20539052784442902
     }
 ];
