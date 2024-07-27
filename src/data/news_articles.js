@@ -5619,5 +5619,472 @@ export default [
         "link": "https://2001online.com/nacionales/hasta-que-fecha-estara-cerrada-la-frontera-de-venezuela/",
         "date": "2024-07-26 21:03:55",
         "sentiment_score": -0.17180093377828598
+    },
+    {
+        "title": "Reporte meteorológico: las temperaturas que se esperan en Málaga este 27 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/2OU6EPJPURBKPOG5XDDMCLVLKU.jpg?auth=c882db427cd4a8b2a9bb6328298bb2ac8282f38d0e1773bbf9fe80a66e77e342",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/27/reporte-meteorologico-las-temperaturas-que-se-esperan-en-malaga-este-27-de-julio/",
+        "date": "2024-07-27 02:02:27",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "¿Qué ver en Netflix? Estas son las películas top en España",
+        "image_url": "https://www.infobae.com/resizer/v2/PL6RYNQN4ZGJLO3V4RDX6QXMUE.jpg?auth=67c2a4fabd7a3a06c9ab4700ed7a22c69ae7df621b64c84d33e25b6b3f8bd6f9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/27/que-ver-en-netflix-estas-son-las-peliculas-top-en-espana/",
+        "date": "2024-07-27 01:31:02",
+        "sentiment_score": 0.21778565645217896
+    },
+    {
+        "title": "Payés y Llergo: potencia y renovación en la recta final de La Mar de Músicas",
+        "image_url": "./assets/ai_generated/v1_txt2img_69cde78ab7014fa2a12c6c31edadaebe.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/payes-y-llergo-potencia-y-renovacion-en-la-recta-final-de-la-mar-de-musicas/",
+        "date": "2024-07-27 00:47:00",
+        "sentiment_score": 0.5893009826540947
+    },
+    {
+        "title": "Llega a Malvinas el avión para repatriar a los tripulantes del 'Argos Georgia'",
+        "image_url": "./assets/ai_generated/v1_txt2img_2570b3dc6b69452cb813ccdbb320944f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/llega-a-malvinas-el-avion-para-repatriar-a-los-tripulantes-del-argos-georgia/",
+        "date": "2024-07-26 23:30:55",
+        "sentiment_score": 0.053410694003105164
+    },
+    {
+        "title": "Hoy será noticia. Sábado, 27 de julio de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_585ed79d7e25456baf171ef42f08f782.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/hoy-sera-noticia-sabado-27-de-julio-de-2024/",
+        "date": "2024-07-26 23:02:34",
+        "sentiment_score": 0.031125426292419434
+    },
+    {
+        "title": "Estopa reivindica su pedigrí de extrarradio durante un 'descanso' en la Costa Brava",
+        "image_url": "./assets/ai_generated/v1_txt2img_34e60d457a364985a6ffda1154ddee93.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/estopa-reivindica-su-pedigri-de-extrarradio-durante-un-descanso-en-la-costa-brava/",
+        "date": "2024-07-26 23:02:17",
+        "sentiment_score": 0.27656184136867523
+    },
+    {
+        "title": "Venezuela impide la entrada de una delegación del PP, que no tenía permiso oficial",
+        "image_url": "./assets/ai_generated/v1_txt2img_f7cc026aa4514723b479f039cb91c894.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/venezuela-impide-la-entrada-de-una-delegacion-del-pp-que-no-tenia-permiso-oficial/",
+        "date": "2024-07-26 22:32:04",
+        "sentiment_score": -0.7814146745949984
+    },
+    {
+        "title": "La brutal singularidad de John Zorn irrumpe en el Jazzaldia",
+        "image_url": "./assets/ai_generated/v1_txt2img_e7ff3c78586142aa82e0e9e7b976798c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/la-brutal-singularidad-de-john-zorn-irrumpe-en-el-jazzaldia/",
+        "date": "2024-07-26 22:31:47",
+        "sentiment_score": -0.3280581086874008
+    },
+    {
+        "title": "“Pinsapo” y “Max’s Thunder”, dos victorias con monta de mujer",
+        "image_url": "./assets/ai_generated/v1_txt2img_e46d9891dedb41fb85dd4d14434930df.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/26/pinsapo-y-maxs-thunder-dos-victorias-con-monta-de-mujer/",
+        "date": "2024-07-26 22:22:17",
+        "sentiment_score": 0.6162018850445747
+    },
+    {
+        "title": "Transparencia electoral denuncia irregularidades en el proceso electoral en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1236717439-20240727021022185.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/obstaculos-elecciones-maduro-edmundo-elecciones-venezuela-conclusiones-tv/",
+        "date": "2024-07-27 02:14:45",
+        "sentiment_score": -0.8494785754010081
+    },
+    {
+        "title": "Expresidente Quiroga relata cómo no lo dejaron llegar a Venezuela como observador",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-894493626.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "nicolás maduro",
+            "crisis venezuela",
+            "jorge quiroga"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-panorama-resultados-venezuela-edmundo-maduro-conclusiones-tv/",
+        "date": "2024-07-27 02:04:34",
+        "sentiment_score": -0.5008150413632393
+    },
+    {
+        "title": "Observadores electorales en Venezuela: quiénes están confirmados, qué rol cumplen y quiénes desistieron",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2162903803.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "instanoticias",
+            "elecciones en venezuela",
+            "venezuela noticias",
+            "onu"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/observadores-electorales-venezuela-confirmados-rol-quienes-desistieron-orix/",
+        "date": "2024-07-27 00:38:52",
+        "sentiment_score": -0.14080685377120972
+    },
+    {
+        "title": "Líderes del narcotráfico detenidos y extraditados durante el sexenio de Andrés Manuel López Obrador",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/narcotrafico-lideres.png",
+        "tags": [
+            "carteles narcotrafico",
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/lideres-narcotrafico-detenidos-extraditados-sexenio-amlo-orix/",
+        "date": "2024-07-27 00:05:33",
+        "sentiment_score": -0.3772115632891655
+    },
+    {
+        "title": "Gobierno de Biden monitorea las elecciones en Venezuela y dice estar dispuesto a trabajar con el ganador \"mientras haya un proceso electoral transparente y justo\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2162903889-e1722037218166.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "maría corina machado",
+            "elecciones en venezuela",
+            "joe biden",
+            "nicolás maduro",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/26/gobierno-biden-elecciones-venezuela-trabajar-ganador-proceso-electoral-justo-trax/",
+        "date": "2024-07-26 23:40:35",
+        "sentiment_score": 0.44530855119228363
+    },
+    {
+        "title": "¿De qué hablaron Trump y Netanyahu en Florida?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1228528835.jpg?quality=100&strip=info",
+        "tags": [
+            "donald trump",
+            "netanyahu",
+            "trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-reunion-netanyahu-israel-eeuu-apoyo-dusa-tv/",
+        "date": "2024-07-26 23:23:53",
+        "sentiment_score": -0.2354232631623745
+    },
+    {
+        "title": "¿Cómo impacta a los cárteles mexicanos la detención del “Mayo” Zambada?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162905509.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-mexico-mayo-zambada-guzman-detencion-narcotrafico-dusa-tv/",
+        "date": "2024-07-26 23:16:17",
+        "sentiment_score": -0.7495561018586159
+    },
+    {
+        "title": "El Departamento de Justicia de EE.UU. finaliza un acuerdo de culpabilidad con Boeing",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/boeing-1-adobestock-367877063-editorial-use-only.jpeg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/boeing-eeuu-departamento-justicia-multa-max737-acuerdo-cnn-dinero-tv/",
+        "date": "2024-07-26 22:47:39",
+        "sentiment_score": -0.5276209488511086
+    },
+    {
+        "title": "¿Cómo fue que Edmundo González se convirtió en el abanderado de la oposición venezolana?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162583918.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-urrutia-quien-es-perfil-venezuela-elecciones/",
+        "date": "2024-07-26 22:42:21",
+        "sentiment_score": -0.29300494492053986
+    },
+    {
+        "title": "Así fueron las actuaciones de Lady Gaga y Celine Dion en la ceremonia de inauguración de los Juegos Olímpicos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-olympics-colombia-20240726222922280.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lady-gaga-celine-dion-performance-juegos-olompicos-inauguracion-paris-2024-orix/",
+        "date": "2024-07-26 22:35:25",
+        "sentiment_score": 0.5972205325961113
+    },
+    {
+        "title": "El fantasma de los altos precios de la luz regresa en plena ola de calor",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/26/ventilador-RHHWIHHQqUZmo40KsO9dzUN-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fantasma-altos-precios-luz-regresa-espana-verano-20240726211901-nt.html",
+        "date": "2024-07-27 02:14:36",
+        "sentiment_score": -0.11772045493125916
+    },
+    {
+        "title": "Bruselas también pone deberes a España en créditos, navegación aérea, plataformas digitales y seguridad bancaria",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/26/quie-RtIYWJrOLUxLGJz5eL5cQFP-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/expedientes-bruselas-espana-creditos-navegacion-aerea-plataformas-20240726135106-nt.html",
+        "date": "2024-07-27 02:13:44",
+        "sentiment_score": -0.14662517607212067
+    },
+    {
+        "title": "Carlos Dotor, centrocampista del Oviedo: \"He tenido varias ofertas, pero cuando me llegó la del Oviedo no lo dudé\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/342d4f82-58fb-42e4-940b-bf5a1bac971e_16-9-aspect-ratio_default_0_x1153y586.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2024/07/27/carlos-dotor-centrocampista-oviedo-he-106133560.html",
+        "date": "2024-07-27 02:15:00",
+        "sentiment_score": 0.2518390715122223
+    },
+    {
+        "title": "La consejera de Turismo de Murcia: \"El impacto económico del Año Jubilar de Caravaca será de 200M\"",
+        "image_url": "https://s1.elespanol.com/2024/07/26/actualidad/873423135_248067389_1706x960.jpg?contentId=ESPIMA20240726_0486",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20240727/consejera-turismo-murcia-impacto-economico-ano-jubilar-caravaca/873162957_0.html",
+        "date": "2024-07-27 00:58:57",
+        "sentiment_score": 0.4551398605108261
+    },
+    {
+        "title": "Si quiere pasarlo en grande, ponga un ‘Skandelli’ en su vida",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/69579054-78ce-41d1-81bd-b89674d054e8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/gipuzkoa/bertan/2024/07/27/quiere-pasarlo-grande-ponga-skandelli-8526767.html",
+        "date": "2024-07-27 00:56:37",
+        "sentiment_score": -0.184610515832901
+    },
+    {
+        "title": "Karol G reaviva la molestia en la comunidad madrileña tras sus conciertos",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/karol_g_madrid.jpg",
+        "tags": [
+            "karol g",
+            "entretenimiento"
+        ],
+        "link": "https://eldiariony.com/2024/07/26/karol-g-reaviva-la-molestia-en-la-comunidad-madrilena-tras-sus-conciertos/",
+        "date": "2024-07-27 00:48:21",
+        "sentiment_score": -0.5341804325580597
+    },
+    {
+        "title": "Ignacio Pérez-Blanco, el marqués gallego con linaje de Moctezuma que ha descifrado el gran enigma de Goya: \"Era la princesa del Brasil\"",
+        "image_url": "https://s1.elespanol.com/2024/07/24/porfolio/la-vida/872923498_248027998_1706x960.jpg?contentId=ESPIMA20240724_0799",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/porfolio/la-vida/20240727/ignacio-perez-blanco-marques-gallego-linaje-moctezuma-descifrado-gran-enigma-goya-princesa-brasil/872912951_0.html",
+        "date": "2024-07-27 00:09:23",
+        "sentiment_score": -0.3528093844652176
+    },
+    {
+        "title": "Por qué participaron los Minions, el incómodo momento de Serena Williams y una ausencia estelar: las perlitas de la inauguración de los JJOO de París 2024",
+        "image_url": "https://www.infobae.com/resizer/v2/MMLRLQ3CZ3ABL4ICZEEX6YRYBI.jpg?auth=e9610b220ab4a42bcb1d8db0b85715dc2347bf341dc81a6f78cf098d5c904865",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/07/27/por-que-participaron-los-minions-el-incomodo-momento-de-serena-williams-y-una-ausencia-estelar-las-perlitas-de-la-inauguracion-de-los-jjoo-de-paris-2024/",
+        "date": "2024-07-27 00:05:27",
+        "sentiment_score": 0.2188422977924347
+    },
+    {
+        "title": "Las 7 maravillas del nuevo Camp Nou que mejoran el Santiago Bernabéu",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/02/29/culemania/palco/836426595_12535272_1706x960.jpg?contentId=ESPIMA20240229_0246",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240727/las-maravillas-camp-nou-mejoran-santiago-bernabeu/873412676_0.html",
+        "date": "2024-07-26 23:49:04",
+        "sentiment_score": 0.8208216819912195
+    },
+    {
+        "title": "El día que Zidane entregó a Nadal su primer Roland Garros",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/07/27/zidane-nadal-kfKE--758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deportes/juegos-olimpicos/dia-zidane-entrego-nadal-primer-roland-garros-20240727002900-nt.html",
+        "date": "2024-07-26 22:29:41",
+        "sentiment_score": 0.3996133506298065
+    },
+    {
+        "title": "Abogados anticipan un repunte de ejecuciones hipotecarias: «Hemos tenido hasta clientes con título nobiliario»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2023/12/14/657b45f13a3f9.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.eldebate.com/economia/20240727/abogados-anticipan-repunte-ejecuciones-hipotecarias-hemos-tenido-hasta-clientes-titulo-nobiliario_213043.html",
+        "date": "2024-07-27 02:15:00",
+        "sentiment_score": 0.2303607016801834
+    },
+    {
+        "title": "Todos contra la última versión del Dream Team",
+        "image_url": "https://i0.wp.com/elsiglo.com.ve/wp-content/uploads/2024/07/james-1.jpg?resize=696%2C696&ssl=1",
+        "tags": [
+            "dream team",
+            "noticias destacadas",
+            "deportes"
+        ],
+        "link": "https://elsiglo.com.ve/2024/07/26/todos-contra-la-ultima-version-del-dream-team/",
+        "date": "2024-07-27 02:07:47",
+        "sentiment_score": 0.34965017437934875
+    },
+    {
+        "title": "Cómo saber si tengo alergia al sol y consejos para prevenir su aparición",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/433ef186-5894-4c77-a41a-46ddbe1a6cc7_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elperiodico.com/es/salud/20240727/alergia-sol-consejos-prevenir-aparicion-106039067",
+        "date": "2024-07-27 01:59:00",
+        "sentiment_score": -0.7198138274252415
+    },
+    {
+        "title": "Cómo saber si tengo alergia al sol y consejos para prevenir su aparición",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/433ef186-5894-4c77-a41a-46ddbe1a6cc7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.laprovincia.es/salud/guia/2024/07/27/alergia-sol-consejos-prevenir-aparicion-106039105.html",
+        "date": "2024-07-27 01:59:00",
+        "sentiment_score": -0.7600824907422066
+    },
+    {
+        "title": "El PSOE propone al PP que la magistrada Pilar Teso presida el Tribunal Supremo y el CGPJ",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/nuevo-CGPJ-1-469x317.jpg",
+        "tags": [
+            "tribunal supremo",
+            "pp (partido popular)",
+            "psoe",
+            "consejo general del poder judicial (cgpj)",
+            "tribunales",
+            "pedro sánchez"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-07-27/psoe-pp-pilar-teso-presida-supremo/",
+        "date": "2024-07-27 01:30:00",
+        "sentiment_score": 0.04617125540971756
+    },
+    {
+        "title": "Lloret de Mar: cuando apostar por la calidad te deja sin turistas",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/04/Detienen-al-artista-Cecilio-G-por-agredir-a-un-agente-tras-masturbarse-delante-de-una-mujer-665x374-1.jpg",
+        "tags": [
+            "cataluña",
+            "turistas",
+            "economía",
+            "hoteles",
+            "playas",
+            "turismo"
+        ],
+        "link": "https://theobjective.com/economia/2024-07-27/lloret-mar-calidad-turistas/",
+        "date": "2024-07-27 01:30:00",
+        "sentiment_score": -0.9357631374150515
+    },
+    {
+        "title": "Pánico independentista ante la posibilidad de que Puigdemont no concrete aún su regreso",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/03/El-presidente-del-Gobierno-en-funciones-Pedro-Sanchez-recibe-a-la-diputada-de-Junts-Miriam-Nogueras.jpg",
+        "tags": [
+            "francia",
+            "investidura",
+            "asamblea nacional catalana (anc)",
+            "carles puigdemont",
+            "pablo llarena",
+            "política"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-07-27/panico-puigdemont-no-concreta-regreso/",
+        "date": "2024-07-27 01:30:00",
+        "sentiment_score": -0.4924596846103668
+    },
+    {
+        "title": "Asesor de Lula da Silva llegó a Venezuela para ser veedor en las elecciones del #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/1-131.jpg",
+        "tags": [
+            "brasil",
+            "nacionales",
+            "lula da silva"
+        ],
+        "link": "https://2001online.com/nacionales/asesor-de-lula-da-silva-llego-a-venezuela-para-ser-veedor-en-las-elecciones-del-28jul/",
+        "date": "2024-07-27 02:09:52",
+        "sentiment_score": -0.543950043618679
+    },
+    {
+        "title": "Rectora del CNE informa sobre la reubicación de centros de votación en varios estados del país (+Listado)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-26-at-9.04.45-PM-1024x988.jpeg",
+        "tags": [
+            "nacionales",
+            "venezuela",
+            "elecciones presidenciales 2024",
+            "reubicación de centros de votación"
+        ],
+        "link": "https://2001online.com/nacionales/rectora-del-cne-informa-sobre-la-reubicacion-de-centros-de-votacion-en-varios-estados-del-pais/",
+        "date": "2024-07-27 01:09:05",
+        "sentiment_score": 0.049331359565258026
+    },
+    {
+        "title": "Banca venezolana informa cómo funcionarán sus servicios el #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/tarjetas-de-debito-1280x720.jpeg",
+        "tags": [
+            "nacionales",
+            "banca venezolana",
+            "elecciones presidenciales #28jul"
+        ],
+        "link": "https://2001online.com/nacionales/banca-venezolana-informo-como-funcionaran-sus-servicios-el-28jul/",
+        "date": "2024-07-27 01:02:24",
+        "sentiment_score": 0.3235116936266422
+    },
+    {
+        "title": "Fuertes lluvias en el oeste de Caracas causaron caída de árboles (+Fotos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Imagen-de-WhatsApp-2024-07-26-a-las-18.30.18_b621c371-1.jpg",
+        "tags": [
+            "#caracas",
+            "nacionales",
+            "fuertes lluvias"
+        ],
+        "link": "https://2001online.com/nacionales/fuertes-lluvias-en-el-oeste-de-caracas-causo-caida-de-arboles-fotos/",
+        "date": "2024-07-27 00:10:34",
+        "sentiment_score": -0.5969069115817547
+    },
+    {
+        "title": "Suspenden el zarpe de embarcaciones de recreo y deportivas (+Fechas)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/zarpe-1.jpg",
+        "tags": [
+            "ceofanb",
+            "rosolución conjunta nº 072",
+            "nacionales",
+            "cne",
+            "caracas",
+            "domingo de elecciones",
+            "internacionales",
+            "instituto nacional de espacios acuáticos (inea)",
+            "ministerio de justicia y paz",
+            "#28jul",
+            "presidenciales en venezuela",
+            "elecciones presidenciales del 28 de julio",
+            "venezuela",
+            "proceso electoral",
+            "nicolás maduro",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/suspenden-el-zarpe-de-embarcaciones-de-recreo-y-deportivas-fechas/",
+        "date": "2024-07-26 22:20:17",
+        "sentiment_score": -0.8654096489772201
     }
 ];
