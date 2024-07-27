@@ -6086,5 +6086,612 @@ export default [
         "link": "https://2001online.com/nacionales/suspenden-el-zarpe-de-embarcaciones-de-recreo-y-deportivas-fechas/",
         "date": "2024-07-26 22:20:17",
         "sentiment_score": -0.8654096489772201
+    },
+    {
+        "title": "Alargar la vida con cáncer de mama metástasico no está al alcance de todos los bolsillos",
+        "image_url": "./assets/ai_generated/v1_txt2img_18bb8f6d52284bedac2fbc305e999235.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/alargar-la-vida-con-cancer-de-mama-metastasico-no-esta-al-alcance-de-todos-los-bolsillos/",
+        "date": "2024-07-27 06:15:56",
+        "sentiment_score": -0.811712235212326
+    },
+    {
+        "title": "Hein de Haas, experto en inmigración: España vive una crisis humanitaria \"autoinfligida\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_d52890513bc14496ab47c15072be5ca5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/hein-de-haas-experto-en-inmigracion-espana-vive-una-crisis-humanitaria-autoinfligida/",
+        "date": "2024-07-27 06:15:39",
+        "sentiment_score": -0.7799817491322756
+    },
+    {
+        "title": "Los parlamentarios del PP expulsados de Venezuela llegan esta mañana a Barajas",
+        "image_url": "./assets/ai_generated/v1_txt2img_bbeb963a05654440ae0fa44399d98146.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/los-parlamentarios-del-pp-expulsados-de-venezuela-llegan-esta-manana-a-barajas/",
+        "date": "2024-07-27 06:01:18",
+        "sentiment_score": -0.7419429328292608
+    },
+    {
+        "title": "Efemérides del 28 de julio",
+        "image_url": "./assets/ai_generated/v1_txt2img_647c584f77ad40fbaea14cae5fe47506.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/efemerides-del-28-de-julio/",
+        "date": "2024-07-27 05:15:37",
+        "sentiment_score": -0.018839046359062195
+    },
+    {
+        "title": "El ‘caso Begoña Gómez’ marca el fin del curso político: Sánchez declarará como testigo con la fe puesta en que la causa se archive cuanto antes",
+        "image_url": "https://www.infobae.com/resizer/v2/6KNFKW2JJBAUPGNHJC25QONDCM.jpg?auth=3cb44ec10f25cc15369e4df56c281f5f91aaddfad289fc71b90c1f3f362e3fe5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/27/el-caso-begona-gomez-marca-el-fin-del-curso-politico-sanchez-declarara-como-testigo-con-la-fe-puesta-en-que-la-causa-se-archive-cuanto-antes/",
+        "date": "2024-07-27 05:00:02",
+        "sentiment_score": -0.7282868213951588
+    },
+    {
+        "title": "El ‘Palacio Sumergido’: el tesoro oculto de Estambul que se ubica en sus profundidades y está lleno de leyendas y misterios",
+        "image_url": "https://www.infobae.com/resizer/v2/2I5LXE3XP5HFPPGNSXCPRLVZFA.jpg?auth=4e9b44dea5064f37873c1e0fdbf56c8fbc755d844a64ce9cb8306e7b82784b04",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2024/07/27/el-palacio-sumergido-el-tesoro-oculto-de-estambul-que-se-ubica-en-sus-profundidades-y-esta-lleno-de-leyendas-y-misterios/",
+        "date": "2024-07-27 05:00:02",
+        "sentiment_score": 0.7388156987726688
+    },
+    {
+        "title": "El pueblo de Cataluña donde mejor se come, según ‘National Geographic’: es uno de los enclaves costeros más bonitos de España",
+        "image_url": "https://www.infobae.com/resizer/v2/TYUF5Y2BCFBWBIWUT5J4NSDBXY.jpg?auth=c6726dacee0b3851c50e3f8c071b152d40082110775c2148e5118053a6ed37dc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/27/el-pueblo-de-cataluna-donde-mejor-se-come-segun-national-geographic-es-uno-de-los-enclaves-costeros-mas-bonitos-de-espana/",
+        "date": "2024-07-27 05:00:02",
+        "sentiment_score": 0.8562898859381676
+    },
+    {
+        "title": "El impuesto al aceite desaparece pero los precios siguen subiendo: los consumidores denuncian “irregularidades” de los supermercados",
+        "image_url": "https://www.infobae.com/resizer/v2/MXDKGMTUTOAEAERUNV3SWYGHAA.jpg?auth=1f82a8caa01c91f15329d9255d8be51539b77dbdda7f95205f627d58eedda275",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/27/el-impuesto-al-aceite-desaparece-pero-los-precios-siguen-subiendo-los-consumidores-denuncian-irregularidades-de-los-supermercados/",
+        "date": "2024-07-27 05:00:02",
+        "sentiment_score": -0.9072376079857349
+    },
+    {
+        "title": "La exposición imprescindible para los ‘swifties’: un viaje por los ‘looks’ más icónicos de las ‘eras’ de Taylor Swift",
+        "image_url": "https://www.infobae.com/resizer/v2/WAJVAJ672OLAVHF7NINYRGSW7A.jpg?auth=b08d847b698865d1edad46e2e6b40144c1b807061f38cb2f3eed2acc01f20c44",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/07/27/la-exposicion-imprescindible-para-los-swifties-un-viaje-por-los-looks-mas-iconicos-de-las-eras-de-taylor-swift/",
+        "date": "2024-07-27 05:00:02",
+        "sentiment_score": 0.10215665400028229
+    },
+    {
+        "title": "Más de 100 españoles atrapados durante 48 horas en el aeropuerto de Tirana, en Albania: “La policía nos sacó del avión”",
+        "image_url": "https://www.infobae.com/resizer/v2/7YAX6ZNZ3BC5NLRCWIJ6S5GSVQ.jpg?auth=bcd52a7f207e5050fe9fd84626a8eaad4b34685c13e24f2b6b77dda90c1ed0c4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/27/mas-de-100-espanoles-atrapados-durante-48-horas-en-el-aeropuerto-de-tirana-en-albania-la-policia-nos-saco-del-avion/",
+        "date": "2024-07-27 05:00:02",
+        "sentiment_score": -0.7675222288817167
+    },
+    {
+        "title": "Luis Arce: Hubo civiles, militares activos y retirados en el fallido “golpe de Estado” en Bolivia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20821711-640-still.jpg?quality=100&strip=info",
+        "tags": [
+            "luis arce",
+            "zona andina",
+            "bolivia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/uis-arce-golpe-estado-bolivia-zuniga-aristegui-tv/",
+        "date": "2024-07-27 02:30:16",
+        "sentiment_score": -0.6226526685059071
+    },
+    {
+        "title": "La supervisión de las elecciones ahora recae en los expresidentes que sí pudieron entrar a Venezuela, dice experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1241220432.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "edmundo gonzález urrutia",
+            "elecciones venezuela",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-panorama-resultado-venezuela-edmundo-maduro-conclusiones-tv/",
+        "date": "2024-07-27 02:22:01",
+        "sentiment_score": -0.28730666637420654
+    },
+    {
+        "title": "Donar sangre en Sevilla",
+        "image_url": "./assets/ai_generated/v1_txt2img_270640548bb7411baf7719c484c2d5d1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-bayort-donar-sangre-sevilla-20240727070539-nts.html",
+        "date": "2024-07-27 05:05:39",
+        "sentiment_score": -0.12349653244018555
+    },
+    {
+        "title": "La exposición a la diabetes tipo 1 en el útero protege a los bebés a largo plazo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/07/26/embarazo-sobrepeso--758x531.jpeg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/ninos-probabilidades-tener-diabetes-madre-padece-enfermedad-20240727141255-nt.html",
+        "date": "2024-07-27 02:24:30",
+        "sentiment_score": -0.15942899882793427
+    },
+    {
+        "title": "Los inversores internacionales se revuelven contra España por los impagos a las renovables",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/24/Renovableslaudo-U30615627666PBx-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/inversores-internacionales-revuelven-espana-impagos-renovables-20240726121618-nt.html",
+        "date": "2024-07-27 02:22:02",
+        "sentiment_score": -0.0603581964969635
+    },
+    {
+        "title": "Interior gastará en cuatro años 900.000 euros en destruir macroplantaciones de marihuana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RWF2QURE6FE6TASAQSCW4P26QM.jpg?auth=f8d2e806508f3c45f38fc6b1b5eefa5f884a9a691809fc803baae90591f145c5",
+        "tags": [
+            "ministerio del interior",
+            "contratos",
+            "cultivos ilegales",
+            "jardinería",
+            "españa",
+            "drogas",
+            "plantaciones",
+            "narcotráfico",
+            "fernando grande-marlaska",
+            "cannabis",
+            "marihuana"
+        ],
+        "link": "https://elpais.com/espana/2024-07-27/interior-gastara-en-cuatro-anos-900000-euros-en-destruir-macroplantaciones-de-marihuana.html",
+        "date": "2024-07-27 03:40:00",
+        "sentiment_score": 0.3195944130420685
+    },
+    {
+        "title": "PSC y ERC exploran la vía escocesa para dar más autonomía fiscal a Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TY4GU6B2EZFPHHUCEUXV63HM4U.jpg?auth=253750fce2489ff9c542301c4c58430f0c3c1c0fca57de8ceb2823fc1f2554a8",
+        "tags": [
+            "ingreso mínimo vital",
+            "erc",
+            "transferencia competencias",
+            "irpf",
+            "impuestos",
+            "psoe",
+            "hacienda pública",
+            "generalitat cataluña",
+            "nacionalismo",
+            "psc",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-27/la-autonomia-fiscal-corona-la-apuesta-de-psc-y-erc-por-una-tercera-via-a-la-escocesa.html",
+        "date": "2024-07-27 03:40:00",
+        "sentiment_score": 0.4372513219714165
+    },
+    {
+        "title": "Garriga cobra un sobresueldo de 3.700 euros mensuales del grupo de Vox en el Parlamento catalán",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DP7E5R2UZFFELITYQ4FCT3D4BY.jpg?auth=0feaa5dd826831aaa54a123874a9c6acfb273d2999c2c714222ebeba8c9c01fe",
+        "tags": [
+            "política",
+            "españa",
+            "ultraderecha",
+            "salarios políticos",
+            "parlament cataluña",
+            "cataluña",
+            "financiación partidos",
+            "ignacio garriga",
+            "vox"
+        ],
+        "link": "https://elpais.com/espana/2024-07-27/garriga-cobra-un-sobresueldo-de-3700-euros-mensuales-del-grupo-de-vox-en-el-parlamento-catalan.html",
+        "date": "2024-07-27 03:40:00",
+        "sentiment_score": -0.08993455395102501
+    },
+    {
+        "title": "Puigdemont se juega su última carta con el regreso a Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AFPBMSP3VFGZLFVXYTUNB5PMAE.jpg?auth=684b0005c2f6cd452e0027a73cc57e7c40f73fef8c2eacaa62f80050728a8a65",
+        "tags": [
+            "política",
+            "carles puigdemont",
+            "detenciones",
+            "amnistía",
+            "juntsxcat",
+            "independentismo",
+            "tribunal supremo",
+            "generalitat cataluña",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-27/puigdemont-se-juega-su-ultima-carta-con-el-regreso-a-cataluna.html",
+        "date": "2024-07-27 03:40:00",
+        "sentiment_score": 0.4762340858578682
+    },
+    {
+        "title": "Fayón recrea la Batalla del Ebro y multiplica por tres su población",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VHUMN623PNCV3J3RK7OL25NATY.JPG?auth=33d8af1fba84f9ac1ee4e1b1ab3e2d952f4766d94f97d1e73958530896bc8c2a",
+        "tags": [
+            "turismo",
+            "aragón",
+            "turismo internacional en españa",
+            "republicanos",
+            "guerra civil española",
+            "batallas",
+            "españa",
+            "franquismo",
+            "ejército profesional",
+            "historia",
+            "guerra civil"
+        ],
+        "link": "https://elpais.com/espana/2024-07-27/fayon-recrea-la-batalla-del-ebro-y-multiplica-por-tres-su-poblacion.html",
+        "date": "2024-07-27 03:15:00",
+        "sentiment_score": -0.7139104306697845
+    },
+    {
+        "title": "Peralada y la ópera de las mujeres borradas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BP5WOLCUQBH4LLLNCMFFDNSTOI.jpg?auth=24ec8ce7dae23a4290985baddca719aa0985202e52c701d3baec137cdc81fae4",
+        "tags": [
+            "ópera",
+            "barcelona",
+            "música",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-27/perelada-y-la-opera-de-las-mujeres-borradas.html",
+        "date": "2024-07-27 03:15:00",
+        "sentiment_score": 0.17083856835961342
+    },
+    {
+        "title": "Dansàneu ya baila al ritmo de las brujas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HD3SIUM5UNAXFKFLK2HQC7YFVE.jpeg?auth=a868300aeb1b070716af5f6dc6c584fa1db8405cd54bc32f49246f088222b95f",
+        "tags": [
+            "festivales música",
+            "esterri d'àneu",
+            "danza",
+            "lengua",
+            "cataluña",
+            "patrimonio cultural",
+            "festivales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-07-27/dansaneu-ya-baila-al-ritmo-de-las-brujas.html",
+        "date": "2024-07-27 03:15:00",
+        "sentiment_score": 0.2987882010638714
+    },
+    {
+        "title": "No se puede multar a un vecino solo por hallar una caja con su nombre en la calle, le dice una jueza al Ayuntamiento de Almeida",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LALSNPJLBZEE7IXQ5Q5LNYBF6Y.jpg?auth=c61656ff0c807f546460b333a6c2466028b899cf7d6d4d5faa4d02e1aa03f942",
+        "tags": [
+            "madrid",
+            "recogida basuras",
+            "amazon",
+            "josé luis martínez almeida",
+            "moncloa-aravaca",
+            "sanciones",
+            "multas",
+            "limpieza",
+            "comunidad de madrid",
+            "ayuntamiento madrid",
+            "internet",
+            "villaverde",
+            "justicia",
+            "sentencias",
+            "comercio electrónico",
+            "abogados",
+            "basura"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-27/no-se-puede-multar-a-un-vecino-solo-por-hallar-una-caja-con-su-nombre-en-la-calle-le-dice-una-jueza-al-ayuntamiento-de-almeida.html",
+        "date": "2024-07-27 03:00:00",
+        "sentiment_score": -0.7791551183909178
+    },
+    {
+        "title": "Luz verde a Memoria Democrática para buscar la posible fosa común de Montecarmelo en los próximos días",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5WV5CJHJ4ZCBJOJ6GBJY2JMZFE.JPG?auth=cc908ce3e5413a4b65d39d67d50f6aecd754ed56616cf0a22915852fe6542d23",
+        "tags": [
+            "madrid",
+            "víctimas",
+            "guerra civil española",
+            "brigadas internacionales",
+            "josé luis martínez almeida",
+            "memoria",
+            "víctimas franquismo",
+            "franquismo",
+            "comunidad de madrid",
+            "ayuntamiento madrid",
+            "víctimas guerra",
+            "servicios limpieza",
+            "guerra civil",
+            "fosas comunes",
+            "ministerio de política territorial y memoria democrática",
+            "gobierno de españa",
+            "memoria histórica"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-07-27/almeida-autoriza-a-memoria-democratica-a-buscar-la-posible-fosa-comun-de-montecarmelo-solo-en-dos-puntos-del-terreno.html",
+        "date": "2024-07-27 03:00:00",
+        "sentiment_score": -0.8326016049832106
+    },
+    {
+        "title": "Estos son los fichajes más destacados de lo que va de mercado",
+        "image_url": "https://pbs.twimg.com/media/GSoLvzVWEAEZcQk?format=jpg&name=large",
+        "tags": [
+            "fichajes",
+            "más fútbol"
+        ],
+        "link": "https://lagradaonline.com/estos-son-los-fichajes-mas-destacados/",
+        "date": "2024-07-27 06:12:07",
+        "sentiment_score": 0.11761787533760071
+    },
+    {
+        "title": "¿Sabes cómo se fabrica uno de los vinos más exclusivos del mundo?: el secreto de 'Vega Sicilia'",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d611034c-d08e-451a-aab8-662fa217a78c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.informacion.es/economia/2024/07/27/fabrica-vinos-exclusivos-mundo-secreto-106138645.html",
+        "date": "2024-07-27 06:00:27",
+        "sentiment_score": -0.009729474782943726
+    },
+    {
+        "title": "Carlos Fernández y un futuro incierto",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/07/26/Carlos%20Fernandez%20y%20Sadiq-kwND--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/carlos-fernandez-futuro-incierto-20240727071100-nt.html",
+        "date": "2024-07-27 05:11:00",
+        "sentiment_score": -0.46949316188693047
+    },
+    {
+        "title": "El autoconsumo sufre otro bajón y su despliegue caerá un 40% este año",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b928107-4768-4653-9f84-1ca8772d0054_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.informacion.es/economia/2024/07/27/autoconsumo-solar-caida-despliegue-2024-106138326.html",
+        "date": "2024-07-27 05:10:35",
+        "sentiment_score": -0.5768595039844513
+    },
+    {
+        "title": "Dos formas de rechazo: la opa del BBVA y la turismofobia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/03683311-580b-4560-972c-d0a436d23db5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.informacion.es/economia/2024/07/27/formas-rechazo-opa-bbva-turismofobia-106138274.html",
+        "date": "2024-07-27 05:08:04",
+        "sentiment_score": 0.3368597775697708
+    },
+    {
+        "title": "El alza de los precios del turismo anticipa las vacaciones más caras de la historia",
+        "image_url": "https://s10.s3c.es/imag/_v0/5472x3648/c/6/5/1200x655_Playa-calor.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/economia/noticias/12923417/07/24/el-alza-de-los-precios-del-turismo-anticipa-las-vacaciones-mas-caras-de-la-historia.html",
+        "date": "2024-07-27 05:00:07",
+        "sentiment_score": 0.20777519047260284
+    },
+    {
+        "title": "Con prisas y en pleno verano, así quiere mutilar la Comunidad de Madrid su ley de protección animal",
+        "image_url": "https://static.eldiario.es/clip/3fd7e50f-ec85-4bb9-aa38-c4281e87084c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/caballodenietzsche/ley-de-proteccion-animal-comunidad-de-madrid-derechos-animales-pp-caza_132_11550758.html",
+        "date": "2024-07-27 03:56:09",
+        "sentiment_score": -0.09821027517318726
+    },
+    {
+        "title": "Álvaro Antón (abrdn): “Habrá que ver si el posicionamiento del mercado con Trump no es de ida y vuelta”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FVAPNR3LSFCW3FB34ME5SIKMCA.jpg?auth=09e24ba06bc803c80dad0b9654b0a46b964e21af39e376c2bb278d7d1ddaac6a&height=3731&smart=true&width=5597",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cincodias.elpais.com/mercados-financieros/2024-07-27/alvaro-anton-abrdn-habra-que-ver-si-el-posicionamiento-del-mercado-con-trump-no-es-de-ida-y-vuelta.html",
+        "date": "2024-07-27 03:25:00",
+        "sentiment_score": 0.542554572224617
+    },
+    {
+        "title": "La Torre Eiffel y Rafa Nadal alumbran bajo la lluvia los Juegos de los récords",
+        "image_url": "https://static.infolibre.es/clip/36782761-4360-4c20-94fd-9e64c9537bc4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.infolibre.es/internacional/torre-eiffel-rafa-nadal-alumbran-juegos-records_1_1850853.html",
+        "date": "2024-07-27 06:16:35",
+        "sentiment_score": 0.04650786519050598
+    },
+    {
+        "title": "Santoral: la lista de santos a celebrar este 27 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/VVEF2Y3XX5H67GICST67TQF6EQ.jpg?auth=0dd2c298632bd9278e84c078514427667753099e634485560a00a919b739cc0c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/07/27/santoral-la-lista-de-santos-a-celebrar-este-27-de-julio/",
+        "date": "2024-07-27 06:16:03",
+        "sentiment_score": -0.00889657437801361
+    },
+    {
+        "title": "Lo que debes saber hoy, 27 de julio, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/07/04/vivir-en-barcelona/867923238_13180839_1706x960.jpg?contentId=ESPIMA20240704_0039",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240727/lo-que-debes-saber-hoy-de-julio-barcelona/873662627_0.html",
+        "date": "2024-07-27 06:16:02",
+        "sentiment_score": 0.12341151386499405
+    },
+    {
+        "title": "Los expertos ya se atreven a pronosticar la fecha de la bajada del precio del aceite: volverá a costar 4 euros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5addfaac-33c4-4a4c-9a4d-8f2e579317ce_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreogallego.es/sociedad/2024/07/27/expertos-atreven-pronosticar-fecha-bajada-dv-94318741.html",
+        "date": "2024-07-27 06:15:00",
+        "sentiment_score": -0.508368618786335
+    },
+    {
+        "title": "El turismo como motor de riqueza y sus límites",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d233373-207b-4034-ab06-8fd6851680af_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20240727/turismo-motor-riqueza-limites-106063870",
+        "date": "2024-07-27 06:00:15",
+        "sentiment_score": -0.47855524718761444
+    },
+    {
+        "title": "Estados Unidos, a por el octavo oro seguido; España arranca contra China mirando al podio",
+        "image_url": "./assets/ai_generated/v1_txt2img_2b2e61d61e18441abe5e594068d464ae.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/27/estados-unidos-a-por-el-octavo-oro-seguido-espana-arranca-contra-china-mirando-al-podio/",
+        "date": "2024-07-27 05:45:19",
+        "sentiment_score": 0.44304170459508896
+    },
+    {
+        "title": "Carlos García Cuenca: \"A mí me exijo lo mismo que al resto, ni más ni menos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/QX3LE2IBVZCDPAKNXKHQXLOC2A.jpg?auth=d31d3ea139d5c9f5b079d49a6f6a8a4c39921a601fefd8d96817ba764d7d3a45",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/27/carlos-garcia-cuenca-a-mi-me-exijo-lo-mismo-que-al-resto-ni-mas-ni-menos/",
+        "date": "2024-07-27 05:32:35",
+        "sentiment_score": -0.11629326641559601
+    },
+    {
+        "title": "La exuberante cascada que aguarda a 1 hora de Barcelona que parece salida de la selva",
+        "image_url": "https://img.huffingtonpost.es/files/image_720_480/uploads/2024/07/26/cascada-de-las-brujas-cataluna.jpeg",
+        "tags": [
+            "viajes"
+        ],
+        "link": "https://www.huffingtonpost.es/life/viajes/la-exuberante-cascada-aguarda-1-hora-barcelona-parece-salida-selva.html",
+        "date": "2024-07-27 05:13:00",
+        "sentiment_score": 0.4465288817882538
+    },
+    {
+        "title": "\"Todos los compositores forman parte de mi familia\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5b077fb7-fd60-4d18-aec3-74d33d5cd25d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/cultura/2024/07/27/entrevista-directora-orquesta-beatriz-fernandez-106075606.html",
+        "date": "2024-07-27 05:01:43",
+        "sentiment_score": 0.20565371215343475
+    },
+    {
+        "title": "Psicología: los porqués de la carrera de moda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06ad0b7e-66e8-4cfb-b2f7-eb26e41fd0af_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20240727/psicologia-porques-carrera-moda-106117422",
+        "date": "2024-07-27 05:01:37",
+        "sentiment_score": -0.0636197030544281
+    },
+    {
+        "title": "Detienen a cuatro mujeres por alterar el orden público en centro de votación de Cabimas (+Delitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Detencion-Cabimas-1080x720.jpeg",
+        "tags": [
+            "zulia",
+            "cabimas",
+            "cne",
+            "detenidas cuatro mujeres",
+            "venezuela",
+            "sucesos"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-cuatro-mujeres-por-alterar-el-orden-publico-en-cabimas/",
+        "date": "2024-07-27 03:45:00",
+        "sentiment_score": -0.36421626061201096
+    },
+    {
+        "title": "Mexicano reclama $1.325 millones de dólares de la Lotería en Texas: ¿Puede cobrarlos?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/loteria-eeuu.jpg",
+        "tags": [
+            "#texas",
+            "lotería de eeuu",
+            "internacionales",
+            "mega millions"
+        ],
+        "link": "https://2001online.com/internacionales/mexicano-reclama-1-325-millones-de-dolares-de-la-loteria-en-texas-puede-cobrarlos/",
+        "date": "2024-07-27 03:44:24",
+        "sentiment_score": -0.4256422370672226
+    },
+    {
+        "title": "Maduro asegura tener los recursos para generar los megavatios que necesita el SEN",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/8-4.jpeg",
+        "tags": [
+            "sistema eléctrico nacional",
+            "nacionales",
+            "sen",
+            "nico live",
+            "nicolás maduro"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-asegura-tener-los-recursos-para-generar-los-megavatios-que-necesita-el-sen/",
+        "date": "2024-07-27 03:35:02",
+        "sentiment_score": 0.28272587060928345
+    },
+    {
+        "title": "Falcón | Adolescente sufre quemaduras tras electrocutarse mientras cargaba su celular",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/7-7.jpg",
+        "tags": [
+            "falcón",
+            "sucesos",
+            "cortocircuito",
+            "celular"
+        ],
+        "link": "https://2001online.com/sucesos/falcon-adolescente-sufre-quemaduras-tras-electrocutarse-mientras-cargaba-su-celular/",
+        "date": "2024-07-27 03:15:00",
+        "sentiment_score": -0.8154034707695246
+    },
+    {
+        "title": "Un hombre decapitado luego de recibir múltiples puñaladas en Trujillo",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/003.png",
+        "tags": [
+            "homicidio",
+            "sucesos",
+            "trujillo",
+            "decapitación"
+        ],
+        "link": "https://2001online.com/sucesos/un-hombre-decapitado-luego-de-recibir-multiples-punaladas-en-trujillo/",
+        "date": "2024-07-27 02:30:00",
+        "sentiment_score": -0.6067948900163174
+    },
+    {
+        "title": "¿Cuáles bonos del Sistema Patria se estarán pagando hasta el #31Jul?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/1-1.jpeg",
+        "tags": [
+            "nicolás maduro",
+            "bonos patria",
+            "sistema patria",
+            "servicios"
+        ],
+        "link": "https://2001online.com/servicios/cuales-bonos-del-sistema-patria-se-estaran-pagando-hasta-el-31jul/",
+        "date": "2024-07-27 02:30:00",
+        "sentiment_score": 0.062347568571567535
+    },
+    {
+        "title": "PNB desmiente situación de muertos y heridos en Zulia (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/6-7.jpg",
+        "tags": [
+            "pnb",
+            "sucesos",
+            "elecciones en venezuela",
+            "zulia"
+        ],
+        "link": "https://2001online.com/sucesos/pnb-desmiente-situacion-de-muertos-y-heridos-en-zulia-detalles/",
+        "date": "2024-07-27 02:24:04",
+        "sentiment_score": -0.4937123693525791
     }
 ];
