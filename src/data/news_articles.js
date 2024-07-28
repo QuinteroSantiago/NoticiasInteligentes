@@ -7224,5 +7224,542 @@ export default [
         "link": "https://www.noticiasdealava.eus/baskonia/2024/07/27/abu-dabi-toma-delantera-final-8528826.html",
         "date": "2024-07-27 16:08:40",
         "sentiment_score": 0.46897976100444794
+    },
+    {
+        "title": "Desquite para Sara Horcajada en las nocturnas",
+        "image_url": "./assets/ai_generated/v1_txt2img_feef73b0a7fe42dd81ca1f7d542642da.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/desquite-para-sara-horcajada-en-las-nocturnas/",
+        "date": "2024-07-27 22:19:48",
+        "sentiment_score": -0.06720787286758423
+    },
+    {
+        "title": "Hoy será noticia. Domingo, 28 de julio de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_91fda43d4a8042269370263013db5e1c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/hoy-sera-noticia-domingo-28-de-julio-de-2024/",
+        "date": "2024-07-27 22:18:50",
+        "sentiment_score": 0.025241903960704803
+    },
+    {
+        "title": "Una mujer de 88 años en estado grave por un golpe de calor en su casa de Madrid",
+        "image_url": "./assets/ai_generated/v1_txt2img_75b510163d8c483ca6127badf46338a5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/una-mujer-de-88-anos-en-estado-grave-por-un-golpe-de-calor-en-su-casa-de-madrid/",
+        "date": "2024-07-27 21:48:18",
+        "sentiment_score": -0.8004889748990536
+    },
+    {
+        "title": "Acosta Danza reivindica en 'Folclor' una voz propia basada en el mestizaje",
+        "image_url": "./assets/ai_generated/v1_txt2img_f021f9b228f742709bf7cb0326393ec2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/acosta-danza-reivindica-en-folclor-una-voz-propia-basada-en-el-mestizaje/",
+        "date": "2024-07-27 21:48:01",
+        "sentiment_score": 0.1943744421005249
+    },
+    {
+        "title": "Íñigo Córdoba refuerza el ataque del Burgos",
+        "image_url": "./assets/ai_generated/v1_txt2img_0919de84c9d94c89b1ccd565b8468f5b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/inigo-cordoba-refuerza-el-ataque-del-burgos/",
+        "date": "2024-07-27 21:31:08",
+        "sentiment_score": -0.45110656321048737
+    },
+    {
+        "title": "El Betis jugará el 7 de agosto en La Línea con el Cádiz, que sustituye al Raja marroquí",
+        "image_url": "./assets/ai_generated/v1_txt2img_54e7cf4f16ed4e5b93857aeab7bd39e0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/el-betis-jugara-el-7-de-agosto-en-la-linea-con-el-cadiz-que-sustituye-al-raja-marroqui/",
+        "date": "2024-07-27 21:03:57",
+        "sentiment_score": 0.015671007335186005
+    },
+    {
+        "title": "Calderón llega al Festival de Niebla con 'El alcalde de Zalamea'",
+        "image_url": "./assets/ai_generated/v1_txt2img_208ca66ca5324da295bccc3300a152cf.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/calderon-llega-al-festival-de-niebla-con-el-alcalde-de-zalamea/",
+        "date": "2024-07-27 21:03:05",
+        "sentiment_score": 0.18253765255212784
+    },
+    {
+        "title": "Un 'ajedrez viviente' del Mago de Oz para identificar el problema de la salud mental",
+        "image_url": "./assets/ai_generated/v1_txt2img_84d790bd62054ad0b1d190bb324ece79.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/un-ajedrez-viviente-del-mago-de-oz-para-identificar-el-problema-de-la-salud-mental/",
+        "date": "2024-07-27 21:02:48",
+        "sentiment_score": -0.2436128482222557
+    },
+    {
+        "title": "Números ganadores de la lotería 6/49 de este 27 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/XEMVTYNICFBQXLLW2NTGQEW2CI.jpg?auth=e355e8abc323b7e40f8c759c8c6f7c71b09031041fc7895ba4c03371207fc728",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/27/numeros-ganadores-de-la-loteria-649-de-este-27-de-julio/",
+        "date": "2024-07-27 21:00:23",
+        "sentiment_score": 0.26938279531896114
+    },
+    {
+        "title": "0-1. La puntería del Almería frena el ímpetu del Málaga en su debut",
+        "image_url": "./assets/ai_generated/v1_txt2img_b918b2f67b2e4e58a81fd37bbae06ad5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/27/0-1-la-punteria-del-almeria-frena-el-impetu-del-malaga-en-su-debut/",
+        "date": "2024-07-27 20:47:57",
+        "sentiment_score": -0.30343934893608093
+    },
+    {
+        "title": "Trump una vez criticó a bitcoin por \"basarse en la nada\". Ahora, será orador de la convención más grande de criptomonedas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163537352-20240727000535666.jpg?quality=100&strip=info",
+        "tags": [
+            "criptomonedas",
+            "instanoticias",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/27/trump-criticas-bitcoin-ahora-orador-convencion-criptomonedas-trax/",
+        "date": "2024-07-27 20:47:10",
+        "sentiment_score": -0.17254739999771118
+    },
+    {
+        "title": "Israel culpa a Hezbollah de un ataque contra un campo de fútbol en los Altos del Golán que causa 10 muertos y casi 30 heridos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/altos-del-golan.jpg?quality=100&strip=info",
+        "tags": [
+            "israel noticias",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/27/israel-culpa-hezbollah-ataque-altos-del-golan-trax/",
+        "date": "2024-07-27 18:12:37",
+        "sentiment_score": -0.8549732780084014
+    },
+    {
+        "title": "“La Ruta de los Templos Paganos”, tabernas históricas de Caracas renacen en medio de la crisis",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/01465030-88269027-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ruta-templos-paganos-tabernas-caracas-venezuela-oraa-cafe/",
+        "date": "2024-07-27 17:36:30",
+        "sentiment_score": -0.719728596508503
+    },
+    {
+        "title": "Esta es la alternativa a Uber, Lyft y otras apps de taxis en Caracas, Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/00649204-54569592-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "taxistas",
+            "uber",
+            "caracas",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/app-taxis-uber-caracas-venezuela-oraa-cafe/",
+        "date": "2024-07-27 17:24:15",
+        "sentiment_score": 0.2041201889514923
+    },
+    {
+        "title": "¿Algo se mueve en Andalucía?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/juanma-RBYlAFfRlbUyopQtUXGr1LN-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-mueve-andalucia-20240728221929-nts.html",
+        "date": "2024-07-27 20:19:29",
+        "sentiment_score": -0.090690016746521
+    },
+    {
+        "title": "Querellas y tirabuzones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/1483839152-RgbNisHJN4F9qounBRSvtOM-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-querellas-tirabuzones-20240728211756-nts.html",
+        "date": "2024-07-27 19:17:57",
+        "sentiment_score": -0.19505265355110168
+    },
+    {
+        "title": "El político es un fingidor",
+        "image_url": "./assets/ai_generated/v1_txt2img_b62a8f695eb64472b497ab1409a1bbbe.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-politico-fingidor-20240728181821-nts.html",
+        "date": "2024-07-27 19:03:24",
+        "sentiment_score": -0.12300992012023926
+    },
+    {
+        "title": "La España del relato",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/AdobeStock_749187156-RQdGCOaZlV4kvRpemDJ1BPN-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-espana-relato-20240728204316-nts.html",
+        "date": "2024-07-27 18:43:16",
+        "sentiment_score": -0.13800464570522308
+    },
+    {
+        "title": "Y yo el primero",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/ozempic_20240727195317-U40101685741sDT-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-primero-20240728195325-nt.html",
+        "date": "2024-07-27 17:53:54",
+        "sentiment_score": -0.16749432682991028
+    },
+    {
+        "title": "Beyoncé contra Trump",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/beyonce-U26700236773YNy-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-beyonce-trump-20240728194403-nt.html",
+        "date": "2024-07-27 17:44:04",
+        "sentiment_score": -0.0006768405437469482
+    },
+    {
+        "title": "Nietas de los que quemaban brujas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/feminismo-U24210006381sgQ-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-nietas-quemaban-brujas-20240728194121-nt.html",
+        "date": "2024-07-27 17:41:21",
+        "sentiment_score": -0.05145353078842163
+    },
+    {
+        "title": "Que no, que Maduro no es un dictador",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/1484188110-U61625708213qDd-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-i-sanchez-maduro-dictador-20240728194002-nt.html",
+        "date": "2024-07-27 17:40:02",
+        "sentiment_score": -0.25854018330574036
+    },
+    {
+        "title": "La vergüenza de ZP en Venezuela",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/venezuela-U68238203283Tva-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-verguenza-venezuela-20240728193940-nt.html",
+        "date": "2024-07-27 17:39:41",
+        "sentiment_score": -0.06431874632835388
+    },
+    {
+        "title": "Abanderados de ningún lugar",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/07/28/1484142407-U20430724416oJk-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/karina-sainz-borgo-abanderados-ningun-lugar-20240728193851-nt.html",
+        "date": "2024-07-27 17:38:52",
+        "sentiment_score": -0.2894674688577652
+    },
+    {
+        "title": "El acto de presentación de Endrick en el Bernabéu transcurrió entre sonrisas y lágrimas",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/07/27/2024072723310474477.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/endrick-enfundo-camiseta-real-madrid-sonrisas-lagrimas/20240727234059314280.html",
+        "date": "2024-07-27 21:40:59",
+        "sentiment_score": 0.1103837601840496
+    },
+    {
+        "title": "«Pachuca es la clave. Es la llave que nos abre las puertas para contar con medios»",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/07/27/96653499-k6VE--758x531@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/pachuca-clave-llave-abre-puertas-contar-medios-20240728225822-nt.html",
+        "date": "2024-07-27 21:24:03",
+        "sentiment_score": 0.5235852301120758
+    },
+    {
+        "title": "El Talud de la Ería, un 'coworking' sin descanso en verano",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/07/27/96631815--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/talud-eria-coworking-descanso-verano-20240728225720-nt.html",
+        "date": "2024-07-27 21:23:43",
+        "sentiment_score": -0.4857385903596878
+    },
+    {
+        "title": "El largo viaje del Alvia hasta Avilés",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/07/23/vivienda-U46017507754FRU-170x119@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/aviles/largo-viaje-alvia-aviles-20240728225556-nt.html",
+        "date": "2024-07-27 21:23:00",
+        "sentiment_score": 0.6925877910107374
+    },
+    {
+        "title": "El noreñense que pasó de gran promesa del Atleti a leyenda del Ávila: \"Solo me falta encontrar a la mujer de mi vida\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c69752b9-52cf-4e02-8aa2-fcef3c91136c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2024/07/27/norenense-paso-gran-promesa-atleti-103708416.html",
+        "date": "2024-07-27 20:34:27",
+        "sentiment_score": -0.1285533308982849
+    },
+    {
+        "title": "Temas del día de EFE Internacional del 27 de julio de 2024 (20.00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_a21289b796884d68a4b17050927be513.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/27/temas-del-dia-de-efe-internacional-del-27-de-julio-de-2024-2000-gmt/",
+        "date": "2024-07-27 20:16:50",
+        "sentiment_score": -0.009707998484373093
+    },
+    {
+        "title": "La prueba de fuego de tres canteranos del Barça para ser el nuevo Fermín",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/27/culemania/primer-equipo/873672682_13280379_1706x960.jpg?contentId=ESPIMA20240727_0058",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240727/la-prueba-de-fuego-canteranos-barca-fermin/873662679_0.html",
+        "date": "2024-07-27 20:10:00",
+        "sentiment_score": 0.029057621955871582
+    },
+    {
+        "title": "El récord más agridulce de un enemigo habitual del Palau: las cinco anillas olímpicas de los Juegos",
+        "image_url": "https://static1.ara.cat/clip/70fa5e9b-e33c-464c-9ebe-dd787048b6a6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/juegos-olimpicos/record-agridulce-enemigo-habitual-palau-cinco-anillas-olimpicas-juegos_1_5101806.html",
+        "date": "2024-07-27 19:42:00",
+        "sentiment_score": 0.30274995416402817
+    },
+    {
+        "title": "Un planeta pintado de rojiblanco y azul: radiografía de una pasión más allá de las fronteras",
+        "image_url": "./assets/ai_generated/v1_txt2img_fbfa3bbdc2674423a99717627d771c2e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2024/07/27/planeta-pintado-rojiblanco-azul-radiografia-106001667.html",
+        "date": "2024-07-27 19:40:41",
+        "sentiment_score": 0.27642539143562317
+    },
+    {
+        "title": "¿Qué dijo Fabrizio Romano sobre Nico Williams y el interés del Barça, la Premier League y el PSG?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/07/28/2024072800164585248.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/que-dijo-fabrizio-romano-nico-williams-interes-barca-premier-league-psg/20240728001940314281.html",
+        "date": "2024-07-27 22:19:40",
+        "sentiment_score": -0.13441256433725357
+    },
+    {
+        "title": "Un millar de \"rugidos\" y decenas de actividades para la hermandad motera en Toro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e284c43b-ac86-4619-abf7-300bd1fcd6fe_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondezamora.es/toro/2024/07/28/millar-rugidos-decenas-actividades-hermandad-106172913.html",
+        "date": "2024-07-27 22:10:10",
+        "sentiment_score": -0.04509924352169037
+    },
+    {
+        "title": "¿Casas solas o cazuelas?",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a365669331f.r_d.2235-1512-0.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240728/9830565/casas-solas-cazuelas.html",
+        "date": "2024-07-27 22:05:00",
+        "sentiment_score": -0.10596448183059692
+    },
+    {
+        "title": "Cuestión de talla",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20240728/9833909/cuestion-talla.html",
+        "date": "2024-07-27 22:05:00",
+        "sentiment_score": -0.734216371551156
+    },
+    {
+        "title": "Imitar a la naturaleza para pasar menos calor",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/07/26/66a3df40b2802.r_d.2717-2033-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240728/9832231/naturaleza-calor-edificios-infraestructuras.html",
+        "date": "2024-07-27 22:05:00",
+        "sentiment_score": 0.7112954370677471
+    },
+    {
+        "title": "Los semáforos del domingo 28 de julio: Laura Pou, Nita Prose, Fran Garrigós y Matteo Salvini",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20240728/9833601/semaforos-domingo-28-julio-pou-prose-garrigos-salvini.html",
+        "date": "2024-07-27 22:05:00",
+        "sentiment_score": 0.10833850502967834
+    },
+    {
+        "title": "Inversión en I+D de récord, ejecución en mínimos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/02/12/65c9dd5beaef1.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240728/9832197/inversion-i-d-record-ejecucion-minimos.html",
+        "date": "2024-07-27 22:05:00",
+        "sentiment_score": 0.5354426875710487
+    },
+    {
+        "title": "Siempre nos quedará Agnès Varda",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/24/creacion/872922875_13269029_1706x960.jpg?contentId=ESPIMA20240724_0176",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20240728/siempre-nos-quedara-agnes-varda/872912825_0.html",
+        "date": "2024-07-27 22:00:00",
+        "sentiment_score": 0.7232420966029167
+    },
+    {
+        "title": "El juez Seijo añade otra condena a Scania por el cártel de los camiones antes de irse al CGPJ",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/26/business/873422751_13277011_1706x960.jpg?contentId=ESPIMA20240726_0102",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240728/el-seijo-condena-scania-de-camiones-cgpj/873412745_0.html",
+        "date": "2024-07-27 22:00:00",
+        "sentiment_score": 0.014363855123519897
+    },
+    {
+        "title": "“El azar puede cambiar una vida”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/25/creacion/873172748_13271827_1706x960.jpg?contentId=ESPIMA20240725_0074",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20240728/el-azar-puede-cambiar-una-vida/872912830_0.html",
+        "date": "2024-07-27 22:00:00",
+        "sentiment_score": -0.747798502445221
+    },
+    {
+        "title": "Gabriel Mijares, el primer venezolano en votar para las elecciones presidenciales",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Imagen-de-WhatsApp-2024-07-27-a-las-17.42.06_570b75c7-1-1280x720.jpg",
+        "tags": [
+            "cne",
+            "nacionales",
+            "elecciones presidenciales #28jul"
+        ],
+        "link": "https://2001online.com/nacionales/gabriel-mijares-el-primer-venezolano-en-votar-para-las-elecciones-presidenciales/",
+        "date": "2024-07-27 21:17:45",
+        "sentiment_score": 0.07024628669023514
+    },
+    {
+        "title": "Maduro anuncia fondo para otorgar créditos a condominios de la clase media",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/1-3-1280x720.jpeg",
+        "tags": [
+            "nicolás maduro",
+            "nacionales",
+            "elecciones en venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-fondo-para-otorgar-creditos-a-condominios-de-la-clase-media/",
+        "date": "2024-07-27 21:17:39",
+        "sentiment_score": 0.3703685589134693
+    },
+    {
+        "title": "Reportan instalación del 100% de las mesas de votación para este #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/RdYy0mw8_400x400.jpg",
+        "tags": [
+            "mesas de votación",
+            "nacionales",
+            "elecciones presidenciales 2024"
+        ],
+        "link": "https://2001online.com/nacionales/reportan-instalacion-del-100-de-las-mesas-de-votacion-para-este-28jul/",
+        "date": "2024-07-27 19:49:59",
+        "sentiment_score": 0.10363925993442535
+    },
+    {
+        "title": "Detenido presunto desertor que intentó ingresar a una base de la GNB",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Foto-cortesia-3-3.jpg",
+        "tags": [
+            "venezuela",
+            "nacionales",
+            "desertor",
+            "estado sucre",
+            "visipol",
+            "sipol",
+            "desertor de la gnb",
+            "eeuu",
+            "detenido en sucre",
+            "operación república",
+            "guardia nacional bolivaria",
+            "2001online",
+            "fuerza armada nacional"
+        ],
+        "link": "https://2001online.com/nacionales/detenido-presunto-desertor-que-intento-ingresar-a-una-base-de-la-gnb/",
+        "date": "2024-07-27 19:31:37",
+        "sentiment_score": -0.5782309640198946
+    },
+    {
+        "title": "Gobernador de Bolívar recibió a veedores internacionales este #27Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/03/Captura-de-pantalla-2024-03-02-201031-1024x584.png",
+        "tags": [
+            "nacionales",
+            "gobernador de bolívar recibió a veedores internacionales este #27jul"
+        ],
+        "link": "https://2001online.com/nacionales/gobernador-de-bolivar-recibio-a-veedores-internacionales-este-27jul/",
+        "date": "2024-07-27 19:24:44",
+        "sentiment_score": -0.012096710503101349
+    },
+    {
+        "title": "Inician pago de un bono este 27 de julio en el Sistema Patria (+MONTO)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/04/salario-minimo.jpg",
+        "tags": [
+            "venezuela",
+            "nacionales",
+            "inician pago de un bono este 27 de julio en el sistema patria"
+        ],
+        "link": "https://2001online.com/nacionales/inician-pago-de-un-bono-este-27-de-julio-en-el-sistema-patria-monto/",
+        "date": "2024-07-27 19:00:00",
+        "sentiment_score": 0.0925256535410881
+    },
+    {
+        "title": "Douglas Rico niega coacción a funcionarios del Cicpc para votar",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Foto-cortesia-2-3.jpg",
+        "tags": [
+            "venezuela",
+            "presidenciales 2024",
+            "nacionales",
+            "douglas rico",
+            "ivan simonovis",
+            "caracas",
+            "eeuu",
+            "presidenciales en venezuela",
+            "elecciones del 28 de julio",
+            "2001online",
+            "cicpc"
+        ],
+        "link": "https://2001online.com/nacionales/douglas-rico-niega-coaccion-a-funcionarios-del-cicpc-para-votar/",
+        "date": "2024-07-27 18:34:12",
+        "sentiment_score": -0.7757071349769831
     }
 ];
