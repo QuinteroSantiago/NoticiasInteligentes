@@ -1,670 +1,5 @@
 export default [
     {
-        "title": "La alcaldesa de Valencia pide que RFEF y CSD aclararen \"en horas\" su exclusión como sede",
-        "image_url": "./assets/ai_generated/v1_txt2img_eb1b391e9c1b4f5db57b07da6d26eb1c.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-alcaldesa-de-valencia-pide-que-rfef-y-csd-aclararen-en-horas-su-exclusion-como-sede/",
-        "date": "2024-07-25 11:18:48",
-        "sentiment_score": -0.6667374968528748
-    },
-    {
-        "title": "Daniel Sánchez Llibre, sobre el nuevo patrocinio: \"Es un acuerdo bueno para todos\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_5c2686c8d6274665bd237b6a8fb9a3b3.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/daniel-sanchez-llibre-sobre-el-nuevo-patrocinio-es-un-acuerdo-bueno-para-todos/",
-        "date": "2024-07-25 11:18:31",
-        "sentiment_score": 0.806400939822197
-    },
-    {
-        "title": "Fin de la ola de calor, pero no de las altas temperaturas que seguirán rondando los 37-40o",
-        "image_url": "./assets/ai_generated/v1_txt2img_bbd4502c36de4d958f33b4006d3f6e70.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/fin-de-la-ola-de-calor-pero-no-de-las-altas-temperaturas-que-seguiran-rondando-los-37-40/",
-        "date": "2024-07-25 11:18:13",
-        "sentiment_score": -0.3377854973077774
-    },
-    {
-        "title": "La falta de materiales pone en riesgo los objetivos del Acuerdo de París, según un estudio",
-        "image_url": "./assets/ai_generated/v1_txt2img_c1b53a2101dc4f908f8631644d84beba.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-falta-de-materiales-pone-en-riesgo-los-objetivos-del-acuerdo-de-paris-segun-un-estudio/",
-        "date": "2024-07-25 11:17:56",
-        "sentiment_score": -0.7782659102231264
-    },
-    {
-        "title": "Jové (ERC) se opone a llevar la amnistía a Europa:el 1-O no afectó a las finanzas de la UE",
-        "image_url": "./assets/ai_generated/v1_txt2img_072618b09e2e4f70b3e36231298d2193.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/jove-erc-se-opone-a-llevar-la-amnistia-a-europael-1-o-no-afecto-a-las-finanzas-de-la-ue/",
-        "date": "2024-07-25 11:17:39",
-        "sentiment_score": -0.5917437300086021
-    },
-    {
-        "title": "Page espera que algunos ya se hayan dado cuenta de que Puigdemont \"no paga, solo cobra\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_1081dcfa34fa450991d63be21b138de1.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/page-espera-que-algunos-ya-se-hayan-dado-cuenta-de-que-puigdemont-no-paga-solo-cobra/",
-        "date": "2024-07-25 11:17:23",
-        "sentiment_score": -0.33676135540008545
-    },
-    {
-        "title": "'Maximiliana' conecta a abuelos y nietos a través de cartas sin coste y desde WhatsApp",
-        "image_url": "./assets/ai_generated/v1_txt2img_2eee2fc349214903846251da5a4f8c43.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/maximiliana-conecta-a-abuelos-y-nietos-a-traves-de-cartas-sin-coste-y-desde-whatsapp/",
-        "date": "2024-07-25 11:17:05",
-        "sentiment_score": 0.16810901649296284
-    },
-    {
-        "title": "Dos condenados a cuatro años cada uno por agresión sexual a dos jóvenes de 16 y 18 años",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/dos-condenados-a-cuatro-anos-cada-uno-por-agresion-sexual-a-dos-jovenes-de-16-y-18-anos/",
-        "date": "2024-07-25 11:16:49",
-        "sentiment_score": -0.678930664435029
-    },
-    {
-        "title": "Detenido por conducir sin carnet, atropellar a un ciclista y circular con él en la baca",
-        "image_url": "./assets/ai_generated/v1_txt2img_721259be67414d77af8d68235a03e42e.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/detenido-por-conducir-sin-carnet-atropellar-a-un-ciclista-y-circular-con-el-en-la-baca/",
-        "date": "2024-07-25 11:16:31",
-        "sentiment_score": -0.7875904329121113
-    },
-    {
-        "title": "En qué orden y dónde ver las películas de ‘X-Men’ para preparar ‘Deadpool y Lobezno’",
-        "image_url": "https://www.infobae.com/resizer/v2/D2RHKHD4NJEWQJ5MREDSWDULPU.jpg?auth=201d45088fbad994d5fce86640ba066dc93006d60f0300321b690a5d7d5a6cc7",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2024/07/25/en-que-orden-y-donde-ver-las-peliculas-de-x-men-para-preparar-deadpool-y-lobezno/",
-        "date": "2024-07-25 11:08:11",
-        "sentiment_score": 0.5827129408717155
-    },
-    {
-        "title": "Consejo Asesor afirma que Meta debe esforzarse más para hacer frente a la pornografía falsa y no consentida",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Meta.jpg?quality=100&strip=info",
-        "tags": [
-            "tecnología",
-            "meta"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/consejo-asesor-meta-porno-deepfake-no-consensuado-trax/",
-        "date": "2024-07-25 11:13:16",
-        "sentiment_score": -0.7497063782066107
-    },
-    {
-        "title": "El Ayuntamiento de Barcelona insta al desalojo de las paradas de los pajareros de la Rambla y estos se niegan a entregar las llaves",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HZHDJ45ODPDK5VZFPRQ4BEZFA4.JPG?auth=aa233115043c4215c3a3c73594d98fd6c7c1b9637ae326850a01ca1534f91f16",
-        "tags": [
-            "ayuntamiento barcelona",
-            "empresarios",
-            "cataluña",
-            "barcelona",
-            "la rambla"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-25/el-ayuntamiento-de-barcelona-insta-al-desalojo-de-las-paradas-de-los-pajareros-de-la-rambla-y-estos-se-niegan-a-entregar-las-llaves.html",
-        "date": "2024-07-25 11:06:26",
-        "sentiment_score": -0.832252025604248
-    },
-    {
-        "title": "Foment tacha de “impresentable” la nueva protección del delta del Llobregat que bloquea la ampliación del aeropuerto del Prat",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/X6Q3QQGNNZDUNCFMUWYGDDPWMM.JPG?auth=9a78739b055afb0f00fcfe476dbec213a7e20469d16d00b9f7701aefeec9416b",
-        "tags": [
-            "aena aeropuertos",
-            "fomento del trabajo nacional",
-            "protección espacios naturales",
-            "aeropuerto el prat",
-            "generalitat cataluña",
-            "medio ambiente",
-            "cataluña",
-            "protección ambiental",
-            "el prat de llobregat",
-            "patronal",
-            "protección animales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-25/foment-tacha-de-impresentable-la-nueva-proteccion-del-delta-del-llobregat-que-bloquea-la-ampliacion-del-aeropuerto-del-prat.html",
-        "date": "2024-07-25 10:39:18",
-        "sentiment_score": -0.9177779611200094
-    },
-    {
-        "title": "Isabel Franc: “Las lesbianas no estamos de moda ni lo estaremos nunca”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TYVQWKYEJNCEFHVVORZRM36N2E.jpg?auth=2e784704435f30b8ce74518125fd44f729fb4be7c1d67f4dabfd41a2dd031f4a",
-        "tags": [
-            "cataluña",
-            "lesbianas",
-            "homosexualidad",
-            "comunidad lgtbiq",
-            "gays",
-            "barcelona",
-            "historia",
-            "orgullo lgtbi",
-            "lgtbifobia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-25/isabel-franc-las-lesbianas-no-estamos-de-moda-ni-lo-estaremos-nunca.html",
-        "date": "2024-07-25 10:29:43",
-        "sentiment_score": 0.03427048772573471
-    },
-    {
-        "title": "La bajada del euríbor puede suponer un ahorro de más de 600 euros anuales en tu hipoteca",
-        "image_url": "https://www.infobae.com/resizer/v2/32YWZBYZQJG3LJ37ZC53DDHH2Y.jpg?auth=55be6e40fb8a2a65ac4988160df17fe5cf349eb245996356a80208ae2459aaa8",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/la-bajada-del-euribor-puede-suponer-un-ahorro-de-mas-de-600-euros-anuales-en-tu-hipoteca/",
-        "date": "2024-07-25 14:21:05",
-        "sentiment_score": -0.004996970295906067
-    },
-    {
-        "title": "Robles preside la toma de posesión del teniente general Francisco Braco como nuevo JEMA",
-        "image_url": "https://www.infobae.com/resizer/v2/RB2W2R5QI5EEJAYRI4FVS6YEGY.jpg?auth=e120ea23a1ec71607ab20672b17453d0a6cee5210ebb7355d70854af04f0946c",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/robles-preside-la-toma-de-posesion-del-teniente-general-francisco-braco-como-nuevo-jema/",
-        "date": "2024-07-25 14:20:00",
-        "sentiment_score": 0.033599853515625
-    },
-    {
-        "title": "Un BNG \"de moda\" se reivindica en una multitudinaria marcha en la Pontón apela a seguir creciendo \"sin límites\"",
-        "image_url": "https://www.infobae.com/resizer/v2/T44BGKDFJBFLXMYENPIVUN3DDE.jpg?auth=5550d446becc8a862fce7e9bbbd1db7d08aef88e91334b19b1c88cbdfec709fe",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/un-bng-de-moda-se-reivindica-en-una-multitudinaria-marcha-en-la-ponton-apela-a-seguir-creciendo-sin-limites/",
-        "date": "2024-07-25 14:19:48",
-        "sentiment_score": 0.2533721774816513
-    },
-    {
-        "title": "La pareja de la mujer hallada muerta en Motril (Granada) acepta una condena por maltrato habitual",
-        "image_url": "https://www.infobae.com/resizer/v2/CTWXVZSWCZHJLGFL3V766I2LFE.jpg?auth=942f8d1a087d7e233daf787a5a0418fff1dc628dbded8646ba5222a265d43c39",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-pareja-de-la-mujer-hallada-muerta-en-motril-granada-acepta-una-condena-por-maltrato-habitual/",
-        "date": "2024-07-25 14:19:35",
-        "sentiment_score": -0.7683819606900215
-    },
-    {
-        "title": "Wall Street abre con los indicadores casi planos tras el peor día del S&P en dos años",
-        "image_url": "./assets/ai_generated/v1_txt2img_3d288e5fb1a9424f978ed364cdc0becb.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/wall-street-abre-con-los-indicadores-casi-planos-tras-el-peor-dia-del-sp-en-dos-anos/",
-        "date": "2024-07-25 14:19:25",
-        "sentiment_score": -0.6265883445739746
-    },
-    {
-        "title": "AMP2- El CGPJ votará el martes a su próximo presidente entre siete candidatos, todos magistrados del Supremo",
-        "image_url": "./assets/ai_generated/v1_txt2img_903e8fbf4c964f0a96e4c07c196e8c14.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/amp2-el-cgpj-votara-el-martes-a-su-proximo-presidente-entre-siete-candidatos-todos-magistrados-del-supremo/",
-        "date": "2024-07-25 14:19:22",
-        "sentiment_score": 0.01924361288547516
-    },
-    {
-        "title": "España afirma que \"la única forma\" de enfrentar la crisis climática es con \"empleo verde\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_104ef75306d54c81bf5338c719e1449e.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/espana-afirma-que-la-unica-forma-de-enfrentar-la-crisis-climatica-es-con-empleo-verde/",
-        "date": "2024-07-25 14:19:08",
-        "sentiment_score": 0.12165825068950653
-    },
-    {
-        "title": "Montse Tomé elige a Patri Guijarro para el debut de España en los Juegos",
-        "image_url": "./assets/ai_generated/v1_txt2img_3da2df7e369f45ab9d684fec23709198.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/montse-tome-elige-a-patri-guijarro-para-el-debut-de-espana-en-los-juegos/",
-        "date": "2024-07-25 14:18:50",
-        "sentiment_score": 0.26927606761455536
-    },
-    {
-        "title": "Fallece un matrimonio octogenario en una playa, él de un infarto y ella al socorrerle",
-        "image_url": "./assets/ai_generated/v1_txt2img_aaf4292b1a14416081b6ec058435282e.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/fallece-un-matrimonio-octogenario-en-una-playa-el-de-un-infarto-y-ella-al-socorrerle/",
-        "date": "2024-07-25 14:18:20",
-        "sentiment_score": -0.7809828948229551
-    },
-    {
-        "title": "1.620 detenciones en Barcelona corresponden a 265 multirreincidentes en el primer semestre",
-        "image_url": "./assets/ai_generated/v1_txt2img_1127eb47cc43446390518d8aa753f930.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/1620-detenciones-en-barcelona-corresponden-a-265-multirreincidentes-en-el-primer-semestre/",
-        "date": "2024-07-25 14:18:03",
-        "sentiment_score": -0.5237667858600616
-    },
-    {
-        "title": "Miles de venezolanos en el exterior no podrán votar en las elecciones presidenciales",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/240508172423-rba-venezuela-full-169.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones en venezuela",
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/venezolanos-exterior-voto-elecciones-presidenciales-orix/",
-        "date": "2024-07-25 13:35:08",
-        "sentiment_score": -0.8213678598403931
-    },
-    {
-        "title": "Jennifer Aniston critica a J.D. Vance por los comentarios de las \"damas de los gatos sin hijos\": \"Rezo para que su hija tenga la suerte de tener hijos\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/aniston.jpg?quality=100&strip=info",
-        "tags": [
-            "celebridades"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/jennifer-aniston-j-d-vance-hijos-damas-gatos-comentarios-trax/",
-        "date": "2024-07-25 13:24:56",
-        "sentiment_score": -0.5406319536268711
-    },
-    {
-        "title": "Más buques de guerra de Rusia visitarán Cuba este fin de semana",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/gettyimages-2156636501-2.jpg?quality=100&strip=info",
-        "tags": [
-            "cuba"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/buques-guerra-ruso-en-cuba-trax/",
-        "date": "2024-07-25 12:30:35",
-        "sentiment_score": -0.07586102187633514
-    },
-    {
-        "title": "¿Qué pasó y por qué hubo una explosión en la destilería Casa Cuervo en México? Esto es lo que sabemos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Jose-Cuervo-2.jpg?quality=100&strip=info",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/explosion-destileria-casa-cuervo-mexico-orix/",
-        "date": "2024-07-25 12:21:28",
-        "sentiment_score": -0.7652886025607586
-    },
-    {
-        "title": "Mazazo de Fedea a los planes del Gobierno: No hay maltrato fiscal a Cataluña",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/25/1483846684-RXQTsnzkOQNIZBbveDQgIoM-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/mazazo-fedea-planes-gobierno-maltrato-fiscal-cataluna-20240725131558-nt.html",
-        "date": "2024-07-25 11:52:56",
-        "sentiment_score": -0.08628794550895691
-    },
-    {
-        "title": "Bruselas expedienta a España por no enmendar la discriminación de los interinos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/25/1475743080-RGuEPKJ9LnG5AzBhMzVHiNO-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bruselas-expedienta-espana-enmendar-discriminacion-interinos-20240725134711-nt.html",
-        "date": "2024-07-25 11:47:12",
-        "sentiment_score": -0.13904975354671478
-    },
-    {
-        "title": "El PSOE registra cuatro querellas contra 11 dirigentes del PP y Vox por acusarlo de robar en los ERE",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NRVBNRZZYFDJ3EF4TTEH5KGRVA.jpg?auth=e9d429efb60c346b0ecc6532b670d87f5296a8fb802834dfd6eed201cf3c876c",
-        "tags": [
-            "injurias",
-            "psoe-a",
-            "elías bendodo",
-            "caso de los ere",
-            "tribunales",
-            "juan espadas cejas",
-            "calumnias",
-            "españa",
-            "vox",
-            "pp",
-            "andalucía"
-        ],
-        "link": "https://elpais.com/espana/2024-07-25/el-psoe-registra-cuatro-querellas-contra-11-dirigentes-del-pp-y-vox-por-acusarlo-de-robar-en-los-ere.html",
-        "date": "2024-07-25 13:47:18",
-        "sentiment_score": -0.4189247637987137
-    },
-    {
-        "title": "Pontón avisa a Rueda en la gran fiesta del nacionalismo gallego: “No tenemos techo y cada día somos más”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CM3UXT3SO6UH5Z2JYEOSBSKFDQ.jpg?auth=dceed7f3350dd17f10f07929cf398eeae59cdc749bf2f2cf0168a30f52ecbf1c",
-        "tags": [
-            "españa",
-            "alfonso rueda",
-            "ana pontón",
-            "bng",
-            "xose manuel beiras",
-            "alberto núñez feijóo",
-            "galicia",
-            "nacionalismo"
-        ],
-        "link": "https://elpais.com/espana/2024-07-25/ponton-avisa-a-rueda-en-la-gran-fiesta-del-nacionalismo-gallego-no-tenemos-techo-y-cada-dia-somos-mas.html",
-        "date": "2024-07-25 13:19:17",
-        "sentiment_score": 0.16138948500156403
-    },
-    {
-        "title": "Detenida en Valencia una exjueza argentina acusada de buscar a mujeres embarazadas sin recursos para vender sus bebés",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LNPPNVODUZDUVM3W2WRBUOJNIM.jpg?auth=8c5e781fe32e4885de3f687738ccc084a4f7bcb33d8be029155b5ad34ea42a42",
-        "tags": [
-            "españa",
-            "ministerio del interior",
-            "argentina",
-            "fugitivos",
-            "detenciones",
-            "policía nacional",
-            "jueces",
-            "adopciones",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/2024-07-25/detenida-en-valencia-una-exjueza-argentina-acusada-de-buscar-a-mujeres-embarazadas-sin-recursos-para-vender-sus-bebes.html",
-        "date": "2024-07-25 12:13:57",
-        "sentiment_score": -0.7696671318262815
-    },
-    {
-        "title": "El Tribunal de Estrasburgo avala el archivo por la justicia española del caso de Couso, asesinado en Irak",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7OFFYQRIFWDLNNZX2AIWIFFDNY.jpg?auth=f1d1bd7f90787461d5fb4c285f07b60a1d39463dcd672cfe583cacda1cb0e605",
-        "tags": [
-            "tribunal supremo",
-            "indemnizaciones",
-            "guerra irak",
-            "josé couso",
-            "guerra",
-            "tribunal estrasburgo",
-            "justicia",
-            "josé maría aznar"
-        ],
-        "link": "https://elpais.com/espana/2024-07-25/el-tribunal-de-estrasburgo-avala-el-archivo-por-la-justicia-espanola-del-caso-de-couso-asesinado-en-irak.html",
-        "date": "2024-07-25 12:09:00",
-        "sentiment_score": -0.7919495292007923
-    },
-    {
-        "title": "Las entidades independentistas llaman a una Diada unitaria y descentralizada en medio de la negociación de la investidura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M5UBWJTBCFHTHHWBN4KR5NB45Y.jpg?auth=045a17836a7a041591d6d598f6799c1c44f853cf607a1c3a13bc8871b413e8f9",
-        "tags": [
-            "lluís llach",
-            "anc",
-            "cataluña",
-            "política",
-            "políticos",
-            "diada",
-            "barcelona",
-            "òmnium cultural",
-            "salvador illa",
-            "independencia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-25/las-entidades-independentistas-llaman-a-una-diada-unitaria-y-descentralizada-en-medio-de-la-negociacion-de-la-investidura.html",
-        "date": "2024-07-25 11:27:52",
-        "sentiment_score": 0.05711359530687332
-    },
-    {
-        "title": "La innovadora fórmula de Laporta para que el Barça ingrese más dinero",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/24/culemania/palco/872922719_13264394_1706x960.jpg?contentId=ESPIMA20240724_0020",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240725/la-innovadora-formula-laporta-barca-ingrese-dinero/873162741_0.html",
-        "date": "2024-07-25 14:19:49",
-        "sentiment_score": 0.3248315006494522
-    },
-    {
-        "title": "La Aemet avisa: este es el pueblo que ha marcado el récord de temperatura del año, al alcanzar los 45,6°C",
-        "image_url": "https://s1.elespanol.com/2024/07/25/sociedad/873173104_248045634_1706x960.jpg?contentId=ESPIMA20240725_0430",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20240725/aemet-avisa-pueblo-marcado-record-temperatura-ano-alcanzar/873162865_0.html",
-        "date": "2024-07-25 14:18:21",
-        "sentiment_score": 0.2112341672182083
-    },
-    {
-        "title": "El rector de la Complutense reveló al juez que Begoña Gómez hablaba de sus negocios con Sánchez",
-        "image_url": "https://okdiario.com/img/2024/07/25/rector-ok.jpg",
-        "tags": [
-            "investigación",
-            "tribunales",
-            "universidad complutense de madrid",
-            "begoña gómez"
-        ],
-        "link": "https://okdiario.com/investigacion/rector-complutense-juez-begona-gomez-negocios-pedro-sanchez-13216763",
-        "date": "2024-07-25 14:17:41",
-        "sentiment_score": -0.4732201024889946
-    },
-    {
-        "title": "La OSCyL participa este viernes 26 de julio en el IX Festival Internacional de Ópera de Cámara – Little Ópera de Zamora",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/07/25/7ADB39B9-D50D-492C-A786-FDA5B81B87D1/orquesta-sinfonica-castilla-leon_96.jpg?crop=4331%2C2436%2Cx0%2Cy210&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "castilla y león",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/oscyl-participa-este-viernes-26-julio-festival-internacional-opera-camara-little-opera-zamora_2024072566a25b558ec920000190ee10.html",
-        "date": "2024-07-25 14:04:05",
-        "sentiment_score": 0.030520547181367874
-    },
-    {
-        "title": "Así son los siete magistrados que ha propuesto el CGPJ para presidir el Supremo",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/nuevo-CGPJ-1-469x317.jpg",
-        "tags": [
-            "magistrado",
-            "tribunales",
-            "elecciones",
-            "consejo general del poder judicial (cgpj)",
-            "perfiles",
-            "tribunal supremo",
-            "candidatos"
-        ],
-        "link": "https://theobjective.com/espana/tribunales/2024-07-25/siete-magistrados-cgpj-supremo/",
-        "date": "2024-07-25 14:03:21",
-        "sentiment_score": 0.02467793971300125
-    },
-    {
-        "title": "El Gobierno español rechaza cambiar la ley de extranjería por decreto",
-        "image_url": "https://www.infobae.com/resizer/v2/DQBDEGE64BHQDOWVWE77YLEIGU.jpg?auth=18c53993aa821b97ffa3083bf48da1bbb0285446bbd8988f9095bf50f6974b89",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/25/el-gobierno-espanol-rechaza-cambiar-la-ley-de-extranjeria-por-decreto/",
-        "date": "2024-07-25 14:02:29",
-        "sentiment_score": -0.6260108128190041
-    },
-    {
-        "title": "Las Ferias y Fiestas de Salamanca contarán con 111 actividades del 6 al 15 de septiembre",
-        "image_url": "https://s1.elespanol.com/2024/07/25/castilla-y-leon/region/salamanca/873173047_248043876_1706x960.jpg?contentId=ESPIMA20240725_0373",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20240725/ferias-fiestas-salamanca-contaran-actividades-septiembre/873162868_0.html",
-        "date": "2024-07-25 13:20:05",
-        "sentiment_score": 0.037178196012973785
-    },
-    {
-        "title": "Que alguien le explique a Flick qué es el entorno antes de que se ponga a llorar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/620c343c-ea65-466e-82d0-2192959d7331_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/deportes/20240725/alguien-le-explique-flick-entornoantes-106068598",
-        "date": "2024-07-25 13:04:23",
-        "sentiment_score": 0.5460107326507568
-    },
-    {
-        "title": "Pontón celebra o Día da Patria destacando o crecemento do BNG: “Imos seguir facendo historia”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3c9b17a5-a2da-4591-b8d3-bfee629ef2c0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/galicia/2024/07/25/ponton-dia-patria-galicia-106068077.html",
-        "date": "2024-07-25 12:59:08",
-        "sentiment_score": -0.025909990072250366
-    },
-    {
-        "title": "Rufus Wainwright, deslumbrante en San Sebastián a pesar de algún que otro despiste",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2024/07/25/66a24af95cc73.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2024/07/25/rufus-wainwright-deslumbrante-san-sebastian-pesar-despiste-616662-1034.html",
-        "date": "2024-07-25 12:56:33",
-        "sentiment_score": 0.19284237921237946
-    },
-    {
-        "title": "Barcelona identifica a 265 multirreincidentes que acumulan un total de 4.676 delitos",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/07/25/66a25c961ae2a.r_d.927-566-5238.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20240725/barcelona-identifica-265-multirreincidentes-acumulan-total-4676-delitos_215864.html",
-        "date": "2024-07-25 14:19:31",
-        "sentiment_score": -0.49216616712510586
-    },
-    {
-        "title": "Tal día como HOY 26 de julio",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/07/25/cumple-khCC-U220806639857ytD-758x531@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hoy.es/sociedad/dia-hoy-julio-20240726161914-nt.html",
-        "date": "2024-07-25 14:19:14",
-        "sentiment_score": 0.03745543956756592
-    },
-    {
-        "title": "Una persona herida por un nuevo tiroteo en la Mina, Barcelona",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/06/20/667451751d03e.r_d.211-2063.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20240725/persona-herida-nuevo-tiroteo-mina-barcelona_215865.html",
-        "date": "2024-07-25 14:18:52",
-        "sentiment_score": -0.828301077708602
-    },
-    {
-        "title": "Carolina Marín: \"El objetivo no es sólo el oro olímpico, sino el proceso\"",
-        "image_url": "https://www.infobae.com/resizer/v2/TEEC7RAZDZAJZE6RNUD2RZ3VJU.jpg?auth=e267f3dcba6efd4a472d0d7a62dd58d07db4f5c17e2904350c08c3ef60e26915",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/07/25/carolina-marin-el-objetivo-no-es-solo-el-oro-olimpico-sino-el-proceso/",
-        "date": "2024-07-25 14:17:49",
-        "sentiment_score": 0.15608879923820496
-    },
-    {
-        "title": "Foment acusa al Govern de ampliar la protección del delta del Llobregat para \"bloquear\" la ampliación de El Prat",
-        "image_url": "https://s10.s3c.es/imag/_v0/2560x1707/d/2/0/1200x655_fomentzepa.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/12925305/07/24/foment-acusa-al-govern-de-ampliar-la-proteccion-del-delta-del-llobregat-para-bloquear-la-ampliacion-de-el-prat.html",
-        "date": "2024-07-25 14:15:56",
-        "sentiment_score": 0.0823727548122406
-    },
-    {
-        "title": "Flick: «Mi objetivo es ganar títulos, pero hay que ir paso a paso»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/07/25/flick-kjTC-U220813845124zlC-758x531@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/hansi-flick-joan-laporta-barcelona-20240725143546-ntrc.html",
-        "date": "2024-07-25 14:14:32",
-        "sentiment_score": 0.18338214606046677
-    },
-    {
-        "title": "Entidades independentistas llaman a convertir la diada en una gran manifestación unitaria",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/03/24/66008bc409cab.r_d.2687-1696.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20240725/entidades-independentistas-llaman-convertir-diada-gran-manifestacion-unitaria_215858.html",
-        "date": "2024-07-25 14:13:13",
-        "sentiment_score": 0.3625570982694626
-    },
-    {
-        "title": "Presidenciales 2024: Reubican centros de votación en Colombia y España",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/02/cronograma-electoral-CNE-elecciones.jpg",
-        "tags": [
-            "nacionales",
-            "migración"
-        ],
-        "link": "https://2001online.com/migracion/reubican-centros-votacion-colombia-espana/",
-        "date": "2024-07-25 13:18:27",
-        "sentiment_score": 0.036822326481342316
-    },
-    {
-        "title": "Pagos en el Sistema Patria: ¿Qué bonos están activos este #25Jul?",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Sistema-Patria.jpg",
-        "tags": [
-            "venezuela",
-            "pagos en el sistema patria: ¿qué bonos están activos este #25jul?",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/pagos-en-el-sistema-patria-que-bonos-estan-activos-este-25jul/",
-        "date": "2024-07-25 13:00:00",
-        "sentiment_score": -0.025872860103845596
-    },
-    {
-        "title": "CNE aclara cuándo deberán cerrar las mesas de votación",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/06/Simulacro-Electoral.png",
-        "tags": [
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/cne-mesas-votacion-cerraran-electores/",
-        "date": "2024-07-25 12:38:43",
-        "sentiment_score": 0.08015209063887596
-    },
-    {
-        "title": "Dólar BCV Venezuela: Así se cotiza la moneda estadounidense este #25Jul",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/BCV-25-JUL.png",
-        "tags": [
-            "dólar latam",
-            "economía",
-            "2001online",
-            "dólar bcv venezuela: así se cotiza la moneda estadounidense este #25jul",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/dolar-bcv-venezuela-asi-se-cotiza-la-moneda-estadounidense-este-25jul/",
-        "date": "2024-07-25 12:23:44",
-        "sentiment_score": 0.03160031884908676
-    },
-    {
-        "title": "Funvisis confirma sismo de 3.8 en las últimas horas (+Detalles)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Funvisis.jpg",
-        "tags": [
-            "funvisis confirma sismo de 3.8 en las últimas horas",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/funvisis-confirma-sismo-de-3-8-en-las-ultimas-horas-detalles/",
-        "date": "2024-07-25 11:54:33",
-        "sentiment_score": -0.09426315128803253
-    },
-    {
-        "title": "Inameh prevé nubosidad parcial y lluvias en las próximas horas",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Inameh-1-1.jpg",
-        "tags": [
-            "venezuela",
-            "inameh prevé nubosidad parcial y lluvias en las próximas horas",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/inameh-preve-nubosidad-parcial-y-lluvias-en-las-proximas-horas/",
-        "date": "2024-07-25 11:37:13",
-        "sentiment_score": 0.044781044125556946
-    },
-    {
         "title": "Las ganancias netas de Cemex cayeron un 3 % en el primer semestre de 2024",
         "image_url": "./assets/ai_generated/v1_txt2img_8fd0b9b2d1f243da95bab12ce0c5b3a8.png",
         "tags": [
@@ -9036,5 +8371,527 @@ export default [
         "link": "https://www.lavanguardia.com/local/barcelona/20240728/9835449/ladrones-goles-propia-puerta.html",
         "date": "2024-07-28 21:49:19",
         "sentiment_score": -0.7275011315941811
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 29 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/K4PRJFQAABEK5ICYDXH5ZWEX2U.jpg?auth=527a515e6b82c31cccd0f5700266ec16cacda3e117e85632a024d512de1519de",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/29/clima-hoy-en-espana-temperaturas-para-malaga-este-29-de-julio/",
+        "date": "2024-07-29 02:02:22",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Las últimas previsiones para Madrid: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/L5ERJVM4SRGE7FOHBKN4YUUAFQ.jpg?auth=dfe34571910c2e4006b7fea0c289e2da789447cba291d9e6bd399225e5466d5d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/29/las-ultimas-previsiones-para-madrid-temperatura-lluvias-y-viento/",
+        "date": "2024-07-29 01:33:00",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en Barcelona: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/SB5OREDZRBEZHJMI5V7PMI64X4.jpg?auth=c86ade0e09ec3d34d2fd45bd6fad2788a1ff2199ec9b91efa9c5a5e26c4d59e6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/29/clima-en-barcelona-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2024-07-29 01:01:13",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Ataques israelíes matan al menos a 19 palestinos, incluidos niños, en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/shutterstock-editorial-14607962b.webp",
+        "tags": [
+            "guerra de israel",
+            "palestinos",
+            "instanoticias",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/28/ataques-israelies-matan-palestinos-gaza-trax/",
+        "date": "2024-07-29 01:33:13",
+        "sentiment_score": -0.8326969295740128
+    },
+    {
+        "title": "Gobierno del Líbano admite que no pueden controlar acciones de Hezbollah",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1992914295.jpg?quality=100&strip=info",
+        "tags": [
+            "israel noticias",
+            "líbano",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gobierno-libano-no-puede-controlar-hezbollah-trax/",
+        "date": "2024-07-29 01:08:41",
+        "sentiment_score": -0.4989396594464779
+    },
+    {
+        "title": "Abogado del Mayo dice que su cliente fue secuestrado y llevado a EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/zambada-abogado-detencion.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "mayo zambada",
+            "joaquín guzmán lópez",
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mayo-zambada-abogado-declaraciones-trax/",
+        "date": "2024-07-29 01:01:56",
+        "sentiment_score": -0.7130648102611303
+    },
+    {
+        "title": "¿Qué son los altos del Golán y quiénes son los drusos?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163177611-copy.webp",
+        "tags": [
+            "instanoticias",
+            "medio oriente",
+            "guerra israel",
+            "hezbollah",
+            "líbano",
+            "altos del golán"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/28/altos-golan-drusos-ataque-israel-trax/",
+        "date": "2024-07-29 00:51:02",
+        "sentiment_score": -0.7008518483489752
+    },
+    {
+        "title": "Centro de votación en Venezuela es escenario de vandalismo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-motos.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela",
+            "eleccio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/vandalismo-elecciones-venezuela-conteo-votos-edmundo-maria-corina-machado/",
+        "date": "2024-07-29 00:32:53",
+        "sentiment_score": -0.8257398381829262
+    },
+    {
+        "title": "“No podemos dar cifras, las tenemos”, dice Maria Corina Machado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20825756-233834-667-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-conteo-votos-edmundo-maria-corina-machado-mirador-tv/",
+        "date": "2024-07-28 23:55:23",
+        "sentiment_score": -0.23966405540704727
+    },
+    {
+        "title": "Vinieron con violencia: mujer relata encuentro con colectivos chavistas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-ataqueeee.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colectivos-chavistas-elecciones-venezuela-conteo-votos-edmundo-maria-corina-machado/",
+        "date": "2024-07-28 23:54:45",
+        "sentiment_score": -0.31427857652306557
+    },
+    {
+        "title": "Escalan las tensiones en Medio Oriente por ataques a los Altos del Golán",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163385525.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tension-medio-oriente-altos-golan-mirador-mundial-tv/",
+        "date": "2024-07-28 23:38:49",
+        "sentiment_score": -0.7214685901999474
+    },
+    {
+        "title": "¿Cómo está el nivel de participación en las elecciones en Venezuela?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163645848.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-participacion-mirador-mundial-tv/",
+        "date": "2024-07-28 23:34:53",
+        "sentiment_score": 0.12965897470712662
+    },
+    {
+        "title": "Nicolás Maduro dice que reconocerá los resultados de las elecciones en caso de no ganarlas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163710973.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nicolas-maduro-resultados-elecciones-venezuela-constitucion/",
+        "date": "2024-07-28 23:25:26",
+        "sentiment_score": 0.04601174592971802
+    },
+    {
+        "title": "Rocío Albert: «Condonar deuda es un paso hacia el cupo catalán que España no se puede permitir»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/29/1484060017-RbWhTzxH4fjWfiFVTBmdjqM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/rocio-albert-condonar-deuda-paso-cupo-catalan-20240729163755-nt.html",
+        "date": "2024-07-29 02:13:19",
+        "sentiment_score": -0.1631976068019867
+    },
+    {
+        "title": "De la silla de ruedas al 'quad': así cazan los detectives el fraude en las bajas laborales",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/29/1475180683-Rv1yQZCbyooIbFzFoMbO7TJ-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/silla-ruedas-quad-cazan-detectives-fraude-bajas-20240729192209-nt.html",
+        "date": "2024-07-29 02:12:59",
+        "sentiment_score": -0.17470987141132355
+    },
+    {
+        "title": "Aquellos niños",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/29/AdobeStock_825433637-RXbtV7JC5OGbxk5aybZgPSI-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-aquellos-ninos-20240729002425-nts.html",
+        "date": "2024-07-28 22:24:26",
+        "sentiment_score": -0.2120603621006012
+    },
+    {
+        "title": "River gana en la despedida de Demichelis y Boca apenas empata en Córdoba",
+        "image_url": "./assets/ai_generated/v1_txt2img_df332891996649f9a580449ab13e3c0d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/29/river-gana-en-la-despedida-de-demichelis-y-boca-apenas-empata-en-cordoba/",
+        "date": "2024-07-29 02:15:36",
+        "sentiment_score": -0.34064851328730583
+    },
+    {
+        "title": "James Rodríguez sigue disfrutando de sus vacaciones en Miami: así se le vio compartiendo junto a su hija Salomé",
+        "image_url": "https://www.infobae.com/resizer/v2/7FVPE2JEJZDWBKN3HEWXFZLGZM.jpg?auth=f1691d77cff02eec5d8d00256dc01de14d257b4867f521a22dc840866ccacf33",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/07/29/james-rodriguez-sigue-disfrutando-de-sus-vacaciones-en-miami-asi-se-le-vio-compartiendo-junto-a-su-hija-salome/",
+        "date": "2024-07-29 01:22:04",
+        "sentiment_score": 0.37518877908587456
+    },
+    {
+        "title": "Venezolanos en el exterior emiten un voto de \"esperanza\" y alzan su voz por la democracia",
+        "image_url": "./assets/ai_generated/v1_txt2img_26081171420a4ce4b6ec800cb334c8ee.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/29/venezolanos-en-el-exterior-emiten-un-voto-de-esperanza-y-alzan-su-voz-por-la-democracia/",
+        "date": "2024-07-29 01:15:19",
+        "sentiment_score": 0.5120364651083946
+    },
+    {
+        "title": "Código de cambio: la revolución 'tech' del valle de los programadores que transformó Jamilena",
+        "image_url": "https://s1.elespanol.com/2024/07/26/invertia/disruptores/autonomias/andalucia/873423138_248073616_1706x960.jpg?contentId=ESPIMA20240726_0489",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/andalucia/20240729/codigo-cambio-revolucion-tech-valle-programadores-transformo-jamilena/873412770_0.html",
+        "date": "2024-07-29 00:33:00",
+        "sentiment_score": 0.5149409174919128
+    },
+    {
+        "title": "Resultados de las elecciones en Venezuela 2024, en vivo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RY5MGYQLBFH4LIZR5X2JFRM7JA.jpg?auth=9ed2c376cf1ee4d13b4ce880d820d7374f66863635c8d303f8f3e1099d4ee8e4",
+        "tags": [
+            "elecciones venezuela",
+            "latinoamérica",
+            "venezuela",
+            "nicolás maduro",
+            "américa",
+            "maría corina machado",
+            "edmundo gonzález urrutia",
+            "elecciones",
+            "venezolanos en el exterior"
+        ],
+        "link": "https://elpais.com/america/2024-07-29/resultados-de-las-elecciones-en-venezuela-2024-en-vivo.html",
+        "date": "2024-07-29 00:29:37",
+        "sentiment_score": 0.07159571349620819
+    },
+    {
+        "title": "Koerber (BMW): \"Hay que ser flexibles por si los políticos mantienen o retrasan el fin del motor de combustión en 2035\"",
+        "image_url": "https://s1.elespanol.com/2024/07/26/motor/873423089_248065877_1706x960.jpg?contentId=ESPIMA20240726_0440",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/motor/20240729/koerber-bmw-flexibles-politicos-mantienen-retrasan-fin-motor-combustion/873412943_0.html",
+        "date": "2024-07-29 00:25:58",
+        "sentiment_score": -0.7212877869606018
+    },
+    {
+        "title": "Entre lágrimas y con un agónico triunfo, Martín Demichelis se despide de River",
+        "image_url": "https://www.infobae.com/resizer/v2/6B2B6QRA2ND6LNMEAUGQA56V2U.jpg?auth=d4e3512c8f1a2c31b76c77e5952791bd688811d0fb17e4fb2006111946efd591",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/29/entre-lagrimas-y-con-un-agonico-triunfo-martin-demichelis-se-despide-de-river/",
+        "date": "2024-07-29 00:16:09",
+        "sentiment_score": -0.5438462868332863
+    },
+    {
+        "title": "San Fernando de Henares dio 6.000 € a la asociación de mujeres de la pareja de un concejal del PSOE",
+        "image_url": "https://s1.elespanol.com/2024/07/28/madrid/873922810_248102664_1706x960.jpg?contentId=ESPIMA20240728_0211",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/20240729/san-fernando-henares-dio-eur-asociacion-mujeres-pareja-concejal-psoe/873413056_0.html",
+        "date": "2024-07-29 00:07:35",
+        "sentiment_score": 0.23878606408834457
+    },
+    {
+        "title": "Los clásicos más crudos de Pixies desgarran el Botánico",
+        "image_url": "./assets/ai_generated/v1_txt2img_2e9e82b09c464097a1da6e456bcd8d36.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/28/los-clasicos-mas-crudos-de-pixies-desgarran-el-botanico/",
+        "date": "2024-07-28 22:30:32",
+        "sentiment_score": -0.9328918103128672
+    },
+    {
+        "title": "España y Uruguay celebran a Torres García como un \"símbolo\" del vínculo entre sus países",
+        "image_url": "https://www.infobae.com/resizer/v2/VLQCDILBPRE2TN6HR4GZFV5D7E.jpg?auth=4bcd7f09ffa2b6acdee801447215bdbf30766536a47c24da688e55c92a0dcfa4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/29/espana-y-uruguay-celebran-a-torres-garcia-como-un-simbolo-del-vinculo-entre-sus-paises/",
+        "date": "2024-07-29 02:16:13",
+        "sentiment_score": 0.4605363830924034
+    },
+    {
+        "title": "La crónica de un inicio de pretemporada ilusionante del Real Oviedo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ff6d945f-8fe9-4aef-9f29-f74a282f6d9a_16-9-aspect-ratio_default_0_x769y702.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2024/07/29/cronica-inicio-pretemporada-ilusionante-real-106211653.html",
+        "date": "2024-07-29 02:15:00",
+        "sentiment_score": -0.1335974633693695
+    },
+    {
+        "title": "El Queens Park Rangers ya tiene un acuerdo con Varane, cerca de su salida",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52430169-f7f4-4fd3-b119-d56923e36300_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sporting/2024/07/29/queens-park-rangers-acuerdo-varane-106211570.html",
+        "date": "2024-07-29 02:10:00",
+        "sentiment_score": 0.13836748898029327
+    },
+    {
+        "title": "¿Qué insecto me ha picado? Cómo identificar la picadura de cada bicho",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7b8ac455-ea31-4ca5-912c-37930804f05c_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elperiodico.com/es/salud/20240729/bicho-picado-identificar-picadura-insecto-14189205",
+        "date": "2024-07-29 01:59:00",
+        "sentiment_score": -0.7696613967418671
+    },
+    {
+        "title": "Cómo saber si tengo alergia al sol y consejos para evitarlo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2af0e64-0614-4900-9295-c4999e21438b_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elperiodico.com/es/salud/20240729/alergia-sol-consejos-prevenir-aparicion-106039067",
+        "date": "2024-07-29 01:59:00",
+        "sentiment_score": -0.7198138274252415
+    },
+    {
+        "title": "La falta de oferta dispara el alquiler ‘exprés’ en Toledo: el 32% de los anuncios dura solo un día",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/01/alquiler-turi%CC%81stico-mallorca-ep.jpg",
+        "tags": [
+            "inmobiliario",
+            "toledo",
+            "alquiler de viviendas",
+            "comunidad de madrid",
+            "alquiler",
+            "economía",
+            "vivienda",
+            "precios del alquiler"
+        ],
+        "link": "https://theobjective.com/economia/2024-07-29/alquiler-expres-toledo/",
+        "date": "2024-07-29 01:30:00",
+        "sentiment_score": -0.8378350790590048
+    },
+    {
+        "title": "El mejor restaurante de carretera está en la A-2 y lleva abierto desde 1889",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/06/Toro-Osborne_-donde-se-encuentran-en-Espana-469x317.jpg",
+        "tags": [
+            "vacaciones",
+            "restaurantes",
+            "gastronomía",
+            "viajes",
+            "coches",
+            "camiones",
+            "verano",
+            "vacaciones de verano",
+            "sociedad",
+            "carreteras"
+        ],
+        "link": "https://theobjective.com/gastronomia/2024-07-29/mejor-restaurante-carretera-abierto-1889/",
+        "date": "2024-07-29 01:30:00",
+        "sentiment_score": -0.04554729908704758
+    },
+    {
+        "title": "El PP sospecha que Puigdemont volverá en breve tras pactar con Sánchez su libertad",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/sumpremo-amnistia-constitucional-469x317.jpg",
+        "tags": [
+            "tribunal constitucional",
+            "junts per catalunya (jxcat)",
+            "medidas cautelares",
+            "pablo llarena",
+            "cataluña",
+            "erc (esquerra republicana de catalunya)",
+            "salvador illa",
+            "carles puigdemont",
+            "política"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-07-29/pp-puigdemont-volvera-pactar-constitucional/",
+        "date": "2024-07-29 01:30:00",
+        "sentiment_score": -0.5263813622295856
+    },
+    {
+        "title": "Los Comunes detectan presiones de Junts para que las bases de ERC veten a Illa",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/contactophoto-0886253426-1-469x317.jpg",
+        "tags": [
+            "yolanda díaz",
+            "junts per catalunya (jxcat)",
+            "comunes",
+            "ada colau",
+            "erc (esquerra republicana de catalunya)",
+            "salvador illa",
+            "carles puigdemont",
+            "política"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-07-29/comunes-injerencias-junts-erc-illa/",
+        "date": "2024-07-29 01:30:00",
+        "sentiment_score": -0.33517687767744064
+    },
+    {
+        "title": "EEUU | La moneda de 25 centavos de 2009 que podría valer $4.500",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/moneda-25-centavos-2009.jpeg",
+        "tags": [
+            "eeuu",
+            "cómo identificar el ejemplar de $4.500",
+            "moneda de 25 centavos de 2009",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-la-moneda-de-25-centavos-de-2009-que-podria-valer-4-500/",
+        "date": "2024-07-29 02:00:00",
+        "sentiment_score": -0.03602643311023712
+    },
+    {
+        "title": "Venezuela denuncia amenaza de invasión en su Embajada en Argentina",
+        "image_url": "https://2001online.com/wp-content/uploads/2023/08/Argentina-y-Venezuela.jpg",
+        "tags": [
+            "argentina",
+            "venezuela",
+            "embajada en argentina",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/venezuela-denuncia-amenaza-de-invasion-en-su-embajada-en-argentina/",
+        "date": "2024-07-29 01:42:08",
+        "sentiment_score": -0.5276135131716728
+    },
+    {
+        "title": "Edmundo González hace un llamado sobre los centros de votación",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Edmundo-Gonzalez.png",
+        "tags": [
+            "#28jul",
+            "edmundo",
+            "nacionales",
+            "edmundo gonzalez",
+            "28jul"
+        ],
+        "link": "https://2001online.com/nacionales/edmundo-gonzalez-hace-un-llamado-sobre-los-centros-de-votacion/",
+        "date": "2024-07-29 01:36:00",
+        "sentiment_score": 0.14342379570007324
+    },
+    {
+        "title": "Padrino López: \"El pueblo venezolano se prepara para una nueva etapa\"",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/vladimir-padrino-lopez-94215.jpg",
+        "tags": [
+            "elecciones presidenciales #28jul",
+            "nacionales",
+            "padrino lópez"
+        ],
+        "link": "https://2001online.com/nacionales/padrino-lopez-el-pueblo-venezolano-se-prepara-para-una-nueva-etapa/",
+        "date": "2024-07-29 01:00:22",
+        "sentiment_score": 0.6270782053470612
+    },
+    {
+        "title": "Sepa por qué se acelera el corazón cuando bebe licor",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/01-5-1280x720.jpg",
+        "tags": [
+            "licor",
+            "curiosidades",
+            "ritmia cardíaca"
+        ],
+        "link": "https://2001online.com/curiosidades/sepa-por-que-se-acelera-el-corazon-cuando-bebe-licor/",
+        "date": "2024-07-29 01:00:00",
+        "sentiment_score": -0.26060695201158524
+    },
+    {
+        "title": "Jorge Rodríguez: El pueblo hoy habló y esa voz debe ser respetada",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/5-5-1103x720.jpeg",
+        "tags": [
+            "nacionales",
+            "elecciones presidenciales en venezuela",
+            "jorge rodríguez"
+        ],
+        "link": "https://2001online.com/nacionales/jorge-rodriguez-el-pueblo-hoy-hablo-y-esa-voz-debe-ser-respetada/",
+        "date": "2024-07-29 00:53:47",
+        "sentiment_score": 0.3756043612957001
+    },
+    {
+        "title": "María Corina Machado se pronuncia sobre el cierre de mesas y las actas",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/MCM.jpeg",
+        "tags": [
+            "elecciones presidenciales 2024",
+            "nacionales",
+            "marías corina machado"
+        ],
+        "link": "https://2001online.com/nacionales/maria-corina-machado-se-pronuncia-sobre-el-cierre-de-mesas/",
+        "date": "2024-07-29 00:21:26",
+        "sentiment_score": -0.008630558848381042
+    },
+    {
+        "title": "Diosdado Cabello y Delcy Rodríguez hablaron de la tranquilidad de las elecciones del #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/2017-08-05T223003Z_1209103074_RC1623217600_RTRMADP_3_VENEZUELA-POLITICS.jpg",
+        "tags": [
+            "delcy rodriguez",
+            "diosdado cabello",
+            "nacionales",
+            "elecciones presidenciales"
+        ],
+        "link": "https://2001online.com/nacionales/diosdado-cabello-y-delcy-rodriguez-hablaron-de-la-tranquilidad-de-las-elecciones-del-28jul/",
+        "date": "2024-07-29 00:05:56",
+        "sentiment_score": 0.3554069250822067
+    },
+    {
+        "title": "Edmundo González: Estamos más que complacidos por la jornada de hoy",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/edmundo-Gonzalez.jpeg",
+        "tags": [
+            "elecciones presidenciales 2024",
+            "edmundo gonzález",
+            "nacionales",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/edmundo-gonzalez-estamos-mas-que-complacidos-por-la-jornada/",
+        "date": "2024-07-28 23:51:55",
+        "sentiment_score": 0.5933406949043274
+    },
+    {
+        "title": "Fiscal General: Este proceso electoral ha sido el de menor incidencias",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/04-1.jpg",
+        "tags": [
+            "fiscal general",
+            "nacionales",
+            "elecciones presidenciales en venezuela",
+            "tarek william saab"
+        ],
+        "link": "https://2001online.com/nacionales/fiscal-general-este-proceso-electoral-ha-sido-el-de-menor-incidencias/",
+        "date": "2024-07-28 23:27:22",
+        "sentiment_score": 0.01173923909664154
     }
 ];
