@@ -1,439 +1,5 @@
 export default [
     {
-        "title": "Un estudio demuestra que beber con moderación no alarga la vida",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/07/24/avion-alcohol--758x531.jpeg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/revision-concluye-estudios-sobre-beneficios-consumo-moderado-20240724150233-nt.html",
-        "date": "2024-07-25 05:41:00",
-        "sentiment_score": -0.11747673153877258
-    },
-    {
-        "title": "¿Es necesario el carnet de conducir para ser policía nacional?",
-        "image_url": "https://www.infobae.com/resizer/v2/MMRXBUEHMFBO7G3PTBAVAV7RCU.jpg?auth=e634880c6e95045b10984002dfc5a1290449d1cb781d4655a8c62659a309a4ef",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/es-necesario-el-carnet-de-conducir-para-ser-policia-nacional/",
-        "date": "2024-07-25 07:01:36",
-        "sentiment_score": 0.02775326371192932
-    },
-    {
-        "title": "Vinagre de manzana: propiedades y beneficios del alimento que es bajo en calorías y reduce el colesterol",
-        "image_url": "https://www.infobae.com/resizer/v2/NGTPTTFVBVF2JBF3FWKHPAADVQ.jpg?auth=7af27e1742d76d79388e2486f88f81d9c0e727993a7b118129d85499d68b05fa",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/vinagre-de-manzana-propiedades-y-beneficios-del-alimento-que-es-bajo-en-calorias-y-reduce-el-colesterol/",
-        "date": "2024-07-25 06:54:44",
-        "sentiment_score": 0.21058721095323563
-    },
-    {
-        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 25 de julio",
-        "image_url": "https://www.infobae.com/resizer/v2/34UEVS5QT5BDTPD2TLHN47M4OQ.jpg?auth=57b12c39eae71d322c74bdc7670e4804d284de070968ee3bee27235b8fc45277",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-25-de-julio/",
-        "date": "2024-07-25 06:31:21",
-        "sentiment_score": -0.07317215204238892
-    },
-    {
-        "title": "Los videos de la Policía golpeando a hombres en el aeropuerto del Reino Unido provocan indignación mientras la fuerza se presenta ante el organismo de control",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/manifestantes-afuera.webp",
-        "tags": [
-            "reino unido",
-            "policía británica"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/videos-policia-golpeando-a-hombres-aeropuerto-reino-unido-provocan-indignacion-mientras-fuerza-presenta-organismo-control-trax/",
-        "date": "2024-07-25 07:08:16",
-        "sentiment_score": -0.8669989248737693
-    },
-    {
-        "title": "El reclutamiento en línea del ISIS-K supone una amenaza para la seguridad de Occidente antes de los Juegos Olímpicos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Juegos-olimpicos-paris-isisk-e1721885646159.jpeg?quality=100&strip=info",
-        "tags": [
-            "juegos olímpicos de parís 2024",
-            "isis-k",
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/reclutamiento-isis-k-amenaza-seguridad-occidente-antes-juegos-olimpicos-paris-trax/",
-        "date": "2024-07-25 06:26:58",
-        "sentiment_score": -0.8936917167156935
-    },
-    {
-        "title": "Jorge Alcocer: coalición de Morena, PT y PVEM debe recibir un máximo de 300 diputados, ni uno más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2020/10/190225102139-mexico-guardia-nacional-amlo-senado-pkg-krupskaia-alis-00015611-full-169.jpg?quality=100&strip=info",
-        "tags": [
-            "política",
-            "aristegui",
-            "méxico",
-            "análisis",
-            "congreso"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/oficialismo-congreso-partidos/",
-        "date": "2024-07-25 06:24:29",
-        "sentiment_score": -0.21854209899902344
-    },
-    {
-        "title": "El Artículo 54 de la Constitución fue un avance para la democracia, opina experto",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/cnne-1382520-que-iniciativas-aprobaron-los-diputados-de-mexico-en-sesion-maratonica_6f2ce3.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/coalicion-partidos-diputados/",
-        "date": "2024-07-25 06:16:35",
-        "sentiment_score": 0.07209746539592743
-    },
-    {
-        "title": "Pasa a disposición judicial el padre confeso por intentar matar a su bebé de un mes en Manacor",
-        "image_url": "https://www.infobae.com/resizer/v2/XCQY7HWKYRASJNH7TPURE4U2EA.jpg?auth=ec0fe095ab97d696da9cf3410476d4ec1f708fa95a6971b1d674c267dbed9d46",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/pasa-a-disposicion-judicial-el-padre-confeso-por-intentar-matar-a-su-bebe-de-un-mes-en-manacor/",
-        "date": "2024-07-25 07:50:11",
-        "sentiment_score": -0.7789947241544724
-    },
-    {
-        "title": "Jové (ERC) rechaza consultar al TJUE la aplicación de la Ley de Amnistía",
-        "image_url": "https://www.infobae.com/resizer/v2/YVS74CL73BEVNDAJASFIEIIPHI.jpg?auth=2cf8ce210942b980d10b290e67d0fca43d1dd2d897b5597ad44f4c8f58dcd89e",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/jove-erc-rechaza-consultar-al-tjue-la-aplicacion-de-la-ley-de-amnistia/",
-        "date": "2024-07-25 07:49:53",
-        "sentiment_score": -0.5878718085587025
-    },
-    {
-        "title": "El padre detenido por intentar matar a su bebé de 30 días en Manacor pasa este jueves a disposición judicial",
-        "image_url": "https://www.infobae.com/resizer/v2/UTORVA4E3JGG5IZT5Z3P7ZTQKU.jpg?auth=f60853a5e435dcfa5712b08d0c979b16d3a98c6b06eb6bf0f823f1e491d74707",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-padre-detenido-por-intentar-matar-a-su-bebe-de-30-dias-en-manacor-pasa-este-jueves-a-disposicion-judicial/",
-        "date": "2024-07-25 07:34:24",
-        "sentiment_score": -0.6428646501153708
-    },
-    {
-        "title": "Los demócratas de la Cámara de Representantes elogian el discurso de Biden sobre el traspaso de la antorcha",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Biden_5f2a85.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones en estados unidos",
-            "biden"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/democratas-camara-alaban-discurso-biden-renuncia-antorcha-trax/",
-        "date": "2024-07-25 08:04:19",
-        "sentiment_score": -0.3369784355163574
-    },
-    {
-        "title": "Kamala Harris navega entre Biden y Netanyahu mientras considera su postura sobre Israel",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala-Harris-Israel-Netanyahu-e1721890057206.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones en estados unidos",
-            "israel noticias",
-            "elecciones estados unidos",
-            "elecciones 2024",
-            "guerra israel y hamas",
-            "kamala harris",
-            "benjamin netanyahu"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/kamala-harris-biden-netanyahu-postura-israel-trax/",
-        "date": "2024-07-25 07:59:25",
-        "sentiment_score": -0.5050541087985039
-    },
-    {
-        "title": "Cuánto dinero cobra un dependiente de Zara en España en 2024: salario base y complementos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/25/zara-tienda-kQ6C-U602883022208k7C-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dinero-cobra-dependiente-zara-espana-2024-salario-20240725100000-nt.html",
-        "date": "2024-07-25 08:00:03",
-        "sentiment_score": -0.06122139096260071
-    },
-    {
-        "title": "Leire Pajín insta a blindar la democracia y defender el Estado de Derecho ante el auge de \"nuevas amenazas\"",
-        "image_url": "https://www.infobae.com/resizer/v2/CPP7YZDKMZGTLKLYK74KD5WECU.jpg?auth=37e7b667a652167c0c711977b6b943ae6c2d5f24046868623238a848c82f3a87",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/leire-pajin-insta-a-blindar-la-democracia-y-defender-el-estado-de-derecho-ante-el-auge-de-nuevas-amenazas/",
-        "date": "2024-07-25 09:20:08",
-        "sentiment_score": -0.5884441807866096
-    },
-    {
-        "title": "Sánchez destaca a Galicia como \"tierra de mujeres y hombres orgullosos de su historia y comprometidos con el futuro\"",
-        "image_url": "https://www.infobae.com/resizer/v2/JGAQNYARUNBR5EGYLGRJ6GEZCY.jpg?auth=f54afa9335c4438f420aa8f9d4995fec596a6c8c5d56ce4f0a43687275c5b23b",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/sanchez-destaca-a-galicia-como-tierra-de-mujeres-y-hombres-orgullosos-de-su-historia-y-comprometidos-con-el-futuro/",
-        "date": "2024-07-25 09:19:55",
-        "sentiment_score": 0.7438347600400448
-    },
-    {
-        "title": "Este es el momento en el que se ambientará ‘El Pingüino’, la serie basada en el universo de ‘The Batman’",
-        "image_url": "https://www.infobae.com/resizer/v2/OYBO5HILGFHNZAYXOQISKSBGGM.jpg?auth=bd21baae3372b053207d741b4d6cc7cf6209ce3d2602679cc81d60bfc0ac6ab6",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2024/07/25/este-es-el-momento-en-el-que-se-ambientara-el-pinguino-la-serie-basada-en-el-universo-de-the-batman/",
-        "date": "2024-07-25 09:13:08",
-        "sentiment_score": 0.13954264670610428
-    },
-    {
-        "title": "Convocadas más de 5.000 plazas para una de las oposiciones más fáciles de aprobar en España: sueldos de hasta 26.000 euros",
-        "image_url": "https://www.infobae.com/resizer/v2/CNZ6W3AXBRHZ3PVBCVIGJZTTPU.jpg?auth=9b0921d1eaa9344c63c84d78630a1763477443db1438f9c67900cdab3cd35bb2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/convocadas-mas-de-5000-plazas-para-una-de-las-oposiciones-mas-faciles-de-aprobar-en-espana-sueldos-de-hasta-26000-euros/",
-        "date": "2024-07-25 09:12:53",
-        "sentiment_score": 0.09158836677670479
-    },
-    {
-        "title": "En qué Juegos Olímpicos España ha obtenido más medallas",
-        "image_url": "./assets/ai_generated/v1_txt2img_85416a66bb224f2ab45b6fe039eb81bc.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2024/07/25/en-que-juegos-olimpicos-espana-ha-obtenido-mas-medallas/",
-        "date": "2024-07-25 09:10:17",
-        "sentiment_score": 0.5520914606750011
-    },
-    {
-        "title": "Susana Díaz recuerda su defensa de Chaves y Griñán y acusa a Espadas de querer \"reescribir la historia para quedar bien\"",
-        "image_url": "https://www.infobae.com/resizer/v2/V3KCVNE5SNAVTMOMEK77GTXDZI.jpg?auth=1ae4dc6c9d4c7288198b705972d45d66d4f84a6f3a6458c090cbb651eea4ff78",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/susana-diaz-recuerda-su-defensa-de-chaves-y-grinan-y-acusa-a-espadas-de-querer-reescribir-la-historia-para-quedar-bien/",
-        "date": "2024-07-25 08:49:45",
-        "sentiment_score": -0.8699887897819281
-    },
-    {
-        "title": "Estos son los ganadores del sorteo de Super Once del 25 julio",
-        "image_url": "https://www.infobae.com/resizer/v2/UPJ24JPPI5EFTD5MGDCLMHCHMY.jpg?auth=7e0869d10ee239e7144b164ace275d4c97d684270c8c6af8be2e617589498456",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/estos-son-los-ganadores-del-sorteo-de-super-once-del-25-julio/",
-        "date": "2024-07-25 08:45:22",
-        "sentiment_score": 0.02386106178164482
-    },
-    {
-        "title": "Robles promete a Ucrania una batería de misiles Hawk “plenamente operativa” de cara a septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/BZAXEW6XVNC4ZF7IPUYHZI44RU.png?auth=50a7cbe13d433373f5d6a68441b90ffccac24bd0aa025e35f1d376416cf2003f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/robles-promete-a-ucrania-una-bateria-de-misiles-hawk-plenamente-operativa-de-cara-a-septiembre/",
-        "date": "2024-07-25 08:25:39",
-        "sentiment_score": -0.31020253151655197
-    },
-    {
-        "title": "La Guardia Civil detiene en Valencia al violador de una menor de 11 años en colaboración con el FBI",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HO5YBUIWFSOEB6S7776PNN4TDA.jpg?auth=96702fd2696befa08fa6856e7d787d3f19439f9a0df25219766142b6821dd150",
-        "tags": [
-            "menores",
-            "investigación judicial",
-            "valencia",
-            "estados unidos",
-            "guardia civil",
-            "investigación policial",
-            "fbi",
-            "comunidad valenciana",
-            "violaciones"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-25/la-guardia-civil-detiene-en-valencia-al-violador-de-una-menor-de-11-anos-en-colaboracion-con-el-fbi.html",
-        "date": "2024-07-25 08:42:53",
-        "sentiment_score": 0.04854695498943329
-    },
-    {
-        "title": "Biblioteca García Márquez: mejor reparada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PSWFKFVBTNE2DICJOB65NMJY7U.jpg?auth=b4b5fd236cae70008ec64672ba496fe2e8b214a10ac332d172cd890fe2259684",
-        "tags": [
-            "gabriel garcía márquez",
-            "ada colau",
-            "libros",
-            "bibliotecas",
-            "barcelona",
-            "bibliotecas municipales",
-            "cataluña",
-            "plaza de cataluña",
-            "seat",
-            "jaume collboni"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-25/biblioteca-garcia-marquez-mejor-reparada.html",
-        "date": "2024-07-25 08:24:35",
-        "sentiment_score": 0.3350741043686867
-    },
-    {
-        "title": "Un peritaje determinará si las obras en la mejor biblioteca del mundo, la García Márquez, entran en la garantía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3SG3WTIC2ZGGJCCQZGWVML7IWU.jpg?auth=10f8719ff36cbe9e11c78308f5a24b5fb74c8a1899b270393ac9f263a47d5219",
-        "tags": [
-            "bibliotecas",
-            "cataluña",
-            "bibliotecas municipales",
-            "barcelona",
-            "gabriel garcía márquez",
-            "libros",
-            "edificios historicos",
-            "obras municipales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-25/un-peritaje-determinara-si-las-obras-en-la-mejor-biblioteca-del-mundo-la-garcia-marquez-entran-en-la-garantia.html",
-        "date": "2024-07-25 08:23:00",
-        "sentiment_score": -0.738113658502698
-    },
-    {
-        "title": "Jorge Javier Vázquez renueva su contrato con Mediaset y asegura su futuro en la cadena hasta 2027",
-        "image_url": "https://www.infobae.com/resizer/v2/ALA44SIKPRH6LJDCXYIBP3PYUY.jpg?auth=4532d22edf331112de57b932b56bc62d0641a1843f76d2cf6b430415a3b2ecd9",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/jorge-javier-vazquez-renueva-su-contrato-con-mediaset-y-asegura-su-futuro-en-la-cadena-hasta-2027/",
-        "date": "2024-07-25 10:11:26",
-        "sentiment_score": 0.31207307800650597
-    },
-    {
-        "title": "El sueldo de los empleados de Alcampo en 2024: un salario base de cerca de 16.000 euros al año",
-        "image_url": "https://www.infobae.com/resizer/v2/WMJSHM2L6RA7DFOUHWG2F4ZOWE.png?auth=e9deb13397e894e9c24dd2f046d1088a8c9c6165c0eeb39059a4258cadcb6ef5",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/07/25/el-sueldo-de-los-empleados-de-alcampo-en-2024-un-salario-base-de-cerca-de-16000-euros-al-ano/",
-        "date": "2024-07-25 10:10:01",
-        "sentiment_score": 0.09569579362869263
-    },
-    {
-        "title": "Egipto sube hasta un 15 % el precio de combustible en su retirada gradual de subsidios",
-        "image_url": "./assets/ai_generated/v1_txt2img_7919e039ab984fc48ee03741b997ac6c.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/egipto-sube-hasta-un-15-el-precio-de-combustible-en-su-retirada-gradual-de-subsidios/",
-        "date": "2024-07-25 10:09:08",
-        "sentiment_score": -0.044304072856903076
-    },
-    {
-        "title": "AstraZeneca ganó 4.108 millones de dólares en el primer semestre, un 13 % más",
-        "image_url": "./assets/ai_generated/v1_txt2img_64ee9cdf18ec45e1b2a623cb4e0e3167.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/astrazeneca-gano-4108-millones-de-dolares-en-el-primer-semestre-un-13-mas/",
-        "date": "2024-07-25 10:08:51",
-        "sentiment_score": 0.567858599126339
-    },
-    {
-        "title": "La cadena Party Fiesta va a liquidación y despide a 140 personas",
-        "image_url": "./assets/ai_generated/v1_txt2img_f83ee26cedc54a7bbf0389c22bcab885.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-cadena-party-fiesta-va-a-liquidacion-y-despide-a-140-personas/",
-        "date": "2024-07-25 10:08:34",
-        "sentiment_score": -0.8017244935035706
-    },
-    {
-        "title": "El beneficio semestral de Sanofi bajó un 34,5 % a 2.246 millones de euros",
-        "image_url": "./assets/ai_generated/v1_txt2img_8be240efbd964abea856d056a6be9dbf.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-beneficio-semestral-de-sanofi-bajo-un-345-a-2246-millones-de-euros/",
-        "date": "2024-07-25 10:08:17",
-        "sentiment_score": 0.4522404223680496
-    },
-    {
-        "title": "El beneficio semestral de Neste se desploma un 96 % hasta los 18 millones de euros",
-        "image_url": "./assets/ai_generated/v1_txt2img_22cc10596f32451b887a84afe44fdc72.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/el-beneficio-semestral-de-neste-se-desploma-un-96-hasta-los-18-millones-de-euros/",
-        "date": "2024-07-25 10:08:00",
-        "sentiment_score": 0.1908659189939499
-    },
-    {
-        "title": "Cuánto dinero se cobra por medalla de oro en los Juegos Olímpicos de París 2024",
-        "image_url": "https://www.infobae.com/resizer/v2/6X2LC7GSGI3LVUG2WQBHWYQX7Q.jpg?auth=f4716542b2bbe7d0d214e85071a6e77559835c983806401ce97cc65f6fba5455",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2024/07/25/cuanto-dinero-se-cobra-por-medalla-de-oro-en-los-juegos-olimpicos-de-paris-2024/",
-        "date": "2024-07-25 10:07:56",
-        "sentiment_score": 0.3813297227025032
-    },
-    {
-        "title": "La confianza empresarial en Alemania cae considerablemente en julio por la economía",
-        "image_url": "./assets/ai_generated/v1_txt2img_8f6ecdf64b9d4b7faaffb87a25ed8163.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/la-confianza-empresarial-en-alemania-cae-considerablemente-en-julio-por-la-economia/",
-        "date": "2024-07-25 10:07:43",
-        "sentiment_score": 0.6104095615446568
-    },
-    {
-        "title": "Patronal EuroCommerce pide a la UE que retrase su ley contra la deforestación importada",
-        "image_url": "./assets/ai_generated/v1_txt2img_c211e0798caf4cdcbda359ece120e20a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/07/25/patronal-eurocommerce-pide-a-la-ue-que-retrase-su-ley-contra-la-deforestacion-importada/",
-        "date": "2024-07-25 10:07:25",
-        "sentiment_score": -0.7844152972102165
-    },
-    {
-        "title": "Las 5 cosas que debes saber este 25 de julio: Así le ha ido a Venezuela con Maduro en el poder",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2105334774-e1711406356912.webp",
-        "tags": [
-            "5 cosas",
-            "instanoticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/5-cosas-25-julio-venezuela-maduro-orix/",
-        "date": "2024-07-25 09:58:43",
-        "sentiment_score": -0.1599900722503662
-    },
-    {
-        "title": "La demanda por difamación de Andrew Tate contra su acusadora por trata de seres humanos puede seguir adelante, dice un juez",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Andrew-Tate-e1721896973455.jpg?quality=100&strip=info",
-        "tags": [
-            "ee.uu.",
-            "misoginia",
-            "tráfico de personas"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/andrew-tate-demanda-difamacion-acusadora-trata-personas-adelante-ap/",
-        "date": "2024-07-25 09:48:35",
-        "sentiment_score": -0.5530653186142445
-    },
-    {
-        "title": "China recibe esta semana a delegaciones palestinas y ucranianas. Pero, ¿puede desempeñar el papel de agente de paz en los conflictos mundiales?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/China-Palestinian-factions-at-the-Diaoyutai-State.jpg?quality=100&strip=info",
-        "tags": [
-            "guerra isael hamas",
-            "análisis",
-            "guerra de rusia en ucrania",
-            "china"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/china-delegaciones-palestina-ucrania-agente-paz-conflictos-mundiales-trax/",
-        "date": "2024-07-25 09:44:55",
-        "sentiment_score": -0.7856587320566177
-    },
-    {
-        "title": "Alemania recluta para su Ejército casi 2.000 menores al año",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/25/pistorius-Rt3Vfi38mmPdhBJkM6JhiyH-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/alemania-recluta-ejercito-2000-menores-ano-20240725120956-nt.html",
-        "date": "2024-07-25 10:09:56",
-        "sentiment_score": -0.08591631054878235
-    },
-    {
         "title": "La alcaldesa de Valencia pide que RFEF y CSD aclararen \"en horas\" su exclusión como sede",
         "image_url": "./assets/ai_generated/v1_txt2img_eb1b391e9c1b4f5db57b07da6d26eb1c.png",
         "tags": [
@@ -543,28 +109,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/07/25/consejo-asesor-meta-porno-deepfake-no-consensuado-trax/",
         "date": "2024-07-25 11:13:16",
         "sentiment_score": -0.7497063782066107
-    },
-    {
-        "title": "Las FDI dicen que más de 60 ataques aéreos en Gaza durante el último día; los servicios de rescate informan de muertes en el centro y norte de Gaza",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/logo-cnn.webp",
-        "tags": [
-            "ataques hamas israel",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/fdi-60-ataques-aereos-gaza-servicios-de-rescate-muertes-centro-norte-de-gaza-trax/",
-        "date": "2024-07-25 10:22:54",
-        "sentiment_score": -0.5414202623069286
-    },
-    {
-        "title": "Jill Biden viaja a los Juegos Olímpicos de París mientras su marido pasa la antorcha",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Jill-Biden.jpg?quality=100&strip=info",
-        "tags": [
-            "jill biden",
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/25/jill-biden-paris-juegos-olimpicos-antorcha-trax/",
-        "date": "2024-07-25 10:17:19",
-        "sentiment_score": -0.27039941400289536
     },
     {
         "title": "El Ayuntamiento de Barcelona insta al desalojo de las paradas de los pajareros de la Rambla y estos se niegan a entregar las llaves",
@@ -8988,5 +8532,509 @@ export default [
         "link": "https://2001online.com/nacionales/jorge-rodriguez-ha-habido-muy-pocos-percances-en-la-instalacion-de-las-mesas/",
         "date": "2024-07-28 14:37:16",
         "sentiment_score": -0.12696991860866547
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 29 de julio de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_d3ce1ae674484130b455977adc58589b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/hoy-sera-noticia-lunes-29-de-julio-de-2024/",
+        "date": "2024-07-28 22:19:55",
+        "sentiment_score": 0.03460170328617096
+    },
+    {
+        "title": "En estado crítico un hombre tras lanzarse desde 4 metros a una piscina natural en La Vera",
+        "image_url": "./assets/ai_generated/v1_txt2img_bb19b9a4e6594dd69734da0eaf2bf9e0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/en-estado-critico-un-hombre-tras-lanzarse-desde-4-metros-a-una-piscina-natural-en-la-vera/",
+        "date": "2024-07-28 22:19:38",
+        "sentiment_score": -0.7956010662019253
+    },
+    {
+        "title": "El fenómeno musical The Tyets se deja ver en Cap Roig",
+        "image_url": "./assets/ai_generated/v1_txt2img_1bbed34df62449d9916c487457cf493d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/el-fenomeno-musical-the-tyets-se-deja-ver-en-cap-roig/",
+        "date": "2024-07-28 21:46:53",
+        "sentiment_score": 0.16791240125894547
+    },
+    {
+        "title": "Un hombre de 47 años herido grave tras ser agredido en un parque de Carabanchel (Madrid)",
+        "image_url": "./assets/ai_generated/v1_txt2img_1957cb7b8f0f4c93a5538c1a7b6f9b1e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/un-hombre-de-47-anos-herido-grave-tras-ser-agredido-en-un-parque-de-carabanchel-madrid/",
+        "date": "2024-07-28 21:16:47",
+        "sentiment_score": -0.8482134472578764
+    },
+    {
+        "title": "Paredes: “Queremos pasar a cuartos como primeras de grupo”",
+        "image_url": "./assets/ai_generated/v1_txt2img_d0177a2a7ee3412d853f0017e05fa27b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/paredes-queremos-pasar-a-cuartos-como-primeras-de-grupo/",
+        "date": "2024-07-28 20:47:51",
+        "sentiment_score": 0.12754721194505692
+    },
+    {
+        "title": "Miles de venezolanos se movilizan en España por la libertad en un ambiente de fiesta",
+        "image_url": "./assets/ai_generated/v1_txt2img_ae469502a49347b88b85782c870da729.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/miles-de-venezolanos-se-movilizan-en-espana-por-la-libertad-en-un-ambiente-de-fiesta/",
+        "date": "2024-07-28 20:33:24",
+        "sentiment_score": 0.4703525900840759
+    },
+    {
+        "title": "Diana Krall despide el Jazzaldia con un recital íntimo y calmado",
+        "image_url": "./assets/ai_generated/v1_txt2img_3566160bdd7c49768ebcef0babaab0df.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/diana-krall-despide-el-jazzaldia-con-un-recital-intimo-y-calmado/",
+        "date": "2024-07-28 20:33:12",
+        "sentiment_score": 0.08232191205024719
+    },
+    {
+        "title": "2-0. España, rey de reyes de Europa",
+        "image_url": "./assets/ai_generated/v1_txt2img_f70b93f8a27445b29d50a732b2f0f108.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/2-0-espana-rey-de-reyes-de-europa/",
+        "date": "2024-07-28 20:18:25",
+        "sentiment_score": 0.5432484000921249
+    },
+    {
+        "title": "Controlado el incendio forestal en el Parque Natural del Estrecho",
+        "image_url": "./assets/ai_generated/v1_txt2img_bbe47ce9e04c46f6892696e95b606fba.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/controlado-el-incendio-forestal-en-el-parque-natural-del-estrecho/",
+        "date": "2024-07-28 20:17:55",
+        "sentiment_score": -0.5713038146495819
+    },
+    {
+        "title": "Tellado carga contra la izquierda que critica a Franco y es \"sumisa\" con Maduro",
+        "image_url": "./assets/ai_generated/v1_txt2img_43ee3ec8bafe462eb309cd81eef1ba62.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/28/tellado-carga-contra-la-izquierda-que-critica-a-franco-y-es-sumisa-con-maduro/",
+        "date": "2024-07-28 20:17:38",
+        "sentiment_score": -0.866882692091167
+    },
+    {
+        "title": "Putin dice que el despliegue de misiles de largo alcance en Alemania planeado por EE.UU. \"recuerda\" a la Guerra Fría",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/2024-07-05t145458z-1520119765-rc22p8axio5g-rtrmadp-3-ukraine-crisis-hungary-russia-copy.webp",
+        "tags": [
+            "instanoticias",
+            "vladimir putin",
+            "guerra fría",
+            "rusia",
+            "alemania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/28/putin-misiles-alemania-estados-unidos-guerra-trax/",
+        "date": "2024-07-28 21:40:15",
+        "sentiment_score": -0.23694301396608353
+    },
+    {
+        "title": "Venezolanos llegan a votar a su embajada en Ciudad de México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163618267.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezolanos-votar-ciudad-de-mexico/",
+        "date": "2024-07-28 21:11:57",
+        "sentiment_score": 0.002909354865550995
+    },
+    {
+        "title": "María Corina Machado: “Estamos concretando un sueño y una lucha de libertad”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/26304863228265176985508200146184186-00000004.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maria-corina-machado-elecciones-venezuela/",
+        "date": "2024-07-28 20:53:53",
+        "sentiment_score": 0.1422407478094101
+    },
+    {
+        "title": "“Queremos votar”: venezolanos esperan horas en largas filas para ejercer su voto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/99799942-78565584-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-votaciones-urnas/",
+        "date": "2024-07-28 20:50:47",
+        "sentiment_score": -0.17157717794179916
+    },
+    {
+        "title": "Este es el lugar donde cayó un cohete en los altos del Golán",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/download-35.jpeg?quality=100&strip=info",
+        "tags": [
+            "cohete",
+            "israel noticias",
+            "altos del golán",
+            "israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cohete-altos-de-golan-israel-trax/",
+        "date": "2024-07-28 20:21:18",
+        "sentiment_score": -0.8849732866510749
+    },
+    {
+        "title": "Vladimir Padrino López asegura que hay seguridad y control para votantes en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/video1483342864-00-00-28-10-imagen-fija008.jpg?quality=100&strip=info",
+        "tags": [
+            "edmundo gonzález",
+            "elecciones venezuela",
+            "venezuela",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/vladimir-padrino-seguridad-votar-lkl/",
+        "date": "2024-07-28 20:01:37",
+        "sentiment_score": 0.3817637860774994
+    },
+    {
+        "title": "Jorge Rodríguez afirma que Venezuela está dando una lección de democracia al mundo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1833768822.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jorge-rodriguez-caracas-venezuela-elecciones-presidenciales-tv/",
+        "date": "2024-07-28 19:47:18",
+        "sentiment_score": 0.45256806910037994
+    },
+    {
+        "title": "Edmundo González Urrutia: “Nosotros vamos a esperar los resultados”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/93513388-76452180-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "edmundo gonzález urrutia",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-votaciones-edmundo-gonzalez-urrutia/",
+        "date": "2024-07-28 19:10:45",
+        "sentiment_score": 0.11786599457263947
+    },
+    {
+        "title": "Fragmentos de vidrio revelan lo que había dentro del demolido laboratorio de un alquimista del Renacimiento",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/astronomo-danes-Tycho-Brahe-e1722190991933.webp",
+        "tags": [
+            "ciencia",
+            "instanoticias",
+            "renacimiento",
+            "océano",
+            "alquimista",
+            "la nasa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/28/fragmentos-vidrio-revelan-demolido-laboratorio-alquimista-renacimiento-trax/",
+        "date": "2024-07-28 18:45:40",
+        "sentiment_score": 0.05554385483264923
+    },
+    {
+        "title": "Edmundo González, abanderado de la oposición en Venezuela, acude a las urnas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/video1483342864-00-00-13-06-imagen-fija008.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela",
+            "videos digitales",
+            "edmundo gonzález"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-edmundo-gonzalez-votacion-orix/",
+        "date": "2024-07-28 18:26:56",
+        "sentiment_score": 0.012777000665664673
+    },
+    {
+        "title": "Fuera caretas",
+        "image_url": "./assets/ai_generated/v1_txt2img_ae3c97b2feb440889ec572aa80f7f0db.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-caretas-20240729232039-nts.html",
+        "date": "2024-07-28 22:08:46",
+        "sentiment_score": -0.08320638537406921
+    },
+    {
+        "title": "El 'carómetro' electoral de los venezolanos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/28/mariacorina-Ror6JjGGAV2SPJqO21NPNXJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/carometro-electoral-venezolanos-20240728000322-nt.html",
+        "date": "2024-07-28 22:04:39",
+        "sentiment_score": -0.10464522242546082
+    },
+    {
+        "title": "La lección del Sena",
+        "image_url": "./assets/ai_generated/v1_txt2img_02630a64e9ef46838f633d3ff25c0328.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-leccion-sena-20240729223924-nts.html",
+        "date": "2024-07-28 20:39:24",
+        "sentiment_score": 0.04083144664764404
+    },
+    {
+        "title": "Venezuela vota para dar un giro a una historia de miseria y éxodo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/28/venezuelaslxfiod-RSlx4Iz61xX05XePyAJnAbO-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/venezuela-vota-dar-giro-historia-miseria-exodo-20240728220633-nt.html",
+        "date": "2024-07-28 20:08:27",
+        "sentiment_score": -0.03802219033241272
+    },
+    {
+        "title": "La masacre en la aldea drusa y la ampliación de la guerra",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/29/drusos-U21112455150CMR-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-masacre-aldea-drusa-ampliacion-guerra-20240729203138-nt.html",
+        "date": "2024-07-28 18:31:39",
+        "sentiment_score": -0.5918087363243103
+    },
+    {
+        "title": "En Cataluña se negocia España",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/29/1484102313-U72680187265EZL-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-cataluna-negocia-espana-20240729202901-nt.html",
+        "date": "2024-07-28 18:29:01",
+        "sentiment_score": -0.0752170979976654
+    },
+    {
+        "title": "La Monarquía como apuesta de futuro",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/29/TERCERAABC_Apuestadefuturo_GARAMENDI-R3db9szkO9HFWr8FGl0OPWI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/antonio-garamendi-lecanda-monarquia-apuesta-futuro-20240729193232-nt.html",
+        "date": "2024-07-28 18:14:51",
+        "sentiment_score": -0.038102924823760986
+    },
+    {
+        "title": "Apagón del capitalismo mundial",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/07/29/capitalismo_20240728173929-RTFQL7GbrbUCw83GPUkze7K-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-apagon-capitalismo-mundial-20240729201430-nt.html",
+        "date": "2024-07-28 18:14:31",
+        "sentiment_score": -0.2905867099761963
+    },
+    {
+        "title": "Robador de julio",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/29/playa-U76064105473pGA-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-robador-julio-20240729201410-nt.html",
+        "date": "2024-07-28 18:14:11",
+        "sentiment_score": -0.06935334205627441
+    },
+    {
+        "title": "El tren es un infierno",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/07/29/1484113937-U14517527827RIJ-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-tren-infierno-20240729201347-nt.html",
+        "date": "2024-07-28 18:13:47",
+        "sentiment_score": -0.11283202469348907
+    },
+    {
+        "title": "Un desfile bajo la Puerta de Alcalá: el emblemático monumento inaugurará la Semana de la Moda de Madrid",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/07/28/17221844026136.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/07/29/66a673b8e4d4d8d6048b458b.html",
+        "date": "2024-07-28 22:19:51",
+        "sentiment_score": 0.1276880968362093
+    },
+    {
+        "title": "'Armas' nucleares contra el cáncer",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/07/26/doctora-knGB-RDaI50otqp37wgdOz9xsWTL-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/sociedad/armas-nucleares-cancer-20240726195406-ntrc.html",
+        "date": "2024-07-28 22:05:18",
+        "sentiment_score": -0.05760972201824188
+    },
+    {
+        "title": "El tapado de la cantera del Barça que quiere aprovechar la baja de Ronald Araujo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/16/culemania/primer-equipo/870923022_13234284_1706x960.jpg?contentId=ESPIMA20240716_0123",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240729/el-de-la-barca-aprovechar-ronald-araujo/873912660_0.html",
+        "date": "2024-07-28 22:03:40",
+        "sentiment_score": 0.10395248979330063
+    },
+    {
+        "title": "El Barça desprecia las grandes vías de ingresos del nuevo Bernabéu",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/22/culemania/849675204_12824910_1706x960.jpg?contentId=ESPIMA20240422_0180",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240728/el-barca-desprecia-grandes-ingresos-nuevo-bernabeu/873162745_0.html",
+        "date": "2024-07-28 21:29:33",
+        "sentiment_score": 0.1924789398908615
+    },
+    {
+        "title": "El Barça, en manos de la Masía para enfrentarse a los grandes clubes de Europa",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/19/culemania/primer-equipo/871672995_13251074_1706x960.jpg?contentId=ESPIMA20240719_0171",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240728/el-barca-de-masia-enfrentarse-grandes-europa/873912636_0.html",
+        "date": "2024-07-28 21:00:25",
+        "sentiment_score": 0.20127172768115997
+    },
+    {
+        "title": "España abusa en fútbol: cinco de seis títulos posibles en 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_f380c7fd9eca4086abb0d6afb468b148.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/28/espana-abusa-en-futbol-cinco-de-seis-titulos-posibles-en-2024/",
+        "date": "2024-07-28 20:16:41",
+        "sentiment_score": 0.20651935040950775
+    },
+    {
+        "title": "El Como de Cesc ficha a Varane",
+        "image_url": "https://www.infobae.com/resizer/v2/2M7NCQCENBBGXOY2Z5WOVVINZQ.jpg?auth=13a7ab01cbcdc2809efde9185d02a4514de994284bea054373f489f792e41718",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/28/el-como-de-cesc-ficha-a-varane/",
+        "date": "2024-07-28 20:03:07",
+        "sentiment_score": -0.1731700748205185
+    },
+    {
+        "title": "Le Normand al Atlético de Madrid: análisis fantasy, valor de mercado y recomendación en Mister",
+        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/07/28/66a6a2c9d553d.r_d.2935-774-0.jpeg",
+        "tags": [
+            "míster"
+        ],
+        "link": "https://www.mundodeportivo.com/el-mister/20240728/1002289158/le-normand-atletico-madrid-analisis-fantasy-valor-mercado-recomendacion-mister.html",
+        "date": "2024-07-28 20:01:42",
+        "sentiment_score": 0.1854664385318756
+    },
+    {
+        "title": "Valencia celebra la batalla floral más antigua de España: una fiesta inspirada en el Carnaval de Niza con 133 años",
+        "image_url": "https://s1.elespanol.com/2024/07/28/valencia/ocio/873922894_248105249_1706x960.jpg?contentId=ESPIMA20240728_0295",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/valencia/ocio/20240728/valencia-celebra-batalla-floral-antigua-espana-fiesta-inspirada-carnaval-niza-anos-trt/873912741_0.html",
+        "date": "2024-07-28 19:52:59",
+        "sentiment_score": -0.07327377051115036
+    },
+    {
+        "title": "Saab aseveró que hay 1.236 funcionarios del Ministerio Público desplegados este domingo",
+        "image_url": "./assets/ai_generated/v1_txt2img_6914c11cfa4b460c81e3c82cbe8ec209.png",
+        "tags": [
+            "locales",
+            "presidenciales en la lupa",
+            "política"
+        ],
+        "link": "https://eltiempove.com/saab-asevero-que-hay-1-236-funcionarios-del-ministerio-publico-desplegados-este-domingo/",
+        "date": "2024-07-28 22:08:45",
+        "sentiment_score": -0.7261967882514
+    },
+    {
+        "title": "Los semáforos del lunes 29 de julio: Laura Frau, Jaume Ripoll , Simone Biles y Vladímir Soloviov",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20240729/9835143/semaforos-lunes-29-julio-laura-frau-ripoll-simon-biles.html",
+        "date": "2024-07-28 22:05:00",
+        "sentiment_score": 0.10833850502967834
+    },
+    {
+        "title": "Grupo Lanthus gestionará la nueva residencia geriátrica de Núñez y Navarro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/26/business/873422749_13276953_1706x960.jpg?contentId=ESPIMA20240726_0100",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240729/grupo-lanthus-gestionara-residencia-geriatrica-nunez-navarro/873412701_0.html",
+        "date": "2024-07-28 22:00:00",
+        "sentiment_score": -0.0164097398519516
+    },
+    {
+        "title": "UGT publica la resolución europea contra el despido en España",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/31/6659ac22d10d6.r_d.2144-1238-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20240729/9835373/ugt-publica-resolucion-europea-despido-espana.html",
+        "date": "2024-07-28 22:00:00",
+        "sentiment_score": -0.37386878579854965
+    },
+    {
+        "title": "Paco Campos, ViSo: “El futuro parque de viviendas públicas debe gestionarse con beneficios”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/26/business/873422654_13274037_1706x960.jpg?contentId=ESPIMA20240726_0005",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240729/paco-campos-viso-el-viviendas-gestionarse-beneficios/873412656_0.html",
+        "date": "2024-07-28 22:00:00",
+        "sentiment_score": -0.8633309286087751
+    },
+    {
+        "title": "Los Juegos Olímpicos, un \"Grand Prix\", pero en cutre",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/04/vida/791931081_8611433_1706x960.jpg?contentId=ESPIMA20230904_0282",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240729/los-juegos-olimpicos-grand-prix-pero-cutre/873792615_13.html",
+        "date": "2024-07-28 22:00:00",
+        "sentiment_score": 0.5557029321789742
+    },
+    {
+        "title": "Anzoátegui | Centros electorales se muestran vacíos en horas de la tarde",
+        "image_url": "./assets/ai_generated/v1_txt2img_d47d2a85154144b6a9e17f7f9420a43e.png",
+        "tags": [
+            "presidenciales en la lupa",
+            "política",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/anzoategui-centros-electorales-se-muestran-vacios-en-horas-de-la-tarde/",
+        "date": "2024-07-28 21:50:44",
+        "sentiment_score": 0.07189182937145233
+    },
+    {
+        "title": "Barcelona lo tiene todo, para bien o para mal",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/07/28/66a6bce88d92b.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240728/9835453/barcelona-mal.html",
+        "date": "2024-07-28 21:49:36",
+        "sentiment_score": 0.4692464843392372
+    },
+    {
+        "title": "Menos ladrones y menos goles en propia puerta",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/07/28/66a6bcd8a76f0.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240728/9835449/ladrones-goles-propia-puerta.html",
+        "date": "2024-07-28 21:49:19",
+        "sentiment_score": -0.7275011315941811
     }
 ];
