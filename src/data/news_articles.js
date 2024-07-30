@@ -199,17 +199,6 @@ export default [
         "sentiment_score": -0.15668754279613495
     },
     {
-        "title": "¿Quién es Cilia Flores, la esposa de Maduro y “primera combatiente” del chavismo?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-515135972-e1721997711663.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "elecciones en venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/26/cilia-florres-esposa-de-maduro-chavismo-venezuela-elecciones-orix/",
-        "date": "2024-07-26 14:11:06",
-        "sentiment_score": -0.41664301604032516
-    },
-    {
         "title": "«Chulesca» carta de Óscar Puente a Alfonso Rueda: lo reta a pagar el AVE entre Galicia y Portugal",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/26/RuedaPuente-kmPC-U602890371562ZHB-758x531@diario_abc.jpg",
         "tags": [
@@ -268,46 +257,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/primero-persona-alzheimer-comienza-olvidar-sintoma-inicial-enfermedad-20240726161712-nt.html",
         "date": "2024-07-26 14:24:20",
         "sentiment_score": -0.13212242722511292
-    },
-    {
-        "title": "La UE aconseja no aprobar lecanemab, un fármaco controvertido para el alzzhéimer",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/07/26/cerebro--758x531.png",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/ue-aconseja-aprobar-lecanemab-farmaco-controvertido-alzzheimer-20240726152309-nt.html",
-        "date": "2024-07-26 13:24:39",
-        "sentiment_score": -0.08162000775337219
-    },
-    {
-        "title": "Una vacuna contra el virus del herpes se asocia a menor riesgo de demencia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/07/26/cancer-RzoTfoPf0rAG6UOxCgxSr0N-758x531@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/vacuna-virus-herpes-asocia-menor-riesgo-demencia-20240726140958-nt.html",
-        "date": "2024-07-26 13:00:04",
-        "sentiment_score": -0.12889260053634644
-    },
-    {
-        "title": "El Corte Inglés nombra como CEO a Gastón Bottazzini y prepara nuevo plan estratégico",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/26/MartaAlvarezefe-RbDoHcgVy7ov9cOKwbNFSuO-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/corte-ingles-nombra-ceo-gaston-bottazzini-prepara-20240726142041-nt.html",
-        "date": "2024-07-26 12:20:42",
-        "sentiment_score": -0.001987546682357788
-    },
-    {
-        "title": "Oliu invierte un millón de euros en el Sabadell en plena opa de BBVA",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/26/Oliu-RssyyQ9Lk2CpRA8FSHc8IJN-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/oliu-invierte-millon-euros-sabadell-plena-opa-20240726135415-nt.html",
-        "date": "2024-07-26 11:54:15",
-        "sentiment_score": -0.08874364197254181
     },
     {
         "title": "El público del Liceo vive una noche de pasión y ritos paganos con ‘Sacre’ de la coreógrafa alemana Sasha Waltz",
@@ -371,126 +320,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-07-26/xavier-trias-abandona-la-politica-hoy-no-dire-que-us-bombin-hoy-os-dare-las-gracias.html",
         "date": "2024-07-26 14:35:32",
         "sentiment_score": -0.36063775420188904
-    },
-    {
-        "title": "Sánchez y Pradales abordan el cumplimiento del Estatuto vasco con “clara voluntad de colaborar”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4BBXHLRPDYH6W3UVSGVQHAV7WI.jpg?auth=8e6f9bb86355df4a0ea7e240138e02e20cf84372affe2ad047ec2d3c27bb3432",
-        "tags": [
-            "eaj-pnv",
-            "lehendakari",
-            "estatuto gernika",
-            "pedro sánchez",
-            "gobierno vasco",
-            "imanol pradales",
-            "españa",
-            "pse-ee psoe",
-            "país vasco"
-        ],
-        "link": "https://elpais.com/espana/2024-07-26/sanchez-y-pradales-abordan-el-cumplimiento-del-estatuto-vasco-con-clara-voluntad-de-colaborar.html",
-        "date": "2024-07-26 14:07:16",
-        "sentiment_score": 0.7850967086851597
-    },
-    {
-        "title": "Muere Inés Ayala Sender, la eurodiputada que peleó por el ferrocarril",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DYW7KALA7D757FMXEGD6LV3EWY.jpg?auth=0ab07e1c6bb3152f3ef709d081da75e0286e2126f9f9ddb11ebd526edac7f081",
-        "tags": [
-            "socialismo",
-            "psoe",
-            "trenes",
-            "unión europea",
-            "obituarios",
-            "in memoriam",
-            "política",
-            "parlamento europeo",
-            "inés ayala",
-            "aragón",
-            "corredor cantábrico-mediterráneo",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-07-26/muere-ines-ayala-sender-la-eurodiputada-que-peleo-por-el-ferrocarril.html",
-        "date": "2024-07-26 13:52:05",
-        "sentiment_score": -0.016835540533065796
-    },
-    {
-        "title": "El Supremo decide que el ‘caso Koldo’ siga en la Audiencia Nacional y no pase a la Fiscalía Europea",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ATQ66E53FZAT3PBWYPGT5LH7WU.jpg?auth=2ffe316f2b3f33ac1fcaf9aff7bd5767ea4e7bce368a0cb853770bbf9c60c0bf",
-        "tags": [
-            "ministerio de transportes",
-            "fiscalía anticorrupción",
-            "josé luis ábalos",
-            "corrupción",
-            "mascarillas",
-            "españa",
-            "fiscalía europea",
-            "ismael moreno chamarro",
-            "tribunal supremo",
-            "audiencia nacional",
-            "koldo garcía",
-            "fraudes",
-            "pandemia",
-            "caso koldo"
-        ],
-        "link": "https://elpais.com/espana/2024-07-26/el-supremo-decide-que-el-caso-koldo-siga-en-la-audiencia-nacional-y-no-pase-a-la-fiscalia-europea.html",
-        "date": "2024-07-26 12:59:24",
-        "sentiment_score": -0.5757409557700157
-    },
-    {
-        "title": "Vídeo | Detenido el conductor de un camión que circuló durante seis kilómetros ebrio y en sentido contrario en Sevilla",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S5LVHR25JNEZPKC6L6DZ3I6XDI.jpg?auth=442ef9a949cc1db2e0f12138e025fc514fbc0d4dab8ea6a08fdc760073bdcc29&width=1200",
-        "tags": [
-            "sevilla",
-            "españa",
-            "delitos tráfico",
-            "detenciones",
-            "kamikazes",
-            "seguridad vial",
-            "delitos",
-            "accidentes tráfico",
-            "guardia civil",
-            "dgt"
-        ],
-        "link": "https://elpais.com/espana/2024-07-26/video-detenido-el-conductor-de-un-camion-que-circulo-durante-seis-kilometros-ebrio-y-en-sentido-contrario-en-sevilla.html",
-        "date": "2024-07-26 12:13:13",
-        "sentiment_score": -0.7462067399173975
-    },
-    {
-        "title": "5 planes gratis en Madrid del 26 de julio al 2 de agosto: jazz en parque del Oeste y una exposición de las raíces africanas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O75ZBTFECVDJRM74B7GX3JLEOI.jpg?auth=322d23e2279b2a86206735c0bbb93bc54c2bd73d4013aa82178507cafd2cb9fb",
-        "tags": [
-            "cultura",
-            "música",
-            "fotografía",
-            "veranos de la villa",
-            "exposiciones temporales",
-            "historia",
-            "japón",
-            "jazz",
-            "exposiciones",
-            "comunidad de madrid",
-            "música en vivo",
-            "fundación telefónica",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-07-26/5-planes-gratis-en-madrid-del-26-de-julio-al-2-de-agosto-jazz-en-parque-del-oeste-y-una-exposicion-de-las-raices-africanas.html",
-        "date": "2024-07-26 12:06:09",
-        "sentiment_score": 0.07563265040516853
-    },
-    {
-        "title": "Cae un grupo criminal que captaba ‘mulas bancarias’ para perpetrar estafas ‘online’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3T5MT34HHFEVXNHJQYXSFRYFWM.png?auth=3bd41c44a2faa49806aa8957e5240be7ef2a0c9d7c80cca3d27ecbeece0de437",
-        "tags": [
-            "estafas",
-            "andalucía",
-            "cataluña",
-            "menores",
-            "policía nacional",
-            "españa",
-            "jaén",
-            "fraudes"
-        ],
-        "link": "https://elpais.com/espana/2024-07-26/cae-un-grupo-criminal-que-captaba-mulas-bancarias-para-perpetrar-estafas-online.html",
-        "date": "2024-07-26 11:49:35",
-        "sentiment_score": -0.5957143343985081
     },
     {
         "title": "Pedro Piqueras se reúne con el Club Conecta, el foro de periodistas castellano-manchegos en Madrid",
@@ -8477,5 +8306,568 @@ export default [
         "link": "https://2001online.com/nacionales/cne-proclama-a-nicolas-maduro-como-presidente-detalles/",
         "date": "2024-07-29 17:24:17",
         "sentiment_score": -0.09042666852474213
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 30 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/BYWQOEC7MVD5XCAFTTOTMBV5IY.jpg?auth=e907f36ea169aa1733c35dad56c16b9ea3a2e92c700fdab18b559ae512fb5b54",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/30/clima-hoy-en-espana-temperaturas-para-malaga-este-30-de-julio/",
+        "date": "2024-07-30 02:01:47",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en Madrid: el estado del tiempo para este 30 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/EO4EZRX2URFFFIRPRANDG4VXDY.jpg?auth=74001744e0f17b5a176340f28634dffa9af40f86801e9ba2a2861f2acbb37460",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/30/clima-en-madrid-el-estado-del-tiempo-para-este-30-de-julio/",
+        "date": "2024-07-30 01:31:38",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Barcelona?",
+        "image_url": "https://www.infobae.com/resizer/v2/2H2T66IDCNF3TIYUWJDQDL7LVQ.jpg?auth=a42d8d6ebfed9da9e1c9bb6804bdad0f923f8d95c7137c524964ce8f791c8211",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/30/cual-es-la-temperatura-promedio-en-barcelona/",
+        "date": "2024-07-30 01:16:23",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Azcon (PP): Si el acuerdo permite recaudar los impuestos en Cataluña es un acuerdo ilegal",
+        "image_url": "./assets/ai_generated/v1_txt2img_14c21a871806450485ef5bc2d94780d9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/29/azcon-pp-si-el-acuerdo-permite-recaudar-los-impuestos-en-cataluna-es-un-acuerdo-ilegal/",
+        "date": "2024-07-29 23:33:19",
+        "sentiment_score": -0.8420361801981926
+    },
+    {
+        "title": "Fernández (PP) sobre los pactos PSC y ERC: \"Menos dinero que nunca, menos uso del catalán\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_1004fd8dd08e42efa1b03a90e9df4290.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/29/fernandez-pp-sobre-los-pactos-psc-y-erc-menos-dinero-que-nunca-menos-uso-del-catalan/",
+        "date": "2024-07-29 23:33:02",
+        "sentiment_score": -0.049449220299720764
+    },
+    {
+        "title": "Page considera que el preacuerdo de ERC con el PSC es un \"grave atentado a la igualdad\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_4e2acf918112448dbf9491cf51dfc4c6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/29/page-considera-que-el-preacuerdo-de-erc-con-el-psc-es-un-grave-atentado-a-la-igualdad/",
+        "date": "2024-07-29 23:17:12",
+        "sentiment_score": -0.8983117705211043
+    },
+    {
+        "title": "La Quiniela: los resultados ganadores que dieron fortuna a los nuevos ganadores",
+        "image_url": "https://www.infobae.com/resizer/v2/OSTSTFDLLVD57H4K5VPMGJX4SQ.jpg?auth=8bacbb5d2a058663d8a3be32cdce5315cbf3450736d0c3f6bfeca223a6b5276e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/29/la-quiniela-los-resultados-ganadores-que-dieron-fortuna-a-los-nuevos-ganadores/",
+        "date": "2024-07-29 23:15:23",
+        "sentiment_score": 0.5779921989887953
+    },
+    {
+        "title": "Acciona gana 116 millones, el 75 % menos, y acusa el impacto del precio de la electricidad",
+        "image_url": "./assets/ai_generated/v1_txt2img_1b3392f6e66e4c91a7521678bcf53208.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/29/acciona-gana-116-millones-el-75-menos-y-acusa-el-impacto-del-precio-de-la-electricidad/",
+        "date": "2024-07-29 23:01:56",
+        "sentiment_score": -0.42282695323228836
+    },
+    {
+        "title": "Page, tras el preacuerdo PSC-ERC: \"el atronador silencio ante el grave atentado a la igualdad me tiene perplejo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/M2IHKT65JFFJ5FJV6T2LNLGWK4.jpg?auth=e5ce821234f2d87fe87c87570fde8767b7281b167c58e2ac62dc50cef54f3d7f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/29/page-tras-el-preacuerdo-psc-erc-el-atronador-silencio-ante-el-grave-atentado-a-la-igualdad-me-tiene-perplejo/",
+        "date": "2024-07-29 22:48:45",
+        "sentiment_score": -0.6733910366892815
+    },
+    {
+        "title": "ANÁLISIS | En Venezuela, los votantes atrapados en la peligrosa danza de Maduro buscan respuestas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/protestas-venezuela-maduro.png",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/29/analisis-venezuela-votantes-buscan-respuestas-maduro-elecciones-trax/",
+        "date": "2024-07-30 01:50:08",
+        "sentiment_score": -0.8073127381503582
+    },
+    {
+        "title": "Nicolás Maduro dice que ha evitado \"un baño de sangre\" en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/sequence-04-00-00-14-21-still029.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "elecciones",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-evitamos-un-bano-de-sangre-elecciones-votos-perspectivas-mexico-tv/",
+        "date": "2024-07-30 01:31:15",
+        "sentiment_score": -0.5537779554724693
+    },
+    {
+        "title": "Venezuela vive \"el inicio del fin de la dictadura”, dice el líder opositor Leopoldo López",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/sequence-04-00-01-57-02-still030.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "elecciones",
+            "venezuela",
+            "leopoldo lópez"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-vive-el-inicio-del-fin-de-la-dictadura-dice-el-lider-opositor-leopoldo-lopez/",
+        "date": "2024-07-30 01:31:08",
+        "sentiment_score": -0.17823228985071182
+    },
+    {
+        "title": "\"El régimen quiere provocar violencia\", dice María Corina Machado ante protestas en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163833499.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "venezuela",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maria-corina-machado-protestas-venezuela-sot/",
+        "date": "2024-07-30 01:02:18",
+        "sentiment_score": -0.5959633886814117
+    },
+    {
+        "title": "Reportero de CNN estuvo presente cuando rociaron gas lacrimógeno a manifestantes en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163831996.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "venezuela",
+            "marchas en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reportero-de-cnn-estuvo-presente-cuando-rociaron-gas-lacrimogeno-a-manifestantes-en-venezuela/",
+        "date": "2024-07-30 01:01:13",
+        "sentiment_score": -0.6137874610722065
+    },
+    {
+        "title": "El presidente de la Asamblea Nacional de Venezuela dice que “el plan del extremismo violento de derecha” no es electoral",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163651899.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jorge-rodriguez-extremismo-violento-elecciones/",
+        "date": "2024-07-30 00:51:19",
+        "sentiment_score": -0.640863886103034
+    },
+    {
+        "title": "Leopoldo López sobre las elecciones en Venezuela: \"Este es el inicio del fin de la dictadura de Maduro\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/leopoldo-lopez-maduro.png",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/29/leopoldo-lopez-elecciones-venezuela-fin-dictadura-maduro-orix/",
+        "date": "2024-07-30 00:28:45",
+        "sentiment_score": -0.6009405627846718
+    },
+    {
+        "title": "Escepticismo internacional por los resultados electorales de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163828604.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-elecciones-maduro-oficialismo-oposicion-dusa-tv/",
+        "date": "2024-07-29 23:27:52",
+        "sentiment_score": -0.9161790534853935
+    },
+    {
+        "title": "Irán utiliza una campaña de influencia encubierta para socavar la candidatura de Trump, según la inteligencia estadounidense",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/c-gettyimages-2047901951.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de donald trump",
+            "irán",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/29/iran-campana-influencia-socavar-candidatura-trump-trax/",
+        "date": "2024-07-29 23:07:20",
+        "sentiment_score": -0.14660418033599854
+    },
+    {
+        "title": "María Corina Machado asegura tiene forma de comprobar la victoria de la oposición con una página web que alberga las actas digitalizadas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20825756-233834-667-still.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/29/maria-corina-machado-pagina-web-verificar-victoria-elecciones-venezuela-orix/",
+        "date": "2024-07-29 23:05:14",
+        "sentiment_score": 0.07195743918418884
+    },
+    {
+        "title": "La larga noche venezolana",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/07/30/TERCERAABC_Pucherazo_CR-Rmj3SrRr0yUMUROaNYVu9pJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/karina-sainz-borgo-larga-noche-venezolana-20240730041126-nt.html",
+        "date": "2024-07-30 02:11:26",
+        "sentiment_score": -0.12293744087219238
+    },
+    {
+        "title": "La producción de petróleo y gas de Petrobras sube un 2,4 % en el segundo trimestre",
+        "image_url": "./assets/ai_generated/v1_txt2img_071be027d0cd41679ca45d8c81386541.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/30/la-produccion-de-petroleo-y-gas-de-petrobras-sube-un-24-en-el-segundo-trimestre/",
+        "date": "2024-07-30 02:16:13",
+        "sentiment_score": 0.30391429364681244
+    },
+    {
+        "title": "El rector de la Complutense, al juez: «Yo pensaba que Begoña Gómez era licenciada»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/BEGONA-GOMEZ-DEFINITIVA-469x317.jpg",
+        "tags": [
+            "pedro sánchez",
+            "juan carlos barrabés",
+            "begoña gómez",
+            "psoe",
+            "tribunales",
+            "universidad complutense de madrid (ucm)"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-07-30/rector-ucm-begona-gomez-licenciada/",
+        "date": "2024-07-30 01:30:00",
+        "sentiment_score": -0.07469524443149567
+    },
+    {
+        "title": "La jefa de organización de Sumar gana enteros para suceder a Díaz al mando del partido",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/Jessica-Albiach-Yolanda-Diaz-469x317.jpg",
+        "tags": [
+            "ernest urtasun",
+            "yolanda díaz",
+            "política",
+            "sumar",
+            "podemos",
+            "izquierda unida"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-07-30/jefa-organizacion-sumar-suceder-diaz/",
+        "date": "2024-07-30 01:30:00",
+        "sentiment_score": -0.8623292539268732
+    },
+    {
+        "title": "Roro y las mujeres sumisas",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/10/INMIGRACION3010-469x317.jpg",
+        "tags": [
+            "feminismo",
+            "influencers",
+            "más madrid",
+            "opinión",
+            "burka",
+            "rita maestre"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/opinion/2024-07-30/roro-y-las-mujeres-sumisas/",
+        "date": "2024-07-30 01:30:00",
+        "sentiment_score": 0.7647981718182564
+    },
+    {
+        "title": "Aemet prevé 35oC en León, pero queda fuera de la alerta por calor",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/07/29/66a7e1f2a61ae.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/240730/1587224/aemet-preve-35oc-leon-queda-fuera-alerta-calor.html",
+        "date": "2024-07-30 01:30:00",
+        "sentiment_score": -0.6116354465484619
+    },
+    {
+        "title": "Laura Díaz, la discreta 'community manager' detrás de la meteórica cuenta de Instagram de la Casa Real",
+        "image_url": "https://s1.elespanol.com/2024/07/29/mujer/royals/874173184_248126035_1706x960.png?contentId=ESPIMA20240729_0610",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/royals/20240730/laura-diaz-discreta-community-manager-detras-meteorica-cuenta-instagram-casa-real/874162732_0.html",
+        "date": "2024-07-30 00:00:00",
+        "sentiment_score": 0.6476433612406254
+    },
+    {
+        "title": "'Concierto económico solidario' o reforma encubierta de la financiación autonómica",
+        "image_url": "https://s1.elespanol.com/2024/07/29/invertia/opinion/874173345_248130856_1706x960.jpg?contentId=ESPIMA20240729_0771",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20240730/concierto-economico-solidario-reforma-encubierta-financiacion-autonomica/874282572_12.html",
+        "date": "2024-07-30 00:00:00",
+        "sentiment_score": -0.035709820687770844
+    },
+    {
+        "title": "Scarlett O'Hara: una flor de otro mundo",
+        "image_url": "https://s1.elespanol.com/2024/07/29/el-cultural/blogs/entreclasicos/874173117_248123997_1706x960.jpg?contentId=ESPIMA20240729_0543",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/blogs/entreclasicos/20240730/scarlett-ohara-flor-mundo/874282566_12.html",
+        "date": "2024-07-30 00:00:00",
+        "sentiment_score": -0.0788593664765358
+    },
+    {
+        "title": "La Real Sociedad reconoce ofertas por Mikel Merino y revela el precio que ha pagado el Atlético por Le Normand",
+        "image_url": "https://cflvdg.avoz.es/sc/gfEw99-F4f7xxW2FaO2imG4DYFk=/768x/2024/07/30/00121722295444827232661/Foto/EuropaPress_6035368_mikel_merino_robin_le_normand_martin_zubimendi_of_spain_at_full_time_during-EP.jpg",
+        "tags": [
+            "atlético de madrid",
+            "real sociedad",
+            "fútbol"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/07/30/real-sociedad-reconoce-ofertas-mikel-merino-revela-precio-pagado-atletico-normand/00031722295482899100157.htm",
+        "date": "2024-07-29 23:43:00",
+        "sentiment_score": -0.3513958901166916
+    },
+    {
+        "title": "El \"genocida\" que intentó exterminar al pueblo gitano y aún da nombre a una calle de Madrid",
+        "image_url": "https://static.eldiario.es/clip/c7751e1d-cc70-412c-aa90-b44628a58a08_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/genocida-exterminar-pueblo-gitano-da-nombre-calle-madrid_1_11546897.html",
+        "date": "2024-07-29 23:00:15",
+        "sentiment_score": -0.06426611542701721
+    },
+    {
+        "title": "Esta es la playa más cercana a Madrid: cuántos kilómetros y en qué ciudad está",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/07/29/576AFF07-BB4F-4671-A90F-5B312D0BA130/espana-cuenta-mas-300-playas-toda-costa-siendo-algunas-mejores-mundo_96.jpg?crop=2737%2C1540%2Cx0%2Cy261&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/comunidad-valenciana/esta-playa-mas-cercana-madrid-cuantos-kilometros-que-ciudad-esta_2024073066a84c6db40b9c000196c5f9.html",
+        "date": "2024-07-30 02:14:05",
+        "sentiment_score": 0.3731240779161453
+    },
+    {
+        "title": "MoraBanc crece en España con la compra de una ficha bancaria a Unicaja",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/07/29/66a7f9a047301.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240730/9838411/morabanc-unicaja-banco-europeo-de-finanzas-espana-depositos-prestamos.html",
+        "date": "2024-07-30 02:00:00",
+        "sentiment_score": 0.11714307963848114
+    },
+    {
+        "title": "Negacionismo",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/04/SAN-PUERT-2904.jpg",
+        "tags": [
+            "caso de los ere en andalucía",
+            "pedro sánchez",
+            "unión europea",
+            "israel",
+            "rosa díez",
+            "negacionismo",
+            "8-m",
+            "franja de gaza",
+            "pandemia",
+            "begoña gómez",
+            "escrache",
+            "opinión",
+            "fascismo",
+            "holocausto",
+            "pablo iglesias",
+            "universidad complutense de madrid (ucm)",
+            "populismo",
+            "tribunal constitucional",
+            "podemos"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/opinion/2024-07-30/negacionismo/",
+        "date": "2024-07-30 01:30:00",
+        "sentiment_score": -0.6706162616610527
+    },
+    {
+        "title": "Una diputada de ERC en el Congreso se desmarca de Rufián y se opone a investir a Illa",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/11/6b50aa13f483224cd82e9dc3307870568164aae1-469x317.jpg",
+        "tags": [
+            "gabriel rufián",
+            "erc (esquerra republicana de catalunya)",
+            "psc",
+            "parlament",
+            "política",
+            "salvador illa"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-07-30/diputada-erc-desmarca-rufian-illa/",
+        "date": "2024-07-30 01:30:00",
+        "sentiment_score": -0.8650513207539916
+    },
+    {
+        "title": "Las series de Netflix Colombia que roban la atención HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/QMM2CBFSVNBGFDMXIDQ6XVUNCQ.jpg?auth=fe011d0d99f6fa21822b5c6a0777461830fa128442c0a93c0ab1473230ebf038",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/07/30/las-series-de-netflix-colombia-que-roban-la-atencion-hoy/",
+        "date": "2024-07-30 01:16:02",
+        "sentiment_score": 0.7270174622535706
+    },
+    {
+        "title": "ERC dice que Sánchez les da \"la llave de la caja\": Cataluña saldrá del régimen común y recaudará los impuestos",
+        "image_url": "https://s1.elespanol.com/2024/07/29/invertia/economia/macroeconomia/874173325_248130268_1706x960.jpg?contentId=ESPIMA20240729_0751",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20240730/erc-dice-sanchez-da-llave-caja-cataluna-saldra-regimen-comun-recaudara-impuestos/874163079_0.html",
+        "date": "2024-07-30 00:45:30",
+        "sentiment_score": 0.09161233901977539
+    },
+    {
+        "title": "La concluyente respuesta de Pep Guardiola a Julián Álvarez tras las declaraciones del argentino poniendo en duda su futuro en el Manchester City",
+        "image_url": "./assets/ai_generated/v1_txt2img_4dab5a1ca2da4b5b871e9208b0657052.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/07/30/la-concluyente-respuesta-de-pep-guardiola-a-julian-alvarez-tras-las-declaraciones-del-argentino-poniendo-en-duda-su-futuro-en-el-manchester-city/",
+        "date": "2024-07-30 00:16:29",
+        "sentiment_score": 0.17180313169956207
+    },
+    {
+        "title": "La reparación de la Ley de Memoria Democrática comienza en Cádiz",
+        "image_url": "https://s1.elespanol.com/2024/07/29/actualidad/874173213_248126900_1706x960.jpg?contentId=ESPIMA20240729_0639",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20240730/reparacion-ley-memoria-democratica-comienza-cadiz/874292564_13.html",
+        "date": "2024-07-30 00:00:00",
+        "sentiment_score": 0.03531463444232941
+    },
+    {
+        "title": "Vladimir Padrino López envía mensaje a las fuerzas políticas del país",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Vladimir-Padrino-Lopez-2.png",
+        "tags": [
+            "nacionales",
+            "fuerzas políticas",
+            "vladimir padrino lópez"
+        ],
+        "link": "https://2001online.com/nacionales/vladimir-padrino-lopez-envia-mensaje-a-las-fuerzas-politicas/",
+        "date": "2024-07-30 02:10:26",
+        "sentiment_score": 0.09431599080562592
+    },
+    {
+        "title": "EEUU | Conozca el programa de ayuda para niños en California",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/ninos-1.jpg",
+        "tags": [
+            "2001online",
+            "niños",
+            "eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-conozca-el-programa-de-ayuda-para-ninos-en-california/",
+        "date": "2024-07-30 02:03:03",
+        "sentiment_score": 0.3023098260164261
+    },
+    {
+        "title": "Ministerio de la Defensa informa sobre 23 funcionarios de la FANB heridos este #29Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Ministeridefensacaracs.jpg",
+        "tags": [
+            "fanb",
+            "nacionales",
+            "padrino lópez"
+        ],
+        "link": "https://2001online.com/nacionales/ministerio-de-la-defensa-informa-sobre-23-funcionarios-de-la-fanb-heridos-este-29jul/",
+        "date": "2024-07-30 01:52:06",
+        "sentiment_score": -0.5492606349289417
+    },
+    {
+        "title": "Ramón Velásquez denuncia destrucción de unidad de Transbarca en Lara (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/6-7.jpeg",
+        "tags": [
+            "nacionales",
+            "ministro de transporte",
+            "transbarca",
+            "ramón celestino velásquez araguayán",
+            "lara"
+        ],
+        "link": "https://2001online.com/nacionales/ramon-velasquez-denuncia-destruccion-de-unidad-de-transbarca-en-lara-video/",
+        "date": "2024-07-30 01:24:39",
+        "sentiment_score": -0.8288181070238352
+    },
+    {
+        "title": "Nicolás Maduro advierte: Tengan la seguridad absoluta que no habrá impunidad",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Nicolas-Maduro-3.jpeg",
+        "tags": [
+            "nicolás maduro",
+            "hechos violentos",
+            "nacionales",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-tengan-la-seguridad-absoluta-que-no-habra-impunidad/",
+        "date": "2024-07-30 01:08:22",
+        "sentiment_score": -0.44058213382959366
+    },
+    {
+        "title": "Sepa cómo pagar la factura de Corpoelec (+Pasos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/6-8.jpg",
+        "tags": [
+            "corpoelec",
+            "servicios",
+            "factura de corpoelec"
+        ],
+        "link": "https://2001online.com/servicios/sepa-como-pagar-la-factura-de-corpoelec-pasos/",
+        "date": "2024-07-30 00:59:00",
+        "sentiment_score": 0.1793394237756729
+    },
+    {
+        "title": "Rusia insta a abstenerse de acciones provocativas que pertuben el territorio venezolano",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/5-10.jpg",
+        "tags": [
+            "rusia",
+            "nacionales",
+            "elecciones presidenciales en venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/rusia-insta-a-abstenerse-de-acciones-provocativas-que-pertuben-el-territorio-venezolano/",
+        "date": "2024-07-30 00:37:52",
+        "sentiment_score": -0.21522466838359833
+    },
+    {
+        "title": "María Corina Machado: Activamos un portal web para verificar los resultados del #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Machado.Gonzalez-1080x720.jpeg",
+        "tags": [
+            "edmundo gonzález",
+            "nacionales",
+            "maría corina machado"
+        ],
+        "link": "https://2001online.com/nacionales/maria-corina-machado-activamos-un-portal-web-para-verificar-los-resultados-del-28jul/",
+        "date": "2024-07-30 00:36:52",
+        "sentiment_score": -0.0892842710018158
+    },
+    {
+        "title": "Matan a puñaladas a 2 niños en una clase de danza con temática de Taylor Swift",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/01/8-13.jpg",
+        "tags": [
+            "sucesos",
+            "taylor swift",
+            "internacionales",
+            "puñaladas",
+            "2001online"
+        ],
+        "link": "https://2001online.com/sucesos/matan-a-punaladas-a-2-ninos-en-una-clase-de-danza-con-tematica-de-taylor-swift/",
+        "date": "2024-07-30 00:26:36",
+        "sentiment_score": -0.8938054274767637
+    },
+    {
+        "title": "Detenidas dos personas por quema de objetos y asedio a una alcaldía (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/GTsJAv5XYAENz5e-1.jpg",
+        "tags": [
+            "anzoátegui",
+            "nacionales",
+            "tarek william saab"
+        ],
+        "link": "https://2001online.com/nacionales/detenidas-dos-personas-por-quema-de-objetos-y-asedio-a-una-alcaldia-detalles/",
+        "date": "2024-07-30 00:00:00",
+        "sentiment_score": -0.10948751866817474
     }
 ];
