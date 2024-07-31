@@ -144,39 +144,6 @@ export default [
         "sentiment_score": -0.7866380987688899
     },
     {
-        "title": "¿Dónde voto en las elecciones de Venezuela 2024? ¿Cómo saber cuál es mi mesa electoral?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/03/230615202206-conclu-renuncias-cne-venezuela-full-169.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "elecciones en venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/27/donde-voto-elecciones-venezuela-2024-como-saber-mesa-electoral-orix/",
-        "date": "2024-07-27 14:00:30",
-        "sentiment_score": -0.03182563558220863
-    },
-    {
-        "title": "El Departamento de Justicia responde a la demanda de TikTok y sostiene que el algoritmo podría permitir al gobierno chino influir en las elecciones de EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/tiktok-usa.jpg?quality=100&strip=info",
-        "tags": [
-            "noticias de ee.uu.",
-            "tiktok"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/27/justicia-responde-demanda-tiktok-gobierno-chino-influir-elecciones-ee-uu-trax/",
-        "date": "2024-07-27 13:27:08",
-        "sentiment_score": -0.2814696729183197
-    },
-    {
-        "title": "¿Quién estuvo detrás del sabotaje a la red ferroviaria de Francia? Esto es lo que sabemos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ataque-trenes.jpg?quality=100&strip=info",
-        "tags": [
-            "trenes",
-            "juegos olímpicos de parís 2024"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/27/quien-detras-sabotaje-red-ferroviaria-francia-jjoo-esto-sabemos-trax/",
-        "date": "2024-07-27 12:51:40",
-        "sentiment_score": -0.7820197427645326
-    },
-    {
         "title": "JD Vance defiende sus palabras sobre la «vida miserable» de las mujeres sin hijos tras las críticas",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/27/jd-vance--758x531.jpg",
         "tags": [
@@ -227,16 +194,6 @@ export default [
         "sentiment_score": -0.06591808795928955
     },
     {
-        "title": "Escenarios para las elecciones del 28 de julio en Venezuela",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/07/27/venez-RtDeyIyq3Ug4q7uKEaGqpCI-758x531@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/escenarios-elecciones-julio-venezuela-20240727154421-nt.html",
-        "date": "2024-07-27 13:48:20",
-        "sentiment_score": -0.11748456954956055
-    },
-    {
         "title": "Un juez suspende por motivos ecológicos las obras de una urbanización de lujo en Pozuelo de Alarcón",
         "image_url": "https://imagenes.elpais.com/resizer/v2/3JDDRQGKL5H75JHTZOANY63FLA.jpg?auth=c28d2d5576d26dff7b9320eba9c5c6e0eaf906317c81812400433ea8798f114a",
         "tags": [
@@ -253,21 +210,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-07-27/un-juez-suspende-por-motivos-ecologicos-las-obras-de-una-urbanizacion-de-lujo-en-pozuelo-de-alarcon.html",
         "date": "2024-07-27 15:51:13",
         "sentiment_score": -0.8574804924428463
-    },
-    {
-        "title": "Un violento incendio en pleno centro de Valencia destruye una vivienda y obliga a desalojar un edificio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XZFPWOHZDREMXBS7EYXBC7OUCU.jfif?auth=1b348af8448c17a1afbaf1c21076dbf27b2bc55ad69d431ffc1427f170d72770",
-        "tags": [
-            "vivienda",
-            "policía",
-            "bomberos",
-            "comunidad valenciana",
-            "incendios",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-27/un-violento-incendio-en-pleno-centro-de-valencia-destruye-una-vivienda-y-obliga-a-desalojar-un-edificio.html",
-        "date": "2024-07-27 12:12:57",
-        "sentiment_score": -0.387124452739954
     },
     {
         "title": "La séptima edición de la ‘Noche en Blanco y Negro’ de la Diputación de Segovia viste de gala la localidad de Prádena",
@@ -8356,5 +8298,436 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/economia/20240730/acaba-el-culebron-del-balco-gastronomic-de-barcelona-fin-las-reformas-apertura-inminente/874412602_0.html",
         "date": "2024-07-30 21:30:00",
         "sentiment_score": 0.33426380157470703
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Málaga?",
+        "image_url": "https://www.infobae.com/resizer/v2/MV3ZSFJZGNDJFG3JAHSYAG337Q.jpg?auth=afaf640693143c2faa0ef1cbb42e5de96590ecf6526430b9b3aff7a69c95ca61",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/31/cual-es-la-temperatura-promedio-en-malaga/",
+        "date": "2024-07-31 02:02:04",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este 31 de julio: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/5AN47NL4JRF37GSTUWS6OEOAVY.jpg?auth=e7ec665aedece1bd355e96d06adbc862b611321ddcdf971a661160dd66d2d30b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/31/pronostico-del-clima-en-barcelona-este-31-de-julio-temperatura-lluvias-y-viento/",
+        "date": "2024-07-31 01:01:28",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Vox pide al Congreso documentación sobre la querella de Abogacía del Estado contra el juez que investiga a Begoña Gómez",
+        "image_url": "https://www.infobae.com/resizer/v2/UFZZWEVZIVGOBMLOY6YKRMUYSM.jpg?auth=b509caa0314f994ee86ba3dd0fc7ea620680c55225bef173d4d3eb1196176c1f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/30/vox-pide-al-congreso-documentacion-sobre-la-querella-de-abogacia-del-estado-contra-el-juez-que-investiga-a-begona-gomez/",
+        "date": "2024-07-30 22:34:30",
+        "sentiment_score": -0.5224006995558739
+    },
+    {
+        "title": "¿Dónde están las actas de las elecciones presidenciales de Venezuela? Algunas de ellas podrían estar en dos direcciones web",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2163646198_588f99-e1722248835353.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/30/actas-elecciones-presidenciales-venezuela-direcciones-web-orix/",
+        "date": "2024-07-31 01:59:29",
+        "sentiment_score": -0.33908068388700485
+    },
+    {
+        "title": "EE.UU. pide transparencia en los resultados de la elección en Venezuela y rechaza los llamados a arrestar a Machado y González",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20828591-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/30/estados-unidos-rechaza-llamados-arresto-maria-corina-machado-edmundo-gonzalez-orix/",
+        "date": "2024-07-31 01:24:20",
+        "sentiment_score": -0.7519118003547192
+    },
+    {
+        "title": "CNN entrevista al primer ministro de Haití durante un tiroteo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-2-20240730163631063-20240731012041766.jpg?quality=100&strip=info",
+        "tags": [
+            "haití",
+            "pandillas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/primer-ministro-haiti-entrevista-tiroteo-trax/",
+        "date": "2024-07-31 01:22:39",
+        "sentiment_score": -0.7452522059902549
+    },
+    {
+        "title": "Empezaremos a ver disputas fuertes por el control del Cártel de Sinaloa, asegura experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2105336847.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/detencion-mayo-zambada-guzman-lopez-violencia-culiacan-cartel-sinaloa-plaza-perspectivas-mexico-tv/",
+        "date": "2024-07-31 00:57:38",
+        "sentiment_score": -0.12299147248268127
+    },
+    {
+        "title": "La campaña de Harris responde a las acusaciones de Trump en materia de inmigración",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ap24206519066743.jpg?quality=100&strip=info",
+        "tags": [
+            "instanoticias",
+            "noticias de ee.uu.",
+            "kamala harris",
+            "inmigración",
+            "trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/30/harris-acusaciones-trump-inmigracion-trax/",
+        "date": "2024-07-31 00:49:45",
+        "sentiment_score": -0.633213747292757
+    },
+    {
+        "title": "Costa Rica ofrece asilo político a líderes opositores de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/maria-corina-machado-edmundo-gonzalez.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/30/costa-rica-ofrece-asilo-politico-lideres-opositores-venezuela-orix/",
+        "date": "2024-07-31 00:35:08",
+        "sentiment_score": 0.04188716411590576
+    },
+    {
+        "title": "ANÁLISIS | El ataque israelí contra un alto líder militar de Hezbollah lleva a la región al borde de una guerra total",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ap24212646144536.webp",
+        "tags": [
+            "análisis",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/30/israel-libano-hezbollah-guerra-analisis-trax/",
+        "date": "2024-07-30 23:55:34",
+        "sentiment_score": -0.8777210311964154
+    },
+    {
+        "title": "Maduro denuncia “arremetida” del \"imperialismo, la derecha, el narcotráfico y Elon Musk\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163959831.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-imperialismo-derecha-elon-musk/",
+        "date": "2024-07-30 23:43:19",
+        "sentiment_score": -0.7944827657192945
+    },
+    {
+        "title": "Los ataques políticos en las campañas electorales en Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20825978-35765-717000000004-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-harris-elecciones-ataques-dusa-tv/",
+        "date": "2024-07-30 23:16:24",
+        "sentiment_score": -0.07525082677602768
+    },
+    {
+        "title": "Se revelan más datos de las investigaciones del intento de magnicidio contra Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161350610.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-magnicidio-invetigaciones-fbi-senado-dusa-tv/",
+        "date": "2024-07-30 23:10:10",
+        "sentiment_score": -0.10560223460197449
+    },
+    {
+        "title": "La incapacidad de Biden deja en el alero la defensa de Europa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/30/soldado-chasiv-yar-ROCMSL8STKlfNNvrWXAYGQK-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/incapacidad-biden-deja-alero-defensa-europa-20240730164925-nt.html",
+        "date": "2024-07-31 02:13:12",
+        "sentiment_score": -0.06447547674179077
+    },
+    {
+        "title": "Moncloa maniobra una vez más para ganar tiempo y buscar alternativas a la opa sobre Talgo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/31/puenteysanchez-RerHiwsmTfDkPOSsJVKS3mJ-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/moncloa-maniobra-vez-ganar-tiempo-buscar-alternativas-20240731041203-nt.html",
+        "date": "2024-07-31 02:12:03",
+        "sentiment_score": -0.06308107078075409
+    },
+    {
+        "title": "Yunus Musah: \"Modric es un jugador del que tienes que aprender\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_742f41407d6b49959e538b8b47b322a4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/31/yunus-musah-modric-es-un-jugador-del-que-tienes-que-aprender/",
+        "date": "2024-07-31 01:49:36",
+        "sentiment_score": 0.25541210174560547
+    },
+    {
+        "title": "Fue promovido al primer equipo del Real Madrid a los 16 años, tuvo como compañero a Cristiano Ronaldo y terminó en prisión",
+        "image_url": "https://www.infobae.com/resizer/v2/LHWM5LM6CZDOHKWRSWRSKCEYLE.jpg?auth=1b895b5c513a8d70f3cc6938e0cc473d995638e5248a10c0e6504d43257de808",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/07/31/fue-promovido-al-primer-equipo-del-real-madrid-a-los-16-anos-tuvo-como-companero-a-cristiano-ronaldo-y-termino-en-prision/",
+        "date": "2024-07-31 01:30:06",
+        "sentiment_score": -0.6871222946792841
+    },
+    {
+        "title": "Interior pagará 16 millones para repatriar inmigrantes tras expulsar solo 123 desde 2020",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/04/inmigracion-espana.png",
+        "tags": [
+            "españa",
+            "ministerio del interior",
+            "repatriaciones",
+            "expulsiones",
+            "inmigrantes irregulares"
+        ],
+        "link": "https://theobjective.com/espana/2024-07-31/interior-pagara-16-millones-repatriar-inmigrantes/",
+        "date": "2024-07-31 01:30:00",
+        "sentiment_score": 0.031188294291496277
+    },
+    {
+        "title": "James Rodríguez tendría vía libre para buscar nuevo equipo: detalles del futuro del colombiano",
+        "image_url": "./assets/ai_generated/v1_txt2img_b80c5755e70c4181983e2eb65f2e2031.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/07/31/james-rodriguez-tendria-via-libre-para-buscar-nuevo-equipo-detalles-del-futuro-del-colombiano/",
+        "date": "2024-07-31 01:15:32",
+        "sentiment_score": 0.8332194639369845
+    },
+    {
+        "title": "Estos son los 5 trucos de Google Maps que siempre recomiendo para evitar atascos durante vacaciones",
+        "image_url": "https://s1.elespanol.com/2024/07/30/elandroidelibre/tutoriales/trucos/874423349_248155791_1706x960.jpg?contentId=ESPIMA20240730_0800",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/elandroidelibre/tutoriales/trucos/20240731/trucos-google-maps-siempre-recomiendo-evitar-atascos-vacaciones/874162708_0.html",
+        "date": "2024-07-31 01:13:26",
+        "sentiment_score": -0.8019037526100874
+    },
+    {
+        "title": "El 25% del sector hidrocarburos está implicado en el fraude del IVA que alcanzó ya los 3.000 millones en 2023",
+        "image_url": "https://s1.elespanol.com/2024/07/29/invertia/empresas/energia/874173210_248126813_1706x960.jpg?contentId=ESPIMA20240729_0636",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20240731/sector-hidrocarburos-implicado-fraude-iva-alcanzo-millones/874162850_0.html",
+        "date": "2024-07-31 00:15:21",
+        "sentiment_score": -0.7356433607637882
+    },
+    {
+        "title": "Nenúfares de porcelana",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20240731/nenufares-porcelana_216927.html",
+        "date": "2024-07-30 23:30:00",
+        "sentiment_score": -0.3343510031700134
+    },
+    {
+        "title": "Carlo Ancelotti: \"El juego vertical, con o sin Kroos, es la idea siempre\"",
+        "image_url": "https://www.infobae.com/resizer/v2/LAQWZ33ECNECRM2Y5356OZQIGI.jpg?auth=a30757b06e11985fee2c19c4334f16c0b6c6bbdacd7a97a4039cb3ca32583300",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/30/carlo-ancelotti-el-juego-vertical-con-o-sin-kroos-es-la-idea-siempre/",
+        "date": "2024-07-30 23:02:20",
+        "sentiment_score": 0.3855908177793026
+    },
+    {
+        "title": "La lucha contra la corrupción como aliciente para la inversión",
+        "image_url": "./assets/ai_generated/v1_txt2img_445b2bbb975e4253a5e7a14ca965d18c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/opinion/2024/07/31/lucha-corrupcion-aliciente-inversion-106321759.html",
+        "date": "2024-07-31 02:10:00",
+        "sentiment_score": -0.299917533993721
+    },
+    {
+        "title": "Carta a Begoña",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2938259.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/07/31/2214049/carta-begona.html",
+        "date": "2024-07-31 02:00:01",
+        "sentiment_score": -0.007265001535415649
+    },
+    {
+        "title": "Puigdemont colocó en un diario catalán a un periodista pro-Putin que escribía contra Kiev",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/marta-rovira-indepes-fugados-proces-469x317.jpg",
+        "tags": [
+            "rusia",
+            "vladimir putin",
+            "carles puigdemont",
+            "ucrania",
+            "medios de comunicacion",
+            "tsunami democràtic",
+            "política",
+            "procés"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-07-31/propagandista-putin-diario-catalan-alay/",
+        "date": "2024-07-31 01:30:00",
+        "sentiment_score": 0.04035356640815735
+    },
+    {
+        "title": "El 63% de los empleados de Danone trabaja ya en formato híbrido en plena transición",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/01/fabrica-danone-469x317.jpeg",
+        "tags": [
+            "alimentación",
+            "distribución",
+            "danone",
+            "the positive",
+            "alimentación saludable",
+            "teletrabajo"
+        ],
+        "link": "https://theobjective.com/economia/distribucion/2024-07-31/63-empleados-danone-trabaja-formato-hibrido/",
+        "date": "2024-07-31 01:30:00",
+        "sentiment_score": 0.09224865585565567
+    },
+    {
+        "title": "Cataluña ganará 30.000 millones más, el doble, y Asturias retrocederá posiciones en financiación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5b627e47-0aaf-481b-94c2-d90a58631e8b_16-9-aspect-ratio_default_0_x963y548.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/07/31/cataluna-ganara-30-000-millones-106323825.html",
+        "date": "2024-07-31 00:19:54",
+        "sentiment_score": -0.12544797360897064
+    },
+    {
+        "title": "Oficialistas se concentraron en la plaza Bolívar de Barcelona para apoyar a Nicolás Maduro (+Videos)",
+        "image_url": "./assets/ai_generated/v1_txt2img_6bf232a0abe6499a83d4e84a87e620bf.png",
+        "tags": [
+            "locales",
+            "presidenciales en la lupa",
+            "política"
+        ],
+        "link": "https://eltiempove.com/oficialistas-se-concentraron-en-la-plaza-bolivar-de-barcelona-para-apoyar-a-nicolas-maduro-videos/",
+        "date": "2024-07-31 00:11:11",
+        "sentiment_score": 0.19658592343330383
+    },
+    {
+        "title": "El 'metalenguaje' del pacto fiscal catalán genera más dudas que certezas",
+        "image_url": "https://s1.elespanol.com/2024/07/30/invertia/opinion/874423472_248159603_1706x960.jpg?contentId=ESPIMA20240730_0923",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20240731/metalenguaje-pacto-fiscal-catalan-genera-dudas-certezas/874532545_12.html",
+        "date": "2024-07-31 00:10:18",
+        "sentiment_score": -0.2658969908952713
+    },
+    {
+        "title": "El ojo prodigioso de Javier González, el fotógrafo del lujo: de Dolce & Gabbana a María Pombo",
+        "image_url": "https://s1.elespanol.com/2024/07/30/reportajes/874422901_248142122_1706x960.jpg?contentId=ESPIMA20240730_0352",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240731/ojo-prodigioso-javier-gonzalez-fotografo-lujo-dolce-gabbana-maria-pombo/874163035_0.html",
+        "date": "2024-07-31 00:10:14",
+        "sentiment_score": 0.46144315227866173
+    },
+    {
+        "title": "Reportan enfrentamiento entre comisiones policiales y delincuentes en Petare (+Videos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Petare.jpg",
+        "tags": [
+            "petare",
+            "polimiranda",
+            "delincuentes",
+            "venezuela",
+            "2001online",
+            "sucesos",
+            "enfrentamientos"
+        ],
+        "link": "https://2001online.com/sucesos/reportan-enfrentamiento-entre-comisiones-policiales-y-delincuentes-en-petare-videos/",
+        "date": "2024-07-31 02:02:27",
+        "sentiment_score": -0.6780134364962578
+    },
+    {
+        "title": "Convocan a marcha hacia Miraflores para este #31Jul (+DETALLES)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/images-30.jpeg",
+        "tags": [
+            "maduro",
+            "marcha a miraflores",
+            "nacionales",
+            "elecciones en venezuela",
+            "venezuela",
+            "#28jul",
+            "#31jul",
+            "miraflores",
+            "protestas en venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/convocan-a-marcha-hacia-miraflores-para-este-31jul-detalles/",
+        "date": "2024-07-31 01:42:12",
+        "sentiment_score": 0.15174513310194016
+    },
+    {
+        "title": "Delcy Rodríguez denuncia ataque contra instalaciones de la UCV (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Delcy-Rodriguez-1.jpg",
+        "tags": [
+            "nacionales",
+            "ucv",
+            "2001online",
+            "delcy rodríguez"
+        ],
+        "link": "https://2001online.com/nacionales/delcy-rodriguez-denuncia-ataque-contra-instalaciones-de-la-ucv-video/",
+        "date": "2024-07-31 01:31:10",
+        "sentiment_score": -0.8985053449869156
+    },
+    {
+        "title": "Las alternativas que ofrece Avior a sus pasajeros tras la suspensión de vuelos a RD",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/image-559.png",
+        "tags": [
+            "república dominicana",
+            "avior",
+            "nacionales",
+            "venezuela",
+            "aerolíneas"
+        ],
+        "link": "https://2001online.com/nacionales/las-alternativas-que-ofrece-avior-a-sus-pasajeros-tras-la-suspension-de-vuelos-a-rd/",
+        "date": "2024-07-31 01:25:00",
+        "sentiment_score": 0.03789600729942322
+    },
+    {
+        "title": "Maduro a González Urrutia: No se tarde en llegar cobarde, venga por mi",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Nicolas-Maduro-3.jpeg",
+        "tags": [
+            "maduro",
+            "nacionales",
+            "edmundo gonzalez",
+            "protestas de venezuela",
+            "gonzalez urrutia",
+            "nicolas maduro"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-a-gonzalez-urrutia-no-se-tarde-en-llegar-cobarde-venga-por-mi/",
+        "date": "2024-07-31 00:46:02",
+        "sentiment_score": -0.21873803436756134
+    },
+    {
+        "title": "Maduro anuncia patrullaje militar y pueblo movilizado en las calles todos los días",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/GTxdiVbXYAAN_Y9-1.jpeg",
+        "tags": [
+            "maduro",
+            "protestas en las calle",
+            "paz",
+            "nacionales",
+            "edmundo gonzalez",
+            "#28jul",
+            "elecciones presidenciales 28 de julio",
+            "gente a la calle",
+            "nicolas maduro"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-patrullaje-militar-y-pueblo-movilizado-en-las-calles-todos-los-dias/",
+        "date": "2024-07-31 00:30:00",
+        "sentiment_score": 0.20692741870880127
     }
 ];
