@@ -142,40 +142,6 @@ export default [
         "sentiment_score": 0.13614541292190552
     },
     {
-        "title": "¿Quién es Edmundo González Urrutia, el candidato de la Plataforma Unitaria en Venezuela?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/edmundo-gonzalez-e1713803464791.jpeg?quality=100&strip=info",
-        "tags": [
-            "oposición venezolana",
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/28/edmundo-gonzalez-quien-es-candidato-oposicion-venezuela-orix/",
-        "date": "2024-07-28 14:10:58",
-        "sentiment_score": -0.13219581544399261
-    },
-    {
-        "title": "Elecciones presidenciales en Venezuela de 2024, en vivo: votaciones, noticias y última hora",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/copia-de-thumbnail-youtube-17.png",
-        "tags": [
-            "instanoticias",
-            "minuto a minuto",
-            "elecciones en venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/28/elecciones-presidenciales-en-venezuela-de-2024-en-vivo-votaciones-noticias-y-ultima-hora-orix/",
-        "date": "2024-07-28 11:23:57",
-        "sentiment_score": -0.1315787509083748
-    },
-    {
-        "title": "Israel dice que Hezbollah “pagará el precio” tras culparlo por el ataque a un campo de fútbol que mató a 12 niños",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ataque-golan.jpeg?quality=100&strip=info",
-        "tags": [
-            "israel",
-            "hezbollah"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/28/israel-dice-hezbollah-pagara-precio-tras-culparlo-por-ataque-campo-futbol-mato-a-12-ninos-trax/",
-        "date": "2024-07-28 10:41:05",
-        "sentiment_score": -0.8666040189564228
-    },
-    {
         "title": "Datos clave de las elecciones de Venezuela",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/28/venezuel-R9ygpmkEzsAevkoZGepm9mK-758x531@diario_abc.JPG",
         "tags": [
@@ -184,26 +150,6 @@ export default [
         "link": "https://www.abc.es/internacional/datos-clave-elecciones-venezuela-20240728180729-nt.html",
         "date": "2024-07-28 16:07:29",
         "sentiment_score": -0.10854348540306091
-    },
-    {
-        "title": "Qué es la fiebre hemorrágica de Crimea-Congo: síntomas, transmisión y recomendaciones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/07/28/cong_20240728140500-RRmEV3I50avmRMr3RaGM6YP-758x531@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/fiebre-hemorragica-crimeacongo-sintomas-transmision-recomendaciones-20240728140848-nt.html",
-        "date": "2024-07-28 12:26:03",
-        "sentiment_score": -0.33352234959602356
-    },
-    {
-        "title": "Maduro vota a primera hora y promete respetar los resultados: «Palabra santa»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/28/maduro-elecciones-venezuela-k6IE-U602895274280TM-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/maduro-vota-primera-hora-promete-respetar-resultados-20240728131859-nt.html",
-        "date": "2024-07-28 11:19:52",
-        "sentiment_score": -0.13679103553295135
     },
     {
         "title": "Los supervivientes del pesquero hundido en Malvinas ya están en España",
@@ -222,27 +168,6 @@ export default [
         "link": "https://elpais.com/espana/2024-07-28/los-supervivientes-del-pesquero-hundido-en-malvinas-ya-estan-en-espana.html",
         "date": "2024-07-28 15:55:11",
         "sentiment_score": -0.8039420852437615
-    },
-    {
-        "title": "Coral Bistuer, ex directora de deportes de Ayuso, lamenta que la presidenta no oyó sus quejas sobre “caciquismo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TWDQNNB7URB2FNKJBL4XYQN7UU.jpg?auth=de3f4f6906b8862c2e1d32aa31832663c5780d3b97ff155c9f0e9d37f8449c22",
-        "tags": [
-            "isabel díaz ayuso",
-            "madrid",
-            "coral bistuer",
-            "deportes",
-            "cultura",
-            "ciudadanos madrid",
-            "taekwondo",
-            "ayuntamiento madrid",
-            "comunidad de madrid",
-            "turismo",
-            "josé luis martínez almeida",
-            "marta rivera de la cruz"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-07-28/coral-bistuer-ex-directora-de-deportes-de-ayuso-lamenta-que-la-presidenta-no-oyo-sus-quejas-sobre-caciquismo.html",
-        "date": "2024-07-28 12:49:36",
-        "sentiment_score": -0.8247841224074364
     },
     {
         "title": "El Barça vuela a Estados Unidos con Ter Stegen y a la espera de Raphinha, Gündogan y Koundé",
@@ -8407,5 +8332,487 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/sarria-sant-gervasi/20240731/el-ayuntamiento-de-barcelona-precinta-el-bar-latas-diagonal/874412617_0.html",
         "date": "2024-07-31 21:30:46",
         "sentiment_score": -0.7736488040536642
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/HNQA64IIAVGRPLPSUK5I2ILTRA.jpg?auth=b8b01bb4365ce5605b01103ef3b4730fa27336a608af6d33ec03e0e2414ae5cb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/01/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-malaga/",
+        "date": "2024-08-01 02:02:11",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 1 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/FBO4MB3KYVEHFGYLPJMMFGHGTU.jpg?auth=f89fe7f67adb5824d7c9afd334eac2688d326aa49f5a3aa773785165604078a0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/01/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-1-de-agosto/",
+        "date": "2024-08-01 01:32:01",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Ranking Netflix: las películas preferidas este día por el público español",
+        "image_url": "https://www.infobae.com/resizer/v2/J7SHGNWSXNEZVN6TY55MPXWWHU.jpg?auth=f462da6258d77032e35dce4d5b859a7460ef05acc52be0728ea418537e9663d6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/01/ranking-netflix-las-peliculas-preferidas-este-dia-por-el-publico-espanol/",
+        "date": "2024-08-01 01:31:19",
+        "sentiment_score": 0.21778565645217896
+    },
+    {
+        "title": "Luis Miguel, voz y carisma en el primero de los conciertos de despedida en Marbella",
+        "image_url": "./assets/ai_generated/v1_txt2img_c4433e32279c4645825848b28617fa31.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/01/luis-miguel-voz-y-carisma-en-el-primero-de-los-conciertos-de-despedida-en-marbella/",
+        "date": "2024-08-01 01:01:12",
+        "sentiment_score": 0.5950432326644659
+    },
+    {
+        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/EEKC6SAMXFCQ3FVHQ67ILD76CM.jpg?auth=b8153b588c3094e937821a21edcfde03a8f861f1e98b3783ddaec6b4d6c8abcc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/01/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2024-08-01 01:01:08",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Bomberos continúan trabajando contra el fuego declarado en Loeches, ya perimetrado",
+        "image_url": "./assets/ai_generated/v1_txt2img_6a8dc74772c24f6587638f517c1d2a5c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/bomberos-continuan-trabajando-contra-el-fuego-declarado-en-loeches-ya-perimetrado/",
+        "date": "2024-07-31 23:31:48",
+        "sentiment_score": -0.22864136844873428
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 1 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_195cfe9ef5f54972a75efd6a9c880f83.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/hoy-sera-noticia-jueves-1-de-agosto-de-2024/",
+        "date": "2024-07-31 22:31:20",
+        "sentiment_score": 0.027575209736824036
+    },
+    {
+        "title": "Centro Carter: Elección en Venezuela no puede considerarse democrática",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/sequence-04-00-04-43-00-still031.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/slug-centro-carter-eleccion-venezuela-maduro-resultados-panorama-mundial-tv/",
+        "date": "2024-08-01 02:20:52",
+        "sentiment_score": -0.7544099502265453
+    },
+    {
+        "title": "OEA no aprueba la resolución que le exigía a Venezuela que publique las actas electorales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20835336-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-resolucion-maduro-oea-actas-votacion-perspectivas-mexico-tv/",
+        "date": "2024-08-01 02:07:54",
+        "sentiment_score": -0.6151326894760132
+    },
+    {
+        "title": "Exagente de la DEA: Captura de Zambada no impactará a cartel de Sinaloa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-mayo_bb5030.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/detencion-mayo-relacion-estados-unidos-dea-perspectivas-mexico-tv/",
+        "date": "2024-08-01 01:10:39",
+        "sentiment_score": -0.30965979397296906
+    },
+    {
+        "title": "EE.UU. acuerda con presunto autor intelectual de los ataques del 11S",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/cnne-85668634-120404052319-khalid-sheikh-mohammed-story-top.jpg?quality=100&strip=info",
+        "tags": [
+            "11 de setiembre",
+            "11s"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-acuerdo-autor-intelectual-11s-atentados-terroristas-panorama-mundial-tv/",
+        "date": "2024-08-01 01:10:34",
+        "sentiment_score": -0.6602142322808504
+    },
+    {
+        "title": "¿Sirve el recurso que presentó Maduro en el Tribunal Supremo?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/still-20834413-1120-still.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nicolas-maduro-tribunal-supremo-venezuela-elecciones-panorama-mundial-tv/",
+        "date": "2024-08-01 01:05:01",
+        "sentiment_score": -0.0957205668091774
+    },
+    {
+        "title": "Que haya transparencia y se muestren las actas, insta AMLO a las autoridades electorales en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-71454723.jpg?quality=100&strip=info",
+        "tags": [
+            "maría corina machado",
+            "amlo",
+            "maduro",
+            "venezuela",
+            "elecciones venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-reacciones-lideres-region-amlo-transparencia-perspectivas-mexico-tv/",
+        "date": "2024-08-01 01:02:59",
+        "sentiment_score": -0.3501884341239929
+    },
+    {
+        "title": "OEA no logra acuerdo para que Venezuela publique las actas electorales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163245954_096eeb.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "venezuela",
+            "oea"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/oea-votos-actas-electorales-venezuela-panorama-mundial-tv/",
+        "date": "2024-08-01 01:00:58",
+        "sentiment_score": -0.6673872135579586
+    },
+    {
+        "title": "Australia lanza el primer programa de inmunoterapia contra la alergia al maní para bebés",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1729805249-restricted.webp",
+        "tags": [
+            "enfermedades",
+            "alergias",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/31/australia-inmunoterapia-alergia-mani-bebes-trax/",
+        "date": "2024-08-01 00:31:41",
+        "sentiment_score": 0.42468998581171036
+    },
+    {
+        "title": "Trump ataca a moderadora en encuentro con periodistas negros",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/clip-1-thumb-20240801001353058.jpg?quality=100&strip=info",
+        "tags": [
+            "donald trump",
+            "negros en estados unidos",
+            "elecciones en estados unidos noticias",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-ataca-moderadora-conferencia-periodistas-negros-trax/",
+        "date": "2024-08-01 00:14:36",
+        "sentiment_score": -0.6571933403611183
+    },
+    {
+        "title": "20834051",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2161850735.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-santiago-pena-paraguay-redaccion-buenos-aires/",
+        "date": "2024-08-01 00:12:35",
+        "sentiment_score": -0.41291023790836334
+    },
+    {
+        "title": "La otra cara de las cifras de Sánchez",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/31/1484376457-kstC-REB6Zp6zQ5nlFnlIct8Qj4M-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cara-cifras-sanchez-20240731194738-nt.html",
+        "date": "2024-08-01 02:07:20",
+        "sentiment_score": -0.0735887885093689
+    },
+    {
+        "title": "Una excepción mundial y más brecha con Asturias: ¿en qué se diferencia el modelo pactado en Cataluña del cupo vasco?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ca1ac02-87b1-4dce-9dd3-f8b8fe49d0a5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/08/01/excepcion-mundial-brecha-asturias-diferencia-106382272.html",
+        "date": "2024-08-01 02:10:00",
+        "sentiment_score": -0.8645815243944526
+    },
+    {
+        "title": "Nueve personas fueron sentenciadas a varios años de cárcel por robos violentos en tiendas de lujo de California",
+        "image_url": "https://www.infobae.com/resizer/v2/X7AK7YZNGZCO5EK2JYVOELBMX4.jpeg?auth=630370409732620e49e5f16c681d4e3f2aaf08f044f15d4107f37599e13ae34f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/estados-unidos/2024/08/01/nueve-personas-fueron-sentenciadas-a-varios-anos-de-carcel-por-robos-violentos-en-tiendas-de-lujo-de-california/",
+        "date": "2024-08-01 02:03:33",
+        "sentiment_score": -0.07293479889631271
+    },
+    {
+        "title": "«El 47»",
+        "image_url": "https://men.gsstatic.es/autor/carlos-olalla/10861.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/08/01/2214843/47.html",
+        "date": "2024-08-01 02:00:01",
+        "sentiment_score": -0.02268478274345398
+    },
+    {
+        "title": "Taco Bell expandirá el uso inteligencia artificial de voz en cientos de autoservicios para finales de este año",
+        "image_url": "https://www.infobae.com/resizer/v2/JWDH3GMY4LHK75UCFSVOU4ALHE.jpg?auth=06aecf8d29e0a2dddb5034a11dc6a04dd0476978953257422426aa362cddc896",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/estados-unidos/2024/08/01/taco-bell-expandira-el-uso-inteligencia-artificial-de-voz-en-cientos-de-autoservicios-para-finales-de-este-ano/",
+        "date": "2024-08-01 01:59:17",
+        "sentiment_score": 0.6989990826696157
+    },
+    {
+        "title": "Tengo miedo a desnudarme: cómo se supera esta fobia que aflora en verano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/44a5b2c2-2a42-46b8-bca6-fd3eeddcd89b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/salud/guia/2024/08/01/miedo-desnudarme-supera-fobia-aflora-68364880.html",
+        "date": "2024-08-01 01:59:00",
+        "sentiment_score": -0.7665910758078098
+    },
+    {
+        "title": "Estados Unidos reconoció que González Urrutia recibió millones de votos más que Maduro en la elección presidencial de Venezuela",
+        "image_url": "https://www.infobae.com/resizer/v2/GZWG276R4CZ4LF6EX5QXOFDMPQ.jpg?auth=a4b86927033255504985322bc4763fb9df1b23cbfd83c015c90280f69520c657",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/venezuela/2024/08/01/estados-unidos-reconocio-que-gonzalez-urrutia-recibio-millones-de-votos-mas-que-maduro-en-la-eleccion-presidencial-de-venezuela/",
+        "date": "2024-08-01 01:36:54",
+        "sentiment_score": -0.5000175163149834
+    },
+    {
+        "title": "Investigadores de oposición hablan de una contundente derrota de Maduro en Venezuela",
+        "image_url": "https://www.infobae.com/resizer/v2/H4ZCWL2DHBDRTNBJDT25T4RYAY.jpg?auth=3ddd6a859758a88f4a37c31b0fef7ae08faa66ef3a4efed66ca60033e49e2222",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/the-new-york-times/2024/08/01/investigadores-de-oposicion-hablan-de-una-contundente-derrota-de-maduro-en-venezuela/",
+        "date": "2024-08-01 01:30:18",
+        "sentiment_score": -0.015234917402267456
+    },
+    {
+        "title": "La UCM montó el máster a Begoña Gómez en pleno agosto tras la visita del rector a Moncloa",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/rector-ucm-469x317.jpg",
+        "tags": [
+            "vacaciones de verano",
+            "pedro sánchez",
+            "tribunales",
+            "ccoo",
+            "unai sordo",
+            "begoña gómez",
+            "universidad complutense de madrid (ucm)"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-08-01/ucm-master-begona-gomez-moncloa/",
+        "date": "2024-08-01 01:30:00",
+        "sentiment_score": 0.167024128139019
+    },
+    {
+        "title": "La resaca postpandémica sigue torturando a las marcas de coches y sus proveedores",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/Coches-electricos-crisis--469x317.jpg",
+        "tags": [
+            "motor",
+            "coches",
+            "marcas",
+            "automóviles",
+            "proveedores"
+        ],
+        "link": "https://theobjective.com/motor/2024-08-01/resaca-postpandemica-torturando-marcas-coches/",
+        "date": "2024-08-01 01:30:00",
+        "sentiment_score": -0.18075338006019592
+    },
+    {
+        "title": "Enmanuel Reyes, un viaje de Cuba a España: ‘El Profeta’ que combate por el oro en boxeo",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/Paula-Soria-469x317.png",
+        "tags": [
+            "deportes",
+            "juegos olímpicos",
+            "boxeo",
+            "parís",
+            "españa"
+        ],
+        "link": "https://theobjective.com/deportes/2024-08-01/enmanuel-reyes-un-viaje-de-cuba-a-espana-el-profeta-que-combate-por-el-oro-en-boxeo/",
+        "date": "2024-08-01 01:30:00",
+        "sentiment_score": 0.10659351944923401
+    },
+    {
+        "title": "La Guardia Urbana de Barcelona se rebela contra Collboni: no hará horas extra en verano",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/05/dgt-pantallas.jpg",
+        "tags": [
+            "seguridad",
+            "guardia urbana",
+            "cataluña",
+            "españa",
+            "barcelona"
+        ],
+        "link": "https://theobjective.com/espana/2024-08-01/guardia-urbana-barcelona-collboni-horas-extra-verano/",
+        "date": "2024-08-01 01:30:00",
+        "sentiment_score": -0.7203617934137583
+    },
+    {
+        "title": "El resplandor del norte",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/10/Juan-E.-Iranzo-Martin-469x317.jpg",
+        "tags": [
+            "finlandia",
+            "escandinavia",
+            "historia",
+            "noruega",
+            "aurora boreal",
+            "editorial acantilado",
+            "homero",
+            "zamora",
+            "jorge luis borges",
+            "opinión",
+            "islandia",
+            "dinamarca",
+            "alemania",
+            "charles dickens",
+            "norte"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/lo-bueno-de-la-vida/2024-08-01/el-resplandor-del-norte/",
+        "date": "2024-08-01 01:30:00",
+        "sentiment_score": -0.02411419153213501
+    },
+    {
+        "title": "Bernat Dedéu: «Puigdemont es un político muerto desde 2017»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/Salvador-Sostres-469x317.jpg",
+        "tags": [
+            "violencia",
+            "filosofía",
+            "investidura",
+            "salvador illa",
+            "psc",
+            "cataluña",
+            "política",
+            "carles puigdemont",
+            "erc (esquerra republicana de catalunya)"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-08-01/dedeu-puigdemont-politico/",
+        "date": "2024-08-01 01:30:00",
+        "sentiment_score": -0.10412415862083435
+    },
+    {
+        "title": "Niegan la defensa privada a detenidos en protestas opositoras de Anzoátegui",
+        "image_url": "./assets/ai_generated/v1_txt2img_2c6ccb78966346f892f83b51e0f27eb0.png",
+        "tags": [
+            "policial",
+            "sucesos",
+            "protestas"
+        ],
+        "link": "https://eltiempove.com/niegan-la-defensa-privada-a-detenidos-en-protestas-opositoras-de-anzoategui/",
+        "date": "2024-08-01 01:17:45",
+        "sentiment_score": -0.6707390677183867
+    },
+    {
+        "title": "Qué es más saludable: la cúrcuma o el jengibre",
+        "image_url": "https://www.infobae.com/resizer/v2/U34VBV4QTRHMPKEQCDVLB5M44A.jpg?auth=e4ffeceb03d81cf77e4988dfb8de7e88e08e0648e4a9dc720439b73fa98473b2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/08/01/que-es-mas-saludable-la-curcuma-o-el-jengibre/",
+        "date": "2024-08-01 01:10:00",
+        "sentiment_score": 0.37316467985510826
+    },
+    {
+        "title": "Lumotech, una startup al servicio de los oftalmólogos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/07/31/66aa64ca6472d.r_d.3302-2436-0.jpeg",
+        "tags": [
+            "emprendedores"
+        ],
+        "link": "https://www.lavanguardia.com/economia/emprendedores/20240801/9833877/lumotech-startup-oftalmologos-historia-clinica-paciente.html",
+        "date": "2024-08-01 01:00:00",
+        "sentiment_score": 0.4814487472176552
+    },
+    {
+        "title": "Las mejores películas de Netflix en Perú para ver hoy mismo",
+        "image_url": "https://www.infobae.com/resizer/v2/GIKXKWQPSBEANMYVNHP674WFZ4.jpg?auth=306b715a8d0202fb892e3026ef8631a29d7d8a463c01ce80f265bf6131b1660a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/08/01/las-mejores-peliculas-de-netflix-en-peru-para-ver-hoy-mismo/",
+        "date": "2024-08-01 00:46:27",
+        "sentiment_score": 0.44043223559856415
+    },
+    {
+        "title": "¿Qué dijeron Brasil y Colombia sobre Venezuela en la sesión de la OEA? (+Videos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/thumbs_b_c_0bdf5b1ea6c22757c0fa4e9fa4ba67c4.jpg",
+        "tags": [
+            "oea",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/que-dijeron-brasil-y-colombia-sobre-venezuela-en-la-sesion-de-la-oea-videos/",
+        "date": "2024-08-01 02:00:00",
+        "sentiment_score": -0.26645567268133163
+    },
+    {
+        "title": "Ministro Velásquez Araguayán hace un llamado a los transportistas del país (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Transporte.jpg",
+        "tags": [
+            "transportistas",
+            "ministro del transporte",
+            "nacionales",
+            "transportes",
+            "ramón celestino velásquez araguayán"
+        ],
+        "link": "https://2001online.com/nacionales/ministro-velasquez-araguayan-hace-un-llamado-a-los-transportistas-del-pais-video/",
+        "date": "2024-08-01 01:45:00",
+        "sentiment_score": -0.33135851472616196
+    },
+    {
+        "title": "Moncada denuncia a exmilitar estadounidense por preparar atentado contra Maduro",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Nicolas-Maduro-2-1.jpeg",
+        "tags": [
+            "nicolás maduro",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/moncada-denuncia-a-exmilitar-estadounidense-por-preparar-atentado-contra-maduro/",
+        "date": "2024-08-01 00:02:58",
+        "sentiment_score": -0.7782751936465502
+    },
+    {
+        "title": "Maduro: No me temblará el pulso para llamar al pueblo a una nueva revolución",
+        "image_url": "./assets/ai_generated/v1_txt2img_d71d5bb32c874dd8ad240c53937c5232.png",
+        "tags": [
+            "eeuu",
+            "nicolás maduro",
+            "venezuela",
+            "nacionales",
+            "nueva revolución"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-no-me-temblara-el-pulso-para-llamar-al-pueblo-a-una-nueva-revolucion/",
+        "date": "2024-08-01 00:00:00",
+        "sentiment_score": -0.22031515836715698
+    },
+    {
+        "title": "ANSA informa cómo está el abastecimiento en los supermercados",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Supermercados.jpeg",
+        "tags": [
+            "abastecimiento en supermercados",
+            "ansa",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/ansa-informa-como-esta-el-abastecimiento-en-los-supermercados/",
+        "date": "2024-07-31 23:44:58",
+        "sentiment_score": 0.24190346896648407
+    },
+    {
+        "title": "Maduro: \"Nosotros negociamos de buena fe con EEUU y no cumplieron\"",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/GT2C54mXwAAsTfL-1280x720.jpeg",
+        "tags": [
+            "estados unidos",
+            "nicolás maduro",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-nosotros-negociamos-de-buena-fe-con-eeuu-y-no-cumplieron/",
+        "date": "2024-07-31 22:30:00",
+        "sentiment_score": -0.5805835127830505
     }
 ];
