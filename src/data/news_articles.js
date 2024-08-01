@@ -1,55 +1,5 @@
 export default [
     {
-        "title": "El negocio que hará estallar la burbuja del fútbol",
-        "image_url": "https://static1.ara.cat/clip/9fd7e58c-1c18-4548-b5ea-2286cbce6fbf_16-9-aspect-ratio_default_0.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/negocio-hara-estallar-burbuja-futbol_130_5101917.html",
-        "date": "2024-07-28 06:00:10",
-        "sentiment_score": -0.11180074512958527
-    },
-    {
-        "title": "Qué es Photocall TV, la plataforma que te da acceso a más de 1.000 canales gratis de todo el mundo",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/05/04/fire-tv-stick.jpeg",
-        "tags": [
-            "aplicaciones"
-        ],
-        "link": "https://www.20minutos.es/tecnologia/aplicaciones/que-es-photocall-tv-plataforma-ver-1000-canales-gratis-television-5239327/",
-        "date": "2024-07-28 05:43:01",
-        "sentiment_score": 0.07777951285243034
-    },
-    {
-        "title": "Lo que debes saber hoy, 28 de julio, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/05/28/ciutat-vella/858674151_13002599_1706x960.jpg?contentId=ESPIMA20240528_0027",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240728/lo-que-debes-saber-hoy-de-julio-barcelona/873912601_0.html",
-        "date": "2024-07-28 06:14:22",
-        "sentiment_score": 0.09447541832923889
-    },
-    {
-        "title": "Los supervivientes del naufragio del 'Argos Georgia' en Malvinas llegan este domingo a España",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/07/24/baiona-durante-el-minuto-de-silencio-al-tripulante-fallecido-del-argos-georgia.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2024/07/28/lsupervivientes-naufragio-argos-georgia-en-malvinas-llegan-este-domingo-a-espana-1751875.html",
-        "date": "2024-07-28 06:10:25",
-        "sentiment_score": -0.18110742047429085
-    },
-    {
-        "title": "El turismo encara los 100 millones de visitantes con el temor a morir de éxito",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b695ccb4-b0ee-4eb5-bc0c-0cf21ebc8227_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/economia/2024/07/28/turismo-encara-100-millones-visitantes-temor-morir-exito-106177431.html",
-        "date": "2024-07-28 06:08:47",
-        "sentiment_score": -0.3739718794822693
-    },
-    {
         "title": "La Guardia Civil aclara en sus redes sociales si es posible conducir con chanclas o no: “Sí, se puede, pero...”",
         "image_url": "https://www.infobae.com/resizer/v2/CUVYC2NI4ZBIDCZMK4IQJDWK4I.jpg?auth=2afb2f98a2a720f509756fbae3b63aeab4d6d8fec859d92fc9894fe8257d71f0",
         "tags": [
@@ -226,41 +176,6 @@ export default [
         "sentiment_score": -0.8666040189564228
     },
     {
-        "title": "J.D. Vance arremete contra Kamala Harris en Minnesota: Los medios de comunicación \"la presentan como Martin Luther King Jr.\" , pero es una \"liberal chiflada\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/jd-vance-trump-vicepresidente.jpg?quality=100&strip=info",
-        "tags": [
-            "jd vance",
-            "kamala harris",
-            "estados unidos noticias",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/28/jd-vance-agudiza-ataques-contra-harris-trax/",
-        "date": "2024-07-28 07:55:12",
-        "sentiment_score": -0.5805273950099945
-    },
-    {
-        "title": "El incendio de un parque en California es ahora más grande que el de Phoenix, mientras que en Canadá un incendio está abrasando uno de los parques nacionales más grandes",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/incendios-california.jpeg?quality=100&strip=info",
-        "tags": [
-            "california",
-            "incendios"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/28/incendio-parque-california-mas-grande-que-el-de-phoenix-mientras-canada-incendio-esta-abrasando-parques-nacionales-mas-grandes-trax/",
-        "date": "2024-07-28 07:32:34",
-        "sentiment_score": -0.8349276054650545
-    },
-    {
-        "title": "'Un punto de no retorno': por qué Europa se ha convertido en el epicentro de las protestas antiturismo este verano",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/joven-sostiene-cartel.webp",
-        "tags": [
-            "europa",
-            "turismo europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/28/por-que-europa-se-ha-convertido-en-el-epicentro-protestas-antiturismo-trax/",
-        "date": "2024-07-28 07:12:27",
-        "sentiment_score": -0.46413637325167656
-    },
-    {
         "title": "Datos clave de las elecciones de Venezuela",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/28/venezuel-R9ygpmkEzsAevkoZGepm9mK-758x531@diario_abc.JPG",
         "tags": [
@@ -289,26 +204,6 @@ export default [
         "link": "https://www.abc.es/internacional/maduro-vota-primera-hora-promete-respetar-resultados-20240728131859-nt.html",
         "date": "2024-07-28 11:19:52",
         "sentiment_score": -0.13679103553295135
-    },
-    {
-        "title": "El doner kebab, objeto de una disputa entre Turquía y Alemania que llega a la Comisión Europea",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/28/1484125070-ROH5vszm4dc0Ok6jtjHIV3K-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/doner-kebab-objeto-disputa-turquia-alemania-llega-20240728121806-nt.html",
-        "date": "2024-07-28 10:18:07",
-        "sentiment_score": -0.19397099316120148
-    },
-    {
-        "title": "De Pons a Kast, Vicente Fox o Tuto Quiroga: la lista de deportados por Maduro",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/28/1484150043-Rshaal8a5qHqYrRoBxhLuSN-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/pons-kast-vicente-fox-tuto-quiroga-lista-20240728105022-nt.html",
-        "date": "2024-07-28 08:53:04",
-        "sentiment_score": -0.14179761707782745
     },
     {
         "title": "Los supervivientes del pesquero hundido en Malvinas ya están en España",
@@ -7995,5 +7890,522 @@ export default [
         "link": "https://2001online.com/nacionales/edmundo-gonzalez-apoyo-comunidad-internacional/",
         "date": "2024-07-31 15:19:10",
         "sentiment_score": 0.5642726272344589
+    },
+    {
+        "title": "Jessica Vall: \"Muy contenta\" por haber llegado a la semifinal",
+        "image_url": "./assets/ai_generated/v1_txt2img_f3325fbb0ce446199ea2572a26677d0f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/jessica-vall-muy-contenta-por-haber-llegado-a-la-semifinal/",
+        "date": "2024-07-31 21:48:42",
+        "sentiment_score": 0.8808573447167873
+    },
+    {
+        "title": "El Córdoba se impone al Rayo Vallecano en los penaltis",
+        "image_url": "./assets/ai_generated/v1_txt2img_e64910c82b424cc18404513bad2a49d9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/el-cordoba-se-impone-al-rayo-vallecano-en-los-penaltis/",
+        "date": "2024-07-31 21:35:10",
+        "sentiment_score": 0.0054590702056884766
+    },
+    {
+        "title": "Dépor y Gil Vicente igualan sin goles",
+        "image_url": "./assets/ai_generated/v1_txt2img_6c79c240b9114c61ab27cfd438f52c53.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/depor-y-gil-vicente-igualan-sin-goles/",
+        "date": "2024-07-31 21:34:53",
+        "sentiment_score": -0.6142510622739792
+    },
+    {
+        "title": "Dínamo Kiev y Steaua, a la tercera ronda previa",
+        "image_url": "./assets/ai_generated/v1_txt2img_86110d3f7c5f4c748156cc959dc4244f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/dinamo-kiev-y-steaua-a-la-tercera-ronda-previa/",
+        "date": "2024-07-31 21:19:45",
+        "sentiment_score": 0.23541003465652466
+    },
+    {
+        "title": "Rodrygo se suma a la concentración del Real Madrid en Chicago",
+        "image_url": "./assets/ai_generated/v1_txt2img_c7b03c0194094de5aa9cc8c36f12ce39.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/rodrygo-se-suma-a-la-concentracion-del-real-madrid-en-chicago/",
+        "date": "2024-07-31 21:19:28",
+        "sentiment_score": 0.0279567651450634
+    },
+    {
+        "title": "2-0. El Sevilla gana al Granada en un amistoso a puerta cerrada",
+        "image_url": "./assets/ai_generated/v1_txt2img_8cd92c0555fb4896b72ddb4ab3755107.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/2-0-el-sevilla-gana-al-granada-en-un-amistoso-a-puerta-cerrada/",
+        "date": "2024-07-31 21:19:11",
+        "sentiment_score": 0.36601173132658005
+    },
+    {
+        "title": "Maica García admite que el equipo \"no está contento\" con el partido firmado ante Grecia",
+        "image_url": "./assets/ai_generated/v1_txt2img_57f00341aa8e472f94c1999a77864120.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/maica-garcia-admite-que-el-equipo-no-esta-contento-con-el-partido-firmado-ante-grecia/",
+        "date": "2024-07-31 21:18:53",
+        "sentiment_score": -0.7982436418533325
+    },
+    {
+        "title": "Encuentran un cadáver en Dos Hermanas que podría ser el de un hombre desaparecido en mayo",
+        "image_url": "./assets/ai_generated/v1_txt2img_9bb07b77622d44ba9457005d2ed59f94.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/encuentran-un-cadaver-en-dos-hermanas-que-podria-ser-el-de-un-hombre-desaparecido-en-mayo/",
+        "date": "2024-07-31 21:05:16",
+        "sentiment_score": -0.5025338754057884
+    },
+    {
+        "title": "Número ganador de la lotería 6/49 de este 31 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/AIHHFXAYHFCTTF3ZQKH2SA7UM4.jpg?auth=c66896556d93901d9ae5ffea54844f8b0df1cf6ceb2d47e150cd8d9e5838dd92",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/07/31/numero-ganador-de-la-loteria-649-de-este-31-de-julio/",
+        "date": "2024-07-31 21:00:23",
+        "sentiment_score": 0.46823830530047417
+    },
+    {
+        "title": "Meta gana 23.867 millones de euros en el primer semestre del año, un 91 % más",
+        "image_url": "./assets/ai_generated/v1_txt2img_83c615e24fff4f71bd399e333ccf9fa6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/07/31/meta-gana-23867-millones-de-euros-en-el-primer-semestre-del-ano-un-91-mas/",
+        "date": "2024-07-31 20:52:26",
+        "sentiment_score": 0.4296691454946995
+    },
+    {
+        "title": "Lo que puede pasar con los asilados en la embajada de Argentina en Venezuela tras la expulsión de diplomáticos ordenada por Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "argentina",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/31/asilados-embajada-argentina-venezuela-expulsion-diplomaticos-maduro-orix/",
+        "date": "2024-07-31 21:55:22",
+        "sentiment_score": -0.5749402679502964
+    },
+    {
+        "title": "Un padre y su hijo, ambos bomberos, perdieron su casa al intentar controlar incendio en California",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/video1483342864-00-00-43-22-imagen-fija013.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bomberos-padre-hijo-park-fire-california-ush-orix/",
+        "date": "2024-07-31 21:51:57",
+        "sentiment_score": -0.7893220335245132
+    },
+    {
+        "title": "Donald Trump sugiere falsamente que Kamala Harris \"se identificó como negra de repente\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/c-ap24213669270264.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "noticias de donald trump",
+            "elecciones ee.uu",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/31/donald-trump-sugiere-falsamente-kamala-harris-negra-trax/",
+        "date": "2024-07-31 21:27:09",
+        "sentiment_score": -0.6461808979511261
+    },
+    {
+        "title": "Boeing nombra a un nuevo CEO tras malos resultados",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1953489645-20240731212223803.jpg?quality=100&strip=info",
+        "tags": [
+            "boeing"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/boeing-nombra-nuevo-ceo-robert-kelly-ortbergun-cnn-dinero-tv/",
+        "date": "2024-07-31 21:26:05",
+        "sentiment_score": -0.8223264422267675
+    },
+    {
+        "title": "Spirit Airlines introduce asientos en clase ejecutiva",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/go-big-spirit.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/spirits-airlines-asientos-clase-ejecutiva-go-big-cnn-dinero-tv/",
+        "date": "2024-07-31 21:16:21",
+        "sentiment_score": 0.33113679476082325
+    },
+    {
+        "title": "¿Cómo mataron al líder de Hamas, Ismail Haniyeh?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-95423945-1.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "ismail haniyeh",
+            "conflicto israel y palestina",
+            "hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/asesinato-lider-hamas-ismail-haniyeh-israel-trax/",
+        "date": "2024-07-31 20:04:54",
+        "sentiment_score": -0.7543928185477853
+    },
+    {
+        "title": "ANÁLISIS | La muerte del líder de Hamas Ismail Haniyeh reduce las esperanzas de alto el fuego en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163792148.jpg?quality=100&strip=info",
+        "tags": [
+            "análisis",
+            "israel hamas gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/07/31/analisis-muerte-lider-hamas-haniyeh-esperanzas-alto-fuego-gaza-trax/",
+        "date": "2024-07-31 19:54:40",
+        "sentiment_score": -0.7491838708519936
+    },
+    {
+        "title": "Bombero lucha para apagar enormes llamas del incendio Park en California",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/thumb-bombero.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bombero-apagar-llamas-incendio-park-california-ush-orix/",
+        "date": "2024-07-31 19:50:26",
+        "sentiment_score": 0.0027470439672470093
+    },
+    {
+        "title": "Así liberaron a un lobo marino que había sido rescatado en el delta argentino",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/reinsercion-lobo-delta-00003.jpg?quality=100&strip=info",
+        "tags": [
+            "lobo marino",
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-lobo-marino-rescatado-delta-redaccion-buenos-aires-tv/",
+        "date": "2024-07-31 19:49:16",
+        "sentiment_score": -0.22742248326539993
+    },
+    {
+        "title": "Los países más visitados en 2023, según ONU Turismo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-1243346154.jpg?quality=100&strip=info",
+        "tags": [
+            "turismo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ranking-paises-mas-visitados-en-2023-onu-turismo-redaccion-buenos-aires-tv/",
+        "date": "2024-07-31 19:48:46",
+        "sentiment_score": 0.11421801336109638
+    },
+    {
+        "title": "La muerte del líder de Hamás en Teherán es un éxito para la Inteligencia israelí, no para la paz",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/31/palestina-haniyeh-U73464771666Ykj-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/muerte-lider-hamas-teheran-exito-inteligencia-israeli-20240731122107-nt.html",
+        "date": "2024-07-31 19:24:56",
+        "sentiment_score": -0.1069062352180481
+    },
+    {
+        "title": "María Corina Machado vive sus horas más arduas señalada por la dictadura chavista",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/07/31/machado-RttlANSbCuf0r0LsOhA3dbJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/maria-corina-machado-vive-horas-arduas-senalada-20240731205826-nt.html",
+        "date": "2024-07-31 19:00:32",
+        "sentiment_score": -0.11610782146453857
+    },
+    {
+        "title": "La traición de Montero",
+        "image_url": "./assets/ai_generated/v1_txt2img_5be6e442c531485e918f0518812dde0e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-traicion-montero-20240801172035-nts.html",
+        "date": "2024-07-31 18:45:23",
+        "sentiment_score": -0.09282582998275757
+    },
+    {
+        "title": "Jerez sin fronteras",
+        "image_url": "./assets/ai_generated/v1_txt2img_6d9cf2af4ac447bfb5f0c287d08a4f20.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-jerez-fronteras-20240801204437-nts.html",
+        "date": "2024-07-31 18:44:38",
+        "sentiment_score": -0.007387638092041016
+    },
+    {
+        "title": "La Reserva Federal mantiene los tipos entre el 5,25% y el 5,5% por octava reunión consecutiva",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/31/JeromePowell-ktUE-U602909321997SpE-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/reserva-federal-mantiene-tipos-525-octava-reunion-20240731201847-nt.html",
+        "date": "2024-07-31 18:27:50",
+        "sentiment_score": -0.07455210387706757
+    },
+    {
+        "title": "Españolear",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/01/1473183080-U62823413742lJe-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-espanolear-20240801125946-nt.html",
+        "date": "2024-07-31 17:20:55",
+        "sentiment_score": -0.060916781425476074
+    },
+    {
+        "title": "Una izquierda antidemocrática",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/01/1484376417-U64170670557ykq-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-izquierda-antidemocratica-20240801192002-nt.html",
+        "date": "2024-07-31 17:20:02",
+        "sentiment_score": -0.15244682133197784
+    },
+    {
+        "title": "Hemos matado a Haniya",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/01/1484373637_20240731124559-U80441874342aoT-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-matado-haniya-20240801191948-nt.html",
+        "date": "2024-07-31 17:19:48",
+        "sentiment_score": -0.1296239197254181
+    },
+    {
+        "title": "Zapatero, ojalá sea por dinero",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/01/1431256664-U25668884887zvI-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/agustin-pery-zapatero-ojala-dinero-20240801191934-nt.html",
+        "date": "2024-07-31 17:19:34",
+        "sentiment_score": -0.11684170365333557
+    },
+    {
+        "title": "Del 'no caso' al ocaso",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/01/1484378542-U12480061550xKF-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alberto-garcia-reyes-ocaso-20240801191918-nt.html",
+        "date": "2024-07-31 17:19:19",
+        "sentiment_score": -0.04801890254020691
+    },
+    {
+        "title": "La Audiencia de Cádiz condena a 28 años a un narco por atropellar a un policía en Algeciras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HA2RFTSJKJEELBL7P3WLK4RNXA.jpeg?auth=1a4e1d1ed39247dc78bb3c7e6d7c843185c5edd1f5fe5e5c32358984c3beab40",
+        "tags": [
+            "narcotráfico",
+            "algeciras",
+            "andalucía",
+            "ap cádiz",
+            "policía",
+            "provincia cádiz",
+            "españa",
+            "narcotraficantes",
+            "sentencias condenatorias",
+            "estrecho gibraltar"
+        ],
+        "link": "https://elpais.com/espana/2024-07-31/la-audiencia-de-cadiz-condena-a-28-anos-a-un-narco-por-atropellar-a-un-policia-en-algeciras.html",
+        "date": "2024-07-31 17:46:12",
+        "sentiment_score": -0.7382270991802216
+    },
+    {
+        "title": "Tenso desalojo de un bloque de 14 viviendas ‘okupadas’ en Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BQM5LK34RFFOJCQWGW2IRXDORE.jfif?auth=52da1443b9d5a9e6038aad9ce135288230c267061efc482d755ae2d9909f06cd",
+        "tags": [
+            "vecinos",
+            "okupas",
+            "policía nacional",
+            "comunidad valenciana",
+            "vivienda",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-31/tenso-desalojo-de-un-bloque-de-14-viviendas-okupadas-en-valencia.html",
+        "date": "2024-07-31 17:41:51",
+        "sentiment_score": -0.8751758337020874
+    },
+    {
+        "title": "Habló como nadie del amor y de política, abandonó a su hija y no se sabe si murió o lo asesinaron: las mil caras de Pablo Neruda",
+        "image_url": "https://www.infobae.com/resizer/v2/WQRUECLOPBACBPQ4GGCBXSCDSM.jpg?auth=86910edfd7c753e86f2ee99b331d9cd90e290bec706fe853129f7e38dccb5d85",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/leamos/2023/09/07/hablo-como-nadie-del-amor-y-de-politica-abandono-a-su-hija-y-no-se-sabe-si-murio-o-lo-asesinaron-las-mil-caras-de-pablo-neruda/",
+        "date": "2024-07-31 22:04:35",
+        "sentiment_score": 0.466937854886055
+    },
+    {
+        "title": "Laporta fracasa con los grandes fichajes del Barça para salir de la crisis",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/06/12/culemania/palco/862423870_13085169_1706x960.jpg?contentId=ESPIMA20240612_0121",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240801/laporta-fracasa-grandes-fichajes-barca-salir-crisis/874662588_0.html",
+        "date": "2024-07-31 22:03:29",
+        "sentiment_score": 0.6875349953770638
+    },
+    {
+        "title": "De Tito Vilanova a Albert Sánchez: los segundos entrenadores del Barça que han tomado el mando",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/02/17/culemania/culemaniacos/culemaniacos_11758994_491884_1706x960.jpg?contentId=ESPIMA20150217_0170",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20240801/de-tito-vilanova-albert-sanchez-entrenadores-barca/874662604_0.html",
+        "date": "2024-07-31 22:02:40",
+        "sentiment_score": 0.06972421891987324
+    },
+    {
+        "title": "Revelan la millonaria pensión que Cristiano Ronaldo tendría que pagar si se separa de Georgina",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/07/31/2024073123532283327.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/divorcio-vista-revelan-millonaria-pension-que-cristiano-tendria-que-pagar-separa-georgina/20240731235357314634.html",
+        "date": "2024-07-31 21:53:57",
+        "sentiment_score": 0.2983077336102724
+    },
+    {
+        "title": "Rodrygo se suma a la concentración del Madrid en Chicago",
+        "image_url": "./assets/ai_generated/v1_txt2img_840d42696a684516a187946459fc7edc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/07/31/rodrygo-se-suma-a-la-concentracion-del-madrid-en-chicago/",
+        "date": "2024-07-31 21:16:29",
+        "sentiment_score": 0.019198104739189148
+    },
+    {
+        "title": "Fiscalía ocupó nueve inmuebles con fines de extensión de dominio: eran usados para abusar y drogar menores de edad",
+        "image_url": "https://www.infobae.com/resizer/v2/3GGHGG4C2NGTNMQ5DREJHKEFHM.jpg?auth=306abbb6b1f73a0ca17ca1e57072fdc23f81f5f5f0b958cfb3421e4039a0b582",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/07/31/fiscalia-ocupo-nueve-inmuebles-con-fines-de-extension-de-dominio-eran-usados-para-abusar-y-drogar-menores-de-edad/",
+        "date": "2024-07-31 21:09:02",
+        "sentiment_score": -0.9075892250984907
+    },
+    {
+        "title": "Día de la Pachamama: así es como se celebra esta fecha en los Andes del Perú",
+        "image_url": "https://www.infobae.com/resizer/v2/LZFX4NVRRRDH5DINU4SXXXFJUA.jpg?auth=30523c0e4406079645ed6c4542cf11c4ab1738f9dd087335ac8a2a849822fb7e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/07/31/dia-de-la-pachamama-asi-es-como-se-celebra-esta-fecha-en-los-andes-del-peru/",
+        "date": "2024-07-31 21:08:54",
+        "sentiment_score": 0.7442387659102678
+    },
+    {
+        "title": "“A Christian Cueva ya no le interesa el fútbol”, la dura crítica de Mauricio Loret de Mola tras salida nocturna de ‘Aladino’",
+        "image_url": "https://www.infobae.com/resizer/v2/QLEX6TEJWFCV5FVHO3OHRMSTKA.jfif?auth=40feb9b8ba6411bf77ba5b56039541b77ce56e79866d2a715fc5323911a55421",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2024/07/31/a-christian-cueva-ya-no-le-interesa-el-futbol-la-dura-critica-de-mauricio-loret-de-mola-tras-salida-nocturna-de-aladino/",
+        "date": "2024-07-31 21:04:31",
+        "sentiment_score": -0.018599573522806168
+    },
+    {
+        "title": "Mbappé se aventura como dueño de club; su compañía compra el Caen de 2da división",
+        "image_url": "./assets/ai_generated/v1_txt2img_5a394aa8ec8e42e0b73c9a60de6c5930.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-07-31/mbappe-se-aventura-como-dueno-de-club-su-compania-compra-el-caen-de-2da-division",
+        "date": "2024-07-31 21:03:57",
+        "sentiment_score": 0.7325947768986225
+    },
+    {
+        "title": "La tecnología contra el cáncer de Amancio Ortega llega a la sanidad pública madrileña desde un búnker en Fuenlabrada",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/07/31/17224438393196.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/08/01/66aa6a10e9cf4a7f778b4574.html",
+        "date": "2024-07-31 22:15:33",
+        "sentiment_score": 0.5305614843964577
+    },
+    {
+        "title": "El abandono del legado de Miguel Berrocal: \"No tenemos un solo apoyo para su conservación\"",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/07/24/17218254440799.jpg",
+        "tags": [
+            "arte",
+            "cultura",
+            "málaga",
+            "andalucía"
+        ],
+        "link": "https://www.elmundo.es/la-lectura/2024/08/01/66a0fa55fdddff39bd8b4577.html",
+        "date": "2024-07-31 22:14:50",
+        "sentiment_score": -0.9259154228493571
+    },
+    {
+        "title": "El chavismo pone en la mira a Machado y González apuntando a su detención",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/07/31/66aa949e6b954.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20240801/9845103/chavismo-pone-mira-machado-gonzalez-apuntando-detencion.html",
+        "date": "2024-07-31 22:00:00",
+        "sentiment_score": -0.7269689030945301
+    },
+    {
+        "title": "De Seat al Cruïlla, las subvenciones del Gobierno a las empresas catalanas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/31/business/874672620_13292993_1706x960.jpg?contentId=ESPIMA20240731_0096",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240801/de-seat-cruilla-las-subvenciones-gobierno-catalanas/874662637_0.html",
+        "date": "2024-07-31 22:00:00",
+        "sentiment_score": 0.3633551821112633
+    },
+    {
+        "title": "Revuelo en el bar del Parlament",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/10/11/pensamiento/zona-franca/801180125_8969059_1706x960.jpg?contentId=ESPIMA20231011_0251",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20240801/revuelo-en-el-bar-del-parlament/874792517_13.html",
+        "date": "2024-07-31 22:00:00",
+        "sentiment_score": -0.572431780397892
+    },
+    {
+        "title": "Los herederos de Agustí Centelles negocian con el Ministerio de Cultura la venta de su exposición ‘top’",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/31/creacion/874672631_13293318_1706x960.jpg?contentId=ESPIMA20240731_0107",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20240801/los-de-agusti-centelles-ministerio-cultura-exposicion/874662642_0.html",
+        "date": "2024-07-31 22:00:00",
+        "sentiment_score": -0.8590197302401066
+    },
+    {
+        "title": "El Barça se lanza a por la alternativa de Nico Williams; Deco deja escapar otro mediocentro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/17/culemania/primer-equipo/871173027_13240705_1706x960.jpg?contentId=ESPIMA20240717_0153",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240731/el-barca-alternativa-nico-williams-deco-mediocentro/874662656_0.html",
+        "date": "2024-07-31 21:43:57",
+        "sentiment_score": -0.4689396172761917
+    },
+    {
+        "title": "El Ayuntamiento de Barcelona precinta el bar 4 Latas Diagonal",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/07/30/sarria-sant-gervasi/874422635_13288640_1706x960.jpg?contentId=ESPIMA20240730_0086",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sarria-sant-gervasi/20240731/el-ayuntamiento-de-barcelona-precinta-el-bar-latas-diagonal/874412617_0.html",
+        "date": "2024-07-31 21:30:46",
+        "sentiment_score": -0.7736488040536642
     }
 ];
