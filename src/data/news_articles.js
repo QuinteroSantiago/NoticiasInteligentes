@@ -273,46 +273,6 @@ export default [
         "sentiment_score": -0.08680960536003113
     },
     {
-        "title": "ACS gana 416 millones en el primer semestre, un 8,1% más, y nombra a Isidro Fainé vicepresidente primero",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/30/1481695398-RxtBasBkJW6NBGZVJeMJkGN-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/acs-gana-416-millones-primer-semestre-nombra-20240730160114-nt.html",
-        "date": "2024-07-30 14:16:39",
-        "sentiment_score": -0.06461504101753235
-    },
-    {
-        "title": "Suplementos de vitamina D: Cuándo y por qué tomarlos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/07/30/VitaminaD-R00qObJOB6RhcwAELnLJJLP-758x531@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/suplementos-vitamina-tomarlos-20240730143014-nt.html",
-        "date": "2024-07-30 12:30:15",
-        "sentiment_score": -0.12170249223709106
-    },
-    {
-        "title": "Alemania vuelve al borde de la recesión",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/30/scholz-R5jqvyiiiaV3PCUzlWze4wM-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/alemania-vuelve-borde-recesion-20240730140645-nt.html",
-        "date": "2024-07-30 12:06:46",
-        "sentiment_score": -0.13753388822078705
-    },
-    {
-        "title": "Los inspectores de Hacienda califican de «barbarie» el acuerdo sobre el 'cupo catalán'",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/07/30/1484296396-R4INqYKEEK1GN4sPB2YTdSN-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/inspectores-tecnicos-agencia-tributaria-avisan-cupo-catalan-20240730130854-nt.html",
-        "date": "2024-07-30 11:46:46",
-        "sentiment_score": -0.08845114707946777
-    },
-    {
         "title": "Esquerra evita mencionar a Salvador Illa en la pregunta de la consulta a las bases sobre la investidura",
         "image_url": "https://imagenes.elpais.com/resizer/v2/32L2ZYLECVE4JKS36FR6DX4S3A.jpg?auth=fbcb1c41b6819c4d08b9aeed8c6d9bde64841febd0032fb5a080b24fe9b60827",
         "tags": [
@@ -366,136 +326,6 @@ export default [
         "link": "https://elpais.com/espana/2024-07-30/el-rey-recibe-a-sanchez-en-palma-horas-despues-de-la-querella-contra-el-juez-del-caso-de-begona-gomez.html",
         "date": "2024-07-30 15:41:06",
         "sentiment_score": 0.09902295470237732
-    },
-    {
-        "title": "Los Gobiernos autonómicos del PP batallarán en los tribunales contra el “golpe de Estado fiscal” de Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AJHIK5KFZZVXSEGJ6ETGBMKP5Q.jpg?auth=ad7ad7ca4df47010e4270be7b6605d7744c3c8865f3a6ed2973d3c934359770e",
-        "tags": [
-            "región de murcia",
-            "españa",
-            "cataluña",
-            "alberto núñez feijóo",
-            "concierto económico",
-            "pp",
-            "generalitat cataluña",
-            "galicia",
-            "comunidad valenciana",
-            "financiación autonómica",
-            "andalucía"
-        ],
-        "link": "https://elpais.com/espana/2024-07-30/los-gobiernos-autonomicos-del-pp-batallaran-en-los-tribunales-contra-el-golpe-de-estado-fiscal-de-cataluna.html",
-        "date": "2024-07-30 14:05:40",
-        "sentiment_score": -0.8001251015812159
-    },
-    {
-        "title": "Libertad con medidas cautelares para los seis acusados erróneamente del asesinato de dos guardias civiles en Barbate",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SMUPRTXVLVCXZAHP7AFZBM7HCU.jpg?auth=492aabd4333e5be3fb8c556cf04242cc61d5910712db65a95be2352807a574c6",
-        "tags": [
-            "asesinatos",
-            "españa",
-            "narcotráfico",
-            "ministerio del interior",
-            "cádiz",
-            "barbate",
-            "guardia civil",
-            "investigación judicial",
-            "narcotraficantes"
-        ],
-        "link": "https://elpais.com/espana/2024-07-30/libertad-con-medidas-cautelares-para-los-seis-acusados-erroneamente-del-asesinato-de-dos-guardias-civiles-en-barbate.html",
-        "date": "2024-07-30 13:55:24",
-        "sentiment_score": -0.8544614054262638
-    },
-    {
-        "title": "El Poder Judicial no logra elegir a un presidente y se emplaza a una nueva reunión el miércoles",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YE3C7MSHLVCYJBKHNCG5CQ6ZUY.jpg?auth=8869eb71f99a55ac202a85b54bb8b72e80ad9dfd8c20a6de6e3ec1b00a61c75f",
-        "tags": [
-            "cgpj",
-            "tribunal supremo",
-            "pp",
-            "gobierno",
-            "senado",
-            "justicia",
-            "españa",
-            "jueces",
-            "congreso diputados",
-            "poder judicial",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/2024-07-30/el-poder-judicial-no-logra-elegir-a-un-presidente-y-se-emplaza-a-una-nueva-reunion-el-miercoles.html",
-        "date": "2024-07-30 12:50:13",
-        "sentiment_score": -0.3251553252339363
-    },
-    {
-        "title": "El exvicealcalde de Valencia Alfonso Grau, condenado a cuatro años y medio de prisión por financiación irregular del PP",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7IPUQQCHJY6BOTGYXCEBEWGUZU.jpg?auth=b39ba2f6ac6688d3876b2ea8be2e88048c673f32a500b636516c2c2a47116349",
-        "tags": [
-            "comunidad valenciana",
-            "corrupción",
-            "ppcv",
-            "alfonso grau",
-            "rita barberá",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-30/el-exvicealcalde-de-valencia-alfonso-grau-condenado-a-cuatro-anos-y-medio-de-prision-por-financiacion-ilegal-del-pp.html",
-        "date": "2024-07-30 12:17:33",
-        "sentiment_score": -0.7915294300764799
-    },
-    {
-        "title": "El texto del pacto entre PSC y ERC: la financiación se cerrará en la primera mitad de 2025",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NJD7P2M6GBKKE2Y2G6JCHDIAXQ.jpg?auth=0173850ff8426024ae8199ebc1afd613e40c87947b124a725939de4cebaf3794",
-        "tags": [
-            "erc",
-            "investidura parlamentaria",
-            "psoe",
-            "marta rovira i vergés",
-            "cataluña",
-            "psc",
-            "salvador illa",
-            "pedro sánchez",
-            "financiación",
-            "comunidades autónomas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-30/el-texto-del-pacto-entre-psc-y-erc-la-financiacion-se-cerrara-en-la-primera-mitad-de-2025.html",
-        "date": "2024-07-30 11:45:11",
-        "sentiment_score": -0.091420978307724
-    },
-    {
-        "title": "Tráfico prevé 3,1 millones de desplazamientos en el inicio de agosto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZRHG6HRQZJZNGE6XT7TNNSOZ3A.jpg?auth=b12936c8d844ba5e9f7aabeea2be3b435d1c959a79e2f944dd6d3f63c08de1ec",
-        "tags": [
-            "dgt",
-            "carreteras",
-            "guardia civil",
-            "autovías",
-            "autopistas",
-            "movilidad urbana",
-            "accidentes tráfico",
-            "víctimas",
-            "españa",
-            "ministerio del interior"
-        ],
-        "link": "https://elpais.com/espana/2024-07-30/trafico-preve-31-millones-de-desplazamientos-en-el-inicio-de-agosto.html",
-        "date": "2024-07-30 10:53:00",
-        "sentiment_score": -0.6032233573496342
-    },
-    {
-        "title": "La orden de la productora de Nacho Cano a los supuestos becados: “No mencionen en inmigración que van a estudiar”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WIW56I2DIZDMXFSRW7YJSTKQSQ.jpg?auth=41d8edd24fe1b6b6ed71664a20fc2710e7874d95bc23475f828e5709df270edc",
-        "tags": [
-            "detenciones",
-            "nacho cano",
-            "bailarines",
-            "investigación policial",
-            "policía",
-            "comunidad de madrid",
-            "inmigración irregular",
-            "malinche entertainment",
-            "madrid",
-            "musicales"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-07-30/la-orden-de-la-productora-de-nacho-cano-a-los-supuestos-becados-no-mencionen-en-inmigracion-que-van-a-estudiar.html",
-        "date": "2024-07-30 10:31:10",
-        "sentiment_score": -0.8662973726168275
     },
     {
         "title": "Augusto Lima se convierte en el primer fichaje de Básquet Coruña",
@@ -589,16 +419,6 @@ export default [
         "link": "https://www.diariovasco.com/real-sociedad/gobierno-vasco-multa-real-sociedad-vender-entradas-20240730162645-nt.html",
         "date": "2024-07-30 14:26:45",
         "sentiment_score": -0.87256018538028
-    },
-    {
-        "title": "La Policía Nacional libera a 32 víctimas de trata y desarticula una organización criminal",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/30/la-policia-ha-intervenido-dinero-en-efectivo-un-arma-de-fuego-con-municion-y-diversas-sustancias-estupefacientes.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5536559/0/cae-una-organizacion-que-exploto-sexualmente-600-mujeres-madrid-malaga-toledo/",
-        "date": "2024-07-30 14:22:19",
-        "sentiment_score": -0.39149054139852524
     },
     {
         "title": "Desalojada una ‘rave’ con casi 200 personas en una nave industrial abandonada de Barcelona",
@@ -8663,5 +8483,522 @@ export default [
         "link": "https://2001online.com/servicios/asi-puedes-registrar-un-vehiculo-importado-en-el-intt-requisitos/",
         "date": "2024-08-02 19:30:00",
         "sentiment_score": -0.018940523266792297
+    },
+    {
+        "title": "Pronóstico del estado del tiempo en Málaga para este 3 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/WML2VGYLGBF7ZDFQSNVOAYXLLU.jpg?auth=abff81de74a1d38e9ae8f67caf97e1b0a860f6166056e6c51f44ca23a0ff5295",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/03/pronostico-del-estado-del-tiempo-en-malaga-para-este-3-de-agosto/",
+        "date": "2024-08-03 02:03:08",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Previsión meteorológica del clima en Madrid para este 3 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/PLZDLSIE5RE6DAPOIU53NWY27Q.jpg?auth=5d8abcb6582fe1a290fb8299e70b69014666d5694dbf1ba0dbb8519db03b3d57",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/03/prevision-meteorologica-del-clima-en-madrid-para-este-3-de-agosto/",
+        "date": "2024-08-03 01:32:52",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Disney+: Así quedo el top de las mejores películas de la plataforma en España",
+        "image_url": "https://www.infobae.com/resizer/v2/3N7HENENNNHBRMNJNH27QWJU5Y.jpg?auth=3470f0922cfa918b08b5dfdbcd4004c190f06bdb87066578f3417e9475aab285",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/03/disney-asi-quedo-el-top-de-las-mejores-peliculas-de-la-plataforma-en-espana/",
+        "date": "2024-08-03 01:32:02",
+        "sentiment_score": 0.6659733280539513
+    },
+    {
+        "title": "Estas son las películas que están de moda en Netflix España este día",
+        "image_url": "https://www.infobae.com/resizer/v2/ZFUBTU3ZHNEXLEQBDME3ZOQOVE.jpg?auth=f25a3d69d062f20532a9fc9581c137c8f11c0750e8234d0ffe735b8ef6811952",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/03/estas-son-las-peliculas-que-estan-de-moda-en-netflix-espana-este-dia/",
+        "date": "2024-08-03 01:31:21",
+        "sentiment_score": 0.5289311408996582
+    },
+    {
+        "title": "Barcelona: el pronóstico del tiempo para este 3 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/ZWII5LVOXJHMJBSANF2FCYUXMQ.jpg?auth=3eed1899ca2a974607b18b9f87c64fd3cbfe6bd9f6591d42a3ceffaed1fe6ed9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/03/barcelona-el-pronostico-del-tiempo-para-este-3-de-agosto/",
+        "date": "2024-08-03 01:01:06",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Fallece el conductor de un vehículo al caer a un arroyo seco en Villacarrillo (Jaén)",
+        "image_url": "./assets/ai_generated/v1_txt2img_e8bd16f98c9848efb2b65923865c580f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/03/fallece-el-conductor-de-un-vehiculo-al-caer-a-un-arroyo-seco-en-villacarrillo-jaen/",
+        "date": "2024-08-03 00:31:42",
+        "sentiment_score": -0.8377223443239927
+    },
+    {
+        "title": "Así fueron las \"minuciosas\" negociaciones que llevaron al mayor intercambio de prisioneros desde la Guerra Fría",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/prisioneros-rusia-intercambio.jpeg?quality=100&strip=info",
+        "tags": [
+            "alexey navalny",
+            "prisioneros",
+            "rusia",
+            "paul whelan",
+            "evan gershkovich"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/02/intercambio-guerra-fria-prisioneros-rusia-eeuu-trax/",
+        "date": "2024-08-03 02:20:41",
+        "sentiment_score": -0.22619764506816864
+    },
+    {
+        "title": "Abogado explica las posibles consecuencias para Edmundo González por no asistir a cita en el TSJ",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164475846.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-desacato-tsj-actas-audiencia-firma-maduro-conclusiones-tv/",
+        "date": "2024-08-03 02:17:02",
+        "sentiment_score": -0.5281486734747887
+    },
+    {
+        "title": "Fernando del Rincón le contesta a Jorge Rodríguez tras la manipulación de un video",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20839663-146273-still.jpg?quality=100&strip=info",
+        "tags": [
+            "fernando del rincón",
+            "elecciones venezuela",
+            "venezuela",
+            "jorge rodríguez"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-video-manipulado-asamblea-elecciones-fernando-conclusiones-tv/",
+        "date": "2024-08-03 02:16:07",
+        "sentiment_score": -0.442281074821949
+    },
+    {
+        "title": "Una familiar de rehenes israelíes habla de su “peor temor” tras la muerte del líder político de Hamas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/image-20240731205101142-20240803014418313.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muerte-lider-hamas-rehenes-israel-trax/",
+        "date": "2024-08-03 01:46:18",
+        "sentiment_score": -0.7249452564865351
+    },
+    {
+        "title": "¿Es realmente imparcial el TSJ de Venezuela en el proceso electoral?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20834522-15380-667000000001-still-20240803012934023.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tsj-imparcialidad-elecciones-venezuela-cne-panorama-mundial-tv/",
+        "date": "2024-08-03 01:36:22",
+        "sentiment_score": -0.12420579791069031
+    },
+    {
+        "title": "Tribunal Supremo de Venezuela pide al CNE que entregue las actas de votación",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20834522-21181-39-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tsj-venezuela-cne-entrega-actas-elecciones-28-julio-panorama-mundial-tv/",
+        "date": "2024-08-03 01:35:34",
+        "sentiment_score": -0.056766681373119354
+    },
+    {
+        "title": "Boric confirma detención y deportación de 2 periodistas chilenos en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2161823435-e1721838826315.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "chile",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/02/boric-confirma-detencion-deportacion-periodistas-chilenos-venezuela-orix/",
+        "date": "2024-08-03 01:12:58",
+        "sentiment_score": -0.5052089728415012
+    },
+    {
+        "title": "Nicolás Maduro aclara la expresión“baño de sangre” y acusa manipulación",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/46547653-02023994-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nicolas-maduro-bano-de-sangre-elecciones-venezuela/",
+        "date": "2024-08-03 00:58:11",
+        "sentiment_score": -0.4071425795555115
+    },
+    {
+        "title": "La oposición en Venezuela consiguió más del 80% de las actas de escrutinio. Así es como lo hicieron",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/machado-gonzalez-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/02/como-oposicion-venezolana-consiguio-actas-escrutinio-ap/",
+        "date": "2024-08-03 00:54:53",
+        "sentiment_score": -0.36977098882198334
+    },
+    {
+        "title": "Maduro dice que “manipularon” sus declaraciones sobre un posible “baño de sangre” en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/nicolas-maduro.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/02/maduro-manipularon-declaraciones-bano-de-sangre-venezuela-orix/",
+        "date": "2024-08-03 00:41:28",
+        "sentiment_score": -0.4473622255027294
+    },
+    {
+        "title": "Las sombras del fraude en las elecciones de Venezuela: «Creo no equivocarme si digo que Maduro nunca ha ganado unas elecciones»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/02/1484363994-REMOYrhELPQ8q2SEoe1VILM-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/sombras-fraude-elecciones-venezuela-20240802152009-nt.html",
+        "date": "2024-08-03 02:08:21",
+        "sentiment_score": -0.8596663437783718
+    },
+    {
+        "title": "La atunera Fuentes, patrocinadora olímpica, investigada por delitos contra la salud pública",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/03/fotocoe-RMlDxRjxHkNsrnhWtqBN09I-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/atunera-fuentes-patrocinadora-olimpica-investigada-delitos-salud-20240803195726-nt.html",
+        "date": "2024-08-03 02:05:35",
+        "sentiment_score": -0.042405396699905396
+    },
+    {
+        "title": "Angustia a las puertas de la Zona 7, el centro de detención de los venezolanos que protestan contra el chavismo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/02/zona-siete-Rb7jS8R8yiFtl6ynMRglSKP-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/angustia-puertas-zona-centro-detencion-venezolanos-protestan-20240802201212-nt.html",
+        "date": "2024-08-03 02:03:14",
+        "sentiment_score": -0.13244831562042236
+    },
+    {
+        "title": "La SEPI sobrevuela Air Europa, que tendrá que idear un plan para los acreedores",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/03/1472665846-RXHwT7npoJZPaCfjcSldESK-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sepi-sobrevuela-air-europa-idear-plan-acreedores-20240803035957-nt.html",
+        "date": "2024-08-03 01:59:58",
+        "sentiment_score": -0.11966530978679657
+    },
+    {
+        "title": "Ángel de la Fuente (Fedea): «El cupo catalán afectará a la sanidad de algunas comunidades»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/portada_javier_zaragoza-469x317.jpg",
+        "tags": [
+            "carles puigdemont",
+            "política",
+            "gobierno de españa",
+            "pedro sánchez",
+            "erc (esquerra republicana de catalunya)",
+            "españa",
+            "economía"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-08-03/angel-de-la-fuente-fedea-cupo-catalan/",
+        "date": "2024-08-03 01:30:00",
+        "sentiment_score": 0.19504546374082565
+    },
+    {
+        "title": "Europa ante el reto de la inteligencia artificial",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/05/comusion-europea-IA-e1715963729482-469x317.jpeg",
+        "tags": [
+            "china",
+            "estados unidos",
+            "innovación",
+            "tecnología",
+            "consejo de europa",
+            "inversión",
+            "inteligencia artificial",
+            "unión europea",
+            "empresas",
+            "siglo xxi",
+            "tecnología digital",
+            "hannah arendt",
+            "comisión europea",
+            "ocde"
+        ],
+        "link": "https://theobjective.com/tecnologia/2024-08-03/europa-ante-el-reto-de-la-inteligencia-artificial/",
+        "date": "2024-08-03 01:30:00",
+        "sentiment_score": 0.2076355442404747
+    },
+    {
+        "title": "El 'baby Barça' de Flick rescata la rivalidad de los mejores clásicos: cantera contra cartera",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/03/culemania/primer-equipo/875422452_13301827_1706x960.jpg?contentId=ESPIMA20240803_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240803/el-barca-de-flick-rescata-rivalidad-clasicos/875412451_0.html",
+        "date": "2024-08-03 01:26:58",
+        "sentiment_score": -0.19154402613639832
+    },
+    {
+        "title": "Todo sobre el rechazo de Barbón al pacto en Cataluña: conversaciones con la Ministra, la vía judicial y lo que votarán los diputados asturianos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8a3dcac-0ae6-4316-b3aa-5b1cafa6678b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/08/03/rechazo-barbon-pacto-cataluna-conversaciones-106486144.html",
+        "date": "2024-08-03 01:18:40",
+        "sentiment_score": -0.44547073543071747
+    },
+    {
+        "title": "Temas del día de EFE Internacional del 2 de agosto de 2024 (24:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_8868e96d38a949a99218c7d24ea46266.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/03/temas-del-dia-de-efe-internacional-del-2-de-agosto-de-2024-2400-gmt/",
+        "date": "2024-08-03 00:15:49",
+        "sentiment_score": -0.0054944418370723724
+    },
+    {
+        "title": "Así es la Fiesta de la Trashumancia que se celebra en este pueblo de Madrid: recorrido y actividades",
+        "image_url": "https://s1.elespanol.com/2024/08/02/madrid/ocio/875172768_248230570_1706x960.jpg?contentId=ESPIMA20240802_0294",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20240803/fiesta-trashumancia-celebra-pueblo-madrid-recorrido-actividades/874912921_0.html",
+        "date": "2024-08-03 00:00:09",
+        "sentiment_score": -0.21001487225294113
+    },
+    {
+        "title": "Ancelotti considera que el Real Madrid será el último club al que dirija",
+        "image_url": "./assets/ai_generated/v1_txt2img_e1f3e34fdf23461c9cb78fb4aea8a6dd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-08-02/ancelotti-considera-que-el-real-madrid-sera-el-ultimo-club-al-que-dirija",
+        "date": "2024-08-02 23:52:34",
+        "sentiment_score": -0.38641394674777985
+    },
+    {
+        "title": "Metabar, la máquina española que sirve cerveza fría en segundos para acabar con las largas colas en los festivales",
+        "image_url": "https://s1.elespanol.com/2024/08/02/omicrono/tecnologia/875172484_248221758_1706x960.png?contentId=ESPIMA20240802_0010",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20240803/metabar-maquina-espanola-sirve-cerveza-fria-segundos-acabar-largas-colas-festivales/874162736_0.html",
+        "date": "2024-08-02 23:22:53",
+        "sentiment_score": 0.3539879396557808
+    },
+    {
+        "title": "El museo de las curiosidades",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/06/20/1_Megaterio-kslE--758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/diplodocus-meteoritos-tiburones-crea-museo-20240620010007-nt.html",
+        "date": "2024-08-02 23:00:08",
+        "sentiment_score": 0.00018024444580078125
+    },
+    {
+        "title": "El emérito Juan Carlos cumple cuatro años en Abu Dabi: más viajes a España, pero sin visos de regresar de forma definitiva",
+        "image_url": "https://s1.elespanol.com/2024/08/02/corazon/casas-reales/875172842_248232874_1706x960.jpg?contentId=ESPIMA20240802_0368",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20240803/emerito-juan-carlos-cumple-anos-abu-dabi-viajes-espana-sin-visos-regresar-forma-definitiva/875162592_0.html",
+        "date": "2024-08-02 22:56:54",
+        "sentiment_score": -0.23818527534604073
+    },
+    {
+        "title": "Josep Portella, viatge musical des des Migjorn Gran fins a Hong Kong",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2942965.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2024/08/03/2216463/josep-portella-viatge-musical-des-des-migjorn-gran-fins-hong-kong.html",
+        "date": "2024-08-03 02:00:01",
+        "sentiment_score": -0.20139767229557037
+    },
+    {
+        "title": "La Generalitat blinda el uso del catalán en la Sanidad antes de que llegue Illa",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/05/catalan-sanidad.jpg",
+        "tags": [
+            "sanidad",
+            "govern cataluña",
+            "médicos",
+            "cataluña",
+            "catalán",
+            "pere aragonès",
+            "sanitarios",
+            "generalitat"
+        ],
+        "link": "https://theobjective.com/sanidad/2024-08-03/generalitat-blinda-catalan-sanidad/",
+        "date": "2024-08-03 01:30:00",
+        "sentiment_score": -0.6086163967847824
+    },
+    {
+        "title": "Colombia no ha sumado medallas en París 2024: se acerca a su peor presentación en 30 años de los Juegos Olímpicos",
+        "image_url": "https://www.infobae.com/resizer/v2/CI3O5IQLJFSQ4FUAWJW4IVHGWA.jpg?auth=4f94e3a459fb29f72a80c45605131d0d72f98cfcae38e3210012098eaf85dc6b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/03/colombia-no-ha-sumado-medallas-en-paris-2024-se-acerca-a-su-peor-presentacion-en-30-anos-de-los-juegos-olimpicos/",
+        "date": "2024-08-03 00:43:20",
+        "sentiment_score": -0.9257721966132522
+    },
+    {
+        "title": "Calidad de vida 2024",
+        "image_url": "https://s1.elespanol.com/2024/08/02/actualidad/875172823_248232294_1706x960.jpg?contentId=ESPIMA20240802_0349",
+        "tags": [
+            "business",
+            "politics"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20240803/calidad-vida/875292465_13.html",
+        "date": "2024-08-03 00:09:36",
+        "sentiment_score": 0.14860370010137558
+    },
+    {
+        "title": "Julio César, el rey de los mejores Paradores de España: de recepcionista en Disneyland a seducir a Mick Jagger",
+        "image_url": "https://s1.elespanol.com/2024/07/29/reportajes/874173101_248123470_1706x960.jpg?contentId=ESPIMA20240729_0527",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240803/julio-cesar-rey-mejores-paradores-espana-recepcionista-disneyland-seducir-mick-jagger/874162908_0.html",
+        "date": "2024-08-03 00:05:33",
+        "sentiment_score": -0.8671849649399519
+    },
+    {
+        "title": "Ni Usera ni Villaverde: este es el distrito de Madrid con el precio de la vivienda nueva más barato",
+        "image_url": "https://s1.elespanol.com/2024/04/04/invertia/economia/macroeconomia/845176190_241254346_1706x960.jpg?contentId=ESPIMA20240404_0716",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20240803/usera-villaverde-distrito-madrid-precio-vivienda-nueva-barato/874912862_0.html",
+        "date": "2024-08-02 23:59:08",
+        "sentiment_score": -0.34620141237974167
+    },
+    {
+        "title": "Las genialidades de Fermín meten a España en 'semis'",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/08/02/96844458-kY8F--758x531@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/deportes/juegos-olimpicos/genialidades-fermin-meten-espana-semis-20240803230733-nt.html",
+        "date": "2024-08-02 23:43:22",
+        "sentiment_score": 0.6695646792650223
+    },
+    {
+        "title": "EEUU | Las diez cosas que debes saber antes de asistir a tu entrevista de visa (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/CITA-ENTREVISTA-EEUU-VISA-1280x720.jpg",
+        "tags": [
+            "entrevista en la embajada",
+            "eeuu",
+            "internacionales",
+            "visa",
+            "recomendaciones básicas para los solicitantes"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-las-diez-cosas-que-debes-saber-antes-de-asistir-a-tu-entrevista-de-visa-detalles/",
+        "date": "2024-08-03 02:03:25",
+        "sentiment_score": -0.11608307808637619
+    },
+    {
+        "title": "Edmundo González explica por qué no compareció este viernes ante el TSJ",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Edmundo-Gonzalez-Urrutia.jpg",
+        "tags": [
+            "2001online",
+            "cne",
+            "venezuela",
+            "edmundo gonzález",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/edmundo-gonzalez-explica-por-que-no-comparecio-este-viernes-ante-el-tsj/",
+        "date": "2024-08-03 01:50:24",
+        "sentiment_score": -0.11953166127204895
+    },
+    {
+        "title": "EEUU: ¿Cuál es el nuevo límite para el aumento de alquiler en California?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/alquiler.jpg",
+        "tags": [
+            "alquiler",
+            "eeuu",
+            "california",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/cual-es-el-nuevo-limite-para-el-aumento-de-alquiler-en-california/",
+        "date": "2024-08-03 01:40:00",
+        "sentiment_score": 0.06608324497938156
+    },
+    {
+        "title": "Hoteles 5 estrellas de Venezuela informan sobre su funcionamiento (+Comunicado)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/descarga-2024-08-02T211834.315.jpeg",
+        "tags": [
+            "hotels",
+            "avecintel",
+            "hotels cinco estrella",
+            "hoteles cinco estrella s",
+            "hoteles en venezuela",
+            "servicios"
+        ],
+        "link": "https://2001online.com/servicios/hoteles-5-estrellas-de-venezuela-informan-sobre-su-funcionamiento-comunicado/",
+        "date": "2024-08-03 01:30:00",
+        "sentiment_score": 0.6264462247490883
+    },
+    {
+        "title": "Gobierno denuncia ataque de Anonymous a Conviasa (+DETALLES)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Conviasa.jpeg",
+        "tags": [
+            "nacionales",
+            "ataque cibernéticos",
+            "conviasa"
+        ],
+        "link": "https://2001online.com/nacionales/gobierno-denuncia-ataque-de-anonymous-a-conviasa/",
+        "date": "2024-08-03 01:30:00",
+        "sentiment_score": -0.27405062317848206
+    },
+    {
+        "title": "TSJ solicita al CNE consignar las actas del proceso electoral (+SENTENCIA)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-59-1024x546.png",
+        "tags": [
+            "2001online",
+            "tsj",
+            "venezuela",
+            "nacionales",
+            "actas"
+        ],
+        "link": "https://2001online.com/nacionales/tsj-solicita-al-cne-consignar-las-actas-del-proceso-electoral-sentencia/",
+        "date": "2024-08-03 01:16:18",
+        "sentiment_score": -0.0168004110455513
+    },
+    {
+        "title": "Jorge Rodríguez: La oposición solo tiene el 31% de las actas",
+        "image_url": "./assets/ai_generated/v1_txt2img_7f175f74334e4626a256a8abac3efc19.png",
+        "tags": [
+            "oposición",
+            "actas en página web",
+            "venezuela",
+            "nacionales",
+            "jorge rodríguez"
+        ],
+        "link": "https://2001online.com/nacionales/jorge-rodriguez-la-oposicion-solo-tiene-el-31-las-actas/",
+        "date": "2024-08-03 00:00:00",
+        "sentiment_score": -0.07042459398508072
+    },
+    {
+        "title": "Maduro denuncia que el Sistema Patria sufrió un ataque este viernes #02Ago",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Sistema-Patria.jpg",
+        "tags": [
+            "ataque",
+            "nacionales",
+            "nicolás maduro",
+            "sistema patria"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-denuncia-que-el-sistema-patria-sufrio-un-ataque-viernes-02ago/",
+        "date": "2024-08-02 22:30:00",
+        "sentiment_score": -0.7417585365474224
     }
 ];
