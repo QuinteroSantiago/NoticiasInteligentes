@@ -176,44 +176,6 @@ export default [
         "sentiment_score": -0.9191016480326653
     },
     {
-        "title": "Irán advierte que responderá tras la muerte del líder político de Hamas, Ismail Haniyeh",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163969602-1.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hamas-ismail-haniyeh-muerte-lider-iran-cafe-tv/",
-        "date": "2024-07-31 14:07:11",
-        "sentiment_score": -0.5541690029203892
-    },
-    {
-        "title": "Petro dice que hay “graves dudas” en torno a las elecciones en Venezuela y pide un “escrutinio transparente”",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/GettyImages-2154897378-e1718298779711.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "gustavo petro",
-            "elecciones en venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/31/petro-elecciones-venezuela-orix/",
-        "date": "2024-07-31 13:37:46",
-        "sentiment_score": -0.2725881189107895
-    },
-    {
-        "title": "ANÁLISIS | Lo que estas elecciones demuestran sobre la importancia de los compañeros de fórmula y los vicepresidentes",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Kamala_ba29a2-e1722400689509.jpg?quality=100&strip=info",
-        "tags": [
-            "análisis",
-            "kamala harris",
-            "elecciones estados unidos",
-            "elecciones 2024",
-            "partido republicano",
-            "partido demócrata",
-            "j. d. vance"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/07/31/vicepresidentes-importancia-harris-trump-elecciones-trax/",
-        "date": "2024-07-31 10:29:21",
-        "sentiment_score": 0.3733692169189453
-    },
-    {
         "title": "El PSOE y la desigualdad",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/07/31/SanchezP-RXZFdhJNoYiSJgqJx0cMYGP-1200x630@diario_abc.jpg",
         "tags": [
@@ -242,80 +204,6 @@ export default [
         "link": "https://www.abc.es/economia/consumo-pide-informacion-supermercados-comprobar-traslada-rebaja-20240731145214-nt.html",
         "date": "2024-07-31 14:25:28",
         "sentiment_score": -0.10503356158733368
-    },
-    {
-        "title": "Petro pide «transparencia» ante las «graves dudas» con los resultados de las elecciones en Venezuela",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/31/petro-kTtH-U602908465974mQD-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/petro-pide-transparencia-ante-graves-dudas-resultados-20240731160901-nt.html",
-        "date": "2024-07-31 14:09:01",
-        "sentiment_score": -0.3072553128004074
-    },
-    {
-        "title": "La violencia continúa en México tras la detención de 'El Mayo' Zambada",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/07/31/guacamayozambada-RgQKruiB9hltv6S0zMLFB8K-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/violencia-continua-mexico-tras-detencion-mayo-zambada-20240731154347-nt.html",
-        "date": "2024-07-31 13:43:48",
-        "sentiment_score": -0.1415005326271057
-    },
-    {
-        "title": "Meta da marcha atrás y elimina sus versiones de famosos hechas con IA",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/07/31/ia-dos-RkpFVr45CY3lMaBiRCEYmUK-758x531@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/meta-marcha-atras-elimina-versiones-famosos-hechas-20240731142126-nt.html",
-        "date": "2024-07-31 12:30:19",
-        "sentiment_score": -0.1322373002767563
-    },
-    {
-        "title": "Onur Genç (CEO BBVA): «No tenemos ni la intención ni la necesidad » de mejorar la oferta sobre el Sabadell",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/31/onur-genc-2T24-CEO-Rwkxa8xjXios2UnO0nXaTXK-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/onur-genc-ceo-bbva-intencion-necesidad-mejorar-20240731135801-nt.html",
-        "date": "2024-07-31 12:01:38",
-        "sentiment_score": -0.10495604574680328
-    },
-    {
-        "title": "Un hombre malvive durante 20 años para ahorrar 600.000 euros y poder jubilarse y ahora se lamenta: «Todo es inútil»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/7e/media_thumb-link-3964472.webp",
-        "tags": [
-            "ahorro",
-            "actualidad",
-            "trabajo",
-            "jubilación anticipada",
-            "jubilación"
-        ],
-        "link": "https://www.meneame.net/story/hombre-malvive-durante-20-anos-ahorrar-600-000-euros-poder-ahora",
-        "date": "2024-07-31 11:35:02",
-        "sentiment_score": 0.546768344938755
-    },
-    {
-        "title": "Red Eléctrica eleva la presión sobre la CNMC para que aumente la retribución de las redes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/31/Redeia-Rq4uEib2Ne19fqf45os31gJ-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/red-electrica-eleva-presion-sobre-cnmc-aumente-20240731133347-nt.html",
-        "date": "2024-07-31 11:33:47",
-        "sentiment_score": -0.02168738842010498
-    },
-    {
-        "title": "Gortázar (CEO Caixabank): «España necesita un proceso de consolidación fiscal» pactado por todos los partidos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/31/Gortzar-R4jR0Yq0dKuwIGSDSvnLAXM-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gortazar-ceo-caixabank-espana-necesita-proceso-consolidacion-20240731131507-nt.html",
-        "date": "2024-07-31 11:15:39",
-        "sentiment_score": -0.097071573138237
     },
     {
         "title": "Fogasa reformula su postura y da su conformidad a la venta de Marie Claire a Koltex-For Men, pendiente ahora de resolución judicial",
@@ -393,97 +281,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-07-31/un-incendio-de-vegetacion-obliga-a-confinar-las-localidades-de-ciutadilla-y-nalec-lleida.html",
         "date": "2024-07-31 15:41:59",
         "sentiment_score": -0.8150614760816097
-    },
-    {
-        "title": "La Generalitat borra las huellas de la dictadura de Primo de Rivera del Saló Sant Jordi",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PRVKZG5WEGXPJSHRHGL3JXGTE4.jpg?auth=f5d2ca0c6559149f70dfb415a1bdca051b64fc85076876a5717fef9a7bce6862",
-        "tags": [
-            "cataluña",
-            "elecciones catalanas",
-            "govern cataluña",
-            "generalitat cataluña",
-            "josep tarradellas",
-            "renacimiento",
-            "barcelona",
-            "arte renacentista",
-            "pere aragonès",
-            "quim torra",
-            "miguel primo de rivera",
-            "alicia de larrocha",
-            "montserrat caballé"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-31/la-generalitat-borra-las-huellas-de-la-dictadura-de-primo-de-rivera-del-salo-sant-jordi.html",
-        "date": "2024-07-31 14:03:27",
-        "sentiment_score": 0.2501153200864792
-    },
-    {
-        "title": "Los vecinos del barrio de Las Letras tienen un plan B: eliminar 10 árboles en vez de 47",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CBEXJCQ3LBGSBCCOEDFUHYIPGY.jpg?auth=928505f49c5eaf7255c13cb433c0af5cd0b99cb2add5f5f65868e69b0297f215",
-        "tags": [
-            "obras reforma",
-            "deforestación",
-            "estacionamientos subterraneos",
-            "obras municipales",
-            "árboles",
-            "estacionamientos urbanos",
-            "madrid",
-            "comunidad de madrid",
-            "distrito centro",
-            "obras públicas",
-            "asociaciones vecinos"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-07-31/los-vecinos-del-barrio-de-las-letras-tienen-un-plan-b-eliminar-10-arboles-en-vez-de-47.html",
-        "date": "2024-07-31 13:58:57",
-        "sentiment_score": -0.23281047493219376
-    },
-    {
-        "title": "Oriol Junqueras evita posicionarse sobre el preacuerdo entre PSC y ERC",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/73E2Q32QR5G6XI67O5J36HQQ3A.jpg?auth=b2c90373caffbdbddd922d55ab11786de0a346fef928d87582680e254575aa9e",
-        "tags": [
-            "investidura parlamentaria",
-            "salvador illa",
-            "erc",
-            "oriol junqueras",
-            "psc",
-            "cataluña",
-            "política",
-            "pactos políticos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-07-31/oriol-junqueras-evita-posicionarse-sobre-el-preacuerdo-entre-psc-y-erc.html",
-        "date": "2024-07-31 13:32:13",
-        "sentiment_score": 0.022550314664840698
-    },
-    {
-        "title": "Compromís pide a Catalá que retire “los honores” a Rita Barberá tras la condena por la caja B del PP al que fuera su mano derecha, Alfonso Grau",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DYW6EPROFFHDVG7LOHZKIHX4KM.jpg?auth=0d5da3a8f489f37a3dad303807ea6cc930eb4e682cf6d15beac38459eb5de787",
-        "tags": [
-            "rita barberá",
-            "comunidad valenciana",
-            "alfonso grau",
-            "sentencias",
-            "joan ribó",
-            "corrupción",
-            "compromis-q",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-31/compromis-ribo-pide-a-catala-que-retire-los-honores-a-rita-barbera-tras-la-condena-por-la-caja-b-del-pp-al-que-fuera-su-mano-derecha-alfonso-grau.html",
-        "date": "2024-07-31 12:53:28",
-        "sentiment_score": -0.7622295711189508
-    },
-    {
-        "title": "A vueltas con el decreto-ley ómnibus de la Generalitat Valenciana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HAVGL7U2SZA6DDHKMMMRTQIXXE.JPG?auth=9d390809efcf23db4ee970f12b9dc623653c3a234f3fbfe8e6be68d88dfdc1c0",
-        "tags": [
-            "comunidad valenciana",
-            "política",
-            "carlos mazón",
-            "decretos autonómicos",
-            "decretos",
-            "generalitat valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-07-31/a-vueltas-con-el-decreto-ley-omnibus-de-la-generalitat-valenciana.html",
-        "date": "2024-07-31 12:51:28",
-        "sentiment_score": 0.41486651822924614
     },
     {
         "title": "España tiene más opciones reales de medalla que nunca.",
@@ -8510,5 +8307,483 @@ export default [
         "link": "https://2001online.com/nacionales/arrancan-movilizaciones-del-oficialismo-y-oposicion-este-3ago/",
         "date": "2024-08-03 17:16:21",
         "sentiment_score": 0.082132488489151
+    },
+    {
+        "title": "Lista de los artistas más reproducidos hoy en YouTube España",
+        "image_url": "https://www.infobae.com/resizer/v2/Y72FHUN7NFDETDRXQPQJF7NXKQ.jpg?auth=63fe3e1518038244083f265bf4286477fbc4f44e201cd2e5a44ead6455e764c9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/04/lista-de-los-artistas-mas-reproducidos-hoy-en-youtube-espana/",
+        "date": "2024-08-04 02:00:59",
+        "sentiment_score": 0.6069574076682329
+    },
+    {
+        "title": "La Alhambra acoge el estreno de 'Pineda', un ballet sobre el poema dramático de Lorca",
+        "image_url": "./assets/ai_generated/v1_txt2img_7ae1a0741b924e528db5a250b96f73d1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/03/la-alhambra-acoge-el-estreno-de-pineda-un-ballet-sobre-el-poema-dramatico-de-lorca/",
+        "date": "2024-08-03 22:31:28",
+        "sentiment_score": 0.06046570837497711
+    },
+    {
+        "title": "Edmundo González se muestra en redes tras ausentarse en la marcha",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164475846-20240804014137255.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "edmundo gonzález",
+            "edmundo gonzález urrutia",
+            "marcha",
+            "venezuela noticias",
+            "caracas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-marcha-oposicion-venezuela-elecciones/",
+        "date": "2024-08-04 01:44:49",
+        "sentiment_score": -0.4750656634569168
+    },
+    {
+        "title": "Cuatro miembros de Hamas y un miembro de las Brigadas Al-Quds murieron en un ataque aéreo israelí en la Ribera Occidental",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/02/927cd5fa-e221-4fe9-a760-70dd8075430b.jpeg?quality=100&strip=info",
+        "tags": [
+            "brigadas al-quds",
+            "medio oriente",
+            "hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/03/cuatro-miembros-hamas-miembro-brigadas-al-quds-murieron-ataque-aereo-israeli-trax/",
+        "date": "2024-08-04 01:16:47",
+        "sentiment_score": -0.8282811306416988
+    },
+    {
+        "title": "Pese al miedo, la oposición venezolana logró llevar con calma su marcha",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165139627.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marcha-protesta-venezuela-oposicion-maria-corina-mirador-mundial-tv/",
+        "date": "2024-08-03 23:48:14",
+        "sentiment_score": 0.394426628947258
+    },
+    {
+        "title": "Venezolanos en Madrid reclaman por resultados electorales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/esp.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-madrid-marcha-mirador-mundial-tv/",
+        "date": "2024-08-03 23:34:00",
+        "sentiment_score": -0.1231943666934967
+    },
+    {
+        "title": "Venezolanos marchan en Puerto Rico en apoyo a Edmundo González",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/pr.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezolanos-puerto-rico-marcha-mirador-mundial-tv/",
+        "date": "2024-08-03 23:33:52",
+        "sentiment_score": 0.005017369985580444
+    },
+    {
+        "title": "Venezolanos en Colombia se manifiestan en contra de Nicolás Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/col.jpg?quality=100&strip=info",
+        "tags": [
+            "colombia",
+            "venezuela",
+            "elecciones en venezuela",
+            "zona andina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-marchas-bogota-colombia-mirador-mundial-tv/",
+        "date": "2024-08-03 23:30:58",
+        "sentiment_score": -0.5409639962017536
+    },
+    {
+        "title": "¿Qué busca Maduro con su amparo contencioso electoral tras los comicios?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164269332-20240803232450489.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-amparo-actas-elecciones-venezuela-mirador-mundial-tv/",
+        "date": "2024-08-03 23:29:11",
+        "sentiment_score": -0.31389306113123894
+    },
+    {
+        "title": "Maduro demostró una posición de fuerza durante marcha oficialista",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/thumb-maduro.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marcha-chavismo-venezuela-nicolas-maduro-mirador-mundial-tv/",
+        "date": "2024-08-03 23:06:00",
+        "sentiment_score": -0.04940202832221985
+    },
+    {
+        "title": "Tensión en Medio Oriente por posible respuesta de Irán a muerte de líder",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164678102.jpg?quality=100&strip=info",
+        "tags": [
+            "israel noticias",
+            "guerra israel y hamas",
+            "israel",
+            "hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tension-medio-oriente-hezbollah-ismail-haniyehmirador-mundial/",
+        "date": "2024-08-03 23:02:22",
+        "sentiment_score": -0.9084178674966097
+    },
+    {
+        "title": "Maduro dice que Venezuela está en paz durante la marcha del oficialismo",
+        "image_url": "./assets/ai_generated/v1_txt2img_d7fc27ea3fd84fd487a70788ba2bfe8d.png",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nicolas-maduro-marcha-oficialismo-venezuela/",
+        "date": "2024-08-03 22:32:59",
+        "sentiment_score": -0.15115748345851898
+    },
+    {
+        "title": "«La gente del campo no ganamos ni para cubrir los gastos»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/04/WhatsAppImage2024-07-27at20.08.31(1)-Rdblo6oUkmN8MajHljmBV6M-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gente-campo-ganamos-cubrir-gastos-20240804210639-nt.html",
+        "date": "2024-08-04 02:08:08",
+        "sentiment_score": -0.1433986872434616
+    },
+    {
+        "title": "Del gobernador a las opas sobre Talgo y Sabadell, las asignaturas pendientes",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/03/sm-Rfn375gOFuVJKaDHitOWGdP-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobernador-opas-sobre-talgo-sabadell-asignaturas-pendientes-20240803165621-nt.html",
+        "date": "2024-08-04 02:06:50",
+        "sentiment_score": -0.09248894453048706
+    },
+    {
+        "title": "En manos de 6.349 afiliados de ERC",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/04/marta-rovira-U67404444068nhJ-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-manos-6349-afiliados-erc-20240804040401-nt.html",
+        "date": "2024-08-04 02:04:02",
+        "sentiment_score": -0.18104752898216248
+    },
+    {
+        "title": "Cristina Kirchner reclama transparencia a Maduro «por el legado de Chávez»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/04/kirchner-kslC-U602920083500j4E-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/cristina-kirchner-reclama-transparencia-maduro-legado-chavez-20240804024249-nt.html",
+        "date": "2024-08-04 00:42:50",
+        "sentiment_score": -0.1305731236934662
+    },
+    {
+        "title": "Frustración y desamparo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/05/libre-U78355328724qqn-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-frustracion-desamparo-20240805191240-nt.html",
+        "date": "2024-08-03 22:40:58",
+        "sentiment_score": -0.16016288101673126
+    },
+    {
+        "title": "2-1. Pau Víctor deslumbra entre rayos y truenos",
+        "image_url": "https://www.infobae.com/resizer/v2/OO6VDZIOSBBR5LSSJQKXJCW6RY.jpg?auth=370c7b7dc06bb9edc0830d7c9b1999ad0b7248e15320cc1466f44b9731dfaf46",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/04/2-1-pau-victor-deslumbra-entre-rayos-y-truenos/",
+        "date": "2024-08-04 02:16:07",
+        "sentiment_score": -0.7211499363183975
+    },
+    {
+        "title": "La tormenta Pau Víctor remoja al Real Madrid",
+        "image_url": "https://static1.ara.cat/clip/54e0e53a-5254-457d-b5f7-787c4f3b0f1d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/tormenta-pau-victor-remoja-madrid_1_5107641.html",
+        "date": "2024-08-04 01:58:29",
+        "sentiment_score": 0.09038840234279633
+    },
+    {
+        "title": "Pau Víctor es el nuevo crack de un Barça que tumba al Real Madrid en Nueva Jersey",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/04/culemania/primer-equipo/875672431_13303451_1706x960.jpg?contentId=ESPIMA20240804_0007",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240804/pau-victor-barca-real-madrid-nueva-jersey/875662426_0.html",
+        "date": "2024-08-04 01:58:13",
+        "sentiment_score": -0.7617886941879988
+    },
+    {
+        "title": "Albares envía a Lisboa al exjefe de Gabinete de Pumpido tras el veto de Putin para Moscú",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/putin-1-469x317.jpg",
+        "tags": [
+            "moscú",
+            "política",
+            "josé manuel albares",
+            "lisboa",
+            "ministerio de asuntos exteriores, unión europea y cooperación",
+            "consulado",
+            "vladimir putin"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-08-04/albares-lisboa-pumpido-putin-moscu/",
+        "date": "2024-08-04 01:30:00",
+        "sentiment_score": 0.2718416526913643
+    },
+    {
+        "title": "El Grand Tour",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/les-conges-payes-historias-vacaciones-469x317.jpg",
+        "tags": [
+            "italia",
+            "cultura",
+            "turismo",
+            "europa",
+            "roma",
+            "historias de la historia",
+            "inglaterra",
+            "turistas"
+        ],
+        "link": "https://theobjective.com/cultura/2024-08-04/turismo-grand-tour-italia-nobleza/",
+        "date": "2024-08-04 01:30:00",
+        "sentiment_score": -0.012018382549285889
+    },
+    {
+        "title": "Manuel Turizo emocionado tras conocer a Cristiano Ronaldo: el cantante inmortalizó el momento para sus redes sociales",
+        "image_url": "https://www.infobae.com/resizer/v2/5CFTISFMERCANPBK5NNHO5LX3A.jpg?auth=bdcbbf3611e370113e81144d3e01fd92c68762cf2290f7724b6c1738b47d3ae1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/08/04/manuel-turizo-emocionado-tras-conocer-a-cristiano-ronaldo-el-cantante-inmortalizo-el-momento-para-sus-redes-sociales/",
+        "date": "2024-08-04 00:53:28",
+        "sentiment_score": 0.1418575793504715
+    },
+    {
+        "title": "El Barcelona-Madrid en Nueva York se reanuda tras más de una hora suspendido por tormenta",
+        "image_url": "./assets/ai_generated/v1_txt2img_f4b2b258daf448eda06d4a6d7df2b59d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/04/el-barcelona-madrid-en-nueva-york-se-reanuda-tras-mas-de-una-hora-suspendido-por-tormenta/",
+        "date": "2024-08-04 00:45:51",
+        "sentiment_score": -0.7615231089293957
+    },
+    {
+        "title": "Los jugadores del Barcelona y el Madrid vuelven al campo para intentar reanudar el clásico",
+        "image_url": "./assets/ai_generated/v1_txt2img_5c8fb1cef93047c5a9d88b28a259a403.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/04/los-jugadores-del-barcelona-y-el-madrid-vuelven-al-campo-para-intentar-reanudar-el-clasico/",
+        "date": "2024-08-04 00:30:20",
+        "sentiment_score": -0.06156209111213684
+    },
+    {
+        "title": "Los turistas pasan más días en Avilés y aumentan los viajes con mascota: así repercute en los hoteles",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8bc8e73d-b690-4268-ac86-cc3ede82894b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/aviles/2024/08/04/turistas-pasan-dias-aviles-aumentan-106530899.html",
+        "date": "2024-08-04 02:15:00",
+        "sentiment_score": 0.07087354362010956
+    },
+    {
+        "title": "Sara Torres, autora de una prodigiosa y cautivadora obra literaria, \"Asturiana del mes\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3394735f-d959-44d8-b22d-04efc41fc3cd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/08/04/sara-torres-autora-prodigiosa-cautivadora-106531685.html",
+        "date": "2024-08-04 02:09:00",
+        "sentiment_score": 0.1429084837436676
+    },
+    {
+        "title": "El turismo se congela y se reinventa en Asturias: ¿qué está pasando?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1f4629bf-fc58-4bea-aa6e-6f8d13f1e06a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/08/04/turismo-congela-reinventa-asturias-pasando-106531128.html",
+        "date": "2024-08-04 01:38:02",
+        "sentiment_score": -0.18998636305332184
+    },
+    {
+        "title": "El turismo portugués acelera y ya contribuye hasta cuatro puntos más en su PIB",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/09/turistas-maletas-madrid-469x317.jpeg",
+        "tags": [
+            "turismo",
+            "pib",
+            "alquiler",
+            "portugal",
+            "economía",
+            "españa"
+        ],
+        "link": "https://theobjective.com/economia/2024-08-04/turismo-portugal-espana-pib-economia/",
+        "date": "2024-08-04 01:30:00",
+        "sentiment_score": 0.43047918379306793
+    },
+    {
+        "title": "Cataluña reivindica su «soberanía tecnológica» con la vuelta a la atmósfera de su primer satélite",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2022/05/064347/Captura-de-pantalla-2022-05-16-a-las-8.43.12.png",
+        "tags": [
+            "satélite",
+            "política",
+            "gobierno de cataluña",
+            "tecnología digital",
+            "procés",
+            "cataluña",
+            "erc (esquerra republicana de catalunya)"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-08-04/cataluna-soberania-tecnologica-satelite/",
+        "date": "2024-08-04 01:30:00",
+        "sentiment_score": 0.620583102107048
+    },
+    {
+        "title": "Funcionarios de Hacienda contra la secesión fiscal de Cataluña: \"Quieren una de las joyas de la corona\"",
+        "image_url": "https://s1.elespanol.com/2024/08/03/espana/875422777_248257974_1706x960.png?contentId=ESPIMA20240803_0328",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20240804/funcionarios-hacienda-secesion-fiscal-cataluna-quieren-joyas-corona/875162915_0.html",
+        "date": "2024-08-04 01:08:03",
+        "sentiment_score": -0.7713727410882711
+    },
+    {
+        "title": "Alsa convierte la movilidá de turistes nún de los sos motores de crecimientu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/df64086c-1efa-4774-934e-efe209827650_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/08/04/alsa-convierte-movilida-turistes-nun-106260265.html",
+        "date": "2024-08-04 01:05:43",
+        "sentiment_score": -0.11249151825904846
+    },
+    {
+        "title": "EEUU | Big Lots anuncia el cierre de algunas sucursales en Florida (+Lista)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/big-lots-Florida-1.webp",
+        "tags": [
+            "florida",
+            "internacionales",
+            "big lots",
+            "eeuu",
+            "cierre de sucursales programadas"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-big-lots-anuncia-el-cierre-de-algunas-sucursales-en-florida-lista/",
+        "date": "2024-08-04 01:57:39",
+        "sentiment_score": -0.15733788162469864
+    },
+    {
+        "title": "Mueren dos niños electrocutados por un ventilador",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Ventilador-1080x720.jpg",
+        "tags": [
+            "electrocutados por ventilador",
+            "sucesos",
+            "ninos mueren"
+        ],
+        "link": "https://2001online.com/sucesos/mueren-dos-ninos-electrocutados-por-un-ventilador/",
+        "date": "2024-08-04 01:26:25",
+        "sentiment_score": -0.859661128371954
+    },
+    {
+        "title": "Tesla retira del mercado millones de vehículos por un problema técnico (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2023/01/Tesla.jpg",
+        "tags": [
+            "tesla",
+            "vehiculos tesla",
+            "curiosidades",
+            "elon musk"
+        ],
+        "link": "https://2001online.com/curiosidades/tesla-retira-del-mercado-millones-de-vehiculos-por-un-problema-tecnico-detalles/",
+        "date": "2024-08-04 01:00:00",
+        "sentiment_score": -0.7310799024999142
+    },
+    {
+        "title": "Conozca los financiamientos que ofrece el Banco Digital de los Trabajadores",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/BDT.jpg",
+        "tags": [
+            "créditos bancarios",
+            "banco bicentenario",
+            "venezuela",
+            "2001online",
+            "internacionales",
+            "bdt",
+            "eeuu",
+            "servicios",
+            "financiamientos",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/servicios/conozca-los-financiamientos-que-ofrece-el-banco-digital-de-los-trabajadores/",
+        "date": "2024-08-04 01:00:00",
+        "sentiment_score": 0.24207039922475815
+    },
+    {
+        "title": "Maduro anuncia que 2.000 personas están detenidas por las “guarimbas”",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Nicolas-Maduro.jpg",
+        "tags": [
+            "nicolás maduro",
+            "nacionales",
+            "guarimbas"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-que-2-000-personas-estan-detenidas-por-las-guarimbas/",
+        "date": "2024-08-04 01:00:00",
+        "sentiment_score": 0.028763815760612488
+    },
+    {
+        "title": "Maduro: Edmundo González tendría graves consecuencias por desacato al TSJ",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/5006116294721908197.jpg",
+        "tags": [
+            "nicolás maduro",
+            "tsj",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-edmundo-gonzalez-tendria-graves-consecuencias-desacato-al-tsj/",
+        "date": "2024-08-03 23:04:37",
+        "sentiment_score": -0.6131472960114479
+    },
+    {
+        "title": "Edmundo González envía mensaje luego de finalizada la concentración opositora",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/04/exministro-Chavez-Edmundo.png",
+        "tags": [
+            "elecciones venezuela",
+            "nacionales",
+            "venezuela",
+            "2001online",
+            "oposición",
+            "maría corina",
+            "edmundo gonzález urrutia"
+        ],
+        "link": "https://2001online.com/nacionales/edmundo-gonzalez-envia-mensaje-luego-de-finalizada-la-concentracion-opositora/",
+        "date": "2024-08-03 21:00:00",
+        "sentiment_score": -0.07376913726329803
+    },
+    {
+        "title": "En imágenes: Así avanza la movilización del oficialismo este #3Ago",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Imagen-de-WhatsApp-2024-08-03-a-las-15.16.10_af998dd6.jpg",
+        "tags": [
+            "marcha de maduro",
+            "psuv",
+            "estados de venezuela",
+            "caracas",
+            "internacionales",
+            "nicolás maduro",
+            "3 de agosto",
+            "cne",
+            "el gallo pinto",
+            "eeuu",
+            "2001online",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/en-imagenes-asi-avanza-la-movilizacion-del-oficialismo-este-3ago/",
+        "date": "2024-08-03 19:58:08",
+        "sentiment_score": 0.256136029958725
     }
 ];
