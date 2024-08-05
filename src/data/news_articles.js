@@ -1,196 +1,5 @@
 export default [
     {
-        "title": "Dani Fernández se sincera sobre su carrera profesional en una íntima conversación con Laura Escanes: “He tenido mucho éxito y mucho deséxito”",
-        "image_url": "https://www.infobae.com/resizer/v2/LXATPZNTFFB75O3QMS4VRPH6WY.jpg?auth=02f4d125f0307ce6c4f3b89a581f36625d12bafdc7500b9a4c5cfc91b5947358",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/01/dani-fernandez-se-sincera-sobre-su-carrera-profesional-en-una-intima-conversacion-con-laura-escanes-he-tenido-mucho-exito-y-mucho-desexito/",
-        "date": "2024-08-01 06:12:53",
-        "sentiment_score": 0.20848596841096878
-    },
-    {
-        "title": "Piscinas de verano en Madrid: como reservar una entrada",
-        "image_url": "https://www.infobae.com/resizer/v2/VXJJDOXDXVBA7JQKWP5GPZBJSI.jpg?auth=01153ca37b80199bb62faaf44413957d1af422cc5c80ae3c507b8a7940468e41",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/01/piscinas-de-verano-en-madrid-como-reservar-una-entrada/",
-        "date": "2024-08-01 06:01:44",
-        "sentiment_score": 0.5589548572897911
-    },
-    {
-        "title": "El Grupo DHL obtiene un beneficio de 1.484 millones hasta junio, un 21,4 % menos",
-        "image_url": "./assets/ai_generated/v1_txt2img_a75f51535aab45e1a6a6868e85742af0.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/01/el-grupo-dhl-obtiene-un-beneficio-de-1484-millones-hasta-junio-un-214-menos/",
-        "date": "2024-08-01 06:00:40",
-        "sentiment_score": 0.2969185635447502
-    },
-    {
-        "title": "Juegos Olímpicos de París, en directo: empiezan las prueba de atletismo con la marcha: María Pérez y Álvaro Martín buscan la medalla",
-        "image_url": "./assets/ai_generated/v1_txt2img_e49f71d50fa44ba6843c744c53b30a2a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2024/08/01/juegos-olimpicos-de-paris-en-directo-empiezan-las-prueba-de-atletismo-con-la-marcha-maria-perez-y-alvaro-martin-buscan-la-medalla/",
-        "date": "2024-08-01 05:54:51",
-        "sentiment_score": 0.07803274504840374
-    },
-    {
-        "title": "Merck gana un 13,2 % menos hasta junio por la caída de su área farmacéutica",
-        "image_url": "./assets/ai_generated/v1_txt2img_b52068a740ac4a01b42f818f8d967fb5.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/01/merck-gana-un-132-menos-hasta-junio-por-la-caida-de-su-area-farmaceutica/",
-        "date": "2024-08-01 05:47:14",
-        "sentiment_score": -0.5015700645744801
-    },
-    {
-        "title": "Las temperaturas extremas, por encima 40 grados, activan la alerta en once comunidades",
-        "image_url": "./assets/ai_generated/v1_txt2img_d7d88e39b36849d28837c3f6d0d95a2a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/01/las-temperaturas-extremas-por-encima-40-grados-activan-la-alerta-en-once-comunidades/",
-        "date": "2024-08-01 05:46:56",
-        "sentiment_score": 0.2107856273651123
-    },
-    {
-        "title": "Repasan los focos calientes del incendio de Benasau (Alicante), que evoluciona favorable",
-        "image_url": "./assets/ai_generated/v1_txt2img_66dc524853ef4cca9143987984a7b355.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/01/repasan-los-focos-calientes-del-incendio-de-benasau-alicante-que-evoluciona-favorable/",
-        "date": "2024-08-01 05:46:39",
-        "sentiment_score": 0.14394265413284302
-    },
-    {
-        "title": "Hallan una relación entre los niños que no desayunan y una mayor insatisfacción con sus vidas",
-        "image_url": "https://www.infobae.com/resizer/v2/DVT3FPALVNBATNWH7OG3PWS6KI.jpg?auth=9b92e1b73be4ebf8ba2532a1598a913406f856bd9fee41b10a7493d5947d5873",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/01/hallan-una-relacion-entre-los-ninos-que-no-desayunan-y-una-mayor-insatisfaccion-con-sus-vidas/",
-        "date": "2024-08-01 05:32:15",
-        "sentiment_score": 0.30930381268262863
-    },
-    {
-        "title": "Toyota Motor ganó un 1,7 % más entre abril-junio impulsado por la debilidad del yen",
-        "image_url": "./assets/ai_generated/v1_txt2img_17506cc0453948ea844b6bc300ed5d1a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/01/toyota-motor-gano-un-17-mas-entre-abril-junio-impulsado-por-la-debilidad-del-yen/",
-        "date": "2024-08-01 05:30:21",
-        "sentiment_score": 0.4977487102150917
-    },
-    {
-        "title": "¿Cómo desaparecieron los neandertales? Nuevos análisis de ADN arrojan luz sobre el misterio",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/neandertales-desaparicion-estudio.jpeg?quality=100&strip=info",
-        "tags": [
-            "neardentales",
-            "ciencia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/01/desaparicion-neandertales-analisis-adn-luz-misterio-trax/",
-        "date": "2024-08-01 06:10:39",
-        "sentiment_score": -0.20512033998966217
-    },
-    {
-        "title": "Una comedia de suegras, una nueva versión de 'Carmen' o la sorpresa del verano de terror",
-        "image_url": "./assets/ai_generated/v1_txt2img_d3f0cb12eb0742e5bb1674000d178674.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/01/una-comedia-de-suegras-una-nueva-version-de-carmen-o-la-sorpresa-del-verano-de-terror/",
-        "date": "2024-08-01 06:16:08",
-        "sentiment_score": -0.03944794833660126
-    },
-    {
-        "title": "El censo de residencias en España: un problema estadístico con más de mil centros 'fantasma'",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88f8ad7b-6f0e-4a3c-853a-b61e78a74cab_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/sociedad/2024/08/01/censo-residencias-espana-problema-estadistico-106385902.html",
-        "date": "2024-08-01 06:10:47",
-        "sentiment_score": -0.21913787722587585
-    },
-    {
-        "title": "Audie Norris será el pregonero de la Fiesta Mayor de Castelldefels 2024",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/08/01/gran-barcelona/874922502_13294176_1706x960.jpg?contentId=ESPIMA20240801_0003",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20240801/audie-norris-sera-el-pregonero-de-la-fiesta-mayor-castelldefels/874912504_0.html",
-        "date": "2024-08-01 06:13:38",
-        "sentiment_score": 0.2450508065521717
-    },
-    {
-        "title": "La dueña de Iberia y Vueling sella con Repsol la mayor compra de combustible verde de España",
-        "image_url": "./assets/ai_generated/v1_txt2img_73464d7cba5947f6be81f4bc46626c3b.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/economia/2024/08/01/iberia-vueling-iag-compra-repsol-combustible-verde-saf-106385831.html",
-        "date": "2024-08-01 06:03:46",
-        "sentiment_score": 0.508749220520258
-    },
-    {
-        "title": "La dueña de Iberia y Vueling sella con Repsol la mayor compra de combustible verde de España",
-        "image_url": "./assets/ai_generated/v1_txt2img_39396dcab09c4053bf1a1976f1742fa7.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20240801/iberia-vueling-iag-compra-repsol-combustible-verde-saf-106385835",
-        "date": "2024-08-01 06:03:44",
-        "sentiment_score": 0.4164492078125477
-    },
-    {
-        "title": "Bastian Beach: cuando estás en la Barceloneta pero te imaginas en un restaurante de Eivissa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3d99cfea-3ec4-42ab-b75b-74019fa1579a_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20240801/bastian-beach-restaurante-barcelona-barceloneta-106237554",
-        "date": "2024-08-01 06:01:18",
-        "sentiment_score": -0.2831971049308777
-    },
-    {
-        "title": "Así es la primera experiencia erótica inmersiva que llega a Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e61aa514-49be-4f9e-bbf5-096b59758628_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20240801/llega-primera-experiencia-erotica-inmersiva-barcelona-dv-106193737",
-        "date": "2024-08-01 05:57:00",
-        "sentiment_score": 0.5972634628415108
-    },
-    {
-        "title": "¿Cuándo terminarán las obras en la Ronda de Dalt en Barcelona? Ya hay fecha",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61c65587-f24f-4ca2-973f-2146a10a03c5_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20240801/terminaran-obras-ronda-dalt-barcelona-b20-dv-106191997",
-        "date": "2024-08-01 05:56:00",
-        "sentiment_score": 0.47037433460354805
-    },
-    {
-        "title": "El verano de la amnesia climática: el calor extremo de 2022 y 2023 ha distorsionado la idea de lo que es normal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6c8e33a0-dae8-4ed2-a098-ea457a81fee1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodemallorca.es/cambio-climatico/2024/08/01/verano-amnesia-climatica-calor-extremo-106385608.html",
-        "date": "2024-08-01 05:54:16",
-        "sentiment_score": -0.4990623965859413
-    },
-    {
         "title": "Las mejores melodías para escuchar en Spotify España en cualquier momento y lugar",
         "image_url": "https://www.infobae.com/resizer/v2/VT2MXWSCNJE6BBO2PYFFLMETAE.jpg?auth=d25070fb26b344d98f8b9ead19c7275f384282892a177e13e9c1827d5ff24669",
         "tags": [
@@ -7994,5 +7803,406 @@ export default [
         "link": "https://www.20minutos.es/deportes/noticia/5530788/0/medallero-espana-juegos-olimpicos-paris-2024-al-alza/",
         "date": "2024-08-04 16:19:58",
         "sentiment_score": 0.6683562621474266
+    },
+    {
+        "title": "Un joven herido grave al ser apuñalado en Madrid",
+        "image_url": "./assets/ai_generated/v1_txt2img_7e63e920baa3404faa720d3fce131b19.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/un-joven-herido-grave-al-ser-apunalado-en-madrid/",
+        "date": "2024-08-04 22:17:10",
+        "sentiment_score": -0.8818838996812701
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 5 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_1399f29b8606484395a82df5d86cc2fc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/hoy-sera-noticia-lunes-5-de-agosto-de-2024/",
+        "date": "2024-08-04 22:16:53",
+        "sentiment_score": 0.030048653483390808
+    },
+    {
+        "title": "Pilar Alegría a Carolina: \"Ha sido demoledor\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_649ac6523fa34b6f96bba0f2689636d1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/pilar-alegria-a-carolina-ha-sido-demoledor/",
+        "date": "2024-08-04 21:32:20",
+        "sentiment_score": -0.8425419237464666
+    },
+    {
+        "title": "Alex Dujshebaev: \"Hoy nos jugábamos todo y hemos hecho un partidazo\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_a7b2266435ee43f0ac4dd677cefe13e3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/alex-dujshebaev-hoy-nos-jugabamos-todo-y-hemos-hecho-un-partidazo/",
+        "date": "2024-08-04 21:32:03",
+        "sentiment_score": 0.824254946783185
+    },
+    {
+        "title": "SUP dice que el acuerdo con Desokupa es para dar formación \"extracurricular\" a afiliados",
+        "image_url": "./assets/ai_generated/v1_txt2img_3d432d3a197c41d3b747ee5b2c8e5ffb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/sup-dice-que-el-acuerdo-con-desokupa-es-para-dar-formacion-extracurricular-a-afiliados/",
+        "date": "2024-08-04 21:31:45",
+        "sentiment_score": 0.18183312565088272
+    },
+    {
+        "title": "AM-Interior estudia la apertura de expediente ante \"posible impugnación del convenio\" tras el acuerdo del SUP y Desokupa",
+        "image_url": "https://www.infobae.com/resizer/v2/676VFH3MBZEMPHFLZ4XBDEES7U.jpg?auth=31362f48ba6c8fe1cee6baf5793aac3adaec528cca30a98c287d76ed1551cd88",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/am-interior-estudia-la-apertura-de-expediente-ante-posible-impugnacion-del-convenio-tras-el-acuerdo-del-sup-y-desokupa/",
+        "date": "2024-08-04 21:20:27",
+        "sentiment_score": -0.45707689598202705
+    },
+    {
+        "title": "El Nacional gana el Torneo Intermedio uruguayo en una interminable tanda de penaltis",
+        "image_url": "./assets/ai_generated/v1_txt2img_70c4b107780e4ca78a323e6e68dbe9fd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/el-nacional-gana-el-torneo-intermedio-uruguayo-en-una-interminable-tanda-de-penaltis/",
+        "date": "2024-08-04 21:17:18",
+        "sentiment_score": 0.509338989853859
+    },
+    {
+        "title": "79-72: Australia gana a Francia y España se medirá a Bélgica en cuartos",
+        "image_url": "./assets/ai_generated/v1_txt2img_ce9f19292b834363b61f14d1756a16a7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/79-72-australia-gana-a-francia-y-espana-se-medira-a-belgica-en-cuartos/",
+        "date": "2024-08-04 21:17:01",
+        "sentiment_score": 0.15005049854516983
+    },
+    {
+        "title": "Periodista Carlos Franganillo recibe 'Castillete de Oro' del Cante de las Minas",
+        "image_url": "./assets/ai_generated/v1_txt2img_7c0d0e2da1a044248246a30601266c4d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/periodista-carlos-franganillo-recibe-castillete-de-oro-del-cante-de-las-minas/",
+        "date": "2024-08-04 21:16:43",
+        "sentiment_score": 0.25011374801397324
+    },
+    {
+        "title": "Cumbre de Diego Ventura en Huelva en el mano a mano con Andrés Romero",
+        "image_url": "./assets/ai_generated/v1_txt2img_15717bda8dea4dff9110889927ab4068.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/04/cumbre-de-diego-ventura-en-huelva-en-el-mano-a-mano-con-andres-romero/",
+        "date": "2024-08-04 21:01:10",
+        "sentiment_score": 0.15066728740930557
+    },
+    {
+        "title": "Agentes de aduana de Arizona confiscan la mayor cantidad de pastillas de fentanilo en la historia de la agencia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1009082640.webp",
+        "tags": [
+            "contrabando",
+            "narcotráfico",
+            "fentanilo"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/04/aduana-confiscan-cantidad-fentanilo-historia-trax/",
+        "date": "2024-08-04 22:18:00",
+        "sentiment_score": -0.5867814719676971
+    },
+    {
+        "title": "Al menos 30 muertos tras un ataque israelí contra dos refugios escolares de Gaza, afirma la Defensa Civil Palestina",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164828700-copy.webp",
+        "tags": [
+            "medio oriente",
+            "guerra en gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/04/30-muertos-ataque-israel-gaza-trax/",
+        "date": "2024-08-04 22:03:30",
+        "sentiment_score": -0.5812885165214539
+    },
+    {
+        "title": "\"La peor temporada de la historia\": cómo las cosas se pusieron feas en la \"isla de Instagram\" en Grecia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/santorini-turismo-grecia.webp",
+        "tags": [
+            "selfies",
+            "grecia",
+            "instanoticias",
+            "volcán",
+            "turismo",
+            "instagram"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/04/peor-temporada-cosas-feas-la-isla-instagram-grecia-turismo-santorini-trax/",
+        "date": "2024-08-04 18:03:34",
+        "sentiment_score": -0.8098254390060902
+    },
+    {
+        "title": "Biden aprueba una declaración de desastre para Florida mientras la tormenta tropical Debby avanza hacia el estado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Copia-de-FOTO-PARA-WP-2024-08-04T111415.635.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/04/biden-aprueba-declaracion-desastre-florida-tormenta-tropical-debby-trax/",
+        "date": "2024-08-04 17:20:48",
+        "sentiment_score": -0.6459182053804398
+    },
+    {
+        "title": "El tren que sufrimos",
+        "image_url": "./assets/ai_generated/v1_txt2img_22df2eca763e468d86f2cf91a9512b1c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-tren-sufrimos-20240805112238-nts.html",
+        "date": "2024-08-04 22:17:25",
+        "sentiment_score": -0.13983167707920074
+    },
+    {
+        "title": "Senderos de gloria",
+        "image_url": "./assets/ai_generated/v1_txt2img_3b79fcfc3e1f4ab7a9f25226ac9c58a0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-senderos-gloria-20240805214822-nts.html",
+        "date": "2024-08-04 22:17:11",
+        "sentiment_score": 0.05024921894073486
+    },
+    {
+        "title": "Caracas, en vilo por el desenlace electoral, aún no ha recuperado su normalidad",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/04/venezuelaaa-RK7ob2gchUj9Qy3VvM2paDP-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/caracas-vilo-desenlace-electoral-recuperado-normalidad-20240804205459-nt.html",
+        "date": "2024-08-04 18:54:59",
+        "sentiment_score": -0.16640904545783997
+    },
+    {
+        "title": "Trump y el bitcoin",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/04/trump-RxM7PNfDSYQP0u0oejH8YSM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-trump-bitcoin-20240804202317-nt.html",
+        "date": "2024-08-04 18:23:17",
+        "sentiment_score": -0.2354099005460739
+    },
+    {
+        "title": "La competencia bien, ¿y la subsistencia qué tal?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/04/iberiaair-Rk1uJTznrGa5f1jA7kezgGK-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-competencia-bien-subsistencia-20240804201708-nt.html",
+        "date": "2024-08-04 18:17:53",
+        "sentiment_score": -0.05733036994934082
+    },
+    {
+        "title": "Zelenski exhibe los primeros aviones F-16 estadounidenses mientras las tropas rusas continúan su avance en Donbás",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/04/zelenski02-R9Lw31xPHqu6sO7Q2xXzq6K-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/zelenski-exhibe-primeros-aviones-f16-estadounidenses-tropas-20240804195251-nt.html",
+        "date": "2024-08-04 17:52:51",
+        "sentiment_score": -0.1270783543586731
+    },
+    {
+        "title": "La Justicia británica embarga derechos de Aena en Reino Unido por los impagos de las renovables",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/04/luton_20240804193228-RRv7zBn99NX9UpPKQF77avL-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/justicia-britanica-embarga-derechos-aena-reino-unido-20240804194611-nt.html",
+        "date": "2024-08-04 17:46:12",
+        "sentiment_score": -0.10852846503257751
+    },
+    {
+        "title": "El caldo de cultivo de la desinformación",
+        "image_url": "./assets/ai_generated/v1_txt2img_bb03ed7d4e8d492db7428a637e33ab44.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-caldo-cultivo-desinformacion-20240805183055-nt.html",
+        "date": "2024-08-04 17:39:43",
+        "sentiment_score": -0.83504518866539
+    },
+    {
+        "title": "París 2024 y la celebración del fracaso",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/05/sena-espana-U04837054573Gdg-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-paris-2024-celebracion-fracaso-20240805184501-nt.html",
+        "date": "2024-08-04 17:27:45",
+        "sentiment_score": -0.007667362689971924
+    },
+    {
+        "title": "La metamorfosis de Occidente",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/05/ENFOQUEABC_MetamorfosisdeOccidente_SORMAN(1)-RU6jtaIUalVDdi1Rz0WbE0K-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-metamorfosis-occidente-20240805181807-nt.html",
+        "date": "2024-08-04 17:22:27",
+        "sentiment_score": -0.10468026995658875
+    },
+    {
+        "title": "Un herido grave con el brazo semiamputado y una herida en el tórax en Puente de Vallecas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MCGNIVVHPKTNBUOD5FIGHJJSYE.jpg?auth=ecd7c50bf327171b34ff5b7fc74cef28c68da331399400c9cf725cbf7e7ce688",
+        "tags": [
+            "policía",
+            "madrid",
+            "comunidad de madrid",
+            "armas blancas",
+            "bandas latinas",
+            "sucesos",
+            "agresiones físicas"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-08-04/un-herido-grave-con-el-brazo-semiamputado-y-una-herida-en-torax-en-puente-de-vallecas.html",
+        "date": "2024-08-04 21:55:31",
+        "sentiment_score": -0.4325283709913492
+    },
+    {
+        "title": "Paula Echevarría: \"Claro que puedo salir a hacer la mamarracha en el escenario, otra cosa es que salga bien\"",
+        "image_url": "https://s1.elespanol.com/2024/07/09/bluper/869173102_247631344_1706x960.jpg?contentId=ESPIMA20240709_0028",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/bluper/20240805/paula-echevarria-claro-puedo-salir-hacer-mamarracha-escenario-cosa-salga-bien/864663932_0.html",
+        "date": "2024-08-04 22:14:02",
+        "sentiment_score": 0.8376042516902089
+    },
+    {
+        "title": "Marruecos dispara contra la ministra Sira Rego",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/europapress-6101956-ministra-infancia-juventud-sira-rego-interviene-desayuno-informativo-nueva-1440x808.jpg",
+        "tags": [
+            "marruecos",
+            "internacional",
+            "sáhara occidental",
+            "sira rego"
+        ],
+        "link": "https://www.elindependiente.com/internacional/2024/08/05/marruecos-dispara-contra-la-ministra-sira-rego/",
+        "date": "2024-08-04 22:06:11",
+        "sentiment_score": -0.7659757900983095
+    },
+    {
+        "title": "El curioso destape chino: del mercado tradicional al socialismo peculiar",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/08/05/viaje-china-dia2-1-kUWF-U220863594887FEI-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/vivir/curioso-destape-chino-mercado-tradicional-socialismo-peculiar-20240805000143-ntrc.html",
+        "date": "2024-08-04 22:02:04",
+        "sentiment_score": -0.4459841847419739
+    },
+    {
+        "title": "El curioso destape chino: del mercado tradicional al socialismo peculiar",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/08/05/viaje-china-dia2-2-kUWF--758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/vivir/curioso-destape-chino-mercado-tradicional-socialismo-peculiar-20240805000143-ntrc.html",
+        "date": "2024-08-04 22:02:04",
+        "sentiment_score": 0.05199393630027771
+    },
+    {
+        "title": "Cataluña, entre el torero y el bombero torero",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/21/pensamiento/zona-franca/872172843_13255949_1706x960.jpg?contentId=ESPIMA20240721_0069",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20240804/cataluna-entre-el-torero-bombero/875792414_13.html",
+        "date": "2024-08-04 21:50:03",
+        "sentiment_score": -0.2072071209549904
+    },
+    {
+        "title": "Els vint-i-quatre herois de la Reconciliació",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/086e6124-29e0-498c-b6ac-2a463968aac9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.informacion.es/economia/2024/08/04/els-vint-quatre-herois-reconciliacio-106569630.html",
+        "date": "2024-08-04 21:19:52",
+        "sentiment_score": -0.4185880869626999
+    },
+    {
+        "title": "Los barones del PP agotan el plazo para llevar al TC la Ley de Amnistía ante un Page que les ha tomado la delantera",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/pp-amnistia-tc.webp",
+        "tags": [
+            "amnistía",
+            "españa",
+            "tribunal constitucional",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/08/05/los-barones-del-pp-agotan-el-plazo-para-llevar-al-tc-la-ley-de-amnistia-ante-un-page-que-les-ha-tomado-la-delantera/",
+        "date": "2024-08-04 22:06:06",
+        "sentiment_score": -0.45055889897048473
+    },
+    {
+        "title": "Los semáforos del lunes 5 de agosto: Carlos Alcaraz, Sara Sorribes, Carolina Marín y Donald Trump",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20240805/9852453/semaforos-lunes-5-agosto-alcaraz-sorribes-marin-trump.html",
+        "date": "2024-08-04 22:00:00",
+        "sentiment_score": 0.10833850502967834
+    },
+    {
+        "title": "Cenando en la Generalitat",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/f24b5d90a29ee6b04bd43bf91e9cc338/crop/10x752/2039x2105/resize/2029/assets/multimedia/imagenes/2024/08/04/17228045682974.jpg",
+        "tags": [
+            "economía>",
+            "opinión>"
+        ],
+        "link": "https://www.expansion.com/opinion/2024/08/04/66afe543468aebf51c8b458f.html",
+        "date": "2024-08-04 21:57:36",
+        "sentiment_score": -0.9188968949019909
+    },
+    {
+        "title": "Microcirujano a los mandos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/14/pensamiento/847675268_12777166_1706x960.jpg?contentId=ESPIMA20240414_0044",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240804/microcirujano-los-mandos/875792415_13.html",
+        "date": "2024-08-04 21:49:54",
+        "sentiment_score": -0.05878118425607681
+    },
+    {
+        "title": "H&M aún sigue en guerra con su plantilla en Barcelona: irá a los tribunales por este otro conflicto",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/31/business/874672600_13292411_1706x960.jpg?contentId=ESPIMA20240731_0076",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240804/hm-en-guerra-plantilla-barcelona-tribunales-conflicto/874662606_0.html",
+        "date": "2024-08-04 21:48:09",
+        "sentiment_score": 0.2670471742749214
+    },
+    {
+        "title": "Cataluña alberga un tercio de las oficinas con riesgo de cierre si BBVA y el Sabadell se fusionan",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/01/21/business/business_5010167_1699293_1706x960.jpg?contentId=ESPIMA20150121_0668",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240804/cataluna-alberga-de-oficinas-bbva-sabadell-fusionan/875662463_0.html",
+        "date": "2024-08-04 21:47:44",
+        "sentiment_score": 0.43789178133010864
+    },
+    {
+        "title": "Lluís Llach",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/25/politica/873172713_13270731_1706x960.jpg?contentId=ESPIMA20240725_0039",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240804/lluis-llach/875662470_0.html",
+        "date": "2024-08-04 21:46:50",
+        "sentiment_score": -0.17762693762779236
     }
 ];
