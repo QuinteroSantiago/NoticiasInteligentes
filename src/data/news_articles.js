@@ -203,18 +203,6 @@ export default [
         "sentiment_score": -0.8994755698367953
     },
     {
-        "title": "Quién es Paul Whelan, el ex infante de Marina detenido por cinco años en Rusia y liberado en un intercambio de prisioneros",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2022/12/paul-whelan-e1670610825875.jpg?quality=100&strip=info",
-        "tags": [
-            "brittney griner",
-            "rusia",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/01/quien-es-paul-whelan-detenido-rusia-orix/",
-        "date": "2024-08-01 14:20:47",
-        "sentiment_score": -0.46147633343935013
-    },
-    {
         "title": "Diferencias de hasta 20 euros en las gasolineras para llenar el depósito",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/01/gasolineraep-RwflMqMi3pu7baOV8uTG3fJ-758x531@diario_abc.JPG",
         "tags": [
@@ -295,32 +283,6 @@ export default [
         "sentiment_score": 0.0738099217414856
     },
     {
-        "title": "Gonzalo Bernardos, muy duro con Page por su inacción frente al pacto entre PSC y ERC en Cataluña: «Como era de esperar...»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/01/page-gonzalo-bernardos-kgk-U602911803102hvH-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gonzalo-bernardos-duro-page-inaccion-frente-pacto-20240801141137-nt.html",
-        "date": "2024-08-01 12:11:38",
-        "sentiment_score": 0.00461125373840332
-    },
-    {
-        "title": "El menor al que amputaron una mano disparó previamente a sus agresores con una escopeta",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/7f/media_thumb-link-3964795.webp",
-        "tags": [
-            "escopeta",
-            "actualidad",
-            "menor",
-            "amputación",
-            "bandas juveniles",
-            "madrid",
-            "mano"
-        ],
-        "link": "https://www.meneame.net/story/menor-amputaron-mano-disparo-previamente-agresores-escopeta",
-        "date": "2024-08-01 11:15:04",
-        "sentiment_score": -0.7707247454673052
-    },
-    {
         "title": "El TSJ suspende el concurso para elegir la dirección del IVAM por un recurso que cuestiona su jurado",
         "image_url": "https://imagenes.elpais.com/resizer/v2/LYQFPFF7ZNCGTKO4O5NBZ545LA.JPG?auth=bd125f45058fef483816ef1ce9093c37419eabb1d75233ae25d2e5f8c7143c0c",
         "tags": [
@@ -398,105 +360,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-01/el-periodista-espanol-pablo-gonzalez-liberado-en-un-intercambio-de-presos-entre-ee-uu-y-rusia.html",
         "date": "2024-08-01 14:35:57",
         "sentiment_score": -0.7479307092726231
-    },
-    {
-        "title": "Tirón de orejas a Lobato por su rechazo al acuerdo de financiación en Cataluña: “Las críticas, desde la lealtad y en los foros adecuados”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KRG3RD3QTQCFDFW2C3M3XH6VXY.jpg?auth=271212da9cffadc9f34163de72fb2a8f0d61a7a08e6b91e83c4ce3136d5acbdd",
-        "tags": [
-            "juan lobato",
-            "salvador illa",
-            "isabel díaz ayuso",
-            "josé luis martínez almeida",
-            "generalitat cataluña",
-            "comunidad de madrid",
-            "madrid",
-            "cataluña",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-08-01/tiron-de-orejas-a-lobato-por-su-rechazo-al-acuerdo-de-financiacion-en-cataluna-las-criticas-desde-la-lealtad-y-en-los-foros-adecuados.html",
-        "date": "2024-08-01 14:17:41",
-        "sentiment_score": -0.9010830856859684
-    },
-    {
-        "title": "Cuatro personas investigadas por provocar el incendio de Loeches con maquinaria agrícola",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EYB6CZAIZLFMFPZB5UIU3PNM5Q.jpg?auth=0fa696ad54295d9a14608d823223ce5e2987d64c89faed17458b1c611486abed",
-        "tags": [
-            "incendios",
-            "madrid",
-            "incendios forestales",
-            "detenciones",
-            "seprona",
-            "comunidad de madrid",
-            "sucesos",
-            "guardia civil",
-            "incendios forestales intencionados"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-08-01/cuatro-personas-investigadas-por-provocar-el-incendio-de-loeches-con-maquinaria-agricola.html",
-        "date": "2024-08-01 13:54:08",
-        "sentiment_score": -0.9085657680407166
-    },
-    {
-        "title": "El empresario Carlos Barrabés mantiene su versión ante el juez Peinado y descarta irregularidades",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/44SZQ4L3J5JEZFJEEJ3DDP7GUY.jpg?auth=4328a1972fefb84bd48104462966f03ad773136f582481df1a26bccc76cddcc6",
-        "tags": [
-            "ap madrid",
-            "tsj madrid",
-            "fiscalía",
-            "gobierno",
-            "pedro sánchez",
-            "psoe",
-            "corrupción",
-            "carlos barrabés",
-            "españa",
-            "guardia civil",
-            "justicia",
-            "delitos",
-            "investigación judicial",
-            "begoña gómez fernández"
-        ],
-        "link": "https://elpais.com/espana/2024-08-01/el-empresario-carlos-barrabes-mantiene-su-version-ante-el-juez-peinado-y-descarta-irregularidades.html",
-        "date": "2024-08-01 12:55:10",
-        "sentiment_score": -0.20742253959178925
-    },
-    {
-        "title": "La Generalitat valenciana deja en manos de los Ayuntamientos la limitación, el control y las sanciones a viviendas turísticas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2OVVO52ZNJGMZOG26NLGN5BG4E.JPG?auth=f13ebeada954002edf82a60fca7f4fad122543f9f325b9ffd2f06a32495dfa89",
-        "tags": [
-            "viviendas alquiler",
-            "viviendas vacacionales",
-            "carlos mazón",
-            "castellón",
-            "alojamientos",
-            "precio vivienda",
-            "generalitat valenciana",
-            "alicante",
-            "valencia",
-            "comunidad valenciana",
-            "ciudades turísticas",
-            "turismo",
-            "viviendas vacías"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-01/la-generalitat-deja-en-manos-de-los-ayuntamientos-la-limitacion-el-control-y-las-sanciones-a-viviendas-turisticas.html",
-        "date": "2024-08-01 12:29:24",
-        "sentiment_score": -0.8214000556617975
-    },
-    {
-        "title": "El PP hurga en la consulta de ERC y advierte a los republicanos de que Sánchez les “engaña” con el concierto económico",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZF76STNKSBDKW7QLLBL523252I.jpg?auth=554d6ba6d85ae4d90fe76fb81a0314954025c911b97984c804eb0bd8a045ae09",
-        "tags": [
-            "psoe",
-            "financiación autonómica",
-            "psc",
-            "pp",
-            "alberto núñez feijóo",
-            "españa",
-            "erc",
-            "miguel tellado",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2024-08-01/el-pp-hurga-en-la-consulta-de-erc-y-advierte-a-los-republicanos-de-que-sanchez-les-engana-con-el-concierto-economico.html",
-        "date": "2024-08-01 12:07:08",
-        "sentiment_score": -0.5734607428312302
     },
     {
         "title": "Mesut Özil pide la destrucción de Israel",
@@ -674,123 +537,6 @@ export default [
         "link": "https://www.noticiasdegipuzkoa.eus/deportes/juegos-olimpicos/gipuzkoa-en-los-juegos-olimpicos/2024/08/01/medalla-numero-36-juegos-olimpicos-8545687.html",
         "date": "2024-08-01 16:52:30",
         "sentiment_score": 0.0005457699298858643
-    },
-    {
-        "title": "Detienen a madre y su pareja por maltrato contra niño de tres años en Zulia",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/maltrato.jpg",
-        "tags": [
-            "maltrato infantil",
-            "maracaibo",
-            "2001online",
-            "zulia",
-            "sucesos"
-        ],
-        "link": "https://2001online.com/sucesos/detienen-a-madre-y-su-pareja-por-maltrato-contra-nino-de-tres-anos-en-zulia/",
-        "date": "2024-08-01 13:35:46",
-        "sentiment_score": -0.7988294754177332
-    },
-    {
-        "title": "Esta es la forma correcta de lavar la coliflor y eliminar los gusanos",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/la-forma-correcta-de-lavar-la-coliflor-y-eliminar-los-gusanos-1024x512.jpeg",
-        "tags": [
-            "lavar",
-            "desinfectar",
-            "zona 3d",
-            "gusanos",
-            "hogar",
-            "coliflor"
-        ],
-        "link": "https://2001online.com/zona3d/hogar/esta-es-la-forma-correcta-de-lavar-la-coliflor-y-eliminar-los-gusanos/",
-        "date": "2024-08-01 13:28:15",
-        "sentiment_score": 0.25681135803461075
-    },
-    {
-        "title": "Aeropuerto de Maiquetía mantiene 100% de las operaciones",
-        "image_url": "https://2001online.com/wp-content/uploads/2023/01/Aeropuerto-Internacional-Simon-Bolivar-1024x576.jpg",
-        "tags": [
-            "aeropuerto de maiquetía mantiene 100% de las operaciones",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/aeropuerto-de-maiquetia-mantiene-100-de-las-operaciones/",
-        "date": "2024-08-01 13:28:00",
-        "sentiment_score": 0.1615961343050003
-    },
-    {
-        "title": "CAMARGONOTAS: Victoria Ruffo se reconcilia con Eugenio Derbez",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/victoria-ruffo-y-eugenio-derbez_8149318_20240730140158-1200x720.jpg",
-        "tags": [
-            "farándula",
-            "camargo notas"
-        ],
-        "link": "https://2001online.com/farandula/camargonotas-victoria-ruffo-se-reconcilia-con-eugenio-derbez/",
-        "date": "2024-08-01 13:25:52",
-        "sentiment_score": 0.02609051764011383
-    },
-    {
-        "title": "Acusan a Karol G de maltrato animal",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Karol-G-Cortesia-Instagram-.png",
-        "tags": [
-            "farándula",
-            "eeuu",
-            "internacionales",
-            "maltratoanimal",
-            "en el chisme",
-            "2001online",
-            "colombia",
-            "googlenews",
-            "entretenimiento",
-            "venezuela",
-            "nacionales",
-            "viral",
-            "karolg",
-            "1dejuliode2024",
-            "cantantecolombiana"
-        ],
-        "link": "https://2001online.com/farandula/acusan-a-karol-g-de-maltrato-animal/",
-        "date": "2024-08-01 13:20:44",
-        "sentiment_score": -0.8859649198129773
-    },
-    {
-        "title": "Conoce los pilares de la cosmética responsable",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Captura-de-pantalla-2024-08-01-a-las-9.13.33-a.-m-1.png",
-        "tags": [
-            "cosmeticaresponsable",
-            "cosmetica",
-            "belleza"
-        ],
-        "link": "https://2001online.com/zona3d/belleza/conoce-los-pilares-de-la-cosmetica-responsable/",
-        "date": "2024-08-01 13:14:53",
-        "sentiment_score": 0.23098228126764297
-    },
-    {
-        "title": "Inameh pronostica lluvias en varios estados del país: Sepa dónde",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/05/LLUVIAS-ONDRAS-TROPICALES-INAMEH--1080x720.jpg",
-        "tags": [
-            "2001online",
-            "inameh pronostica lluvias en varios estados del país: sepa dónde",
-            "venezuela",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/inameh-pronostica-lluvias-en-varios-estados-del-pais-sepa-donde/",
-        "date": "2024-08-01 11:55:33",
-        "sentiment_score": -0.021109990775585175
-    },
-    {
-        "title": "Dólar BCV Venezuela: Así se cotiza la moneda estadounidense este #01Ago",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/BCV-01-Ag.png",
-        "tags": [
-            "dólar latam",
-            "economía",
-            "2001online",
-            "venezuela",
-            "nacionales",
-            "dólar bcv",
-            "dólar bcv venezuela: así se cotiza la moneda estadounidense este #01ago",
-            "banco central de venezuela"
-        ],
-        "link": "https://2001online.com/economia/dolar-bcv-venezuela-asi-se-cotiza-la-moneda-estadounidense-este-01ago/",
-        "date": "2024-08-01 11:32:46",
-        "sentiment_score": 0.12684133648872375
     },
     {
         "title": "IAG ganó 905 millones en el primer semestre, un 1,7 % menos",
@@ -8204,5 +7950,481 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240804/lluis-llach/875662470_0.html",
         "date": "2024-08-04 21:46:50",
         "sentiment_score": -0.17762693762779236
+    },
+    {
+        "title": "Temperaturas en Málaga: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/QIMZQUH2ABFNBJR255FNF5RD34.jpg?auth=3a3d837cc60ee124c32cbf6284541bedfa9cd2156d4fa9200c9d760c4902875b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/05/temperaturas-en-malaga-preparate-antes-de-salir-de-casa/",
+        "date": "2024-08-05 02:02:44",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "¿Cómo estará el clima en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/SJPYFAELKNFZVABZOKTQW64YVE.jpg?auth=ccb7e28e8c7733d5e0f921ddfac024bd45010fcfb7c1d0d03a060cea707105c1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/05/como-estara-el-clima-en-madrid/",
+        "date": "2024-08-05 01:33:19",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Las mejores películas de Disney+ en España para ver hoy mismo",
+        "image_url": "https://www.infobae.com/resizer/v2/PWL3YMGHFNBEVG6RMTOYON3ZP4.jpg?auth=4c381125b92c5bd228f065932e98acd6c1affa420ac4e723bf1b92eace898f43",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/05/las-mejores-peliculas-de-disney-en-espana-para-ver-hoy-mismo/",
+        "date": "2024-08-05 01:31:54",
+        "sentiment_score": -0.35091663897037506
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 5 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/KIOWJPVEURHIBNQU6YXKLCI2OU.jpg?auth=cacba20d0fde539473a2dcd4a6296ab9ed4251b58495bc2b341ff362c46b967a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/05/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-5-de-agosto/",
+        "date": "2024-08-05 01:01:01",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "La lucha por salvar el explorador lunar de la NASA que busca agua y costó US$ 500 millones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/grc-2021-c-00449-large.webp",
+        "tags": [
+            "instanoticias",
+            "nasa",
+            "expedición a la luna",
+            "ciencia y espacio"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/04/lucha-salvar-explorador-luna-nasa-trax/",
+        "date": "2024-08-05 01:38:08",
+        "sentiment_score": -0.18893669545650482
+    },
+    {
+        "title": "Los resultados de las elecciones presidenciales de Venezuela no pueden ser reconocidos, dice la Unión Europea",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2149382498.jpg?quality=100&strip=info",
+        "tags": [
+            "unión europea",
+            "elecciones en venezuela",
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/04/union-europea-resultados-elecciones-venezuela-no-reconocimiento-maduro-trax/",
+        "date": "2024-08-05 00:27:31",
+        "sentiment_score": -0.7422894136980176
+    },
+    {
+        "title": "Debby se acerca a la Florida: su trayectoria y posibles consecuencias",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-71705781-1.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tormenta-tropical-debby-trayectoria-mirador-mundial-tv-ush/",
+        "date": "2024-08-04 23:38:39",
+        "sentiment_score": -0.6074739471077919
+    },
+    {
+        "title": "En Medio Oriente todos los caminos llevan a Teherán, dice especialista",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164545347.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-iran-medio-oriente-tension-mirador-mundial-tv/",
+        "date": "2024-08-04 23:37:29",
+        "sentiment_score": -0.880987792275846
+    },
+    {
+        "title": "Hay pocas condiciones para la negociación en Venezuela, dice experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165139555.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-tensiones-crecen-mirador-mundial-tv/",
+        "date": "2024-08-04 23:32:13",
+        "sentiment_score": -0.6864155977964401
+    },
+    {
+        "title": "Esto se necesita para sobrevivir en la ciudad más caliente de EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/thumb-calor.jpg?quality=100&strip=info",
+        "tags": [
+            "calor extremo",
+            "videos digitales",
+            "noticias de ee.uu.",
+            "prevención",
+            "phoenix"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/temperaturas-altas-calor-phoenix-estados-unidos-ush-trax/",
+        "date": "2024-08-04 23:27:11",
+        "sentiment_score": -0.01290111243724823
+    },
+    {
+        "title": "Gobiernos piden a su gente abandonar el Líbano por aumento de tensiones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164692095.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gobiernos-ciudadanos-abandonar-libanotensiones-mirador-mundial-tv/",
+        "date": "2024-08-04 22:51:36",
+        "sentiment_score": -0.902495177462697
+    },
+    {
+        "title": "Desinformación alimenta las protestas antinmigrantes en el Reino Unido tras apuñalamiento de varias niñas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/thu-b-uk.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-apunalamiento-ninas-extrema-derecha-reino-unido-trax/",
+        "date": "2024-08-04 22:44:14",
+        "sentiment_score": -0.8030822649598122
+    },
+    {
+        "title": "Esto piensan los migrantes venezolanos sobre lo que pasa en su país",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164693994.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "venezuela",
+            "google"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migrantes-venezolanos-elecciones-mirador-mundial-tv/",
+        "date": "2024-08-04 22:42:40",
+        "sentiment_score": -0.8799556577578187
+    },
+    {
+        "title": "España confederada",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/05/illa-bandera-U67665062651HGs-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-espana-confederada-20240805182813-nt.html",
+        "date": "2024-08-04 22:43:48",
+        "sentiment_score": -0.09987516701221466
+    },
+    {
+        "title": "James Rodríguez tiene una nueva oportunidad de jugar en Europa: no es una liga top",
+        "image_url": "https://www.infobae.com/resizer/v2/R6IRVFQURXIDZMY762SB23OPIY.jpg?auth=efc8e4178b54dd8892749a0094879cc64846318d0ac815438658cbb98f2fb713",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/05/james-rodriguez-tiene-una-nueva-oportunidad-de-jugar-en-europa-no-es-una-liga-top/",
+        "date": "2024-08-05 02:02:20",
+        "sentiment_score": -0.6112543977797031
+    },
+    {
+        "title": "Barcelona vuelve a Baltimore para preparar su último partido de la gira contra el Milán",
+        "image_url": "./assets/ai_generated/v1_txt2img_e83597ee6ba64a27a7f29b3167be914a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/05/barcelona-vuelve-a-baltimore-para-preparar-su-ultimo-partido-de-la-gira-contra-el-milan/",
+        "date": "2024-08-05 01:30:17",
+        "sentiment_score": 0.128921739757061
+    },
+    {
+        "title": "Sergio del Molino: «Me preocupa mucho más Wikipedia que el porno»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/SOTO-IVARS-portada-SIN-LETRAS-1-469x317.jpg",
+        "tags": [
+            "niños",
+            "pornografía",
+            "felipe gonzález",
+            "inmigración",
+            "isabel díaz ayuso",
+            "socialdemocracia",
+            "sumar",
+            "actualidad",
+            "historia",
+            "francisco franco",
+            "familias",
+            "psoe",
+            "alemania",
+            "pedro sánchez",
+            "novelas"
+        ],
+        "link": "https://theobjective.com/actualidad/2024-08-05/sergio-molino-preocupa-wikipedia-porno/",
+        "date": "2024-08-05 01:30:00",
+        "sentiment_score": -0.9232858847826719
+    },
+    {
+        "title": "Ancelotti pide \"paciencia\" con Endrick",
+        "image_url": "./assets/ai_generated/v1_txt2img_448d7dfb710f484fb6813b37f17ae729.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/05/ancelotti-pide-paciencia-con-endrick/",
+        "date": "2024-08-05 00:46:08",
+        "sentiment_score": -0.8580017536878586
+    },
+    {
+        "title": "El Real Madrid inicia la preparación de su último amistoso",
+        "image_url": "./assets/ai_generated/v1_txt2img_025cd59d75714e7f9e590c3d1b1aef15.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/05/el-real-madrid-inicia-la-preparacion-de-su-ultimo-amistoso/",
+        "date": "2024-08-05 00:45:51",
+        "sentiment_score": 0.15081454440951347
+    },
+    {
+        "title": "Ancelotti: \"Me enfadé con Bellingham, le llamé y no me ha contestado\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_259311c860ec4e08b288d8e3256801b9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/05/ancelotti-me-enfade-con-bellingham-le-llame-y-no-me-ha-contestado/",
+        "date": "2024-08-05 00:45:34",
+        "sentiment_score": -0.7561852913349867
+    },
+    {
+        "title": "Equi Fernández ejecutó la millonaria cláusula de salida y jugará en Arabia Saudita: la cifra récord que recibirá Boca Juniors",
+        "image_url": "https://www.infobae.com/resizer/v2/IKVVCTPMXVGRVIUCKD46GUPWKA.jfif?auth=4e9985c5564874da5d8cfc80b1f5863e98d74051eeb68906c29d9de92632d3de",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/05/equi-fernandez-ejecuto-la-millonaria-clausula-de-salida-y-jugara-en-arabia-saudita-la-cifra-record-que-recibira-boca-juniors/",
+        "date": "2024-08-05 00:40:45",
+        "sentiment_score": 0.1400875635445118
+    },
+    {
+        "title": "La nueva Majadahonda: más de 100 cámaras de IA para vigilar las calles y el fin de una Gran Vía inaccesible",
+        "image_url": "https://s1.elespanol.com/2024/03/17/quincemil/economia/motor/840676289_244319346_1706x960.jpg?contentId=ESPIMA20240317_0365",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20240805/nueva-majadahonda-camaras-ia-vigilar-calles-fin-gran-via-inaccesible/875412510_0.html",
+        "date": "2024-08-05 00:16:07",
+        "sentiment_score": 0.4683762639760971
+    },
+    {
+        "title": "Roberto López: 24 partidos y un gol el día que el Athletic hizo pasillo a la Real",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/08/05/robertoapoyo--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/roberto-lopez-partidos-gol-dia-athletic-hizo-20240805071352-nt.html",
+        "date": "2024-08-05 00:00:00",
+        "sentiment_score": 0.24898697435855865
+    },
+    {
+        "title": "El genio de los Tercios que asombró a España: inventó la máquina de vapor un siglo antes que los ingleses",
+        "image_url": "https://s1.elespanol.com/2024/08/02/historia/875172745_248268785_1706x960.jpg?contentId=ESPIMA20240802_0271",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20240805/genio-tercios-asombro-espana-invento-maquina-vapor-siglo-ingleses/875162642_0.html",
+        "date": "2024-08-04 22:38:02",
+        "sentiment_score": 0.16149070858955383
+    },
+    {
+        "title": "Alex Arce amplía racha goleadora con Liga en Ecuador y Bello debuta con gol en Barcelona",
+        "image_url": "./assets/ai_generated/v1_txt2img_07c8d43efe554ab7883f35a60ae05c09.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/05/alex-arce-amplia-racha-goleadora-con-liga-en-ecuador-y-bello-debuta-con-gol-en-barcelona/",
+        "date": "2024-08-05 01:30:34",
+        "sentiment_score": 0.6098253130912781
+    },
+    {
+        "title": "Eutanasia en prisión: el caso español que sienta un precedente en Europa",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2022/08/094800/muere-pistolero-tarragona.jpg",
+        "tags": [
+            "eutanasia",
+            "sucesos",
+            "presos",
+            "sociedad"
+        ],
+        "link": "https://theobjective.com/sociedad/2024-08-05/pistolero-tarragona-eutanasia/",
+        "date": "2024-08-05 01:30:00",
+        "sentiment_score": -0.4880121201276779
+    },
+    {
+        "title": "Fuga de inmobiliarias y promotoras de Cataluña por las trabas a la vivienda",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/banco-1-1-469x317.jpg",
+        "tags": [
+            "economía española",
+            "inmobiliario",
+            "construcción",
+            "inversión",
+            "cataluña",
+            "vivienda"
+        ],
+        "link": "https://theobjective.com/espana/cataluna/2024-08-05/fuga-promotoras-inmobiliarias-cataluna/",
+        "date": "2024-08-05 01:30:00",
+        "sentiment_score": -0.9032654017210007
+    },
+    {
+        "title": "Una golosina envenenada para Cataluña",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/SALVADOR-ILLA-DEFINITIVA-469x317.jpg",
+        "tags": [
+            "independentismo catalán",
+            "cataluña",
+            "aliança catalana",
+            "opinión"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/opinion/2024-08-05/una-golosina-envenenada-para-cataluna/",
+        "date": "2024-08-05 01:30:00",
+        "sentiment_score": -0.5661384165287018
+    },
+    {
+        "title": "El rocambolesco regreso de Puigdemont con su ‘bomba atómica’",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/04/66afa08d06cbb.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/240805/1590836/rocambolesco-regreso-puigdemont-bomba-atomica.html",
+        "date": "2024-08-05 01:30:00",
+        "sentiment_score": -0.38686809688806534
+    },
+    {
+        "title": "Manuel Navarrete: «El crimen organizado es más agresivo, tecnificado y corruptor»",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/04/66afc47726927.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/240805/1590933/crimen-organizado-agresivo-tecnificado-corruptor.html",
+        "date": "2024-08-05 01:25:00",
+        "sentiment_score": -0.9058714518323541
+    },
+    {
+        "title": "El CGPJ autoriza la jubilación anticipada de Aguirre, otro juez del 'procés' que tira la toalla",
+        "image_url": "https://s1.elespanol.com/2024/08/04/espana/tribunales/875672529_248270421_1706x960.jpg?contentId=ESPIMA20240804_0105",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20240805/cgpj-autoriza-jubilacion-anticipada-aguirre-juez-proces-tira-toalla/875662467_0.html",
+        "date": "2024-08-05 00:57:24",
+        "sentiment_score": -0.6914146915078163
+    },
+    {
+        "title": "Más de 600 funcionarios atenderán a los peregrinos del Santo Cristo de La Grita",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/santo-cristo-de-la-grita-700x352-1.png",
+        "tags": [
+            "santo cristo de la grita",
+            "comunidad",
+            "protección civil"
+        ],
+        "link": "https://2001online.com/comunidad/600-funcionarios-atenderan-a-los-peregrinos-del-santo-cristo-de-la-grita/",
+        "date": "2024-08-05 01:12:52",
+        "sentiment_score": 0.1758255958557129
+    },
+    {
+        "title": "Maduro a la UE y Josep Borrell: Son una verguenza",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Nicolas-Maduro-3.jpeg",
+        "tags": [
+            "nacionales",
+            "unión europea",
+            "nicolás maduro",
+            "josep borrell"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-a-la-ue-y-josep-borrell-son-una-verguenza/",
+        "date": "2024-08-05 00:51:06",
+        "sentiment_score": -0.929966514930129
+    },
+    {
+        "title": "Maduro denuncia que la “derecha fascista de los apellidos” tiene un plan contra la FANB",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Nicolas-Maduro-2.jpeg",
+        "tags": [
+            "nacionales",
+            "fanb",
+            "nicolás maduro"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-denuncia-que-la-derecha-fascista-de-apellidos-tiene-plan-contra-la-fanb/",
+        "date": "2024-08-05 00:27:28",
+        "sentiment_score": -0.7625833936035633
+    },
+    {
+        "title": "Gobierno de Venezuela rechaza comunicado de la UE",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Cancilleria-Venezuela.jpg",
+        "tags": [
+            "nacionales",
+            "unión europea",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/gobierno-de-venezuela-rechaza-comunicado-de-la-ue/",
+        "date": "2024-08-04 22:41:12",
+        "sentiment_score": -0.31398625671863556
+    },
+    {
+        "title": "Canciller de Venezuela reaccionó a informe de observadores colombianos",
+        "image_url": "./assets/ai_generated/v1_txt2img_1adf5fa341ac4cc0ac8749e7a7e7e278.png",
+        "tags": [
+            "nacionales",
+            "canciller de venezuela reaccionó a informe de observadores colombianos"
+        ],
+        "link": "https://2001online.com/nacionales/canciller-de-venezuela-reacciono-a-informe-de-observadores-colombianos/",
+        "date": "2024-08-04 19:39:40",
+        "sentiment_score": -0.16452960669994354
+    },
+    {
+        "title": "Saime alerta sobre estafa por correo electrónico (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Foto-cortesia-3.jpg",
+        "tags": [
+            "pasaporte venezolano",
+            "prórroga",
+            "envío de documentos",
+            "saime",
+            "venezuela",
+            "cédula de identidad",
+            "nacionales",
+            "internacionales",
+            "2001online",
+            "valijas del saime"
+        ],
+        "link": "https://2001online.com/nacionales/saime-alerta-sobre-estafa-por-correo-electronico-detalles/",
+        "date": "2024-08-04 19:28:57",
+        "sentiment_score": -0.5555873177945614
+    },
+    {
+        "title": "Tarek William Saab sobre órdenes de captura contra María Corina y Edmundo González : No existen en este momento",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Saab-Canserbero.jpg",
+        "tags": [
+            "nacionales",
+            "maría corina machado",
+            "edmundo gonzález",
+            "tarek william saab"
+        ],
+        "link": "https://2001online.com/nacionales/tarek-william-saab-sobre-ordenes-de-captura-contra-maria-corina-y-edmundo-gonzalez-no-existen-en-este-momento/",
+        "date": "2024-08-04 16:20:57",
+        "sentiment_score": -0.4743669629096985
+    },
+    {
+        "title": "Llegan nuevos turistas a la Isla de Margarita (+DETALLES)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/IMG_20240804_110157-1024x720.jpg",
+        "tags": [
+            "nacionales",
+            "llegan nuevos turistas a la isla de margarita",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/llegan-nuevos-turistas-a-la-isla-de-margarita-detalles/",
+        "date": "2024-08-04 15:16:46",
+        "sentiment_score": 0.07280953973531723
+    },
+    {
+        "title": "Ministro Ceballos reporta nueva incautación de armas de guerra (+FOTOS)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/INCAUTACION-ARMAS-CPNB2-768x1024.jpg",
+        "tags": [
+            "nacionales",
+            "ministro ceballos reporta nueva incautación de armas de guerra",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/ministro-ceballos-reporta-nueva-incautacion-de-armas-de-guerra-fotos/",
+        "date": "2024-08-04 14:07:54",
+        "sentiment_score": -0.5092171058058739
+    },
+    {
+        "title": "Sepa qué pronostica el Inameh para este domingo 4 de agosto",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Inameh-1-1.jpg",
+        "tags": [
+            "nacionales",
+            "sepa qué pronostica el inameh para este domingo 4 de agosto",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/sepa-que-pronostica-el-inameh-para-este-domingo-4-de-agosto/",
+        "date": "2024-08-04 12:58:56",
+        "sentiment_score": -0.026805289089679718
     }
 ];
