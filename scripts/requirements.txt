@@ -1,7 +1,0 @@
-pandas
-requests
-torch
-transformers
-sentencepiece
-protobuf
-deep_translator
