@@ -32,12 +32,11 @@ function NewsFeed() {
    const [numPages, setNumPages] = useState(0);
 
    useEffect(() => {
-      // Fetch the news data from the dist/data directory
-      fetch('/data/news_articles.json')
+      fetch('assets/data/news_articles.json')
          .then(response => response.json())
          .then(data => setNewsData(data))
          .catch(error => console.error('Error loading news data:', error));
-    }, []);
+   }, []);
 
    useEffect(() => {
         let filteredData = newsData.filter(newsItem => {
