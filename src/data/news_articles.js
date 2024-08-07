@@ -111,38 +111,6 @@ export default [
         "sentiment_score": -0.6948111988604069
     },
     {
-        "title": "¿De qué se trata el inédito recurso judicial que Maduro solicitó para dirimir los controvertidos resultados electorales?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/maduro-2.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "nicolás maduro"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/03/inedito-recurso-judicial-maduro-solicito-resultados-electorales-orix/",
-        "date": "2024-08-03 12:38:44",
-        "sentiment_score": -0.14611612260341644
-    },
-    {
-        "title": "Cómo son los últimos días antes de la decisión de Kamala Harris sobre su candidato a la vicepresidencia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/kamalaharris.webp",
-        "tags": [
-            "kamala harris",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/03/decision-kamala-harris-candidato-vicepresidencia-trax/",
-        "date": "2024-08-03 12:12:27",
-        "sentiment_score": -0.012051820755004883
-    },
-    {
-        "title": "Diez personas arrestadas durante la última protesta en el Reino Unido tras apuñalamientos fatales",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Southport-e1722658613188.jpg?quality=100&strip=info",
-        "tags": [
-            "reino unido"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/03/arrestados-reino-unido-protesta-apunalamientos-trax/",
-        "date": "2024-08-03 12:04:06",
-        "sentiment_score": -0.9008180815726519
-    },
-    {
         "title": "Edmundo González: «La verdad es el camino de la paz»",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/03/edmundo-gonzalez-RNrdWKcWadHvcLiKYBTClJM-758x531@diario_abc.jpg",
         "tags": [
@@ -161,16 +129,6 @@ export default [
         "link": "https://www.abc.es/internacional/israel-intenta-retomar-negociacion-gaza-espera-ataque-20240803173258-nt.html",
         "date": "2024-08-03 15:33:18",
         "sentiment_score": -0.1015942394733429
-    },
-    {
-        "title": "El Mossad contrató a agentes iraníes para colocar explosivos en la residencia de Haniyeh",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/03/haniyeh-Rngym5JA6QD4VJei8hsRKcJ-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/mossad-contrato-agentes-iranies-colocar-explosivos-residencia-20240803132026-nt.html",
-        "date": "2024-08-03 11:20:27",
-        "sentiment_score": -0.16545909643173218
     },
     {
         "title": "Barcelona reabre la playa urbana del Fòrum, tras constatar que está libre de peces raya",
@@ -402,29 +360,6 @@ export default [
         "link": "https://2001online.com/economia/cuanto-lleva-recaudado-el-seniat-en-lo-que-va-de-ano-2/",
         "date": "2024-08-03 14:29:45",
         "sentiment_score": -0.04467913135886192
-    },
-    {
-        "title": "Autoridades venezolanas conmemoran Día de la Bandera",
-        "image_url": "https://2001online.com/wp-content/uploads/2022/08/Bandera-de-Venezuela-1320x960-1024x745-1.jpg",
-        "tags": [
-            "nacionales",
-            "autoridades venezolanas conmemoran día de la bandera"
-        ],
-        "link": "https://2001online.com/nacionales/autoridades-venezolanas-conmemoran-dia-de-la-bandera/",
-        "date": "2024-08-03 13:26:12",
-        "sentiment_score": 0.11897788569331169
-    },
-    {
-        "title": "Inameh estima mantos nubosos con lluvias para este 3 de agosto",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Inameh-lluvias-1.jpg",
-        "tags": [
-            "inameh estima mantos nubosos con lluvias para este 3 de agosto",
-            "nacionales",
-            "venezuela"
-        ],
-        "link": "https://2001online.com/nacionales/inameh-estima-mantos-nubosos-con-lluvias-para-este-3-de-agosto/",
-        "date": "2024-08-03 12:30:01",
-        "sentiment_score": 0.009645447134971619
     },
     {
         "title": "4-1. El Betis explota la debilidad defensiva del Al-Ittihad",
@@ -7115,5 +7050,413 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2024/08/06/87-122-estados-unidos-a-semifinales-sin-despeinarse/",
         "date": "2024-08-06 21:46:12",
         "sentiment_score": -0.09916245937347412
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/EN63MOYNGNBVDEDDCLWJ3VSQVA.jpg?auth=4f008b3b76a1c44c9cfe24e340e168a2460f603f99fb933dfe5cd73629a158fb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/07/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-madrid/",
+        "date": "2024-08-07 01:31:49",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Previsión meteorológica del tiempo en Barcelona para este 7 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/PCSES7TWX5HBBPLOWPN7B7L6D4.jpg?auth=33f1f24757c7103fcea318cd18f74d83d73a41685f4db9fe086ad3d2959ec190",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/07/prevision-meteorologica-del-tiempo-en-barcelona-para-este-7-de-agosto/",
+        "date": "2024-08-07 01:01:02",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Muere el diputado foral de Hacienda, Jokin Perona, atropellado en Peleas de Abajo (Zamora)",
+        "image_url": "./assets/ai_generated/v1_txt2img_8e0eb26941c3494686ea04cc7aa5d11f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/06/muere-el-diputado-foral-de-hacienda-jokin-perona-atropellado-en-peleas-de-abajo-zamora/",
+        "date": "2024-08-06 23:46:13",
+        "sentiment_score": -0.8736529806628823
+    },
+    {
+        "title": "'Dido y Eneas', la verdadera joya escondida en una sola noche de festival",
+        "image_url": "./assets/ai_generated/v1_txt2img_740c563cda1b478da8ba009ce4ae6db7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/06/dido-y-eneas-la-verdadera-joya-escondida-en-una-sola-noche-de-festival/",
+        "date": "2024-08-06 23:32:07",
+        "sentiment_score": 0.8131028711795807
+    },
+    {
+        "title": "Cristina Bucsa y Xu eliminadas del dobles en la primera ronda del WTA 1000 de Toronto",
+        "image_url": "./assets/ai_generated/v1_txt2img_b12e32d2d08c48c0bc58bcebbc9ee52b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/06/cristina-bucsa-y-xu-eliminadas-del-dobles-en-la-primera-ronda-del-wta-1000-de-toronto/",
+        "date": "2024-08-06 22:47:39",
+        "sentiment_score": -0.30520159751176834
+    },
+    {
+        "title": "Cata Coll pide \"perdón\" entre lágrimas: No he estado a la altura\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_4ffcf835a6924bd6bff8b0ebae99f98b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/06/cata-coll-pide-perdon-entre-lagrimas-no-he-estado-a-la-altura/",
+        "date": "2024-08-06 22:20:12",
+        "sentiment_score": -0.8135886397212744
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 7 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_1ad3f9be65c741aba5c3acbaebb0d279.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/06/hoy-sera-noticia-miercoles-7-de-agosto-de-2024/",
+        "date": "2024-08-06 22:19:41",
+        "sentiment_score": 0.027491159737110138
+    },
+    {
+        "title": "Este es el famoso auto del expresidente de Uruguay José Mujica",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/jose-mujica-volkswagen-beetle-orix-00-02-39-15-still003.jpg?quality=100&strip=info",
+        "tags": [
+            "videos digitales",
+            "volkswagen",
+            "uruguay",
+            "josé mujica"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jose-mujica-volkswagen-beetle-orix/",
+        "date": "2024-08-07 02:11:18",
+        "sentiment_score": -0.07912042737007141
+    },
+    {
+        "title": "El impacto del \"lunes negro\" en América Latina",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1234740242.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/crisis-economia-america-mercados-impacto-bolsillo-peso-aristegui-tv/",
+        "date": "2024-08-07 01:57:44",
+        "sentiment_score": -0.0891878604888916
+    },
+    {
+        "title": "¿Habrá un \"efecto dominó\" tras la caída de los mercados mundiales?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2149642113.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lunes-negro-caida-bolsa-valores-efectos-mundiales-crisis-economica-nikkei-aristegui-tv/",
+        "date": "2024-08-07 01:50:41",
+        "sentiment_score": -0.31290403008461
+    },
+    {
+        "title": "Crecen detenciones en Venezuela, ¿estas son las características de la revolución con la que amenazó Maduro?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163949935.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/revolucion-caracteristicas-maduro-regimen-venezuela-detenidos-conclusiones-tv/",
+        "date": "2024-08-07 01:43:09",
+        "sentiment_score": -0.9113411419093609
+    },
+    {
+        "title": "Con la intención en defender nuevamente a Israel, EE.UU. presiona a Irán e Israel para que reduzcan la escalada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2162844952.webp",
+        "tags": [
+            "instanoticias",
+            "medio oriente",
+            "joe biden",
+            "hezbollah",
+            "benjamin netanyahu"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/06/estados-unidos-presiona-iran-israel-trax/",
+        "date": "2024-08-07 01:40:20",
+        "sentiment_score": -0.7376456223428249
+    },
+    {
+        "title": "Hamas nombra a nuevo jefe político tras la muerte de Haniyeh",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1479583-quien-es-yahya-sinwar-el-principal-objetivo-de-israel.jpg?quality=100&strip=info",
+        "tags": [
+            "israel hamas gaza",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/yahya-sinwarm-nuevo-jefe-politico-hamas-panorama-mundial-tv/",
+        "date": "2024-08-07 01:31:06",
+        "sentiment_score": -0.5403942540287971
+    },
+    {
+        "title": "Ministro de Israel dice que podría ser “moral” dejar morir de hambre a residentes de Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20714759-7710-397000000001-still.jpg?quality=100&strip=info",
+        "tags": [
+            "israel hamas gaza",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ministro-israel-declaracion-moral-dejar-morir-de-hambre-gaza-panorama-mundial/",
+        "date": "2024-08-07 01:30:06",
+        "sentiment_score": -0.8654662501066923
+    },
+    {
+        "title": "Estos son 4 puntos para entender el lunes negro en el mercado bursátil, según una experta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/taiwan-20240806203958300_74d231.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – general",
+            "economía",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/razones-lunes-negro-causas-analisis-economia-panorama-mundial-tv/",
+        "date": "2024-08-07 01:22:01",
+        "sentiment_score": 0.26655925810337067
+    },
+    {
+        "title": "Harris y Walz encabezan su primer mitin juntos hacia la Convención Demócrata",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-940253-galeria-vp-kamala-harris-cnn-17.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones ee.uu",
+            "demócratas",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-harris-tim-walz-formula-democrata-perspectivas-mexico-tv/",
+        "date": "2024-08-07 01:07:00",
+        "sentiment_score": 0.3767106235027313
+    },
+    {
+        "title": "¿Cómo usar un generador eléctrico de forma segura y correcta?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/screenshot-2024-08-06-at-9-14-19-am-20240807005454829.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-usar-generador-seguridad-tormenta-emergencia-trax/",
+        "date": "2024-08-07 00:57:39",
+        "sentiment_score": -0.3525586277246475
+    },
+    {
+        "title": "Por esta razón el ex delantero Javier Saviola pasó una noche en la cárcel",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/Y6MQ3TCTDRBH7FG4R53OPDZNWA.jpg?auth=8b496f50e58e74c3c19875bf737a334e786f3e42cda7d30cee19da07c6337ff6&height=396&smart=true&width=594",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2024/08/07/por-esta-razon-el-ex-delantero-javier-saviola-paso-una-noche-en-la-carcel/",
+        "date": "2024-08-07 02:09:31",
+        "sentiment_score": -0.6448229234665632
+    },
+    {
+        "title": "El Barça de Flick cierra la gira con un empate ante el Milan y doblete de Lewandowski",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/07/culemania/primer-equipo/876422354_13310449_1706x960.jpg?contentId=ESPIMA20240807_0005",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240807/el-barca-de-flick-con-milan-lewandowski/876412352_0.html",
+        "date": "2024-08-07 02:01:30",
+        "sentiment_score": -0.6842819973826408
+    },
+    {
+        "title": "Asunción Valdés: «Leonor tiene gancho y está recibiendo una magnífica preparación»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/05/PORTADA-FDM_Jose-Antonio-Luque--469x317.jpg",
+        "tags": [
+            "leonor de borbón",
+            "casa real española",
+            "tve",
+            "radio",
+            "rey juan carlos",
+            "unión europea",
+            "televisión",
+            "telediarios",
+            "rey felipe vi",
+            "comunicación",
+            "periodismo",
+            "medios de comunicación",
+            "fuera de micrófono"
+        ],
+        "link": "https://theobjective.com/medios/2024-08-07/asuncion-valdes-leonor-gancho-magnifica-preparacion/",
+        "date": "2024-08-07 01:30:00",
+        "sentiment_score": 0.5932737439870834
+    },
+    {
+        "title": "2-1. Vinícius sonríe y el Madrid se va de Estados Unidos con victoria",
+        "image_url": "./assets/ai_generated/v1_txt2img_d840ec3ecaf1464bb709f42877a03b74.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/07/2-1-vinicius-sonrie-y-el-madrid-se-va-de-estados-unidos-con-victoria/",
+        "date": "2024-08-07 01:15:26",
+        "sentiment_score": 0.7115664891898632
+    },
+    {
+        "title": "La Real sigue con tranquilidad el caso Merino",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/08/06/96927539-kFKF--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/real-sociedad-sigue-tranquilidad-mikel-merino-20240807065203-nt.html",
+        "date": "2024-08-07 00:00:00",
+        "sentiment_score": -0.35523445159196854
+    },
+    {
+        "title": "Laporta pincha con los fichajes más mediáticos: Lewandowski y Dani Olmo eran el plan B",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/07/culemania/primer-equipo/876422352_13310390_1706x960.jpg?contentId=ESPIMA20240807_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240807/laporta-pincha-fichajes-mediaticos-lewandowski-dani-olmo/876162435_0.html",
+        "date": "2024-08-06 23:26:13",
+        "sentiment_score": -0.8531358782202005
+    },
+    {
+        "title": "Di María renueva su contrato con el Benfica hasta 2025 con hambre de \"más títulos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_bd91948cc91e4c978cb44771d63a3691.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/06/di-maria-renueva-su-contrato-con-el-benfica-hasta-2025-con-hambre-de-mas-titulos/",
+        "date": "2024-08-06 23:01:13",
+        "sentiment_score": -0.7641879860311747
+    },
+    {
+        "title": "De Chicago a Charlotte, la afición blanca se vuelca con el Madrid en Estados Unidos",
+        "image_url": "./assets/ai_generated/v1_txt2img_3e6c3914159e4fa4a4d872767bf09e98.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/06/de-chicago-a-charlotte-la-aficion-blanca-se-vuelca-con-el-madrid-en-estados-unidos/",
+        "date": "2024-08-06 23:00:56",
+        "sentiment_score": -0.25293585658073425
+    },
+    {
+        "title": "La búsqueda del tratamiento perfecto contra la alopecia areata",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/06/17229404893896.jpg",
+        "tags": [
+            "salud",
+            "dermatología",
+            "salud y ciencia"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2024/08/07/66b1fb33e4d4d8e53c8b4573.html",
+        "date": "2024-08-06 22:53:50",
+        "sentiment_score": 0.6410921886563301
+    },
+    {
+        "title": "Este es el jugador que el Real Madrid pretende concretar",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/7T4ADN656BEPZGAJIIA53RH5XA.jpeg?auth=91a4768df3630d178e55351be9cbc418cbcf8e6431bc1c28e0d5cee555c67a8a&height=3125&smart=true&width=4687",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2024/08/06/este-es-el-jugador-que-el-real-madrid-pretende-concretar/",
+        "date": "2024-08-06 22:30:00",
+        "sentiment_score": 0.3367827832698822
+    },
+    {
+        "title": "Así es el desembarco del turismo internacional en Gijón: \"La próxima vez venimos unas vacaciones más largas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/361b614c-c999-45de-94e9-397ac6896dbd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2024/08/07/desembarco-turismo-internacional-gijon-proxima-106671328.html",
+        "date": "2024-08-07 02:10:00",
+        "sentiment_score": -0.022188663482666016
+    },
+    {
+        "title": "El Barça de Flick regresa con dos goles de un Lewandowski inspirado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/499d2f9f-f06e-4e6e-83f0-1dd5ae660bd5_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barca/20240807/barca-flick-regresa-goles-lewandowski-106672768",
+        "date": "2024-08-07 02:03:50",
+        "sentiment_score": 0.6647138372063637
+    },
+    {
+        "title": "Nuevo plazo para las solicitudes para actuar en la vía pública",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/08/06/66b250c892209.r_d.1007-583-5952.jpeg",
+        "tags": [
+            "córdoba - actualidad"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20240807/nuevo-plazo-solicitudes-actuar-via-publica_218566.html",
+        "date": "2024-08-07 02:00:00",
+        "sentiment_score": 0.08882276527583599
+    },
+    {
+        "title": "Lewandowski maquilla la primera pájara del Barça de Flick",
+        "image_url": "https://static1.ara.cat/clip/0957c6eb-9ec6-4f87-b750-c19963b2b4da_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/lewandowski-evita-primera-revinclada-barca-flick_1_5109836.html",
+        "date": "2024-08-07 01:50:38",
+        "sentiment_score": 0.24136461317539215
+    },
+    {
+        "title": "MAXHUB ofrece su tecnología para el deporte en colaboración con el RCD Espanyol",
+        "image_url": "https://mma.prnewswire.com/media/2475326/The_coaches_at_RCD_Espanyol_utilize_MAXHUB_interactive_displays_in_the_locker_room_to_convey_knowled.jpg?p=publish",
+        "tags": [
+            "sporting events",
+            "hrd",
+            "spt",
+            "general sports",
+            "cpr",
+            "stw",
+            "computer software",
+            "sse",
+            "computer & electronics",
+            "computer hardware"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/maxhub-ofrece-su-tecnologia-para-el-deporte-en-colaboracion-con-el-rcd-espanyol-302216111.html",
+        "date": "2024-08-07 01:49:00",
+        "sentiment_score": 0.7059536352753639
+    },
+    {
+        "title": "E. C. Segar y los orígenes de Popeye",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/el-ministerio-3-1-469x317.jpg",
+        "tags": [
+            "robin williams",
+            "hergé",
+            "nueva york",
+            "cultura",
+            "siglo xx",
+            "schulz",
+            "prensa",
+            "cómics",
+            "pulitzer",
+            "andy warhol",
+            "woody allen"
+        ],
+        "link": "https://theobjective.com/cultura/2024-08-07/e-c-segar-origenes-popeye/",
+        "date": "2024-08-07 01:30:00",
+        "sentiment_score": -0.19254205375909805
+    },
+    {
+        "title": "Sanidad destina 545.000 euros a vigilar la presencia de mosquitos en los aeropuertos",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/10/mosquito-469x317.jpg",
+        "tags": [
+            "virus del nilo",
+            "aeropuertos",
+            "sanidad",
+            "mosquitos",
+            "fernando simón",
+            "ministerio de sanidad",
+            "dengue"
+        ],
+        "link": "https://theobjective.com/sanidad/2024-08-07/sanidad-vigilar-expansion-mosquitos-aeropuertos/",
+        "date": "2024-08-07 01:30:00",
+        "sentiment_score": -0.7844920922070742
+    },
+    {
+        "title": "Los jueces acosados por investigar a Puigdemont anticipan su jubilación",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/12/juez-garcia-castellon-469x317.jpg",
+        "tags": [
+            "tribunales",
+            "junts per catalunya (jxcat)",
+            "erc (esquerra republicana de catalunya)",
+            "podemos",
+            "psoe",
+            "manuel garcía-castellón",
+            "independentismo catalán"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-08-07/jueces-acosados-puigdemont-jubilacion/",
+        "date": "2024-08-07 01:30:00",
+        "sentiment_score": -0.5451473444700241
     }
 ];
