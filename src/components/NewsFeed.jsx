@@ -1,6 +1,7 @@
 // NewsFeed.jsx
 import React, { useEffect, useState } from 'react';
 import { useNewsState } from '../StateProvider';
+import newsData from '../data/news_articles';
 import NewsItem from './NewsItem';
 import NewsControls from './NewsControls';
 import Pagination from './Pagination';
@@ -27,17 +28,8 @@ function NewsFeed() {
       setSearchTerm,
    } = useNewsState();
 
-   const [newsData, setNewsData] = useState([]);
    const [paginatedData, setPaginatedData] = useState([]);
    const [numPages, setNumPages] = useState(0);
-
-   useEffect(() => {
-      // Fetch the news data from the dist/data directory
-      fetch('/data/news_articles.json')
-         .then(response => response.json())
-         .then(data => setNewsData(data))
-         .catch(error => console.error('Error loading news data:', error));
-    }, []);
 
    useEffect(() => {
         let filteredData = newsData.filter(newsItem => {
