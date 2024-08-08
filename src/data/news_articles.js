@@ -171,18 +171,6 @@ export default [
         "sentiment_score": 0.05775192379951477
     },
     {
-        "title": "Se insta a los ciudadanos extranjeros a abandonar el Líbano \"lo antes posible\" ante el aumento de las tensiones regionales",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/hezbolllah.webp",
-        "tags": [
-            "medio oriente",
-            "hezbollah",
-            "líbano"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/04/instan-ciudadanos-extranjeros-abandonar-el-libano-lo-antes-posible-trax/",
-        "date": "2024-08-04 10:42:18",
-        "sentiment_score": -0.8010807391256094
-    },
-    {
         "title": "Campos de concentración de neón",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/04/club-prostitucion-U50006502433IvI-1200x630@diario_abc.jpg",
         "tags": [
@@ -233,36 +221,6 @@ export default [
         "sentiment_score": -0.23712213337421417
     },
     {
-        "title": "¿Es mejor ducharse por la mañana o por la noche? La ciencia responde",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/08/04/ducha-kI5D-U6029211911570pH-758x531@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/mejor-ducharse-manana-noche-ciencia-responde-20240804151342-nt.html",
-        "date": "2024-08-04 13:13:42",
-        "sentiment_score": -0.04368308186531067
-    },
-    {
-        "title": "Atenas en alerta máxima: Irán podría atacar en Grecia a objetivos israelíes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/04/grecia-R4hu3GexrkvTjhf7z7uQIeK-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/atenas-alerta-maxima-iran-atacar-grecia-busca-20240804133359-nt.html",
-        "date": "2024-08-04 11:38:46",
-        "sentiment_score": -0.24305491149425507
-    },
-    {
-        "title": "Aena dice no haber sido notificada de las medidas cautelares en las sociedades del Aeropueto de Luton",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/04/luton-klKC-U602920964304PqF-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aena-dice-haber-notificada-medidas-cautelares-sociedades-20240804123134-nt.html",
-        "date": "2024-08-04 10:32:56",
-        "sentiment_score": -0.19317370653152466
-    },
-    {
         "title": "Se reactiva el incendio en Lleida que los bomberos dieron por apagado hace tres días",
         "image_url": "https://imagenes.elpais.com/resizer/v2/2ZD5QWKFWNFYPI756SAWRXY3NQ.jpg?auth=ac956a713fe56dde76e81820c6b303e07c9e90e04c7ce09555bf3b8106929e57",
         "tags": [
@@ -291,24 +249,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-04/el-dueno-de-desokupa-adiestrara-a-miles-de-policias-tras-un-acuerdo-con-un-sindicato-de-agentes.html",
         "date": "2024-08-04 15:34:51",
         "sentiment_score": -0.738071471452713
-    },
-    {
-        "title": "El presidente del Parlament de Cataluña retrasa al martes la ronda de contactos para activar la investidura de Illa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/R4NNZBAUQVHNLDZFQP44WN4CUE.jpg?auth=b5c9dcb98d89d86a4ce2726df2a2b642d4d7136d8d92b46c198b03044f3fe88f",
-        "tags": [
-            "elecciones catalanas",
-            "gobierno autonómico",
-            "govern cataluña",
-            "programas electorales",
-            "cataluña",
-            "independentismo",
-            "generalitat cataluña",
-            "elecciones",
-            "campañas electorales"
-        ],
-        "link": "https://elpais.com/espana/elecciones-catalanas/2024-08-04/el-presidente-del-parlament-de-cataluna-retrasa-al-martes-la-ronda-de-contactos-para-activar-la-investidura-de-illa.html",
-        "date": "2024-08-04 13:14:15",
-        "sentiment_score": -0.7108003050088882
     },
     {
         "title": "'Desokupa' adiestrará a miles de policías tras un acuerdo con un sindicato de agentes",
@@ -1345,30 +1285,6 @@ export default [
         "link": "https://2001online.com/nacionales/llegan-nuevos-turistas-a-la-isla-de-margarita-detalles/",
         "date": "2024-08-04 15:16:46",
         "sentiment_score": 0.07280953973531723
-    },
-    {
-        "title": "Ministro Ceballos reporta nueva incautación de armas de guerra (+FOTOS)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/INCAUTACION-ARMAS-CPNB2-768x1024.jpg",
-        "tags": [
-            "nacionales",
-            "ministro ceballos reporta nueva incautación de armas de guerra",
-            "venezuela"
-        ],
-        "link": "https://2001online.com/nacionales/ministro-ceballos-reporta-nueva-incautacion-de-armas-de-guerra-fotos/",
-        "date": "2024-08-04 14:07:54",
-        "sentiment_score": -0.5092171058058739
-    },
-    {
-        "title": "Sepa qué pronostica el Inameh para este domingo 4 de agosto",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Inameh-1-1.jpg",
-        "tags": [
-            "nacionales",
-            "sepa qué pronostica el inameh para este domingo 4 de agosto",
-            "venezuela"
-        ],
-        "link": "https://2001online.com/nacionales/sepa-que-pronostica-el-inameh-para-este-domingo-4-de-agosto/",
-        "date": "2024-08-04 12:58:56",
-        "sentiment_score": -0.026805289089679718
     },
     {
         "title": "Estas son las oposiciones a las que te puedes apuntar en agosto con un título universitario",
@@ -7317,5 +7233,457 @@ export default [
         "link": "https://2001online.com/servicios/banco-digital-para-los-trabajadores-ofrece-creditos-para-carros-y-motos-requisitos/",
         "date": "2024-08-07 19:00:00",
         "sentiment_score": 0.2824270408600569
+    },
+    {
+        "title": "Las últimas previsiones para Málaga: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/54RGJU2WGFDFJLODNJ3FX4NY6Q.jpg?auth=ee521969f79dd0164e260a1a204ccff8d7b01aa6938165ad7ec41a57ad5eb890",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/08/las-ultimas-previsiones-para-malaga-temperatura-lluvias-y-viento/",
+        "date": "2024-08-08 02:02:23",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Pronóstico del clima en Madrid este jueves 8 de agosto: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/QS6G55O6N5FNVLRU3H35SI3NMM.jpg?auth=45cee864987986dca2b70d72f4537093832f9942c3121425017faf163c34b8ae",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/08/pronostico-del-clima-en-madrid-este-jueves-8-de-agosto-temperatura-lluvias-y-viento/",
+        "date": "2024-08-08 01:32:39",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Top de filmes imprescindibles para ver HOY en Disney+ España",
+        "image_url": "https://www.infobae.com/resizer/v2/GBA5BL7MNBCQPJAN7G5YXL35TQ.jpg?auth=e0663961105dcbb04214bf96fc7d5cbf1636e8ac4d3f6d51958bea4be552a23d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/08/top-de-filmes-imprescindibles-para-ver-hoy-en-disney-espana/",
+        "date": "2024-08-08 01:31:38",
+        "sentiment_score": 0.8506077285856009
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/WD6JPRHULFA35CDNQDHCHCJKTA.jpg?auth=824b67a449280cd55e3a56badc52e88fd74dd37655e0157ff753bacdbb077d87",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/08/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-barcelona/",
+        "date": "2024-08-08 01:17:46",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Cristina Bucsa cae eliminada en la primera ronda del WTA National Bank Open de Toronto",
+        "image_url": "./assets/ai_generated/v1_txt2img_a79e268272d14e42ba3c1667b2b22f2a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/cristina-bucsa-cae-eliminada-en-la-primera-ronda-del-wta-national-bank-open-de-toronto/",
+        "date": "2024-08-07 23:47:49",
+        "sentiment_score": -0.28006061911582947
+    },
+    {
+        "title": "Los Planetas celebran el 30 aniversario de Super8 en la jornada inaugural de Sonorama",
+        "image_url": "./assets/ai_generated/v1_txt2img_bb444af7c9254d12b25480920b568a8d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/los-planetas-celebran-el-30-aniversario-de-super8-en-la-jornada-inaugural-de-sonorama/",
+        "date": "2024-08-07 23:32:47",
+        "sentiment_score": 0.3984265364706516
+    },
+    {
+        "title": "Rozalén despliega su magia y sumerge Cap Roig en un mar de emociones",
+        "image_url": "./assets/ai_generated/v1_txt2img_83d2fa5090074b9abcd85d4dd5b815f1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/rozalen-despliega-su-magia-y-sumerge-cap-roig-en-un-mar-de-emociones/",
+        "date": "2024-08-07 23:32:30",
+        "sentiment_score": 0.3253047466278076
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 8 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_5f0c41889ade462e88985563dafe72e7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/hoy-sera-noticia-jueves-8-de-agosto-de-2024/",
+        "date": "2024-08-07 22:18:22",
+        "sentiment_score": 0.030433256179094315
+    },
+    {
+        "title": "Las posibles reacciones de los carteles en México tras la detención de Ismael “El Mayo” Zambada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1726653-mayo-zambada.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/detencion-mayo-zambada-analisis-mexico-opina-tv/",
+        "date": "2024-08-08 02:01:24",
+        "sentiment_score": -0.5085458159446716
+    },
+    {
+        "title": "“Me anularon mi pasaporte porque he tenido roces con el Consulado de Venezuela”, dice periodista",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1018297890.jpg?quality=100&strip=info",
+        "tags": [
+            "crisis venezuela",
+            "venezuela",
+            "pasaporte",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pasaporte-anulado-venezuela-sin-consentimiento-regimen-conclusiones-tv/",
+        "date": "2024-08-08 02:01:18",
+        "sentiment_score": -0.8034377824515104
+    },
+    {
+        "title": "EE.UU. y Ucrania reaccionan a la invitación de Claudia Sheinbaum a Vladimir Putin",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-a90dbdab-140318162553-putin-address-story-top.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "claudia sheinbaum",
+            "vladimir putin"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-ucrania-reacciones-invitacion-sheinbaum-putin-toma-posesion-panorama-mundial-tv/",
+        "date": "2024-08-08 01:33:39",
+        "sentiment_score": -0.09929968416690826
+    },
+    {
+        "title": "EE.UU. pide a Israel investigar abusos sexuales a prisioneros palestinos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165210110_324129.jpg?quality=100&strip=info",
+        "tags": [
+            "israel",
+            "israel gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estados-unidos-israel-investigacion-abuso-sexual-prisioneros-palestinos-panorama-mundial-tv/",
+        "date": "2024-08-08 01:30:04",
+        "sentiment_score": -0.8171648662537336
+    },
+    {
+        "title": "Jordania dice que es real la amenaza de guerra en Medio Oriente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164692095_d09578.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "guerra isael hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jordania-amenaza-guerra-medio-oriente-hamas-iran-israel-panorama-mundial-tv/",
+        "date": "2024-08-08 01:27:39",
+        "sentiment_score": -0.8401171620935202
+    },
+    {
+        "title": "Boric anuncia que Chile no reconoce a Maduro como ganador de las elecciones presidenciales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165085062.jpg?quality=100&strip=info",
+        "tags": [
+            "gabriel boric",
+            "fast – news variety",
+            "elecciones en venezuela",
+            "xpress",
+            "chile"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/boric-chile-reconoce-maduro-panorama-tv-fast/",
+        "date": "2024-08-08 01:18:07",
+        "sentiment_score": -0.43759553506970406
+    },
+    {
+        "title": "Tras 10 días de las elecciones en Venezuela, siguen sin aparecer las actas electorales.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164672920.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "fast – news variety",
+            "fast – general"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/10-dias-elecciones-venezuela-actas-panorama-tv-fast/",
+        "date": "2024-08-08 01:13:25",
+        "sentiment_score": -0.8231877945363522
+    },
+    {
+        "title": "El chavismo convierte un villancico venezolano en sinónimo de represión. ¿En qué consiste la \"operación Tun, tun\"?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/operacion-tun-tun-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/chavismo-villancico-venezolano-represion-que-consiste-operacion-tun-tun-orix/",
+        "date": "2024-08-08 00:51:39",
+        "sentiment_score": -0.7147710919380188
+    },
+    {
+        "title": "OPINIÓN: Maduro no puede presentar las actas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-748097-tribunal-supremo-de-justicia-de-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/actas-cne-venezuela-oposicion-maduro-perspectivas-mexico-tv/",
+        "date": "2024-08-08 00:45:50",
+        "sentiment_score": -0.5895646400749683
+    },
+    {
+        "title": "\"Somos más que ustedes\": miles de manifestantes antirracistas salen a las calles para contrarrestar las manifestaciones de extrema derecha en el Reino Unido",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/whatsapp-image-2024-08-07-at-20-18-38-1-38.webp",
+        "tags": [
+            "extrema derecha",
+            "manifestaciones",
+            "reino unido"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/manifestantes-contrarrestar-derecha-reino-unido-trax/",
+        "date": "2024-08-08 00:43:18",
+        "sentiment_score": -0.7598144095391035
+    },
+    {
+        "title": "Israel promete eliminar al nuevo líder de Hamás mientras espera represalias por el asesinato de Haniyeh",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/08/sinwar-kXFE-U602933922866mAD-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/israel-promete-eliminar-nuevo-lider-hamas-espera-20240808040259-nt.html",
+        "date": "2024-08-08 02:03:00",
+        "sentiment_score": -0.12126106023788452
+    },
+    {
+        "title": "Kylian Mbappé entrenó por primera vez con el Real Madrid",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/08/El-astro-galo-se-alistara-para-el-comienzo-de-la-venidera-campana.-Foto-Cortesia-696x392.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/178302/kylian-mbappe-entreno-por-primera-vez-con-el-real-madrid/",
+        "date": "2024-08-08 01:40:00",
+        "sentiment_score": 0.25161388516426086
+    },
+    {
+        "title": "Tres restaurantes para una sabrosa escapada de interior",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/botes-sofrito-e1722604161789-469x317.jpg",
+        "tags": [
+            "españa",
+            "gastronomía",
+            "gastronomía española",
+            "comida",
+            "restaurantes"
+        ],
+        "link": "https://theobjective.com/gastronomia/2024-08-08/tres-restaurantes-escapada-interior/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": -0.2705267071723938
+    },
+    {
+        "title": "El padre de Sánchez, una pieza aún sin encajar en el puzle que cerca al hermano del presidente",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/05/MARINA-SANCHEZ-BRO-1605.jpg",
+        "tags": [
+            "badajoz",
+            "pedro sánchez",
+            "agencia tributaria",
+            "política",
+            "donación"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-08-08/padre-sanchez-hermano-presidente/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": -0.04818374291062355
+    },
+    {
+        "title": "El hermano de Sánchez residió un año en Tailandia con unos ingresos de 8.000 euros",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/05/MARINA-SANCHEZ-BRO-1605.jpg",
+        "tags": [
+            "badajoz",
+            "pedro sánchez",
+            "agencia tributaria",
+            "economía",
+            "portugal",
+            "tailandia"
+        ],
+        "link": "https://theobjective.com/economia/2024-08-08/david-sanchez-pedro-tailandia-lujo/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": 0.1651279181241989
+    },
+    {
+        "title": "‘Magaly TV La Firme’ EN VIVO: minuto a minuto del programa de hoy miércoles 7 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/URB3PIBLZNC7NCRL4S4P56VQGY.jpg?auth=15ae0b21a7fea45d7c82d7f32b5dc73623fe2ad417c921cbef8a68c9843bd71d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/08/08/magaly-tv-la-firme-en-vivo-minuto-a-minuto-del-programa-de-hoy-miercoles-7-de-agosto-con-magaly-medina-ampay-video-fotos/",
+        "date": "2024-08-08 01:29:21",
+        "sentiment_score": 0.7449462823569775
+    },
+    {
+        "title": "“Efecto Gallardo” en River: el aumento de socios desde su regreso, que le permite acechar una histórica marca del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/QAHQNGPMEWAFND3WR2VGVVB4FM.jpg?auth=cff631080805ff883d388c7ef38c91f4694cfb061dca060e52e1e99fc4ac869f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/08/efecto-gallardo-en-river-el-aumento-de-socios-desde-su-regreso-que-le-permite-acechar-una-historica-marca-del-real-madrid/",
+        "date": "2024-08-08 00:14:20",
+        "sentiment_score": 0.2920758128166199
+    },
+    {
+        "title": "El mensaje de Sergio Ramos en redes tras la derrota de la selección femenina",
+        "image_url": "https://cflvdg.avoz.es/sc/O19I_2qnOLrSaLAXfB2Aogk_j_8=/768x/2024/08/08/00121723074068023667691/Foto/EuropaPress_6038597_jugador_futbol_sergio_ramos_despide_sevilla_futbol_club_prensa_18_junio-EP.jpg",
+        "tags": [
+            "sergio ramos",
+            "fútbol",
+            "juegos olímpicos de parís"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/08/08/mensaje-sergio-ramos-redes-tras-derrota-seleccion-femenina/00031723074203476772529.htm",
+        "date": "2024-08-07 23:52:01",
+        "sentiment_score": 0.7668385431170464
+    },
+    {
+        "title": "Kylian Mbappé lució feliz al completar primera práctica con el Real Madrid [Foto]",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/AP24198411668541.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol",
+            "kylian mbappé",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/08/07/kylian-mbappe-lucio-feliz-al-completar-primera-practica-con-el-real-madrid-foto/",
+        "date": "2024-08-07 23:52:00",
+        "sentiment_score": -0.040599800646305084
+    },
+    {
+        "title": "El Real Avilés hace caja con Miguel Sierra",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/08/07/96962361--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/real-aviles-caja-miguel-sierra-20240808005127-nt.html",
+        "date": "2024-08-07 23:24:25",
+        "sentiment_score": -0.2012723758816719
+    },
+    {
+        "title": "«Feijoo, el político, debería quitar la tilde del apellido porque ya no la lleva»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/08/07/96952610--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/aviles/feijoo-politico-deberia-quitar-tilde-apellido-lleva-20240808224624-nt.html",
+        "date": "2024-08-07 22:43:24",
+        "sentiment_score": -0.84607960190624
+    },
+    {
+        "title": "Grietas en la ANC a favor de levantar el veto a Orriols: «ERC y Junts pactan con el PSOE»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/silvia-orriols-1-2-469x317.jpg",
+        "tags": [
+            "asamblea nacional catalana (anc)",
+            "nacionalismo",
+            "procés",
+            "junts per catalunya (jxcat)",
+            "política",
+            "erc (esquerra republicana de catalunya)",
+            "psoe"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-08-08/anc-levantar-veto-orriols/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": 0.024369418621063232
+    },
+    {
+        "title": "Melancolías olímpicas",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/06/SANCHEZ-BEGO-2406-469x317.jpg",
+        "tags": [
+            "méxico",
+            "opinión",
+            "parís",
+            "barcelona 92",
+            "montreal",
+            "seúl",
+            "juegos olímpicos"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/opinion/2024-08-08/melancolias-olimpicas/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": -0.8594153355807066
+    },
+    {
+        "title": "El esplendor de la rutina",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/GaldhopiggenFromFannaraki-1-469x317.jpg",
+        "tags": [
+            "arroz",
+            "opinión",
+            "japón",
+            "gastronomía",
+            "lou reed",
+            "novela policiaca",
+            "platos de comida",
+            "wim wenders"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/lo-bueno-de-la-vida/2024-08-08/esplendor-rutina/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": 0.21382175385951996
+    },
+    {
+        "title": "Fran Garrigós: «En Tokio pensé en dejarlo al perder en el primer combate de los Juegos»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/maria-alvaro-oro-469x317.jpg",
+        "tags": [
+            "deportes",
+            "parís 2024",
+            "olimpiadas",
+            "bronce",
+            "medallas",
+            "juegos olímpicos",
+            "artes marciales"
+        ],
+        "link": "https://theobjective.com/deportes/2024-08-08/fran-garrigos-dejarlo-perder-primer-combate/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": 0.29590505361557007
+    },
+    {
+        "title": "Los Mossos monitorizan a Puigdemont para detenerlo en cuanto pise Cataluña",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/Puigdemont-golpe-de-Estado--469x317.jpg",
+        "tags": [
+            "españa",
+            "detención",
+            "mossos d'esquadra",
+            "carles puigdemont",
+            "cataluña"
+        ],
+        "link": "https://theobjective.com/espana/2024-08-08/mossos-monitorizan-puigdemont-detenerlo-llegada-cataluna/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": -0.7838171888142824
+    },
+    {
+        "title": "Llarena reclama a la Policía que Puigdemont pase al Supremo en cuanto sea detenido",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/06/carles-puigdemont-amnistia-malversacion-supremo-469x317.jpg",
+        "tags": [
+            "salvador illa",
+            "parlament de cataluña",
+            "mossos d'esquadra",
+            "cataluña",
+            "carles puidemont",
+            "tribunales",
+            "junts per catalunya (jxcat)",
+            "guardia civil",
+            "pablo llarena",
+            "tribunal supremo",
+            "policía nacional"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-08-08/llarena-puigdemont-supremo-illa/",
+        "date": "2024-08-08 01:30:00",
+        "sentiment_score": 0.4527944475412369
+    },
+    {
+        "title": "Catalunya vuelve a mirar hacia el mar",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/03/66ae80a8795fb.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240808/9851411/catalunya-mar-economia-azul-copa-america.html",
+        "date": "2024-08-08 01:00:00",
+        "sentiment_score": 0.6813012361526489
+    },
+    {
+        "title": "Llarena, recibido entre aplausos en un restaurante de Puigcerdà al ser reconocido por los clientes",
+        "image_url": "https://s1.elespanol.com/2024/06/21/espana/tribunales/864673636_244206725_1706x960.jpg?contentId=ESPIMA20240621_0112",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20240808/llarena-recibido-aplausos-restaurante-puigcerda-reconocido-clientes/876412851_0.html",
+        "date": "2024-08-08 00:32:25",
+        "sentiment_score": 0.15099819004535675
+    },
+    {
+        "title": "Temas del día de EFE Internacional del 7 de agosto de 2024 (24:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_33d53f4fcd6e4ca289485e64d4cf7410.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/08/temas-del-dia-de-efe-internacional-del-7-de-agosto-de-2024-2400-gmt/",
+        "date": "2024-08-08 00:16:12",
+        "sentiment_score": -0.004169106483459473
     }
 ];
