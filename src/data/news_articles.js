@@ -1,868 +1,5 @@
 export default [
     {
-        "title": "4-1. El Betis explota la debilidad defensiva del Al-Ittihad",
-        "image_url": "./assets/ai_generated/v1_txt2img_ad2db2cbe71a4e7b81e120336518a235.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/4-1-el-betis-explota-la-debilidad-defensiva-del-al-ittihad/",
-        "date": "2024-08-03 21:47:55",
-        "sentiment_score": 0.08668351173400879
-    },
-    {
-        "title": "Valverde: \"Veo bien a Djaló en cualquiera de las tres posiciones de ataque\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_88de601936214a6b8a86aeef358fd968.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/valverde-veo-bien-a-djalo-en-cualquiera-de-las-tres-posiciones-de-ataque/",
-        "date": "2024-08-03 21:47:37",
-        "sentiment_score": 0.5381171628832817
-    },
-    {
-        "title": "Sánchez y otros líderes europeos firman una declaración pidiendo las actas de Venezuela",
-        "image_url": "./assets/ai_generated/v1_txt2img_2115ba985db24871bae908a5e0ad3721.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/sanchez-y-otros-lideres-europeos-firman-una-declaracion-pidiendo-las-actas-de-venezuela/",
-        "date": "2024-08-03 21:47:08",
-        "sentiment_score": -0.09327351301908493
-    },
-    {
-        "title": "La UD Las Palmas jugará a puerta cerrada en Anfield ante el Liverpool",
-        "image_url": "./assets/ai_generated/v1_txt2img_1ef4a28281ad4909904c0d86588b4177.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/la-ud-las-palmas-jugara-a-puerta-cerrada-en-anfield-ante-el-liverpool/",
-        "date": "2024-08-03 21:32:07",
-        "sentiment_score": 0.08592920750379562
-    },
-    {
-        "title": "La lluvia empaña la previa del clásico en Nueva York",
-        "image_url": "./assets/ai_generated/v1_txt2img_53e60f62229f4f03a64e79a5ac16e622.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/la-lluvia-empana-la-previa-del-clasico-en-nueva-york/",
-        "date": "2024-08-03 21:17:02",
-        "sentiment_score": -0.2968917787075043
-    },
-    {
-        "title": "Tres fallecidos y cuatro heridos en un choque frontal en Casabermeja (Málaga)",
-        "image_url": "./assets/ai_generated/v1_txt2img_9df1e006d28346d2bce6690062179005.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/tres-fallecidos-y-cuatro-heridos-en-un-choque-frontal-en-casabermeja-malaga/",
-        "date": "2024-08-03 21:16:44",
-        "sentiment_score": -0.7691947892308235
-    },
-    {
-        "title": "Tyreek Hill amplía su contrato con los Miami Dolphins por 3 años y 90 millones de dólares",
-        "image_url": "./assets/ai_generated/v1_txt2img_ea8780aa13ee4cec9e4e9e2e1e18916c.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/tyreek-hill-amplia-su-contrato-con-los-miami-dolphins-por-3-anos-y-90-millones-de-dolares/",
-        "date": "2024-08-03 21:04:09",
-        "sentiment_score": 0.35211010836064816
-    },
-    {
-        "title": "Rotundidad de Roca Rey en Huelva, que sale a hombros",
-        "image_url": "./assets/ai_generated/v1_txt2img_d72230fa4e594ca5943dbe901627e05b.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/rotundidad-de-roca-rey-en-huelva-que-sale-a-hombros/",
-        "date": "2024-08-03 21:03:51",
-        "sentiment_score": 0.14221063256263733
-    },
-    {
-        "title": "Lotería 6/49: la combinación ganadora del sorteo de este 3 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/FFVYJUMUIVGI5BLAKBTWWCHPDE.jpg?auth=ea0484f0b172a4666c0f23dc007ad8b6d7c48ce1fe675c9e0120c28ae1fda332",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/03/loteria-649-la-combinacion-ganadora-del-sorteo-de-este-3-de-agosto/",
-        "date": "2024-08-03 21:00:24",
-        "sentiment_score": 0.0435732938349247
-    },
-    {
-        "title": "2-0. La Real vuelve a caer en pretemporada en casa del Stade Rennais francés",
-        "image_url": "./assets/ai_generated/v1_txt2img_cc625b4dbf7448bf90022f9a06120dd7.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/2-0-la-real-vuelve-a-caer-en-pretemporada-en-casa-del-stade-rennais-frances/",
-        "date": "2024-08-03 20:47:03",
-        "sentiment_score": 0.2969704121351242
-    },
-    {
-        "title": "“Nosotros demostramos la victoria de Edmundo González”, dijo María Corina Machado",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165139622.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maria-corina-machado-edmundo-gonzalez-respaldo/",
-        "date": "2024-08-03 21:44:40",
-        "sentiment_score": -0.1487591564655304
-    },
-    {
-        "title": "Las casas palestinas fueron destruidas “por venganza”, dice un soldado israelí que sirvió en Gaza",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/82/media_thumb-link-3965646.webp",
-        "tags": [
-            "actualidad",
-            "testimonio",
-            "entrevista",
-            "gaza",
-            "exsoldado",
-            "israelí"
-        ],
-        "link": "https://www.meneame.net/story/casas-palestinas-fueron-destruidas-venganza-dice-soldado-israeli",
-        "date": "2024-08-03 20:25:03",
-        "sentiment_score": -0.8997697494924068
-    },
-    {
-        "title": "El silencio de los corderos en el PSOE",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/04/ojo-halcon-4-agosto_xoptimizadax-RlTGqbqPhXZgq7Hw86mgw5K-758x531@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-silencio-corderos-psoe-20240804204912-nts.html",
-        "date": "2024-08-03 21:00:28",
-        "sentiment_score": -0.10982686281204224
-    },
-    {
-        "title": "Hazlo, Page",
-        "image_url": "./assets/ai_generated/v1_txt2img_8c3362946dee426083d57a3ca5a1a7fe.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-hazlo-page-20240804225511-nts.html",
-        "date": "2024-08-03 21:00:14",
-        "sentiment_score": -0.22392934560775757
-    },
-    {
-        "title": "A golpes con los sueños",
-        "image_url": "./assets/ai_generated/v1_txt2img_df7e0fb23d2b4dcb96d55d36bd5ae682.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-golpes-suenos-20240804225735-nts.html",
-        "date": "2024-08-03 20:59:49",
-        "sentiment_score": 0.0042889416217803955
-    },
-    {
-        "title": "El ecuador de Juanma",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/04/ARTICULO-ALBERTO-4-AGOSTO_xoptimizadax_20240803205416-RN1jbiWOjvNNWAv930lp2rO-758x531@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-ecuador-juanma-20240804205632-nts.html",
-        "date": "2024-08-03 20:59:09",
-        "sentiment_score": -0.012259304523468018
-    },
-    {
-        "title": "Una feroz indignación hace fracasar el plan de salvar de la pena de muerte al jefe del 11-S",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/03/SHAIKH-R0RKGZP6jbTtfNCFaeyrDpI-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/feroz-indignacion-fracasar-plan-salvar-pena-muerte-20240803205219-nt.html",
-        "date": "2024-08-03 18:52:20",
-        "sentiment_score": -0.1990201771259308
-    },
-    {
-        "title": "La justicia siempre ha esperado a Puigdemont",
-        "image_url": "./assets/ai_generated/v1_txt2img_710b44c443924a16a3bb8ca6f5527ea1.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-justicia-siempre-esperado-puigdemont-20240804191533-nt.html",
-        "date": "2024-08-03 18:51:35",
-        "sentiment_score": -0.2834843546152115
-    },
-    {
-        "title": "El baloncesto entero en su cabeza",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/08/04/rudy-fernandez-kdAF-U220895246603UOD-758x531@El%20Correo.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/baskonia/adios-rudy-fernandez-baloncesto-entero-cabeza-20240804193502-nt.html",
-        "date": "2024-08-03 22:16:37",
-        "sentiment_score": 0.683086670935154
-    },
-    {
-        "title": "Este es el once de Flick para el Barça-Real Madrid de Estados Unidos",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/01/culemania/primer-equipo/874922609_13297463_1706x960.jpg?contentId=ESPIMA20240801_0110",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240804/este-el-flick-barca-real-madrid-estados-unidos/875412517_0.html",
-        "date": "2024-08-03 22:07:11",
-        "sentiment_score": 0.6162187028676271
-    },
-    {
-        "title": "La deriva de Maduro: el poder con balas pero sin votos",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/mariacorinamachado-marcha-caracas-1440x808.jpg",
-        "tags": [
-            "nicolás maduro",
-            "américa latina",
-            "internacional",
-            "latinoamérica",
-            "venezuela"
-        ],
-        "link": "https://www.elindependiente.com/internacional/2024/08/04/la-deriva-de-maduro-el-poder-con-balas-pero-sin-votos/",
-        "date": "2024-08-03 22:05:09",
-        "sentiment_score": -0.8705889899283648
-    },
-    {
-        "title": "El segundo premio de la Lotería Nacional cae en una administración de Versalles",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2024/08/02/lluvia-espana-ola-calor-kS2B--170x119@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/aviles/segundo-premio-loteria-nacional-cae-administracion-versalles-20240804223238-nt.html",
-        "date": "2024-08-03 22:02:48",
-        "sentiment_score": -0.03327162563800812
-    },
-    {
-        "title": "La infanta Sofía se convierte en el talismán del deporte español",
-        "image_url": "https://okdiario.com/look/img/2024/07/17/sofia4-224x140.jpg",
-        "tags": [
-            "casa real"
-        ],
-        "link": "https://okdiario.com/look/casa-real/infanta-sofia-convierte-talisman-del-deporte-espanol-2076872",
-        "date": "2024-08-03 21:30:33",
-        "sentiment_score": 0.25173380970954895
-    },
-    {
-        "title": "El clásico de Estados Unidos corre peligro: amenaza climatológica",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/12/29/culemania/palco/820927981_12158891_1706x960.jpg?contentId=ESPIMA20231229_0082",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20240803/el-clasico-estados-unidos-peligro-amenaza-climatologica/875412518_0.html",
-        "date": "2024-08-03 21:15:57",
-        "sentiment_score": -0.6491918880492449
-    },
-    {
-        "title": "«La posibilidad de estar en otros Juegos ha terminado para mí»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/097598f0-6bf5-4f54-b097-ababd02ddfb2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/deportes-canarias/2024/08/03/posibilidad-juegos-terminado-106529089.html",
-        "date": "2024-08-03 21:02:03",
-        "sentiment_score": -0.09622696042060852
-    },
-    {
-        "title": "El Atlético de Madrid anuncia el fichaje de Alexander Sorloth",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fa08782b-d097-4e9b-83d4-4294ce0952f1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/08/03/atletico-anuncia-fichaje-alexander-sorloth-8552232.html",
-        "date": "2024-08-03 20:58:38",
-        "sentiment_score": 0.11172899603843689
-    },
-    {
-        "title": "Cómo ver el clásico de Estados Unidos entre el Barça y el Real Madrid gratis y en directo",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/22/culemania/849675258_12826476_1706x960.jpg?contentId=ESPIMA20240422_0234",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20240803/cnomo-el-estados-unidos-barca-real-madrid/875412515_0.html",
-        "date": "2024-08-03 20:17:07",
-        "sentiment_score": 0.4065508861094713
-    },
-    {
-        "title": "¿Qué es el impuesto contra la especulación que han pactado Comuns y PSC en Cataluña?",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/europapress-5917802-lider-comuns-parlament-jessica-albiach-primer-secretario-candidato-psc-1440x808.jpg",
-        "tags": [
-            "impuestos",
-            "vivienda",
-            "partido de los socialistas de cataluña (psc)",
-            "parlament",
-            "cataluña",
-            "economía"
-        ],
-        "link": "https://www.elindependiente.com/economia/2024/08/04/que-es-impuesto-especulacion-vivienda-comuns-psc/",
-        "date": "2024-08-03 22:05:42",
-        "sentiment_score": -0.03401060402393341
-    },
-    {
-        "title": "Helena Jubany, el asesinato de una bibliotecaria que lleva sin resolver 23 años",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/helena-jubany.png",
-        "tags": [
-            "españa",
-            "sucesos"
-        ],
-        "link": "https://www.elindependiente.com/espana/2024/08/04/helena-jubany-el-asesinato-de-una-bibliotecaria-que-lleva-sin-resolver-23-anos/",
-        "date": "2024-08-03 22:05:27",
-        "sentiment_score": -0.39942437782883644
-    },
-    {
-        "title": "Illa no da detalles del concierto y mantiene intactos los temores y el enfado en el PSOE",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/02e4dfed16fcef7613a1d3fe1a29dc5186ac62bc-scaled-e1722712313718-1440x808.jpg",
-        "tags": [
-            "españa",
-            "pedro sánchez",
-            "partido socialista obrero español (psoe)",
-            "salvador illa",
-            "gobierno de españa",
-            "junts",
-            "financiación",
-            "partido de los socialistas de cataluña (psc)",
-            "cataluña",
-            "carles puigdemont",
-            "erc - esquerra republicana de catalunya"
-        ],
-        "link": "https://www.elindependiente.com/espana/2024/08/04/illa-no-da-detalles-del-concierto-y-mantiene-intactos-los-temores-y-el-enfado-en-el-psoe/",
-        "date": "2024-08-03 22:05:20",
-        "sentiment_score": -0.6935217492282391
-    },
-    {
-        "title": "Pablo Perversi: “La marca blanca no salvará a los supermercados”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/03/66ad636732b63.r_d.833-490-0.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20240804/9850396/danone-marca-blanca-supermercados-pablo-perversi.html",
-        "date": "2024-08-03 22:05:00",
-        "sentiment_score": 0.684814753010869
-    },
-    {
-        "title": "El portal al pasado de Sant Andreu",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/02/66acdc2b99eac.r_d.769-858-0.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20240804/9849372/portal-pasado-sant-andreu-barcelona-secreta.html",
-        "date": "2024-08-03 22:05:00",
-        "sentiment_score": -0.17632798850536346
-    },
-    {
-        "title": "Emperador despega en ventas tras renovar el brandy",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/02/66aced2f4e5d6.r_d.3160-2192-0.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20240804/9850403/emperador-fundador-bebidas-negocio-espana-brandy.html",
-        "date": "2024-08-03 22:05:00",
-        "sentiment_score": 0.7547910865396261
-    },
-    {
-        "title": "La IA declara el Albaicín el barrio más bonito de España",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/08/04/Albaicin%20vista-k0mG--758x531@Ideal.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ideal.es/granada/ia-declara-albaicin-barrio-bonito-espana-20240804000016-nt.html",
-        "date": "2024-08-03 22:00:30",
-        "sentiment_score": -0.003339633345603943
-    },
-    {
-        "title": "Guardiola: “El Gobierno en minoría debe contar con el acompañamiento exigente y cómplice de otros liderazgos sociales y empresariales”",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/30/business/874422597_13287468_1706x960.jpg?contentId=ESPIMA20240730_0048",
-        "tags": [
-            "business"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20240803/guardiola-el-gobierno-acompanamiento-exigente-liderazgos-empresariales/875162524_0.html",
-        "date": "2024-08-03 21:46:01",
-        "sentiment_score": -0.15163952112197876
-    },
-    {
-        "title": "Guardiola: “El reto del Círculo de Economía es consolidarnos como un auténtico ‘think thank’”",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/30/business/874422611_13287874_1706x960.jpg?contentId=ESPIMA20240730_0062",
-        "tags": [
-            "business"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20240803/guardiola-el-circulo-economia-consolidarnos-autentico-think/875162554_0.html",
-        "date": "2024-08-03 21:45:48",
-        "sentiment_score": 0.05993098020553589
-    },
-    {
-        "title": "Lista de los artistas más reproducidos hoy en YouTube España",
-        "image_url": "https://www.infobae.com/resizer/v2/Y72FHUN7NFDETDRXQPQJF7NXKQ.jpg?auth=63fe3e1518038244083f265bf4286477fbc4f44e201cd2e5a44ead6455e764c9",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/04/lista-de-los-artistas-mas-reproducidos-hoy-en-youtube-espana/",
-        "date": "2024-08-04 02:00:59",
-        "sentiment_score": 0.6069574076682329
-    },
-    {
-        "title": "La Alhambra acoge el estreno de 'Pineda', un ballet sobre el poema dramático de Lorca",
-        "image_url": "./assets/ai_generated/v1_txt2img_7ae1a0741b924e528db5a250b96f73d1.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/03/la-alhambra-acoge-el-estreno-de-pineda-un-ballet-sobre-el-poema-dramatico-de-lorca/",
-        "date": "2024-08-03 22:31:28",
-        "sentiment_score": 0.06046570837497711
-    },
-    {
-        "title": "Edmundo González se muestra en redes tras ausentarse en la marcha",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164475846-20240804014137255.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "edmundo gonzález",
-            "edmundo gonzález urrutia",
-            "marcha",
-            "venezuela noticias",
-            "caracas"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-marcha-oposicion-venezuela-elecciones/",
-        "date": "2024-08-04 01:44:49",
-        "sentiment_score": -0.4750656634569168
-    },
-    {
-        "title": "Cuatro miembros de Hamas y un miembro de las Brigadas Al-Quds murieron en un ataque aéreo israelí en la Ribera Occidental",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/02/927cd5fa-e221-4fe9-a760-70dd8075430b.jpeg?quality=100&strip=info",
-        "tags": [
-            "brigadas al-quds",
-            "medio oriente",
-            "hamas"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/03/cuatro-miembros-hamas-miembro-brigadas-al-quds-murieron-ataque-aereo-israeli-trax/",
-        "date": "2024-08-04 01:16:47",
-        "sentiment_score": -0.8282811306416988
-    },
-    {
-        "title": "Pese al miedo, la oposición venezolana logró llevar con calma su marcha",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165139627.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/marcha-protesta-venezuela-oposicion-maria-corina-mirador-mundial-tv/",
-        "date": "2024-08-03 23:48:14",
-        "sentiment_score": 0.394426628947258
-    },
-    {
-        "title": "Venezolanos en Madrid reclaman por resultados electorales",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/esp.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-madrid-marcha-mirador-mundial-tv/",
-        "date": "2024-08-03 23:34:00",
-        "sentiment_score": -0.1231943666934967
-    },
-    {
-        "title": "Venezolanos marchan en Puerto Rico en apoyo a Edmundo González",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/pr.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/venezolanos-puerto-rico-marcha-mirador-mundial-tv/",
-        "date": "2024-08-03 23:33:52",
-        "sentiment_score": 0.005017369985580444
-    },
-    {
-        "title": "Venezolanos en Colombia se manifiestan en contra de Nicolás Maduro",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/col.jpg?quality=100&strip=info",
-        "tags": [
-            "colombia",
-            "venezuela",
-            "elecciones en venezuela",
-            "zona andina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elecciones-venezuela-marchas-bogota-colombia-mirador-mundial-tv/",
-        "date": "2024-08-03 23:30:58",
-        "sentiment_score": -0.5409639962017536
-    },
-    {
-        "title": "¿Qué busca Maduro con su amparo contencioso electoral tras los comicios?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164269332-20240803232450489.jpg?quality=100&strip=info",
-        "tags": [
-            "nicolás maduro",
-            "venezuela",
-            "elecciones en venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-amparo-actas-elecciones-venezuela-mirador-mundial-tv/",
-        "date": "2024-08-03 23:29:11",
-        "sentiment_score": -0.31389306113123894
-    },
-    {
-        "title": "Maduro demostró una posición de fuerza durante marcha oficialista",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/thumb-maduro.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/marcha-chavismo-venezuela-nicolas-maduro-mirador-mundial-tv/",
-        "date": "2024-08-03 23:06:00",
-        "sentiment_score": -0.04940202832221985
-    },
-    {
-        "title": "Tensión en Medio Oriente por posible respuesta de Irán a muerte de líder",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164678102.jpg?quality=100&strip=info",
-        "tags": [
-            "israel noticias",
-            "guerra israel y hamas",
-            "israel",
-            "hamas"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/tension-medio-oriente-hezbollah-ismail-haniyehmirador-mundial/",
-        "date": "2024-08-03 23:02:22",
-        "sentiment_score": -0.9084178674966097
-    },
-    {
-        "title": "Maduro dice que Venezuela está en paz durante la marcha del oficialismo",
-        "image_url": "./assets/ai_generated/v1_txt2img_d7fc27ea3fd84fd487a70788ba2bfe8d.png",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nicolas-maduro-marcha-oficialismo-venezuela/",
-        "date": "2024-08-03 22:32:59",
-        "sentiment_score": -0.15115748345851898
-    },
-    {
-        "title": "«La gente del campo no ganamos ni para cubrir los gastos»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/04/WhatsAppImage2024-07-27at20.08.31(1)-Rdblo6oUkmN8MajHljmBV6M-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gente-campo-ganamos-cubrir-gastos-20240804210639-nt.html",
-        "date": "2024-08-04 02:08:08",
-        "sentiment_score": -0.1433986872434616
-    },
-    {
-        "title": "Del gobernador a las opas sobre Talgo y Sabadell, las asignaturas pendientes",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/03/sm-Rfn375gOFuVJKaDHitOWGdP-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobernador-opas-sobre-talgo-sabadell-asignaturas-pendientes-20240803165621-nt.html",
-        "date": "2024-08-04 02:06:50",
-        "sentiment_score": -0.09248894453048706
-    },
-    {
-        "title": "En manos de 6.349 afiliados de ERC",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/04/marta-rovira-U67404444068nhJ-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/angel-exposito-manos-6349-afiliados-erc-20240804040401-nt.html",
-        "date": "2024-08-04 02:04:02",
-        "sentiment_score": -0.18104752898216248
-    },
-    {
-        "title": "Cristina Kirchner reclama transparencia a Maduro «por el legado de Chávez»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/04/kirchner-kslC-U602920083500j4E-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/cristina-kirchner-reclama-transparencia-maduro-legado-chavez-20240804024249-nt.html",
-        "date": "2024-08-04 00:42:50",
-        "sentiment_score": -0.1305731236934662
-    },
-    {
-        "title": "Frustración y desamparo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/05/libre-U78355328724qqn-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-frustracion-desamparo-20240805191240-nt.html",
-        "date": "2024-08-03 22:40:58",
-        "sentiment_score": -0.16016288101673126
-    },
-    {
-        "title": "2-1. Pau Víctor deslumbra entre rayos y truenos",
-        "image_url": "https://www.infobae.com/resizer/v2/OO6VDZIOSBBR5LSSJQKXJCW6RY.jpg?auth=370c7b7dc06bb9edc0830d7c9b1999ad0b7248e15320cc1466f44b9731dfaf46",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/08/04/2-1-pau-victor-deslumbra-entre-rayos-y-truenos/",
-        "date": "2024-08-04 02:16:07",
-        "sentiment_score": -0.7211499363183975
-    },
-    {
-        "title": "La tormenta Pau Víctor remoja al Real Madrid",
-        "image_url": "https://static1.ara.cat/clip/54e0e53a-5254-457d-b5f7-787c4f3b0f1d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/tormenta-pau-victor-remoja-madrid_1_5107641.html",
-        "date": "2024-08-04 01:58:29",
-        "sentiment_score": 0.09038840234279633
-    },
-    {
-        "title": "Pau Víctor es el nuevo crack de un Barça que tumba al Real Madrid en Nueva Jersey",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/04/culemania/primer-equipo/875672431_13303451_1706x960.jpg?contentId=ESPIMA20240804_0007",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240804/pau-victor-barca-real-madrid-nueva-jersey/875662426_0.html",
-        "date": "2024-08-04 01:58:13",
-        "sentiment_score": -0.7617886941879988
-    },
-    {
-        "title": "Albares envía a Lisboa al exjefe de Gabinete de Pumpido tras el veto de Putin para Moscú",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/putin-1-469x317.jpg",
-        "tags": [
-            "moscú",
-            "política",
-            "josé manuel albares",
-            "lisboa",
-            "ministerio de asuntos exteriores, unión europea y cooperación",
-            "consulado",
-            "vladimir putin"
-        ],
-        "link": "https://theobjective.com/espana/politica/2024-08-04/albares-lisboa-pumpido-putin-moscu/",
-        "date": "2024-08-04 01:30:00",
-        "sentiment_score": 0.2718416526913643
-    },
-    {
-        "title": "El Grand Tour",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/les-conges-payes-historias-vacaciones-469x317.jpg",
-        "tags": [
-            "italia",
-            "cultura",
-            "turismo",
-            "europa",
-            "roma",
-            "historias de la historia",
-            "inglaterra",
-            "turistas"
-        ],
-        "link": "https://theobjective.com/cultura/2024-08-04/turismo-grand-tour-italia-nobleza/",
-        "date": "2024-08-04 01:30:00",
-        "sentiment_score": -0.012018382549285889
-    },
-    {
-        "title": "Manuel Turizo emocionado tras conocer a Cristiano Ronaldo: el cantante inmortalizó el momento para sus redes sociales",
-        "image_url": "https://www.infobae.com/resizer/v2/5CFTISFMERCANPBK5NNHO5LX3A.jpg?auth=bdcbbf3611e370113e81144d3e01fd92c68762cf2290f7724b6c1738b47d3ae1",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/colombia/2024/08/04/manuel-turizo-emocionado-tras-conocer-a-cristiano-ronaldo-el-cantante-inmortalizo-el-momento-para-sus-redes-sociales/",
-        "date": "2024-08-04 00:53:28",
-        "sentiment_score": 0.1418575793504715
-    },
-    {
-        "title": "El Barcelona-Madrid en Nueva York se reanuda tras más de una hora suspendido por tormenta",
-        "image_url": "./assets/ai_generated/v1_txt2img_f4b2b258daf448eda06d4a6d7df2b59d.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/08/04/el-barcelona-madrid-en-nueva-york-se-reanuda-tras-mas-de-una-hora-suspendido-por-tormenta/",
-        "date": "2024-08-04 00:45:51",
-        "sentiment_score": -0.7615231089293957
-    },
-    {
-        "title": "Los jugadores del Barcelona y el Madrid vuelven al campo para intentar reanudar el clásico",
-        "image_url": "./assets/ai_generated/v1_txt2img_5c8fb1cef93047c5a9d88b28a259a403.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/08/04/los-jugadores-del-barcelona-y-el-madrid-vuelven-al-campo-para-intentar-reanudar-el-clasico/",
-        "date": "2024-08-04 00:30:20",
-        "sentiment_score": -0.06156209111213684
-    },
-    {
-        "title": "Los turistas pasan más días en Avilés y aumentan los viajes con mascota: así repercute en los hoteles",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8bc8e73d-b690-4268-ac86-cc3ede82894b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/aviles/2024/08/04/turistas-pasan-dias-aviles-aumentan-106530899.html",
-        "date": "2024-08-04 02:15:00",
-        "sentiment_score": 0.07087354362010956
-    },
-    {
-        "title": "Sara Torres, autora de una prodigiosa y cautivadora obra literaria, \"Asturiana del mes\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3394735f-d959-44d8-b22d-04efc41fc3cd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/asturias/2024/08/04/sara-torres-autora-prodigiosa-cautivadora-106531685.html",
-        "date": "2024-08-04 02:09:00",
-        "sentiment_score": 0.1429084837436676
-    },
-    {
-        "title": "El turismo se congela y se reinventa en Asturias: ¿qué está pasando?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1f4629bf-fc58-4bea-aa6e-6f8d13f1e06a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/asturias/2024/08/04/turismo-congela-reinventa-asturias-pasando-106531128.html",
-        "date": "2024-08-04 01:38:02",
-        "sentiment_score": -0.18998636305332184
-    },
-    {
-        "title": "El turismo portugués acelera y ya contribuye hasta cuatro puntos más en su PIB",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/09/turistas-maletas-madrid-469x317.jpeg",
-        "tags": [
-            "turismo",
-            "pib",
-            "alquiler",
-            "portugal",
-            "economía",
-            "españa"
-        ],
-        "link": "https://theobjective.com/economia/2024-08-04/turismo-portugal-espana-pib-economia/",
-        "date": "2024-08-04 01:30:00",
-        "sentiment_score": 0.43047918379306793
-    },
-    {
-        "title": "Cataluña reivindica su «soberanía tecnológica» con la vuelta a la atmósfera de su primer satélite",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2022/05/064347/Captura-de-pantalla-2022-05-16-a-las-8.43.12.png",
-        "tags": [
-            "satélite",
-            "política",
-            "gobierno de cataluña",
-            "tecnología digital",
-            "procés",
-            "cataluña",
-            "erc (esquerra republicana de catalunya)"
-        ],
-        "link": "https://theobjective.com/espana/politica/2024-08-04/cataluna-soberania-tecnologica-satelite/",
-        "date": "2024-08-04 01:30:00",
-        "sentiment_score": 0.620583102107048
-    },
-    {
-        "title": "Funcionarios de Hacienda contra la secesión fiscal de Cataluña: \"Quieren una de las joyas de la corona\"",
-        "image_url": "https://s1.elespanol.com/2024/08/03/espana/875422777_248257974_1706x960.png?contentId=ESPIMA20240803_0328",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/espana/20240804/funcionarios-hacienda-secesion-fiscal-cataluna-quieren-joyas-corona/875162915_0.html",
-        "date": "2024-08-04 01:08:03",
-        "sentiment_score": -0.7713727410882711
-    },
-    {
-        "title": "Alsa convierte la movilidá de turistes nún de los sos motores de crecimientu",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/df64086c-1efa-4774-934e-efe209827650_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/asturias/n-asturianu/2024/08/04/alsa-convierte-movilida-turistes-nun-106260265.html",
-        "date": "2024-08-04 01:05:43",
-        "sentiment_score": -0.11249151825904846
-    },
-    {
-        "title": "EEUU | Big Lots anuncia el cierre de algunas sucursales en Florida (+Lista)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/big-lots-Florida-1.webp",
-        "tags": [
-            "florida",
-            "internacionales",
-            "big lots",
-            "eeuu",
-            "cierre de sucursales programadas"
-        ],
-        "link": "https://2001online.com/internacionales/eeuu-big-lots-anuncia-el-cierre-de-algunas-sucursales-en-florida-lista/",
-        "date": "2024-08-04 01:57:39",
-        "sentiment_score": -0.15733788162469864
-    },
-    {
-        "title": "Mueren dos niños electrocutados por un ventilador",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Ventilador-1080x720.jpg",
-        "tags": [
-            "electrocutados por ventilador",
-            "sucesos",
-            "ninos mueren"
-        ],
-        "link": "https://2001online.com/sucesos/mueren-dos-ninos-electrocutados-por-un-ventilador/",
-        "date": "2024-08-04 01:26:25",
-        "sentiment_score": -0.859661128371954
-    },
-    {
-        "title": "Tesla retira del mercado millones de vehículos por un problema técnico (+Detalles)",
-        "image_url": "https://2001online.com/wp-content/uploads/2023/01/Tesla.jpg",
-        "tags": [
-            "tesla",
-            "vehiculos tesla",
-            "curiosidades",
-            "elon musk"
-        ],
-        "link": "https://2001online.com/curiosidades/tesla-retira-del-mercado-millones-de-vehiculos-por-un-problema-tecnico-detalles/",
-        "date": "2024-08-04 01:00:00",
-        "sentiment_score": -0.7310799024999142
-    },
-    {
-        "title": "Conozca los financiamientos que ofrece el Banco Digital de los Trabajadores",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/BDT.jpg",
-        "tags": [
-            "créditos bancarios",
-            "banco bicentenario",
-            "venezuela",
-            "2001online",
-            "internacionales",
-            "bdt",
-            "eeuu",
-            "servicios",
-            "financiamientos",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/servicios/conozca-los-financiamientos-que-ofrece-el-banco-digital-de-los-trabajadores/",
-        "date": "2024-08-04 01:00:00",
-        "sentiment_score": 0.24207039922475815
-    },
-    {
-        "title": "Maduro anuncia que 2.000 personas están detenidas por las “guarimbas”",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Nicolas-Maduro.jpg",
-        "tags": [
-            "nicolás maduro",
-            "nacionales",
-            "guarimbas"
-        ],
-        "link": "https://2001online.com/nacionales/maduro-anuncia-que-2-000-personas-estan-detenidas-por-las-guarimbas/",
-        "date": "2024-08-04 01:00:00",
-        "sentiment_score": 0.028763815760612488
-    },
-    {
-        "title": "Maduro: Edmundo González tendría graves consecuencias por desacato al TSJ",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/5006116294721908197.jpg",
-        "tags": [
-            "nicolás maduro",
-            "tsj",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/maduro-edmundo-gonzalez-tendria-graves-consecuencias-desacato-al-tsj/",
-        "date": "2024-08-03 23:04:37",
-        "sentiment_score": -0.6131472960114479
-    },
-    {
-        "title": "Edmundo González envía mensaje luego de finalizada la concentración opositora",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/04/exministro-Chavez-Edmundo.png",
-        "tags": [
-            "elecciones venezuela",
-            "nacionales",
-            "venezuela",
-            "2001online",
-            "oposición",
-            "maría corina",
-            "edmundo gonzález urrutia"
-        ],
-        "link": "https://2001online.com/nacionales/edmundo-gonzalez-envia-mensaje-luego-de-finalizada-la-concentracion-opositora/",
-        "date": "2024-08-03 21:00:00",
-        "sentiment_score": -0.07376913726329803
-    },
-    {
-        "title": "En imágenes: Así avanza la movilización del oficialismo este #3Ago",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Imagen-de-WhatsApp-2024-08-03-a-las-15.16.10_af998dd6.jpg",
-        "tags": [
-            "marcha de maduro",
-            "psuv",
-            "estados de venezuela",
-            "caracas",
-            "internacionales",
-            "nicolás maduro",
-            "3 de agosto",
-            "cne",
-            "el gallo pinto",
-            "eeuu",
-            "2001online",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/en-imagenes-asi-avanza-la-movilizacion-del-oficialismo-este-3ago/",
-        "date": "2024-08-03 19:58:08",
-        "sentiment_score": 0.256136029958725
-    },
-    {
         "title": "Efemérides del 5 de agosto",
         "image_url": "./assets/ai_generated/v1_txt2img_b5ede0dfdab8407fbac4df534aa1974d.png",
         "tags": [
@@ -871,96 +8,6 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2024/08/04/efemerides-del-5-de-agosto/",
         "date": "2024-08-04 05:15:37",
         "sentiment_score": -0.002071075141429901
-    },
-    {
-        "title": "La venganza de Putin contra los Juegos Olímpicos: la amenaza de los hackers rusos planea sobre París",
-        "image_url": "https://www.infobae.com/resizer/v2/BAXYJRLETFTYLB4KDXNDM6YUQQ.jpg?auth=ca1a0c0b732e28c65ec80c8182d801b51afcaeaa5efe14a2aa7a24310bcd75e4",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/04/la-venganza-de-putin-contra-los-juegos-olimpicos-la-amenaza-de-los-hackers-rusos-planea-sobre-paris/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": -0.923328616656363
-    },
-    {
-        "title": "Los argentinos beneficiados por la ‘ley de nietos’, sobre su proceso para obtener la nacionalidad española: “Fue como redescubrir la familia”",
-        "image_url": "https://www.infobae.com/resizer/v2/2UFSM7LW6VGGRGNFYC5CEPG6Q4.jpg?auth=601fb844de307229fccc1c11abc6449e943352cb7d7385dde17603f59e077559",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/04/los-argentinos-beneficiados-por-la-ley-de-nietos-sobre-su-proceso-para-obtener-la-nacionalidad-espanola-fue-como-redescubrir-la-familia/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": 0.42737069725990295
-    },
-    {
-        "title": "Las vacaciones de los empleados benefician a las empresas: aumentan la productividad y la eficiencia y disminuyen las bajas",
-        "image_url": "https://www.infobae.com/resizer/v2/3KWJL4BLMVC6PHSQPQ2JL2MNRI.jpg?auth=d77cdb9a3cfebe75cdf39bf2e55ff5e4d8e3d6a18871b33f2ec40de57685fc67",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/04/las-vacaciones-de-los-empleados-benefician-a-las-empresas-aumentan-la-productividad-y-la-eficiencia-y-disminuyen-las-bajas/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": 0.8632072638720274
-    },
-    {
-        "title": "Horario de los españoles hoy en los Juegos Olímpicos de París: Carlos Alcaraz busca el oro este 4 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/LCWJKVFP6JF3ROFUY5U73ONWNY.jpg?auth=50d1ae48f0a02f0ec69e0e67ec3ac54b329dca5cf59b9f28ad4c73fb77472b31",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2024/08/04/horario-de-los-espanoles-hoy-en-los-juegos-olimpicos-de-paris-carlos-alcaraz-busca-el-oro-este-4-de-agosto/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": 0.38562341779470444
-    },
-    {
-        "title": "365 días de la detención de Daniel Sancho en Tailandia: la espera de una sentencia judicial y dos familias rotas",
-        "image_url": "./assets/ai_generated/v1_txt2img_de0e43a4b0ab4084a1e119364d6c1c41.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/04/365-dias-de-la-detencion-de-daniel-sancho-en-tailandia-la-espera-de-una-sentencia-judicial-y-dos-familias-rotas/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": -0.746072193607688
-    },
-    {
-        "title": "Soria, la provincia libre de incendios desde hace más de dos décadas: ¿cuál es la clave de su éxito?",
-        "image_url": "https://www.infobae.com/resizer/v2/6YSEJ56Z5FFHXDWLZKYOBW53AM.jpg?auth=c93805938826e1f578f2941941f162563752d11bf9a445301528bf4c4803f85b",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/04/soria-la-provincia-libre-de-incendios-desde-hace-mas-de-dos-decadas-cual-es-la-clave-de-su-exito/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": -0.03719532489776611
-    },
-    {
-        "title": "El hambre como arma a manos del bando nacional en la Guerra Civil: “Después de los militares, llegaban camiones repartiendo pan, era la propaganda más básica”",
-        "image_url": "https://www.infobae.com/resizer/v2/E2H7SVFIJFBDDJATHCYAP63WHE.png?auth=1647a7626212d4cfa2d97d3dfbefc8ea6abe8b4116d66096b9fd3d46b5f4ee44",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/04/el-hambre-como-arma-a-manos-del-bando-nacional-en-la-guerra-civil-despues-de-los-militares-llegaban-camiones-repartiendo-pan-era-la-propaganda-mas-basica/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": -0.8081692978739738
-    },
-    {
-        "title": "Quién es Oz Perkins, el director de ‘Longlegs’ y miembro de un linaje ‘maldito’ en Hollywood",
-        "image_url": "https://www.infobae.com/resizer/v2/6JP7C3PAYNHP5G5PZ777QSYUKM.jpg?auth=289fe539b0735a7ea4a688f9c9faa25cf5734bcc9b2419ee870d27aaeb248fe2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2024/08/04/quien-es-oz-perkins-el-director-de-longlegs-y-miembro-de-un-linaje-maldito-en-hollywood/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": 0.1286451816558838
-    },
-    {
-        "title": "Alemania y Turquía, ‘en pie de guerra’ por el döner kebab: una batalla con consecuencias millonarias que ha llegado a la UE",
-        "image_url": "https://www.infobae.com/resizer/v2/ZGTC7A3XVZBSTNS23NQZONL67Y.jpg?auth=64198817bef09f4d3026f47d15087b4f2f0082e354a1936043e643c864cd1e47",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/04/alemania-y-turquia-en-pie-de-guerra-por-el-doner-kebab-una-batalla-con-consecuencias-millonarias-que-ha-llegado-a-la-ue/",
-        "date": "2024-08-04 05:00:01",
-        "sentiment_score": 0.293194942176342
     },
     {
         "title": "Jordania insta a sus ciudadanos a abandonar Líbano \"lo antes posible\"",
@@ -1000,20 +47,6 @@ export default [
         "sentiment_score": -0.8455238472670317
     },
     {
-        "title": "Las FDI reportan que 30 proyectiles fueron interceptados por el Domo de Hierro sobre el norte de Israel; Hezbollah se atribuye ataque",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/20842825-cen-1.gif",
-        "tags": [
-            "líbano",
-            "domo de hierro",
-            "fdi",
-            "medio oriente",
-            "hezbollah"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/03/fdi-interceptan-proyectiles-norte-israel-domo-hierro-hezbollah-reivindica-autoria-trax/",
-        "date": "2024-08-04 02:45:06",
-        "sentiment_score": -0.41519492864608765
-    },
-    {
         "title": "Agua salá",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/04/encabezado-emilio-vara-1920-1080px_xoptimizadax_20240803212011-U02120716130UkY-1200x630@diario_abc.jpg",
         "tags": [
@@ -1022,202 +55,6 @@ export default [
         "link": "https://www.abc.es/opinion/sevilla/emilio-vara-agua-sala-20240804073246-nts.html",
         "date": "2024-08-04 05:32:46",
         "sentiment_score": -0.030511200428009033
-    },
-    {
-        "title": "Extutelados en la universidad: “Pensé que era imposible poder estudiar Medicina”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BDGO3BHXDFFG5DTEB74CTOMFLU.JPG?auth=be1f58022de1dce0f4f85275eed9448dc228d57fe73a85a25843974a5bc12970",
-        "tags": [
-            "castellón",
-            "tutela",
-            "comunidad valenciana",
-            "estudios universitarios",
-            "formación profesional",
-            "alicante",
-            "universidad",
-            "menores",
-            "infancia",
-            "universidades públicas",
-            "generalitat valenciana",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-04/extutelados-en-la-universidad-pense-que-era-imposible-poder-estudiar-medicina.html",
-        "date": "2024-08-04 04:00:00",
-        "sentiment_score": -0.026488259434700012
-    },
-    {
-        "title": "Cataluña encara un difícil nuevo equilibrio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2ZAWJE6EQNFOZMMOFMCED2M5LY.jpg?auth=faa68ec75f2d35e50e97edd780b23dd3a7d7631da2b01dc9e4cce91e22f066af",
-        "tags": [
-            "cataluña",
-            "marta rovira i vergés",
-            "erc",
-            "investidura parlamentaria",
-            "independentismo",
-            "psoe",
-            "juntsxcat",
-            "psc",
-            "salvador illa",
-            "carles puigdemont"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-04/cataluna-encara-un-dificil-nuevo-equilibrio.html",
-        "date": "2024-08-04 03:40:00",
-        "sentiment_score": -0.30172234028577805
-    },
-    {
-        "title": "Cataluña supera la pantalla del concierto económico: “Se ha roto un tabú”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OZDX6AR6NUBANGOGQVRO25RREY.jpg?auth=47f26a61ea886b0ff003cb19977141217bbb9f6a58f2c237a0592892739ec3a2",
-        "tags": [
-            "presupuestos autonómicos",
-            "financiación autonómica",
-            "cataluña",
-            "erc",
-            "psoe",
-            "generalitat cataluña",
-            "partidos políticos",
-            "psc",
-            "salvador illa",
-            "ministerio de hacienda"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-04/cataluna-supera-la-pantalla-del-concierto-economico-se-ha-roto-un-tabu.html",
-        "date": "2024-08-04 03:40:00",
-        "sentiment_score": -0.8785097766667604
-    },
-    {
-        "title": "El flanco este de la OTAN habla español",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BNFDAEKOQNABRM6YVWKLQ5M2D4.jpg?auth=a060477cc6b88157fd1878ffd3509d4906901be87f066cca72b3f562311f37ce",
-        "tags": [
-            "otan",
-            "fuerzas armadas",
-            "rusia",
-            "ucrania",
-            "ejército español",
-            "margarita robles",
-            "eslovaquia",
-            "volodimir zelenski",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-04/el-flanco-este-de-la-otan-habla-espanol.html",
-        "date": "2024-08-04 03:40:00",
-        "sentiment_score": 0.576183095574379
-    },
-    {
-        "title": "Sánchez se lo juega todo al Illa ‘president’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7GH77D7TDJ2ABHCPD6V6HSCYMU.jpg?auth=358b8040a766ddf6d3fac90eb66cc49cc3c87895df9d976d9e63176adc755a9b",
-        "tags": [
-            "pactos políticos",
-            "investidura parlamentaria pedro sánchez 2023",
-            "cataluña",
-            "marta rovira i vergés",
-            "erc",
-            "investidura parlamentaria pedro sánchez 2019 28-a",
-            "pedro sánchez",
-            "psc-congrés",
-            "gobierno",
-            "investidura parlamentaria",
-            "psoe",
-            "generalitat cataluña",
-            "oriol junqueras",
-            "juntsxcat",
-            "psc",
-            "salvador illa",
-            "carles puigdemont",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-04/sanchez-se-lo-juega-todo-al-illa-president.html",
-        "date": "2024-08-04 03:40:00",
-        "sentiment_score": -0.049788206815719604
-    },
-    {
-        "title": "Los soldados españoles de la “batalla cultural”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3UZSDGN6LUQUUYQE26SUBLKZFQ.jpg?auth=f9d60caf1f3e496734bd3fe56642b373464426ff870a58a9ce8659d8159d8222",
-        "tags": [
-            "estados unidos",
-            "isabel díaz ayuso",
-            "izquierdismo",
-            "aborto",
-            "ideologías",
-            "vox",
-            "ultras",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-04/los-soldados-espanoles-de-la-batalla-cultural.html",
-        "date": "2024-08-04 03:40:00",
-        "sentiment_score": -0.13418202847242355
-    },
-    {
-        "title": "Los menores extranjeros no acompañados se independizan",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FIVPOHFX7RDCHBLKOR36TCZHBQ.jpg?auth=5308e824465fc0af3cf05ee31c681145a0f73a669b0c7ab434089b37489fe88d",
-        "tags": [
-            "gambia",
-            "senegal",
-            "menores migrantes",
-            "acogida niños",
-            "marruecos",
-            "seguridad social",
-            "inmigración",
-            "menores extranjeros no acompañados",
-            "argelia",
-            "ley extranjería",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-04/los-menores-extranjeros-no-acompanados-se-independizan.html",
-        "date": "2024-08-04 03:40:00",
-        "sentiment_score": 0.25747331976890564
-    },
-    {
-        "title": "Miles de barcos amenazan a diario las praderas de posidonia de la Costa Brava",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ABNNQUMGJNH7BFCUUKLOL4POPA.jpg?auth=ac9c1327c44637b0b4c6b5938610ff7e54163552e3e17dfa22ff78813443681b",
-        "tags": [
-            "contaminación",
-            "barcos",
-            "posidonia",
-            "contaminación agua",
-            "costa brava",
-            "costas",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-04/miles-de-barcos-amenazan-a-diario-las-praderas-de-posidonia-de-la-costa-brava.html",
-        "date": "2024-08-04 03:15:00",
-        "sentiment_score": -0.5665128827095032
-    },
-    {
-        "title": "Extremadura fue la cuna del “Mi mamá me mima”, las cartillas Rayas que lucharon contra el analfabetismo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M35RH6TB75AP3FENQ2KJBWNV24.jpeg?auth=09c0f1c5182d8cd0cb3cd2598f3d24ce59846cf911b4ac3c20faaeedb1c88310",
-        "tags": [
-            "editoriales",
-            "educación adultos",
-            "españa",
-            "aprendizaje",
-            "analfabetismo",
-            "lectura",
-            "serradilla",
-            "educación",
-            "extremadura",
-            "enseñanza pública"
-        ],
-        "link": "https://elpais.com/espana/2024-08-04/extremadura-fue-la-cuna-del-mi-mama-me-mima-las-cartillas-rayas-que-lucharon-contra-el-analfabetismo.html",
-        "date": "2024-08-04 03:00:00",
-        "sentiment_score": 0.12729962915182114
-    },
-    {
-        "title": "3.000 pesetas son un motivo suficiente para un abogado de oficio para llegar hasta el final y ganar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OFGJQUSOGFFYVCF7GJG4ANTLBY.jpg?auth=d85e8bebaef020cb5e8b1b903de71dd4b53de14ffa777513deb97976a24a9e1c",
-        "tags": [
-            "abogados",
-            "madrid",
-            "juicios",
-            "sentencias",
-            "vivienda",
-            "sucesos",
-            "turno de oficio",
-            "icam",
-            "comunidad de madrid",
-            "acoso laboral",
-            "jueces"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-08-04/3000-pesetas-son-un-motivo-suficiente-para-un-abogado-de-oficio-para-llegar-hasta-el-final-y-ganar.html",
-        "date": "2024-08-04 03:00:00",
-        "sentiment_score": -0.15367817878723145
     },
     {
         "title": "Un campo de voluntariado del IJEx en San Gil aborda la inclusión de personas con discapacidad intelectual",
@@ -1238,56 +75,6 @@ export default [
         "link": "https://www.elnortedecastilla.es/antropia/reto-saber-personas-enfermedad-final-mueren-20240803002326-ntrc.html",
         "date": "2024-08-04 05:21:05",
         "sentiment_score": -0.6502632293850183
-    },
-    {
-        "title": "Deporte y tauromaquia se unen en Marbella contra el cáncer",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7153d6c9-f818-4b4a-93de-342eb3a0fce3_16-9-aspect-ratio_default_0_x748y130.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/marbella/2024/08/04/deporte-tauromaquia-unen-marbella-cancer-106531258.html",
-        "date": "2024-08-04 05:01:12",
-        "sentiment_score": 0.09874764829874039
-    },
-    {
-        "title": "Antonio Abril (Consejos Sociales): \"El principal problema de universidad pública no es su déficit de financiación, sino su deficiente gobernanza\"",
-        "image_url": "https://s10.s3c.es/imag/_v0/6384x4256/b/8/2/1200x655_Antonio-Abrilpresidente-CCS.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/12929027/07/24/antonio-abril-consejos-sociales-el-principal-problema-de-universidad-publica-no-es-su-deficit-de-financiacion-sino-su-deficiente-gobernanza.html",
-        "date": "2024-08-04 05:00:12",
-        "sentiment_score": -0.00015142560005187988
-    },
-    {
-        "title": "España a la cola en inversión en educación terciaria entre países de la OCDE",
-        "image_url": "https://s10.s3c.es/imag/_v0/3000x2000/6/2/d/1200x655_Campus-universitarios.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/12916836/07/24/espana-a-la-cola-en-inversion-en-educacion-terciaria-entre-paises-de-la-ocde.html",
-        "date": "2024-08-04 05:00:12",
-        "sentiment_score": -0.3499237969517708
-    },
-    {
-        "title": "“La marca Málaga, sin duda, ayuda a cualquier empresa que se alíe con ella”",
-        "image_url": "https://s1.elespanol.com/2024/08/01/malaga/874923264_248216770_1706x960.jpg?contentId=ESPIMA20240801_0765",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/malaga/20240804/marca-malaga-sin-duda-ayuda-cualquier-empresa-alie/874912979_0.html",
-        "date": "2024-08-04 05:00:00",
-        "sentiment_score": 0.7541362456977367
-    },
-    {
-        "title": "Un corto relata el drama de los afectados por el plan fotovoltaico: \"Es la mayor estafa de la democracia\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d5ead30-90e6-4965-8f93-8bf40baf1521_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/sociedad/2024/08/04/corto-relata-drama-afectados-plan-106535205.html",
-        "date": "2024-08-04 04:51:06",
-        "sentiment_score": -0.9255543183535337
     },
     {
         "title": "Pactan PSC y ERC y no pasa nada, ¿por qué?",
@@ -1348,86 +135,6 @@ export default [
         "link": "https://www.huffingtonpost.es/opinion/el-deporte-vida.html",
         "date": "2024-08-04 05:10:06",
         "sentiment_score": 0.025745153427124023
-    },
-    {
-        "title": "Carles Campuzano: \"Cuando el Govern tenga los datos fiscales, se podrán tramitar ayudas sociales automáticamente\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bfe6db23-74f9-4a37-ac14-3ddd587cd13c_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20240804/entrevista-carles-campuzano-drets-socials-ayudas-sociales-dependencia-cataluna-106472067",
-        "date": "2024-08-04 05:01:07",
-        "sentiment_score": -0.2482120394706726
-    },
-    {
-        "title": "Las musas en enaguas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51c699ff-edec-44c8-b15b-4eec724805d5_16-9-aspect-ratio_default_0_x187y379.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2024/08/04/musas-enaguas-106520467.html",
-        "date": "2024-08-04 05:01:06",
-        "sentiment_score": -0.46815137565135956
-    },
-    {
-        "title": "De las Gaviotas a la Palomas: las 'Golondrinas' olvidadas de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cab0cccd-2856-4d26-8ff9-c579e2cf7a2d_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20240804/gaviotas-palomas-golondrinas-olvidadas-barcelona-106436349",
-        "date": "2024-08-04 05:00:57",
-        "sentiment_score": -0.05295760929584503
-    },
-    {
-        "title": "Edmundo González envía nuevo mensaje este #3Ago (+Video)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/edmundo-3.jpg",
-        "tags": [
-            "venezuela",
-            "nacionales",
-            "edmundo gonzález"
-        ],
-        "link": "https://2001online.com/nacionales/edmundo-gonzalez-envia-nuevo-mensaje-3ago/",
-        "date": "2024-08-04 03:52:52",
-        "sentiment_score": 0.33957065641880035
-    },
-    {
-        "title": "MP investiga a sujetos que intentaron linchar a diputado de la AN",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Ministerio-Publico.jpg",
-        "tags": [
-            "investigación",
-            "nacionales",
-            "ministerio público"
-        ],
-        "link": "https://2001online.com/nacionales/mp-investiga-a-sujetos-intentaron-linchar-a-diputado-la-an/",
-        "date": "2024-08-04 03:30:00",
-        "sentiment_score": -0.5244165509939194
-    },
-    {
-        "title": "Programa BIG-LEAP ayuda a las familias de Los Ángeles con pagos mensuales (+Monto)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/BIG-LEAP-PROGRAMa.webp",
-        "tags": [
-            "los ángeles",
-            "programa piloto",
-            "internacionales",
-            "eeuu",
-            "big-leap"
-        ],
-        "link": "https://2001online.com/internacionales/programa-big-leap-ayuda-a-las-familias-de-los-angeles-con-pagos-mensuales-monto/",
-        "date": "2024-08-04 02:30:00",
-        "sentiment_score": -0.11662028729915619
-    },
-    {
-        "title": "Reportan más de 50 detenidos en Táchira",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/esposados.jpg",
-        "tags": [
-            "detenidos",
-            "sucesos",
-            "táchira"
-        ],
-        "link": "https://2001online.com/sucesos/reportan-mas-de-50-detenidos-tachira/",
-        "date": "2024-08-04 02:24:43",
-        "sentiment_score": -0.7139922399073839
     },
     {
         "title": "Mavi García, el diploma recompensa para una corredora valiente",
@@ -7478,5 +6185,755 @@ export default [
         "link": "https://www.laprovincia.es/espana/2024/08/07/regreso-puigdemont-cataluna-escenarios-posible-detencion-106678070.html",
         "date": "2024-08-07 06:20:47",
         "sentiment_score": -0.7653240375220776
+    },
+    {
+        "title": "La villa marinera de Cantabria que es el destino perfecto para los amantes del turismo de sol y playa",
+        "image_url": "https://www.infobae.com/resizer/v2/Q4HYBLYTUJCTRLLYOC24VJ5SXI.jpg?auth=05b0082c5d19357298910aea2e24f4787e8a93029d5bbe52f800d9cab1757699",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2024/08/07/la-villa-marinera-de-cantabria-que-es-el-destino-perfecto-para-los-amantes-del-turismo-de-sol-y-playa/",
+        "date": "2024-08-07 16:00:00",
+        "sentiment_score": 0.09415116906166077
+    },
+    {
+        "title": "La increíble playa que está en el interior de Valencia: un paraje natural de aguas cristalinas y arena fina",
+        "image_url": "https://www.infobae.com/resizer/v2/7VUYQCJUQVGABIJUUSGEGQSWZI.jpg?auth=122f4c1136a12d95b170008443276af56607d7116b9d9285c11a626e5626949e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2024/08/07/la-increible-playa-que-esta-en-el-interior-de-valencia-un-paraje-natural-de-aguas-cristalinas-y-arena-fina/",
+        "date": "2024-08-07 16:00:00",
+        "sentiment_score": 0.6803328841924667
+    },
+    {
+        "title": "Cuándo juega España vs. Francia en la final de los Juegos Olímpicos de París: horario y dónde ver el partido por el oro",
+        "image_url": "https://www.infobae.com/resizer/v2/WAHE2SN7OAP2QFRJAIRCB2Y3QA.jpg?auth=ac35e42a6e7d075142c6b6f9eae7dff89ccb799badfd7f5e3aec0a7f9d3e297a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/08/07/cuando-juega-espana-vs-francia-en-la-final-de-los-juegos-olimpicos-de-paris-horario-y-donde-ver-el-partido-por-el-oro/",
+        "date": "2024-08-07 15:28:20",
+        "sentiment_score": 0.3049558103084564
+    },
+    {
+        "title": "‘Culpa Tuya’, la esperada segunda parte del fenómeno adolescente de Prime Video, se estrenará el 27 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/KLGHZ4DQYJAGZIB5ICCE2BTECY.jpg?auth=68c93444ca81198b63143ef567ea7728203a001b93f1a4cdcd7f6efdd94d36cc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/08/07/culpa-tuya-la-esperada-segunda-parte-del-fenomeno-adolescente-de-prime-video-se-estrenara-el-27-de-diciembre/",
+        "date": "2024-08-07 15:21:18",
+        "sentiment_score": 0.16726607084274292
+    },
+    {
+        "title": "Gibraltar celebra la sanción de la UEFA a Rodri y Morata por sus cánticos \"profundamente ofensivos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/FMEARAXGR5FETEZABPGOZOCUZU.jpg?auth=163231d26de1eba0b6c4884b9674969e79e8dbded345c580ce48af91043459a4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/gibraltar-celebra-la-sancion-de-la-uefa-a-rodri-y-morata-por-sus-canticos-profundamente-ofensivos/",
+        "date": "2024-08-07 15:19:57",
+        "sentiment_score": -0.8799472246319056
+    },
+    {
+        "title": "Carlos Mazón (PP): \"Espero que el teatro de Puigdemont finalmente acabe\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_e57dab300fca44e3bb2cdf147ff045cb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/carlos-mazon-pp-espero-que-el-teatro-de-puigdemont-finalmente-acabe/",
+        "date": "2024-08-07 15:18:11",
+        "sentiment_score": -0.2140946090221405
+    },
+    {
+        "title": "Primeras imágenes de Rajwa de Jordania tras dar a luz a la primera nieta de los reyes Abdalá II y Rania",
+        "image_url": "https://www.infobae.com/resizer/v2/OL3URHCXPVE3JIWBQOZNG4RPGM.jpg?auth=193e6c69f50bd80a3125bd268250fec67ebf38c1293e5401035e99cd1fd5a7cf",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/07/primeras-imagenes-de-rajwa-de-jordania-tras-dar-a-luz-a-la-primera-nieta-de-los-reyes-abdala-ii-y-rania/",
+        "date": "2024-08-07 15:13:01",
+        "sentiment_score": 0.6134879402816296
+    },
+    {
+        "title": "Investigan la muerte de una española tras someterse a una operación de estética en Estambul (Turquía)",
+        "image_url": "./assets/ai_generated/v1_txt2img_d72f97f97ffa403ba174552ea411fe30.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/investigan-la-muerte-de-una-espanola-tras-someterse-a-una-operacion-de-estetica-en-estambul-turquia/",
+        "date": "2024-08-07 15:04:03",
+        "sentiment_score": -0.8118756702169776
+    },
+    {
+        "title": "Alerta salmonelosis: Sanidad advierte sobre Salmonella en un queso de pasta blanda elaborado con leche cruda de oveja",
+        "image_url": "https://www.infobae.com/resizer/v2/ZUX7FA7USJGWBABHIF3UQKFQ24.png?auth=a71c07dac1cec360344b13fb685d7ec8219d6d7a7afaa38ccfa3132f3eff52f5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/07/alerta-salmonelosis-sanidad-advierte-sobre-salmonella-en-un-queso-de-pasta-blanda-elaborado-con-leche-cruda-de-oveja/",
+        "date": "2024-08-07 15:00:36",
+        "sentiment_score": -0.5526281893253326
+    },
+    {
+        "title": "El fallecimiento del diputado foral de Hacienda de Gipuzkoa tiñe de luto la política vasca",
+        "image_url": "./assets/ai_generated/v1_txt2img_7c19d7a0766748818aefd3aea0e2bc59.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/el-fallecimiento-del-diputado-foral-de-hacienda-de-gipuzkoa-tine-de-luto-la-politica-vasca/",
+        "date": "2024-08-07 14:49:00",
+        "sentiment_score": -0.9166376907378435
+    },
+    {
+        "title": "Así han sido las políticas progresistas de Tim Walz como gobernador de Minnesota",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165582358.jpg?quality=100&strip=info",
+        "tags": [
+            "tim walz",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/politicas-progresistas-tim-walz-gobernador-minnesota-trax/",
+        "date": "2024-08-07 17:07:01",
+        "sentiment_score": -0.13719207048416138
+    },
+    {
+        "title": "Un nuevo video de vigilancia muestra los últimos momentos de D'Vontaye Mitchell",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/thumb-asesinato.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dvontaye-mitchell-muerte-video-milwaukee-ush-trax/",
+        "date": "2024-08-07 17:06:36",
+        "sentiment_score": -0.4547784551978111
+    },
+    {
+        "title": "Dirigente regional de la oposición en Venezuela trasmite en vivo su detención",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Diseno-sin-titulo-16.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-oposicion-maria-oropeza-detencion-orix/",
+        "date": "2024-08-07 16:51:49",
+        "sentiment_score": -0.7244505640119314
+    },
+    {
+        "title": "El momento en que un edificio se desploma tras una explosión de gas en China",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/48983341-17272530-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-momento-casa-explosion-gas-cafe-tv/",
+        "date": "2024-08-07 16:46:46",
+        "sentiment_score": -0.7558804508298635
+    },
+    {
+        "title": "El rescate de personas tras el colapso de un hotel en Alemania",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165146484.jpg?quality=100&strip=info",
+        "tags": [
+            "europa",
+            "colapso de edificio",
+            "alemania",
+            "hotel",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/alemania-hotel-derrumbe-rescate-heridos-muertos-orix/",
+        "date": "2024-08-07 16:45:08",
+        "sentiment_score": -0.8573101526126266
+    },
+    {
+        "title": "Opinión | Simone Biles pone a la salud mental como una prioridad y tú también puedes hacerlo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/simone-biles-competencia-salud-mental-e1723046560888.webp",
+        "tags": [
+            "simone biles",
+            "salud mental",
+            "juegos olímpicos paris 2024"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/simone-biles-salud-mental-prioridad-tambien-puedes-hacerlo-opinion-trax/",
+        "date": "2024-08-07 16:44:47",
+        "sentiment_score": 0.28808362782001495
+    },
+    {
+        "title": "Video en cámara rápida muestra un \"tornado de fuego\" en California",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/trax-2-00-00-26-15-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendio-park-fire-california-ush-trax/",
+        "date": "2024-08-07 16:13:28",
+        "sentiment_score": -0.21165550500154495
+    },
+    {
+        "title": "Boric dice que el Gobierno de Chile no reconoce a Nicolás Maduro como presidente electo de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2161821683.jpg?quality=100&strip=info",
+        "tags": [
+            "chile",
+            "venezuela",
+            "gabriel boric"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/gabriel-boric-chile-no-reconoce-a-maduro-presidente-electo-orix/",
+        "date": "2024-08-07 16:11:03",
+        "sentiment_score": -0.6938447672873735
+    },
+    {
+        "title": "Entrevista a Oscar Murillo: “En Venezuela hay una suspensión de facto de las garantías constitucionales”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164014632.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/represion-venezuela-oscar-murillo-cafe-tv-fast/",
+        "date": "2024-08-07 15:54:31",
+        "sentiment_score": -0.6045176833868027
+    },
+    {
+        "title": "Colin Farrell lanza fundación en honor a su hijo que padece un raro trastorno neurogenético",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/colin-farrel-hijo-trastorno-e1723043310343.webp",
+        "tags": [
+            "instanoticias",
+            "síndrome de angelman",
+            "colin farrel",
+            "trastorno nuerogenético",
+            "celebridades"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/colin-farrell-lanza-fundacion-honor-hijo-padece-raro-trastorno-neurogenetico-trax/",
+        "date": "2024-08-07 15:47:17",
+        "sentiment_score": -0.6049994416534901
+    },
+    {
+        "title": "La policía británica defiende no tener un doble rasero para combatir la violencia",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/07/witishpolice-RXPoau0ESaEGpWfQh7bKpWK-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/policia-britanica-defiende-tener-doble-rasero-combatir-20240807180648-nt.html",
+        "date": "2024-08-07 16:08:31",
+        "sentiment_score": -0.16454750299453735
+    },
+    {
+        "title": "Yahya Sinwar, el nuevo líder de Hamás y cerebro de los atentados del 7 de octubre",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/07/sinwar2-R6gOC51Urx4aHknqr7Obp8O-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/yahya-sinwar-nuevo-lider-hamas-cerebro-atentados-20240807151327-nt.html",
+        "date": "2024-08-07 15:03:49",
+        "sentiment_score": -0.1984597146511078
+    },
+    {
+        "title": "Oficiales palestinos denuncian 12 muertos en un ataque israelí en Cisjordania",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/07/yeninch-RmFPejvELsT5wL8Wdu1j2lJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/oficiales-palestinos-denuncian-muertos-ataque-israeli-cisjordania-20240807135051-nt.html",
+        "date": "2024-08-07 11:50:51",
+        "sentiment_score": -0.21812476217746735
+    },
+    {
+        "title": "Indra adquiere Deimos, la filial tecnológica de Elecnor, para reforzar su negocio aeroespacial",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/07/indra-kIW-U602931743973mUE-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/indra-adquiere-deimos-filial-tecnologica-elecnor-reforzar-20240807134125-nt.html",
+        "date": "2024-08-07 11:41:26",
+        "sentiment_score": -0.017040640115737915
+    },
+    {
+        "title": "María Corina Machado denuncia el «secuestro» de una de sus jefas de campaña",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/07/estand-venez-parrado-k4nF-U602931350948C4-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/maria-corina-machado-denuncia-secuestro-jefas-campana-20240807123505-nt.html",
+        "date": "2024-08-07 10:36:40",
+        "sentiment_score": -0.13915950059890747
+    },
+    {
+        "title": "El gobierno suizo admite un error de cálculo en las pensiones: se han gastado 4.000 millones menos de lo previsto",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/07/pensionistas-R9FAaoIi35FgxAUsGE3fLON-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-suizo-admite-error-calculo-pensiones-gastado-20240807123052-nt.html",
+        "date": "2024-08-07 10:30:53",
+        "sentiment_score": -0.05321517586708069
+    },
+    {
+        "title": "Corea del Norte considera a Alemania un «factor maligno» en el Pacífico",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/07/pistorius-corea-RaxrIW6GAyAz37oyVkwv3XI-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/corea-norte-considera-alemania-factor-maligno-pacifico-20240807123040-nt.html",
+        "date": "2024-08-07 10:30:40",
+        "sentiment_score": -0.11652153730392456
+    },
+    {
+        "title": "La teleserie que pone en alerta a los taiwaneses sobre una invasión de China",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/05/taiwanes-RRI9wTXgGFHqWOivJzK3fEI-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/taiwan-arremete-china-publicacion-serie-television-sobre-20240805154117-nt.html",
+        "date": "2024-08-07 10:04:47",
+        "sentiment_score": -0.22795091569423676
+    },
+    {
+        "title": "Airbnb gana 507,6 millones de euros en el segundo trimestre, un 14,6% menos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/07/airbnb-Rhz4QsQvWFI14drAsUoBtQO-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/airbnb-gana-5076-millones-euros-segundo-trimestre-20240807114431-nt.html",
+        "date": "2024-08-07 09:44:31",
+        "sentiment_score": -0.06902918219566345
+    },
+    {
+        "title": "Muhammad Yunus, el banquero Nobel de la Paz encargado de la transición de Bangladés",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/07/yunus-RwuLx6X58AskIGf4WnCmdlK-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/muhammad-yunus-20240807090242-nt.html",
+        "date": "2024-08-07 09:39:55",
+        "sentiment_score": -0.06957006454467773
+    },
+    {
+        "title": "Interior estudia si retira subvenciones al sindicato policial SUP por el acuerdo con Desokupa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZL4M2TDSHR4SCQ5QVL66IG3GZA.jpg?auth=82c46468613137cde42576a3859f9851ae9de2e51992daa5efa1b112af473e7d",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-08-07/interior-estudia-si-retira-subvenciones-al-sindicato-policial-sup-por-el-acuerdo-con-desokupa.html",
+        "date": "2024-08-07 17:06:55",
+        "sentiment_score": -0.5569636337459087
+    },
+    {
+        "title": "Un incendio en la provincia de Toledo arrasa ya 2.500 hectáreas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EL5MW65MSMF5GKW4UAVKD3Q7UM.jpg?auth=791a5f68f6b7c15fa07126e80557e468f521621fee2750c9e9f32f28f9c7a476",
+        "tags": [
+            "junta castilla-la mancha",
+            "bomberos",
+            "prevención incendios",
+            "españa",
+            "incendios",
+            "toledo",
+            "castilla-la mancha",
+            "evacuaciones"
+        ],
+        "link": "https://elpais.com/espana/2024-08-07/un-incendio-en-la-provincia-de-toledo-arrasa-ya-2500-hectareas.html",
+        "date": "2024-08-07 15:33:51",
+        "sentiment_score": -0.21319440007209778
+    },
+    {
+        "title": "Detenidos 17 miembros de un clan familiar de carteristas, alguno con cerca de 200 antecedentes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MK5GLM4CJVE7XCBFVPOAOY4AAI.jpg?auth=ea54d49b9f78de2fe8da4fd8153b441313c52ee5dbbcca28db2a8939833ce723",
+        "tags": [
+            "ministerio del interior",
+            "policía nacional",
+            "francia",
+            "bosnia herzegovina",
+            "juegos olímpicos 2024",
+            "detenciones",
+            "estafas",
+            "hurto",
+            "parís 2024",
+            "españa",
+            "robos",
+            "italia",
+            "crimen organizado"
+        ],
+        "link": "https://elpais.com/espana/2024-08-07/detenidos-17-miembros-de-un-clan-familiar-de-carteristas-alguno-con-cerca-de-200-antecedentes.html",
+        "date": "2024-08-07 12:36:55",
+        "sentiment_score": -0.12033460661768913
+    },
+    {
+        "title": "Muere un menor tras caer por un patio de luces cuando huía de la policía en Torrent (Valencia)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RHUQW4FBVVCTLE2NJOFIRXDGDM.jpg?auth=ad81989f5cf4ebd4a24003aff025eaebb115d90407d9a6e46e57fabb97e2ca62",
+        "tags": [
+            "provincia valencia",
+            "comunidad valenciana",
+            "menores",
+            "policía nacional",
+            "tribunales",
+            "gitanos",
+            "valencia",
+            "torrent",
+            "sucesos",
+            "policía municipal"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-07/muere-un-menor-tras-caer-por-un-patio-de-luces-cuando-huia-de-la-policia-en-torrent-valencia.html",
+        "date": "2024-08-07 11:29:36",
+        "sentiment_score": -0.5558721031993628
+    },
+    {
+        "title": "Los Mossos blindan el Parlament para detener a Puigdemont antes de que acceda a la cámara",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LKWJEP4PNNGDBIZZLZXFMQ6MVE.jpg?auth=4f7b3e6f5a895110ef98af392e616cb485b409da170bf37cf975ed347d9cabf9",
+        "tags": [
+            "carles puigdemont",
+            "junts pel sí",
+            "parlament cataluña",
+            "salvador illa",
+            "elecciones catalanas",
+            "erc",
+            "cataluña",
+            "independentismo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-08-07/los-mossos-blindan-el-parlament-para-detener-a-puigdemont-antes-de-que-acceda-a-la-camara.html",
+        "date": "2024-08-07 09:44:24",
+        "sentiment_score": -0.6815006695687771
+    },
+    {
+        "title": "Última hora de la actualidad política, en directo | El PP considera que Rull “retorcerá” el reglamento “para adaptarlo a las necesidades” de Puigdemont",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3EMUT5HZEJDHLBFFKR7KU45M4Y.jpg?auth=44f5e28d399c39818d978f9b28ebc65eb7d56778f16c8019fd578573aefe2594",
+        "tags": [
+            "erc",
+            "juntsxcat",
+            "cataluña",
+            "parlament cataluña",
+            "psoe",
+            "carles puigdemont",
+            "investidura parlamentaria",
+            "españa",
+            "salvador illa"
+        ],
+        "link": "https://elpais.com/espana/2024-08-07/ultima-hora-de-la-actualidad-politica-en-directo.html",
+        "date": "2024-08-07 09:02:47",
+        "sentiment_score": 0.32205598428845406
+    },
+    {
+        "title": "Puigdemont anuncia que ha iniciado su regreso a España y el independentismo convoca un acto este jueves a las 9.00 para acompañarlo hasta el Parlament",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H63NGIBYAREB7OANUECA2W7J7Y.jpg?auth=798209dd2172de035a43e96c8c14d48bf66dfccd970631f85278ca7cc7335adc",
+        "tags": [
+            "elecciones catalanas",
+            "independentismo",
+            "programas electorales",
+            "elecciones",
+            "generalitat cataluña",
+            "cataluña",
+            "campañas electorales",
+            "govern cataluña",
+            "gobierno autonómico"
+        ],
+        "link": "https://elpais.com/espana/elecciones-catalanas/2024-08-07/puigdemont-anuncia-que-emprende-su-viaje-de-vuelta-a-cataluna-para-estar-en-el-parlament.html",
+        "date": "2024-08-07 08:46:26",
+        "sentiment_score": -0.098903127014637
+    },
+    {
+        "title": "Muere atropellado el diputado de Hacienda de Gipuzkoa mientras iba en bicicleta con su hijo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NYKEQ65JJVEK7H2FTP6JSYUCJQ.jpg?auth=dc737658edca08f6a5ca7891bda9b3c185c08be3e2df14480b168d3325b740ae",
+        "tags": [
+            "sucesos",
+            "muertes",
+            "zamora",
+            "gipuzkoa",
+            "atropello ciclistas",
+            "conducción temeraria",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-08-07/muere-atropellado-el-diputado-de-hacienda-de-gipuzkoa-mientras-iba-en-bicicleta-con-su-hijo.html",
+        "date": "2024-08-07 08:31:38",
+        "sentiment_score": -0.7075037639588118
+    },
+    {
+        "title": "Letizia sorprende en Mallorca con un bolso de crochet creado por Josune en su caserío de Bizkaia",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/08/07/letizia-mallorca-bolso-crochet-josune-caserio-bizkaia-kiDD--758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bizkaiadmoda/moda/letizia-mallorca-bolso-crochet-josune-caserio-bizkaia-20240807172045-nt.html",
+        "date": "2024-08-07 16:04:14",
+        "sentiment_score": 0.8504318632185459
+    },
+    {
+        "title": "La UCM pago 39.188 euros a Begoña Gómez por \"actividades docentes\"",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/07/23/2024072317485018505.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/espanha/ucm-pago-39188-euros-begona-gomez-actividades-docentes/20240807174544535648.html",
+        "date": "2024-08-07 15:45:44",
+        "sentiment_score": -0.04780685156583786
+    },
+    {
+        "title": "La Reina Sofía estrena un bolso diseñado por una amiga de Victoria Federica",
+        "image_url": "https://okdiario.com/look/img/2024/08/07/dl_u562676_007-224x140.jpg",
+        "tags": [
+            "estilo"
+        ],
+        "link": "https://okdiario.com/look/estilo/reina-sofia-bolso-himba-victoria-federica-2080144",
+        "date": "2024-08-07 15:44:26",
+        "sentiment_score": -0.04015618562698364
+    },
+    {
+        "title": "El Real Madrid cierra con victoria sobre el Chelsea su gira estadounidense",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/08/07/2024080717300210377.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/futbol/real-madrid-cierra-victoria-chelsea-gira-estadounidense/20240807173027535643.html",
+        "date": "2024-08-07 15:30:27",
+        "sentiment_score": -0.19593822956085205
+    },
+    {
+        "title": "La reina Sofía, en la intimidad: sus dos grandes apoyos, su verano en Palma y una difícil etapa",
+        "image_url": "https://theobjective.com/wp-content/uploads/2024/08/reina-sofia-desoladora-imagen-150x150.jpeg",
+        "tags": [
+            "celebrities",
+            "reina sofía",
+            "gente"
+        ],
+        "link": "https://theobjective.com/gente/2024-08-07/reina-sofia-grandes-apoyos-palma-etapa/",
+        "date": "2024-08-07 15:30:00",
+        "sentiment_score": 0.1786748543381691
+    },
+    {
+        "title": "Morata y Rodri, sancionados por la UEFA con un partido por los cánticos de \"Gibraltar español\"",
+        "image_url": "http://www.publico.es//uploads/2024/08/07/66b3877805bc9.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "http://www.publico.es/deportes/morata-rodri-sancionados-uefa-partido-canticos-gibraltar-espanol.html",
+        "date": "2024-08-07 15:18:00",
+        "sentiment_score": -0.3671920970082283
+    },
+    {
+        "title": "Pablo Rivero y Guido Tassi de Don Julio, mejor restaurante de carne del mundo, en Chefs on Fire en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/GIFYIHEPMNCAFK65KSXDCLXB2E.jpg?auth=3c2845ea204d3f1bddc3129cbeb4da79eb9a7d6ebbdba018bfbfa69d8a95620a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/07/pablo-rivero-y-guido-tassi-de-don-julio-mejor-restaurante-de-carne-del-mundo-en-chefs-on-fire-en-madrid/",
+        "date": "2024-08-07 15:17:40",
+        "sentiment_score": 0.6249454542994499
+    },
+    {
+        "title": "Primer 'pique' del cuerpo técnico de Flick con un futbolista del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/07/culemania/primer-equipo/876422406_13312172_1706x960.png?contentId=ESPIMA20240807_0057",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240807/primer-del-cuerpo-tecnico-flick-futbolista-barca/876412425_0.html",
+        "date": "2024-08-07 15:04:55",
+        "sentiment_score": 0.002711072564125061
+    },
+    {
+        "title": "Qué ha sido del edificio en el que se rodó ‘Aquí no hay quien viva’",
+        "image_url": "https://www.infobae.com/resizer/v2/WYVQ76CU2NDJZIQCDUM6XFXLYU.jpg?auth=1a5c141810f5262b2a6612f9e373a0df9e641acdf496b8f225ccca4b1f7ba148",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/07/que-ha-sido-del-edificio-en-el-que-se-rodo-aqui-no-hay-quien-viva/",
+        "date": "2024-08-07 14:37:34",
+        "sentiment_score": -0.6415363401174545
+    },
+    {
+        "title": "Detención de Puigdemont: Policía Nacional y Guardia Civil se desentienden",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/28/politica/873922622_13281420_1706x960.jpg?contentId=ESPIMA20240728_0023",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/politica/20240807/detencion-puigdemont-policia-nacional-guardia-civil-desentienden/876412429_0.html",
+        "date": "2024-08-07 17:08:20",
+        "sentiment_score": -0.7778782397508621
+    },
+    {
+        "title": "Barcelona compra una finca de pisos turísticos para alquilarlos a jóvenes",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/07/66b3a8c40c29b.r_d.4845-1873-0.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240807/9858867/barcelona-compra-finca-pisos-turisticos-alquilarlos-jovenes.html",
+        "date": "2024-08-07 17:04:40",
+        "sentiment_score": 0.030478157103061676
+    },
+    {
+        "title": "¿Va a ser detenido Carles Puigdemont?",
+        "image_url": "https://static.eldiario.es/clip/77b513b6-2b02-4e91-8ce7-115761cddaf1_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/opinion/zona-critica/detenido-carles-puigdemont_129_11575950.html",
+        "date": "2024-08-07 17:02:54",
+        "sentiment_score": -0.11526079475879669
+    },
+    {
+        "title": "Un juzgado de Barcelona mantiene la suspensión cautelar de la eutanasia de una joven de 23 años",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/07/la-ciudad-de-la-justicia-de-barcelona-en-una-imagen-de-archivo.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5570849/0/juzgado-barcelona-mantiene-suspension-cautelar-eutanasia-una-joven-23-anos/",
+        "date": "2024-08-07 17:00:41",
+        "sentiment_score": -0.10096761584281921
+    },
+    {
+        "title": "El delegado del Gobierno pide a Orriols un informe de las solicitudes de empadronamiento en Ripoll que rechaza",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6e7bfe14-e3dc-4197-a507-c98ff37cd9fe_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20240807/delegado-gobierno-pide-orriols-informe-106704562",
+        "date": "2024-08-07 17:00:02",
+        "sentiment_score": -0.6751221790909767
+    },
+    {
+        "title": "¿Por qué no deberías reutilizar el protector solar del año pasado, según los expertos?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3eb76be1-bb2d-4646-8d72-ef2b5b2e3625_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/salud/guia/2024/08/07/reutilizar-protector-solar-peligroso-73092451.html",
+        "date": "2024-08-07 17:00:00",
+        "sentiment_score": 0.5159162990748882
+    },
+    {
+        "title": "\"El Mediterráneo está que arde\": Los expertos advierten sobre los peligros del calentamiento del mar",
+        "image_url": "https://static.euronews.com/articles/stories/08/63/63/96/1200x675_cmsv2_a7c5d378-4c0f-55dc-b44c-aca563f5e587-8636396.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.euronews.com/green/2024/08/07/el-mediterraneo-esta-que-arde-los-expertos-advierten-sobre-los-peligros-del-calentamiento-",
+        "date": "2024-08-07 16:51:05",
+        "sentiment_score": -0.7400740031152964
+    },
+    {
+        "title": "El candidato opositor venezolano Edmundo González no acude al Supremo, al que acusa de “usurpar” funciones electorales",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/07/66b3a5712b064.r_d.1942-1293-0.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20240807/9858831/chavismo-elecciones-venezuela-fraude-maduro-gonzalez-machado.html",
+        "date": "2024-08-07 16:50:57",
+        "sentiment_score": -0.14967570453882217
+    },
+    {
+        "title": "La jueza mantiene la suspensión cautelar de la eutanasia a una joven de 23 años en Barcelona",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/04/Diseno-sin-titulo-4.png",
+        "tags": [
+            "suspensión",
+            "tribunales",
+            "tribunal superior de justicia de cataluña",
+            "jueza",
+            "eutanasia"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-08-07/jueza-suspension-eutanasia-joven-barcelona/",
+        "date": "2024-08-07 16:49:11",
+        "sentiment_score": -0.5730936154723167
+    },
+    {
+        "title": "AHORA | Manuel Rosales se pronuncia tras comparecer ante la Sala Electoral del TSJ",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-113.png",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/rosales-pronuncia-sala-electoral-tsj/",
+        "date": "2024-08-07 16:44:56",
+        "sentiment_score": 0.07019499316811562
+    },
+    {
+        "title": "Manuel Rosales acudió al Tribunal Supremo de Justicia este #7Ago (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Manuel-Rosales.jpg",
+        "tags": [
+            "sala electoral",
+            "tsj",
+            "manuel rosales acudió al tribunal supremo de justicia este #7ago",
+            "nacionales",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/manuel-rosales-acudio-al-tribunal-supremo-de-justicia-este-7ago-video/",
+        "date": "2024-08-07 13:50:02",
+        "sentiment_score": 0.02360134944319725
+    },
+    {
+        "title": "Edmundo González se pronuncia sobre citación este #7Ago al TSJ",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Edmundo-Gonzalez-3.jpg",
+        "tags": [
+            "venezuela",
+            "tsj",
+            "edmundo gonzález se pronuncia sobre citación este #7ago al tsj",
+            "nacionales",
+            "edmundo gonzález",
+            "2001online"
+        ],
+        "link": "https://2001online.com/nacionales/edmundo-gonzalez-se-pronuncia-sobre-citacion-este-7ago-al-tsj/",
+        "date": "2024-08-07 12:16:48",
+        "sentiment_score": -0.010305419564247131
+    },
+    {
+        "title": "Inameh estima condiciones estables con cielo parcialmente nublado",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/02/pronostico-Inameh-lluvias-1167x720.png",
+        "tags": [
+            "nacionales",
+            "venezuela",
+            "inameh estima condiciones estable con cielo parcialmente nublado"
+        ],
+        "link": "https://2001online.com/nacionales/inameh-estima-condiciones-estables-con-cielo-parcialmente-nublado/",
+        "date": "2024-08-07 11:45:08",
+        "sentiment_score": 0.21686489880084991
+    },
+    {
+        "title": "Dólar BCV Venezuela: Así se cotiza la moneda estadounidense este #7Ago",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/06/ayuda-indocumentados-efectivo-dinero-dolar-dolares-eeuu-inmigrantes-1200x720.jpg",
+        "tags": [
+            "economía",
+            "dólar latam",
+            "nacionales",
+            "venezuela",
+            "dólar bcv venezuela: así se cotiza la moneda estadounidense este #7ago"
+        ],
+        "link": "https://2001online.com/dolarlatam/dolar-bcv-venezuela-asi-se-cotiza-la-moneda-estadounidense-este-7ago/",
+        "date": "2024-08-07 11:39:20",
+        "sentiment_score": 0.1292264088988304
+    },
+    {
+        "title": "Conatel abre investigación legal-administrativa por “mensajes de odio” vía WhatsApp",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/conatel.jpg",
+        "tags": [
+            "nacionales",
+            "conatel",
+            "whatsapp",
+            "investigación"
+        ],
+        "link": "https://2001online.com/nacionales/conatel-abre-investigacion-legal-administrativa-mensajes-odio-via-whatsapp/",
+        "date": "2024-08-07 03:30:00",
+        "sentiment_score": -0.3915347456932068
+    },
+    {
+        "title": "Avemarep insta a aerolíneas a bajar los precios de los boletos hacia Colombia",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Captura-de-pantalla-2024-06-04-a-las-12.00.09-p.-m-1280x720.png",
+        "tags": [
+            "nacionales",
+            "república dominicana",
+            "panamá"
+        ],
+        "link": "https://2001online.com/nacionales/avemarep-insta-a-aerolineas-a-bajar-los-precios-de-los-boletos-hacia-colombia/",
+        "date": "2024-08-07 02:01:17",
+        "sentiment_score": -0.030152931809425354
+    },
+    {
+        "title": "Maduro anuncia que 2.229 “terroristas capturados” serán trasladados a Tocorón y Tocuyito",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/maduro-3.jpg",
+        "tags": [
+            "nacionales",
+            "nicolás maduro",
+            "detenidos en manifestaciones"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-que-2-229-terroristas-capturados-seran-trasladados-a-tocoron-y-tocuyito/",
+        "date": "2024-08-07 01:30:00",
+        "sentiment_score": -0.2674366980791092
+    },
+    {
+        "title": "Lluvias provocaron inundaciones en tres municipios del estado Aragua (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Viviendas-afectadas-barrio-El-Recurso-Maracay.jpg",
+        "tags": [
+            "nacionales",
+            "aragua"
+        ],
+        "link": "https://2001online.com/nacionales/lluvias-provocaron-inundaciones-en-tres-municipios-del-estado-aragua-video/",
+        "date": "2024-08-07 01:09:32",
+        "sentiment_score": -0.6125108674168587
     }
 ];
