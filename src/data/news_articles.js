@@ -1,142 +1,5 @@
 export default [
     {
-        "title": "Efemérides del 5 de agosto",
-        "image_url": "./assets/ai_generated/v1_txt2img_b5ede0dfdab8407fbac4df534aa1974d.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/04/efemerides-del-5-de-agosto/",
-        "date": "2024-08-04 05:15:37",
-        "sentiment_score": -0.002071075141429901
-    },
-    {
-        "title": "Jordania insta a sus ciudadanos a abandonar Líbano \"lo antes posible\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/ap24212646144536.webp",
-        "tags": [
-            "medio oriente",
-            "líbano",
-            "jordania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/04/jordania-insta-ciudadanos-abandonar-libano-lo-antes-posible-trax/",
-        "date": "2024-08-04 05:32:17",
-        "sentiment_score": -0.09681637585163116
-    },
-    {
-        "title": "Trump dice que tiene que \"trabajar duro para definir\" a Harris",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/clip-1-thumb-20240801001353058.jpg?quality=100&strip=info",
-        "tags": [
-            "trump",
-            "elecciones en estados unidos",
-            "harris"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/04/trump-dice-que-tenemos-que-trabajar-duro-para-definir-a-harris-trax/",
-        "date": "2024-08-04 05:26:02",
-        "sentiment_score": 0.14604729413986206
-    },
-    {
-        "title": "Ucrania denuncia que un submarino ruso se hundió en el puerto de Crimea",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/crimea.webp",
-        "tags": [
-            "noticias de ee.uu.",
-            "noticias de ucrania",
-            "noticias de rusia",
-            "crimea"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/04/ucrania-denuncia-submarino-ruso-se-hundio-puerto-crimea-trax/",
-        "date": "2024-08-04 05:15:56",
-        "sentiment_score": -0.8455238472670317
-    },
-    {
-        "title": "Agua salá",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/04/encabezado-emilio-vara-1920-1080px_xoptimizadax_20240803212011-U02120716130UkY-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-agua-sala-20240804073246-nts.html",
-        "date": "2024-08-04 05:32:46",
-        "sentiment_score": -0.030511200428009033
-    },
-    {
-        "title": "Un campo de voluntariado del IJEx en San Gil aborda la inclusión de personas con discapacidad intelectual",
-        "image_url": "https://s2.ppllstatics.com/hoy/solidario/multimedia/2024/07/31/6123776-kmd-U220867467440qU-758x531@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://solidario.hoy.es/campo-voluntariado-ijex-san-gil-aborda-inclusion-20240731080000-nt.html",
-        "date": "2024-08-04 06:00:00",
-        "sentiment_score": 0.13431986048817635
-    },
-    {
-        "title": "«El reto es saber por qué hay personas que, sin enfermedad, al final mueren»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/08/03/arturo-fdez-2-kOUB-U220873523197os-758x531@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/antropia/reto-saber-personas-enfermedad-final-mueren-20240803002326-ntrc.html",
-        "date": "2024-08-04 05:21:05",
-        "sentiment_score": -0.6502632293850183
-    },
-    {
-        "title": "Pactan PSC y ERC y no pasa nada, ¿por qué?",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/05/22/salvador-illa-pere-aragones.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5542711/0/pactan-psc-erc-no-pasa-nada-por-que/",
-        "date": "2024-08-04 06:10:51",
-        "sentiment_score": -0.7989270426332951
-    },
-    {
-        "title": "El tiempo en Catalunya en directo: un domingo de sol y pocas nubes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c20231c8-db03-40c0-9868-8c86ef4e5ae0_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20240804/lluvias-cataluna-barcelona-el-tiempo-ultima-hora-directo-105768715",
-        "date": "2024-08-04 06:09:00",
-        "sentiment_score": -0.7179615087807178
-    },
-    {
-        "title": "Mapa para encontrar la fuente de agua más cercana en Barcelona: la app que te cambiará los paseos este verano",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d038b1a-bb39-4656-b13a-c6cad7ea6837_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20240804/encontrar-fuente-cercana-barcelona-app-106323093",
-        "date": "2024-08-04 06:00:00",
-        "sentiment_score": -0.2483581304550171
-    },
-    {
-        "title": "Qué es un Estado federal... y cómo sería España si llegase a serlo",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/02/espana-estado-federal.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5538554/0/que-es-un-estado-federal-como-seria-espana-si-fuera/",
-        "date": "2024-08-04 05:58:03",
-        "sentiment_score": -0.0933632105588913
-    },
-    {
-        "title": "Los animales marinos más peligrosos de las playas de Catalunya junto a la raya del Fòrum",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c313e0b0-a8d4-4022-922a-ff3afe261d55_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20240804/animales-marinos-peligrosos-playas-catalunya-raya-tuburon-dv-106465354",
-        "date": "2024-08-04 05:30:03",
-        "sentiment_score": -0.911323357373476
-    },
-    {
-        "title": "El deporte y la vida",
-        "image_url": "https://img.huffingtonpost.es/files/image_720_480/uploads/2024/08/03/diego-botin-y-florian-trittel-oro-en-vela-en-estos-jjoo-de-paris.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/el-deporte-vida.html",
-        "date": "2024-08-04 05:10:06",
-        "sentiment_score": 0.025745153427124023
-    },
-    {
         "title": "Mavi García, el diploma recompensa para una corredora valiente",
         "image_url": "./assets/ai_generated/v1_txt2img_a8cd0b34cc634f9397b0f8704ef0b90f.png",
         "tags": [
@@ -320,41 +183,6 @@ export default [
         "sentiment_score": -0.8010807391256094
     },
     {
-        "title": "Bolsas de hielo y neveras portátiles: qué se necesita para sobrevivir al aire libre en la ciudad más calurosa de EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/2024-arizona-heat-jq-1.jpg?quality=100&strip=info",
-        "tags": [
-            "tiempo",
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/04/que-se-necesita-sobrevivir-phoenix-ciudad-mas-calurosa-de-eeuu-trax/",
-        "date": "2024-08-04 10:09:37",
-        "sentiment_score": -0.012559086084365845
-    },
-    {
-        "title": "La tormenta tropical Debby podría convertirse rápidamente en huracán categoría 1 y causar lluvias históricas en el sureste de EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/debby-2.gif",
-        "tags": [
-            "debby",
-            "huracán",
-            "tiempo",
-            "cambio climático",
-            "instanoticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/04/calidas-aguas-tormenta-tropical-debby-huracan-trax/",
-        "date": "2024-08-04 08:19:37",
-        "sentiment_score": -0.13118670880794525
-    },
-    {
-        "title": "Las cálidas aguas del Golfo podrían ayudar a que la tormenta tropical Debby, de lento movimiento, se fortalezca a huracán de categoría 1 antes de tocar tierra",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/debby.gif",
-        "tags": [
-            "tiempo"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/04/calidas-aguas-golfo-podrian-ayudala-tormenta-tropical-debby-se-fortalezca-huracan-categoria-1-antes-de-tocar-tierra-trax/",
-        "date": "2024-08-04 08:19:37",
-        "sentiment_score": 0.02794596552848816
-    },
-    {
         "title": "Campos de concentración de neón",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/04/club-prostitucion-U50006502433IvI-1200x630@diario_abc.jpg",
         "tags": [
@@ -433,26 +261,6 @@ export default [
         "link": "https://www.abc.es/economia/aena-dice-haber-notificada-medidas-cautelares-sociedades-20240804123134-nt.html",
         "date": "2024-08-04 10:32:56",
         "sentiment_score": -0.19317370653152466
-    },
-    {
-        "title": "Cuánto dinero cuesta mantener a un preso en España en 2024: gasto mensual por recluso",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/27/carcel--kgYG-U602890821403h0D-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cuanto-dinero-cuesta-mantener-preso-espana-gasto-mensual-recluso-20240804163215-nt.html",
-        "date": "2024-08-04 09:00:05",
-        "sentiment_score": -0.19416122138500214
-    },
-    {
-        "title": "Cuándo te vas a jubilar según tu año de nacimiento: la tabla por edad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/07/02/jlsdflafjldsf-k0DH-U6029163744560AC-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cuando-jubilar-segun-ano-nacimiento-tabla-edad-20240804060000-nt.html",
-        "date": "2024-08-04 07:00:00",
-        "sentiment_score": -0.12910397350788116
     },
     {
         "title": "Se reactiva el incendio en Lleida que los bomberos dieron por apagado hace tres días",
@@ -6935,5 +6743,579 @@ export default [
         "link": "https://2001online.com/nacionales/lluvias-provocaron-inundaciones-en-tres-municipios-del-estado-aragua-video/",
         "date": "2024-08-07 01:09:32",
         "sentiment_score": -0.6125108674168587
+    },
+    {
+        "title": "El PP cree que \"todo está orquestado por Moncloa\" y que Illa \"gana\" con el \"show\" de Puigdemont",
+        "image_url": "https://www.infobae.com/resizer/v2/CFIX6LGF65CU7IP7WMDVUPLXQA.jpg?auth=5bf9835eff6268ce45bfcb09824dfc1a9c5673dd64d9f2aeb9a098df3a303c8d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/el-pp-cree-que-todo-esta-orquestado-por-moncloa-y-que-illa-gana-con-el-show-de-puigdemont/",
+        "date": "2024-08-07 21:34:31",
+        "sentiment_score": -0.7599304411560297
+    },
+    {
+        "title": "Herrera, historia del vóley playa, cierra su ciclo olímpico y se siente un \"afortunado\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_078b403a78d3476baae4d577bcaa491c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/herrera-historia-del-voley-playa-cierra-su-ciclo-olimpico-y-se-siente-un-afortunado/",
+        "date": "2024-08-07 21:21:34",
+        "sentiment_score": 0.7639563903212547
+    },
+    {
+        "title": "0-0. Empate sin goles pese a las muchas ocasiones creadas por Betis y Cádiz",
+        "image_url": "./assets/ai_generated/v1_txt2img_0253c3d336714a61bb78dcbd231aba88.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/0-0-empate-sin-goles-pese-a-las-muchas-ocasiones-creadas-por-betis-y-cadiz/",
+        "date": "2024-08-07 21:21:17",
+        "sentiment_score": -0.7650591228157282
+    },
+    {
+        "title": "Adrián Vicente: \"Hay que aprender para el futuro\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_873fde80fe4644a4a57a65458794b556.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/adrian-vicente-hay-que-aprender-para-el-futuro/",
+        "date": "2024-08-07 21:03:49",
+        "sentiment_score": 0.19306594878435135
+    },
+    {
+        "title": "Dani Arce: \"Ser décimo en unos Juegos es para estar contento, nunca lo había soñado\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_a836e8ccf6c746219e65c0f17a78cebd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/dani-arce-ser-decimo-en-unos-juegos-es-para-estar-contento-nunca-lo-habia-sonado/",
+        "date": "2024-08-07 21:03:32",
+        "sentiment_score": 0.6410699710249901
+    },
+    {
+        "title": "El realista Igor Zubeldia se lesiona a diez días del comienzo de la temporada en Anoeta",
+        "image_url": "./assets/ai_generated/v1_txt2img_a276d50337e94ab3a53059f0ba62473c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/el-realista-igor-zubeldia-se-lesiona-a-diez-dias-del-comienzo-de-la-temporada-en-anoeta/",
+        "date": "2024-08-07 21:03:15",
+        "sentiment_score": -0.7135896012187004
+    },
+    {
+        "title": "Taylor Swift cancela sus tres conciertos en Viena tras el arresto de dos presuntos yihadistas que planeaban atentar en el estadio Ernst Happel",
+        "image_url": "https://www.infobae.com/resizer/v2/FOL3NQD6UVG4LCPP3KQQCPCBWQ.jpg?auth=9d07f4d6f856211cc7675ba25e98d6ae826332f03b4e080db2e8254f052e434b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/07/taylor-swift-cancela-sus-tres-conciertos-en-viena-tras-el-arresto-de-dos-presuntos-yihadistas-que-planeaban-atentar-en-el-estadio-ernst-happel/",
+        "date": "2024-08-07 20:43:34",
+        "sentiment_score": -0.785154277458787
+    },
+    {
+        "title": "Álvaro Martín y María Pérez tiñen de oro el cielo de París",
+        "image_url": "./assets/ai_generated/v1_txt2img_9c20731c4ff645f8b255bf6db7ff2da8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/alvaro-martin-y-maria-perez-tinen-de-oro-el-cielo-de-paris/",
+        "date": "2024-08-07 20:35:01",
+        "sentiment_score": 0.2403557151556015
+    },
+    {
+        "title": "Blanca Toledano: \"Esta medalla vale mucho\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_0574359b540141169f205ce5bcfb03bb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/blanca-toledano-esta-medalla-vale-mucho/",
+        "date": "2024-08-07 20:34:43",
+        "sentiment_score": 0.8152014166116714
+    },
+    {
+        "title": "Muere un hombre de 56 años en la playa de Getares, en Algeciras (Cádiz)",
+        "image_url": "./assets/ai_generated/v1_txt2img_8acb795061e04c49b7f2037ad07f454c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/muere-un-hombre-de-56-anos-en-la-playa-de-getares-en-algeciras-cadiz/",
+        "date": "2024-08-07 20:34:07",
+        "sentiment_score": -0.7547406610101461
+    },
+    {
+        "title": "El próximo edificio más alto del mundo podría ser una batería de casi 1.000 metros de altura",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/video1483342864-00-00-02-17-imagen-fija019.jpg?quality=100&strip=info",
+        "tags": [
+            "energía renovable",
+            "edificios",
+            "ciencia",
+            "videos digitales",
+            "innovaciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edificio-mas-alto-mundo-ush-orix/",
+        "date": "2024-08-07 22:05:54",
+        "sentiment_score": 0.28046299517154694
+    },
+    {
+        "title": "Boeing aún no sabe quién desmontó y volvió a instalar la pieza que se desprendió de un avión de Alaska Airlines",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165565047.jpg?quality=100&strip=info",
+        "tags": [
+            "alaska airlines",
+            "boeing",
+            "empresas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/boeing-desmonto-tapon-desprendio-avion-alaska-airlines-trax/",
+        "date": "2024-08-07 21:14:58",
+        "sentiment_score": -0.5880512166768312
+    },
+    {
+        "title": "¿Por qué los resultados de la oposición en Venezuela se pueden comprobar y los del CNE no?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/resultados_venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "edmundo gonzález urrutia",
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/actas-resultados-venezuela-oposicion-cne-comprobar-orix/",
+        "date": "2024-08-07 21:10:08",
+        "sentiment_score": -0.24301785975694656
+    },
+    {
+        "title": "La Habana, un destino imperdible por su esencia única",
+        "image_url": "./assets/ai_generated/v1_txt2img_5fe1c1ff1da34006bca6952a9433f885.png",
+        "tags": [
+            "caribe",
+            "destinos",
+            "fast – reserve",
+            "xpress",
+            "cuba",
+            "la habana",
+            "video"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/la-habana-destino-imperdible-fast/",
+        "date": "2024-08-07 20:50:20",
+        "sentiment_score": 0.6261670291423798
+    },
+    {
+        "title": "Disney sube el precio de los servicios de suscripción de Disney+, Hulu y ESPN+",
+        "image_url": "./assets/ai_generated/v1_txt2img_296731fc5d1941ae933abfeef907cc97.png",
+        "tags": [
+            "ee.uu.",
+            "disney",
+            "hulu"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/disney-aumenta-precios-streaming-disney-hulu-espan-cnn-dinero-tv/",
+        "date": "2024-08-07 20:44:45",
+        "sentiment_score": 0.16319221630692482
+    },
+    {
+        "title": "“Sigue siendo posible un alto al fuego”, dice asesor de seguridad nacional de EE.UU. sobre Medio Oriente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165210110.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "hamas",
+            "joe biden"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jake-sullivan-hamas-plan-alto-fuego-gaza-medio-oriente-eeuu-trax/",
+        "date": "2024-08-07 20:24:36",
+        "sentiment_score": 0.12250976264476776
+    },
+    {
+        "title": "Hyundai y Kia logran disminuir el robo de sus vehículos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1494626344.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/disminuyen-robos-autos-hyundai-kia-software-cnn-dinero-tv/",
+        "date": "2024-08-07 19:58:38",
+        "sentiment_score": 0.0824456587433815
+    },
+    {
+        "title": "Salvador Illa se somete este jueves al debate de investidura en Cataluña: ¿cómo llegó hasta aquí?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2165541977-e1723060052684.jpg?quality=100&strip=info",
+        "tags": [
+            "españa",
+            "cataluña"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/07/salvador-illa-debate-de-investidura-cataluna-como-llego-orix/",
+        "date": "2024-08-07 19:57:15",
+        "sentiment_score": -0.054774209856987
+    },
+    {
+        "title": "Qué debe hacer con su fondo de retiro o 401(k) ante un mercado de valores altamente volátil",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/401k-3.jpeg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-fondo-retiro-inversion-401k-acciones-bonoscnn-dinero-tv/",
+        "date": "2024-08-07 19:50:59",
+        "sentiment_score": -0.2720889672636986
+    },
+    {
+        "title": "Inteligencia artificial e inteligencia emocional: así impactan en la felicidad, según Andrés Oppenheimer",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1020864608.jpg?quality=100&strip=info",
+        "tags": [
+            "inteligencia artificial"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inteligencia-artificial-emocional-felicidad-oppenheimer-presenta-tv/",
+        "date": "2024-08-07 19:46:59",
+        "sentiment_score": 0.08417573571205139
+    },
+    {
+        "title": "Argentina reconoce oficialmente el triunfo de Edmundo González en Venezuela",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/07/EdmundoMariaCorina-k0hC-U602933588101iKF-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/argentina-reconoce-oficialmente-triunfo-edmundo-gonzalez-venezuela-20240807233805-nt.html",
+        "date": "2024-08-07 21:38:42",
+        "sentiment_score": -0.0836617648601532
+    },
+    {
+        "title": "Convenio entre Desokupa y un sindicato para formar a los vigilantes de Rodalies y Metro en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AS32GF5CGZGWPI4KTNHOTOF2QQ.JPG?auth=ddd8f12447861967770b6002664ef8ebacb88881d3db876b706afa2dc09a98eb",
+        "tags": [
+            "cercanías",
+            "policía",
+            "desokupa",
+            "barcelona",
+            "vigilantes jurados",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-08-07/convenio-entre-desokupa-y-un-sindicato-para-formar-a-los-vigilantes-de-rodalies-y-metro-en-barcelona.html",
+        "date": "2024-08-07 19:33:46",
+        "sentiment_score": -0.2269579842686653
+    },
+    {
+        "title": "Incógnitas que afronta Puigdemont al volver a España: detención y prisión provisional",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3EMUT5HZEJDHLBFFKR7KU45M4Y.jpg?auth=44f5e28d399c39818d978f9b28ebc65eb7d56778f16c8019fd578573aefe2594",
+        "tags": [
+            "cataluña",
+            "política",
+            "juntsxcat",
+            "erc",
+            "delitos",
+            "carles puigdemont",
+            "investigación judicial",
+            "govern cataluña",
+            "independentismo",
+            "tribunal supremo",
+            "generalitat cataluña",
+            "españa",
+            "malversación fondos",
+            "procés independentista catalán",
+            "justicia",
+            "salvador illa",
+            "pablo llarena"
+        ],
+        "link": "https://elpais.com/espana/2024-08-07/incognitas-que-afronta-puigdemont-al-volver-a-espana-detencion-y-prision-provisional.html",
+        "date": "2024-08-07 17:39:38",
+        "sentiment_score": -0.2670338302850723
+    },
+    {
+        "title": "Simeone, rey del mercado por delante de Barça y Real Madrid: ¡200 millones en 4 fichajes!",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/01/21/culemania/primer-equipo/primer_equipo_5010256_1895349_1706x960.jpg?contentId=ESPIMA20150121_0757",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20240807/simeone-mercado-barca-real-madrid-millones-fichajes/876412459_0.html",
+        "date": "2024-08-07 21:47:08",
+        "sentiment_score": 0.5631354823708534
+    },
+    {
+        "title": "El Celta cede a Javi Rueda al Albacete",
+        "image_url": "./assets/ai_generated/v1_txt2img_2ce6e7270f1d401cab6bb85acae3ab3e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/07/el-celta-cede-a-javi-rueda-al-albacete/",
+        "date": "2024-08-07 20:21:53",
+        "sentiment_score": -0.37452294677495956
+    },
+    {
+        "title": "Borja Domecq: «Cuando criamos a un toro, criamos un deportista de élite que tiene que dar todo en 20 minutos»",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/08/07/AuladeCultura-AntonioVazquez(1)-Rm08yUzEo5IPZDUy36QKu1L-758x531@abc.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdigital.es/provincia/el-puerto/borja-domecq-criamos-toro-criamos-deportista-elite-20240807215648-ntv.html",
+        "date": "2024-08-07 20:05:58",
+        "sentiment_score": 0.01950681209564209
+    },
+    {
+        "title": "El operativo de seducción para que Julián Álvarez juegue en el Atlético de Madrid: de los cinco llamados de Simeone al desafío que le tocó el ego",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/07/el-operativo-de-seduccion-para-que-julian-alvarez-juegue-en-el-atletico-de-madrid-de-los-cinco-llamados-de-simeone-al-desafio-que-le-toco-el-ego/",
+        "date": "2024-08-07 20:02:30",
+        "sentiment_score": -0.7462996877729893
+    },
+    {
+        "title": "Real Madrid cierra gira por EE.UU. en Charlotte; recibe las llaves de la ciudad",
+        "image_url": "https://i0.wp.com/lanoticia.com/wp-content/uploads/2024/08/real-madrid-jpg.webp?fit=1024%2C683&ssl=1",
+        "tags": [
+            "noticias",
+            "estados unidos",
+            "deportes",
+            "charlotte",
+            "carolina del norte",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://lanoticia.com/deportes/noticias-de-futbol-en-carolina-del-norte/real-madrid-cierra-gira-por-ee-uu-en-charlotte-recibio-las-llaves-de-la-ciudad/",
+        "date": "2024-08-07 19:41:03",
+        "sentiment_score": 0.27670301496982574
+    },
+    {
+        "title": "Jueves 8 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_6314c240b95e458cb0b1d9f01f235104.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/07/jueves-8-de-agosto-de-2024/",
+        "date": "2024-08-07 19:30:58",
+        "sentiment_score": -6.27860426902771e-05
+    },
+    {
+        "title": "Valdano pide “cuidar la singularidad” del fútbol sudamericano y \"no imitar a Europa\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_f9230aea1ec34a04819beba05900ee50.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/07/valdano-pide-cuidar-la-singularidad-del-futbol-sudamericano-y-no-imitar-a-europa/",
+        "date": "2024-08-07 19:03:55",
+        "sentiment_score": -0.4437406063079834
+    },
+    {
+        "title": "Mateo Retegui tiene todo acordado para jugar en un campeón de Europa: la millonaria cifra que pagarán por su pase",
+        "image_url": "https://www.infobae.com/resizer/v2/JTFSKMAQJF533PS6COOFT4F3LM.jpg?auth=89a72e557768d30d76b59f355fb845695d5ee5ced9ccd480d3107897dbf2bf39",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/07/mateo-retegui-tiene-todo-acordado-para-jugar-en-un-campeon-de-europa-la-millonaria-cifra-que-pagaran-por-su-pase/",
+        "date": "2024-08-07 18:59:19",
+        "sentiment_score": 0.03985576331615448
+    },
+    {
+        "title": "“Viví un tiempo en que si eras un escritor castrista, eras un buen escritor, y si no, eras malo”",
+        "image_url": "https://www.infobae.com/resizer/v2/ORFFH3NUXVAVNCKAKI3NFB32HA.jpg?auth=19d997d10654cf40f4b6d8fec0e5b155fcfa7c1792d21a2362385c4a5fdc48c1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/cultura/2017/08/26/vivi-un-tiempo-en-que-si-eras-un-escritor-castrista-eras-un-buen-escritor-y-si-no-eras-malo/",
+        "date": "2024-08-07 18:49:53",
+        "sentiment_score": -0.6431621015071869
+    },
+    {
+        "title": "La escultura de Blay refuerza la esquina",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/08/66b3ee8b9de65.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240808/9859241/escultura-blay-refuerza-esquina.html",
+        "date": "2024-08-07 22:01:05",
+        "sentiment_score": 0.003161385655403137
+    },
+    {
+        "title": "La Cataluña que Puigdemont encontrará",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/10/11/pensamiento/zona-franca/801180125_8969059_1706x960.jpg?contentId=ESPIMA20231011_0251",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240808/la-cataluna-que-puigdemont-encontrara/876542339_13.html",
+        "date": "2024-08-07 22:00:00",
+        "sentiment_score": -0.1776323765516281
+    },
+    {
+        "title": "Mossos de paisano de Información asumirán la detención de Carles Puigdemont",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/07/66b3c37ace928.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.lavanguardia.com/politica/20240808/9859044/mossos-paisano-comisaria-informacion-asumiran-detencion.html",
+        "date": "2024-08-07 22:00:00",
+        "sentiment_score": 0.07105297595262527
+    },
+    {
+        "title": "Mercedes en el multiverso",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/05/10/pensamiento/854174692_12908803_1706x960.jpg?contentId=ESPIMA20240510_0118",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240808/mercedes-en-el-multiverso/876042388_13.html",
+        "date": "2024-08-07 22:00:00",
+        "sentiment_score": -0.6832154169678688
+    },
+    {
+        "title": "“Mi padre se pegó un tiro en el corazón, y yo quise suicidarme”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/07/66b35bad6d66a.jpeg",
+        "tags": [
+            "la contra"
+        ],
+        "link": "https://www.lavanguardia.com/lacontra/20240808/9858090/mi-padre-pego-tiro-corazon-quise-suicidarme.html",
+        "date": "2024-08-07 22:00:00",
+        "sentiment_score": -0.05209517478942871
+    },
+    {
+        "title": "Denuncian a un centro veterinario de Sant Adrià de Besòs por mala praxis: \"Podría haber tenido un desenlace fatal\"",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/07/31/gran-barcelona/874672612_13292759_1706x960.png?contentId=ESPIMA20240731_0088",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20240807/denuncian-un-centro-veterinario-de-sant-adria-besos-por-mala-praxis-podria-haber-tenido-desenlace-fatal/874662611_0.html",
+        "date": "2024-08-07 21:30:00",
+        "sentiment_score": -0.840744948014617
+    },
+    {
+        "title": "Los tribunales paralizan un contrato millonario del Liceu de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2019/07/24/el-pulso-de-la-ciudad/el_pulso_de_la_ciudad_416218380_10258882_1706x960.jpg?contentId=ESPIMA20190724_0006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20240807/los-tribunales-paralizan-un-contrato-millonario-del-liceu-de-barcelona/876162432_0.html",
+        "date": "2024-08-07 21:30:00",
+        "sentiment_score": -0.41417988017201424
+    },
+    {
+        "title": "Expatriados en Barcelona: ilusión frente a burocracia",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/12/18/opinion/818178237_12100162_1706x960.jpg?contentId=ESPIMA20231218_0063",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/opinion/20240807/expatriados-en-barcelona-ilusion-frente-burocracia/872792715_13.html",
+        "date": "2024-08-07 21:30:00",
+        "sentiment_score": 0.4712025225162506
+    },
+    {
+        "title": "Una argentina critica la carne y las tapas españolas: \"La carne roja aquí es horrible\"",
+        "image_url": "https://img.huffingtonpost.es/files/image_720_480/uploads/2024/08/07/tapas-espanolas.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/una-argentina-critica-carne-tapas-espanolas-la-carne-roja-aqui-horrible.html",
+        "date": "2024-08-07 21:07:58",
+        "sentiment_score": -0.30011966824531555
+    },
+    {
+        "title": "EEUU | ¿Cómo reclamar el reembolso por cheque de estímulo de $1.400? (+Requisitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/06/turista-esperando-tren_23-2147981865-1.jpg",
+        "tags": [
+            "reembolso del irs",
+            "eeuu",
+            "internacionales",
+            "pagos de impacto económico",
+            "cheque de estímulo"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-como-reclamar-el-reembolso-por-cheque-de-estimulo-de-1-400-requisitos/",
+        "date": "2024-08-07 19:37:37",
+        "sentiment_score": -0.027900055050849915
+    },
+    {
+        "title": "Simón Calzadilla desde el TSJ: Salimos con más dudas que cuando llegamos",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Calzadilla-TSJ.png",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/simon-calzadilla-desde-el-tsj-salimos-con-mas-dudas-que-cuando-llegamos/",
+        "date": "2024-08-07 19:35:42",
+        "sentiment_score": -0.23094911128282547
+    },
+    {
+        "title": "Illinois: Los beneficios extras para indocumentados con licencia de conducir",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/licencia-1.jpg",
+        "tags": [
+            "licencia",
+            "illinois",
+            "eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/illinois-los-beneficios-extras-para-indocumentados-con-licencia-de-conducir/",
+        "date": "2024-08-07 19:30:17",
+        "sentiment_score": 0.27645696699619293
+    },
+    {
+        "title": "Desayuno saludable | ¿Pan o arepa? Entérate cuál es la mejor opción",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/mitos-pan-1-1024x686.jpg",
+        "tags": [
+            "desayuno",
+            "vida saludable",
+            "gastronomía",
+            "comida",
+            "dieta",
+            "salud",
+            "pan",
+            "vida",
+            "arepa"
+        ],
+        "link": "https://2001online.com/zona3d/salud/desayuno-saludable-pan-o-arepa-enterate-cual-es-la-mejor-opcion/",
+        "date": "2024-08-07 19:27:54",
+        "sentiment_score": 0.39817073196172714
+    },
+    {
+        "title": "Miami | Pareja venezolana detenida por dejar a su hijo en el carro para comprar en Target",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/IMG_20240807_145942-1.jpg",
+        "tags": [
+            "eeuu",
+            "migración",
+            "miami",
+            "sucesos"
+        ],
+        "link": "https://2001online.com/migracion/miami-pareja-venezolana-detenida-por-dejar-a-su-hijo-en-el-carro-para-comprar-en-target/",
+        "date": "2024-08-07 19:07:42",
+        "sentiment_score": -0.6965429186820984
+    },
+    {
+        "title": "Telemundo aclara los motivo de la salida de Daniel Arenas (+Chisme)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Daniel-Arenas-3-1280x720.png",
+        "tags": [
+            "farándula",
+            "daniel arenas"
+        ],
+        "link": "https://2001online.com/farandula/telemundo-aclara-los-motivo-de-la-salida-de-daniel-arenas-chisme/",
+        "date": "2024-08-07 19:02:52",
+        "sentiment_score": -0.25511258095502853
+    },
+    {
+        "title": "Revelan detalles sobre asesinato de familia venezolana en un autobús",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/venezolana-2.jpg",
+        "tags": [
+            "migración",
+            "autobús",
+            "asesinato",
+            "perú",
+            "cusco",
+            "venezolanos",
+            "2001online",
+            "lima"
+        ],
+        "link": "https://2001online.com/migracion/revelan-detalles-sobre-asesinato-de-familia-venezolana-en-un-autobus/",
+        "date": "2024-08-07 19:00:00",
+        "sentiment_score": -0.7460394753143191
+    },
+    {
+        "title": "Banco Digital para los Trabajadores ofrece créditos para carros y motos (+Requisitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Cortesia-76.jpg",
+        "tags": [
+            "venezuela",
+            "bdt",
+            "carros",
+            "servicios",
+            "banco digital de los trabajadores",
+            "créditos para motos",
+            "eeuu",
+            "internacionales",
+            "nacionales",
+            "motos en venezuela",
+            "2001online",
+            "créditos vehículos"
+        ],
+        "link": "https://2001online.com/servicios/banco-digital-para-los-trabajadores-ofrece-creditos-para-carros-y-motos-requisitos/",
+        "date": "2024-08-07 19:00:00",
+        "sentiment_score": 0.2824270408600569
     }
 ];
