@@ -284,36 +284,6 @@ export default [
         "sentiment_score": -0.4092614948749542
     },
     {
-        "title": "Sheikh Hasina, la primera ministra bangladesí blanco de la ira estudiantil",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/05/haisna2-RYEYmBV9zDR3vnuNaEp8RnM-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/sheikh-hasina-primera-ministra-victima-protestas-estudiantiles-20240805122431-nt.html",
-        "date": "2024-08-05 13:41:56",
-        "sentiment_score": -0.2007196545600891
-    },
-    {
-        "title": "Israel pierde, Netanyahu gana",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/05/iran-teheran-R8wF1FGoNF8JJD50R3dSw3N-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-pierde-netanyahu-gana-20240805144951-nt.html",
-        "date": "2024-08-05 12:50:04",
-        "sentiment_score": -0.12601739168167114
-    },
-    {
-        "title": "Estas son las situaciones en las que tu seguro del hogar cubre y poca gente conoce",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/05/seguro--758x531.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/situaciones-seguro-hogar-cubre-poca-gente-conoce-20240805142815-nt.html",
-        "date": "2024-08-05 12:28:16",
-        "sentiment_score": -0.2957748472690582
-    },
-    {
         "title": "Teulada-Moraira, en Alicante, declara el agua no apta para el consumo debido a la sequía y a la intrusión marina en un acuífero",
         "image_url": "https://imagenes.elpais.com/resizer/v2/FJE6MHR7WVAUBP7C35BNATAYT4.jpg?auth=4c8f72afe444d2cc053fdd3a28617bd8e8d1215b5de1f954025f663c7687f6e7",
         "tags": [
@@ -381,66 +351,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-05/el-juez-rechaza-aplicar-la-amnistia-a-los-investigados-por-la-presunta-trama-rusa-del-proces.html",
         "date": "2024-08-05 14:25:57",
         "sentiment_score": -0.7418691590428352
-    },
-    {
-        "title": "El Consejo del Poder Judicial fracasa en su tercer intento de nombrar presidente",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/U2YCI7XJAKVHW5CI76HMVL223Q.jpg?auth=c95456f23314928a228ce8c9ba7d75fcbfa3f3443a00209b29732571391de6dc",
-        "tags": [
-            "cgpj",
-            "justicia",
-            "poder judicial",
-            "psoe",
-            "tribunal supremo",
-            "pp",
-            "gobierno",
-            "jueces",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-05/el-consejo-del-poder-judicial-fracasa-en-su-tercer-intento-de-nombrar-presidente.html",
-        "date": "2024-08-05 13:46:18",
-        "sentiment_score": -0.4058733507990837
-    },
-    {
-        "title": "Los sindicatos policiales salen en bloque contra el acuerdo del SUP con Desokupa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KDRBSMIPIKRBVGSTCHSNAJE2BM.jpg?auth=7f24ca3d917c3b6ad346bd8e1d6283b133a3a6e22a8ca74c16ce668c08ded732",
-        "tags": [
-            "formación",
-            "españa",
-            "polémicas",
-            "preguntas parlamentarias",
-            "desokupa",
-            "policía nacional",
-            "críticas políticas",
-            "sindicatos policiales",
-            "manifestaciones",
-            "sup",
-            "daniel esteve",
-            "sumar",
-            "ministerio del interior"
-        ],
-        "link": "https://elpais.com/espana/2024-08-05/el-resto-de-sindicatos-policiales-salen-en-bloque-contra-el-acuerdo-del-sup-con-desokupa.html",
-        "date": "2024-08-05 12:56:09",
-        "sentiment_score": -0.8642064454033971
-    },
-    {
-        "title": "ERC estalla contra Puigdemont y le acusa de “azuzar el odio” entre independentistas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I4YBL724UVAEZFITBRI6OVWSLU.jpg?auth=6f7a3d94f540a7862eb1cc6d50fbdc4459a25c2f1626dd40ce08cb62b75fcbf4",
-        "tags": [
-            "erc",
-            "independentismo",
-            "marta rovira i vergés",
-            "psc",
-            "juntsxcat",
-            "psoe",
-            "generalitat cataluña",
-            "barcelona",
-            "procés independentista catalán",
-            "carles puigdemont",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-05/erc-estalla-contra-puigdemont-y-le-acusa-de-azuzar-el-odio-entre-independentistas.html",
-        "date": "2024-08-05 11:46:21",
-        "sentiment_score": -0.6821483671665192
     },
     {
         "title": "La insistencia de la familia Williams detiene el fichaje de Nico por el Barça",
@@ -7822,5 +7732,365 @@ export default [
         "link": "https://2001online.com/nacionales/delcy-rodriguez-sobre-sistema-del-cne-nodos-de-chacao-chacaito-y-el-hatillo-siguen-en-ataque/",
         "date": "2024-08-08 17:42:48",
         "sentiment_score": -0.4326125606894493
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Málaga este viernes 9 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/OUS723HOS5EPXETBL2PTOLKCWQ.jpg?auth=84f44768afc1612560970c3f24ea8ea509d50ded76b54a2586c6d54b75066558",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/09/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-malaga-este-viernes-9-de-agosto/",
+        "date": "2024-08-09 02:01:44",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en España: la previsión meteorológica para Barcelona este 9 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/I5WFX5CFEFG4PDIEHJKG6IYT5E.jpg?auth=1d8f8e013764b5ba000a8901a0a8d2498280979d51dd5d19baeba16330f98804",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/09/clima-en-espana-la-prevision-meteorologica-para-barcelona-este-9-de-agosto/",
+        "date": "2024-08-09 01:01:05",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Paula Badosa cae en Toronto ante Ostapenko en tres sets tras sufrir molestias físicas",
+        "image_url": "./assets/ai_generated/v1_txt2img_d83e2de07c4443b2821d0b3c70ad84c0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/09/paula-badosa-cae-en-toronto-ante-ostapenko-en-tres-sets-tras-sufrir-molestias-fisicas/",
+        "date": "2024-08-09 00:17:49",
+        "sentiment_score": -0.5925305560231209
+    },
+    {
+        "title": "“Charming Look” reina en las nocturnas del Hipódomo de Madrid",
+        "image_url": "./assets/ai_generated/v1_txt2img_55e16f40327749deaac7a5652815c564.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/09/charming-look-reina-en-las-nocturnas-del-hipodomo-de-madrid/",
+        "date": "2024-08-09 00:17:32",
+        "sentiment_score": 0.11121104657649994
+    },
+    {
+        "title": "Cáparra abre su ciclo teatral con un espectáculo coral y multidisciplinar",
+        "image_url": "./assets/ai_generated/v1_txt2img_86870b1166374cc996690e7a9f8e0c21.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/09/caparra-abre-su-ciclo-teatral-con-un-espectaculo-coral-y-multidisciplinar/",
+        "date": "2024-08-09 00:17:15",
+        "sentiment_score": 0.5850025955587626
+    },
+    {
+        "title": "Un hombre de 69 años muere en el embalse de Valparaíso de Villardeciervos (Zamora)",
+        "image_url": "./assets/ai_generated/v1_txt2img_f32cc87632904db79a9ed0d8876b7156.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/08/un-hombre-de-69-anos-muere-en-el-embalse-de-valparaiso-de-villardeciervos-zamora/",
+        "date": "2024-08-08 22:19:29",
+        "sentiment_score": -0.7923691160976887
+    },
+    {
+        "title": "Llach (ANC) sobre Puigdemont: \"Está sano, salvo y, sobre todo, libre\"",
+        "image_url": "https://www.infobae.com/resizer/v2/YAUDAOCQ4ZERZOW4O4S2YJHCIM.jpg?auth=c9aa656283293259394910c85dc2d18c749429d12c1fbf51cf54cc7615db31ed",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/08/llach-anc-sobre-puigdemont-esta-sano-salvo-y-sobre-todo-libre/",
+        "date": "2024-08-08 22:19:17",
+        "sentiment_score": 0.6329664848744869
+    },
+    {
+        "title": "Omar Montes:\"Estoy siendo el altavoz para que los chavales de 15 años escuchen flamenco\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_f426495cfbe14c1da8ea1f5bbbd0fb3a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/08/omar-montesestoy-siendo-el-altavoz-para-que-los-chavales-de-15-anos-escuchen-flamenco/",
+        "date": "2024-08-08 22:19:12",
+        "sentiment_score": 0.2085297368466854
+    },
+    {
+        "title": "Turull (Junts): \"A esta hora de la noche me viene muy de gusto gritar: Visca Catalunya lliure!\"",
+        "image_url": "https://www.infobae.com/resizer/v2/AKBGYM6Z7RGO3JFADV4YCXJN6Y.jpg?auth=83647c8a6343c76e740af33f31ce3a4ae4ce0255a8563fe7f5246484a447eb18",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/08/turull-junts-a-esta-hora-de-la-noche-me-viene-muy-de-gusto-gritar-visca-catalunya-lliure/",
+        "date": "2024-08-08 22:18:59",
+        "sentiment_score": 0.7235350571572781
+    },
+    {
+        "title": "Cortegana (Huelva) ensalza el legado de la mujer en sus XXVII Jornadas Medievales",
+        "image_url": "./assets/ai_generated/v1_txt2img_4300cb57ba6341d392d5c3b7f7528044.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/08/cortegana-huelva-ensalza-el-legado-de-la-mujer-en-sus-xxvii-jornadas-medievales/",
+        "date": "2024-08-08 22:18:44",
+        "sentiment_score": 0.29018905758857727
+    },
+    {
+        "title": "Madre de dirigente política que transmitió en vivo su secuestro dice que no sabe nada de su hija",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20853253-40100-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-detencion-arbitraria-opositores-elecciones-maduro-conclusiones-tv/",
+        "date": "2024-08-09 02:12:06",
+        "sentiment_score": -0.7277412880212069
+    },
+    {
+        "title": "Woldenberg advierte del que podría ser el \"el peor desfase entre votos y escaños en el Congreso\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-18172841-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sobrerrepresentacion-congreso-mexico-ine-aristegui-tv/",
+        "date": "2024-08-09 02:07:14",
+        "sentiment_score": -0.8535039415583014
+    },
+    {
+        "title": "Maduro anuncia que sacará de Venezuela a la red social X durante 10 días",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/maduro-red-social-x-elon-musk.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "nicolás maduro",
+            "redes sociales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/08/maduro-anuncia-sacara-venezuela-red-social-x-10-dias-orix/",
+        "date": "2024-08-09 01:41:22",
+        "sentiment_score": -0.0022513270378112793
+    },
+    {
+        "title": "Así fue la vigilia para exigir la libertad de los detenidos tras elecciones en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20857039-556-3580000000001-still.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "venezuela",
+            "elecciones en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-vigilia-libertad-detenidos-protestas-elecciones-maduro-panorama-mundial-tv/",
+        "date": "2024-08-09 01:38:12",
+        "sentiment_score": -0.5706440471112728
+    },
+    {
+        "title": "Surgen detalles del supuesto plan terrorista en concierto de Taylor Swift en Austria",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165307527_5b8739.jpg?quality=100&strip=info",
+        "tags": [
+            "europa",
+            "taylor swift",
+            "terrorismo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/detalles-ataque-terrorista-concierto-taylor-swift-viena-austria-panorama-mundial-tv/",
+        "date": "2024-08-09 01:29:19",
+        "sentiment_score": -0.8741738684475422
+    },
+    {
+        "title": "¿Qué hay en juego con la renovación judicial en Guatemala?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1256648201.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "bernardo arévalo",
+            "elecciones en guatemala",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/renovacion-judicial-guatemala-panorama-tv-fast/",
+        "date": "2024-08-09 01:24:43",
+        "sentiment_score": -0.033083073794841766
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 8 de agosto en CNN en Español",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1515200356.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-8-de-agosto-2024-panorama-noche-fast/",
+        "date": "2024-08-09 00:48:27",
+        "sentiment_score": -0.8244246151298285
+    },
+    {
+        "title": "Brasil expulsa a embajadora de Nicaragua bajo el \"principio de reciprocidad\", informa el Gobierno de Lula da Silva",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/brasil-nicaragua.png",
+        "tags": [
+            "brasil"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/08/brasil-expulsa-embajadora-nicaragua-principio-reciprocidad-orix/",
+        "date": "2024-08-09 00:43:33",
+        "sentiment_score": -0.6122678034007549
+    },
+    {
+        "title": "Bloqueo en la carretera México-Puebla provoca pérdidas multimillonarias, alertan transportistas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-77848568-120513033432-mexico-bodies-story-top.jpg?quality=100&strip=info",
+        "tags": [
+            "autopista",
+            "méxico",
+            "protestas",
+            "puebla",
+            "bloqueo",
+            "política",
+            "economía",
+            "economía méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/carretera-mexico-puebla-bloqueo-perspectivas-mexico-tv/",
+        "date": "2024-08-09 00:28:39",
+        "sentiment_score": -0.852174592204392
+    },
+    {
+        "title": "Congreso de Costa Rica aprueba ley para la adopción antes del nacimiento",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/03/GettyImages-1985345265.jpg?quality=100&strip=info",
+        "tags": [
+            "adopción",
+            "costa rica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/08/costa-rica-aprueba-ley-adopcion-antes-nacimiento-orix/",
+        "date": "2024-08-09 00:19:50",
+        "sentiment_score": 0.3019453249871731
+    },
+    {
+        "title": "La firma brasileña Petrobras gana un 68,5% menos en el primer semestre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/67f76f5c-d797-4f13-b8f6-896923fa8275_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/economia/2024/08/09/firma-brasilena-petrobras-gana-68-106785048.html",
+        "date": "2024-08-09 02:12:42",
+        "sentiment_score": 0.38352658972144127
+    },
+    {
+        "title": "La firma brasileña Petrobras gana un 68,5% menos en el primer semestre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/67f76f5c-d797-4f13-b8f6-896923fa8275_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20240809/firma-brasilena-petrobras-gana-68-106785037",
+        "date": "2024-08-09 02:12:39",
+        "sentiment_score": 0.36873457580804825
+    },
+    {
+        "title": "Caída del precio de la vivienda en Balears, que se hunde un 12 % en dos meses",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/2950103.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2024/08/09/2219801/vivienda-baleares-hunde-dos-meses-1.html",
+        "date": "2024-08-09 02:00:01",
+        "sentiment_score": -0.1718815714120865
+    },
+    {
+        "title": "El beneficio de la brasileña Petrobras se redujo un 68,5 % en el primer semestre",
+        "image_url": "./assets/ai_generated/v1_txt2img_8c00149d8f5b444a824b23ae9529b47b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/09/el-beneficio-de-la-brasilena-petrobras-se-redujo-un-685-en-el-primer-semestre/",
+        "date": "2024-08-09 01:46:07",
+        "sentiment_score": 0.191096693277359
+    },
+    {
+        "title": "Luis Díaz tendría competencia en Liverpool: el club inglés envío oferta de 75 millones por promesa británica",
+        "image_url": "https://www.infobae.com/resizer/v2/QT5RO4MXJ5H5DJWWFOVFC4PEFQ.jpg?auth=9b3aa34a05af7e521f2fe91889d752e4aa66387557f51259e37c9a17039529c4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/09/luis-diaz-tendria-competencia-en-liverpool-el-club-ingles-envio-oferta-de-75-millones-por-promesa-britanica/",
+        "date": "2024-08-09 02:05:06",
+        "sentiment_score": 0.2551662102341652
+    },
+    {
+        "title": "Tres imputados en Bolivia, uno de ellos español, por encubrir un caso de pederastia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8382e694-2102-4663-98d2-c8d1936abe49_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.epe.es/es/internacional/20240809/tres-imputados-bolivia-espanol-encubrir-106784494",
+        "date": "2024-08-09 01:44:39",
+        "sentiment_score": -0.8062618356198072
+    },
+    {
+        "title": "Tres imputados en Bolivia, uno de ellos español, por encubrir un caso de pederastia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8382e694-2102-4663-98d2-c8d1936abe49_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/internacional/2024/08/09/tres-imputados-bolivia-espanol-encubrir-106784485.html",
+        "date": "2024-08-09 01:44:38",
+        "sentiment_score": -0.8167858272790909
+    },
+    {
+        "title": "La Fiscalía de Bolivia imputa a tres jesuitas, incluido uno español, por encubrimiento de un caso de pederastia",
+        "image_url": "https://www.infobae.com/resizer/v2/EBHPAPKQUJAOZJFM6L76DTXN3I.jpg?auth=f6572da961ac800343eba4fec4dc0d3d7e9c2c3ac0d9b12916b0390e8c15bd78",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/09/la-fiscalia-de-bolivia-imputa-a-tres-jesuitas-incluido-uno-espanol-por-encubrimiento-de-un-caso-de-pederastia/",
+        "date": "2024-08-09 01:32:21",
+        "sentiment_score": -0.8337724870070815
+    },
+    {
+        "title": "La huida de Puigdemont refuerza la tesis de la prisión provisional por riesgo de fuga",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/2024-08-08T070039Z_577495936_RC2JB9AWCNB1_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-copia-469x317.jpg",
+        "tags": [
+            "parlament de cataluña",
+            "cataluña",
+            "tribunales",
+            "carles puigdemont",
+            "salvador illa",
+            "pablo llarena",
+            "tribunal supremo"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-08-09/huida-puigdemont-prision-provisional-fuga/",
+        "date": "2024-08-09 01:30:00",
+        "sentiment_score": -0.7945567164570093
+    },
+    {
+        "title": "Puigdemont y el estado de desecho",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/02/SANCHEZ-PUIG-ELECCIONES-0802.jpg",
+        "tags": [
+            "opinión",
+            "psoe",
+            "junts per catalunya (jxcat)",
+            "carles puigdemont",
+            "independentismo catalán",
+            "barcelona",
+            "generalitat",
+            "pedro sánchez",
+            "fugado",
+            "salvador illa",
+            "mossos d'esquadra",
+            "procés"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/opinion/2024-08-09/puigdemont-estado-desecho/",
+        "date": "2024-08-09 01:30:00",
+        "sentiment_score": -0.7803254127502441
+    },
+    {
+        "title": "La red social X comienza a ser bloqueada por operadoras en Venezuela",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Z6H42GAAYRDW5N6SYEOOPLATTY.jpg",
+        "tags": [
+            "elon musk",
+            "nacionales",
+            "nicolás maduro"
+        ],
+        "link": "https://2001online.com/nacionales/la-red-social-x-comienza-a-ser-bloqueada-por-operadoras-en-venezuela/",
+        "date": "2024-08-09 01:51:59",
+        "sentiment_score": -0.31737635284662247
+    },
+    {
+        "title": "Nicolás Maduro anuncia la suspensión de X por 10 días en Venezuela",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/GUftTNDXIAE983q-1280x720.jpeg",
+        "tags": [
+            "nacionales",
+            "nicolás maduro"
+        ],
+        "link": "https://2001online.com/nacionales/nicolas-maduro-anuncia-la-suspension-de-x-por-10-dias/",
+        "date": "2024-08-08 23:23:19",
+        "sentiment_score": -0.269071564078331
     }
 ];
