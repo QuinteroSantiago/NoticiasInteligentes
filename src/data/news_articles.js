@@ -386,91 +386,6 @@ export default [
         "sentiment_score": -0.025961190462112427
     },
     {
-        "title": "Un incendio en el interior de Alicante desconecta a siete municipios, que se quedan sin fibra ni teléfono",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MZNZMW5POYPK6CM5FGRJDPRZ5E.jpg?auth=78ed2be79e54a9fdb5fce3ad8924e67dc210ca08121f6ee90ca350e2de6d56da",
-        "tags": [
-            "alicante",
-            "incendios",
-            "despoblación",
-            "movistar",
-            "incendios forestales",
-            "españa vacía",
-            "quatretondeta",
-            "comunidad valenciana",
-            "alcoleja",
-            "penàguila"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-06/un-incendio-en-el-interior-de-alicante-desconecta-a-siete-municipios-que-se-quedan-sin-fibra-ni-telefono.html",
-        "date": "2024-08-06 12:55:06",
-        "sentiment_score": -0.7985216304659843
-    },
-    {
-        "title": "Detenidos nueve turistas por hacer un butrón para conectar dos habitaciones en un hotel de Palma",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7VSDCVPUXQPMGDDVZOWN3YYTBI.jpg?auth=ed8305680bec6aed3d1d4d62012f4d79df1976a3539a856fefaaaf289137d788",
-        "tags": [
-            "hoteles",
-            "palma",
-            "detenciones",
-            "baleares",
-            "españa",
-            "policía nacional",
-            "turismo"
-        ],
-        "link": "https://elpais.com/espana/2024-08-06/detenidos-nueve-turistas-por-hacer-un-butron-para-conectar-dos-habitaciones-en-un-hotel-de-palma.html",
-        "date": "2024-08-06 12:06:39",
-        "sentiment_score": -0.8221630677580833
-    },
-    {
-        "title": "El acuerdo con Desokupa abre una crisis en el SUP: “Dimito por su deriva ultra”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UKKXF56ZTZQO4A5JFRIHCFGLGQ.jpg?auth=80ff37f956d75866fdc852dd39cf7e56c9e57181dbb7432b0fe779084991fdb4",
-        "tags": [
-            "sindicatos policiales",
-            "daniel esteve",
-            "país vasco",
-            "sup",
-            "dimisiones",
-            "ministerio del interior",
-            "críticas políticas",
-            "españa",
-            "polémicas",
-            "policía nacional",
-            "bizkaia"
-        ],
-        "link": "https://elpais.com/espana/2024-08-06/el-acuerdo-con-desokupa-abre-una-crisis-en-el-sup-dimito-por-su-deriva-ultra.html",
-        "date": "2024-08-06 11:57:41",
-        "sentiment_score": -0.29237188398838043
-    },
-    {
-        "title": "Cae en Alicante uno de los estafadores más buscados de España, reclamado por 18 juzgados",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3TQ546N6RRBJ3E6LJXOBF3OCGI.jpg?auth=6256c044db99979dca447e9b6f9ef1667c873b93765dfa6e1a7c5e7e77338772",
-        "tags": [
-            "tribunales",
-            "estafas",
-            "internet",
-            "robos",
-            "sucesos",
-            "compras",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-06/cae-en-alicante-uno-de-los-estafadores-mas-buscados-de-espana-reclamado-por-18-juzgados.html",
-        "date": "2024-08-06 11:36:37",
-        "sentiment_score": -0.32013627514243126
-    },
-    {
-        "title": "Mueren dos españolas en un accidente de coche en Tanzania",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/V5V6UOWIZRNIXLVCM5EQAKH73Y.jpg?auth=58347fa79e62f63f1cf1cb83efa1ebe9f0e1989570c03dd7472e8080f05ba1ad",
-        "tags": [
-            "accidentes",
-            "españa",
-            "turismo",
-            "tanzania",
-            "accidentes tráfico"
-        ],
-        "link": "https://elpais.com/espana/2024-08-06/mueren-dos-espanolas-en-un-accidente-de-coche-en-tanzania.html",
-        "date": "2024-08-06 10:23:23",
-        "sentiment_score": -0.835829047486186
-    },
-    {
         "title": "¿Y si la Reina Letizia no volviera a llevar taconazos nunca más?",
         "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/07/29/17222433084343.jpg",
         "tags": [
@@ -7688,5 +7603,437 @@ export default [
         "link": "https://2001online.com/nacionales/inicia-comparecencia-del-presidente-nicolas-maduro-ante-el-tsj/",
         "date": "2024-08-09 17:39:07",
         "sentiment_score": -0.0005954653024673462
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/EF3ECBKGWZA7LKJNX5VEHQVAQ4.jpg?auth=66fc4c026eefc9d88d221d66416b0b19ed6eb29e8b0f78b95a987e91bd579c0a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-malaga/",
+        "date": "2024-08-10 02:02:57",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Ranking Netflix: estas son las películas favoritas del público español",
+        "image_url": "https://www.infobae.com/resizer/v2/GADFJJWE75HEXLIZOICR267LXY.jpg?auth=b377b8bc0527eeaa360797995fc6831d88121a4cc4de626edb3774f7e6a8064d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/ranking-netflix-estas-son-las-peliculas-favoritas-del-publico-espanol/",
+        "date": "2024-08-10 01:31:43",
+        "sentiment_score": 0.2527044229209423
+    },
+    {
+        "title": "Los mejores filmes de Disney+ España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/6S6B6D4SOVBDVFFNLMG5EPPYFU.jpg?auth=0704bd0fcfc0bbb2e775e8ba3df83875b0e0ea3bf247251fa9d7c9d22cd6ac26",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/los-mejores-filmes-de-disney-espana-para-ver-en-cualquier-momento/",
+        "date": "2024-08-10 01:31:24",
+        "sentiment_score": 0.7445467449724674
+    },
+    {
+        "title": "Ponce, Talavante y Juan Ortega a hombros en la corrida de Candiles en Marbella",
+        "image_url": "./assets/ai_generated/v1_txt2img_0422827c7faa40ec83b3bf79982a5e30.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/10/ponce-talavante-y-juan-ortega-a-hombros-en-la-corrida-de-candiles-en-marbella/",
+        "date": "2024-08-10 01:16:27",
+        "sentiment_score": -0.15749509632587433
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 10 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/YVST3BCF25HYJJNQL7IME5R2PY.jpg?auth=1a1bfa51e4b216d65caacddfc4c48d688142d1035af65b5c4737fd2172c35229",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-10-de-agosto/",
+        "date": "2024-08-10 01:01:03",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Marino Alvarado: Desde el golpe de Estado de Pinochet nunca se había vivido una represión como la de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164300204-1.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "violaciones a derechos humanos",
+            "crisis en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/detenciones-civiles-opositores-venezuela-regimen-maduro-conclusiones-tv/",
+        "date": "2024-08-10 02:11:26",
+        "sentiment_score": -0.6827775873243809
+    },
+    {
+        "title": "Al menos 1.220 personas han sido detenidas en Venezuela, según Foro Penal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1413822-cpi-venezuela-crimenes-lesa-humanidad.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/manuel-pena-detenido-venezuela-perspectivas-mexico-tv/",
+        "date": "2024-08-10 02:05:09",
+        "sentiment_score": -0.8163861241191626
+    },
+    {
+        "title": "Ucrania lanza ataque masivo de drones en la región rusa de Lipetsk",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-a4ceb8ce-municion-ucrania-otan.jpeg?quality=100&strip=info",
+        "tags": [
+            "guerra de rusia en ucrania",
+            "ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-ataque-masivo-drones-lipetsk-rusia-supermecado-panorama-mundial-tv/",
+        "date": "2024-08-10 01:50:59",
+        "sentiment_score": -0.880356996320188
+    },
+    {
+        "title": "Ken Salazar: El Mayo Zambada fue llevado a EE.UU. contra su voluntad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/230421133410-ken-salazar-confianza-agencias-dea-seguridad-eeuu-redaccion-mexico-sot-00003725-full-169.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mayo-zambada-contra-su-voluntad-arresto-eeuu-hijo-chapo-ken-salazar-panorama-mundial-tv/",
+        "date": "2024-08-10 01:24:28",
+        "sentiment_score": -0.536809891462326
+    },
+    {
+        "title": "Migrante salvadoreña: Me motiva el rumbo que está tomando mi país con la delincuencia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1793807279.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/el-salvador-migrantes-retorno-perspectivas-mexico-tv/",
+        "date": "2024-08-10 01:20:09",
+        "sentiment_score": 0.2742377519607544
+    },
+    {
+        "title": "Pasajeros que perdieron el vuelo que se estrelló en Brasil relatan su historia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20860388-355-365-still.jpg?quality=100&strip=info",
+        "tags": [
+            "accidente aéreo",
+            "vuelo",
+            "accidente",
+            "brasil"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pasajeros-vuelos-accidente-brasil-trax/",
+        "date": "2024-08-10 01:11:15",
+        "sentiment_score": -0.6535214334726334
+    },
+    {
+        "title": "Aniversario del asesinato de Fernando Villavicencio: tropiezos judiciales y falta de información, denuncia su hija",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1584849884_7f9b39.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aniversario-asesinato-fernando-villavicencio-perspectivas-mexico-tv/",
+        "date": "2024-08-10 00:56:22",
+        "sentiment_score": -0.8535643424838781
+    },
+    {
+        "title": "“Miré hacia el cielo y vi el avión girando”, así describe una testigo la caída del avión Voepass en Brasil",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165578230.jpg?quality=100&strip=info",
+        "tags": [
+            "accidente de avión",
+            "aviación",
+            "brasil"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/testigo-describe-cada-avion-voepass-cae-sao-paulo-orix/",
+        "date": "2024-08-10 00:52:03",
+        "sentiment_score": -0.27584443241357803
+    },
+    {
+        "title": "Experto: Masiva detención de ciudadanos en Venezuela por compartir un meme en redes sociales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1240484498-20240808154426627_84c74f.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-venezuela-censura-perspectivas-mexico-tv/",
+        "date": "2024-08-10 00:39:52",
+        "sentiment_score": -0.31643448024988174
+    },
+    {
+        "title": "EE.UU. niega haber estado detrás de detención del Mayo Zambada y el hijo del Chapo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2162905509-20240727232112189.jpg?quality=100&strip=info",
+        "tags": [
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/09/estados-unidos-niega-detras-detencion-mayo-zambada-hijo-chapo-orix/",
+        "date": "2024-08-10 00:33:09",
+        "sentiment_score": -0.7617584466934204
+    },
+    {
+        "title": "La cuarta grande del rating advierte de la inestabilidad política que puede traer el cupo catalán",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/09/SalvadorIllaAdrinQuiroga-RHANnFO2mACxfO2J1vfaarM-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cuarta-grande-rating-advierte-inestabilidad-politica-puede-20240809182101-nt.html",
+        "date": "2024-08-10 02:05:27",
+        "sentiment_score": -0.14001868665218353
+    },
+    {
+        "title": "Basilio Guerra pone en marcha las fiestas de Alaior",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2951785.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2024/08/10/2220489/basilio-guerra-pone-marcha-fiestas-alaior.html",
+        "date": "2024-08-10 02:00:01",
+        "sentiment_score": 0.05025330185890198
+    },
+    {
+        "title": "El pacto liga a ERC hasta el final del Gobierno Sánchez pero \"la oposición a Illa en Cataluña será feroz\"",
+        "image_url": "https://s1.elespanol.com/2024/08/09/espana/politica/876922871_248390558_1706x960.jpg?contentId=ESPIMA20240809_0572",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240810/pacto-liga-erc-final-gobierno-sanchez-oposicion-illa-cataluna-feroz/876412423_0.html",
+        "date": "2024-08-10 00:50:11",
+        "sentiment_score": -0.1273442804813385
+    },
+    {
+        "title": "De las camisetas de grupos de música a las de tu restaurante favorito: cómo el fenómeno fan se traduce en moda y pasa de lo global a lo local",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/08/17231118345114.jpg",
+        "tags": [
+            "moda",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/moda/2024/08/10/66b4861be4d4d8a3518b4573.html",
+        "date": "2024-08-09 22:48:09",
+        "sentiment_score": 0.012451499700546265
+    },
+    {
+        "title": "Paula Echevarría, la reina del verano",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/08/10/paula-starlite-cumple-kktG-U2209489619516MI-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/gente-estilo/paula-echevarria-reina-verano-20240810002848-ntrc.html",
+        "date": "2024-08-09 22:28:49",
+        "sentiment_score": 0.6466599926352501
+    },
+    {
+        "title": "Paula Echevarría, la reina del verano",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/08/10/paula-starlite-cumple-kktG--758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/paula-echevarria-reina-verano-20240810002848-ntrc.html",
+        "date": "2024-08-09 22:28:49",
+        "sentiment_score": -0.8630161471664906
+    },
+    {
+        "title": "Paula Mattheus: «Estoy intentando demostrar que la música de autor no ha muerto»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/08/08/paula%20mattheus-k3AG-U220939968895g1F-758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/paula-mattheus-intentando-demostrar-musica-autor-muerto-20240808001504-nt.html",
+        "date": "2024-08-09 22:15:05",
+        "sentiment_score": -0.03543674945831299
+    },
+    {
+        "title": "La opera bufa de Puigdemont y la complicidad del Estado",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "córdoba - opinión"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/opinion/20240810/opera-bufa-puigdemont-complicidad-estado_219351.html",
+        "date": "2024-08-10 02:05:00",
+        "sentiment_score": -0.9009736124426126
+    },
+    {
+        "title": "Los Mossos buscan a la paralítica que conducía el coche en el que se fugó Puigdemont",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/puigdemont-mossos-469x317.jpg",
+        "tags": [
+            "barcelona",
+            "tribunales",
+            "cataluña",
+            "independentismo",
+            "mossos d'esquadra",
+            "carles puigdemont"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-08-10/mossos-paralitica-coche-puigdemont/",
+        "date": "2024-08-10 01:30:00",
+        "sentiment_score": -0.40954920276999474
+    },
+    {
+        "title": "Puigdemont volvió a burlar a los Mossos: salió por la AP-7 cuando desactivaron los controles",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/puigdemont-barcelona-coche-469x317.jpg",
+        "tags": [
+            "españa",
+            "junts per catalunya (jxcat)",
+            "fuga",
+            "agentes",
+            "bélgica",
+            "cataluña",
+            "waterloo",
+            "mossos d'esquadra",
+            "carles puigdemont"
+        ],
+        "link": "https://theobjective.com/espana/2024-08-10/puigdemont-burlar-mossos-desactivaron-controles/",
+        "date": "2024-08-10 01:30:00",
+        "sentiment_score": -0.855071883648634
+    },
+    {
+        "title": "González Pons: «Sánchez es el conseguidor del independentismo e Illa es su adjunto»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/Angel-de-la-Fuente-469x317.jpg",
+        "tags": [
+            "policía",
+            "pp (partido popular)",
+            "españa",
+            "pedro sánchez",
+            "política",
+            "venezuela",
+            "cataluña",
+            "entrevistas",
+            "justicia",
+            "carles puigdemont"
+        ],
+        "link": "https://theobjective.com/espana/2024-08-10/pons-conseguidor-independentismo-sanchez-illa/",
+        "date": "2024-08-10 01:30:00",
+        "sentiment_score": -0.7435465045273304
+    },
+    {
+        "title": "América vs Atlas EN VIVO: minuto a minuto de los 16vos de final de la Leagues Cup",
+        "image_url": "https://www.infobae.com/resizer/v2/FSO5D3UULNEJRFUQTHRNQKEJKY.jpg?auth=6f3b01b5f74a91ec9dba9d9f158ce4e00cdf7a7931f00aeaa2719fda33f381e4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/08/10/america-vs-atlas-en-vivo-minuto-a-minuto-de-los-16vos-de-final-de-la-leagues-cup/",
+        "date": "2024-08-10 01:13:58",
+        "sentiment_score": 0.024066925048828125
+    },
+    {
+        "title": "Puigdemont recurrió a un mosso en excedencia y a otro de vacaciones para impedir que sean acusados",
+        "image_url": "https://s1.elespanol.com/2024/08/09/espana/tribunales/876923080_248397136_1706x960.jpg?contentId=ESPIMA20240809_0781",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20240810/puigdemont-recurrio-mosso-excedencia-vacaciones-impedir-acusados/876912694_0.html",
+        "date": "2024-08-10 00:58:47",
+        "sentiment_score": -0.7915710210800171
+    },
+    {
+        "title": "¿Por qué lo hizo? El fugado Puigdemont cumplió sus 6 objetivos y Junts presume de \"troleo máximo\"",
+        "image_url": "https://s1.elespanol.com/2024/08/09/espana/politica/876923035_248395599_1706x960.jpg?contentId=ESPIMA20240809_0736",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240810/hizo-fugado-puigdemont-cumplio-objetivos-junts-presume-detroleomaximo/876912547_0.html",
+        "date": "2024-08-10 00:48:51",
+        "sentiment_score": -0.008036907762289047
+    },
+    {
+        "title": "Pere Miralles, el bombero 'escolta' de Puigdemont: del secretariado de la ANC a testigo del 'procés'",
+        "image_url": "https://s1.elespanol.com/2024/08/08/reportajes/876673070_248371674_1706x960.jpg?contentId=ESPIMA20240808_0746",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240810/pere-miralles-bombero-escolta-puigdemont-secretariado-anc-testigo-proces/876662722_0.html",
+        "date": "2024-08-10 00:38:49",
+        "sentiment_score": -0.6595272775739431
+    },
+    {
+        "title": "EEUU | Atención: así se puede perder el beneficio SNAP",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/snap-1-1280x720.jpg",
+        "tags": [
+            "internacionales",
+            "cupones snap",
+            "eeuu",
+            "2001online",
+            "snap"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-atencion-asi-se-puede-perder-el-beneficio-snap/",
+        "date": "2024-08-10 00:30:00",
+        "sentiment_score": 0.19362138211727142
+    },
+    {
+        "title": "¿Cuáles son los requisitos para ser camionero en EEUU? (+Escuelas de manejo)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/camionero-eeuu.jpg",
+        "tags": [
+            "internacionales",
+            "licencia para camionero",
+            "cómo ser camionero legal",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/cuales-son-los-requisitos-para-ser-camionero-en-eeuu-escuelas-de-manejo/",
+        "date": "2024-08-10 00:25:53",
+        "sentiment_score": 0.0003049783408641815
+    },
+    {
+        "title": "Muere el deportista Lazar Dukić durante una prueba en los CrossFit Games 2024",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/foto_0000000120240808201615.png",
+        "tags": [
+            "deportes",
+            "eeuu",
+            "crossfit games 2024",
+            "muere lazar dukić en eeuu",
+            "lazar dukić"
+        ],
+        "link": "https://2001online.com/deportes/muere-el-deportista-lazar-dukic-durante-una-prueba-en-los-crossfit-games-2024/",
+        "date": "2024-08-10 00:13:04",
+        "sentiment_score": -0.8350158985704184
+    },
+    {
+        "title": "Paso a paso para protocolizar títulos universitarios",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Saren.jpg",
+        "tags": [
+            "servicios",
+            "saren",
+            "título universitario"
+        ],
+        "link": "https://2001online.com/servicios/paso-a-paso-para-protocolizar-titulos-universitarios/",
+        "date": "2024-08-10 00:00:00",
+        "sentiment_score": 0.09162361174821854
+    },
+    {
+        "title": "Todas las curiosidades detrás del rodaje de \"Deadpool 3′′",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/55VMWLZTRJBKJFP6Q2UR6273CE.jpg",
+        "tags": [
+            "internacionales",
+            "en el chisme",
+            "nacionales",
+            "farándula",
+            "estados unidos",
+            "eeuu",
+            "producción de cine",
+            "venezuela",
+            "cine",
+            "2001online",
+            "deadpoll and wolverine",
+            "deadpool 3"
+        ],
+        "link": "https://2001online.com/farandula/todas-las-curiosidades-detras-del-rodaje-de-deadpool-3/",
+        "date": "2024-08-10 00:00:00",
+        "sentiment_score": -0.051850393414497375
+    },
+    {
+        "title": "Extraoficial: Liberan a la trabajadora humanitaria Edni López",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Edni-Lopez-1200x720.jpeg",
+        "tags": [
+            "sucesos",
+            "liberada edni lópez",
+            "edni lópez"
+        ],
+        "link": "https://2001online.com/sucesos/extraoficial-liberan-a-la-trabajadora-humanitaria-edni-lopez/",
+        "date": "2024-08-09 23:44:55",
+        "sentiment_score": -0.6858555264770985
+    },
+    {
+        "title": "Maduro informó que ayer recibió una llamada de EEUU (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Presidente-Maduro-en-el-TSJ-viernes-9-de-agosto-2024-1280x720.jpeg",
+        "tags": [
+            "maduro.",
+            "nacionales",
+            "nicolas maduro",
+            "eeuu",
+            "llamadas de eeuu a maduro"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-informo-que-ayer-recibio-una-llamada-de-eeuu-detalles/",
+        "date": "2024-08-09 22:30:00",
+        "sentiment_score": 0.04175622761249542
     }
 ];
