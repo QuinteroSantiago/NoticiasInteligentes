@@ -275,117 +275,6 @@ export default [
         "sentiment_score": -0.28730684518814087
     },
     {
-        "title": "Cómo se blindó la oposición venezolana ante un fraude electoral del chavismo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/06/venezuela-maduro-Rlyjg5IuVwuUdRC4HMGxmOP-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/blindo-oposicion-venezolana-ante-fraude-electoral-chavismo-20240806201100-nt.html",
-        "date": "2024-08-06 18:11:01",
-        "sentiment_score": -0.10456722974777222
-    },
-    {
-        "title": "Fuerzas ucranianas atacan la región rusa de Kursk en un intento de penetración",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/06/kurks-destruccion-RYF6MBSxdmNYhInyAscWraP-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/fuerzas-ucranianas-atacan-region-rusa-kursk-intento-20240806194457-nt.html",
-        "date": "2024-08-06 17:49:09",
-        "sentiment_score": -0.10986953973770142
-    },
-    {
-        "title": "Metegol",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/07/1484668144-U04280042373hXf-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/rosa-belmonte-metegol-20240807193046-nt.html",
-        "date": "2024-08-06 17:30:47",
-        "sentiment_score": -0.034749120473861694
-    },
-    {
-        "title": "Noche de agosto",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/07/54296888-U87161078605mCX-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/alfonso-j-ussia-noche-agosto-20240807145248-nt.html",
-        "date": "2024-08-06 17:30:27",
-        "sentiment_score": 0.0012382864952087402
-    },
-    {
-        "title": "Granizados de gusanos para combatir el calor en el Zoo de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y42BQLXLSRAQ7KNKWL53D3HHQA.jpg?auth=0911eeb2cff011c717f88dc340101fc0406d59159d9cad1f15e5b02534415bfb",
-        "tags": [
-            "cataluña",
-            "zoo",
-            "calor",
-            "animales",
-            "ayuntamiento barcelona",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-07/granizados-de-gusanos-para-combatir-el-calor-en-el-zoo-de-barcelona.html",
-        "date": "2024-08-06 18:17:30",
-        "sentiment_score": 0.4274956062436104
-    },
-    {
-        "title": "El portavoz económico de Sumar compara la “financiación singular” catalana con el “paraíso fiscal” de Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YZW2E727FZHR5EDYSCV2TCYJSQ.jpg?auth=9d5e6c0d507d1aa26fad34ce394c4e9526b3c1213b0ccff0b10e26e11d54cd99",
-        "tags": [
-            "financiación autonómica",
-            "sumar",
-            "yolanda díaz",
-            "comunidades autónomas",
-            "madrid",
-            "erc",
-            "financiación",
-            "país vasco",
-            "españa",
-            "psc"
-        ],
-        "link": "https://elpais.com/espana/2024-08-06/el-portavoz-economico-de-sumar-compara-la-financiacion-singular-catalana-con-el-paraiso-fiscal-de-madrid.html",
-        "date": "2024-08-06 15:42:52",
-        "sentiment_score": -0.49574345722794533
-    },
-    {
-        "title": "La sequía obliga a la reducción del 15% del caudal del Turia para 20.000 regantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OYBTCSCHDETJVIJJQDAKS3HFH4.jpg?auth=6347c78f9ce3c4e7cb8456037535ae2ae913e42e5422ca0f0f1eb8fc4283daff",
-        "tags": [
-            "agua",
-            "comunidad valenciana",
-            "valencia",
-            "sequía",
-            "agricultura",
-            "riego",
-            "río turia",
-            "castellón",
-            "chj",
-            "alicante"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-06/la-sequia-obliga-a-la-reduccion-del-15-del-caudal-del-turia-para-20000-regantes.html",
-        "date": "2024-08-06 15:24:27",
-        "sentiment_score": 0.1203666478395462
-    },
-    {
-        "title": "Aragonès defiende que el acuerdo de ERC con el PSC propicia “el salto adelante más importante en el autogobierno” de Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BOO5BJ4USZFO3K7UYJVZYM5XRM.jpg?auth=8c35c3862fff2380564c2d3c07e7b10941bee08ee8292cf6d31cfe9648e8599a",
-        "tags": [
-            "programas electorales",
-            "elecciones",
-            "campañas electorales",
-            "gobierno autonómico",
-            "generalitat cataluña",
-            "elecciones catalanas",
-            "cataluña",
-            "govern cataluña",
-            "independentismo"
-        ],
-        "link": "https://elpais.com/espana/elecciones-catalanas/2024-08-06/aragones-defiende-que-el-acuerdo-de-erc-con-el-psc-propicia-el-salto-adelante-mas-importante-en-el-autogobierno-de-cataluna.html",
-        "date": "2024-08-06 14:21:48",
-        "sentiment_score": -0.025961190462112427
-    },
-    {
         "title": "¿Y si la Reina Letizia no volviera a llevar taconazos nunca más?",
         "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/07/29/17222433084343.jpg",
         "tags": [
@@ -447,26 +336,6 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2024/08/06/mbappe-dia-1/",
         "date": "2024-08-06 18:33:06",
         "sentiment_score": -0.21832719445228577
-    },
-    {
-        "title": "Altas temperaturas, tormentas y lluvias activan este miércoles los avisos en buena parte del país",
-        "image_url": "https://www.elplural.com/uploads/s1/17/25/19/9/lluvia-en-zaragoza-ep_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/altas-temperaturas-tormentas-lluvias-activan-miercoles-avisos-buena-parte-pais_335004102",
-        "date": "2024-08-06 18:23:56",
-        "sentiment_score": -0.12175256013870239
-    },
-    {
-        "title": "Athlétic y Barcelona, los más representados en la preselección del Mundial sub20 femenino",
-        "image_url": "./assets/ai_generated/v1_txt2img_f63ca0a8dddb45e29e244d5874526451.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/06/athletic-y-barcelona-los-mas-representados-en-la-preseleccion-del-mundial-sub20-femenino/",
-        "date": "2024-08-06 18:19:03",
-        "sentiment_score": 0.4832242503762245
     },
     {
         "title": "Del Sitges proustiano y carnavalero al resort de los slips fluorescentes",
@@ -8035,5 +7904,444 @@ export default [
         "link": "https://2001online.com/nacionales/maduro-informo-que-ayer-recibio-una-llamada-de-eeuu-detalles/",
         "date": "2024-08-09 22:30:00",
         "sentiment_score": 0.04175622761249542
+    },
+    {
+        "title": "Efemérides del 11 de agosto",
+        "image_url": "./assets/ai_generated/v1_txt2img_5e1190f5d19245d4baf6e55dc728c36e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/10/efemerides-del-11-de-agosto/",
+        "date": "2024-08-10 05:15:22",
+        "sentiment_score": -0.02126215398311615
+    },
+    {
+        "title": "El alimento que favorece la producción de colágeno, ayuda a prevenir la pérdida de memoria y mejora la digestión",
+        "image_url": "https://www.infobae.com/resizer/v2/CME3PMBQDZH7ZJE7ZJVDPJO6VI.jpg?auth=89ec2f8ba7a9fdf61af61386f200cbd9f17ec420cb532a65aac39eccdab26dbf",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/el-alimento-que-favorece-la-produccion-de-colageno-ayuda-a-prevenir-la-perdida-de-memoria-y-mejora-la-digestion/",
+        "date": "2024-08-10 04:30:00",
+        "sentiment_score": 0.8780180839821696
+    },
+    {
+        "title": "Clima en Zaragoza: cuál será la temperatura máxima y mínima este 10 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/JRTIZO54N5EQBBOELEMCEZQFOU.jpg?auth=4f500e236226ed52998f8470853f031f8aca1fde18bd76816aba17c8a28e3697",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/clima-en-zaragoza-cual-sera-la-temperatura-maxima-y-minima-este-10-de-agosto/",
+        "date": "2024-08-10 03:46:01",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Números ganadores de Eurojackpot del 9 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/DZKJYWLAPFE6JPWQPHRW2XBWVQ.jpg?auth=19003b215628b7af2cfcf38db713fc107a50a07cfdfc4f4da153741e9c50013a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/numeros-ganadores-de-eurojackpot-del-9-de-agosto/",
+        "date": "2024-08-10 03:17:08",
+        "sentiment_score": 0.07213216461241245
+    },
+    {
+        "title": "Reporte meteorológico: las temperaturas que se esperan en Valencia este 10 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/KWREQMJ2BZGC7PTN6A7QBUA2AU.jpg?auth=c71330b63c2f2bef0f6517eccd272c7e6c20161c15c8c8f2549b452e91768b5f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/reporte-meteorologico-las-temperaturas-que-se-esperan-en-valencia-este-10-de-agosto/",
+        "date": "2024-08-10 03:16:43",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Estos son los ganadores del sorteo de Euromillones de este 9 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/VN3VREVQENENLNVOEJXYVGHVQ4.jpg?auth=3f9fde1966ea9b1d3fd2240fc7494b5eab5aafbd4936b05f706629f8d804a71a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/estos-son-los-ganadores-del-sorteo-de-euromillones-de-este-9-de-agosto/",
+        "date": "2024-08-10 03:16:16",
+        "sentiment_score": 0.059226132929325104
+    },
+    {
+        "title": "La contradicción en Vox por su adhesión a Patriotas por Europa: cómo reivindicar su apoyo a Ucrania en un grupo lleno de partidos pro-Putin",
+        "image_url": "https://www.infobae.com/resizer/v2/VTKXRR4ZCJDWXGHWIMCNE3RDO4.jpg?auth=c99063290a4ebf92de912044b9d026b145eb1ccc44e950c6d74e4211bb1a8aa4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/10/la-contradiccion-en-vox-por-su-adhesion-a-patriotas-por-europa-como-reivindicar-su-apoyo-a-ucrania-en-un-grupo-lleno-de-partidos-pro-putin/",
+        "date": "2024-08-10 03:09:39",
+        "sentiment_score": -0.8656260166317225
+    },
+    {
+        "title": "M. Night Shyamalan, una mente original en un Hollywood sin ideas: “Vivir fuera de la burbuja me hace pensar diferente, y creo que el público lo agradece”",
+        "image_url": "https://www.infobae.com/resizer/v2/3ABSYNUSTBGM5GPEW6MSHC2PV4.jpeg?auth=933340c6f4e435c33c5983de5413a0cbdfb46a73129003d1bb5d7956be3d7b45",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/08/11/m-night-shyamalan-una-mente-original-en-un-hollywood-sin-ideas-vivir-fuera-de-la-burbuja-me-hace-pensar-diferente-y-creo-que-el-publico-lo-agradece/",
+        "date": "2024-08-10 03:05:00",
+        "sentiment_score": -0.506305169314146
+    },
+    {
+        "title": "El pueblo más antiguo de Toledo: mezcla hasta 3 culturas diferentes",
+        "image_url": "https://www.infobae.com/resizer/v2/Y7HHFLGL6ND5NI57MODF2TOQNI.jpg?auth=df61c3803900f46de95cc6b0bd92b24db2acf6e23193cac7c8e3660ea9e6a572",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2024/08/10/el-pueblo-mas-antiguo-de-toledo-mezcla-hasta-3-culturas-diferentes/",
+        "date": "2024-08-10 03:00:00",
+        "sentiment_score": 0.08197970688343048
+    },
+    {
+        "title": "Horario de los españoles hoy en los Juegos Olímpicos de París: finales de atletismo, waterpolo, ciclismo en pista, natación artística y boxeo",
+        "image_url": "https://www.infobae.com/resizer/v2/RJMHS3TPTBH2NIIVQDCP6DFE44.jpg?auth=92909120f7abd52364a3d669828d984e7d128e82e8ff0ff38b83d789e0e35046",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/08/10/horario-de-los-espanoles-hoy-en-los-juegos-olimpicos-de-paris-finales-de-atletismo-waterpolo-ciclismo-en-pista-natacion-artistica-y-boxeo/",
+        "date": "2024-08-10 03:00:00",
+        "sentiment_score": 0.43612561374902725
+    },
+    {
+        "title": "Más de 40 palestinos murieron en un ataque israelí contra una escuela de Gaza, según funcionarios locales.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gaza.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/10/israeli-school-strike-gaza-trax/",
+        "date": "2024-08-10 06:01:33",
+        "sentiment_score": -0.7062665205448866
+    },
+    {
+        "title": "Gran Bretaña espera que sus disturbios hayan tocado techo. Pero la extrema derecha persiste y podría haber más problemas en el futuro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GB-e1723270757209.jpg?quality=100&strip=info",
+        "tags": [
+            "reino unido",
+            "disturbios"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/10/revuelo-tension-extrema-derecha-reino-unido-trax/",
+        "date": "2024-08-10 05:27:31",
+        "sentiment_score": -0.7506928332149982
+    },
+    {
+        "title": "Un avión no tripulado ataca una base estadounidense y de la coalición en Siria, los daños no están claros",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/logo-cnn.webp",
+        "tags": [
+            "ataque",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/10/avion-no-tripulado-ataca-base-estadounidense/",
+        "date": "2024-08-10 04:01:29",
+        "sentiment_score": -0.7208365518599749
+    },
+    {
+        "title": "No hay nadie que controle al Ministerio Público en Guatemala, dice la CIDH",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1255600146.jpg?quality=100&strip=info",
+        "tags": [
+            "guatemala",
+            "corrupción guatemala",
+            "cidh",
+            "consuelo porras"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/consuelo-porras-destitucion-mp-guatemala-arevalo-aristegui-tv/",
+        "date": "2024-08-10 03:22:07",
+        "sentiment_score": -0.6841048710048199
+    },
+    {
+        "title": "“José Rubén Zamora representa el silenciamiento hacia la prensa”, dice comisionada de la CIDH",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2020990639.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jose-ruben-zamora-persecucion-periodistas-guatemala-corrupcion-aristegui-tv/",
+        "date": "2024-08-10 03:15:52",
+        "sentiment_score": -0.742965878918767
+    },
+    {
+        "title": "La democracia está en riesgo en Guatemala, dice comisionada de la CIDH",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1699673085.jpg?quality=100&strip=info",
+        "tags": [
+            "centroamérica",
+            "consuelo porras",
+            "cidh",
+            "corrupción guatemala",
+            "guatemala"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guatemala-riesgo-democracia-cidh-aristegui-tv/",
+        "date": "2024-08-10 03:12:33",
+        "sentiment_score": -0.3535759970545769
+    },
+    {
+        "title": "Tamia Villavicencio: Quisimos confiar en la Fiscalía pero esa confianza ya no se basa en nada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2161159925.jpg?quality=100&strip=info",
+        "tags": [
+            "violencia ecuador",
+            "asesinato",
+            "fernando villavicencio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-impunidad-caso-asesinato-villavicencio-fiscalia-conclusiones-tv/",
+        "date": "2024-08-10 02:29:10",
+        "sentiment_score": -0.8749063285067677
+    },
+    {
+        "title": "Amanda Villavicencio dice que buscan pistas de los autores intelectuales del asesinato de su padre",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-670310712.jpg?quality=100&strip=info",
+        "tags": [
+            "violencia ecuador",
+            "narcotráfico",
+            "fernando villavicencio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-asesinato-villavicencio-narco-candidatura-impunidad-conclusiones-tv/",
+        "date": "2024-08-10 02:25:36",
+        "sentiment_score": -0.4788738042116165
+    },
+    {
+        "title": "Europa recela de Teresa Ribera como comisaria de Energía por su posición antinuclear",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/10/TeresaRibera-ke7E-U602941575843Y5G-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/europa-recela-teresa-ribera-comisaria-energia-posicion-20240810055021-nt.html",
+        "date": "2024-08-10 03:50:22",
+        "sentiment_score": -0.07238808274269104
+    },
+    {
+        "title": "España vende 800.000 coches eléctricos menos al año de lo previsto por el plan de energía",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/09/cocheselectricos-Rc7wlL9egBYnmheMLqvo9TJ-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/espana-vende-800000-coches-electricos-ano-previsto-20240809190739-nt.html",
+        "date": "2024-08-10 02:14:01",
+        "sentiment_score": -0.037236303091049194
+    },
+    {
+        "title": "Dos muertes sin justicia a bordo de una narcolancha",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IPVBPHZMQZBZJIQXK6IVCIWYGM.jpg?auth=e0109082b9528647c2bfebf0bf2aa2303346ff69085a03362b3a6d27fd167c41",
+        "tags": [
+            "ceuta",
+            "accidentes marítimos",
+            "narcotráfico",
+            "estrecho gibraltar",
+            "andalucía",
+            "españa",
+            "tráfico hachís",
+            "la línea de la concepción",
+            "gibraltar"
+        ],
+        "link": "https://elpais.com/espana/2024-08-10/dos-muertes-sin-justicia-a-bordo-de-una-narcolancha.html",
+        "date": "2024-08-10 03:40:00",
+        "sentiment_score": -0.7470426708459854
+    },
+    {
+        "title": "Cinco derivadas del ‘Illa, president’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DZ4XNKTJLNFC7DYVC52IVZPFQA.jpg?auth=fe62fe1c91ef75aac7c87f0b3086dcdb68a3438ed584b5ceff23110ab90c084e",
+        "tags": [
+            "carles puigdemont",
+            "españa",
+            "salvador illa",
+            "cataluña",
+            "política",
+            "juntsxcat",
+            "generalitat cataluña",
+            "financiación autonómica"
+        ],
+        "link": "https://elpais.com/espana/2024-08-10/cinco-derivadas-del-illa-president.html",
+        "date": "2024-08-10 03:40:00",
+        "sentiment_score": -0.06592291593551636
+    },
+    {
+        "title": "TV3 no está para bromas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IL2OVSJ6L5NKFAMLU4T7IQDXOQ.jpg?auth=cc3631e13c318059daac26a54f0a100ffefb0f640fdf18668c896e82f90e435e",
+        "tags": [
+            "carles puigdemont",
+            "investidura parlamentaria",
+            "parlament cataluña",
+            "psc",
+            "salvador illa",
+            "cataluña",
+            "elecciones catalanas",
+            "erc",
+            "juntsxcat",
+            "tv3",
+            "procés independentista catalán",
+            "televisión"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-08-10/tv3-no-esta-para-bromas.html",
+        "date": "2024-08-10 03:40:00",
+        "sentiment_score": -0.12063844129443169
+    },
+    {
+        "title": "Los Mossos se preparan para una remodelación profunda con la llegada de Illa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6JJFXMWUEZHEVI6NUPYQZHMJ3U.jpg?auth=212f233630b2a555160e289f44201d71b3026ae74b2ffbb78a5cd21b39eeb485",
+        "tags": [
+            "carles puigdemont",
+            "mossos d'esquadra",
+            "psc",
+            "detenciones",
+            "cataluña",
+            "pablo llarena",
+            "salvador illa",
+            "josep lluís trapero",
+            "erc"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-08-10/los-mossos-se-preparan-para-una-remodelacion-profunda-con-la-llegada-de-illa.html",
+        "date": "2024-08-10 03:40:00",
+        "sentiment_score": -0.69021787494421
+    },
+    {
+        "title": "14 autonomías reclamarán 1.750 millones al cartel de los pañales para adultos por el fraude",
+        "image_url": "https://elpais.com/resizer/v2/NYJT5AGEURESJONB2KTAQ43ZGY.jpg?auth=d055ed65ce2884e2934dbd180dd40eafa945f877ce9816fdb18b58427952c879&width=1500",
+        "tags": [
+            "sevilla",
+            "competencia",
+            "sanidad pública",
+            "gobierno",
+            "tribunal supremo",
+            "andalucía",
+            "cartel",
+            "mónica garcía gómez",
+            "gasto farmacéutico",
+            "fraudes",
+            "cnmc",
+            "sanidad",
+            "ministerio de sanidad",
+            "audiencia nacional",
+            "españa",
+            "fenin",
+            "fraude seguridad social"
+        ],
+        "link": "https://elpais.com/espana/2024-08-10/14-autonomias-reclamaran-1750-millones-al-cartel-de-los-panales-para-adultos-por-el-fraude.html",
+        "date": "2024-08-10 03:00:01",
+        "sentiment_score": -0.7954737227410078
+    },
+    {
+        "title": "La sartén de Madrid se refugia en una caña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/53X5LJCB7NHOXBUNPRBYWG56BI.jpg?auth=2f26ad9ccc9a178e7eae57994402d03d4e78cf2c9cf7564854944f5cf00e1867",
+        "tags": [
+            "olas calor",
+            "temperaturas máximas",
+            "comunidad de madrid",
+            "calor",
+            "cambio climático",
+            "madrid",
+            "emergencia climática",
+            "aemet"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-08-10/la-sarten-de-madrid-se-refugia-en-una-cana.html",
+        "date": "2024-08-10 03:00:00",
+        "sentiment_score": -0.11936798691749573
+    },
+    {
+        "title": "Efemérides de hoy: los hechos relevantes que tuvieron lugar en la historia el 10 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/BSV33OGV2JAMHNH27P2PGI2GEQ.jpg?auth=370dc3b3500c3a160bdc1d61e909fd8a4161fe56bad1c0da5b801f8862d35b64",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/08/10/efemerides-de-hoy-los-hechos-relevantes-que-tuvieron-lugar-en-la-historia-el-10-de-agosto/",
+        "date": "2024-08-10 06:16:24",
+        "sentiment_score": 0.013025432825088501
+    },
+    {
+        "title": "Calendario de LaLiga 2024-25: Clásicos, derbis...",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eb964095-52a5-4191-92b7-5d5163cf6e95_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/08/10/calendario-laliga-2024-25-clasicos-derbis-106839958.html",
+        "date": "2024-08-10 06:01:21",
+        "sentiment_score": 0.03631433844566345
+    },
+    {
+        "title": "La polémica financiación autonómica: esto es lo que pide Castilla y León, la sexta mejor financiada",
+        "image_url": "https://s1.elespanol.com/2024/08/08/castilla-y-leon/economia/876672403_248350724_1706x960.jpg?contentId=ESPIMA20240808_0079",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/economia/20240810/polemica-financiacion-autonomica-pide-castilla-leon-sexta-mejor-financiada/876662354_0.html",
+        "date": "2024-08-10 05:00:00",
+        "sentiment_score": 0.02188161015510559
+    },
+    {
+        "title": "Dama de la solidaridad convertida en icono de estilo: Esther Kopliwitz cumple 71 años",
+        "image_url": "https://okdiario.com/look/img/2024/08/08/portada1-2-224x140.jpg",
+        "tags": [
+            "estilo"
+        ],
+        "link": "https://okdiario.com/look/estilo/dama-solidaridad-convertida-icono-estilo-esther-kopliwitz-cumple-71-anos-2080993",
+        "date": "2024-08-10 04:45:46",
+        "sentiment_score": -0.08342385292053223
+    },
+    {
+        "title": "Marcelo Gallardo, el entrenador que solo se fue de River Plate para poder volver",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/J5T3TVIRJ3SN7EKCWEFP5CVEJY.jpg?auth=be31a98e397acdc11887fc1eeaeedae73f75357e7b7c9639aaa5625b77a2f369",
+        "tags": [
+            "latinoamérica",
+            "marcelo gallardo",
+            "river plate",
+            "américa",
+            "deportistas",
+            "deportes",
+            "futbolistas",
+            "argentina",
+            "fútbol"
+        ],
+        "link": "https://elpais.com/argentina/2024-08-10/marcelo-gallardo-el-entrenador-que-solo-se-fue-de-river-plate-para-poder-volver.html",
+        "date": "2024-08-10 04:00:00",
+        "sentiment_score": 0.6428368426859379
+    },
+    {
+        "title": "¿Qué hacen en Luarca los guantes con los que Unai Simón jugó la final de la Eurocopa?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/989111c4-1af4-45d0-bb2d-beb37ff64ffa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/occidente/2024/08/10/luarca-guantes-unai-simon-jugo-106816386.html",
+        "date": "2024-08-10 04:00:00",
+        "sentiment_score": 0.46210460364818573
+    },
+    {
+        "title": "Lo que debes saber hoy, 10 de agosto, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/06/04/vivir-en-barcelona/677692226_9165921_1706x960.jpg?contentId=ESPIMA20220604_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240810/lo-que-debes-saber-hoy-de-agosto-barcelona/877162277_0.html",
+        "date": "2024-08-10 06:07:45",
+        "sentiment_score": -0.8218936286866665
+    },
+    {
+        "title": "Pone una mala reseña a una pizzería y responde el dueño del local: \"Siento mucho que falleciera mi abuela\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/09/el-dueno-no-dudo-en-responder-al-cliente.jpeg",
+        "tags": [
+            "gonzoo"
+        ],
+        "link": "https://www.20minutos.es/gonzoo/noticia/5585598/0/pone-una-mala-resena-una-pizerria-responde-dueno-local-siento-mucho-que-falleciera-mi-abuela/",
+        "date": "2024-08-10 06:05:08",
+        "sentiment_score": 0.052412599325180054
+    },
+    {
+        "title": "La Puigvuelta",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8877f3b3-77a2-44d7-9fa9-c4c0e6f54f37_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2024/08/10/puigvuelta-8573490.html",
+        "date": "2024-08-10 06:00:08",
+        "sentiment_score": 0.16150671243667603
+    },
+    {
+        "title": "Los horarios de hoy en los Juegos Olímpicos de París 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a3666d6c-4896-4344-81f0-6ce670d35cd3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/olimpiadas/2024/08/10/horarios-hoy-juegos-olimpicos-paris-106138813.html",
+        "date": "2024-08-10 06:00:00",
+        "sentiment_score": 0.28270750492811203
     }
 ];
