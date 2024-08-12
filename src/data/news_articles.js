@@ -248,66 +248,6 @@ export default [
         "sentiment_score": -0.3981957286596298
     },
     {
-        "title": "Vinculan la exposición a pesticidas con el riesgo de muerte fetal",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/08/08/pesticidas-embarazo-RLjeplClPy2cn6EmJX66bJI-758x531@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/vinculan-exposicion-pesticidas-riesgo-muerte-fetal-20240808154916-nt.html",
-        "date": "2024-08-08 13:49:16",
-        "sentiment_score": -0.13234008848667145
-    },
-    {
-        "title": "Otro estudio vincula el edulcorante de moda con un mayor riesgo de infarto e ictus",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/08/08/eritritol-cardio-R6xjssRBHj3mCNdtRTSCr4I-758x531@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/estudio-vincula-edulcorante-moda-mayor-riesgo-infarto-20240808150250-nt.html",
-        "date": "2024-08-08 13:02:50",
-        "sentiment_score": -0.11874379217624664
-    },
-    {
-        "title": "Esto es insoportable. Convoque ya elecciones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/08/puigdemont-regreso-ROfMv5fWhN8KppsOf6x4CvI-758x531@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/nicolas-redondo-terreros-insoportable-convoque-elecciones-20240808134028-nt.html",
-        "date": "2024-08-08 11:40:28",
-        "sentiment_score": -0.1146022379398346
-    },
-    {
-        "title": "El precio de la gasolina marca el registro más bajo del verano",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/08/gasolineraep-RVyHcwNeJ7srcvvQx0ZFqwO-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/precio-gasolina-marca-registro-bajo-verano-20240808124841-nt.html",
-        "date": "2024-08-08 10:48:42",
-        "sentiment_score": -0.115939199924469
-    },
-    {
-        "title": "La dictadura venezolana declara en desacato a Edmundo González al no acudir ayer a una citación del Tribunal Supremo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/08/edmndo-RkFYRcQYZZkHUiwXpMP6VgO-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/edmundo-gonzalez-desafia-tribunal-supremo-asistir-citacion-20240808124121-nt.html",
-        "date": "2024-08-08 10:42:38",
-        "sentiment_score": -0.1272667497396469
-    },
-    {
-        "title": "Ni Barcelona ni Benidorm, los pueblos de España que conviven con más de 50 turistas por habitante",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/08/1203294593-RIy4Gn31Ehy2RDNsb4rtypM-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/barcelona-benidorm-pueblos-espana-conviven-turistas-habitante-20240808120700-nt.html",
-        "date": "2024-08-08 10:18:10",
-        "sentiment_score": -0.05766928195953369
-    },
-    {
         "title": "Volver sin regresar",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DGKR7MHDPVDZ7OMRVGQHBMQ4MU.jpg?auth=120c3ff6e0f256df322803691606e8d555a650387745d9f6238224d393151863",
         "tags": [
@@ -345,96 +285,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-08/compromis-denuncia-mas-de-2000-viviendas-turisticas-ilegales-en-la-ciudad-de-valencia.html",
         "date": "2024-08-08 16:15:38",
         "sentiment_score": -0.2325235679745674
-    },
-    {
-        "title": "Gobierno y PSOE dejan que la investidura de Illa replique los ataques de PP y Vox a Sánchez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XYIEMICDJGWECFQLC7JEZHEH6M.jpg?auth=e0a2b9a11c0b2cc744a60d040b4b433cb2bc17e3c3f5395b6aa3ca24c9aab7ee",
-        "tags": [
-            "erc",
-            "carles puigdemont",
-            "pedro sánchez",
-            "psoe",
-            "parlament cataluña",
-            "procés independentista catalán",
-            "españa",
-            "salvador illa",
-            "investidura parlamentaria pedro sánchez 2023",
-            "psc",
-            "investidura parlamentaria",
-            "juntsxcat",
-            "alberto núñez feijóo",
-            "votación parlamentaria",
-            "pp",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/2024-08-08/gobierno-y-psoe-dejan-que-la-investidura-de-illa-replique-los-ataques-de-pp-y-vox-a-sanchez.html",
-        "date": "2024-08-08 13:56:05",
-        "sentiment_score": -0.9069954501464963
-    },
-    {
-        "title": "Jimmy Jump lo vuelve a hacer",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/354BKBKVIJAXDEDC6ZW4D4ZKDQ.jpg?auth=e669220b28b6a42656c9572bd445674353fd5a94ee092d9a93c38028ec03fa6e",
-        "tags": [
-            "carles puigdemont",
-            "salvador illa",
-            "jimmy jump",
-            "cataluña",
-            "mossos d'esquadra",
-            "españa",
-            "independentismo"
-        ],
-        "link": "https://elpais.com/espana/2024-08-08/jimmy-jump-lo-vuelve-a-hacer.html",
-        "date": "2024-08-08 13:10:04",
-        "sentiment_score": -0.8573421379551291
-    },
-    {
-        "title": "El discurso de Illa, en 10 claves",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RKMMGVDWGZCPTJN6QXAPWEZDXA.jpg?auth=bc578adb5d221918ccbc6550debee6748abf1ad0ed2da173b7a76b2c1d01a6c0",
-        "tags": [
-            "generalitat cataluña",
-            "cataluña",
-            "salvador illa",
-            "psc",
-            "erc",
-            "investidura parlamentaria",
-            "españa",
-            "parlamentos autonómicos",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/2024-08-08/el-discurso-de-illa-en-10-claves.html",
-        "date": "2024-08-08 13:04:08",
-        "sentiment_score": 0.4313480295240879
-    },
-    {
-        "title": "El periplo de Puigdemont: los hitos esenciales de sus dos fugas en siete años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/34TPFWY6BZGVXCTD4HVDCRB6QA.jpg?auth=90ce6db70b9370256b2c9a17f63c8977e9b9249db607569a21b11fd802f6a177",
-        "tags": [
-            "generalitat cataluña",
-            "parlament cataluña",
-            "cataluña",
-            "amnistía",
-            "carles puigdemont"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-08/el-periplo-de-puigdemont-los-hitos-esenciales-de-sus-dos-fugas-en-siete-anos.html",
-        "date": "2024-08-08 12:51:57",
-        "sentiment_score": -0.44866714999079704
-    },
-    {
-        "title": "ERC avisa a Illa de que solo mantendrá su apoyo si cumple “las promesas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SLDAWK5ZSZCEPEXL37T5GBUU3Q.jpg?auth=2c686379acaf20598924debd0ad1fc6f50f2e2b55a158978916e573f203e7ac4",
-        "tags": [
-            "parlament cataluña",
-            "generalitat cataluña",
-            "erc",
-            "pactos políticos",
-            "psc",
-            "salvador illa",
-            "cataluña",
-            "juntsxcat"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-08/erc-avisa-a-illa-de-que-solo-mantendra-su-apoyo-si-cumple-las-promesas.html",
-        "date": "2024-08-08 12:43:52",
-        "sentiment_score": -0.4448891691863537
     },
     {
         "title": "El adiós de Homar y la responsabilidad política de quien lo nombró",
@@ -7787,5 +7637,484 @@ export default [
         "link": "https://2001online.com/farandula/chiky-bombom-revela-como-planeaba-atentar-contra-su-vida-y-la-de-su-hijo/",
         "date": "2024-08-11 19:41:43",
         "sentiment_score": 0.5785818472504616
+    },
+    {
+        "title": "Clima en Málaga: temperatura y probabilidad de lluvia para este 12 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/WZDKQARELZGELNME33NSF2TYHE.jpg?auth=af5d510918d9e20e7072223dc692ae9049a750599c042e4e5738c649db5d2881",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/12/clima-en-malaga-temperatura-y-probabilidad-de-lluvia-para-este-12-de-agosto/",
+        "date": "2024-08-12 02:02:36",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en España: el estado del tiempo para Madrid este 12 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/ZJTIFLGLAVDGRPMRDYNMQINTKQ.jpg?auth=f43ac518ba2d87dfdc16e5626c48d3bc10b86a06e040ab3f4fe947bbdd602c5a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/12/clima-en-espana-el-estado-del-tiempo-para-madrid-este-12-de-agosto/",
+        "date": "2024-08-12 01:33:22",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Ranking de Disney+ en España: estas son las películas más populares del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/5OW4GYSIX5EI7OQAMUUSJINIMM.jpg?auth=192fca1d6e44e1003c52a20b78329e54163affd887ab569cb7579232299ff4fb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/12/ranking-de-disney-en-espana-estas-son-las-peliculas-mas-populares-del-momento/",
+        "date": "2024-08-12 01:31:51",
+        "sentiment_score": 0.17788653820753098
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 12 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/6PNSCGDUVBFC5LTSPAX5NM3SW4.jpg?auth=7897a495844e47c0e18657d3cd837d694f0a6c32cbeac161354193ed31aef0f7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/12/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-12-de-agosto/",
+        "date": "2024-08-12 01:00:55",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Las mujeres se reivindican en el cierre del ciclo teatral de Cáparra",
+        "image_url": "./assets/ai_generated/v1_txt2img_446e009bca5146cfb89fe324e6fb4669.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/11/las-mujeres-se-reivindican-en-el-cierre-del-ciclo-teatral-de-caparra/",
+        "date": "2024-08-11 23:31:35",
+        "sentiment_score": 0.13593218475580215
+    },
+    {
+        "title": "El desempleo juvenil a nivel mundial en su nivel más bajo en quince años, anuncia la OIT",
+        "image_url": "./assets/ai_generated/v1_txt2img_c5994175e04a4dc08d451d92f0004f27.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/11/el-desempleo-juvenil-a-nivel-mundial-en-su-nivel-mas-bajo-en-quince-anos-anuncia-la-oit/",
+        "date": "2024-08-11 23:16:08",
+        "sentiment_score": -0.7740977965295315
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 12 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_6ee1091150c344f59b32c2a928f15675.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/11/hoy-sera-noticia-lunes-12-de-agosto-de-2024/",
+        "date": "2024-08-11 22:31:28",
+        "sentiment_score": 0.028639212250709534
+    },
+    {
+        "title": "Llerena, el pueblo del sur de Extremadura que se proclamó campeón olímpico",
+        "image_url": "./assets/ai_generated/v1_txt2img_a033c69a03284be5872e94f698b8e970.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/11/llerena-el-pueblo-del-sur-de-extremadura-que-se-proclamo-campeon-olimpico/",
+        "date": "2024-08-11 22:20:11",
+        "sentiment_score": -0.17993809282779694
+    },
+    {
+        "title": "El español Fidel Castillo se rompe la clavícula y sufre una contusión pulmonar en Hungría",
+        "image_url": "./assets/ai_generated/v1_txt2img_8ae87b1443ab448db364c79bb32faeb5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/11/el-espanol-fidel-castillo-se-rompe-la-clavicula-y-sufre-una-contusion-pulmonar-en-hungria/",
+        "date": "2024-08-11 22:19:55",
+        "sentiment_score": -0.8816223694011569
+    },
+    {
+        "title": "ANÁLISIS | Cómo la maquinaria de desinformación a favor de Trump ha cobrado fuerza desde 2020",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/01/6-2.jpg?quality=100&strip=info",
+        "tags": [
+            "análisis",
+            "trump",
+            "maga",
+            "fake news"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/11/maga-desinformacion-trump-elecciones-2024-trax/",
+        "date": "2024-08-12 01:30:34",
+        "sentiment_score": -0.7642757743597031
+    },
+    {
+        "title": "“¿Por qué no eres un camaleón?”: Dana Bash presiona a Vance por sus críticas a Harris",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165227115.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "j. d. vance"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jd-vance-criticas-raza-kamala-harris-ush-trax/",
+        "date": "2024-08-12 01:06:45",
+        "sentiment_score": -0.6936286836862564
+    },
+    {
+        "title": "Fabiola Yáñez: sufrí “terrorismo psicológico” con Alberto Fernández",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1183777252.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fabiola-yanez-violencia-alberto-fernandez-mirador-mundial-tv/",
+        "date": "2024-08-11 23:46:33",
+        "sentiment_score": -0.6825649086385965
+    },
+    {
+        "title": "Ucrania dice haber capturado territorios rusos, eso ¿cambia el panorama?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1653667941.jpg?quality=100&strip=info",
+        "tags": [
+            "ucrania",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-ucrania-rusia-territorio-mirador-mundial-tv/",
+        "date": "2024-08-11 23:45:18",
+        "sentiment_score": -0.11675402522087097
+    },
+    {
+        "title": "Las nuevas estrategias de los demócratas y republicanos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/alien-romulus-00-03-05-19-still002.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones ee.uu",
+            "elecciones en estados unidos",
+            "partido republicano",
+            "partido demócrata"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/republicanos-democratas-elecciones-estados-unidos-ush-mirador-mundial-tv/",
+        "date": "2024-08-11 23:38:06",
+        "sentiment_score": -0.007990114390850067
+    },
+    {
+        "title": "Protestan en México por sobrerrepresentación legislativa del oficialismo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2159577270.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-morena-sobrerrepresentacion-mirador-mundial-tv/",
+        "date": "2024-08-11 23:35:39",
+        "sentiment_score": -0.5102763660252094
+    },
+    {
+        "title": "Zelensky dice que las fuerzas rusas causaron un incendio en una planta nuclear en el sur de Ucrania",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/GettyImages-1244383099.jpg?quality=100&strip=info",
+        "tags": [
+            "zapor",
+            "ucrania",
+            "planta nuclear"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/11/zelensky-rusia-incendio-planta-nuclear-ucrania-trax/",
+        "date": "2024-08-11 23:17:53",
+        "sentiment_score": -0.5517694875597954
+    },
+    {
+        "title": "Recuperan caja negra de avión accidentado en Brasil que dejó 62 muertos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165578230-20240811230837869.jpg?quality=100&strip=info",
+        "tags": [
+            "brasil",
+            "fast – news variety",
+            "accidente de avión",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cajas-negras-avion-brasil-mirador-mundial-tv/",
+        "date": "2024-08-11 23:13:21",
+        "sentiment_score": -0.35156629979610443
+    },
+    {
+        "title": "La oposición venezolana convoca a una marcha el 17 de agosto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165412458-1.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/oposicion-venezuela-edmundo-corina-elecciones-maduro-mirador-mundial-tv/",
+        "date": "2024-08-11 23:06:24",
+        "sentiment_score": -0.19615105167031288
+    },
+    {
+        "title": "El líder de Hamas quiere un acuerdo de alto el fuego, dicen los mediadores, pero se desconoce la postura de Netanyahu",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165592949.webp",
+        "tags": [
+            "hezbollah",
+            "hamas",
+            "medio oriente",
+            "benjamin netanyahu"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/11/hamas-alto-fuego-netanyahu-iran-trax/",
+        "date": "2024-08-11 22:46:06",
+        "sentiment_score": -0.6658969074487686
+    },
+    {
+        "title": "Moderados por fuera, izquierdistas por dentro: las dos almas de la dupla Harris-Walz",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/11/kamala-walz-U23486345341nHO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/moderados-izquierdistas-dentro-dos-almas-dupla-harriswalz-20240811211717-nt.html",
+        "date": "2024-08-12 02:04:56",
+        "sentiment_score": -0.10442787408828735
+    },
+    {
+        "title": "La transformación política de Elon Musk, a golpe de tuit: de votar a los demócratas a apoyar a Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/11/elon-RSjVkWRRjPqtAPcgmFl8nLO-758x531@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/transformacion-politica-elon-musk-golpe-tuit-20240811194133-nt.html",
+        "date": "2024-08-12 02:04:32",
+        "sentiment_score": -0.09301775693893433
+    },
+    {
+        "title": "La diáspora venezolana, entre la rabia y la frustración: «Tenía fe en poder regresar»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/11/diasporavenezuela-RvAoYpYxHhJN4iCmaBV3zvK-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/diaspora-venezolana-rabia-frustracion-poder-regresar-20240811184723-nt.html",
+        "date": "2024-08-12 02:04:05",
+        "sentiment_score": -0.05864822864532471
+    },
+    {
+        "title": "Albert Torres y Sergio Llull ¿se acabó el sueño olímpico?",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/2954669.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/juegos-olimpicos-paris-2024/2024/08/12/2221333/albert-torres-sergio-llull-acabo-sueno-olimpico.html",
+        "date": "2024-08-12 02:00:01",
+        "sentiment_score": 0.03554639220237732
+    },
+    {
+        "title": "El mayor festival del mundo (de León)",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/11/66b910c362595.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240812/1594750/mayor-festival-mundo-leon.html",
+        "date": "2024-08-12 01:30:00",
+        "sentiment_score": 0.046321213245391846
+    },
+    {
+        "title": "El hotel de Cristiano Ronaldo en Madrid gana 1,1 millones y deja atrás los años más duros de la pandemia",
+        "image_url": "https://s1.elespanol.com/2023/04/19/invertia/empresas/turismo/757434816_232535777_1706x960.jpg?contentId=ESPIMA20230419_0567",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20240812/hotel-cristiano-ronaldo-madrid-gana-millones-deja-anos-duros-pandemia/876662362_0.html",
+        "date": "2024-08-12 00:31:35",
+        "sentiment_score": -0.7188287582248449
+    },
+    {
+        "title": "El auténtico bombazo del verano: ¿se separan Álvaro Morata y Alice Campello?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/12/2024081201495830972.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/autentico-bombazo-verano-alvaro-morata-alice-campello-separan/20240812015113315336.html",
+        "date": "2024-08-11 23:51:13",
+        "sentiment_score": -0.7685658931732178
+    },
+    {
+        "title": "Julián Álvarez ya está en Madrid para firmar con el Atlético",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/AP24215727010718_f05abc.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "atlético de madrid"
+        ],
+        "link": "https://eldiariony.com/2024/08/11/julian-alvarez-ya-esta-en-madrid-para-firmar-con-el-atletico/",
+        "date": "2024-08-11 23:32:01",
+        "sentiment_score": 0.21888006664812565
+    },
+    {
+        "title": "El rocambolesco verano del Getafe, primer rival del Athletic, con centrales y medios como delanteros",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/08/11/bordalass-kouG--758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/rocambolesco-verano-getafe-primer-rival-athletic-centrales-20240811004624-nt.html",
+        "date": "2024-08-11 22:46:25",
+        "sentiment_score": 0.09506203234195709
+    },
+    {
+        "title": "Un Real Mallorca a medio cocinar",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2954637.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/08/12/2221309/real-mallorca-balance-pretemporada-2024-25.html",
+        "date": "2024-08-11 22:30:01",
+        "sentiment_score": -0.11624321341514587
+    },
+    {
+        "title": "Ridículo",
+        "image_url": "https://uh.gsstatic.es/autor/victoria-lafora/10421.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/08/12/2221137/ridiculo-2.html",
+        "date": "2024-08-11 22:30:01",
+        "sentiment_score": -0.17109063267707825
+    },
+    {
+        "title": "Antoni Febrer: «Hay que ayudar al pensamiento crítico de los estudiantes para el uso de la IA»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/2954479.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/08/12/2221251/antoni-febrer-hay-ayudar-pensamiento-critico-estudiantes-para-uso.html",
+        "date": "2024-08-12 02:00:01",
+        "sentiment_score": 0.009664773941040039
+    },
+    {
+        "title": "Tocata y fuga",
+        "image_url": "https://men.gsstatic.es/autor/jose-luis-reina/10921.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/08/12/2221229/tocata-fuga-1.html",
+        "date": "2024-08-12 02:00:01",
+        "sentiment_score": -0.09090036153793335
+    },
+    {
+        "title": "Basilio Guerra: salir de Menorca sin miedo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2954007.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/blogs/2024/08/12/2221071/basilio-guerra-salir-menorca-miedo.html",
+        "date": "2024-08-12 02:00:01",
+        "sentiment_score": -0.03383725881576538
+    },
+    {
+        "title": "Y en Puente Genil se hizo la luz... hace 135 años",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/08/08/66b4dc707a6f2.jpeg",
+        "tags": [
+            "córdoba - actualidad"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20240812/puente-genil-hizo-luz-hace-135-anos_219071.html",
+        "date": "2024-08-12 02:00:00",
+        "sentiment_score": 0.0528981015086174
+    },
+    {
+        "title": "El colombiano Darwin López convierte un triplete con Macará y Liga va de líder en Ecuador",
+        "image_url": "./assets/ai_generated/v1_txt2img_c981dbfa54114cc3904b38fc6de850e2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/12/el-colombiano-darwin-lopez-convierte-un-triplete-con-macara-y-liga-va-de-lider-en-ecuador/",
+        "date": "2024-08-12 01:30:51",
+        "sentiment_score": 0.4368162378668785
+    },
+    {
+        "title": "Mexicano Julián Araujo abandona el FC Barcelona y se muda al Bournemouth",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/AP24083037272196.jpg",
+        "tags": [
+            "fútbol",
+            "bournemouth",
+            "fc barcelona",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/08/11/mexicano-julian-araujo-abandona-el-fc-barcelona-y-se-muda-al-bournemouth/",
+        "date": "2024-08-12 01:29:00",
+        "sentiment_score": 0.01303543895483017
+    },
+    {
+        "title": "Kynisca Sports, el nuevo imperio de Michele Kang que amenaza al Barça Femenino",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/12/culemania/secciones/877672226_13328233_1706x960.png?contentId=ESPIMA20240812_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20240812/kynisca-sports-imperio-michele-kang-barca-femenino/877412303_0.html",
+        "date": "2024-08-12 01:09:00",
+        "sentiment_score": 0.180351160466671
+    },
+    {
+        "title": "La Universidá d'Uviéu, premiada pola gran meyora de la empleabilidá de los sos titulaos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ae3db90e-ce47-4d37-ada0-87b4a6332f52_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/08/12/universida-duvieu-premiada-pola-gran-106822981.html",
+        "date": "2024-08-12 01:00:54",
+        "sentiment_score": -0.059355348348617554
+    },
+    {
+        "title": "Miquel Sàmper, el abogado consejero de Illa que fue sucesor de Rull y defendió a Puig por el 'procés'",
+        "image_url": "https://s1.elespanol.com/2024/08/11/reportajes/877422529_248415289_1706x960.png?contentId=ESPIMA20240811_0280",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240812/miquel-samper-abogado-consejero-illa-sucesor-rull-defendio-puig-proces/877412368_0.html",
+        "date": "2024-08-12 00:48:13",
+        "sentiment_score": -0.07951626181602478
+    },
+    {
+        "title": "Zona fronteriza de Tabasco sirve de ruta para cruzar sin cita del CBP One a EEUU",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/TABASCO-CBP-One.webp",
+        "tags": [
+            "internacionales",
+            "entrada ilegal a eeuu",
+            "eeuu",
+            "cbp",
+            "cita para entrar a eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/zona-fronteriza-de-tabasco-sirve-de-ruta-para-cruzar-sin-cita-del-cbp-one-a-eeuu/",
+        "date": "2024-08-12 01:30:30",
+        "sentiment_score": -0.62411187030375
+    },
+    {
+        "title": "Los financiamientos con inicial fraccionada para comprar estos vehículos 0 Km",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Foto-cortesia-12-1.jpg",
+        "tags": [
+            "financiamientos con inicial fraccionada para vehículos",
+            "créditos para vehículos",
+            "eeuu",
+            "nacionales",
+            "financimientos especiales",
+            "2001online",
+            "venezuela",
+            "servicios",
+            "jac motors"
+        ],
+        "link": "https://2001online.com/servicios/los-financiamientos-con-inicial-fraccionada-para-comprar-estos-vehiculos-0-km/",
+        "date": "2024-08-12 01:00:00",
+        "sentiment_score": 0.025175374001264572
+    },
+    {
+        "title": "Andrés Caleca denunció que su pasaporte fue anulado \"sin justificación\"",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Andres-Caleca-1024x683-1.png",
+        "tags": [
+            "andrés caleca",
+            "cne",
+            "nacionales",
+            "pasaporte del saime"
+        ],
+        "link": "https://2001online.com/nacionales/andres-caleca-denuncio-que-su-pasaporte-fue-anulado-sin-justificacion/",
+        "date": "2024-08-12 01:00:00",
+        "sentiment_score": -0.7719985395669937
+    },
+    {
+        "title": "Venezuela ofrecerá sus reservas de petróleo a los BRICS (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Brics-1-1280x720.jpg",
+        "tags": [
+            "internacionales",
+            "eeuu",
+            "india",
+            "nacionales",
+            "rusia",
+            "organización de las naciones unidas (onu)",
+            "china",
+            "2001online",
+            "venezuela",
+            "estados unidos",
+            "sudáfrica",
+            "brasil",
+            "caracas",
+            "joaquín pérez ayestarán"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-ofrecera-sus-reservas-de-petroleo-a-los-brics-detalles/",
+        "date": "2024-08-11 23:00:00",
+        "sentiment_score": 0.22740238904953003
     }
 ];
