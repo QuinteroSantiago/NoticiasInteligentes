@@ -256,36 +256,6 @@ export default [
         "sentiment_score": -0.06638827919960022
     },
     {
-        "title": "Ucrania intensifica su ofensiva contra territorio ruso en Kursk y bombardea Lípetsk, Briansk, Bélgorod y Crimea",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/09/kurskevacuaciones-RFID6SyqeuTAG8J2lwMy7PP-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ucrania-intensifica-ofensiva-territorio-ruso-kursk-bombardea-20240809140032-nt.html",
-        "date": "2024-08-09 12:02:19",
-        "sentiment_score": -0.22370806336402893
-    },
-    {
-        "title": "Cellnex vende su negocio en Austria por 803 millones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/09/Cellnex-RiKXZGsTrtiBcATpFqNojkK-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cellnex-vende-negocio-austria-803-millones-20240809133542-nt.html",
-        "date": "2024-08-09 11:44:21",
-        "sentiment_score": -0.04220956563949585
-    },
-    {
-        "title": "Las estrategias para dar pasos de gigante en la carrera contra el reloj de la descarbonización",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/06/21/foroabcempresa-R8tWKta3u7OY9DwOboJYVAO-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/estrategias-dar-pasos-gigante-carrera-reloj-descarbonizacion-20240621190243-nt.html",
-        "date": "2024-08-09 10:25:59",
-        "sentiment_score": 0.010216772556304932
-    },
-    {
         "title": "Detenido un empresario de Gijón acusado de pagar sobornos a altos cargos de Obiang",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DRKLW3T5QBEIBGESPFP2WJ6JUQ.jpg?auth=312996d296c6727a76d04a3c3d6e6bb6d8f9c41bdddbeeea4c8b8969bc1a2443",
         "tags": [
@@ -306,59 +276,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-09/detenido-un-empresario-de-gijon-acusado-de-pagar-sobornos-a-altos-cargos-de-obiang.html",
         "date": "2024-08-09 15:28:22",
         "sentiment_score": -0.6016761213541031
-    },
-    {
-        "title": "La dirección de los Mossos evita la autocrítica por la huida de Puigdemont y carga contra el expresidente",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J7K7RDZS6JD73LPTRRJYUDSY4Y.jpg?auth=73465597fb418bad7999f424d43ee273647d9da12da141e8f5ef15d248ce0740",
-        "tags": [
-            "erc",
-            "junts pel sí",
-            "mossos d'esquadra",
-            "carles puigdemont",
-            "cataluña",
-            "política",
-            "generalitat cataluña",
-            "investidura parlamentaria"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-09/la-direccion-de-los-mossos-evita-la-autocritica-por-la-huida-de-puigdemont-y-carga-contra-el-expresidente.html",
-        "date": "2024-08-09 13:45:53",
-        "sentiment_score": 0.15117307007312775
-    },
-    {
-        "title": "Madrid no cierra por vacaciones en agosto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5HN3GNHQGVD5LGSEDT4RPCOWBY.jpg?auth=77a277e1ae0439190a920c1a74299b0ba4bcb1870c2ac3816c0a36ac65a0d019",
-        "tags": [
-            "ocio",
-            "terrazas verano",
-            "cócteles",
-            "comunidad de madrid",
-            "tabernas",
-            "madrid",
-            "planes",
-            "verano",
-            "vacaciones"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-08-09/madrid-no-cierra-por-vacaciones-en-agosto.html",
-        "date": "2024-08-09 10:45:09",
-        "sentiment_score": 0.21610239148139954
-    },
-    {
-        "title": "Junts asegura que Puigdemont ya está en Bélgica y alega que huyó al ver que los Mossos no le permitirían entrar al Parlament",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TSOVK4YBCJE6NMO43STNYFAAGM.jpg?auth=2bbd8132f1e1bedd1fe2426341393ff8aaf4111032883808d96b855288e2c3a3",
-        "tags": [
-            "elecciones catalanas",
-            "govern cataluña",
-            "campañas electorales",
-            "programas electorales",
-            "gobierno autonómico",
-            "independentismo",
-            "cataluña",
-            "generalitat cataluña",
-            "elecciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-09/junts-asegura-que-puigdemont-ya-esta-en-belgica-y-alega-que-huyo-al-ver-que-los-mossos-no-le-permitirian-entrar-al-parlament.html",
-        "date": "2024-08-09 10:45:01",
-        "sentiment_score": -0.8090392025187612
     },
     {
         "title": "Qué fue de los futbolistas que ganaron el oro olímpico con España en Barcelona 92",
@@ -539,51 +456,6 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240809/este-el-de-presentacion-dani-olmo-barca/876912395_0.html",
         "date": "2024-08-09 16:47:48",
         "sentiment_score": 0.05769908428192139
-    },
-    {
-        "title": "Antonio Ecarri denuncia agresión durante su comparecencia en el TSJ (+VIDEO)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-150.png",
-        "tags": [
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/antonio-ecarri-agresion-comparecencia-tsj/",
-        "date": "2024-08-09 13:21:59",
-        "sentiment_score": -0.6460480391979218
-    },
-    {
-        "title": "Dólar BCV Venezuela: Así se cotiza la moneda estadounidense este #9Ago",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/04/Dolar-4.jpg",
-        "tags": [
-            "nacionales",
-            "economía",
-            "dólar latam"
-        ],
-        "link": "https://2001online.com/dolarlatam/dolar-bcv-venezuela-asi-se-cotiza-la-moneda-estadounidense-este-9ago/",
-        "date": "2024-08-09 12:22:25",
-        "sentiment_score": -0.02434111386537552
-    },
-    {
-        "title": "¿Cielo despejado este 9 de agosto?: Sepa qué dice el Inameh",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/IMG_20240809_074214-819x1024.jpg",
-        "tags": [
-            "¿cielo despejado este 9 de agosto?: sepa qué dice el inameh",
-            "venezuela",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/cielo-despejado-este-9-de-agosto-sepa-que-dice-el-inameh/",
-        "date": "2024-08-09 12:21:28",
-        "sentiment_score": -0.038332581520080566
-    },
-    {
-        "title": "Sepa cuáles candidatos deben asistir a la Sala Electoral del TSJ este #9Ago",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/TSJ-cronograma.jpeg",
-        "tags": [
-            "sepa cuáles candidatos deben asistir a la sala electoral del tsj este #9ago",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/sepa-cuales-candidatos-deben-asistir-a-la-sala-electoral-del-tsj-este-9ago/",
-        "date": "2024-08-09 11:53:22",
-        "sentiment_score": -0.010160539299249649
     },
     {
         "title": "Estabilizado el incendio declarado este mediodía en Villanueva (Huelva)",
@@ -7805,5 +7677,441 @@ export default [
         "link": "https://2001online.com/zona3d/turismo/eeuu-ruta-de-la-cerveza-artesanal/",
         "date": "2024-08-12 19:51:04",
         "sentiment_score": 0.5082793682813644
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/3FMJHN7DCBGEDPNJXDZ2CORFVQ.jpg?auth=310c6764e13be77ef6e074091a28c35ff62cfb69d783aedc02478078916df424",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/13/prediccion-del-clima-estas-son-las-temperaturas-en-madrid/",
+        "date": "2024-08-13 01:31:19",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 13 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/4N6F766465H27L25RCELT3TI7Y.jpg?auth=d28d059f9dcba463d0195bb173da0250aa3fb4626343c5bac4915e45d9de8702",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/13/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-13-de-agosto/",
+        "date": "2024-08-13 01:01:01",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Los resultados ganadores que dieron fortuna a los nuevos ganadores de la Quiniela",
+        "image_url": "https://www.infobae.com/resizer/v2/JKZ2Y44OJRFYNAC2ZGX32FGVFQ.jpg?auth=6ba56399728e949fe3506efda2ee8cfbdcadeaa4833a707e90b371466fc6ed83",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/12/los-resultados-ganadores-que-dieron-fortuna-a-los-nuevos-ganadores-de-la-quiniela/",
+        "date": "2024-08-12 23:15:24",
+        "sentiment_score": 0.03197170048952103
+    },
+    {
+        "title": "El Leganés acuerda con el Sevilla el retorno de Óscar Rodríguez y la llegada de Dmitrovic",
+        "image_url": "./assets/ai_generated/v1_txt2img_4473e343779d43028c46da51aab10671.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/12/el-leganes-acuerda-con-el-sevilla-el-retorno-de-oscar-rodriguez-y-la-llegada-de-dmitrovic/",
+        "date": "2024-08-12 22:18:50",
+        "sentiment_score": 0.11797896027565002
+    },
+    {
+        "title": "Hoy será noticia. Martes, 13 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_3502f2b34d3949c8b74ebbfaa152db1b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/12/hoy-sera-noticia-martes-13-de-agosto-de-2024/",
+        "date": "2024-08-12 22:18:08",
+        "sentiment_score": 0.02616727352142334
+    },
+    {
+        "title": "Hijo de Williams Dávila narra el momento del arresto de su padre y cómo llegó al Helicoide",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20865379-44758-667-still.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "venezuela",
+            "crisis en venezuela",
+            "elecciones venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-williams-davila-detenciones-civiles-inocentes-activistas-opositores-regimen-conclusiones-tv/",
+        "date": "2024-08-13 02:07:32",
+        "sentiment_score": -0.3508131392300129
+    },
+    {
+        "title": "Elon Musk y Trump critican la gestión de Biden en la frontera entre México y Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/f29109ad-0625-495f-a0c8-c652040ec65d.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "inmigración",
+            "trump",
+            "elon musk"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/12/elon-musk-trump-gestion-biden-frontera-inmigracion-trax/",
+        "date": "2024-08-13 02:06:50",
+        "sentiment_score": -0.5935735739767551
+    },
+    {
+        "title": "Video capta terremoto de magnitud 4,4 en Los Ángeles durante transmisión en vivo en ESPN",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/109305-ca-earthquake-copy-010-20240813015538018.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/temblor-los-angeles-sismo-perspectivas-mexico-tv-usa/",
+        "date": "2024-08-13 01:58:19",
+        "sentiment_score": -0.7269017249345779
+    },
+    {
+        "title": "Nicolás Maduro pide un artículo legal para regular las redes sociales en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165038980-1-20240809121044872_5e51ae.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-pide-ley-regulacion-redes-sociales-panorama-mundial-tv/",
+        "date": "2024-08-13 01:50:08",
+        "sentiment_score": -0.15945576131343842
+    },
+    {
+        "title": "Netanyahu acusa a ministro de Defensa de adoptar narrativa “antiisraelí”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20631461-16018-331-still.jpg?quality=100&strip=info",
+        "tags": [
+            "israel noticias",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/benjamin-netanyahu-yoav-gallant-narrativa-antiisraeli-panorama-mundial-tv/",
+        "date": "2024-08-13 01:49:54",
+        "sentiment_score": -0.7293139919638634
+    },
+    {
+        "title": "Acusaciones entre Rusia y Ucrania por incendio en planta nuclear",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20862972-11326-618-still.jpg?quality=100&strip=info",
+        "tags": [
+            "ucrania",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusia-ucrania-incendio-planta-nuclear-zaporiyia-panorama-mundial-tv/",
+        "date": "2024-08-13 01:49:36",
+        "sentiment_score": -0.8561450038105249
+    },
+    {
+        "title": "¿Proteger a las mujeres de hombres deshonestos o criminalizar las rupturas? Una nueva ley en la India genera polémica",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/india-promesa-matrimonio-violacion-ley.jpg?quality=100&strip=info",
+        "tags": [
+            "derechos de la mujer",
+            "india",
+            "leyes",
+            "violencia contra las mujeres",
+            "violaciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/12/proteger-mujeres-hombres-deshonestos-criminalizar-rupturas-nueva-ley-india-polemica-trax/",
+        "date": "2024-08-13 00:41:07",
+        "sentiment_score": -0.909567741677165
+    },
+    {
+        "title": "\"Estoy seguro de que Zambada no se entregó\", dice exagente de la DEA",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1340350-department-of-justice-us.jpeg?quality=100&strip=info",
+        "tags": [
+            "departamento de justicia",
+            "corrupción",
+            "cártel de sinaloa",
+            "análisis",
+            "méxico",
+            "\"el mayo\" zambada",
+            "carta",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-detalles-captura-zambada-guzman-lopez-perspectivas-mexico-tv/",
+        "date": "2024-08-12 23:55:41",
+        "sentiment_score": -0.3478011041879654
+    },
+    {
+        "title": "Los astronautas del Starliner de Boeing podrían permanecer en el espacio otros seis meses. Esto es lo que harían",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/ap24177695343351-1-20240808185607517.webp",
+        "tags": [
+            "instanoticias",
+            "boeing",
+            "starliner",
+            "estación espacial internacional",
+            "ciencia y espacio"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/12/astronautas-starlines-boeing-permanecer-espacio-trax/",
+        "date": "2024-08-12 23:46:51",
+        "sentiment_score": -0.06813935935497284
+    },
+    {
+        "title": "La Armada de Ecuador realiza búsqueda y rescate de tripulación de barco pesquero tras explosión",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/ecuador-armada-barco-conchita-busqueda-puerto-bolivar.jpg?quality=100&strip=info",
+        "tags": [
+            "ecuador",
+            "búsqueda",
+            "rescate",
+            "barco"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/12/armada-ecuador-busqueda-rescate-tripulacion-barco-pesquero-explosion-orix/",
+        "date": "2024-08-12 23:42:18",
+        "sentiment_score": -0.4306655079126358
+    },
+    {
+        "title": "El Gobierno vuelve a regatear a Bruselas con la aplicación de peajes en autopistas y autovías",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/13/Peajelava-RZ7lZt1k1XAKz2IJpr2xmlO-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-vuelve-regatear-bruselas-aplicacion-peajes-autopistas-20240813200027-nt.html",
+        "date": "2024-08-13 02:10:10",
+        "sentiment_score": -0.03405243158340454
+    },
+    {
+        "title": "Las gasolineras ingresan cuatro millones menos al día que en 2023",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/13/gasolinerasEP-RFhb5KuMwbPbr0yyVnOKtjO-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gasolineras-ingresan-cuatro-millones-dia-2023-20240813181403-nt.html",
+        "date": "2024-08-13 02:09:32",
+        "sentiment_score": -0.1092972606420517
+    },
+    {
+        "title": "Santiago Barro: «No debemos preocuparnos en absoluto, nos adaptaremos a la IA»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/2956501.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/08/13/2221841/santiago-barro-debemos-preocuparnos-absoluto-nos-adaptaremos.html",
+        "date": "2024-08-13 02:00:01",
+        "sentiment_score": -0.08309215307235718
+    },
+    {
+        "title": "Exprimera dama argentina afirma que Alberto Fernández la obligó a abortar",
+        "image_url": "./assets/ai_generated/v1_txt2img_2aa7b2ce1f7b42c8b6610b78349c6e55.png",
+        "tags": [
+            "alberto fernandez",
+            "afirma",
+            "argentina",
+            "abortar",
+            "exprimera",
+            "dama",
+            "al dia",
+            "internacionales",
+            "obligó"
+        ],
+        "link": "https://noticialdia.com/internacionales/exprimera-dama-argentina-afirma-que-alberto-fernandez-la-obligo-a-abortar/",
+        "date": "2024-08-13 01:42:58",
+        "sentiment_score": -0.23781994730234146
+    },
+    {
+        "title": "Zubimendi: La Real Sociedad fija el precio de su salida y el Liverpool se impacienta",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/13/2024081302225762020.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/zubimendi-real-sociedad-fija-precio-salida-liverpool-impacienta/20240813033759315433.html",
+        "date": "2024-08-13 01:37:59",
+        "sentiment_score": 0.014881283044815063
+    },
+    {
+        "title": "El Barça baraja alternativas: Kingsley Coman está en la recámara si Nico Williams no llega",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/13/2024081303010579910.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/barca-baraja-alternativas-kingsley-coman-recamara-nico-williams-llega/20240813033650315437.html",
+        "date": "2024-08-13 01:36:50",
+        "sentiment_score": 0.5644891783595085
+    },
+    {
+        "title": "El Madrid se adentra en terreno inexplorado: conseguir un ‘septete’",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/arda-guler-inigo-martinez-469x317.jpg",
+        "tags": [
+            "la liga",
+            "vinicius jr",
+            "carlo ancelotti",
+            "fc barcelona",
+            "real madrid",
+            "copa del rey",
+            "fútbol",
+            "uefa champions league",
+            "kylian mbappé",
+            "supercopa de españa",
+            "uefa europa league",
+            "bayern de múnich",
+            "deportes"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2024-08-13/madrid-terreno-inexplorado-septete/",
+        "date": "2024-08-13 01:30:00",
+        "sentiment_score": -0.07988791912794113
+    },
+    {
+        "title": "¡La ilusión de la novia! Sofía Castro y su ‘team’ de bodas ultiman detalles",
+        "image_url": "https://www.hola.com/horizon/landscape/6f5c8c2ad7a4-image123650291-55.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20240813712292/sofia-castro-team-bodas-mama-nueva-york-preparativos/",
+        "date": "2024-08-13 00:53:46",
+        "sentiment_score": 0.14935101196169853
+    },
+    {
+        "title": "Puigdemont convoca un congreso de Junts para atajar cualquier maniobra para moderar el partido",
+        "image_url": "https://s1.elespanol.com/2024/08/12/espana/politica/877672590_248428739_1706x960.png?contentId=ESPIMA20240812_0366",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240813/puigdemont-convoca-congreso-junts-atajar-cualquier-maniobra-moderar-partido/877662482_0.html",
+        "date": "2024-08-13 00:05:46",
+        "sentiment_score": -0.38350991904735565
+    },
+    {
+        "title": "Ex primera dama argentina Fabiola Yáñez afirma que Alberto Fernández la obligó a abortar",
+        "image_url": "./assets/ai_generated/v1_txt2img_4fa118f6722349f5b9c94130f9a4dabe.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/12/ex-primera-dama-argentina-fabiola-yanez-afirma-que-alberto-fernandez-la-obligo-a-abortar/",
+        "date": "2024-08-12 23:45:39",
+        "sentiment_score": -0.5949269719421864
+    },
+    {
+        "title": "'Claves para una maternidad estoica', el legado para que tus hijos sean adultos libres, según la presentadora Lorena García",
+        "image_url": "https://s1.elespanol.com/2024/08/07/actualidad/876422720_248333937_1706x960.jpg?contentId=ESPIMA20240807_0371",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20240813/claves-maternidad-estoica-legado-hijos-adultos-libres-presentadora-lorena-garcia/876412555_0.html",
+        "date": "2024-08-12 23:36:47",
+        "sentiment_score": 0.8695899657905102
+    },
+    {
+        "title": "La grafóloga que revela el lado 'oculto' de royals y políticos: \"La firma de Leonor refleja que es reservada y poco influenciable\"",
+        "image_url": "https://s1.elespanol.com/2024/08/12/mujer/protagonistas/877672383_248422357_1706x960.jpg?contentId=ESPIMA20240812_0159",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20240813/grafologa-revela-lado-oculto-royals-politicos-firma-leonor-refleja-reservada-influenciable/877662280_0.html",
+        "date": "2024-08-12 23:36:45",
+        "sentiment_score": 0.3839581310749054
+    },
+    {
+        "title": "Illa presidirá este martes su primer Consell Executiu en el Palau de la Generalitat",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240813040149_120.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-illa-presidira-martes-primer-consell-executiu-palau-generalitat-20240812185821.html",
+        "date": "2024-08-13 02:01:49",
+        "sentiment_score": 0.0743706189095974
+    },
+    {
+        "title": "Anades i tornades de Puigdemont",
+        "image_url": "./assets/ai_generated/v1_txt2img_d63c66807ada4dbb8f7856ca351c2ab8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/08/13/anades-tornades-puigdemont-106938178.html",
+        "date": "2024-08-13 02:00:53",
+        "sentiment_score": -0.2943132221698761
+    },
+    {
+        "title": "Las hermanas Neisi Dajomes y Angie Palacios celebran bronces ganados tras superar lesiones",
+        "image_url": "./assets/ai_generated/v1_txt2img_9f4169d0a7574d8f89aca4caed6f108e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/13/las-hermanas-neisi-dajomes-y-angie-palacios-celebran-bronces-ganados-tras-superar-lesiones/",
+        "date": "2024-08-13 02:00:36",
+        "sentiment_score": 0.2749210000038147
+    },
+    {
+        "title": "La financiación y el antecedente del Estatut",
+        "image_url": "https://men.gsstatic.es/autor/nekane-domblas/10112.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/08/13/2221789/financiacion-antecedente-del-estatut-1.html",
+        "date": "2024-08-13 02:00:01",
+        "sentiment_score": -0.0791165828704834
+    },
+    {
+        "title": "El valor que dio Campomanes al puerto recuperado de Mahón",
+        "image_url": "https://men.gsstatic.es/autor/juan-hernandez-andreu/11675.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/08/13/2221807/valor-dio-campomanes-puerto-recuperado-mahon.html",
+        "date": "2024-08-13 02:00:01",
+        "sentiment_score": -0.04139775037765503
+    },
+    {
+        "title": "La caída del turismo nacional impide al Aeropuerto de Menorca batir otro récord en julio",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/2956625.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/08/13/2221895/caida-del-del-trafico-nacional-frena-llegadas-aeropuerto-menorca.html",
+        "date": "2024-08-13 02:00:01",
+        "sentiment_score": -0.1680196076631546
+    },
+    {
+        "title": "La fruta de hueso de temporada para prevenir la diabetes, adelgazar y mejorar la piel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8f5c011e-0b38-40fc-b0c2-f4b21aa34f4d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/salud/guia/2024/08/13/fruta-hueso-temporada-prevenir-diabetes-88472774.html",
+        "date": "2024-08-13 01:59:00",
+        "sentiment_score": 0.34696561098098755
+    },
+    {
+        "title": "La fruta de hueso de temporada para prevenir la diabetes, adelgazar y mejorar la piel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8f5c011e-0b38-40fc-b0c2-f4b21aa34f4d_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elperiodico.com/es/salud/20240813/fruta-hueso-temporada-prevenir-diabetes-88472832",
+        "date": "2024-08-13 01:59:00",
+        "sentiment_score": 0.5107940584421158
+    },
+    {
+        "title": "Borrell sostuvo conversación con Edmundo González (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Josep-Borrell-alto-representante-de-la-Union-Europea-696x392-1.jpg",
+        "tags": [
+            "unión europea",
+            "edmundo gonzález",
+            "josep borrell",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/borrell-sostuvo-conversacion-con-edmundo-gonzalez-detalles/",
+        "date": "2024-08-13 01:00:51",
+        "sentiment_score": 0.05699250102043152
+    },
+    {
+        "title": "Maduro pide a la AN acelerar la aprobación de leyes antifascistas",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-191.png",
+        "tags": [
+            "leyes",
+            "leyes antifascistas",
+            "nicolas maduro",
+            "nacionales",
+            "maduro",
+            "an"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-pide-a-la-an-acelerar-la-aprobacion-de-leyes-antifascistas/",
+        "date": "2024-08-12 23:30:00",
+        "sentiment_score": -0.8595322053879499
+    },
+    {
+        "title": "Escarrá aclara qué documentos electorales está obligado a publicar el CNE",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Hermann-Escarra.jpeg",
+        "tags": [
+            "hermann escarra",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/escarra-aclara-que-documentos-electorales-esta-obligado-a-publicar-el-cne/",
+        "date": "2024-08-12 22:25:01",
+        "sentiment_score": -0.1647522747516632
     }
 ];
