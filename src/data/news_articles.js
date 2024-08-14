@@ -122,51 +122,6 @@ export default [
         "sentiment_score": -0.9057385986670852
     },
     {
-        "title": "Trump dijo que \"cayó\" en un \"aterrizaje de emergencia\" de helicóptero con el exalcalde de San Francisco, quien dice que eso nunca ocurrió",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/trump6.jpg?quality=100&strip=info",
-        "tags": [
-            "donald turmp",
-            "kamala harris",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/10/trump-aterrizaje-emergencia-helicoptero-exalcalde-san-francisco-trax/",
-        "date": "2024-08-10 13:14:01",
-        "sentiment_score": -0.29152923449873924
-    },
-    {
-        "title": "Denuncian que el gobierno de Venezuela anuló pasaportes de varios periodistas y activistas de derechos humanos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2165479352-e1723292057887.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "venezuela noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/10/denuncian-gobierno-venezuela-anulo-pasaportes-periodistas-y-activistas-orix/",
-        "date": "2024-08-10 12:20:47",
-        "sentiment_score": -0.2630298361182213
-    },
-    {
-        "title": "Resultados de las elecciones en Venezuela 2024, en vivo: última hora de Maduro, el CNE, detenciones, protestas y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/gettyimages-2163833499.jpg?quality=100&strip=info",
-        "tags": [
-            "minuto a minuto",
-            "venezuela noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/10/resultados-elecciones-venezuela-2024-vivo-orix/",
-        "date": "2024-08-10 11:30:31",
-        "sentiment_score": -0.2572193443775177
-    },
-    {
-        "title": "Un avión brasileño se estrella en las afueras de São Paulo y mueren 61 personas, según la compañía aérea",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Brasil-e1723287241114.jpg?quality=100&strip=info",
-        "tags": [
-            "accidente aéreo",
-            "brasil"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/10/brasil-avion-accidente-sao-paulo-trax/",
-        "date": "2024-08-10 10:55:41",
-        "sentiment_score": -0.8323342241346836
-    },
-    {
         "title": "El momento justo",
         "image_url": "./assets/ai_generated/v1_txt2img_7fc7b1d2b199425b92a8133517f6d856.png",
         "tags": [
@@ -195,26 +150,6 @@ export default [
         "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-marlaska-20240811183213-nts.html",
         "date": "2024-08-10 16:32:13",
         "sentiment_score": -0.21641816198825836
-    },
-    {
-        "title": "Grupo Wagner, batallón Ajmad, GRU... Un Kremlin en pánico lanza sus milicias más poderosas contra los ucranianos que invaden su territorio",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/10/atysakhmad-RLPjtCNSg6AbHTwDgnz2yCL-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/kremlin-panico-deja-lucha-kursk-manos-milicias-20240810134852-nt.html",
-        "date": "2024-08-10 12:08:03",
-        "sentiment_score": -0.10878270864486694
-    },
-    {
-        "title": "LA FDA rechaza el éxtasis como tratamiento para el trastorno de estrés postraumático",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/08/10/fda-extasis-RYIgks1UiAV6qLOOf4kxBCP-758x531@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/fda-rechaza-extasis-tratamiento-trastorno-estres-postraumatico-20240810140442-nt.html",
-        "date": "2024-08-10 12:04:42",
-        "sentiment_score": -0.16166338324546814
     },
     {
         "title": "Puigdemont admite que la presidencia de Illa abre “una etapa nueva y legítima” en Cataluña",
@@ -250,28 +185,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-10/el-presidente-del-parlamento-balear-de-vox-investigado-tras-rasgar-la-foto-de-la-republicana-aurora-picornell.html",
         "date": "2024-08-10 14:58:01",
         "sentiment_score": -0.8814332699403167
-    },
-    {
-        "title": "Illa promete gobernar para todos y desterrar los planteamientos “divisivos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DZ4XNKTJLNFC7DYVC52IVZPFQA.jpg?auth=fe62fe1c91ef75aac7c87f0b3086dcdb68a3438ed584b5ceff23110ab90c084e",
-        "tags": [
-            "investidura parlamentaria",
-            "cataluña",
-            "política",
-            "elecciones catalanas",
-            "psc",
-            "carles puigdemont",
-            "procés independentista catalán",
-            "juntsxcat",
-            "cup",
-            "govern cataluña",
-            "erc",
-            "salvador illa",
-            "josep rull andreu"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-10/illa-promete-gobernar-para-todos-y-desterrar-los-planteamientos-divisivos.html",
-        "date": "2024-08-10 11:45:12",
-        "sentiment_score": -0.6570987924933434
     },
     {
         "title": "1-1 (7-6). Guardiola rompe la maldición supercopera",
@@ -353,16 +266,6 @@ export default [
         "link": "https://www.laopiniondezamora.es/castilla-leon/2024/08/10/detenidos-desmantelar-laboratorio-valladolid-producia-106854738.html",
         "date": "2024-08-10 14:25:57",
         "sentiment_score": -0.842719841748476
-    },
-    {
-        "title": "Como en 'Breaking Bad': la policía desmantela un laboratorio de cocaína y detiene a dos hombres",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2021/12/20/2021122014274114361.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/sucesos/policia-desmantela-laboratorio-cocaina-valladolid-detiene-personas/20240810161422555247.html",
-        "date": "2024-08-10 14:14:22",
-        "sentiment_score": -0.47523878887295723
     },
     {
         "title": "El mejor restaurante de Barcelona para comer solomillo: un templo para los amantes de la carne",
@@ -610,17 +513,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/ataque-israeli-escuela-gaza-trax/",
         "date": "2024-08-10 18:23:10",
         "sentiment_score": -0.7528010979294777
-    },
-    {
-        "title": "Resumen de noticias de las elecciones en Venezuela 2024 este 10 de agosto",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/thumb-edmundo.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela noticias",
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/10/resumen-noticias-elecciones-venezuela-2024-orix/",
-        "date": "2024-08-10 11:30:31",
-        "sentiment_score": -0.20527920126914978
     },
     {
         "title": "Calais, el rompeolas migratorio hacia un Reino Unido convulso",
@@ -929,29 +821,6 @@ export default [
         "link": "https://2001online.com/nacionales/tsj-declaro-desacato-de-excandidato-edmundo-gonzalez/",
         "date": "2024-08-10 19:55:00",
         "sentiment_score": -0.12712357938289642
-    },
-    {
-        "title": "La aerolínea BlueStar habilitó nueva ruta nacional (+Horarios)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/imagen_2024-08-10_092704688.png",
-        "tags": [
-            "la aerolínea bluestar habilitó nueva ruta nacional (+horarios)",
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/la-aerolinea-bluestar-habilito-nueva-ruta-nacional-horarios/",
-        "date": "2024-08-10 13:28:38",
-        "sentiment_score": 0.14054523780941963
-    },
-    {
-        "title": "Vacaciones Seguras 2024 : Supervisan terminales terrestres del país",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Gobierno-Bolivariano-supervisa-dispositivo-Vacaciones-Seguras-2024-7-1024x576.jpeg",
-        "tags": [
-            "vacaciones seguras 2024 : supervisan terminales terrestres del país",
-            "nacionales",
-            "venezuela"
-        ],
-        "link": "https://2001online.com/nacionales/vacaciones-seguras-2024-supervisan-terminales-terrestres-del-pais/",
-        "date": "2024-08-10 12:00:00",
-        "sentiment_score": 0.13911763578653336
     },
     {
         "title": "Ranking de YouTube en España: la lista de los 10 videos musicales más reproducidos hoy",
@@ -8065,5 +7934,600 @@ export default [
         "link": "https://2001online.com/curiosidades/cuales-son-los-nombres-para-la-temporada-de-huracanes-2024/",
         "date": "2024-08-13 20:32:11",
         "sentiment_score": -0.5311722867190838
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este miércoles: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/N55ID7337BHT3HYUMSAM3JXAYI.jpg?auth=d81a3a4e5a779a31acece9298e3a4a0944448580920c0a17e8cb493991f6b2d5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/14/pronostico-del-clima-en-barcelona-este-miercoles-temperatura-lluvias-y-viento/",
+        "date": "2024-08-14 01:00:59",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Diez heridos leves en la Nit de l'Albà de Elche, según el primer balance",
+        "image_url": "./assets/ai_generated/v1_txt2img_a675d26be04a4f5b93be82a69e3c3235.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/diez-heridos-leves-en-la-nit-de-lalba-de-elche-segun-el-primer-balance/",
+        "date": "2024-08-14 00:31:11",
+        "sentiment_score": -0.8152472944930196
+    },
+    {
+        "title": "Brasileña JBS revierte las pérdidas y gana 286 millones de euros en el segundo trimestre",
+        "image_url": "./assets/ai_generated/v1_txt2img_fe3ea677e8924f36ab2b751175ec121b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/13/brasilena-jbs-revierte-las-perdidas-y-gana-286-millones-de-euros-en-el-segundo-trimestre/",
+        "date": "2024-08-13 23:32:20",
+        "sentiment_score": 0.27336911857128143
+    },
+    {
+        "title": "Ecopetrol ganó en el primer semestre 1.663 millones de euros, una caída del 24,2 %",
+        "image_url": "./assets/ai_generated/v1_txt2img_10fbfaa0584c44adb1ee7360a0297865.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/13/ecopetrol-gano-en-el-primer-semestre-1663-millones-de-euros-una-caida-del-242/",
+        "date": "2024-08-13 23:02:21",
+        "sentiment_score": 0.21787714958190918
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 14 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_e1e7a0da0ebc4ccaacace557def20042.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/13/hoy-sera-noticia-miercoles-14-de-agosto-de-2024/",
+        "date": "2024-08-13 22:18:53",
+        "sentiment_score": 0.028634052723646164
+    },
+    {
+        "title": "ONU pone en entredicho la actuación del CNE durante las elecciones en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164269374.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "fast – news variety",
+            "crisis venezuela",
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/onu-informe-cne-actuacion-resultados-elecciones-venezuela-conclusiones-tv/",
+        "date": "2024-08-14 02:11:54",
+        "sentiment_score": -0.5739032477140427
+    },
+    {
+        "title": "Operación Retuit: La estrategia de medios venezolanos para enfrentar el cerco informativo del régimen de Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20868460-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "crisis venezuela",
+            "fast – news variety",
+            "nicolás maduro",
+            "venezuela",
+            "censura"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-opositores-detenidos-censura-maduro-chavez-conclusiones-tv/",
+        "date": "2024-08-14 02:10:17",
+        "sentiment_score": -0.1485505998134613
+    },
+    {
+        "title": "Construyen el que será el puente de cruce para vida salvaje más grande del mundo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/99865014-53399635-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "obras",
+            "animales silvestres",
+            "animales",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-california-puente-cruce-vida-salvaje-orix/",
+        "date": "2024-08-14 01:44:59",
+        "sentiment_score": 0.3507279306650162
+    },
+    {
+        "title": "López Obrador no le abrirá las puertas de Palacio Nacional a Milei",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20734562-912-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "amlo",
+            "javier milei"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/presidente-argentina-milei-visita-mexico-amlo-reax-panorama-mundial/",
+        "date": "2024-08-14 01:28:15",
+        "sentiment_score": -0.5266822315752506
+    },
+    {
+        "title": "Putin reprende a sus generales tras incursión de Ucrania en Rusia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1309640-221206104900-kursk-oil-tank-attack-120622.jpg?quality=100&strip=info",
+        "tags": [
+            "guerra de rusia en ucrania",
+            "rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incursion-ucrania-rusia-region-kursk-putin-panorama-mundial-tv/",
+        "date": "2024-08-14 01:24:24",
+        "sentiment_score": -0.6415378004312515
+    },
+    {
+        "title": "Este dirigible impulsado por el sol pretende dar la vuelta al mundo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/82777934-87105119-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "videos digitales",
+            "aviación",
+            "energía solar",
+            "innovación",
+            "avances tecnológicos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dirigible-solar-pretende-dar-vuelta-al-mundo-trax/",
+        "date": "2024-08-14 00:16:55",
+        "sentiment_score": 0.5227603185921907
+    },
+    {
+        "title": "El presidente de la Asamblea de Venezuela propone reformas electorales para que “ningún extranjero” se pronuncie sobre comicios en el país",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/reformas-venezuela-extranjeros-comicios-jorge-rodriguez-e1723594482454.jpg?quality=100&strip=info",
+        "tags": [
+            "asamblea nacional",
+            "venezuela",
+            "jorge rodríguez",
+            "elecciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/13/presidente-asamblea-venezuela-reformas-electorales-ningun-extranjero-pronuncie-comicios-orix/",
+        "date": "2024-08-14 00:15:53",
+        "sentiment_score": -0.011043533682823181
+    },
+    {
+        "title": "Las propinas, el único tema que une a Kamala Harris y Donald Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2161823241.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "fast – news variety",
+            "elecciones estados unidos",
+            "noticias de donald trump",
+            "xpress",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-harris-propina-dusa-tv-fast/",
+        "date": "2024-08-13 23:57:15",
+        "sentiment_score": -0.09010638296604156
+    },
+    {
+        "title": "El asesinato de Melesio Cuén, otro cabo suelto en el caso del Mayo Zambada y Joaquín Guzmán López",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1346149-buscaglia-fiscalia-mexicana-es-verguenza-internacional.jpg?quality=100&strip=info",
+        "tags": [
+            "asesinato",
+            "\"el mayo\" zambada",
+            "narcotráfico",
+            "sinaloa",
+            "fiscalía",
+            "crimen",
+            "méxico",
+            "joaquín guzmán lópez"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hector-melesio-cuen-sinaloa-caso-asesinato-perspectivas-mexico-tv/",
+        "date": "2024-08-13 23:50:02",
+        "sentiment_score": -0.4939899146556854
+    },
+    {
+        "title": "Gobierno de Venezuela “busca criminalizar a los defensores de DD.HH.”, dice experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163827358-20240808190357794_ba060e.jpg?quality=100&strip=info",
+        "tags": [
+            "judicial",
+            "análisis",
+            "leyes",
+            "derechos humanos",
+            "detenidos venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/asamblea-nacional-venezuela-paquete-leyes-perspectivas-mexico-tv/",
+        "date": "2024-08-13 23:35:31",
+        "sentiment_score": -0.4582226052880287
+    },
+    {
+        "title": "La mayor caída interanual del euríbor desde 2013 rebajará 900 euros al año la hipoteca media",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/14/banco-santander-RamsPrpNppjEHvtogI2mnIJ-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/mayor-caida-interanual-euribor-2013-rebajara-900-20240814175158-nt.html",
+        "date": "2024-08-14 02:12:36",
+        "sentiment_score": -0.08839191496372223
+    },
+    {
+        "title": "Los precios de la luz se disparan en agosto con temperaturas históricas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/14/termometroefe-R0NXp19tPqtU16AfcN4OEZJ-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/precios-luz-disparan-agosto-temperaturas-historicas-20240814183204-nt.html",
+        "date": "2024-08-14 02:06:39",
+        "sentiment_score": -0.08312985301017761
+    },
+    {
+        "title": "La Generalitat aspira a cambiar el reparto del IVA en la financiación autonómica en busca de una tajada millonaria",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/14/SalvadorIllaconsejogobienoep-Rm2bJ0QW2MUl81yfcFqLYHP-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/generalitat-aspira-cambiar-reparto-iva-financiacion-autonomica-20240814195757-nt.html",
+        "date": "2024-08-14 02:01:04",
+        "sentiment_score": -0.05669233202934265
+    },
+    {
+        "title": "López Obrador lanza un guiño a Maduro y dice que tomará en cuenta la decisión del máximo tribunal del chavismo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/14/obrador-kWPH-U602954282165N0E-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/lopez-obrador-lanza-guino-maduro-dice-tomara-20240814022144-nt.html",
+        "date": "2024-08-14 00:21:45",
+        "sentiment_score": -0.11526274681091309
+    },
+    {
+        "title": "¿Por qué los australianos viven más años que los estadounidenses?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/08/14/australia-longevidad-R4ZPmo6jDg2sjturqVtnIEM-758x531@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/australianos-viven-anos-estadounidenses-20240814010542-nt.html",
+        "date": "2024-08-13 23:05:42",
+        "sentiment_score": -0.10135428607463837
+    },
+    {
+        "title": "Los impactantes videos de la llegada de River Plate a Córdoba antes del primer partido de Gallardo por la Libertadores",
+        "image_url": "https://www.infobae.com/resizer/v2/CLVNIPFU3BBY5MU4KYZYDTCMXE.jpg?auth=a0ed6f5f75a4d1418bda96fbda9dde08b27ad52a6b1f990665099661b00dc695",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/14/los-impactantes-videos-de-la-llegada-de-river-plate-a-cordoba-antes-del-primer-partido-de-gallardo-por-la-libertadores/",
+        "date": "2024-08-14 01:58:50",
+        "sentiment_score": 0.586449645459652
+    },
+    {
+        "title": "El Real Madrid pierde a Camavinga para el partido de la Supercopa de Europa ante el Atalanta",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/14/2024081402504488321.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-pierde-camavinga-partido-supercopa-europara-atalanta/20240814034238315533.html",
+        "date": "2024-08-14 01:42:38",
+        "sentiment_score": -0.33697332441806793
+    },
+    {
+        "title": "El Real Madrid busca ante el Atalanta su sexta Supercopa de Europa en el estreno de Mbappé",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/Carletto-waving-469x317.jpg",
+        "tags": [
+            "carlo ancelotti",
+            "atalanta",
+            "real madrid",
+            "jude bellingham",
+            "deportes",
+            "vinicius jr",
+            "fútbol",
+            "kylian mbappé"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2024-08-14/real-madrid-atalanta-supercopa-de-europa/",
+        "date": "2024-08-14 01:30:00",
+        "sentiment_score": 0.5590424463152885
+    },
+    {
+        "title": "Málaga es la provincia andaluza con viviendas de lujo más caras y la segunda a nivel nacional",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/06/benidorm-precio-vivienda-espana-469x317.jpg",
+        "tags": [
+            "andalucía",
+            "lujo",
+            "vivienda",
+            "málaga"
+        ],
+        "link": "https://theobjective.com/espana/andalucia/2024-08-14/malaga-viviendas-lujo/",
+        "date": "2024-08-14 01:30:00",
+        "sentiment_score": 0.3011297732591629
+    },
+    {
+        "title": "Camavinga no estará en la Supercopa tras golpe en entrenamiento",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/08/camavinga-1-730x524.webp",
+        "tags": [
+            "varsovia",
+            "supercopa",
+            "españa",
+            "aurelien tchouameni",
+            "carlo ancelotti",
+            "europa",
+            "fútbol",
+            "atalanta",
+            "tchouaméni",
+            "deportes",
+            "camavinga"
+        ],
+        "link": "https://primicia.com.ve/deportes/camavinga-no-estara-en-la-supercopa-tras-golpe-en-entrenamiento/",
+        "date": "2024-08-14 01:12:31",
+        "sentiment_score": -0.9249943420290947
+    },
+    {
+        "title": "Comienza la era Mbappé: ¿Formación ofensiva con Vini y Rodrygo o estrategia de control del mediocampo?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/14/2024081402085635124.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/comienza-era-mbappe-formacion-ofensiva-vini-rodrygo-estrategia-control-mediocampo/20240814030138315529.html",
+        "date": "2024-08-14 01:01:38",
+        "sentiment_score": -0.03433039039373398
+    },
+    {
+        "title": "Fenerbahce de Mourinho se queda fuera de la Champions League",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/AP24223698262179.jpg",
+        "tags": [
+            "champions league",
+            "fútbol",
+            "fenerbahce",
+            "mourinho",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/08/13/fenerbahce-de-mourinho-se-queda-fuera-de-la-champions-league/",
+        "date": "2024-08-14 00:23:34",
+        "sentiment_score": 0.11282475292682648
+    },
+    {
+        "title": "Los españoles se empobrecen en 2024: las subidas salariales no compensan los aumentos de precios",
+        "image_url": "https://s1.elespanol.com/2024/08/13/invertia/economia/macroeconomia/877922630_248450324_1706x960.jpg?contentId=ESPIMA20240813_0431",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20240814/espanoles-empobrecen-subidas-salariales-no-compensan-aumentos-precios/877912448_0.html",
+        "date": "2024-08-13 23:54:45",
+        "sentiment_score": 0.0016451478004455566
+    },
+    {
+        "title": "El Granca 3.0 de Jaka Lakovic",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/644f4c9d-96db-4090-a7e1-8b6c8819b3c5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2024/08/14/granca-3-0-jaka-lakovic-106973598.html",
+        "date": "2024-08-13 23:51:22",
+        "sentiment_score": 0.4507959112524986
+    },
+    {
+        "title": "Les Festes de Gràcia de Barcelona empiezan este miércoles sin 'correfocs' y con una noche sin música",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240814040450_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-les-festes-gracia-barcelona-empiezan-miercoles-correfocs-noche-musica-20240813184225.html",
+        "date": "2024-08-14 02:04:50",
+        "sentiment_score": -0.024290993809700012
+    },
+    {
+        "title": "Pepelu da ejemplo de capitán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd7c7274-fcdd-4edf-8aed-99f1987f62d2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/08/14/pepelu-da-ejemplo-capitan-106972481.html",
+        "date": "2024-08-14 02:00:15",
+        "sentiment_score": -0.08774685859680176
+    },
+    {
+        "title": "Trapasser",
+        "image_url": "https://men.gsstatic.es/autor/ferran-andreu-camps/11073.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/08/14/2222603/trapasser.html",
+        "date": "2024-08-14 02:00:01",
+        "sentiment_score": -0.33128543198108673
+    },
+    {
+        "title": "Puigdemont llegó a España cuando Interior tenía controles activos en la frontera francesa",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/2024-08-08T070039Z_577495936_RC2JB9AWCNB1_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-copia-469x317.jpg",
+        "tags": [
+            "policía nacional",
+            "cataluña",
+            "españa",
+            "carles puigdemont",
+            "guardia civil",
+            "tribunal supremo",
+            "ministerio del interior",
+            "fronteras"
+        ],
+        "link": "https://theobjective.com/espana/2024-08-14/puigdemont-espana-interior-controles-activos-frontera-francesa/",
+        "date": "2024-08-14 01:30:00",
+        "sentiment_score": -0.6954910233616829
+    },
+    {
+        "title": "‘La mujer del presidente’, una comedia sobre Bernadette Chirac en el Elíseo",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/JLGarci-469x317.jpg",
+        "tags": [
+            "karl lagerfeld",
+            "catherine deneuve",
+            "jacques chirac",
+            "hillary clinton",
+            "cine francés",
+            "nicolás sarkozy",
+            "cine",
+            "segunda guerra mundial",
+            "elíseo"
+        ],
+        "link": "https://theobjective.com/cultura/cine/2024-08-14/mujer-presidente-comedia-bernadette-chirac/",
+        "date": "2024-08-14 01:30:00",
+        "sentiment_score": -0.09028247743844986
+    },
+    {
+        "title": "Luz... y lección",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/240814/1595825/luz-leccion.html",
+        "date": "2024-08-14 01:30:00",
+        "sentiment_score": 0.33034536987543106
+    },
+    {
+        "title": "Manresa y Parla, los municipios con los precios de la vivienda más bajos respecto a su capital",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/06/benidorm-precio-vivienda-espana-469x317.jpg",
+        "tags": [
+            "especulación inmobiliaria",
+            "ley de vivienda",
+            "precio de la vivienda",
+            "viviendas sociales",
+            "burbuja inmobiliaria",
+            "economía",
+            "vivienda",
+            "alquiler de viviendas",
+            "inmobiliario"
+        ],
+        "link": "https://theobjective.com/economia/2024-08-14/manresa-parla-precios-vivienda/",
+        "date": "2024-08-14 01:30:00",
+        "sentiment_score": -0.2969572842121124
+    },
+    {
+        "title": "Los Mossos dejan de buscar a la paralítica de la fuga de Puigdemont al ver la reacción de la juez",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/resized_image_1200x675-469x317.png",
+        "tags": [
+            "junts per catalunya (jxcat)",
+            "carles puigdemont",
+            "tribunales",
+            "mossos d'esquadra"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-08-14/mossos-paralitica-fuga-puigdemont/",
+        "date": "2024-08-14 01:30:00",
+        "sentiment_score": -0.18092717602849007
+    },
+    {
+        "title": "Panel de expertos de la ONU publica informe preliminar sobre las elecciones del #28Jul",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Derecha-Democratica-felicita-al-CNE-por-referendo-en-defensa-del-Esequibo.png",
+        "tags": [
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/panel-de-expertos-de-la-onu-publica-informe-preliminar-sobre-las-elecciones-del-28jul/",
+        "date": "2024-08-14 02:10:31",
+        "sentiment_score": 0.04085986316204071
+    },
+    {
+        "title": "California | Los Ángeles pide estos requisitos para que un hijo de indocumentados entre a la escuela",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/indocumentados-1200x720.jpg",
+        "tags": [
+            "entren a la escuela",
+            "california",
+            "niños",
+            "2001online",
+            "eeuu",
+            "indocumentados",
+            "internacionales",
+            "requisitos",
+            "hijos",
+            "los ángeles",
+            "escuela"
+        ],
+        "link": "https://2001online.com/internacionales/california-los-angeles-pide-estos-requisitos-para-que-un-hijo-de-indocumentados-entre-a-la-escuela/",
+        "date": "2024-08-14 02:00:00",
+        "sentiment_score": -0.060819536447525024
+    },
+    {
+        "title": "Illinois | Aquí puedes conseguir harina de maíz para preparar tu arepa en Chicago (+PRECIOS)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/arepa.jpg",
+        "tags": [
+            "internacionales",
+            "eeuu",
+            "arepa",
+            "2001online",
+            "harina de maiz",
+            "chicago"
+        ],
+        "link": "https://2001online.com/internacionales/illinois-aqui-puedes-conseguir-harina-de-maiz-para-preparar-tu-arepa-en-chicago-precios/",
+        "date": "2024-08-14 01:41:20",
+        "sentiment_score": -0.06047236919403076
+    },
+    {
+        "title": "Reportan vivienda en libre combustión en La Vega este #13Ago (+Fotos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Vivienda.jpeg",
+        "tags": [
+            "sucesos",
+            "la vega",
+            "vivienda en libre combustión"
+        ],
+        "link": "https://2001online.com/sucesos/reportan-vivienda-en-libre-combustion-en-la-vega-este-13ago/",
+        "date": "2024-08-14 01:38:33",
+        "sentiment_score": -0.09724490344524384
+    },
+    {
+        "title": "Hallan en una playa el cadáver de un anciano luego de tres días desaparecido",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-215.png",
+        "tags": [
+            "sucesos",
+            "cabimas",
+            "anciano"
+        ],
+        "link": "https://2001online.com/sucesos/hallan-en-una-playa-el-cadaver-de-un-anciano-luego-de-tres-dias-desaparecido/",
+        "date": "2024-08-14 01:36:08",
+        "sentiment_score": -0.786490784958005
+    },
+    {
+        "title": "EEUU: ¿Cómo la entrada de Kamala Harris en la contienda presidencial ha modificado la expectativa electoral?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/fotografia-archivo-vicepresidenta-eeuu-kamala-harris_97-1-1280x720.jpg",
+        "tags": [
+            "elecciones",
+            "elecciones eeuu",
+            "internacionales",
+            "kamala harris",
+            "donald trump",
+            "joe biden"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-como-la-entrada-de-kamala-harris-en-la-contienda-presidencial-ha-modificado-la-expectativa-electoral/",
+        "date": "2024-08-14 01:34:25",
+        "sentiment_score": -0.43134671449661255
+    },
+    {
+        "title": "Maduro denuncia que WhatsApp entregó “información de los venezolanos” a Machado y González",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Nicolas-Maduro-4-1024x720.jpeg",
+        "tags": [
+            "nacionales",
+            "nicolás maduro",
+            "whatsapp"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-denuncia-que-whatsapp-entrego-informacion-de-los-venezolanos-a-machado-y-gonzalez/",
+        "date": "2024-08-14 01:30:00",
+        "sentiment_score": -0.2993048429489136
+    },
+    {
+        "title": "Espacios de la Federación Venezolana de Voleibol quedarán bajo resguardo del IND (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Federacion.jpeg",
+        "tags": [
+            "fvv",
+            "federación venezolana voleibol",
+            "deportes",
+            "ind",
+            "venezuela",
+            "2001online"
+        ],
+        "link": "https://2001online.com/deportes/espacios-de-la-federacion-venezolana-de-voleibol-quedaran-bajo-resguardo-del-ind-video/",
+        "date": "2024-08-14 01:16:30",
+        "sentiment_score": -0.008640676736831665
+    },
+    {
+        "title": "Ofrecen empleo a personas que hablen español por $50 la hora: ¿Cómo aplicar?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/empleo-2.jpg",
+        "tags": [
+            "eeuu",
+            "internacionales",
+            "texas"
+        ],
+        "link": "https://2001online.com/internacionales/ofrecen-empleo-a-personas-que-hablen-espanol-por-50-la-hora-como-aplicar/",
+        "date": "2024-08-14 01:00:00",
+        "sentiment_score": 0.5523102842271328
+    },
+    {
+        "title": "Candidato a vicepresidente de Trump propone aumentar Crédito Tributario por Hijos a $5.000",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Vance-1280x720.jpg",
+        "tags": [
+            "eeuu",
+            "j:d: vance",
+            "internacionales",
+            "crédito tributario"
+        ],
+        "link": "https://2001online.com/internacionales/candidato-a-vicepresidente-de-trump-propone-aumentar-credito-tributario-por-hijos-a-5-000/",
+        "date": "2024-08-14 00:44:36",
+        "sentiment_score": 0.12004461884498596
     }
 ];
