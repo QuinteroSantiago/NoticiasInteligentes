@@ -1,177 +1,5 @@
 export default [
     {
-        "title": "El \"turismo marinero\" y el pescaturismo florecen en España con más negocios y viajeros",
-        "image_url": "./assets/ai_generated/v1_txt2img_4c0faee2fb2649199890a68059c91462.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/11/el-turismo-marinero-y-el-pescaturismo-florecen-en-espana-con-mas-negocios-y-viajeros/",
-        "date": "2024-08-11 06:31:23",
-        "sentiment_score": 0.3857191130518913
-    },
-    {
-        "title": "Saturación en urgencias: pacientes de 80 años sufren demoras de hasta 3 días para una cama",
-        "image_url": "./assets/ai_generated/v1_txt2img_e7169b874b8246d5b371571b6774061b.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/11/saturacion-en-urgencias-pacientes-de-80-anos-sufren-demoras-de-hasta-3-dias-para-una-cama/",
-        "date": "2024-08-11 06:31:10",
-        "sentiment_score": -0.7139534316956997
-    },
-    {
-        "title": "La Lámpara Minera viaja a Huelva con Jesús Corbacho y El Desplante de baile llega a Japón",
-        "image_url": "./assets/ai_generated/v1_txt2img_1ccf06a95d554179b0d146c0ba545046.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/11/la-lampara-minera-viaja-a-huelva-con-jesus-corbacho-y-el-desplante-de-baile-llega-a-japon/",
-        "date": "2024-08-11 06:30:54",
-        "sentiment_score": -0.013769268989562988
-    },
-    {
-        "title": "Control parental en verano: fácil y sin esperar a la nueva ley de protección de menores",
-        "image_url": "./assets/ai_generated/v1_txt2img_48e97b7131284694a5aa14653207c9b5.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/11/control-parental-en-verano-facil-y-sin-esperar-a-la-nueva-ley-de-proteccion-de-menores/",
-        "date": "2024-08-11 06:30:37",
-        "sentiment_score": 0.381564874202013
-    },
-    {
-        "title": "Efemérides del 12 de agosto",
-        "image_url": "./assets/ai_generated/v1_txt2img_15b0affd76604c4e9868d652a0d3f852.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/11/efemerides-del-12-de-agosto/",
-        "date": "2024-08-11 05:15:21",
-        "sentiment_score": -0.014113634824752808
-    },
-    {
-        "title": "Kamala Harris afirma que murieron \"demasiados civiles\" en Gaza y pide que el acuerdo de rehenes se haga \"ya\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Kamala-Harris-nominationVP-e1722921672219.jpeg?quality=100&strip=info",
-        "tags": [
-            "gaza",
-            "medio oriente",
-            "estados unidos noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/11/kamala-harris-demasiados-civiles-muertos-en-gaza-acuerdo-rehenes-ya-trax/",
-        "date": "2024-08-11 06:12:55",
-        "sentiment_score": -0.6925486400723457
-    },
-    {
-        "title": "Bielorrusia refuerza su poder militar en sus fronteras con Ucrania tras interceptar drones",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/photo-2024-07-08-11-37-19.webp",
-        "tags": [
-            "ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/11/bielorrusia-refuerza-poder-militar-fronteras-ucrania-drones-trax/",
-        "date": "2024-08-11 05:24:48",
-        "sentiment_score": -0.2886759117245674
-    },
-    {
-        "title": "El Real Madrid sin respuesta frente al gasto millonario de la Premier League en defensas centrales",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2022/09/03/2022090306012319858.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/pasividad-real-madrid-frente-gasto-millonario-centrales-premier-league/20240811081627315303.html",
-        "date": "2024-08-11 06:16:27",
-        "sentiment_score": 0.653791606426239
-    },
-    {
-        "title": "Efemérides: los acontecimientos más importantes del 11 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/7AIXWAJOBRBBBGALM7R67M7TKU.jpg?auth=47aced2d2a15641a46e12cd451ff5ab381e5bb6dea8938608125a5638559eb6c",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/noticias/2024/08/11/efemerides-los-acontecimientos-mas-importantes-del-11-de-agosto/",
-        "date": "2024-08-11 06:16:22",
-        "sentiment_score": 0.6589658185839653
-    },
-    {
-        "title": "El calor provocó ya 22 muertes en Vigo y provincia en agosto",
-        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/08/10/2024081019231867243.jpg",
-        "tags": [
-            "vigo"
-        ],
-        "link": "https://www.atlantico.net/articulo/vigo/calor-provoco-22-muertes-vigo-provincia-agosto/202408101924051045436.html",
-        "date": "2024-08-11 06:15:04",
-        "sentiment_score": -0.7147844061255455
-    },
-    {
-        "title": "Pintura, tarta, sopa... los ataques al arte en defensa del medio ambiente",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/06/14/dos-activistas-manchan-con-pintura-roja-un-cuadro-de-monet-en-estocolmo.r_d.487-541-0.jpeg",
-        "tags": [
-            "medio ambiente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5552652/0/pintura-tarta-sopa-harina-ataques-arte-defensa-medio-ambiente/",
-        "date": "2024-08-11 06:03:01",
-        "sentiment_score": 0.18083899468183517
-    },
-    {
-        "title": "Horarios y dónde ver los partidos de LaLiga por televisión",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/daf475d4-d866-4dd0-a4e0-37ac2e796b2e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2024/08/11/horarios-ver-partidos-laliga-television-106881349.html",
-        "date": "2024-08-11 06:00:42",
-        "sentiment_score": 0.5734030455350876
-    },
-    {
-        "title": "Los tres olímpicos no tendrán vacaciones y se entrenarán el lunes en Zubieta",
-        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/08/10/Turri%202--758x531.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/real-sociedad/tres-olimpicos-vacaciones-entrenaran-lunes-zubieta-20240811075650-nt.html",
-        "date": "2024-08-11 05:57:05",
-        "sentiment_score": -0.5254743602126837
-    },
-    {
-        "title": "'Vuelve Tivoli', en Ceuta: la historia del parque de atracciones",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1085779",
-        "date": "2024-08-11 06:30:34",
-        "sentiment_score": -0.005112141370773315
-    },
-    {
-        "title": "El parque canino más refrescante para disfrutar del verano está en España",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/08/este-es-el-parque-canino-mas-refrescante-para-este-verano-y-esta-en-espana.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/videos/cataluna/barcelona/5575496-parque-canino-mas-refrescante-para-disfrutar-verano-esta-espana/",
-        "date": "2024-08-11 06:28:44",
-        "sentiment_score": 0.8149927649646997
-    },
-    {
-        "title": "Lo que debes saber hoy, 11 de agosto, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/08/16/vivir-en-barcelona/695940400_9097021_1706x960.jpg?contentId=ESPIMA20220816_0001",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240811/lo-que-debes-saber-hoy-de-agosto-barcelona/877412251_0.html",
-        "date": "2024-08-11 06:11:06",
-        "sentiment_score": -0.8135993406176567
-    },
-    {
-        "title": "Ya ha llegado el día de Chris Hemsworth, ¿se la devolverá a Elsa Pataky?",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9d14c045-e8e9-492e-aefd-6627408be585_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/gente/2024/08/11/llegado-dia-chris-hemsworth-devolvera-felicitacion-elsa-pataky-8575726.html",
-        "date": "2024-08-11 06:00:19",
-        "sentiment_score": 0.4262249618768692
-    },
-    {
         "title": "Una argentina que vive en España flipa en el Mercadona: “Nos parece una locura lo barato que es”",
         "image_url": "https://www.infobae.com/resizer/v2/IAHTWUZTGRD73AL5GXWAYL3HBY.png?auth=ca89bb14994047fcc52aa2d90f9096cc92f7711b5fbaaaee66532927a8e14b89",
         "tags": [
@@ -364,29 +192,6 @@ export default [
         "sentiment_score": -0.5578396543860435
     },
     {
-        "title": "Mensajes de texto revelan conversaciones policiales tras el tiroteo en la escuela de Uvalde",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/uvalde.webp",
-        "tags": [
-            "tiroteo",
-            "tiroteos",
-            "uvalde",
-            "tragedia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/11/mensajes-texto-revelan-conversaciones-policiales-tras-tiroteo-escuela-de-uvalde-trax/",
-        "date": "2024-08-11 08:10:32",
-        "sentiment_score": -0.4875681735575199
-    },
-    {
-        "title": "Un padre y su hijo mueren en un ataque aéreo ruso contra Kyiv durante la noche, mientras Ucrania parece lograr avances en la región de Kursk",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/01/GettyImages-1883873657-e1704183514963.jpg?quality=100&strip=info",
-        "tags": [
-            "ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/11/padre-e-hijo-mueren-ataque-aereo-ruso-contra-kyiv-mientras-ucrania-parece-lograr-avances-kursk-trax/",
-        "date": "2024-08-11 07:48:38",
-        "sentiment_score": -0.7030310593545437
-    },
-    {
         "title": "Tabaco",
         "image_url": "./assets/ai_generated/v1_txt2img_8ec732e5599e4a7497ef41f70e27ef53.png",
         "tags": [
@@ -502,36 +307,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-08-11/de-madrid-al-cielo-por-4500-euros.html",
         "date": "2024-08-11 10:30:15",
         "sentiment_score": 0.4785274304449558
-    },
-    {
-        "title": "La policía de la Generalitat Valenciana interviene tres falsos ‘picassos’ en venta por 10 millones de euros",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IDSZHVNK2BCNHPQ6E52APJQM6M.jpg?auth=f75536b47fd0830bb15b7a6e7e7c3f6fbab14210c41f6865e13bad54c72df0c1",
-        "tags": [
-            "albacete",
-            "valencia",
-            "arte",
-            "falsificaciones",
-            "policía",
-            "detenciones",
-            "comunidad valenciana",
-            "falsificaciones arte"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-11/la-policia-de-la-generalitat-valenciana-interviene-tres-falsos-picassos-en-venta-por-10-millones-de-euros.html",
-        "date": "2024-08-11 10:15:12",
-        "sentiment_score": -0.0056887343525886536
-    },
-    {
-        "title": "Ferran Pedret sustituye a Illa como presidente del grupo socialista en el Parlament",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6WLDHCPCGUJ5LA57YPIQWXSGMM.jpg?auth=666e6153f25e16ce9711c413f492dbd5000b216d64cd6cd1e90284539c19f080",
-        "tags": [
-            "salvador illa",
-            "psc",
-            "parlament cataluña",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-11/ferran-pedret-sustituye-a-illa-como-presidente-del-grupo-socialista-en-el-parlament.html",
-        "date": "2024-08-11 10:10:30",
-        "sentiment_score": 0.07984314113855362
     },
     {
         "title": "Paula Echevarría, la reina del verano",
@@ -8122,5 +7897,635 @@ export default [
         "link": "https://2001online.com/zona3d/hogar/cucaracha-formulas-caseras-para-erradicar-su-presencia-en-el-hogar/",
         "date": "2024-08-14 15:38:31",
         "sentiment_score": -0.019560039043426514
+    },
+    {
+        "title": "La triangulación de China a EEUU desde México preocupa a empresas ante revisión del T-MEC",
+        "image_url": "./assets/ai_generated/v1_txt2img_b89912b149814b2190a51e57431c530e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/la-triangulacion-de-china-a-eeuu-desde-mexico-preocupa-a-empresas-ante-revision-del-t-mec/",
+        "date": "2024-08-14 21:48:42",
+        "sentiment_score": -0.35120002925395966
+    },
+    {
+        "title": "Hungría, Francia y Costa Rica, las últimas pruebas de la selección en España",
+        "image_url": "./assets/ai_generated/v1_txt2img_927729cc0c1046478bb5b50513b1edba.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/hungria-francia-y-costa-rica-las-ultimas-pruebas-de-la-seleccion-en-espana/",
+        "date": "2024-08-14 21:33:44",
+        "sentiment_score": -0.07652432098984718
+    },
+    {
+        "title": "La Comisión Ejecutiva Federal del PSOE muestra su \"total\" y \"contundente\" apoyo a Barbón",
+        "image_url": "./assets/ai_generated/v1_txt2img_ecfabf14f2b04650a5c52a0ba4700332.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/la-comision-ejecutiva-federal-del-psoe-muestra-su-total-y-contundente-apoyo-a-barbon/",
+        "date": "2024-08-14 21:32:57",
+        "sentiment_score": 0.4009401500225067
+    },
+    {
+        "title": "Dos orejas para Simón Andreu y herido Alejandro Chicharro",
+        "image_url": "./assets/ai_generated/v1_txt2img_0f5a8e546e4e47ef81772cce1bc9c3d9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/dos-orejas-para-simon-andreu-y-herido-alejandro-chicharro/",
+        "date": "2024-08-14 21:19:32",
+        "sentiment_score": -0.31422290205955505
+    },
+    {
+        "title": "Fernández (PP) no cree que Puigdemont vaya a desaparecer del tablero político y surja un sustituto \"más moderado\"",
+        "image_url": "https://www.infobae.com/resizer/v2/KPV4RJ73IZDZRNG6746XHHQNPU.jpg?auth=5316811c47b6ca4937caeafe397efc5accb3dcbc5cda94ecfa82b1091651684f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/fernandez-pp-no-cree-que-puigdemont-vaya-a-desaparecer-del-tablero-politico-y-surja-un-sustituto-mas-moderado/",
+        "date": "2024-08-14 20:18:38",
+        "sentiment_score": -0.7579093109816313
+    },
+    {
+        "title": "La inflación se desacelera en Argentina aunque aún no logra el 'número mágico'",
+        "image_url": "./assets/ai_generated/v1_txt2img_e63024c3cf3d400eabc2d7236d08435a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/la-inflacion-se-desacelera-en-argentina-aunque-aun-no-logra-el-numero-magico/",
+        "date": "2024-08-14 20:17:32",
+        "sentiment_score": -0.7291047871112823
+    },
+    {
+        "title": "4-1. La selección española recibe un toque de atención con su derrota en Marruecos",
+        "image_url": "./assets/ai_generated/v1_txt2img_a5fb212de6154d3ea4f1df52e2d8feff.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/4-1-la-seleccion-espanola-recibe-un-toque-de-atencion-con-su-derrota-en-marruecos/",
+        "date": "2024-08-14 20:17:15",
+        "sentiment_score": 0.13848558068275452
+    },
+    {
+        "title": "Qué tienes que pagar si te compras un coche de segunda mano",
+        "image_url": "https://www.infobae.com/resizer/v2/4KSM23WWBH25VLMJDJJOAMTYOU.jpg?auth=45dc300a0092b8ed1aa83a672793ea4a103bcafe20e3c21fd7c177f18862c8b2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/14/que-tienes-que-pagar-si-te-compras-un-coche-de-segunda-mano/",
+        "date": "2024-08-14 20:17:08",
+        "sentiment_score": 0.016938060522079468
+    },
+    {
+        "title": "Hospitalizada una niña de 5 años tras caer accidentalmente a una piscina en Orihuela",
+        "image_url": "./assets/ai_generated/v1_txt2img_0ffa1da3c43f4fa1b32f5d753815fa92.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/14/hospitalizada-una-nina-de-5-anos-tras-caer-accidentalmente-a-una-piscina-en-orihuela/",
+        "date": "2024-08-14 20:16:28",
+        "sentiment_score": -0.8389016464352608
+    },
+    {
+        "title": "Dos meses maniatada y sin acceso a agua: la mujer secuestrada en Salamanca había denunciado violencia de género",
+        "image_url": "https://www.infobae.com/resizer/v2/CILHY4KGUNCFTFQPRL6IT2MPUM.jpg?auth=ba93c1d4d7a65122b20a229622a3de15f900b8bcbc95b08978c55669376ca315",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/14/dos-meses-maniatada-y-sin-acceso-a-agua-la-mujer-secuestrada-en-salamanca-habia-denunciado-violencia-de-genero/",
+        "date": "2024-08-14 20:07:07",
+        "sentiment_score": -0.7643609214574099
+    },
+    {
+        "title": "Esto dice el informe preliminar sobre las elecciones en Venezuela que elaboró el panel de expertos de la ONU",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2006232370_f3289e-e1723671861250.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "instanoticias",
+            "onu",
+            "venezuela",
+            "elecciones venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/14/informe-elecciones-venezuela-expertos-onu-orix/",
+        "date": "2024-08-14 21:55:51",
+        "sentiment_score": -0.5289688743650913
+    },
+    {
+        "title": "Eliminar los impuestos a las propinas podría tener efecto bumerán",
+        "image_url": "./assets/ai_generated/v1_txt2img_45a1229345984599962cd44220aec0bd.png",
+        "tags": [
+            "eeuu",
+            "ee.uu.",
+            "propina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-campanas-trump-kamala-eliminar-propinas-taxes-cnn-dinero-tv/",
+        "date": "2024-08-14 21:48:00",
+        "sentiment_score": -0.2609996050596237
+    },
+    {
+        "title": "Estas son las noticias destacadas de la tarde del 14 de agosto en CNN en Español",
+        "image_url": "./assets/ai_generated/v1_txt2img_519967f871ef4bf5a9b3f553612f0cf4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-tarde-cnne-14-de-agosto-2024-dusa-tv-fast/",
+        "date": "2024-08-14 21:33:58",
+        "sentiment_score": 0.2578445225954056
+    },
+    {
+        "title": "El primer ministro de Japón anuncia que renunciará al cargo",
+        "image_url": "./assets/ai_generated/v1_txt2img_bbabae5790694730a7aa69b0d88509f6.png",
+        "tags": [
+            "japón",
+            "rusia ucrania",
+            "corea del norte",
+            "tailandia",
+            "mundo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-primer-ministro-japones-renuncia-ucrania-ataques-rusia/",
+        "date": "2024-08-14 21:27:55",
+        "sentiment_score": -0.845644960179925
+    },
+    {
+        "title": "Adultos mayores tienen problemas para vivir del seguro social",
+        "image_url": "./assets/ai_generated/v1_txt2img_d7f9b979277549e3911991d4a59a8edf.png",
+        "tags": [
+            "eeuu",
+            "seguridad social",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-adultos-mayores-sufren-inflacion-seguro-social-cnn-dinero-tv/",
+        "date": "2024-08-14 21:02:21",
+        "sentiment_score": -0.820774395018816
+    },
+    {
+        "title": "Big Lots está cerrando más de 300 tiendas por problemas financieros",
+        "image_url": "./assets/ai_generated/v1_txt2img_c68e9e72c36a4d9f9f0a6a7d234cba50.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-big-lots-tienda-minorita-cierra-tiendas-cnn-dinero-tv/",
+        "date": "2024-08-14 20:36:36",
+        "sentiment_score": -0.7881701039150357
+    },
+    {
+        "title": "Excandidato presidencial Enrique Márquez solicita al Tribunal Supremo de Justicia un conteo voto por voto de las elecciones de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/sequence-04-00-01-41-05-still036.jpg?quality=100&strip=info",
+        "tags": [
+            "enrique márquez",
+            "elecciones venezuela",
+            "venezuela",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/14/excandidato-presidencial-enrique-marquez-solicita-al-tribunal-supremo-de-justicia-un-conteo-voto-por-voto-de-las-elecciones-de-venezuela/",
+        "date": "2024-08-14 20:34:43",
+        "sentiment_score": -0.15773838013410568
+    },
+    {
+        "title": "Padre palestino tramitaba el certificado de nacimiento de sus bebés cuando recibió una trágica llamada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20866836-507304-911-still-20240814194827828.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/padre-palestino-gemelos-bebes-ataque-israeli-trax/",
+        "date": "2024-08-14 20:19:06",
+        "sentiment_score": -0.8829586282372475
+    },
+    {
+        "title": "Los continuos ataques de Trump a candidatura de Harris avivan el temor de que ponga en duda los resultados electorales si pierde en noviembre",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/ap24221692123488.jpg?quality=100&strip=info",
+        "tags": [
+            "política",
+            "elecciones ee.uu"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/14/ataques-trump-candidatura-harris-temor-elecciones-noviembre-trax/",
+        "date": "2024-08-14 20:16:59",
+        "sentiment_score": -0.6793896518647671
+    },
+    {
+        "title": "Grabaciones de una cámara corporal muestran incidente que dejó a un policía con una lesión cerebral",
+        "image_url": "./assets/ai_generated/v1_txt2img_8c293113381d4888907c41ee521c22f9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/camara-corporal-policia-lesion-ush-trax/",
+        "date": "2024-08-14 19:32:00",
+        "sentiment_score": -0.7670122189447284
+    },
+    {
+        "title": "El expresidente argentino Alberto Fernández, imputado por «lesiones» y «amenazas»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/14/alberto-fernandez-kDZD-U602957668970TKB-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/expresidente-argentino-alberto-fernandez-imputado-lesiones-amenazas-20240814222505-nt.html",
+        "date": "2024-08-14 20:27:11",
+        "sentiment_score": -0.6608238033950329
+    },
+    {
+        "title": "Investigadores españoles descubren un 'interruptor' que activa el deseo de hacer deporte",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/08/14/ciclismo-fotolia-RUQULqRDq0bmmmZqgRgzexN-758x531@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/investigadores-espanoles-descubren-interruptor-activa-deseo-deporte-20240814200000-nt.html",
+        "date": "2024-08-14 18:47:33",
+        "sentiment_score": -0.06375974416732788
+    },
+    {
+        "title": "El Dandi de Barcelona",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/15/Captura8-U86450866876sRG-1200x630@diario_abc.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-dandi-barcelona-20240815202337-nt.html",
+        "date": "2024-08-14 18:25:48",
+        "sentiment_score": -0.10399305820465088
+    },
+    {
+        "title": "El 'Sol de Usera'",
+        "image_url": "./assets/ai_generated/v1_txt2img_41036ecd2b4a4ebe911a360e52005d9a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alvaro-martinez-sol-usera-20240815200734-nt.html",
+        "date": "2024-08-14 18:14:54",
+        "sentiment_score": -0.055877476930618286
+    },
+    {
+        "title": "Cataluña. Hámster",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/15/1485040418-U64514336587wSp-1200x630@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-cataluna-hamster-20240815200154-nt.html",
+        "date": "2024-08-14 18:06:13",
+        "sentiment_score": -0.23434332013130188
+    },
+    {
+        "title": "Progreconservadores",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/15/1462032271-U70270076545bUx-1200x630@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-progreconservadores-20240815195508-nt.html",
+        "date": "2024-08-14 17:57:49",
+        "sentiment_score": -0.10331684350967407
+    },
+    {
+        "title": "Huellas de gaviotas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/15/aventura-2-1-U12615508643UGX-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alberto-garcia-reyes-huellas-gaviotas-20240815193728-nt.html",
+        "date": "2024-08-14 17:48:09",
+        "sentiment_score": -0.08183073997497559
+    },
+    {
+        "title": "Afganistán, vuelta a la barbarie",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/15/1485047152-U13303580145DpS-1200x630@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/afganistan-vuelta-barbarie-20240815192319-nt.html",
+        "date": "2024-08-14 17:34:23",
+        "sentiment_score": -0.1968541443347931
+    },
+    {
+        "title": "Genialidad y actualidad en santo Tomás",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/15/ABCTERCERA_StoTomasdeAquino_MARTINEZ(1)-RLSEksKev85trVTnE6I1mxM-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julio-l-martinez-genialidad-actualidad-santo-tomas-20240815192017-nt.html",
+        "date": "2024-08-14 17:21:43",
+        "sentiment_score": 0.02525576949119568
+    },
+    {
+        "title": "No vengan a Sanlúcar",
+        "image_url": "./assets/ai_generated/v1_txt2img_055ae324ed4541d1bdbb39a1a5374074.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-vengan-sanlucar-20240815185322-nts.html",
+        "date": "2024-08-14 17:15:13",
+        "sentiment_score": -0.06661131978034973
+    },
+    {
+        "title": "Apuñalado el padre de Lamine Yamal en Mataró",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6SPZFU5KFBGKHIJ2IN5TYRDVRI.jpg?auth=a805751d44050bc0cd64799e7e0e5beda876078f59b9e4da4c3e08624e8674ee",
+        "tags": [
+            "mataró",
+            "fc barcelona",
+            "sucesos",
+            "mossos d'esquadra",
+            "lamine yamal",
+            "cataluña",
+            "fútbol",
+            "badalona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-08-14/apunalado-el-padre-de-lamine-yamal-en-mataro.html",
+        "date": "2024-08-14 21:30:47",
+        "sentiment_score": -0.8065796783193946
+    },
+    {
+        "title": "La Fiscalía polaca presenta acusación formal contra Pablo González por supuesto espionaje",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y2MVPZRKWVC6RDCKUA57HGVGOA.jpg?auth=d6834129ee6133045e489f227964d89cf425d42ab40430514a7bcc1ef0d9e48e",
+        "tags": [
+            "vladimir putin",
+            "españa",
+            "polonia",
+            "periodistas",
+            "rusia",
+            "espionaje",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://elpais.com/espana/2024-08-14/la-fiscalia-polaca-presenta-acusacion-formal-contra-pablo-gonzalez-por-supuesto-espionaje.html",
+        "date": "2024-08-14 17:59:27",
+        "sentiment_score": -0.6980715338140726
+    },
+    {
+        "title": "Un pregón lleno de emotivos recuerdos",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/08/15/IMG_7418-RTgCCeNRSIMMQcMwC71SGLI-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/provincia/pregon-lleno-emotivos-recuerdos-20240814202433-ga.html",
+        "date": "2024-08-14 22:14:04",
+        "sentiment_score": 0.5983148962259293
+    },
+    {
+        "title": "¿Qué dice la prensa sobre el intento de homicidio que sufrió el padre de Lamine Yamal?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/03/27/2024032706432456679.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/que-dice-prensa-intento-homicidio-que-sufrio-padre-lamine-yamal/20240815000646315625.html",
+        "date": "2024-08-14 22:06:46",
+        "sentiment_score": -0.8726638788357377
+    },
+    {
+        "title": "Patrimonio Nacional no se va de puente y abrirá todos los Reales Sitios",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/08/14/2024081417400931319.jpg",
+        "tags": [
+            "el confidente de la corte"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/el_confidente_de_la_corte/patrimonio-nacional-va-puente-abrira-todos-reales-sitios/20240815000000127954.html",
+        "date": "2024-08-14 22:00:00",
+        "sentiment_score": 0.0038629770278930664
+    },
+    {
+        "title": "Roà de contrastes: del velatorio a la Maredéu a la fiesta en las calles",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2e8e96c9-dc31-49e2-9422-ccc5a39d6ecd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/elche/2024/08/14/roa-contrastes-velatorio-maredeu-fiesta-107010397.html",
+        "date": "2024-08-14 21:54:52",
+        "sentiment_score": -0.11639638245105743
+    },
+    {
+        "title": "Ancelotti armoniza el juego y el ego de los 'Tres Mosqueteros' del Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2e368a99-c016-4c5f-9096-31ba4074e872_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/deportes/2024/08/14/ancelotti-armoniza-juego-ego-tres-107011059.html",
+        "date": "2024-08-14 21:50:18",
+        "sentiment_score": -0.20488999783992767
+    },
+    {
+        "title": "Katy Perry, el fantasma de una estrella que lucha por sobrevivir cuando todo sale mal",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/katy-perry.png",
+        "tags": [
+            "música",
+            "gente"
+        ],
+        "link": "https://www.elindependiente.com/gente/2024/08/15/katy-perry-estrella-pasado-siempre-mejor/",
+        "date": "2024-08-14 22:05:28",
+        "sentiment_score": -0.7722328919917345
+    },
+    {
+        "title": "Conmoción en España, apuñalaron al papá del futbolista Lamine Yamal, su estado es «grave»",
+        "image_url": "https://www.caraotadigital.net/wp-content/uploads/2024/08/Lamine-Papa-CD.jpg",
+        "tags": [
+            "mounir nasraoui",
+            "españa",
+            "lamine yamal",
+            "barcelona",
+            "deportes",
+            "apuñalado"
+        ],
+        "link": "https://www.caraotadigital.net/deportes/conmocion-en-espana-apunalaron-al-papa-del-futbolista-lamine-yamal-su-estado-es-grave/",
+        "date": "2024-08-14 22:03:00",
+        "sentiment_score": -0.5995859652757645
+    },
+    {
+        "title": "Barcelona Activa destinará 2,6 millones a proyectos para impulsar la economía de los barrios",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/15/business/878422150_13341728_1706x960.jpg?contentId=ESPIMA20240815_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240815/barcelona-activa-destinara-millones-proyectos-impulsar-economia/878162292_0.html",
+        "date": "2024-08-14 22:01:59",
+        "sentiment_score": 0.030429378151893616
+    },
+    {
+        "title": "La empresa de seguridad de La Mercè emplea a trabajadores con causas por homicidio",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/14/vida/878172255_13341050_1706x960.jpg?contentId=ESPIMA20240814_0081",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20240815/la-empresa-de-seguridad-merce-trabajadores-homicidio/878162212_0.html",
+        "date": "2024-08-14 22:00:00",
+        "sentiment_score": -0.8046453632414341
+    },
+    {
+        "title": "Sánchez no ha pedido “perdón” por haber apoyado el 155 en Cataluña como le exigió Puigdemont",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/08/14/2024081414124061976.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/politica/sanchez-ha-pedido-perdon-haber-apoyado-155-cataluna-como-exigio-puigdemont/20240815000000829321.html",
+        "date": "2024-08-14 22:00:00",
+        "sentiment_score": -0.3834693282842636
+    },
+    {
+        "title": "Tres detenidos por el apuñalamiento al padre de Lamine Yamal",
+        "image_url": "https://www.elplural.com/uploads/s1/15/94/25/2/el-padre-de-yamal-la-promesa-del-barca-tuvo-un-enfrentamiento-con-militantes-de-vox_7_480x270.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.elplural.com/sociedad/tres-detenidos-apunalamiento-padre-lamine-yamal_335443102",
+        "date": "2024-08-14 21:58:00",
+        "sentiment_score": -0.13435626029968262
+    },
+    {
+        "title": "Carlo Ancelotti y Luka Modric, entrenador y jugador más laureados de la historia del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/5I4IA6ULM5APPEAXI2RCIYPY64.jpg?auth=5e11810f3e9dd00c58d5f83fae322226c48b7dbddf25bc751438fc85547d40ce",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/14/carlo-ancelotti-y-luka-modric-entrenador-y-jugador-mas-laureados-de-la-historia-del-real-madrid/",
+        "date": "2024-08-14 21:47:24",
+        "sentiment_score": 0.4841585233807564
+    },
+    {
+        "title": "Intentaron asesinar al padre del jugador del Barcelona Lamine Yamal",
+        "image_url": "./assets/ai_generated/v1_txt2img_4dc7e3d7180c4a14b448e46509b7fdee.png",
+        "tags": [
+            "deportes",
+            "lamine yamal",
+            "barcelona",
+            "fútbol"
+        ],
+        "link": "https://www.elnacional.com/deportes/intentaron-asesinar-al-padre-del-jugador-del-barcelona-lamine-yamal/",
+        "date": "2024-08-14 21:44:06",
+        "sentiment_score": -0.8530804561451077
+    },
+    {
+        "title": "Un dispositivo cerebral permite a un paciente con ELA volver a 'hablar': \"Ha sido muy emocionante\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a7cf25eb-421e-47e5-bce6-eb72abbd1c32_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/sociedad/2024/08/14/dispositivo-cerebral-permite-paciente-ela-107010815.html",
+        "date": "2024-08-14 21:36:48",
+        "sentiment_score": -0.8337482511997223
+    },
+    {
+        "title": "Hombre intentó envenenar a su bebé con gasolina (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/images-34.jpeg",
+        "tags": [
+            "texas",
+            "le dio gasolina asu bebé",
+            "sucesos",
+            "bebé",
+            "eeuu",
+            "gadolina"
+        ],
+        "link": "https://2001online.com/sucesos/hombre-intento-envenenar-a-su-bebe-con-gasolina-detalles/",
+        "date": "2024-08-14 21:08:53",
+        "sentiment_score": -0.7496889475733042
+    },
+    {
+        "title": "Ministra de Ciencia y Tecnología aclara qué pasará con Netflix y Disney en Venezuela",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Netflix-Disnet.jpg",
+        "tags": [
+            "netflix",
+            "nacionales",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/ministra-de-ciencia-y-tecnologia-aclara-que-pasara-con-netflix-y-disney-en-venezuela/",
+        "date": "2024-08-14 21:00:00",
+        "sentiment_score": -0.1976741999387741
+    },
+    {
+        "title": "Colombia prepara medidas ante emergencia internacional por la viruela del mono",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Viruela-del-mono.jpg",
+        "tags": [
+            "colombia",
+            "viruela del mono",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/colombia-prepara-medidas-ante-emergencia-internacional-por-la-viruela-del-mono/",
+        "date": "2024-08-14 21:00:00",
+        "sentiment_score": 0.08263160288333893
+    },
+    {
+        "title": "¿Cuánto cuesta una casa en las ciudades más baratas de Arizona? (+Lista)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/ciudades-baratas-arizona.jpg",
+        "tags": [
+            "arizona",
+            "eeuu",
+            "internacionales",
+            "las ciudades más baratas"
+        ],
+        "link": "https://2001online.com/internacionales/cuanto-cuesta-una-casa-en-las-ciudades-mas-baratas-de-arizona-lista/",
+        "date": "2024-08-14 20:46:22",
+        "sentiment_score": 0.19882027059793472
+    },
+    {
+        "title": "EEUU: ¿Qué ocurre con el pago del Seguro Social si es llevado a la cárcel?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/Seguro-Social.jpg",
+        "tags": [
+            "eeuu",
+            "internacionales",
+            "seguro social"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-que-ocurre-con-el-pago-del-seguro-social-si-es-llevado-a-la-carcel/",
+        "date": "2024-08-14 20:30:00",
+        "sentiment_score": -0.17301388829946518
+    },
+    {
+        "title": "EEUU | ¿Problemas para pagar la renta? Esto le puede interesar",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/dinero-efectivo-generico01.webp",
+        "tags": [
+            "2001online",
+            "eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-problemas-para-pagar-la-renta-esto-le-puede-interesar/",
+        "date": "2024-08-14 20:26:50",
+        "sentiment_score": -0.07168750464916229
+    },
+    {
+        "title": "Torta de arequipe: Paso a paso para prepararla fácilmente",
+        "image_url": "./assets/ai_generated/v1_txt2img_75c3dbd4ac0c482a80fc71a354d0b73e.png",
+        "tags": [
+            "postre",
+            "gastronomía",
+            "torta",
+            "torta de arequipe"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/torta-de-arequipe-paso-a-paso-para-prepararla-facilmente/",
+        "date": "2024-08-14 20:17:07",
+        "sentiment_score": 0.08505207300186157
+    },
+    {
+        "title": "California y Carolina del Sur podrían limitar uso de celulares en escuelas: Esto se sabe",
+        "image_url": "https://2001online.com/wp-content/uploads/2020/12/dplnews_celulares_mc070320.jpg",
+        "tags": [
+            "internacionales",
+            "eeuu",
+            "california y carolina del sur podrían limitar uso de celulares en escuelas: esto se sabe"
+        ],
+        "link": "https://2001online.com/internacionales/california-y-carolina-del-sur-podrian-limitar-uso-de-celulares-en-escuelas-esto-se-sabe/",
+        "date": "2024-08-14 20:12:07",
+        "sentiment_score": -0.266697496175766
+    },
+    {
+        "title": "Ronaldo cerca de conquistar un nuevo título en Arabia",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/04/cristiano-ronaldo-al-nassr-2023-1692731063-114594.jpg",
+        "tags": [
+            "ronaldo cerca de conquistar un nuevo título en arabia",
+            "deportes"
+        ],
+        "link": "https://2001online.com/deportes/ronaldo-cerca-de-conquistar-un-nuevo-titulo-en-arabia/",
+        "date": "2024-08-14 20:03:00",
+        "sentiment_score": 0.5255691632628441
+    },
+    {
+        "title": "Angélica Jaramillo confiesa su adicción a sustancias ilícitas (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Foto-cortesia-15.jpg",
+        "tags": [
+            "angélica jaramillo",
+            "farándula colombiana",
+            "laura jaramillo",
+            "estados unidos",
+            "protagonistas de novela",
+            "sofía jaramillo",
+            "venezuela",
+            "adicción",
+            "farándula",
+            "en el chisme",
+            "colombia"
+        ],
+        "link": "https://2001online.com/farandula/angelica-jaramillo-confiesa-su-adiccion-a-sustancias-ilicitas-video/",
+        "date": "2024-08-14 19:59:08",
+        "sentiment_score": -0.3641517087817192
     }
 ];
