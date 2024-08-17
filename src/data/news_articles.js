@@ -202,18 +202,6 @@ export default [
         "sentiment_score": -0.07935131713747978
     },
     {
-        "title": "¿Qué propone la ley “antifascista” que impulsa el Gobierno de Venezuela? Cárcel, inhabilitación política y disolución de organizaciones y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/GettyImages-2105334077.jpg?quality=100&strip=info",
-        "tags": [
-            "nicolás maduro",
-            "elecciones en venezuela",
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/13/que-es-la-ley-antifascista-venezuela-orix/",
-        "date": "2024-08-13 13:30:13",
-        "sentiment_score": -0.7457807119935751
-    },
-    {
         "title": "Grifols se desploma en Bolsa tras el anuncio de una demanda colectiva en EE.UU.",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/13/grifols-sede-RTEscisSSaB7kno9iEJJa6M-758x531@diario_abc.jpg",
         "tags": [
@@ -294,30 +282,6 @@ export default [
         "sentiment_score": -0.17346563935279846
     },
     {
-        "title": "Trump, sin freno: Sacude a Kamala y a la Unión Europea y recalca sus buenas relaciones con Putin y Kim Jong-Un",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/13/drompfttelefonos-Rmbg6i7ktPaHRfZPUxQbESI-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-presenta-nuevo-plataforma-politica-conversacion-vivo-20240813132122-nt.html",
-        "date": "2024-08-13 13:53:40",
-        "sentiment_score": -0.12774412333965302
-    },
-    {
-        "title": "Mueren dos toros por golpe de calor en unos festejos en Valencia",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/8e/media_thumb-link-3968595.webp",
-        "tags": [
-            "actualidad",
-            "valencia",
-            "golpe de calor",
-            "el puig",
-            "toros"
-        ],
-        "link": "https://www.meneame.net/story/mueren-dos-toros-golpe-calor-unos-festejos-valencia",
-        "date": "2024-08-13 13:00:03",
-        "sentiment_score": -0.5912376996129751
-    },
-    {
         "title": "Dos fallecidos por golpes de calor en Madrid en las últimas 24 horas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/FXYGLF2C5L6TEDBRG3IZPJZU74.jpg?auth=277716c823e6eaa029dd59bc305120d574a30d8599c436d4d2dc596272d4bac4",
         "tags": [
@@ -363,125 +327,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-13/el-ayuntamiento-de-sevilla-cortara-el-agua-a-unos-5000-pisos-turisticos-irregulares.html",
         "date": "2024-08-13 15:15:46",
         "sentiment_score": -0.17449750006198883
-    },
-    {
-        "title": "Albares “valora y aprecia” la labor de Zapatero en Venezuela frente a las críticas del PP",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SFBXO2NJ532WYKUYGFAOOHCM7Y.jpg?auth=6d078b0c61931e95d2e252590260ae7971b6ae1afb56453037c775586dbc8c83",
-        "tags": [
-            "edmundo gonzález",
-            "españa",
-            "elecciones venezuela",
-            "venezuela",
-            "nicolás maduro",
-            "pp",
-            "josé luis rodríguez zapatero",
-            "josé manuel albares"
-        ],
-        "link": "https://elpais.com/espana/2024-08-13/albares-valora-y-aprecia-la-labor-de-zapatero-en-venezuela-frente-a-las-criticas-del-pp.html",
-        "date": "2024-08-13 13:48:04",
-        "sentiment_score": 0.31739790737628937
-    },
-    {
-        "title": "Dos pueblos del norte de Alicante destinan 100.000 euros para la compra de garrafas y cubas de agua ante la sequía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XVIZJ63DZ2UHPVUQAXCLTUM2RU.jpg?auth=ca196c68e469b37b9852104c863ee26105506b0c373ef7ac68db66b6e1b68490",
-        "tags": [
-            "castellón",
-            "valencia",
-            "alicante",
-            "ganadería",
-            "comunidad valenciana",
-            "agua embotellada",
-            "sequía",
-            "agua"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-13/dos-pueblos-del-norte-de-alicante-destinan-100000-euros-para-la-compra-de-garrafas-y-cubas-de-agua-ante-la-sequia.html",
-        "date": "2024-08-13 13:05:59",
-        "sentiment_score": -0.37300997972488403
-    },
-    {
-        "title": "Illa se estrena con un acto de apoyo a los Mossos tras el fiasco de Puigdemont",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZOSPK2B3UFGTNNA6PYYYHNVBPM.jpg?auth=e3b46b266a56a1e2fd3342214d21ca52924c366e9553b7301696c614c11230cd",
-        "tags": [
-            "cataluña",
-            "psc",
-            "salvador illa",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-13/illa-se-estrena-con-un-acto-de-apoyo-a-los-mossos-tras-el-fiasco-de-puigdemont.html",
-        "date": "2024-08-13 13:02:24",
-        "sentiment_score": 0.08545184135437012
-    },
-    {
-        "title": "Barcelona prorroga la prohibición de las ‘rutas de borrachera’ en Ciutat Vella",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SRFA7NW7LZCMRIBF42Y7TJRHFQ.jpg?auth=5657c45d78c97f5231728f6a267f8fbe39deaad5da1afa0736efa9181147787c&width=1200",
-        "tags": [
-            "ayuntamiento barcelona",
-            "turismo barato",
-            "cataluña",
-            "turismo",
-            "mossos d'esquadra",
-            "albert batlle i bastardas",
-            "barcelona",
-            "alcoholismo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-13/barcelona-prorroga-la-prohibicion-de-las-rutas-de-borrachera-en-ciutat-vella.html",
-        "date": "2024-08-13 12:37:53",
-        "sentiment_score": -0.6394969783723354
-    },
-    {
-        "title": "Todos los ojos en la búsqueda de los cuerpos de 451 brigadistas en la primera fosa en Madrid tras la Guerra Civil",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YAA6NPM46RCGNKMKGU5KGOTSRE.jpg?auth=cc224845921c5572171e3edb2e1f27b12ef1f36e2f5d8b8700c9885e81e9ba0b",
-        "tags": [
-            "memoria histórica",
-            "comunidad de madrid",
-            "fosas comunes",
-            "ayuntamiento madrid",
-            "madrid",
-            "ley memoria democrática",
-            "memoria",
-            "guerra civil",
-            "brigadas internacionales"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-08-13/todos-los-ojos-en-la-busqueda-de-los-cuerpos-de-451-brigadistas-en-la-primera-fosa-en-madrid-tras-la-guerra-civil.html",
-        "date": "2024-08-13 11:32:55",
-        "sentiment_score": 0.1621425822377205
-    },
-    {
-        "title": "Aragonès formaliza la creación de su oficina de expresidente y se rodea de su equipo de confianza",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/32OJ2XCRZNCV5AEH3BOB6RJ64E.jpg?auth=416dcefb196b085c793ef95e5ac6d0dfc0f2fedaabb3b755fcc1bdc9cd1890e6",
-        "tags": [
-            "campañas electorales",
-            "gobierno autonómico",
-            "independentismo",
-            "govern cataluña",
-            "elecciones",
-            "elecciones catalanas",
-            "programas electorales",
-            "generalitat cataluña",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/elecciones-catalanas/2024-08-13/aragones-formaliza-la-creacion-de-su-oficina-de-expresidente-y-se-rodea-de-su-equipo-de-confianza.html",
-        "date": "2024-08-13 11:10:59",
-        "sentiment_score": 0.0643584281206131
-    },
-    {
-        "title": "Interior asegura al juez Llarena que los Mossos rechazaron su colaboración para detener a Puigdemont",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4GGHWBTTABBW5MJNBZFMQAGAII.jpg?auth=df646ba60d66cb6623966b2a6f0c6bf05acc3f1e8660f2459ca2f4f274e103b9",
-        "tags": [
-            "pablo llarena",
-            "parlament cataluña",
-            "generalitat cataluña",
-            "policía",
-            "juntsxcat",
-            "mossos d'esquadra",
-            "ministerio del interior",
-            "españa",
-            "tribunal supremo",
-            "carles puigdemont"
-        ],
-        "link": "https://elpais.com/espana/2024-08-13/interior-asegura-al-juez-llarena-que-los-mossos-rechazaron-su-colaboracion-para-detener-a-puigdemont.html",
-        "date": "2024-08-13 10:27:17",
-        "sentiment_score": -0.553035220131278
     },
     {
         "title": "El brasileño Endrick eligió a un campeón del mundo de 1966 como su ídolo: la respuesta que hizo estallar las redes y la pregunta que generó",
@@ -737,38 +582,6 @@ export default [
         "link": "https://2001online.com/zona3d/belleza/pomegranate-makeup-la-nueva-tendencia-en-belleza/",
         "date": "2024-08-13 15:30:00",
         "sentiment_score": 0.5832197964191437
-    },
-    {
-        "title": "Tormenta Tropical Ernesto en Venezuela: Esto dice el Inameh (+Detalles)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/1000058191-758x1024.jpg",
-        "tags": [
-            "nacionales"
-        ],
-        "link": "https://2001online.com/nacionales/tormenta-tropical-ernesto-en-venezuela-esto-dice-el-inameh-detalles/",
-        "date": "2024-08-13 13:33:10",
-        "sentiment_score": -0.1181059181690216
-    },
-    {
-        "title": "Muere integrante de la orquesta Los Melódicos (+Detalles)",
-        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-198.png",
-        "tags": [
-            "entretenimiento",
-            "farandulavenezolana",
-            "losmelodicos",
-            "en el chisme",
-            "omarcaraotaferrer",
-            "nacionales",
-            "venezuela",
-            "internacionales",
-            "muerte",
-            "13deagostode2024",
-            "farándula",
-            "2001online",
-            "eeuu"
-        ],
-        "link": "https://2001online.com/farandula/muere-integrante-de-la-orquesta-los-melodicos-detalles/",
-        "date": "2024-08-13 13:07:16",
-        "sentiment_score": -0.8859731890261173
     },
     {
         "title": "Agencia fronteriza de EEUU pagará 40,9 millones de euros por excluir empleadas embarazadas",
@@ -9390,5 +9203,580 @@ export default [
         "link": "https://2001online.com/nacionales/difunden-imagenes-del-proceso-de-peritaje-del-material-electoral-consignado-al-tsj/",
         "date": "2024-08-16 20:57:07",
         "sentiment_score": -0.04266606271266937
+    },
+    {
+        "title": "Clima en Madrid: cuál será la temperatura máxima y mínima este 17 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/DFMKC5PTTNEYVP57YNPHYQ44MU.jpg?auth=9b356a1faa01b25f42358c7b76f73741fe6b5c74323ef01064e2f439a95a0a02",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/17/clima-en-madrid-cual-sera-la-temperatura-maxima-y-minima-este-17-de-agosto/",
+        "date": "2024-08-17 01:32:43",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Top de películas imprescindibles para ver HOY en Disney+ España",
+        "image_url": "https://www.infobae.com/resizer/v2/5MQT6PNKMRBVBO63RTR6YLNNZ4.jpg?auth=b3b8b636a781b78cb72b988674823a101368cb08fa817fca664a6ab103af913d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/17/top-de-peliculas-imprescindibles-para-ver-hoy-en-disney-espana/",
+        "date": "2024-08-17 01:32:01",
+        "sentiment_score": 0.5946182683110237
+    },
+    {
+        "title": "La película más reproducida en Netflix España HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/JKE525AIUJG7ZE27NHO6ELGNFA.jpg?auth=6d31439f3d946b3723a9851ef96ca1ec384351eb83e520dc95af362c246cad39",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/17/la-pelicula-mas-reproducida-en-netflix-espana-hoy/",
+        "date": "2024-08-17 01:31:39",
+        "sentiment_score": 0.5289311408996582
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Barcelona este 17 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/ICTZWF57EBATPMZHOV3N3KPCAM.jpg?auth=b401fa13ee7cf1bc72ed16c30c9b40f72f7f7a3c5e32065d28600ede5a504aaa",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/17/clima-hoy-en-espana-temperaturas-para-barcelona-este-17-de-agosto/",
+        "date": "2024-08-17 01:01:00",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Gossos hace revivir al público de Cap Roig los éxitos de su carrera",
+        "image_url": "./assets/ai_generated/v1_txt2img_69c495bcb6a54a95aa294549a1f9789a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/16/gossos-hace-revivir-al-publico-de-cap-roig-los-exitos-de-su-carrera/",
+        "date": "2024-08-16 23:31:46",
+        "sentiment_score": 0.8507083375006914
+    },
+    {
+        "title": "Luis Carrión consideró \"justo\" el empate y lamentó no haberse adelantado tras el descanso",
+        "image_url": "./assets/ai_generated/v1_txt2img_7c99614d2a2c4137b04107b8c23cad9c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/16/luis-carrion-considero-justo-el-empate-y-lamento-no-haberse-adelantado-tras-el-descanso/",
+        "date": "2024-08-16 23:16:54",
+        "sentiment_score": -0.6442509368062019
+    },
+    {
+        "title": "Pimienta: \"Ha sido una pena, tenemos que ser más consistentes en defensa\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_e6728d3f77d84fe3a4a13f93a1a179d8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/16/pimienta-ha-sido-una-pena-tenemos-que-ser-mas-consistentes-en-defensa/",
+        "date": "2024-08-16 23:02:32",
+        "sentiment_score": -0.8992905262857676
+    },
+    {
+        "title": "El globo de Betanzos recupera el vuelo tras 'inspirar' París 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_8140142363fa49f1ac51592435628e09.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/16/el-globo-de-betanzos-recupera-el-vuelo-tras-inspirar-paris-2024/",
+        "date": "2024-08-16 23:01:50",
+        "sentiment_score": 0.46412207931280136
+    },
+    {
+        "title": "La Fiscalía archiva las diligencias abiertas al Ayuntamiento de Santander por no cambiar nombres de calles franquistas",
+        "image_url": "https://www.infobae.com/resizer/v2/EPEDTFIXXRAYXDYPFRVPECZGOI.jpg?auth=cf7b091f6960056a74955bf0031ce83954240c0937b2b2ab0bf8a923b986a9d3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/16/la-fiscalia-archiva-las-diligencias-abiertas-al-ayuntamiento-de-santander-por-no-cambiar-nombres-de-calles-franquistas/",
+        "date": "2024-08-16 22:33:24",
+        "sentiment_score": -0.8415540363639593
+    },
+    {
+        "title": "Un muerto y tres heridos en un accidente de tráfico en Villar del Buey (Zamora)",
+        "image_url": "./assets/ai_generated/v1_txt2img_0f9fc6d9af3949e19b3cd9951c9e9ffd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/16/un-muerto-y-tres-heridos-en-un-accidente-de-trafico-en-villar-del-buey-zamora/",
+        "date": "2024-08-16 22:32:58",
+        "sentiment_score": -0.8035641573369503
+    },
+    {
+        "title": "¿Cómo podría fallar el TSJ en Venezuela? Esto dice el abogado constitucionalista José Vicente Haro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2165735240.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "crisis venezuela",
+            "elecciones venezuela",
+            "venezuela",
+            "tribunal supremo de justicia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-tsj-elecciones-votos-opositores-regimen-maduro-conclusiones-tv/",
+        "date": "2024-08-17 02:06:40",
+        "sentiment_score": -0.1154598593711853
+    },
+    {
+        "title": "Lula da Silva dice que el Gobierno de Maduro en Venezuela es un régimen con un \"sesgo autoritario\", pero \"no es una dictadura\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/lula-venezuela-e1723859255762.jpg?quality=100&strip=info",
+        "tags": [
+            "brasil",
+            "nicolás maduro",
+            "crisis en venezuela",
+            "luiz inacio lula da silva"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/16/lula-da-silva-gobierno-maduro-venezuela-regimen-desagradable-sesgo-autoritario-orix/",
+        "date": "2024-08-17 01:57:32",
+        "sentiment_score": -0.8517747018486261
+    },
+    {
+        "title": "De aeropuerto, a parque ecológico: cómo AMLO reinventó el Lago de Texcoco",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/dsc-6170-1.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/parque-ecologico-lago-texcoco-valle-de-mexico-orix/",
+        "date": "2024-08-17 01:51:09",
+        "sentiment_score": -0.18493184447288513
+    },
+    {
+        "title": "Hallan en condiciones \"asombrosas\" restos de un buque de la Primera Guerra Mundial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/buque-primera-guerra.jpg?quality=100&strip=info",
+        "tags": [
+            "buque de guerra",
+            "primera guerra mundial",
+            "hallazgos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/16/buque-primera-guerra-mundial-trax/",
+        "date": "2024-08-17 01:42:33",
+        "sentiment_score": -0.5365993529558182
+    },
+    {
+        "title": "La fuerza del tifón Ampil equivale a la de un huracán categoría 3",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2166248307_37b7bc.jpg?quality=100&strip=info",
+        "tags": [
+            "clima",
+            "japón"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tifon-ampil-japon-lluvias-clima-panorama-mundial-tv/",
+        "date": "2024-08-17 01:26:56",
+        "sentiment_score": -0.4104289710521698
+    },
+    {
+        "title": "CNN, testigo del cruce de la frontera rusa por parte de las fuerzas ucranianas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20876877-16310-922999999999-still.jpg?quality=100&strip=info",
+        "tags": [
+            "ucrania",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cnn-nick-paton-walsh-ejercito-ucrania-cruza-frontera-rusa-panorama-mundial-tv/",
+        "date": "2024-08-17 01:18:37",
+        "sentiment_score": -0.17217259109020233
+    },
+    {
+        "title": "EE.UU. observa de cerca cómo las fuerzas ucranianas avanzan hacia Rusia con armas estadounidenses",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/curania-rusia-kursk.jpg?quality=100&strip=info",
+        "tags": [
+            "ucrania",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/16/ee-uu-ucrania-avanza-rusia-armas-trax/",
+        "date": "2024-08-17 01:12:47",
+        "sentiment_score": -0.12761810421943665
+    },
+    {
+        "title": "El sindicato de la prensa de Venezuela investiga denuncias de despidos en medios estatales tras elecciones presidenciales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2163245831-2-e1723855423100.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela",
+            "prensa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/16/sindicato-prensa-venezuela-denuncias-despidos-medios-estatales-elecciones-orix/",
+        "date": "2024-08-17 00:50:44",
+        "sentiment_score": -0.6610679067671299
+    },
+    {
+        "title": "CNN verifica: 5 falsedades sobre inmigración que Trump insiste en repetir",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2154639323.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/16/5-mentiras-trump-inmigracion-verifica-orix/",
+        "date": "2024-08-17 00:15:24",
+        "sentiment_score": -0.8560128826647997
+    },
+    {
+        "title": "Miles de evacuados en Japón por el tifón Ampil",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2166248307.jpg?quality=100&strip=info",
+        "tags": [
+            "panda gigante",
+            "japón",
+            "hong kong",
+            "tifones",
+            "fast – news variety",
+            "xpress",
+            "protestas",
+            "tailandia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-evacuaciones-japon-tifon-ampil/",
+        "date": "2024-08-16 23:57:05",
+        "sentiment_score": -0.8965653823688626
+    },
+    {
+        "title": "Eduardo Lucena y el 175 aniversario de su nacimiento",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/08/16/66bf80a9adb5b.r_d.872-763-6652.jpeg",
+        "tags": [
+            "córdoba - cultura"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/cultura/20240817/eduardo-lucena-175-aniversario-nacimiento_220688.html",
+        "date": "2024-08-17 02:10:00",
+        "sentiment_score": -0.02178090810775757
+    },
+    {
+        "title": "¿Del Bernabéu a las pasarelas? Una de las estrellas del Madrid se convierte en referente de Louis Vuitton",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/17/2024081703445140014.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/bernabeu-pasarelas-estrellas-madrid-convierte-referente-louis-vuitton/20240817033837315744.html",
+        "date": "2024-08-17 01:38:37",
+        "sentiment_score": 0.6806145515292883
+    },
+    {
+        "title": "Tras ser criticado, técnico colombiano se comparó con el entrenador del Real Madrid: “Ancelotti es un huevón al lado mío”",
+        "image_url": "https://www.infobae.com/resizer/v2/ABLVCZUM4NFGJMFVTPREOEY6NU.png?auth=887fb48e282fbf0209380f1ffdd2e130249c54a7c066332b7b510e803b91d7f6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/17/tras-ser-criticado-tecnico-colombiano-se-comparo-con-el-entrenador-del-real-madrid-ancelotti-es-un-huevon-al-lado-mio/",
+        "date": "2024-08-17 00:51:59",
+        "sentiment_score": -0.6349689215421677
+    },
+    {
+        "title": "Una segunda prórroga del Presupuesto restaría a Sánchez al menos 1.000 millones de gasto público",
+        "image_url": "https://s1.elespanol.com/2024/08/06/espana/politica/876173109_248319572_1706x960.jpg?contentId=ESPIMA20240806_0735",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240817/segunda-prorroga-presupuesto-restaria-sanchez-millones-gasto-publico/876162740_0.html",
+        "date": "2024-08-17 00:33:43",
+        "sentiment_score": -0.6887890994548798
+    },
+    {
+        "title": "Siete años de la masacre de Las Ramblas, a punto de reactivar la comisión que la relaciona con el CNI",
+        "image_url": "https://s1.elespanol.com/2017/08/18/opinion/columnas/la_imagen_de_la_semana-columnas_239986970_43439124_1706x960.jpg?contentId=ESPIMA20170818_0971",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240817/anos-masacre-ramblas-punto-reactivar-comision-relaciona-cni/878662454_0.html",
+        "date": "2024-08-17 00:32:52",
+        "sentiment_score": -0.37975893169641495
+    },
+    {
+        "title": "He viajado en verano en coche eléctrico para saber cuánto tarda en cargarse, si hay colas y cuánto cuesta",
+        "image_url": "https://s1.elespanol.com/2024/08/16/motor/878672403_248509278_1706x960.jpg?contentId=ESPIMA20240816_0279",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20240817/viajado-verano-coche-electrico-saber-tarda-cargarse-colas-cuesta/878662277_0.html",
+        "date": "2024-08-17 00:08:22",
+        "sentiment_score": -0.042864784598350525
+    },
+    {
+        "title": "Bain, Castlelake, Hines, Vukile: quién es quién en la gran revolución estival del inmobiliario español",
+        "image_url": "https://s1.elespanol.com/2024/08/16/invertia/observatorios/vivienda/878672835_248522806_1706x960.jpg?contentId=ESPIMA20240816_0711",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20240817/bain-castlelake-hines-vukile-gran-revolucion-estival-inmobiliario-espanol/878662398_0.html",
+        "date": "2024-08-17 00:08:21",
+        "sentiment_score": 0.16799606382846832
+    },
+    {
+        "title": "El Avilés, a un paso de fichar a Javi Cueto",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/08/16/97280203--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/aviles-paso-fichar-javi-cueto-20240817005056-nt.html",
+        "date": "2024-08-16 22:58:31",
+        "sentiment_score": 0.06564988195896149
+    },
+    {
+        "title": "El TSJB confirma la absolución de los dos acusados por el robo en casa de la ex de David Guetta",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2962157.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2024/08/17/2224243/david-guetta-confirman-absolucion-dos-acusados-por-robo-casa-del-dj.html",
+        "date": "2024-08-16 22:30:01",
+        "sentiment_score": -0.28872235119342804
+    },
+    {
+        "title": "El debut más enigmático",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2962191.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/08/17/2224261/real-mallorca-real-madrid-debut-lleno-incognitas-son-moix.html",
+        "date": "2024-08-16 22:30:01",
+        "sentiment_score": -0.04505425691604614
+    },
+    {
+        "title": "Mamardashvili estará en la lista y podría ser titular",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c0a83787-f4d4-41e1-902f-b5e2a919dbb6_16-9-aspect-ratio_default_1320302.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/08/17/mamardashvili-estara-lista-titular-107069601.html",
+        "date": "2024-08-17 02:00:26",
+        "sentiment_score": -0.12631675601005554
+    },
+    {
+        "title": "Un plato fuerte para iniciar la Liga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7aa646e6-9e7a-42f2-9b01-878081f6f629_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/08/17/plato-fuerte-iniciar-liga-107068713.html",
+        "date": "2024-08-17 02:00:23",
+        "sentiment_score": 0.02808132767677307
+    },
+    {
+        "title": "Las ‘big techs’, al rescate de empresas de IA",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/10/66b7bc2404f77.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240817/9864446/empresas-inteligencia-artificial-ia-google-amazon.html",
+        "date": "2024-08-17 02:00:00",
+        "sentiment_score": -0.2230880856513977
+    },
+    {
+        "title": "Marco Reus fue presentado oficialmente por el LA Galaxy: La MLS no es una liga popular en Alemania",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/5001c12/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F64%2F9c2db4c14f3bad1194698fcd165c%2Fmls-galaxy-reus-soccer-68581.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-08-16/marco-reus-fue-presentado-oficialmente-por-el-la-galaxy-la-mls-no-es-una-liga-popular-en-alemania",
+        "date": "2024-08-17 01:45:35",
+        "sentiment_score": 0.41617797315120697
+    },
+    {
+        "title": "Los detenidos por apuñalar al padre de Lamine Yamal son de una misma familia de etnia gitana",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/Trampa-padre-Lamine-Yamal--469x317.jpg",
+        "tags": [
+            "agresiones",
+            "mossos d'esquadra",
+            "fc barcelona",
+            "tribunales",
+            "lamine yamal",
+            "detenciones",
+            "gitanos",
+            "barcelona",
+            "sucesos"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2024-08-17/detenidos-apunalamiento-padre-lamine-yamal-gitana/",
+        "date": "2024-08-17 01:30:00",
+        "sentiment_score": -0.668922271579504
+    },
+    {
+        "title": "La española Sateliot lanza cuatro satélites de la mano de Elon Musk para Starlink",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/07/66b3c84b1a578.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/240817/1597428/espanola-sateliot-lanza-cuatro-satelites-mano-elon-musk-starlink.html",
+        "date": "2024-08-17 01:30:00",
+        "sentiment_score": -0.1253305748105049
+    },
+    {
+        "title": "Ignacio Garriga (Vox): «La fuga de Puigdemont fue un espectáculo promovido por el CNI»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/01_Gonzalez_Pons-469x317.jpg",
+        "tags": [
+            "pp (partido popular)",
+            "pedro sánchez",
+            "unión europea",
+            "españa",
+            "carles puigdemont",
+            "entrevista",
+            "vox",
+            "política",
+            "cataluña"
+        ],
+        "link": "https://theobjective.com/espana/2024-08-17/ignacio-garriga-illan-radical-disfrazado-moderado/",
+        "date": "2024-08-17 01:30:00",
+        "sentiment_score": -0.22879888117313385
+    },
+    {
+        "title": "A 13.000 kilómetros de la estupidez humana",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/07/EN-EL-FOCO-BIDEN-469x317.jpg",
+        "tags": [
+            "nacionalismo",
+            "pedro sánchez",
+            "junts per catalunya (jxcat)",
+            "corrupción",
+            "pobreza",
+            "procés",
+            "mossos d'esquadra",
+            "jordi turull",
+            "áfrica",
+            "océano indico",
+            "opinión",
+            "jordi pujol",
+            "carles puigdemont",
+            "salvador illa",
+            "china"
+        ],
+        "link": "https://theobjective.com/opinion/2024-08-17/a-13-000-kilometros-de-la-estupidez-humana/",
+        "date": "2024-08-17 01:30:00",
+        "sentiment_score": -0.7783637475222349
+    },
+    {
+        "title": "Video: Nathy Peluso ‘encendió' las redes sociales al bailar al ritmo de una canción de vallenato del Caribe colombiano",
+        "image_url": "https://www.infobae.com/resizer/v2/ZVOMW254JRHOFPEB4ZDPLPWMIM.jpg?auth=8d53e3dc49f883fb13bb1095fba4bde96c0c6c3c2217707456e384d5bf650dfd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/08/17/video-nathy-peluso-encendio-las-redes-sociales-al-bailar-al-ritmo-de-una-cancion-de-vallenato-del-caribe-colombiano/",
+        "date": "2024-08-17 01:22:49",
+        "sentiment_score": 0.547012809664011
+    },
+    {
+        "title": "Plataforma del banco Mercantil estará en mantenimiento el domingo #18Ago (+HORARIO)",
+        "image_url": "https://2001online.com/wp-content/uploads/2023/12/remesas-Mercantil-.png",
+        "tags": [
+            "venezuela",
+            "mantenimiento",
+            "mercantil",
+            "2001online",
+            "nacionales",
+            "plataforma"
+        ],
+        "link": "https://2001online.com/nacionales/plataforma-del-banco-mercantil-estara-en-mantenimiento-el-domingo-18ago-horario/",
+        "date": "2024-08-17 02:00:00",
+        "sentiment_score": -0.008062116801738739
+    },
+    {
+        "title": "Cuatro recomendaciones de expertos para ahorrar en el regreso a clases en EEUU",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/clases-1-1280x720.jpg",
+        "tags": [
+            "internacionales",
+            "ofertas",
+            "clases",
+            "ahorror",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/cuatro-recomendaciones-de-expertos-para-ahorrar-en-el-regreso-a-clases-en-eeuu/",
+        "date": "2024-08-17 01:42:33",
+        "sentiment_score": 0.3614695519208908
+    },
+    {
+        "title": "¿Cómo obtener ayuda para la renta con el programa de Sección 8? (+Requisitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/programa-seccion-8.webp",
+        "tags": [
+            "programa sección 8",
+            "internacionales",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/como-obtener-ayuda-para-la-renta-con-el-programa-de-seccion-8-requisitos/",
+        "date": "2024-08-17 01:39:14",
+        "sentiment_score": 0.13246464729309082
+    },
+    {
+        "title": "GH Hoteles y el Centro Americano de Carabobo firmaron convenio",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-16-at-8.52.47-PM-1280x720.jpeg",
+        "tags": [
+            "centro americano de carabobo",
+            "hoteles",
+            "servicios",
+            "carabobo"
+        ],
+        "link": "https://2001online.com/servicios/gh-hoteles-y-el-centro-americano-de-carabobo-firmaron-convenio/",
+        "date": "2024-08-17 01:20:09",
+        "sentiment_score": 0.21573248505592346
+    },
+    {
+        "title": "EEUU| En este concurso podrás ganar el pago de tres meses de renta o $4.999 (+DETALLES)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Rental-Money-House.jpg",
+        "tags": [
+            "internacionales",
+            "2001online",
+            "sorte",
+            "pago de renta",
+            "concurso",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-en-este-concurso-podras-ganar-el-pago-de-tres-meses-de-renta-o-4-999-detalles/",
+        "date": "2024-08-17 01:10:12",
+        "sentiment_score": 0.004744693636894226
+    },
+    {
+        "title": "Fue despedida de Costco y contó estos secretos de la tienda",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/1.jpg",
+        "tags": [
+            "eeuu",
+            "internacionales",
+            "secretos",
+            "costco"
+        ],
+        "link": "https://2001online.com/internacionales/fue-despedida-de-costco-y-conto-estos-secretos-de-la-tienda/",
+        "date": "2024-08-17 01:00:00",
+        "sentiment_score": -0.8815048476681113
+    },
+    {
+        "title": "Maduro anuncia elecciones populares para el #25Ago (+DETALLES)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Maduro.jpg",
+        "tags": [
+            "venezuela",
+            "nicolás maduro",
+            "consulta popular",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-elecciones-populares-para-el-25ago/",
+        "date": "2024-08-17 01:00:00",
+        "sentiment_score": 0.20397303998470306
+    },
+    {
+        "title": "Argentina informa sobre nuevo caso de mpox viruela del mono este #16Ago",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Viruela-del-mono-1.jpeg",
+        "tags": [
+            "viruela del mono",
+            "internacionales",
+            "argentina"
+        ],
+        "link": "https://2001online.com/internacionales/argentina-informa-sobre-nuevo-caso-de-mpox-viruela-del-mono-este-16ago/",
+        "date": "2024-08-17 00:53:39",
+        "sentiment_score": -0.07617293298244476
+    },
+    {
+        "title": "Atropelló a su novio por querer terminar la relación",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/images-36.jpeg",
+        "tags": [
+            "eeuu",
+            "novio",
+            "sucesos",
+            "atropello al novio",
+            "minesota"
+        ],
+        "link": "https://2001online.com/sucesos/atropello-a-su-novio-por-querer-terminar-la-relacion/",
+        "date": "2024-08-17 00:47:01",
+        "sentiment_score": -0.6434090659022331
+    },
+    {
+        "title": "Maduro le responde a Lele Pons: Yo no quiero que te calles",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Lele-Pons-700x352-1.jpg",
+        "tags": [
+            "nacionales",
+            "lele pons",
+            "nicolás maduro"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-le-responde-a-lele-pons-yo-no-quiero-que-te-calles/",
+        "date": "2024-08-17 00:24:25",
+        "sentiment_score": -0.41028717160224915
     }
 ];
