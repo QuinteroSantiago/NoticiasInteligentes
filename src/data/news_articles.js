@@ -1,232 +1,5 @@
 export default [
     {
-        "title": "La industria química española no pierde el optimismo pese a los ecos de guerra comercial",
-        "image_url": "./assets/ai_generated/v1_txt2img_f16dc2be9a7d4cf78fcd055410df2a0a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/14/la-industria-quimica-espanola-no-pierde-el-optimismo-pese-a-los-ecos-de-guerra-comercial/",
-        "date": "2024-08-14 06:16:31",
-        "sentiment_score": -0.8427793011069298
-    },
-    {
-        "title": "La Aemet activa alertas en nueve comunidades ante las fuertes lluvias y las tormentas",
-        "image_url": "./assets/ai_generated/v1_txt2img_db8a838b85d34f7a95739823393215da.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/14/la-aemet-activa-alertas-en-nueve-comunidades-ante-las-fuertes-lluvias-y-las-tormentas/",
-        "date": "2024-08-14 06:00:21",
-        "sentiment_score": -0.01520480215549469
-    },
-    {
-        "title": "Arranca la operación puente de agosto de la DGT, la que más desplazamientos registra del año: helicópteros, drones y vehículos camuflados",
-        "image_url": "https://www.infobae.com/resizer/v2/GA2WKTVUPRDWXP5O4AQMKE5CVI.jpg?auth=e93419537ea11d7f8e20f0bb150d9c97465172d7a2e24fdf25b43335bddb65a2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/14/arranca-la-operacion-para-el-puente-con-mas-desplazamientos-del-ano-helicopteros-drones-y-vehiculos-camuflados/",
-        "date": "2024-08-14 05:59:05",
-        "sentiment_score": 0.2552395220845938
-    },
-    {
-        "title": "Niegan la incapacidad permanente a un hombre por cumplir con su prescripción médica: “Es incompatible con sus limitaciones físicas”",
-        "image_url": "https://www.infobae.com/resizer/v2/SICEYFTSLJA27FMQB3KKFNNI6U.jpg?auth=2925fea9929f94977bdb24596cf3363b4188cd25d1a2dedb71c803b2b7622a14",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/14/niegan-la-incapacidad-permanente-a-un-hombre-por-cumplir-con-su-prescripcion-medica-es-incompatible-con-sus-limitaciones-fisicas/",
-        "date": "2024-08-14 05:53:34",
-        "sentiment_score": -0.3942222073674202
-    },
-    {
-        "title": "Una oferta de trabajo de camarero en una cafetería en Murcia ofrece 700 euros por jornada completa: “Es como si pusieran un anuncio cometiendo un delito”",
-        "image_url": "https://www.infobae.com/resizer/v2/SJ7FVTBFWBCONLLBY6H5V2VCNE.jpg?auth=87617ea52087ed2592794b246f4a5e9f5f87097fcca42e0c078e69967b6fa091",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/14/una-oferta-de-trabajo-de-camarero-en-una-cafeteria-en-murcia-ofrece-700-euros-por-jornada-completa-es-como-si-pusieran-un-anuncio-cometiendo-un-delito/",
-        "date": "2024-08-14 05:49:33",
-        "sentiment_score": -0.7837721165269613
-    },
-    {
-        "title": "La energética alemana E.ON duplica su beneficio hasta junio con 2.352 millones",
-        "image_url": "./assets/ai_generated/v1_txt2img_5b396b4cb54d420bb0360fca28561710.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/14/la-energetica-alemana-eon-duplica-su-beneficio-hasta-junio-con-2352-millones/",
-        "date": "2024-08-14 05:45:51",
-        "sentiment_score": 0.48863742500543594
-    },
-    {
-        "title": "Medicación y calor: diuréticos, antiinflamatorios o tranquilizantes agravan sus efectos",
-        "image_url": "./assets/ai_generated/v1_txt2img_a38b1f597723456c8330a214f905f886.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/14/medicacion-y-calor-diureticos-antiinflamatorios-o-tranquilizantes-agravan-sus-efectos/",
-        "date": "2024-08-14 05:45:33",
-        "sentiment_score": 0.11218690872192383
-    },
-    {
-        "title": "Efemérides del 15 de agosto",
-        "image_url": "./assets/ai_generated/v1_txt2img_60beb0d7bbb3493699ccd3059857a873.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/14/efemerides-del-15-de-agosto/",
-        "date": "2024-08-14 05:16:22",
-        "sentiment_score": -0.010708503425121307
-    },
-    {
-        "title": "Cuántos euros me dan por un dólar este 14 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/NGVNLX3N5NDEBAS4T3ODYFKJ24.jpg?auth=34e16850b4bd33c21dc00a5ebe9b9b6bcb4ddb1a0be17eba50c7d668a820c76d",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/14/cuantos-euros-me-dan-por-un-dolar-este-14-de-agosto/",
-        "date": "2024-08-14 05:15:29",
-        "sentiment_score": -0.09826265275478363
-    },
-    {
-        "title": "Así fue el desbordamiento del glaciar que causó inundaciones sin precedentes en Alaska",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/8f/media_thumb-link-3968848.webp",
-        "tags": [
-            "clima",
-            "inundaciones",
-            "glaciar",
-            "alaska",
-            "actualidad",
-            "cambio climático"
-        ],
-        "link": "https://www.meneame.net/story/asi-fue-desbordamiento-glaciar-causo-inundaciones-sin-alaska",
-        "date": "2024-08-14 06:05:04",
-        "sentiment_score": -0.905076265335083
-    },
-    {
-        "title": "Alexia Putellas, Montse Tomé o Luis de la Fuente: testigos en el juicio a Rubiales",
-        "image_url": "./assets/ai_generated/v1_txt2img_c9b67541ab504589aa2de75694a68bf4.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/08/14/alexia-putellas-montse-tome-o-luis-de-la-fuente-testigos-en-el-juicio-a-rubiales/",
-        "date": "2024-08-14 06:16:02",
-        "sentiment_score": -0.28314271569252014
-    },
-    {
-        "title": "Quiénes son las mujeres que compran la ropa que lleva la Reina Letizia: \"Tiene un estilo sublime\"",
-        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/12/17234645854860.jpg",
-        "tags": [
-            "yodona",
-            "moda",
-            "reina letizia"
-        ],
-        "link": "https://www.elmundo.es/yodona/moda/reina-letizia/2024/08/14/66b9eba021efa0f3388b4580.html",
-        "date": "2024-08-14 06:09:04",
-        "sentiment_score": 0.39968011528253555
-    },
-    {
-        "title": "“Llevo 15 días esperando para cruzar”, cientos de menores migrantes atrapados en Calais",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b8ecc9f-d14b-4652-a3df-8a31622f9ded_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/internacional/2024/08/14/llevo-15-dias-esperando-cruzar-106979702.html",
-        "date": "2024-08-14 06:02:57",
-        "sentiment_score": -0.17276287078857422
-    },
-    {
-        "title": "Logran perforar 1,2 kilómetros del fondo oceánico para estudiar el manto de la Tierra",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b234e835-3ff0-4659-8b8a-fd6ce148a17e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/medio-ambiente/2024/08/14/logran-perforar-1-2-kilometros-106979664.html",
-        "date": "2024-08-14 06:01:22",
-        "sentiment_score": 0.31621361523866653
-    },
-    {
-        "title": "¿Cuándo empiezan las ligas europeas?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a8c34e71-86a2-47c4-9f27-610491cc5e76_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2024/08/14/empiezan-ligas-europeas-106979610.html",
-        "date": "2024-08-14 06:00:34",
-        "sentiment_score": 0.3634222149848938
-    },
-    {
-        "title": "Perfiles de las etapas de la Vuelta a España 2024",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/65eaf294-7da7-4f41-9469-c50b9a70a3a4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/vuelta-espana/2024/08/14/perfiles-etapas-vuelta-espana-2024-106979510.html",
-        "date": "2024-08-14 06:00:17",
-        "sentiment_score": 0.13287195935845375
-    },
-    {
-        "title": "Puig (Junts) sobre el regreso de Puigdemont: \"Nos pidió que hiciésemos el favor de no acompañarle\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240814081315_120.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-puig-junts-regreso-puigdemont-nos-pidio-hiciesemos-favor-no-acompanarle-20240814081315.html",
-        "date": "2024-08-14 06:13:15",
-        "sentiment_score": -0.7692114822566509
-    },
-    {
-        "title": "Toda Cataluña en alerta por intensidad de la lluvia este miércoles",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/14/vida/878172175_13338527_1706x960.jpg?contentId=ESPIMA20240814_0001",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20240814/toda-cataluna-alerta-intensidad-lluvia-este-miercoles/878162176_0.html",
-        "date": "2024-08-14 06:07:55",
-        "sentiment_score": -0.6604367308318615
-    },
-    {
-        "title": "Interior oculta a Llarena quién ordenó que no se montara una operación para capturar a Puigdemont",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/08/14/1484785776-U18373647550Ymk-758x531@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ideal.es/nacional/interior-oculta-llarena-ordeno-montara-operacion-capturar-20240814235114-ntrc.html",
-        "date": "2024-08-14 06:02:44",
-        "sentiment_score": -0.5147509407252073
-    },
-    {
-        "title": "Interior oculta a Llarena quién ordenó que no se montara una operación para capturar a Puigdemont",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/08/14/1484785776-R5UiJ3gd6kqu2cCc524oSbL-758x531@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/politica/interior-oculta-llarena-ordeno-montara-operacion-capturar-20240814235114-ntrc.html",
-        "date": "2024-08-14 06:02:44",
-        "sentiment_score": -0.7931844275444746
-    },
-    {
-        "title": "El turismo empuja la economía española a un crecimiento cercano al 3%",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5f82de3-b9f1-4669-a8b1-e107b09df5b2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.epe.es/es/activos/20240814/turismo-empuja-economia-espanola-crecimiento-106979685",
-        "date": "2024-08-14 06:01:26",
-        "sentiment_score": -0.4163409695029259
-    },
-    {
-        "title": "El turismo empuja la economía española a un crecimiento cercano al 3%",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c5f82de3-b9f1-4669-a8b1-e107b09df5b2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/economia/2024/08/14/turismo-empuja-economia-espanola-crecimiento-106979674.html",
-        "date": "2024-08-14 06:01:25",
-        "sentiment_score": -0.4020277261734009
-    },
-    {
         "title": "Producción industrial de Colombia baja un 4 % en junio y cae por segundo mes consecutivo",
         "image_url": "./assets/ai_generated/v1_txt2img_083bfce0130a4d97b70341ce09f0f245.png",
         "tags": [
@@ -677,36 +450,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-14/los-fallecidos-en-accidentes-de-trafico-en-andalucia-han-aumentado-un-54-desde-enero.html",
         "date": "2024-08-14 10:29:35",
         "sentiment_score": -0.7737873587757349
-    },
-    {
-        "title": "El tiempo del puente de agosto: una dana dejará lluvias y tormentas en el este y Baleares hasta el viernes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AOH275DJ5TZYNBBV3T2PT5Z5NM.jpg?auth=0dfe0983a2f3880c06037b787e67222e503445675936aeeb33808e51a39439b7",
-        "tags": [
-            "lluvias torrenciales",
-            "calor",
-            "temperaturas máximas",
-            "el tiempo",
-            "comunidad valenciana",
-            "región de murcia",
-            "españa",
-            "canarias",
-            "lluvia",
-            "tormentas",
-            "murcia",
-            "temperaturas",
-            "andalucía",
-            "aemet",
-            "meteorología",
-            "cataluña",
-            "temperaturas mínimas",
-            "verano",
-            "predicción meteorológica",
-            "baleares",
-            "alerta meteorológica"
-        ],
-        "link": "https://elpais.com/espana/2024-08-14/el-tiempo-del-puente-de-agosto-una-dana-dejara-lluvias-y-tormentas-en-el-mediterraneo-y-baleares-hasta-el-viernes.html",
-        "date": "2024-08-14 09:28:55",
-        "sentiment_score": 0.4233596846461296
     },
     {
         "title": "“Florentino Pérez entendió que no mandan los que ganan elecciones sino los que financian campañas”",
@@ -8717,5 +8460,604 @@ export default [
         "link": "https://2001online.com/farandula/mike-bahia-le-rinde-homenaje-a-su-natal-cali-con-su-nuevo-tema/",
         "date": "2024-08-17 15:04:00",
         "sentiment_score": 0.2210851013660431
+    },
+    {
+        "title": "El Barcelona se levanta ante el Valencia gracias a Lewandowski y registra sus primeros tres puntos",
+        "image_url": "https://www.infobae.com/resizer/v2/S2DJAP7OPJDM7HF5IEYK6PTRRM.jpg?auth=f171a626fbe4c52b92172bb495ebb262fe416ddccf942e76ecac320fc80072bd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/08/17/el-barcelona-se-levanta-ante-el-valencia-gracias-a-lewandowski-y-registra-sus-primeros-tres-puntos/",
+        "date": "2024-08-17 21:53:05",
+        "sentiment_score": 0.3819262385368347
+    },
+    {
+        "title": "El polaco Industria Kielce revalida título en el torneo de clubes Cantabria Infinita",
+        "image_url": "./assets/ai_generated/v1_txt2img_8ac740b85e624b71aa461050de7096a2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/17/el-polaco-industria-kielce-revalida-titulo-en-el-torneo-de-clubes-cantabria-infinita/",
+        "date": "2024-08-17 21:31:29",
+        "sentiment_score": 0.3777894079685211
+    },
+    {
+        "title": "Cartagena, Ventura y Leonardo a hombros en la segunda de Ciudad Real",
+        "image_url": "./assets/ai_generated/v1_txt2img_a72290e6430f493e97c4685227e9bc04.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/17/cartagena-ventura-y-leonardo-a-hombros-en-la-segunda-de-ciudad-real/",
+        "date": "2024-08-17 21:01:10",
+        "sentiment_score": -0.18219399452209473
+    },
+    {
+        "title": "Los números que dieron fortuna a los nuevos ganadores de la lotería 6/49",
+        "image_url": "https://www.infobae.com/resizer/v2/ZVGPZ4FSJJHQPHKIJUJLFSMSR4.jpg?auth=172caab3a761a58ea63ae2cb93738945a74fee4195dfe4bcc1cfdf4e52e8b0ae",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/17/los-numeros-que-dieron-fortuna-a-los-nuevos-ganadores-de-la-loteria-649/",
+        "date": "2024-08-17 21:00:24",
+        "sentiment_score": 0.46823830530047417
+    },
+    {
+        "title": "Puerta Grande para Manzanares y gran faena malograda de Morante en el tercer día de Begoña",
+        "image_url": "./assets/ai_generated/v1_txt2img_ccdf07cc83d44eacb37a8b58c5d07745.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/17/puerta-grande-para-manzanares-y-gran-faena-malograda-de-morante-en-el-tercer-dia-de-begona/",
+        "date": "2024-08-17 20:45:34",
+        "sentiment_score": -0.6619259417057037
+    },
+    {
+        "title": "'Percy Green' vence en el cierre del primer ciclo de las carreras de Sanlúcar",
+        "image_url": "./assets/ai_generated/v1_txt2img_0ca820ca1dd547af9c5efdbcbba6de4d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/17/percy-green-vence-en-el-cierre-del-primer-ciclo-de-las-carreras-de-sanlucar/",
+        "date": "2024-08-17 20:17:12",
+        "sentiment_score": 0.5228350609540939
+    },
+    {
+        "title": "70-82. España se trae la plata de Grecia tras caer ante una Francia más constante",
+        "image_url": "./assets/ai_generated/v1_txt2img_c8dc0d9aa2914d2db831722238b6c405.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/17/70-82-espana-se-trae-la-plata-de-grecia-tras-caer-ante-una-francia-mas-constante/",
+        "date": "2024-08-17 20:16:55",
+        "sentiment_score": -0.4899458587169647
+    },
+    {
+        "title": "El exalcalde de Caracas dice que el apoyo internacional reconoce la batalla contra Maduro",
+        "image_url": "./assets/ai_generated/v1_txt2img_29673e9b6e464a47b7075045343a0836.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/17/el-exalcalde-de-caracas-dice-que-el-apoyo-internacional-reconoce-la-batalla-contra-maduro/",
+        "date": "2024-08-17 20:16:25",
+        "sentiment_score": 0.5096485987305641
+    },
+    {
+        "title": "Tres orejas para el temple de Pablo Aguado, triunfador de la feria de San Sebastián",
+        "image_url": "./assets/ai_generated/v1_txt2img_e361c401d96148e68f472e1d11852820.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/17/tres-orejas-para-el-temple-de-pablo-aguado-triunfador-de-la-feria-de-san-sebastian/",
+        "date": "2024-08-17 20:16:08",
+        "sentiment_score": 0.5945548005402088
+    },
+    {
+        "title": "Granada homenajea a García Lorca en el 88 aniversario de su asesinato",
+        "image_url": "./assets/ai_generated/v1_txt2img_f32a6b1f42da49ba92b78a6fddba714e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/17/granada-homenajea-a-garcia-lorca-en-el-88-aniversario-de-su-asesinato/",
+        "date": "2024-08-17 20:15:51",
+        "sentiment_score": -0.32045529037714005
+    },
+    {
+        "title": "La historia de Ismael “el Mayo” Zambada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/mayo-for-canvi.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/historia-mayo-zambada-orix/",
+        "date": "2024-08-17 21:57:25",
+        "sentiment_score": -0.46558229625225067
+    },
+    {
+        "title": "María Corina y Edmundo González envían mensaje a los venezolanos en el mundo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2166434326.jpg?quality=100&strip=info",
+        "tags": [
+            "marchas",
+            "marchas en venezuela",
+            "venezuela",
+            "elecciones venezuela",
+            "crisis en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marchas-venezuela-maria-corina-machado-edmundo-gonzalez-orix/",
+        "date": "2024-08-17 21:00:23",
+        "sentiment_score": -0.5941580832004547
+    },
+    {
+        "title": "Un terremoto de magnitud 7 sacude la costa oriental de Rusia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/sismo-rusia-usgs.jpg?quality=100&strip=info",
+        "tags": [
+            "rusia",
+            "terremotos",
+            "terremoto"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/17/terremoto-magnitud-7-costa-oriental-rusia-trax/",
+        "date": "2024-08-17 20:50:01",
+        "sentiment_score": -0.4786374494433403
+    },
+    {
+        "title": "Un sismo de magnitud 7 sacude la costa oriental de Rusia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/sismo-rusia-usgs.jpg?quality=100&strip=info",
+        "tags": [
+            "terremoto",
+            "terremotos",
+            "rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/17/sismo-magnitud-7-costa-oriental-rusia-trax/",
+        "date": "2024-08-17 20:50:01",
+        "sentiment_score": -0.5178947076201439
+    },
+    {
+        "title": "Así se vive la “Gran protesta mundial por Venezuela” en varias ciudades",
+        "image_url": "https://vod-media-aka.warnermediacdn.com/cnn/v2/clips/2024-08/1620634-23219bb2ce9d464da6a5912ad9340113/mp4/gran-protesta-venezuela-imagenes-ciudades-vo-1620634-1920x1080_8000k.mp4",
+        "tags": [
+            "elecciones",
+            "crisis en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gran-protesta-venezuela-imagenes-ciudades-vo/",
+        "date": "2024-08-17 18:08:40",
+        "sentiment_score": -0.3325391188263893
+    },
+    {
+        "title": "Expresidente de Ecuador Lenín Moreno critica la postura de Brasil, México y Colombia ante la crisis venezolana",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2021/05/210507151612-lenin-moreno-full-169.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/17/lenin-moreno-critica-brasil-mexico-colombia-ante-crisis-venezolana-orix/",
+        "date": "2024-08-17 17:34:16",
+        "sentiment_score": -0.25931186228990555
+    },
+    {
+        "title": "Cómo logró Ucrania dar un vuelco a la guerra con un ataque sorpresa en el sur de Rusia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/kursk-rusia.jpg?quality=100&strip=info",
+        "tags": [
+            "ucrania",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/17/como-ucrania-vuelco-guerra-ataque-sorpresa-sur-de-rusia-trax/",
+        "date": "2024-08-17 17:29:14",
+        "sentiment_score": -0.9104269091039896
+    },
+    {
+        "title": "“Repetir la elección en Venezuela generaría un precedente peligroso”, dijo Daniel Zovatto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163645848-20240817171000117.jpg?quality=100&strip=info",
+        "tags": [
+            "crisis en venezuela",
+            "xpress",
+            "aristegui",
+            "venezuela",
+            "fast – news variety",
+            "elecciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/repetir-eleccion-venezuela-precedente-peligroso-zovatto-aristegui/",
+        "date": "2024-08-17 17:17:35",
+        "sentiment_score": -0.8351185731589794
+    },
+    {
+        "title": "Mal funcionamiento en la Ley de la Cadena Alimentaria",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/18/1478724027-U56843421453bYZ-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-mal-funcionamiento-ley-cadena-alimentaria-20240818194547-nt.html",
+        "date": "2024-08-17 17:45:48",
+        "sentiment_score": -0.3991282656788826
+    },
+    {
+        "title": "La Princesa y el artista",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/18/TERCERAABC_Laprincesayelartista_Trevijano-ReUGEgGW2fQtgfTIzbbs83N-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-gonzaleztrevijano-princesa-artista-20240818193350-nt.html",
+        "date": "2024-08-17 17:33:50",
+        "sentiment_score": -0.01597335934638977
+    },
+    {
+        "title": "Miss del mal",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/18/1478179726-U57223854476PAj-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-miss-mal-20240818193333-nt.html",
+        "date": "2024-08-17 17:33:34",
+        "sentiment_score": -0.08084869384765625
+    },
+    {
+        "title": "Estupidez y moderación",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/18/1485020451-U77875007383YmT-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-estupidez-moderacion-20240818193141-nt.html",
+        "date": "2024-08-17 17:33:17",
+        "sentiment_score": -0.20401549339294434
+    },
+    {
+        "title": "Illa de vacaciones con Pedro",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/18/1485129924-U03243736123yrH-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-illa-vacaciones-pedro-20240818193301-nt.html",
+        "date": "2024-08-17 17:33:02",
+        "sentiment_score": -0.06517615914344788
+    },
+    {
+        "title": "Laporta hasta la última gota",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/18/1476878936-U73504330146SOX-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-laporta-ultima-gota-20240818193240-nt.html",
+        "date": "2024-08-17 17:32:41",
+        "sentiment_score": -0.03750944137573242
+    },
+    {
+        "title": "Teoría del patíbulo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/18/1402722635-U80050621315bFc-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/karina-sainz-borgo-teoria-patibulo-20240818193219-nt.html",
+        "date": "2024-08-17 17:32:19",
+        "sentiment_score": -0.13339099287986755
+    },
+    {
+        "title": "Democracia degradada",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/18/1484803695-U68061205375tpb-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-democracia-degradada-20240818193201-nt.html",
+        "date": "2024-08-17 17:32:02",
+        "sentiment_score": -0.19951294362545013
+    },
+    {
+        "title": "El golf, más atractivo que nunca: se dispara el turismo en un 30% en Madrid",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/16/17238292193135.jpg",
+        "tags": [
+            "golf",
+            "comunidad de madrid",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/08/18/66bf8900e4d4d81f2b8b458b.html",
+        "date": "2024-08-17 22:05:43",
+        "sentiment_score": -0.15123942494392395
+    },
+    {
+        "title": "Ancelotti da por cerrada la plantilla y descarta a Laporte",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/08/18/dep-ancelotti-cierra-plantilla-kn5H--758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deportes/futbol/liga-primera/ancelotti-cerrada-plantilla-descarta-laporte-20240818000143-nt.html",
+        "date": "2024-08-17 22:01:44",
+        "sentiment_score": -0.8422447247430682
+    },
+    {
+        "title": "Una herramienta de dos estudiantes de la Universitat de Vic esquiva (de forma legal) el aumento de los precios de las plataformas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/16/business/878672168_13345046_1706x960.jpg?contentId=ESPIMA20240816_0044",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240818/una-herramienta-de-estudiantes-universitat-vic-plataformas/878662154_0.html",
+        "date": "2024-08-17 22:00:00",
+        "sentiment_score": 0.25405818223953247
+    },
+    {
+        "title": "Una cabalgata llena de color en La Nucia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7359ddb6-4b3b-452e-a19d-78ee0cd79519_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/benidorm/2024/08/17/cabalgata-llena-color-nucia-107067116.html",
+        "date": "2024-08-17 21:39:14",
+        "sentiment_score": -0.10472725331783295
+    },
+    {
+        "title": "Pau Solanilla: “El decrecimiento en Barcelona es bienintencionado, pero es un aliado del neoliberalismo”",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/07/25/vivir-en-barcelona/873172685_13269901_1706x960.jpg?contentId=ESPIMA20240725_0011",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/quien-hace-barcelona/20240817/pau-solanilla-el-decrecimiento-en-barcelona-es-bienintencionado-pero-un-aliado-del-neoliberalismo/872912810_0.html",
+        "date": "2024-08-17 21:30:14",
+        "sentiment_score": -0.42806629091501236
+    },
+    {
+        "title": "Javier Viguer se cuelga la plata con España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bb8c76a0-0b17-4cb6-9281-fef7a8e82a20_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/lalqueria-del-basket/2024/08/17/javier-viguer-cuelga-plata-espana-europeo-sub16-107098561.html",
+        "date": "2024-08-17 20:56:57",
+        "sentiment_score": 0.04096230864524841
+    },
+    {
+        "title": "Golpes de estado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6bc200c8-d68b-4864-88bc-f6216ccd2c48_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2024/08/17/golpes-107098523.html",
+        "date": "2024-08-17 20:46:07",
+        "sentiment_score": -0.4164274334907532
+    },
+    {
+        "title": "Miles de personas se movilizan en España para exigir la marcha de Nicolás Maduro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a7279d62-afb6-4f07-b198-90486ce368b3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/nacional/2024/08/17/miles-personas-salen-calle-espana-107097991.html",
+        "date": "2024-08-17 20:34:15",
+        "sentiment_score": 0.07709258794784546
+    },
+    {
+        "title": "Troles, acosadores y palabras que matan",
+        "image_url": "http://www.publico.es//uploads/2023/05/05/6455641d11def.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "http://www.publico.es/sociedad/troles-acosadores-palabras-matan.html",
+        "date": "2024-08-17 20:20:00",
+        "sentiment_score": -0.8767280746251345
+    },
+    {
+        "title": "Las imágenes del Valencia - Barcelona",
+        "image_url": "https://static.grupojoly.com/clip/c5bd6fb3-fcf8-4997-8293-fb77b5736bff_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/imagenes-valencia-barcelona_3_2002241723.html",
+        "date": "2024-08-17 22:06:01",
+        "sentiment_score": 0.6301370449364185
+    },
+    {
+        "title": "Los salarios remontan y están a punto de batir la inflación de los últimos años",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/17/66c0de399d8a0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20240818/9875625/salarios-remontan-punto-batir-inflacion-ultimos-anos.html",
+        "date": "2024-08-17 22:05:00",
+        "sentiment_score": 0.12216196209192276
+    },
+    {
+        "title": "The Terminal Hub, la nueva puerta de entrada al ecosistema emprendedor de Valencia",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/09/66b62c81ea21d.r_d.3492-2646-0.jpeg",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://www.lavanguardia.com/local/valencia/20240818/9862738/the-terminal-hub-nueva-puerta-entrada-ecosistema-emprendedor-valencia.html",
+        "date": "2024-08-17 22:05:00",
+        "sentiment_score": -0.06563343107700348
+    },
+    {
+        "title": "“El inmobiliario no ha logrado generar empatía institucional”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/16/66bf74ef2ee91.r_d.465-253-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240818/9874337/inmobiliario-juan-velayos-jv20-the-district-vivienda.html",
+        "date": "2024-08-17 22:05:00",
+        "sentiment_score": -0.7216084934771061
+    },
+    {
+        "title": "El doblete de Lewandowski que le dio la victoria al Barça contra el Valencia",
+        "image_url": "./assets/ai_generated/v1_txt2img_e46f6ea379e34b2bba5aa0e75bac7493.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosur.es/deportes/futbol/la-liga/liga-primera/doblete-lewandowski-dio-victoria-barcelona-valencia-20240817235438-ntrc.html",
+        "date": "2024-08-17 22:04:02",
+        "sentiment_score": 0.49727749079465866
+    },
+    {
+        "title": "Susto en el estreno del Barça de Flick: sustituido por precaución",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/17/culemania/primer-equipo/878922159_13349724_1706x960.jpg?contentId=ESPIMA20240817_0060",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240818/susto-estreno-del-barca-flick-sustituido-precaucion/878912154_0.html",
+        "date": "2024-08-17 22:01:47",
+        "sentiment_score": -0.8083541672676802
+    },
+    {
+        "title": "Llega a Barcelona \"The Mystery Man\", una exposición con una escultura hiperrealista de Cristo tras la crucifixión",
+        "image_url": "https://album.mediaset.es/eimg/2024/08/16/el-cuerpo-hiperrealista-de-jesucristo_18e5.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20240817/exposicion-mystery-man-escultura-barcelona_18_013248767.html",
+        "date": "2024-08-17 22:01:03",
+        "sentiment_score": -0.44859063625335693
+    },
+    {
+        "title": "Javier Martínez",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/17/examen-protagonistas/878922142_13349246_1706x960.jpg?contentId=ESPIMA20240817_0043",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240818/javier-martinez/878912142_0.html",
+        "date": "2024-08-17 22:00:00",
+        "sentiment_score": -0.07582849264144897
+    },
+    {
+        "title": "Maduro asegura que Edmundo González está preparando su fuga de Venezuela",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Maduro-miraflores-1280x720.jpg",
+        "tags": [
+            "2001online",
+            "edmundo gonzález",
+            "maría corina",
+            "nacionales",
+            "nicolás maduro",
+            "caracas"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-asegura-que-edmundo-gonzalez-esta-preparando-su-fuga-de-venezuela/",
+        "date": "2024-08-17 22:07:52",
+        "sentiment_score": 0.15603229403495789
+    },
+    {
+        "title": "Esta es la moneda de 20 centavos que se cotiza por más de $690.000 (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/moneda-20-centavos.jpg",
+        "tags": [
+            "monedad y billetes de colección",
+            "moneda de 20 centavos",
+            "internacionales",
+            "numismática",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/esta-es-la-moneda-de-20-centavos-que-se-cotiza-por-mas-de-690-000-detalles/",
+        "date": "2024-08-17 22:00:00",
+        "sentiment_score": 0.057489678263664246
+    },
+    {
+        "title": "Diseñan baterías del tamaño de una célula para administrar fármacos en el cuerpo humano",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-287-1024x559.png",
+        "tags": [
+            "fármacos en el cuerpo humano",
+            "curiosidades",
+            "cuerpo humano",
+            "celular"
+        ],
+        "link": "https://2001online.com/curiosidades/disenan-baterias-del-tamano-de-una-celula-para-administrar-farmacos-en-el-cuerpo-humano/",
+        "date": "2024-08-17 22:00:00",
+        "sentiment_score": 0.28869806230068207
+    },
+    {
+        "title": "EEUU | Estas son las mejores ventas de garaje en Atlanta",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/ventas-de-garaje.jpg",
+        "tags": [
+            "2001online",
+            "internacionales",
+            "eeuu",
+            "ventas de garaje",
+            "atlanta"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-estas-son-las-mejores-ventas-de-garaje-en-atlanta/",
+        "date": "2024-08-17 22:00:00",
+        "sentiment_score": 0.6753825135529041
+    },
+    {
+        "title": "Usuarios reportan fallas en el servicio de NetUno (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Foto-cortesia-23-2.jpg",
+        "tags": [
+            "comunidad",
+            "internacionales",
+            "nacionales",
+            "netuno",
+            "aragua",
+            "netuno servicios",
+            "caracas",
+            "carabado",
+            "maracay",
+            "servicios netuno",
+            "2001online",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/comunidad/usuarios-reportan-fallas-en-el-servicio-de-netuno-detalles/",
+        "date": "2024-08-17 21:48:33",
+        "sentiment_score": -0.8013216266408563
+    },
+    {
+        "title": "Este es el polémico anuncio del rector de la UCAB sobre la oposición venezolana (+VIDEO)",
+        "image_url": "https://2001online.com/wp-content/uploads/2023/07/UCAB-foto-detalle.jpg",
+        "tags": [
+            "rector ucab",
+            "nacionales",
+            "oposición venezolana",
+            "ucab",
+            "2001online",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/este-es-el-polemico-anuncio-del-rector-de-la-ucab-sobre-la-oposicion-venezolana-video/",
+        "date": "2024-08-17 21:39:00",
+        "sentiment_score": -0.10884017497301102
+    },
+    {
+        "title": "Movilización en apoyo a la reelección de Nicolás Maduro va rumbo a Miraflores este #17Ago",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-289.png",
+        "tags": [
+            "caracas",
+            "nicolás maduro",
+            "2001online",
+            "nacionales",
+            "marchas"
+        ],
+        "link": "https://2001online.com/nacionales/varias-movilizaciones-en-apoyo-a-la-reeleccion-de-nicolas-maduro-se-realizan-este-17ago/",
+        "date": "2024-08-17 21:04:11",
+        "sentiment_score": 0.18685653805732727
+    },
+    {
+        "title": "Arrancó este #17Ago el pago de un bono por Bs 3.330 en el Sistema Patria",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Foto-cortesia-21-1.jpg",
+        "tags": [
+            "bonos",
+            "bono de la patria",
+            "internacionales",
+            "2001online",
+            "nacionales",
+            "sistema patria",
+            "servicio",
+            "servicios",
+            "bono contra la guerra económica",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/servicios/arranco-este-17ago-el-pago-de-un-bono-por-bs-3-330-en-el-sistema-patria/",
+        "date": "2024-08-17 21:00:00",
+        "sentiment_score": 0.3673866093158722
+    },
+    {
+        "title": "¿Por qué los aviones no vuelan sobre el Tíbet?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Tibet.png",
+        "tags": [
+            "vuelos comerciales",
+            "tíbet",
+            "curiosidades"
+        ],
+        "link": "https://2001online.com/curiosidades/por-que-los-aviones-no-vuelan-sobre-el-tibet/",
+        "date": "2024-08-17 20:40:00",
+        "sentiment_score": -0.8651812067255378
+    },
+    {
+        "title": "Caracas | María Corina Machado explica qué es para la oposición \"cobrar\" (+VIDEO)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/17109609097327.jpg",
+        "tags": [
+            "2001online",
+            "maria corina machado",
+            "venezuela",
+            "nacionales",
+            "cobrar"
+        ],
+        "link": "https://2001online.com/nacionales/caracas-maria-corina-machado-explica-que-es-para-la-oposicion-cobrar-video/",
+        "date": "2024-08-17 20:30:00",
+        "sentiment_score": -0.1866869330406189
     }
 ];
