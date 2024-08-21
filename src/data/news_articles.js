@@ -1,207 +1,5 @@
 export default [
     {
-        "title": "Se disparan los accidentes en la montaña: los equipos de rescate piden sentido común",
-        "image_url": "./assets/ai_generated/v1_txt2img_ecfe6b9d821b4b8bb8725b6fdfed7853.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/17/se-disparan-los-accidentes-en-la-montana-los-equipos-de-rescate-piden-sentido-comun/",
-        "date": "2024-08-17 06:16:11",
-        "sentiment_score": -0.5487443022429943
-    },
-    {
-        "title": "Ayuso, cinco años de la mayoría simple a la absoluta con Sánchez siempre en la mirilla",
-        "image_url": "./assets/ai_generated/v1_txt2img_acd40c20d75b489799a30705e6ed270e.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/17/ayuso-cinco-anos-de-la-mayoria-simple-a-la-absoluta-con-sanchez-siempre-en-la-mirilla/",
-        "date": "2024-08-17 06:15:54",
-        "sentiment_score": 0.2412186563014984
-    },
-    {
-        "title": "Ben Affleck cumple 52 años: su nueva ruptura con Jennifer López, su récord con Batman y Superman y por qué está vetado en un casino de Las Vegas",
-        "image_url": "https://www.infobae.com/resizer/v2/N5BWPVCW6FGK3NPAUWBFNLLEMM.jpg?auth=617f1bfe8e85756df5806f66ede550ee210109426ad993c38c75bad83e568771",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/17/ben-affleck-cumple-52-anos-su-nueva-ruptura-con-jennifer-lopez-su-record-con-batman-y-superman-y-por-que-esta-vetado-en-un-casino-de-las-vegas/",
-        "date": "2024-08-17 06:07:34",
-        "sentiment_score": 0.6773364953696728
-    },
-    {
-        "title": "Las enormes diferencias del IPC por provincias: un mosaico que cambia año a año",
-        "image_url": "./assets/ai_generated/v1_txt2img_26444ea11c0141c58410d2cac50b78f2.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/17/las-enormes-diferencias-del-ipc-por-provincias-un-mosaico-que-cambia-ano-a-ano/",
-        "date": "2024-08-17 06:01:32",
-        "sentiment_score": 0.395172081887722
-    },
-    {
-        "title": "El Supremo recuerda que amenazar a una mujer a través de un familiar es violencia machista",
-        "image_url": "./assets/ai_generated/v1_txt2img_2d8c9c0ab59f40c6b768e9777e117b2f.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/17/el-supremo-recuerda-que-amenazar-a-una-mujer-a-traves-de-un-familiar-es-violencia-machista/",
-        "date": "2024-08-17 05:30:35",
-        "sentiment_score": -0.785317175090313
-    },
-    {
-        "title": "Eurofighter vs. Su-30MKI: así es el caza ruso al que se han enfrentado los pilotos españoles en los cielos de India",
-        "image_url": "https://www.infobae.com/resizer/v2/NUIOQKRAI5FAFLIV4OE5JRLVQU.jpg?auth=7e4a749f96c616dd5a1e34e6232970bb54a1547c43b4d97f6ac929cc10873347",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/17/eurofighter-vs-su-30mki-asi-es-el-caza-ruso-al-que-se-han-enfrentado-los-pilotos-espanoles-en-los-cielos-de-india/",
-        "date": "2024-08-17 05:30:00",
-        "sentiment_score": 0.44280166923999786
-    },
-    {
-        "title": "El furor de los fondos por los centros comerciales en España: son la gran apuesta de la inversión inmobiliaria",
-        "image_url": "https://www.infobae.com/resizer/v2/BHFJ7YZ5Z5BFVBDCIWHLWHTNLY.jpg?auth=027ab8ba6c4086942ba62e93c314b882bc33063154c600418dff4d3c804b5dbc",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/17/el-furor-de-los-fondos-por-los-centros-comerciales-en-espana-son-la-gran-apuesta-de-la-inversion-inmobiliaria/",
-        "date": "2024-08-17 05:30:00",
-        "sentiment_score": 0.15548380464315414
-    },
-    {
-        "title": "Puigdemont se asegura la prisión provisional en caso de ser detenido: “Tras su huida es difícil argumentar que no hay riesgo de fuga”",
-        "image_url": "https://www.infobae.com/resizer/v2/6QLNRPRY3FCB7BN46WD4U5B7V4.jpg?auth=c4ebc9c619feea34232dc7153606b21b57808c784e4317e005a1589052c60849",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/17/puigdemont-se-asegura-la-prision-provisional-en-caso-de-ser-detenido-tras-su-huida-es-dificil-argumentar-que-no-hay-riesgo-de-fuga/",
-        "date": "2024-08-17 05:30:00",
-        "sentiment_score": -0.7537506856024265
-    },
-    {
-        "title": "Almeida eleva el patrocinio a la Vuelta a España con 350.000 euros porque supone un retorno económico para la ciudad de más de 1,3 millones",
-        "image_url": "https://www.infobae.com/resizer/v2/5HDCO5BBAVEFXELBXSL2IL6YCI.jpeg?auth=cbc5e5b8ed8026bedf0c1e1c4e3be2a37afbb08bf7463bf8b618d003600ce379",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/17/almeida-patrocina-con-350000-euros-la-vuelta-a-espana-porque-supone-un-retorno-economico-para-la-ciudad-de-mas-de-13-millones-en-un-solo-dia/",
-        "date": "2024-08-17 05:30:00",
-        "sentiment_score": 0.254641767591238
-    },
-    {
-        "title": "Damas y reinas de las fiestas de los pueblos, una tradición antigua pero arraigada: “Estamos cronificando estereotipos de género retrógrados”",
-        "image_url": "https://www.infobae.com/resizer/v2/7JBJW2DUSBDKXKWS2PW5WDL6FI.jpg?auth=9dccfc1469f38be448fe7eb404351151e8c7374a158441dad3a8ae2e3250b79d",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/17/damas-y-reinas-de-las-fiestas-de-los-pueblos-una-tradicion-antigua-pero-arraigada-estamos-cronificando-estereotipos-de-genero-retrogrados/",
-        "date": "2024-08-17 05:30:00",
-        "sentiment_score": -0.025455743074417114
-    },
-    {
-        "title": "Se espera que el excongresista George Santos se declare culpable de cargos de fraude de campaña este lunes",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/George-Santos--e1723883826256.jpg?quality=100&strip=info",
-        "tags": [
-            "política",
-            "george santos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/17/congresista-george-santos-culpable-fraude-trax/",
-        "date": "2024-08-17 06:00:59",
-        "sentiment_score": -0.8273515030741692
-    },
-    {
-        "title": "El plan de Harris para frenar la subida de precios podría crear más problemas de los que resuelve",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Kamala_7a7beb.jpg?quality=100&strip=info",
-        "tags": [
-            "kamala harris",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/17/harris-precios-inflacion-prohibicion-plan-trax/",
-        "date": "2024-08-17 05:25:25",
-        "sentiment_score": -0.3124189078807831
-    },
-    {
-        "title": "Incómodos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c7229edd-ee86-4412-b867-b224ebe9f166_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.deia.eus/opinion/minuto-y-resultado/2024/08/17/incomodos-8592870.html",
-        "date": "2024-08-17 06:14:10",
-        "sentiment_score": -0.4040120989084244
-    },
-    {
-        "title": "Madrí, la cerveza británica de nombre castizo que triunfa en los pubs londinenses",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2f511374-9bf9-4b92-b44e-b908d755b09e_16-9-aspect-ratio_default_1319849.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/economia/2024/08/17/madri-cerveza-britanica-madrid-107077036.html",
-        "date": "2024-08-17 05:37:58",
-        "sentiment_score": -0.17435969412326813
-    },
-    {
-        "title": "Madrí, la cerveza británica de nombre castizo que triunfa en los pubs londinenses",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2f511374-9bf9-4b92-b44e-b908d755b09e_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20240817/madri-cerveza-britanica-madrid-107077031",
-        "date": "2024-08-17 05:37:49",
-        "sentiment_score": -0.18526457250118256
-    },
-    {
-        "title": "Perros contra el acoso escolar: \"Aumentan la conciencia del impacto que las acciones tienen en los demás\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/01/27/un-perro-de-terapia.jpeg",
-        "tags": [
-            "animaleros"
-        ],
-        "link": "https://www.20minutos.es/noticia/5536832/0/perros-contra-el-acoso-escolar-aumentan-la-conciencia-del-impacto-que-las-acciones-tienen-en-los-demas/",
-        "date": "2024-08-17 06:26:05",
-        "sentiment_score": -0.5559175349771976
-    },
-    {
-        "title": "Lo que debes saber hoy, 17 de agosto, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2019/06/22/el-pulso-de-la-ciudad/el_pulso_de_la_ciudad_408219178_10188720_1706x960.jpg?contentId=ESPIMA20190622_0004",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240817/lo-que-debes-saber-hoy-de-agosto-barcelona/878912102_0.html",
-        "date": "2024-08-17 06:20:04",
-        "sentiment_score": 0.4587196558713913
-    },
-    {
-        "title": "Cómo proteger tu móvil este verano: consejos esenciales para mantener tu dispositivo seguro",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/09/movil-seguro.jpeg",
-        "tags": [
-            "ciberseguridad"
-        ],
-        "link": "https://www.20minutos.es/tecnologia/ciberseguridad/como-proteger-tu-movil-consejos-esenciales-verano-5585655/",
-        "date": "2024-08-17 06:05:44",
-        "sentiment_score": 0.6674259975552559
-    },
-    {
-        "title": "Silencios que hablan a gritos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4a023fc4-7c38-4d78-8a00-df9e31dbde40_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/opinion/2024/08/17/silencios-hablan-gritos-8593624.html",
-        "date": "2024-08-17 06:05:06",
-        "sentiment_score": -0.027064606547355652
-    },
-    {
-        "title": "Real Sociedad: Y tras el trueno, el Rayo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4f5c3a10-1b6e-400e-9684-538874d30b31_16-9-aspect-ratio_default_0_x884y475.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/08/17/real-sociedad-trueno-rayo-8592708.html",
-        "date": "2024-08-17 06:02:49",
-        "sentiment_score": -0.31956976652145386
-    },
-    {
         "title": "Qué es una cuenta remunerada y qué ventajas tienen: ofrecen hasta un 5% de rentabilidad",
         "image_url": "https://www.infobae.com/resizer/v2/2ARHIEDW4VGHHDRH2VVTAVGBIE.jpg?auth=91d17841f716537b70448184dae13c3538524fe58891159cb9e1d77ccb877b5a",
         "tags": [
@@ -401,18 +199,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/08/17/dia-mundial-peaton-una-persona-muere-cada-dos-minutos-accidentes-transito-orix/",
         "date": "2024-08-17 10:30:52",
         "sentiment_score": -0.2649138569831848
-    },
-    {
-        "title": "Un ataque israelí mata al menos a 10 personas en el sur del Líbano en uno de los incidentes más mortíferos desde el 7 de octubre",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Israel.jpg?quality=100&strip=info",
-        "tags": [
-            "guerra de israel",
-            "hezbollah",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/17/israel-ataca-nabatiyeh-sur-libano-trax/",
-        "date": "2024-08-17 10:16:00",
-        "sentiment_score": -0.8770079538226128
     },
     {
         "title": "Tensión entre Roma y Moscú por la entrada de dos periodistas de la RAI a territorio ruso",
@@ -8211,5 +7997,637 @@ export default [
         "link": "https://2001online.com/zona3d/tecnologia/bluesnarfing-robando-datos-a-traves-de-bluetooth/",
         "date": "2024-08-20 15:26:45",
         "sentiment_score": -0.6672518160194159
+    },
+    {
+        "title": "Sara Carbonero y Nacho Taboada rompen su relación",
+        "image_url": "https://www.infobae.com/resizer/v2/642C53OIGZCV3IKFEUPIV56C3I.jpg?auth=9766e7e8b0aa15d8e46dbbb478f592598025ed7b9e0ed1edd735407ee7a13ee4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/20/sara-carbonero-y-nacho-taboada-rompen-su-relacion/",
+        "date": "2024-08-20 21:38:27",
+        "sentiment_score": -0.7054422497749329
+    },
+    {
+        "title": "Feijóo regresará a Cerdedo-Cotobade (Pontevedra) el 31 de agosto para la tradicional apertura de curso político del PP",
+        "image_url": "https://www.infobae.com/resizer/v2/4IFIOPJRH5B6ZDUI4A6LE3CR3A.jpg?auth=6e8835bc5a4a4bfa219eab5279fd6d3b26030537272fc94fac1a1ec580749dd5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/feijoo-regresara-a-cerdedo-cotobade-pontevedra-el-31-de-agosto-para-la-tradicional-apertura-de-curso-politico-del-pp/",
+        "date": "2024-08-20 20:48:30",
+        "sentiment_score": 0.04053272306919098
+    },
+    {
+        "title": "Muere un joven de 21 años ahogado en una piscina de Los Palacios (Sevilla)",
+        "image_url": "./assets/ai_generated/v1_txt2img_a10303d91297465191f918c4e41c85f2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/muere-un-joven-de-21-anos-ahogado-en-una-piscina-de-los-palacios-sevilla/",
+        "date": "2024-08-20 20:46:44",
+        "sentiment_score": -0.7776515204459429
+    },
+    {
+        "title": "105-30. España arrolla a Montenegro para pasar a cuartos del Europeo femenino sub-16",
+        "image_url": "./assets/ai_generated/v1_txt2img_e8a53ce9fe314382b65fb6f1cd118e33.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/105-30-espana-arrolla-a-montenegro-para-pasar-a-cuartos-del-europeo-femenino-sub-16/",
+        "date": "2024-08-20 20:34:16",
+        "sentiment_score": 0.4194820299744606
+    },
+    {
+        "title": "Fortes, el sueño de todo niño que quiere ser torero",
+        "image_url": "./assets/ai_generated/v1_txt2img_2de448c5b7dd45dc97653c8d6963175c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/fortes-el-sueno-de-todo-nino-que-quiere-ser-torero/",
+        "date": "2024-08-20 20:33:57",
+        "sentiment_score": 0.012687236070632935
+    },
+    {
+        "title": "En estado grave un vigilante de un centro comercial de Huelva tras atropello intencionado",
+        "image_url": "./assets/ai_generated/v1_txt2img_fe92e537b96847b7ad0e16f1620075b4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/en-estado-grave-un-vigilante-de-un-centro-comercial-de-huelva-tras-atropello-intencionado/",
+        "date": "2024-08-20 20:33:40",
+        "sentiment_score": -0.8055318035185337
+    },
+    {
+        "title": "Joaquín se muestra optimista sobre la cesión de Vitor Roque al Betis",
+        "image_url": "./assets/ai_generated/v1_txt2img_4d49a088c5cf4e0e93222e32c70d60f3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/joaquin-se-muestra-optimista-sobre-la-cesion-de-vitor-roque-al-betis/",
+        "date": "2024-08-20 20:18:49",
+        "sentiment_score": 0.5323935151100159
+    },
+    {
+        "title": "Un hombre roba un radar de la DGT delante de una patrulla de la Guardia Civil y se expone una condena de 42 meses de cárcel",
+        "image_url": "https://www.infobae.com/resizer/v2/QVN3J7OTAFEKHFH4NV6IEWGII4.jpg?auth=e348250fd8ad148f13cad50b959eb9bb4160452c01a65ab6cc7861cf1822d5fd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/20/un-hombre-roba-un-radar-de-la-dgt-delante-de-una-patrulla-de-la-guardia-civil-y-se-expone-una-condena-de-42-meses-de-carcel/",
+        "date": "2024-08-20 20:18:32",
+        "sentiment_score": -0.700501935556531
+    },
+    {
+        "title": "Brian Flores admite le afectaron las críticas de Tua Tagovailoa, quarterback de Dolphins",
+        "image_url": "./assets/ai_generated/v1_txt2img_359cf47ede0e4ab78ffd3c863a5cd3f1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/brian-flores-admite-le-afectaron-las-criticas-de-tua-tagovailoa-quarterback-de-dolphins/",
+        "date": "2024-08-20 20:18:32",
+        "sentiment_score": -0.7949260473251343
+    },
+    {
+        "title": "Rafael Obrador llega a A Coruña para cerrar su fichaje por el Dépor",
+        "image_url": "./assets/ai_generated/v1_txt2img_7222e1ff098c465aa1c00c026a192073.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/rafael-obrador-llega-a-a-coruna-para-cerrar-su-fichaje-por-el-depor/",
+        "date": "2024-08-20 20:18:16",
+        "sentiment_score": 0.04991675913333893
+    },
+    {
+        "title": "Argentina revisa barco carguero donde tripulantes presentaron síntomas de viruela del mono",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/logo-cnn.webp",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/20/argentina-revisa-barco-tripulantes-sintomas-viruela-mono-orix/",
+        "date": "2024-08-20 22:11:42",
+        "sentiment_score": -0.1601438671350479
+    },
+    {
+        "title": "Trump promete enfocarse en temas de seguridad y justicia durante evento en Michigan",
+        "image_url": "./assets/ai_generated/v1_txt2img_183bf11f91c24852a5ce980affaaf08b.png",
+        "tags": [
+            "fast – general",
+            "partido republicano",
+            "noticias de donald trump",
+            "michigan",
+            "ee.uu.",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-seguridad-justicia-michigan-dusa-tv-fast/",
+        "date": "2024-08-20 22:05:25",
+        "sentiment_score": 0.21432723104953766
+    },
+    {
+        "title": "Una desgarradora historia de supervivencia: el trágico relato de una madre en una Gaza devastada por la guerra",
+        "image_url": "./assets/ai_generated/v1_txt2img_1004ddf909814f63abf9308c24b2159a.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tragica-historia-madre-gaza-guerra-israel-trax/",
+        "date": "2024-08-20 21:54:29",
+        "sentiment_score": -0.8777505047619343
+    },
+    {
+        "title": "Las noticias destacadas de la tarde del 20 de agosto en CNN en Español",
+        "image_url": "./assets/ai_generated/v1_txt2img_fa5acecbcb324998beffcf2c7e985efd.png",
+        "tags": [
+            "fast – news briefs",
+            "video",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-20-de-agosto-2024-dusa-tarde-fast/",
+        "date": "2024-08-20 21:29:11",
+        "sentiment_score": -0.011822447180747986
+    },
+    {
+        "title": "¿Qué es el síndrome del nido vacío y cómo reconocer sus signos?",
+        "image_url": "./assets/ai_generated/v1_txt2img_91ce66c2d72b4d83ae616d0cf5cca949.png",
+        "tags": [
+            "noticias de salud",
+            "fast – news variety",
+            "psicología",
+            "síndrome",
+            "xpress",
+            "salud mental"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sindrome-nido-vacio-y-como-reconocer-sus-signos-vls-fast/",
+        "date": "2024-08-20 21:20:20",
+        "sentiment_score": -0.2067979946732521
+    },
+    {
+        "title": "Un hombre sufrió más de 200 picaduras y dos caballos murieron en un ataque de abejas en el sur de California",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/video1483342864-00-04-45-24-imagen-fija037.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "fast – news variety",
+            "videos digitales",
+            "xpress",
+            "abejas",
+            "estados unidos noticias",
+            "animales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataque-abejas-california-ush-orix/",
+        "date": "2024-08-20 20:53:13",
+        "sentiment_score": -0.8606433225795627
+    },
+    {
+        "title": "EE.UU. sanciona al expresidente de Haití Michel Martelly por acusaciones de tráfico de drogas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/2015-10-01t000000z-1785292732-tb3eba1145d13-rtrmadp-3-un-assembly.webp",
+        "tags": [
+            "haití"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/20/estados-unidos-sanciona-expresidente-haiti-martelly-trax/",
+        "date": "2024-08-20 20:42:15",
+        "sentiment_score": -0.8812885228544474
+    },
+    {
+        "title": "BurgerFi podría declararse en quiebra. Esta es la razón.",
+        "image_url": "./assets/ai_generated/v1_txt2img_a01e1dc4a29241afa0a3f49dcb096e82.png",
+        "tags": [
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-burgerfi-bancarrota-problemas-economicos-cnn-dinero-tv/",
+        "date": "2024-08-20 20:35:52",
+        "sentiment_score": -0.9046487519517541
+    },
+    {
+        "title": "El lingote de oro alcanza por primera vez el millón de dólares",
+        "image_url": "./assets/ai_generated/v1_txt2img_4fccf060da854bc0928b3d0c81a44986.png",
+        "tags": [
+            "xpress",
+            "fast – general",
+            "oro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/oro-alcanza-record-historio-1-millon-dolares-cnn-dinero-tv/",
+        "date": "2024-08-20 20:17:13",
+        "sentiment_score": 0.36263735219836235
+    },
+    {
+        "title": "Video capta el momento en el que un rayo prende fuego una palmera",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/thumb-rayo.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "rayo",
+            "incendio",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rayo-prender-fuego-palmera-ush-trax/",
+        "date": "2024-08-20 20:03:52",
+        "sentiment_score": -0.298129603266716
+    },
+    {
+        "title": "El candidato independiente Robert F. Kennedy Jr. sopesa poner fin a su campaña para unirse a Trump",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/20/kennedy-jr-khQE-U602975659484N0B-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/candidato-independiente-robert-kennedy-sopesa-poner-fin-20240820234935-nt.html",
+        "date": "2024-08-20 21:49:35",
+        "sentiment_score": -0.07418498396873474
+    },
+    {
+        "title": "La espera vigilante",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/21/ABCTERCERA_trans_oliva-RBdtGEGCZQfEuBDosH9MZ5M-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/marta-oliva-espera-vigilante-20240821213540-nt.html",
+        "date": "2024-08-20 19:35:41",
+        "sentiment_score": -0.24929490685462952
+    },
+    {
+        "title": "Biden defiende su legado ante el recambio por Kamala: «América, te di lo mejor que tenía»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/20/jorjbirden-RCgKIaTzvY141xx5L4m11HK-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/biden-defiende-legado-ante-recambio-kamala-america-20240820212010-nt.html",
+        "date": "2024-08-20 19:20:11",
+        "sentiment_score": -0.09552344679832458
+    },
+    {
+        "title": "El tartán de Johnson",
+        "image_url": "./assets/ai_generated/v1_txt2img_d6c25d21cf8543d5956a39b3b5a097ea.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-tartan-johnson-20240821203404-nts.html",
+        "date": "2024-08-20 18:34:05",
+        "sentiment_score": 0.03367072343826294
+    },
+    {
+        "title": "Herramienta colonial",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/21/1485159270-U06372046217ZKY-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-herramienta-colonial-20240821155015-nt.html",
+        "date": "2024-08-20 18:30:58",
+        "sentiment_score": -0.18433038890361786
+    },
+    {
+        "title": "¿Son nuestros jueces independientes?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/21/1484091154-U21460201266hQR-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-fernandezmiranda-jueces-independientes-20240821155511-nt.html",
+        "date": "2024-08-20 18:30:23",
+        "sentiment_score": -0.14495687186717987
+    },
+    {
+        "title": "Principio de realidad",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/21/1485170093-U14406558780yld-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-principio-realidad-20240821183940-nt.html",
+        "date": "2024-08-20 18:29:24",
+        "sentiment_score": -0.1495397537946701
+    },
+    {
+        "title": "Detectan salmonella en un lote de fuet de la marca BonArea distribuido en siete regiones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5473JR45PVDF5NS3PDTMND63IU.jpeg?auth=71f2b4cfb172ff9528cb0909248f65b40ce99307034e43cd773d404c545dc5dc",
+        "tags": [
+            "supermercados",
+            "cataluña",
+            "seguridad alimentaria",
+            "salmonella",
+            "salud",
+            "alimentación"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-08-20/detectan-salmonella-en-un-lote-de-fuet-de-la-marca-bonarea-distribuido-en-siete-regiones.html",
+        "date": "2024-08-20 18:20:55",
+        "sentiment_score": -0.19918320327997208
+    },
+    {
+        "title": "Arabia Saudí se reúne con el Atlético para patrocinar el Metropolitano a través de su aerolínea ‘fantasma’",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/c1681b351749f06e50c1bed24ed51175740eff8a-1440x808.jpg",
+        "tags": [
+            "madrid",
+            "economía",
+            "empresas",
+            "fútbol"
+        ],
+        "link": "https://www.elindependiente.com/economia/2024/08/21/arabia-saudi-se-reune-con-el-atletico-para-patrocinar-el-metropolitano-a-traves-de-su-aerolinea-fantasma/",
+        "date": "2024-08-20 22:04:44",
+        "sentiment_score": 0.14644615352153778
+    },
+    {
+        "title": "El madrileño viaducto de Bailén cumple 150 años",
+        "image_url": "https://album.mediaset.es/eimg/2024/08/20/el-madrileno-viaducto-de-bailen-cumple-150-anos_841b.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.telecinco.es/noticias/madrid/20240820/viaducto-bailen-cumple-anos_18_013270464.html",
+        "date": "2024-08-20 22:01:59",
+        "sentiment_score": 0.04089857637882233
+    },
+    {
+        "title": "Cuáles serían las jugadoras que saldrían de Colombia para el Mundial Femenino Sub-20: habría sorpresas",
+        "image_url": "https://www.infobae.com/resizer/v2/MUBJWWRWDZA5VKACTQ5TTDLAGU.jpg?auth=f6a7c77a7cede95f9a45dcaed53958f8629981add764226715dc8e8357c8e458",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/20/cuales-serian-las-jugadoras-que-saldrian-de-colombia-para-el-mundial-femenino-sub-20-habria-sorpresas/",
+        "date": "2024-08-20 21:59:38",
+        "sentiment_score": -0.12842969596385956
+    },
+    {
+        "title": "Los mapas de Mónica y Daniel se han convertido en objeto de culto para los lectores de toda España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/821f35ea-8c65-4fad-9122-739c3d56f978_16-9-aspect-ratio_default_0_x863y649.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2024/08/20/mapas-monica-daniel-han-convertido-107191538.html",
+        "date": "2024-08-20 20:44:09",
+        "sentiment_score": -0.13513316214084625
+    },
+    {
+        "title": "Balaídos, fortín de siete partidos sin perder",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9fb2d9e5-cc8b-42ab-a4ee-a8c870b9a483_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/08/20/balaidos-fortin-siete-partidos-perder-107191714.html",
+        "date": "2024-08-20 20:33:46",
+        "sentiment_score": 0.13091135025024414
+    },
+    {
+        "title": "Conoce las terroríficas conclusiones del sorpresivo adiós de Gündoğan del Barça",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/20/2024082022003250505.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/cuales-son-conclusiones-caso-prematuro-adios-gundogan-barca/20240820220357315968.html",
+        "date": "2024-08-20 20:03:57",
+        "sentiment_score": -0.9329934250563383
+    },
+    {
+        "title": "Muere un adolescente por un ataque ruso sobre una zona infantil en Zaporiyia",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240820220256_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-muere-adolescente-ataque-ruso-zona-infantil-zaporiyia-20240820220256.html",
+        "date": "2024-08-20 20:02:56",
+        "sentiment_score": -0.8031922206282616
+    },
+    {
+        "title": "La verdad sobre el supuesto interés de River Plate en James Rodríguez: “Su deseo es ir a Europa”",
+        "image_url": "./assets/ai_generated/v1_txt2img_a3d42e3173c244ffa6576b63c0426ff8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/20/la-verdad-sobre-el-supuesto-interes-de-river-plate-en-james-rodriguez-su-deseo-es-ir-a-europa/",
+        "date": "2024-08-20 19:59:26",
+        "sentiment_score": -0.6804413162171841
+    },
+    {
+        "title": "¡Kroos se burla del Barça! Su respuesta viral sobre la salida de Gündogan",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2bd2c8a4-bd82-4ac9-a459-8eb7e3ba59d6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/08/20/kroos-burla-barca-respuesta-viral-107191060.html",
+        "date": "2024-08-20 19:58:01",
+        "sentiment_score": -0.6809834595769644
+    },
+    {
+        "title": "Largas colas de espera en la frontera del Tarajal dirección Marruecos",
+        "image_url": "./assets/ai_generated/v1_txt2img_2b5af311b727451c90a2495d8601908e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1088630",
+        "date": "2024-08-20 22:07:02",
+        "sentiment_score": -0.005112141370773315
+    },
+    {
+        "title": "Un verano con muchas medusas provoca un alud de picadas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/20/66c4ed59b77c2.r_d.2105-1908-0.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240821/9880813/verano-muchas-medusas-provoca-alud-picadas.html",
+        "date": "2024-08-20 22:05:00",
+        "sentiment_score": 0.021137818694114685
+    },
+    {
+        "title": "Una alianza entre Barcelona y el Delta del Ebro",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/05/31/665ac5deb2cb3.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240821/9879382/alianza-barcelona-delta-ebro.html",
+        "date": "2024-08-20 22:05:00",
+        "sentiment_score": -0.027060166001319885
+    },
+    {
+        "title": "Maquinistas, Murcia y un acuerdo con Adif: las claves del 'frenazo' de Ouigo en Valladolid",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/maquinista-de-ouigo-en-la-estacion-de-valladolid-1440x808.jpg",
+        "tags": [
+            "renfe",
+            "óscar puente",
+            "empresas",
+            "ouigo",
+            "economía"
+        ],
+        "link": "https://www.elindependiente.com/economia/2024/08/21/maquinistas-murcia-y-un-acuerdo-con-adif-las-claves-del-frenazo-de-ouigo-en-valladolid/",
+        "date": "2024-08-20 22:04:52",
+        "sentiment_score": 0.16181719675660133
+    },
+    {
+        "title": "La mala suerte",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/08/20/Clipboard-0134--758x531.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/opinion/rosa-belmonte-mala-suerte-20240821000054-ntrc.html",
+        "date": "2024-08-20 22:00:56",
+        "sentiment_score": -0.9059383310377598
+    },
+    {
+        "title": "Yates, veleros y muchos catamaranes: el mejor palco para seguir la Copa América de vela",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/07/img-0155-1440x808.jpeg",
+        "tags": [
+            "tendencias",
+            "cataluña",
+            "barcelona"
+        ],
+        "link": "https://www.elindependiente.com/espana/cataluna/2024/08/21/yates-veleros-y-muchos-catamaranes-el-mejor-palco-para-seguir-la-copa-america-de-vela/",
+        "date": "2024-08-20 22:00:00",
+        "sentiment_score": 0.4443567283451557
+    },
+    {
+        "title": "Una empresa catalana se lanza a por un trozo de un pastel de 93.000 millones en Arabia Saudí",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/19/creacion/vida-tecky/879422131_13354642_1706x960.jpg?contentId=ESPIMA20240819_0082",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/vida-tecky/20240821/una-catalana-un-de-millones-arabia-saudi/879412115_0.html",
+        "date": "2024-08-20 22:00:00",
+        "sentiment_score": 0.19612697884440422
+    },
+    {
+        "title": "Estos son los restaurantes que tiene que visitar si estás en Cornellà de Llobregat",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/08/20/2024082008340671799.jpg",
+        "tags": [
+            "turismo"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/turismo/son-restaurantes-que-tiene-que-visitar-cornella-llobregat/20240821000000830507.html",
+        "date": "2024-08-20 22:00:00",
+        "sentiment_score": -0.05250507593154907
+    },
+    {
+        "title": "Avioneta se estrella en Texas y deja dos fallecidos (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-316.png",
+        "tags": [
+            "texas",
+            "texas eeuu",
+            "sucesos",
+            "odessa",
+            "avioneta"
+        ],
+        "link": "https://2001online.com/sucesos/avioneta-se-estrella-en-texas-y-deja-dos-fallecidos-detalles/",
+        "date": "2024-08-20 21:52:54",
+        "sentiment_score": -0.805603913962841
+    },
+    {
+        "title": "Sepa cuánto puede ahorrar si Trump elimina el impuesto del Seguro Social",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/04/impuestos.jpg",
+        "tags": [
+            "seguro social",
+            "impuesto",
+            "trump",
+            "internacionales",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/sepa-cuanto-puede-ahorrar-si-trump-elimina-el-impuesto-del-seguro-social/",
+        "date": "2024-08-20 21:51:22",
+        "sentiment_score": 0.15557275712490082
+    },
+    {
+        "title": "EEUU | Costco mantendrá estas ofertas por una semana (+PRECIOS)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/imagen-1024x274.png",
+        "tags": [
+            "costco",
+            "rebajas",
+            "descuentos de verano",
+            "ofertas",
+            "2001online",
+            "internacionales",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-costco-mantendra-estas-ofertas-por-una-semana-precios/",
+        "date": "2024-08-20 21:49:03",
+        "sentiment_score": 0.45411455631256104
+    },
+    {
+        "title": "Mujer de 41 años fue detenida por abusar sexualmente de un adolescente",
+        "image_url": "https://2001online.com/wp-content/uploads/2023/12/6.jpg",
+        "tags": [
+            "mujer abuso sexual mente de un adolescente",
+            "adolescente",
+            "sucesos",
+            "anzoategui",
+            "mujer"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-de-41-anos-fue-detenida-por-abusar-sexualmente-de-un-adolescente/",
+        "date": "2024-08-20 21:21:57",
+        "sentiment_score": -0.5670591406524181
+    },
+    {
+        "title": "Dip. Faría: Las sanciones ya no son un obstáculo para la economía en Venezuela",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/devaluacion-billetes-dolar-696x397-1.jpg",
+        "tags": [
+            "nacionales",
+            "economía venezolana",
+            "jesús faría",
+            "sanciones a venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/dip-faria-las-sanciones-ya-no-son-un-obstaculo-para-la-economia-en-venezuela/",
+        "date": "2024-08-20 21:20:58",
+        "sentiment_score": -0.0821571946144104
+    },
+    {
+        "title": "Una mujer fue arrollada por una camionetica en Petare este #20Ago",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Petare-mujer-arrollamiento-1280x720.jpeg",
+        "tags": [
+            "petare",
+            "transporte público",
+            "2001online",
+            "venezuela",
+            "sucesos",
+            "mujer arrollada"
+        ],
+        "link": "https://2001online.com/sucesos/una-mujer-fue-arrollada-por-una-camionetica-en-petare-este-20ago/",
+        "date": "2024-08-20 21:00:00",
+        "sentiment_score": -0.7974410969763994
+    },
+    {
+        "title": "Arranca pago de bono especial en el Sistema Patria este #20Ago (+Monto)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-315.png",
+        "tags": [
+            "agosto",
+            "primero bono de agosto",
+            "servicios",
+            "sistema patria",
+            "bono"
+        ],
+        "link": "https://2001online.com/servicios/arranca-pago-de-bono-especial-en-el-sistema-patria-este-20ago-monto/",
+        "date": "2024-08-20 21:00:00",
+        "sentiment_score": 0.24712948501110077
+    },
+    {
+        "title": "Remueve la suciedad del colchón con estos ingredientes",
+        "image_url": "./assets/ai_generated/v1_txt2img_2a7da9db6e134ab8bf8fc74b7290be90.png",
+        "tags": [
+            "casa",
+            "colchón",
+            "hogar",
+            "zona3d"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/remueve-la-suciedad-del-colchon-con-estos-ingredientes/",
+        "date": "2024-08-20 20:01:45",
+        "sentiment_score": 0.20697344839572906
+    },
+    {
+        "title": "EEUU | Estos son los billetes de dólar más cotizados y buscados por coleccionistas",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/billete-1200x720.jpg",
+        "tags": [
+            "internacionales",
+            "coleccionistas",
+            "valor",
+            "dólar",
+            "más buscados",
+            "eeuu",
+            "2001online",
+            "billetes",
+            "costo",
+            "subasta"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-estos-son-billetes-dolar-cotizados-buscados-coleccionistas/",
+        "date": "2024-08-20 20:00:00",
+        "sentiment_score": -0.04407912492752075
+    },
+    {
+        "title": "Conozca dónde abrirán las nuevas sucursales de Costco en EEUU (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Cortesia-El-Diario-NY.jpg",
+        "tags": [
+            "internacionales",
+            "nuevas sucursales en eeuu",
+            "eeuu",
+            "costco"
+        ],
+        "link": "https://2001online.com/internacionales/conozca-donde-abriran-las-nuevas-sucursales-de-costco-en-eeuu-detalles/",
+        "date": "2024-08-20 20:00:00",
+        "sentiment_score": 0.19255693070590496
     }
 ];
