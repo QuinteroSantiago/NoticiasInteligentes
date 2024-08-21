@@ -156,51 +156,6 @@ export default [
         "sentiment_score": -0.7653960324823856
     },
     {
-        "title": "Bomberos trabajan para apagar un incendio en la histórica Somerset House de Londres",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/incendio-londres.jpg?quality=100&strip=info",
-        "tags": [
-            "incendio",
-            "reino unido"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/17/bomberos-incendio-somerset-house-de-londres-trax/",
-        "date": "2024-08-17 13:45:17",
-        "sentiment_score": -0.13072210550308228
-    },
-    {
-        "title": "Entran en vigor grandes cambios en la forma de comprar y vender una casa en EE.UU.: en qué consisten",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/venta-vivienda.jpg?quality=100&strip=info",
-        "tags": [
-            "viviendas",
-            "economía"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/17/grandes-cambios-comprar-y-vender-casa-eeuu-trax/",
-        "date": "2024-08-17 12:02:53",
-        "sentiment_score": 0.45782676339149475
-    },
-    {
-        "title": "OPINIÓN | Soluciones audaces para Venezuela",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2165164516_16e685.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "nicolás maduro"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/17/opinion-soluciones-venezuela-castaneda-orix/",
-        "date": "2024-08-17 11:00:36",
-        "sentiment_score": -0.1570959985256195
-    },
-    {
-        "title": "Día Mundial el Peatón: una persona muere cada dos minutos por accidentes de tránsito en el mundo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/230409114712-01-woodland-california-teen-fatal-police-chase-full-169.jpg?quality=100&strip=info",
-        "tags": [
-            "noticias de salud",
-            "accidentes de tránsito",
-            "seguridad"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/17/dia-mundial-peaton-una-persona-muere-cada-dos-minutos-accidentes-transito-orix/",
-        "date": "2024-08-17 10:30:52",
-        "sentiment_score": -0.2649138569831848
-    },
-    {
         "title": "Tensión entre Roma y Moscú por la entrada de dos periodistas de la RAI a territorio ruso",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/17/StefaniaBattistini1-Rz47oiGyzoC1rxRwHHmiREI-758x531@diario_abc.jpg",
         "tags": [
@@ -221,16 +176,6 @@ export default [
         "sentiment_score": -0.4402921199798584
     },
     {
-        "title": "Israel mata a 10 personas en Líbano mientras las negociaciones de Doha se retomarán la próxima semana",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/17/nabatieh-RwvgUw5IPtjGA54KkiJxppJ-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-mata-personas-libano-conversaciones-alto-fuego-20240817130304-nt.html",
-        "date": "2024-08-17 11:09:21",
-        "sentiment_score": -0.18234984576702118
-    },
-    {
         "title": "El ciberdelincuente que ayudó a estafar a más de 500 millones de personas y se escondía en Estepona",
         "image_url": "https://imagenes.elpais.com/resizer/v2/LXP75AQGDW5UULROHPDGNJZD2M.jpg?auth=57000dc46fca486c67a89865b637c7abf72a4cb14712669f53db3e9f64d06b40",
         "tags": [
@@ -248,27 +193,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-17/el-ciberdelincuente-que-ayudo-a-estafar-a-mas-de-500-millones-de-personas-y-se-escondia-en-estepona.html",
         "date": "2024-08-17 15:09:24",
         "sentiment_score": -0.6600266136229038
-    },
-    {
-        "title": "Las víctimas piden no caer en el olvido en el séptimo aniversario de los atentados del 17-A",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7E776HLJOXMVO2STBEY4JB6ZBM.jpg?auth=82dcab1997266544f69833ec7818f5e967b0f4946289d00d0d846f09b97dbb81",
-        "tags": [
-            "sentencias condenatorias",
-            "yihadismo",
-            "terrorismo islamista",
-            "barcelona",
-            "sentencias",
-            "cataluña",
-            "ripoll",
-            "víctimas terrorismo",
-            "terrorismo",
-            "mossos d'esquadra",
-            "cambrils",
-            "atentados barcelona y cambrils"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-17/las-victimas-piden-no-caer-en-el-olvido-en-el-septimo-aniversario-de-los-atentados-del-17-a.html",
-        "date": "2024-08-17 10:20:48",
-        "sentiment_score": -0.80950559489429
     },
     {
         "title": "La titularidad de Gerard Moreno, principal duda para el arranque liguero del Villarreal",
@@ -8629,5 +8553,565 @@ export default [
         "link": "https://2001online.com/internacionales/conozca-donde-abriran-las-nuevas-sucursales-de-costco-en-eeuu-detalles/",
         "date": "2024-08-20 20:00:00",
         "sentiment_score": 0.19255693070590496
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 21 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/4MK5MCDPBFGQHHVBVQHTSF7YZQ.jpg?auth=6971575b5c6d44bbb6bb7be5682556ac9c3a551e725e4dd1d8f32cc8387d161e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/21/clima-hoy-en-espana-temperaturas-para-malaga-este-21-de-agosto/",
+        "date": "2024-08-21 02:02:07",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en España: la previsión meteorológica para Madrid este 21 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/NKRY7KKF3ZA6TDFBHZD5K7AT4Q.jpg?auth=c3d09f259ede76037b891aa12da19a2481a0b0f61eb1fad25147b502cff169ae",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/21/clima-en-espana-la-prevision-meteorologica-para-madrid-este-21-de-agosto/",
+        "date": "2024-08-21 01:31:27",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 21 de agosto en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/D3THZLRWXNENJODQMTVBEA4BJM.jpg?auth=f7a10c129deb79567de965a68e7b136260f226c0b2f632d9308c9449cce762db",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/21/clima-las-temperaturas-que-predominaran-este-21-de-agosto-en-barcelona/",
+        "date": "2024-08-21 01:01:02",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 21 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_5e463681c5314930b8104502d9693693.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/20/hoy-sera-noticia-miercoles-21-de-agosto-de-2024/",
+        "date": "2024-08-20 22:38:39",
+        "sentiment_score": 0.026462126523256302
+    },
+    {
+        "title": "Isabel Allende: Gobierno de Maduro es autoritario, es dictatorial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164043007-20240818014024792_6cddc8.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "nicolás maduro",
+            "fast – news variety",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/senadora-isabel-allende-venezuela-maduro-gobierno-autoritario-dictatorial-panorama-mundial-tv/",
+        "date": "2024-08-21 02:12:34",
+        "sentiment_score": -0.7536106798797846
+    },
+    {
+        "title": "EE.UU.: Rusia tiene dificultades para responder a los avances de Ucrania",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20883703-26102-333000000002-still.jpg?quality=100&strip=info",
+        "tags": [
+            "ucrania",
+            "guerra de rusia en ucrania",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dept-defensa-eeuu-rusia-avance-ucrania-kursk-panorama-mundial-tv/",
+        "date": "2024-08-21 02:11:58",
+        "sentiment_score": -0.7267525214701891
+    },
+    {
+        "title": "¿Por qué preocupa a inversionistas reforma judicial de López Obrador?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2166772821-20240821004535632_a2e2bc.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress",
+            "reforma judicial",
+            "méxico",
+            "amlo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-judicial-amlo-preocupacion-inversionistas-panorama-mundial-tv/",
+        "date": "2024-08-21 02:11:18",
+        "sentiment_score": -0.23277968168258667
+    },
+    {
+        "title": "Patrulla Fronteriza de EE.UU. decomisa sandías falsas con metanfetamina valuada en US$ 5 millones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/decomisan-metanfetamina-sandias-patrulla-fronteriza.jpg?quality=100&strip=info",
+        "tags": [
+            "metanfetamina",
+            "drogas",
+            "cbp",
+            "patrulla fronteriza"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/20/patrulla-fronteriza-ee-uu-decomisa-sandias-falsas-metanfetamina-valuadas-us-5-millones-orix/",
+        "date": "2024-08-21 01:59:49",
+        "sentiment_score": -0.6346240229904652
+    },
+    {
+        "title": "Denuncian la detención de la periodista Ana Carolina Guaita en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Ana-Carolina-Guaita.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "venezuela noticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/20/denuncian-detencion-periodista-ana-carolina-guaita-venezuela-orix/",
+        "date": "2024-08-21 01:24:11",
+        "sentiment_score": -0.7724219001829624
+    },
+    {
+        "title": "Honduras reforzará vigilancia en fronteras y aeropuertos para evitar posible ingreso de viajeros con síntomas de viruela del mono",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/viruela-mono.jpg?quality=100&strip=info",
+        "tags": [
+            "viruela del mono",
+            "honduras"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/20/honduras-vigilancia-fronteras-aeropuertos-viruela-mono-orix/",
+        "date": "2024-08-21 00:54:22",
+        "sentiment_score": -0.019261658191680908
+    },
+    {
+        "title": "¿Podría la reforma judicial de AMLO resolver los problemas de justicia en México?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2166772821-20240821004535632.jpg?quality=100&strip=info",
+        "tags": [
+            "justicia",
+            "reforma judicial",
+            "méxico",
+            "amlo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-judicial-amlo-problemas-necesidades-foros-mexico-opina-tv/",
+        "date": "2024-08-21 00:48:44",
+        "sentiment_score": -0.5566573143005371
+    },
+    {
+        "title": "Nicaragua revoca registro a organizaciones sin fines de lucro en una nueva ola de represión",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20887399-2523510-still.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina",
+            "nicaragua",
+            "fast – news variety",
+            "méxico",
+            "dictadura argentina",
+            "inundaciones",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/recorrido-latinoamerica-nicaragua-revoca-reginsto-ong-represion-perspectivas-tv/",
+        "date": "2024-08-21 00:19:16",
+        "sentiment_score": -0.8975423350930214
+    },
+    {
+        "title": "Irán dice que no tomará \"acciones apresuradas\" contra Israel por el asesinato del líder político de Hamas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/2024-08-01t065316z-661455330-rc2u69anzwff-rtrmadp-3-israel-palestinians-hamas-iran.webp",
+        "tags": [
+            "hezbollah",
+            "irán",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/20/iran-acciones-apresuradas-israel-hamas-trax/",
+        "date": "2024-08-21 00:11:15",
+        "sentiment_score": -0.8240006510168314
+    },
+    {
+        "title": "Blinken afirma que Israel aceptó los términos de la retirada de Gaza en una \"propuesta puente\", a pesar de dichos de Netanyahu",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/2024-08-20t192235z-1250981041-rc2vj9aod415-rtrmadp-3-israel-palestinians-blinken.jpeg?quality=100&strip=info",
+        "tags": [
+            "guerra israel y hamas",
+            "antony blinken",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/20/blinken-israel-terminos-retirada-gaza-netanyahu-trax/",
+        "date": "2024-08-21 00:09:26",
+        "sentiment_score": -0.14717546105384827
+    },
+    {
+        "title": "El Sebin, la maquinaria de terror del chavismo para aplastar a la disidencia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/20/simonovi-kTeH-RpwVRjB0jCGKNhwerP8oFcJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/sebin-maquinaria-terror-chavismo-aplastar-disidencia-20240820200229-nt.html",
+        "date": "2024-08-21 02:02:53",
+        "sentiment_score": -0.10754537582397461
+    },
+    {
+        "title": "Inditex lanzará también en España la venta por 'streaming' tras el éxito con Zara en China",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/21/zara-inditex-streaming-kQpB-RUOUylyz8dPOxUE0rZ4l52K-758x531@diario_abc.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/inditex-lanzara-espana-venta-streaming-tras-exito-20240821194624-nt.html",
+        "date": "2024-08-21 02:02:26",
+        "sentiment_score": -0.11132082343101501
+    },
+    {
+        "title": "La banca suelta 23.600 millones de lastre de activos tóxicos desde 2023",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/20/bde-banca-R708ZFx8sW0DXpQhaflmQxI-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/banca-suelta-23600-millones-lastre-activos-toxicos-20240820184702-nt.html",
+        "date": "2024-08-21 02:01:45",
+        "sentiment_score": -0.09526948630809784
+    },
+    {
+        "title": "Los trabajadores mayores de 55 años se duplican en las últimas dos décadas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/21/Imagen(193849984)-RQfET66NPhINoTFnuDTD5eO-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/trabajadores-mayores-anos-duplican-ultimas-dos-decadas-20240821040112-nt.html",
+        "date": "2024-08-21 02:01:13",
+        "sentiment_score": -0.07731935381889343
+    },
+    {
+        "title": "Pablo Martínez, sus últimos días como ‘granota’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/87a1b6e2-e622-4ffa-8bfd-fcc4ebb1599e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/levante-ud/2024/08/21/pablo-martinez-ultimos-dias-granota-107191268.html",
+        "date": "2024-08-21 02:00:55",
+        "sentiment_score": -0.6631952449679375
+    },
+    {
+        "title": "Mbappé lleva a las instancias debidas su reclamo al PSG",
+        "image_url": "https://i0.wp.com/elsiglo.com.ve/wp-content/uploads/2024/08/frances.jpg?resize=696%2C391&ssl=1",
+        "tags": [
+            "psg",
+            "kylian mbappé",
+            "deportes",
+            "noticias destacadas"
+        ],
+        "link": "https://elsiglo.com.ve/2024/08/20/mbappe-lleva-a-las-instancias-debidas-su-reclamo-al-psg/",
+        "date": "2024-08-21 01:36:11",
+        "sentiment_score": -0.2973106801509857
+    },
+    {
+        "title": "El Gobierno se olvida de José Manuel Franco en su última remesa de medallas a ex altos cargos",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/06/BEGO-BARRABES-1406-469x317.jpg",
+        "tags": [
+            "consejo superior de deportes (csd)",
+            "boe",
+            "condecoraciones",
+            "política",
+            "josé manuel franco",
+            "psoe",
+            "pedro sánchez"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-08-21/gobierno-franco-medallas-cargos/",
+        "date": "2024-08-21 01:30:00",
+        "sentiment_score": -0.6546421442180872
+    },
+    {
+        "title": "La mirada leonesa que inmortalizó la etapa de posguerra",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/20/66c4d3bdddaa3.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240821/1599725/mirada-leonesa-inmortalizo-etapa-posguerra.html",
+        "date": "2024-08-21 01:30:00",
+        "sentiment_score": -0.6028837114572525
+    },
+    {
+        "title": "Cuca Kamala",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/240821/1599813/cuca-kamala.html",
+        "date": "2024-08-21 01:30:00",
+        "sentiment_score": -0.025519490242004395
+    },
+    {
+        "title": "¿Cómo es el posgrado que facilita el empleo?",
+        "image_url": "https://s1.elespanol.com/2024/07/22/espana/872423101_247959666_1706x960.png?contentId=ESPIMA20240722_0352",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20240821/posgrado-facilita-empleo/872412979_0.html",
+        "date": "2024-08-21 00:37:24",
+        "sentiment_score": 0.8092303518205881
+    },
+    {
+        "title": "Intrum e Hipoges, los grandes 'fontaneros' de la burbuja inmobiliaria, ya gestionan más de 100.000M 'tóxicos'",
+        "image_url": "https://s1.elespanol.com/2024/06/16/invertia/observatorios/vivienda/863423765_248590883_1706x960.jpg?contentId=ESPIMA20240616_0116",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20240821/intrum-hipoges-grandes-fontaneros-burbuja-inmobiliaria-gestionan-toxicos/879662304_0.html",
+        "date": "2024-08-21 00:34:06",
+        "sentiment_score": -0.18054574728012085
+    },
+    {
+        "title": "Riqueza en España: otra cuestión de vivienda",
+        "image_url": "https://s1.elespanol.com/2024/08/20/invertia/opinion/879672252_248581667_1706x960.jpg?contentId=ESPIMA20240820_0228",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20240821/riqueza-espana-cuestion-vivienda/879782014_12.html",
+        "date": "2024-08-21 00:25:22",
+        "sentiment_score": -0.05160657316446304
+    },
+    {
+        "title": "'Alien: Romulus' es a 'Alien' lo que OnlyFans al sexo",
+        "image_url": "https://s1.elespanol.com/2024/08/20/opinion/columnas/879672573_248591824_1706x960.jpg?contentId=ESPIMA20240820_0549",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20240821/alienromuluses-alienlo-onlyfans-sexo/879792016_13.html",
+        "date": "2024-08-21 00:24:51",
+        "sentiment_score": -0.2296634577214718
+    },
+    {
+        "title": "Las 24 horas del 'top manta' en Madrid: más detenciones y \"menos caja\" pese al 'boom' turístico de la capital",
+        "image_url": "https://s1.elespanol.com/2018/08/14/espana/begona_villacis-ciudadanos-partido_de_la_ciudadania-madrid_330228115_93287486_1706x960.jpg?contentId=ESPIMA20180814_1141",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20240821/horas-top-manta-madrid-detenciones-caja-pese-boom-turistico-capital/879662350_0.html",
+        "date": "2024-08-21 00:22:33",
+        "sentiment_score": -0.45387912914156914
+    },
+    {
+        "title": "Baraja brilla con una lección de fútbol a sus jugadores",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cb929f17-41c6-4a48-be57-13ff0c8bdc97_16-9-aspect-ratio_default_1320958.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/08/21/baraja-brilla-leccion-futbol-jugadores-107191600.html",
+        "date": "2024-08-21 02:00:57",
+        "sentiment_score": 0.7801244370639324
+    },
+    {
+        "title": "¿Qué pasa si queremos vivir en el centro?",
+        "image_url": "./assets/ai_generated/v1_txt2img_a89144afc99f4aa281626f4e3c0058ea.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/08/21/pasa-queremos-vivir-centro-107183123.html",
+        "date": "2024-08-21 02:00:47",
+        "sentiment_score": -0.5540470071136951
+    },
+    {
+        "title": "Casi todos por encima de los 1.000 euros al mes: cuánto cuesta alquilar un apartamento en los municipios costeros de España",
+        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/08/varios-edificios-apartamentos-3986375.jpg?tf=1200x",
+        "tags": [
+            "vivienda",
+            "economía",
+            "barcelona",
+            "top",
+            "trending",
+            "vacaciones",
+            "alquiler"
+        ],
+        "link": "https://www.businessinsider.es/casi-todos-encima-1000-euros-mes-cuanto-cuesta-alquilar-apartamento-municipios-costeros-espana-1400846",
+        "date": "2024-08-21 01:30:02",
+        "sentiment_score": -0.1934220939874649
+    },
+    {
+        "title": "Bach ante la adaptación política de Puigdemont",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "tribunas"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/tribunas/240821/1599602/bach-adaptacion-politica-puigdemont.html",
+        "date": "2024-08-21 01:30:00",
+        "sentiment_score": -0.4258347600698471
+    },
+    {
+        "title": "La joya de la selección argentina que asoma como candidato a reemplazar a Marcos Acuña en el Sevilla",
+        "image_url": "https://www.infobae.com/resizer/v2/3W5APAYJNNEBBGGA37YTB5IFWA.png?auth=1c211cff473966be73e2fc323fec134755160d5fbcf497b7f8e6e2a4e9b7f4b5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/21/la-joya-de-la-seleccion-argentina-que-asoma-como-candidato-a-reemplazar-a-marcos-acuna-en-el-sevilla/",
+        "date": "2024-08-21 00:47:05",
+        "sentiment_score": 0.14408335834741592
+    },
+    {
+        "title": "La historia tras la 'yaya' de TikTok que vive en una cabaña alejada del mundo: \"No soy una atracción\"",
+        "image_url": "https://s1.elespanol.com/2024/08/16/reportajes/878672194_248502699_1706x960.jpg?contentId=ESPIMA20240816_0070",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240821/historia-yaya-tiktok-vive-cabana-alejada-mundo-no-atraccion/878162552_0.html",
+        "date": "2024-08-21 00:37:23",
+        "sentiment_score": 0.10412769019603729
+    },
+    {
+        "title": "El Barça acelera la salida de Gundogan para cumplir su promesa con Dani Olmo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/20/culemania/primer-equipo/879672201_13361122_1706x960.png?contentId=ESPIMA20240820_0177",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240821/el-barca-acelera-gundogan-cumplir-promesa-condaniolmo/879662124_0.html",
+        "date": "2024-08-21 00:14:27",
+        "sentiment_score": 0.18395166099071503
+    },
+    {
+        "title": "El patrocinador del Barça que pone en alerta a Laporta: demandado por impagos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/21/culemania/palco/879922001_13361211_1706x960.jpg?contentId=ESPIMA20240821_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240821/el-patrocinador-barca-alerta-laporta-demandado-impagos/879912001_0.html",
+        "date": "2024-08-21 00:13:24",
+        "sentiment_score": -0.8173322984948754
+    },
+    {
+        "title": "Hansi Flick no lo quiere en el Barça: ya le ha dicho que jugará muy poco",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/17/culemania/primer-equipo/878922159_13360705_1706x960.jpg?contentId=ESPIMA20240817_0060",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240821/hansi-flick-quiere-barca-dicho-jugara-poco/879662116_0.html",
+        "date": "2024-08-21 00:11:49",
+        "sentiment_score": -0.0013629794120788574
+    },
+    {
+        "title": "California | Los valet parking en San Francisco necesitan cumplir estos requisitos (+SUELDOS)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/nota-valet-parking.jpg",
+        "tags": [
+            "2001online",
+            "san francisco",
+            "estados unidos",
+            "valet parking",
+            "eeuu",
+            "internacionales",
+            "california"
+        ],
+        "link": "https://2001online.com/internacionales/california-los-valet-parking-en-san-francisco-necesitan-cumplir-estos-requisitos-sueldos/",
+        "date": "2024-08-21 02:00:00",
+        "sentiment_score": 0.47891174256801605
+    },
+    {
+        "title": "Bye, Bye, Bye de NCYNC ha revivido gracias a Deadpool y Wolverine",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Un-desamor-convertido-en-exito.jpg",
+        "tags": [
+            "cine",
+            "ncync",
+            "bye bye bye",
+            "deadpool & wolverine",
+            "entretenimiento",
+            "musica",
+            "ryan reynolds",
+            "zona 3d",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/zona3d/entretenimiento/bye-bye-bye-de-ncync-ha-revivido-gracias-a-deadpool-y-wolverine/",
+        "date": "2024-08-21 01:30:32",
+        "sentiment_score": 0.37889212369918823
+    },
+    {
+        "title": "Se Busca: Asesinó a su ex novia en una fiesta y lanzó su cuerpo al río Guaire (+DETALLES)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/mujer-sujeto.jpeg",
+        "tags": [
+            "mujer asesinada",
+            "rio guaire",
+            "sucesos",
+            "mototaxista",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/sucesos/se-busca-asesino-a-su-ex-novia-en-una-fiesta-y-lanzo-su-cuerpo-al-rio-guaire-detalles/",
+        "date": "2024-08-21 01:30:00",
+        "sentiment_score": -0.4920528531074524
+    },
+    {
+        "title": "Polvo del Sahara vuelve a Venezuela (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Screenshot-2024-08-20-21.26.49.png",
+        "tags": [
+            "polvo de sahara",
+            "polvo de sahara en venezuela",
+            "polvo del sahara",
+            "nacionales",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/polvo-del-sahara-vuelve-a-venezuela-detalles/",
+        "date": "2024-08-21 01:30:00",
+        "sentiment_score": 0.06427915394306183
+    },
+    {
+        "title": "Crean escuadrón para enfrentar al Tren de Aragua en EEUU (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/AP21081856619011_t800.jpg",
+        "tags": [
+            "colorado",
+            "internacionales",
+            "tren de aragua"
+        ],
+        "link": "https://2001online.com/internacionales/crean-escuadron-para-enfrentar-al-tren-de-aragua-en-eeuu-detalles/",
+        "date": "2024-08-21 01:30:00",
+        "sentiment_score": 0.15026739239692688
+    },
+    {
+        "title": "EEUU | Estas son las ofertas para trabajar como lavaplatos en Nuevo México (+Salarios)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/lavaplatos.jpg",
+        "tags": [
+            "eeuu",
+            "2001online",
+            "internacionales",
+            "empleos",
+            "nuevo méxico",
+            "lavaplatos"
+        ],
+        "link": "https://2001online.com/internacionales/estas-son-las-ofertas-para-los-lavaplatos-en-nuevo-mexico/",
+        "date": "2024-08-21 01:00:00",
+        "sentiment_score": -0.046239107847213745
+    },
+    {
+        "title": "¿Cuánto debe ganar al año para comprar casa en las ciudades más asequibles de EEUU?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/casa-1.jpg",
+        "tags": [
+            "comprar casa",
+            "internacionales",
+            "san luis",
+            "los ángeles",
+            "casa eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/cuanto-debe-ganar-al-ano-para-comprar-casa-en-las-ciudades-mas-asequibles-de-eeuu/",
+        "date": "2024-08-21 00:57:49",
+        "sentiment_score": -0.05126847326755524
+    },
+    {
+        "title": "EEUU | Pagan bono por $ 4.873: sepa quiénes lo reciben",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/bono.jpg",
+        "tags": [
+            "pago de bonos",
+            "eeuu",
+            "internacionales",
+            "bono eeuu",
+            "2001online",
+            "agosto"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-pagan-bono-por-4-873-sepa-quienes-lo-reciben/",
+        "date": "2024-08-21 00:45:00",
+        "sentiment_score": 0.07423749566078186
+    },
+    {
+        "title": "Transbarca activa rutas turísticas a cuatro estados (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/NDP-19-09-2023-14-unidades-de-Transbarca-fueron-entregadas-al-servicio-del-pueblo-larense-1.jpeg",
+        "tags": [
+            "comunidad",
+            "transbarca",
+            "estado lara"
+        ],
+        "link": "https://2001online.com/comunidad/transbarca-activa-rutas-turisticas-a-cuatro-estados-detalles/",
+        "date": "2024-08-21 00:38:20",
+        "sentiment_score": 0.2542992904782295
+    },
+    {
+        "title": "Caracas | Esto es lo que cuesta el protector solar más barato",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/1-2-1024x683.jpg",
+        "tags": [
+            "bronceador",
+            "más barato",
+            "eeuu",
+            "comunidad",
+            "precios",
+            "venezuela",
+            "2001online",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/comunidad/caracas-esto-es-lo-que-cuesta-el-protector-solar-mas-barato/",
+        "date": "2024-08-21 00:37:16",
+        "sentiment_score": 0.005414232611656189
     }
 ];
