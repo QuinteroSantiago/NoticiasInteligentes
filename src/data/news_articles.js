@@ -190,29 +190,6 @@ export default [
         "sentiment_score": -0.5824754238128662
     },
     {
-        "title": "Se espera que Ernesto vuelva a convertirse en huracán este domingo, mientras los impactos continúan en la costa este de EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/huracan-ernesto-canada.jpg?quality=100&strip=info",
-        "tags": [
-            "huracanes",
-            "ernesto",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/18/ernesto-huracan-impactos-costa-este-ee-uu-trax/",
-        "date": "2024-08-18 12:50:59",
-        "sentiment_score": -0.48386457934975624
-    },
-    {
-        "title": "Autoridades afirman que más de US$ 1,6 millones en cocaína aparecieron en las playas de Florida durante el huracán Debby",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/samuel.webp",
-        "tags": [
-            "huracán debby",
-            "huracanes"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/18/cocaina-playas-florida-huracan-debby-trax/",
-        "date": "2024-08-18 12:09:43",
-        "sentiment_score": -0.7520301286131144
-    },
-    {
         "title": "Donald Tusk irrumpe en el misterio del Nord Stream con un desafiante mensaje",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/18/donald-tusk-RISvsOj7wuORoodNYruBSwK-758x531@diario_abc.jpg",
         "tags": [
@@ -235,65 +212,6 @@ export default [
         "link": "https://www.meneame.net/story/testigos-catastrofe-descubren-extincion-dinosaurios-esta-escrita",
         "date": "2024-08-18 14:40:02",
         "sentiment_score": -0.08860307931900024
-    },
-    {
-        "title": "Israel mata a 19 personas en Gaza mientras Blinken acude a la región en busca de un acuerdo de alto el fuego",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/18/jan_yunis-RpNnXtd6fae11KzBh1kIOxL-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-mata-personas-gaza-blinken-acude-region-20240818134238-nt.html",
-        "date": "2024-08-18 12:09:01",
-        "sentiment_score": -0.16339394450187683
-    },
-    {
-        "title": "Muere apuñalado un niño de 10 años en Mocejón (Toledo)",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/94/media_thumb-link-3970123.webp",
-        "tags": [
-            "mocejón",
-            "niño",
-            "toledo",
-            "apuñalado",
-            "muere",
-            "actualidad"
-        ],
-        "link": "https://www.meneame.net/story/muere-apunalado-nino-10-anos-mocejon-toledo",
-        "date": "2024-08-18 11:30:02",
-        "sentiment_score": -0.4769434817135334
-    },
-    {
-        "title": "Ripoll, cuna de los autores del 17-A, rinde homenaje por primera vez a las víctimas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VPJSZCFJIXWGLMKKJC5MMTVWZA.jpg?auth=f9eec552b1aed2dff90812cac90a552bc189b3cb8b856c6d7387735f3e426f0b",
-        "tags": [
-            "cataluña",
-            "atentados barcelona y cambrils",
-            "terrorismo islamista",
-            "sílvia orriols",
-            "homenajes",
-            "terrorismo",
-            "barcelona",
-            "cambrils",
-            "ripoll",
-            "atentados con atropello"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-18/ripoll-cuna-de-los-autores-del-17-a-rinde-homenaje-por-primera-vez-a-las-victimas.html",
-        "date": "2024-08-18 12:06:24",
-        "sentiment_score": -0.03931987285614014
-    },
-    {
-        "title": "Muere un hombre de un infarto en el desalojo de un pueblo de Zamora afectado por un incendio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3RRNKYZESG3I5VPUH4M5H2RMHI.jpg?auth=9b11eb70f1fd951db29b17ecf3d48de9b7229c12e24ff9676d92d17873e6bf0c",
-        "tags": [
-            "desalojos",
-            "bomberos",
-            "españa",
-            "castilla y león",
-            "incendios",
-            "zamora"
-        ],
-        "link": "https://elpais.com/espana/2024-08-18/muere-un-hombre-de-un-infarto-en-el-desalojo-de-un-pueblo-de-zamora-afectado-por-un-incendio.html",
-        "date": "2024-08-18 11:06:53",
-        "sentiment_score": -0.40373267978429794
     },
     {
         "title": "Se compró un jet privado doblando camisetas",
@@ -9191,5 +9109,556 @@ export default [
         "link": "https://2001online.com/farandula/actor-mexicano-filtra-foto-intima-de-belinda-detalles/",
         "date": "2024-08-21 21:11:33",
         "sentiment_score": -0.5822525843977928
+    },
+    {
+        "title": "Clima en Madrid: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/6CT2HUNOCVGU7MIZW3LEW4TJFE.jpg?auth=92f196f67314a7ec3a401eba0bc231c95c81fff1478065672737994e9784a002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/22/clima-en-madrid-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2024-08-22 01:32:23",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Estas son las mejores películas de Disney+ para ver hoy en España",
+        "image_url": "https://www.infobae.com/resizer/v2/IIK54JRDRJBI3P5LFHTV2A5R7A.jpg?auth=ca4781017b56a11d9320cd36d3352a936c189e57059daee645702cc73509e614",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/22/estas-son-las-mejores-peliculas-de-disney-para-ver-hoy-en-espana/",
+        "date": "2024-08-22 01:32:02",
+        "sentiment_score": 0.8506077285856009
+    },
+    {
+        "title": "Las mejores películas de Netflix en España para ver hoy mismo",
+        "image_url": "https://www.infobae.com/resizer/v2/NT2DZLQ2RBG73G2MIABAVS67LE.jpg?auth=d0febc93b23fbeb457c62b0a88320485e76e94a11fe6b60c78aa6d180540b8a3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/22/las-mejores-peliculas-de-netflix-en-espana-para-ver-hoy-mismo/",
+        "date": "2024-08-22 01:31:21",
+        "sentiment_score": -0.12405815720558167
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 22 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/RKI6SL3ORRC4NLGXLBVNT5BA4E.jpg?auth=3bca4fc5b5b0b33946c5a41cfcaf5885e3b5e8d28a2d7c3f5641cded7b6052c3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/22/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-22-de-agosto/",
+        "date": "2024-08-22 01:01:07",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 22 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_be379c13dcbc4229a251c6063051d904.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/21/hoy-sera-noticia-jueves-22-de-agosto-de-2024/",
+        "date": "2024-08-21 22:20:17",
+        "sentiment_score": 0.030625365674495697
+    },
+    {
+        "title": "Nancy Pelosi recordó el asalto al Capitolio y pidió votar por Harris y Walz",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2167846706.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "noticias de donald trump",
+            "asalto al capitolio",
+            "nancy pelosi",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nancy-pelosi-convencion-democratas-trump-eeuu-votos-dusa-tv/",
+        "date": "2024-08-22 02:12:47",
+        "sentiment_score": -0.5244269520044327
+    },
+    {
+        "title": "Bill Clinton criticó la campaña de Trump en la Convención Nacional Demócrata",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2167845912-1.jpg?quality=100&strip=info",
+        "tags": [
+            "bill clinton",
+            "noticias de donald trump",
+            "convención nacional demócrata",
+            "noticias de ee.uu.",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-habla-de-si-clinton-convencion-democrata/",
+        "date": "2024-08-22 02:08:17",
+        "sentiment_score": -0.5622635073959827
+    },
+    {
+        "title": "Venezuela es un país libre, dice enviado de Lula Da Silva, Celso Amorim",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163478111.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/celso-amorim-enviado-lula-elecciones-venezuela/",
+        "date": "2024-08-22 02:04:44",
+        "sentiment_score": 0.10261569917201996
+    },
+    {
+        "title": "Creación de empleos en EE.UU. fue menor a la reportada por el Gobierno",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2167672909.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de estados unidos",
+            "economía",
+            "huelga",
+            "canadá",
+            "xpress",
+            "wall street",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/creacion-empleos-estados-unidos-menor-a-reportada-panorama-mundial-tv-fast/",
+        "date": "2024-08-22 02:02:09",
+        "sentiment_score": 0.051757991313934326
+    },
+    {
+        "title": "Expolicía del Capitolio y testigo de la insurrección del 2021 da discurso en la Convención Nacional Demócrata",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2167056152.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/expolicia-capitolio-6-enero-convencion-democrata/",
+        "date": "2024-08-22 01:56:00",
+        "sentiment_score": -0.15676774084568024
+    },
+    {
+        "title": "Bill Clinton afirma que Kamala Harris calmará los temores de los estadounidenses",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2167058283.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bill-clinton-respaldo-democrata-convencion-votantes-imponerse-dusa-tv/",
+        "date": "2024-08-22 01:50:36",
+        "sentiment_score": 0.009066224098205566
+    },
+    {
+        "title": "Celso Amorim dice que no ve problema en repetir elecciones en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20892151-1550-3-still.jpg?quality=100&strip=info",
+        "tags": [
+            "crisis en venezuela",
+            "nicolás maduro",
+            "venezuela",
+            "elecciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/celso-amorim-neviado-lula-repetir-elecciones-redaccion-buenos-aires-tv/",
+        "date": "2024-08-22 01:35:45",
+        "sentiment_score": -0.18778465688228607
+    },
+    {
+        "title": "Trump busca que todos los republicanos se alineen a él, según analistas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163348245.jpg?quality=100&strip=info",
+        "tags": [
+            "jd vance",
+            "elecciones en estados unidos",
+            "partido republicano",
+            "trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/convencion-republicana-trump-vance-kamala-walz-mexico-opina-tv/",
+        "date": "2024-08-22 01:29:28",
+        "sentiment_score": -0.5860739387571812
+    },
+    {
+        "title": "Tripulante de carguero detenido en Argentina dio negativo a Mpox. Aún no se presentan casos de la enfermedad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2167003656.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina noticias",
+            "barco",
+            "fast – news variety",
+            "xpress",
+            "argentina",
+            "mpox"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/negativo-mpox-argentina-honduras-perspectivas-mexico-tv-fast/",
+        "date": "2024-08-22 01:17:31",
+        "sentiment_score": -0.7630848698318005
+    },
+    {
+        "title": "Rusia afirma que evitó un ataque de drones ucranianos en la región de Moscú",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1176096-previews-2018-fifa-world-cup-russia.jpeg?quality=100&strip=info",
+        "tags": [
+            "guerra de rusia en ucrania",
+            "rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusia-ataque-drones-ucranianos-moscu-panorama-mundial-tv/",
+        "date": "2024-08-22 01:15:31",
+        "sentiment_score": -0.6260469630360603
+    },
+    {
+        "title": "Reino Unido impone una línea roja a Zelenski: no usar sus misiles de largo alcance en territorio ruso",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/21/STARMER-ZELESNKI-R5mdKClbcHc6WDd0c3SiYjJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ucrania-minimiza-apoyo-britanico-reino-unido-enfrenta-20240821162655-nt.html",
+        "date": "2024-08-22 02:03:32",
+        "sentiment_score": -0.033335328102111816
+    },
+    {
+        "title": "Las grandes energéticas se dejan 8.800 millones en Bolsa en 2024",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/22/Renovables-R9VlTuotluJCARSrlvo1kWN-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/grandes-energeticas-dejan-8800-millones-bolsa-2024-20240822040305-nt.html",
+        "date": "2024-08-22 02:03:06",
+        "sentiment_score": -0.13745854794979095
+    },
+    {
+        "title": "El Gobierno gasta 1,1 millones este año en informes para los pleitos por las renovables",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/22/TeresaRiberaEP-RKNN36zptVvXN2cClmKUVPN-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-gasta-millones-ano-informes-pleitos-renovables-20240822040220-nt.html",
+        "date": "2024-08-22 02:02:20",
+        "sentiment_score": -0.06673255562782288
+    },
+    {
+        "title": "España es el tercer país más urbanita de Europa, solo un 13% viven en zonas rurales",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/21/1468681231-RduOJNumGXVwHVdYwKK2rWM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/espana-tercer-pais-urbanita-europa-solo-viven-20240821161852-nt.html",
+        "date": "2024-08-22 02:01:36",
+        "sentiment_score": -0.12151797115802765
+    },
+    {
+        "title": "Rescatan a un bebé de dos meses que sobrevivió a base de leche y agua de mar en una zona recóndita de la isla griega de Tilos",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/98/media_thumb-link-3971288.webp",
+        "tags": [
+            "refugiados",
+            "bebé",
+            "grecia",
+            "rescate",
+            "actualidad",
+            "migrantes"
+        ],
+        "link": "https://www.meneame.net/story/rescatan-bebe-dos-meses-sobrevivio-base-leche-agua-mar-zona-isla",
+        "date": "2024-08-22 02:00:02",
+        "sentiment_score": -0.7371826693415642
+    },
+    {
+        "title": "Las negocios de consignas desembarcan en Gijón al calor de los pisos turísticos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/608ace2a-d5f3-4140-b698-cad15c80e750_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2024/08/22/negocios-consignas-desembarcan-gijon-calor-107229663.html",
+        "date": "2024-08-22 02:10:00",
+        "sentiment_score": -0.009385079145431519
+    },
+    {
+        "title": "Repoblación monacal de León: 37 de las 120 monjas son extranjeras",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/21/66c63fd1a694a.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/240822/1600950/repoblacion-monacal-leon-37-120-monjas-son-extranjeras.html",
+        "date": "2024-08-22 01:30:00",
+        "sentiment_score": -0.1888362169265747
+    },
+    {
+        "title": "Amigo personal de James Rodríguez reveló cuál será el nuevo equipo del “10′′: “Podría cerrarse en las próximas horas”",
+        "image_url": "https://www.infobae.com/resizer/v2/5D5SV5KQCBHPLNXJDY3MBBAD6M.png?auth=380d2660035c44eef44d0ae9cff6abb6ec3a067f877c29f63dbdcd508693f63a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/22/amigo-personal-de-james-rodriguez-revelo-cual-sera-el-nuevo-equipo-del-10-podria-cerrarse-en-las-proximas-horas/",
+        "date": "2024-08-22 00:01:09",
+        "sentiment_score": 0.07959861308336258
+    },
+    {
+        "title": "Una industria del sentimiento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cb910735-67d2-4eb6-b2b3-6082342cd87a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/08/22/industria-sentimiento-107228905.html",
+        "date": "2024-08-21 23:57:29",
+        "sentiment_score": 0.033879637718200684
+    },
+    {
+        "title": "Miguel Ángel Ramírez: \"¿Maradona como técnico de la UD? Habría estado bien\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1d20f098-810a-4597-9d92-6c27e95e85fc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/08/22/miguel-angel-ramirez-maradona-tecnico-107229652.html",
+        "date": "2024-08-21 23:56:03",
+        "sentiment_score": 0.49681634455919266
+    },
+    {
+        "title": "Barcelona rompió el mercado con su incorporación y ahora vuelve libre al Manchester City de Guardiola: “Se va harto de que lo maltraten”",
+        "image_url": "https://www.infobae.com/resizer/v2/2UIXRZYMB6INYGFZNCAPUWDEC4.jpg?auth=13172fff6965a952b2e044f88a88b597b17ed575ba3f0b019179a74413cef99e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/21/barcelona-rompio-el-mercado-con-su-incorporacion-y-ahora-vuelve-libre-al-manchester-city-de-guardiola-se-va-harto-de-que-lo-maltraten/",
+        "date": "2024-08-21 23:33:04",
+        "sentiment_score": -0.7079325057566166
+    },
+    {
+        "title": "La ficción manda en las tardes de La 1: ¿tridente formado por 'Valle Salvaje', 'La Moderna' y 'La Promesa'?",
+        "image_url": "https://s1.elespanol.com/2024/08/21/bluper/879922680_248615788_1706x960.jpg?contentId=ESPIMA20240821_0681",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/bluper/20240822/ficcion-manda-tardes-tridente-formado-valle-salvaje-moderna-promesa/879912408_0.html",
+        "date": "2024-08-21 23:14:01",
+        "sentiment_score": 0.27360923774540424
+    },
+    {
+        "title": "Agnès Llobet: «Soy actriz antes que muchísimas cosas»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f312c3e3-e2e5-4407-b0e7-be70612dd7ea_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/2024/08/22/agnes-llobet-actriz-cosas-107218710.html",
+        "date": "2024-08-21 22:45:23",
+        "sentiment_score": 0.09773227572441101
+    },
+    {
+        "title": "Un apasionado del ‘running’ a sus 80 años",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2968525.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2024/08/22/2226935/apasionado-del-running-anos.html",
+        "date": "2024-08-21 22:30:01",
+        "sentiment_score": -0.03990316390991211
+    },
+    {
+        "title": "Icónico himno de Champions League sufre cambios para la nueva temporada",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/AP100826021212.jpg",
+        "tags": [
+            "deportes",
+            "uefa champions league",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/08/21/iconico-himno-de-champions-league-sufre-cambios-para-la-nueva-temporada/",
+        "date": "2024-08-21 22:20:00",
+        "sentiment_score": -0.09002213180065155
+    },
+    {
+        "title": "Xavier Vendrell brilla por sus mentiras: el estratega catalán amigo de Petro tiene una controvertida trayectoria",
+        "image_url": "https://www.infobae.com/resizer/v2/TQVK2T3K3JDGDBAY7SXE4PWT5I.png?auth=d6e37ddbff6439a3dde7c17988fded47285fb2dcd41ee4d2f00bc8c1f291625b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/08/22/xavier-vendrell-brilla-por-sus-mentiras-el-estratega-catalan-amigo-de-petro-tiene-una-controvertida-trayectoria/",
+        "date": "2024-08-22 02:01:07",
+        "sentiment_score": -0.8547319630160928
+    },
+    {
+        "title": "Conoce las razones por las que el Betis afronta con optimismo el fichaje de Vitor Roque",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/22/2024082203404281615.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/que-real-betis-tiene-fe-ciega-posibilidades-hacerse-servicios-vitor-roque/20240822034517316067.html",
+        "date": "2024-08-22 01:45:17",
+        "sentiment_score": -0.7938157366588712
+    },
+    {
+        "title": "Paul Auster, un testamento familiar y literario",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/Banville-469x317.jpg",
+        "tags": [
+            "the new york times",
+            "opinión",
+            "nueva york",
+            "paul auster",
+            "literatura estadounidense"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/lo-bueno-de-la-vida/2024-08-22/paul-auster-testamento-familiar-literario/",
+        "date": "2024-08-22 01:30:00",
+        "sentiment_score": -0.24174384772777557
+    },
+    {
+        "title": "El boom de estudiantes extranjeros tensa más el alquiler: los pisos desaparecen en «horas»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/08/ebau-andalucia-23-469x317.jpg",
+        "tags": [
+            "ley de vivienda",
+            "comunidad de madrid",
+            "alquiler de viviendas",
+            "economía",
+            "inmobiliario",
+            "lujo",
+            "estudiantes",
+            "vivienda"
+        ],
+        "link": "https://theobjective.com/economia/2024-08-22/estudiantes-extranjeros-alquiler-pisos-desaparecen/",
+        "date": "2024-08-22 01:30:00",
+        "sentiment_score": -0.08584567904472351
+    },
+    {
+        "title": "Abatido “el Cejón” durante un enfrentamiento con el Cicpc",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/08/El-Cejon-21-08-2024.jpeg",
+        "tags": [
+            "sucesos",
+            "robo de vehículos",
+            "troncal 16",
+            "enfrentamiento",
+            "cicpc",
+            "nación",
+            "el cejón"
+        ],
+        "link": "https://primicia.com.ve/sucesos/abatido-el-cejon-durante-un-enfrentamiento-con-el-cicpc/",
+        "date": "2024-08-22 00:17:51",
+        "sentiment_score": -0.31624728441238403
+    },
+    {
+        "title": "Cataluña concentra el 40% de las mujeres y la mitad de los niños asesinados por violencia machista",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/21/17242683674860.jpg",
+        "tags": [
+            "artículos cristina rubio"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2024/08/22/66c63eb5e85ecefd0d8b4592.html",
+        "date": "2024-08-22 00:07:21",
+        "sentiment_score": -0.4484148547053337
+    },
+    {
+        "title": "Mocejón da el último adiós entre lágrimas al niño Mateo",
+        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/08/21/2024082122051376802.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.atlantico.net/articulo/espanha/mocejon-da-ultimo-adios-lagrimas-nino-mateo/202408220200431047099.html",
+        "date": "2024-08-22 00:00:43",
+        "sentiment_score": -0.737464752048254
+    },
+    {
+        "title": "Esta ciudad de España prohibió escuchar a Karol G y Feid: Sepa por qué",
+        "image_url": "https://2001online.com/wp-content/uploads/2023/06/Karol-g-y-Feid.jpg",
+        "tags": [
+            "cádiz espana",
+            "#españa",
+            "feid",
+            "curiosidades",
+            "domingo rociero",
+            "karol g"
+        ],
+        "link": "https://2001online.com/curiosidades/esta-ciudad-de-espana-prohibio-escuchar-a-karol-g-y-feid-sepa-por-que/",
+        "date": "2024-08-22 01:47:58",
+        "sentiment_score": -0.6101131364703178
+    },
+    {
+        "title": "¿Qué tiendas están afiliadas a la Ruta Escolar de Cashea?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/1.jpeg",
+        "tags": [
+            "servicios",
+            "uniformes escolares",
+            "cashea"
+        ],
+        "link": "https://2001online.com/servicios/que-tiendas-estan-afiliadas-a-la-ruta-escolar-cashea/",
+        "date": "2024-08-22 01:30:00",
+        "sentiment_score": 0.0960778184235096
+    },
+    {
+        "title": "Condenan a profesor de la UNEFA por abusar sexualmente de dos alumnas",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Presos.jpg",
+        "tags": [
+            "profesor de unefa",
+            "abuso de alumnas",
+            "sucesos"
+        ],
+        "link": "https://2001online.com/sucesos/condenan-a-profesor-de-la-unefa-por-abusar-sexualmente-de-dos-alumnas/",
+        "date": "2024-08-22 01:30:00",
+        "sentiment_score": -0.7274144738912582
+    },
+    {
+        "title": "Así puede obtener una certificación como electricista en EEUU",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/electricista-1-1280x720.jpg",
+        "tags": [
+            "certificación",
+            "electricista",
+            "internacionales",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/asi-puede-obtener-una-certificacion-como-electricista-en-eeuu/",
+        "date": "2024-08-22 01:30:00",
+        "sentiment_score": 0.30456027388572693
+    },
+    {
+        "title": "EEUU| Fulton Bank cerrará estas sucursales el próximo mes (+Ubicaciones)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/fulton-bank-sucursales-1200x720.jpg",
+        "tags": [
+            "cierre de sucursales",
+            "fulton bank",
+            "eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-fulton-bank-cerrara-estas-sucursales-el-proximo-mes-ubicaciones/",
+        "date": "2024-08-22 01:22:10",
+        "sentiment_score": 0.013969503343105316
+    },
+    {
+        "title": "John Legend y Pink llevarán su música a la Convención Nacional Demócrata",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/pink-john-legend-2024-dnc.png",
+        "tags": [
+            "pink",
+            "kamala harris",
+            "convención nacional demócrata",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/john-legend-y-pink-llevaran-su-musica-a-la-convencion-nacional-democrata/",
+        "date": "2024-08-22 01:16:33",
+        "sentiment_score": 0.2050294503569603
+    },
+    {
+        "title": "EEUU: Cómo hacer si recibiste una factura médica de imprevisto (+Recomendaciones)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/factura-1280x720.jpg",
+        "tags": [
+            "médica",
+            "factura",
+            "eeuu",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-como-hacer-si-recibiste-una-factura-medica-de-imprevisto-recomendaciones/",
+        "date": "2024-08-22 00:59:00",
+        "sentiment_score": -0.10693448781967163
+    },
+    {
+        "title": "EEUU: Oficina de Atención Primaria de Salud ofrece estás ayudas a migrantes (+Contacto)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Oficina-Atencion-Primaria-Salud.webp",
+        "tags": [
+            "oficina de atención primaria de salud",
+            "eeuu",
+            "internacionales",
+            "servicios de salud accesibles"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-oficina-de-atencion-primaria-de-salud-ofrece-estas-ayudas-a-migrantes-contacto/",
+        "date": "2024-08-22 00:56:37",
+        "sentiment_score": 0.45901813358068466
+    },
+    {
+        "title": "Inauguran Centro Integral de Rehabilitación para niños con discapacidad en Carabobo",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/descarga-2024-08-21T210618.270.jpeg",
+        "tags": [
+            "carabobo",
+            "maduro",
+            "centro integral de rehabilitación para niños y niñas con",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/inauguran-centro-integral-de-rehabilitacion-para-ninos-con-discapacidad-en-carabobo/",
+        "date": "2024-08-22 00:48:13",
+        "sentiment_score": 0.23343534767627716
+    },
+    {
+        "title": "EEUU | Esta moneda de 25 centavos se vende en $5 millones (+Características)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/moneda-25-centavos-1133x720.jpg",
+        "tags": [
+            "la moneda que vale $5 millones de dólares",
+            "eeuu",
+            "moneda de 25 centavos",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-esta-moneda-de-25-centavos-se-vende-en-5-millones/",
+        "date": "2024-08-22 00:30:00",
+        "sentiment_score": -0.009896278381347656
     }
 ];
