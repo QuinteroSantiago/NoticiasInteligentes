@@ -1,195 +1,5 @@
 export default [
     {
-        "title": "Quién es el máximo goleador de LaLiga finalizada la jornada 1",
-        "image_url": "https://www.infobae.com/resizer/v2/KOUX4R4TJRC77AB2TRI6XXAWBI.jpg?auth=6319fca4f9d96aeb3fbc84c66bc26c585781ec658f5907562c70053ad4e1b314",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2024/08/20/quien-es-el-maximo-goleador-de-laliga-finalizada-la-jornada-1/",
-        "date": "2024-08-20 06:16:50",
-        "sentiment_score": 0.8549920860677958
-    },
-    {
-        "title": "Cinco comunidades del sur y centro en alerta por calor y Canarias también por tormentas",
-        "image_url": "./assets/ai_generated/v1_txt2img_9f178d08380b489a812671f4b08b6901.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/20/cinco-comunidades-del-sur-y-centro-en-alerta-por-calor-y-canarias-tambien-por-tormentas/",
-        "date": "2024-08-20 06:00:42",
-        "sentiment_score": -0.657154705375433
-    },
-    {
-        "title": "La justicia anula el despido de un hombre que tuvo lugar 15 días después de anunciar que iba a ser padre",
-        "image_url": "https://www.infobae.com/resizer/v2/AOKSDMO4MJBMFM77WUYQLZJW7Q.jpg?auth=61d71b902332feb836850c0a451be255064a51c959e75c642a9f9d31e8865ff9",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/20/la-justicia-anula-el-despido-de-un-hombre-que-tuvo-lugar-15-dias-despues-de-anunciar-que-iba-a-ser-padre/",
-        "date": "2024-08-20 05:55:55",
-        "sentiment_score": -0.7494037598371506
-    },
-    {
-        "title": "China ultima multa a la auditora PwC por el escándalo contable de Evergrande",
-        "image_url": "./assets/ai_generated/v1_txt2img_d325998f3274406cbe3c02dfb7ec098a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/20/china-ultima-multa-a-la-auditora-pwc-por-el-escandalo-contable-de-evergrande/",
-        "date": "2024-08-20 05:45:50",
-        "sentiment_score": -0.9322864059358835
-    },
-    {
-        "title": "Gobernador del mexicano Nuevo León informa que sueca Volvo construirá planta en el estado",
-        "image_url": "./assets/ai_generated/v1_txt2img_888d792bc7374ed5b75b1d6d96eb4648.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/20/gobernador-del-mexicano-nuevo-leon-informa-que-sueca-volvo-construira-planta-en-el-estado/",
-        "date": "2024-08-20 05:45:33",
-        "sentiment_score": 0.24229571968317032
-    },
-    {
-        "title": "Quién es Mike Lynch, el ‘Bill Gates británico’ desaparecido en el naufragio del yate de lujo en Sicilia",
-        "image_url": "./assets/ai_generated/v1_txt2img_6c401709d97d44a99aa812d099e9e813.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/20/el-bill-gates-britanico-entre-los-desaparecidos-en-el-naufragio-de-un-yate-de-lujo-en-sicilia/",
-        "date": "2024-08-20 05:44:42",
-        "sentiment_score": -0.7420538030564785
-    },
-    {
-        "title": "Efemérides del 21 de agosto",
-        "image_url": "./assets/ai_generated/v1_txt2img_3a130890ef704fea9580edd49e21414b.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/20/efemerides-del-21-de-agosto/",
-        "date": "2024-08-20 05:15:56",
-        "sentiment_score": -0.010111019015312195
-    },
-    {
-        "title": "Asociación Española de Vacunología: No hay riesgo de que el mpox sea un nuevo Covid",
-        "image_url": "./assets/ai_generated/v1_txt2img_b89766c3ff544af08e3b41ab7fff0082.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/20/asociacion-espanola-de-vacunologia-no-hay-riesgo-de-que-el-mpox-sea-un-nuevo-covid/",
-        "date": "2024-08-20 05:15:39",
-        "sentiment_score": -0.3165327310562134
-    },
-    {
-        "title": "Cuánto cuesta un euro frente al dólar este 20 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/6FKWORS2VJBVDOEQ2QAZEMH74I.jpg?auth=6e157734dadbd061a1ef1b3b835385438bd83439c736aead57cfb9c96714982c",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/20/cuanto-cuesta-un-euro-frente-al-dolar-este-20-de-agosto/",
-        "date": "2024-08-20 05:15:34",
-        "sentiment_score": -0.23126429319381714
-    },
-    {
-        "title": "Sólo queda Búfalo",
-        "image_url": "./assets/ai_generated/v1_txt2img_deee0807b54446848fb1e8ad87f9d474.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/carlos-del-barco-solo-queda-bufalo-20240820072553-nts.html",
-        "date": "2024-08-20 05:25:53",
-        "sentiment_score": -0.03923451900482178
-    },
-    {
-        "title": "Efemérides: ¿Qué se conmemora hoy 20 de agosto?",
-        "image_url": "https://www.infobae.com/resizer/v2/SQM6YATDRZDRLFUUDS5GHANCEE.jpg?auth=933cd342e3574d0eb5316e581616d9d3bc36d598729e277d0474d57bc8d18d94",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/noticias/2024/08/20/efemerides-que-se-conmemora-hoy-20-de-agosto/",
-        "date": "2024-08-20 06:16:24",
-        "sentiment_score": 0.6012472435832024
-    },
-    {
-        "title": "La Marsellesa y nosotros",
-        "image_url": "./assets/ai_generated/v1_txt2img_1bb3bbf6fce048c394e0256b221c6500.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/opinion/capilla-sixtina/20240820/marsellesa/879542038_13.html",
-        "date": "2024-08-20 06:03:48",
-        "sentiment_score": -0.3448779657483101
-    },
-    {
-        "title": "La factura para adaptar los estadios al Mundial 2030 alcanza ya los 700 millones de euros públicos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/98ad0140-145f-46a4-8025-01548d4a4c4c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2024/08/20/factura-adaptar-estadios-mundial-2030-107165258.html",
-        "date": "2024-08-20 06:00:49",
-        "sentiment_score": -0.05876751244068146
-    },
-    {
-        "title": "Madrid y Gran Canaria recuerdan este martes a las víctimas del vuelo JK5022 de Spanair por su 16 aniversario",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2016/08/19/_fallecenmasde140pe21448226_1453c7de.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2024/08/20/madrid-gran-canaria-recuerdan-martes-victimas-vuelo-jk5022-spanair-16-aniversario-1756926.html",
-        "date": "2024-08-20 06:00:39",
-        "sentiment_score": -0.06752017885446548
-    },
-    {
-        "title": "Terremoto en Valencia y Vigo tras quedar fuera del Mundial 2030: \"Sabremos con nombres y apellidos quién lo decidió\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3f0a5b7-92df-4058-a232-1b43d539a332_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/08/20/terremoto-valencia-vigo-quedar-fuera-mundial-2030-107165251.html",
-        "date": "2024-08-20 06:00:36",
-        "sentiment_score": -0.4124274030327797
-    },
-    {
-        "title": "Todos los conciertos gratuitos de las Fiestas de Gràcia 2024 de este martes, 20 de agosto",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/08/17/gracia/878922112_13355905_1706x960.jpg?contentId=ESPIMA20240817_0013",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gracia/20240820/todos-los-conciertos-gratuitos-de-las-fiestas-gracia-este-martes-agosto/879662030_0.html",
-        "date": "2024-08-20 06:12:19",
-        "sentiment_score": 0.5032062232494354
-    },
-    {
-        "title": "Futuros con signo mixto: El Ibex 35 duda de ir a buscar los 11.200 puntos",
-        "image_url": "https://www.estrategiasdeinversion.com/uploads/noticias_redaccion/native/bolsa_europea_native.jpg",
-        "tags": [
-            "análisis - informes"
-        ],
-        "link": "https://www.estrategiasdeinversion.com/analisis/bolsa-y-mercados/informes/futuros-con-signo-mixto-el-ibex-35-duda-de-ir-n-738949",
-        "date": "2024-08-20 06:10:00",
-        "sentiment_score": 0.061327412724494934
-    },
-    {
-        "title": "Puigdemont renuncia a viajar al sur de Francia",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/08/politica/876672452_13317250_1706x960.jpg?contentId=ESPIMA20240808_0128",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20240820/puigdemont-renuncia-viajar-al-sur-de-francia/879662029_0.html",
-        "date": "2024-08-20 06:07:03",
-        "sentiment_score": -0.8427122831344604
-    },
-    {
-        "title": "46 municipios de Lleida y Tarragona en peligro muy alto de incendio este martes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240820080503_120.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-46-municipios-lleida-tarragona-peligro-muy-alto-incendio-martes-20240820080503.html",
-        "date": "2024-08-20 06:05:03",
-        "sentiment_score": -0.7907142881304026
-    },
-    {
         "title": "Quién es Alex Gruszynski, el empresario de Hollywood con el que se casa Stella del Carmen, hija de Antonio Banderas",
         "image_url": "https://www.infobae.com/resizer/v2/6T27TT4NINGIBI42PQLNPXTK3I.jpg?auth=053d6a46d5beb0cf2c3af862a0289b4f210cf3db00e60066213f86998c123e6d",
         "tags": [
@@ -9404,5 +9214,713 @@ export default [
         "link": "https://2001online.com/nacionales/adelantan-preparativos-para-celebrar-el-dia-de-la-virgen-del-valle-en-maturin/",
         "date": "2024-08-23 16:16:55",
         "sentiment_score": 0.10171051323413849
+    },
+    {
+        "title": "2-1. Blasco pone líder al Huesca con un gol en el minuto 93",
+        "image_url": "./assets/ai_generated/v1_txt2img_3cfd3443a2a7439282fd278267cd73c7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/2-1-blasco-pone-lider-al-huesca-con-un-gol-en-el-minuto-93/",
+        "date": "2024-08-23 21:47:14",
+        "sentiment_score": 0.5634614787995815
+    },
+    {
+        "title": "Ucrania y Austria, rivales de España en los cuartos de final del Europeo 3x3 de Viena",
+        "image_url": "./assets/ai_generated/v1_txt2img_3996ac14f12d4624aaadb2c65fe36eb5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/ucrania-y-austria-rivales-de-espana-en-los-cuartos-de-final-del-europeo-3x3-de-viena/",
+        "date": "2024-08-23 21:16:48",
+        "sentiment_score": -0.12442164123058319
+    },
+    {
+        "title": "Honduras y China firman 4 acuerdos por 9,8 millones de euros en encuentro de empresarios",
+        "image_url": "./assets/ai_generated/v1_txt2img_b4b470d194b446ecb0f101829bf98191.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/honduras-y-china-firman-4-acuerdos-por-98-millones-de-euros-en-encuentro-de-empresarios/",
+        "date": "2024-08-23 21:03:05",
+        "sentiment_score": 0.34742430225014687
+    },
+    {
+        "title": "El Gobierno rechaza la ley del régimen talibán que \"busca silenciar a las mujeres afganas\"",
+        "image_url": "https://www.infobae.com/resizer/v2/AKSZVUJHCRA3BHWIGOY2ENF22M.jpg?auth=e07f2d24fd66e6b9dbfafb00f0e0514be8533b2c3ff4fd02c15f9dcf90c4d29e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/el-gobierno-rechaza-la-ley-del-regimen-taliban-que-busca-silenciar-a-las-mujeres-afganas/",
+        "date": "2024-08-23 20:49:00",
+        "sentiment_score": -0.8135746568441391
+    },
+    {
+        "title": "Lukebakio iguala en la prolongación de la primera parte el tanto de Danjuma (1-1)",
+        "image_url": "./assets/ai_generated/v1_txt2img_5c1bce3716fd4f7f96a5f12a32077a5b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/lukebakio-iguala-en-la-prolongacion-de-la-primera-parte-el-tanto-de-danjuma-1-1/",
+        "date": "2024-08-23 20:47:38",
+        "sentiment_score": -0.08516790717840195
+    },
+    {
+        "title": "57-65. España no reaccionó a tiempo ante Francia y se condenó a luchar por el bronce",
+        "image_url": "./assets/ai_generated/v1_txt2img_31b255ffc02a4a2d83df5257ab723005.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/57-65-espana-no-reacciono-a-tiempo-ante-francia-y-se-condeno-a-luchar-por-el-bronce/",
+        "date": "2024-08-23 20:47:22",
+        "sentiment_score": -0.8369775488972664
+    },
+    {
+        "title": "El cántabro Diego Cuadrado y Andrea Mediero, ganadores del XXVI Aste Nagusia Hiri Krosa",
+        "image_url": "./assets/ai_generated/v1_txt2img_0bf77cfbdb674c3591856887e5ae7645.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/el-cantabro-diego-cuadrado-y-andrea-mediero-ganadores-del-xxvi-aste-nagusia-hiri-krosa/",
+        "date": "2024-08-23 20:32:39",
+        "sentiment_score": 0.2811782509088516
+    },
+    {
+        "title": "Buscan a un ciudadano estadounidense desaparecido en Sevilla desde el pasado miércoles",
+        "image_url": "./assets/ai_generated/v1_txt2img_5a475b0d7c494fd19cda23baff3f88d0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/buscan-a-un-ciudadano-estadounidense-desaparecido-en-sevilla-desde-el-pasado-miercoles/",
+        "date": "2024-08-23 20:30:14",
+        "sentiment_score": -0.5923532638698816
+    },
+    {
+        "title": "Aspas: “Desde que llegó Claudio estoy disfrutando de nuevo”",
+        "image_url": "./assets/ai_generated/v1_txt2img_a3123ec23dc444989de23f9add480f8b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/aspas-desde-que-llego-claudio-estoy-disfrutando-de-nuevo/",
+        "date": "2024-08-23 20:17:48",
+        "sentiment_score": 0.7888660579919815
+    },
+    {
+        "title": "La auditoría de Transportes revela una orden firmada por Ábalos que duplicó la compra de mascarilla en 38 minutos",
+        "image_url": "https://www.infobae.com/resizer/v2/VLXCTARMGFDM3F4PETTKH2JUEI.jpg?auth=274180d9ad1bb9fc47961f87ed34a25361bc80ff701edaffcd438c7aaf80e7af",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/23/la-auditoria-de-transportes-revela-una-orden-firmada-por-abalos-que-duplico-la-compra-de-mascarilla-en-38-minutos/",
+        "date": "2024-08-23 20:04:25",
+        "sentiment_score": -0.3783143013715744
+    },
+    {
+        "title": "Las 3 noticias destacadas de la tarde del 23 de agosto en CNN en Español",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2167995267.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news briefs",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-23-de-agosto-2024-dusa-tarde-fast/",
+        "date": "2024-08-23 22:13:47",
+        "sentiment_score": -0.0024770796298980713
+    },
+    {
+        "title": "Varias personas mueren y resultan heridas en un apuñalamiento en Alemania, informan medios locales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/apunalamiento-alemania.jpg?quality=100&strip=info",
+        "tags": [
+            "europa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/23/apunalamiento-alemania-muertos-heridos-trax/",
+        "date": "2024-08-23 21:54:02",
+        "sentiment_score": -0.7678886344656348
+    },
+    {
+        "title": "Dura semana para Javier Milei: fuego cruzado con la vicepresidenta Villarruel y su principal aliado Macri",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Milei-vicepresidenta.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina",
+            "argentina noticias",
+            "javier milei"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/23/javier-milei-macri-villarruel-argentina-orix/",
+        "date": "2024-08-23 21:47:20",
+        "sentiment_score": -0.5103842988610268
+    },
+    {
+        "title": "Israel deja claro que se reserva el derecho a reanudar guerra contra Hamas incluso si se llega a un acuerdo de alto el fuego",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2164671143.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "israel hamas gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/23/israel-derecho-reanudar-guerra-hamas-acuerdo-alto-el-fuego-trax/",
+        "date": "2024-08-23 21:06:49",
+        "sentiment_score": 0.20248493552207947
+    },
+    {
+        "title": "AMLO dice que prefiere esperar las actas antes de reconocer la sentencia del Tribunal Supremo de Justicia de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/sequence-04-00-08-40-04-still034_4321f6.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en venezuela",
+            "venezuela",
+            "méxico",
+            "opiniones",
+            "presidente",
+            "opinión"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/actas-venezuela-opinion-amlo-perspectivas-mexico-tv/",
+        "date": "2024-08-23 21:02:06",
+        "sentiment_score": -0.14408032596111298
+    },
+    {
+        "title": "Crecen las tensiones comerciales entre China y la Unión Europea: ¿hacia dónde avanza la situación?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/china-adobe-stock.jpeg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/china-eu-unioneuropea-guerra-comercial-aranceles-cnn-dinero-tv/",
+        "date": "2024-08-23 20:40:48",
+        "sentiment_score": -0.7633628807961941
+    },
+    {
+        "title": "¿Por qué la reforma judicial de México desata el temor para los inversionistas?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/mx-adobe-stock.jpeg?quality=100&strip=info",
+        "tags": [
+            "economía",
+            "reforma judicial"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-eeuu-reforma-judicial-inversiones-economia-cnn-dinero-tv/",
+        "date": "2024-08-23 20:38:09",
+        "sentiment_score": -0.5732972696423531
+    },
+    {
+        "title": "Tras una orden del gobierno, los trenes de carga canadienses deben volver a operar",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/trenes-de-carga.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trenes-carga-canada-vuelven-operar-cnn-dinero-tv/",
+        "date": "2024-08-23 20:36:10",
+        "sentiment_score": -0.2766570448875427
+    },
+    {
+        "title": "Milei cierra un organismo oficial que buscaba a los niños apropiados ilegalmente durante la última dictadura en Argentina",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-1560469425-e1724444925817.jpg?quality=100&strip=info",
+        "tags": [
+            "dictadura argentina",
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/23/milei-cierra-organismo-ninos-apropiados-dictadura-argentina-orix/",
+        "date": "2024-08-23 20:36:06",
+        "sentiment_score": -0.42486944422125816
+    },
+    {
+        "title": "Casos de parvovirus humano van en aumento, según autoridades de Europa y Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20888799-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "noticias de salud",
+            "infección",
+            "europa",
+            "noticias de estados unidos",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/casos-parvovirus-humano-aumentan-en-europa-y-ee-uu-minuto-de-salud-fast/",
+        "date": "2024-08-23 20:25:46",
+        "sentiment_score": -0.45006150752305984
+    },
+    {
+        "title": "Maduro decreta un Consejo de Ciberseguridad para perseguir a quienes critican su gobierno",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/23/maduro-RJOXKEvER7MlCBJQVt7mX0L-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/maduro-decreta-consejo-ciberseguridad-perseguir-critican-gobierno-20240823213941-nt.html",
+        "date": "2024-08-23 20:15:07",
+        "sentiment_score": -0.22558210790157318
+    },
+    {
+        "title": "No es país para feos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/24/Captura55-U50816406422zTE-1200x630@diario_abc.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alfonso-j-ussia-pais-feos-20240824132735-nt.html",
+        "date": "2024-08-23 20:02:26",
+        "sentiment_score": -0.1406719982624054
+    },
+    {
+        "title": "El sargento emprendedor",
+        "image_url": "./assets/ai_generated/v1_txt2img_261890d452c845e2bfa05849ad1e56a3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-sargento-emprendedor-20240824205133-nts.html",
+        "date": "2024-08-23 19:10:51",
+        "sentiment_score": 0.0427384078502655
+    },
+    {
+        "title": "Adiós aire acondicionado: así funciona el invento que gasta cinco veces menos de energía y no necesita gas ni instalación externa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/05/21/air-conditioner-8843842_1280-kAED-U602984319446CTF-758x531@diario_abc.png",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/adios-aire-acondicionado-funciona-invento-gasta-cinco-menos-gas-20240823180000-nt.html",
+        "date": "2024-08-23 18:00:01",
+        "sentiment_score": -0.049232885241508484
+    },
+    {
+        "title": "Contra la resiliencia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/24/ABC_ANGULOOSCURO_CONTRALARESILIENCIA_DePRADA-RnZ74hwqv172afgvIkPECAP-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-resiliencia-20240824184557-nt.html",
+        "date": "2024-08-23 17:57:33",
+        "sentiment_score": -0.07813706994056702
+    },
+    {
+        "title": "La vida multietapas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/24/ENFOQUEABC_Lavidamultietapas_OLAECHEA-RNDBVOGXXficyhnE3l6ihTP-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/javier-olaechea-vida-multietapas-20240824194302-nt.html",
+        "date": "2024-08-23 17:46:46",
+        "sentiment_score": -0.0068208277225494385
+    },
+    {
+        "title": "Odio impune",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/24/Captu11-U05747832500sRC-1200x630@diario_abc.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/isabel-san-sebastian-odio-impune-20240824134746-nt.html",
+        "date": "2024-08-23 17:34:35",
+        "sentiment_score": -0.21921704709529877
+    },
+    {
+        "title": "Me lo merezco",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/24/michel-celebra-el-tercero-de-sus-tres-goles-a-corea-del-sur-en-udine-con-su-historico-grito-de--me-lo-merezco---elpais-luis-magan-U56822242736TGK-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-merezco-20240824185817-nt.html",
+        "date": "2024-08-23 17:34:12",
+        "sentiment_score": -0.07585248351097107
+    },
+    {
+        "title": "Profesionales del odio",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/24/adrianhinojosa-kfwF--1248x698@abc-U48564788256ZLh-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-profesionales-odio-20240824131546-nt.html",
+        "date": "2024-08-23 17:31:47",
+        "sentiment_score": -0.28244034945964813
+    },
+    {
+        "title": "Frases contra ideas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/24/Ca444-U74253585831ARp-1200x630@diario_abc.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-frases-ideas-20240824192511-nt.html",
+        "date": "2024-08-23 17:31:03",
+        "sentiment_score": -0.11574581265449524
+    },
+    {
+        "title": "La pareja de Silvia Paneque renuncia como jefe de gabinete de la consellera",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E3QCQ2YEBW2TANGOHTLX47RTEU.jpg?auth=c8473e1c6c5f2a3ecda16fdbc22485097c86ed1723590505ad0a874cdf08d05a",
+        "tags": [
+            "cataluña",
+            "psc",
+            "govern cataluña",
+            "política",
+            "generalitat cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-08-23/la-pareja-de-silvia-paneque-renuncia-como-jefe-de-gabinete-de-la-consellera.html",
+        "date": "2024-08-23 19:45:27",
+        "sentiment_score": -0.5224895477294922
+    },
+    {
+        "title": "Seis detenidos mediante drones con cámaras térmicas por una pelea multitudinaria en un pueblo de Burgos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/V2GESUTOVZGCZOGZJKAAFYKOD4.jpg?auth=0262d897ef0c05c43570ff54e0e262c66b6dfb2f61fe76a8784e652117a7ed39",
+        "tags": [
+            "policía",
+            "tecnología",
+            "españa",
+            "burgos",
+            "guardia civil",
+            "peleas"
+        ],
+        "link": "https://elpais.com/espana/2024-08-23/seis-detenidos-mediante-drones-con-camaras-termicas-por-una-pelea-multitudinaria-en-un-pueblo-de-burgos.html",
+        "date": "2024-08-23 18:39:34",
+        "sentiment_score": -0.7495656311511993
+    },
+    {
+        "title": "Ábalos firmó una orden para duplicar la compra de cuatro a ocho millones de mascarillas en 38 minutos en marzo de 2020",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ATQ66E53FZAT3PBWYPGT5LH7WU.jpg?auth=2ffe316f2b3f33ac1fcaf9aff7bd5767ea4e7bce368a0cb853770bbf9c60c0bf",
+        "tags": [
+            "josé luis ábalos",
+            "coronavirus covid-19",
+            "adif",
+            "koldo garcía",
+            "españa",
+            "auditoría",
+            "caso koldo",
+            "ministerio de transportes",
+            "investigación judicial"
+        ],
+        "link": "https://elpais.com/espana/2024-08-23/abalos-firmo-una-orden-para-duplicar-la-compra-de-cuatro-a-ocho-millones-de-mascarillas-en-38-millones-en-marzo-de-2020.html",
+        "date": "2024-08-23 17:53:46",
+        "sentiment_score": -0.3493741527199745
+    },
+    {
+        "title": "Ojalá gobierne el Govern",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/10/13/pensamiento/801679983_8979840_1706x960.jpg?contentId=ESPIMA20231013_0159",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240824/ojala-gobierne-el-govern/880291965_13.html",
+        "date": "2024-08-23 22:00:00",
+        "sentiment_score": -0.5672245696187019
+    },
+    {
+        "title": "Catalina Usme dio el salto a Europa: fue presentada en su nuevo equipo, un histórico del continente",
+        "image_url": "./assets/ai_generated/v1_txt2img_a2940298c81649f2a9915af216bb0f18.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/23/catalina-usme-dio-el-salto-a-europa-fue-presentada-en-su-nuevo-equipo-un-historico-del-continente/",
+        "date": "2024-08-23 21:51:26",
+        "sentiment_score": -0.5983086992055178
+    },
+    {
+        "title": "DT de Brasil espera contar con Neymar para las eliminatorias sudamericanas",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/AP22339765077023-e1724444243337.jpg",
+        "tags": [
+            "selección brasil",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/08/23/dt-de-brasil-espera-contar-con-neymar-para-las-eliminatorias-sudamericanas/",
+        "date": "2024-08-23 21:24:45",
+        "sentiment_score": -0.043001338839530945
+    },
+    {
+        "title": "El Atlético ultima la llegada cedido de Lenglet, pendiente de tres salidas",
+        "image_url": "https://www.infobae.com/resizer/v2/EJ6KTQKFQNESFIQDCZUK2TWKOE.jpg?auth=c96f126bfb9acf5e3f9d35ed89de3f60f7e354da3c341e658f16fa75e1c04b78",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/23/el-atletico-ultima-la-llegada-cedido-de-lenglet-pendiente-de-tres-salidas/",
+        "date": "2024-08-23 21:02:03",
+        "sentiment_score": -0.2340441718697548
+    },
+    {
+        "title": "Carlo Ancelotti calma las aguas en el Real Madrid: “Rodrygo está muy contento y feliz”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/17ed922d717acdc8701963f18198cb599d80587f-e1723580015432.jpg",
+        "tags": [
+            "fútbol",
+            "rodrygo",
+            "carlo ancelotti",
+            "deportes",
+            "real madrid"
+        ],
+        "link": "https://eldiariony.com/2024/08/23/carlo-ancelotti-calma-las-aguas-en-el-real-madrid-rodrygo-esta-muy-contento-y-feliz/",
+        "date": "2024-08-23 20:59:26",
+        "sentiment_score": -0.4839310571551323
+    },
+    {
+        "title": "La Real Sociedad sufre el desmantelamiento de su columna vertebral",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/23/2024082302521449826.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-sociedad-sufre-desmantelamiento-columna-vertebral/20240823144417316135.html",
+        "date": "2024-08-23 20:44:17",
+        "sentiment_score": -0.8952161176130176
+    },
+    {
+        "title": "Estêvão, de 17 años, incluido en el equipo brasileño para la eliminatoria sudamericana",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/08/24236567531786-jpg.webp",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/estevao-de-17-anos-incluido-en-el-equipo-brasileno-para-la-eliminatoria-sudamericana/",
+        "date": "2024-08-23 20:26:17",
+        "sentiment_score": 0.1336279883980751
+    },
+    {
+        "title": "Visita guiada al Pazo de Meirás 13 años después: un vistazo al expolio de los Franco en el hogar de Pardo Bazán",
+        "image_url": "https://static.eldiario.es/clip/bc5597b5-578c-49d6-9235-d72f5b9e6b82_16-9-discover-aspect-ratio_default_1100856.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/galicia/visita-guiada-pazo-meiras-13-anos-despues-vistazo-expolio-franco-hogar-pardo-bazan_1_11605351.html",
+        "date": "2024-08-23 20:15:04",
+        "sentiment_score": -0.11152315139770508
+    },
+    {
+        "title": "Las escapadas domingueras del barrio de San José de Zaragoza a la playa: \"Queremos que todos puedan viajar en verano\"",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/08/23/imagen-de-una-playa-de-biarritz-excursion-de-la-pena-san-jose.jpeg",
+        "tags": [
+            "zaragoza"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2024/08/23/escapadas-barrio-san-jose-zaragoza-organiza-excursiones-playa-domingo-1757212.html",
+        "date": "2024-08-23 20:00:00",
+        "sentiment_score": -0.06903467327356339
+    },
+    {
+        "title": "Fútbol en los bares, un negocio caro, pero rentable: \"Si me pidiesen 800 euros al mes, los tendría que pagar\"",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/08/20/futbol-aficionados-ven-el-partido-del-mundial-espana-japon-en-el-bar-classic-2-0-autor-sanchez-alvaro-fecha-01-12-2022-propietario-colaboradores-aragon-id-2022-3609943-ha-archivo.jpeg",
+        "tags": [
+            "aragón"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/2024/08/23/futbol-bares-zaragoza-negocio-caro-pero-rentable-1757074.html",
+        "date": "2024-08-23 20:00:00",
+        "sentiment_score": 0.20850685983896255
+    },
+    {
+        "title": "«Cada vez me muerdo menos la lengua»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/08/24/ana-rosa2-kWK-U22010473008660NE-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/culturas/tv/vez-muerdo-lengua-20240824000306-ntrc.html",
+        "date": "2024-08-23 22:03:07",
+        "sentiment_score": -0.7903701104223728
+    },
+    {
+        "title": "Un verano sin denuncias por pinchazos en las discotecas tras los refuerzos de seguridad",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/11/16/2023111613125736284.jpg",
+        "tags": [
+            "vivir"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/vivir/verano-denuncias-pinchazos-discotecas-refuerzos-seguridad/20240824000000831898.html",
+        "date": "2024-08-23 22:00:00",
+        "sentiment_score": -0.06939282268285751
+    },
+    {
+        "title": "Cómo el cambio climático rediseña la Cataluña del futuro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/07/12/vida/778432166_8179477_1706x960.jpg?contentId=ESPIMA20230712_0017",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20240824/como-cambio-climatico-redisena-cataluna-del-futuro/879912045_0.html",
+        "date": "2024-08-23 22:00:00",
+        "sentiment_score": 0.07594405114650726
+    },
+    {
+        "title": "El valor del nuevo contrato que recibirá João Cancelo: un giro inesperado en su carrera",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/23/2024082302403696160.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/valor-nuevo-contrato-que-recibira-joao-cancelo-giro-inesperado-carrera/20240823234733316133.html",
+        "date": "2024-08-23 21:47:33",
+        "sentiment_score": 0.2071242406964302
+    },
+    {
+        "title": "Al menos tres muertos en un apuñalamiento múltiple en la ciudad alemana de Solingen",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/23/66c900c0f37c8.r_d.3087-1727-0.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20240823/9887971/nueve-personas-apunaladas-festival-ciudad-alemana-solingen.html",
+        "date": "2024-08-23 21:34:32",
+        "sentiment_score": -0.844218922778964
+    },
+    {
+        "title": "Lavado de cara del Museo Picasso de Barcelona: más de medio millón en obras",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/08/14/informacion-municipal/878172259_13341174_1706x960.jpg?contentId=ESPIMA20240814_0085",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20240823/lavado-de-cara-del-museo-picasso-barcelona-mas-medio-millon-en-obras/878162263_0.html",
+        "date": "2024-08-23 21:30:00",
+        "sentiment_score": 0.6457647085189819
+    },
+    {
+        "title": "La Sociedad Suiza de Barcelona, conexión catalano-helvética desde el Siglo XIX",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/07/16/vivir-en-barcelona/870923026_13234417_1706x960.jpg?contentId=ESPIMA20240716_0127",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240823/la-sociedad-suiza-de-barcelona-conexion-catalano-helvetica-desde-el-siglo-xix/870912992_0.html",
+        "date": "2024-08-23 21:30:00",
+        "sentiment_score": 0.021323278546333313
+    },
+    {
+        "title": "El impacto económico del idioma español en el mundo globalizado",
+        "image_url": "https://www.clm24.es/media/clm24/images/2022/11/10/2022111011402638081.jpg",
+        "tags": [
+            "comunicados"
+        ],
+        "link": "https://www.clm24.es/articulo/comunicados/impacto-economico-idioma-espanol-mundo-globalizado/20240823231737430553.html",
+        "date": "2024-08-23 21:17:37",
+        "sentiment_score": 0.6001498326659203
+    },
+    {
+        "title": "Teresa Gimpera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd6cb0f9-4ad3-416f-92a5-c8e8b1d4dc99_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2024/08/23/teresa-gimpera-107301705.html",
+        "date": "2024-08-23 21:04:13",
+        "sentiment_score": -0.5669985115528107
+    },
+    {
+        "title": "Pelea familiar dejó dos muertos y dos heridos en Nueva Esparta (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-361.png",
+        "tags": [
+            "sucesos",
+            "nueva esparta",
+            "dos heridos",
+            "dos muertos",
+            "pelea familiar"
+        ],
+        "link": "https://2001online.com/sucesos/pelea-familiar-dejo-dos-muertos-y-dos-heridos-en-nueva-esparta-detalles/",
+        "date": "2024-08-23 22:10:12",
+        "sentiment_score": -0.7903951909393072
+    },
+    {
+        "title": "Arrestan a hombre por quemar las manos de su sobrina de ocho años (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Cicpc-1-1-2.jpg",
+        "tags": [
+            "sucesos",
+            "cicpc",
+            "#caracas"
+        ],
+        "link": "https://2001online.com/sucesos/arrestan-a-hombre-por-quemar-las-manos-de-su-sobrina-de-ocho-anos-detalles/",
+        "date": "2024-08-23 22:09:31",
+        "sentiment_score": -0.7021200247108936
+    },
+    {
+        "title": "Bebé de nueve meses muere dentro de un auto en Texas",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Foto-referencial.jpg",
+        "tags": [
+            "sucesos",
+            "caracas",
+            "estados unidos",
+            "internacionales",
+            "nacionales",
+            "beeville",
+            "eeuu",
+            "sucesos internacionales",
+            "texas",
+            "venezuela",
+            "bebé muerto en texas",
+            "san antonio texas",
+            "2001online"
+        ],
+        "link": "https://2001online.com/sucesos/bebe-de-nueve-meses-muere-dentro-de-un-auto-en-texas/",
+        "date": "2024-08-23 22:00:37",
+        "sentiment_score": -0.7832306865602732
+    },
+    {
+        "title": "Autoridades colombianas rescatan a una niña secuestrada en la frontera con Venezuela",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Nino-Maltrato-Infantil-.jpg",
+        "tags": [
+            "colombia",
+            "niña secuestrada",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/autoridades-colombianas-rescatan-a-una-nina-secuestrada-en-la-frontera-con-venezuela/",
+        "date": "2024-08-23 21:36:34",
+        "sentiment_score": -0.1065397560596466
+    },
+    {
+        "title": "EEUU: La moneda de 1 dólar que puede valer hasta $50.000",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/1-4.jpg",
+        "tags": [
+            "dolar",
+            "internacionales",
+            "moneda",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-la-moneda-de-1-dolar-que-puede-valer-hasta-50-000/",
+        "date": "2024-08-23 21:26:43",
+        "sentiment_score": 0.22678013145923615
+    },
+    {
+        "title": "Afganistán prohíbe a las mujeres hablar en público: sepa por qué",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-359.png",
+        "tags": [
+            "internacionales",
+            "mujeres en afganistán",
+            "velo en las mujeres en afganistán",
+            "afganistán"
+        ],
+        "link": "https://2001online.com/internacionales/afganistan-prohibe-a-las-mujeres-hablar-en-publico-sepa-por-que/",
+        "date": "2024-08-23 21:12:59",
+        "sentiment_score": -0.6451495140790939
+    },
+    {
+        "title": "Pdvsa realiza trabajos de mantenimiento en Campo Furrial (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/1548712066938413.jpg",
+        "tags": [
+            "campo orocual",
+            "campo jisepín",
+            "campo furrial",
+            "mantenimiento",
+            "petróleos de venezuela s.a",
+            "campo quiriquire",
+            "venezuela",
+            "nacionales",
+            "campo boquerón",
+            "petróleo venezolano",
+            "pdvsa",
+            "división furrial"
+        ],
+        "link": "https://2001online.com/nacionales/pdvsa-realiza-trabajos-de-mantenimiento-en-campo-furrial-detalles/",
+        "date": "2024-08-23 21:09:02",
+        "sentiment_score": 0.11137086898088455
+    },
+    {
+        "title": "Huracanes en EEUU: Sepa cómo solicitar ayuda económica por desastre natural",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/huracanes-EEUU-1-1200x720.jpg",
+        "tags": [
+            "eeuu",
+            "2001online",
+            "huracanes en eeuu",
+            "fema",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/huracanes-en-eeuu-sepa-como-solicitar-ayuda-economica/",
+        "date": "2024-08-23 21:00:00",
+        "sentiment_score": -0.7614370472729206
+    },
+    {
+        "title": "¿Qué banco ofrece créditos para cubrir gastos médicos?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/descarga-2024-08-22T202324.107.jpeg",
+        "tags": [
+            "crédito",
+            "banco bicentenario",
+            "gastos medicos",
+            "bancos",
+            "servicios",
+            "créditos gastos medicos"
+        ],
+        "link": "https://2001online.com/servicios/que-banco-ofrece-creditos-para-cubrir-gastos-medicos/",
+        "date": "2024-08-23 21:00:00",
+        "sentiment_score": 0.048807334154844284
+    },
+    {
+        "title": "Rituales para ahuyentar las malas energías de tu casa",
+        "image_url": "./assets/ai_generated/v1_txt2img_de022f0374d24778b85d9028f9adb60f.png",
+        "tags": [
+            "astrología",
+            "energías",
+            "energías negativas",
+            "zona3d"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/rituales-para-ahuyentar-las-malas-energias-de-tu-casa/",
+        "date": "2024-08-23 20:56:50",
+        "sentiment_score": -0.4034580588340759
     }
 ];
