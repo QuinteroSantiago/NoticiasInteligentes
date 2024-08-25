@@ -207,16 +207,6 @@ export default [
         "sentiment_score": -0.15428796410560608
     },
     {
-        "title": "Tensión entre Israel, Irán y Hezbollah",
-        "image_url": "./assets/ai_generated/v1_txt2img_0ea8e675a60847019a71834259065754.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/conflito-israel-iran-hezbollah-levy-cafe-tv-fast/",
-        "date": "2024-08-21 13:03:01",
-        "sentiment_score": -0.7880782764405012
-    },
-    {
         "title": "Alberto Fernández contraataca: denuncia a su ex, Fabiola Yáñez, por violación de secreto",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/21/alberto-fabiola-RoTPx8iuWvk26KCDonlYQsJ-758x531@diario_abc.jpg",
         "tags": [
@@ -265,36 +255,6 @@ export default [
         "link": "https://www.abc.es/economia/globalia-defiende-acusaciones-hazteoir-presuntas-irregularidades-contrato-20240821164052-nt.html",
         "date": "2024-08-21 14:41:30",
         "sentiment_score": -0.14918185770511627
-    },
-    {
-        "title": "Estos trabajadores podrán aumentar en cinco años su cotización si fueron becarios a partir de esta fecha",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/21/oficina--758x531.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trabajadores-podran-aumentar-cinco-anos-cotizacion-becarios-20240821161026-nt.html",
-        "date": "2024-08-21 14:10:27",
-        "sentiment_score": -0.11530593037605286
-    },
-    {
-        "title": "Cuánto dinero cobra un agente forestal en España: sueldo base y complementos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/21/agente-forestal--758x531.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dinero-cobra-agente-forestal-espana-sueldo-base-20240821131913-nt.html",
-        "date": "2024-08-21 11:19:14",
-        "sentiment_score": -0.10409563779830933
-    },
-    {
-        "title": "Mueren en un tiroteo tres trabajadores de un instituto de Bosnia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/21/mostar-3732480_1280-kz5F-U602977134245cAF-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/mueren-tiroteo-tres-trabajadores-instituto-bosnia-20240821130556-nt.html",
-        "date": "2024-08-21 11:05:57",
-        "sentiment_score": -0.6040964387357235
     },
     {
         "title": "ERC amenaza a Montero con tumbar los Presupuestos si incumple el pacto para investir a Illa",
@@ -385,57 +345,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-08-21/collboni-pide-a-erc-que-decida-este-ano-si-quiere-incorporarse-al-gobierno-de-barcelona.html",
         "date": "2024-08-21 14:27:20",
         "sentiment_score": -0.2366170808672905
-    },
-    {
-        "title": "Montero rechaza que el acuerdo con ERC sea un concierto económico: “Quien diga lo contrario, miente”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DVASMKELMVUOSJNDFYQUXSBRAE.jpg?auth=007b98bd6d14ae2411f73c32591933974132f390da6f53836556f18e2da9c206",
-        "tags": [
-            "hacienda pública",
-            "financiación autonómica",
-            "parlament cataluña",
-            "maría jesús montero",
-            "salvador illa",
-            "españa",
-            "erc",
-            "generalitat cataluña"
-        ],
-        "link": "https://elpais.com/espana/2024-08-21/montero-rechaza-que-el-acuerdo-con-erc-sea-un-concierto-economico-quien-diga-lo-contrario-miente.html",
-        "date": "2024-08-21 11:54:17",
-        "sentiment_score": -0.7913858592510223
-    },
-    {
-        "title": "La Guardia Civil detiene a dos menores e investiga a otros dos por prender fuego a una persona sin hogar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5CM6HVZCUUCLBCPJXAPEJQLCTA.jpg?auth=c3695a3acdd666c753269fdfb2efcf6c46c30f0533ed4f95a71bfe840dc71d67",
-        "tags": [
-            "policía nacional",
-            "almería",
-            "investigación policial",
-            "adra",
-            "menores homicidas",
-            "menores",
-            "españa",
-            "fiscalía menores",
-            "guardia civil"
-        ],
-        "link": "https://elpais.com/espana/2024-08-21/la-guardia-civil-detiene-a-dos-menores-e-investiga-a-otros-dos-por-prender-fuego-a-una-persona-sin-hogar.html",
-        "date": "2024-08-21 11:24:33",
-        "sentiment_score": -0.49461959302425385
-    },
-    {
-        "title": "El fiscal para delitos de odio propone acabar con el anonimato en redes para frenar los bulos xenófobos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/34XXGJVC4ZAIJDA75GMWCBTHVY.jpg?auth=3f3a6223dc7da898a0e735b108cfd98284e9b9d8ac348cd13f2dd7f12f89bd64",
-        "tags": [
-            "españa",
-            "delitos odio",
-            "mocejón",
-            "menores",
-            "bulos internet",
-            "asesinatos",
-            "fiscalía"
-        ],
-        "link": "https://elpais.com/espana/2024-08-21/el-fiscal-para-delitos-de-odio-propone-acabar-con-el-anonimato-en-redes-para-frenar-los-bulos-xenofobos.html",
-        "date": "2024-08-21 10:20:24",
-        "sentiment_score": -0.5534582436084747
     },
     {
         "title": "Verano cruento de la violencia machista: 15 mujeres y tres menores asesinados",
@@ -9716,5 +9625,631 @@ export default [
         "link": "https://2001online.com/sucesos/capturan-a-alias-el-cara-de-nina-en-carabobo/",
         "date": "2024-08-24 21:05:29",
         "sentiment_score": -0.5897854715585709
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 25 de agosto en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/L7IT5XBSFVDYJEF3ECCP474U3I.jpg?auth=e165baebfbd34a96b2d5cba0a15840ad1b732de5fe1c3cb6d8e0b94528eea6a5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/25/clima-las-temperaturas-que-predominaran-este-25-de-agosto-en-malaga/",
+        "date": "2024-08-25 02:01:25",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Temperaturas en Madrid: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/4N4UUOUJC5BKJCG2XVRFEA3NCQ.jpg?auth=d439ccfd16336400ba8dbeb952b7d4a54d7dacb203ce9e17244d99cb7c035961",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/25/temperaturas-en-madrid-preparate-antes-de-salir-de-casa/",
+        "date": "2024-08-25 01:30:57",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "YouTube en España: la lista de los 10 videos más reproducidos que son tendencia hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/AKS3VXF65BE3TFXMRX6TMOC32U.jpg?auth=8dc455174a38cd114d28f8bdc6f6e6054d3c55f76dec83aaaa4b2a546619922f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/25/youtube-en-espana-la-lista-de-los-10-videos-mas-reproducidos-que-son-tendencia-hoy/",
+        "date": "2024-08-25 01:01:24",
+        "sentiment_score": 0.6069574076682329
+    },
+    {
+        "title": "Clima en España: la previsión meteorológica para Barcelona este 25 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/ZIK2RMM66RE7BN3KXMSZBS7RVU.jpg?auth=23bb00cdbcdc045e28617fc62526c549703e3f1a30d672a66ba424af827523df",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/25/clima-en-espana-la-prevision-meteorologica-para-barcelona-este-25-de-agosto/",
+        "date": "2024-08-25 01:01:00",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Ábalos contesta a la auditoría de Transportes contra él: \"No hay precedentes de algo así\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_4ebebf04d94042ed9273780b08e6b3fc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/24/abalos-contesta-a-la-auditoria-de-transportes-contra-el-no-hay-precedentes-de-algo-asi/",
+        "date": "2024-08-24 22:46:57",
+        "sentiment_score": -0.31708985939621925
+    },
+    {
+        "title": "Manolo González: \"No hemos acertado y esto en Primera te condena\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_b0ea0ca5a3874e179d47dd4bcebbba04.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/24/manolo-gonzalez-no-hemos-acertado-y-esto-en-primera-te-condena/",
+        "date": "2024-08-24 22:46:45",
+        "sentiment_score": -0.9012634344398975
+    },
+    {
+        "title": "Rubi: \"Es importante ganar fuera y lograr la primera victoria para romper el hielo\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_f827ebd3aa5046c4b7b3a4927d328ac6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/24/rubi-es-importante-ganar-fuera-y-lograr-la-primera-victoria-para-romper-el-hielo/",
+        "date": "2024-08-24 22:46:29",
+        "sentiment_score": 0.3529403284192085
+    },
+    {
+        "title": "Cano: \"Este es el camino, jugando así el equipo va a perder pocos partidos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_ac5abe6b296e4223bd931d95b54a1e42.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/24/cano-este-es-el-camino-jugando-asi-el-equipo-va-a-perder-pocos-partidos/",
+        "date": "2024-08-24 22:46:12",
+        "sentiment_score": 0.0476674884557724
+    },
+    {
+        "title": "Imanol Alguacil: \"No estamos bien físicamente y hay mucha gente nueva\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_ff51a859546a41faa580980c27afa372.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/24/imanol-alguacil-no-estamos-bien-fisicamente-y-hay-mucha-gente-nueva/",
+        "date": "2024-08-24 22:31:45",
+        "sentiment_score": -0.7977117616683245
+    },
+    {
+        "title": "Bordalás: \"No quiero que me agradezcan nada pero sí que me respeten\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_8f17abbea5af4695973c9499dd8363fb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/24/bordalas-no-quiero-que-me-agradezcan-nada-pero-si-que-me-respeten/",
+        "date": "2024-08-24 22:31:28",
+        "sentiment_score": -0.162058025598526
+    },
+    {
+        "title": "Instalan en Yucatán imponente estatua de 6 metros del dios maya Chaac",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/chaac-thumb.jpg?quality=100&strip=info",
+        "tags": [
+            "turismo",
+            "península de yucatán",
+            "méxico",
+            "estatua"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dios-maya-chaac-telchac-puerto-yucatan-turismo-orix/",
+        "date": "2024-08-25 01:59:51",
+        "sentiment_score": 0.48087187856435776
+    },
+    {
+        "title": "Brasil y Colombia reiteran llamado a autoridades de Venezuela para que publiquen resultados electorales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "elecciones en venezuela",
+            "lula da silva",
+            "gustavo petro"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/24/brasil-colombia-llamado-publicar-resultados-electorales-venezuela-trax/",
+        "date": "2024-08-25 01:44:37",
+        "sentiment_score": -0.1331942230463028
+    },
+    {
+        "title": "El rover Perseverance se mueve hacia territorio inexplorado en Marte",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/perseverance-marte.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia y espacio"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/24/rover-perseverance-territorio-inexplorado-marte-trax/",
+        "date": "2024-08-25 01:34:40",
+        "sentiment_score": -0.04174479842185974
+    },
+    {
+        "title": "Israel dice que está preparado para cualquier ataque de represalia de Irán o Hezbollah",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/israel-fdi.jpg?quality=100&strip=info",
+        "tags": [
+            "israel",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/24/israel-ataque-represalia-iran-hezbollah-trax/",
+        "date": "2024-08-25 01:02:52",
+        "sentiment_score": -0.8338215965777636
+    },
+    {
+        "title": "Se tensan las negociaciones por un cese del fuego en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2167352746.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/negociaciones-israel-hamas-tensiones-gaza-mirador-mundial-tv/",
+        "date": "2024-08-25 00:37:19",
+        "sentiment_score": -0.5852294377982616
+    },
+    {
+        "title": "¿Por qué Rusia no ha logrado contener el avance de Ucrania?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1244121939.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-rusia-ucrania-avance-tropas-mirador-mundial-tv/",
+        "date": "2024-08-25 00:34:03",
+        "sentiment_score": -0.457340843975544
+    },
+    {
+        "title": "Min. Público de Venezuela cita a Edmundo González",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2163520908.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-citan-edmundo-gonzalez-resultados-mirador-mundial-tv/",
+        "date": "2024-08-25 00:33:54",
+        "sentiment_score": -0.5333628877997398
+    },
+    {
+        "title": "Video muestra a delfines “saltando al estilo Simone Biles” en San Diego",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/delfines.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "delfines",
+            "animales",
+            "xpress",
+            "ballenas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-viral-delfines-saltando-estilo-simone-biles-san-diego-trax/",
+        "date": "2024-08-25 00:26:53",
+        "sentiment_score": -0.13751576840877533
+    },
+    {
+        "title": "INE avala mayoría calificada de diputados del oficialismo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1370397-nuevo-ciclo-en-el-ine-los-cambios-en-el-arbitro-electoral-de-mexico.jpg?quality=100&strip=info",
+        "tags": [
+            "instituto nacional electoral",
+            "partido morena",
+            "fast – news variety",
+            "xpress",
+            "méxico",
+            "embajada de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ine-reforma-judicial-preocupa-a-eeuu-mirador-mundial-tv-fast/",
+        "date": "2024-08-25 00:13:17",
+        "sentiment_score": 0.2854541912674904
+    },
+    {
+        "title": "NASA: Astronautas del Boeing Starliner regresarán en cápsula de SpaceX",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1239843694.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nasa-astronautas-varados-boeing-starliner-space-x-mirador-mundial-tv-fast/",
+        "date": "2024-08-25 00:07:54",
+        "sentiment_score": 0.10514673218131065
+    },
+    {
+        "title": "Magna",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/25/congreso-hermandades-R1gp0ysHEKiOW3R3vDnzMbL-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-magna-20240825041051-nt.html",
+        "date": "2024-08-25 02:10:51",
+        "sentiment_score": 0.014107614755630493
+    },
+    {
+        "title": "Los konyaks: ecos de un pasado sangriento en una región al límite",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/25/india-ay-1-ktjG-U602981468151gXD-1200x672@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/konyaks-ecos-pasado-sangriento-region-limite-20240825171900-nt.html",
+        "date": "2024-08-25 02:05:30",
+        "sentiment_score": -0.10254588723182678
+    },
+    {
+        "title": "¿Se pinchará el globo de Kamala?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/25/kamala-RnkmL6m5fa1yPEvhSjhyRgJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pinchara-globo-kamala-20240825203611-nt.html",
+        "date": "2024-08-25 02:04:51",
+        "sentiment_score": -0.09665268659591675
+    },
+    {
+        "title": "Zapatero y sus aliados maniobran para que EE.UU no sancione a Maduro",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/25/zapatero-maduro-kIXH-RWdpFTip2PT8W0L2E16UbpJ-758x531@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/zapatero-aliados-maniobran-eeuu-sancione-maduro-20240825194101-nt.html",
+        "date": "2024-08-25 02:04:37",
+        "sentiment_score": -0.21141760051250458
+    },
+    {
+        "title": "Los habanos: objeto de deseo para los falsificadores",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/25/habanoscuba-R59JVUGe57d9zVZmVBin9eN-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/habanos-objeto-deseo-falsificadores-20240825192804-nt.html",
+        "date": "2024-08-25 02:03:52",
+        "sentiment_score": -0.25107869505882263
+    },
+    {
+        "title": "Los habanos, un producto de lujo tras la entrada de los chinos en el negocio",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/25/puroshabanoscuba-Ruj3stnC536WETloZ3Drx0N-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/habanos-producto-lujo-tras-entrada-chinos-negocio-20240825191330-nt.html",
+        "date": "2024-08-25 02:03:24",
+        "sentiment_score": -0.1152077466249466
+    },
+    {
+        "title": "Hacienda pone el ojo en las ventas de segunda mano, un negocio que se ha duplicado en tres años",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/25/1477004412-RQdgiMvPA9g1GQBjCIg07PN-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/hacienda-pone-ojo-ventas-segunda-mano-negocio-20240825200909-nt.html",
+        "date": "2024-08-25 02:02:44",
+        "sentiment_score": -0.08489064872264862
+    },
+    {
+        "title": "El campo pide cambios en la Ley de Extranjería para agilizar la contratación de inmigrantes",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/25/Imagen(193948965)-R9Elix6tpvTsuILqfRFJtDN-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/campo-pide-cambios-ley-extranjeria-agilizar-contratacion-20240825150400-nt.html",
+        "date": "2024-08-25 02:02:09",
+        "sentiment_score": -0.09328192472457886
+    },
+    {
+        "title": "¿Cuántas piscinas de comunidad hay en los barrios de Madrid? De una por cada 200 vecinos a una por cada 45.000",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WUPGZAHX6RBHNIKRPFTQSC56MI.jpg?auth=32fd1a8667d1febe7b828a6737f0ceb29479e9c43b1457e0a87a4ad926476e84",
+        "tags": [
+            "comunidad de madrid",
+            "piscinas",
+            "urbanismo",
+            "obras públicas",
+            "instalaciones municipales",
+            "ayuntamiento madrid",
+            "olas calor",
+            "calor",
+            "madrid",
+            "vecinos",
+            "cambio climático",
+            "comunidades vecinos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-08-25/cuantas-piscinas-de-comunidad-hay-en-los-barrios-de-madrid-de-una-por-cada-200-vecinos-a-una-por-cada-45000.html",
+        "date": "2024-08-25 02:00:00",
+        "sentiment_score": -0.4908006004989147
+    },
+    {
+        "title": "Ola de críticas a Puente por ignorar el caos del tren: \"Vive una realidad paralela\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92074c03-aaa1-494c-9764-ec7edaafcced_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/08/25/ola-criticas-puente-ignorar-caos-107333628.html",
+        "date": "2024-08-25 02:05:20",
+        "sentiment_score": -0.11073055863380432
+    },
+    {
+        "title": "Un héroe y un matador ‘groguets’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d97699d3-4452-410d-be62-2d2d41519d3b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/08/25/heroe-matador-groguets-107329380.html",
+        "date": "2024-08-25 02:00:20",
+        "sentiment_score": 0.10597023367881775
+    },
+    {
+        "title": "Del coladero en el que se ha convertido Barajas de inmigrantes ilegales a la censura en redes sociales",
+        "image_url": "https://gaceta.es/wp-content/uploads/2024/01/Aeropuerto-Barajas-solicitantes-asilo-malviven-1-e1705659020591.jpg",
+        "tags": [
+            "inmigración ilegal",
+            "estados unidos",
+            "barajas",
+            "la semana"
+        ],
+        "link": "https://gaceta.es/la-semana/del-coladero-en-el-que-se-ha-convertido-barajas-de-inmigrantes-ilegales-a-la-censura-en-redes-sociales-20240825-0330/",
+        "date": "2024-08-25 01:30:00",
+        "sentiment_score": -0.944314175285399
+    },
+    {
+        "title": "Así es la nueva marca de bailarinas made in Spain que enamorará a la mismísima Reina Letizia",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/23/17244086188321.jpg",
+        "tags": [
+            "tendencias de moda",
+            "moda",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/moda/2024/08/25/66c856e9e4d4d85b698b457b.html",
+        "date": "2024-08-25 00:25:45",
+        "sentiment_score": 0.5335629601031542
+    },
+    {
+        "title": "Salou, Foz, Ribadeo y las otras 22 'Numancias' españolas que resisten al turismo y donde aún es 'sencillo' comprar casa",
+        "image_url": "https://s1.elespanol.com/2021/04/29/quincemil/vivir/escapadas/577456122_246753692_1706x960.jpg?contentId=ESPIMA20210429_3873",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20240825/salou-foz-ribadeo-numancias-espanolas-resisten-turismo-sencillo-comprar-casa/880412353_0.html",
+        "date": "2024-08-25 00:12:19",
+        "sentiment_score": -0.5579674132168293
+    },
+    {
+        "title": "Pedro Cardona, el tutor de Leonor en la Armada que ha renunciado al ascenso para guiarla este año",
+        "image_url": "https://s1.elespanol.com/2024/08/24/actualidad/880672023_248673053_1706x960.jpg?contentId=ESPIMA20240824_0099",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240825/pedro-cardona-tutor-leonor-armada-renunciado-ascenso-guiarla-ano/880661979_0.html",
+        "date": "2024-08-25 00:09:36",
+        "sentiment_score": 0.8031364567577839
+    },
+    {
+        "title": "Las joyas descartadas del casting de Hansi Flick: la otra cara de la moneda en la Masía",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/25/culemania/primer-equipo/880921912_13377468_1706x960.png?contentId=ESPIMA20240825_0013",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20240825/las-descartadas-de-hansi-flick-la-masia/880661983_0.html",
+        "date": "2024-08-24 23:51:18",
+        "sentiment_score": -0.8253335142508149
+    },
+    {
+        "title": "James Rodríguez ya tendría acuerdo con su nuevo equipo: estas serían las condiciones de su contrato",
+        "image_url": "./assets/ai_generated/v1_txt2img_e23ff3e90e8c4b1496686583f518641e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/24/james-rodriguez-ya-tendria-acuerdo-con-su-nuevo-equipo-estas-serian-las-condiciones-de-su-contrato/",
+        "date": "2024-08-24 23:13:13",
+        "sentiment_score": 0.8510511592030525
+    },
+    {
+        "title": "René Mäkelä, entre el Mallorca y Kamala Harris",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/74f1902e-6cc1-484f-a588-0d211f6a023b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/2024/08/25/rene-makela-mallorca-kamala-harris-107320704.html",
+        "date": "2024-08-24 22:25:41",
+        "sentiment_score": -0.025844097137451172
+    },
+    {
+        "title": "Aller, todo listo para acoger después de veinte años el encuentro de las Polas de Asturias y León",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5fe4f7c6-0bf9-431a-b477-f1446f50c728_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/cuencas/2024/08/25/aller-listo-acoger-despues-veinte-107327109.html",
+        "date": "2024-08-25 02:05:20",
+        "sentiment_score": -0.06725570559501648
+    },
+    {
+        "title": "Antes que de tasas, hablemos de calidad en el turismo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0c7d2cce-497b-4eb7-b974-3dda1cd87b0a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/opinion/2024/08/25/tasas-hablemos-calidad-turismo-107333297.html",
+        "date": "2024-08-25 02:05:20",
+        "sentiment_score": -0.3480871021747589
+    },
+    {
+        "title": "Navegar, navegan",
+        "image_url": "./assets/ai_generated/v1_txt2img_32586429c01a4a41bae3839ad881889c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/08/25/navegar-navegan-107324366.html",
+        "date": "2024-08-25 02:00:20",
+        "sentiment_score": 0.29749852791428566
+    },
+    {
+        "title": "El miedo",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/05/ILLA-MARA-1705-0.jpg",
+        "tags": [
+            "psoe",
+            "opinión",
+            "psc",
+            "independentismo catalán",
+            "pedro sánchez"
+        ],
+        "link": "https://theobjective.com/opinion/2024-08-25/el-miedo/",
+        "date": "2024-08-25 01:30:00",
+        "sentiment_score": -0.8058037776499987
+    },
+    {
+        "title": "El independentismo llega a la Diada desmovilizado, dividido y con miedo a pinchar",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/04/25/662a43e604d0e.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20240825/independentismo-llega-diada-desmovilizado-dividido-miedo-pinchar_221528.html",
+        "date": "2024-08-25 01:30:00",
+        "sentiment_score": -0.9121523406356573
+    },
+    {
+        "title": "Lexploitation salta a las calles",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/24/66ca18428ebe7.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240825/1602620/lexploitation-salta-calles.html",
+        "date": "2024-08-25 01:30:00",
+        "sentiment_score": 0.3318446334451437
+    },
+    {
+        "title": "Yaser Asprilla siente presión del técnico de Girona: “Hay que ir paso a paso”",
+        "image_url": "./assets/ai_generated/v1_txt2img_a7999df9949d4edda60161d4c561521b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/25/yaser-asprilla-siente-presion-del-tecnico-de-girona-hay-que-ir-paso-a-paso/",
+        "date": "2024-08-25 01:29:41",
+        "sentiment_score": 0.48364947736263275
+    },
+    {
+        "title": "Lamine Yamal y Lewandowski regalan primera a la era Flick",
+        "image_url": "https://i0.wp.com/elsiglo.com.ve/wp-content/uploads/2024/08/barca.jpg?resize=696%2C485&ssl=1",
+        "tags": [
+            "noticias destacadas",
+            "deportes",
+            "fc barcelona"
+        ],
+        "link": "https://elsiglo.com.ve/2024/08/24/lamine-yamal-y-lewandowski-regalan-primera-a-la-era-flick/",
+        "date": "2024-08-25 00:13:27",
+        "sentiment_score": 0.3030160814523697
+    },
+    {
+        "title": "Armada colombiana rescató a 28 migrantes, dos de ellos venezolanos",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/RESCATE-MIGRANTES-COLOMBIA.png",
+        "tags": [
+            "venezolanos",
+            "colombia",
+            "armada",
+            "migración"
+        ],
+        "link": "https://2001online.com/migracion/armada-colombiana-rescato-a-28-migrantes-dos-de-ellos-venezolanos/",
+        "date": "2024-08-25 02:01:26",
+        "sentiment_score": -0.18212653696537018
+    },
+    {
+        "title": "Conozca los beneficios de los perros para nuestra salud mental",
+        "image_url": "https://resizer.glanacion.com/resizer/v2/un-estudio-revelo-que-la-interaccion-con-los-2KRRXLG5JJH63EOYHCP6S37UTQ.png?auth=ea97527884bb983d6d514e9dd54738bcdc067f6834253191faff295c195e6cf2&height=280&quality=70&smart=true&width=420",
+        "tags": [
+            "curiosidades",
+            "salud mental",
+            "depression",
+            "estres",
+            "gatos"
+        ],
+        "link": "https://2001online.com/curiosidades/conozca-los-beneficios-de-los-perros-para-nuestra-salud-mental/",
+        "date": "2024-08-25 02:00:00",
+        "sentiment_score": 0.4454619139432907
+    },
+    {
+        "title": "Familia en Bolivia asegura haber sido víctima de La Llorona (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/10-1280x720.jpg",
+        "tags": [
+            "bolivia",
+            "curiosidades",
+            "la llorona"
+        ],
+        "link": "https://2001online.com/curiosidades/familia-en-bolivia-asegura-haber-sido-victima-de-la-llorona-video/",
+        "date": "2024-08-25 01:54:47",
+        "sentiment_score": -0.5178500637412071
+    },
+    {
+        "title": "Sexagenario mató a su amigo con una aguja de coser zapatos",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Sexagenario-Aguja.jpg",
+        "tags": [
+            "aguja de coser",
+            "sucesos",
+            "asesinato"
+        ],
+        "link": "https://2001online.com/sucesos/sexagenario-mato-a-su-amigo-con-una-aguja-coser-zapatos/",
+        "date": "2024-08-25 01:30:00",
+        "sentiment_score": -0.6532391384243965
+    },
+    {
+        "title": "Petro y Lula insisten en presentación de actas tras comicios venezolanos",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/6-1250x720.png",
+        "tags": [
+            "luiz inácio lula da silva",
+            "gustavo petro",
+            "elecciones presidenciales en venezuela",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/petro-y-lula-insisten-en-presentacion-de-actas-tras-comicios-venezolanos/",
+        "date": "2024-08-25 01:19:27",
+        "sentiment_score": -0.17185505479574203
+    },
+    {
+        "title": "Cómo se desactiva el Meta AI de WhatsApp y por qué es necesario hacerlo (+Pasos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Meta-AI_Updated-jpg-1-1.png",
+        "tags": [
+            "whatsapp",
+            "curiosidades",
+            "meta"
+        ],
+        "link": "https://2001online.com/curiosidades/como-se-desactiva-el-meta-ai-de-whatsapp-y-por-que-es-necesario-hacerlo-pasos/",
+        "date": "2024-08-25 01:15:00",
+        "sentiment_score": 0.34820935502648354
+    },
+    {
+        "title": "EEUU | ¿Cómo es la moneda de 25 centavos que vale hasta $15.000?",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/moneda-de-25-centavos-eeuu.jpg",
+        "tags": [
+            "monedas y billetes en eeuu",
+            "numismática",
+            "eeuu",
+            "internacionales",
+            "moneda de 25 centavos"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-como-es-la-moneda-de-25-centavos-que-vale-hasta-15-000/",
+        "date": "2024-08-25 01:00:00",
+        "sentiment_score": 0.1359010636806488
+    },
+    {
+        "title": "Jorge Márquez busca afianzar proyectos eléctricos de cara a la segunda Consulta Popular de este #25Ago",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/5-1.jpg",
+        "tags": [
+            "consulta popular",
+            "jorge márquez",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/jorge-marquez-busca-afianzar-proyectos-electricos-de-cara-a-la-segunda-consulta-popular-de-este-25ago/",
+        "date": "2024-08-25 01:00:00",
+        "sentiment_score": 0.22342289984226227
+    },
+    {
+        "title": "Conozca las tres opciones para obtener Green Card en EEUU (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/green-card-inmigrantes.jpeg",
+        "tags": [
+            "internacionales",
+            "green card",
+            "opciones para tener residencía",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/conozca-las-tres-opciones-para-obtener-green-card-en-eeuu-detalles/",
+        "date": "2024-08-25 00:33:44",
+        "sentiment_score": 0.1801648885011673
+    },
+    {
+        "title": "Inician pruebas de la primera vacuna del mundo contra el cáncer de pulmón",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/vacuna.jpg",
+        "tags": [
+            "internacionales",
+            "pruebas",
+            "contra el cáncer pulmón",
+            "vacunas"
+        ],
+        "link": "https://2001online.com/internacionales/inician-pruebas-de-la-primera-vacuna-del-mundo-contra-el-cancer-de-pulmon/",
+        "date": "2024-08-25 00:29:06",
+        "sentiment_score": 0.15889447927474976
     }
 ];
