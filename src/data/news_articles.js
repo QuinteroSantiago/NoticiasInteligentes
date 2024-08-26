@@ -1,246 +1,5 @@
 export default [
     {
-        "title": "Una comedia veraniega con Julián López, un thriller de Zoe Kravitz y un 'noir' de Trueba",
-        "image_url": "./assets/ai_generated/v1_txt2img_0cfdc9d796404528990efb94731e51d3.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/22/una-comedia-veraniega-con-julian-lopez-un-thriller-de-zoe-kravitz-y-un-noir-de-trueba/",
-        "date": "2024-08-22 06:16:09",
-        "sentiment_score": -0.07283635437488556
-    },
-    {
-        "title": "Este es el número máximo de personas a las que se puede avalar a la vez",
-        "image_url": "https://www.infobae.com/resizer/v2/7DU7GJLQDBDQVLGCABYVLQ6A34.jpg?auth=db5c9bc86980902b6566279f8c7624296dbf114e8f7a35336bc4ac201572f6cf",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/22/este-es-el-numero-maximo-de-personas-a-las-que-se-puede-avalar-a-la-vez/",
-        "date": "2024-08-22 06:05:17",
-        "sentiment_score": -0.8523814734071493
-    },
-    {
-        "title": "El Banco de Corea mantiene los tipos de interés, pero apunta a recortes en próximos meses",
-        "image_url": "./assets/ai_generated/v1_txt2img_c624eab8af224801aba66666b62e3d71.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/22/el-banco-de-corea-mantiene-los-tipos-de-interes-pero-apunta-a-recortes-en-proximos-meses/",
-        "date": "2024-08-22 06:01:45",
-        "sentiment_score": 0.023901641368865967
-    },
-    {
-        "title": "Nueve comunidades en alerta amarilla por tormentas, lluvia, calor y mala mar",
-        "image_url": "./assets/ai_generated/v1_txt2img_92a78b94afa3418080c4a7b9add6cc1e.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/22/nueve-comunidades-en-alerta-amarilla-por-tormentas-lluvia-calor-y-mala-mar/",
-        "date": "2024-08-22 06:01:27",
-        "sentiment_score": -0.8537186905741692
-    },
-    {
-        "title": "Pasos para pedir un abogado de oficio en Madrid: los requisitos obligatorios y toda la documentación necesaria",
-        "image_url": "https://www.infobae.com/resizer/v2/GWOEUSX5AJBRPAV2TJ7RN2VMDU.jpg?auth=c96f3a0dc7ac8bc8261df291b40281c2ba658dc13e9debee3cf32c108279168f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/22/pasos-para-pedir-un-abogado-de-oficio-en-madrid-los-requisitos-obligatorios-y-toda-la-documentacion-necesaria/",
-        "date": "2024-08-22 05:51:22",
-        "sentiment_score": -0.06668030470609665
-    },
-    {
-        "title": "Rescatadas dos mujeres con quemaduras por una explosión en una vivienda en Madrid",
-        "image_url": "./assets/ai_generated/v1_txt2img_39a027e375b74368b2e9dba2db901e05.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/22/rescatadas-dos-mujeres-con-quemaduras-por-una-explosion-en-una-vivienda-en-madrid/",
-        "date": "2024-08-22 05:46:06",
-        "sentiment_score": -0.7795401960611343
-    },
-    {
-        "title": "Dos mujeres heridas graves al sufrir quemaduras por una explosión en una vivienda en Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/LPDBGH5JLNG43BXXSZHNO4MK5E.jpeg?auth=a074e6da9251b9b5870743bcc63e239cf5581e0a6f1298f7835517d00ae8eefd",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/22/dos-mujeres-heridas-graves-al-sufrir-quemaduras-por-una-explosion-en-una-vivienda-en-madrid/",
-        "date": "2024-08-22 05:33:08",
-        "sentiment_score": -0.194635808467865
-    },
-    {
-        "title": "Diferencias entre herederos directos e indirectos: esta es la parte de la herencia que reciben",
-        "image_url": "https://www.infobae.com/resizer/v2/WPMI2LUBWJHTZOV5MD3YLSPGMA.jpg?auth=c9f71c2c64f4a54c8d4015039badc3d135ccc721c43f5432ee227939f114362a",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/22/diferencias-entre-herederos-directos-e-indirectos-esta-es-la-parte-de-la-herencia-que-reciben/",
-        "date": "2024-08-22 05:29:14",
-        "sentiment_score": -0.0845787413418293
-    },
-    {
-        "title": "Efemérides del 23 de agosto",
-        "image_url": "./assets/ai_generated/v1_txt2img_0e62a6a3f4964cf18f086cd3ad49552f.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/22/efemerides-del-23-de-agosto/",
-        "date": "2024-08-22 05:15:51",
-        "sentiment_score": -0.014885313808918
-    },
-    {
-        "title": "Cotización del euro frente al dólar hoy 22 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/IXLLR5XGVZBB3E347X2ZKMRHKI.jpg?auth=608bb2bf8f9e33cf43562c759e78c021e661ef771fb24519393a40e0b45ed927",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/22/cotizacion-del-euro-frente-al-dolar-hoy-22-de-agosto/",
-        "date": "2024-08-22 05:15:28",
-        "sentiment_score": -0.32036418467760086
-    },
-    {
-        "title": "Brasil restringirá la entrada de personas sin visado para limitar la inmigración irregular a EE.UU.",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/22/lula-da-silva-k8rD-U6029797604863a-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/brasil-restringira-entrada-personas-visado-limitar-inmigracion-20240822080928-nt.html",
-        "date": "2024-08-22 06:09:29",
-        "sentiment_score": -0.30435287952423096
-    },
-    {
-        "title": "Transportes instalará pantallas en un tramo de la A-6 a su paso por Madrid para reducir el ruido",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/21/pantalla-ruido-12600-y-13000.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/noticia/5611474/0/transportes-instalara-pantallas-un-tramo-6-madrid-para-reducir-ruido/",
-        "date": "2024-08-22 06:00:25",
-        "sentiment_score": 0.3809665460139513
-    },
-    {
-        "title": "Con el traje blanco y el blanquivioleta",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/08/21/garciacalvo1-k0PE--758x531@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/traje-blanco-blanquivioleta-20240822073155-nt.html",
-        "date": "2024-08-22 05:31:55",
-        "sentiment_score": -0.5735209062695503
-    },
-    {
-        "title": "“Miami lleva la violencia en su ADN”: Pedro Medina vive allí y cuenta el lado B del paraíso",
-        "image_url": "https://www.infobae.com/resizer/v2/CKF2FDKZ6VA4RFO55HELFEYWFU.jpg?auth=b9177c5194f594681e6859adf5bd32d30af088038e8b3d7ccf708cf468b64bc7",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/cultura/2024/08/22/miami-lleva-la-violencia-en-su-adn-pedro-medina-vive-alli-y-cuenta-el-lado-b-del-paraiso/",
-        "date": "2024-08-22 05:31:51",
-        "sentiment_score": -0.25880058109760284
-    },
-    {
-        "title": "Un grito global por la libertad y la verdad en Venezuela",
-        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/08/Captura-de-pantalla-2024-08-22-010702.png",
-        "tags": [
-            "columnista",
-            "opinión"
-        ],
-        "link": "https://www.elnacional.com/opinion/un-grito-global-por-la-libertad-y-la-verdad-en-venezuela/",
-        "date": "2024-08-22 05:22:55",
-        "sentiment_score": 0.17108756303787231
-    },
-    {
-        "title": "¿A qué delitos se enfrentan los racistas del crimen de Mocejón?",
-        "image_url": "https://www.elplural.com/uploads/s1/18/18/30/1/minuto-de-silencio-por-el-nino-de-mocejon-ep_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/a-delitos-enfrentan-racistas-crimen-mocejon_335733102",
-        "date": "2024-08-22 06:28:01",
-        "sentiment_score": -0.3154835104942322
-    },
-    {
-        "title": "El Fiscal propone identificar a usuarios de las redes sociales",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e9266c5a-5f10-4d42-965d-ee2815f1e7a9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/sociedad/2024/08/22/fiscal-propone-identificar-usuarios-redes-8609547.html",
-        "date": "2024-08-22 06:14:52",
-        "sentiment_score": -0.798160744830966
-    },
-    {
-        "title": "Chubascos fuertes con granizo en Teruel y temperaturas altas en el Ebro y sur del Pirineo",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/05/16/lluvia-zaragoza-gsc1-2.jpeg",
-        "tags": [
-            "aragón"
-        ],
-        "link": "https://www.heraldo.es/noticias/aragon/2024/08/22/nueve-comunidades-alerta-amarilla-tormentas-lluvia-calor-mala-mar-1757443.html",
-        "date": "2024-08-22 06:13:05",
-        "sentiment_score": -0.25383709371089935
-    },
-    {
-        "title": "La amenaza de ERC y las cuentas del PP",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/20/examen-protagonistas/879672174_13360319_1706x960.jpg?contentId=ESPIMA20240820_0150",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20240822/la-amenaza-erc-las-cuentas-del-pp/880161980_0.html",
-        "date": "2024-08-22 06:05:05",
-        "sentiment_score": -0.6548763457685709
-    },
-    {
-        "title": "Intimidad y prehistoria",
-        "image_url": "./assets/ai_generated/v1_txt2img_5f787911584746af9fdd5500c2201dd2.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodemallorca.es/cultura/2024/08/22/intimidad-prehistoria-107229939.html",
-        "date": "2024-08-22 06:01:45",
-        "sentiment_score": -0.42471444606781006
-    },
-    {
-        "title": "Comienzos dispares del Alavés en la élite",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b84186dc-f63c-4a85-932e-d1e1458ec78b_16-9-aspect-ratio_default_0_x938y507.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2024/08/22/comienzos-dispares-alaves-elite-8608497.html",
-        "date": "2024-08-22 06:00:42",
-        "sentiment_score": 0.1745205596089363
-    },
-    {
-        "title": "Qué le pasa a este niño",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52bf9e30-27b0-4554-b15f-158947011de7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2024/08/22/le-pasa-nino-107228850.html",
-        "date": "2024-08-22 06:00:37",
-        "sentiment_score": 0.16769632697105408
-    },
-    {
-        "title": "La Marina Port Vell concentrará las experiencias más exclusivas durante la Copa América en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1c58d8f-47f8-46d6-abc1-5f5f3a6767a5_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20240822/marina-port-vell-barcelona-experiencias-mas-exclusivas-yates-lujo-107030270",
-        "date": "2024-08-22 06:00:37",
-        "sentiment_score": 0.05483222007751465
-    },
-    {
-        "title": "Ajustar cuentas tras los Juegos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0ef7af4f-bbfe-4ce1-9425-c2763e80854e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2024/08/22/ajustar-cuentas-juegos-107225645.html",
-        "date": "2024-08-22 06:00:33",
-        "sentiment_score": -0.07983563840389252
-    },
-    {
         "title": "El CAC 40 cierra plano (-0,01 %) a la espera del presidente de la Fed",
         "image_url": "./assets/ai_generated/v1_txt2img_43fc86cb1b604b1eac4150eecadc8f16.png",
         "tags": [
@@ -688,47 +447,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-08-22/los-marineros-del-port-olimpic-van-a-la-huelga-coincidiendo-con-la-copa-del-america.html",
         "date": "2024-08-22 11:01:59",
         "sentiment_score": 0.18834497034549713
-    },
-    {
-        "title": "Los Mossos reconocen “errores” en el dispositivo para detener a Puigdemont",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5U2WNNCW3BHFTD2IWX42NLMY4Q.jpg?auth=63e4de953e2f336256e69355f84ac6750a93691436a5512321a6a29e9daa838d",
-        "tags": [
-            "procés independentista catalán",
-            "españa",
-            "carles puigdemont",
-            "salvador illa",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/2024-08-22/los-mossos-reconocen-errores-en-el-dispositivo-para-detener-a-puigdemont.html",
-        "date": "2024-08-22 09:35:10",
-        "sentiment_score": -0.22788520902395248
-    },
-    {
-        "title": "La Fiscalía de Valencia investiga a un edil de Vox de Paiporta que pidió “plomo” para los inmigrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JKX2KKHAAZHPPBMXYUHHCSGXEM.jpg?auth=3feeaa1896771a4d91086b3c3baf17119834312f1305988c31f30a68d18d44f7",
-        "tags": [
-            "ayuntamientos",
-            "generalitat valenciana",
-            "inmigración",
-            "políticos",
-            "migración",
-            "delitos odio",
-            "fiscalía",
-            "partidos políticos",
-            "valencia",
-            "comunidad valenciana",
-            "vox",
-            "paiporta",
-            "justicia",
-            "provincia valencia",
-            "denuncias",
-            "política",
-            "inmigrantes",
-            "investigación judicial"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-22/la-fiscalia-de-valencia-investiga-a-un-edil-de-vox-de-paiporta-que-pidio-plomo-para-los-inmigrantes.html",
-        "date": "2024-08-22 08:49:19",
-        "sentiment_score": -0.696500726044178
     },
     {
         "title": "La 'Anti-Ley del ex' de Budimir",
@@ -9029,5 +8747,620 @@ export default [
         "link": "https://2001online.com/comunidad/policaracas-inicia-inscripcion-para-estudiar-servicio-policial-requisitos/",
         "date": "2024-08-25 16:00:00",
         "sentiment_score": 0.04079302027821541
+    },
+    {
+        "title": "El Jaime Casas gana el Nacional de partidas rápidas invicto y con pleno de puntos",
+        "image_url": "./assets/ai_generated/v1_txt2img_3fe9dc0f075d4e5cbc6dcc521fc25bfa.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/el-jaime-casas-gana-el-nacional-de-partidas-rapidas-invicto-y-con-pleno-de-puntos/",
+        "date": "2024-08-25 21:48:53",
+        "sentiment_score": 0.5504908412694931
+    },
+    {
+        "title": "Gabri Martínez marca el gol de la jornada para el Braga",
+        "image_url": "./assets/ai_generated/v1_txt2img_989d02eb21694f5093d885ef74472c36.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/gabri-martinez-marca-el-gol-de-la-jornada-para-el-braga/",
+        "date": "2024-08-25 21:48:37",
+        "sentiment_score": 0.756590198725462
+    },
+    {
+        "title": "0-0. Aarón salva al Oviedo ante un Castellón que no encuentra el camino del gol",
+        "image_url": "./assets/ai_generated/v1_txt2img_9f1da0ddfcbd49f487d66be940eabe3b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/0-0-aaron-salva-al-oviedo-ante-un-castellon-que-no-encuentra-el-camino-del-gol/",
+        "date": "2024-08-25 21:48:20",
+        "sentiment_score": -0.11256261169910431
+    },
+    {
+        "title": "Andrés Martín iguala a Jauregi y Soberón al frente de la tabla",
+        "image_url": "./assets/ai_generated/v1_txt2img_cee0b1fb11084d73afa0acd78718a531.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/andres-martin-iguala-a-jauregi-y-soberon-al-frente-de-la-tabla/",
+        "date": "2024-08-25 21:31:05",
+        "sentiment_score": -0.2672320306301117
+    },
+    {
+        "title": "Juan Cruz: \"Que tengan claro que en Butarque va a ser muy difícil ganarnos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_7a47913119fe49d8990254c93d974ca7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/juan-cruz-que-tengan-claro-que-en-butarque-va-a-ser-muy-dificil-ganarnos/",
+        "date": "2024-08-25 21:03:14",
+        "sentiment_score": -0.5812776945531368
+    },
+    {
+        "title": "Sandro: \"Estamos haciendo las cosas bien a pesar de la derrota\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_396871ce6fd0400e8b099d7f24b4f68e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/sandro-estamos-haciendo-las-cosas-bien-a-pesar-de-la-derrota/",
+        "date": "2024-08-25 21:02:57",
+        "sentiment_score": 0.5725063383579254
+    },
+    {
+        "title": "Tarde de triunfo total en Almagro",
+        "image_url": "./assets/ai_generated/v1_txt2img_1268fcdf0c4a437b8140effb93bcbfc0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/tarde-de-triunfo-total-en-almagro/",
+        "date": "2024-08-25 21:02:39",
+        "sentiment_score": 0.8455152846872807
+    },
+    {
+        "title": "Borja Jiménez: \"Tenemos que ser el equipo con mayor presupuesto en ambición\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_65c9d9be516842229b28faecfc36e12b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/borja-jimenez-tenemos-que-ser-el-equipo-con-mayor-presupuesto-en-ambicion/",
+        "date": "2024-08-25 20:47:17",
+        "sentiment_score": 0.4103173725306988
+    },
+    {
+        "title": "Óscar Rodríguez: \"Tenía muchas ganas, estaba deseando jugar\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_38742564d9814766a1e5df96ace890b0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/oscar-rodriguez-tenia-muchas-ganas-estaba-deseando-jugar/",
+        "date": "2024-08-25 20:47:00",
+        "sentiment_score": 0.571862768381834
+    },
+    {
+        "title": "Curro Díaz y Cayetano a hombros en la Goyesca de Antequera",
+        "image_url": "./assets/ai_generated/v1_txt2img_03c6ad4db3c945bca20776971e7ba7c0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/25/curro-diaz-y-cayetano-a-hombros-en-la-goyesca-de-antequera/",
+        "date": "2024-08-25 20:46:30",
+        "sentiment_score": -0.16627439856529236
+    },
+    {
+        "title": "Gremio de trabajadores de la Prensa de Venezuela denuncia detención de la periodista Carmela Longo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/maduro-tsj-GettyImages-2167203758-e1724347401752.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/25/gremio-de-trabajadores-de-la-prensa-de-venezuela-denuncia-detencion-de-la-periodista-carmela-longo/",
+        "date": "2024-08-25 22:09:26",
+        "sentiment_score": -0.7701193299144506
+    },
+    {
+        "title": "Descubre como puedes controlar el antojo de azúcar para evitar la diabetes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1690016052.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "azucar",
+            "xpress",
+            "diabetes",
+            "noticias de salud",
+            "información de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aprende-a-controlar-los-antojos-de-azucar/",
+        "date": "2024-08-25 21:57:30",
+        "sentiment_score": 0.26555828005075455
+    },
+    {
+        "title": "Los robots de seguridad empiezan a unirse a las filas de los guardias humanos; esto es lo que sabemos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Copia-de-FOTO-PARA-WP-2024-08-25T141449.445.jpg?quality=100&strip=info",
+        "tags": [
+            "robots"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/25/robots-de-seguridad-filas-guardias-humanos-esto-sabemos-trax/",
+        "date": "2024-08-25 21:40:22",
+        "sentiment_score": 0.16369634866714478
+    },
+    {
+        "title": "Netanyahu habla tras la ola de ataques “preventivos” de Israel contra Hezbollah",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/16749758-03305717-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "ataque israel hezbollah",
+            "israel",
+            "israel noticias",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/netanyahu-ola-ataques-preventivos-israel-hezbollah-trax/",
+        "date": "2024-08-25 20:16:53",
+        "sentiment_score": -0.7967049274593592
+    },
+    {
+        "title": "Lula y Petro “toman nota” de la sentencia del Tribunal Supremo de Justicia de Venezuela a favor de Maduro, pero insisten en que se publiquen las actas de votación",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gustavo-petro-lula-da-silva.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "gustavo petro",
+            "luiz inacio lula da silva",
+            "tribunal supremo de justicia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/25/lula-petro-sentencia-tribunal-supremo-justicia-venezuela-maduro-publiquen-actas-votacion-orix/",
+        "date": "2024-08-25 19:44:01",
+        "sentiment_score": -0.2228710949420929
+    },
+    {
+        "title": "ANÁLISIS | Medio Oriente puede haberse alejado de estar al borde de una guerra regional... por ahora",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/medio-oriente-guerra-regional.jpg?quality=100&strip=info",
+        "tags": [
+            "guerra",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/25/analisis-medio-oriente-borde-guerra-regional-israel-libano-hezbollah-trax/",
+        "date": "2024-08-25 17:53:05",
+        "sentiment_score": -0.6952807493507862
+    },
+    {
+        "title": "El terrorista que mató a tres personas en Solingen tenía orden de deportación",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/25/solingen_20240825181429-R6FSOpN1pCaqpMDTlpiRbEO-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/terrorista-mato-tres-personas-solingen-orden-deportacion-20240825195548-nt.html",
+        "date": "2024-08-25 17:55:49",
+        "sentiment_score": -0.16339059174060822
+    },
+    {
+        "title": "Una Administración desangrada",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/26/Ca44-U52512271335wli-1200x630@diario_abc.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-administracion-desangrada-20240826184822-nt.html",
+        "date": "2024-08-25 17:47:26",
+        "sentiment_score": -0.17242872714996338
+    },
+    {
+        "title": "Patología del victimismo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/08/26/TERCERAABC_Victimismo_Masferrer-RBqVwY3Ej0VBsZDuRfWXXeI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/aniceto-masferrer-patologia-victimismo-20240826194639-nt.html",
+        "date": "2024-08-25 17:46:40",
+        "sentiment_score": -0.14957939088344574
+    },
+    {
+        "title": "La economía no miente",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/26/ENFOQUEABC_Laeconomianomiente_SORMAN-RPv6zFyWfaLnimnKYJlnuPL-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-economia-miente-20240826194624-nt.html",
+        "date": "2024-08-25 17:46:25",
+        "sentiment_score": -0.15209807455539703
+    },
+    {
+        "title": "Entusiasmo de Castilla",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/26/3687264-U76704035723sRp-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-entusiasmo-castilla-20240826194506-nt.html",
+        "date": "2024-08-25 17:46:07",
+        "sentiment_score": -0.042346030473709106
+    },
+    {
+        "title": "Umbralitos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/26/umbral-U42234044262Eoj-1200x630@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-umbralitos-20240826194524-nt.html",
+        "date": "2024-08-25 17:45:24",
+        "sentiment_score": -0.04338860511779785
+    },
+    {
+        "title": "Para los lobos",
+        "image_url": "./assets/ai_generated/v1_txt2img_dffe95f7e5e94056bef0581361760c23.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-lobos-20240826161902-nts.html",
+        "date": "2024-08-25 17:45:03",
+        "sentiment_score": -0.0222645103931427
+    },
+    {
+        "title": "El de mantenimiento",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/26/1442482119-U31150134718LwX-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-mantenimiento-20240826194453-nt.html",
+        "date": "2024-08-25 17:44:53",
+        "sentiment_score": -0.14413058757781982
+    },
+    {
+        "title": "La leal mentirosa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/08/26/montero-U74730104174dxf-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-leal-mentirosa-20240826194437-nt.html",
+        "date": "2024-08-25 17:44:38",
+        "sentiment_score": -0.40323980152606964
+    },
+    {
+        "title": "Cambio de sexo y fraude legal",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/26/ley-trans-U84660772748TfQ-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-cambio-sexo-fraude-legal-20240826194425-nt.html",
+        "date": "2024-08-25 17:44:25",
+        "sentiment_score": -0.12242341041564941
+    },
+    {
+        "title": "Los creadores del máster de Begoña Gómez desfilan ante el juez a la espera de que él decida qué hacer con Sánchez",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/07/bee6855bc9c153e09150276d5b3a2cf0d5435c9d-1440x808.jpg",
+        "tags": [
+            "tribunales",
+            "españa",
+            "begoña gómez",
+            "universidad complutense de madrid"
+        ],
+        "link": "https://www.elindependiente.com/espana/tribunales/2024/08/26/los-creadores-del-master-de-begona-gomez-desfilan-ante-el-juez-a-la-espera-de-que-el-decida-que-hacer-con-sanchez/",
+        "date": "2024-08-25 22:11:40",
+        "sentiment_score": -0.014155067503452301
+    },
+    {
+        "title": "Movilización para salvar El Paular: los vecinos exigen al Ministerio de Cultura la apertura del hotel que lleva 10 años cerrado",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/23/17244395891038.jpg",
+        "tags": [
+            "artículos ana del barrio"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/08/26/66c8dc65e85ece64638b4588.html",
+        "date": "2024-08-25 22:07:34",
+        "sentiment_score": 0.6875754073262215
+    },
+    {
+        "title": "El saguntino que logró blindar el Teatro Romano de Sagunt",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f63b575d-ac43-44eb-87a0-1b3151f815a8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/morvedre/2024/08/26/saguntino-logro-blindar-teatro-romano-enrique-palos-i-navarro-doctor-palos-teatro-romano-de-sagunto-sagunto-historia-museo-arqueologico-107225612.html",
+        "date": "2024-08-25 22:04:34",
+        "sentiment_score": -0.10200878977775574
+    },
+    {
+        "title": "Los galones de Valverde y Griezmann se cuelan en la fiesta de Mbappé y Julián Álvarez",
+        "image_url": "https://www.infobae.com/resizer/v2/S37LKLX4UZB6DOSU7UGYUDVP2E.jpg?auth=79032831c532f42a796dce9b3f3fa01ace782dda97b48e24816b426aca2568b9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/25/los-galones-de-valverde-y-griezmann-se-cuelan-en-la-fiesta-de-mbappe-y-julian-alvarez/",
+        "date": "2024-08-25 21:47:47",
+        "sentiment_score": -0.13616743683815002
+    },
+    {
+        "title": "Lewandowski retiene el liderato con su tercer tanto",
+        "image_url": "./assets/ai_generated/v1_txt2img_becda8f502be471b87f92fefcb9a6c34.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/25/lewandowski-retiene-el-liderato-con-su-tercer-tanto/",
+        "date": "2024-08-25 21:47:17",
+        "sentiment_score": -0.6282813549041748
+    },
+    {
+        "title": "10 datos de la jornada 2",
+        "image_url": "./assets/ai_generated/v1_txt2img_8de427605f974ac09662d240e220b083.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/25/10-datos-de-la-jornada-2/",
+        "date": "2024-08-25 21:47:00",
+        "sentiment_score": 0.012247305363416672
+    },
+    {
+        "title": "Nicolás González fue transferido a la Juventus en una cifra millonaria: por qué la noticia puede generarle un problema a Boca",
+        "image_url": "https://www.infobae.com/resizer/v2/FFWK2AARYBE2PJ5ZUIB3TTAASU.jfif?auth=06947a30d4e6b6f7576fa946e1f8c23fd747989104573eba60661175e791d89f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/25/nicolas-gonzalez-fue-transferido-a-la-juventus-en-una-cifra-millonaria-por-que-la-noticia-puede-generarle-un-problema-a-boca/",
+        "date": "2024-08-25 21:24:05",
+        "sentiment_score": -0.6927375793457031
+    },
+    {
+        "title": "Marina Gold revela si tendría interés en conocer a Christian Cueva: “Dicen que está desempleado, ¿no?”",
+        "image_url": "https://www.infobae.com/resizer/v2/WJ2TXTC4KFBYTK54VXUZNJ24AA.jpeg?auth=733feab5e38d5661c16a5e9783c7e2dd8ef235a6d3d2de717333fabbdb9c35df",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/08/25/marina-gold-revela-si-tendria-interes-en-conocer-a-christian-cueva-dicen-que-esta-desempleado-no/",
+        "date": "2024-08-25 21:18:50",
+        "sentiment_score": -0.60764055326581
+    },
+    {
+        "title": "El Real Madrid cumple ante el Valladolid (3-0) sin gol de Mbappé",
+        "image_url": "./assets/ai_generated/v1_txt2img_db98d917a5394ee193639696d78286a1.png",
+        "tags": [
+            "valladolid",
+            "real madrid",
+            "deportes",
+            "fútbol",
+            "mbappé"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-real-madrid-cumple-ante-el-valladolid-sin-gol-de-mbappe/",
+        "date": "2024-08-25 21:17:35",
+        "sentiment_score": 0.1618560254573822
+    },
+    {
+        "title": "¿Adivinas cuál de estos anónimos canta lírico? Inma lo acierta y se lleva 9.500 euros",
+        "image_url": "https://album.mediaset.es/eimg/2024/08/25/lirico_afec.jpg",
+        "tags": [
+            "adivina qué hago"
+        ],
+        "link": "https://www.telecinco.es/adivina-que-hago/20240825/anonimos-lirico-inma-acierta_18_013297202.html",
+        "date": "2024-08-25 22:05:45",
+        "sentiment_score": -0.46779103577136993
+    },
+    {
+        "title": "Brillante inicio de la Copa del América",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20240826/9890419/brillante-inicio-copa-america.html",
+        "date": "2024-08-25 22:05:00",
+        "sentiment_score": 0.8439830653369427
+    },
+    {
+        "title": "Los semáforos del lunes 26 de agosto: Peter Burling, John Malkovich, Toni Bou y Hasán Nasralah",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20240826/9890418/semaforos-lunes-26-agosto-burling-malkovich-bou-nasralah.html",
+        "date": "2024-08-25 22:05:00",
+        "sentiment_score": 0.10833850502967834
+    },
+    {
+        "title": "Claves para seguir la Copa del América",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/25/66ca5e650ca97.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240826/9890554/claves-seguir-juego.html",
+        "date": "2024-08-25 22:05:00",
+        "sentiment_score": 0.5726282633841038
+    },
+    {
+        "title": "Algo pasa en Cataluña: Madrid tiene tres veces más vehículos propulsados con combustibles alternativos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/20/business/871922854_13253038_1706x960.jpg?contentId=ESPIMA20240720_0055",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240826/algo-cataluna-madrid-vehiculos-propulsados-combustibles-alternativos/880412051_0.html",
+        "date": "2024-08-25 22:00:00",
+        "sentiment_score": -0.3335244357585907
+    },
+    {
+        "title": "Otro examen para los Mossos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/14/pensamiento/847675268_12777166_1706x960.jpg?contentId=ESPIMA20240414_0044",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240826/otro-examen-para-los-mossos/881041890_13.html",
+        "date": "2024-08-25 22:00:00",
+        "sentiment_score": -0.23012685775756836
+    },
+    {
+        "title": "Más ventiladores y menos aires acondicionados: incrementa un 20% la venta",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/08/23/2024082313563832706.jpg",
+        "tags": [
+            "vivir"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/vivir/mas-ventiladores-menos-aires-acondicionados-incrementa-20-venta/20240826000000832041.html",
+        "date": "2024-08-25 22:00:00",
+        "sentiment_score": 0.3231780454516411
+    },
+    {
+        "title": "La andorrana María Reig liquida sus empresas de Barcelona con dos quiebras y unas pérdidas de 300 millones",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/08/business/846175530_12746125_1706x960.jpg?contentId=ESPIMA20240408_0156",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20240826/la-andorrana-maria-reig-empresas-de-barcelona/880911936_0.html",
+        "date": "2024-08-25 22:00:00",
+        "sentiment_score": -0.9189294977113605
+    },
+    {
+        "title": "Libertad y seguridad, principal debate catalán del nuevo curso",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/25/pensamiento/zona-franca/880921944_13378501_1706x960.png?contentId=ESPIMA20240825_0045",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20240826/libertad-seguridad-principal-debate-catalan-nuevo-curso/881041888_13.html",
+        "date": "2024-08-25 22:00:00",
+        "sentiment_score": 0.11636209487915039
+    },
+    {
+        "title": "Las demandas de los sindicatos educativos a la nueva ‘consellera’ para el curso escolar",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/16/politica/870922934_13231621_1706x960.jpg?contentId=ESPIMA20240716_0035",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20240826/las-demandas-sindicatos-educativos-nueva-consellera-escolar/880911938_0.html",
+        "date": "2024-08-25 22:00:00",
+        "sentiment_score": -0.15805843472480774
+    },
+    {
+        "title": "Cursos que ofrece Google sobre IA gratis y con certificación",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/image-372.png",
+        "tags": [
+            "ia",
+            "google",
+            "curiosidades",
+            "inteligencia artificial",
+            "ia de google"
+        ],
+        "link": "https://2001online.com/curiosidades/cursos-que-ofrece-google-sobre-ia-gratis-y-con-certificacion/",
+        "date": "2024-08-25 22:00:00",
+        "sentiment_score": 0.6719931438565254
+    },
+    {
+        "title": "EEUU | Conozca la fecha límite para solicitar el cheque de estímulo por $300 en Colorado",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/cheque-estimulo-colorado.webp",
+        "tags": [
+            "eeuu",
+            "internacionales",
+            "colorado",
+            "cheque de estímulo",
+            "pago de $300 mensual"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-conozca-la-fecha-limite-para-solicitar-el-cheque-de-estimulo-por-300-en-colorado/",
+        "date": "2024-08-25 22:00:00",
+        "sentiment_score": 0.16861186921596527
+    },
+    {
+        "title": "EEUU | Hombre mata a su mujer y luego se quita la vida",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Foto-cortesia-40-1.jpg",
+        "tags": [
+            "dade",
+            "eeuu",
+            "internacionales",
+            "venezuela",
+            "miami",
+            "caracas",
+            "nacionales",
+            "sucesos",
+            "hombre mata a su mujer",
+            "huerfanos en miami",
+            "2001online"
+        ],
+        "link": "https://2001online.com/sucesos/eeuu-hombre-mata-a-su-mujer-y-luego-se-quita-la-vida/",
+        "date": "2024-08-25 21:55:44",
+        "sentiment_score": -0.8825522577390075
+    },
+    {
+        "title": "Texas | Sepa cuáles son los últimos pagos de cupones SNAP en agosto (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/SNAP-aumento-pagos-cola.jpg",
+        "tags": [
+            "cupones snap",
+            "eeuu",
+            "internacionales",
+            "texas",
+            "pagos de agosto"
+        ],
+        "link": "https://2001online.com/internacionales/texas-sepa-cuales-son-los-ultimos-pagos-de-cupones-snap-en-agosto/",
+        "date": "2024-08-25 21:53:36",
+        "sentiment_score": 0.112652488052845
+    },
+    {
+        "title": "Lluvias dejan afectaciones en municipio de Táchira",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/TACHIRA-LLUVIAS.png",
+        "tags": [
+            "lluvias",
+            "táchira",
+            "comunidad"
+        ],
+        "link": "https://2001online.com/comunidad/lluvias-dejan-afectaciones-en-municipio-de-tachira/",
+        "date": "2024-08-25 21:41:05",
+        "sentiment_score": -0.7457208838313818
+    },
+    {
+        "title": "La Vinotinto Futsal Sub 17 aseguró el tercer lugar en el Sudamericano",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/11-1280x720.jpeg",
+        "tags": [
+            "sudamericano",
+            "deportes",
+            "la vinotinto",
+            "futsal sub 17"
+        ],
+        "link": "https://2001online.com/deportes/la-vinotinto-futsal-sub-17-aseguro-el-tercer-lugar-en-el-sudamericano/",
+        "date": "2024-08-25 21:23:51",
+        "sentiment_score": 0.21187858283519745
+    },
+    {
+        "title": "Sepa cuándo podrá adquirir las tarjetas SUVE en las taquillas del sistema metro",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Foto-cortesia-38-1.jpg",
+        "tags": [
+            "nacionales",
+            "servicios",
+            "ministerio de transporte",
+            "ramón celestino velásquez araguayán",
+            "transporte en venezuela",
+            "sistema metrobús",
+            "transporte público",
+            "eeuu",
+            "sistema metro",
+            "2001online",
+            "venezuela",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/servicios/sepa-cuando-podra-adquirir-las-tarjetas-suve-en-las-taquillas-del-sistema-metro/",
+        "date": "2024-08-25 21:00:00",
+        "sentiment_score": 0.1417495757341385
+    },
+    {
+        "title": "Sepa cuál es el único país del mundo que no tiene semáforos en sus calles",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/f.elconfidencial.com_original_484_f75_612_484f75612772ee91b5441cf0dbe1805b.jpg",
+        "tags": [
+            "calles",
+            "curiosidades"
+        ],
+        "link": "https://2001online.com/curiosidades/sepa-cual-es-el-unico-pais-del-mundo-que-no-tiene-semaforos-en-sus-calles/",
+        "date": "2024-08-25 21:00:00",
+        "sentiment_score": -0.11864140629768372
+    },
+    {
+        "title": "EEUU | ¿Quiénes pueden reclamar el cheque de estímulo por $1.600? (+Fecha límite)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/cheque-de-estimulo-2-1280x720.jpg",
+        "tags": [
+            "cheque de estímulo",
+            "eeuu",
+            "pago para adultos mayores",
+            "colorado",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-quienes-pueden-reclamar-el-cheque-de-estimulo-por-1-600-fecha-limite/",
+        "date": "2024-08-25 20:30:00",
+        "sentiment_score": -0.06545723229646683
+    },
+    {
+        "title": "Nueva York: Esta es la fecha y hora del cambio al horario de invierno (+Detalles)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/horario-1280x720.jpg",
+        "tags": [
+            "internacionales",
+            "nueva york",
+            "horario",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/nueva-york-esta-es-la-fecha-y-hora-del-cambio-al-horario-de-invierno-detalles/",
+        "date": "2024-08-25 20:00:00",
+        "sentiment_score": 0.26626282930374146
     }
 ];
