@@ -193,29 +193,6 @@ export default [
         "sentiment_score": -0.19744490087032318
     },
     {
-        "title": "La reacción de Trump al discurso de Kamala Harris",
-        "image_url": "./assets/ai_generated/v1_txt2img_e37e501c85e440acb522b7067dbd03c3.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/reaccion-donald-trump-kamala-harris-discurso-ush-trax/",
-        "date": "2024-08-23 14:08:30",
-        "sentiment_score": -0.16533643007278442
-    },
-    {
-        "title": "Al menos 45 migrantes han muerto este año cruzando por territorio panameño en su ruta a EE.UU. El Gobierno de Panamá recuerda que \"el Darién es mortal\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-2159052717-1-e1724421866807.jpg?quality=100&strip=info",
-        "tags": [
-            "inmigración",
-            "migrantes",
-            "selva del darién",
-            "panamá"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/23/45-migrantes-murieron-cruzar-selva-darien-llegar-ee-uu-seguridad-panama-orix/",
-        "date": "2024-08-23 14:04:37",
-        "sentiment_score": -0.7663119081407785
-    },
-    {
         "title": "Tintos de Andalucía",
         "image_url": "./assets/ai_generated/v1_txt2img_fd579e56e8fc44bbbb3a8f56bd04c93f.png",
         "tags": [
@@ -286,36 +263,6 @@ export default [
         "sentiment_score": 0.009765446186065674
     },
     {
-        "title": "Así afecta el VPH a la calidad del semen",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/08/23/vph-semen-Rq4nShEbmbCuQpR0oyfPF9O-758x531@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/afecta-vph-calidad-semen-20240823145244-nt.html",
-        "date": "2024-08-23 12:53:49",
-        "sentiment_score": -0.2377566397190094
-    },
-    {
-        "title": "UGT exige al Gobierno corregir el error que facilita los despidos estando de permiso o con adaptación de jornada",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/23/EuropaPress_6013906_i_d_candidata_psoe_elecciones_europeas_vicepresidenta_tercera_teresa_ribera-RTOx2hmdRK0RbQTsVVXG7PJ-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ugt-exige-gobierno-corregir-error-ley-paridad-20240823141915-nt.html",
-        "date": "2024-08-23 12:25:14",
-        "sentiment_score": -0.11785802245140076
-    },
-    {
-        "title": "¿Cómo saber tu edad biológica en la sangre o la saliva?",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/08/23/24971116601_379d2c7924_c--758x531.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/saber-edad-biologica-sangre-saliva-20240823135504-nt.html",
-        "date": "2024-08-23 11:55:04",
-        "sentiment_score": -0.11174635589122772
-    },
-    {
         "title": "Muere una joven española a causa de un deslizamiento de tierras en Madeira",
         "image_url": "https://imagenes.elpais.com/resizer/v2/LGLJVW5CGZSKQ5PE6RG23UKLWI.jpg?auth=e51e96d32f76abb8d7cbc3ede783fb944a44273fe7fc691de8eea2b0da881abc",
         "tags": [
@@ -328,117 +275,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-23/muere-una-joven-espanola-a-causa-de-un-deslizamiento-de-tierras-en-madeira.html",
         "date": "2024-08-23 16:59:51",
         "sentiment_score": -0.6432014107704163
-    },
-    {
-        "title": "El Gobierno de Sánchez y Canarias meten presión al PP para que acepte el reparto obligatorio de menores migrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L2QOUGEC7ZD23FLE4LU2JPFR7I.jpg?auth=9380401252bff4e973e8a6aea63eb874fbea4dbda968deddfa3aa3336f572a64",
-        "tags": [
-            "canarias",
-            "menores migrantes",
-            "gobierno",
-            "ángel víctor torres",
-            "españa",
-            "pedro sánchez",
-            "fernando clavijo",
-            "ceuta"
-        ],
-        "link": "https://elpais.com/espana/2024-08-23/el-gobierno-de-sanchez-y-canarias-meten-presion-al-pp-para-que-acepte-el-reparto-obligatorio-de-menores-migrantes.html",
-        "date": "2024-08-23 14:12:54",
-        "sentiment_score": 0.256703644990921
-    },
-    {
-        "title": "Óscar Puente cesa a dos altos cargos de Adif imputados en el ‘caso Koldo’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M4EZZO7IS2ZJW66DCLUL7EFY5I.jpg?auth=2ceadbe151a9d3a16bba36bbd13a708e87c5fef1be58fab3044766c7cda9b02d",
-        "tags": [
-            "koldo izagirre",
-            "ministerio de transportes",
-            "caso koldo",
-            "audiencia nacional",
-            "óscar puente santiago",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-23/oscar-puente-cesa-a-dos-altos-cargos-de-adif-imputados-en-el-caso-koldo.html",
-        "date": "2024-08-23 13:03:32",
-        "sentiment_score": -0.6393197104334831
-    },
-    {
-        "title": "Sin casa durante cuatro meses: los otros afectados de la explosión de gas en un piso de Fuencarral-El Pardo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HAGNPYHFWQYOIRGN4O4HNXY55U.jpg?auth=b105aef3ecd0e8c334e121daa2925bc85c27518d212e78873bdb4bc3b19e1a21",
-        "tags": [
-            "comunidad de madrid",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-08-23/sin-casa-por-cuatro-meses-los-otros-afectados-de-la-explosion-de-gas-en-un-piso-de-fuencarral-el-pardo.html",
-        "date": "2024-08-23 12:35:19",
-        "sentiment_score": -0.7054931689053774
-    },
-    {
-        "title": "El presidente del Parlament ataca a los Mossos por el informe sobre la detención fallida de Puigdemont",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/G22UPUQ3WZC3FJHKOTQMGJHT4A.jpg?auth=dcec3ca21e7986e40f3f02a12def86eda67ef818ef94b08124b4a83abc1bb357",
-        "tags": [
-            "mossos d'esquadra",
-            "independencia",
-            "juntsxcat",
-            "carles puigdemont",
-            "josep rull andreu",
-            "cataluña",
-            "psc"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-23/el-presidente-del-parlament-ataca-a-los-mossos-por-el-informe-sobre-la-detencion-fallida-de-puigdemont.html",
-        "date": "2024-08-23 12:29:57",
-        "sentiment_score": -0.9103006161749363
-    },
-    {
-        "title": "Borrell replica a Montero sobre la financiación singular para Cataluña: “Es un concierto”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ODMBFXZYYBOCV4UDSMEIDVSFXM.jpg?auth=d0e64087b1ed48ce1dca5f452542abb83e1a76f067f7ff553566fe7b06df0730",
-        "tags": [
-            "alto representante",
-            "josep borrell",
-            "concierto económico",
-            "financiación autonómica",
-            "españa",
-            "psc"
-        ],
-        "link": "https://elpais.com/espana/2024-08-23/borrell-replica-a-montero-sobre-la-financiacion-singular-para-cataluna-es-un-concierto.html",
-        "date": "2024-08-23 12:01:56",
-        "sentiment_score": -0.860170753672719
-    },
-    {
-        "title": "Los socialistas denuncian que el Consell de Mazón deja a más de la mitad de los solicitantes sin ayudas al alquiler de vivienda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M4PVWVBQXFGEVLBTUYKK7ZPKZ4.JPG?auth=0e3ddb0f79931f31dc7950f2d4fc5d30a385509b58a07f453bfd44189e1a6bc5",
-        "tags": [
-            "generalitat valenciana",
-            "carlos mazón",
-            "vivienda",
-            "políticos",
-            "pspv-psoe",
-            "partidos políticos",
-            "gobierno de españa",
-            "política",
-            "viviendas alquiler",
-            "ayudas públicas",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-23/los-socialistas-denuncian-que-el-consell-de-mazon-deja-a-mas-de-la-mitad-de-los-solicitantes-sin-ayudas-al-alquiler-de-vivienda.html",
-        "date": "2024-08-23 11:44:16",
-        "sentiment_score": -0.9109167922288179
-    },
-    {
-        "title": "La Guardia Civil registra la casa del empresario investigado por el caso de Begoña Gómez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BT47FG2WHJH4JEPNZUMRD44ZRI.jpg?auth=363ecb43c43608863c33441e2b113782286508101be3b3b0533dfbad87bb70ee",
-        "tags": [
-            "guardia civil",
-            "juan carlos peinado",
-            "investigación judicial",
-            "tribunales",
-            "begoña gómez fernández",
-            "españa",
-            "justicia",
-            "carlos barrabés"
-        ],
-        "link": "https://elpais.com/espana/2024-08-23/la-guardia-civil-registra-la-casa-del-empresario-investigado-por-el-caso-de-begona-gomez.html",
-        "date": "2024-08-23 10:43:08",
-        "sentiment_score": -0.3586634621024132
     },
     {
         "title": "Villanovense y Coria miden sus fuerzas en su último ensayo general",
@@ -9251,5 +9087,514 @@ export default [
         "link": "https://2001online.com/nacionales/pagina-web-del-cne-ya-se-encuentra-operativa-detalles/",
         "date": "2024-08-26 21:00:00",
         "sentiment_score": 0.13437673449516296
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Madrid este martes 27 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/57PWP433UFHF3BLWIRQT7R5HVI.jpg?auth=23880b28f326edd2f8043689e7e228376a4f65f525515980aba087e302a8ad80",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/27/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-madrid-este-martes-27-de-agosto/",
+        "date": "2024-08-27 01:31:21",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Pronóstico del estado del tiempo: las temperaturas que se esperan en Barcelona este 27 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/FCZHSMAWFRDUPHJ5RXG3QW3XR4.jpg?auth=343549f2a8c6ce61567942d4795f78af9805a5307859e5c72f5471d3f71b725b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/27/pronostico-del-estado-del-tiempo-las-temperaturas-que-se-esperan-en-barcelona-este-27-de-agosto/",
+        "date": "2024-08-27 01:01:02",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Estos son los resultados ganadores de la Quiniela de la jornada 2",
+        "image_url": "https://www.infobae.com/resizer/v2/I32JS2MOXZEVZAMHK2EZ2APLE4.jpg?auth=1d510da756476333dc9bfacf5b6a9a7fe41acb89d19e286084e780a08ed68645",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/26/estos-son-los-resultados-ganadores-de-la-quiniela-de-la-jornada-2/",
+        "date": "2024-08-26 23:15:24",
+        "sentiment_score": 0.02552057057619095
+    },
+    {
+        "title": "Badosa funde a Golubic (6-0 y 6-3) y arranca el Abierto de EE.UU. con paso firme",
+        "image_url": "./assets/ai_generated/v1_txt2img_d7b913ad64a849288a73fc2dbb39c549.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/26/badosa-funde-a-golubic-6-0-y-6-3-y-arranca-el-abierto-de-eeuu-con-paso-firme/",
+        "date": "2024-08-26 22:23:09",
+        "sentiment_score": 0.3223966285586357
+    },
+    {
+        "title": "2-2. Un Córdoba en inferioridad logra salvar un punto ante el Burgos",
+        "image_url": "./assets/ai_generated/v1_txt2img_0153aadb7d4e47e4b079b0cad8ff6baa.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/26/2-2-un-cordoba-en-inferioridad-logra-salvar-un-punto-ante-el-burgos/",
+        "date": "2024-08-26 22:22:41",
+        "sentiment_score": 0.5097370445728302
+    },
+    {
+        "title": "Ábalos califica de \"tribunal de excepción\" la auditoria de Transportes contra él",
+        "image_url": "./assets/ai_generated/v1_txt2img_63a9a31f1f9b48d897e63cb7b165e277.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/26/abalos-califica-de-tribunal-de-excepcion-la-auditoria-de-transportes-contra-el/",
+        "date": "2024-08-26 22:21:37",
+        "sentiment_score": -0.8259609416127205
+    },
+    {
+        "title": "Hoy será noticia. Martes, 27 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_e19ec29783d64ec3b630482334cae68f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/26/hoy-sera-noticia-martes-27-de-agosto-de-2024/",
+        "date": "2024-08-26 22:21:21",
+        "sentiment_score": 0.031727805733680725
+    },
+    {
+        "title": "Experto explica qué podría pasar con el rector del CNE, Juan Carlos Delpino, tras sus declaraciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1624029805.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "cne",
+            "elecciones en venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-cne-delpino-acusaciones-resultados-actas-conclusiones-tv/",
+        "date": "2024-08-27 02:08:40",
+        "sentiment_score": -0.2133304737508297
+    },
+    {
+        "title": "El hombre más longevo del mundo, nacido el mismo año del hundimiento del Titanic, cumple 112 años",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/hombre-mas-longevo-Tinniswood.jpg?quality=100&strip=info",
+        "tags": [
+            "ancianos",
+            "longevidad",
+            "reino unido"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/26/hombre-mas-longevo-mundo-titanic-cumple-112-anos-trax/",
+        "date": "2024-08-27 02:04:03",
+        "sentiment_score": 0.4762765169143677
+    },
+    {
+        "title": "¿Es el régimen de Daniel Ortega en Nicaragua un modelo para Nicolás Maduro?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-414214d8-150314174343-maduro-ortega-nicaragua-horizontal-gallery.jpg?quality=100&strip=info",
+        "tags": [
+            "nicaragua",
+            "maduro",
+            "venezuela",
+            "daniel ortega",
+            "crisis venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-ortega-venezuela-nicaragua-modelos-gobierno-aristegui-tv/",
+        "date": "2024-08-27 01:53:01",
+        "sentiment_score": -0.15762776881456375
+    },
+    {
+        "title": "Escenarios que enfrentaría González si no acude a tercer llamado del MP",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2162789007.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "xpress",
+            "edmundo gonzález urrutia",
+            "venezuela",
+            "fast – news variety",
+            "crisis en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-tsj-mp-orden-aprehension-desacato-actas-conclusiones-tv/",
+        "date": "2024-08-27 01:51:30",
+        "sentiment_score": -0.4536193087697029
+    },
+    {
+        "title": "Imágenes aéreas del rescate de turistas atrapados por colapso de cueva de hielo en Islandia",
+        "image_url": "https://vod-media-aka.warnermediacdn.com/cnn/v2/clips/2024-08/1628659-6b80365531dc4084bced3610f352d67c/mp4/imagenes-aereas-colapso-cueva-hielo-islandia-panorama-mundial-tv-1628659-1920x1080_8000k.mp4",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/imagenes-aereas-colapso-cueva-hielo-islandia-panorama-mundial-tv/",
+        "date": "2024-08-27 01:39:33",
+        "sentiment_score": -0.8128700321540236
+    },
+    {
+        "title": "La policía keniana desplegada en Haití no recibe el salario completo hace dos meses",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/ap24185704168716.webp",
+        "tags": [
+            "haití",
+            "kenya"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/26/policia-kenya-haiti-salario-meses-trax/",
+        "date": "2024-08-27 01:38:56",
+        "sentiment_score": -0.8200331730768085
+    },
+    {
+        "title": "Francia niega que la detención del fundador de Telegram sea \"política\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20900842-1020-0469999999999-still.jpg?quality=100&strip=info",
+        "tags": [
+            "emmanuel macron",
+            "telegram",
+            "francia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/francia-macron-detencion-fundador-telegram-panorama-mundial-tv/",
+        "date": "2024-08-27 01:36:15",
+        "sentiment_score": -0.6173654962331057
+    },
+    {
+        "title": "Lula da Silva señala que algunas personas han provocado incendios ilegalmente en Brasil",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20904154-21043-still.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "brasil"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/brasil-incendios-sao-paulo-lula-panorama-mundial-tv/",
+        "date": "2024-08-27 01:31:25",
+        "sentiment_score": -0.669664004817605
+    },
+    {
+        "title": "Red Lobster cerrará otros 23 restaurantes; estas son las ubicaciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2153889266.jpg?quality=100&strip=info",
+        "tags": [
+            "empresas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/26/red-lobster-cierra-23-restaurantes-ubicaciones-trax/",
+        "date": "2024-08-27 00:51:38",
+        "sentiment_score": 0.014101743698120117
+    },
+    {
+        "title": "Otorgan arresto domiciliario al periodista José Rubén Zamora en Guatemala",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/gettyimages-2020988300.jpg?quality=100&strip=info",
+        "tags": [
+            "josé rubén zamora",
+            "guatemala"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/26/arresto-domiciliario-periodista-jose-ruben-zamora-guatemala-orix/",
+        "date": "2024-08-27 00:20:19",
+        "sentiment_score": -0.5943861566483974
+    },
+    {
+        "title": "Busco una casa para Willy, ¿me ayudas?",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1090705",
+        "date": "2024-08-27 02:10:17",
+        "sentiment_score": -0.005112141370773315
+    },
+    {
+        "title": "Irán, donde el juego por desplazar torres y alfiles son incuestionables",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1090701",
+        "date": "2024-08-27 02:06:19",
+        "sentiment_score": -0.005112141370773315
+    },
+    {
+        "title": "El carisma de Beth Ditto, la \"lesbiana feminista gorda de Arkansas\" e icono de la moda, vuelve a un escenario de Madrid",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/23/17244032898973.jpg",
+        "tags": [
+            "actualidad",
+            "festival",
+            "yodona",
+            "artículos silvia nieto"
+        ],
+        "link": "https://www.elmundo.es/yodona/actualidad/2024/08/27/66c74524e4d4d850148b45bb.html",
+        "date": "2024-08-27 02:04:12",
+        "sentiment_score": 0.11740483343601227
+    },
+    {
+        "title": "El precio medio del alquiler en España supera los mil euros",
+        "image_url": "https://www.laregion.es/media/laregion/images/2024/08/26/2024082623383038778.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.laregion.es/articulo/economia/precio-medio-alquiler-espana-supera-mil-euros/202408270400191321944.html",
+        "date": "2024-08-27 02:00:19",
+        "sentiment_score": 0.5030799582600594
+    },
+    {
+        "title": "Si el calor reduce el apetito, ¿por qué en verano ganamos algunos kilos de más?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bb33c700-4043-4609-bd87-f5cf60f8bd21_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/salud/guia/2024/08/27/calor-apetito-verano-peso-73385069.html",
+        "date": "2024-08-27 01:59:00",
+        "sentiment_score": 0.17780384421348572
+    },
+    {
+        "title": "James Rodríguez estaría a la altura de Diego Armando Maradona tras su llegada a Rayo Vallecano: esta es la razón",
+        "image_url": "https://www.infobae.com/resizer/v2/HA2E4UXR6FFHTEHUN6GC3HZNHI.jpeg?auth=489b09181f450821d3c2c491c8dfecb06f5c1573ea0622f3d0afc423608bee60",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/27/james-rodriguez-estaria-a-la-altura-de-diego-armando-maradona-tras-su-llegada-a-rayo-vallecano-esta-es-la-razon/",
+        "date": "2024-08-27 01:30:54",
+        "sentiment_score": 0.22211957164108753
+    },
+    {
+        "title": "Kim Kardashian conoce a Florentino",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/26/66ccc758cd340.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/240827/1603557/kim-kardashian-conoce-florentino.html",
+        "date": "2024-08-27 01:30:00",
+        "sentiment_score": -0.12059518694877625
+    },
+    {
+        "title": "Linda Caicedo y su Mundial Sub-20 con Colombia: “Me siento al 100 %”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/Linda-Caicedo-Rueda-de-Prensa.jpg",
+        "tags": [
+            "mundial femenil",
+            "selección de colombia",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/08/26/linda-caicedo-y-su-mundial-sub-20-con-colombia-me-siento-al-100/",
+        "date": "2024-08-27 01:24:00",
+        "sentiment_score": 0.6923572681844234
+    },
+    {
+        "title": "Begoña Gómez citó en 2020 al CEO de Reale para garantizarse su patrocinio: \"La cátedra se va a hacer\"",
+        "image_url": "https://s1.elespanol.com/2024/08/26/actualidad/881172480_248718325_1706x960.jpg?contentId=ESPIMA20240826_0606",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20240827/begona-gomez-cito-ceo-reale-garantizarse-patrocinio-catedra-va-hacer/881162318_0.html",
+        "date": "2024-08-27 00:37:57",
+        "sentiment_score": -0.7408119551837444
+    },
+    {
+        "title": "Begoña Gómez plasmó en una memoria que tenía 248 alumnos pero a uno de sus profesores le constaban 15",
+        "image_url": "https://s1.elespanol.com/2024/07/09/espana/869173948_248719174_1706x960.png?contentId=ESPIMA20240709_0874",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20240827/begona-gomez-plasmo-memoria-alumnos-profesores-constaban/881162326_0.html",
+        "date": "2024-08-27 00:37:54",
+        "sentiment_score": -0.24760039895772934
+    },
+    {
+        "title": "Martes 27 de agosto de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1090722",
+        "date": "2024-08-27 02:05:01",
+        "sentiment_score": 0.004862062633037567
+    },
+    {
+        "title": "Corona se escuda en el \"bloque\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8f107a9a-73a0-49ac-a446-99b931630716_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/08/27/corona-escuda-bloque-107393783.html",
+        "date": "2024-08-27 02:00:53",
+        "sentiment_score": 0.03665074706077576
+    },
+    {
+        "title": "El corte del servicio afectó a 1.600 pasajeros de trenes de Larga Distancia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/20b615b1-bceb-486d-906b-d371fc4dc0e2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2024/08/27/corte-servicio-afecto-1-600-107392922.html",
+        "date": "2024-08-27 02:00:50",
+        "sentiment_score": -0.8673663586378098
+    },
+    {
+        "title": "La lealtad institucional como clave",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1090726",
+        "date": "2024-08-27 02:00:04",
+        "sentiment_score": -0.005112141370773315
+    },
+    {
+        "title": "Venezuela anunció su convocatoria oficial para los partidos de eliminatorias",
+        "image_url": "./assets/ai_generated/v1_txt2img_a3ff501dcf754cac8b347df47e31c1c3.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/181649/venezuela-anuncio-su-convocatoria-oficial-para-los-partidos-de-eliminatorias/",
+        "date": "2024-08-27 01:57:38",
+        "sentiment_score": 0.5266596227884293
+    },
+    {
+        "title": "El fútbol italiano se despide de Sven-Goran Eriksson, el arquitecto de la Lazio histórica",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/27/2024082703545136634.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/futbol-italiano-despide-sven-goran-eriksson-arquitecto-lazio-historica/20240827035630316407.html",
+        "date": "2024-08-27 01:56:30",
+        "sentiment_score": 0.4308392107486725
+    },
+    {
+        "title": "Vetusta Morla se toma un año sabático",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/26/66ccc8cc6a339.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240827/1603574/vetusta-morla-toma-ano-sabatico.html",
+        "date": "2024-08-27 01:30:00",
+        "sentiment_score": -0.9065334815531969
+    },
+    {
+        "title": "Los cambios en la menstruación no se debían a la covid sino al estrés",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/26/66cc9f34eb23b.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/240827/1603451/cambios-menstruacion-pandemia-deben-covid-19-estres-confinamiento-estudio.html",
+        "date": "2024-08-27 01:30:00",
+        "sentiment_score": -0.4881523996591568
+    },
+    {
+        "title": "Camila Cabello le rinde homenaje a Luis Miguel durante su presentación en México (+Video)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/descarga-2024-08-26T214544.967.jpeg",
+        "tags": [
+            "mexico",
+            "farándula",
+            "luis miguel",
+            "camila cabello",
+            "festival hera"
+        ],
+        "link": "https://2001online.com/farandula/camila-cabello-le-rinde-homenaje-a-luis-miguel-durante-su-presentacion-en-mexico-video/",
+        "date": "2024-08-27 01:50:08",
+        "sentiment_score": -0.09396345913410187
+    },
+    {
+        "title": "Mark Zuckerberg admitió que coordinó censura a favor de la Casa Blanca",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/meta-israel.png",
+        "tags": [
+            "joe biden",
+            "internacionales",
+            "mark zuckerberg",
+            "covid 19"
+        ],
+        "link": "https://2001online.com/internacionales/mark-zuckerberg-admitio-que-coordino-censura-a-favor-de-la-casa-blanca/",
+        "date": "2024-08-27 01:33:36",
+        "sentiment_score": -0.21958369761705399
+    },
+    {
+        "title": "Nueva York: Verizon ofrece empleo a más de mil personas (+Requisitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/Verizon.jpg",
+        "tags": [
+            "empleo",
+            "internacionales",
+            "verizon",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/nueva-york-verizon-ofrece-empleo-a-mas-de-mil-personas-requisitos/",
+        "date": "2024-08-27 01:26:49",
+        "sentiment_score": 0.6213818807154894
+    },
+    {
+        "title": "EEUU| Juez federal ordena pausar el programa “Parole in Place”",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/07/juez-primer-plano-bandera-golpeando-martillo_23-2148230820-1280x720.jpg",
+        "tags": [
+            "parole in place",
+            "suspención",
+            "internacionales",
+            "juez texas",
+            "conyugues migrantes"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-juez-federal-ordena-pausar-el-programa-parole-in-place/",
+        "date": "2024-08-27 01:24:12",
+        "sentiment_score": -0.4649432376027107
+    },
+    {
+        "title": "Colorado: ¿Cómo recibir los cheques de $300 mensuales? (+Requisitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/06/cheques-1200x720.jpg",
+        "tags": [
+            "cheques",
+            "internacionales",
+            "estímulo",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/colorado-como-recibir-los-cheques-de-300-mensuales-requisitos/",
+        "date": "2024-08-27 01:22:07",
+        "sentiment_score": 0.34845679998397827
+    },
+    {
+        "title": "Mariah Carey confirma que su madre y su hermana murieron el mismo día",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/Mariah-Carey.jpeg",
+        "tags": [
+            "farándula",
+            "mariah carey"
+        ],
+        "link": "https://2001online.com/farandula/mariah-carey-confirma-que-su-madre-y-su-hermana-murieron-el-mismo-dia/",
+        "date": "2024-08-27 01:17:59",
+        "sentiment_score": -0.9100374793633819
+    },
+    {
+        "title": "LO ÚLTIMO | CNE sufre nuevo ataque contra su página web",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/449510029_984365283693204_2497152070980726963_n.jpg",
+        "tags": [
+            "cne",
+            "consejos nacional electoral",
+            "sin categoría",
+            "ataque al cne"
+        ],
+        "link": "https://2001online.com/sin-categoria/lo-ultimo-cne-sufre-nuevo-ataque-contra-su-pagina-web/",
+        "date": "2024-08-27 01:13:16",
+        "sentiment_score": -0.8705259365960956
+    },
+    {
+        "title": "EEUU | Lanzan cheque de estímulo por $675 para dueños de inmuebles (+Requisitos)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/04/cheque-1-1093x720.jpg",
+        "tags": [
+            "eeuu",
+            "cheque",
+            "inmuebles",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-lanzan-cheque-de-estimulo-por-675-para-duenos-de-inmuebles-requisitos/",
+        "date": "2024-08-27 00:37:22",
+        "sentiment_score": 0.3287089616060257
+    },
+    {
+        "title": "EEUU | ¿Cuándo harán el pago del SSI del mes de septiembre? (+Monto)",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/08/dinero-1.jpg",
+        "tags": [
+            "eeuu",
+            "septiembre",
+            "2001online",
+            "ssi",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-cuando-haran-el-pago-del-ssi-del-mes-de-septiembre-monto/",
+        "date": "2024-08-27 00:30:00",
+        "sentiment_score": 0.10444794967770576
+    },
+    {
+        "title": "Esta corporación lanza servicio especial para clientes con tarjeta EBT",
+        "image_url": "https://2001online.com/wp-content/uploads/2024/05/6633dc3e35d9c-1280x720.jpg",
+        "tags": [
+            "suscripcion",
+            "ebt",
+            "2001online",
+            "snap",
+            "cupones",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/esta-corporacion-lanza-servicio-especial-para-clientes-con-tarjeta-ebt/",
+        "date": "2024-08-27 00:27:18",
+        "sentiment_score": 0.37757433578372
     }
 ];
