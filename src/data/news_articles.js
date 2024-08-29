@@ -137,30 +137,6 @@ export default [
         "sentiment_score": -0.27061493694782257
     },
     {
-        "title": "Lo que debes saber de Hezbollah, el poderoso grupo apoyado por Irán en la frontera con Israel",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/10/231019163426-01-hezbollah-explainer-1.webp",
-        "tags": [
-            "medio oriente",
-            "hezbollah"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/25/hezbollah-poderoso-grupo-iran-israel-trax/",
-        "date": "2024-08-25 14:00:36",
-        "sentiment_score": -0.07159370183944702
-    },
-    {
-        "title": "Se intensifica la evacuación de civiles de las ciudades de Donetsk amenazadas por el avance de Rusia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/donetsk-ucrania-evacuacion-rusia-e1724592967836.jpg?quality=100&strip=info",
-        "tags": [
-            "donetsk",
-            "guerra de rusia en ucrania",
-            "ucrania",
-            "belgorod"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/25/evacuacion-civiles-donetsk-amenazadas-avance-ruso-trax/",
-        "date": "2024-08-25 13:37:05",
-        "sentiment_score": -0.7927540857344866
-    },
-    {
         "title": "La censura a Soto",
         "image_url": "./assets/ai_generated/v1_txt2img_f3f218ae3b7c48e49e8469a71e7d6f73.png",
         "tags": [
@@ -181,36 +157,6 @@ export default [
         "sentiment_score": -0.16823019087314606
     },
     {
-        "title": "Un ataque de Al Qaeda deja al menos 100 muertos y 140 heridos en Burkina Faso",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/25/burkina-RYccsz25JWLBOr37xKWPYtK-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ataque-qaeda-deja-100-muertos-140-heridos-20240825150838-nt.html",
-        "date": "2024-08-25 13:09:30",
-        "sentiment_score": -0.18524453043937683
-    },
-    {
-        "title": "El jefe de Telegram Pavel Durov comparecerá ante un tribunal francés por no impedir que su plataforma se use con fines criminales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/08/25/1485376183-RxUsjn57jfQfEzwGWGfQlaI-758x531@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/redes/jefe-telegram-pavel-durov-comparecera-ante-tribunal-20240825142350-nt.html",
-        "date": "2024-08-25 12:26:46",
-        "sentiment_score": -0.32123079895973206
-    },
-    {
-        "title": "Israel ataca con «más de 100 aviones» sobre 40 bases de lanzamiento de proyectiles de Hizbolá",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/25/rocket-RfVvhb9V2PyeKS6mapROBcO-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-responde-fuego-ataque-hizbola-norte-pais-20240825130511-nt.html",
-        "date": "2024-08-25 11:40:02",
-        "sentiment_score": -0.16782566905021667
-    },
-    {
         "title": "Un hombre de 70 años, grave tras sufrir un golpe de calor en Madrid",
         "image_url": "https://imagenes.elpais.com/resizer/v2/NJEAD4X7BFGQPCRSALRPCOHXYU.jpg?auth=ba8ff4c05aa37144abcc158ca81523033125607d72671f40fe3c1f4e4dec88e5",
         "tags": [
@@ -222,23 +168,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-08-25/un-hombre-de-70-anos-grave-tras-sufrir-un-golpe-de-calor-en-madrid.html",
         "date": "2024-08-25 16:11:00",
         "sentiment_score": -0.7260746844112873
-    },
-    {
-        "title": "Las multas a conductores por avanzar por la derecha multiplican por 12 a las de circular por el carril del medio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LUGAOAHLGFEAHAFOV4TESVWNOM.jpg?auth=638d1a4cd9f031554954569f925e729a26bf020c0427deaa42a65cc90561b60c",
-        "tags": [
-            "autopistas",
-            "tráfico",
-            "conducción temeraria",
-            "cataluña",
-            "multas",
-            "sanciones",
-            "mossos d'esquadra",
-            "seguridad vial"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-25/las-multas-a-conductores-por-avanzar-por-la-derecha-multiplican-por-12-a-las-de-circular-por-el-carril-del-medio.html",
-        "date": "2024-08-25 10:50:43",
-        "sentiment_score": -0.7211044877767563
     },
     {
         "title": "Endrick se estrena con gol y deja en evidencia a Mbappé y Vinicius: otra tarde negra",
@@ -9016,5 +8945,397 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/business/20240829/el-exalcalde-martorelles-intenta-abrirse-sector-inmobiliario/881661849_0.html",
         "date": "2024-08-28 22:00:00",
         "sentiment_score": 0.11800448596477509
+    },
+    {
+        "title": "Predicción del tiempo en Madrid para este 29 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/MUAGLLRQ4VFKVBIMPNYC7WELXU.jpg?auth=a7eef564357b1426b9ac87170aa82c71993ca23ce6069c8e9b1102e0ba8d01e5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/29/prediccion-del-tiempo-en-madrid-para-este-29-de-agosto/",
+        "date": "2024-08-29 01:32:23",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en Barcelona: el estado del tiempo para este 29 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/UKG7UOMVPVDKJPQBD2KED7KRAU.jpg?auth=302ff94ad3f55518dcba659e86e2b86b228c1eb6b27ab8cacb8bf8166461a4e0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/29/clima-en-barcelona-el-estado-del-tiempo-para-este-29-de-agosto/",
+        "date": "2024-08-29 01:01:12",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Argentina coloca deuda en el mercado doméstico por valor de 4.420 millones de euros",
+        "image_url": "./assets/ai_generated/v1_txt2img_ff2e6968c37a4dada97a988038a84a20.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/29/argentina-coloca-deuda-en-el-mercado-domestico-por-valor-de-4420-millones-de-euros/",
+        "date": "2024-08-29 00:32:21",
+        "sentiment_score": -0.7298143114894629
+    },
+    {
+        "title": "El BNG de Cangas (Pontevedra) expulsará del gobierno a la teniente de alcaldesa, pero antes se reunirá con el PSOE",
+        "image_url": "./assets/ai_generated/v1_txt2img_6047843dcba5460d8d60479af7648e3a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/29/el-bng-de-cangas-pontevedra-expulsara-del-gobierno-a-la-teniente-de-alcaldesa-pero-antes-se-reunira-con-el-psoe/",
+        "date": "2024-08-29 00:07:52",
+        "sentiment_score": -0.6008149683475494
+    },
+    {
+        "title": "AUGC respalda a una brigada de la Guardia Civil en su denuncia por supuestas irregularidades en el Seprona",
+        "image_url": "https://www.infobae.com/resizer/v2/R72EOSPNDNCKZAVXNEKC2JLTPQ.jpg?auth=868ea2b92fb83791ea77367ad2d1ce6059dcbf5f3650cc3e690574c8d73cc6fe",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/28/augc-respalda-a-una-brigada-de-la-guardia-civil-en-su-denuncia-por-supuestas-irregularidades-en-el-seprona/",
+        "date": "2024-08-28 22:34:06",
+        "sentiment_score": -0.43006428331136703
+    },
+    {
+        "title": "Puado: \"Un punto importantísimo\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_d1901fbf7bd2428d9183bb1961cdc5ee.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/28/puado-un-punto-importantisimo/",
+        "date": "2024-08-28 22:33:25",
+        "sentiment_score": 0.15319037437438965
+    },
+    {
+        "title": "La Selección AFE FutFem golea 5-0 al Galapagar en su segundo partido",
+        "image_url": "./assets/ai_generated/v1_txt2img_b953febaa2c64d07b8daebc34aaf8c13.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/28/la-seleccion-afe-futfem-golea-5-0-al-galapagar-en-su-segundo-partido/",
+        "date": "2024-08-28 22:21:06",
+        "sentiment_score": 0.4903133660554886
+    },
+    {
+        "title": "Unos 60 efectivos trabajarán toda la noche en el incendio en Calañas (Huelva)",
+        "image_url": "./assets/ai_generated/v1_txt2img_d88cc6c447b149be8fcf5388dac83789.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/28/unos-60-efectivos-trabajaran-toda-la-noche-en-el-incendio-en-calanas-huelva/",
+        "date": "2024-08-28 22:20:47",
+        "sentiment_score": -0.48135561496019363
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 29 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_b325b012c3d644158ff2d303f6c06f4c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/28/hoy-sera-noticia-jueves-29-de-agosto-de-2024/",
+        "date": "2024-08-28 22:20:29",
+        "sentiment_score": 0.03671743720769882
+    },
+    {
+        "title": "¿Podrán Beyoncé, Céline Dion y Foo Fighters impedir que Trump utilice su música? Es complicado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/trump-musica.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones estados unidos",
+            "música",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/28/beyonce-celine-dion-foo-fighters-impedir-trump-utilice-musica-trax/",
+        "date": "2024-08-29 02:09:08",
+        "sentiment_score": -0.32838432490825653
+    },
+    {
+        "title": "La brutal masacre contra el pueblo rohinyá",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2154570502.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/masacre-rohinya-guerra-civil-myanmar-panorama-mundial-tv/",
+        "date": "2024-08-29 02:03:19",
+        "sentiment_score": -0.8909668009728193
+    },
+    {
+        "title": "Abdala: Comunidad internacional no está frenando crisis en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2168109075.jpg?quality=100&strip=info",
+        "tags": [
+            "crisis venezuela",
+            "nicolás maduro",
+            "venezuela",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/oea-reunion-emergencia-venezuela-fraude-resultados-votos-actas-conclusiones-tv/",
+        "date": "2024-08-29 01:55:19",
+        "sentiment_score": -0.8106251303106546
+    },
+    {
+        "title": "El fundador de Telegram, Pavel Durov, está bajo investigación formal y se le fijó una fianza de US$ 5,56 millones, dice el fiscal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-489467998.webp",
+        "tags": [
+            "judicial",
+            "pavel durov",
+            "telegram",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/28/fundador-telegram-investigacion-fianza-durov-trax/",
+        "date": "2024-08-29 01:53:06",
+        "sentiment_score": -0.5925491638481617
+    },
+    {
+        "title": "Niño rompe accidentalmente jarrón de 3.500 años de antigüedad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20910253-2810-5769999999998-still.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jarron-edad-bronce-museo-israel-panorama-mundial-tv/",
+        "date": "2024-08-29 01:52:44",
+        "sentiment_score": -0.8599409041926265
+    },
+    {
+        "title": "En medio de incertidumbre y represión, se cumple un mes de las elecciones presidenciales en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2168109975.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones venezuela",
+            "nicolás maduro",
+            "venezuela",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mes-elecciones-venezuela-actas-maduro-edmundo-cne-conclusiones-tv/",
+        "date": "2024-08-29 01:42:55",
+        "sentiment_score": -0.6339285112917423
+    },
+    {
+        "title": "Estados Unidos sanciona a un grupo y a un individuo israelíes por presuntos actos violentos contra palestinos en la Ribera Occidental",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/estados-unidos-colonos-israelies-ribera-occidental.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/28/estados-unidos-sanciona-grupo-individuo-israelies-actos-violentos-palestinos-ribera-occidental-trax/",
+        "date": "2024-08-29 00:56:09",
+        "sentiment_score": -0.8068797085434198
+    },
+    {
+        "title": "Video muestra cómo toneladas de peces muertos obstruyen un puerto turístico griego",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/trax-00-00-09-09-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress",
+            "grecia",
+            "peces muertos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-muestra-toneladas-de-peces-muertos-en-grecia-trax/",
+        "date": "2024-08-29 00:43:15",
+        "sentiment_score": -0.8648660387843847
+    },
+    {
+        "title": "ANÁLISIS | La oposición en Venezuela está atrapada entre escasas opciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/oposicion-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "edmundo gonzález",
+            "venezuela",
+            "elecciones en venezuela",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/28/analisis-oposicion-venezuela-atrapada-orix/",
+        "date": "2024-08-29 00:02:42",
+        "sentiment_score": 0.28330691158771515
+    },
+    {
+        "title": "El número de \"millonarios\" en planes de retiro 401k alcanzó un nuevo máximo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2166284308.jpg?quality=100&strip=info",
+        "tags": [
+            "401k",
+            "economía"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/28/millonarios-planes-401k-nuevo-maximo-trax/",
+        "date": "2024-08-28 23:59:58",
+        "sentiment_score": 0.2571666091680527
+    },
+    {
+        "title": "El campo de fútbol Matalablima acoge la escuela de la Fundación Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ae7b09e-937d-424b-859f-e10350efe056_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oviedo/2024/08/29/campo-futbol-matalablima-acoge-escuela-107477759.html",
+        "date": "2024-08-29 02:10:00",
+        "sentiment_score": 0.581261545419693
+    },
+    {
+        "title": "El Supremo de Brasil da 24 horas a Musk para nombrar un representante legal en el país bajo pena de suspensión",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240829040556_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-supremo-brasil-da-24-horas-musk-nombrar-representante-legal-pais-pena-suspension-20240829040556.html",
+        "date": "2024-08-29 02:05:56",
+        "sentiment_score": -0.628398148342967
+    },
+    {
+        "title": "Vacaciones de cine al calor del asfalto",
+        "image_url": "http://www.publico.es//uploads/2024/08/27/66cdd685a5f7f.jpeg",
+        "tags": [
+            "culturas"
+        ],
+        "link": "http://www.publico.es/culturas/vacaciones-cine-calor-asfalto.html",
+        "date": "2024-08-29 02:05:00",
+        "sentiment_score": 0.5351306200027466
+    },
+    {
+        "title": "Hipotiroidismo: así es y así se cura una de las enfermedades que más nos hace engordar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/baaeb762-2aa2-4a51-ac27-38f07ba1d32e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/salud/guia/2024/08/29/hipotiroidismo-enfermedad-trastorno-tiroides-engordar-87859483.html",
+        "date": "2024-08-29 01:59:00",
+        "sentiment_score": -0.6033877916634083
+    },
+    {
+        "title": "La Fiscalía de Venezuela citará por tercera vez a Edmundo González y avisa de que tomará medidas si falta",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240829034803_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-fiscalia-venezuela-citara-tercera-vez-edmundo-gonzalez-avisa-tomara-medidas-si-falta-20240829034803.html",
+        "date": "2024-08-29 01:48:03",
+        "sentiment_score": -0.5242435485124588
+    },
+    {
+        "title": "James no ha debutado y ya hay crisis interna en el Rayo Vallecano, figura del club se fue contra las directivas",
+        "image_url": "https://www.infobae.com/resizer/v2/VBQZ4CJWSZFUBFHUTDPN3DPN4M.png?auth=bfced5298222e80ef5a9ed820b1275027c34e8992b0118180b5f92e2616532da",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/29/james-no-ha-debutado-y-ya-hay-crisis-interna-en-el-rayo-vallecano-figura-del-club-se-fue-contra-las-directivas/",
+        "date": "2024-08-29 01:37:31",
+        "sentiment_score": -0.1069360300898552
+    },
+    {
+        "title": "donde ver sorteo champions league 2024 2025 en vivo hoy canal tv online fase liga bombos nuevo formato partidos",
+        "image_url": "https://www.infobae.com/resizer/v2/FTS7EGKOQRGNROBH2F35NB3NA4.jpg?auth=029bd997d4e52ebc75c41f6b01c9af858d1c729cdf1c19523d085c3e15c526ad",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2024/08/29/donde-ver-sorteo-champions-league-2024-2025-en-vivo-hoy-canal-tv-online-fase-liga-bombos-nuevo-formato-partidos/",
+        "date": "2024-08-29 01:37:00",
+        "sentiment_score": 0.20693238824605942
+    },
+    {
+        "title": "Una fuga de gas causa al menos un muerto y diez heridos en Irán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7e1131b6-7ecc-46c4-a4b5-af2e2daf7b9c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/08/29/fuga-gas-causa-muerto-diez-107479201.html",
+        "date": "2024-08-29 01:11:45",
+        "sentiment_score": -0.7965456154197454
+    },
+    {
+        "title": "Temor a que Ábalos no se limite a dejar la disciplina de voto: \"Se ve traicionado y reventará al Gobierno\"",
+        "image_url": "https://s1.elespanol.com/2024/08/29/espana/politica/881921817_248773068_1706x960.jpg?contentId=ESPIMA20240829_0018",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240829/temor-abalos-no-limite-dejar-disciplina-voto-ve-traicionado-reventara-gobierno/881662192_0.html",
+        "date": "2024-08-29 00:49:07",
+        "sentiment_score": -0.8930865041911602
+    },
+    {
+        "title": "Guterres pide un \"cese inmediato\" de las operaciones a gran escala de Israel en el norte de Cisjordania",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240829014158_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-guterres-pide-cese-inmediato-operaciones-gran-escala-israel-norte-cisjordania-20240829014158.html",
+        "date": "2024-08-28 23:41:58",
+        "sentiment_score": -0.33541225641965866
+    },
+    {
+        "title": "El \"ejemplar\" salto de Somao, premiado en 2020, que aumentó la venta de casas y la llegada de visitantes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a3eae415-46ad-405f-8bb9-e62af3a807b6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/08/29/ejemplar-salto-somao-premiado-aumento-107474033.html",
+        "date": "2024-08-29 02:09:00",
+        "sentiment_score": -0.05817720293998718
+    },
+    {
+        "title": "Vecindario regresa a León con seis propuestas de artes escénicas",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/08/28/66cf6d9ef290a.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240829/1604855/vecindario-regresa-leon-seis-propuestas-artes-escenicas.html",
+        "date": "2024-08-29 01:30:00",
+        "sentiment_score": 0.5814408473670483
+    },
+    {
+        "title": "Jugador colombiano se muda de liga: se va de Inglaterra tras fichar por club mexicano",
+        "image_url": "https://www.infobae.com/resizer/v2/ZKEJUSL5LNK2LZ3TZOEXULCV2U.jpg?auth=280067395a705feb7d573d388823e81a8f2ff983970ef4097c5ec766a400d052",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/08/29/jugador-colombiano-se-muda-de-liga-se-va-de-inglaterra-tras-fichar-por-club-mexicano/",
+        "date": "2024-08-29 01:11:51",
+        "sentiment_score": 0.4317188523709774
+    },
+    {
+        "title": "\"El chute de sentar a un corrupto en el banquillo\": las clases de Cerdán en el Máster de El Español",
+        "image_url": "https://s1.elespanol.com/2024/08/28/actualidad/881672151_248755960_1706x960.jpg?contentId=ESPIMA20240828_0327",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/sociedad/educacion/20240829/chute-sentar-corrupto-banquillo-clases-cerdan-master-espanol/881662034_0.html",
+        "date": "2024-08-29 00:49:11",
+        "sentiment_score": 0.771133728325367
+    },
+    {
+        "title": "Empecé en Meetic y acabé en Bumble, qué tiene la plataforma de citas de moda para que todo el mundo esté hablando de ella",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/27/17247638733391.jpg",
+        "tags": [
+            "relaciones pareja",
+            "lifestyle",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/lifestyle/2024/08/29/66cd8acee85ece16608b45b1.html",
+        "date": "2024-08-28 23:51:48",
+        "sentiment_score": -0.16829927265644073
+    },
+    {
+        "title": "20 aniversario de la Diada que inventó Pasqual Maragall y Salvador Illa mantiene \"catalanista y antifascista\"",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/28/17248756961925.jpg",
+        "tags": [
+            "independencia cataluña",
+            "parlament de cataluña",
+            "artículos gerard melgar",
+            "erc",
+            "psc",
+            "òmnium cultural",
+            "política",
+            "salvador illa",
+            "pere aragonès",
+            "diada",
+            "mossos d&#039;esquadra",
+            "generalitat de cataluña"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2024/08/29/66cf850bfdddffec788b45ab.html",
+        "date": "2024-08-28 23:51:45",
+        "sentiment_score": 0.7306021153926849
+    },
+    {
+        "title": "Concierto catalán y desconcierto de la izquierda",
+        "image_url": "https://s1.elespanol.com/2024/08/28/opinion/tribunas/881672519_248767279_1706x960.jpg?contentId=ESPIMA20240828_0695",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20240829/concierto-catalan-desconcierto-izquierda/881781820_12.html",
+        "date": "2024-08-28 23:42:16",
+        "sentiment_score": -0.1945595145225525
     }
 ];
