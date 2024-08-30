@@ -199,27 +199,6 @@ export default [
         "sentiment_score": 0.2509445995092392
     },
     {
-        "title": "Última hora de la crisis tras elecciones en Venezuela, en vivo: noticias, reacciones y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Copia-de-FOTO-PARA-WP-2024-08-26T062254.923.jpg?quality=100&strip=info",
-        "tags": [
-            "crisis en venezuela",
-            "minuto a minuto"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/26/ultima-hora-crisis-elecciones-venezuela-en-vivo-noticias-reacciones-mas-orix/",
-        "date": "2024-08-26 13:09:15",
-        "sentiment_score": -0.11000487208366394
-    },
-    {
-        "title": "Investigan por homicidio involuntario al capitán del yate Bayesian, que naufragó en Sicilia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/descarga-96.jpg?quality=100&strip=info",
-        "tags": [
-            "italia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/26/investigan-homicidio-involuntario-capitan-del-yate-bayesian-naufragado-sicilia-trax/",
-        "date": "2024-08-26 12:55:16",
-        "sentiment_score": -0.8579474715515971
-    },
-    {
         "title": "La Fiscalía chavista cita de nuevo para este martes a Edmundo González por no acudir a su primer requerimiento",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/26/Edmundo-RQKjGpmi5ROpKKJoKmVbmUP-758x531@diario_abc.jpg",
         "tags": [
@@ -278,46 +257,6 @@ export default [
         "link": "https://www.abc.es/economia/electrodomestico-casa-luz-gasta-incluso-apagado-20240826162239-nt.html",
         "date": "2024-08-26 14:22:39",
         "sentiment_score": -0.0939117819070816
-    },
-    {
-        "title": "Alemania del Este mira con nostalgia al 'hermano mayor ruso': «Todavía hay síndrome de Estocolmo»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/23/charowagener-RZCSShR6oXFOGIMruE9z5eM-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/alemania-mira-amigo-ruso-sindrome-estocolmo-20240823173115-nt.html",
-        "date": "2024-08-26 14:13:28",
-        "sentiment_score": -0.173141747713089
-    },
-    {
-        "title": "El precio del alquiler alcanza otro récord a las puertas del comienzo del curso universitario",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/26/1400603370-RagnRKogyP8LP2iSM4oI6NO-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/precio-alquiler-alcanza-record-puertas-comienzo-curso-20240826133033-nt.html",
-        "date": "2024-08-26 11:55:18",
-        "sentiment_score": -0.09495563805103302
-    },
-    {
-        "title": "De las mezquitas a TikTok: la nueva estrategia para radicalizar yihadistas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/26/tiktok-yihadismo-Rh4wtitELs84ta4Rw6Nq71L-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/mezquitas-tiktok-nueva-estrategia-radicalizar-yihadistas-20240826132022-nt.html",
-        "date": "2024-08-26 11:26:05",
-        "sentiment_score": -0.29369397461414337
-    },
-    {
-        "title": "«Nos encontramos ante un caos provocado por el comportamiento del presidente», afirma Le Pen tras reunirse con Macron",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/26/lepen-bardella-RdMMkLsS2twKqF3rIA0uh0K-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/encontramos-ante-caos-provocado-comportamiento-presidente-afirma-20240826125951-nt.html",
-        "date": "2024-08-26 11:13:36",
-        "sentiment_score": -0.1134146898984909
     },
     {
         "title": "Videoperfil | La tercera vida de Josep Lluís Trapero, nuevo director general de la Policía",
@@ -461,41 +400,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-08-26/cristina-farres-directora-de-cronica-global-sera-la-directora-de-comunicacion-del-govern-de-illa.html",
         "date": "2024-08-26 14:26:05",
         "sentiment_score": 0.02659112960100174
-    },
-    {
-        "title": "Detenido el patrón de un barco que chocó contra una moto de agua en Marbella cuyo conductor falleció",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/H4ALJXFVPFC3PMNNNR7UOIXUS4.jpg?auth=4bfcc5423973d68f04cd6e76c6fe58f4a43499d0d4b0e170efe6dd4acc2a3793",
-        "tags": [
-            "málaga",
-            "guardia civil",
-            "policía nacional",
-            "sucesos",
-            "accidentes",
-            "españa",
-            "marbella"
-        ],
-        "link": "https://elpais.com/espana/2024-08-26/detenido-el-patron-de-un-barco-que-choco-contra-una-moto-de-agua-en-marbella-cuyo-conductor-fallecio.html",
-        "date": "2024-08-26 13:55:42",
-        "sentiment_score": -0.34136178717017174
-    },
-    {
-        "title": "El PP escenifica su frente común contra la financiación para Cataluña pero sigue sin propuesta de reforma conjunta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M6IGUMRNHADEJKR4U4IPS25CJY.jpg?auth=2bd04e645438f6ddd118127b1f3523f814299aeffc30e741d766ee9c31aa03fb",
-        "tags": [
-            "pedro sánchez",
-            "pp",
-            "hacienda pública",
-            "alberto núñez feijóo",
-            "financiación",
-            "borja semper",
-            "maría jesús montero",
-            "lofca",
-            "comunidades autónomas",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-26/el-pp-escenifica-su-frente-comun-contra-la-financiacion-para-cataluna-pero-sigue-sin-propuesta-de-reforma-conjunta.html",
-        "date": "2024-08-26 13:26:31",
-        "sentiment_score": -0.32401202619075775
     },
     {
         "title": "Así ha logrado esta ‘community manager’ conectar a la Casa Real con la Generación Z",
@@ -8600,5 +8504,357 @@ export default [
         "link": "https://www.infobae.com/colombia/deportes/2024/08/29/asi-fue-como-el-nuevo-director-tecnico-de-atletico-nacional-marco-a-lionel-messi-en-una-copa-del-mundo/",
         "date": "2024-08-29 22:04:25",
         "sentiment_score": 0.15997623279690742
+    },
+    {
+        "title": "Reporte meteorológico: las temperaturas que se esperan en Málaga este 30 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/6HQDGWQ7B5C6NL2HD5JG6JFHAI.jpg?auth=067197ba6097ae7a58e690a2e5c34cff2f58a9e1a6a2854e8e5c9713c7019904",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/30/reporte-meteorologico-las-temperaturas-que-se-esperan-en-malaga-este-30-de-agosto/",
+        "date": "2024-08-30 02:01:30",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/PFTAKZYTGZEMTMEBUIXUC57LSY.jpg?auth=f1d07810a6929499f2dbf6ce01502471f57c851acf75c890aaa826399d8ebe35",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/08/30/cual-es-la-temperatura-promedio-en-madrid/",
+        "date": "2024-08-30 01:31:20",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Google anuncia en Uruguay su segundo centro de datos en Latinoamérica por EUR 767 millones",
+        "image_url": "./assets/ai_generated/v1_txt2img_1dc9792d2d244076bf03645c5e5a066b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/google-anuncia-en-uruguay-su-segundo-centro-de-datos-en-latinoamerica-por-eur-767-millones/",
+        "date": "2024-08-30 01:16:36",
+        "sentiment_score": 0.15860973671078682
+    },
+    {
+        "title": "Alberto Moleiro: \"Me sabe a poco; quería ganar, pero ellos te someten mucho\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_62b280388d7b431d9877458d0031b3af.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/29/alberto-moleiro-me-sabe-a-poco-queria-ganar-pero-ellos-te-someten-mucho/",
+        "date": "2024-08-29 22:23:07",
+        "sentiment_score": -0.6928433105349541
+    },
+    {
+        "title": "Hoy será noticia. Viernes, 30 de agosto de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_0ff9aa02492846969579acd92e7bfb58.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/29/hoy-sera-noticia-viernes-30-de-agosto-de-2024/",
+        "date": "2024-08-29 22:22:24",
+        "sentiment_score": 0.03134756162762642
+    },
+    {
+        "title": "Tim Walz responde a las acusaciones sobre su historial militar",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20915850-25085-still.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "elecciones estados unidos",
+            "servicio militar",
+            "tim walz"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-walz-vicepresidencia-votantes-apoyo-elecciones-democratas-dusa-tv/",
+        "date": "2024-08-30 02:05:02",
+        "sentiment_score": -0.6399183534085751
+    },
+    {
+        "title": "Kamala Harris sobre guerra contra Hamas: “Estoy a favor de la defensa de Israel, eso no va a cambiar”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20904927-2390-667-still.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "kamala harris",
+            "armas estados unidos",
+            "guerra israel y hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/votantes-apoyo-tim-walz-kamala-harris-democratas-elecciones-israel-eeuu-dusa-tv/",
+        "date": "2024-08-30 01:53:51",
+        "sentiment_score": -0.1938117891550064
+    },
+    {
+        "title": "Kamala Harris asegura que debe haber consecuencias para quienes entren a EE.UU. de manera irregular",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20904927-9803-still.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "cárcel",
+            "kamala harris",
+            "inmigración estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-harris-democratas-elecciones-presidencia-votos-dusa-tv/",
+        "date": "2024-08-30 01:51:56",
+        "sentiment_score": -0.6414148285984993
+    },
+    {
+        "title": "Investigan posibles actividades del Tren de Aragua en Aurora, Colorado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/tren-de-aragua-colorado-aurora-e1724981966881.jpg?quality=100&strip=info",
+        "tags": [
+            "colorado",
+            "tren de aragua",
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/29/investigan-actividades-tren-aragua-aurora-colorado-orix/",
+        "date": "2024-08-30 01:39:41",
+        "sentiment_score": -0.6382485125213861
+    },
+    {
+        "title": "Francia pide a Suiza información sobre presuntos \"actos de violencia\" de Pavel Durov",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/still-20900842-1020-0469999999999-still_96b9b5.jpg?quality=100&strip=info",
+        "tags": [
+            "telegram",
+            "francia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/francia-suiza-denuncia-caso-pavel-durov-telegram-rusia-panorama-mundial-tv/",
+        "date": "2024-08-30 01:32:59",
+        "sentiment_score": -0.7253219187259674
+    },
+    {
+        "title": "Israel pausará sus ataques a Gaza por vacunación de niños contra la polio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-42d478a6-141024124729-polio-oral-vaccine-story-top.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "polio",
+            "israel gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-guerra-cese-fuego-gaza-temporal-vacunacion-polio-panorama-mundial-tv/",
+        "date": "2024-08-30 01:32:48",
+        "sentiment_score": -0.03957553207874298
+    },
+    {
+        "title": "Fiscalía de México liga investigación de presunto secuestro de Mayo Zambada con excarcelación de Ovidio Guzmán en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/mayo-ovidio-guzman.png",
+        "tags": [
+            "ovidio guzmán",
+            "narcotráfico",
+            "mayo zambada"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/29/fiscalia-mexico-investigacion-secuestro-mayo-zambada-ovidio-guzman-orix/",
+        "date": "2024-08-30 00:27:29",
+        "sentiment_score": -0.4899097830057144
+    },
+    {
+        "title": "Investigan al fundador de Telegram, Pavel Durov, por presuntos \"actos de violencia\" contra su hijo en Suiza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/telegram-fundador-hijo-e1724972567863.jpg?quality=100&strip=info",
+        "tags": [
+            "europa",
+            "telegram",
+            "suiza",
+            "tecnología"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/29/investigan-al-fundador-de-telegram-pavel-durov-por-presuntos-actos-de-violencia-contra-su-hijo-en-suiza/",
+        "date": "2024-08-30 00:17:03",
+        "sentiment_score": -0.686916584149003
+    },
+    {
+        "title": "La nueva lucha para reformar el orden mundial de la era colonial de la ONU",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2168124186.jpg?quality=100&strip=info",
+        "tags": [
+            "consejo de seguridad de la onu",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/29/reformar-orden-mundial-era-colonial-onu-trax/",
+        "date": "2024-08-30 00:04:09",
+        "sentiment_score": -0.22984462976455688
+    },
+    {
+        "title": "Personas de la tercera edad enfrentan el abandono en la Venezuela migrante",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/dsc-4142-edit.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/los-que-se-quedan-adultos-mayores-venezuela-migracion-soledad-tv/",
+        "date": "2024-08-29 23:48:39",
+        "sentiment_score": -0.4498900696635246
+    },
+    {
+        "title": "Síndrome posvacacional: Consejos de la psicóloga para superar el \"trauma\" de volver a la rutina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba0c9c1b-ab45-49d9-933a-a388b956d00a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/salud/guia/2024/08/30/sindrome-posvacacional-consejos-psicologa-rutina-73873576.html",
+        "date": "2024-08-30 01:59:00",
+        "sentiment_score": -0.7808073312044144
+    },
+    {
+        "title": "EEUU considera como \"un incidente profundamente preocupante\" el tiroteo de Israel contra un vehículo del PMA",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240830034901_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-eeuu-considera-incidente-profundamente-preocupante-tiroteo-israel-contra-vehiculo-pma-20240830034901.html",
+        "date": "2024-08-30 01:49:01",
+        "sentiment_score": -0.8092436213046312
+    },
+    {
+        "title": "Otro empate insuficiente para el Real Madrid",
+        "image_url": "https://i0.wp.com/elsiglo.com.ve/wp-content/uploads/2024/08/vini.jpg?resize=696%2C464&ssl=1",
+        "tags": [
+            "empate",
+            "real madrid",
+            "deportes",
+            "noticias destacadas"
+        ],
+        "link": "https://elsiglo.com.ve/2024/08/29/otro-empate-insuficiente-para-el-real-madrid/",
+        "date": "2024-08-30 01:40:39",
+        "sentiment_score": -0.401621013879776
+    },
+    {
+        "title": "Yan Couto se perderá los partidos contra Ecuador y Paraguay por \"problemas clínicos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_0c4c1cf9f66b49689a20ca8366306814.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/30/yan-couto-se-perdera-los-partidos-contra-ecuador-y-paraguay-por-problemas-clinicos/",
+        "date": "2024-08-30 01:30:19",
+        "sentiment_score": -0.6769734118133783
+    },
+    {
+        "title": "Mbappé acumuló su tercer partido sin goles en el Real Madrid y estallaron las críticas: el chispazo con Vinicius y su revelador video en el micro",
+        "image_url": "https://www.infobae.com/resizer/v2/4FQ6ID4SUZB6PGGIHCXVRVZV34.jpg?auth=570574bbd003196958038189fbdcc2373c544846538723abaee4d932bf84984a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/08/30/mbappe-acumulo-su-tercer-partido-sin-goles-en-el-real-madrid-y-estallaron-las-criticas-el-chispazo-con-vinicius-y-su-revelador-video-en-el-micro/",
+        "date": "2024-08-30 01:12:53",
+        "sentiment_score": 0.27509286999702454
+    },
+    {
+        "title": "Mundial Sub-20 femenino en Colombia: inauguración, calendario y partidos de la Selección",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/D54QI7RKARFOPPZJOKZK2NI7CM.jpg?auth=fc492790f737c6a4f8104bfdf17c222641f7108afe9992f371b17365bd05154b",
+        "tags": [
+            "copa del mundo",
+            "cali",
+            "linda caicedo",
+            "bogotá",
+            "fútbol femenino",
+            "latinoamérica",
+            "medellín",
+            "colombia",
+            "américa",
+            "selección colombiana"
+        ],
+        "link": "https://elpais.com/america-colombia/2024-08-30/mundial-sub-20-femenino-en-colombia-inauguracion-calendario-y-partidos-de-la-seleccion.html",
+        "date": "2024-08-30 00:53:44",
+        "sentiment_score": 0.3000446632504463
+    },
+    {
+        "title": "Los hutíes publican imágenes del asalto y detonación del petrolero griego 'Sounion' en el mar Rojo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240830023821_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-huties-publican-imagenes-asalto-detonacion-petrolero-griego-sounion-mar-rojo-20240830023821.html",
+        "date": "2024-08-30 00:38:21",
+        "sentiment_score": -0.87602021638304
+    },
+    {
+        "title": "El juez abre el camino a que el Supremo investigue a Ábalos al incorporar la auditoría de Puente al caso",
+        "image_url": "https://s1.elespanol.com/2024/08/30/actualidad/882171781_248797126_854x640.png?contentId=ESPIMA20240830_0007",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20240830/juez-abre-camino-supremo-investigue-abalos-incorporar-auditoria-puente-caso/881912286_0.html",
+        "date": "2024-08-30 00:26:05",
+        "sentiment_score": -0.749860655516386
+    },
+    {
+        "title": "Temas del día de EFE Internacional del 29 de agosto de 2024 (24:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_fac48f871a484ff495089f209e4449c1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/30/temas-del-dia-de-efe-internacional-del-29-de-agosto-de-2024-2400-gmt/",
+        "date": "2024-08-30 00:16:27",
+        "sentiment_score": -0.0038573667407035828
+    },
+    {
+        "title": "Los mejores planes este fin de semana en Madrid: una ruta teatralizada, un karaoke a lo grande y flamenco en un café",
+        "image_url": "https://s1.elespanol.com/2024/08/26/madrid/ocio/881172361_248714569_1706x960.jpg?contentId=ESPIMA20240826_0487",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20240830/mejores-planes-fin-semana-madrid-ruta-teatralizada-karaoke-grande-flamenco-cafe/880412167_0.html",
+        "date": "2024-08-30 00:15:21",
+        "sentiment_score": 0.8372121481224895
+    },
+    {
+        "title": "La Fiscalía de menores abre expediente por el taller de cócteles molotov y la CUP sale en su defensa",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/08/28/66cea49b64744.r_d.48-228.png",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20240830/fiscalia-menores-abre-expediente-taller-cocteles-molotov-cup-sale-defensa_223409.html",
+        "date": "2024-08-30 02:11:20",
+        "sentiment_score": -0.616505978628993
+    },
+    {
+        "title": "La falta de previsión de Laporta amenaza la deuda del Barça con Goldman Sachs y otros acreedores",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/30/culemania/palco/882171778_13392445_1706x960.png?contentId=ESPIMA20240830_0004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240830/la-de-laporta-barca-goldman-sachs-acreedores/882161776_0.html",
+        "date": "2024-08-30 01:10:50",
+        "sentiment_score": -0.45610938780009747
+    },
+    {
+        "title": "Las mejores birras para poner el broche al verano en Gijón",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4453ca01-c0a6-4f07-854f-7e8035dc5de2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2024/08/30/mejores-birras-poner-broche-verano-107486943.html",
+        "date": "2024-08-30 01:00:41",
+        "sentiment_score": 0.7357302606105804
+    },
+    {
+        "title": "Hazma y Abde, los menas que llegaron bajo un camión y nacionalizados por salvar a un español",
+        "image_url": "https://s1.elespanol.com/2024/08/29/actualidad/881922420_248791622_1706x960.jpg?contentId=ESPIMA20240829_0621",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240830/hazma-abde-menas-llegaron-camion-nacionalizados-salvar-espanol/881912209_0.html",
+        "date": "2024-08-30 00:26:10",
+        "sentiment_score": 0.3536398112773895
+    },
+    {
+        "title": "Room00 compra TOC Hostels al hijo de Antonio Catalán y su socio Salvador Torrens por 20 millones de euros",
+        "image_url": "https://s1.elespanol.com/2024/08/29/invertia/empresas/881922314_248788401_1706x960.jpg?contentId=ESPIMA20240829_0515",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20240830/room00-compra-toc-hostels-hijo-antonio-catalan-socio-salvador-torrens-millones-euros/881912153_0.html",
+        "date": "2024-08-30 00:23:18",
+        "sentiment_score": 0.33067722618579865
+    },
+    {
+        "title": "El último fraude inmobiliario en Barcelona: cobrar 10 euros a los inquilinos por una visita al piso que quieren alquilar",
+        "image_url": "https://s1.elespanol.com/2024/08/29/invertia/observatorios/vivienda/881922507_248794289_1706x960.jpg?contentId=ESPIMA20240829_0708",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20240830/ultimo-fraude-inmobiliario-barcelona-cobrar-euros-inquilinos-visita-piso-quieren-alquilar/881912197_0.html",
+        "date": "2024-08-30 00:23:17",
+        "sentiment_score": -0.6832268126308918
+    },
+    {
+        "title": "Liverpool-Real Madrid, Barcelona-Bayern y City-Inter, duelos de la 1a fase de la nueva Champions",
+        "image_url": "./assets/ai_generated/v1_txt2img_5ef5894ced2f43ae847bde835c73d559.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/182237/liverpool-real-madrid-barcelona-bayern-y-city-inter-duelos-de-la-1a-fase-de-la-nueva-champions/",
+        "date": "2024-08-30 00:09:59",
+        "sentiment_score": 0.3398076072335243
     }
 ];
