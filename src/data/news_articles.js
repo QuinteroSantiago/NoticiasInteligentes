@@ -1,311 +1,5 @@
 export default [
     {
-        "title": "La tabla de máximos goleadores de LaLiga tras la Jornada 3: cómo va la carrera por el pichichi",
-        "image_url": "https://www.infobae.com/resizer/v2/NJNZNPYTARGFPE2YYESMJJJP7E.jpg?auth=1667f6bc801e3ac764f26a572b76d60c9b5012e1e9547ad89614765e03db014a",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2024/08/27/la-tabla-de-maximos-goleadores-de-laliga-tras-la-jornada-3-como-va-la-carrera-por-el-pichichi/",
-        "date": "2024-08-27 06:17:33",
-        "sentiment_score": 0.7564881481230259
-    },
-    {
-        "title": "Un estudio basado en el ADN de niños apunta cuál el verdadero peso de la genética en el éxito académico",
-        "image_url": "https://www.infobae.com/resizer/v2/AUZ4RBFUVNARRFPJVHKFZIQGVA.jpg?auth=db6db8ddebcd60232bbd8a653809fb742978c4f1b4440d8d79dd1b9850936e50",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/27/un-estudio-basado-en-el-adn-de-ninos-apunta-cual-el-verdadero-peso-de-la-genetica-en-el-exito-academico/",
-        "date": "2024-08-27 06:02:23",
-        "sentiment_score": -0.6504087038338184
-    },
-    {
-        "title": "Cuál es el salario mínimo interprofesional (SMI) en 2024 en España",
-        "image_url": "https://www.infobae.com/resizer/v2/7WIICQ5EMBOIYAKM7YWVBYHLZA.jpg?auth=0efa25e4f43b1a3ec6021974752308db04e3f4a2a0267343016e4b9c77c3e544",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/27/cual-es-el-salario-minimo-interprofesional-smi-en-2024-en-espana/",
-        "date": "2024-08-27 05:55:16",
-        "sentiment_score": 0.38291728496551514
-    },
-    {
-        "title": "Cómo son las heridas de la MPOX (viruela del mono): el número de lesiones cutáneas varía de unas pocas a cientos de ellas",
-        "image_url": "https://www.infobae.com/resizer/v2/2IUCE5XGPNETTLEDE34ICQ2ARI.jpg?auth=c7b4a9223e9eccf9be69ab27bffbe100274600e962ab5aeca5a7d6c37e9c40a2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/27/como-son-las-heridas-de-la-mpox-viruela-del-mono-el-numero-de-lesiones-cutaneas-varia-de-unas-pocas-a-cientos-de-ellas/",
-        "date": "2024-08-27 05:47:21",
-        "sentiment_score": -0.5120521709322929
-    },
-    {
-        "title": "¿Está permitido que las motocicletas circulen por un carril VAO?",
-        "image_url": "https://www.infobae.com/resizer/v2/UDIBY2X3KRBEVFSSSXG4BBURVA.jpg?auth=4abedc1c3c29606dd276b2c21813f6df9b545b905f2b5e7128829ca0a8b3788a",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/27/esta-permitido-que-las-motocicletas-circulen-por-un-carril-vao/",
-        "date": "2024-08-27 05:47:08",
-        "sentiment_score": -0.12074260041117668
-    },
-    {
-        "title": "Dos de los radares que más multan de España: escondido tras un túnel y con una reducción de velocidad repentina",
-        "image_url": "https://www.infobae.com/resizer/v2/AKRHIN4QONCAZJYEXUXWIQ2KL4.jpg?auth=6515d6aa141702447e10c296a00587aea6cce08352fd857ac37746bbdb99d28b",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/27/dos-de-los-radares-que-mas-multan-de-espana-escondido-tras-un-tunel-y-con-una-reduccion-de-velocidad-repentina/",
-        "date": "2024-08-27 05:37:18",
-        "sentiment_score": -0.4732806868851185
-    },
-    {
-        "title": "Efemérides del 28 de agosto",
-        "image_url": "./assets/ai_generated/v1_txt2img_c53528810107435ebbb0b74d4546a837.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/27/efemerides-del-28-de-agosto/",
-        "date": "2024-08-27 05:15:54",
-        "sentiment_score": -0.012249939143657684
-    },
-    {
-        "title": "Fuerteventura, verano de 1994: Recuerdos de las pateras que abrieron la Ruta Canaria",
-        "image_url": "./assets/ai_generated/v1_txt2img_8b49a8d7448d4e32b4c90bc92152546a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/27/fuerteventura-verano-de-1994-recuerdos-de-las-pateras-que-abrieron-la-ruta-canaria/",
-        "date": "2024-08-27 05:15:37",
-        "sentiment_score": -0.0123462975025177
-    },
-    {
-        "title": "Cuánto cuesta un euro frente al dólar este 27 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/I7EP6A7UYVAEBJJLTJ4EOGB5IA.jpg?auth=fd5add079f8d8e3540002343f35c1a61ec02866c4154ee981648b8f4b6e30c39",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/08/27/cuanto-cuesta-un-euro-frente-al-dolar-este-27-de-agosto/",
-        "date": "2024-08-27 05:15:28",
-        "sentiment_score": -0.23126429319381714
-    },
-    {
-        "title": "Gerardo Mesa, expresidente de Cruz Roja Canarias: En 30 años no se ha avanzado en acogida",
-        "image_url": "./assets/ai_generated/v1_txt2img_f087242d9e784fbb8427a3f8eff010b2.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/08/27/gerardo-mesa-expresidente-de-cruz-roja-canarias-en-30-anos-no-se-ha-avanzado-en-acogida/",
-        "date": "2024-08-27 05:15:20",
-        "sentiment_score": -0.5155205875635147
-    },
-    {
-        "title": "Japón afirma que un avión militar chino violó su espacio aéreo territorial por primera vez",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/japon.webp",
-        "tags": [
-            "japón",
-            "china"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/27/japon-avion-militar-chino-violo-espacio-aereo-territorial-por-primera-vez-trax/",
-        "date": "2024-08-27 06:04:36",
-        "sentiment_score": -0.8110849913209677
-    },
-    {
-        "title": "Al menos 30 muertos tras el colapso de una presa en Sudán, según agencia de la ONU",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/colapso-presa.webp",
-        "tags": [
-            "sudán",
-            "áfrica"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/27/al-menos-30-muertos-colapso-presa-sudan-segun-agencia-onu-trax/",
-        "date": "2024-08-27 05:48:26",
-        "sentiment_score": -0.800792932510376
-    },
-    {
-        "title": "Grupo de derechos electorales latinos pide investigación luego de que autoridades de Texas registraran casas",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/grupos-de-derechos-electorales.webp",
-        "tags": [
-            "latinos",
-            "derechos electorales"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/27/grupo-de-derechos-electorales-latinos-pide-investigacion-luego-de-que-autoridades-de-texas-registraran-casas/",
-        "date": "2024-08-27 05:37:06",
-        "sentiment_score": -0.6805695835500956
-    },
-    {
-        "title": "Zuckerberg denuncia la presión de la Casa Blanca para retirar contenidos sobre Covid-19 de Facebook",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/08/27/Zuckerberg-kFOE-U602995519238RpG-758x531@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/redes/zuckerberg-denuncia-presion-casa-blanca-retirar-contenidos-20240827081507-nt.html",
-        "date": "2024-08-27 06:15:08",
-        "sentiment_score": -0.10900485515594482
-    },
-    {
-        "title": "La paridad de género en las empresas canarias, al golpito",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d067397a-c4d7-4f54-a0cf-1a620142dd5e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.eldia.es/economia/2024/08/27/paridad-genero-empresas-canarias-golpito-107392164.html",
-        "date": "2024-08-27 06:28:46",
-        "sentiment_score": -0.33128800988197327
-    },
-    {
-        "title": "Mantener a raya a las gaviotas",
-        "image_url": "./assets/ai_generated/v1_txt2img_4e11ddcf0e5948b9b599903e304c6f4b.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1090758",
-        "date": "2024-08-27 06:26:02",
-        "sentiment_score": -0.005112141370773315
-    },
-    {
-        "title": "¿Quieres ir a ver al Real Madrid? Esto cuesta la entrada contra el Real Betis",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/26/endrick-celebrando-su-primer-gol-con-el-real-madrid-en-el-bernabeu.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/quieres-ver-real-madrid-bernabeu-dinero-entrada-betis-5589299/",
-        "date": "2024-08-27 06:25:51",
-        "sentiment_score": -0.8472377303987741
-    },
-    {
-        "title": "Efemérides de hoy: los hechos relevantes que tuvieron lugar en la historia el 27 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/6NFVVNW2ZBG3LEVLN3QA5WH6SI.jpg?auth=66887445e1c4407b6f82611244994e7aa760b48dfadc3d79369105f00836134e",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/noticias/2024/08/27/efemerides-de-hoy-los-hechos-relevantes-que-tuvieron-lugar-en-la-historia-el-27-de-agosto/",
-        "date": "2024-08-27 06:16:52",
-        "sentiment_score": 0.37358982115983963
-    },
-    {
-        "title": "La desgracia de la familia Goyanes-Lapique: tres muertes en un mes y una trágica noticia",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/caritina-marido-vida-469x317.jpeg",
-        "tags": [
-            "celebrities",
-            "gente",
-            "muertes"
-        ],
-        "link": "https://theobjective.com/gente/2024-08-27/desgracia-familia-goyanes-lapique-muertes-noticia/",
-        "date": "2024-08-27 06:12:20",
-        "sentiment_score": -0.7505137734115124
-    },
-    {
-        "title": "Restan 390 entradas de Tribuna y las liberadas por los socios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0c26e358-5019-44b5-aa84-2d014cce8c71_16-9-aspect-ratio_default_1321888.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/ud-las-palmas/2024/08/27/restan-390-entradas-tribuna-liberadas-107395110.html",
-        "date": "2024-08-27 06:01:01",
-        "sentiment_score": -0.04701752960681915
-    },
-    {
-        "title": "Sebastián Battaglia: la lesión que todavía sufre, las enseñanzas de sus entrenadores y el significado de Boca en su vida",
-        "image_url": "https://www.infobae.com/resizer/v2/PR55ZOMNLFBB7MINW7MI4SGCWE.JPG?auth=7f2fb9e5b091f4ece36d977c278a15059a8428b1b5d8c1f4533067ed48a2025e",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/reportajes/2024/08/27/sebastian-battaglia-la-lesion-que-todavia-sufre-las-ensenanzas-de-sus-entrenadores-y-el-significado-de-boca-en-su-vida/",
-        "date": "2024-08-27 05:34:52",
-        "sentiment_score": -0.006958015263080597
-    },
-    {
-        "title": "La victoria número 500 del Real Valladolid en Primera, a la vista",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/08/27/montoRealValladolid-krtE--758x531@El%20Norte.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/victoria-numero-500-real-valladolid-primera-vista-20240827073226-nt.html",
-        "date": "2024-08-27 05:32:27",
-        "sentiment_score": 0.13731973618268967
-    },
-    {
-        "title": "El peor restaurante de Barcelona, según Tripadvisor",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2022/08/04/0D0AC539-F1F3-47FB-AF78-6D0BA8055DB3/96.jpg?crop=2048%2C1152%2Cx0%2Cy106&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/peor-restaurante-barcelona-segun-tripadvisor_2024082766cd712f797ae10001747789.html",
-        "date": "2024-08-27 06:24:47",
-        "sentiment_score": -0.8796008015051484
-    },
-    {
-        "title": "León tendría más de 600.000 habitantes si todos los emigrados en España regresasen",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2024/08/26/tren-kvBF--758x531@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/leon/leon-600000-habitantes-emigrados-espana-regresasen-20240827081009-nt.html",
-        "date": "2024-08-27 06:10:09",
-        "sentiment_score": -0.18979237973690033
-    },
-    {
-        "title": "Indignación por la cancelación de vuelos: «Iberia está fallando a los cántabros»",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/08/27/2024082708074515247.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/economia/indignacion-cancelacion-vuelos-iberia-fallando-cantabros/20240827080850537451.html",
-        "date": "2024-08-27 06:08:50",
-        "sentiment_score": -0.9020517962053418
-    },
-    {
-        "title": "Parlon elige a Trapero para dirigir a los Mossos tras “una etapa agotada”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/26/66ccedb1b858e.r_d.3323-2262-0.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.lavanguardia.com/politica/20240827/9892924/parlon-elige-trapero-dirigir-mossos-etapa-agotada.html",
-        "date": "2024-08-27 06:02:33",
-        "sentiment_score": -0.031469762325286865
-    },
-    {
-        "title": "La paradoja de Milei",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1913ad3-97f0-4506-85bc-58f7e75e4988_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2024/08/27/paradoja-milei-107388693.html",
-        "date": "2024-08-27 06:00:57",
-        "sentiment_score": -0.2856832593679428
-    },
-    {
-        "title": "El economista Gonzalo Bernardos lanza un aviso por lo que va a pasar con el precio de la gasolina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/27c8653e-f1c0-4a80-b3c5-179f1469123d_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20240827/gonzalo-bernardos-economista-lanza-aviso-precio-gasolina-dv-107378348",
-        "date": "2024-08-27 06:00:00",
-        "sentiment_score": -0.8785768076777458
-    },
-    {
-        "title": "Trapero, el 'sottogoverno' y una cumbre en Poblet",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/26/politica/881171945_13382476_1706x960.jpg?contentId=ESPIMA20240826_0071",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20240827/trapero-el-sottogoverno-una-cumbre-en-poblet/881411854_0.html",
-        "date": "2024-08-27 05:59:37",
-        "sentiment_score": 0.1444072425365448
-    },
-    {
-        "title": "8 comarcas de Tarragona, Girona y Lleida en riesgo alto de incendio este martes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240827075608_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-comarcas-tarragona-girona-lleida-riesgo-alto-incendio-martes-20240827075608.html",
-        "date": "2024-08-27 05:56:08",
-        "sentiment_score": -0.44025444984436035
-    },
-    {
         "title": "¿Se puede conducir con chanclas? La DGT y la Guardia Civil dicen esto",
         "image_url": "https://www.infobae.com/resizer/v2/EEYABQ47CRD4FGIDIN3CUO26TY.jpg?auth=273c12c4ae64567cc2379e37d14c76d5f8d68f4e32e7ac5fd258c6a943c7b100",
         "tags": [
@@ -773,22 +467,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-27/semana-partida-en-dos-en-el-tiempo-estabilidad-hasta-el-miercoles-y-nuevo-episodio-de-chubascos-hasta-el-domingo.html",
         "date": "2024-08-27 10:47:10",
         "sentiment_score": -0.08479632437229156
-    },
-    {
-        "title": "El Gobierno da luz verde a la retirada de las medallas al Mérito en el Trabajo a Díaz Ferrán y Fernández Gayoso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M74IXVDQTRJZLFHBURA7WEUTX4.jpg?auth=8960feee8117c14b1a207632486df5f7c444a8edd9b7721da15173d0d2704460",
-        "tags": [
-            "gerardo díaz ferrán",
-            "ceoe",
-            "condecoraciones",
-            "memoria histórica",
-            "gobierno",
-            "españa",
-            "consejo de ministros"
-        ],
-        "link": "https://elpais.com/espana/2024-08-27/el-gobierno-da-luz-verde-a-la-retirada-de-las-medallas-al-merito-en-el-trabajo-a-diaz-ferran-y-fernandez-gayoso.html",
-        "date": "2024-08-27 07:34:57",
-        "sentiment_score": 0.05877239257097244
     },
     {
         "title": "El Córdoba refuerza la defensa con Marvel",
@@ -7256,5 +6934,414 @@ export default [
         "link": "https://cincodias.elpais.com/companias/2024-08-30/cellnex-echa-el-freno-a-la-venta-de-una-participacion-en-su-filial-polaca.html",
         "date": "2024-08-30 16:48:32",
         "sentiment_score": -0.04510702192783356
+    },
+    {
+        "title": "El Alavés y el Sporting acuerdan la cesión de Maras",
+        "image_url": "./assets/ai_generated/v1_txt2img_1a445aeee7da4942a837ef05b3877839.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/el-alaves-y-el-sporting-acuerdan-la-cesion-de-maras/",
+        "date": "2024-08-30 21:48:45",
+        "sentiment_score": -0.15710867941379547
+    },
+    {
+        "title": "1-3. El Racing sacude al Oviedo en el Tartiere",
+        "image_url": "./assets/ai_generated/v1_txt2img_fcc14904ceb2413ba5ce4d7ddd40b0af.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/1-3-el-racing-sacude-al-oviedo-en-el-tartiere/",
+        "date": "2024-08-30 21:48:28",
+        "sentiment_score": -0.6195903271436691
+    },
+    {
+        "title": "El Pipa Ávila, nuevo jugador del Burgos CF",
+        "image_url": "./assets/ai_generated/v1_txt2img_039bd1aba31947dba776f462fc82d592.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/el-pipa-avila-nuevo-jugador-del-burgos-cf/",
+        "date": "2024-08-30 21:48:11",
+        "sentiment_score": 0.1363646648824215
+    },
+    {
+        "title": "El Real Oviedo cede a Borja Sánchez al Burgos",
+        "image_url": "./assets/ai_generated/v1_txt2img_66063216900944408ebc366feb91f3fd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/el-real-oviedo-cede-a-borja-sanchez-al-burgos/",
+        "date": "2024-08-30 21:47:54",
+        "sentiment_score": -0.2480892315506935
+    },
+    {
+        "title": "German Valera: \"Puedo aportar rapidez, uno contra uno y correr al espacio\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_b7348d6c8e204cc7bf9bd2812e6b6167.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/german-valera-puedo-aportar-rapidez-uno-contra-uno-y-correr-al-espacio/",
+        "date": "2024-08-30 21:32:53",
+        "sentiment_score": 0.5607001725584269
+    },
+    {
+        "title": "Orri Óskarsson ficha por la Real Sociedad",
+        "image_url": "./assets/ai_generated/v1_txt2img_2d5c3b7462014f9f8071109676940c41.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/orri-oskarsson-ficha-por-la-real-sociedad/",
+        "date": "2024-08-30 21:17:45",
+        "sentiment_score": 0.06723304092884064
+    },
+    {
+        "title": "Fátima Diamé es quinta en longitud y Mata Pérez decimoquinta en 1.500",
+        "image_url": "./assets/ai_generated/v1_txt2img_8bed259bf6c74a87a0fbf892605e7332.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/fatima-diame-es-quinta-en-longitud-y-mata-perez-decimoquinta-en-1500/",
+        "date": "2024-08-30 21:17:28",
+        "sentiment_score": -0.0643443614244461
+    },
+    {
+        "title": "Tasi Dmytriv y los bronces de Alfonso Cabello, Alba García y Joan Munar impulsan a España",
+        "image_url": "./assets/ai_generated/v1_txt2img_74d410aa01374b7bb94cdd52afdc2d04.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/tasi-dmytriv-y-los-bronces-de-alfonso-cabello-alba-garcia-y-joan-munar-impulsan-a-espana/",
+        "date": "2024-08-30 21:17:11",
+        "sentiment_score": 0.3500203937292099
+    },
+    {
+        "title": "Asier Martínez es segundo en Roma en los 110 vallas con su mejor marca del año",
+        "image_url": "./assets/ai_generated/v1_txt2img_fdfae4a609954e6ba4de8c49c68b491e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/asier-martinez-es-segundo-en-roma-en-los-110-vallas-con-su-mejor-marca-del-ano/",
+        "date": "2024-08-30 21:02:48",
+        "sentiment_score": 0.7694601975381374
+    },
+    {
+        "title": "Valery Fernández: Busco sentirme feliz y crecer como futbolista en el Mallorca",
+        "image_url": "./assets/ai_generated/v1_txt2img_4589af2cf0e7438a81a175c3576c5625.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/08/30/valery-fernandez-busco-sentirme-feliz-y-crecer-como-futbolista-en-el-mallorca/",
+        "date": "2024-08-30 21:02:32",
+        "sentiment_score": 0.38286668062210083
+    },
+    {
+        "title": "Se espera una cifra récord de viajeros en EE.UU. por el Día del Trabajo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2169498189.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "viajes y turismo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cifra-record-viajeros-dia-del-trabajo-eeuu-dusa-tv-fast/",
+        "date": "2024-08-30 22:11:20",
+        "sentiment_score": 0.17280735820531845
+    },
+    {
+        "title": "Alemania deporta a 28 afganos tras presentar un nuevo paquete de medidas de seguridad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2167908504.jpg?quality=100&strip=info",
+        "tags": [
+            "alemania",
+            "deportación",
+            "europa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/30/alemania-deporta-28-afganos-medidas-seguridad-trax/",
+        "date": "2024-08-30 22:03:22",
+        "sentiment_score": -0.757149850949645
+    },
+    {
+        "title": "California aprueba un proyecto de ley que prohíbe seis sustancias químicas relacionadas con problemas de conducta en los niños",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/alimentos-california.jpg?quality=100&strip=info",
+        "tags": [
+            "alimentación",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/30/california-ley-prohibe-seis-sustancias-quimicas-conducta-ninos-trax/",
+        "date": "2024-08-30 21:52:45",
+        "sentiment_score": 0.15534742176532745
+    },
+    {
+        "title": "Las 3 noticias destacadas de la tarde del 30 de agosto en CNN en Español",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2161325694.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-30-de-agosto-2024-dusa-tarde-fast/",
+        "date": "2024-08-30 21:34:00",
+        "sentiment_score": -0.14753472805023193
+    },
+    {
+        "title": "Tribunal Supremo de Brasil ordena la suspensión de X en el país",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/09/230901135038-twitter-x-logo-restricted.webp",
+        "tags": [
+            "brasil",
+            "redes sociales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/30/tribunal-supremo-brasil-suspende-x-ap/",
+        "date": "2024-08-30 20:27:11",
+        "sentiment_score": -0.5502964407205582
+    },
+    {
+        "title": "Ataque ruso mata a un menor en un parque infantil de Járkiv, según autoridades ucranianas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/2024-08-30t140445z-1365440418-rc2dq9ae5g13-rtrmadp-3-ukraine-crisis-attack-kharkiv.jpeg?quality=100&strip=info",
+        "tags": [
+            "ucrania",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/08/30/ataque-ruso-mata-menor-parque-infantil-jarkiv-trax/",
+        "date": "2024-08-30 20:09:09",
+        "sentiment_score": -0.8604907160624862
+    },
+    {
+        "title": "La inflación se mantiene en 2,5% en julio en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1364310196.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-inflacion-mantieve-julio-economia-reserva-federal-cnn-dinero-tv/",
+        "date": "2024-08-30 20:02:39",
+        "sentiment_score": 0.1590537652373314
+    },
+    {
+        "title": "Caen las ganancias de Dollar General y se desploman sus acciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1652851575.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/caen-ganancias-dollar-general-acciones-caen-cnn-dinero-tv/",
+        "date": "2024-08-30 19:56:08",
+        "sentiment_score": -0.07451802492141724
+    },
+    {
+        "title": "Una ola de agua atraviesa la pared de la biblioteca y llena el edificio como una bañera",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/video1483342864-00-00-17-23-imagen-fija049.jpg?quality=100&strip=info",
+        "tags": [
+            "videos digitales",
+            "noticias de ee.uu.",
+            "estados unidos noticias",
+            "inundación"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biblioteca-inundacion-ny-ush-trax/",
+        "date": "2024-08-30 19:54:07",
+        "sentiment_score": -0.9193611089140177
+    },
+    {
+        "title": "“El café lleva el sustento a muchas casas en Honduras”, dice experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1126740178.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/honduras-cafe-economia-sustento-plan-nivel-internacional-juan-carlos-pineda-cnn-dinero-tv/",
+        "date": "2024-08-30 19:52:53",
+        "sentiment_score": 0.4133063033223152
+    },
+    {
+        "title": "Sólida confianza en la Princesa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/08/31/Princesa-R5QQEKZo2H6jrCb0t666SYK-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-solida-confianza-princesa-20240831195914-nt.html",
+        "date": "2024-08-30 21:42:38",
+        "sentiment_score": -0.049464643001556396
+    },
+    {
+        "title": "Estas son las horas más baratas de la luz hoy: el precio este sábado",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/08/30/lighting-3489394_1280-k0kH-U603010379783nXB-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/horas-baratas-luz-hoy-precio-sabado-20240830225119-nt.html",
+        "date": "2024-08-30 20:51:20",
+        "sentiment_score": -0.0650351345539093
+    },
+    {
+        "title": "Un juez ordena suspender la red social X en Brasil",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/08/30/red-x-kMTB-U6030103480857KI-758x531@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/juez-ordena-suspender-red-social-brasil-20240830221501-nt.html",
+        "date": "2024-08-30 20:15:20",
+        "sentiment_score": -0.7227139752358198
+    },
+    {
+        "title": "Al menos dos muertos al derrumbarse un santuario en Brasil donde se repartían cestas básicas de alimentos entre la población más vulnerable",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/30/brasil-kqU-U603010129688omC-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/dos-muertos-derrumbarse-santuario-brasil-repartian-cestas-20240830211708-nt.html",
+        "date": "2024-08-30 19:40:38",
+        "sentiment_score": -0.3585604429244995
+    },
+    {
+        "title": "El desierto de Linares",
+        "image_url": "./assets/ai_generated/v1_txt2img_7377f20b4e7d45ada837603ee62c6e4f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-bayort-desierto-linares-20240831212052-nts.html",
+        "date": "2024-08-30 19:34:33",
+        "sentiment_score": -0.01660969853401184
+    },
+    {
+        "title": "La canción del otoño",
+        "image_url": "./assets/ai_generated/v1_txt2img_c7abc06e42b34dc3bfdd507a5e27c444.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antologia-del-recuadro-de-antonio-burgos-cancion-otono-20240831003533-nts.html",
+        "date": "2024-08-30 19:09:18",
+        "sentiment_score": -0.08072790503501892
+    },
+    {
+        "title": "¿Y a la marihuana no le cortarían la luz?",
+        "image_url": "./assets/ai_generated/v1_txt2img_f6ea73b37d48437a8352c135dfba751e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-marihuana-cortarian-luz-20240831005454-nts.html",
+        "date": "2024-08-30 19:05:54",
+        "sentiment_score": -0.2670556604862213
+    },
+    {
+        "title": "Viaje presidencial a Pekín en clase turista",
+        "image_url": "./assets/ai_generated/v1_txt2img_4a91334dc19841d8bf1f742250a24731.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-viaje-presidencial-pekin-clase-turista-20240831210318-nts.html",
+        "date": "2024-08-30 19:05:02",
+        "sentiment_score": -0.02404123544692993
+    },
+    {
+        "title": "El método que emplean en Tailandia para ejecutar a los presos condenados a muerte",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/29/samui-koCH-U60539020167XH-1200x840@abc-kLfB-U6029975346205wF-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/metodo-emplean-tailandia-ejecutar-presos-condenados-muerte-20240829040000-nt.html",
+        "date": "2024-08-30 18:48:01",
+        "sentiment_score": -0.33249707520008087
+    },
+    {
+        "title": "Aumentar la supervivencia de pacientes con tumores sólidos ya es posible gracias a un tratamiento de corrientes eléctricas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/08/29/equipoTtfields-R3J86HT016GmP5Vkzgvz5fM-758x531@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/aumentar-supervivencia-pacientes-tumores-solidos-posible-gracias-20240829060000-nt.html",
+        "date": "2024-08-30 18:43:54",
+        "sentiment_score": -0.14202770590782166
+    },
+    {
+        "title": "Un caleidoscopio con mucho arte",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/08/30/Muenter_lago-RUgOzn5Wt7bIOGym42GyovL-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/caleidoscopio-arte-20240830000813-ntrc.html",
+        "date": "2024-08-30 22:08:43",
+        "sentiment_score": 0.48949436098337173
+    },
+    {
+        "title": "El club de los arquitectos suicidas",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/08/30/Staatsoper_Wien_DSC_5273wiki-RRL36lMuZMrOXEBOaTG3AHN-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/club-arquitectos-suicidas-20240830000722-ntrc.html",
+        "date": "2024-08-30 22:07:23",
+        "sentiment_score": -0.6501324977725744
+    },
+    {
+        "title": "Ruta para comerse las mejores milanesas de Madrid",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/07/17230354924698.jpg",
+        "tags": [
+            "verano",
+            "escapadas",
+            "rincones gastronómicos",
+            "gastronomía",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2024/08/31/66b35e1c21efa077128b4570.html",
+        "date": "2024-08-30 22:06:40",
+        "sentiment_score": 0.5084377527236938
+    },
+    {
+        "title": "El ruego de los habitantes de Sidi Ifni a Felipe VI: \"Su majestad, queremos ser españoles\"",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/50538667782-e082fd044c-o-scaled-e1725010418482-1440x808.jpg",
+        "tags": [
+            "españa",
+            "historia",
+            "rey felipe vi",
+            "marruecos",
+            "internacional"
+        ],
+        "link": "https://www.elindependiente.com/internacional/2024/08/31/el-ruego-de-los-habitantes-de-sidi-ifni-a-felipe-vi-su-majestad-queremos-ser-espanoles/",
+        "date": "2024-08-30 22:05:47",
+        "sentiment_score": -0.44783981889486313
+    },
+    {
+        "title": "Ángel Di María contundente: “El peor entrenador que tuve fue Louis Van Gaal”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/08/Di-Maria.jpg",
+        "tags": [
+            "deportes",
+            "angel di maria",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/08/30/angel-di-maria-contundente-el-peor-entrenador-que-tuve-fue-louis-van-gaal/",
+        "date": "2024-08-30 22:00:06",
+        "sentiment_score": -0.3455031216144562
+    },
+    {
+        "title": "¿Quiénes son los padres de Vinícius Jr.? Te contamos todo sobre su familia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/08/29/2024082911135229095.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/deportes/quienes-son-padres-vinicius-jr-contamos-todo-familia/20240831000000834045.html",
+        "date": "2024-08-30 22:00:00",
+        "sentiment_score": 0.6817042268812656
+    },
+    {
+        "title": "Sabin Merino ya ha firmado su rescisión y su salida es oficial",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d1b0822-29f6-4403-8b34-bf9847cb9f8c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2024/08/30/sabin-merino-firmado-rescision-salida-107566202.html",
+        "date": "2024-08-30 21:38:53",
+        "sentiment_score": -0.199093297123909
+    },
+    {
+        "title": "Billy Gilmour firma por el Nápoles",
+        "image_url": "./assets/ai_generated/v1_txt2img_96c8a1c7870b4b068b476073a9a21112.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/08/30/billy-gilmour-firma-por-el-napoles/",
+        "date": "2024-08-30 21:31:46",
+        "sentiment_score": 0.10698198527097702
+    },
+    {
+        "title": "«Nuestra existencia va más allá de la muerte física»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/08/31/manuel-sans-segarra-kugF-U2201036973067F8E-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/sociedad/entrevista-manuel-sans-segarra-existencia-alla-muerte-fisica-20240831103607-ntrc.html",
+        "date": "2024-08-30 22:06:27",
+        "sentiment_score": -0.1668490394949913
     }
 ];
