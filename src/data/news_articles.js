@@ -185,44 +185,6 @@ export default [
         "sentiment_score": -0.1408526748418808
     },
     {
-        "title": "Nacen elefantes gemelos en reserva de elefantes en Myanmar",
-        "image_url": "./assets/ai_generated/v1_txt2img_37d174adec2e4b3e8d3d3002cb3b1a73.png",
-        "tags": [
-            "gemelos",
-            "animales",
-            "elefantes"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elefantes-gemelos-cafe-tv/",
-        "date": "2024-08-30 14:11:22",
-        "sentiment_score": -0.2886296585202217
-    },
-    {
-        "title": "Pasajeras encierran en el baño de un avión a una niña pequeña que lloraba sin parar",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/vuelo-china-nino-encerrado-e1725020972101.webp",
-        "tags": [
-            "instanoticias",
-            "crianza",
-            "china",
-            "vuelo china",
-            "encierro bebé"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/30/pasajeras-encierran-bebe-lloraba-en-bano-de-avion-china-trax/",
-        "date": "2024-08-30 13:54:31",
-        "sentiment_score": -0.8993777800351381
-    },
-    {
-        "title": "Resultados de las elecciones de Venezuela, en vivo: última hora de Edmundo González, Maduro y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/edmundo-gonzalez-venezuela-GettyImages-2152501227-e1724725874930.jpg?quality=100&strip=info",
-        "tags": [
-            "instanoticias",
-            "minuto a minuto",
-            "elecciones en venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/08/30/resultados-de-las-elecciones-de-venezuela-en-vivo-ultima-hora-de-edmundo-gonzalez-maduro-orix/",
-        "date": "2024-08-30 13:20:16",
-        "sentiment_score": -0.40201302617788315
-    },
-    {
         "title": "Hong Kong sigue perdiendo libertades con la primera condena a dos periodistas por sedición",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/08/30/ChungPui-kuen-RnWmyS0jNZUotCJxSBFAYcO-758x531@diario_abc.jpg",
         "tags": [
@@ -261,56 +223,6 @@ export default [
         "link": "https://www.abc.es/internacional/lula-silva-reconoce-victoria-maduro-pese-decision-20240830161829-nt.html",
         "date": "2024-08-30 14:18:29",
         "sentiment_score": -0.05185982584953308
-    },
-    {
-        "title": "Un piloto ucraniano muere tras estrellarse un caza F-16 entregado por Occidente",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/08/30/F16UKRAINE-RUeYxGMEHYxXOBr0ajDav6N-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/piloto-ucraniano-muere-tras-estrellarse-caza-f16-20240830155552-nt.html",
-        "date": "2024-08-30 13:55:53",
-        "sentiment_score": -0.11768090724945068
-    },
-    {
-        "title": "Ryanair recurrirá la subida de tasas de Aena y amenaza con llevarse más aviones a Italia y Marruecos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/30/1485451205-RmeU7qst5yp7YKueJhPEf6O-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ryanair-recurrira-subida-tasas-aena-amenaza-llevarse-20240830140916-nt.html",
-        "date": "2024-08-30 12:27:24",
-        "sentiment_score": -0.10155262053012848
-    },
-    {
-        "title": "Becton Dickinson da marcha atrás y rechaza instalar su fábrica de jeringuillas en Zaragoza",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/08/30/Becton-Dickinson-ku-U603008603929NRG-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/becton-dickinson-marcha-atras-rechaza-instalar-fabrica-20240830141728-nt.html",
-        "date": "2024-08-30 12:18:41",
-        "sentiment_score": -0.027775317430496216
-    },
-    {
-        "title": "Jugamos a 'Star Wars Outlaws': un viaje galáctico con la reencarnación de Han Solo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/08/29/star-wars-RC1lGJFOL2sXhsfQDn7bZIM-758x531@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/jugamos-star-wars-outlaws-viaje-galactico-reencarnacion-20240829183804-nt.html",
-        "date": "2024-08-30 11:45:32",
-        "sentiment_score": -0.02189040184020996
-    },
-    {
-        "title": "El precio de luz se dispara por encima de los 100 euros, máximos de 2024",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/08/30/precioluz-Rzhb6Jjqy2xSNRHbPX5URxI-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/precio-luz-dispara-encima-100-euros-maximos-20240830125338-nt.html",
-        "date": "2024-08-30 10:53:39",
-        "sentiment_score": -0.1234186440706253
     },
     {
         "title": "Una niña castellera, en estado grave tras una caída en la Diada de Sant Fèlix de Vilafranca",
@@ -413,57 +325,6 @@ export default [
         "link": "https://elpais.com/espana/2024-08-30/el-presidente-del-principado-plantara-al-arzobispo-de-oviedo-en-la-tradicional-misa-del-dia-de-asturias.html",
         "date": "2024-08-30 14:33:29",
         "sentiment_score": -0.9113969085738063
-    },
-    {
-        "title": "Daniel Sancho será trasladado a la cárcel de Surat Tani tras recibir la condena a cadena perpetua",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TPWWI6TNP64G4UXZ3RA2457GFQ.jpg?auth=9ce5f65d261a5627a6ff052b299b1cbc805d1587500c9b2c719dc6f4ee7074d4",
-        "tags": [
-            "juicios",
-            "sentencias",
-            "daniel sancho",
-            "prisiones",
-            "pena muerte",
-            "tribunales",
-            "españa",
-            "cadena perpetua",
-            "rodolfo sancho",
-            "asesinatos",
-            "tailandia"
-        ],
-        "link": "https://elpais.com/espana/2024-08-30/daniel-sancho-sera-trasladado-a-la-carcel-de-surat-tani-tras-recibir-la-condena-a-cadena-perpetua.html",
-        "date": "2024-08-30 11:27:17",
-        "sentiment_score": 0.015922661870718002
-    },
-    {
-        "title": "España realizó más de 2.500 deportaciones de migrantes a principios de año, el quinto país de la UE con más expulsiones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VCEG6AI6IFFDCHL6I37AKIX4K4.jpg?auth=9c7070f502a154001cee892ec8061c13afa346f0212a58638feb035cd4c71c2d",
-        "tags": [
-            "pedro sánchez",
-            "inmigración",
-            "españa",
-            "inmigración irregular",
-            "inmigración irregular españa"
-        ],
-        "link": "https://elpais.com/espana/2024-08-30/espana-realizo-mas-de-2500-deportaciones-de-migrantes-a-principios-de-ano-el-quinto-pais-de-la-ue-con-mas-expulsiones.html",
-        "date": "2024-08-30 10:38:37",
-        "sentiment_score": -0.8381081549450755
-    },
-    {
-        "title": "Valencia abrirá unos 20 museos y edificios singulares de forma virtual al público",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/P7UFLA46TRIB26DYKA7WW2RNCE.jpg?auth=b51ae6638cb5f1bfa3043f90a5c6f0b0aa0afe87faad1221bac37310841600bd",
-        "tags": [
-            "tecnología digital",
-            "comunidad valenciana",
-            "valencia",
-            "museos",
-            "museos públicos",
-            "licitaciones",
-            "cultura",
-            "ayuntamiento valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-30/valencia-abrira-unos-20-museos-y-edificios-singulares-de-forma-virtual-al-publico.html",
-        "date": "2024-08-30 10:34:54",
-        "sentiment_score": 0.37544720247387886
     },
     {
         "title": "Quinto peor arranque de Liga del Real Madrid en el Siglo XXI; segundo de Ancelotti",
@@ -6538,5 +6399,406 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/business/20240903/los-de-presunta-despacho-benedito-quien-mentiroso/882911796_0.html",
         "date": "2024-09-02 22:00:00",
         "sentiment_score": -0.49654486030340195
+    },
+    {
+        "title": "Málaga: la predicción del tiempo para este 3 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/CQX3CW4Y5FFJHPRXAPJJ3UMTWE.jpg?auth=8bb646ea9fe0ae843beab0fddd3565f57ed13dc6f9d7a9774e64f89c75df99e1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/03/malaga-la-prediccion-del-tiempo-para-este-3-de-septiembre/",
+        "date": "2024-09-03 02:02:02",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Madrid este 3 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/QTMJ7HCD6RA5TM6NWJM66CNL4E.jpg?auth=a02ffe0b469cafc09bdd32b1cef2d045c80bf229af122a5b571084e257b2ec74",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/03/clima-hoy-en-espana-temperaturas-para-madrid-este-3-de-septiembre/",
+        "date": "2024-09-03 01:31:24",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Clima en España: la previsión meteorológica para Barcelona este 3 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/UEWY7PNFTZFAVCNEIZR4KBNQGA.jpg?auth=f339a9a00b21bdd472c6acbdd3ad0662c6888b3fb327e1962005b243966fe64a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/03/clima-en-espana-la-prevision-meteorologica-para-barcelona-este-3-de-septiembre/",
+        "date": "2024-09-03 01:01:02",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Condenado a 19 años de prisión un hombre por retener y agredir sexualmente a su pareja en una lonja de Vitoria",
+        "image_url": "./assets/ai_generated/v1_txt2img_cbcb27188ed64c24bded120b2d3521f1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/03/condenado-a-19-anos-de-prision-un-hombre-por-retener-y-agredir-sexualmente-a-su-pareja-en-una-lonja-de-vitoria/",
+        "date": "2024-09-03 00:08:05",
+        "sentiment_score": -0.8551378399133682
+    },
+    {
+        "title": "Estos son los resultados ganadores de la Quiniela de la jornada 4",
+        "image_url": "https://www.infobae.com/resizer/v2/QNV33F5BXZHOXCAGEQOYM4XG4A.jpg?auth=3b9032461af6ff0ff107787a25b5e73a7fe24ad40dac3dbd928fe7c4109dff02",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/02/estos-son-los-resultados-ganadores-de-la-quiniela-de-la-jornada-4/",
+        "date": "2024-09-02 23:15:27",
+        "sentiment_score": 0.02552057057619095
+    },
+    {
+        "title": "Illa reclama un debate \"reposado y racional\" sobre la financiación singular para Cataluña",
+        "image_url": "https://www.infobae.com/resizer/v2/T5K4Y6ZO4BFMNGTMBVWV7NCFAE.jpg?auth=b91843b0b7a46eb610d8a8f2a6c56e80574d343c065cfa7419bf018741287fe9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/illa-reclama-un-debate-reposado-y-racional-sobre-la-financiacion-singular-para-cataluna/",
+        "date": "2024-09-02 23:03:31",
+        "sentiment_score": 0.05333073437213898
+    },
+    {
+        "title": "Localizan el cuerpo sin vida de un hombre desaparecido este lunes en Santiago",
+        "image_url": "./assets/ai_generated/v1_txt2img_19ef38b9288943869cf38fe3e8878a29.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/localizan-el-cuerpo-sin-vida-de-un-hombre-desaparecido-este-lunes-en-santiago/",
+        "date": "2024-09-02 22:20:47",
+        "sentiment_score": -0.557215241715312
+    },
+    {
+        "title": "Hoy será noticia. Martes, 3 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_7f09ba184560452aae37400aeb3c0175.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/hoy-sera-noticia-martes-3-de-septiembre-de-2024/",
+        "date": "2024-09-02 22:20:30",
+        "sentiment_score": 0.022254832088947296
+    },
+    {
+        "title": "Illa planteará este martes reactivar la mesa técnica de ampliación del Aeropuerto de El Prat",
+        "image_url": "https://www.infobae.com/resizer/v2/HUYBO6DEEZGS3AFNGRYZE5LHDM.jpg?auth=a8e81c993a248c04b3387f15686e3461abcd2427e2c6bf1cdd7b7fb71f1a4ca3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/illa-planteara-este-martes-reactivar-la-mesa-tecnica-de-ampliacion-del-aeropuerto-de-el-prat/",
+        "date": "2024-09-02 22:19:17",
+        "sentiment_score": 0.19193587079644203
+    },
+    {
+        "title": "Illa cree que los jueces deben aplicar la Ley de Amnistía \"de forma ágil y sin subterfugios\"",
+        "image_url": "https://www.infobae.com/resizer/v2/R5WUVWGWR5HIXP66LX2OXXTNQM.jpg?auth=b6ec649a4c8974037d27c6ce3262d2288638572dca6191203b4b208ebd263aeb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/illa-cree-que-los-jueces-deben-aplicar-la-ley-de-amnistia-de-forma-agil-y-sin-subterfugios/",
+        "date": "2024-09-02 22:19:05",
+        "sentiment_score": -0.16802670061588287
+    },
+    {
+        "title": "Baltimore se suma a la huelga de trabajadores hoteleros en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2169322334.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress",
+            "economía"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/huelga-trabajadores-hoteleros-estados-unidos-panorama-tv-fast/",
+        "date": "2024-09-03 02:11:25",
+        "sentiment_score": -0.1891573816537857
+    },
+    {
+        "title": "Organizaciones no gubernamentales denuncian aumento de muertes de personas sin hogar",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1182138057.jpg?quality=100&strip=info",
+        "tags": [
+            "javier milei",
+            "economía argentina",
+            "indigentes",
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/personas-sin-hogar-muertes-aumento-argentina-milei-pobreza-conclusiones-tv/",
+        "date": "2024-09-03 02:06:54",
+        "sentiment_score": -0.6547682899981737
+    },
+    {
+        "title": "Derrotar a Hamas y liberar a los rehenes son \"objetivos incompatibles\", dice experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169368751.jpg?quality=100&strip=info",
+        "tags": [
+            "rehenes",
+            "guerra isael hamas",
+            "israel",
+            "benjamin netanyahu"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-guerra-presion-interna-internacional-apoyo-netanyahu-conclusiones-tv/",
+        "date": "2024-09-03 02:01:34",
+        "sentiment_score": -0.8008163087069988
+    },
+    {
+        "title": "Diego Valadés lamenta que López Obrador “descienda” a nivel de ataque personal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/sequence-04-00-00-15-16-still039.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "reforma judicial",
+            "cámara de diputados",
+            "amlo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-judicial-diego-valades-respuesta-amlo-aristegui-tv/",
+        "date": "2024-09-03 01:56:22",
+        "sentiment_score": -0.724491324275732
+    },
+    {
+        "title": "Nunca un presidente había tenido “concentración máxima de poder”, dice experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169758904.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "reforma judicial",
+            "amlo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-judicial-discusion-congreso-diputados-riesgos-aristegui-tv/",
+        "date": "2024-09-03 01:54:01",
+        "sentiment_score": -0.23558609187602997
+    },
+    {
+        "title": "\"Es una situación muy grave\": Volkswagen podría cerrar plantas en Alemania por primera vez en la historia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2079405608.webp",
+        "tags": [
+            "volkswagen",
+            "instanoticias",
+            "empresas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/02/volkswagen-cerrar-plantas-alemania-trax/",
+        "date": "2024-09-03 01:22:26",
+        "sentiment_score": -0.39768126606941223
+    },
+    {
+        "title": "Papa Francisco inicia en Asia la gira más larga de su pontificado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/pope-asia.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francisco-inicia-gira-asia-panorama-mundial-tv/",
+        "date": "2024-09-03 01:15:49",
+        "sentiment_score": 0.26420289278030396
+    },
+    {
+        "title": "Protestas en Israel buscan presionar a Netanyahu a cerrar acuerdo sobre Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169208084_0767aa.jpg?quality=100&strip=info",
+        "tags": [
+            "benjamin netanyahu",
+            "medio oriente",
+            "israel gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-israel-tel-aviv-presion-netanyahu-acuerdo-gaza-panorama-mundial-tv/",
+        "date": "2024-09-03 01:03:57",
+        "sentiment_score": -0.7054804489016533
+    },
+    {
+        "title": "Así suena la mezcla de bolero y hip hop que propone un joven músico de origen mexicano en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/thumb-bolero.jpg?quality=100&strip=info",
+        "tags": [
+            "música",
+            "hip hop",
+            "noticias de ee.uu.",
+            "boleros",
+            "latinos en ee.uu.",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bolero-hip-hop-musica-mezcla-ush-orix/",
+        "date": "2024-09-03 00:17:42",
+        "sentiment_score": 0.10166287422180176
+    },
+    {
+        "title": "Así va la actividad política de Harris y Trump a 64 días de las elecciones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/still-20904303-15533-194-still-20240902235740056.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "noticias de donald trump",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/harris-trump-elecciones-eu-dusa-tv/",
+        "date": "2024-09-02 23:58:17",
+        "sentiment_score": -0.4509974271059036
+    },
+    {
+        "title": "Los dictadores deberían temer a la IA",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/03/240903TerceraHariri-RLkjQ9MKMvG7mBUO9Y87PMM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/yuval-noah-harari-dictadores-deberian-temer-ia-20240903181511-nt.html",
+        "date": "2024-09-02 23:50:18",
+        "sentiment_score": -0.14126695692539215
+    },
+    {
+        "title": "Sánchez y la pulsión iliberal",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/03/PSanchez-RR5E7ZfwZFUQ9KA3iNiBCEN-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sanchez-pulsion-iliberal-20240903195841-nt.html",
+        "date": "2024-09-02 23:42:48",
+        "sentiment_score": -0.13909801840782166
+    },
+    {
+        "title": "Pescaderías Coruñesas reina en la Milla de Oro de Madrid con un hotel de 35 M€",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/02/66d5f89dc47be.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/240903/1608813/pescaderias-corunesas-reina-milla-oro-madrid-hotel-35-m.html",
+        "date": "2024-09-03 01:30:00",
+        "sentiment_score": 0.4710196666419506
+    },
+    {
+        "title": "Jonás Trueba presenta el jueves en el Musac la recién estrenada ‘Volveréis’",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/02/66d5fa1d1fe33.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240903/1608824/jonas-trueba-presenta-jueves-musac-recien-estrenada-volvereis.html",
+        "date": "2024-09-03 01:30:00",
+        "sentiment_score": 0.21945889294147491
+    },
+    {
+        "title": "El Albéitar acoge la propuesta de Luz Prado y Wade Matthews el día 10",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/02/66d5f7df509d4.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240903/1608807/albeitar-acoge-propuesta-luz-prado-wade-matthews-dia-10.html",
+        "date": "2024-09-03 01:30:00",
+        "sentiment_score": 0.11734897643327713
+    },
+    {
+        "title": "El giro radical de Alice Campello en el verano en que todo cambió",
+        "image_url": "https://www.hola.com/horizon/landscape/439cfbfbc74c-di-ieri-sera.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/actualidad/20240903713708/alice-campello-cambio-radical-verano/",
+        "date": "2024-09-03 00:44:00",
+        "sentiment_score": -0.4021459370851517
+    },
+    {
+        "title": "Mediapro ampliará su presencia en Estados Unidos con un nuevo centro de producción en Nueva York",
+        "image_url": "https://s1.elespanol.com/2024/09/02/invertia/medios/882922306_248872579_1706x960.jpg?contentId=ESPIMA20240902_0607",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20240903/mediapro-ampliara-presencia-unidos-nuevo-centro-produccion-nueva-york/882912052_0.html",
+        "date": "2024-09-03 00:22:36",
+        "sentiment_score": 0.7178248055279255
+    },
+    {
+        "title": "Enganche y derechazo desde 30 metros al ángulo: el golazo de la argentina Kishi Núñez contra Corea del Norte en el Mundial Femenino Sub 20",
+        "image_url": "https://www.infobae.com/resizer/v2/BAHV5N5RPJCNNBXCMCXOPHV5TI.jpg?auth=3b0f9f27893f3edb605088503745242052337b78f71d432a4c14f905b59ad17f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/02/enganche-y-derechazo-desde-30-metros-al-angulo-el-golazo-de-la-argentina-kishi-nunez-contra-corea-del-norte-en-el-mundial-femenino-sub-20/",
+        "date": "2024-09-02 23:40:54",
+        "sentiment_score": -0.39923326671123505
+    },
+    {
+        "title": "El defensa español Mario Hermoso ficha por la Roma italiana",
+        "image_url": "https://www.infobae.com/resizer/v2/3375DXFVE5FDZLDZYQSQZI7CPI.jpg?auth=c14565ca0b342db95165473abf465dd0d49f64233456bff426d9141e509f9329",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/02/el-defensa-espanol-mario-hermoso-ficha-por-la-roma-italiana/",
+        "date": "2024-09-02 23:03:19",
+        "sentiment_score": 0.8372269235551357
+    },
+    {
+        "title": "Una tesis pionera le da al azabache valor arqueológico en la península Ibérica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/41729ad5-a381-459a-9608-15b384a9472e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/siero/2024/09/03/tesis-pionera-le-da-azabache-107682283.html",
+        "date": "2024-09-03 02:10:00",
+        "sentiment_score": -0.0886722207069397
+    },
+    {
+        "title": "Illa desbloquea la comisión técnica sobre El Prat y garantiza \"el máximo rigor ambiental\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/09/03/illa-en-tv3.png",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.20minutos.es/noticia/5629963/0/aeropuerto-barcelona-actualizacion-illa-desbloquea-comision-tecnica-sobre-prat-garantiza-maximo-rigor-ambiental/",
+        "date": "2024-09-03 01:44:39",
+        "sentiment_score": -0.06333401799201965
+    },
+    {
+        "title": "El cupo catalán y los sindicatos",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/03/SANCHEZ-MONTERO-0703.jpg",
+        "tags": [
+            "generalitat",
+            "empresas",
+            "impuestos",
+            "sindicatos",
+            "unión europea",
+            "cataluña",
+            "opinión",
+            "financiación autonómica"
+        ],
+        "link": "https://theobjective.com/elsubjetivo/opinion/2024-09-03/el-cupo-catalan-y-los-sindicatos/",
+        "date": "2024-09-03 01:30:00",
+        "sentiment_score": -0.8716064756736159
+    },
+    {
+        "title": "Mismo cable, otro vehículo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/02/66d5f95e858f5.jpeg",
+        "tags": [
+            "innova"
+        ],
+        "link": "https://www.diariodeleon.es/monograficos/innova/240903/1608818/cable-coche.html",
+        "date": "2024-09-03 01:30:00",
+        "sentiment_score": 0.6101413164287806
+    },
+    {
+        "title": "El adiós de Luis Suárez: Diez partidos del goleador histórico con la Celeste",
+        "image_url": "./assets/ai_generated/v1_txt2img_3379bd9e451d4386a381d79c90a5bbe6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/03/el-adios-de-luis-suarez-diez-partidos-del-goleador-historico-con-la-celeste/",
+        "date": "2024-09-03 00:45:35",
+        "sentiment_score": -0.31551995128393173
+    },
+    {
+        "title": "El exentrenador de San Lorenzo Rubén Insúa llega a Barracas Central a dirigir a su hijo",
+        "image_url": "./assets/ai_generated/v1_txt2img_52a6bb5ce51f45b2965d05396acd6130.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/03/el-exentrenador-de-san-lorenzo-ruben-insua-llega-a-barracas-central-a-dirigir-a-su-hijo/",
+        "date": "2024-09-03 00:45:18",
+        "sentiment_score": -0.2251569889485836
+    },
+    {
+        "title": "Dime en qué trabajas y te diré cuánto vivirás: \"Alargar la jubilación de un camarero es peligroso\"",
+        "image_url": "https://s1.elespanol.com/2024/09/02/reportajes/882922513_248878944_1706x960.png?contentId=ESPIMA20240902_0814",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240903/dime-trabajas-dire-viviras-alargar-jubilacion-camarero-peligroso/881912024_0.html",
+        "date": "2024-09-03 00:41:22",
+        "sentiment_score": -0.03892989456653595
+    },
+    {
+        "title": "Las preguntas que deberá contestar Laporta tras un mercado de fichajes fatal",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/03/27/culemania/palco/843175896_12692554_1706x960.jpg?contentId=ESPIMA20240327_0222",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240903/las-preguntas-debera-contestar-laporta-mercado-fichajes/883161676_0.html",
+        "date": "2024-09-03 00:38:25",
+        "sentiment_score": -0.01804262399673462
     }
 ];
