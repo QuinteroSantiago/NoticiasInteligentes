@@ -313,16 +313,6 @@ export default [
         "sentiment_score": -0.1234186440706253
     },
     {
-        "title": "Alemania paga mil euros a 28 criminales afganos por dejarse deportar",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/30/nancypfeizer-RV6MQi4DSSPrPmO8Vk8O5cL-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/alemania-paga-mil-euros-criminales-afganos-dejarse-20240830115759-nt.html",
-        "date": "2024-08-30 10:01:07",
-        "sentiment_score": -0.2582692354917526
-    },
-    {
         "title": "Una niña castellera, en estado grave tras una caída en la Diada de Sant Fèlix de Vilafranca",
         "image_url": "https://imagenes.elpais.com/resizer/v2/RVZASYJ7R5HHDIRD6YD23VKQMA.jpg?auth=d0f2daabce7d29402d56b57062f66815fd12e954b7b6398af793514f4bc15f78",
         "tags": [
@@ -474,18 +464,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2024-08-30/valencia-abrira-unos-20-museos-y-edificios-singulares-de-forma-virtual-al-publico.html",
         "date": "2024-08-30 10:34:54",
         "sentiment_score": 0.37544720247387886
-    },
-    {
-        "title": "El exjefe de los Mossos, Eduard Sallent, será responsable de la región metropolitana sur",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IIBGWFZEQ5EJFGQTJVWM3KB644.jpg?auth=7d1be60aea0227bf05404defbe4e0555b6deffb167c7e9b629e1033d8f2bd745",
-        "tags": [
-            "mossos d'esquadra",
-            "cataluña",
-            "josep lluís trapero"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-08-30/el-exjefe-de-los-mossos-eduard-sallent-sera-responsable-de-la-region-metropolitana-sur.html",
-        "date": "2024-08-30 08:45:30",
-        "sentiment_score": -0.18865153193473816
     },
     {
         "title": "Quinto peor arranque de Liga del Real Madrid en el Siglo XXI; segundo de Ancelotti",
@@ -5943,5 +5921,622 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240902/esta-es-la-fecha-en-que-cae-merce-este-septiembre-barcelona-cuantos-dias-de-fiesta/882911793_0.html",
         "date": "2024-09-02 16:53:39",
         "sentiment_score": 0.696039404720068
+    },
+    {
+        "title": "Sumar exige explicaciones al Ministerio del Interior por la infiltración de policías en colectivos sociales",
+        "image_url": "https://www.infobae.com/resizer/v2/AU6V4RGGBZCKHKDNVT66ZTD6V4.jpg?auth=f4bc99e5a055107823e61ab9defa4a1200593c1109efb7ec4a42bffa5dc8c6dc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/sumar-exige-explicaciones-al-ministerio-del-interior-por-la-infiltracion-de-policias-en-colectivos-sociales/",
+        "date": "2024-09-02 21:50:35",
+        "sentiment_score": -0.7671638056635857
+    },
+    {
+        "title": "Sanz cree \"un intento desesperado\" de Sánchez por \"recuperar\" Andalucía traer a Sevilla el congreso federal del PSOE",
+        "image_url": "https://www.infobae.com/resizer/v2/YF45QEMI45AKXP5GOUXSQACXPY.jpg?auth=1d257dde678f682f6775be0379ee9fadaaeaebab38ce0ffb978d5e0eade0689d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/sanz-cree-un-intento-desesperado-de-sanchez-por-recuperar-andalucia-traer-a-sevilla-el-congreso-federal-del-psoe/",
+        "date": "2024-09-02 21:50:23",
+        "sentiment_score": -0.6284259557723999
+    },
+    {
+        "title": "El PSOE cambia por motivos logísticos las fechas de su congreso federal que será el fin de semana del 30 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/A47PQLUZCVCRDHW5BOQYBEKGCM.jpg?auth=72e59ae9aec17bcd10c43c3755b14e1f856b077ec4da30da629fcd248354bb2f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/el-psoe-cambia-por-motivos-logisticos-las-fechas-de-su-congreso-federal-que-sera-el-fin-de-semana-del-30-de-noviembre/",
+        "date": "2024-09-02 21:50:11",
+        "sentiment_score": -0.10201272740960121
+    },
+    {
+        "title": "Podemos ve una \"amenaza\" el anuncio de Clavijo contra el Estado por inmigración: \"Debe encontrarnos a todas enfrente\"",
+        "image_url": "https://www.infobae.com/resizer/v2/WMCBWSYUZRHFNLJJK2TLMNFRU4.jpg?auth=51b413c1875d030eda74dc2aae621b7c87ab3d3199b1cdd5386c2e7f01ae19e1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/podemos-ve-una-amenaza-el-anuncio-de-clavijo-contra-el-estado-por-inmigracion-debe-encontrarnos-a-todas-enfrente/",
+        "date": "2024-09-02 21:49:59",
+        "sentiment_score": -0.9037946751341224
+    },
+    {
+        "title": "De Andrés denuncia que en Euskadi se \"acose\" a ertzainas y a miembros del PP mientras el PNV \"finge que no pasa nada\"",
+        "image_url": "https://www.infobae.com/resizer/v2/BSVG3OGKWZE7BBZ2VPLHWMBK4A.jpg?auth=fe84f61b688a76a09c1cd6350c2f8c52100547b03caca4d46c485655a525f27b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/de-andres-denuncia-que-en-euskadi-se-acose-a-ertzainas-y-a-miembros-del-pp-mientras-el-pnv-finge-que-no-pasa-nada/",
+        "date": "2024-09-02 21:49:47",
+        "sentiment_score": -0.805616557598114
+    },
+    {
+        "title": "El CGPJ acuerda ampliar el número de candidatos para tratar de llegar a un acuerdo y se cita mañana a las 10.00",
+        "image_url": "https://www.infobae.com/resizer/v2/76A2Y4TDAVERZOQZUYULHNGBOU.jpg?auth=da328533a4928bb096e6d26a5c989cefb0b7a96cd3b4933d4ae864fb1ff1cd0e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/el-cgpj-acuerda-ampliar-el-numero-de-candidatos-para-tratar-de-llegar-a-un-acuerdo-y-se-cita-manana-a-las-1000/",
+        "date": "2024-09-02 21:49:33",
+        "sentiment_score": 0.08622229099273682
+    },
+    {
+        "title": "La Ejecutiva de ERC ratifica que el Congreso republicano se celebre el 30 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/NXVVPLYKHJGFPJUETVFN3YTXFA.jpg?auth=a4852e13adda6d055830a4f61034a0cf794c0d516357141ff8dd111a680a32d4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/la-ejecutiva-de-erc-ratifica-que-el-congreso-republicano-se-celebre-el-30-de-noviembre/",
+        "date": "2024-09-02 21:49:22",
+        "sentiment_score": 0.14479387179017067
+    },
+    {
+        "title": "Illa convocará este martes la comisión técnica de ampliación del Aeropuerto de El Prat",
+        "image_url": "https://www.infobae.com/resizer/v2/IIXZFDGATJEJZIOFIMPQNS376M.jpg?auth=69b3965ba27879b2227fc6e1bdb89c7c40fe23663a84b20444291f4f6fabb87b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/illa-convocara-este-martes-la-comision-tecnica-de-ampliacion-del-aeropuerto-de-el-prat/",
+        "date": "2024-09-02 21:49:10",
+        "sentiment_score": 0.06621072441339493
+    },
+    {
+        "title": "Álvaro del Amo cierra un gran día para España en París con el bronce en peso F11",
+        "image_url": "https://www.infobae.com/resizer/v2/2ROZ2BMNRFCNFINPUCZIGYBFLM.jpg?auth=62b6d855f2c40bfec73e7be93e08305802663fc128a76f3999262c0ffec99ae0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/02/alvaro-del-amo-cierra-un-gran-dia-para-espana-en-paris-con-el-bronce-en-peso-f11/",
+        "date": "2024-09-02 21:48:47",
+        "sentiment_score": 0.8636799324303865
+    },
+    {
+        "title": "3-1. El Elche recupera la sonrisa ante un Córdoba inofensivo",
+        "image_url": "./assets/ai_generated/v1_txt2img_6e791ebf0de84a78932210a9145e1834.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/02/3-1-el-elche-recupera-la-sonrisa-ante-un-cordoba-inofensivo/",
+        "date": "2024-09-02 21:47:06",
+        "sentiment_score": 0.3328883945941925
+    },
+    {
+        "title": "La Fiscalía de Venezuela solicita orden de arresto contra Edmundo González",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/gettyimages-2153695130_9da113.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/02/orden-arresto-edmundo-gonzalez-orix/",
+        "date": "2024-09-02 22:06:29",
+        "sentiment_score": -0.26719845831394196
+    },
+    {
+        "title": "¿Pagar el alto costo de la comida orgánica vale la pena?",
+        "image_url": "./assets/ai_generated/v1_txt2img_39c6ecd4f904444b80af63c8e1929ee9.png",
+        "tags": [
+            "fast – news variety",
+            "video digitales",
+            "alimentación",
+            "xpress",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/comprar-comida-organica-vale-la-pena-minuto-de-salud-fast/",
+        "date": "2024-09-02 21:40:31",
+        "sentiment_score": 0.13596245646476746
+    },
+    {
+        "title": "¿Qué tan grande es la mayor base militar estadounidense en el extranjero?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/base-militar-us-trax.jpg?quality=100&strip=info",
+        "tags": [
+            "corea",
+            "ejército de estados unidos",
+            "base militar",
+            "corea del sur"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/base-militar-mas-grande-estados-unidos-trax/",
+        "date": "2024-09-02 21:32:35",
+        "sentiment_score": -0.18293457478284836
+    },
+    {
+        "title": "La pobreza es tan grave en Myanmar que la gente se ofrece a vender sus riñones por Internet",
+        "image_url": "./assets/ai_generated/v1_txt2img_9bc987156a59482080d961d10f03847f.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venta-rinones-myanmar-pobreza-trax/",
+        "date": "2024-09-02 21:18:16",
+        "sentiment_score": -0.8509276043623686
+    },
+    {
+        "title": "Volkswagen podría cerrar fábricas en Alemania para reducir costos",
+        "image_url": "./assets/ai_generated/v1_txt2img_0c0b18e46b2943679dec6e75d5611153.png",
+        "tags": [
+            "autos",
+            "alemania",
+            "volkswagen"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/volskwagen-alemania-planea-cerrar-fabricas-costos-economia-cnn-dinero-tv/",
+        "date": "2024-09-02 21:09:55",
+        "sentiment_score": 0.4506634436547756
+    },
+    {
+        "title": "Empleados de Boeing podrían comenzar una huelga. Esta es la razón",
+        "image_url": "./assets/ai_generated/v1_txt2img_b63fcf66239c49a9b457b6082e972dcb.png",
+        "tags": [
+            "boeing"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/boeing-trabajadores-huelga-salarios-negociacion-cnn-dinero-tv/",
+        "date": "2024-09-02 20:54:03",
+        "sentiment_score": -0.6897427253425121
+    },
+    {
+        "title": "Miles de trabajadores de hoteles se declaran en huelga tras fracaso de negociaciones en EE.UU.",
+        "image_url": "./assets/ai_generated/v1_txt2img_337e147a824d4e71978373918dfb6379.png",
+        "tags": [
+            "eeuu",
+            "xpress",
+            "fast – news variety",
+            "ee.uu.",
+            "hoteles"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-empleados-hoteles-huelga-fracaso-negociaciones-salarios-cnn-dinero-tv/",
+        "date": "2024-09-02 20:49:02",
+        "sentiment_score": -0.8345849402248859
+    },
+    {
+        "title": "Disney retira ABC, ESPN y otros canales de DirecTV",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2147729848-20240902204302841.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-disney-retira-programacion-abc-espn-directv-cnn-dinero-tv/",
+        "date": "2024-09-02 20:43:53",
+        "sentiment_score": -0.7870826069265604
+    },
+    {
+        "title": "Fiscalía Argentina autoriza la salida del país de los dos jugadores de rugby franceses acusados de violación",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/rugby-rugbiers-francia.jpg?quality=100&strip=info",
+        "tags": [
+            "rugby",
+            "argentina",
+            "violación"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/02/fiscalia-argentina-autoriza-salida-jugadores-rugby-franceses-acusados-violacion-orix/",
+        "date": "2024-09-02 20:39:49",
+        "sentiment_score": -0.7833558833226562
+    },
+    {
+        "title": "Así quedó el autobús que se accidentó en Mississippi y dejó siete muertos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/video1483342864-00-02-26-02-imagen-fija052.jpg?quality=100&strip=info",
+        "tags": [
+            "accidente",
+            "noticias de ee.uu.",
+            "estados unidos noticias",
+            "noticias de méxico",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mississipi-bus-choque-mexicanos-muertos-ush-orix/",
+        "date": "2024-09-02 20:21:04",
+        "sentiment_score": -0.8317394917830825
+    },
+    {
+        "title": "Los ratones con alzhéimer desarrollan menos tumores colorrectales",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/09/02/raton-joven--758x531.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/ratones-alzheimer-desarrollan-tumores-colorrectales-20240902210000-nt.html",
+        "date": "2024-09-02 22:07:14",
+        "sentiment_score": -0.1137782633304596
+    },
+    {
+        "title": "Los zapatos de la pelota verde",
+        "image_url": "./assets/ai_generated/v1_txt2img_9396d0ae71914464b6ccdaaae540f1f4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-zapatos-pelota-verde-20240903204622-nts.html",
+        "date": "2024-09-02 19:57:52",
+        "sentiment_score": -0.1576126664876938
+    },
+    {
+        "title": "Ultras e inmigrantes",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/03/1485614508-U31702855321aGZ-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-ultras-inmigrantes-20240903202931-nt.html",
+        "date": "2024-09-02 18:29:36",
+        "sentiment_score": -0.7338778898119926
+    },
+    {
+        "title": "La 'coalición semáforo' de Scholz se acerca al colapso",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/02/scholz-RpJcm8sVLsfoLncQTcYbtAO-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/coalicion-semaforo-scholz-acerca-colapso-20240902201704-nt.html",
+        "date": "2024-09-02 18:25:52",
+        "sentiment_score": -0.09860458970069885
+    },
+    {
+        "title": "Bélgica completa la lista de comisarios sin resolver su crisis",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/02/ministrabelga-RYL0u2a5DFqLpZm2IgcQYUM-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/belgica-completa-lista-comisarios-resolver-crisis-20240902201401-nt.html",
+        "date": "2024-09-02 18:14:02",
+        "sentiment_score": -0.09783753752708435
+    },
+    {
+        "title": "El avión de los chinos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/03/articulo-turista-chino-RH6LnidkgCHwDvgspBYOm3O-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-avion-chinos-20240903200800-nts.html",
+        "date": "2024-09-02 18:08:00",
+        "sentiment_score": -0.10756427049636841
+    },
+    {
+        "title": "Sánchez y la pulsión liberal",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/03/Ejecutiva-RppHDe0ui7nJXAGWtQ6TplI-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-sanchez-pulsion-liberal-20240903195819-nt.html",
+        "date": "2024-09-02 17:58:37",
+        "sentiment_score": -0.5254092290997505
+    },
+    {
+        "title": "Israel se paraliza para pedirle a Netanyahu que priorice la libertad de los rehenes",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/02/funeralhershgoldberg-RGahRXIOB25u1nkiTG7cnUJ-758x531@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/israel-paraliza-pedirle-netanyahu-priorice-libertad-rehenes-20240902190704-nt.html",
+        "date": "2024-09-02 17:52:11",
+        "sentiment_score": -0.031058669090270996
+    },
+    {
+        "title": "Fracaso postvacacional",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/03/1485618962-U25722463305GHl-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-fracaso-postvacacional-20240903194200-nt.html",
+        "date": "2024-09-02 17:42:07",
+        "sentiment_score": -0.2787904292345047
+    },
+    {
+        "title": "Hamás pone fecha y lema a su Congreso Federal",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/03/1485691798-U54327517046SsY-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-lillo-hamas-pone-fecha-lema-congreso-federal-20240903161822-nt.html",
+        "date": "2024-09-02 17:41:53",
+        "sentiment_score": -0.12543493509292603
+    },
+    {
+        "title": "Salvador Illa: “El acuerdo de financiación singular viene para quedarse”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VWYURYNZQAIMJV7TZEYQOTKH6M.jpg?auth=56c9a8932d75393b55ebaf6849e97f150a6c0e24598a440ab7f718fdd7b6ffdc",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-02/salvador-illa-el-acuerdo-de-financiacion-singular-viene-para-quedarse.html",
+        "date": "2024-09-02 21:46:40",
+        "sentiment_score": 0.28051596879959106
+    },
+    {
+        "title": "La juez abre juicio oral a Noelia Posse, exalcaldesa de Móstoles, por el ‘caso ITV’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JJ4VAJ3TFVJM6UOVQWESX3VM5I.jpg?auth=8bccb2939734f10b7897a167cff9b7aa5de2702a56f3f7ff2c7ee7e68180ccf7",
+        "tags": [
+            "móstoles",
+            "juan lobato",
+            "madrid",
+            "noelia posse",
+            "itv",
+            "manuela bergerot",
+            "más madrid",
+            "psoe",
+            "corrupción",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-09-02/la-juez-abre-juicio-oral-a-noelia-posse-exalcaldesa-de-mostoles-por-el-caso-itv.html",
+        "date": "2024-09-02 20:40:02",
+        "sentiment_score": -0.7749527804553509
+    },
+    {
+        "title": "El PP utiliza la homosexualidad del alcalde de Barcelona para pedir el veto de Casablanca como ciudad invitada a La Mercè",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/D6XFLK6AMJDPNFWUX5HKRZ2CKY.jpg?auth=8f2bb1d3bc971bb4df43b23b8cee7512d9de2e45a0f0cbcddb40d98cf52714dc",
+        "tags": [
+            "comunidad lgtbiq",
+            "derechos humanos",
+            "marruecos",
+            "fiestas locales",
+            "jaume collboni",
+            "barcelona",
+            "ayuntamiento barcelona",
+            "cataluña",
+            "la mercè",
+            "daniel sirera",
+            "casablanca",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-02/el-pp-utiliza-la-homosexualidad-del-alcalde-de-barcelona-para-pedir-el-veto-de-casablanca-como-ciudad-invitada-a-la-merce.html",
+        "date": "2024-09-02 20:34:41",
+        "sentiment_score": -0.7554938867688179
+    },
+    {
+        "title": "Fallece una turista al precipitarse de más de 30 metros en la zona del castillo de Tossa de Mar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KASNYIILURRTJTRC6IBNWCH7O4.jpg?auth=30e270cab866b1a4af0be8841b4b37a1f1d772149a5e7005d5783a627c59739f",
+        "tags": [
+            "cataluña",
+            "mossos d'esquadra",
+            "bomberos",
+            "turismo",
+            "sucesos",
+            "emergencias",
+            "girona",
+            "tossa de mar",
+            "accidentes"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-02/fallece-una-turista-al-precipitarse-de-mas-de-30-metros-en-la-zona-del-castillo-de-tossa-de-mar.html",
+        "date": "2024-09-02 19:56:12",
+        "sentiment_score": -0.005510888993740082
+    },
+    {
+        "title": "El Consejo General del Poder Judicial negocia contra el reloj la elección de su presidente al frustrarse de nuevo el acuerdo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/K6KDG7FOGZF73MQCSWC7TLBBDM.jpg?auth=768d574ef7ae55fd477559c8e1a8a9d5e3d9443eb1c356e5d8f86444aae9e428",
+        "tags": [
+            "jueces",
+            "españa",
+            "magistratura",
+            "poder judicial",
+            "cgpj",
+            "justicia",
+            "tribunales"
+        ],
+        "link": "https://elpais.com/espana/2024-09-02/el-poder-judicial-negocia-contra-el-reloj-la-eleccion-de-su-presidente-al-frustrarse-de-nuevo-el-acuerdo.html",
+        "date": "2024-09-02 19:46:17",
+        "sentiment_score": -0.2735270857810974
+    },
+    {
+        "title": "400 expertos mundiales en murciélagos convierten Tarragona en Gotham",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KLKVDXOY3RJPHLIVS4JVU73UJM.jpg?auth=38b57d5799f6c5f5a76ddea49a4f2cd71e23d014f147cbc8b24c575c28ef4d68",
+        "tags": [
+            "fauna",
+            "cataluña",
+            "ciencia",
+            "biología",
+            "congresos",
+            "mamíferos",
+            "tarragona",
+            "animales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-02/400-expertos-mundiales-en-murcielagos-convierten-tarragona-en-gotham.html",
+        "date": "2024-09-02 17:59:36",
+        "sentiment_score": 0.7662460301071405
+    },
+    {
+        "title": "Desalojan el parque acuático de Port Aventura por un incendio en un transformador",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/APDYVFEKTJO2J7KRTWAZJMFRM4.jpg?auth=2ced8c61a529f95792aad62b0b2fcb3608096fba36182c841926fff00a9f19a1",
+        "tags": [
+            "tarragona",
+            "port aventura",
+            "incendios",
+            "sucesos",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-02/desalojan-el-parque-acuatico-de-port-aventura-por-un-incendio-en-un-transformador.html",
+        "date": "2024-09-02 17:28:05",
+        "sentiment_score": -0.5004869997501373
+    },
+    {
+        "title": "«No soy especialmente duro, he tenido a jefes que lo son bastante más que yo»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/09/03/chicote-kp0-U2201130358253WKF-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/culturas/tv/especialmente-duro-jefes-bastante-20240903000211-ntrc.html",
+        "date": "2024-09-02 22:02:13",
+        "sentiment_score": 0.1720808744430542
+    },
+    {
+        "title": "¿Quiénes son los padres de Federico Valverde? Te contamos todo sobre su familia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/02/2024090211473889530.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/deportes/quienes-son-padres-federico-valverde-contamos-todo-familia/20240903000000835342.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": 0.85480522736907
+    },
+    {
+        "title": "El gran canciller Albares puso al revés la banda de la Orden de Isabel la Católica",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/02/2024090217304436303.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/politica/gran-canciller-albares-puso-reves-banda-orden-isabel-catolica/20240903000000835587.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": 0.11500117182731628
+    },
+    {
+        "title": "Felipe VI se distancia de Elena por culpa de Victoria Federica",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/09/02/2024090222233716377.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/felipe-vi-distancia-elena-culpa-victoria-federica/20240903000000128606.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": 0.6253098249435425
+    },
+    {
+        "title": "La Guardia Real reabrirá su sala histórica el próximo 11 de septiembre",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2021/12/02/2021120217225012029.png",
+        "tags": [
+            "el confidente de la corte"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/el_confidente_de_la_corte/guardia-real-reabrira-sala-historica-proximo-11-septiembre/20240903000000128611.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": 0.16615407913923264
+    },
+    {
+        "title": "¡Será por dinero!",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/01/29/pensamiento/828677218_12332814_1706x960.jpg?contentId=ESPIMA20240129_0094",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/manicomio-catalan/20240903/sera-por-dinero/883041689_13.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": -0.5761014744639397
+    },
+    {
+        "title": "Beatriz Álvarez: \"Esperamos cerrar este año el 'title sponsor', hay muchas empresas interesadas\"",
+        "image_url": "https://www.infobae.com/resizer/v2/MVKLPOSMKZFVFJLM3MQ7DMXTTI.jpg?auth=2cc184c4175a03c12cb7b1df49739fc26f763035dc95ad266367456fb8c6a2a5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/02/beatriz-alvarez-esperamos-cerrar-este-ano-el-title-sponsor-hay-muchas-empresas-interesadas/",
+        "date": "2024-09-02 21:48:23",
+        "sentiment_score": 0.5836255736649036
+    },
+    {
+        "title": "La Liga F quiere \"apartar la queja reivindicativa\" para \"seguir construyendo y avanzando\"",
+        "image_url": "https://www.infobae.com/resizer/v2/NXFVJU6JIVD7VBF75Q62L44KPU.jpg?auth=9b05e5bd50ed4940197ae55d5da3ea696208fb6cefc6b58dfe71d4b0fc5e2f09",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/02/la-liga-f-quiere-apartar-la-queja-reivindicativa-para-seguir-construyendo-y-avanzando/",
+        "date": "2024-09-02 21:47:04",
+        "sentiment_score": 0.3353562727570534
+    },
+    {
+        "title": "«Donostia es mi casa, pero no podía rechazar la Dirección de Turismo de Cataluña»",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/09/02/97678309-k8qE--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/san-sebastian/turismo-cataluna-generalitat-lage-20240903195710-nt.html",
+        "date": "2024-09-02 22:13:04",
+        "sentiment_score": -0.18481093645095825
+    },
+    {
+        "title": "El metro de Barcelona recupera la normalidad tras las obras realizadas durante los meses de verano",
+        "image_url": "https://album.mediaset.es/eimg/2024/09/02/el-metro-de-barcelona-recupera-la-normalidad-tras-las-obras-realizadas-durante-los-meses-de-verano_42c8.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20240902/metro-barcelona-recupera-normalidad-obras-verano_18_013347474.html",
+        "date": "2024-09-02 22:01:10",
+        "sentiment_score": 0.45125390589237213
+    },
+    {
+        "title": "La madre e hija que han encandilado a Maxi Iglesias o Alejandro Amenábar con su repostería americana",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/09/02/17252864386339.jpg",
+        "tags": [
+            "madrid",
+            "gastronomía"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/09/03/66d5caf0e4d4d8445c8b4576.html",
+        "date": "2024-09-02 22:01:01",
+        "sentiment_score": 0.6408475860953331
+    },
+    {
+        "title": "Suspende pagos en Barcelona la cárnica Sercarter",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/02/business/confidente-vip/882921810_13402721_1706x960.jpg?contentId=ESPIMA20240902_0111",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20240903/suspende-pagos-en-barcelona-la-carnica-sercarter/882911799_0.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": -0.8289922121912241
+    },
+    {
+        "title": "Antoni Castellà",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/02/examen-protagonistas/882921784_13401925_1706x960.jpg?contentId=ESPIMA20240902_0085",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240903/antoni-castella/882911778_0.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": -0.16817784309387207
+    },
+    {
+        "title": "Un distrito de Barcelona lanza un catálogo para impulsar el comercio de proximidad",
+        "image_url": "https://autonomico.elconfidencialdigital.com/media/elconfidencialautonomico/images/2024/09/02/2024090222072348137.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://autonomico.elconfidencialdigital.com/articulo/cataluna/distrito-barcelona-lanza-catalogo-impulsar-comercio-proximidad/20240903000000137221.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": 0.4004411306232214
+    },
+    {
+        "title": "Telefónica se queda a medias en su avance bursátil un año después del inconcluso aterrizaje saudí",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/03/25/business/842675913_12679405_1706x960.jpg?contentId=ESPIMA20240325_0189",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240903/telefonica-medias-avance-bursatil-despues-inconcluso-aterrizaje/882911803_0.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": 0.14423007518053055
+    },
+    {
+        "title": "Agustí Benedito",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/02/examen-protagonistas/882921790_13402116_1706x960.jpg?contentId=ESPIMA20240902_0091",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240903/agusti-benedito/882911791_0.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": 0.21202519536018372
+    },
+    {
+        "title": "Sin novedad en Zombiland",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/12/31/pensamiento/821427869_12163598_1706x960.jpg?contentId=ESPIMA20231231_0020",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240903/sin-novedad-en-zombiland/883041688_13.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": -0.03276953101158142
+    },
+    {
+        "title": "Los audios de la presunta estafa en el despacho de Benedito: \"¿Quién es más mentiroso?\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/02/business/882921794_13402249_1706x960.jpg?contentId=ESPIMA20240902_0095",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240903/los-de-presunta-despacho-benedito-quien-mentiroso/882911796_0.html",
+        "date": "2024-09-02 22:00:00",
+        "sentiment_score": -0.49654486030340195
     }
 ];
