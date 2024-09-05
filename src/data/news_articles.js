@@ -137,29 +137,6 @@ export default [
         "sentiment_score": -0.05021810531616211
     },
     {
-        "title": "Al menos 41 personas heridas, incluidas 5 niños, en Járkiv, Ucrania, tras ataque de Rusia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/jarkiv-ucrania-ataques-rusia.jpg?quality=100&strip=info",
-        "tags": [
-            "guerra de rusia en ucrania",
-            "ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/01/heridos-jarkiv-ucrania-ataque-rusia-trax/",
-        "date": "2024-09-01 14:11:20",
-        "sentiment_score": -0.845316369086504
-    },
-    {
-        "title": "Saigón y Kabul: similitudes y diferencias entre las evacuaciones de Estados Unidos en Vietnam y Afganistán",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/150421074124-saigon-vietnam-evacuation-helicopter-toss-uss-hancock-1975.jpg?quality=100&strip=info",
-        "tags": [
-            "vietnam",
-            "afganistán",
-            "historia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/01/saigon-kabul-similitudes-diferencias-vietnam-afganistan-orix/",
-        "date": "2024-09-01 14:07:56",
-        "sentiment_score": -0.23306149244308472
-    },
-    {
         "title": "La vuelta al cole",
         "image_url": "./assets/ai_generated/v1_txt2img_a77cb6c587e74d54b3bd3cd934840f0d.png",
         "tags": [
@@ -208,54 +185,6 @@ export default [
         "link": "https://www.abc.es/opinion/sevilla/inocencio-f-arias-putin-cinismo-zapatero-20240902164038-nts.html",
         "date": "2024-09-01 14:42:44",
         "sentiment_score": -0.18049728870391846
-    },
-    {
-        "title": "Ataque masivo de drones ucranianos contra infraestructuras energéticas rusas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/01/ucraina-kSJG-U603014396697Q0H-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ataque-masivo-drones-ucranianos-infraestructuras-energeticas-rusas-20240901131524-nt.html",
-        "date": "2024-09-01 11:15:25",
-        "sentiment_score": -0.19253933429718018
-    },
-    {
-        "title": "Muere un tripulante de una narcolancha durante una persecución policial en el Guadalquivir",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SPZGYE5X2ZDDLFAZ3RDOOG2M6E.jpeg?auth=02956e97cad8d9b4037b69b1a0b82a817b5389ccfe9f4b76a0dfc5f9b0d06a58",
-        "tags": [
-            "río guadalquivir",
-            "narcotráfico",
-            "provincia huelva",
-            "guardia civil",
-            "accidentes fluviales",
-            "provincia cádiz",
-            "hachís",
-            "sanlúcar de barrameda",
-            "narcotraficantes",
-            "aduanas",
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://elpais.com/espana/2024-09-01/muere-un-tripulante-de-una-narcolancha-durante-una-persecucion-policial-en-el-guadalquivir.html",
-        "date": "2024-09-01 13:15:55",
-        "sentiment_score": -0.716235063970089
-    },
-    {
-        "title": "Tres muertos en un choque frontal de dos coches en Las Rozas causado por uno que circulaba incorrectamente en sentido contrario",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZGFJQ7PZRZELBNOCM6NWBHCWDM.jpg?auth=92ddf756b1f6b56f518df4a660033382cbacebd5548d4636b78658527d41d19d",
-        "tags": [
-            "sucesos",
-            "comunidad de madrid",
-            "summa 112",
-            "coches",
-            "accidentes motoristas",
-            "guardia civil",
-            "las rozas de madrid",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-09-01/tres-muertos-en-un-choque-frontal-de-dos-coches-en-las-rozas-causado-por-uno-que-circulaba-incorrectamente-en-sentido-contrario.html",
-        "date": "2024-09-01 10:29:33",
-        "sentiment_score": -0.7932024784386158
     },
     {
         "title": "Aficionados del Real Madrid esperan que el equipo recupere su mejor versión ante el Real Betis",
@@ -7369,5 +7298,455 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240905/eduard-fernandez/883411723_0.html",
         "date": "2024-09-04 22:00:00",
         "sentiment_score": -0.04534795880317688
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Málaga este 5 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/MRSI4EZFIBDVVC5MVRPT6TTTFE.jpg?auth=86c87cabe23d995603116deb098519b6ef3822fbf27367a08e8fda14ddfc8b05",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/05/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-malaga-este-5-de-septiembre/",
+        "date": "2024-09-05 02:02:28",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en España: la predicción del tiempo para Madrid este 5 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JSD2GCIO4BDAJGDHZKDR5XLJJI.jpg?auth=cfffe61ac30ed49d5e648a5cbced03f50327455f1b14f5cff070df91736d54ec",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/05/clima-en-espana-la-prediccion-del-tiempo-para-madrid-este-5-de-septiembre/",
+        "date": "2024-09-05 01:32:57",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/FW77W2YYM5HANMEQFCTENJJT6A.jpg?auth=0c7bf3e4af022771c9f22e57a75b737e5e65685367013994cbb9320f4afa4df3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/05/prediccion-del-clima-estas-son-las-temperaturas-en-barcelona/",
+        "date": "2024-09-05 01:01:00",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "2-0. España, con doblete de Amezaga, sella su pase a los octavos de final",
+        "image_url": "https://www.infobae.com/resizer/v2/3C367LFXABAKFFGF75YMYZJUH4.jpg?auth=810b900372a2b6d1076a7a91c67ad12c9f84f28b4d07302d331fc8ae83e23d78",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/05/2-0-espana-con-doblete-de-amezaga-sella-su-pase-a-los-octavos-de-final/",
+        "date": "2024-09-05 00:30:52",
+        "sentiment_score": 0.4983203411102295
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 5 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_fe653cd27ef943d0ac830a319f71bbcc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/04/hoy-sera-noticia-jueves-5-de-septiembre-de-2024/",
+        "date": "2024-09-04 22:19:35",
+        "sentiment_score": 0.029403991997241974
+    },
+    {
+        "title": "La Audiencia Nacional accede a que Rajoy, Cospedal o Zoido declaren como testigos en el juicio de 'Kitchen'",
+        "image_url": "https://www.infobae.com/resizer/v2/OD74OG22PFGZJCL3CQJ5C7LLAY.jpg?auth=b5c6faaf5ef913cdcd9b026639fc91275f16f0854be42d85351f7f7f0005090b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/04/la-audiencia-nacional-accede-a-que-rajoy-cospedal-o-zoido-declaren-como-testigos-en-el-juicio-de-kitchen/",
+        "date": "2024-09-04 22:19:23",
+        "sentiment_score": -0.3899508826434612
+    },
+    {
+        "title": "María Delgado: \"El relevo mixto se tiene que trabajar más, tenemos muchísimo potencial en España\"",
+        "image_url": "https://www.infobae.com/resizer/v2/Q4HMRFLNVNDADOQQTEPLIYIN7Y.jpg?auth=4ade892c828dfe656a4815181347eda8d2bcb916fdd006a450a20e87baaff5c9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/04/maria-delgado-el-relevo-mixto-se-tiene-que-trabajar-mas-tenemos-muchisimo-potencial-en-espana/",
+        "date": "2024-09-04 22:18:10",
+        "sentiment_score": 0.553941510617733
+    },
+    {
+        "title": "Rusia apoya a Venezuela para que EE.UU. devuelva el avión de Nicolás Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169365164_892cac.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusia-apoyo-venezuela-avion-nicolas-maduro-panorama-mundial-tv/",
+        "date": "2024-09-05 02:11:13",
+        "sentiment_score": -0.7852307744324207
+    },
+    {
+        "title": "EE.UU. anuncia esfuerzos para impedir que Rusia intervenga en las elecciones presidenciales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/still-20932943-6707-853-still.jpg?quality=100&strip=info",
+        "tags": [
+            "rusia",
+            "eleccciones estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-esfuerzos-rusia-intervencion-elecciones-presidenciales-2024-panorama-mundial-tv/",
+        "date": "2024-09-05 02:10:38",
+        "sentiment_score": -0.4109455943107605
+    },
+    {
+        "title": "Comisionado de la CIDH alerta sobre los riesgos de prolongar aún más el estado de excepción en El Salvador",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1721767959.jpg?quality=100&strip=info",
+        "tags": [
+            "nayib bukele",
+            "cidh",
+            "el salvador",
+            "estado de excepción"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cidh-estado-excepcion-el-salvador-bukele-violaciones-ddhh-conclusiones-tv/",
+        "date": "2024-09-05 02:07:27",
+        "sentiment_score": -0.7921808660030365
+    },
+    {
+        "title": "Abogado de Edmundo González se reunió por más 3 horas con el fiscal Saab y dio detalles a CNN",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169490798.jpg?quality=100&strip=info",
+        "tags": [
+            "crisis en venezuela",
+            "venezuela",
+            "edmundo gonzález urrutia",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tarek-reunion-edmundo-oposicion-abogado-haro-garantias-conslusiones-tv/",
+        "date": "2024-09-05 02:00:36",
+        "sentiment_score": -0.16722862422466278
+    },
+    {
+        "title": "Ante mejora de la seguridad en el Salvador, CIDH pide derogar estado de excepción",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1721777615.jpg?quality=100&strip=info",
+        "tags": [
+            "cidh",
+            "el salvador",
+            "nayib bukele",
+            "régimen de excepción"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cidh-el-salvador-mejora-seguridad-bandas-policia-carcel-conclusiones-tv/",
+        "date": "2024-09-05 01:52:47",
+        "sentiment_score": -0.3670114278793335
+    },
+    {
+        "title": "Israel no cambiará sus políticas para minimizar bajas civiles en Gaza, asegura Netanyahu",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169575268.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-no-cambiara-politicas-minimizar-bajas-civiles-gaza-panorama-tv-fast/",
+        "date": "2024-09-05 01:41:42",
+        "sentiment_score": -0.07670685648918152
+    },
+    {
+        "title": "Experto dice que el petróleo de Venezuela no define la política de EE.UU. hacia el régimen",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1242425651.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/petroleo-venezuela-eeuu-sanciones-economia-reservas-amenaza-conclusiones-tv/",
+        "date": "2024-09-05 01:40:27",
+        "sentiment_score": -0.28447626531124115
+    },
+    {
+        "title": "¿El petróleo ha marcado la pauta en la relación de Estados Unidos y Venezuela?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1245314699.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pretroleo-dependencia-refinerias-eeuu-venezuela-crudo-barato-conclusiones-tv/",
+        "date": "2024-09-05 01:34:39",
+        "sentiment_score": -0.36521679908037186
+    },
+    {
+        "title": "Investigan en Perú muerte de 2 trabajadores forestales en enfrentamiento con pueblo indígena en aislamiento",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-logo-video-bg-1.png",
+        "tags": [
+            "perú",
+            "comunidades indígenas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/04/peru-muerte-trabajadores-enfrentamiento-pueblo-indigena-trax/",
+        "date": "2024-09-05 00:37:50",
+        "sentiment_score": -0.7740291394293308
+    },
+    {
+        "title": "La ballena \"espía rusa\" podría haber muerto tras recibir disparos, según grupos defensores de los animales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/ballena-espia-rusa-muerte.jpg?quality=100&strip=info",
+        "tags": [
+            "rusia",
+            "espía",
+            "europa",
+            "ballena beluga"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/04/ballena-espia-rusa-muerto-disparos-defensores-animales-trax/",
+        "date": "2024-09-05 00:27:34",
+        "sentiment_score": -0.7781957611441612
+    },
+    {
+        "title": "Los toques de atención del Banco de España a las políticas de Escrivá",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/05/Imagenefespfourteen545352-RJCs5JoxjPtgeLTiF8XHY5L-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/toques-atencion-banco-espana-politicas-escriva-20240905203205-nt.html",
+        "date": "2024-09-05 02:10:23",
+        "sentiment_score": -0.05319216847419739
+    },
+    {
+        "title": "«Se ha generalizado una captura política de los órganos independientes que está degradando su credibilidad»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/05/EscrivSnchez-R7aCsFmSQeesri7Vf1fkOcI-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/generalizado-captura-politica-organos-independientes-degradando-credibilidad-20240905190517-nt.html",
+        "date": "2024-09-05 02:09:29",
+        "sentiment_score": -0.04767763614654541
+    },
+    {
+        "title": "El informe Draghi propone a Bruselas ralentizar la transición energética",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/05/elicamarinaefe-kjEI-RaksUzYHMM4qRwr22xc7kXI-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/informe-draghi-propone-bruselas-ralentizar-transicion-energetica-20240905040521-nt.html",
+        "date": "2024-09-05 02:05:22",
+        "sentiment_score": -0.10207951068878174
+    },
+    {
+        "title": "Los barones ajusticiados",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/05/Captura-U05762222252jsw-1200x630@diario_abc.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-barones-ajusticiados-20240905200731-nt.html",
+        "date": "2024-09-05 00:08:00",
+        "sentiment_score": -0.40783558785915375
+    },
+    {
+        "title": "Se disparan los casos de cáncer de próstata en Europa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/09/04/labo-cancer--758x531.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/disparan-casos-cancer-prostata-europa-20240905013300-nt.html",
+        "date": "2024-09-04 23:33:00",
+        "sentiment_score": -0.1659984439611435
+    },
+    {
+        "title": "Decreto de Milei que limita acceso a la información pública desata nueva polémica en Argentina",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/ab/media_thumb-link-3975959.webp",
+        "tags": [
+            "actualidad",
+            "argentina",
+            "censura",
+            "milei",
+            "información pública"
+        ],
+        "link": "https://www.meneame.net/story/decreto-milei-limita-acceso-informacion-publica-desata-nueva",
+        "date": "2024-09-04 22:20:03",
+        "sentiment_score": -0.4817982017993927
+    },
+    {
+        "title": "El palacio minero asturiano que será nuevo polo cultural de Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c31427fd-651c-49d9-a028-d3f871be6bba_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sociedad/2024/09/05/palacio-minero-asturiano-sera-nuevo-107760706.html",
+        "date": "2024-09-05 02:12:51",
+        "sentiment_score": -0.03040367364883423
+    },
+    {
+        "title": "Alcalde de Madrid critica a Vinicius por decir que España no debe ser sede del Mundial por racismo",
+        "image_url": "./assets/ai_generated/v1_txt2img_29d9de72375a4d6881625d68d3216712.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-09-04/alcalde-de-madrid-critica-a-vinicius-por-decir-que-espana-no-debe-ser-sede-del-mundial-por-racismo",
+        "date": "2024-09-05 02:11:46",
+        "sentiment_score": -0.901148671284318
+    },
+    {
+        "title": "Critican a Vinicius tras decir que España no merece el Mundial por el racismo",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/09/vinicius-racismo-denuncia-730x524.webp",
+        "tags": [
+            "españa",
+            "deportes",
+            "racismo",
+            "denuncia",
+            "vinicius",
+            "real madrid",
+            "alcalde",
+            "josé luis martínez-almeida"
+        ],
+        "link": "https://primicia.com.ve/deportes/critican-a-vinicius-tras-decir-que-espana-no-merece-el-mundial-por-el-racismo/",
+        "date": "2024-09-05 02:05:03",
+        "sentiment_score": -0.9474112307652831
+    },
+    {
+        "title": "O relato soñado de Bruno Arias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d012aeb-e500-4295-bd8d-167b4bd6d85e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/faro-cultura/2024/09/05/o-relato-sonado-bruno-arias-107753219.html",
+        "date": "2024-09-05 02:00:38",
+        "sentiment_score": -0.1259382665157318
+    },
+    {
+        "title": "La izquierda se ahoga en la arena",
+        "image_url": "https://men.gsstatic.es/autor/javier-caldentey/11753.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/09/05/2235133/izquierda-ahoga-arena.html",
+        "date": "2024-09-05 01:56:09",
+        "sentiment_score": -0.041481226682662964
+    },
+    {
+        "title": "Balón de Oro 2024: sin Cristiano ni Messi y otros ilustres ausentes de LaLiga",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2018/09/25/2018092512500410295.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/cristiano-ni-messi-primera-vez-23-anos-tambien-otros-ilustres-ausentes/20240905034418317111.html",
+        "date": "2024-09-05 01:44:18",
+        "sentiment_score": 0.12719953432679176
+    },
+    {
+        "title": "Pilar Alegría tiende la mano a la escuela concertada y contará por primera vez lo que cuestan sus colegios",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/09/04/17254782470521.jpg",
+        "tags": [
+            "colegios",
+            "educación",
+            "pilar alegría",
+            "artículos olga r. sanmartín"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/09/05/66d8a98221efa07c508b4592.html",
+        "date": "2024-09-05 01:37:54",
+        "sentiment_score": 0.10051190853118896
+    },
+    {
+        "title": "Quieren blanquear el vial de Jove",
+        "image_url": "./assets/ai_generated/v1_txt2img_c36becae47384c51becfb010edeb6906.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/opinion/2024/09/05/quieren-blanquear-vial-jove-107735277.html",
+        "date": "2024-09-05 01:31:09",
+        "sentiment_score": -0.27570776641368866
+    },
+    {
+        "title": "Jonás Trueba presenta su filme ‘Volveréis’ en León",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/04/66d8a4ffae17f.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240905/1610330/jonas-trueba-presenta-filme-volvereis-leon.html",
+        "date": "2024-09-05 01:30:00",
+        "sentiment_score": 0.08069744147360325
+    },
+    {
+        "title": "Problemas en la selección de Brasil: una de sus figuras sufrió una grave lesión y quedó descartado para lo que resta del año",
+        "image_url": "https://www.infobae.com/resizer/v2/DSPS5Q3ZE44YQ35W42VWTVRD7I.jpg?auth=e8f17c10d58f305b97e05f66b3f3419e5154c382d2f7718c494b7bfec000bc68",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/05/problemas-en-la-seleccion-de-brasil-una-de-sus-figuras-sufrio-una-grave-lesion-y-quedo-descartado-para-lo-que-resta-del-ano/",
+        "date": "2024-09-05 00:41:00",
+        "sentiment_score": -0.6521063260734081
+    },
+    {
+        "title": "Fervor por el AVE en Asturias: la brutal cifra que abre la puerta a que la región pida más frecuencias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e453ecde-5a5e-4f93-a33c-231004166927_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/09/05/fervor-ave-asturias-brutal-cifra-107759527.html",
+        "date": "2024-09-05 02:12:51",
+        "sentiment_score": -0.06226849555969238
+    },
+    {
+        "title": "Sonia Bermúdez: \"Sufrimos más de la cuenta\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_395821a39dd84275be4726fc2f5f75cf.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/05/sonia-bermudez-sufrimos-mas-de-la-cuenta/",
+        "date": "2024-09-05 02:00:20",
+        "sentiment_score": -0.6243854127824306
+    },
+    {
+        "title": "Marta Finestres ficha por el Espanyol",
+        "image_url": "./assets/ai_generated/v1_txt2img_41f306e2abc24de5b87f737edca28e11.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/voleibol/2024/09/05/2235363/marta-finestres-ficha-por-espanyol.html",
+        "date": "2024-09-05 01:55:53",
+        "sentiment_score": -0.04538756608963013
+    },
+    {
+        "title": "OVF: Inflación interanual en Venezuela se ubicó en 52% en agosto",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2024/09/OVF_Inflacion1.jpg",
+        "tags": [
+            "venezuela",
+            "inflación",
+            "ovf",
+            "laboral y economía",
+            "agosto",
+            "a - carrusel 1"
+        ],
+        "link": "https://correodelcaroni.com/laboral-economia/ovf-inflacion-interanual-en-venezuela-se-ubico-en-52-en-agosto/",
+        "date": "2024-09-05 01:53:26",
+        "sentiment_score": -0.01756727695465088
+    },
+    {
+        "title": "Lionel Messi, a punto de dejar atrás el tercer parate por lesión más largo de su carrera: cuándo volverá a jugar",
+        "image_url": "./assets/ai_generated/v1_txt2img_f62289a42f384e74a5dc646a922d5ade.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/05/lionel-messi-a-punto-de-dejar-atras-el-tercer-parate-por-lesion-mas-largo-de-su-carrera-cuando-volvera-a-jugar/",
+        "date": "2024-09-05 01:50:16",
+        "sentiment_score": -0.5860040858387947
+    },
+    {
+        "title": "Dermaplaning, la última tendencia viral de TikTok para eliminar el vello: ¿deberías hacerlo en casa?",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/08/27/17247611852486.jpg",
+        "tags": [
+            "trucos de belleza",
+            "tendencias de belleza",
+            "productos de belleza",
+            "artículos cristina galafate",
+            "belleza"
+        ],
+        "link": "https://www.elmundo.es/vida-sana/cuerpo/2024/09/05/66cdc5f1e4d4d896448b4581.html",
+        "date": "2024-09-05 01:37:57",
+        "sentiment_score": 0.244523324072361
+    },
+    {
+        "title": "Marçal Font y Celia Bsoul llegan hoy al Festival Palabra",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/04/66d8a5035e2e0.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240905/1610332/marcal-font-celia-bsoul-llegan-hoy-festival-palabra.html",
+        "date": "2024-09-05 01:30:00",
+        "sentiment_score": 0.08603181689977646
+    },
+    {
+        "title": "El globo pinchado de Laporta con el negocio digital en el Barça: más humo que realidad",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/06/12/culemania/palco/862423883_13085555_1706x960.jpg?contentId=ESPIMA20240612_0134",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240905/el-pinchado-laporta-el-negocio-barca-realidad/883661626_0.html",
+        "date": "2024-09-05 01:08:15",
+        "sentiment_score": 0.2060764580965042
     }
 ];
