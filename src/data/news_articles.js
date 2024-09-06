@@ -303,16 +303,6 @@ export default [
         "sentiment_score": -0.10443297028541565
     },
     {
-        "title": "Caso Sperisen: cuarto juicio contra el jefe de la Policía de Guatemala en una saga plagada de irregularidades",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/02/sperisen-RS3oQJxisde3ve7z2z1LHMO-758x531@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/sperisen-cuarto-juicio-jefe-policia-guatemala-saga-20240902151619-nt.html",
-        "date": "2024-09-02 13:51:21",
-        "sentiment_score": -0.2682483047246933
-    },
-    {
         "title": "SER Catalunya potencia la programación en catalán durante toda la mañana",
         "image_url": "https://imagenes.elpais.com/resizer/v2/QDMJ6D7LY5HPZH57GOPAXQIXBI.jpeg?auth=6a498a10bfc6d2e9dcb6da22c71b8f0c627393b6a28b87f031eb8b852e4de13f",
         "tags": [
@@ -458,41 +448,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-09-02/mas-colell-avisa-sobre-la-financiacion-singular-si-el-estado-no-pone-dinero-adicional-no-habra-consenso.html",
         "date": "2024-09-02 14:38:38",
         "sentiment_score": -0.23978842049837112
-    },
-    {
-        "title": "Abascal inaugura el curso político cargando contra “la gran estafa del PP”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PFGTB3F6PSKHORCJMZDUZRQVPM.jpg?auth=e67391276a166be09dd6c6994aaac42a3b43ff33836e08d9d7bb71c4ffa2680c",
-        "tags": [
-            "migración",
-            "pp",
-            "vox",
-            "inmigración",
-            "santiago abascal",
-            "españa",
-            "política",
-            "partidos políticos",
-            "comunidades autónomas"
-        ],
-        "link": "https://elpais.com/espana/2024-09-02/abascal-inaugura-el-curso-politico-cargando-contra-la-gran-estafa-del-pp.html",
-        "date": "2024-09-02 13:27:54",
-        "sentiment_score": -0.5916672237217426
-    },
-    {
-        "title": "Una empresa retira toneladas de escombros de la finca de Campanar que devoró el fuego",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MYNH3EMIX5HSXO7J3G2PGSWVJU.JPG?auth=766ea31e043850964f0414e03b3b534f9a3399cc7135cf22f686ae265a78b875",
-        "tags": [
-            "tribunales",
-            "vivienda",
-            "sucesos",
-            "comunidad valenciana",
-            "valencia",
-            "incendio edificio campanar en valencia",
-            "incendios",
-            "rehabilitación edificios"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-02/una-empresa-retira-toneladas-de-escombros-de-la-finca-de-campanar-que-devoro-el-fuego.html",
-        "date": "2024-09-02 12:55:52",
-        "sentiment_score": -0.08762680739164352
     },
     {
         "title": "Ancelotti enfrenta una crisis inédita en el centro del campo del Real Madrid por culpa de las lesiones",
@@ -7686,5 +7641,428 @@ export default [
         "link": "https://www.diariodemallorca.es/cultura/2024/09/06/silvia-adela-kohan-escribir-mano-107797564.html",
         "date": "2024-09-05 22:03:10",
         "sentiment_score": -0.01406678557395935
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 6 de septiembre en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/NHLC3TE2MRD3DGUAM4YZR2KJCQ.jpg?auth=8d2ae00c9820e4a411180ed561fceb9cc62453db25d863e346334ff9bfa988ef",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/06/clima-las-temperaturas-que-predominaran-este-6-de-septiembre-en-madrid/",
+        "date": "2024-09-06 01:31:24",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Feminicidio de peruana en España: su expareja fue detenida y familia pide ayuda para repatriar a la víctima",
+        "image_url": "https://www.infobae.com/resizer/v2/Z3DRDCNAHFD2DGROP7LJAJW5RY.jpg?auth=145f4757210b62e6ca7097f151f0c285c134804749629538aee56ca9fcc94c45",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/07/15/feminicidio-de-peruana-en-espana-su-expareja-fue-detenida-y-familia-pide-ayuda-para-repatriar-a-la-victima/",
+        "date": "2024-09-06 00:56:00",
+        "sentiment_score": -0.39061086997389793
+    },
+    {
+        "title": "Prisión para el hombre que apuñaló a un guardia civil fuera de servicio en Málaga",
+        "image_url": "./assets/ai_generated/v1_txt2img_a9dc139e22974b379fb094223c30d5b9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/05/prision-para-el-hombre-que-apunalo-a-un-guardia-civil-fuera-de-servicio-en-malaga/",
+        "date": "2024-09-05 22:31:53",
+        "sentiment_score": -0.8310591354966164
+    },
+    {
+        "title": "Hoy será noticia. Viernes, 6 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_029bd2d928c04027b78e98ea29baf376.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/05/hoy-sera-noticia-viernes-6-de-septiembre-de-2024/",
+        "date": "2024-09-05 22:19:27",
+        "sentiment_score": 0.02880704030394554
+    },
+    {
+        "title": "Durante Foro Madrid Milei arremetió contra Maduro y Lula, los tilda de tiranos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2166153910.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina",
+            "nicolás maduro",
+            "javier milei",
+            "crisis venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milei-maduro-lula-tiranos-venezuela-brasil-dictadura-ddhh-conclusiones-tv/",
+        "date": "2024-09-06 02:07:04",
+        "sentiment_score": -0.8588466886430979
+    },
+    {
+        "title": "Putin dice que “apoya” a Harris",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/still-20934940-1960-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/putin-apoyo-kamal-harris-elecciones-estados-unidos-panorama-mundial-tv/",
+        "date": "2024-09-06 02:05:30",
+        "sentiment_score": -0.528463713824749
+    },
+    {
+        "title": "Abogado de Edmundo González descarta que el opositor pida asilo en alguna embajada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2162831688.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "crisis venezuela",
+            "edmundo gonzález",
+            "nicolás maduro",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fiscal-tarek-edmundo-reunion-persecucion-venezuela-elecciones-conclusiones-tv/",
+        "date": "2024-09-06 02:04:04",
+        "sentiment_score": -0.4513292536139488
+    },
+    {
+        "title": "3 esquiadores fueron sepultados por una avalancha en Argentina; una falleció",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/87227076-82019625-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-avalancha-esquiadores-sepultados/",
+        "date": "2024-09-06 02:03:55",
+        "sentiment_score": -0.8343937937170267
+    },
+    {
+        "title": "El presidente de Guatemala responde si acogerían presos políticos de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2161562536.jpg?quality=100&strip=info",
+        "tags": [
+            "guatemala",
+            "fast – news variety",
+            "crisis venezuela",
+            "bernando arévalo",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nicaragua-opositores-venezuela-carcel-conclusiones-tv/",
+        "date": "2024-09-06 02:01:45",
+        "sentiment_score": -0.2577997297048569
+    },
+    {
+        "title": "El presidente de Guatemala dice que acogida de excarcelados nicaragüenses fue un acto de solidaridad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169683548.jpg?quality=100&strip=info",
+        "tags": [
+            "guatemala",
+            "crisis en nicaragua",
+            "bernardo arévalo",
+            "fast – news variety",
+            "xpress",
+            "daniel ortega"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/presos-politicos-acogida-guatemala-nicaragua-dictadura-ortega-conclusiones-tv/",
+        "date": "2024-09-06 02:00:47",
+        "sentiment_score": -0.305645227432251
+    },
+    {
+        "title": "Arrestan al padre del sospechoso del tiroteo en secundaria Apalachee",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/still-20935344-135006-566-still.jpg?quality=100&strip=info",
+        "tags": [
+            "tiroteos escolares",
+            "georgia",
+            "tiroteos",
+            "tiroteo",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/padre-sospechoso-detenido-tiroteo-georgia-apalachee-ar15-panorama-mundial-tv/",
+        "date": "2024-09-06 01:58:27",
+        "sentiment_score": -0.8447981458157301
+    },
+    {
+        "title": "\"El Mayo\" Zambada acepta ser trasladado de Texas a Nueva York para seguir su proceso penal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/cnne-1726653-mayo-zambada.jpg?quality=100&strip=info",
+        "tags": [
+            "\"el mayo\" zambada",
+            "judicial"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/05/zambada-acepta-traslado-nueva-york-proceso-penal-orix/",
+        "date": "2024-09-06 01:58:14",
+        "sentiment_score": 0.06655097007751465
+    },
+    {
+        "title": "Mira cómo utilizaron un dron térmico para encontrar a un niño perdido en un maizal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/dron-orix-00-01-36-19-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "niños perdidos",
+            "videos digitales",
+            "niños",
+            "fast – news variety",
+            "xpress",
+            "rescate"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dron-termico-encontrar-nino-perdido-rescate-orix/",
+        "date": "2024-09-06 01:57:13",
+        "sentiment_score": -0.3840490095317364
+    },
+    {
+        "title": "Fiscalía de Colombia investigará la supuesta compra irregular de software espía a Israel durante el Gobierno de Duque",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2022/10/CNN-pegasus-e1725583329656.jpg?quality=100&strip=info",
+        "tags": [
+            "pegasus",
+            "iván duque",
+            "colombia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/05/colombia-investigara-compra-irregular-software-espia-duque-orix/",
+        "date": "2024-09-06 00:42:32",
+        "sentiment_score": -0.620941873639822
+    },
+    {
+        "title": "Gershon Baskin, negociador con Hamás: «Netanyahu sabe que está acabado y no quiere parar la guerra»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/05/negociador-RCT2oz0g2Wgw0h5Y5rVzLeL-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gershon-baskin-negociador-hamas-netanyahu-sabe-acabado-20240905041114-nt.html",
+        "date": "2024-09-06 02:11:55",
+        "sentiment_score": -0.0979607105255127
+    },
+    {
+        "title": "Vía libre a Sánchez para tomar la CNMC y la CNMV tras romper puentes con el PP",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/06/sanchez-presidente-RyWZJbZtJjtNKqEMewy1Y3I-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/via-libre-sanchez-tomar-cnmc-cnmv-tras-20240906040827-nt.html",
+        "date": "2024-09-06 02:08:27",
+        "sentiment_score": -0.07604378461837769
+    },
+    {
+        "title": "Montero ofrece 400 millones para tapar el boquete de 13.000 millones del 'cupo catalán'",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/06/MJMonteroJaimeGarca-RjeG7725spbW7LtroZqDNBK-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/montero-ofrece-400-millones-tapar-boquete-13000-20240906202352-nt.html",
+        "date": "2024-09-06 02:05:56",
+        "sentiment_score": -0.046978265047073364
+    },
+    {
+        "title": "Autonomías y expertos cuestionan que el Gobierno pueda alterar de forma unilateral la financiación autonómica",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/06/ConsejodePolticaFiscalEFE-RxLzrrKNLw2u3xz0aCr9aFK-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/autonomias-expertos-cuestionan-gobierno-pueda-alterar-forma-20240906202732-nt.html",
+        "date": "2024-09-06 02:04:21",
+        "sentiment_score": -0.06920507550239563
+    },
+    {
+        "title": "Una terapia génica devuelve la vista a 15 personas con una ceguera congénita",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/09/05/6261112692_48394736b1_o--758x531.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/terapia-genica-devuelve-vista-persona-ceguera-congenita-20240906132850-nt.html",
+        "date": "2024-09-05 23:45:00",
+        "sentiment_score": -0.10896474123001099
+    },
+    {
+        "title": "Estos son los juegos de las Eliminatorias Sudamericanas de este viernes",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/09/peru-entrenamientos-300x200.webp",
+        "tags": [
+            "luis suárez",
+            "uruguay",
+            "deportes",
+            "eliminatorias sudamericanas",
+            "colombia",
+            "paraguay",
+            "perú",
+            "ecuador",
+            "fútbol",
+            "brasil"
+        ],
+        "link": "https://primicia.com.ve/deportes/estos-son-los-juegos-de-las-eliminatorias-sudamericanas-de-este-viernes/",
+        "date": "2024-09-06 02:10:48",
+        "sentiment_score": -0.08679061383008957
+    },
+    {
+        "title": "Pallacanestro Varese, un equipo de leyenda en Menorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2986913.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/baloncesto/2024/09/06/2236067/pallacanestro-varese-equipo-leyenda-menorca.html",
+        "date": "2024-09-06 02:00:01",
+        "sentiment_score": -0.07563093304634094
+    },
+    {
+        "title": "El verano de 2024 bate todos los récords: las temperaturas estivales en Europa, las más altas desde que hay registros",
+        "image_url": "https://s1.elespanol.com/2024/09/05/enclave-ods/historias/883672364_248961146_1706x960.jpg?contentId=ESPIMA20240905_0740",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20240906/verano-bate-records-temperaturas-estivales-europa-altas-registros/883661990_0.html",
+        "date": "2024-09-06 02:00:00",
+        "sentiment_score": 0.2512846887111664
+    },
+    {
+        "title": "Linkin Park vuelve con nueva vocalista, disco y gira tras la muerte de Chester Bennington en 2017",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06882de7-87ae-414a-a641-563a5dd350db_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/cultura/2024/09/06/linkin-park-vuelve-nueva-vocalista-107807940.html",
+        "date": "2024-09-06 01:46:21",
+        "sentiment_score": 0.25528219528496265
+    },
+    {
+        "title": "Ángel Di María recibe un inolvidable homenaje tras su retiro de Argentina",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/09/AP24249843363407-e1725586854605.jpg",
+        "tags": [
+            "deportes",
+            "di maria",
+            "fútbol",
+            "selección argentina",
+            "angel di maria"
+        ],
+        "link": "https://eldiariony.com/2024/09/05/angel-di-maria-recibe-un-inolvidable-homenaje-tras-su-retiro-de-argentina/",
+        "date": "2024-09-06 01:43:11",
+        "sentiment_score": 0.5557202771306038
+    },
+    {
+        "title": "La Fiscalía registra un suave descenso de la delincuencia pese al aumento de las denuncias",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/05/66d9fdce9cd72.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/240906/1611204/fiscalia-registra-suave-descenso-delincuencia-pese-aumento-denuncias.html",
+        "date": "2024-09-06 01:30:00",
+        "sentiment_score": 0.18222110345959663
+    },
+    {
+        "title": "Este jugador del Real Madrid mostró su descontento por no ser nominado al Balón de Oro",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/6DICH4ZJ3FG7XHUFWN5TZ2JPPY.jpg?auth=3002f678b92792e27051faf6c4265c0a61323b0f177713dce0d58bc4144f6f75&height=1080&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2024/09/06/este-jugador-del-real-madrid-mostro-su-descontento-por-no-ser-nominado-al-balon-de-oro/",
+        "date": "2024-09-06 00:54:08",
+        "sentiment_score": -0.7071853075176477
+    },
+    {
+        "title": "Detienen y acusan de homicidio involuntario al padre del autor del tiroteo de Georgia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/94433888-3111-4462-8060-1456cc82f8d2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/09/06/detienen-acusan-homicidio-involuntario-padre-107807247.html",
+        "date": "2024-09-06 00:46:42",
+        "sentiment_score": -0.8253338849171996
+    },
+    {
+        "title": "Ayuso responde palabra por palabra a los 7 ataques de Sánchez sobre Sanidad, Educación e Impuestos",
+        "image_url": "https://s1.elespanol.com/2024/09/06/actualidad/883921621_248967566_1706x1280.png?contentId=ESPIMA20240906_0022",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240906/ayuso-responde-palabra-ataques-sanchez-sanidad-educacion-impuestos/883662150_0.html",
+        "date": "2024-09-06 00:35:36",
+        "sentiment_score": -0.02391517162322998
+    },
+    {
+        "title": "Los mejores planes gratis este fin de semana en Madrid: conciertos, arte viviente al aire libre y exposiciones",
+        "image_url": "https://s1.elespanol.com/2019/07/29/eldigitalcastillalamancha/castilla_la_mancha_417470093_189452795_1706x960.jpg?contentId=ESPIMA20190729_1844",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20240906/mejores-planes-gratis-fin-semana-madrid-conciertos-arte-viviente-aire-libre-exposiciones/882911782_0.html",
+        "date": "2024-09-06 00:19:58",
+        "sentiment_score": 0.3665512464940548
+    },
+    {
+        "title": "La luz naranja que proyecta Ruth Álvarez ilumina Oviedo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2cb356b4-b9c2-4f8c-9c9e-2f4ed3f82b82_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sociedad/2024/09/06/luz-naranja-proyecta-ruth-alvarez-107803183.html",
+        "date": "2024-09-06 02:10:00",
+        "sentiment_score": 0.0933029055595398
+    },
+    {
+        "title": "Históricos de ayer y de hoy",
+        "image_url": "./assets/ai_generated/v1_txt2img_0c49dc7228224de785b0abb40d7111c3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/09/06/historicos-ayer-hoy-107791091.html",
+        "date": "2024-09-06 02:01:08",
+        "sentiment_score": -0.8974220985546708
+    },
+    {
+        "title": "El drama de las pateras que llegan a Balears reclama respuestas",
+        "image_url": "https://men.gsstatic.es/autor/editorial/32.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/editorial/2024/09/06/2236077/drama-pateras-llegan-balears-reclama-respuestas.html",
+        "date": "2024-09-06 02:00:01",
+        "sentiment_score": -0.2882353961467743
+    },
+    {
+        "title": "Escrivá y nadie más",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/05/66d9e64c6fb38.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/240906/1611107/escriva-nadie.html",
+        "date": "2024-09-06 01:30:00",
+        "sentiment_score": -0.8472951203584671
+    },
+    {
+        "title": "Los solteros españoles han encontrado una nueva estrategia para conquistar: está en el pasillo de la fruta",
+        "image_url": "https://www.infobae.com/resizer/v2/BHPVV2TWG5D4TN7LNPABCGFZZY.jpg?auth=0f5e025d17e6c08bd5ae07637f87a662f550a39f4638c7e02bb672a184e6d5af",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/wapo/2024/09/06/los-solteros-espanoles-han-encontrado-una-nueva-estrategia-para-conquistar-esta-en-el-pasillo-de-la-fruta/",
+        "date": "2024-09-06 01:22:26",
+        "sentiment_score": 0.6363753415644169
+    },
+    {
+        "title": "La contundente decisión de Shakira para sus hijos que podría afectar la relación de ellos con Piqué",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/KJAL5TURGRAO7FEPTXLYVL2KUA.jpg?auth=4160e27ede9975dd13aa1e34f033762246e082c2182c28892008ef9a58af3ff4&height=628&smart=true&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/entretenimiento/2024/09/06/la-contundente-decision-de-shakira-para-sus-hijos-que-podria-afectar-la-relacion-de-ellos-con-pique/",
+        "date": "2024-09-06 01:13:26",
+        "sentiment_score": -0.07212153822183609
+    },
+    {
+        "title": "China ya tiene la tuneladora más grande jamás fabricada: 18 metros de diámetro y pesa más de 10.000 toneladas",
+        "image_url": "https://s1.elespanol.com/2024/09/03/omicrono/tecnologia/883172066_248892072_1706x960.jpg?contentId=ESPIMA20240903_0392",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20240906/china-tuneladora-grande-jamas-fabricada-metros-diametro-pesa-toneladas/883161825_0.html",
+        "date": "2024-09-06 00:36:05",
+        "sentiment_score": 0.1894669570028782
+    },
+    {
+        "title": "Macron subleva a la izquierda con un primer ministro de derechas para que lo acepte Le Pen",
+        "image_url": "https://s1.elespanol.com/2024/09/05/actualidad/883672495_248966253_1706x960.png?contentId=ESPIMA20240905_0871",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20240906/macron-subleva-izquierda-primer-ministro-derechas-acepte-pen/883662107_0.html",
+        "date": "2024-09-06 00:35:41",
+        "sentiment_score": 0.5925627574324608
+    },
+    {
+        "title": "Un familiar de Rafa Mir: \"Su madre está destrozada por la condena pública. Lo denuncian por despecho\"",
+        "image_url": "https://s1.elespanol.com/2024/09/05/reportajes/883672516_248965801_1706x960.png?contentId=ESPIMA20240905_0892",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240906/familiar-rafa-mir-madre-destrozada-condena-publica-denuncian-despecho/883662141_0.html",
+        "date": "2024-09-06 00:35:40",
+        "sentiment_score": -0.508571807295084
     }
 ];
