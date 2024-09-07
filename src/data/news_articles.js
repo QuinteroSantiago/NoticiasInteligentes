@@ -1,172 +1,5 @@
 export default [
     {
-        "title": "Rescatan a dos personas de un yate naufragado \"a merced de los elementos\" en una terrible experiencia de 24 horas",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/video-del-rescate.webp",
-        "tags": [
-            "yate",
-            "australia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/03/dos-personas-rescatadas-yate-naufragado-terrible-experiencia-de-24-horas-trax/",
-        "date": "2024-09-03 05:40:02",
-        "sentiment_score": -0.6674191728234291
-    },
-    {
-        "title": "Biden, que ya no es candidato, reaparece como principal sustituto de la campaña de Harris",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Biden.jpg?quality=100&strip=info",
-        "tags": [
-            "joe biden",
-            "kamala harris",
-            "campaña presidencial",
-            "elecciones 2024",
-            "elecciones estados unidos",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/03/biden-reaparece-principal-representante-campana-harris-trax/",
-        "date": "2024-09-03 05:35:47",
-        "sentiment_score": 0.04267403483390808
-    },
-    {
-        "title": "Día de feria",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/02/donald-trump-RLQI5DzaV3PfECdXPs7LP4I-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/dia-feria-20240902141709-nt.html",
-        "date": "2024-09-03 06:10:13",
-        "sentiment_score": -0.13358017802238464
-    },
-    {
-        "title": "¿Sabías que hay una palabra en español que se puede pronunciar pero no escribir?",
-        "image_url": "./assets/ai_generated/v1_txt2img_5bf46a7788b54fe5bb62109cfb2f2ea1.png",
-        "tags": [
-            "idioma",
-            "rae (real academia española)",
-            "español",
-            "curiosidades",
-            "lom",
-            "escribir",
-            "lengua",
-            "sociedad",
-            "palabra"
-        ],
-        "link": "https://theobjective.com/sociedad/2024-09-03/palabra-espanol-puede-pronunciar-escribir/",
-        "date": "2024-09-03 06:30:00",
-        "sentiment_score": 0.39017028361558914
-    },
-    {
-        "title": "La Justicia argentina investiga por tráfico de divisas a la monja que recibió la nacionalidad española por ayudar en la crisis del Ébola",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/86706949-2ccf-4b4c-85f3-763b1ee1ad43_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20240903/justicia-argentina-investiga-trafico-divisas-107688277",
-        "date": "2024-09-03 05:54:28",
-        "sentiment_score": -0.9046427085995674
-    },
-    {
-        "title": "La Justicia argentina investiga por tráfico de divisas a la monja que recibió la nacionalidad española por ayudar en la crisis del Ébola",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/86706949-2ccf-4b4c-85f3-763b1ee1ad43_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sociedad/2024/09/03/justicia-argentina-investiga-trafico-divisas-107688267.html",
-        "date": "2024-09-03 05:44:05",
-        "sentiment_score": -0.9215593142434955
-    },
-    {
-        "title": "Detenido un hombre por asesinar presuntamente a su mujer en Castellón",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/31/un-coche-de-la-policia-nacional.jpeg",
-        "tags": [
-            "castellón"
-        ],
-        "link": "https://www.20minutos.es/noticia/5629980/0/detenido-un-hombre-por-asesinar-presuntamente-su-mujer-castellon/",
-        "date": "2024-09-03 06:29:11",
-        "sentiment_score": -0.6569164264947176
-    },
-    {
-        "title": "Ada Colau dejará el Ayuntamiento de Barcelona este septiembre",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/06/28/informacion-municipal/866423469_13157830_1706x960.jpg?contentId=ESPIMA20240628_0120",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20240903/ada-colau-abandonara-el-ayuntamiento-de-barcelona-este-mes-septiembre/883161683_0.html",
-        "date": "2024-09-03 06:28:04",
-        "sentiment_score": 0.15074695274233818
-    },
-    {
-        "title": "Un hombre asesina a su mujer en Castellón y se entrega horas después en Barcelona",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/07/22/669e7e5513b5a.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.lavanguardia.com/vida/20240903/9908302/hombre-asesina-mujer-castellon-entrega-horas-barcelona.html",
-        "date": "2024-09-03 06:27:56",
-        "sentiment_score": -0.37747859209775925
-    },
-    {
-        "title": "Crimen machista en Castellón: asesinada una mujer que tenía una orden de alejamiento de su pareja",
-        "image_url": "https://album.mediaset.es/eimg/2024/09/03/crimen-machista-en-castellon-asesinada-una-mujer-que-tenia-una-orden-de-alejamiento-de-su-pareja_66f2.png",
-        "tags": [
-            "valencia"
-        ],
-        "link": "https://www.telecinco.es/noticias/valencia/20240903/asesinato-machista-castellon-orden-alejamiento_18_013352129.html",
-        "date": "2024-09-03 06:24:01",
-        "sentiment_score": -0.6091510057449341
-    },
-    {
-        "title": "BBVA da un paso más en la opa a Sabadell: toma el control de TSB Bank",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2024/06/fachada_edificio_vela_ciudad_bbva_30_abril_2024_madrid_espana_bbva-300x200.jpg",
-        "tags": [
-            "opa",
-            "bbva",
-            "banco sabadell",
-            "empresas"
-        ],
-        "link": "https://www.economiadigital.es/empresas/bbva-paso-opa-sabadell-toma-control-tsb-bank-ag.html",
-        "date": "2024-09-03 06:23:13",
-        "sentiment_score": 0.6062493622303009
-    },
-    {
-        "title": "Una mujer de 45 años víctima de violencia machista es asesinada en Castellón",
-        "image_url": "https://static.eldiario.es/clip/0a6dcd2c-cb74-40f2-bb19-de3688c05390_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/comunitat-valenciana/val/mujer-45-anos-victima-violencia-machista-asesinada-castellon_1_11624600.html",
-        "date": "2024-09-03 06:21:00",
-        "sentiment_score": -0.6489836778491735
-    },
-    {
-        "title": "El paro sube en 21.884 personas en agosto en España",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/22eee749-aabf-fe0e-64276c06f173c737.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z22eee5f4-990c-5f1e-b478ffc3f4d8c4c2/202409/el-paro-sube-en-21884-personas-en-agosto-en-espana",
-        "date": "2024-09-03 06:19:46",
-        "sentiment_score": -0.2014363557100296
-    },
-    {
-        "title": "Asesinada una mujer en Castelló víctima de violencia machista",
-        "image_url": "./assets/ai_generated/v1_txt2img_87dadde6f2494873a6442d5c05122335.png",
-        "tags": [
-            "mujer"
-        ],
-        "link": "http://www.publico.es/mujer/asesinada-mujer-castello-victima-violencia-machista.html",
-        "date": "2024-09-03 06:19:00",
-        "sentiment_score": -0.3078030161559582
-    },
-    {
-        "title": "Un hombre mata presuntamente a su pareja en Castellón y se entrega en una comisaría de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aba554ae-f494-4448-b462-9e946e84a5ca_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemurcia.es/sucesos/2024/09/03/crimen-castellon-aparece-muerta-casa-107688802.html",
-        "date": "2024-09-03 06:17:44",
-        "sentiment_score": -0.7896039839833975
-    },
-    {
         "title": "El DAX cae un 0,97 % hasta los 18.747,11 puntos",
         "image_url": "./assets/ai_generated/v1_txt2img_0711f9a78986435eb1b319c25f0acb9b.png",
         "tags": [
@@ -7277,5 +7110,593 @@ export default [
         "link": "https://www.laprovincia.es/espana/2024/09/06/audiencia-nacional-prohibe-guardia-civil-destruir-pruebas-17-a-107837383.html",
         "date": "2024-09-06 17:03:51",
         "sentiment_score": -0.8066494408994913
+    },
+    {
+        "title": "Con un pabellón de España renovado, se inaugura en Uruguay la tradicional Expo Prado",
+        "image_url": "./assets/ai_generated/v1_txt2img_5e1a22e295814f578e423f989d331da5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/06/con-un-pabellon-de-espana-renovado-se-inaugura-en-uruguay-la-tradicional-expo-prado/",
+        "date": "2024-09-06 21:46:43",
+        "sentiment_score": 0.4250742271542549
+    },
+    {
+        "title": "0-1. Arana da los tres puntos al Racing de Santander",
+        "image_url": "./assets/ai_generated/v1_txt2img_01a0770ae07948b387e80f63b502171d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/06/0-1-arana-da-los-tres-puntos-al-racing-de-santander/",
+        "date": "2024-09-06 21:32:08",
+        "sentiment_score": 0.31750868633389473
+    },
+    {
+        "title": "El R.Madrid-Espanyol del jornada 6 el sábado 21; Villarreal-Barcelona, domingo a las 18.30",
+        "image_url": "./assets/ai_generated/v1_txt2img_130d0c72d2404a59ac0b90b3f406cb78.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/06/el-rmadrid-espanyol-del-jornada-6-el-sabado-21-villarreal-barcelona-domingo-a-las-1830/",
+        "date": "2024-09-06 21:18:44",
+        "sentiment_score": 0.017463579773902893
+    },
+    {
+        "title": "82-73. El Baskonia desactiva al Mónaco en el Torneo Costa del Sol",
+        "image_url": "./assets/ai_generated/v1_txt2img_f0144055f95848719cbf2a945b90a326.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/06/82-73-el-baskonia-desactiva-al-monaco-en-el-torneo-costa-del-sol/",
+        "date": "2024-09-06 20:47:42",
+        "sentiment_score": -0.5009350627660751
+    },
+    {
+        "title": "Manuel Escribano triunfa por entrega en Alcázar de San Juan",
+        "image_url": "./assets/ai_generated/v1_txt2img_2e296c9e68ee4288a3545c1d21f35257.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/06/manuel-escribano-triunfa-por-entrega-en-alcazar-de-san-juan/",
+        "date": "2024-09-06 20:46:50",
+        "sentiment_score": 0.6160450428724289
+    },
+    {
+        "title": "Santiago Abascal critica a la UE y al gobierno de España en Buenos Aires",
+        "image_url": "https://www.infobae.com/resizer/v2/T7AFUXDKVJGFDHUWEUPY4GGBIY.jpg?auth=0ed3685cd7c1ddd2c653ce060e51f56b0d239a709fa5cb6c6b5c7d0a3ce16ca0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/06/santiago-abascal-critica-a-la-ue-y-al-gobierno-de-espana-en-buenos-aires/",
+        "date": "2024-09-06 20:37:31",
+        "sentiment_score": -0.8909110063686967
+    },
+    {
+        "title": "Crónica del Escocia - España: 1-2",
+        "image_url": "https://www.infobae.com/resizer/v2/NN3LLLA7FBBH3EPI6A7OKYKHE4.jpg?auth=99e78b33241f69aa0ea7f3e6e36729ea04d44476435a26b371b1be7291a51b29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/06/cronica-del-escocia-espana-1-2/",
+        "date": "2024-09-06 20:32:23",
+        "sentiment_score": -0.13662999868392944
+    },
+    {
+        "title": "México espera beneficios por casi 1.370 millones de euros por festejos de Independencia",
+        "image_url": "./assets/ai_generated/v1_txt2img_f4a357b3316e403c9f557f26ae962394.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/06/mexico-espera-beneficios-por-casi-1370-millones-de-euros-por-festejos-de-independencia/",
+        "date": "2024-09-06 20:31:49",
+        "sentiment_score": 0.59908726811409
+    },
+    {
+        "title": "Zaragoza vuelve a brindar por la música en directo en el primer asalto del Vive Latino",
+        "image_url": "./assets/ai_generated/v1_txt2img_010e5f2b5b81463ab79e262d50308035.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/06/zaragoza-vuelve-a-brindar-por-la-musica-en-directo-en-el-primer-asalto-del-vive-latino/",
+        "date": "2024-09-06 20:31:18",
+        "sentiment_score": 0.31777746230363846
+    },
+    {
+        "title": "El Texas a 67,67 dólares, nivel más bajo desde junio de 2023 tras caída semanal del 8%",
+        "image_url": "./assets/ai_generated/v1_txt2img_2f1d8ab59b024659bdfdb8382ddeb692.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/06/el-texas-a-6767-dolares-nivel-mas-bajo-desde-junio-de-2023-tras-caida-semanal-del-8/",
+        "date": "2024-09-06 20:19:23",
+        "sentiment_score": -0.3076544478535652
+    },
+    {
+        "title": "Economía de EE.UU. agregó 142.000 empleos en agosto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1410341064.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-economia-agrega-puestos-trabajo-baja-tasa-desempleo-cnn-dinero-tv/",
+        "date": "2024-09-06 20:54:46",
+        "sentiment_score": 0.11421023309230804
+    },
+    {
+        "title": "Conceden trasladar a Ismael \"el Mayo\" Zambada de Texas a Nueva York",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/mayo-for-canvi.jpg?quality=100&strip=info",
+        "tags": [
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/06/conceden-trasladar-ismael-mayo-zambada-texas-nueva-york-orix/",
+        "date": "2024-09-06 20:45:18",
+        "sentiment_score": -0.20519240200519562
+    },
+    {
+        "title": "Las noticias falsas en redes, el nuevo gran desafío para los gobiernos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/redes-sociales-3.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-falsas-gobiernos-redes-sociales-oppenheimer-presenta-tv/",
+        "date": "2024-09-06 20:41:04",
+        "sentiment_score": -0.37371307611465454
+    },
+    {
+        "title": "La dolarización está bastante lejana para Argentina, asegura experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1252563000.jpg?quality=100&strip=info",
+        "tags": [
+            "economía",
+            "argentina noticias",
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-economia-dolares-banco-central-deuda-petroleo-dolarizacion-javier-marcus-cnn-dinero-tv/",
+        "date": "2024-09-06 20:32:59",
+        "sentiment_score": -0.7149224784225225
+    },
+    {
+        "title": "El deterioro del mercado laboral de Estados Unidos es un factor de la caída de las remesas en México, dice experta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-831286956-20240906202504034.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "noticias de méxico",
+            "remesas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-remesas-envio-eeuu-deterioro-mercado-laboral-caida-peso-mexicano-gabriela-siller-pagaza-cnn-dinero-tv/",
+        "date": "2024-09-06 20:26:06",
+        "sentiment_score": -0.5009733773767948
+    },
+    {
+        "title": "Este es el testimonio de un sobreviviente del tiroteo en Georgia y el desgarrador relato de la madre de una víctima",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169668500-20240906194254214.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "georgia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/georgia-sospechoso-tiroteo-masivo-redaccion-buenos-aires-tv/",
+        "date": "2024-09-06 20:19:46",
+        "sentiment_score": -0.7702679987996817
+    },
+    {
+        "title": "Los cargos contra el padre del sospechoso del tiroteo en Georgia amplían debate sobre quién es responsable de un ataque con armas de fuego",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2169668500.jpg?quality=100&strip=info",
+        "tags": [
+            "apalachee",
+            "instanoticias",
+            "colin gray",
+            "tiroteos",
+            "tiroteo ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/06/cargos-padre-adolescente-tiroteo-escuela-georgia-limites-responsable-armas-fuego-trax/",
+        "date": "2024-09-06 20:18:36",
+        "sentiment_score": -0.48107562214136124
+    },
+    {
+        "title": "Un accidente de autopista deja el remolque de un camión levantado a la mitad de la carretera",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/thumbnail-trailer.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "estados unidos noticias",
+            "accidente",
+            "accidente automovilístico",
+            "accidentes"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/accidente-autopista-deja-remolque-camion-levantado-mitad-carretera-trax/",
+        "date": "2024-09-06 20:12:53",
+        "sentiment_score": -0.7483132909983397
+    },
+    {
+        "title": "Irán transfirió misiles balísticos a Rusia, aseguran fuentes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/misiles.jpg?quality=100&strip=info",
+        "tags": [
+            "irán",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/06/iran-misiles-balisticos-rusia-trax/",
+        "date": "2024-09-06 20:06:40",
+        "sentiment_score": 0.035707488656044006
+    },
+    {
+        "title": "Las 5 películas más esperadas de septiembre, según Rotten Tomatoes",
+        "image_url": "./assets/ai_generated/v1_txt2img_52d2ca901cfb4f1fa5184ad8aa76f736.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ranking-5-peliculas-mas-esperadas-septiembre-redaccion-buenos-aires-tv/",
+        "date": "2024-09-06 20:04:28",
+        "sentiment_score": 0.08762068301439285
+    },
+    {
+        "title": "Yo no te creo, hermano",
+        "image_url": "./assets/ai_generated/v1_txt2img_5551f0169fb64d4a942b7453babb5534.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-bayort-creo-hermano-20240907185942-nts.html",
+        "date": "2024-09-06 19:40:28",
+        "sentiment_score": -0.2151959389448166
+    },
+    {
+        "title": "De un carretero, para El Baratillo",
+        "image_url": "./assets/ai_generated/v1_txt2img_2fb1dd944c9c47748ff6925df067b547.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antologia-del-recuadro-de-antonio-burgos-carretero-baratillo-20240907204021-nts.html",
+        "date": "2024-09-06 19:36:56",
+        "sentiment_score": -0.002644956111907959
+    },
+    {
+        "title": "Barnier asegura que no retirará la reforma de las pensiones y controlará la inmigración",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/06/Barnier-Ru0d1dyZ3RwFAfYTrcQOieP-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/barnier-retirara-reforma-pensiones-controlara-inmigracion-20240906211149-nt.html",
+        "date": "2024-09-06 19:12:31",
+        "sentiment_score": -0.07834121584892273
+    },
+    {
+        "title": "Duelo contra la ruina en el pabellón San Pablo",
+        "image_url": "./assets/ai_generated/v1_txt2img_cb123f7312be4b6ba7ccf66eaa012fd2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-duelo-ruina-pabellon-san-pablo-20240907203059-nts.html",
+        "date": "2024-09-06 18:55:49",
+        "sentiment_score": -0.054404616355895996
+    },
+    {
+        "title": "Caray con Óscar López",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/07/1437577773-RdyUakUxvXWEbigRVazVXrO-1200x840@diario_abc-U31451014880txQ-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-caray-oscar-lopez-20240907205152-nt.html",
+        "date": "2024-09-06 18:54:27",
+        "sentiment_score": -0.6293423995375633
+    },
+    {
+        "title": "Vinicius, personaje de Stephen King",
+        "image_url": "./assets/ai_generated/v1_txt2img_e210b22391ad4565af21dd6a19adba52.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-vinicius-personaje-stephen-king-20240907203442-nts.html",
+        "date": "2024-09-06 18:34:43",
+        "sentiment_score": -0.230386883020401
+    },
+    {
+        "title": "Imponen la mayor sentencia para el hombre que provocó un incendio en un hotel durante los altercados del Reino Unido",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/06/estandar-2-kzGC-U603036110625mqH-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/imponen-mayor-sentencia-hombre-provoco-incendio-hotel-20240906203134-nt.html",
+        "date": "2024-09-06 18:31:34",
+        "sentiment_score": -0.6909145340323448
+    },
+    {
+        "title": "Unidad fiscal, sin singularismos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/07/Capturaxxxx-U02284472737zsq-1200x630@diario_abc.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-unidad-fiscal-singularismos-20240907200330-nt.html",
+        "date": "2024-09-06 18:30:21",
+        "sentiment_score": -0.03820151090621948
+    },
+    {
+        "title": "Ayuso y la inmigración",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/07/ABC_ANGULOOSCURO_Ayuso_PRADA-RmJxZ3vn0BkFqaYKjsO9iOO-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-ayuso-inmigracion-20240907155404-nt.html",
+        "date": "2024-09-06 17:31:39",
+        "sentiment_score": -0.1694190502166748
+    },
+    {
+        "title": "Los árboles velaban",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/07/240907TerceraColinas-RkFnT5KzGBXKxfQtjbAq5mI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/antonio-colinas-arboles-velaban-20240907193119-nt.html",
+        "date": "2024-09-06 17:31:20",
+        "sentiment_score": -0.07062587141990662
+    },
+    {
+        "title": "El exdiputado de ERC Alfred Bosch impulsa una tercera candidatura para liderar el partido",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6UQP6MQQZJIIHHIQWYXP2NSOJU.jpg?auth=ecda4837eb19953298acd0eebca91f1b202a8185d8682660169520bee3eb8acd",
+        "tags": [
+            "partidos políticos",
+            "cataluña",
+            "erc",
+            "alfred bosch",
+            "congresos políticos",
+            "independentismo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-06/el-exdiputado-de-erc-alfred-bosch-impulsa-una-tercera-candidatura-para-liderar-el-partido.html",
+        "date": "2024-09-06 20:33:40",
+        "sentiment_score": 0.07548139989376068
+    },
+    {
+        "title": "Del concierto ponderado al agravio insolidario: el giro copernicano del PP sobre la financiación de Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GKT27MM6AJ47LIO4FDAN5ZLPLQ.jpg?auth=89a38025219bbf98b8f89334b5a2d071c8748adbea01d59de1f159072e35655b",
+        "tags": [
+            "alberto núñez feijóo",
+            "país vasco",
+            "generalitat cataluña",
+            "erc",
+            "navarra",
+            "salvador illa",
+            "psc",
+            "cataluña",
+            "alicia sanchez-camacho",
+            "galicia",
+            "pp",
+            "financiación autonómica",
+            "parlament cataluña",
+            "comunidades autónomas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-06/del-concierto-ponderado-al-agravio-insolidario-el-giro-copernicano-del-pp-sobre-la-financiacion-de-cataluna.html",
+        "date": "2024-09-06 18:56:37",
+        "sentiment_score": 0.5135035216808319
+    },
+    {
+        "title": "Mazón celebra que asuma el PP los fondos de nivelación y la oposición critica que rechace condenar la deuda",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6U53VZSTT6F6UMXSTCPKEUZNIM.jpg?auth=999ffea5ecce22bde26b6d1a4cc7e0a88621355755cd1f1f87004766eb910ff0",
+        "tags": [
+            "pspv-psoe",
+            "carlos mazón",
+            "generalitat valenciana",
+            "comunidad valenciana",
+            "diana morant ripoll",
+            "financiación"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-06/mazon-celebra-que-asuma-el-pp-los-fondos-de-nivelacion-y-la-oposicion-critica-que-rechace-condenar-la-deuda.html",
+        "date": "2024-09-06 18:19:54",
+        "sentiment_score": -0.09728284180164337
+    },
+    {
+        "title": "Ábalos entrega al juez del ‘caso Koldo’ una pericial para contrarrestar la auditoría de Transportes que le salpica",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2IHJRSOVNZFQ7H3BV5JK6RCQQI.jpg?auth=a1669bdc2dd36284b539b94eab2911f3d1ea9bc02695e6e5a2f1d90f1768429f",
+        "tags": [
+            "investigación judicial",
+            "ministerio de transportes",
+            "caso koldo",
+            "coronavirus covid-19",
+            "audiencia nacional",
+            "mascarillas",
+            "josé luis ábalos",
+            "españa",
+            "óscar puente santiago",
+            "corrupción",
+            "auditoría",
+            "fiscalía anticorrupción"
+        ],
+        "link": "https://elpais.com/espana/2024-09-06/abalos-entrega-al-juez-del-caso-koldo-una-pericial-para-contrarrestar-la-auditoria-de-transportes-que-le-salpica.html",
+        "date": "2024-09-06 17:24:55",
+        "sentiment_score": -0.7416376322507858
+    },
+    {
+        "title": "Ola de malestar en España por las declaraciones de Vinicius Jr. a CNN sobre el racismo en el país",
+        "image_url": "./assets/ai_generated/v1_txt2img_f1b253505d9d4134aa6a985536155d10.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2024/09/06/vinicius-jr-declaraciones-racismo-malestar-espana-orix/",
+        "date": "2024-09-06 22:03:41",
+        "sentiment_score": -0.7725335489958525
+    },
+    {
+        "title": "Aprender a escalar en un fin de semana en la sierra de Madrid",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/09/05/17255588951299.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/09/07/66d9f004e9cf4abe3b8b4577.html",
+        "date": "2024-09-06 22:03:32",
+        "sentiment_score": 0.6467648986726999
+    },
+    {
+        "title": "Italia goleó a Francia en la Liga de Naciones",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2024/09/VINOTINTO_Nigeria.jpg",
+        "tags": [
+            "fútbol",
+            "liga",
+            "uefa",
+            "deportes",
+            "italia",
+            "francia"
+        ],
+        "link": "https://correodelcaroni.com/deportes/italia-goleo-a-francia-en-la-liga-de-naciones/",
+        "date": "2024-09-06 22:00:28",
+        "sentiment_score": 0.2128203958272934
+    },
+    {
+        "title": "Carvajal manda callar a Vinicius y presiona para cerrar un fichaje del Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/06/culemania/real-madrid/883921699_13418903_1706x960.jpg?contentId=ESPIMA20240906_0100",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20240906/carvajal-callar-vinicius-presiona-fichaje-real-madrid/883911703_0.html",
+        "date": "2024-09-06 21:58:31",
+        "sentiment_score": -0.4880186915397644
+    },
+    {
+        "title": "Oficial: San Lorenzo presentó a Iker Muniain como nuevo refuerzo",
+        "image_url": "./assets/ai_generated/v1_txt2img_e653a8d5c9b94198a3906bee806b334e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/06/oficial-san-lorenzo-presento-al-espanol-iker-muniain-como-nuevo-refuerzo/",
+        "date": "2024-09-06 21:57:05",
+        "sentiment_score": 0.2008267417550087
+    },
+    {
+        "title": "El Eibar, con el objetivo de dar un paso más en Primera",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/77683b6a-1839-46cd-83e6-699c813cfc9a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2024/09/06/eibar-objetivo-dar-paso-primera-8657787.html",
+        "date": "2024-09-06 21:49:40",
+        "sentiment_score": 0.12933272123336792
+    },
+    {
+        "title": "La Real, ante un ilusionante nuevo ciclo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2cd1813d-1ac3-48cc-a6a9-13d50920f247_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2024/09/06/real-ilusionante-nuevo-ciclo-8657423.html",
+        "date": "2024-09-06 21:43:14",
+        "sentiment_score": -0.0008506178855895996
+    },
+    {
+        "title": "Güler acaba con molestias el 0-0 de Turquía en Gales en la Liga de Naciones",
+        "image_url": "./assets/ai_generated/v1_txt2img_5e43f73a311945f587ebba5bcb785b9e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/06/guler-acaba-con-molestias-el-0-0-de-turquia-en-gales-en-la-liga-de-naciones/",
+        "date": "2024-09-06 21:30:23",
+        "sentiment_score": -0.851952288299799
+    },
+    {
+        "title": "1-3: Italia asalta París ante una desdibujada Francia",
+        "image_url": "./assets/ai_generated/v1_txt2img_839f67286f57483c897f9d0f0ba050a2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/06/1-3-italia-asalta-paris-ante-una-desdibujada-francia/",
+        "date": "2024-09-06 21:00:42",
+        "sentiment_score": -0.8871310707181692
+    },
+    {
+        "title": "Quedar bien",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/12/vida/793930868_8708567_1706x960.jpg?contentId=ESPIMA20230912_0269",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240907/quedar-bien/884041590_13.html",
+        "date": "2024-09-06 22:11:39",
+        "sentiment_score": 0.12410604953765869
+    },
+    {
+        "title": "Muere Sergio Mendes, leyenda de la bossa nova, a los 83 años",
+        "image_url": "./assets/ai_generated/v1_txt2img_615641f6c0bf42cb95815ec598009423.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/entretenimiento/articulo/2024-09-06/fallece-a-los-83-anos-sergio-mendes-leyenda-de-la-bossa-nova",
+        "date": "2024-09-06 22:10:11",
+        "sentiment_score": 0.20722784101963043
+    },
+    {
+        "title": "GTE Group redobla su apuesta por el crecimiento",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/06/66db31acaea45.r_d.2825-2080-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20240907/9920883/gte-espa-bombas-agua-compra-baico-pumps.html",
+        "date": "2024-09-06 22:05:00",
+        "sentiment_score": -0.03897809237241745
+    },
+    {
+        "title": "Amigo de Luis Miguel confirma la boda entre el cantante y Paloma Cuevas",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/07/luis_miguel_cantante.jpg",
+        "tags": [
+            "luis miguel",
+            "entretenimiento"
+        ],
+        "link": "https://eldiariony.com/2024/09/06/amigo-de-luis-miguel-confirma-la-boda-entre-el-cantante-y-paloma-cuevas/",
+        "date": "2024-09-06 22:04:43",
+        "sentiment_score": -0.6686624605208635
+    },
+    {
+        "title": "El Covirán se mide al Leyma Coruña en el triangular Diputación de Armilla",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/09/07/f80cee68-4076-43f0-8bc2-8b27dfc8a9cf_source-aspect-ratio_default_0-kRqC--758x531@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/deportes/fundacioncbgranada/coviran-mide-leyma-coruna-triangular-diputacion-armilla-20240907000139-nt.html",
+        "date": "2024-09-06 22:01:39",
+        "sentiment_score": -0.6045067310333252
+    },
+    {
+        "title": "Puigdemont se arrepiente ahora de su fuga: la detención habría acelerado la amnistía",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/08/08/2024080807422194376.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/politica/puigdemont-arrepiente-ahora-fuga-detencion-habria-acelerado-amnistia/20240907000000837411.html",
+        "date": "2024-09-06 22:00:00",
+        "sentiment_score": -0.9190977327525616
+    },
+    {
+        "title": "Mandelstan antes de sufrir las purgas de Stalin",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/07/05/2024070510401948895.jpg",
+        "tags": [
+            "qué leer"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/que-leer/mandelstan-antes-sufrir-purgas-stalin/20240907000000838303.html",
+        "date": "2024-09-06 22:00:00",
+        "sentiment_score": 0.1561984419822693
+    },
+    {
+        "title": "El Campamento Marcet terminó su segunda edición en Venezuela, de la mano de CLX Group",
+        "image_url": "https://noticias24carabobo.com/wp-content/uploads/2024/09/Campamento-Marcet-CLX-Group-1-1068x601.jpg",
+        "tags": [
+            "nasar ramadan dagga",
+            "campamento marcet en venezuela",
+            "fundación marcet",
+            "federación venezolana de fútbol",
+            "clx group",
+            "nasar dagga marcet",
+            "portada",
+            "multimax venezuela",
+            "fundación marcet en venezuela",
+            "sociales",
+            "nasar dagga mujamad",
+            "fifa",
+            "nasar dagga",
+            "fundación clx nasar dagga marcet",
+            "fundación clx",
+            "nasar ramadan",
+            "ceo de clx samsung nasar dagga",
+            "dagga nasar",
+            "academia de puerto cabello",
+            "marcet football university",
+            "clx group y la fundación marcet",
+            "carabobo",
+            "ceo nasar dagga multimax",
+            "nasar ramadan dagga mujamad",
+            "campamento de fútbol"
+        ],
+        "link": "https://noticias24carabobo.com/campamento-marcet-venezuela-termino-segunda-edicion/",
+        "date": "2024-09-06 21:41:20",
+        "sentiment_score": 0.28066109865903854
     }
 ];
