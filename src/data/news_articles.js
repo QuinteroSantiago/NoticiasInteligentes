@@ -170,59 +170,6 @@ export default [
         "sentiment_score": 0.02863471955060959
     },
     {
-        "title": "Decenas de miles de manifestantes salen a las calles de Israel para exigir un alto el fuego",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/download-4.jpeg?quality=100&strip=info",
-        "tags": [
-            "israel noticias",
-            "manifestaciones",
-            "israel",
-            "alto el fuego"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/miles-manifestantes-salen-calles-israel-exigir-alto-fuego-trax/",
-        "date": "2024-09-03 13:52:50",
-        "sentiment_score": -0.8993465388193727
-    },
-    {
-        "title": "Tercer día consecutivo de protestas masivas en Israel",
-        "image_url": "./assets/ai_generated/v1_txt2img_ac005f6547d341979b20bad4dfbd6ebc.png",
-        "tags": [
-            "fast – news variety",
-            "guerra hamas israel",
-            "israel",
-            "xpress",
-            "benjamin netanyahu",
-            "protestas"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/protestas-masivas-israel-netanyahu-rehenes-levy-cafe-tv/",
-        "date": "2024-09-03 13:06:34",
-        "sentiment_score": -0.7454405352473259
-    },
-    {
-        "title": "El rumbo energético del Gobierno de Milei",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1636805928.jpg?quality=100&strip=info",
-        "tags": [
-            "reforma energética",
-            "fast – general",
-            "javier milei",
-            "xpress",
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rumbo-energetico-gobierno-milei-argentina-primera-manana-fast/",
-        "date": "2024-09-03 12:34:35",
-        "sentiment_score": 0.016823291778564453
-    },
-    {
-        "title": "Ataque ruso contra instalación educativa militar en Ucrania deja decenas de muertos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2018/10/ultima-hora-cnnee-breaking-1.jpg?quality=100&strip=info",
-        "tags": [
-            "guerra de rusia en ucrania",
-            "ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/03/ataque-ruso-instalacion-educativa-militar-ucrania-decenas-muertos-trax/",
-        "date": "2024-09-03 11:47:24",
-        "sentiment_score": -0.8899797033518553
-    },
-    {
         "title": "Corazón e inteligencia",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/04/pepeluis-RQu0IJusX655gF3wTqvXfeJ-758x531@diario_abc.jpg",
         "tags": [
@@ -271,56 +218,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/primer-curacion-vih-trasplante-celulas-madre-mutacion-20240903141202-nt.html",
         "date": "2024-09-03 14:21:45",
         "sentiment_score": -0.14267590641975403
-    },
-    {
-        "title": "'Un viaje al interior de Ucrania', el nuevo pódcast de ABC",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/03/ucrania0-1200x840-titulo-RdLlAWsVqNJeBDGadmKZruO-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/viaje-interior-ucrania-nuevo-podcast-abc-20240903154909-nt.html",
-        "date": "2024-09-03 13:49:09",
-        "sentiment_score": -0.14688622951507568
-    },
-    {
-        "title": "Netanyahu defiende que Israel ganará sin necesidad de armas británicas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/03/israel-uk-RGIWAmAfKypkn3jmWsd10hP-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/netanyahu-defiende-israel-ganara-necesidad-armas-britanicas-20240903143849-nt.html",
-        "date": "2024-09-03 12:38:49",
-        "sentiment_score": -0.11113318800926208
-    },
-    {
-        "title": "Sube con fuerza la incidencia de diabetes tipo 1 en los menores europeos en los últimos 30 años",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/09/03/labo-cancer--758x531.png",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/sube-fuerza-incidencia-diabetes-tipo-menores-europeos-20240903142319-nt.html",
-        "date": "2024-09-03 12:23:19",
-        "sentiment_score": -0.19405262172222137
-    },
-    {
-        "title": "Al menos 41 muertos en un ataque ruso en un centro educativo militar en Poltava, Ucrania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/03/rescuers-RTQPn6RJV2eSWJjAnJVVDXO-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ataque-ruso-centro-educativo-militar-poltava-ucrania-20240903140331-nt.html",
-        "date": "2024-09-03 12:14:01",
-        "sentiment_score": -0.3634290099143982
-    },
-    {
-        "title": "El director de la compañía estatal de transmisión eléctrica de Ucrania ha sido destituido",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/03/apagon-RsKMQkVkQDlTWWA2fjummMP-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/director-compania-estatal-transmision-electrica-ucrania-destituido-20240903124248-nt.html",
-        "date": "2024-09-03 10:42:49",
-        "sentiment_score": -0.12184832990169525
     },
     {
         "title": "El Congreso vuelve a dilatar los plazos para la regularización de inmigrantes",
@@ -385,101 +282,6 @@ export default [
         "link": "https://elpais.com/espana/2024-09-03/el-exministro-campo-se-abstendra-en-la-deliberacion-de-la-amnistia-en-el-constitucional.html",
         "date": "2024-09-03 14:38:46",
         "sentiment_score": -0.6570462863892317
-    },
-    {
-        "title": "Los Mossos investigan una agresión sexual en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VFW3ROIOBZGCXBTM3NE6RFOVUQ.jpg?auth=0a13e32e35721bb7c9f65bbf9d03b006bde1c3b1956cade7addac29f3cf9481d",
-        "tags": [
-            "mossos d'esquadra",
-            "cataluña",
-            "barcelona",
-            "delitos sexuales",
-            "agresiones sexuales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-03/los-mossos-investigan-una-agresion-sexual-en-barcelona.html",
-        "date": "2024-09-03 14:12:52",
-        "sentiment_score": -0.17999307811260223
-    },
-    {
-        "title": "Sánchez impone a Escrivá como gobernador del Banco de España pese al rechazo del PP",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6K5J5QCZCRDRFFJAWR5QUAV47A.jpg?auth=e2c2f776c964911adc25ac44f804cd4bfb285594f389bc282ef6ed13fdaa478c",
-        "tags": [
-            "economía",
-            "gobierno de españa",
-            "nombramientos",
-            "pedro sánchez",
-            "cargos públicos",
-            "josé luis escrivá",
-            "banco de españa",
-            "psoe",
-            "pp"
-        ],
-        "link": "https://elpais.com/economia/2024-09-03/sanchez-impone-a-escriva-como-gobernador-del-banco-de-espana-pese-al-rechazo-del-pp.html",
-        "date": "2024-09-03 13:55:23",
-        "sentiment_score": -0.6668222285807133
-    },
-    {
-        "title": "Isabel Perelló, la magistrada con fama de buscar consensos que ha desatascado la presidencia del Poder Judicial",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XKVUS5WBYJEVDM2Z6BXAXPG5ZM.jpg?auth=91c34fe24037e036bb6e72b2650480842b574a9be57dc3a52df33083d2330ca1",
-        "tags": [
-            "cgpj",
-            "jueces",
-            "jueces para la democracia",
-            "tribunal supremo",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-09-03/isabel-perello-la-magistrada-con-fama-de-buscar-consensos-que-ha-desatascado-la-presidencia-del-poder-judicial.html",
-        "date": "2024-09-03 13:35:26",
-        "sentiment_score": 0.061852335929870605
-    },
-    {
-        "title": "El Goven de Illa y los socios de investidura chocan por las propuestas de ampliación de El Prat",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AYN4SWLPGBANNLN3CHY53J4LWY.jpg?auth=69bbf51090d018c666e5e353d4ff43d356b5f64415d2a91cdb9b436a1b046571",
-        "tags": [
-            "generalitat cataluña",
-            "erc",
-            "cataluña",
-            "sílvia paneque",
-            "aeropuerto el prat",
-            "govern cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-03/el-goven-de-illa-y-los-socios-de-investidura-chocan-por-las-propuestas-de-ampliacion-de-el-prat.html",
-        "date": "2024-09-03 12:30:21",
-        "sentiment_score": -0.3195969983935356
-    },
-    {
-        "title": "Agendas, cds y decenas de ‘meninas’: los hallazgos clave en la investigación a la número tres de Ayuso que llegan ahora a los juzgados",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2JSB2ZPH4NDCDNH6GER2Y7OF4E.jpg?auth=4cf952a19ca1034d41240789b634578728974458c5fbfeeb72719dc45c1be175",
-        "tags": [
-            "alfonso serrano",
-            "pp madrid",
-            "isabel díaz ayuso",
-            "madrid",
-            "comunidad de madrid",
-            "arroyomolinos",
-            "pp",
-            "gobierno comunidad de madrid",
-            "ana millán"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-09-03/agendas-cds-y-decenas-de-meninas-los-hallazgos-clave-en-la-investigacion-a-la-numero-tres-de-ayuso-que-llegan-ahora-a-los-juzgados.html",
-        "date": "2024-09-03 12:19:57",
-        "sentiment_score": -0.5941522717475891
-    },
-    {
-        "title": "El PP mantiene al ultra Le Senne en la presidencia del Parlamento balear",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4QSZEWCP3JFBXO5KBDEAZUY2QI.jpg?auth=df55cd8b4dc50ae3c7d529f096d531b0e2430667be1d68d4211c7eac809bfcdc",
-        "tags": [
-            "españa",
-            "memoria histórica",
-            "parlamento",
-            "vox",
-            "pp",
-            "víctimas franquismo",
-            "baleares"
-        ],
-        "link": "https://elpais.com/espana/2024-09-03/el-pp-mantiene-al-ultra-le-senne-en-la-presidencia-del-parlamento-balear.html",
-        "date": "2024-09-03 12:06:04",
-        "sentiment_score": -0.8395443372428417
     },
     {
         "title": "Pedro Rocha no podrá presentarse a la reelección de la RFEF tras el rechazo de su recurso",
@@ -7698,5 +7500,427 @@ export default [
         "link": "https://noticias24carabobo.com/campamento-marcet-venezuela-termino-segunda-edicion/",
         "date": "2024-09-06 21:41:20",
         "sentiment_score": 0.28066109865903854
+    },
+    {
+        "title": "Previsión del clima en Málaga para antes de salir de casa este 7 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/EWYWTX2G5VFXROXRTPIRZS4F3Q.jpg?auth=6fc33dd3c21ae2329fcdfbd504a67937121433fdba36ae9a3840fcabc62f61bb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/prevision-del-clima-en-malaga-para-antes-de-salir-de-casa-este-7-de-septiembre/",
+        "date": "2024-09-07 02:02:53",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 7 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/HVEMN33R5FAH7KC2SH3TSMNISM.jpg?auth=a3121734ddcc0d40f895b6bde7470ee642a55a214515bed62edbb6d58f8f0701",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-7-de-septiembre/",
+        "date": "2024-09-07 01:32:11",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "¿Qué ver en Disney+? Estas son las películas top en España",
+        "image_url": "https://www.infobae.com/resizer/v2/W5SV2KN23VGTDEYJF2SASECLHY.jpg?auth=3118c4c7d525272663e85eb350f479cbb5bf72499473e91faecb385605914f71",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/que-ver-en-disney-estas-son-las-peliculas-top-en-espana/",
+        "date": "2024-09-07 01:31:50",
+        "sentiment_score": 0.6659733280539513
+    },
+    {
+        "title": "Estas son las películas que están de moda en Prime Video España este día",
+        "image_url": "https://www.infobae.com/resizer/v2/DINFSUH6F5EUVJKCYWJG6BQ7V4.jpg?auth=49b7438200023a4b3cf9b940d037f8325f2288476698e8fe2bd2e8410d514eb1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/07/estas-son-las-peliculas-que-estan-de-moda-en-prime-video-espana-este-dia/",
+        "date": "2024-09-07 01:31:10",
+        "sentiment_score": 0.44026966765522957
+    },
+    {
+        "title": "El déficit de la balanza comercial en El Salvador creció hasta 4.823 millones de euros",
+        "image_url": "./assets/ai_generated/v1_txt2img_849ed38a89574d24af3e9427397d0b5d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/el-deficit-de-la-balanza-comercial-en-el-salvador-crecio-hasta-4823-millones-de-euros/",
+        "date": "2024-09-07 01:17:16",
+        "sentiment_score": -0.4628050960600376
+    },
+    {
+        "title": "Iker Muniain firma contrato con San Lorenzo y comparte su deseo de \"empezar a jugar\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_87fd6f7061d3450ca4477ca52d6baecb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/iker-muniain-firma-contrato-con-san-lorenzo-y-comparte-su-deseo-de-empezar-a-jugar/",
+        "date": "2024-09-07 01:16:48",
+        "sentiment_score": 0.4391566924750805
+    },
+    {
+        "title": "Clima en España: el pronóstico del tiempo para Barcelona este 7 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/QWGYXUMXWVAJPDZIOTTF7LXBJ4.jpg?auth=21ee0f2f8cf44bd805ccdc93fe695280845839b6ac08a5ad0cd306f40f6a1aec",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/clima-en-espana-el-pronostico-del-tiempo-para-barcelona-este-7-de-septiembre/",
+        "date": "2024-09-07 01:01:07",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Teresa Ribera podría asumir la cartera de Competencia de la Unión Europea",
+        "image_url": "https://www.infobae.com/resizer/v2/S32YBMDP2BHUPNAA42TXOMQRBY.jpg?auth=8706258912095750e0e499e9300a2cacebef7e0662ac373a21f2005eb3487f46",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/06/teresa-ribera-podria-asumir-la-cartera-de-competencia-de-la-union-europea/",
+        "date": "2024-09-06 23:47:47",
+        "sentiment_score": 0.055655911564826965
+    },
+    {
+        "title": "La diversidad de la paella une las gastronomías de Perú y España en torno al arroz",
+        "image_url": "https://www.infobae.com/resizer/v2/XJADJFOPUZB37CF4FX6K4UUPXY.jpg?auth=0829585d99c647e08ea80d3d1904c1d6b93a1f4f44bbfefc9d088fb646ca4257",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/06/la-diversidad-de-la-paella-une-las-gastronomias-de-peru-y-espana-en-torno-al-arroz/",
+        "date": "2024-09-06 23:16:52",
+        "sentiment_score": 0.1166667640209198
+    },
+    {
+        "title": "El primer ministro francés, Michel Barnier, busca controlar la inmigración y alerta sobre el déficit en el presupuesto",
+        "image_url": "https://www.infobae.com/resizer/v2/GNIKIMBKMBAENMZXI4PZHWO6EE.jpg?auth=810f28cf73c8beea882ffbbe526cc3a3836803de91e02d662baaa733b0303f03",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/06/el-primer-ministro-frances-michel-barnier-busca-controlar-la-inmigracion-y-alerta-sobre-el-deficit-en-el-presupuesto/",
+        "date": "2024-09-06 22:39:31",
+        "sentiment_score": 0.23325726762413979
+    },
+    {
+        "title": "La situación en Pacaraima, ¿síntoma de una nueva ola migratoria de venezolanos hacia Brasil?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-924286106.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "crisis venezuela",
+            "crisis de migrantes",
+            "brasil"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/brasil-migracion-irregular-pacaraima-selva-crisis-venezuela-conclusiones-tv/",
+        "date": "2024-09-07 02:07:39",
+        "sentiment_score": -0.04289104789495468
+    },
+    {
+        "title": "Exiliado político nicaragüense dice que estar libre es como volver a nacer",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/still-20940097-10036-still.jpg?quality=100&strip=info",
+        "tags": [
+            "daniel ortega",
+            "crisis en nicaragua",
+            "exiliado",
+            "nicaragua"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/exilio-dictadura-nicaragua-presos-carcel-opositores-migrantes-conclusiones-tv/",
+        "date": "2024-09-07 02:04:27",
+        "sentiment_score": -0.21944935619831085
+    },
+    {
+        "title": "Trump arremete contra mujeres que lo han acusado de agresión sexual tras asistir a una audiencia para apelar veredicto en caso de Carroll",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/trump-conferencia.jpg?quality=100&strip=info",
+        "tags": [
+            "donald trump",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/06/trump-arremete-mujeres-acusado-agresion-sexual-jean-carroll-trax/",
+        "date": "2024-09-07 01:37:57",
+        "sentiment_score": -0.7384606823325157
+    },
+    {
+        "title": "EE.UU. detecta riesgo de “sabotaje” de Rusia a cables submarinos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cnne-1748744-c-2017-07-21t184545z-1962581203-rc1430b18580-rtrmadp-3-russia-submarine.jpg?quality=100&strip=info",
+        "tags": [
+            "flota rusia",
+            "rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-riesgo-sabotaje-rusia-cables-submarinos-panorama-mundial-tv/",
+        "date": "2024-09-07 01:32:00",
+        "sentiment_score": -0.48310986906290054
+    },
+    {
+        "title": "El pueblo maorí de Nueva Zelandia tiene una nueva reina",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/new-maori-queen-horiz-00-00-00-00-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "mundo",
+            "videos digitales",
+            "nueva zelandia",
+            "xpress",
+            "pueblo indígena maorí",
+            "fast – news variety",
+            "reina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pueblo-maori-nueva-zelandia-nueva-reina-digivid-trax/",
+        "date": "2024-09-07 01:21:39",
+        "sentiment_score": -0.0033061206340789795
+    },
+    {
+        "title": "La reforma judicial en México no va a pasar, asegura dirigente opositor",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169467890.jpg?quality=100&strip=info",
+        "tags": [
+            "reforma judicial",
+            "méxico",
+            "senado",
+            "amlo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-judicial-discusion-senado-43-marko-cortes-perspectivas-mexico-tv/",
+        "date": "2024-09-07 01:20:05",
+        "sentiment_score": -0.1693417727947235
+    },
+    {
+        "title": "El Mayo Zambada será juzgado en corte de Nueva York",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/still-92987023-20507-792999999998-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mayo-zambada-juicio-nueva-york-perspectivas-mexico-tv/",
+        "date": "2024-09-07 01:08:44",
+        "sentiment_score": -0.49060215055942535
+    },
+    {
+        "title": "Toma ilegal de una calle con derrape de autos es captada con cámara de visión nocturna",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/carreras.jpg?quality=100&strip=info",
+        "tags": [
+            "policía",
+            "arrestos",
+            "cámaras de seguridad",
+            "carreras",
+            "noticias de ee.uu.",
+            "automóviles"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/toma-de-calle-autos-derrapes-vision-nocturna-trax/",
+        "date": "2024-09-07 01:03:14",
+        "sentiment_score": -0.34612297639250755
+    },
+    {
+        "title": "Panamá deportó a 130 migrantes de India en vuelo financiado por el Gobierno de EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/migrantes-panama_d701d5.jpg?quality=100&strip=info",
+        "tags": [
+            "inmigración",
+            "panamá"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/06/panama-deporto-migrantes-vuelo-financiado-eeuu-orix/",
+        "date": "2024-09-07 00:55:58",
+        "sentiment_score": -0.5747996419668198
+    },
+    {
+        "title": "Grabaciones de la cabina del avión que se estrelló en Brasil describen \"mucha formación de hielo\", según un informe preliminar",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/avion-Brasil.jpg?quality=100&strip=info",
+        "tags": [
+            "brasil",
+            "accidente aéreo"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/06/cabina-avion-estrello-brasil-formacion-hielo-reux/",
+        "date": "2024-09-07 00:18:22",
+        "sentiment_score": -0.1817830391228199
+    },
+    {
+        "title": "Al Valencia no dejan de crecerle los problemas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cb34dbd5-4e81-417a-8d6f-21bfc0fbfe3e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/07/valencia-dejan-crecerle-problemas-107843343.html",
+        "date": "2024-09-07 02:00:15",
+        "sentiment_score": -0.5695350393652916
+    },
+    {
+        "title": "Detenido un paquistaní residente en Canadá acusado de planear un atentado contra un centro judío de Nueva York",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240907031451_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-detenido-paquistani-residente-canada-acusado-planear-atentado-contra-centro-judio-nueva-york-20240907031451.html",
+        "date": "2024-09-07 01:14:51",
+        "sentiment_score": -0.8110340191051364
+    },
+    {
+        "title": "El Real Madrid no gana para disgustos en estas fechas de la FIFA",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2023/07/15/2023071519072484046.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-gana-disgustos-fechas-fifa/20240907030513317267.html",
+        "date": "2024-09-07 01:05:13",
+        "sentiment_score": -0.8839995507150888
+    },
+    {
+        "title": "Jaime Cantizano: \"¿El concierto catalán? A mí lo que me molesta es que puedan pensar que somos tontos\"",
+        "image_url": "https://s1.elespanol.com/2024/09/06/porfolio/883921911_248998152_1706x2016.jpg?contentId=ESPIMA20240906_0312",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/porfolio/entrevistas/20240907/jaime-cantizano-concierto-catalan-molesta-puedan-pensar-tontos/883911759_0.html",
+        "date": "2024-09-07 00:46:57",
+        "sentiment_score": -0.8517693020403385
+    },
+    {
+        "title": "Colombia terminó la fase de grupos con puntaje perfecto y espera rival en Cali para los octavos de final de mundial femenino",
+        "image_url": "https://www.infobae.com/resizer/v2/EWAGUHVG6JCR5HWB4YGRFFYKKA.jpeg?auth=3f43a7457096d2bac097a64241fe879d4d3def126d1eddd3ec661888d07fd0ac",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/07/colombia-termino-la-fase-de-grupos-con-puntaje-perfecto-y-espera-rival-en-cali-para-los-octavos-de-final-de-mundial-femenino/",
+        "date": "2024-09-07 00:20:45",
+        "sentiment_score": 0.1637536846101284
+    },
+    {
+        "title": "Italia asalta París ante una desdibujada Francia",
+        "image_url": "https://i0.wp.com/elsiglo.com.ve/wp-content/uploads/2024/09/italia-2.jpg?resize=696%2C464&ssl=1",
+        "tags": [
+            "noticias destacadas",
+            "italia",
+            "deportes"
+        ],
+        "link": "https://elsiglo.com.ve/2024/09/06/italia-asalta-paris-ante-una-desdibujada-francia/",
+        "date": "2024-09-07 00:06:40",
+        "sentiment_score": -0.932456724345684
+    },
+    {
+        "title": "El Eibar B femenino se pone a prueba hoy en Segunda Federación con un derbi en Zubieta",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/09/07/97798154-kXK--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/sdeibar/eibar-femenino-pone-prueba-hoy-segunda-federacion-20240907102614-nt.html",
+        "date": "2024-09-07 00:00:00",
+        "sentiment_score": 0.04080432653427124
+    },
+    {
+        "title": "De El 47 de Barcelona al 57 de Madrid: el secuestro del bus en Vallecas que puso a Álvarez del Manzano contra las cuerdas",
+        "image_url": "https://s1.elespanol.com/2024/09/06/madrid/sociedad/883921985_248978994_1706x960.jpg?contentId=ESPIMA20240906_0386",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20240907/barcelona-madrid-secuestro-bus-vallecas-puso-alvarez-manzano-cuerdas/883661977_0.html",
+        "date": "2024-09-06 23:57:41",
+        "sentiment_score": -0.09238386899232864
+    },
+    {
+        "title": "La duquesa del Infantado, a la 'reconquista' del Castillo de Manzanares: la cesión a la Comunidad caduca en enero",
+        "image_url": "https://s1.elespanol.com/2024/09/06/madrid/comunidad/883922571_248997016_1706x960.jpg?contentId=ESPIMA20240906_0972",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20240907/duquesa-infantado-reconquista-castillo-manzanares-cesion-comunidad-caduca-enero/883912070_0.html",
+        "date": "2024-09-06 23:57:40",
+        "sentiment_score": -0.32882319390773773
+    },
+    {
+        "title": "Mensaje de Messi y ovación a Di María en homenaje tras su retiro de Argentina",
+        "image_url": "./assets/ai_generated/v1_txt2img_9c4d360e13fc4aec90773c4105fbc57a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-09-06/mensaje-de-messi-y-ovacion-a-di-maria-en-homenaje-tras-su-retiro-de-argentina",
+        "date": "2024-09-06 23:57:07",
+        "sentiment_score": 0.8776813559234142
+    },
+    {
+        "title": "Uruguay empató con Paraguay en el adiós de Luis Suárez",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/09/luis-suarez-vs-paraguay-730x524.webp",
+        "tags": [
+            "conmebol",
+            "deportes",
+            "retiro de la selección",
+            "eliminatorias sudamericanas",
+            "luis suárez",
+            "paraguay",
+            "uruguay"
+        ],
+        "link": "https://primicia.com.ve/deportes/uruguay-empato-con-paraguay-en-el-adios-de-luis-suarez/",
+        "date": "2024-09-07 02:09:54",
+        "sentiment_score": -0.4026538208127022
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy sábado 7 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54fb3249-36d3-4694-8067-475c1880445d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sociedad/2024/09/07/agenda-asturias-hoy-sabado-7-107841596.html",
+        "date": "2024-09-07 02:09:00",
+        "sentiment_score": 0.006336972117424011
+    },
+    {
+        "title": "0-0. Paraguay se lleva un punto en el estreno de Alfaro y Suárez dice adiós a la Celeste",
+        "image_url": "https://www.infobae.com/resizer/v2/ZI4OOXQGHFFTZH3TKWHNND2HZM.jpg?auth=45b5c7a05f23e27e6d06234470f1deb24a94d4f371e71aa7509a2313963cffeb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/07/0-0-paraguay-se-lleva-un-punto-en-el-estreno-de-alfaro-y-suarez-dice-adios-a-la-celeste/",
+        "date": "2024-09-07 02:01:13",
+        "sentiment_score": -0.14961647987365723
+    },
+    {
+        "title": "Javier Aguirre, \"sorprendido\" por la versión entrenador de Rafa Márquez",
+        "image_url": "./assets/ai_generated/v1_txt2img_ab54761f942942e3914234d7d4079402.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/07/javier-aguirre-sorprendido-por-la-version-entrenador-de-rafa-marquez/",
+        "date": "2024-09-07 01:46:58",
+        "sentiment_score": 0.30832765996456146
+    },
+    {
+        "title": "\"El mejor número 9 del mundo en la actualidad\": Luis Suárez pone fin a su épica carrera con Uruguay",
+        "image_url": "https://cdn.img.noticiaslatam.lat/img/108026/97/1080269701_0:0:2922:1645_600x0_80_0_0_d64e6d373974e969f876a75346517655.jpg.webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://noticiaslatam.lat/20240907/el-mejor-numero-9-del-mundo-en-la-actualidad-luis-suarez-pone-fin-a-su-epica-carrera-con-uruguay-1157339949.html",
+        "date": "2024-09-07 01:30:00",
+        "sentiment_score": 0.6494510471820831
+    },
+    {
+        "title": "Shakira haría curiosas exigencias para usar su casa en Barcelona y no toparse con todo lo que tocan Piqué y Clara Chía",
+        "image_url": "https://www.infobae.com/resizer/v2/JXXSWGOZ6BHRPBVFLLDUXKA5O4.jpg?auth=930a0f9990d8bc76e2b089e2020d0d475b0430c729781525e09bf19fcc9e9669",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/09/07/shakira-haria-curiosas-exigencias-para-usar-su-casa-en-barcelona-y-no-toparse-con-todo-lo-que-tocan-pique-y-clara-chia/",
+        "date": "2024-09-07 01:28:31",
+        "sentiment_score": 0.19628187268972397
+    },
+    {
+        "title": "Shakira y Piqué tiene problemas con la venta de la mansión que compartieron en Barcelona",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/6XCJF6OXSBB4JMEOR3BTKG2UUU.png?auth=8ceacf88050b9a71c5278313da25c1bdf85e65d7728e9c76dc5c0084cc5114e9&height=628&smart=true&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/entretenimiento/2024/09/07/shakira-y-pique-tiene-problemas-con-la-venta-de-la-mansion-que-compartieron-en-barcelona/",
+        "date": "2024-09-07 01:07:00",
+        "sentiment_score": -0.5324756912887096
+    },
+    {
+        "title": "Nueva Vrajamandala, la 'ciudad' de los Hare Krishna de Guadalajara: así llegó Javier Pera a ser su Maestro Supremo",
+        "image_url": "https://s1.elespanol.com/2024/09/06/reportajes/883922403_248991838_1706x960.jpg?contentId=ESPIMA20240906_0804",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/porfolio/la-vida/20240907/nueva-vrajamandala-ciudad-hare-krishna-guadalajara-llego-javier-pera-maestro-supremo/881412029_0.html",
+        "date": "2024-09-07 00:46:58",
+        "sentiment_score": 0.08830421417951584
+    },
+    {
+        "title": "Un yihadista expulsado y un exconfidente converso: el controvertido Congreso Islámico Nacional",
+        "image_url": "https://s1.elespanol.com/2024/09/06/reportajes/883922733_249001975_1706x960.jpg?contentId=ESPIMA20240906_1134",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240907/yihadista-expulsado-exconfidente-converso-controvertido-congreso-islamico-nacional/883912078_0.html",
+        "date": "2024-09-07 00:42:15",
+        "sentiment_score": -0.6345539297908545
     }
 ];
