@@ -1,428 +1,5 @@
 export default [
     {
-        "title": "El DAX cae un 0,97 % hasta los 18.747,11 puntos",
-        "image_url": "./assets/ai_generated/v1_txt2img_0711f9a78986435eb1b319c25f0acb9b.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/el-dax-cae-un-097-hasta-los-1874711-puntos/",
-        "date": "2024-09-03 17:06:07",
-        "sentiment_score": 0.1296325922012329
-    },
-    {
-        "title": "Carlos Rodríguez:\"Me hubiera gustado entrar con los mejores\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_8ea12d0bed1645f1ad6a4c1be25c5fbe.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/carlos-rodriguezme-hubiera-gustado-entrar-con-los-mejores/",
-        "date": "2024-09-03 17:05:49",
-        "sentiment_score": 0.5833945572376251
-    },
-    {
-        "title": "‘La Revuelta’ presenta sus “no novedades” para esta nueva temporada con un divertido video: “¿Sabrán que queda una semana?”",
-        "image_url": "https://www.infobae.com/resizer/v2/IXJTHL4MP5AMJGCZ7JVUUQCBPI.png?auth=378f4019aba459f014e482ece852ddd4e92830bb79ab0edd8ac28bb8f13a8de5",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/03/la-revuelta-presenta-sus-no-novedades-para-esta-nueva-temporada-con-un-divertido-video-sabran-que-queda-una-semana/",
-        "date": "2024-09-03 17:05:47",
-        "sentiment_score": 0.663783885538578
-    },
-    {
-        "title": "Los 200 migrantes que acogerá Tossa de Mar (Girona) son solicitantes de asilo",
-        "image_url": "./assets/ai_generated/v1_txt2img_d4e7fc27eaf948da880720246fb8400a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/los-200-migrantes-que-acogera-tossa-de-mar-girona-son-solicitantes-de-asilo/",
-        "date": "2024-09-03 17:05:18",
-        "sentiment_score": -0.6549308374524117
-    },
-    {
-        "title": "ERC llama a su militancia a participar en la Diada y en actos a favor de la independencia",
-        "image_url": "https://www.infobae.com/resizer/v2/D4F6JDSTBNCUZBD7LMFSVZCCUQ.jpg?auth=6c58020110a3cad11410352980113a76e9603ab18aa46e6d4390bfcc980b2b95",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/erc-llama-a-su-militancia-a-participar-en-la-diada-y-en-actos-a-favor-de-la-independencia/",
-        "date": "2024-09-03 16:51:49",
-        "sentiment_score": 0.298029825091362
-    },
-    {
-        "title": "La Diputación de Castellón muestra su rechazo a la financiación singular para Cataluña",
-        "image_url": "https://www.infobae.com/resizer/v2/EUVKAW23T5FKPNWCF5OWYCDW6E.jpg?auth=7bfeeb783d0d4f09d9bf592e5d489032b75660070e19c32a583f9ea758bdb3f3",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/la-diputacion-de-castellon-muestra-su-rechazo-a-la-financiacion-singular-para-cataluna/",
-        "date": "2024-09-03 16:51:37",
-        "sentiment_score": -0.9045833433046937
-    },
-    {
-        "title": "Prisión para uno de los cuatro tripulantes de la narcolancha de Sanlúcar (Cádiz) donde falleció una persona",
-        "image_url": "https://www.infobae.com/resizer/v2/3R4VX3AZ45D6LHHR6O2IXZS7NQ.jpg?auth=e8ebb875e92841d8606cb28b987061ce6759404588bada6493ad303288fcf68b",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/prision-para-uno-de-los-cuatro-tripulantes-de-la-narcolancha-de-sanlucar-cadiz-donde-fallecio-una-persona/",
-        "date": "2024-09-03 16:51:24",
-        "sentiment_score": -0.8356922995299101
-    },
-    {
-        "title": "Picardo viaja a Londres para su primer contacto con nuevo ministro de Exteriores británico con el acuerdo aún pendiente",
-        "image_url": "https://www.infobae.com/resizer/v2/KMC77PYQ45G6BGMWTNENL62TB4.jpg?auth=547ec589b5e40768ebe3415132a16e6f364b3df3c9be302d519e4661fa47ac83",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/picardo-viaja-a-londres-para-su-primer-contacto-con-nuevo-ministro-de-exteriores-britanico-con-el-acuerdo-aun-pendiente/",
-        "date": "2024-09-03 16:51:12",
-        "sentiment_score": 0.18797193467617035
-    },
-    {
-        "title": "Diputada del Común insta a \"retomar\" el diálogo sobre menores migrantes: \"Hay que implicarse\"",
-        "image_url": "https://www.infobae.com/resizer/v2/LAM4KT4YS5GT7PJ27A4HW3YAWM.jpg?auth=b8de3caf1c3c8d61570569def87282c30a88dc5ce4264a42748c3bf43efa99f3",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/diputada-del-comun-insta-a-retomar-el-dialogo-sobre-menores-migrantes-hay-que-implicarse/",
-        "date": "2024-09-03 16:51:00",
-        "sentiment_score": -0.7741555757820606
-    },
-    {
-        "title": "Abogado del anciano que mató a un ladrón en Baleares presenta nuevo escrito pidiendo la absolución por legítima defensa",
-        "image_url": "https://www.infobae.com/resizer/v2/TK2CW6B3CJDGNKINCGKNGBJSFA.jpg?auth=bfbf6e42497c941a938926b4058d8d1edc0a139e6afd6fcbf097377d0757b05d",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/03/abogado-del-anciano-que-mato-a-un-ladron-en-baleares-presenta-nuevo-escrito-pidiendo-la-absolucion-por-legitima-defensa/",
-        "date": "2024-09-03 16:50:48",
-        "sentiment_score": -0.6398826390504837
-    },
-    {
-        "title": "Para el Día del Trabajo, empleados de hoteles en masiva huelga en EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/video1483342864-00-00-38-01-imagen-fija053.jpg?quality=100&strip=info",
-        "tags": [
-            "día del trabajo",
-            "fast – general",
-            "noticias de ee.uu.",
-            "xpress",
-            "huelgas",
-            "estados unidos noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/huelga-hotelera-eeuu-ush-orix/",
-        "date": "2024-09-03 16:59:10",
-        "sentiment_score": -0.5071854218840599
-    },
-    {
-        "title": "Los estudiantes de EE.UU. vuelven a clases con nuevas prohibiciones: ropa negra, Crocs, espejos, celulares y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2166466262-restricted.jpg?quality=100&strip=info",
-        "tags": [
-            "escuelas de estados unidos",
-            "instanoticias",
-            "noticias de ee.uu.",
-            "prohibición"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/03/estudiantes-eeuu-clases-prohibiciones-ropa-negra-crocs-espejos-celulares-trax/",
-        "date": "2024-09-03 16:36:57",
-        "sentiment_score": 0.239714115858078
-    },
-    {
-        "title": "Yate queda a la deriva durante horas con olas de 6 metros a su alrededor",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/yate.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rescate-yate-australia-trax/",
-        "date": "2024-09-03 16:10:51",
-        "sentiment_score": -0.6544383056461811
-    },
-    {
-        "title": "Maduro anuncia que adelanta la Navidad en medio de la crisis política en Venezuela",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T092308.666.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/03/maduro-adelanta-navidad-crisis-politica-venezuela-orix/",
-        "date": "2024-09-03 15:32:32",
-        "sentiment_score": 0.12312790751457214
-    },
-    {
-        "title": "Mueren al menos 12 personas tras hundirse una embarcación con migrantes en el canal de la Mancha",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T085030.652.jpg?quality=100&strip=info",
-        "tags": [
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/03/mueren-al-menos-12-personas-hundirse-embarcacion-migrantes-canal-de-la-mancha-trax/",
-        "date": "2024-09-03 15:02:04",
-        "sentiment_score": -0.8768518622964621
-    },
-    {
-        "title": "¿Cuánto podría subir y cuando se anunciaría la subida del seguro social en EE.UU. por el COLA en 2025?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-03T075105.654.jpg?quality=100&strip=info",
-        "tags": [
-            "ee.uu.",
-            "seguridad social",
-            "seguro social"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/03/cuanto-podria-subir-seguro-social-ee-uu-cola-2025-orix/",
-        "date": "2024-09-03 14:52:02",
-        "sentiment_score": 0.02863471955060959
-    },
-    {
-        "title": "Corazón e inteligencia",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/04/pepeluis-RQu0IJusX655gF3wTqvXfeJ-758x531@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/lutgardo-garcia-corazon-inteligencia-20240904181853-nts.html",
-        "date": "2024-09-03 16:18:54",
-        "sentiment_score": -0.029702872037887573
-    },
-    {
-        "title": "Maduro vuelve a adelantar la Navidad al mes de octubre",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/03/MADURO-RMGRLpI5RezW55RTvRQr6bO-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/maduro-anuncia-nuevo-adelanto-navidad-mes-octubre-20240903172717-nt.html",
-        "date": "2024-09-03 15:36:25",
-        "sentiment_score": 0.025408446788787842
-    },
-    {
-        "title": "Al menos ocho muertos y una decena de heridos tras volcar un autobús en Ecuador",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/03/ecuador-accidente-krRB-U603022810321bIC-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ocho-muertos-decena-heridos-tras-volcar-autobus-20240903172723-nt.html",
-        "date": "2024-09-03 15:27:23",
-        "sentiment_score": -0.6785972975194454
-    },
-    {
-        "title": "Probamos el Google Pixel 9 Pro XL: ¿un móvil tan bueno como todos dicen?",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/09/03/pixel-xl-RjVCMrAEI9nBZtJbuzLNxUI-758x531@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/probamos-google-pixel-pro-movil-bueno-dicen-20240903170545-nt.html",
-        "date": "2024-09-03 15:05:45",
-        "sentiment_score": -0.013474434614181519
-    },
-    {
-        "title": "Primera persona curada de VIH tras un trasplante de células que no tienen una mutación genética protectora",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/09/03/53369404130_7e98e6d6dd_k-RCz8HxX1driurtVEYtK91iO-758x531@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/primer-curacion-vih-trasplante-celulas-madre-mutacion-20240903141202-nt.html",
-        "date": "2024-09-03 14:21:45",
-        "sentiment_score": -0.14267590641975403
-    },
-    {
-        "title": "El Congreso vuelve a dilatar los plazos para la regularización de inmigrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SVVHRPE5MRZEPTX6IHAVKZ4YHM.jpg?auth=0835c1dfad288e22a96c1fe0b7b72984182ba55dfe868566610eff78385b43ef",
-        "tags": [
-            "congreso diputados",
-            "pp",
-            "inmigración irregular españa",
-            "sumar",
-            "inmigración irregular",
-            "inmigración",
-            "psoe",
-            "españa",
-            "podemos"
-        ],
-        "link": "https://elpais.com/espana/2024-09-03/el-congreso-vuelve-a-dilatar-los-plazos-para-la-regularizacion-de-inmigrantes.html",
-        "date": "2024-09-03 16:54:42",
-        "sentiment_score": 0.4014468304812908
-    },
-    {
-        "title": "Paloma, desahuciada en Valencia: “No me niego a irme, pero necesito una casa donde sea”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UBZ6ZXMJWJA3HMVEYFLY24ZVCI.JPG?auth=f843c7d2cf5a0d7119e1ed46740ac10d74266a409ad78f00bb59e99cd8b44e0e",
-        "tags": [
-            "valencia",
-            "viviendas vacacionales",
-            "comunidad valenciana",
-            "vivienda",
-            "policía antidisturbios",
-            "viviendas alquiler",
-            "desahucios",
-            "policía",
-            "turismo"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-03/paloma-desahuciada-en-valencia-no-me-niego-a-irme-pero-necesito-una-casa-donde-sea.html",
-        "date": "2024-09-03 15:48:54",
-        "sentiment_score": 0.7065174356102943
-    },
-    {
-        "title": "El PP pide la comparecencia del ministro Félix Bolaños en la comisión de investigación del CIS en el Senado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TCKYJUNZINBJBLGFCYO4NYWHW4.jpg?auth=62ae30db0a23f3de7319015cd82a2c7c04241bd9819fe9798646a60c91bce7c8",
-        "tags": [
-            "españa",
-            "senado",
-            "félix bolaños garcía",
-            "comisiones investigación",
-            "josé felix tezanos",
-            "pp",
-            "cis"
-        ],
-        "link": "https://elpais.com/espana/2024-09-03/el-pp-pide-la-comparecencia-del-ministro-felix-bolanos-en-la-comision-de-investigacion-del-cis-en-el-senado.html",
-        "date": "2024-09-03 15:09:36",
-        "sentiment_score": 0.3715648613870144
-    },
-    {
-        "title": "El exministro Campo se abstendrá en la deliberación de la amnistía en el Constitucional",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6JPH6NLK7NCWNM5V6H4GGNKYAY.jpg?auth=e1a8fa83dee47678ef215f311150a5eba025d31f7426bac57f3d43c5646d7521",
-        "tags": [
-            "españa",
-            "tribunal constitucional",
-            "amnistía"
-        ],
-        "link": "https://elpais.com/espana/2024-09-03/el-exministro-campo-se-abstendra-en-la-deliberacion-de-la-amnistia-en-el-constitucional.html",
-        "date": "2024-09-03 14:38:46",
-        "sentiment_score": -0.6570462863892317
-    },
-    {
-        "title": "Pedro Rocha no podrá presentarse a la reelección de la RFEF tras el rechazo de su recurso",
-        "image_url": "https://digitalextremadura.com/wp-content/uploads/2024/03/pedro-rocha-1.png",
-        "tags": [
-            "deportes",
-            "españa",
-            "destacada"
-        ],
-        "link": "https://digitalextremadura.com/pedro-rocha-no-podra-presentarse-a-la-reeleccion-de-la-rfef-tras-el-rechazo-de-su-recurso/",
-        "date": "2024-09-03 17:08:11",
-        "sentiment_score": -0.21295736730098724
-    },
-    {
-        "title": "Amazon Prime Video revela todos sus estrenos para septiembre de 2024",
-        "image_url": "https://cdn.alfabetajuega.com/alfabetajuega/2024/09/46a52f274478d2f194424d244214fa00.jpg?width=1200%26aspect_ratio%3D1200%3A631",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.mundodeportivo.com/alfabeta/series/prime-video-estrenos-septiembre-2024",
-        "date": "2024-09-03 17:00:39",
-        "sentiment_score": -0.008290648460388184
-    },
-    {
-        "title": "Laporta: \"No comentaré aspectos sobre jugadores que no tenemos en nuestra plantilla\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/94b575ac-cc86-4a07-9d51-b8972397d068_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/09/03/laporta-comentare-aspectos-jugadores-plantilla-107716827.html",
-        "date": "2024-09-03 16:50:14",
-        "sentiment_score": -0.37355638295412064
-    },
-    {
-        "title": "Álvaro Benito identifica el punto débil de Mbappé",
-        "image_url": "https://cflvdg.avoz.es/sc/meGedlbewHxMQ3y4cQsMKkTwMfA=/768x/2024/09/03/00121725381371239256530/Foto/EuropaPress_6187181_kylian_mbappe_of_real_madrid_celebrates_goal_during_the_spanish_league-EP.jpg",
-        "tags": [
-            "tertulias",
-            "real madrid",
-            "kylian mbappé"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/escuadra/tertulias/2024/09/03/alvaro-benito-identifica-punto-debil-mbappe/00031725381400141652631.htm",
-        "date": "2024-09-03 16:42:00",
-        "sentiment_score": -0.7765692919492722
-    },
-    {
-        "title": "Curso del 84",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e0b233dc-b83d-4e48-b178-783ed1acb1ee_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/opinion/2024/09/03/curso-84-107717245.html",
-        "date": "2024-09-03 16:26:13",
-        "sentiment_score": -0.14427168667316437
-    },
-    {
-        "title": "Las lluvias complican el día en Cataluña: el 112 recibe 63 llamadas por 43 incidentes hasta las 17 horas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/09/07/lluvia-en-barcelona.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.20minutos.es/noticia/5630276/0/las-lluvias-complican-dia-cataluna-112-recibe-63-llamadas-por-43-incidentes-hasta-las-17-horas/",
-        "date": "2024-09-03 17:08:47",
-        "sentiment_score": -0.1281243972480297
-    },
-    {
-        "title": "El Gobierno inyecta otros 5,5 millones en ayudas para la Copa América de vela",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/08/22/vivir-en-barcelona/880172141_13369518_1706x960.jpg?contentId=ESPIMA20240822_0167",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20240903/el-gobierno-inyecta-otros-millones-en-ayudas-para-la-copa-america-de-barcelona/883161772_0.html",
-        "date": "2024-09-03 17:08:02",
-        "sentiment_score": -0.06236998736858368
-    },
-    {
-        "title": "La prensa británica da con una calle de 200 metros y 80 bares para bautizarla como la mejor de España para tapear",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/09/03/gente-tapeando-en-la-calle-laurel-en-logrono.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.huffingtonpost.es/life/viajes/la-prensa-britanica-da-calle-200-metros-80-bares-bautizarla-mejor-espana-tapear.html",
-        "date": "2024-09-03 17:08:00",
-        "sentiment_score": 0.3216167539358139
-    },
-    {
-        "title": "Barcelona. 750€ de multa por tener macetas en la calle [CAT]",
-        "image_url": "./assets/ai_generated/v1_txt2img_7f6ac1ada01d4b459e2515006fe2f350.png",
-        "tags": [
-            "actualidad",
-            "injusticia",
-            "vecinos",
-            "multa",
-            "barcelona"
-        ],
-        "link": "https://www.meneame.net/story/barcelona-750e-multa-tener-macetas-calle-cat",
-        "date": "2024-09-03 17:05:02",
-        "sentiment_score": -0.8994404347613454
-    },
-    {
-        "title": "El Gobierno destinará un millón a mejorar la Unidad de Deporte del Hospital de Parapléjicos de Toledo",
-        "image_url": "https://s1.elespanol.com/2023/04/30/eldigitalcastillalamancha/sociedad/sanidad/760183982_232802590_1706x960.jpg?contentId=ESPIMA20230430_0008",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/deportes/20240903/gobierno-destinara-millon-mejorar-launidad-deporte-hospital-paraplejicos-toledo/883162227_0.html",
-        "date": "2024-09-03 17:02:40",
-        "sentiment_score": 0.5061117373406887
-    },
-    {
-        "title": "Pedrerol critica a Nico Williams por sus palabras: «Está mal aconsejado»",
-        "image_url": "https://cflvdg.avoz.es/sc/0DdKzP_pc_pukuEK7SxylP7h10E=/768x/2024/09/03/00121725381242104342322/Foto/EuropaPress_6184587_nico_williams_of_athletic_club_looks_on_during_the_laliga_ea_sports_match-EP.jpg",
-        "tags": [
-            "tertulias",
-            "athletic de bilbao"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/escuadra/tertulias/2024/09/03/pedrerol-critica-nico-williams-palabras-mal-aconsejado/00031725382160601117433.htm",
-        "date": "2024-09-03 16:59:01",
-        "sentiment_score": -0.6723205149173737
-    },
-    {
-        "title": "Esto es lo que gasta una persona en comida al mes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b44bc70b-55f6-484c-b45e-8041db69c0ee_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.epe.es/es/activos/20240903/cuanto-gasta-persona-comida-mes-107716942",
-        "date": "2024-09-03 16:57:14",
-        "sentiment_score": -0.5407025329768658
-    },
-    {
-        "title": "Griffiths: Seat está en riesgo por los aranceles de la UE a los coches fabricados en China",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/03/66d73ef950907.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20240903/9910243/seat-advierte-aranceles-ue-ponen-riesgo-empresa.html",
-        "date": "2024-09-03 16:55:15",
-        "sentiment_score": -0.8143246229737997
-    },
-    {
         "title": "El novio de Ayuso emprende acciones legales por difamación contra el director de comunicación del PSOE, la ministra Morant y Rita Maestre",
         "image_url": "https://www.infobae.com/resizer/v2/325M2BDA3FGZ7AVEXFPLU2C4F4.jpg?auth=94722198f22add2f907c6505e3a81c24f0521570729669c2a37edd186b897aff",
         "tags": [
@@ -760,20 +337,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-09-03/alicia-y-el-pais-de-las-maravillas-la-republica-de-weimar-y-rubens-desembarcaran-en-caixaforum-y-los-extraterrestres-en-cosmocaixa.html",
         "date": "2024-09-03 19:10:50",
         "sentiment_score": 0.3354921080172062
-    },
-    {
-        "title": "El Gobierno presiona a CC y al PP para cerrar ya la crisis de los menores migrantes en Canarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OZFXPXWTJRGDJIRM5GQ5YDIF3Y.jpg?auth=7645bb930917a079a9a3fd80e16d8767a998e212c0e200c730460560a9390c16",
-        "tags": [
-            "crisis migratoria",
-            "crisis refugiados europa",
-            "españa",
-            "canarias",
-            "migración"
-        ],
-        "link": "https://elpais.com/espana/2024-09-03/el-gobierno-presiona-a-cc-y-al-pp-para-cerrar-ya-la-crisis-de-los-menores-migrantes-en-canarias.html",
-        "date": "2024-09-03 18:04:32",
-        "sentiment_score": -0.5522246100008488
     },
     {
         "title": "Illa nutre su Govern de alcaldesas históricas para garantizarse el poder municipal",
@@ -7922,5 +7485,615 @@ export default [
         "link": "https://www.elespanol.com/reportajes/20240907/yihadista-expulsado-exconfidente-converso-controvertido-congreso-islamico-nacional/883912078_0.html",
         "date": "2024-09-07 00:42:15",
         "sentiment_score": -0.6345539297908545
+    },
+    {
+        "title": "660 horas sobrevolando 24 países de 4 continentes: La gesta de cuatro 'cazas' españoles",
+        "image_url": "./assets/ai_generated/v1_txt2img_8d07f8c68f0944588f768c584e5c5b70.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/660-horas-sobrevolando-24-paises-de-4-continentes-la-gesta-de-cuatro-cazas-espanoles/",
+        "date": "2024-09-07 06:16:43",
+        "sentiment_score": 0.09433428198099136
+    },
+    {
+        "title": "Efemérides del 8 de septiembre",
+        "image_url": "./assets/ai_generated/v1_txt2img_c924ca0841474aaba361574dcbdafefb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/efemerides-del-8-de-septiembre/",
+        "date": "2024-09-07 05:16:13",
+        "sentiment_score": -0.02307260036468506
+    },
+    {
+        "title": "Previsión meteorológica del clima en Zaragoza para este 7 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/QNXLLYNLQNHO3ATRCCT2DQCN2A.jpg?auth=8bf0b955e4d859a48b1ad876a3f6a2d9e7c5cf8708e4c419e24c44ba5c8d28b1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/prevision-meteorologica-del-clima-en-zaragoza-para-este-7-de-septiembre/",
+        "date": "2024-09-07 03:46:06",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Los números que dieron fortuna a los nuevos ganadores de Eurojackpot",
+        "image_url": "https://www.infobae.com/resizer/v2/DZ47KWITMRCEJIWE3HANXNPVK4.jpg?auth=6afae3242e41bdd2c7008c11553b96a63fb6ed8f717a341b25adf2916ffd2598",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/los-numeros-que-dieron-fortuna-a-los-nuevos-ganadores-de-eurojackpot/",
+        "date": "2024-09-07 03:17:16",
+        "sentiment_score": 0.583128284662962
+    },
+    {
+        "title": "Clima en Valencia: cuál será la temperatura máxima y mínima este 7 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/6DZSVRFYXZF35CW4DUWDAHDOEE.jpg?auth=b6a1c1d80c9c1375ae7498b3221398c11b7e2f37047e14df84b0256dfe2ddbd3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/clima-en-valencia-cual-sera-la-temperatura-maxima-y-minima-este-7-de-septiembre/",
+        "date": "2024-09-07 03:16:51",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Estos son los resultados del sorteo de Euromillones de este 6 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2FVVSLODORF2VOP3PFFHKR4VEE.jpg?auth=62de19b6217eb31d34e5a9560fa319fbce4d2e12c82853dced234982752e3a8e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/estos-son-los-resultados-del-sorteo-de-euromillones-de-este-6-de-septiembre/",
+        "date": "2024-09-07 03:16:24",
+        "sentiment_score": 0.05193357542157173
+    },
+    {
+        "title": "El sábado, inestabilidad en el tercio norte con precipitaciones y aumento de temperaturas",
+        "image_url": "./assets/ai_generated/v1_txt2img_8c8ef31eec3c45318ccd953217e72bc1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/el-sabado-inestabilidad-en-el-tercio-norte-con-precipitaciones-y-aumento-de-temperaturas/",
+        "date": "2024-09-07 03:16:16",
+        "sentiment_score": -0.7477683927863836
+    },
+    {
+        "title": "Estos son los resultados ganadores del sorteo de Bonoloto del 6 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/G2JN7NCQJZEA5BCUUBUZEJKJDA.jpg?auth=e4f6fa71fd1a31a43ed8d5f19a4ac7c3471914f12878f5dc1bf8bc9b5df1e895",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/estos-son-los-resultados-ganadores-del-sorteo-de-bonoloto-del-6-de-septiembre/",
+        "date": "2024-09-07 03:16:02",
+        "sentiment_score": 0.19237466901540756
+    },
+    {
+        "title": "El Comité Federal del PSOE reúne hoy a Sánchez y a barones críticos con la financiación",
+        "image_url": "./assets/ai_generated/v1_txt2img_917892a10caa497cae22c220f4b52625.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/el-comite-federal-del-psoe-reune-hoy-a-sanchez-y-a-barones-criticos-con-la-financiacion/",
+        "date": "2024-09-07 03:15:59",
+        "sentiment_score": -0.35360512137413025
+    },
+    {
+        "title": "Carles Tamayo y el creador de ‘El caso Asunta’, a la caza del monstruo pedófilo Lluís Gros: “Ha fallado el sistema, pero también la sociedad”",
+        "image_url": "https://www.infobae.com/resizer/v2/RE2VOJLTQVB6LO2DCI3TMHNF4M.jpg?auth=47f7c5ca0271eb0540ed8cde30bd8c01fa19fba3367c258fc794b99105280fec",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/carles-tamayo-y-el-creador-de-el-caso-asunta-a-la-caza-del-monstruo-pedofilo-lluis-gros-ha-fallado-el-sistema-pero-tambien-la-sociedad/",
+        "date": "2024-09-07 03:01:00",
+        "sentiment_score": 0.0053284019231796265
+    },
+    {
+        "title": "Últimas noticias de la llegada a casa de la cápsula Starliner de Boeing sin su tripulación",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Starliner.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia y espacio",
+            "starliner boeing",
+            "minuto a minuto"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/07/ultimas-noticias-llegada-capsula-starliner-sin-tripulacion-trax/",
+        "date": "2024-09-07 04:50:54",
+        "sentiment_score": -0.5499262772500515
+    },
+    {
+        "title": "Fuerzas de seguridad de Venezuela rodean la Embajada de Argentina. La oposición dice que es un asedio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/embajada-argentina-venezuela-e1722462889758.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "crisis venezuela",
+            "argentina noticias",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/06/oposicion-denuncia-asedio-embajada-argentina-venezuela-orix/",
+        "date": "2024-09-07 03:10:12",
+        "sentiment_score": -0.9022510778158903
+    },
+    {
+        "title": "“Las ocurrencias” de la reforma judicial, según un experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169465006.jpg?quality=100&strip=info",
+        "tags": [
+            "suprema corte",
+            "fast – news variety",
+            "amlo",
+            "xpress",
+            "reforma judicial",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/peligros-reforma-judicial-miguel-carbonell-aristegui-tv/",
+        "date": "2024-09-07 03:05:50",
+        "sentiment_score": 0.0017384439706802368
+    },
+    {
+        "title": "Carbonell: Se quiere politizar la justicia en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/428629239-358579300423209-560062623403365011-n.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/senado-mexico-discusion-reforma-judicial-aristegui-tv/",
+        "date": "2024-09-07 02:58:46",
+        "sentiment_score": -0.2106042355298996
+    },
+    {
+        "title": "Video muestra a Sonya Massey hablando con la policía horas antes de su muerte",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/clean-sonya-massey-00-00-12-01-still001-20240907020856027.jpg?quality=100&strip=info",
+        "tags": [
+            "estados unidos noticias",
+            "noticias de ee.uu.",
+            "abuso policial"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ideo-sonya-massey-policia-muerte-trax/",
+        "date": "2024-09-07 02:14:46",
+        "sentiment_score": -0.7805931223556399
+    },
+    {
+        "title": "¿Quién es el responsable, el menor que apretó el gatillo o el padre que le regaló el arma?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169894511.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "tiroteo",
+            "armas de fuego",
+            "armas en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiroteos-eeuu-escuelas-menores-armas-crisis-enmienda-conclusiones-tv/",
+        "date": "2024-09-07 02:13:53",
+        "sentiment_score": -0.7457105340436101
+    },
+    {
+        "title": "Un buen futuro para Tablada",
+        "image_url": "./assets/ai_generated/v1_txt2img_ca772a3cfae242cfb5d2ed48a23ab5c9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-buen-futuro-tablada-20240907070520-nts.html",
+        "date": "2024-09-07 05:05:20",
+        "sentiment_score": -0.027050256729125977
+    },
+    {
+        "title": "España, entre los pocos países de la UE que sólo sube las pensiones con el IPC",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/07/IMG_20240906_191006-RBCke08pCYiEiiAbZYJcQvN-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/espana-pocos-paises-ue-solo-sube-pensiones-20240907193729-nt.html",
+        "date": "2024-09-07 04:24:43",
+        "sentiment_score": -0.11955688893795013
+    },
+    {
+        "title": "El ministro italiano de Cultura dimite tras un escándalo sentimental que acabó en chantaje",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/06/boccia-sangiuliano-RpfDt1WdDF1wEPxRZI2QpvK-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/influencer-amiga-ministro-meloni-dimitido-llamaban-chantajista-20240906200725-nt.html",
+        "date": "2024-09-07 02:26:52",
+        "sentiment_score": -0.049387335777282715
+    },
+    {
+        "title": "Escrivá convoca para el lunes una reunión de la Comisión Ejecutiva del Banco de España con cambios sobre la mesa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/07/escrivbancodeespaaefe-RhHZMnEdEU8HQ2zeGNt8NyN-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/escriva-convoca-lunes-reunion-comision-ejecutiva-banco-20240907042006-nt.html",
+        "date": "2024-09-07 02:20:07",
+        "sentiment_score": -0.008556663990020752
+    },
+    {
+        "title": "El dilema de Trump: a dos meses de la elección, EE.UU. ya empieza a votar",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/06/voting-RTK66TaOS3TzHA3bkeJI9qL-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/dilema-trump-dos-meses-eleccion-eeuu-empieza-20240906203552-nt.html",
+        "date": "2024-09-07 02:19:17",
+        "sentiment_score": -0.0646829605102539
+    },
+    {
+        "title": "Elecciones en EE.UU.: Steve busca una tercera vía",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/06/kamala-trump-RFNER5SMriiffsgs3CQ5EVM-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/elecciones-eeuu-steve-busca-tercera-via-20240906181036-nt.html",
+        "date": "2024-09-07 02:18:27",
+        "sentiment_score": -0.23900023102760315
+    },
+    {
+        "title": "Que lo limpien, que para eso les pagan",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KH22MQOOVJC3LJ2JYRHPWS2TVA.jpg?auth=7abaff8b82f9336ba75e04eeab4e041b0234cb91f3d1db0ee37cae4f36d03d27",
+        "tags": [
+            "comunidad valenciana",
+            "educación",
+            "institutos",
+            "limpieza",
+            "impago empresas",
+            "generalitat valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-07/que-lo-limpien-que-para-eso-les-pagan.html",
+        "date": "2024-09-07 05:23:59",
+        "sentiment_score": -0.057921770960092545
+    },
+    {
+        "title": "“No es lógico que haya miles de viviendas que sean utilizadas como hoteles ilegales”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZZ2JTY3B3VEQHCALYTCUGYE5ZY.JPG?auth=e5258b52af53477d2eb0c0b44aee0e993e5ce0163d96c12e2746860e5c114c1a",
+        "tags": [
+            "pisos turísticos",
+            "comunidad valenciana",
+            "pp",
+            "valencia",
+            "vox",
+            "pspv-psoe",
+            "valencia cf",
+            "vivienda",
+            "política",
+            "política municipal",
+            "ayuntamiento valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-07/no-es-logico-que-haya-miles-de-viviendas-que-sean-utilizadas-como-hoteles-ilegales.html",
+        "date": "2024-09-07 04:33:00",
+        "sentiment_score": 0.0016645342111587524
+    },
+    {
+        "title": "La matanza indiscriminada que fundó a ETA militar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RT6XVFNFRVCQTIN2W576I4SNJE.jpg?auth=190d72b7cfd06d404e558dbf1b0eb220d8a4ab1108e3428cf266abf3a2ceae44",
+        "tags": [
+            "atentados terroristas",
+            "justicia",
+            "madrid",
+            "atentados bomba",
+            "hipercor",
+            "terrorismo",
+            "barcelona",
+            "comunidad de madrid",
+            "josu ternera",
+            "eta",
+            "delitos",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-09-07/la-matanza-indiscriminada-que-fundo-a-eta-militar.html",
+        "date": "2024-09-07 03:45:00",
+        "sentiment_score": -0.8949220282956958
+    },
+    {
+        "title": "La financiación singular de Cataluña agita el comité federal que pondrá en marcha la renovación del PSOE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/24HTE5XQXFD7XJJIB2SJSYYRAY.jpg?auth=02d085c68a7d4ffcdd40bee892059ddd5e26a2bdc110fb95013907b54abfac80",
+        "tags": [
+            "socialismo",
+            "cataluña",
+            "barones psoe",
+            "psoe",
+            "comunidades autónomas",
+            "gobierno de españa",
+            "financiación",
+            "pedro sánchez",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-09-07/la-financiacion-singular-de-cataluna-agita-el-comite-federal-que-pondra-en-marcha-la-renovacion-del-psoe.html",
+        "date": "2024-09-07 03:40:00",
+        "sentiment_score": -0.4518528953194618
+    },
+    {
+        "title": "Un bloque de nueve partidos y al menos una docena de posturas sobre la financiación catalana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EK6K3PCQTJFI7JD5JZYWKBRF3A.jpg?auth=79e68fc5febf9e7c4a6e279dd84b87d9f4c9d05aeae548a20dc50b0b4648a8f0",
+        "tags": [
+            "financiación autonómica",
+            "hacienda pública",
+            "compromís",
+            "fondo liquidez autonómico",
+            "erc",
+            "psc",
+            "coalición canaria",
+            "psoe",
+            "maría jesús montero",
+            "eaj-pnv",
+            "eh bildu",
+            "deuda pública",
+            "juntsxcat",
+            "gobierno",
+            "sumar",
+            "izquierda unida",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-09-07/un-bloque-de-nueve-partidos-y-al-menos-una-docena-de-posturas-sobre-la-financiacion-catalana.html",
+        "date": "2024-09-07 03:40:00",
+        "sentiment_score": -0.8906737389042974
+    },
+    {
+        "title": "La vuelta al mundo en 56 días del Ejército del Aire",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/L7DAK32235AYFGXZS2PCBBHV7U.jpg?auth=2fdb5a46a5af0204e3a90fb4cefb850566fdf36039a3264af6e46498daf25b34",
+        "tags": [
+            "ejército aire",
+            "estados unidos",
+            "pacífico sur",
+            "india",
+            "defensa",
+            "alaska",
+            "españa",
+            "australia"
+        ],
+        "link": "https://elpais.com/espana/2024-09-07/la-vuelta-al-mundo-en-56-dias-del-ejercito-del-aire.html",
+        "date": "2024-09-07 03:40:00",
+        "sentiment_score": 0.33666133135557175
+    },
+    {
+        "title": "Eduard Grau fabrica todo tipo de universos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RPHED6YT2VHT5OQN5FQNCWOOJM.jpg?auth=e89bc1d0c8494ecf40deceb6aacf256fbb426b386d2df78e5b62e6cc43d18cff",
+        "tags": [
+            "cataluña",
+            "maquetas miniaturas",
+            "arte",
+            "cine"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-07/eduard-grau-fabrica-todo-tipo-de-universos.html",
+        "date": "2024-09-07 03:15:00",
+        "sentiment_score": 0.36811500787734985
+    },
+    {
+        "title": "Vídeo | España, a la cola en número de mujeres en los Tribunales Supremos: qué pasa en EE UU, Reino Unido y Portugal",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PQDBE5KODFAPZLBR6G2JGXRGHI.jpg?auth=a9bce1bf67d3da931358301b8d4271db90f7f0cc6311f2160a5d9db1223fab99&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "isabel perelló",
+            "tribunal supremo eeuu",
+            "política",
+            "justicia",
+            "reino unido",
+            "cgpj",
+            "jueces"
+        ],
+        "link": "https://elpais.com/espana/2024-09-07/video-espana-a-la-cola-en-numero-de-mujeres-en-los-tribunales-supremos-que-pasa-en-ee-uu-reino-unido-y-portugal.html",
+        "date": "2024-09-07 03:15:00",
+        "sentiment_score": -0.005161479115486145
+    },
+    {
+        "title": "El Govern de Illa busca el favor de los profesores con un plan para reducir la burocratización",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EUYUC7E4EJHMTDNEOU42O3ZKTI.jpg?auth=6e84493ecaa17b01e824d29f0c2f5798917c5862594ae77b4191000ed063747d",
+        "tags": [
+            "cataluña",
+            "formación profesional",
+            "curso académico",
+            "esther niubó",
+            "enseñanza concertada",
+            "educación primaria",
+            "educación",
+            "educación secundaria",
+            "enseñanza pública"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-07/el-nuevo-govern-busca-el-favor-de-los-profesores-con-un-plan-para-reducir-la-burocratizacion.html",
+        "date": "2024-09-07 03:15:00",
+        "sentiment_score": -0.5773818045854568
+    },
+    {
+        "title": "El tiempo no da tregua a Aragón: una segunda dana barre la comunidad este fin de semana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AFZRIW4YWVB5LADQISD4NTJSIA.jpg?auth=1d84bf625de18e979a732910706cf1109557b15d7dda67c228bf00f352984d08",
+        "tags": [
+            "el tiempo",
+            "tormentas",
+            "carreteras",
+            "protección civil",
+            "temporales",
+            "lluvias torrenciales",
+            "granizo",
+            "meteorología",
+            "emergencias",
+            "daños y perjucios",
+            "verbenas",
+            "predicción meteorológica",
+            "provincia zaragoza",
+            "pirineos",
+            "ayuntamientos",
+            "che",
+            "riadas",
+            "pirineo aragonés",
+            "turismo",
+            "lluvia",
+            "provincia teruel",
+            "aragón",
+            "provincia huesca",
+            "daños cultivos",
+            "ríos",
+            "río ebro",
+            "diputaciones",
+            "viento",
+            "alerta meteorológica",
+            "aemet"
+        ],
+        "link": "https://elpais.com/espana/2024-09-07/el-tiempo-no-da-tregua-a-aragon-se-espera-una-segunda-dana-para-este-fin-de-semana.html",
+        "date": "2024-09-07 03:00:00",
+        "sentiment_score": -0.889079138636589
+    },
+    {
+        "title": "Argelia descongela su relación con España tras dos años de castigo y en plena crisis en Gaza",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a85f8e8e-8e71-4a0e-8371-6bf7fb288713_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/internacional/2024/09/07/argelia-descongela-relacion-espana-anos-107853749.html",
+        "date": "2024-09-07 06:11:04",
+        "sentiment_score": 0.06293559074401855
+    },
+    {
+        "title": "Sánchez afronta este sábado el rechazo de sus barones al cupo catalán en el Comité Federal que convocará el Congreso de su reelección",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/04/25/el-secretario-general-del-psoe-y-presidente-del-gobierno-pedro-sanchez-en-un-comite-federal-del-partido.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5631327/0/sanchez-afronta-este-sabado-rechazo-sus-barones-cupo-catalan-comite-federal-que-convocara-congreso-su-reeleccion/",
+        "date": "2024-09-07 06:01:46",
+        "sentiment_score": -0.847677044570446
+    },
+    {
+        "title": "Para guardar los miedos, fuiste mi escondite",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e526fcb-ed0a-4ef3-adc4-176052c981a8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/opinion/2024/09/07/guardar-miedos-fuiste-escondite-107843063.html",
+        "date": "2024-09-07 06:00:19",
+        "sentiment_score": 0.378468818962574
+    },
+    {
+        "title": "Shabella Rouse, activista contra la gordofobia: \"Yo soy bella\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/140ff41d-d6d7-4b1f-a2ff-a398875b8906_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20240907/shabella-rouse-activista-gordofobia-bella-107670688",
+        "date": "2024-09-07 06:00:11",
+        "sentiment_score": -0.7659560479223728
+    },
+    {
+        "title": "Rafa del Amo: \"Lo importante es crecer en categorías inferiores\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9f56ad91-b53d-48be-ab60-a05238620907_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdenavarra.com/especiales/2024/09/07/rafa-amo-importante-crecer-categorias-8662170.html",
+        "date": "2024-09-07 05:15:24",
+        "sentiment_score": 0.6904331892728806
+    },
+    {
+        "title": "Sánchez intensifica las relaciones del PSOE con el Partido Comunista Chino: tres reuniones en año y medio",
+        "image_url": "https://s.libertaddigital.com/2024/09/06/psoe-comunistas-chinos.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/espana/politica/2024-09-07/sanchez-intensifica-las-relaciones-del-psoe-con-el-partido-comunista-chino-tres-reuniones-en-ano-y-medio-7161379/",
+        "date": "2024-09-07 05:04:11",
+        "sentiment_score": -0.8830982036888599
+    },
+    {
+        "title": "Este el pueblo más feo de cada provincia de Castilla-La Mancha según la IA",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/09/03/012376CA-86D3-4A64-ADDD-23D049368993/este-pueblo-mas-feo-cada-provincia-castilla-mancha-segun_96.jpg?crop=2000%2C1125%2Cx0%2Cy145&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "castilla-la mancha"
+        ],
+        "link": "https://www.larazon.es/castilla-la-mancha/este-pueblo-mas-feo-cada-provincia-castillala-mancha-segun_2024090766d6f4fe797ae100011bf620.html",
+        "date": "2024-09-07 05:04:10",
+        "sentiment_score": -0.013568207621574402
+    },
+    {
+        "title": "Quiénes \"odian\" a Vinicius: ultras del Atlético de Madrid, tuiteros del Barça y un tertuliano de El Chiringuito",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/30f617ee-594e-47fd-a3a4-4a030b9e840e_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20240907/ultras-odian-vinicius-atletico-barcelona-tertuliano-107852949",
+        "date": "2024-09-07 05:01:44",
+        "sentiment_score": -0.7573655676096678
+    },
+    {
+        "title": "Quiénes \"odian\" a Vinicius: ultras del Atlético de Madrid, tuiteros del Barça y un tertuliano de El Chiringuito",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/30f617ee-594e-47fd-a3a4-4a030b9e840e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/sucesos/2024/09/07/ultras-odian-vinicius-atletico-barcelona-tertuliano-107852951.html",
+        "date": "2024-09-07 05:01:44",
+        "sentiment_score": -0.791817544028163
+    },
+    {
+        "title": "Diez obras de arte urbano que puedes descubrir por las calles y plazas de Barcelona",
+        "image_url": "http://www.publico.es//uploads/2024/08/29/66d09fe1a53f0.jpeg",
+        "tags": [
+            "culturas"
+        ],
+        "link": "http://www.publico.es/culturas/diez-obras-arte-urbano-puedes-descubrir-calles-plazas-barcelona.html",
+        "date": "2024-09-07 06:26:00",
+        "sentiment_score": 0.7299614623188972
+    },
+    {
+        "title": "Hace 1.200 kilómetros para entregarle esto a Peldanyos: lo ocurrido supera los 150.000 'me gusta'",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/09/03/peldanyos-abriendo-una-caja.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/hace-1200-kilometros-entregarle-esto-peldanyos-ocurrido-supera-150000-me-gusta.html",
+        "date": "2024-09-07 06:23:00",
+        "sentiment_score": -0.15299177169799805
+    },
+    {
+        "title": "Los nombres de estos bares de España son dignos de aparecer en un libro de chistes",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/06/28/tomando-cerveza-en-un-bar.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/los-nombres-bares-espana-son-dignos-aparecer-libro-chistes.html",
+        "date": "2024-09-07 06:20:35",
+        "sentiment_score": 0.6775593757629395
+    },
+    {
+        "title": "La española Teresa Helbig debuta en la Semana de Moda de Nueva York con una oda al ballet",
+        "image_url": "./assets/ai_generated/v1_txt2img_623a88b381e744f8b65cdc0004a0b75c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/07/la-espanola-teresa-helbig-debuta-en-la-semana-de-moda-de-nueva-york-con-una-oda-al-ballet/",
+        "date": "2024-09-07 06:16:08",
+        "sentiment_score": 0.257858881726861
+    },
+    {
+        "title": "Lo que debes saber hoy, 7 de septiembre, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/07/05/vivir-en-barcelona/685441450_9091954_1706x960.jpg?contentId=ESPIMA20220705_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240907/lo-que-debes-saber-hoy-de-septiembre-barcelona/884161577_0.html",
+        "date": "2024-09-07 06:06:46",
+        "sentiment_score": -0.6062371917068958
+    },
+    {
+        "title": "Cataluña en el Ibex 35",
+        "image_url": "https://static1.ara.cat/clip/bcff44b0-ac1b-4417-b47b-256c80f7a5a3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/economia/empresas/cataluna-ibex-35_129_5133719.html",
+        "date": "2024-09-07 06:00:26",
+        "sentiment_score": 0.04121193289756775
+    },
+    {
+        "title": "Aragonés ya tiene oficina de expresidente. ¿Dónde están y cuánto cuestan las demás?",
+        "image_url": "https://static1.ara.cat/clip/23a4bde5-f33d-4a1c-8985-802b21981ca8_16-9-aspect-ratio_default_1043259.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/politica/aragones-oficina-expresidente-cuestan_1_5133718.html",
+        "date": "2024-09-07 06:00:26",
+        "sentiment_score": -0.23662815988063812
+    },
+    {
+        "title": "El remedio militar que causa furor entre los más jóvenes del Barça",
+        "image_url": "https://static1.ara.cat/clip/2efc8375-a6de-4d83-a8b9-93e7a7c95ed3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/remedio-militar-causa-furor-jovenes-barca_1_5133715.html",
+        "date": "2024-09-07 06:00:23",
+        "sentiment_score": -0.16588017344474792
     }
 ];
