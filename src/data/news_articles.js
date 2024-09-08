@@ -1,279 +1,5 @@
 export default [
     {
-        "title": "El Nikkei se desploma más de un 4,24 % arrastrado por Wall Street y los semiconductores",
-        "image_url": "./assets/ai_generated/v1_txt2img_e5bcb535571e4512a06e9628cbdfa629.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/04/el-nikkei-se-desploma-mas-de-un-424-arrastrado-por-wall-street-y-los-semiconductores/",
-        "date": "2024-09-04 06:17:37",
-        "sentiment_score": -0.6084978319704533
-    },
-    {
-        "title": "Muere a los 60 años Mónica del Raval, la icónica exprostituta de Barcelona que saltó a la fama gracias a ‘Callejeros’",
-        "image_url": "https://www.infobae.com/resizer/v2/TA7KX2EOIBGJXINK3NENPPPNJM.jpg?auth=9627051a0167bd56ca7c04df0bd06e139a9aa61e6e5d4b0952890e806d9e5a42",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/04/muere-a-los-60-anos-monica-del-raval-la-iconica-exprostituta-de-barcelona-que-salto-a-la-fama-gracias-a-callejeros/",
-        "date": "2024-09-04 06:06:05",
-        "sentiment_score": -0.26203715056180954
-    },
-    {
-        "title": "Montero rinde cuentas hoy en el Senado sobre el cupo catalán ante los recelos internos del PSOE y las críticas del PP",
-        "image_url": "https://www.infobae.com/resizer/v2/BI4YA6JXWNABNM4ASAKL54YVVY.jpg?auth=a75e7ba4135978bb3a5d7ee1c5ac77ffa39dc0f69d7c8eb268087c7212d0532f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/04/montero-rinde-cuentas-hoy-en-el-senado-sobre-el-cupo-catalan-ante-los-recelos-internos-del-psoe-y-las-criticas-del-pp/",
-        "date": "2024-09-04 05:49:42",
-        "sentiment_score": -0.42967653274536133
-    },
-    {
-        "title": "Perelló toma posesión este miércoles como nueva presidenta del CGPJ y el Supremo",
-        "image_url": "https://www.infobae.com/resizer/v2/RS52BMVL3NBILANKXJCX7LKHVI.jpg?auth=72849eebc3755140d2453723f0c0b3c245ef1271310aa977c7247e65ba952b80",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/04/perello-toma-posesion-este-miercoles-como-nueva-presidenta-del-cgpj-y-el-supremo/",
-        "date": "2024-09-04 05:49:23",
-        "sentiment_score": 0.0523393414914608
-    },
-    {
-        "title": "Estas son las motos que puedes conducir sin carnet",
-        "image_url": "https://www.infobae.com/resizer/v2/FRM6GXY5EVG7VPY2OZAHOSCXK4.jpg?auth=4084c2b7192aa69357757c8734eae12585c2f4c59e224784f3b518971da40a2f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/04/estas-son-las-motos-que-puedes-conducir-sin-carnet/",
-        "date": "2024-09-04 05:49:17",
-        "sentiment_score": 0.0119924396276474
-    },
-    {
-        "title": "Cuál es el plazo límite para que el Gobierno apruebe los presupuestos de 2025",
-        "image_url": "https://www.infobae.com/resizer/v2/QA27LPBGBVDJXPI4KKNBZF2T5M.jpg?auth=d587193cb478108be9a6927931fc1d3643a6f2df72bf84054c5ff347c9de17bf",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/04/cual-es-el-plazo-limite-para-que-el-gobierno-apruebe-los-presupuestos-de-2025/",
-        "date": "2024-09-04 05:46:32",
-        "sentiment_score": -0.0030675604939460754
-    },
-    {
-        "title": "Baleares, Cataluña y C.Valenciana, en naranja por lluvias de más de 60 litros en una hora",
-        "image_url": "./assets/ai_generated/v1_txt2img_5413c8613e744ec49d9e5fc24414fc59.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/04/baleares-cataluna-y-cvalenciana-en-naranja-por-lluvias-de-mas-de-60-litros-en-una-hora/",
-        "date": "2024-09-04 05:45:30",
-        "sentiment_score": -0.5000024139881134
-    },
-    {
-        "title": "Efemérides del 5 de septiembre",
-        "image_url": "./assets/ai_generated/v1_txt2img_a424914de428493aaf1a0f038c64ee52.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/04/efemerides-del-5-de-septiembre/",
-        "date": "2024-09-04 05:45:12",
-        "sentiment_score": -0.01879638433456421
-    },
-    {
-        "title": "La nueva ‘Ley Mbappé’ de Ayuso facilita fichajes históricos a los equipos madrileños de Primera",
-        "image_url": "https://www.infobae.com/resizer/v2/UUCWM3UYLBDWNE4TAC2JGXWXP4.jpg?auth=412e5ad059803f196d0f969d7b8d02f01f5202ee1078b5520f5243036a0b104d",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/04/la-nueva-ley-mbappe-de-ayuso-facilita-fichajes-historicos-a-los-equipos-madrilenos-de-primera/",
-        "date": "2024-09-04 05:43:14",
-        "sentiment_score": 0.21838786453008652
-    },
-    {
-        "title": "El escarabajo japonés ya es una plaga en Europa: “Va a arrasar los cultivos”",
-        "image_url": "https://www.infobae.com/resizer/v2/EQJBJ3EYEJEQTH67C4ZPL7CLOA.jpg?auth=c82cfdc244e16b891703bf84f4e7b88255c31b88cfd2474d9de451fa6bfa6c5e",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/04/el-escarabajo-japones-ya-es-una-plaga-en-europa-va-a-arrasar-los-cultivos/",
-        "date": "2024-09-04 05:40:21",
-        "sentiment_score": -0.8525984063744545
-    },
-    {
-        "title": "El ministro de Asuntos Exteriores de Ucrania presenta su renuncia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/GettyImages-2160721745.jpg?quality=100&strip=info",
-        "tags": [
-            "renuncia",
-            "ucrania",
-            "noticias de ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/04/ministro-asuntos-exteriores-ucrania-renuncia-trax/",
-        "date": "2024-09-04 06:26:44",
-        "sentiment_score": -0.10008637607097626
-    },
-    {
-        "title": "La represión de la disidencia política en Venezuela es la más mortífera de los últimos años, según Human Rights Watch",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/Copia-de-FOTO-PARA-WP-2024-08-26T062254.923.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "nicolás maduro",
-            "human rights watch",
-            "venezuela noticias",
-            "represión"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/04/represion-disidencia-politica-mas-mortifera-ultimos-anos-trax/",
-        "date": "2024-09-04 06:07:53",
-        "sentiment_score": -0.9103551404550672
-    },
-    {
-        "title": "Irán convoca al embajador australiano por una publicación que \"promovía la homosexualidad\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/andrew.webp",
-        "tags": [
-            "australia",
-            "irán"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/04/iran-convoca-al-embajador-australiano-por-una-publicacion-que-promovia-la-homosexualidad/",
-        "date": "2024-09-04 05:54:51",
-        "sentiment_score": -0.5516513399779797
-    },
-    {
-        "title": "El presidente de Brasil dice que el mundo no tiene por qué soportar la ideología de “extrema derecha” de Elon Musk solo porque es rico",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Luiz-Inacio-Lula-Da-Silva.webp",
-        "tags": [
-            "elon musk",
-            "lula",
-            "brasil"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/04/lula-mundo-no-tiene-soportar-ideologia-extrema-derecha-elon-musk-solo-es-rico-trax/",
-        "date": "2024-09-04 05:29:59",
-        "sentiment_score": -0.7704693116247654
-    },
-    {
-        "title": "Muere un hombre al recibir un tiro en la cabeza en un garaje del municipio alicantino de Dénia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Q2KAU4HDWVFGGJNEYHINDMEMGE.jpg?auth=7eeda46c887ab412acb9f0a7bfd402b465018b3cfc91514292cad74a97d59f96",
-        "tags": [
-            "comunidad valenciana",
-            "alicante",
-            "investigación policial",
-            "dénia",
-            "asesinatos",
-            "policía nacional"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-04/muere-un-hombre-al-recibir-un-tiro-en-la-cabeza-en-un-garaje-del-municipio-alicantino-de-denia.html",
-        "date": "2024-09-04 06:07:52",
-        "sentiment_score": -0.6413788497447968
-    },
-    {
-        "title": "Vinicius carga contra España: “Si antes de 2030 no evoluciona con el racismo, habría que cambiar de lugar el Mundial”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2cd405a1-bf19-4596-9365-c262f13283e8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/deportes/2024/09/04/vinicius-espana-evoluciona-racismo-cambiar-lugar-mundial-107733461.html",
-        "date": "2024-09-04 06:23:03",
-        "sentiment_score": -0.7984480280429125
-    },
-    {
-        "title": "Vinícius: \"Si España no evoluciona en el tema del racismo, habrá que cambiar de lugar el Mundial\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2cd405a1-bf19-4596-9365-c262f13283e8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2024/09/04/vinicius-espana-evoluciona-racismo-cambiar-lugar-mundial-107733452.html",
-        "date": "2024-09-04 06:22:59",
-        "sentiment_score": -0.7837048154324293
-    },
-    {
-        "title": "Llegan a Tossa de Mar (Girona) los 100 primeros migrantes de los 200 que acogerá la ciudad",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240904082746_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-llegan-tossa-mar-girona-100-primeros-migrantes-200-acogera-ciudad-20240904082746.html",
-        "date": "2024-09-04 06:27:46",
-        "sentiment_score": -0.18777266144752502
-    },
-    {
-        "title": "Las mejores tortillas con 'cosas' por encima de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca34e432-9120-42eb-b2ee-793d72ca940e_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20240904/mejores-tortillas-toppings-restaurantes-barcelona-107673998",
-        "date": "2024-09-04 06:24:41",
-        "sentiment_score": 0.6752432510256767
-    },
-    {
-        "title": "Mientras buscábamos lo políticamente correcto hemos dejado la puerta abierta a los populismos de base fascista",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fe7efc80-7a17-4577-b167-fffd9c14c6b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2024/09/04/buscabamos-politicamente-correcto-hemos-dejado-8650207.html",
-        "date": "2024-09-04 06:22:54",
-        "sentiment_score": -0.5526249594986439
-    },
-    {
-        "title": "Mientras buscábamos lo políticamente correcto hemos dejado la puerta abierta a los populismos de base fascista",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fe7efc80-7a17-4577-b167-fffd9c14c6b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/opinion/2024/09/04/buscabamos-politicamente-correcto-hemos-dejado-8650204.html",
-        "date": "2024-09-04 06:22:54",
-        "sentiment_score": -0.39123179018497467
-    },
-    {
-        "title": "Un festival gastronómico en Barcelona con más de 40 estrellas Michelin (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf773502-d781-4891-ab28-d532ac18e374_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20240904/festival-gastronomico-casacas-rojas-barcelona-107716331",
-        "date": "2024-09-04 06:18:51",
-        "sentiment_score": 0.7183026447892189
-    },
-    {
-        "title": "Inteligencia artificial y ciberacoso: imágenes sexuales, memes humillantes y perfiles falsos. ¿Qué pueden hacer padres y profesores?",
-        "image_url": "https://files.maldita.es/maldita/uploads/images/2024/09/66d70a79ddfe9portadas-agosto-30-png.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://maldita.es/malditatecnologia/20240904/ciberacoso-inteligencia-artificial-recomendaciones/",
-        "date": "2024-09-04 06:13:00",
-        "sentiment_score": -0.21804894506931305
-    },
-    {
-        "title": "Tormentas en Cataluña: el Meteocat advierte de lo que pasará hoy, miércoles 4 de septiembre",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/11/02/vida/806679483_11784949_1706x960.jpg?contentId=ESPIMA20231102_0159",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20240904/tormentas-cataluna-meteocat-advierte-de-que-miercoles/883411655_0.html",
-        "date": "2024-09-04 06:11:42",
-        "sentiment_score": -0.5404663719236851
-    },
-    {
-        "title": "Llegan los primeros cien solicitantes de asilo al hotel de Tossa de Mar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/95e57bce-dee9-45ce-bd6a-7b3c0e81094c_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20240904/migrantes-hotel-tossa-mar-girona-107733038",
-        "date": "2024-09-04 06:08:44",
-        "sentiment_score": -0.017822861671447754
-    },
-    {
-        "title": "Joan Laporta: “Flick no busca excusas”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b3db0b88-2980-4b38-a2f3-81041f230daf_16-9-aspect-ratio_default_0_x834y0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2024/09/04/joan-laporta-flick-busca-excusas-8650136.html",
-        "date": "2024-09-04 06:08:10",
-        "sentiment_score": -0.17988373339176178
-    },
-    {
         "title": "Seleccionador argentino deseó a Julián Álvarez \"que le vaya bien\" en el Atlético de Madrid",
         "image_url": "./assets/ai_generated/v1_txt2img_99fb108e46c24efc934e6184dc4bd296.png",
         "tags": [
@@ -7485,5 +7211,484 @@ export default [
         "link": "https://www.elperiodico.com/es/barcelona/20240907/ayuntamiento-barcelona-activa-fase-alerta-calor-noches-torridas-107870226",
         "date": "2024-09-07 16:40:53",
         "sentiment_score": -0.19972474873065948
+    },
+    {
+        "title": "Pedro Almodóvar gana el León de Oro por ‘La habitación de al lado’: “El ser humano debe ser libre para vivir y para morir”",
+        "image_url": "https://www.infobae.com/resizer/v2/QRQ75ZWHEBA5TKSDSPS54XYMU4.jpg?auth=f2ad73aaccc1c8264a3d300500554c61af9fc93ea7185d62840b0343194c9c75",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/09/07/pedro-almodovar-gana-el-leon-de-oro-por-la-habitacion-de-al-lado-el-ser-humano-debe-ser-libre-para-vivir-y-para-morir/",
+        "date": "2024-09-07 21:38:24",
+        "sentiment_score": 0.6462166458368301
+    },
+    {
+        "title": "Álvaro Martín dice adiós a la competición tras una trayectoria de \"esfuerzo y sacrificio\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_687afd2f301a45c1b095ec835fc1c183.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/alvaro-martin-dice-adios-a-la-competicion-tras-una-trayectoria-de-esfuerzo-y-sacrificio/",
+        "date": "2024-09-07 21:18:15",
+        "sentiment_score": -0.7631071619689465
+    },
+    {
+        "title": "El argentino Eduardo Berizzo, nuevo entrenador del León mexicano",
+        "image_url": "./assets/ai_generated/v1_txt2img_53414c0360274b7e93194aa78f3293d1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/el-argentino-eduardo-berizzo-nuevo-entrenador-del-leon-mexicano/",
+        "date": "2024-09-07 21:17:58",
+        "sentiment_score": 0.05119813233613968
+    },
+    {
+        "title": "Judith Rodríguez y Miguel Luque, abanderados de España en la Clausura de Paris 2024",
+        "image_url": "https://www.infobae.com/resizer/v2/5EENV2IWCFCNDKOKRTNQFLFWPA.jpg?auth=cb7ef90bc4f894e267769e524d7facb68e740c89a3fc40c85cfff96a2610ab1a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/07/judith-rodriguez-y-miguel-luque-abanderados-de-espana-en-la-clausura-de-paris-2024/",
+        "date": "2024-09-07 21:17:41",
+        "sentiment_score": -0.15656249970197678
+    },
+    {
+        "title": "0-0. Empate de sensaciones contrastadas entre Córdoba y Málaga",
+        "image_url": "./assets/ai_generated/v1_txt2img_42d0c880f4a24b3ab49fbdb9d81e2730.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/0-0-empate-de-sensaciones-contrastadas-entre-cordoba-y-malaga/",
+        "date": "2024-09-07 21:17:41",
+        "sentiment_score": 0.38972290605306625
+    },
+    {
+        "title": "La Sagrada Familia de los trabajadores acoge la inauguración de Manifesta 15",
+        "image_url": "./assets/ai_generated/v1_txt2img_ba46184eaba64a95b5c40c9096566eba.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/la-sagrada-familia-de-los-trabajadores-acoge-la-inauguracion-de-manifesta-15/",
+        "date": "2024-09-07 21:17:23",
+        "sentiment_score": 0.6849777288734913
+    },
+    {
+        "title": "Madrid CFF, Éibar y Sevilla comienzan la Liga F con victoria",
+        "image_url": "./assets/ai_generated/v1_txt2img_ac6e75de13a34dbfa55070ed17399d1f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/madrid-cff-eibar-y-sevilla-comienzan-la-liga-f-con-victoria/",
+        "date": "2024-09-07 21:02:49",
+        "sentiment_score": 0.3957165703177452
+    },
+    {
+        "title": "Miguel Luque y Judith Rodríguez, abanderados españoles en la ceremonia de clausura",
+        "image_url": "./assets/ai_generated/v1_txt2img_7f7b52a61dc34a8da0e55b44cc8119fa.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/miguel-luque-y-judith-rodriguez-abanderados-espanoles-en-la-ceremonia-de-clausura/",
+        "date": "2024-09-07 21:02:32",
+        "sentiment_score": -0.2955147251486778
+    },
+    {
+        "title": "El Vive Latino de Zaragoza celebra entre brillos y fosforito su segundo gran día de música",
+        "image_url": "./assets/ai_generated/v1_txt2img_a8a372754d57416583d0736e48c6f952.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/el-vive-latino-de-zaragoza-celebra-entre-brillos-y-fosforito-su-segundo-gran-dia-de-musica/",
+        "date": "2024-09-07 21:01:51",
+        "sentiment_score": 0.7704307064414024
+    },
+    {
+        "title": "Resultados ganadores de la lotería 6/49 de este 7 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/QAD2LWM3FBFYNPJ3C6A5XYXM5I.jpg?auth=e55e30c44aa7747210bfecd14cc6215be714f4a513d7f5c7e04a413ad0da9dfd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/07/resultados-ganadores-de-la-loteria-649-de-este-7-de-septiembre/",
+        "date": "2024-09-07 21:00:29",
+        "sentiment_score": 0.0435732938349247
+    },
+    {
+        "title": "Cómo han cambiado los salones de clase por los tiroteos masivos en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/changing-classrooms-share-3.jpg?quality=100&strip=info",
+        "tags": [
+            "tiroteos en estados unidos",
+            "georgia",
+            "instanoticias",
+            "tiroteos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/07/como-cambiaron-salones-escuelas-tiroteos-masivos-trax/",
+        "date": "2024-09-07 22:00:45",
+        "sentiment_score": -0.712886294350028
+    },
+    {
+        "title": "Trump pide modificar la 25° Enmienda y plantea destitución de vicepresidente si participa en \"conspiración para encubrir incapacidad del presidente\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/trump-25-enmienda.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de donald trump",
+            "vicepresidente",
+            "donald trump",
+            "constitución"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/07/trump-modificar-25-enmienda-destituir-vicepresidente-trax/",
+        "date": "2024-09-07 20:33:54",
+        "sentiment_score": -0.6830949373543262
+    },
+    {
+        "title": "¿Cobrarán por lanzar tu moneda a la Fontana di Trevi en Roma?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-187549056.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/propuesta-acceso-limitado-turistas-fontana-di-trevi-orix/",
+        "date": "2024-09-07 20:10:58",
+        "sentiment_score": -0.19057856500148773
+    },
+    {
+        "title": "Al menos 21 personas muertas por un incendio en una escuela en Kenia, según portavoz del Gobierno",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2169780004-e1725739326834.jpg?quality=100&strip=info",
+        "tags": [
+            "kenia",
+            "áfrica",
+            "incendio"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/07/personas-muertas-incendio-residencia-estudiantes-kenia-trax/",
+        "date": "2024-09-07 20:03:09",
+        "sentiment_score": -0.7974543981254101
+    },
+    {
+        "title": "Venezuela revoca a Brasil la representación de los intereses de Argentina mientras fuerzas de seguridad rodean la embajada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-1207394475.jpg?quality=100&strip=info",
+        "tags": [
+            "brasil",
+            "argentina noticias",
+            "instanoticias",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/07/venezuela-revoca-abrasil-representacion-argentina-embajada-orix/",
+        "date": "2024-09-07 19:00:43",
+        "sentiment_score": -0.09751057624816895
+    },
+    {
+        "title": "Qué esperar del nuevo iPhone que se presentará en un evento de Apple del lunes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-1683362244.jpg?quality=100&strip=info",
+        "tags": [
+            "apple iphone",
+            "tecnología"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/07/nuevo-iphone-que-esperar-del-evento-de-apple-del-lunes-trax/",
+        "date": "2024-09-07 18:16:34",
+        "sentiment_score": 0.6469360329210758
+    },
+    {
+        "title": "Análisis de diferencias y similitudes entre la ultraderecha europea y la latinoamericana",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/thumbnail-ultra-derecha.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "ultraderecha",
+            "fast – reserve",
+            "análisis"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-diferencia-similitudes-extrema-derecha-europea-latinoamericana-conectados-fast/",
+        "date": "2024-09-07 18:11:46",
+        "sentiment_score": -0.04400017857551575
+    },
+    {
+        "title": "Los deslizamientos de tierra destruyen casas de millones de dólares en California, y están empeorando",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169564337.jpg?quality=100&strip=info",
+        "tags": [
+            "cambio climático"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/07/deslizamientos-tierra-destruyen-casas-millones-dolares-california-trax/",
+        "date": "2024-09-07 17:38:33",
+        "sentiment_score": -0.8272850587964058
+    },
+    {
+        "title": "«Vivir del conflicto»: poesía y deseo en Pedro Salinas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/08/pedro-salinas-R390vu7z9H9lSKaq80yG6mL-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-vivir-conflicto-poesia-deseo-pedro-salinas-20240908222347-nts.html",
+        "date": "2024-09-07 20:23:47",
+        "sentiment_score": -0.10506588220596313
+    },
+    {
+        "title": "Grito",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/08/encabezado-emilio-vara-1920-1080px_xoptimizadax_20240906215258-U06322583860OYU-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-grito-20240908222343-nts.html",
+        "date": "2024-09-07 20:23:44",
+        "sentiment_score": -0.021792948246002197
+    },
+    {
+        "title": "Más madera... ¡es la guerra!",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/08/pedro-sanchez-comite-RilZvwiN7QvLBJ0mFaLW84O-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-madera-guerra-20240908222340-nts.html",
+        "date": "2024-09-07 20:23:41",
+        "sentiment_score": -0.05467730760574341
+    },
+    {
+        "title": "Como a chinos",
+        "image_url": "./assets/ai_generated/v1_txt2img_54120852b0544c479e6919fa94bf344f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-chinos-20240908104620-nts.html",
+        "date": "2024-09-07 20:23:40",
+        "sentiment_score": -0.06308361887931824
+    },
+    {
+        "title": "Vertederos en el Alcázar",
+        "image_url": "./assets/ai_generated/v1_txt2img_0ab12d5cf5714d848924aec376f06eee.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-vertederos-alcazar-20240908222339-nts.html",
+        "date": "2024-09-07 20:23:39",
+        "sentiment_score": -0.01753130555152893
+    },
+    {
+        "title": "Los están matando",
+        "image_url": "./assets/ai_generated/v1_txt2img_cec83a815bf14512b2d199897840d661.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-matando-20240908222337-nts.html",
+        "date": "2024-09-07 20:23:38",
+        "sentiment_score": -0.07842481136322021
+    },
+    {
+        "title": "La Niña del Arenal",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/08/piedad-baratillo-RMfMdO8a1lyK6xqum4VOWdO-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-nina-arenal-20240908222334-nts.html",
+        "date": "2024-09-07 20:23:34",
+        "sentiment_score": 0.07152637839317322
+    },
+    {
+        "title": "No es el PSOE, sino España",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/08/efe-sanchez-mjm-kOdD-U86727367525XEM-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-psoe-espana-20240908215304-nt.html",
+        "date": "2024-09-07 19:53:15",
+        "sentiment_score": -0.0748380720615387
+    },
+    {
+        "title": "El turista español se refugia en el camping contra los altos precios de hoteles y apartamentos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/08/1469279903-RPZCb01Mp81pUACDe62JNnM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/turista-espanol-refugia-camping-altos-precios-hoteles-20240908200757-nt.html",
+        "date": "2024-09-07 17:42:12",
+        "sentiment_score": -0.0665273368358612
+    },
+    {
+        "title": "Un día de toros",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/08/san-bernardo_20240907161524-RmFeia9ksNBrZzu5DBD6g7M-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-dia-toros-20240908124839-nt.html",
+        "date": "2024-09-07 17:41:15",
+        "sentiment_score": -0.09973248839378357
+    },
+    {
+        "title": "La Puerta de Alcalá, protagonista de la Semana de la Moda de Madrid: 50 modelos y 28 diseñadores presentan al mundo sus nuevos diseños",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/09/07/17257359133829.jpg",
+        "tags": [
+            "madrid",
+            "moda",
+            "tendencias"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/09/08/66db0f2ee4d4d882168b457f.html",
+        "date": "2024-09-07 22:01:28",
+        "sentiment_score": 0.22439973428845406
+    },
+    {
+        "title": "Los hoteles Best, de la saga Batalla, apuestan por el Caribe con trepidantes inversiones",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/11/11/pensamiento/808929166_11874163_1706x960.jpg?contentId=ESPIMA20231111_0067",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240908/los-best-batalla-apuestan-caribe-trepidantes-inversiones/884291565_13.html",
+        "date": "2024-09-07 22:00:00",
+        "sentiment_score": 0.7256942838430405
+    },
+    {
+        "title": "Brasil vence a Ecuador y amarga el debut de Sebastián Beccacece",
+        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2024/09/RODRYGO-scaled.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://soynuevaprensadigital.com/npd/brasil-vence-a-ecuador-y-amarga-el-debut-de-sebastian-beccacece/",
+        "date": "2024-09-07 21:48:29",
+        "sentiment_score": 0.2563566714525223
+    },
+    {
+        "title": "Cinco destacadas decoradoras españolas: \"Somos casi psicólogas, los clientes nos cuentan su vida privada, sus intimidades\"",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/06/27/17194904654521.jpg",
+        "tags": [
+            "tendencias",
+            "artículos marisa del bosque",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/lifestyle/2024/09/07/66d8522ce85ece52728b45d1.html",
+        "date": "2024-09-07 21:35:25",
+        "sentiment_score": 0.2819811850786209
+    },
+    {
+        "title": "El Madrid eleva el baloncesto pacense",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/09/07/real-madrid-granadilla--kmxB-U2201172708648VfF-758x531@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/deportes/baloncesto/madrid-eleva-baloncesto-pacense-20240907224606-nt.html",
+        "date": "2024-09-07 20:56:59",
+        "sentiment_score": 0.493343748152256
+    },
+    {
+        "title": "Rodrygo anota y Brasil vence a Ecuador, con el que intercambia puestos en eliminatoria",
+        "image_url": "./assets/ai_generated/v1_txt2img_c17f0ef382f94f258ab4578254633295.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-09-07/rodrygo-anota-y-brasil-vence-1-0-a-ecuador-con-el-que-intercambia-puestos-en-eliminatoria",
+        "date": "2024-09-07 20:39:01",
+        "sentiment_score": 0.7132874354720116
+    },
+    {
+        "title": "Baiona acogió la entrega de los Premios Nacionales Terras Gauda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7acdb5b-5ceb-4307-acbd-051efe13d630_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2024/09/07/baiona-acogio-entrega-premios-nacionales-107878403.html",
+        "date": "2024-09-07 20:22:28",
+        "sentiment_score": 0.1054430603981018
+    },
+    {
+        "title": "Los líderes toman posiciones a pleno sol",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9ab8023d-48da-416f-938b-1231331340dd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2024/09/07/lideres-toman-posiciones-pleno-sol-107878402.html",
+        "date": "2024-09-07 20:20:20",
+        "sentiment_score": 0.020339161157608032
+    },
+    {
+        "title": "83-67. Ibaka lidera al Real Madrid ante el Benfica en Badajoz",
+        "image_url": "./assets/ai_generated/v1_txt2img_e6b10e4fd51041b4b3e9fd6299116e40.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/07/83-67-ibaka-lidera-al-real-madrid-ante-el-benfica-en-badajoz/",
+        "date": "2024-09-07 20:18:21",
+        "sentiment_score": 0.43507764860987663
+    },
+    {
+        "title": "El pabellón más invisible del 29",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/06/66dac20d6a92e.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240908/9917788/pabellon-mas-invisible-29.html",
+        "date": "2024-09-07 22:05:00",
+        "sentiment_score": -0.8463119026273489
+    },
+    {
+        "title": "HM Hospitales dispara su crecimiento",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/06/66db16ce6a54c.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20240908/9920562/hm-hospitales-dispara-crecimiento.html",
+        "date": "2024-09-07 22:05:00",
+        "sentiment_score": 0.37078098580241203
+    },
+    {
+        "title": "Dónde pagarás menos en la recta final del año | Newsletter 'Bolsillo'",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/06/66db38a50c123.jpeg",
+        "tags": [
+            "bolsillo"
+        ],
+        "link": "https://www.lavanguardia.com/economia/bolsillo/20240908/9920967/donde-ahorrar-2024.html",
+        "date": "2024-09-07 22:05:00",
+        "sentiment_score": 0.29879269003868103
+    },
+    {
+        "title": "El futuro de la industria aérea se juega en la península Ibérica",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/06/66db2ad801931.r_d.1564-1059-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20240908/9920792/futuro-industria-aerea-juega-peninsula-iberica.html",
+        "date": "2024-09-07 22:05:00",
+        "sentiment_score": 0.28937582671642303
+    },
+    {
+        "title": "La mano derecha de Gustavo Petro abrió Colombia a la hotelera catalana Yurbban",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/07/business/884171585_13420455_1706x960.png?contentId=ESPIMA20240907_0011",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240908/la-gustavo-petro-colombia-hotelera-catalana-yurbban/884161599_0.html",
+        "date": "2024-09-07 22:00:00",
+        "sentiment_score": -0.6784319914877415
+    },
+    {
+        "title": "Hola aeropuerto, adiós ZEPA",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/04/vida/791931052_8610568_1706x960.jpg?contentId=ESPIMA20230904_0253",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240908/hola-aeropuerto-adios-zepa/884291564_13.html",
+        "date": "2024-09-07 22:00:00",
+        "sentiment_score": -0.7279627807438374
+    },
+    {
+        "title": "Fourthline, la empresa que gestiona los riesgos del sector financiero desde Barcelona",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/02/creacion/vida-tecky/882921767_13401422_1706x960.jpg?contentId=ESPIMA20240902_0068",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/vida-tecky/20240908/fourthline-empresa-gestiona-riesgos-sector-financiero-barcelona/882911740_0.html",
+        "date": "2024-09-07 22:00:00",
+        "sentiment_score": 0.0835198275744915
+    },
+    {
+        "title": "L'Eixample esconde dos casas gemelas centenarias esculpidas en piedra: con una 'carassa'",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/09/07/vivir-en-barcelona/884171633_13421901_1706x960.jpg?contentId=ESPIMA20240907_0059",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240907/leixample-esconde-dos-casas-gemelas-centenarias-esculpidas-en-piedra-con-una-carassa/884161629_0.html",
+        "date": "2024-09-07 21:30:00",
+        "sentiment_score": 0.7133296206593513
+    },
+    {
+        "title": "Manel Manchón, nuevo director de Metrópoli Abierta",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/09/06/quien-hace-barcelona/883921710_13419239_1706x960.jpg?contentId=ESPIMA20240906_0111",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/quien-hace-barcelona/20240907/manel-manchon-nuevo-director-de-metropoli-abierta/883911708_0.html",
+        "date": "2024-09-07 21:30:00",
+        "sentiment_score": 0.625839352607727
     }
 ];
