@@ -145,75 +145,6 @@ export default [
         "sentiment_score": -0.236321821808815
     },
     {
-        "title": "Sospechoso del tiroteo en Georgia acude al tribunal encadenado y será juzgado como adulto",
-        "image_url": "./assets/ai_generated/v1_txt2img_235ee52616d34e1da66ee5f38ffaefa8.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/audiencia-judicialcolt-graysospechoso-tiroteo-georgia-cafe-tv-fast/",
-        "date": "2024-09-06 13:28:15",
-        "sentiment_score": -0.8204580992460251
-    },
-    {
-        "title": "Gobierno de República Dominicana está interesado en vender electricidad a Puerto Rico",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1258205888-e1725628204799.jpg?quality=100&strip=info",
-        "tags": [
-            "electricidad",
-            "república dominicana",
-            "cable submarino"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/06/cable-submarino-inversion-republica-dominicana-vender-electricidad-puerto-rico-orix/",
-        "date": "2024-09-06 13:11:37",
-        "sentiment_score": 0.5118561498820782
-    },
-    {
-        "title": "Activista estadounidense muere por disparo durante una protesta en la Ribera Occidental, según funcionarios palestinos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/ataque-refugio-palestino.webp",
-        "tags": [
-            "israel gaza",
-            "medio oriente",
-            "palestina",
-            "ribera occidental"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/06/activista-estadounidense-muere-disparo-protesta-ribera-occidental-palestinos-trax/",
-        "date": "2024-09-06 13:07:57",
-        "sentiment_score": -0.8087355988100171
-    },
-    {
-        "title": "Maduro le responde a Milei y lo llama “amargado”",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168159681.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-respuesta-critica-milei-venezuela-argentina-cafe-tv-fast/",
-        "date": "2024-09-06 13:06:44",
-        "sentiment_score": -0.8541174773126841
-    },
-    {
-        "title": "China pone fin a la mayoría de las adopciones extranjeras de sus niños y deja en el limbo a cientos de familias estadounidenses y de otros países",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/china-adopcion-bebe.webp",
-        "tags": [
-            "política bebés",
-            "instanoticias",
-            "adopción",
-            "asia",
-            "china"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/06/china-pone-fin-adopciones-extranjeras-ninos-limbo-cientos-de-familias-ee-uu-trax/",
-        "date": "2024-09-06 12:43:58",
-        "sentiment_score": -0.6884459480643272
-    },
-    {
-        "title": "La economía de Estados Unidos añadió 142.000 empleos en agosto",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/empleo-eeuu-e1725626421660.jpg?quality=100&strip=info",
-        "tags": [
-            "empleo"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/06/empleo-estados-unidos-agosto-trax/",
-        "date": "2024-09-06 12:40:56",
-        "sentiment_score": -0.6821515820920467
-    },
-    {
         "title": "400 metros vallas",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/06/carlos-torres-R8asA49Hv1K3jLbgfoP6GAM-758x531@diario_abc.jpg",
         "tags": [
@@ -252,66 +183,6 @@ export default [
         "link": "https://www.abc.es/economia/europa-frena-crecimiento-alemania-instalada-tasas-negativas-20240906133107-nt.html",
         "date": "2024-09-06 14:43:39",
         "sentiment_score": -0.1136627346277237
-    },
-    {
-        "title": "Los funcionarios de élite aprovechan la salida de Escrivá para tratar de tumbar su reforma de las oposiciones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/06/escrivoscarlpez-R1E7KfVZQYob9UkEoqOVhHN-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/funcionarios-elite-aprovechan-salida-escriva-tratar-tumbar-20240906152319-nt.html",
-        "date": "2024-09-06 13:27:41",
-        "sentiment_score": -0.05815133452415466
-    },
-    {
-        "title": "Estados Unidos confía a Zelenski un nuevo paquete de 250 millones de dólares",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/06/zelenski-biden-R2oapJn1M9tvZX6ooKcQ7VL-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/estados-unidos-confia-zelenski-nuevo-paquete-250-20240906151540-nt.html",
-        "date": "2024-09-06 13:15:41",
-        "sentiment_score": -0.023446887731552124
-    },
-    {
-        "title": "Qué podemos aprender de la fiebre del perezoso, la (pen)última amenaza para la salud mundial",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/09/06/branch-wildlife-jungle-mammal-fauna-sloth-675912-pxhere.com--758x531.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/podemos-aprender-fiebre-perezoso-penultima-amenaza-salud-20240906141734-nt.html",
-        "date": "2024-09-06 13:15:27",
-        "sentiment_score": -0.2909601777791977
-    },
-    {
-        "title": "Vox eleva a Europa el nombramiento de Escrivá como gobernador del Banco de España",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/06/escriv--758x531.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/vox-eleva-europa-nombramiento-escriva-gobernador-banco-20240906143751-nt.html",
-        "date": "2024-09-06 12:37:56",
-        "sentiment_score": -0.09349794685840607
-    },
-    {
-        "title": "Las infecciones respiratorias vuelven a subir después del verano: se disparan los casos de gripe y Covid",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/09/06/gripe--758x531.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/infecciones-respiratorias-vuelven-subir-despues-verano-disparan-20240906142525-nt.html",
-        "date": "2024-09-06 12:25:31",
-        "sentiment_score": -0.29039424657821655
-    },
-    {
-        "title": "La luz nocturna, factor de riesgo para la enfermedad de Alzheimer",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/09/06/PIXNIO-249616-758x531.jpeg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/luz-nocturna-factor-riesgo-enfermedad-alzheimer-20240906141631-nt.html",
-        "date": "2024-09-06 12:16:32",
-        "sentiment_score": -0.1736476868391037
     },
     {
         "title": "Conde-Pumpido pide “máximo respeto” para el Constitucional a las puertas de debatir sobre la amnistía",
@@ -374,111 +245,6 @@ export default [
         "link": "https://elpais.com/espana/2024-09-06/el-gobierno-presentara-los-presupuestos-pero-descarta-elecciones-aunque-se-los-tumben.html",
         "date": "2024-09-06 14:43:36",
         "sentiment_score": 0.6029373072087765
-    },
-    {
-        "title": "Canarias instalará una carpa en el Hierro para menores migrantes tras plantarse con el Gobierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ALCRI4C2XXGCGXZ7DBNDRSJMR4.jpg?auth=cc9a485c61e7b9ed5455d5cdb01159a5f47cd0b7a4061901ec1f3f3965caf41e",
-        "tags": [
-            "inmigración irregular",
-            "inmigrantes africanos",
-            "migrantes",
-            "menores migrantes",
-            "ángel víctor torres",
-            "menores",
-            "gobierno canarias",
-            "el hierro",
-            "inmigrantes",
-            "inmigración irregular españa",
-            "inmigración",
-            "fernando clavijo",
-            "parlamentos autonómicos",
-            "canarias",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-09-06/canarias-instalara-una-carpa-en-el-hierro-para-menores-migrantes-tras-plantarse-con-el-gobierno.html",
-        "date": "2024-09-06 13:59:02",
-        "sentiment_score": -0.13060829043388367
-    },
-    {
-        "title": "Feijóo exige un nuevo modelo de financiación autonómica desde la multilateralidad: “Todos a una”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MKJESNALDZGVTGAFEN3GICMZ4A.jpg?auth=002676d7a250d025bfeca388dba3176d82eeb1a956f4d98cf1505ede775ee63d",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-09-06/feijoo-exige-un-nuevo-modelo-de-financiacion-autonomica-desde-la-multilateralidad-todos-a-una.html",
-        "date": "2024-09-06 13:23:14",
-        "sentiment_score": -0.004933521151542664
-    },
-    {
-        "title": "ONGs de rescate en el mar protestan contra las tasas en los puertos valencianos que les pide la Generalitat",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/THKWXJEHYJDJNEC4JJYJNOZ2AA.jpg?auth=3dc08668fe6825fbc10f57ce4f3c0c66c8673b7341969fb79664ed0e346e8357",
-        "tags": [
-            "mediterránea",
-            "comunidad valenciana",
-            "migración",
-            "valencia",
-            "vox",
-            "puertos",
-            "puertos del estado"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-06/ongs-de-rescate-en-el-mar-protestan-contra-las-tasas-en-los-puertos-valencianos-que-les-pide-la-generalitat.html",
-        "date": "2024-09-06 13:17:42",
-        "sentiment_score": -0.5429804585874081
-    },
-    {
-        "title": "Herida una mujer de 60 años en Madrid al ser atacada con un cúter por la espalda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FAJKTTVGORB5RPNPSJSAKY3MG4.jpg?auth=a3a921c3a3af0bf506e5e6b70ead92a20b924a159276f23c5ecb1ee97fbc9d4a",
-        "tags": [
-            "heridos",
-            "agresiones físicas",
-            "lesiones",
-            "san blas",
-            "comunidad de madrid",
-            "sucesos",
-            "madrid",
-            "armas blancas",
-            "samur",
-            "policía nacional"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-09-06/herida-una-mujer-de-60-anos-en-madrid-al-ser-atacada-con-un-cuter-por-la-espalda.html",
-        "date": "2024-09-06 13:16:45",
-        "sentiment_score": -0.6116396151483059
-    },
-    {
-        "title": "La Generalitat eleva un 32% la deuda de facturas impagadas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C4P7RLXL4VCYZCDJIVVN7WIGOM.jpg?auth=53452e5e0855a375d95411a331030a8c0a31813e474245cf91497faa7b8d855e",
-        "tags": [
-            "sindicatura de comptes",
-            "gasto público",
-            "presupuestos autonómicos",
-            "sanidad",
-            "cataluña",
-            "sanidad pública",
-            "generalitat cataluña",
-            "recursos públicos",
-            "pere aragonès"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-06/la-generalitat-eleva-un-32-la-deuda-de-facturas-impagadas.html",
-        "date": "2024-09-06 13:11:40",
-        "sentiment_score": -0.181206576526165
-    },
-    {
-        "title": "El Ayuntamiento de Figueres denuncia un intento de extorsión por una cuenta de Instragram",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UWVWM2M6A5EBNOZMA74WDEAFJU.jpg?auth=ea929340262d4bedf86249480d68ecc89f85de4cdd4aa1336095ebdcd17e1aad",
-        "tags": [
-            "redes sociales",
-            "alcaldía",
-            "jueces",
-            "cataluña",
-            "denuncias",
-            "fiscalía",
-            "instagram",
-            "extorsiones",
-            "figueres"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-06/el-ayuntamiento-de-figueres-denuncia-un-intento-de-extorsion-por-una-cuenta-de-instragram.html",
-        "date": "2024-09-06 13:05:10",
-        "sentiment_score": -0.8251919262111187
     },
     {
         "title": "El Corinthians de Ramón Díaz acordó el traspaso del año: fichará a Memphis Depay, ex Atlético Madrid y Barcelona",
@@ -7585,5 +7351,401 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240909/el-sindrome-de-intestino-irritable-su-impacto-directo-en-la-calidad-vida/884661559_0.html",
         "date": "2024-09-09 21:39:24",
         "sentiment_score": -0.8408547323197126
+    },
+    {
+        "title": "Clima en Málaga: temperatura y probabilidad de lluvia para este 10 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/F3UJEYEHNBEXFC2MH6A6XO3E7Y.jpg?auth=97cf860f4f526b57d0cdeadfb5be4a24611751a89f01d47424c7e14147319656",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/10/clima-en-malaga-temperatura-y-probabilidad-de-lluvia-para-este-10-de-septiembre/",
+        "date": "2024-09-10 02:02:13",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este martes 10 de septiembre: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/YFPF4MZGFREHHHS5NV2XJUR63Q.jpg?auth=b585a81ae025031adf205e957a947183a41e7870ec65fe6d8d73bfdb23a4e79c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/10/pronostico-del-clima-en-barcelona-este-martes-10-de-septiembre-temperatura-lluvias-y-viento/",
+        "date": "2024-09-10 01:01:08",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Maduro dice respetar la decisión de González Urrutia de salir de Venezuela a España",
+        "image_url": "./assets/ai_generated/v1_txt2img_71cd62ef626343a89bb726daed61fe2c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/10/maduro-dice-respetar-la-decision-de-gonzalez-urrutia-de-salir-de-venezuela-a-espana/",
+        "date": "2024-09-10 01:00:58",
+        "sentiment_score": 0.07474786043167114
+    },
+    {
+        "title": "El negocio de Isabel Pantoja en Fuengirola que ahora es un centro de jóvenes: llegó a ser restaurante, bar de copas, y buffet libre de comida china",
+        "image_url": "https://www.infobae.com/resizer/v2/4ESIL4HBHZBCTNUOC67SYTBHOA.jpg?auth=6a46f9cbb87a6b6e7b7c3c4f51acf97ae09381df621899eca07cd9cff33b588e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/10/el-negocio-de-isabel-pantoja-en-fuengirola-que-ahora-es-un-centro-de-jovenes-llego-a-ser-restaurante-bar-de-copas-y-buffet-libre-de-comida-china/",
+        "date": "2024-09-10 01:00:15",
+        "sentiment_score": 0.7328932993113995
+    },
+    {
+        "title": "La española Brigitte Vasallo invitada a la mayor cita literaria de Brasil",
+        "image_url": "./assets/ai_generated/v1_txt2img_0babc920b84b4f8f9d771d418a965848.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/10/la-espanola-brigitte-vasallo-invitada-a-la-mayor-cita-literaria-de-brasil/",
+        "date": "2024-09-10 00:46:43",
+        "sentiment_score": 0.4382142052054405
+    },
+    {
+        "title": "Autoras de Argentina, Chile, México y España invitadas a la mayor cita literaria de Brasil",
+        "image_url": "./assets/ai_generated/v1_txt2img_ef292b6c966f4777b5f6c5444a3a9cb8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/09/autoras-de-argentina-chile-mexico-y-espana-invitadas-a-la-mayor-cita-literaria-de-brasil/",
+        "date": "2024-09-09 23:45:41",
+        "sentiment_score": 0.49251913651824
+    },
+    {
+        "title": "Estos son los resultados ganadores de la Quiniela de la jornada 6",
+        "image_url": "https://www.infobae.com/resizer/v2/HMW5MXG74VEWFKXCJEOYV424NM.jpg?auth=145a390a17af65b665a079721226f562a13526bfa542ac80f74d6e40c8fcc1c9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/09/estos-son-los-resultados-ganadores-de-la-quiniela-de-la-jornada-6/",
+        "date": "2024-09-09 23:15:30",
+        "sentiment_score": 0.5779921989887953
+    },
+    {
+        "title": "Imanol Pradales: \"Como Lehendakari, me interesa que Euskadi juegue a favor de la estabilidad en el Estado\"",
+        "image_url": "https://www.infobae.com/resizer/v2/6LUWTAP7HZHXDJO6RSLPKMXAIY.jpg?auth=b9bce778947a10aac209bc76b8d54d3ceed239b68c250dcc3bfe41873ea5a86d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/09/imanol-pradales-como-lehendakari-me-interesa-que-euskadi-juegue-a-favor-de-la-estabilidad-en-el-estado/",
+        "date": "2024-09-09 23:04:22",
+        "sentiment_score": 0.24430298805236816
+    },
+    {
+        "title": "Lo que sabemos del accidente de helicóptero en el que murió el director de la Policía de El Salvador",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2170392261.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/accidente-helicoptero-el-salvador-mauricio-arriaza-bukele-perspectivas-mexico-tv/",
+        "date": "2024-09-10 02:06:02",
+        "sentiment_score": -0.7312775086611509
+    },
+    {
+        "title": "Juan Pablo Guanipa dice que, aún en España, Edmundo González es presidente electo de Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2163833476.jpg?quality=100&strip=info",
+        "tags": [
+            "nicolás maduro",
+            "edmundo gonzález urrutia",
+            "venezuela",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-exilio-espana-edmundo-seguridad-fraude-actas-maduro-conclusiones-tv/",
+        "date": "2024-09-10 02:01:08",
+        "sentiment_score": -0.08734282851219177
+    },
+    {
+        "title": "¿Qué se necesita actualmente para ser juez en México?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/cnne-9584d740-130219074106-gavel-story-top.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/carrera-judicial-reforma-senado-protestas-requisitos-juez-perspectivas-mexico-tv/",
+        "date": "2024-09-10 01:54:01",
+        "sentiment_score": -0.13684508949518204
+    },
+    {
+        "title": "Australia busca a hombre que arrojó café hirviendo a un bebé",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/still-20945245-23974-675000000003-still.jpg?quality=100&strip=info",
+        "tags": [
+            "australia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/australia-busqueda-hombre-arrojo-cafe-hirviendo-bebe-9-meses-panorama-mundial-tv/",
+        "date": "2024-09-10 01:32:38",
+        "sentiment_score": -0.6318291798233986
+    },
+    {
+        "title": "Maduro dice que “respeta” decisión de González Urrutia de salir de Venezuela y pedir asilo en España",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/maduro-edmundo-asilo-espana-e1725931630105.jpg?quality=100&strip=info",
+        "tags": [
+            "edmundo gonzález",
+            "venezuela",
+            "elecciones",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/09/maduro-dice-respeta-decision-gonzalez-urrutia-salir-venezuela-pedir-asilo-espana-orix/",
+        "date": "2024-09-10 01:27:41",
+        "sentiment_score": -0.15752188861370087
+    },
+    {
+        "title": "Tormenta Francine se fortalece en el Golfo de México y alerta a EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/still-20944954-1789-333-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tormenta-francice-golfo-mexico-texas-luisiana-panorama-mundial-tv/",
+        "date": "2024-09-10 01:22:43",
+        "sentiment_score": -0.8162631895393133
+    },
+    {
+        "title": "Debate presidencial entre Donald Trump y Kamala Harris: hora, reglas del debate y cómo ver",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/trump-harris-debate-como-ver-reglas-e1725929606564.jpg?quality=100&strip=info",
+        "tags": [
+            "debate presidencial",
+            "kamala harris",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/09/debate-presidencial-donald-trump-kamala-harris-hora-reglas-como-ver-orix/",
+        "date": "2024-09-10 01:21:52",
+        "sentiment_score": -0.10474959015846252
+    },
+    {
+        "title": "El periodista Jorge Ramos dejará Univisión a finales de año, anunció la cadena de noticias",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-855732166-1-e1725929451367.jpg?quality=100&strip=info",
+        "tags": [
+            "periodismo",
+            "jorge ramos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/09/univision-salida-periodista-jorge-ramos-orix/",
+        "date": "2024-09-10 00:53:36",
+        "sentiment_score": -0.04380165413022041
+    },
+    {
+        "title": "Israel bombardea una zona humanitaria de Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2021/12/ultima-hora-6.jpg?quality=100&strip=info",
+        "tags": [
+            "guerra israel y hamas",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/09/israel-ataca-zona-humanitaria-khan-younis-gaza-trax/",
+        "date": "2024-09-10 00:27:11",
+        "sentiment_score": -0.8244131375104189
+    },
+    {
+        "title": "Heridas infectadas, gusanos y ninguna escapatoria. La crisis humanitaria de Gaza llega a un extremo mientras las condiciones sanitarias empeoran",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/ap24251024981591.jpg?quality=100&strip=info",
+        "tags": [
+            "crisis humanitaria",
+            "gaza",
+            "palestinos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/09/crisis-humanitaria-gaza-condiciones-sanitarias-trax/",
+        "date": "2024-09-10 00:05:25",
+        "sentiment_score": -0.9369531245902181
+    },
+    {
+        "title": "Fedea advierte de que el concierto catalán abrirá una guerra autonómica por atraer sedes de empresas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/10/salvadorillaefe-RjCingYEvbHMqULqmVXtscO-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fedea-advierte-concierto-catalan-abrira-guerra-autonomica-20240910200309-nt.html",
+        "date": "2024-09-10 02:03:40",
+        "sentiment_score": -0.07412990927696228
+    },
+    {
+        "title": "Correos prepara una entidad para pagos, no un banco como anunció: ni dará hipotecas ni captará depósitos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/10/pedro-saura-RKsgnngSZMD55qBVE86C6pN-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/correos-prepara-entidad-pagos-banco-anuncio-dara-20240910194906-nt.html",
+        "date": "2024-09-10 02:03:29",
+        "sentiment_score": -0.0505380779504776
+    },
+    {
+        "title": "Scholz negocia con Volkswagen para paralizar el cierre de fábricas en Alemania",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/10/volkswagen-RloSfulP6rVzyxwQry8c30O-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/scholz-negocia-volkswagen-paralizar-cierre-fabricas-alemania-20240910141035-nt.html",
+        "date": "2024-09-10 02:02:11",
+        "sentiment_score": -0.10513913631439209
+    },
+    {
+        "title": "Los mercados cuentan con otra rebaja de tipos el jueves",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/10/lagarde-RGRkn6jOjzp846xntnzcT5N-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/mercados-cuentan-rebaja-tipos-jueves-20240910040158-nt.html",
+        "date": "2024-09-10 02:01:59",
+        "sentiment_score": -0.08255012333393097
+    },
+    {
+        "title": "Esto es lo que le pasa a tu cuerpo a corto plazo si empiezas a fumar antes de los 18 años",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/09/09/adolescentes-fumando-RJQvqkTr4zwPDnpu1UyPU1O-758x531@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/pasa-cuerpo-corto-plazo-empiezas-fumar-anos-20240909000000-nt.html",
+        "date": "2024-09-09 22:21:27",
+        "sentiment_score": -0.1691066026687622
+    },
+    {
+        "title": "Martes 10 de septiembre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1096106",
+        "date": "2024-09-10 02:05:36",
+        "sentiment_score": -0.010392725467681885
+    },
+    {
+        "title": "El reto de la vuelta al colegio",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1096110",
+        "date": "2024-09-10 02:00:27",
+        "sentiment_score": -0.005112141370773315
+    },
+    {
+        "title": "Entradas para el Real Madrid – Espanyol: normas estrictas y preventivas para los aficionados",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/09/santiago-bernabeu-750x375.jpg",
+        "tags": [
+            "actualidad",
+            "deportivo alavés",
+            "real madrid",
+            "espanyol",
+            "entradas"
+        ],
+        "link": "https://lagradaonline.com/entradas-espanyol-real-madrid-deportivo-alaves/",
+        "date": "2024-09-10 02:00:00",
+        "sentiment_score": 0.06798302941024303
+    },
+    {
+        "title": "Corinthians contrata al goleador neerlandés Memphis Depay",
+        "image_url": "./assets/ai_generated/v1_txt2img_55e836eac2084c809e960c99685c1ae9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/10/corinthians-contrata-al-goleador-neerlandes-memphis-depay/",
+        "date": "2024-09-10 01:45:24",
+        "sentiment_score": 0.24540232121944427
+    },
+    {
+        "title": "Memphis Depay fue presentado en el Corinthians de Ramón Díaz y Sergio Ramos podría ir a otro gigante de Brasil",
+        "image_url": "https://www.infobae.com/resizer/v2/CUTMKG7RQZCZXHIY65PTTJCDQ4.jfif?auth=71f699efe712c99bf5cf4d05f820ec9e9dc834b8e31e00568e01a7e68951d700",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/10/memphis-depay-fue-presentado-en-el-corinthians-de-ramon-diaz-y-sergio-ramos-podria-ir-a-otro-gigante-de-brasil/",
+        "date": "2024-09-10 01:18:41",
+        "sentiment_score": 0.3462427258491516
+    },
+    {
+        "title": "Brilló en Boca, en Juventus lo apodan “pequeño Riquelme” y fue citado a la Selección Sub 15: sus impactantes videos",
+        "image_url": "https://www.infobae.com/resizer/v2/WIO372PD7JA3PBEIKT4E25KB6E.jpg?auth=e95e828909ceb5f2cdabb068175f68578d06ef9fd867b9726d63ed603f93176a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/10/brillo-en-boca-en-juventus-lo-apodan-pequeno-riquelme-y-fue-citado-a-la-seleccion-sub-15-sus-impactantes-videos/",
+        "date": "2024-09-10 01:18:11",
+        "sentiment_score": -0.02965201437473297
+    },
+    {
+        "title": "Luis Esteban sobre el consumo sostenible: \"Cada vez hay más gente se compromete con el reciclaje por el bien planeta\"",
+        "image_url": "https://s1.elespanol.com/2024/09/09/enclave-ods/referentes/884672002_249043864_1706x960.jpg?contentId=ESPIMA20240909_0478",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20240910/luis-esteban-consumo-sostenible-vez-gente-compromete-reciclaje-bien-planeta/884661862_0.html",
+        "date": "2024-09-10 00:12:52",
+        "sentiment_score": 0.028436988592147827
+    },
+    {
+        "title": "El Real Madrid llegará mermado a Anoeta",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/09/09/97857185-k2MF--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/real-madrid-llegara-mermado-anoeta-20240910070633-nt.html",
+        "date": "2024-09-10 00:00:00",
+        "sentiment_score": -0.2638256847858429
+    },
+    {
+        "title": "Empieza la cuenta atrás para el arranque de la edición más internacional del consolidado congreso The District",
+        "image_url": "https://s1.elespanol.com/2024/09/09/invertia/disruptores/grandes-actores/empresas/884671555_249029807_1706x960.jpg?contentId=ESPIMA20240909_0031",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20240910/empieza-cuenta-arranque-edicion-internacional-consolidado-congreso-the-district/884661536_0.html",
+        "date": "2024-09-09 23:55:16",
+        "sentiment_score": 0.3722899276763201
+    },
+    {
+        "title": "El ping pong de Cristiano Ronaldo que dejó mal parados a dos ex compañeros argentinos: la omisión a Messi",
+        "image_url": "https://www.infobae.com/resizer/v2/M5D7LLOQIJCNNEJZZKPMSMKYWA.jpg?auth=e4e3521ee59ce258c0a9a8302cb8f90763966451a12ba01e3afac6d57041600b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/09/el-ping-pong-de-cristiano-ronaldo-que-dejo-mal-parados-a-dos-ex-companeros-argentinos-la-omision-a-messi/",
+        "date": "2024-09-09 23:52:47",
+        "sentiment_score": -0.23762039095163345
+    },
+    {
+        "title": "Descubren que los microorganismos pueden propagarse a miles de kilómetros por las corrientes de viento",
+        "image_url": "https://album.mediaset.es/eimg/2024/09/06/descubren-que-los-microorganismos-viajan-miles-de-kilometros-en-el-aire_011e.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20240910/descubren-microorganismos-viajan-miles-kilometros-corrientes-troposfera_18_013388188.html",
+        "date": "2024-09-10 02:00:37",
+        "sentiment_score": -0.00450674444437027
+    },
+    {
+        "title": "Impresiones",
+        "image_url": "https://men.gsstatic.es/autor/pau-faner/11.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/09/10/2238121/impresiones-1.html",
+        "date": "2024-09-10 02:00:01",
+        "sentiment_score": -0.06710928678512573
+    },
+    {
+        "title": "Espíritu de reconciliación",
+        "image_url": "https://men.gsstatic.es/autor/joan-huguet/11011.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/09/10/2238129/espiritu-reconciliacion.html",
+        "date": "2024-09-10 02:00:01",
+        "sentiment_score": -0.2517237961292267
+    },
+    {
+        "title": "El ‘modus vivendi’ mediterráneo de David Monrós",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2992501.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2024/09/10/2238163/modus-vivendi-mediterraneo-david-monros.html",
+        "date": "2024-09-10 02:00:01",
+        "sentiment_score": -0.07479912042617798
+    },
+    {
+        "title": "Alarmante panorama para la salud mental en Colombia: intentos de suicidio van en aumento desde la pandemia",
+        "image_url": "https://www.infobae.com/resizer/v2/3UMNMFGCXRDBBEVLYITREQQE5Q.jpeg?auth=7997a504f5ba2c8200dfed8d6799de4de02e3b7bee14a0dd0a602f5197018532",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/09/10/alarmante-panorama-para-la-salud-mental-en-colombia-intentos-de-suicidio-van-en-aumento-desde-la-pandemia/",
+        "date": "2024-09-10 01:01:25",
+        "sentiment_score": -0.328530453145504
     }
 ];
