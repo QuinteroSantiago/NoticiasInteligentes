@@ -157,41 +157,6 @@ export default [
         "sentiment_score": -0.7110018245875835
     },
     {
-        "title": "ANÁLISIS | Una confusa respuesta de Trump a una pregunta sobre el cuidado infantil, deconstruida",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/trump-cuidado.jpg?quality=100&strip=info",
-        "tags": [
-            "política",
-            "noticias de donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/07/confusa-respuesta-trump-cuidado-infantil-trax/",
-        "date": "2024-09-07 13:18:53",
-        "sentiment_score": -0.8627645988017321
-    },
-    {
-        "title": "Los jefes de la CIA y del MI6 hacen una aparición pública conjunta sin precedentes en Londres",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/jefes-inteligencia.jpg?quality=100&strip=info",
-        "tags": [
-            "m16",
-            "política",
-            "cia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/07/cia-y-mi6-aparicion-publica-sin-precedentes-londres-trax/",
-        "date": "2024-09-07 12:33:43",
-        "sentiment_score": 0.32412581145763397
-    },
-    {
-        "title": "¿Cuáles son los intereses de Elon Musk en América Latina?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/elon-musk-space-x-demanda-empleados.jpg?quality=100&strip=info",
-        "tags": [
-            "redes sociales",
-            "negocios",
-            "elon musk"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/07/cuales-son-intereses-elon-musk-america-latina-orix/",
-        "date": "2024-09-07 11:39:00",
-        "sentiment_score": -0.41521742194890976
-    },
-    {
         "title": "Cientos de miles de franceses protestan contra el nuevo primer ministro impuesto por Macron",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/07/24i07Manifa_0003variante1ABC-Rnfrq66xdRwh5bZJ4HtkDfJ-758x531@diario_abc.jpg",
         "tags": [
@@ -210,46 +175,6 @@ export default [
         "link": "https://www.abc.es/internacional/sheinbaum-nombra-ministro-defensa-general-senalado-tener-20240907182336-nt.html",
         "date": "2024-09-07 16:23:36",
         "sentiment_score": -0.032010167837142944
-    },
-    {
-        "title": "Miles de hondureños marchan con antorchas contra el gobierno tras el fin del tratado de extradición con EEUU",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/07/honduras-protestas-RRFpPGS7aZbitpugkN7NVwI-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/miles-hondurenos-marchan-antorchas-gobierno-tras-fin-20240907131022-nt.html",
-        "date": "2024-09-07 11:11:31",
-        "sentiment_score": -0.06935879588127136
-    },
-    {
-        "title": "Iberdrola desarrollará en EE.UU. un parque eólico marino capaz de cubrir la demanda de energía de Málaga y Bilbao",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/07/elicamarina-RyDSM9iVfXg7jKNUeCkQQsI-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/iberdrola-desarrollara-eeuu-parque-eolico-marino-capaz-20240907125213-nt.html",
-        "date": "2024-09-07 10:55:30",
-        "sentiment_score": 0.05498942732810974
-    },
-    {
-        "title": "Pedro Sánchez y la patrulla canina",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/08/1485889074-U34426420530dEh-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jesus-lillo-pedro-sanchez-patrulla-canina-20240908123129-nt.html",
-        "date": "2024-09-07 10:31:38",
-        "sentiment_score": -0.059224069118499756
-    },
-    {
-        "title": "Cristina Kirchner lanza una dura crítica a Javier Milei: «Es la economía bimonetaria, estúpido»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/07/kirchner-RTgqdweh1Fd0YKTlJPSwZgP-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/cristina-kirchner-lanza-dura-critica-javier-milei-20240907122318-nt.html",
-        "date": "2024-09-07 10:26:13",
-        "sentiment_score": -0.10567931830883026
     },
     {
         "title": "Pedro Sánchez, Kamala Harris y los “agonías” del PSOE",
@@ -295,104 +220,6 @@ export default [
         "link": "https://elpais.com/espana/2024-09-07/el-psoe-a-puerta-cerrada-sanchez-pide-lealtad-y-los-barones-rebajan-el-tono-salvo-page-y-lamban.html",
         "date": "2024-09-07 14:47:11",
         "sentiment_score": -0.1439051330089569
-    },
-    {
-        "title": "Movilización policial para evitar un “baño popular” en protesta contra la Copa del América en la Barceloneta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IX6RGE5OURC5RPOZUWRY4JRUE4.jpg?auth=81c3259efd788641d5b58fc523c51abc0be8a0639f15cf82fd60566e8c428a2c",
-        "tags": [
-            "mossos d'esquadra",
-            "playas",
-            "copa américa vela",
-            "barcelona",
-            "cataluña",
-            "protestas sociales",
-            "barceloneta"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-07/movilizacion-policial-para-evitar-un-bano-popular-en-protesta-contra-la-copa-del-america-en-la-barceloneta.html",
-        "date": "2024-09-07 12:46:08",
-        "sentiment_score": -0.5876260064542294
-    },
-    {
-        "title": "Los patriotas no madrugan",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UTHOOGE5PJDZBELXLZUSHTNUWY.JPG?auth=94b85b1b0b9ea185b2c3b6cb6e21774e6ab8d3c18b01ee1fc740e18d1e41bd82",
-        "tags": [
-            "emiliano garcía-page",
-            "pedro sánchez",
-            "ley de amnistía",
-            "policía nacional",
-            "comité federal psoe",
-            "luis tudanca",
-            "juan lobato",
-            "declaraciones políticas",
-            "financiación",
-            "psoe",
-            "erc",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-09-07/los-patriotas-no-madrugan.html",
-        "date": "2024-09-07 12:08:02",
-        "sentiment_score": -0.46918661892414093
-    },
-    {
-        "title": "Pedro Sánchez: “El verdadero debate de la financiación no es entre territorios sino entre modelos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HI5PVH7M2D6ZWI2743FIKIA3LI.jpg?auth=32b03c3f0690669f7849b06ce8557b9d54ee0d265493c2ad3e0a88928b595855",
-        "tags": [
-            "pedro sánchez",
-            "psoe",
-            "barones psoe",
-            "comité federal psoe",
-            "gobierno de españa",
-            "financiación",
-            "socialismo",
-            "españa",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/2024-09-07/pedro-sanchez-el-verdadero-debate-de-la-financiacion-no-es-entre-territorios-sino-entre-modelos.html",
-        "date": "2024-09-07 11:03:51",
-        "sentiment_score": -0.4938560947775841
-    },
-    {
-        "title": "El Ayuntamiento de Fanzara rectifica y retira el veto al museo de arte urbano MIAU",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TAUBW7RRKFHAJF4DSRQICKC2JY.JPG?auth=653f74cd1c7566ac09d69a3b6ce3f745d3c482aaf726859cc063e5bccf203c76",
-        "tags": [
-            "museos",
-            "libertad expresión",
-            "subvenciones",
-            "ayuntamientos",
-            "protestas sociales",
-            "grafiti",
-            "comunidad valenciana",
-            "política municipal",
-            "cultura",
-            "fanzara",
-            "provincia castellón"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-07/el-ayuntamiento-de-fanzara-rectifica-y-retira-el-veto-al-museo-de-arte-urbano-miau.html",
-        "date": "2024-09-07 10:55:54",
-        "sentiment_score": -0.8584722243249416
-    },
-    {
-        "title": "El comité federal del PSOE, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2FEJQFUEKZAGHE4ZGACW7PUSHM.JPG?auth=81c742773dab25933f76d1c598e4bc55a354c996305ee8b63637c40d41826566",
-        "tags": [
-            "cataluña",
-            "financiación",
-            "salvador illa",
-            "gobierno de españa",
-            "política",
-            "políticos",
-            "comité federal psoe",
-            "comunidades autónomas",
-            "xv legislatura españa",
-            "emiliano garcía-page",
-            "psoe",
-            "españa",
-            "pedro sánchez",
-            "partidos políticos"
-        ],
-        "link": "https://elpais.com/espana/2024-09-07/el-comite-federal-del-psoe-en-imagenes.html",
-        "date": "2024-09-07 10:36:16",
-        "sentiment_score": 0.041336871683597565
     },
     {
         "title": "La pesadilla de Moleiro: el '10' de la UD abandona otra vez la concentración de la 'Rojita'",
@@ -7615,5 +7442,449 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20240910/el-infierno-de-rumba-lolo-en-una-residencia-canina-barcelona/882911780_0.html",
         "date": "2024-09-10 21:30:00",
         "sentiment_score": -0.9020643774420023
+    },
+    {
+        "title": "Predicción del clima en Málaga para antes de salir de casa este 11 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/FUSKJ2MH5RGHFBHEDU7VRKD6WM.jpg?auth=31368cd2337ce2149cdbe6face3dbacdf1ff49eb0c91b7fc8be40c33eacb5ee3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/11/prediccion-del-clima-en-malaga-para-antes-de-salir-de-casa-este-11-de-septiembre/",
+        "date": "2024-09-11 02:02:13",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "España está buscando médicos y enfermeros colombianos: los sueldos superan los $15 millones mensuales",
+        "image_url": "https://www.infobae.com/resizer/v2/VNLY63F2WJAVHNXJPI7FNSMFJU.jpg?auth=5e22ffcf62fb8dfc1d837c7b3645b44928f1e4dc5f3cf7c2ae3d8d99239937aa",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/09/11/espana-esta-buscando-medicos-y-enfermeros-colombianos-los-sueldos-superan-los-15-millones-mensuales/",
+        "date": "2024-09-11 01:51:17",
+        "sentiment_score": 0.0957731157541275
+    },
+    {
+        "title": "Clima en Madrid: temperatura y probabilidad de lluvia para este 11 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/K2ZGT2SXAZC7DN2YVJFZVD3WCQ.jpg?auth=ee01ec346b3264f5e56954d18f4612a03611f799381c77eb567fd7f31d8e3d64",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/11/clima-en-madrid-temperatura-y-probabilidad-de-lluvia-para-este-11-de-septiembre/",
+        "date": "2024-09-11 01:31:22",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este miércoles 11 de septiembre: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/MAASI6NUGFDBPKRFLXB2DA64YM.jpg?auth=c5d80b6819dc7f248eac0c95d895b4984ae58404d6ef6513c78960d2fbbff2eb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/11/pronostico-del-clima-en-barcelona-este-miercoles-11-de-septiembre-temperatura-lluvias-y-viento/",
+        "date": "2024-09-11 01:01:05",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Casi la mitad de los alumnos admite no hacer nada ante el acoso escolar a un compañero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/10/casi-la-mitad-de-los-alumnos-admite-no-hacer-nada-ante-el-acoso-escolar-a-un-companero/",
+        "date": "2024-09-10 23:17:24",
+        "sentiment_score": -0.7350414786487818
+    },
+    {
+        "title": "Nicolás Maduro dice que Venezuela es y será independiente de España y del \"mundo entero\"",
+        "image_url": "https://www.infobae.com/resizer/v2/Y42O4JW5FBD2ZC47Q756T63L4Y.jpg?auth=e75df41afbc96105bd62b2faf7369796deaa238bbb79046c5c3a06f3b052d0d6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/10/nicolas-maduro-dice-que-venezuela-es-y-sera-independiente-de-espana-y-del-mundo-entero/",
+        "date": "2024-09-10 22:46:48",
+        "sentiment_score": 0.010863766074180603
+    },
+    {
+        "title": "Javier Cámara habla en ‘El Hormiguero’ sobre la ELA, el tipo de esclerosis que padece su personaje en ‘Rapa’: “Hemos mirado a la enfermedad por un agujerito, la realidad es mucho más cruel”",
+        "image_url": "https://www.infobae.com/resizer/v2/YDHR6HDCOFFGTIGDJ72F3FLPNQ.png?auth=0161e69746bddb6beddd7d96c88868bd157e63f54aeeaaf1d1a4482f6d8c7ee2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/10/javier-camara-habla-en-el-hormiguero-sobre-la-ela-el-tipo-de-esclerosis-que-padece-su-personaje-en-rapa-hemos-mirado-a-la-enfermedad-por-un-agujerito-la-realidad-es-mucho-mas-cruel/",
+        "date": "2024-09-10 22:22:53",
+        "sentiment_score": 0.8370083356276155
+    },
+    {
+        "title": "Un jefe de Policía retirado explica qué falló en la detención a la fuerza de Tyreek Hill",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/109585-tyreek-hill-arrest-police-analysis-31-20240911021250042.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jefe-policia-detencion-tyreek-hill-trax/",
+        "date": "2024-09-11 02:15:59",
+        "sentiment_score": -0.6712870746850967
+    },
+    {
+        "title": "Trump dice que toma del Capitolio no hubiera pasado \"si Nancy Pelosi hubiera hecho su trabajo\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/idf-trax-00-02-00-05-still003.jpg?quality=100&strip=info",
+        "tags": [
+            "kamala harris",
+            "nancy pelosi",
+            "donald trump jr.",
+            "elecciones en estados unidos",
+            "elecciones ee.uu. 2024"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/debate-harris-trump-votantes-republicanos-votos-presidencia-dusa-tv/",
+        "date": "2024-09-11 02:13:23",
+        "sentiment_score": -0.7170237451791763
+    },
+    {
+        "title": "Kamala Harris promete que apoyaría el regreso de la ley de protección al aborto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/idf-trax-00-01-59-25-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "debate",
+            "kamala harris",
+            "xpress",
+            "noticias de donald trump",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/debate-primero-enfrentamiento-kamala-harris-dusa-tv/",
+        "date": "2024-09-11 02:03:29",
+        "sentiment_score": -0.329975888133049
+    },
+    {
+        "title": "¿Viola EE.UU. la soberanía de México al criticar reforma judicial?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2170579997.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "reforma judicial",
+            "protesta",
+            "méxico",
+            "xpress",
+            "senado"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/viola-eeuu-soberania-mexico-criticar-reforma-judicial-panorama-tv-fast/",
+        "date": "2024-09-11 01:52:25",
+        "sentiment_score": -0.5380592942237854
+    },
+    {
+        "title": "CNN verifica: Trump dice falsamente que criminalidad en Venezuela se redujo porque sus delincuentes llegaron a EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/trump-venezuela-e1714752594780.jpg?quality=100&strip=info",
+        "tags": [
+            "instanoticias",
+            "crimen",
+            "inmigrantes venezolanos",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/10/trump-crimen-venezuela-cifras-verificacion-orix/",
+        "date": "2024-09-11 01:40:36",
+        "sentiment_score": -0.7310689017176628
+    },
+    {
+        "title": "Maduro: Madrid es la posada del fascismo en Europa y el mundo desde la época de Franco",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2171215292.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-fascismo-espana-edmundo-gonzalez-perspectivas-mexico-tv/",
+        "date": "2024-09-11 01:25:06",
+        "sentiment_score": -0.31780679523944855
+    },
+    {
+        "title": "Biden respalda la afirmación de Israel de que la muerte de una activista estadounidense en la Ribera Occidental por parte de las Fuerzas de Defensa de Israel fue accidental",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/aysenur-20240906195126911.webp",
+        "tags": [
+            "ribera occidental",
+            "noticias de ee.uu.",
+            "israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/10/biden-muerte-activista-ribera-occidental-accidente-israel-trax/",
+        "date": "2024-09-11 01:04:18",
+        "sentiment_score": -0.8605525586754084
+    },
+    {
+        "title": "Mauricio Pochettino será el nuevo entrenador de la selección masculina de fútbol de Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2153700658-restricted.webp",
+        "tags": [
+            "mauricio pochettino",
+            "fútbol"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/10/mauricio-pochettino-entrenador-seleccion-futbol-estados-unidos-orix/",
+        "date": "2024-09-11 00:49:54",
+        "sentiment_score": 0.006584826856851578
+    },
+    {
+        "title": "Miles de personas se manifestaron en Corea del Sur para exigir acciones contra el cambio climático",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2169953840.jpg?quality=100&strip=info",
+        "tags": [
+            "corea del sur",
+            "cambio climático",
+            "manifestación"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/manifestantes-corea-del-sur-acciones-contra-el-cambio-climatico-orix/",
+        "date": "2024-09-11 00:48:48",
+        "sentiment_score": 0.0048498064279556274
+    },
+    {
+        "title": "Exsenador critica la reforma judicial y el rol de la oposición en el fortalecimiento del oficialismo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2170573277.jpg?quality=100&strip=info",
+        "tags": [
+            "reforma judicial",
+            "méxico",
+            "partido morena",
+            "xpress",
+            "fast – news variety",
+            "lópez obrador"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/exsenador-critica-reforma-judicial-rol-oposicion-fortalecimiento-oficialismo-perspectivas-mexico-tv/",
+        "date": "2024-09-11 00:30:48",
+        "sentiment_score": -0.23378438502550125
+    },
+    {
+        "title": "La declaración de dos nuevos testigos complica la situación del expresidente Alberto Fernández",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/10/alberto-RqZcRmh2HTFxEpLYWQ2oGrI-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/declaracion-dos-nuevos-testigos-complica-situacion-expresidente-20240910215327-nt.html",
+        "date": "2024-09-11 02:02:57",
+        "sentiment_score": -0.12790563702583313
+    },
+    {
+        "title": "El mensaje de Edmundo González ante las puertas del Congreso: «Compatriotas no desmayen, que no los defraudaré»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/11/carolina-RakQKI7s4UYmnaIlD2wYUNP-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/mensaje-edmundo-gonzalez-ante-puertas-congreso-compatriotas-20240911040231-nt.html",
+        "date": "2024-09-11 02:02:32",
+        "sentiment_score": 0.04995226860046387
+    },
+    {
+        "title": "Trump lleva la polémica incluso al cementerio militar de Arlington",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/10/arlington-RaBdapzLSqB45pqNnA6J3sJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-lleva-polemica-incluso-cementerio-militar-arlington-20240910191224-nt.html",
+        "date": "2024-09-11 02:02:08",
+        "sentiment_score": -0.1367211639881134
+    },
+    {
+        "title": "A la espera de las presidenciales en Norteamérica",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/10/zelenski-R0s1ezPZa147nCRrQxcQv7M-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/espera-presidenciales-norteamerica-20240910201935-nt.html",
+        "date": "2024-09-11 02:01:41",
+        "sentiment_score": -0.1339898258447647
+    },
+    {
+        "title": "Yolanda Díaz mete en la agenda del Gobierno la subida de impuestos a la sanidad y la educación privada",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/11/MonteroyDazJaimeGarca-R3fyt2PJZOoiy2Di9tdoZxL-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/yolanda-diaz-mete-agenda-gobierno-subida-impuestos-20240911193008-nt.html",
+        "date": "2024-09-11 02:01:17",
+        "sentiment_score": -0.0354476273059845
+    },
+    {
+        "title": "El 'think tank' de la CEOE prevé un aluvión de demandas injustificadas por la reforma de la Ley de acciones colectivas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/10/1201863348-RbHty2fBKetzDZi287EMdCJ-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/think-tank-ceoe-preve-aluvion-demandas-injustificadas-20240910190329-nt.html",
+        "date": "2024-09-11 02:01:06",
+        "sentiment_score": -0.155061274766922
+    },
+    {
+        "title": "El desembarco de Escrivá en el Banco de España: una reorganización interna que desplaza a 250 funcionarios",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/11/escriva-joseluis-RESNahYIUFRfGUXWH3mU2zO-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/desembarco-escriva-banco-espana-reorganizacion-interna-desplaza-20240911040056-nt.html",
+        "date": "2024-09-11 02:00:56",
+        "sentiment_score": -0.09348040819168091
+    },
+    {
+        "title": "Rayo Vallecano reaccionó a la presentación de James Rodríguez con la selección Colombia ante Argentina",
+        "image_url": "https://www.infobae.com/resizer/v2/BMLN7AZSA5AM5LGSVEYYNWEGWU.jpg?auth=9d017174c719dbdf856c9855d39a79dc409d6e505221d6b9a14a18924c501d2e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/11/rayo-vallecano-reacciono-a-la-presentacion-de-james-rodriguez-con-la-seleccion-colombia-ante-argentina/",
+        "date": "2024-09-11 01:19:57",
+        "sentiment_score": 0.830242071300745
+    },
+    {
+        "title": "El sutil dardo de De Paul a Colombia tras la derrota de Argentina y el gesto de Cuti Romero que se hizo viral",
+        "image_url": "./assets/ai_generated/v1_txt2img_9f491cbf129a42dba9e487b8c1abce29.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/11/el-sutil-dardo-de-de-paul-a-colombia-tras-la-derrota-de-argentina-y-el-gesto-de-cuti-romero-que-se-hizo-viral/",
+        "date": "2024-09-11 00:54:34",
+        "sentiment_score": 0.26733576133847237
+    },
+    {
+        "title": "Radiografía de los profesores españoles: plantillas envejecidas, pérdida de poder adquisitivo y 151 horas lectivas más al año",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/graficos/1725984374_990x0.jpg",
+        "tags": [
+            "pilar alegría",
+            "artículos olga r. sanmartín",
+            "educación",
+            "educación secundaria",
+            "educación infantil"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/09/11/66e088eafc6c83051f8b45ae.html",
+        "date": "2024-09-11 00:26:30",
+        "sentiment_score": -0.5429578628391027
+    },
+    {
+        "title": "Estos son los nuevos lugares preferidos de los carteristas en Madrid y las líneas de autobuses donde más actúan",
+        "image_url": "https://s1.elespanol.com/2024/09/10/madrid/sociedad/884922178_249076183_1706x960.jpg?contentId=ESPIMA20240910_0679",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20240911/nuevos-lugares-preferidos-carteristas-madrid-lineas-autobuses-actuan/884661636_0.html",
+        "date": "2024-09-11 00:17:24",
+        "sentiment_score": 0.6349331177771091
+    },
+    {
+        "title": "Sarac, la embajadora de Serbia, tras su ataque en pleno centro de Madrid: \"Fue una agresión antiserbia por razones étnicas\"",
+        "image_url": "https://s1.elespanol.com/2024/09/10/madrid/sociedad/884922371_249082106_1706x960.jpg?contentId=ESPIMA20240910_0872",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20240911/sarac-embajadora-serbia-ataque-pleno-centro-madrid-agresion-antiserbia-razones-etnicas/884911600_0.html",
+        "date": "2024-09-11 00:17:19",
+        "sentiment_score": -0.772525129839778
+    },
+    {
+        "title": "Luka Sucic, alternativa de lujo a Brais",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/09/10/97881468-kNsE--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/luka-sucic-alternativa-lujo-brais-20240911064210-nt.html",
+        "date": "2024-09-11 00:00:00",
+        "sentiment_score": 0.3446754664182663
+    },
+    {
+        "title": "Nico Williams, de proyecto a estrella",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ebfb269-45db-4e84-9c11-7acdf933d019_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/09/11/nico-williams-proyecto-estrella-107992953.html",
+        "date": "2024-09-10 23:28:58",
+        "sentiment_score": -0.040546298027038574
+    },
+    {
+        "title": "El PP araña los apoyos del Gobierno por su posición sobre Venezuela",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/07/17/2024071710484745817.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/pp-arana-apoyos-gobierno-posicion-venezuela/20240911011250317540.html",
+        "date": "2024-09-10 23:12:50",
+        "sentiment_score": 0.5754112228751183
+    },
+    {
+        "title": "Carmen Mola se despide para siempre de la inspectora Elena Blanco con 'El Clan': \"No va a haber precuelas ni secuelas\"",
+        "image_url": "https://www.elplural.com/uploads/s1/18/27/54/5/principal-1250x703-1_7_480x270.jpeg",
+        "tags": [
+            "libros"
+        ],
+        "link": "https://www.elplural.com/playtime/libros/carmen-mola-despide-inspectora-elena-blanco_336683102",
+        "date": "2024-09-10 23:02:00",
+        "sentiment_score": -0.17053572833538055
+    },
+    {
+        "title": "Vidal critica a Gareca por sacar a Brereton y considera un error haber cambiado a Berizzo",
+        "image_url": "./assets/ai_generated/v1_txt2img_5081f2c0f8d549c4a43e2b90330880c2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/11/vidal-critica-a-gareca-por-sacar-a-brereton-y-considera-un-error-haber-cambiado-a-berizzo/",
+        "date": "2024-09-11 02:00:50",
+        "sentiment_score": -0.9059420302510262
+    },
+    {
+        "title": "TMB refuerza el metro de Barcelona durante la Diada de Cataluña: habrá 22 trenes adicionales",
+        "image_url": "https://album.mediaset.es/eimg/2024/09/10/tmb-refuerza-el-metro-de-barcelona-durante-la-diada-de-cataluna-22-trenes-adicionales_42ee.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20240911/barcelona-refuerza-lineas-metro-diada-trenes-adicionales_18_013408821.html",
+        "date": "2024-09-11 02:00:38",
+        "sentiment_score": 0.32473959773778915
+    },
+    {
+        "title": "Madrid, Madrid, Madrid",
+        "image_url": "./assets/ai_generated/v1_txt2img_6e2ceaa0f0f249ca81c56105cf9a8b20.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/09/11/madrid-madrid-madrid-107986429.html",
+        "date": "2024-09-11 02:00:07",
+        "sentiment_score": -0.3468477725982666
+    },
+    {
+        "title": "Sánchez designa a una economista de su órbita para acompañar a Escrivá",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/10/66e07f6364410.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/240911/1614613/sanchez-designa-economista-orbita-acompanar-escriva.html",
+        "date": "2024-09-11 01:30:00",
+        "sentiment_score": -0.5750269517302513
+    },
+    {
+        "title": "El abono de otoño trae al Bergidum de Ponferrada a Héctor Alterio y María Galiana",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2024/09/10/66e08427032a1.r_d.464-267-0.jpeg",
+        "tags": [
+            "el bierzo"
+        ],
+        "link": "https://www.diariodeleon.es/bierzo/240911/1614643/abono-otono-trae-bergidum-hector-alterio-maria-galiana.html",
+        "date": "2024-09-11 01:25:00",
+        "sentiment_score": 0.13070802576839924
+    },
+    {
+        "title": "Obras de Botero incrementan su valor en un 20% después de un año de su muerte",
+        "image_url": "https://www.infobae.com/resizer/v2/5NKIWURYYBFQZF2WJMSPWTRTTA.jpg?auth=d67cdb8db30264d4869a17428b12a5726fa2cbab526e18ca6a527dd8ae965151",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/09/11/obras-de-botero-incrementan-su-valor-en-un-20-despues-de-un-ano-de-su-muerte/",
+        "date": "2024-09-11 01:08:55",
+        "sentiment_score": 0.5761104822158813
+    },
+    {
+        "title": "En Tronconal V permanecen con algunas calles anegadas tras la lluvia del lunes",
+        "image_url": "https://i0.wp.com/eltiempove.com/wp-content/uploads/2024/09/tron2.jpg?resize=900%2C592&ssl=1",
+        "tags": [
+            "vialidad",
+            "comunidad",
+            "clima",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/en-tronconal-v-permanecen-con-algunas-calles-anegadas-tras-la-lluvia-del-lunes/",
+        "date": "2024-09-11 00:50:47",
+        "sentiment_score": -0.8023921437561512
+    },
+    {
+        "title": "Una Diada \"de trámite\" y a la defensiva: Junts y ERC evitan convocatorias por los \"tiempos difíciles\"",
+        "image_url": "https://s1.elespanol.com/2024/09/10/espana/politica/884922405_249083117_1706x960.jpg?contentId=ESPIMA20240910_0906",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240911/diada-tramite-defensiva-junts-erc-evitan-convocatorias-tiempos-dificiles/884912022_0.html",
+        "date": "2024-09-11 00:45:52",
+        "sentiment_score": -0.88837471883744
     }
 ];
