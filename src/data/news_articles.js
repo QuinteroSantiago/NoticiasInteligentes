@@ -134,27 +134,6 @@ export default [
         "sentiment_score": -0.44780293107032776
     },
     {
-        "title": "Máximo diplomático de la Unión Europea califica de \"día triste para la democracia\" la salida de Edmundo González de Venezuela hacia España",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/01/josep-borrell-ue_c473a4-e1705774861336.jpg?quality=100&strip=info",
-        "tags": [
-            "edmundo gonzález",
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/08/union-europea-dia-triste-democracia-edmundo-gonzalez-venezuela-orix/",
-        "date": "2024-09-08 12:31:07",
-        "sentiment_score": -0.8866115305572748
-    },
-    {
-        "title": "Interrupciones masivas en trenes dejan a cientos de personas varadas en Alemania",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Alemania.webp",
-        "tags": [
-            "alemania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/08/interrupciones-masivas-en-trenes-dejan-a-cientos-de-personas-varadas-en-alemania/",
-        "date": "2024-09-08 10:29:04",
-        "sentiment_score": -0.7416130714118481
-    },
-    {
         "title": "La salida de Edmundo González: Un exilio esperado por los venezolanos",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/08/edmundo-RFW9qqldLrV9SN3E0tONmAM-758x531@diario_abc.JPG",
         "tags": [
@@ -173,16 +152,6 @@ export default [
         "link": "https://www.abc.es/economia/john-muller-rubio-posverdad-20240908172124-nt.html",
         "date": "2024-09-08 16:54:41",
         "sentiment_score": -0.09623932838439941
-    },
-    {
-        "title": "No queremos ser héroes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/08/edmundo_20240908124102-Rc5TfdITrSylNqPsueV6e7O-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rodrigo-blanco-calderon-queremos-heroes-20240908124530-nt.html",
-        "date": "2024-09-08 10:47:04",
-        "sentiment_score": -0.07526245713233948
     },
     {
         "title": "Una cadena humana contra el cierre del parque del Infantado de Manzanares el Real",
@@ -245,39 +214,6 @@ export default [
         "link": "https://elpais.com/espana/2024-09-08/el-pp-plasma-en-una-carta-a-la-vicepresidenta-montero-su-primera-exigencia-sobre-financiacion.html",
         "date": "2024-09-08 15:29:32",
         "sentiment_score": -0.04740533232688904
-    },
-    {
-        "title": "La Abadía de Montserrat inicia los actos de celebración de su milenario",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CG7NC5LVJZA2NGU72KD3ALASY4.jpg?auth=7f5e6b219e71a68f2e99ab5b72885da0f3adef9fa8f5577e99cbfeedc6d09526",
-        "tags": [
-            "iglesia católica española",
-            "monasterios",
-            "cataluña",
-            "monistrol de montserrat",
-            "monasterio de montserrat",
-            "iglesia católica",
-            "abadía",
-            "religión"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-08/la-abadia-de-montserrat-inicia-los-actos-de-celebracion-de-su-milenario.html",
-        "date": "2024-09-08 13:51:46",
-        "sentiment_score": 0.24245743826031685
-    },
-    {
-        "title": "Los expertos en murciélagos instan a defender por nuestro propio bien a los reyes de la noche",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JGZOJJSDLRBF3GYYF3TY7CGVE4.jpg?auth=90861f1666d9245e7910720621979e8600be55e37e386949426b2b4a92a2e38b",
-        "tags": [
-            "ciencia",
-            "mamíferos",
-            "vuelo",
-            "animales",
-            "congresos",
-            "tarragona",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-08/los-expertos-en-murcielagos-instan-a-defender-por-nuestro-propio-bien-a-los-reyes-de-la-noche.html",
-        "date": "2024-09-08 13:27:58",
-        "sentiment_score": 0.6314625889062881
     },
     {
         "title": "Puerto Rico buscará en su tierra su primer triunfo ante Aruba en Liga de Naciones",
@@ -7852,5 +7788,466 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20240912/los-restaurantes-barceloneses-labarra-presentan-quiebra/885161535_0.html",
         "date": "2024-09-11 22:00:00",
         "sentiment_score": -0.6894978042691946
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 12 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/F7IADZVGDBFBHGH2LMLDEP663I.jpg?auth=7d07b72a10e8219eb3b824898c277b191b9254b001b248818f37b0304f02c747",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/12/clima-hoy-en-espana-temperaturas-para-malaga-este-12-de-septiembre/",
+        "date": "2024-09-12 02:02:39",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Brasil pide el apoyo de España para que la UE suspenda su ley antideforestación",
+        "image_url": "./assets/ai_generated/v1_txt2img_5a658bc7b2e54484811ebb4183dbaa9c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/12/brasil-pide-el-apoyo-de-espana-para-que-la-ue-suspenda-su-ley-antideforestacion/",
+        "date": "2024-09-12 01:45:40",
+        "sentiment_score": -0.6187744215130806
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 12 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/EQX3T76UV5DGFN2QRVPBU7QPL4.jpg?auth=517610c7c5528dda1c16b728cdead7725cd3a2728e1b4d6c047c02a2843806af",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/12/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-12-de-septiembre/",
+        "date": "2024-09-12 01:32:28",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Las mejores películas de Disney+ España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/C5L6UYFQAFEWVFJ3YJ6OXUBEYQ.jpg?auth=febb8368f0190a4c1783a3e6f0b34b7576cc17c28e8a04bdb44b578620c4ee96",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/12/las-mejores-peliculas-de-disney-espana-para-ver-en-cualquier-momento/",
+        "date": "2024-09-12 01:32:08",
+        "sentiment_score": 0.5393944084644318
+    },
+    {
+        "title": "¿Qué ver en Prime Video? Estas son las películas top en España",
+        "image_url": "https://www.infobae.com/resizer/v2/LZNL4E7KNFG2TE3STDJYAFCW5Y.jpg?auth=610fbb3150b775a1860eb02d825a0d06e78269882ca2509164459a915cc351b7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/12/que-ver-en-prime-video-estas-son-las-peliculas-top-en-espana/",
+        "date": "2024-09-12 01:31:28",
+        "sentiment_score": 0.520373560488224
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/OZIFBDB66VHNPNM7LH2FG4HTD4.jpg?auth=4ed205c94cbfd137a7033f87df94926a0d9c641f159b3f25b317cae6161ef6f7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/12/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-barcelona/",
+        "date": "2024-09-12 01:01:06",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Bermúdez dice que el triunfo de España es merecido y que la dejó sin voz",
+        "image_url": "./assets/ai_generated/v1_txt2img_32bb5362948246ba960112e7b02743df.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/12/bermudez-dice-que-el-triunfo-de-espana-es-merecido-y-que-la-dejo-sin-voz/",
+        "date": "2024-09-12 00:45:58",
+        "sentiment_score": 0.16478988528251648
+    },
+    {
+        "title": "Valeria Ros, la nueva colaboradora de ‘La Revuelta’ que se estrena con un desafortunado comentario a la cantante de Megara",
+        "image_url": "https://www.infobae.com/resizer/v2/WNCH4O3INNG4FLPNXNU65D3V24.jpg?auth=6830ec19ecf9f75cfff1d4419f3c12e3554a1354cd50359eb698d9758c013fd3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/11/valeria-ros-la-nueva-colaboradora-de-la-revuelta-que-se-estrena-con-un-desafortunado-comentario-a-la-cantante-de-megara/",
+        "date": "2024-09-11 22:44:04",
+        "sentiment_score": -0.722908042371273
+    },
+    {
+        "title": "VÍDEO: Presidente de la ANV pide a diputados venezolanos que aprueben una resolución para cortar relaciones con España",
+        "image_url": "https://www.infobae.com/resizer/v2/YUBIGNU4ANF5FDWESF6JNOSQ4Y.jpg?auth=747fcddbc5d539459abda2ef2fac7c780644a0fbf6b555c8bfa895c95c0466ea",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/11/video-presidente-de-la-anv-pide-a-diputados-venezolanos-que-aprueben-una-resolucion-para-cortar-relaciones-con-espana/",
+        "date": "2024-09-11 22:32:17",
+        "sentiment_score": -0.07269023358821869
+    },
+    {
+        "title": "Consumidores europeos denuncian a empresas de videojuegos por prácticas desleales",
+        "image_url": "./assets/ai_generated/v1_txt2img_41072c9d4d0c49e0abee00fcd5820d35.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/11/consumidores-europeos-denuncian-a-empresas-de-videojuegos-por-practicas-desleales/",
+        "date": "2024-09-11 22:20:29",
+        "sentiment_score": -0.863764051347971
+    },
+    {
+        "title": "Telescopio ALMA capta burbujas gigantes en la superficie de una estrella",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/bolas-de-gas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/telescopio-alma-captura-burbujas-superfice-estrella-cercana-mostrar-destino-nuestro-sol/",
+        "date": "2024-09-12 01:47:39",
+        "sentiment_score": -0.011836081743240356
+    },
+    {
+        "title": "Milei gana la disputa política y mantiene el veto al aumento a jubilados",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/gettyimages-2156653702.jpg?quality=100&strip=info",
+        "tags": [
+            "jubilaciones",
+            "argentina",
+            "instanoticias",
+            "javier milei"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/11/milei-gana-mantiene-veto-aumento-jubilados-orix/",
+        "date": "2024-09-12 00:42:52",
+        "sentiment_score": 0.15764866769313812
+    },
+    {
+        "title": "Los Fujimori en Perú: la influencia de una familia marcada por la política",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/GettyImages-57666508.jpg?quality=100&strip=info",
+        "tags": [
+            "alberto fujimori",
+            "keiko fujimori",
+            "instanoticias",
+            "perú"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/11/fujimori-peru-influencia-familia-orix/",
+        "date": "2024-09-12 00:38:40",
+        "sentiment_score": 0.08182729035615921
+    },
+    {
+        "title": "Última hora de la muerte de Alberto Fujimori, en vivo: noticias, reacciones y más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-578054022-e1726100129764.jpg?quality=100&strip=info",
+        "tags": [
+            "alberto fujimori",
+            "minuto a minuto"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/11/ultima-hora-muerte-alberto-fujimori-vivo-reacciones-orix/",
+        "date": "2024-09-12 00:33:37",
+        "sentiment_score": -0.5429904609918594
+    },
+    {
+        "title": "Muere Alberto Fujimori: así fue su vida, mandato y polémicas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-661497.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "alberto fujimori",
+            "crisis en perú",
+            "zona andina",
+            "perú"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/vida-biografia-alberto-fujimori-peru-historia-panorama-mundial-tv/",
+        "date": "2024-09-12 00:30:50",
+        "sentiment_score": -0.5176579803228378
+    },
+    {
+        "title": "Burbujas gigantes en la superficie de una estrella cercana anticipan el futuro del Sol",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/eso2412a.webp",
+        "tags": [
+            "nasa",
+            "estrella",
+            "ciencia y espacio",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/11/burbujas-superficie-estrella-futuro-sol-trax/",
+        "date": "2024-09-12 00:25:42",
+        "sentiment_score": 0.13879995048046112
+    },
+    {
+        "title": "Tejido mamario denso: qué significa y por qué es importante saber si lo tiene",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1229101355.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de salud",
+            "xpress",
+            "fast – news variety",
+            "cáncer de mama",
+            "prevención del cáncer",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tejido-mamario-denso-que-significa-minuto-de-salud-fast/",
+        "date": "2024-09-12 00:22:18",
+        "sentiment_score": -0.4666939303278923
+    },
+    {
+        "title": "\"Trump pierde la oportunidad de impulsar su campaña con latinos\", opina experta tras el debate presidencial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171264786.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos",
+            "voto latino",
+            "debate presidencial estados unidos",
+            "xpress",
+            "fast – news variety",
+            "kamala harris",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-pierde-oportunidad-impulsar-campana-latinos-opina-experta-debate-perspectivas-mexico-tv/",
+        "date": "2024-09-12 00:19:18",
+        "sentiment_score": -0.6643624752759933
+    },
+    {
+        "title": "Fallece el ex presidente de Perú Alberto Fujimori, informó su hija",
+        "image_url": "./assets/ai_generated/v1_txt2img_5914c7032b864318a306ded876086b4e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muere-alberto-fujimori-ex-presidente-peru-panorama-tv/",
+        "date": "2024-09-12 00:06:46",
+        "sentiment_score": -0.8116125902161002
+    },
+    {
+        "title": "El presidente de la Asamblea de Venezuela pide al Gobierno romper relaciones con España",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/asamblea-venezuela-espana.jpg?quality=100&strip=info",
+        "tags": [
+            "españa",
+            "venezuela",
+            "edmundo gonzález",
+            "elecciones venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/11/presidente-asamblea-venezuela-pide-gobierno-romper-relaciones-espana-orix/",
+        "date": "2024-09-12 00:05:55",
+        "sentiment_score": -0.43826550245285034
+    },
+    {
+        "title": "La prensa de Venezuela recurre a la IA para quitarse la mordaza de Maduro",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/09/12/operacionretuit_venzuela-R8pEyjCMauafTfZL78dK9TK-758x531@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/prensa-venezuela-recurre-ia-quitarse-mordaza-maduro-20240912040504-nt.html",
+        "date": "2024-09-12 02:05:04",
+        "sentiment_score": -0.13623644411563873
+    },
+    {
+        "title": "Jaque a las monedas virtuales en los videojuegos: denuncian a la UE su venta como «práctica engañosa» para los menores",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/09/11/minecraft-nina-R07JYdi3Yr0O13x9DLO82EL-758x531@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/videojuegos/jaque-monedas-virtuales-videojuegos-paises-denuncian-venta-20240911172556-nt.html",
+        "date": "2024-09-12 02:04:54",
+        "sentiment_score": -0.16153305768966675
+    },
+    {
+        "title": "Trabajadores y empresas pagan 6.660 millones más en cotizaciones a la Seguridad Social",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/12/EuropaPress_6155564_ministra_inclusion_seguridad_social_migraciones_elma_saiz_acto_entrega-RieQfGROlkDOvMzEfcj7rNK-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/trabajadores-empresas-pagan-6660-millones-cotizaciones-seguridad-20240912202022-nt.html",
+        "date": "2024-09-12 02:02:37",
+        "sentiment_score": -0.039158791303634644
+    },
+    {
+        "title": "El 'leasing' gana terreno en España, crece un 6% y ya es un mercado de 5.200 millones de euros",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/11/1442224310-RgIe2PIOFm8Y4O6bgSCkxoM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/leasing-gana-terreno-espana-crece-mercado-5200-20240911163437-nt.html",
+        "date": "2024-09-12 02:02:18",
+        "sentiment_score": -0.08174121379852295
+    },
+    {
+        "title": "Los plazos de la CNMC amenazan con retrasar la opa de BBVA al Sabadell hasta verano de 2025",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/12/bbva-sede-RZsU2ap414vbDghZIgX6oDN-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/plazos-cnmc-amenazan-retrasar-opa-bbva-sabadell-20240912190218-nt.html",
+        "date": "2024-09-12 02:01:50",
+        "sentiment_score": -0.10697951912879944
+    },
+    {
+        "title": "El bono social eléctrico solo llega al 24% de los potenciales beneficiarios",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/12/bonosocial-RYhp8UkELLBZhStiQwRW54H-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/bono-social-electrico-solo-llega-potenciales-beneficiarios-20240912145432-nt.html",
+        "date": "2024-09-12 02:01:41",
+        "sentiment_score": -0.15218782424926758
+    },
+    {
+        "title": "Adrián Barbón inaugura el curso escolar en Soto del Barco: \"La educación es el mejor ascensor social\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba3289d2-fe5a-49ae-8b58-84279b7aea21_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/aviles/2024/09/12/adrian-barbon-inaugura-curso-escolar-108032057.html",
+        "date": "2024-09-12 02:10:00",
+        "sentiment_score": 0.05687496066093445
+    },
+    {
+        "title": "70 años del ‘Mangriñeo’ a Alfredo di Stéfano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/65a43d1b-0bec-4444-b95d-c334e3d221ff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/12/70-anos-mangrineo-alfredo-di-108034009.html",
+        "date": "2024-09-12 02:00:43",
+        "sentiment_score": 0.42420177161693573
+    },
+    {
+        "title": "«León tiene mucha vida escenificable»",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/11/66e1e650e3f7a.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240912/1616152/leon-vida-escenificable.html",
+        "date": "2024-09-12 01:30:00",
+        "sentiment_score": 0.16382074728608131
+    },
+    {
+        "title": "Pochettino se embarca en una 'aventura' americana tras turbulencia con PSG y Chelsea",
+        "image_url": "./assets/ai_generated/v1_txt2img_d8dc382c83ae4e6ea5e9e7b18cd3a555.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-09-11/pochettino-se-embarca-en-una-aventura-americana-tras-turbulencia-con-psg-y-chelsea",
+        "date": "2024-09-12 01:16:23",
+        "sentiment_score": -0.6065604463219643
+    },
+    {
+        "title": "Sorpresas y retrocesos: Así fue la fecha de Eliminatorias Sudamericanas",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/09/9694e913683563b0f48d0adeaa807047f137d9bfw-e1726063207906.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "eliminatorias conmebol"
+        ],
+        "link": "https://eldiariony.com/2024/09/11/sorpresas-y-retrocesos-asi-fue-la-fecha-de-eliminatorias-sudamericanas/",
+        "date": "2024-09-12 00:37:19",
+        "sentiment_score": 0.7645318731665611
+    },
+    {
+        "title": "Arde Brasil por su mal momento en las Eliminatorias: de la polémica excusa de Vinicius a una propuesta radical",
+        "image_url": "https://www.infobae.com/resizer/v2/LZEWZGJ6EZDIJLXXEWUYUT43Z4.jpg?auth=181c9fc7e2dd23cf4ff09f84e8982d5d5a90c9edde19f8f76a828deec5c685f4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/12/arde-brasil-por-su-mal-momento-en-las-eliminatorias-de-la-polemica-excusa-de-vinicius-a-una-propuesta-radical/",
+        "date": "2024-09-12 00:22:08",
+        "sentiment_score": -0.24856863915920258
+    },
+    {
+        "title": "Ayuso declara BIC el arte que tuvo a Madrid como epicentro: desde Calderon y Lope de Vega hasta El Muelle y Suso 33",
+        "image_url": "https://s1.elespanol.com/2024/05/21/madrid/comunidad/856925368_242664095_1706x960.jpg?contentId=ESPIMA20240521_1069",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20240912/ayuso-declara-bic-arte-madrid-epicentro-calderon-lope-vega-muelle-suso/885162013_0.html",
+        "date": "2024-09-12 00:21:04",
+        "sentiment_score": 0.3878844026476145
+    },
+    {
+        "title": "Militao se entrena y Ancelotti sigue teniendo las ausencias de Bellingham y Tchouameni",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/09/12/Militao%20se%20entrena%20en%20Valdebebas--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/militao-entrena-ancelotti-sigue-ausencias-bellingham-tchouameni-20240912102426-nt.html",
+        "date": "2024-09-12 00:00:00",
+        "sentiment_score": -0.7894721515476704
+    },
+    {
+        "title": "Un buen espejo en el que mirarse",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/09/12/1485584132-U200265830600k5H--758x531@Diario%20Vasco-DiarioVasco.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/miguel-gonzalez-buen-espejo-mirarse-20240912063144-nt.html",
+        "date": "2024-09-12 00:00:00",
+        "sentiment_score": -0.7899331264197826
+    },
+    {
+        "title": "Los éxitos y fracasos de la vida moderna a todo color de Jordi Cárdenas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/2995607.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2024/09/12/2239663/exitos-fracasos-vida-moderna-todo-color-jordi-cardenas.html",
+        "date": "2024-09-12 02:00:01",
+        "sentiment_score": -0.045462191104888916
+    },
+    {
+        "title": "El cine de los conspiradores de Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/11/66e18fe2478b9.r_d.203-138-1.png",
+        "tags": [
+            "red de lectores"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/red-lectores/20240912/9932344/cine-conspiradores-barcelona.html",
+        "date": "2024-09-12 02:00:00",
+        "sentiment_score": -0.4443145766854286
+    },
+    {
+        "title": "El Congreso reconoce a Edmundo González",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/11/66e1b079103f0.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/240912/1616037/congreso-reconoce-edmundo-gonzalez.html",
+        "date": "2024-09-12 01:30:00",
+        "sentiment_score": 0.6480418480932713
+    },
+    {
+        "title": "Gema, la escritora que se gana la vida creando gremlins y vendiéndolos por 400€ en Estados Unidos",
+        "image_url": "https://s1.elespanol.com/2024/09/11/reportajes/885172236_249107802_1706x960.jpg?contentId=ESPIMA20240911_0762",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240912/gema-escritora-gana-vida-creando-gremlins-vendiendolos-unidos/885161900_0.html",
+        "date": "2024-09-12 00:30:28",
+        "sentiment_score": -0.4361811429262161
+    },
+    {
+        "title": "La ecuación imposible de Sánchez: hundir al separatismo sin que el separatismo le hunda a él",
+        "image_url": "https://s1.elespanol.com/2024/09/11/opinion/editoriales/885172506_249116299_1024x576.jpg?contentId=ESPIMA20240911_1032",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20240912/ecuacion-imposible-sanchez-hundir-separatismo-sin-hunda/885301463_14.html",
+        "date": "2024-09-12 00:24:11",
+        "sentiment_score": -0.9402513457462192
+    },
+    {
+        "title": "Esta habría sido la razón por la que Luis Díaz no llegó al Barcelona: fue más allá del dinero",
+        "image_url": "https://www.infobae.com/resizer/v2/JM7XZFLDNNAZNCLD6QAYEEFBWY.jpg?auth=acafcdc898ea0a385fa999f8a9fe705da3609c1720a7ee8ba1d70f3ee59fcdcc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/12/esta-habria-sido-la-razon-por-la-que-luis-diaz-no-llego-al-barcelona-fue-mas-alla-del-dinero/",
+        "date": "2024-09-12 00:09:10",
+        "sentiment_score": 0.5571908466517925
+    },
+    {
+        "title": "Siguen labores de embellecimiento en el sector La Chica de Barcelona tras reubicación de informales",
+        "image_url": "./assets/ai_generated/v1_txt2img_62cf9ec39d614911a5275c7b83d3ba29.png",
+        "tags": [
+            "economía",
+            "locales",
+            "gobierno"
+        ],
+        "link": "https://eltiempove.com/siguen-labores-de-embellecimiento-en-el-sector-la-chica-de-barcelona-tras-reubicacion-de-informales/",
+        "date": "2024-09-11 23:51:30",
+        "sentiment_score": 0.22753100097179413
+    },
+    {
+        "title": "Aviso amarillo por rachas de viento de 70 kilómetros en la mitad sur Gran Canaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/541add84-ea86-477d-a190-ef2f96ebf393_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/gran-canaria/2024/09/12/aviso-amarillo-rachas-viento-70-108036264.html",
+        "date": "2024-09-11 23:49:08",
+        "sentiment_score": -0.5292741805315018
     }
 ];
