@@ -463,30 +463,6 @@ export default [
         "sentiment_score": -0.6444333046674728
     },
     {
-        "title": "El Congreso pide que el Gobierno reconozca la victoria de Edmundo González en Venezuela",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2SW3HOIBSIXPFQHBXBGASBAFHI.jpg?auth=773bd8fab7562a67cfa9d6c98353ffa0b6010f7496ef3f1cbefabb9a9cedb1cc",
-        "tags": [
-            "juntsxcat",
-            "congreso diputados",
-            "venezuela",
-            "partidos políticos",
-            "eaj-pnv",
-            "edmundo gonzález",
-            "bildu",
-            "gobierno",
-            "erc",
-            "psoe",
-            "españa",
-            "asilo político",
-            "partidos extraparlamentarios",
-            "partidos conservadores",
-            "grupos parlamentarios"
-        ],
-        "link": "https://elpais.com/espana/2024-09-11/el-congreso-pide-que-el-gobierno-reconozca-la-victoria-de-edmundo-gonzalez-en-venezuela.html",
-        "date": "2024-09-11 13:26:10",
-        "sentiment_score": -0.8210576847195625
-    },
-    {
         "title": "La directora argentina Carla Calabrese estrena su adaptación del musical “Come from away”",
         "image_url": "https://www.infobae.com/resizer/v2/FX27MRYKZ5HGRN7GN7PAAQTAJM.jpg?auth=27a7d0737a04a0b11313870399326e7d66b9b80242fe01244cfa6f44a560288b",
         "tags": [
@@ -7676,5 +7652,454 @@ export default [
         "link": "https://www.telecinco.es/noticias/catalunya/20240914/venta-castillo-bien-cultural-interes-nacional-millon-euros-lleida_18_013403989.html",
         "date": "2024-09-14 22:01:12",
         "sentiment_score": -0.02194438874721527
+    },
+    {
+        "title": "España: el pronóstico del tiempo para Málaga este 15 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/7Q5HYYW74NFUZFZPO5GC2RELGI.jpg?auth=eaf3c44a70a360e483ecbdeabddb4163955aa4e96286532263ab1d486297102d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/15/espana-el-pronostico-del-tiempo-para-malaga-este-15-de-septiembre/",
+        "date": "2024-09-15 02:01:24",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Caracas dice que España \"iba a suministrar mercenarios\" para operación contra Venezuela",
+        "image_url": "https://www.infobae.com/resizer/v2/OFDXXUW6XVDRRKTREVY3U3BELI.jpg?auth=e4ed71e444fc5e1b9cfdb2034fcb9a0eab120ab22e36530de96c09618af1998a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/15/caracas-dice-que-espana-iba-a-suministrar-mercenarios-para-operacion-contra-venezuela/",
+        "date": "2024-09-15 02:00:54",
+        "sentiment_score": -0.5209736078977585
+    },
+    {
+        "title": "Yolanda Díaz afirma en una entrevista a El País que Gobernar es transformar",
+        "image_url": "./assets/ai_generated/v1_txt2img_5f097c760c1c4ab0b10d31a788b752c4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/yolanda-diaz-afirma-en-una-entrevista-a-el-pais-que-gobernar-es-transformar/",
+        "date": "2024-09-15 01:45:57",
+        "sentiment_score": 0.0860508531332016
+    },
+    {
+        "title": "Lista de los 10 videos más populares este sábado en YouTube España",
+        "image_url": "https://www.infobae.com/resizer/v2/ZFXZQSWOQBGGJHRHWLGPQBI7VY.jpg?auth=32271f99593f3c2b773ce5d3c28bf56ea0cc01c8dc49cf15f80f9c111c5fce1a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/15/lista-de-los-10-videos-mas-populares-este-sabado-en-youtube-espana/",
+        "date": "2024-09-15 01:01:25",
+        "sentiment_score": -0.76935909781605
+    },
+    {
+        "title": "Hoy será noticia. Domingo, 15 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_648d9ad7c87144d6a5e806957b271424.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/14/hoy-sera-noticia-domingo-15-de-septiembre-de-2024/",
+        "date": "2024-09-14 22:17:06",
+        "sentiment_score": 0.022270172834396362
+    },
+    {
+        "title": "Realizan funeral para activista turcoestadounidense a quien el Ejército israelí disparó en Ribera Occidental",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/turquia.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "ayşenur ezgi eygi"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/14/funeral-activista-estadounidense-turca-disparos-ejercito-israeli-ribera-occidental-trax/",
+        "date": "2024-09-15 01:48:32",
+        "sentiment_score": -0.7915635593235493
+    },
+    {
+        "title": "Trump afirma que Springfield, Ohio, fue \"tomada\" por inmigrantes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/trump-springfield.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de donald trump",
+            "noticias de ee.uu.",
+            "inmigrantes",
+            "springfield"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/14/trump-afirma-springfield-tomada-inmigrantes-trax/",
+        "date": "2024-09-15 01:35:43",
+        "sentiment_score": -0.40035152435302734
+    },
+    {
+        "title": "Al menos 64 muertos en un accidente de barco que transportaba granjeros en Nigeria, según autoridades locales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2167172869-1-e1726363880641.jpg?quality=100&strip=info",
+        "tags": [
+            "barco",
+            "nigeria",
+            "áfrica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/14/al-menos-64-muertos-accidente-barco-en-nigeria-granjeros-reux/",
+        "date": "2024-09-15 01:32:43",
+        "sentiment_score": -0.6974814441055059
+    },
+    {
+        "title": "Acompaña a Destinos a recorrer la naturaleza salvaje de Cabo Polonio, en Uruguay",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-594143-un-destino-entre-dunas-acantilados-y-lobos-marinos-esto-es-cabo-polonio.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "viajes y turismo",
+            "uruguay",
+            "xpress",
+            "fast – reserve"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/destinos-uruguay-cabo-polonio-fast/",
+        "date": "2024-09-15 01:23:09",
+        "sentiment_score": 0.19785331189632416
+    },
+    {
+        "title": "Las posibilidades que traen los vuelos espaciales comerciales",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171123664.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "space x",
+            "ciencia",
+            "polaris dawn"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/polaris-vuelos-comerciales-futuro-mirador-mundial-tv/",
+        "date": "2024-09-15 01:20:56",
+        "sentiment_score": 0.6475863829255104
+    },
+    {
+        "title": "\"La vergüenza debe cambiar de lado\": cientos de personas se manifiestan en Francia en apoyo a Gisèle Pélicot y las víctimas de violación",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gisele-violacion-francia-e1726362292742.webp",
+        "tags": [
+            "francia",
+            "violación",
+            "gisèle pélicot"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/14/cientos-reunen-francia-apoyo-gisele-pelicot-y-todas-victimas-violacion-reux/",
+        "date": "2024-09-15 01:06:35",
+        "sentiment_score": -0.8750831615179777
+    },
+    {
+        "title": "Los debates no ganan elecciones, dice especialista sobre Trump y Harris",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170588081.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "kamala harris",
+            "noticias de ee.uu.",
+            "debate presidencial estados unidos",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/debate-eeuu-harris-trump-cambio-campana-mirador-mundial-tv/",
+        "date": "2024-09-15 00:46:02",
+        "sentiment_score": -0.12419336289167404
+    },
+    {
+        "title": "Entierran al expresidente de Perú Alberto Fujimori mientras el país lidia con su controvertido legado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/funeral-fujimori.jpg?quality=100&strip=info",
+        "tags": [
+            "perú",
+            "alberto fujimori"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/14/entierran-alberto-fujimori-expresidente-peru-reux/",
+        "date": "2024-09-15 00:42:51",
+        "sentiment_score": -0.47544077783823013
+    },
+    {
+        "title": "Colt Gray, tirador de la secundaria Apalachee, será juzgado como adulto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1749336-colt-gray-tirador-de-georgia-podria-enfrentar-cargos-adicionales.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "tiroteo ee.uu.",
+            "fast – news variety",
+            "tiroteo",
+            "apalachee",
+            "ee.uu.",
+            "xpress",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colt-gray-tirador-escuela-apalachee-mirador-mundial-tv/",
+        "date": "2024-09-15 00:19:46",
+        "sentiment_score": -0.6662489324808121
+    },
+    {
+        "title": "Miles de personas marchan en Tegucigalpa para respaldar a Xiomara Castro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171144937.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "marcha",
+            "xiomara castro",
+            "centroamérica",
+            "xpress",
+            "honduras",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marcha-tegucigalpa-xiomara-castro-mirador-mundial-tv/",
+        "date": "2024-09-15 00:12:29",
+        "sentiment_score": 0.03772240877151489
+    },
+    {
+        "title": "Jueces y trabajadores judiciales protestas contra la reforma de López Obrador: «Esto interesa a los políticos y al crimen organizado»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/15/reforma-judicial-RUXugujbg3dDY82B4LZGARN-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/jueces-trabajadores-judiciales-protestas-reforma-lopez-obrador-20240915194430-nt.html",
+        "date": "2024-09-15 02:05:28",
+        "sentiment_score": -0.06137162446975708
+    },
+    {
+        "title": "Las cuatro guerras de Taras 'El Español', el soldado ucraniano que abandonó el bienestar para luchar por su país",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/14/taras-el-espannol-Rvaq32BootaGQMTJE8exdCN-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/cuatro-guerras-taras-espanol-soldado-ucraniano-abandono-20240914164703-nt.html",
+        "date": "2024-09-15 02:05:19",
+        "sentiment_score": -0.07994526624679565
+    },
+    {
+        "title": "Crisis carcelaria en el Reino Unido: no hay sitio para más condenados",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/14/presos-liberados-RhIhVqO0ikQ0JpSNA4MK6HN-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/crisis-carcelaria-reino-unido-sitio-condenados-20240914170513-nt.html",
+        "date": "2024-09-15 02:04:53",
+        "sentiment_score": -0.18524575233459473
+    },
+    {
+        "title": "Harris perdió al 90% de su equipo en una vicepresidencia llena de problemas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/15/equipo-kamala-RBdxBe2qeOwkjS8mXt5k4eJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/harris-perdio-equipo-vicepresidencia-llena-problemas-20240915040431-nt.html",
+        "date": "2024-09-15 02:04:32",
+        "sentiment_score": -0.14313386380672455
+    },
+    {
+        "title": "Cómo los Obama pilotaron la 'Operación Kamala' para echar a Biden",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/15/obama-biden-kamala-RkOkg2s72U5NJXLoOpx6fwI-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/obama-pilotaron-operacion-kamala-echar-biden-20240915124330-nt.html",
+        "date": "2024-09-15 02:04:21",
+        "sentiment_score": -0.04563388228416443
+    },
+    {
+        "title": "Un eficaz paso adelante en el reto del almacenamiento estable del hidrógeno",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/15/Imagenimage.imageformat.carousel.940179852-Rvr25zqxks3XBsZDh5OzowI-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/eficaz-paso-adelante-reto-almacenamiento-estable-hidrogeno-20240915040348-nt.html",
+        "date": "2024-09-15 02:03:48",
+        "sentiment_score": -0.0483415424823761
+    },
+    {
+        "title": "La revolución de la electroquímica ya hace reacción en el mercado",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/15/electroquimica-RDLFZvcBUoIX0VJ5KuOq1RP-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/revolucion-electroquimica-reaccion-mercado-20240915182831-nt.html",
+        "date": "2024-09-15 02:03:39",
+        "sentiment_score": -0.047664642333984375
+    },
+    {
+        "title": "España pone el foco en la eclosión 'fintech' iberoamericana",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/15/fintech-RXz2mlhOjcs86VxtB1BIvEP-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/espana-pone-foco-eclosion-fintech-iberoamericana-20240915182056-nt.html",
+        "date": "2024-09-15 02:03:30",
+        "sentiment_score": -0.03702232241630554
+    },
+    {
+        "title": "El comercio ambulante se abre al reto de la digitalización",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/15/comercioambulante-RHvg3w93vkECRN8KB2ylT2I-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/comercio-ambulante-abre-reto-digitalizacion-20240915151416-nt.html",
+        "date": "2024-09-15 02:03:20",
+        "sentiment_score": -0.03483733534812927
+    },
+    {
+        "title": "El fenómeno de los menores influencers se agiganta en un vacío legal",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/15/influencersmenores-RzEARKryk1ToygfQQ7ECseM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fenomeno-menores-influencers-agiganta-vacio-legal-20240915040310-nt.html",
+        "date": "2024-09-15 02:03:10",
+        "sentiment_score": -0.10142652690410614
+    },
+    {
+        "title": "Mamardashvili contra Jan Oblak: pasado, presente y futuro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/05ff5c7d-2e48-496b-a008-d7e504241bf2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/15/mamardashvili-jan-oblak-pasado-presente-108151185.html",
+        "date": "2024-09-15 02:01:10",
+        "sentiment_score": 0.5340824276208878
+    },
+    {
+        "title": "El Patronato y el Museo de Bellas Artes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/48e4e9c2-f633-4dc0-ae2d-bc7a0f82dc09_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/09/15/patronato-museo-bellas-artes-108136677.html",
+        "date": "2024-09-15 02:00:55",
+        "sentiment_score": -0.44045761972665787
+    },
+    {
+        "title": "Cirugía láser para tratar la hiperplasia benigna de próstata: ¿cómo se realiza?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd3c36a7-cd02-4a01-92c6-170d4548212e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/salud/guia/2024/09/15/cirugia-laser-tratar-hiperplasia-benigna-95333926.html",
+        "date": "2024-09-15 01:59:00",
+        "sentiment_score": -0.28104621171951294
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, domingo 15 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc362209-9d08-4577-ad3d-b4ea45f8eda4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/09/15/tiempo-alicante-alacant-prevision-meteorologica-108153184.html",
+        "date": "2024-09-15 01:44:19",
+        "sentiment_score": 0.5233451575040817
+    },
+    {
+        "title": "Nico, la locura y el señorío del Athletic",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/faf4f811-9fe5-483c-9211-5bafceed2e02_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/09/15/nico-locura-senorio-athletic-108152766.html",
+        "date": "2024-09-15 01:13:43",
+        "sentiment_score": -0.007294327020645142
+    },
+    {
+        "title": "La oposición de Venezuela se refuerza desde el eje Madrid-Caracas: \"Es una nueva fase de lucha\"",
+        "image_url": "https://s1.elespanol.com/2024/09/13/mundo/america/885672503_249186096_1706x960.jpg?contentId=ESPIMA20240913_1079",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/america/20240915/oposicion-venezuela-refuerza-eje-madrid-caracas-nueva-fase-lucha/885661999_0.html",
+        "date": "2024-09-15 01:08:04",
+        "sentiment_score": 0.15856772661209106
+    },
+    {
+        "title": "Los 'hackers' esclavos de Kim Jong-un: así se prepara Corea del Norte para la guerra nuclear",
+        "image_url": "https://s1.elespanol.com/2024/09/14/actualidad/885921406_249187423_1706x1280.png?contentId=ESPIMA20240914_0007",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/asia/20240915/hackers-esclavos-kim-jong-un-prepara-corea-norte-guerra-nuclear/885661473_0.html",
+        "date": "2024-09-15 01:07:42",
+        "sentiment_score": -0.9265125636011362
+    },
+    {
+        "title": "Mi moto no tiene etiqueta y no podré circular en 2025 ¿Qué hago? ¿Compro un 'scooter' de gasolina o eléctrico?",
+        "image_url": "https://s1.elespanol.com/2024/09/14/motor/885921425_249187987_1706x960.jpg?contentId=ESPIMA20240914_0026",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20240915/moto-no-etiqueta-podre-circular-hago-compro-scooter-gasolina-electrico/885911412_0.html",
+        "date": "2024-09-15 00:59:34",
+        "sentiment_score": 0.1831047497689724
+    },
+    {
+        "title": "Puntos de penalti para el Madrid",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/14/66e602a626fa5.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.diariodeleon.es/deportes/240915/1619239/puntos-penalti-madrid.html",
+        "date": "2024-09-15 00:47:20",
+        "sentiment_score": 0.25302036106586456
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy domingo 15 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6aa0096c-951d-485b-a998-415f07536b8a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sociedad/2024/09/15/agenda-asturias-hoy-domingo-15-108150281.html",
+        "date": "2024-09-15 02:09:00",
+        "sentiment_score": -0.08262825012207031
+    },
+    {
+        "title": "El único foco del Valencia es reaccionar en el Metropolitano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2cc5734e-7ab7-481c-94e4-45160b20d81a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/15/unico-foco-valencia-reaccionar-metropolitano-108151187.html",
+        "date": "2024-09-15 02:01:10",
+        "sentiment_score": -0.09426477551460266
+    },
+    {
+        "title": "Cronología del caos ferroviario",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bc676cc1-2022-49bf-961a-226ee36c8725_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2024/09/15/cronologia-caos-ferroviario-108150592.html",
+        "date": "2024-09-15 02:01:07",
+        "sentiment_score": -0.6403536200523376
+    },
+    {
+        "title": "El primer año de la Menorca Talayótica dispara las excavaciones, pero no atrae más turistas",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/2999167.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/09/15/2241461/primer-ano-menorca-talayotica-dispara-excavaciones-pero-atrae-mas-turistas.html",
+        "date": "2024-09-15 02:00:01",
+        "sentiment_score": -0.23184213042259216
+    },
+    {
+        "title": "Daniel Dhers emprende su tour de despedida",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/09/Daniel-Dhers-emprende-su-tour-de-despedida-696x870.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/185017/daniel-dhers-emprende-su-tour-de-despedida/",
+        "date": "2024-09-15 01:34:39",
+        "sentiment_score": 0.8073449619114399
+    },
+    {
+        "title": "Un reportaje fotográfico perdido con Josep Pla",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/09/14/48029258-3780-4114-80F9-2B766AEBCD93/josep-pla-charla-clemente_96.jpg?crop=1255%2C706%2Cx0%2Cy98&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/reportaje-fotografico-perdido-josep-pla_2024091566e6386db3741e0001e61c45.html",
+        "date": "2024-09-15 01:29:17",
+        "sentiment_score": -0.09495027363300323
+    },
+    {
+        "title": "Puigdemont dará tregua a Sánchez hasta que tenga la amnistía pero no le aprobará el Presupuesto",
+        "image_url": "https://s1.elespanol.com/2024/09/13/espana/885672444_249184323_1706x960.jpg?contentId=ESPIMA20240913_1020",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20240915/puigdemont-dara-tregua-sanchez-amnistia-no-aprobara-presupuesto/885661873_0.html",
+        "date": "2024-09-15 01:07:06",
+        "sentiment_score": -0.7664276380091906
+    },
+    {
+        "title": "Quién es quién en la carrera del hidrógeno español que mueve más de 25.000 millones de euros y 'enamora' a China",
+        "image_url": "https://s1.elespanol.com/2024/09/13/actualidad/885672370_249181996_1706x960.png?contentId=ESPIMA20240913_0946",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20240915/carrera-hidrogeno-espanol-mueve-millones-euros-enamora-china/885411677_0.html",
+        "date": "2024-09-15 00:58:53",
+        "sentiment_score": 0.5867612659931183
     }
 ];
