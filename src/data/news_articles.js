@@ -258,66 +258,6 @@ export default [
         "sentiment_score": 0.011598020792007446
     },
     {
-        "title": "Asesinados siete miembros de una misma familia, incluidos tres niños, en el este de Sudáfrica",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/12/policia-sudafrica-kDFE-U603059086129AIC-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/asesinados-siete-miembros-familia-incluidos-tres-ninos-20240912144620-nt.html",
-        "date": "2024-09-12 12:46:20",
-        "sentiment_score": -0.669712956994772
-    },
-    {
-        "title": "Garamendi denuncia una «pérdida de confianza» en el Gobierno y sindicatos por su actuación en la reducción de jornada",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/12/garamendi-ep-kvoB-U603059165129tXE-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/garamendi-denuncia-perdida-confianza-gobierno-sindicatos-actuacion-20240912143427-nt.html",
-        "date": "2024-09-12 12:40:17",
-        "sentiment_score": -0.07584184408187866
-    },
-    {
-        "title": "El BCE ahonda en las bajadas de tipos: ¿qué se puede esperar de cara a final de año?",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/12/sede-bce-Rana5jqn8UoGTDkuQHRPKTP-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bce-ahonda-bajadas-tipos-puede-esperar-cara-20240912115353-nt.html",
-        "date": "2024-09-12 12:26:20",
-        "sentiment_score": -0.07904525101184845
-    },
-    {
-        "title": "Cuerpo impulsa una cumbre para desactivar las normas territoriales que impiden que España sea un mercado único",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/12/carloscuerpoep-RVtWtPx44YIPRIAxC85AWoL-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cuerpo-impulsa-cumbre-desactivar-normas-territoriales-impiden-20240912140637-nt.html",
-        "date": "2024-09-12 12:06:51",
-        "sentiment_score": -0.08677853643894196
-    },
-    {
-        "title": "AENA anuncia récord de pasajeros en lo que va de año, con 208 millones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/12/aena-k0m-U603058571551qI-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aena-anuncia-record-pasajeros-ano-208-millones-20240912140541-nt.html",
-        "date": "2024-09-12 12:05:41",
-        "sentiment_score": -0.09747593104839325
-    },
-    {
-        "title": "Juzgan a tres hombres por matar a dos mujeres y arrojar sus cuerpos a una pocilga para alimentar a los cerdos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/12/caso-sudafrica-k8MG-U603058602995EqG-758x531@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/juzgan-tres-hombres-matar-dos-mujeres-arrojar-20240912140054-nt.html",
-        "date": "2024-09-12 12:00:54",
-        "sentiment_score": -0.19334664940834045
-    },
-    {
         "title": "El Constitucional ha recibido 20 impugnaciones contra la ley de amnistía",
         "image_url": "https://imagenes.elpais.com/resizer/v2/CKXOM2W7IKZQNR5RDWIJIVFGDY.jpg?auth=8b370fa9f535712726631e2c27b54a59e6d4e85967e92561c2c962c0c393c641",
         "tags": [
@@ -464,44 +404,6 @@ export default [
         "link": "https://elpais.com/espana/2024-09-12/el-juez-procesa-al-lider-del-psoe-de-murcia-por-prevaricacion-y-malversacion.html",
         "date": "2024-09-12 14:55:18",
         "sentiment_score": -0.8012512642890215
-    },
-    {
-        "title": "El derribo de la casa solariega de Getxo se realizó por “sentido común” y para “evitar desgracias personales”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KJSHR5DXINAFBPXA5OM7R2VZAE.jpg?auth=1379ea3c7b0efbb98dadad85098fc9b0fc393690edd7875291f4985e17780bf4",
-        "tags": [
-            "getxo",
-            "patrimonio municipal",
-            "eaj-pnv",
-            "españa",
-            "país vasco",
-            "licencias",
-            "urbanismo"
-        ],
-        "link": "https://elpais.com/espana/2024-09-12/el-derribo-de-la-casa-solariega-de-getxo-se-realizo-por-sentido-comun-y-para-evitar-desgracias-personales.html",
-        "date": "2024-09-12 13:58:28",
-        "sentiment_score": -0.26703763008117676
-    },
-    {
-        "title": "BP e Iberdrola confirman su apuesta por el hidrógeno verde con la inversión de más de 70 millones en la mayor planta de España",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VIBR3RIKEJFFPC5RN3I77VJKTI.jpg?auth=4d7fb85d751202c0060afcc37ae7201840ca16a43d10d04fb16578920736c5f6",
-        "tags": [
-            "combustibles",
-            "energía hidraúlica",
-            "energía eólica",
-            "hidrógeno verde",
-            "combustibles fósiles",
-            "castellón",
-            "energía",
-            "bp españa",
-            "bp oil españa",
-            "fondos estructurales",
-            "iberdrola",
-            "comunidad valenciana",
-            "industria"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-12/bp-e-iberdrola-confirman-su-apuesta-por-el-hidrogeno-verde-con-la-inversion-de-mas-de-70-millones-en-la-mayor-planta-de-espana.html",
-        "date": "2024-09-12 13:26:45",
-        "sentiment_score": 0.3618251830339432
     },
     {
         "title": "Tebas celebra ahora que Nico Williams siga en el Athletic: «Me alegra que se quede en un club que no sea los dos grandes»",
@@ -7378,5 +7280,488 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/pensamiento/20240916/ap-7-la-desesperacion-del-asfalto/886291366_13.html",
         "date": "2024-09-15 22:00:00",
         "sentiment_score": -0.7057570070028305
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 16 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/HATKFBYBANGBTCQW4I6BHGHWIE.jpg?auth=3deb2b843ccb393bd5690a1e8b3b9d4edec678d8a53c0adb4800f139ac3f9c01",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/16/clima-hoy-en-espana-temperaturas-para-malaga-este-16-de-septiembre/",
+        "date": "2024-09-16 02:03:12",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "1-0. La japonesa Hiromi Yoneda envía a casa a España",
+        "image_url": "./assets/ai_generated/v1_txt2img_1364f466bbd741f9a580e914e3932777.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/16/1-0-la-japonesa-hiromi-yoneda-envia-a-casa-a-espana/",
+        "date": "2024-09-16 01:45:42",
+        "sentiment_score": 0.04046174883842468
+    },
+    {
+        "title": "Conoce el clima de este día en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/O2W7QIZDFRCQ5FMEAY453PFVNU.jpg?auth=ca4062942cd5e2271cd02a795e41ac11fbb2b7882948e08199e507236f6bbbfc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/16/conoce-el-clima-de-este-dia-en-madrid/",
+        "date": "2024-09-16 01:32:59",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Top de películas imprescindibles para ver HOY en Disney+ España",
+        "image_url": "https://www.infobae.com/resizer/v2/FHQO4QV5S5FIHLIAE3HVNO6Y7Q.jpg?auth=71a9850658cf950ff2b4b844d6644baf9c16699ec082fc5c3345970e6c86dd4c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/16/top-de-peliculas-imprescindibles-para-ver-hoy-en-disney-espana/",
+        "date": "2024-09-16 01:31:39",
+        "sentiment_score": 0.37682779133319855
+    },
+    {
+        "title": "Los mejores filmes de Netflix España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/DIFCTKUXWBA5ZG4JPMHGWQAIPE.jpg?auth=6585d88b3a7a67e7f29a363506f08d1dd0663088beba65a3260380e6b2dd8c79",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/16/los-mejores-filmes-de-netflix-espana-para-ver-en-cualquier-momento/",
+        "date": "2024-09-16 01:31:20",
+        "sentiment_score": 0.6659733280539513
+    },
+    {
+        "title": "¿Qué fue de Jeriel De Santis a dos meses de su último partido con Alianza Lima? El complicado inicio del venezolano en España",
+        "image_url": "https://www.infobae.com/resizer/v2/TJG3MTQE3ZGRTMDLBHAOTC3C5I.png?auth=b0d41f2370e0eabf8cb856a31c7b47a3e8f0a996a590354c779b719fc0cb599b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2024/09/16/que-fue-de-jeriel-de-santis-a-dos-meses-de-su-ultimo-partido-con-alianza-lima-el-complicado-inicio-del-venezolano-en-espana/",
+        "date": "2024-09-16 01:09:47",
+        "sentiment_score": 0.10895612090826035
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 16 de septiembre en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/Z7JHYEC2SJBBHODNDCNZXORIMQ.jpg?auth=1715586ac3f5e5014c20e7a5185b6a17fb767e3d5860f0302a105caed956931b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/16/clima-las-temperaturas-que-predominaran-este-16-de-septiembre-en-barcelona/",
+        "date": "2024-09-16 01:00:59",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Victoria sube al tercer puesto y Real España se aferra al liderato",
+        "image_url": "./assets/ai_generated/v1_txt2img_7ee2c1817ab54f47aa5e767d29d0d51d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/15/victoria-sube-al-tercer-puesto-y-real-espana-se-aferra-al-liderato/",
+        "date": "2024-09-15 23:46:01",
+        "sentiment_score": 0.6801826171576977
+    },
+    {
+        "title": "Residente, una ‘tiraera’ eterna contra los Trump, los Putin y la desigualdad",
+        "image_url": "https://www.infobae.com/resizer/v2/6CN5KX4M3RGP7OT6WO3XC2G5GQ.jpg?auth=061e41fe72a67c0724830c4e352641d4d9889505e578fbf9fe5d1b4179901a0b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/09/16/residente-una-tiraera-eterna-contra-los-trump-los-putin-y-la-desigualdad/",
+        "date": "2024-09-15 23:19:11",
+        "sentiment_score": 0.22739717364311218
+    },
+    {
+        "title": "K-pop: ranking de las 10 canciones más populares hoy en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/BXGYG2BS6FEF5IIP2KX6OFBLBU.jpg?auth=892559f2153b2e2dfd405baf0a0a7c92712fa1b8c994200dc757f51cf07a9627",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/15/k-pop-ranking-de-las-10-canciones-mas-populares-hoy-en-itunes-espana/",
+        "date": "2024-09-15 23:15:36",
+        "sentiment_score": 0.501418799161911
+    },
+    {
+        "title": "Mira cómo la tripulación civil del Polaris sale de la cápsula tras el exitoso aterrizaje",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20960678-1783496-917-still-20240916020509777.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/polaris-aterrizaje-golfo-mexico-spacex-trax/",
+        "date": "2024-09-16 02:09:52",
+        "sentiment_score": 0.13424649834632874
+    },
+    {
+        "title": "Detectan un avión militar ruso frente a la costa de Alaska por tercera vez en la última semana, según NORAD",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-452809362-copy.webp",
+        "tags": [
+            "noticias de ee.uu.",
+            "relaciones estados unidos rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/detectan-avion-militar-ruso-alaska-trax/",
+        "date": "2024-09-16 00:57:53",
+        "sentiment_score": -0.2710930183529854
+    },
+    {
+        "title": "Trump está \"a salvo tras disparos en sus inmediaciones\", dice su campaña en un comunicado",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/ba/media_thumb-link-3979824.webp",
+        "tags": [
+            "trump",
+            "atentado",
+            "disparos",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/trump-esta-salvo-tras-disparos-inmediaciones-dice-campana",
+        "date": "2024-09-16 00:25:17",
+        "sentiment_score": -0.5176150351762772
+    },
+    {
+        "title": "¿Reforma judicial en México afectaría división de poderes? Experto responde",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2167646479.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-judicial-mexico-consecuencias-poderes-mirador-mundial-tv/",
+        "date": "2024-09-15 23:58:18",
+        "sentiment_score": -0.3686327710747719
+    },
+    {
+        "title": "¿Cómo ha cambiado el grito de Independencia en México en los últimos años?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1235284268.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/grito-independencia-mexico-cambios-mirador-mundial-tv/",
+        "date": "2024-09-15 23:58:09",
+        "sentiment_score": -0.1988937109708786
+    },
+    {
+        "title": "Todo el color del desfile por la Independencia de México en California",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/mx-en-california.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/independencia-mexico-california-desfile-mirador-mundial-tv/",
+        "date": "2024-09-15 23:54:35",
+        "sentiment_score": 0.05017918348312378
+    },
+    {
+        "title": "Cientos se reúnen en el Zócalo para celebrar la Independencia de México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ee835b9e-a422-451c-b04a-85beeb568d72.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news briefs",
+            "grito de independencia",
+            "andrés manuel lópez obrador",
+            "xpress",
+            "independencia de méxico",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/independencia-grito-amlo-mexico-zocalo-presidente-mirador-mundial-tv/",
+        "date": "2024-09-15 23:48:46",
+        "sentiment_score": 0.10799773037433624
+    },
+    {
+        "title": "Con protestas y desfiles El Salvador celebra su Independencia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171579605.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "centroamérica",
+            "régimen de excepción",
+            "fast – news variety",
+            "xpress",
+            "el salvador",
+            "nayib bukele"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/el-salvador-dia-independencia-bukele-protestas-mirador-mundial-tv/",
+        "date": "2024-09-15 23:31:38",
+        "sentiment_score": 0.30045102536678314
+    },
+    {
+        "title": "Donald Trump se encuentra a salvo después de balacera cerca de su propiedad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171265088.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "balacera",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-balacera-intento-de-asesinato-fbi-mirador-mundial-tv/",
+        "date": "2024-09-15 23:25:40",
+        "sentiment_score": -0.5356579758226871
+    },
+    {
+        "title": "Andrés Cervantes, presidente de los oncólogos europeos: «El sistema de aprobación de nuevos fármacos debe mejorar»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/09/16/andres-cervantes-esmo-RvYDymrwglAIQ0YKt8afruK-758x531@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/andres-cervantes-sistema-aprobacion-nuevos-farmacos-debe-20240916164959-nt.html",
+        "date": "2024-09-16 02:10:21",
+        "sentiment_score": -0.11523547768592834
+    },
+    {
+        "title": "Eslovenia deja en el aire el anuncio de la nueva Comisión Von der Leyen",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/15/voncer-leyen-RycnR3ateTP8ln1RKAmP5OP-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/eslovenia-deja-aire-anuncio-nueva-comision-von-20240915040941-nt.html",
+        "date": "2024-09-16 02:10:06",
+        "sentiment_score": -0.04608926177024841
+    },
+    {
+        "title": "¿Quién es la ministra cubana que se acaba de incorporar al Gobierno de Maduro?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/11/leticia-RerXFovMje5EjDYywccYhQM-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ministra-cubana-acaba-incorporar-gobierno-maduro-20240911195939-nt.html",
+        "date": "2024-09-16 02:09:07",
+        "sentiment_score": -0.13553786277770996
+    },
+    {
+        "title": "Juego de tronos en los dos grandes partidos de Alemania: se busca candidato a canciller",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/15/spd-Rd5YhwyUJV6farBV2sG0Y6H-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/juego-tronos-dos-grandes-partidos-alemania-busca-20240915040856-nt.html",
+        "date": "2024-09-16 02:08:57",
+        "sentiment_score": -0.12685632705688477
+    },
+    {
+        "title": "Afganistán se mantiene a flote con el dinero de Estados Unidos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/15/mujeres-kabul-RumHVw6vnejaiubu4EtqbsI-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/afganistan-mantiene-flote-dinero-estados-unidos-20240915040814-nt.html",
+        "date": "2024-09-16 02:08:14",
+        "sentiment_score": -0.20366324484348297
+    },
+    {
+        "title": "Economía planificada",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/16/dra-RGStV6IgvU4oj5alChYDcuJ-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-economia-planificada-20240916174420-nt.html",
+        "date": "2024-09-16 02:07:46",
+        "sentiment_score": -0.0958574116230011
+    },
+    {
+        "title": "Draghi, el dedo y la luna",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/16/1485961830-RAYGlQgQtNNTtLqcQ6hHifO-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-draghi-dedo-luna-20240916182439-nt.html",
+        "date": "2024-09-16 02:07:35",
+        "sentiment_score": -0.07855209708213806
+    },
+    {
+        "title": "Un tratamiento tecnológico para amortiguar la dura vuelta a la rutina laboral",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/16/Imagensaludmental-RABXSgVDoRY9s3ZlB5A3fnL-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/tratamiento-tecnologico-amortiguar-dura-vuelta-rutina-laboral-20240916202416-nt.html",
+        "date": "2024-09-16 02:07:26",
+        "sentiment_score": -0.1889757513999939
+    },
+    {
+        "title": "La tangible asignatura pendiente de la accesibilidad digital",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/16/accesibilidad-digital-R3IEZMtXPANfdrskifgskyH-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/tangible-asignatura-pendiente-accesibilidad-digital-20240916192848-nt.html",
+        "date": "2024-09-16 02:06:29",
+        "sentiment_score": -0.06962570548057556
+    },
+    {
+        "title": "Los tonos grises de la nueva ley verde europea contra la deforestación",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/16/deforestacion-RMTFFC4GyjGYPqrnb0YPFLK-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/tonos-grises-nueva-ley-verde-europea-deforestacion-20240916172635-nt.html",
+        "date": "2024-09-16 02:06:18",
+        "sentiment_score": 0.04747647047042847
+    },
+    {
+        "title": "Veo doble",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/240916/1619668/veo-doble.html",
+        "date": "2024-09-16 01:30:00",
+        "sentiment_score": -0.1482100412249565
+    },
+    {
+        "title": "Primera sanción del TC a un abogado por falsear los fallos del Constitucional que citó en un recurso",
+        "image_url": "https://s1.elespanol.com/2024/09/15/espana/tribunales/886171598_249208266_1706x960.jpg?contentId=ESPIMA20240915_0224",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20240916/primera-sancion-tc-abogado-falsear-fallos-constitucional-cito-recurso/886161457_0.html",
+        "date": "2024-09-16 01:18:24",
+        "sentiment_score": -0.5878898240625858
+    },
+    {
+        "title": "La manía persecutoria del chavismo con el CNI y España: \"Atacaron a Aznar, a Rajoy y ahora a Sánchez\"",
+        "image_url": "https://s1.elespanol.com/2024/09/15/reportajes/886171638_249209712_1706x960.jpg?contentId=ESPIMA20240915_0264",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240916/mania-persecutoria-chavismo-cni-espana-atacaron-aznar-rajoy-ahora-sanchez/886161427_0.html",
+        "date": "2024-09-16 00:38:56",
+        "sentiment_score": -0.9290351839736104
+    },
+    {
+        "title": "El rey de Marruecos concede un indulto a 638 personas por la festividad del nacimiento de Mahoma",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20240916021044_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-rey-marruecos-concede-indulto-638-personas-festividad-nacimiento-mahoma-20240916021044.html",
+        "date": "2024-09-16 00:10:44",
+        "sentiment_score": 0.11466121673583984
+    },
+    {
+        "title": "City, Bayern y el PSG son líderes y favoritos en sus respectivas ligas,",
+        "image_url": "./assets/ai_generated/v1_txt2img_bfff358969e04504b92735cf76770460.png",
+        "tags": [
+            "faceb2",
+            "tuit2",
+            "fútbol",
+            "city",
+            "bayer leverkusen",
+            "psg"
+        ],
+        "link": "https://www.el-carabobeno.com/city-bayern-psg-son-lideres-favoritos-respectivas-ligas/",
+        "date": "2024-09-15 23:21:17",
+        "sentiment_score": 0.30001427233219147
+    },
+    {
+        "title": "Las VI Jornadas Leyenda Negra de El Escorial destrozarán mitos",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/09/15/2024091509513949109.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.mundiario.com/articulo/cultura/vi-jornadas-leyenda-negra-escorial-destrozaran-mitos/20240916005558317892.html",
+        "date": "2024-09-15 22:55:58",
+        "sentiment_score": 0.31768204271793365
+    },
+    {
+        "title": "El ojo que todo lo ve en el transporte de Madrid: 10.500 cámaras para controlar más de 5.000 vehículos públicos",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/09/11/17260742619611.jpg",
+        "tags": [
+            "artículos daniel somolinos"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/09/16/66e1bb27e4d4d8bf7c8b459b.html",
+        "date": "2024-09-15 22:40:36",
+        "sentiment_score": -0.05555770546197891
+    },
+    {
+        "title": "Real Mallorca: Asoman las primeras urgencias",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3000381.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/09/16/2241853/real-mallorca-arranca-liga.html",
+        "date": "2024-09-15 22:30:01",
+        "sentiment_score": -0.07362473011016846
+    },
+    {
+        "title": "España abandona la economía circular en el vertedero",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/16/SANT-ADRIA-IMG_3571-RGnq3G1s3S7pXTIq95hIV4H-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/espana-abandona-economia-circular-vertedero-20240916175453-nt.html",
+        "date": "2024-09-16 02:06:08",
+        "sentiment_score": -0.12578634917736053
+    },
+    {
+        "title": "Cataluña acumuló uno de cada cinco homicidios ocurridos en España durante el primer semestre de 2024, según Interior",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2023/10/17/92FE7149-AAC5-4AEF-9E66-4871404D968F/mossos-acudieron-socorro-mujer_96.jpg?crop=4680%2C2633%2Cx0%2Cy251&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/cataluna-acumulo-uno-cada-cinco-homicidios-ocurridos-espana-primer-semestre-2024-segun-interior_2024091666e742ce3c87870001e0d47c.html",
+        "date": "2024-09-16 02:04:05",
+        "sentiment_score": -0.3234306126832962
+    },
+    {
+        "title": "En esta localidad jiennense será pregonero David Broncano",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2023/12/13/B1FC5AC0-C79A-4951-B1E0-E6C82E702483/david-broncano-presentador-resistencia_96.jpg?crop=900%2C506%2Cx0%2Cy44&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/esta-localidad-jiennense-sera-pregonero-david-broncano_2024091666e791e9fcf7b30001357fd0.html",
+        "date": "2024-09-16 02:03:21",
+        "sentiment_score": -0.03204319253563881
+    },
+    {
+        "title": "Los acusados de la 'Operación Grillo', al banquillo: la gran redada contra la droga en Maó",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3000435.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/sucesos/2024/09/16/2241879/fiscalia-pide-anos-carcel-para-diez-narcos-introducian-heroina-menorca.html",
+        "date": "2024-09-16 02:00:01",
+        "sentiment_score": -0.23011888563632965
+    },
+    {
+        "title": "Uno de cada tres ciudadanos de Balears ya opta por contratar un seguro de salud privado",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3000399.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2024/09/16/2241863/uno-cada-tres-ciudadanos-balears-opta-por-contratar-seguro-salud-privado.html",
+        "date": "2024-09-16 02:00:01",
+        "sentiment_score": -0.06964452564716339
+    },
+    {
+        "title": "“La impiedad total de Israel con los palestinos no se puede permitir, y es uno de los desastres más grandes del siglo”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c8e730d9-6f5f-40c8-80ad-218c78be1136_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2024/09/16/impiedad-total-israel-palestinos-permitir-8690820.html",
+        "date": "2024-09-16 01:43:21",
+        "sentiment_score": -0.24192163348197937
+    },
+    {
+        "title": "La energía nostálgica y vibrante de Residente enciende el WiZink Center",
+        "image_url": "https://s1.elespanol.com/2024/09/16/actualidad/886421381_249212013_1706x960.jpg?contentId=ESPIMA20240916_0032",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20240916/palabras-toman-importancia-canta-residente-wizink-center/885661482_0.html",
+        "date": "2024-09-16 01:33:12",
+        "sentiment_score": 0.2711036056280136
+    },
+    {
+        "title": "Con doblete del uruguayo Octavio Rivero, Barcelona queda a 3 puntos de Liga en Ecuador",
+        "image_url": "./assets/ai_generated/v1_txt2img_16a1a87b20e24920bbae3c58e52a7fd5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/16/con-doblete-del-uruguayo-octavio-rivero-barcelona-queda-a-3-puntos-de-liga-en-ecuador/",
+        "date": "2024-09-16 01:30:44",
+        "sentiment_score": 0.28103192150592804
+    },
+    {
+        "title": "El uruguayo Rivero anota 2 y Barcelona se pone a 3 puntos de Liga de Quito",
+        "image_url": "./assets/ai_generated/v1_txt2img_7323db5a60474bfaba510343a9adacbe.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/16/el-uruguayo-rivero-anota-2-y-barcelona-se-pone-a-3-puntos-de-liga-de-quito/",
+        "date": "2024-09-16 01:30:27",
+        "sentiment_score": -0.11840313673019409
     }
 ];
