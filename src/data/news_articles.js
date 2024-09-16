@@ -1,215 +1,5 @@
 export default [
     {
-        "title": "Seis comunidades en alerta por viento, lluvia y oleaje de hasta 8 metros en Cataluña",
-        "image_url": "./assets/ai_generated/v1_txt2img_2c80ee48a05b4d2b893af982506c4fea.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/12/seis-comunidades-en-alerta-por-viento-lluvia-y-oleaje-de-hasta-8-metros-en-cataluna/",
-        "date": "2024-09-12 06:31:43",
-        "sentiment_score": -0.7004561349749565
-    },
-    {
-        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 12 de septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/J2ZDVE22LBDVLJJ42BZFBT6E4I.jpg?auth=e9d1bb315afa10474ecd1b13adc5e4e0d28297b39e7e7ac75cb4d84ecdd7c3d1",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/12/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-12-de-septiembre/",
-        "date": "2024-09-12 06:31:28",
-        "sentiment_score": -0.046670131385326385
-    },
-    {
-        "title": "'Sidonie en Japón', 'Té negro' y 'Justicia artificial', entre los estrenos de esta semana",
-        "image_url": "./assets/ai_generated/v1_txt2img_ce3edfc54f2c4c1d9f75da2ca4a89035.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/12/sidonie-en-japon-te-negro-y-justicia-artificial-entre-los-estrenos-de-esta-semana/",
-        "date": "2024-09-12 06:31:27",
-        "sentiment_score": -0.3364039696753025
-    },
-    {
-        "title": "El supermercado con miles de productos de menos de dos euros que abre más tiendas en España",
-        "image_url": "https://www.infobae.com/resizer/v2/243PQGNGHVC4HBKNQZ62AYZ4UU.jpeg?auth=94dd63cea7ebe7f44b24557f40023174d17de97b9a323b4b9b338df34b01fabe",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/12/el-supermercado-con-miles-de-productos-de-menos-de-dos-euros-que-abre-mas-tiendas-en-espana/",
-        "date": "2024-09-12 06:24:21",
-        "sentiment_score": 0.10535197705030441
-    },
-    {
-        "title": "El decano de Medicina de Valladolid vaticina que los médicos “a partir de 2035, tendrán dificultades para encontrar un trabajo”",
-        "image_url": "https://www.infobae.com/resizer/v2/5TVG5SAU7FHBRJEXCVIBHUIU2E.jpg?auth=483c34e3c1fcf95117b1feca01b1c921e0fb7ee1917857956a9ea936de140eff",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/12/el-decano-de-medicina-de-valladolid-vaticina-que-los-medicos-a-partir-de-2035-tendran-dificultades-para-encontrar-un-trabajo/",
-        "date": "2024-09-12 06:22:52",
-        "sentiment_score": -0.665079515427351
-    },
-    {
-        "title": "Las tecnológicas taiwanesas cierran con ganancias en bolsa tras repunte de Wall Street",
-        "image_url": "./assets/ai_generated/v1_txt2img_5a4ee9c6f87a47a68110d68a71635871.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/12/las-tecnologicas-taiwanesas-cierran-con-ganancias-en-bolsa-tras-repunte-de-wall-street/",
-        "date": "2024-09-12 06:16:29",
-        "sentiment_score": 0.46746189147233963
-    },
-    {
-        "title": "La bolsa de Tokio sube más de un 3 % animada por Wall Street y las tecnológicas",
-        "image_url": "./assets/ai_generated/v1_txt2img_6090dd7f68544588a915ec2d65a8f875.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/12/la-bolsa-de-tokio-sube-mas-de-un-3-animada-por-wall-street-y-las-tecnologicas/",
-        "date": "2024-09-12 06:16:12",
-        "sentiment_score": 0.5025861673057079
-    },
-    {
-        "title": "Brasil pide a España su apoyo para lograr la suspensión de la ley antideforestación de la UE",
-        "image_url": "https://www.infobae.com/resizer/v2/46HASHD6SRFEZLPZXWMAWJNZ2E.jpg?auth=302795db8959886e38a2e738ce217109d5c3c499f2c129ca45956b25fd5d8b62",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/09/12/brasil-pide-a-espana-su-apoyo-para-lograr-la-suspension-de-la-ley-antideforestacion-de-la-ue/",
-        "date": "2024-09-12 06:02:18",
-        "sentiment_score": -0.2882692813873291
-    },
-    {
-        "title": "Asesina a su mujer con un arma blanca en Bilbao y queda detenido",
-        "image_url": "./assets/ai_generated/v1_txt2img_06348ca8177b4005ba6b74b48f314abc.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/12/asesina-a-su-mujer-con-un-arma-blanca-en-bilbao-y-queda-detenido/",
-        "date": "2024-09-12 06:00:21",
-        "sentiment_score": -0.7747125755995512
-    },
-    {
-        "title": "La automedicación excesiva de la migraña propicia que se vuelva crónica, advierten los expertos",
-        "image_url": "https://www.infobae.com/resizer/v2/NM55DJXMBRAJLL6GDXDNO2N65I.jpg?auth=16a2f00f89842c314d95a2106081fd51e390ed0456bb3f5ab27626c6842f2614",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/12/la-automedicacion-excesiva-de-la-migrana-propicia-que-se-vuelva-cronica-advierten-los-expertos/",
-        "date": "2024-09-12 05:51:30",
-        "sentiment_score": -0.601227555423975
-    },
-    {
-        "title": "Billetes gratis de Renfe con Verano Joven: fecha límite y cómo conseguirlo después de septiembre",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/11/renfe--758x531.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/billetes-gratis-renfe-verano-joven-fecha-limite-20240912083000-nt.html",
-        "date": "2024-09-12 06:30:00",
-        "sentiment_score": 0.010609626770019531
-    },
-    {
-        "title": "El fallido golpe de Estado en Francia que apoyó Franco entre terroristas y generales proscritos",
-        "image_url": "https://s1.elespanol.com/2024/09/11/historia/885171676_249090237_1706x960.jpg?contentId=ESPIMA20240911_0202",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/historia/20240912/fallido-golpe-francia-apoyo-franco-terroristas-generales-proscritos/885161603_0.html",
-        "date": "2024-09-12 06:31:54",
-        "sentiment_score": -0.38347770273685455
-    },
-    {
-        "title": "Las ‘malas’ costumbres",
-        "image_url": "./assets/ai_generated/v1_txt2img_1eb83c9c1f9549af94e99d5b2611ec02.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/opinion/el-bombin-roto/2024/09/12/malas-costumbres-8678790.html",
-        "date": "2024-09-12 06:20:21",
-        "sentiment_score": -0.27961380779743195
-    },
-    {
-        "title": "¿Crees que comprar un Vuitton o un Chanel falso es 'cool'?: la cara oculta de las imitaciones que triunfan en TikTok",
-        "image_url": "https://s1.elespanol.com/2024/09/11/actualidad/885172186_249106199_1706x960.jpg?contentId=ESPIMA20240911_0712",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/moda/20240912/crees-comprar-vuitton-chanel-falso-cool-cara-oculta-imitaciones-triunfan-tiktok/885161571_0.html",
-        "date": "2024-09-12 06:11:06",
-        "sentiment_score": 0.4941539615392685
-    },
-    {
-        "title": "Debate en el Real Madrid: la actitud de Vinicius divide al madridismo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7199dc03-ef55-43d2-9b68-99d3c739f488_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/09/12/debate-real-madrid-actitud-vinicius-108042331.html",
-        "date": "2024-09-12 05:52:47",
-        "sentiment_score": -0.8511775005608797
-    },
-    {
-        "title": "Al Real Madrid le preocupa el efecto de las imágenes del Vinicius más \"macarra\" desafiando a la selección",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f8d98d3d-604c-462e-8ce7-3eea0d4aa075_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2024/09/12/real-madrid-le-preocupa-efecto-imagenes-vinicius-108042330.html",
-        "date": "2024-09-12 05:52:45",
-        "sentiment_score": -0.15081742405891418
-    },
-    {
-        "title": "Estos restaurantes de Barcelona mantienen vivo el pijama",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4d2d5e63-c2ff-42ca-9489-a34f612b871a_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20240912/pijama-postre-restaurantes-barcelona-106233167",
-        "date": "2024-09-12 06:30:45",
-        "sentiment_score": -0.2256641685962677
-    },
-    {
-        "title": "Barcelona buena y barata: el pastel de queso con 'panettone', la nueva creación de Daniel Jordà",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/170390aa-af22-496d-9906-4916745dfb4e_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20240912/pastel-queso-panettone-daniel-jorda-panes-creativos-barcelona-107979809",
-        "date": "2024-09-12 06:29:07",
-        "sentiment_score": -0.06655704975128174
-    },
-    {
-        "title": "El aviso de Gonzalo Bernardos sobre la reducción de jornada: \"Insuficiente...\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/20/gonzalo-bernardos-en-un-video-de-su-canal-personal-de-youtube.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gonzalo-bernardos-alerta-reduccion-jornada-horas-extra-dinero-negro-5632725/",
-        "date": "2024-09-12 06:25:11",
-        "sentiment_score": -0.6822524070739746
-    },
-    {
-        "title": "Agenda para HOY, 12 de septiembre, en Extremadura",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/09/12/194409407-kxWB--758x531@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hoy.es/planes/agenda-hoy-septiembre-extremadura-20240912081813-nt.html",
-        "date": "2024-09-12 06:18:13",
-        "sentiment_score": 0.013269372284412384
-    },
-    {
-        "title": "El Barça podrá trabajar las 24 horas en el Camp Nou en obras interiores que no hagan ruido",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/162768d2-b3a5-4240-9fa0-a45a609390a7_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20240912/obras-camp-nou-24-horas-ruido-ayuntamiento-barcelona-vecinos-molestias-108042587",
-        "date": "2024-09-12 06:16:41",
-        "sentiment_score": 0.19006159901618958
-    },
-    {
         "title": "Hay casi 20.000 colombianos detenidos en el exterior: España es el país donde hay más connacionales presos",
         "image_url": "https://www.infobae.com/resizer/v2/BAO5W3CQI5HOPKVOLOHDATTHEQ.jpg?auth=5b69a36014b741503959426af124b6ee04f197c09766232a085a42a82b52a97f",
         "tags": [
@@ -7097,5 +6887,496 @@ export default [
         "link": "https://www.levante-emv.com/videos/deportes/2024/09/15/1-4-girona-fc-girona-108175520.html",
         "date": "2024-09-15 17:09:35",
         "sentiment_score": 0.007713444530963898
+    },
+    {
+        "title": "0-1. Corea del Norte elimina a Brasil y ratifica su condición de favorita",
+        "image_url": "./assets/ai_generated/v1_txt2img_30193bf817104240bd60e50a2fcc8fc2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/0-1-corea-del-norte-elimina-a-brasil-y-ratifica-su-condicion-de-favorita/",
+        "date": "2024-09-15 21:46:53",
+        "sentiment_score": 0.45262935012578964
+    },
+    {
+        "title": "Palou hace historia en Nashville y gana su tercer título de IndyCar en cuatro años",
+        "image_url": "./assets/ai_generated/v1_txt2img_d004c9e4c32b4a64804dfaf0d33dd1c6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/palou-hace-historia-en-nashville-y-gana-su-tercer-titulo-de-indycar-en-cuatro-anos/",
+        "date": "2024-09-15 21:46:36",
+        "sentiment_score": 0.7493890859186649
+    },
+    {
+        "title": "Álex Palou se proclama campeón de la IndyCar por tercera vez en 4 años",
+        "image_url": "./assets/ai_generated/v1_txt2img_0f7c313a0c404ed9afad7d51cae73529.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/alex-palou-se-proclama-campeon-de-la-indycar-por-tercera-vez-en-4-anos/",
+        "date": "2024-09-15 21:33:01",
+        "sentiment_score": 0.7026405893266201
+    },
+    {
+        "title": "El Valencia iguala el peor inicio de su historia en Liga",
+        "image_url": "https://www.infobae.com/resizer/v2/Z6CP64LKVFAH5MOSF66KHFWY3E.jpg?auth=bda7ef7ba4fe6073c8effd2c1778a315d7b3753517640a25d29771384aa5fa0e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/el-valencia-iguala-el-peor-inicio-de-su-historia-en-liga/",
+        "date": "2024-09-15 21:32:15",
+        "sentiment_score": -0.9036530051380396
+    },
+    {
+        "title": "2-2. Elche y Granada se neutralizan y siguen sin despegar",
+        "image_url": "./assets/ai_generated/v1_txt2img_12f0c9624d444dc7982510fdbd10b71d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/2-2-elche-y-granada-se-neutralizan-y-siguen-sin-despegar/",
+        "date": "2024-09-15 21:19:25",
+        "sentiment_score": -0.7322814911603928
+    },
+    {
+        "title": "Javi Guerra: \"Tres errores nos han condenado\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_833fd99d7b604d6bbfc4f09c42478ab9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/javi-guerra-tres-errores-nos-han-condenado/",
+        "date": "2024-09-15 21:19:08",
+        "sentiment_score": -0.8087362162768841
+    },
+    {
+        "title": "El reino de Manuel Liñán no es de este mundo",
+        "image_url": "./assets/ai_generated/v1_txt2img_ef2087802ba84dec8714727d0de8e48b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/el-reino-de-manuel-linan-no-es-de-este-mundo/",
+        "date": "2024-09-15 21:18:05",
+        "sentiment_score": -0.5372026599943638
+    },
+    {
+        "title": "Interior agradece el despliegue policial en Marruecos para impedir entradas irregulares en Ceuta por la valla fronteriza",
+        "image_url": "https://www.infobae.com/resizer/v2/PKMXYQBFVZHUXBKSYLLYCCRXUA.jpg?auth=0fe8a1123b6f3f37f19b24ea32464be2513e2bfc481ea1b1d7e50d7cfcf1e455",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/interior-agradece-el-despliegue-policial-en-marruecos-para-impedir-entradas-irregulares-en-ceuta-por-la-valla-fronteriza/",
+        "date": "2024-09-15 21:04:27",
+        "sentiment_score": -0.24276721477508545
+    },
+    {
+        "title": "La frontera de Ceuta vuelve a sufrir cierres intermitentes ante llegada de más migrantes",
+        "image_url": "./assets/ai_generated/v1_txt2img_10452d6ef7f44c9682487ea94efee24e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/15/la-frontera-de-ceuta-vuelve-a-sufrir-cierres-intermitentes-ante-llegada-de-mas-migrantes/",
+        "date": "2024-09-15 21:03:14",
+        "sentiment_score": -0.8026981316506863
+    },
+    {
+        "title": "España, Italia, EEUU, Canadá, Argentina, Australia, Alemania y Países Bajos, a Málaga",
+        "image_url": "./assets/ai_generated/v1_txt2img_c16e715abef44f0aae6f98ea2ba09c1a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/15/espana-italia-eeuu-canada-argentina-australia-alemania-y-paises-bajos-a-malaga/",
+        "date": "2024-09-15 21:02:07",
+        "sentiment_score": -0.3723139390349388
+    },
+    {
+        "title": "Última hora del presunto intento de magnicidio contra Donald Trump en Florida",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2171829934.jpg?quality=100&strip=info",
+        "tags": [
+            "minuto a minuto",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/ultima-hora-donald-trump-intento-magnicdio-florida-trax/",
+        "date": "2024-09-15 21:40:35",
+        "sentiment_score": -0.36471812427043915
+    },
+    {
+        "title": "Última hora del presunto intento de asesinato contra Donald Trump en Florida",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2171847688.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de donald trump",
+            "minuto a minuto"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/ultima-hora-donald-trump-intento-asesinato-florida-trax/",
+        "date": "2024-09-15 21:40:35",
+        "sentiment_score": -0.65788708999753
+    },
+    {
+        "title": "Asesinan en Honduras a Juan López, ambientalista, defensor de Derechos Humanos y regidor municipal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2171580422-e1726435973994.jpg?quality=100&strip=info",
+        "tags": [
+            "juan lópez",
+            "asesinato regidor",
+            "honduras",
+            "xiomara castro"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/asesinan-honduras-juan-lopez-ambientalista-derechos-humanos-regidor-municipal-orix/",
+        "date": "2024-09-15 21:40:10",
+        "sentiment_score": -0.7903881464153528
+    },
+    {
+        "title": "Antonio Ledezma, exalcalde de Caracas: No queremos un mártir, queremos a Edmundo vivo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-84737996.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/entrevista-antonio-ledezma-oppenheimer-tv-fast/",
+        "date": "2024-09-15 20:48:44",
+        "sentiment_score": 0.16720065474510193
+    },
+    {
+        "title": "J.D. Vance defiende rumor infundado de que los inmigrantes haitianos se comen a las mascotas en Ohio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2171393000-e1726432015890.jpg?quality=100&strip=info",
+        "tags": [
+            "mascotas ohio",
+            "noticias de ee.uu.",
+            "instanoticias",
+            "j. d. vance",
+            "inmigrantes haitianos",
+            "ohio",
+            "elecciones ee.uu",
+            "trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/j-d-vance-defiende-rumor-infundado-inmigrantes-haitianos-comen-mascotas-trax/",
+        "date": "2024-09-15 20:27:34",
+        "sentiment_score": -0.7621287237852812
+    },
+    {
+        "title": "Un ataque ruso contra un bloque de apartamentos en Járkiv, Ucrania, deja un muerto y al menos 40 heridos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/ataque-ruso-jarkiv-ucrania.jpg?quality=100&strip=info",
+        "tags": [
+            "rusia",
+            "ucrania",
+            "guerra de rusia en ucrania",
+            "ataque aéreo"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/ataque-ruso-apartamentos-jarkiv-ucrania-muerto-heridos-trax/",
+        "date": "2024-09-15 20:07:19",
+        "sentiment_score": -0.8715516868978739
+    },
+    {
+        "title": "Trump está \"a salvo tras disparos en sus inmediaciones\", dice su campaña en un comunicado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-15T125927.167.jpg?quality=100&strip=info",
+        "tags": [
+            "ee.uu.",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/trump-a-salvo-disparos-inmediaciones-trax/",
+        "date": "2024-09-15 19:07:45",
+        "sentiment_score": -0.3513607122004032
+    },
+    {
+        "title": "Borrell califica al Gobierno de Venezuela como un \"régimen dictatorial y autoritario\", en entrevista con Telecinco",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-15T113309.156.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/borrell-gobierno-venezuela-regimen-dictatorial-autoritario-entrevista-telecinco-orix/",
+        "date": "2024-09-15 17:45:19",
+        "sentiment_score": -0.7857904713600874
+    },
+    {
+        "title": "ANÁLISIS | India tiene un nuevo submarino armado con misiles balísticos con capacidad nuclear. ¿Pero es suficiente para alcanzar a China?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Copia-de-FOTO-PARA-WP-2024-09-15T111547.125.jpg?quality=100&strip=info",
+        "tags": [
+            "india",
+            "defensa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/analisis-india-nuevo-submarino-misiles-balisticos-capacidad-nuclear-china-trax/",
+        "date": "2024-09-15 17:36:10",
+        "sentiment_score": 0.007280632853507996
+    },
+    {
+        "title": "María Corina Machado y Comando con Venezuela llaman a una “movilización global” el 28 de septiembre",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/machado-oposicion-venezuela-movilizacion.jpg?quality=100&strip=info",
+        "tags": [
+            "oposición venezolana",
+            "venezuela",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/15/maria-corina-machado-comando-con-venezuela-movilizacion-global-28-septiembre-orix/",
+        "date": "2024-09-15 17:29:40",
+        "sentiment_score": -0.21832115948200226
+    },
+    {
+        "title": "Sin niños, no hay paraíso",
+        "image_url": "./assets/ai_generated/v1_txt2img_3daac153b5f046218a962405b0c2889f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-ninos-paraiso-20240916234603-nts.html",
+        "date": "2024-09-15 21:47:18",
+        "sentiment_score": -0.1991720050573349
+    },
+    {
+        "title": "El factor Disney",
+        "image_url": "./assets/ai_generated/v1_txt2img_f220fa5098d04418adbfdfa55722ce48.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-factor-disney-20240916234602-nts.html",
+        "date": "2024-09-15 21:46:02",
+        "sentiment_score": -0.22965845465660095
+    },
+    {
+        "title": "¿Para qué sirven los Borbones?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/16/ENFOQUEABC_Borbones_SORMAN-RaIx5rtGwyaWEek5uMzZzbM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-sirven-borbones-20240916192746-nt.html",
+        "date": "2024-09-15 17:48:55",
+        "sentiment_score": -0.06245255470275879
+    },
+    {
+        "title": "Koldo García y otra extraña 'puerta giratoria'",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/16/1482905984-U17164364485KRi-1200x630@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-koldo-garcia-extrana-puerta-giratoria-20240916193311-nt.html",
+        "date": "2024-09-15 17:39:23",
+        "sentiment_score": -0.28062377870082855
+    },
+    {
+        "title": "En defensa de los buenos ciudadanos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/16/1416127409-R2dzCHBDkc2mpMizcclTyUI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/gonzalo-rubio-hernanezsampelayo-defensa-buenos-ciudadanos-20240916193751-nt.html",
+        "date": "2024-09-15 17:37:52",
+        "sentiment_score": -0.10338109731674194
+    },
+    {
+        "title": "Pepe Domingo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/16/1441049534-U70154076565GRR-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-pepe-domingo-20240916193732-nt.html",
+        "date": "2024-09-15 17:37:39",
+        "sentiment_score": -0.02642613649368286
+    },
+    {
+        "title": "Espías bajo palabra del dictador",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/16/1486194328-U23846532013EII-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-espias-bajo-palabra-dictador-20240916172915-nt.html",
+        "date": "2024-09-15 17:37:25",
+        "sentiment_score": -0.3175005465745926
+    },
+    {
+        "title": "Tenía razón Pío XIII",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/16/49252888-U26703707267EDy-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-razon-pio-xiii-20240916193700-nt.html",
+        "date": "2024-09-15 17:37:08",
+        "sentiment_score": -0.1178002655506134
+    },
+    {
+        "title": "Los perros son para comérselos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/16/1486139824-U33523154881lBV-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-perros-comerselos-20240916172122-nt.html",
+        "date": "2024-09-15 17:36:51",
+        "sentiment_score": -0.20809902250766754
+    },
+    {
+        "title": "Moteros y broncanos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/16/1485980659-U57752353254XMr-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-moteros-broncanos-20240916193623-nt.html",
+        "date": "2024-09-15 17:36:33",
+        "sentiment_score": -0.16074292361736298
+    },
+    {
+        "title": "Borrell califica a Venezuela de “régimen dictatorial”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BCW6V644W2QP5MTHZQJXXR5PUE.jpg?auth=d1371fdb30ae4470b9206a20eec6f0334fee9f3ba429a316a76b959aa55b7710",
+        "tags": [
+            "nicolás maduro",
+            "venezuela",
+            "diplomacia",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-09-15/borrell-califica-a-venezuela-de-regimen-dictatorial.html",
+        "date": "2024-09-15 18:11:23",
+        "sentiment_score": -0.039693936705589294
+    },
+    {
+        "title": "Un joven roba el coche a un vecino de Girona y se planta en Croacia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6ZGK4DZ3FNFFBD3EJ7N6MNXKKE.jpg?auth=c1446be8cc84fb2f676b935c51136daffe3aafb5c7a0f03204337ca2502901aa",
+        "tags": [
+            "coches",
+            "deportivos",
+            "francia",
+            "robos",
+            "policía",
+            "mossos d'esquadra",
+            "sucesos",
+            "croacia",
+            "girona",
+            "delitos",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-15/un-joven-roba-el-coche-a-un-vecino-de-girona-y-se-planta-en-croacia.html",
+        "date": "2024-09-15 18:06:35",
+        "sentiment_score": -0.5405316948890686
+    },
+    {
+        "title": "Las perlitas de la goleada del Atlético de Madrid: la gran asistencia de De Paul, el gesto de Griezmann y el meme para Julián Álvarez",
+        "image_url": "https://www.infobae.com/resizer/v2/HOZXC3UPQFFFRAZT33NBZ4Y4WI.JPG?auth=df8cf617a9d29e7f74c40be713f6a40e0038d1f81396b53e6cb1d2fb2bde0fc3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/15/las-perlitas-de-la-goleada-del-atletico-de-madrid-la-gran-asistencia-de-de-paul-el-gesto-de-griezmann-y-el-meme-para-julian-alvarez/",
+        "date": "2024-09-15 22:06:54",
+        "sentiment_score": -0.030025407671928406
+    },
+    {
+        "title": "La empresa granadina que organiza grandes viajes internacionales desde hace cuatro décadas",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/09/16/Imagen%20Viajesgenil2-kWyC-U2201218445367SQH-758x531@Ideal.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/empresa-granadina-organiza-grandes-viajes-internacionales-cuatro-20240916000642-nt.html",
+        "date": "2024-09-15 22:06:43",
+        "sentiment_score": 0.3568915016949177
+    },
+    {
+        "title": "La respuesta contundente de Lamine Yamal cuando le preguntan por el Real Madrid: adiós ‘Chiringuito’",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/16/culemania/culemaniacos/886421350_13448294_1706x960.jpg?contentId=ESPIMA20240916_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20240916/la-contundente-lamine-yamal-real-madrid-chiringuito/886161436_0.html",
+        "date": "2024-09-15 22:06:38",
+        "sentiment_score": -0.46201492846012115
+    },
+    {
+        "title": "El éxito de la exportación española: representa ya el 39% del PIB",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/09/15/TURISMO%20Marilu%20Baez%20Hotel%20en%20Mlaga--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/economia/exito-exportacion-espanola-representa-pib-20240916000303-ntrc.html",
+        "date": "2024-09-15 22:03:05",
+        "sentiment_score": 0.8240990899503231
+    },
+    {
+        "title": "Crónica del Atlético de Madrid - Valencia: 3-0",
+        "image_url": "https://www.infobae.com/resizer/v2/BBZCAMFRS5GBZEZMSW7P52YQOM.jpg?auth=f55aab7690f176c0baf419a7e39c6dd850560c7b36a4bb52cbef49aaf55794a1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/15/cronica-del-atletico-de-madrid-valencia-3-0/",
+        "date": "2024-09-15 22:02:47",
+        "sentiment_score": -0.03396802395582199
+    },
+    {
+        "title": "La pandemia de salud mental en el trabajo continúa: se disparan las bajas laborales en 2024",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/09/16/bajas-1200x840-kiWH-U2201216601838ZID-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/antropia/pandemia-salud-mental-trabajo-continua-disparan-bajas-20240916000222-ntrc.html",
+        "date": "2024-09-15 22:02:23",
+        "sentiment_score": -0.8053609058260918
+    },
+    {
+        "title": "Simeone: \"Todos necesitábamos un gol de Julián Alvarez\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_01a67461165e4fc2b18c7fba841b67d4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/15/simeone-todos-necesitabamos-un-gol-de-julian-alvarez/",
+        "date": "2024-09-15 22:16:51",
+        "sentiment_score": -0.21720638871192932
+    },
+    {
+        "title": "«Las mujeres ya somos mayoría en la carrera judicial, pero el techo de cristal aún persiste»",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/09/15/Imagen%20(97981908)-kJSB--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/gipuzkoa/mujeres-mayoria-carrera-judicial-techo-cristal-persiste-20240916001346-nt.html",
+        "date": "2024-09-15 22:13:56",
+        "sentiment_score": 0.36607589572668076
+    },
+    {
+        "title": "La industria farmacéutica española, lista para asumir los deberes de Draghi",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2024/09/13/17262396460427.jpg",
+        "tags": [
+            "actualidad económica",
+            "salud",
+            "artículos pilar pérez",
+            "industria",
+            "españa",
+            "sanidad",
+            "ciencia y salud",
+            "europa",
+            "mario draghi"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2024/09/16/66e1d44321efa090348b45a2.html",
+        "date": "2024-09-15 22:11:08",
+        "sentiment_score": 0.7549217399209738
+    },
+    {
+        "title": "Jugador del Barcelona se quejó de la expulsión tras la falta a Yaser Aprilla: “No siempre se pita lo mismo”",
+        "image_url": "https://www.infobae.com/resizer/v2/BYENMD5724IKV3TOZ6LEOFGSV4.jpg?auth=af7a001626388ab02f7c57c86e02e8d81405aa4e7c186297cd17b64d4b037c8e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/15/jugador-del-barcelona-se-quejo-de-la-expulsion-tras-la-falta-a-yaser-aprilla-no-siempre-se-pita-lo-mismo/",
+        "date": "2024-09-15 22:09:14",
+        "sentiment_score": -0.05397485941648483
+    },
+    {
+        "title": "El 'culpable' del pelotazo editorial del año",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/09/16/combo-kB0-U22012338490033UE-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/culturas/libros/culpable-pelotazo-editorial-ano-20240916000249-ntrc.html",
+        "date": "2024-09-15 22:02:51",
+        "sentiment_score": -0.8449134714901447
+    },
+    {
+        "title": "Cataluña tiene rey",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/12/vida/793930818_8707058_1706x960.jpg?contentId=ESPIMA20230912_0219",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20240916/cataluna-tiene-rey/886291363_13.html",
+        "date": "2024-09-15 22:00:00",
+        "sentiment_score": -0.4256765991449356
+    },
+    {
+        "title": "AP-7, la desesperación del asfalto",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/10/empresas/793430865_8691194_1706x960.jpg?contentId=ESPIMA20230910_0216",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240916/ap-7-la-desesperacion-del-asfalto/886291366_13.html",
+        "date": "2024-09-15 22:00:00",
+        "sentiment_score": -0.7057570070028305
     }
 ];
