@@ -213,17 +213,6 @@ export default [
         "sentiment_score": -0.5777498222887516
     },
     {
-        "title": "El líder de Hamas envía cartas desde la clandestinidad tras casi un año de silencio",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/sinwar.jpg?quality=100&strip=info",
-        "tags": [
-            "medio oriente",
-            "hamas"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/13/lider-hamas-cartas-clandestinidad-trax/",
-        "date": "2024-09-13 14:00:16",
-        "sentiment_score": -0.29003460705280304
-    },
-    {
         "title": "El cofundador del cártel de Sinaloa 'El Mayo' Zambada se declara «no culpable» ante un tribunal de Nueva York",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/13/el-mayo-k6NE-U6030647495614IG-758x531@diario_abc.jpg",
         "tags": [
@@ -272,56 +261,6 @@ export default [
         "link": "https://www.abc.es/internacional/zelenski-insta-socios-occidentales-permitir-ataques-interior-20240913170958-nt.html",
         "date": "2024-09-13 15:16:30",
         "sentiment_score": -0.06794241070747375
-    },
-    {
-        "title": "Un caso de corrupción en el Tribunal Supremo sacude Chile",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/13/cortesupremachile-RJFcSOs983EjewVcqFzuuMN-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/corrupcion-tribunal-supremo-sacude-chile-20240913154514-nt.html",
-        "date": "2024-09-13 13:53:58",
-        "sentiment_score": -0.1512478142976761
-    },
-    {
-        "title": "La exposición a la polución durante el embarazo aumenta el riesgo de depresión posparto durante al menos tres años",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/09/13/depresion-postparto-RBfhkX90FlFwkraCWMyWWeM-758x531@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/exposicion-polucion-embarazo-aumenta-riesgo-depresion-posparto-20240913153448-nt.html",
-        "date": "2024-09-13 13:34:49",
-        "sentiment_score": -0.16838188469409943
-    },
-    {
-        "title": "Se desvela el misterio del segundo hombre más poderoso de Perú que no puede entrar en EE.UU.",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/11/cesaracuna-R9a6V4mTjPurWn8FdKgvZPJ-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/desvela-misterio-segundo-hombre-poderoso-peru-puede-20240911203632-nt.html",
-        "date": "2024-09-13 13:26:09",
-        "sentiment_score": -0.024883955717086792
-    },
-    {
-        "title": "¿Por qué somos supersticiosos?",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/09/13/espejo-RAdY1BUZYBd0yP9BMOFbUqL-758x531@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/supersticiosos-20240913144109-nt.html",
-        "date": "2024-09-13 12:45:47",
-        "sentiment_score": -0.08497375249862671
-    },
-    {
-        "title": "El fabricante de automóviles chino Chery continúa su expansión en España y sella un acuerdo de 'descarbonización' con Repsol",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/13/FotoacuerdofirmaRepsolyOmoda_Jaecoo-RYjMpXwJjd4xBGnCs4lF3rO-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/fabricante-automoviles-chino-chery-continua-expansion-espana-20240913134449-nt.html",
-        "date": "2024-09-13 12:28:12",
-        "sentiment_score": -0.06538289785385132
     },
     {
         "title": "Los promotores valencianos aplauden el nuevo decreto de vivienda protegida",
@@ -460,49 +399,6 @@ export default [
         "link": "https://elpais.com/espana/2024-09-13/defensa-preve-talar-389-arboles-dentro-de-un-ano-para-reurbanizar-un-barrio-de-sevilla.html",
         "date": "2024-09-13 14:21:45",
         "sentiment_score": 0.19289003871381283
-    },
-    {
-        "title": "En latas de sardinas o lanzados desde un dron: los métodos para ocultar e introducir los móviles en las prisiones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OXFRXJBU4FBK7OTXAF2KC7RHNY.jpeg?auth=b512b8a8ee8bbd66d0f30e31fb1eba1629d92776440309cfa1ee6966b00be713",
-        "tags": [
-            "software",
-            "acaip",
-            "telefonía 4g",
-            "españa",
-            "córdoba",
-            "telefonía 5g",
-            "madrid",
-            "instituciones penitenciarias",
-            "sindicalismo",
-            "telefonía 3g",
-            "ministerio del interior",
-            "prisiones",
-            "presos",
-            "andalucía"
-        ],
-        "link": "https://elpais.com/espana/2024-09-13/en-latas-de-sardinas-o-puerta-a-puerta-con-un-dron-los-metodos-para-ocultar-e-introducir-los-moviles-en-las-prisiones.html",
-        "date": "2024-09-13 13:59:40",
-        "sentiment_score": 0.11016359180212021
-    },
-    {
-        "title": "La Fiscalía advierte al Gobierno canario de que podría incurrir en un delito de abandono de menores si se niega a acogerlos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CFFDTKAQK43EBQFIHGLC3BOUVY.jpg?auth=2fbbba950c2bec98800cd0fd795dcf8514f1e3a8063718c81769a552c7efbee3",
-        "tags": [
-            "inmigrantes africanos",
-            "inmigración",
-            "inmigración irregular",
-            "inmigración irregular españa",
-            "menores migrantes",
-            "gobierno canarias",
-            "áfrica",
-            "inmigrantes",
-            "españa",
-            "canarias",
-            "menores"
-        ],
-        "link": "https://elpais.com/espana/2024-09-13/la-fiscalia-advierte-al-gobierno-canario-de-que-podria-incurrir-en-un-delito-de-abandono-de-menores-si-se-niega-a-acogerlos.html",
-        "date": "2024-09-13 13:44:29",
-        "sentiment_score": -0.02153576910495758
     },
     {
         "title": "Fernando Fernán Gómez 'vuelve' a los teatros pidiendo apagar el móvil",
@@ -7405,5 +7301,391 @@ export default [
         "link": "https://www.diariovasco.com/economia/vivienda/precio-alquiler-piso-compartido-20240917152230-nt.html",
         "date": "2024-09-16 21:56:08",
         "sentiment_score": -0.17537051439285278
+    },
+    {
+        "title": "Estados Unidos, España y República Checa exigieron información sobre sus ciudadanos detenidos por el régimen de Maduro",
+        "image_url": "https://www.infobae.com/resizer/v2/WZS2ZMBP65GXNJ4LFPPX23VGSE.jpg?auth=385a00d683b21646b829f92335ffc1561560a56aa98b9f4246deadd85177bb99",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/venezuela/2024/09/17/estados-unidos-espana-y-republica-checa-exigieron-informacion-sobre-sus-ciudadanos-detenidos-por-el-regimen-de-maduro/",
+        "date": "2024-09-17 00:47:30",
+        "sentiment_score": -0.8084364365786314
+    },
+    {
+        "title": "El ministro de Exteriores de Venezuela se reúne con su embajadora en España tras la crisis diplomática",
+        "image_url": "https://www.infobae.com/resizer/v2/N4JPT7T7TFAR5O2ATMEFA35CSA.jpg?auth=cde0af55688eb99d1ce1a7d0f1700d370c861344280f375bb27d3ccb124e6296",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/17/el-ministro-de-exteriores-de-venezuela-se-reune-con-su-embajadora-en-espana-tras-la-crisis-diplomatica/",
+        "date": "2024-09-17 00:47:20",
+        "sentiment_score": -0.1692793145775795
+    },
+    {
+        "title": "Temas del día de EFE España del martes 17 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_0a64e17005424aeeb700dcc50740633a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/17/temas-del-dia-de-efe-espana-del-martes-17-de-septiembre-de-2024/",
+        "date": "2024-09-17 00:18:00",
+        "sentiment_score": -0.01585579663515091
+    },
+    {
+        "title": "Desempleo en Colombia hace eco a nivel internacional con alto registro en penosa lista que es liderada por España",
+        "image_url": "https://www.infobae.com/resizer/v2/YT62IKY5LBAFDJQQD233AI6DC4.jpeg?auth=fc18dc1e05c56c4599a1501aa0c11b92d4c59d36e0f8242da5b367d7488b36c4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/09/16/desempleo-en-colombia-hace-eco-a-nivel-internacional-con-alto-registro-en-penosa-lista-que-es-liderada-por-espana/",
+        "date": "2024-09-16 23:20:48",
+        "sentiment_score": -0.24067850410938263
+    },
+    {
+        "title": "Comprobar la Quiniela: los resultados ganadores de la jornada 7",
+        "image_url": "https://www.infobae.com/resizer/v2/4ULVQ3YPL5CJ7PYEG2AGLCQU4I.jpg?auth=b4f8bb7c25c0e37a030d31b409d55b2fa97a68c8fcc33d12ef09c6f6e2ed132f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/16/comprobar-la-quiniela-los-resultados-ganadores-de-la-jornada-7/",
+        "date": "2024-09-16 23:15:31",
+        "sentiment_score": 0.01606282964348793
+    },
+    {
+        "title": "Embajadora venezolana en España se reúne en Caracas con canciller para \"definir acciones\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_556aa1c5228745df9e240c1a2df1843d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/16/embajadora-venezolana-en-espana-se-reune-en-caracas-con-canciller-para-definir-acciones/",
+        "date": "2024-09-16 23:01:01",
+        "sentiment_score": 0.09936653077602386
+    },
+    {
+        "title": "Edurne zanca en ‘El Hormiguero’ los constantes rumores de crisis en su relación con De Gea: “El amor abarca mucho más que el estar todos los días juntos. Pesa más el respeto mutuo y la admiración”",
+        "image_url": "https://www.infobae.com/resizer/v2/PME56PEFIFG25IK3J44Q6CME2Y.png?auth=06f9d48badda397775fa2f64027a9456aab400bc8d001d34acaeec4d6e4e84ea",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/16/edurne-zanca-en-el-hormiguero-los-constantes-rumores-de-crisis-en-su-relacion-con-de-gea-el-amor-abarca-mucho-mas-que-el-estar-todos-los-dias-juntos-pesa-mas-el-respeto-mutuo-y-la-admiracion/",
+        "date": "2024-09-16 22:25:03",
+        "sentiment_score": 0.5026937704533339
+    },
+    {
+        "title": "20 años de plata y oro: Místico celebra su aniversario en la lucha libre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/misticothumb4.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "lucha libre",
+            "deporte",
+            "wwe",
+            "méxico",
+            "deportes"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mistico-20-anos-carrera-luchas-orix-digivid/",
+        "date": "2024-09-17 00:27:25",
+        "sentiment_score": 0.7260887585580349
+    },
+    {
+        "title": "ANÁLISIS | Se necesitaron 3 magnicidios para que el Congreso encargara al Servicio Secreto la protección de los presidentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1753711-c-gettyimages-2086634499.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "intento magnicidio trump",
+            "servicio secreto de ee.uu.",
+            "análisis"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/16/analisis-3-magnicidios-congreso-servicio-secreto-proteccion-presidentes-trax/",
+        "date": "2024-09-17 00:04:11",
+        "sentiment_score": -0.45215290784835815
+    },
+    {
+        "title": "Encuentran microplásticos en el tejido nasal de la base del cerebro, según un estudio",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1753648-gettyimages-93106369.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "plástico",
+            "instanoticias",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/16/encuentran-plastico-tejido-nasal-cerebro-trax/",
+        "date": "2024-09-16 23:56:25",
+        "sentiment_score": -0.05592329800128937
+    },
+    {
+        "title": "Venezolanos migran hacia Brasil tras el anuncio que dio victoria a Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2162715139-1.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migracion-venezolanos-brasil-dusa-tv-fast/",
+        "date": "2024-09-16 23:55:27",
+        "sentiment_score": -0.8717957586050034
+    },
+    {
+        "title": "Elon Musk se convertiría en el primer billonario en 2027, según reporte",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/elon-musk-billonario.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "empresas",
+            "dinero",
+            "elon musk"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/musk-fortuna-riqueza-primer-billonario-tesla-ganancias-cnn-dinero-tv/",
+        "date": "2024-09-16 23:47:55",
+        "sentiment_score": 0.4407566413283348
+    },
+    {
+        "title": "¿Por qué existen incendios en casi todas las regiones de Perú?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1753706-gxn5wmnw8aad3ly.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "perú",
+            "incendios forestales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/16/por-que-incendios-todas-regiones-peru-trax/",
+        "date": "2024-09-16 23:38:11",
+        "sentiment_score": -0.614249411970377
+    },
+    {
+        "title": "J.D. Vance admite haber difundido noticias falsas sobre inmigrantes que comían mascotas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/clip-3-20240916231844807.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "mascotas ohio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-vance-polemica-migrants-come-gatos-dusa-tv/",
+        "date": "2024-09-16 23:20:57",
+        "sentiment_score": -0.7611590549349785
+    },
+    {
+        "title": "Gobierno de Joe Biden dice que el número de cruces fronterizos ilegales disminuyó drásticamente",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1753663-c-gettyimages-2164252043.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inmigración",
+            "inmigración estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/16/biden-cruces-fronterizos-ilegales-disminuyo-inmigracion-trax/",
+        "date": "2024-09-16 23:13:21",
+        "sentiment_score": -0.7996401749551296
+    },
+    {
+        "title": "Incidente contra Donald Trump empaña la campaña electoral",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/clip-2.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "ataque trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-trump-elecciones-us-atentado-florida-dusa-tv/",
+        "date": "2024-09-16 23:08:22",
+        "sentiment_score": -0.7379911486059427
+    },
+    {
+        "title": "Gobierno de Venezuela denuncia sin pruebas supuesto plan para matar a Nicolás Maduro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/dusa-1-20240916225402562.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela",
+            "complot"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-denuncia-cia-matar-maduro-dusa-tv/",
+        "date": "2024-09-16 22:57:12",
+        "sentiment_score": -0.8920220425352454
+    },
+    {
+        "title": "¿Por qué son tan peligrosos para EE.UU. los atentados contra Trump?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/16/donlad-tumpantentado-RriL7KbIyJH059X108QPLhM-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pedro-rodriguez-peligrosos-eeuu-atentados-trump-20240916004452-nt.html",
+        "date": "2024-09-16 22:44:53",
+        "sentiment_score": -0.11273267865180969
+    },
+    {
+        "title": "Las personas mayores son las más sensibles a la resistencia a antibióticos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/09/16/salmonella-bacteria--758x531.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/millones-muertes-resistencia-antibioticos-2050-20240917151806-nt.html",
+        "date": "2024-09-16 22:31:00",
+        "sentiment_score": -0.08958253264427185
+    },
+    {
+        "title": "Víctor Martínez, de deshuesar jamones en ElPozo a peluquero de Carlos Alcaraz: cobra 13€",
+        "image_url": "https://s1.elespanol.com/2024/09/16/reportajes/886422296_249240943_1706x960.jpg?contentId=ESPIMA20240916_0947",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240917/victor-martinez-deshuesar-jamones-elpozo-peluquero-carlos-alcaraz-cobra/886411928_0.html",
+        "date": "2024-09-17 00:32:46",
+        "sentiment_score": -0.15672970563173294
+    },
+    {
+        "title": "Países Bajos arruina la fiesta de Colombia y clasifica a semifinales del Mundial femenino Sub 20",
+        "image_url": "./assets/ai_generated/v1_txt2img_1f235c5197584edebe7eac622e545947.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-09-16/paises-bajos-arruina-la-fiesta-de-colombia-y-clasifica-a-semifinales-del-mundial-femenino-sub-20",
+        "date": "2024-09-17 00:17:57",
+        "sentiment_score": 0.16562986373901367
+    },
+    {
+        "title": "Bellingham, Tchouameni y Militao jugarán por Real Madrid en su debut de la Liga de Campeones",
+        "image_url": "./assets/ai_generated/v1_txt2img_ecdf686536ec40afadc0405b587fcc02.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-09-16/bellingham-tchouameni-y-militao-jugaran-por-real-madrid-en-su-debut-de-la-liga-de-campeones",
+        "date": "2024-09-17 00:12:43",
+        "sentiment_score": 0.15984010696411133
+    },
+    {
+        "title": "Almeida: \"Con una familia y un salario medio, se puede vivir a 15 minutos del centro de Madrid\"",
+        "image_url": "https://s1.elespanol.com/2024/09/16/madrid/capital/886422347_249242459_1706x960.jpg?contentId=ESPIMA20240916_0998",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20240917/almeida-familia-salario-medio-puede-vivir-minutos-centro-madrid/886161381_0.html",
+        "date": "2024-09-17 00:12:28",
+        "sentiment_score": -0.9197674244642258
+    },
+    {
+        "title": "Lobato 'alarga la agonía': no desvela qué hará el PSM con la comisión de investigación sobre la UCM y Begoña Gómez",
+        "image_url": "https://s1.elespanol.com/2023/09/14/espana/politica/794431380_236061027_1706x960.jpg?contentId=ESPIMA20230914_0831",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20240917/lobato-alarga-agonia-no-desvela-hara-psm-comision-investigacion-ucm-begona-gomez/886411850_0.html",
+        "date": "2024-09-17 00:12:24",
+        "sentiment_score": -0.3532431498169899
+    },
+    {
+        "title": "Barcelona: Dani Olmo se perderá 4-5 semanas por lesión en bíceps femoral",
+        "image_url": "./assets/ai_generated/v1_txt2img_566fad71465c4b839f19ef7d79764357.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-09-16/barcelona-dani-olmo-se-perdera-4-5-semanas-por-lesion-en-biceps-femoral",
+        "date": "2024-09-17 00:05:31",
+        "sentiment_score": -0.9081176724284887
+    },
+    {
+        "title": "Jude Bellingham regresa con Real Madrid para su debut en Champions",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/09/AP24108797538441.jpg",
+        "tags": [
+            "real madrid",
+            "jude bellingham",
+            "uefa champions league",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/09/16/jude-bellingham-regresa-con-real-madrid-para-su-debut-en-champions/",
+        "date": "2024-09-16 23:51:00",
+        "sentiment_score": 0.013600006699562073
+    },
+    {
+        "title": "Un año sin Pepe Domingo Castaño: el \"dolor insuperable\" de su mujer, Tere, y el ejemplo de sus dos hijos, Hugo y Óscar",
+        "image_url": "https://s1.elespanol.com/2024/09/16/corazon/famosos/886421692_249222271_1706x960.jpg?contentId=ESPIMA20240916_0343",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20240917/ano-sin-pepe-domingo-castano-dolor-insuperable-mujer-tere-ejemplo-hijos-hugo-oscar/886411548_0.html",
+        "date": "2024-09-16 23:42:33",
+        "sentiment_score": 0.215768001973629
+    },
+    {
+        "title": "La sorprendente decisión que tomó Julián Álvarez con la camiseta con la que marcó su primer gol en el Atlético de Madrid",
+        "image_url": "./assets/ai_generated/v1_txt2img_77a0623f44964aa487343b45c351d804.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/16/la-sorprendente-decision-que-tomo-julian-alvarez-con-la-camiseta-con-la-que-marco-su-primer-gol-en-el-atletico-de-madrid/",
+        "date": "2024-09-16 23:39:57",
+        "sentiment_score": 0.1915535256266594
+    },
+    {
+        "title": "Óscar Puente ningunea a León e impulsa el nodo logístico más grande de España en Valladolid",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/16/66e86e00d88a4.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/240917/1620341/puente-ningunea-leon-e-impulsa-nodo-logistico-grande-espana-valladolid.html",
+        "date": "2024-09-17 01:30:00",
+        "sentiment_score": 0.21574922651052475
+    },
+    {
+        "title": "‘The Next Generation’: El FC Barcelona estrena serie del equipo de fútbol",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/09/AP24230785768936-e1726534010143.jpg",
+        "tags": [
+            "fc barcelona",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/09/16/the-next-generation-el-fc-barcelona-estrena-serie-del-equipo-de-futbol/",
+        "date": "2024-09-17 00:47:52",
+        "sentiment_score": 0.11381002329289913
+    },
+    {
+        "title": "De Barcelona a Venecia: el desafío del turismo de masas",
+        "image_url": "https://s.france24.com/media/display/e4449c82-73e9-11ef-9cbf-005056a90284/w:1024/p:16x9/8022185823001w-1.png",
+        "tags": [
+            "en primera plana"
+        ],
+        "link": "https://www.france24.com/es/programas/en-primera-plana/20240917-de-barcelona-a-venecia-el-desaf%C3%ADo-del-turismo-de-masas",
+        "date": "2024-09-17 00:45:02",
+        "sentiment_score": 0.22808149456977844
+    },
+    {
+        "title": "El Rayo remonta en el debut de James Rodríguez",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2024/09/RAYO_James.jpg",
+        "tags": [
+            "laliga",
+            "osasuna",
+            "deportes",
+            "fútbol",
+            "vallecano"
+        ],
+        "link": "https://correodelcaroni.com/deportes/el-rayo-remonta-en-el-debut-de-james-rodriguez/",
+        "date": "2024-09-17 00:33:31",
+        "sentiment_score": 0.6138958781957626
+    },
+    {
+        "title": "William Cárdenas, el torero que da voz a los venezolanos de Madrid: 'ZP es un colaboracionista'",
+        "image_url": "https://s1.elespanol.com/2024/09/13/reportajes/885672462_249242603_1706x960.jpg?contentId=ESPIMA20240913_1038",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240917/william-cardenas-torero-da-voz-venezolanos-madrid-zp-colaboracionista/885662038_0.html",
+        "date": "2024-09-17 00:33:23",
+        "sentiment_score": -0.8814075337722898
+    },
+    {
+        "title": "Buscan a un hombre acusado de amputar la mano de su pareja en Santa Coloma",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/09/11/un-coche-de-los-mossos-fotografiado-en-las-calles-de-barcelona.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/buscan-hombre-acusado-amputar-mano-pareja-santa-coloma.html",
+        "date": "2024-09-17 00:32:46",
+        "sentiment_score": -0.6882702857255936
+    },
+    {
+        "title": "Aena pone en el foco el El Prat con Illa en la Generalitat: reformará la zona de restauración de la T1 y T2",
+        "image_url": "https://s1.elespanol.com/2024/09/16/invertia/empresas/turismo/886421743_249223859_1706x960.jpg?contentId=ESPIMA20240916_0394",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20240917/aena-pone-foco-prat-illa-generalitat-reformara-zona-restauracion-t1-t2/886411575_0.html",
+        "date": "2024-09-17 00:23:33",
+        "sentiment_score": 0.08610545098781586
+    },
+    {
+        "title": "De Bob Dylan a Ramones: la libreta que explica la historia del rock en Barcelona",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/09/16/949A2E1C-79BB-4BCA-ADDE-7DD04991209C/firma-bob-dylan-paso-barcelona-1984_96.jpg?crop=1821%2C1024%2Cx0%2Cy581&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/bob-dylan-ramones-libreta-que-explica-historia-rock-barcelona_2024091766e8cbf53c87870001e21b4f.html",
+        "date": "2024-09-17 00:23:17",
+        "sentiment_score": 0.14797893166542053
     }
 ];
