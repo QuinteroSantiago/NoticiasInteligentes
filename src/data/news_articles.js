@@ -131,50 +131,6 @@ export default [
         "sentiment_score": -0.7505548000335693
     },
     {
-        "title": "Disney y DirecTV llegan a un acuerdo para restaurar ABC, ESPN y otros canales",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/disney-directv.jpg?quality=100&strip=info",
-        "tags": [
-            "negocios",
-            "disney"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/14/disney-directv-acuerdo-abc-espn-trax/",
-        "date": "2024-09-14 14:19:19",
-        "sentiment_score": 0.05601407587528229
-    },
-    {
-        "title": "Alemania abre sus puertas a trabajadores kenianos en un acuerdo de migración controlada",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/kenia-alemania.jpg?quality=100&strip=info",
-        "tags": [
-            "inmigración",
-            "kenia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/14/alemania-abre-sus-puertas-a-trabajadores-kenianos-en-un-acuerdo-de-migracion-controlada/",
-        "date": "2024-09-14 11:58:08",
-        "sentiment_score": 0.5092463865876198
-    },
-    {
-        "title": "Vuelo IC 814: ¿qué pasó con el secuestro del avión de Indian Airlines?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-1251756090-e1725929806317.jpg?quality=100&strip=info",
-        "tags": [
-            "secuestro",
-            "asia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/14/vuelo-ic-814-secuestro-avion-indian-airlines-orix/",
-        "date": "2024-09-14 11:15:24",
-        "sentiment_score": -0.6271083485335112
-    },
-    {
-        "title": "ANÁLISIS | ¿Cómo sigue la lucha de la oposición en Venezuela?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2168129568.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones en venezuela",
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/14/oposicion-venezuela-lucha-analisis-orix/",
-        "date": "2024-09-14 11:00:32",
-        "sentiment_score": -0.8304389379918575
-    },
-    {
         "title": "Venezuela",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/15/1486054399-U43513272633Vka-1200x630@diario_abc.jpg",
         "tags": [
@@ -193,26 +149,6 @@ export default [
         "link": "https://www.abc.es/internacional/tres-estadounidenses-condenados-muerte-intento-golpe-estado-20240914170807-nt.html",
         "date": "2024-09-14 15:27:20",
         "sentiment_score": -0.24972093105316162
-    },
-    {
-        "title": "Marine Le Pen sigue creciendo en popularidad, según las encuestas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/14/marine-lepen-RG6E875WbIuaiksAzSlZbZM-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/marine-pen-sigue-creciendo-popularidad-segun-encuestas-20240914163514-nt.html",
-        "date": "2024-09-14 14:40:19",
-        "sentiment_score": -0.13526833057403564
-    },
-    {
-        "title": "Eurofighter alemanes interceptan un avión militar ruso sobre el mar Báltico",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/14/eurofighter-RK6ToD5AvxerbSgYqtghaoM-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eurofighter-alemanes-interceptan-avion-militar-ruso-sobre-20240914122156-nt.html",
-        "date": "2024-09-14 10:29:03",
-        "sentiment_score": -0.13695202767848969
     },
     {
         "title": "La Fiscalía acusa al Gobierno canario de discriminar a los menores migrantes por su origen",
@@ -7055,5 +6991,509 @@ export default [
         "link": "https://autonomico.elconfidencialdigital.com/articulo/muy_confidencial/granada-leon-destinos-mas-demandados-escapada-otono/20240918000000138037.html",
         "date": "2024-09-17 22:00:00",
         "sentiment_score": 0.35316233336925507
+    },
+    {
+        "title": "El rey recibe hoy a Illa en la Zarzuela, primera reunión con un jefe del Govern en 9 años",
+        "image_url": "./assets/ai_generated/v1_txt2img_29888e62fe7540f18c490b79b169eca8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/18/el-rey-recibe-hoy-a-illa-en-la-zarzuela-primera-reunion-con-un-jefe-del-govern-en-9-anos/",
+        "date": "2024-09-18 02:45:56",
+        "sentiment_score": 0.22383730113506317
+    },
+    {
+        "title": "Clima en Málaga: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/XCDKNIKEZVDANJHW2J7Y52J27E.jpg?auth=d9afeba64f8017281614577c9c79100776cb5d162bd2bf8a9567ca0e2e3c0e28",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/18/clima-en-malaga-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2024-09-18 02:01:56",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Pronóstico del clima en Madrid para antes de salir de casa este 18 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2KBJ6YAMUJEIZPDG3NDO4PPOXU.jpg?auth=4c10891bc2d93c63fcf1052ca796cff5615abf1b0b018519212e534136c100c3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/18/pronostico-del-clima-en-madrid-para-antes-de-salir-de-casa-este-18-de-septiembre/",
+        "date": "2024-09-18 01:31:24",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Predicción del clima en Barcelona para antes de salir de casa este 18 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/X6LMPH3UQFCBVKXYCGUEGDFPKU.jpg?auth=09724db41760cb16e898182cfb381ce2474012563633bcfef30e643d52b7ffe7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/18/prediccion-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-18-de-septiembre/",
+        "date": "2024-09-18 01:01:27",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Japón registró un déficit comercial de 4.405 millones de euros en agosto",
+        "image_url": "./assets/ai_generated/v1_txt2img_a67986cda05a466097f0e780f73b6e1b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/18/japon-registro-un-deficit-comercial-de-4405-millones-de-euros-en-agosto/",
+        "date": "2024-09-18 00:47:09",
+        "sentiment_score": -0.6631900444626808
+    },
+    {
+        "title": "El régimen de Maduro avanza en su plan de romper relaciones con España: el Parlamento ya presentó un proyecto de acuerdo",
+        "image_url": "https://www.infobae.com/resizer/v2/IMVF2HMG7BDBLC4PX7CTNISKEU.jpg?auth=38c64cdca5f32022826958641305a4944f292116a03d38e8d7c7ce89a9403f12",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/venezuela/2024/09/17/el-regimen-de-maduro-avanza-en-su-plan-de-romper-relaciones-con-espana-el-parlamento-ya-presento-un-proyecto-de-acuerdo/",
+        "date": "2024-09-17 23:32:36",
+        "sentiment_score": -0.39925993978977203
+    },
+    {
+        "title": "Melilla reivindica su españolidad y busca ya en Europa una mayor integración política",
+        "image_url": "./assets/ai_generated/v1_txt2img_e1c5b87ac7a24500b633d6c63f78d18d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/17/melilla-reivindica-su-espanolidad-y-busca-ya-en-europa-una-mayor-integracion-politica/",
+        "date": "2024-09-17 23:17:09",
+        "sentiment_score": 0.278604194521904
+    },
+    {
+        "title": "España, destino de 84 estudiantes peruanos gracias a becas \"instrumentos de excelencia\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_4e45d29ce83a4501b5909cb2b4596c34.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/17/espana-destino-de-84-estudiantes-peruanos-gracias-a-becas-instrumentos-de-excelencia/",
+        "date": "2024-09-17 23:16:52",
+        "sentiment_score": 0.7098523918539286
+    },
+    {
+        "title": "La petrolera argentina YPF acuerda ceder áreas maduras a Bentia Energy",
+        "image_url": "./assets/ai_generated/v1_txt2img_97a054c04ac947a996419ba1bf436ffb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/17/la-petrolera-argentina-ypf-acuerda-ceder-areas-maduras-a-bentia-energy/",
+        "date": "2024-09-17 23:05:01",
+        "sentiment_score": 0.10898803174495697
+    },
+    {
+        "title": "El uruguayo Diego Lezcano, conectado a ventilación no invasiva",
+        "image_url": "./assets/ai_generated/v1_txt2img_b4b7fade7be7453ea1f39bf921627232.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/17/el-uruguayo-diego-lezcano-conectado-a-ventilacion-no-invasiva/",
+        "date": "2024-09-17 23:04:22",
+        "sentiment_score": 0.07706349343061447
+    },
+    {
+        "title": "\"Es una verdadera lástima”, dice Harris sobre rumores falsos de que en Springfield comen perros y gatos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172683524-20240918022046816.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "fast – news variety",
+            "kamala harris",
+            "perros",
+            "xpress",
+            "springfield",
+            "gatos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/una-verdadera-lastima-springfield-kamala-harris-trax-digivid/",
+        "date": "2024-09-18 02:23:08",
+        "sentiment_score": -0.9074079366400838
+    },
+    {
+        "title": "Experto respalda intención de Noboa de permitir de nuevo bases extranjeras en Ecuador",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2158032496.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "daniel noboa",
+            "ecuador",
+            "narcotráfico",
+            "violencia ecuador"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/violencia-ecuador-narco-militares-noboa-inseguridad-enfrentamiento-conclusiones-tv/",
+        "date": "2024-09-18 02:03:31",
+        "sentiment_score": -0.06943072378635406
+    },
+    {
+        "title": "La sonda espacial Voyager 1, de 47 años de antigüedad, enciende propulsores que no había utilizado en décadas",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/bc/media_thumb_2x-link-3980333.webp",
+        "tags": [
+            "voyager 1",
+            "encendido",
+            "propulsores",
+            "sonda espacial",
+            "ciencia"
+        ],
+        "link": "https://www.meneame.net/story/sonda-espacial-voyager-1-47-anos-antiguedad-enciende-propulsores",
+        "date": "2024-09-18 01:20:07",
+        "sentiment_score": -0.08774171769618988
+    },
+    {
+        "title": "CIDH: Sin independencia judicial, no hay derechos humanos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170824857.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/derechos-humanos-riesgo-reforma-judicial-aristegui-tv/",
+        "date": "2024-09-18 00:57:10",
+        "sentiment_score": -0.6741899847984314
+    },
+    {
+        "title": "Comisionada de la CIDH: México necesita una reforma judicial, pero no la actual",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2167646479-20240918004700599.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-judicial-cidh-independencia-poderes-amlo-aristegui-tv/",
+        "date": "2024-09-18 00:52:00",
+        "sentiment_score": -0.42644208669662476
+    },
+    {
+        "title": "El brexit “sofoca” el comercio de Gran Bretaña con Europa y el problema está empeorando",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1754320-gettyimages-1247556041.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "gran bretaña",
+            "unión europa",
+            "macroeconomía",
+            "brexit",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/17/brexit-comercio-gran-bretana-europa-trax/",
+        "date": "2024-09-18 00:37:39",
+        "sentiment_score": -0.706583920866251
+    },
+    {
+        "title": "Kyiv investiga la presunta ejecución de un soldado ucraniano por parte de Rusia con una espada inscrita con la frase \"por Kursk\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1754281-rusia-kursk.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra de rusia en ucrania",
+            "rusia",
+            "ucrania",
+            "kursk"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/17/kyiv-investiga-presunta-ejecucion-soldado-ucraniano-rusia-espada-por-kursk-trax/",
+        "date": "2024-09-17 23:52:11",
+        "sentiment_score": -0.543108131736517
+    },
+    {
+        "title": "Ron DeSantis, gobernador de Florida, anuncia investigación estatal sobre el intento de asesinato contra Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172607660.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/de-santis-florida-investigacion-atentado-donald-trump-dusa-tv-fast/",
+        "date": "2024-09-17 23:07:00",
+        "sentiment_score": -0.24809149652719498
+    },
+    {
+        "title": "Ideas para afrontar el estrés parental, según un experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1230549403.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de salud",
+            "estrés",
+            "familia",
+            "salud mental",
+            "xpress",
+            "fast – news variety",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estres-parental-minuto-de-salud-fast/",
+        "date": "2024-09-17 23:06:50",
+        "sentiment_score": -0.6892187241464853
+    },
+    {
+        "title": "ANÁLISIS | La oleada de explosiones de buscapersonas en el Líbano es un mensaje para Hezbollah",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1754305-2024-09-17t212001z-872176529-rc2i2aa8swju-rtrmadp-3-israel-palestinians-hezbollah.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hezbollah",
+            "análisis"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/17/analisis-oleada-explosiones-buscapersonas-libano-mensaje-hezbollah-trax/",
+        "date": "2024-09-17 22:58:50",
+        "sentiment_score": -0.7093531154096127
+    },
+    {
+        "title": "Deutsche Bank se plantea entrar en Commerzbank para frenar al italiano UniCredit",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/18/Commerzbankreuters-Ruwbd38p1nm51iJKKeMaWhP-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/deutsche-bank-plantea-entrar-commerzbank-frenar-italiano-20240918041707-nt.html",
+        "date": "2024-09-18 02:20:37",
+        "sentiment_score": -0.12444561719894409
+    },
+    {
+        "title": "Sánchez firma hoy con los agentes sociales el pacto para compaginar trabajo y pensión",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/18/EuropaPress_3819536_i_d_secretario_general_ugt_pepe_alvarez_secretario_general_ccoo_unai_sordo-RolRH83iWJeISXlMfbjhlLM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sanchez-firma-hoy-agentes-sociales-pacto-compaginar-20240918040713-nt.html",
+        "date": "2024-09-18 02:07:14",
+        "sentiment_score": -0.020601779222488403
+    },
+    {
+        "title": "Montero se queda sin una funcionaria clave del área de Presupuestos en plena recta final de las cuentas de 2025",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/18/Monterogascngualda-RYNP8IbWPKIKdnXRdYOTHEI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/montero-queda-funcionaria-clave-area-presupuestos-plena-20240918040654-nt.html",
+        "date": "2024-09-18 02:06:54",
+        "sentiment_score": -0.07334356009960175
+    },
+    {
+        "title": "Miedo en la oposición a que Maduro enfrente a María Corina Machado y a Edmundo González",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/17/ledezma-alcalde-RrAWi33atFR4hzIigOP9WKO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/miedo-oposicion-maduro-enfrente-corina-edmundo-20240917185259-nt.html",
+        "date": "2024-09-18 02:06:24",
+        "sentiment_score": -0.10087788105010986
+    },
+    {
+        "title": "El paro sitúa a España a la cabeza del índice de miseria económica en Europa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/18/1483806918-ReTgnlqlGyQYjoeu4jJpVPP-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/paro-situa-espana-cabeza-indice-miseria-economica-20240918183735-nt.html",
+        "date": "2024-09-18 02:04:13",
+        "sentiment_score": -0.21295727789402008
+    },
+    {
+        "title": "El ministro de Exteriores de Venezuela pide a Albares que «condene el terrorismo» y «asuma el Derecho Internacional»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/18/albares-edmundo-kyxB-U6030812197772pE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ministro-exteriores-venezuela-pide-albares-condene-terrorismo-20240918040114-nt.html",
+        "date": "2024-09-18 02:01:14",
+        "sentiment_score": -0.09904468059539795
+    },
+    {
+        "title": "Hallan variantes en genes específicos de los ancestros, vinculadas al riesgo de esclerosis múltiple",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/09/17/Escleros-multiple.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/hallan-variantes-genes-especificos-ancestros-vinculadas-riesgo-20240917142328-nt.html",
+        "date": "2024-09-17 23:23:00",
+        "sentiment_score": -0.1468321532011032
+    },
+    {
+        "title": "Florentino Pérez prepara un golpe de efecto con la Superliga tras el revés millonario del Bernabéu",
+        "image_url": "https://media.vozpopuli.com/2022/10/Florentino-Perez-e1665606842895-1024x576.jpg",
+        "tags": [
+            "alemania",
+            "fc barcelona",
+            "fifa",
+            "real madrid",
+            "múnich",
+            "uefa",
+            "santiago bernabéu",
+            "empresas",
+            "jp morgan",
+            "superliga europea",
+            "florentino pérez",
+            "bayern de múnich"
+        ],
+        "link": "https://www.vozpopuli.com/economia_y_finanzas/empresas/florentino-perez-prepara-golpe-efecto-superliga-tras-reves-millonario-bernabeu.html",
+        "date": "2024-09-18 02:45:00",
+        "sentiment_score": 0.5802857950329781
+    },
+    {
+        "title": "Qué fue de Manu Tenorio, el 'olvidado' cantante ahora 'víctima' de una okupación",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/europapress-3990121-cantante-manu-tenorio-estreno-mundial-show-musical-gastronomico-wah-feria_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/manu-tenorio-se-defiende-las-acusaciones-podemos-y-apoyo-sus-inquiokupas",
+        "date": "2024-09-18 02:45:00",
+        "sentiment_score": -0.8631502082571387
+    },
+    {
+        "title": "Paola Jara se rindió a los pies de Karol G: “Nos has puesto a soñar a todas las mujeres”",
+        "image_url": "https://www.infobae.com/resizer/v2/PETCNXKMZVGBXOBVDWAAOW3IK4.jpg?auth=133dd2f201ddec775e219b4c1449b266461e77f5306a9b744199b493e66163b5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/09/18/paola-jara-se-rindio-a-los-pies-de-karol-g-nos-has-puesto-a-sonar-a-todas-las-mujeres/",
+        "date": "2024-09-18 02:34:26",
+        "sentiment_score": 0.45792973041534424
+    },
+    {
+        "title": "Álvaro Nieto explica hoy en un desayuno informativo los nuevos planes de TO",
+        "image_url": "https://theobjective.com/wp-content/uploads/2024/09/NIETO-FORO-1709-02-1200x675.jpg",
+        "tags": [
+            "medios de comunicación",
+            "the objective",
+            "juan luis cebrián",
+            "álvaro nieto"
+        ],
+        "link": "https://theobjective.com/medios/2024-09-18/alvaro-nieto-desayuno-informativo-planes-to/",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": 0.14115583151578903
+    },
+    {
+        "title": "⁠Natalia Azahara: «Donde vi droga por primera vez en mi vida fue en España, no en Colombia»",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/09/PORTADA-469x317.jpg",
+        "tags": [
+            "actrices",
+            "jane fonda",
+            "cine",
+            "cultura",
+            "antonio resines",
+            "bambalina"
+        ],
+        "link": "https://theobjective.com/cultura/2024-09-18/%E2%81%A0natalia-azahara-droga-primera-vez-espana-no-colombia/",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": 0.3074973374605179
+    },
+    {
+        "title": "Madrid da la Medalla de las Artes a Manuel Alejandro, el compositor detrás de 500 canciones legendarias de amor",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/09/17/66e9a41850b76.r_d.2320-1165-2903.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.eldebate.com/espana/madrid/20240918/madrid-da-medalla-artes-manuel-alejandro-compositor-detras-500-canciones-legendarias-amor_228217.html",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": 0.6965000815689564
+    },
+    {
+        "title": "Veinte ciudades tienen más del doble de alquileres de temporada que hace un año",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/09/contactophoto-0804768137-scaled-e1694552750834-469x317.jpg",
+        "tags": [
+            "precios del alquiler",
+            "ley de vivienda",
+            "vivienda",
+            "alquiler de viviendas",
+            "inmobiliario",
+            "economía",
+            "alquiler"
+        ],
+        "link": "https://theobjective.com/economia/2024-09-18/veinte-ciudades-alquileres-temporada/",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": -0.44715259596705437
+    },
+    {
+        "title": "Sánchez busca un sustituto para Ribera que dé la batalla en el Congreso o apuntale su plan 'verde'",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/04/24/li_ribera-pedro-sanchez-ep.jpeg",
+        "tags": [
+            "economía y finanzas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sanchez-busca-sustituto-ribera-batalle-congreso-apuntale-plan-verde-5634558/",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": -0.5604860633611679
+    },
+    {
+        "title": "Sánchez plantea medidas de transparencia mientras su Gobierno bate récords de opacidad",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/09/rueda-prensa-medios-469x317.jpg",
+        "tags": [
+            "pedro sánchez",
+            "españa",
+            "transparencia",
+            "psoe"
+        ],
+        "link": "https://theobjective.com/espana/2024-09-18/sanchez-medidas-transparencia-records-opacidad/",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": 0.5046346671879292
+    },
+    {
+        "title": "Así fueron las dos reuniones de Ayuso y Sánchez: una en Sol, otra en Moncloa y ambas con orden del día",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/09/17/66e988ed35170.png",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.eldebate.com/espana/madrid/20240918/asi-fueron-dos-reuniones-ayuso-sanchez-sol-otra-moncloa-ambas-orden-dia_228147.html",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": 0.028941884636878967
+    },
+    {
+        "title": "Vueling aumenta su oferta de vuelos entre Jerez y Barcelona hasta octubre",
+        "image_url": "https://static.grupojoly.com/clip/08557b39-1716-40b4-9802-f74a8621109c_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodejerez.es/jerez/vueling-aumenta-oferta-vuelos-jerez_0_2002393267.html",
+        "date": "2024-09-18 02:45:12",
+        "sentiment_score": 0.5164968501776457
+    },
+    {
+        "title": "BBVA y Sabadell meten miedo a los accionistas para condicionar la opa antes de la autorización de la CNMV",
+        "image_url": "https://media.vozpopuli.com/2024/07/oliu_torres_bbva-1024x576.jpg",
+        "tags": [
+            "banca",
+            "bbva",
+            "carlos torres",
+            "economía",
+            "cnmc",
+            "banco sabadell",
+            "cnmv",
+            "opa",
+            "césar gonzález-bueno"
+        ],
+        "link": "https://www.vozpopuli.com/economia_y_finanzas/bbva-y-sabadell-meten-miedo-accionistas-para-condicionar-opa-antes-autorizacion-cnmv.html",
+        "date": "2024-09-18 02:45:00",
+        "sentiment_score": -0.901990189217031
+    },
+    {
+        "title": "De Barcelona a Madrid, el siniestro viaje de un pederasta en serie: robó fentanilo y adrenalina de un hospital",
+        "image_url": "https://media.vozpopuli.com/2024/09/Imagen-Policia-Municipal-pederasta-1024x576.jpg",
+        "tags": [
+            "madrid",
+            "pederasta",
+            "explícito",
+            "sucesos",
+            "policía municipal madrid"
+        ],
+        "link": "https://www.vozpopuli.com/espana/madrid/barcelona-madrid-siniestro-viaje-pederasta-serie-robo-fentanilo-adrenalina-hospital.html",
+        "date": "2024-09-18 02:45:00",
+        "sentiment_score": -0.8831829084083438
+    },
+    {
+        "title": "La normalidad institucional de Illa choca con su despliegue de políticas nacionalistas",
+        "image_url": "https://media.vozpopuli.com/2024/09/illa01-1024x576.jpg",
+        "tags": [
+            "cataluña",
+            "salvador illa"
+        ],
+        "link": "https://www.vozpopuli.com/espana/cataluna/normalidad-institucional-illa-choca-despliegue-politicas-nacionalistas.html",
+        "date": "2024-09-18 02:45:00",
+        "sentiment_score": -0.9203778868541121
+    },
+    {
+        "title": "Los restaurantes de la Boqueria presentan el 'Menú Copa América'",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/06/13/666ac456c5225.r_d.2750-884-2137.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20240918/restaurantes-boqueria-presentan-menu-copa-america_227950.html",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": -0.20162144303321838
+    },
+    {
+        "title": "Broncano triunfa en Cataluña: arrebata a TV3 el liderazgo desde su arranque en TVE",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/09/revuelta-broncano-semana-469x317.jpeg",
+        "tags": [
+            "david broncano",
+            "tv3",
+            "tve",
+            "audiencias de medios",
+            "medios de comunicacion",
+            "rtve",
+            "medios de comunicación"
+        ],
+        "link": "https://theobjective.com/medios/2024-09-18/broncano-triunfa-cataluna/",
+        "date": "2024-09-18 02:30:00",
+        "sentiment_score": -0.39607828855514526
     }
 ];
