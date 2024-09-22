@@ -1,235 +1,5 @@
 export default [
     {
-        "title": "Qué pasa si te vas de viaje estando de baja laboral",
-        "image_url": "https://www.infobae.com/resizer/v2/WJSUOHQZ55CKDAWVV23TMLHTHU.jpg?auth=2266c0e8fd8d137d1d446e78a8801ace48f74258e47c3740323f7b68d8ad67cb",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/18/que-pasa-si-te-vas-de-viaje-estando-de-baja-laboral/",
-        "date": "2024-09-18 06:10:32",
-        "sentiment_score": -0.6368634812533855
-    },
-    {
-        "title": "Estos son los rasgos que comparten las personas que tienen su móvil en silencio",
-        "image_url": "https://www.infobae.com/resizer/v2/BMUWV3PITZESDHMJYSTZGIYAXQ.jpg?auth=bdd3728e63022e956ca9faf3ee2a842b0f8d0feb1c0032c33bf8dc66118b2fed",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/18/estos-son-los-rasgos-que-comparten-las-personas-que-tienen-su-movil-en-silencio/",
-        "date": "2024-09-18 06:07:58",
-        "sentiment_score": 0.24203795939683914
-    },
-    {
-        "title": "Sánchez afronta hoy en el Congreso su primera sesión de control tras el parón estival con preguntas de PP, Vox y ERC",
-        "image_url": "https://www.infobae.com/resizer/v2/GUUNAGZKMNF4HLMPJPREBG6ERM.jpg?auth=17ff9b382476beac0beb5434e5c4fef5e6cd7f002bdfccf68ca847d96b91e8cb",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/18/sanchez-afronta-hoy-en-el-congreso-su-primera-sesion-de-control-tras-el-paron-estival-con-preguntas-de-pp-vox-y-erc/",
-        "date": "2024-09-18 06:05:24",
-        "sentiment_score": -0.49211201816797256
-    },
-    {
-        "title": "El PP recupera la \"corrupción\" para el Pleno del Congreso de hoy con preguntas sobre Koldo y Begoña Gómez",
-        "image_url": "https://www.infobae.com/resizer/v2/6TMZWWOPBNBQ7HCTRSGKSFOCOY.jpg?auth=68e729cd14facdabe3e082aba8be5e427eaa05a88deb3371627bcd642fe66058",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/18/el-pp-recupera-la-corrupcion-para-el-pleno-del-congreso-de-hoy-con-preguntas-sobre-koldo-y-begona-gomez/",
-        "date": "2024-09-18 06:05:12",
-        "sentiment_score": -0.4995489940047264
-    },
-    {
-        "title": "Reynders viaja hoy a Madrid para hacer balance del desbloqueo del CGPJ con reuniones con Feijóo y Bolaños",
-        "image_url": "./assets/ai_generated/v1_txt2img_0aa74d9c212941f6a17b804180fc5fb9.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/18/reynders-viaja-hoy-a-madrid-para-hacer-balance-del-desbloqueo-del-cgpj-con-reuniones-con-feijoo-y-bolanos/",
-        "date": "2024-09-18 06:04:45",
-        "sentiment_score": -0.001209840178489685
-    },
-    {
-        "title": "El CIS publica hoy su barómetro de septiembre, el primero tras el pacto PSC-ERC sobre la financiación singular",
-        "image_url": "https://www.infobae.com/resizer/v2/UKHLIPFIPZBU7FNURO7L657D7Q.jpg?auth=039dc21d36f2f053489577a82e5d52274edbf2ac40be8f760143cccbdd2c18ff",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/18/el-cis-publica-hoy-su-barometro-de-septiembre-el-primero-tras-el-pacto-psc-erc-sobre-la-financiacion-singular/",
-        "date": "2024-09-18 06:04:28",
-        "sentiment_score": 0.06109444797039032
-    },
-    {
-        "title": "El cerebro de las personas y los perros se sincroniza cuando se miran a los ojos, según la ciencia",
-        "image_url": "https://www.infobae.com/resizer/v2/EVLQ3N3MUZBUJFZ5KIBLPHQBBU.jpg?auth=4f5f5fc079dea74ffb9f4ecc02ba078cf6dc8589fe476809924ba02a59e8b2c6",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/18/el-cerebro-de-las-personas-y-los-perros-se-sincroniza-cuando-se-miran-a-los-ojos-segun-la-ciencia/",
-        "date": "2024-09-18 05:50:13",
-        "sentiment_score": 0.4307039640843868
-    },
-    {
-        "title": "La bolsa de Hong Kong no opera hoy por festivo",
-        "image_url": "./assets/ai_generated/v1_txt2img_c227662290cd445ca808436c2d504a06.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/18/la-bolsa-de-hong-kong-no-opera-hoy-por-festivo/",
-        "date": "2024-09-18 05:46:19",
-        "sentiment_score": -0.6030437462031841
-    },
-    {
-        "title": "Cuatro comunidades en alerta por lluvias, la Comunidad Valenciana y Cataluña en naranja",
-        "image_url": "./assets/ai_generated/v1_txt2img_3ad8d762d13143959910152d595fb0ef.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/18/cuatro-comunidades-en-alerta-por-lluvias-la-comunidad-valenciana-y-cataluna-en-naranja/",
-        "date": "2024-09-18 05:46:01",
-        "sentiment_score": -0.5551587417721748
-    },
-    {
-        "title": "La playa de Grecia recordada por ‘la danza de Zorba’, en peligro por una nueva construcción",
-        "image_url": "https://www.infobae.com/resizer/v2/EXSU3P6SUBEOHMZ2QMBCNKSOIE.jpg?auth=a1960d18d141edda9ee074534aedbb8d7497282b852e2c7e6f7374798aebaad2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2024/09/18/la-playa-de-grecia-recordada-por-la-danza-de-zorba-en-peligro-por-una-nueva-construccion/",
-        "date": "2024-09-18 05:38:30",
-        "sentiment_score": -0.8985495651140809
-    },
-    {
-        "title": "Trump apela a la clase trabajadora para recuperar Michigan: «Si no ganamos, no quedará ni un empleo en la industria del coche»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/18/1486292368-kYpC-U603081614843SQG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-apela-clase-trabajadora-recuperar-michigan-ganamos-20240918075656-nt.html",
-        "date": "2024-09-18 06:02:07",
-        "sentiment_score": -0.08613795042037964
-    },
-    {
-        "title": "Rusia anuncia la evacuación parcial de la ciudad de Torópets por un ataque «masivo» de Ucrania con drones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/18/1486075392-k29-U603081549610rnB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-anuncia-evacuacion-parcial-ciudad-toropets-ataque-20240918072126-nt.html",
-        "date": "2024-09-18 05:22:20",
-        "sentiment_score": -0.42189501225948334
-    },
-    {
-        "title": "Obras icónicas del Prado, reproducidas a tamaño natural, viajan por las calles de nueve ciudades valencianas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5Z5YNXXRV5ESHIEQX6RSAGIIHM.jpg?auth=df2561c8ebd0ed864f7b7d0647656ed2016eddfadef58097e16b572dc524e05d&width=1200",
-        "tags": [
-            "arte",
-            "generalitat valenciana",
-            "museo del prado",
-            "comunidad valenciana",
-            "josé antonio rovira",
-            "cultura"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-18/obras-iconicas-del-prado-reproducidas-a-tamano-natural-viajan-por-las-calles-de-nueve-ciudades-valencianas.html",
-        "date": "2024-09-18 05:13:50",
-        "sentiment_score": -0.1083492785692215
-    },
-    {
-        "title": "Otros efectos de las zonas de bajas emisiones más allá de la contaminación: tráfico, cambio modal y efectos en la salud",
-        "image_url": "https://maldita.es/uploads/images/2023/09/650e30bd33515efectos-zbe-trafico-modal-salud-png.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://maldita.es/malditaciencia/20240918/efectos-zbe-trafico-modal-salud/",
-        "date": "2024-09-18 06:20:00",
-        "sentiment_score": -0.12020346522331238
-    },
-    {
-        "title": "Ciudades inteligentes y digitalizadas para ciudadanos sostenibles",
-        "image_url": "https://media.vozpopuli.com/2024/09/motion-city-intersection-fotor-2024091719216-1024x576.jpg",
-        "tags": [
-            "movilidad urbana",
-            "economía",
-            "ayuntamientos",
-            "tecnología",
-            "ciudades",
-            "madrid"
-        ],
-        "link": "https://www.vozpopuli.com/economia_y_finanzas/ciudades-inteligentes-y-digitalizadas-para-ciudadanos-sostenibles.html",
-        "date": "2024-09-18 06:19:42",
-        "sentiment_score": 0.6137505918741226
-    },
-    {
-        "title": "'Bobby' Endrick se casa con el gol en el Real Madrid tras ignorar a Vinicius y Mbappé: \"Tiene huevos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0b2013fc-f31f-4325-bab5-d77c57253d62_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2024/09/18/bobby-endrick-casa-gol-real-madrid-108268082.html",
-        "date": "2024-09-18 06:08:51",
-        "sentiment_score": -0.31998881697654724
-    },
-    {
-        "title": "Foodie Black Week Barcelona: una semana con descuentos y promociones en decenas de restaurantes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5142af51-ffd0-4561-8e5f-443b1defe280_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20240918/foodie-black-week-barcelona-2024-108245485",
-        "date": "2024-09-18 06:29:56",
-        "sentiment_score": 0.553809717297554
-    },
-    {
-        "title": "La anécdota",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7325c151-deb9-4766-9695-d05c0f24dabd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2024/09/18/anecdota-8701192.html",
-        "date": "2024-09-18 06:29:23",
-        "sentiment_score": -0.17499786615371704
-    },
-    {
-        "title": "Así es la pastelería del Born con dulces XXL que arrasa en Barcelona: pesan 2 kg y están rellenos de canela",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/09/18/vivir-en-barcelona/886921303_13457310_1706x960.png?contentId=ESPIMA20240918_0004",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240918/asi-es-la-pasteleria-del-born-con-dulces-xxl-que-arrasa-en-barcelona-pesan-kg-estan-rellenos-de-canela/886911305_0.html",
-        "date": "2024-09-18 06:09:04",
-        "sentiment_score": 0.5773911699652672
-    },
-    {
-        "title": "Marta Reyes, experta en salud femenina: \"Las mujeres vivimos más, pero pasamos un 25% de nuestra vida enfermas\"",
-        "image_url": "https://s1.elespanol.com/2024/09/16/mujer/protagonistas/886421964_249230645_1706x960.jpg?contentId=ESPIMA20240916_0615",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/protagonistas/20240918/marta-reyes-experta-salud-femenina-mujeres-vivimos-pasamos-vida-enfermas/886411493_0.html",
-        "date": "2024-09-18 06:07:58",
-        "sentiment_score": 0.25499208457767963
-    },
-    {
-        "title": "¿Y ahora qué?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/19943faa-bae1-44a1-9f8d-28b46c64634e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/opinion/2024/09/18/ahora-108260069.html",
-        "date": "2024-09-18 06:01:05",
-        "sentiment_score": -0.46110770106315613
-    },
-    {
-        "title": "'The Telegraph' sentencia y dice que esta es la peor comunidad autónoma de España",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/09/17/parque-natural-de-las-lagunas-de-ruidera-en-albacete-y-ciudad-real.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/the-telegraph-sentencia-dice-peor-comunidad-autonoma-espana.html",
-        "date": "2024-09-18 06:00:23",
-        "sentiment_score": 0.293619841337204
-    },
-    {
         "title": "Enfado ante la propuesta de sanción de 2.000 euros por beber alcohol en el estadio: “¿Por la zona VIP no se pasan para multar?”",
         "image_url": "./assets/ai_generated/v1_txt2img_5decd3e0a62a4592948d5864b2bb55f2.png",
         "tags": [
@@ -7705,5 +7475,581 @@ export default [
         "link": "https://www.elcorreoweb.es/sociedad/2024/09/21/michelle-jimenez-centro-menores-convertirse-108397894.html",
         "date": "2024-09-21 16:41:26",
         "sentiment_score": 0.5882136151194572
+    },
+    {
+        "title": "Jofre: \"Por algo el Real Madrid es de los mejores equipos del mundo\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_4c848215c9cd47c6a71ee0bac330cbf3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/jofre-por-algo-el-real-madrid-es-de-los-mejores-equipos-del-mundo/",
+        "date": "2024-09-21 21:31:29",
+        "sentiment_score": 0.8181351646780968
+    },
+    {
+        "title": "El Unicaja, rival del Real Madrid en la final de la Supercopa al ganar al UCAM 78-84",
+        "image_url": "./assets/ai_generated/v1_txt2img_faf23040efc64dd9912f9ae5967fe913.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/el-unicaja-rival-del-real-madrid-en-la-final-de-la-supercopa-al-ganar-al-ucam-78-84/",
+        "date": "2024-09-21 21:31:01",
+        "sentiment_score": -0.010823726654052734
+    },
+    {
+        "title": "2-1. El Zaragoza inflige la primera derrota al Levante y se coloca líder provisional",
+        "image_url": "./assets/ai_generated/v1_txt2img_d1fc37237a8745e48667560f066673ff.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/2-1-el-zaragoza-inflige-la-primera-derrota-al-levante-y-se-coloca-lider-provisional/",
+        "date": "2024-09-21 21:17:11",
+        "sentiment_score": 0.4747947007417679
+    },
+    {
+        "title": "0-2. España recupera la corona mundial",
+        "image_url": "./assets/ai_generated/v1_txt2img_f2f648b1054c481495bc33c9ca79c63e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/21/0-2-espana-recupera-la-corona-mundial/",
+        "date": "2024-09-21 21:16:17",
+        "sentiment_score": 0.6799772791564465
+    },
+    {
+        "title": "El Real Madrid certifica una apoteósica remontada ante el Espanyol y cierra el marcador con 4-1",
+        "image_url": "https://www.infobae.com/resizer/v2/BOCUHBJTD5ZDX2IDXRWEY55NUE.jpg?auth=a48fcfb925e5063c00f883c83563910a19df4cf01e12d02fdd7a3b1c0fa761f3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/09/21/el-real-madrid-certifica-una-apoteosica-remontada-ante-el-espanyol-y-cierra-el-marcador-con-4-1/",
+        "date": "2024-09-21 21:16:14",
+        "sentiment_score": 0.43976595997810364
+    },
+    {
+        "title": "El Real Madrid recurre a Vinícius para remontar y golear al Espanyol (4-1)",
+        "image_url": "./assets/ai_generated/v1_txt2img_dffb104a5fdb41e7802cfd7dec05792e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/el-real-madrid-recurre-a-vinicius-para-remontar-y-golear-al-espanyol-4-1/",
+        "date": "2024-09-21 21:01:33",
+        "sentiment_score": 0.629021480679512
+    },
+    {
+        "title": "Loterías de Catalunya: números ganadores de la 6/49 este 21 del septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/DKI7K4DBL5GJ3JZ7XNQ3ZNXCBE.jpg?auth=59e2544f3f2c7b6b01898b146aefd4fef938ee10479f9447196ea92a88dc8271",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/21/loterias-de-catalunya-numeros-ganadores-de-la-649-este-21-del-septiembre/",
+        "date": "2024-09-21 20:45:29",
+        "sentiment_score": 0.0435732938349247
+    },
+    {
+        "title": "Oriol Junqueras se compromete a “rescatar” ERC con Elisenda Alamany mientras ataca al sector de Rovira por “traición”",
+        "image_url": "https://www.infobae.com/resizer/v2/A7GTIZF5VJA5RF7PJUH43JLXGQ.jpg?auth=0125644280b523af3348f9fc8246c70294d4084ae02092125980528ab03ca8f0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/21/oriol-junqueras-se-compromete-a-rescatar-erc-con-elisenda-alamany-mientras-ataca-al-sector-de-rovira-por-traicion/",
+        "date": "2024-09-21 20:44:29",
+        "sentiment_score": 0.44744860008358955
+    },
+    {
+        "title": "Alamany defiende que ERC vuelva a \"liderar el discurso nacional\" tras su congreso",
+        "image_url": "https://www.infobae.com/resizer/v2/7HUH6DFFBZGLVG65M7ZE7U67XI.jpg?auth=18b03549186989ec2e8737f6a8ebc2a36141b4c621c6d516e123159096d9b613",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/alamany-defiende-que-erc-vuelva-a-liderar-el-discurso-nacional-tras-su-congreso/",
+        "date": "2024-09-21 20:34:35",
+        "sentiment_score": -0.6573334634304047
+    },
+    {
+        "title": "Espada reprocha a Moreno \"no presentar\" un nuevo modelo de financiación autonómica a Sánchez, el actual \"está caducado\"",
+        "image_url": "https://www.infobae.com/resizer/v2/5H4YZO33ZBFQBPYCHKCXRV3FC4.jpg?auth=53832d78b9f7ab6cc1900042027caa0be6d20bc33f4a99670d861abc7e6280a1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/espada-reprocha-a-moreno-no-presentar-un-nuevo-modelo-de-financiacion-autonomica-a-sanchez-el-actual-esta-caducado/",
+        "date": "2024-09-21 20:34:23",
+        "sentiment_score": -0.8951943479478359
+    },
+    {
+        "title": "Israel afirma haber asesinado a jefe de operaciones especiales de Hezbollah en reciente ataque en el Líbano",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/55563789-83538668-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "noticias recientes",
+            "ataque israel hezbollah",
+            "líbano",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/international-minute-asesinato-a-alto-mandatario-de-hezbollah/",
+        "date": "2024-09-21 22:06:09",
+        "sentiment_score": -0.8353049643337727
+    },
+    {
+        "title": "CNN verifica: hubo más asesinatos en Springfield bajo el Gobierno de Trump que bajo el de Biden-Harris",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/ap24260847708106.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/21/cnn-verifica-hubo-mas-asesinatos-en-springfield-bajo-el-gobierno-de-trump-que-bajo-el-de-biden-harris/",
+        "date": "2024-09-21 21:49:39",
+        "sentiment_score": -0.8455641735345125
+    },
+    {
+        "title": "Cardiólogos en Argentina “apagan monitores” en protesta para hacer visible crisis médica",
+        "image_url": "./assets/ai_generated/v1_txt2img_bbe42116e92a4a279770aeeb7d2887b9.png",
+        "tags": [
+            "problemas cardiacos",
+            "médicos",
+            "fast – news variety",
+            "argentina",
+            "xpress",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cardiologos-argentina-protesta-mirador-mundial-tv/",
+        "date": "2024-09-21 21:41:41",
+        "sentiment_score": -0.7481444869190454
+    },
+    {
+        "title": "Emergencia en regiones del Amazonas, el pulmón del mundo envuelto en llamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20975811-2896-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendios-amazonas-latinoamerica-brasil-ecuador-peru-mirador-mundial-tv/",
+        "date": "2024-09-21 20:54:28",
+        "sentiment_score": -0.9004008127376437
+    },
+    {
+        "title": "Trump dice que impulsaría la prohibición de las ciudades santuario y \"aumentaría\" la aplicación de la ley para \"entregar\" a los inmigrantes indocumentados",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756173-trump-ciudades-santuario.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "redadas de inmigración",
+            "noticias de donald trump",
+            "ciudades santuario",
+            "inmigración"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/21/trump-prohibicion-ciudades-santuario-aumentar-ley-federal-entregar-inmigrantes-trax/",
+        "date": "2024-09-21 20:52:42",
+        "sentiment_score": -0.16160500049591064
+    },
+    {
+        "title": "El momento en que un robot policial lanza gas lacrimógeno y atropella a un hombre en un enfrentamiento en Texas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-28-24-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "xpress",
+            "robot",
+            "fast – news variety",
+            "ataque a policías"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-hombre-profugo-dispara-a-policia-y-robot-policial-trax/",
+        "date": "2024-09-21 20:12:07",
+        "sentiment_score": -0.7976860189810395
+    },
+    {
+        "title": "Consejos para mantener seguros a los niños a bordo de un vehículo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-01-28-26-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "seguridad",
+            "bienestar niños",
+            "xpress",
+            "noticias de salud",
+            "fast – reserve"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mantener-seguros-ninos-vehiculo-minuto-de-salud/",
+        "date": "2024-09-21 19:53:12",
+        "sentiment_score": 0.07557129859924316
+    },
+    {
+        "title": "Experto en explosivos muestra el daño que hacen las bombas en dispositivos como los del Líbano",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/16x9-v1-00-01-14-14-still003-20240921173041390.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "líbano",
+            "medio oriente",
+            "ataque israel hezbollah",
+            "bomba",
+            "atentado"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/explosivos-bombas-demostracion-beeper-libano-trax/",
+        "date": "2024-09-21 18:01:41",
+        "sentiment_score": -0.8491339758038521
+    },
+    {
+        "title": "María Mérola: En Ashoka construimos un sistema de soluciones e innovaciones en torno a la migración",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-707325e5-migracion-venezuela-elecciones-eeuu.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – reserve",
+            "argentina",
+            "migración",
+            "cono sur",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ashoka-soluciones-migracion-contectados-tv-fast/",
+        "date": "2024-09-21 17:59:06",
+        "sentiment_score": 0.27556120604276657
+    },
+    {
+        "title": "Niños están inhalando \"Galaxy Gas\" para drogarse. Esto es lo que los padres deben saber",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756115-screen-shot-2024-09-20-at-5-24-31-pm.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/21/ninos-inhalan-galaxy-gas-oxido-nitroso-drogarse-trax/",
+        "date": "2024-09-21 17:40:54",
+        "sentiment_score": -0.15871312469244003
+    },
+    {
+        "title": "El desprecio de los saberes",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/22/biblioteca-libros-estudiantes-RbE9c0mJphHytgWcPwTKwNI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-cano-desprecio-saberes-20240922214512-nts.html",
+        "date": "2024-09-21 19:45:13",
+        "sentiment_score": -0.04707878828048706
+    },
+    {
+        "title": "La lealtad inútil de ir a Moncloa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/21/MONCLOA.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-lealtad-inutil-moncloa-20240922214437-nts.html",
+        "date": "2024-09-21 19:44:38",
+        "sentiment_score": -0.06531563401222229
+    },
+    {
+        "title": "Eso es asín, compadre",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/22/1485807441-RQASA5OGaFOaJGGIyulGYAJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-asin-compadre-20240922214402-nts.html",
+        "date": "2024-09-21 19:44:03",
+        "sentiment_score": -0.018601685762405396
+    },
+    {
+        "title": "Pedro Sánchez o la perversión del diálogo",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/09/19/soy-nutricionista-snack-saludable-carrefour-mercadona-kCgB--170x119@Ideal.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-pedro-sanchez-perversion-dialogo-20240922204744-nt.html",
+        "date": "2024-09-21 18:47:48",
+        "sentiment_score": -0.13196633756160736
+    },
+    {
+        "title": "Como Delibes, lo contaremos en novelas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/21/8550302.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-delibes-contaremos-novelas-20240922201738-nt.html",
+        "date": "2024-09-21 18:17:48",
+        "sentiment_score": -0.16448979079723358
+    },
+    {
+        "title": "Violan el derecho de protección de fuentes a la corresponsal de ABC en Perú",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/21/Pao-R9LDl9i3dsyGf03kx9FikML-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/violan-derecho-proteccion-fuentes-corresponsal-abc-peru-20240921201202-nt.html",
+        "date": "2024-09-21 18:12:28",
+        "sentiment_score": -0.15471151471138
+    },
+    {
+        "title": "Fondo y forma",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/22/ABCDEFENSORA_22_9_24_SADABA-RUBI7TyfVsSV3BVVaZuylJK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/defensora-del-lector-charo-sadaba-fondo-forma-20240922153105-nt.html",
+        "date": "2024-09-21 17:39:40",
+        "sentiment_score": -0.1315356343984604
+    },
+    {
+        "title": "Sobre mi alzhéimer",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/sociedad/2024/09/19/Clipboard--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-sobre-alzheimer-20240922172812-nt.html",
+        "date": "2024-09-21 17:39:13",
+        "sentiment_score": -0.022516101598739624
+    },
+    {
+        "title": "Anne Hathaway y las dos caras de Sánchez",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/09/19/soy-nutricionista-snack-saludable-carrefour-mercadona-kCgB--170x119@Ideal.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-i-sanchez-anne-hathaway-dos-caras-sanchez-20240922163556-nt.html",
+        "date": "2024-09-21 17:38:41",
+        "sentiment_score": -0.016716748476028442
+    },
+    {
+        "title": "Por lo bueno que está",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/09/15/toro1-ky4E--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-bueno-20240922170158-nt.html",
+        "date": "2024-09-21 17:36:50",
+        "sentiment_score": 0.029851168394088745
+    },
+    {
+        "title": "Oriol Junqueras lanza su candidatura a presidir ERC acusando a Marta Rovira de mala praxis",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H7QLXRXFSJGNVGSN6DNMW3WBVQ.jpg?auth=aa81f7d9932deeb1e3793edfddd9dffc832fadcbc01a2dfb2854bd089b760f2e&width=1200",
+        "tags": [
+            "sentencia procés",
+            "juicio al procés",
+            "marta rovira i vergés",
+            "cataluña",
+            "erc",
+            "oriol junqueras",
+            "independentismo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-21/oriol-junqueras-lanza-su-candidatura-a-presidir-erc-acusando-a-marta-rovira-de-mala-praxis.html",
+        "date": "2024-09-21 18:41:07",
+        "sentiment_score": -0.3373434543609619
+    },
+    {
+        "title": "La periodista Griselda Pastor alerta del auge de la ultraderecha en el pregón de Santa Tecla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NSGYIOH7KRCN5HLTP7PTYAT5WE.jpg?auth=7316d62f78af6a4eb1a58c06c0fb979ce8bb873a49eb61c4075f40d4880ec3e2&width=1200",
+        "tags": [
+            "fiestas populares",
+            "fiestas",
+            "tarragona",
+            "cadena ser",
+            "periodismo",
+            "fiestas locales",
+            "cataluña",
+            "griselda pastor"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-09-21/la-periodista-griselda-pastor-alerta-del-auge-de-la-ultraderecha-en-el-pregon-de-santa-tecla.html",
+        "date": "2024-09-21 18:16:49",
+        "sentiment_score": 0.26864455454051495
+    },
+    {
+        "title": "El Unicaja desafía al Real Madrid en la final de la Supercopa",
+        "image_url": "./assets/ai_generated/v1_txt2img_45c4953bd92f42009789310cd07ffb6e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosur.es/unicaja/unicaja-desafia-real-madrid-final-supercopa-20240921000852-nt.html",
+        "date": "2024-09-21 22:10:16",
+        "sentiment_score": -0.7984868064522743
+    },
+    {
+        "title": "Las novatadas, esa lacra",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/08e5bd4f-072a-4259-ad74-a0bc89dee3ff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/redactor/2024/09/22/novatadas-lacra-108408920.html",
+        "date": "2024-09-21 22:05:05",
+        "sentiment_score": -0.6397530063986778
+    },
+    {
+        "title": "¿Quiénes son los padres de Toni Kroos? Te contamos todo sobre su familia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/20/2024092011100251155.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-toni-kroos-contamos-todo-familia/20240922000000845365.html",
+        "date": "2024-09-21 22:00:00",
+        "sentiment_score": 0.8771605473011732
+    },
+    {
+        "title": "Ancelotti: “Estamos volviendo poco a poco a nuestra mejor versión”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WJSO6ZMU6D2IRBEMLCZMGX5BK4.jpg?auth=fa564304ca8d24477203d0096b55f1d01e853d55d27502b9901cab704ae65da5&width=1200",
+        "tags": [
+            "fútbol",
+            "primera división",
+            "carlo ancelotti",
+            "competiciones",
+            "entrenadores",
+            "rcd espanyol",
+            "laliga ea sports",
+            "deportes",
+            "futbolistas",
+            "real madrid"
+        ],
+        "link": "https://elpais.com/deportes/futbol/2024-09-21/ancelotti-estamos-volviendo-poco-a-poco-a-nuestra-mejor-version.html",
+        "date": "2024-09-21 21:58:37",
+        "sentiment_score": 0.6339115649461746
+    },
+    {
+        "title": "El UCAM Murcia se vuelve a quedar sin final en la Supercopa ante Unicaja (78-84)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4fcb47c9-9379-486c-a498-7460f0ea8d65_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2024/09/21/ucam-murcia-vuelve-quedar-final-108409743.html",
+        "date": "2024-09-21 21:53:36",
+        "sentiment_score": -0.03498521447181702
+    },
+    {
+        "title": "El Unicaja también quiere ganar la Supercopa (78-84)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/11b9a50c-bd84-4115-8d33-897bd7881e39_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2024/09/21/unicaja-quiere-ganar-supercopa-semifinal-108409936.html",
+        "date": "2024-09-21 21:50:21",
+        "sentiment_score": 0.6405148431658745
+    },
+    {
+        "title": "Crónica del Real Madrid - RCD Espanyol, 4-1",
+        "image_url": "https://www.infobae.com/resizer/v2/PH6T2O2EZRDVRHEAJUBTVN33KQ.jpg?auth=39fa1e9ed1b2d068b93501a5796edc624a0283c851bfc426794745281e948689",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/21/cronica-del-real-madrid-rcd-espanyol-4-1/",
+        "date": "2024-09-21 21:47:50",
+        "sentiment_score": -0.08906187117099762
+    },
+    {
+        "title": "Carvajal fue sustitido por un golpe; Bellingham vuelve a tener molestias en el hombro",
+        "image_url": "./assets/ai_generated/v1_txt2img_056e563bf5b74be38d2ac4fd0bf8069b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/21/carvajal-fue-sustitido-por-un-golpe-bellingham-vuelve-a-tener-molestias-en-el-hombro/",
+        "date": "2024-09-21 21:45:23",
+        "sentiment_score": -0.7728003319352865
+    },
+    {
+        "title": "Real Madrid goleó a Espanyol para meterle presión a Barcelona",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/09/vini-y-rodrygo-730x524.webp",
+        "tags": [
+            "mbappé",
+            "fútbol",
+            "españa",
+            "vinicius",
+            "real madrid",
+            "espanyol",
+            "la liga",
+            "deportes"
+        ],
+        "link": "https://primicia.com.ve/deportes/real-madrid-goleo-a-espanyol-para-meterle-presion-a-barcelona/",
+        "date": "2024-09-21 21:44:48",
+        "sentiment_score": 0.15725935995578766
+    },
+    {
+        "title": "El Unicaja se jugará la Supercopa contra el Madrid tras ganar al UCAM Murcia (78-84)",
+        "image_url": "https://s1.elespanol.com/2024/09/21/malaga/deporte/unicaja/887671672_249396428_1706x960.jpg?contentId=ESPIMA20240921_0448",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20240921/unicaja-jugara-supercopa-madrid-ganar-ucam-murcia/1003550684897_29.html",
+        "date": "2024-09-21 21:37:00",
+        "sentiment_score": 0.6072815433144569
+    },
+    {
+        "title": "Tras la derrota de Boca ante River, Javier Milei apuntó contra Juan Román Riquelme",
+        "image_url": "https://www.infobae.com/resizer/v2/6SIIAPLJLRETPLYEPIKBV7QB7M.jpg?auth=a4efd13afc08ec947b82c117bb059de8534f65536f9fb7b2747dc8c7bc350234",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/politica/2024/09/21/tras-la-derrota-de-boca-ante-river-javier-milei-apunto-contra-juan-roman-riquelme/",
+        "date": "2024-09-21 22:13:52",
+        "sentiment_score": -0.658614382147789
+    },
+    {
+        "title": "Sister Ping, la sencilla tendera que lideraba la trata de seres humanos desde Chinatown",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/09/22/patrick-radden%20keefe-kwZ-U2201284577012qeH-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/libros/sister-ping-sencilla-tendera-lideraba-trata-seres-20240922001255-ntrc.html",
+        "date": "2024-09-21 22:12:57",
+        "sentiment_score": -0.17123793810606003
+    },
+    {
+        "title": "«La limpieza es ahora mismo el talón de Aquiles, hay que cambiar el contrato ya»",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/09/22/DSC_7010-kgHE-U2201298455386BnG-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/limpieza-talon-aquiles-cambiar-contrato-20240922230531-nt.html",
+        "date": "2024-09-21 22:09:30",
+        "sentiment_score": -0.6923781801015139
+    },
+    {
+        "title": "Gisèle",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/009a16ae-a144-4808-822f-5394ef939098_16-9-aspect-ratio_default_0_x831y443.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/mesa-de-redaccion/2024/09/22/gisele-8715607.html",
+        "date": "2024-09-21 22:08:56",
+        "sentiment_score": -0.30249132215976715
+    },
+    {
+        "title": "Illa rehabilita a Jordi Pujol con la esperanza de resucitar a Convergencia",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/09/photo-2024-09-19-16-42-12-1280x808.jpg",
+        "tags": [
+            "cataluña",
+            "generalitat cataluña",
+            "españa",
+            "salvador illa",
+            "jordi pujol"
+        ],
+        "link": "https://www.elindependiente.com/espana/cataluna/2024/09/22/illa-rehabilita-a-jordi-pujol-con-la-esperanza-de-resucitar-a-convergencia/",
+        "date": "2024-09-21 22:05:20",
+        "sentiment_score": -0.6671051755547523
+    },
+    {
+        "title": "Victoria del Castillo (BBVA): \"Europa se está quedando atrás\"",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/09/victoria-del-castillo-bbva.png",
+        "tags": [
+            "bbva",
+            "banca",
+            "economía",
+            "banco sabadell"
+        ],
+        "link": "https://www.elindependiente.com/economia/2024/09/22/victoria-del-castillo-bbva-europa-se-esta-quedando-atras/",
+        "date": "2024-09-21 22:05:17",
+        "sentiment_score": 0.117379330098629
+    },
+    {
+        "title": "La nueva edad dorada de la tienda frena la venta online",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/20/66ed857921723.r_d.3184-2538-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240922/9956376/nueva-edad-dorada-tienda-frena-venta-online.html",
+        "date": "2024-09-21 22:05:00",
+        "sentiment_score": 0.6086134947836399
+    },
+    {
+        "title": "Indukern se recapitaliza y crece en el medicamento",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/20/66ed7ae0f177c.r_d.3964-2670-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240922/9956247/indukern-recapitaliza-crece-medicamento-farmaceuticas.html",
+        "date": "2024-09-21 22:05:00",
+        "sentiment_score": 0.2903048787266016
+    },
+    {
+        "title": "Trucos para hacer una mudanza sin perder la cabeza",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/09/22/El%20correo_1200X840_WEB_YEYEIGOMEZ-k2eB-U220128115198510D-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/vivir/consumo/trucos-mudanza-perder-cabeza-20240922000119-ntrc.html",
+        "date": "2024-09-21 22:01:58",
+        "sentiment_score": 0.05453118681907654
     }
 ];
