@@ -295,26 +295,6 @@ export default [
         "sentiment_score": -0.13248832523822784
     },
     {
-        "title": "La fotovoltaica española suma 12.300 millones al PIB y 34.000 empleos directos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/18/autoconsumo-RFtYBtLGMXCdIyhg2QBqGsN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/fotovoltaica-espanola-suma-12300-millones-pib-34000-20240918140541-nt.html",
-        "date": "2024-09-18 12:08:08",
-        "sentiment_score": 0.07308898866176605
-    },
-    {
-        "title": "El Tribunal Constitucional alemán niega a AfD el derecho a presidir un mínimo de comisiones parlamentarias",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/18/tribunal-constitucional-RWxijHnlgG44GRw0JK7OoxO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/tribunal-constitucional-aleman-niega-afd-derecho-presidir-20240918135614-nt.html",
-        "date": "2024-09-18 12:01:53",
-        "sentiment_score": -0.15262481570243835
-    },
-    {
         "title": "La brecha salarial de género se reduce diez puntos en una década en España, hasta el 8,7%",
         "image_url": "https://imagenes.elpais.com/resizer/v2/5Z2XBSDISVCVBNSET75Y7EAYB4.jpg?auth=6e184ace347b0ffbf7ef15dcc292b33d5e4c64873ea4cb2831b04c105e2e165a&width=1200",
         "tags": [
@@ -8051,5 +8031,408 @@ export default [
         "link": "https://www.elcomercio.es/vivir/consumo/trucos-mudanza-perder-cabeza-20240922000119-ntrc.html",
         "date": "2024-09-21 22:01:58",
         "sentiment_score": 0.05453118681907654
+    },
+    {
+        "title": "Predicción del clima en Málaga para este 22 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/IJO4YARS3FGUJD7HGZFQJ53QCA.jpg?auth=1a8e593e016978d89f5058b0a69c1d415cbd97c55d10ad8d460d407614282acf",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/22/prediccion-del-clima-en-malaga-para-este-22-de-septiembre/",
+        "date": "2024-09-22 02:01:25",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Madrid este 22 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/YKDLTBLCQFGZXAIAUNWZLFQEOM.jpg?auth=823307b63d18aa0a41fb89f9209a08381589b3e0f0bc77e60b6c03f3d4c80995",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/22/clima-hoy-en-espana-temperaturas-para-madrid-este-22-de-septiembre/",
+        "date": "2024-09-22 01:31:08",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Lista de los 10 videos en tendencia este sábado en YouTube España",
+        "image_url": "https://www.infobae.com/resizer/v2/GAT4Z5UYURG3REUAAJELL35W7U.jpg?auth=6b7f0c54227e27ce900e7493d22072bfc6fecef278ba5a28e80f3f51d0f69180",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/22/lista-de-los-10-videos-en-tendencia-este-sabado-en-youtube-espana/",
+        "date": "2024-09-22 01:01:43",
+        "sentiment_score": 0.7006213627755642
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Barcelona este domingo",
+        "image_url": "https://www.infobae.com/resizer/v2/J5CJ6MYDSRBIZIFDMWYELJ7B3A.jpg?auth=95db13a4476049e30d72fdd4a349a70b79bd1df289196f1e365709a72ab2c40f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/22/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-barcelona-este-domingo/",
+        "date": "2024-09-22 01:01:21",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Miles de personas asisten en Cádiz al estreno fenicio de La Fura dels Baus",
+        "image_url": "./assets/ai_generated/v1_txt2img_9c5b5de227e94a7c8f351fe23492edd4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/miles-de-personas-asisten-en-cadiz-al-estreno-fenicio-de-la-fura-dels-baus/",
+        "date": "2024-09-21 23:00:43",
+        "sentiment_score": -0.03965006768703461
+    },
+    {
+        "title": "Hoy será noticia. Domingo, 22 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_5b5477caed92447489417a6e3852f0a1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/hoy-sera-noticia-domingo-22-de-septiembre-de-2024/",
+        "date": "2024-09-21 22:31:00",
+        "sentiment_score": 0.022945936769247055
+    },
+    {
+        "title": "Fran García: \"Tres tarjetas por hablar es un poco excesivo\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_4c96699457974e99b002aabdb654ff49.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/21/fran-garcia-tres-tarjetas-por-hablar-es-un-poco-excesivo/",
+        "date": "2024-09-21 22:19:33",
+        "sentiment_score": -0.7126076072454453
+    },
+    {
+        "title": "FDI: Hemos atacado 400 lanzacohetes de Hezbollah",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172587669-20240922012516836.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fdi",
+            "hezbollah",
+            "medio oriente",
+            "guerra israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-ofensiva-libano-400-cohetes-mirador-mundial-tv/",
+        "date": "2024-09-22 01:28:34",
+        "sentiment_score": -0.39606133103370667
+    },
+    {
+        "title": "Aumenta a 20 el número de personas fallecidas por los incendios en Perú; el fuego sigue activo en 46 puntos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756249-incendios-peru.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "perú",
+            "incendios"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/21/incendios-peru-20-fallecidos-orix/",
+        "date": "2024-09-22 00:42:52",
+        "sentiment_score": -0.47839026153087616
+    },
+    {
+        "title": "Kim Jong Un castiga a los funcionarios locales por las inundaciones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20944552-26330-41-still-20240922003020558.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "corea del norte",
+            "kim jong un"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kim-jong-un-funcionatios-inundaciones-trax/",
+        "date": "2024-09-22 00:32:55",
+        "sentiment_score": -0.8762202374637127
+    },
+    {
+        "title": "Estallan protestas tras tiroteo de la Policía de Nueva York que derivó en dos transéuntes heridos mientras perseguían a hombre con cuchillo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756218-policia-nueva-york.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/21/protestas-tiroteo-policia-nueva-york-trax/",
+        "date": "2024-09-22 00:12:05",
+        "sentiment_score": -0.8326940666884184
+    },
+    {
+        "title": "Argentina y otros países instan a Venezuela a liberar a los detenidos de forma arbitraria",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163833197-20240921233149672.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-detenidos-piden-liberacion-mirador-mundial-tv/",
+        "date": "2024-09-21 23:35:26",
+        "sentiment_score": -0.6157869398593903
+    },
+    {
+        "title": "Tensión y amenazas en Springfield, Ohio, tras declaraciones falsas de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/springfield-getty.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/springfield-ohio-amenazas-declaraciones-falsas-trump-mirador-mundial-tv/",
+        "date": "2024-09-21 23:32:42",
+        "sentiment_score": -0.8806940391659737
+    },
+    {
+        "title": "¿Cuál es la importancia de la desconexión digital para nuestro bienestar? Un experto nos lo explica",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1217867589.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/derecho-a-desconexion-digital-mirador-mundial-tv-fast/",
+        "date": "2024-09-21 23:31:55",
+        "sentiment_score": -0.05375461280345917
+    },
+    {
+        "title": "Informe de la ONU dice que más de 16.000 menores han muerto en Gaza desde el 7 de octubre de 2023",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1777792855.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-gaza-mueren-ninos-mirador-mundial-tv/",
+        "date": "2024-09-21 23:30:09",
+        "sentiment_score": -0.29275908321142197
+    },
+    {
+        "title": "Ola de violencia en Sinaloa deja 53 muertos en solo 11 días",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172282406.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "cártel de sinaloa",
+            "xpress",
+            "méxico",
+            "violencia en méxico",
+            "cárteles de la droga"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ola-de-violencia-sinaloa-mirador-mundial-tv-fast/",
+        "date": "2024-09-21 23:25:50",
+        "sentiment_score": -0.6650522593408823
+    },
+    {
+        "title": "¿Cómo afecta el caso de Mark Robinson a los republicanos en Carolina del Norte?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755430-exclusiva-de-cnn-las-serias-declaraciones-de-mark-robinson-en-un-foro-de-pornografia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mark-robinson-republicano-comentario-choque-dusa-tv-fast/",
+        "date": "2024-09-21 22:50:13",
+        "sentiment_score": -0.5141188036650419
+    },
+    {
+        "title": "La unidad ultrasecreta israelí 8200: los ataques a Hizbolá la ponen en el punto de mira",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/16/82-RcUBFCPFzzZMRYSOegymyJL-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/unidad-ultrsecreta-israeli-8200-ataques-hizbola-ponen-20240916211019-nt.html",
+        "date": "2024-09-22 02:08:53",
+        "sentiment_score": -0.12254586815834045
+    },
+    {
+        "title": "DJI Neo vs. HoverAir X1: ¿qué dron barato es mejor opción?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/09/22/neo-2-Rb9E8WikUYvEqAXlKwfkW3I-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/dji-neo-hoverair-dron-barato-mejor-opcion-20240922132402-nt.html",
+        "date": "2024-09-22 00:54:48",
+        "sentiment_score": -0.03187966346740723
+    },
+    {
+        "title": "Puente pierde otro tren",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/09/18/terminaciones-favoritas-loteria-navidad-kjB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-puente-pierde-tren-20240922021701-nt.html",
+        "date": "2024-09-22 00:17:11",
+        "sentiment_score": -0.07908686995506287
+    },
+    {
+        "title": "Sevilla quiere dos 'Bernabéus': el Villamarín y el Pizjuán invertirán 500M en un hotel, auditorios y restaurantes",
+        "image_url": "https://s1.elespanol.com/2024/09/17/invertia/economia/886671671_249255596_1706x960.jpg?contentId=ESPIMA20240917_0347",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/20240922/sevilla-quiere-bernabeus-villamarin-pizjuan-invertiran-hotel-auditorios-restaurantes/885411616_0.html",
+        "date": "2024-09-22 00:39:29",
+        "sentiment_score": -0.10016843676567078
+    },
+    {
+        "title": "Zazza 'El Italiano': \"El 70% de los barrios marginales en España son de gitanos y el resto de extranjeros\"",
+        "image_url": "https://s1.elespanol.com/2024/09/21/reportajes/887671511_249391573_1706x960.jpg?contentId=ESPIMA20240921_0287",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240922/zazza-italiano-barrios-marginales-espana-gitanos-resto-extranjeros/887411392_0.html",
+        "date": "2024-09-22 00:34:08",
+        "sentiment_score": -0.4291491284966469
+    },
+    {
+        "title": "Las ocho imágenes más bonitas de la Comunidad de Madrid que aspiran a ser la mejor de España este año",
+        "image_url": "https://s1.elespanol.com/2024/09/17/madrid/sociedad/886671696_249256347_1706x960.jpg?contentId=ESPIMA20240917_0372",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20240922/imagenes-bonitas-comunidad-madrid-aspiran-mejor-espana-ano/886661482_0.html",
+        "date": "2024-09-22 00:15:51",
+        "sentiment_score": 0.33689646422863007
+    },
+    {
+        "title": "De La Almudena al Banco de España: los hermanos de Alcalá que venden sus vidrieras por todo el mundo",
+        "image_url": "https://s1.elespanol.com/2024/09/21/madrid/ocio/887671436_249389210_1706x960.jpg?contentId=ESPIMA20240921_0212",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20240922/almudena-banco-espana-hermanos-alcala-venden-vidrieras-mundo/887411543_0.html",
+        "date": "2024-09-22 00:15:38",
+        "sentiment_score": 0.258149690926075
+    },
+    {
+        "title": "Mika y Marvin, rotos y puede que para largo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7de127fd-cdce-408a-bf65-fdef59966762_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/09/22/mika-marvin-rotos-108411803.html",
+        "date": "2024-09-21 23:39:12",
+        "sentiment_score": -0.8739378601312637
+    },
+    {
+        "title": "Espabile, señor Carrión",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d092859f-8e41-4d99-bce2-726259b53ae8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/09/22/espabile-senor-carrion-108411800.html",
+        "date": "2024-09-21 23:38:10",
+        "sentiment_score": -0.2161601036787033
+    },
+    {
+        "title": "Paulina López Pita",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/09/21/66eefa2ae5ff9.r_d.458-132.jpeg",
+        "tags": [
+            "obituarios"
+        ],
+        "link": "https://www.eldebate.com/obituarios/20240922/paulina-lopez-pita-historiadora-castilla-medieval-sociedad-islamica-antes-final-reconquista_229360.html",
+        "date": "2024-09-21 23:30:00",
+        "sentiment_score": -0.14566649496555328
+    },
+    {
+        "title": "Las fotos de Amber Heard en Madrid dos años después del juicio con Johnny Depp: paseo romántico y aperitivo para dos",
+        "image_url": "https://s1.elespanol.com/2024/09/20/corazon/celebrities/887421613_249358731_1706x960.jpg?contentId=ESPIMA20240920_0364",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20240922/fotos-amber-heard-madrid-anos-despues-juicio-johnny-depp-paseo-romantico-aperitivo/887411482_0.html",
+        "date": "2024-09-21 23:04:24",
+        "sentiment_score": 0.08150593936443329
+    },
+    {
+        "title": "Carlo Ancelotti: \"Ha sido un partido de rock and roll\"",
+        "image_url": "https://www.infobae.com/resizer/v2/JNQL2GOF7FFUZKOJQIC3UDJJ2Y.jpg?auth=c67e4d2262efb33712872f943e0991abb3c6536a336d0c394e6eb1f586244570",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/21/carlo-ancelotti-ha-sido-un-partido-de-rock-and-roll/",
+        "date": "2024-09-21 23:02:28",
+        "sentiment_score": 0.28398267924785614
+    },
+    {
+        "title": "Modric: \"Fuimos muy buenos con y sin balón\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_c31f056608f84026825582edc92780a1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/21/modric-fuimos-muy-buenos-con-y-sin-balon/",
+        "date": "2024-09-21 23:01:00",
+        "sentiment_score": 0.6430666670203209
+    },
+    {
+        "title": "Ser otra cosa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c4cdb4f-b62b-4563-8480-5e7257010a66_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/09/22/cosa-108405466.html",
+        "date": "2024-09-22 02:00:52",
+        "sentiment_score": -0.13365715742111206
+    },
+    {
+        "title": "Fuertes trombas anegan las vías del corredor en Benicàssim y de FGV en Meliana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dc163472-c87b-4670-8dec-f243d1969a0f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2024/09/22/fuertes-trombas-anegan-vias-corredor-108406085.html",
+        "date": "2024-09-22 02:00:52",
+        "sentiment_score": -0.7958817444741726
+    },
+    {
+        "title": "La estadística es tu rostro",
+        "image_url": "./assets/ai_generated/v1_txt2img_f7e410f9c3dc4bfbb952da093c6f305d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/09/22/estadistica-rostro-108397084.html",
+        "date": "2024-09-22 02:00:43",
+        "sentiment_score": 0.17865198850631714
+    },
+    {
+        "title": "Vivir en la Avinguda de Sa Pau de Sant Lluís, con 25.000 coches a la puerta de casa: «Alzamos la voz para oírnos»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3009519.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/09/22/2245997/vivir-avinguda-pau-sant-lluis-25000-coches-puerta-casa-alzamos-voz-para-oirnos.html",
+        "date": "2024-09-22 02:00:01",
+        "sentiment_score": -0.06726142764091492
+    },
+    {
+        "title": "De la apropiación indebida que ha hecho la izquierda de la ley ELA a la reunión entre Illa y Pujol",
+        "image_url": "https://gaceta.es/wp-content/uploads/2024/09/EuropaPress_6222408_presidente_gobierno_pedro_sanchez_mantiene_encuentro_representantes.jpg",
+        "tags": [
+            "yolanda díaz",
+            "salvador illa",
+            "la semana",
+            "pedro sánchez"
+        ],
+        "link": "https://gaceta.es/la-semana/de-la-apropiacion-indebida-que-ha-hecho-la-izquierda-de-la-ley-ela-a-la-reunion-entre-illa-y-pujol-20240922-0312/",
+        "date": "2024-09-22 01:12:00",
+        "sentiment_score": -0.920578183606267
+    },
+    {
+        "title": "Puigdemont mantiene en vilo al PSOE tras negociar en Suiza después de su segunda fuga",
+        "image_url": "https://s1.elespanol.com/2024/09/21/espana/887671667_249396267_1706x960.jpg?contentId=ESPIMA20240921_0443",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20240922/puigdemont-mantiene-vilo-psoe-negociar-suiza-despues-segunda-fuga/887661398_0.html",
+        "date": "2024-09-22 00:54:42",
+        "sentiment_score": 0.23585350811481476
+    },
+    {
+        "title": "La semana en que Dreamforce cambió la IA para siempre: vuelta a casa con un agente autónomo bajo el brazo",
+        "image_url": "https://s1.elespanol.com/2024/09/19/actualidad/887171749_249331638_1706x960.jpg?contentId=ESPIMA20240919_0475",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/20240922/semana-dreamforce-cambio-ia-siempre-vuelta-casa-agente-autonomo-brazo/887161597_0.html",
+        "date": "2024-09-22 00:50:38",
+        "sentiment_score": 0.5498112384229898
+    },
+    {
+        "title": "La otra lucha de Banco Sabadell con el BBVA: salvar el sueño de 134 visionarios",
+        "image_url": "https://s1.elespanol.com/2024/09/17/actualidad/886671673_249255662_1706x960.jpg?contentId=ESPIMA20240917_0349",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20240922/lucha-banco-sabadell-bbva-salvar-sueno-visionarios/886661591_0.html",
+        "date": "2024-09-22 00:36:28",
+        "sentiment_score": 0.42130260169506073
+    },
+    {
+        "title": "Cierre de fronteras en Alemania y (más) políticas antiinmigración: ¿peligra el espacio Schengen?",
+        "image_url": "https://s1.elespanol.com/2024/09/20/mundo/europa/887422144_249375254_1706x960.jpg?contentId=ESPIMA20240920_0895",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20240922/cierre-fronteras-alemania-politicas-antiinmigracion-peligra-espacio-schengen/887411783_0.html",
+        "date": "2024-09-22 00:35:01",
+        "sentiment_score": -0.8509495630860329
     }
 ];
