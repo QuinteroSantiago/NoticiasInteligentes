@@ -199,33 +199,6 @@ export default [
         "sentiment_score": 0.18942385911941528
     },
     {
-        "title": "España niega cualquier implicación con el documento que Edmundo González firmó antes de salir de Venezuela",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755092-la-carta-que-firmo-edmundo-gonzalez-en-la-cual-acataria-la-decision-del-tribunal-supremo.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "venezuela",
-            "edmundo gonzález",
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/19/espana-niega-implicacion-con-documento-que-edmundo-gonzalez-firmo-orix/",
-        "date": "2024-09-19 13:10:20",
-        "sentiment_score": -0.3047204464673996
-    },
-    {
-        "title": "Temor en el Líbano por una tercera ola de explosiones de dispositivos inalámbricos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171996113-20240919130204359.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "aeropuerto",
-            "israel",
-            "ataque israel hezbollah",
-            "líbano",
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/temor-libano-tercera-ola-explosiones-dispositivos-inalambricos-cafe-tv/",
-        "date": "2024-09-19 13:06:15",
-        "sentiment_score": -0.8848055694252253
-    },
-    {
         "title": "El ritmo de creación de empleo cae a más de la mitad y los extranjeros copan la mayor parte de los nuevos trabajos",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/19/1476866076-Rs5Y45257xokH5nyycU3GcL-1200x840@diario_abc.JPG",
         "tags": [
@@ -274,56 +247,6 @@ export default [
         "link": "https://www.abc.es/tecnologia/supremo-brasil-impone-nueva-multa-tras-saltarse-20240919162846-nt.html",
         "date": "2024-09-19 14:28:47",
         "sentiment_score": -0.18055380880832672
-    },
-    {
-        "title": "Estos son los tres factores responsables del alarmante aumento de casos de ictus",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/09/19/30677065680_77b7e6f4bb_k.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/tres-factores-responsables-alarmante-aumento-casos-ictus-20240919134506-nt.html",
-        "date": "2024-09-19 13:48:25",
-        "sentiment_score": -0.23055358231067657
-    },
-    {
-        "title": "En 2023 la Agencia Tributaria regularizó 466 millones de euros de la economía sumergida",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/19/1479513219-RDRzoFj6huzOOa3YYbTKeLJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/2023-agencia-tributaria-regularizo-466-millones-euros-20240919151746-nt.html",
-        "date": "2024-09-19 13:29:17",
-        "sentiment_score": -0.11513429880142212
-    },
-    {
-        "title": "¿Qué ha votado cada grupo en el Parlamento Europeo para reconocer a Edmundo González como presidente de Venezuela?",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/19/1486352356-kpdB-U603088888900C0F-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/votado-grupo-parlamento-europeo-reconocer-edmundo-gonzalez-20240919145722-nt.html",
-        "date": "2024-09-19 12:57:22",
-        "sentiment_score": -0.12253084778785706
-    },
-    {
-        "title": "Qué supone que la UE reconozca a Edmundo González como presidente electo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/19/edmundo-RGEdkfVzAngNXVMfR8FnZFN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/supone-ue-reconozca-edmundo-gonzalez-presidente-electo-20240919125457-nt.html",
-        "date": "2024-09-19 12:37:14",
-        "sentiment_score": -0.12598976492881775
-    },
-    {
-        "title": "El presidente palestino pide junto a Sánchez que Madrid acoja una conferencia de paz como la de 1991",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/19/sanchezabasafp-RqatVl3KCQiMhcXjxGRdRpO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/presidente-palestino-pide-junto-sanchez-madrid-acoja-20240919140402-nt.html",
-        "date": "2024-09-19 12:04:03",
-        "sentiment_score": -0.14685553312301636
     },
     {
         "title": "La Xunta de Galicia pide evitar las actividades al aire libre por el humo de los incendios de Portugal",
@@ -7765,5 +7688,385 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2024/09/22/simeone-en-el-segundo-tiempo-jugamos-el-partido-que-teniamos-que-jugar/",
         "date": "2024-09-22 21:46:13",
         "sentiment_score": 0.26949602365493774
+    },
+    {
+        "title": "Previsión meteorológica del clima en Málaga para este 23 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/QPDTC3W4XBAQTGAD6HURHI5AXE.jpg?auth=a4015450e66d8ca4cbe76fbc6949637f9f64f34f330a5deffa4f2ab22008e236",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/23/prevision-meteorologica-del-clima-en-malaga-para-este-23-de-septiembre/",
+        "date": "2024-09-23 02:02:28",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "España: las predicciones del tiempo para Madrid este 23 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/IKIS5NPU2RA43AJNUVRMN2UFXQ.jpg?auth=e46b28072106ade054798bfa56f4d5f162689d2a3176e0be831fc1896ff0fe2d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/23/espana-las-predicciones-del-tiempo-para-madrid-este-23-de-septiembre/",
+        "date": "2024-09-23 01:33:20",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Las mejores cintas de Disney+ España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/GMD5HEHNGBF2POH22OMK6TXF3U.jpg?auth=71b4b2a981006d6f481c322cfc3227dd97c4052854f08acc009b13b06655f6a2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/23/las-mejores-cintas-de-disney-espana-para-ver-en-cualquier-momento/",
+        "date": "2024-09-23 01:31:56",
+        "sentiment_score": 0.5393944084644318
+    },
+    {
+        "title": "Las películas más populares de Prime Video España que no podrás dejar de ver",
+        "image_url": "https://www.infobae.com/resizer/v2/Q7FSIL2LL5BMXBNT3OWUZTVEUA.jpg?auth=cfab290ba3da13a98af13b76c0888439cee87ea5084425b8c013ac446bf7e03d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/23/las-peliculas-mas-populares-de-prime-video-espana-que-no-podras-dejar-de-ver/",
+        "date": "2024-09-23 01:31:19",
+        "sentiment_score": 0.15096014738082886
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este 23 de septiembre: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/QLZGT7B5ZBCC5DAMVX5TX36KYI.jpg?auth=2c6a64bfd47d8e05492cf48777c01eb3a99df7545ded9fd4b31cc901f892df99",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/23/pronostico-del-clima-en-barcelona-este-23-de-septiembre-temperatura-lluvias-y-viento/",
+        "date": "2024-09-23 01:01:03",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "K-pop: las 10 mejores canciones que no paran de sonar en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/JYDFBETR75HCRMNOF5HOFZYV6E.jpg?auth=4f6cb36b25ef416c171d6081c5a166ce0c47b33e160186667b9b8c9833afc547",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/22/k-pop-las-10-mejores-canciones-que-no-paran-de-sonar-en-itunes-espana/",
+        "date": "2024-09-22 23:15:31",
+        "sentiment_score": 0.858693515881896
+    },
+    {
+        "title": "Trump dice que no volverá a postularse si pierde las elecciones de 2024",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/thumb-trump-20240923012152020.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-postulacion-elecciones-presidenciales-2028-ush-trax/",
+        "date": "2024-09-23 01:24:38",
+        "sentiment_score": -0.7294310349971056
+    },
+    {
+        "title": "El gobernador de California firma una ley que prohíbe todas las bolsas de plástico en los supermercados",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756504-gettyimages-456420620.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "plástico",
+            "california"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/22/california-ley-prohibe-bolsas-plastico-supermercado-ap/",
+        "date": "2024-09-23 01:03:48",
+        "sentiment_score": 0.17709071189165115
+    },
+    {
+        "title": "Cambian las formas de relacionarse: ¿está en crisis la monogamia?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1238756522.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "amor",
+            "relaciones",
+            "mundo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/relaciones-monogamia-crisis-poligamia-mirador-mundial-tv/",
+        "date": "2024-09-22 23:59:35",
+        "sentiment_score": -0.2588956132531166
+    },
+    {
+        "title": "¿Hasta dónde puede escalar el conflicto sindical con Aerolíneas Argentinas?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-825629130.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina",
+            "fast – news variety",
+            "aerolíneas argentinas",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aerolineas-argentinas-conflicto-continua-mirador-mundial-tv/",
+        "date": "2024-09-22 23:57:16",
+        "sentiment_score": -0.37529950588941574
+    },
+    {
+        "title": "Los principales desafíos que rodean a la nueva Asamblea General de la ONU",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1441455558.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "naciones unidas",
+            "asamblea general de la onu",
+            "xpress",
+            "mundo",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/asamblea-general-onu-desafios-mirador-mundial-tv/",
+        "date": "2024-09-22 23:55:19",
+        "sentiment_score": -0.3930606320500374
+    },
+    {
+        "title": "Morena elige a Luisa María Alcalde como nueva dirigente del partido",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2167828957.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "andrés manuel lópez obrador",
+            "morena",
+            "xpress",
+            "fast – news variety",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luisa-maria-alcalde-morena-mirador-mundial-tv-fast/",
+        "date": "2024-09-22 23:54:02",
+        "sentiment_score": -0.11526226997375488
+    },
+    {
+        "title": "Tiroteo masivo en Alabama deja al menos cuatro muertos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20978963-1353-266-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiroteo-masivo-alabama-birmingham-mirador-mundial-tv-ush/",
+        "date": "2024-09-22 23:30:55",
+        "sentiment_score": -0.5387106444686651
+    },
+    {
+        "title": "Netanyahu evalúa un plan para obligar a todos los civiles palestinos a abandonar el norte de Gaza y asediar a Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756488-gettyimages-2171089358.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "benjamin netanyahu",
+            "medio oriente",
+            "hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/22/netanyahu-palestinos-abandonar-gaza-hamas-trax/",
+        "date": "2024-09-22 23:22:14",
+        "sentiment_score": -0.4373609870672226
+    },
+    {
+        "title": "¿Cómo luchará Sheinbaum contra la inseguridad al comandar las Fuerzas Armadas de México?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171706516.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "claudia sheinbaum",
+            "seguridad méxico",
+            "fuerzas armadas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/claudia-sheinbaum-primer-mujer-comandar-fuerzas-armadas-mexico-mirador-mundial-tv/",
+        "date": "2024-09-22 23:21:15",
+        "sentiment_score": -0.2857946902513504
+    },
+    {
+        "title": "Ataques entre Israel y Hezbollah se intensifican",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172855786.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ataque israel hezbollah",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aumento-ataques-israel-hezbollah-guerra-mirador-mundial-tv/",
+        "date": "2024-09-22 23:20:04",
+        "sentiment_score": 0.2571722939610481
+    },
+    {
+        "title": "El cártel de Jalisco busca desplazar al de Sinaloa y provoca un baño de sangre",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/22/culiacan-RczOj9bOeWZgxjMWve06ojI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/cartel-jalisco-busca-desplazar-sinaloa-provoca-bano-20240922041343-nt.html",
+        "date": "2024-09-23 02:13:44",
+        "sentiment_score": -0.21195419132709503
+    },
+    {
+        "title": "Seguridad Social descarta incluir a los mutualistas ya jubilados en el sistema público de pensiones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/23/RETA-RPEMmZTdxgMXRExawD2xiLI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/seguridad-social-descarta-incluir-mutualistas-jubilados-sistema-20240923164054-nt.html",
+        "date": "2024-09-23 02:12:33",
+        "sentiment_score": -0.010747045278549194
+    },
+    {
+        "title": "La factura electrónica se dispara tres años antes de que sea obligatoria para empresas y autónomos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/23/1479513223-Rnk4HnmGdBCPLEuhuJNNsqM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/factura-electronica-dispara-tres-anos-obligatoria-empresas-20240923041047-nt.html",
+        "date": "2024-09-23 02:10:47",
+        "sentiment_score": -0.09346498548984528
+    },
+    {
+        "title": "Más bajas por enfermedad, menos productividad",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/09/14/illia-golem-kC2F--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-bajas-enfermedad-productividad-20240923015151-nt.html",
+        "date": "2024-09-22 23:51:55",
+        "sentiment_score": -0.25087083876132965
+    },
+    {
+        "title": "¡Asista al próximo Hyland Summit Madrid 2024 el próximo martes 1 de octubre!",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2024/09/hyland-summit-1024x576.jpg.webp",
+        "tags": [
+            "hyland",
+            "contenido destacado",
+            "hyland summit"
+        ],
+        "link": "https://revistabyte.es/noticias/contenido-hyland-summit/",
+        "date": "2024-09-23 01:00:00",
+        "sentiment_score": 0.6492320764809847
+    },
+    {
+        "title": "Barcelona prolongó su arranque perfecto en La Liga",
+        "image_url": "./assets/ai_generated/v1_txt2img_4364b755eddf439597074fe33ca44b66.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/186514/barcelona-prolongo-su-arranque-perfecto-en-laliga/",
+        "date": "2024-09-23 00:59:48",
+        "sentiment_score": -0.7392641864717007
+    },
+    {
+        "title": "James Rodríguez entró desde el banco en el empate de Rayo Vallecano ante Atlético de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/3JBMIRRLEJFH5COLFU4IZEZX5E.jpg?auth=8ff56c25acbf41c27e489178fc29c49ce32fff41bf4e71bc000711faed140015",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/23/james-rodriguez-entro-desde-el-banco-en-el-empate-de-rayo-vallecano-ante-atletico-de-madrid/",
+        "date": "2024-09-23 00:24:52",
+        "sentiment_score": -0.38939447328448296
+    },
+    {
+        "title": "El Piles, la política y los conversos",
+        "image_url": "./assets/ai_generated/v1_txt2img_9a2f162dc5264dfb95bf37b86fb3c39f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/opinion/2024/09/23/piles-politica-conversos-108434597.html",
+        "date": "2024-09-22 23:32:53",
+        "sentiment_score": -0.3466373533010483
+    },
+    {
+        "title": "¿El Barça puede fichar un sustituto para Ter Stegen antes del mercado de enero?",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/23/culemania/palco/888171175_13481009_1706x960.jpg?contentId=ESPIMA20240923_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240923/el-barca-fichar-sustituto-ter-stegen-mercado/888161176_0.html",
+        "date": "2024-09-22 23:26:40",
+        "sentiment_score": -0.722998870536685
+    },
+    {
+        "title": "¿Se pueden cobrar las visitas para alquilar un piso? Lo que dice la ley",
+        "image_url": "https://album.mediaset.es/eimg/2024/09/17/los-embargos-sobre-vivienda-en-madrid-llegan-a-257-en-el-segundo-trimestre-de-2024_19aa.jpg",
+        "tags": [
+            "vivienda"
+        ],
+        "link": "https://www.telecinco.es/noticias/economia/vivienda/20240922/cobrar-visitas-alquilar-piso-be5m_18_013417056.html",
+        "date": "2024-09-22 23:00:23",
+        "sentiment_score": -0.10660769045352936
+    },
+    {
+        "title": "Muchas familias dan de baja a sus empleadas del hogar tras dispararse el coste por contratarlas",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/09/23/empleadas-hogar-840.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elcorreo.com/economia/trabajo/familias-dan-baja-empleadas-hogar-tras-dispararse-20240923004211-ntrc.html",
+        "date": "2024-09-22 22:42:13",
+        "sentiment_score": -0.7495914958417416
+    },
+    {
+        "title": "Mushuc Runa aleja del liderato a Orense con 3 goles del argentino Fernández",
+        "image_url": "./assets/ai_generated/v1_txt2img_7849bb1ac59f4caea5b14924c98d0c3f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/23/mushuc-runa-aleja-del-liderato-a-orense-con-3-goles-del-argentino-fernandez/",
+        "date": "2024-09-23 02:00:25",
+        "sentiment_score": -0.4199129119515419
+    },
+    {
+        "title": "Que el menorquín David Llufriu haya asistido, y no es la primera vez...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3010757.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2024/09/23/2246409/menorquin-david-llufriu-haya-asistido-primera-vez.html",
+        "date": "2024-09-23 02:00:01",
+        "sentiment_score": -0.10535404086112976
+    },
+    {
+        "title": "Refugiados en la universidad para volver a la vida",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4Z645LYIHNFAZH2FHIQPYEZ3UE.jpg?auth=f9e6f36414fd70bb022491af92088ec0939e2f9de763beec65f7f123e27242f6&width=1200",
+        "tags": [
+            "guerra",
+            "acnur",
+            "desplazados",
+            "irak",
+            "educación superior",
+            "universidad",
+            "refugiados",
+            "rectores"
+        ],
+        "link": "https://elpais.com/sociedad/vidas-nuevas/2024-09-23/refugiados-en-la-universidad-para-volver-a-la-vida.html",
+        "date": "2024-09-23 02:00:00",
+        "sentiment_score": -0.2573702931404114
+    },
+    {
+        "title": "Faltan hombres con estudios y feministas",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/22/66f066407a39a.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/240923/1625098/faltan-hombres-estudios-feministas.html",
+        "date": "2024-09-23 01:30:00",
+        "sentiment_score": 0.04779210686683655
+    },
+    {
+        "title": "Sánchez se borra de la Fiesta de la Rosa más emblemática por un \"mal tiempo\" inexistente",
+        "image_url": "https://s1.elespanol.com/2024/09/22/mesa/887921436_249404082_1706x960.jpg?contentId=ESPIMA20240922_0237",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20240923/sanchez-borra-fiesta-rosa-emblematica-mal-tiempo-inexistente/887911368_0.html",
+        "date": "2024-09-23 01:21:53",
+        "sentiment_score": 0.13637834414839745
+    },
+    {
+        "title": "Albiol: \"Regularizar a 500.000 'sin papeles' está bien si miramos uno a uno sus antecedentes penales\"",
+        "image_url": "https://s1.elespanol.com/2024/09/22/espana/politica/887921384_249402538_1706x960.jpg?contentId=ESPIMA20240922_0185",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240923/albiol-regularizar-sin-papeles-bien-miramos-antecedentes-penales/887161377_0.html",
+        "date": "2024-09-23 01:14:54",
+        "sentiment_score": -0.9364981185644865
+    },
+    {
+        "title": "Más de 92.000 mujeres que ejercen la prostitución en España presentan indicios de ser víctimas de trata",
+        "image_url": "https://s1.elespanol.com/2024/09/22/espana/politica/887921625_249409933_1706x960.jpg?contentId=ESPIMA20240922_0426",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20240923/mujeres-ejercen-prostitucion-espana-presentan-indicios-victimas-trata/887411452_0.html",
+        "date": "2024-09-23 01:02:29",
+        "sentiment_score": -0.006480805575847626
+    },
+    {
+        "title": "Pesimismo en el Gobierno sobre el apoyo de Junts pero sigue el diálogo tras el viaje de Cerdán a Suiza",
+        "image_url": "https://s1.elespanol.com/2024/09/22/actualidad/887921592_249408946_1706x960.png?contentId=ESPIMA20240922_0393",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20240923/pesimismo-gobierno-apoyo-junts-sigue-dialogo-viaje-cerdan-suiza/887911340_0.html",
+        "date": "2024-09-23 00:36:32",
+        "sentiment_score": -0.8801592895761132
     }
 ];
