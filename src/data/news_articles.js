@@ -171,55 +171,6 @@ export default [
         "sentiment_score": -0.34515203908085823
     },
     {
-        "title": "Activistas reportan fuerte aumento de los latinos que se registran para votar en las elecciones de EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2020/10/181019145756-elecciones-latino-voto-estados-unidos-pkg-gabriela-matute-urdaneta-00000000-full-169.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones en estados unidos noticias",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/20/voto-latino-registro-latios-aumento-kamala-harris-eeuu-campana-elecciones-orix/",
-        "date": "2024-09-20 13:42:06",
-        "sentiment_score": 0.385853573679924
-    },
-    {
-        "title": "Hezbollah lanza más de 100 proyectiles en la frontera entre el Líbano e Israel",
-        "image_url": "./assets/ai_generated/v1_txt2img_9840f5920a0c4c339c12b94939c43418.png",
-        "tags": [
-            "líbano",
-            "fast – news variety",
-            "hezbollah",
-            "ataque israel hezbollah",
-            "xpress",
-            "israel"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hezbollah-lanza-proyectiles-frontera-libano-israel-cafe-tv/",
-        "date": "2024-09-20 13:34:20",
-        "sentiment_score": -0.31071966886520386
-    },
-    {
-        "title": "Europa prestará a Ucrania, devastada por la guerra, hasta US$ 39.000 millones para su recuperación como parte del compromiso del G7",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2162527426-e1726837658366.jpg?quality=100&strip=info",
-        "tags": [
-            "guerra ucrania rusia",
-            "ursula von der leyen",
-            "unión europa",
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/20/europa-prestara-ucrania-guerra-us-39-000-millones-compromiso-g7-trax/",
-        "date": "2024-09-20 13:09:24",
-        "sentiment_score": 0.0014299750328063965
-    },
-    {
-        "title": "Video muestra a soldados arrojando cuerpos cuerpos desde una azotea en la Ribera Occidental",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/west-bank-0-20240920121631179.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/israel-cuerpos-soldados-cadaveres-azotea-ribera-occidental-trax/",
-        "date": "2024-09-20 12:31:11",
-        "sentiment_score": -0.7181010898202658
-    },
-    {
         "title": "Carmen Iglesias en Buenas Letras",
         "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/09/15/trabajo-kHyG--170x119@Diario%20Sur.jpg",
         "tags": [
@@ -280,46 +231,6 @@ export default [
         "sentiment_score": -0.06228935718536377
     },
     {
-        "title": "Todo lo que se sabe sobre los buscas que explotaron en el Líbano",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/20/busca-RBZPLUiIdBINebfDU6YfuKN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/michel-barnier-anuncia-gobierno-20240920112843-nt.html",
-        "date": "2024-09-20 14:08:12",
-        "sentiment_score": -0.12645894289016724
-    },
-    {
-        "title": "Un antidepresivo ataca el tumor cerebral más mortal: el glioblastoma",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/09/20/Glioblastoma-cells_credit_SohyonLeeandBerendSnijeder_ETHZurich_1.png",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/antidepresivo-ataca-tumor-cerebral-mortal-glioblastoma-20240920124203-nt.html",
-        "date": "2024-09-20 13:36:08",
-        "sentiment_score": -0.11679673194885254
-    },
-    {
-        "title": "Los afectados por el cierre de los centros de estética Único tienen un mes de plazo para reclamar sus deudas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/20/1483845313-RgMRcEBEvG7ksGzBHh84VyO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/afectados-cierre-centros-estetica-unico-mes-plazo-20240920125630-nt.html",
-        "date": "2024-09-20 12:23:09",
-        "sentiment_score": -0.14933189749717712
-    },
-    {
-        "title": "Israel denuncia un ataque de Hizbolá con 150 cohetes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/20/1486388667-kl7C-U603093508298HcH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hizbola-lanza-ataque-israel-150-cohetes-20240920141836-nt.html",
-        "date": "2024-09-20 12:20:23",
-        "sentiment_score": -0.7445954345166683
-    },
-    {
         "title": "El primer Viaja+65 de turismo social se abre a 7.000 mayores en la Comunidad Valenciana",
         "image_url": "https://imagenes.elpais.com/resizer/v2/MT5FE4IG2ZCGDA6A7OPWJBCUPU.jpeg?auth=6600d406849a20501583a4a33f1cc5a3aad97c59e10ed3523789aaeb59006869&width=1200",
         "tags": [
@@ -369,117 +280,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-20/pspv-y-compromis-piden-condonar-la-deuda-y-el-pp-replica-que-no-blanqueara-el-cupo-catalan.html",
         "date": "2024-09-20 15:08:11",
         "sentiment_score": -0.880317865870893
-    },
-    {
-        "title": "El 57% de mujeres y el 74% de hombres catalanes de 30 a 34 años no tienen hijos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QNOTED7UDZD2NHSOU5WVY7IWKA.jpg?auth=ac7bafbe7a01d9a52048125f1217e54294ac5f2e4a00fd6f9e240c3c79b8c24d&width=1200",
-        "tags": [
-            "maternidad",
-            "familia",
-            "fecundación",
-            "idescat",
-            "natalidad",
-            "niños",
-            "mujeres",
-            "cataluña",
-            "demografía"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-20/el-57-de-mujeres-y-el-74-de-hombres-catalanes-de-30-a-34-anos-no-tienen-hijos.html",
-        "date": "2024-09-20 13:24:45",
-        "sentiment_score": 0.05511423945426941
-    },
-    {
-        "title": "Los notarios ultiman una guía para agilizar la documentación de menores migrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NZZHJDMCSFCOZDXBFHHHO5LONA.jpg?auth=284d3eb169f03884f6250a6a5070244441d2b13e8e50abe1c4a3a49591f791d1&width=1200",
-        "tags": [
-            "canarias",
-            "menores",
-            "menores migrantes",
-            "tenerife",
-            "migración",
-            "españa",
-            "notarios",
-            "trámites administración"
-        ],
-        "link": "https://elpais.com/espana/2024-09-20/los-notarios-ultiman-una-guia-para-agilizar-la-documentacion-de-menores-migrantes.html",
-        "date": "2024-09-20 13:19:09",
-        "sentiment_score": -0.04232148826122284
-    },
-    {
-        "title": "Cae una banda que atracaba a hombres con los que quedaba por aplicaciones y se emborrachaba mientras lo hacía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DCY7EWA7INBLBJGFOA7VNAPJEI.png?auth=72abd5c1043a2bedf59b38ae7f525eb91de235b4c176318945ef9a33829cf246&width=1200",
-        "tags": [
-            "violencia",
-            "robo armas",
-            "sucesos",
-            "robo domicilios",
-            "policía nacional",
-            "madrid",
-            "comunidad de madrid",
-            "homofobia",
-            "atracos"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-09-20/cae-una-banda-que-atracaba-a-hombres-con-los-que-quedaba-por-aplicaciones-y-se-emborrachaba-mientras-lo-hacia.html",
-        "date": "2024-09-20 12:28:49",
-        "sentiment_score": -0.7470458596944809
-    },
-    {
-        "title": "La alcaldesa de Valencia, sobre el relato por la igualdad del diputado de Vox condenado por maltrato: “Una provocación innecesaria”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6CAE33J5MYDUQ6WE5UEJRLOR5U.jpg?auth=040fb6038d7fdc1ce5eed991b99876eea0979eaa94d453a9e00584ce15544905&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "compromis-q",
-            "vox",
-            "pspv-psoe",
-            "pp",
-            "ayuntamiento valencia",
-            "igualdad oportunidades",
-            "denuncias",
-            "valencia",
-            "premios literarios",
-            "carlos flores juberías",
-            "maría josé catalá"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-20/la-alcaldesa-de-valencia-sobre-el-relato-por-la-igualdad-del-diputado-de-vox-condenado-por-maltrato-una-provocacion-innecesaria.html",
-        "date": "2024-09-20 12:27:58",
-        "sentiment_score": 0.0695628821849823
-    },
-    {
-        "title": "El lehendakari afirma, tras reunirse con Sánchez, que el PNV “va a jugar a favor de la estabilidad” de la legislatura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5RQ4DNSF4FD3BOVHSDJPKWQESI.jpg?auth=24ff1af818d081d6274c0a598d99c5822336c5139d502218a32e5dd819baa100&width=1200",
-        "tags": [
-            "financiación autonómica",
-            "pedro sánchez",
-            "ángel víctor torres",
-            "imanol pradales",
-            "pp",
-            "eaj-pnv",
-            "país vasco",
-            "españa",
-            "psoe",
-            "gobierno",
-            "lehendakari"
-        ],
-        "link": "https://elpais.com/espana/2024-09-20/el-lehendakari-afirma-tras-reunirse-con-sanchez-que-el-pnv-va-a-jugar-a-favor-de-la-estabilidad-de-la-legislatura.html",
-        "date": "2024-09-20 12:01:24",
-        "sentiment_score": -0.6128457672894001
-    },
-    {
-        "title": "El Rey habla en Canarias sobre la “urgente necesidad” de una política industrial europea más fuerte y cohesionada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UGST5IGCCSXWMMLNFNO7PYNVUE.jpg?auth=7ba847f2ee5b28deb70768865cceea8d9fc52b13b429eecff0b9d4fab0b49ad2",
-        "tags": [
-            "sergio mattarella",
-            "europa",
-            "cotec",
-            "felipe vi",
-            "canarias",
-            "españa",
-            "italia",
-            "industria"
-        ],
-        "link": "https://elpais.com/espana/2024-09-20/el-rey-habla-en-canarias-sobre-la-urgente-necesidad-de-una-politica-industrial-europea-mas-fuerte-y-cohesionada.html",
-        "date": "2024-09-20 11:43:25",
-        "sentiment_score": -0.8592328745871782
     },
     {
         "title": "Lagarde (BCE) dice que las 'fintech' pueden tanto ayudar a transmitir la política monetaria como socavarla",
@@ -7761,5 +7561,406 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240924/jesus-maria-sanchez/888161268_0.html",
         "date": "2024-09-23 22:00:00",
         "sentiment_score": -0.01933106780052185
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 24 de septiembre en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/IRDARG3QYZC75LCLRNLZH4B5JM.jpg?auth=2c09bfa0d78ac45dec313ca8799b58baaab0fc85785d14400bdd94eeacf373ec",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/24/clima-las-temperaturas-que-predominaran-este-24-de-septiembre-en-malaga/",
+        "date": "2024-09-24 02:02:09",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/YRWIU7LQ3ZDLLKAEJJGP2KXMW4.jpg?auth=a62ce95adade1f16f484e283dc298d05371d46ee5703689cb493de26df1f3413",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/24/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-madrid/",
+        "date": "2024-09-24 01:31:24",
+        "sentiment_score": 0.17115062847733498
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 24 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/GNCJLIUHRREN3LQU75F3GIDKEU.jpg?auth=865db6039bd6301a64a9f649a4111c4c6bbc9dba1b77707d5c91cc5425455185",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/24/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-24-de-septiembre/",
+        "date": "2024-09-24 01:01:09",
+        "sentiment_score": -0.0541306734085083
+    },
+    {
+        "title": "Maduro afirma que Venezuela tiene \"extraordinarias perspectivas de desarrollo\" con España",
+        "image_url": "./assets/ai_generated/v1_txt2img_d690fd5535b9498289e83f2632de6726.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/24/maduro-afirma-que-venezuela-tiene-extraordinarias-perspectivas-de-desarrollo-con-espana/",
+        "date": "2024-09-24 00:32:17",
+        "sentiment_score": 0.6631297618150711
+    },
+    {
+        "title": "Sánchez y la primera ministra de Barbados se reúnen para impulsar la reforma de la arquitectura financiera internacional",
+        "image_url": "https://www.infobae.com/resizer/v2/I66RD6X3ARCZRGKLJ5LCVX43AY.jpg?auth=458bc9ac0f4164e755df70ca6b89f2d61b55297c296f669fda16864d9078df36",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/23/sanchez-y-la-primera-ministra-de-barbados-se-reunen-para-impulsar-la-reforma-de-la-arquitectura-financiera-internacional/",
+        "date": "2024-09-23 23:34:04",
+        "sentiment_score": 0.3424772620201111
+    },
+    {
+        "title": "Hoy será noticia. Martes, 24 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_ba6eeb8161d841d6bd5d5104ef31ae81.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/23/hoy-sera-noticia-martes-24-de-septiembre-de-2024/",
+        "date": "2024-09-23 23:16:50",
+        "sentiment_score": 0.02976948767900467
+    },
+    {
+        "title": "La Quiniela: estos son los resultados ganadores de la jornada 9",
+        "image_url": "https://www.infobae.com/resizer/v2/5FKPXSBTX5CZTA55NMDH7XYH24.jpg?auth=ea8730026c02b39d14cb4924dc63d5b3e5290cb243f5a366d928fcfc27bde699",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/23/la-quiniela-estos-son-los-resultados-ganadores-de-la-jornada-9/",
+        "date": "2024-09-23 23:15:31",
+        "sentiment_score": 0.04327567666769028
+    },
+    {
+        "title": "James Rodríguez divide a la afición de Rayo Vallecano tras suplencia en España",
+        "image_url": "https://www.infobae.com/resizer/v2/YRUKVH57IRGYTMSGCT3D24TMUM.jpg?auth=b369b28a7d68bbd16c1ceaea52d68b03b10a10cc3b3cd22a0a709702a64dfb75",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/23/james-rodriguez-divide-a-la-aficion-de-rayo-vallecano-tras-suplencia-en-espana/",
+        "date": "2024-09-23 22:49:16",
+        "sentiment_score": 0.12306442111730576
+    },
+    {
+        "title": "Albares reprocha a Feijóo que no haya pedido perdón al servicio exterior de España",
+        "image_url": "./assets/ai_generated/v1_txt2img_364fb4f32ea54e9abc9ffedfbf31dad4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/23/albares-reprocha-a-feijoo-que-no-haya-pedido-perdon-al-servicio-exterior-de-espana/",
+        "date": "2024-09-23 22:46:12",
+        "sentiment_score": -0.8975445097312331
+    },
+    {
+        "title": "Ermonela Jaho se corona en la apertura de temporada del Real con 'Adriana Lecouvreur'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/23/ermonela-jaho-se-corona-en-la-apertura-de-temporada-del-real-con-adriana-lecouvreur/",
+        "date": "2024-09-23 22:20:35",
+        "sentiment_score": 0.4923740029335022
+    },
+    {
+        "title": "Bullrich dice que el Gobierno de Milei no toma en serio la “manipulación de la justicia” de Maduro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20982934-0-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "javier milei",
+            "venezuela",
+            "xpress",
+            "fast – news variety",
+            "nicolás maduro",
+            "captura"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-argentina-maduro-bullrich-orden-aprehension-votos-conclusiones-tv/",
+        "date": "2024-09-24 02:05:42",
+        "sentiment_score": -0.8002787493169308
+    },
+    {
+        "title": "Zedillo: Que se elijan los jueces importantes por elección popular es una aberración",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20982632-21348-353-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "amlo",
+            "xpress",
+            "fast – news variety",
+            "méxico",
+            "reforma judicial"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/zedillo-reforma-judicial-democracia-mexico-aristegui-tv/",
+        "date": "2024-09-24 02:05:07",
+        "sentiment_score": -0.8373319134116173
+    },
+    {
+        "title": "Venezuela ordena la captura de Javier Milei, y Argentina la de Maduro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171588690.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-argentina-orden-captura-milei-maduro-fdr-conclusiones-tv-fast/",
+        "date": "2024-09-24 01:53:58",
+        "sentiment_score": -0.6748549453914165
+    },
+    {
+        "title": "Aprueban una vacuna contra la influenza que no lleva aguja y se puede aplicar en casa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/40244666-07949847-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "fast – reserve",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/vacuna-influenza-sin-aguja-minuto-salud-fast/",
+        "date": "2024-09-24 01:24:44",
+        "sentiment_score": 0.26674676686525345
+    },
+    {
+        "title": "Blinken advierte que Rusia usará el invierno como arma contra Ucrania",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173285682.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "líbano",
+            "fast – news briefs",
+            "ataque israel hezbollah",
+            "guerra rusia ucrania",
+            "china"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-blinken-advierte-rusia-usara-invierno-como-arma-guerra-contra-ucrania/",
+        "date": "2024-09-24 01:03:54",
+        "sentiment_score": -0.17123381793498993
+    },
+    {
+        "title": "Netanyahu: guerra en el Líbano no es contra civiles",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173150528.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/netanyahu-guerra-ciudadanos-libano-jose-levy-panorama-mundial-tv-fast/",
+        "date": "2024-09-24 00:51:54",
+        "sentiment_score": -0.7031416594982147
+    },
+    {
+        "title": "La Justicia de Argentina ordena la detención del presidente de Venezuela, Nicolás Maduro, en una causa por delitos de lesa humanidad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1750461-espero-que-le-vaya-bien-en-su-nueva-vida-dice-maduro-sobre-la-salida-de-gonzalez-urrutia-de-venezuela.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina",
+            "crisis venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/23/justicia-argentina-ordena-detencion-nicolas-maduro-venezuela-orix/",
+        "date": "2024-09-24 00:49:18",
+        "sentiment_score": -0.5408953726291656
+    },
+    {
+        "title": "Argentina ordena la detención de Maduro por delitos de lesa humanidad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1729114-nicolas-maduro-llama-fascista-a-javier-milei-durante-discurso.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "nicolás maduro",
+            "venezuela",
+            "javier milei"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-ordena-detencion-nicolas-maduro-diosdado-cabello-venezuela-panorama-mundial-tv/",
+        "date": "2024-09-24 00:44:41",
+        "sentiment_score": -0.6809365339577198
+    },
+    {
+        "title": "La violencia en México siguen generando opiniones encontradas entre López Obrador y el embajador Ken Salazar",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumbnail-amlo-ken.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "violencia armada en méxico",
+            "embajada de ee.uu.",
+            "lópez obrador",
+            "amlo",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/violencia-mexico-sigue-generando-opiniones-encontradas-amlo-embajador-ken-salazar-perspectivas-mexico-tv/",
+        "date": "2024-09-24 00:22:17",
+        "sentiment_score": -0.6657044664025307
+    },
+    {
+        "title": "Un niño secuestrado en California en 1951 cuando tenía 6 años aparece vivo más de 70 años después",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756902-secuestrado-california-albino.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "california",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/23/nino-secuestrado-california-1951-6-anos-aparece-vivo-70-anos-despues-trax/",
+        "date": "2024-09-24 00:19:46",
+        "sentiment_score": -0.4750701989978552
+    },
+    {
+        "title": "Helga Schmid, una experta en alta diplomacia, presidirá la Asamblea General de la ONU",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/23/helga-R57voiHxGcemZeZ1XbjzscM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/helga-schmid-experta-alta-diplomacia-20240923175739-nt.html",
+        "date": "2024-09-24 02:08:48",
+        "sentiment_score": -0.11753681302070618
+    },
+    {
+        "title": "Moncloa ultima el ok para que los árabes de STC amplíen al 9,9% su participación total en Telefónica",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/24/ministrostc-RC78QnEWNO6JQVghzIiYS0O-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/moncloa-ultima-arabes-stc-amplien-participacion-total-20240924172245-nt.html",
+        "date": "2024-09-24 02:07:50",
+        "sentiment_score": -0.06729216873645782
+    },
+    {
+        "title": "La apuesta española contra el cáncer",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/09/23/Fotoparaelfinal.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/apuesta-espanola-cancer-20240924145219-nt.html",
+        "date": "2024-09-24 00:53:00",
+        "sentiment_score": -0.05440405011177063
+    },
+    {
+        "title": "El CNI no debe formar parte de la negociación política",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/09/04/venta_coche-kPX--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-cni-debe-formar-parte-negociacion-politica-20240924200631-nt.html",
+        "date": "2024-09-24 00:01:40",
+        "sentiment_score": -0.10638269782066345
+    },
+    {
+        "title": "La Real Sociedad busca el tesoro en Niza",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/18b06080-b558-4153-a1a5-643c51ebac67_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/09/24/real-sociedad-busca-tesoro-niza-8722805.html",
+        "date": "2024-09-24 02:05:00",
+        "sentiment_score": -0.7152690589427948
+    },
+    {
+        "title": "Everton pasa a manos del grupo estadounidense Friedkin",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/09/AP24173526861048.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "everton"
+        ],
+        "link": "https://eldiariony.com/2024/09/23/everton-pasa-a-manos-del-grupo-estadounidense-friedkin/",
+        "date": "2024-09-24 01:17:25",
+        "sentiment_score": 0.03198578208684921
+    },
+    {
+        "title": "El 'G8' en femenino ya está aquí: así funciona la red de mujeres con mayor impacto en la economía española",
+        "image_url": "https://s1.elespanol.com/2024/09/23/mujer/actualidad/888171589_249423519_1706x960.png?contentId=ESPIMA20240923_0415",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/actualidad/20240924/g8-femenino-funciona-red-mujeres-mayor-impacto-economia-espanola/888161242_0.html",
+        "date": "2024-09-24 01:13:53",
+        "sentiment_score": 0.6297236178070307
+    },
+    {
+        "title": "Pep Guardiola pierde a Rodri Hernández por el resto de la temporada",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/09/24/2024092402434668051.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/pep-guardiola-pierde-rodri-hernandez-resto-temporada/20240924024959318629.html",
+        "date": "2024-09-24 00:49:59",
+        "sentiment_score": -0.7593607921153307
+    },
+    {
+        "title": "Los minoritarios de Sabadell se rebelan contra BBVA: \"Queremos quitar el miedo y dar confianza en el banco\"",
+        "image_url": "https://s1.elespanol.com/2024/09/23/invertia/empresas/banca/888171816_249430585_1706x960.jpg?contentId=ESPIMA20240923_0642",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20240924/minoritarios-sabadell-rebelan-bbva-queremos-quitar-miedo-dar-confianza-banco/888161481_0.html",
+        "date": "2024-09-24 00:31:16",
+        "sentiment_score": 0.22365212067961693
+    },
+    {
+        "title": "Oslo supera a Madrid y Barcelona en inversión europea en startups: así se fragua el despertar nórdico",
+        "image_url": "https://s1.elespanol.com/2024/09/23/actualidad/888171454_249419158_1706x960.jpg?contentId=ESPIMA20240923_0280",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/inversores/20240924/oslo-supera-madrid-barcelona-inversion-europea-startups-fragua-despertar-nordico/888161419_0.html",
+        "date": "2024-09-24 00:05:05",
+        "sentiment_score": 0.7501235194504261
+    },
+    {
+        "title": "FC Barcelona tendrá el logo de Coldplay contra el Real Madrid en el Bernabéu",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/09/AP24245589218125_3b6d3c.jpg",
+        "tags": [
+            "real madrid",
+            "estadio santiago bernabéu",
+            "fc barcelona",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/09/23/fc-barcelona-tendra-el-logo-de-coldplay-contra-el-real-madrid-en-el-bernabeu/",
+        "date": "2024-09-23 22:23:35",
+        "sentiment_score": 0.7118175346404314
+    },
+    {
+        "title": "Una decisión que causa estupor en la comunidad universitaria: tramitan el contrato a un dentista que falseó la obtención de una tesis",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d02d0bc-5cb5-45ae-8d32-1dcdcae28baf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/09/24/decision-causa-estupor-comunidad-universitaria-108486662.html",
+        "date": "2024-09-24 02:10:00",
+        "sentiment_score": -0.7538914531469345
+    },
+    {
+        "title": "Ter Stegen operado “satisfactoriamente”",
+        "image_url": "./assets/ai_generated/v1_txt2img_4f0fb72fe6f34643b8d8c56d5a3ae5e2.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/186735/ter-stegen-operado-satisfactoriamente/",
+        "date": "2024-09-24 01:52:28",
+        "sentiment_score": -0.33031823486089706
+    },
+    {
+        "title": "Jhon Jáder Durán está en la mira de un campeón de Champions League tras su gran momento con Aston Villa",
+        "image_url": "https://www.infobae.com/resizer/v2/YLO4ZSKWDBRAV622UE72QBPUHU.jpg?auth=5e3ec42047c94e533f6251eb9ff32b0aa586a730f2d6539ac3fa330134c6913c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/24/jhon-jader-duran-esta-en-la-mira-de-un-campeon-de-champions-league-tras-su-gran-momento-con-aston-villa/",
+        "date": "2024-09-24 01:28:24",
+        "sentiment_score": 0.35801441222429276
+    },
+    {
+        "title": "El drama de Eva y otros 205 trabajadores por el cierre de Bimbo: despedida con dos hijos, hipoteca y 49 años",
+        "image_url": "https://s1.elespanol.com/2024/09/22/reportajes/887921544_249431228_1706x960.jpg?contentId=ESPIMA20240922_0345",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240924/drama-eva-trabajadores-cierre-bimbo-despedida-hijos-hipoteca-anos/887661268_0.html",
+        "date": "2024-09-24 01:13:56",
+        "sentiment_score": -0.07226287573575974
+    },
+    {
+        "title": "La provocación de Arturo Vidal antes de la revancha entre River Plate y Colo Colo en el Monumental",
+        "image_url": "./assets/ai_generated/v1_txt2img_a1ddaebd95004c23aa37cee9a299d666.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/24/la-provocacion-de-arturo-vidal-antes-de-la-revancha-entre-river-plate-y-colo-colo-en-el-monumental/",
+        "date": "2024-09-24 00:49:11",
+        "sentiment_score": 0.24438320472836494
+    },
+    {
+        "title": "Bruselas sitúa a España como el país de la UE donde más bajan los precios del AVE tras la liberalización: un 45%",
+        "image_url": "https://s1.elespanol.com/2024/09/06/malaga/vivir/turismo/883921867_248975318_1706x960.jpg?contentId=ESPIMA20240906_0268",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20240924/bruselas-situa-espana-pais-ue-bajan-precios-ave-liberalizacion/888161569_0.html",
+        "date": "2024-09-24 00:30:47",
+        "sentiment_score": 0.06207387149333954
     }
 ];
