@@ -145,41 +145,6 @@ export default [
         "sentiment_score": -0.8087416682392359
     },
     {
-        "title": "Nuevo análisis de ADN desentraña el misterio del \"príncipe perdido\" Kaspar Hauser",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756088-principe-perdido.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ciencia",
-            "alemania",
-            "adn"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/21/adn-misterio-principe-perdido-kaspar-hauser-trax/",
-        "date": "2024-09-21 13:22:50",
-        "sentiment_score": -0.21951676160097122
-    },
-    {
-        "title": "Sospechan que el superyate hundido en agosto contenía cajas fuertes herméticas con datos de inteligencia sensibles",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756084-superyate-hundido.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "italia",
-            "superyate",
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/21/superyate-hundido-cajas-fuertes-hermeticas-inteligencia-sensibles-trax/",
-        "date": "2024-09-21 12:45:31",
-        "sentiment_score": -0.4495953321456909
-    },
-    {
-        "title": "El ejército israelí dice que un importante miembro de Hamas murió en Gaza",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1752567-gaza-8045a4.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "gaza",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/21/destacado-miembro-hamas-murio-gaza/",
-        "date": "2024-09-21 10:48:50",
-        "sentiment_score": -0.8451785510405898
-    },
-    {
         "title": "La realidad virtual y aumentada dan otra dimensión al turismo",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/22/turismo-RozAxfD78gEUS8gVK55mhZK-1200x840@diario_abc.jpg",
         "tags": [
@@ -248,36 +213,6 @@ export default [
         "link": "https://www.abc.es/opinion/sevilla/felix-machuca-interesa-20240922160622-nts.html",
         "date": "2024-09-21 16:24:02",
         "sentiment_score": -0.010040313005447388
-    },
-    {
-        "title": "Endesa agita la guerra de precios eléctricos con la llegada del otoño",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/21/Endesa-RTg3OkwTcN6v3hTx4SXJ8qK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/endesa-agita-guerra-precios-electricos-llegada-otono-20240921161000-nt.html",
-        "date": "2024-09-21 14:10:01",
-        "sentiment_score": -0.061209797859191895
-    },
-    {
-        "title": "Irán presenta un renovado dron kamikaze y un nuevo misil en medio de la creciente tensión en Oriente Próximo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/21/nuevo-misil-iran.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/iran-presenta-renovado-dron-kamikaze-nuevo-misil-20240921160829-nt.html",
-        "date": "2024-09-21 14:08:30",
-        "sentiment_score": -0.1402185559272766
-    },
-    {
-        "title": "Legado de dudas: secretos ocultos de los archivos de JFK",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2023/11/22/jfk-jackie-ky1G-U60715495486XbE-1200x672@abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/legado-dudas-secretos-ocultos-archivos-jfk-20231122182451-nt.html",
-        "date": "2024-09-21 12:09:54",
-        "sentiment_score": -0.16506758332252502
     },
     {
         "title": "El futuro en juego: los jóvenes del Príncipe, una generación al borde del abismo",
@@ -7705,5 +7640,464 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20240925/llueve-pero-seguimos-secos/888541141_13.html",
         "date": "2024-09-24 22:00:00",
         "sentiment_score": -0.7671390306204557
+    },
+    {
+        "title": "Cirugías vía satélite: Defensa fortalece sus telecomunicaciones para brindar asistencia médica a distancia a los militares en el exterior",
+        "image_url": "https://www.infobae.com/resizer/v2/ABS2YGRUKNA5HPPCK6Q3F5T7OA.jpg?auth=37b38966eda495230e3be9e4a30611f6197a9d42fec0c1ac548cd5b1eacffa5c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/25/cirugias-via-satelite-defensa-fortalece-sus-telecomunicaciones-para-brindar-asistencia-medica-a-distancia-a-los-militares-en-el-exterior/",
+        "date": "2024-09-25 02:00:01",
+        "sentiment_score": 0.294414684176445
+    },
+    {
+        "title": "La experiencia religiosa de leer a Sally Rooney: “No sólo es una superventas, también es muy buena literatura”",
+        "image_url": "https://www.infobae.com/resizer/v2/DXBCIPHJJRH6JOJFKNTJKMQMAA.jpg?auth=0caa762ea2a6f3bd53efa1907090e9bc57bae0e1dc9e9b380bcad69ee46b6fd2",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/09/25/la-experiencia-religiosa-de-leer-a-sally-rooney-no-solo-es-una-superventas-tambien-es-muy-buena-literatura/",
+        "date": "2024-09-25 02:00:01",
+        "sentiment_score": 0.22856196761131287
+    },
+    {
+        "title": "Centros Ideal las dejó en la calle con 50 años, nadie las contrataba por su edad y ahora tienen su propia clínica: “A ellos, en cambio, les fichan como directivos”",
+        "image_url": "https://www.infobae.com/resizer/v2/OSCVNTFSZBFVNL2NPPB53PQRCY.jpeg?auth=2984dcbbaf2fd31e8facc6c9d0fa99921e59f2cb214b7bfb8606a5f3a0bc6d3b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/25/centros-ideal-las-dejo-en-la-calle-con-50-anos-nadie-queria-contratarlas-por-su-edad-y-ahora-tienen-su-propia-clinica-a-ellos-les-siguen-fichando-como-directivos/",
+        "date": "2024-09-25 02:00:01",
+        "sentiment_score": -0.8638138193637133
+    },
+    {
+        "title": "Ayuso pagará 8.640 millones para que 500 líneas de autobuses conecten todos los municipios de la Comunidad de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/BBOYPZLSNJCRPJGOAY6TEAQYKM.jpg?auth=33bc602c874ac4953b490ff404c5b9613dbf9105686b0709dc65abf736265ec3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/25/ayuso-pagara-8640-millones-para-que-500-lineas-de-autobuses-conecten-todos-los-municipios-de-la-comunidad-de-madrid/",
+        "date": "2024-09-25 02:00:00",
+        "sentiment_score": 0.26236152462661266
+    },
+    {
+        "title": "Los bancos españoles se muestran inmunes a la bajada de tipos del BCE y pueden cerrar el año con récord de beneficios",
+        "image_url": "https://www.infobae.com/resizer/v2/XK2XMDLY5VHADNBPV4ANGHARTQ.jpg?auth=0b23c9263ef05cec2228faf50eaa4900306b2b354dce8082319d8d229036a11c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/25/los-bancos-espanoles-se-muestran-inmunes-a-la-bajada-de-tipos-del-bce-y-pueden-cerrar-el-ano-con-record-de-beneficios/",
+        "date": "2024-09-25 02:00:00",
+        "sentiment_score": 0.6666367575526237
+    },
+    {
+        "title": "Estas son las 5 señales de alerta de que estás en una relación tóxica, según una psicóloga",
+        "image_url": "https://www.infobae.com/resizer/v2/AAZHHWBVNVBOFNLAJ4KIK32W3A.jpg?auth=91402617dbe6b350e0ee240054e179608dac776c3fc9e06e5d72a5f3c3813add",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/25/estas-son-las-5-senales-de-alerta-de-que-estas-en-una-relacion-toxica-segun-una-psicologa/",
+        "date": "2024-09-25 02:00:00",
+        "sentiment_score": -0.684753293171525
+    },
+    {
+        "title": "Las ‘focaccias’ artesanas que conquistaron Madrid desembarcan ahora en Valencia: “Somos restaurante y también fábrica”",
+        "image_url": "https://www.infobae.com/resizer/v2/BUISWINBSJEVPET2ZJ5C5FUYB4.jpeg?auth=3cba4af606d2ee8e96774d383b4f0291c4e2dbf275637742abf3fd3d800b131c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/25/las-focaccias-artesanas-que-conquistaron-madrid-desembarcan-ahora-en-valencia-somos-restaurante-y-tambien-fabrica/",
+        "date": "2024-09-25 02:00:00",
+        "sentiment_score": 0.6661084201186895
+    },
+    {
+        "title": "Cómo cambian los delitos cuando los cometen los españoles y los extranjeros: esto dicen los datos del INE",
+        "image_url": "https://www.infobae.com/resizer/v2/43T4M6VGHNDZZNWOKECTQIQGJI.jpg?auth=91a500a637d1dd153e6e0c0fbb1ae24ebe569b3ab471ed18dcef2f1eedd60a30",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/25/como-cambian-los-delitos-cuando-los-cometen-los-espanoles-y-los-extranjeros-esto-dicen-los-datos-del-ine/",
+        "date": "2024-09-25 02:00:00",
+        "sentiment_score": -0.7905375435948372
+    },
+    {
+        "title": "El pueblo de Sevilla que es la cuna del Imperio Romano de Occidente: en él nacieron Trajano y Adriano y fue la primera ciudad de Hispania",
+        "image_url": "https://www.infobae.com/resizer/v2/NSR4LT4TZRDFRDZMPVHH4RMEKY.jpg?auth=7af7319e20a715b1c8cc92e7f8527a3deee8f4cda51b3c89b1788218541a998b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2024/09/25/el-pueblo-de-sevilla-que-es-la-cuna-del-imperio-romano-de-occidente-en-el-nacieron-trajano-y-adriano-y-fue-la-primera-ciudad-de-hispania/",
+        "date": "2024-09-25 02:00:00",
+        "sentiment_score": 0.8735898844897747
+    },
+    {
+        "title": "Leonardo Sbaraglia: “Ahora mismo, la realidad del cine argentino es de total incertidumbre, nos han situado en un terreno de conflicto que no queremos”",
+        "image_url": "https://www.infobae.com/resizer/v2/FFK3TTPULRCVVDOZKGFMIN4A4A.png?auth=4dfe1e85ebc411ca07e83560742ac07a1282148bed2645fd1ad1856c64e4ce2a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2024/09/25/leonardo-sbaraglia-ahora-mismo-la-realidad-del-cine-argentino-es-de-total-incertidumbre-nos-han-situado-en-un-terreno-de-conflicto-que-no-queremos/",
+        "date": "2024-09-25 02:00:00",
+        "sentiment_score": 0.16558875516057014
+    },
+    {
+        "title": "Crece en Bolivia la disputa entre Evo Morales y el presidente Luis Arce",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173202997.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "zona andina",
+            "luis arce",
+            "bolivia",
+            "evo morales",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bolivia-evo-morales-luis-arce-disputa-fdr-conclusiones-tv-fast/",
+        "date": "2024-09-25 02:01:44",
+        "sentiment_score": -0.5107226818799973
+    },
+    {
+        "title": "John y Helene azotan a México y amenazan el sur de Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173413600.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "méxico",
+            "huracanes",
+            "ciclones",
+            "noticias de ee.uu.",
+            "temporada de huracanes",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-eeuu-cuba-clima-tormenta-john-helene-panorama-mundial-tv/",
+        "date": "2024-09-25 01:48:04",
+        "sentiment_score": -0.9232983747497201
+    },
+    {
+        "title": "Petro, Milei, Lula y Bukele hablaron en la Asamblea General de las Naciones Unidas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174176376-20240925014325354.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "chile",
+            "argentina",
+            "cono sur",
+            "centroamérica",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/petro-milei-bukele-lideres-latinos-asamblea-general-naciones-unidas-panorama-mundial-tv-fast/",
+        "date": "2024-09-25 01:47:38",
+        "sentiment_score": -0.0042601898312568665
+    },
+    {
+        "title": "Biden reiteró su apoyo a Ucrania en la Asamblea General de la ONU",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174183404.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "asamblea general de la onu",
+            "volodymyr zelensky",
+            "donald turmp",
+            "noticias de ee.uu.",
+            "guerra de rusia en ucrania",
+            "joe biden",
+            "ucrania",
+            "naciones unidas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-ucrania-rusia-guerra-actualidad-apoyo-panorama-mundial-tv/",
+        "date": "2024-09-25 01:41:43",
+        "sentiment_score": -0.276941180229187
+    },
+    {
+        "title": "Gran incendio forestal cubre de humo la ciudad de Quito, hay equipos de emergencia luchando contra las llamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1757533-ecuador-environment-climate-wildfire.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ecuador",
+            "incendio",
+            "quito"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/24/incendio-forestal-humo-quito-ecuador-orix/",
+        "date": "2024-09-25 01:19:36",
+        "sentiment_score": -0.479383859783411
+    },
+    {
+        "title": "Video capta el momento en que dos casas se derrumban en el mar en la costa de Carolina del Norte",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-04-00-00-00-22-still044.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/casas-se-derrumba-en-el-mar-carolina-del-norte-perspectivas-mexico-tv/",
+        "date": "2024-09-25 01:04:27",
+        "sentiment_score": -0.8442250797525048
+    },
+    {
+        "title": "La 79° Asamblea General de la ONU arrancó abordando la crisis climática",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20985233-0-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "mundo",
+            "fast – news briefs",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-asamble-general-onu-rranco-abordando-crisis-climatica-fast/",
+        "date": "2024-09-25 00:51:31",
+        "sentiment_score": -0.6150903627276421
+    },
+    {
+        "title": "Missouri ejecuta al preso Marcellus Williams pese a que los fiscales y la familia de la víctima pidieron que se le perdonara la vida",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/condenadoamuerte.webp",
+        "tags": [
+            "pena de muerte",
+            "instanoticias",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/24/condenado-pena-muerte-missouri-inocencia-trax/",
+        "date": "2024-09-25 00:27:24",
+        "sentiment_score": -0.8614375116303563
+    },
+    {
+        "title": "El ius sanguinis o 'derecho de sangre' podría darte la ciudadanía Europea",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1757403-ciudadania-europa.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "europa",
+            "ciudadanía europea"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/24/ius-sanguinis-derecho-sangre-ciudadania-europea-trax/",
+        "date": "2024-09-25 00:26:39",
+        "sentiment_score": 0.03303922712802887
+    },
+    {
+        "title": "Recorrido por América Latina del 24 de septiembre por CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173209936.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/recorrido-america-latina-24-septiembre-perspectivas-mexico-tv-fast/",
+        "date": "2024-09-25 00:08:54",
+        "sentiment_score": -0.5354250222444534
+    },
+    {
+        "title": "Guillermo Lasso: «Maduro quiere convertir Venezuela en una Cuba 2.0»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/24/lasso-RBBFIVXsFVthvCitdBDqgZI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/guillermo-lasso-maduro-quiere-convertir-venezuela-cuba-20240924203546-nt.html",
+        "date": "2024-09-25 02:13:30",
+        "sentiment_score": -0.0737825334072113
+    },
+    {
+        "title": "Ordenan retirar mejillones procedentes de España y piden no consumirlos por la alta presencia de una bacteria",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/c6/media_thumb_2x-link-3982856.webp",
+        "tags": [
+            "actualidad",
+            "supermercados",
+            "bacterias",
+            "mejillones",
+            "rasff",
+            "retirarada"
+        ],
+        "link": "https://www.meneame.net/story/ordenan-retirar-mejillones-procedentes-espana-piden-no-alta",
+        "date": "2024-09-25 00:00:05",
+        "sentiment_score": -0.8622179757803679
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, miércoles 25 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0be9352f-24fc-41e5-9b54-4620e0f23007_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/09/25/tiempo-alicante-alacant-prevision-meteorologica-108539402.html",
+        "date": "2024-09-25 02:05:17",
+        "sentiment_score": 0.3957657441496849
+    },
+    {
+        "title": "Soy podólogo y este es el truco casero para eliminar de una vez por todas las dolorosas durezas en los pies",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/637de2eb-8b81-4ba4-b76a-cd70c9949ac0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/salud/guia/2024/09/25/como-quitar-durezas-pies-108539216.html",
+        "date": "2024-09-25 01:59:31",
+        "sentiment_score": -0.5692880563437939
+    },
+    {
+        "title": "Dos historiadores leoneses de los siglos X-XI",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/24/66f2a1782d99d.jpeg",
+        "tags": [
+            "tribunas"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/tribunas/240925/1627394/dos-historiadores-leoneses-siglos-x-xi.html",
+        "date": "2024-09-25 01:30:00",
+        "sentiment_score": 0.24067789316177368
+    },
+    {
+        "title": "El Musac se apunta a la ópera",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/24/66f30f9e81ff1.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240925/1628241/musac-apunta-opera.html",
+        "date": "2024-09-25 01:30:00",
+        "sentiment_score": 0.0951019749045372
+    },
+    {
+        "title": "Dos nominados a los Latin Grammy tocan en León",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/24/66f2fcac041fa.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240925/1628081/dos-nominados-latin-grammy-tocan-leon.html",
+        "date": "2024-09-25 01:30:00",
+        "sentiment_score": 0.1285458467900753
+    },
+    {
+        "title": "De aire y de primera: el gol de Colidio que abrió el marcador para River ante Colo Colo por la Libertadores",
+        "image_url": "./assets/ai_generated/v1_txt2img_604294def6a24d86b91f7e41518483f8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/25/de-aire-y-de-primera-el-gol-de-colidio-que-abrio-el-marcador-para-river-ante-colo-colo-por-la-libertadores/",
+        "date": "2024-09-25 01:27:28",
+        "sentiment_score": -0.5438044518232346
+    },
+    {
+        "title": "Los Oscar del vino se celebran en Madrid: su entrada cuesta 12.000 euros",
+        "image_url": "https://s1.elespanol.com/2024/09/24/cocinillas/actualidad-gastronomica/888421903_249462989_1706x960.jpg?contentId=ESPIMA20240924_0754",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20240925/oscar-vino-celebran-madrid-entrada-cuesta-euros/888411614_0.html",
+        "date": "2024-09-25 01:23:10",
+        "sentiment_score": 0.25850929878652096
+    },
+    {
+        "title": "Sánchez investiga si hay contaminación 'militar' en 150 puntos de Campamento: de \"gasóleo\" a \"polvorines\"",
+        "image_url": "https://s1.elespanol.com/2024/09/24/madrid/capital/888421966_249464959_1706x960.jpg?contentId=ESPIMA20240924_0817",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20240925/sanchez-investiga-contaminacion-militar-puntos-campamento-gasoleo-polvorines/888411538_0.html",
+        "date": "2024-09-25 00:29:35",
+        "sentiment_score": 0.20097506046295166
+    },
+    {
+        "title": "‘Magaly TV La Firme’ EN VIVO: minuto a minuto del programa con el caso del primo de Farfán y ‘Chibolín’",
+        "image_url": "https://www.infobae.com/resizer/v2/CJB5PSTGCBEGTG2OBH76EOKZ5E.jpeg?auth=6dc000260081493cc1969271a4b4dc404c2fb18e82c177e6742c77cf176579ca",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/09/24/magaly-tv-la-firme-en-vivo-programa-24-de-setiembre-primo-de-jefferson-farfan-detenido-y-allanan-casa-de-chibolin-fotos-y-video/",
+        "date": "2024-09-24 23:49:54",
+        "sentiment_score": -0.46044231206178665
+    },
+    {
+        "title": "El Real Madrid gana al Alavés pero sufre más de la cuenta",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f449.png",
+        "tags": [
+            "fútbol",
+            "laliga",
+            "españa",
+            "deportes",
+            "real madrid"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-real-madrid-gana-al-alaves-pero-sufre-mas-de-la-cuenta/",
+        "date": "2024-09-24 23:36:37",
+        "sentiment_score": 0.4741719365119934
+    },
+    {
+        "title": "El asturiano que se convirtió en leyenda del Espanyol: “Clemente es muy amigo de sus amigos, pero si le traicionas date por muerto”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bded7c3e-f0cd-496d-b3e5-54e08ce73c47_16-9-aspect-ratio_default_0_x801y321.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2024/09/25/asturiano-convirtio-leyenda-espanyol-clemente-108537336.html",
+        "date": "2024-09-25 02:15:00",
+        "sentiment_score": -0.18351034820079803
+    },
+    {
+        "title": "El tiempo en Bueu: previsión meteorológica para hoy, miércoles 25 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b21b6ac7-2e4c-4d8d-98f5-358cfbb5fcaa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/09/25/tiempo-bueu-prevision-meteorologica-hoy-108539596.html",
+        "date": "2024-09-25 02:13:57",
+        "sentiment_score": -0.06000041961669922
+    },
+    {
+        "title": "San Simón abre el debate sobre historia y represión",
+        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/09/24/2024092421483199500.jpg",
+        "tags": [
+            "redondela"
+        ],
+        "link": "https://www.atlantico.net/articulo/redondela/san-simon-abre-debate-historia-represion/202409242148361052105.html",
+        "date": "2024-09-25 02:13:31",
+        "sentiment_score": -0.014857053756713867
+    },
+    {
+        "title": "El tiempo en Barro: previsión meteorológica para hoy, miércoles 25 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d8c037d5-e0f4-4466-b846-8244c16bc295_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/09/25/tiempo-barro-prevision-meteorologica-hoy-108539531.html",
+        "date": "2024-09-25 02:11:16",
+        "sentiment_score": 0.21028362214565277
+    },
+    {
+        "title": "El tiempo en Baiona: previsión meteorológica para hoy, miércoles 25 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ac6c61a-e1ce-493f-afd3-05803de57073_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/09/25/tiempo-baiona-prevision-meteorologica-hoy-108539513.html",
+        "date": "2024-09-25 02:10:18",
+        "sentiment_score": 0.047116607427597046
+    },
+    {
+        "title": "Así suena 'Omega', la nueva canción de Rosalía que ha estrenado en el cierre de las fiestas de la Mercè en Barcelona",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/09/25/rosalia-en-un-instante-del-videoclip-de-su-nueva-cancion-omega.jpeg",
+        "tags": [
+            "influencers y celebrities"
+        ],
+        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/rosalia-cambia-omega-fuegos-artificiales-celine-dion-declaracion-amor-pop.html",
+        "date": "2024-09-25 02:04:54",
+        "sentiment_score": 0.058063387870788574
+    },
+    {
+        "title": "\"Sumar 4 de 6 puntos es un cambio de dinámica\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c7338803-e49a-42bb-aaa1-ef1092d99a6f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/25/sumar-4-6-puntos-cambio-108535607.html",
+        "date": "2024-09-25 02:00:29",
+        "sentiment_score": 0.5058948695659637
+    },
+    {
+        "title": "Rafa Mir, la agresión sexual como deporte",
+        "image_url": "./assets/ai_generated/v1_txt2img_b613d9045d7b4984b2148e927eeb1424.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/09/25/rafa-mir-agresion-sexual-deporte-108523978.html",
+        "date": "2024-09-25 02:00:20",
+        "sentiment_score": -0.6510070934891701
+    },
+    {
+        "title": "Talante e IA",
+        "image_url": "https://men.gsstatic.es/autor/isabel-segura-roda/11731.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/09/25/2247731/talante-ia.html",
+        "date": "2024-09-25 02:00:01",
+        "sentiment_score": -0.08505681157112122
+    },
+    {
+        "title": "Ya hay fecha para el estreno de la serie inspirada en los problemas fiscales de Shakira",
+        "image_url": "https://www.hola.com/horizon/landscape/3ad52f9f246a-gettyimages-2151957874-1.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20240925720269/shakira-estreno-serie-espanola-inspirada-problemas-fiscales/",
+        "date": "2024-09-25 01:59:56",
+        "sentiment_score": -0.48498332872986794
     }
 ];
