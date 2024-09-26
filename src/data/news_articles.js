@@ -158,30 +158,6 @@ export default [
         "sentiment_score": 0.24317815899848938
     },
     {
-        "title": "Viajar no solo es divertido. También puede ayudar a combatir los signos del envejecimiento",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756323-viajar-envejecimiento.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "envejecimiento",
-            "noticias de salud"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/22/viajar-divertido-ayudar-combatir-signos-envejecimiento-trax/",
-        "date": "2024-09-22 13:05:12",
-        "sentiment_score": 0.3590308874845505
-    },
-    {
-        "title": "ANÁLISIS | ¿De qué les sirve a Maduro y a Milei el enfrentamiento que mantienen?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1729114-nicolas-maduro-llama-fascista-a-javier-milei-durante-discurso.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "argentina",
-            "javier milei",
-            "venezuela",
-            "nicolás maduro"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/22/maduro-milei-pelea-populismo-orix/",
-        "date": "2024-09-22 11:25:13",
-        "sentiment_score": -0.49791253358125687
-    },
-    {
         "title": "Los garbanzos negros",
         "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/09/18/terminaciones-favoritas-loteria-navidad-kjB--170x119@Las%20Provincias.jpg",
         "tags": [
@@ -252,16 +228,6 @@ export default [
         "sentiment_score": -0.11581327021121979
     },
     {
-        "title": "Los algoritmos que dan alas a la descarbonización",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/02/16/Startup2-RyLi7a2GfigrsZbgxeLmwXP-1200x840@abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/algoritmos-dan-alas-descarbonizacion-20240218180051-nt.html",
-        "date": "2024-09-22 13:15:27",
-        "sentiment_score": 0.05692724883556366
-    },
-    {
         "title": "Coalición Canaria pone la diana en la Fiscalía por recurrir el protocolo de Clavijo sobre la acogida de menores migrantes",
         "image_url": "https://imagenes.elpais.com/resizer/v2/E4WEU5WP7ZFHBBP5MXY4SFG43U.jpg?auth=ff7eaf4e1dbf4849b27469eb55da9ad8c9aeb03eb32cdba8051e49baddf50cb7&width=1200",
         "tags": [
@@ -316,20 +282,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-09-22/la-feria-de-los-pajaros-catalana-capea-la-lluvia-y-deja-momentos-memorables-en-su-10aniversario.html",
         "date": "2024-09-22 14:26:15",
         "sentiment_score": 0.3345458656549454
-    },
-    {
-        "title": "Illa garantiza que Cataluña siempre defenderá la solidaridad y pide al PP que no dé lecciones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JVVN4YO2M5CPXAAK7BKFC2HHGQ.jpg?auth=bbb59037f43307be7a209e5bb2f9b086e1d66ca656c5ca4dd79c4f3828b929a7&width=1200",
-        "tags": [
-            "barcelona",
-            "cataluña",
-            "salvador illa",
-            "generalitat cataluña",
-            "psc"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-22/illa-garantiza-que-cataluna-siempre-defendera-la-solidaridad-y-pide-al-pp-que-no-de-lecciones.html",
-        "date": "2024-09-22 11:55:25",
-        "sentiment_score": -0.8576430277898908
     },
     {
         "title": "(Crónica) El Athletic toma velocidad ante el Celta y Getafe y Leganés firman tablas en el derbi",
@@ -8002,5 +7954,504 @@ export default [
         "link": "https://www.elmundo.es/cultura/musica/2024/09/26/66f4888fe9cf4a936e8b459b.html",
         "date": "2024-09-25 22:09:59",
         "sentiment_score": 0.8042157329618931
+    },
+    {
+        "title": "Pronóstico del estado del tiempo: las temperaturas que se esperan en Málaga este 26 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/LHUMJNDDGJGNFOLUV3PD37U6AA.jpg?auth=c7d8c095edea128c30908036c51f1670935a1a7b4583b67e6bc91f9e4c9873a9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/26/pronostico-del-estado-del-tiempo-las-temperaturas-que-se-esperan-en-malaga-este-26-de-septiembre/",
+        "date": "2024-09-26 02:02:24",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Las mejores películas de Netflix España para ver en cualquier momento",
+        "image_url": "./assets/ai_generated/v1_txt2img_b5c67fde138542fea2add6f95e0084ae.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/26/las-mejores-peliculas-de-netflix-espana-para-ver-en-cualquier-momento/",
+        "date": "2024-09-26 01:54:41",
+        "sentiment_score": 0.4773309715092182
+    },
+    {
+        "title": "¿Cómo hacer el ‘Eurotrip’ de sus sueños en España, Francia e Italia?, estos son los costos desde Colombia",
+        "image_url": "https://www.infobae.com/resizer/v2/DXXWVVZKMNASDCCE2RHDJGF76M.jpg?auth=fc0a1ade0847bc28e982248925023da271e808fbe666cdf397aaaa11ab222524",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/09/26/como-hacer-el-eurotrip-de-sus-suenos-en-espana-francia-e-italia-estos-son-los-costos-desde-colombia/",
+        "date": "2024-09-26 01:34:05",
+        "sentiment_score": 0.49456762708723545
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/BDOYTBTVXZFDJHZUXPUIN75YEM.jpg?auth=a0c55f3216658a819978c4bd6906ccd346391ef90a7352601d660212a8c3e437",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/26/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-madrid/",
+        "date": "2024-09-26 01:32:44",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Top de las mejores películas de Disney+ en España",
+        "image_url": "https://www.infobae.com/resizer/v2/LH6O7JJPOVBJFG6AMJJJB3LDUQ.jpg?auth=f274d4311c4d04fbcf759502c24c8b338c4d0dafaaba262f6557ddf0b9977190",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/26/top-de-las-mejores-peliculas-de-disney-en-espana/",
+        "date": "2024-09-26 01:32:06",
+        "sentiment_score": 0.6659732554107904
+    },
+    {
+        "title": "Las mejores cintas de Prime Video España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/RLQ25VIQS5HCLHEQAF5AFMECWU.jpg?auth=36656478ee63866217623a029b5d77009b726a5613177b60cc86a2c7f0302078",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/26/las-mejores-cintas-de-prime-video-espana-para-ver-en-cualquier-momento/",
+        "date": "2024-09-26 01:31:28",
+        "sentiment_score": 0.1980811133980751
+    },
+    {
+        "title": "Nairo Quintana volvió a ser sancionado por la UCI: violó una norma en la Vuelta a España",
+        "image_url": "https://www.infobae.com/resizer/v2/4RDSK7CX3ZHNTAQBJE3NW6SEAE.jpg?auth=c372560a95a59a265cc43f4860c36e70b7f9fb90796d3ac68dfd0650e28a4ea9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/26/nairo-quintana-volvio-a-ser-sancionado-por-la-uci-violo-una-norma-en-la-vuelta-a-espana/",
+        "date": "2024-09-26 01:24:11",
+        "sentiment_score": -0.7809773795306683
+    },
+    {
+        "title": "Ellos son los representantes de España que sí acudirán a la toma de protesta de Claudia Sheinbaum",
+        "image_url": "https://www.infobae.com/resizer/v2/G7SJIJ5JSCCJIP4PTM4OLLQEHA.jpg?auth=e4808fa2b66db52c5a80b50bad805f12124fd73481721728367b4b142f25ffca",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/09/26/ellos-son-los-representantes-de-espana-que-si-acudiran-a-la-toma-de-protesta-de-claudia-sheinbaum/",
+        "date": "2024-09-26 00:37:10",
+        "sentiment_score": -0.8184551447629929
+    },
+    {
+        "title": "Sánchez ratifica a la ONU y al primer ministro libanés el compromiso de España con la paz",
+        "image_url": "./assets/ai_generated/v1_txt2img_6307b6b0ba3e4caa93303f717137557a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/26/sanchez-ratifica-a-la-onu-y-al-primer-ministro-libanes-el-compromiso-de-espana-con-la-paz/",
+        "date": "2024-09-26 00:15:54",
+        "sentiment_score": 0.4105483666062355
+    },
+    {
+        "title": "Dos muertos y tres heridos en una colisión múltiple en Ares (A Coruña)",
+        "image_url": "./assets/ai_generated/v1_txt2img_91e6b2d65145480abaf4a717d504dee0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/25/dos-muertos-y-tres-heridos-en-una-colision-multiple-en-ares-a-coruna/",
+        "date": "2024-09-25 23:33:00",
+        "sentiment_score": -0.8318432029336691
+    },
+    {
+        "title": "Vicepresidenta Abad asegura que no entiende la ruptura con el presidente Noboa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1783427439.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "verónica abad",
+            "daniel noboa",
+            "ecuador"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-noboa-abad-disputa-poder-mando-exilio-destituir-conclusiones-tv/",
+        "date": "2024-09-26 02:07:17",
+        "sentiment_score": -0.518616795539856
+    },
+    {
+        "title": "Acusan de cargos penales federales al alcalde de Nueva York Eric Adams, informan dos fuentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758142-erick-adams.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/25/acusan-al-alcalde-de-nueva-york-eric-adams-trax/",
+        "date": "2024-09-26 01:55:33",
+        "sentiment_score": -0.5179700534790754
+    },
+    {
+        "title": "Daniel Noboa, presidente de Ecuador, en conflicto con su vicepresidenta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1783420123-20240926013121962.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/daniel-noboa-veronica-abad-ecuadoee-fdr-conclusiones-tv-fast/",
+        "date": "2024-09-26 01:39:56",
+        "sentiment_score": -0.8566018342971802
+    },
+    {
+        "title": "10 años del caso Ayotzinapa: las familias aún piden respuestas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173612462.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ayotzinapa",
+            "los 43 de ayotzinapa",
+            "amlo",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ayotzinapa-normalistas-desaparecidos-diez-anos-perspectivas-mexico-tv/",
+        "date": "2024-09-26 01:37:25",
+        "sentiment_score": -0.48219675570726395
+    },
+    {
+        "title": "Las relaciones geopolíticas de Claudia Sheinbaum",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2157013563.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "relaciones internacionales",
+            "xpress",
+            "claudia sheinbaum",
+            "fast – news variety",
+            "relaciones diplomáticas",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/relaciones-goepoliticas-sheinbaum-espana-felipe-vi-perspectivas-mexico/",
+        "date": "2024-09-26 01:31:49",
+        "sentiment_score": -0.11113754659891129
+    },
+    {
+        "title": "Así fue el momento en que rescataron a una mujer que cayó por un acantilado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/thumb-rescate-20240926012620048.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "noticias de ee.uu.",
+            "californa",
+            "helicóptero",
+            "rescate",
+            "fast – reserve"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rescate-mujer-acantilado-california-china-camp-orix-ush/",
+        "date": "2024-09-26 01:31:04",
+        "sentiment_score": -0.3362751007080078
+    },
+    {
+        "title": "Hezbollah ataca y 81 personas mueren tras bombardeos israelíes en el Líbano",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2173514973.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "hezbollah",
+            "israel noticias",
+            "xpress",
+            "líbano",
+            "fast – news variety",
+            "israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hezbollah-israel-bombardeo-25-sep-levy-panorama-mundial-tv-fast/",
+        "date": "2024-09-26 01:29:30",
+        "sentiment_score": -0.8364356691017747
+    },
+    {
+        "title": "“Las diferencias son con la monarquía española, no con su pueblo”, asegura López Obrador",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20989287-27414-792999999998-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "pedro sánchez",
+            "xpress",
+            "claudia sheinbaum",
+            "amlo",
+            "fast – news variety",
+            "felipe vi",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/conflicto-sheinbaum-corona-espanola-amlo-perspectivas-mexico-tv/",
+        "date": "2024-09-26 01:27:05",
+        "sentiment_score": -0.4879690483212471
+    },
+    {
+        "title": "Incendios en Ecuador: Se intensifican las llamas en varias zonas de Quito",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173492550-20240926010956018.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "incendio forestal",
+            "ecuador",
+            "daniel noboa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-incendios-forestales-actualidad-panorama-mundial-tv/",
+        "date": "2024-09-26 01:14:42",
+        "sentiment_score": 0.057905808091163635
+    },
+    {
+        "title": "Zelensky denunció que Rusia planea atacar plantas nucleares",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1247148216.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "volodymyr zelensky",
+            "vladimir putin",
+            "fast – news variety",
+            "guerra de rusia en ucrania",
+            "nuclear",
+            "ucrania",
+            "xpress",
+            "rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-ucrania-rusia-actualidad-putin-zelensky-panorama-mundial-tv/",
+        "date": "2024-09-26 01:08:14",
+        "sentiment_score": -0.6670139692723751
+    },
+    {
+        "title": "El Gobierno cuadruplicará la asignación presupuestaria de Correos a cambio de que dé servicios a la España vacía",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/26/carteraruramiguelmuiz-RDlx3C0bN8JLmqANqXI4HIN-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-cuadruplicara-asignacion-presupuestaria-correos-cambio-servicios-20240926203714-nt.html",
+        "date": "2024-09-26 02:07:33",
+        "sentiment_score": -0.07621264457702637
+    },
+    {
+        "title": "Venezuela acusa EE.UU. de «mentir, atacar y amenazar» a los venezolanos e «intentar poner una falsa narrativa»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/26/yvan-gil-kNGB-U603116069873huF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/venezuela-acusa-eeuu-mentir-atacar-amenazar-venezolanos-20240926022139-nt.html",
+        "date": "2024-09-26 00:21:40",
+        "sentiment_score": -0.12493523955345154
+    },
+    {
+        "title": "RTVE, pieza clave para la concentración de poder",
+        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/provincia/2024/09/23/ruta-cerditos001-U06615167534ixB-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-rtve-pieza-clave-concentracion-poder-20240926192057-nt.html",
+        "date": "2024-09-26 00:01:50",
+        "sentiment_score": -0.29464858770370483
+    },
+    {
+        "title": "Sánchez o la dignidad del Estado",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/09/25/estrecho-U501624004588QHI-U21810364681BFQ-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-sanchez-dignidad-estado-20240926020107-nt.html",
+        "date": "2024-09-26 00:01:16",
+        "sentiment_score": -0.084561288356781
+    },
+    {
+        "title": "Sánchez en la ONU: “La democracia libra una batalla por su supervivencia y no puede hacerlo con una mano atada a la espalda”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5C2VIAFEGYQP5Q2PQZPL4CFUQY.jpg?auth=6a1c0881c099aefdfc854ec9f8386c72b3a8955ef277da9d7f7e2b2211b483b8&width=1200",
+        "tags": [
+            "ultraderecha",
+            "pedro sánchez",
+            "rusia",
+            "ucrania",
+            "onu",
+            "venezuela",
+            "palestina",
+            "españa",
+            "nicolás maduro"
+        ],
+        "link": "https://elpais.com/espana/2024-09-25/sanchez-en-la-onu-la-democracia-libra-una-batalla-por-su-supervivencia-y-no-puede-hacerlo-con-una-mano-atada-a-la-espalda.html",
+        "date": "2024-09-25 22:23:52",
+        "sentiment_score": -0.8435952477157116
+    },
+    {
+        "title": "La autonomía número 18",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f16e5df1-30be-4a27-b8c0-e32d3dbc3fd7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/opinion/2024/09/26/autonomia-numero-18-108572331.html",
+        "date": "2024-09-26 02:15:00",
+        "sentiment_score": -0.7410159707069397
+    },
+    {
+        "title": "Los rescoldos del verano (I)",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "colaboraciones",
+            "opinión"
+        ],
+        "link": "https://elfarodeceuta.es/rescoldos-verano/",
+        "date": "2024-09-26 02:10:12",
+        "sentiment_score": -0.09176935255527496
+    },
+    {
+        "title": "Linda Caicedo: entrenador de delanteros analizó las falencias en la definición de la estrella colombiana",
+        "image_url": "https://www.infobae.com/resizer/v2/WV375SR5C5BX3AGMX7XOGASIYA.jpg?auth=4f01dd3253c8dfaa54ff7adcb132dd60b97508c5a1cb7d7b22e68611949a88b8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/09/26/linda-caicedo-entrenador-de-delanteros-analizo-las-falencias-en-la-definicion-de-la-estrella-colombiana/",
+        "date": "2024-09-26 01:30:10",
+        "sentiment_score": -0.8636876381933689
+    },
+    {
+        "title": "El chat secreto de Alvise con el empresario que le dio 100.000 €: \"Me vienen bien para mi aventura política\"",
+        "image_url": "https://s1.elespanol.com/2024/09/25/espana/888672122_249498962_1706x960.jpg?contentId=ESPIMA20240925_0998",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20240926/chat-secreto-alvise-empresario-dio-eur-vienen-bien-aventura-politica/888661485_0.html",
+        "date": "2024-09-26 01:22:06",
+        "sentiment_score": -0.6003546714782715
+    },
+    {
+        "title": "Venezuela dice que en la ONU se ha montado una \"campaña fascista de desinformación\" contra Maduro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/76818eb5-787e-4a04-898d-88575f571a12_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/09/26/venezuela-dice-onu-montado-campana-108585312.html",
+        "date": "2024-09-26 01:13:28",
+        "sentiment_score": -0.8941931631416082
+    },
+    {
+        "title": "Raphael Varane cuelga los botines",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2024/09/VARANE_botines.jpg",
+        "tags": [
+            "copa del mundo",
+            "lens",
+            "manchester",
+            "real madrid",
+            "deportes",
+            "fútbol",
+            "francia",
+            "varane",
+            "champions"
+        ],
+        "link": "https://correodelcaroni.com/deportes/raphael-varane-cuelga-los-botines/",
+        "date": "2024-09-26 01:12:15",
+        "sentiment_score": -0.46480831503868103
+    },
+    {
+        "title": "El Barcelona sigue su paso perfecto en La Liga",
+        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2024/09/FC-Barcelona-4-860x645.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://reporteconfidencial.info/2024/09/25/el-barcelona-sigue-su-paso-perfecto-en-la-liga/",
+        "date": "2024-09-26 00:45:08",
+        "sentiment_score": 0.7863466329872608
+    },
+    {
+        "title": "Once países y una sola bandera: los 'hombres de negro' del 25 aniversario, uno a uno",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/09/25/JUGADORES-1200x840b.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/bloque-compacto-mayor-amenaza-exterior-20240926015722-nt.html",
+        "date": "2024-09-26 00:24:30",
+        "sentiment_score": 0.5545377694070339
+    },
+    {
+        "title": "Barcelona mantuvo su pleno de victorias",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2024/09/BARCELONA_victorias.jpg",
+        "tags": [
+            "barcelona",
+            "rayo vallecano",
+            "girona",
+            "fútbol",
+            "getafe",
+            "laliga",
+            "deportes"
+        ],
+        "link": "https://correodelcaroni.com/deportes/barcelona-mantuvo-su-pleno-de-victorias/",
+        "date": "2024-09-26 00:21:29",
+        "sentiment_score": 0.7552166655659676
+    },
+    {
+        "title": "\"Otros equipos empezaron peor y jugaron play-off, tranquilidad\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ed26f89a-88c5-4705-9726-446f0284b0d9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sporting/2024/09/26/equipos-empezaron-peor-jugaron-play-108580463.html",
+        "date": "2024-09-26 02:15:00",
+        "sentiment_score": -0.10131677985191345
+    },
+    {
+        "title": "El tiempo en Barro: previsión meteorológica para hoy, jueves 26 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/846e5df8-33bf-4a3b-b369-0fd4f2e91159_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/09/26/tiempo-barro-prevision-meteorologica-hoy-108586380.html",
+        "date": "2024-09-26 02:14:49",
+        "sentiment_score": 0.1484588086605072
+    },
+    {
+        "title": "El tiempo en Baiona: previsión meteorológica para hoy, jueves 26 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3aeb61d-9c86-4c91-9b5e-bb454431bd3e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/09/26/tiempo-baiona-prevision-meteorologica-hoy-108586362.html",
+        "date": "2024-09-26 02:13:51",
+        "sentiment_score": 0.1577351689338684
+    },
+    {
+        "title": "Starmer admite ante Zelenski que la guerra en Ucrania está en un momento \"crítico\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0adf9b59-8109-4c8c-847e-2fbc48a6726f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/mundo/2024/09/26/starmer-admite-zelenski-guerra-ucrania-108586050.html",
+        "date": "2024-09-26 02:01:35",
+        "sentiment_score": -0.4339464455842972
+    },
+    {
+        "title": "Una placenta artificial única en Europa logra que el feto sobreviva 12 días en buen estado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e93ba217-2dc1-4719-9df4-ac2753e1bd56_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lacronicabadajoz.com/sociedad/2024/09/26/placenta-artificial-unica-europa-logra-108586007.html",
+        "date": "2024-09-26 02:00:36",
+        "sentiment_score": -0.2403329312801361
+    },
+    {
+        "title": "El 'boom' de ETS en Canarias: se disparan las infecciones por clamidia, sífilis y gonorrea",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fb8bde41-454a-41ce-9445-f6fb02727568_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/salud/guia/2024/09/26/boom-ets-canarias-disparan-infecciones-108585980.html",
+        "date": "2024-09-26 02:00:25",
+        "sentiment_score": -0.1344415247440338
+    },
+    {
+        "title": "Damià Rotger gana el premio ‘Ciutat de Xàtiva’",
+        "image_url": "./assets/ai_generated/v1_txt2img_0f826c0fa03b4bc19a2b01c9503c005c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2024/09/26/2248439/damia-rotger-gana-premio-ciutat-xativa.html",
+        "date": "2024-09-26 02:00:01",
+        "sentiment_score": -0.0635303258895874
+    },
+    {
+        "title": "Situacions climàtiques extremes",
+        "image_url": "https://men.gsstatic.es/autor/jaume-verdaguer-sirerol/11663.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/09/26/2248339/situacions-climatiques-extremes.html",
+        "date": "2024-09-26 02:00:01",
+        "sentiment_score": -0.2532655894756317
+    },
+    {
+        "title": "La ideología del crecimiento y sus orígenes",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/86ed9779/53640605080_66b8ecfec3_k.jpg?v=63894416978",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elsaltodiario.com/guerrilla-translation/ideologia-del-crecimiento-origenes",
+        "date": "2024-09-26 02:00:00",
+        "sentiment_score": -0.10524467378854752
+    },
+    {
+        "title": "Las ITS se disparan, con la sífilis y la gonorrea en cabeza: ¿qué hacer además de usar preservativo?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/34221b2b-e1f7-4a8e-8c3c-3aa268cb0b61_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/salud/guia/2024/09/26/its-disparan-gonorrea-sifilis-preservativo-97341618.html",
+        "date": "2024-09-26 01:59:00",
+        "sentiment_score": -0.10624250024557114
     }
 ];
