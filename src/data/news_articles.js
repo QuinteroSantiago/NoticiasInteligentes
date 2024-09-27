@@ -161,55 +161,6 @@ export default [
         "sentiment_score": -0.4563762694597244
     },
     {
-        "title": "Mueren dos niños y su abuela tras explosión de un edificio cerca de Nápoles",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20980801-20977-766-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "nápoles",
-            "fast – news variety",
-            "explosión",
-            "xpress",
-            "italia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/explosion-edificio-italia-napoles-ninos-abuela-cafe-tv-fast/",
-        "date": "2024-09-23 13:31:29",
-        "sentiment_score": -0.8246090477332473
-    },
-    {
-        "title": "Israel lanza intensos ataques aéreos en El Líbano",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173169776.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ataque israel hezbollah",
-            "fast – news variety",
-            "medio oriente",
-            "líbano",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/israel-ataques-aereos-libano-cafe-tv-fast/",
-        "date": "2024-09-23 13:25:06",
-        "sentiment_score": -0.6936142332851887
-    },
-    {
-        "title": "El sospechoso de un aparente intento de magnicidio contra Trump dejó una carta en la que detallaba sus planes, según la fiscalía",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/magnicidio.jog_.webp",
-        "tags": [
-            "ee.uu.",
-            "trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/23/sospechoso-de-aparente-intento-de-asesinato-contra-trump-dejo-una-carta-trax/",
-        "date": "2024-09-23 13:00:32",
-        "sentiment_score": -0.6397312339395285
-    },
-    {
-        "title": "Las relaciones diplomáticas de Argentina en la era de Milei",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171588690-20240923122620874.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/milei-diplomacia-onu-argentina-primera-manana-fast/",
-        "date": "2024-09-23 12:32:53",
-        "sentiment_score": -0.22297048568725586
-    },
-    {
         "title": "Ruby, el buque cargado de explosivos rusos del que nadie quiere hacerse cargo",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/23/oslo-kjGE-U603103850593JyB-1200x840@diario_abc.jpg",
         "tags": [
@@ -490,22 +441,6 @@ export default [
         "link": "https://elpais.com/espana/andalucia/2024-09-23/la-oposicion-andaluza-acusa-a-moreno-de-hacer-seguidismo-de-feijoo.html",
         "date": "2024-09-23 14:35:24",
         "sentiment_score": -0.6888144239783287
-    },
-    {
-        "title": "Junts pide la implicación de Illa para salvar la negociación de los Presupuestos Generales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2APG6EOJ6FDFRHRLGNXVKVRA5U.JPG?auth=cd6bc7535dcc963aa0ca135fc5f99f6ae694870ac33b549e7562ece75afb224c&width=1200",
-        "tags": [
-            "carles puigdemont",
-            "salvador illa",
-            "presupuestos generales estado",
-            "cataluña",
-            "psoe",
-            "juntsxcat",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-23/junts-pide-la-implicacion-de-illa-para-salvar-la-negociacion-de-los-presupuestos-generales.html",
-        "date": "2024-09-23 13:14:36",
-        "sentiment_score": -0.5368321053683758
     },
     {
         "title": "Interior amplía el plazo a los hoteles para el registro de viajeros al 2 de diciembre",
@@ -8250,5 +8185,310 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/business/20240927/la-catalana-pau-aguanta-de-ambulancias-euskadi/888911188_0.html",
         "date": "2024-09-26 22:00:00",
         "sentiment_score": -0.7921808026731014
+    },
+    {
+        "title": "Gio Lo Celso volvió a marcar y evitó la derrota del Betis ante Las Palmas: está entre los 5 goleadores de España",
+        "image_url": "./assets/ai_generated/v1_txt2img_b6a69ba3f19a47afad77534c4cf2ef80.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/27/gio-lo-celso-volvio-a-marcar-y-evito-la-derrota-del-betis-ante-las-palmas-esta-entre-los-5-goleadores-de-espana/",
+        "date": "2024-09-27 01:21:43",
+        "sentiment_score": 0.7214142344892025
+    },
+    {
+        "title": "Laura Pausini sorprende en ‘El Hormiguero’ con un cambio de look: “A mí me gustas más morena”",
+        "image_url": "https://www.infobae.com/resizer/v2/CDWR7X3EMFCFDH3M2E4NZV32Q4.jpg?auth=746f46ff104af856517ed6d9f1f1cdf2dd099b9038d30cd0eb0932ec6f615198",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/27/laura-pausini-sorprende-en-el-hormiguero-con-un-cambio-de-look-a-mi-me-gustas-mas-morena/",
+        "date": "2024-09-27 01:21:28",
+        "sentiment_score": 0.6788336951285601
+    },
+    {
+        "title": "Petro habla con Sánchez para que España extradite a \"jefe\" del contrabando, alias 'Pitufo'",
+        "image_url": "./assets/ai_generated/v1_txt2img_9eed505817c64deca4346e56a7c31cfd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/27/petro-habla-con-sanchez-para-que-espana-extradite-a-jefe-del-contrabando-alias-pitufo/",
+        "date": "2024-09-27 00:30:22",
+        "sentiment_score": -0.5967882908880711
+    },
+    {
+        "title": "A 10 años del caso Ayotzinapa, Fernando del Rincón recuerda la cobertura y los primeros reportes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-951607294-20240927020642977.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "caso ayotzinapa",
+            "los 43 de ayotzinapa",
+            "méxico",
+            "asesinatos en méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-ayotzinapa-fernando-rincon-cobertura-desaparicion-normalistas-conclusiones-tv/",
+        "date": "2024-09-27 02:11:57",
+        "sentiment_score": -0.4116186909377575
+    },
+    {
+        "title": "Se cumplen 10 años de la desaparición de normalistas de Ayotzinapa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173795451.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ayotzinapa",
+            "los 43 de ayotzinapa",
+            "méxico",
+            "estudiantes ayotzinapa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ayotzinapa-10-aniversario-normalistas-desaparicion-perspectivas-mexico-tv/",
+        "date": "2024-09-27 02:08:08",
+        "sentiment_score": -0.8343325033783913
+    },
+    {
+        "title": "Huracán Helene tocará tierra en Florida con vientos de más de 200 kilómetros por hora",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174276134.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "florida",
+            "huracán",
+            "helene",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-huracan-helene-florida-intensidad-proteccion-ciudadanos-conclusiones-tv/",
+        "date": "2024-09-27 02:06:49",
+        "sentiment_score": 0.04584841430187225
+    },
+    {
+        "title": "Lluvias en Ecuador ayudan a sofocar incendios que arrasaron más de 38.000 hectáreas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173576685.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ecuador",
+            "daniel noboa",
+            "incendio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-quito-incendios-crisis-clima-provocado-investigaciones-conclusiones-tv/",
+        "date": "2024-09-27 02:04:57",
+        "sentiment_score": -0.11692991852760315
+    },
+    {
+        "title": "Detienen a sospechosos de causar incendios forestales en Ecuador",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173576356-20240927015922695.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ecuador",
+            "incendios forestales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendios-ecuador-detenidos-lluvias-crisis-hidrica-perspectivas-mexico-tv/",
+        "date": "2024-09-27 02:04:22",
+        "sentiment_score": -0.6721645407378674
+    },
+    {
+        "title": "Continúan ataques entre Israel y Hezbollah, pese a intentos de EE.UU. y aliados de encontrar una solución diplomática",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2173703805.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/continuan-ataques-israel-hezbollah-eeuu-aliados-buscan-solucion-diplomatica-panorama-mundial-tv/",
+        "date": "2024-09-27 02:02:35",
+        "sentiment_score": -0.30480465292930603
+    },
+    {
+        "title": "“Están acabando con nuestros sueños”, el reclamo de menores detenidos en Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173745759.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-madres-menores-detenidos-venezuela-perspectivas-mexico-tv/",
+        "date": "2024-09-27 01:59:33",
+        "sentiment_score": -0.5817506276071072
+    },
+    {
+        "title": "John: el huracán “zombi” que azota las costas del pacifico mexicano",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173785697.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/huracan-john-acapulco-michoacan-colima-perspectivas-mexico-tv/",
+        "date": "2024-09-27 01:55:24",
+        "sentiment_score": -0.8201614180579782
+    },
+    {
+        "title": "Detienen a un segundo hombre presuntamente involucrado en los incendios en Quito",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758120-incendios-en-ecuador-se-intensifican-las-llamas-en-varias-zonas-de-quito.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ecuador",
+            "incendio forestales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/26/detienen-segundo-hombre-involucrado-incendios-quito-orix/",
+        "date": "2024-09-27 01:42:26",
+        "sentiment_score": -0.7150218263268471
+    },
+    {
+        "title": "A 10 años de la desaparición de los 43 normalistas de Ayotzinapa, sigue sin haber justicia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2173795385.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ayotzinapa-aniversario-fdr-conclusiones-tv-fast/",
+        "date": "2024-09-27 01:24:48",
+        "sentiment_score": -0.8275579661130905
+    },
+    {
+        "title": "Las comunidades del PP se rebelan contra la amenaza de la ministra de Vivienda: «Es un chantaje»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/27/1486553414-RGkKpLVMFOA0zTB69CKO0lJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/comunidades-pp-rebelan-amenaza-ministra-vivienda-chantaje-20240927040625-nt.html",
+        "date": "2024-09-27 02:06:25",
+        "sentiment_score": -0.045253217220306396
+    },
+    {
+        "title": "Los bebés nacidos por reproducción asistida tienen un mayor riesgo de defectos cardíacos graves",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/09/26/bebe-nacimiento.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/bebes-nacidos-reproduccion-asistida-mayor-riesgo-defectos-20240926133130-nt.html",
+        "date": "2024-09-26 23:05:00",
+        "sentiment_score": -0.14900337159633636
+    },
+    {
+        "title": "Oviedo se supera y anuncia \"uno de los mejores ciclos de música clásica de Europa\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b2764c85-e8ad-4808-801d-a737b31d1272_16-9-aspect-ratio_default_0_x1025y439.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oviedo/2024/09/27/oviedo-supera-anuncia-mejores-ciclos-108624785.html",
+        "date": "2024-09-27 02:10:00",
+        "sentiment_score": 0.010044097900390625
+    },
+    {
+        "title": "Viernes 27 de septiembre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1102935",
+        "date": "2024-09-27 02:05:20",
+        "sentiment_score": -0.0063331350684165955
+    },
+    {
+        "title": "Rafa Mir, con molestias, se pierde el entrenamiento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2235bca9-b78f-4aea-a6e4-fbcccd567df9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/27/rafa-mir-molestias-pierde-entrenamiento-108623030.html",
+        "date": "2024-09-27 02:00:41",
+        "sentiment_score": -0.882559347897768
+    },
+    {
+        "title": "Vencer el pánico a volar del nido",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/17b0ae5f-1be4-4771-aecf-c7c56eeee631_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/27/vencer-panico-volar-nido-108622249.html",
+        "date": "2024-09-27 02:00:40",
+        "sentiment_score": 0.20811238884925842
+    },
+    {
+        "title": "Puig reclama una reforma federal como solución al bloqueo de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4ca68bff-3a42-49e6-9b3a-e2a4351ab6dd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2024/09/27/puig-reclama-reforma-federal-solucion-108614979.html",
+        "date": "2024-09-27 02:00:32",
+        "sentiment_score": 0.12150508165359497
+    },
+    {
+        "title": "Descontrol en el entorno del CETI",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1102932",
+        "date": "2024-09-27 02:00:03",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Todavía hay esperanza",
+        "image_url": "https://men.gsstatic.es/autor/carlos-olalla/10861.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/09/27/2249165/todavia-hay-esperanza-1.html",
+        "date": "2024-09-27 02:00:01",
+        "sentiment_score": -0.05350905656814575
+    },
+    {
+        "title": "Los rescoldos del verano (y II)",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1102913",
+        "date": "2024-09-27 01:55:42",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Investigando mascarillas",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "editoriales"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/editoriales/240927/1630990/investigando-mascarillas.html",
+        "date": "2024-09-27 01:30:00",
+        "sentiment_score": -0.02935914695262909
+    },
+    {
+        "title": "Filipovic, fichaje temporal para el juego exterior",
+        "image_url": "./assets/ai_generated/v1_txt2img_3dff3e4daeed43f68a88ce367de3adf1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/09/27/filipovic-fichaje-temporal-juego-exterior-108620873.html",
+        "date": "2024-09-27 02:00:38",
+        "sentiment_score": -0.15089431405067444
+    },
+    {
+        "title": "Ricard Pérez Pinazo: «Aparezco cuando el deportista está estancado»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3015193.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/polideportivo/2024/09/27/2249331/ricard-perez-pinazo-aparezco-cuando-deportista-esta-estancado.html",
+        "date": "2024-09-27 02:00:01",
+        "sentiment_score": -0.0218370258808136
+    },
+    {
+        "title": "«La alergia aumenta con la globalización, el clima y la biotecnología»",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/26/66f5a8326fec9.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/240927/1631109/alergia-aumenta-globalizacion-clima-biotecnologia.html",
+        "date": "2024-09-27 01:30:00",
+        "sentiment_score": 0.47876330465078354
+    },
+    {
+        "title": "El patinazo histórico de la presidenta de México en su ataque al Rey con la fundación de Tenochtitlan",
+        "image_url": "https://s1.elespanol.com/2024/09/26/historia/888921733_249521881_1706x960.png?contentId=ESPIMA20240926_0634",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20240927/patinazo-historico-presidenta-mexico-ataque-rey-fundacion-tenochtitlan/888911406_0.html",
+        "date": "2024-09-27 01:10:53",
+        "sentiment_score": 0.16716235876083374
+    },
+    {
+        "title": "Del cooperante en Angola a un profesor del IE: quién es quién en el nuevo Gabinete de Pedro Sánchez",
+        "image_url": "https://s1.elespanol.com/2024/09/26/reportajes/888922171_249535500_1706x960.png?contentId=ESPIMA20240926_1072",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240927/cooperante-angola-profesor-ie-nuevo-gabinete-pedro-sanchez/888911717_0.html",
+        "date": "2024-09-27 01:10:19",
+        "sentiment_score": -0.7334631383419037
     }
 ];
