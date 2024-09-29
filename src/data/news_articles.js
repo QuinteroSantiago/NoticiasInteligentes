@@ -1,294 +1,5 @@
 export default [
     {
-        "title": "Concesionarios chinos pierden 20.000 millones dólares por guerra de precios, dice patronal",
-        "image_url": "./assets/ai_generated/v1_txt2img_77383e34067c4b68a583838e888769e4.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/25/concesionarios-chinos-pierden-20000-millones-dolares-por-guerra-de-precios-dice-patronal/",
-        "date": "2024-09-25 06:16:57",
-        "sentiment_score": -0.7189047615975142
-    },
-    {
-        "title": "El precio del oro sigue al alza y marca otro récord por encima de los 2.670 dólares",
-        "image_url": "./assets/ai_generated/v1_txt2img_da57b0a511d143768f4213ef66f1177d.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/25/el-precio-del-oro-sigue-al-alza-y-marca-otro-record-por-encima-de-los-2670-dolares/",
-        "date": "2024-09-25 06:16:41",
-        "sentiment_score": 0.5670359283685684
-    },
-    {
-        "title": "La borrasca Aitor pone en alerta a 7 comunidades por lluvias y viento, Galicia en naranja",
-        "image_url": "./assets/ai_generated/v1_txt2img_96f6f2c56efe4ef882a1f7d7e5f54b32.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/25/la-borrasca-aitor-pone-en-alerta-a-7-comunidades-por-lluvias-y-viento-galicia-en-naranja/",
-        "date": "2024-09-25 06:15:56",
-        "sentiment_score": -0.4856482446193695
-    },
-    {
-        "title": "Montero se enfrenta hoy en el Congreso a preguntas de PP y Podemos sobre cómo continuará el Gobierno sin apoyos",
-        "image_url": "https://www.infobae.com/resizer/v2/DMTHTENWAVAV7NP2JRUYKZGOIA.jpg?auth=056c9fa3da692ca1bdede46c9583c81815247c4e2c2005b60c7d8dfc6abfba92",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/25/montero-se-enfrenta-hoy-en-el-congreso-a-preguntas-de-pp-y-podemos-sobre-como-continuara-el-gobierno-sin-apoyos/",
-        "date": "2024-09-25 06:05:28",
-        "sentiment_score": -0.3803931176662445
-    },
-    {
-        "title": "El PP pregunta hoy a Bolaños si el Plan de Acción Democrática incluye \"menoscabar\" al juez que investiga a Begoña Gómez",
-        "image_url": "https://www.infobae.com/resizer/v2/CLHICPUR6NHLTHPO6WBVHAF4BU.jpg?auth=7948369b3f67d0954727bff08498996c65c0eeb62560f35bf531d43e8d9c6a1a",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/25/el-pp-pregunta-hoy-a-bolanos-si-el-plan-de-accion-democratica-incluye-menoscabar-al-juez-que-investiga-a-begona-gomez/",
-        "date": "2024-09-25 06:05:16",
-        "sentiment_score": -0.7021782845258713
-    },
-    {
-        "title": "El CGPJ aprueba hoy su nueva estructura con un reparto equilibrado entre progresistas y conservadores",
-        "image_url": "https://www.infobae.com/resizer/v2/Q5NEPGTT3VH5NPRREPKYOTIBJ4.jpg?auth=ce65f8acb29f67150938bab507005398380de7fa2d8e92db9b4efbf347c0e703",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/25/el-cgpj-aprueba-hoy-su-nueva-estructura-con-un-reparto-equilibrado-entre-progresistas-y-conservadores/",
-        "date": "2024-09-25 06:04:51",
-        "sentiment_score": 0.6685063801705837
-    },
-    {
-        "title": "Una mujer se lleva dos chocolatinas del Mercadona y es condenada a nueve meses de cárcel por robo con violencia",
-        "image_url": "./assets/ai_generated/v1_txt2img_d3a0a0cf578b4fd2983d03bf7aa1902b.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/25/una-mujer-se-lleva-dos-chocolatinas-del-mercadona-y-es-condenada-a-nueve-meses-de-carcel-por-robo-con-violencia/",
-        "date": "2024-09-25 06:04:35",
-        "sentiment_score": -0.739934528246522
-    },
-    {
-        "title": "El PP reprobará hoy a Óscar Puente en el Senado por el \"caos ferroviario\" de los últimos meses",
-        "image_url": "https://www.infobae.com/resizer/v2/AMHFVWW3M5H3JONFXNU5TCH5EU.jpg?auth=d77b32e91c5f6f303e0afae7cb47fcffc14d73fa97d9744932519aac2689339f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/25/el-pp-reprobara-hoy-a-oscar-puente-en-el-senado-por-el-caos-ferroviario-de-los-ultimos-meses/",
-        "date": "2024-09-25 06:04:31",
-        "sentiment_score": -0.8260388374328613
-    },
-    {
-        "title": "Efemérides del 26 de septiembre",
-        "image_url": "./assets/ai_generated/v1_txt2img_78eeedd711d844e5a119b4d0fd86b9a9.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/25/efemerides-del-26-de-septiembre/",
-        "date": "2024-09-25 05:15:56",
-        "sentiment_score": -0.024186626076698303
-    },
-    {
-        "title": "Cuántos dólares cuesta un euro hoy 25 de septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/34C3DI57SRD4FCC6G5EJJEQIHA.jpg?auth=00c009747825d3cace5c04cb59dcc4fd66fc1e20b3341681de7e50c3c2361d9b",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/25/cuantos-dolares-cuesta-un-euro-hoy-25-de-septiembre/",
-        "date": "2024-09-25 05:15:36",
-        "sentiment_score": -0.15754206478595734
-    },
-    {
-        "title": "Un zoológico devolverá los pandas gigantes a China porque su mantenimiento es demasiado caro",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1757613-panda-2.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "finlandia",
-            "europa",
-            "china"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/25/finlandia-panda-devolucion-china-costos-reux/",
-        "date": "2024-09-25 06:24:22",
-        "sentiment_score": -0.8737466977909207
-    },
-    {
-        "title": "Hezbollah no es Hamas. ¿Puede Israel permitirse otra guerra total?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/Portada-Israel-e1727236490467.jpg?quality=100&strip=info",
-        "tags": [
-            "ataque israel hezbollah",
-            "hamas",
-            "medio oriente",
-            "líbano"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/25/israel-segunda-guerra-hezbollah-costos-trax/",
-        "date": "2024-09-25 05:28:08",
-        "sentiment_score": -0.45705925673246384
-    },
-    {
-        "title": "Clemente, padre de uno de los 43 desaparecidos de Ayotzinapa : «López Obrador no ha cumplido su compromiso»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/24/clemente-RpjVXIMWgak3391CpZ9nqmM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/clemente-padre-desaparecidos-iguala-20240924144119-nt.html",
-        "date": "2024-09-25 05:56:39",
-        "sentiment_score": -0.060152798891067505
-    },
-    {
-        "title": "La Generalitat elimina el requisito del valenciano para la FP y las enseñanzas artísticas por la ley de Libertad Educativa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YKZLTKWIUNDIHO6NGWVQUVDRMA.jpg?auth=0d7326f2ebf9db7e992c6391891d75c6f5d0219dad83fd2464399e8234166bd4&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "educación",
-            "carlos mazón",
-            "generalitat valenciana",
-            "valenciano"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-25/la-generalitat-elimina-el-requisito-del-valenciano-para-la-fp-y-las-ensenanzas-artisticas-al-aplicar-la-ley-de-libertad-educativa.html",
-        "date": "2024-09-25 06:26:55",
-        "sentiment_score": -0.9030775064602494
-    },
-    {
-        "title": "Top MBA 2024 - 2025: los programas mejor valorados en España",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3012993.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/noticias/sociedad/2024/09/25/2247909/top-mba-2024-2025-programas-mejor-valorados-espana.html",
-        "date": "2024-09-25 06:23:00",
-        "sentiment_score": 0.03640428185462952
-    },
-    {
-        "title": "Un día como hoy: efemérides del 25 de septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/BT6X6MHSJVEULPA6YFGM35O7ZM.jpg?auth=4c10ca80078b9483b9344d71ccbc727cb2214136a394857e2e22087789ff4e97",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/noticias/2024/09/25/un-dia-como-hoy-efemerides-del-25-de-septiembre/",
-        "date": "2024-09-25 06:16:31",
-        "sentiment_score": 0.6106825135648251
-    },
-    {
-        "title": "Carrión tira del séptimo once para catapultar a Las Palmas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e652093a-919b-4ecb-8ca1-e6e77d35def5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/ud-las-palmas/2024/09/25/carrion-tira-septimo-once-catapultar-108537696.html",
-        "date": "2024-09-25 06:00:48",
-        "sentiment_score": 0.11363580822944641
-    },
-    {
-        "title": "Montero se enfrenta en el Congreso a las preguntas del PP y Podemos sobre cómo continuará el Gobierno sin apoyos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/009b9d60-c42e-4c74-a8eb-3d7172b96eaf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/espana/2024/09/25/montero-enfrenta-congreso-preguntas-pp-podemos-continuidad-gobierno-sin-apoyos-presupuestos-108542959.html",
-        "date": "2024-09-25 05:49:18",
-        "sentiment_score": -0.1806703582406044
-    },
-    {
-        "title": "Arribas: el Almería no está para lujos",
-        "image_url": "https://images.ficheroslavoz.com/66/66b0dee0-98ce-4c45-800d-9cce6a735ff8.jpg?crop=1750%2C986&expires=1758778764&height=1070&token=Bxl_vJvyBpeE9is8GoldxQ33IQw-eyaJL9cvC8XGXLU&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/280726/arribas-el-almeria-no-esta-para-lujos",
-        "date": "2024-09-25 05:38:23",
-        "sentiment_score": 0.04885344207286835
-    },
-    {
-        "title": "Ayuso bate su propio récord y ya son 50.000 los jóvenes que se quedan sin plaza en FP",
-        "image_url": "https://www.elplural.com/uploads/s1/18/35/37/4/isabel-diaz-ayuso-sale-del-teatro-real-donde-ha-asistido-a-la-opera-adriana-lecouvreur-que-da-comienzo-a-la-temporada-24-25-a-23-de-septiembre-de-2024-en-madrid-espana_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/ayuso-bate-propio-record-son-50000-jovenes-quedan-sin-plaza-fp_337610102",
-        "date": "2024-09-25 05:26:01",
-        "sentiment_score": -0.1165025383234024
-    },
-    {
-        "title": "¡HOLA! abre su casa y la llena de estrellas para celebrar su 80 aniversario",
-        "image_url": "https://www.hola.com/horizon/landscape/701f053481f4-1280x720-fiesta.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20240925720026/isabel-preysler-eugenia-silva-ines-domecq-victoria-marichalar-fiesta-celebracion-80-aniversario/",
-        "date": "2024-09-25 05:18:08",
-        "sentiment_score": 0.7657196931540966
-    },
-    {
-        "title": "Gervasio Deferr: \"La historia la sabemos porque aquí estoy. No me he muerto. No es un spoiler\"",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/09/24/gervasio-deferr-en-el-photocall-el-gran-salto-en-el-72nd-san-sebastian-film-festival.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/gervasio-deferr-la-historia-aqui-me-he-muerto-spoiler.html",
-        "date": "2024-09-25 05:14:28",
-        "sentiment_score": 0.3760606348514557
-    },
-    {
-        "title": "El Gobierno vasco cifra en 12.000 millones el gasto en pensiones del Estado en Euskadi este año",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5fdebc6c-1fd0-4f38-b0d5-a88fef9616d8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/politica/2024/09/25/gobierno-vasco-cifra-12-000-8728819.html",
-        "date": "2024-09-25 05:11:10",
-        "sentiment_score": 0.14191511273384094
-    },
-    {
-        "title": "La DGT obliga ya a llevar esto en el vehículo: no hacerlo pueden ser 200 euros de multa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5c6c696-063b-42c1-8b0d-03be23f54860_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/sociedad/2024/09/25/dgt-obliga-hoy-llevar-vehiculo-dv-83181410.html",
-        "date": "2024-09-25 06:30:00",
-        "sentiment_score": -0.7285945639014244
-    },
-    {
-        "title": "Topik: 15 años (y reforma) del restaurante en el que Asia se encontró con Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16ddf928-aa09-429c-bd86-d9abdb5b4090_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20240925/restaurante-topik-barcelona-por-pau-arenos-108474371",
-        "date": "2024-09-25 06:26:57",
-        "sentiment_score": -0.05240413546562195
-    },
-    {
-        "title": "David Broncano le gana la partida de la audiencia con dos invitados a Pablo Motos y Ricardo Darín",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/25/66f3a98c44c21.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.lavanguardia.com/television/20240925/9967037/david-broncano-le-gana-partida-audiencia-dos-invitados-pablo-motos-ricardo-darin.html",
-        "date": "2024-09-25 06:26:52",
-        "sentiment_score": -0.8497761311009526
-    },
-    {
-        "title": "Mainat rompe su silencio tras la sentencia a Ángela Dobrowolski: \"Lo peor está por llegar, con dos niños con su madre en la cárcel\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/15/josep-maria-mainat-y-angela-dobrowolski-en-el-juicio.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5637158/0/mainat-rompe-su-silencio-tras-sentencia-angela-dobrowolski-peor-esta-por-llegar-con-dos-ninos-con-su-madre-carcel/",
-        "date": "2024-09-25 06:20:00",
-        "sentiment_score": 0.4956738296896219
-    },
-    {
-        "title": "Rosalía estrena 'Omega' en el piromusical de la Mercé en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4510ee5e-4723-4567-94b2-7ef3c9b187b8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemurcia.es/cultura/2024/09/25/rosalia-estrena-omega-piromusical-merce-barcelona-108543320.html",
-        "date": "2024-09-25 06:10:00",
-        "sentiment_score": -0.0781109631061554
-    },
-    {
         "title": "La CNMV abre expedientes a Gotham, por manipulación de mercado, y a Grifols, por informes",
         "image_url": "./assets/ai_generated/v1_txt2img_4190e23596eb4b498f6af65db23eb9b0.png",
         "tags": [
@@ -7532,5 +7243,532 @@ export default [
         "link": "https://www.ideal.es/granadacf/directo-barcelonagranada-femenino-20240928181306-di.html",
         "date": "2024-09-28 16:13:06",
         "sentiment_score": -0.8364523332566023
+    },
+    {
+        "title": "Diego Ocampo: \"Hemos sabido sufrir para ganar al Valencia Basket\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_95fcb57039164827bf19cbd9e01231e8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/diego-ocampo-hemos-sabido-sufrir-para-ganar-al-valencia-basket/",
+        "date": "2024-09-28 21:47:09",
+        "sentiment_score": 0.8901458568871021
+    },
+    {
+        "title": "Natxo Lezkano: \"En el último cuarto, inexplicablemente, hemos desaparecido\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_9202b7a03801474885a1a0ed202d17cb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/natxo-lezkano-en-el-ultimo-cuarto-inexplicablemente-hemos-desaparecido/",
+        "date": "2024-09-28 21:46:51",
+        "sentiment_score": 0.4277050048112869
+    },
+    {
+        "title": "Pedro Martínez: \"No hemos competido ante un Baxi Manresa que mereció la victoria\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_eacdfe94444444d9a1d733e7ea5c79da.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/pedro-martinez-no-hemos-competido-ante-un-baxi-manresa-que-merecio-la-victoria/",
+        "date": "2024-09-28 21:46:33",
+        "sentiment_score": -0.3983767479658127
+    },
+    {
+        "title": "López Arnaiz: Ha sido un disfrute trabajar con directoras \"talentosísimas\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_f7feec4b53c540db8ac18e6d3e994478.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/lopez-arnaiz-ha-sido-un-disfrute-trabajar-con-directoras-talentosisimas/",
+        "date": "2024-09-28 21:46:32",
+        "sentiment_score": 0.9157888498157263
+    },
+    {
+        "title": "77-73. El Baxi Manresa sorprende al Valencia Basket en el Nou Congost",
+        "image_url": "./assets/ai_generated/v1_txt2img_f83724029c5d4dd5906ac4b852f8f1f9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/77-73-el-baxi-manresa-sorprende-al-valencia-basket-en-el-nou-congost/",
+        "date": "2024-09-28 21:17:28",
+        "sentiment_score": 0.5966939330101013
+    },
+    {
+        "title": "Jaka Lakovic: \"La defensa nos ha dado la victoria\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_a5f5c0a530814914a6714334e3cee9df.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/jaka-lakovic-la-defensa-nos-ha-dado-la-victoria/",
+        "date": "2024-09-28 21:17:12",
+        "sentiment_score": 0.8198823276907206
+    },
+    {
+        "title": "Doblete de Muniain para dar la victoria a San Lorenzo (2-1)",
+        "image_url": "./assets/ai_generated/v1_txt2img_ee0d435185514edf8ec43bfcb80a6fde.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/doblete-de-muniain-para-dar-la-victoria-a-san-lorenzo-2-1/",
+        "date": "2024-09-28 21:16:19",
+        "sentiment_score": 0.826851999387145
+    },
+    {
+        "title": "71-91: El MoraBanc se deshace en el último cuarto y el Dreamland Gran Canaria no perdona",
+        "image_url": "./assets/ai_generated/v1_txt2img_ddd1b0b5cf19401dbd5b8d9fe23bcc0f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/71-91-el-morabanc-se-deshace-en-el-ultimo-cuarto-y-el-dreamland-gran-canaria-no-perdona/",
+        "date": "2024-09-28 21:16:00",
+        "sentiment_score": -0.48089978098869324
+    },
+    {
+        "title": "0-3. Dos uruguayos y Mourad le dan la primera victoria a domicilio al Elche",
+        "image_url": "./assets/ai_generated/v1_txt2img_d73d711a995445aeaa3466bd173b6079.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/0-3-dos-uruguayos-y-mourad-le-dan-la-primera-victoria-a-domicilio-al-elche/",
+        "date": "2024-09-28 21:15:42",
+        "sentiment_score": 0.7177080772817135
+    },
+    {
+        "title": "0-1. El Young Boys no levanta cabeza",
+        "image_url": "./assets/ai_generated/v1_txt2img_0ecc1b3031784bc4aa6072b3d87ca2bf.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/0-1-el-young-boys-no-levanta-cabeza/",
+        "date": "2024-09-28 21:01:16",
+        "sentiment_score": 0.21675265580415726
+    },
+    {
+        "title": "Así quedaron algunas zonas de Tennessee tras el devastador paso de Helene",
+        "image_url": "./assets/ai_generated/v1_txt2img_fc0dad6fc74d4fdbb2648a83ec421326.png",
+        "tags": [
+            "helene",
+            "tennessee",
+            "noticias de ee.uu.",
+            "clima",
+            "huracán"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/helene-estados-unidos-destruccion-tennessee-orix/",
+        "date": "2024-09-28 22:14:37",
+        "sentiment_score": -0.8710971344262362
+    },
+    {
+        "title": "¿Quién podría ser el nuevo jefe de Hezbollah?",
+        "image_url": "./assets/ai_generated/v1_txt2img_03991b847056478ab2c26e45f9972d4e.png",
+        "tags": [
+            "hezbollah",
+            "medio oriente",
+            "líbano"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hassan-nasrellah-muerte-sucesor-hezbollah-trax/",
+        "date": "2024-09-28 22:00:46",
+        "sentiment_score": -0.4170355647802353
+    },
+    {
+        "title": "Mark Zuckerberg entra al exclusivo club de los US$ 200.000 millones y se convierte en la cuarta persona más rica del mundo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759358-mark-zuckerberg-meta-millonario.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "empresas",
+            "elon musk",
+            "instanoticias",
+            "meta",
+            "mark zuckerberg",
+            "multimillonarios"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/28/mark-zuckerberg-us-200-000-millones-cuarta-persona-mas-rica-mundo-trax/",
+        "date": "2024-09-28 20:20:37",
+        "sentiment_score": 0.33784012496471405
+    },
+    {
+        "title": "Harris intenta revertir la discusión ante Trump abordando la frontera como tema clave",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759344-gettyimages-2174047446.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos",
+            "inmigración",
+            "kamala harris",
+            "elecciones ee.uu. 2024"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/28/harris-revertir-discusion-trump-frontera-inmigracion-trax/",
+        "date": "2024-09-28 19:56:42",
+        "sentiment_score": -0.7640636190772057
+    },
+    {
+        "title": "¿Qué ha pasado en Venezuela desde las elecciones presidenciales? Así se vive la tensión y la incertidumbre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759351-venezuela-election-campaign-gonzalez-machado-supporters.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela",
+            "instanoticias",
+            "elecciones en venezuela",
+            "edmundo gonzález",
+            "maría corina machado",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/28/venezuela-dos-meses-elecciones-presidenciales-incertidumbre-tensiones-orix/",
+        "date": "2024-09-28 19:01:34",
+        "sentiment_score": -0.8718697931617498
+    },
+    {
+        "title": "Los retos del nuevo Gobierno de México para impulsar la economía, según experta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2157015082-20240928172509342.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-economia-desafios-sheinbaum-inflacion-inversion-cnn-dinero-tv/",
+        "date": "2024-09-28 18:56:31",
+        "sentiment_score": 0.10477416217327118
+    },
+    {
+        "title": "Costa Rica es el destino más acogedor para extranjeros en 2024, según ranking global",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/GettyImages-1985414708-e1713398260532.jpg?quality=100&strip=info",
+        "tags": [
+            "turismo",
+            "costa rica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/28/costa-rica-destino-acogedor-extranjeros-2024-ranking-orix/",
+        "date": "2024-09-28 18:14:48",
+        "sentiment_score": 0.33990853279829025
+    },
+    {
+        "title": "Las claves del ataque contra Hezbollah que dejó centenares de heridos en Líbano",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759301-2024-09-17t151640z-825839572-rc2f2aaqn74i-rtrmadp-3-israel-palestinians-hezbollah.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "ataque israel hezbollah",
+            "conecta2",
+            "fast – reserve"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-claves-ataque-hezbollah-libano-contectados-fast/",
+        "date": "2024-09-28 17:18:25",
+        "sentiment_score": -0.7194139249622822
+    },
+    {
+        "title": "Sevilla, ciudad del libro",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/29/librosantiguos-RCbJKZHR0SxTNxKotjz3qOO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jose-maria-jurado-sevilla-ciudad-libro-20240929225132-nts.html",
+        "date": "2024-09-28 20:51:32",
+        "sentiment_score": 0.05720838904380798
+    },
+    {
+        "title": "Edad",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/09/26/pelicula-jerez-cura--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/edad-20240929225130-nts.html",
+        "date": "2024-09-28 20:51:30",
+        "sentiment_score": -0.05259144306182861
+    },
+    {
+        "title": "¿Andalucía? Lo que diga Cataluña",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/29/maria-jesus-montero-Rtt5N40Vxpq95BksiywgkCJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-andalucia-diga-cataluna-20240929225127-nts.html",
+        "date": "2024-09-28 20:51:27",
+        "sentiment_score": -0.16290907561779022
+    },
+    {
+        "title": "El jarabe del perdón",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2024/09/26/pinocho7-kf6C--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-jarabe-perdon-20240929225124-nts.html",
+        "date": "2024-09-28 20:51:25",
+        "sentiment_score": -0.11890944838523865
+    },
+    {
+        "title": "Los gusanitos de la botica",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/09/25/194785715--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-gusanitos-botica-20240929225124-nts.html",
+        "date": "2024-09-28 20:51:24",
+        "sentiment_score": 0.08615520596504211
+    },
+    {
+        "title": "Maestro Curao",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/29/curao2-RdmpgpqniaSHTh2MRe0le1J-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-maestro-curao-20240929225121-nts.html",
+        "date": "2024-09-28 20:51:21",
+        "sentiment_score": -0.009387075901031494
+    },
+    {
+        "title": "Una mujer que teje",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/28/tejer_20240928202909-RfqQ067F415JQ2sPq5dNmFK-350x624@diario_abc.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-mujer-teje-20240928203444-nt.html",
+        "date": "2024-09-28 19:29:42",
+        "sentiment_score": -0.008776545524597168
+    },
+    {
+        "title": "Cartas, lenguas y derechos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/29/ABCTERCERA_Cartaslenguasyderechos_ARENAS-RMHFd0tProhmpsJn01W4DjN-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rafael-arenas-garcia-cartas-lenguas-derechos-20240929195459-nt.html",
+        "date": "2024-09-28 18:02:38",
+        "sentiment_score": -0.16888432204723358
+    },
+    {
+        "title": "Desde el primer cojín háptico hasta los nuevos auriculares perfectos para el gaming: Estos son los productos presentados en la RazerCon 2024",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/09/28/razer-RQ2NCCRdu0Yhoswx2226TZP-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/primer-cojin-haptico-nuevos-auriculares-perfectos-gaming-20240928185238-nt.html",
+        "date": "2024-09-28 18:01:00",
+        "sentiment_score": 0.04685452580451965
+    },
+    {
+        "title": "'Facilitar' es lo fácil",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/09/27/jubilados-paseo--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-facilitar-facil-20240929195301-nt.html",
+        "date": "2024-09-28 17:53:12",
+        "sentiment_score": -0.10647419095039368
+    },
+    {
+        "title": "Miles de venezolanos arropan a Edmundo González en su primera aparición pública en España",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CXO7PCLDEJHI7J6S2UBKRZO3W4.JPG?auth=d5051e378f809d14671670a9266751ad2d957b61d33dc8500689c0e720cac6c1&width=1200",
+        "tags": [
+            "manifestaciones",
+            "madrid",
+            "españa",
+            "exilio",
+            "venezuela",
+            "chavismo",
+            "edmundo gonzález urrutia",
+            "exiliados"
+        ],
+        "link": "https://elpais.com/espana/2024-09-28/miles-de-venezolanos-arropan-a-edmundo-gonzalez-en-su-primera-aparicion-en-publico-en-espana.html",
+        "date": "2024-09-28 19:26:02",
+        "sentiment_score": -0.36128702759742737
+    },
+    {
+        "title": "¿Quiénes son los padres de Marcelo Vieira? Te contamos todo sobre su familia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/28/2024092813425811177.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-marcelo-vieira-contamos-todo-familia/20240929000000849662.html",
+        "date": "2024-09-28 22:00:00",
+        "sentiment_score": 0.5139549300074577
+    },
+    {
+        "title": "Osasuna rompe el invicto del Barcelona",
+        "image_url": "./assets/ai_generated/v1_txt2img_518486f150ab43b4b49b815f95e1192c.png",
+        "tags": [
+            "fútbol",
+            "barcelona",
+            "deportes",
+            "osasuna"
+        ],
+        "link": "https://www.elnacional.com/deportes/osasuna-rompe-el-invicto-del-barcelona/",
+        "date": "2024-09-28 21:55:09",
+        "sentiment_score": 0.5372884795069695
+    },
+    {
+        "title": "El partido en El Sadar evidencia la limitada profundidad de la plantilla de Hansi Flick",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/09/28/2024092823533473515.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/partido-sadar-pone-manifiesto-que-hansi-flick-tiene/20240928235407319142.html",
+        "date": "2024-09-28 21:54:07",
+        "sentiment_score": 0.1796867698431015
+    },
+    {
+        "title": "Sumar fagocita del todo Más País Andalucía",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2023/10/01/F5A2D8BF-2F7E-4307-A092-B7C22A984F75/96.jpg?crop=1256%2C707%2Cx0%2Cy134&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/sumar-fagocita-todo-mas-pais-andalucia_2024092866f87984b3741e0001f84a31.html",
+        "date": "2024-09-28 21:47:49",
+        "sentiment_score": 0.10997111350297928
+    },
+    {
+        "title": "Crónica del CA Osasuna - FC Barcelona, 4-2",
+        "image_url": "https://www.infobae.com/resizer/v2/HY66FTUWYZBUTDKTNVSMPOWBFI.jpg?auth=dacebc529b3b06780b927385b16ce47b705aebe60daf81983f5c508d161c7732",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/28/cronica-del-ca-osasuna-fc-barcelona-4-2/",
+        "date": "2024-09-28 21:47:34",
+        "sentiment_score": -0.037964269518852234
+    },
+    {
+        "title": "Moleiro da un paso al frente en la UD Las Palmas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/748024e8-82f2-4f1e-a106-f4ecdf25c6ea_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/09/28/moleiro-da-paso-frente-ud-108694122.html",
+        "date": "2024-09-28 21:29:53",
+        "sentiment_score": 0.2808309942483902
+    },
+    {
+        "title": "El Osasuna propina al Barça su primera derrota en LaLiga con un aplastante 4-2",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/09/Javier-Tebas-469x317.jpg",
+        "tags": [
+            "ca osasuna",
+            "fc barcelona",
+            "fútbol",
+            "laliga ea sports"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2024-09-28/osasuna-barca-derrota/",
+        "date": "2024-09-28 21:29:47",
+        "sentiment_score": 0.09645876288414001
+    },
+    {
+        "title": "El flamenco sigue latiendo con fuerza en recuerdo al Tío Miguel",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1103799",
+        "date": "2024-09-28 21:24:11",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Romero: \"Esto es lo que quiero ver en mi equipo\"",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1103808",
+        "date": "2024-09-28 21:20:31",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Osasuna se impone 4-2 al Barcelona, que dejó su paso perfecto en la Liga española",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/c/bf/cbfb4fa7-1d1c-5acc-9074-b41bfdeffb80/66f8754602d83.image.jpg?resize=300%2C200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/osasuna-se-impone-4-2-al-barcelona-que-dej-su-paso-perfecto-en-la-liga/article_a74ebc3e-23f7-5e41-a436-f6f8aa369575.html",
+        "date": "2024-09-28 21:13:55",
+        "sentiment_score": 0.8556271120905876
+    },
+    {
+        "title": "La Real quiere darle continuidad a la victoria lograda ante el Levante",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/09/28/entrenador-kNAE--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/femenino/real-quiere-darle-continuidad-victoria-lograda-ante-20240928233440-nt.html",
+        "date": "2024-09-28 22:13:30",
+        "sentiment_score": 0.7289397493004799
+    },
+    {
+        "title": "Vicente Moreno saca pecho y destaca el aspecto más importante de Osasuna para derrotar al Barcelona",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2024/09/29/2024092900013440418.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/osasuna/osasuna-declaraciones-vicente-moreno-vencer-barcelona-sadar/20240929001218563115.html",
+        "date": "2024-09-28 22:12:18",
+        "sentiment_score": 0.8247533645480871
+    },
+    {
+        "title": "Los años que llevaba Osasuna sin vencer al Barça en El Sadar: por fin se rompe el maleficio",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2024/09/28/2024092822491059417.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/osasuna/futbol-osasuna-rompe-maleficio-vence-barcelona-despues-doce-temporadas-sadar/20240928231309563113.html",
+        "date": "2024-09-28 22:12:09",
+        "sentiment_score": 0.10068409144878387
+    },
+    {
+        "title": "Bryan: “Ni antes era muy malo, ni ahora tan bueno”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/56b8d1be-a7d0-4238-9594-42a55041555b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2024/09/29/bryan-malo-ahora-bueno-8744578.html",
+        "date": "2024-09-28 22:11:55",
+        "sentiment_score": 0.03880015015602112
+    },
+    {
+        "title": "La OPA de Illa al nacionalismo moderado: tres consejeros y ocho altos cargos de CiU",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/09/photo-2024-09-26-17-17-20-1280x808.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/09/29/la-opa-de-illa-al-nacionalismo-moderado-tres-consejeros-y-ocho-altos-cargos-de-ciu/",
+        "date": "2024-09-28 22:11:54",
+        "sentiment_score": 0.5405412092804909
+    },
+    {
+        "title": "El despegue de Bryan Zaragoza",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/09/29/66f87e5c64e79.r_d.1780-997-959.jpeg",
+        "tags": [
+            "míster"
+        ],
+        "link": "https://www.mundodeportivo.com/el-mister/20240929/1002324128/despegue-bryan-zaragoza.html",
+        "date": "2024-09-28 22:09:20",
+        "sentiment_score": 0.4221535176038742
+    },
+    {
+        "title": "Sílvia Nuri",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/28/examen-protagonistas/889421111_13511971_1706x960.jpg?contentId=ESPIMA20240928_0062",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240929/silvia-nuri/889411126_0.html",
+        "date": "2024-09-28 22:07:14",
+        "sentiment_score": -0.07372567057609558
+    },
+    {
+        "title": "El blockchain resiste por el sector cripto",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/27/66f6d5c07a6a8.r_d.2909-2938-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20240929/9978428/blockchain-criptomonedas-bitcoin.html",
+        "date": "2024-09-28 22:05:00",
+        "sentiment_score": -0.6072166934609413
+    },
+    {
+        "title": "Ryanair contra eDreams: batalla total por los viajes",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/09/27/66f6f108d5685.r_d.3029-2453-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20240929/9978760/ryanair-edreams-batalla-total-viajes.html",
+        "date": "2024-09-28 22:05:00",
+        "sentiment_score": -0.8235975680872798
+    },
+    {
+        "title": "Las cicatrices del libro usado",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/27/66f6718148e63.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240929/9976403/cicatrices-libro-usado.html",
+        "date": "2024-09-28 22:05:00",
+        "sentiment_score": -0.34674736112356186
     }
 ];
