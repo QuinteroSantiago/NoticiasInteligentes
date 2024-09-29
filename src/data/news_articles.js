@@ -185,33 +185,6 @@ export default [
         "sentiment_score": -0.7504785135388374
     },
     {
-        "title": "Autoridades de Ecuador afirman que el incendio forestal en Quito fue provocado y buscan a los responsables",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1757707-ecuador-environment-climate-wildfire.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ecuador",
-            "quito",
-            "incendio"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/25/ecuador-incendio-forestal-quito-provocado-trax/",
-        "date": "2024-09-25 13:07:35",
-        "sentiment_score": -0.694949496537447
-    },
-    {
-        "title": "Israel interceptó misil lanzado por Hezbollah con objetivo a la sede del Mossad en Tel Aviv",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173527978.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medio oriente",
-            "xpress",
-            "tel aviv",
-            "misil",
-            "fast – news variety",
-            "ataque israel hezbollah"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/israel-intercepto-misil-hezbollah-tel-aviv-levy-cafe-tv-fast/",
-        "date": "2024-09-25 12:53:08",
-        "sentiment_score": -0.7298702783882618
-    },
-    {
         "title": "La macro cárcel de Makala en Congo libera a 1.685 presos enfermos",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/25/makala-carcel-RWF5lqIJnBeezPItoJBoBeI-1200x840@diario_abc.jpg",
         "tags": [
@@ -290,26 +263,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/razon-personas-down-riesgo-mayor-leucemia-20240925162828-nt.html",
         "date": "2024-09-25 15:00:00",
         "sentiment_score": -0.20589391887187958
-    },
-    {
-        "title": "Un hombre secuestra un autobús tras disparar a un pasajero y es detenido por la Policía de Los Ángeles",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/09/25/bus-imagenes-bordo.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hombre-secuestra-autobus-tras-disparar-pasajero-detenido-20240925142110-nt.html",
-        "date": "2024-09-25 12:21:11",
-        "sentiment_score": -0.6038078553974628
-    },
-    {
-        "title": "Un informe desvela diferencias de hasta el 150% en lo que se paga de IBI en grandes ciudades",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/25/Girona-RqTfRVMpXuNOuJSMRnSS2nL-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/informe-desvela-diferencias-150-paga-ibi-grandes-20240925134733-nt.html",
-        "date": "2024-09-25 11:57:36",
-        "sentiment_score": -0.10737596452236176
     },
     {
         "title": "La campaña de vacunación contra la gripe comenzará en Madrid con déficit de enfermeras",
@@ -484,27 +437,6 @@ export default [
         "link": "https://elpais.com/economia/2024-09-25/las-filiales-en-espana-de-multinacionales-extranjeras-facturaron-un-26-mas-durante-2022.html",
         "date": "2024-09-25 14:17:36",
         "sentiment_score": 0.608877282589674
-    },
-    {
-        "title": "Claudia Sheinbaum asegura que no se invitó al Rey a la toma de posesión por no responder sobre las disculpas por la Conquista",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M6CQ3TOOPFBC3CRCM6CXD4MBVM.jpg?auth=d7413e80494a6befa384313ec5dbd4be884012485a12ecd2ec48c01d166ab4d3&width=1200",
-        "tags": [
-            "amlo - andrés manuel lópez obrador",
-            "administración amlo",
-            "méxico",
-            "claudia sheinbaum",
-            "felipe vi",
-            "relaciones internacionales",
-            "américa",
-            "latinoamérica",
-            "monarquía",
-            "casa real",
-            "relaciones exteriores",
-            "diplomacia"
-        ],
-        "link": "https://elpais.com/mexico/2024-09-25/claudia-sheinbaum-asegura-que-no-se-invito-al-rey-de-espana-a-la-toma-de-posesion-en-mexico-por-no-responder-sobre-las-disculpas-por-la-conquista.html",
-        "date": "2024-09-25 13:45:31",
-        "sentiment_score": 0.6164004541933537
     },
     {
         "title": "Mbappé sufrió una lesión en el bíceps y se pierde el clásico de Madrid",
@@ -7770,5 +7702,406 @@ export default [
         "link": "https://www.lavanguardia.com/local/barcelona/20240929/9976403/cicatrices-libro-usado.html",
         "date": "2024-09-28 22:05:00",
         "sentiment_score": -0.34674736112356186
+    },
+    {
+        "title": "España: el pronóstico del tiempo para Málaga este 29 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/GN3N4YEHJJDNHO7RGHV3ELFP5M.jpg?auth=0f446f41057ab4452bc5098d3e57563d05d982313e8f2682e3071f98a6c55dbf",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/29/espana-el-pronostico-del-tiempo-para-malaga-este-29-de-septiembre/",
+        "date": "2024-09-29 02:01:28",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 29 de septiembre en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/YGR2RP5YFJG5LDT3JNWND4C4BQ.jpg?auth=617039a5650d28f52e9b6bfa673c6caad91120e946aefdade1b619238efd1d91",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/29/clima-las-temperaturas-que-predominaran-este-29-de-septiembre-en-madrid/",
+        "date": "2024-09-29 01:31:01",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "YouTube en España: la lista de los 10 videos más reproducidos que son tendencia hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/DNFCISYZZFHB3BNJUKOCFSB62U.jpg?auth=b9d2709a84e35be4f9b265c5351474673756a973ee808ceb8c41968a2897547d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/29/youtube-en-espana-la-lista-de-los-10-videos-mas-reproducidos-que-son-tendencia-hoy/",
+        "date": "2024-09-29 01:01:43",
+        "sentiment_score": 0.7006216272711754
+    },
+    {
+        "title": "¿Cómo estará el clima en Barcelona?",
+        "image_url": "https://www.infobae.com/resizer/v2/AMCXPBWOYRAQFEVNFYUGLOHD7U.jpg?auth=a785a5e2e230179ab5555ff3fa5fed17eae1fcf530c70e065ac8db8566b82566",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/29/como-estara-el-clima-en-barcelona/",
+        "date": "2024-09-29 01:01:22",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Un camionero muerto y otros nueve heridos en un accidente a la entrada de Lleida",
+        "image_url": "./assets/ai_generated/v1_txt2img_46c3ea29c7e0452ba7b2981141e88a2e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/un-camionero-muerto-y-otros-nueve-heridos-en-un-accidente-a-la-entrada-de-lleida/",
+        "date": "2024-09-28 23:00:59",
+        "sentiment_score": -0.759184967726469
+    },
+    {
+        "title": "Godín y 'Chory' Castro son campeones con el Porongos en Uruguay",
+        "image_url": "./assets/ai_generated/v1_txt2img_11414b16ec714091ae10441ecabb03e1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/godin-y-chory-castro-son-campeones-con-el-porongos-en-uruguay/",
+        "date": "2024-09-28 22:18:49",
+        "sentiment_score": 0.3754933178424835
+    },
+    {
+        "title": "Mario Mola se impone en la Nocturna de Valencia",
+        "image_url": "./assets/ai_generated/v1_txt2img_6fe52a2c04c84c94beaa9e51e7659e3f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/mario-mola-se-impone-en-la-nocturna-de-valencia/",
+        "date": "2024-09-28 22:18:33",
+        "sentiment_score": 0.3450746089220047
+    },
+    {
+        "title": "Público del Romea ovaciona en pie a Lolita Flores en su 'Poncia' de Luis Luque",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/publico-del-romea-ovaciona-en-pie-a-lolita-flores-en-su-poncia-de-luis-luque/",
+        "date": "2024-09-28 22:17:56",
+        "sentiment_score": 0.18904273211956024
+    },
+    {
+        "title": "Hoy será noticia. Domingo, 29 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_156f49d38662455384e859105b1bad1a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/28/hoy-sera-noticia-domingo-29-de-septiembre-de-2024/",
+        "date": "2024-09-28 22:17:39",
+        "sentiment_score": 0.028814353048801422
+    },
+    {
+        "title": "Miles de personas en el mundo se manifiestan tras dos meses de las elecciones en Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759396-spain-venezuela-vote-protest.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "maría",
+            "protestas venezuela",
+            "instanoticias",
+            "venezuela",
+            "venezuela noticias",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/28/venezolanos-marchas-extranjero-dos-meses-elecciones-orix/",
+        "date": "2024-09-29 01:56:10",
+        "sentiment_score": 0.10352674126625061
+    },
+    {
+        "title": "Dos meses después de las controversiales elecciones, Nicolás Maduro critica la salida de Edmundo González y sugiere sin pruebas que María Corina Machado abandonará Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759453-nicolas-maduro.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "nicolás maduro",
+            "elecciones venezuela",
+            "venezuela",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/28/maduro-venezuela-critica-edmundo-gonzalez-maria-corina-machado-orix/",
+        "date": "2024-09-29 01:43:00",
+        "sentiment_score": -0.5161147117614746
+    },
+    {
+        "title": "Hombre muere al convulsionarse mientras estaba esposado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/109780-rhykerearlbodycam-v1-00-00-08-08-still001-20240929012546576.png",
+        "tags": [
+            "cámara corporal",
+            "noticias de ee.uu.",
+            "brutalidad policiaca"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muere-convulsiones-esposado-trax/",
+        "date": "2024-09-29 01:31:56",
+        "sentiment_score": -0.8198109827935696
+    },
+    {
+        "title": "Edmundo González marcha junto a miles de venezolanos en Madrid",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174269720.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-venezolanos-madrid-mirador-mundial-tv/",
+        "date": "2024-09-29 01:12:06",
+        "sentiment_score": -0.06256692111492157
+    },
+    {
+        "title": "Jornada de protestas en Venezuela: ¿qué son los enjambres de la oposición?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174261276.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-venezuela-enjambre-machado-gonzalez-maduro-mirador-mundial-tv/",
+        "date": "2024-09-29 01:11:40",
+        "sentiment_score": -0.6401510946452618
+    },
+    {
+        "title": "Hezbollah responde a Israel con ataques hacia Jerusalén",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2175286183.jpg?quality=100&strip=info",
+        "tags": [
+            "ataque israel hezbollah",
+            "israel noticias",
+            "medio oriente",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hezbollah-ataca-israel-hassan-nasrallah-mirador-mundial-tv/",
+        "date": "2024-09-29 00:26:44",
+        "sentiment_score": -0.6397131271660328
+    },
+    {
+        "title": "Servicios limitados por Helene, hasta 400 personas formadas intentando comprar comida",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20996617-35000-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/helene-destruccion-carolina-del-norte-mirador-mundial-tv/",
+        "date": "2024-09-29 00:25:52",
+        "sentiment_score": -0.9186339424923062
+    },
+    {
+        "title": "La situación actual de los habitantes de Acapulco tras el paso de John",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174039421.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "acapulco",
+            "méxico",
+            "fast – news variety",
+            "huracán john"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/acapulco-situacion-actual-habitantes-afectados-mirador-mundial-tv-fast/",
+        "date": "2024-09-28 23:04:12",
+        "sentiment_score": -0.89962990116328
+    },
+    {
+        "title": "¿Qué pasará con Hezbollah tras la muerte de Hassan Nasrallah?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175299796.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muerte-hassan-nasrallah-hezbollah-mirador-mundial-tv-fast/",
+        "date": "2024-09-28 22:56:57",
+        "sentiment_score": -0.7919984310865402
+    },
+    {
+        "title": "¿Que plantea la reforma a la Guardia Nacional de México?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172468457.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-guardia-nacional-mexico-opina-tv-fast/",
+        "date": "2024-09-28 22:51:11",
+        "sentiment_score": 0.0621168315410614
+    },
+    {
+        "title": "La generosidad del sistema de pensiones lo hace insostenible",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/29/1482886764-Ry7BnBLvGXQtHxWSIUvYOtL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/generosidad-sistema-pensiones-insostenible-20240929133837-nt.html",
+        "date": "2024-09-29 02:10:35",
+        "sentiment_score": -0.02991044521331787
+    },
+    {
+        "title": "Diplomacia partidista",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/09/27/jubilados-paseo--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-diplomacia-partidista-20240929193158-nt.html",
+        "date": "2024-09-29 01:15:44",
+        "sentiment_score": -0.14833098649978638
+    },
+    {
+        "title": "Netanyahu celebra la muerte del «asesino en masa» Nasralá y habla de «punto de inflexión histórico»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/09/29/netanyahu-k80F-U6031294708515QB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/netanyahu-celebra-muerte-asesino-masa-nasrala-habla-20240929012052-nt.html",
+        "date": "2024-09-28 23:20:53",
+        "sentiment_score": -0.1788473129272461
+    },
+    {
+        "title": "Ceuta, sin guardias en prácticas",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1103849",
+        "date": "2024-09-29 02:00:46",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Recorremos España (1.200 kilómetros) en coche eléctrico: cuatro recargas, ninguna espera y 70 euros de gasto",
+        "image_url": "https://s1.elespanol.com/2024/09/26/motor/888921842_249525428_1706x960.jpg?contentId=ESPIMA20240926_0743",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20240929/recorremos-espana-kilometros-coche-electrico-recargas-ninguna-espera-euros-gasto/888911551_0.html",
+        "date": "2024-09-29 01:46:42",
+        "sentiment_score": 0.624717902392149
+    },
+    {
+        "title": "Noruega: donde la innovación busca su hueco desde la industrialización y el diseño escandinavo",
+        "image_url": "https://s1.elespanol.com/2024/09/27/invertia/disruptores/ecosistema-startup/startups/889171146_249538720_1706x960.jpg?contentId=ESPIMA20240927_0072",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20240929/noruega-innovacion-busca-hueco-industrializacion-diseno-escandinavo/889161100_0.html",
+        "date": "2024-09-29 01:38:27",
+        "sentiment_score": 0.4184373542666435
+    },
+    {
+        "title": "Las 'telecos' llevan su guerra del fútbol al campo y se lanzan a patrocinar equipos: Digi con el Rayo y Lowi con el Getafe",
+        "image_url": "https://s1.elespanol.com/2024/09/27/invertia/empresas/tecnologia/889172291_249573865_1706x960.jpg?contentId=ESPIMA20240927_1217",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/tecnologia/20240929/telecos-llevan-guerra-futbol-campo-lanzan-patrocinar-equipos-digi-rayo-lowi-getafe/889161592_0.html",
+        "date": "2024-09-29 01:33:59",
+        "sentiment_score": 0.5172533821314573
+    },
+    {
+        "title": "José Andrés Miguel, de llevar las cuentas de la Casa Real a guardar los secretos de los Alba en su palacio de Salamanca",
+        "image_url": "https://s1.elespanol.com/2024/09/27/reportajes/889172132_249568920_1706x1280.jpg?contentId=ESPIMA20240927_1058",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240929/jose-andres-miguel-llevar-cuentas-casa-real-guardar-secretos-alba-palacio-salamanca/889161595_0.html",
+        "date": "2024-09-29 00:43:13",
+        "sentiment_score": -0.08738619834184647
+    },
+    {
+        "title": "David Otero: \"Necesitamos la violencia y la negatividad, en nuestra sociedad las hemos apartado y denostado\"",
+        "image_url": "https://s1.elespanol.com/2024/09/27/actualidad/889172128_249568715_1706x960.jpg?contentId=ESPIMA20240927_1054",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240929/david-otero-necesitamos-violencia-negatividad-sociedad-apartado-denostado/888911616_0.html",
+        "date": "2024-09-29 00:42:49",
+        "sentiment_score": -0.48667915165424347
+    },
+    {
+        "title": "La 'Reconciliación' de Juan Carlos con España y lo que no contará en su biografía: \"Por el bien de Felipe VI y Sofía, debe ser 'light'\"",
+        "image_url": "https://s1.elespanol.com/2024/09/27/reportajes/889172021_249565327_1706x960.jpg?contentId=ESPIMA20240927_0947",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20240929/reconciliacion-juan-carlos-espana-no-contara-biografia-bien-felipe-vi-sofia-debe-light/889161321_0.html",
+        "date": "2024-09-29 00:42:37",
+        "sentiment_score": -0.547412496060133
+    },
+    {
+        "title": "Nápoles vs Real Madrid: resultado del 3 de octubre, goles, resumen y próxima fecha",
+        "image_url": "https://www.infobae.com/resizer/v2/26TMRKNTAFBDJHUTOOH4547WTU.png?auth=6a78ca9c390a783b606e5cce630af504690550dfd8399d8525b0aa97b7df5ad3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/29/napoles-vs-real-madrid-resultado-del-3-de-octubre-goles-resumen-y-proxima-fecha/",
+        "date": "2024-09-29 00:20:18",
+        "sentiment_score": 0.3418225646018982
+    },
+    {
+        "title": "Unión Berlín vs Sporting Braga: resultado del 3 de octubre, goles, resumen y próxima fecha",
+        "image_url": "https://www.infobae.com/resizer/v2/26TMRKNTAFBDJHUTOOH4547WTU.png?auth=6a78ca9c390a783b606e5cce630af504690550dfd8399d8525b0aa97b7df5ad3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/29/union-berlin-vs-sporting-braga-resultado-del-3-de-octubre-goles-resumen-y-proxima-fecha/",
+        "date": "2024-09-29 00:19:45",
+        "sentiment_score": -0.22431090474128723
+    },
+    {
+        "title": "La final del Mundial de Clubes será el 13 de julio en Nueva Jersey",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/09/descarga-3-1-730x524.webp",
+        "tags": [
+            "fifa",
+            "fútbol",
+            "final del mundial de clubes",
+            "deportes"
+        ],
+        "link": "https://primicia.com.ve/deportes/la-final-del-mundial-de-clubes-sera-el-13-de-julio-en-nueva-jersey/",
+        "date": "2024-09-29 00:12:38",
+        "sentiment_score": 0.03498329222202301
+    },
+    {
+        "title": "\"Asturias es una de las regiones con menor venta de audífonos, quizá por las bajas rentas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a53bc41-34f6-425f-8c7a-4b538a05392b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/economia/2024/09/29/asturias-regiones-menor-venta-audifonos-108696339.html",
+        "date": "2024-09-29 02:10:00",
+        "sentiment_score": -0.2659030258655548
+    },
+    {
+        "title": "¿Qué es una arritmia cardiaca que retira del fútbol al Kun Agüero? Síntomas y tratamiento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c0274da0-10c0-405f-8312-c8b9b7dfe6c4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.epe.es/es/salud/20240929/arritmia-cardiaca-retira-futbol-kun-108698394",
+        "date": "2024-09-29 01:59:41",
+        "sentiment_score": 0.25593768060207367
+    },
+    {
+        "title": "Aquellos maravillosos años (mod) en León",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/28/66f8268b557d7.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/240929/1632243/maravillosos-anos-mod-leon.html",
+        "date": "2024-09-29 01:30:00",
+        "sentiment_score": 0.7751924954354763
+    },
+    {
+        "title": "Oporto vs FC Barcelona: resultado del 4 de octubre, goles, resumen y próxima fecha",
+        "image_url": "https://www.infobae.com/resizer/v2/26TMRKNTAFBDJHUTOOH4547WTU.png?auth=6a78ca9c390a783b606e5cce630af504690550dfd8399d8525b0aa97b7df5ad3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/29/oporto-vs-fc-barcelona-resultado-del-4-de-octubre-goles-resumen-y-proxima-fecha/",
+        "date": "2024-09-29 00:23:20",
+        "sentiment_score": 0.24278053641319275
+    },
+    {
+        "title": "Antwerp vs Shakhtar Donetsk: resultado del 4 de octubre, goles, resumen y próxima fecha",
+        "image_url": "https://www.infobae.com/resizer/v2/26TMRKNTAFBDJHUTOOH4547WTU.png?auth=6a78ca9c390a783b606e5cce630af504690550dfd8399d8525b0aa97b7df5ad3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/29/antwerp-vs-shakhtar-donetsk-resultado-del-4-de-octubre-goles-resumen-y-proxima-fecha/",
+        "date": "2024-09-29 00:22:14",
+        "sentiment_score": 0.14803221821784973
+    },
+    {
+        "title": "Oporto vs FC Barcelona por UEFA Champions League el 4 octubre en el Estádio Do Dragão: todos los detalles de la previa",
+        "image_url": "https://www.infobae.com/resizer/v2/26TMRKNTAFBDJHUTOOH4547WTU.png?auth=6a78ca9c390a783b606e5cce630af504690550dfd8399d8525b0aa97b7df5ad3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/29/oporto-vs-fc-barcelona-por-uefa-champions-league-el-4-octubre-en-el-estadio-do-dragao-todos-los-detalles-de-la-previa/",
+        "date": "2024-09-29 00:18:56",
+        "sentiment_score": 0.4508376494050026
     }
 ];
