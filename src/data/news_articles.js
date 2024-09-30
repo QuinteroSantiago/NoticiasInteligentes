@@ -146,84 +146,6 @@ export default [
         "sentiment_score": -0.5121725015342236
     },
     {
-        "title": "Iwao Hakamata, el condenado a muerte más antiguo del mundo, fue absuelto en Japón",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758254-condenadomuertejapon.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "japón"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/26/condenado-muerte-absuelto-japon-iwao-hakamata-trax/",
-        "date": "2024-09-26 14:07:37",
-        "sentiment_score": -0.7341889273375273
-    },
-    {
-        "title": "Meryl Streep: “Una ardilla tiene más derechos que una niña en Afganistán”",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/download-11.jpeg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "mujeres",
-            "afganistán",
-            "mundo",
-            "meryl streep"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/meryl-streep-ardilla-afganistan-mujeres-trax/",
-        "date": "2024-09-26 13:11:36",
-        "sentiment_score": -0.4334316626191139
-    },
-    {
-        "title": "86 millones de personas en 5 estados de EE.UU. están bajo alerta por huracán Helene",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173616056.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "huracán",
-            "atlanta",
-            "xpress",
-            "fast – news variety",
-            "noticias de ee.uu.",
-            "huracanes"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/huracan-helene-alerta-interior-eeuu-cafe-tv-fast/",
-        "date": "2024-09-26 13:04:21",
-        "sentiment_score": -0.8002867233008146
-    },
-    {
-        "title": "Poblados del norte de Israel reciben misiles enviados desde el Líbano",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173539862.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ataque israel hezbollah",
-            "fast – news variety",
-            "xpress",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/norte-israel-frontera-libano-hezbollah-sal-cafe-tv-fast/",
-        "date": "2024-09-26 12:53:50",
-        "sentiment_score": -0.5808693952858448
-    },
-    {
-        "title": "Así avanzan las evacuaciones mientras Florida se prepara para el huracán Helene",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/preparathumb-1.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress",
-            "florida",
-            "huracanes"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/huracan-helene-florida-huracan-ush-orix/",
-        "date": "2024-09-26 12:28:21",
-        "sentiment_score": -0.19978532195091248
-    },
-    {
-        "title": "¿Qué medidas tomaron los Gobiernos europeos para mitigar el impacto de la crisis energética?",
-        "image_url": "./assets/ai_generated/v1_txt2img_96c9dbee5ab44deb80a739ab76f95069.png",
-        "tags": [
-            "energía",
-            "argentina",
-            "unión europea",
-            "fast – general",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/gobiernos-europeos-crisis-energetica-argentina-primera-manana-fast/",
-        "date": "2024-09-26 11:50:33",
-        "sentiment_score": 0.21896521747112274
-    },
-    {
         "title": "El timo de Alvise",
         "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/provincia/2024/09/25/Clipboard--170x119.jpg",
         "tags": [
@@ -7459,5 +7381,428 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/pensamiento/20240930/hoja-de-ruta-para-no-ser-papanatas/889791016_13.html",
         "date": "2024-09-29 22:00:00",
         "sentiment_score": -0.29743485897779465
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Málaga?",
+        "image_url": "https://www.infobae.com/resizer/v2/AWHFVJOMLNA6LAV4PSINYA55GU.jpg?auth=292742783de84009220d653b4e0c18fb239709651a38c9c66937ca298e8ca5aa",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/30/cual-es-la-temperatura-promedio-en-malaga/",
+        "date": "2024-09-30 02:02:47",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Top de las mejores películas de Prime Video en España",
+        "image_url": "https://www.infobae.com/resizer/v2/6ICJK7MISNERTITYGGIE4UKSD4.jpg?auth=558df751312c74a32c7a636bc608666c0ba4c9f09164cb621846554308eea515",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/09/30/top-de-las-mejores-peliculas-de-prime-video-en-espana/",
+        "date": "2024-09-30 01:47:16",
+        "sentiment_score": 0.3203803524374962
+    },
+    {
+        "title": "Clima en Madrid: la previsión meteorológica para este 30 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/A2H63OKTQJDWRB3VVDX52OFLD4.jpg?auth=f53bf7ac1f4c5483e614e409076b8d5793fc725c53450d59231008a6fe265b00",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/30/clima-en-madrid-la-prevision-meteorologica-para-este-30-de-septiembre/",
+        "date": "2024-09-30 01:33:00",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Las mejores películas en Disney+ en España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/JUKDQNHERRHB5GNDVCA443OSSY.jpg?auth=06935b71da3ba5ba6ad9a07bd2018cc9c79c2b8228eb4af096e6522174e029c1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/30/las-mejores-peliculas-en-disney-en-espana-hoy/",
+        "date": "2024-09-30 01:31:58",
+        "sentiment_score": 0.5424835532903671
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Barcelona?",
+        "image_url": "https://www.infobae.com/resizer/v2/VHOPH2WEWVHC3F64ZHJMLYNPNU.jpg?auth=3016bef0a9be36e1c12658b82dffbf242346cfbc1f20d2d5abcbd802d86b2bcd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/30/cual-es-la-temperatura-promedio-en-barcelona/",
+        "date": "2024-09-30 01:01:00",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "YOARI, la artista que está arrasando en el top de la canción de K-pop más escuchada en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/YAXBXGAGTZE3NGLRXNNPWLPRSY.jpg?auth=aabeebd58530d8127ccf3ee9d08aa8124262fff315880caec811991acf734edd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/09/29/cual-es-la-cancion-de-k-pop-mas-famosa-en-itunes-espana-hoy/",
+        "date": "2024-09-29 23:38:30",
+        "sentiment_score": 0.575047679245472
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 30 de septiembre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_7b1c4231abf94fa6a23c2d78521ddce9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/hoy-sera-noticia-lunes-30-de-septiembre-de-2024/",
+        "date": "2024-09-29 22:17:46",
+        "sentiment_score": 0.031491219997406006
+    },
+    {
+        "title": "Greenpeace: España debe reducir millón de hectáreas de regadío para 2040 por falta de agua",
+        "image_url": "./assets/ai_generated/v1_txt2img_2f8016a20cec43b5afd79091454f5030.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/greenpeace-espana-debe-reducir-millon-de-hectareas-de-regadio-para-2040-por-falta-de-agua/",
+        "date": "2024-09-29 22:17:30",
+        "sentiment_score": -0.581574123352766
+    },
+    {
+        "title": "\"Trabajamos en Gaza sabiendo que en cualquier momento nos podían matar\", dice integrante de Médicos Sin Fronteras",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1715074100.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "médicos sin fronteras",
+            "medio oriente",
+            "israel hamas gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-gaza-medicos-sin-fronteras-redaccion-buenos-aires-tv/",
+        "date": "2024-09-30 01:49:57",
+        "sentiment_score": -0.867055082693696
+    },
+    {
+        "title": "La desolación que deja el paso de John en Acapulco, Guerrero",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/john-john-00-00-00-25-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "videos digitales",
+            "acapulco",
+            "huracán john",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/john-acapulco-inundacion-guerrero-huracan-orix/",
+        "date": "2024-09-30 01:38:19",
+        "sentiment_score": -0.8107623923569918
+    },
+    {
+        "title": "¿Puede el debate de candidatos a la vicepresidencia influir sobre la campaña en EE.UU.?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/vance-walz.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "tim walz",
+            "jd vance",
+            "noticias de ee.uu.",
+            "elecciones en ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/debate-vicepresidentes-eeuu-walz-vance-mirador-mundial-tv/",
+        "date": "2024-09-30 01:35:31",
+        "sentiment_score": -0.09929639101028442
+    },
+    {
+        "title": "Estos son los principales retos que debe enfrentar Claudia Sheinbaum en México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2155807489.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "toma de posesión claudia sheinbaum"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/retos-claudia-sheinbaum-toma-posicion-mirador-mundial-tv/",
+        "date": "2024-09-30 01:31:32",
+        "sentiment_score": -0.22115293890237808
+    },
+    {
+        "title": "Gobierno de México blinda el Congreso ante toma de posesión de Sheinbaum",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2155807428.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "claudia sheinbaum",
+            "presidencia méxico 2024",
+            "toma de posesión"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/seguridad-toma-de-protesta-claudia-sheinbaum-presidenta-mirador-mundial-tv/",
+        "date": "2024-09-30 01:27:03",
+        "sentiment_score": 0.22492271661758423
+    },
+    {
+        "title": "El paso del huracán Helene deja al menos 90 muertos en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173905556.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/helene-huracan-muertos-impacto-inundaciones-mirador-mundial-tv-ush/",
+        "date": "2024-09-30 01:12:32",
+        "sentiment_score": -0.8906458672136068
+    },
+    {
+        "title": "EE.UU. dice haber matado a 37 miembros de Al Qaeda e Isis en el último mes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1130744513-20240930005712248.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "terrorismo",
+            "al qaeda",
+            "fast – news variety",
+            "ee.uu.",
+            "medio oriente",
+            "estado islámico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estados-unidos-al-qaeda-isis-37-miembros-mirador-mundial-tv-fast/",
+        "date": "2024-09-30 01:06:10",
+        "sentiment_score": -0.543691597878933
+    },
+    {
+        "title": "El Líbano confirma múltiples muertos tras un ataque aéreo israelí",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174701443-20240930003629395.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-israel-libano-muertes-ataque-aereo-mirador-mundial-tv/",
+        "date": "2024-09-30 00:42:43",
+        "sentiment_score": -0.6544033717364073
+    },
+    {
+        "title": "Devastación y desconcierto en las calles del Líbano tras días de bombardeos israelíes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759694-ap24273269677266.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "líbano",
+            "medio oriente",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/29/devastacion-libano-hezbollah-bombardeos-israel-trax/",
+        "date": "2024-09-30 00:36:22",
+        "sentiment_score": -0.6777803227305412
+    },
+    {
+        "title": "“Están asustados, están perdidos”: descubre por qué los koalas están en riesgo en algunas ciudades australianas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-koala.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "australia",
+            "videos digitales",
+            "koala",
+            "animales",
+            "rescate de animales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/koalas-rescate-australia-apareamiento-trax/",
+        "date": "2024-09-29 23:49:12",
+        "sentiment_score": -0.917353080585599
+    },
+    {
+        "title": "España incumplirá la ley que sitúa la temporalidad del sector público en el 8%",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/30/1485963950-RYX4oA4bpftnVQrCw785K9N-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/espana-incumplira-ley-situa-temporalidad-sector-publico-20240930040832-nt.html",
+        "date": "2024-09-30 02:08:32",
+        "sentiment_score": -0.07617294788360596
+    },
+    {
+        "title": "Aprovechados del fango",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/09/26/hedor-granada-cordoba-sevilla-insoportable-koWD--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-aprovechados-fango-20240930195118-nt.html",
+        "date": "2024-09-29 23:00:29",
+        "sentiment_score": -0.5338577777147293
+    },
+    {
+        "title": "Un país vulnerable a las redes",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/09/26/suceso-luanco-gijon%20(3)-U190640258970d1H-U26775231720LGW-170x119@El%20Comercio-ElComercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-pais-vulnerable-redes-20240930193602-nt.html",
+        "date": "2024-09-29 22:59:44",
+        "sentiment_score": -0.13408996164798737
+    },
+    {
+        "title": "La dama de Hierro",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1104116",
+        "date": "2024-09-30 02:10:53",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Fracturas",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1104119",
+        "date": "2024-09-30 02:06:13",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, lunes 30 de septiembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/66dbadbd-3d43-426b-a7ce-d69037039c29_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/09/30/tiempo-alicante-alacant-prevision-meteorologica-108733748.html",
+        "date": "2024-09-30 02:02:17",
+        "sentiment_score": 0.39608416706323624
+    },
+    {
+        "title": "El ferrocarril frustrado de Málaga a Algeciras (I)",
+        "image_url": "https://static.grupojoly.com/clip/7ec7046f-f2c9-4c0f-ace1-874b266e75ce_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/campo-de-gibraltar/ferrocarril-frustrado-malaga-algeciras-i_0_2002429624.html",
+        "date": "2024-09-30 02:01:30",
+        "sentiment_score": -0.2719232738018036
+    },
+    {
+        "title": "La primera final del curso será en Butarque ante el Leganés",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/83f5c8ce-5321-4e6c-87e3-f7ac94a68987_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/30/primera-final-curso-sera-butarque-108729009.html",
+        "date": "2024-09-30 02:00:23",
+        "sentiment_score": -0.20496420562267303
+    },
+    {
+        "title": "Empate y con lluvia de objetos: así fue el derbi entre el Atlético y Real Madrid",
+        "image_url": "./assets/ai_generated/v1_txt2img_346d2343af514dacbfbebfc057052049.png",
+        "tags": [
+            "fútbol",
+            "la liga",
+            "deportes",
+            "atlético",
+            "real madrid"
+        ],
+        "link": "https://www.elnacional.com/deportes/empate-y-con-lluvia-de-objetos-asi-fue-el-juego-entre-el-atletico-y-real-madrid/",
+        "date": "2024-09-30 00:37:40",
+        "sentiment_score": 0.2056717872619629
+    },
+    {
+        "title": "Kris Kristofferson, icono de la música country y prolífico actor, muere a los 88 años",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a30e93a-befc-4a3f-ba4a-566a58419e4e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/cultura/2024/09/30/kris-kristofferson-icono-musica-country-108733365.html",
+        "date": "2024-09-30 00:35:16",
+        "sentiment_score": -0.3502289578318596
+    },
+    {
+        "title": "La conferencia de prensa más efervescente de Simeone tras los incidentes en el clásico de Madrid: el dardo a Courtois",
+        "image_url": "./assets/ai_generated/v1_txt2img_1e26392640964b0e96176b4f135835a0.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/09/30/la-conferencia-de-prensa-mas-efervescente-de-simeone-tras-los-incidentes-en-el-clasico-de-madrid-el-dardo-a-courtois/",
+        "date": "2024-09-30 00:24:16",
+        "sentiment_score": 0.059925541281700134
+    },
+    {
+        "title": "Este es el truco definitivo para aparcar en el centro de Madrid: cómo encontrar estacionamiento",
+        "image_url": "https://s1.elespanol.com/2024/08/13/madrid/capital/877922844_248456952_1706x960.png?contentId=ESPIMA20240813_0645",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20240930/truco-definitivo-aparcar-centro-madrid-encontrar-estacionamiento/877912614_0.html",
+        "date": "2024-09-30 00:01:12",
+        "sentiment_score": 0.309799462556839
+    },
+    {
+        "title": "Los regalos que Almeida recibe como alcalde: un 'barco qatarí', el guante de Topuria y una acuarela de 3.000 euros",
+        "image_url": "https://s1.elespanol.com/2024/09/19/madrid/capital/887172277_249346665_1706x960.jpg?contentId=ESPIMA20240919_1003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20240930/regalos-almeida-recibe-alcalde-barco-qatari-guante-topuria-acuarela-euros/887161644_0.html",
+        "date": "2024-09-30 00:00:28",
+        "sentiment_score": 0.012077346444129944
+    },
+    {
+        "title": "La Real retrata la debilidad del equipo de Rubén Baraja",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a5cdd7e-ed6f-4906-a98d-235b1f891f4f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/09/30/real-retrata-debilidad-equipo-ruben-108727628.html",
+        "date": "2024-09-30 02:00:22",
+        "sentiment_score": -0.7402741760015488
+    },
+    {
+        "title": "El virus del Nilo también llegaa los humedales valencianos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/69b41a99-f2e3-4120-a396-413cc78a077f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2024/09/30/virus-nilo-llegaa-humedales-valencianos-108723410.html",
+        "date": "2024-09-30 02:00:20",
+        "sentiment_score": -0.6478676088154316
+    },
+    {
+        "title": "Liga pierde con un colista, pero queda con Independiente del Valle y Orense en el liderato",
+        "image_url": "./assets/ai_generated/v1_txt2img_e455c0fe0baf43f4891c7a2247b68356.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/30/liga-pierde-con-un-colista-pero-queda-con-independiente-del-valle-y-orense-en-el-liderato/",
+        "date": "2024-09-30 01:45:39",
+        "sentiment_score": 0.5733544379472733
+    },
+    {
+        "title": "El Gobierno y el PSOE dan al fin por muerto el 'pacto de legislatura' con Puigdemont: \"Todo será votación a votación\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/2d26f27a1465f2fcc979f51abd99c7e7/crop/1x7/100x107/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528898789864.jpg",
+        "tags": [
+            "pedro sánchez",
+            "artículos raúl piña",
+            "psoe",
+            "artículos marta belver",
+            "junts per catalunya"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/09/30/66f934bce4d4d8cd578b4572.html",
+        "date": "2024-09-30 00:18:58",
+        "sentiment_score": -0.7699609752744436
+    },
+    {
+        "title": "Digital Realty espera tener operativo su centro de datos en Barcelona (BNC1) en poco más de un año",
+        "image_url": "https://s1.elespanol.com/2023/11/15/invertia/empresas/tecnologia/809929830_237628192_1706x960.jpg?contentId=ESPIMA20231115_0831",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20240930/digital-realty-espera-tener-operativo-centro-datos-barcelona-bnc1-ano/889661078_0.html",
+        "date": "2024-09-30 00:13:41",
+        "sentiment_score": 0.4672431219369173
+    },
+    {
+        "title": "El genial invento de 3 jóvenes españoles para guardar energía limpia y barata que ha conquistado a Dyson",
+        "image_url": "https://s1.elespanol.com/2024/09/24/omicrono/tecnologia/888421518_249450955_1706x960.jpg?contentId=ESPIMA20240924_0369",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20240930/genial-invento-jovenes-espanoles-guardar-energia-limpia-barata-conquistado-dyson/888161290_0.html",
+        "date": "2024-09-29 23:27:17",
+        "sentiment_score": 0.6716294605284929
+    },
+    {
+        "title": "El descanso intrascendente y los cambios de Ancelotti",
+        "image_url": "./assets/ai_generated/v1_txt2img_6a8c8e01fc3c450fb5da03d64e1f74e3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/29/el-descanso-intrascendente-y-los-cambios-de-ancelotti/",
+        "date": "2024-09-29 23:01:30",
+        "sentiment_score": -0.022906139492988586
+    },
+    {
+        "title": "Los dos escollos que ha sorteado el Barça con las obras del nuevo Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/29/culemania/palco/889671108_13514858_1706x960.jpg?contentId=ESPIMA20240929_0084",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20240930/los-escollos-sorteado-barca-obras-camp-nou/889161189_0.html",
+        "date": "2024-09-29 22:58:28",
+        "sentiment_score": 0.6723207924515009
     }
 ];
