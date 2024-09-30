@@ -1,298 +1,5 @@
 export default [
     {
-        "title": "La DGT actualiza los cursos de recuperación de puntos del carnet: nuevos contenidos y duración",
-        "image_url": "https://www.infobae.com/resizer/v2/BZZA63AJJ5ARVAGY2IMLAQLBLI.jpg?auth=c91ee57b643f989ee72e8d9cdfa4a52bfb13e30c76038a029ca7d8be3e4debd9",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/26/la-dgt-actualiza-los-cursos-de-recuperacion-de-puntos-del-carnet-nuevos-contenidos-y-duracion/",
-        "date": "2024-09-26 06:28:37",
-        "sentiment_score": 0.4297165311872959
-    },
-    {
-        "title": "Cuánto cuesta cambiar las pastillas de freno",
-        "image_url": "https://www.infobae.com/resizer/v2/A7XHM6USKFHHRJFKTFVY5SZ7TQ.jpg?auth=903b782c88ab0efedbd8fe2f63bd0f33399c38994fa9dae35da4d419beaa1354",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/26/cuanto-cuesta-cambiar-las-pastillas-de-freno/",
-        "date": "2024-09-26 06:25:42",
-        "sentiment_score": 0.14305589348077774
-    },
-    {
-        "title": "Estos dos productos son esenciales para limpiar tus gafas: olvídate de los rayones",
-        "image_url": "https://www.infobae.com/resizer/v2/7KGNLHA33VEEFDFDKR5EQFJ6NM.jpg?auth=91d3c5435944d5b944b585ae8fd63e8a3155822a38e1c768d43e20ce17901af4",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/26/estos-dos-productos-son-esenciales-para-limpiar-tus-gafas-olvidate-de-los-rayones/",
-        "date": "2024-09-26 06:24:45",
-        "sentiment_score": 0.05851849913597107
-    },
-    {
-        "title": "Improcedente el despido de un trabajador de Mercadona que se quejó de las condiciones laborales: “¿El mes que viene sacáis los látigos para golpearnos?”",
-        "image_url": "https://www.infobae.com/resizer/v2/JZW3I35YSFHOTOW2QBNFS2AKYI.jpg?auth=a9c459dfc803592cdda7d292ee509875260ed795e1b6d79e7f7a0255d60e7838",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/26/improcedente-el-despido-de-un-trabajador-de-mercadona-que-se-quejo-de-las-condiciones-laborales-el-mes-que-viene-sacais-los-latigos-para-golpear-mientras-trabajamos/",
-        "date": "2024-09-26 06:14:41",
-        "sentiment_score": -0.8622493520379066
-    },
-    {
-        "title": "Montero protagoniza el Pleno de hoy en el Congreso rindiendo cuentas sobre el concierto económico para Cataluña",
-        "image_url": "https://www.infobae.com/resizer/v2/4GKV5JSHIFBS3AQY3CSZALHBVE.jpg?auth=05e2ceb447ad16cdac82239468c5f4e7fe7277592f6518dbae1fdc927744d65c",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/26/montero-protagoniza-el-pleno-de-hoy-en-el-congreso-rindiendo-cuentas-sobre-el-concierto-economico-para-cataluna/",
-        "date": "2024-09-26 06:04:37",
-        "sentiment_score": 0.04474090784788132
-    },
-    {
-        "title": "El Congreso aprueba hoy el plan de la comisión sobre los atentados del 17A y comparecientes de la Operación Cataluña",
-        "image_url": "https://www.infobae.com/resizer/v2/3SKXETTYP5AQJAWTMC4NX7K6D4.jpg?auth=359ec97226db83a9bcba5726ae4ea378df3c673a2796b0d40cacf2f660f9dcb1",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/26/el-congreso-aprueba-hoy-el-plan-de-la-comision-sobre-los-atentados-del-17a-y-comparecientes-de-la-operacion-cataluna/",
-        "date": "2024-09-26 06:04:25",
-        "sentiment_score": -0.05562590807676315
-    },
-    {
-        "title": "El TJUE decide hoy sobre el recurso de Puigdemont contra el PE por negarle inicialmente el escaño",
-        "image_url": "https://www.infobae.com/resizer/v2/RNROEUB55VHLZIHE7X6PLMHRDU.jpg?auth=843c050c5eb0bdc8f7da6f88ca98ee53c56f9efc3244f721dd71ace36cadb990",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/26/el-tjue-decide-hoy-sobre-el-recurso-de-puigdemont-contra-el-pe-por-negarle-inicialmente-el-escano/",
-        "date": "2024-09-26 06:04:11",
-        "sentiment_score": -0.6844941899180412
-    },
-    {
-        "title": "China anuncia un paquete de ayuda monetaria para pobres antes de celebrar su Día Nacional",
-        "image_url": "./assets/ai_generated/v1_txt2img_4d6c21c5bedf4a9baeaa0e15eba5f593.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/26/china-anuncia-un-paquete-de-ayuda-monetaria-para-pobres-antes-de-celebrar-su-dia-nacional/",
-        "date": "2024-09-26 06:01:28",
-        "sentiment_score": 0.27741018682718277
-    },
-    {
-        "title": "Doce comunidades en alerta por viento, olas y lluvia de 120 litros en 12 horas en Galicia",
-        "image_url": "./assets/ai_generated/v1_txt2img_76b045dfe7474df1be0c7839b4cdb5d4.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/26/doce-comunidades-en-alerta-por-viento-olas-y-lluvia-de-120-litros-en-12-horas-en-galicia/",
-        "date": "2024-09-26 06:01:10",
-        "sentiment_score": -0.5690894052386284
-    },
-    {
-        "title": "Estas son las personas que no deberían comer tomates",
-        "image_url": "https://www.infobae.com/resizer/v2/2ILAENIWE5GRHMTMFTVP3EHHLM.jpg?auth=617964b3ef9c0d16445ee1bae5c66bca900ae48c63b42b2c01094afda3d9e09f",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/09/26/estas-son-las-personas-que-no-deberian-comer-tomates/",
-        "date": "2024-09-26 05:42:31",
-        "sentiment_score": -0.3507658466696739
-    },
-    {
-        "title": "Una pareja de pandas recibe una bienvenida VIP en Hong Kong, mientras Beijing conmemora los 75 años de la China comunista",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758169-pandas-portada.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "asia",
-            "china",
-            "hong kong",
-            "pandas"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/26/china-hongkong-panda-aniversario-trax/",
-        "date": "2024-09-26 05:21:02",
-        "sentiment_score": 0.2028912454843521
-    },
-    {
-        "title": "Ouigo lanza billetes a 9 euros a partir de hoy: destinos y cómo conseguirlos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/25/ouigo.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ouigo-lanza-billetes-euros-partir-hoy-destinos-20240926071500-nt.html",
-        "date": "2024-09-26 05:15:00",
-        "sentiment_score": 0.0022951364517211914
-    },
-    {
-        "title": "Vinicius, en blanco y negro",
-        "image_url": "./assets/ai_generated/v1_txt2img_3fdfbf61544b488ebd86f1eda6f62316.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/columnistas/2024/09/26/vinicius-blanco-negro-8733366.html",
-        "date": "2024-09-26 06:23:36",
-        "sentiment_score": -0.8386773187667131
-    },
-    {
-        "title": "Siete de siete para el Barcelona",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1bcfd892-ef20-4eb2-a0d1-2074c8b276a3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2024/09/26/siete-siete-barcelona-8733388.html",
-        "date": "2024-09-26 06:21:56",
-        "sentiment_score": 0.6653242185711861
-    },
-    {
-        "title": "Allá quien le compre la mandanga",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/37669232-0bd1-4c16-ba97-d985c88b9c6b_16-9-aspect-ratio_default_0_x1511y37.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2024/09/26/le-compre-mandanga-8733335.html",
-        "date": "2024-09-26 06:00:03",
-        "sentiment_score": -0.5670122429728508
-    },
-    {
-        "title": "Lo que no se vio del beso entre Juan Carlos y Bárbara Rey: las reacciones y una dura decisión",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/09/eva-cardenas-feijoo-entrevista-469x317.jpeg",
-        "tags": [
-            "polémicas",
-            "gente",
-            "casa real española",
-            "bárbara rey",
-            "juan carlos i",
-            "celebrities"
-        ],
-        "link": "https://theobjective.com/gente/2024-09-26/beso-juan-carlos-barbara-rey/",
-        "date": "2024-09-26 06:00:00",
-        "sentiment_score": 0.8652398437261581
-    },
-    {
-        "title": "La borrasca Aitor deja este jueves lluvias generalizadas y vientos fuertes en toda la Península",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/9ad45801601814fb714e247ef158dd58/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/26/17273294242114.jpg",
-        "tags": [
-            "aemet",
-            "cataluña",
-            "canarias",
-            "galicia",
-            "asturias",
-            "tiempo atmosférico",
-            "cantabria",
-            "vizcaya",
-            "madrid",
-            "ciudad real",
-            "guadalajara",
-            "león",
-            "baleares",
-            "toledo",
-            "murcia",
-            "lleida"
-        ],
-        "link": "https://www.elmundo.es/espana/2024/09/26/66f4f3e5fdddffdf028b4594.html",
-        "date": "2024-09-26 05:44:22",
-        "sentiment_score": -0.2955658286809921
-    },
-    {
-        "title": "¿A qué sabe el salmón vizcaíno?",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/09/21/ana21.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/jantour/sabores-perdidos-salmon-vizcaino-20240921073631-nt.html",
-        "date": "2024-09-26 05:36:31",
-        "sentiment_score": -0.6292291227728128
-    },
-    {
-        "title": "‘La Revuelta’ y El Hormiguero’ mantienen cifras similares con Danna y Los Morancos",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/26/66f4f6f97081a.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.lavanguardia.com/television/20240926/9972388/revuelta-hormiguero-mantienen-cifras-similares-visitas-danna-paola-morancos.html",
-        "date": "2024-09-26 06:28:28",
-        "sentiment_score": 0.04439830780029297
-    },
-    {
-        "title": "Esta es la expresión que todo el mundo utiliza en Barcelona y que no entienden en el resto de España",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/08/05/el-pulso-de-la-ciudad/693190677_9215155_1706x960.jpg?contentId=ESPIMA20220805_0003",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20240926/esta-es-la-expresion-que-todo-el-mundo-utiliza-en-barcelona-no-entienden-resto-de-espana/888911110_0.html",
-        "date": "2024-09-26 06:27:36",
-        "sentiment_score": 0.03681424260139465
-    },
-    {
-        "title": "BBVA pagará en octubre el mayor dividendo a cuenta de su historia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d05e9199-3357-4556-8f55-3236a409487b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/economia/2024/09/26/bbva-octubre-mayor-dividendo-historia-108590305.html",
-        "date": "2024-09-26 06:21:59",
-        "sentiment_score": 0.2064121663570404
-    },
-    {
-        "title": "Fresno de la Vega celebra su tradicional Feria del Pimiento",
-        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2024/09/25/pimientos-k9rD-U2201082937084DIB-1200x840Leonoticias-RScpPgvrhnBqVdcrrDQov9L-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/promocionales/fresno-vega-celebra-tradicional-feria-pimiento-20240926081910-nt.html",
-        "date": "2024-09-26 06:19:10",
-        "sentiment_score": 0.7982157459482551
-    },
-    {
-        "title": "El casco antiguo reclama un eje verde para bicicletas en la avenida del Castillo",
-        "image_url": "https://s3.ppllstatics.com/elbierzonoticias/www/multimedia/2024/09/24/avenidacastillo20-k7iE-U2201319550362x0-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elbierzonoticias.com/ponferrada/casco-antiguo-reclama-eje-verde-bicicletas-avenida-20240926081656-nt.html",
-        "date": "2024-09-26 06:16:56",
-        "sentiment_score": 0.3739008568227291
-    },
-    {
-        "title": "Así es el pueblo en el que Rosalía se ha criado: con solo 7.000 habitantes, es de los más ricos de Cataluña",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/09/25/rosalia-durante-el-primavera-sound.r_d.1490-806-4789.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/noticia/5637318/0/asi-es-pequeno-pueblo-nacio-rosalia-barcelona/",
-        "date": "2024-09-26 06:16:36",
-        "sentiment_score": -0.01529344916343689
-    },
-    {
-        "title": "Pendones, Xoel López, Coque Malla o Feria del Pimiento este fin de semana en León",
-        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2024/09/26/GIF26-29.gif",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/planes/pendones-xoel-lopez-coque-malla-feria-pimiento-20240926081500-nt.html",
-        "date": "2024-09-26 06:15:01",
-        "sentiment_score": 0.6902328496798873
-    },
-    {
-        "title": "La envasadora al vacío más vendida de Amazon cuesta menos de 30€",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/09/25/5%20envasadora-R5mskhZWoMXDWbxhFqC2CwI-1200x840@RC.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/de-tiendas/ofertas/envasadora-vacio-vendida-amazon-cuesta-30e-20240925103314-ntrc.html",
-        "date": "2024-09-26 06:12:57",
-        "sentiment_score": -0.3559773489832878
-    },
-    {
-        "title": "«Volví a ser feliz cuando asumí que había fútbol más allá de Primera»",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2024/09/25/pibe-koRG-U2201337532949O6D-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/deportes/cultural/volvi-feliz-asumi-futbol-alla-primera-20240926081249-nt.html",
-        "date": "2024-09-26 06:12:49",
-        "sentiment_score": 0.5778754875063896
-    },
-    {
         "title": "Sordo teme que la mesa de negociación con Gobierno y patronal esté a punto de bloquearse",
         "image_url": "./assets/ai_generated/v1_txt2img_6e0433e73879445da24dd5c4538784fe.png",
         "tags": [
@@ -7259,5 +6966,498 @@ export default [
         "link": "https://www.elperiodico.com/es/sociedad/20240929/venta-billetes-avant-expres-tortosa-barcelona-martes-1-octubre-108719802",
         "date": "2024-09-29 16:34:04",
         "sentiment_score": 0.17589197307825089
+    },
+    {
+        "title": "Convocadas concentraciones en RTVE por la \"suspensión\" de las oposiciones a informador",
+        "image_url": "./assets/ai_generated/v1_txt2img_a90727dd1f2a43d8992a6b689e2d15cc.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/convocadas-concentraciones-en-rtve-por-la-suspension-de-las-oposiciones-a-informador/",
+        "date": "2024-09-29 21:47:04",
+        "sentiment_score": -0.05630864202976227
+    },
+    {
+        "title": "Pedro Fernando Mateos da la sorpresa en el GP Liga Oro del concurso 5 estrellas de Sevilla",
+        "image_url": "./assets/ai_generated/v1_txt2img_53c4398764604806ad389bdc252ee017.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/pedro-fernando-mateos-da-la-sorpresa-en-el-gp-liga-oro-del-concurso-5-estrellas-de-sevilla/",
+        "date": "2024-09-29 21:46:37",
+        "sentiment_score": 0.7516010403633118
+    },
+    {
+        "title": "Correa salva al Atletico de Madrid y consigue sacar un empate ‘in extremis’ ante el Real Madrid para enganchar a su equipo a la lucha por el título",
+        "image_url": "https://www.infobae.com/resizer/v2/W323P6ZU7ZHSFLHG3U3YOPDYZ4.jpg?auth=bbf50849f4ed7272db57acad2fd3d99d39a54d280b1417735bf33f21e9cc74d4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/09/29/correa-salva-al-atletico-de-madrid-y-consigue-sacar-un-empate-in-extremis-ante-el-real-madrid-para-engarchar-a-su-equipo-a-la-lucha-por-el-titulo/",
+        "date": "2024-09-29 21:20:01",
+        "sentiment_score": 0.10840170085430145
+    },
+    {
+        "title": "Se reanuda el encuentro tras diez minutos suspendido",
+        "image_url": "./assets/ai_generated/v1_txt2img_a72c3301fb66458ea7f9152c0b77feed.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/se-reanuda-el-encuentro-tras-diez-minutos-suspendido/",
+        "date": "2024-09-29 21:16:34",
+        "sentiment_score": -0.7810942009091377
+    },
+    {
+        "title": "Tensión en el Metropolitano: el árbitro suspende el partido 15 minutos después de que la grada del Atlético de Madrid lanzara objetos a la portería del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/YU2BP24BUS4IWXHJMRYTLLA774.jpg?auth=fe8d7949e8d324f60757ea74e0221a8b2037be94ebfa3674cd1f3382caa20d1c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/09/29/tension-en-el-metropolitano-el-arbitro-suspende-el-encuentro-durante-15-minutos-despues-de-que-la-grada-rojiblanca-lanzara-objetos-a-la-porteria-de-courtois/",
+        "date": "2024-09-29 21:04:00",
+        "sentiment_score": -0.3151042275130749
+    },
+    {
+        "title": "La tortilla de patatas del restaurante 'O Cabo' de A Coruña, la mejor de España",
+        "image_url": "./assets/ai_generated/v1_txt2img_459a76e1888b4c8d8e61070dabb4a826.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/la-tortilla-de-patatas-del-restaurante-o-cabo-de-a-coruna-la-mejor-de-espana/",
+        "date": "2024-09-29 20:45:57",
+        "sentiment_score": 0.7357758022844791
+    },
+    {
+        "title": "Abascal celebra la victoria del Partido de la Libertad (FPÖ) en Austria",
+        "image_url": "https://www.infobae.com/resizer/v2/DGWTEJZI3JACBERTXQVBCLXZTQ.jpg?auth=8f80b0d9f34c79af70b8c11d95aa1be648dbc214d14f80335052c59f7077cacb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/abascal-celebra-la-victoria-del-partido-de-la-libertad-fpo-en-austria/",
+        "date": "2024-09-29 20:34:23",
+        "sentiment_score": 0.4477461576461792
+    },
+    {
+        "title": "Jesús Navas agradece el \"cariño\" de San Mamés en su despedida de 'La Catedral'",
+        "image_url": "./assets/ai_generated/v1_txt2img_ca68b2eec3274fb0b725feb4fac4fc07.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/jesus-navas-agradece-el-carino-de-san-mames-en-su-despedida-de-la-catedral/",
+        "date": "2024-09-29 20:31:21",
+        "sentiment_score": 0.2692463845014572
+    },
+    {
+        "title": "Los toros de Matilla emborronan el duelo sevillano en la despedida de Hermoso de Mendoza",
+        "image_url": "./assets/ai_generated/v1_txt2img_ba30846405dc40bdbe9fc0c07ac74766.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/los-toros-de-matilla-emborronan-el-duelo-sevillano-en-la-despedida-de-hermoso-de-mendoza/",
+        "date": "2024-09-29 20:31:15",
+        "sentiment_score": -0.5590152069926262
+    },
+    {
+        "title": "3-1. El Córdoba se hace fuerte en El Arcángel",
+        "image_url": "./assets/ai_generated/v1_txt2img_ee210e3cd5184530bacb295dc7df1435.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/09/29/3-1-el-cordoba-se-hace-fuerte-en-el-arcangel/",
+        "date": "2024-09-29 20:02:44",
+        "sentiment_score": -0.0397864431142807
+    },
+    {
+        "title": "Esta es la situación de los civiles en Beirut tras ataques de Israel",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/libano-00-00-42-01-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/civiles-beirut-israel-ataques-exodo-trax/",
+        "date": "2024-09-29 21:55:10",
+        "sentiment_score": -0.6794482991099358
+    },
+    {
+        "title": "Incendio en una planta química de Georgia causa evacuaciones y cierres de carreteras",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759638-still-20999740-732145-3330000001-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "incendios",
+            "atlanta"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/29/incendio-planta-quimica-georgia-trax/",
+        "date": "2024-09-29 21:29:14",
+        "sentiment_score": -0.8357852594926953
+    },
+    {
+        "title": "SpaceX informó sobre una anomalía en la nave de Crew-9 mientras sus astronautas se dirigen a la estación espacial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759602-screen-shot-2024-09-28-at-13-32-27-2-copy.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "crew dragon",
+            "ciencia y espacio",
+            "spacex"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/29/astronautas-crew9-spacex-estacion-espacial-trax/",
+        "date": "2024-09-29 20:59:04",
+        "sentiment_score": -0.029600128531455994
+    },
+    {
+        "title": "CNN verifica: Para atacar a Harris, Trump describe falsamente nuevas estadísticas sobre inmigrantes y homicidios",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759557-abc-news-hosts-presidential-debate-between-donald-trump-and-vp-kamala-harris-at-the-national-constitution-center-in-philadelphia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "kamala harris",
+            "noticias de ee.uu.",
+            "instanoticias",
+            "migrantes",
+            "elecciones estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/29/cnn-verifica-trump-falsamente-estadisticas-inmigrantes-homicidios-harris-trax/",
+        "date": "2024-09-29 20:07:47",
+        "sentiment_score": -0.8072793558239937
+    },
+    {
+        "title": "¿Afectará la crisis energética y los incendios el crecimiento del PIB en Ecuador?",
+        "image_url": "./assets/ai_generated/v1_txt2img_bc95ac9cfddc48b8be259edc4b27e38f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-economia-crisis-energia-apagones-incendios-pbi-cnn-dinero-tv/",
+        "date": "2024-09-29 18:12:43",
+        "sentiment_score": -0.5337563306093216
+    },
+    {
+        "title": "Las redes sociales: el otro debate entre Harris y Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2171266117-20240929173857993.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "campaña presidencial",
+            "noticias de ee.uu.",
+            "kamala harris",
+            "tiktok",
+            "ee.uu.",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-socialmedia-votos-presidente-harris-trump-cnn-dinero-tv/",
+        "date": "2024-09-29 17:48:15",
+        "sentiment_score": 0.025918856263160706
+    },
+    {
+        "title": "Helene deja en EE.UU. más de 60 muertos, graves inundaciones y cortes de luz",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759558-helene-29.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracanes",
+            "carolina del norte",
+            "huracán helene",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/09/29/helene-deja-muertos-inundaciones-cortes-luz-trax/",
+        "date": "2024-09-29 17:38:07",
+        "sentiment_score": -0.9282459169626236
+    },
+    {
+        "title": "El papa Francisco pide un alto el fuego en los conflictos de Medio Oriente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2174664094.jpg?quality=100&strip=info",
+        "tags": [
+            "hamas",
+            "papa francisco",
+            "medio oriente",
+            "conflicto israel y palestina",
+            "líbano",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francisco-alto-fuego-gaza-libano-mirador-tv/",
+        "date": "2024-09-29 17:36:55",
+        "sentiment_score": -0.2756568342447281
+    },
+    {
+        "title": "Los caciques de Rufián",
+        "image_url": "https://s2.ppllstatics.com/burgosconecta/www/multimedia/2024/09/25/isar-kfXD--170x119@Burgosconecta.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-caciques-rufian-20240930225426-nts.html",
+        "date": "2024-09-29 20:54:46",
+        "sentiment_score": -0.06757339835166931
+    },
+    {
+        "title": "La presidenta mexicana, ¿analfabeta o tramposa?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/09/30/tribuna-mexico-RWovnvvsriG71cH4ytymf6O-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/inocencio-arias-presidenta-mexicana-analfabeta-tramposa-20240930225302-nts.html",
+        "date": "2024-09-29 20:53:02",
+        "sentiment_score": -0.16913598775863647
+    },
+    {
+        "title": "¡Qúe escándalo, aquí se juega!",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/09/26/suceso-luanco-gijon%20(3)-U190640258970d1H-U26775231720LGW-170x119@El%20Comercio-ElComercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-escandalo-juega-20240930225148-nts.html",
+        "date": "2024-09-29 20:51:48",
+        "sentiment_score": -0.17280928790569305
+    },
+    {
+        "title": "El cielo",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/09/27/encierro-kWyD--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-cielo-20240930225147-nts.html",
+        "date": "2024-09-29 20:51:48",
+        "sentiment_score": 0.02157008647918701
+    },
+    {
+        "title": "Los tres monos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/09/30/ENFOQUEABC_Lostresmonos_SORMAN-RuiydnOkGC8Ly8jSHh8eoLL-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-tres-monos-20240930194412-nt.html",
+        "date": "2024-09-29 17:47:11",
+        "sentiment_score": -0.22966600954532623
+    },
+    {
+        "title": "Austria: malas noticas para el proyecto europeo",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/09/26/calendario-k5EC--170x119@Diario%20Sur.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-austria-malas-noticas-proyecto-europeo-20240930194626-nt.html",
+        "date": "2024-09-29 17:46:37",
+        "sentiment_score": -0.5910464152693748
+    },
+    {
+        "title": "El estanque",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/09/26/calendario-k5EC--170x119@Diario%20Sur.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-estanque-20240930194602-nt.html",
+        "date": "2024-09-29 17:46:09",
+        "sentiment_score": -0.06941881775856018
+    },
+    {
+        "title": "Bautizar el cupo catalán",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/09/25/194785715--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-bautizar-cupo-catalan-20240930194542-nt.html",
+        "date": "2024-09-29 17:45:49",
+        "sentiment_score": -0.13146793842315674
+    },
+    {
+        "title": "En algún lugar de Marte",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/provincia/2024/09/25/bosque-letras-U36466146247sRU-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-lugar-marte-20240930193342-nt.html",
+        "date": "2024-09-29 17:45:29",
+        "sentiment_score": 0.015323877334594727
+    },
+    {
+        "title": "Baratijas y caramelos",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/09/25/194785715--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-baratijas-caramelos-20240930165935-nt.html",
+        "date": "2024-09-29 17:45:12",
+        "sentiment_score": -0.10563361644744873
+    },
+    {
+        "title": "La mejor tortilla de patatas de España se come en el restaurante O Cabo, en A Coruña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/X57MU4V3ZNCYVEDWFLGRMI2BQQ.jpeg?auth=c48a090a092cbcbf0a0e9bac63e479d0407d562bfd5e9fbf97e73712180ed90d&width=1200",
+        "tags": [
+            "madrid",
+            "aceite",
+            "patatas fritas",
+            "alicante",
+            "concursos gastronómicos",
+            "sartenes",
+            "aceite oliva",
+            "restaurantes",
+            "cocineros",
+            "a coruña",
+            "tortilla de patatas",
+            "cocineras",
+            "ferrol",
+            "patatas",
+            "huevos",
+            "alberto núñez feijóo",
+            "freidoras"
+        ],
+        "link": "https://elpais.com/gastronomia/2024-09-29/la-mejor-tortilla-de-patatas-de-espana-se-come-en-el-restaurante-o-cabo-en-a-coruna.html",
+        "date": "2024-09-29 21:55:00",
+        "sentiment_score": 0.082548126578331
+    },
+    {
+        "title": "Muere una mujer corneada por un toro en un festejo en la población valenciana de Enguera",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RDFVOD52MVFOFK56RBG3AMM5UM.jpg?auth=1c95b290657044678f14cdab521011a18c5b5dce003cadc2a38d368e6d4f86ed&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "fiestas",
+            "muertes",
+            "enguera",
+            "toros"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-29/muere-una-mujer-corneada-por-un-toro-en-un-festejo-en-la-poblacion-valenciana-de-enguera.html",
+        "date": "2024-09-29 19:56:51",
+        "sentiment_score": -0.7601785957813263
+    },
+    {
+        "title": "Koke: \"No puede pasar esto; también como jugadores tenemos que ser más inteligentes\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_c8a667b66ffb4e2d8cfbf7b43cab214e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/29/koke-no-puede-pasar-esto-tambien-como-jugadores-tenemos-que-ser-mas-inteligentes/",
+        "date": "2024-09-29 22:16:46",
+        "sentiment_score": -0.15058502554893494
+    },
+    {
+        "title": "Ancelotti: «Ha sido una actuación correcta del árbitro»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/09/29/ancelotti-declaraciones-k4LI-U22013724964633UB-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/deportes/futbol/liga-primera/ancelotti-actuacion-correcta-arbitro-20240929000233-ntrc.html",
+        "date": "2024-09-29 22:04:59",
+        "sentiment_score": 0.824641264975071
+    },
+    {
+        "title": "10 datos de la jornada 8",
+        "image_url": "./assets/ai_generated/v1_txt2img_b31b6a89bdc34b1b894c48c8af2b0c0c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/09/29/10-datos-de-la-jornada-8/",
+        "date": "2024-09-29 22:00:21",
+        "sentiment_score": 0.5901255868375301
+    },
+    {
+        "title": "Barcelona y Cataluña se desperezan esperanzadas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/25/pensamiento/zona-franca/880921944_13378501_1706x960.png?contentId=ESPIMA20240825_0045",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20240930/barcelona-cataluna-se-desperezan-esperanzadas/889791017_13.html",
+        "date": "2024-09-29 22:00:00",
+        "sentiment_score": -0.3816140294075012
+    },
+    {
+        "title": "El derbi de la vergüenza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/55LT4RA2QRGTFEIHA4B5ZJL7A4.jpg?auth=e7e0281a51ebd88bf053930dc82d29c64ba2c0e131fad8aea5628e36aea99fdb&width=1200",
+        "tags": [
+            "carlo ancelotti",
+            "atlético madrid",
+            "real madrid",
+            "deportes",
+            "competiciones",
+            "vinícius júnior",
+            "simeone",
+            "entrenadores",
+            "fútbol",
+            "laliga ea sports",
+            "futbolistas"
+        ],
+        "link": "https://elpais.com/deportes/futbol/2024-09-29/el-derbi-de-la-verguenza.html",
+        "date": "2024-09-29 21:58:47",
+        "sentiment_score": -0.2388746291399002
+    },
+    {
+        "title": "Resumen, goles y highlights del Atlético de Madrid 1 - 1 Real Madrid de la jornada 8 de LaLiga EA Sports",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c6c6c7ff-5ea9-4d5c-a1ad-8eb84f1d1dbb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondezamora.es/videos/deportes/2024/09/29/resumen-goles-highlights-atletico-madrid-108731808.html",
+        "date": "2024-09-29 21:53:09",
+        "sentiment_score": -0.49037738889455795
+    },
+    {
+        "title": "El penúltimo portazo de Colau",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/30/66f9d192bbdce.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240930/9982292/penultimo-portazo-colau.html",
+        "date": "2024-09-29 22:15:46",
+        "sentiment_score": 0.14010845124721527
+    },
+    {
+        "title": "Tecnología y entretenimiento a favor del talento",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/30/66f9d183c9fce.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20240930/9982291/tecnologia-entretenimiento-favor-talento.html",
+        "date": "2024-09-29 22:15:43",
+        "sentiment_score": 0.4599541425704956
+    },
+    {
+        "title": "La inseguridad es la principal preocupación de los barceloneses",
+        "image_url": "https://album.mediaset.es/eimg/2024/09/27/la-percepcion-de-inseguridad-se-consolida-como-la-gran-preocupacion-de-los-barceloneses_d1a1.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20240929/inseguridad-preocupacion-barceloneses-maximo-historico_18_013562865.html",
+        "date": "2024-09-29 22:01:31",
+        "sentiment_score": 0.6966723725199699
+    },
+    {
+        "title": "Solo un verdadero experto reconoce todos estos equipos random de la Champions por su escudo",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2024-09/24/16/campaign_images/e38a7d9d8a11/solo-un-verdadero-experto-reconoce-todos-estos-eq-3-5675-1727194918-0_dblbig.jpg",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/amaurysalyano/quizz-que-tanto-sabes-de-la-champions-league",
+        "date": "2024-09-29 22:01:03",
+        "sentiment_score": 0.12038455903530121
+    },
+    {
+        "title": "Audax, la empresa de José Elías, ascendió a la directiva responsable del presunto fraude de Montenegro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/28/business/889421075_13510872_1706x960.png?contentId=ESPIMA20240928_0026",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20240929/audax-la-de-jose-elias-responsable-montenegro/889411086_0.html",
+        "date": "2024-09-29 22:00:00",
+        "sentiment_score": -0.5134052783250809
+    },
+    {
+        "title": "José Elías",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/02/06/culemania/palco/palco_9009931_2196601_1706x960.jpg?contentId=ESPIMA20150206_0832",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20240930/jose-elias/889661090_0.html",
+        "date": "2024-09-29 22:00:00",
+        "sentiment_score": -0.12424167990684509
+    },
+    {
+        "title": "Más furgonetas de rayos X y escáneres portátiles para detectar inmigrantes ilegales",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/27/2024092712140425712.jpg",
+        "tags": [
+            "seguridad"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/seguridad/mas-furgonetas-rayos-x-escaneres-portatiles-detectar-inmigrantes-ilegales/20240930000000849199.html",
+        "date": "2024-09-29 22:00:00",
+        "sentiment_score": -0.6981514133512974
+    },
+    {
+        "title": "Hoja de ruta para no ser papanatas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/10/empresas/793430865_8691194_1706x960.jpg?contentId=ESPIMA20230910_0216",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20240930/hoja-de-ruta-para-no-ser-papanatas/889791016_13.html",
+        "date": "2024-09-29 22:00:00",
+        "sentiment_score": -0.29743485897779465
     }
 ];
