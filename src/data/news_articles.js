@@ -111,65 +111,6 @@ export default [
         "sentiment_score": -0.8997244676575065
     },
     {
-        "title": "ANÁLISIS | Hezbollah evalúa su respuesta tras la muerte de su líder, pero los próximos pasos de Israel son los más importantes",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759291-ataque-al-libano1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "hezbollah",
-            "israel noticias",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/28/analisis-hezbollah-evalua-respuesta-proximos-pasos-israel-trax/",
-        "date": "2024-09-28 14:14:50",
-        "sentiment_score": -0.21750830113887787
-    },
-    {
-        "title": "Así fue la vida y ascenso al poder de Hassan Nasrallah, el líder de Hezbollah asesinado por Israel",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/johnny-sparrow-00-04-07-09-still001.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "hezbollah",
-            "videos digitales",
-            "conflicto israel y palestina",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hassan-nasrallah-vida-ascenso-hezbollah-muerte-israel-trax/",
-        "date": "2024-09-28 13:50:30",
-        "sentiment_score": -0.09770530462265015
-    },
-    {
-        "title": "El vicegobernador de Carolina del Norte, Mark Robinson, hospitalizado con quemaduras de segundo grado tras incidente en evento de campaña",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759272-mark-robinson.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/28/mark-robinson-hospitalizado-quemaduras-incidente-campana-trax/",
-        "date": "2024-09-28 12:45:53",
-        "sentiment_score": -0.7894144589081407
-    },
-    {
-        "title": "Estos son las figuras más cercanas a Nicolás Maduro. Radiografía a los dos meses de las elecciones del 28 de julio",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759084-maduro-padrino-cabello.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "instanoticias",
-            "venezuela",
-            "nicolás maduro"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/28/hombres-mas-cercanos-nicolas-maduro-venezuela-orix/",
-        "date": "2024-09-28 12:11:21",
-        "sentiment_score": -0.21561533212661743
-    },
-    {
-        "title": "¿Quién es Hassan Nasrallah, el líder de Hezbollah que Israel afirma haber matado en un ataque aéreo en Beirut, Líbano?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759245-f430b196-6318-4560-9d25-1fe9bf6c7f79.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "líbano",
-            "hezbollah",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/28/quien-es-hassan-nasrallah-el-lider-de-hezbollah-beirut-libano-trax/",
-        "date": "2024-09-28 10:36:38",
-        "sentiment_score": -0.732097364962101
-    },
-    {
         "title": "Israel apunta a Irán tras descabezar a Hizbolá con el asesinato de Nasralá",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/09/28/beirutt-RreEzeWHAiGRn7XlEKhyiKJ-1200x840@diario_abc.jpg",
         "tags": [
@@ -290,51 +231,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-09-28/un-brote-de-salmonelosis-afecta-a-17-personas-de-dos-hospitales-de-figueres.html",
         "date": "2024-09-28 14:55:42",
         "sentiment_score": -0.19866709038615227
-    },
-    {
-        "title": "Suspendidas las pruebas de oposición a la Guardia Civil de este domingo por un error en las cajas que contenían los exámenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OYJODG72F54LGGSQAAKTJHD4FY.jpg?auth=a1fae42ce879f31741d561fead38526077d5cc26df4ee8f61c6fa1735c3878ef&width=1200",
-        "tags": [
-            "oposiciones",
-            "exámenes",
-            "españa",
-            "suspensión eventos",
-            "pruebas evaluación",
-            "guardia civil"
-        ],
-        "link": "https://elpais.com/espana/2024-09-28/suspendidas-las-pruebas-de-oposicion-a-la-guardia-civil-de-este-domingo-por-un-error-en-las-cajas-que-contenian-los-examenes.html",
-        "date": "2024-09-28 13:51:44",
-        "sentiment_score": -0.587625565007329
-    },
-    {
-        "title": "Sumar celebrará el 14 y 15 de diciembre la asamblea que decidirá la hoja de ruta del partido tras la renuncia de Díaz",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IWHLZISG5NHWLHBJP6QQCG45EM.jpg?auth=41ca6b03144569c66b76e6b4a0debd956cc3f98ee61dd5fc3993f40179d01bb3",
-        "tags": [
-            "españa",
-            "yolanda díaz",
-            "partidos políticos",
-            "pce",
-            "sumar",
-            "izquierda unida",
-            "antonio maíllo cañadas"
-        ],
-        "link": "https://elpais.com/espana/2024-09-28/sumar-celebrara-el-14-y-15-de-diciembre-la-asamblea-que-decidira-la-hoja-de-ruta-del-partido-tras-la-renuncia-de-diaz.html",
-        "date": "2024-09-28 13:10:26",
-        "sentiment_score": -0.16937442868947983
-    },
-    {
-        "title": "El CGPJ sitúa en un tribunal para seleccionar jueces especialistas al magistrado que llamó “psicópata” a Sánchez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BT7W7XMXPVB4LESW2GWPQFRASU.jpg?auth=212056bc9c8771b72e7528ecd8bd0811eb95b8bc340466f9952416dfe57702af",
-        "tags": [
-            "españa",
-            "pedro sánchez",
-            "asociación profesional magistratura",
-            "cgpj",
-            "jueces"
-        ],
-        "link": "https://elpais.com/espana/2024-09-28/el-cgpj-situa-en-un-tribunal-para-seleccionar-jueces-especialistas-al-magistrado-que-llamo-psicopata-a-sanchez.html",
-        "date": "2024-09-28 13:01:25",
-        "sentiment_score": -0.5145211331546307
     },
     {
         "title": "Matilde, la hija influencer de José Mourinho, se casará con un consultor inmobiliario",
@@ -7383,5 +7279,425 @@ export default [
         "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-marc-andre-ter-stegen-contamos-todo-familia/20241002000000850598.html",
         "date": "2024-10-01 22:00:00",
         "sentiment_score": -0.7715965434908867
+    },
+    {
+        "title": "Los reyes mantienen \"hoy por hoy\" su viaje oficial a Jordania",
+        "image_url": "./assets/ai_generated/v1_txt2img_8b2ff8b811b943b3a405a2068e584131.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/los-reyes-mantienen-hoy-por-hoy-su-viaje-oficial-a-jordania/",
+        "date": "2024-10-02 02:01:06",
+        "sentiment_score": -0.36580510437488556
+    },
+    {
+        "title": "La huelga portuaria en EE.UU. puede impactar cadena logística global y al Canal de Panamá",
+        "image_url": "./assets/ai_generated/v1_txt2img_89644d2ce1714c08b47aa0904748625b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/la-huelga-portuaria-en-eeuu-puede-impactar-cadena-logistica-global-y-al-canal-de-panama/",
+        "date": "2024-10-02 01:46:18",
+        "sentiment_score": -0.8423186391592026
+    },
+    {
+        "title": "Las matriculaciones en Italia en septiembre se redujeron un 10,75 % interanual",
+        "image_url": "./assets/ai_generated/v1_txt2img_b309db1da9614876b427f60cca9563e3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/las-matriculaciones-en-italia-en-septiembre-se-redujeron-un-1075-interanual/",
+        "date": "2024-10-02 01:00:58",
+        "sentiment_score": 0.229448139667511
+    },
+    {
+        "title": "Trinidad y Tobago diseña una estrategia para cumplir con los criterios fiscales de la UE",
+        "image_url": "./assets/ai_generated/v1_txt2img_2df375bf2f3740b4af4587d225829679.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/trinidad-y-tobago-disena-una-estrategia-para-cumplir-con-los-criterios-fiscales-de-la-ue/",
+        "date": "2024-10-02 01:00:40",
+        "sentiment_score": 0.17819885909557343
+    },
+    {
+        "title": "Camps sobre el recurso del PSOE: No me van a parar en mi intención de volver a la política",
+        "image_url": "./assets/ai_generated/v1_txt2img_45e684839e7d4494b440621be58f02d4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/camps-sobre-el-recurso-del-psoe-no-me-van-a-parar-en-mi-intencion-de-volver-a-la-politica/",
+        "date": "2024-10-02 00:48:07",
+        "sentiment_score": -0.7688400242477655
+    },
+    {
+        "title": "'Paisajes compartidos' lleva las artes escénicas al bosque en el Temporada Alta de Girona",
+        "image_url": "./assets/ai_generated/v1_txt2img_15fa5bb6ee084a1597d84c15b8095b6e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/paisajes-compartidos-lleva-las-artes-escenicas-al-bosque-en-el-temporada-alta-de-girona/",
+        "date": "2024-10-02 00:47:48",
+        "sentiment_score": 0.7871048217639327
+    },
+    {
+        "title": "NFL, que quiere un partido a Australia y \"entusiasmada por estar en España\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_0519de2b578a494baf1dca73df4f4724.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/nfl-que-quiere-un-partido-a-australia-y-entusiasmada-por-estar-en-espana/",
+        "date": "2024-10-02 00:15:58",
+        "sentiment_score": 0.5014541633427143
+    },
+    {
+        "title": "La izquierda retoma su apuesta para declarar la oficialidad del asturiano",
+        "image_url": "./assets/ai_generated/v1_txt2img_18fad5caffae47c29a6c9d97337af794.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/la-izquierda-retoma-su-apuesta-para-declarar-la-oficialidad-del-asturiano/",
+        "date": "2024-10-02 00:15:20",
+        "sentiment_score": -0.19380147755146027
+    },
+    {
+        "title": "El juez reafirma indicios contra un empresario acusado de traficar con diamantes de sangre",
+        "image_url": "./assets/ai_generated/v1_txt2img_f4ec65163f764a9aab283fb859314067.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/el-juez-reafirma-indicios-contra-un-empresario-acusado-de-traficar-con-diamantes-de-sangre/",
+        "date": "2024-10-02 00:03:10",
+        "sentiment_score": -0.7946574557572603
+    },
+    {
+        "title": "El BBVA propone ahora un pago de 0,29 euros y una acción suya por cada 5,019 del Sabadell",
+        "image_url": "./assets/ai_generated/v1_txt2img_af1645ea294b4f4a960fe0c40fbad434.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/01/el-bbva-propone-ahora-un-pago-de-029-euros-y-una-accion-suya-por-cada-5019-del-sabadell/",
+        "date": "2024-10-02 00:02:52",
+        "sentiment_score": 0.12648402526974678
+    },
+    {
+        "title": "Miles celebran a Sheinbaum tras tomar posesión como presidenta de México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/voxpop-sheinbaum.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/miles-celebran-presidenta-claudia-sheinbaum-zocalo-cdmx/",
+        "date": "2024-10-02 02:03:29",
+        "sentiment_score": 0.4638417139649391
+    },
+    {
+        "title": "Residentes de Gaza e Irán celebran el ataque con misiles contra Israel",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175322640.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "medio oriente",
+            "guerra israel",
+            "ataque",
+            "videos digitales",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/residentes-celebran-ataque-contra-israel-digivid-orix/",
+        "date": "2024-10-02 02:00:48",
+        "sentiment_score": -0.568178229033947
+    },
+    {
+        "title": "Walz asegura que la crisis de opioides va a la baja en el Gobierno de Biden",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175342724.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "tim walz",
+            "crisis de opioides"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-democratas-vicepresidentes-debate-walz-migrantes-fentanilo-dusa-tv/",
+        "date": "2024-10-02 01:59:45",
+        "sentiment_score": -0.32137929648160934
+    },
+    {
+        "title": "Sheinbaum: Me comprometo con ustedes a no mentir, a no robar y a nunca traicionar al pueblo de México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175338080-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/claudia-sheinbaum-presidencia-mexico-compromiso/",
+        "date": "2024-10-02 01:57:04",
+        "sentiment_score": -0.001539766788482666
+    },
+    {
+        "title": "Las noticias internacionales del 1 de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175331113.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news briefs",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-noticias-internacionales-1-octubre-fast/",
+        "date": "2024-10-02 01:20:50",
+        "sentiment_score": -0.9124251315370202
+    },
+    {
+        "title": "¿Quién es J. D. Vance, el candidato a vicepresidente de Donald Trump?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1725852-vance-548ac3.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "vicepresidente",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/01/quien-es-jd-vance-vicepresidente-trump-orix/",
+        "date": "2024-10-02 00:44:27",
+        "sentiment_score": -0.2828582637012005
+    },
+    {
+        "title": "María Corina Machado asegura que no se va de Venezuela luego de que Maduro especulara con una supuesta salida",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1749950-maria-corina-machado-estamos-decididos-a-hacer-valer-esta-soberania.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela noticias",
+            "venezuela",
+            "nicolás maduro",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/01/maria-corina-machado-no-se-va-venezuela-orix/",
+        "date": "2024-10-02 00:43:29",
+        "sentiment_score": -0.71396654099226
+    },
+    {
+        "title": "Video: Así recibió Claudia Sheinbaum el bastón de mando en el Zócalo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175338075.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/claudia-sheinbaum-el-baston-de-mando-perspectivas-mexico-tv/",
+        "date": "2024-10-02 00:41:57",
+        "sentiment_score": -0.03657856583595276
+    },
+    {
+        "title": "Sentencian en Miami a 10 años de prisión al excontralor de Ecuador Carlos Pólit por lavado de activos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1760861-carlos-polit.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ecuador"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/01/sentencian-miami-prision-excontralor-ecuador-carlos-polit-orix/",
+        "date": "2024-10-02 00:03:11",
+        "sentiment_score": -0.7292035855352879
+    },
+    {
+        "title": "Claudia Sheinbaum se refirió a su programa de gobierno en su primer mensaje como presidenta ante el Congreso",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175952154.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "xpress",
+            "claudia sheinbaum",
+            "toma de posesión claudia sheinbaum",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/claudia-sheinbaum-programa-gobierno-primer-mensaje-presidenta-congreso-perspectivas-mexico-tv/",
+        "date": "2024-10-01 23:18:22",
+        "sentiment_score": 0.0727711170911789
+    },
+    {
+        "title": "Laura Casassus-Builhe y Aina Monfort, las ingenieras que hacen en Albacete el fuselaje de los helicópteros del Ejército",
+        "image_url": "https://s1.elespanol.com/2024/10/01/actualidad/890171753_249657990_1706x960.jpg?contentId=ESPIMA20241001_0779",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241002/laura-casassus-builhe-aina-monfort-ingenieras-hacen-albacete-fuselaje-helicopteros-ejercito/886161529_0.html",
+        "date": "2024-10-02 02:04:55",
+        "sentiment_score": 0.1644996851682663
+    },
+    {
+        "title": "Mariel Hemingway, la nieta del escritor que pasó de la tragedia familiar a dar charlas sobre la salud mental",
+        "image_url": "https://s1.elespanol.com/2024/10/01/mujer/protagonistas/890171778_249658740_1706x960.jpg?contentId=ESPIMA20241001_0804",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241002/mariel-hemingway-nieta-escritor-paso-tragedia-familiar-dar-charlas-salud-mental/890161185_0.html",
+        "date": "2024-10-02 02:04:44",
+        "sentiment_score": -0.4721805974841118
+    },
+    {
+        "title": "Homenaje a Porteiro el día del voto femenino",
+        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/10/01/2024100121501140786.jpg",
+        "tags": [
+            "vigo"
+        ],
+        "link": "https://www.atlantico.net/articulo/vigo/homenaje-porteiro-dia-voto-femenino/202410020400571053139.html",
+        "date": "2024-10-02 02:00:57",
+        "sentiment_score": 0.6318868026137352
+    },
+    {
+        "title": "Luis Díaz está entre los jugadores más costosos e igualó récord de James Rodríguez",
+        "image_url": "./assets/ai_generated/v1_txt2img_5cce6053d46d4d328c0026bc0190eef7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/10/02/luis-diaz-esta-entre-los-jugadores-mas-costosos-e-igualo-record-de-james-rodriguez/",
+        "date": "2024-10-02 01:55:32",
+        "sentiment_score": 0.15879221260547638
+    },
+    {
+        "title": "Quién es el tapado al que Scaloni citaría a la selección argentina para los duelos ante Venezuela y Bolivia por Eliminatorias",
+        "image_url": "https://www.infobae.com/resizer/v2/EZ7XLBN46R7KEUX2WA5DDF5GCE.jpg?auth=6e8141eb416d5d7bc00c83be966ac75bc432efb50bcdb089b5fc7a73c6f053e8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/10/02/quien-es-el-tapado-al-que-scaloni-citaria-a-la-seleccion-argentina-para-los-duelos-ante-venezuela-y-bolivia-por-eliminatorias/",
+        "date": "2024-10-02 01:45:45",
+        "sentiment_score": 0.7359543312340975
+    },
+    {
+        "title": "¿Dónde juega actualmente el hijo de Eliza Samudio y el portero Bruno Fernandes?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/02/2024100203303873578.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/donde-juega-actualmente-hijo-eli/20241002033223319473.html",
+        "date": "2024-10-02 01:32:23",
+        "sentiment_score": -0.4341858774423599
+    },
+    {
+        "title": "Marisa Manchado y Yolanda Auyanet, Premios Nacionales de Música",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/01/66fc355ecc558.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/241002/1634220/marisa-manchado-yolanda-auyanet-premios-nacionales-musica.html",
+        "date": "2024-10-02 01:30:00",
+        "sentiment_score": 0.1390438973903656
+    },
+    {
+        "title": "El pueblo 'real' de Madrid dónde más baja el precio de las casas: vistas a la montaña por 2.297 euros el metro cuadrado",
+        "image_url": "https://s1.elespanol.com/2024/10/01/madrid/capital/890171854_249661054_1706x960.jpg?contentId=ESPIMA20241001_0880",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241002/pueblo-real-madrid-baja-precio-casas-vistas-montana-euros-metro-cuadrado/890161095_0.html",
+        "date": "2024-10-02 01:24:08",
+        "sentiment_score": -0.056575432419776917
+    },
+    {
+        "title": "El Buen, el bar fino de Madrid donde tomar el aperitivo, comer, 'tardear' y lo que surja sin perder de vista el producto",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/1487e1e2ddb4abb90521a1096d55cf69/crop/182x330/1813x1417/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/01/17277823814666.jpg",
+        "tags": [
+            "madrid",
+            "restaurantes",
+            "gastronomía",
+            "comer"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2024/10/02/66fbc01ce85ece080f8b4579.html",
+        "date": "2024-10-02 00:47:22",
+        "sentiment_score": 0.8176880031824112
+    },
+    {
+        "title": "Los 20 años de Carola Pérez tomando cannabis ilegal para el dolor: \"La ley del Gobierno deja a muchos pacientes fuera\"",
+        "image_url": "https://s1.elespanol.com/2024/10/01/reportajes/890171977_249664908_1706x960.jpg?contentId=ESPIMA20241001_1003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241002/anos-carola-perez-tomando-cannabis-ilegal-dolor-ley-gobierno-deja-pacientes/890161609_0.html",
+        "date": "2024-10-02 02:03:48",
+        "sentiment_score": -0.902489997446537
+    },
+    {
+        "title": "\"Menospreciamos los problemas mentales porque no se ven\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d02ca85d-cf9a-4664-b53f-2f5ab95c1511_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/levante-ud/2024/10/02/menospreciamos-problemas-mentales-ven-108814199.html",
+        "date": "2024-10-02 02:01:15",
+        "sentiment_score": -0.26196837425231934
+    },
+    {
+        "title": "Frente común en ARCA y Cort por los ‘chillidos’ de carteles y fachadas agresivas de comercios",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3021713.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2024/10/02/2252357/comercios-palma-frente-comun-arca-cort-por-chillidos-carteles-fachadas-agresivas.html",
+        "date": "2024-10-02 02:00:01",
+        "sentiment_score": -0.11416728794574738
+    },
+    {
+        "title": "El Real Mallorca conecta de nuevo con su afición",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3021775.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/10/02/2252389/real-mallorca-espanyol-desplazamiento-aficion.html",
+        "date": "2024-10-02 02:00:01",
+        "sentiment_score": 0.04468098282814026
+    },
+    {
+        "title": "Batista convoca a 40 jugadores para partidos contra Argentina y Paraguay",
+        "image_url": "./assets/ai_generated/v1_txt2img_543d137cdaa94f7190737d4bd6b8723b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/01/batista-convoca-a-40-jugadores-para-partidos-contra-argentina-y-paraguay/",
+        "date": "2024-10-02 01:48:02",
+        "sentiment_score": 0.7434850987046957
+    },
+    {
+        "title": "Las zonas tensionadas que defiende el Gobierno para toda España llevan el alquiler a máximos en Barcelona",
+        "image_url": "https://s1.elespanol.com/2024/10/01/invertia/observatorios/vivienda/890171951_249664081_1706x960.jpg?contentId=ESPIMA20241001_0977",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20241002/zonas-tensionadas-defiende-gobierno-toda-espana-llevan-alquiler-maximos-barcelona/890161400_0.html",
+        "date": "2024-10-02 01:33:54",
+        "sentiment_score": 0.140554528683424
+    },
+    {
+        "title": "Carlos Antonio Vélez habló de su retiro del periodismo: “Estoy en el tiempo añadido”",
+        "image_url": "https://www.infobae.com/resizer/v2/OLRBFODPWJFLJBZKDEYA2BYEQA.png?auth=d89cd9dc24f65ac1711d7da9b38c3a34620ee83bbfcefc544ba0af3e7b3be4c8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/10/02/carlos-antonio-velez-hablo-de-su-retiro-del-periodismo-esto-dijo-el-polemico-comentarista/",
+        "date": "2024-10-02 01:12:15",
+        "sentiment_score": 0.8013098556548357
+    },
+    {
+        "title": "El PP divide al Gobierno con su ofensiva social: Sumar sí acepta debatir las medidas",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/46fefd822858bcaae18ac0637503dc52/f/image/jpeg/assets/multimedia/imagenes/2023/02/05/16755564472912.jpg",
+        "tags": [
+            "psoe",
+            "artículos marta belver",
+            "artículos marisa cruz",
+            "pp"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/10/02/66fc2f69e85ecec1398b4598.html",
+        "date": "2024-10-02 00:47:20",
+        "sentiment_score": -0.620703898370266
+    },
+    {
+        "title": "Polémica en Chile: Arturo Vidal despotricó de Ricardo Gareca por dejarlo fuera de la selección",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/AP24101022285681-e1727829722908.jpg",
+        "tags": [
+            "fútbol",
+            "selección chile",
+            "arturo vidal",
+            "deportes",
+            "ricardo gareca"
+        ],
+        "link": "https://eldiariony.com/2024/10/01/polemica-en-chile-arturo-vidal-despotrico-de-ricardo-gareca-por-dejarlo-fuera-de-la-seleccion/",
+        "date": "2024-10-02 00:43:25",
+        "sentiment_score": -0.6842284817248583
+    },
+    {
+        "title": "El Barcelona se regala una goleada en la Liga de Campeones, al vapulear a Young Boys",
+        "image_url": "./assets/ai_generated/v1_txt2img_655cde1316e340feb9fa9cad43d65211.png",
+        "tags": [
+            "liga de campeones",
+            "deportes",
+            "young boys",
+            "barcelona",
+            "fútbol"
+        ],
+        "link": "https://eltiempove.com/el-barcelona-se-regala-una-goleada-en-la-liga-de-campeones-al-vapulear-a-young-boys/",
+        "date": "2024-10-02 00:15:46",
+        "sentiment_score": 0.7237894237041473
     }
 ];
