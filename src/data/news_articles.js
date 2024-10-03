@@ -1,125 +1,5 @@
 export default [
     {
-        "title": "Efemérides del 30 de septiembre",
-        "image_url": "./assets/ai_generated/v1_txt2img_ab6d5c85ad00454ba753d722a07b6b53.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/09/29/efemerides-del-30-de-septiembre/",
-        "date": "2024-09-29 05:30:39",
-        "sentiment_score": 0.10686761140823364
-    },
-    {
-        "title": "Malcorne, el técnico que revolucionó el fútbol asturiano, \"olvidado\" por el Comité de Entrenadores tras 54 años de carrera",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/af020a74-f97c-4c92-aab6-8af395698878_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/siero/2024/09/29/malcorne-tecnico-revoluciono-futbol-asturiano-108701854.html",
-        "date": "2024-09-29 06:26:06",
-        "sentiment_score": 0.1134239137172699
-    },
-    {
-        "title": "Jude Bellingham, un dandi del siglo XXI con corte de pelo propio: 'Bellicut'",
-        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/29/66f90b53eaf15.jpeg",
-        "tags": [
-            "gente y estilo"
-        ],
-        "link": "https://www.diariodeleon.es/sociedad/gente/240929/1632463/jude-bellingham-dandi-siglo-xxi-corte-pelo-propio-bellicut.html",
-        "date": "2024-09-29 06:06:00",
-        "sentiment_score": -0.07197089493274689
-    },
-    {
-        "title": "Íñigo Moreno de Arteaga nos recibe en su casa tras cumplir 90 años y nos habla de su legado: familia, libros e historia",
-        "image_url": "https://www.hola.com/horizon/landscape/b1c49ce8b26e-jaa0513rcut.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20240929719696/inigo-moreno-de-arteaga-90-anyos-familia-libros-historia/",
-        "date": "2024-09-29 06:00:00",
-        "sentiment_score": 0.8270192556083202
-    },
-    {
-        "title": "Hace 25 años | Arqueólogos excavan la casa romana junto a la sede de la Fundación Barrié",
-        "image_url": "https://www.elidealgallego.com/images/showid/6966925",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elidealgallego.com/articulo/a-coruna/hace-25-anos-arqueologos-excavan-casa-romana-junto-sede-fundacion-barrie-5014031",
-        "date": "2024-09-29 06:00:00",
-        "sentiment_score": -0.6432752292603254
-    },
-    {
-        "title": "Hoz y martillo con pintxo-pote",
-        "image_url": "./assets/ai_generated/v1_txt2img_9d930f70911f4eaf8a2e45c04ac13717.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/opinion/tribuna-abierta/2024/09/29/hoz-martillo-pintxo-pote-8743373.html",
-        "date": "2024-09-29 05:55:35",
-        "sentiment_score": -0.04393300414085388
-    },
-    {
-        "title": "Difícil estreno liguero sin Donta Hall",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c2258670-8c72-4d4a-bb0c-5e9621e56915_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2024/09/29/dificil-estreno-liguero-donta-hall-baskonia-8743407.html",
-        "date": "2024-09-29 05:49:41",
-        "sentiment_score": 0.5995854400098324
-    },
-    {
-        "title": "AEGC denuncia que ningún guardia civil en prácticas llegará a Ceuta",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1103862",
-        "date": "2024-09-29 05:28:09",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Bárbara Rey, el símbolo sexual de la transición que se casó con un domador y se 'enamoró' del Jefe del Estado",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/09/27/una-figura-de-la-moda.r_d.902-774-3299.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5638135/0/barbara-rey-musa-destape-que-se-caso-con-un-domador-se-enamoro-jefe-estado/",
-        "date": "2024-09-29 06:25:29",
-        "sentiment_score": -0.011250168085098267
-    },
-    {
-        "title": "Osasuna-Barcelona | La victoria de muchos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e1ab5ec4-a5d9-4f83-9f0f-34537d699c23_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2024/09/29/osasuna-barcelona-victoria-8744575.html",
-        "date": "2024-09-29 06:24:45",
-        "sentiment_score": 0.2262476533651352
-    },
-    {
-        "title": "Sánchez asume el método de negociación de Junts para asegurarse la legislatura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d897d9c0-768d-4be3-9369-562980c6d7e2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/espana/2024/09/29/sanchez-metodo-negociacion-junts-legislatura-presupuestos-108701938.html",
-        "date": "2024-09-29 06:24:03",
-        "sentiment_score": -0.12112599611282349
-    },
-    {
-        "title": "La revolución de Asturias: un conflicto nada loable, consecuencia de la bolchevización del PSOE y que fue el aperitivo de la Guerra Civil",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/09/24/guardias-civiles-marchan-junto-a-arrestados-tras-la-revolucion.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5633996/0/90-anos-revolucion-asturias/",
-        "date": "2024-09-29 06:18:10",
-        "sentiment_score": -0.7371484842151403
-    },
-    {
         "title": "2-1. El Castellón consigue su primera victoria en Castalia y hunde un poco más al Tenerife",
         "image_url": "./assets/ai_generated/v1_txt2img_5c3c5a2a20454b50a00f6decb71ead8e.png",
         "tags": [
@@ -280,42 +160,6 @@ export default [
         "sentiment_score": -0.3478662148118019
     },
     {
-        "title": "La potencial presidenta Harris podría enfrentar un obstáculo republicano en el Senado para cualquier designación a la Corte Suprema",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759498-vicepresidenta-harris.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "kamala harris",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/29/potencial-presidenta-harris-podria-enfrentar-obstaculo-republicano-senado-para-cualquier-designacion-corte-suprema/",
-        "date": "2024-09-29 09:24:49",
-        "sentiment_score": -0.5534432083368301
-    },
-    {
-        "title": "¿Qué podría suceder a continuación mientras Hezbollah se recupera de la muerte de Nasrallah e Israel considera una incursión terrestre en el Líbano?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759486-hassan.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "hezbollah",
-            "israel noticias",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/29/que-podria-suceder-mientras-hezbollha-recupera-muerte-nasrallah-e-israel-considera-incursion-terrestre-libano-trax/",
-        "date": "2024-09-29 08:45:39",
-        "sentiment_score": -0.6692273542284966
-    },
-    {
-        "title": "La muerte de Nasrallah es un objetivo clave para Israel, pero es demasiado pronto para descartar a Hezbollah",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759483-lider-de-hezbollah.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "hezbollah",
-            "medio oriente",
-            "israel noticias",
-            "análisis"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/29/muerte-nasrallah-objetivo-clave-israel-pronto-hezbollah-trax/",
-        "date": "2024-09-29 08:26:12",
-        "sentiment_score": -0.8057423094287515
-    },
-    {
         "title": "¿De qué año es Sánchez?",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/29/1486673132-R3LsYc6x59NLLfzZa6NGvTL-1200x840@diario_abc.jpg",
         "tags": [
@@ -453,72 +297,6 @@ export default [
         "link": "https://elpais.com/espana/2024-09-29/el-pnv-negociara-con-todas-las-fuerzas-democraticas-para-aprovechar-la-oportunidad-e-impulsar-el-autogobierno.html",
         "date": "2024-09-29 12:36:03",
         "sentiment_score": 0.19132912904024124
-    },
-    {
-        "title": "El trauma del francotirador del Ejército español que mató a un hombre en Irak",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/INL3XERUN5MUTPJZ6WUR45L5PY.jpg?auth=799f3a0882393895edb9529afb51e611f3bf82621ff7cf8e30c7342c4d634cf6&width=1200",
-        "tags": [
-            "ministerio de defensa",
-            "justicia",
-            "misiones internacionales",
-            "audiencia nacional",
-            "irak",
-            "españa",
-            "ejército español",
-            "soldados",
-            "estrés"
-        ],
-        "link": "https://elpais.com/espana/2024-09-29/el-trauma-del-francotirador-del-ejercito-espanol-que-mato-a-un-hombre-en-irak.html",
-        "date": "2024-09-29 10:11:06",
-        "sentiment_score": -0.655252531170845
-    },
-    {
-        "title": "Mueren tres personas al estrellarse su helicóptero contra una línea de alta tensión en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JKXSJTOVXZCI7BVMV7ETBPH5TI.jpg?auth=9a2b026beb66b219a83770fbf4f196f4290862a5d50dabc48d618f9673e50a4e&width=1200",
-        "tags": [
-            "valencia",
-            "helicópteros",
-            "víctimas",
-            "españa",
-            "accidentes aéreos",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/2024-09-29/mueren-tres-personas-tras-estrellarse-un-helicoptero-contra-una-linea-de-alta-tension-en-valencia.html",
-        "date": "2024-09-29 10:06:37",
-        "sentiment_score": -0.4665580503642559
-    },
-    {
-        "title": "Los equipos de rescate retoman la búsqueda de víctimas del cayuco de El Hierro con pocas esperanzas de encontrarlas con vida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L55RB6ZBNZGJ7DTGXR3EWGRFZ4.JPG?auth=748f2a654d6abaa87e96b8a73c20f13f970e6f2627bb5b3d0a62bc3c2226d039&width=1200",
-        "tags": [
-            "salvamento marítimo",
-            "canarias",
-            "migración",
-            "migrantes",
-            "el hierro",
-            "españa",
-            "cayucos",
-            "naufragios",
-            "rescate víctimas"
-        ],
-        "link": "https://elpais.com/espana/2024-09-29/los-equipos-de-rescate-retoman-la-busqueda-de-victimas-del-cayuco-de-el-hierro-con-pocas-esperanzas-de-encontrarlas-con-vida.html",
-        "date": "2024-09-29 09:45:52",
-        "sentiment_score": -0.46795834600925446
-    },
-    {
-        "title": "Un camionero muerto y nueve heridos en un aparatoso accidente a la entrada de Lleida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XQYNI5DC5AJ6UW5JNDOELR5SUE.jpg?auth=395a354d53e7f063bd1f7f2b0f419b9f85b067d906d3d05e60940ecb4df4c42f&width=1200",
-        "tags": [
-            "cataluña",
-            "mossos d'esquadra",
-            "lleida",
-            "accidentes",
-            "hospitales",
-            "camiones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-09-29/un-camionero-muerto-y-nueve-heridos-en-un-aparatoso-accidente-a-la-entrada-de-lleida.html",
-        "date": "2024-09-29 08:17:30",
-        "sentiment_score": -0.7404819428920746
     },
     {
         "title": "La rabia, un peligro potencial",
@@ -7153,5 +6931,579 @@ export default [
         "link": "https://www.eldia.es/economia/2024/10/02/barcelona-inversion-hotelera-primer-semestre-2024-108846896.html",
         "date": "2024-10-02 17:03:36",
         "sentiment_score": 0.12357886135578156
+    },
+    {
+        "title": "Hovik Keuchkerian habla de su relación con el fuego en ‘El Hormiguero’: “Cuando me ocurre algo relevante me marco la piel. Me sirve para conectarme con esos momentos”",
+        "image_url": "https://www.infobae.com/resizer/v2/5374METIJFFZJI6ODG2R3CQ3BM.png?auth=08d4bc8e5d604a67613c325b64d81a98683298c4323c8a8822cc3053e092cb74",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/02/hovik-keuchkerian-habla-de-su-relacion-con-el-fuego-en-el-hormiguero-cuando-me-ocurre-algo-relevante-me-marco-la-piel-me-sirve-para-conectarme-con-esos-momentos/",
+        "date": "2024-10-02 22:10:09",
+        "sentiment_score": 0.4877524906769395
+    },
+    {
+        "title": "Perú confirma que comprará 24 aviones de combate por 3.168 millones de euros",
+        "image_url": "./assets/ai_generated/v1_txt2img_7ece15c751364249b29aecfa9573250b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/peru-confirma-que-comprara-24-aviones-de-combate-por-3168-millones-de-euros/",
+        "date": "2024-10-02 21:47:28",
+        "sentiment_score": 0.22778916731476784
+    },
+    {
+        "title": "Nordy: La nueva era de la energía escandinava en España",
+        "image_url": "./assets/ai_generated/v1_txt2img_2500c77440264c4898c63eac4c45f3ec.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/nordy-la-nueva-era-de-la-energia-escandinava-en-espana/",
+        "date": "2024-10-02 21:46:53",
+        "sentiment_score": 0.717045484110713
+    },
+    {
+        "title": "El Gobierno argentino abre proceso de licitación para privatizar la metalúrgica Impsa",
+        "image_url": "./assets/ai_generated/v1_txt2img_c9ac0f33472148bcbb7799c872e9b362.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/el-gobierno-argentino-abre-proceso-de-licitacion-para-privatizar-la-metalurgica-impsa/",
+        "date": "2024-10-02 21:46:34",
+        "sentiment_score": 0.20706233382225037
+    },
+    {
+        "title": "MasOrange reduce en 50 personas los afectados por el ERE hasta 745 trabajadores",
+        "image_url": "./assets/ai_generated/v1_txt2img_24a796c61f034fd192a6bb0e932da9aa.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/masorange-reduce-en-50-personas-los-afectados-por-el-ere-hasta-745-trabajadores/",
+        "date": "2024-10-02 21:46:16",
+        "sentiment_score": 0.014769911766052246
+    },
+    {
+        "title": "La inversión fija bruta de México creció un 6,4 % en julio",
+        "image_url": "./assets/ai_generated/v1_txt2img_4ee8947f1bdb4f7eab0901141c170674.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/la-inversion-fija-bruta-de-mexico-crecio-un-64-en-julio/",
+        "date": "2024-10-02 21:45:58",
+        "sentiment_score": 0.2632182687520981
+    },
+    {
+        "title": "El IBEX 35 pierde los 11.600 puntos tras la apertura en negativo de Wall Street",
+        "image_url": "./assets/ai_generated/v1_txt2img_bd3d19f8dace479eb25acd923adea8fd.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/el-ibex-35-pierde-los-11600-puntos-tras-la-apertura-en-negativo-de-wall-street/",
+        "date": "2024-10-02 21:45:39",
+        "sentiment_score": 0.548635371029377
+    },
+    {
+        "title": "2-0. El Girona también gana al Feyenoord y se reafirma en el liderato",
+        "image_url": "./assets/ai_generated/v1_txt2img_18d5ed3448d7486d9a76c357d0c5ca4a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/2-0-el-girona-tambien-gana-al-feyenoord-y-se-reafirma-en-el-liderato/",
+        "date": "2024-10-02 21:45:21",
+        "sentiment_score": 0.7574529312551022
+    },
+    {
+        "title": "92-64. El Baxi Manresa barre de la pista a un muy débil Benfica",
+        "image_url": "./assets/ai_generated/v1_txt2img_80eee17e2c274ba3a0a133b3f38aacc1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/92-64-el-baxi-manresa-barre-de-la-pista-a-un-muy-debil-benfica/",
+        "date": "2024-10-02 21:18:42",
+        "sentiment_score": -0.5982183814048767
+    },
+    {
+        "title": "Un incómodo Real Madrid se da de bruces ante un agigantado Lille en Champions",
+        "image_url": "https://www.infobae.com/resizer/v2/6LX6AOK375D4JJH2CUOFQOHIGI.jpg?auth=8b3fc43666365f58371535427183535fc27269172e53667e5e8d14b95f6c7722",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/10/02/un-incomodo-real-madrid-se-da-de-bruces-ante-un-agigantado-lille-en-champions/",
+        "date": "2024-10-02 21:07:54",
+        "sentiment_score": 0.034763336181640625
+    },
+    {
+        "title": "noticias-de-eeuu-cnne-2-de-octubre-2024-dusa-tarde-fast",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175345370.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/las-tres-noticias-destacadas-de-ee-uu-del-2-de-octubre-en-cnn-en-espanol/",
+        "date": "2024-10-02 22:08:08",
+        "sentiment_score": -0.917100883089006
+    },
+    {
+        "title": "El huracán Helene devastó el sureste: así se produjo el camino de destrucción de 800 km",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1761216-gettyimages-2174213441.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracanes",
+            "huracán helene"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/02/huracan-helene-devasto-sureste-camino-destruccion-trax/",
+        "date": "2024-10-02 21:49:47",
+        "sentiment_score": -0.7978620305657387
+    },
+    {
+        "title": "Biden dice que Israel no debe atacar las instalaciones nucleares iraníes, pero las autoridades de EE.UU. reconocen que tiene derecho a responder a un ataque",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1761391-c-2024-10-02t164303z-1717192425-rc2gcaaqd5ej-rtrmadp-3-storm-helene-biden.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "guerra medio oriente",
+            "biden"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/02/biden-israel-instalaciones-nucleares-iranies-ataque-trax/",
+        "date": "2024-10-02 21:44:01",
+        "sentiment_score": -0.5772411152720451
+    },
+    {
+        "title": "Rusia captura una ciudad clave en el este de Ucrania, exponiendo las vulnerabilidades críticas de Kyiv",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/rusia-ucrania-Vuhledar-captura.jpg?quality=100&strip=info",
+        "tags": [
+            "ucrania",
+            "guerra de rusia en ucrania",
+            "rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/02/rusia-captura-ciudad-clave-este-ucrania-vulnerabilidades-kyiv-trax/",
+        "date": "2024-10-02 21:26:23",
+        "sentiment_score": 0.15293103456497192
+    },
+    {
+        "title": "Video en que un oficial encuentra a un niño desaparecido en una piscina",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ush-trax.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "noticias de ee.uu.",
+            "niño desaparecido",
+            "indiana",
+            "rescate"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-muestra-rescate-de-un-nino-autista-en-una-piscina-ush-trax/",
+        "date": "2024-10-02 21:20:19",
+        "sentiment_score": -0.48017535731196404
+    },
+    {
+        "title": "El primer museo de Nintendo ofrece un viaje nostálgico a la época de los primeros videojuegos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1761301-gettyimages-2173533354.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "nintendo",
+            "videojuegos",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/02/museo-nintendo-viaje-epoca-videojuegos-trax/",
+        "date": "2024-10-02 21:10:44",
+        "sentiment_score": 0.06705659627914429
+    },
+    {
+        "title": "El iPhone 16 no se vende como esperaba Apple. Este es el motivo",
+        "image_url": "./assets/ai_generated/v1_txt2img_95b83d51e6e640c79d75f509caf45de2.png",
+        "tags": [
+            "apple",
+            "tecnología",
+            "iphone 16",
+            "ventas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apple-venta-iphone-16-preventa-37-millones-inteligencia-artificial-cnn-dinero-tv/",
+        "date": "2024-10-02 20:22:11",
+        "sentiment_score": -0.34015580266714096
+    },
+    {
+        "title": "Una bomba estadounidense de la Segunda Guerra Mundial explotó en un aeropuerto japonés y provocó un gran cráter",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/Bomba-aeropuerto-japones.jpg?quality=100&strip=info",
+        "tags": [
+            "japón",
+            "aeropuerto",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/02/explota-bomba-aeropuerto-japones-ap/",
+        "date": "2024-10-02 20:17:58",
+        "sentiment_score": -0.56441630423069
+    },
+    {
+        "title": "La gente está haciendo compras de pánico de papel higiénico debido a la huelga en puertos de EE.UU. Pero no es necesario",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1761307-copia-de-foto-para-wp-2024-10-02t133055-800.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/02/papel-higienico-panico-huelga-portuaria-ee-uu-trax/",
+        "date": "2024-10-02 20:04:23",
+        "sentiment_score": -0.7236289698630571
+    },
+    {
+        "title": "Estas son las noticias internacionales del 2 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173465073.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-noticias-internacionales-del-2-octubre-cnn-espanol-fast/",
+        "date": "2024-10-02 19:55:08",
+        "sentiment_score": -0.8181650787591934
+    },
+    {
+        "title": "Una de las víctimas mortales del atentado de Tel Aviv salvó la vida de su bebé protegiéndole con su propio cuerpo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/02/bebe-jaffa-kHRC-U603147031613QSB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/victimas-mortales-atentado-tel-aviv-salvo-vida-20241002215155-nt.html",
+        "date": "2024-10-02 19:51:55",
+        "sentiment_score": -0.3077692687511444
+    },
+    {
+        "title": "Dos cazas españoles despegan en Rumanía al acercarse a su territorio varios drones rusos por un ataque contra Ucrania",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/02/Caza-kaSH-U603147014463lhH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/dos-cazas-espanoles-despegan-rumania-acercarse-territorio-20241002214328-nt.html",
+        "date": "2024-10-02 19:43:28",
+        "sentiment_score": -0.16750887036323547
+    },
+    {
+        "title": "El parque de los mendigos",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/08/30/embargo-kcID--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-parque-mendigos-20241003203020-nts.html",
+        "date": "2024-10-02 19:42:33",
+        "sentiment_score": -0.11207088828086853
+    },
+    {
+        "title": "Un superviviente de la masacre de Hamás en el festival de música del 7 de octubre abatió a uno de los atacantes de Tel Aviv",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/02/telaviv-k0lF-U60314695128425D-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/superviviente-masacre-hamas-festival-musica-octubre-abatio-20241002212614-nt.html",
+        "date": "2024-10-02 19:26:14",
+        "sentiment_score": -0.16283263266086578
+    },
+    {
+        "title": "Contra Israel, contra Occidente",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/01/gordo-U08101533214EOL-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-israel-occidente-20241003193546-nt.html",
+        "date": "2024-10-02 19:18:26",
+        "sentiment_score": -0.14665251970291138
+    },
+    {
+        "title": "El PP plantea eliminar las zonas de mercado tensionado y agilizar trámites para liberar suelo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/02/paloma-ppp-kmVB-U603146885182TcG-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/pp-plantea-eliminar-zonas-mercado-tensionado-agilizar-20241002205429-nt.html",
+        "date": "2024-10-02 18:54:29",
+        "sentiment_score": -0.06785011291503906
+    },
+    {
+        "title": "Israel e Irán intercambian amenazas de nuevos ataques en el Consejo de Seguridad de la ONU",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/02/CONSEJO-SEGURIDAD-RYJEHV9WcZ7dvBEcyxGpKgJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/israel-iran-intercambian-amenazas-nuevos-ataques-consejo-20241002205230-nt.html",
+        "date": "2024-10-02 18:52:31",
+        "sentiment_score": -0.16005884110927582
+    },
+    {
+        "title": "Las 'mañaneras' de Sheinbaum criticarán la Conquista española y pondrán un 'detector de mentiras' a la prensa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/02/claudia-RvEfNDDDA9mIoImqGNJw97J-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/mananeras-sheinbaum-criticaran-conquista-espanola-pondran-detector-20241002201320-nt.html",
+        "date": "2024-10-02 18:29:05",
+        "sentiment_score": -0.03875967860221863
+    },
+    {
+        "title": "Una experta de cabecera de la Generalitat para la financiación autonómica: «Cataluña no se va a quedar con todos los ingresos de impuestos»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/02/MartaRovirayPereAragonsEFE-RffXZGfjErtnsSgoKXHYnON-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/experta-cabecera-generalitat-financiacion-autonomica-cataluna-quedar-20241002202625-nt.html",
+        "date": "2024-10-02 18:27:35",
+        "sentiment_score": -0.08466815948486328
+    },
+    {
+        "title": "Faffeología",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/01/acusadosok_20241001155515-U25770741070pIV-170x119@abc.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-faffeologia-20241003191249-nts.html",
+        "date": "2024-10-02 18:08:49",
+        "sentiment_score": -0.06632587313652039
+    },
+    {
+        "title": "El Consejo Fiscal se opone a la creación de una de las fiscalías contra la corrupción que preveía el Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SFHGTLOJNZDC5KV4YG7ERMN7S4.jpg?auth=4a6248191ab085b4be5244b54616985d011dc22385f942f3acf833e45d7a1437&width=1200",
+        "tags": [
+            "upf",
+            "fiscalía",
+            "españa",
+            "fiscalía anticorrupción",
+            "gobierno"
+        ],
+        "link": "https://elpais.com/espana/2024-10-02/el-consejo-fiscal-se-opone-a-la-creacion-de-una-de-las-fiscalias-contra-la-corrupcion-que-preveia-el-gobierno.html",
+        "date": "2024-10-02 19:28:27",
+        "sentiment_score": -0.491323858499527
+    },
+    {
+        "title": "Gabilondo: “No he recibido ninguna presión o llamada para no recurrir la amnistía”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QWWW7YMS7QOM7CXJXVDMNWOS2E.jpg?auth=9b2c5e479a49be6be4faf9a33b882241e81ed6c9e942570889b1310f44c5863e&width=1200",
+        "tags": [
+            "ángel gabilondo",
+            "congreso diputados",
+            "amnistía 1977",
+            "oriol junqueras",
+            "ley de amnistía",
+            "juntsxcat",
+            "defensor pueblo",
+            "erc",
+            "pp",
+            "comisiones parlamentarias",
+            "carles puigdemont",
+            "españa",
+            "procés independentista catalán",
+            "amnistía",
+            "psoe",
+            "senado"
+        ],
+        "link": "https://elpais.com/espana/2024-10-02/gabilondo-no-he-recibido-ninguna-presion-o-llamada-para-no-recurrir-la-amnistia.html",
+        "date": "2024-10-02 18:15:29",
+        "sentiment_score": -0.6418444700539112
+    },
+    {
+        "title": "Manrique abre el Lliure con una Gaviota que enfatiza la vulnerabilidad del artista",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OB2ZTT57EZB5VIEYUNSO2442OY.png?auth=40fa0f02eef5699369ffbd1b7894c6b6199525b1e3b063913a53fb2fc1506230&width=1200",
+        "tags": [
+            "estrenos teatro",
+            "cataluña",
+            "teatre lliure",
+            "inauguraciones",
+            "teatro",
+            "antón chejov",
+            "julio manrique"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-02/manrique-abre-el-lliure-con-una-gaviota-que-enfatiza-la-vulnerabilidad-del-artista.html",
+        "date": "2024-10-02 18:12:54",
+        "sentiment_score": 0.5513897389173508
+    },
+    {
+        "title": "El Aston Villa hace historia a costa del Bayern Múnich",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/03/2024100300133613613.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/aston-villa-hace-historia-champions-league-costa-bayern-munich/20241003001543319568.html",
+        "date": "2024-10-02 22:15:43",
+        "sentiment_score": 0.4423808380961418
+    },
+    {
+        "title": "La ex mujer del futbolista Trezeguet le denuncia en un juzgado de Madrid por impagos y maltrato: \"Se te acabó tu vida Disney\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/2bf55b213071b2f0fc2217f8d29a207b/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/02/17278918077105.jpg",
+        "tags": [
+            "tribunales",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/10/03/66f683ad21efa04d2b8b457a.html",
+        "date": "2024-10-02 22:10:59",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "La Inteligencia Artificial inaugura una nueva manera de contar buenas noticias",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/02/cintillo-branded-kmg--758x531@RC.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/contentfactory/post/2024/09/30/buena-energia-ingenio-altruismo-y-progreso-noticias-que-te-daran-motivos-para-ser-optimistas/",
+        "date": "2024-10-02 22:09:32",
+        "sentiment_score": 0.7771950829774141
+    },
+    {
+        "title": "Los directivos del Atlético de Madrid evitan utilizar la expresión ‘Frente Atlético’",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/12/01/2023120114024588272.jpg",
+        "tags": [
+            "el chivato"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/el_chivato/directivos-atletico-madrid-evitan-utilizar-expresion-frente-atletico/20241003000000851943.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": -0.7316844798624516
+    },
+    {
+        "title": "Por primera vez, la mayor Cabalgata de la Hispanidad 2024 recorrerá la Gran Vía de Madrid",
+        "image_url": "https://autonomico.elconfidencialdigital.com/media/elconfidencialautonomico/images/2024/10/02/2024100218004037349.png",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://autonomico.elconfidencialdigital.com/articulo/madrid/por-primera-vez/20241003000000138791.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": 0.35840393602848053
+    },
+    {
+        "title": "El vuelo comercial a Ámsterdam que cogió Leonor de Borbón",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/08/28/2024082818505312038.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/vuelo-comercial-amsterdam-que-cogio-leonor-borbon/20241003000000129937.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": -0.7724555712193251
+    },
+    {
+        "title": "Telecinco y Antena 3 se plantean competir con TVE por los derechos de la Champions",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/05/25/2024052507322018311.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/telecinco-antena-3-plantean-competir-tve-derechos-champions/20241003000000852040.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": -0.21304510533809662
+    },
+    {
+        "title": "Interior, obligado a acoger en España a una familia palestina de Líbano",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/30/2024093010321836178.jpg",
+        "tags": [
+            "judicial"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/Judicial/interior-obligado-acoger-familia-palestinos-peligro-volver-libano/20241003000000851702.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": -0.6837638486176729
+    },
+    {
+        "title": "Crónica del LOSC Lille - Real Madrid: 1-0",
+        "image_url": "https://www.infobae.com/resizer/v2/RG27XH5WTNHG7IYSMD57HK57OE.jpg?auth=38cb1c2224fbda1750f14cd9325cf6c52e3b1aa6a9d2c76519606b312eaf9684",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/02/cronica-del-losc-lille-real-madrid-1-0/",
+        "date": "2024-10-02 21:47:38",
+        "sentiment_score": -0.0211251899600029
+    },
+    {
+        "title": "Crónica del Benfica - Atlético de Madrid, 4-0",
+        "image_url": "https://www.infobae.com/resizer/v2/WLE3XUZI75AVNIL4P23OWTGA6U.jpg?auth=0363abf2d61b5d689ab359d6ecf6743f24eb5d235abdb654c87354a1ad6300ac",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/02/cronica-del-benfica-atletico-de-madrid-4-0/",
+        "date": "2024-10-02 21:47:15",
+        "sentiment_score": -0.0408778116106987
+    },
+    {
+        "title": "El INEOS Britannia, muy superior, da un paso de gigante hacia la final de la Copa (6-4)",
+        "image_url": "./assets/ai_generated/v1_txt2img_5ca0f373284a406090443a83e233ea4c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/02/el-ineos-britannia-muy-superior-da-un-paso-de-gigante-hacia-la-final-de-la-copa-6-4/",
+        "date": "2024-10-02 22:15:39",
+        "sentiment_score": 0.7928223162889481
+    },
+    {
+        "title": "Los semáforos del jueves 3 de octubre: Carlos Molina, Elsa Jiménez, David Bote y Carlos Alcaraz",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241003/9990860/semaforos-jueves-3-octubre-molina-jimenez-bote-alcaraz.html",
+        "date": "2024-10-02 22:08:11",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "Un portero pianista",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241003/9991384/portero-pianista.html",
+        "date": "2024-10-02 22:05:00",
+        "sentiment_score": 0.49534590542316437
+    },
+    {
+        "title": "Cuidemos el patrimonio",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/02/66fdc1d4d63f8.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241003/9991497/cuidemos-patrimonio.html",
+        "date": "2024-10-02 22:05:00",
+        "sentiment_score": 0.2032431811094284
+    },
+    {
+        "title": "Alting compra dos edificios en paseo de Gràcia y Diagonal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef300670-0eda-4cec-8f3d-ef150855b9c6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20241003/alting-compra-edificios-paseo-gracia-108844232",
+        "date": "2024-10-02 22:01:58",
+        "sentiment_score": 0.14460455253720284
+    },
+    {
+        "title": "Juan Echániz",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/02/examen-protagonistas/890421098_13528537_1706x960.jpg?contentId=ESPIMA20241002_0149",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20241003/juan-echaniz/890411061_0.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": -0.1398613452911377
+    },
+    {
+        "title": "¿Quiénes son los padres de Pepe Reina? Te contamos todo sobre su familia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/01/2024100123153041822.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-pepe-reina-contamos-todo-familia/20241003000000851326.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": 0.7469845786690712
+    },
+    {
+        "title": "Lluïsa Moret",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/01/09/politica/politica_2010219_13528681_1706x960.jpg?contentId=ESPIMA20150109_0420",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20241003/lluisa-moret/890411062_0.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": -0.013380885124206543
+    },
+    {
+        "title": "Justicia: la cenicienta de la Administración",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/04/pensamiento/883421736_13409008_1706x960.png?contentId=ESPIMA20240904_0087",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20241003/justicia-la-cenicienta-de-administracion/890540939_13.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": -0.5672115795314312
+    },
+    {
+        "title": "La tienda online de videojuegos Beyond Game acaba en quiebra",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/02/business/confidente-vip/890421092_13528358_1706x960.jpg?contentId=ESPIMA20241002_0143",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20241003/la-tienda-online-videojuegos-beyond-game-quiebra/890411054_0.html",
+        "date": "2024-10-02 22:00:00",
+        "sentiment_score": -0.9177562883123755
     }
 ];
