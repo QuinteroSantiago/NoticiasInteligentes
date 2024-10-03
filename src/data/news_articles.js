@@ -135,31 +135,6 @@ export default [
         "sentiment_score": -0.7905983626842499
     },
     {
-        "title": "Resumen de noticias de los ataques entre Israel y Hezbollah y la muerte de Hassan Nasrallah este sábado 28 de septiembre",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/libano-hezbollah.jpg?quality=100&strip=info",
-        "tags": [
-            "líbano",
-            "medio oriente",
-            "hezbollah",
-            "israel noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/29/noticias-israel-hezbollah-libano-ataques-muertos-trax-2/",
-        "date": "2024-09-29 10:53:38",
-        "sentiment_score": -0.4002932012081146
-    },
-    {
-        "title": "¿Cuáles son las últimas noticias sobre la contienda entre Trump y Harris? Depende de a quién le preguntes",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759506-trump-harris.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "harris",
-            "elecciones en estados unidos",
-            "trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/29/ultimas-noticias-contienda-trump-y-harris-depende-de-a-quien-preguntes-trax/",
-        "date": "2024-09-29 10:38:55",
-        "sentiment_score": -0.3478662148118019
-    },
-    {
         "title": "¿De qué año es Sánchez?",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/29/1486673132-R3LsYc6x59NLLfzZa6NGvTL-1200x840@diario_abc.jpg",
         "tags": [
@@ -230,36 +205,6 @@ export default [
         "sentiment_score": -0.22799180448055267
     },
     {
-        "title": "Elmya: transformamos el presente para construir un futuro más limpio y sostenible",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/29/solar-RWtUe8KLrBqdtzyr3XF4q4I-1200x840@diario_abc.jpeg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/elmya-transformamos-presente-construir-futuro-limpio-sostenible-20240929134501-nt.html",
-        "date": "2024-09-29 10:58:10",
-        "sentiment_score": 0.2144722193479538
-    },
-    {
-        "title": "Innovación y excelencia académica, la fórmula para este nuevo curso",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/30/universidadisabeli-RSpF7TjDsvjEtvcrfHFhBgN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/innovacion-excelencia-academica-formula-nuevo-curso-20240930174500-nt.html",
-        "date": "2024-09-29 10:30:45",
-        "sentiment_score": 0.054058462381362915
-    },
-    {
-        "title": "CESIF Online impulsa la formación en el sector healthcare",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/09/29/cesif_-RKk9CxP8OZGn5eNnllGl3ZJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cesif-online-impulsa-formacion-sector-healthcare-20240929205307-nt.html",
-        "date": "2024-09-29 10:27:41",
-        "sentiment_score": 0.011268675327301025
-    },
-    {
         "title": "Vox se vuelca en el primer encierro taurino simulado para niños en la ciudad de Valencia",
         "image_url": "https://imagenes.elpais.com/resizer/v2/4SZTVVTJIJE4TLYHQZJ5RNEI7Y.jpg?auth=45eaf31e10f5291d3293b736ffa80a71da98861f7e39d6616deacfd73dbaa163&width=1200",
         "tags": [
@@ -280,23 +225,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-29/vox-se-vuelca-en-el-primer-encierro-taurino-simulado-para-ninos-en-la-ciudad-de-valencia.html",
         "date": "2024-09-29 15:24:33",
         "sentiment_score": 0.4150211438536644
-    },
-    {
-        "title": "El PNV negociará con “todas las fuerzas democráticas” para “aprovechar la oportunidad” e impulsar el autogobierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SBGIJL3KOU22TULTA5R27AHUA4.jpg?auth=a4626ac95cf66c7db27e3b2ccfc3e819fbd24da87764baabc15125ff6822f97d&width=1200",
-        "tags": [
-            "españa",
-            "actos políticos",
-            "eaj-pnv",
-            "nacionalismo",
-            "política",
-            "andoni ortuzar",
-            "míriam nogueras",
-            "país vasco"
-        ],
-        "link": "https://elpais.com/espana/2024-09-29/el-pnv-negociara-con-todas-las-fuerzas-democraticas-para-aprovechar-la-oportunidad-e-impulsar-el-autogobierno.html",
-        "date": "2024-09-29 12:36:03",
-        "sentiment_score": 0.19132912904024124
     },
     {
         "title": "La rabia, un peligro potencial",
@@ -7505,5 +7433,464 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20241003/la-tienda-online-videojuegos-beyond-game-quiebra/890411054_0.html",
         "date": "2024-10-02 22:00:00",
         "sentiment_score": -0.9177562883123755
+    },
+    {
+        "title": "España celebra en Paraguay su fiesta nacional con un festival de películas galardonadas",
+        "image_url": "./assets/ai_generated/v1_txt2img_7cfd1afa6825482c9b3598ad9a829521.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/03/espana-celebra-en-paraguay-su-fiesta-nacional-con-un-festival-de-peliculas-galardonadas/",
+        "date": "2024-10-03 02:00:56",
+        "sentiment_score": 0.4192078486084938
+    },
+    {
+        "title": "Redondo rechaza que el Senado se convierta en \"un parque temático de la ultraderecha\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_ccf69f342e0a4669b31edabf2b99adc7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/redondo-rechaza-que-el-senado-se-convierta-en-un-parque-tematico-de-la-ultraderecha/",
+        "date": "2024-10-03 01:47:11",
+        "sentiment_score": -0.8164549581706524
+    },
+    {
+        "title": "Detenidos un hombre y su hermana por intentar quemar su vivienda donde había dos niñas",
+        "image_url": "./assets/ai_generated/v1_txt2img_774447732c96458bb1370a21c539a2d5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/detenidos-un-hombre-y-su-hermana-por-intentar-quemar-su-vivienda-donde-habia-dos-ninas/",
+        "date": "2024-10-03 01:46:53",
+        "sentiment_score": -0.8106865789741278
+    },
+    {
+        "title": "Saiz: España está perfectamente preparada para atender a los migrantes llegados a Canarias",
+        "image_url": "./assets/ai_generated/v1_txt2img_9ae3e8c0667a4e9bac46c9032cc60a25.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/saiz-espana-esta-perfectamente-preparada-para-atender-a-los-migrantes-llegados-a-canarias/",
+        "date": "2024-10-03 01:46:35",
+        "sentiment_score": -0.5837473198771477
+    },
+    {
+        "title": "Estas son las mejores películas de Disney+ para ver hoy en España",
+        "image_url": "https://www.infobae.com/resizer/v2/JTV73BBS25BINBSKFXMQRMGMKA.jpg?auth=a10505217ca489d868c753afc1a274b428fea4d0c988f3af3f55c48d7fb6eebd",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/03/estas-son-las-mejores-peliculas-de-disney-para-ver-hoy-en-espana/",
+        "date": "2024-10-03 01:44:10",
+        "sentiment_score": 0.7445468716323376
+    },
+    {
+        "title": "Las mejores películas de Prime Video en España para ver hoy mismo",
+        "image_url": "https://www.infobae.com/resizer/v2/B4TW66IS3RFE3JCXCS4FVTU3TA.jpg?auth=5dfbfe965e38358fd9771dab4623c61c71001a39e32f7f981835dd65c5b7ab15",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/10/03/las-mejores-peliculas-de-prime-video-en-espana-para-ver-hoy-mismo/",
+        "date": "2024-10-03 01:38:27",
+        "sentiment_score": 0.3331269808113575
+    },
+    {
+        "title": "¿Cómo estará el clima en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/WKD4K252MRAA7C7J35HEBWGFII.jpg?auth=32cffac43f89670b28b60573c68ec1e0d8593cf96b696770cf58864e3dbdd8ee",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/03/como-estara-el-clima-en-madrid/",
+        "date": "2024-10-03 01:32:24",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Los dos líderes de CE y R. Unido acuerdan una cooperación reforzada a un ritmo acelerado",
+        "image_url": "./assets/ai_generated/v1_txt2img_b6a4ebd8b6e542b88085271027305d18.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/los-dos-lideres-de-ce-y-r-unido-acuerdan-una-cooperacion-reforzada-a-un-ritmo-acelerado/",
+        "date": "2024-10-03 01:31:35",
+        "sentiment_score": 0.6993143446743488
+    },
+    {
+        "title": "La Agencia Estatal de Salud Pública tendrá \"una sede funcional\" el verano de 2025",
+        "image_url": "./assets/ai_generated/v1_txt2img_b0f2e55afc444a88a8bd1eb630a99c35.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/la-agencia-estatal-de-salud-publica-tendra-una-sede-funcional-el-verano-de-2025/",
+        "date": "2024-10-03 01:17:46",
+        "sentiment_score": 0.3398701697587967
+    },
+    {
+        "title": "El Ejército de Aire investiga el robo de 700 litros de gasoil hallados en un trastero",
+        "image_url": "./assets/ai_generated/v1_txt2img_02c7295db6044a5e81f79625fe0f9058.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/02/el-ejercito-de-aire-investiga-el-robo-de-700-litros-de-gasoil-hallados-en-un-trastero/",
+        "date": "2024-10-03 01:17:28",
+        "sentiment_score": -0.62333969399333
+    },
+    {
+        "title": "Analista sugiere que es el momento idóneo para que Israel elimine el programa nuclear de Irán",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175358751.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "irán",
+            "acuerdo nuclear",
+            "medio oriente",
+            "guerra israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-libano-iran-hamas-guerra-frentes-misiles-netanyahu-conclusiones-tv/",
+        "date": "2024-10-03 02:04:26",
+        "sentiment_score": -0.44561851024627686
+    },
+    {
+        "title": "Analista sugiere que es el momento idóneo para que Israel elimine el programa nuclear de Irán",
+        "image_url": "./assets/ai_generated/v1_txt2img_0d03bd5474534bb1a3cede73a263409f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-libano-iran-hamas-guerra-frentes-misiles-netanyahu-conclusiones-tv",
+        "date": "2024-10-03 02:04:26",
+        "sentiment_score": -0.03478085994720459
+    },
+    {
+        "title": "Israel declara ‘persona non grata’ al secretario general de la ONU, António Guterres",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172008718.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "onu",
+            "ataque",
+            "irán",
+            "israel noticias",
+            "fast – news variety",
+            "xpress",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/antonio-guterres-persona-non-grata-panorama-tv-fast/",
+        "date": "2024-10-03 01:45:49",
+        "sentiment_score": -0.8718239217996597
+    },
+    {
+        "title": "Valenzuela no estará en la radio de los Dodgers por motivos de salud",
+        "image_url": "./assets/ai_generated/v1_txt2img_06359902e822449a8d7f7570d7806af5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fernando-valenzuela-no-estara-radio-dodgers-motivos-salud-grandes-ligas-beisbol-deportes-tv",
+        "date": "2024-10-03 01:42:45",
+        "sentiment_score": -0.5033709183335304
+    },
+    {
+        "title": "Edificio en Asheville flota río abajo y roza un edificio de apartamentos",
+        "image_url": "./assets/ai_generated/v1_txt2img_78b3f0f6a5b74977a4bab47a7daaa43c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edificio-asheville-flota-trax",
+        "date": "2024-10-03 01:37:20",
+        "sentiment_score": -0.034718409180641174
+    },
+    {
+        "title": "Edificio en Asheville flota río abajo y roza un edificio de apartamentos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/asheville-building-floodwater-20241003013609790.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "huracán helene",
+            "fast – news variety",
+            "huracán",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edificio-asheville-flota-trax/",
+        "date": "2024-10-03 01:37:20",
+        "sentiment_score": -0.87642218824476
+    },
+    {
+        "title": "Gobierno dominicano busca repatriar hasta 10.000 indocumentados haitianos por semana",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1464361-gettyimages-1668642513.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "caribe",
+            "inmigrantes"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/02/republica-dominicana-repatriar-indocumentados-haitianos-orix/",
+        "date": "2024-10-03 01:31:12",
+        "sentiment_score": -0.010441303253173828
+    },
+    {
+        "title": "Conflicto en Medio Oriente se agrava e Israel pelea una guerra en varios frentes",
+        "image_url": "./assets/ai_generated/v1_txt2img_ef99e6694e894eb0947688975d4f6500.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/medio-oriente-israel-gaza-iran-fdr-conclusiones-tv-fast",
+        "date": "2024-10-03 01:21:01",
+        "sentiment_score": -0.8495624251663685
+    },
+    {
+        "title": "Conflicto en Medio Oriente se agrava e Israel pelea una guerra en varios frentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161659080.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "israel",
+            "medio oriente",
+            "fernando del rincón",
+            "israel noticias",
+            "hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/medio-oriente-israel-gaza-iran-fdr-conclusiones-tv-fast/",
+        "date": "2024-10-03 01:21:01",
+        "sentiment_score": -0.8507612831890583
+    },
+    {
+        "title": "Israel ataca el centro de Beirut, Líbano, por primera vez desde 2006",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1761456-ataque-libano.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "líbano",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/02/israel-ataca-centro-beirut-libano-2006-trax/",
+        "date": "2024-10-03 01:01:26",
+        "sentiment_score": -0.28017278760671616
+    },
+    {
+        "title": "Caos en Correos: miles de notificaciones están atrapadas en las oficinas del operador postal",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/03/1473191658-R0uos487XQlHYPEhCLSmxMI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/caos-correos-miles-notificaciones-atrapadas-oficinas-operador-20241003040307-nt.html",
+        "date": "2024-10-03 02:03:07",
+        "sentiment_score": -0.2154596745967865
+    },
+    {
+        "title": "La brecha entre paro registrado y el real se sitúa en 773.000 personas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/03/EuropaPress_6248526_vicepresidenta_segunda_gobierno_ministra_trabajo_economia_social_yolanda-RlUBNf6vlFBGJPlJtTr7IQO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/brecha-paro-registrado-real-situa-773000-personas-20241003040236-nt.html",
+        "date": "2024-10-03 02:02:37",
+        "sentiment_score": -0.08805401623249054
+    },
+    {
+        "title": "Prohibir fumar a los jóvenes evitaría más de 1 millón de muertes por cáncer de pulmón",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/02/cigarrillos-tabaco.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/prohibir-tabaco-jovenes-evitaria-millon-muertes-cancer-20241002140705-nt.html",
+        "date": "2024-10-03 00:11:26",
+        "sentiment_score": -0.13176946341991425
+    },
+    {
+        "title": "Omara Portuondo, de 93 años, sacada en brazos del escenario al desorientarse al inicio de su concierto en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/B5BBVHEUONN3K4ACGNI7ZCMLFA.jpg?auth=341fd9590fa54bd64b661209a8d8a14e193eec9edabafcb9cffca18f54323365&width=1200",
+        "tags": [
+            "cantantes",
+            "omara portuondo",
+            "festival cruïlla barcelona",
+            "cataluña",
+            "conciertos",
+            "música"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-02/omara-portuondo-de-93-anos-sacada-en-brazos-del-escenario-al-desorientarse-al-inicio-de-su-concierto-en-barcelona.html",
+        "date": "2024-10-02 22:55:28",
+        "sentiment_score": -0.14322324842214584
+    },
+    {
+        "title": "El Español contrata, al final, al 35% de los alumnos de la primera promoción del Máster: los cinco elegidos",
+        "image_url": "https://s1.elespanol.com/2024/10/02/actualidad/890421963_249699054_1706x1280.jpg?contentId=ESPIMA20241002_1014",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/sociedad/educacion/20241003/espanol-contrata-final-alumnos-primera-promocion-master-elegidos/890411577_0.html",
+        "date": "2024-10-03 02:11:11",
+        "sentiment_score": 0.16344408504664898
+    },
+    {
+        "title": "[A por ellos] \"La clave está en ser agradecidos\", por Mikel Recalde",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1e132ba2-e90d-4d25-bdde-cfcbd3fa19e7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/10/03/clave-agradecidos-mikel-recalde-8761143.html",
+        "date": "2024-10-03 02:05:49",
+        "sentiment_score": -0.27283045649528503
+    },
+    {
+        "title": "El póquer más buscado",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3023335.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/10/03/2253121/real-mallorca-buscara-cuarta-victoria-consecutiva-como-visitante-ante-rcd-espanyol.html",
+        "date": "2024-10-03 02:00:01",
+        "sentiment_score": 0.010987907648086548
+    },
+    {
+        "title": "Lionel Messi pisará Maturín para enfrentar a Venezuela",
+        "image_url": "./assets/ai_generated/v1_txt2img_a1b4f0b006a943f287fda881d5fbec11.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/188386/lionel-messi-pisara-maturin-para-enfrentar-a-venezuela/",
+        "date": "2024-10-03 01:42:10",
+        "sentiment_score": 0.34442128986120224
+    },
+    {
+        "title": "El Real Madrid cae en Lille y Ancelotti ve cortada su buena racha en Liga de Campeones",
+        "image_url": "./assets/ai_generated/v1_txt2img_8d06d61269d84ae284bff6fdb8b010d0.png",
+        "tags": [
+            "liga de campeones de la uefa",
+            "lille",
+            "fútbol",
+            "deportes",
+            "real madrid"
+        ],
+        "link": "https://eltiempove.com/el-real-madrid-cae-en-lille-y-ancelotti-ve-cortada-su-buena-racha-en-liga-de-campeones/",
+        "date": "2024-10-03 01:33:34",
+        "sentiment_score": -0.5006670951843262
+    },
+    {
+        "title": "Este fue el golazo de James Rodríguez en el entrenamiento del Rayo Vallecano",
+        "image_url": "https://www.infobae.com/resizer/v2/IUPQE4MT6FFHLH77ZOC5TEBXVE.jpg?auth=e5a99079413921764b6a9dfd69594aee77e71e5f1e95e682affe5ba5e569aa11",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/10/02/asi-fue-el-golazo-de-james-rodriguez-en-el-entrenamiento-del-rayo-vallecano/",
+        "date": "2024-10-03 01:33:02",
+        "sentiment_score": 0.19369112700223923
+    },
+    {
+        "title": "Mbappé no puede rescatar a un pálido Real Madrid que cae ante Lille en la Liga de Campeones",
+        "image_url": "./assets/ai_generated/v1_txt2img_58df22830e794c95babc5131d5bac5d7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-10-02/mbappe-no-puede-rescatar-a-un-palido-real-madrid-que-cae-ante-lille-en-la-liga-de-campeones",
+        "date": "2024-10-03 01:14:01",
+        "sentiment_score": -0.8373660165816545
+    },
+    {
+        "title": "Atlético de Madrid, conmocionado tras sufrir su peor goleada en torneos europeos desde 2021",
+        "image_url": "./assets/ai_generated/v1_txt2img_e45e7df7d6354bcc9c1777450c0fd3fa.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-10-02/atletico-de-madrid-conmocionado-tras-sufrir-su-peor-goleada-en-torneos-europeos-desde-2021",
+        "date": "2024-10-03 01:11:50",
+        "sentiment_score": -0.905448604375124
+    },
+    {
+        "title": "Atlético de Madrid, conmocionado tras sufrir su peor goleada en torneos europeos",
+        "image_url": "./assets/ai_generated/v1_txt2img_ec39e4569b4245449f2121f969b4973a.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/atletico-de-madrid-conmocionado-tras-sufrir-su-peor-goleada-en-torneos-europeos/",
+        "date": "2024-10-03 00:50:19",
+        "sentiment_score": -0.30170823633670807
+    },
+    {
+        "title": "Llega a Madrid Chefs On Fire, el festival gastro que reunirá en un sólo espacio a 11 estrellas Michelin",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/64b1538f29e7c97620712912b82b8750/crop/211x142/2477x1653/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/01/17277758393836.jpg",
+        "tags": [
+            "planes",
+            "gastronomía"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2024/10/03/66fbc4cde85ece83788b4584.html",
+        "date": "2024-10-03 00:41:37",
+        "sentiment_score": 0.28549812361598015
+    },
+    {
+        "title": "Jueves 3 de octubre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1105544",
+        "date": "2024-10-03 02:05:59",
+        "sentiment_score": -0.011598505079746246
+    },
+    {
+        "title": "Lionel Messi se afianzó como el futbolista con más títulos de la historia tras ganar la MLS Supporters’ Shield: así está el listado",
+        "image_url": "https://www.infobae.com/resizer/v2/SKRGPW23UFG2DLLFJYCZTPBFHU.jpg?auth=9bf3c387ace3e408faec4daf68cdbd0ce97a14f617ec396947606a6dd813b007",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/10/03/lionel-messi-se-afianzo-como-el-futbolista-con-mas-titulos-de-la-historia-tras-ganar-la-mls-supporters-shield-asi-esta-el-listado/",
+        "date": "2024-10-03 02:01:36",
+        "sentiment_score": 0.7199041247367859
+    },
+    {
+        "title": "Situaciones que esperan respuestas urgentes",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1105547",
+        "date": "2024-10-03 02:00:06",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Marta Alcover: «El paciente mantendrá su cara tras el trasplante»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3023217.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2024/10/03/2253063/marta-alcover-paciente-mantendra-cara-tras-trasplante.html",
+        "date": "2024-10-03 02:00:01",
+        "sentiment_score": -0.06728237867355347
+    },
+    {
+        "title": "Eva Baltasar: «El sistema hace que cualquiera pueda llegar a ser un excluido»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3023259.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/03/2253071/eva-baltasar-sistema-hace-cualquiera-pueda-llegar-ser-excluido.html",
+        "date": "2024-10-03 02:00:01",
+        "sentiment_score": -0.1418687105178833
+    },
+    {
+        "title": "Darder, contra su pasado",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3023423.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/10/03/2253153/rcd-espanyol-real-mallorca-regreso-sergi-darder-cornella.html",
+        "date": "2024-10-03 02:00:01",
+        "sentiment_score": 0.018342584371566772
+    },
+    {
+        "title": "La subida de la ecotasa afectará a 7,5 millones de turistas el próximo verano",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3023271.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2024/10/03/2253079/turismo-mallorca-subida-ecotasa-afectara-mas-millones-turistas-proximo-verano.html",
+        "date": "2024-10-03 02:00:01",
+        "sentiment_score": 0.44888635724782944
+    },
+    {
+        "title": "El Festival de Cine se abre con autores bercianos",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/02/66fd89c15119a.jpeg",
+        "tags": [
+            "el bierzo"
+        ],
+        "link": "https://www.diariodeleon.es/bierzo/241003/1635065/festival-cine-abre-autores-bercianos.html",
+        "date": "2024-10-03 01:30:00",
+        "sentiment_score": 0.24427999556064606
+    },
+    {
+        "title": "Feid anunció la apertura de su tienda de moda: tendría locales en Medellín, Nueva York, Milán y Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/BONZXIDBTNGMZDDGEJPGTWC7IU.jpg?auth=7cfcee4642ee0934e63ac0f141e48e0f4b44315ab8c73034a40e02e3909e5e13",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/10/03/feid-anuncio-la-apertura-de-su-tienda-de-moda-tendria-locales-en-medellin-nueva-york-milan-y-madrid/",
+        "date": "2024-10-03 01:23:49",
+        "sentiment_score": 0.3655813354998827
     }
 ];
