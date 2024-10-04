@@ -178,45 +178,6 @@ export default [
         "sentiment_score": 0.023091554641723633
     },
     {
-        "title": "“Si ella no está conectada, deja de respirar”: El efecto de los apagones para las personas electrodependientes en Ecuador",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21000317-82142-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ecuador",
-            "fast – news variety",
-            "apagones ecuador",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/apagones-ecuador-respiradores-electrodependientes-ecuador-tv/",
-        "date": "2024-09-30 13:27:35",
-        "sentiment_score": -0.7764951810240746
-    },
-    {
-        "title": "Guerra entre Israel y Hezbollah en Líbano, en vivo: noticias y última hora",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/GettyImages-2174860128-e1727698922434.jpg?quality=100&strip=info",
-        "tags": [
-            "israel noticias",
-            "hezbollah",
-            "líbano",
-            "minuto a minuto",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/09/30/guerra-israel-hezbollah-libano-noticias-trax/",
-        "date": "2024-09-30 12:24:29",
-        "sentiment_score": -0.8907726686447859
-    },
-    {
-        "title": "7 frases de Andrés Manuel López Obrador que dieron que hablar en su sexenio",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/mananeras-amlo-moments.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "amlo",
-            "andrés manuel lópez obrador",
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/frases-virales-amlo-mananeras-gobierno/",
-        "date": "2024-09-30 12:16:31",
-        "sentiment_score": -0.16388219594955444
-    },
-    {
         "title": "La UE y su difícil relación con China",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/01/241001TerceraGarcia-ReX2A2WLlUkWbFakSpx6ToM-350x624@diario_abc.jpg",
         "tags": [
@@ -470,23 +431,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2024-09-30/diana-morant-renuncia-a-su-cargo-en-la-ejecutiva-del-psoe-para-liderar-el-pspv-en-el-congreso-federal-de-sevilla.html",
         "date": "2024-09-30 15:00:50",
         "sentiment_score": 0.21242684870958328
-    },
-    {
-        "title": "El Gobierno desoye recomendaciones de la ONU sobre los saharauis retenidos en Barajas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/REEWSS2VMSKV4YT6QODGT7MCHE.jpg?auth=d27025350dc893d827f0c745d2008fe428179acfb8ff6c5b82bcbaba6a6fd793&width=1200",
-        "tags": [
-            "aeropuerto madrid barajas",
-            "sahara occidental",
-            "acnur",
-            "españa",
-            "asilo político",
-            "fernando grande-marlaska",
-            "onu",
-            "conflicto saharaui"
-        ],
-        "link": "https://elpais.com/espana/2024-09-30/el-gobierno-desoye-recomendaciones-de-la-onu-sobre-los-saharauis-retenidos-en-barajas.html",
-        "date": "2024-09-30 14:12:16",
-        "sentiment_score": -0.14529649913311005
     },
     {
         "title": "'Las cosas son como somos', el nuevo reto teatral sobre las amistades hombre-mujer",
@@ -7884,5 +7828,397 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20241004/el-juzgado-de-barcelona-quiebra-necesaria-zeena/890661024_0.html",
         "date": "2024-10-03 22:00:00",
         "sentiment_score": 0.0698574110865593
+    },
+    {
+        "title": "Edmundo González es homenajeado por los asistentes al Foro La Toja",
+        "image_url": "./assets/ai_generated/v1_txt2img_12a756ab0833494d8d46fc26ce823c27.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/03/edmundo-gonzalez-es-homenajeado-por-los-asistentes-al-foro-la-toja/",
+        "date": "2024-10-04 02:02:59",
+        "sentiment_score": 0.7829951718449593
+    },
+    {
+        "title": "Málaga: la predicción del tiempo para este 4 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/UHIC3PILXFGN7JJCRRPW5QVFCU.jpg?auth=62b4bb398f315f74d16c149f4519782c6f29ee857bfc9e00a2eb7c6b37ae1c93",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/04/malaga-la-prediccion-del-tiempo-para-este-4-de-octubre/",
+        "date": "2024-10-04 02:01:56",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Padilla (Sumar) cree que las bajas flexibles \"bien implementadas\" pueden ser beneficiosas",
+        "image_url": "./assets/ai_generated/v1_txt2img_ec21c13e19584e60a2667e0941a83120.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/03/padilla-sumar-cree-que-las-bajas-flexibles-bien-implementadas-pueden-ser-beneficiosas/",
+        "date": "2024-10-04 01:47:33",
+        "sentiment_score": 0.45226867124438286
+    },
+    {
+        "title": "González y Rajoy reivindican el bipartidismo y avalan \"resetear\" la Constitución",
+        "image_url": "./assets/ai_generated/v1_txt2img_f4a22cbd78e9448fb0b0a80c98832ac8.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/03/gonzalez-y-rajoy-reivindican-el-bipartidismo-y-avalan-resetear-la-constitucion/",
+        "date": "2024-10-04 01:47:14",
+        "sentiment_score": 0.41771383583545685
+    },
+    {
+        "title": "El cubano Pisani presentará su primer documental como director en un festival en España",
+        "image_url": "./assets/ai_generated/v1_txt2img_47e9b59d216747498c85eb4b5d485100.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/03/el-cubano-pisani-presentara-su-primer-documental-como-director-en-un-festival-en-espana/",
+        "date": "2024-10-04 01:46:53",
+        "sentiment_score": 0.21237797290086746
+    },
+    {
+        "title": "Sin incidentes en la entrada de los seguidores del AZ en San Mamés",
+        "image_url": "./assets/ai_generated/v1_txt2img_a9e695666c8d4c8286f9d08f6013e806.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/03/sin-incidentes-en-la-entrada-de-los-seguidores-del-az-en-san-mames/",
+        "date": "2024-10-04 01:45:39",
+        "sentiment_score": 0.29997609928250313
+    },
+    {
+        "title": "El escritor Soto Ivars condena la intransigencia de una cultura que consideran \"peligrosa\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_6787652e65ab4f10901cfdba7d9b2aef.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/03/el-escritor-soto-ivars-condena-la-intransigencia-de-una-cultura-que-consideran-peligrosa/",
+        "date": "2024-10-04 01:33:15",
+        "sentiment_score": 0.27920912206172943
+    },
+    {
+        "title": "RTVEPlay prepara una miniserie documental sobre la vida y obra de Jesús Quintero",
+        "image_url": "./assets/ai_generated/v1_txt2img_6b4f57a69cd64350b903eb026a626168.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/03/rtveplay-prepara-una-miniserie-documental-sobre-la-vida-y-obra-de-jesus-quintero/",
+        "date": "2024-10-04 01:32:55",
+        "sentiment_score": 0.2037402242422104
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 4 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/WXDQNDAMXRH55EJ4KPK4PD42EI.jpg?auth=e88f2a8b2a0c773e66f884445dd748c9a80b3d11b0d57156c81a7204ab42cc45",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/04/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-4-de-octubre/",
+        "date": "2024-10-04 01:31:22",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Nace una nueva guía ibérica de vinos de España y Portugal",
+        "image_url": "./assets/ai_generated/v1_txt2img_abc102472a46430aa0fd6081cc6e2580.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/03/nace-una-nueva-guia-iberica-de-vinos-de-espana-y-portugal/",
+        "date": "2024-10-04 01:30:22",
+        "sentiment_score": 0.2512173671275377
+    },
+    {
+        "title": "China presenta nuevo avión de pasajeros para competir contra gigantes de la industria",
+        "image_url": "./assets/ai_generated/v1_txt2img_a2663e5a39494e93839dccf169aa068e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/china-presenta-avion-pasajeros-trax",
+        "date": "2024-10-04 02:07:18",
+        "sentiment_score": 0.6602594684809446
+    },
+    {
+        "title": "Exfiscal destituida por caso Evo Morales asegura que tenía todas las pruebas para aprehender al expresidente",
+        "image_url": "./assets/ai_generated/v1_txt2img_b5b23f99ff354a7393f9957c95c5525d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/evo-morales-trata-fiscal-tarija-sandra-destituida-caso-conclusiones-tv",
+        "date": "2024-10-04 02:03:59",
+        "sentiment_score": -0.5988583751022816
+    },
+    {
+        "title": "Exfiscal destituida por caso Evo Morales asegura que tenía todas las pruebas para aprehender al expresidente",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1719478983.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bolivia",
+            "trata de personas",
+            "evo morales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/evo-morales-trata-fiscal-tarija-sandra-destituida-caso-conclusiones-tv/",
+        "date": "2024-10-04 02:03:59",
+        "sentiment_score": -0.7074477784335613
+    },
+    {
+        "title": "La fiscal Sandra Gutiérrez denuncia despido tras emitir orden contra Evo Morales por presunta trata de personas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171843763.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bolivia",
+            "fernando del r",
+            "zona andina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/evo-morales-sandra-gutierrez-despido-trata-de-personas-fdr-conclusiones-tv-fast/",
+        "date": "2024-10-04 02:02:46",
+        "sentiment_score": -0.6663756817579269
+    },
+    {
+        "title": "Fiscales de Los Ángeles revisarán nuevas pruebas en la condena por homicidio premeditado de 1996 de los hermanos Menéndez",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762095-hermanos-menendez.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "crimen",
+            "instanoticias",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/03/hermanos-menendez-fiscales-revisaran-pruebas-condena-ap/",
+        "date": "2024-10-04 02:01:46",
+        "sentiment_score": -0.49765442684292793
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 3 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175524710.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-3-de-octubre-2024-panorama-fast",
+        "date": "2024-10-04 01:45:14",
+        "sentiment_score": 0.14560995623469353
+    },
+    {
+        "title": "No, la huelga portuaria no causará escasez de papel higiénico. Te lo explicamos",
+        "image_url": "./assets/ai_generated/v1_txt2img_a7833dd9ebc34a238d9c64d120b2306e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/puerto-huelga-papel-higienico-de-bano-trax/",
+        "date": "2024-10-04 01:24:50",
+        "sentiment_score": -0.7006580848246813
+    },
+    {
+        "title": "Encuentran restos del buque de guerra estadounidense conocido como \"Barco Fantasma del Pacífico\" en condiciones \"excepcionales\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762064-hisas-image-logo-copy.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "barco hundido",
+            "noticias de ee.uu.",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/03/encuentran-restos-buque-guerra-estadounidense-trax/",
+        "date": "2024-10-04 01:05:47",
+        "sentiment_score": -0.8522528056055307
+    },
+    {
+        "title": "Familiares de jóvenes detenidos en Venezuela exigen su liberación",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758691-estan-acabando-con-nuestros-suenos-el-reclamo-de-menores-detenidos-en-venezuela.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "detenidos venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/03/familiares-jovenes-detenidos-venezuela-exigen-liberacion-orix/",
+        "date": "2024-10-04 00:22:15",
+        "sentiment_score": -0.2769363299012184
+    },
+    {
+        "title": "Las campañas de Harris y Trump se disputan a los cruciales votantes latinos en la reñida Pensilvania",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762045-c-still-21011259-24024-323-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones ee.uu",
+            "política",
+            "voto latino"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/03/harris-trump-cruciales-votantes-latinos-pensilvania-trax/",
+        "date": "2024-10-04 00:07:45",
+        "sentiment_score": 0.018062397837638855
+    },
+    {
+        "title": "El Gobierno evita dar más margen de gestión a las CC.AA. en los fondos UE pese al frenazo en su ejecución",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/04/carloscuerpoefe-RwhxyryazNuyuSp20Btc3XN-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-evita-dar-margen-gestion-ccaa-fondos-20241004201945-nt.html",
+        "date": "2024-10-04 02:13:55",
+        "sentiment_score": -0.051552027463912964
+    },
+    {
+        "title": "Israel ordena una evacuación masiva en el sur del Líbano y moviliza más tropas en la frontera",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/d2/media_thumb_2x-link-3986027.webp",
+        "tags": [
+            "líbano",
+            "idf",
+            "actualidad",
+            "nabatieh",
+            "invasión",
+            "evacuación",
+            "israel",
+            "fdi",
+            "guerra.hizbolá"
+        ],
+        "link": "https://www.meneame.net/story/israel-ordena-evacuacion-masiva-sur-libano-moviliza-mas-tropas",
+        "date": "2024-10-04 00:55:02",
+        "sentiment_score": -0.6527811661362648
+    },
+    {
+        "title": "Los cinco mejores cargadores de carga rápida del mercado",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/10/04/close-up-of-black-businesswoman-charging-cell-phon-2023-11-27-05-34-54-utc-RRIbtetkVizOuotiWGsXNaK-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/moviles/cinco-mejores-cargadores-carga-rapida-mercado-20241004002040-nt.html",
+        "date": "2024-10-03 22:22:52",
+        "sentiment_score": -0.06180107593536377
+    },
+    {
+        "title": "Leganés, primera final de la temporada para el Valencia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7ba0d0d8-788b-48d6-8d9c-76d591a2da99_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/04/leganes-primera-final-temporada-valencia-108892546.html",
+        "date": "2024-10-04 02:02:06",
+        "sentiment_score": 0.02283257246017456
+    },
+    {
+        "title": "Sólo sin cargo para residentes",
+        "image_url": "https://uh.gsstatic.es/autor/angeles-duran/10593.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/04/2253515/solo-cargo-para-residentes.html",
+        "date": "2024-10-04 02:00:01",
+        "sentiment_score": -0.017216980457305908
+    },
+    {
+        "title": "Aseguran que el Inter Miami y Messi jugarán el Mundial de Clubes 2025",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/G7ZGIMA3JRH6FI6UBYHTVB5LGY.jpg?auth=16c365d603254c366be49d4c8ff5dbea72b1a230c3e26c5408e018c2996c1e5d&height=1440&smart=true&width=1440",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2024/10/04/aseguran-que-el-inter-de-miami-jugara-el-mundial-de-clubes-2025/",
+        "date": "2024-10-04 01:59:15",
+        "sentiment_score": 0.3887539207935333
+    },
+    {
+        "title": "Ácaros y hongos: cómo nos afectan y cómo combatir las alergias más típicas del otoño",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ab77d5f-f9c2-4afe-8a08-2165c4993713_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/salud/guia/2024/10/04/acaros-hongos-afectan-combatir-alergias-93413362.html",
+        "date": "2024-10-04 01:59:00",
+        "sentiment_score": -0.8839835338294506
+    },
+    {
+        "title": "‘Trabajar como un negro’ no tiene ‘afritud’",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/03/66fef1ea58750.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/241004/1636006/trabajar-negro-afritud.html",
+        "date": "2024-10-04 01:30:00",
+        "sentiment_score": -0.8417912852019072
+    },
+    {
+        "title": "La guerra entre Evo Morales y Luis Arce incluye denuncias de abuso sexual en la justicia y provoca alarmas en la izquierda regional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ea57df9-3266-4de4-bb1f-8def37015202_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/10/04/guerra-evo-morales-luis-arce-108894896.html",
+        "date": "2024-10-04 01:23:05",
+        "sentiment_score": -0.5607228502631187
+    },
+    {
+        "title": "Viernes 4 de octubre de 2024 (1:00 GMT)",
+        "image_url": "./assets/ai_generated/v1_txt2img_8302b703774645fe91eab5f144f60372.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/04/viernes-4-de-octubre-de-2024-100-gmt/",
+        "date": "2024-10-04 01:15:55",
+        "sentiment_score": -0.01081649586558342
+    },
+    {
+        "title": "El crudo análisis sobre el momento de Julián Álvarez en el Atlético de Madrid y un llamativo diálogo con Simeone: “Se desmoralizó”",
+        "image_url": "https://www.infobae.com/resizer/v2/SEOROBXZ7ZQQCEFVCZ3XAOUA7Y.jpg?auth=8fbfd2005fdcfcb97e4c0af7188f6110b1ea8874972eb853e10e6c7b661bfb18",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/10/04/el-crudo-analisis-sobre-el-momento-de-julian-alvarez-en-el-atletico-de-madrid-y-un-llamativo-dialogo-con-simeone-se-desmoralizo/",
+        "date": "2024-10-04 01:12:56",
+        "sentiment_score": -0.23919763043522835
+    },
+    {
+        "title": "FIFA abre mercado de pases especial para el Mundial de Clubes 2025",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/AP19311748643237-e1728002435450.jpg",
+        "tags": [
+            "deportes",
+            "fifa",
+            "mundial de clubes",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/10/03/fifa-abre-mercado-de-pases-especial-para-el-mundial-de-clubes-2025/",
+        "date": "2024-10-04 00:41:34",
+        "sentiment_score": 0.34048251807689667
+    },
+    {
+        "title": "Kevin Roldán aclaró rumores sobre una demanda de Cristiano Ronaldo tras cantar en una fiesta",
+        "image_url": "https://www.infobae.com/resizer/v2/ZOSILMPIQNF2BDTUIXBK2K6KUI.jpg?auth=5597f9770a3d484296d66f9e06fd8ca225321b844db067209f03596409855e7b",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/10/04/kevin-roldan-aclaro-rumores-sobre-una-demanda-de-cristiano-ronaldo-tras-cantar-en-una-fiesta/",
+        "date": "2024-10-04 00:37:05",
+        "sentiment_score": 0.30691635608673096
+    },
+    {
+        "title": "Las normas del campo para \"educar\" los urbanitas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c887fb12-10e5-4c88-b80d-c9fa5fe152ea_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/cuencas/2024/10/04/normas-campo-educar-urbanitas-108891897.html",
+        "date": "2024-10-04 02:09:00",
+        "sentiment_score": -0.7723242118954659
+    },
+    {
+        "title": "Av. García Lorca: corredor verde o autopista urbana",
+        "image_url": "./assets/ai_generated/v1_txt2img_85901522c1b64615bcd358b21b82f899.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/10/04/av-garcia-lorca-corredor-verde-108892424.html",
+        "date": "2024-10-04 02:02:01",
+        "sentiment_score": -0.18588890135288239
+    },
+    {
+        "title": "Jagoba tiene la fórmula",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3025125.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/10/04/2253787/rcd-espanyol-real-mallorca-jagoba-arrasate-contra-uno-rivales-favoritos.html",
+        "date": "2024-10-04 02:00:01",
+        "sentiment_score": -0.06650230288505554
+    },
+    {
+        "title": "Ácaros y hongos: cómo nos afectan y cómo combatir las alergias más típicas del otoño",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ab77d5f-f9c2-4afe-8a08-2165c4993713_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elperiodico.com/es/salud/20241004/acaros-hongos-afectan-combatir-alergias-93413368",
+        "date": "2024-10-04 01:59:00",
+        "sentiment_score": -0.85266805998981
     }
 ];
