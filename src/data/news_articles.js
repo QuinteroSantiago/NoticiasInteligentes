@@ -478,26 +478,6 @@ export default [
         "sentiment_score": -0.7044505067169666
     },
     {
-        "title": "El PP registra su proposición de ley sobre conciliación: “No es ni derechas ni de izquierdas, sino útil”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XS4MJAYZWCHXMNTGGLU6BXCSOE.jpg?auth=8207299b4a0d993e83ceb61538740b9654957071de3aa0d34bea23be131b5f6d&width=1200",
-        "tags": [
-            "pp",
-            "ministerio de trabajo y economía social",
-            "ceoe",
-            "congreso diputados",
-            "esperanza aguirre",
-            "conciliación laboral",
-            "familia",
-            "alberto núñez feijóo",
-            "isabel díaz ayuso",
-            "españa",
-            "yolanda díaz"
-        ],
-        "link": "https://elpais.com/espana/2024-10-01/el-pp-registra-su-proposicion-de-ley-sobre-conciliacion-no-es-ni-derechas-ni-de-izquierdas-sino-util.html",
-        "date": "2024-10-01 13:58:19",
-        "sentiment_score": 0.43138696253299713
-    },
-    {
         "title": "Ancelotti: «Los violentos no pueden estar en un campo de fútbol ni en la sociedad»",
         "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/01/ancelotti-koVC-U2201388878690dsC-1200x840@RC.JPG",
         "tags": [
@@ -7984,5 +7964,428 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/pensamiento/20241005/sobre-erc-el-rebano-congreso-del-noviembre/891040892_13.html",
         "date": "2024-10-04 22:00:00",
         "sentiment_score": -0.028142482042312622
+    },
+    {
+        "title": "Clima en Málaga: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/57EP4PEUVZHXZNTR7PQ6HADTRA.jpg?auth=e811d6bf7a2bb2225208f7006000d9f4077451ac835b19765ce5fcdf3216fbe5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/05/clima-en-malaga-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2024-10-05 02:02:40",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Presidentes de CC.AA urgen negociar el sistema de financiación autonómica",
+        "image_url": "./assets/ai_generated/v1_txt2img_93b996900183492d9a714d2c52c02503.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/04/presidentes-de-ccaa-urgen-negociar-el-sistema-de-financiacion-autonomica/",
+        "date": "2024-10-05 01:32:54",
+        "sentiment_score": -0.1514100506901741
+    },
+    {
+        "title": "Francia dice que Marruecos es un \"socio excepcional\" a pesar de sentencia sobre el Sáhara",
+        "image_url": "./assets/ai_generated/v1_txt2img_b77f710084924832bd3efd8d5c488ccb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/04/francia-dice-que-marruecos-es-un-socio-excepcional-a-pesar-de-sentencia-sobre-el-sahara/",
+        "date": "2024-10-05 01:32:35",
+        "sentiment_score": 0.3851941078901291
+    },
+    {
+        "title": "Neyou vuelve tras lesión como titular y el Valencia presenta cuatro cambios",
+        "image_url": "./assets/ai_generated/v1_txt2img_f776f196cadc4699afa5fa612e6c58c3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/04/neyou-vuelve-tras-lesion-como-titular-y-el-valencia-presenta-cuatro-cambios/",
+        "date": "2024-10-05 01:32:16",
+        "sentiment_score": 0.3849867209792137
+    },
+    {
+        "title": "Exjefes de Gobierno de España y América Latina discutirán en Miami situación de Venezuela",
+        "image_url": "./assets/ai_generated/v1_txt2img_15a11c93fb894d6db772696607e363b9.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/04/exjefes-de-gobierno-de-espana-y-america-latina-discutiran-en-miami-situacion-de-venezuela/",
+        "date": "2024-10-05 01:31:57",
+        "sentiment_score": 0.05575170740485191
+    },
+    {
+        "title": "Ranking Disney+: las películas preferidas este día por el público español",
+        "image_url": "https://www.infobae.com/resizer/v2/4JFIVFFBVFG2NLMXKPH3EF734E.jpg?auth=1850d461510753e5cb161e8e7f2f1ff08271e7e7a3a19be0055c395a1b9ef06e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/05/ranking-disney-las-peliculas-preferidas-este-dia-por-el-publico-espanol/",
+        "date": "2024-10-05 01:31:46",
+        "sentiment_score": 0.7270177267491817
+    },
+    {
+        "title": "Rueda, Clavijo y Prohens urgen negociar el sistema de financiación autonómica",
+        "image_url": "./assets/ai_generated/v1_txt2img_f9e69f3523e34a9a936605d19cb106c4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/04/rueda-clavijo-y-prohens-urgen-negociar-el-sistema-de-financiacion-autonomica/",
+        "date": "2024-10-05 01:31:38",
+        "sentiment_score": -0.7744161933660507
+    },
+    {
+        "title": "Las mejores películas en Netflix en España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/6SFQQLTB6NEEBF2L2SCSPVA44A.jpg?auth=ecf40aa2523a7e8b23fc243ec1f9788d7b124fd2cabc4f3fff0736149d689b45",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/05/las-mejores-peliculas-en-netflix-en-espana-hoy/",
+        "date": "2024-10-05 01:31:23",
+        "sentiment_score": 0.21778477728366852
+    },
+    {
+        "title": "Marlaska ensalza la labor de la Policía Nacional, premiada por Víctimas del Terrotrismo",
+        "image_url": "./assets/ai_generated/v1_txt2img_79dec3cb469c405faedb5e8aa6cb0363.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/04/marlaska-ensalza-la-labor-de-la-policia-nacional-premiada-por-victimas-del-terrotrismo/",
+        "date": "2024-10-05 01:31:20",
+        "sentiment_score": 0.29673659801483154
+    },
+    {
+        "title": "Top de películas imprescindibles para ver HOY en Prime Video España",
+        "image_url": "https://www.infobae.com/resizer/v2/ZC2KVKNEKNCSXHCEE27NYWBYZY.jpg?auth=13c75e8f4330a7a05c8c760225580b50be7b445ce2e51b1a8f321b29036f050c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/10/05/top-de-peliculas-imprescindibles-para-ver-hoy-en-prime-video-espana/",
+        "date": "2024-10-05 01:31:04",
+        "sentiment_score": 0.8811986930668354
+    },
+    {
+        "title": "¿Qué consecuencias electorales podría haber en EE.UU. por un conflicto entre Israel e Irán?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2173799165.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "ataque israel hezbollah",
+            "demócratas",
+            "israel",
+            "elecciones ee.uu",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/libano-israel-guerra-hezbollah-destruccion-incursion-militar-conclusiones-tv/",
+        "date": "2024-10-05 02:10:39",
+        "sentiment_score": -0.7551728207617998
+    },
+    {
+        "title": "República Dominicana intensifica operativos contra indocumentados haitianos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762640-haitianos-republica-domincana.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "república dominicana",
+            "inmigrantes indocumentados",
+            "inmigrantes haitianos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/04/republica-dominicana-intensifica-operativos-indocumentados-haitianos-orix/",
+        "date": "2024-10-05 01:26:20",
+        "sentiment_score": -0.47239527106285095
+    },
+    {
+        "title": "Las noticias destacadas de la noche del 4 de octubre en CNN en Español",
+        "image_url": "./assets/ai_generated/v1_txt2img_37971c47a9ec4909878f98950aa94dce.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-4-de-octubre-2024-panorama-fast",
+        "date": "2024-10-05 01:24:18",
+        "sentiment_score": 0.06058793142437935
+    },
+    {
+        "title": "Los bosques de Costa Rica que conquistan a turistas están en la mira del narcotráfico para esquivar vigilancia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762597-costa-rica-bosques.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "costa rica",
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/04/costa-rica-bosques-narcotrafico-turismo-orix/",
+        "date": "2024-10-05 00:05:09",
+        "sentiment_score": -0.3859027177095413
+    },
+    {
+        "title": "Asociación internacional acusa a fiscal general de Guatemala de \"favorecer la impunidad\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2151415883.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guatemala-consuelo-porras-bernardo-arevalo-guatemala-impunidad-aristegui-tv/",
+        "date": "2024-10-05 00:03:45",
+        "sentiment_score": -0.8351478632539511
+    },
+    {
+        "title": "Asociación internacional dice que Arévalo \"defiende valores democráticos\" en el caso de la fiscal Porras",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2151379498.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guatemala-consuelo-porras-destitucion-fiscal-aristegui-tv/",
+        "date": "2024-10-05 00:03:40",
+        "sentiment_score": -0.2948402464389801
+    },
+    {
+        "title": "Funcionarios de seguridad de EE.UU. advierten sobre posibles amenazas por el aniversario del 7 de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762582-aniversario-7-octubre.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "amenaza",
+            "noticias de ee.uu.",
+            "terrorismo"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/04/7-octubre-aniversario-advertencia-posibles-amenazas-estados-unidos-trax/",
+        "date": "2024-10-05 00:02:01",
+        "sentiment_score": -0.4838776998221874
+    },
+    {
+        "title": "La WNBA elige a Caitlin Clark como la jugadora novata de la temporada",
+        "image_url": "./assets/ai_generated/v1_txt2img_e1f86dd5211c43fdbdb16eb36c8dfd0f.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/wnba-mvp-caitlin-clark-basquetbol-cnn-deportes-tv",
+        "date": "2024-10-04 23:50:37",
+        "sentiment_score": 0.7462559826672077
+    },
+    {
+        "title": "Rescatan en Gaza a mujer yazidí capturada por ISIS tras más de una década cautiva",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762566-2024-10-03t191130z-1709031998-rc27daaxebij-rtrmadp-3-israel-palestinians-iraq-yazidi-gaza.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "iraq",
+            "medio oriente",
+            "terrorismo"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/04/rescatan-gaza-mujer-yazidi-capturada-isis-trax/",
+        "date": "2024-10-04 23:44:23",
+        "sentiment_score": -0.5311192348599434
+    },
+    {
+        "title": "Evo Morales acusa a Luis Arce de promover procesos penales en su contra “con cualquier calumnia”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/evo-morales-luis-arce.png",
+        "tags": [
+            "bolivia",
+            "evo morales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/04/evo-morales-acusa-luis-arce-de-promover-proceso-penales-orix/",
+        "date": "2024-10-04 23:37:50",
+        "sentiment_score": -0.8814187534153461
+    },
+    {
+        "title": "Viaje al memorial del Nova, epicentro del duelo israelí por la matanza de Hamás",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/05/israel-espiritus-nova-keSB-U603156094586Ti-1200x672@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/viaje-memorial-nova-epicentro-duelo-israeli-matanza-20241005202012-nt.html",
+        "date": "2024-10-05 02:09:25",
+        "sentiment_score": -0.15227332711219788
+    },
+    {
+        "title": "Magyar presentó pruebas de que las patentes de Talgo no eran un problema de seguridad nacional",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/05/ModelodeAVEfabricadoporTalgo-RkX4EuEmewKdOOZUg3uX8zI-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/magyar-presento-pruebas-patentes-talgo-problema-seguridad-20241005180400-nt.html",
+        "date": "2024-10-05 02:08:15",
+        "sentiment_score": -0.09232455492019653
+    },
+    {
+        "title": "La oferta del Gobierno para renovar el concierto de Muface dejaría pérdidas de 500 millones a las aseguradoras",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/05/MufaceEP-RT9U0aWc1DkBwgrkeJlMZfK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/oferta-gobierno-renovar-concierto-muface-dejaria-perdidas-20241005194543-nt.html",
+        "date": "2024-10-05 02:06:57",
+        "sentiment_score": -0.0920652449131012
+    },
+    {
+        "title": "El Real Mallorca mide la altura de su vuelo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3026587.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/10/05/2254269/rcd-espanyol-real-mallorca-previa-del-partido-novena-jornada-laliga-easports.html",
+        "date": "2024-10-05 02:00:01",
+        "sentiment_score": -0.010303735733032227
+    },
+    {
+        "title": "James Rodríguez buscará su primer gol en la Liga Española: hora y dónde ver Valladolid vs. Rayo Vallecano",
+        "image_url": "https://www.infobae.com/resizer/v2/DWW6LCJ6CFDW7EZNW2OV34ZLYY.jpg?auth=4489c9c4fa850c89501266fa388786f84fd7ee531ed9970c85e68dd60c43ae63",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/10/05/james-rodriguez-buscara-su-primer-gol-en-la-liga-espanola-hora-y-donde-ver-valladolid-vs-rayo-vallecano/",
+        "date": "2024-10-05 01:34:32",
+        "sentiment_score": 0.38582287915050983
+    },
+    {
+        "title": "¿Vergüenza lo de FEVE en León?",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/04/66ffea3f9d924.jpeg",
+        "tags": [
+            "tribunas"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/tribunas/241005/1636550/verguenza-feve-leon.html",
+        "date": "2024-10-05 01:30:00",
+        "sentiment_score": -0.8799549154937267
+    },
+    {
+        "title": "Marcelino: \"No pretendemos ser un invitado de piedra en el Bernabéu\"",
+        "image_url": "https://www.infobae.com/resizer/v2/4NJUMMTBWJF6FM3BPJ6BVIPH2E.jpg?auth=6132a3eec47405c1d8c32a9119c1c00549db494db91972bd8cd71a7f51c81a50",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/04/marcelino-no-pretendemos-ser-un-invitado-de-piedra-en-el-bernabeu/",
+        "date": "2024-10-05 01:15:42",
+        "sentiment_score": 0.7664774022996426
+    },
+    {
+        "title": "El Atlético identifica a dos encapuchados y serán \"expulsados de forma permanente\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_0eec2f74ec26495fbf1df7d7b6ff2a91.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/04/el-atletico-identifica-a-dos-encapuchados-y-seran-expulsados-de-forma-permanente/",
+        "date": "2024-10-05 01:03:10",
+        "sentiment_score": -0.7469157744199038
+    },
+    {
+        "title": "¿Existe alguna solución a la vista para que Chus Mateo logre enderezar el rumbo del Real Madrid?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/05/2024100502584470648.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/existe-alguna-solucion-vista-que-chus-mateo-logre-enderezar-rumbo-real-madrid/20241005030245319772.html",
+        "date": "2024-10-05 01:02:45",
+        "sentiment_score": 0.2490241602063179
+    },
+    {
+        "title": "Diego Epifanio: \"Pensar que somos buenísimos por ganar al Real Madrid sería un fracaso\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_2b6cf7bac03241d1b117983019b94dfb.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/04/diego-epifanio-pensar-que-somos-buenisimos-por-ganar-al-real-madrid-seria-un-fracaso/",
+        "date": "2024-10-05 00:15:40",
+        "sentiment_score": 0.4200907424092293
+    },
+    {
+        "title": "\"El Sáhara es un territorio distinto de Marruecos\": el TJUE desmonta los pactos de Bruselas y el giro de Sánchez",
+        "image_url": "https://s1.elespanol.com/2024/10/05/actualidad/891170877_249766966_1706x1280.jpg?contentId=ESPIMA20241005_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mundo/africa/20241005/sahara-territorio-distinto-marruecos-tjue-desmonta-pactos-bruselas-giro-sanchez/890911378_0.html",
+        "date": "2024-10-05 00:13:21",
+        "sentiment_score": 0.3241001218557358
+    },
+    {
+        "title": "Desmontando el 'negocio' de las hogazas a 5 euros en Madrid: precio de oro y dudas de los consumidores",
+        "image_url": "https://s1.elespanol.com/2024/10/04/reportajes/890921667_249758793_1706x960.jpg?contentId=ESPIMA20241004_0768",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241005/desmontando-negocio-hogazas-euros-madrid-precio-oro-dudas-consumidores/890911387_0.html",
+        "date": "2024-10-05 00:13:06",
+        "sentiment_score": -0.7818351034075022
+    },
+    {
+        "title": "La Academia de las Artes Escénicas otorga una medalla de oro al Palacio Valdés",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4cd2dc89-3211-429a-b8f0-2d46c74c4e50_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/aviles/2024/10/05/academia-artes-escenicas-otorga-medalla-108930192.html",
+        "date": "2024-10-05 02:10:00",
+        "sentiment_score": 0.2624252885580063
+    },
+    {
+        "title": "Qui es mou no surt a la foto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c413b0ed-1c50-40d1-88f0-24fa0dba4899_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/postdata/2024/10/05/qui-mou-surt-foto-108925907.html",
+        "date": "2024-10-05 02:00:14",
+        "sentiment_score": -0.4687190502882004
+    },
+    {
+        "title": "El problema",
+        "image_url": "https://uh.gsstatic.es/autor/amaya-michelena/416.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/05/2254123/problema-4.html",
+        "date": "2024-10-05 02:00:01",
+        "sentiment_score": -0.24286703765392303
+    },
+    {
+        "title": "Manolo Mancha pone letra y música a los tartesos",
+        "image_url": "https://s1.ppllstatics.com/hoy/guarena/multimedia/2024/10/05/retocada-foto-para-la-web.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://guarena.hoy.es/manolo-mancha-pone-letra-musica-tartesos-20241005022313-nt.html",
+        "date": "2024-10-05 00:26:13",
+        "sentiment_score": -0.025717690587043762
+    },
+    {
+        "title": "Siguen los festejos del Inter Miami tras ganar la MLS Supporters’ Shield: la particular celebración de Messi y Suárez con los fanáticos",
+        "image_url": "https://www.infobae.com/resizer/v2/IVPP36AKLYFAM7XBIGEMZW6OOA.jpg?auth=247116105eb19266e491009c2ff22af0ddf8b16343b5c3b419b59e61d4ad0044",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/10/05/siguen-los-festejos-del-inter-miami-tras-ganar-la-mls-supporters-shield-la-particular-celebracion-de-messi-y-suarez-con-los-fanaticos/",
+        "date": "2024-10-05 00:22:16",
+        "sentiment_score": 0.23813734203577042
+    },
+    {
+        "title": "Las cinco estatuas del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/18/culemania/historias-del-barca/886921424_13461012_1706x960.png?contentId=ESPIMA20240918_0125",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20241005/las-cinco-estatuas-del-barca/886911397_0.html",
+        "date": "2024-10-05 00:11:08",
+        "sentiment_score": 0.1199849545955658
+    },
+    {
+        "title": "Las 12 empresas que han hecho de España el mayor productor de marihuana medicinal de Europa: del 'rey' Don Bellamy a los Comas",
+        "image_url": "https://s1.elespanol.com/2024/10/04/reportajes/890921538_249754695_1706x960.jpg?contentId=ESPIMA20241004_0639",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241005/empresas-hecho-espana-mayor-productor-marihuana-medicinal-europa-rey-don-bellamy-comas/890161559_0.html",
+        "date": "2024-10-05 00:08:03",
+        "sentiment_score": 0.6478108502924442
+    },
+    {
+        "title": "Quién gana y quién pierde en la Sevilla del boom cofrade: \"Nos gustaría que se repartieran esos eventos\"",
+        "image_url": "https://s1.elespanol.com/2024/10/04/sevilla/890921547_249754973_1706x960.jpg?contentId=ESPIMA20241004_0648",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/sevilla/20241005/gana-pierde-sevilla-boom-cofrade-gustaria-repartieran-eventos/890911083_0.html",
+        "date": "2024-10-05 00:03:54",
+        "sentiment_score": -0.8041794802993536
+    },
+    {
+        "title": "MedVida traspasa a Santander el plan de pensiones de Tokio Marine HCC en medio de su repliegue en seguros",
+        "image_url": "https://s1.elespanol.com/2024/10/04/invertia/mis-finanzas/planes-pensiones/890921727_249760604_1706x960.jpg?contentId=ESPIMA20241004_0828",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/planes-pensiones/20241005/medvida-traspasa-santander-plan-pensiones-tokio-marine-hcc-medio-repliegue-seguros/890911429_0.html",
+        "date": "2024-10-05 00:03:50",
+        "sentiment_score": -0.12131558358669281
     }
 ];
