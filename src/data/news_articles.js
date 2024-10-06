@@ -158,67 +158,6 @@ export default [
         "sentiment_score": -0.6555136330425739
     },
     {
-        "title": "Así serán las mañaneras de Claudia Sheinbaum como presidenta de México",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21006497-2587380-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "méxico",
-            "claudia sheinbaum",
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mananeras-claudia-sheinbaum-presidenta-mexico/",
-        "date": "2024-10-02 14:11:57",
-        "sentiment_score": -0.03211171180009842
-    },
-    {
-        "title": "\"Todo se ha ido\": un muro de agua arranca una casa de Carolina del Norte de sus cimientos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/download-15.jpeg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "carolina del norte",
-            "noticias de ee.uu.",
-            "muro de agua"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/carolina-del-norte-cimientos-trax-ush/",
-        "date": "2024-10-02 13:32:53",
-        "sentiment_score": -0.6058574207127094
-    },
-    {
-        "title": "VIDEO | Así explotó una bomba de la Segunda Guerra Mundial en un aeropuerto de Japón",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/airportbombh.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "japón",
-            "xpress",
-            "segunda guerra mundial",
-            "fast – news variety",
-            "videos digitales",
-            "bomba"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/bomba-aeropuerto-japon-segunda-guerra-mundial-orix/",
-        "date": "2024-10-02 13:20:40",
-        "sentiment_score": -0.6059134416282177
-    },
-    {
-        "title": "Helene es el segundo huracán más mortal de EE.UU. continental en los últimos 50 años",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/Copia-de-FOTO-PARA-WP-2024-10-02T065022.611.jpg?quality=100&strip=info",
-        "tags": [
-            "ee.uu.",
-            "huracanes"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/02/helene-segundo-huracan-mas-mortal-ee-uu-continental-50-anios-trax/",
-        "date": "2024-10-02 13:05:40",
-        "sentiment_score": -0.6299292892217636
-    },
-    {
-        "title": "La Unión Europea condena los ataques de Irán contra Israel",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175357480.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/union-europea-condena-ataque-iran-israel-cafe-tv/",
-        "date": "2024-10-02 12:31:41",
-        "sentiment_score": -0.8544867318123579
-    },
-    {
         "title": "Sevilla contra el panderetismo",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/09/01/AdobeStock_19315558-RGhT9GUHjDCofbO1PwO0zIN-1200x840@diario_abc.jpg",
         "tags": [
@@ -407,99 +346,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-02/cuatro-solicitantes-de-asilo-se-fugan-de-una-sala-del-aeropuerto-de-barajas.html",
         "date": "2024-10-02 14:27:10",
         "sentiment_score": -0.8546965690329671
-    },
-    {
-        "title": "El Palacio de Congresos de Valencia recupera un 23% del dinero estafado en un fraude",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RQFN347WFDHTSNGL24P55WPATQ.jpg?auth=7d7bb82fcf70f9c48011cd15e5546be46f59d4d755dccd104dc83aad7a876a84&width=1200",
-        "tags": [
-            "fraudes",
-            "estafas",
-            "ayuntamiento valencia",
-            "palacio congresos valencia",
-            "comunidad valenciana",
-            "bankinter",
-            "valencia",
-            "delitos"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-02/el-palacio-de-congresos-de-valencia-recupera-un-23-del-dinero-estafado-en-un-fraude.html",
-        "date": "2024-10-02 13:31:57",
-        "sentiment_score": -0.7039775177836418
-    },
-    {
-        "title": "Salvamento Marítimo suspende la búsqueda de cuerpos del naufragio en El Hierro",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KT7Y7HX3NNB5VHLWZYLQWFMK4M.jpg?auth=bde2eddc9dba0260226cc824be97d4956440fae9bf2f014b96ffab7f10ebd41a&width=1200",
-        "tags": [
-            "inmigración irregular",
-            "españa",
-            "el hierro",
-            "inmigración irregular españa",
-            "guardia civil",
-            "inmigrantes africanos",
-            "pateras",
-            "inmigrantes",
-            "inmigración",
-            "policía",
-            "pateras canarias",
-            "canarias",
-            "salvamento marítimo"
-        ],
-        "link": "https://elpais.com/espana/2024-10-02/salvamento-maritimo-suspende-la-busqueda-de-cuerpos-del-naufragio-en-el-hierro.html",
-        "date": "2024-10-02 13:31:47",
-        "sentiment_score": -0.6155405789613724
-    },
-    {
-        "title": "Convocadas dos jornadas de huelga y dos de movilizaciones en octubre y noviembre en la enseñanza en Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FHJTX7IYSZGTLKZX2Q2J74ZV6E.jpg?auth=e2c2be663da1997d9f11a9980ee32c5339fd981e6ee6fbf379df3afce6b8d999&width=1200",
-        "tags": [
-            "madrid",
-            "comisiones obreras",
-            "estudiantes",
-            "ugt",
-            "huelgas",
-            "horarios trabajo",
-            "anpe",
-            "sindicatos",
-            "manifestaciones",
-            "comunidad de madrid",
-            "calidad enseñanza",
-            "profesorado",
-            "educación"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-02/convocadas-dos-jornadas-de-huelga-y-dos-de-movilizaciones-en-octubre-y-noviembre-en-la-ensenanza-en-madrid.html",
-        "date": "2024-10-02 12:54:27",
-        "sentiment_score": -0.43611735478043556
-    },
-    {
-        "title": "“Un insulto o una pelea no pueden quedar impunes: no podemos normalizar el ‘bullying’”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/F5OKQEFGDVAE7OPRDMRCAQJ7QI.jpg?auth=c3ee374e93db32b806cbbbbe7272ccfb9f9783f59c63cc9edd2be713d3a60a55&width=1200",
-        "tags": [
-            "cataluña",
-            "acoso escolar",
-            "peleas",
-            "educación secundaria",
-            "eso",
-            "menores",
-            "infancia",
-            "educación"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-02/un-insulto-o-una-pelea-no-pueden-quedar-impunes-no-podemos-normalizar-el-bullying.html",
-        "date": "2024-10-02 12:49:32",
-        "sentiment_score": 0.0946960598230362
-    },
-    {
-        "title": "La comisión del CIS del Senado comienza con críticas a la metodología de Tezanos: “Hay voluntad de no acertar”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FWSHCWCFVNGKJCAD4RSHBE3E3M.jpg?auth=197862620603dca1c7a65f3545d056840d05398ff5edac012e3cdba05c56ed25&width=1200",
-        "tags": [
-            "cis",
-            "senado",
-            "pp",
-            "josé felix tezanos",
-            "españa",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/2024-10-02/la-comision-del-cis-del-senado-comienza-con-criticas-a-la-metodologia-de-tezanos-hay-voluntad-de-no-acertar.html",
-        "date": "2024-10-02 12:44:10",
-        "sentiment_score": -0.7546946611255407
     },
     {
         "title": "(Pre) San Mamés abre su histórico año europeo ante el AZ y la Real evalúa su mejoría con el Anderlecht",
@@ -7734,5 +7580,501 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/creacion/20241006/mi-padre-es-motor-que-puesto-escribir/891160923_0.html",
         "date": "2024-10-05 22:00:00",
         "sentiment_score": -0.5181879699230194
+    },
+    {
+        "title": "Pronóstico del clima en Málaga este domingo 6 de octubre: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/H2AP5LHPNNGURHZLV4FG4PIVAM.jpg?auth=2de32dd5b36f8efa86fd06044f515b4e3f90c203b45c577d2cb688a5e5b529b3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/06/pronostico-del-clima-en-malaga-este-domingo-6-de-octubre-temperatura-lluvias-y-viento/",
+        "date": "2024-10-06 02:01:32",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "YouTube en España: los 10 videos que son tendencia hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/FHBOTXSMEFAN5FEUZBZKBL5X44.jpg?auth=983a9f36949dbbdb69156cabf9427b66fc068be925271c264898f3aa7ec6b3e3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/06/youtube-en-espana-los-10-videos-que-son-tendencia-hoy/",
+        "date": "2024-10-06 01:01:28",
+        "sentiment_score": -0.7663897341117263
+    },
+    {
+        "title": "Clima en España: el estado del tiempo para Barcelona este 6 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/O6OWJERKZ5A3PNWBGL5MJVYGKY.jpg?auth=f88d31ee51e712b8904c7db5b2f93ef884eefd8ff2ba4cde34ab5dd7ff2f9a27",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/06/clima-en-espana-el-estado-del-tiempo-para-barcelona-este-6-de-octubre/",
+        "date": "2024-10-06 01:01:07",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Estopa triunfa en su aniversario: “Y yo sigo aquí a tu lado hasta que me lleve el viento”",
+        "image_url": "./assets/ai_generated/v1_txt2img_357db13d8de7428b88d2d8970b10561e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/estopa-triunfa-en-su-aniversario-y-yo-sigo-aqui-a-tu-lado-hasta-que-me-lleve-el-viento/",
+        "date": "2024-10-05 23:31:21",
+        "sentiment_score": 0.6494644656777382
+    },
+    {
+        "title": "Johan Mojica tuvo encontronazo con árbitro en España: “Respéteme, quién se cree usted”",
+        "image_url": "https://www.infobae.com/resizer/v2/ADJCZ6QNDNFZTCLI6MMB4DVTMA.jpg?auth=62d5a0d6fbf2358092b3336a58244cff1bb8202b4216c18ea921739b866b07f3",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/10/05/johan-mojica-tuvo-encontronazo-con-arbitro-en-espana-respeteme-quien-se-cree-usted/",
+        "date": "2024-10-05 22:49:18",
+        "sentiment_score": -0.720705172047019
+    },
+    {
+        "title": "Martin Fuchs vence al tiempo para ganar la Copa de la Reina de salto a caballo",
+        "image_url": "./assets/ai_generated/v1_txt2img_fd79a4d615d04649970891e2b2f84403.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/martin-fuchs-vence-al-tiempo-para-ganar-la-copa-de-la-reina-de-salto-a-caballo/",
+        "date": "2024-10-05 22:32:12",
+        "sentiment_score": 0.8654393572360277
+    },
+    {
+        "title": "Ponsarnau habla de \"la desconfianza\" como clave en la derrota del Bilbao en Murcia",
+        "image_url": "./assets/ai_generated/v1_txt2img_7f4faf9239c747829d430f4458f2ff70.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/ponsarnau-habla-de-la-desconfianza-como-clave-en-la-derrota-del-bilbao-en-murcia/",
+        "date": "2024-10-05 22:31:53",
+        "sentiment_score": -0.8380668498575687
+    },
+    {
+        "title": "Sito Alonso, técnico del UCAM CB: \"No hay otro protagonista que el público\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_c6ad735316ce4f2389503b073adfc327.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/sito-alonso-tecnico-del-ucam-cb-no-hay-otro-protagonista-que-el-publico/",
+        "date": "2024-10-05 22:31:01",
+        "sentiment_score": -0.01715167611837387
+    },
+    {
+        "title": "Butragueño: “Estamos muy preocupados por el posible alcance de la lesión de Carvajal”",
+        "image_url": "./assets/ai_generated/v1_txt2img_04b90a35d81d4940aaa21a78db5307b5.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/butragueno-estamos-muy-preocupados-por-el-posible-alcance-de-la-lesion-de-carvajal/",
+        "date": "2024-10-05 22:16:34",
+        "sentiment_score": -0.6188875399529934
+    },
+    {
+        "title": "Trump regresa al escenario del primer intento de magnicidio en su contra para un mitin en Pensilvania",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762860-trump-pensilvania-magnicidio.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ataque trump",
+            "intento de magnicidio",
+            "noticias de ee.uu.",
+            "elecciones estados unidos 2024",
+            "pensilvania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/05/trump-regresa-pensilvania-primer-intento-de-magnicidio-trax/",
+        "date": "2024-10-06 02:00:48",
+        "sentiment_score": -0.5001800693571568
+    },
+    {
+        "title": "Al menos 21 muertos y decenas de desaparecidos por inundaciones en Bosnia",
+        "image_url": "./assets/ai_generated/v1_txt2img_5d43d12792fc46d68efff414dd67e3b4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muertos-desaparecidos-inundaciones-bosnia-trax",
+        "date": "2024-10-06 01:16:33",
+        "sentiment_score": -0.762555593624711
+    },
+    {
+        "title": "Al menos 21 muertos y decenas de desaparecidos por inundaciones en Bosnia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175967249.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muertos-desaparecidos-inundaciones-bosnia-trax/",
+        "date": "2024-10-06 01:16:33",
+        "sentiment_score": -0.8987494269385934
+    },
+    {
+        "title": "Crisis humanitaria y urgencias en Gaza según Amnistía Internacional",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1718506014.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra israel y hamas",
+            "israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-crisis-humanitaria-urgencias-mirador-mundial-tv/",
+        "date": "2024-10-06 00:19:50",
+        "sentiment_score": -0.6555938273668289
+    },
+    {
+        "title": "No hay forma de retomar la vida, dice sobreviviente de ataques de Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1719882300.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-sobreviviente-7-octubre-mirador-mundial-tv",
+        "date": "2024-10-06 00:15:00",
+        "sentiment_score": -0.6051222123205662
+    },
+    {
+        "title": "No hay forma de retomar la vida, dice sobreviviente de ataques de Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1719882300.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra israel y hamas",
+            "israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-sobreviviente-7-octubre-mirador-mundial-tv/",
+        "date": "2024-10-06 00:15:00",
+        "sentiment_score": -0.7925495579838753
+    },
+    {
+        "title": "Las noticias de América Latina del 5 de octubre",
+        "image_url": "./assets/ai_generated/v1_txt2img_0447467bbf9e4fc4af0c7ceb020160b4.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/las-noticias-america-latina-mirador-mundial-tv-fast",
+        "date": "2024-10-05 23:58:24",
+        "sentiment_score": -0.07681569084525108
+    },
+    {
+        "title": "Las noticias de América Latina del 5 de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2102842637.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "perú",
+            "inmigración",
+            "república dominicana",
+            "bolivia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/las-noticias-america-latina-mirador-mundial-tv-fast/",
+        "date": "2024-10-05 23:58:24",
+        "sentiment_score": -0.8503432590514421
+    },
+    {
+        "title": "Gobierno de Biden no extenderá permisos a migrantes de estos países",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1917778731.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "crisis migratoria",
+            "xpress",
+            "inmigrantes indocumentados",
+            "inmigración centroamérica",
+            "inmigración estados unidos",
+            "fast – news variety",
+            "crisis de migrantes",
+            "noticias de ee.uu.",
+            "inmigración"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/permisos-migrantes-gobierno-ee-uu-mirador-mundial-tv-fast/",
+        "date": "2024-10-05 23:55:01",
+        "sentiment_score": -0.6532119866460562
+    },
+    {
+        "title": "Nuevo ataque de Israel en el Líbano deja 25 muertos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176088751.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nuevo-ataque-israel-libano-mirador-mundial-tv",
+        "date": "2024-10-05 23:36:31",
+        "sentiment_score": -0.857073956169188
+    },
+    {
+        "title": "El fondo público de pensiones de Escrivá, vacío un año después de su lanzamiento",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/06/EuropaPress_5648183_ministra_seguridad_social_migraciones_elma_saiz_ministro_transformacion-RgyKTUzu6XgUqBdTeLkAKIN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fondo-publico-pensiones-escriva-vacio-ano-despues-20241006181937-nt.html",
+        "date": "2024-10-06 02:10:49",
+        "sentiment_score": -0.04431316256523132
+    },
+    {
+        "title": "Las casi jubilaciones y las casi bajas médicas para una economía que casi va como un cohete",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/06/DiazSaiz-RjYaCemfl7qo63T0xx0H0eI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/maria-jesus-perez-jubilaciones-bajas-medicas-economia-cohete-20241006175825-nt.html",
+        "date": "2024-10-06 02:10:34",
+        "sentiment_score": -0.09893578290939331
+    },
+    {
+        "title": "«Me estoy olvidando de cómo sonaban las voces de mis hijos»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/05/cartel-kABF-R8kwF2ellrchXHa8VuY2z1O-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/olvidando-sonaban-voces-hijos-20241005211241-nt.html",
+        "date": "2024-10-06 02:05:03",
+        "sentiment_score": -0.14548897743225098
+    },
+    {
+        "title": "Los ataques de Hamás a Israel: la reconstrucción de las 24 horas que cambiaron Oriente Próximo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/noticias/2024/10/05/israel-hamas-kr0B-RBa9rww9If89Vq90rEcCfmM-1200x672@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ataques-hamas-israel-reconstruccion-horas-cambiaron-oriente-20241006195703-nt.html",
+        "date": "2024-10-06 02:04:54",
+        "sentiment_score": -0.17890596389770508
+    },
+    {
+        "title": "75 años que terminaron en un día",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/06/obus-RR1e5vn3MRSukig4TPMaf6J-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pedro-rodriguez-anos-terminaron-dia-20241006203537-nt.html",
+        "date": "2024-10-06 02:04:04",
+        "sentiment_score": -0.16299492120742798
+    },
+    {
+        "title": "Un conflicto a gran escala de impacto global planea sobre Oriente Próximo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/05/gaza-bombardeos-Rs8Fd3COynq120YA6GqbyjM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/conflicto-gran-escala-impacto-global-planea-sobre-20241005170538-nt.html",
+        "date": "2024-10-06 02:03:51",
+        "sentiment_score": -0.08704158663749695
+    },
+    {
+        "title": "Israel, la nación-trauma",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/03/israel-nacion-trauma--1200x672.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/israel-naciontrauma-20241006204412-nt.html",
+        "date": "2024-10-06 02:03:43",
+        "sentiment_score": -0.17892183363437653
+    },
+    {
+        "title": "Una brújula digital para el necesario viaje de reinvención del sector de los cuidados",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/06/eurecat-R7hc0g32bQCiMaZJKuhUoQN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/brujula-digital-necesario-viaje-reinvencion-sector-cuidados-20241006212732-nt.html",
+        "date": "2024-10-06 01:56:04",
+        "sentiment_score": -0.055642470717430115
+    },
+    {
+        "title": "La invisible palanca de competitividad en la nueva economía",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/06/certificaciones-RqsT4Jdi1qtvF44dpyoYxoL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/invisible-palanca-competitividad-nueva-economia-20241006171658-nt.html",
+        "date": "2024-10-06 01:55:50",
+        "sentiment_score": -0.006165802478790283
+    },
+    {
+        "title": "Volkswagen pone la cogestión alemana en la mira",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/06/reutersVolkswagen-Rubkwq2pjFBjvMj7lhBk5HJ-350x624@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-volkswagen-pone-cogestion-alemana-mira-20241006165201-nt.html",
+        "date": "2024-10-06 01:55:35",
+        "sentiment_score": -0.0958944708108902
+    },
+    {
+        "title": "Dudas del momento",
+        "image_url": "./assets/ai_generated/v1_txt2img_c39729b9fd684a45b54a99c04590ff9b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/10/06/dudas-momento-108950727.html",
+        "date": "2024-10-06 02:00:53",
+        "sentiment_score": -0.11955636739730835
+    },
+    {
+        "title": "Federico Valverde respaldó a Luis Suárez tras sus críticas a Bielsa: “Hay cosas que sí son verdad”",
+        "image_url": "./assets/ai_generated/v1_txt2img_376f965a326347f19e5e0ac5467061d7.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/10/06/federico-valverde-respaldo-a-luis-suarez-tras-sus-criticas-a-bielsa-hay-cosas-que-si-son-verdad/",
+        "date": "2024-10-06 01:49:15",
+        "sentiment_score": -0.6915382333099842
+    },
+    {
+        "title": "Jefferson Savarino fue clave en victoria de Botafogo",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2024/10/Jefferson-Savarino.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/noticias/deportes/jefferson-savarino-fue-clave-en-victoria-de-botafogo/",
+        "date": "2024-10-06 01:19:28",
+        "sentiment_score": 0.6166882142424583
+    },
+    {
+        "title": "Christian Gálvez: \"Había 'maestros de la televisión' que le auguraban a Broncano un 6 o un 8% de 'share', y mira\"",
+        "image_url": "https://s1.elespanol.com/2024/10/04/reportajes/890921718_249760327_1706x960.jpg?contentId=ESPIMA20241004_0819",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241006/christian-galvez-maestros-television-auguraban-broncano-share-mira/890911408_0.html",
+        "date": "2024-10-06 00:25:16",
+        "sentiment_score": -0.5952747389674187
+    },
+    {
+        "title": "Pascual Pérez, el 'Steve Jobs de Elda': de ser padre con 14 años y perderlo todo a montar el imperio de 200 millones de Finetwork",
+        "image_url": "https://s1.elespanol.com/2024/10/04/reportajes/890921831_249763803_1706x960.jpg?contentId=ESPIMA20241004_0932",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241006/pascual-perez-steve-jobs-elda-padre-anos-perderlo-montar-imperio-millones-finetwork/890911470_0.html",
+        "date": "2024-10-06 00:24:11",
+        "sentiment_score": -0.45411962270736694
+    },
+    {
+        "title": "Chivas vs Atlas EN VIVO: minuto a minuto del Clásico Tapatío de la Liga Mx",
+        "image_url": "https://www.infobae.com/resizer/v2/7D2IMIZISFHKVJXHJDWPB6AKSM.jpg?auth=c25dd1803af0bd36d49c146c421aa01c85ab47039e97685ce841cbd72ea4c718",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2024/10/06/chivas-vs-atlas-en-vivo-minuto-a-minuto-del-clasico-tapatio-de-la-liga-mx/",
+        "date": "2024-10-06 00:12:14",
+        "sentiment_score": 0.16430967673659325
+    },
+    {
+        "title": "Así es Hera, la primera misión europea de defensa planetaria contra asteroides en la que España juega un papel clave",
+        "image_url": "https://s1.elespanol.com/2024/10/03/omicrono/defensa-y-espacio/890671173_249707958_1706x960.jpg?contentId=ESPIMA20241003_0249",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/defensa-y-espacio/20241006/hera-primera-mision-europea-defensa-planetaria-asteroides-espana-juega-papel-clave/890411448_0.html",
+        "date": "2024-10-05 23:58:06",
+        "sentiment_score": 0.24039849638938904
+    },
+    {
+        "title": "Real Madrid habría perdido por lesión a Carvajal en el triunfo ante Villarreal",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/10/madrid-696x464.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/188874/real-madrid-habria-perdido-por-lesion-a-carvajal-en-el-triunfo-ante-villarreal/",
+        "date": "2024-10-05 23:55:45",
+        "sentiment_score": -0.6983451060950756
+    },
+    {
+        "title": "Rafael Martínez, ex jefe superior de la Policía Nacional en Canarias: «La insularidad complica la delincuencia y nos protege de mafias»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5243c36-4bab-491d-aefb-6b2efddda8a0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/canarias/2024/10/06/rafael-martinez-ex-jefe-superior-108967649.html",
+        "date": "2024-10-05 23:51:51",
+        "sentiment_score": -0.3671950399875641
+    },
+    {
+        "title": "Javi Guerra se queda peligrosamente a cero",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fe597ddd-cc77-42de-a2c6-54e7b5543f8a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/10/06/javi-guerra-queda-peligrosamente-cero-108963756.html",
+        "date": "2024-10-06 02:01:04",
+        "sentiment_score": -0.18720565736293793
+    },
+    {
+        "title": "Juan Font, pionero odontólogo de Palma, suma homenajes",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3027957.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2024/10/06/2254707/nuevo-homenaje-juan-font-padre-ortodoncia-mallorca.html",
+        "date": "2024-10-06 02:00:01",
+        "sentiment_score": 0.10130193829536438
+    },
+    {
+        "title": "¿Cómo juzgará la historia a Zapatero?",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "tribunas"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/tribunas/241006/1636773/juzgara-historia-zapatero.html",
+        "date": "2024-10-06 01:30:00",
+        "sentiment_score": -0.34270088747143745
+    },
+    {
+        "title": "Octavio López, consejero aragonés de Vivienda: \"El PSOE quiere tensionar la oferta y el PP, incrementarla\"",
+        "image_url": "https://s1.elespanol.com/2024/10/05/aragon/actualidad/891171110_249774203_1706x960.jpg?contentId=ESPIMA20241005_0236",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/aragon/actualidad/20241006/octavio-lopez-consejero-aragones-vivienda-psoe-quiere-tensionar-oferta-pp-incrementarla/891161005_0.html",
+        "date": "2024-10-06 01:11:49",
+        "sentiment_score": -0.6912185400724411
+    },
+    {
+        "title": "El partido de Messi en Inter Miami: del enojo por un planchazo al tierno gesto con un fanático",
+        "image_url": "https://www.infobae.com/resizer/v2/GLFVHA6HLZD6TKG5R35QKD5NAA.jpg?auth=56b72672f972ced9dec296ade863868f0d340e91ced64b3ac6297854c219093f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/10/06/el-partido-de-messi-en-inter-miami-del-enojo-por-un-planchazo-al-tierno-gesto-con-un-fanatico/",
+        "date": "2024-10-06 01:10:31",
+        "sentiment_score": 0.775709792971611
+    },
+    {
+        "title": "El PP presenta un proyecto alternativo al Govern \"izquierdista y nacionalista\" de Salvador Illa",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/36bbcc6e9c0b9bd1fed68d36183cdaf9/crop/0x50/2456x1688/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/05/17281544896299.jpg",
+        "tags": [
+            "gobierno de españa",
+            "mossos d&#039;esquadra",
+            "erc",
+            "okupas",
+            "artículos gerard melgar",
+            "vivienda",
+            "impuestos",
+            "policía nacional",
+            "guardia civil",
+            "psc",
+            "alejandro fernández",
+            "pp",
+            "inmigración",
+            "salvador illa",
+            "parlament de cataluña",
+            "irpf",
+            "congreso de los diputados",
+            "generalitat de cataluña",
+            "partido popular de cataluña",
+            "cis"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2024/10/06/67018977e9cf4ae87c8b457d.html",
+        "date": "2024-10-06 00:41:09",
+        "sentiment_score": 0.07585254684090614
+    },
+    {
+        "title": "El futuro de los patines eléctricos: ¿negocio rentable o fracaso de la movilidad sostenible en las ciudades?",
+        "image_url": "https://s1.elespanol.com/2024/09/05/madrid/capital/883672107_248953129_1706x960.jpg?contentId=ESPIMA20240905_0483",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20241006/futuro-patines-electricos-negocio-rentable-fracaso-movilidad-sostenible-ciudades/890911012_0.html",
+        "date": "2024-10-06 00:29:00",
+        "sentiment_score": 0.27394555509090424
+    },
+    {
+        "title": "Los jóvenes no pueden comprar la casa de sus padres: el precio de la vivienda sube 43 puntos más que la renta media",
+        "image_url": "https://s1.elespanol.com/2024/10/05/invertia/economia/macroeconomia/891170955_249769367_1706x960.png?contentId=ESPIMA20241005_0081",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20241006/jovenes-no-pueden-comprar-casa-padres-precio-vivienda-sube-puntos-renta-media/890911330_0.html",
+        "date": "2024-10-06 00:27:53",
+        "sentiment_score": -0.1896825134754181
     }
 ];
