@@ -1,286 +1,5 @@
 export default [
     {
-        "title": "El precio más alto de la gasolina en Madrid, Barcelona y otras ciudades este 2 de octubre",
-        "image_url": "https://www.infobae.com/resizer/v2/W24EHLSXZND5DH7EDTKSYX4U7A.jpg?auth=3aaefe99ed1ab01fc749fccb38eeb25299dc353ce20a1bbb6594020e8cadf9e2",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/10/02/el-precio-mas-alto-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-este-2-de-octubre/",
-        "date": "2024-10-02 06:31:11",
-        "sentiment_score": -0.14567936211824417
-    },
-    {
-        "title": "Feijóo condena el ataque de Irán contra Israel y pide el cese inmediato de la violencia",
-        "image_url": "./assets/ai_generated/v1_txt2img_6046ae480af746c297462f0af5d8cb03.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/02/feijoo-condena-el-ataque-de-iran-contra-israel-y-pide-el-cese-inmediato-de-la-violencia/",
-        "date": "2024-10-02 06:31:01",
-        "sentiment_score": -0.8711153697222471
-    },
-    {
-        "title": "Camps, tras el anuncio del recurso del PSOE a su absolución: \"No me asustan, no me dan miedo y no me van a parar\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_8d07bf3393404780a1c04b4ee80feb71.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/02/camps-tras-el-anuncio-del-recurso-del-psoe-a-su-absolucion-no-me-asustan-no-me-dan-miedo-y-no-me-van-a-parar/",
-        "date": "2024-10-02 06:20:59",
-        "sentiment_score": -0.34717005491256714
-    },
-    {
-        "title": "Bolsos, un accesorio imprescindible, también para hombres",
-        "image_url": "./assets/ai_generated/v1_txt2img_7ce6b6d367dc4b0e83f2c36be6897d92.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/02/bolsos-un-accesorio-imprescindible-tambien-para-hombres/",
-        "date": "2024-10-02 06:17:40",
-        "sentiment_score": 0.4103441387414932
-    },
-    {
-        "title": "Abascal reafirma su \"total apoyo\" a Israel y a su \"ofensiva contra el terrorismo\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_f18666e917cf47788328634f75ddb97e.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/02/abascal-reafirma-su-total-apoyo-a-israel-y-a-su-ofensiva-contra-el-terrorismo/",
-        "date": "2024-10-02 06:17:24",
-        "sentiment_score": 0.07602354884147644
-    },
-    {
-        "title": "El Defensor del Pueblo comparece hoy en el Congreso para explicar sus motivos para no recurrir la ley de Amnistía",
-        "image_url": "https://www.infobae.com/resizer/v2/QF3T7DNLKVBOBOV7US4GLEPTRU.jpg?auth=3e28f17fb35dd6e12ad566b2d5955f3f6fca8f27733ba8ae357635b9cfba2ea5",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/02/el-defensor-del-pueblo-comparece-hoy-en-el-congreso-para-explicar-sus-motivos-para-no-recurrir-la-ley-de-amnistia/",
-        "date": "2024-10-02 06:04:43",
-        "sentiment_score": -0.39985017105937004
-    },
-    {
-        "title": "La comisión del Congreso sobre compras de mascarillas caduca hoy sin conclusiones y sin interrogar a Ábalos y Koldo",
-        "image_url": "https://www.infobae.com/resizer/v2/JB6GAODAJRCBDBAX5AYU7POLXA.jpg?auth=ecb5a41bf200eac28b7fbdcced528fec38c50de946a9e9c1a0c6ab0534cf0924",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/02/la-comision-del-congreso-sobre-compras-de-mascarillas-caduca-hoy-sin-conclusiones-y-sin-interrogar-a-abalos-y-koldo/",
-        "date": "2024-10-02 06:04:30",
-        "sentiment_score": -0.8258242188021541
-    },
-    {
-        "title": "Grande-Marlaska preside este miércoles en Sevilla el acto central del Día de la Policía Nacional",
-        "image_url": "https://www.infobae.com/resizer/v2/OXHAPFEP6FDFJC5ZON6AWLP57Q.jpg?auth=15875dab8285967b897031f955a3a27cf5f1744e69df80041841df870932f162",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/02/grande-marlaska-preside-este-miercoles-en-sevilla-el-acto-central-del-dia-de-la-policia-nacional/",
-        "date": "2024-10-02 06:04:18",
-        "sentiment_score": 0.05894717574119568
-    },
-    {
-        "title": "Esta es la tarjeta de Renfe que debes conseguir para obtener descuentos si tienes más de 60 años: precios, trenes y cómo usarla",
-        "image_url": "https://www.infobae.com/resizer/v2/OVH2Z4I4RVAJBGAVJS6D22EGYU.jpg?auth=ea2e9c3ec41a8687ad245fb0664fd2d43db67d46e32a0e981c59856a802bee9a",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/10/02/esta-es-la-tarjeta-de-renfe-que-debes-conseguir-para-obtener-descuentos-si-tienes-mas-de-60-anos-precios-trenes-y-como-usarla/",
-        "date": "2024-10-02 05:57:14",
-        "sentiment_score": 0.2162584699690342
-    },
-    {
-        "title": "Una creadora de contenido muestra cuánto le ha costado su operación de apendicitis en Andorra: “Yo pensaba que era como en Estados Unidos”",
-        "image_url": "https://www.infobae.com/resizer/v2/DIQLBGEO4RF7HABJOQ7MZMQV7Q.png?auth=c23869af34169e9139106304cbeca2280071d0ea43c7863de990798c064a11cd",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/10/02/una-creadora-de-contenido-muestra-cuanto-le-ha-costado-su-operacion-de-apendicitis-en-andorra-yo-pensaba-que-era-como-en-estados-unidos/",
-        "date": "2024-10-02 05:48:03",
-        "sentiment_score": -0.37361954152584076
-    },
-    {
-        "title": "Se teme que al menos 20 niños y profesores hayan muerto en el incendio de un autobús escolar en Bangkok",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1760979-rescatistas-bangkok.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "bangkok",
-            "asia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/02/20-ninos-profesores-muerto-incendio-autobus-escolar-bangkok-ap/",
-        "date": "2024-10-02 05:37:21",
-        "sentiment_score": -0.8327301787212491
-    },
-    {
-        "title": "Cuánto dinero cobra un dependiente de El Corte Inglés en España en 2024: sueldo medio y complementos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/30/el-corte.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cuanto-dinero-cobra-dependiente-corte-ingles-espana-sueldo-complementos-20241002094533-nt.html",
-        "date": "2024-10-02 06:30:00",
-        "sentiment_score": -0.09751461446285248
-    },
-    {
-        "title": "Reino Unido se convierte en el primer país del G7 en cerrar su última central de carbón",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/02/central-carbon-reino-unido-kxhF-U603143250923O5D-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/reino-unido-convierte-primer-pais-cerrar-ultima-20241002075058-nt.html",
-        "date": "2024-10-02 05:52:10",
-        "sentiment_score": -0.08026957511901855
-    },
-    {
-        "title": "La guardia costera china entra por primera vez en el mar Ártico para patrullar con Rusia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/02/china-barcos-kAZC-U603143195119NEF-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/guardia-costera-china-entra-primera-vez-mar-20241002072424-nt.html",
-        "date": "2024-10-02 05:24:24",
-        "sentiment_score": -0.10805395245552063
-    },
-    {
-        "title": "El nuevo director de Antifraude en Valencia elimina su Comité ético antes de resolver cuatro denuncias internas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I5XRS26FCZAC3ATPZVG7VBZOEM.jpg?auth=ceb87ba887a3c7e69a6cece2e8d88e50cecaf018433da3f72a34eb4b7fcd618d&width=1200",
-        "tags": [
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-02/el-nuevo-director-de-antifraude-en-valencia-elimina-su-comite-etico-antes-de-resolver-cuatro-denuncias-internas.html",
-        "date": "2024-10-02 05:31:43",
-        "sentiment_score": -0.8613095041364431
-    },
-    {
-        "title": "Plan urbanístico para la manzana del superlujo en Madrid: 10 viviendas que serán vendidas por 132 millones de euros",
-        "image_url": "https://static.eldiario.es/clip/8744b23e-01da-4e1e-b12e-aa4521b64111_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/plan-urbanistico-manzana-superlujo-madrid-10-viviendas-seran-vendidas-132-millones-euros_1_11699149.html",
-        "date": "2024-10-02 06:30:01",
-        "sentiment_score": -0.06494605541229248
-    },
-    {
-        "title": "Qué sabemos y qué no de la selectividad 2025: un único ejercicio por materia y corrección ortográfica común",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6f33ba41-1bad-47a1-a34b-dd5e5c0d7257_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/sociedad/2024/10/02/selectividad-2025-unico-ejercicio-materia-108819996.html",
-        "date": "2024-10-02 06:27:51",
-        "sentiment_score": 0.042462125420570374
-    },
-    {
-        "title": "Las consejeras repetidoras del Ibex 35",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d82baf8-c450-4adb-a975-bea10247f53a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20241002/consejeras-repetidoras-ibex-35-108819600",
-        "date": "2024-10-02 06:01:35",
-        "sentiment_score": -0.15555647015571594
-    },
-    {
-        "title": "‘Alakrana’: 15 años del secuestro que lo cambió todo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ad3a5b5c-6682-4b77-bc1b-9f7f9c53aa0e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2024/10/02/alakrana-15-anos-secuestro-cambio-8757263.html",
-        "date": "2024-10-02 06:01:07",
-        "sentiment_score": -0.7699574790894985
-    },
-    {
-        "title": "Picasso coetáneo de Eminem... Hechos increíbles que son reales aunque no te los creas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/images/default.jpg",
-        "tags": [
-            "gonzoo"
-        ],
-        "link": "https://www.20minutos.es/imagenes/gonzoo/5639477-hechos-increibles-que-son-reales-aunque-no-te-creas/",
-        "date": "2024-10-02 06:30:45",
-        "sentiment_score": -0.31650410592556
-    },
-    {
-        "title": "¿Por qué el sake quiere ser Patrimonio Cultural Inmaterial de la Humanidad?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3d009192-16bd-4e29-a538-080b4a1cfa67_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241002/sake-patrimonio-cultural-inmaterial-humanidad-unesco-108792396",
-        "date": "2024-10-02 06:27:54",
-        "sentiment_score": -0.1517856866121292
-    },
-    {
-        "title": "Alamany aboga por hacer de ERC un \"partido grande\" y reivindica los pactos con el PSOE",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241002082547_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-alamany-aboga-hacer-erc-partido-grande-reivindica-pactos-psoe-20241002082547.html",
-        "date": "2024-10-02 06:25:47",
-        "sentiment_score": 0.37738481909036636
-    },
-    {
-        "title": "El Govern situa la dessalinitzadora del port de Barcelona en via morta",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/02/66fc757c40722.jpeg",
-        "tags": [
-            "la vanguardia en català"
-        ],
-        "link": "https://www.lavanguardia.com/encatala/20241002/9988586/govern-situa-dessalinitzadora-port-barcelona-via-morta.html",
-        "date": "2024-10-02 06:11:33",
-        "sentiment_score": -0.5951760411262512
-    },
-    {
-        "title": "El Meteocat, obligado a poner en alerta a Barcelona por lo que llega: chaparrón en la ciudad a partir de esta hora",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/03/09/65ec5a0108d11.r_d.2528-1981.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20241002/1002326142/meteocat-obligado-poner-alerta-barcelona-llega-chaparron-ciudad-partir-hora-dct.html",
-        "date": "2024-10-02 06:07:42",
-        "sentiment_score": 0.1455431878566742
-    },
-    {
-        "title": "Me independicé a los 18 años y estas son las claves para encontrar el piso de alquiler perfecto",
-        "image_url": "https://s1.elespanol.com/2024/10/01/mujer/estilo-vida/890171701_249656434_1706x960.jpg?contentId=ESPIMA20241001_0727",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/estilo-vida/20241002/independice-anos-claves-encontrar-piso-alquiler-perfecto/889911495_0.html",
-        "date": "2024-10-02 06:07:03",
-        "sentiment_score": 0.5115676298737526
-    },
-    {
-        "title": "¿Quieres ver despegar un cohete de la Nasa en Cabo Cañaveral?",
-        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2024/10/01/66fc3c4216a25.r_d.360-240-0.jpeg",
-        "tags": [
-            "león"
-        ],
-        "link": "https://www.diariodeleon.es/leon/241002/1634163/viaje-cabo-canaveral-buena-idea.html",
-        "date": "2024-10-02 06:06:18",
-        "sentiment_score": 0.18424065224826336
-    },
-    {
-        "title": "El otro Park Güell de Barcelona: el parque desconocido que se convirtió en emblema de un barrio popular",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/30/historia/889921133_13519335_1706x960.jpg?contentId=ESPIMA20240930_0134",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/historia/20241002/otro-park-guell-de-barcelona-desconocido-emblema-barrio-popular/889911085_0.html",
-        "date": "2024-10-02 06:04:58",
-        "sentiment_score": 0.28193099796772003
-    },
-    {
-        "title": "La borrasca Aitor llega a Barcelona: vuelve la lluvia y las temperaturas caen en picado",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/05/13/vivir-en-barcelona/763433657_9105844_1706x960.jpg?contentId=ESPIMA20230513_0008",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241002/la-borrasca-aitor-llega-barcelona-vuelve-la-lluvia-las-temperaturas-caen-en-picado/890410956_0.html",
-        "date": "2024-10-02 06:03:06",
-        "sentiment_score": -0.8050831444561481
-    },
-    {
         "title": "El textil espera un cierre de año \"complicado\" pero espera un crecimiento moderado en 2025",
         "image_url": "./assets/ai_generated/v1_txt2img_c59ed00e55f5420cb8ee2735413ac32a.png",
         "tags": [
@@ -7471,5 +7190,549 @@ export default [
         "link": "https://www.elperiodico.com/es/barcelona/20241005/rambla-barcelona-celebrara-festa-roser-108954805",
         "date": "2024-10-05 17:00:06",
         "sentiment_score": 0.1455654464662075
+    },
+    {
+        "title": "Pedro Martínez: \"Es una buena victoria, pero hay automatismos que aún no tenemos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_d9ebede9a49343868c6d8e4bc0959c93.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/pedro-martinez-es-una-buena-victoria-pero-hay-automatismos-que-aun-no-tenemos/",
+        "date": "2024-10-05 21:47:35",
+        "sentiment_score": 0.04729348421096802
+    },
+    {
+        "title": "Albiol: \"Pinta mal pero esperemos que lo de Carvajal sea lo menos posible\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_e3b4c7e711a44e81aeb8eccbc25d1757.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/albiol-pinta-mal-pero-esperemos-que-lo-de-carvajal-sea-lo-menos-posible/",
+        "date": "2024-10-05 21:46:45",
+        "sentiment_score": 0.4528839960694313
+    },
+    {
+        "title": "Dani Miret: \"Es la primera vez que veo permitir 25 rebotes ofensivos\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_3a44698792214c82932176c351fdbe92.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/dani-miret-es-la-primera-vez-que-veo-permitir-25-rebotes-ofensivos/",
+        "date": "2024-10-05 21:46:25",
+        "sentiment_score": -0.13406436145305634
+    },
+    {
+        "title": "Valverde y Vinícius recuperan al Real Madrid (2-0)",
+        "image_url": "./assets/ai_generated/v1_txt2img_e4a5cb3e5191413bb3de66b0ae3928b3.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/valverde-y-vinicius-recuperan-al-real-madrid-2-0/",
+        "date": "2024-10-05 21:16:45",
+        "sentiment_score": 0.27704692631959915
+    },
+    {
+        "title": "2-0. Triunfo analgésico del Tenerife frente a un combativo Cartagena",
+        "image_url": "./assets/ai_generated/v1_txt2img_1287640375c84f2badf6ec9ae7b0251a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/2-0-triunfo-analgesico-del-tenerife-frente-a-un-combativo-cartagena/",
+        "date": "2024-10-05 21:16:27",
+        "sentiment_score": 0.6065891906619072
+    },
+    {
+        "title": "Loterías de Catalunya: ganadores de la 6/49 este 5 del octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/XSHXQQWK3NCEXFDT5ARSDIO4MA.jpg?auth=11e229f3795716421398710de19638ff209657e7b8b3096e38d5332032278351",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/05/loterias-de-catalunya-ganadores-de-la-649-este-5-del-octubre/",
+        "date": "2024-10-05 21:00:34",
+        "sentiment_score": 0.2693824637681246
+    },
+    {
+        "title": "Kroos, ovacionado en su regreso al Santiago Bernabéu 125 días después",
+        "image_url": "./assets/ai_generated/v1_txt2img_a3778c9be8c44765aa277af3a881f447.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/kroos-ovacionado-en-su-regreso-al-santiago-bernabeu-125-dias-despues/",
+        "date": "2024-10-05 20:45:37",
+        "sentiment_score": 0.4755941778421402
+    },
+    {
+        "title": "Luis Carrión reconoce que es un \"día difícil\" pero descarta dimitir",
+        "image_url": "./assets/ai_generated/v1_txt2img_04be0bff85424f2598cf22a15d6e19ed.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/luis-carrion-reconoce-que-es-un-dia-dificil-pero-descarta-dimitir/",
+        "date": "2024-10-05 20:30:58",
+        "sentiment_score": 0.09081462025642395
+    },
+    {
+        "title": "Valverde da ventaja al Real Madrid al descanso (1-0)",
+        "image_url": "./assets/ai_generated/v1_txt2img_23fffbd56de444a78b1f2911ff63123d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/valverde-da-ventaja-al-real-madrid-al-descanso-1-0/",
+        "date": "2024-10-05 20:02:30",
+        "sentiment_score": 0.7519149072468281
+    },
+    {
+        "title": "Claudio Giráldez destaca la defensa del área con dos futbolistas menos",
+        "image_url": "./assets/ai_generated/v1_txt2img_ee8b9f71b59547a1acedb6b748f1d820.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/05/claudio-giraldez-destaca-la-defensa-del-area-con-dos-futbolistas-menos/",
+        "date": "2024-10-05 20:02:14",
+        "sentiment_score": 0.7377688214182854
+    },
+    {
+        "title": "Las tres noticias destacadas de la tarde en del 5 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1712262549.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-5-de-octubre-2024-mirador-tarde-tv-fast",
+        "date": "2024-10-05 22:14:17",
+        "sentiment_score": 0.1606844738125801
+    },
+    {
+        "title": "Jefa de Gobierno de Ciudad de México promete continuidad al proyecto de Morena",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176026186.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/clara-brugada-jefa-gobierno-cdmx-sheinbaum",
+        "date": "2024-10-05 21:36:16",
+        "sentiment_score": 0.38949501514434814
+    },
+    {
+        "title": "Jefa de Gobierno de Ciudad de México promete continuidad al proyecto de Morena",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176026186.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "claudia sheinbaum",
+            "clara brugada",
+            "méxico",
+            "ciudad de méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/clara-brugada-jefa-gobierno-cdmx-sheinbaum/",
+        "date": "2024-10-05 21:36:16",
+        "sentiment_score": 0.41863542795181274
+    },
+    {
+        "title": "Dolly Parton colabora en las labores de socorro tras el huracán Helene y cambia el nombre de su clásico “Jolene”",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-horiz-dolly.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dolly-parton-canta-helene-tennessee-orix/",
+        "date": "2024-10-05 21:18:06",
+        "sentiment_score": 0.005254954099655151
+    },
+    {
+        "title": "Dolly Parton colabora en las labores de socorro tras el huracán Helene y cambia el nombre de su clásico “Jolene”",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-horiz-dolly.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dolly-parton-canta-helene-tennessee-orix",
+        "date": "2024-10-05 21:18:06",
+        "sentiment_score": -0.13918346166610718
+    },
+    {
+        "title": "“La mayoría de los rehenes secuestrados son civiles”, afirma padre de dos secuestrados por Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/60833492-30005044-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "toma de rehenes",
+            "xpress",
+            "israel hamas gaza",
+            "fast – reserve"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/itzik-horn-padre-rehenes-hamas-gaza-oppenheimer-presenta-tv-fast/",
+        "date": "2024-10-05 20:42:51",
+        "sentiment_score": -0.6838017962872982
+    },
+    {
+        "title": "“La mayoría de los rehenes secuestrados son civiles”, afirma padre de dos secuestrados por Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/60833492-30005044-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/itzik-horn-padre-rehenes-hamas-gaza-oppenheimer-presenta-tv-fast",
+        "date": "2024-10-05 20:42:51",
+        "sentiment_score": -0.5650712437927723
+    },
+    {
+        "title": "Toman las calles del mundo marchas previo al aniversario del 7 de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/marchas-propalestina-00-00-54-19-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-mundo-libano-palestina-israel-guerra-hamas-sot",
+        "date": "2024-10-05 20:19:01",
+        "sentiment_score": 0.009887434542179108
+    },
+    {
+        "title": "Toman las calles del mundo marchas previo al aniversario del 7 de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/marchas-propalestina-00-00-54-19-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "palestina",
+            "fast – news variety",
+            "israel",
+            "líbano",
+            "guerra de israel",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-mundo-libano-palestina-israel-guerra-hamas-sot/",
+        "date": "2024-10-05 20:19:01",
+        "sentiment_score": -0.3646133840084076
+    },
+    {
+        "title": "El Reino Unido cede Chagos a Mauricio: la reacción en las islas Malvinas y el entusiasmo del Gobierno de Argentina",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762751-gettyimages-73768115.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "malvinas",
+            "reino unido",
+            "argentina noticias",
+            "argentina",
+            "islas mauricio",
+            "mauricio",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/05/reino-unido-cede-chagos-mauricio-reaccion-malvinas-argentina-orix/",
+        "date": "2024-10-05 19:45:35",
+        "sentiment_score": -0.15915411710739136
+    },
+    {
+        "title": "La mujer más bonita del mundo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/10/05/carmina.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-mujer-bonita-mundo-20241005232648-nt.html",
+        "date": "2024-10-05 21:35:41",
+        "sentiment_score": -0.019205152988433838
+    },
+    {
+        "title": "La Franja mártir: guerra y tragedia humanitaria en una Gaza arrasada",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/04/gaza-strip-RSWS0OCv0ns7qKcq2bqgoUK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/franja-gaza-ratonera-muerto-41000-personas-20241004195518-nt.html",
+        "date": "2024-10-05 19:40:30",
+        "sentiment_score": -0.27164989709854126
+    },
+    {
+        "title": "Pillan a Trump bromeando sobre la viuda del bombero muerto el día de su atentado",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/05/DonaldTrump-k1p-U603159407526mGB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pillan-trump-bromeando-sobre-viuda-bombero-muerto-20241005211351-nt.html",
+        "date": "2024-10-05 19:13:51",
+        "sentiment_score": -0.07683569192886353
+    },
+    {
+        "title": "Israel, a un año del horror",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/sucesos/2024/10/03/droga-U15757702426Dfs-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-israel-ano-horror-20241006161847-nt.html",
+        "date": "2024-10-05 17:33:36",
+        "sentiment_score": -0.20841404795646667
+    },
+    {
+        "title": "La inmigración, cuestión de Estado, no de partidos",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/03/FOTO1-U52104461156HvS-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-inmigracion-cuestion-estado-partidos-20241006193307-nt.html",
+        "date": "2024-10-05 17:33:11",
+        "sentiment_score": -0.5046325325965881
+    },
+    {
+        "title": "Los riesgos de registrar la conciencia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/10/06/TERCERAABC_Elpreciodelaconciencia_Montalvo-RWNVIC0FHK23eXoYbksqdDP-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/federico-de-montalvo-jaaskelainen-riesgos-registrar-conciencia-20241006193252-nt.html",
+        "date": "2024-10-05 17:32:53",
+        "sentiment_score": -0.08476221561431885
+    },
+    {
+        "title": "El Rey y la parienta",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/01/guillen-kNuF--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-rey-parienta-20241006193236-nt.html",
+        "date": "2024-10-05 17:32:42",
+        "sentiment_score": -0.017125427722930908
+    },
+    {
+        "title": "«Queremos que apretéis»",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/sucesos/2024/10/03/droga-U15757702426Dfs-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/karina-sainz-borgo-queremos-apreteis-20241006193221-nt.html",
+        "date": "2024-10-05 17:32:30",
+        "sentiment_score": -0.10223689675331116
+    },
+    {
+        "title": "Sheinbaum, el Rey y el riesgo al boicot español",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/01/guillen-kNuF--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-i-sanchez-sheinbaum-rey-riesgo-boicot-espanol-20241006193202-nt.html",
+        "date": "2024-10-05 17:32:11",
+        "sentiment_score": -0.14732757210731506
+    },
+    {
+        "title": "Maldita empatía",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/10/03/guardiacivil-kLAE--170x119@La%20Verdad.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-maldita-empatia-20241006193130-nt.html",
+        "date": "2024-10-05 17:31:38",
+        "sentiment_score": -0.139492928981781
+    },
+    {
+        "title": "Un hombre muere tras ser abandonado frente al Hospital de Blanes con una herida en la cabeza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3O5HFJBYD5DLRDWZP776T6AD24.jpg?auth=34aeaac5d5a73a3b90fed6049d055f94c94e4ec458700c2c12cccf7cbd4f3df2&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-05/un-hombre-muere-tras-ser-abandonado-frente-al-hospital-de-blanes-con-una-herida-en-la-cabeza.html",
+        "date": "2024-10-05 20:01:34",
+        "sentiment_score": -0.05914577841758728
+    },
+    {
+        "title": "El pulso del presidente",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3185a166-a775-4914-ab16-f54a1e0b07f4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/deportes/2024/10/06/pulso-presidente-108965530.html",
+        "date": "2024-10-05 22:10:53",
+        "sentiment_score": -0.6827575117349625
+    },
+    {
+        "title": "¿Cuánto dinero tiene que pagar el Real Madrid por cada 5 goles de Endrick?",
+        "image_url": "https://cflvdg.avoz.es/sc/veTrLfGsfXFrmFK98fSbSHpQ4gg=/768x/2024/10/04/00121728060003491587117/Foto/EuropaPress_6247486_endrick_moreira_of_real_madrid_in_action_during_the_spanish_league_laliga-EP.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/10/04/dinero-pagar-real-madrid-5-goles-endrick/00031728060621572323587.htm",
+        "date": "2024-10-05 22:05:00",
+        "sentiment_score": -0.7087433114647865
+    },
+    {
+        "title": "Las mejores imágenes del Real Madrid-Villarreal",
+        "image_url": "https://static.grupojoly.com/clip/683b378f-d545-4c0d-abc0-ddbd310d120d_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/mejores-imagenes-real-madrid-villarreal_3_2002511914.html",
+        "date": "2024-10-05 22:03:12",
+        "sentiment_score": -0.7795321624726057
+    },
+    {
+        "title": "Gabilondo exige a Marlaska que autorice la entrada en España a todos los solicitantes saharauis de Barajas",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/saharauis-31-1-1440x808.jpg",
+        "tags": [
+            "españa",
+            "marruecos",
+            "sáhara occidental",
+            "fernando grande-marlaska",
+            "interior"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/06/gabilondo-exige-a-marlaska-que-autorice-la-entrada-en-espana-a-todos-los-solicitantes-saharauis-de-barajas/",
+        "date": "2024-10-05 22:00:44",
+        "sentiment_score": -0.7678186744451523
+    },
+    {
+        "title": "El Frente, el mal endémico del Atlético de Madrid que se mueve entre las drogas, la violencia y el fútbol",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/5cf9f5d48f30df605ce8f87612d16ce1ab375419-1440x808.jpg",
+        "tags": [
+            "fútbol",
+            "españa",
+            "atlético de madrid",
+            "policía nacional",
+            "sucesos"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/06/el-frente-el-mal-endemico-del-atletico-de-madrid-que-se-mueve-entre-las-drogas-la-violencia-y-el-futbol/",
+        "date": "2024-10-05 22:00:36",
+        "sentiment_score": -0.825474988669157
+    },
+    {
+        "title": "Madrid resuelve el grave problema de falta de plasma",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/17/2024091705421992382.jpg",
+        "tags": [
+            "vivir"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/vivir/madrid-resuelve-grave-problema-falta-plasma/20241006000000853200.html",
+        "date": "2024-10-05 22:00:00",
+        "sentiment_score": 0.2545142453163862
+    },
+    {
+        "title": "¿Quiénes son los padres de Gonzalo Higuaín? Te contamos todo sobre su familia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/04/2024100420080788709.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-gonzalo-higuain-contamos-todo-familia/20241006000000853446.html",
+        "date": "2024-10-05 22:00:00",
+        "sentiment_score": 0.8557068780064583
+    },
+    {
+        "title": "Los ignorantes no dudan (así cualquiera)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e7bd37f8-24b0-469c-bb94-0d285aed5c79_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2024/10/05/ignorantes-dudan-108957723.html",
+        "date": "2024-10-05 21:59:11",
+        "sentiment_score": -0.5184930488467216
+    },
+    {
+        "title": "Vinícius Jr. revitaliza al Real Madrid, que doblegó a Villarreal",
+        "image_url": "./assets/ai_generated/v1_txt2img_dfb97f7b303b439b9593383c00e28d1d.png",
+        "tags": [
+            "villarreal",
+            "real madrid",
+            "fútbol",
+            "vinícius júnior",
+            "deportes"
+        ],
+        "link": "https://eltiempove.com/vinicius-jr-revitaliza-al-real-madrid-que-doblego-a-villarreal/",
+        "date": "2024-10-05 21:55:55",
+        "sentiment_score": 0.5739125609397888
+    },
+    {
+        "title": "Dani Carvajal se marcha entre lágrimas del triunfo del Real Madrid",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/AP24279758184621-e1728165207385.jpg",
+        "tags": [
+            "dani carvajal",
+            "fútbol",
+            "real madrid",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/10/05/dani-carvajal-se-marcha-entre-lagrimas-del-triunfo-del-real-madrid/",
+        "date": "2024-10-05 21:54:40",
+        "sentiment_score": -0.8565154820680618
+    },
+    {
+        "title": "Ingenio licita dos proyectos de asfaltado por 1,5 millones",
+        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2024/10/05/obras-ejido.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.canarias7.es/canarias/gran-canaria/ingenio-licita-dos-proyectos-asfaltado-millones-20241006231421-nt.html",
+        "date": "2024-10-05 22:14:22",
+        "sentiment_score": 0.13474367558956146
+    },
+    {
+        "title": "París enamora con colecciones que mezclan frescura y sofisticación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9bd2385c-e563-4316-bf2b-829fc5c88d60_16-9-discover-aspect-ratio_default_0_x178y149.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodemallorca.es/sociedad/2024/10/06/paris-enamora-colecciones-mezclan-frescura-108964748.html",
+        "date": "2024-10-05 22:09:29",
+        "sentiment_score": 0.25733402371406555
+    },
+    {
+        "title": "Ángeles y demonios",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/05/67015b708f00a.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241006/9998892/angeles-demonios.html",
+        "date": "2024-10-05 22:07:01",
+        "sentiment_score": -0.6680058799684048
+    },
+    {
+        "title": "Senior living, la nueva forma de vivir jubilado",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/04/66ffff90154b6.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241006/9997107/nueva-forma-vivir-jubilado.html",
+        "date": "2024-10-05 22:05:00",
+        "sentiment_score": 0.5710473265498877
+    },
+    {
+        "title": "Boldyn Networks, proveedor de 5G a la industria más puntera",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/04/67000fe94a164.r_d.2811-1421-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241006/9997294/proveedor-5g-industria-mas-puntera-wifi-boldyn-networks.html",
+        "date": "2024-10-05 22:05:00",
+        "sentiment_score": -0.2698766328394413
+    },
+    {
+        "title": "El precio del café alcanza máximos en diez años con las existencias exhaustas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/05/67017850ef487.r_d.1541-1027-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241006/9999068/precio-cafe-alcanza-maximos-diez-anos-existencias-exhaustas.html",
+        "date": "2024-10-05 22:05:00",
+        "sentiment_score": -0.8030848931521177
+    },
+    {
+        "title": "El aceite de oliva vuelve a brotar",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/04/6700339c98564.r_d.2126-1417-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241006/9997581/aceite-oliva-vuelve-brotar.html",
+        "date": "2024-10-05 22:05:00",
+        "sentiment_score": 0.5556281991302967
+    },
+    {
+        "title": "Óscar Fanjul: del petróleo a las telecos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/05/67017ee9b1749.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241006/9999086/petroleo-telecos.html",
+        "date": "2024-10-05 22:05:00",
+        "sentiment_score": 0.08731100335717201
+    },
+    {
+        "title": "Un hospital medieval para clérigos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/04/66ff9763033b7.r_d.2273-847-0.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20241006/9995332/hospital-medieval-clerigos-barcelona-secreta.html",
+        "date": "2024-10-05 22:05:00",
+        "sentiment_score": -0.14251122623682022
+    },
+    {
+        "title": "\"Mi padre es el motor que me ha puesto a escribir\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/05/creacion/891170918_13543184_1706x960.jpg?contentId=ESPIMA20241005_0044",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20241006/mi-padre-es-motor-que-puesto-escribir/891160923_0.html",
+        "date": "2024-10-05 22:00:00",
+        "sentiment_score": -0.5181879699230194
     }
 ];
