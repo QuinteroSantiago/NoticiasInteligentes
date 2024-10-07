@@ -1,261 +1,5 @@
 export default [
     {
-        "title": "El Nikkei sube un 1,97 % por el yen y tras la reunión de Ishiba con el gobernador del BoJ",
-        "image_url": "./assets/ai_generated/v1_txt2img_92d6fed18c05426891b8a5435c7199bd.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/03/el-nikkei-sube-un-197-por-el-yen-y-tras-la-reunion-de-ishiba-con-el-gobernador-del-boj/",
-        "date": "2024-10-03 06:16:53",
-        "sentiment_score": 0.024699822068214417
-    },
-    {
-        "title": "El Joker de Joaquin Phoenix y Lady Gaga encabeza una cartelera de cine con mucho drama",
-        "image_url": "./assets/ai_generated/v1_txt2img_ea2c0e293a80467480d8ca6d6cb53ac4.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/03/el-joker-de-joaquin-phoenix-y-lady-gaga-encabeza-una-cartelera-de-cine-con-mucho-drama/",
-        "date": "2024-10-03 06:16:32",
-        "sentiment_score": -0.43010208010673523
-    },
-    {
-        "title": "El Chillida más personal salta al cómic en un ‘road-trip’ juvenil sobre su legado",
-        "image_url": "./assets/ai_generated/v1_txt2img_7453958e8c044086820aeec516df370c.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/03/el-chillida-mas-personal-salta-al-comic-en-un-road-trip-juvenil-sobre-su-legado/",
-        "date": "2024-10-03 06:16:16",
-        "sentiment_score": -0.06921518594026566
-    },
-    {
-        "title": "El exasesor jurídico de la RFEF comparece hoy como investigado ante la juez de la 'Supercopa'",
-        "image_url": "https://www.infobae.com/resizer/v2/V63CIQUFQ5GTZKJONUKER6RWHY.jpg?auth=76243e05224684d2cd3206991c1ca5a612181d58880a1a30dd4453a37ff4b28d",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/03/el-exasesor-juridico-de-la-rfef-comparece-hoy-como-investigado-ante-la-juez-de-la-supercopa/",
-        "date": "2024-10-03 06:05:12",
-        "sentiment_score": -0.11950002610683441
-    },
-    {
-        "title": "España envía hoy dos aviones del Ejército para evacuar a al menos 350 españoles que quieren salir de Líbano",
-        "image_url": "https://www.infobae.com/resizer/v2/RIPOPHH4RFAEFGLTLFVYPTDWDY.jpg?auth=47f853348d72ef8d51ad012839988c3f76431a7bda58faf85700eec506f61450",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/03/espana-envia-hoy-dos-aviones-del-ejercito-para-evacuar-a-al-menos-350-espanoles-que-quieren-salir-de-libano/",
-        "date": "2024-10-03 06:04:29",
-        "sentiment_score": -0.05469653010368347
-    },
-    {
-        "title": "El caso de Baiuca o \"cómo se puede llegar lejos cantando en gallego\"",
-        "image_url": "./assets/ai_generated/v1_txt2img_d391e771fbe640c7884afcbe6bc4b59f.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/03/el-caso-de-baiuca-o-como-se-puede-llegar-lejos-cantando-en-gallego/",
-        "date": "2024-10-03 06:01:17",
-        "sentiment_score": -0.11378592252731323
-    },
-    {
-        "title": "Descubren una nueva debilidad de los coches eléctricos: el agua salada puede aumentar su tendencia a incendiarse",
-        "image_url": "https://www.infobae.com/resizer/v2/Q4WEWJBM3JALNJT427U7LCNC3U.jpg?auth=3ae23c76e3f14e3d472238ac1abcc1f00e6d6fc6ec145df2f5fed6bb3b4d1280",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/10/03/descubren-una-nueva-debilidad-de-los-coches-electricos-el-agua-salada-puede-aumentar-su-tendencia-a-incendiarse/",
-        "date": "2024-10-03 06:01:08",
-        "sentiment_score": -0.44151394441723824
-    },
-    {
-        "title": "Seis comunidades están en alerta por lluvia, viento, tormentas, mala mar o calor",
-        "image_url": "./assets/ai_generated/v1_txt2img_e6193cb8e9c94bad9ed27c23ce30f7e3.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/03/seis-comunidades-estan-en-alerta-por-lluvia-viento-tormentas-mala-mar-o-calor/",
-        "date": "2024-10-03 06:01:00",
-        "sentiment_score": -0.8104742858558893
-    },
-    {
-        "title": "Qué pasa si comes patatas fritas todos los días",
-        "image_url": "https://www.infobae.com/resizer/v2/BR3663HJBBB67BQO4UYAYTAFHQ.png?auth=ac0da4ff437b0c38951cf10c04a97d71ad2f1b4696b16fe0b2ee2108f07fd6e4",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/10/03/que-pasa-si-comes-patatas-fritas-todos-los-dias/",
-        "date": "2024-10-03 05:55:10",
-        "sentiment_score": 0.8007766511291265
-    },
-    {
-        "title": "La AN juzga hoy a un acusado de querer \"adquirir armas\" para la \"comisión\" de atentados para Estado Islámico",
-        "image_url": "./assets/ai_generated/v1_txt2img_074f5bc31e8547e8bbb678afd1cb5c5a.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/03/la-an-juzga-hoy-a-un-acusado-de-querer-adquirir-armas-para-la-comision-de-atentados-para-estado-islamico/",
-        "date": "2024-10-03 05:49:52",
-        "sentiment_score": -0.7975603230297565
-    },
-    {
-        "title": "Los 'cascos azules' de la misión de la ONU en Líbano seguirán en sus puestos pese a que Israel ha pedido su retirada",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/03/onu-libano-kTjH-U6031482129680LF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/cascos-azules-mision-onu-libano-seguiran-puestos-20241003081042-nt.html",
-        "date": "2024-10-03 06:15:47",
-        "sentiment_score": -0.038157761096954346
-    },
-    {
-        "title": "Primeras partes no son buenas",
-        "image_url": "./assets/ai_generated/v1_txt2img_6bd0df92431643769ced3d395d2c7b97.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/10/02/primeras-partes-no-son-buenas/",
-        "date": "2024-10-03 06:30:58",
-        "sentiment_score": -0.8607473149895668
-    },
-    {
-        "title": "Kate Middleton reaparece tras el fin de su tratamiento y la vuelta de Harry a Londres",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/08/harry-guillermo-funeral-469x317.jpeg",
-        "tags": [
-            "gente",
-            "príncipe harry",
-            "kate middleton",
-            "celebrities"
-        ],
-        "link": "https://theobjective.com/gente/2024-10-03/kate-middleton-reaparece-vuelta-harry/",
-        "date": "2024-10-03 06:30:00",
-        "sentiment_score": 0.1258673593401909
-    },
-    {
-        "title": "El Celta para menos que nadie",
-        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/10/03/2024100308254263427.jpg",
-        "tags": [
-            "celtismo"
-        ],
-        "link": "https://www.atlantico.net/articulo/celtismo/celta-menos-que-nadie/202410030827571053305.html",
-        "date": "2024-10-03 06:27:57",
-        "sentiment_score": -0.7273527067154646
-    },
-    {
-        "title": "Cómo evitar la ratonera de las obras que llegan en la A-5: el Ayuntamiento recomienda entrar en la ciudad por la M-40",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/308921ee9f0e69f5d7675c9d6a05aff1/crop/37x0/2967x1953/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/02/17278912925972.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "madrid",
-            "artículos carlos guisasola",
-            "josé luis martínez-almeida"
-        ],
-        "link": "https://www.elmundo.es/madrid/2024/10/03/66fd883621efa0a35b8b4582.html",
-        "date": "2024-10-03 06:25:18",
-        "sentiment_score": 0.14402060583233833
-    },
-    {
-        "title": "La 'BMV' del Real Madrid no pasa la ITV de la Champions con la primera derrota tras 37 partidos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b29700c6-42c9-4dbb-abe5-59d87224cd05_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/10/03/bmv-real-madrid-pasa-itv-108862661.html",
-        "date": "2024-10-03 06:19:13",
-        "sentiment_score": -0.4473023861646652
-    },
-    {
-        "title": "El presidente del Mercado San José responde a las críticas",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1105577",
-        "date": "2024-10-03 06:30:55",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Un camión accidentado en Sant Cugat del Vallès provoca retenciones kilométricas en la AP-7",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/03/66fe3961b7775.r_d.532-400-0.jpeg",
-        "tags": [
-            "vallès occidental"
-        ],
-        "link": "https://www.lavanguardia.com/local/valles-occidental/20241003/9991952/camion-accidentado-sant-cugat-valles-provoca-retenciones-kilometricas-ap-7.html",
-        "date": "2024-10-03 06:28:04",
-        "sentiment_score": -0.022767014801502228
-    },
-    {
-        "title": "Alting agita Barcelona con la compra de dos edificios en paseo de Gràcia y Diagonal",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/03/eixample/890670928_13529185_1706x960.jpg?contentId=ESPIMA20241003_0004",
-        "tags": [
-            "business"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20241003/alting-agita-barcelona-con-la-compra-de-dos-edificios-en-paseo-gracia-diagonal/890660932_0.html",
-        "date": "2024-10-03 06:22:48",
-        "sentiment_score": 0.6738728433847427
-    },
-    {
-        "title": "Comín pide que se le \"levante la orden de detención\" para prometer la Constitución en Madrid",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241003082054_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-comin-pide-le-levante-orden-detencion-prometer-constitucion-madrid-20241003082054.html",
-        "date": "2024-10-03 06:20:54",
-        "sentiment_score": -0.1696077287197113
-    },
-    {
-        "title": "Qué santo se celebra este 3 de octubre; así fue su vida",
-        "image_url": "https://www.infobae.com/resizer/v2/34YTCDH66RDJTJ4UNZIKOOI3JQ.jpg?auth=72dcc5dcd9ea7034b7f5b835fd8c8dfc6d235524512c50af17eba3efe8f18d56",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/noticias/2024/10/03/que-santo-se-celebra-este-3-de-octubre-asi-fue-su-vida/",
-        "date": "2024-10-03 06:16:14",
-        "sentiment_score": -0.008896604180335999
-    },
-    {
-        "title": "Els Bombers atenen més d’una trentena d’avisos per pluges durant la nit",
-        "image_url": "https://elmon.cat/app/uploads/sites/15/2023/04/rain-g8ec24777f_1280.jpg",
-        "tags": [
-            "societat"
-        ],
-        "link": "https://elmon.cat/societat/bombers-atenen-trentena-davisos-pluges-nit-908736/",
-        "date": "2024-10-03 06:09:05",
-        "sentiment_score": -0.9265179550275207
-    },
-    {
-        "title": "El ermitaño de Ceuta vive en la ciudad",
-        "image_url": "./assets/ai_generated/v1_txt2img_2440a904a3944398a4f34687f22ac7ec.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1105562",
-        "date": "2024-10-03 06:04:40",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "AEMET pone en alerta a seis comunidades por lluvia, viento, tormentas, mala mar o calor",
-        "image_url": "https://static.eldiario.es/clip/7fa25aa7-5380-4145-b957-dd45c585cde9_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/sociedad/seis-comunidades-alerta-lluvia-viento-tormentas-mala-mar-calor_1_11702600.html",
-        "date": "2024-10-03 06:01:00",
-        "sentiment_score": -0.12174838781356812
-    },
-    {
-        "title": "Naiara, pregonera de las Fiestas del Pilar 2024: \"Es un sueño hecho realidad\"",
-        "image_url": "https://s1.elespanol.com/2024/02/20/bluper/834177434_240115160_1706x960.jpg?contentId=ESPIMA20240220_0860",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/aragon/actualidad/zaragoza/20241003/naiara-pregonera-fiestas-pilar-sueno-hecho-realidad/890411536_0.html",
-        "date": "2024-10-03 06:00:00",
-        "sentiment_score": 0.42896778881549835
-    },
-    {
         "title": "Cómo es la señal de prohibido aparcar y cómo diferenciarla de la de prohibido parar",
         "image_url": "https://www.infobae.com/resizer/v2/PDFG43WRVNASJP7UYAMK46BXAA.png?auth=7758091262bff5545e7e4d03dd8b8d3fdf50ea50fd70d16ef0dca9c636308043",
         "tags": [
@@ -7350,5 +7094,504 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2024/10/06/alemania-se-convierte-en-el-primer-vencedor-de-la-liga-de-naciones-de-salto-a-caballo/",
         "date": "2024-10-06 17:01:01",
         "sentiment_score": 0.859747588634491
+    },
+    {
+        "title": "1-1. Un ambicioso Córdoba logra su primer punto en Albacete",
+        "image_url": "./assets/ai_generated/v1_txt2img_ac1d1f14d5c348bdafb040285acdc44b.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/1-1-un-ambicioso-cordoba-logra-su-primer-punto-en-albacete/",
+        "date": "2024-10-06 21:46:53",
+        "sentiment_score": 0.6047844588756561
+    },
+    {
+        "title": "Zaragoza arranca a bailar con La Bachata de Manuel Turizo en las Fiestas del Pilar",
+        "image_url": "./assets/ai_generated/v1_txt2img_4f06784cc86f4e07864dcdfed8d744a1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/zaragoza-arranca-a-bailar-con-la-bachata-de-manuel-turizo-en-las-fiestas-del-pilar/",
+        "date": "2024-10-06 21:46:34",
+        "sentiment_score": 0.8493940783664584
+    },
+    {
+        "title": "La Real Sociedad rompe la telaraña del Atlético de Madrid y consigue el empate tras un gol tempranero de Julián Álvarez",
+        "image_url": "https://www.infobae.com/resizer/v2/GI7SCRVXSJHSPOTFFWJ2AZ3E4Y.jpg?auth=b476b96e97dcdd6b35a469f14c52d48ed376bc882aa8a865bf3cf9f452d1192a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2024/10/06/la-real-sociedad-rompe-la-telarana-del-atletico-de-madrid-y-consigue-el-empate-tras-un-gol-tempranero-de-julian-alvarez/",
+        "date": "2024-10-06 21:22:05",
+        "sentiment_score": -0.4027560129761696
+    },
+    {
+        "title": "Soberón iguala a Andrés Martín al frente de la tabla",
+        "image_url": "./assets/ai_generated/v1_txt2img_8720dfff3f374153b64ffe95b167adad.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/soberon-iguala-a-andres-martin-al-frente-de-la-tabla/",
+        "date": "2024-10-06 21:16:35",
+        "sentiment_score": 0.7917948924005032
+    },
+    {
+        "title": "El Levante no puede con el Oviedo y confirma el liderato del Racing de Santander",
+        "image_url": "./assets/ai_generated/v1_txt2img_5e6c886b477e4094b348eb198ad2f61e.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/el-levante-no-puede-con-el-oviedo-y-confirma-el-liderato-del-racing-de-santander/",
+        "date": "2024-10-06 21:16:16",
+        "sentiment_score": -0.08507445454597473
+    },
+    {
+        "title": "Decretan prisión para el supuesto autor de la muerte de su suegro en Aranda (Burgos)",
+        "image_url": "./assets/ai_generated/v1_txt2img_620ea1bc15504c2e86cbc5999d8c9de6.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/decretan-prision-para-el-supuesto-autor-de-la-muerte-de-su-suegro-en-aranda-burgos/",
+        "date": "2024-10-06 20:31:20",
+        "sentiment_score": -0.8199282605201006
+    },
+    {
+        "title": "García Pimienta: \"Si somos capaces de competir así, podemos ganarle a cualquier equipo\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_e912b62ad5b4486ebb16095d15b29342.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/garcia-pimienta-si-somos-capaces-de-competir-asi-podemos-ganarle-a-cualquier-equipo/",
+        "date": "2024-10-06 20:31:16",
+        "sentiment_score": 0.8156528528779745
+    },
+    {
+        "title": "El árbitro recoge en el acta \"el lanzamiento\" de una \"botella de plástico llena de agua\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_ca68bf1453524710b87975e9153b0eaa.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/el-arbitro-recoge-en-el-acta-el-lanzamiento-de-una-botella-de-plastico-llena-de-agua/",
+        "date": "2024-10-06 20:30:58",
+        "sentiment_score": -0.1024680957198143
+    },
+    {
+        "title": "Pellegrini lamenta el gol de penalti en un partido \"limpio y disputado\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_9f8fd829f3be44859fce7987e59abdf2.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/pellegrini-lamenta-el-gol-de-penalti-en-un-partido-limpio-y-disputado/",
+        "date": "2024-10-06 20:02:09",
+        "sentiment_score": -0.6666146889328957
+    },
+    {
+        "title": "Joan Peñarroya: \"El descanso no se lo pueden coger los jugadores en la pista\"",
+        "image_url": "./assets/ai_generated/v1_txt2img_f8cd0ebd899d476dbaecc592e886bbef.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/joan-penarroya-el-descanso-no-se-lo-pueden-coger-los-jugadores-en-la-pista/",
+        "date": "2024-10-06 20:01:54",
+        "sentiment_score": 0.5370715856552124
+    },
+    {
+        "title": "Un video muestra los túneles de Hezbollah descubiertos por las FDI",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175936588.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-tuneles-hezbollah-idf-israel-trax",
+        "date": "2024-10-06 22:07:46",
+        "sentiment_score": -0.14198263734579086
+    },
+    {
+        "title": "Un video muestra los túneles de Hezbollah descubiertos por las FDI",
+        "image_url": "./assets/ai_generated/v1_txt2img_e530fa6173754cef9608e24fd2758b82.png",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "ataque israel hezbollah",
+            "hezbollah",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-tuneles-hezbollah-idf-israel-trax/",
+        "date": "2024-10-06 22:07:46",
+        "sentiment_score": -0.19159438461065292
+    },
+    {
+        "title": "Esto dijo Elon Musk en el mitin de Trump en Butler, Pensilvania",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-musk.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elon-musk-trump-butler-pensilvania-ush-trax",
+        "date": "2024-10-06 21:55:10",
+        "sentiment_score": -0.20549939572811127
+    },
+    {
+        "title": "Esto dijo Elon Musk en el mitin de Trump en Butler, Pensilvania",
+        "image_url": "./assets/ai_generated/v1_txt2img_77e31f8deb2c4b3291ca22987a7ad012.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elon-musk-trump-butler-pensilvania-ush-trax/",
+        "date": "2024-10-06 21:55:10",
+        "sentiment_score": -0.5345492847263813
+    },
+    {
+        "title": "Las bajas de Argentina, Brasil y Colombia para la fecha FIFA de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176956878-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lesionados-fecha-fifa-conmebol-sudamerica-futbol-cnn-deportes-tv",
+        "date": "2024-10-06 21:45:00",
+        "sentiment_score": -0.06241583451628685
+    },
+    {
+        "title": "CNN visita el kibutz donde murieron más de 100 personas en el atentado del 7 de octubre",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/49838013-04931535-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "guerra israel y hamas",
+            "videos digitales",
+            "conflicto israel y palestina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kibutz-visita-ataque-trax/",
+        "date": "2024-10-06 21:25:51",
+        "sentiment_score": -0.7502537723630667
+    },
+    {
+        "title": "El papa Francisco nombra 21 nuevos cardenales y amplía el grupo de personas que elegirán a su sucesor",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762998-gettyimages-2177063039.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "papa francisco",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/06/papa-francisco-cardenales-elegir-sucesor-trax/",
+        "date": "2024-10-06 21:21:43",
+        "sentiment_score": 0.45295384526252747
+    },
+    {
+        "title": "Vuelo de Frontier Airlines realiza un aterrizaje brusco y en llamas en Las Vegas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1763013-still-21018262-2127-349-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "aterrizaje de emergencia",
+            "aviación",
+            "las vegas",
+            "instanoticias",
+            "frontier airlines"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/06/vuelo-frontier-airlines-aterrizaje-brusco-llamas-las-vegas-trax/",
+        "date": "2024-10-06 20:18:19",
+        "sentiment_score": -0.7393584381788969
+    },
+    {
+        "title": "Estos son los 9 rehenes latinoamericanos que siguen en manos de Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1740988-aaaa.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "conflicto israel y palestina",
+            "hamas",
+            "medio oriente",
+            "rehenes"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/06/quienes-rehenes-latinos-hamas-orix/",
+        "date": "2024-10-06 19:41:51",
+        "sentiment_score": -0.39605000615119934
+    },
+    {
+        "title": "Conoce la cultura de la India con Destinos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/74922131-05930301-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/destinos-india-fast",
+        "date": "2024-10-06 18:46:34",
+        "sentiment_score": -0.09337513893842697
+    },
+    {
+        "title": "Zotal en el PSOE",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/10/01/soraya-georgina-kg4F--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-zotal-psoe-20241007224941-nts.html",
+        "date": "2024-10-06 20:51:29",
+        "sentiment_score": -0.11884623765945435
+    },
+    {
+        "title": "Las rejas de la muerte",
+        "image_url": "https://s1.ppllstatics.com/larioja/www/multimedia/2024/10/02/aves--170x119.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-rejas-muerte-20241007202616-nts.html",
+        "date": "2024-10-06 19:03:45",
+        "sentiment_score": -0.1902807503938675
+    },
+    {
+        "title": "Martínez Gauna, el monje",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/07/JuanCarlosMartinez01_20241006193351-RyRV8UXVtbTtqZHuporVXCK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-martinez-gauna-monje-20241007193335-nt.html",
+        "date": "2024-10-06 18:27:30",
+        "sentiment_score": -0.08165314793586731
+    },
+    {
+        "title": "Átame",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/09/27/interior-oficina-sepe-RjS2Q7J5NP-ko7G--170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-atame-20241007200822-nt.html",
+        "date": "2024-10-06 18:14:07",
+        "sentiment_score": -0.050440967082977295
+    },
+    {
+        "title": "Andalucía, granero de votos y escándalos para el PSOE",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/10/03/guardiacivil-kLAE--170x119@La%20Verdad.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-andalucia-granero-votos-escandalos-psoe-20241007195430-nt.html",
+        "date": "2024-10-06 17:54:34",
+        "sentiment_score": -0.5887304171919823
+    },
+    {
+        "title": "Cuando muere un policía...",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/10/01/gordo-U08101533214EOL-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-muere-policia-20241007194550-nt.html",
+        "date": "2024-10-06 17:45:58",
+        "sentiment_score": -0.35760150849819183
+    },
+    {
+        "title": "La descomposición ha comenzado",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/10/01/soraya-georgina-kg4F--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-descomposicion-comenzado-20241007194535-nt.html",
+        "date": "2024-10-06 17:45:45",
+        "sentiment_score": -0.15137453377246857
+    },
+    {
+        "title": "'Delenda est monarchia'",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/03/FOTO1-U52104461156HvS-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-delenda-est-monarchia-20241007194519-nt.html",
+        "date": "2024-10-06 17:45:28",
+        "sentiment_score": -0.09664291143417358
+    },
+    {
+        "title": "La anomalía presupuestaria",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/02/loteria-premio-euromillones-k2ZF--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-anomalia-presupuestaria-20241007194503-nt.html",
+        "date": "2024-10-06 17:45:10",
+        "sentiment_score": -0.11040610074996948
+    },
+    {
+        "title": "Gaza, un año después",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/07/ABCTERCERA_Gazaunan%CC%83odespues_DELACORTE-RtkF55SlFd60aA2MeoZVucO-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-de-la-corte-ibanez-gaza-ano-despues-20241007194446-nt.html",
+        "date": "2024-10-06 17:44:47",
+        "sentiment_score": -0.3146468549966812
+    },
+    {
+        "title": "Los vecinos de Aluche y Campamento exigen a Almeida cumplir su promesa y soterrar la A-5 junto a sus viviendas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SIPI3HWXDNCFTJTXJTFULVXBEI.jpg?auth=192a44e51cf52440e14c456655117330cb9a45847abdc339559a2b51d08db543&width=1200",
+        "tags": [
+            "comunidad de madrid",
+            "autovías",
+            "latina",
+            "ayuntamiento madrid",
+            "a-5",
+            "operación campamento",
+            "madrid",
+            "carreteras nacionales",
+            "vecinos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-06/los-vecinos-de-aluche-y-campamento-exigen-a-almeida-cumplir-su-promesa-y-soterrar-la-a-5-junto-a-sus-viviendas.html",
+        "date": "2024-10-06 20:15:19",
+        "sentiment_score": -0.7427564486861229
+    },
+    {
+        "title": "El equipo español de la edición femenina de la Copa del América culmina una gran jornada con la segunda posición del grupo B",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YRWBEHVJ6ZELZKRS37CNXQFZ2A.jpg?auth=1de1a612ad4c51cde3ee0b5cac80fda0146b465fa9d1927c4cc6c2f413a0bb08&width=1200",
+        "tags": [
+            "deportes",
+            "copa américa vela",
+            "competiciones",
+            "vela",
+            "cataluña",
+            "regatas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-06/el-equipo-espanol-de-la-edicion-femenina-de-la-copa-del-america-culmina-una-gran-jornada-con-la-segunda-posicion-del-grupo-b.html",
+        "date": "2024-10-06 19:39:57",
+        "sentiment_score": -0.2581826001405716
+    },
+    {
+        "title": "El Rey carga en Jordania contra quienes “deciden la guerra y redibujan fronteras” a costa de civiles inocentes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BLDSVEYJ3YZ6XW7QXSK4E362SY.jpg?auth=880c8937480d5746a90a585c8f8924678f0be3cd2cc50d22c3e23b4a07e55fd9&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elpais.com/espana/2024-10-06/el-rey-carga-en-jordania-contra-quienes-deciden-la-guerra-y-redibujan-fronteras-a-costa-de-civiles-inocentes.html",
+        "date": "2024-10-06 17:28:58",
+        "sentiment_score": -0.5139542520046234
+    },
+    {
+        "title": "Una obra de arte de Sucic salva un punto",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/10/06/98623461-k11D--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/obra-arte-sucic-salva-punto-20241006235955-nt.html",
+        "date": "2024-10-06 22:13:35",
+        "sentiment_score": -0.48813945055007935
+    },
+    {
+        "title": "Vivencias después de la muerte",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/06/manuel-sans-ki2G-U22014310724433wE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/culturas/vivencias-despues-muerte-20241006000729-ntrc.html",
+        "date": "2024-10-06 22:12:29",
+        "sentiment_score": -0.2276359349489212
+    },
+    {
+        "title": "Biometano: la energía renovable para impulsar el campo español",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88d698ab-b3d2-4bce-82a4-9df76b8136ee_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/sociedad/2024/10/07/biometano-energia-renovable-impulsar-campo-109001985.html",
+        "date": "2024-10-06 22:00:23",
+        "sentiment_score": 0.6593137420713902
+    },
+    {
+        "title": "Los estancos ya no venden tabaco calentado de sabores",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/09/23/2024092312044611467.jpg",
+        "tags": [
+            "vivir"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/vivir/estancos-venden-tabaco-calentado-sabores/20241007000000853232.html",
+        "date": "2024-10-06 22:00:00",
+        "sentiment_score": 0.1174604743719101
+    },
+    {
+        "title": "El Barcelona goleó al Alavés con “hat-trick” de Lewandowski",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/94beeb067b3ea713fd613bd37f49ccfe9da4186dw.jpg",
+        "tags": [
+            "fc barcelona",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/10/06/el-barcelona-goleo-al-alaves-con-hat-trick-de-lewandowski/",
+        "date": "2024-10-06 21:56:30",
+        "sentiment_score": 0.6683861762285233
+    },
+    {
+        "title": "Vinicius Jr se cae de la lista de convocados de la Seleçao por lesión",
+        "image_url": "./assets/ai_generated/v1_txt2img_7e68c429bc1447f29def5ce11dd5cd77.png",
+        "tags": [
+            "deportes",
+            "real madrid",
+            "fútbol",
+            "brasil",
+            "vinicius jr",
+            "seleçao"
+        ],
+        "link": "https://www.elnacional.com/deportes/vinicius-jr-se-cae-de-la-lista-de-convocados-de-la-selecao/",
+        "date": "2024-10-06 21:55:56",
+        "sentiment_score": -0.2825319394469261
+    },
+    {
+        "title": "«No es normal que tengamos tan pocos puntos»",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/10/06/1487061034-ka5G-U2201431820972nTB-1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/normal-pocos-puntos-20241006235134-nt.html",
+        "date": "2024-10-06 21:51:34",
+        "sentiment_score": -0.8458005134016275
+    },
+    {
+        "title": "LaLiga EA Sports | El Espanyol afronta el parón 14o, cuatro puntos por sobre del descenso que ocupan Valencia (6), Valladolid (5) y UD Las Palmas (3)",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/10/laliga-ea-sports-jornada-9-clasificacion-750x375.jpg",
+        "tags": [
+            "laliga ea sports",
+            "resultados",
+            "actualidad",
+            "jornada 9",
+            "clasificación"
+        ],
+        "link": "https://lagradaonline.com/espanyol-mallorca-jornada-9-resultados-resumenes-goles-clasificacion-primera-division-laliga-ea-sportsga-ea-sports-domingo/",
+        "date": "2024-10-06 21:48:49",
+        "sentiment_score": 0.7999471388757229
+    },
+    {
+        "title": "David Escudé, el hombre que exprimió al Barça con el traslado a Montjuïc",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/02/culemania/palco/890421047_13527041_1706x960.jpg?contentId=ESPIMA20241002_0098",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241005/david-escude-el-exprimio-barca-traslado-montjuic/890411028_0.html",
+        "date": "2024-10-06 22:11:21",
+        "sentiment_score": 0.6413860954344273
+    },
+    {
+        "title": "«La idea es volver a Granada para rodar un nuevo proyecto»",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/07/cristobal-garcia-segundo-premio%20(3)-kOCC-U2201416722995mgC-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/culturas/idea-volver-granada-rodar-nuevo-proyecto-20241007000945-nt.html",
+        "date": "2024-10-06 22:09:46",
+        "sentiment_score": 0.23736486583948135
+    },
+    {
+        "title": "«El mejor escaparate para vender mi empresa es emocionar a la gente»",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/10/01/MOises5.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/mejor-escaparate-vender-empresa-emocionar-gente-20241007000910-nt.html",
+        "date": "2024-10-06 22:09:10",
+        "sentiment_score": 0.7916960027068853
+    },
+    {
+        "title": "Juicio al estafador de ancianos que mató a un matrimonio cuando fue descubierto",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/07/670309013651d.jpeg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.lavanguardia.com/sucesos/20241007/10000814/estafador-ancianos-mato-matrimonio-descubierto.html",
+        "date": "2024-10-06 22:08:40",
+        "sentiment_score": -0.8533637970685959
+    },
+    {
+        "title": "Oriente Próximo, ríos de sangre y de tinta",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/10/07/tanque-israel-gaza-kbDI-U2201417427662RP-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/libros/oriente-proximo-rios-sangre-tinta-20241007000658-ntrc.html",
+        "date": "2024-10-06 22:07:00",
+        "sentiment_score": -0.3483180031180382
     }
 ];
