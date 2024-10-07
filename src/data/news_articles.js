@@ -262,56 +262,6 @@ export default [
         "sentiment_score": -0.4701196402311325
     },
     {
-        "title": "Evacuan un avión de Ryanair con 184 pasajeros por un incendio en el motor en el sur de Italia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/03/Ryanair-k8BD-U603150700560v0C-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/evacuan-avion-ryanair-184-pasajeros-incendio-motor-20241003155501-nt.html",
-        "date": "2024-10-03 13:55:02",
-        "sentiment_score": -0.4231494590640068
-    },
-    {
-        "title": "Qué es el virus de Marburgo y por qué es tan peligroso: síntomas, transmisión y recomendaciones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/03/marb-RCFaGmSx2zwr8awosBj4jbK-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/virus-marburgo-peligroso-sintomas-transmision-recomendaciones-20241003150153-nt.html",
-        "date": "2024-10-03 13:12:02",
-        "sentiment_score": -0.4324305057525635
-    },
-    {
-        "title": "CSIF exige una reunión urgente con el Gobierno por la renovación de Muface para garantizar la sanidad de 1,5 millones de funcionarios",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/03/EuropaPress_6240233_ministro_transformacion_digital_funcion_publica_oscar_lopez_acto_toma-RfazM0zALJqGJxg0RUrESmO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/csif-exige-reunion-urgente-gobierno-renovacion-muface-20241003150903-nt.html",
-        "date": "2024-10-03 13:09:03",
-        "sentiment_score": -0.08207772672176361
-    },
-    {
-        "title": "MAPFRE y Sanitas se alían para crear un nuevo hospital en el distrito 22@ de Barcelona",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/03/1427495866-k5eB-U603150223317yDH-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/mapfre-sanitas-alian-crear-nuevo-hospital-distrito-20241003145851-nt.html",
-        "date": "2024-10-03 12:58:52",
-        "sentiment_score": 0.1074051707983017
-    },
-    {
-        "title": "Bruselas vuelve a reprender a España por el abuso de interinos en el sector público",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/03/sedeue-RUEuaS0aZU6qIqwV94DjsoL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bruselas-vuelve-reprender-espana-abuso-interinos-sector-20241003141830-nt.html",
-        "date": "2024-10-03 12:18:30",
-        "sentiment_score": -0.12138418853282928
-    },
-    {
         "title": "La ex secretaria de Estado Isabel Pardo de Vera renuncia a un cargo público en A Coruña tras las críticas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/HFS3OB4Q4VF7NLLRJ2HX2O3O3M.png?auth=6739788c41bee799dd8113da8560ccb4fb5722bd194a2384a4e8d15bd1d485b1",
         "tags": [
@@ -442,55 +392,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-03/el-pp-canario-apremia-a-genova-a-desencallar-el-reparto-de-menores.html",
         "date": "2024-10-03 14:30:50",
         "sentiment_score": 0.1373540610074997
-    },
-    {
-        "title": "La feria de la nueva economía (BNEW) se consolida en Barcelona y apuesta por la aviación",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6I7BT5O6ZJCYLFI3M7FELQFQQI.jpg?auth=de1cd37549dbef20a81e7346245a0bd4b4a4896a8bbe0554b47203d7a4877ac5&width=1200",
-        "tags": [
-            "barcelona",
-            "start-up",
-            "aviones",
-            "empresas",
-            "ferias",
-            "cataluña",
-            "negocios",
-            "inteligencia artificial"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-03/la-feria-de-la-nueva-economia-bnew-se-consolida-en-barcelona-y-apuesta-por-la-aviacion.html",
-        "date": "2024-10-03 14:02:41",
-        "sentiment_score": 0.515312772244215
-    },
-    {
-        "title": "Barcelona dispondrá en 2027 de un nuevo hospital privado en el distrito 22@",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YJIKBDC7L5RBL3JGFGKS3SEQ4I.JPG?auth=7158db92b1f3de3d9f585b1de00a1516b3f274314c881f41998bc9b29f797928&width=1200",
-        "tags": [
-            "médicos",
-            "personal sanitario",
-            "mapfre",
-            "sanidad privada",
-            "hospitales",
-            "22@",
-            "cataluña",
-            "sanitas",
-            "barcelona",
-            "sanidad"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-03/barcelona-dispondra-en-2027-de-un-nuevo-hospital-privado-en-el-distrito-22.html",
-        "date": "2024-10-03 13:31:11",
-        "sentiment_score": 0.3015153110027313
-    },
-    {
-        "title": "La Orquesta Filarmónica de Viena inaugura la temporada en el Palau de la Música Catalana con Stravinsky y Shostakovich",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ONKCT3QKCNOQ5MTN7NCK67D4MM.jpg?auth=9d588d82f2b6ee72c36d60115efe7ada60c66ac2f2439e65b9cca648c6b667cc&width=1200",
-        "tags": [
-            "música clásica",
-            "filarmonica",
-            "orfeó català",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-03/la-orquesta-filarmonica-de-viena-inaugura-la-temporada-en-el-palau-de-la-musica-catalana-con-stravinsky-y-shostakovich.html",
-        "date": "2024-10-03 13:28:13",
-        "sentiment_score": 0.45354950055480003
     },
     {
         "title": "Rosa Díez y María San Gil debatirán mañana sobre \"la difícil relación entre la verdad y el discurso político\"",
@@ -7593,5 +7494,405 @@ export default [
         "link": "https://www.elcorreo.com/culturas/libros/oriente-proximo-rios-sangre-tinta-20241007000658-ntrc.html",
         "date": "2024-10-06 22:07:00",
         "sentiment_score": -0.3483180031180382
+    },
+    {
+        "title": "Previsión del clima en Madrid para antes de salir de casa este 7 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/WQGGP4DCBJHXHASOEXMBTTICXU.jpg?auth=471a924f9d77f6f06818ca66416b0ba8f6056673094c64139c08844a4fa12270",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/07/prevision-del-clima-en-madrid-para-antes-de-salir-de-casa-este-7-de-octubre/",
+        "date": "2024-10-07 01:32:33",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Ranking de Prime Video en España: estas son las películas preferidas del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/34JTAPTPPVF7TJYSGDR7JAI3SQ.jpg?auth=1d60c1220c52c8fe34c0d3009930afd7501e70a0a3d37f5bbad0b778811e2b1a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2024/10/07/ranking-de-prime-video-en-espana-estas-son-las-peliculas-preferidas-del-momento/",
+        "date": "2024-10-07 01:31:56",
+        "sentiment_score": 0.834655025973916
+    },
+    {
+        "title": "Las películas más populares en Disney+ España",
+        "image_url": "https://www.infobae.com/resizer/v2/GR3VHRQVCVBCNFLQ6B3TMSSRJ4.jpg?auth=fdf0298fa52e3a688840ebb98c72cbd4dcf545c7f1d2bfc5eef78fe998b50c05",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/07/las-peliculas-mas-populares-en-disney-espana/",
+        "date": "2024-10-07 01:31:37",
+        "sentiment_score": 0.5039167776703835
+    },
+    {
+        "title": "Las películas más populares de Netflix España que no podrás dejar de ver",
+        "image_url": "https://www.infobae.com/resizer/v2/LET6ZQQG3RF6XEF4T7TCNYP4AU.jpg?auth=a3a5f003e3dce760e32b47dfadbe400cec294c788064840ec39e885ac47bf4c5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/07/las-peliculas-mas-populares-de-netflix-espana-que-no-podras-dejar-de-ver/",
+        "date": "2024-10-07 01:31:16",
+        "sentiment_score": 0.528931237757206
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 7 de octubre en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/PRMRSKKTXBFAXK3ZW7ZRHD4FOU.jpg?auth=c2141c3c98586172378458cde793f6a40631a770662882d1b42c383d8a5d420a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/07/clima-las-temperaturas-que-predominaran-este-7-de-octubre-en-barcelona/",
+        "date": "2024-10-07 01:01:05",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Abascal: Estamos muy preocupados con la deriva extremista de Sánchez, aplaudido por Hamás",
+        "image_url": "./assets/ai_generated/v1_txt2img_17ee9f4d9dc349ceba48921d1b3a2000.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/07/abascal-estamos-muy-preocupados-con-la-deriva-extremista-de-sanchez-aplaudido-por-hamas/",
+        "date": "2024-10-07 00:16:49",
+        "sentiment_score": -0.8721983432769775
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 7 de octubre de 2024",
+        "image_url": "./assets/ai_generated/v1_txt2img_478c5d052da64fc7adeed90d36e38b3a.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/10/06/hoy-sera-noticia-lunes-7-de-octubre-de-2024/",
+        "date": "2024-10-06 23:30:27",
+        "sentiment_score": 0.024607032537460327
+    },
+    {
+        "title": "Las más pegajosas: estas son las 10 canciones de K-pop más oídas en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/PK7SJWEKBREA3CNAS5SZNR7JYU.jpg?auth=606364c994a93b0e73cafef7ad2113e487146379f91d9691048f228113fe4a2e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/10/06/las-mas-pegajosas-estas-son-las-10-canciones-de-k-pop-mas-oidas-en-itunes-espana/",
+        "date": "2024-10-06 23:15:32",
+        "sentiment_score": 0.7360826693475246
+    },
+    {
+        "title": "Qué ha pasado en un año de guerra entre Israel y Hamas, cuántos muertos ha dejado y cuál es la situación en Gaza",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1759743-trabajamos-en-gaza-sabiendo-que-en-cualquier-momento-nos-podian-matar-dice-integrante-de-medicos-sin-fronteras.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra israel hamas",
+            "hezbollah",
+            "medio oriente",
+            "irán",
+            "gaza",
+            "ataque israel hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/06/que-ha-pasado-ano-guerra-israel-hamas-muertos-situacion-en-gaza-orix/",
+        "date": "2024-10-07 01:23:30",
+        "sentiment_score": -0.750780476257205
+    },
+    {
+        "title": "Itzik Horn, el padre de dos rehenes de Hamas: \"Yo no sé si mis hijos están vivos o están muertos\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762621-itzik-horn.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "gaza",
+            "hamas",
+            "israel",
+            "rehenes"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/06/itzik-horn-oppenheimer-rehenes-entrevista-orix/",
+        "date": "2024-10-07 01:00:05",
+        "sentiment_score": -0.6972614582628012
+    },
+    {
+        "title": "¿Cuándo tocará tierra el huracán Milton?",
+        "image_url": "./assets/ai_generated/v1_txt2img_9df7446ccc8e402293059271905b572c.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/huracan-milton-florida-trayectoria-direccion-ush-trax",
+        "date": "2024-10-07 00:25:53",
+        "sentiment_score": -0.25009582191705704
+    },
+    {
+        "title": "Milton ya es huracán y advierten por riesgos para EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/milton.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/huracan-milton-riesgos-eeuu-mirador-mundial-tv",
+        "date": "2024-10-06 23:52:32",
+        "sentiment_score": -0.9114438351243734
+    },
+    {
+        "title": "¿Prevalece la esperanza en Medio Oriente ante escalada del conflicto?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175085553-20241006235015220.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "guerra israel y hamas",
+            "israel",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-medio-oriente-esperanza-guerra-mirador-mundial-tv/",
+        "date": "2024-10-06 23:50:57",
+        "sentiment_score": -0.5408911257982254
+    },
+    {
+        "title": "¿Prevalece la esperanza en Medio Oriente ante escalada del conflicto?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175085553-20241006235015220.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-medio-oriente-esperanza-guerra-mirador-mundial-tv",
+        "date": "2024-10-06 23:50:57",
+        "sentiment_score": -0.6277246940881014
+    },
+    {
+        "title": "Romina Miasnik: Si no hay humanidad, nada tiene sentido",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/romina.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "guerra israel y hamas",
+            "israel",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hamas-familiar-rehen-mirador-mundial-tv/",
+        "date": "2024-10-06 23:48:32",
+        "sentiment_score": -0.80482560954988
+    },
+    {
+        "title": "República Dominicana va contra migrantes indocumentados de Haití",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2152872509.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "república dominicana",
+            "fast – news variety",
+            "inmigrantes haitianos",
+            "caribe"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/republica-dominicana-migrantes-haiti-mirador-mundial-tv-fast/",
+        "date": "2024-10-06 23:22:04",
+        "sentiment_score": -0.4165540710091591
+    },
+    {
+        "title": "Beirut sufre intensos bombardeos por parte de Israel",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-beirut.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "líbano",
+            "medio oriente",
+            "guerra de israel",
+            "beirut"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/barrios-beirut-ataques-misiles-israel-mirador-mundial-tv-fast/",
+        "date": "2024-10-06 23:15:01",
+        "sentiment_score": -0.8028947059065104
+    },
+    {
+        "title": "Israel refuerza su seguridad ante el aniversario del 7 de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176244777.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "líbano",
+            "medio oriente",
+            "guerra de israel",
+            "hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-refuerzo-seguridad-guerra-libano-mirador-mundial-tv/",
+        "date": "2024-10-06 23:14:42",
+        "sentiment_score": -0.5830663368105888
+    },
+    {
+        "title": "Respeto a la autonomía social",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/09/16/130738700-kLiB--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-respeto-autonomia-social-20241007013857-nt.html",
+        "date": "2024-10-06 23:39:07",
+        "sentiment_score": -0.03272217512130737
+    },
+    {
+        "title": "La peor sequía goleadora fuera de casa en año y medio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7e1c8ac5-6c8c-432a-8be8-7f04eb4dea16_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/10/07/peor-sequia-goleadora-fuera-casa-109000632.html",
+        "date": "2024-10-07 02:00:43",
+        "sentiment_score": -0.9024623744189739
+    },
+    {
+        "title": "El capitán Gayà, el impulso al que se aferra Baraja",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/637acf7e-f6b6-4cab-bcee-6d87acdad9a3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/10/07/capitan-gaya-impulso-aferra-baraja-109000638.html",
+        "date": "2024-10-07 02:00:43",
+        "sentiment_score": 0.4890672639012337
+    },
+    {
+        "title": "Real Mallorca: Jagoba Arrasate aprueba su primer test",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3029029.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/10/07/2255013/real-mallorca-jagoba-arrasate-analisis-despues-nueve-jornadas.html",
+        "date": "2024-10-07 02:00:01",
+        "sentiment_score": 0.04099032282829285
+    },
+    {
+        "title": "El enigma de las 5.000 cajas fuertes de Romillo, el socio de Alvise: así montó un paraíso fiscal en el centro de Madrid",
+        "image_url": "https://s1.elespanol.com/2024/10/06/espana/891421253_249790061_1706x960.jpg?contentId=ESPIMA20241006_0404",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241007/enigma-cajas-fuertes-romillo-socio-alvise-monto-paraiso-fiscal-centro-madrid/890661522_0.html",
+        "date": "2024-10-07 01:03:38",
+        "sentiment_score": -0.7418989595025778
+    },
+    {
+        "title": "Ojo con este SUV chino: carga más rápido que Tesla y le gana en precio y calidad; ¡de lo mejor que hemos probado!",
+        "image_url": "https://s1.elespanol.com/2024/10/06/motor/891421210_249788750_1706x960.jpg?contentId=ESPIMA20241006_0361",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20241007/ojo-suv-chino-carga-rapido-tesla-gana-precio-calidad-mejor-probado/891410980_0.html",
+        "date": "2024-10-07 00:32:15",
+        "sentiment_score": 0.782009650953114
+    },
+    {
+        "title": "Carvajal se perderá el resto de la temporada",
+        "image_url": "./assets/ai_generated/v1_txt2img_ac64d7770ec34ff29ecd2f9c5fa2a85e.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/189098/carvajal-se-perdera-el-resto-de-la-temporada/",
+        "date": "2024-10-07 00:15:16",
+        "sentiment_score": -0.7960972227156162
+    },
+    {
+        "title": "'Las hermanas de Manolete', una historia de mujeres, rabos de toro y sangre, recala en la escena del Palacio",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/06/98622734-kVzE--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/culturas/hermanas-manolete-historia-mujeres-rabos-toro-sangre-20241007073742-nt.html",
+        "date": "2024-10-07 00:00:00",
+        "sentiment_score": 0.12220060080289841
+    },
+    {
+        "title": "Un mundialista con Uruguay sorprendió al respaldar a Bielsa tras las críticas de Suárez: “Le están haciendo la guerra”",
+        "image_url": "https://www.infobae.com/resizer/v2/LKPQDVN62ND77HGXTAZH3KB2ME.jpg?auth=dd4823d1b6d1e49933194c009699aab634b2b39085e7d02f9f06f73e95b42ebc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/10/06/un-mundialista-con-uruguay-sorprendio-al-respaldar-a-bielsa-tras-las-criticas-de-suarez-le-estan-haciendo-la-guerra/",
+        "date": "2024-10-06 23:49:49",
+        "sentiment_score": -0.6061580684036016
+    },
+    {
+        "title": "El 'Gordo' para los dueños de los pisos junto a la 'soterrada' A-5: \"Si ocurre como en Madrid Río, los precios subirán\"",
+        "image_url": "https://s1.elespanol.com/2024/10/04/madrid/capital/890921198_249744122_1706x960.jpg?contentId=ESPIMA20241004_0299",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241007/gordo-duenos-pisos-junto-soterrada-a-5-ocurre-madrid-rio-precios-subiran/890411035_0.html",
+        "date": "2024-10-06 23:44:48",
+        "sentiment_score": 0.1647961437702179
+    },
+    {
+        "title": "Brasil se corona hexacampeona del Mundial de Fútbol Sala tras vencer a Argentina 2-1",
+        "image_url": "./assets/ai_generated/v1_txt2img_dcd437805bbb445080e5ebcdc4e3ea75.png",
+        "tags": [
+            "hexacampeona",
+            "deportes",
+            "brasil",
+            "fútbol",
+            "mundial de fútbol sala"
+        ],
+        "link": "https://www.elnacional.com/deportes/brasil-se-corona-hexacampeona-del-mundial-de-futbol-sala/",
+        "date": "2024-10-06 23:19:57",
+        "sentiment_score": 0.18710488080978394
+    },
+    {
+        "title": "El 104 aniversario de la Legión",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "colaboraciones",
+            "opinión"
+        ],
+        "link": "https://elfarodeceuta.es/104-aniversario-legion/",
+        "date": "2024-10-07 02:10:46",
+        "sentiment_score": 0.14743899554014206
+    },
+    {
+        "title": "Los trastornos del neurodesarrollo, detrás de la dificultad de aprendizaje de los niños en el colegio",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/02/los-trastornos-del-neurodesarrollo-detras-de-la-dificultad-de-aprendizaje-de-los-ninos-en-el-colegio_5d26.png",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241007/trastornos-neurodesarrollo-dificultad-aprendizaje-colegio-abandono-escolar_18_013607819.html",
+        "date": "2024-10-07 02:00:33",
+        "sentiment_score": -0.8290415592491627
+    },
+    {
+        "title": "Eutherpe llenará el Auditorio de virtuosos",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/06/6702d8240d4ce.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/241007/1639402/eutherpe-llenara-auditorio-virtuosos.html",
+        "date": "2024-10-07 01:30:00",
+        "sentiment_score": 0.34534092247486115
+    },
+    {
+        "title": "Junts presiona a Sánchez con un modelo de inmigración también singular para Cataluña",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/06/67024f34978c1.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/241007/1639319/junts-presiona-sanchez-modelo-inmigracion-tambien-singular-cataluna.html",
+        "date": "2024-10-07 01:30:00",
+        "sentiment_score": -0.8543447135016322
+    },
+    {
+        "title": "Israel, cada vez mas solo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/06/6702d56552eeb.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.diariodeleon.es/internacional/241007/1639382/israel-vez.html",
+        "date": "2024-10-07 01:30:00",
+        "sentiment_score": -0.8905286928638816
+    },
+    {
+        "title": "El paladín de Moncloa contra ‘The Economist’: asesor del CIS, con logros académicos y acusaciones de abuso",
+        "image_url": "https://s1.elespanol.com/2024/10/06/actualidad/891421312_249791877_1706x1280.png?contentId=ESPIMA20241006_0463",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241007/paladin-moncloa-the-economist-asesor-cis-logros-academicos-acusaciones-abuso/891411026_0.html",
+        "date": "2024-10-07 01:04:47",
+        "sentiment_score": -0.7555235773324966
+    },
+    {
+        "title": "El chileno Fernando Cornejo anota en victoria de Liga de Quito, líder solitario en Ecuador",
+        "image_url": "./assets/ai_generated/v1_txt2img_0ed85e302d804208bca8390f4831b540.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/10/07/el-chileno-fernando-cornejo-anota-en-victoria-de-liga-de-quito-lider-solitario-en-ecuador/",
+        "date": "2024-10-07 00:45:40",
+        "sentiment_score": 0.4423835724592209
+    },
+    {
+        "title": "La startup española que devuelve al usuario el control de sus datos y le brinda la oportunidad de monetizarlos",
+        "image_url": "https://s1.elespanol.com/2024/10/04/invertia/disruptores/ecosistema-startup/startups/890921143_249742399_1706x960.jpg?contentId=ESPIMA20241004_0244",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20241007/startup-espanola-devuelve-usuario-control-datos-brinda-oportunidad-monetizarlos/890911039_0.html",
+        "date": "2024-10-07 00:33:29",
+        "sentiment_score": 0.3648132923990488
     }
 ];
