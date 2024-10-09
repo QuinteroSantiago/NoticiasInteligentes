@@ -155,30 +155,6 @@ export default [
         "sentiment_score": -0.5689817667007446
     },
     {
-        "title": "Sube a 227 la cifra de personas muertas por el huracán Helene en seis estados de EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1761800-hurricane-helene-causes-massive-flooding-across-swath-of-western-north-carolina.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "huracán helene",
-            "huracanes"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/05/200-muertos-huracan-helene-ee-uu-trax/",
-        "date": "2024-10-05 12:54:57",
-        "sentiment_score": -0.6127196792513132
-    },
-    {
-        "title": "Hemos visto un deterioro del equilibrio de poderes en el mundo: Michael E. Shifter",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/panorama-00-00-32-09-still001.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones en ee.uu.",
-            "extrema derecha",
-            "mundo",
-            "democracia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/deterioro-equilibrio-poderes-mundo-globoeconomia-fast/",
-        "date": "2024-10-05 12:00:32",
-        "sentiment_score": -0.7893846184015274
-    },
-    {
         "title": "Imaginación",
         "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/02/loteria-premio-euromillones-k2ZF--170x119@Ideal.jpg",
         "tags": [
@@ -296,78 +272,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-05/la-formula-1-de-los-caballos-llega-a-barcelona.html",
         "date": "2024-10-05 14:46:53",
         "sentiment_score": 0.43468084558844566
-    },
-    {
-        "title": "El Gobierno contrapone a las diferentes crisis su “patriotismo inteligente para acordar con diferentes”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I3CDO7ON373QA447OFSISQUMZE.jpg?auth=de2832dde7354bd765fdaaab6e21f5d78be2ac1731e06dc168279710e4fddb38&width=1200",
-        "tags": [
-            "pactos políticos",
-            "félix bolaños garcía",
-            "bildu",
-            "gobierno",
-            "grupos parlamentarios",
-            "pp",
-            "pactos de estado",
-            "erc",
-            "bipartidismo",
-            "psoe",
-            "ley de amnistía",
-            "congreso diputados",
-            "oposición política",
-            "pedro sánchez",
-            "foro económico galicia",
-            "españa",
-            "galicia"
-        ],
-        "link": "https://elpais.com/espana/2024-10-05/el-gobierno-contrapone-a-las-diferentes-crisis-su-patriotismo-inteligente-para-acordar-con-diferentes.html",
-        "date": "2024-10-05 13:34:30",
-        "sentiment_score": -0.794104402884841
-    },
-    {
-        "title": "Helena Solà completa la lista de precandidatos para batirse con Junqueras por el liderazgo de ERC",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RQC42RFD2NAH3HFBOIHTJEIKK4.jpg?auth=faa664a5bd89dd877e6660a61a3e840b6876ab012c2b003c7e468e04996472bf&width=1200",
-        "tags": [
-            "alfred bosch",
-            "erc",
-            "congresos políticos",
-            "cataluña",
-            "partidos políticos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-05/helena-sola-completa-la-lista-de-precandidatos-para-batirse-con-junqueras-por-el-liderazgo-de-erc.html",
-        "date": "2024-10-05 12:15:40",
-        "sentiment_score": -0.17985981702804565
-    },
-    {
-        "title": "Detenidos cuatro jóvenes en Blanes por apalear en grupo al menos a dos personas sin techo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/E6Y6AIF56H3GIACXSL5BDEKZNM.jpg?auth=06d52d2d191673b8f80ba014537125c756eaed6a73b3fb31a7979b4dab4b5229&width=1200",
-        "tags": [
-            "investigación policial",
-            "cataluña",
-            "blanes",
-            "detenciones",
-            "mossos d'esquadra",
-            "personas sin hogar",
-            "agresiones físicas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-05/detenidos-cuatro-jovenes-en-blanes-por-apalear-en-grupo-al-menos-a-dos-personas-sin-techo.html",
-        "date": "2024-10-05 10:42:27",
-        "sentiment_score": -0.564739391207695
-    },
-    {
-        "title": "El PP rompe la negociación con el Gobierno para el reparto de menores migrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KKUZ73R43TS7K2RABYDDB2JLKI.jpg?auth=17af712623ba34db18574cfd5888afe31525630f76e1c6285de3603ae07d1d5e&width=1200",
-        "tags": [
-            "pp",
-            "crisis migratoria",
-            "fernando clavijo",
-            "psoe",
-            "españa",
-            "congreso diputados",
-            "sumar"
-        ],
-        "link": "https://elpais.com/espana/2024-10-05/el-pp-rompe-la-negociacion-con-el-gobierno-para-el-reparto-de-menores-migrantes.html",
-        "date": "2024-10-05 10:24:32",
-        "sentiment_score": -0.6038902886211872
     },
     {
         "title": "Isabel Gemio se harta y pone voz a lo que tantos señalan de lo de Bárbara: \"Ya está bien\"",
@@ -7481,5 +7385,356 @@ export default [
         "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-frenkie-jong-contamos-todo-familia/20241009000000855232.html",
         "date": "2024-10-08 22:00:00",
         "sentiment_score": 0.8008037246763706
+    },
+    {
+        "title": "Experto explica cómo el huracán Milton se está perfilando en uno de los más violentos en 100 años",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177515017.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "florida",
+            "huracán milton",
+            "cambio climático"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/huracan-milton-paso-florida-eeuu-mexico-cambio-climatico-conclusiones-tv/",
+        "date": "2024-10-09 02:02:44",
+        "sentiment_score": -0.7198257092386484
+    },
+    {
+        "title": "Experto explica cómo el huracán Milton se está perfilando en uno de los más violentos en 100 años",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177515017.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/huracan-milton-paso-florida-eeuu-mexico-cambio-climatico-conclusiones-tv",
+        "date": "2024-10-09 02:02:44",
+        "sentiment_score": -0.8437865860760212
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 8 de octubre en CNN en Español",
+        "image_url": "./assets/ai_generated/v1_txt2img_fc1762b43ce846e0a92e4833cdb9e2aa.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-8-de-octubre-2024-panorama-fast",
+        "date": "2024-10-09 01:54:45",
+        "sentiment_score": 0.1387028768658638
+    },
+    {
+        "title": "Algunas lecturas al tomar la presión sanguínea pueden ser inexactas. Te explicamos por qué",
+        "image_url": "./assets/ai_generated/v1_txt2img_7f4d96d8cd06408191bf7b441e4f6141.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lecturas-presion-sanguinea-incorrectas-minuto-de-salud-fast",
+        "date": "2024-10-09 01:47:52",
+        "sentiment_score": -0.5963837057352066
+    },
+    {
+        "title": "Algunas lecturas al tomar la presión sanguínea pueden ser inexactas. Te explicamos por qué",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1157019989.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "presión arterial",
+            "xpress",
+            "noticias de salud",
+            "enfermedad cardíaca"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lecturas-presion-sanguinea-incorrectas-minuto-de-salud-fast/",
+        "date": "2024-10-09 01:47:52",
+        "sentiment_score": -0.22766698151826859
+    },
+    {
+        "title": "El Ejército de EE.UU. hizo una lista de sistemas de armas estadounidenses que podrían ayudar a Ucrania en la guerra con Rusia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1764032-ucrania-armas-estados-unidos-rusia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ucrania",
+            "armas",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/08/ejercito-estados-unidos-lista-sistemas-armas-estadounidenses-ayudar-ucrania-guerra-rusia-trax/",
+        "date": "2024-10-09 01:45:19",
+        "sentiment_score": -0.025364845991134644
+    },
+    {
+        "title": "Milton y Helene, datos clave de estos dos poderosos huracanes",
+        "image_url": "./assets/ai_generated/v1_txt2img_c700c0bfee2648ff83f65e482192b620.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milton-helene-datos-clave-diferencias-huracanes-orix",
+        "date": "2024-10-09 01:43:22",
+        "sentiment_score": 0.16102561354637146
+    },
+    {
+        "title": "Florida se prepara para la llegada del huracán Milton, que podría causar una devastación histórica",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177495005.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-florida-prepara-llegada-huracan-milton-fdr-conclusiones-tv-fast/",
+        "date": "2024-10-09 01:21:15",
+        "sentiment_score": -0.8534996025264263
+    },
+    {
+        "title": "Los 5 restaurantes más valiosos de 2024, según Brand Finance",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marcas-mas-valiosas-de-gastronomia-redaccion-buenos-aires-tv/",
+        "date": "2024-10-09 01:16:57",
+        "sentiment_score": 0.5117978118360043
+    },
+    {
+        "title": "Gobierno de Sheinbaum presenta estrategia de seguridad: estos son sus 4 ejes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/claudia-sheinbaum-estrategia-seguridad-mexico-omar-garcia-harfuch",
+        "date": "2024-10-09 01:05:58",
+        "sentiment_score": 0.233824722468853
+    },
+    {
+        "title": "Medio millón de exiliados venezolanos temen ser expulsados de Estados Unidos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/09/venezolanos-R7rbkKDkcCr5ZybEQya40WI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/medio-millon-exiliados-venezolanos-temen-expulsados-estados-20241009041210-nt.html",
+        "date": "2024-10-09 02:12:11",
+        "sentiment_score": -0.1455516517162323
+    },
+    {
+        "title": "La oferta de alquiler se desploma un 33% en un lustro tras las medidas del Gobierno sobre vivienda",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/09/inmobiliaria-barcelona-RvGHcmrc9ua0aEXtgfjftQP-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/oferta-alquiler-desploma-lustro-tras-medidas-gobierno-20241009040911-nt.html",
+        "date": "2024-10-09 02:09:12",
+        "sentiment_score": -0.08323362469673157
+    },
+    {
+        "title": "Unidad 61398: así operan los ciberespías chinos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/08/shanghai-RPZ1fCUNUY0EPbMdHq2gReK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/unidad-61398-operan-ciberespias-chinos-20241008201736-nt.html",
+        "date": "2024-10-09 02:06:51",
+        "sentiment_score": -0.17683306336402893
+    },
+    {
+        "title": "Alarma en EE.UU. por el pirateo chino de las mayores telecos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/08/info-RII65FyzZfiVq1t1xH6wJ8O-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/alarma-eeuu-pirateo-chino-mayores-telecos-20241008040544-nt.html",
+        "date": "2024-10-09 02:06:36",
+        "sentiment_score": -0.24774695932865143
+    },
+    {
+        "title": "La odisea judicial para recuperar lo pagado por el tramo autonómico ilegal del impuesto de Hidrocarburos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/09/impustohidrocarburosefe-RTCtyxlsxvHLwoP3miXzLpJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/odisea-judicial-recuperar-pagado-tramo-autonomico-ilegal-20241009195457-nt.html",
+        "date": "2024-10-09 02:05:09",
+        "sentiment_score": -0.15472635626792908
+    },
+    {
+        "title": "La Moncloa encarga a Cuerpo abrir hueco para Bildu o PNV en el Banco de España",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/09/CuerpoEscriva-RO4siZcvOArixZINbcjALoJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/moncloa-busca-formula-abrir-hueco-socios-banco-20241009175131-nt.html",
+        "date": "2024-10-09 02:02:22",
+        "sentiment_score": -0.06471207737922668
+    },
+    {
+        "title": "El Supremo de Brasil ordena «el retorno inmediato» de la red social X",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/10/09/musk-kBxC-U60317308618271C-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/supremo-brasil-ordena-retorno-inmediato-red-social-20241009013155-nt.html",
+        "date": "2024-10-08 23:31:56",
+        "sentiment_score": -0.21652744710445404
+    },
+    {
+        "title": "Un estudio confirma que la correlación entre el nivel adquisitivo y la salud",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/08/foto-drug.jpeg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/estudio-confirma-existe-correlacion-nivel-adquisitivo-salud-20241009145022-nt.html",
+        "date": "2024-10-08 22:46:00",
+        "sentiment_score": -0.1280566155910492
+    },
+    {
+        "title": "Una mansión de súper lujo en Mallorca, 'en manos' de los Kretz, la familia inmobiliaria que triunfa en Netflix",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3030833.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2024/10/09/2255651/netflix-kretz-venden-mallorca-mansion-lujo.html",
+        "date": "2024-10-09 02:00:01",
+        "sentiment_score": -0.09237205982208252
+    },
+    {
+        "title": "Transformación digital: estrategia de datos y soluciones innovadoras",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2024/10/hsi-1024x632.jpg",
+        "tags": [
+            "hsi",
+            "contenido destacado",
+            "transformación digital",
+            "microsoft fabric"
+        ],
+        "link": "https://revistabyte.es/noticias/transformacion-digital-datos/",
+        "date": "2024-10-09 01:06:44",
+        "sentiment_score": 0.5366977751255035
+    },
+    {
+        "title": "Militao sufrió una lesión muscular",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/189533/militao-sufrio-una-lesion-muscular/",
+        "date": "2024-10-09 00:45:50",
+        "sentiment_score": -0.8134075365960598
+    },
+    {
+        "title": "Tras su debut en la alfombra roja, Santi, el hijo de Eva Longoria, cambia de look",
+        "image_url": "https://www.hola.com/horizon/landscape/cf86feecc6d0-image-2495165.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20241009723051/eva-longoria-hijo-santi-nuevo-look/",
+        "date": "2024-10-09 00:34:23",
+        "sentiment_score": 0.7412268407642841
+    },
+    {
+        "title": "Centros de datos, salvavidas para las fotovoltaicas: solo en Madrid hay solicitados 3 GW para conectarse a la red",
+        "image_url": "https://s1.elespanol.com/2024/01/26/invertia/disruptores/grandes-actores/tecnologicas/827927613_239431988_1706x960.jpg?contentId=ESPIMA20240126_0414",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20241009/centros-datos-salvavidas-fotovoltaicas-solo-madrid-solicitados-gw-conectarse-red/891911241_0.html",
+        "date": "2024-10-09 00:30:40",
+        "sentiment_score": 0.5619180649518967
+    },
+    {
+        "title": "LIFT refuerza su división de grandes patrimonios con la incorporación como socio de Jorge Serrano (Deutsche Bank)",
+        "image_url": "https://s1.elespanol.com/2024/10/08/invertia/observatorios/vivienda/891921545_249845632_1706x960.jpg?contentId=ESPIMA20241008_0746",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20241009/lift-refuerza-division-grandes-patrimonios-incorporacion-socio-jorge-serrano-deutsche-bank/891911244_0.html",
+        "date": "2024-10-09 00:30:39",
+        "sentiment_score": 0.4009269569069147
+    },
+    {
+        "title": "La T4 se llena de restaurantes de lujo: del mejor cocinero del mundo a bares de éxito en Madrid",
+        "image_url": "https://s1.elespanol.com/2024/10/08/actualidad/891921634_249848221_1706x960.jpg?contentId=ESPIMA20241008_0835",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241009/t4-llena-restaurantes-lujo-mejor-cocinero-mundo-bares-exito-madrid/891911047_0.html",
+        "date": "2024-10-09 00:24:01",
+        "sentiment_score": 0.5921328887343407
+    },
+    {
+        "title": "Menos memorización, preguntas abiertas... así será el nuevo examen de selectividad en Madrid",
+        "image_url": "https://s1.elespanol.com/2024/10/01/reportajes/890171935_249663570_1706x960.png?contentId=ESPIMA20241001_0961",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241009/memorizacion-preguntas-abiertas-nuevo-examen-selectividad-madrid/891911131_0.html",
+        "date": "2024-10-09 00:23:53",
+        "sentiment_score": 0.03953278437256813
+    },
+    {
+        "title": "Johan Neeskens",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/10/08/67056f2bcc53f.r_d.670-321.jpeg",
+        "tags": [
+            "obituarios"
+        ],
+        "link": "https://www.eldebate.com/obituarios/20241009/johan-neeskens-equipo-madrid_234196.html",
+        "date": "2024-10-08 23:30:00",
+        "sentiment_score": -0.12417559325695038
+    },
+    {
+        "title": "El legado inmortal de Andrés Iniesta en el fútbol mundial",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/09/2024100904135858378.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/legado-inmortal-andres-iniesta-futbol-mundial/20241009040749320158.html",
+        "date": "2024-10-09 02:07:49",
+        "sentiment_score": 0.9122430216521025
+    },
+    {
+        "title": "¿Cuánto tiempo puede estar mi coche en el mismo sitio en Palma?",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3031341.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2024/10/09/2255909/aparcamiento-palma-cuanto-tiempo-puede-estar-coche-aparcado-mismo-sitio.html",
+        "date": "2024-10-09 02:00:01",
+        "sentiment_score": -0.24361009895801544
+    },
+    {
+        "title": "Desalojo en Palma: inician la limpieza del edificio okupado en el Camp d'en Serralta",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3030941.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2024/10/09/2255727/okupas-mallorca-desalojo-palma-inician-limpieza-del-edificio-okupado-serralta.html",
+        "date": "2024-10-09 02:00:01",
+        "sentiment_score": -0.18026405572891235
+    },
+    {
+        "title": "José Enrique Martínez presentará en Factor San Feliz su libro de Concha Castroviejo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/08/67057053adbc0.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/241009/1641648/jose-enrique-martinez-presentara-factor-san-feliz-libro-concha-castroviejo.html",
+        "date": "2024-10-09 01:30:00",
+        "sentiment_score": 0.0028789639472961426
+    },
+    {
+        "title": "Esta es la lista definitiva de nominados a LOS40 Music Awards 2024",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/10/09/artistas-y-presentadores-de-los40-posan-en-la-cena-de-nominados-de-los40-music-awards-santander.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.huffingtonpost.es/life/cultura/esta-lista-definitiva-nominados-los40-music-awards-2024.html",
+        "date": "2024-10-09 01:06:01",
+        "sentiment_score": 0.23280597478151321
+    },
+    {
+        "title": "Les normes del campu pa \"educar\" los urbanites: dellos ayuntamientos tienen d'encamentar a los visitantes a respetar el mediu rural",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c887fb12-10e5-4c88-b80d-c9fa5fe152ea_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/10/09/les-normes-campu-pa-educar-108960129.html",
+        "date": "2024-10-09 01:05:38",
+        "sentiment_score": -0.4955739676952362
+    },
+    {
+        "title": "7 de octubre de 2023: ¿Día en que Oriente Medio comenzó a cambiar para siempre?",
+        "image_url": "https://cdn.img.noticiaslatam.lat/images/sharing/article/spa/1158103260.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://noticiaslatam.lat/20241009/7-de-octubre-de-2023-dia-en-que-oriente-medio-comenzo-a-cambiar-para-siempre-1158103260.html",
+        "date": "2024-10-09 00:42:00",
+        "sentiment_score": -0.880425563082099
     }
 ];
