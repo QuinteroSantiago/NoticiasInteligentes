@@ -134,31 +134,6 @@ export default [
         "sentiment_score": -0.7745204176753759
     },
     {
-        "title": "La aerolínea Emirates de Dubai prohíbe buscapersonas y walkie-talkies tras ataques israelíes con estos dispositivos en el Líbano",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1762904-emirates-dubai-libano-buscapersonas-walkie-talkies.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "buscapersonas",
-            "aerolínea",
-            "líbano",
-            "dubái",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/06/aerolinea-emirates-dubai-prohibe-buscapersonas-walkie-talkies-ataques-libano-trax/",
-        "date": "2024-10-06 13:19:39",
-        "sentiment_score": -0.8128430284559727
-    },
-    {
-        "title": "Sube a 231 la cifra de personas muertas en seis estados de EE.UU. por el huracán Helene",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/GettyImages-2174269629.jpg?quality=100&strip=info",
-        "tags": [
-            "huracán helene",
-            "tiempo"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/06/200-muertos-huracan-helene-ee-uu-trax/",
-        "date": "2024-10-06 11:08:57",
-        "sentiment_score": -0.39384711533784866
-    },
-    {
         "title": "En la mesa",
         "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/10/01/gordo-U08101533214EOL-170x119@Las%20Provincias.png",
         "tags": [
@@ -167,16 +142,6 @@ export default [
         "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-mesa-20241007170028-nts.html",
         "date": "2024-10-06 15:00:28",
         "sentiment_score": -0.0200442373752594
-    },
-    {
-        "title": "Un hombre hiere a varias personas con cuchillo en una ciudad al sur de Israel",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/06/DAMBin(4)-kmvE-U603161183320n7F-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hombre-hiere-varias-personas-cuchillo-ciudad-sur-20241006142919-nt.html",
-        "date": "2024-10-06 12:33:33",
-        "sentiment_score": -0.766573479399085
     },
     {
         "title": "Un total de 42 collas castelleras se dan cita en el concurso de Tarragona",
@@ -202,48 +167,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-06/israel-se-queja-de-que-espana-permita-un-acto-para-celebrar-la-brutal-masacre-del-7-de-octubre.html",
         "date": "2024-10-06 14:14:34",
         "sentiment_score": -0.8265326386317611
-    },
-    {
-        "title": "El barrio en el que todos viven",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FRWHUSNTQBCALDRMYYWQVQCMOE.JPG?auth=ff5fd0d6c2fba52a2620e4916151614c4b5ffb3f62a4376644a9608fffc12c4d&width=1200",
-        "tags": [
-            "cataluña",
-            "música",
-            "extremoduro",
-            "crítica musical",
-            "barcelona",
-            "conciertos",
-            "robe  iniesta"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-06/el-barrio-en-el-que-todos-viven.html",
-        "date": "2024-10-06 12:01:39",
-        "sentiment_score": 0.6291580572724342
-    },
-    {
-        "title": "Ayuso defiende los bombardeos de Israel en Gaza y Líbano: “No puedes pedir que ponga fin a Hamás o Hezbolá con flores”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AHGD7ASFW6YWVWQ7MN2FQM56E4.jpg?auth=0ab3811bb370efc4e8812d7e6c807a98b15956d637be16a7e2466e154586af83&width=1200",
-        "tags": [
-            "isabel díaz ayuso",
-            "israel",
-            "conflicto árabe-israelí",
-            "gobierno comunidad de madrid",
-            "terrorismo",
-            "hamás",
-            "madrid",
-            "guerra",
-            "gobierno de españa",
-            "pp madrid",
-            "palestina",
-            "líbano",
-            "conflictos",
-            "relaciones internacionales",
-            "bombardeos",
-            "comunidad de madrid",
-            "hezbolá"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-06/ayuso-defiende-los-bombardeos-de-israel-en-gaza-y-libano-no-puedes-pedir-que-ponga-fin-a-hamas-o-hezbola-con-flores.html",
-        "date": "2024-10-06 11:48:20",
-        "sentiment_score": -0.467633493244648
     },
     {
         "title": "Hansi Flick: \"Lewandowski es el mejor en el área, es fabuloso lo que está haciendo\"",
@@ -7284,5 +7207,351 @@ export default [
         "link": "https://meridadigital.com.ve/2024/10/09/el-grande-andres-iniesta-cierra-un-capitulo-en-su-vida-y-se-retira-del-futbol/",
         "date": "2024-10-09 21:55:27",
         "sentiment_score": -0.35743939876556396
+    },
+    {
+        "title": "Residente de Fort Myers dice que no evacuó porque subestimaron la fuerza del huracán Milton",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176957818.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracán milton",
+            "evacuaciones",
+            "fast – news variety",
+            "huracanes",
+            "xpress",
+            "huracán"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fort-myers-florida-desalojo-huracan-preparativos-cambio-climatico-conclusiones-tv/",
+        "date": "2024-10-10 02:05:29",
+        "sentiment_score": -0.7976778149604797
+    },
+    {
+        "title": "Meteorólogo explica que la crisis climática hace que haya más huracanes categoría 5",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176967499.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracán milton",
+            "fast – news variety",
+            "huracanes",
+            "cambio climático",
+            "xpress",
+            "huracán"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-huracan-milton-florida-emergencia-clima-cambio-calentamiento-global-conclusiones-tv/",
+        "date": "2024-10-10 02:02:42",
+        "sentiment_score": -0.21459488570690155
+    },
+    {
+        "title": "Residente de Tampa cuenta a CNN por qué decidió permanecer en su casa ante la llegada de Milton",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21027177-914407-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/emergencia-climatica-florida-desplazados-huracan-milton-conclusiones-tv",
+        "date": "2024-10-10 02:00:39",
+        "sentiment_score": -0.3553173094987869
+    },
+    {
+        "title": "Residente de Tampa cuenta a CNN por qué decidió permanecer en su casa ante la llegada de Milton",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21027177-914407-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracán milton",
+            "evacuaciones",
+            "fast – news variety",
+            "huracanes",
+            "xpress",
+            "tampa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/emergencia-climatica-florida-desplazados-huracan-milton-conclusiones-tv/",
+        "date": "2024-10-10 02:00:39",
+        "sentiment_score": -0.47449738532304764
+    },
+    {
+        "title": "El recorrido por Latinoamérica del 9 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172176951.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/recorrido-por-latinoamerica-9-octubre-2024-perspectivas-mexico-tv-fast/",
+        "date": "2024-10-10 01:34:09",
+        "sentiment_score": -0.7915422264486551
+    },
+    {
+        "title": "El recorrido por Latinoamérica del 9 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172176951.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/recorrido-por-latinoamerica-9-octubre-2024-perspectivas-mexico-tv-fast",
+        "date": "2024-10-10 01:34:09",
+        "sentiment_score": -0.008698776364326477
+    },
+    {
+        "title": "El Premio Nobel de Química fue otorgado a tres científicos que trabajaron con inteligencia artificial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumbnail-nobel-quimica.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/premio-nobel-quimica-3-cientificos-qu-usaron-inteligencia-artifical-perspectivas-mexico-tv-fast",
+        "date": "2024-10-10 01:24:54",
+        "sentiment_score": 0.5618003569543362
+    },
+    {
+        "title": "El Premio Nobel de Química fue otorgado a tres científicos que trabajaron con inteligencia artificial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumbnail-nobel-quimica.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "premio nobel",
+            "ciencia",
+            "fast – general",
+            "inteligencia artifical",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/premio-nobel-quimica-3-cientificos-qu-usaron-inteligencia-artifical-perspectivas-mexico-tv-fast/",
+        "date": "2024-10-10 01:24:54",
+        "sentiment_score": 0.1452220231294632
+    },
+    {
+        "title": "Este es el historial de Lionel Messi contra Venezuela en todas las competencias",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176605059.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/historial-lionel-messi-contra-venezuela-futbol-deportes-tv",
+        "date": "2024-10-10 01:15:28",
+        "sentiment_score": -0.20555348694324493
+    },
+    {
+        "title": "La Patrulla de Carreteras de Florida rescató a un perro cuando se acercaba el huracán Milton",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/trax-perrito-00-00-30-23-still001.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/florida-rescate-perro-policia-milton-trax",
+        "date": "2024-10-10 01:12:21",
+        "sentiment_score": -0.3188635930418968
+    },
+    {
+        "title": "Beatriz Corredor eleva la presión sobre el regulador para destinar más dinero a redes eléctricas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/10/BeatrizCorredor-RSWEnX7R9kNbGIGY1cBnWLK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/beatriz-corredor-eleva-presion-sobre-regulador-destinar-20241010192005-nt.html",
+        "date": "2024-10-10 02:13:46",
+        "sentiment_score": 0.047428786754608154
+    },
+    {
+        "title": "China producirá la mitad de la electricidad renovable global en 2030",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/09/1475917410-RQhsAHCHpg5Z5Q9OtdaTtAM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/china-producira-mitad-electricidad-renovable-global-2030-20241009041212-nt.html",
+        "date": "2024-10-10 02:12:12",
+        "sentiment_score": -0.05012655258178711
+    },
+    {
+        "title": "Biden pierde la paciencia con Netanyahu por la opacidad de su plan bélico",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/09/whitehouse-RYnrBcWWllbUkMTiDoQkzdI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/biden-pierde-paciencia-netanyahu-opacidad-plan-belico-20241009041018-nt.html",
+        "date": "2024-10-10 02:10:18",
+        "sentiment_score": -0.10763218998908997
+    },
+    {
+        "title": "Donald Trump y Jed Bartlet",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/09/Bartlet-RZiV63ec1DyJ4OGPrs71sEM-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pedro-rodriguez-donald-trump-jed-bartlet-20241009171543-nt.html",
+        "date": "2024-10-10 02:10:10",
+        "sentiment_score": -0.19351400434970856
+    },
+    {
+        "title": "En la Guardia Civil, Aldama constaba como colaborador",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-guardia-civil-aldama-constaba-colaborador-20241010201017-nt.html",
+        "date": "2024-10-10 01:32:50",
+        "sentiment_score": -0.3029711842536926
+    },
+    {
+        "title": "Milei logra con lo justo frenar en el Congreso la ley de financiación universitaria",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/10/financiacion-universitaria-kYRB-U60317794241972-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/milei-logra-justo-frenar-congreso-ley-financiacion-20241010003711-nt.html",
+        "date": "2024-10-09 22:37:12",
+        "sentiment_score": 0.0014238953590393066
+    },
+    {
+        "title": "Colombia expone su invicto en El Alto ante Bolivia (+previas)",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/10/colombia-sele-730x524.jpeg",
+        "tags": [
+            "bolivia",
+            "eliminatorias sudamericanas",
+            "chile",
+            "conmebol",
+            "brasil",
+            "deportes",
+            "ecuador",
+            "colombia",
+            "paraguay",
+            "fútbol"
+        ],
+        "link": "https://primicia.com.ve/deportes/colombia-expone-su-invicto-en-el-alto-ante-bolivia-previas/",
+        "date": "2024-10-10 01:47:54",
+        "sentiment_score": 0.20750652253627777
+    },
+    {
+        "title": "División en el socialismo madrileño: los críticos impulsarán una candidatura alternativa a Lobato por el \"creciente malestar\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/22601d2324d2ec6b9bdbf81e25a5a9e6/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/09/17284978318298.jpg",
+        "tags": [
+            "madrid",
+            "artículos marta belver",
+            "artículos vicente coll",
+            "juan lobato",
+            "psoe",
+            "artículos raúl piña",
+            "isabel díaz ayuso",
+            "pp"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/10/10/6706c6c9fc6c834a278b45b9.html",
+        "date": "2024-10-10 01:03:44",
+        "sentiment_score": -0.4974817782640457
+    },
+    {
+        "title": "Racing, Laredo y Escobedo esperan rival hoy en el sorteo",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/09/98730935-kz0H--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/deportes/futbol/racing-laredo-escobedo-esperan-rival-hoy-sorteo-20241010073046-nt.html",
+        "date": "2024-10-10 00:00:00",
+        "sentiment_score": -0.24864212423563004
+    },
+    {
+        "title": "¿Por qué se hace un desfile militar el 12 de octubre en España?",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/02/imagen-del-desfile-del-12-de-octubre-de-2023_2982.jpg",
+        "tags": [
+            "noticias de españa"
+        ],
+        "link": "https://www.telecinco.es/noticias/espana/20241009/por-que-hace-desfile-militar-12-octubre-be5m_18_013604879.html",
+        "date": "2024-10-09 23:00:21",
+        "sentiment_score": 0.03961372375488281
+    },
+    {
+        "title": "Los 3 factores por los que el nuevo Camp Nou ilusiona más que el Bernabéu",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/23/culemania/palco/872672726_13260440_1706x960.png?contentId=ESPIMA20240723_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241010/los-factores-que-el-camp-nou-bernabeu/892160888_0.html",
+        "date": "2024-10-09 22:59:15",
+        "sentiment_score": 0.5255785509943962
+    },
+    {
+        "title": "Jueves 10 de octubre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1109172",
+        "date": "2024-10-10 02:05:55",
+        "sentiment_score": -0.00939333438873291
+    },
+    {
+        "title": "El día de la Policía Nacional",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1109179",
+        "date": "2024-10-10 02:00:47",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Desalojo en Serralta: tapian los bajos y retiran ingentes cantidades de basura",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3032715.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2024/10/10/2256483/okupas-mallorca-desalojo-serralta-tapian-bajos-retiran-ingentes-cantidades-basura.html",
+        "date": "2024-10-10 02:00:01",
+        "sentiment_score": -0.20446692407131195
+    },
+    {
+        "title": "Condenados en Palma por el robo de un Rolex de 124.000 euros a un turista",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3032575.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2024/10/10/2256383/rolex-palma-condenados-por-robar-reloj-124000-euros-turista.html",
+        "date": "2024-10-10 02:00:01",
+        "sentiment_score": -0.3211374580860138
+    },
+    {
+        "title": "Recuperados más de 20 centros de salud primaria en Anzoátegui",
+        "image_url": "https://www.vtv.gob.ve/wp-content/uploads/2024/10/Recuperados-mas-de-20-centros-de-salud-primaria-en-Anzoategui.jpg",
+        "tags": [
+            "salud",
+            "centros",
+            "anzoátegui"
+        ],
+        "link": "https://www.vtv.gob.ve/recuperados-centros-salud-anzoategui/",
+        "date": "2024-10-10 00:52:57",
+        "sentiment_score": 0.05420559644699097
+    },
+    {
+        "title": "Casi 8.000 afectados en Vigo entre trenes, aviones y transporte de Ría por el exciclón Kirk",
+        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/10/09/2024100920591288186.jpg",
+        "tags": [
+            "vigo"
+        ],
+        "link": "https://www.atlantico.net/articulo/vigo/casi-8000-afectados-vigo-trenes-aviones-transporte-ria-exciclon-kirk/202410092059181054389.html",
+        "date": "2024-10-10 00:00:16",
+        "sentiment_score": -0.8299785777926445
+    },
+    {
+        "title": "Room00 compra Casa Gracia, su principal rival de 'hostels' en Barcelona, por 10 millones",
+        "image_url": "https://s1.elespanol.com/2024/10/09/invertia/observatorios/vivienda/892171557_249876478_1706x960.jpg?contentId=ESPIMA20241009_0783",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20241010/room00-compra-casa-gracia-principal-rival-hostels-barcelona-millones/892161226_0.html",
+        "date": "2024-10-09 23:50:09",
+        "sentiment_score": 0.416575089097023
+    },
+    {
+        "title": "Embriagó a una mujer para hurtar sus pertenencias",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/10/detenido-hurto-mujer.jpg",
+        "tags": [
+            "mujer",
+            "nación",
+            "anzoátegui",
+            "inseguridad",
+            "hurto",
+            "sucesos",
+            "cicpc",
+            "policia cientifico",
+            "investigación",
+            "pertenencias"
+        ],
+        "link": "https://primicia.com.ve/sucesos/embriago-a-una-mujer-para-hurtar-sus-pertenencias/",
+        "date": "2024-10-09 23:45:35",
+        "sentiment_score": -0.8237934159114957
+    },
+    {
+        "title": "David Otero: \"Me parecería completamente normal que con 70 años nadie quisiera escuchar mis canciones\"",
+        "image_url": "https://s1.elespanol.com/2024/10/09/corazon/famosos/892171444_249872840_1706x960.jpg?contentId=ESPIMA20241009_0670",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241010/david-otero-pareceria-completamente-normal-anos-nadie-quisiera-escuchar-canciones/892161039_0.html",
+        "date": "2024-10-09 23:14:19",
+        "sentiment_score": -0.22108736634254456
     }
 ];
