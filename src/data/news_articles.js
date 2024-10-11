@@ -1,225 +1,5 @@
 export default [
     {
-        "title": "La Audiencia de Madrid decide este lunes sobre el futuro del 'caso Begoña Gómez'",
-        "image_url": "https://www.infobae.com/resizer/v2/57YRPCW5KRGTXBOY732MMUXTWM.jpg?auth=e393d0da603cf73236e7e46e2282544508172d1e6ba8cbebce4382b76b028877",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/07/la-audiencia-de-madrid-decide-este-lunes-sobre-el-futuro-del-caso-begona-gomez/",
-        "date": "2024-10-07 06:04:53",
-        "sentiment_score": -0.21294860914349556
-    },
-    {
-        "title": "Efemérides del 8 de octubre",
-        "image_url": "./assets/ai_generated/v1_txt2img_5254e1cba1f447fb9c6b394186180d15.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2023/10/07/efemerides-del-8-de-octubre/",
-        "date": "2024-10-07 06:00:58",
-        "sentiment_score": -0.08551077544689178
-    },
-    {
-        "title": "La justicia revoca la incapacidad permanente total a una cocinera que sufrió una fractura de fémur gracias a las pruebas aportadas por un detective privado",
-        "image_url": "https://www.infobae.com/resizer/v2/7AS5MHYSBFGLRNM7OIM3J3R5ME.jpg?auth=7e50da2894710f3484e2990dd6b85e4bde6bcbc0b6a39289141bfa480df80166",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/10/07/la-justicia-revoca-la-incapacidad-permanente-total-a-una-cocinera-que-sufrio-una-fractura-de-femur-gracias-a-las-pruebas-aportadas-por-un-detective-privado/",
-        "date": "2024-10-07 05:43:04",
-        "sentiment_score": -0.7655421197414398
-    },
-    {
-        "title": "El Gobierno analiza este lunes con los autónomos la primera regularización de cuotas",
-        "image_url": "./assets/ai_generated/v1_txt2img_5163b68bc0a94d3099afcd7c1b4a2229.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/10/07/el-gobierno-analiza-este-lunes-con-los-autonomos-la-primera-regularizacion-de-cuotas/",
-        "date": "2024-10-07 05:30:22",
-        "sentiment_score": 0.37793328426778316
-    },
-    {
-        "title": "Cuántos euros me dan por un dólar este 7 de octubre",
-        "image_url": "https://www.infobae.com/resizer/v2/4P7YILVTJZEUZH352OZL3E5KEI.jpg?auth=6b699234d24597f4ff490d585da3a5706fefcb5904323fa82dbe20e2142fd177",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/10/07/cuantos-euros-me-dan-por-un-dolar-este-7-de-octubre/",
-        "date": "2024-10-07 05:15:31",
-        "sentiment_score": -0.32036420702934265
-    },
-    {
-        "title": "Cuándo se cobra el paro en ocutubre: la fecha en Caixabank, ING, Santander y BBVA",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/03/sepe.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cobra-paro-ocutubre-fecha-caixabank-ing-santander-20241007064500-nt.html",
-        "date": "2024-10-07 06:18:38",
-        "sentiment_score": -0.07687084376811981
-    },
-    {
-        "title": "La historia del príncipe irlandés que desafió a Inglaterra y cuyos restos se buscan en Valladolid",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/10/04/gaelic_chieftain.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/la-historia-principe-irlandes-desafio-inglaterra-cuyos-restos-buscan-valladolid-hpe1.html",
-        "date": "2024-10-07 06:00:00",
-        "sentiment_score": -0.13122345507144928
-    },
-    {
-        "title": "Esmail Qaani, ¿nuevo objetivo eliminado por Israel? Irán pierde contacto con el comandante de la Fuerza Quds tras los últimos bombardeos en Beirut",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/07/1487058067-kcE-U603163409061B2F-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/esmail-qaani-nuevo-objetivo-eliminado-israel-iran-20241007074350-nt.html",
-        "date": "2024-10-07 05:44:23",
-        "sentiment_score": -0.22118687629699707
-    },
-    {
-        "title": "El HMNZS Manawanui, hundido: la armada de Nueva Zelanda pierde su primer buque desde la Segunda Guerra Mundial",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/07/GZPZrRXbcAAMAtx-kQM-U603163399840qk-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hmnzs-manawanui-hundido-armada-nueva-zelanda-pierde-20241007072852-nt.html",
-        "date": "2024-10-07 05:28:52",
-        "sentiment_score": -0.6590231955051422
-    },
-    {
-        "title": "«¡Dios salve al zar!» La felicitación del ideológo ultranacionalista Alexander Dugin a Putin en su 72 cumpleaños",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/07/newspaint-1728277524662-1200x840-kaZB-U603163371072IfB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/dios-salve-zar-felicitacion-ideologo-ultranacionalista-alexander-20241007070958-nt.html",
-        "date": "2024-10-07 05:09:59",
-        "sentiment_score": -0.0571846067905426
-    },
-    {
-        "title": "El exjefe de investigación de Antifraude en Valencia revela la “preocupación” del director que lo cesó por sus informes sobre casos de corrupción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NA4P7CBSINBMFGDU7FUVAQ5A5Y.jpg?auth=ed9b921d45f9a2102736dc0c14aebfec61c0286c71205be59096a0fc96a029a0&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "corts valencianes",
-            "carlos mazón",
-            "corrupción",
-            "fraudes",
-            "ppcv",
-            "generalitat valenciana",
-            "pspv-psoe"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-07/el-exjefe-de-investigacion-de-antifraude-en-valencia-revela-la-preocupacion-del-director-que-lo-ceso-por-sus-informes-sobre-casos-de-corrupcion.html",
-        "date": "2024-10-07 05:45:45",
-        "sentiment_score": 0.021283410489559174
-    },
-    {
-        "title": "Villarruel inició su primer viaje oficial al exterior: evento junto al rey Felipe VI y audiencia privada con el papa Francisco",
-        "image_url": "https://www.infobae.com/resizer/v2/MV3RLOPMYJA53LN4GGMB7U7QZE.jpg?auth=b1f0dd05a88d39e8cec0149644ac50ade108c180f33ad761c80981f3ad8f1837",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/politica/2024/10/07/villarruel-inicio-su-primer-viaje-oficial-al-exterior-evento-junto-al-rey-felipe-vi-y-audiencia-privada-con-el-papa-francisco/",
-        "date": "2024-10-07 06:09:03",
-        "sentiment_score": -0.07075437903404236
-    },
-    {
-        "title": "Frente Bokerón, el último ejemplo de connivencia ultra: de sembrar el caos a ser aplaudidos por los jugadores del Málaga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f8c3e3f8-74aa-48b5-bd4b-2a71408fea47_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2024/10/07/frente-bokeron-ultimo-ejemplo-connivencia-109008269.html",
-        "date": "2024-10-07 06:04:01",
-        "sentiment_score": -0.7434900514781475
-    },
-    {
-        "title": "Carlos III pausa su tratamiento contra el cáncer: la prensa británica desvela la poderosa razón",
-        "image_url": "https://theobjective.com/wp-content/uploads/2024/07/carlos-piso-nyc-150x150.jpeg",
-        "tags": [
-            "celebrities",
-            "carlos iii de inglaterra",
-            "gente",
-            "cáncer"
-        ],
-        "link": "https://theobjective.com/gente/2024-10-07/carlos-iii-pausa-tratamiento-cancer/",
-        "date": "2024-10-07 06:00:00",
-        "sentiment_score": -0.30703219771385193
-    },
-    {
-        "title": "Dieciocho jóvenes inician su formación como maquinista en Bilbao",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a6b1724a-6c8f-485d-bd4f-a290f09d28b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/bilbao/2024/10/07/dieciocho-jovenes-inician-formacion-maquinista-8776655.html",
-        "date": "2024-10-07 05:56:17",
-        "sentiment_score": -0.4225133955478668
-    },
-    {
-        "title": "Revive el golazo de Sucic ante el Atlético de Madrid",
-        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/10/07/M1-1487062081-k55C-U2201433413447Y1E-1200x840@Diario%20Vasco.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/real-sociedad/revive-golazo-sucic-ante-atletico-madrid-20241007074920-nt.html",
-        "date": "2024-10-07 05:50:51",
-        "sentiment_score": 0.5510446727275848
-    },
-    {
-        "title": "De las redes y la televisión al teatro: los humoristas que triunfan y puedes ver en directo",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/02/66fd314692d98.jpeg",
-        "tags": [
-            "cultura y ocio"
-        ],
-        "link": "https://www.lavanguardia.com/comprar/cultura-ocio/20241007/9986530/redes-television-teatro-humoristas-triunfan-puedes-ver-directo.html",
-        "date": "2024-10-07 06:27:11",
-        "sentiment_score": 0.6866105943918228
-    },
-    {
-        "title": "La \"Cataluña real\" de Puigdemont y la vivienda de Illa",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/28/politica/889421058_13510366_1706x960.jpg?contentId=ESPIMA20240928_0009",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241007/la-cataluna-real-de-puigdemont-vivienda-illa/891660830_0.html",
-        "date": "2024-10-07 06:15:11",
-        "sentiment_score": -0.8932590447366238
-    },
-    {
-        "title": "MÉTEO | Setmana passada per aigua a Catalunya: on plourà més?",
-        "image_url": "https://elmon.cat/app/uploads/sites/15/2024/03/europapress_4929816_hombre_camina_paraguas_17_enero_2023_barcelona_catalunya_espana_septimo-1.jpg",
-        "tags": [
-            "méteo"
-        ],
-        "link": "https://elmon.cat/meteo/meteo-temps-7-octubre-setmana-passada-aigua-catalunya-on-ploura-mes-910122/",
-        "date": "2024-10-07 06:04:05",
-        "sentiment_score": -0.36666902899742126
-    },
-    {
-        "title": "La AEMET avisa: lluvias y tormentas esta semana en Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/09/24/vivir-en-barcelona/888421201_13487107_1706x960.jpg?contentId=ESPIMA20240924_0052",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241007/la-aemet-avisa-lluvias-tormentas-esta-semana-en-barcelona/891660829_0.html",
-        "date": "2024-10-07 06:01:41",
-        "sentiment_score": 0.714604526758194
-    },
-    {
-        "title": "Valencia convierte sus cementerios en una gran fábrica de energía solar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a3e663e-8345-4ea7-b51d-bbbb4616a2e4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/medio-ambiente/2024/10/07/valencia-convierte-cementerios-gran-fabrica-109008153.html",
-        "date": "2024-10-07 06:01:21",
-        "sentiment_score": -0.08769659698009491
-    },
-    {
         "title": "Albares asegura que los países árabes están \"dispuestos a reconocer a Israel\" si acepta la solución de dos Estados",
         "image_url": "https://www.infobae.com/resizer/v2/DN7NPO3YKJCPVF4MSWBJE43NC4.jpg?auth=1e2500a27cbc85605920d1388186505c623ce49a587cff1641904d83a8cb0b4c",
         "tags": [
@@ -7121,5 +6901,472 @@ export default [
         "link": "https://www.levante-emv.com/espana/2024/10/10/audiencia-barcelona-urge-jueza-decida-109171574.html",
         "date": "2024-10-10 17:08:04",
         "sentiment_score": -0.2976986914873123
+    },
+    {
+        "title": "A más de 160 km de donde tocó tierra Milton, floridenses enfrentaron 3 tornados en media hora",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765145-tornados-2.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "huracanes",
+            "huracán",
+            "huracán milton",
+            "tornados"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/10/florida-tornados-huracan-milton-trax/",
+        "date": "2024-10-10 22:10:27",
+        "sentiment_score": -0.6014082469046116
+    },
+    {
+        "title": "Así se preparan quienes votan por primera vez en las elecciones de EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-20241010215400372.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "videos digitales",
+            "elecciones",
+            "estados unidos noticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-estados-unidos-votacion-ush-orix/",
+        "date": "2024-10-10 21:59:08",
+        "sentiment_score": 0.29381410777568817
+    },
+    {
+        "title": "Así se preparan quienes votan por primera vez en las elecciones de EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-20241010215400372.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-estados-unidos-votacion-ush-orix",
+        "date": "2024-10-10 21:59:08",
+        "sentiment_score": 0.07337191700935364
+    },
+    {
+        "title": "Donald Trump anuncia que su hija menor, Tiffany, está embarazada",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765123-gettyimages-2162189245.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "noticias de donald trump",
+            "trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/10/donald-trump-anuncia-hija-tiffany-embarazada-trax/",
+        "date": "2024-10-10 21:54:42",
+        "sentiment_score": 0.008722394704818726
+    },
+    {
+        "title": "El huracán Milton llega a Florida: inundaciones, apagones y tornados",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177527627.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milton-florida-huracanes-dusa-tv-fast/",
+        "date": "2024-10-10 21:51:13",
+        "sentiment_score": -0.5783282704651356
+    },
+    {
+        "title": "El Minuto Internacional del 10 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21031562-37443-644-still.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-10-octubre-2024-fast",
+        "date": "2024-10-10 21:20:32",
+        "sentiment_score": -0.02939983643591404
+    },
+    {
+        "title": "El Minuto Internacional del 10 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21031562-37443-644-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "mundo",
+            "fast – news briefs",
+            "rafael nadal",
+            "huracán milton",
+            "xpress",
+            "guerra israel",
+            "familia real británica",
+            "palestina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-10-octubre-2024-fast/",
+        "date": "2024-10-10 21:20:32",
+        "sentiment_score": -0.8639527251943946
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 10 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177086379.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-10-de-octubre-2024-dusa-tarde-fast",
+        "date": "2024-10-10 21:11:12",
+        "sentiment_score": 0.09308681637048721
+    },
+    {
+        "title": "Un video muestra el rescate de un niño que flotaba sobre una parte de una valla",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/video1483342864-00-00-22-15-imagen-fija093.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/huracan-milton-nino-rescate-ush-trax",
+        "date": "2024-10-10 21:09:15",
+        "sentiment_score": -0.46878407150506973
+    },
+    {
+        "title": "Un video muestra el rescate de un niño que flotaba sobre una parte de una valla",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/video1483342864-00-00-22-15-imagen-fija093.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/huracan-milton-nino-rescate-ush-trax/",
+        "date": "2024-10-10 21:09:15",
+        "sentiment_score": -0.36153192818164825
+    },
+    {
+        "title": "Gobernar desde la trinchera",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/10/08/juzgado-U19089904922891E-U12242850048Cjd-170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-gobernar-trinchera-20241011202549-nts.html",
+        "date": "2024-10-10 18:40:34",
+        "sentiment_score": -0.07431697845458984
+    },
+    {
+        "title": "Los fondos desconfían de un Gobierno frágil e inestable",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/08/1485561419-kB2F--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-fondos-desconfian-gobierno-fragil-inestable-20241011202024-nt.html",
+        "date": "2024-10-10 18:24:33",
+        "sentiment_score": -0.5534188970923424
+    },
+    {
+        "title": "Rearmar a ETA",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-rearmar-eta-20241011131146-nts.html",
+        "date": "2024-10-10 18:19:05",
+        "sentiment_score": -0.33509965240955353
+    },
+    {
+        "title": "Degenerando, degenerando...",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-degenerando-degenerando-20241011172323-nts.html",
+        "date": "2024-10-10 18:18:51",
+        "sentiment_score": -0.10603243112564087
+    },
+    {
+        "title": "Caso Koldo o caso Sánchez",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/10/08/juzgado-U19089904922891E-U12242850048Cjd-170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-koldo-sanchez-20241011200916-nt.html",
+        "date": "2024-10-10 18:17:19",
+        "sentiment_score": -0.1613529622554779
+    },
+    {
+        "title": "¿Seguro que caben 60.000 millones?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/10/pedro-sanchez-Rw5lRtIHpsaqAhhnyXlKmlK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ignacio-marcogardoqui-seguro-caben-60000-millones-20241010195504-nt.html",
+        "date": "2024-10-10 17:55:04",
+        "sentiment_score": -0.056366145610809326
+    },
+    {
+        "title": "Microsoft reconoce la caída de Outlook en Europa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/10/10/outlook-kVeF-U603182533166ZvF-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/microsoft-reconoce-caida-outlook-europa-20241010194034-nt.html",
+        "date": "2024-10-10 17:40:35",
+        "sentiment_score": -0.29154831171035767
+    },
+    {
+        "title": "El señor Cubí",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/02/loteria-premio-euromillones-k2ZF--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-ruizquintano-senor-cubi-20241011193251-nt.html",
+        "date": "2024-10-10 17:32:58",
+        "sentiment_score": -0.12523584067821503
+    },
+    {
+        "title": "Apuestas",
+        "image_url": "https://s3.ppllstatics.com/burgosconecta/www/multimedia/2024/10/03/garbanzos-kFy--170x119@Burgosconecta.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-apuestas-20241011193234-nt.html",
+        "date": "2024-10-10 17:32:41",
+        "sentiment_score": -0.07834041118621826
+    },
+    {
+        "title": "La función de la mentira",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/servicios/2024/10/09/95110657-U06764456413gJb-170x119@abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/carlos-granes-funcion-mentira-20241011193217-nt.html",
+        "date": "2024-10-10 17:32:30",
+        "sentiment_score": -0.2541734278202057
+    },
+    {
+        "title": "Barcelona se regala un efímero Faro de Alejandría para iluminar la Copa del América",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IFFZN6TINFEZRLWCLZ5FC4XH5U.jpg?auth=025f71b8148d4f0d85637c08b3ce9dd433fb62a02ff694ee742141797b0b86a6&width=1200",
+        "tags": [
+            "cataluña",
+            "música",
+            "copa américa vela",
+            "ineos",
+            "team new zealand",
+            "barcelona",
+            "espectáculos",
+            "cultura",
+            "castellers"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-10/barcelona-se-regala-un-efimero-faro-de-alejandria-para-iluminar-la-copa-del-america.html",
+        "date": "2024-10-10 21:21:35",
+        "sentiment_score": 0.8979045357555151
+    },
+    {
+        "title": "La Cámara catalana avala el pacto por la financiación singular sin el apoyo de Junts",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JBRG6CSEP6ZYUMZG26AKKB2SDI.jpg?auth=9577b518aae4140148a367510291201526c14841df253024a81d42af03190792&width=1200",
+        "tags": [
+            "pp",
+            "en comú podem",
+            "cataluña",
+            "juntsxcat",
+            "aliança catalana",
+            "parlamentos autonómicos",
+            "psc",
+            "debates parlamentarios autonómicos",
+            "cup",
+            "erc",
+            "salvador illa"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-10/la-camara-catalana-avala-el-pacto-por-la-financiacion-singular-sin-el-apoyo-de-junts.html",
+        "date": "2024-10-10 19:27:01",
+        "sentiment_score": 0.06192614883184433
+    },
+    {
+        "title": "Regina Rodríguez Sirvent sigue vendiendo su novela como nadie",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KBAKOQE7VBBRPAEHIG5MFZKU44.jpg?auth=ea59cd808222d25ef069f0c524daadc603937b28be98878cbc7f203fa95d968f&width=1200",
+        "tags": [
+            "literatura",
+            "libros",
+            "cataluña",
+            "estados unidos",
+            "barcelona",
+            "narrativa",
+            "novela",
+            "escritores",
+            "club de lectura el país",
+            "cultura"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-10/regina-rodriguez-sirvent-sigue-vendiendo-su-novela-como-nadie.html",
+        "date": "2024-10-10 19:21:21",
+        "sentiment_score": 0.6289099305868149
+    },
+    {
+        "title": "Los protagonistas del mayor caso de corrupción dentro de los Mossos se declaran inocentes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YG6IJRORAOQIZ4MGPIKPEOWYZ4.jpg?auth=81ad84ab64b2925de73b25e63e04a090fde619bee3a0c97f1b0e77d23b5114e7&width=1200",
+        "tags": [
+            "policía",
+            "sentencias",
+            "cataluña",
+            "marihuana",
+            "santa coloma de farners",
+            "mossos d'esquadra",
+            "drogas",
+            "justicia",
+            "juicios"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-10/los-protagonistas-del-mayor-caso-de-corrupcion-dentro-de-los-mossos-se-declaran-inocentes.html",
+        "date": "2024-10-10 19:11:01",
+        "sentiment_score": -0.7991521824151278
+    },
+    {
+        "title": "El TSJ de Canarias confirma la suspensión de la orden del Gobierno autonómico de no acoger menores migrantes sin su autorización",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TEUB4V5ATZ4DZEGFENDBEADKSQ.jpg?auth=8eb30ee9373cd3ce866405517db427f39fb7b1ea62ea6b4b21a3d394745f7a6d&width=1200",
+        "tags": [
+            "gobierno canarias",
+            "migración",
+            "españa",
+            "autos judiciales",
+            "canarias",
+            "tsj canarias",
+            "fernando clavijo",
+            "menores migrantes"
+        ],
+        "link": "https://elpais.com/espana/2024-10-10/el-tsj-de-canarias-confirma-la-suspension-de-la-orden-del-gobierno-autonomico-de-no-acoger-menores-migrantes-sin-su-autorizacion.html",
+        "date": "2024-10-10 18:33:53",
+        "sentiment_score": 0.04880881309509277
+    },
+    {
+        "title": "La nueva vida del Puerta 57, la entrada más sabrosa al Bernabéu: mejores vistas, más espacio y la respetada cocina de La Máquina",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/132f2a920cebad6a35a251eddfeb43fd/crop/110x63/2959x1963/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/09/17285073012022.jpg",
+        "tags": [
+            "artículos jaime rodríguez"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2024/10/11/670641cde9cf4ac6778b4579.html",
+        "date": "2024-10-10 22:07:44",
+        "sentiment_score": 0.6709908694028854
+    },
+    {
+        "title": "Los bomberos de Madrid advierten sobre los \"peligrosos\" incendios provocados por las baterías: \"Todos los meses tenemos varios avisos por móviles, tablets, patinetes y bicicletas\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/914998d14dd89ffdc32051731d02d20a/crop/0x141/3072x2189/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/10/17285832456377.jpg",
+        "tags": [
+            "móvil",
+            "madrid",
+            "incendio valencia",
+            "artículos daniel j. ollero",
+            "comunidad de madrid",
+            "batería"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/10/11/670814d8e9cf4ab4338b4577.html",
+        "date": "2024-10-10 22:07:20",
+        "sentiment_score": -0.8744458351284266
+    },
+    {
+        "title": "Ferraz cree a resguardo Gobierno y partido tras el 'shock' de la posible imputación de Ábalos",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/1bae434dab83e80104b96c83759b607735929512-scaled-e1728577954448-1440x808.jpg",
+        "tags": [
+            "partido socialista obrero español (psoe)",
+            "pedro sánchez",
+            "tribunal supremo",
+            "koldo garcía",
+            "josé luis ábalos",
+            "caso koldo",
+            "congreso de los diputados",
+            "transportes",
+            "gobierno de españa",
+            "españa",
+            "corrupción"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/11/ferraz-cree-a-resguardo-gobierno-y-partido-tras-el-shock-de-la-posible-imputacion-de-abalos/",
+        "date": "2024-10-10 22:05:57",
+        "sentiment_score": -0.6558673866093159
+    },
+    {
+        "title": "La trama de hidrocarburos y el caso Koldo se cruzan en el chalé para Ábalos",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/chalet-abalos.png",
+        "tags": [
+            "tribunales",
+            "koldo garcía",
+            "españa",
+            "fiscalía",
+            "audiencia nacional"
+        ],
+        "link": "https://www.elindependiente.com/espana/tribunales/2024/10/11/la-trama-de-hidrocarburos-y-el-caso-koldo-se-cruzan-en-el-chale-para-abalos/",
+        "date": "2024-10-10 22:05:32",
+        "sentiment_score": -0.46846889704465866
+    },
+    {
+        "title": "Yeremy Pino abandona la concentración de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a3ea43ef-7288-4250-9a0a-f48ff3d4cf50_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/deportes/2024/10/10/yeremy-pino-abandona-concentracion-espana-109180724.html",
+        "date": "2024-10-10 21:45:07",
+        "sentiment_score": -0.8637648522853851
+    },
+    {
+        "title": "El colegio Highlands School Barcelona, de los Legionarios de Cristo, se renueva con una inversión de 2,5 millones",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/09/business/892170907_13562202_1706x960.jpg?contentId=ESPIMA20241009_0133",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241011/el-highlands-school-barcelona-de-legionarios-cristo/892160853_0.html",
+        "date": "2024-10-10 22:05:49",
+        "sentiment_score": 0.2512890323996544
+    },
+    {
+        "title": "Edu Soto: «Estaba un poco perdido pero este oficio me salvó de la desidia»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bd3d4dc4-b701-4ad7-a3ad-11b0c7dca36d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/2024/10/11/edu-soto-perdido-oficio-salvo-109171449.html",
+        "date": "2024-10-10 22:05:27",
+        "sentiment_score": -0.06472502648830414
+    },
+    {
+        "title": "La obra que indigna a vecinos de Barcelona, con vistas a tubos y vallas: \"Es un esperpento\"",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/09/la-obra-que-indigna-a-vecinos-de-barcelona-con-vistas-a-tubos-y-vallas_cde1.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241010/obra-indigna-vecinos-vistas-tubos-vallas-pisos-barcelona_18_013670766.html",
+        "date": "2024-10-10 22:01:38",
+        "sentiment_score": -0.3905737027525902
+    },
+    {
+        "title": "Meridia transforma dos fábricas de Poblenou en 75 ‘lofts’ de lujo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/09/business/892170903_13562030_1706x960.jpg?contentId=ESPIMA20241009_0129",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241011/meridia-transforma-fabricas-de-poblenou-lofts-lujo/892160849_0.html",
+        "date": "2024-10-10 22:00:00",
+        "sentiment_score": 0.16653383523225784
+    },
+    {
+        "title": "El 'rey de las cárnicas' encarrila su último lío judicial en Cataluña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/10/business/892420780_13564613_1706x960.jpg?contentId=ESPIMA20241010_0031",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241011/el-rey-carnicas-encarrila-ultimo-judicial-cataluna/892410784_0.html",
+        "date": "2024-10-10 22:00:00",
+        "sentiment_score": -0.7422025315463543
+    },
+    {
+        "title": "Ada, la perra policía que combate el crimen organizado en Cataluña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/10/vida/892420933_13569220_1706x960.jpg?contentId=ESPIMA20241010_0184",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20241011/ada-perra-policia-combate-crimen-organizado-cataluna/892410808_0.html",
+        "date": "2024-10-10 22:00:00",
+        "sentiment_score": 0.49805502593517303
+    },
+    {
+        "title": "El faro efímero y musical de la Copa del América sorprende a Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/10/67084608a81da.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20241011/10013039/faro-efimero-musical-copa-america-sorprende-barcelona.html",
+        "date": "2024-10-10 22:00:00",
+        "sentiment_score": 0.39399126172065735
+    },
+    {
+        "title": "Harley Davidson hizo impagos en 2022 pero siguió vendiendo en Barcelona",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/10/business/892420955_13569866_1706x960.jpg?contentId=ESPIMA20241010_0206",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241011/harley-davidson-impagos-en-siguio-vendiendo-barcelona/892410878_0.html",
+        "date": "2024-10-10 22:00:00",
+        "sentiment_score": -0.9135357150807977
+    },
+    {
+        "title": "El turismo, ¿es un gran invento?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eaa8b0b5-ff17-4db7-83a6-54346a0f77f1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2024/10/10/turismo-gran-invento-109169574.html",
+        "date": "2024-10-10 21:55:58",
+        "sentiment_score": 0.12968428432941437
     }
 ];
