@@ -261,56 +261,6 @@ export default [
         "sentiment_score": -0.02960073947906494
     },
     {
-        "title": "Algunas terapias habituales para el cáncer de mama aceleran el envejecimiento",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/10/08/labo-cancer.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/terapias-habituales-cancer-mama-aceleran-envejecimiento-20241008142045-nt.html",
-        "date": "2024-10-08 13:48:08",
-        "sentiment_score": -0.0820295661687851
-    },
-    {
-        "title": "Esta es la razón por la que bostezamos (y no es por sueño)",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/10/08/bostezo-cerebro-R3C57krwozJlaIqgdqH6KaN-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/razon-bostezamos-sueno-20241008154433-nt.html",
-        "date": "2024-10-08 13:45:43",
-        "sentiment_score": -0.12059354782104492
-    },
-    {
-        "title": "Los empresarios de Ecuador protestan por los cortes de electricidad de diez horas al día decretada por el Gobierno",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/08/daniel-noboa-Ru4T8HQGEa6L5JQtk5fp5TO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/empresarios-ecuador-protestan-cortes-electricidad-diez-horas-20241008152539-nt.html",
-        "date": "2024-10-08 13:33:47",
-        "sentiment_score": -0.07622268795967102
-    },
-    {
-        "title": "Operación internacional para cazar a uno de los cinco presos peligrosos fugados de Portugal",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/08/portugal.jpg-RIuIDi1Q8QbfHEaxwXMQugK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/operacion-internacional-cazar-cinco-presos-peligrosos-fugados-20241008144218-nt.html",
-        "date": "2024-10-08 13:29:29",
-        "sentiment_score": -0.2683137506246567
-    },
-    {
-        "title": "Muere la escritora Lore Segal, finalista del Pulitzer que escapó de los nazis gracias al Kindertransport",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/08/Lore-huida-nzais-kwWB-U603170710232eaC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/muere-escritora-lore-segal-finalista-pulitzer-escapo-20241008151931-nt.html",
-        "date": "2024-10-08 13:21:38",
-        "sentiment_score": -0.08047446608543396
-    },
-    {
         "title": "Salvador Illa anuncia una inversión de 4.400 millones para afrontar la emergencia de vivienda",
         "image_url": "https://imagenes.elpais.com/resizer/v2/YUXOYYXKVJA7XPCVG6HUZFSIUY.jpg?auth=8839e5678adb06b6ebf98cd9a2d3f9d814e318b2b9ce9791a8162955dd232a43&width=1200",
         "tags": [
@@ -472,23 +422,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-08/discurso-de-salvador-illa-en-el-debate-de-politica-general-de-cataluna.html",
         "date": "2024-10-08 14:14:24",
         "sentiment_score": 0.5152633525431156
-    },
-    {
-        "title": "Los diputados del PP firmaron que habían “estudiado” las enmiendas sobre las conmutaciones de penas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3S3UQHUWVBBSDKWHJPIVHPI724.jpg?auth=0ed2ddef54a8ac5ea08f0d4cb0ee7fa5f049636f584d9bb7f296d706d65a4bc0&width=1200",
-        "tags": [
-            "congreso diputados",
-            "prisiones",
-            "gobierno",
-            "sumar",
-            "eta",
-            "senado",
-            "españa",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/2024-10-08/los-diputados-del-pp-firmaron-que-habia-estudiado-las-enmiendas-sobre-las-conmutaciones-de-penas.html",
-        "date": "2024-10-08 13:48:36",
-        "sentiment_score": -0.7537647522985935
     },
     {
         "title": "La vida personal Luis Tosar: su mujer Luisa, dos hijos y su buena relación con Javier Bardem",
@@ -6961,5 +6894,325 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20241011/los-paradistas-abrazan-la-transformacion-de-boqueria-pero-desconfian-recuperacion-del-cliente-barcelones/892160831_0.html",
         "date": "2024-10-11 21:28:25",
         "sentiment_score": -0.7247327491641045
+    },
+    {
+        "title": "Jorge Rickards: Los ecosistemas están en punto de inflexión por el cambio climático",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jorge-rickards-puntos-de-infleccion-calentamiento-global-aristegui-tv",
+        "date": "2024-10-12 02:08:24",
+        "sentiment_score": 0.019518554210662842
+    },
+    {
+        "title": "Experta explica las novedades de la estrategia de seguridad de Sheinbaum",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-inseguridad-mexico-estrategia-seguridad-harfuch",
+        "date": "2024-10-12 02:07:24",
+        "sentiment_score": 0.16401370614767075
+    },
+    {
+        "title": "Experta explica las novedades de la estrategia de seguridad de Sheinbaum",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175635329.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inseguridad",
+            "méxico",
+            "claudia sheinbaum",
+            "violencia méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-inseguridad-mexico-estrategia-seguridad-harfuch/",
+        "date": "2024-10-12 02:07:24",
+        "sentiment_score": 0.09050454199314117
+    },
+    {
+        "title": "Floridianos regresan a calles inundadas y hogares desaparecidos después de Milton",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765752-florida-milton.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracanes",
+            "florida",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/11/milton-floridianos-regresan-hogares-trax/",
+        "date": "2024-10-12 02:06:35",
+        "sentiment_score": -0.8805839531123638
+    },
+    {
+        "title": "ONG destaca la importancia de prorrogar la investigación de ONU sobre violaciones a DD.HH. en Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1236322046.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "asamblea general de la onu",
+            "venezuela",
+            "violaciones a derechos humanos",
+            "crisis en venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ong-destaca-la-importancia-de-prorrogar-la-investigacion-de-onu-sobre-violaciones-a-dd-hh-en-venezuela/",
+        "date": "2024-10-12 02:03:00",
+        "sentiment_score": -0.1284286379814148
+    },
+    {
+        "title": "Danny Trejo habla sobre el lado humorístico de su nueva película “Seven Cemeteries”",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2149156844.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-hommywood-danny-trejo-nueva-pelicula-seven-cemeteries-showbiz",
+        "date": "2024-10-12 01:58:49",
+        "sentiment_score": 0.17941638827323914
+    },
+    {
+        "title": "ONU: alerta en Gaza por falta de entrada de alimentos durante el mes de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174358371.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/onu-alerta-gaza-falta-de-alimentos-octubre-panorama-tv-fast",
+        "date": "2024-10-12 01:44:10",
+        "sentiment_score": -0.7342944797128439
+    },
+    {
+        "title": "ONU: alerta en Gaza por falta de entrada de alimentos durante el mes de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174358371.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/onu-alerta-gaza-falta-de-alimentos-octubre-panorama-tv-fast/",
+        "date": "2024-10-12 01:44:10",
+        "sentiment_score": -0.7646306790411472
+    },
+    {
+        "title": "Jorge Rickards: Hasta un 40% de los alimentos producidos en el mundo se desperdicia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1255466359.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jorge-rickards-alimentos-producidos-en-el-mundo-se-desperdician-aristegui-tv",
+        "date": "2024-10-12 01:32:18",
+        "sentiment_score": -0.6470896098762751
+    },
+    {
+        "title": "Aumentan a 17 personas muertas por el huracán Milton en la Florida",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177783663.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracán milton",
+            "noticias de ee.uu.",
+            "florida",
+            "ee.uu.",
+            "fast – news briefs",
+            "xpress",
+            "huracán"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aumentan-muertes-huracan-milton-florida-conclusiones-tv-fast/",
+        "date": "2024-10-12 01:23:53",
+        "sentiment_score": -0.8461889233440161
+    },
+    {
+        "title": "España, tercer país de la UE con más dificultades para pagar el alquiler",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/12/1483342712-Rf00vA9Y23yjUYYhjtkpzyJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/espana-tercer-pais-ue-dificultades-pagar-alquiler-20241012164516-nt.html",
+        "date": "2024-10-12 02:09:00",
+        "sentiment_score": -0.15751543641090393
+    },
+    {
+        "title": "Hacienda se compromete con las empresas del sector a atajar el fraude fiscal en hidrocarburos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/12/gasolinaefe-RSA1vyxdAsI2AKX39NCXleJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/hacienda-compromete-empresas-sector-atajar-fraude-fiscal-20241012184820-nt.html",
+        "date": "2024-10-12 02:08:22",
+        "sentiment_score": -0.13858230412006378
+    },
+    {
+        "title": "Cosecha del Sesenta",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1109875",
+        "date": "2024-10-12 02:10:52",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Una conversación",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1109877",
+        "date": "2024-10-12 02:08:01",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "La protesta por la vivienda se vuelve contra Sumar por animar a ir: \"Es hipocresía. Son parte del Gobierno\"",
+        "image_url": "https://s1.elespanol.com/2024/10/11/actualidad/892671785_249949943_1706x960.png?contentId=ESPIMA20241011_1061",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241012/protesta-vivienda-vuelve-sumar-animar-ir-hipocresia-parte-gobierno/892411344_0.html",
+        "date": "2024-10-12 00:33:06",
+        "sentiment_score": -0.8692613933235407
+    },
+    {
+        "title": "Natalia Chueca: \"La posición de Pedro Sánchez es insostenible, la mentira rodea cada actuación del Gobierno\"",
+        "image_url": "https://s1.elespanol.com/2024/10/11/aragon/actualidad/zaragoza/892671278_249934133_854x640.jpg?contentId=ESPIMA20241011_0554",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/aragon/actualidad/zaragoza/20241012/natalia-chueca-posicion-pedro-sanchez-insostenible-mentira-rodea-actuacion-gobierno/892661076_0.html",
+        "date": "2024-10-12 00:32:47",
+        "sentiment_score": -0.9109797906130552
+    },
+    {
+        "title": "Una huelga, otra en marcha y varios amagos en tres años: el transporte por carretera afronta un futuro incierto",
+        "image_url": "https://s1.elespanol.com/2022/03/23/actualidad/659444267_222924521_1706x960.jpg?contentId=ESPIMA20220323_0218",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20241012/huelga-marcha-varios-amagos-anos-transporte-carretera-afronta-futuro-incierto/892161052_0.html",
+        "date": "2024-10-12 00:29:31",
+        "sentiment_score": 0.06036590784788132
+    },
+    {
+        "title": "La oficina secreta de Azca que controla Madrid: 'ojos' en el subsuelo de hoteles, Gran Vía y en túneles a 40 m bajo tierra",
+        "image_url": "https://s1.elespanol.com/2024/10/11/madrid/capital/892671805_249950547_1706x960.jpg?contentId=ESPIMA20241011_1081",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241012/oficina-secreta-azca-controla-madrid-ojos-subsuelo-hoteles-gran-via-tuneles-tierra/892661257_0.html",
+        "date": "2024-10-11 23:52:51",
+        "sentiment_score": 0.054953306913375854
+    },
+    {
+        "title": "El récord de seis triunfos de inicio, en una plaza ‘maldita’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aa22133f-b60b-4aaf-b14a-1768694a8f54_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2024/10/12/record-seis-triunfos-inicio-plaza-109222270.html",
+        "date": "2024-10-11 23:31:25",
+        "sentiment_score": 0.6879410669207573
+    },
+    {
+        "title": "Bienvenido al club: Ronaldinho se une al selecto grupo de exjugadores propietarios de un club de fútbol",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/12/culemania/culemaniacos/892920701_13576615_1706x960.jpg?contentId=ESPIMA20241012_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241012/bienvenido-al-club-ronaldinho-de-exjugadores-propietarios/892660840_0.html",
+        "date": "2024-10-11 22:31:24",
+        "sentiment_score": 0.10466679185628891
+    },
+    {
+        "title": "Presidente de España habló sobre el ‘Delcygate’, ¿Qué dijo?",
+        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2024/10/BE-55.jpg.webp",
+        "tags": [
+            "internacionales",
+            "principales"
+        ],
+        "link": "https://reporteconfidencial.info/2024/10/11/presidente-de-espana-hablo-sobre-el-delcygate-que-dijo/",
+        "date": "2024-10-11 22:30:13",
+        "sentiment_score": -0.5728951245546341
+    },
+    {
+        "title": "Dani Carvajal ya se operó la rodilla derecha",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/10/dani-carvajan-588x524.jpeg",
+        "tags": [
+            "dani carvajal",
+            "deportes",
+            "operación",
+            "real madrid",
+            "fútbol",
+            "lesión en la rodilla"
+        ],
+        "link": "https://primicia.com.ve/deportes/dani-carvajal-ya-se-opero-la-rodilla-derecha/",
+        "date": "2024-10-11 22:29:28",
+        "sentiment_score": 0.02784498780965805
+    },
+    {
+        "title": "Vulnerabilidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/10/12/vulnerabilidad-109218016.html",
+        "date": "2024-10-12 02:00:33",
+        "sentiment_score": -0.0682743489742279
+    },
+    {
+        "title": "Vicente Ebri: \"El Puerto de València debería mantener una terminal de graneles sólidos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc3a769d-ad35-4816-94d6-25884bbdd05a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/economia/2024/10/12/vicente-ebri-puerto-valencia-deberia-109213164.html",
+        "date": "2024-10-12 02:00:29",
+        "sentiment_score": -0.47428156435489655
+    },
+    {
+        "title": "Amador Herrero Torres, el miliciano desconocido",
+        "image_url": "https://uh.gsstatic.es/autor/manuel-aguilera/10893.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/12/2257727/amador-herrero-torres-miliciano-desconocido.html",
+        "date": "2024-10-12 02:00:01",
+        "sentiment_score": -0.17765840888023376
+    },
+    {
+        "title": "El ‘neng’ aterriza en Palma con sus monólogos",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3035957.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2024/10/12/2257869/edu-soto-neng-aterriza-palma-sus-monologos.html",
+        "date": "2024-10-12 02:00:01",
+        "sentiment_score": -0.027889013290405273
+    },
+    {
+        "title": "Anicla celebra medio siglo de liderazgo en los sectores náutico y de automoción",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3031925.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2024/10/12/2256127/anicla-celebra-medio-siglo-liderazgo-sectores-nautico-automocion.html",
+        "date": "2024-10-12 02:00:01",
+        "sentiment_score": 0.13156872987747192
+    },
+    {
+        "title": "Renfe llega en mayo a Toulouse",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/11/67096722f3992.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/241012/1644307/renfe-llega-mayo-toulouse.html",
+        "date": "2024-10-12 01:30:00",
+        "sentiment_score": 0.04733657091856003
+    },
+    {
+        "title": "Artur Mas i Gavarró: “Creo que Junts tiene que ser exigente ante Sánchez, pero no intransigente”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8f183ac6-f5bf-43f8-bd4e-9a7fe18ee4dc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2024/10/12/artur-i-gavarro-creo-junts-8798455.html",
+        "date": "2024-10-12 01:10:43",
+        "sentiment_score": -0.10701924562454224
+    },
+    {
+        "title": "Los tercios nacieron en Italia",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/10/11/67095899157a7.r_d.849-269-7273.jpeg",
+        "tags": [
+            "libros"
+        ],
+        "link": "https://www.eldebate.com/cultura/libros/20241012/tercios-nacieron-italia_235266.html",
+        "date": "2024-10-12 01:00:00",
+        "sentiment_score": -0.31320901215076447
     }
 ];
