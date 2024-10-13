@@ -151,66 +151,6 @@ export default [
         "sentiment_score": -0.07235381007194519
     },
     {
-        "title": "Walter Baier, Sandro Gozi, Ursula von Der Leyen, Terry Reintke y Nicolas Schmit participan en el debate de las elecciones europeas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/05/23/parlamento-kG0G-U602531807048Nd-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/walter-baier-sandro-gozi-ursula-von-der-20240523150148-nt.html",
-        "date": "2024-10-09 13:33:02",
-        "sentiment_score": -0.009591624140739441
-    },
-    {
-        "title": "Biden, en privado, califica a Netanyahu de «hijo de perra» y «maldito mentiroso»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/09/biden-netanyahu-RNJ6TK4B7j9eVKtaWoxwKEK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/biden-privado-sobre-netanyahu-hijo-perra-20241009150456-nt.html",
-        "date": "2024-10-09 13:12:35",
-        "sentiment_score": -0.19143639504909515
-    },
-    {
-        "title": "Guerra entre Israel, Irán y Líbano, en directo: última hora del conflicto en Oriente Próximo hoy",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/04/guerra-U60534882248KVE-U603172189223snH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/guerra-israel-iran-libano-directo-conflicto-oriente-proximo-hoy-20241009134138-di.html",
-        "date": "2024-10-09 11:45:24",
-        "sentiment_score": -0.4783476497977972
-    },
-    {
-        "title": "Se disparan los desahucios por impago del alquiler: crecen un 10% y ya representan el 70% del total",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/09/1457980426-Rmcgox8kKJphPyUExUya5SK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/disparan-desahucios-impago-alquiler-crecen-representan-total-20241009125415-nt.html",
-        "date": "2024-10-09 11:18:41",
-        "sentiment_score": -0.15431927144527435
-    },
-    {
-        "title": "La avalancha normativa dispara un 50% los costes de las constructoras sólo por levantar la persiana",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/09/EuropaPress_2818444_construccion_vuelve_trabajo_levantamiento_confinamiento_trabajadores_no-RywJKhkHXgliUQvfEIM5uFP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/avalancha-normativa-dispara-costes-constructoras-solo-levantar-20241009125116-nt.html",
-        "date": "2024-10-09 10:51:16",
-        "sentiment_score": -0.10166069865226746
-    },
-    {
-        "title": "X prioriza resolver denuncias por contenidos que vulneran el 'copyright' frente a los sexuales y no consensuados",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/10/09/red-social-RnuNuPSznIgaphOsbFypT6L-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/prioriza-resolver-denuncias-contenidos-vulneran-copyright-frente-20241009125049-nt.html",
-        "date": "2024-10-09 10:50:49",
-        "sentiment_score": -0.20758144557476044
-    },
-    {
         "title": "Claudia Sheinbaum asegura que una respuesta formal por parte del rey de España a la carta de López Obrador fortalecería la relación bilateral",
         "image_url": "https://imagenes.elpais.com/resizer/v2/SEDSVKNGI27JU6KSWLGBEROZNQ.jpg?auth=25bfc27517172429fac20037e5639dc108ba4a6efcc732384367c237c3844f70&width=1200",
         "tags": [
@@ -351,41 +291,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-09/la-justicia-da-carpetazo-definitivo-al-caso-neurona-al-rechazar-un-recurso-de-vox.html",
         "date": "2024-10-09 14:45:53",
         "sentiment_score": -0.3444206789135933
-    },
-    {
-        "title": "Ábalos sostiene que no incumplió los estatutos del PSOE en el ‘caso Koldo’ y que su suspensión fue “arbitraria”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MX66OU7LKRBKRHJBGZOKRGM4O4.jpg?auth=03c6744208eba07b02834488f111b3825ccc7a621f726f01f921efd5b3cdc40f&width=1200",
-        "tags": [
-            "josé luis ábalos",
-            "españa",
-            "psoe",
-            "caso koldo",
-            "koldo garcía",
-            "socialismo",
-            "gobierno de españa"
-        ],
-        "link": "https://elpais.com/espana/2024-10-09/abalos-sostiene-que-no-incumplio-los-estatutos-del-psoe-en-el-caso-koldo-y-que-su-suspension-fue-arbitraria.html",
-        "date": "2024-10-09 13:53:55",
-        "sentiment_score": -0.8359282277524471
-    },
-    {
-        "title": "ERC avisa al Govern de que no tiene alternativa a mejorar la financiación catalana e Illa se compromete a dejarse “la piel”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4JDVP5JRH5HTNNY3E2BUBASQLE.jpg?auth=f9fc657541c624f7142454689947e3f4285f71d9309e4d5be7139ee6ba5488ac&width=1200",
-        "tags": [
-            "pp",
-            "salvador illa",
-            "generalitat cataluña",
-            "juntsxcat",
-            "financiación",
-            "carles puigdemont",
-            "independencia",
-            "política",
-            "cataluña",
-            "psc"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-09/erc-avisa-al-govern-de-que-no-tiene-alternativa-a-mejorar-la-financiacion-catalana-e-illa-se-compromete-a-dejarse-la-piel.html",
-        "date": "2024-10-09 13:38:20",
-        "sentiment_score": -0.8774313051253557
     },
     {
         "title": "Raúl dejará el Castilla al final de temporada",
@@ -6510,5 +6415,376 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/quien-hace-barcelona/20241012/jose-puig-fundador-de-two-market-barcelona-es-la-meca-los-mercadillos-en-espana/892410854_0.html",
         "date": "2024-10-12 21:30:00",
         "sentiment_score": -0.7812472563236952
+    },
+    {
+        "title": "11 miembros de una familia Amish, incluido un bebé de 1 año, son hospitalizados tras consumir hongos tóxicos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766019-amish-hongos-toxicos.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hongos",
+            "instanoticias",
+            "noticias de ee.uu.",
+            "intoxicación"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/12/hongos-toxicos-familia-amish-hospitalizada-trax/",
+        "date": "2024-10-13 01:52:00",
+        "sentiment_score": -0.7055208049714565
+    },
+    {
+        "title": "Carlos Mendoza: el manager que llevó a los Mets a la Serie de Campeonato en la Nacional",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177464587.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/quien-es-carlos-mendoza-manager-mets-serie-campeonato-beisbol-deportes-tv",
+        "date": "2024-10-13 01:41:17",
+        "sentiment_score": 0.19739793986082077
+    },
+    {
+        "title": "Tania Libertad: Tengo la tranquilidad de que he cantado donde he querido",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-459275012.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "música",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tania-libertad-tengo-la-tranquilidad-de-que-he-cantado-donde-he-querido/",
+        "date": "2024-10-13 01:25:57",
+        "sentiment_score": 0.33572040498256683
+    },
+    {
+        "title": "Tania Libertad: Tengo la tranquilidad de que he cantado donde he querido",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-459275012.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tania-libertad-tengo-la-tranquilidad-de-que-he-cantado-donde-he-querido",
+        "date": "2024-10-13 01:25:57",
+        "sentiment_score": 0.7763951066881418
+    },
+    {
+        "title": "Maduro apunta contra Milei durante marchas del 12 de octubre en Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2167203740.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-marchas-12-octubre-maduro-milei-mirador-mundial-tv",
+        "date": "2024-10-13 01:23:11",
+        "sentiment_score": -0.5006057694554329
+    },
+    {
+        "title": "Maduro apunta contra Milei durante marchas del 12 de octubre en Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2167203740.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "javier milei",
+            "venezuela",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-marchas-12-octubre-maduro-milei-mirador-mundial-tv/",
+        "date": "2024-10-13 01:23:11",
+        "sentiment_score": -0.6019051671028137
+    },
+    {
+        "title": "Crece la tensión en Medio Oriente: siguen los ataques entre Israel y Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177399206.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/medio-oriente-tensiones-israel-hamas-libano-mirador-mundial-tv",
+        "date": "2024-10-13 01:20:45",
+        "sentiment_score": -0.7987649831920862
+    },
+    {
+        "title": "Crece la tensión en Medio Oriente: siguen los ataques entre Israel y Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177399206.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hezbollah",
+            "medio oriente",
+            "israel",
+            "líbano",
+            "guerra israel y hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/medio-oriente-tensiones-israel-hamas-libano-mirador-mundial-tv/",
+        "date": "2024-10-13 01:20:45",
+        "sentiment_score": -0.7333276756107807
+    },
+    {
+        "title": "Una mujer dice haber sido expulsada de un vuelo por su vestimenta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb1-20241009231327244-20241013000514263.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujer-expulsada-vuelo-spirit-airlines-codigo-vestimenta-trax/",
+        "date": "2024-10-13 00:46:12",
+        "sentiment_score": -0.8137594219297171
+    },
+    {
+        "title": "Una mujer dice haber sido expulsada de un vuelo por su vestimenta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb1-20241009231327244-20241013000514263.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujer-expulsada-vuelo-spirit-airlines-codigo-vestimenta-trax",
+        "date": "2024-10-13 00:46:12",
+        "sentiment_score": -0.6780359987169504
+    },
+    {
+        "title": "Navalni, en sus memorias: «Pasaré el resto de mi vida en prisión y moriré aquí»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/12/navalni-RPvMIE3NZE90EuqnQoagCOL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/navalni-memorias-pasare-resto-vida-prision-morire-20241012040513-nt.html",
+        "date": "2024-10-13 02:05:14",
+        "sentiment_score": -0.2727162688970566
+    },
+    {
+        "title": "Lim Soosuk, embajador de Corea del Sur: «Si hay alguna provocación militar de Corea del Norte, la represalia será muy dura»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/04/Corea-R0ToapVPgLjtSh2o9eT7kNJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/lim-soosuk-embajador-corea-sur-provocacion-militar-20241004182751-nt.html",
+        "date": "2024-10-13 02:04:33",
+        "sentiment_score": -0.02697587013244629
+    },
+    {
+        "title": "El 'blues' de Kamala Harris: Trump seduce a la clase proletaria",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/12/Wayne-Rka9dcHs9JqHrEwg2OmPnBN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/blues-kamala-harris-trump-seduce-clase-proletaria-20241012174831-nt.html",
+        "date": "2024-10-13 02:04:23",
+        "sentiment_score": -0.09061425924301147
+    },
+    {
+        "title": "Greta Thunberg: de niña prodigio del clima al símbolo del antisemitismo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/greta-RVhU9UFsUJnhED4qhK49WUM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/greta-thunberg-nina-prodigio-clima-simbolo-antisemitismo-20241013185421-nt.html",
+        "date": "2024-10-13 02:04:10",
+        "sentiment_score": -0.17426425218582153
+    },
+    {
+        "title": "China lleva dos décadas engañando a los consumidores europeos con un falso sello de calidad",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/13/1443745313-RhuYXQwTM8MzqHBmNixRBxN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/china-lleva-dos-decadas-enganando-consumidores-europeos-20241013171430-nt.html",
+        "date": "2024-10-13 02:03:05",
+        "sentiment_score": -0.13700167834758759
+    },
+    {
+        "title": "El despliegue de 5G se retrasa por la burocracia con permisos que tardan hasta 18 meses",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/13/torretelecos-RaLrvClQdbpqZ5kFtW8avaN-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/despliegue-retrasa-burocracia-permisos-tardan-meses-20241013181903-nt.html",
+        "date": "2024-10-13 02:02:56",
+        "sentiment_score": -0.08583466708660126
+    },
+    {
+        "title": "Nacionalistas y separatistas asfixian al Gobierno para invadir energía y regulación",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/13/CuerpoEscriva-RXQHP4upurFyAgaMvydVWIO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/maria-jesus-perez-nacionalistas-separatistas-asfixian-gobierno-invadir-energia-regulacion-20241013203647-nt.html",
+        "date": "2024-10-13 02:02:21",
+        "sentiment_score": -0.09898459911346436
+    },
+    {
+        "title": "Los desahucios a 'inquiokupas' se entierran en el papeleo de la ley de Vivienda",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/13/1411541605-R9S9E0iHYAfOa7x69AtDs1I-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/desahucios-inquiokupas-entierran-papeleo-ley-vivienda-20241013165327-nt.html",
+        "date": "2024-10-13 02:02:05",
+        "sentiment_score": -0.08929291367530823
+    },
+    {
+        "title": "Domingo 13 de octubre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1110563",
+        "date": "2024-10-13 02:05:13",
+        "sentiment_score": -0.013304568827152252
+    },
+    {
+        "title": "La involució valencianista",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/10/13/involucio-valencianista-109249879.html",
+        "date": "2024-10-13 02:00:55",
+        "sentiment_score": -0.026361100375652313
+    },
+    {
+        "title": "La reputación del Valencia CF cae en su visita a México",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e69657b-4bc3-4ceb-9dfb-94b29d8be534_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/13/reputacion-valencia-cf-cae-visita-109247030.html",
+        "date": "2024-10-13 02:00:51",
+        "sentiment_score": 0.3637981712818146
+    },
+    {
+        "title": "El mejor de los discursos",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1110557",
+        "date": "2024-10-13 02:00:19",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Illa, sobre Cataluña en la construcción de una «España plural y diversa»",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/12/670abe9ec3688.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/241013/1644991/illa-sobre-cataluna-construccion-espana-plural-diversa.html",
+        "date": "2024-10-13 01:30:00",
+        "sentiment_score": 0.23405689001083374
+    },
+    {
+        "title": "Sánchez acusa de Torquemada a Feijóo en el primer día de la Fiesta Nacional sin Begoña",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/12/670aab749335d.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/241013/1644993/sanchez-acusa-torquemada-feijoo-primer-dia-fiesta-nacional-begona.html",
+        "date": "2024-10-13 01:30:00",
+        "sentiment_score": -0.7680805791169405
+    },
+    {
+        "title": "La exaltación del ‘malismo’",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/09/6706cc9d74cc4.jpeg",
+        "tags": [
+            "el filandón"
+        ],
+        "link": "https://www.diariodeleon.es/monograficos/filandon/241013/1642575/exaltacion-malismo.html",
+        "date": "2024-10-13 01:30:00",
+        "sentiment_score": -0.06688757985830307
+    },
+    {
+        "title": "De la Ebau a la PAU: novedades y cambios hasta ahora",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/12/670aa462c8392.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/241013/1644982/2-000-alumnos-leoneses-padecen-incertidumbre-transito-ebau-pau.html",
+        "date": "2024-10-13 01:30:00",
+        "sentiment_score": -0.14208655431866646
+    },
+    {
+        "title": "Luis Partida: \"Leguina fue un gran presidente. Los grandes proyectos para Villanueva de la Cañada los conseguí con él\"",
+        "image_url": "https://s1.elespanol.com/2024/10/11/madrid/comunidad/892671140_249929925_1706x960.jpg?contentId=ESPIMA20241011_0416",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241013/luis-partida-leguina-gran-presidente-grandes-proyectos-villanueva-canada-consegui/891911272_0.html",
+        "date": "2024-10-13 01:04:25",
+        "sentiment_score": 0.5682927742600441
+    },
+    {
+        "title": "Chillida, una vida y una obra que merece ser contada en viñetas",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/10/12/DAC05464-2D35-4442-ABEC-D62DA323D1B8/chillida-dibujado-comic_96.jpg?crop=1200%2C675%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/chillida-vida-obra-que-merece-ser-contada-vinetas_20241013670b29b7e2e54f00017ef8c6.html",
+        "date": "2024-10-13 02:00:22",
+        "sentiment_score": 0.52365917339921
+    },
+    {
+        "title": "Carme Ruscalleda: «La sobrasada es el Chanel No 5 de la cocina»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3035571.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2024/10/13/2257621/gastronomia-mallorca-carme-ruscalleda-sobrasada-chanel-cocina.html",
+        "date": "2024-10-13 02:00:01",
+        "sentiment_score": -0.03867271542549133
+    },
+    {
+        "title": "«La envidia viene cuando el éxito de los demás nos hace sentir mal»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3035623.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2024/10/13/2257651/envidia-viene-cuando-exito-demas-nos-hace-sentir-mal.html",
+        "date": "2024-10-13 02:00:01",
+        "sentiment_score": 0.019764810800552368
+    },
+    {
+        "title": "Ríos de tinta y de sangre",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/09/6706cc9f86998.jpeg",
+        "tags": [
+            "el filandón"
+        ],
+        "link": "https://www.diariodeleon.es/monograficos/filandon/241013/1642576/rios-tinta-sangre.html",
+        "date": "2024-10-13 01:30:00",
+        "sentiment_score": -0.1333664432168007
+    },
+    {
+        "title": "Vaya dos reyes",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/241013/1645003/dos-reyes.html",
+        "date": "2024-10-13 01:30:00",
+        "sentiment_score": 0.5433818399906158
+    },
+    {
+        "title": "Estopa lanza el videoclip ‘Sola’ grabado en su macroconcierto",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/12/670abf26ae946.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/241013/1645048/estopa-lanza-videoclip-sola-grabado-macroconcierto.html",
+        "date": "2024-10-13 01:30:00",
+        "sentiment_score": 0.1386924870312214
+    },
+    {
+        "title": "El lado más personal de Susi Caramelo, de poner copas a fichaje estrella de Pablo Motos: \"Todavía soy un poco tímida\"",
+        "image_url": "https://s1.elespanol.com/2024/10/11/reportajes/892671696_249947107_1706x960.jpg?contentId=ESPIMA20241011_0972",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241013/lado-personal-susi-caramelo-poner-copas-fichaje-estrella-pablo-motos-todavia-timida/892661224_0.html",
+        "date": "2024-10-13 00:39:29",
+        "sentiment_score": -0.854612460359931
+    },
+    {
+        "title": "Facturando con Curro: la mascota de la Expo92 se dispara como reclamo entre las jóvenes empresas de Sevilla",
+        "image_url": "https://s1.elespanol.com/2024/10/11/invertia/empresas/892671443_249939249_1706x960.jpg?contentId=ESPIMA20241011_0719",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20241013/facturando-curro-mascota-expo92-dispara-reclamo-jovenes-empresas-sevilla/892661028_0.html",
+        "date": "2024-10-13 00:31:57",
+        "sentiment_score": 0.778965674340725
+    },
+    {
+        "title": "Daniel Agromayor (Five Guys): “Que Mercadona ponga una esquina de comida para llevar es competencia para nosotros”",
+        "image_url": "https://s1.elespanol.com/2024/10/10/invertia/empresas/distribucion/892421564_249907476_1706x960.jpg?contentId=ESPIMA20241010_0815",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20241013/daniel-agromayor-five-guys-mercadona-ponga-esquina-comida-llevar-competencia/892411006_0.html",
+        "date": "2024-10-13 00:31:12",
+        "sentiment_score": 0.5263868756592274
     }
 ];
