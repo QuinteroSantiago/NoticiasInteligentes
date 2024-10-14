@@ -1,235 +1,5 @@
 export default [
     {
-        "title": "Covid-19 puede aumentar el riesgo de ataques cardíacos, accidentes cerebrovasculares y muertes durante tres años después de una infección, sugiere un estudio",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1764496-covid-19.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "coronaivrus",
-            "enfermedades",
-            "enfermedades cardiovasculares",
-            "covid-9"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/10/covid-19-riesgo-ataques-cardiacos-accidentes-cerebrovasculares-y-muertes-durante-tres-anos-despues-de-infeccion-trax/",
-        "date": "2024-10-10 05:58:18",
-        "sentiment_score": -0.11520881205797195
-    },
-    {
-        "title": "La ONU confirma «daños» en algunas posiciones de la FINUL por el intercambio de ataques entre Israel y Hezbolá",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/10/onu-k9dD-U603178476981iAE-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/onu-confirma-danos-posiciones-finul-intercambio-ataques-20241010082209-nt.html",
-        "date": "2024-10-10 06:23:03",
-        "sentiment_score": -0.1561494916677475
-    },
-    {
-        "title": "Hamás confirma la muerte de uno de los miembros que participó en el ataque de agosto en el valle del Jordán",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/10/cisjordania-archivo-efe-kmaC-U603178525592dFF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hamas-confirma-muerte-miembros-participo-ataque-agosto-20241010075905-nt.html",
-        "date": "2024-10-10 06:04:41",
-        "sentiment_score": -0.15339729189872742
-    },
-    {
-        "title": "Milton se degrada a huracán de categoría 1 a su paso por Florida pero trae «lluvias devastadoras y vientos dañinos»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/10/milton-kykF-U603178481921ZFI-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/milton-degrada-huracan-categoria-paso-florida-trae-20241010073325-nt.html",
-        "date": "2024-10-10 05:33:25",
-        "sentiment_score": -0.16161203384399414
-    },
-    {
-        "title": "El Ayuntamiento de Madrid recurre la sentencia que elimanaba la licencia de 50 cocinas fantasma",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ENAPNNBVEJGPTANNA6RWKQ5XGM.jpg?auth=812af41442c51d1eb24606fb90ed3a452f2c81224b7fa7ca68df66796d376655&width=1200",
-        "tags": [
-            "juzgados",
-            "licencias",
-            "madrid",
-            "comida a domicilio",
-            "recursos judiciales",
-            "noticias de españa",
-            "sentencias",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-10/el-ayuntamiento-de-madrid-recurre-la-sentencia-que-elimanaba-la-licencia-de-50-cocinas-fantasma.html",
-        "date": "2024-10-10 06:00:00",
-        "sentiment_score": -0.4287732969969511
-    },
-    {
-        "title": "La casa de tres millones de euros de Rocío Monasterio, cuatro hijos y su sólido matrimonio",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/10/casa-broncano-pantano-469x317.jpeg",
-        "tags": [
-            "rocío monasterio",
-            "casas",
-            "relaciones de pareja",
-            "bodas",
-            "gente",
-            "celebrities",
-            "iván espinosa de los monteros"
-        ],
-        "link": "https://theobjective.com/gente/2024-10-10/vida-familiar-rocio-monasterio-hijos-mansion/",
-        "date": "2024-10-10 06:30:00",
-        "sentiment_score": -0.8162402547895908
-    },
-    {
-        "title": "Cultural y Ponferradina buscan a su primer rival en la Copa del Rey",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2024/10/09/copa-kF1C-U2201462759242wuH-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/copa-del-rey/cultural-ponferradina-buscan-primer-rival-copa-rey-20241010081646-nt.html",
-        "date": "2024-10-10 06:16:47",
-        "sentiment_score": 0.0988277867436409
-    },
-    {
-        "title": "Lesionados antes del parón",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/10/2024101008135788705.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lesionados-antes-paron/20241010081449320308.html",
-        "date": "2024-10-10 06:14:49",
-        "sentiment_score": -0.8411048175767064
-    },
-    {
-        "title": "Conoce todos los detalles del sorteo de la Copa del Rey; Cádiz CF, Xerez CD y Chiclana CF, en el bombo",
-        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/deportes/2024/10/10/sorteo-copa-rey-R7pHJo52Nfi7k0UHQnuWLDK-758x531@abc.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdigital.es/deportes/futbol/conoce-detalles-sorteo-copa-rey-cadiz-xerez-20241010080652-ntv.html",
-        "date": "2024-10-10 06:06:53",
-        "sentiment_score": -0.0961386114358902
-    },
-    {
-        "title": "Y al final, fue el PP de Feijóo el que votó a Txapote",
-        "image_url": "https://www.elplural.com/uploads/s1/18/45/53/7/el-presidente-del-pp-alberto-nunez-feijoo-durante-una-sesion-plenaria-en-el-congreso-de-los-diputados_7_480x270.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elplural.com/opinion/heredia-final-fue-pp-feijoo-voto-txapote_338768102",
-        "date": "2024-10-10 05:37:00",
-        "sentiment_score": -0.19929978251457214
-    },
-    {
-        "title": "Ponsarnau: “Hemos tenido buen tono y mentalidad”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2d5509cf-0c8d-47e9-9fae-ab789d641c55_16-9-aspect-ratio_default_0_x884y226.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/bilbao-basket/2024/10/10/pponsarnau-hemos-tenido-buen-tono-8789981.html",
-        "date": "2024-10-10 05:31:54",
-        "sentiment_score": 0.7902266532182693
-    },
-    {
-        "title": "En Reino Unido se refieren a Tamara Falcó de una forma que a nadie en España se le habría ocurrido",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/10/09/tamara-falco-en-un-acto-en-madrid.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/en-reino-unido-refieren-tamara-falco-forma-nadie-espana-le-habria-ocurrido.html",
-        "date": "2024-10-10 05:15:10",
-        "sentiment_score": -0.08496750891208649
-    },
-    {
-        "title": "10 paisajes que inspiran un viaje a las islas Feroe",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BMLZAYZVRRE7NC3SXGFCE2YJBQ.jpg?auth=40548b3b213a17f6118c5667bdceb24dc3d4cf99dda647837ed12d5da1d9c8fe&width=1200",
-        "tags": [
-            "turismo naturaleza",
-            "turismo",
-            "viajes",
-            "dinamarca",
-            "islas feroe"
-        ],
-        "link": "https://elpais.com/elviajero/viajes/2024-10-10/10-paisajes-que-inspiran-un-viaje-a-las-islas-feroe.html",
-        "date": "2024-10-10 06:30:00",
-        "sentiment_score": 0.7490345239639282
-    },
-    {
-        "title": "Los usuarios del bus directo Tarragona-Barcelona se multiplican por cinco: \"Te aseguras llegar puntual\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/441debe4-219a-4bfd-a9db-f549535a436b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241010/aumento-usuarios-bus-directo-tarragona-barcelona-corte-rodalies-109144887",
-        "date": "2024-10-10 06:27:40",
-        "sentiment_score": -0.029004499316215515
-    },
-    {
-        "title": "'La Revuelta' gana en audiencia a 'El Hormiguero' por primera vez tres días consecutivos",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/10/67076cd248652.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.lavanguardia.com/television/20241010/10010357/revuelta-david-broncano-gana-audiencia-hormiguero-primera-vez-tres-dias-consecutivos.html",
-        "date": "2024-10-10 06:26:49",
-        "sentiment_score": 0.19009609892964363
-    },
-    {
-        "title": "El 112 registra 572 avisos por el episodio de viento en Catalunya al finalizar la alerta",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-112-registra-572-avisos-episodio-viento-catalunya-finalizar-alerta-20241010081547.html",
-        "date": "2024-10-10 06:15:47",
-        "sentiment_score": -0.12405458092689514
-    },
-    {
-        "title": "Junts pide al Govern que emprenda acciones legales contra los jueces que no cumplan la amnistía",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/10/10/67076f1cb4788.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20241010/junts-pide-govern-emprenda-acciones-legales-contra-jueces-no-cumplan-amnistia_234615.html",
-        "date": "2024-10-10 06:07:32",
-        "sentiment_score": -0.6512529104948044
-    },
-    {
-        "title": "Comer mal aumenta el riesgo de sufrir depresión",
-        "image_url": "https://static1.ara.cat/clip/43bc6946-28e2-43eb-a6e5-fa175af672d5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/sociedad/salud/comer-mal-aumenta-riesgo-sufrir-depresion_1_5166167.html",
-        "date": "2024-10-10 06:01:57",
-        "sentiment_score": -0.3613397106528282
-    },
-    {
-        "title": "Ocho medallas extremeñas en el Campeonato de España Sprint por autonomías",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hoy.es/deportes/mas-deportes/ocho-medallas-extremenas-campeonato-espana-sprint-autonomias-20241010080057-nt.html",
-        "date": "2024-10-10 06:00:58",
-        "sentiment_score": 0.12780778110027313
-    },
-    {
-        "title": "Fundación Ibercaja resuelve la convocatoria “Innovación social y Protección del Medioambiente”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1ad62ad-8faa-4e93-9529-aec2c4a3c2d9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/integracion/2024/10/10/fundacion-ibercaja-resuelve-convocatoria-innovacion-social-proteccion-medioambiente-109120458.html",
-        "date": "2024-10-10 06:00:42",
-        "sentiment_score": 0.587954793125391
-    },
-    {
-        "title": "Ponle cuernos: estos son los cruasanes más atrevidos de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a98ac2e-e023-47b5-8645-953430f4bc6c_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20241010/cruasanes-mas-atrevidos-barcelona-cuernos-109085486",
-        "date": "2024-10-10 06:00:42",
-        "sentiment_score": 0.437873899936676
-    },
-    {
         "title": "Casas destruidas y caos: dron muestra daños del impacto del huracán Milton sobre Venice, Florida",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/casas-destruidas-1.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6065,5 +5835,442 @@ export default [
         "link": "https://www.mundiario.com/articulo/luxury/nuevo-icono-dolce-gabbana/20241013182626320640.html",
         "date": "2024-10-13 16:26:26",
         "sentiment_score": 0.8428389243781567
+    },
+    {
+        "title": "La censura en China es una de las más duras del mundo. Entonces, ¿por qué dejó tocar a Kanye West?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766131-copia-de-foto-para-wp-2024-10-13t122641-012.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "china",
+            "música"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/13/censura-china-por-que-dejo-tocar-kanye-west-trax/",
+        "date": "2024-10-13 21:51:55",
+        "sentiment_score": -0.7718075662851334
+    },
+    {
+        "title": "¿Qué está abierto y qué cerrado en EE.UU. por el feriado del Día de los Pueblos Indígenas de 2024?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766146-gettyimages-1213232466.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/13/abierto-cerrado-feriado-pueblos-indigenas-trax/",
+        "date": "2024-10-13 21:27:57",
+        "sentiment_score": -0.08486587554216385
+    },
+    {
+        "title": "Mira las imitaciones que hizo Ariana Grande en ‘SNL’ de estrellas pop",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-ariana.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/snl-ariana-grande-imitacion-estrellas-ush-showbiz-trax",
+        "date": "2024-10-13 21:02:04",
+        "sentiment_score": 0.27347149699926376
+    },
+    {
+        "title": "La demanda de México contra fabricantes y distribuidores de armas que podría redefinir esta industria en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-858367878-20241013202345117.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/industria-armas-estados-unidos-demanda-caso-mexico-cartel-ush/",
+        "date": "2024-10-13 21:01:37",
+        "sentiment_score": -0.2553570121526718
+    },
+    {
+        "title": "Con tan solo 7 años, Rory es considerada la niña más fuerte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nina-mas-fuerte-los-inusuales-fast",
+        "date": "2024-10-13 20:13:25",
+        "sentiment_score": 0.7861170656979084
+    },
+    {
+        "title": "Nuevo estudio revela el misterio de hace siglos sobre los verdaderos orígenes de Cristóbal Colón",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766118-copia-de-foto-para-wp-2024-10-13t115127-240.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "europa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/13/estudio-misterio-secular-verdaderos-origenes-cristobal-colon-reux/",
+        "date": "2024-10-13 19:21:05",
+        "sentiment_score": -0.10079322755336761
+    },
+    {
+        "title": "Biden agradece a los socorristas y anuncia más de US$ 600 millones para la resiliencia energética en su visita a Florida tras Milton y Helene",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766109-copia-de-foto-para-wp-2024-10-13t110425-233.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracanes",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/13/biden-socorristas-nuevos-fondos-huracanes-helene-milton-florida-trax/",
+        "date": "2024-10-13 19:13:32",
+        "sentiment_score": 0.4493898004293442
+    },
+    {
+        "title": "El pedido de Lula da Silva contra los futbolistas brasileños que juegan en Europa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luiz-inacio-lula-da-silva-brasil-fecha-fifa-conmebol-sudamerica-futbol-cnn-deportes-tv",
+        "date": "2024-10-13 18:13:09",
+        "sentiment_score": -0.7178366258740425
+    },
+    {
+        "title": "Este hotel de Singapur es el nuevo mejor rascacielos del mundo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-10-13-at-11-36-25-am.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hotel-singapur-mejor-rascacielos-mundo-trax",
+        "date": "2024-10-13 17:38:36",
+        "sentiment_score": 0.7246244102716446
+    },
+    {
+        "title": "Este hotel de Singapur es el nuevo mejor rascacielos del mundo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "rascacielos",
+            "singapur"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hotel-singapur-mejor-rascacielos-mundo-trax/",
+        "date": "2024-10-13 17:38:36",
+        "sentiment_score": 0.49254874885082245
+    },
+    {
+        "title": "La Policía frustra un tercer intento de asesinato de Trump",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/de/media_thumb_2x-link-3989196.webp",
+        "tags": [
+            "trump",
+            "actualidad",
+            "eeuu"
+        ],
+        "link": "https://www.meneame.net/story/policia-frustra-tercer-intento-asesinato-trump",
+        "date": "2024-10-13 21:55:02",
+        "sentiment_score": -0.6278196107596159
+    },
+    {
+        "title": "La Policía frustra un tercer intento de asesinato de Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/trump-mitin-k6dH-U603194519963Q5D-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/policia-frustra-tercer-intento-asesinato-trump-20241013222013-nt.html",
+        "date": "2024-10-13 20:20:36",
+        "sentiment_score": -0.6361073888838291
+    },
+    {
+        "title": "Esperando al AVE",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/10/10/georgina-sidreria-asturias-kppD--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-esperando-ave-20241014215230-nts.html",
+        "date": "2024-10-13 19:54:41",
+        "sentiment_score": -0.05984392762184143
+    },
+    {
+        "title": "Colón era Colom",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/10/195259992-kJrH--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-colon-era-colom-20241014215229-nts.html",
+        "date": "2024-10-13 19:52:29",
+        "sentiment_score": -0.16033203899860382
+    },
+    {
+        "title": "Dios transparente",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/10/195259992-kJrH--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-dios-transparente-20241014215228-nts.html",
+        "date": "2024-10-13 19:52:28",
+        "sentiment_score": -0.0202997624874115
+    },
+    {
+        "title": "Al menos 67 heridos tras un ataque de Hizbolá con drones al norte de Israel",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/israel-kPDB-U603194418889Z6H-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/heridos-tras-ataque-hizbola-drones-norte-israel-20241013205908-nt.html",
+        "date": "2024-10-13 19:01:38",
+        "sentiment_score": -0.3358470946550369
+    },
+    {
+        "title": "Sánchez y Ábalos deben ser del PP",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/10/195259992-kJrH--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-sanchez-abalos-deben-pp-20241014171401-nt.html",
+        "date": "2024-10-13 18:42:32",
+        "sentiment_score": -0.23435387015342712
+    },
+    {
+        "title": "No hace falta moción de censura",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/10/08/jubileta_2-U77750010886SBH-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-falta-mocion-censura-20241014191548-nt.html",
+        "date": "2024-10-13 17:56:31",
+        "sentiment_score": -0.13981136679649353
+    },
+    {
+        "title": "El 'number one'",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-number-one-20241014170450-nt.html",
+        "date": "2024-10-13 17:28:36",
+        "sentiment_score": -0.1425182968378067
+    },
+    {
+        "title": "La tríada",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/08/1485561419-kB2F--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-triada-20241014184616-nt.html",
+        "date": "2024-10-13 17:28:13",
+        "sentiment_score": -0.1985803246498108
+    },
+    {
+        "title": "El embajador de Zapatero en Caracas admite que cobró 4,5 millones de Venezuela",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/01/raul-morodo-1-469x317.jpg",
+        "tags": [
+            "cobro irregular",
+            "política",
+            "josé luis rodríguez zapatero",
+            "venezuela"
+        ],
+        "link": "https://theobjective.com/espana/politica/2024-10-14/embajador-zapatero-venezuela-petrolera/",
+        "date": "2024-10-13 22:14:08",
+        "sentiment_score": 0.14777715504169464
+    },
+    {
+        "title": "Mesón de Paredes, tantos recuerdos, de las corralas a la taberna más antigua",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/5f78deb84f309e168519c59bd315dcaa/crop/0x168/841x729/f/webp/assets/multimedia/imagenes/2024/10/13/17288264840443.jpg",
+        "tags": [
+            "antonio carbajal - mx",
+            "ester expósito - mx",
+            "el mundo",
+            "pedro garcía aguado",
+            "eduardo camavinga - mx",
+            "dani carvajal - mx",
+            "kepa arrizabalaga - mx",
+            "ciudad",
+            "selección de fútbol de honduras - mx",
+            "salomón chertorivski - mx",
+            "jorge álvarez máynez - mx",
+            "querétaro fc femenil - mx",
+            "selección de fútbol de ecuador - mx",
+            "jude bellingham - mx",
+            "aurah ruiz",
+            "almería - mx",
+            "españa",
+            "alex padilla - mx",
+            "tiago volpi - mx",
+            "gp españa f1 - mx",
+            "felipe calderón - mx",
+            "santiago taboada - mx",
+            "carlo ancelotti - mx",
+            "madrid",
+            "álvaro fidalgo - mx",
+            "real madrid",
+            "gp bélgica f1 - mx",
+            "anna simon",
+            "toño sánchez camacho - lw mx",
+            "feyenoord - mx",
+            "gp países bajos f1 - mx",
+            "incendio valencia",
+            "adda lavalle - lw mx",
+            "toni kroos - mx",
+            "gp gran bretaña f1 - mx",
+            "ter stegen - mx",
+            "gp singapur f1 - mx",
+            "alberto lati",
+            "gp hungría f1 - mx",
+            "jaime maussan - mx",
+            "sergio ramos - mx",
+            "david alaba - mx",
+            "julio gonzález - mx",
+            "europa",
+            "alejandro villalvazo - mx",
+            "mario rodríguez - lw mx",
+            "vicente fox - mx",
+            "josé de jesús corona - mx",
+            "agustín marchesín - mx",
+            "karim benzema - mx",
+            "andrés gudiño - mx",
+            "fernando schwartz - mx",
+            "a fondo",
+            "hugo gonzález - mx",
+            "carlos acevedo - mx",
+            "selección de fútbol de colombia - mx",
+            "gp austria f1 - mx",
+            "florentino pérez - mx",
+            "gp italia f1 - mx",
+            "óscar jiménez - mx",
+            "denver nuggets - mx",
+            "artículos víctor de la serna",
+            "santiago solari - mx",
+            "selección de fútbol de paraguay - mx",
+            "hugo sánchez - mx",
+            "boston celtics - mx",
+            "camilo vargas - mx",
+            "xabi alonso - mx",
+            "luis malagón - mx",
+            "samuel garcía - mx",
+            "selección de fútbol de chile - mx",
+            "sebastián jurado - mx",
+            "ricardo anaya - mx",
+            "luka modric - mx",
+            "gp mónaco f1 - mx",
+            "mallorca - mx",
+            "rodrigo huescas - mx",
+            "álvaro morata - mx",
+            "antonio rudiger - mx"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/10/14/670bc02ce4d4d8992a8b457e.html",
+        "date": "2024-10-13 22:04:02",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Corinna y el principio del fin",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/corina-juan-carlos.jpg",
+        "tags": [
+            "juan carlos i",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/14/corinna-y-el-principio-del-fin/",
+        "date": "2024-10-13 22:03:26",
+        "sentiment_score": -0.7270204275846481
+    },
+    {
+        "title": "'Cama' ya tiene sus zapatillas",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/10/08/Imagen%20(98304262)-kEgF-U2201445705585KxG-1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/gipuzkoa/cama-zapatillas-indarbizi-17-carnet-socio-20241014140859-nt.html",
+        "date": "2024-10-13 22:02:23",
+        "sentiment_score": -0.18301761150360107
+    },
+    {
+        "title": "Plantar cara a Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/12/vida/793930818_8707058_1706x960.jpg?contentId=ESPIMA20230912_0219",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20241014/plantar-cara-madrid/893290666_13.html",
+        "date": "2024-10-13 22:00:00",
+        "sentiment_score": -0.29938873648643494
+    },
+    {
+        "title": "AGENDA OFICIAL DE LA FAMILIA REAL —Del 12 al 20 de octubre de 2024—",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2021/09/27/2021092710353413853.jpg",
+        "tags": [
+            "agenda familia real"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/agenda_familia_real/agenda-oficial-familia-real-12-20-octubre-2024/20241014000000130393.html",
+        "date": "2024-10-13 22:00:00",
+        "sentiment_score": -0.01901423931121826
+    },
+    {
+        "title": "La UEFA rechaza las ofertas de TVE, Telecinco y Antena 3 para la final de la Champions",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/01/2024100108023832261.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/uefa-rechaza-ofertas-tve-telecinco-antena-3-final-champions/20241014000000857381.html",
+        "date": "2024-10-13 22:00:00",
+        "sentiment_score": -0.17205819487571716
+    },
+    {
+        "title": "La infanta Sofía celebró la fiesta nacional junto al resto de compañeros españoles",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/10/13/2024101316493627570.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/uwc-atlantic-college-izo-bandera-espanola-festejar-dia-fiesta-nacional/20241014000000130396.html",
+        "date": "2024-10-13 22:00:00",
+        "sentiment_score": 0.13714192807674408
+    },
+    {
+        "title": "Día de la Fiesta Nacional: el uniforme de la Armada de Leonor causa sensación entre los políticos",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2021/09/27/2021092710353413853.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/dia-fiesta-nacional-uniforme-armada-leonor-causa-sensacion-politicos/20241014000000130388.html",
+        "date": "2024-10-13 22:00:00",
+        "sentiment_score": 0.15717445313930511
+    },
+    {
+        "title": "El lujo de los aviones privados",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/09/23/portadilla-avion-kE0F-U22012679234501lF-1200x840@Diario%20Vasco.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/gipuzkoa/lujo-aviones-privados-aeropuerto-hondarribia-san-sebastian-20241014150209-nt.html",
+        "date": "2024-10-13 21:59:10",
+        "sentiment_score": -0.8035585228353739
+    },
+    {
+        "title": "El popular verdugo Nicomedes Méndez también ejecutó en Mallorca",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9cfe18bf-3e75-4e85-8f31-429d3bae98b2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/2024/10/14/popular-verdugo-nicomedes-mendez-ejecuto-109272940.html",
+        "date": "2024-10-13 22:12:47",
+        "sentiment_score": -0.27647921442985535
+    },
+    {
+        "title": "«No veo prácticamente la tele»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/10/aragn-RS8LH9XDtSkg3eqbs0FeRmI-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/culturas/veo-practicamente-tele-20241010000639-ntrc.html",
+        "date": "2024-10-13 22:06:51",
+        "sentiment_score": -0.3100275322794914
+    },
+    {
+        "title": "Los semáforos del lunes 14 de octubre: Judit Carrera, Ángel Sala, Ruth Chepngetich y Victor Kristiansen",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241014/9994912/semaforos-lunes-14-octubre-judit-carrera-angel-sala-ruth-chepngetich-victor-kristiansen.html",
+        "date": "2024-10-13 22:05:00",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "La vivienda prometida",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/14/670c45c1b2464.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241014/10018409/vivienda-prometida.html",
+        "date": "2024-10-13 22:05:00",
+        "sentiment_score": -0.5210940800607204
+    },
+    {
+        "title": "Antoni Llorens",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/02/13/examen-protagonistas/832426965_13580398_1706x960.jpg?contentId=ESPIMA20240213_0216",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20241014/antoni-llorens/893160730_0.html",
+        "date": "2024-10-13 22:00:00",
+        "sentiment_score": -0.14419743418693542
     }
 ];
