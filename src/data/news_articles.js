@@ -1,303 +1,5 @@
 export default [
     {
-        "title": "Casas destruidas y caos: dron muestra daños del impacto del huracán Milton sobre Venice, Florida",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/casas-destruidas-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "xpress",
-            "huracán milton",
-            "fast – news variety",
-            "dron",
-            "huracanes",
-            "videos digitales",
-            "destrucción"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/huracan-milton-venice-florida-destruccion-casas-ush-orix/",
-        "date": "2024-10-10 16:39:26",
-        "sentiment_score": -0.8919667080044746
-    },
-    {
-        "title": "Una gran tormenta geomagnética podría causar auroras coloridas sobre el norte de California y Alabama",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2151911419.webp",
-        "tags": [
-            "ciencia y espacio"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/10/tormenta-geomagnetica-solar-auroras-trax/",
-        "date": "2024-10-10 16:23:24",
-        "sentiment_score": 0.3579879477620125
-    },
-    {
-        "title": "Los adultos mayores en EE.UU. recibirán solo un pequeño aumento en los beneficios de la Seguridad Social en 2025",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/Seguridad-social.jpg?quality=100&strip=info",
-        "tags": [
-            "economía",
-            "seguridad social"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/10/personas-mayores-recibiran-pequeno-aumento-en-beneficios-seguridad-social-trax/",
-        "date": "2024-10-10 16:21:52",
-        "sentiment_score": -0.02160075306892395
-    },
-    {
-        "title": "Kate hace su primera aparición pública desde que terminó el tratamiento contra el cáncer",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1764908-c-01j9ve9fecw31ma63wnagqd6pn.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "reino unido",
-            "príncipe william",
-            "kate"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/10/kate-primera-aparicion-publica-fin-tratamiento-cancer-trax/",
-        "date": "2024-10-10 15:43:03",
-        "sentiment_score": -0.6937948055565357
-    },
-    {
-        "title": "Ethel Kennedy, activista por los derechos humanos y viuda de Robert F. Kennedy, muere a los 96 años",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1764903-descarga-8.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "kennedy",
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/10/ethel-kennedy-activista-por-los-derechos-humanos-y-viuda-de-robert-f-kennedy-muere-a-los-96-anos/",
-        "date": "2024-10-10 15:39:34",
-        "sentiment_score": -0.7846531253308058
-    },
-    {
-        "title": "Un ataque israelí mata al menos a 28 palestinos en una escuela en el centro de Gaza, dice la Media Luna Roja",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gaza-1.jpg?quality=100&strip=info",
-        "tags": [
-            "medio oriente",
-            "gaza"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/10/ataque-israeli-palestinos-muertos-escuela-gaza-trax/",
-        "date": "2024-10-10 15:39:09",
-        "sentiment_score": -0.8878816915675998
-    },
-    {
-        "title": "Retiran más de 4 millones de kilos de carne del mercado por preocupaciones por listeria",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1764885-listeria.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de salud"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/10/4-millones-kilos-carne-mercado-listeria-trax/",
-        "date": "2024-10-10 15:37:34",
-        "sentiment_score": -0.6819917559623718
-    },
-    {
-        "title": "Video muestra una grúa colapsada sobre un edificio",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/download-18.jpeg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/video-grua-colapsada-edificio-ush-trax",
-        "date": "2024-10-10 15:27:08",
-        "sentiment_score": -0.7875428590923548
-    },
-    {
-        "title": "Video muestra una grúa colapsada sobre un edificio",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/video-grua-colapsada-edificio-ush-trax/",
-        "date": "2024-10-10 15:27:08",
-        "sentiment_score": -0.8588877152651548
-    },
-    {
-        "title": "Video muestra cómo un tornado arranca todo a su paso en St. Lucie, Florida",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tornado",
-            "huracanes",
-            "florida",
-            "huracán milton"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/st-lucie-tornado-florida-orix/",
-        "date": "2024-10-10 15:17:06",
-        "sentiment_score": -0.7560943439602852
-    },
-    {
-        "title": "EE.UU. cree que Kiev podrá mantener durante meses sus posiciones en la región rusa de Kursk",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/10/ucranianos-RaHNfOwmP75dcqWuEu4sR4L-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-cree-kiev-podra-mantener-meses-posiciones-20241010171409-nt.html",
-        "date": "2024-10-10 16:13:23",
-        "sentiment_score": -0.09791678190231323
-    },
-    {
-        "title": "El Congreso exige a Renfe que vuelva a indemnizar los retrasos de 15 y 30 minutos con la oposición del Gobierno",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/10/1477537859-Ro2A3QZGbnOlxTqeqXMgTdJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/congreso-exige-renfe-vuelva-indemnizar-retrasos-minutos-20241010175819-nt.html",
-        "date": "2024-10-10 16:00:16",
-        "sentiment_score": -0.09617632627487183
-    },
-    {
-        "title": "ING financiará el 100% de la primera vivienda de los jóvenes sin aval: edad límite y cantidad máxima a financiar",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/10/vivienda-pareja-RnEbW8xh9CMQ9Pj5BpYjm7I-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ing-financiara-100-primera-vivienda-jovenes-aval-edad-maxima-financiar-20241010175204-nt.html",
-        "date": "2024-10-10 15:57:46",
-        "sentiment_score": -0.047781944274902344
-    },
-    {
-        "title": "El Real Madrid opera con una licencia caducada tanto para los conciertos como para el fútbol",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MN3WF3TKJJECPDRGQ6MJNQRTHE.jpg?auth=0a4099d0784d10967887c4f058051de579e741648f4fb1f08fbfcd9bed205be5&width=1200",
-        "tags": [
-            "vecinos",
-            "estadio santiago bernabéu",
-            "real madrid",
-            "comunidad de madrid",
-            "florentino pérez",
-            "josé luis martínez almeida",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-10/el-real-madrid-opera-con-una-licencia-caducada-tanto-para-los-conciertos-como-para-el-futbol.html",
-        "date": "2024-10-10 16:35:25",
-        "sentiment_score": -0.6257940381765366
-    },
-    {
-        "title": "Incautadas nueve toneladas de hachís a la banda de Carmelo ‘de la Pela’, el narco discreto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XMFHV6S7RNGTZGL7KGAOIN3SUA.jpg?auth=c3f1cb35856f8d23c3144c731cb7afbe1a707b0a104531611e923a32d6f911e9&width=1200",
-        "tags": [
-            "algeciras",
-            "sanlúcar de barrameda",
-            "narcotraficantes",
-            "huelva",
-            "río guadalquivir",
-            "narcotráfico",
-            "ayamonte",
-            "provincia cádiz",
-            "coín",
-            "guardia civil",
-            "españa",
-            "río guadiana",
-            "hachís"
-        ],
-        "link": "https://elpais.com/espana/2024-10-10/incautadas-nueve-toneladas-de-hachis-a-la-banda-de-carmelo-de-la-pela-el-narco-discreto.html",
-        "date": "2024-10-10 15:28:04",
-        "sentiment_score": -0.8088511899113655
-    },
-    {
-        "title": "Bienal de Pensamiento: Zadie Smith pide a los adolescentes que lleven a Elon Musk “a la bancarrota”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6PGU3DCSWJFOFB6LES6Y4XSQZM.jpg?auth=f17decbc294eed55d7c278edfd04ea369cd6fc567c04f593b39ea7a5fb1e97e0&width=1200",
-        "tags": [
-            "cccb",
-            "generación posmilenial",
-            "redes sociales",
-            "cataluña",
-            "cambio climático"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-10/bienal-de-pensamiento-zadie-smith-pide-a-los-adolescentes-que-lleven-a-elon-musk-a-la-bancarrota.html",
-        "date": "2024-10-10 15:20:30",
-        "sentiment_score": -0.4290994852781296
-    },
-    {
-        "title": "Villarejo, condenado a 19 años de cárcel en tres de las piezas abiertas en la Audiencia Nacional",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/25OY5NRTARB77JTBPANRJG2WRY.jpg?auth=9a9df8a5ff8ee61abed53c5aa24c2950e57858cdbca848aecda4f9a0a343f247&width=1200",
-        "tags": [
-            "josé villarejo",
-            "audiencia nacional",
-            "sentencias",
-            "españa",
-            "operación tándem",
-            "caso villarejo",
-            "fiscalía anticorrupción",
-            "sentencias condenatorias"
-        ],
-        "link": "https://elpais.com/espana/2024-10-10/villarejo-condenado-a-19-anos-de-carcel-en-tres-de-las-piezas-abiertas-en-la-audiencia-nacional.html",
-        "date": "2024-10-10 14:19:55",
-        "sentiment_score": -0.8441179897636175
-    },
-    {
-        "title": "Merecido premio para el Gévora",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4bad2de-82ac-4375-bce5-dd43f014d538_16-9-aspect-ratio_default_0_x597y352.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2024/10/10/merecido-premio-gevora-109171466.html",
-        "date": "2024-10-10 17:08:40",
-        "sentiment_score": 0.24687710404396057
-    },
-    {
-        "title": "Karima Al Lal Maateis: \"Algún día traeremos un Primera a Ceuta\"",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1109429",
-        "date": "2024-10-10 16:58:33",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El PP europeo vuelve a aliarse con la ultraderecha para fijar el calendario de audiencias de los nuevos comisarios de la UE",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YBNEIJJSOTMSJR5P7TLXRHV7DQ.jpg?auth=20bf82eb1c5b2ac4994a732769c5c142e58bff590bbe5a5bfd12b18eb1d31c44&width=1200",
-        "tags": [
-            "parlamento europeo",
-            "ursula von der leyen",
-            "unión europea",
-            "extrema derecha",
-            "comisión europea",
-            "ppe - partido popular europeo",
-            "teresa ribera",
-            "europa"
-        ],
-        "link": "https://elpais.com/internacional/2024-10-10/el-pp-europeo-vuelve-a-aliarse-con-la-ultraderecha-para-fijar-el-calendario-de-audiencias-de-los-nuevos-comisarios-de-la-ue.html",
-        "date": "2024-10-10 16:55:59",
-        "sentiment_score": -0.8029663302004337
-    },
-    {
-        "title": "Los requisitos para renovar la licencia de conducir en Bogotá",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PENKDSUCTJH4ZNGWVF45O5DZRI.jpg?auth=5c9aa5f7a0f0a3121931aade6392ea71b2d1b6cc853fa09962dc6e8bb7b91de3&width=1200",
-        "tags": [
-            "permiso conducir",
-            "seguridad vial",
-            "transporte privado",
-            "licencias",
-            "latinoamérica",
-            "bogotá",
-            "trámites administración",
-            "colombia",
-            "américa"
-        ],
-        "link": "https://elpais.com/america-colombia/2024-10-10/los-requisitos-para-renovar-la-licencia-de-conducir-en-bogota.html",
-        "date": "2024-10-10 16:53:46",
-        "sentiment_score": -0.7824220471084118
-    },
-    {
-        "title": "No habrá prórrogas en la Supercopa: la RFEF atiende la petición de los clubes para aliviar la carga de minutos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/05ac6f88-9037-486e-8274-22c77dacb8ad_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/deportes/2024/10/10/habra-prorrogas-supercopa-rfef-atiende-109171046.html",
-        "date": "2024-10-10 16:48:36",
-        "sentiment_score": -0.09613828361034393
-    },
-    {
-        "title": "La Diputación de Barcelona gestionará sus archivos con perspectiva de género",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e59fc92-d696-4174-a2e8-03044934b617_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241010/diputacion-barcelona-gestion-archivos-perspectiva-genero-igualdad-109171059",
-        "date": "2024-10-10 17:08:56",
-        "sentiment_score": 0.47000235691666603
-    },
-    {
-        "title": "La Audiencia de Barcelona urge a la jueza que decida sobre la amnistía en la causa por la organización del 1-O",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/64d78945-30c0-46b0-ab05-593ddfc17dbd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/espana/2024/10/10/audiencia-barcelona-urge-jueza-decida-109171574.html",
-        "date": "2024-10-10 17:08:04",
-        "sentiment_score": -0.2976986914873123
-    },
-    {
         "title": "A más de 160 km de donde tocó tierra Milton, floridenses enfrentaron 3 tornados en media hora",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765145-tornados-2.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -422,96 +124,6 @@ export default [
         "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-gobernar-trinchera-20241011202549-nts.html",
         "date": "2024-10-10 18:40:34",
         "sentiment_score": -0.07431697845458984
-    },
-    {
-        "title": "Los fondos desconfían de un Gobierno frágil e inestable",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/08/1485561419-kB2F--170x119@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-fondos-desconfian-gobierno-fragil-inestable-20241011202024-nt.html",
-        "date": "2024-10-10 18:24:33",
-        "sentiment_score": -0.5534188970923424
-    },
-    {
-        "title": "Rearmar a ETA",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-rearmar-eta-20241011131146-nts.html",
-        "date": "2024-10-10 18:19:05",
-        "sentiment_score": -0.33509965240955353
-    },
-    {
-        "title": "Degenerando, degenerando...",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-degenerando-degenerando-20241011172323-nts.html",
-        "date": "2024-10-10 18:18:51",
-        "sentiment_score": -0.10603243112564087
-    },
-    {
-        "title": "Caso Koldo o caso Sánchez",
-        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/10/08/juzgado-U19089904922891E-U12242850048Cjd-170x119@La%20Verdad.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-koldo-sanchez-20241011200916-nt.html",
-        "date": "2024-10-10 18:17:19",
-        "sentiment_score": -0.1613529622554779
-    },
-    {
-        "title": "¿Seguro que caben 60.000 millones?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/10/pedro-sanchez-Rw5lRtIHpsaqAhhnyXlKmlK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ignacio-marcogardoqui-seguro-caben-60000-millones-20241010195504-nt.html",
-        "date": "2024-10-10 17:55:04",
-        "sentiment_score": -0.056366145610809326
-    },
-    {
-        "title": "Microsoft reconoce la caída de Outlook en Europa",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/10/10/outlook-kVeF-U603182533166ZvF-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/microsoft-reconoce-caida-outlook-europa-20241010194034-nt.html",
-        "date": "2024-10-10 17:40:35",
-        "sentiment_score": -0.29154831171035767
-    },
-    {
-        "title": "El señor Cubí",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/02/loteria-premio-euromillones-k2ZF--170x119@Ideal.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/ignacio-ruizquintano-senor-cubi-20241011193251-nt.html",
-        "date": "2024-10-10 17:32:58",
-        "sentiment_score": -0.12523584067821503
-    },
-    {
-        "title": "Apuestas",
-        "image_url": "https://s3.ppllstatics.com/burgosconecta/www/multimedia/2024/10/03/garbanzos-kFy--170x119@Burgosconecta.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/rosa-belmonte-apuestas-20241011193234-nt.html",
-        "date": "2024-10-10 17:32:41",
-        "sentiment_score": -0.07834041118621826
-    },
-    {
-        "title": "La función de la mentira",
-        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/servicios/2024/10/09/95110657-U06764456413gJb-170x119@abc.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/carlos-granes-funcion-mentira-20241011193217-nt.html",
-        "date": "2024-10-10 17:32:30",
-        "sentiment_score": -0.2541734278202057
     },
     {
         "title": "Barcelona se regala un efímero Faro de Alejandría para iluminar la Copa del América",
@@ -6456,5 +6068,438 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241014/la-mancha-barca-atormenta-laporta-asamblea-compromisarios/893160737_0.html",
         "date": "2024-10-13 23:35:57",
         "sentiment_score": 0.0342584028840065
+    },
+    {
+        "title": "Trump promete contratar más agentes de la Patrulla Fronteriza y aumentar los salarios",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766259-donald-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "trump",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/14/trump-promete-contratar-agentes-patrulla-fronteriza-y-aumentar-los-salarios-trax/",
+        "date": "2024-10-14 05:49:38",
+        "sentiment_score": 0.13493570685386658
+    },
+    {
+        "title": "Funcionarios federales dicen que Trump no estaba en peligro después de que un hombre fuera arrestado con armas ilegales cerca de un mitin de campaña en California",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766231-2024-10-13t012934z-1828871383-rc2djaa94wsn-rtrmadp-3-usa-election-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/13/intento-asesinato-hombre-armas-mitin-trump-california-trax/",
+        "date": "2024-10-14 03:51:06",
+        "sentiment_score": -0.6898539680987597
+    },
+    {
+        "title": "Mientras Harris se postula para la presidencia, su oscilante historial como fiscal genera un nuevo escrutinio",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766204-c-gettyimages-2174047417.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "kamala harris",
+            "elecciones estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/13/harris-presidencia-historial-fiscal-california-escrutinio-trax/",
+        "date": "2024-10-14 03:43:32",
+        "sentiment_score": -0.18415828049182892
+    },
+    {
+        "title": "Tensión en la frontera de Corea: el Norte despliega más artillería en plena escalada retórica",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/1487329995-ksVF-U603195094053pbE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/tension-frontera-corea-norte-despliega-artilleria-plena-20241014073521-nt.html",
+        "date": "2024-10-14 05:35:22",
+        "sentiment_score": -0.3580290228128433
+    },
+    {
+        "title": "Al menos 25 muertos y 120 heridos en bombardeos israelíes contra una escuela y un hospital en Gaza",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/1487091809-kctE-U603195043299fCC-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/muertos-120-heridos-bombardeos-israelies-escuela-hospital-20241014072047-nt.html",
+        "date": "2024-10-14 05:20:48",
+        "sentiment_score": -0.25804270803928375
+    },
+    {
+        "title": "La UE pide una investigación «exhaustiva» sobre los ataques israelíes contra la misión de la ONU en Líbano",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/ONU-kk9G-U603194835300Cw-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/onu-pide-investigacion-exhaustiva-sobre-ataques-israelies-20241014053708-nt.html",
+        "date": "2024-10-14 03:37:53",
+        "sentiment_score": -0.07656562328338623
+    },
+    {
+        "title": "Junts quiere el Presupuesto",
+        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/sucesos/2024/10/10/mulossueltosbonarescabrera-U73462787563DML-170x119@huelva24.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-junts-quiere-presupuesto-20241014173653-nt.html",
+        "date": "2024-10-14 02:16:12",
+        "sentiment_score": -0.09226018190383911
+    },
+    {
+        "title": "Se abre el telón: así lastra la teatralización de la política el debate parlamentario",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GFVV4SEZRBAFZLZU227MDSPRJM.jpg?auth=7aa4d96b43c21f84f321533f00b2013cfab80226c54b76692ebe918fc094974d&width=1200",
+        "tags": [
+            "miguel tellado",
+            "psoe",
+            "pp",
+            "sumar",
+            "eta",
+            "alberto núñez feijóo",
+            "inmigración",
+            "pedro sánchez",
+            "política",
+            "coalición canaria",
+            "lluís orriols",
+            "debates parlamentarios",
+            "congreso diputados",
+            "españa",
+            "cristina monge",
+            "partidos políticos"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/se-abre-el-telon-asi-lastra-la-teatralizacion-de-la-politica-el-debate-parlamentario.html",
+        "date": "2024-10-14 03:40:00",
+        "sentiment_score": -0.7457193583250046
+    },
+    {
+        "title": "El Senado ratificará hoy la reforma legal que beneficia a presos de ETA pese al cambio de voto del PP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VFB46GZLGGHZZSRRVCCTUFAIGE.jpg?auth=7686d8420a757b262e73a4e11524410b382541d8890da5775309319652bdcf71&width=1200",
+        "tags": [
+            "pp",
+            "psoe",
+            "congreso diputados",
+            "eta",
+            "alberto núñez feijóo",
+            "presos eta",
+            "pedro sánchez",
+            "gobierno",
+            "españa",
+            "senado",
+            "miguel ángel blanco"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/el-senado-ratificara-hoy-la-reforma-legal-que-beneficia-a-presos-de-eta-pese-al-cambio-de-voto-del-pp.html",
+        "date": "2024-10-14 03:40:00",
+        "sentiment_score": -0.5588949285447598
+    },
+    {
+        "title": "El Estado deberá inyectar hasta 20.000 millones más a las comunidades cada año para cumplir el pacto de financiación con ERC",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NWWM3ABR74UNJ6VEYZZPFGB4HI.jpg?auth=d570592ef12846d3cc72c9fcf5f958aa0527f47e83c3fdd4e6db72e9f843c00f&width=1200",
+        "tags": [
+            "psc",
+            "generalitat cataluña",
+            "financiación autonómica",
+            "política fiscal",
+            "consejo política fiscal",
+            "salvador illa",
+            "erc",
+            "tributos",
+            "política financiera",
+            "maría jesús montero",
+            "españa",
+            "impuestos"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/el-estado-debera-inyectar-hasta-20000-millones-mas-a-las-comunidades-cada-ano-para-cumplir-el-pacto-de-financiacion-con-erc.html",
+        "date": "2024-10-14 03:40:00",
+        "sentiment_score": 0.09669731557369232
+    },
+    {
+        "title": "El Gobierno quiere alejar un nuevo 15-M de las calles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DEAJ5CVFB5BNJDRX7WKGO4PBLY.jpg?auth=601ddd76d934dcfa7e95a6e2c9198fb81dd0d83ec7ecf7dd56b8cb1395e1cbb3&width=1200",
+        "tags": [
+            "madrid",
+            "manifestaciones",
+            "movimiento 15-m",
+            "política",
+            "vivienda",
+            "gobierno",
+            "españa",
+            "leyes autonómicas",
+            "partidos políticos"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/el-gobierno-quiere-alejar-un-nuevo-15-m-de-las-calles.html",
+        "date": "2024-10-14 03:40:00",
+        "sentiment_score": -0.5642046481370926
+    },
+    {
+        "title": "Los libaneses en España: “No he tenido un día de mi vida en el que no piense en mi país”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IMO6MISA4BBWLJWNKWYKLZC25M.jpg?auth=2cd76dcb9e59f49eb34c0e013402441107df37e6b7bc76d52ab17c6adf6001ff&width=1200",
+        "tags": [
+            "líbano",
+            "conflicto árabe-israelí",
+            "médicos",
+            "inmigración",
+            "palestina",
+            "franja gaza",
+            "oriente próximo",
+            "españa",
+            "israel",
+            "hezbolá"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/los-libaneses-en-espana-no-he-tenido-un-dia-de-mi-vida-en-el-que-no-piense-en-mi-pais.html",
+        "date": "2024-10-14 03:40:00",
+        "sentiment_score": -0.6904493272304535
+    },
+    {
+        "title": "Espeleokayak, senderismo y más planes en la sierra de Espadán, en Castellón",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/C4ARQFIGHFEAXBQGHBF2TIV64E.jpg?auth=2bb90a08f07763b7f9fd7c054362b5d81266f26aa66879b852cb2e0de3e63640&width=1200",
+        "tags": [
+            "viajes de montaña",
+            "turismo nacional",
+            "senderismo",
+            "turismo aventura",
+            "comunidad valenciana",
+            "provincia castellón",
+            "viajes",
+            "kayak",
+            "turismo interior"
+        ],
+        "link": "https://elpais.com/elviajero/escapadas/espana/2024-10-14/espeleokayak-senderismo-y-mas-planes-en-la-sierra-de-espadan-en-castellon.html",
+        "date": "2024-10-14 03:35:00",
+        "sentiment_score": 0.2610895186662674
+    },
+    {
+        "title": "Una empresa pide a la Comunidad de Madrid levantar un complejo en una zona protegida de San Lorenzo de El Escorial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Z27J4BISPFA4HGNXPIEGMMMN74.jpg?auth=69392c645dfc8a2ec960b5d18215648093b5b94c52064589941205145276e588&width=1200",
+        "tags": [
+            "madrid",
+            "felipe ii",
+            "el escorial",
+            "renacimiento",
+            "legislación autonómica",
+            "agroalimentación",
+            "ganadería",
+            "construcción",
+            "agricultura",
+            "urbanismo",
+            "bic",
+            "comunidad de madrid",
+            "universidad",
+            "legislación"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-14/ayuso-estudia-construir-un-complejo-de-investigacion-docencia-y-hoteles-en-un-terreno-protegido-de-el-escorial.html",
+        "date": "2024-10-14 03:30:00",
+        "sentiment_score": 0.13222986459732056
+    },
+    {
+        "title": "Fiscalidad, turismo y ciudad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZWC3NNXUZVEVBBYXJM6BXRXNXQ.jpg?auth=01e38912cf127a4a214c75a444ae7726ae631023f7a6c34f635b83346cd13533&width=1200",
+        "tags": [
+            "hoteles",
+            "barcelona",
+            "impuestos municipales",
+            "ayuntamiento barcelona",
+            "servicios públicos",
+            "turismo masivo",
+            "cataluña",
+            "política municipal",
+            "política",
+            "tasa turística",
+            "turismo",
+            "ordenanzas municipales",
+            "turismo ciudad",
+            "apb"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-14/fiscalidad-turismo-y-ciudad.html",
+        "date": "2024-10-14 03:15:00",
+        "sentiment_score": 0.438349612057209
+    },
+    {
+        "title": "Latinos, evangélicos y judíos con Ayuso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3QORKH2DV2BHRMDCV5ZTUWSANM.jpg?auth=9c1f93b05568f186fbd3ea93cd46d2dc3b86e8220d8f28b44119e2c98f734af8&width=1200",
+        "tags": [
+            "madrid",
+            "judíos",
+            "latinoamérica",
+            "isabel díaz ayuso",
+            "religión",
+            "comunidad de madrid",
+            "josé luis martínez almeida"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-14/latinos-evangelicos-y-judios-con-ayuso.html",
+        "date": "2024-10-14 03:00:00",
+        "sentiment_score": 0.40115317702293396
+    },
+    {
+        "title": "El “inviable” soterramiento de Valladolid se hunde entre “faltas de rigor” del Ayuntamiento y la negativa de Transportes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/S3CMMB33YRFSVMZWCN5XTERNLI.jpg?auth=08f97b00c893e9a8e7b1817fc93d71833aae05d68c8de95983a0180acef2ee2a&width=1200",
+        "tags": [
+            "trenes",
+            "valladolid",
+            "túneles ferrocarril",
+            "ministerio de transportes",
+            "transporte",
+            "transporte ferroviario",
+            "carreteras",
+            "españa",
+            "soterramiento vías",
+            "carreteras nacionales",
+            "carreteras provinciales",
+            "junta castilla y león"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/el-inviable-soterramiento-de-valladolid-se-hunde-entre-faltas-de-rigor-del-ayuntamiento-y-la-negativa-de-transportes.html",
+        "date": "2024-10-14 03:00:00",
+        "sentiment_score": -0.7365298345685005
+    },
+    {
+        "title": "Georgina Rodríguez se atreve con la tortilla de patata: «Para cortar la cebolla me pongo gafas de Channel»",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/10/14/combo-georgina-tortilla-kO6E-U2201498803280U-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/georgina-rodriguez-atreve-tortilla-patata-cortar-cebolla-20241014075213-nt.html",
+        "date": "2024-10-14 06:09:13",
+        "sentiment_score": 0.013841122388839722
+    },
+    {
+        "title": "La memorable victoria del Bilbao Basket: Y Kullamae sacó el látigo",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/10/13/kullamae-karE-U2201496274728F3H-758x531@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/kullamae-saco-latigo-20241013194054-nt.html",
+        "date": "2024-10-14 06:04:52",
+        "sentiment_score": 0.5836905166506767
+    },
+    {
+        "title": "El Barça teme por el desgaste de Lamine Yamal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/928e93cc-3c27-4b2c-bf82-7ef3dc1ee3e2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/10/14/barca-teme-desgaste-lamine-yamal-109283283.html",
+        "date": "2024-10-14 05:48:44",
+        "sentiment_score": -0.6589740216732025
+    },
+    {
+        "title": "La variabilidad en cuándo y cómo se dividen las células promueve un desarrollo saludable en los embriones",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241014073950_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-variabilidad-cuando-dividen-celulas-promueve-desarrollo-saludable-embriones-20241014073950.html",
+        "date": "2024-10-14 05:39:50",
+        "sentiment_score": 0.16385683417320251
+    },
+    {
+        "title": "El PP busca \"el cuerpo a cuerpo\" con el PSOE y se lanza al desgaste de Sánchez por la \"corrupción\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f98dae46-c7dd-45a4-8ef5-3df56829f7cf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/espana/2024/10/14/feijoo-pp-psoe-desgaste-sanchez-corrupcion-109283072.html",
+        "date": "2024-10-14 05:31:50",
+        "sentiment_score": -0.4930211454629898
+    },
+    {
+        "title": "Cortada la circulación de las líneas R13 y R14 de Rodalies por un nuevo robo de cable",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/02/08/65c557b2b2e32.jpeg",
+        "tags": [
+            "lleida"
+        ],
+        "link": "https://www.lavanguardia.com/local/lleida/20241014/10018799/cortada-circulacion-lineas-r13-r14-rodalies-robo-cable.html",
+        "date": "2024-10-14 06:30:43",
+        "sentiment_score": 0.2340279147028923
+    },
+    {
+        "title": "Locura con la nueva tienda low cost de El Corte Inglés: sabemos dónde va a estar",
+        "image_url": "https://okdiario.com/img/2024/10/12/locura-con-la-nueva-tienda-low-cost-de-el-corte-ingles-sabemos-donde-va-a-estar.jpg",
+        "tags": [
+            "low cost",
+            "tiendas",
+            "el corte inglés",
+            "moda",
+            "consumo",
+            "economía"
+        ],
+        "link": "https://okdiario.com/economia/locura-nueva-tienda-low-cost-corte-ingles-sabemos-donde-va-estar-13626726",
+        "date": "2024-10-14 06:30:34",
+        "sentiment_score": 0.8030588310211897
+    },
+    {
+        "title": "Nuevos equipamientos en el litoral para fortalecer la economía azul",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/14/670cb9752fec6.jpeg",
+        "tags": [
+            "barcelona+"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20241014/10018807/nuevos-equipamientos-litoral-fortalecer-economia-azul.html",
+        "date": "2024-10-14 06:29:33",
+        "sentiment_score": 0.8298108195886016
+    },
+    {
+        "title": "Cortada la circulación de trenes de la R13 y la R14 entre Lleida y Puigverd de Lleida por robo de cable",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/76715cad-6be9-4ef6-a476-4b8a1ddb184a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20241014/cortada-circulacion-trenes-r13-r14-lleida-puigverd-lleida-robo-cable-109283574",
+        "date": "2024-10-14 06:18:02",
+        "sentiment_score": -0.7211025319993496
+    },
+    {
+        "title": "Las quejas de Puigdemont y cinco años de la sentencia",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/08/politica/876672452_13317250_1706x960.jpg?contentId=ESPIMA20240808_0128",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241014/las-quejas-de-puigdemont-cinco-anos-sentencia/893410656_0.html",
+        "date": "2024-10-14 06:16:15",
+        "sentiment_score": -0.7523778341710567
+    },
+    {
+        "title": "Un comercio emblemático con más de 100 años de historia cierra sus puertas para siempre en Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/14/el-pulso-de-la-ciudad/893420650_13580743_1706x960.jpg?contentId=ESPIMA20241014_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20241014/un-comercio-emblematico-con-mas-de-anos-historia-cierra-sus-puertas-para-siempre-en-barcelona/893410655_0.html",
+        "date": "2024-10-14 06:15:58",
+        "sentiment_score": 0.17459052801132202
+    },
+    {
+        "title": "Maíllo (IU) defiende la unidad de la izquierda e insta a las formaciones a definirse al respecto",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241014081504_120.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-maillo-iu-defiende-unidad-izquierda-insta-formaciones-definirse-respecto-20241014081504.html",
+        "date": "2024-10-14 06:15:04",
+        "sentiment_score": 0.29552318155765533
+    },
+    {
+        "title": "Un robatori de coure obliga a tallar dues línies del servei de Rodalies",
+        "image_url": "https://elmon.cat/app/uploads/sites/15/2023/11/europapress_4670644_viajeros_esperan_llegada_tren_andenes_estacion_sants_septiembre_2022.jpg",
+        "tags": [
+            "transports i infraestructures"
+        ],
+        "link": "https://elmon.cat/societat/transports/robatori-coure-rodalies-913222/",
+        "date": "2024-10-14 06:14:53",
+        "sentiment_score": -0.8571978798136115
+    },
+    {
+        "title": "Los cócteles de la abuela de Bar Pimentel (y otras noticias gastro)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2d6f7565-f688-4b98-8add-ace7d738c469_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241014/cocteles-abuela-bar-pimentel-noticias-gastro-109013878",
+        "date": "2024-10-14 06:12:58",
+        "sentiment_score": 0.7183026298880577
+    },
+    {
+        "title": "La ULE tiene repartidos por Europa a 450 alumnos con Económicas a la cabeza",
+        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2024/10/11/WhatsApp%20Image%202024-10-11%20at%2011.26.22-k8EH-U2201482704277iP-1200x840@Leonoticias.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/universidad/ule-repartidos-europa-450-alumnos-economicas-cabeza-20241014080708-nt.html",
+        "date": "2024-10-14 06:07:08",
+        "sentiment_score": -0.6270329393446445
     }
 ];
