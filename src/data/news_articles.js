@@ -144,76 +144,6 @@ export default [
         "sentiment_score": -0.047781944274902344
     },
     {
-        "title": "Muere Ratan Tata, el visionario que convirtió el grupo Tata en un conglomerado mundial",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/10/1487181015-RdPVHwA1dsHhwNRaKLptk6N-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/muere-ratan-tata-visionario-convirtio-grupo-tata-20241010154117-nt.html",
-        "date": "2024-10-10 13:41:50",
-        "sentiment_score": -0.10808491706848145
-    },
-    {
-        "title": "Acusan a la Policía fronteriza de Croacia de quemar móviles y pasaportes de inmigrantes en la frontera con Bosnia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/10/pertenencias-croacia-khUD-U603179268407sPE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/acusan-policia-fronteriza-croacia-quemar-moviles-pasaportes-20241010152122-nt.html",
-        "date": "2024-10-10 13:28:47",
-        "sentiment_score": -0.24218763411045074
-    },
-    {
-        "title": "Yolanda Díaz presume de política laboral ante el nuevo Gobierno laborista del Reino Unido",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/10/GZh2GO_XMAMd9r3-R7PjrSlQs0ux8niBnHE0I0I-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/yolanda-diaz-presume-politica-laboral-ante-nuevo-20241010151000-nt.html",
-        "date": "2024-10-10 13:10:56",
-        "sentiment_score": 0.013016998767852783
-    },
-    {
-        "title": "Zelenski se reúne con Starmer y el secretario general de la OTAN en Downing Street",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/10/starmer-RbuGvnL9mQcUXGgnEAL6OcP-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/zelenski-reune-starmer-secretario-general-otan-downing-20241010150225-nt.html",
-        "date": "2024-10-10 13:03:33",
-        "sentiment_score": 0.026815444231033325
-    },
-    {
-        "title": "Competencia multa con 579.374 euros a 'El Hormiguero' por publicitar alcohol de forma encubierta",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/10/1427710338-RVSnFfDX7C5AtfgANyuVyfN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/competencia-multa-579374-euros-hormiguero-publicitar-alcohol-20241010141224-nt.html",
-        "date": "2024-10-10 12:26:30",
-        "sentiment_score": -0.14321283996105194
-    },
-    {
-        "title": "Una terapia genética logra beneficios en una enfermedad pediátrica rara",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/10/10/6261112692_48394736b1_o.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/terapia-genetica-logra-beneficios-enfermedad-pediatrica-rara-20241010131843-nt.html",
-        "date": "2024-10-10 11:19:16",
-        "sentiment_score": -0.1814490258693695
-    },
-    {
-        "title": "Este es el ranking de las 30 marcas españolas más importantes",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/09/11/zara_20240911100948-RFXIqZKyc20U1MBXc6G00aI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ranking-marcas-espanolas-importantes-20241010125854-nt.html",
-        "date": "2024-10-10 11:06:53",
-        "sentiment_score": -0.008413493633270264
-    },
-    {
         "title": "El Real Madrid opera con una licencia caducada tanto para los conciertos como para el fútbol",
         "image_url": "https://imagenes.elpais.com/resizer/v2/MN3WF3TKJJECPDRGQ6MJNQRTHE.jpg?auth=0a4099d0784d10967887c4f058051de579e741648f4fb1f08fbfcd9bed205be5&width=1200",
         "tags": [
@@ -281,110 +211,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-10/villarejo-condenado-a-19-anos-de-carcel-en-tres-de-las-piezas-abiertas-en-la-audiencia-nacional.html",
         "date": "2024-10-10 14:19:55",
         "sentiment_score": -0.8441179897636175
-    },
-    {
-        "title": "Azcón se muestra abierto a “reuniones bilaterales” para solucionar los “problemas de los aragoneses”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AS6OTIGGSDEVG3Q2TWXX4DEHHM.jpg?auth=b3d57cb2dc9fe4845f33b236eeae6a5be9adc17b2c77a1705caac85277f3bdc9&width=1200",
-        "tags": [
-            "pp",
-            "aragón",
-            "alberto núñez feijóo",
-            "financiación",
-            "teruel",
-            "comunidades autónomas",
-            "pedro sánchez",
-            "eta",
-            "lofca",
-            "españa",
-            "jorge azcón"
-        ],
-        "link": "https://elpais.com/espana/2024-10-10/azcon-se-muestra-abierto-a-reuniones-bilaterales-para-solucionar-los-problemas-de-los-aragoneses.html",
-        "date": "2024-10-10 14:10:01",
-        "sentiment_score": 0.3441062420606613
-    },
-    {
-        "title": "El exlíder de ERC Joan Puigcercós pide a Junqueras que permita un “relevo tranquilo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6VUY3RL775EDRLCKQALLRPTD64.jpg?auth=881bbeb77ff6e887977e8e14412509fdc08d006c0c6ae8682a5d754f466b8879&width=1200",
-        "tags": [
-            "oriol junqueras",
-            "cataluña",
-            "congresos políticos",
-            "joan puigcercos",
-            "marta rovira i vergés",
-            "partidos políticos",
-            "erc"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-10/el-exlider-de-erc-joan-puigcercos-pide-a-junqueras-que-permita-un-relevo-tranquilo.html",
-        "date": "2024-10-10 13:52:49",
-        "sentiment_score": -0.8627469949424267
-    },
-    {
-        "title": "Ábalos tenía previsto reunirse en su despacho con Delcy Rodríguez durante su viaje frustrado a España, según la UCO",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6JHJURSW7RHVXJTQBGRKF6X5AM.jpg?auth=1623386a7115da5c6689ba6ec2fcd644bad121b6ed093c43f5f210438d9fb524&width=1200",
-        "tags": [
-            "sobornos",
-            "corrupción",
-            "josé luis ábalos",
-            "ministerio de transportes",
-            "corrupción política",
-            "españa",
-            "caso koldo",
-            "audiencia nacional"
-        ],
-        "link": "https://elpais.com/espana/2024-10-10/abalos-tenia-previsto-reunirse-en-su-despacho-con-delcy-rodriguez-durante-su-viaje-frustrado-a-espana-segun-la-uco.html",
-        "date": "2024-10-10 13:47:28",
-        "sentiment_score": -0.7405645828694105
-    },
-    {
-        "title": "Salvador Illa asistirá el sábado a Madrid a los actos del 12 de octubre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SQOOUCRKVJEAZNSUEPPGVV2KG4.jpg?auth=5a7adf365792b9dfff61c1e3cbbf167cd138826434849a71032fb4dd08db800b&width=1200",
-        "tags": [
-            "generalitat cataluña",
-            "cataluña",
-            "día fiesta nacional",
-            "madrid",
-            "barcelona",
-            "psc",
-            "salvador illa"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-10/salvador-illa-asistira-el-sabado-a-madrid-a-los-actos-del-12-de-octubre.html",
-        "date": "2024-10-10 13:43:05",
-        "sentiment_score": 0.2809971384704113
-    },
-    {
-        "title": "Singapur devuelve los pasaportes a la pareja de valencianistas retenidos por una protesta contra Peter Lim",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z7HAUOUC35E5ZFKVKEAG5NLBEY.jfif?auth=c64a8c94876917f152d55783a9e0bb497d2df1d3670d11241d71919398bf8a58&width=1200",
-        "tags": [
-            "peter lim",
-            "singapur",
-            "comunidad valenciana",
-            "pasaportes",
-            "ministerio de asuntos exteriores",
-            "gobierno de españa",
-            "valencia cf",
-            "deportes"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-10/singapur-devuelve-los-pasaportes-a-la-pareja-de-valencianistas-retenidos-por-una-protesta-contra-peter-lim.html",
-        "date": "2024-10-10 13:27:34",
-        "sentiment_score": 0.22462501749396324
-    },
-    {
-        "title": "Las juventudes de Compromís denuncian en Fiscalía insultos en la procesión del 9 d’Octubre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/U6RB7HGPWVFGBAK5QK4FHJKTJQ.jpg?auth=cb66aabf2432b98c3a5e3be82b989c8bf24d055d41b5c957be6616b28679d1e5&width=1200",
-        "tags": [
-            "compromis-q",
-            "manifestaciones",
-            "comunidad valenciana",
-            "valencia",
-            "día comunidad valenciana",
-            "denuncias",
-            "agresiones físicas",
-            "fiscalía",
-            "delitos odio"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-10/las-juventudes-de-compromis-denuncian-en-fiscalia-insultos-en-la-procesion-del-9-doctubre.html",
-        "date": "2024-10-10 12:58:53",
-        "sentiment_score": -0.8046369682997465
     },
     {
         "title": "Merecido premio para el Gévora",
@@ -6272,5 +6098,363 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20241014/antoni-llorens/893160730_0.html",
         "date": "2024-10-13 22:00:00",
         "sentiment_score": -0.14419743418693542
+    },
+    {
+        "title": "Acusan a sospechosos de homicidio de suplantar a servidores públicos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/wxyz-fake-workers-kill-man-101224-resized-20241014014400902.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "crimen",
+            "homicidio",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trabajadores-servicios-publicos-michigan-pazmino-trax/",
+        "date": "2024-10-14 01:47:12",
+        "sentiment_score": -0.8181046424433589
+    },
+    {
+        "title": "Tania Libertad en CNN: la historia de una canción que supo conmoverla",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21038593-151081-331-still-20241013235450750.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tania-libertad-mexico-cancion-mirador-mundial-tv/",
+        "date": "2024-10-13 23:57:52",
+        "sentiment_score": 0.46510907262563705
+    },
+    {
+        "title": "Tania Libertad en CNN: la historia de una canción que supo conmoverla",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21038593-151081-331-still-20241013235450750.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tania-libertad-mexico-cancion-mirador-mundial-tv",
+        "date": "2024-10-13 23:57:52",
+        "sentiment_score": 0.421367883682251
+    },
+    {
+        "title": "Trump y Harris no se sacan ventajas: ¿cómo seguirá el ajustado panorama a tres semanas de las elecciones?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170583836-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-trump-harris-ventaja-mirador-mundial-tv",
+        "date": "2024-10-13 23:52:51",
+        "sentiment_score": -0.7709450516849756
+    },
+    {
+        "title": "Trump y Harris no se sacan ventajas: ¿cómo seguirá el ajustado panorama a tres semanas de las elecciones?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170583836-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "kamala harris",
+            "noticias de donald trump",
+            "elecciones en estados unidos",
+            "elecciones en ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-trump-harris-ventaja-mirador-mundial-tv/",
+        "date": "2024-10-13 23:52:51",
+        "sentiment_score": -0.36082368344068527
+    },
+    {
+        "title": "Trump propone usar al ejército para luchar contra el “enemigo interno” el día de las elecciones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766164-gettyimages-2178028914.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "trump",
+            "donald trump",
+            "elecciones ee.uu"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/13/trump-ejercito-luchar-enemigo-elecciones-trax/",
+        "date": "2024-10-13 23:33:54",
+        "sentiment_score": -0.3175055831670761
+    },
+    {
+        "title": "Un sketch de SNL muestra el enfrentamiento entre Harris y Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-snl-20241013231132855.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/snl-family-feud-kamala-harris-donald-trump-showbiz-ush-trax",
+        "date": "2024-10-13 23:26:39",
+        "sentiment_score": -0.5519833266735077
+    },
+    {
+        "title": "De norte a sur, Israel ataca al Líbano dejando a cientos de heridos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177175640-20241013224448411.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataque-israel-libano-muertos-mirador-mundial-tv/",
+        "date": "2024-10-13 22:45:48",
+        "sentiment_score": -0.7965589826926589
+    },
+    {
+        "title": "Joe Biden agradeció a socorristas que actuaron durante los huracanes Milton y Helene",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2178233419.jpg?quality=100&strip=info",
+        "tags": [
+            "joe biden",
+            "huracanes estados unidos",
+            "huracanes"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/joe-biden-agradece-socorristas-huracanes-milton-helen-ush-mirador-mundial-tv/",
+        "date": "2024-10-13 22:42:27",
+        "sentiment_score": 0.384160578250885
+    },
+    {
+        "title": "Las tres noticias destacadas de la tarde en del 13 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-13-de-octubre-2024-mirador-tarde-tv-fast",
+        "date": "2024-10-13 22:21:10",
+        "sentiment_score": 0.14191509038209915
+    },
+    {
+        "title": "La nueva presidenta de México, Claudia Sheinbaum, ya inquieta a Washington",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/claudia-RwFUx47M6MULTqYhMSZtIRN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/nueva-presidenta-mexico-claudia-sheinbaum-inquieta-washington-20241013194551-nt.html",
+        "date": "2024-10-14 02:03:48",
+        "sentiment_score": -0.1541164368391037
+    },
+    {
+        "title": "Viaje a Transcarpatia, la Ucrania más pobre que Rusia ni siquiera ataca para no gastar misiles",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/transcarpatia1-R5IGBEAqzgRYNMpuJuC0ELK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/viaje-transcarpatia-ucrania-pobre-rusia-siquiera-ataca-20241013185046-nt.html",
+        "date": "2024-10-14 02:03:36",
+        "sentiment_score": -0.1801401525735855
+    },
+    {
+        "title": "Un 'Vaticano' musulmán se instala en Albania",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/mosque-tirana-RRgUWpU5enVuwEGjDooShkM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/vaticano-musulman-instala-albania-20241013175004-nt.html",
+        "date": "2024-10-14 02:03:25",
+        "sentiment_score": -0.048024922609329224
+    },
+    {
+        "title": "Yascha Mounk: «El malestar económico europeo debería tomarse más en serio»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/14/ImagenYASCHA_MOUNK_1-RCU5UVGq2XWergAoez0UvKP-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/yascha-mounk-malestar-economico-europeo-deberia-tomarse-20241014183852-nt.html",
+        "date": "2024-10-14 02:03:03",
+        "sentiment_score": -0.18895362317562103
+    },
+    {
+        "title": "El Gobierno, forzado a aprobar por decreto la última reforma sobre jubilación",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/13/Imagen(195345724)-R91Mfd9SZM4N896EErON4sN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-forzado-aprobar-decreto-ultima-reforma-sobre-20241013040145-nt.html",
+        "date": "2024-10-14 02:01:45",
+        "sentiment_score": -0.0026916563510894775
+    },
+    {
+        "title": "El desbocado gasto en pensiones y bajas abre la puerta a ajustes en 2025",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/14/saiz-escriva-Rwe5Fs5ebrQrNA8QcTgTqAN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/desbocado-gasto-pensiones-bajas-abre-puerta-ajustes-20241014040121-nt.html",
+        "date": "2024-10-14 02:01:22",
+        "sentiment_score": -0.07742932438850403
+    },
+    {
+        "title": "Dos pacientes del 12 de Octubre, libres de cáncer de piel gracias a una terapia pionera en España",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/10/14/FOTOPACIENTE-RSyAGz9TAMzZdVs9skGYexN-1200x840@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/dos-pacientes-octubre-libres-cancer-piel-gracias-20241014173648-nt.html",
+        "date": "2024-10-13 22:59:44",
+        "sentiment_score": -0.0739998072385788
+    },
+    {
+        "title": "Raúl Núñez, el escritor que llevó a Sinatra a la posada del fracaso",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/10/13/3D90EC3E-8E7D-4ACF-8656-ECE2FBE31F8B/escena-sinatra-alfredo-landa_96.jpg?crop=1570%2C883%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/raul-nunez-escritor-que-llevo-sinatra-posada-fracaso_20241014670c7b31596dfb0001c3b6b2.html",
+        "date": "2024-10-14 02:00:17",
+        "sentiment_score": -0.6098893210291862
+    },
+    {
+        "title": "Yo me subo al 47",
+        "image_url": "https://uh.gsstatic.es/autor/lourdes-duran/11315.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/14/2258485/subo-47.html",
+        "date": "2024-10-14 02:00:01",
+        "sentiment_score": -0.07594171166419983
+    },
+    {
+        "title": "Aldama habló en nombre del Gobierno para dar a Delcy el motivo de aterrizar en Barajas",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/11/6708afc582bae.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/241014/1645364/aldama-hablo-nombre-gobierno-dar-delcy-motivo-aterrizar-barajas.html",
+        "date": "2024-10-14 01:30:00",
+        "sentiment_score": 0.07135957479476929
+    },
+    {
+        "title": "Fútbol y violencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/opinion/2024/10/14/futbol-violencia-109258899.html",
+        "date": "2024-10-14 01:03:00",
+        "sentiment_score": -0.9418679540976882
+    },
+    {
+        "title": "Sus preferencias políticas pueden estar distorsionando su visión de la realidad económica",
+        "image_url": "https://images.theconversation.com/files/624588/original/file-20241009-17-3q3hcp.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&rect=0%2C357%2C4498%2C2812&w=496",
+        "tags": [
+            "top"
+        ],
+        "link": "https://theconversation.com/sus-preferencias-politicas-pueden-estar-distorsionando-su-vision-de-la-realidad-economica-239228",
+        "date": "2024-10-14 01:02:30",
+        "sentiment_score": 0.3242947533726692
+    },
+    {
+        "title": "Rudy Fernández, Antonio Huertas, los marchadores de oro y el Proyecto ProFuturo, Leones de El Español",
+        "image_url": "https://s1.elespanol.com/2024/10/13/espana/893170790_249972280_1706x960.png?contentId=ESPIMA20241013_0116",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241014/rudy-fernandez-antonio-huertas-marchadores-oro-proyecto-profuturo-leones-espanol/892660799_0.html",
+        "date": "2024-10-14 00:54:44",
+        "sentiment_score": 0.17044840566813946
+    },
+    {
+        "title": "Miguel Lago: “Fui un niño no deseado ni querido y no tengo relación con mis padres. Esa herida es para siempre”",
+        "image_url": "https://s1.elespanol.com/2024/10/11/reportajes/entrevistas/892670931_249923328_1706x960.jpg?contentId=ESPIMA20241011_0207",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241014/miguel-lago-nino-no-deseado-querido-relacion-padres-herida-siempre/892660864_0.html",
+        "date": "2024-10-14 00:54:08",
+        "sentiment_score": -0.8321494087576866
+    },
+    {
+        "title": "Un Flashmob con 300 participantes en el Palacio Real para conmemorar el Día Mundial de la parada cardíaca",
+        "image_url": "https://autonomico.elconfidencialdigital.com/media/elconfidencialautonomico/images/2024/10/14/2024101402440056905.png",
+        "tags": [
+            "muy confidencial"
+        ],
+        "link": "https://autonomico.elconfidencialdigital.com/articulo/muy_confidencial/flashmob-300-participantes-palacio-real-madrid-conmemorar-dia-mundial-parada-cardiaca/20241014024648139334.html",
+        "date": "2024-10-14 00:46:48",
+        "sentiment_score": 0.30284731835126877
+    },
+    {
+        "title": "Por qué Cristóbal Colón es \"español\" desde hace más de un siglo: las razones de su 'conversión'",
+        "image_url": "https://s1.elespanol.com/2018/10/11/cultura/historia/leyendas-descubrimiento_de_america-espana_344727256_101007145_1706x960.jpg?contentId=ESPIMA20181011_1732",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20241014/cristobal-colon-espanol-hace-siglo-razones-conversion/893160761_0.html",
+        "date": "2024-10-14 00:31:52",
+        "sentiment_score": -0.07373283058404922
+    },
+    {
+        "title": "Zara se lanza al 'running' con la carrera de perfil descendente más rápida de Madrid",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/cb962c2d4f9432ef1ed98894a4fecdaf/crop/0x85/1083x807/f/webp/assets/multimedia/imagenes/2024/10/12/17287241972622.jpg",
+        "tags": [
+            "artículos cristina galafate",
+            "bienestar",
+            "estilo de vida",
+            "fitness",
+            "deportes",
+            "novedades fitness"
+        ],
+        "link": "https://www.elmundo.es/vida-sana/cuerpo/2024/10/14/6708d7ae21efa0c10d8b45b1.html",
+        "date": "2024-10-13 22:41:20",
+        "sentiment_score": 0.3063886910676956
+    },
+    {
+        "title": "¿Cómo hacer una película hoy como si estuviéramos en el siglo XIX?",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3035787.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/14/2257773/cine-anthony-neitzke-encarga-direccion-fotografica-home-abissal-marina-wagner.html",
+        "date": "2024-10-14 02:00:01",
+        "sentiment_score": -0.024972647428512573
+    },
+    {
+        "title": "Lamine Yamal sufrió una sobrecarga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/190444/lamine-yamal-sufrio-una-sobrecarga/",
+        "date": "2024-10-14 01:46:35",
+        "sentiment_score": -0.8623762261122465
+    },
+    {
+        "title": "75 años de tu mano",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/241014/1645377/75-anos-mano.html",
+        "date": "2024-10-14 01:30:00",
+        "sentiment_score": 0.5462799891829491
+    },
+    {
+        "title": "Pilar Rahola: \"Estoy hasta las narices de esa idea de que el PSOE es mejor para Cataluña que el PP. Nos han jodido igual\"",
+        "image_url": "https://s1.elespanol.com/2024/10/13/actualidad/893170915_249976363_1706x960.png?contentId=ESPIMA20241013_0241",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241014/pilar-rahola-narices-idea-psoe-mejor-cataluna-pp-hanjodidoigual/892910808_0.html",
+        "date": "2024-10-14 00:51:48",
+        "sentiment_score": -0.5669425427913666
+    },
+    {
+        "title": "Los partidos que apoyan al Gobierno, abucheados en la manifestación contra los altos precios de la vivienda",
+        "image_url": "https://s1.elespanol.com/2024/10/13/reportajes/893171022_249979842_1706x960.jpg?contentId=ESPIMA20241013_0348",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241014/partidos-apoyan-gobierno-abucheados-manifestacion-altos-preciosdelavivienda/893160861_0.html",
+        "date": "2024-10-14 00:51:34",
+        "sentiment_score": -0.8688657730817795
+    },
+    {
+        "title": "La brecha entre los ingresos de las familias y el precio de la vivienda alcanza niveles récord",
+        "image_url": "https://gaceta.es/wp-content/uploads/2024/10/EuropaPress_6117544_presidente_gobierno_pedro_sanchez_preside_acto_suscripcion_convenios-2.jpg",
+        "tags": [
+            "pedro sánchez",
+            "vivienda",
+            "empleo",
+            "economía"
+        ],
+        "link": "https://gaceta.es/economia/la-brecha-entre-los-ingresos-de-las-familias-y-el-precio-de-la-vivienda-alcanza-niveles-record-20241014-0218/",
+        "date": "2024-10-14 00:18:26",
+        "sentiment_score": -0.12414746731519699
+    },
+    {
+        "title": "La mancha negra del Barça que atormenta a Laporta para la asamblea de compromisarios",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/21/culemania/palco/872172811_13255005_1706x960.png?contentId=ESPIMA20240721_0037",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241014/la-mancha-barca-atormenta-laporta-asamblea-compromisarios/893160737_0.html",
+        "date": "2024-10-13 23:35:57",
+        "sentiment_score": 0.0342584028840065
     }
 ];
