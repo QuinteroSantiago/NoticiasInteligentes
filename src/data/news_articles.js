@@ -1,380 +1,5 @@
 export default [
     {
-        "title": "La ONU dice que no entró comida en el norte de Gaza desde principios de octubre, poniendo a un millón de personas en riesgo de hambruna",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765519-hambruna-gaza.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medio oriente",
-            "gaza"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/11/onu-no-comida-gaza-octubre-un-millon-riesgo-hambruna-trax/",
-        "date": "2024-10-11 17:02:28",
-        "sentiment_score": -0.7932697152718902
-    },
-    {
-        "title": "Al menos dos agentes heridos tras jornada de violencia en Villahermosa, Tabasco, en el sureste de México",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/11/dos-agentes-heridos-violencia-villahermosa-tabasco-mexico-orix/",
-        "date": "2024-10-11 16:08:00",
-        "sentiment_score": -0.6552970595657825
-    },
-    {
-        "title": "Video muestra a un hombre aferrado a una hielera siendo salvado por la Guardia Costera tras el paso de Milton",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21032045-8968-still.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hombre-rescate-hielera-guardia-costera-huracan-milton-ush-trax",
-        "date": "2024-10-11 16:05:20",
-        "sentiment_score": -0.37183091789484024
-    },
-    {
-        "title": "Video muestra a un hombre aferrado a una hielera siendo salvado por la Guardia Costera tras el paso de Milton",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21032045-8968-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hombre-rescate-hielera-guardia-costera-huracan-milton-ush-trax/",
-        "date": "2024-10-11 16:05:20",
-        "sentiment_score": -0.5933330859988928
-    },
-    {
-        "title": "“Esperamos que sea el último de este año”, dice residente de Tampa tras el huracán Milton",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21031983-107364-277-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/residentes-tampa-danos-desastre-huracan-milton-ush-tv/",
-        "date": "2024-10-11 15:16:18",
-        "sentiment_score": -0.893629128113389
-    },
-    {
-        "title": "El Kremlin confirma que Trump envió a Rusia tests de covid-19, después de que el expresidente negara la afirmación de Bob Woodward",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765476-trump-putin.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de donald trump",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/11/kremlin-confirma-trump-envio-a-rusia-pruebas-de-covid-19-trax/",
-        "date": "2024-10-11 15:15:32",
-        "sentiment_score": -0.1875229924917221
-    },
-    {
-        "title": "Al menos 3.100 niños y niñas menores de cinco años murieron en Gaza de octubre a agosto, según Save the Children",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/nios-gaza-ep-kWZ-U603187637850I6E-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/3100-ninos-ninas-menores-cinco-anos-murieron-20241011190135-nt.html",
-        "date": "2024-10-11 17:01:35",
-        "sentiment_score": -0.3143221586942673
-    },
-    {
-        "title": "Urtasun y el asquito",
-        "image_url": "https://s1.ppllstatics.com/larioja/www/multimedia/2024/10/02/aves--170x119.PNG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jose-f-pelaez-urtasun-asquito-20241012185443-nt.html",
-        "date": "2024-10-11 16:54:52",
-        "sentiment_score": -0.13525590300559998
-    },
-    {
-        "title": "El primer ministro francés propone un ajuste de 60.000 millones entre recortes de gasto y más impuestos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/11/michel-barnier-RL9M299tNqpZDC7M3JXeEWN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/primer-ministro-frances-propone-ajuste-60000-millones-20241011183544-nt.html",
-        "date": "2024-10-11 16:37:33",
-        "sentiment_score": -0.1003318727016449
-    },
-    {
-        "title": "Muere en extrañas circunstancias una periodista ucraniana encarcelada en Rusia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/VictoriaRoshina2-RPOMoylLaspOTQofInY8OcN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/muere-extranas-circunstancias-periodista-ucraniana-encarcelada-rusia-20241011183000-nt.html",
-        "date": "2024-10-11 16:31:40",
-        "sentiment_score": -0.15832823514938354
-    },
-    {
-        "title": "Una estudiante encuentra un escorpión vivo en un paquete de Shein",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/Escorpion-k5g-U60318710862244D-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/estudiante-encuentra-escorpion-vivo-paquete-shein-20241011180123-nt.html",
-        "date": "2024-10-11 16:01:23",
-        "sentiment_score": -0.1151135265827179
-    },
-    {
-        "title": "Scholz anuncia 1.400 millones de ayuda militar a Ucrania en nombre de los socios europeos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/zelesnky-scholz-RAWotHdOOyHk83rEzSd53lL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/scholz-anuncia-1400-millones-ayuda-militar-ucrania-20241011172415-nt.html",
-        "date": "2024-10-11 15:24:15",
-        "sentiment_score": -0.02738553285598755
-    },
-    {
-        "title": "Guerra entre Israel, Irán y Líbano, en directo hoy: bombardeos, muertos y última hora del conflicto en Oriente Próximo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/04/muerti-khwH-U603182727498JYF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/guerra-israel-iran-libano-directo-hoy-conflicto-oriente-proximo-20241011134138-di.html",
-        "date": "2024-10-11 15:23:19",
-        "sentiment_score": -0.5109829362481833
-    },
-    {
-        "title": "Abren los dos centros de Albania para alojar a inmigrantes enviados por Italia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/1487251098-k3KF-U603187374263COC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/abren-dos-centros-albania-alojar-inmigrantes-enviados-20241011171348-nt.html",
-        "date": "2024-10-11 15:14:15",
-        "sentiment_score": -0.2444627583026886
-    },
-    {
-        "title": "Chile afronta unas elecciones municipales en medio de un ambiente convulso por los casos de corrupción",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/gabriel-boric-RPgrTKNIJbGyRZjBW3F6x5M-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/chile-enfrenta-elecciones-municipales-ambiente-convulso-20241011163522-nt.html",
-        "date": "2024-10-11 15:03:57",
-        "sentiment_score": -0.12247820198535919
-    },
-    {
-        "title": "Un test de heces no invasiva para diagnosticar la endometriosis",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/11/endometriosis.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/test-heces-invasiva-diagnostica-endometriosis-20241011132329-nt.html",
-        "date": "2024-10-11 14:53:16",
-        "sentiment_score": -0.09633752703666687
-    },
-    {
-        "title": "5 planes gratis en Madrid del 11 al 18 de septiembre: conciertos y un espectáculo de flamenco",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YDK4T3SQURGZBILPCJWOL4UKPY.jpg?auth=3d6fc56aeefaf48fc15ae77c9f9101a97a3bf247eb1f1f6d2c85511bcacaae70",
-        "tags": [
-            "planes",
-            "desfiles militares",
-            "flamenco",
-            "comunidad de madrid",
-            "madrid",
-            "conciertos"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-11/5-planes-gratis-en-madrid-del-11-al-18-de-septiembre-conciertos-y-un-espectaculo-de-flamenco.html",
-        "date": "2024-10-11 16:55:39",
-        "sentiment_score": 0.10100920870900154
-    },
-    {
-        "title": "El ministro Óscar Puente tilda de “impresentable” y “mentiroso” al alcalde popular de Sevilla",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DWRNFF6XPDHXJPT4DRQTNLQGYU.jpg?auth=0e5d2f2b9880c3ec19699b9161076384c2bbbeae1901e243e2709ffa7222ec62&width=1200",
-        "tags": [
-            "huelva",
-            "psoe-a",
-            "gobierno",
-            "españa",
-            "granada",
-            "óscar puente santiago",
-            "andalucía",
-            "metro",
-            "josé luis sanz ruiz (pp)",
-            "pp-a",
-            "sevilla",
-            "movilidad sostenible"
-        ],
-        "link": "https://elpais.com/espana/2024-10-11/el-ministro-oscar-puente-tilda-de-impresentable-y-mentiroso-al-alcalde-popular-de-sevilla.html",
-        "date": "2024-10-11 16:29:46",
-        "sentiment_score": 0.03426031023263931
-    },
-    {
-        "title": "La cúpula judicial y fiscal en Cataluña constata la falta de medios para combatir la delincuencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FGM2ZPEWVICA3WFEYTE7Y7SF5A.jpg?auth=bab79f007f41da3cbfedafbfefe1eb276932da03f7d667cbb019dae2c5cbb640&width=1200",
-        "tags": [
-            "justicia",
-            "fiscalía",
-            "cataluña",
-            "delitos",
-            "jesús maría barrientos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-11/la-cupula-judicial-y-fiscal-en-cataluna-constata-la-falta-de-medios-para-combatir-la-delincuencia.html",
-        "date": "2024-10-11 16:22:45",
-        "sentiment_score": 0.26921311020851135
-    },
-    {
-        "title": "El Nou Mestalla se encarece 20 millones de euros hasta costar un total de 360",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2U6PEEA75BGKJFKFGODCIXCHZQ.jpg?auth=7ba193c0115545261c53d6066033363bf1bbf62dc51eefbdaafbf4104a84ea0f&width=1200",
-        "tags": [
-            "valencia",
-            "urbanismo",
-            "deportes",
-            "ayuntamiento valencia",
-            "mestalla",
-            "fútbol",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-11/el-nou-mestalla-se-encarece-20-millones-de-euros-hasta-costar-un-total-de-360.html",
-        "date": "2024-10-11 16:02:30",
-        "sentiment_score": 0.06807348877191544
-    },
-    {
-        "title": "El bulo de un falso secuestro de menores acaba en el linchamiento de un hombre en La Línea",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IUC57S2NZFBYPN4TFCTLK5MEEQ.jpg?auth=9ad17c900d164d0c0045b2f8e6c8d51dabc46e49a81cf58f20a022300c21be54&width=1200",
-        "tags": [
-            "españa",
-            "la línea de la concepción",
-            "policía nacional",
-            "secuestros",
-            "provincia cádiz",
-            "bulos internet",
-            "andalucía",
-            "menores"
-        ],
-        "link": "https://elpais.com/espana/2024-10-11/el-bulo-de-un-falso-secuestro-de-menores-acaba-en-el-linchamiento-de-un-hombre-en-la-linea.html",
-        "date": "2024-10-11 15:36:34",
-        "sentiment_score": -0.5944362822920084
-    },
-    {
-        "title": "Batalla campal entre una veintena de obreros mientras trabajan en la remodelación del Camp Nou",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PTLKN76YHRC2BIA6GVYDBWEEMU.jpg?auth=a9f8501e0ad4857d9fd1e40a65aeafe62828d517ff929f576195e4b1fe899798&width=1200",
-        "tags": [
-            "mossos d'esquadra",
-            "barcelona",
-            "camp nou",
-            "cataluña",
-            "peleas",
-            "obras ampliación",
-            "fútbol"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-11/batalla-campal-entre-una-veintena-de-obreros-mientras-trabajan-en-la-remodelacion-del-camp-nou.html",
-        "date": "2024-10-11 15:17:57",
-        "sentiment_score": -0.7467401716858149
-    },
-    {
-        "title": "Los Planetas, Niños Mutantes o Rvfv: fin de semana de contrastes musicales en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y75CPL64SBBRJE3C7LY4ZXZDZI.jpg?auth=d5ce3faa29cb59861775b34b523a315f861d0dc546f5db9325e46c3ae1feb925&width=1200",
-        "tags": [
-            "niños mutantes",
-            "música",
-            "conciertos",
-            "los planetas",
-            "barcelona",
-            "cataluña",
-            "rock",
-            "restaurantes",
-            "música electrónica",
-            "gastronomía"
-        ],
-        "link": "https://elpais.com/espana/catalunya/barcelona-se-sale/2024-10-11/los-planetas-ninos-mutantes-o-rvfv-fin-de-semana-de-contrastes-musicales-en-barcelona.html",
-        "date": "2024-10-11 15:05:37",
-        "sentiment_score": 0.8251974210143089
-    },
-    {
-        "title": "España protesta ante Israel tras el nuevo ataque contra los cascos azules en el sur del Líbano",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L77NMIURYWYFQOZMNCEMNDEWZM.jpg?auth=62600267a63b5a71efdfaf79dd1c2b707c4b482a5c38c09b953cd3d920fbbaeb&width=1200",
-        "tags": [
-            "franja gaza",
-            "israel",
-            "defensa",
-            "españa",
-            "líbano",
-            "guerra"
-        ],
-        "link": "https://elpais.com/espana/2024-10-11/espana-protesta-ante-israel-tras-el-segundo-ataque-contra-los-cascos-azules-en-el-sur-del-libano.html",
-        "date": "2024-10-11 15:05:20",
-        "sentiment_score": -0.07216969132423401
-    },
-    {
-        "title": "Madrid pide que \"se homologuen ya\" los títulos de 20.000 médicos y 3.000 enfermeras extracomunitarios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bf8e2252-72ac-4bef-af12-1cc1e7a846da_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241011/madrid-pide-homologuen-titulos-medicos-enfermeras-extracomunitarios-109213670",
-        "date": "2024-10-11 16:59:40",
-        "sentiment_score": -0.2967837452888489
-    },
-    {
-        "title": "El Estado mantiene congelados pagos de convenios y fondos claves del REF",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/05c4cd9f-d382-4c07-a95e-ea341c4fd0cf_16-9-aspect-ratio_default_0_x1074y768.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2024/10/11/mantiene-congelados-pagos-convenios-fondos-109213742.html",
-        "date": "2024-10-11 16:59:02",
-        "sentiment_score": -0.09057947993278503
-    },
-    {
-        "title": "Madrid pide que \"se homologuen ya\" los títulos de 20.000 médicos y 3.000 enfermeras extracomunitarios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bf8e2252-72ac-4bef-af12-1cc1e7a846da_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/sociedad/2024/10/11/madrid-pide-homologuen-titulos-medicos-enfermeras-extracomunitarios-109213680.html",
-        "date": "2024-10-11 16:57:45",
-        "sentiment_score": -0.3325704485177994
-    },
-    {
-        "title": "La selectividad que ya está lista en Galicia: cuatro preguntas, más competencial y nuevo sistema de corrección de las faltas",
-        "image_url": "https://cflvdg.avoz.es/sc/mkAXqnAfpzddEfnlI7fxCU4O19E=/768x/2024/10/11/00121728660061872388772/Foto/eup_20241011_120200678.jpg",
-        "tags": [
-            "selectividad"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/selectividad/2024/10/11/selectividad-lista-galicia-cuatro-preguntas-competencial-nuevo-sistema-correccion-faltas/00031728663933396599628.htm",
-        "date": "2024-10-11 17:06:00",
-        "sentiment_score": -0.7784825284034014
-    },
-    {
-        "title": "Bueno, bonito y barato: el único restaurante de Barcelona que tiene la cocina abierta las 24 horas",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/11/vivir-en-barcelona/892670887_13575833_1706x960.jpg?contentId=ESPIMA20241011_0163",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241011/bueno-bonito-barato-el-unico-restaurante-de-barcelona-que-tiene-la-cocina-abierta-las-horas/892660823_0.html",
-        "date": "2024-10-11 17:04:54",
-        "sentiment_score": 0.4487600103020668
-    },
-    {
-        "title": "Txus Vidorreta: \"Si no fuera contra el Barcelona, pondría un 1 en la Quiniela y, aun así, me la jugaría al 1-X\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2a99c7a7-07d1-4b39-8c3e-4810277efbdf_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2024/10/11/txus-vidorreta-fuera-barcelona-pondria-109213497.html",
-        "date": "2024-10-11 17:01:33",
-        "sentiment_score": 0.2213207632303238
-    },
-    {
-        "title": "A la venta las entradas para el partido de la selección femenina en Extremadura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2e696f2-da1a-4e28-a5ba-d49ea40a8735_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2024/10/11/venta-entradas-partido-seleccion-femenina-109213925.html",
-        "date": "2024-10-11 17:01:08",
-        "sentiment_score": 0.06652326323091984
-    },
-    {
-        "title": "El Illes Balears Palma Futsal se estrena en Santa Coloma",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3035817.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/deportes/palma-futsal/2024/10/11/2257795/palma-futsal-illes-balears-palma-futsal-estrena-santa-coloma.html",
-        "date": "2024-10-11 16:58:00",
-        "sentiment_score": 0.045584291219711304
-    },
-    {
         "title": "Temen que aseguradora estatal de Florida no cubra daños de los huracanes",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177783742-20241011220123209.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -614,38 +239,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-11/identificados-siete-represaliados-en-caceres-entre-ellos-el-padre-del-protagonista-de-la-pelicula-el-47.html",
         "date": "2024-10-11 20:04:04",
         "sentiment_score": -0.08062858879566193
-    },
-    {
-        "title": "Ayuso enmienda de nuevo una cesión de Cifuentes a la oposición y cierra el consejo de la juventud",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SMV7EZOJUY34UO2VVTJOOEMHHY.jpg?auth=d4e94f055a052f109ae3bd4d32531e1b9f2371b65cfd3b9536fb0f77abb9330b&width=1200",
-        "tags": [
-            "pp madrid",
-            "madrid",
-            "parlamentos autonómicos",
-            "asamblea madrid",
-            "isabel díaz ayuso",
-            "cristina cifuentes",
-            "comunidad de madrid",
-            "gobierno comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-11/ayuso-enmienda-de-nuevo-una-cesion-de-cifuentes-a-la-oposicion-y-cierra-el-consejo-de-la-juventud.html",
-        "date": "2024-10-11 17:15:19",
-        "sentiment_score": -0.8492618054151535
-    },
-    {
-        "title": "España cierra las puertas a los saharauis de Barajas: devueltos a Marruecos los últimos solicitantes de asilo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LNJELJU7DSQ23YKIIXTSFMPOTQ.jpg?auth=2f12a7982109975d3f2e3563d63b501f48eff6e33a416002bf2f706e5e9826e5&width=1200",
-        "tags": [
-            "españa",
-            "conflicto saharaui",
-            "marruecos",
-            "fernando grande-marlaska",
-            "sahara occidental",
-            "aeropuerto madrid barajas"
-        ],
-        "link": "https://elpais.com/espana/2024-10-11/espana-cierra-las-puertas-a-los-saharauis-de-barajas-devueltos-a-marruecos-los-ultimos-solicitantes-de-asilo.html",
-        "date": "2024-10-11 17:13:56",
-        "sentiment_score": -0.374148890376091
     },
     {
         "title": "El mal llamado parón realista: cuatro vueltas al mundo y 77 vuelos",
@@ -6635,5 +6228,498 @@ export default [
         "link": "https://www.elespanol.com/omicrono/tecnologia/20241015/aria-invento-jovenes-espanoles-hace-comodo-facil-tratamiento-apnea-sueno-casa/891660899_0.html",
         "date": "2024-10-15 00:31:04",
         "sentiment_score": 0.3226011395454407
+    },
+    {
+        "title": "Última hora de la Guerra entre Israel y Hezbollah en vivo: situación en Gaza, noticias y más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2177667658.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente",
+            "instanoticias",
+            "guerra israel hezbollah",
+            "minuto a minuto"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/15/guerra-israel-y-hezbollah-en-vivo-situacion-en-gaza-noticias-y-mas-trax/",
+        "date": "2024-10-15 05:49:17",
+        "sentiment_score": -0.7618576912209392
+    },
+    {
+        "title": "Enrique Márquez confirma que Centrados dialogará con la Asamblea Nacional de Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/61345965-59989549-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-enrique-marquez-dialogo-asamblea-nacional/",
+        "date": "2024-10-15 03:13:30",
+        "sentiment_score": 0.11880238354206085
+    },
+    {
+        "title": "Enrique Márquez cuestiona decisión del TSJ sobre victoria de Maduro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21040393-2958-348-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "nicolás maduro",
+            "elecciones en venezuela",
+            "enrique márquez",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/enrique-marquez-reacciona-sentencia-tsj-venezuela/",
+        "date": "2024-10-15 02:57:35",
+        "sentiment_score": -0.5197929032146931
+    },
+    {
+        "title": "Análisis: ¿qué supone la implementación de la reforma judicial en México?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170688600.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "méxico",
+            "aristegui",
+            "xpress",
+            "abogados",
+            "reforma judicial"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-abogados-reforma-judicial-eleccion-jueces-aristegui-tv-fast/",
+        "date": "2024-10-15 02:34:52",
+        "sentiment_score": -0.056234218180179596
+    },
+    {
+        "title": "Análisis: ¿qué supone la implementación de la reforma judicial en México?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170688600.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-abogados-reforma-judicial-eleccion-jueces-aristegui-tv-fast",
+        "date": "2024-10-15 02:34:52",
+        "sentiment_score": -0.006409771740436554
+    },
+    {
+        "title": "Así se ven las imágenes de las primeras inundaciones del Sáhara en medio siglo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/07/sahara-kyy-RDjPGudWv1bkQYTTVS4iwEP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ven-imagenes-primeras-inundaciones-sahara-medio-siglo-20241015081500-nt.html",
+        "date": "2024-10-15 06:15:00",
+        "sentiment_score": -0.08998386561870575
+    },
+    {
+        "title": "Economía planea prorrogar las ayudas a las hipotecas hasta 2025 pese a la caída del euríbor",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/15/ministro-economia-R9ECzq1bpyUQzWHh4G0O2rL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/economia-planea-prorrogar-ayudas-hipotecas-2025-pese-20241015042113-nt.html",
+        "date": "2024-10-15 02:21:14",
+        "sentiment_score": -0.055668026208877563
+    },
+    {
+        "title": "Ofensiva del PP para que el Gobierno rinda cuentas por el caos en las oficinas de Correos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/14/1473191898-R2eCjgXkBglEfghIGqD4x1M-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ofensiva-pp-gobierno-rinda-cuentas-caos-oficinas-20241014180705-nt.html",
+        "date": "2024-10-15 02:20:56",
+        "sentiment_score": -0.09273113310337067
+    },
+    {
+        "title": "Trump, la película",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/15/historia-trump_20241014170422-Ro969lkyeCWWEMvbI7vAltJ-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/javier-ansorena-trump-pelicula-20241015121206-nt.html",
+        "date": "2024-10-15 02:19:18",
+        "sentiment_score": -0.17694857716560364
+    },
+    {
+        "title": "Las mayores pensiones de los nuevos jubilados añaden 16.000 millones de gasto en seis años",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/14/IMG_20240930_002505-ReRCLOQwjImOVcBWixPlttM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/mayores-pensiones-nuevos-jubilados-anaden-16000-millones-20241014041716-nt.html",
+        "date": "2024-10-15 02:17:16",
+        "sentiment_score": -0.101358562707901
+    },
+    {
+        "title": "Cierre de filas de las Naciones Unidas ante los llamamientos de Israel a desplazar los 'cascos azules'",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/15/Finul-koqH-U603200161898qxE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/cierre-filas-naciones-unidas-ante-llamamientos-israel-20241015041510-nt.html",
+        "date": "2024-10-15 02:15:10",
+        "sentiment_score": -0.059848666191101074
+    },
+    {
+        "title": "Explorando Benicàssim, de sus vestigios de la ‘belle époque’ a las cercanas islas Columbretes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BIK6JCOW45GA5IFDX2VFV4XR2M.jpg?auth=ea18d7bd62ebd215c9ddbc2b4348f0c79a3308317e271ca82589d6310916c6c5&width=1200",
+        "tags": [
+            "turismo ciudad",
+            "viajes",
+            "provincia castellón",
+            "turismo playa",
+            "benicàssim",
+            "turismo nacional",
+            "turismo cultural",
+            "comunidad valenciana",
+            "turismo interior"
+        ],
+        "link": "https://elpais.com/elviajero/escapadas/espana/2024-10-15/explorando-benicassim-de-sus-vestigios-de-la-belle-epoque-a-las-cercanas-islas-columbretes.html",
+        "date": "2024-10-15 03:43:00",
+        "sentiment_score": 0.15433256328105927
+    },
+    {
+        "title": "La familia del protagonista de la película ‘El 47′ cierra su herida",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YIULW56J6BFY5CGMYKUK3AVK6U.jpg?auth=d3950a331ff2ffbd0b6d8d63214bca642db49a7cccd99e719bf702a8a60074b6&width=1200",
+        "tags": [
+            "cataluña",
+            "eduard fernández",
+            "guerra civil española",
+            "extremadura",
+            "españa",
+            "memoria histórica",
+            "barcelona",
+            "autobuses",
+            "víctimas franquismo",
+            "franquismo",
+            "cáceres",
+            "valencia de alcántara",
+            "exodo rural",
+            "películas"
+        ],
+        "link": "https://elpais.com/espana/2024-10-15/la-familia-del-protagonista-de-la-pelicula-el-47-cierra-su-herida.html",
+        "date": "2024-10-15 03:40:00",
+        "sentiment_score": -0.2323930338025093
+    },
+    {
+        "title": "El PSOE se revuelve contra la denuncia del PP: “Nunca hubo bolsas de dinero en Ferraz”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WJR4QZ4CDJGHTK5U3HHAS7MI74.jpg?auth=edfb0303d6cd0febe998441635c432ec6800db2aa00be60aa1a14bc038d5f472&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "política",
+            "caso koldo",
+            "josé luis ábalos",
+            "pp",
+            "españa",
+            "psoe",
+            "financiación partidos"
+        ],
+        "link": "https://elpais.com/espana/2024-10-15/el-psoe-se-revuelve-contra-la-denuncia-del-pp-nunca-hubo-bolsas-de-dinero-en-ferraz.html",
+        "date": "2024-10-15 03:40:00",
+        "sentiment_score": -0.7156667821109295
+    },
+    {
+        "title": "Las dificultades de los más de 200.000 ucranios en España que huyen de la guerra: “Allí me sentía importante, ahora no soy nadie”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6HK27DODAREE7AG56ZDVANUMWA.jpg?auth=f652688234f0418f3f482cce24ab7b917d03a2fae586aec44435fc8d2bdf09bc&width=1200",
+        "tags": [
+            "guerra de rusia en ucrania",
+            "ucrania",
+            "refugiados",
+            "cear",
+            "noticias de españa",
+            "guerra",
+            "otan",
+            "europa",
+            "inmigración",
+            "conflictos",
+            "conflictos armados",
+            "conflictos internacionales",
+            "ataques militares",
+            "rusia",
+            "unión europea"
+        ],
+        "link": "https://elpais.com/internacional/2024-10-15/las-dificultades-de-los-mas-de-200000-ucranios-en-espana-que-huyen-de-la-guerra-alli-me-sentia-importante-ahora-no-soy-nadie.html",
+        "date": "2024-10-15 03:40:00",
+        "sentiment_score": -0.21201813220977783
+    },
+    {
+        "title": "20 años de financiación ilegal del PP frente a las sospechas de financiación ilegal del PSOE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NINAATG6RBDTXFUNAYVFNZ6M6I.jpg?auth=9bcbd899c069481ea32f6dcef9ec715ca552bbd3b6c80c45465788c0e1a691bc&width=1200",
+        "tags": [
+            "caso koldo",
+            "mascarillas",
+            "josé luis ábalos",
+            "pp",
+            "españa",
+            "caso gürtel",
+            "financiación ilegal",
+            "gobierno",
+            "psoe",
+            "luis bárcenas",
+            "koldo garcía"
+        ],
+        "link": "https://elpais.com/espana/2024-10-15/20-anos-de-financiacion-ilegal-del-pp-frente-a-las-sospechas-de-financiacion-ilegal-del-psoe.html",
+        "date": "2024-10-15 03:40:00",
+        "sentiment_score": -0.3255096711218357
+    },
+    {
+        "title": "Miranda Cortés: “La batalla más difícil para una persona ya la ha hecho antes de llegar al cuartel”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5QHOFXJ6SJAF7OOYUBSSBKABHE.jpg?auth=899e0479938a5ffc8537016a81b912269bc6b1371a40f67c39dfafd3110114eb&width=1200",
+        "tags": [
+            "madrid",
+            "españa",
+            "mercedes gonzález",
+            "violencia género",
+            "guardia civil",
+            "comunidad de madrid",
+            "violencia machista"
+        ],
+        "link": "https://elpais.com/espana/2024-10-15/miranda-cortes-la-batalla-mas-dificil-para-una-persona-ya-la-ha-hecho-antes-de-llegar-al-cuartel.html",
+        "date": "2024-10-15 03:30:00",
+        "sentiment_score": -0.16381359472870827
+    },
+    {
+        "title": "Cuando el “orgullo de barrio” sube el precio de los pisos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RCBNFK6HRNHGFDNR4RRMNZ3364.JPG?auth=eb667bde2ae0426e968e3db0e871a007985c59f14f38acfe11016c4e333db339&width=1200",
+        "tags": [
+            "madrid",
+            "móstoles",
+            "clases sociales",
+            "librerías",
+            "barrios",
+            "comunidad de madrid",
+            "gentrificación"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-15/orgullo-de-barrio-con-cafe-de-especialidad.html",
+        "date": "2024-10-15 03:30:00",
+        "sentiment_score": -0.7401925958693027
+    },
+    {
+        "title": "Los socios de Sánchez rebajan el ‘caso Ábalos’ mientras no haya pruebas de financiación ilegal",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y3YWZSTS6JNSBHTB7HILLJHCCQ.jpg?auth=e9b9a655a0f92e6c665d49a308f4d42529f352caab44d85a3060e51213efe181&width=1200",
+        "tags": [
+            "cortes generales",
+            "pp",
+            "pactos postelectorales",
+            "aliados",
+            "pactos políticos",
+            "parlamento",
+            "españa",
+            "erc",
+            "congreso diputados",
+            "alberto núñez feijóo",
+            "grupos parlamentarios",
+            "partidos políticos",
+            "gobierno",
+            "psoe",
+            "bildu",
+            "pedro sánchez",
+            "partidos conservadores",
+            "cortes constituyentes",
+            "partidos nacionalistas"
+        ],
+        "link": "https://elpais.com/espana/2024-10-15/los-socios-de-sanchez-rebajan-el-caso-abalos-mientras-no-haya-pruebas-de-financiacion-ilegal.html",
+        "date": "2024-10-15 03:30:00",
+        "sentiment_score": -0.8220414239913225
+    },
+    {
+        "title": "Un bulo sobre “jóvenes tutelados” moviliza a vecinos de Tiana contra pisos públicos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KTH7SCGQUZCVLC722PO6JR7UZM.jpg?auth=808bcec1f6405010413377b27b147cdda79864a6f3507a8bb0062b55a1fb7fd3&width=1200",
+        "tags": [
+            "cataluña",
+            "bulos internet",
+            "tiana",
+            "vpo",
+            "vivienda",
+            "área metropolitana barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-15/un-bulo-sobre-jovenes-tutelados-moviliza-a-vecinos-de-tiana-contra-pisos-publicos.html",
+        "date": "2024-10-15 03:15:00",
+        "sentiment_score": 0.5063550807535648
+    },
+    {
+        "title": "La soledad de Junqueras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SQX34IRKLBDG5KR3WJGXOIDWZY.jpg?auth=8c44c31b57208e34a0a243e7a2b530273519c828cca9d5151b024808e807fb2b&width=1200",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "independentismo",
+            "erc",
+            "oriol junqueras",
+            "independencia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-15/la-soledad-de-junqueras.html",
+        "date": "2024-10-15 03:15:00",
+        "sentiment_score": -0.5640694126486778
+    },
+    {
+        "title": "Esta ciudad de Madrid se transforma con el Mercado Goyesco más impresionante de España",
+        "image_url": "https://okdiario.com/img/2024/10/14/esta-ciudad-de-madrid-se-transforma-con-el-mercado-goyesco-mas-impresionante-de-espana.jpg",
+        "tags": [
+            "mercados",
+            "pueblos",
+            "fiestas",
+            "españa",
+            "madrid"
+        ],
+        "link": "https://okdiario.com/madrid/esta-ciudad-madrid-transforma-mercado-goyesco-mas-impresionante-espana-13636058",
+        "date": "2024-10-15 06:15:47",
+        "sentiment_score": 0.3241652846336365
+    },
+    {
+        "title": "Lazo no tendrá su baño de gloria en Almería",
+        "image_url": "https://images.ficheroslavoz.com/e8/e8c5414c-6b34-484b-8378-73270a5b0d68.png?crop=485%2C273&expires=1760508857&height=1070&token=JHwMMJKdJiCLQPhHXDIK9Cp1R0DzfNJqa_ltu0xYPbQ&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/281687/lazo-no-tendra-su-bano-de-gloria-en-almeria",
+        "date": "2024-10-15 06:13:00",
+        "sentiment_score": -0.8306791428476572
+    },
+    {
+        "title": "BBVA Research eleva al 2,9% su previsión para el PIB en 2024 y mejora al 2,3% la de 2025",
+        "image_url": "https://forbes.es/wp-content/uploads/2024/10/fotonoticia_20241015080252_1920-1013x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/517269/bbva-research-eleva-al-29-su-prevision-para-el-pib-en-2024-y-mejora-al-23-la-de-2025/",
+        "date": "2024-10-15 06:02:52",
+        "sentiment_score": 0.537174254655838
+    },
+    {
+        "title": "Mauritania tapona un millón de migrantes que quieren llegar a Canarias",
+        "image_url": "https://www.atalayar.com/media/atalayar/images/2024/10/14/2024101411315452539.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.atalayar.com/articulo/politica/mauritania-tapona-millon-migrantes-que-quieren-llegar-canarias/20241014190000206245.html",
+        "date": "2024-10-15 06:00:00",
+        "sentiment_score": -0.03247375786304474
+    },
+    {
+        "title": "El Baskonia busca hurgar en la herida del Madrid",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/72bbb3ae-81aa-4510-b6a8-7bc07efcdeba_16-9-aspect-ratio_default_0_x912y481.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2024/10/15/baskonia-busca-hurgar-herida-madrid-8806153.html",
+        "date": "2024-10-15 05:55:13",
+        "sentiment_score": 0.737138144671917
+    },
+    {
+        "title": "El vuelo del terror del hermano de Franco para bombardear el Palacio Real con Alfonso XIII dentro",
+        "image_url": "https://s1.elespanol.com/2024/10/11/historia/892671527_249941816_1706x960.jpg?contentId=ESPIMA20241011_0803",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20241015/vuelo-terror-hermano-franco-bombardear-palacio-real-alfonso-xiii-dentro/892660954_0.html",
+        "date": "2024-10-15 05:52:32",
+        "sentiment_score": -0.4123527407646179
+    },
+    {
+        "title": "Luna Serrat presume de amor con su novio, el futbolista Dani Ceballos, dos meses después de confirmar su noviazgo",
+        "image_url": "https://www.hola.com/horizon/landscape/8728ca2dc8a8-foto1-ig.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/actualidad/20241015723947/luna-serrat-dani-ceballos-presume-amor/",
+        "date": "2024-10-15 05:42:28",
+        "sentiment_score": 0.3798189163208008
+    },
+    {
+        "title": "Sitúan el estatus socioeconómico en el centro del modelado de epidemias",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241015073650_120.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-situan-estatus-socioeconomico-centro-modelado-epidemias-20241015073650.html",
+        "date": "2024-10-15 05:36:50",
+        "sentiment_score": 0.3516763150691986
+    },
+    {
+        "title": "La Superliga de Florentino, de enemiga a útil aliada de las ligas europeas en la demanda contra la FIFA por el calendario",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3d0f0003-a312-4464-8805-025faed8db00_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/10/15/superliga-florentino-enemiga-util-aliada-109328786.html",
+        "date": "2024-10-15 05:30:44",
+        "sentiment_score": -0.7111229971051216
+    },
+    {
+        "title": "Un 'First Dates' de puño y letra",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/10/12/2024101209265222476.jpg",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/lugo/first-dates-puno-letra/202410150830161793428.html",
+        "date": "2024-10-15 06:30:16",
+        "sentiment_score": -0.19266247749328613
+    },
+    {
+        "title": "Las ‘geishas’ de Kioto y los ‘sumotori’ de Tokio",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/77BBA7CV7ZBRTOODPLSTV2TXDY.jpg?auth=a526b9522db188ea098b06d764c3bb02c346fd90c9e5a49f54a69384487c5852&width=1200",
+        "tags": [
+            "viajes",
+            "tokio",
+            "turismo cultural",
+            "japón",
+            "turismo",
+            "kioto"
+        ],
+        "link": "https://elpais.com/elviajero/viajes/2024-10-15/las-geishas-de-kioto-y-los-sumotori-de-tokio.html",
+        "date": "2024-10-15 06:30:00",
+        "sentiment_score": 0.08636951446533203
+    },
+    {
+        "title": "Y en octubre ya tenemos... el premio al mejor turrón creativo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0da08bf2-461f-4753-aeaf-68f883c81514_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/20241015/mejor-turron-creativo-pasteleria-rossana-tarragona-109295006",
+        "date": "2024-10-15 06:29:45",
+        "sentiment_score": 0.6841446049511433
+    },
+    {
+        "title": "Bruselas sondea la apertura de centros de deportación fuera de la Unión Europea",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ROYWI62R64RC7WALXM76HHYN6U.jpg?auth=53bb71bee585c37f4b5f838602284cb8acd453ecfd684e80954f6b17e2f92386&width=1200",
+        "tags": [
+            "consejo europeo",
+            "derechos humanos",
+            "albania",
+            "migrantes",
+            "italia",
+            "migración",
+            "ursula von der leyen",
+            "unión europea",
+            "inmigrantes",
+            "comisión europea"
+        ],
+        "link": "https://elpais.com/internacional/2024-10-15/bruselas-sondea-la-apertura-de-centros-de-deportacion-fuera-de-la-union-europea.html",
+        "date": "2024-10-15 06:22:57",
+        "sentiment_score": 0.20367035269737244
+    },
+    {
+        "title": "‘La Revuelta’ arranca la semana ampliando su liderazgo de audiencia sobre ‘El Hormiguero’",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/15/670e049d428f6.png",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.lavanguardia.com/television/20241015/10022360/revuelta-david-broncano-arranca-semana-ampliando-liderazgo-audiencia-sobre-hormiguero.html",
+        "date": "2024-10-15 06:18:23",
+        "sentiment_score": 0.010913372039794922
+    },
+    {
+        "title": "Retrasos en siete líneas de Rodalies por una incidencia en El Prat de Llobregat",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/09/27/movilidad/889171098_13505250_1706x960.png?contentId=ESPIMA20240927_0024",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20241015/retrasos-en-siete-lineas-de-rodalies-por-una-incidencia-el-prat-llobregat/893660631_0.html",
+        "date": "2024-10-15 06:08:13",
+        "sentiment_score": -0.6858374495059252
+    },
+    {
+        "title": "Cuales son las regiones con coches más peligrosos y con más kilómetros",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/10/15/coches-espana-carfax-Rl2kL2EDVdppg7amP2vNmeP-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/motor/economia/regiones-coches-peligrosos-kilometros-20241015080400-ntrc.html",
+        "date": "2024-10-15 06:06:25",
+        "sentiment_score": -0.5226346924901009
     }
 ];
