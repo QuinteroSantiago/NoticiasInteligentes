@@ -62,48 +62,6 @@ export default [
         "sentiment_score": -0.1875229924917221
     },
     {
-        "title": "Fisher-Price retira del mercado 2 millones de columpios para bebés tras cinco muertes",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765448-fisherprice.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/11/fisher-price-retira-mercado-2-millones-columpios-bebes-5-muertes-trax/",
-        "date": "2024-10-11 14:09:02",
-        "sentiment_score": -0.8127323742955923
-    },
-    {
-        "title": "Así se vieron las impresionantes auroras boreales en el cielo de EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/luces-del-norte.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/auroras-boreales-estados-unidos-cafe-tv/",
-        "date": "2024-10-11 13:43:45",
-        "sentiment_score": 0.5871074423193932
-    },
-    {
-        "title": "Así se vieron las impresionantes auroras boreales en el cielo de EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/luces-del-norte.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/auroras-boreales-estados-unidos-cafe-tv",
-        "date": "2024-10-11 13:43:45",
-        "sentiment_score": 0.6674511283636093
-    },
-    {
-        "title": "Putin celebra los lazos \"muy cercanos\" con Irán en una reunión histórica con su presidente",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765415-putin-iran.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "rusia",
-            "vladimir putin",
-            "irán"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/11/putin-iran-reunion-trax/",
-        "date": "2024-10-11 13:21:29",
-        "sentiment_score": 0.10688981413841248
-    },
-    {
         "title": "Al menos 3.100 niños y niñas menores de cinco años murieron en Gaza de octubre a agosto, según Save the Children",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/nios-gaza-ep-kWZ-U603187637850I6E-1200x840@diario_abc.jpg",
         "tags": [
@@ -335,48 +293,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-11/espana-protesta-ante-israel-tras-el-segundo-ataque-contra-los-cascos-azules-en-el-sur-del-libano.html",
         "date": "2024-10-11 15:05:20",
         "sentiment_score": -0.07216969132423401
-    },
-    {
-        "title": "El PP usa el Senado para estirar la comisión Koldo hacia Sánchez, su esposa y todo el Gobierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3DVMNJTXZBZNAECTDQCGA7QNHY.jpg?auth=9ee70459ddec4ef9ba35ab18ca3e8d3420e3fd7f7100e921918295b4859ebf4b&width=1200",
-        "tags": [
-            "comisiones investigación",
-            "pp",
-            "comisiones parlamentarias",
-            "gobierno",
-            "caso koldo",
-            "senado",
-            "política",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-10-11/el-pp-usa-el-senado-para-estirar-la-comision-koldo-hacia-sanchez-su-esposa-y-todo-el-gobierno.html",
-        "date": "2024-10-11 14:00:43",
-        "sentiment_score": -0.3865541983395815
-    },
-    {
-        "title": "Ayuso rectifica sus leyes LGTBI antes de que el Constitucional resuelva los recursos del Gobierno y el Defensor del Pueblo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3QORKH2DV2BHRMDCV5ZTUWSANM.jpg?auth=9c1f93b05568f186fbd3ea93cd46d2dc3b86e8220d8f28b44119e2c98f734af8&width=1200",
-        "tags": [
-            "gays",
-            "lgtbifobia",
-            "transexuales",
-            "defensor pueblo",
-            "madrid",
-            "gobierno de españa",
-            "derechos humanos",
-            "lesbianas",
-            "recursos judiciales",
-            "tribunal constitucional",
-            "comunidad de madrid",
-            "comunidad lgtbiq",
-            "derechos civiles",
-            "gobierno comunidad de madrid",
-            "leyes autonómicas",
-            "homosexualidad"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-11/ayuso-rectifica-sus-leyes-lgtbi-antes-de-que-el-constitucional-resuelva-los-recursos-del-gobierno-y-el-defensor-del-pueblo.html",
-        "date": "2024-10-11 13:33:15",
-        "sentiment_score": 0.314417764544487
     },
     {
         "title": "Madrid pide que \"se homologuen ya\" los títulos de 20.000 médicos y 3.000 enfermeras extracomunitarios",
@@ -6376,5 +6292,348 @@ export default [
         "link": "https://www.lavanguardia.com/local/barcelona/20241014/10022122/londres-rie-barcelona.html",
         "date": "2024-10-14 21:57:44",
         "sentiment_score": -0.8853973746299744
+    },
+    {
+        "title": "¿A dónde se fue la arena? El desierto del Sahara se inunda",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21039953-4576-516-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/clima-sahara-desierto-inundacion-panorama-mundial-tv",
+        "date": "2024-10-15 01:39:09",
+        "sentiment_score": -0.8609370114281774
+    },
+    {
+        "title": "¿A dónde se fue la arena? El desierto del Sahara se inunda",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21039953-4576-516-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/clima-sahara-desierto-inundacion-panorama-mundial-tv/",
+        "date": "2024-10-15 01:39:09",
+        "sentiment_score": -0.6597876846790314
+    },
+    {
+        "title": "Taiwán condena ejercicios militares de China",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-909905392.jpg?quality=100&strip=info",
+        "tags": [
+            "taiwán",
+            "ejercicios militares",
+            "china"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/china-taiwan-tension-ejercicios-militares-panorama-mundial-tv/",
+        "date": "2024-10-15 01:35:29",
+        "sentiment_score": -0.3972267359495163
+    },
+    {
+        "title": "Primera inundación en décadas del desierto del Sahara",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sahara.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "inundaciones",
+            "video",
+            "fast – news variety",
+            "cambio climático",
+            "desierto"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desierto-sahara-inundacion-imagenes-panorama-tv-fast/",
+        "date": "2024-10-15 01:33:16",
+        "sentiment_score": -0.09014984965324402
+    },
+    {
+        "title": "Canadá expulsa a diplomáticos de la India por presuntos actos de violencia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177726619.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "india",
+            "diplomacia",
+            "canadá"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/canada-india-tension-diplomatica-expulsion-funcionarios-panorama-mundial-tv/",
+        "date": "2024-10-15 01:27:48",
+        "sentiment_score": -0.8049906082451344
+    },
+    {
+        "title": "Reportan cinco muertos en ataque contra complejo hospitalario en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2177667658.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-israel-gaza-ataque-hospital-nada-bashir-panorama-mundial-tv/",
+        "date": "2024-10-15 01:23:28",
+        "sentiment_score": -0.8170169433578849
+    },
+    {
+        "title": "Reportan cinco muertos en ataque contra complejo hospitalario en Gaza",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177667658.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-israel-gaza-ataque-hospital-nada-bashir-panorama-mundial-tv",
+        "date": "2024-10-15 01:23:28",
+        "sentiment_score": -0.7507849019020796
+    },
+    {
+        "title": "Las noticias económicas del 14 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171699561.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/portafolio-mundial-14-octubre-2024-panorama-tv-fast",
+        "date": "2024-10-15 01:23:01",
+        "sentiment_score": -0.020804639905691147
+    },
+    {
+        "title": "Las 3 noticias destacadas de la noche del 14 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177667555.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-14-de-octubre-2024-panorama-noche-fast",
+        "date": "2024-10-15 01:02:29",
+        "sentiment_score": 0.1874295212328434
+    },
+    {
+        "title": "Los nuevos pandas diplomáticos de China se trasladan a EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/culver-pandas-orig-thmb-20241015004855618.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "pandas",
+            "animales",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/china-pandas-estados-unidos-washington-zoologico-trax/",
+        "date": "2024-10-15 00:52:23",
+        "sentiment_score": -0.21830087900161743
+    },
+    {
+        "title": "Milei recibe a Boris Johnson en la Casa Rosada",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/15/jhonson-kimC-U6032001481607hG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/milei-recibe-boris-johnson-casa-rosada-20241015031305-nt.html",
+        "date": "2024-10-15 01:13:06",
+        "sentiment_score": -0.04973509907722473
+    },
+    {
+        "title": "Una técnica revolucionaria que convierte ácidos grasos dañinos en beneficiosos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/10/14/Obesidad-infantil.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/tecnica-revolucionaria-convierte-acidos-grasos-daninos-beneficiosos-20241014133529-nt.html",
+        "date": "2024-10-15 00:10:30",
+        "sentiment_score": -0.13878647983074188
+    },
+    {
+        "title": "La UE aprueba indemnizar a las personas que enfermen por contaminación del aire",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/df/media_thumb_2x-link-3989419.webp",
+        "tags": [
+            "so2",
+            "contaminación",
+            "no2",
+            "pm10",
+            "azufre",
+            "actualidad",
+            "aire",
+            "salud",
+            "indemnización",
+            "pm2.5",
+            "ue"
+        ],
+        "link": "https://www.meneame.net/story/ue-aprueba-indemnizar-personas-enfermen-contaminacion-aire",
+        "date": "2024-10-14 23:30:03",
+        "sentiment_score": -0.4521261751651764
+    },
+    {
+        "title": "Centenario en tiempo récord para Pedro Martínez",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/257ace5b-e659-4324-8eb2-d17c38a06f11_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/10/15/centenario-tiempo-record-pedro-martinez-109317155.html",
+        "date": "2024-10-15 02:00:42",
+        "sentiment_score": 0.5207002609968185
+    },
+    {
+        "title": "Óscar Mingueza, ¿el regreso que necesita el Barça?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/15/2024101501564675728.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mingueza-regreso-que-necesita-barca/20241015033853320789.html",
+        "date": "2024-10-15 01:38:53",
+        "sentiment_score": 0.19781040400266647
+    },
+    {
+        "title": "Ser mujer rural en León según cinco leonesas",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2024/10/15/670db58b17c64.r_d.915-1303-0.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/241015/1646385/mujer-rural-leon-cinco-leonesas.html",
+        "date": "2024-10-15 01:30:00",
+        "sentiment_score": -0.028749331831932068
+    },
+    {
+        "title": "Los casos de corrupción que atormentan a Pedro Sánchez: bolsas con dinero, sobornos y un viaje de la vice de Maduro",
+        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/Captura-de-pantalla-2024-10-14-a-las-8.25.54%20p.-m.png",
+        "tags": [
+            "pedro sánchez",
+            "psoe",
+            "españa",
+            "mundo",
+            "caso koldo"
+        ],
+        "link": "https://www.elnacional.com/mundo/los-casos-de-corrupcion-que-atormentan-a-pedro-sanchez-bolsas-con-dinero-sobornos-y-un-viaje-de-la-vice-de-maduro/",
+        "date": "2024-10-15 00:34:03",
+        "sentiment_score": -0.825239147990942
+    },
+    {
+        "title": "Interior coloca en la misma celda a Aldama, cerebro del 'caso Koldo', y a Claudio Rivas, su socio en la 'trama del fuel'",
+        "image_url": "https://s1.elespanol.com/2024/10/14/espana/893421500_250007769_1706x960.png?contentId=ESPIMA20241014_0851",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241015/interior-coloca-misma-celda-aldama-cerebro-caso-koldo-claudio-rivas-socio-trama-fuel/893411131_0.html",
+        "date": "2024-10-15 00:29:52",
+        "sentiment_score": -0.25437047332525253
+    },
+    {
+        "title": "Aldama facilitó a la UCO las claves de su caja fuerte y de los ordenadores: la defensa no ve motivos para la prisión",
+        "image_url": "https://s1.elespanol.com/2024/10/10/espana/tribunales/892421357_249901146_1706x960.jpg?contentId=ESPIMA20241010_0608",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20241015/aldama-facilito-uco-claves-caja-fuerte-ordenadores-defensa-no-ve-motivos-prision/893411168_0.html",
+        "date": "2024-10-15 00:29:49",
+        "sentiment_score": -0.8372737560421228
+    },
+    {
+        "title": "Brasil recibe a Perú en eliminatorias, confiando más en sus jugadores del medio local",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-10-14/brasil-recibe-a-peru-en-eliminatorias-confiando-mas-en-sus-jugadores-del-medio-local",
+        "date": "2024-10-15 00:08:28",
+        "sentiment_score": -0.24680311977863312
+    },
+    {
+        "title": "Zelenski aborda con el Estado Mayor de las FFAA la \"participación real\" de Corea del Norte en la guerra",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241015020337_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-zelenski-aborda-estado-mayor-ffaa-participacion-real-corea-norte-guerra-20241015020337.html",
+        "date": "2024-10-15 00:03:37",
+        "sentiment_score": -0.7265113089233637
+    },
+    {
+        "title": "Crisis en Manzanares el Real tras la dimisión de su alcalde: un gobierno de tres concejales parece insostenible",
+        "image_url": "https://s1.elespanol.com/2024/10/14/actualidad/893421405_250004748_1706x960.png?contentId=ESPIMA20241014_0756",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241015/crisis-manzanares-real-dimision-alcalde-gobierno-concejales-parece-insostenible/893411105_0.html",
+        "date": "2024-10-14 23:59:37",
+        "sentiment_score": -0.43198130279779434
+    },
+    {
+        "title": "Un informe de la Guardia Civil cuestiona las versiones oficiales sobre el polémico viaje de la vicepresidenta de Venezuela a España en 2020",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/vicepresidenta-venezuela-delcy-rodriguez-viaje-espana-e1728948349321.jpg?quality=100&strip=info",
+        "tags": [
+            "delcy rodríguez",
+            "españa",
+            "venezuela",
+            "pedro sánchez"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/14/informe-guardia-civil-cuestiona-versiones-oficiales-polemico-viaje-vicepresidenta-venezuela-espana-2020-orix/",
+        "date": "2024-10-14 23:29:01",
+        "sentiment_score": -0.12069867551326752
+    },
+    {
+        "title": "El medicamento que usas para las migrañas que una médico asegura que las empeora: \"Frecuencia y duración\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2024/10/08/670487a5622fb.png",
+        "tags": [
+            "poniendo las calles"
+        ],
+        "link": "https://www.cope.es/programas/poniendo-las-calles/audios/medicamento-migranas-medico-asegura-empeora-frecuencia-y-duracion-20241015_3023848.html",
+        "date": "2024-10-15 02:12:47",
+        "sentiment_score": -0.14069758355617523
+    },
+    {
+        "title": "«Implicarse hoy como familia en el colegio es un gesto revolucionario»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3039785.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2024/10/15/2259083/marta-comas-implicarse-hoy-como-familia-colegio-gesto-revolucionario.html",
+        "date": "2024-10-15 02:00:01",
+        "sentiment_score": 0.04161113500595093
+    },
+    {
+        "title": "Antoni Vives: «La cultura catalana tiene que ser una cultura del mundo»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3039609.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/15/2258969/antoni-vives-cultura-catalana-tiene-ser-cultura-del-mundo.html",
+        "date": "2024-10-15 02:00:01",
+        "sentiment_score": -0.10606321692466736
+    },
+    {
+        "title": "Cuatro obras procedentes de Baleares aspiran el Premio Planeta, que se falla este martes",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3039811.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/15/2259101/premio-planeta-novela-cuatro-obras-procedentes-baleares-entre-aspirantes.html",
+        "date": "2024-10-15 02:00:01",
+        "sentiment_score": -0.01283353567123413
+    },
+    {
+        "title": "La tormenta perfecta",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2024/10/14/670d5a2633434.r_d.274-303-0.jpeg",
+        "tags": [
+            "innova"
+        ],
+        "link": "https://www.diariodeleon.es/monograficos/innova/241015/1646127/tormenta-perfecta.html",
+        "date": "2024-10-15 01:30:00",
+        "sentiment_score": -0.7306822929531336
+    },
+    {
+        "title": "La escasez de vivienda puede ahogar la inmigración y repercutir en el crecimiento",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/14/670ce66d6d8ef.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/241015/1646073/escasez-vivienda-ahogar-inmigracion-repercutir-crecimiento.html",
+        "date": "2024-10-15 01:30:00",
+        "sentiment_score": -0.7659304365515709
+    },
+    {
+        "title": "La vieja guardia de ERC se moviliza para evitar que Junqueras retome el poder",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/4ce316cc7fd5774b199d2496dc8a200b/crop/388x85/2844x1722/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/14/17289331195418.jpg",
+        "tags": [
+            "oriol junqueras",
+            "erc",
+            "carles puigdemont",
+            "junts per catalunya",
+            "artículos cristina rubio",
+            "marta rovira"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2024/10/15/670d6d9ffdddff562c8b45ab.html",
+        "date": "2024-10-15 01:00:27",
+        "sentiment_score": -0.8213592357933521
+    },
+    {
+        "title": "Aria, el invento de 5 jóvenes españoles que hace más cómodo y fácil el tratamiento de la apnea del sueño en casa",
+        "image_url": "https://s1.elespanol.com/2024/10/09/omicrono/tecnologia/892171001_249859251_1706x960.jpg?contentId=ESPIMA20241009_0227",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20241015/aria-invento-jovenes-espanoles-hace-comodo-facil-tratamiento-apnea-sueno-casa/891660899_0.html",
+        "date": "2024-10-15 00:31:04",
+        "sentiment_score": 0.3226011395454407
     }
 ];
