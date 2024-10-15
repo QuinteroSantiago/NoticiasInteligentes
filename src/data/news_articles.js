@@ -1,143 +1,5 @@
 export default [
     {
-        "title": "Hombres armados atacan una mina de carbón con granadas y cohetes y matan a 20 personas en Pakistán",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/mina-archivo-reuters-knXB-U603184524768lQ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hombres-armados-atacan-mina-carbon-granadas-cohetes-20241011075720-nt.html",
-        "date": "2024-10-11 06:11:03",
-        "sentiment_score": -0.6639522239565849
-    },
-    {
-        "title": "El desfile militar de Illa y la minoría indepe",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/11/primeras-planas/892670733_13571131_1706x960.jpg?contentId=ESPIMA20241011_0009",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241011/el-desfile-militar-de-illa-minoria-indepe/892660729_0.html",
-        "date": "2024-10-11 06:11:43",
-        "sentiment_score": -0.5610357448458672
-    },
-    {
-        "title": "Horario y dónde ver en directo el Sorteo Extraordinario del Día de la Hispanidad de la Lotería Nacional",
-        "image_url": "https://okdiario.com/img/2024/10/10/horario-y-donde-ver-en-directo-el-sorteo-extraordinario-del-dia-de-la-hispanidad-de-la-loteria-nacional.jpg",
-        "tags": [
-            "fiestas",
-            "día de la hispanidad",
-            "fiesta nacional",
-            "lotería nacional",
-            "lotería",
-            "loterías"
-        ],
-        "link": "https://okdiario.com/loteria/horario-donde-ver-directo-sorteo-extraordinario-del-dia-hispanidad-loteria-nacional-13617569",
-        "date": "2024-10-11 06:00:29",
-        "sentiment_score": 0.16754387319087982
-    },
-    {
-        "title": "Este es el dinero público que se gasta en el desfile militar del Día de la Hispanidad, 12 de octubre",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/10/06/5269AA29-98BC-4E0A-ABC3-CDCD284A1640/96.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "españa",
-            "home la razón",
-            "defensa"
-        ],
-        "link": "https://www.larazon.es/espana/defensa/este-dinero-publico-que-gasta-desfile-militar-dia-hispanidad-12-octubre_202410116708bef6afcb530001e4e094.html",
-        "date": "2024-10-11 06:00:22",
-        "sentiment_score": 0.17622245103120804
-    },
-    {
-        "title": "Del restaurante más acogedor de Badajoz al ballet de la temporada: todos los planes de Magas",
-        "image_url": "https://s1.elespanol.com/2024/10/10/mujer/estilo-vida/892420930_249887535_1706x960.png?contentId=ESPIMA20241010_0181",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/estilo-vida/20241011/restaurante-acogedor-badajoz-ballet-temporada-planes-magas/892161119_0.html",
-        "date": "2024-10-11 05:54:57",
-        "sentiment_score": 0.5428422894328833
-    },
-    {
-        "title": "Joaquín Velasco Martín, una de las primeras calles que vertebró Huerta del Rey",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/09/polideportivo-k34D-U2201406044443ps-650x455@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/el-cronista/joaquin-velasco-martin-primeras-calles-vertebro-huerta-20241011073811-nt.html",
-        "date": "2024-10-11 05:42:42",
-        "sentiment_score": -0.057114455848932266
-    },
-    {
-        "title": "¿Perdonar o no perdonar? ¿Es esa la cuestión?",
-        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/10/Captura-de-pantalla-2024-10-10-200015.png",
-        "tags": [
-            "columnista",
-            "opinión"
-        ],
-        "link": "https://www.elnacional.com/opinion/perdonar-o-no-perdonar-es-esa-la-cuestion/",
-        "date": "2024-10-11 05:16:53",
-        "sentiment_score": -0.48297908902168274
-    },
-    {
-        "title": "Abre sobre el mar de Barcelona el nuevo restaurante de los Hermanos Torres apto para todos los públicos",
-        "image_url": "https://static1.ara.cat/clip/6813d232-7c80-4c9e-9b8d-e61e3f26a54c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/abre-mar-barcelona-nuevo-restaurante-hermanos-torres-apto-publicos_1_5167184.html",
-        "date": "2024-10-11 06:22:13",
-        "sentiment_score": 0.1156771183013916
-    },
-    {
-        "title": "David Bote (FMC) insta a que la ampliación del AMB sea \"más allá\" de las necesidades de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/11/vivir-en-barcelona/892670744_13571450_1706x960.jpg?contentId=ESPIMA20241011_0020",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20241011/david-bote-fmc-insta-que-la-ampliacion-del-amb-sea-mas-alla-de-las-necesidades-barcelona/892660730_0.html",
-        "date": "2024-10-11 06:22:01",
-        "sentiment_score": 0.6380666010081768
-    },
-    {
-        "title": "El pueblo que inspiró a Gaudí para hacer una de sus obras más conocidas: visita imperdible",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/10/vida/892420839_13566404_1706x960.jpg?contentId=ESPIMA20241010_0090",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/historia/20241011/pueblo-inspiro-gaudi-obras-conocidas-visita-imperdible/892410813_0.html",
-        "date": "2024-10-11 06:11:32",
-        "sentiment_score": -0.5521523058414459
-    },
-    {
-        "title": "El primer 12-O sin auto ultra en Barcelona",
-        "image_url": "https://static1.ara.cat/clip/e764eadd-c4a6-491b-936c-2b8a21a39968_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/misc/12-auto-ultra-barcelona_1_5167180.html",
-        "date": "2024-10-11 06:04:51",
-        "sentiment_score": -0.7832672484219074
-    },
-    {
-        "title": "Topar el precio del alquiler",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7266265e-5c81-4c0b-b463-ce11222668a5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/mesa-de-redaccion/2024/10/11/topar-precio-alquiler-8795010.html",
-        "date": "2024-10-11 06:03:53",
-        "sentiment_score": -0.3088320791721344
-    },
-    {
-        "title": "Dra. Lara Cantarero, bióloga celular: \"Aquí tengo la oportunidad de investigar al lado del paciente\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d201663a-ced8-484b-8ea8-cb21f359d637_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/sociedad/2024/10/11/dra-lara-cantarero-biologa-celular-109187068.html",
-        "date": "2024-10-11 06:00:50",
-        "sentiment_score": -0.0018371790647506714
-    },
-    {
         "title": "La ONU dice que no entró comida en el norte de Gaza desde principios de octubre, poniendo a un millón de personas en riesgo de hambruna",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765519-hambruna-gaza.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -5971,5 +5833,548 @@ export default [
         "link": "https://www.elindependiente.com/economia/2024/10/14/comunidad-autonoma-mas-barato-comprar-vivienda/",
         "date": "2024-10-14 16:51:53",
         "sentiment_score": -0.686398608610034
+    },
+    {
+        "title": "CNN obtiene un vistazo exclusivo a los preparativos para el traslado de los pandas desde China",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "estados unidos noticias",
+            "panda",
+            "china",
+            "animales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pandas-china-traslado-washington-trax/",
+        "date": "2024-10-14 22:07:17",
+        "sentiment_score": 0.25363921374082565
+    },
+    {
+        "title": "CNN obtiene un vistazo exclusivo a los preparativos para el traslado de los pandas desde China",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pandas-china-traslado-washington-trax",
+        "date": "2024-10-14 22:07:17",
+        "sentiment_score": 0.46867483109235764
+    },
+    {
+        "title": "Imágenes del \"cometa del siglo\" que no regresará hasta dentro de 80.000 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "xpress",
+            "ciencia",
+            "cometa del siglo",
+            "fast – general",
+            "nasa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cometa-del-siglo-tsuchinshan-orix/",
+        "date": "2024-10-14 22:02:53",
+        "sentiment_score": -0.036551058292388916
+    },
+    {
+        "title": "Imágenes del \"cometa del siglo\" que no regresará hasta dentro de 80.000 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cometa-del-siglo-tsuchinshan-orix",
+        "date": "2024-10-14 22:02:53",
+        "sentiment_score": -0.25131329894065857
+    },
+    {
+        "title": "El mortal ataque con drones de Hezbollah expone las debilidades de Israel",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/Ataque-de-Hezbollah.jpg?quality=100&strip=info",
+        "tags": [
+            "hezbollah",
+            "medio oriente",
+            "guerra de israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/14/mortal-ataque-con-drones-hezbollah-debilidades-israel-trax/",
+        "date": "2024-10-14 22:00:12",
+        "sentiment_score": -0.7159569710493088
+    },
+    {
+        "title": "Por qué tantas estaciones de servicio en Florida aún no tienen combustible",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766601-gettyimages-2178022976.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracán",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/14/estaciones-sin-gasolina-combustible-florida-trax/",
+        "date": "2024-10-14 21:32:25",
+        "sentiment_score": -0.8444608636200428
+    },
+    {
+        "title": "Trump sugiere una acción militar contra el “enemigo interno” durante una entrevista en Fox News",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756173-trump-ciudades-santuario.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-accion-militar-elecciones-usa-ush-trax",
+        "date": "2024-10-14 21:31:25",
+        "sentiment_score": -0.28219173848629
+    },
+    {
+        "title": "Trump sugiere una acción militar contra el “enemigo interno” durante una entrevista en Fox News",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1756173-trump-ciudades-santuario.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "videos digitales",
+            "noticias de donald trump",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-accion-militar-elecciones-usa-ush-trax/",
+        "date": "2024-10-14 21:31:25",
+        "sentiment_score": -0.7855909615755081
+    },
+    {
+        "title": "Las 3 noticias destacadas de EE.UU. del 14 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177574846.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-14-de-octubre-2024-dusa-tarde-fast",
+        "date": "2024-10-14 21:23:14",
+        "sentiment_score": 0.09109324216842651
+    },
+    {
+        "title": "Condenan a prisión a exembajador de España en Venezuela por delito contra la Hacienda Pública",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/191a16035e40d046c6cfae6db9fc29253e788adew.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/condenan-prision-raul-morodo-exembajador-espana-venezuela-orix/",
+        "date": "2024-10-14 21:07:06",
+        "sentiment_score": -0.819991085678339
+    },
+    {
+        "title": "Medio ambiente y entorno próximo como factores de riesgo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/10/15/AdobeStock_806845281-Rc7cFLEsGKej13gnftlXPGO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-sobrino-toro-medio-ambiente-entorno-proximo-factores-riesgo-20241015215410-nts.html",
+        "date": "2024-10-14 19:54:10",
+        "sentiment_score": -0.18005426228046417
+    },
+    {
+        "title": "Más de Tres Mil",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/10/14/policia-nacional-kPGH-U2201499725937S7E-170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-tres-mil-20241015170048-nts.html",
+        "date": "2024-10-14 19:54:09",
+        "sentiment_score": -0.10220995545387268
+    },
+    {
+        "title": "El trastero de las balas perdidas",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/09/gomagrande-U78052380087fPh-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/juan-j-borrero-trastero-balas-perdidas-20241015171132-nts.html",
+        "date": "2024-10-14 19:54:08",
+        "sentiment_score": -0.23484274744987488
+    },
+    {
+        "title": "El VAR de Colón",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/15/1487305755-RVahuIGthBo9ouqrrLV2d3N-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-var-colon-20241015215405-nts.html",
+        "date": "2024-10-14 19:54:06",
+        "sentiment_score": -0.13058364391326904
+    },
+    {
+        "title": "Una lección de vida",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/10/14/241015TerceraMayor.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jaime-mayor-oreja-leccion-vida-20241015153023-nt.html",
+        "date": "2024-10-14 19:29:16",
+        "sentiment_score": -0.15131109952926636
+    },
+    {
+        "title": "El veneno de la vanidad",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/13/comboorcas-kg7H--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-veneno-vanidad-20241015110833-nt.html",
+        "date": "2024-10-14 19:14:57",
+        "sentiment_score": -0.17971059679985046
+    },
+    {
+        "title": "Blackstone invertirá 7.500 millones en un centro de datos en Zaragoza y creará 1.400 empleos directos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/14/azcon-blackstone.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/blackstone-invertira-7500-millones-centro-datos-zaragoza-20241014211401-nt.html",
+        "date": "2024-10-14 19:14:02",
+        "sentiment_score": 0.0018724799156188965
+    },
+    {
+        "title": "Setenta días nos quedan",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/13/comboorcas-kg7H--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-lillo-setenta-dias-quedan-20241015122623-nt.html",
+        "date": "2024-10-14 19:13:26",
+        "sentiment_score": -0.060830503702163696
+    },
+    {
+        "title": "Decadencia imparable",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2024/10/13/IMG_0454-kXWH--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-garcia-cuartango-decadencia-imparable-20241015142531-nt.html",
+        "date": "2024-10-14 19:09:50",
+        "sentiment_score": -0.18829169869422913
+    },
+    {
+        "title": "Yolanda Díaz rechaza el bono de alquiler anunciado por Pedro Sánchez y asegura que la solución no está en dar «dinero a los rentistas»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/14/yolanda-diaz-kLFF-U603199548913KHI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/yolanda-diaz-rechaza-bono-alquiler-anunciado-pedro-20241014205945-nt.html",
+        "date": "2024-10-14 19:07:47",
+        "sentiment_score": -0.03491172194480896
+    },
+    {
+        "title": "Rovira acusa a Junqueras de intentar pactar con el PSC en Barcelona a sus espaldas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Q5GI4RDO6H6Z7RXO4CBXLTEBEY.jpg?auth=d8105ddfee20fb650d94c31a708c9d614e9026304ea6ad2bf215297d2bf63d38&width=1200",
+        "tags": [
+            "marta rovira i vergés",
+            "erc",
+            "partidos políticos",
+            "cataluña",
+            "oriol junqueras"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-14/rovira-acusa-a-junqueras-de-intentar-pactar-con-el-psc-en-barcelona-a-sus-espaldas.html",
+        "date": "2024-10-14 19:13:23",
+        "sentiment_score": 0.37435709685087204
+    },
+    {
+        "title": "Cae una asociación que convencía a sus seguidores para que compraran armas para un nuevo orden mundial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YXBZTJA6DJAUXALGJUEJCTKLCI.jpg?auth=2221a36b60d0e3ad5240cf97c66c79515168f6c6c4200fd185f3d714480d98bf&width=1200",
+        "tags": [
+            "guardia civil",
+            "españa",
+            "jaén",
+            "córdoba",
+            "juzgados",
+            "estafas",
+            "armas de fuego",
+            "pontevedra"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/cae-una-asociacion-que-convencia-a-sus-seguidores-para-que-compraran-armas-para-un-nuevo-orden-mundial.html",
+        "date": "2024-10-14 19:03:56",
+        "sentiment_score": -0.7383250389248133
+    },
+    {
+        "title": "Sumar se desmarca del bono de alquiler anunciado por Sánchez tras la protesta por la vivienda",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2V4KNDGSV2PA5CMC3WTS7JJQAQ.jpg?auth=bc6c2babc93d82c3eb499b4d5eb712cd06dcd541404c1b56f029a6dc0709f64c&width=1200",
+        "tags": [
+            "españa",
+            "vox",
+            "izquierda unida",
+            "sumar",
+            "podemos",
+            "psoe",
+            "vivienda"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/sumar-se-desmarca-del-bono-de-alquiler-anunciado-por-sanchez-tras-la-protesta-por-la-vivienda.html",
+        "date": "2024-10-14 18:06:59",
+        "sentiment_score": -0.7477948032319546
+    },
+    {
+        "title": "Marco Sansavini, presidente de Iberia: “España puede ser un productor mundial de carburante sostenible”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UI6CHNS4TVCL3MPTIJDKYA3D6Y.JPG?auth=bce07f63c14528fd93db2ecff79d5946d10c879debf6435b8cc4a3b634118b7c&width=1200",
+        "tags": [
+            "aeropuerto madrid barajas",
+            "aerolíneas",
+            "air europa",
+            "aeropuertos",
+            "aeropuerto el prat",
+            "iag",
+            "iberia",
+            "world in progress"
+        ],
+        "link": "https://elpais.com/internacional/2024-10-14/marco-sansavini-presidente-de-iberia-espana-puede-ser-un-productor-mundial-de-carburante-sostenible.html",
+        "date": "2024-10-14 17:59:54",
+        "sentiment_score": -0.6623684838414192
+    },
+    {
+        "title": "El 080 Barcelona Fashion arranca una edición que apuesta por la internacionalización a través de influencers",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/L3ONNCV7D5DVZB5JPTSB3MLZQY.jpg?auth=d813f6a186941a032c3279e786715f492b5f7c5966cb7a2d52c520520faa7bea&width=1200",
+        "tags": [
+            "desfiles modelos",
+            "modelos",
+            "barcelona",
+            "diseñadores moda",
+            "diseñadores",
+            "cataluña",
+            "influencers",
+            "empresas",
+            "industria",
+            "marcas registradas",
+            "revistas",
+            "moda"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-14/el-080-barcelona-fashion-arranca-una-edicion-que-apuesta-por-la-internacionalizacion-a-traves-de-influencers.html",
+        "date": "2024-10-14 17:29:51",
+        "sentiment_score": 0.3968256935477257
+    },
+    {
+        "title": "Castilla-La Mancha pide explicaciones sobre el posible uso del aeropuerto de Ciudad Real para albergar inmigrantes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/STKNZKPSAZBKXG77VOPJR3QOUI.jpg?auth=416cd21dfe8c833b80cd1a822f3dd4eb4e252b1b33cd3161fc197f3f4bc19bd9&width=1200",
+        "tags": [
+            "españa",
+            "ciudad real",
+            "ministerio de inclusión, seguridad social y migraciones",
+            "aeropuertos",
+            "canarias",
+            "cayucos",
+            "migración",
+            "castilla-la mancha"
+        ],
+        "link": "https://elpais.com/espana/2024-10-14/castilla-la-mancha-pide-explicaciones-sobre-el-posible-uso-del-aeropuerto-de-ciudad-real-para-albergar-inmigrantes.html",
+        "date": "2024-10-14 17:20:56",
+        "sentiment_score": -0.8773596081882715
+    },
+    {
+        "title": "Fernando “Bocha” Batista: “Hoy jugar contra Venezuela no es fácil”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/5e246d6c05a688096f2e716b20d3c2fab8f76ad8w-e1728942228396.jpg",
+        "tags": [
+            "selección venezuela",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/10/14/fernando-bocha-batista-hoy-jugar-contra-venezuela-no-es-facil/",
+        "date": "2024-10-14 22:14:36",
+        "sentiment_score": 0.5400469303131104
+    },
+    {
+        "title": "Cristiano Ronaldo “no juega como un jugador de 39 años”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/9a20516b8befdf565848bf526fcb54c78ec7874fw-e1728941891813.jpg",
+        "tags": [
+            "cristiano ronaldo",
+            "selección portugal",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/10/14/cristiano-ronaldo-no-juega-como-un-jugador-de-39-anos/",
+        "date": "2024-10-14 22:08:43",
+        "sentiment_score": 0.21220773458480835
+    },
+    {
+        "title": "Los vídeos empiezan a dar resultado",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/10/14/portadilla-real-k5SH-U2201505099388Vr-1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/videos-empiezan-dar-resultado-20241015000820-nt.html",
+        "date": "2024-10-14 22:08:21",
+        "sentiment_score": 0.5170226693153381
+    },
+    {
+        "title": "Los robotaxis de Tesla plantean dudas sobre la seguridad de la conducción autónoma",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/gzlhbq3xaakkrhk-1440x808.png",
+        "tags": [
+            "coches",
+            "elon musk",
+            "tesla",
+            "tecnología"
+        ],
+        "link": "https://www.elindependiente.com/economia/tecnologia/2024/10/15/los-robotaxis-de-tesla-plantean-dudas-sobre-la-seguridad-de-la-conduccion-autonoma/",
+        "date": "2024-10-14 22:06:42",
+        "sentiment_score": 0.5654978305101395
+    },
+    {
+        "title": "¿Quiénes son los padres de Joselu Mato? Te contamos todo sobre su familia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/14/2024101422351674487.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-joselu-mato-contamos-todo-familia/20241015000000858418.html",
+        "date": "2024-10-14 22:00:00",
+        "sentiment_score": 0.22117295861244202
+    },
+    {
+        "title": "La reina Sofía acepta asumir más tareas de representación institucional",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/05/27/2024052708594128256.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/reina-sofia-acepta-asumir-mas-tareas-representacion-institucional/20241015000000130443.html",
+        "date": "2024-10-14 22:00:00",
+        "sentiment_score": -0.4441506415605545
+    },
+    {
+        "title": "Neymar se posiciona en el Balón de Oro: “Vinícius es un luchador, nadie lo merece más que él”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/AP22324554088028-e1728942559825.jpg",
+        "tags": [
+            "fútbol",
+            "vinicius jr.",
+            "neymar",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/10/14/neymar-se-posiciona-en-el-balon-de-oro-vinicius-es-un-luchador-nadie-lo-merece-mas-que-el/",
+        "date": "2024-10-14 21:51:21",
+        "sentiment_score": 0.8364334814250469
+    },
+    {
+        "title": "El patrimonio inmobiliario del Gobierno de Sánchez: Siete ministros son propietarios de 24 viviendas",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/06/04/AD0F5A6B-D0C0-45D5-A88F-CF1C9DF0FC05/pilar-alegria-maria-jesus-montero-oscar-puente-rueda-prensa-posterior-consejo-ministros_96.jpg?crop=4975%2C2798%2Cx0%2Cy15&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "economía",
+            "ondacero",
+            "noticias"
+        ],
+        "link": "https://www.ondacero.es/noticias/economia/patrimonio-inmobilario-gobierno-sanchez-siete-ministros-son-propietarios-24-viviendas_20241014670d8df8596dfb0001c4cd0f.html",
+        "date": "2024-10-14 21:32:40",
+        "sentiment_score": -0.38154421746730804
+    },
+    {
+        "title": "El Real Avilés, el mejor en casa entre 172 equipos",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/10/14/98875211.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/real-aviles-mejor-casa-172-equipos-20241015225825-nt.html",
+        "date": "2024-10-14 21:14:46",
+        "sentiment_score": 0.6407543011009693
+    },
+    {
+        "title": "Real Sociedad: Golazo de Óskarsson en la derrota de Islandia ante Turquía en la Nations League",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b1470100-6efc-47fd-ba92-397f9fe052e3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/10/14/real-sociedad-golazo-oskarsson-derrota-8807210.html",
+        "date": "2024-10-14 20:55:58",
+        "sentiment_score": 0.7849989347159863
+    },
+    {
+        "title": "Las oficinas ponen fin a su travesía por el desierto y elevan la contratación de espacios por encima ya de 2023",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/01a23784d646cb5b37a825ef488a980f/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/14/17289245929476.jpg",
+        "tags": [
+            "artículos maría hernández",
+            "vuelta a la oficina",
+            "inmobiliario",
+            "economía"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2024/10/15/67091322fdddff16a58b457a.html",
+        "date": "2024-10-14 22:10:19",
+        "sentiment_score": 0.435195479542017
+    },
+    {
+        "title": "Guiño de UGT a Feijóo: invita por primera vez a intervenir en el congreso confederal a un líder del PP en la oposición",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/0b88499b309ebcfa060e2cabc2d3e9e7/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/14/17289269361363.jpg",
+        "tags": [
+            "artículos carlos segovia"
+        ],
+        "link": "https://www.elmundo.es/economia/2024/10/15/670d4822e85ecea2088b4591.html",
+        "date": "2024-10-14 22:10:17",
+        "sentiment_score": -0.008504018187522888
+    },
+    {
+        "title": "El PSOE no cree que prospere la querella del PP pero avisa: \"Si quiere guerra sucia, la va a tener\"",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/europapress-6273573-presidente-gobierno-pedro-sanchez-apertura-evento-world-in-progress-grupo-1440x808.jpg",
+        "tags": [
+            "pedro sánchez",
+            "audiencia nacional",
+            "corrupción",
+            "partido popular (pp)",
+            "josé luis ábalos",
+            "partido socialista obrero español (psoe)",
+            "españa",
+            "begoña gómez",
+            "óscar puente",
+            "alberto núñez feijóo",
+            "gobierno de españa",
+            "caso koldo"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/15/el-psoe-no-cree-que-prospere-la-querella-del-pp-pero-avisa-si-quiere-guerra-sucia-la-va-a-tener/",
+        "date": "2024-10-14 22:06:21",
+        "sentiment_score": -0.15434570610523224
+    },
+    {
+        "title": "El sector del libro en España vende un 35% más que antes de la pandemia impulsado por los jóvenes",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/23/letraglobal/849925145_12831639_1706x960.jpg?contentId=ESPIMA20240423_0146",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20241015/el-sector-libro-espana-pandemia-impulsado-jovenes/893410741_0.html",
+        "date": "2024-10-14 22:00:00",
+        "sentiment_score": 0.432644784450531
+    },
+    {
+        "title": "Innovación y talento: las claves del éxito empresarial en tiempos de cambio",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/14/business/893420655_13580896_1706x960.jpg?contentId=ESPIMA20241014_0006",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241015/innovacion-talento-claves-exito-empresarial-tiempos-cambio/892660795_0.html",
+        "date": "2024-10-14 22:00:00",
+        "sentiment_score": 0.8244972694665194
+    },
+    {
+        "title": "EV Motors ya vale en bolsa tanto como Talgo y supera a más de 40 empresas del Continuo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/14/business/893420776_13584496_1706x960.jpg?contentId=ESPIMA20241014_0127",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241015/ev-motors-bolsa-talgo-supera-empresas-continuo/893410758_0.html",
+        "date": "2024-10-14 22:00:00",
+        "sentiment_score": 0.5983067005872726
+    },
+    {
+        "title": "Suspenden pagos en Barcelona los centros de depilación Grupo Stop",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/14/business/confidente-vip/893420772_13584378_1706x960.jpg?contentId=ESPIMA20241014_0123",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20241015/suspenden-pagos-barcelona-centros-depilacion-grupo-stop/893410753_0.html",
+        "date": "2024-10-14 22:00:00",
+        "sentiment_score": 0.16363844275474548
+    },
+    {
+        "title": "Jordi Clos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/11/business/846925430_12763740_1706x960.jpg?contentId=ESPIMA20240411_0131",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20241015/jordi-clos/893410759_0.html",
+        "date": "2024-10-14 22:00:00",
+        "sentiment_score": -0.16577522456645966
+    },
+    {
+        "title": "EV Motors, socia de la china Chery, se dispara un 20% en su salida a Bolsa",
+        "image_url": "http://www.publico.es//uploads/2024/10/14/670d2aa993f8b.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "http://www.publico.es/economia/ev-motors-socia-china-chery-dispara-20-salida-bolsa.html",
+        "date": "2024-10-14 21:58:00",
+        "sentiment_score": 0.5168671421706676
+    },
+    {
+        "title": "Londres se ríe con Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20241014/10022122/londres-rie-barcelona.html",
+        "date": "2024-10-14 21:57:44",
+        "sentiment_score": -0.8853973746299744
     }
 ];
