@@ -1,372 +1,5 @@
 export default [
     {
-        "title": "Sus hijos desaparecieron en 2021. Un hombre sabe dónde están",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-10-12-at-10-35-44-am.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "niños",
-            "desaparecidos",
-            "nueva zelandia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nueva-zelandia-hijos-thomas-callam-phillips-trax/",
-        "date": "2024-10-12 16:40:23",
-        "sentiment_score": -0.5153585039079189
-    },
-    {
-        "title": "Sus hijos desaparecieron en 2021. Un hombre sabe dónde están",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-10-12-at-10-35-44-am.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nueva-zelandia-hijos-thomas-callam-phillips-trax",
-        "date": "2024-10-12 16:40:23",
-        "sentiment_score": -0.48487265035510063
-    },
-    {
-        "title": "Alcalde boliviano rompió a llorar por los incendios que devastaron el 60% de su municipio: “El cambio climático es una realidad”",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765854-bolivia-forest-fire-smoke.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "bolivia",
-            "cambio climático"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/12/alcalde-bolivia-llorar-incendios-cambio-climatico-orix/",
-        "date": "2024-10-12 16:28:12",
-        "sentiment_score": -0.8955473527312279
-    },
-    {
-        "title": "Trump se desvía de su campaña para hacer apariciones en estados demócratas, con un mitin en Coachella",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765830-ap24285725425068.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones en estados unidos",
-            "donald trump",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/12/trump-desvio-estados-democratas-mitin-coachella-trax/",
-        "date": "2024-10-12 15:24:44",
-        "sentiment_score": -0.8241190612316132
-    },
-    {
-        "title": "Investigadores españoles confirman que los restos de Cristóbal Colón se encuentran en Sevilla",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765828-restos-de-cristobal-colon.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "cristóbal colón",
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/12/investigadores-confirman-restos-sevilla-cristobal-colon-orix/",
-        "date": "2024-10-12 14:53:09",
-        "sentiment_score": -0.025657877326011658
-    },
-    {
-        "title": "Operación Aurora",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/donald-trumpp_20241012163118-RouYDMb98OpPFgRbJKMOuYM-350x624@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/jose-m-de-areilza-operacion-aurora-20241013164327-nt.html",
-        "date": "2024-10-12 16:54:54",
-        "sentiment_score": -0.24218526482582092
-    },
-    {
-        "title": "Oficiales de reclutamiento realizaron redadas en gimnasios y restaurantes de varias ciudades de Ucrania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/12/ukraine-R5BbXLqRAu8Wf5wtbXuOweK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/oficiales-reclutamiento-realizaron-redadas-gimnasios-restaurantes-varias-20241012162446-nt.html",
-        "date": "2024-10-12 16:52:28",
-        "sentiment_score": -0.11306074261665344
-    },
-    {
-        "title": "Paul Biya, el mandatario más longevo del mundo del que no se puede hablar",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/12/CAMERUN-PRESIDENTE-RR1HIhHC6hS2TAYyOqx6RRM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/paul-biya-mandatario-longevo-mundo-puede-hablar-20241012180630-nt.html",
-        "date": "2024-10-12 16:06:31",
-        "sentiment_score": -0.21986791491508484
-    },
-    {
-        "title": "Qué es UNIFIL, la misión en la que hay 650 soldados españoles",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/11/unif-RdJgADu1eY1Ar4ufDc3TvlN-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/unifil-mision-650-soldados-espanoles-20241011174558-nt.html",
-        "date": "2024-10-12 15:59:46",
-        "sentiment_score": -0.22655096650123596
-    },
-    {
-        "title": "El PP adelanta un día su comité de dirección para abordar con “urgencia” las novedades del ‘caso Koldo’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JC6VGASVZ5A4REYXN7KUMYRWLE.jpg?auth=8a9067abd24b763ec60a1b26760f3f0abd9bfe4440f35ee101eacc70f4cb65b9&width=1200",
-        "tags": [
-            "españa",
-            "pedro sánchez",
-            "uco",
-            "josé luis ábalos",
-            "cuca gamarra",
-            "guardia civil",
-            "koldo garcía",
-            "pp",
-            "alberto núñez feijóo",
-            "caso koldo"
-        ],
-        "link": "https://elpais.com/espana/2024-10-12/el-pp-adelanta-un-dia-su-comite-de-direccion-para-abordar-con-urgencia-las-novedades-del-caso-koldo.html",
-        "date": "2024-10-12 17:00:52",
-        "sentiment_score": -0.18697373196482658
-    },
-    {
-        "title": "Muere un peatón de 23 años tras ser atropellado en la C-59 en Caldes de Montbui (Barcelona)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/K2WNAXQSJRH3FBRDBVEOEQCVA4.jpg?auth=539c7db04843548dafd93bdbdb509578e031679ed1af1d603f6bfea32e934193&width=1200",
-        "tags": [
-            "homicidio imprudente",
-            "accidentes",
-            "accidentes tráfico",
-            "cataluña",
-            "mossos d'esquadra",
-            "muertes",
-            "carreteras",
-            "policía"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-12/muere-un-peaton-de-23-anos-tras-ser-atropellado-en-la-c-59-en-caldes-de-montbui-barcelona.html",
-        "date": "2024-10-12 15:54:21",
-        "sentiment_score": -0.5296344570815563
-    },
-    {
-        "title": "La tensión entre Sánchez y Feijóo se traslada a los actos del Día de la Fiesta Nacional",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AAHFWQ4TVQYJFFCH6BK767HTXA.jpg?auth=24e657c546b123debcc1485e89cb39c750bd982275e8708ab4c1e93de2b50f33&width=1200",
-        "tags": [
-            "psoe",
-            "pp",
-            "eta",
-            "día fiesta nacional",
-            "españa",
-            "palacio real",
-            "pedro sánchez",
-            "alberto núñez feijóo",
-            "gobierno",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/2024-10-12/la-tension-entre-sanchez-y-feijoo-se-traslada-a-los-actos-del-dia-de-la-fiesta-nacional.html",
-        "date": "2024-10-12 14:56:14",
-        "sentiment_score": -0.8097855960950255
-    },
-    {
-        "title": "UGT pide a Amgevicesa mejoras para los empleados",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1110496",
-        "date": "2024-10-12 16:59:32",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Sánchez vuelve a defender su \"contundencia\" con Ábalos y llama a Feijóo y Abascal los \"Torquemadas\" de la derecha",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/732d0bc3c5cba0496c0c5ed7e639ec6957da2787-1440x808.jpg",
-        "tags": [
-            "partido popular (pp)",
-            "vox",
-            "josé luis ábalos",
-            "alberto núñez feijóo",
-            "pedro sánchez",
-            "rey felipe vi",
-            "corrupción",
-            "partido socialista obrero español (psoe)",
-            "españa"
-        ],
-        "link": "https://www.elindependiente.com/espana/2024/10/12/sanchez-vuelve-a-defender-su-contundencia-con-abalos-y-llama-a-feijoo-y-abascal-los-torquemadas-de-la-derecha/",
-        "date": "2024-10-12 16:53:22",
-        "sentiment_score": -0.6181285530328751
-    },
-    {
-        "title": "El Yeclano saca un valioso punto ante el filial del Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2967206a-7585-42f9-9678-a0976a85f5e9_16-9-aspect-ratio_default_0_x392y494.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2024/10/12/yeclano-saca-valioso-punto-filial-109242403.html",
-        "date": "2024-10-12 16:49:29",
-        "sentiment_score": 0.4624767005443573
-    },
-    {
-        "title": "La princesa Leonor hace una inesperada revelación y cuenta lo que más le gusta de la Escuela Naval de Marín",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/10/12/leonor-y-los-cadetes.r_d.1507-307-0.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5643235/0/princesa-leonor-hace-inesperada-revelacion-cuenta-mas-gusta-escuela-naval-marin/",
-        "date": "2024-10-12 16:36:36",
-        "sentiment_score": 0.0104965940117836
-    },
-    {
-        "title": "El presidente de la Diputación, en la recepción de los reyes por el Día de la Fiesta Nacional",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/12/jagreyes-kPBC-U22014893304811BD-1200x840@Ideal.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/presidente-diputacion-recepcion-reyes-dia-fiesta-nacional-20241012182918-nt.html",
-        "date": "2024-10-12 16:29:19",
-        "sentiment_score": 0.04720234125852585
-    },
-    {
-        "title": "Rueda reivindica el \"orgullo\" de ser gallego dentro de España",
-        "image_url": "https://www.elidealgallego.com/images/showid/6988574",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elidealgallego.com/articulo/espana/rueda-reivindica-orgullo-gallego-dentro-espana-gallego-nuestra-mejor-forma-espanol-5029908",
-        "date": "2024-10-12 16:27:33",
-        "sentiment_score": 0.7663590349256992
-    },
-    {
-        "title": "Feijóo ve débil a Sánchez: «Jamás una trama de corrupción había estado tan cerca de Moncloa»",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/09/feijoo-techo-gasto-469x317.jpg",
-        "tags": [
-            "política",
-            "alberto núñez feijóo",
-            "pedro sánchez",
-            "la moncloa",
-            "corrupción"
-        ],
-        "link": "https://theobjective.com/espana/politica/2024-10-12/feijoo-sanchez-corrupcion-moncloa/",
-        "date": "2024-10-12 16:26:46",
-        "sentiment_score": -0.5285953283309937
-    },
-    {
-        "title": "La borrasca Berenice deja en alerta \"roja\" a Sevilla y Córdoba: intensas lluvias en el suroeste y centro peninsular",
-        "image_url": "https://album.mediaset.es/eimg/2024/10/12/la-borrasca-berenice-provoca-que-se-active-la-alerta-roja-en-sevilla-y-cordoba_d763.jpg",
-        "tags": [
-            "el tiempo"
-        ],
-        "link": "https://www.telecinco.es/noticias/el-tiempo/20241012/borrasca-berenice-alerta-roja-sevilla-cordoba_18_013702588.html",
-        "date": "2024-10-12 16:25:45",
-        "sentiment_score": -0.8452218854799867
-    },
-    {
-        "title": "La disputa política se traslada al Palacio Real en el Día de la Fiesta Nacional",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/10/12/los-reyes-y-la-princesa-de-asturias-presiden-una-recepcion-en-el-palacio-real-por-el-dia-de-la-fiesta-nacional.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2024/10/12/disputa-politica-palacio-real-dia-hispanidad-espana-1769388.html",
-        "date": "2024-10-12 16:25:06",
-        "sentiment_score": -0.8711053244769573
-    },
-    {
-        "title": "Paloma Barrientos ha estado con la Princesa Leonor tras el besamanos: así ha sido su divertida conversación",
-        "image_url": "https://album.mediaset.es/eimg/2024/10/12/plaoma_99d5.jpg",
-        "tags": [
-            "fiesta"
-        ],
-        "link": "https://www.telecinco.es/fiesta/20241012/paloma-barrientos-princesa-leonor-conversacion_18_013702779.html",
-        "date": "2024-10-12 16:23:42",
-        "sentiment_score": 0.0179777592420578
-    },
-    {
-        "title": "A prisión los ladrones que hirieron a siete policías de Terrassa durante su huida",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/11/gran-barcelona/892670745_13571479_1706x960.jpg?contentId=ESPIMA20241011_0021",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20241012/prision-los-ladrones-que-hirieron-siete-policias-de-terrassa-durante-su-huida/892910750_0.html",
-        "date": "2024-10-12 17:06:47",
-        "sentiment_score": -0.8068640138953924
-    },
-    {
-        "title": "El Team New Zealand se impone al INEOS Britannia en la primera jornada de la Copa América",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/12/vivir-en-barcelona/892920753_13578261_1706x960.png?contentId=ESPIMA20241012_0054",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241012/el-team-new-zealand-se-impone-al-ineos-britannia-en-la-primera-jornada-de-copa-america/892910748_0.html",
-        "date": "2024-10-12 16:52:21",
-        "sentiment_score": 0.5449018850922585
-    },
-    {
-        "title": "Muere Alex Salmond, ex ministro principal de Escocia, a los 69 años",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/08/20/6301049510e4b.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20241012/10016847/muere-alex-salmond-ex-primer-ministro-escocia-69-anos.html",
-        "date": "2024-10-12 16:47:25",
-        "sentiment_score": 0.20103614777326584
-    },
-    {
-        "title": "Una conductora borracha mata a un joven de 23 años en Caldes de Montbui",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/12/vida/892920752_13578232_1706x960.jpg?contentId=ESPIMA20241012_0053",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20241012/una-conductora-borracha-joven-de-caldes-montbui/892910747_0.html",
-        "date": "2024-10-12 16:46:44",
-        "sentiment_score": -0.827419700101018
-    },
-    {
-        "title": "El pequeño pueblo a 2 horas de Barcelona que es ideal para unos días de desconexión",
-        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/sant-jaume-frontanya-hombre-mochila_1600_1067.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elcierredigital.com/ocio/sant-jaume-frontanya-pueblo-barcelona",
-        "date": "2024-10-12 16:44:00",
-        "sentiment_score": -0.12715382874011993
-    },
-    {
-        "title": "Ricardo Arjona feliz por su regreso a la música",
-        "image_url": "https://primicia.com.ve/wp-content/uploads/2023/05/Ricardo-Arjona-730x524.webp",
-        "tags": [
-            "último album",
-            "ricardo arjona",
-            "placeres",
-            "música",
-            "seco"
-        ],
-        "link": "https://primicia.com.ve/placeres/ricardo-arjona-feliz-por-su-regreso-a-la-musica/",
-        "date": "2024-10-12 16:43:18",
-        "sentiment_score": 0.8572012614458799
-    },
-    {
-        "title": "Detenido un joven por arrojar a su pareja desde el andén a las vías poco antes de pasar el metro de Bilbao",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/24/66f28cee90f36.jpeg",
-        "tags": [
-            "país vasco"
-        ],
-        "link": "https://www.lavanguardia.com/local/paisvasco/20241012/10016829/detenido-joven-arrojar-pareja-anden-vias-poco-pasar-metro-bilbao.html",
-        "date": "2024-10-12 16:42:33",
-        "sentiment_score": -0.24575703218579292
-    },
-    {
-        "title": "Víctor Claver, el adiós a una leyenda del baloncesto valenciano",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bb276cca-8eee-4dd3-88d1-bbe3de9b18fc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2024/10/12/victor-claver-adios-leyenda-baloncesto-109206756.html",
-        "date": "2024-10-12 16:38:40",
-        "sentiment_score": 0.6422857195138931
-    },
-    {
-        "title": "La manifestació del 12-O punxa a Barcelona i acusa el Govern d'Illa de ser una institució \"antiespanyola\"",
-        "image_url": "http://www.publico.es//uploads/2024/10/12/670a5b9e6e3ef.jpeg",
-        "tags": [
-            "public"
-        ],
-        "link": "http://www.publico.es/public/manifestacio-12-punxa-barcelona-i-acusa-govern-d-illa-institucio-antiespanyola.html",
-        "date": "2024-10-12 16:31:00",
-        "sentiment_score": -0.012634381651878357
-    },
-    {
-        "title": "\"Voy callando bocas, que eso también me gusta\"",
-        "image_url": "https://static1.ara.cat/clip/7ced5c44-5378-4998-8485-053c35be63f8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/media/callando-bocas-gusta_128_5165372.html",
-        "date": "2024-10-12 16:30:37",
-        "sentiment_score": -0.25591815263032913
-    },
-    {
         "title": "Líderes de América Latina se pronuncian por el Día de la Raza o Día de la Resistencia Indígena",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765932-milei-sheinbaum.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -546,36 +179,6 @@ export default [
         "link": "https://www.abc.es/opinion/editorial-abc-nacion-fiesta-20241013172301-nt.html",
         "date": "2024-10-12 18:55:44",
         "sentiment_score": -0.09130655229091644
-    },
-    {
-        "title": "El gigantesco cambio de chip pendiente en las pymes",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/13/pymes-R5gpQkJkoPei4Nc8u3lBgkK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gigantesco-cambio-chip-pendiente-pymes-20241013173124-nt.html",
-        "date": "2024-10-12 17:25:19",
-        "sentiment_score": 0.06005987524986267
-    },
-    {
-        "title": "Un trabajo en equipo para acabar de dar forma a la economía circular",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/13/economiacircular-RCYMHtvftkb0dB4p4w5BRVI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trabajo-equipo-acabar-dar-forma-economia-circular-20241013131232-nt.html",
-        "date": "2024-10-12 17:24:44",
-        "sentiment_score": 0.042166441679000854
-    },
-    {
-        "title": "Una oportunidad de oro para reactivar el músculo industrial",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/13/automocion-Rcz2PioTEsrmJvgVd20aYRN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/oportunidad-oro-reactivar-musculo-industrial-20241013202615-nt.html",
-        "date": "2024-10-12 17:24:13",
-        "sentiment_score": 0.04202902317047119
     },
     {
         "title": "Prisión para un camarero de una discoteca de Lleida acusado de dos agresiones sexuales",
@@ -6814,5 +6417,524 @@ export default [
         "link": "https://www.elespanol.com/reportajes/20241016/super-lucky-nino-anos-cancer-cumple-ultimo-sueno-fan-barca-conoce-pedri/893661007_0.html",
         "date": "2024-10-16 00:37:52",
         "sentiment_score": 0.5981584787368774
+    },
+    {
+        "title": "Trump se declara \"padre de la FIV\" en un evento con una audiencia exclusivamente femenina",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767265-trump-ca3ed1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/16/trump-declaraciones-fiv-aborto-trax/",
+        "date": "2024-10-16 05:42:21",
+        "sentiment_score": -0.6862977743148804
+    },
+    {
+        "title": "Un juez suspende la norma que obligaría a los condados de Georgia a realizar el recuento manual de votos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767257-georgia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones estados unidos 2024",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/16/votos-recuento-manual-norma-georgia-trax/",
+        "date": "2024-10-16 05:34:38",
+        "sentiment_score": -0.8420128114521503
+    },
+    {
+        "title": "Trump dice que cualquier hispano o afroamericano que vote a Harris debería \"examinarse la cabeza\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767014-copia-de-foto-para-wp-2024-10-15t121322-765.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "trump",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/16/trump-hispano-afroamericano-votante-harris-trax/",
+        "date": "2024-10-16 04:57:03",
+        "sentiment_score": -0.5396314673125744
+    },
+    {
+        "title": "Marta Valiñas: El Gobierno de Venezuela viola el debido proceso de detenidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1247092785.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gobierno-viola-proceso-detenidos-venezuela-aristegui-tv-fast/",
+        "date": "2024-10-16 02:30:28",
+        "sentiment_score": -0.8755393177270889
+    },
+    {
+        "title": "Marta Valiñas: El Gobierno de Venezuela viola el debido proceso de detenidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1247092785.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gobierno-viola-proceso-detenidos-venezuela-aristegui-tv-fast",
+        "date": "2024-10-16 02:30:28",
+        "sentiment_score": -0.8818467250093818
+    },
+    {
+        "title": "Gonzalo Bernardos, muy duro con Pedro Sánchez por su actuación con la política de vivienda: «Lo advertimos muchos economistas»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/16/pedro-sanchez-gonzalo-k81-U603203915168wdE-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gonzalo-bernardos-duro-pedro-sanchez-actuacion-politica-vivienda-economistas-20241016190138-nt.html",
+        "date": "2024-10-16 06:00:02",
+        "sentiment_score": -0.1199294924736023
+    },
+    {
+        "title": "El subsidio por desempleo sube su cuantía a partir de esta fecha",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/15/sepe.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/subsidio-desempleo-sube-cuantia-partir-fecha-20241016070000-nt.html",
+        "date": "2024-10-16 05:00:00",
+        "sentiment_score": -0.0940907895565033
+    },
+    {
+        "title": "La guerra del agua del campo mexicano contra una factoría china",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/15/efe-sequia-REPz4FqkqX6cmWZiMbnyYXJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/guerra-agua-campo-mexicano-factoria-china-20241015190106-nt.html",
+        "date": "2024-10-16 04:03:04",
+        "sentiment_score": -0.10573843121528625
+    },
+    {
+        "title": "Entre fuertes protestas, Sheinbaum insiste con la elección de los jueces por voto popular",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/16/sheinbaum-ktUH-U603204937881gmE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/fuertes-protestas-sheinbaum-insiste-eleccion-jueces-voto-20241016053618-nt.html",
+        "date": "2024-10-16 03:36:18",
+        "sentiment_score": -0.08561789989471436
+    },
+    {
+        "title": "TVE examina a sus expertos",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/10/14/policia-nacional-kPGH-U2201499725937S7E-170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-lillo-tve-examina-expertos-20241016041608-nt.html",
+        "date": "2024-10-16 02:16:17",
+        "sentiment_score": -0.1481631100177765
+    },
+    {
+        "title": "A la espera de la réplica israelí, misión fallida de Unifil",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/15/unifil-libano-RMqjCqOpwdClGdsDMg64ZWO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/espera-replica-israeli-mision-fallida-unifil-20241015194103-nt.html",
+        "date": "2024-10-16 02:13:51",
+        "sentiment_score": -0.19590792059898376
+    },
+    {
+        "title": "Última hora de la actualidad política, en directo | Las últimas revelaciones del ‘caso Koldo’ centran la sesión de control al Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3OMJJXC3PJARHBIZE4M2RSP62E.jpg?auth=dd6c81773f021b956e23c3e1f67b1c20d69618d6d3314cb1ced78338ac64006c&width=1200",
+        "tags": [
+            "congreso diputados",
+            "comunidades autónomas",
+            "psoe",
+            "sumar",
+            "gobierno de coalición",
+            "senado",
+            "xv legislatura españa",
+            "españa",
+            "gobierno de españa",
+            "partidos políticos",
+            "gobierno",
+            "pp",
+            "política",
+            "vox",
+            "legislaturas políticas"
+        ],
+        "link": "https://elpais.com/espana/2024-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
+        "date": "2024-10-16 06:05:20",
+        "sentiment_score": -0.10143419355154037
+    },
+    {
+        "title": "La muerte silenciosa de Ana en un piso del centro de Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6BHHPMZBQJEVDL22FVOCQ7MDFM.jpeg?auth=2888dfe956cbf3cde9be91e2c1d2704cbf7be130d8662d8c4e638eed75092057&width=1200",
+        "tags": [
+            "investigación policial",
+            "mujeres",
+            "comunidad de madrid",
+            "policía",
+            "madrid",
+            "sucesos",
+            "asesinatos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-16/la-muerte-silenciosa-de-ana-en-un-piso-del-centro-de-madrid.html",
+        "date": "2024-10-16 05:21:56",
+        "sentiment_score": -0.6565911769866943
+    },
+    {
+        "title": "El mapa de la pobreza laboral en España: Andalucía triplica a Navarra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H272TTNJVJA7TPMTNIJNEIEZUY.jpg?auth=8e0bee23280f18da2d8de6702f83a100ba12c91beac20f2b8b9aad471354a61f&width=1200",
+        "tags": [
+            "mercado laboral",
+            "migración",
+            "inmigración",
+            "pobreza",
+            "españa vacía",
+            "trabajo",
+            "precariedad laboral",
+            "economía",
+            "trabajo doméstico"
+        ],
+        "link": "https://elpais.com/economia/2024-10-16/el-mapa-de-la-pobreza-laboral-en-espana-andalucia-triplica-a-navarra.html",
+        "date": "2024-10-16 03:45:00",
+        "sentiment_score": -0.7821381911635399
+    },
+    {
+        "title": "Gobierno y Junts negocian en medio de la ofensiva del PP por la corrupción y descartan la censura",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DPJTAAYJXBA7LO6MGLXRKXESII.jpg?auth=cf5913178bed72b12b36fb10e77c01ef8fc2001b055c5499887849080ea11005&width=1200",
+        "tags": [
+            "política",
+            "psoe",
+            "españa",
+            "presupuestos generales estado",
+            "gobierno",
+            "congreso diputados",
+            "juntsxcat",
+            "caso koldo",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2024-10-16/gobierno-y-junts-negocian-en-medio-de-la-ofensiva-del-pp-por-la-corrupcion-y-descartan-la-censura.html",
+        "date": "2024-10-16 03:40:00",
+        "sentiment_score": -0.262956365942955
+    },
+    {
+        "title": "Armas de guerra y abandono en las Tres Mil Viviendas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QQJ5WYVBAZH37MJJMWVDPDXP4Q.jpg?auth=a80c1e7a43165a250dde8b2b884be11eddd2c8e9f57300ef4be52b72a5a6f85d&width=1200",
+        "tags": [
+            "andalucía",
+            "tiroteos",
+            "ayuntamiento sevilla",
+            "policía nacional",
+            "drogas",
+            "narcopisos",
+            "españa",
+            "pobreza",
+            "josé luis sanz ruiz (pp)",
+            "seguridad personal"
+        ],
+        "link": "https://elpais.com/espana/2024-10-16/armas-de-guerra-y-abandono-en-las-tres-mil-viviendas.html",
+        "date": "2024-10-16 03:40:00",
+        "sentiment_score": -0.8078203108161688
+    },
+    {
+        "title": "La condena a Zaplana pone fin a una era de poder impune",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZB6JHI63A27F26DIGVENWNTRKQ.jpg?auth=5cd4218bed22571f7b19e51487fbb1ffd93ac6b3d98c7936f083c6406f4ec73d&width=1200",
+        "tags": [
+            "prevaricación",
+            "blanqueo dinero",
+            "blanqueo capitales",
+            "corrupción",
+            "comunidad valenciana",
+            "cohecho",
+            "eduardo zaplana",
+            "caso erial",
+            "sentencias",
+            "generalitat valenciana",
+            "corrupción política",
+            "sentencias condenatorias",
+            "tribunales"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-16/la-condena-a-zaplana-pone-fin-a-una-era-de-poder-impune.html",
+        "date": "2024-10-16 03:40:00",
+        "sentiment_score": -0.4859512746334076
+    },
+    {
+        "title": "El vídeo ‘robado’ a Bendodo socava la estrategia del PP de dar por acorralado a Sánchez",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5ZTZO5Q2MNCLVIKNDJOXURIQ6I.jpeg?auth=0b5ffa72c7672fef323627b73c7e950850993a70efc59623529b519cb155d36c&width=1200",
+        "tags": [
+            "psoe",
+            "españa",
+            "presupuestos generales estado",
+            "elías bendodo",
+            "partidos políticos",
+            "pp",
+            "senado",
+            "juntsxcat",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2024-10-16/el-video-robado-a-bendodo-socava-la-estrategia-del-pp-de-dar-por-acorralado-a-sanchez.html",
+        "date": "2024-10-16 03:40:00",
+        "sentiment_score": -0.35749056935310364
+    },
+    {
+        "title": "¿Hay una memoria democrática de la Guardia Civil?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4URUM3DC2JB6RKFSNGRQSGWKBI.jpg?auth=c7a7a6b2790b0f3f2e695c755f23f009ab39b87e3a410f0b5cc458917b17dcd7&width=1200",
+        "tags": [
+            "militares carrera",
+            "historia",
+            "guerra civil",
+            "guerra civil española",
+            "cataluña",
+            "república",
+            "francisco franco",
+            "guardia civil"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-16/hay-una-memoria-democratica-de-la-guardia-civil.html",
+        "date": "2024-10-16 03:15:00",
+        "sentiment_score": -0.8206092044711113
+    },
+    {
+        "title": "‘Magobio’, el podcast de universitarios que hablan de su salud mental a sus compañeros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BWWW2G4ANZFFHOKYD3CF62Y4IY.JPG?auth=226530b3b5823bea489a8602ad8ef1824b27f2173d4364cd40705e9c4754d187&width=1200",
+        "tags": [
+            "bulimia",
+            "jóvenes",
+            "trastornos alimenticios",
+            "comunidad valenciana",
+            "upv",
+            "enfermedades mentales",
+            "podcast",
+            "ansiedad",
+            "trastornos compulsivos",
+            "valencia",
+            "depresión",
+            "anorexia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-16/magobio-el-podcast-de-universitarios-que-hablan-de-su-salud-mental-a-sus-companeros.html",
+        "date": "2024-10-16 03:15:00",
+        "sentiment_score": 0.32003116607666016
+    },
+    {
+        "title": "“Contraviene la legislación estatal” y “carece de competencia”: los informes del Consejo de Estado contra las leyes LGTBI de Ayuso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2DWLHVW7VVFI3NHHJXWXOGMHQQ.jpg?auth=15a563e7c894ba1982063358adda134786bb71667c3782d4166372a692fa4290&width=1200",
+        "tags": [
+            "transexuales",
+            "gays",
+            "tribunal constitucional",
+            "recursos judiciales",
+            "comunidad lgtbiq",
+            "comunidad de madrid",
+            "homosexualidad",
+            "gobierno comunidad de madrid",
+            "ministerio de igualdad",
+            "defensor pueblo",
+            "recurso inconstitucionalidad",
+            "lgtbifobia",
+            "justicia",
+            "transexualidad",
+            "gobierno de españa",
+            "pedro sánchez",
+            "menores",
+            "pp madrid",
+            "madrid",
+            "competencias autonómicas",
+            "conflictos políticos",
+            "lesbianas",
+            "isabel díaz ayuso",
+            "homofobia",
+            "asamblea madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-16/contraviene-la-legislacion-estatal-y-carece-de-competencia-los-informes-del-consejo-de-estado-contra-las-leyes-lgtbi-de-ayuso.html",
+        "date": "2024-10-16 03:00:00",
+        "sentiment_score": -0.4085293747484684
+    },
+    {
+        "title": "Lorenzo Caprile aterriza en la Sala Canal de Isabel II: un viaje desde su corazón hasta su cabeza",
+        "image_url": "https://s1.elespanol.com/2024/10/15/mujer/protagonistas/893671404_250032290_1706x960.jpg?contentId=ESPIMA20241015_0780",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/moda/20241016/lorenzo-caprile-aterriza-sala-canal-isabel-ii-viaje-corazon-cabeza/893661158_0.html",
+        "date": "2024-10-16 06:16:27",
+        "sentiment_score": 0.8265493903309107
+    },
+    {
+        "title": "José María Salmerón hizo campeón al Sanse",
+        "image_url": "https://images.ficheroslavoz.com/bb/bbf5a331-ee03-4877-b4d4-059ce37525c0.jpg?crop=1750%2C986&expires=1760595209&height=1070&token=r8s2YBIlxNMNrFaxVRuwNEJi31QPr8FPxgLfz63_1_Q&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/281755/jose-maria-salmeron-hizo-campeon-al-sanse",
+        "date": "2024-10-16 06:12:19",
+        "sentiment_score": -0.0979083776473999
+    },
+    {
+        "title": "El Corte Inglés apuesta por la música, la cultura y sus artistas",
+        "image_url": "https://dirigentesdigital.com/wp-content/uploads/2024/10/el-corte-ingles-musica-artistas.jpg",
+        "tags": [
+            "lifestyle",
+            "música",
+            "el corte inglés",
+            "cultura"
+        ],
+        "link": "https://dirigentesdigital.com/lifestyle/el-corte-ingles-apuesta-por-musica-cultura-artistas/",
+        "date": "2024-10-16 06:00:00",
+        "sentiment_score": 0.19016596674919128
+    },
+    {
+        "title": "Ni en Madrid ni en Barcelona: el bono del alquiler del Gobierno no es apto para todos los jóvenes",
+        "image_url": "https://s1.elespanol.com/2024/10/05/invertia/economia/macroeconomia/891170955_249769367_1706x960.png?contentId=ESPIMA20241005_0081",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20241016/madrid-barcelona-bono-alquiler-gobierno-no-apto-jovenes/893661058_0.html",
+        "date": "2024-10-16 05:48:08",
+        "sentiment_score": 0.26319417357444763
+    },
+    {
+        "title": "El Gobierno de Gaza exige la apertura \"inmediata\" de un paso para \"salvar\" el sistema de salud en el norte",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241016072104_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-gobierno-gaza-exige-apertura-inmediata-paso-salvar-sistema-salud-norte-20241016072104.html",
+        "date": "2024-10-16 05:21:04",
+        "sentiment_score": -0.4203673303127289
+    },
+    {
+        "title": "La princesa Leonor nos pone al día sobre su vida en Marín: 'Lo mejor son mis compañeros'",
+        "image_url": "https://www.hola.com/horizon/landscape/04f2ab4cc730-u566459198.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/realeza/casa_espanola/20241016724159/princesa-leonor-cuenta-como-es-vida-marin/",
+        "date": "2024-10-16 05:15:29",
+        "sentiment_score": 0.37720155715942383
+    },
+    {
+        "title": "¿Por qué esta máscara de pestañas es top ventas en Amazon?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6QB6JLOUYNA25G4OMLUTR6IQAM.png?auth=f7270b958d375824262e28d4a5d930d62fb9ee02eb7c160a6a287eeaecc646a1&width=1200",
+        "tags": [
+            "mujeres",
+            "amazon",
+            "maquillaje",
+            "comercio electrónico",
+            "mascara pestanas",
+            "maquillaje ojos",
+            "belleza"
+        ],
+        "link": "https://elpais.com/escaparate/belleza/2024-10-16/por-que-esta-mascara-de-pestanas-es-top-ventas-en-amazon.html",
+        "date": "2024-10-16 05:15:00",
+        "sentiment_score": 0.13738953694701195
+    },
+    {
+        "title": "El Madrid y el ‘nuevo’ Bernabéu: ¿y si transformar los estadios en gallinas de los huevos de oro no fuera tan fácil?",
+        "image_url": "https://images.theconversation.com/files/625574/original/file-20241014-16-1hv37l.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&rect=0%2C0%2C4092%2C2039&w=496",
+        "tags": [
+            "top"
+        ],
+        "link": "https://theconversation.com/el-madrid-y-el-nuevo-bernabeu-y-si-transformar-los-estadios-en-gallinas-de-los-huevos-de-oro-no-fuera-tan-facil-241212",
+        "date": "2024-10-16 05:07:31",
+        "sentiment_score": 0.302867591381073
+    },
+    {
+        "title": "El temido fentanilo llega a España",
+        "image_url": "https://static.grupojoly.com/clip/8f555f0a-b2de-4eb3-998e-e9a3387757bf_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodejerez.es/noticias-provincia-cadiz/temido-fentanilo-llega-espana_0_2002575300.html",
+        "date": "2024-10-16 05:01:00",
+        "sentiment_score": -0.8814279362559319
+    },
+    {
+        "title": "‘La Revuelta’ pierde espectadores al retrasar su horario por el fútbol pero gana en el 'prime time'",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/16/670f55f690173.png",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.lavanguardia.com/television/20241016/10025598/revuelta-pierde-espectadores-causa-futbol-impone-prime-time.html",
+        "date": "2024-10-16 06:30:32",
+        "sentiment_score": 0.48691726103425026
+    },
+    {
+        "title": "Así es la nueva avenida de la Pineda de Castelldefels: sin carriles bici y doble sentido de circulación",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/16/gran-barcelona/893920607_13590123_1706x960.jpg?contentId=ESPIMA20241016_0008",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20241016/empiezan-las-obras-de-dos-nuevos-carriles-bici-en-la-avenida-pineda-castelldefels/893910607_0.html",
+        "date": "2024-10-16 06:26:54",
+        "sentiment_score": 0.33016955852508545
+    },
+    {
+        "title": "Estos restaurantes de Barcelona se han incorporado a la guía Michelin... aunque no tienen estrella",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e9e81f7-b7e6-4e7d-a05a-90f63aea2e57_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241016/restaurantes-barcelona-guia-michelin-recomendados-109333988",
+        "date": "2024-10-16 06:16:26",
+        "sentiment_score": 0.04432526230812073
+    },
+    {
+        "title": "La neurocientífica Ana Ibáñez tiene las claves para reducir el estrés: \"La gente va como pollo sin cabeza\"",
+        "image_url": "https://s1.elespanol.com/2024/10/14/mujer/protagonistas/893421420_250005206_1706x960.jpg?contentId=ESPIMA20241014_0771",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241016/neurocientifica-ana-ibanez-claves-reducir-estres-gente-va-pollo-sin-cabeza/893411174_0.html",
+        "date": "2024-10-16 06:13:43",
+        "sentiment_score": -0.3125924617052078
+    },
+    {
+        "title": "Fechas de la campaña de la Guàrdia Urbana contra el ruido de motos y ciclomotores en estos distritos de Barcelona",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/16/670f57c85c09d.r_d.684-676-3326.jpeg",
+        "tags": [
+            "solo moto"
+        ],
+        "link": "https://www.mundodeportivo.com/solomoto/20241016/1002334243/campana-sensibilizacion-ruido-motos-ciclomotores-distritos-barcelona-smd.html",
+        "date": "2024-10-16 06:07:25",
+        "sentiment_score": 0.4006520286202431
+    },
+    {
+        "title": "MÉTEO | Més pluja i temps insegur a Catalunya abans del cap de setmana",
+        "image_url": "https://elmon.cat/app/uploads/sites/15/2022/04/europapress_4364618_members_of_the_public_take_shelter_from_the_rain_under_umbrellas_in.jpg",
+        "tags": [
+            "món"
+        ],
+        "link": "https://elmon.cat/mon/previsio-temps-avui-16-octubre-catalunya-pluja-914263/",
+        "date": "2024-10-16 06:06:21",
+        "sentiment_score": -0.7521114200353622
+    },
+    {
+        "title": "La nueva residencia universitaria de la UB en Bellvitge estará lista en julio de 2025",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/16/gran-barcelona/893920606_13590093_1706x960.jpg?contentId=ESPIMA20241016_0007",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20241016/la-nueva-residencia-universitaria-de-la-ub-en-bellvitge-estara-lista-julio/893910605_0.html",
+        "date": "2024-10-16 06:06:19",
+        "sentiment_score": 0.22597558051347733
+    },
+    {
+        "title": "Santa Coloma de Gramenet suaviza la presión fiscal y aumenta el IBI un 2%",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/16/670f56cc14f2b.r_d.476-659-0.jpeg",
+        "tags": [
+            "badalona barcelonès n."
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelones-nord/20241016/10025582/santa-coloma-gramenet-suaviza-presion-fiscal-aumenta-ibi-2.html",
+        "date": "2024-10-16 06:04:10",
+        "sentiment_score": 0.3725087083876133
+    },
+    {
+        "title": "Giro total en la previsión de lluvias en Barcelona: el Meteocat rectifica y deja claro cuál será el peor día",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/04/11/6617c30a01c09.r_d.2762-2537.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20241016/1002334242/giro-total-prevision-lluvias-barcelona-meteocat-rectifica-deja-claro-cual-sera-peor-dia-dct.html",
+        "date": "2024-10-16 06:02:01",
+        "sentiment_score": -0.259654238820076
+    },
+    {
+        "title": "¿Qué fue de Ainhoa Cantalapiedra, la vasca que se hizo con la victoria en OT 2?",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b908cbf1-83fa-4005-9082-2bf75b36dfdd_16-9-aspect-ratio_default_0_x620y701.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.noticiasdenavarra.com/gente/2024/10/16/ainhoa-cantalapiedra-cantante-vasca-victoria-ot-2-8812215.html",
+        "date": "2024-10-16 06:01:01",
+        "sentiment_score": 0.2914591580629349
     }
 ];
