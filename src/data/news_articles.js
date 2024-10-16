@@ -56,55 +56,6 @@ export default [
         "sentiment_score": -0.025657877326011658
     },
     {
-        "title": "Las oportunidades para las economías de las Américas, según experto",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-90623481.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "petróleo",
-            "litio",
-            "gas",
-            "alimentos",
-            "crecimiento económico",
-            "economía"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/economia-america-latina-nuevas-oportunidades-recursos-naturales-globoeconomia-fast/",
-        "date": "2024-10-12 13:00:59",
-        "sentiment_score": -0.0018541812896728516
-    },
-    {
-        "title": "Israel intensifica su operación militar en el norte de Gaza, semanas después de considerar un plan de asedio",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765808-israel-gaza.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medio oriente",
-            "gaza"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/12/israel-operacion-militar-norte-de-gaza-plan-de-asedio-trax/",
-        "date": "2024-10-12 12:16:44",
-        "sentiment_score": -0.017302781343460083
-    },
-    {
-        "title": "América Latina, ¿ante una nueva oportunidad para el desarrollo económico?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1415855256.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "democracia",
-            "crecimiento económico",
-            "economía"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/america-latina-nueva-oportunidad-globoeconomia-tv-fast/",
-        "date": "2024-10-12 12:00:26",
-        "sentiment_score": 0.13724268972873688
-    },
-    {
-        "title": "\"La operación Kursk se ha normalizado\": en el tercer mes de la incursión rusa en Ucrania, Putin intenta restarle importancia",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765801-ucrania-portada.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "rusia",
-            "guerra rusia ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/12/operacion-kursk-ucrania-putin-trax/",
-        "date": "2024-10-12 10:48:39",
-        "sentiment_score": 0.014519572257995605
-    },
-    {
         "title": "Operación Aurora",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/donald-trumpp_20241012163118-RouYDMb98OpPFgRbJKMOuYM-350x624@diario_abc.jpg",
         "tags": [
@@ -198,36 +149,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-12/la-tension-entre-sanchez-y-feijoo-se-traslada-a-los-actos-del-dia-de-la-fiesta-nacional.html",
         "date": "2024-10-12 14:56:14",
         "sentiment_score": -0.8097855960950255
-    },
-    {
-        "title": "La Guardia Civil celebra su fiesta en el centro de Vitoria por primera vez en 180 años de historia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MJ4ECSNQTRW2PXFNBIUR55X4DU.jpg?auth=2651ed53519412709e466962e30697e2122c29f8a618a2bd0a0a339d9bc58670&width=1200",
-        "tags": [
-            "guardia civil",
-            "día fiesta nacional",
-            "eta",
-            "país vasco",
-            "españa",
-            "vitoria"
-        ],
-        "link": "https://elpais.com/espana/2024-10-12/la-guardia-civil-celebra-su-fiesta-en-el-centro-de-vitoria-por-primera-vez-en-180-anos-de-historia.html",
-        "date": "2024-10-12 13:33:27",
-        "sentiment_score": 0.4219721853733063
-    },
-    {
-        "title": "12 de octubre: las dos Españas de una España",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NETN3YZ25ZOT4V5GZ4QXQ4ADGA.jpg?auth=340a9b8c01479f2370eff940584ea47d3e3b2f8b962e00dd027428c2d54ff674&width=1200",
-        "tags": [
-            "españa",
-            "palacio real",
-            "pedro sánchez",
-            "gobierno",
-            "día fiesta nacional",
-            "desfiles militares"
-        ],
-        "link": "https://elpais.com/espana/2024-10-12/12-de-octubre-las-dos-espanas-de-una-espana.html",
-        "date": "2024-10-12 13:09:36",
-        "sentiment_score": 0.28216859698295593
     },
     {
         "title": "UGT pide a Amgevicesa mejoras para los empleados",
@@ -6518,5 +6439,380 @@ export default [
         "link": "https://www.canarias7.es/canarias/lanzarote/palabras-vuelo-octubre-20241016224901-nt.html",
         "date": "2024-10-15 21:49:01",
         "sentiment_score": 0.04626484774053097
+    },
+    {
+        "title": "\"Es matemática simple\", le dice periodista a Trump sobre su plan arancelario",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178579127.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/periodista-cuestiona-plan-aranceles-trump-trax/",
+        "date": "2024-10-16 01:39:07",
+        "sentiment_score": -0.3012014329433441
+    },
+    {
+        "title": "Maduro recibe invitación para tomar juramento e iniciar un nuevo mandato presidencial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2165038835.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "elecciones venezuela",
+            "venezuela",
+            "fast – news variety",
+            "nicolás maduro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-invitacion-asamblea-nacional-nuevo-periodo-presidencial-panorama-tv-fast/",
+        "date": "2024-10-16 01:33:36",
+        "sentiment_score": 0.10744316875934601
+    },
+    {
+        "title": "“Lluvia” de dólares, “blanqueo” y ¿final del “cepo” en Argentina?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1716875-argentina-necesita-muchos-mas-dolares-dice-experto.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "economía",
+            "argentina noticias",
+            "dólares",
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/15/dolares-blanqueo-cepo-argentina-orix/",
+        "date": "2024-10-16 01:32:26",
+        "sentiment_score": -0.5430923718959093
+    },
+    {
+        "title": "Hezbollah asegura que Israel debe elegir entre un cese del fuego y \"el dolor\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1712282735-20241016012309324.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "guerra israel hezbollah",
+            "guerra isael hamas",
+            "fast – news variety",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hezbollah-guerra-medio-oriente-actualidad-jose-levy-panorama-mundial-tv/",
+        "date": "2024-10-16 01:31:50",
+        "sentiment_score": -0.4858546108007431
+    },
+    {
+        "title": "El riesgo de escalada en Medio Oriente sigue existiendo, asegura experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177843455.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-medio-oriente-analisis-israel-hamas-panorama-mundial-tv",
+        "date": "2024-10-16 00:59:28",
+        "sentiment_score": -0.21757759898900986
+    },
+    {
+        "title": "El riesgo de escalada en Medio Oriente sigue existiendo, asegura experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177843455.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra hamas israel",
+            "guerra israel hezbollah",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-medio-oriente-analisis-israel-hamas-panorama-mundial-tv/",
+        "date": "2024-10-16 00:59:28",
+        "sentiment_score": -0.08589783310890198
+    },
+    {
+        "title": "Reportero de CNN se disfraza y se baña en orina de panda para acercarse a pandas salvajes de China",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/panda-thumb.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "pandas gigantes",
+            "fast – news variety",
+            "ee.uu.",
+            "zoológico",
+            "pandas",
+            "noticias de ee.uu.",
+            "xpress",
+            "china",
+            "mundo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reportero-disfraza-panda-china-trax/",
+        "date": "2024-10-16 00:51:23",
+        "sentiment_score": -0.2518173009157181
+    },
+    {
+        "title": "La Administración de Pequeñas Empresas se quedó sin fondos para su programa de préstamos por desastres tras los huracanes consecutivos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767141-administracion-pequenas-empresas-fondos-huracanes.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracán",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/15/administracion-pequenas-empresas-fondos-programa-prestamos-desastres-huracanes-trax/",
+        "date": "2024-10-16 00:38:58",
+        "sentiment_score": -0.8830461101606488
+    },
+    {
+        "title": "Las noticias económicas del 15 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/portafolio-mundial-15-octubre-2024-panorama-tv-fast",
+        "date": "2024-10-16 00:38:46",
+        "sentiment_score": -0.01951223611831665
+    },
+    {
+        "title": "Las 3 noticias destacadas de la noche del 15 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-15-de-octubre-2024-panorama-noche-fast",
+        "date": "2024-10-16 00:28:09",
+        "sentiment_score": 0.1908847615122795
+    },
+    {
+        "title": "Duelo en la distancia de candidatos en la 'cadena amiga' de Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/15/eeuu-RQRxdtiV0tlEST4qf8nQ0HK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/duelo-distancia-candidatos-cadena-amiga-trump-20241015203437-nt.html",
+        "date": "2024-10-16 02:11:56",
+        "sentiment_score": -0.14624154567718506
+    },
+    {
+        "title": "El 75% de los alquileres en las grandes capitales superan los precios para acceder al bono joven del Gobierno",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/16/1466396232-RfjfG2ABcH1mUQQRCrzyJIO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/alquileres-superan-precios-acceder-bono-joven-gobierno-20241016202851-nt.html",
+        "date": "2024-10-16 02:08:01",
+        "sentiment_score": -0.10353453457355499
+    },
+    {
+        "title": "Criteria prosigue con las desinversiones y apura la venta de Saba",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/16/parking-saba-RAMhdV87w5NPtdLU2Uv2OJO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/criteria-prosigue-desinversiones-apura-venta-saba-20241016040751-nt.html",
+        "date": "2024-10-16 02:07:51",
+        "sentiment_score": -0.08247843384742737
+    },
+    {
+        "title": "Ignacio González (Aecoc) : «El absentismo es dramático: los lunes no van a trabajar 1,5 millones de españoles»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/15/Aecoc-R1pH7ZoDaCwyPQoUXdmOxAI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ignacio-gonzalez-aecoc-absentismo-dramatico-lunes-van-20241015190601-nt.html",
+        "date": "2024-10-16 02:06:39",
+        "sentiment_score": -0.05030721426010132
+    },
+    {
+        "title": "Primer día del 'modelo Albania', el experimento migratorio de Meloni",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/16/policia-italia-Rpscib6WFICp9Yp0OWIavQK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/primer-dia-modelo-albania-experimento-meloni-20241016193401-nt.html",
+        "date": "2024-10-16 02:06:16",
+        "sentiment_score": -0.13614268600940704
+    },
+    {
+        "title": "El 40% de los cánceres de mama posmenopáusicos están ligados al exceso de grasa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/10/15/mama-cancer.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/alrededor-canceres-mama-posmenopausicos-hormonas-positivas-relacionados-20241016121315-nt.html",
+        "date": "2024-10-15 23:30:00",
+        "sentiment_score": -0.12867604196071625
+    },
+    {
+        "title": "El mitin más surrealista de Trump: hace un baile de grandes éxitos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/16/trump-baile-kfTD-U603204770278qSD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/mitin-surrealista-trump-baile-grandes-exitos-20241016001640-nt.html",
+        "date": "2024-10-15 22:16:41",
+        "sentiment_score": -0.1279057264328003
+    },
+    {
+        "title": "Las defensas aéreas de Israel detectan medio centenar de lanzamientos desde Líbano",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241016040543_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-defensas-aereas-israel-detectan-medio-centenar-lanzamientos-libano-20241016040543.html",
+        "date": "2024-10-16 02:05:43",
+        "sentiment_score": -0.5048698429018259
+    },
+    {
+        "title": "Paloma Sánchez-Garnica gana con la trama de espías ‘Victoria’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/28ebb2c4-2655-4416-bb6c-9261315d895e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/cultura/2024/10/16/paloma-sanchez-garnica-gana-trama-109400801.html",
+        "date": "2024-10-16 01:42:13",
+        "sentiment_score": 0.0655597448348999
+    },
+    {
+        "title": "Bernard Arnault, el dueño de Louis Vuitton que compra el Paris FC con sus 5 hijos: su imperio de 195.000 millones",
+        "image_url": "https://s1.elespanol.com/2022/12/13/actualidad/725688261_229456927_1706x960.jpg?contentId=ESPIMA20221213_0837",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241016/bernard-arnault-dueno-louis-vuitton-compra-paris-fc-hijos-imperio-millones/893160804_0.html",
+        "date": "2024-10-16 00:37:56",
+        "sentiment_score": -0.16811634600162506
+    },
+    {
+        "title": "Aldama recibió 400.000€ en billetes de su socio para pagar comisiones por las gestiones con el Gobierno para Villafuel",
+        "image_url": "https://s1.elespanol.com/2024/10/15/espana/893671517_250035817_1706x960.png?contentId=ESPIMA20241015_0893",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241016/aldama-recibio-billetes-socio-pagar-comisiones-gestiones-gobierno-villafuel/893661138_0.html",
+        "date": "2024-10-16 00:37:25",
+        "sentiment_score": -0.13703906536102295
+    },
+    {
+        "title": "Rebelión contra el 'tasazo' del Gobierno: se pagará más por las basuras para adaptarse a la UE aunque Bruselas no obliga",
+        "image_url": "https://s1.elespanol.com/2024/10/15/espana/893671525_250036049_1706x960.jpg?contentId=ESPIMA20241015_0901",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241016/rebelion-tasazo-gobierno-pagara-basuras-adaptarse-ue-bruselas-no-obliga/893661169_0.html",
+        "date": "2024-10-16 00:37:22",
+        "sentiment_score": -0.6936505008488894
+    },
+    {
+        "title": "MSF denuncia que el traslado de migrantes desde Italia hacia Albania \"se traducirá en más abusos\" de DDHH",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241016022735_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-msf-denuncia-traslado-migrantes-italia-albania-traducira-mas-abusos-ddhh-20241016022735.html",
+        "date": "2024-10-16 00:27:35",
+        "sentiment_score": -0.818596288561821
+    },
+    {
+        "title": "Machado pide a funcionarios del Poder Judicial de Venezuela a desacatar \"órdenes que violan\" la Constitución",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241016022430_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-machado-pide-funcionarios-poder-judicial-venezuela-desacatar-ordenes-violan-constitucion-20241016022430.html",
+        "date": "2024-10-16 00:24:30",
+        "sentiment_score": -0.868778582662344
+    },
+    {
+        "title": "Al menos cuatro migrantes muertos tras el naufragio de su embarcación en la isla de Cos (Grecia)",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241016014032_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-menos-cuatro-migrantes-muertos-naufragio-embarcacion-isla-cos-grecia-20241016014032.html",
+        "date": "2024-10-15 23:40:32",
+        "sentiment_score": -0.6401293091475964
+    },
+    {
+        "title": "Blockchain Awards 2024: los galardones que ponen en valor el futuro de la tecnología en la economía global",
+        "image_url": "https://s1.elespanol.com/2024/10/15/invertia/disruptores/grandes-actores/tecnologicas/893671113_250023241_1706x960.jpg?contentId=ESPIMA20241015_0489",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20241016/blockchain-awards-galardones-ponen-valor-futuro-tecnologia-economia-global/889911358_0.html",
+        "date": "2024-10-15 23:40:14",
+        "sentiment_score": 0.6701016072183847
+    },
+    {
+        "title": "Documentan la mayor fosa común de la retaguardia de la Guerra Civil en Cataluña: 700 cuerpos inhumados",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/15/documentan-la-mayor-fosa-comun-de-la-retaguardia-de-la-guerra-civil-en-cataluna_446c.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241016/cementero-montcada-reixac-mayor-fosa-comun-catalana-guerra-civil_18_013721878.html",
+        "date": "2024-10-16 02:00:21",
+        "sentiment_score": -0.13541733473539352
+    },
+    {
+        "title": "Lengua de libertad",
+        "image_url": "https://men.gsstatic.es/autor/juan-jose-gomila-felix/21.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/10/16/2259657/lengua-libertad.html",
+        "date": "2024-10-16 02:00:01",
+        "sentiment_score": -0.1209212988615036
+    },
+    {
+        "title": "Una odisea con premio: el pakistaní al que le han tocado 130.000 euros en Menorca",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3041319.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/10/16/2259783/odisea-premio-menorca-pakistani-han-tocado-130000-euros.html",
+        "date": "2024-10-16 02:00:01",
+        "sentiment_score": 0.01318785548210144
+    },
+    {
+        "title": "Pedro Porro demostró ante Serbia por qué es el relevo natural de Dani Carvajal",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/16/2024101603254763213.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/pedro-porro-demostro-serbia-que-es-relevo-natural-dani-carvajal/20241016034343320901.html",
+        "date": "2024-10-16 01:43:43",
+        "sentiment_score": 0.8960668351501226
+    },
+    {
+        "title": "El Inta arregla el acceso al polvorín de Cuadros para asegurar el uso de explosivos",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/15/670eae76b9753.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/241016/1647557/inta-arregla-acceso-polvorin-cuadros-asegurar-explosivos.html",
+        "date": "2024-10-16 01:30:00",
+        "sentiment_score": 0.6261236555874348
+    },
+    {
+        "title": "El Gobierno da un impulso a la norma que regule alquileres y persiga el fraude",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/15/670e70ca71bba.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/241016/1647444/gobierno-da-impulso-norma-regule-alquileres-persiga-fraude.html",
+        "date": "2024-10-16 01:25:00",
+        "sentiment_score": -0.054889947175979614
+    },
+    {
+        "title": "Sumar alienta las manifestaciones por la vivienda para forzar al PSOE a actuar: \"Soplaremos esas brasas\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/2843f7d8a4e807aa6629d6b39183f3a3/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/15/17290189430331.jpg",
+        "tags": [
+            "yolanda díaz",
+            "vivienda",
+            "artículos álvaro carvajal",
+            "sumar"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/10/16/670ea27be4d4d800198b459f.html",
+        "date": "2024-10-16 00:51:36",
+        "sentiment_score": -0.9386627534404397
+    },
+    {
+        "title": "Francisco Cañizares, alcalde de Ciudad Real: \"El aeropuerto para inmigrantes es una idea propia de Orbán en Hungría o de Sánchez en España\"",
+        "image_url": "https://s1.elespanol.com/2024/10/15/espana/893671471_250034316_1706x960.jpg?contentId=ESPIMA20241015_0847",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241016/francisco-canizares-alcalde-ciudad-real-aeropuerto-inmigrantes-idea-propia-orban-hungria-sanchez-espana/893661187_0.html",
+        "date": "2024-10-16 00:38:33",
+        "sentiment_score": -0.7575656268745661
+    },
+    {
+        "title": "'Super Lucky', el niño de 7 años con cáncer, cumple su último sueño como fan del Barça: conoce a Pedri",
+        "image_url": "https://s1.elespanol.com/2024/10/15/reportajes/893671365_250031141_1706x960.jpg?contentId=ESPIMA20241015_0741",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241016/super-lucky-nino-anos-cancer-cumple-ultimo-sueno-fan-barca-conoce-pedri/893661007_0.html",
+        "date": "2024-10-16 00:37:52",
+        "sentiment_score": 0.5981584787368774
     }
 ];
