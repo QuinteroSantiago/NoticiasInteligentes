@@ -1,285 +1,5 @@
 export default [
     {
-        "title": "Mira cómo SpaceX atrapa el cohete de Starship en su quito vuelo de prueba",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-00-13-still001-20241013163833887.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/spacex-starship-lanzamiento-elon-musk-texas-orix",
-        "date": "2024-10-13 16:42:53",
-        "sentiment_score": -0.05398789048194885
-    },
-    {
-        "title": "Mira cómo SpaceX atrapa el cohete de Starship en su quito vuelo de prueba",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "spacex",
-            "ciencia",
-            "elon musk",
-            "starship"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/spacex-starship-lanzamiento-elon-musk-texas-orix/",
-        "date": "2024-10-13 16:42:53",
-        "sentiment_score": 0.5131481289863586
-    },
-    {
-        "title": "Un mes de la huelga de Boeing: cuesta US$ 5.000 millones a la empresa y a los trabajadores, según un nuevo análisis",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766089-copia-de-foto-para-wp-2024-10-13t083935-355.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "aviación"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/huelga-boeing-costo-us-5-000-millones-empresa-trabajadores-analisis-trax/",
-        "date": "2024-10-13 16:29:36",
-        "sentiment_score": 0.005814842879772186
-    },
-    {
-        "title": "SpaceX realiza con éxito el quinto lanzamiento de Starship y alcanza su objetivo de aterrizaje tras una histórica captura del propulsor",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766072-starship-texas-spacex.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ciencia y espacio"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/spacex-realiza-con-exito-el-quinto-lanzamiento-de-starship-y-alcanza-su-objetivo-de-aterrizaje-tras-una-historica-captura-del-propulsor/",
-        "date": "2024-10-13 14:18:43",
-        "sentiment_score": 0.724560096859932
-    },
-    {
-        "title": "Aldama, el amiguete",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/13/aldama-victor-RgO4km9Tz6bppv6YXBBbdbO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/john-muller-aldama-amiguete-20241013181839-nt.html",
-        "date": "2024-10-13 17:07:23",
-        "sentiment_score": -0.10438621044158936
-    },
-    {
-        "title": "El as en la manga",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/13/christine-lagarde-RATuNUYM3NBP2Rfw9rOJphJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-manga-20241013182633-nt.html",
-        "date": "2024-10-13 17:07:14",
-        "sentiment_score": -0.06828051805496216
-    },
-    {
-        "title": "Los franceses temen que París esté retrocediendo en la escena internacional víctima de sus políticos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/macron-bernier-R7CPDZJUcgMIhiguoVvCv0M-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/franceses-temen-paris-retrocediendo-escena-internacional-victima-20241013175508-nt.html",
-        "date": "2024-10-13 16:01:46",
-        "sentiment_score": -0.2678166776895523
-    },
-    {
-        "title": "Muere un motorista en un accidente en la AP-7 en Avinyonet del Penedès (Barcelona)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZHCYQTUBCVCWNA6LJ6UYXQEQIQ.jpg?auth=c2ee3eb154f0300ee5f687155080fb20727887a980eed3b72578ed496510d9a3&width=1200",
-        "tags": [
-            "carreteras",
-            "accidentes tráfico",
-            "policía",
-            "motocicletas",
-            "avinyonet del penedès",
-            "colisiones",
-            "autopistas",
-            "mossos d'esquadra",
-            "cataluña",
-            "accidentes"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-13/muere-un-motorista-en-un-accidente-en-la-ap-7-en-avinyonet-del-penedes-barcelona.html",
-        "date": "2024-10-13 15:58:52",
-        "sentiment_score": -0.6805446539074183
-    },
-    {
-        "title": "Rogkavopoulos, el microondas del Baskonia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f5f90e41-1e1f-454a-ad13-5a260574eaae_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2024/10/13/rogkavopoulos-microondas-baskonia-ucam-murcia-acb-8802836.html",
-        "date": "2024-10-13 17:06:36",
-        "sentiment_score": -0.303200364112854
-    },
-    {
-        "title": "El Real Madrid vuelve a tropezar en Miribilla",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/487ffd61-e9f8-a9a8-42ed0b4024866549.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z487ffc35-b17f-b256-797d269731d9a5f6/202410/el-real-madrid-vuelve-a-tropezar-en-miribilla",
-        "date": "2024-10-13 16:59:37",
-        "sentiment_score": -0.24384282529354095
-    },
-    {
-        "title": "La afición del Real Valladolid supera su récord de afluencia a Zorrilla",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/13/estadio-kgDG-U2201495191097UQG-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/aficion-real-valladolid-supera-record-afluencia-zorrilla-20241013185002-nt.html",
-        "date": "2024-10-13 16:50:03",
-        "sentiment_score": 0.2947753220796585
-    },
-    {
-        "title": "El Castellón forjó la leyenda en el Sporting de \"las tres cruces de Ortiz\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6eafc03c-c866-4bee-a012-6f47f548e9f9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/sporting/2024/10/13/castellon-forjo-leyenda-sporting-tres-109271317.html",
-        "date": "2024-10-13 16:28:07",
-        "sentiment_score": 0.05907100439071655
-    },
-    {
-        "title": "Ingesa reformará los sistemas de detección de incendios en sus centros",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1110774",
-        "date": "2024-10-13 16:19:23",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "La maldición del cruzado no tiene freno en el fútbol europeo",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/13/rodri-lesion-k0fH-U2201490042696bxB-1200x840@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/deportes/futbol/maldicion-cruzado-freno-futbol-europeo-20241013180737-ntrc.html",
-        "date": "2024-10-13 16:15:53",
-        "sentiment_score": -0.9239706238731742
-    },
-    {
-        "title": "Los rostros de la protesta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PWKSMEU3Y5EXNH3KYD72XDU2HU.jpg?auth=a01f4b6426c6e01c60d57c5a88accd09020b3e664357bddff7a5c4ae69ce2288&width=1200",
-        "tags": [
-            "vivienda",
-            "ayuntamiento madrid",
-            "manifestaciones",
-            "economía",
-            "pah",
-            "madrid",
-            "protestas sociales"
-        ],
-        "link": "https://elpais.com/economia/2024-10-13/los-rostros-de-la-protesta.html",
-        "date": "2024-10-13 16:13:40",
-        "sentiment_score": -0.14862994849681854
-    },
-    {
-        "title": "La sombra de la moción de censura es alargada",
-        "image_url": "https://static.infolibre.es/clip/7a766be1-1983-4b61-bd9c-8bc39033d437_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infolibre.es/opinion/columnas/en-transicion/sombra-alargada-mocion-censura_129_1879327.html",
-        "date": "2024-10-13 16:02:33",
-        "sentiment_score": -0.16275811195373535
-    },
-    {
-        "title": "El Real Madrid cae ante el Bilbao Basket, firmando su peor inicio desde 2003",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/10/13/2024101317565023536.jpg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/baloncesto/real-madrid-cae-bilbao-basket-firmando-peor-inicio-2003/20241013175808541427.html",
-        "date": "2024-10-13 15:58:08",
-        "sentiment_score": 0.6135443598031998
-    },
-    {
-        "title": "El cine español tiene nombre de mujer",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/ada49c41-0a9d-f6d8-17ad019da71825cd.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/zada49b0e-a94b-d618-dfb4ec2268d6b63e/202410/el-cine-espanol-tiene-nombre-de-mujer",
-        "date": "2024-10-13 17:03:06",
-        "sentiment_score": 0.916135735809803
-    },
-    {
-        "title": "Abre en Barcelona 'Diego Vive', el parque temático de 2.000 metros cuadrados en homenaje a Maradona",
-        "image_url": "https://album.mediaset.es/eimg/2024/10/09/abre-en-barcelona-diego-vive-el-parque-tematico-sobre-maradona_9d05.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20241013/diego-vive-parque-tematico-homenaje-maradona-barcelona_18_013674365.html",
-        "date": "2024-10-13 17:00:41",
-        "sentiment_score": 0.4253944084048271
-    },
-    {
-        "title": "Una empresa china dedicada a la inteligencia artificial establece su sede central en Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/13/vivir-en-barcelona/893170710_13580071_1706x960.jpg?contentId=ESPIMA20241013_0036",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241013/una-empresa-china-dedicada-la-inteligencia-artificial-establece-su-sede-central-en-barcelona/893160719_0.html",
-        "date": "2024-10-13 16:46:05",
-        "sentiment_score": 0.3810866251587868
-    },
-    {
-        "title": "Puigdemont reprocha a Illa su presencia en el desfile del 12 de octubre y lo critica por sus genuflexiones ante el Rey",
-        "image_url": "https://media.vozpopuli.com/2024/10/EuropaPress_6272021_alto_representante_union_europea_asuntos_exteriores_politica_seguridad-1-1024x576.jpg",
-        "tags": [
-            "rey felipe vi",
-            "carles puigdemont",
-            "reyes",
-            "españa",
-            "cataluña",
-            "independencia de cataluña",
-            "independentismo",
-            "salvador illa"
-        ],
-        "link": "https://www.vozpopuli.com/espana/cataluna/puigdemont-reprocha-illa-presencia-desfile-12-octubre-critica-genuflexiones-rey.html",
-        "date": "2024-10-13 16:38:33",
-        "sentiment_score": -0.9108796026557684
-    },
-    {
-        "title": "Collboni se compromete a regular el alquiler de temporada y rebajar el número de cruceros",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/13/670bf4a2a1e75.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20241013/10018287/collboni-compromete-regular-alquiler-temporada-rebajar-numero-cruceros.html",
-        "date": "2024-10-13 16:34:10",
-        "sentiment_score": 0.1400570347905159
-    },
-    {
-        "title": "Decenas de miles de personas salen a la calle para exigir la rebaja en el precio del alquiler",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/7/e/4/manifestacion-vivienda-efe.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13031336/10/24/decenas-de-miles-de-personas-salen-a-la-calle-para-exigir-la-rebaja-en-el-precio-del-alquiler.html",
-        "date": "2024-10-13 16:31:36",
-        "sentiment_score": -0.7820170130580664
-    },
-    {
-        "title": "El rey presencia las regatas de la Copa del América desde el portaeronaves ‘Juan Carlos I’",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/04/El-Rey-Felipe-VI-i-y-el-presidente-del-Gobierno-Pedro-Sanchez-d.jpg",
-        "tags": [
-            "españa",
-            "salvador illa",
-            "copa américa de vela",
-            "jaume collboni",
-            "barcelona",
-            "rey felipe vi"
-        ],
-        "link": "https://theobjective.com/espana/2024-10-13/rey-felipe-vi-copa-america-barcelona/",
-        "date": "2024-10-13 16:26:26",
-        "sentiment_score": 0.10330735146999359
-    },
-    {
-        "title": "El nuevo icono de Dolce & Gabbana, las DG Sharped Sunglasses",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/13/2024101317512328327.jpg",
-        "tags": [
-            "luxury"
-        ],
-        "link": "https://www.mundiario.com/articulo/luxury/nuevo-icono-dolce-gabbana/20241013182626320640.html",
-        "date": "2024-10-13 16:26:26",
-        "sentiment_score": 0.8428389243781567
-    },
-    {
         "title": "La censura en China es una de las más duras del mundo. Entonces, ¿por qué dejó tocar a Kanye West?",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766131-copia-de-foto-para-wp-2024-10-13t122641-012.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -352,37 +72,6 @@ export default [
         "sentiment_score": 0.4493898004293442
     },
     {
-        "title": "El pedido de Lula da Silva contra los futbolistas brasileños que juegan en Europa",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/luiz-inacio-lula-da-silva-brasil-fecha-fifa-conmebol-sudamerica-futbol-cnn-deportes-tv",
-        "date": "2024-10-13 18:13:09",
-        "sentiment_score": -0.7178366258740425
-    },
-    {
-        "title": "Este hotel de Singapur es el nuevo mejor rascacielos del mundo",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-10-13-at-11-36-25-am.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hotel-singapur-mejor-rascacielos-mundo-trax",
-        "date": "2024-10-13 17:38:36",
-        "sentiment_score": 0.7246244102716446
-    },
-    {
-        "title": "Este hotel de Singapur es el nuevo mejor rascacielos del mundo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "rascacielos",
-            "singapur"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hotel-singapur-mejor-rascacielos-mundo-trax/",
-        "date": "2024-10-13 17:38:36",
-        "sentiment_score": 0.49254874885082245
-    },
-    {
         "title": "La Policía frustra un tercer intento de asesinato de Trump",
         "image_url": "https://cdn.mnmstatic.net/cache/3c/de/media_thumb_2x-link-3989196.webp",
         "tags": [
@@ -453,36 +142,6 @@ export default [
         "link": "https://www.abc.es/opinion/luis-del-val-sanchez-abalos-deben-pp-20241014171401-nt.html",
         "date": "2024-10-13 18:42:32",
         "sentiment_score": -0.23435387015342712
-    },
-    {
-        "title": "No hace falta moción de censura",
-        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/10/08/jubileta_2-U77750010886SBH-170x119@Diario%20Sur.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jose-f-pelaez-falta-mocion-censura-20241014191548-nt.html",
-        "date": "2024-10-13 17:56:31",
-        "sentiment_score": -0.13981136679649353
-    },
-    {
-        "title": "El 'number one'",
-        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/chapu-apaolaza-number-one-20241014170450-nt.html",
-        "date": "2024-10-13 17:28:36",
-        "sentiment_score": -0.1425182968378067
-    },
-    {
-        "title": "La tríada",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/08/1485561419-kB2F--170x119@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/ignacio-camacho-triada-20241014184616-nt.html",
-        "date": "2024-10-13 17:28:13",
-        "sentiment_score": -0.1985803246498108
     },
     {
         "title": "El embajador de Zapatero en Caracas admite que cobró 4,5 millones de Venezuela",
@@ -6786,5 +6445,583 @@ export default [
         "link": "https://www.lavozdealmeria.com/noticia/11/pequealmeria/281808/cine-familiar-a-precio-especial-disfruta-de-una-programacion-unica-en-almeria",
         "date": "2024-10-16 22:41:00",
         "sentiment_score": 0.40265175327658653
+    },
+    {
+        "title": "Bombarderos B-2 estadounidenses atacan a los hutíes apoyados por Irán en Yemen",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767948-gettyimages-1223814797.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bombarderos",
+            "hutíes",
+            "medio oriente",
+            "yemen"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/ataques-eeuu-contra-huties-respaldados-iran-yemen-trax/",
+        "date": "2024-10-17 05:30:45",
+        "sentiment_score": -0.6837956719100475
+    },
+    {
+        "title": "La impactante muerte de Liam Payne provoca una oleada de dolor y preguntas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767954-muerte-liam.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "one direction",
+            "música",
+            "liam payne"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/impactante-muerte-liam-payne-provoca-una-oleada-de-dolor-y-preguntas-trax/",
+        "date": "2024-10-17 05:26:28",
+        "sentiment_score": -0.8894984750077128
+    },
+    {
+        "title": "Peniley Ramírez: La sentencia de García Luna comprobó su doble vida",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21048088-12022-745-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "sentencia",
+            "guerra contra el narcotráfico",
+            "genaro garcía luna",
+            "felipe calderón"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/genaro-garcia-luna-sentencia-38-anos-prision-narcotrafico-seguridad-mexico-aristegui-tv/",
+        "date": "2024-10-17 03:15:43",
+        "sentiment_score": -0.2770155519247055
+    },
+    {
+        "title": "Maduro asegura que María Corina Machado se fue de Venezuela, ella lo niega",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21048087-51634-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "maría corina machado",
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-corina-machado-huir-espana-perspectivas-mexico-tv/",
+        "date": "2024-10-17 03:02:01",
+        "sentiment_score": -0.7316847033798695
+    },
+    {
+        "title": "Maduro asegura que María Corina Machado se fue de Venezuela, ella lo niega",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21048087-51634-still.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-corina-machado-huir-espana-perspectivas-mexico-tv",
+        "date": "2024-10-17 03:02:01",
+        "sentiment_score": -0.6469833701848984
+    },
+    {
+        "title": "Así despiden las \"directioners\" a Liam Payne en el hotel donde murió en Argentina",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/despedida-liam-thumb.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/seguidoras-liam-payne-despiden-muerte-orix",
+        "date": "2024-10-17 02:59:04",
+        "sentiment_score": -0.8475910183042288
+    },
+    {
+        "title": "Harris responde pregunta sobre Biden y Trump en Fox News",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178445110-20241017023915067.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-harris-fox-news-presidente-joe-biden-donald-trump-trax/",
+        "date": "2024-10-17 02:41:11",
+        "sentiment_score": -0.29040417075157166
+    },
+    {
+        "title": "¿Trump de verdad cree que los haitianos comen mascotas? Aquí su respuesta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-horizontal-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-responde-latinos-preguntan-migrantes-comen-mascotas-univision-orix-ush/",
+        "date": "2024-10-17 02:16:21",
+        "sentiment_score": -0.723848395049572
+    },
+    {
+        "title": "¿Trump de verdad cree que los haitianos comen mascotas? Aquí su respuesta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-horizontal-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-responde-latinos-preguntan-migrantes-comen-mascotas-univision-orix-ush",
+        "date": "2024-10-17 02:16:21",
+        "sentiment_score": -0.4402491860091686
+    },
+    {
+        "title": "Una “doble vida” y la comparación con “el Chapo” Guzmán: detrás de la condena de García Luna a más de 38 años de prisión",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767927-genaro-garcia-luna-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "genaro garcía luna",
+            "judicial",
+            "estados unidos noticias",
+            "narcotráfico",
+            "justicia",
+            "políticos",
+            "noticias de ee.uu.",
+            "seguridad"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/16/condena-genaro-garcia-luna-anios-prision-orix/",
+        "date": "2024-10-17 02:16:21",
+        "sentiment_score": -0.4560624659061432
+    },
+    {
+        "title": "La gran bajada en el precio del aceite se retrasa hasta la próxima primavera",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/16/aceite-RffV5bjYli6N8N61R4lnyhI-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gran-bajada-precio-aceite-retrasa-proxima-primavera-20241016182744-nt.html",
+        "date": "2024-10-17 02:28:20",
+        "sentiment_score": -0.055574893951416016
+    },
+    {
+        "title": "España y China, dos países con una unión cultural milenaria",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/16/Noticia-Foro-Vocento-1200x840.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/espana-china-dos-paises-union-cultural-milenaria-20241017042703-nt.html",
+        "date": "2024-10-17 02:27:04",
+        "sentiment_score": -0.11797483265399933
+    },
+    {
+        "title": "¿Por qué Trump suma puntos pese a su comportamiento cada vez más errático?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/16/trump_20241016110818-RdNCFeDwKp4aGCq0t41XpoK-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pedro-rodriguez-dancing-donald-20241016111129-nt.html",
+        "date": "2024-10-17 02:23:34",
+        "sentiment_score": -0.1576049029827118
+    },
+    {
+        "title": "Europa se dispone a cortejar a Bashar al Assad, hasta ahora 'paria', para su nueva política migratoria",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/16/assad-RHWy1gVHOZyOILsQ8EzpLGJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/europa-dispone-cortejar-bashar-assad-paria-nueva-20241016042208-nt.html",
+        "date": "2024-10-17 02:22:31",
+        "sentiment_score": -0.16379375755786896
+    },
+    {
+        "title": "El Banco de España recorta en 100.000 las necesidades de nuevas viviendas en España",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/17/1479836062-RzFnyWDMEpKu7X8GlNTcQ0K-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/banco-espana-recorta-100000-necesidades-nuevas-viviendas-20241017041854-nt.html",
+        "date": "2024-10-17 02:18:55",
+        "sentiment_score": -0.07114532589912415
+    },
+    {
+        "title": "Seguridad Social ignora las presiones y mantiene cerrada la pasarela al RETA a miles de mutualistas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/17/EuropaPress_6217786_ministra_inclusion_seguridad_social_migraciones_elma_saiz_sesion_plenaria-RuKRW6vj1PQmvo6TDEADsVI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/seguridad-social-ignora-presiones-mantiene-cerrada-pasarela-20241017041846-nt.html",
+        "date": "2024-10-17 02:18:47",
+        "sentiment_score": -0.1068645566701889
+    },
+    {
+        "title": "Vivienda, Palestina y Ábalos: Podemos arremete con todo contra el Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RFXDWARPFHS276GREHQI3AOQ5M.jpg?auth=52580ffd75386b0f863267bea38718a5a3e72e461b4c93cdc90daeb0e5e6569e&width=1200",
+        "tags": [
+            "gobierno",
+            "psoe",
+            "izquierdismo",
+            "pablo iglesias",
+            "presupuestos generales estado",
+            "ione belarra",
+            "podemos",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/vivienda-palestina-y-abalos-podemos-arremete-con-todo-contra-el-gobierno.html",
+        "date": "2024-10-17 03:40:00",
+        "sentiment_score": -0.724066223949194
+    },
+    {
+        "title": "El Gobierno cree injusta la imputación del fiscal y cierra filas con los socios para arroparlo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YJFMHEXCUBAP3O5SILUXJ7M4EQ.jpg?auth=69114d5159ff1338370cb9bda3406ddc0cd3405a423248eef2c5b53afdd1e30e&width=1200",
+        "tags": [
+            "gobierno",
+            "tribunal supremo",
+            "fiscalía general estado",
+            "álvaro garcía ortiz",
+            "filtración documentos",
+            "política",
+            "isabel díaz ayuso",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/el-gobierno-cree-injusta-la-imputacion-del-fiscal-y-cierra-filas-con-los-socios-para-arroparlo.html",
+        "date": "2024-10-17 03:40:00",
+        "sentiment_score": -0.9361111214384437
+    },
+    {
+        "title": "La Fiscalía arremete con un duro alegato contra el recurso del Supremo a la ley de amnistía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VPGOLHVIXNOPJADE54KHFCC57Q.jpg?auth=eafe874501e8e032481b3865440536770c1315ade45a5ca4122ffe813fcd1796&width=1200",
+        "tags": [
+            "fiscalía",
+            "fiscalía general estado",
+            "ley de amnistía",
+            "tribunales",
+            "tribunal constitucional",
+            "álvaro garcía ortiz",
+            "amnistía",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/duro-alegato-de-la-fiscalia-contra-el-recurso-del-supremo-a-la-ley-de-amnistia.html",
+        "date": "2024-10-17 03:40:00",
+        "sentiment_score": -0.8292278572916985
+    },
+    {
+        "title": "El PP defiende que España “se mueva” en política migratoria al “ritmo” que marca Von der Leyen",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/37PSYNS2M5CCBNPGT5CFXD5YIM.JPG?auth=f537d11dd57617ab8f4c7909593f76afbd5ae63186aecde87f26785a95bb718d&width=1200",
+        "tags": [
+            "canarias",
+            "comisión europea",
+            "migración",
+            "parlamento europeo",
+            "pp",
+            "inmigración",
+            "ursula von der leyen",
+            "alberto núñez feijóo",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/el-pp-defiende-que-espana-se-mueva-en-politica-migratoria-al-ritmo-que-marca-von-der-leyen.html",
+        "date": "2024-10-17 03:40:00",
+        "sentiment_score": -0.0026795566082000732
+    },
+    {
+        "title": "Cuarenta estudiantes indios no podrán cursar la FP porque España les deniega el visado: “Es un desprecio a nuestro futuro”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BJCR7RYV5NAGTIGHW5IBO3CLLQ.jpeg?auth=cb94706db300cfe328f3711826a130db2a472c9741a74f90b81ca346f15d9eb4&width=1200",
+        "tags": [
+            "sistema educativo",
+            "restauración",
+            "gastronomía",
+            "empresas",
+            "educación",
+            "pastelería",
+            "estudiantes",
+            "migrantes",
+            "formación profesional",
+            "inmigración",
+            "sociedad",
+            "política educativa",
+            "india"
+        ],
+        "link": "https://elpais.com/educacion/2024-10-17/cuarenta-estudiantes-indios-no-podran-cursar-la-fp-porque-espana-les-deniega-el-visado-es-un-desprecio-a-nuestro-futuro.html",
+        "date": "2024-10-17 03:30:00",
+        "sentiment_score": -0.7591424901038408
+    },
+    {
+        "title": "080 Barcelona Fashion: Ariadna Massana, la diseñadora y activista que lleva a la pasarela su agresión sexual",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TTFSUYZIVZER7FEMS4VYBDQYTY.jpg?auth=7b49bf68cc6f209cd4ffb83fbfb02dbeb006bf4ca89e0350b0677289bcde6c76&width=1200",
+        "tags": [
+            "barcelona",
+            "moda barcelona",
+            "080 barcelona fashion",
+            "moda",
+            "salud mental",
+            "abusos sexuales",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-17/080-barcelona-fashion-ariadna-massana-la-disenadora-y-activista-que-lleva-a-la-pasarela-su-agresion-sexual.html",
+        "date": "2024-10-17 03:20:00",
+        "sentiment_score": -0.7755321878939867
+    },
+    {
+        "title": "Los trabajadores de TV3 denuncian que la dirección está “hinchando el organigrama de forma artificial” con cargos de libre designación",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H6TPLGL5NFAQVCBJTKTNAU5PLU.jpg?auth=5d5de81297606a21ea3d26c80386946521055d7d751208a262c06b6f7b0336f2&width=1200",
+        "tags": [
+            "juntsxcat",
+            "psc",
+            "comunicación",
+            "generalitat cataluña",
+            "tv3",
+            "televisión autonómica",
+            "govern cataluña",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-17/los-trabajadores-de-tv3-denuncian-que-la-direccion-esta-hinchando-el-organigrama-de-forma-artificial-con-cargos-de-libre-designacion.html",
+        "date": "2024-10-17 03:20:00",
+        "sentiment_score": -0.8593773934990168
+    },
+    {
+        "title": "Las obras de la estación de La Sagrera obligan a desalojar un asentamiento de 40 personas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LC6IHBBLDZGAPDZRXYDWQL63RI.jpg?auth=4e2ed00602d732e5e0875c63824534e038f9c40902a88731c2be2a79480d17e5&width=1200",
+        "tags": [
+            "recursos públicos",
+            "inmigración irregular españa",
+            "sociedad",
+            "sant andreu salou",
+            "servicios sociales",
+            "sant andreu de llavaneres",
+            "adif",
+            "marruecos",
+            "tren alta velocidad",
+            "argelia",
+            "inmigrantes magrebíes",
+            "vivienda",
+            "inmigración",
+            "barcelona",
+            "renfe",
+            "pobreza",
+            "mossos d'esquadra",
+            "estaciones ferrocarril",
+            "integración educativa",
+            "chabolismo",
+            "trenes",
+            "inmigrantes",
+            "migración",
+            "policía",
+            "catalán",
+            "viviendas alquiler",
+            "sant andreu de la barca",
+            "integración social",
+            "migrantes",
+            "chabolas",
+            "argel",
+            "generalitat cataluña",
+            "inmigrantes africanos",
+            "ayuntamiento barcelona",
+            "cataluña",
+            "magreb"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-17/las-obras-de-la-estacion-de-la-sagrera-obligan-a-desalojar-un-asentamiento-de-40-personas.html",
+        "date": "2024-10-17 03:20:00",
+        "sentiment_score": 0.12431204691529274
+    },
+    {
+        "title": "Vídeo | El AltavoZ, capítulo 3: ¿Debería España pedir perdón a los países que colonizó?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZZKHHN5SHNGXBFJ6KHA4QKNUBU.jpg?auth=b8c86a5bb6b9d28eca72e565a2085882ef7023754cb452174d6c7d8ca92ffc59&width=1200",
+        "tags": [
+            "gobierno méxico",
+            "amlo - andrés manuel lópez obrador",
+            "noticias de españa",
+            "claudia sheinbaum",
+            "programas debate",
+            "jóvenes",
+            "felipe vi",
+            "descubrimiento américa",
+            "vídeo",
+            "latinoamérica"
+        ],
+        "link": "https://elpais.com/videos/2024-10-17/video-el-altavoz-capitulo-3-deberia-espana-pedir-perdon-a-los-paises-que-colonizo.html",
+        "date": "2024-10-17 03:15:00",
+        "sentiment_score": -0.7251030243933201
+    },
+    {
+        "title": "Un vertedero de residuos peligrosos junto a la puerta de casa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7V2PJ3RHFBHKLGYOYFGVT6JHNI.jpg?auth=bb06a6c70ed755886e7a43dc6e311700acadbfb2ebdccc31e5fb54ae314f1923&width=1200",
+        "tags": [
+            "medio ambiente",
+            "residuos industriales",
+            "pp-a",
+            "málaga",
+            "ecología",
+            "vertidos",
+            "residuos tóxicos",
+            "cádiz",
+            "andalucía",
+            "residuos urbanos",
+            "vertederos",
+            "ronda",
+            "residuos",
+            "ríos",
+            "españa",
+            "sotogrande",
+            "psoe-a"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/un-vertedero-de-residuos-peligrosos-junto-a-la-puerta-de-casa.html",
+        "date": "2024-10-17 03:00:00",
+        "sentiment_score": -0.37304259836673737
+    },
+    {
+        "title": "Ya no quedan pisos de segunda mano en Madrid: las cifras que lo explican todo",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/16/venta-en-madrid-de-pisos_bb7c.jpg",
+        "tags": [
+            "vivienda"
+        ],
+        "link": "https://www.telecinco.es/noticias/economia/vivienda/20241017/no-quedan-pisos-segunda-mano-madrid-cifras-explican_18_013734646.html",
+        "date": "2024-10-17 06:05:57",
+        "sentiment_score": -0.8387895412743092
+    },
+    {
+        "title": "«Dama es una promoción histórica que entregamos en menos de un año»",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/17/JuanLuisBlanco2-RNEKDhJ8WAhz4OOdAE4XYiM-1200x840@El%20Norte.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/fiva/dama-promocion-historica-entregamos-ano-20241017075711-nt.html",
+        "date": "2024-10-17 05:57:11",
+        "sentiment_score": 0.5660778917372227
+    },
+    {
+        "title": "El mercado descuenta una nueva bajada de tipos de 25 puntos básicos en la reunión de hoy del BCE",
+        "image_url": "https://forbes.es/wp-content/uploads/2024/10/fotonoticia_20241017075015_1920-916x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/519770/el-mercado-descuenta-una-nueva-bajada-de-tipos-de-25-puntos-basicos-en-la-reunion-de-hoy-del-bce/",
+        "date": "2024-10-17 05:50:15",
+        "sentiment_score": 0.011616230010986328
+    },
+    {
+        "title": "La Hacienda de Illa y enchufismo en TV3",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/12/business/869923139_13218853_1706x960.jpg?contentId=ESPIMA20240712_0140",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241017/la-hacienda-de-illa-enchufismo-en-tv3/894160579_0.html",
+        "date": "2024-10-17 05:45:59",
+        "sentiment_score": -0.37046748399734497
+    },
+    {
+        "title": "Adif amplía el paso superior de Pinar de las Rozas para añadir dos vías más de Cercanías y tren convencional",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/16/obras-para-la-construccion-del-paso-superior-en-la-estacion-de-pinar-de-las-rozas.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5644646/0/adif-amplia-el-paso-superior-de-pinar-de-las-rozas-para-anadir-dos-vias-mas-de-cercanias-y-tren-convencional/",
+        "date": "2024-10-17 05:36:46",
+        "sentiment_score": 0.33765000104904175
+    },
+    {
+        "title": "La medicación y la terapia cognitiva conductual pueden reducir la fatiga de la esclerosis múltiple",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241017073350_120.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-medicacion-terapia-cognitiva-conductual-pueden-reducir-fatiga-esclerosis-multiple-20241017073350.html",
+        "date": "2024-10-17 05:33:50",
+        "sentiment_score": -0.008570238947868347
+    },
+    {
+        "title": "Andorra rechaza que España utilice su información para acusar a Piqué de corrupción",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fab3becf-faa7-490a-9824-fd49cbcb48c1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/10/17/andorra-pique-corrupcion-supercopa-rubiales-109513518.html",
+        "date": "2024-10-17 05:27:16",
+        "sentiment_score": -0.5003869608044624
+    },
+    {
+        "title": "Piqué teme que la declaración del abogado de Rubiales le comprometa y pide el audio a la jueza",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/016a44b2-612f-403d-992c-bc3fd20e61e9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/10/17/pique-teme-declaracion-abogado-rubiales-109513520.html",
+        "date": "2024-10-17 05:27:14",
+        "sentiment_score": -0.3108453154563904
+    },
+    {
+        "title": "Una potente red de universidades públicas para construir el mejor futuro para Andalucía",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d461c883-d2d6-4242-9463-9a7614f322e6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/125-aniversario/2024/10/17/potente-red-universidades-publicas-construir-107457317.html",
+        "date": "2024-10-17 05:00:51",
+        "sentiment_score": 0.15358348190784454
+    },
+    {
+        "title": "El Espanyol, a por la hazaña en La Catedral: el Athletic sólo ha perdido uno de sus últimos 23 partidos como local",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/10/manolo-gonzalez-san-mames-750x375.jpg",
+        "tags": [
+            "athletic club",
+            "san mamés",
+            "actualidad",
+            "espanyol"
+        ],
+        "link": "https://lagradaonline.com/athletic-club-espanyol-datos-estadistica-san-mames/",
+        "date": "2024-10-17 05:00:13",
+        "sentiment_score": -0.6845980249345303
+    },
+    {
+        "title": "Regresa a Barcelona el mejor mercadillo nupcial de España: se celebra en una obra de Antoni Gaudí",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/17/vivir-en-barcelona/894170578_13594176_1706x960.jpg?contentId=ESPIMA20241017_0004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241017/regresa-barcelona-el-mejor-mercadillo-nupcial-de-espana-se-celebra-en-una-obra-antoni-gaudi/894160580_0.html",
+        "date": "2024-10-17 06:24:50",
+        "sentiment_score": 0.3501877412199974
+    },
+    {
+        "title": "El hospital psiquiátrico convertido en Bien Cultural de Interés Nacional: un monumento modernista",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/16/vida/893920661_13591760_1706x960.jpg?contentId=ESPIMA20241016_0062",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/historia/20241017/hospital-psiquiatrico-convertido-bien-cultural-interes-nacional/893910662_0.html",
+        "date": "2024-10-17 06:23:09",
+        "sentiment_score": 0.3597870320081711
+    },
+    {
+        "title": "‘La Revuelta’ de David Broncano sigue ampliando distancia con 'El Hormiguero'",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/17/6710a399db426.png",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.lavanguardia.com/television/20241017/10028611/nueva-victoria-audiencia-revuelta-david-broncano-sigue-ampliando-distancia-hormiguero.html",
+        "date": "2024-10-17 06:21:48",
+        "sentiment_score": 0.30814673006534576
+    },
+    {
+        "title": "\"Quan vaig ingressar a la clínica de desintoxicació era un monstre\"",
+        "image_url": "https://static1.ara.cat/clip/8bcc2fe4-d791-49b8-88a4-465d89b52c1d_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/media/series/ingressar-clinica-desintoxicacio-monstre_128_5170456.html",
+        "date": "2024-10-17 06:19:57",
+        "sentiment_score": -0.31357909739017487
+    },
+    {
+        "title": "Lesley Frowick, sobrina de Halston, el genio de la moda que le dio un estilo propio a Liza Minnelli: \"Decía que un vestido bonito es aquel que se vende\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/1aa015c6015408d2a5f1dd4109132cab/crop/175x0/2944x2077/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/16/17290699449852.jpg",
+        "tags": [
+            "moda",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/moda/2024/10/17/670f7d16e85ecedf0f8b458d.html",
+        "date": "2024-10-17 06:18:05",
+        "sentiment_score": 0.3061276525259018
+    },
+    {
+        "title": "MÉTEO | Dia de pluges intenses a Catalunya: on plourà més?",
+        "image_url": "https://elmon.cat/app/uploads/sites/15/2024/10/europapress_5416196_varios_vecinos_trabajan_zonas_afectadas_lluvias_septiembre_2023_santa.jpg",
+        "tags": [
+            "méteo"
+        ],
+        "link": "https://elmon.cat/meteo/previsio-temps-avui-17-octubre-catalunya-pluja-intensa-914752/",
+        "date": "2024-10-17 06:04:59",
+        "sentiment_score": -0.8880252782255411
+    },
+    {
+        "title": "Cuanto gana un ingeniero informático en España en 2024 con o sin experiencia",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/07/03/un-ingeniero-comprueba-su-portatil-con-una-planta-electrica-al-fondo.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/cuanto-gana-ingeniero-informatico-espana-2024-experiencia-hpe1.html",
+        "date": "2024-10-17 06:00:00",
+        "sentiment_score": 0.514182560145855
+    },
+    {
+        "title": "El Congreso aprueba que la DGT done a las autoescuelas coches adaptados para conductores con discapacidad",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/01/coche-adaptado.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/noticia/5644773/0/congreso-pide-que-dgt-done-autoescuelas-coches-adaptados-para-conductores-con-discapacidad/",
+        "date": "2024-10-17 05:31:44",
+        "sentiment_score": 0.43261000514030457
     }
 ];
