@@ -43,17 +43,6 @@ export default [
         "sentiment_score": 0.724560096859932
     },
     {
-        "title": "Dijeron que eran trabajadores de servicios públicos, pero cuando salieron de la casa, la esposa estaba atada y el esposo estaba muerto",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766064-captura-de-pantalla-2024-10-13-064105.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de ee.uu.",
-            "michigan"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/dijeron-que-eran-trabajadores-servicios-publicos-pero-cuando-salieron-esposa-atada-y-el-esposo-estaba-muerto-trax/",
-        "date": "2024-10-13 10:43:30",
-        "sentiment_score": -0.7776800217106938
-    },
-    {
         "title": "Aldama, el amiguete",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/13/aldama-victor-RgO4km9Tz6bppv6YXBBbdbO-1200x840@diario_abc.jpg",
         "tags": [
@@ -84,26 +73,6 @@ export default [
         "sentiment_score": -0.2678166776895523
     },
     {
-        "title": "Casi 40 colectivos marchan en Madrid para exigir una bajada de los alquileres y amenazan con dejar de pagar las rentas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/13/manifestacion-madrid-RvGbuk9TD2oCdE79DUw8d2I-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/colectivos-marchan-madrid-exigir-bajada-alquileres-amenazan-20241013133126-nt.html",
-        "date": "2024-10-13 11:31:27",
-        "sentiment_score": -0.06537133455276489
-    },
-    {
-        "title": "Netanyahu urge a la ONU a sacar a las tropas de la UNIFIL del Líbano",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/netanyahu.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/netanyahu-urge-onu-sacar-tropas-unifil-libano-20241013124119-nt.html",
-        "date": "2024-10-13 10:47:02",
-        "sentiment_score": -0.39650216698646545
-    },
-    {
         "title": "Muere un motorista en un accidente en la AP-7 en Avinyonet del Penedès (Barcelona)",
         "image_url": "https://imagenes.elpais.com/resizer/v2/ZHCYQTUBCVCWNA6LJ6UYXQEQIQ.jpg?auth=c2ee3eb154f0300ee5f687155080fb20727887a980eed3b72578ed496510d9a3&width=1200",
         "tags": [
@@ -121,106 +90,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-13/muere-un-motorista-en-un-accidente-en-la-ap-7-en-avinyonet-del-penedes-barcelona.html",
         "date": "2024-10-13 15:58:52",
         "sentiment_score": -0.6805446539074183
-    },
-    {
-        "title": "Los jóvenes abanderan la protesta masiva en Madrid por la vivienda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DEAJ5CVFB5BNJDRX7WKGO4PBLY.jpg?auth=601ddd76d934dcfa7e95a6e2c9198fb81dd0d83ec7ecf7dd56b8cb1395e1cbb3&width=1200",
-        "tags": [
-            "protestas sociales",
-            "ayuntamiento madrid",
-            "pah",
-            "vivienda",
-            "manifestaciones",
-            "asociaciones vecinos",
-            "madrid",
-            "comunidad de madrid",
-            "asociaciones"
-        ],
-        "link": "https://elpais.com/espana/2024-10-13/los-jovenes-abanderan-la-protesta-masiva-en-madrid-por-la-vivienda.html",
-        "date": "2024-10-13 14:04:12",
-        "sentiment_score": -0.06725947558879852
-    },
-    {
-        "title": "Miles de personas se manifiestan en Barcelona contra la Copa del América",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N6FO2AH2N5FQTION6YB7NQ2RLA.JPG?auth=2206cc519057ad50882baa69b4d93573ee9ee763352672485e8c036aa0a8dce9&width=1200",
-        "tags": [
-            "barcelona",
-            "turismo",
-            "protestas sociales",
-            "cataluña",
-            "copa américa vela",
-            "manifestaciones",
-            "jaume collboni",
-            "ayuntamiento barcelona",
-            "turismo masivo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-13/miles-de-personas-se-manifiestan-en-barcelona-contra-la-copa-del-america.html",
-        "date": "2024-10-13 13:32:15",
-        "sentiment_score": -0.06775492802262306
-    },
-    {
-        "title": "Collboni se compromete con los comunes a tramitar este año la regulación de los alquileres de temporada en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666",
-        "tags": [
-            "precio vivienda",
-            "ayuntamiento barcelona",
-            "janet sanz",
-            "jaume collboni",
-            "vivienda",
-            "viviendas alquiler",
-            "presupuestos municipales",
-            "barcelona en comú",
-            "cataluña",
-            "barcelona",
-            "atm",
-            "cruceros",
-            "jordi valls riera",
-            "psc",
-            "política municipal",
-            "transporte público"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-13/collboni-se-compromete-con-los-comunes-a-tramitar-este-ano-la-regulacion-de-los-alquileres-de-temporada-en-barcelona.html",
-        "date": "2024-10-13 12:30:19",
-        "sentiment_score": 0.0306241512298584
-    },
-    {
-        "title": "El PP pide la dimisión de Sánchez y anuncia una querella por financiación ilegal contra el PSOE",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FGMNMP2AP5AF7A45NWCRLZIYJA.jpg?auth=679e537b58b510b59aed28a031aede0b68e7766f844c8181821e23b456e46f61",
-        "tags": [
-            "pp",
-            "pedro sánchez",
-            "cuca gamarra",
-            "alberto núñez feijóo",
-            "españa",
-            "justicia",
-            "psoe",
-            "caso koldo",
-            "política",
-            "financiación ilegal"
-        ],
-        "link": "https://elpais.com/espana/2024-10-13/el-pp-pide-la-dimision-de-sanchez-y-anuncia-una-querella-por-financiacion-ilegal-contra-el-psoe.html",
-        "date": "2024-10-13 11:20:05",
-        "sentiment_score": -0.8134088106453419
-    },
-    {
-        "title": "El Plan Vive no cuenta con suelo cedido para vivienda pública después de seis meses, según el PSPV",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/F74YPISLONGVVIEFFED6UYL2KI.jpg?auth=22d041203ea84b431f02a3d21f6c41f363ba66e7f652c0c1b4ea566c8ed8ba86",
-        "tags": [
-            "pp",
-            "economía",
-            "valencia",
-            "comunidad valenciana",
-            "planes vivienda",
-            "maria josé salvador",
-            "generalitat valenciana",
-            "carlos mazón",
-            "pspv-psoe",
-            "vivienda",
-            "corts valencianes"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-13/el-plan-vive-no-cuenta-con-suelo-cedido-para-vivienda-publica-despues-de-seis-meses-segun-el-pspv.html",
-        "date": "2024-10-13 11:19:55",
-        "sentiment_score": -0.04877166450023651
     },
     {
         "title": "Rogkavopoulos, el microondas del Baskonia",
@@ -6609,5 +6478,313 @@ export default [
         "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-lamine-yamal-contamos-todo-familia/20241017000000860092.html",
         "date": "2024-10-16 22:00:00",
         "sentiment_score": 0.43418896198272705
+    },
+    {
+        "title": "Machado niega haber huido de Venezuela, como dijo Maduro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1737323-el-regimen-esta-en-la-posicion-mas-debil-de-su-historia-dice-maria-corina-machado.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones venezuela",
+            "maría corina machado",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/16/machado-niega-huir-venezuela-orix/",
+        "date": "2024-10-17 02:12:11",
+        "sentiment_score": -0.7862143311649561
+    },
+    {
+        "title": "Kamala Harris se enfrenta a presentador de Fox News en una tensa entrevista",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767913-kamala-harris-fox-news.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "kamala harris",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/16/kamala-harris-fox-news-tensa-entrevista-trax/",
+        "date": "2024-10-17 01:48:14",
+        "sentiment_score": -0.7758931703865528
+    },
+    {
+        "title": "Abogado de García Luna: Él no es ese hombre que describió el juez, con una doble vida",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21045629-560799-463-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/abogado-garcia-luna-no-es-ese-hombre-que-describio-el-juez-panorama-tv-fast",
+        "date": "2024-10-17 01:46:51",
+        "sentiment_score": -0.6101216245442629
+    },
+    {
+        "title": "Abogado de García Luna: Él no es ese hombre que describió el juez, con una doble vida",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21045629-560799-463-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "guerra contra el narcotráfico",
+            "fast – news variety",
+            "juicio",
+            "xpress",
+            "genaro garcía luna"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/abogado-garcia-luna-no-es-ese-hombre-que-describio-el-juez-panorama-tv-fast/",
+        "date": "2024-10-17 01:46:51",
+        "sentiment_score": -0.4895578399300575
+    },
+    {
+        "title": "Explosión en Nigeria deja 147 muertos y más de 70 heridos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178042492.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "nigeria",
+            "fast – news variety",
+            "xpress",
+            "explosión",
+            "accidente",
+            "mundo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/flash-nigeria-explosion-camion-combustible-panorama-tv-fast/",
+        "date": "2024-10-17 01:41:02",
+        "sentiment_score": -0.8490286245942116
+    },
+    {
+        "title": "Varios terremotos sacudieron el sur de California. ¿Se avecina uno grande?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767869-gettyimages-1232027044-restricted.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "terremotos",
+            "california",
+            "noticias de ee.uu.",
+            "terremoto",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/16/serie-terremotos-california-uno-grande-trax/",
+        "date": "2024-10-17 01:23:36",
+        "sentiment_score": -0.6898416057229042
+    },
+    {
+        "title": "Las noticias económicas del 16 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178011415.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-del-16-de-octubre-2024-panorama-mundial-tv-fast",
+        "date": "2024-10-17 01:13:51",
+        "sentiment_score": -0.017552580684423447
+    },
+    {
+        "title": "¿Por qué son tan distintas ciudades como Nogales en México y Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-373343-frontera-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fracaso-comunidades-nogales-arizona-sonora-analisis-premio-nobel",
+        "date": "2024-10-17 01:03:39",
+        "sentiment_score": -0.6433898154646158
+    },
+    {
+        "title": "¿Por qué son tan distintas ciudades como Nogales en México y Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-373343-frontera-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "economía",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fracaso-comunidades-nogales-arizona-sonora-analisis-premio-nobel/",
+        "date": "2024-10-17 01:03:39",
+        "sentiment_score": -0.7321483753621578
+    },
+    {
+        "title": "Astrónomos descubren una galaxia lejana similar a la Vía Láctea que desafía nuestras teorías sobre la evolución del cosmos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767888-galaxia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ciencia y espacio",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/16/astronomos-descubren-galaxia-lejana-similar-via-lactea-trax/",
+        "date": "2024-10-17 00:56:03",
+        "sentiment_score": 0.24839943647384644
+    },
+    {
+        "title": "Álvaro García Ortiz, fiscal general del Estado: “Sé lo que hice, yo no filtré ningún correo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LT3QRLC72RD4XJT5C3PLZ3VAVM.jpg?auth=2d21699a8f601df21095d17e9ed1a577e94d4fd24dce90e53b4955a968d9133a&width=1200",
+        "tags": [
+            "tribunal supremo",
+            "dimisiones",
+            "álvaro garcía ortiz",
+            "tve",
+            "fiscalía general estado",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-16/alvaro-garcia-ortiz-fiscal-general-del-estado-se-lo-que-hice-yo-no-filtre-ningun-correo.html",
+        "date": "2024-10-16 22:52:07",
+        "sentiment_score": -0.15963829308748245
+    },
+    {
+        "title": "Corea del Norte sostiene que su Constitución define \"claramente\" a Corea del Sur como Estado \"hostil\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241017040341_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-corea-norte-sostiene-constitucion-define-claramente-corea-sur-estado-hostil-20241017040341.html",
+        "date": "2024-10-17 02:03:41",
+        "sentiment_score": -0.04567825794219971
+    },
+    {
+        "title": "El ‘factor Gayà’: el Valencia suma 15 de 60 puntos sin el capitán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ed792cc6-90a5-44e0-91fe-5bb95a7f7551_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/17/factor-gaya-valencia-109472410.html",
+        "date": "2024-10-17 02:01:08",
+        "sentiment_score": 0.8297801129519939
+    },
+    {
+        "title": "La desigualdad del bono joven del Gobierno: 250 euros supone el 45% de un alquiler en Jaén y el 27% en Madrid",
+        "image_url": "https://s1.elespanol.com/2023/02/13/enclave-ods/noticias/741186582_230880418_1706x960.jpg?contentId=ESPIMA20230213_0708",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241017/desigualdad-bono-joven-gobierno-euros-supone-alquiler-jaen-madrid/893911092_0.html",
+        "date": "2024-10-17 01:18:23",
+        "sentiment_score": -0.4830317534506321
+    },
+    {
+        "title": "El secretario de Movilidad: \"Algunos ayuntamientos quieren poner peajes en las Zonas de Bajas Emisiones\"",
+        "image_url": "https://s1.elespanol.com/2024/10/16/invertia/observatorios/movilidad/893921173_250056237_1706x960.jpg?contentId=ESPIMA20241016_0574",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20241017/secretario-movilidad-ayuntamientos-quieren-poner-peajes-zonas-bajas-emisiones/893910953_0.html",
+        "date": "2024-10-17 01:13:07",
+        "sentiment_score": 0.45502838492393494
+    },
+    {
+        "title": "Almeida duplicará el número de agentes que atiende las llamadas de mujeres maltratadas: la 'Sala 900'",
+        "image_url": "https://s1.elespanol.com/2024/10/16/madrid/capital/893921591_250069294_1706x960.jpg?contentId=ESPIMA20241016_0992",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241017/almeida-duplicara-numero-agentes-atiende-llamadas-mujeres-maltratadas-sala/893911032_0.html",
+        "date": "2024-10-17 01:09:41",
+        "sentiment_score": -0.5807248465716839
+    },
+    {
+        "title": "La Comunidad de Madrid lidera la IA en Europa: primera región con jóvenes formados en esta tecnología",
+        "image_url": "https://s1.elespanol.com/2024/10/14/invertia/disruptores/autonomias/madrid/893420820_249986634_1706x960.jpg?contentId=ESPIMA20241014_0171",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/madrid/20241017/comunidad-madrid-lidera-ia-europa-primera-region-jovenes-formados-tecnologia/892660916_0.html",
+        "date": "2024-10-17 00:59:20",
+        "sentiment_score": 0.47633054852485657
+    },
+    {
+        "title": "16 OCT 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/16-oct-2024-partidazo-cope-20241017_3029318.html",
+        "date": "2024-10-17 00:00:07",
+        "sentiment_score": 0.014750614762306213
+    },
+    {
+        "title": "La imputación del fiscal, un hito que suscita dudas",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2017/12/10/2017121023265131482.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/imputacion-fiscal-hito-que-suscita-dudas/20241017013053321010.html",
+        "date": "2024-10-16 23:30:53",
+        "sentiment_score": -0.8791605746373534
+    },
+    {
+        "title": "A Van Gogh todavía le quedan orejas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/14/670d09abce527.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241017/10027876/gogh-todavia-le-quedan-orejas.html",
+        "date": "2024-10-16 22:30:00",
+        "sentiment_score": -0.5026060454547405
+    },
+    {
+        "title": "Almeida y Puente, de alcaldes 'de rebote' a enemigos íntimos por el Cercanías: hoy cita envenenada por la A-5 tras sus grescas (y bloqueos) en redes sociales",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/3f1b4f9aba4cd69f909c113d133ebec3/crop/0x0/3065x2043/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/16/17290995489209.jpg",
+        "tags": [
+            "óscar puente",
+            "josé luis martínez-almeida",
+            "artículos carlos guisasola",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/10/17/670ffac9e9cf4a584c8b458e.html",
+        "date": "2024-10-16 22:26:00",
+        "sentiment_score": 0.06674231588840485
+    },
+    {
+        "title": "Esta es la provincia en la que los habitantes de Baleares buscan a su 'media naranja'",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3042165.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2024/10/17/2260091/amor-romantico-esta-provincia-los-habitantes-baleares-buscan-media-naranja.html",
+        "date": "2024-10-17 02:00:01",
+        "sentiment_score": -0.09847491979598999
+    },
+    {
+        "title": "Xavier Bonet: «Casi todo los hombres a partir de los 80 tendrán un cáncer de próstata»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3041689.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2024/10/17/2259905/sanidad-baleares-casi-todo-hombres-tendran-cancer-prostata.html",
+        "date": "2024-10-17 01:57:09",
+        "sentiment_score": -0.17651909589767456
+    },
+    {
+        "title": "Piden más de 60 años de cárcel a una banda de 'lanzas chilenos' por una oleada de robos en chalets",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3042287.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2024/10/17/2260125/robos-mallorca-piden-mas-anos-carcel-banda-lanzas-chilenos-por-robos-chalets.html",
+        "date": "2024-10-17 01:57:07",
+        "sentiment_score": -0.26107682287693024
+    },
+    {
+        "title": "La seguridad, el otro gran escollo de Limak para volver al Camp Nou a final de año",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/17/culemania/palco/894170576_13594080_1706x960.jpg?contentId=ESPIMA20241017_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241017/la-seguridad-escollo-de-limak-camp-nou/893910730_0.html",
+        "date": "2024-10-16 23:32:46",
+        "sentiment_score": 0.5353075489401817
+    },
+    {
+        "title": "La Masía manda en el Barça: los canteranos elevan el valor de la plantilla hasta los 944 millones",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/17/culemania/palco/894170575_13594050_1706x960.jpg?contentId=ESPIMA20241017_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241017/la-masia-el-barca-los-canteranos-plantilla/893910729_0.html",
+        "date": "2024-10-16 23:28:00",
+        "sentiment_score": -0.009512413293123245
+    },
+    {
+        "title": "Las salvedades de la auditoría del Barça ponen contra las cuerdas a Joan Laporta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/10/21/empresas/803679788_9060773_1706x960.jpg?contentId=ESPIMA20231021_0164",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241017/las-salvedades-auditoria-barca-cuerdas-joan-laporta/893910658_0.html",
+        "date": "2024-10-16 23:24:19",
+        "sentiment_score": -0.49879758059978485
+    },
+    {
+        "title": "Cine familiar a precio especial: disfruta de una programación única en Almería",
+        "image_url": "https://images.ficheroslavoz.com/77/77e12eee-96d7-4940-a410-26bd1aa67896.jpg?crop=1511%2C851&expires=1760678121&height=1070&token=nyZQN7JLvwsFOmQnQy8KKFvmp2l3ej-Hevbm8jliLcc&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/11/pequealmeria/281808/cine-familiar-a-precio-especial-disfruta-de-una-programacion-unica-en-almeria",
+        "date": "2024-10-16 22:41:00",
+        "sentiment_score": 0.40265175327658653
     }
 ];
