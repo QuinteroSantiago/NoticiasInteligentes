@@ -1,487 +1,5 @@
 export default [
     {
-        "title": "Robert Roberson fue condenado a muerte tras el fallecimiento de su hija. Ahora, el síndrome del bebé sacudido está en el centro de sus apelaciones de última hora",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766365-copia-de-foto-para-wp-2024-10-14t084154-908.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/14/robert-roberson-condenado-muerte-hija-sindrome-bebe-sacudido-apelaciones-ultima-hora-trax/",
-        "date": "2024-10-14 16:45:08",
-        "sentiment_score": -0.8303887853398919
-    },
-    {
-        "title": "Mira cómo un niño de 12 años recauda fondos para concientizar acerca del autismo decorando su casa para Halloween",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/halloween-nino-autismo-ush-trax/",
-        "date": "2024-10-14 16:32:35",
-        "sentiment_score": 0.3574132025241852
-    },
-    {
-        "title": "Condenan Raúl Morodo, exembajador de España en Venezuela, a 10 meses de prisión por ocultar ganancias de PDVSA",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/juiio.jpg?quality=100&strip=info",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/14/raul-morodo-exembajador-espana-venezuela-condena-pdvsa-orix/",
-        "date": "2024-10-14 16:26:01",
-        "sentiment_score": -0.6713868044316769
-    },
-    {
-        "title": "Abascal sobre la inmigración ilegal: \"En algunos caos es totalmente incompatible con la manera de vivir de los europeos\"",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1232965830.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/migrantes-sociedad-adaptacion-espana-crisis-vox-abascal-conclusiones-tv",
-        "date": "2024-10-14 16:13:00",
-        "sentiment_score": -0.8696274645626545
-    },
-    {
-        "title": "Abascal sobre la inmigración ilegal: \"En algunos caos es totalmente incompatible con la manera de vivir de los europeos\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "santiago abascal",
-            "inmigración ilegal",
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/migrantes-sociedad-adaptacion-espana-crisis-vox-abascal-conclusiones-tv/",
-        "date": "2024-10-14 16:13:00",
-        "sentiment_score": -0.9222829136997461
-    },
-    {
-        "title": "Vox asegura que la Unión Europea no ha estado a la altura de las circunstancias con la oposición venezolana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "pedro sánchez",
-            "españa",
-            "santiago abascal",
-            "edmundo gonzález urrutia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ue-altura-apoyo-edmungo-venezuela-maduro-plan-izquierda-conclusiones-tv/",
-        "date": "2024-10-14 16:07:16",
-        "sentiment_score": -0.724156254902482
-    },
-    {
-        "title": "Vox asegura que la Unión Europea no ha estado a la altura de las circunstancias con la oposición venezolana",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175803043.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ue-altura-apoyo-edmungo-venezuela-maduro-plan-izquierda-conclusiones-tv",
-        "date": "2024-10-14 16:07:16",
-        "sentiment_score": -0.7508593667298555
-    },
-    {
-        "title": "¿Cómo contribuyen los latinos en Madrid al crecimiento de la región?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21036756-335093-253-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/latinos-madrid-espana-negocios-tv",
-        "date": "2024-10-14 16:06:18",
-        "sentiment_score": -0.04926542937755585
-    },
-    {
-        "title": "¿Cómo contribuyen los latinos en Madrid al crecimiento de la región?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21036756-335093-253-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/latinos-madrid-espana-negocios-tv/",
-        "date": "2024-10-14 16:06:18",
-        "sentiment_score": 0.43027716875076294
-    },
-    {
-        "title": "Líder de Vox dice que el Gobierno de Pedro Sánchez permitió que amenazaran a Edmundo González en suelo español",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175815116.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "españa",
-            "santiago abascal",
-            "edmundo gonzález urrutia",
-            "pedro sánchez"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-edmundo-asilo-espana-presion-ayuda-regimen-sanchez-conclusiones-tv/",
-        "date": "2024-10-14 15:58:58",
-        "sentiment_score": -0.66282569617033
-    },
-    {
-        "title": "Meloni amenaza a Netanyahu con retirar el apoyo de Italia a Israel: el ataque a los cascos azules fue «deliberado»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/MELONI-NETANYAHU-R7UUp0P9Foy3shaqt39c41O-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/italia-encabeza-indignacion-israel-ataques-mision-onu-20241014123209-nt.html",
-        "date": "2024-10-14 17:08:30",
-        "sentiment_score": -0.07681876420974731
-    },
-    {
-        "title": "Le Pen es interrogada por el juez por el escándalo de los fondos europeos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/lepen-Rt6lOR2dhcbpEU1pi8YKGmL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/pen-interrogada-juez-escandalo-fondos-europeos-20241014190348-nt.html",
-        "date": "2024-10-14 17:07:24",
-        "sentiment_score": -0.11497828364372253
-    },
-    {
-        "title": "Un expolicía de la Stasi es condenado 50 años después de «ejecutar sin piedad» a un polaco",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/stasi-Rp32bl8MN0VUMMiywGW9IOP-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/expolicia-stasi-condenado-anos-despues-ejecutar-piedad-20241014172547-nt.html",
-        "date": "2024-10-14 16:58:47",
-        "sentiment_score": -0.219406396150589
-    },
-    {
-        "title": "Los sindicatos se oponen a negociar las bajas flexibles pese a la «preocupación» de la Seguridad Social por el alza del gasto",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/14/EuropaPress_6265393_ministra_inclusion_seguridad_social_migraciones_elma_saiz_llega_sesion-RNV1YCj7RMiL84saHr4uFfK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sindicatos-oponen-negociar-bajas-flexibles-pese-preocupacion-20241014185336-nt.html",
-        "date": "2024-10-14 16:57:16",
-        "sentiment_score": -0.021756738424301147
-    },
-    {
-        "title": "El compromiso con la excelencia del grupo agroalimentario MIGASA",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/16/migasa-RNAXfS10jlXzkwpmxWFDWxI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/compromiso-excelencia-grupo-agroalimentario-migasa-20241016201631-nt.html",
-        "date": "2024-10-14 16:43:01",
-        "sentiment_score": 0.21942609548568726
-    },
-    {
-        "title": "En MIGASA somos unos apasionados del campo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/16/migasa--RmgGcNGH8KXSDb8OVXutlrJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/migasa-apasionados-campo-20241016203425-nt.html",
-        "date": "2024-10-14 16:41:02",
-        "sentiment_score": 0.13041426241397858
-    },
-    {
-        "title": "Digi revienta el mercado de las telecos 'low cost' y lanza una tarifa de fibra por 10 euros",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/14/digi-tienda-REVsoNYXToy7cTqxyIh05DL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/digi-revienta-mercado-telecos-low-cost-lanza-20241014171705-nt.html",
-        "date": "2024-10-14 15:20:41",
-        "sentiment_score": 0.0027754902839660645
-    },
-    {
-        "title": "El Nobel de Economía 2024 premia la teoría que vincula la calidad de las instituciones con la prosperidad de los países",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/15/1487341417-Rlw1DhQu4Ug0hewQWWG51wJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/nobel-economia-2024-premia-teoria-vincula-calidad-20241014171921-nt.html",
-        "date": "2024-10-14 15:19:22",
-        "sentiment_score": -0.07146230340003967
-    },
-    {
-        "title": "Oficinas Acelera Pyme, la palanca para el gran salto digital",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/18/acelera-pyme_20241011162206-RmtWwxhxxUfhXBuZ4lt9RkL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/oficinas-acelera-pyme-palanca-gran-salto-digital-20241018163927-nt.html",
-        "date": "2024-10-14 15:14:05",
-        "sentiment_score": 0.06938739120960236
-    },
-    {
-        "title": "El filme que Trump trató de prohibir irrumpe en la campaña de Estados Unidos",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/df/media_thumb_2x-link-3989370.webp",
-        "tags": [
-            "cine",
-            "cultura",
-            "donald trump",
-            "the apprentince",
-            "sebastian stan",
-            "películas"
-        ],
-        "link": "https://www.meneame.net/story/filme-trump-trato-prohibir-irrumpe-campana-estados-unidos",
-        "date": "2024-10-14 14:45:02",
-        "sentiment_score": 0.2074151635169983
-    },
-    {
-        "title": "Los colectivos que convocaron la manifestación de la vivienda la califican de “éxito rotundo” y advierten de que “es solo el inicio”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/INOSQC4YUJDL7EFIU7HC66GIA4.jpg?auth=cd5d029593458c2f3d73e76e709bb73d3d581252774058fb06fee8bb8285af91&width=1200",
-        "tags": [
-            "madrid",
-            "viviendas alquiler",
-            "noticias de españa",
-            "manifestaciones",
-            "comunidad de madrid",
-            "vivienda"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-14/los-colectivos-que-convocaron-la-manifestacion-de-la-vivienda-la-califican-de-exito-rotundo-y-advierten-de-que-es-solo-el-inicio.html",
-        "date": "2024-10-14 16:50:56",
-        "sentiment_score": 0.13826149329543114
-    },
-    {
-        "title": "Sara Dowling, la cantante de jazz de raíces palestinas que brilla en Valencia tras triunfar en Londres: “Vivo entre dos mundos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NI5XXVNAIRGGLAL7TYOBR573GM.jpg?auth=4b9570f712d197f56b92e8d44ae7a41533371065e49021c0b90292489fd775ad&width=1200",
-        "tags": [
-            "músicos",
-            "billie holliday",
-            "ella fitzgerald",
-            "sarah vaughan",
-            "jazz",
-            "comunidad valenciana",
-            "albert sanz",
-            "londres",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-14/sara-dowling-la-cantante-de-jazz-de-raices-palestinas-que-brilla-en-valencia-tras-triunfar-en-londres-vivo-entre-dos-mundos.html",
-        "date": "2024-10-14 16:11:16",
-        "sentiment_score": 0.5085164792835712
-    },
-    {
-        "title": "Cae una amplia organización que blanqueaba dinero del tráfico de marihuana y ‘gas de la risa’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7JVWDH5255AGLOIOVYAMUHAAF4.jpg?auth=153055bb9c609c6a97118004871893b203d8899208daf56adace6aea6847e32b&width=1200",
-        "tags": [
-            "policía nacional",
-            "andalucía",
-            "blanqueo capitales",
-            "costa del sol",
-            "málaga",
-            "antequera",
-            "españa",
-            "detenciones"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/cae-una-amplia-organizacion-que-blanqueaba-dinero-del-trafico-de-marihuana-y-gas-de-la-risa.html",
-        "date": "2024-10-14 16:09:05",
-        "sentiment_score": -0.6141041629016399
-    },
-    {
-        "title": "La Selección sub-19 busca cerrar el torneo con victoria ante la anfitriona",
-        "image_url": "https://www.diariodeteruel.es/uploads/diariodeteruel/contenidos/c_70589_241015-27-01.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.diariodeteruel.es/deportes/la-seleccion-sub-19-busca-cerrar-el-torneo-con-victoria-ante-la-anfitriona",
-        "date": "2024-10-14 17:10:00",
-        "sentiment_score": 0.5377342775464058
-    },
-    {
-        "title": "Una diputada del PP de Madrid propone \"tomar medidas\" ante las menciones de la oposición a la investigación a la 'número 3' de Ayuso",
-        "image_url": "https://static.eldiario.es/clip/700be928-b386-417f-9651-7bd0a5590945_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/madrid/diputada-pp-madrid-propone-medidas-menciones-oposicion-investigacion-numero-3-ayuso_1_11732443.html",
-        "date": "2024-10-14 17:08:18",
-        "sentiment_score": -0.10982294380664825
-    },
-    {
-        "title": "El mundo de la música se une para homenajear al maestro José Peris Lacasa en el centenario de su nacimiento",
-        "image_url": "https://s1.elespanol.com/2024/10/14/aragon/cultura/893421369_250003671_1706x960.jpg?contentId=ESPIMA20241014_0720",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/aragon/cultura/20241014/mundo-musica-une-homenajear-maestro-jose-peris-lacasa-centenario-nacimiento/893411114_0.html",
-        "date": "2024-10-14 17:07:38",
-        "sentiment_score": 0.19592642597854137
-    },
-    {
-        "title": "La reflexión de Roberto Morales sobre el futuro de Raúl González en el Real Madrid: \"Por el nombre\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2024/10/14/670c5d7c4768e.r_d.567-352-7407.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/reflexion-roberto-morales-sobre-futuro-raul-gonzalez-real-madrid-nombre-20241014_3027032.html",
-        "date": "2024-10-14 17:00:40",
-        "sentiment_score": -0.061097174882888794
-    },
-    {
-        "title": "Almeida multa con 800.000 euros por exceso de ruido a los promotores de varios conciertos del Bernabéu",
-        "image_url": "https://okdiario.com/img/2024/07/23/concierto-karol-g-en-el-santiago-bernabeu..jpg",
-        "tags": [
-            "madrid",
-            "conciertos",
-            "estadio santiago bernabéu",
-            "ayuntamiento de madrid",
-            "españa",
-            "multas"
-        ],
-        "link": "https://okdiario.com/madrid/almeida-multa-800-000-euros-exceso-ruido-promotores-varios-conciertos-del-bernabeu-13638093",
-        "date": "2024-10-14 16:58:53",
-        "sentiment_score": -0.6048859767615795
-    },
-    {
-        "title": "Protagonismo de CyL en los Premios Alimentos de España",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/7b9edfa5-cde6-a8b5-0cdc5b3f6538e46f.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z7b9edeb1-aa3e-88ad-23104fa431d2b94a/202410/protagonismo-de-cyl-en-los-premios-alimentos-de-espana",
-        "date": "2024-10-14 16:49:04",
-        "sentiment_score": 0.8212152868509293
-    },
-    {
-        "title": "Almeida multa con 800.000 euros a los promotores de los conciertos del Bernabéu que excedieron los límites de ruido",
-        "image_url": "https://s1.elespanol.com/2024/05/31/madrid/capital/859424448_243658515_1706x960.jpg?contentId=ESPIMA20240531_0399",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/madrid/capital/20241014/almeida-multa-euros-promotores-conciertos-bernabeu-pasaron-limites-ruido/893410998_0.html",
-        "date": "2024-10-14 16:38:49",
-        "sentiment_score": -0.8069183640182018
-    },
-    {
-        "title": "Marlaska deporta a Marruecos a seis solicitantes de asilo saharauis de Barajas",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/09/europapress-6230065-varias-personas-apoyan-pancartas-saharauis-retenidos-terminal-t-1-1440x808.jpg",
-        "tags": [
-            "españa",
-            "sáhara occidental",
-            "fernando grande-marlaska",
-            "marruecos"
-        ],
-        "link": "https://www.elindependiente.com/espana/2024/10/14/marlaska-deporta-activistas-saharauis/",
-        "date": "2024-10-14 16:26:58",
-        "sentiment_score": -0.4597405977547169
-    },
-    {
-        "title": "Cristiano Ronaldo lanzó su colección exclusiva de relojes",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/2057818a92d258056e94481e36e26bebfb149155w-e1728921900463.jpg",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "cristiano ronaldo"
-        ],
-        "link": "https://eldiariony.com/2024/10/14/cristiano-ronaldo-lanzo-su-coleccion-exclusiva-de-relojes/",
-        "date": "2024-10-14 16:19:16",
-        "sentiment_score": 0.4623807445168495
-    },
-    {
-        "title": "CriteriaCaixa está en negociaciones avanzadas para vender su participación en Saba a Interparking",
-        "image_url": "https://forbes.es/wp-content/uploads/2024/10/fotonoticia_20241014190745_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/517199/criteriacaixa-esta-en-negociaciones-avanzadas-para-vender-su-participacion-en-saba-a-interparking/",
-        "date": "2024-10-14 17:07:45",
-        "sentiment_score": 0.13040079176425934
-    },
-    {
-        "title": "Muere una ciclista atropellada en la BP-1121 en Monistrol de Montserrat (Barcelona)",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/10/14/CAEA9629-90EB-43AD-8DF0-B5F738ADB1D0/96.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/muere-ciclista-atropellada-bp1121-monistrol-montserrat-barcelona_20241014670d4fdce2e54f0001809d3b.html",
-        "date": "2024-10-14 17:07:40",
-        "sentiment_score": -0.7923595793545246
-    },
-    {
-        "title": "Nestlé y Damm ultiman un acuerdo para producir y distribuir Nestea en España",
-        "image_url": "https://forbes.es/wp-content/uploads/2024/10/fotonoticia_20241014190730_1920-901x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/517204/nestle-y-damm-ultiman-un-acuerdo-para-producir-y-distribuir-nestea-en-espana/",
-        "date": "2024-10-14 17:07:30",
-        "sentiment_score": -0.0557827353477478
-    },
-    {
-        "title": "La Fiscalía pide 55 años de cárcel para un hombre por violar a sus dos primas desde que tenían seis años y obligar a prostituirse a una",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/09/26/archivo-fachada-del-palacio-de-justicia-de-catalunya-sede-del-tsjc-y-de-la-audiencia-de-barcelona.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/noticia/5643788/0/fiscalia-pide-55-anos-carcel-para-un-hombre-por-violar-sus-dos-primas-desde-que-tenian-seis-anos-obligar-prostituirse-una/",
-        "date": "2024-10-14 17:05:52",
-        "sentiment_score": -0.2131129801273346
-    },
-    {
-        "title": "Muere una ciclista atropellada por un autobús en Monistrol de Montserrat (Barcelona)",
-        "image_url": "https://www.elplural.com/uploads/s1/18/15/15/8/coche-de-los-mossos-d-esquadra-ep_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/muere-ciclista-atropellada-autobus-monistrol-montserrat-barcelona-epns-nmrs_339162102",
-        "date": "2024-10-14 17:03:34",
-        "sentiment_score": -0.882874664850533
-    },
-    {
-        "title": "El aeropuerto de Zaragoza termina el verano con una crecida en todos sus tráficos",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/07/19/pasajeros-en-el-aeropuerto-de-zaragoza-7.jpeg",
-        "tags": [
-            "zaragoza"
-        ],
-        "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2024/10/14/aeropuerto-zaragoza-verano-aumento-trafico-1769835.html",
-        "date": "2024-10-14 17:03:29",
-        "sentiment_score": 0.29734156280755997
-    },
-    {
-        "title": "Diez años de cárcel para un exagente de la Stasi por matar en 1974 a un hombre que huía a Berlín Oeste",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DV3NVYP7WVEP5CISDJ5RNS6OVI.jpg?auth=d7e5edf46f9c7df45e96f05a1bb51bc749365fb9bdcad95909d43b836374ffda&width=1200",
-        "tags": [
-            "centroeuropa",
-            "rfa",
-            "alemania",
-            "fuerzas seguridad",
-            "historia contemporánea",
-            "rda",
-            "servicios inteligencia",
-            "defensa",
-            "seguridad nacional",
-            "espionaje",
-            "política",
-            "europa",
-            "justicia",
-            "kgb",
-            "stasi"
-        ],
-        "link": "https://elpais.com/internacional/2024-10-14/diez-anos-de-carcel-para-un-exagente-de-la-stasi-por-matar-en-1974-a-un-hombre-que-huia-a-berlin-oeste.html",
-        "date": "2024-10-14 16:55:55",
-        "sentiment_score": -0.8014797437936068
-    },
-    {
-        "title": "Muere una ciclista atropellada en la BP-1121 en Monistrol de Montserrat",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/10/14/muere-una-ciclista-atropellada-en-la-bp-1121-en-monistrol-de-montserrat-barcelona.r_d.1061-836-5156.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/noticia/5643779/0/muere-ciclista-atropellada-monistrol-montserrat-barcelona/",
-        "date": "2024-10-14 16:55:46",
-        "sentiment_score": -0.6035559102892876
-    },
-    {
-        "title": "Muere atropellada una ciclista en Monistrol de Montserrat",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1d5975b3-4d07-4b44-8699-06a08fa593f0_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20241014/muere-atropellada-ciclista-monistrol-montserrat-109312004",
-        "date": "2024-10-14 16:55:21",
-        "sentiment_score": -0.7966818641871214
-    },
-    {
-        "title": "Esta es la comunidad autónoma en la que es más barato comprar una vivienda en España",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/comunidad-autonoma-comprar-vivienda-barato-espana.jpg",
-        "tags": [
-            "vivienda",
-            "castilla-la mancha",
-            "economía"
-        ],
-        "link": "https://www.elindependiente.com/economia/2024/10/14/comunidad-autonoma-mas-barato-comprar-vivienda/",
-        "date": "2024-10-14 16:51:53",
-        "sentiment_score": -0.686398608610034
-    },
-    {
         "title": "CNN obtiene un vistazo exclusivo a los preparativos para el traslado de los pandas desde China",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -725,77 +243,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-14/cae-una-asociacion-que-convencia-a-sus-seguidores-para-que-compraran-armas-para-un-nuevo-orden-mundial.html",
         "date": "2024-10-14 19:03:56",
         "sentiment_score": -0.7383250389248133
-    },
-    {
-        "title": "Sumar se desmarca del bono de alquiler anunciado por Sánchez tras la protesta por la vivienda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2V4KNDGSV2PA5CMC3WTS7JJQAQ.jpg?auth=bc6c2babc93d82c3eb499b4d5eb712cd06dcd541404c1b56f029a6dc0709f64c&width=1200",
-        "tags": [
-            "españa",
-            "vox",
-            "izquierda unida",
-            "sumar",
-            "podemos",
-            "psoe",
-            "vivienda"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/sumar-se-desmarca-del-bono-de-alquiler-anunciado-por-sanchez-tras-la-protesta-por-la-vivienda.html",
-        "date": "2024-10-14 18:06:59",
-        "sentiment_score": -0.7477948032319546
-    },
-    {
-        "title": "Marco Sansavini, presidente de Iberia: “España puede ser un productor mundial de carburante sostenible”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UI6CHNS4TVCL3MPTIJDKYA3D6Y.JPG?auth=bce07f63c14528fd93db2ecff79d5946d10c879debf6435b8cc4a3b634118b7c&width=1200",
-        "tags": [
-            "aeropuerto madrid barajas",
-            "aerolíneas",
-            "air europa",
-            "aeropuertos",
-            "aeropuerto el prat",
-            "iag",
-            "iberia",
-            "world in progress"
-        ],
-        "link": "https://elpais.com/internacional/2024-10-14/marco-sansavini-presidente-de-iberia-espana-puede-ser-un-productor-mundial-de-carburante-sostenible.html",
-        "date": "2024-10-14 17:59:54",
-        "sentiment_score": -0.6623684838414192
-    },
-    {
-        "title": "El 080 Barcelona Fashion arranca una edición que apuesta por la internacionalización a través de influencers",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L3ONNCV7D5DVZB5JPTSB3MLZQY.jpg?auth=d813f6a186941a032c3279e786715f492b5f7c5966cb7a2d52c520520faa7bea&width=1200",
-        "tags": [
-            "desfiles modelos",
-            "modelos",
-            "barcelona",
-            "diseñadores moda",
-            "diseñadores",
-            "cataluña",
-            "influencers",
-            "empresas",
-            "industria",
-            "marcas registradas",
-            "revistas",
-            "moda"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-14/el-080-barcelona-fashion-arranca-una-edicion-que-apuesta-por-la-internacionalizacion-a-traves-de-influencers.html",
-        "date": "2024-10-14 17:29:51",
-        "sentiment_score": 0.3968256935477257
-    },
-    {
-        "title": "Castilla-La Mancha pide explicaciones sobre el posible uso del aeropuerto de Ciudad Real para albergar inmigrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/STKNZKPSAZBKXG77VOPJR3QOUI.jpg?auth=416cd21dfe8c833b80cd1a822f3dd4eb4e252b1b33cd3161fc197f3f4bc19bd9&width=1200",
-        "tags": [
-            "españa",
-            "ciudad real",
-            "ministerio de inclusión, seguridad social y migraciones",
-            "aeropuertos",
-            "canarias",
-            "cayucos",
-            "migración",
-            "castilla-la mancha"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/castilla-la-mancha-pide-explicaciones-sobre-el-posible-uso-del-aeropuerto-de-ciudad-real-para-albergar-inmigrantes.html",
-        "date": "2024-10-14 17:20:56",
-        "sentiment_score": -0.8773596081882715
     },
     {
         "title": "Fernando “Bocha” Batista: “Hoy jugar contra Venezuela no es fácil”",
@@ -7029,5 +6476,477 @@ export default [
         "link": "https://www.elmundo.es/economia/2024/10/18/67112d6621efa0f7158b459f.html",
         "date": "2024-10-18 01:43:13",
         "sentiment_score": 0.03979199379682541
+    },
+    {
+        "title": "El rey Carlos visita Australia mientras el país pone en pausa el debate sobre la república",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768521-rey-carlos-y-camila.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "australia",
+            "rey carlos iii"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/18/rey-carlos-visita-australia-trax/",
+        "date": "2024-10-18 06:06:19",
+        "sentiment_score": 0.22941911220550537
+    },
+    {
+        "title": "Última hora de la guerra entre Israel y Hezbollah en vivo: situación en Gaza, muerte del líder de Hamas Yahya Sinwar y más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/Sinwar-e1729228311541.jpg?quality=100&strip=info",
+        "tags": [
+            "hezbollah",
+            "minuto a minuto",
+            "hamas",
+            "guerra israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/18/ultima-hora-de-la-guerra-entre-israel-y-hezbollah-en-vivo-situacion-en-gaza-noticias-y-mas-2-trax-2/",
+        "date": "2024-10-18 05:52:54",
+        "sentiment_score": -0.8356714732944965
+    },
+    {
+        "title": "Miranda! habla de su nueva música, su trayectoria, y los corridos mexicanos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/miranda-thumb.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/miranda-regreso-ciudad-de-mexico-entrevista-digivid-orix",
+        "date": "2024-10-18 02:30:41",
+        "sentiment_score": 0.17756079137325287
+    },
+    {
+        "title": "Anaid García: Desaparición del INAI mermará avances en transparencia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/inai-2.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/transparencia-acceso-informacion-inai-desaparicion-retroceso-aristegui-tv/",
+        "date": "2024-10-18 02:27:18",
+        "sentiment_score": -0.20127445459365845
+    },
+    {
+        "title": "Alertan que \"el Gobierno insiste en la desaparición del INAI\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/inai-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inai-desaparicion-acceso-informacion-aristegui-tv/",
+        "date": "2024-10-18 02:17:26",
+        "sentiment_score": -0.8870499478653073
+    },
+    {
+        "title": "Alertan que \"el Gobierno insiste en la desaparición del INAI\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/inai-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inai-desaparicion-acceso-informacion-aristegui-tv",
+        "date": "2024-10-18 02:17:26",
+        "sentiment_score": -0.7642318997532129
+    },
+    {
+        "title": "Una jueza ordena la eliminación del decreto que valida la reforma judicial de México",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/18/sheinbaum-kgU-U603220541853QwF-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/jueza-ordena-eliminacion-decreto-valida-reforma-judicial-20241018080630-nt.html",
+        "date": "2024-10-18 06:06:30",
+        "sentiment_score": -0.1285344809293747
+    },
+    {
+        "title": "Hizbolá anuncia una «nueva fase» tras la muerte de Yahya Sinwar y Turquía dice que existe una «alta posibilidad» de una guerra entre Israel e Irán",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/18/turquia-krTB-U603220491608FSF-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/hizbola-anuncia-nueva-fase-tras-muerte-yahya-20241018074409-nt.html",
+        "date": "2024-10-18 05:46:38",
+        "sentiment_score": -0.1482415497303009
+    },
+    {
+        "title": "Cuanto dinero cobra un profesor de un colegio público en comparación con uno privado: sueldos y complementos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/18/tixe-kZ8E-U6032181622072WH-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cuanto-dinero-cobra-profesor-colegio-publico-comparacion-privado-20241018172024-nt.html",
+        "date": "2024-10-18 04:45:00",
+        "sentiment_score": -0.06383730471134186
+    },
+    {
+        "title": "La brecha digital desaparece: el móvil e internet ya es esencial en todas las generaciones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/10/17/movil-permuy.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/espanoles-vivir-radio-tele-movil-mitad-poblacion-20241018094556-nt.html",
+        "date": "2024-10-18 02:25:36",
+        "sentiment_score": -0.10391023755073547
+    },
+    {
+        "title": "Piedad de los cabizbajos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/10/18/fototelefono-RO3ERU5i1DNkYWeEjQzLgUP-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/piedad-cabizbajos-20241018192802-nt.html",
+        "date": "2024-10-18 02:24:19",
+        "sentiment_score": -0.07088515162467957
+    },
+    {
+        "title": "Coca-Cola, Nestlé y Damm inician una guerra por el reinado de Nestea",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/17/NESTEA-COCACOLA.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cocacola-nestle-damm-inician-guerra-reinado-nestea-20241018042028-nt.html",
+        "date": "2024-10-18 02:20:28",
+        "sentiment_score": -0.07262912392616272
+    },
+    {
+        "title": "Seguridad Social abre una pasarela al ingreso mínimo vital para casi 700.000 beneficiarios del subsidio por desempleo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/18/EuropaPress_6251861_varias_personas_entran_oficina_sepe_octubre_2024_madrid_espana_numero-R3TUuqJXtQFUJ1G09U31MwJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/seguridad-social-abre-pasarela-ingreso-minimo-vital-20241018041902-nt.html",
+        "date": "2024-10-18 02:19:02",
+        "sentiment_score": -0.03993290662765503
+    },
+    {
+        "title": "Los sueldos de más de 59.000 euros cargarán con una 'cuota de solidaridad' para pagar las pensiones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/18/escri-RrYolLhqVLBsvLGjFmPytuN-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sueldos-59000-euros-cargaran-cuota-solidaridad-pagar-20241018185317-nt.html",
+        "date": "2024-10-18 02:18:10",
+        "sentiment_score": -0.09298136830329895
+    },
+    {
+        "title": "Afianzando igualdades",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4ISMPWD7X5HMFOIHLZGXGMM2HQ.JPG?auth=06b7a0c42648d55927a6afac406080723f76dccc0f8f379a51a08db96b748fe8&width=1200",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-18/afianzando-igualdades.html",
+        "date": "2024-10-18 06:08:23",
+        "sentiment_score": 0.12847952544689178
+    },
+    {
+        "title": "“No podemos aceptar instituciones regidas por personas que no sueltan ni un ‘Bon dia”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZIWMOPRWSFHMVEYTARST3SSUMI.jpg?auth=e798ae1e9aa4b8b43567e0c7bd58dda18246d300161d036baa5d6c37f7068aba&width=1200",
+        "tags": [
+            "zoo",
+            "avl",
+            "lengua",
+            "ppcv",
+            "comunidad valenciana",
+            "música",
+            "valenciano",
+            "carlos mazón",
+            "generalitat valenciana",
+            "vicent pitarch",
+            "cultura",
+            "lingüística"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-18/no-podemos-aceptar-instituciones-regidas-por-personas-que-no-sueltan-ni-un-bon-dia.html",
+        "date": "2024-10-18 05:20:25",
+        "sentiment_score": -0.06297330558300018
+    },
+    {
+        "title": "Dos mujeres llegan a la última fase de acceso a la unidad de élite de los Mossos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WQ7HKPUAHNEIJP3UZQSQCRZFMI.jpg?auth=fcde4c54ddfe2a6f28a29ddb998b5fcca1ed573453725d6d069895ba0d1e221d&width=1200",
+        "tags": [
+            "cataluña",
+            "policía",
+            "mujeres",
+            "oposiciones",
+            "feminismo",
+            "guardia civil",
+            "mossos d'esquadra"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-18/dos-mujeres-llegan-a-la-ultima-fase-de-acceso-a-la-unidad-de-elite-de-los-mossos.html",
+        "date": "2024-10-18 03:40:00",
+        "sentiment_score": 0.19782216846942902
+    },
+    {
+        "title": "Las izquierdas se rearman y trazan su estrategia para el próximo ciclo electoral",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IQ3BJHJWXD4NND726EZIWRLCPY.jpg?auth=623ac80bec05271057f7d3bf3cbf5598e04373006f742499d3fbe729b0c71882&width=1200",
+        "tags": [
+            "partidos políticos",
+            "sumar",
+            "verdes",
+            "cat en comú",
+            "congresos políticos",
+            "españa",
+            "compromis-q",
+            "izquierda unida"
+        ],
+        "link": "https://elpais.com/espana/2024-10-18/las-izquierdas-se-rearman-y-trazan-su-estrategia-para-el-proximo-ciclo-electoral.html",
+        "date": "2024-10-18 03:40:00",
+        "sentiment_score": 0.431670680642128
+    },
+    {
+        "title": "El auto del Supremo, repleto de agujeros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PXXY6OT2NFBNPD7HWLVM4JTJAI.jpg?auth=b268f7592875e81ba70f8d2b27802181aaf8e50f134a88941ab92085084be16a&width=1200",
+        "tags": [
+            "justicia",
+            "fgee",
+            "jueces",
+            "españa",
+            "fiscalía",
+            "álvaro garcía ortiz",
+            "tribunales",
+            "tribunal supremo"
+        ],
+        "link": "https://elpais.com/espana/2024-10-18/el-auto-del-supremo-repleto-de-agujeros.html",
+        "date": "2024-10-18 03:40:00",
+        "sentiment_score": -0.7220876570791006
+    },
+    {
+        "title": "La militancia de ERC votará la nueva dirección sin conocer el final de la investigación sobre los carteles de Maragall",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7ZYN5IB7OXNEGFQQAK3HWNPDYI.jpg?auth=f3eb48112331ca2796cda99d507384ad12263540fb4ff7bda3ec3e514db524d5&width=1200",
+        "tags": [
+            "cataluña",
+            "partidos políticos",
+            "oriol junqueras",
+            "marta rovira i vergés",
+            "congresos políticos",
+            "erc"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-18/la-militancia-de-erc-votara-la-nueva-direccion-sin-conocer-el-final-de-la-investigacion-sobre-los-carteles-de-maragall.html",
+        "date": "2024-10-18 03:15:00",
+        "sentiment_score": -0.3883156478404999
+    },
+    {
+        "title": "Tres planes para un buen comienzo en Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DKWV3HJQHJCO5AYRAQC3K4GMDM.JPG?auth=cafeb1ce6172385fb3fa7904f4e37ea4e74db4d6d96446698927973727774d18&width=1200",
+        "tags": [
+            "tiktok",
+            "cocina vasca",
+            "madrid",
+            "tiendas",
+            "galletas",
+            "talleres",
+            "ocio nocturno",
+            "pastelerías",
+            "tendencias",
+            "redes sociales",
+            "pastelería",
+            "cocineros",
+            "postres",
+            "moda",
+            "instagram",
+            "restaurantes",
+            "guía michelin",
+            "comunidad de madrid",
+            "ocio"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-18/tres-planes-para-un-buen-comienzo-en-madrid.html",
+        "date": "2024-10-18 03:00:00",
+        "sentiment_score": 0.4403505474328995
+    },
+    {
+        "title": "España y la idea de vivir juntos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/R7AKV53JZGOUVUIBCPMZ4PFCNE.jpg?auth=977cb89b8cc4258be392947eacd3572489f868c4f3e73fcedefc8b1f94935f53&width=1200",
+        "tags": [
+            "monarquía",
+            "noticias de españa",
+            "iglesia católica",
+            "noticias de méxico",
+            "constitución 1812",
+            "nacionalismo",
+            "constitución española",
+            "colonialismo",
+            "opinión",
+            "imperios coloniales",
+            "latinoamérica",
+            "franquismo",
+            "federalismo",
+            "felipe vi",
+            "historia",
+            "josé maría portillo valdes",
+            "claudia sheinbaum",
+            "historiadores"
+        ],
+        "link": "https://elpais.com/opinion/2024-10-18/espana-y-la-idea-de-vivir-juntos.html",
+        "date": "2024-10-18 03:00:00",
+        "sentiment_score": -0.8869260046631098
+    },
+    {
+        "title": "Seis dueños de clínicas privadas entre los 28 jefes de dermatología, la especialidad más colapsada en la sanidad madrileña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OMA7QZXFVJHJ3JFMN2CSZBL2DA.jpg?auth=014882f54a7dd21bef987d4055af28b0b522f265e3da834901e7646c4a854a35&width=1200",
+        "tags": [
+            "negocios",
+            "listas espera",
+            "isabel díaz ayuso",
+            "clínicas",
+            "hospitales",
+            "fátima matute",
+            "ética",
+            "madrid",
+            "sanidad privada",
+            "comunidad de madrid",
+            "sanidad",
+            "corrupción",
+            "dermatología",
+            "sanidad pública",
+            "médicos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-18/seis-duenos-de-clinicas-privadas-entre-los-28-jefes-de-dermatologia-la-especialidad-mas-colapsada-en-la-sanidad-madrilena.html",
+        "date": "2024-10-18 03:00:00",
+        "sentiment_score": -0.8615004029124975
+    },
+    {
+        "title": "Comprueba si eres candidato a jurado en la lista para 2025-2026",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1112600",
+        "date": "2024-10-18 06:30:07",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Desobediencia contra el 25% y el regreso de una empresa",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/09/primeras-planas/884671528_13423926_1706x960.jpg?contentId=ESPIMA20240909_0004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20241018/desobediencia-contra-el-regreso-de-una-empresa/894410557_0.html",
+        "date": "2024-10-18 06:25:10",
+        "sentiment_score": -0.47914476692676544
+    },
+    {
+        "title": "El ambicioso proyecto de dar vida al Parque de Santa Catalina",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1112587",
+        "date": "2024-10-18 05:40:27",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "'La vorágine': El centenario de lo desconocido",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/17/pag_4.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/culturas/sotileza/voragine-centenario-desconocido-20241018073851-nt.html",
+        "date": "2024-10-18 05:38:51",
+        "sentiment_score": 0.5946687012910843
+    },
+    {
+        "title": "Identifican reguladores de la secreción de hormonas intestinales",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241018072450_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-identifican-reguladores-secrecion-hormonas-intestinales-20241018072450.html",
+        "date": "2024-10-18 05:24:50",
+        "sentiment_score": 0.2243385910987854
+    },
+    {
+        "title": "LaLiga pierde 36 goles en nueve jornadas: el 'efecto Lewandowski' no compensa la falta de puntería",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b1d3a788-6385-49db-ba79-c2b1ffb354ac_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/10/18/laliga-pierde-36-goles-nueve-109614775.html",
+        "date": "2024-10-18 05:22:47",
+        "sentiment_score": -0.6308564990758896
+    },
+    {
+        "title": "Una comida en Arcano con ruta turística por el Born (y otras noticias gastro)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a631773-feae-4388-b192-aeea491c5d14_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241018/ruta-turistica-born-restaurante-arcano-noticias-gastro-109357746",
+        "date": "2024-10-18 06:19:22",
+        "sentiment_score": 0.7183026298880577
+    },
+    {
+        "title": "Un 2025 de grandes series",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/330ece60-c532-b3c6-778ed4885d4642d7.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z330ecd36-9df7-9571-e2be147616c88da5/202410/un-2025-de-grandes-series",
+        "date": "2024-10-18 06:18:38",
+        "sentiment_score": 0.2280868999660015
+    },
+    {
+        "title": "El rincón más especial y único de Barcelona: calles empedradas y paisajes de infarto",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/17/viajes/894170662_13596709_1706x960.jpg?contentId=ESPIMA20241017_0088",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/viajes/20241018/rincon-especial-unico-barcelona-empedradas-paisajes-infarto/894160594_0.html",
+        "date": "2024-10-18 06:17:15",
+        "sentiment_score": 0.689539298415184
+    },
+    {
+        "title": "Santa María del Páramo impulsa la agricultura ecológica con un curso gratuito",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2024/10/16/naturgeissantamaria-kf4H-U2201520532202QwF-1200x840@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/promocionales/santa-maria-paramo-impulsa-agricultura-ecologica-curso-20241018081543-nt.html",
+        "date": "2024-10-18 06:15:43",
+        "sentiment_score": 0.3281286144629121
+    },
+    {
+        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Can Ugal, Casa Anita en París y That's Amore",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c621ea8-e7ba-481e-b0a4-2ca842465a69_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241018/buenos-restaurantes-barcelona-can-ugal-casa-anita-en-paris-thats-amore-109541893",
+        "date": "2024-10-18 06:15:22",
+        "sentiment_score": -0.2884330675005913
+    },
+    {
+        "title": "El falso níscalo tóxico que se confunde con el comestible en la montaña de León",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2024/10/17/newspaint-1729185699608-1200x840-kvPF-U2201534333622w9C-1200x840@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/comarcas/falso-niscalo-toxico-confunde-comestible-montana-leon-20241018081359-nt.html",
+        "date": "2024-10-18 06:13:59",
+        "sentiment_score": 0.16370458155870438
+    },
+    {
+        "title": "¿Qué fin de semana de octubre se cambia la hora? ¿Dormiremos más o menos?",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/10/18/cambio-hora-octubre-2024-kvzC-U2201537873065XsG-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/sociedad/cambio-hora-octubre-2024-fin-semana-20241018080625-nt.html",
+        "date": "2024-10-18 06:13:08",
+        "sentiment_score": 0.09657203406095505
+    },
+    {
+        "title": "CCOO sobre Emobi e Ibermón: «Que la Junta tome medidas y salve el empleo»",
+        "image_url": "https://s3.ppllstatics.com/elbierzonoticias/www/multimedia/2024/10/17/emobi4-kG0F-U22015341295885f-1200x840@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elbierzonoticias.com/bierzo/ccoo-sobre-emobi-ibermon-junta-tome-medidas-20241018081112-nt.html",
+        "date": "2024-10-18 06:11:12",
+        "sentiment_score": -0.6752242464572191
+    },
+    {
+        "title": "Cielos nubosos y bancos de niebla en zonas de montaña para este viernes en León",
+        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2024/10/17/nubes-kLHH-U2101503128403ScH-1200x840@Leonoticias-kQXB-U2201535648520pEF-1200x840@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/leon/cielos-nubosos-bancos-niebla-zonas-montana-viernes-20241018081033-nt.html",
+        "date": "2024-10-18 06:10:33",
+        "sentiment_score": 0.1643063649535179
     }
 ];
