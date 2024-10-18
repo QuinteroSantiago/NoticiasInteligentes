@@ -263,119 +263,6 @@ export default [
         "sentiment_score": -0.6141041629016399
     },
     {
-        "title": "Condenado un hombre a 21 años de cárcel por matar y robar a su casera en León",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/D5HYV7TWPRAT3KOKKZP57JL24E.jpg?auth=7ba1c078f22f928e4cab4bf720dc8e5857f7b54f0b1982959c39743b8a10a878&width=1200",
-        "tags": [
-            "asesinatos",
-            "castilla y león",
-            "tsjcl",
-            "león",
-            "españa",
-            "sentencias condenatorias"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/condenado-un-hombre-a-21-anos-de-carcel-por-matar-y-robar-a-su-casera-en-leon.html",
-        "date": "2024-10-14 13:55:35",
-        "sentiment_score": -0.6155639663338661
-    },
-    {
-        "title": "Multas de hasta 280.000 euros llegan a los promotores de los conciertos del Bernabéu",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CHAXOAFATFGC5G5K237O5QV47E.JPG?auth=8b25fbd317ff91e1d5273861da4c9d348975c92d40db36671266555cd74d8040&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "multas",
-            "ayuntamiento madrid",
-            "madrid",
-            "contaminación acústica",
-            "conciertos",
-            "festivales",
-            "estadio santiago bernabéu",
-            "ordenanzas municipales",
-            "josé luis martínez almeida",
-            "real madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-14/multas-de-hasta-280000-euros-llegan-a-los-promotores-de-los-conciertos-del-bernabeu.html",
-        "date": "2024-10-14 13:02:52",
-        "sentiment_score": -0.7679999507963657
-    },
-    {
-        "title": "Presos de “apoyo” y perspectiva de género para prevenir el suicidio en las cárceles catalanas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7HQPMHSR3FA4FGBONKTUKSCUKU.jpg?auth=e76c75f11843d3254e9bdec2e04f2fd8f70730f855b4affca924ef732b7b3ddc&width=1200",
-        "tags": [
-            "presos",
-            "suicidio",
-            "ramon espadaler parcerisas",
-            "generalitat cataluña",
-            "prisiones",
-            "centros penitenciarios",
-            "cataluña",
-            "justicia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-14/presos-de-apoyo-y-perspectiva-de-genero-para-prevenir-el-suicidio-en-las-carceles-catalanas.html",
-        "date": "2024-10-14 12:25:51",
-        "sentiment_score": -0.5503677427768707
-    },
-    {
-        "title": "Expedientados cuatro guardias urbanos de Barcelona por apropiarse de camisetas del ‘top manta’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CXBN2FG3PGZUBZMP7FAHBHSV3M.jpg?auth=e0b2d6ac44c6752d405445f881e5c035fc3fc7baca175ed3e4905362293caca6&width=1200",
-        "tags": [
-            "ayuntamiento barcelona",
-            "policía",
-            "policía municipal",
-            "top manta",
-            "barcelona",
-            "cataluña",
-            "guardia urbana"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-14/expedientados-cuatro-guardias-urbanos-de-barcelona-por-apropiarse-de-camisetas-del-top-manta.html",
-        "date": "2024-10-14 12:21:53",
-        "sentiment_score": -0.7353211119771004
-    },
-    {
-        "title": "La Fiscalía del Supremo apoya que se indulte el delito de malversación a Oriol Junqueras",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/D7OWTOU6YWTOQZHGWQFPSNZ4XM.jpg?auth=d1163cfc727b04da0cddbdd19aa3bddf7edfc569022a904c4d9be2f1df4cd9a1&width=1200",
-        "tags": [
-            "fiscalía general estado",
-            "fiscalía",
-            "tribunal supremo",
-            "jordi turull",
-            "raül romeva",
-            "españa",
-            "juicio al procés",
-            "malversación fondos",
-            "dolors bassa",
-            "oriol junqueras"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/la-fiscalia-del-supremo-apoya-que-se-indulte-el-delito-de-malversacion-a-oriol-junqueras.html",
-        "date": "2024-10-14 12:13:25",
-        "sentiment_score": -0.8167731333523989
-    },
-    {
-        "title": "El PP intenta ahora retrasar la aplicación de la norma que beneficia a presos etarras tras el rechazo del Senado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/T3V3LP4RJFGMTLXOFOCZDESWDM.jpg?auth=d6a3717a5d2e2166ab5ef1ed552f914e1ef8f3c73b782aed10b04232daae7afa&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/la-reforma-que-beneficia-a-presos-de-eta-sale-adelante-a-pesar-del-rechazo-del-senado.html",
-        "date": "2024-10-14 12:12:33",
-        "sentiment_score": -0.8881551055237651
-    },
-    {
-        "title": "Detenido el mayor especialista de España en apertura de cajas fuertes y en robos por el método del butrón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NP6QYBVO3XGZQ5AAPOFGK7IVNA.jpg?auth=56d888c82b249d6af134d7c1c57a092bd320b2e284f26a4131c9c277f47ebc85&width=1200",
-        "tags": [
-            "fugitivos",
-            "roma",
-            "españa",
-            "butrón",
-            "juzgados",
-            "policía nacional",
-            "justicia"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/detenido-el-mayor-especialista-de-espana-en-apertura-de-cajas-fuertes-y-en-robos-por-el-metodo-del-butron.html",
-        "date": "2024-10-14 12:04:01",
-        "sentiment_score": -0.4276175033301115
-    },
-    {
         "title": "La Selección sub-19 busca cerrar el torneo con victoria ante la anfitriona",
         "image_url": "https://www.diariodeteruel.es/uploads/diariodeteruel/contenidos/c_70589_241015-27-01.jpg",
         "tags": [
@@ -6838,5 +6725,309 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/vida/20241018/el-casual-rebelde-desafia-miembro-boixos-nois/894160661_0.html",
         "date": "2024-10-17 22:00:00",
         "sentiment_score": -0.5087665170431137
+    },
+    {
+        "title": "La Oficina Federal de Prisiones de EE.UU. indica que Joaquín Guzmán López no está bajo su custodia desde este miércoles",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1734797-joaquin-guzman-lopez.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/oficina-federal-prisiones-joaquin-guzman-lopez-no-esta-bajo-su-custodia-orix/",
+        "date": "2024-10-18 02:11:56",
+        "sentiment_score": -0.2740755155682564
+    },
+    {
+        "title": "Las 3 noticias económicas del 17 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21049431-1672280-667-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-17-octubre-2024-panorama-mundial-tv-fast",
+        "date": "2024-10-18 02:04:12",
+        "sentiment_score": -0.013429764658212662
+    },
+    {
+        "title": "Casos de dengue se duplican en Costa Rica y se registran al menos 5 muertes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768493-dengue-costa-rica.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "costa rica",
+            "dengue"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/casos-dengue-duplican-costa-rica-5-muertos-orix/",
+        "date": "2024-10-18 01:49:40",
+        "sentiment_score": -0.1304987519979477
+    },
+    {
+        "title": "García Luna estaba preparado para una sentencia de por vida aunque insiste que es inocente, dice su abogado",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768452-garcia-luna-abogado.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "judicial",
+            "genaro garcía luna"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/abogado-garcia-luna-sentencia-orix/",
+        "date": "2024-10-18 01:47:37",
+        "sentiment_score": -0.6868105344474316
+    },
+    {
+        "title": "En qué consiste la reforma energética aprobada en México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2166797253-20241018012821948.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reforma-energetica-cfe-pemex-perspectivas-mexico-tv/",
+        "date": "2024-10-18 01:33:33",
+        "sentiment_score": 0.0980888158082962
+    },
+    {
+        "title": "¿Se sintió García Luna abandonado por Felipe Calderón? Esto cuenta su abogado",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-82507566.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "claudia sheinbaum",
+            "méxico",
+            "xpress",
+            "genaro garcía luna",
+            "fast – news variety",
+            "felipe calderón"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/abogado-garcia-luna-sobre-felipe-calderon-perspectivas-mexico-tv-fast/",
+        "date": "2024-10-18 01:25:51",
+        "sentiment_score": -0.4827157650142908
+    },
+    {
+        "title": "¿Se sintió García Luna abandonado por Felipe Calderón? Esto cuenta su abogado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/abogado-garcia-luna-sobre-felipe-calderon-perspectivas-mexico-tv-fast",
+        "date": "2024-10-18 01:25:51",
+        "sentiment_score": -0.5496884454041719
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 17 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-17-de-octubre-2024-panorama-mundial-noche-fast",
+        "date": "2024-10-18 01:25:50",
+        "sentiment_score": 0.1489022746682167
+    },
+    {
+        "title": "Tras bloqueos de grupos afines a Evo Morales, Arce dice que no cederán ante quienes “quieren incendiar el país” para protegerse",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1100443-bolivia-politics-giei-report.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "luis arce",
+            "evo morales",
+            "bolivia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/luis-arce-bolivia-incendiar-bloqueos-evo-morales-orix/",
+        "date": "2024-10-18 01:23:21",
+        "sentiment_score": -0.5656257010996342
+    },
+    {
+        "title": "“Estamos alineados con Sheinbaum”, dice embajador de EE.UU. en México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178184188.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ken-salazar-cooperacion-sheinbaum-seguridad-mayo-zambada-perspectivas-mexico-tv/",
+        "date": "2024-10-18 01:22:14",
+        "sentiment_score": 0.024083182215690613
+    },
+    {
+        "title": "El Gobierno vocea a Talgo en el mercado para colocarla",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/15/WhatsApp%20Image%202024-10-15%20at%2018.12.15-kZI--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-gobierno-vocea-talgo-mercado-colocarla-20241018004233-nt.html",
+        "date": "2024-10-17 22:42:37",
+        "sentiment_score": -0.7450694479048252
+    },
+    {
+        "title": "El falso 4-0 del Athletic al Espanyol: la primera fake new del fútbol español",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/10/athletic-club-espanyol-1900-fake-new-750x375.jpg",
+        "tags": [
+            "athletic club",
+            "espanyol",
+            "actualidad"
+        ],
+        "link": "https://lagradaonline.com/athletic-espanyol-1903-falso/",
+        "date": "2024-10-18 02:06:41",
+        "sentiment_score": -0.10308722406625748
+    },
+    {
+        "title": "Viernes 18 de octubre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1112558",
+        "date": "2024-10-18 02:05:55",
+        "sentiment_score": -0.010891035199165344
+    },
+    {
+        "title": "Premiar el sacrificio deportivo",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1112555",
+        "date": "2024-10-18 02:00:58",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Un escenario global que propicia la venta del club",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/75969fda-a6c2-4e70-9d6b-053f9c00442a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/18/escenario-global-propicia-venta-club-109579125.html",
+        "date": "2024-10-18 02:00:22",
+        "sentiment_score": -0.21594850718975067
+    },
+    {
+        "title": "Un 'finde' lleno de tributos musicales y una gran dosis de teatro en Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3042293.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/18/2259935/ocio-mallorca-agenda-del-fin-semana-del-18deoctubre-2024.html",
+        "date": "2024-10-18 02:00:02",
+        "sentiment_score": 0.04029226303100586
+    },
+    {
+        "title": "Ángel Rodado, el goleador errante",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3044249.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2024/10/18/2261049/angel-rodado-maximo-goleador-espanol-europa.html",
+        "date": "2024-10-18 02:00:02",
+        "sentiment_score": 0.026207923889160156
+    },
+    {
+        "title": "Cristiano Ronaldo encabeza la lista de los 10 futbolistas mejor pagados de 2024",
+        "image_url": "https://cflvdg.avoz.es/sc/9p_V7SpIeQBmZ8j17jJ9ekDFtfU=/768x/2024/10/18/00121729210951312335873/Foto/EuropaPress_6277352_15_october_2024_united_kingdom_glasgow_portugals_cristiano_ronaldo_gestures-EP.jpg",
+        "tags": [
+            "fútbol",
+            "cristiano ronaldo"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/10/18/cristiano-ronaldo-encabeza-lista-10-futbolistas-mejor-pagados-2024/00031729210988704903268.htm",
+        "date": "2024-10-18 00:29:00",
+        "sentiment_score": 0.5967259481549263
+    },
+    {
+        "title": "Víctimas de la 'cripto-estafa' vuelven a pedir que se impute a Alvise tras haber admitido el cobro de los 100.000 euros",
+        "image_url": "https://s1.elespanol.com/2024/09/25/espana/888672122_249498962_1706x960.jpg?contentId=ESPIMA20240925_0998",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20241018/victimas-cripto-estafa-vuelven-pedir-impute-alvise-admitido-cobro-euros/894161123_0.html",
+        "date": "2024-10-18 00:08:10",
+        "sentiment_score": -0.8551992475986481
+    },
+    {
+        "title": "3 parte | 17 OCT 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3-parte-17-oct-2024-partidazo-cope-20241018_3030133.html",
+        "date": "2024-10-17 23:48:50",
+        "sentiment_score": -0.28047017753124237
+    },
+    {
+        "title": "'Despierta Atleti', en El Partidazo de COPE: \"Siempre cierran campos cuando el rival es el Real Madrid\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/09/30/66fa63eb4aaa5.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/despierta-atleti-partidazo-cope-siempre-cierran-campos-rival-real-madrid-20241018_3030132.html",
+        "date": "2024-10-17 23:12:27",
+        "sentiment_score": -0.15545137226581573
+    },
+    {
+        "title": "Avilés ofrece hogares sostenibles, hasta con materiales fabricados con hongos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/03666482-0435-439f-a24d-1709a5f987b3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/aviles/2024/10/18/aviles-ofrece-hogares-sostenibles-materiales-109579094.html",
+        "date": "2024-10-18 02:10:00",
+        "sentiment_score": 0.15544123947620392
+    },
+    {
+        "title": "La OSP a Madrid se agota en el primer fin de semana de noviembre: ir con escala sale por mil euros",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3044071.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/10/18/2260951/osp-madrid-agota-primer-fin-semana-noviembre-escala-sale-por-mil-euros.html",
+        "date": "2024-10-18 02:00:02",
+        "sentiment_score": -0.030989915132522583
+    },
+    {
+        "title": "Más de 20 años de cárcel a una banda de 'lanzas chilenos' por una oleada de robos en chalets",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3043737.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2024/10/18/2260763/mas-anos-carcel-banda-lanzas-chilenos-por-oleada-robos-chalets.html",
+        "date": "2024-10-18 02:00:02",
+        "sentiment_score": -0.22250878810882568
+    },
+    {
+        "title": "«Mi termómetro en la vida es la risa»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3044121.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2024/10/18/2260965/connie-ballarini-termometro-vida-risa.html",
+        "date": "2024-10-18 02:00:02",
+        "sentiment_score": -0.11172887682914734
+    },
+    {
+        "title": "The World's 50 Best Bars 2024: los mejores bares del mundo se citan en Madrid",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/34f8ab7329d1331c86d02c0b5d1dcc3b/crop/154x106/1945x1347/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/17/17291566160314.jpg",
+        "tags": [
+            "salir",
+            "planes",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/metropoli/otros-planes/2024/10/18/6710b6a8e85ecea12f8b459e.html",
+        "date": "2024-10-18 01:43:15",
+        "sentiment_score": 0.43700193986296654
+    },
+    {
+        "title": "Carla Romagosa, nutricionista especializada en menopausia y autora de 'Menopower': \"Es más eficiente para tu salud ósea una tortilla de dos huevos con brócoli o unas acelgas con sardinillas que cenar un yogur con fruta\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/a390ea327d489bcb3488fda4e5415d08/crop/427x75/2885x1713/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/17/17291581117681.jpg",
+        "tags": [
+            "artículos cristina galafate",
+            "alimentación saludable",
+            "bienestar",
+            "alimentación",
+            "estilo de vida"
+        ],
+        "link": "https://www.elmundo.es/vida-sana/bienestar/2024/10/18/6710dc57fc6c83396f8b45b9.html",
+        "date": "2024-10-18 01:43:13",
+        "sentiment_score": 0.4096147194504738
+    },
+    {
+        "title": "Díaz intenta dividir a la CEOE con su amenaza de retirar las ayudas a las pymes si no apoyan la reducción de la jornada por ley",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/63bfa5444f3bbef9b416209d87899897/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/17/17291844284590.jpg",
+        "tags": [
+            "pymes",
+            "artículos cristina alonso",
+            "ceoe",
+            "antonio garamendi",
+            "conciliación laboral",
+            "yolanda díaz"
+        ],
+        "link": "https://www.elmundo.es/economia/2024/10/18/67112d6621efa0f7158b459f.html",
+        "date": "2024-10-18 01:43:13",
+        "sentiment_score": 0.03979199379682541
     }
 ];
