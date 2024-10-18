@@ -1,192 +1,5 @@
 export default [
     {
-        "title": "Trump promete contratar más agentes de la Patrulla Fronteriza y aumentar los salarios",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766259-donald-trump.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "trump",
-            "donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/14/trump-promete-contratar-agentes-patrulla-fronteriza-y-aumentar-los-salarios-trax/",
-        "date": "2024-10-14 05:49:38",
-        "sentiment_score": 0.13493570685386658
-    },
-    {
-        "title": "Tensión en la frontera de Corea: el Norte despliega más artillería en plena escalada retórica",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/1487329995-ksVF-U603195094053pbE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/tension-frontera-corea-norte-despliega-artilleria-plena-20241014073521-nt.html",
-        "date": "2024-10-14 05:35:22",
-        "sentiment_score": -0.3580290228128433
-    },
-    {
-        "title": "Al menos 25 muertos y 120 heridos en bombardeos israelíes contra una escuela y un hospital en Gaza",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/1487091809-kctE-U603195043299fCC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/muertos-120-heridos-bombardeos-israelies-escuela-hospital-20241014072047-nt.html",
-        "date": "2024-10-14 05:20:48",
-        "sentiment_score": -0.25804270803928375
-    },
-    {
-        "title": "Georgina Rodríguez se atreve con la tortilla de patata: «Para cortar la cebolla me pongo gafas de Channel»",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/10/14/combo-georgina-tortilla-kO6E-U2201498803280U-1200x840@El%20Correo.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/gente-estilo/georgina-rodriguez-atreve-tortilla-patata-cortar-cebolla-20241014075213-nt.html",
-        "date": "2024-10-14 06:09:13",
-        "sentiment_score": 0.013841122388839722
-    },
-    {
-        "title": "La memorable victoria del Bilbao Basket: Y Kullamae sacó el látigo",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/10/13/kullamae-karE-U2201496274728F3H-758x531@El%20Correo.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/bilbaobasket/kullamae-saco-latigo-20241013194054-nt.html",
-        "date": "2024-10-14 06:04:52",
-        "sentiment_score": 0.5836905166506767
-    },
-    {
-        "title": "El Barça teme por el desgaste de Lamine Yamal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/928e93cc-3c27-4b2c-bf82-7ef3dc1ee3e2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/10/14/barca-teme-desgaste-lamine-yamal-109283283.html",
-        "date": "2024-10-14 05:48:44",
-        "sentiment_score": -0.6589740216732025
-    },
-    {
-        "title": "La variabilidad en cuándo y cómo se dividen las células promueve un desarrollo saludable en los embriones",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241014073950_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-variabilidad-cuando-dividen-celulas-promueve-desarrollo-saludable-embriones-20241014073950.html",
-        "date": "2024-10-14 05:39:50",
-        "sentiment_score": 0.16385683417320251
-    },
-    {
-        "title": "El PP busca \"el cuerpo a cuerpo\" con el PSOE y se lanza al desgaste de Sánchez por la \"corrupción\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f98dae46-c7dd-45a4-8ef5-3df56829f7cf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/espana/2024/10/14/feijoo-pp-psoe-desgaste-sanchez-corrupcion-109283072.html",
-        "date": "2024-10-14 05:31:50",
-        "sentiment_score": -0.4930211454629898
-    },
-    {
-        "title": "Cortada la circulación de las líneas R13 y R14 de Rodalies por un nuevo robo de cable",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/02/08/65c557b2b2e32.jpeg",
-        "tags": [
-            "lleida"
-        ],
-        "link": "https://www.lavanguardia.com/local/lleida/20241014/10018799/cortada-circulacion-lineas-r13-r14-rodalies-robo-cable.html",
-        "date": "2024-10-14 06:30:43",
-        "sentiment_score": 0.2340279147028923
-    },
-    {
-        "title": "Locura con la nueva tienda low cost de El Corte Inglés: sabemos dónde va a estar",
-        "image_url": "https://okdiario.com/img/2024/10/12/locura-con-la-nueva-tienda-low-cost-de-el-corte-ingles-sabemos-donde-va-a-estar.jpg",
-        "tags": [
-            "low cost",
-            "tiendas",
-            "el corte inglés",
-            "moda",
-            "consumo",
-            "economía"
-        ],
-        "link": "https://okdiario.com/economia/locura-nueva-tienda-low-cost-corte-ingles-sabemos-donde-va-estar-13626726",
-        "date": "2024-10-14 06:30:34",
-        "sentiment_score": 0.8030588310211897
-    },
-    {
-        "title": "Nuevos equipamientos en el litoral para fortalecer la economía azul",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/14/670cb9752fec6.jpeg",
-        "tags": [
-            "barcelona+"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20241014/10018807/nuevos-equipamientos-litoral-fortalecer-economia-azul.html",
-        "date": "2024-10-14 06:29:33",
-        "sentiment_score": 0.8298108195886016
-    },
-    {
-        "title": "Cortada la circulación de trenes de la R13 y la R14 entre Lleida y Puigverd de Lleida por robo de cable",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/76715cad-6be9-4ef6-a476-4b8a1ddb184a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241014/cortada-circulacion-trenes-r13-r14-lleida-puigverd-lleida-robo-cable-109283574",
-        "date": "2024-10-14 06:18:02",
-        "sentiment_score": -0.7211025319993496
-    },
-    {
-        "title": "Las quejas de Puigdemont y cinco años de la sentencia",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/08/politica/876672452_13317250_1706x960.jpg?contentId=ESPIMA20240808_0128",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241014/las-quejas-de-puigdemont-cinco-anos-sentencia/893410656_0.html",
-        "date": "2024-10-14 06:16:15",
-        "sentiment_score": -0.7523778341710567
-    },
-    {
-        "title": "Un comercio emblemático con más de 100 años de historia cierra sus puertas para siempre en Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/14/el-pulso-de-la-ciudad/893420650_13580743_1706x960.jpg?contentId=ESPIMA20241014_0001",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20241014/un-comercio-emblematico-con-mas-de-anos-historia-cierra-sus-puertas-para-siempre-en-barcelona/893410655_0.html",
-        "date": "2024-10-14 06:15:58",
-        "sentiment_score": 0.17459052801132202
-    },
-    {
-        "title": "Maíllo (IU) defiende la unidad de la izquierda e insta a las formaciones a definirse al respecto",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241014081504_120.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-maillo-iu-defiende-unidad-izquierda-insta-formaciones-definirse-respecto-20241014081504.html",
-        "date": "2024-10-14 06:15:04",
-        "sentiment_score": 0.29552318155765533
-    },
-    {
-        "title": "Un robatori de coure obliga a tallar dues línies del servei de Rodalies",
-        "image_url": "https://elmon.cat/app/uploads/sites/15/2023/11/europapress_4670644_viajeros_esperan_llegada_tren_andenes_estacion_sants_septiembre_2022.jpg",
-        "tags": [
-            "transports i infraestructures"
-        ],
-        "link": "https://elmon.cat/societat/transports/robatori-coure-rodalies-913222/",
-        "date": "2024-10-14 06:14:53",
-        "sentiment_score": -0.8571978798136115
-    },
-    {
-        "title": "Los cócteles de la abuela de Bar Pimentel (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2d6f7565-f688-4b98-8add-ace7d738c469_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241014/cocteles-abuela-bar-pimentel-noticias-gastro-109013878",
-        "date": "2024-10-14 06:12:58",
-        "sentiment_score": 0.7183026298880577
-    },
-    {
-        "title": "La ULE tiene repartidos por Europa a 450 alumnos con Económicas a la cabeza",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2024/10/11/WhatsApp%20Image%202024-10-11%20at%2011.26.22-k8EH-U2201482704277iP-1200x840@Leonoticias.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/universidad/ule-repartidos-europa-450-alumnos-economicas-cabeza-20241014080708-nt.html",
-        "date": "2024-10-14 06:07:08",
-        "sentiment_score": -0.6270329393446445
-    },
-    {
         "title": "Robert Roberson fue condenado a muerte tras el fallecimiento de su hija. Ahora, el síndrome del bebé sacudido está en el centro de sus apelaciones de última hora",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766365-copia-de-foto-para-wp-2024-10-14t084154-908.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6612,5 +6425,418 @@ export default [
         "link": "https://www.larazon.es/cataluna/contratacion-oficinas-reactiva-ciudad-barcelona_2024101767114103e2e54f00018414c4.html",
         "date": "2024-10-17 16:53:23",
         "sentiment_score": 0.09287553653120995
+    },
+    {
+        "title": "¿Cómo mataron e identificaron a Yahya Sinwar, líder de Hamas?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1705018-hamas-leader-yahya-sinwar.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "medio oriente",
+            "hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/cidentificaron-mataron-yahya-sinwar-lider-hamas-orix/",
+        "date": "2024-10-17 21:24:35",
+        "sentiment_score": -0.8139621932059526
+    },
+    {
+        "title": "Para Biden, la muerte de Sinwar genera incertidumbre, pero también una oportunidad, en la resolución del conflicto en Gaza",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768295-copia-de-foto-para-wp-2024-10-17t122759-624.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "medio oriente",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/biden-muerte-sinwar-incertidumbre-oportunidad-resolucion-conflicto-gaza-trax/",
+        "date": "2024-10-17 21:22:56",
+        "sentiment_score": -0.8649878371506929
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 17 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755328-gettyimages-1239960966-20240919142948326.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-17-de-octubre-2024-dusa-tarde-fast",
+        "date": "2024-10-17 21:08:36",
+        "sentiment_score": 0.0944197066128254
+    },
+    {
+        "title": "Los gastos minoristas en EE.UU. aumentaron un 0,4% en septiembre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1938434609-20241017210402075.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-aumenta-gastos-tiendas-minoristas-economia-inflacion-cnn-dinero-tv",
+        "date": "2024-10-17 21:06:48",
+        "sentiment_score": -0.14898687601089478
+    },
+    {
+        "title": "Los gastos minoristas en EE.UU. aumentaron un 0,4% en septiembre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1938434609-20241017210402075.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-aumenta-gastos-tiendas-minoristas-economia-inflacion-cnn-dinero-tv/",
+        "date": "2024-10-17 21:06:48",
+        "sentiment_score": -0.024126999080181122
+    },
+    {
+        "title": "China inyecta US$ 561.000 millones al sector inmobiliario",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "china"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/china-sector-inmobiliario-mercado-debil-millones-dolares-cnn-dinero-tv/",
+        "date": "2024-10-17 19:27:14",
+        "sentiment_score": 0.5007701180875301
+    },
+    {
+        "title": "China inyecta US$ 561.000 millones al sector inmobiliario",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2151570892.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/china-sector-inmobiliario-mercado-debil-millones-dolares-cnn-dinero-tv",
+        "date": "2024-10-17 19:27:14",
+        "sentiment_score": 0.17214520275592804
+    },
+    {
+        "title": "Netanyahu tras la muerte de Sinwar: La tarea que tenemos por delante aún no está completa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2161659080-20241013110717514.jpg?quality=100&strip=info",
+        "tags": [
+            "benjamin netanyahu",
+            "medio oriente",
+            "hamas",
+            "gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/netanyahu-habla-muerte-sinwar-hamas-gaza-trax/",
+        "date": "2024-10-17 19:22:37",
+        "sentiment_score": -0.4026297852396965
+    },
+    {
+        "title": "CNN tras bastidores del desfile de Victoria's Secret",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "victoria's secret",
+            "desfile",
+            "moda",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bastidores-victorias-secret-fashion-show-2024-ush-trax/",
+        "date": "2024-10-17 19:22:25",
+        "sentiment_score": 0.004669621586799622
+    },
+    {
+        "title": "Los mejores 5 hoteles de España en 2024, según Tripadvisor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "hoteles",
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ranking-5-mejores-hoteles-de-espana-en-2024-redaccion-buenos-aires-tv/",
+        "date": "2024-10-17 19:12:17",
+        "sentiment_score": 0.17359131574630737
+    },
+    {
+        "title": "Los documentos notariales en la polémica sobre la patria de Colón",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/10/18/cristobal-colon-tribuna-Raxc2Bo55iiecSBYBsIqrVJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-cuenca-documentos-notariales-polemica-sobre-patria-colon-20241018221249-nts.html",
+        "date": "2024-10-17 20:12:50",
+        "sentiment_score": -0.042056530714035034
+    },
+    {
+        "title": "La juventú",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-juventu-20241018165334-nts.html",
+        "date": "2024-10-17 20:12:49",
+        "sentiment_score": -0.025464028120040894
+    },
+    {
+        "title": "Barriobajeros",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/15/WhatsApp%20Image%202024-10-15%20at%2018.12.15-kZI--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-barriobajeros-20241018173536-nts.html",
+        "date": "2024-10-17 19:00:53",
+        "sentiment_score": -0.13993887603282928
+    },
+    {
+        "title": "Meloni logra romper todos los tabúes de la UE en el control de la política migratoria",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/lideres-europeos-RICAEPILvAXoiXmpqhqyTLN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/meloni-logra-romper-tabues-ue-control-politica-20241017205205-nt.html",
+        "date": "2024-10-17 18:56:43",
+        "sentiment_score": -0.1462569683790207
+    },
+    {
+        "title": "El patio trasero",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/14/alma-U58052242260Ltj-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-patio-trasero-20241018202014-nts.html",
+        "date": "2024-10-17 18:50:30",
+        "sentiment_score": -0.12220767140388489
+    },
+    {
+        "title": "Zelenski apremia a los europeos para que inicien el proceso de ingreso de Ucrania en la OTAN",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/zelenski-RWklLtgSFsanaRcKzsaRuzK-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/zelenski-apremia-europeos-inicien-proceso-ingreso-ucrania-20241017202229-nt.html",
+        "date": "2024-10-17 18:22:29",
+        "sentiment_score": -0.03843110799789429
+    },
+    {
+        "title": "La muerte de Yahya Sinwar: una ventana para la paz en la región",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/sinwar-hamas_20241017175923-RoTK1THgsaV6byMleaLT6BP-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/francisco-de-andres-muerte-yahya-sinwar-ventana-paz-region-20241017175627-nt.html",
+        "date": "2024-10-17 18:14:13",
+        "sentiment_score": -0.205595001578331
+    },
+    {
+        "title": "García Ortiz rompe la Fiscalía",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/10/15/CREMA-kXPD--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-garcia-ortiz-rompe-fiscalia-20241018201014-nt.html",
+        "date": "2024-10-17 18:10:24",
+        "sentiment_score": -0.14326874911785126
+    },
+    {
+        "title": "La ONU plantea una «partición» del territorio en el Sáhara Occidental",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/bandera-sahara-kv0F-U603219375000SF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/onu-plantea-particion-territorio-sahara-occidental-20241017195912-nt.html",
+        "date": "2024-10-17 17:59:12",
+        "sentiment_score": -0.3159697353839874
+    },
+    {
+        "title": "La patronal Foment ve ya «estabilidad» para que las empresas que se fueron tras el 1-O regresen a Cataluña",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/17/sanchezllibreep-ROkmwdbxHdRBzxR6Z0dUKHO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/patronal-foment-estabilidad-empresas-tras-regresen-cataluna-20241017194309-nt.html",
+        "date": "2024-10-17 17:45:26",
+        "sentiment_score": -0.05065041780471802
+    },
+    {
+        "title": "Sánchez defiende con contundencia al fiscal general y pide la dimisión de Díaz Ayuso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CIAQLNTVWJA3LGIFEPT2TN2HCI.jpg?auth=763aa9d8a4a6639c28f85beb2a7c764d397cc557ad7b01b58e7235fd982e6b39&width=1200",
+        "tags": [
+            "psoe",
+            "fiscalía general estado",
+            "caso koldo",
+            "españa",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/sanchez-defiende-con-contundencia-al-fiscal-general-y-pide-la-dimision-de-diaz-ayuso.html",
+        "date": "2024-10-17 20:35:51",
+        "sentiment_score": -0.3486170023679733
+    },
+    {
+        "title": "El alcalde Almeida y el ministro Puente firman una tregua de hora y media",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6NLVPS4JPZF3TLSDM7LXCCLUXI.jfif?auth=8406602f82c218a9d0b75f954c2ae12880580576385de37521a7bf6ab63e0aa3&width=1200",
+        "tags": [
+            "a-5",
+            "movilidad sostenible",
+            "movilidad urbana",
+            "gobierno de españa",
+            "cercanías madrid",
+            "autopistas",
+            "soterramiento vías",
+            "cercanías",
+            "comunidad de madrid",
+            "política municipal",
+            "obras públicas",
+            "transporte",
+            "túneles carretera",
+            "urbanismo",
+            "madrid",
+            "ayuntamiento madrid",
+            "política"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-17/el-alcalde-almeida-y-el-ministro-puente-firman-una-tregua-de-hora-y-media.html",
+        "date": "2024-10-17 19:15:55",
+        "sentiment_score": 0.22514205425977707
+    },
+    {
+        "title": "El expresidente de Murcia Ramón Luis Valcárcel irá a juicio en 2027 por supuestos delitos que se remontan a 2006",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IOEQJCLF3CPXIPG3YA3ZAZFERQ.jpg?auth=16bb9c7e414012dc48acbb6cfe7fe226e3731bd742f561384d47468f6b552cb9&width=1200",
+        "tags": [
+            "murcia",
+            "ramón luis valcárcel",
+            "pp",
+            "juicios",
+            "tsj murcia",
+            "región de murcia",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/el-expresidente-de-murcia-ramon-luis-valcarcel-ira-a-juicio-en-2027-por-supuestos-delitos-que-se-remontan-a-2006.html",
+        "date": "2024-10-17 18:05:08",
+        "sentiment_score": -0.12048406898975372
+    },
+    {
+        "title": "La familia de una chica en coma en Tailandia recauda 300.000 euros para traerla a España",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7DXIXDAATZC3PLY4TRUZGYRIMQ.jpg?auth=a59079b8e8bde8b96bed93069093f86cc726858b289a9737a2e4d2a77b804a6d&width=1200",
+        "tags": [
+            "embajada española",
+            "tailandia",
+            "sucesos",
+            "accidentes motoristas",
+            "asia",
+            "bangkok",
+            "valencia",
+            "comunidad valenciana",
+            "turismo"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-17/la-familia-de-una-chica-en-coma-en-tailandia-recauda-300000-euros-para-traerla-a-espana.html",
+        "date": "2024-10-17 17:36:04",
+        "sentiment_score": -0.6852765567600727
+    },
+    {
+        "title": "La Generalitat encara la negociación por los presupuestos con una modificación al alza del PIB",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JKPUOZTIKFH2RPWYASGW5V3PCM.jpg?auth=eeb500109a3489df93c1699b25bbea9daa9ac8a0145ef01cb62d8579c9e2080e&width=1200",
+        "tags": [
+            "erc",
+            "salvador illa",
+            "cataluña",
+            "economía",
+            "generalitat cataluña",
+            "patronal",
+            "psc",
+            "presupuestos autonómicos",
+            "govern cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-17/la-generalitat-encara-la-negociacion-por-los-presupuestos-con-una-modificacion-al-alza-del-pib.html",
+        "date": "2024-10-17 17:24:09",
+        "sentiment_score": 0.661796510219574
+    },
+    {
+        "title": "La Audiencia Nacional condena a 26 años de cárcel a los etarras que estallaron un coche bomba en la Universidad de Navarra en 2008",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AESIXELR6ZE4JJJXSCHY3NKVCE.jpg?auth=a97bebe47034d6276272c0c9982536d332eee52c4f19f743552d69e91906ea2c&width=1200",
+        "tags": [
+            "audiencia nacional",
+            "atentados bomba",
+            "presos eta",
+            "españa",
+            "eta",
+            "navarra",
+            "unav",
+            "atentados coche bomba"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/la-audiencia-nacional-condena-a-26-anos-de-carcel-a-los-etarras-que-estallaron-un-coche-bomba-en-la-universidad-de-navarra-en-2008.html",
+        "date": "2024-10-17 17:22:33",
+        "sentiment_score": -0.6134627256542444
+    },
+    {
+        "title": "La revolución verde de Alsa: hacia una flota cero emisiones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/64635a6f-453c-41a1-a100-5cdfb7d05ae2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/sociedad/2024/10/17/revolucion-verde-alsa-flota-cero-109590411.html",
+        "date": "2024-10-17 21:59:26",
+        "sentiment_score": 0.41373126208782196
+    },
+    {
+        "title": "La revolución verde de Alsa: hacia una flota cero emisiones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/64635a6f-453c-41a1-a100-5cdfb7d05ae2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20241017/revolucion-verde-alsa-flota-cero-109590378",
+        "date": "2024-10-17 21:59:20",
+        "sentiment_score": 0.41725272685289383
+    },
+    {
+        "title": "Las series que se estrenan este fin de semana",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/17/series-semana-kQYE-U22015232084411SD-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/pantallas/series/series-estrenan-fin-semana-20241017001259-ntrc.html",
+        "date": "2024-10-17 22:13:00",
+        "sentiment_score": 0.14243442565202713
+    },
+    {
+        "title": "Las series que se estrenan este fin de semana",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/10/17/series-semana-kQYE-U22015232084411SD-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/pantallas/series/series-estrenan-fin-semana-20241017001259-ntrc.html",
+        "date": "2024-10-17 22:13:00",
+        "sentiment_score": 0.8827646169811487
+    },
+    {
+        "title": "Las víctimas ya no se callan: crece un 200% las denuncias por bullying en Cataluña",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/campana-bullying-generalitat-1440x808.png",
+        "tags": [
+            "cataluña",
+            "generalitat cataluña",
+            "españa",
+            "educación"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/18/las-victimas-ya-no-se-callan-crece-un-200-las-denuncias-por-bullying-en-cataluna/",
+        "date": "2024-10-17 22:04:03",
+        "sentiment_score": -0.547050978988409
+    },
+    {
+        "title": "Los quioscos de Barcelona podrán vender café y comida para llevar: las bebidas alcohólicas estarán prohibidas",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/17/los-quioscos-de-barcelona-podran-vender-cafe-y-comida-para-llevar_438b.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241017/quioscos-venta-cafe-comida-llevar-barcelona_18_013746266.html",
+        "date": "2024-10-17 22:01:43",
+        "sentiment_score": 0.06929734349250793
+    },
+    {
+        "title": "Guerra judicial de Frigicoll contra Sant Just por un plan urbanístico junto a Barcelona",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/17/business/894170707_13598033_1706x960.jpg?contentId=ESPIMA20241017_0133",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241018/guerra-judicial-frigicoll-sant-just-urbanistico-barcelona/893410720_0.html",
+        "date": "2024-10-17 22:00:00",
+        "sentiment_score": -0.35624516755342484
+    },
+    {
+        "title": "¿Es el enemigo? La película de Gila:Sinopsis de la película, tráiler, reparto y dónde ver",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/17/2024101719490062416.jpg",
+        "tags": [
+            "cine"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/cine/es-enemigo-pelicula-gila/20241018000000860834.html",
+        "date": "2024-10-17 22:00:00",
+        "sentiment_score": -0.004284180700778961
+    },
+    {
+        "title": "El Casual rebelde desafía a la cúpula y apalea a un miembro de los Boixos Nois",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/17/vida/894170673_13597028_1706x960.jpg?contentId=ESPIMA20241017_0099",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20241018/el-casual-rebelde-desafia-miembro-boixos-nois/894160661_0.html",
+        "date": "2024-10-17 22:00:00",
+        "sentiment_score": -0.5087665170431137
     }
 ];
