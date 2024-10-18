@@ -1,739 +1,5 @@
 export default [
     {
-        "title": "La censura en China es una de las más duras del mundo. Entonces, ¿por qué dejó tocar a Kanye West?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766131-copia-de-foto-para-wp-2024-10-13t122641-012.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "china",
-            "música"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/censura-china-por-que-dejo-tocar-kanye-west-trax/",
-        "date": "2024-10-13 21:51:55",
-        "sentiment_score": -0.7718075662851334
-    },
-    {
-        "title": "¿Qué está abierto y qué cerrado en EE.UU. por el feriado del Día de los Pueblos Indígenas de 2024?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766146-gettyimages-1213232466.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/abierto-cerrado-feriado-pueblos-indigenas-trax/",
-        "date": "2024-10-13 21:27:57",
-        "sentiment_score": -0.08486587554216385
-    },
-    {
-        "title": "Mira las imitaciones que hizo Ariana Grande en ‘SNL’ de estrellas pop",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-ariana.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/snl-ariana-grande-imitacion-estrellas-ush-showbiz-trax",
-        "date": "2024-10-13 21:02:04",
-        "sentiment_score": 0.27347149699926376
-    },
-    {
-        "title": "La demanda de México contra fabricantes y distribuidores de armas que podría redefinir esta industria en EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-858367878-20241013202345117.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/industria-armas-estados-unidos-demanda-caso-mexico-cartel-ush/",
-        "date": "2024-10-13 21:01:37",
-        "sentiment_score": -0.2553570121526718
-    },
-    {
-        "title": "Con tan solo 7 años, Rory es considerada la niña más fuerte",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nina-mas-fuerte-los-inusuales-fast",
-        "date": "2024-10-13 20:13:25",
-        "sentiment_score": 0.7861170656979084
-    },
-    {
-        "title": "Nuevo estudio revela el misterio de hace siglos sobre los verdaderos orígenes de Cristóbal Colón",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766118-copia-de-foto-para-wp-2024-10-13t115127-240.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/estudio-misterio-secular-verdaderos-origenes-cristobal-colon-reux/",
-        "date": "2024-10-13 19:21:05",
-        "sentiment_score": -0.10079322755336761
-    },
-    {
-        "title": "Biden agradece a los socorristas y anuncia más de US$ 600 millones para la resiliencia energética en su visita a Florida tras Milton y Helene",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766109-copia-de-foto-para-wp-2024-10-13t110425-233.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "huracanes",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/biden-socorristas-nuevos-fondos-huracanes-helene-milton-florida-trax/",
-        "date": "2024-10-13 19:13:32",
-        "sentiment_score": 0.4493898004293442
-    },
-    {
-        "title": "La Policía frustra un tercer intento de asesinato de Trump",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/de/media_thumb_2x-link-3989196.webp",
-        "tags": [
-            "trump",
-            "actualidad",
-            "eeuu"
-        ],
-        "link": "https://www.meneame.net/story/policia-frustra-tercer-intento-asesinato-trump",
-        "date": "2024-10-13 21:55:02",
-        "sentiment_score": -0.6278196107596159
-    },
-    {
-        "title": "La Policía frustra un tercer intento de asesinato de Trump",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/trump-mitin-k6dH-U603194519963Q5D-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/policia-frustra-tercer-intento-asesinato-trump-20241013222013-nt.html",
-        "date": "2024-10-13 20:20:36",
-        "sentiment_score": -0.6361073888838291
-    },
-    {
-        "title": "Esperando al AVE",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/10/10/georgina-sidreria-asturias-kppD--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-esperando-ave-20241014215230-nts.html",
-        "date": "2024-10-13 19:54:41",
-        "sentiment_score": -0.05984392762184143
-    },
-    {
-        "title": "Colón era Colom",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/10/195259992-kJrH--170x119@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-colon-era-colom-20241014215229-nts.html",
-        "date": "2024-10-13 19:52:29",
-        "sentiment_score": -0.16033203899860382
-    },
-    {
-        "title": "Dios transparente",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/10/195259992-kJrH--170x119@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-dios-transparente-20241014215228-nts.html",
-        "date": "2024-10-13 19:52:28",
-        "sentiment_score": -0.0202997624874115
-    },
-    {
-        "title": "Al menos 67 heridos tras un ataque de Hizbolá con drones al norte de Israel",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/israel-kPDB-U603194418889Z6H-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/heridos-tras-ataque-hizbola-drones-norte-israel-20241013205908-nt.html",
-        "date": "2024-10-13 19:01:38",
-        "sentiment_score": -0.3358470946550369
-    },
-    {
-        "title": "Sánchez y Ábalos deben ser del PP",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/10/195259992-kJrH--170x119@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/luis-del-val-sanchez-abalos-deben-pp-20241014171401-nt.html",
-        "date": "2024-10-13 18:42:32",
-        "sentiment_score": -0.23435387015342712
-    },
-    {
-        "title": "El embajador de Zapatero en Caracas admite que cobró 4,5 millones de Venezuela",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/01/raul-morodo-1-469x317.jpg",
-        "tags": [
-            "cobro irregular",
-            "política",
-            "josé luis rodríguez zapatero",
-            "venezuela"
-        ],
-        "link": "https://theobjective.com/espana/politica/2024-10-14/embajador-zapatero-venezuela-petrolera/",
-        "date": "2024-10-13 22:14:08",
-        "sentiment_score": 0.14777715504169464
-    },
-    {
-        "title": "Mesón de Paredes, tantos recuerdos, de las corralas a la taberna más antigua",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/5f78deb84f309e168519c59bd315dcaa/crop/0x168/841x729/f/webp/assets/multimedia/imagenes/2024/10/13/17288264840443.jpg",
-        "tags": [
-            "antonio carbajal - mx",
-            "ester expósito - mx",
-            "el mundo",
-            "pedro garcía aguado",
-            "eduardo camavinga - mx",
-            "dani carvajal - mx",
-            "kepa arrizabalaga - mx",
-            "ciudad",
-            "selección de fútbol de honduras - mx",
-            "salomón chertorivski - mx",
-            "jorge álvarez máynez - mx",
-            "querétaro fc femenil - mx",
-            "selección de fútbol de ecuador - mx",
-            "jude bellingham - mx",
-            "aurah ruiz",
-            "almería - mx",
-            "españa",
-            "alex padilla - mx",
-            "tiago volpi - mx",
-            "gp españa f1 - mx",
-            "felipe calderón - mx",
-            "santiago taboada - mx",
-            "carlo ancelotti - mx",
-            "madrid",
-            "álvaro fidalgo - mx",
-            "real madrid",
-            "gp bélgica f1 - mx",
-            "anna simon",
-            "toño sánchez camacho - lw mx",
-            "feyenoord - mx",
-            "gp países bajos f1 - mx",
-            "incendio valencia",
-            "adda lavalle - lw mx",
-            "toni kroos - mx",
-            "gp gran bretaña f1 - mx",
-            "ter stegen - mx",
-            "gp singapur f1 - mx",
-            "alberto lati",
-            "gp hungría f1 - mx",
-            "jaime maussan - mx",
-            "sergio ramos - mx",
-            "david alaba - mx",
-            "julio gonzález - mx",
-            "europa",
-            "alejandro villalvazo - mx",
-            "mario rodríguez - lw mx",
-            "vicente fox - mx",
-            "josé de jesús corona - mx",
-            "agustín marchesín - mx",
-            "karim benzema - mx",
-            "andrés gudiño - mx",
-            "fernando schwartz - mx",
-            "a fondo",
-            "hugo gonzález - mx",
-            "carlos acevedo - mx",
-            "selección de fútbol de colombia - mx",
-            "gp austria f1 - mx",
-            "florentino pérez - mx",
-            "gp italia f1 - mx",
-            "óscar jiménez - mx",
-            "denver nuggets - mx",
-            "artículos víctor de la serna",
-            "santiago solari - mx",
-            "selección de fútbol de paraguay - mx",
-            "hugo sánchez - mx",
-            "boston celtics - mx",
-            "camilo vargas - mx",
-            "xabi alonso - mx",
-            "luis malagón - mx",
-            "samuel garcía - mx",
-            "selección de fútbol de chile - mx",
-            "sebastián jurado - mx",
-            "ricardo anaya - mx",
-            "luka modric - mx",
-            "gp mónaco f1 - mx",
-            "mallorca - mx",
-            "rodrigo huescas - mx",
-            "álvaro morata - mx",
-            "antonio rudiger - mx"
-        ],
-        "link": "https://www.elmundo.es/madrid/2024/10/14/670bc02ce4d4d8992a8b457e.html",
-        "date": "2024-10-13 22:04:02",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "Corinna y el principio del fin",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/corina-juan-carlos.jpg",
-        "tags": [
-            "juan carlos i",
-            "españa"
-        ],
-        "link": "https://www.elindependiente.com/espana/2024/10/14/corinna-y-el-principio-del-fin/",
-        "date": "2024-10-13 22:03:26",
-        "sentiment_score": -0.7270204275846481
-    },
-    {
-        "title": "'Cama' ya tiene sus zapatillas",
-        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/10/08/Imagen%20(98304262)-kEgF-U2201445705585KxG-1200x840@Diario%20Vasco.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/gipuzkoa/cama-zapatillas-indarbizi-17-carnet-socio-20241014140859-nt.html",
-        "date": "2024-10-13 22:02:23",
-        "sentiment_score": -0.18301761150360107
-    },
-    {
-        "title": "Plantar cara a Madrid",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/12/vida/793930818_8707058_1706x960.jpg?contentId=ESPIMA20230912_0219",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20241014/plantar-cara-madrid/893290666_13.html",
-        "date": "2024-10-13 22:00:00",
-        "sentiment_score": -0.29938873648643494
-    },
-    {
-        "title": "AGENDA OFICIAL DE LA FAMILIA REAL —Del 12 al 20 de octubre de 2024—",
-        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2021/09/27/2021092710353413853.jpg",
-        "tags": [
-            "agenda familia real"
-        ],
-        "link": "https://monarquia.elconfidencialdigital.com/articulo/agenda_familia_real/agenda-oficial-familia-real-12-20-octubre-2024/20241014000000130393.html",
-        "date": "2024-10-13 22:00:00",
-        "sentiment_score": -0.01901423931121826
-    },
-    {
-        "title": "La UEFA rechaza las ofertas de TVE, Telecinco y Antena 3 para la final de la Champions",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/01/2024100108023832261.jpg",
-        "tags": [
-            "medios"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/medios/uefa-rechaza-ofertas-tve-telecinco-antena-3-final-champions/20241014000000857381.html",
-        "date": "2024-10-13 22:00:00",
-        "sentiment_score": -0.17205819487571716
-    },
-    {
-        "title": "La infanta Sofía celebró la fiesta nacional junto al resto de compañeros españoles",
-        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/10/13/2024101316493627570.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/uwc-atlantic-college-izo-bandera-espanola-festejar-dia-fiesta-nacional/20241014000000130396.html",
-        "date": "2024-10-13 22:00:00",
-        "sentiment_score": 0.13714192807674408
-    },
-    {
-        "title": "Día de la Fiesta Nacional: el uniforme de la Armada de Leonor causa sensación entre los políticos",
-        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2021/09/27/2021092710353413853.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/dia-fiesta-nacional-uniforme-armada-leonor-causa-sensacion-politicos/20241014000000130388.html",
-        "date": "2024-10-13 22:00:00",
-        "sentiment_score": 0.15717445313930511
-    },
-    {
-        "title": "El lujo de los aviones privados",
-        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/09/23/portadilla-avion-kE0F-U22012679234501lF-1200x840@Diario%20Vasco.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/gipuzkoa/lujo-aviones-privados-aeropuerto-hondarribia-san-sebastian-20241014150209-nt.html",
-        "date": "2024-10-13 21:59:10",
-        "sentiment_score": -0.8035585228353739
-    },
-    {
-        "title": "El popular verdugo Nicomedes Méndez también ejecutó en Mallorca",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9cfe18bf-3e75-4e85-8f31-429d3bae98b2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodemallorca.es/cultura/2024/10/14/popular-verdugo-nicomedes-mendez-ejecuto-109272940.html",
-        "date": "2024-10-13 22:12:47",
-        "sentiment_score": -0.27647921442985535
-    },
-    {
-        "title": "«No veo prácticamente la tele»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/10/aragn-RS8LH9XDtSkg3eqbs0FeRmI-1200x840@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hoy.es/culturas/veo-practicamente-tele-20241010000639-ntrc.html",
-        "date": "2024-10-13 22:06:51",
-        "sentiment_score": -0.3100275322794914
-    },
-    {
-        "title": "Los semáforos del lunes 14 de octubre: Judit Carrera, Ángel Sala, Ruth Chepngetich y Victor Kristiansen",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.lavanguardia.com/opinion/20241014/9994912/semaforos-lunes-14-octubre-judit-carrera-angel-sala-ruth-chepngetich-victor-kristiansen.html",
-        "date": "2024-10-13 22:05:00",
-        "sentiment_score": 0.1083386167883873
-    },
-    {
-        "title": "La vivienda prometida",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/14/670c45c1b2464.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.lavanguardia.com/opinion/20241014/10018409/vivienda-prometida.html",
-        "date": "2024-10-13 22:05:00",
-        "sentiment_score": -0.5210940800607204
-    },
-    {
-        "title": "Antoni Llorens",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/02/13/examen-protagonistas/832426965_13580398_1706x960.jpg?contentId=ESPIMA20240213_0216",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20241014/antoni-llorens/893160730_0.html",
-        "date": "2024-10-13 22:00:00",
-        "sentiment_score": -0.14419743418693542
-    },
-    {
-        "title": "Acusan a sospechosos de homicidio de suplantar a servidores públicos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/wxyz-fake-workers-kill-man-101224-resized-20241014014400902.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "crimen",
-            "homicidio",
-            "videos digitales"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trabajadores-servicios-publicos-michigan-pazmino-trax/",
-        "date": "2024-10-14 01:47:12",
-        "sentiment_score": -0.8181046424433589
-    },
-    {
-        "title": "Tania Libertad en CNN: la historia de una canción que supo conmoverla",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21038593-151081-331-still-20241013235450750.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/tania-libertad-mexico-cancion-mirador-mundial-tv/",
-        "date": "2024-10-13 23:57:52",
-        "sentiment_score": 0.46510907262563705
-    },
-    {
-        "title": "Tania Libertad en CNN: la historia de una canción que supo conmoverla",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21038593-151081-331-still-20241013235450750.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/tania-libertad-mexico-cancion-mirador-mundial-tv",
-        "date": "2024-10-13 23:57:52",
-        "sentiment_score": 0.421367883682251
-    },
-    {
-        "title": "Trump y Harris no se sacan ventajas: ¿cómo seguirá el ajustado panorama a tres semanas de las elecciones?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170583836-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-trump-harris-ventaja-mirador-mundial-tv",
-        "date": "2024-10-13 23:52:51",
-        "sentiment_score": -0.7709450516849756
-    },
-    {
-        "title": "Trump y Harris no se sacan ventajas: ¿cómo seguirá el ajustado panorama a tres semanas de las elecciones?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170583836-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "kamala harris",
-            "noticias de donald trump",
-            "elecciones en estados unidos",
-            "elecciones en ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-trump-harris-ventaja-mirador-mundial-tv/",
-        "date": "2024-10-13 23:52:51",
-        "sentiment_score": -0.36082368344068527
-    },
-    {
-        "title": "Trump propone usar al ejército para luchar contra el “enemigo interno” el día de las elecciones",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766164-gettyimages-2178028914.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "trump",
-            "donald trump",
-            "elecciones ee.uu"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/trump-ejercito-luchar-enemigo-elecciones-trax/",
-        "date": "2024-10-13 23:33:54",
-        "sentiment_score": -0.3175055831670761
-    },
-    {
-        "title": "Un sketch de SNL muestra el enfrentamiento entre Harris y Trump",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-snl-20241013231132855.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/snl-family-feud-kamala-harris-donald-trump-showbiz-ush-trax",
-        "date": "2024-10-13 23:26:39",
-        "sentiment_score": -0.5519833266735077
-    },
-    {
-        "title": "De norte a sur, Israel ataca al Líbano dejando a cientos de heridos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177175640-20241013224448411.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataque-israel-libano-muertos-mirador-mundial-tv/",
-        "date": "2024-10-13 22:45:48",
-        "sentiment_score": -0.7965589826926589
-    },
-    {
-        "title": "Joe Biden agradeció a socorristas que actuaron durante los huracanes Milton y Helene",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2178233419.jpg?quality=100&strip=info",
-        "tags": [
-            "joe biden",
-            "huracanes estados unidos",
-            "huracanes"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/joe-biden-agradece-socorristas-huracanes-milton-helen-ush-mirador-mundial-tv/",
-        "date": "2024-10-13 22:42:27",
-        "sentiment_score": 0.384160578250885
-    },
-    {
-        "title": "Las tres noticias destacadas de la tarde en del 13 de octubre en CNN en Español",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-13-de-octubre-2024-mirador-tarde-tv-fast",
-        "date": "2024-10-13 22:21:10",
-        "sentiment_score": 0.14191509038209915
-    },
-    {
-        "title": "La nueva presidenta de México, Claudia Sheinbaum, ya inquieta a Washington",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/claudia-RwFUx47M6MULTqYhMSZtIRN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nueva-presidenta-mexico-claudia-sheinbaum-inquieta-washington-20241013194551-nt.html",
-        "date": "2024-10-14 02:03:48",
-        "sentiment_score": -0.1541164368391037
-    },
-    {
-        "title": "Viaje a Transcarpatia, la Ucrania más pobre que Rusia ni siquiera ataca para no gastar misiles",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/transcarpatia1-R5IGBEAqzgRYNMpuJuC0ELK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/viaje-transcarpatia-ucrania-pobre-rusia-siquiera-ataca-20241013185046-nt.html",
-        "date": "2024-10-14 02:03:36",
-        "sentiment_score": -0.1801401525735855
-    },
-    {
-        "title": "Un 'Vaticano' musulmán se instala en Albania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/13/mosque-tirana-RRgUWpU5enVuwEGjDooShkM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/vaticano-musulman-instala-albania-20241013175004-nt.html",
-        "date": "2024-10-14 02:03:25",
-        "sentiment_score": -0.048024922609329224
-    },
-    {
-        "title": "Yascha Mounk: «El malestar económico europeo debería tomarse más en serio»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/14/ImagenYASCHA_MOUNK_1-RCU5UVGq2XWergAoez0UvKP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/yascha-mounk-malestar-economico-europeo-deberia-tomarse-20241014183852-nt.html",
-        "date": "2024-10-14 02:03:03",
-        "sentiment_score": -0.18895362317562103
-    },
-    {
-        "title": "El Gobierno, forzado a aprobar por decreto la última reforma sobre jubilación",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/13/Imagen(195345724)-R91Mfd9SZM4N896EErON4sN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-forzado-aprobar-decreto-ultima-reforma-sobre-20241013040145-nt.html",
-        "date": "2024-10-14 02:01:45",
-        "sentiment_score": -0.0026916563510894775
-    },
-    {
-        "title": "El desbocado gasto en pensiones y bajas abre la puerta a ajustes en 2025",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/14/saiz-escriva-Rwe5Fs5ebrQrNA8QcTgTqAN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/desbocado-gasto-pensiones-bajas-abre-puerta-ajustes-20241014040121-nt.html",
-        "date": "2024-10-14 02:01:22",
-        "sentiment_score": -0.07742932438850403
-    },
-    {
-        "title": "Dos pacientes del 12 de Octubre, libres de cáncer de piel gracias a una terapia pionera en España",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/10/14/FOTOPACIENTE-RSyAGz9TAMzZdVs9skGYexN-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/dos-pacientes-octubre-libres-cancer-piel-gracias-20241014173648-nt.html",
-        "date": "2024-10-13 22:59:44",
-        "sentiment_score": -0.0739998072385788
-    },
-    {
-        "title": "Raúl Núñez, el escritor que llevó a Sinatra a la posada del fracaso",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/10/13/3D90EC3E-8E7D-4ACF-8656-ECE2FBE31F8B/escena-sinatra-alfredo-landa_96.jpg?crop=1570%2C883%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/raul-nunez-escritor-que-llevo-sinatra-posada-fracaso_20241014670c7b31596dfb0001c3b6b2.html",
-        "date": "2024-10-14 02:00:17",
-        "sentiment_score": -0.6098893210291862
-    },
-    {
-        "title": "Yo me subo al 47",
-        "image_url": "https://uh.gsstatic.es/autor/lourdes-duran/11315.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/14/2258485/subo-47.html",
-        "date": "2024-10-14 02:00:01",
-        "sentiment_score": -0.07594171166419983
-    },
-    {
-        "title": "Aldama habló en nombre del Gobierno para dar a Delcy el motivo de aterrizar en Barajas",
-        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/11/6708afc582bae.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.diariodeleon.es/nacional/241014/1645364/aldama-hablo-nombre-gobierno-dar-delcy-motivo-aterrizar-barajas.html",
-        "date": "2024-10-14 01:30:00",
-        "sentiment_score": 0.07135957479476929
-    },
-    {
-        "title": "Fútbol y violencia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/gijon/opinion/2024/10/14/futbol-violencia-109258899.html",
-        "date": "2024-10-14 01:03:00",
-        "sentiment_score": -0.9418679540976882
-    },
-    {
-        "title": "Sus preferencias políticas pueden estar distorsionando su visión de la realidad económica",
-        "image_url": "https://images.theconversation.com/files/624588/original/file-20241009-17-3q3hcp.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&rect=0%2C357%2C4498%2C2812&w=496",
-        "tags": [
-            "top"
-        ],
-        "link": "https://theconversation.com/sus-preferencias-politicas-pueden-estar-distorsionando-su-vision-de-la-realidad-economica-239228",
-        "date": "2024-10-14 01:02:30",
-        "sentiment_score": 0.3242947533726692
-    },
-    {
-        "title": "Rudy Fernández, Antonio Huertas, los marchadores de oro y el Proyecto ProFuturo, Leones de El Español",
-        "image_url": "https://s1.elespanol.com/2024/10/13/espana/893170790_249972280_1706x960.png?contentId=ESPIMA20241013_0116",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/espana/20241014/rudy-fernandez-antonio-huertas-marchadores-oro-proyecto-profuturo-leones-espanol/892660799_0.html",
-        "date": "2024-10-14 00:54:44",
-        "sentiment_score": 0.17044840566813946
-    },
-    {
-        "title": "Miguel Lago: “Fui un niño no deseado ni querido y no tengo relación con mis padres. Esa herida es para siempre”",
-        "image_url": "https://s1.elespanol.com/2024/10/11/reportajes/entrevistas/892670931_249923328_1706x960.jpg?contentId=ESPIMA20241011_0207",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20241014/miguel-lago-nino-no-deseado-querido-relacion-padres-herida-siempre/892660864_0.html",
-        "date": "2024-10-14 00:54:08",
-        "sentiment_score": -0.8321494087576866
-    },
-    {
-        "title": "Un Flashmob con 300 participantes en el Palacio Real para conmemorar el Día Mundial de la parada cardíaca",
-        "image_url": "https://autonomico.elconfidencialdigital.com/media/elconfidencialautonomico/images/2024/10/14/2024101402440056905.png",
-        "tags": [
-            "muy confidencial"
-        ],
-        "link": "https://autonomico.elconfidencialdigital.com/articulo/muy_confidencial/flashmob-300-participantes-palacio-real-madrid-conmemorar-dia-mundial-parada-cardiaca/20241014024648139334.html",
-        "date": "2024-10-14 00:46:48",
-        "sentiment_score": 0.30284731835126877
-    },
-    {
-        "title": "Por qué Cristóbal Colón es \"español\" desde hace más de un siglo: las razones de su 'conversión'",
-        "image_url": "https://s1.elespanol.com/2018/10/11/cultura/historia/leyendas-descubrimiento_de_america-espana_344727256_101007145_1706x960.jpg?contentId=ESPIMA20181011_1732",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/historia/20241014/cristobal-colon-espanol-hace-siglo-razones-conversion/893160761_0.html",
-        "date": "2024-10-14 00:31:52",
-        "sentiment_score": -0.07373283058404922
-    },
-    {
-        "title": "Zara se lanza al 'running' con la carrera de perfil descendente más rápida de Madrid",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/cb962c2d4f9432ef1ed98894a4fecdaf/crop/0x85/1083x807/f/webp/assets/multimedia/imagenes/2024/10/12/17287241972622.jpg",
-        "tags": [
-            "artículos cristina galafate",
-            "bienestar",
-            "estilo de vida",
-            "fitness",
-            "deportes",
-            "novedades fitness"
-        ],
-        "link": "https://www.elmundo.es/vida-sana/cuerpo/2024/10/14/6708d7ae21efa0c10d8b45b1.html",
-        "date": "2024-10-13 22:41:20",
-        "sentiment_score": 0.3063886910676956
-    },
-    {
-        "title": "¿Cómo hacer una película hoy como si estuviéramos en el siglo XIX?",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3035787.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/14/2257773/cine-anthony-neitzke-encarga-direccion-fotografica-home-abissal-marina-wagner.html",
-        "date": "2024-10-14 02:00:01",
-        "sentiment_score": -0.024972647428512573
-    },
-    {
-        "title": "Lamine Yamal sufrió una sobrecarga",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://elperiodiquito.com/deportes/190444/lamine-yamal-sufrio-una-sobrecarga/",
-        "date": "2024-10-14 01:46:35",
-        "sentiment_score": -0.8623762261122465
-    },
-    {
-        "title": "75 años de tu mano",
-        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.diariodeleon.es/opinion/241014/1645377/75-anos-mano.html",
-        "date": "2024-10-14 01:30:00",
-        "sentiment_score": 0.5462799891829491
-    },
-    {
-        "title": "Pilar Rahola: \"Estoy hasta las narices de esa idea de que el PSOE es mejor para Cataluña que el PP. Nos han jodido igual\"",
-        "image_url": "https://s1.elespanol.com/2024/10/13/actualidad/893170915_249976363_1706x960.png?contentId=ESPIMA20241013_0241",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20241014/pilar-rahola-narices-idea-psoe-mejor-cataluna-pp-hanjodidoigual/892910808_0.html",
-        "date": "2024-10-14 00:51:48",
-        "sentiment_score": -0.5669425427913666
-    },
-    {
-        "title": "Los partidos que apoyan al Gobierno, abucheados en la manifestación contra los altos precios de la vivienda",
-        "image_url": "https://s1.elespanol.com/2024/10/13/reportajes/893171022_249979842_1706x960.jpg?contentId=ESPIMA20241013_0348",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20241014/partidos-apoyan-gobierno-abucheados-manifestacion-altos-preciosdelavivienda/893160861_0.html",
-        "date": "2024-10-14 00:51:34",
-        "sentiment_score": -0.8688657730817795
-    },
-    {
-        "title": "La brecha entre los ingresos de las familias y el precio de la vivienda alcanza niveles récord",
-        "image_url": "https://gaceta.es/wp-content/uploads/2024/10/EuropaPress_6117544_presidente_gobierno_pedro_sanchez_preside_acto_suscripcion_convenios-2.jpg",
-        "tags": [
-            "pedro sánchez",
-            "vivienda",
-            "empleo",
-            "economía"
-        ],
-        "link": "https://gaceta.es/economia/la-brecha-entre-los-ingresos-de-las-familias-y-el-precio-de-la-vivienda-alcanza-niveles-record-20241014-0218/",
-        "date": "2024-10-14 00:18:26",
-        "sentiment_score": -0.12414746731519699
-    },
-    {
-        "title": "La mancha negra del Barça que atormenta a Laporta para la asamblea de compromisarios",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/21/culemania/palco/872172811_13255005_1706x960.png?contentId=ESPIMA20240721_0037",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241014/la-mancha-barca-atormenta-laporta-asamblea-compromisarios/893160737_0.html",
-        "date": "2024-10-13 23:35:57",
-        "sentiment_score": 0.0342584028840065
-    },
-    {
         "title": "Trump promete contratar más agentes de la Patrulla Fronteriza y aumentar los salarios",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766259-donald-trump.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -743,28 +9,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/10/14/trump-promete-contratar-agentes-patrulla-fronteriza-y-aumentar-los-salarios-trax/",
         "date": "2024-10-14 05:49:38",
         "sentiment_score": 0.13493570685386658
-    },
-    {
-        "title": "Funcionarios federales dicen que Trump no estaba en peligro después de que un hombre fuera arrestado con armas ilegales cerca de un mitin de campaña en California",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766231-2024-10-13t012934z-1828871383-rc2djaa94wsn-rtrmadp-3-usa-election-trump.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/intento-asesinato-hombre-armas-mitin-trump-california-trax/",
-        "date": "2024-10-14 03:51:06",
-        "sentiment_score": -0.6898539680987597
-    },
-    {
-        "title": "Mientras Harris se postula para la presidencia, su oscilante historial como fiscal genera un nuevo escrutinio",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766204-c-gettyimages-2174047417.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política",
-            "kamala harris",
-            "elecciones estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/13/harris-presidencia-historial-fiscal-california-escrutinio-trax/",
-        "date": "2024-10-14 03:43:32",
-        "sentiment_score": -0.18415828049182892
     },
     {
         "title": "Tensión en la frontera de Corea: el Norte despliega más artillería en plena escalada retórica",
@@ -785,230 +29,6 @@ export default [
         "link": "https://www.abc.es/internacional/muertos-120-heridos-bombardeos-israelies-escuela-hospital-20241014072047-nt.html",
         "date": "2024-10-14 05:20:48",
         "sentiment_score": -0.25804270803928375
-    },
-    {
-        "title": "La UE pide una investigación «exhaustiva» sobre los ataques israelíes contra la misión de la ONU en Líbano",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/14/ONU-kk9G-U603194835300Cw-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/onu-pide-investigacion-exhaustiva-sobre-ataques-israelies-20241014053708-nt.html",
-        "date": "2024-10-14 03:37:53",
-        "sentiment_score": -0.07656562328338623
-    },
-    {
-        "title": "Junts quiere el Presupuesto",
-        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/sucesos/2024/10/10/mulossueltosbonarescabrera-U73462787563DML-170x119@huelva24.PNG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-junts-quiere-presupuesto-20241014173653-nt.html",
-        "date": "2024-10-14 02:16:12",
-        "sentiment_score": -0.09226018190383911
-    },
-    {
-        "title": "Se abre el telón: así lastra la teatralización de la política el debate parlamentario",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GFVV4SEZRBAFZLZU227MDSPRJM.jpg?auth=7aa4d96b43c21f84f321533f00b2013cfab80226c54b76692ebe918fc094974d&width=1200",
-        "tags": [
-            "miguel tellado",
-            "psoe",
-            "pp",
-            "sumar",
-            "eta",
-            "alberto núñez feijóo",
-            "inmigración",
-            "pedro sánchez",
-            "política",
-            "coalición canaria",
-            "lluís orriols",
-            "debates parlamentarios",
-            "congreso diputados",
-            "españa",
-            "cristina monge",
-            "partidos políticos"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/se-abre-el-telon-asi-lastra-la-teatralizacion-de-la-politica-el-debate-parlamentario.html",
-        "date": "2024-10-14 03:40:00",
-        "sentiment_score": -0.7457193583250046
-    },
-    {
-        "title": "El Senado ratificará hoy la reforma legal que beneficia a presos de ETA pese al cambio de voto del PP",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VFB46GZLGGHZZSRRVCCTUFAIGE.jpg?auth=7686d8420a757b262e73a4e11524410b382541d8890da5775309319652bdcf71&width=1200",
-        "tags": [
-            "pp",
-            "psoe",
-            "congreso diputados",
-            "eta",
-            "alberto núñez feijóo",
-            "presos eta",
-            "pedro sánchez",
-            "gobierno",
-            "españa",
-            "senado",
-            "miguel ángel blanco"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/el-senado-ratificara-hoy-la-reforma-legal-que-beneficia-a-presos-de-eta-pese-al-cambio-de-voto-del-pp.html",
-        "date": "2024-10-14 03:40:00",
-        "sentiment_score": -0.5588949285447598
-    },
-    {
-        "title": "El Estado deberá inyectar hasta 20.000 millones más a las comunidades cada año para cumplir el pacto de financiación con ERC",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NWWM3ABR74UNJ6VEYZZPFGB4HI.jpg?auth=d570592ef12846d3cc72c9fcf5f958aa0527f47e83c3fdd4e6db72e9f843c00f&width=1200",
-        "tags": [
-            "psc",
-            "generalitat cataluña",
-            "financiación autonómica",
-            "política fiscal",
-            "consejo política fiscal",
-            "salvador illa",
-            "erc",
-            "tributos",
-            "política financiera",
-            "maría jesús montero",
-            "españa",
-            "impuestos"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/el-estado-debera-inyectar-hasta-20000-millones-mas-a-las-comunidades-cada-ano-para-cumplir-el-pacto-de-financiacion-con-erc.html",
-        "date": "2024-10-14 03:40:00",
-        "sentiment_score": 0.09669731557369232
-    },
-    {
-        "title": "El Gobierno quiere alejar un nuevo 15-M de las calles",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DEAJ5CVFB5BNJDRX7WKGO4PBLY.jpg?auth=601ddd76d934dcfa7e95a6e2c9198fb81dd0d83ec7ecf7dd56b8cb1395e1cbb3&width=1200",
-        "tags": [
-            "madrid",
-            "manifestaciones",
-            "movimiento 15-m",
-            "política",
-            "vivienda",
-            "gobierno",
-            "españa",
-            "leyes autonómicas",
-            "partidos políticos"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/el-gobierno-quiere-alejar-un-nuevo-15-m-de-las-calles.html",
-        "date": "2024-10-14 03:40:00",
-        "sentiment_score": -0.5642046481370926
-    },
-    {
-        "title": "Los libaneses en España: “No he tenido un día de mi vida en el que no piense en mi país”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IMO6MISA4BBWLJWNKWYKLZC25M.jpg?auth=2cd76dcb9e59f49eb34c0e013402441107df37e6b7bc76d52ab17c6adf6001ff&width=1200",
-        "tags": [
-            "líbano",
-            "conflicto árabe-israelí",
-            "médicos",
-            "inmigración",
-            "palestina",
-            "franja gaza",
-            "oriente próximo",
-            "españa",
-            "israel",
-            "hezbolá"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/los-libaneses-en-espana-no-he-tenido-un-dia-de-mi-vida-en-el-que-no-piense-en-mi-pais.html",
-        "date": "2024-10-14 03:40:00",
-        "sentiment_score": -0.6904493272304535
-    },
-    {
-        "title": "Espeleokayak, senderismo y más planes en la sierra de Espadán, en Castellón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C4ARQFIGHFEAXBQGHBF2TIV64E.jpg?auth=2bb90a08f07763b7f9fd7c054362b5d81266f26aa66879b852cb2e0de3e63640&width=1200",
-        "tags": [
-            "viajes de montaña",
-            "turismo nacional",
-            "senderismo",
-            "turismo aventura",
-            "comunidad valenciana",
-            "provincia castellón",
-            "viajes",
-            "kayak",
-            "turismo interior"
-        ],
-        "link": "https://elpais.com/elviajero/escapadas/espana/2024-10-14/espeleokayak-senderismo-y-mas-planes-en-la-sierra-de-espadan-en-castellon.html",
-        "date": "2024-10-14 03:35:00",
-        "sentiment_score": 0.2610895186662674
-    },
-    {
-        "title": "Una empresa pide a la Comunidad de Madrid levantar un complejo en una zona protegida de San Lorenzo de El Escorial",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z27J4BISPFA4HGNXPIEGMMMN74.jpg?auth=69392c645dfc8a2ec960b5d18215648093b5b94c52064589941205145276e588&width=1200",
-        "tags": [
-            "madrid",
-            "felipe ii",
-            "el escorial",
-            "renacimiento",
-            "legislación autonómica",
-            "agroalimentación",
-            "ganadería",
-            "construcción",
-            "agricultura",
-            "urbanismo",
-            "bic",
-            "comunidad de madrid",
-            "universidad",
-            "legislación"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-14/ayuso-estudia-construir-un-complejo-de-investigacion-docencia-y-hoteles-en-un-terreno-protegido-de-el-escorial.html",
-        "date": "2024-10-14 03:30:00",
-        "sentiment_score": 0.13222986459732056
-    },
-    {
-        "title": "Fiscalidad, turismo y ciudad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZWC3NNXUZVEVBBYXJM6BXRXNXQ.jpg?auth=01e38912cf127a4a214c75a444ae7726ae631023f7a6c34f635b83346cd13533&width=1200",
-        "tags": [
-            "hoteles",
-            "barcelona",
-            "impuestos municipales",
-            "ayuntamiento barcelona",
-            "servicios públicos",
-            "turismo masivo",
-            "cataluña",
-            "política municipal",
-            "política",
-            "tasa turística",
-            "turismo",
-            "ordenanzas municipales",
-            "turismo ciudad",
-            "apb"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-14/fiscalidad-turismo-y-ciudad.html",
-        "date": "2024-10-14 03:15:00",
-        "sentiment_score": 0.438349612057209
-    },
-    {
-        "title": "Latinos, evangélicos y judíos con Ayuso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3QORKH2DV2BHRMDCV5ZTUWSANM.jpg?auth=9c1f93b05568f186fbd3ea93cd46d2dc3b86e8220d8f28b44119e2c98f734af8&width=1200",
-        "tags": [
-            "madrid",
-            "judíos",
-            "latinoamérica",
-            "isabel díaz ayuso",
-            "religión",
-            "comunidad de madrid",
-            "josé luis martínez almeida"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-14/latinos-evangelicos-y-judios-con-ayuso.html",
-        "date": "2024-10-14 03:00:00",
-        "sentiment_score": 0.40115317702293396
-    },
-    {
-        "title": "El “inviable” soterramiento de Valladolid se hunde entre “faltas de rigor” del Ayuntamiento y la negativa de Transportes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S3CMMB33YRFSVMZWCN5XTERNLI.jpg?auth=08f97b00c893e9a8e7b1817fc93d71833aae05d68c8de95983a0180acef2ee2a&width=1200",
-        "tags": [
-            "trenes",
-            "valladolid",
-            "túneles ferrocarril",
-            "ministerio de transportes",
-            "transporte",
-            "transporte ferroviario",
-            "carreteras",
-            "españa",
-            "soterramiento vías",
-            "carreteras nacionales",
-            "carreteras provinciales",
-            "junta castilla y león"
-        ],
-        "link": "https://elpais.com/espana/2024-10-14/el-inviable-soterramiento-de-valladolid-se-hunde-entre-faltas-de-rigor-del-ayuntamiento-y-la-negativa-de-transportes.html",
-        "date": "2024-10-14 03:00:00",
-        "sentiment_score": -0.7365298345685005
     },
     {
         "title": "Georgina Rodríguez se atreve con la tortilla de patata: «Para cortar la cebolla me pongo gafas de Channel»",
@@ -7023,5 +6043,574 @@ export default [
         "link": "https://www.20minutos.es/noticia/5644773/0/congreso-pide-que-dgt-done-autoescuelas-coches-adaptados-para-conductores-con-discapacidad/",
         "date": "2024-10-17 05:31:44",
         "sentiment_score": 0.43261000514030457
+    },
+    {
+        "title": "CNN intentó encontrar a los fabricantes de los nuevos relojes \"de fabricación suiza\" de Trump. Acabamos en un centro comercial en Wyoming",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/c-screenshot-2024-10-14-at-4-56-24-pm.jpg?quality=100&strip=info",
+        "tags": [
+            "donald trump",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/17/fabricantes-relojes-trump-wyoming-trax/",
+        "date": "2024-10-17 17:05:42",
+        "sentiment_score": -0.13779734075069427
+    },
+    {
+        "title": "\"Tuve que negociar con los enviados del régimen”, dice González Urrutia sobre su salida de Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175811594.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-acuerdo-asilo-politico-espana-firma-cafe-tv",
+        "date": "2024-10-17 17:03:36",
+        "sentiment_score": -0.3240636810660362
+    },
+    {
+        "title": "\"Tuve que negociar con los enviados del régimen”, dice González Urrutia sobre su salida de Venezuela",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "edmundo gonzález",
+            "fast – news variety",
+            "crisis venezuela",
+            "venezuela",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-acuerdo-asilo-politico-espana-firma-cafe-tv/",
+        "date": "2024-10-17 17:03:36",
+        "sentiment_score": -0.16178742796182632
+    },
+    {
+        "title": "¿Qué legado deja Liam Payne? La estrella de One Direction fallece a los 31",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1206903763-20241017165009784.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/liam-payne-one-direction-muerte-obit-buenos-aires",
+        "date": "2024-10-17 16:59:24",
+        "sentiment_score": -0.8390306551009417
+    },
+    {
+        "title": "Mira uno de los últimos encuentros de Liam Payne con sus fans antes de morir",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-2.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/liam-payne-fans-muerte-palermo-ush-orix",
+        "date": "2024-10-17 16:13:15",
+        "sentiment_score": -0.15607736259698868
+    },
+    {
+        "title": "Agentes de policía rescatan a un hombre que cae a las vías cuando se aproxima un tren",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hombre-policia-seattle-rescate-vias-tren-ush-trax/",
+        "date": "2024-10-17 16:07:01",
+        "sentiment_score": -0.5072528161108494
+    },
+    {
+        "title": "Agentes de policía rescatan a un hombre que cae a las vías cuando se aproxima un tren",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-tren.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hombre-policia-seattle-rescate-vias-tren-ush-trax",
+        "date": "2024-10-17 16:07:01",
+        "sentiment_score": -0.4703330397605896
+    },
+    {
+        "title": "“La juramentación es ante la Asamblea Nacional, en Venezuela”, dice González Urrutia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/juramentacion-asamblea-nacional-venezuela-edmundo-gonzalez-cafe-tv/",
+        "date": "2024-10-17 16:06:57",
+        "sentiment_score": -0.04998260736465454
+    },
+    {
+        "title": "Así se vio la última superluna del 2024 alrededor del mundo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178136567.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/superluna-octubre-imagenes-luna-del-cazador-orix",
+        "date": "2024-10-17 15:34:42",
+        "sentiment_score": 0.07139339298009872
+    },
+    {
+        "title": "Así se vio la última superluna del 2024 alrededor del mundo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "xpress",
+            "ciencia y espacio",
+            "superluna",
+            "fast – general"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/superluna-octubre-imagenes-luna-del-cazador-orix/",
+        "date": "2024-10-17 15:34:42",
+        "sentiment_score": 0.22336344420909882
+    },
+    {
+        "title": "Ejercicio de equilibrio",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/17/christine-lagarde-ecb-RabF7cUYQtzxV4UCItUXsqL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ignacio-marcogardoqui-ejercicio-equilibrio-20241017182922-nt.html",
+        "date": "2024-10-17 16:30:04",
+        "sentiment_score": -0.1247657835483551
+    },
+    {
+        "title": "Meloni, primer líder internacional que visita el Líbano",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/meloni-italy-RiFoZnlRXvHoOY7MBtwSmHN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/meloni-primer-lider-internacional-visita-libano-20241017175850-nt.html",
+        "date": "2024-10-17 15:58:50",
+        "sentiment_score": -0.1384706199169159
+    },
+    {
+        "title": "Las familias de los rehenes exigen a Netanyahu que aproveche la muerte de Sinwar para asegurar un acuerdo inmediato",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/rehenes-hostages-R6nFHMY8pYwxP09yMsOOJNP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/familias-rehenes-exigen-netanyahu-aproveche-muerte-sinwar-20241017173531-nt.html",
+        "date": "2024-10-17 15:35:31",
+        "sentiment_score": -0.17949174344539642
+    },
+    {
+        "title": "Un biomarcador predice la respuesta a la inmunoterapia en el cáncer de hígado",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/10/17/cell-cancer.jpeg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/biomarcador-predecir-respuesta-inmunoterapia-cancer-higado-20241017121559-nt.html",
+        "date": "2024-10-17 15:14:03",
+        "sentiment_score": -0.13675355911254883
+    },
+    {
+        "title": "El 60% de los que precisan terapia por su salud mental no la reciben",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/10/17/depression.jpeg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/2023-600000-bajas-laborales-debieron-trastornos-psiquiatricos-20241017133216-nt.html",
+        "date": "2024-10-17 14:44:25",
+        "sentiment_score": -0.2447875291109085
+    },
+    {
+        "title": "Telefónica entra de lleno al negocio cripto y lanza un nuevo monedero virtual",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/17/alvarez-pallete-Rd994phDQtCI9pCLPlIfNQN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/telefonica-entra-lleno-negocio-cripto-lanza-nuevo-20241017163145-nt.html",
+        "date": "2024-10-17 14:32:50",
+        "sentiment_score": 0.001068025827407837
+    },
+    {
+        "title": "Los líderes de Hamás y Hizbolá que han sido eliminados por Israel",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/pitnuras-RIf3ePUaKS4UxvmnjtPZn4L-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/lideres-hamas-hizbola-eliminados-israel-20241017162922-nt.html",
+        "date": "2024-10-17 14:29:23",
+        "sentiment_score": -0.13762928545475006
+    },
+    {
+        "title": "Descubren el tiempo exacto que necesitas caminar para ponerte en forma ( y no son 10.000 pasos)",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/10/17/caminar-tiempo-Rqn9zMT8M1u5gE3VDnFcLkM-1200x840@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/descubren-tiempo-exacto-necesitas-caminar-ponerte-forma-20241017160450-nt.html",
+        "date": "2024-10-17 14:09:56",
+        "sentiment_score": -0.02094396948814392
+    },
+    {
+        "title": "Al menos 14 muertos en un ataque israelí en Jabalia",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/1487464307-kLuB-U6032178876063K-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/muertos-ataque-israeli-jabalia-20241017145346-nt.html",
+        "date": "2024-10-17 12:53:47",
+        "sentiment_score": -0.797912335023284
+    },
+    {
+        "title": "El BCE vuelve a bajar los tipos: así afecta a hipotecas, créditos y depósitos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/17/hipotecas-bankinter-RjS6zfwD9jaCVcq9bMKYqLM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/bce-vuelve-bajar-tipos-afecta-hipotecas-creditos-20241017103129-nt.html",
+        "date": "2024-10-17 12:21:00",
+        "sentiment_score": -0.10245968401432037
+    },
+    {
+        "title": "El PSOE andaluz se abstiene en una iniciativa que pide declarar persona ‘non grata’ al rey emérito Juan Carlos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T5AONQHCL5HIPIJJ5WLDPXG6TE.jpg?auth=b08eacf3e704e54bbb16cf34fc29a27df0cceb8a0bc7bff968b87f58cb04285d&width=1200",
+        "tags": [
+            "parlamento andalucía",
+            "monarquía",
+            "españa",
+            "por andalucía",
+            "casa real",
+            "adelante andalucía",
+            "pp-a",
+            "juan carlos i",
+            "vox",
+            "psoe-a",
+            "andalucía"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-10-17/el-psoe-andaluz-se-abstiene-en-una-iniciativa-que-pide-declarar-persona-non-grata-al-rey-emerito-juan-carlos.html",
+        "date": "2024-10-17 16:36:59",
+        "sentiment_score": -0.4507165886461735
+    },
+    {
+        "title": "Nueve alcaldes del PSOE se alían para obligar al PP de Ayuso a debatir en la Asamblea sobre la limitación a los alquileres",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XOIY7IDDVREZJBVE4RV4CWS6OI.jpg?auth=75aa6923b7265d26c1e0a96c4e576134b0b4d6a48e8e8d53ef7a73da44e2a7af&width=1200",
+        "tags": [
+            "psoe",
+            "comunidad de madrid",
+            "isabel díaz ayuso",
+            "vivienda",
+            "getafe",
+            "gobierno comunidad de madrid",
+            "fuenlabrada",
+            "madrid",
+            "legislación vivienda",
+            "juan lobato"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-17/nueve-alcaldes-del-psoe-se-alian-para-obligar-al-pp-de-ayuso-a-debatir-en-la-asamblea-sobre-la-limitacion-a-los-alquileres.html",
+        "date": "2024-10-17 16:26:20",
+        "sentiment_score": 0.28375911712646484
+    },
+    {
+        "title": "“Maricón” y “corrupto”: una treintena de estudiantes increpan al ministro Marlaska a la salida de un acto de la Universidad de Navarra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XKYSAT3F65LGLL5BTSUXMNIFUU.jpg?auth=69a1e465795f8bea311bc247a19f8a30da686c520a9437b098901c842c55be30&width=1200",
+        "tags": [
+            "fernando grande-marlaska",
+            "ministerio del interior",
+            "universidad navarra",
+            "policía",
+            "estudiantes",
+            "españa",
+            "estudiantes universitarios",
+            "universidades privadas",
+            "navarra",
+            "homofobia"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/maricon-y-corrupto-una-treintena-de-estudiante-increpa-al-ministro-marlaska-a-la-salida-de-un-acto-de-la-universidad-de-navarra.html",
+        "date": "2024-10-17 15:29:48",
+        "sentiment_score": -0.4722977690398693
+    },
+    {
+        "title": "La tasa de residuos subirá el año próximo un 23% para los vecinos del área metropolitana de Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/J6CBEPG5YBHAXLZ36TTOGBKS2A.jpeg?auth=b5010f06586311105947da36baad4c0c17bc46471e51908ce5d01ed9c41f3257&width=1200",
+        "tags": [
+            "compromis-q",
+            "valencia",
+            "pp",
+            "tasas",
+            "residuos urbanos",
+            "leyes ordinarias",
+            "reciclaje basura",
+            "directivas comunitarias",
+            "pspv-psoe",
+            "economía circular",
+            "tratamiento residuos",
+            "recogida basuras",
+            "ayuntamientos",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-17/la-tasa-de-residuos-subira-el-ano-proximo-un-23-para-los-vecinos-del-area-metropolitana-de-valencia.html",
+        "date": "2024-10-17 15:05:27",
+        "sentiment_score": 0.11560244113206863
+    },
+    {
+        "title": "Anticorrupción pide investigar a Ábalos porque resulta difícil entender la operativa de la trama “sin su participación”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KALBIZBUVNA67LXAG77FKLK6MU.jpg?auth=e447a0cd24de6c47c9e4fd0c0372fb54b12bf6d13e31f1bfcaea5a37f6f9b3f5&width=1200",
+        "tags": [
+            "fiscalía anticorrupción",
+            "investigación judicial",
+            "caso koldo",
+            "política",
+            "corrupción",
+            "josé luis ábalos",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/anticorrupcion-pide-investigar-a-abalos-porque-resulta-dificil-entender-la-operativa-de-la-trama-sin-su-participacion.html",
+        "date": "2024-10-17 14:29:13",
+        "sentiment_score": -0.20701421052217484
+    },
+    {
+        "title": "Las universidades catalanas contratarán casi 1.200 profesores en cuatro años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LDYBAWLY2ZAWBHMSJX3RS53SCE.jpg?auth=2d95c17a2388d8479b1667bd9a3e8e02aed666e4d87cfa7e3323e5dd18797872&width=1200",
+        "tags": [
+            "universidad",
+            "ministerio de ciencia, innovación y universidades",
+            "generalitat cataluña",
+            "diana morant ripoll",
+            "cataluña",
+            "profesorado",
+            "rectores",
+            "losu",
+            "educación",
+            "universidades públicas",
+            "profesores universitarios"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-17/las-universidades-catalanas-contrataran-casi-1200-profesores-en-cuatro-anos.html",
+        "date": "2024-10-17 14:09:34",
+        "sentiment_score": 0.5054677277803421
+    },
+    {
+        "title": "La Marea Blanca ejecuta sus ocho demandas: “La Junta de Andalucía es la única responsable de unas listas de espera inadmisibles”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JFLTPZTMAFCB7ARIPTI5OCWFLQ.png?auth=ead9d4fcdbfe8b2b7a93ef2871f2a886fb4d323948675de641180109a0cefde9&width=1200",
+        "tags": [
+            "listas espera",
+            "andalucía",
+            "sanidad privada",
+            "junta de andalucía",
+            "sociedad",
+            "juan manuel moreno",
+            "sanidad pública"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-10-17/la-marea-blanca-ejecuta-sus-ocho-demandas-la-junta-de-andalucia-es-la-unica-responsable-de-unas-listas-de-espera-inadmisibles.html",
+        "date": "2024-10-17 13:39:36",
+        "sentiment_score": -0.7737507838755846
+    },
+    {
+        "title": "La policía reconstruye los últimos minutos de la joven Agostina Rubini desaparecida en Palma",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RQQALO7LS2EBTTJT7AUWHTWHXI.jpg?auth=da8b59bd0875281e60e8b2006a875b98478312701af1842bcc279a79ae0fb638&width=1200",
+        "tags": [
+            "camiones",
+            "palma",
+            "policía",
+            "mallorca",
+            "basura",
+            "sucesos",
+            "personas desaparecidas",
+            "argentina",
+            "españa",
+            "baleares"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/la-policia-reconstruye-los-ultimos-minutos-de-la-joven-agostina-rubini-desaparecida-en-palma.html",
+        "date": "2024-10-17 13:32:59",
+        "sentiment_score": -0.8075796253979206
+    },
+    {
+        "title": "La autopsia determina que la muerte de la mujer hallada en un piso de la plaza de los Cubos fue natural",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PLNFJREJN5FU7D53GRD6W2YJKU.jpg?auth=6647d65bb45fdfe390465e4ca3e5b4e75f3a241be33117712fa83c447e60813b&width=1200",
+        "tags": [
+            "madrid",
+            "prostitución",
+            "policía",
+            "sucesos",
+            "comunidad de madrid",
+            "investigación policial"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-17/la-autopsia-determina-que-la-muerte-de-la-mujer-hallada-en-un-piso-de-la-plaza-de-los-cubos-fue-natural.html",
+        "date": "2024-10-17 13:28:14",
+        "sentiment_score": -0.2578464150428772
+    },
+    {
+        "title": "El PP, sobre la querella contra el PSOE: “Nuestro objetivo es echar a Sánchez con todos los medios a nuestro alcance”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AWWIMGXOCFFALPEGTN7LYIFXUM.jpg?auth=04869ca9f61db541894d99478a4d5925c4bc81fa4ac346c47846641e896ee698&width=1200",
+        "tags": [
+            "financiación ilegal",
+            "psoe",
+            "alberto núñez feijóo",
+            "pp",
+            "caso koldo",
+            "querellas",
+            "gobierno",
+            "pedro sánchez",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-17/el-pp-sobre-la-querella-contra-el-psoe-nuestro-objetivo-es-echar-a-sanchez-con-todos-los-medios-a-nuestro-alcance.html",
+        "date": "2024-10-17 13:14:51",
+        "sentiment_score": -0.5192090012133121
+    },
+    {
+        "title": "Un jugador del Real Madrid tiene prohibido por contrato decir determinadas palabras: son estas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1dcda76c-babf-4e3a-baca-8fad107ca697_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/fuera-de-juego/2024/10/17/jugador-real-madrid-prohibido-contrato-dv-109567359.html",
+        "date": "2024-10-17 17:06:51",
+        "sentiment_score": -0.45636581629514694
+    },
+    {
+        "title": "Se vende uno de los hoteles más emblemáticos de Ciudad Real",
+        "image_url": "https://s1.elespanol.com/2024/10/17/actualidad/894171341_250096161_1706x960.jpg?contentId=ESPIMA20241017_0767",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/economia/empresas/20241017/vende-hoteles-emblematicos-ciudad-real-bic/894161090_0.html",
+        "date": "2024-10-17 17:06:44",
+        "sentiment_score": 0.22605511918663979
+    },
+    {
+        "title": "Un exentrenador de Militao desvela el trabajo que realizó el defensa del Real Madrid a su llegada a Europa",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/files/fp/uploads/2024/10/17/671141bd4a28e.r_d.1016-241-2095.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/exentrenador-militao-desvela-trabajo-realizo-defensa-real-madrid-llegada-europa-20241017_3030032.html",
+        "date": "2024-10-17 17:05:08",
+        "sentiment_score": -0.10392576456069946
+    },
+    {
+        "title": "La Filmoteca comparte una grabación de 1958 de Cinémathèque de Bretagne",
+        "image_url": "https://www.clm24.es/media/clm24/images/2024/10/17/2024101719034169522.jpg",
+        "tags": [
+            "toledo"
+        ],
+        "link": "https://www.clm24.es/articulo/toledo/filmoteca-toledana-comparte-grabacion-1958-compartida-cinematheque-bretagne/20241017190431434496.html",
+        "date": "2024-10-17 17:04:31",
+        "sentiment_score": 0.5797107443213463
+    },
+    {
+        "title": "Leyendas, épocas de ensueño y tardes para el recuerdo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47884757-2368-4822-a7f0-11882b0dd70a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/aragon/2024/10/17/leyendas-epocas-ensueno-tardes-recuerdo-109408107.html",
+        "date": "2024-10-17 17:00:40",
+        "sentiment_score": 0.3292338252067566
+    },
+    {
+        "title": "El Celta reivindica con retranca la Intertoto e invita a los madridistas a verla: «Está solo a 62 km de 'Sangenjo'»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ce553e9c-6f4a-4b3f-98c7-8d5024d69278_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/celta-de-vigo/2024/10/17/celta-reivindica-retranca-intertoto-real-madrid-109564393.html",
+        "date": "2024-10-17 17:00:19",
+        "sentiment_score": -0.09123490750789642
+    },
+    {
+        "title": "El ministro Planas entrega a Castelfrío el Premio al Mejor Serrano de España",
+        "image_url": "https://www.diariodeteruel.es/uploads/diariodeteruel/contenidos/c_70658_241017-22-01.jpg",
+        "tags": [
+            "comarcas"
+        ],
+        "link": "https://www.diariodeteruel.es/comarcas/el-ministro-planas-entrega-a-castelfrio-el-premio-al-mejor-serrano-de-espana",
+        "date": "2024-10-17 17:00:00",
+        "sentiment_score": 0.4173150509595871
+    },
+    {
+        "title": "Estudiantes de Secundaria, dos de ellas navarras, lanzan un rap sobre Ramón y Cajal junto a los artistas De la Lastra y Arché",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2024/10/17/6711420838162.jpeg",
+        "tags": [
+            "navarra"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/navarra/2024/10/17/estudiantes-secundaria-dos-navarras-lanzan-rap-sobre-ramon-cajal-artistas-lastra-arche-625892-300.html",
+        "date": "2024-10-17 16:58:50",
+        "sentiment_score": -0.14171630889177322
+    },
+    {
+        "title": "El gran dilema de Hansi Flick: apostar por un fichaje o por un canterano del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/26/culemania/primer-equipo/888921108_13494273_1706x960.jpg?contentId=ESPIMA20240926_0009",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241017/el-hansi-flick-un-cargarse-canterano-barca/894160667_0.html",
+        "date": "2024-10-17 16:57:58",
+        "sentiment_score": -0.23668353259563446
+    },
+    {
+        "title": "TSMC calma los nervios y Nvidia pone rumbo a nuevos máximos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NRL6BFOLDSHLAWC5IO4LC5XXBU.jpg?auth=fa70c9d0e489cf3952eaf84828fa58b9204cc9e7a45e231046d25189bdd33f72&width=1200",
+        "tags": [
+            "nvidia corporation",
+            "inteligencia artificial",
+            "asml",
+            "tsmc",
+            "mercados financieros"
+        ],
+        "link": "https://cincodias.elpais.com/mercados-financieros/2024-10-17/tsmc-calma-los-nervios-y-nvidia-pone-rumbo-a-nuevos-maximos.html",
+        "date": "2024-10-17 16:56:58",
+        "sentiment_score": 0.1580716222524643
+    },
+    {
+        "title": "11 pòdcasts en català que potser no conèixer i no et pots perdre",
+        "image_url": "http://www.publico.es//uploads/2024/10/16/670fd5087788b.jpeg",
+        "tags": [
+            "public"
+        ],
+        "link": "http://www.publico.es/public/11-podcasts-catala-potser-no-coneixer-i-no-et-pots-perdre.html",
+        "date": "2024-10-17 17:10:00",
+        "sentiment_score": 0.13438037037849426
+    },
+    {
+        "title": "Silence prevé contar con 165 puntos de baterías a finales de año",
+        "image_url": "https://s10.s3c.es/imag/_v0/4736x2585/5/d/9/1200x655_VisitaSilence.jpg",
+        "tags": [
+            "energia"
+        ],
+        "link": "https://www.eleconomista.es/energia/noticias/13039046/10/24/silence-preve-contar-con-165-puntos-de-baterias-a-finales-de-ano.html",
+        "date": "2024-10-17 17:09:23",
+        "sentiment_score": 0.09910161793231964
+    },
+    {
+        "title": "15 despachos de arquitectos se disputarán la remodelación de la Fira de Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c0ba1d7-e77b-4c4a-820f-8dffa68b1c08_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20241017/fira-barcelona-arquitectos-finalistas-disputaran-remodelacion-109565945",
+        "date": "2024-10-17 17:05:31",
+        "sentiment_score": 0.1923367753624916
+    },
+    {
+        "title": "Los bonistas de OHLA aceptan retrasar el cobro del cupón tras el acuerdo alcanzado",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/1fdc6e27dc19291b03254095f2ce08e5/crop/218x67/1856x1159/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/17/17291845145969.jpg",
+        "tags": [
+            "empresas>",
+            "inmobiliario y construcción>"
+        ],
+        "link": "https://www.expansion.com/empresas/inmobiliario/2024/10/17/67114321468aebad7f8b4570.html",
+        "date": "2024-10-17 17:02:39",
+        "sentiment_score": 0.042450323700904846
+    },
+    {
+        "title": "Movento entra en Madrid con la compra de Grupo Gil",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/17/671154e3c9fac.r_d.2550-1754-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241017/10030987/movento-compra-grupo-gil-moventia-compra.html",
+        "date": "2024-10-17 17:00:00",
+        "sentiment_score": 0.177029088139534
+    },
+    {
+        "title": "Sabina pone fecha a su concierto de despedida en Murcia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b308128-dd27-4418-9c3a-3cb710361309_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/cultura/2024/10/17/sabina-pone-fecha-concierto-despedida-109566470.html",
+        "date": "2024-10-17 16:56:10",
+        "sentiment_score": 0.22606432810425758
+    },
+    {
+        "title": "La contratación de oficinas se reactiva en la ciudad de Barcelona",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2023/05/11/DF99C50F-AA9B-4A4A-937E-DA47B161F956/96.jpg?crop=700%2C394%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/contratacion-oficinas-reactiva-ciudad-barcelona_2024101767114103e2e54f00018414c4.html",
+        "date": "2024-10-17 16:53:23",
+        "sentiment_score": 0.09287553653120995
     }
 ];
