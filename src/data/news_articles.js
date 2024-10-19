@@ -154,76 +154,6 @@ export default [
         "sentiment_score": -0.06842225790023804
     },
     {
-        "title": "Qatar, clave en la geoestrategia de Oriente Próximo, abandonará su experimento democrático",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/15/EMIR-CATAR-ROO2h4WhOKOTyn7yj66ixKI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/qatar-clave-geoestrategia-oriente-proximo-abandonara-experimento-20241015155835-nt.html",
-        "date": "2024-10-15 14:00:04",
-        "sentiment_score": -0.13846933841705322
-    },
-    {
-        "title": "Hacienda confirma esta novedad en la declaración de la Renta para todos los desempleados que quieran seguir cobrando una prestación",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/15/empleo.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/hacienda-confirma-novedad-declaracion-renta-desempleados-quieran-20241015151651-nt.html",
-        "date": "2024-10-15 13:16:52",
-        "sentiment_score": -0.09785713255405426
-    },
-    {
-        "title": "El comercio deja 16.000 vacantes sin cubrir por no encontrar los perfiles adecuados",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/15/MediaMarkt-RZizwVjzZSq4ui3z1BGZ5LP-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/comercio-deja-16000-vacantes-cubrir-encontrar-perfiles-20241015142232-nt.html",
-        "date": "2024-10-15 12:41:03",
-        "sentiment_score": -0.12502114474773407
-    },
-    {
-        "title": "Ex altos cargos de Hacienda anticipan un retroceso en la lucha contra el fraude si se trocea la Agencia Tributaria",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/15/MonteroNataliaMas-RRGbijfG5wq2WyHIoe4JfdM-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/altos-cargos-hacienda-anticipan-retroceso-lucha-fraude-20241015143032-nt.html",
-        "date": "2024-10-15 12:32:10",
-        "sentiment_score": -0.13341495394706726
-    },
-    {
-        "title": "El Gobierno vasco ante la entrada de Sidenor en Talgo: «Sí a la industria y al empleo en Euskadi»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/15/alavta-R9vToSXq6rog9HDAxR6pb7M-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-vasco-ante-entrada-sidenor-talgo-industria-20241015142546-nt.html",
-        "date": "2024-10-15 12:29:40",
-        "sentiment_score": -0.09929133951663971
-    },
-    {
-        "title": "Los propietarios tendrán que tener un código de identificación para ofrecer sus pisos en Airbnb y Booking",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/15/1487379535-Rojtb0nQbLgpZn2JT0kDQLN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/propietarios-tener-codigo-identificacion-ofrecer-pisos-airbnb-20241015141743-nt.html",
-        "date": "2024-10-15 12:17:44",
-        "sentiment_score": -0.04829975962638855
-    },
-    {
-        "title": "España lidera el 'ranking' de paro de los 38 países de la OCDE y duplica la media entre los menores de 25 años",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/15/1409060060-RZjs5UisTjOcYhohIal8RtN-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/espana-lidera-ranking-paro-paises-ocde-duplica-20241015133731-nt.html",
-        "date": "2024-10-15 11:37:31",
-        "sentiment_score": -0.11345100402832031
-    },
-    {
         "title": "La Guardia Civil identifica al exvicepresidente de Castilla y León, de Vox, por presentarse en un centro para inmigrantes",
         "image_url": "https://imagenes.elpais.com/resizer/v2/MSDRVB3GVBDRLGFQ4VTNCNU5WE.jpg?auth=e8bac2d21b899628e6c245c6762121b202723aa655a556a5433049d5b61039b4&width=1200",
         "tags": [
@@ -6575,5 +6505,378 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20241019/joan-permanyer/894410661_0.html",
         "date": "2024-10-18 22:00:00",
         "sentiment_score": -0.1752820461988449
+    },
+    {
+        "title": "OPINIÓN| ¿Quién sería más duro en el tema migratorio? ¿Trump o Harris?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21041458-1316-6899999999998-still.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-harris-donald-trump-migrantes-economia-elecciones-voto-perspectivas-mexico-tv",
+        "date": "2024-10-19 01:31:30",
+        "sentiment_score": -0.36381708458065987
+    },
+    {
+        "title": "Las 3 noticias económicas del 18 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21053018-1501190-still.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-18-octubre-2024-panorama-fast",
+        "date": "2024-10-19 01:29:32",
+        "sentiment_score": -0.015120025724172592
+    },
+    {
+        "title": "El hambre en el mundo se elevó tras la pandemia de covid-19, afirma representante de la FAO",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2147842159.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fao",
+            "noticias de salud",
+            "fast – news variety",
+            "xpress",
+            "hambre"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lubetkin-hambre-mundo-escenario-pandemia-aristegui-tv-fast/",
+        "date": "2024-10-19 00:59:13",
+        "sentiment_score": -0.6185309216380119
+    },
+    {
+        "title": "El hambre en América Latina baja y la obesidad sube, dice representante de la FAO",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-169621251.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lubetkin-hambre-america-latina-obesidad-ritmo-diferente-aristegui-tv-fast",
+        "date": "2024-10-19 00:48:16",
+        "sentiment_score": -0.23978331685066223
+    },
+    {
+        "title": "El hambre en América Latina baja y la obesidad sube, dice representante de la FAO",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-169621251.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lubetkin-hambre-america-latina-obesidad-ritmo-diferente-aristegui-tv-fast/",
+        "date": "2024-10-19 00:48:16",
+        "sentiment_score": -0.2651222422719002
+    },
+    {
+        "title": "Fósiles muestran cómo era realmente el artrópodo más grande del mundo, que vivió hace 300 millones de años",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768909-fosiles.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "ciencia",
+            "fósiles",
+            "arqueología"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/18/fosiles-antropodo-mas-grande-mundo-trax/",
+        "date": "2024-10-19 00:35:03",
+        "sentiment_score": 0.162471204996109
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 18 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178406023.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-18-de-octubre-2024-panorama-noche-fast",
+        "date": "2024-10-19 00:34:33",
+        "sentiment_score": 0.13704953715205193
+    },
+    {
+        "title": "Así llegaba el padre de Liam Payne al hotel donde murió",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/padre-liam-payne-llega-hotel-orix",
+        "date": "2024-10-19 00:05:45",
+        "sentiment_score": -0.4055110812187195
+    },
+    {
+        "title": "CNN reúne pruebas visuales de la muerte de Yahya Sinwar",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2149699153-20241018234002451.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra de israel",
+            "israel",
+            "israel noticias",
+            "sinwar",
+            "hamas",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cnn-pruebas-muerte-yahya-sinwar-trax/",
+        "date": "2024-10-18 23:43:28",
+        "sentiment_score": -0.6590750366449356
+    },
+    {
+        "title": "Aumentan los casos de bacterias que comen carne en Florida tras los huracanes Helene y Milton",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768886-gettyimages-758293537.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de salud",
+            "bacteria",
+            "florida"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/18/aumentan-casos-bacterias-comen-carne-florida-huracanes-trax/",
+        "date": "2024-10-18 23:42:39",
+        "sentiment_score": -0.36422115564346313
+    },
+    {
+        "title": "Una gurú de la Generalitat reconoce que el pacto de Illa con ERC entrega la totalidad de la Administración tributaria",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/18/1487460318-RHOH9c9iGZTnhoXcqum1IsM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/guru-generalitat-reconoce-pacto-illa-erc-entrega-20241018222226-nt.html",
+        "date": "2024-10-19 02:08:47",
+        "sentiment_score": -0.10122385621070862
+    },
+    {
+        "title": "Expertos militares avisan de que el fin de la guerra en Gaza solo llegará con la entrega de los rehenes",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/18/ejercito-israel-Rrr7n0mCu0AhO9HhFr7GynJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/expertos-militares-avisan-fin-guerra-gaza-solo-20241018175402-nt.html",
+        "date": "2024-10-19 02:04:47",
+        "sentiment_score": -0.10647425055503845
+    },
+    {
+        "title": "El dentista israelí que salvó la vida de Yahya Sinwar y luego perdió a un sobrino en los atentados del 7 de octubre",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/sinwar-yuav-RwzOHMb0Ry5Gi0iZeJI06NM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/dentista-israeli-salvo-vida-yahya-sinwar-perdio-20241017204513-nt.html",
+        "date": "2024-10-19 02:04:26",
+        "sentiment_score": -0.20956940948963165
+    },
+    {
+        "title": "Sánchez saca a licitación los primeros 3.800 pisos de su plan de 184.000 con solo una parcela en Madrid y ninguna en Barcelona",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/18/1464504204-RlQThqMhDTqnUy9tqXrK2CN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sanchez-saca-licitacion-primeros-3800-pisos-plan-20241018184931-nt.html",
+        "date": "2024-10-19 02:03:02",
+        "sentiment_score": -0.09912636876106262
+    },
+    {
+        "title": "Una reforma legal de Yolanda Díaz obligará a pagar más impuestos a unos 100.000 parados",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/19/YolandaDazEP-RhZpn9A1tno49bmyBVCCgmK-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cambio-legal-yolanda-diaz-obligara-pagar-impuestos-20241019181725-nt.html",
+        "date": "2024-10-19 02:02:36",
+        "sentiment_score": -0.06761439144611359
+    },
+    {
+        "title": "La autopsia revela que Yahya Sinwar murió de un disparo en la cabeza",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/yahya-k1cD-U6032250795844VG-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/autopsia-revela-yahya-sinwar-murio-disparo-cabeza-20241019024057-nt.html",
+        "date": "2024-10-19 00:40:57",
+        "sentiment_score": -0.1905219852924347
+    },
+    {
+        "title": "Yolanda Díaz pasa factura a los desempleados",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-yolanda-diaz-pasa-factura-desempleados-20241019003906-nt.html",
+        "date": "2024-10-18 22:39:10",
+        "sentiment_score": -0.4933365359902382
+    },
+    {
+        "title": "Recta final de 2024 para dibujar la salvación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6fd9d22e-6654-4084-b4bc-40723dc651ac_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/19/recta-final-2024-dibujar-salvacion-109680720.html",
+        "date": "2024-10-19 02:00:47",
+        "sentiment_score": -0.3407764807343483
+    },
+    {
+        "title": "Carlo Ancelotti se refirió sobre la acusación de abuso sexual hacia Mbappé",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/XOQMMOMA2RFL3PYTYUY2RQOZHA.jpeg?auth=726228a6fc3336cb2caa275312aff9b5656a73405bde6ddd283a0def0e866146&height=453&smart=true&width=680",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2024/10/19/carlo-ancelotti-se-refirio-sobre-la-acusacion-de-abuso-sexual-hacia-mbappe/",
+        "date": "2024-10-19 01:00:00",
+        "sentiment_score": -0.7631465867161751
+    },
+    {
+        "title": "Tres días en la 'cocina' de la 'misión OTAN' española en Eslovaquia: \"El enemigo ha entrado en nuestro territorio\"",
+        "image_url": "https://s1.elespanol.com/2024/10/18/espana/894420889_250112058_1706x960.jpg?contentId=ESPIMA20241018_0340",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241019/dias-cocina-mision-otan-espanola-eslovaquia-enemigo-entrado-territorio/893911100_0.html",
+        "date": "2024-10-19 00:55:28",
+        "sentiment_score": -0.4085128679871559
+    },
+    {
+        "title": "Un día con el grupo de élite que lucha contra 'hackers' desde Madrid y ayuda al FBI: \"Ya no hay nadie a salvo\"",
+        "image_url": "https://s1.elespanol.com/2024/10/09/omicrono/tecnologia/892171327_250130528_1706x960.jpg?contentId=ESPIMA20241009_0553",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20241019/dia-grupo-elite-lucha-hackers-madrid-ayuda-fbi-no-nadie-salvo/891911164_0.html",
+        "date": "2024-10-19 00:53:08",
+        "sentiment_score": -0.28984225541353226
+    },
+    {
+        "title": "El Athletic no da marcha atrás: el alpinista que llevó el anagrama de ETA al Everest hará el saque de honor",
+        "image_url": "https://s1.elespanol.com/2024/10/18/actualidad/894421631_250134889_1706x960.jpg?contentId=ESPIMA20241018_1082",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241019/athletic-no-da-marcha-alpinista-llevo-anagrama-eta-everest-hara-saque-honor/894411016_0.html",
+        "date": "2024-10-19 00:52:43",
+        "sentiment_score": -0.7712949719280005
+    },
+    {
+        "title": "Carlo Ancelotti cumple 200 partidos en LaLiga",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/10/Carlo-Ancelotti-cumple-200-partidos-en-LaLiga-elorientaldemongas.com-18-de-octubre-del-2024-1024x477.jpg",
+        "tags": [
+            "deportes",
+            "venezuela",
+            "relevantes",
+            "monagas",
+            "maturín"
+        ],
+        "link": "https://elorientaldemonagas.com/carlo-ancelotti-cumple-200-partidos-en-laliga/",
+        "date": "2024-10-19 00:33:00",
+        "sentiment_score": 0.24299421906471252
+    },
+    {
+        "title": "Bárbara Rey, traicionada por su hijo, o Isabel Preysler en 'guerra' con la niñera: las famosas con enemigo en casa",
+        "image_url": "https://s1.elespanol.com/2024/10/18/corazon/famosos/894421395_250127630_1706x960.jpg?contentId=ESPIMA20241018_0846",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241019/barbara-rey-traicionada-hijo-isabel-preysler-guerra-ninera-famosas-enemigo-casa/894410952_0.html",
+        "date": "2024-10-19 00:25:06",
+        "sentiment_score": -0.8854719931259751
+    },
+    {
+        "title": "La Real pone a prueba su racha ante el Atlético de Madrid",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/10a257e0-790e-4161-9f70-bbeef34e3bf5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2024/10/19/real-pone-prueba-racha-atletico-8824388.html",
+        "date": "2024-10-19 00:05:34",
+        "sentiment_score": 0.3076053708791733
+    },
+    {
+        "title": "Exjugador del Real Madrid se tatuó el nombre de su hija, luego descubrió que no era suya",
+        "image_url": "https://www.caraotadigital.net/wp-content/uploads/2024/10/Vinicius-Tobias-CD.jpg",
+        "tags": [
+            "real madrid",
+            "vinicius tobías",
+            "deportes",
+            "bebé",
+            "infidelidad",
+            "tatuaje"
+        ],
+        "link": "https://www.caraotadigital.net/deportes/exjugador-del-real-madrid-se-tatuo-el-nombre-de-su-hija-luego-descubrio-que-no-era-suya/",
+        "date": "2024-10-18 23:45:39",
+        "sentiment_score": -0.43424203991889954
+    },
+    {
+        "title": "2 parte | 18 OCT 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2-parte-18-oct-2024-partidazo-cope-20241019_3030958.html",
+        "date": "2024-10-18 22:59:39",
+        "sentiment_score": -0.21731823682785034
+    },
+    {
+        "title": "Luchar contra el cáncer de hígado desde Extremadura",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d956f36-f99b-4e40-b622-30b63831db60_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreogallego.es/vida-y-estilo/salud/guia/2024/10/19/luchar-cancer-higado-extremadura-109709638.html",
+        "date": "2024-10-19 01:59:54",
+        "sentiment_score": -0.4262719415128231
+    },
+    {
+        "title": "Luchar contra el cáncer de hígado desde Extremadura",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d956f36-f99b-4e40-b622-30b63831db60_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.epe.es/es/salud/20241019/luchar-cancer-higado-extremadura-109709603",
+        "date": "2024-10-19 01:59:46",
+        "sentiment_score": -0.23709788173437119
+    },
+    {
+        "title": "El festival Quimeras convoca en León a Martín Garzo y Gioconda Belli",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/18/6712b3552dd0f.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/241019/1652031/festival-quimeras-convoca-leon-martin-garzo-gioconda-belli.html",
+        "date": "2024-10-19 01:30:00",
+        "sentiment_score": 0.2817552536725998
+    },
+    {
+        "title": "Impulso a la tecnología española: cien millones para el IMEC y 200 al Perte Chip",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/18/671262583e470.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/241019/1651831/impulso-tecnologia-espanola-cien-millones-imec-200-perte-chip.html",
+        "date": "2024-10-19 01:30:00",
+        "sentiment_score": 0.35675639286637306
+    },
+    {
+        "title": "Álvarez (UGT) pide a Junts que respalde la reducción de la jornada laboral",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2024/06/UGT-ve-pequena-la-multa-a-las-aerolineas-y-sugiere-elevar-incumplimientos-a-delito-penal-907x510.jpg",
+        "tags": [
+            "laboral"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/alvarez-ugt-pide-a-junts-que-respalde-la-reduccion-de-la-jornada-laboral/",
+        "date": "2024-10-19 01:24:26",
+        "sentiment_score": 0.007770586758852005
+    },
+    {
+        "title": "Gemma Nierga: \"¿Mi despido de la SER? Lo más triste fue decírselo a mi padre. Supongo que ver que a su hija la tratan mal es duro\"",
+        "image_url": "https://s1.elespanol.com/2024/10/18/reportajes/894421269_250123718_1706x960.jpg?contentId=ESPIMA20241018_0720",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241019/gemma-nierga-despido-triste-decirselo-padre-supongo-ver-hija-tratan-mal-duro/894410800_0.html",
+        "date": "2024-10-19 00:53:58",
+        "sentiment_score": -0.9403014611452818
+    },
+    {
+        "title": "Alberto Bayo, el republicano que fracasó en su desembarco en Mallorca y adiestró al Che y a Fidel Castro para la revolución cubana",
+        "image_url": "https://s1.elespanol.com/2024/10/18/reportajes/894420982_250115016_1706x960.jpg?contentId=ESPIMA20241018_0433",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241019/alberto-bayo-republicano-fracaso-desembarco-mallorca-adiestro-che-fidel-castro-revolucion-cubana/894410805_0.html",
+        "date": "2024-10-19 00:53:57",
+        "sentiment_score": 0.06800544261932373
+    },
+    {
+        "title": "Adrián tiene un Omoda, el coche chino que ya está entre los más vendidos: \"Tiene lo mismo que un Mercedes\"",
+        "image_url": "https://s1.elespanol.com/2024/10/17/reportajes/894171397_250097916_1706x960.jpg?contentId=ESPIMA20241017_0823",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241019/adrian-omoda-coche-chino-vendidos-mismo-mercedes/894161054_0.html",
+        "date": "2024-10-19 00:53:06",
+        "sentiment_score": 0.479830339550972
     }
 ];
