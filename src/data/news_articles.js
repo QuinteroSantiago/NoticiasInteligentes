@@ -1,256 +1,5 @@
 export default [
     {
-        "title": "Trump se declara \"padre de la FIV\" en un evento con una audiencia exclusivamente femenina",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767265-trump-ca3ed1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política",
-            "trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/16/trump-declaraciones-fiv-aborto-trax/",
-        "date": "2024-10-16 05:42:21",
-        "sentiment_score": -0.6862977743148804
-    },
-    {
-        "title": "Un juez suspende la norma que obligaría a los condados de Georgia a realizar el recuento manual de votos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767257-georgia.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones estados unidos 2024",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/16/votos-recuento-manual-norma-georgia-trax/",
-        "date": "2024-10-16 05:34:38",
-        "sentiment_score": -0.8420128114521503
-    },
-    {
-        "title": "Gonzalo Bernardos, muy duro con Pedro Sánchez por su actuación con la política de vivienda: «Lo advertimos muchos economistas»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/16/pedro-sanchez-gonzalo-k81-U603203915168wdE-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gonzalo-bernardos-duro-pedro-sanchez-actuacion-politica-vivienda-economistas-20241016190138-nt.html",
-        "date": "2024-10-16 06:00:02",
-        "sentiment_score": -0.1199294924736023
-    },
-    {
-        "title": "Última hora de la actualidad política, en directo | Las últimas revelaciones del ‘caso Koldo’ centran la sesión de control al Gobierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3OMJJXC3PJARHBIZE4M2RSP62E.jpg?auth=dd6c81773f021b956e23c3e1f67b1c20d69618d6d3314cb1ced78338ac64006c&width=1200",
-        "tags": [
-            "congreso diputados",
-            "comunidades autónomas",
-            "psoe",
-            "sumar",
-            "gobierno de coalición",
-            "senado",
-            "xv legislatura españa",
-            "españa",
-            "gobierno de españa",
-            "partidos políticos",
-            "gobierno",
-            "pp",
-            "política",
-            "vox",
-            "legislaturas políticas"
-        ],
-        "link": "https://elpais.com/espana/2024-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
-        "date": "2024-10-16 06:05:20",
-        "sentiment_score": -0.10143419355154037
-    },
-    {
-        "title": "La muerte silenciosa de Ana en un piso del centro de Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6BHHPMZBQJEVDL22FVOCQ7MDFM.jpeg?auth=2888dfe956cbf3cde9be91e2c1d2704cbf7be130d8662d8c4e638eed75092057&width=1200",
-        "tags": [
-            "investigación policial",
-            "mujeres",
-            "comunidad de madrid",
-            "policía",
-            "madrid",
-            "sucesos",
-            "asesinatos"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-16/la-muerte-silenciosa-de-ana-en-un-piso-del-centro-de-madrid.html",
-        "date": "2024-10-16 05:21:56",
-        "sentiment_score": -0.6565911769866943
-    },
-    {
-        "title": "Lorenzo Caprile aterriza en la Sala Canal de Isabel II: un viaje desde su corazón hasta su cabeza",
-        "image_url": "https://s1.elespanol.com/2024/10/15/mujer/protagonistas/893671404_250032290_1706x960.jpg?contentId=ESPIMA20241015_0780",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/moda/20241016/lorenzo-caprile-aterriza-sala-canal-isabel-ii-viaje-corazon-cabeza/893661158_0.html",
-        "date": "2024-10-16 06:16:27",
-        "sentiment_score": 0.8265493903309107
-    },
-    {
-        "title": "José María Salmerón hizo campeón al Sanse",
-        "image_url": "https://images.ficheroslavoz.com/bb/bbf5a331-ee03-4877-b4d4-059ce37525c0.jpg?crop=1750%2C986&expires=1760595209&height=1070&token=r8s2YBIlxNMNrFaxVRuwNEJi31QPr8FPxgLfz63_1_Q&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/281755/jose-maria-salmeron-hizo-campeon-al-sanse",
-        "date": "2024-10-16 06:12:19",
-        "sentiment_score": -0.0979083776473999
-    },
-    {
-        "title": "El Corte Inglés apuesta por la música, la cultura y sus artistas",
-        "image_url": "https://dirigentesdigital.com/wp-content/uploads/2024/10/el-corte-ingles-musica-artistas.jpg",
-        "tags": [
-            "lifestyle",
-            "música",
-            "el corte inglés",
-            "cultura"
-        ],
-        "link": "https://dirigentesdigital.com/lifestyle/el-corte-ingles-apuesta-por-musica-cultura-artistas/",
-        "date": "2024-10-16 06:00:00",
-        "sentiment_score": 0.19016596674919128
-    },
-    {
-        "title": "Ni en Madrid ni en Barcelona: el bono del alquiler del Gobierno no es apto para todos los jóvenes",
-        "image_url": "https://s1.elespanol.com/2024/10/05/invertia/economia/macroeconomia/891170955_249769367_1706x960.png?contentId=ESPIMA20241005_0081",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20241016/madrid-barcelona-bono-alquiler-gobierno-no-apto-jovenes/893661058_0.html",
-        "date": "2024-10-16 05:48:08",
-        "sentiment_score": 0.26319417357444763
-    },
-    {
-        "title": "El Gobierno de Gaza exige la apertura \"inmediata\" de un paso para \"salvar\" el sistema de salud en el norte",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241016072104_120.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-gobierno-gaza-exige-apertura-inmediata-paso-salvar-sistema-salud-norte-20241016072104.html",
-        "date": "2024-10-16 05:21:04",
-        "sentiment_score": -0.4203673303127289
-    },
-    {
-        "title": "La princesa Leonor nos pone al día sobre su vida en Marín: 'Lo mejor son mis compañeros'",
-        "image_url": "https://www.hola.com/horizon/landscape/04f2ab4cc730-u566459198.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/realeza/casa_espanola/20241016724159/princesa-leonor-cuenta-como-es-vida-marin/",
-        "date": "2024-10-16 05:15:29",
-        "sentiment_score": 0.37720155715942383
-    },
-    {
-        "title": "¿Por qué esta máscara de pestañas es top ventas en Amazon?",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6QB6JLOUYNA25G4OMLUTR6IQAM.png?auth=f7270b958d375824262e28d4a5d930d62fb9ee02eb7c160a6a287eeaecc646a1&width=1200",
-        "tags": [
-            "mujeres",
-            "amazon",
-            "maquillaje",
-            "comercio electrónico",
-            "mascara pestanas",
-            "maquillaje ojos",
-            "belleza"
-        ],
-        "link": "https://elpais.com/escaparate/belleza/2024-10-16/por-que-esta-mascara-de-pestanas-es-top-ventas-en-amazon.html",
-        "date": "2024-10-16 05:15:00",
-        "sentiment_score": 0.13738953694701195
-    },
-    {
-        "title": "‘La Revuelta’ pierde espectadores al retrasar su horario por el fútbol pero gana en el 'prime time'",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/16/670f55f690173.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.lavanguardia.com/television/20241016/10025598/revuelta-pierde-espectadores-causa-futbol-impone-prime-time.html",
-        "date": "2024-10-16 06:30:32",
-        "sentiment_score": 0.48691726103425026
-    },
-    {
-        "title": "Así es la nueva avenida de la Pineda de Castelldefels: sin carriles bici y doble sentido de circulación",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/16/gran-barcelona/893920607_13590123_1706x960.jpg?contentId=ESPIMA20241016_0008",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20241016/empiezan-las-obras-de-dos-nuevos-carriles-bici-en-la-avenida-pineda-castelldefels/893910607_0.html",
-        "date": "2024-10-16 06:26:54",
-        "sentiment_score": 0.33016955852508545
-    },
-    {
-        "title": "Estos restaurantes de Barcelona se han incorporado a la guía Michelin... aunque no tienen estrella",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e9e81f7-b7e6-4e7d-a05a-90f63aea2e57_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241016/restaurantes-barcelona-guia-michelin-recomendados-109333988",
-        "date": "2024-10-16 06:16:26",
-        "sentiment_score": 0.04432526230812073
-    },
-    {
-        "title": "La neurocientífica Ana Ibáñez tiene las claves para reducir el estrés: \"La gente va como pollo sin cabeza\"",
-        "image_url": "https://s1.elespanol.com/2024/10/14/mujer/protagonistas/893421420_250005206_1706x960.jpg?contentId=ESPIMA20241014_0771",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/protagonistas/20241016/neurocientifica-ana-ibanez-claves-reducir-estres-gente-va-pollo-sin-cabeza/893411174_0.html",
-        "date": "2024-10-16 06:13:43",
-        "sentiment_score": -0.3125924617052078
-    },
-    {
-        "title": "Fechas de la campaña de la Guàrdia Urbana contra el ruido de motos y ciclomotores en estos distritos de Barcelona",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/16/670f57c85c09d.r_d.684-676-3326.jpeg",
-        "tags": [
-            "solo moto"
-        ],
-        "link": "https://www.mundodeportivo.com/solomoto/20241016/1002334243/campana-sensibilizacion-ruido-motos-ciclomotores-distritos-barcelona-smd.html",
-        "date": "2024-10-16 06:07:25",
-        "sentiment_score": 0.4006520286202431
-    },
-    {
-        "title": "MÉTEO | Més pluja i temps insegur a Catalunya abans del cap de setmana",
-        "image_url": "https://elmon.cat/app/uploads/sites/15/2022/04/europapress_4364618_members_of_the_public_take_shelter_from_the_rain_under_umbrellas_in.jpg",
-        "tags": [
-            "món"
-        ],
-        "link": "https://elmon.cat/mon/previsio-temps-avui-16-octubre-catalunya-pluja-914263/",
-        "date": "2024-10-16 06:06:21",
-        "sentiment_score": -0.7521114200353622
-    },
-    {
-        "title": "La nueva residencia universitaria de la UB en Bellvitge estará lista en julio de 2025",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/16/gran-barcelona/893920606_13590093_1706x960.jpg?contentId=ESPIMA20241016_0007",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20241016/la-nueva-residencia-universitaria-de-la-ub-en-bellvitge-estara-lista-julio/893910605_0.html",
-        "date": "2024-10-16 06:06:19",
-        "sentiment_score": 0.22597558051347733
-    },
-    {
-        "title": "Santa Coloma de Gramenet suaviza la presión fiscal y aumenta el IBI un 2%",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/16/670f56cc14f2b.r_d.476-659-0.jpeg",
-        "tags": [
-            "badalona barcelonès n."
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelones-nord/20241016/10025582/santa-coloma-gramenet-suaviza-presion-fiscal-aumenta-ibi-2.html",
-        "date": "2024-10-16 06:04:10",
-        "sentiment_score": 0.3725087083876133
-    },
-    {
-        "title": "Giro total en la previsión de lluvias en Barcelona: el Meteocat rectifica y deja claro cuál será el peor día",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/04/11/6617c30a01c09.r_d.2762-2537.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20241016/1002334242/giro-total-prevision-lluvias-barcelona-meteocat-rectifica-deja-claro-cual-sera-peor-dia-dct.html",
-        "date": "2024-10-16 06:02:01",
-        "sentiment_score": -0.259654238820076
-    },
-    {
-        "title": "¿Qué fue de Ainhoa Cantalapiedra, la vasca que se hizo con la victoria en OT 2?",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b908cbf1-83fa-4005-9082-2bf75b36dfdd_16-9-aspect-ratio_default_0_x620y701.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.noticiasdenavarra.com/gente/2024/10/16/ainhoa-cantalapiedra-cantante-vasca-victoria-ot-2-8812215.html",
-        "date": "2024-10-16 06:01:01",
-        "sentiment_score": 0.2914591580629349
-    },
-    {
         "title": "\"Quiero estar aquí el resto de mi vida\": por qué este hombre cambió San Francisco por Colombia",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767498-medellin.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6049,5 +5798,441 @@ export default [
         "link": "https://elcierredigital.com/ocio/pueblo-penelles-barcelona",
         "date": "2024-10-19 16:36:00",
         "sentiment_score": 0.12125155329704285
+    },
+    {
+        "title": "Las tres noticias destacadas de la tarde en del 19 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177848610.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-19-de-octubre-2024-mirador-tarde-tv-fast",
+        "date": "2024-10-19 22:09:47",
+        "sentiment_score": 0.15155411884188652
+    },
+    {
+        "title": "Se devela el primer fragmento del mapa cósmico 3D de la Agencia Espacial Europea",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/euclid-map.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/euclid-mapa-cosmico-3d-universo-atlas-cosmico-orix/",
+        "date": "2024-10-19 21:05:28",
+        "sentiment_score": 0.03925628960132599
+    },
+    {
+        "title": "Se devela el primer fragmento del mapa cósmico 3D de la Agencia Espacial Europea",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/euclid-map.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/euclid-mapa-cosmico-3d-universo-atlas-cosmico-orix",
+        "date": "2024-10-19 21:05:28",
+        "sentiment_score": 0.014012441039085388
+    },
+    {
+        "title": "Inteligencia Artificial humanoide se defiende de las críticas que dicen que no puede ser artística",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21053145-61146-107-still-20241019192818573.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/robot-artista-subasta-arte-ia-ai-trax/",
+        "date": "2024-10-19 19:51:39",
+        "sentiment_score": -0.8373434562236071
+    },
+    {
+        "title": "Inteligencia Artificial humanoide se defiende de las críticas que dicen que no puede ser artística",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21053145-61146-107-still-20241019192818573.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/robot-artista-subasta-arte-ia-ai-trax",
+        "date": "2024-10-19 19:51:39",
+        "sentiment_score": -0.8184529338032007
+    },
+    {
+        "title": "Conoce la historia del pequeño “Da Vinci” de Tucumán",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/41176274-21655992-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina",
+            "fast – reserve",
+            "los inusuales",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/leonardo-da-vinci-de-tucuman-los-inusuales-fast/",
+        "date": "2024-10-19 19:40:42",
+        "sentiment_score": 0.6384004577994347
+    },
+    {
+        "title": "Reportero de CNN relata desde Cuba el segundo apagón consecutivo \"sin precedentes\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cuba-apagones-isla-electricidad-trax/",
+        "date": "2024-10-19 18:26:34",
+        "sentiment_score": -0.7156886123120785
+    },
+    {
+        "title": "¿Cómo se encuentra la economía en los principales mercados mundiales?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "economía mundial",
+            "mercado financiero",
+            "fast – reserve",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/situacion-economica-en-el-mercado-mundial-globoeconomia-tv-fast/",
+        "date": "2024-10-19 18:03:17",
+        "sentiment_score": 0.0038289353251457214
+    },
+    {
+        "title": "¿Cómo se encuentra la economía en los principales mercados mundiales?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-860933744.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/situacion-economica-en-el-mercado-mundial-globoeconomia-tv-fast",
+        "date": "2024-10-19 18:03:17",
+        "sentiment_score": -0.10480522364377975
+    },
+    {
+        "title": "Ordenan arresto domiciliario en segundo caso contra el periodista José Rubén Zamora en Guatemala",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/06/230614201749-conclu-ruben-zamora-condena-full-169.jpg?quality=100&strip=info",
+        "tags": [
+            "guatemala"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/19/ordenan-arresto-domiciliario-periodista-jose-ruben-zamora-guatemala-orix/",
+        "date": "2024-10-19 17:47:33",
+        "sentiment_score": -0.725532453507185
+    },
+    {
+        "title": "Una turba irrumpe en la sede de televisión de la cadena saudí MBC en Irak por calificar de «terrorista» a Nasralá",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/mbc-irak-kUeF-U603227415639bOD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/turba-irrumpe-sede-television-cadena-saudi-mbc-20241019213836-nt.html",
+        "date": "2024-10-19 19:39:25",
+        "sentiment_score": -0.32647041976451874
+    },
+    {
+        "title": "Presos por presupuestos, con la garantía del BOE",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/10/17/reina-premio-planeta-keGB--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-presos-presupuestos-garantia-boe-20241020203653-nt.html",
+        "date": "2024-10-19 18:36:57",
+        "sentiment_score": -0.6676886603236198
+    },
+    {
+        "title": "Boeing alcanza un principio de acuerdo con los trabajadores para poner fin a cinco semanas de huelga",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/19/boeing-kGxC-U603227025093AqD-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/boeing-alcanza-principio-acuerdo-trabajadores-poner-fin-20241019202119-nt.html",
+        "date": "2024-10-19 18:21:19",
+        "sentiment_score": -0.0764690488576889
+    },
+    {
+        "title": "Scholz da el visto bueno a la exportación de Eurofighter a Turquía",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/scholz-erdogan-RaDaxy270rSI60eF0iDPcJN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/scholz-visto-bueno-exportacion-eurofighter-turquia-20241019201634-nt.html",
+        "date": "2024-10-19 18:17:17",
+        "sentiment_score": -0.1625581830739975
+    },
+    {
+        "title": "San Telmo, tenemos un problema...",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/20/juanma-moreno-presidente-RFcuaXyhZLGGb893a693vgN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-san-telmo-problema-20241020200938-nts.html",
+        "date": "2024-10-19 18:13:30",
+        "sentiment_score": -0.1861218959093094
+    },
+    {
+        "title": "Patria y Vida",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/10/17/bajamedica_1-U16226834378zDE-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-patria-vida-20241020184017-nts.html",
+        "date": "2024-10-19 18:12:20",
+        "sentiment_score": -0.0405639111995697
+    },
+    {
+        "title": "La gilipollez más grande",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/10/17/reina-premio-planeta-keGB--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-gilipollez-grande-20241020183828-nts.html",
+        "date": "2024-10-19 18:11:40",
+        "sentiment_score": -0.07380837202072144
+    },
+    {
+        "title": "Utopía cultural",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/17/renfe-cadiz-U57474647746UPo-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-utopia-cultural-20241020113555-nts.html",
+        "date": "2024-10-19 18:11:03",
+        "sentiment_score": -0.09545698761940002
+    },
+    {
+        "title": "Los Machado: retrato de familia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/10/20/hermanos-machado-tribuna-RHZApkFfPoDRoWjskNV7rOO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-machado-retrato-familia-20241020235451-nts.html",
+        "date": "2024-10-19 18:09:32",
+        "sentiment_score": 0.052984654903411865
+    },
+    {
+        "title": "Bares",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/02/loteria-premio-euromillones-k2ZF--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-bares-20241020182439-nts.html",
+        "date": "2024-10-19 18:08:59",
+        "sentiment_score": -0.0923193097114563
+    },
+    {
+        "title": "Treintañeros en Valencia: “Esta ciudad era muy barata hace 10 años, ahora no puedo vivir sola”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JZHXWK62QFHOLGUXRMKC34BMDA.JPG?auth=7ecdb782f52d696f54f1e43881fbe798bde562604265c3249ab4b64f51edf6f7&width=1200",
+        "tags": [
+            "vivienda",
+            "hoteles",
+            "turismofobia",
+            "manifestaciones",
+            "pisos estudiantes",
+            "comunidad valenciana",
+            "viviendas alquiler",
+            "turismo masivo",
+            "valencia",
+            "airbnb"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-19/treintaneros-en-valencia-esta-ciudad-era-muy-barata-hace-10-anos-ahora-no-puedo-vivir-sola.html",
+        "date": "2024-10-19 21:35:51",
+        "sentiment_score": -0.7233839333057404
+    },
+    {
+        "title": "Miles de personas claman contra el coste de la vivienda y el crecimiento desmesurado de Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6O7EHIM4SFFZO6S6NWEE3JAOUE.jpg?auth=b8d0ca4db4f222730753a74467f1352fb2b28ed90aa8e0aae8195eeb8f5ad0cd&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "turistificación",
+            "vecinos",
+            "vivienda",
+            "ayuntamiento valencia",
+            "protestas sociales",
+            "viviendas vacacionales",
+            "viviendas alquiler",
+            "manifestaciones",
+            "pisos turísticos",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-19/miles-de-personas-claman-contra-el-crecimiento-desmesurado-de-valencia.html",
+        "date": "2024-10-19 19:54:10",
+        "sentiment_score": -0.3024946302175522
+    },
+    {
+        "title": "Caos ferroviario en Madrid por dos incidencias simultáneas en Chamartín y Atocha que provocan problemas de circulación",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VXJQZQEAUA6LIX2REWWTJ62FLI.jpg?auth=ce8c77f8951e7c09bee43ef6bd87305023677c8e6d794eb7819b1e4e04dea704&width=1200",
+        "tags": [
+            "trenes",
+            "madrid",
+            "comunidad de madrid",
+            "cercanías madrid",
+            "ave",
+            "incidencias transporte",
+            "cercanías",
+            "renfe"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-19/caos-ferroviario-en-madrid-la-presencia-de-una-persona-no-autorizada-en-las-vias-y-un-descarrilamiento-suspenden-el-servicio.html",
+        "date": "2024-10-19 19:49:00",
+        "sentiment_score": -0.7585704103112221
+    },
+    {
+        "title": "El 'huracán Ábalos' preocupa (y mucho) al PSOE pero la ofensiva del PP cohesiona al partido",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/54054590440-e935d907f8-k-1440x808.jpg",
+        "tags": [
+            "josé luis ábalos",
+            "justicia",
+            "álvaro garcía ortiz",
+            "pedro sánchez",
+            "partido popular (pp)",
+            "caso koldo",
+            "koldo garcía",
+            "fiscalía",
+            "begoña gómez",
+            "partido socialista obrero español (psoe)",
+            "isabel díaz ayuso",
+            "corrupción",
+            "alberto núñez feijóo",
+            "gobierno de españa",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/20/el-huracan-abalos-preocupa-y-mucho-al-psoe-pero-la-ofensiva-del-pp-cohesiona-al-partido/",
+        "date": "2024-10-19 22:05:17",
+        "sentiment_score": -0.01797989010810852
+    },
+    {
+        "title": "Chavistas en España",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/chavistas-espana.jpg",
+        "tags": [
+            "internacional",
+            "venezuela",
+            "américa latina",
+            "nicolás maduro",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/internacional/2024/10/20/chavistas-en-espana/",
+        "date": "2024-10-19 22:05:10",
+        "sentiment_score": 0.18075384199619293
+    },
+    {
+        "title": "Mbappé y Vinícius dieron la victoria al Real Madrid sobre el Celta",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-19-at-5.43.54-PM-696x464.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/191640/mbappe-y-vinicius-dieron-la-victoria-al-real-madrid-sobre-el-celta/",
+        "date": "2024-10-19 22:01:41",
+        "sentiment_score": 0.10607782006263733
+    },
+    {
+        "title": "Doble rasero de Jordi Clos, líder del gremio hotelero de Barcelona",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/11/11/pensamiento/808929166_11874163_1706x960.jpg?contentId=ESPIMA20231111_0067",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20241020/doble-rasero-de-jordi-clos-hotelero-barcelona/894790516_13.html",
+        "date": "2024-10-19 22:00:00",
+        "sentiment_score": 0.07338754087686539
+    },
+    {
+        "title": "Cerco a la santería en Madrid, con más de 20 locales denunciados: \"Cuanto más sufre el animal, más probable es, según ellos, que se cumplan los deseos\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/3f8c854e93761d5955cd056e9dc026f5/crop/0x144/673x593/f/webp/assets/multimedia/imagenes/2024/10/19/17293550743958.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/10/19/6713d4bafdddffe1958b45a3.html",
+        "date": "2024-10-19 21:55:52",
+        "sentiment_score": -0.3796057142317295
+    },
+    {
+        "title": "Resumen, goles y highlights del Celta 1 - 2 Real Madrid de la jornada 10 de LaLiga EA Sports",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3df44f7-0c42-4809-86bc-18f28ea63df4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/videos/deportes/2024/10/19/resumen-goles-highlights-celta-1-109812250.html",
+        "date": "2024-10-19 21:41:22",
+        "sentiment_score": 0.05023796856403351
+    },
+    {
+        "title": "Quiénes son los nuevos pretorianos de Puigdemont en la futura dirección de Junts",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/congreso-junts.jpg",
+        "tags": [
+            "jxcat",
+            "cataluña",
+            "carles puigdemont",
+            "jordi turull",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/cataluna/2024/10/20/quienes-son-los-nuevos-pretorianos-de-puigdemont-en-la-futura-direccion-de-junts/",
+        "date": "2024-10-19 22:05:45",
+        "sentiment_score": 0.37289179489016533
+    },
+    {
+        "title": "La seguridad privada del Oktoberfest de Barcelona apaliza a dos jóvenes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "barcelona",
+            "porteros",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/seguridad-privada-oktoberfest-barcelona-apaliza-dos-jovenes",
+        "date": "2024-10-19 22:05:03",
+        "sentiment_score": -0.8265526248142123
+    },
+    {
+        "title": "Monumento al puerto de 1870",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/18/67120a5aa2179.r_d.1087-663-0.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20241020/10031689/barcelona-secreta-monumento-puerto.html",
+        "date": "2024-10-19 22:05:00",
+        "sentiment_score": 0.04793371260166168
+    },
+    {
+        "title": "La familia de Etnia Barcelona crece",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/18/67129c8c5984e.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241020/10033774/familia-etnia-barcelona-crece.html",
+        "date": "2024-10-19 22:05:00",
+        "sentiment_score": 0.786142636090517
+    },
+    {
+        "title": "Los semáforos del domingo 20 de octubre: John Barton, Maite Esteve, Peter Burling e Ilan Shor",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241020/10021456/semaforos-domingo-20-octubre-john-barton-maite-esteve-peter-burling-e-ilan-shor.html",
+        "date": "2024-10-19 22:05:00",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "Por qué fracasan las tecnologías",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/18/671276dfb8d56.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241020/10033380/fracasan-tecnologias.html",
+        "date": "2024-10-19 22:05:00",
+        "sentiment_score": -0.92547014541924
+    },
+    {
+        "title": "El ex piloto de combate y comandante que dirige la aerolínea Level",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/18/6712aa8a26675.r_d.2866-1753-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241020/10033834/ex-piloto-combate-comandante-dirige-aerolinea-level.html",
+        "date": "2024-10-19 22:05:00",
+        "sentiment_score": 0.4495677053928375
+    },
+    {
+        "title": "La inversión en startups se estanca pese al auge de la IA",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/18/67129cdde6cb6.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241020/10033775/inversion-startups-estanca-pese-auge-ia.html",
+        "date": "2024-10-19 22:05:00",
+        "sentiment_score": -0.6643295250833035
+    },
+    {
+        "title": "Casa Gomis, una joya arquitectónica en peligro de extinción",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/17/creacion/894170610_13595159_1706x960.jpg?contentId=ESPIMA20241017_0036",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20241020/casa-gomis-una-joya-arquitectonica-peligro-extincion/894160624_0.html",
+        "date": "2024-10-19 22:00:00",
+        "sentiment_score": 0.39895808696746826
     }
 ];
