@@ -179,36 +179,6 @@ export default [
         "sentiment_score": -0.11033494770526886
     },
     {
-        "title": "El Congreso reprueba a Oscar Puente por su gestión ferroviaria",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/16/1487415674-R7VyYWrk8ohBYpTTLWt8RXI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/congreso-reprueba-oscar-puente-gestion-ferroviaria-20241016155805-nt.html",
-        "date": "2024-10-16 14:01:33",
-        "sentiment_score": -0.006617456674575806
-    },
-    {
-        "title": "Israel bombardea Líbano desde el mar por primera vez",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/16/libano-kaHH-U603207854364oTB-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-bombardea-libano-mar-primera-vez-20241016144830-nt.html",
-        "date": "2024-10-16 12:48:30",
-        "sentiment_score": -0.11740654706954956
-    },
-    {
-        "title": "García Ortiz, ni un minuto más",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/14/alma-U58052242260Ltj-170x119@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/vayase-senor-garcia-ortiz-20241017121337-nt.html",
-        "date": "2024-10-16 12:24:05",
-        "sentiment_score": -0.11588862538337708
-    },
-    {
         "title": "Andalucía es la comunidad autónoma donde más días hay que aguardar para ser operado",
         "image_url": "https://imagenes.elpais.com/resizer/v2/BK73KFIR7NBTVBLRTY2O6JX6WE.png?auth=0a290fbd8a503b8ee5b5e9e94f24272b15f78b817d22a777da85364b3b04040d&width=1200",
         "tags": [
@@ -6234,5 +6204,363 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/creacion/20241020/casa-gomis-una-joya-arquitectonica-peligro-extincion/894160624_0.html",
         "date": "2024-10-19 22:00:00",
         "sentiment_score": 0.39895808696746826
+    },
+    {
+        "title": "Acusan a un hombre de California de drogar y agredir sexualmente a 9 mujeres, dicen las autoridades",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769139-michael-digiorgio.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "california",
+            "noticias de ee.uu.",
+            "crimen"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/19/hombre-california-acusado-drogar-agredir-sexualmente-9-mujeres-trax/",
+        "date": "2024-10-20 01:00:21",
+        "sentiment_score": -0.682691790163517
+    },
+    {
+        "title": "Se conmemora el día mundial contra el cáncer de mama",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dia-mundial-cancer-mama-mirador-mundial-tv",
+        "date": "2024-10-20 00:59:58",
+        "sentiment_score": -0.05261927843093872
+    },
+    {
+        "title": "Se conmemora el día mundial contra el cáncer de mama",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1243379130.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cáncer de mama",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dia-mundial-cancer-mama-mirador-mundial-tv/",
+        "date": "2024-10-20 00:59:58",
+        "sentiment_score": 0.2297508642077446
+    },
+    {
+        "title": "Alebrijes, fiesta y colores son los protagonistas de este desfile",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-h-alebrijes.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "desfile",
+            "tradición",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desfile-alebrijes-mexico-tradicion-orix/",
+        "date": "2024-10-20 00:59:56",
+        "sentiment_score": 0.5708519667387009
+    },
+    {
+        "title": "¿Habrá sorpresas entre Trump y Harris para las elecciones de EE.UU.?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179625151.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "kamala harris",
+            "noticias de donald trump",
+            "noticias de ee.uu.",
+            "elecciones en ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-trump-harris-mirador-mundial-tv/",
+        "date": "2024-10-20 00:58:04",
+        "sentiment_score": -0.4865037761628628
+    },
+    {
+        "title": "¿Habrá sorpresas entre Trump y Harris para las elecciones de EE.UU.?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-trump-harris-mirador-mundial-tv",
+        "date": "2024-10-20 00:58:04",
+        "sentiment_score": -0.0687987394630909
+    },
+    {
+        "title": "Docentes y trabajadores sanitarios marchan en El Salvador por un mejor pago",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marchas-docentes-sanitarios-el-salvador-mirador-mundial-tv",
+        "date": "2024-10-20 00:52:58",
+        "sentiment_score": 0.2995446026325226
+    },
+    {
+        "title": "Docentes y trabajadores sanitarios marchan en El Salvador por un mejor pago",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178620614.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "el salvador",
+            "centroamérica",
+            "nayib bukele"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marchas-docentes-sanitarios-el-salvador-mirador-mundial-tv/",
+        "date": "2024-10-20 00:52:58",
+        "sentiment_score": 0.16488201916217804
+    },
+    {
+        "title": "El recorrido mediático de Harris y los mítines de Trump captan la atención de los estadounidenses",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769133-59531632-92540774-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "elecciones ee.uu. 2024",
+            "kamala harris",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/19/recorrido-mediatico-harris-mitines-trump-atencion-estadounidenses-trax/",
+        "date": "2024-10-20 00:30:19",
+        "sentiment_score": -0.08265973627567291
+    },
+    {
+        "title": "Así se vivió el desfile de perros de Halloween en Nueva York",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/desfile-perros-halloween-nueva-york-orix-00-01-20-17-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desfile-perros-halloween-nueva-york-orix",
+        "date": "2024-10-20 00:05:23",
+        "sentiment_score": -0.10440759360790253
+    },
+    {
+        "title": "El rearme del poder duro en Europa, por David Rieff",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/20/bucha-reuters-knSE-U603226838304Uc-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/rearme-poder-duro-europa-david-rieff-20241020040432-nt.html",
+        "date": "2024-10-20 02:04:33",
+        "sentiment_score": -0.1680576503276825
+    },
+    {
+        "title": "Enrico Letta : «El nacionalismo en Europa hace feliz a Wall Street y a China»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/20/1487441452-U603224559674DME-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/nacionalismo-europa-feliz-chinos-wall-street-20241020203356-nt.html",
+        "date": "2024-10-20 02:04:18",
+        "sentiment_score": -0.10046541690826416
+    },
+    {
+        "title": "Letta y el futuro de Europa",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/10/17/bajamedica_1-U16226834378zDE-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-letta-futuro-europa-20241020040150-nt.html",
+        "date": "2024-10-20 02:02:07",
+        "sentiment_score": -0.1107996255159378
+    },
+    {
+        "title": "Un bombardeo israelí deja al menos 73 muertos en el norte de la Franja de Gaza",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/20/gaza-kjlE-U603227770138hZC-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/bombardeo-israeli-deja-muertos-norte-franja-gaza-20241020024647-nt.html",
+        "date": "2024-10-20 00:46:48",
+        "sentiment_score": -0.21966707706451416
+    },
+    {
+        "title": "Así están las demoras sanitarias en Asturias: mejor que la media en cirugías, igual en consultas (y una polémica madrileña)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c50a0edb-9189-4882-8714-8419761301f9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2024/10/20/demoras-sanitarias-asturias-mejor-media-109798921.html",
+        "date": "2024-10-20 02:12:37",
+        "sentiment_score": -0.032138630747795105
+    },
+    {
+        "title": "El Madrid vence en Balaídos y mete más presión al Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c74d2f7d-5b90-4ea6-97fd-dac03a92b752_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/10/20/madrid-vence-balaidos-mete-presion-109812368.html",
+        "date": "2024-10-20 02:01:15",
+        "sentiment_score": 0.19374635815620422
+    },
+    {
+        "title": "Hugo Duro lanza un SOS a la segunda línea en busca del gol",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/39436683-6e57-4898-83c8-b044941d64b1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/20/hugo-duro-lanza-sos-segunda-109807016.html",
+        "date": "2024-10-20 02:01:11",
+        "sentiment_score": -0.08037763833999634
+    },
+    {
+        "title": "Pacten y arreglen o el estallido puede llegar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3ad3cac0-922c-4644-a19d-1d2d1d828919_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2024/10/20/pacten-arreglen-o-estallido-llegar-109802882.html",
+        "date": "2024-10-20 02:01:09",
+        "sentiment_score": -0.20736785233020782
+    },
+    {
+        "title": "El 'enigma Aldama': por qué Sánchez no contestó a la pregunta de Feijóo sobre el nexo de todos los escándalos",
+        "image_url": "https://s1.elespanol.com/2024/10/18/espana/politica/894421630_250134872_854x640.png?contentId=ESPIMA20241018_1081",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241020/enigma-aldama-sanchez-no-contesto-pregunta-feijoo-nexo-escandalos/894160706_0.html",
+        "date": "2024-10-20 01:14:48",
+        "sentiment_score": -0.7329826764762402
+    },
+    {
+        "title": "El vuelco de una locomotora y un intento de suicidio bloquean las líneas férreas de Madrid durante varias horas",
+        "image_url": "https://s1.elespanol.com/2024/10/19/sociedad/894670848_250147242_1706x960.jpg?contentId=ESPIMA20241019_0324",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20241020/vuelco-locomotora-intento-suicidio-bloquean-lineas-ferreas-madrid-varias-horas/894660686_0.html",
+        "date": "2024-10-20 00:51:47",
+        "sentiment_score": -0.9149374831467867
+    },
+    {
+        "title": "Dávila, consejera de Madrid: \"Es hipócrita y triste que el socialismo rechace los centros de menores\"",
+        "image_url": "https://s1.elespanol.com/2024/10/18/madrid/comunidad/894420734_250107251_1706x960.jpg?contentId=ESPIMA20241018_0185",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241020/davila-consejera-madrid-hipocrita-triste-socialismo-rechace-centros-menores/893911028_0.html",
+        "date": "2024-10-20 00:51:24",
+        "sentiment_score": -0.8815920492634177
+    },
+    {
+        "title": "Murió Philip Zimbardo, el psicólogo detrás del controvertido \"experimento de la cárcel de Stanford\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "al dia",
+            "experimento de la cárcel de stanford",
+            "internacionales",
+            "psicólogo",
+            "philip zimbardo",
+            "murió"
+        ],
+        "link": "https://noticialdia.com/al-dia/murio-philip-zimbardo-el-psicologo-detras-del-controvertido-experimento-de-la-carcel-de-stanford/",
+        "date": "2024-10-20 00:01:30",
+        "sentiment_score": -0.45346226170659065
+    },
+    {
+        "title": "Mbappé y Vinicius anotan para darle el triunfo a Real Madrid",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/10/mbappe-real-Madrid-gol--730x524.webp",
+        "tags": [
+            "celta de vigo",
+            "jon aramburu",
+            "mbappé",
+            "real sociedad",
+            "la liga",
+            "deportes",
+            "real madrid",
+            "yangel herrera",
+            "girona",
+            "fútbol"
+        ],
+        "link": "https://primicia.com.ve/deportes/mbappe-y-vinicius-anotan-para-darle-el-triunfo-a-real-madrid/",
+        "date": "2024-10-19 23:58:31",
+        "sentiment_score": 0.1748955398797989
+    },
+    {
+        "title": "Ainhara Viñarás, del Grupo Shiseido: \"Para las japonesas, una piel envejecida es la que tiene manchas, no arrugas\"",
+        "image_url": "https://s1.elespanol.com/2024/10/17/mujer/protagonistas/894171262_250093623_1706x960.jpg?contentId=ESPIMA20241017_0688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241020/ainhara-vinaras-grupo-shiseido-japonesas-piel-envejecida-manchas-no-arrugas/894160673_0.html",
+        "date": "2024-10-19 23:53:47",
+        "sentiment_score": -0.14889101684093475
+    },
+    {
+        "title": "El New Zealand revalida la Copa América en Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/10/20/new-zealand-revalida-copa-america-109811045.html",
+        "date": "2024-10-20 02:01:14",
+        "sentiment_score": -0.12059646844863892
+    },
+    {
+        "title": "El ‘Ciudad de Granada’ fondeará fuera del puerto siempre que visite Maó",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3046321.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2024/10/20/2261855/ciudad-granada-fondeara-fuera-del-puerto-siempre-visite-mao.html",
+        "date": "2024-10-20 02:00:01",
+        "sentiment_score": -0.04491323232650757
+    },
+    {
+        "title": "Miquel Barceló proyecta una intervención artística en la Sagrada Família",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3046399.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/20/2261913/barcelona-miquel-barcelo-proyecta-intervencion-artistica-sagrada-familia.html",
+        "date": "2024-10-20 02:00:01",
+        "sentiment_score": -0.041497379541397095
+    },
+    {
+        "title": "El festival Quimeras recibe a Iwasaki",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/19/6714050761ae7.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/241020/1654101/festival-quimeras-recibe-iwasaki.html",
+        "date": "2024-10-20 01:30:00",
+        "sentiment_score": -0.5170577093958855
+    },
+    {
+        "title": "Javier Lambán: \"El fiscal general del Estado se haría un favor a sí mismo presentando inmediatamente su dimisión\"",
+        "image_url": "https://s1.elespanol.com/2024/10/18/espana/politica/894421107_250118812_1706x1280.jpg?contentId=ESPIMA20241018_0558",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241020/javier-lamban-fiscal-general-haria-favor-mismo-presentando-inmediatamente-dimision/894410678_0.html",
+        "date": "2024-10-20 01:16:02",
+        "sentiment_score": -0.766861118376255
+    },
+    {
+        "title": "La Feria de San Lucas de Jaén cerrará con este espectáculo",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/10/19/C829B1EA-5BF0-4D0D-B1A4-CBA452CEBFBE/espectaculo-drones_96.jpg?crop=1600%2C900%2Cx0%2Cy94&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/feria-san-lucas-jaen-cerrara-este-espectaculo_2024102067145885596dfb0001ca65f1.html",
+        "date": "2024-10-20 01:10:29",
+        "sentiment_score": 0.19002305157482624
+    },
+    {
+        "title": "El posicionamiento valenciano en 'data centers' o cómo luchar contra el estigma del urbanismo feroz",
+        "image_url": "https://s1.elespanol.com/2024/10/18/invertia/disruptores/autonomias/comunidad-valenciana/894420647_250104527_1706x960.jpg?contentId=ESPIMA20241018_0098",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/comunidad-valenciana/20241020/posicionamiento-valenciano-data-centers-luchar-estigma-urbanismo-feroz/894410602_0.html",
+        "date": "2024-10-20 01:06:59",
+        "sentiment_score": -0.05885620415210724
+    },
+    {
+        "title": "Llega el ‘Netflix’ de las baterías de vehículos eléctricos: es más barato suscribirse que tenerlas en propiedad",
+        "image_url": "https://s1.elespanol.com/2024/10/19/motor/894670647_250141137_1706x960.jpg?contentId=ESPIMA20241019_0123",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20241020/llega-netflix-baterias-vehiculos-electricos-barato-suscribirse-tenerlas-propiedad/894660554_0.html",
+        "date": "2024-10-20 01:06:46",
+        "sentiment_score": 0.2695566061884165
+    },
+    {
+        "title": "Jordi Mollà: \"Si la vida te golpea, hay que atravesarla. Ya depende de cada uno cómo lo haga. Algunos no lo afrontan y se enganchan a la droga\"",
+        "image_url": "https://s1.elespanol.com/2024/10/18/reportajes/894421517_250131382_1706x960.jpg?contentId=ESPIMA20241018_0968",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241020/jordi-molla-vida-golpea-atravesarla-depende-haga-no-afrontan-enganchan-droga/894411006_0.html",
+        "date": "2024-10-20 00:31:54",
+        "sentiment_score": -0.10461947321891785
     }
 ];
