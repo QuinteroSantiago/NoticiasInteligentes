@@ -178,36 +178,6 @@ export default [
         "sentiment_score": -0.13762928545475006
     },
     {
-        "title": "Descubren el tiempo exacto que necesitas caminar para ponerte en forma ( y no son 10.000 pasos)",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/10/17/caminar-tiempo-Rqn9zMT8M1u5gE3VDnFcLkM-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/descubren-tiempo-exacto-necesitas-caminar-ponerte-forma-20241017160450-nt.html",
-        "date": "2024-10-17 14:09:56",
-        "sentiment_score": -0.02094396948814392
-    },
-    {
-        "title": "Al menos 14 muertos en un ataque israelí en Jabalia",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/1487464307-kLuB-U6032178876063K-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/muertos-ataque-israeli-jabalia-20241017145346-nt.html",
-        "date": "2024-10-17 12:53:47",
-        "sentiment_score": -0.797912335023284
-    },
-    {
-        "title": "El BCE vuelve a bajar los tipos: así afecta a hipotecas, créditos y depósitos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/17/hipotecas-bankinter-RjS6zfwD9jaCVcq9bMKYqLM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bce-vuelve-bajar-tipos-afecta-hipotecas-creditos-20241017103129-nt.html",
-        "date": "2024-10-17 12:21:00",
-        "sentiment_score": -0.10245968401432037
-    },
-    {
         "title": "El PSOE andaluz se abstiene en una iniciativa que pide declarar persona ‘non grata’ al rey emérito Juan Carlos",
         "image_url": "https://imagenes.elpais.com/resizer/v2/T5AONQHCL5HIPIJJ5WLDPXG6TE.jpg?auth=b08eacf3e704e54bbb16cf34fc29a27df0cceb8a0bc7bff968b87f58cb04285d&width=1200",
         "tags": [
@@ -303,94 +273,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-17/anticorrupcion-pide-investigar-a-abalos-porque-resulta-dificil-entender-la-operativa-de-la-trama-sin-su-participacion.html",
         "date": "2024-10-17 14:29:13",
         "sentiment_score": -0.20701421052217484
-    },
-    {
-        "title": "Las universidades catalanas contratarán casi 1.200 profesores en cuatro años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LDYBAWLY2ZAWBHMSJX3RS53SCE.jpg?auth=2d95c17a2388d8479b1667bd9a3e8e02aed666e4d87cfa7e3323e5dd18797872&width=1200",
-        "tags": [
-            "universidad",
-            "ministerio de ciencia, innovación y universidades",
-            "generalitat cataluña",
-            "diana morant ripoll",
-            "cataluña",
-            "profesorado",
-            "rectores",
-            "losu",
-            "educación",
-            "universidades públicas",
-            "profesores universitarios"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-17/las-universidades-catalanas-contrataran-casi-1200-profesores-en-cuatro-anos.html",
-        "date": "2024-10-17 14:09:34",
-        "sentiment_score": 0.5054677277803421
-    },
-    {
-        "title": "La Marea Blanca ejecuta sus ocho demandas: “La Junta de Andalucía es la única responsable de unas listas de espera inadmisibles”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JFLTPZTMAFCB7ARIPTI5OCWFLQ.png?auth=ead9d4fcdbfe8b2b7a93ef2871f2a886fb4d323948675de641180109a0cefde9&width=1200",
-        "tags": [
-            "listas espera",
-            "andalucía",
-            "sanidad privada",
-            "junta de andalucía",
-            "sociedad",
-            "juan manuel moreno",
-            "sanidad pública"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2024-10-17/la-marea-blanca-ejecuta-sus-ocho-demandas-la-junta-de-andalucia-es-la-unica-responsable-de-unas-listas-de-espera-inadmisibles.html",
-        "date": "2024-10-17 13:39:36",
-        "sentiment_score": -0.7737507838755846
-    },
-    {
-        "title": "La policía reconstruye los últimos minutos de la joven Agostina Rubini desaparecida en Palma",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RQQALO7LS2EBTTJT7AUWHTWHXI.jpg?auth=da8b59bd0875281e60e8b2006a875b98478312701af1842bcc279a79ae0fb638&width=1200",
-        "tags": [
-            "camiones",
-            "palma",
-            "policía",
-            "mallorca",
-            "basura",
-            "sucesos",
-            "personas desaparecidas",
-            "argentina",
-            "españa",
-            "baleares"
-        ],
-        "link": "https://elpais.com/espana/2024-10-17/la-policia-reconstruye-los-ultimos-minutos-de-la-joven-agostina-rubini-desaparecida-en-palma.html",
-        "date": "2024-10-17 13:32:59",
-        "sentiment_score": -0.8075796253979206
-    },
-    {
-        "title": "La autopsia determina que la muerte de la mujer hallada en un piso de la plaza de los Cubos fue natural",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PLNFJREJN5FU7D53GRD6W2YJKU.jpg?auth=6647d65bb45fdfe390465e4ca3e5b4e75f3a241be33117712fa83c447e60813b&width=1200",
-        "tags": [
-            "madrid",
-            "prostitución",
-            "policía",
-            "sucesos",
-            "comunidad de madrid",
-            "investigación policial"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-17/la-autopsia-determina-que-la-muerte-de-la-mujer-hallada-en-un-piso-de-la-plaza-de-los-cubos-fue-natural.html",
-        "date": "2024-10-17 13:28:14",
-        "sentiment_score": -0.2578464150428772
-    },
-    {
-        "title": "El PP, sobre la querella contra el PSOE: “Nuestro objetivo es echar a Sánchez con todos los medios a nuestro alcance”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AWWIMGXOCFFALPEGTN7LYIFXUM.jpg?auth=04869ca9f61db541894d99478a4d5925c4bc81fa4ac346c47846641e896ee698&width=1200",
-        "tags": [
-            "financiación ilegal",
-            "psoe",
-            "alberto núñez feijóo",
-            "pp",
-            "caso koldo",
-            "querellas",
-            "gobierno",
-            "pedro sánchez",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-10-17/el-pp-sobre-la-querella-contra-el-psoe-nuestro-objetivo-es-echar-a-sanchez-con-todos-los-medios-a-nuestro-alcance.html",
-        "date": "2024-10-17 13:14:51",
-        "sentiment_score": -0.5192090012133121
     },
     {
         "title": "Un jugador del Real Madrid tiene prohibido por contrato decir determinadas palabras: son estas",
@@ -6025,5 +5907,370 @@ export default [
         "link": "https://www.eldia.es/videos/deportes/2024/10/21/2-0-fc-barcelona-fc-109927040.html",
         "date": "2024-10-20 22:15:00",
         "sentiment_score": 0.014079727232456207
+    },
+    {
+        "title": "El altar a Liam Payne en Buenos Aires sigue creciendo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178421061.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cono sur",
+            "música",
+            "argentina",
+            "liam payne"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/liam-payne-buenos-aires-altar-mirador-mundial-tv/",
+        "date": "2024-10-21 01:14:24",
+        "sentiment_score": -0.2318488508462906
+    },
+    {
+        "title": "El altar a Liam Payne en Buenos Aires sigue creciendo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/liam-payne-buenos-aires-altar-mirador-mundial-tv",
+        "date": "2024-10-21 01:14:24",
+        "sentiment_score": 0.26269277930259705
+    },
+    {
+        "title": "Crece la adicción al juego entre los adolescentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-51118963.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "salud mental",
+            "adicciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ludopatia-infantil-senales-prevencion-mirador-munial-tv/",
+        "date": "2024-10-21 01:09:15",
+        "sentiment_score": -0.05278658866882324
+    },
+    {
+        "title": "Crece la adicción al juego entre los adolescentes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ludopatia-infantil-senales-prevencion-mirador-munial-tv",
+        "date": "2024-10-21 01:09:15",
+        "sentiment_score": -0.7879982925951481
+    },
+    {
+        "title": "Exclusivo CNN | Dentro de la prisión de Singapur que ejecuta personas por suministrar cannabis",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769415-videoframe-7055.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "pena de muerte",
+            "exclusivo cnn",
+            "singapur",
+            "drogas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/20/prision-singapur-ejecuta-personas-drogas-trax/",
+        "date": "2024-10-21 00:40:14",
+        "sentiment_score": -0.8406552225351334
+    },
+    {
+        "title": "Se registra sismo de magnitud 5,7 en Argentina sin que se reporten daños",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769463-us6000nzxj-ciim-geo.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "sismo",
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/20/sismo-magnitud-57-argentina-danos-orix/",
+        "date": "2024-10-20 23:34:55",
+        "sentiment_score": -0.6685960162431002
+    },
+    {
+        "title": "Trump maneja una freidora durante una parada de campaña en un McDonald's",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178845621.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "videos digitales",
+            "mcdonald's",
+            "j. d. vance",
+            "instanoticias",
+            "noticias de ee.uu.",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-campana-mcdonalds-ush-trax/",
+        "date": "2024-10-20 23:33:33",
+        "sentiment_score": -0.2557085007429123
+    },
+    {
+        "title": "¿Mártir o cobarde? Israel y Hamas ofrecen narrativas opuestas sobre la muerte de Sinwar",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769390-copia-de-foto-para-wp-2024-10-20t151356-669.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/20/martir-cobarde-israel-hamas-narrativas-opuestas-muerte-sinwar-trax/",
+        "date": "2024-10-20 23:22:23",
+        "sentiment_score": -0.8520321799442172
+    },
+    {
+        "title": "Ferrari se lleva el Gran Premio de Estados Unidos en Austin",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179851065.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ferrari-gran-premio-austin-2-deportes-tv",
+        "date": "2024-10-20 23:17:15",
+        "sentiment_score": 0.6364560648798943
+    },
+    {
+        "title": "¿Qué dice el documento de guerra filtrado sobre los planes de Israel?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178870374.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/documento-guerra-filtracion-israel-eeuu-mirador-mundial-tv",
+        "date": "2024-10-20 22:49:35",
+        "sentiment_score": -0.28427742794156075
+    },
+    {
+        "title": "Las empresas toman posiciones en el pistoletazo de salida de la carrera hacia la minería espacial",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/21/NASA-PSYCHEcopia-R1n21rayNK2BkR4b3huAX3M-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/empresas-toman-posiciones-pistoletazo-salida-carrera-mineria-20241021184302-nt.html",
+        "date": "2024-10-21 02:13:16",
+        "sentiment_score": -0.030490994453430176
+    },
+    {
+        "title": "Reactores nucleares de bolsillo para alimentar los centros de datos, la solución que estudia EE.UU.",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/10/20/last-energy-R7xhqUDOoH90IY4TNmrrSdM-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/reactores-nucleares-bolsillo-alimentar-centros-datos-solucion-20241020132817-nt.html",
+        "date": "2024-10-21 02:11:54",
+        "sentiment_score": 0.005699098110198975
+    },
+    {
+        "title": "Sargadelos, la cerámica gallega que ha conquistado hasta el MoMa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/21/1487472920-RTvCeqkySkKuR5z7XZnMh3M-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sargadelos-ceramica-gallega-conquistado-moma-20241021214548-nt.html",
+        "date": "2024-10-21 02:10:31",
+        "sentiment_score": -0.05852082371711731
+    },
+    {
+        "title": "Grave crisis institucional en Italia: Meloni y la magistratura se enfrentan a causa de la inmigración",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/20/giorgia-RcjQJtuv8RjbMCIS18CRkHL-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/grave-crisis-institucional-italia-meloni-magistratura-enfrentan-20241020183332-nt.html",
+        "date": "2024-10-21 02:08:57",
+        "sentiment_score": -0.10696601867675781
+    },
+    {
+        "title": "Ucrania acumula casi 60.000 procesos penales por deserción",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/20/soldadosucrania-RkBINp1ViuoVI3m037HG3yM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ucrania-acumula-60000-procesos-penales-desercion-20241020193130-nt.html",
+        "date": "2024-10-21 02:07:09",
+        "sentiment_score": -0.13920317590236664
+    },
+    {
+        "title": "Tezanos: por preguntar que no quede",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/17/gc-mujer-robo-k4kB--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-tezanos-preguntar-quede-20241021040104-nt.html",
+        "date": "2024-10-21 02:01:15",
+        "sentiment_score": -0.22823944687843323
+    },
+    {
+        "title": "18.000 afectados, 32 cancelaciones y sin fecha para solventar el caos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/21/1487601005-Rhs9Acwg3obHQa9mc5uMPzJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/18000-afectados-cancelaciones-fecha-solventar-caos-20241021213521-nt.html",
+        "date": "2024-10-21 02:00:37",
+        "sentiment_score": -0.2340214103460312
+    },
+    {
+        "title": "Familia y amigos festejan la calle para Maricuela: \"Ella es patrimonio de todos los gijoneses\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2034f802-6391-4609-81c7-de3c51592c0a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/gijon-oeste/2024/10/21/familia-amigos-festejan-calle-maricuela-109927097.html",
+        "date": "2024-10-21 02:10:00",
+        "sentiment_score": 0.244460329413414
+    },
+    {
+        "title": "Lunes 21 de octubre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1113805",
+        "date": "2024-10-21 02:05:44",
+        "sentiment_score": -0.0176166370511055
+    },
+    {
+        "title": "Goleada del Barça para seguir líder",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/10/21/goleada-barca-seguir-lider-109925434.html",
+        "date": "2024-10-21 02:00:54",
+        "sentiment_score": -0.0640420913696289
+    },
+    {
+        "title": "Mestalla acoge un duelo de urgencias entre los colistas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ac31d141-e9cd-4560-8e3d-a413cb60e8e1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/21/mestalla-acoge-duelo-urgencias-colistas-109924465.html",
+        "date": "2024-10-21 02:00:50",
+        "sentiment_score": -0.08233878016471863
+    },
+    {
+        "title": "Arly jover: «Hay un cambio en la industria: ahora hay más papeles importantes para mujeres»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3042641.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/21/2260347/cine-actriz-arly-jover-muy-vinculada-mallorca-estrenara-ano-viene-filme-milla-jovovich-dave-bautista.html",
+        "date": "2024-10-21 02:00:01",
+        "sentiment_score": 0.00041356682777404785
+    },
+    {
+        "title": "Buenas noticias para la barriada de Hadú",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1113816",
+        "date": "2024-10-21 02:00:00",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Del discurso de Sánchez sobre inmigración al pulso de la calle: nadie quiere un centro de acogida en su barrio",
+        "image_url": "https://s1.elespanol.com/2024/10/18/espana/894421634_250135004_1706x960.jpg?contentId=ESPIMA20241018_1085",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241021/discurso-sanchez-inmigracion-pulso-calle-nadie-quiere-centro-acogida-barrio/894410778_0.html",
+        "date": "2024-10-21 00:28:31",
+        "sentiment_score": -0.8070432990789413
+    },
+    {
+        "title": "Montjuïc ruge más que nunca: ‘efecto Flick’ y el anhelado regreso al Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/21/culemania/primer-equipo/895170477_13608168_1706x960.jpg?contentId=ESPIMA20241021_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241021/montjuic-ruge-nunca-efecto-flick-anhelado-regresoalcampnou/895160479_0.html",
+        "date": "2024-10-21 00:08:24",
+        "sentiment_score": 0.5265406221151352
+    },
+    {
+        "title": "Prueba de fuego: el estilo innegociable del Barça de Flick contra las apisonadoras de Bayern y Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/21/culemania/primer-equipo/895170479_13608228_1706x960.jpg?contentId=ESPIMA20241021_0005",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241021/prueba-de-barca-flick-bayern-real-madrid/895160478_0.html",
+        "date": "2024-10-21 00:06:33",
+        "sentiment_score": 0.6198411099612713
+    },
+    {
+        "title": "«El silencio es un lugar de libertad y lucidez donde se disuelve el ego»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3044067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2024/10/21/2260949/jesuita-xavier-melloni-silencio-lugar-libertad.html",
+        "date": "2024-10-21 02:00:01",
+        "sentiment_score": -0.07422727346420288
+    },
+    {
+        "title": "«Volare», el himno de Menorca",
+        "image_url": "https://men.gsstatic.es/autor/josep-bagur-torres/36.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/10/21/2262163/volare-himno-menorca.html",
+        "date": "2024-10-21 02:00:01",
+        "sentiment_score": -0.03798079490661621
+    },
+    {
+        "title": "Adoquines en lugar de palabras",
+        "image_url": "https://uh.gsstatic.es/autor/joan-martorell/10909.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/21/2262045/adoquines-lugar-palabras.html",
+        "date": "2024-10-21 02:00:01",
+        "sentiment_score": -0.1129114031791687
+    },
+    {
+        "title": "Con hachas y a lo loco",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3047519.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2024/10/21/2262249/negocios-mallorca-lanzamiento-hachas-palma.html",
+        "date": "2024-10-21 02:00:01",
+        "sentiment_score": -0.05992290377616882
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, lunes 21 de octubre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/208609db-6f34-4921-9830-4d6197d5faf3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/10/21/tiempo-alicante-alacant-prevision-meteorologica-109929385.html",
+        "date": "2024-10-21 01:53:27",
+        "sentiment_score": 0.609370231628418
+    },
+    {
+        "title": "Puigdemont y sus dos ‘negociadores’ con Pedro Sánchez asumirán el control de Junts",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/09/22/66f042d7f3acf.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/241021/1656159/puigdemont-dos-negociadores-pedro-sanchez-asumiran-control-junts.html",
+        "date": "2024-10-21 01:30:00",
+        "sentiment_score": -0.0012489259243011475
+    },
+    {
+        "title": "La inteligencia artificial española que aumenta en un 10% la detección del cáncer de próstata",
+        "image_url": "https://s1.elespanol.com/2024/10/18/invertia/disruptores/ecosistema-startup/startups/894421112_250119032_1706x960.png?contentId=ESPIMA20241018_0563",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20241021/inteligencia-artificial-espanola-aumenta-deteccion-cancer-prostata/894410910_0.html",
+        "date": "2024-10-21 00:23:11",
+        "sentiment_score": 0.4395221620798111
+    },
+    {
+        "title": "Diez escaleups españolas se integran en el ‘Scaling Club’ del EIC para enfilar el camino a ser unicornios",
+        "image_url": "https://s1.elespanol.com/2024/10/18/invertia/disruptores/ecosistema-startup/894420824_250110020_1706x960.jpg?contentId=ESPIMA20241018_0275",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/europa/20241021/escaleups-espanolas-integran-scaling-club-eic-enfilar-camino-unicornios/894410741_0.html",
+        "date": "2024-10-21 00:10:15",
+        "sentiment_score": 0.594231840223074
+    },
+    {
+        "title": "Sentenciaron a pena máxima a pastor evangélico",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/10/Francisco-Coa-cumplira-pena-maxima-de-30-anos-de-prision.jpeg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://elperiodiquito.com/sucesos/191829/sentenciaron-a-pena-maxima-a-pastor-evangelico/",
+        "date": "2024-10-21 00:06:56",
+        "sentiment_score": -0.7029834613204002
     }
 ];
