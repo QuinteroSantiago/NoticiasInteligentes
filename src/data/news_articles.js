@@ -1,193 +1,5 @@
 export default [
     {
-        "title": "Bombarderos B-2 estadounidenses atacan a los hutíes apoyados por Irán en Yemen",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767948-gettyimages-1223814797.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "bombarderos",
-            "hutíes",
-            "medio oriente",
-            "yemen"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/17/ataques-eeuu-contra-huties-respaldados-iran-yemen-trax/",
-        "date": "2024-10-17 05:30:45",
-        "sentiment_score": -0.6837956719100475
-    },
-    {
-        "title": "La impactante muerte de Liam Payne provoca una oleada de dolor y preguntas",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767954-muerte-liam.jpeg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "one direction",
-            "música",
-            "liam payne"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/17/impactante-muerte-liam-payne-provoca-una-oleada-de-dolor-y-preguntas-trax/",
-        "date": "2024-10-17 05:26:28",
-        "sentiment_score": -0.8894984750077128
-    },
-    {
-        "title": "Ya no quedan pisos de segunda mano en Madrid: las cifras que lo explican todo",
-        "image_url": "https://album.mediaset.es/eimg/2024/10/16/venta-en-madrid-de-pisos_bb7c.jpg",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.telecinco.es/noticias/economia/vivienda/20241017/no-quedan-pisos-segunda-mano-madrid-cifras-explican_18_013734646.html",
-        "date": "2024-10-17 06:05:57",
-        "sentiment_score": -0.8387895412743092
-    },
-    {
-        "title": "«Dama es una promoción histórica que entregamos en menos de un año»",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/17/JuanLuisBlanco2-RNEKDhJ8WAhz4OOdAE4XYiM-1200x840@El%20Norte.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/fiva/dama-promocion-historica-entregamos-ano-20241017075711-nt.html",
-        "date": "2024-10-17 05:57:11",
-        "sentiment_score": 0.5660778917372227
-    },
-    {
-        "title": "El mercado descuenta una nueva bajada de tipos de 25 puntos básicos en la reunión de hoy del BCE",
-        "image_url": "https://forbes.es/wp-content/uploads/2024/10/fotonoticia_20241017075015_1920-916x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/519770/el-mercado-descuenta-una-nueva-bajada-de-tipos-de-25-puntos-basicos-en-la-reunion-de-hoy-del-bce/",
-        "date": "2024-10-17 05:50:15",
-        "sentiment_score": 0.011616230010986328
-    },
-    {
-        "title": "La Hacienda de Illa y enchufismo en TV3",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/12/business/869923139_13218853_1706x960.jpg?contentId=ESPIMA20240712_0140",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241017/la-hacienda-de-illa-enchufismo-en-tv3/894160579_0.html",
-        "date": "2024-10-17 05:45:59",
-        "sentiment_score": -0.37046748399734497
-    },
-    {
-        "title": "Adif amplía el paso superior de Pinar de las Rozas para añadir dos vías más de Cercanías y tren convencional",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/16/obras-para-la-construccion-del-paso-superior-en-la-estacion-de-pinar-de-las-rozas.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5644646/0/adif-amplia-el-paso-superior-de-pinar-de-las-rozas-para-anadir-dos-vias-mas-de-cercanias-y-tren-convencional/",
-        "date": "2024-10-17 05:36:46",
-        "sentiment_score": 0.33765000104904175
-    },
-    {
-        "title": "La medicación y la terapia cognitiva conductual pueden reducir la fatiga de la esclerosis múltiple",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241017073350_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-medicacion-terapia-cognitiva-conductual-pueden-reducir-fatiga-esclerosis-multiple-20241017073350.html",
-        "date": "2024-10-17 05:33:50",
-        "sentiment_score": -0.008570238947868347
-    },
-    {
-        "title": "Andorra rechaza que España utilice su información para acusar a Piqué de corrupción",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fab3becf-faa7-490a-9824-fd49cbcb48c1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/10/17/andorra-pique-corrupcion-supercopa-rubiales-109513518.html",
-        "date": "2024-10-17 05:27:16",
-        "sentiment_score": -0.5003869608044624
-    },
-    {
-        "title": "Piqué teme que la declaración del abogado de Rubiales le comprometa y pide el audio a la jueza",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/016a44b2-612f-403d-992c-bc3fd20e61e9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/10/17/pique-teme-declaracion-abogado-rubiales-109513520.html",
-        "date": "2024-10-17 05:27:14",
-        "sentiment_score": -0.3108453154563904
-    },
-    {
-        "title": "Regresa a Barcelona el mejor mercadillo nupcial de España: se celebra en una obra de Antoni Gaudí",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/17/vivir-en-barcelona/894170578_13594176_1706x960.jpg?contentId=ESPIMA20241017_0004",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241017/regresa-barcelona-el-mejor-mercadillo-nupcial-de-espana-se-celebra-en-una-obra-antoni-gaudi/894160580_0.html",
-        "date": "2024-10-17 06:24:50",
-        "sentiment_score": 0.3501877412199974
-    },
-    {
-        "title": "El hospital psiquiátrico convertido en Bien Cultural de Interés Nacional: un monumento modernista",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/16/vida/893920661_13591760_1706x960.jpg?contentId=ESPIMA20241016_0062",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/historia/20241017/hospital-psiquiatrico-convertido-bien-cultural-interes-nacional/893910662_0.html",
-        "date": "2024-10-17 06:23:09",
-        "sentiment_score": 0.3597870320081711
-    },
-    {
-        "title": "‘La Revuelta’ de David Broncano sigue ampliando distancia con 'El Hormiguero'",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/17/6710a399db426.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.lavanguardia.com/television/20241017/10028611/nueva-victoria-audiencia-revuelta-david-broncano-sigue-ampliando-distancia-hormiguero.html",
-        "date": "2024-10-17 06:21:48",
-        "sentiment_score": 0.30814673006534576
-    },
-    {
-        "title": "\"Quan vaig ingressar a la clínica de desintoxicació era un monstre\"",
-        "image_url": "https://static1.ara.cat/clip/8bcc2fe4-d791-49b8-88a4-465d89b52c1d_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ara.cat/media/series/ingressar-clinica-desintoxicacio-monstre_128_5170456.html",
-        "date": "2024-10-17 06:19:57",
-        "sentiment_score": -0.31357909739017487
-    },
-    {
-        "title": "Lesley Frowick, sobrina de Halston, el genio de la moda que le dio un estilo propio a Liza Minnelli: \"Decía que un vestido bonito es aquel que se vende\"",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/1aa015c6015408d2a5f1dd4109132cab/crop/175x0/2944x2077/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/16/17290699449852.jpg",
-        "tags": [
-            "moda",
-            "yodona"
-        ],
-        "link": "https://www.elmundo.es/yodona/moda/2024/10/17/670f7d16e85ecedf0f8b458d.html",
-        "date": "2024-10-17 06:18:05",
-        "sentiment_score": 0.3061276525259018
-    },
-    {
-        "title": "MÉTEO | Dia de pluges intenses a Catalunya: on plourà més?",
-        "image_url": "https://elmon.cat/app/uploads/sites/15/2024/10/europapress_5416196_varios_vecinos_trabajan_zonas_afectadas_lluvias_septiembre_2023_santa.jpg",
-        "tags": [
-            "méteo"
-        ],
-        "link": "https://elmon.cat/meteo/previsio-temps-avui-17-octubre-catalunya-pluja-intensa-914752/",
-        "date": "2024-10-17 06:04:59",
-        "sentiment_score": -0.8880252782255411
-    },
-    {
-        "title": "Cuanto gana un ingeniero informático en España en 2024 con o sin experiencia",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/07/03/un-ingeniero-comprueba-su-portatil-con-una-planta-electrica-al-fondo.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/cuanto-gana-ingeniero-informatico-espana-2024-experiencia-hpe1.html",
-        "date": "2024-10-17 06:00:00",
-        "sentiment_score": 0.514182560145855
-    },
-    {
-        "title": "El Congreso aprueba que la DGT done a las autoescuelas coches adaptados para conductores con discapacidad",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/01/coche-adaptado.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/noticia/5644773/0/congreso-pide-que-dgt-done-autoescuelas-coches-adaptados-para-conductores-con-discapacidad/",
-        "date": "2024-10-17 05:31:44",
-        "sentiment_score": 0.43261000514030457
-    },
-    {
         "title": "CNN intentó encontrar a los fabricantes de los nuevos relojes \"de fabricación suiza\" de Trump. Acabamos en un centro comercial en Wyoming",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/c-screenshot-2024-10-14-at-4-56-24-pm.jpg?quality=100&strip=info",
         "tags": [
@@ -5858,5 +5670,360 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20241020/gonzalo-torne-sin-esperanza-defiendo-burguesia-catalana/893660741_0.html",
         "date": "2024-10-20 16:35:53",
         "sentiment_score": 0.26847075670957565
+    },
+    {
+        "title": "Análisis: El futuro de la relación económica entre México y EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177902653.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "banco de méxico",
+            "ceo",
+            "claudia sheinbaum",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-futuro-relacion-economica-mexico-estados-unidos-mexico-opina-fast-tv/",
+        "date": "2024-10-20 22:08:55",
+        "sentiment_score": -0.01584988832473755
+    },
+    {
+        "title": "Análisis: El futuro de la relación económica entre México y EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177902653.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-futuro-relacion-economica-mexico-estados-unidos-mexico-opina-fast-tv",
+        "date": "2024-10-20 22:08:55",
+        "sentiment_score": -0.013847559690475464
+    },
+    {
+        "title": "Las FDI publican video que, según afirman, muestra al líder de Hamas, Yahya Sinwar, horas antes de los ataques de octubre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/download-22-20241020211404092.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "conflicto israel y palestina",
+            "guerra israel y hamas",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fdi-video-hamas-yahya-sinwar-trax/",
+        "date": "2024-10-20 21:20:49",
+        "sentiment_score": -0.2804212272167206
+    },
+    {
+        "title": "Cómo votar en las elecciones de EE.UU. 2024 desde fuera del país: requisitos y fechas límite",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768858-voto-extranjero-correo-gettyimages-2171843875.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "votar",
+            "elecciones ee.uu. 2024"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/20/como-votar-elecciones-ee-uu-2024-desde-fuera-pais-requisitos-fechas-limite-orix/",
+        "date": "2024-10-20 21:17:49",
+        "sentiment_score": -0.00907038152217865
+    },
+    {
+        "title": "¿Es la inmigración un problema para la economía de Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173420055.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opinion-inmigracion-problema-economia-ee-uu-globoeconomia-tv-fast",
+        "date": "2024-10-20 20:46:42",
+        "sentiment_score": -0.7363874912261963
+    },
+    {
+        "title": "¿Es la inmigración un problema para la economía de Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173420055.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "inmigración estados unidos",
+            "xpress",
+            "economía",
+            "inmigración"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opinion-inmigracion-problema-economia-ee-uu-globoeconomia-tv-fast/",
+        "date": "2024-10-20 20:46:42",
+        "sentiment_score": -0.2286938577890396
+    },
+    {
+        "title": "Experto da estas recomendaciones ante la llegada de un huracán",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1243578897.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/impacto-de-los-huracanes-conectados-tv-fast",
+        "date": "2024-10-20 20:17:15",
+        "sentiment_score": -0.03756937384605408
+    },
+    {
+        "title": "Nueva caravana migrante con miles de personas sale de la frontera sur de México hacia Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769365-gettyimages-2176100591.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "caravana de migrantes",
+            "inmigración"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/20/caravana-migrante-mexico-estados-unidos-efe/",
+        "date": "2024-10-20 20:10:16",
+        "sentiment_score": -0.1968250498175621
+    },
+    {
+        "title": "“¡Por ​​esto murió nuestro hijo, por frijoles!”, dice la familia de un niño en Gaza que murió aplastado por un paquete de ayuda lanzado desde el aire",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769338-gaza-ayudas-comida.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "gaza"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/20/murio-hijo-familia-nino-murio-por-ayuda-aerea-habla-dolor-orix/",
+        "date": "2024-10-20 18:25:48",
+        "sentiment_score": -0.8114926442503929
+    },
+    {
+        "title": "Una excavadora militar israelí derriba una torre de observación de los 'cascos azules' en el sur de Líbano",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/20/excavadora-k3AG-U603230351942InE-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/excavadora-militar-israeli-derriba-torre-observacion-cascos-20241020224225-nt.html",
+        "date": "2024-10-20 20:42:25",
+        "sentiment_score": -0.02980750799179077
+    },
+    {
+        "title": "Aviso a navegantes",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/20/1487390136-RdWgZRZ2YjDI3Db3hIIMxkJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-aviso-navegantes-20241020220850-nt.html",
+        "date": "2024-10-20 20:08:50",
+        "sentiment_score": -0.11678880453109741
+    },
+    {
+        "title": "Rebelión global contra los abusos del comercio online",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/20/1487476728-R6pMF7nXWNG0DFvQIqaJg1L-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-rebelion-global-abusos-comercio-online-20241020220407-nt.html",
+        "date": "2024-10-20 20:04:08",
+        "sentiment_score": -0.2517892122268677
+    },
+    {
+        "title": "Las trampas al fisco",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-trampas-fisco-20241021214619-nts.html",
+        "date": "2024-10-20 19:47:23",
+        "sentiment_score": -0.08293363451957703
+    },
+    {
+        "title": "La nueva clase media",
+        "image_url": "https://s2.ppllstatics.com/larioja/www/multimedia/2024/10/02/aves--170x119.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-nueva-clase-media-20241021214546-nts.html",
+        "date": "2024-10-20 19:45:46",
+        "sentiment_score": -0.07698535919189453
+    },
+    {
+        "title": "Otoñada",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/10/17/bajamedica_1-U16226834378zDE-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-otonada-20241021214545-nts.html",
+        "date": "2024-10-20 19:45:45",
+        "sentiment_score": -0.023495227098464966
+    },
+    {
+        "title": "El misterio del «barco fantasma» que desapareció en el Estrecho de Gibraltar con 420 españoles a bordo",
+        "image_url": "https://cdn.mnmstatic.net/cache/3c/e6/media_thumb_2x-link-3991275.webp",
+        "tags": [
+            "estrecho de gibraltar",
+            "desaparecido",
+            "cultura",
+            "barco fantasma"
+        ],
+        "link": "https://www.meneame.net/story/misterio-barco-fantasma-desaparecio-estrecho-gibraltar-420-bordo",
+        "date": "2024-10-20 19:25:10",
+        "sentiment_score": -0.8465319387614727
+    },
+    {
+        "title": "Óscar Puente debe apartarse",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/10/17/bajamedica_1-U16226834378zDE-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-oscar-puente-debe-apartarse-20241021191236-nt.html",
+        "date": "2024-10-20 19:19:46",
+        "sentiment_score": -0.0951617956161499
+    },
+    {
+        "title": "Mtnez. Sabina",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/10/17/bajamedica_1-U16226834378zDE-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-mtnez-sabina-20241021191902-nt.html",
+        "date": "2024-10-20 17:19:09",
+        "sentiment_score": -0.008956551551818848
+    },
+    {
+        "title": "El PNV, el huevo y la serpiente",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/10/17/reina-premio-planeta-keGB--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-pnv-huevo-serpiente-20241021191848-nt.html",
+        "date": "2024-10-20 17:18:55",
+        "sentiment_score": -0.19330692291259766
+    },
+    {
+        "title": "Una actuación al aire libre de Josep Carreras y Sara Baras pone el broche final a la Copa del América",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SP77JHDA4FHMDICZ4FKLQDVAEA.jpg?auth=cbd8aad7e2a129686798e13655f7341f26d5de8fce468b28f9a09762b66f6cee&width=1200",
+        "tags": [
+            "danza",
+            "sara baras",
+            "cataluña",
+            "vela",
+            "cultura",
+            "copa américa vela",
+            "barcelona",
+            "ópera",
+            "ayuntamiento barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-20/una-actuacion-al-aire-libre-de-josep-carreras-y-sara-baras-pone-el-broche-final-a-la-copa-del-america.html",
+        "date": "2024-10-20 20:29:15",
+        "sentiment_score": 0.5862124003469944
+    },
+    {
+        "title": "La UCO contó con la ayuda de Europol en el volcado de los móviles del 'caso Koldo' y de la Federación de Fútbol",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/europol.png",
+        "tags": [
+            "luis rubiales",
+            "españa",
+            "guardia civil",
+            "caso koldo"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/21/la-uco-conto-con-la-ayuda-de-europol-en-el-volcado-de-los-moviles-del-caso-koldo-y-de-la-federacion-de-futbol/",
+        "date": "2024-10-20 22:05:27",
+        "sentiment_score": -0.21476931869983673
+    },
+    {
+        "title": "Montero ultima la propuesta de financiación autonómica que presentará ante un PSOE tensionado por el pacto con ERC",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/54073003466-7bc0fe462e-4k-1440x808.jpg",
+        "tags": [
+            "pedro sánchez",
+            "maría jesús montero",
+            "financiación",
+            "erc - esquerra republicana de catalunya",
+            "españa",
+            "partido de los socialistas de cataluña (psc)",
+            "gobierno de españa",
+            "partido socialista obrero español (psoe)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/21/montero-ultima-la-propuesta-de-financiacion-autonomica-que-presentara-ante-un-psoe-tensionado-por-el-pacto-con-erc/",
+        "date": "2024-10-20 22:05:07",
+        "sentiment_score": -0.028098776936531067
+    },
+    {
+        "title": "Desayuno ECD sobre ‘Mediación’: solucionar conflictos de manera rápida, económica y extrajudicial",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/18/2024101816511934059.jpg",
+        "tags": [
+            "tendencias"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/tendencias/desayuno-ecd-mediacion-solucionar-conflictos-manera-rapida-economica-extrajudicial/20241021000000861222.html",
+        "date": "2024-10-20 22:00:00",
+        "sentiment_score": 0.6145454570651054
+    },
+    {
+        "title": "Sofía ‘adelanta’ su regreso a Madrid para acompañar a Leonor en los Premios Princesa de Asturias",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/07/03/2024070317094548710.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/sofia-adelanta-dia-regreso-madrid-acompanar-hermana-premios-princesa-asturias/20241021000000130721.html",
+        "date": "2024-10-20 22:00:00",
+        "sentiment_score": -0.1221955418586731
+    },
+    {
+        "title": "El Barça aplasta al Sevilla y llega al Clásico tres puntos por delante del Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "clásico",
+            "deportes",
+            "fútbol",
+            "el sevilla",
+            "real madrid",
+            "barca"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-barca-aplasta-al-sevilla-5-1/",
+        "date": "2024-10-20 21:53:59",
+        "sentiment_score": 0.45108990371227264
+    },
+    {
+        "title": "Un paseo por Madrid en busca de las grandes corrientes de la historia del arte",
+        "image_url": "https://images.theconversation.com/files/624267/original/file-20241008-15-6t59ar.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&rect=0%2C0%2C2043%2C1146&w=496",
+        "tags": [
+            "top"
+        ],
+        "link": "https://theconversation.com/un-paseo-por-madrid-en-busca-de-las-grandes-corrientes-de-la-historia-del-arte-239680",
+        "date": "2024-10-20 21:34:52",
+        "sentiment_score": 0.21573421359062195
+    },
+    {
+        "title": "El Barça se da un festín ante en Sevilla en la vuelta de Gavi 348 días después de su lesión",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/10/Atletico-Leganes-469x317.jpg",
+        "tags": [
+            "la liga",
+            "fútbol",
+            "fc barcelona",
+            "sevilla"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2024-10-20/barca-festin-sevilla-vuelta-gavi/",
+        "date": "2024-10-20 21:29:03",
+        "sentiment_score": 0.4912681058049202
+    },
+    {
+        "title": "El Barça se llena de moral ante el Sevilla",
+        "image_url": "https://s3.ppllstatics.com/burgosconecta/www/multimedia/2024/10/14/portada-tortilla-el-viso-kXiB--170x119@Burgosconecta.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deportes/futbol/liga-primera/barca-llena-moral-ante-sevilla-20241020231124-ntrc.html",
+        "date": "2024-10-20 21:23:56",
+        "sentiment_score": 0.5213357284665108
+    },
+    {
+        "title": "El Barça se llena de moral ante el Sevilla",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/02/loteria-premio-euromillones-k2ZF--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/barca-llena-moral-ante-sevilla-20241020231124-ntrc.html",
+        "date": "2024-10-20 21:23:56",
+        "sentiment_score": 0.47478508949279785
+    },
+    {
+        "title": "Puigdemont y sus dos negociadores con Sánchez asumirán el control de Junts",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/10/21/puigdemont-junts-kjWE-RGdSsJJCdVtpQeJyuVDnemO-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.canarias7.es/nacional/politica/puigdemont-dos-negociadores-sanchez-asumiran-control-junts-20241021001610-ntrc.html",
+        "date": "2024-10-20 22:16:13",
+        "sentiment_score": -0.015979230403900146
+    },
+    {
+        "title": "El 2-0 del FC Barcelona en el FC Barcelona 5 - 1 Sevilla FC de la jornada 10 de LaLiga EA Sports",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7c15588f-f3c4-4e0f-9118-e76f56fff86c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/videos/deportes/2024/10/21/2-0-fc-barcelona-fc-109927040.html",
+        "date": "2024-10-20 22:15:00",
+        "sentiment_score": 0.014079727232456207
     }
 ];
