@@ -1,231 +1,5 @@
 export default [
     {
-        "title": "El rey Carlos visita Australia mientras el país pone en pausa el debate sobre la república",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768521-rey-carlos-y-camila.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "australia",
-            "rey carlos iii"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/18/rey-carlos-visita-australia-trax/",
-        "date": "2024-10-18 06:06:19",
-        "sentiment_score": 0.22941911220550537
-    },
-    {
-        "title": "Última hora de la guerra entre Israel y Hezbollah en vivo: situación en Gaza, muerte del líder de Hamas Yahya Sinwar y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/Sinwar-e1729228311541.jpg?quality=100&strip=info",
-        "tags": [
-            "hezbollah",
-            "minuto a minuto",
-            "hamas",
-            "guerra israel"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/18/ultima-hora-de-la-guerra-entre-israel-y-hezbollah-en-vivo-situacion-en-gaza-noticias-y-mas-2-trax-2/",
-        "date": "2024-10-18 05:52:54",
-        "sentiment_score": -0.8356714732944965
-    },
-    {
-        "title": "Una jueza ordena la eliminación del decreto que valida la reforma judicial de México",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/18/sheinbaum-kgU-U603220541853QwF-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/jueza-ordena-eliminacion-decreto-valida-reforma-judicial-20241018080630-nt.html",
-        "date": "2024-10-18 06:06:30",
-        "sentiment_score": -0.1285344809293747
-    },
-    {
-        "title": "Hizbolá anuncia una «nueva fase» tras la muerte de Yahya Sinwar y Turquía dice que existe una «alta posibilidad» de una guerra entre Israel e Irán",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/18/turquia-krTB-U603220491608FSF-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hizbola-anuncia-nueva-fase-tras-muerte-yahya-20241018074409-nt.html",
-        "date": "2024-10-18 05:46:38",
-        "sentiment_score": -0.1482415497303009
-    },
-    {
-        "title": "Afianzando igualdades",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4ISMPWD7X5HMFOIHLZGXGMM2HQ.JPG?auth=06b7a0c42648d55927a6afac406080723f76dccc0f8f379a51a08db96b748fe8&width=1200",
-        "tags": [
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-18/afianzando-igualdades.html",
-        "date": "2024-10-18 06:08:23",
-        "sentiment_score": 0.12847952544689178
-    },
-    {
-        "title": "“No podemos aceptar instituciones regidas por personas que no sueltan ni un ‘Bon dia”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZIWMOPRWSFHMVEYTARST3SSUMI.jpg?auth=e798ae1e9aa4b8b43567e0c7bd58dda18246d300161d036baa5d6c37f7068aba&width=1200",
-        "tags": [
-            "zoo",
-            "avl",
-            "lengua",
-            "ppcv",
-            "comunidad valenciana",
-            "música",
-            "valenciano",
-            "carlos mazón",
-            "generalitat valenciana",
-            "vicent pitarch",
-            "cultura",
-            "lingüística"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-18/no-podemos-aceptar-instituciones-regidas-por-personas-que-no-sueltan-ni-un-bon-dia.html",
-        "date": "2024-10-18 05:20:25",
-        "sentiment_score": -0.06297330558300018
-    },
-    {
-        "title": "Comprueba si eres candidato a jurado en la lista para 2025-2026",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1112600",
-        "date": "2024-10-18 06:30:07",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Desobediencia contra el 25% y el regreso de una empresa",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/09/primeras-planas/884671528_13423926_1706x960.jpg?contentId=ESPIMA20240909_0004",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20241018/desobediencia-contra-el-regreso-de-una-empresa/894410557_0.html",
-        "date": "2024-10-18 06:25:10",
-        "sentiment_score": -0.47914476692676544
-    },
-    {
-        "title": "El ambicioso proyecto de dar vida al Parque de Santa Catalina",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1112587",
-        "date": "2024-10-18 05:40:27",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "'La vorágine': El centenario de lo desconocido",
-        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/17/pag_4.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/culturas/sotileza/voragine-centenario-desconocido-20241018073851-nt.html",
-        "date": "2024-10-18 05:38:51",
-        "sentiment_score": 0.5946687012910843
-    },
-    {
-        "title": "Identifican reguladores de la secreción de hormonas intestinales",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241018072450_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-identifican-reguladores-secrecion-hormonas-intestinales-20241018072450.html",
-        "date": "2024-10-18 05:24:50",
-        "sentiment_score": 0.2243385910987854
-    },
-    {
-        "title": "LaLiga pierde 36 goles en nueve jornadas: el 'efecto Lewandowski' no compensa la falta de puntería",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b1d3a788-6385-49db-ba79-c2b1ffb354ac_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/10/18/laliga-pierde-36-goles-nueve-109614775.html",
-        "date": "2024-10-18 05:22:47",
-        "sentiment_score": -0.6308564990758896
-    },
-    {
-        "title": "Una comida en Arcano con ruta turística por el Born (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a631773-feae-4388-b192-aeea491c5d14_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241018/ruta-turistica-born-restaurante-arcano-noticias-gastro-109357746",
-        "date": "2024-10-18 06:19:22",
-        "sentiment_score": 0.7183026298880577
-    },
-    {
-        "title": "Un 2025 de grandes series",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/330ece60-c532-b3c6-778ed4885d4642d7.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z330ecd36-9df7-9571-e2be147616c88da5/202410/un-2025-de-grandes-series",
-        "date": "2024-10-18 06:18:38",
-        "sentiment_score": 0.2280868999660015
-    },
-    {
-        "title": "El rincón más especial y único de Barcelona: calles empedradas y paisajes de infarto",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/17/viajes/894170662_13596709_1706x960.jpg?contentId=ESPIMA20241017_0088",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/viajes/20241018/rincon-especial-unico-barcelona-empedradas-paisajes-infarto/894160594_0.html",
-        "date": "2024-10-18 06:17:15",
-        "sentiment_score": 0.689539298415184
-    },
-    {
-        "title": "Santa María del Páramo impulsa la agricultura ecológica con un curso gratuito",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2024/10/16/naturgeissantamaria-kf4H-U2201520532202QwF-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/promocionales/santa-maria-paramo-impulsa-agricultura-ecologica-curso-20241018081543-nt.html",
-        "date": "2024-10-18 06:15:43",
-        "sentiment_score": 0.3281286144629121
-    },
-    {
-        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Can Ugal, Casa Anita en París y That's Amore",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c621ea8-e7ba-481e-b0a4-2ca842465a69_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241018/buenos-restaurantes-barcelona-can-ugal-casa-anita-en-paris-thats-amore-109541893",
-        "date": "2024-10-18 06:15:22",
-        "sentiment_score": -0.2884330675005913
-    },
-    {
-        "title": "El falso níscalo tóxico que se confunde con el comestible en la montaña de León",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2024/10/17/newspaint-1729185699608-1200x840-kvPF-U2201534333622w9C-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/comarcas/falso-niscalo-toxico-confunde-comestible-montana-leon-20241018081359-nt.html",
-        "date": "2024-10-18 06:13:59",
-        "sentiment_score": 0.16370458155870438
-    },
-    {
-        "title": "¿Qué fin de semana de octubre se cambia la hora? ¿Dormiremos más o menos?",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/10/18/cambio-hora-octubre-2024-kvzC-U2201537873065XsG-1200x840@El%20Correo.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/sociedad/cambio-hora-octubre-2024-fin-semana-20241018080625-nt.html",
-        "date": "2024-10-18 06:13:08",
-        "sentiment_score": 0.09657203406095505
-    },
-    {
-        "title": "CCOO sobre Emobi e Ibermón: «Que la Junta tome medidas y salve el empleo»",
-        "image_url": "https://s3.ppllstatics.com/elbierzonoticias/www/multimedia/2024/10/17/emobi4-kG0F-U22015341295885f-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elbierzonoticias.com/bierzo/ccoo-sobre-emobi-ibermon-junta-tome-medidas-20241018081112-nt.html",
-        "date": "2024-10-18 06:11:12",
-        "sentiment_score": -0.6752242464572191
-    },
-    {
-        "title": "Cielos nubosos y bancos de niebla en zonas de montaña para este viernes en León",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2024/10/17/nubes-kLHH-U2101503128403ScH-1200x840@Leonoticias-kQXB-U2201535648520pEF-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/leon/cielos-nubosos-bancos-niebla-zonas-montana-viernes-20241018081033-nt.html",
-        "date": "2024-10-18 06:10:33",
-        "sentiment_score": 0.1643063649535179
-    },
-    {
         "title": "“Tratar al sector privado como al sector público”, dice experta sobre China",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1574051092.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -5897,5 +5671,453 @@ export default [
         "link": "https://www.larazon.es/cataluna/barcelona/llegada-tranvia-barcelona-verdaguer-tiene-fecha_2024102167168320596dfb0001cc1202.html",
         "date": "2024-10-21 16:54:10",
         "sentiment_score": 0.07944714650511742
+    },
+    {
+        "title": "La respuesta de Taiwán después de los provocadores ejercicios militares de China",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/taiwan-respuesta-ejercicios-militares-china-trax/",
+        "date": "2024-10-21 22:13:58",
+        "sentiment_score": 0.0007158368825912476
+    },
+    {
+        "title": "Nuevo informe muestra una disminución en la vacunación de rutina en Estados Unidos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/disminucion-vacunacion-de-rutina-minuto-de-salud-fast",
+        "date": "2024-10-21 22:12:52",
+        "sentiment_score": -0.5504420511424541
+    },
+    {
+        "title": "Nuevo informe muestra una disminución en la vacunación de rutina en Estados Unidos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "xpress",
+            "prevención de enfermedades",
+            "fast – news variety",
+            "vacunación",
+            "noticias de salud",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/disminucion-vacunacion-de-rutina-minuto-de-salud-fast/",
+        "date": "2024-10-21 22:12:52",
+        "sentiment_score": -0.34472333639860153
+    },
+    {
+        "title": "Karol G, la máxima ganadora en los Premios Billboard de la Música Latina 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/karol-g-bad-bunny-ganadores-premios-billboard-de-la-musica-latina-2024-showbiz",
+        "date": "2024-10-21 22:07:45",
+        "sentiment_score": 0.5380009468644857
+    },
+    {
+        "title": "Musk promete US$ 1 millón diario al azar para votantes de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176089209-20241021214824245.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elon-musk-promete-millones-dolares-votantes-trump-dusa-tv-fast/",
+        "date": "2024-10-21 21:49:59",
+        "sentiment_score": 0.3114589899778366
+    },
+    {
+        "title": "Fósiles marinos de millones de años fueron descubiertos bajo el piso de una secundaria en EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fosiles-marinos-descubrimiento-secundaria-usa-ush-orix",
+        "date": "2024-10-21 21:45:19",
+        "sentiment_score": -0.17839884012937546
+    },
+    {
+        "title": "Fósiles marinos de millones de años fueron descubiertos bajo el piso de una secundaria en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-3.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "dinosaurio",
+            "estados unidos noticias",
+            "videos digitales",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fosiles-marinos-descubrimiento-secundaria-usa-ush-orix/",
+        "date": "2024-10-21 21:45:19",
+        "sentiment_score": -0.09539298713207245
+    },
+    {
+        "title": "Lo más preocupante en Estados Unidos es el “compra ahora y paga más tarde”, dice experta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1660871713.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "eeuu",
+            "deuda"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-economia-inflacion-pandemia-deuda-compras-tarjetas-credito-maria-lorca-cnn-dinero-tv/",
+        "date": "2024-10-21 21:41:22",
+        "sentiment_score": -0.3917664922773838
+    },
+    {
+        "title": "Lo más preocupante en Estados Unidos es el “compra ahora y paga más tarde”, dice experta",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-economia-inflacion-pandemia-deuda-compras-tarjetas-credito-maria-lorca-cnn-dinero-tv",
+        "date": "2024-10-21 21:41:22",
+        "sentiment_score": -0.6496310979127884
+    },
+    {
+        "title": "“Estamos viendo una leve caída en la tasa de crecimiento económico”, dice experto sobre China",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/china-economia-estimulo-deuda-paquetes-inflacion-yuanes-luis-ignacio-aguero-cnn-dinero-tv",
+        "date": "2024-10-21 21:36:34",
+        "sentiment_score": -0.05141517519950867
+    },
+    {
+        "title": "El cese del reparto de butano a domicilio en España: los motivos y hasta cuándo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/21/butanero-kTiB-U603235012108FGC-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cese-reparto-butano-domicilio-espana-motivos-20241021224144-nt.html",
+        "date": "2024-10-21 20:41:44",
+        "sentiment_score": -0.13129186630249023
+    },
+    {
+        "title": "Presentación de 'América Latina, la visión de sus líderes', de Andrés Rugeles",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/21/rugales.jpeg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/presentacion-america-latina-vision-lideres-andres-rugeles-20241021223720-nt.html",
+        "date": "2024-10-21 20:41:21",
+        "sentiment_score": -0.04750463366508484
+    },
+    {
+        "title": "Tropiezo judicial del PP, oxígeno para Sánchez",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/10/20/newspaint-1729442408033-1200x840-kwGE--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-tropiezo-judicial-pp-oxigeno-sanchez-20241022211620-nt.html",
+        "date": "2024-10-21 19:16:25",
+        "sentiment_score": -0.7921216264367104
+    },
+    {
+        "title": "Un plante al abuso de poder",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/21/genial-respuesta-restaurante-andalucia-kOpB--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-plante-abuso-poder-20241022211611-nt.html",
+        "date": "2024-10-21 19:16:22",
+        "sentiment_score": -0.18695370852947235
+    },
+    {
+        "title": "Todo va sobre ruedas",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/10/20/newspaint-1729442408033-1200x840-kwGE--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-sobre-ruedas-20241022183959-nts.html",
+        "date": "2024-10-21 18:00:08",
+        "sentiment_score": -0.031688809394836426
+    },
+    {
+        "title": "El Rey machadiano",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/22/articulo-alberto-reyes-RT7Wqzn7ApARJK4NtoPFMxL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-rey-machadiano-20241022191514-nts.html",
+        "date": "2024-10-21 17:58:18",
+        "sentiment_score": 0.011822491884231567
+    },
+    {
+        "title": "Bolero laboral",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/22/AdobeStock_970697663-RGCt7JOrSalz71xBlIR8zNP-1200x840@diario_abc.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-j-fernandez-bolero-laboral-20241022163207-nts.html",
+        "date": "2024-10-21 17:57:45",
+        "sentiment_score": -0.18558987975120544
+    },
+    {
+        "title": "Lo del Centro",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/10/19/elhormiguero-kg9G--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/juan-j-borrero-centro-20241022184729-nts.html",
+        "date": "2024-10-21 17:57:29",
+        "sentiment_score": -0.16509872674942017
+    },
+    {
+        "title": "Las universidades argentinas sacan las aulas a la calle: «Vienen por la educación»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/21/tomada-RNaxyQhxZNIy3YYHqU2XvPP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/universidades-argentinas-sacan-aulas-calle-vienen-educacion-20241021193820-nt.html",
+        "date": "2024-10-21 17:46:03",
+        "sentiment_score": -0.04270121455192566
+    },
+    {
+        "title": "Un código de conducta para el TC",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/10/22/241022TerceraZapata-RqN7H2Zu2kJMou7rkB4VRLI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jorge-rodriguezzapata-codigo-conducta-tc-20241022194054-nt.html",
+        "date": "2024-10-21 17:40:54",
+        "sentiment_score": -0.08745917677879333
+    },
+    {
+        "title": "El Congreso rechaza de plano los argumentos del Senado para votar de nuevo la ley que favorece a etarras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EFGTSEFQXZCEFBHW2V2VLML5LI.jpg?auth=a919bd2619968acf8285b4424157770b2b724f64d8155e3563fd9baaaa016b01",
+        "tags": [
+            "pedro rollán",
+            "pp",
+            "congreso diputados",
+            "leyes orgánicas",
+            "presos eta",
+            "españa",
+            "unión europea",
+            "senado"
+        ],
+        "link": "https://elpais.com/espana/2024-10-21/el-congreso-rechaza-de-plano-los-argumentos-del-senado-para-votar-de-nuevo-la-ley-que-favorece-a-etarras.html",
+        "date": "2024-10-21 18:39:56",
+        "sentiment_score": 0.38014131039381027
+    },
+    {
+        "title": "El Constitucional aplaza una sentencia contraria a Ayuso a petición de tres magistrados del sector conservador",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YQOK4IQDHJE6VI73K7FYHUDSIQ.jpg?auth=40d80b499584fb61ba4ff2160ff8b812c7ffa6df308f5d0d12f91700534f7eda&width=1200",
+        "tags": [
+            "transexuales",
+            "españa",
+            "comunidad de madrid",
+            "tribunal constitucional",
+            "recursos judiciales",
+            "isabel díaz ayuso",
+            "transexualidad",
+            "transfobia"
+        ],
+        "link": "https://elpais.com/espana/2024-10-21/el-constitucional-aplaza-una-sentencia-contraria-a-ayuso-a-peticion-de-tres-magistrados-del-sector-conservador.html",
+        "date": "2024-10-21 18:15:24",
+        "sentiment_score": -0.7850883305072784
+    },
+    {
+        "title": "Las mil vidas de La Gastrónoma: \"Hemos pasado de ser unos pocos prescriptores gastronómicos a 'todos somos influencers'\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/93affa5b9fede7c48b8324939d36abed/crop/106x85/2946x1978/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/21/17295155246661.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/10/22/67165119fc6c8352068b45a5.html",
+        "date": "2024-10-21 22:07:26",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "El inesperado cisma entre sanchistas de Cantabria preludia una batalla por el control del partido en primarias",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/europapress-6015428-i-d-portavoz-grupo-municipal-socialista-pedro-casares-lider-socialistas-1440x808.jpg",
+        "tags": [
+            "gobierno de españa",
+            "alfredo pérez rubalcaba",
+            "santos cerdán",
+            "pedro sánchez",
+            "cantabria",
+            "partido socialista obrero español (psoe)",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/10/22/el-inesperado-cisma-entre-sanchistas-de-cantabria-preludia-una-batalla-por-el-control-del-partido-en-primarias/",
+        "date": "2024-10-21 22:05:50",
+        "sentiment_score": 0.11366414278745651
+    },
+    {
+        "title": "Sumar recrudece sus ataques a la ministra de Vivienda reuniendo quejas de los inquilinos",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/15/2024101512024265040.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/politica/sumar-recrudece-ataques-ministra-vivienda-reuniendo-quejas-inquilinos/20241022000000862502.html",
+        "date": "2024-10-21 22:00:00",
+        "sentiment_score": -0.7977586463093758
+    },
+    {
+        "title": "La exposición sobre el reinado de Felipe VI en el Palacio Real se queda hasta marzo",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/06/17/2024061718081159593.jpg",
+        "tags": [
+            "el confidente de la corte"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/el_confidente_de_la_corte/exposicion-reinado-felipe-vi-palacio-real-queda-marzo/20241022000000130787.html",
+        "date": "2024-10-21 22:00:00",
+        "sentiment_score": 0.26877139136195183
+    },
+    {
+        "title": "Atresmedia no tendrá que pagar 24 millones de euros al hombre que simuló matar al rey",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/21/2024102118550822508.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/atresmedia-tendra-que-pagar-24-millones-euros-hombre-que-simulo-matar-rey/20241022000000862228.html",
+        "date": "2024-10-21 22:00:00",
+        "sentiment_score": -0.34395184367895126
+    },
+    {
+        "title": "La infanta Sofía entregará en diciembre el premio de fotografía que amadrina",
+        "image_url": "https://monarquia.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/07/05/2024070514083866845.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://monarquia.elconfidencialdigital.com/articulo/espana/infanta-sofia-entregara-diciembre-premio-fotografia-que-amadrina/20241022000000130786.html",
+        "date": "2024-10-21 22:00:00",
+        "sentiment_score": 0.11290651559829712
+    },
+    {
+        "title": "“Me robaron el alma”: víctimas de abusos en el seno de la Iglesia católica protagonizan un acto de reconciliación con la Archidiócesis de Madrid",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769869-gabnqjpxoaaxzfp.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "abuso sexual en la iglesia",
+            "españa",
+            "religión"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/21/victimas-abusos-iglesia-catolica-acto-archidiocesis-madrid-orix/",
+        "date": "2024-10-21 21:32:11",
+        "sentiment_score": -0.8725717589259148
+    },
+    {
+        "title": "Los repartidores de butano convocan paros a partir del 5 de noviembre y no distribuirán en casas ni empresas",
+        "image_url": "https://forbes.es/wp-content/uploads/2024/10/fotonoticia_20241021231716_1920-1013x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/523493/los-repartidores-de-butano-convocan-paros-a-partir-del-5-de-noviembre-y-no-distribuiran-en-casas-ni-empresas/",
+        "date": "2024-10-21 21:17:16",
+        "sentiment_score": -0.11349448561668396
+    },
+    {
+        "title": "Thibaut Courtois, sobre los incidentes del Metropolitano: \"Simeone y yo tenemos una idea diferente de lo que es una provocación\"",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/21/el-portero-del-real-madrid-thibaut-courtois_bca3.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.telecinco.es/noticias/deportes/20241021/thibaut-courtois-incidentes-metropolitano-simeone-provocacion_18_013783619.html",
+        "date": "2024-10-21 21:11:27",
+        "sentiment_score": -0.3056640177965164
+    },
+    {
+        "title": "La Liga quiere llevarse al Barça a Estados Unidos: partido top en diciembre",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/12/20/culemania/palco/818678301_12117139_1706x960.jpg?contentId=ESPIMA20231220_0177",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241021/la-liga-llevarse-barca-estados-unidos-diciembre/895160612_0.html",
+        "date": "2024-10-21 21:11:03",
+        "sentiment_score": 0.1258576214313507
+    },
+    {
+        "title": "Acaba de llegar a Prime Video y ya está en el TOP 10 más visto: esperada temporada de seis capítulos",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/15/670e740b0d70b.r_d.340-292.png",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20241022/1002338055/acaba-llegar-prime-video-esta-top-10-mas-visto-esperada-temporada-seis-capitulos-tvp-dct.html",
+        "date": "2024-10-21 22:03:03",
+        "sentiment_score": 0.5335596427321434
+    },
+    {
+        "title": "Juanma Castaño vaticina el futuro del Valencia después de la derrota ante Las Palmas: \"Tiene un serio riesgo\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2024/10/21/6716b303dcc2a.r_d.930-545.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/juanma-castano-vaticina-futuro-valencia-derrota-palmas-serio-riesgo-20241022_3032015.html",
+        "date": "2024-10-21 22:02:59",
+        "sentiment_score": -0.12533244490623474
+    },
+    {
+        "title": "El motor catalán liquida su fundación tras 'enterrar' cinco millones y un mazazo en los tribunales",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/21/business/895170617_13612291_1706x960.jpg?contentId=ESPIMA20241021_0143",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241022/el-catalan-liquida-fundacion-enterrar-millones-tribunales/895160608_0.html",
+        "date": "2024-10-21 22:00:00",
+        "sentiment_score": -0.9408131437376142
+    },
+    {
+        "title": "Suspende pagos en Barcelona la fabricante de maquinaria Difmaq",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/21/business/confidente-vip/895170601_13611816_1706x960.jpg?contentId=ESPIMA20241021_0127",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20241022/suspende-pagos-en-barcelona-fabricante-maquinaria-difmaq/895160596_0.html",
+        "date": "2024-10-21 22:00:00",
+        "sentiment_score": -0.06478435546159744
+    },
+    {
+        "title": "Reus impulsa su polémica funeraria con la oposición casi muda",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/21/politica/895170619_13612349_1706x960.jpg?contentId=ESPIMA20241021_0145",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/politica/20241022/reus-impulsa-polemica-funeraria-oposicion-casi-muda/895160614_0.html",
+        "date": "2024-10-21 22:00:00",
+        "sentiment_score": -0.8548435308039188
+    },
+    {
+        "title": "Gandia vincula el obligado incremento de la tasa de basura al consumo de agua",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9e92aa7a-9eb7-4710-b785-e75675bf59a3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/safor/2024/10/21/gandia-vincula-obligado-incremento-tasa-109974607.html",
+        "date": "2024-10-21 21:59:34",
+        "sentiment_score": -0.35759562999010086
+    },
+    {
+        "title": "Neymar regresa a los terrenos de juego un año después",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f64f.png",
+        "tags": [
+            "fútbol",
+            "emiratos árabes",
+            "al hilal",
+            "neymar",
+            "deportes",
+            "liga de campeones"
+        ],
+        "link": "https://www.elnacional.com/deportes/neymar-regresa-a-los-terrenos-de-juego-un-ano-despues/",
+        "date": "2024-10-21 21:47:34",
+        "sentiment_score": -0.5618217624723911
+    },
+    {
+        "title": "Echamos a Colau, pero no es suficiente",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20241021/10040463/echamos-colau-suficiente.html",
+        "date": "2024-10-21 21:42:53",
+        "sentiment_score": -0.29847167432308197
+    },
+    {
+        "title": "El Parc de Torreblanca restaura tres elementos patrimoniales de valor histórico",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/97cf427b-4f8d-447d-b6c0-0ebc1508450c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20241021/parc-torreblanca-restaura-tres-elementos-valor-historico-barcelona-110010124",
+        "date": "2024-10-21 21:40:20",
+        "sentiment_score": 0.20103347301483154
     }
 ];
