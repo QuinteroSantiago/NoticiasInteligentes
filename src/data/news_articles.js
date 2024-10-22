@@ -197,16 +197,6 @@ export default [
         "sentiment_score": -0.11493228375911713
     },
     {
-        "title": "Hamás confirma la muerte de Yahya Sinwar un día después: «Encontró su fin manteniéndose valiente (...) disparando hasta el último aliento»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/18/montaje-estandar-hamas.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hamas-confirma-muerte-yahya-sinwar-dia-despues-20241018143906-nt.html",
-        "date": "2024-10-18 12:43:29",
-        "sentiment_score": -0.1930658519268036
-    },
-    {
         "title": "Dos detenidos por el asesinato de dos personas en un local incendiado en Logroño",
         "image_url": "https://imagenes.elpais.com/resizer/v2/Y7GKMSXL2JDDLOK4QUEJX4MZ3Q.jpg?auth=339502c4a68eb4f378431b5827628780150185c88e26421ea0773d29e32e03e0",
         "tags": [
@@ -251,129 +241,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-18/la-policia-detiene-en-barcelona-a-un-fugitivo-buscado-por-asesinato.html",
         "date": "2024-10-18 14:56:56",
         "sentiment_score": -0.17927736043930054
-    },
-    {
-        "title": "La Audiencia Nacional rechaza una querella contra Zapatero por delitos de lesa humanidad y torturas en Venezuela",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W3JPW6DV6REVFMCTXABHDD2JDI.jpg?auth=f1d15e80a09a12eeedaeaf92ac68bdaa97efcb29a61d84914e8bf5d978dc3b40&width=1200",
-        "tags": [
-            "tortura",
-            "españa",
-            "gobierno",
-            "tribunales",
-            "audiencia nacional",
-            "venezuela",
-            "josé luis rodríguez zapatero"
-        ],
-        "link": "https://elpais.com/espana/2024-10-18/la-audiencia-nacional-rechaza-una-querella-contra-zapatero-por-delitos-de-lesa-humanidad-y-torturas-en-venezuela.html",
-        "date": "2024-10-18 13:47:31",
-        "sentiment_score": -0.37112316116690636
-    },
-    {
-        "title": "William Kentridge recrea la décima sinfonía de Shostakóvich en el Liceu",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XMZRC3A7VRA2HNPX3IP35E5ZYA.jpg?auth=06bcdae96d10fb339cafa848741f0b5373852a7a6302cd5ac18db24cea87d4e7&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-18/william-kentridge-recrea-la-decima-sinfonia-de-shostakovich-en-el-liceu.html",
-        "date": "2024-10-18 13:35:34",
-        "sentiment_score": -0.046883270144462585
-    },
-    {
-        "title": "Los socios se muestran “más optimistas” ante la reactivación de la negociación de los Presupuestos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/V5MTVQCCHRDR7EUHUN7QWGY4SQ.jpg?auth=da81ddbc8106c447074daeb43999f6f188c39d032aa36f6b24cf1943c01ce061&width=1200",
-        "tags": [
-            "bildu",
-            "presupuestos ue",
-            "bng",
-            "pedro sánchez",
-            "pactos postelectorales",
-            "presupuestos ministerios",
-            "presupuestos generales estado",
-            "presupuestos autonómicos",
-            "c&a",
-            "juntsxcat",
-            "españa",
-            "pactos de estado",
-            "congreso diputados",
-            "presupuestos casa real",
-            "eaj-pnv",
-            "gobierno",
-            "legislaturas políticas",
-            "pactos políticos",
-            "erc"
-        ],
-        "link": "https://elpais.com/espana/2024-10-18/los-socios-se-muestran-mas-optimistas-ante-la-reactivacion-de-la-negociacion-de-los-presupuestos.html",
-        "date": "2024-10-18 13:23:43",
-        "sentiment_score": 0.09943976998329163
-    },
-    {
-        "title": "Muere el niño de cuatro años que se precipitó desde un tercer piso en Tarragona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DEXOKN7EONJ4EWBZFDMJ6HT7KM.jpg?auth=cd0c05892e57256abcb9a94d8a32cbf307b65eff929f0525c770c99c047e3172&width=1200",
-        "tags": [
-            "emergencias",
-            "policía autonómica",
-            "vila-seca",
-            "sucesos",
-            "menores",
-            "cataluña",
-            "hospitales",
-            "tarragona",
-            "mossos d'esquadra",
-            "hospital joan xxiii"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-18/muere-el-nino-de-cuatro-anos-que-se-precipito-desde-un-tercer-piso-en-tarragona.html",
-        "date": "2024-10-18 12:44:04",
-        "sentiment_score": -0.7692993525415659
-    },
-    {
-        "title": "Tráfico recomienda el uso de los chalecos airbag para los motoristas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PMGASUL6SJJ2AC6DAIKTBG5WWY.jpg?auth=20bff546a6056c132d1189e996684b98d6dbafae8c6d6f0f67610383be3d7cd5&width=1200",
-        "tags": [
-            "motocicletas",
-            "fernando grande-marlaska",
-            "accidentes tráfico",
-            "españa",
-            "airbag",
-            "dgt",
-            "guardia civil",
-            "mercedes gonzález",
-            "pere navarro",
-            "seguridad vial"
-        ],
-        "link": "https://elpais.com/espana/2024-10-18/trafico-recomienda-el-uso-de-los-chalecos-airbag-para-los-motoristas.html",
-        "date": "2024-10-18 12:35:39",
-        "sentiment_score": -0.35377874597907066
-    },
-    {
-        "title": "La Generalitat pide a personas sin hogar que devuelvan ayudas concedidas tras un error de gestión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZGFQO4TPMNCJJL3KMQR43TE5ZM.JPG?auth=07123c46e31ed134179a16bbec8dc7066fdf21028725d6ecb7c312847224a82d&width=1200",
-        "tags": [
-            "pobreza",
-            "renta garantizada",
-            "cataluña",
-            "ayudas públicas",
-            "prestaciones",
-            "generalitat cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-18/la-generalitat-pide-a-personas-sin-hogar-que-devuelvan-ayudas-concedidas-tras-un-error-de-gestion.html",
-        "date": "2024-10-18 12:22:24",
-        "sentiment_score": -0.43913138285279274
-    },
-    {
-        "title": "Laboratorios Ordesa, fabricante de Blevit, devuelve su sede social a Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AJIDSBT7WYBSPSBU3NSRA4AP3Y.jpg?auth=6f0287e6c74cd8f9f692e56cee479baf395397290d71052c95a1dda6aef44a33&width=1200",
-        "tags": [
-            "sedes sociales",
-            "procés independentista catalán",
-            "economía",
-            "cataluña",
-            "empresas",
-            "barcelona",
-            "alimentación"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-18/laboratorios-ordesa-fabricante-de-blevit-devuelve-su-sede-social-a-cataluna.html",
-        "date": "2024-10-18 12:19:08",
-        "sentiment_score": -0.6702212654054165
     },
     {
         "title": "Cristiano Ronaldo es el mejor pagado de 2024",
@@ -6119,5 +5986,299 @@ export default [
         "link": "https://www.elperiodico.com/es/barcelona/20241021/parc-torreblanca-restaura-tres-elementos-valor-historico-barcelona-110010124",
         "date": "2024-10-21 21:40:20",
         "sentiment_score": 0.20103347301483154
+    },
+    {
+        "title": "Venden copia de la Constitución de Estados Unidos perdida hace mucho tiempo por US$ 9 millones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769988-ap24250564086468.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "subasta",
+            "instanoticias",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/21/venden-copia-constitucion-estados-unidos-perdida-ap/",
+        "date": "2024-10-22 01:56:23",
+        "sentiment_score": -0.5035081915557384
+    },
+    {
+        "title": "Eutanasia en España: sin ella mi padre hubiera terminado postrado, dice hija de Carlos Alberto Montaner",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21060516-0-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/montaner-gina-carlos-montaner-final-postrado-demensia-libro-conclusiones-tv",
+        "date": "2024-10-22 01:50:54",
+        "sentiment_score": -0.8113966574892402
+    },
+    {
+        "title": "Eutanasia en España: sin ella mi padre hubiera terminado postrado, dice hija de Carlos Alberto Montaner",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21060516-0-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "eutanasia",
+            "españa",
+            "carlos alberto montaner"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/montaner-gina-carlos-montaner-final-postrado-demensia-libro-conclusiones-tv/",
+        "date": "2024-10-22 01:50:54",
+        "sentiment_score": -0.5595199391245842
+    },
+    {
+        "title": "Hija de Carlos Alberto Montaner dice que él “quería vivir, no durar de cualquier manera”",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21060558-6066-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gina-carlos-montaner-eutanasia-libertad-busqueda-vivir-durar-conclusiones-tv",
+        "date": "2024-10-22 01:40:30",
+        "sentiment_score": -0.2974078357219696
+    },
+    {
+        "title": "Hija de Carlos Alberto Montaner dice que él “quería vivir, no durar de cualquier manera”",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21060558-6066-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "eutanasia",
+            "españa",
+            "carlos alberto montaner"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gina-carlos-montaner-eutanasia-libertad-busqueda-vivir-durar-conclusiones-tv/",
+        "date": "2024-10-22 01:40:30",
+        "sentiment_score": -0.24821922183036804
+    },
+    {
+        "title": "Tormenta Oscar deja 6 muertos en Cuba",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769993-cuba-tormenta-oscar-muertos.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cuba",
+            "tormenta"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/21/tormenta-oscar-muertos-cuba-orix/",
+        "date": "2024-10-22 01:36:32",
+        "sentiment_score": -0.7914512325078249
+    },
+    {
+        "title": "Gina Montaner: No me sorprendió que mi padre me dijera que quería acogerse a la Ley de Eutanasia en España",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21060558-42102-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "eutanasia",
+            "españa",
+            "carlos alberto montaner"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gina-montaner-libro-padre-carlos-derecho-morir-eutanasia-conclusiones-tv/",
+        "date": "2024-10-22 01:27:18",
+        "sentiment_score": -0.5556159168481827
+    },
+    {
+        "title": "Publican el primer trailer de “Wolf Man”, una nueva película de monstruos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/59112417-36682509-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-hollywood-primer-trailer-wolf-man-showbiz-fast",
+        "date": "2024-10-22 01:10:38",
+        "sentiment_score": 0.22426371648907661
+    },
+    {
+        "title": "Los duros testimonios de las víctimas de abuso sexual de la iglesia católica en Madrid",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-600799-180831095510-catholic-church-tease-exlarge-169-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/victimas-abuso-iglesia-catolica-arquidiocesis-madrid-auditoria-pau-mosquera-panorama-mundial-tv",
+        "date": "2024-10-22 01:01:00",
+        "sentiment_score": -0.7463808059692383
+    },
+    {
+        "title": "Los duros testimonios de las víctimas de abuso sexual de la iglesia católica en Madrid",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-600799-180831095510-catholic-church-tease-exlarge-169-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa",
+            "iglesia católica"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/victimas-abuso-iglesia-catolica-arquidiocesis-madrid-auditoria-pau-mosquera-panorama-mundial-tv/",
+        "date": "2024-10-22 01:01:00",
+        "sentiment_score": -0.4151243083178997
+    },
+    {
+        "title": "Los empleados de UGT se organizan para exigir al sindicato condiciones laborales idénticas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/22/pepe-RGe8SuJeienIFHXx3z4zJxL-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/empleados-ugt-organizan-exigir-sindicato-condiciones-laborales-20241022182550-nt.html",
+        "date": "2024-10-22 02:12:58",
+        "sentiment_score": -0.03855296969413757
+    },
+    {
+        "title": "Sundeep Jain (Uber) : «La electrificación de los vehículos es el futuro de la movilidad urbana»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/22/unnamed-RLGxzBxbV6sUy95n7BJrLJJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sundeep-jain-uber-electrificacion-vehiculos-futuro-movilidad-20241022041237-nt.html",
+        "date": "2024-10-22 02:12:37",
+        "sentiment_score": 0.01635754108428955
+    },
+    {
+        "title": "José Antonio Jainaga, un navegante ideal para los intereses de Talgo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/22/1473229566-RgXboCBPsePzixRSFEL9wSO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jose-antonio-jainaga-navegante-ideal-intereses-talgo-20241022191722-nt.html",
+        "date": "2024-10-22 02:09:01",
+        "sentiment_score": -0.023656398057937622
+    },
+    {
+        "title": "Renfe sigue sin poner la multa de 166 millones a Talgo en plena negociación con Sidenor",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/22/1487359681-R01a41gOTNHMMyqbDA1Br6H-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/renfe-sigue-poner-multa-166-millones-talgo-20241022184954-nt.html",
+        "date": "2024-10-22 02:08:34",
+        "sentiment_score": -0.07980474829673767
+    },
+    {
+        "title": "El dolor lumbar podría tener un origen visceral",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114172",
+        "date": "2024-10-22 02:13:36",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Dar con la puerta en las narices",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114181",
+        "date": "2024-10-22 02:10:59",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Martes 22 de octubre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114184",
+        "date": "2024-10-22 02:05:54",
+        "sentiment_score": -0.011424660682678223
+    },
+    {
+        "title": "Vivas-Sánchez, un encuentro necesario",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114178",
+        "date": "2024-10-22 02:00:15",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Muriqi acecha a los grandes",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3049023.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/10/22/2262915/futbol-real-mallorca-vedat-muriqi-cuarto-mejor-goleador-del-mallorca-primera.html",
+        "date": "2024-10-22 02:00:01",
+        "sentiment_score": -0.01907530426979065
+    },
+    {
+        "title": "Ayuso planta a Sánchez por «difamarla» y abre otra grieta en el discurso de Feijóo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/21/67169a87c367b.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/241022/1657930/ayuso-planta-sanchez-difamarla-abre-grieta-discurso-feijoo.html",
+        "date": "2024-10-22 01:30:00",
+        "sentiment_score": -0.6242238581180573
+    },
+    {
+        "title": "El futuro de Xabi Alonso pinta lejos del Bayer Leverkusen y de la Bundesliga",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/07/24/2024072403531194353.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/futuro-xabi-alonso-pinta-lejos-bayer-leverkusen-bundesliga/20241022032155321427.html",
+        "date": "2024-10-22 01:21:55",
+        "sentiment_score": 0.012561514973640442
+    },
+    {
+        "title": "Sky: el Leverkusen ve a Xabi Alonso en Real Madrid o City",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/10/Sky-el-Leverkusen-ve-a-Xabi-Alonso-en-Real-Madrid-o-City-21-de-octubre-de-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "deportes",
+            "venezuela",
+            "monagas",
+            "maturín"
+        ],
+        "link": "https://elorientaldemonagas.com/sky-el-leverkusen-ve-a-xabi-alonso-en-real-madrid-o-city/",
+        "date": "2024-10-22 01:00:00",
+        "sentiment_score": 0.05464935302734375
+    },
+    {
+        "title": "Las cuatro fantásticas del bricolaje, manos a la obra: \"Las marcas empiezan a fabricar taladros rosas\"",
+        "image_url": "https://s1.elespanol.com/2024/10/21/actualidad/895170662_250207371_1706x960.jpg?contentId=ESPGIF20241021_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241022/fantasticas-bricolaje-manos-obra-marcas-empiezan-fabricar-taladros-rosas/892660809_0.html",
+        "date": "2024-10-22 00:25:41",
+        "sentiment_score": 0.13793262094259262
+    },
+    {
+        "title": "El Real Madrid quiere reaccionar en la Champions League",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2388b2c7-ea8f-4189-9d01-c604a68d0b3a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2024/10/22/real-madrid-quiere-reaccionar-champions-8833910.html",
+        "date": "2024-10-21 23:59:53",
+        "sentiment_score": -0.10899925231933594
+    },
+    {
+        "title": "Las instalaciones de la multinacional IFF en el Vasco cuentan ya con 300 trabajadores",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8749ee7f-232f-4c83-88a7-41fabb478a78_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oviedo/2024/10/22/instalaciones-multinacional-iff-vasco-cuentan-110015328.html",
+        "date": "2024-10-22 02:09:00",
+        "sentiment_score": 0.21561448276042938
+    },
+    {
+        "title": "ERC congela la investigación a Tolo Moya por los carteles contra Maragall",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3049027.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2024/10/22/2262919/erc-congela-investigacion-tolo-moya-por-carteles-contra-maragall.html",
+        "date": "2024-10-22 02:00:01",
+        "sentiment_score": -0.15421123802661896
+    },
+    {
+        "title": "Progreso digital en la salud",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/21/67169df7dd415.jpeg",
+        "tags": [
+            "innova"
+        ],
+        "link": "https://www.diariodeleon.es/monograficos/innova/241022/1657954/progreso-digital-salud.html",
+        "date": "2024-10-22 01:30:00",
+        "sentiment_score": 0.30022186413407326
+    },
+    {
+        "title": "Arroz con azúcar comieron detenidos en operativos postelectorales: así los recibieron en la cárcel Yare III",
+        "image_url": "https://meridadigital.com.ve/wp-content/uploads/2024/10/1-Los-dias-de-visita-en-la-carcel-de-Yare-aun-es-incierto-para-los-familiares-de-los-detenidos-en-el-contexto-de-las-protestas-postelectorales-l-Foto-El-Pitazo-1024x585.jpg",
+        "tags": [
+            "destacadas",
+            "venezuela"
+        ],
+        "link": "https://meridadigital.com.ve/2024/10/21/arroz-con-azucar-comieron-detenidos-en-operativos-postelectorales-asi-los-recibieron-en-la-carcel-yare-iii/",
+        "date": "2024-10-22 01:20:20",
+        "sentiment_score": -0.09483502805233002
     }
 ];
