@@ -1,213 +1,5 @@
 export default [
     {
-        "title": "Militares norcoreanos reciben equipamiento en Rusia antes de su posible despliegue en Ucrania",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769005-still-21055511-10071-118999999999-still-copy.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "rusia",
-            "corea del norte"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/tropas-norcoreanas-reciben-equipamiento-rusia-despliegue-ucrania-trax/",
-        "date": "2024-10-19 15:52:38",
-        "sentiment_score": -0.10937173664569855
-    },
-    {
-        "title": "La Asamblea Nacional de República Dominicana aprueba reformas a la Constitución propuestas por Abinader",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769014-luis-abinder.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "república dominicana"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/asamblea-nacional-republica-dominicana-reformas-constitucion-orix/",
-        "date": "2024-10-19 15:49:10",
-        "sentiment_score": -0.034737661480903625
-    },
-    {
-        "title": "Anuncian un acuerdo tentativo que podría poner fin a la huelga de Boeing",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769007-huelga-boeing.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "boeing",
-            "economía"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/anuncian-acuerdo-tentativo-fin-huelga-boeing-trax/",
-        "date": "2024-10-19 15:36:59",
-        "sentiment_score": 0.21882227063179016
-    },
-    {
-        "title": "Barcelona honra a Manuel Vital, el hombre que puso a Torre Baró en el mapa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HOO66YDTU5DPPPFYSJAQ6Q2L6Y.jpg?auth=bef036ac620507d127abc0b9ba71df04dea716e84393871f9a8f65a8f1d1b5d5&width=1200",
-        "tags": [
-            "asociaciones vecinos",
-            "cataluña",
-            "chabolismo",
-            "homenajes",
-            "autobuses",
-            "barcelona",
-            "eduard fernández"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-19/barcelona-honra-a-manuel-vital-el-hombre-que-puso-a-torre-baro-en-el-mapa.html",
-        "date": "2024-10-19 14:36:40",
-        "sentiment_score": -0.5463692434132099
-    },
-    {
-        "title": "El Barça busca coger carrerilla ante el Sevilla",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/10/19/flick-k6ED-U2201550865412Cn-1200x840@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/barca-busca-coger-carrerilla-ante-sevilla-20241019190002-ntrc.html",
-        "date": "2024-10-19 17:00:03",
-        "sentiment_score": 0.04358813166618347
-    },
-    {
-        "title": "Se avecinan brochazos y debates de trazo grueso sobre vivienda... mal asunto",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2024/09/28/66f7cc0f2205c.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/opinion/2024/10/19/avecinan-brochazos-debates-trazo-grueso-sobre-vivienda-mal-dnexclusivo-asunto-626043-1064.html",
-        "date": "2024-10-19 17:00:00",
-        "sentiment_score": -0.4477907493710518
-    },
-    {
-        "title": "Ana Pardo de Vera: “Al PP le doy legitimidad cero en materia de corrupción”",
-        "image_url": "https://static.infolibre.es/clip/8a5fa624-120a-4e40-a7f5-6240259e11e8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infolibre.es/videolibre/como-lo-ve/ana-pardo-vera-pp-le-doy-legitimidad-cero-materia-corrupcion_1_1882954.html",
-        "date": "2024-10-19 16:59:42",
-        "sentiment_score": -0.2219027280807495
-    },
-    {
-        "title": "La furia mediática de los mosquitos",
-        "image_url": "https://static.infolibre.es/clip/ac3ce25e-bc09-4c93-a003-1b46439b0b93_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infolibre.es/opinion/columnas/verso-libre/furia-mediatica-mosquitos_129_1882530.html",
-        "date": "2024-10-19 16:36:19",
-        "sentiment_score": -0.16671504080295563
-    },
-    {
-        "title": "El Barça aprueba por amplia mayoría las cuentas de Laporta con un balance en rojo",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/19/laporta-1.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/deportes/futbol/barca-aprueba-amplia-mayoria-cuentas-laporta-balance-20241019181628-ntrc.html",
-        "date": "2024-10-19 16:16:30",
-        "sentiment_score": 0.42833036184310913
-    },
-    {
-        "title": "El nuevo examen de Peñarroya en el Barcelona",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/907417af-fd22-4105-9ce0-1ad9bc8552d4_16-9-aspect-ratio_default_0_x1985y760.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2024/10/19/nuevo-examen-penarroya-barcelona-8824039.html",
-        "date": "2024-10-19 15:32:09",
-        "sentiment_score": -0.8820925857871771
-    },
-    {
-        "title": "La réplica oficial de la Champions del Real Madrid, en Tudela",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/files/fp/uploads/2024/10/19/6713caf00292e.r_d.3645-2750-0.jpeg",
-        "tags": [
-            "tudela y ribera"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/navarra/tudela-ribera/2024/10/19/replica-oficial-champions-real-madrid-tudela-626075-1007.html",
-        "date": "2024-10-19 15:10:20",
-        "sentiment_score": 0.2712536156177521
-    },
-    {
-        "title": "La tentación de Orihuela con Velázquez",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/39fdf3f9-6f52-4569-9599-3e3a99f2461e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/vega-baja/2024/10/19/tentacion-orihuela-velazquez-109569205.html",
-        "date": "2024-10-19 15:00:20",
-        "sentiment_score": -0.04552611708641052
-    },
-    {
-        "title": "Un potaje solidario para que Javier tenga su perro de asistencia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1113266",
-        "date": "2024-10-19 14:58:44",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "La regulación de alquileres en Cataluña: la llave del Govern para topar los precios que deja una de cal y otra de arena",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/10/10/foto-de-archivo-de-un-edificio-residencial-de-barcelona.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/la-regulacion-alquileres-cataluna-llave-govern-topar-precios-deja-cal-arena.html",
-        "date": "2024-10-19 17:03:21",
-        "sentiment_score": -0.4754382595419884
-    },
-    {
-        "title": "La cocina de guerra: tortilla de patatas sin huevo ni patatas",
-        "image_url": "https://static1.ara.cat/clip/1a363a30-8b69-4c73-9826-94724c4277bb_16-9-aspect-ratio_default_0_x2081y1493.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/cocina-guerra-tortilla-patatas-huevo-patatas_130_5175740.html",
-        "date": "2024-10-19 17:01:01",
-        "sentiment_score": -0.13797160983085632
-    },
-    {
-        "title": "Sobredosis",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/opinion/2024/10/19/sobredosis-109785404.html",
-        "date": "2024-10-19 16:57:31",
-        "sentiment_score": -0.9119238425046206
-    },
-    {
-        "title": "Estos son los únicos tres barrios de Barcelona que tienen alquileres por debajo de 700 euros",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/03/03/economia/837176294_12549609_1706x960.jpg?contentId=ESPIMA20240303_0020",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20241019/estos-son-los-unicos-tres-barrios-de-barcelona-que-tienen-alquileres-por-debajo-euros/894660557_0.html",
-        "date": "2024-10-19 16:52:05",
-        "sentiment_score": -0.631133334711194
-    },
-    {
-        "title": "\"Nunca he enviado un 'whatsapp', ahora ya es una actitud política\"",
-        "image_url": "https://static1.ara.cat/clip/9c7ec44d-7cad-4e40-bc87-6406c23b41c1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/cultura/he-enviado-whatsapp-ahora-actitud-politica_128_5173710.html",
-        "date": "2024-10-19 16:42:13",
-        "sentiment_score": -0.16367827355861664
-    },
-    {
-        "title": "Detenidos dos porteros del Oktoberfest de Barcelona tras expulsar con patadas y bofetadas a dos hombres",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/10/19/6713ddfede3ef.png",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20241019/detenidos-dos-porteros-oktoberfest-barcelona-expulsar-patadas-bofetadas-dos-hombres_237422.html",
-        "date": "2024-10-19 16:38:46",
-        "sentiment_score": -0.8105580415576696
-    },
-    {
-        "title": "El pueblo a 2h de Barcelona que es único por sus calles: un lugar lleno de arte",
-        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/penelles-calles-pintadas_1600_1067.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elcierredigital.com/ocio/pueblo-penelles-barcelona",
-        "date": "2024-10-19 16:36:00",
-        "sentiment_score": 0.12125155329704285
-    },
-    {
         "title": "Las tres noticias destacadas de la tarde en del 19 de octubre en CNN en Español",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177848610.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -271,49 +63,6 @@ export default [
         "sentiment_score": 0.6384004577994347
     },
     {
-        "title": "Reportero de CNN relata desde Cuba el segundo apagón consecutivo \"sin precedentes\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cuba-apagones-isla-electricidad-trax/",
-        "date": "2024-10-19 18:26:34",
-        "sentiment_score": -0.7156886123120785
-    },
-    {
-        "title": "¿Cómo se encuentra la economía en los principales mercados mundiales?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "economía mundial",
-            "mercado financiero",
-            "fast – reserve",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/situacion-economica-en-el-mercado-mundial-globoeconomia-tv-fast/",
-        "date": "2024-10-19 18:03:17",
-        "sentiment_score": 0.0038289353251457214
-    },
-    {
-        "title": "¿Cómo se encuentra la economía en los principales mercados mundiales?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-860933744.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/situacion-economica-en-el-mercado-mundial-globoeconomia-tv-fast",
-        "date": "2024-10-19 18:03:17",
-        "sentiment_score": -0.10480522364377975
-    },
-    {
-        "title": "Ordenan arresto domiciliario en segundo caso contra el periodista José Rubén Zamora en Guatemala",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/06/230614201749-conclu-ruben-zamora-condena-full-169.jpg?quality=100&strip=info",
-        "tags": [
-            "guatemala"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/ordenan-arresto-domiciliario-periodista-jose-ruben-zamora-guatemala-orix/",
-        "date": "2024-10-19 17:47:33",
-        "sentiment_score": -0.725532453507185
-    },
-    {
         "title": "Una turba irrumpe en la sede de televisión de la cadena saudí MBC en Irak por calificar de «terrorista» a Nasralá",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/mbc-irak-kUeF-U603227415639bOD-1200x840@diario_abc.jpg",
         "tags": [
@@ -332,86 +81,6 @@ export default [
         "link": "https://www.abc.es/opinion/editorial-abc-presos-presupuestos-garantia-boe-20241020203653-nt.html",
         "date": "2024-10-19 18:36:57",
         "sentiment_score": -0.6676886603236198
-    },
-    {
-        "title": "Boeing alcanza un principio de acuerdo con los trabajadores para poner fin a cinco semanas de huelga",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/19/boeing-kGxC-U603227025093AqD-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/boeing-alcanza-principio-acuerdo-trabajadores-poner-fin-20241019202119-nt.html",
-        "date": "2024-10-19 18:21:19",
-        "sentiment_score": -0.0764690488576889
-    },
-    {
-        "title": "Scholz da el visto bueno a la exportación de Eurofighter a Turquía",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/scholz-erdogan-RaDaxy270rSI60eF0iDPcJN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/scholz-visto-bueno-exportacion-eurofighter-turquia-20241019201634-nt.html",
-        "date": "2024-10-19 18:17:17",
-        "sentiment_score": -0.1625581830739975
-    },
-    {
-        "title": "San Telmo, tenemos un problema...",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/20/juanma-moreno-presidente-RFcuaXyhZLGGb893a693vgN-1200x840@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-san-telmo-problema-20241020200938-nts.html",
-        "date": "2024-10-19 18:13:30",
-        "sentiment_score": -0.1861218959093094
-    },
-    {
-        "title": "Patria y Vida",
-        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/10/17/bajamedica_1-U16226834378zDE-170x119@Diario%20Sur.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-patria-vida-20241020184017-nts.html",
-        "date": "2024-10-19 18:12:20",
-        "sentiment_score": -0.0405639111995697
-    },
-    {
-        "title": "La gilipollez más grande",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/10/17/reina-premio-planeta-keGB--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-gilipollez-grande-20241020183828-nts.html",
-        "date": "2024-10-19 18:11:40",
-        "sentiment_score": -0.07380837202072144
-    },
-    {
-        "title": "Utopía cultural",
-        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/17/renfe-cadiz-U57474647746UPo-170x119@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/javier-macias-utopia-cultural-20241020113555-nts.html",
-        "date": "2024-10-19 18:11:03",
-        "sentiment_score": -0.09545698761940002
-    },
-    {
-        "title": "Los Machado: retrato de familia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/10/20/hermanos-machado-tribuna-RHZApkFfPoDRoWjskNV7rOO-1200x840@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-machado-retrato-familia-20241020235451-nts.html",
-        "date": "2024-10-19 18:09:32",
-        "sentiment_score": 0.052984654903411865
-    },
-    {
-        "title": "Bares",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/02/loteria-premio-euromillones-k2ZF--170x119@Ideal.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-bares-20241020182439-nts.html",
-        "date": "2024-10-19 18:08:59",
-        "sentiment_score": -0.0923193097114563
     },
     {
         "title": "Treintañeros en Valencia: “Esta ciudad era muy barata hace 10 años, ahora no puedo vivir sola”",
@@ -6669,5 +6338,477 @@ export default [
         "link": "https://2001online.com/usa/servicios/por-cual-candidato-votaria-la-mayoria-de-latinos-en-texas--202410222110",
         "date": "2024-10-23 01:01:00",
         "sentiment_score": 0.1606353409588337
+    },
+    {
+        "title": "Por la emergencia en el sector eléctrico, el Gobierno de Ecuador permitirá modificar la jornada laboral",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1770140-apagones-en-ecuador-afectan-a-personas-en-tratamiento-por-insuficiencia-renal.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ecuador"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/23/por-emergencia-sector-electrico-gobierno-ecuador-permitira-modificar-jornada-laboral-orix/",
+        "date": "2024-10-23 06:29:26",
+        "sentiment_score": 0.27279285341501236
+    },
+    {
+        "title": "El exjefe de gabinete de Trump dice que encaja en la definición de \"fascista\" y prefiere el \"enfoque dictador\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1770577-kelly.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "trump",
+            "política",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/23/trump-fascista-john-kelly-trax/",
+        "date": "2024-10-23 05:37:25",
+        "sentiment_score": -0.4657621793448925
+    },
+    {
+        "title": "Proponen reducir la apertura de locales de 'fast food' para reducir la obesidad infantil",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/22/fastfood.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/proponen-limitar-nuevos-restaurantes-fast-food-reducir-20241022134228-nt.html",
+        "date": "2024-10-23 05:25:24",
+        "sentiment_score": -0.14600783586502075
+    },
+    {
+        "title": "China pide a Apple que «profundice» y amplíe su presencia en el país",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/23/1487699177-kdHC-U603240918175fB-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/china-apple-profundice-amplie-presencia-pais-20241023072235-nt.html",
+        "date": "2024-10-23 05:23:27",
+        "sentiment_score": -0.02309483289718628
+    },
+    {
+        "title": "Reestablecida en Cuba la conexión del servicio eléctrico tras cuatro días de apagón general",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/23/malecon-kBX-U603240806492GTD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/reestablecida-cuba-conexion-servicio-electrico-tras-cuatro-20241023055158-nt.html",
+        "date": "2024-10-23 03:51:59",
+        "sentiment_score": -0.5663066282868385
+    },
+    {
+        "title": "Las energéticas cargan contra el Gobierno por la gestión para impulsar el vehículo eléctrico",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/23/cocheelectrico-RexrXZ7ixE0ctXTcWuUWreM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/energeticas-cargan-gobierno-gestion-impulsar-vehiculo-electrico-20241023181343-nt.html",
+        "date": "2024-10-23 03:32:48",
+        "sentiment_score": -0.030124396085739136
+    },
+    {
+        "title": "Israel seguirá luchando en Gaza hasta el regreso de los secuestrados vivos o muertos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/22/soldado-rehenes-RhmT9HXp8WM9YRNYbukF3MM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/israel-seguira-luchando-gaza-regreso-secuestrados-vivos-20241022162645-nt.html",
+        "date": "2024-10-23 02:14:56",
+        "sentiment_score": -0.2760792225599289
+    },
+    {
+        "title": "La valenciana Ainoa García, ganadora del Premio Hortensia Roig de literatura infantil.",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/U62QEFEFSVEF7LU7O5NVUA5JBM.jfif?auth=0d81e73b27af9a01914f845bf5ac131b88d7c53d0cdf521d7e6b3f76be4f78b5&width=1200",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-23/la-valenciana-ainoa-garcia-ganadora-del-premio-hortensia-roig-de-literatura-infantil.html",
+        "date": "2024-10-23 05:16:22",
+        "sentiment_score": 0.5428114142268896
+    },
+    {
+        "title": "Dos años de cárcel para un funcionario de Elche por matar a dos gatos con su escopeta de caza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JFHJ7S32LFHFNPGSXLJSGU2ZCA.JPG?auth=ca85df021b6dac3d975ab3cef580ca5132a7a3b925444c3d3b0c305271f364f6&width=1200",
+        "tags": [
+            "protección animales",
+            "alicante",
+            "gatos",
+            "animales",
+            "elche",
+            "maltrato animal",
+            "sentencias",
+            "gatos callejeros",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-23/dos-anos-de-carcel-para-un-funcionario-de-elche-por-matar-a-dos-gatos-con-su-escopeta-de-caza.html",
+        "date": "2024-10-23 04:56:09",
+        "sentiment_score": -0.5520406849682331
+    },
+    {
+        "title": "España ralentizará el ritmo de saneamiento de las cuentas públicas, según el FMI",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6LEAWFKIGB2JLPC7VL5DS2KCWQ.jpg?auth=e7fbf877225340e0d4fb71dbcdd51161e3ee97cf77e431a23b131437b7ea8230&width=1200",
+        "tags": [
+            "deuda pública",
+            "crecimiento económico",
+            "fmi",
+            "ministerio de hacienda",
+            "pib",
+            "pacto estabilidad ue",
+            "déficit público",
+            "economía",
+            "previsiones económicas"
+        ],
+        "link": "https://elpais.com/economia/2024-10-23/espana-ralentizara-el-ritmo-de-saneamiento-de-las-cuentas-publicas-segun-el-fmi.html",
+        "date": "2024-10-23 03:45:00",
+        "sentiment_score": -0.7734861746430397
+    },
+    {
+        "title": "Sánchez y Montenegro estrechan relaciones en Faro en la primera cumbre ibérica tras el cambio político en Portugal",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OW6JAMIYBFCXZNCZDDXUAA62UI.JPG?auth=642db7ed8a9d84480caec1041ae6d92443e805397fede317cfe2615e36f12151&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "ave",
+            "infraestructuras del transporte",
+            "portugal",
+            "cumbres ibéricas",
+            "faro",
+            "puentes",
+            "luís montenegro",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-10-23/sanchez-y-montenegro-estrechan-relaciones-en-faro-en-la-primera-cumbre-iberica-tras-el-cambio-politico-en-portugal.html",
+        "date": "2024-10-23 03:25:00",
+        "sentiment_score": 0.5602844767272472
+    },
+    {
+        "title": "El rompecabezas del Congreso: Junts baja la presión y Sumar pacta votaciones con el PP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PCGLEGHT3RXNNXLR3BFSTUEDFQ.jpg?auth=d99ac9d9cee15621b096e2c36e23054ecb6232a9adf80b1eaf2517102239b51f&width=1200",
+        "tags": [
+            "pp",
+            "congreso diputados",
+            "leyes ordinarias",
+            "erc",
+            "defensa",
+            "yolanda díaz",
+            "néstor rego",
+            "españa",
+            "juntsxcat",
+            "sumar",
+            "debates parlamentarios",
+            "discapacidad"
+        ],
+        "link": "https://elpais.com/espana/2024-10-23/el-rompecabezas-del-congreso-junts-baja-la-presion-y-sumar-pacta-votaciones-con-el-pp.html",
+        "date": "2024-10-23 03:20:00",
+        "sentiment_score": 0.43994860351085663
+    },
+    {
+        "title": "Una RTVE controlada por la mayoría de investidura con el PP aislado",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E6IGOCA5VRDZ3AI6XW7N5UDWF4.jpg?auth=ab9e3650b406ec4501a28d9abedb5892cd11171c4608c0f63723a34d47fd5690&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "podemos",
+            "pp",
+            "congreso diputados",
+            "erc",
+            "sumar",
+            "bildu",
+            "eaj-pnv",
+            "psoe",
+            "españa",
+            "rtve"
+        ],
+        "link": "https://elpais.com/espana/2024-10-23/una-rtve-controlada-por-la-mayoria-de-investidura-con-el-pp-aislado.html",
+        "date": "2024-10-23 03:20:00",
+        "sentiment_score": -0.8598501849919558
+    },
+    {
+        "title": "In-Edit: historias con sustrato musical",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZRIZWG7ADN6W5LYWDUCDUUWCCA.jpg?auth=fce05b0e1e70ee8763175475614cef195467e8d1d6b0843a13586566bbd736d3&width=1200",
+        "tags": [
+            "homosexualidad",
+            "festivales",
+            "música africana",
+            "samba",
+            "política",
+            "cultura",
+            "documental",
+            "música",
+            "senegal",
+            "folklore",
+            "cine",
+            "áfrica",
+            "estopa",
+            "música brasileña",
+            "cataluña",
+            "catalán",
+            "barcelona",
+            "música folk",
+            "pop",
+            "bossa nova",
+            "cultura underground",
+            "bruce springsteen",
+            "rock"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-23/in-edit-historias-con-sustrato-musical.html",
+        "date": "2024-10-23 03:13:00",
+        "sentiment_score": 0.1681015007197857
+    },
+    {
+        "title": "¿Alumnos de 1o y 2o de la ESO en colegios de primaria? Los padres dicen sí, los sindicatos no",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E3M3TGO6ARH35NQLQOXSJTXZVI.jpg?auth=0656b107f020adb679651edcd82f08136c3fff23a829b099768d851adf50bb68&width=1200",
+        "tags": [
+            "isabel díaz ayuso",
+            "madrid",
+            "comunidad de madrid",
+            "educación secundaria",
+            "educación primaria",
+            "educación",
+            "sindicatos",
+            "noticias de españa",
+            "educación infantil",
+            "sindicatos enseñanza",
+            "eso"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-23/alumnos-de-1-y-2-de-la-eso-en-colegios-de-primaria-los-padres-dicen-si-los-sindicatos-no.html",
+        "date": "2024-10-23 03:00:00",
+        "sentiment_score": -0.9166145445778966
+    },
+    {
+        "title": "La presencia de un candidato apoyado por Amyts anuncia una dura lucha en las elecciones al Colegio de Médicos de Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PNGAB2WVE5CXNF6GPGUIKXYMY4.jpg?auth=61cba55e96f3f650b0e6a9c8163b276accdf4d137fea0a234b93ed31c9502475&width=1200",
+        "tags": [
+            "icomem",
+            "amyts",
+            "hospitales",
+            "médicos",
+            "sermas",
+            "comunidad de madrid",
+            "atención primaria",
+            "sanidad",
+            "madrid",
+            "huelgas sectoriales"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-23/lucha-en-el-colegio-de-medicos-de-madrid-mantener-la-gestion-conservadora-o-apostar-por-un-candidato-apoyado-por-amyts.html",
+        "date": "2024-10-23 03:00:00",
+        "sentiment_score": -0.620849009603262
+    },
+    {
+        "title": "La asesina silenciosa de una aldea gallega que quemó y troceó a su ligue de internet: “Le di pastillas y lo asfixié”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PQ7EAL6BXVG23NDWHLS32PLJWI.jpg?auth=b41974e4830f0f0839be645f76626b26cdc49174879c8ddf4b88e9f70b572462&width=1200",
+        "tags": [
+            "barcelona",
+            "asesinatos",
+            "homicidios",
+            "juzgados",
+            "juicios",
+            "pontevedra",
+            "ourense",
+            "asesinato pareja",
+            "fiscalía",
+            "trastornos compulsivos",
+            "galicia",
+            "guardia civil"
+        ],
+        "link": "https://elpais.com/espana/2024-10-23/la-asesina-silenciosa-de-una-aldea-gallega-que-quemo-y-troceo-a-su-ligue-de-internet-le-di-pastillas-y-lo-asfixie.html",
+        "date": "2024-10-23 03:00:00",
+        "sentiment_score": -0.7549309115856886
+    },
+    {
+        "title": "Missy, la gatita ciega que se salvó de un incendio, busca un hogar",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114656",
+        "date": "2024-10-23 06:28:22",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Diego Arrabal preocupa a todos al destapar el verdadero estado de Isabel Pantoja",
+        "image_url": "https://edatv.news/filesedc/uploads/image/post/montaje-diego-arrabal-cascos-isabel-pantoja-dedo-levantado_1200_800.webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://edatv.news/corazon/diego-arrabal-preocupa-todos-destapar-verdadero-estado-isabel-pantoja",
+        "date": "2024-10-23 06:15:00",
+        "sentiment_score": -0.06526227295398712
+    },
+    {
+        "title": "Frente Atlético: actuar de una vez por todas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/77215438-b29a-4dc3-982c-e8d8186c7bcb_16-9-aspect-ratio_default_0_x488y99.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/mesa-de-redaccion/2024/10/23/frente-atletico-actuar-vez-8839148.html",
+        "date": "2024-10-23 06:02:29",
+        "sentiment_score": -0.9114255290478468
+    },
+    {
+        "title": "El mayor traidor desde los tiempos de Tenesor Semidán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b050479-7f9d-4410-88ba-5050034a80cd_16-9-aspect-ratio_default_1333286.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2024/10/23/mayor-traidor-tiempos-tenesor-semidan-110137455.html",
+        "date": "2024-10-23 06:00:34",
+        "sentiment_score": -0.39388589560985565
+    },
+    {
+        "title": "Moleiro, como Kevin Prince",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/41d8e339-7cbe-4f4c-a6ee-7fa439c15d61_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/10/23/moleiro-kevin-prince-110132011.html",
+        "date": "2024-10-23 06:00:31",
+        "sentiment_score": 0.5944739878177643
+    },
+    {
+        "title": "La vuelta progresiva de la infanta Cristina a Zarzuela y por qué se ha comprado un piso",
+        "image_url": "https://theobjective.com/wp-content/uploads/2024/10/infanta-cristina-estancia-madrid-150x150.jpeg",
+        "tags": [
+            "celebrities",
+            "infanta cristina",
+            "zarzuela",
+            "gente"
+        ],
+        "link": "https://theobjective.com/gente/2024-10-23/infanta-cristina-zarzuela-madrid/",
+        "date": "2024-10-23 06:00:00",
+        "sentiment_score": 0.46042512729763985
+    },
+    {
+        "title": "Dos acusados, un pase de drogas y una investigación ampliada",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114655",
+        "date": "2024-10-23 05:46:26",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "La aduana comercial que no llega: Ceuta-Marruecos, la dictadura",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114645",
+        "date": "2024-10-23 05:24:56",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "La versión convergente de Junts y adiós a la Copa Colau",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/23/primeras-planas/895670433_13617634_1706x960.jpg?contentId=ESPIMA20241023_0009",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241023/la-version-convergente-junts-adios-copa-colau/895660427_0.html",
+        "date": "2024-10-23 05:22:54",
+        "sentiment_score": -0.7116195484995842
+    },
+    {
+        "title": "Ciudad de México le arrebata el trono a Barcelona como ciudad con el mejor bar del mundo en 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef2b4722-b47c-4a4c-afb6-8774823fe421_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/cultura/2024/10/23/ciudad-mexico-le-arrebata-trono-110138274.html",
+        "date": "2024-10-23 06:30:31",
+        "sentiment_score": -0.07426172494888306
+    },
+    {
+        "title": "BANCO PROVINCIAL OFICINA VALENCIA METRÓPOLIS (0992) 23-OCT-24",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729197359030.jpg",
+        "tags": [
+            "publi servicios - legales"
+        ],
+        "link": "https://2001online.com/legales/banco-provincial-oficina-valencia-metropolis-0992-23-oct-24-20241023000",
+        "date": "2024-10-23 04:00:00",
+        "sentiment_score": 0.02111252211034298
+    },
+    {
+        "title": "BANCO PROVINCIAL OFICINA BARQUISIMETO ZONA INDUSTRIAL LIBERTAADOR (02405) 23-OCT-24",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729196986168.jpg",
+        "tags": [
+            "publi servicios - legales"
+        ],
+        "link": "https://2001online.com/legales/banco-provincial-oficina-barquisimeto-zona-industrial-libertaador-02405-23-oct-24-20241023000",
+        "date": "2024-10-23 04:00:00",
+        "sentiment_score": 0.002730146050453186
+    },
+    {
+        "title": "BANCO PROVINCIAL OFICINA CARICUAO (0954) 23-OCT-24",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729197153228.jpg",
+        "tags": [
+            "publi servicios - legales"
+        ],
+        "link": "https://2001online.com/legales/banco-provincial-oficina-caricuao-0954-23-oct-24-20241023000",
+        "date": "2024-10-23 04:00:00",
+        "sentiment_score": 0.017465123906731606
+    },
+    {
+        "title": "BANCO PROVINCIAL OFICINA EL TIGRITO (0972) 23-OCT-24",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729197237247.jpg",
+        "tags": [
+            "publi servicios - legales"
+        ],
+        "link": "https://2001online.com/legales/banco-provincial-oficina-el-tigrito-0972-23-oct-24-20241023000",
+        "date": "2024-10-23 04:00:00",
+        "sentiment_score": 0.007956532761454582
+    },
+    {
+        "title": "Cuba completó reconexión de su sistema eléctrico tras apagón masivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/cuba-completo-reconexion-de-su-sistema-electrico-tras-apagon-masivo-2024102223430",
+        "date": "2024-10-23 03:43:00",
+        "sentiment_score": -0.16258393228054047
+    },
+    {
+        "title": "Tigres desplaza a Magallanes del primer lugar tras su triunfo ante Leones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/tigres-desplaza-a-magallanes-del-primer-lugar-tras-su-triunfo-ante-leones-2024102223270",
+        "date": "2024-10-23 03:27:00",
+        "sentiment_score": 0.278025358915329
+    },
+    {
+        "title": "Ex de Isabella Ladera reacciona a las últimas imágenes de su hija",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/ex-de-isabella-ladera-reacciona-a-las-ultimas-imagenes-de-su-hija-202410222320",
+        "date": "2024-10-23 03:02:00",
+        "sentiment_score": 0.04626239091157913
+    },
+    {
+        "title": "Arranca captación de pacientes para Plan Nacional Quirúrgico de Oftalmología",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/arranca-captacion-de-pacientes-para-plan-nacional-quirurgico-de-oftalmologia-202410222300",
+        "date": "2024-10-23 03:00:00",
+        "sentiment_score": 0.11239665374159813
+    },
+    {
+        "title": "AN pide investigación para encarcelar a responsables del despojo de CITGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/an-pide-investigacion-para-encarcelar-a-responsables-del-despojo-de-citgo-2024102222500",
+        "date": "2024-10-23 02:50:00",
+        "sentiment_score": 0.05938417837023735
+    },
+    {
+        "title": "Activan unidad de pesquisa para pacientes con cáncer de mama en Guárico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/activan-unidad-de-pesquisa-para-pacientes-con-cancer-de-mama-en-guarico-2024102222330",
+        "date": "2024-10-23 02:33:00",
+        "sentiment_score": 0.20821662992238998
     }
 ];
