@@ -1,145 +1,5 @@
 export default [
     {
-        "title": "Un tratamiento contra el cáncer de pulmón logra alargar cinco años la vida del paciente",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/17/resultados-de-una-radiografia-de-pecho.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/noticia/5645062/0/un-tratamiento-contra-el-cancer-de-pulmon-logra-alargar-cinco-anos-la-vida-del-paciente/",
-        "date": "2024-10-19 06:18:23",
-        "sentiment_score": -0.03959551453590393
-    },
-    {
-        "title": "Prueba de fiabilidad en San Mamés",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ee2e5bf3-4ac9-47d4-a4a5-11ca42bdfdd4_16-9-aspect-ratio_default_0_x733y835.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2024/10/19/prueba-fiabilidad-san-mames-8825071.html",
-        "date": "2024-10-19 06:10:05",
-        "sentiment_score": -0.03674224019050598
-    },
-    {
-        "title": "Continúa la caída en picado de Alvise Pérez en las encuestas",
-        "image_url": "https://www.elplural.com/uploads/s1/18/52/01/0/el-eurodiputado-alvise-perez-autor-juan-carlos-lozano_7_480x270.jpeg",
-        "tags": [
-            "la madre de todas las encuestas"
-        ],
-        "link": "https://www.elplural.com/politica/madre-todas-encuestas/continua-caida-picado-alvise-perez-encuestas_339506102",
-        "date": "2024-10-19 06:09:04",
-        "sentiment_score": -0.17119118571281433
-    },
-    {
-        "title": "La guerra del taxi en Donostia: \"Nos vemos capacitados para darle la vuelta a esta situación\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/aa211cc0-2922-466a-b695-2780a123e9c3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2024/10/19/guerra-taxi-san-sebastian-vemos-capacitados-8824570.html",
-        "date": "2024-10-19 06:07:10",
-        "sentiment_score": -0.13512346148490906
-    },
-    {
-        "title": "Biografía no oficial del juez José Manuel Suarez Robledano",
-        "image_url": "https://www.elplural.com/uploads/s1/18/51/68/1/el-juez-jose-manuel-suarez-robledano_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/biografia-no-oficial-juez-jose-manuel-suarez-robledano_339495102",
-        "date": "2024-10-19 06:03:21",
-        "sentiment_score": -0.11634600162506104
-    },
-    {
-        "title": "Plan Marta: se buscan españolas \"católicas y solteras\" para repoblar Australia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6be8fcfa-2fdf-49bf-b896-61a999111973_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241019/plan-marta-buscan-espanolas-catolicas-109656296",
-        "date": "2024-10-19 06:00:56",
-        "sentiment_score": 0.08115282654762268
-    },
-    {
-        "title": "Vox suspende dos años de militancia a Cristóbal Palacio y pone en jaque al grupo parlamentario",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/18/vox-kczB-U2201541562467F0G-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/vox-suspende-dos-anos-militancia-cristobal-palacio-20241019073728-nt.html",
-        "date": "2024-10-19 05:37:28",
-        "sentiment_score": -0.8857459044083953
-    },
-    {
-        "title": "Sacudirse el acoso",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/opinion/madrilgogortetik/2024/10/19/sacudirse-acoso-8824527.html",
-        "date": "2024-10-19 05:30:24",
-        "sentiment_score": -0.5543012470006943
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de octubre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/02/08/vivir-en-barcelona/831177015_12420323_1706x960.jpg?contentId=ESPIMA20240208_0141",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241019/lo-que-debes-saber-hoy-de-octubre-barcelona/894660526_0.html",
-        "date": "2024-10-19 06:20:54",
-        "sentiment_score": 0.5082846879959106
-    },
-    {
-        "title": "Las palabras del general González-Moral tras la Revolución del 34: \"Paz a los muertos y perdón a los que hayan delinquido\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4540b01-663a-4527-9056-0290f643eceb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/asturias/la-revolucion-del-34/asi-te-lo-contamos/2024/10/19/palabras-general-gonzalez-moral-revolucion-109439009.html",
-        "date": "2024-10-19 06:02:08",
-        "sentiment_score": -0.1797197461128235
-    },
-    {
-        "title": "Los fichajes de Flick: Szczesny, Fermín, Dani Olmo, Gavi...",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1ab6a165-e85d-4c17-b5c5-33076e0126a5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2024/10/19/fichajes-flick-szczesny-fermin-dani-109727379.html",
-        "date": "2024-10-19 06:01:56",
-        "sentiment_score": -0.05614021420478821
-    },
-    {
-        "title": "Los prometedores primos que el Barça fichó en una panadería",
-        "image_url": "https://static1.ara.cat/clip/90154aff-1991-4ef6-9b3c-747e983a4e72_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/prometedores-primos-barca-ficho-panaderia_130_5175457.html",
-        "date": "2024-10-19 06:00:58",
-        "sentiment_score": 0.39856384694576263
-    },
-    {
-        "title": "El drama de morir abriendo un bote de kétchup en tiempos de Twitter",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e32c66e7-2915-4fe2-9819-c0e817dd59fb_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/extra/20241019/drama-morir-abriendo-bote-ketchup-109568343",
-        "date": "2024-10-19 06:00:53",
-        "sentiment_score": -0.7459383364766836
-    },
-    {
-        "title": "El modelo de alquiler en Viena, un \"ejemplo a seguir\" para España: \"Es una de las ciudades más asequibles del mundo\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/10/01/firma-contrato-documento-vivienda-llaves.r_d.1414-1505-0.jpeg",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.20minutos.es/noticia/5644294/0/modelo-alquiler-social-vivienda-viena-espana/",
-        "date": "2024-10-19 05:46:32",
-        "sentiment_score": 0.11390221118927002
-    },
-    {
         "title": "Militares norcoreanos reciben equipamiento en Rusia antes de su posible despliegue en Ucrania",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769005-still-21055511-10071-118999999999-still-copy.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -216,42 +76,6 @@ export default [
         "sentiment_score": -0.3425079956650734
     },
     {
-        "title": "Más de un millón de mujeres atraviesan cada año por la menopausia en EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/93899449-47463983-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "menopausia",
-            "noticias de salud"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/dia-mundial-de-la-menopausia-minuto-de-salud-fast/",
-        "date": "2024-10-19 10:00:32",
-        "sentiment_score": 0.1250450313091278
-    },
-    {
-        "title": "Harris y Trump convergen en el reñido Michigan en la búsqueda de una coalición ganadora",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768964-trump.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "kamala harris",
-            "política",
-            "trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/elecciones-presidenciales-michigan-harris-trump-trax/",
-        "date": "2024-10-19 09:05:41",
-        "sentiment_score": 0.2808463126420975
-    },
-    {
-        "title": "La muerte de Sinwar: un encuentro fortuito tras un año de persecución del jefe de Hamas",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768545-las-fdi-difunden-un-video-editado-de-dron-con-los-que-serian-los-ultimos-momentos-de-yahya-sinwar.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medio oriente",
-            "gaza",
-            "guerra israel hamas",
-            "sinwar"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/sinwar-hamas-persecucion-muerte-trax/",
-        "date": "2024-10-19 07:47:58",
-        "sentiment_score": -0.7173270508646965
-    },
-    {
         "title": "Moldavia decide su futuro con elecciones presidenciales y la consulta sobre la UE",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/maia-sandu-RX86SQNKJzsLqepOzyVm5HJ-1200x840@diario_abc.jpg",
         "tags": [
@@ -270,36 +94,6 @@ export default [
         "link": "https://www.abc.es/salud/numero-fresas-comer-dia-quieres-reducir-colesterol-20241019130838-nt.html",
         "date": "2024-10-19 11:20:40",
         "sentiment_score": -0.08299598097801208
-    },
-    {
-        "title": "Probamos el Samsung Ring, la alternativa a los relojes inteligentes ya está aquí",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/10/19/samsung-RTwgCl5WGVasTD3PneWuB6I-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/probamos-samsung-ring-alternativa-relojes-inteligentes-20241019151825-nt.html",
-        "date": "2024-10-19 09:40:39",
-        "sentiment_score": -0.03946119546890259
-    },
-    {
-        "title": "La lección que España puede aprender de China en materia de vivienda",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/1481281962-kdrD-RRYBK17bCXE9rNoOjaCwVaI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/leccion-espana-puede-aprender-china-materia-vivienda-20241019110000-nt.html",
-        "date": "2024-10-19 09:20:29",
-        "sentiment_score": -0.20081940293312073
-    },
-    {
-        "title": "Atacan con drones explosivos la residencia privada de Benjamin Netanyahu",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/17/sinwar-yuav-U85462000122xZH-170x170@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/atacan-drones-explosivos-residencia-privada-benjamin-netanyahu-20241019102741-nt.html",
-        "date": "2024-10-19 08:31:56",
-        "sentiment_score": -0.18029256165027618
     },
     {
         "title": "Barcelona honra a Manuel Vital, el hombre que puso a Torre Baró en el mapa",
@@ -6001,5 +5795,568 @@ export default [
         "link": "https://2001online.com/farandula/el-memorable-momento-de-cher-y-dua-lipa-en-el-salon-de-la-fama-del-rock-roll-video--2024102212380",
         "date": "2024-10-22 16:38:00",
         "sentiment_score": -0.508889677003026
+    },
+    {
+        "title": "Nuevas regulaciones hacen que \"taxis aéreos\" eléctricos se acerquen a la realidad, según la FAA",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/joby-photo.webp",
+        "tags": [
+            "tecnología",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/22/regulaciones-acercan-taxis-aereos-realidad-trax/",
+        "date": "2024-10-22 21:52:15",
+        "sentiment_score": 0.4276203438639641
+    },
+    {
+        "title": "Noboa cancela viaje a Brasil para quedarse en Ecuador y apoyar a la ministra del Interior ante juicio político",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/06/gettyimages-1767578627.jpg?quality=100&strip=info",
+        "tags": [
+            "daniel noboa",
+            "ecuador"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/22/noboa-cancela-viaje-brasil-apoyar-ministra-interior-orix/",
+        "date": "2024-10-22 21:45:02",
+        "sentiment_score": -0.7824841868132353
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 22 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "xpress",
+            "fast – news briefs"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-22-de-octubre-2024-dusa-tarde-fast/",
+        "date": "2024-10-22 21:21:24",
+        "sentiment_score": 0.06469161808490753
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 22 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-22-de-octubre-2024-dusa-tarde-fast",
+        "date": "2024-10-22 21:21:24",
+        "sentiment_score": 0.08804454281926155
+    },
+    {
+        "title": "¿Qué sigue en el complejo caso de Robert Roberson, condenado a muerte en Texas?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1766365-copia-de-foto-para-wp-2024-10-14t084154-908.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/22/que-sigue-complejo-caso-robert-roberson-condenado-muerte-texas-trax/",
+        "date": "2024-10-22 20:29:43",
+        "sentiment_score": -0.73389040119946
+    },
+    {
+        "title": "ANÁLISIS | Elon Musk dice que arreglará el gobierno bajo Trump. Su historial revela un panorama diferente",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1770361-gettyimages-2179028832-16a9d6.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elon musk",
+            "análisis",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/22/analisis-elon-musk-arreglara-gobierno-trump-trax/",
+        "date": "2024-10-22 20:28:33",
+        "sentiment_score": -0.04686644673347473
+    },
+    {
+        "title": "Harris propone nuevo plan económico para los hombres latinos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-51536533.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "kamala harris",
+            "latinos",
+            "elecciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-kamala-harris-propuesta-economica-votantes-latinos-cnn-dinero-tv/",
+        "date": "2024-10-22 19:38:57",
+        "sentiment_score": 0.5420818347483873
+    },
+    {
+        "title": "¿Un carrito de compras volador? Así se ve este innovador invento",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/youtube-estilo-cnn-3.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "innovación",
+            "avances tecnológicos",
+            "fast – general",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/carrito-compras-volador-inveto-orix/",
+        "date": "2024-10-22 19:37:46",
+        "sentiment_score": 0.49068861454725266
+    },
+    {
+        "title": "¿Un carrito de compras volador? Así se ve este innovador invento",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/youtube-estilo-cnn-3.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/carrito-compras-volador-inveto-orix",
+        "date": "2024-10-22 19:37:46",
+        "sentiment_score": 0.6201423928141594
+    },
+    {
+        "title": "El emotivo mensaje de Alejandro Fernández Jr. que hizo llorar a su padre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/alejandro-fernandez-jr.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/alejandro-fernandez-emotivo-mensaje-padre-jr-showbiz",
+        "date": "2024-10-22 19:35:42",
+        "sentiment_score": 0.1197006106376648
+    },
+    {
+        "title": "A ritmo de SE-40",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/10/19/elhormiguero-kg9G--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-ritmo-se40-20241023211935-nts.html",
+        "date": "2024-10-22 20:31:09",
+        "sentiment_score": -0.07220065593719482
+    },
+    {
+        "title": "La TV de todos para uno solo",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/10/17/bajamedica_1-U16226834378zDE-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-solo-20241023211559-nt.html",
+        "date": "2024-10-22 19:16:12",
+        "sentiment_score": -0.09565970301628113
+    },
+    {
+        "title": "Octubre de 1934 y la nueva clerecía",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/10/23/241023TerceraAlvarez-RJxb2vuIIYpe0h0C35cBnfP-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/manuel-alvarez-tardio-octubre-1934-nueva-clerecia-20241023211310-nt.html",
+        "date": "2024-10-22 19:13:10",
+        "sentiment_score": -0.0619693398475647
+    },
+    {
+        "title": "La reclasificación de la enfermería",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/23/1440279613-RROMl0EWWTRTUne2Z62MUUK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/florentino-perez-raya-reclasificacion-enfermeria-20241023211212-nt.html",
+        "date": "2024-10-22 19:12:13",
+        "sentiment_score": -0.11896146833896637
+    },
+    {
+        "title": "Cuando gobierne la izquierda...",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/21/genial-respuesta-restaurante-andalucia-kOpB--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/maria-jose-fuentealamo-gobierne-izquierda-20241023211117-nt.html",
+        "date": "2024-10-22 19:11:25",
+        "sentiment_score": -0.09816056489944458
+    },
+    {
+        "title": "Lío en la Abogacía (del Gobierno)",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/20/labodegadeelnorte-vinosdepelicula-2-kvsD--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-fernandezmiranda-lio-abogacia-gobierno-20241023210926-nt.html",
+        "date": "2024-10-22 19:09:37",
+        "sentiment_score": -0.17174436151981354
+    },
+    {
+        "title": "Milei amplía los criterios de exclusión para solicitantes de asilo en Argentina",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/22/milei-kdPD-U603239968445Lz-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/milei-amplia-criterios-exclusion-solicitantes-asilo-argentina-20241022210519-nt.html",
+        "date": "2024-10-22 19:05:20",
+        "sentiment_score": -0.12083429098129272
+    },
+    {
+        "title": "Silencio en la sala",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2024/10/18/ninos-kmrE--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-herrero-silencio-sala-20241023125644-nt.html",
+        "date": "2024-10-22 18:43:04",
+        "sentiment_score": -0.09500274062156677
+    },
+    {
+        "title": "El invierno de Pedro Sánchez",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/06/tdt-televisiones-k89C--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/yolanda-vallejo-invierno-pedro-sanchez-20241023152745-nts.html",
+        "date": "2024-10-22 18:37:57",
+        "sentiment_score": -0.09661659598350525
+    },
+    {
+        "title": "Universitarios de segunda",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/21/genial-respuesta-restaurante-andalucia-kOpB--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/miguel-angel-robles-universitarios-segunda-20241023153624-nts.html",
+        "date": "2024-10-22 18:33:51",
+        "sentiment_score": -0.09460675716400146
+    },
+    {
+        "title": "Collboni aumentará el control de velocidad y las multas a bicis y patinetes en la superilla de Colau",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/757ZYM2565FQDO6LYU3FRYFMRI.jpg?auth=263709a97a8dcead33101fd6947aaaa89a8fb313cb8bb619d55e5d75e459bc70&width=1200",
+        "tags": [
+            "cataluña",
+            "movilidad urbana",
+            "jaume collboni",
+            "jordi valls riera",
+            "infracciones circulación",
+            "ada colau",
+            "multas",
+            "tráfico",
+            "jordi valls",
+            "eixample",
+            "bicicletas",
+            "barcelona",
+            "movilidad sostenible",
+            "programa supermanzanas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-22/collboni-aumentara-el-control-de-velocidad-y-las-multas-a-bicis-y-patinetes-en-la-superilla-de-colau.html",
+        "date": "2024-10-22 20:19:41",
+        "sentiment_score": -0.7687534336000681
+    },
+    {
+        "title": "El Team New Zealand descarta celebrar la próxima edición de la Copa del América en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NTM3DJRNATPUWH4J24I2XJXGZQ.jpg?auth=4566e8a6e2e5ffd0567f1a80e0ea50d55a66877809f43630dc1fa5a3f6738cbb&width=1200",
+        "tags": [
+            "jaume collboni",
+            "valencia",
+            "comunidad valenciana",
+            "generalitat valenciana",
+            "veleros",
+            "copa américa vela",
+            "generalitat cataluña",
+            "carlos mazón",
+            "ayuntamiento barcelona",
+            "maría josé catalá",
+            "ayuntamiento valencia",
+            "regatas",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-23/mazon-y-catala-apuestan-por-que-la-copa-del-america-vuelva-a-su-casa-natural-valencia.html",
+        "date": "2024-10-22 20:12:42",
+        "sentiment_score": 0.10948178172111511
+    },
+    {
+        "title": "Sumar pide a Robles que “se cancelen de manera inmediata” los contratos de compra de armas a Israel",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ANSQ25XSPZ3TLPDNP4MQEBFT34.jpg?auth=fd22435636552bca7aff1ed2d3e511d3dfb11842c6f48ca5b194a41851613541&width=1200",
+        "tags": [
+            "palestina",
+            "armas de fuego",
+            "españa",
+            "psoe",
+            "relaciones comerciales",
+            "venta armas",
+            "israel",
+            "sumar",
+            "conflictos diplomáticos",
+            "guerra",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2024-10-22/sumar-pide-a-robles-que-se-cancelen-de-manera-inmediata-los-contratos-de-compra-de-armas-a-israel.html",
+        "date": "2024-10-22 17:57:09",
+        "sentiment_score": -0.020233362913131714
+    },
+    {
+        "title": "El PP denuncia que la Fiscalía vulnera la protección de datos",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/243ae29494d4cd32ebe70e49172c5e80/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/22/17296248182624.jpg",
+        "tags": [
+            "pp",
+            "congreso de los diputados",
+            "artículos marisa cruz"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/10/23/6717f9e4e85ecec2048b45c4.html",
+        "date": "2024-10-22 22:07:37",
+        "sentiment_score": -0.021544471383094788
+    },
+    {
+        "title": "Frenesí en el FIB de Castalia",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/23/granada-ruben-sanchez-lof-kFfH-U2201578854380ebH-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/granadacf/frenesi-fib-castalia-20241023000314-nt.html",
+        "date": "2024-10-22 22:03:14",
+        "sentiment_score": -0.1253035068511963
+    },
+    {
+        "title": "El Gobierno se lanza a por las inmobiliarias mientras sigue sin resolver su investigación a Booking y Airbnb",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/europapress-5878645-i-d-vicepresidenta-segunda-ministra-trabajo-yolanda-diaz-ministro-derechos-1-1440x808.jpg",
+        "tags": [
+            "empresas",
+            "vivienda",
+            "economía",
+            "construcción",
+            "sumar"
+        ],
+        "link": "https://www.elindependiente.com/economia/2024/10/23/gobierno-inmobiliarias-booking-airbnb/",
+        "date": "2024-10-22 22:01:11",
+        "sentiment_score": -0.8533776365220547
+    },
+    {
+        "title": "Ofensiva turca para vender al Ejército del Aire un nuevo avión de entrenamiento",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/21/2024102113492345726.jpg",
+        "tags": [
+            "defensa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/defensa/ofensiva-turca-vender-ejercito-aire-avion-entrenamiento/20241022000000862248.html",
+        "date": "2024-10-22 22:00:00",
+        "sentiment_score": 0.03341639041900635
+    },
+    {
+        "title": "Triplete de Vinícius impulsa remontada del Real Madrid ante el Dortmund",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/26bd.png",
+        "tags": [
+            "vinicuis",
+            "real madrid",
+            "borussia dortmund",
+            "fútbol",
+            "liga de campeones",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/deportes/triplete-de-vinicius-impulsa-remontada-del-real-madrid-ante-el-dortmund/",
+        "date": "2024-10-22 21:57:58",
+        "sentiment_score": 0.07740733027458191
+    },
+    {
+        "title": "Brutal pelea en un bar del centro de Torrelodones: dos apuñalados graves, sillas volando y clientes huyendo a la carrera",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
+        "tags": [
+            "torrelodones",
+            "artículos luis f. durán",
+            "collado villalba",
+            "vox",
+            "guardia civil"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/10/22/6717d94fe4d4d858728b45ab.html",
+        "date": "2024-10-22 21:55:09",
+        "sentiment_score": -0.14792818203568459
+    },
+    {
+        "title": "Un invento para cambiar la visión del mundo o cómo diagnosticar la miopía más rápido y más fácil",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/92042cd9e05d2a24a87846b71ad52681/crop/4x0/1000x996/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529670346812.jpg",
+        "tags": [
+            "madrid",
+            "ciencia",
+            "artículos virginia gómez"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/10/22/67116dfee4d4d8b9298b45a9.html",
+        "date": "2024-10-22 21:54:59",
+        "sentiment_score": 0.21554890275001526
+    },
+    {
+        "title": "El Real Madrid evita el lío con un corazón de oro",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosur.es/deportes/futbol/liga-campeones/real-madrid-evita-lio-corazon-oro-20241022231218-ntrc.html",
+        "date": "2024-10-22 21:35:46",
+        "sentiment_score": 0.12961146235466003
+    },
+    {
+        "title": "Las fotos del Real Madrid - Borussia Dortmund",
+        "image_url": "https://static.grupojoly.com/clip/fff371b6-76a4-4eb6-8030-e4d704cd160e_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.granadahoy.com/deportes/fotos-real-madrid-borussia-dortmund_3_2002621121.html",
+        "date": "2024-10-22 21:33:57",
+        "sentiment_score": 0.38101620972156525
+    },
+    {
+        "title": "Solidaridad e investigación para frenar el cáncer",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/23/67182305a3183.r_d.3282-2349-0.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.lavanguardia.com/vida/20241023/10041490/cena-fundacion-contigo-fondos-investigar-cancer.html",
+        "date": "2024-10-22 22:12:51",
+        "sentiment_score": 0.721528172492981
+    },
+    {
+        "title": "Los semáforos del miércoles 23 de octubre: Glòria Serra, Rafael Pardo, Pepe Ribas y Mike Jeffries",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241023/10039782/semaforos-miercoles-23-octubre-gloria-serra-rafael-pardo-pepe-ribas-mike-jeffries.html",
+        "date": "2024-10-22 22:05:00",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "El traslado del conseller",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241023/10043136/traslado-conseller.html",
+        "date": "2024-10-22 22:05:00",
+        "sentiment_score": -0.34311632439494133
+    },
+    {
+        "title": "Ferran Poca",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/22/business/895420595_13616946_1706x960.png?contentId=ESPIMA20241022_0146",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241023/ferran-poca/895410568_0.html",
+        "date": "2024-10-22 22:00:00",
+        "sentiment_score": -0.29945774376392365
+    },
+    {
+        "title": "El Gobierno, más cerca de cerrar los Presupuestos: negocia con Junts ampliar el déficit",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/09/2024100913324637662.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/politica/gobierno-mas-cerca-cerrar-presupuestos-negocia-junts-ampliar-deficit/20241023000000863400.html",
+        "date": "2024-10-22 22:00:00",
+        "sentiment_score": -0.334356352686882
+    },
+    {
+        "title": "La patronal gay catalana entierra el hacha de guerra y luchará por el World Pride",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/22/business/895420585_13616714_1706x960.jpg?contentId=ESPIMA20241022_0136",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241023/la-patronal-catalana-entierra-el-world-pride/895410560_0.html",
+        "date": "2024-10-22 22:00:00",
+        "sentiment_score": -0.07363340258598328
+    },
+    {
+        "title": "El futuro de la movilidad sostenible, a debate en la edición más internacional de Global Mobility Call",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e6d5cf5a-8776-4d98-b0de-97b9b3bf837f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/sociedad/2024/10/22/futuro-movilidad-sostenible-debate-edicion-110136245.html",
+        "date": "2024-10-22 21:59:00",
+        "sentiment_score": 0.5523773208260536
+    },
+    {
+        "title": "El futuro de la movilidad sostenible, a debate en la edición más internacional de Global Mobility Call",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e6d5cf5a-8776-4d98-b0de-97b9b3bf837f_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20241022/futuro-movilidad-sostenible-debate-edicion-110136250",
+        "date": "2024-10-22 21:59:00",
+        "sentiment_score": 0.5147907920181751
+    },
+    {
+        "title": "Programa SNAP hará envíos automáticos de $292 a estos beneficiarios",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/programa-snap-hara-envios-automaticos-de-292-a-estos-beneficiarios-202410221870",
+        "date": "2024-10-22 22:07:00",
+        "sentiment_score": -0.05599634721875191
+    },
+    {
+        "title": "Nestlé® trae ChocoTrío una nueva combinación de texturas y sabores",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/nestle-trae-chocotrio-una-nueva-combinacion-de-texturas-y-sabores-202410221820",
+        "date": "2024-10-22 22:02:00",
+        "sentiment_score": 0.7825255114585161
+    },
+    {
+        "title": "California | Acoso sexual en San Diego: ¿dónde y cómo denunciar?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-acoso-sexual-en-san-diego-donde-y-como-denunciar--202410221800",
+        "date": "2024-10-22 22:00:00",
+        "sentiment_score": -0.7922270316630602
+    },
+    {
+        "title": "Agrónomos españoles apoyarán a colegas venezolanos a regularizar sus títulos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/agronomos-espanoles-apoyaran-a-colegas-venezolanos-a-regularizar-sus-titulos-2024102217540",
+        "date": "2024-10-22 21:54:00",
+        "sentiment_score": 0.525167852640152
+    },
+    {
+        "title": "Captan a Bruno Mars y a cantante de KPOP en un partido del Maracaná",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729633673414/Screenshot_2024-10-22-17-40-44-580_com.android.chrome-edit.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/captan-a-bruno-mars-y-a-cantante-de-kpop-en-un-partido-del-maracana--2024102217480",
+        "date": "2024-10-22 21:48:00",
+        "sentiment_score": 0.22862783446907997
+    },
+    {
+        "title": "El Exfutbolista Diego Forlán debutará en una nueva disciplina deportiva",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/el-exfutbolista-diego-forlan-debutara-en-una-nueva-disciplina-deportiva--2024102217150",
+        "date": "2024-10-22 21:15:00",
+        "sentiment_score": 0.06732836738228798
+    },
+    {
+        "title": "Registran un muerto y varios hospitalizados tras comer en McDonald's",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/sucesos/registran-un-muerto-y-varios-hospitalizados-tras-comer-en-mcdonald-s-2024102217140",
+        "date": "2024-10-22 21:14:00",
+        "sentiment_score": -0.7561975978314877
+    },
+    {
+        "title": "Venezuela ofrece opciones de inversión a los países Brics",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-ofrece-opciones-de-inversion-a-los-paises-brics-202410221760",
+        "date": "2024-10-22 21:06:00",
+        "sentiment_score": 0.4862309582531452
+    },
+    {
+        "title": "¿Qué hacer si agendaste una cita en el Saime y no puedes asistir? (+Pasos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/que-hacer-si-agendaste-una-cita-en-el-saime-y-no-puedes-asistir-pasos--202410221720",
+        "date": "2024-10-22 21:02:00",
+        "sentiment_score": 0.07469181716442108
+    },
+    {
+        "title": "Texas: Sepa cuáles son los descuentos que ofrece la Feria Estatal",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-sepa-cuales-son-los-descuentos-que-ofrece-la-feria-estatal--202410221710",
+        "date": "2024-10-22 21:01:00",
+        "sentiment_score": 0.6048442795872688
     }
 ];
