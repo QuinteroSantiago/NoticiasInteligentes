@@ -32,70 +32,6 @@ export default [
         "sentiment_score": 0.21882227063179016
     },
     {
-        "title": "Los planes de deportación masiva de Trump son costosos. Este es el motivo",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768986-mass-deportation.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "deportación inmigrantes",
-            "política",
-            "trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/deportacion-masiva-trump-costosos-trax/",
-        "date": "2024-10-19 13:09:13",
-        "sentiment_score": -0.8907092260196805
-    },
-    {
-        "title": "Padre adoptivo de varios de los niños Turpin es sentenciado a siete años de prisión por abuso infantil en California",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768980-turpin.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "crimen"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/padre-adoptivo-ninos-turpin-siete-anos-por-abuso-infantil-trax/",
-        "date": "2024-10-19 11:58:50",
-        "sentiment_score": -0.8387150522321463
-    },
-    {
-        "title": "Cuba sufre un nuevo apagón nacional horas después de que comenzara a restaurarse la electricidad",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768975-cuba.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "cuba"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/cuba-nuevo-apagon-nacional-restaurarse-electricidad-trax/",
-        "date": "2024-10-19 11:24:46",
-        "sentiment_score": -0.6064532101154327
-    },
-    {
-        "title": "“La hostilidad era algo que nunca había experimentado antes\": el costo para las mujeres del auge de la \"manosfera\" en Kenya",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768972-as-equals-kenya-manosphere-hero.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "investigaciones",
-            "feminismo",
-            "violencia contra la mujer"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/19/manosfera-investigacion-kenya-violencia-trax/",
-        "date": "2024-10-19 10:27:07",
-        "sentiment_score": -0.3425079956650734
-    },
-    {
-        "title": "Moldavia decide su futuro con elecciones presidenciales y la consulta sobre la UE",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/maia-sandu-RX86SQNKJzsLqepOzyVm5HJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/moldavia-decide-futuro-elecciones-presidenciales-consulta-sobre-20241019150230-nt.html",
-        "date": "2024-10-19 13:17:17",
-        "sentiment_score": -0.1223764419555664
-    },
-    {
-        "title": "Este es el número de fresas que tienes que comer al día si quieres reducir tu colesterol, según un estudio",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/19/fruta-R1b27ugtSa6cxysk4DjnzdO-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/numero-fresas-comer-dia-quieres-reducir-colesterol-20241019130838-nt.html",
-        "date": "2024-10-19 11:20:40",
-        "sentiment_score": -0.08299598097801208
-    },
-    {
         "title": "Barcelona honra a Manuel Vital, el hombre que puso a Torre Baró en el mapa",
         "image_url": "https://imagenes.elpais.com/resizer/v2/HOO66YDTU5DPPPFYSJAQ6Q2L6Y.jpg?auth=bef036ac620507d127abc0b9ba71df04dea716e84393871f9a8f65a8f1d1b5d5&width=1200",
         "tags": [
@@ -110,72 +46,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-19/barcelona-honra-a-manuel-vital-el-hombre-que-puso-a-torre-baro-en-el-mapa.html",
         "date": "2024-10-19 14:36:40",
         "sentiment_score": -0.5463692434132099
-    },
-    {
-        "title": "Podemos pone precio a su apoyo al Gobierno: romper con Israel y bajar el alquiler",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J72Y3FMGW3TAK5VLU5ONCJBDLY.jpg?auth=59b4d3add8095ab7250f67755b0a64a5f7e8b47e54b11ce9a1e7069f0a9d26a5&width=1200",
-        "tags": [
-            "podemos",
-            "pablo iglesias",
-            "jeremy corbyn",
-            "pablo echenique",
-            "izquierda unida",
-            "españa",
-            "ione belarra"
-        ],
-        "link": "https://elpais.com/espana/2024-10-19/podemos-pone-precio-a-su-apoyo-al-gobierno-romper-con-israel-y-bajar-el-alquiler.html",
-        "date": "2024-10-19 13:13:09",
-        "sentiment_score": 0.5852232575416565
-    },
-    {
-        "title": "El candidato de los afines a Marta Rovira para liderar ERC avisa: “Si conviene, haremos caer gobiernos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NWVXLDF3NFB3DHKAOV4HUOUNYU.jpg?auth=570e7da09175feb33b16c09b2023df71afefa216b64b5dc2a5cb2c60c15ce677&width=1200",
-        "tags": [
-            "marta rovira i vergés",
-            "ernest maragall",
-            "erc",
-            "oriol junqueras",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-19/el-candidato-de-los-afines-a-marta-rovira-para-liderar-erc-avisa-si-conviene-haremos-caer-gobiernos.html",
-        "date": "2024-10-19 13:02:26",
-        "sentiment_score": 0.07163162529468536
-    },
-    {
-        "title": "Tres detenidos en Valencia por retener a siete personas en “granjas de humanos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EF57AV7DEJA45ISXUR2TZZ5ZAM.jpg?auth=52d7460e3df4a3be652962f33323bdd3cd64579be2ac6bce59fe75afd9c8b6ee&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "enfermos",
-            "tráfico personas",
-            "guardia civil",
-            "extorsiones",
-            "delitos",
-            "torrent",
-            "valencia",
-            "sucesos",
-            "blanqueo capitales"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-19/tres-detenidos-en-valencia-por-retener-a-siete-personas-en-granjas-de-humanos.html",
-        "date": "2024-10-19 11:11:09",
-        "sentiment_score": -0.8365499451756477
-    },
-    {
-        "title": "Primera asamblea del Sindicato de Inquilinas tras la manifestación por la vivienda: “El miedo ha cambiado de bando”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KMFVQSF635EP7APISTOJJNLPFI.JPG?auth=33ea98fbac3285097a4283bce6f787b8fe21bd36457538d1d368ee28807396d9&width=1200",
-        "tags": [
-            "vivienda",
-            "asociaciones",
-            "madrid",
-            "manifestaciones",
-            "desobediencia civil",
-            "huelgas",
-            "comunidad de madrid",
-            "viviendas alquiler"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-19/primera-asamblea-del-sindicato-de-inquilinas-tras-la-manifestacion-por-la-vivienda-el-miedo-ha-cambiado-de-bando.html",
-        "date": "2024-10-19 10:23:47",
-        "sentiment_score": 0.5179639905691147
     },
     {
         "title": "El Barça busca coger carrerilla ante el Sevilla",
@@ -6358,5 +6228,446 @@ export default [
         "link": "https://2001online.com/usa/servicios/texas-sepa-cuales-son-los-descuentos-que-ofrece-la-feria-estatal--202410221710",
         "date": "2024-10-22 21:01:00",
         "sentiment_score": 0.6048442795872688
+    },
+    {
+        "title": "Jueza: Asesores de la Presidencia están “desorientados” sobre amparo contra reforma judicial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177869174.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "jueces",
+            "méxico",
+            "reforma judicial",
+            "fast – news variety",
+            "claudia sheinbaum",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-discurso-politico-no-legal-aristegui-tv/",
+        "date": "2024-10-23 02:00:27",
+        "sentiment_score": -0.690892580896616
+    },
+    {
+        "title": "Apagones en Cuba: “El bloqueo es una excusa, es una mala gestión del gobierno”, opina exembajador de Nicaragua ante la OEA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apagones-cuba-repression-bloqueo-gobierno-diaz-canel-conclusiones-tv",
+        "date": "2024-10-23 01:55:51",
+        "sentiment_score": -0.9121789271011949
+    },
+    {
+        "title": "Apagones en Cuba: “El bloqueo es una excusa, es una mala gestión del gobierno”, opina exembajador de Nicaragua ante la OEA",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179058642-20241023015249711.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apagones-cuba-repression-bloqueo-gobierno-diaz-canel-conclusiones-tv/",
+        "date": "2024-10-23 01:55:51",
+        "sentiment_score": -0.8584976252168417
+    },
+    {
+        "title": "Analista explica por qué bajó el apoyo latino a Harris en comparación con otras elecciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-voto-latino-simpatizantes-harris-trump-conclusiones-tv",
+        "date": "2024-10-23 01:50:03",
+        "sentiment_score": -0.4976033866405487
+    },
+    {
+        "title": "Analista explica por qué bajó el apoyo latino a Harris en comparación con otras elecciones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175567592.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "kamala harris",
+            "latinos en ee.uu.",
+            "elecciones estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-voto-latino-simpatizantes-harris-trump-conclusiones-tv/",
+        "date": "2024-10-23 01:50:03",
+        "sentiment_score": -0.44541598856449127
+    },
+    {
+        "title": "Milei rompe en llanto tras recibir regalo de la guardia de honor de los granaderos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milei-argentina-presidente-regalo-granadores-llanto-abucheo-conclusiones-tv",
+        "date": "2024-10-23 01:49:54",
+        "sentiment_score": 0.13591626286506653
+    },
+    {
+        "title": "Milei rompe en llanto tras recibir regalo de la guardia de honor de los granaderos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21064627-27620-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milei-argentina-presidente-regalo-granadores-llanto-abucheo-conclusiones-tv/",
+        "date": "2024-10-23 01:49:54",
+        "sentiment_score": 0.2650114595890045
+    },
+    {
+        "title": "Jueza dice que el Gobierno de México fue omiso en juicio de amparo contra la reforma judicial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2024-10-22-at-8-05-33-pm.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "jueces",
+            "méxico",
+            "reforma judicial",
+            "claudia sheinbaum",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/autoridades-omisas-amparo-reforma-judicial-aristegui-tv/",
+        "date": "2024-10-23 01:48:45",
+        "sentiment_score": -0.5836172364652157
+    },
+    {
+        "title": "Jueza dice que el Gobierno de México fue omiso en juicio de amparo contra la reforma judicial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/autoridades-omisas-amparo-reforma-judicial-aristegui-tv",
+        "date": "2024-10-23 01:48:45",
+        "sentiment_score": -0.6145902797579765
+    },
+    {
+        "title": "Kamala Harris y Donald Trump entran al tramo final de la contienda electoral",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2174737008.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "kamala harris",
+            "donald turmp",
+            "elecciones estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/harris-trump-apoyo-votantes-eeuu-final-campanas-apoyos-agenda-conclusiones-tv/",
+        "date": "2024-10-23 01:46:22",
+        "sentiment_score": -0.023388803005218506
+    },
+    {
+        "title": "Y un saxofón",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/10/19/elhormiguero-kg9G--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-saxofon-20241023041246-nt.html",
+        "date": "2024-10-23 02:12:53",
+        "sentiment_score": -0.14577564597129822
+    },
+    {
+        "title": "Puente estudia acabar con el dividendo de la competencia",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/20/labodegadeelnorte-vinosdepelicula-2-kvsD--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-puente-estudia-acabar-dividendo-competencia-20241023040053-nt.html",
+        "date": "2024-10-23 02:00:56",
+        "sentiment_score": -0.2221241295337677
+    },
+    {
+        "title": "El último discurso",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114622",
+        "date": "2024-10-23 02:09:37",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Miércoles 23 de octubre de 2024",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114627",
+        "date": "2024-10-23 02:05:06",
+        "sentiment_score": -0.013777703046798706
+    },
+    {
+        "title": "Sin noticias de la aduana comercial",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1114633",
+        "date": "2024-10-23 02:00:55",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "«Ni te imaginas los trámites que hay que hacer para que te presten un ataúd»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3050087.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2024/10/23/2263439/imaginas-tramites-hay-hacer-para-presten-ataud.html",
+        "date": "2024-10-23 02:00:01",
+        "sentiment_score": -0.08149388432502747
+    },
+    {
+        "title": "El horrible crimen de Miguel Ángel Gallego, un asesino con esquizofrenia que asestó a su víctima hasta 90 puñaladas",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/23/el-horrible-crimen-de-miguel-angel-gallego-un-asesino-con-esquizofrenia-que-asesto-a-su-victima-hast_9244.png?w=1024",
+        "tags": [
+            "código 10"
+        ],
+        "link": "https://www.cuatro.com/codigo-10/20241023/horrible-crimen-miguel-angel-gallego-esquizofrenia-90-punaladas_18_013796086.html",
+        "date": "2024-10-23 01:05:50",
+        "sentiment_score": -0.8705557137727737
+    },
+    {
+        "title": "Desde la Cañada Real a Príncipe Pío: 'Código 10' investiga la existencia del fentanilo en los barrios de Madrid",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/23/desde-la-canada-real-a-principe-pio-codigo-10-investiga-la-existencia-del-fentanilo-en-los-barrios-d_15ec.png?w=1024",
+        "tags": [
+            "código 10"
+        ],
+        "link": "https://www.cuatro.com/codigo-10/20241023/canada-real-principe-pio-existencia-fentanilo-barrios-madrid_18_013796060.html",
+        "date": "2024-10-23 00:26:39",
+        "sentiment_score": -0.6895579881966114
+    },
+    {
+        "title": "Lo de siempre: Real Madrid remonta ante el Dortmund con ‘hat trick’ de Vinicius",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/10/24296750871920-jpg.webp",
+        "tags": [
+            "destacados",
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/lo-de-siempre-real-madrid-remonta-ante-el-dortmund-con-hat-trick-de-vinicius/",
+        "date": "2024-10-23 00:23:39",
+        "sentiment_score": -0.050517737865448
+    },
+    {
+        "title": "Un selfi de más de 6.000 años de antigüedad: el brujo de Vélez Blanco",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/23/2024102301522634994.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.mundiario.com/articulo/cultura/selfi-mas-6000-anos-antiguedad-brujo-velez-blanco/20241023015643321539.html",
+        "date": "2024-10-22 23:56:43",
+        "sentiment_score": 0.6046192795038223
+    },
+    {
+        "title": "22 OCT 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/22-oct-2024-partidazo-cope-20241023_3032822.html",
+        "date": "2024-10-22 23:54:12",
+        "sentiment_score": 0.826011162251234
+    },
+    {
+        "title": "La reflexión de Juanma Castaño tras la remontada del Real Madrid en el Bernabéu: \"Las casas de apuestas\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/10/23/671822ce30e44.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/reflexion-juanma-castano-remontada-real-madrid-bernabeu-casas-apuestas-20241023_3032809.html",
+        "date": "2024-10-22 23:46:52",
+        "sentiment_score": -0.08492913842201233
+    },
+    {
+        "title": "Caída sin frenos del Valencia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4d1de8c6-c973-489f-aa05-2bb8fd7b950f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/23/peter-lim-caida-sin-frenos-del-valencia-cf-colista-de-primera-division-110129164.html",
+        "date": "2024-10-23 02:01:16",
+        "sentiment_score": -0.08484196662902832
+    },
+    {
+        "title": "Núria Cadenes: «Introducir la duda es lo mejor que podemos hacer; nos salva»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3050009.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/23/2263387/nuria-cadenes-introducir-duda-mejor-podemos-hacer-nos-salva.html",
+        "date": "2024-10-23 02:00:01",
+        "sentiment_score": -0.08922019600868225
+    },
+    {
+        "title": "6.000 kilómetros para ver a Muriqi",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3050053.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/10/23/2263417/futbol-real-mallorca-dos-aficionados-kosovares-desplazan-isla-para-ver-expresamente-vedat-muriqi.html",
+        "date": "2024-10-23 02:00:01",
+        "sentiment_score": -0.02255997061729431
+    },
+    {
+        "title": "Aumento de la conectividad aérea y repercusión en la economía local",
+        "image_url": "https://men.gsstatic.es/autor/editorial/32.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/editorial/2024/10/23/2263517/aumento-conectividad-aerea-repercusion-economia-local.html",
+        "date": "2024-10-23 02:00:01",
+        "sentiment_score": 0.012044906616210938
+    },
+    {
+        "title": "Cristina Fernández Cubas: «No creo que el cuento sea el hermano pobre de la novela»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3050085.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/23/2263437/entrevista-cristina-fernandez-cubas-visita-palma-creo-cuento-sea-hermano-pobre-novela.html",
+        "date": "2024-10-23 02:00:01",
+        "sentiment_score": -0.10018646717071533
+    },
+    {
+        "title": "Una abogada leonesa, imputada por supuesta transfobia en las redes",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/22/671804fd42068.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/241023/1659599/abogada-leonesa-imputada-supuesta-transfobia-redes.html",
+        "date": "2024-10-23 01:30:00",
+        "sentiment_score": -0.6247590407729149
+    },
+    {
+        "title": "AQ Acentor se hace fuerte en el área metropolitana de Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/19/671400bf3ba78.r_d.930-744-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241023/10035568/aq-acentor-fuerte-area-metropolitana-barcelona.html",
+        "date": "2024-10-23 01:00:00",
+        "sentiment_score": 0.2690934594720602
+    },
+    {
+        "title": "Bayern Múnich, el club que marca el modelo de gestión del Barça del futuro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/23/culemania/palco/895670432_13617605_1706x960.jpg?contentId=ESPIMA20241023_0008",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241023/bayern-munich-el-modelo-gestion-del-barca/895410577_0.html",
+        "date": "2024-10-23 00:27:42",
+        "sentiment_score": 0.37944382429122925
+    },
+    {
+        "title": "«Se van a pudrir en la cárcel»: Familiares denuncian tratos crueles en cárcel de Yare III",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "protestas 2024",
+            "yare iii",
+            "presos políticos",
+            "cárceles",
+            "detenidos protestas",
+            "noticias"
+        ],
+        "link": "https://talcualdigital.com/se-van-a-pudrir-en-la-carcel-familiares-denuncian-tratos-crueles-en-carcel-de-yare-iii/",
+        "date": "2024-10-23 00:26:41",
+        "sentiment_score": -0.9112895336002111
+    },
+    {
+        "title": "Realizaron requisa en Centro Penitenciario de Barcelona",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/10/Armas-incautadas-dentro-de-los-pabellones-donde-estan-los-privados-de-libertad.jpg",
+        "tags": [
+            "aragua"
+        ],
+        "link": "https://elperiodiquito.com/aragua/192212/realizaron-requisa-en-centro-penitenciario-de-barcelona/",
+        "date": "2024-10-23 00:23:25",
+        "sentiment_score": -0.03532131016254425
+    },
+    {
+        "title": "IBM ofrece estos cursos gratis sobre inteligencia artificial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/ibm-ofrece-estos-cursos-gratis-sobre-inteligencia-artificial-202410222250",
+        "date": "2024-10-23 02:05:00",
+        "sentiment_score": 0.15186029113829136
+    },
+    {
+        "title": "Texas | Vuelve el show Wings Over Houston y tiene sus fechas (+DETALLES)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-vuelve-el-show-wings-over-houston-y-tiene-sus-fechas-detalles--202410222250",
+        "date": "2024-10-23 02:05:00",
+        "sentiment_score": 0.05108204483985901
+    },
+    {
+        "title": "Gobierno inicia la construcción del Parque Gastronómico en Caracas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/gobierno-inicia-la-construccion-del-parque-gastronomico-en-caracas-2024102221580",
+        "date": "2024-10-23 01:58:00",
+        "sentiment_score": 0.5633155442774296
+    },
+    {
+        "title": "Perú arrincona a migrantes venezolanos con nuevas exigencias (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/peru-arrincona-a-migrantes-venezolanos-con-nuevas-exigencias-detalles--2024102221570",
+        "date": "2024-10-23 01:57:00",
+        "sentiment_score": -0.21539051830768585
+    },
+    {
+        "title": "Capturan al sujeto que asesinó de tres puñaladas a su novia en Los Teques",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/capturan-al-sujeto-que-asesino-de-tres-punaladas-a-su-novia-en-los-teques-2024102221460",
+        "date": "2024-10-23 01:46:00",
+        "sentiment_score": -0.4155811108648777
+    },
+    {
+        "title": "EEUU: Target bajó los precios de estos productos por temporada navideña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-target-bajo-los-precios-de-estos-productos-por-temporada-navidena-2024102221370",
+        "date": "2024-10-23 01:37:00",
+        "sentiment_score": -0.07138919085264206
+    },
+    {
+        "title": "Kamala Harris sobre Venezuela: No vamos a usar las Fuerzas Armadas allí",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/nacionales/kamala-harris-sobre-venezuela-no-vamos-a-usar-las-fuerzas-armadas-alli-2024102221140",
+        "date": "2024-10-23 01:14:00",
+        "sentiment_score": 0.17770667374134064
+    },
+    {
+        "title": "Construcción en Illinois: Skidmore, Owings & Merrill es la mayor empleadora",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/construccion-en-illinois-skidmore-owings-merrill-es-la-mayor-empleadora-2024102221140",
+        "date": "2024-10-23 01:14:00",
+        "sentiment_score": 0.12965648248791695
+    },
+    {
+        "title": "Navidad 2024 | Compra aquí la pintura para la casa a crédito (+PRECIOS)",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729624103740/_MG_0782.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/navidad-2024-compra-aqui-la-pintura-para-la-casa-a-credito-precios--202410222120",
+        "date": "2024-10-23 01:02:00",
+        "sentiment_score": 0.08712167106568813
+    },
+    {
+        "title": "¿Por cuál candidato votaría la mayoría de latinos en Texas?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/por-cual-candidato-votaria-la-mayoria-de-latinos-en-texas--202410222110",
+        "date": "2024-10-23 01:01:00",
+        "sentiment_score": 0.1606353409588337
     }
 ];
