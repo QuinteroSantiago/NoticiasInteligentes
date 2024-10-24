@@ -47,29 +47,6 @@ export default [
         "sentiment_score": -0.2821703553199768
     },
     {
-        "title": "EE.UU. investiga filtración de inteligencia altamente clasificada sobre los planes de Israel para atacar a Irán, según fuentes",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769284-documentos-filtrados-iran-israel-estados-unidos.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "inteligencia estados unidos",
-            "israel"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/20/documentos-filtrados-inteligencia-ee-uu-planes-israel-atacar-iran-fuentes-trax/",
-        "date": "2024-10-20 14:02:33",
-        "sentiment_score": -0.6816535424441099
-    },
-    {
-        "title": "3 muertos y 8 heridos en tiroteo masivo después de un partido de bienvenida en Mississippi",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769273-propietario-de-terreno.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "estados unidos noticias",
-            "tiroteo",
-            "tiroteos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/20/3-muertos-y-8-heridos-tiroteo-masivo-despues-partido-bienvenida-mississippi-trax/",
-        "date": "2024-10-20 10:34:44",
-        "sentiment_score": -0.8399444632232189
-    },
-    {
         "title": "Óscar Puente, sobre el descarrilamiento del tren en el túnel de Chamartín y Atocha: «No es nada normal que acabe contra la pared»",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/20/puente-k0YF--366x256@diario_abc.JPG",
         "tags": [
@@ -130,16 +107,6 @@ export default [
         "sentiment_score": -0.11382535099983215
     },
     {
-        "title": "EE.UU. investiga la filtración de documentos de Inteligencia con los planes de ataque de Israel a Irán",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/20/bombardeos-libano-R2Bh3fYFZRNeUHXVGs4wOAL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-investiga-filtracion-documentos-inteligencia-planes-ataque-20241020144155-nt.html",
-        "date": "2024-10-20 12:42:49",
-        "sentiment_score": -0.2296166568994522
-    },
-    {
         "title": "Unas 600 personas se manifiestan en Ripoll contra las políticas de la ‘ultra’ Sílvia Orriols",
         "image_url": "https://imagenes.elpais.com/resizer/v2/RCPZ5XUNQ5AHHH24WQ6C6DQSEE.jpg?auth=5fc12f82ca582b69c7f60e15067bb4e6bce265514a4fe8748fe5c5beb26ae53f&width=1200",
         "tags": [
@@ -154,43 +121,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-20/unas-600-personas-se-manifiestan-en-ripoll-contra-las-politicas-de-la-ultra-silvia-orriols.html",
         "date": "2024-10-20 14:26:28",
         "sentiment_score": 0.38326751440763474
-    },
-    {
-        "title": "Decenas de personas acampan frente al Ayuntamiento de Valencia en protesta por los precios de la vivienda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2WQFNGTZZ5AP5PLQBFQFJEZO5Q.jpg?auth=d01a2b8636150079d6fa98d0cb37d6b99e00f15c756d77d2741f9cdae87452fd&width=1200",
-        "tags": [
-            "pisos turísticos",
-            "turistificación",
-            "comunidad valenciana",
-            "protestas sociales",
-            "vivienda",
-            "viviendas alquiler",
-            "alojamientos",
-            "manifestaciones",
-            "ayuntamiento valencia",
-            "viviendas vacías",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-20/decenas-de-personas-acampan-frente-al-ayuntamiento-de-valencia-en-protesta-por-los-precios-de-la-la-vivienda.html",
-        "date": "2024-10-20 12:29:32",
-        "sentiment_score": 0.006233617663383484
-    },
-    {
-        "title": "Miles de personas se manifiestan en Madrid contra los casos de corrupción que achacan al Gobierno del PSOE",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OTAEDOD3KGVW6TEQ7GRNSE7QSA.jpg?auth=4931b5907c91a90bf52402289e0fa192eb20b9a1f25a23098f8e9c13082659d4&width=1200",
-        "tags": [
-            "psoe",
-            "jaime mayor oreja",
-            "españa",
-            "corrupción",
-            "pp",
-            "koldo garcía",
-            "vox",
-            "josé luis ábalos"
-        ],
-        "link": "https://elpais.com/espana/2024-10-20/miles-de-personas-se-manifiestan-en-madrid-contra-los-casos-de-corrupcion-que-achacan-al-gobierno-del-psoe.html",
-        "date": "2024-10-20 11:43:37",
-        "sentiment_score": -0.6223359815776348
     },
     {
         "title": "Messi jugará en el nuevo Mundial de Clubes, tras la invitación al Inter de Miami al torneo",
@@ -6676,5 +6606,472 @@ export default [
         "link": "https://2001online.com/farandula/paula-echevarria-regresa-a-la-actuacion-junto-a-william-levy-2024102316350",
         "date": "2024-10-23 20:35:00",
         "sentiment_score": 0.13824614137411118
+    },
+    {
+        "title": "Valtteri Bottas, piloto de la F1, se come unos tacos en las calles de México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-05-00-00-45-01-still005.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/valtteri-bottas-f1-tacos-mexico-calles-vo",
+        "date": "2024-10-24 02:12:49",
+        "sentiment_score": -0.3615211918950081
+    },
+    {
+        "title": "Kamala Harris a votantes indecisos: Donald Trump no quiso encontrarse con ustedes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180626590-20241024020309736.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos",
+            "kamala harris",
+            "xpress",
+            "fast – news briefs",
+            "noticias de donald trump",
+            "foros de cnn"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-harris-town-hall-trump-no-quiso-estar-aqui-tv/",
+        "date": "2024-10-24 02:07:05",
+        "sentiment_score": -0.4973701685667038
+    },
+    {
+        "title": "Harris dice que Trump admira a dictadores: \"Le manda cartas de amor a Kim Jong-Un\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179751873.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos",
+            "xpress",
+            "kim jong un",
+            "fast – news briefs",
+            "noticias de donald trump",
+            "corea del norte"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-harris-donald-trump-kim-jongun-cartas-de-amor/",
+        "date": "2024-10-24 01:59:36",
+        "sentiment_score": -0.30373576283454895
+    },
+    {
+        "title": "Videos muestran enfrentamiento entre policía e hinchas uruguayos durante semi de la libertadores",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-05-00-00-11-14-still004.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hinchas",
+            "xpress",
+            "fútbol",
+            "final copa libertadores",
+            "fast – sports"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hinchas-uruguayos-violecia-rio-de-janeiro-videos-policia-libertadores-vo/",
+        "date": "2024-10-24 01:58:55",
+        "sentiment_score": -0.7642361279577017
+    },
+    {
+        "title": "Campos: Fernando Valenzuela fue increíble dentro y fuera del terreno",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-3383274.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/legado-fernando-valenzuela-analisis-beisbol-grandes-ligas-deportes-tv",
+        "date": "2024-10-24 01:57:41",
+        "sentiment_score": 0.7958852760493755
+    },
+    {
+        "title": "El fenómeno de Fernando Valenzuela en México y EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1409786424.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fenomeno-fernando-valenzuela-mexico-estados-unidos-panorama-tv-fast",
+        "date": "2024-10-24 01:53:37",
+        "sentiment_score": 0.0024230778217315674
+    },
+    {
+        "title": "Kamala Harris se burla del muro de Trump y promete fortalecer la frontera si gana la Presidencia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179746459.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "muro antiinmigrantes",
+            "kamala harris",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/votantes-apoyo-democratas-harris-cnn-muro-trump-dusa-tv/",
+        "date": "2024-10-24 01:50:40",
+        "sentiment_score": -0.5385114252567291
+    },
+    {
+        "title": "Las reformas electorales de Venezuela estarán listas antes del 15 de diciembre, dice el presidente de la Asamblea",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1761556-asamblea-nacional-venezuela.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/23/reformas-electorales-venezuela-diciembre-presidente-asamblea-orix/",
+        "date": "2024-10-24 01:49:54",
+        "sentiment_score": 0.04432199150323868
+    },
+    {
+        "title": "Kamala Harris: Mi gobierno no sería una continuación de la administración de Biden",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180626590.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news briefs",
+            "ee.uu.",
+            "joe biden",
+            "kamala harris",
+            "xpress",
+            "elecciones estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/democrata-contienda-kamala-votantes-foro-cnn-biden-dusa-tv/",
+        "date": "2024-10-24 01:47:32",
+        "sentiment_score": -0.20388728380203247
+    },
+    {
+        "title": "Un jurado investigador de EE.UU. acusa de lavado de dinero al empresario venezolano Raúl Gorrín Belisario, dueño de Globovisión",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771132-globovision-lavado-dinero-raul-gorrin.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela",
+            "pdvsa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/23/jurado-investigador-ee-uu-acusa-lavado-dinero-empresario-venezolano-raul-gorrin-belisario-dueno-globovision-orix/",
+        "date": "2024-10-24 01:36:05",
+        "sentiment_score": -0.7742802891880274
+    },
+    {
+        "title": "Tomás Farini: «Jurídicamente no hay ninguna razón para que no haya orden de captura contra Maduro»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/23/farini-R7RKM2v133CpHzo8dTTuvPN-1200x840@diario_abc.jpeg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/tomas-farini-juridicamente-razon-orden-captura-maduro-20241023194244-nt.html",
+        "date": "2024-10-24 02:14:45",
+        "sentiment_score": -0.14877085387706757
+    },
+    {
+        "title": "¿Qué impacto tiene Oriente Próximo en las elecciones de Estados Unidos?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/23/sur-beirut_20241023165656-RugrTdtI8PEzXPO5aOeKC9H-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pedro-rodriguez-impacto-oriente-proximo-elecciones-estados-unidos-20241023165433-nt.html",
+        "date": "2024-10-24 02:12:35",
+        "sentiment_score": -0.023537904024124146
+    },
+    {
+        "title": "La reducción de las jornadas laborales acortó un 40% el crecimiento de la economía española tras la pandemia",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/24/seatmartorell-RCFsNpr29fbz6mWgFVgzzNL-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/reduccion-jornadas-laboral-acorto-crecimiento-economia-espanola-20241024203155-nt.html",
+        "date": "2024-10-24 02:06:21",
+        "sentiment_score": -0.06572455167770386
+    },
+    {
+        "title": "Madrid acapara el 60% de la inversión extranjera llegada a España desde 1993",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/23/8132843-RxDHp4vKW4LXCXvldChMLIM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/madrid-acapara-inversion-extranjera-llegada-espana-1993-20241023173555-nt.html",
+        "date": "2024-10-24 02:06:03",
+        "sentiment_score": -0.144662544131279
+    },
+    {
+        "title": "Sumar aprieta a Hacienda para endurecer la reducción en el IRPF que beneficia a dos millones de caseros",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/24/MonteroYolandaTania-ReENr5S4hDmaU9uY4icckYJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sumar-aprieta-hacienda-endurecer-reduccion-irpf-beneficia-20241024205020-nt.html",
+        "date": "2024-10-24 02:01:06",
+        "sentiment_score": -0.06156446039676666
+    },
+    {
+        "title": "Harris utiliza los presuntos elogios de Trump a Hitler en una campaña ya embarrada",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/24/kamala-trump-ksSH-U603245836806TpC-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/harris-utiliza-presuntos-elogios-trump-hitler-campana-20241024024740-nt.html",
+        "date": "2024-10-24 00:47:40",
+        "sentiment_score": -0.1480877548456192
+    },
+    {
+        "title": "El Hospital Ruber Internacional renueva su Servicio de Oncología Médica para ofrecer tratamientos personalizados de vanguardia y atención integral",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/10/23/fotocabecera(2).jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/hospital-ruber-internacional-renueva-servicio-oncologia-medica-20241024190000-nt.html",
+        "date": "2024-10-23 23:01:00",
+        "sentiment_score": 0.03833058476448059
+    },
+    {
+        "title": "De Europa a sobrevivir con Lim",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b78cf1aa-9b87-41b8-89a8-b07ed80270a6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/24/europa-sobrevivir-lim-110226005.html",
+        "date": "2024-10-24 02:00:42",
+        "sentiment_score": 0.36594562977552414
+    },
+    {
+        "title": "No falten cases, sobra gent",
+        "image_url": "https://uh.gsstatic.es/autor/josep-palou/11885.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/24/2263931/falten-cases-sobra-gent.html",
+        "date": "2024-10-24 02:00:01",
+        "sentiment_score": -0.3256629854440689
+    },
+    {
+        "title": "2024 ESG Global Leaders Conference Concludes in Shanghai: Uniting 270+ Global Leaders for Sustainable Development",
+        "image_url": "https://bloximages.newyork1.vip.townnews.com/woonsocketcall.com/content/tncms/assets/v3/editorial/9/fc/9fc839f5-c516-5f5d-9d1c-385f4609760a/6719ebecbfda8.image.jpg?resize=300%2C169",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.woonsocketcall.com/online_features/press_releases/2024-esg-global-leaders-conference-concludes-in-shanghai-uniting-270-global-leaders-for-sustainable-development/article_fad3a834-257d-579b-8334-dfb6c81d36f5.html",
+        "date": "2024-10-24 01:44:00",
+        "sentiment_score": 0.6547561287879944
+    },
+    {
+        "title": "Informe COPE: \"Integrar hace de la inmigración una oportunidad\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/10/24/67199f225fd35.jpeg",
+        "tags": [
+            "especiales cope"
+        ],
+        "link": "https://www.cope.es/actualidad/especiales-cope/noticias/informe-cope-integrar-inmigracion-oportunidad-20241024_3033605.html",
+        "date": "2024-10-24 01:26:37",
+        "sentiment_score": -0.07044991850852966
+    },
+    {
+        "title": "El Barça de Flick ya no va de tapado: presenta candidatura a ganar la Champions",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/24/culemania/primer-equipo/895920421_13623038_1706x960.jpg?contentId=ESPIMA20241024_0022",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241024/el-barca-de-flick-presenta-candidatura-champions/895910402_0.html",
+        "date": "2024-10-24 00:26:03",
+        "sentiment_score": -0.12317368388175964
+    },
+    {
+        "title": "Con Raphinha inspirado el Barcelona ha vuelto",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2024/10/Sin-titulo-1-50.jpg",
+        "tags": [
+            "noticias destacadas",
+            "deportes",
+            "raphinha",
+            "barcelona fc",
+            "bayern"
+        ],
+        "link": "https://elsiglo.com.ve/2024/10/23/con-raphinha-inspirado-el-barcelona-ha-vuelto/",
+        "date": "2024-10-24 00:14:41",
+        "sentiment_score": 0.40030723810195923
+    },
+    {
+        "title": "Socios de Aldama señalan que el hijo de Ábalos formaba parte de la trama y oculta patrimonio en el extranjero",
+        "image_url": "https://s1.elespanol.com/2024/10/23/espana/895671373_250307759_1706x960.png?contentId=ESPIMA20241023_0949",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241024/socios-aldama-senalan-hijo-abalos-formaba-parte-trama-oculta-patrimonio-extranjero/895661011_0.html",
+        "date": "2024-10-23 23:56:50",
+        "sentiment_score": -0.571955444291234
+    },
+    {
+        "title": "EISAI TO PRESENT UPDATED DUAL-ACTING LECANEMAB DATA, RESEARCH ON BLOOD BIOMARKERS FOR PREDICTING PRESENCE OF AMYLOID IN THE BRAIN AND NEW FINDINGS ON THE ANTI-MTBR (MICROTUBULE BINDING REGION) TAU ANTIBODY E2814 AT THE 17TH CLINICAL TRIALS FOR ALZHEIMER'S DISEASE CONFERENCE (CTAD)",
+        "image_url": "https://bloximages.newyork1.vip.townnews.com/woonsocketcall.com/content/tncms/assets/v3/editorial/9/48/9488f77a-fa17-53f5-a1be-d807877fa0a5/6719ebcdbb1aa.image.jpg?resize=300%2C180",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.woonsocketcall.com/online_features/press_releases/eisai-to-present-updated-dual-acting-lecanemab-data-research-on-blood-biomarkers-for-predicting-presence/article_9508e83a-3802-5735-9e79-01d5ff843deb.html",
+        "date": "2024-10-23 23:36:00",
+        "sentiment_score": 0.025720655918121338
+    },
+    {
+        "title": "Madrid pierde 460.000 m2 de suelo y mueve su frontera a la M-50: el pacto con Rivas que incluye a la Cañada Real",
+        "image_url": "https://s1.elespanol.com/2021/01/07/invertia/empresas/energia/549456917_169058846_1706x960.jpg?contentId=ESPIMA20210107_1868",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241024/madrid-pierde-m2-suelo-mueve-frontera-m-50-pacto-rivas-incluye-canada-real/895660798_0.html",
+        "date": "2024-10-23 23:27:12",
+        "sentiment_score": 0.1687486171722412
+    },
+    {
+        "title": "Pedri, Lamine y Fermín consuman su venganza más anhelada: \"Les teníamos muchas ganas\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/24/culemania/primer-equipo/895920414_13622795_1706x960.jpg?contentId=ESPIMA20241024_0015",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241024/pedri-lamine-fermin-consuman-venganza-anhelada-le/895660558_0.html",
+        "date": "2024-10-23 23:17:32",
+        "sentiment_score": 0.04114815592765808
+    },
+    {
+        "title": "Carlos Peña: Roció a su mujer con gasolina y la quemó viva cuando dormía con su bebé Alcúdia",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3049877.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2024/10/24/2263287/carlos-pena-rocio-mujer-gasolina-quemo-viva-finca-alcudia.html",
+        "date": "2024-10-24 02:00:01",
+        "sentiment_score": -0.18773898482322693
+    },
+    {
+        "title": "La fotógrafa Marga Moner narra lo cotidiano en 'Corneta'",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3051247.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/24/2263985/arte-mallorca-entrevista-fotografa-marga-moner.html",
+        "date": "2024-10-24 02:00:01",
+        "sentiment_score": -0.00877445936203003
+    },
+    {
+        "title": "El zapatero de Ciutadella que era barítono",
+        "image_url": "https://uh.gsstatic.es/autor/josep-pons-fraga/48.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/24/2263737/zapatero-ciutadella-era-baritono.html",
+        "date": "2024-10-24 02:00:01",
+        "sentiment_score": 0.022952109575271606
+    },
+    {
+        "title": "Alemania anuncia la entrega de 60 millones de euros de ayuda humanitaria a Líbano",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241024033420_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-alemania-anuncia-entrega-60-millones-euros-ayuda-humanitaria-libano-20241024033420.html",
+        "date": "2024-10-24 01:34:20",
+        "sentiment_score": -0.1451951265335083
+    },
+    {
+        "title": "¿Qué acuerdos estratégicos cerraron España y Portugal en la Cumbre Ibérica?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/24/2024102403140089840.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/que-acuerdos-estrategicos-pactaron-espana-portugal-cumbre-iberica/20241024031505321687.html",
+        "date": "2024-10-24 01:15:05",
+        "sentiment_score": 0.44873515143990517
+    },
+    {
+        "title": "El secreto de Humana para ser líder en ropa de segunda mano en España: \"18.000 toneladas al año\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2024/10/23/6719702e57b99.jpeg",
+        "tags": [
+            "poniendo las calles"
+        ],
+        "link": "https://www.cope.es/programas/poniendo-las-calles/audios/empieza-recoger-ropa-usada-37-anos-y-vende-90-ciento-empresa-18-000-toneladas-ano-20241024_3033579.html",
+        "date": "2024-10-24 00:27:50",
+        "sentiment_score": -0.027253419160842896
+    },
+    {
+        "title": "Barcelona goleó al Bayern Munich y quedó listo para jugar El Clásico este fin de semana",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179684207.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/barcelona-goleo-bayern-munich-quedo-listo-el-clasico-champions-league-futbol-deportes-tv",
+        "date": "2024-10-24 00:24:31",
+        "sentiment_score": 0.6865200884640217
+    },
+    {
+        "title": "Cabello vincula a Juan Carlos Escotet con el envío de mercenarios",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cabello-vincula-a-juan-carlos-escotet-con-el-envio-de-mercenarios-2024102322140",
+        "date": "2024-10-24 02:14:00",
+        "sentiment_score": -0.05784245580434799
+    },
+    {
+        "title": "Tarek William Saab anuncia el plan “El Ministerio Público visita tu comuna”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/tarek-william-saab-anuncia-el-plan-el-ministerio-publico-visita-tu-comuna--202410232290",
+        "date": "2024-10-24 02:09:00",
+        "sentiment_score": 0.060705579817295074
+    },
+    {
+        "title": "Aplican \"Plan Chatarra\" para liberar espacios en comunidades de Caracas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/aplican-plan-chatarra-para-liberar-espacios-en-comunidades-de-caracas-202410232200",
+        "date": "2024-10-24 02:00:00",
+        "sentiment_score": -0.004068046808242798
+    },
+    {
+        "title": "EEUU | Sepa cuáles son las nuevas escalas tributarias del IRS para 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-sepa-cuales-son-las-nuevas-escalas-tributarias-del-irs-para-2025--2024102321500",
+        "date": "2024-10-24 01:50:00",
+        "sentiment_score": 0.10387382283806801
+    },
+    {
+        "title": "Optimiza tu WhatsApp con la inteligencia artificial de Microsoft Copilot",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - tecnología"
+        ],
+        "link": "https://2001online.com/zona3d/tecnologia/optimiza-tu-whatsapp-con-la-inteligencia-artificial-de-microsoft-copilot-2024102321470",
+        "date": "2024-10-24 01:47:00",
+        "sentiment_score": -0.453207042068243
+    },
+    {
+        "title": "Tutorial para registrarse y recibir la pensión 100% Amor Mayor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/tutorial-para-registrarse-y-recibir-la-pension-100-amor-mayor-2024102321310",
+        "date": "2024-10-24 01:31:00",
+        "sentiment_score": 0.011861205101013184
+    },
+    {
+        "title": "Sepa cuántas veces puede viajar en el año a EEUU y entrar sin problemas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/sepa-cuantas-veces-puede-viajar-en-el-ano-a-eeuu-y-entrar-sin-problemas-2024102321160",
+        "date": "2024-10-24 01:16:00",
+        "sentiment_score": -0.12494619935750961
+    },
+    {
+        "title": "Fiscalía defiende a los hermanos Menéndez y asegura que \"no son un peligro\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/fiscalia-defiende-a-los-hermanos-menendez-y-asegura-que-no-son-un-peligro--202410232190",
+        "date": "2024-10-24 01:09:00",
+        "sentiment_score": -0.6052074171602726
+    },
+    {
+        "title": "Conozca las 22 empresas que entregan visa de trabajo a mexicanos (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conozca-las-22-empresas-que-entregan-visa-de-trabajo-a-mexicanos-detalles--202410232170",
+        "date": "2024-10-24 01:07:00",
+        "sentiment_score": 0.6166946534067392
+    },
+    {
+        "title": "Ofrecerán motos financiadas en este evento en Caracas el fin de semana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/ofreceran-motos-financiadas-en-este-evento-en-caracas-el-fin-de-semana-2024102320270",
+        "date": "2024-10-24 00:27:00",
+        "sentiment_score": 0.28654936142265797
     }
 ];
