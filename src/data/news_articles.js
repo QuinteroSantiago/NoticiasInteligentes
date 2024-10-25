@@ -1,235 +1,5 @@
 export default [
     {
-        "title": "'60 Minutes' rechaza las afirmaciones de Trump de que editó un clip para Harris mientras el expresidente pide una investigación",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769524-trump-1440bd.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "60 minutes",
-            "donald trump",
-            "estados unidos noticias",
-            "trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/21/60-minutes-rechaza-afirmaciones-de-trump-de-que-edito-un-clip-harris-mientras-trump-pide-investigacion-trax/",
-        "date": "2024-10-21 06:09:51",
-        "sentiment_score": -0.47190170362591743
-    },
-    {
-        "title": "Varias personas murieron, incluido un niño, cuando un helicóptero se estrelló contra una torre de comunicaciones de Houston",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769516-helicoptero.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "helicóptero",
-            "accidentes",
-            "accidente",
-            "houston"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/21/varias-personas-murieron-incluido-nino-helicopter-estrello-contra-torre-comunicaciones-houston-trax/",
-        "date": "2024-10-21 05:16:37",
-        "sentiment_score": -0.7534826993942261
-    },
-    {
-        "title": "Control por tierra y aire en Líbano: las condiciones que pondría Israel para una solución diplomática al conflicto con Hizbolá",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/21/netanyahu-n-kf3B-U603231114715I-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/control-tierra-aire-libano-condiciones-pondria-israel-20241021071023-nt.html",
-        "date": "2024-10-21 05:11:13",
-        "sentiment_score": -0.16979153454303741
-    },
-    {
-        "title": "Normalidad en Atocha tras el caos ferroviario del fin de semana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SG4BT7IYKBEMRJNU7RRYREOPJU.jpg?auth=b70fc7ce8a8dd19db08459d9402937250895dfbd8a90693bbd474f5e1cb9baed&width=1200",
-        "tags": [
-            "transporte ferroviario",
-            "trenes",
-            "cercanías",
-            "madrid",
-            "comunidad de madrid",
-            "estaciones ferrocarril",
-            "chamartín",
-            "transporte",
-            "incidencias transporte"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-21/normalidad-en-atocha-tras-el-caos-ferroviario-del-fin-de-semana.html",
-        "date": "2024-10-21 05:55:42",
-        "sentiment_score": -0.017282448709011078
-    },
-    {
-        "title": "La razón por la que el Parque del Retiro se llama así",
-        "image_url": "https://okdiario.com/img/2024/10/19/la-razon-por-la-que-el-parque-del-retiro-se-llama-asi.jpg",
-        "tags": [
-            "parque del retiro",
-            "españa",
-            "madrid",
-            "parques",
-            "parque de el retiro",
-            "el retiro"
-        ],
-        "link": "https://okdiario.com/madrid/razon-que-parque-del-retiro-llama-asi-13666762",
-        "date": "2024-10-21 06:15:31",
-        "sentiment_score": 0.018613070249557495
-    },
-    {
-        "title": "El Corredor Atlántico, un eje estratégico",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/03/12/2024031221213112822.jpg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.mundiario.com/articulo/opiniones/corredor-atlantico-eje-estrategico/20241021081155321330.html",
-        "date": "2024-10-21 06:11:55",
-        "sentiment_score": -0.8905460266396403
-    },
-    {
-        "title": "Viví 10 años en Estados Unidos y esto es todo lo que aprendí sobre la cultura de 'la tierra de las oportunidades'",
-        "image_url": "https://s1.elespanol.com/2024/10/18/mujer/protagonistas/894420723_250106924_1706x960.jpg?contentId=ESPIMA20241018_0174",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/protagonistas/20241021/vivi-anos-unidos-aprendi-cultura-tierra-oportunidades/894410639_0.html",
-        "date": "2024-10-21 06:09:43",
-        "sentiment_score": -0.47762055695056915
-    },
-    {
-        "title": "Este es el privilegio real más desconocido de Palencia: exime a las mujeres de inclinarse ante los Reyes",
-        "image_url": "https://s1.elespanol.com/2024/10/16/mujer/actualidad/893921282_250059887_1706x960.jpg?contentId=ESPIMA20241016_0683",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/actualidad/20241021/privilegio-real-desconocido-palencia-exime-mujeres-inclinarse-reyes/893410756_0.html",
-        "date": "2024-10-21 06:06:53",
-        "sentiment_score": 0.25899726152420044
-    },
-    {
-        "title": "Una de cada cinco viviendas en venta cambia de manos en menos de un mes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9579374f-fb6f-4ac5-9fba-29552169b9ed_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/economia/2024/10/21/cinco-viviendas-venta-cambia-manos-109928477.html",
-        "date": "2024-10-21 06:00:04",
-        "sentiment_score": 0.020889848470687866
-    },
-    {
-        "title": "El Festival del Sur monta el circo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/38af2480-bd45-4444-b1d3-7c26946af779_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/gran-canaria/2024/10/21/festival-sur-monta-circo-109921656.html",
-        "date": "2024-10-21 06:00:03",
-        "sentiment_score": -0.04547719657421112
-    },
-    {
-        "title": "La Asociación TDAH estará \"muy pronto\" en su nuevo local",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1113826",
-        "date": "2024-10-21 05:45:18",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "La presión policial en la Cañada Real dispersa a los narcos por los barrios de Madrid",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/18/policia-nacional-realiza-registros-en-canada-real-en-una-foto-de-archivo.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/noticia/5645399/0/presion-policial-canada-real-dispersa-los-narcos-por-los-barrios-madrid/",
-        "date": "2024-10-21 05:42:06",
-        "sentiment_score": -0.48220495134592056
-    },
-    {
-        "title": "El juez votado por el PP propone multar a Sánchez con hasta 6.000 euros en defensa de Peinado",
-        "image_url": "https://www.elplural.com/uploads/s1/18/44/96/5/el-presidente-del-gobierno-pedro-sanchez-bebe-agua-durante-una-sesion-de-control-al-gobierno-en-el-congreso-de-los-diputados-a-9-de-octubre-de-2024_7_480x270.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.elplural.com/politica/juez-votado-pp-propone-multar-sanchez-hasta-6000-euros-defensa-peinado_339553102",
-        "date": "2024-10-21 05:39:21",
-        "sentiment_score": -0.0913706123828888
-    },
-    {
-        "title": "Desesperación por otra noche de incidencias en los trenes con destino Madrid: \"Más de 120 minutos paraditos\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2024/10/20/088EE627-F636-43F2-922C-B6D208ED32CA/personas-subiendo-tren-atocha_70.jpg?crop=5152%2C2898%2Cx0%2Cy271&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "españa"
-        ],
-        "link": "https://www.antena3.com/noticias/espana/desesperacion-otra-noche-incidencias-trenes-destino-madrid-mas-120-minutos-paraditos_202410216715f526e2e54f0001876990.html",
-        "date": "2024-10-21 06:31:03",
-        "sentiment_score": -0.6561224013566971
-    },
-    {
-        "title": "Estas líneas del tranvía de Barcelona cambian su recorrido por la ampliación de la red",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/01/05/movilidad/548955131_11531366_1706x960.jpg?contentId=ESPIMA20210105_0032",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20241021/estas-lineas-del-tranvia-de-barcelona-cambian-su-recorrido-por-la-ampliacion-red/895160486_0.html",
-        "date": "2024-10-21 06:29:15",
-        "sentiment_score": -0.29952123761177063
-    },
-    {
-        "title": "Presión contra el botellón, el narcotráfico y las armas en la zona de ocio nocturno de Mataró",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/21/6715f19521174.r_d.3000-2000-0.jpeg",
-        "tags": [
-            "mataró - maresme"
-        ],
-        "link": "https://www.lavanguardia.com/local/maresme/20241021/10037632/presion-botellon-narcotrafico-armas-zona-ocio-nocturno-mataro.html",
-        "date": "2024-10-21 06:24:59",
-        "sentiment_score": 0.12832212448120117
-    },
-    {
-        "title": "Ni Tarragona ni Barcelona: el último descubrimiento del Imperio Romano está en una montaña al norte de Cataluña",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/21/vida/895170485_13608420_1706x960.jpg?contentId=ESPIMA20241021_0011",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/historia/20241021/ni-tarragona-barcelona-descubrimiento-imperio-romano-cataluna/895160485_0.html",
-        "date": "2024-10-21 06:23:33",
-        "sentiment_score": -0.08454278111457825
-    },
-    {
-        "title": "Un acto de ocho horas y media",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/27f41c65-3a6b-42e7-a56b-6f0626a994cf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/opinion/2024/10/21/acto-ocho-horas-media-8830507.html",
-        "date": "2024-10-21 06:19:07",
-        "sentiment_score": -0.8707711193710566
-    },
-    {
-        "title": "Osasuna, un asedio como nunca",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/86c89dae-d7e4-4823-88e3-b805bd029187_16-9-aspect-ratio_default_0_x392y322.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2024/10/21/osasuna-asedio-8830509.html",
-        "date": "2024-10-21 06:14:58",
-        "sentiment_score": -0.041450321674346924
-    },
-    {
-        "title": "Este es el curioso animal escondido en una iglesia medieval de Barcelona: inspiró a Mark Twain",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2018/08/27/vivir-en-barcelona/vivir_en_barcelona_333476651_10408525_1706x960.jpg?contentId=ESPIMA20180827_0002",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241021/este-es-el-curioso-animal-escondido-en-una-iglesia-medieval-de-barcelona-inspiro-mark-twain/895160484_0.html",
-        "date": "2024-10-21 06:12:29",
-        "sentiment_score": 0.736623253673315
-    },
-    {
-        "title": "¿Cuántas discotecas en España abren antes ya para el tardeo? Esto dicen los dueños",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dfe69145-d409-48d7-9eec-a576c612697f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/economia/activos/2024/10/21/discotecas-espana-abren-tardeo-negocio-109933195.html",
-        "date": "2024-10-21 06:12:06",
-        "sentiment_score": -0.04747125506401062
-    },
-    {
         "title": "McDonald's no dio permiso a Trump para servir papas fritas en su restaurante. Y tampoco lo necesitaba",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769699-2024-10-20t190726z-229935161-rc2joaa3xwhs-rtrmadp-3-usa-election-trump.jpeg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -7041,5 +6811,631 @@ export default [
         "link": "https://2001online.com/deportes/el-casco-que-usara-franco-colapinto-para-rendir-homenaje-a-reconocida-leyenda-de-formula-1-2024102412320",
         "date": "2024-10-24 16:32:00",
         "sentiment_score": 0.35904924757778645
+    },
+    {
+        "title": "Fox News editó las respuestas confusas y las afirmaciones falsas de Trump en su entrevista en una barbería",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771534-gettyimages-2180589131.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "trump",
+            "elecciones en estados unidos",
+            "fox news"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/24/fox-news-edita-afirmaciones-falsas-trump-trax/",
+        "date": "2024-10-24 22:06:10",
+        "sentiment_score": -0.74903335981071
+    },
+    {
+        "title": "Fiscal de Los Ángeles recomienda una nueva sentencia en el caso de los hermanos Menéndez",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771580-hermanos-menendez-nueva-sentencia-fiscalia-los-angeles.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "crimen",
+            "bob menendez",
+            "los ángeles"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/24/fiscal-los-angeles-nueva-sentencia-caso-hermanos-menendez-trax/",
+        "date": "2024-10-24 22:03:32",
+        "sentiment_score": -0.5560707524418831
+    },
+    {
+        "title": "Los clavadistas de la Quebrada, un salto hacia la resiliencia tras los daños de Otis",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/clavadistas-acapulco-otis-huracan-perspectivas-mexico-tv",
+        "date": "2024-10-24 21:55:24",
+        "sentiment_score": -0.31413063406944275
+    },
+    {
+        "title": "Los clavadistas de la Quebrada, un salto hacia la resiliencia tras los daños de Otis",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1251811691.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "huracanes",
+            "huracán otis",
+            "acapulco",
+            "huracán",
+            "otis"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/clavadistas-acapulco-otis-huracan-perspectivas-mexico-tv/",
+        "date": "2024-10-24 21:55:24",
+        "sentiment_score": -0.5530018582940102
+    },
+    {
+        "title": "Así fue el divertido baile de máscaras de mascotas en Florida",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mascarada-de-mascotas-florida-orix",
+        "date": "2024-10-24 21:53:27",
+        "sentiment_score": 0.5441550854593515
+    },
+    {
+        "title": "Así fue el divertido baile de máscaras de mascotas en Florida",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/horizontal-mascotas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "mascotas",
+            "noticias de ee.uu.",
+            "disfraces",
+            "florida"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mascarada-de-mascotas-florida-orix/",
+        "date": "2024-10-24 21:53:27",
+        "sentiment_score": 0.3647811934351921
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 24 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-24-de-octubre-2024-directusa-tarde-fast",
+        "date": "2024-10-24 21:49:00",
+        "sentiment_score": 0.09271210804581642
+    },
+    {
+        "title": "Un soldado israelí dice que su unidad utilizó a palestinos como escudos humanos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21067269-30120-487-still-3-20241024212715702.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fdi",
+            "israel noticias",
+            "israel",
+            "medio oriente",
+            "guerra israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sldado-israeli-unidad-palestinos-escudos-trax/",
+        "date": "2024-10-24 21:33:21",
+        "sentiment_score": -0.6431303583085537
+    },
+    {
+        "title": "Un soldado israelí dice que su unidad utilizó a palestinos como escudos humanos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sldado-israeli-unidad-palestinos-escudos-trax",
+        "date": "2024-10-24 21:33:21",
+        "sentiment_score": -0.47990401089191437
+    },
+    {
+        "title": "¿Hay futuro para Acapulco luego del impacto del huracán Otis?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/miniatura-1.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "huracán otis",
+            "huracán",
+            "acapulco",
+            "méxico",
+            "otis",
+            "huracán john"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/acapulco-impacto-otis-huracanes-john-devastacion-perspectivas-mexico-tv/",
+        "date": "2024-10-24 21:22:47",
+        "sentiment_score": -0.5760240070521832
+    },
+    {
+        "title": "Apología del conguito negro",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/10/25/conguitos-kHjG-RRct6q2Uejte6GvY6r7OuXP-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-apologia-conguito-negro-20241025222125-nt.html",
+        "date": "2024-10-24 20:31:13",
+        "sentiment_score": -0.1182294487953186
+    },
+    {
+        "title": "Amenazas de muerte a una de los jueces responsables de tumbar el envío de inmigrantes a Albania del Gobierno Meloni",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/24/Albania-kylG-U603250160086Rs-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/amenazas-muerte-jueces-responsables-tumbar-envio-inmigrantes-20241024220912-nt.html",
+        "date": "2024-10-24 20:09:12",
+        "sentiment_score": -0.2939647287130356
+    },
+    {
+        "title": "Dios de los que sufren",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/25/tribuna-sufrimiento-R6xb9IrgfawyeLTTPMRLAqI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/paco-perez-valencia-dios-sufren-20241025165221-nts.html",
+        "date": "2024-10-24 18:49:54",
+        "sentiment_score": -0.022706210613250732
+    },
+    {
+        "title": "Un hombre en una silla",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-hombre-silla-20241025181957-nts.html",
+        "date": "2024-10-24 18:49:40",
+        "sentiment_score": -0.08285918831825256
+    },
+    {
+        "title": "La pornopolítica",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-pornopolitica-20241025192643-nts.html",
+        "date": "2024-10-24 18:48:56",
+        "sentiment_score": -0.15921589732170105
+    },
+    {
+        "title": "Errejón se marcha acorralado",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/16/policianacional--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-errejon-marcha-acorralado-20241025195656-nt.html",
+        "date": "2024-10-24 18:12:17",
+        "sentiment_score": -0.14067400991916656
+    },
+    {
+        "title": "Más de 300.000 empleados faltan cada día al trabajo sin justificación médica",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/25/dos-trabajadores-industria-rober-solsona-europa-press-archivo_11_1100x632-R4CgBGV7VxE7oHNzK7z1NnL-1200x840@diario_abc.jpeg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/300000-empleados-faltan-dia-trabajo-justificacion-medica-20241025201025-nt.html",
+        "date": "2024-10-24 18:10:26",
+        "sentiment_score": -0.13207077980041504
+    },
+    {
+        "title": "Un suplemento de vitamina K frena el cáncer de próstata en ratones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/24/Trotman_Vitamin-K-Suppl_20240829_HERO_img889-RWhGK0xFwtTElGGrjO7O5eI-1200x840@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/suplemento-vitamina-frena-cancer-prostata-ratones-20241024150541-nt.html",
+        "date": "2024-10-24 18:00:00",
+        "sentiment_score": -0.15591061115264893
+    },
+    {
+        "title": "Un plantón impropio de un Gobierno responsable",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/huelva/2024/10/22/guardia-civil-sentencia-U64445353820zsA-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-planton-impropio-gobierno-responsable-20241025195833-nt.html",
+        "date": "2024-10-24 17:58:37",
+        "sentiment_score": -0.5790206417441368
+    },
+    {
+        "title": "Las aguas turbulentas de la actualidad",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/10/25/241025TerceraSanz-RNPANYAxbqiQRoz3OYNaQxO-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-sanz-montes-aguas-turbulentas-actualidad-20241025195128-nt.html",
+        "date": "2024-10-24 17:51:28",
+        "sentiment_score": -0.17507588863372803
+    },
+    {
+        "title": "Heridos tres escolares al ser atropellados en Centelles por un coche sin frenos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SXIZVORVQVC6FAYTYFT2FU6Q3E.jpg?auth=11660be88879ac4f3641cbb20fff10d46a901243c4e66aac497ba36de8799315&width=1200",
+        "tags": [
+            "accidentes",
+            "barcelona",
+            "escolares",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-24/heridos-tres-escolares-al-ser-atropellados-en-centelles-por-un-coche-sin-frenos.html",
+        "date": "2024-10-24 20:26:01",
+        "sentiment_score": -0.5938505418598652
+    },
+    {
+        "title": "Illa anuncia que en noviembre se hará efectivo el aumento del 5% de las tarifas sociales",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PQ4E2EK3OFHEJO5GBFYAACLBQ4.jfif?auth=809c54f55c601fd8efa71b49a0fcf1df230d1a738c8bf84e23b691ec13871832&width=1200",
+        "tags": [
+            "barcelona",
+            "servicios sociales",
+            "salvador illa",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-24/illa-anuncia-que-en-noviembre-se-hara-efectivo-el-aumento-del-5-de-las-tarifas-sociales.html",
+        "date": "2024-10-24 19:59:54",
+        "sentiment_score": 0.43507444113492966
+    },
+    {
+        "title": "La JNC suspende de militancia a un afiliado tras denunciar su acoso una concejal de la CUP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Z5EJMSBRTRES3HXDNQGGOQT5CQ.png?auth=ece8d509e985fa2ee442ce5d9135949c2798d1ea129432f362783165da13850f&width=1200",
+        "tags": [
+            "cataluña",
+            "cup",
+            "acoso sexual",
+            "barcelona",
+            "sant cugat del vallès"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-24/la-jnc-suspende-de-militancia-a-un-afiliado-tras-denunciar-su-acoso-una-concejal-de-la-cup.html",
+        "date": "2024-10-24 18:49:22",
+        "sentiment_score": -0.9211811544373631
+    },
+    {
+        "title": "La dimisión de Errejón: una bomba en la izquierda feminista cuyos efectos van más allá de Sumar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/32GQTYXTYRBPDBYMBB5E57NDF4.jpg?auth=5d61d4a1d16da2dbd22b6930668685899fadc366f091217adaa468a09d3ab925&width=1200",
+        "tags": [
+            "podemos",
+            "yolanda díaz",
+            "denuncias",
+            "violencia sexual",
+            "españa",
+            "machismo",
+            "gobierno",
+            "pablo iglesias",
+            "íñigo errejón",
+            "sumar"
+        ],
+        "link": "https://elpais.com/espana/2024-10-24/la-dimision-de-errejon-una-bomba-en-la-izquierda-feminista-cuyos-efectos-van-mas-alla-de-sumar.html",
+        "date": "2024-10-24 18:26:19",
+        "sentiment_score": -0.2938203290104866
+    },
+    {
+        "title": "El Constitucional anula norma de la que se ha valido el Supremo para primar a los letrados jueces frente a otros funcionarios",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2ACJ4RPHV3D73KNGZTNQOZW7JI.jpg?auth=ef96d62699f728bf48f222e85eac32664d5b57687a76c5c4a0b94244fc002f09",
+        "tags": [
+            "tribunal supremo",
+            "tribunal constitucional",
+            "españa",
+            "sentencias",
+            "tribunales",
+            "justicia"
+        ],
+        "link": "https://elpais.com/espana/2024-10-24/el-constitucional-anula-norma-de-la-que-se-ha-valido-el-supremo-para-primar-a-los-letrados-jueces-frente-a-otros-funcionarios.html",
+        "date": "2024-10-24 17:37:32",
+        "sentiment_score": -0.31268875300884247
+    },
+    {
+        "title": "Más Madrid afirma que pidió el acta de Errejón después de que este le “confirmara los hechos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TBHERI5BYHJLBKVLRS6NOPFI6A.jpg?auth=eb79d60150068c4ab04612766fa272cbd95d1c9fe9bc7dc2415da05d9677c0dd",
+        "tags": [
+            "sumar",
+            "íñigo errejón",
+            "más madrid",
+            "españa",
+            "más país",
+            "violencia",
+            "política",
+            "podemos"
+        ],
+        "link": "https://elpais.com/espana/2024-10-24/mas-madrid-afirma-que-pidio-el-acta-de-errejon-despues-de-que-este-le-confirmara-los-hechos.html",
+        "date": "2024-10-24 17:22:36",
+        "sentiment_score": -0.1895519644021988
+    },
+    {
+        "title": "Jonás Trueba vuelve a Granada",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/25/trueba-cine.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/culturas/cine/jonas-trueba-vuelve-granada-20241025001108-nt.html",
+        "date": "2024-10-24 22:11:08",
+        "sentiment_score": 0.16697592288255692
+    },
+    {
+        "title": "Conoce Navalcarnero, el municipio madrileño que enamoró a Felipe IV",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/09/navalcarneroccomunidad-de-madrid-1440x808.jpg",
+        "tags": [
+            "madrid",
+            "comunidad de madrid",
+            "turismo"
+        ],
+        "link": "https://www.elindependiente.com/espana/madrid/2024/10/25/navalcarnero-municipio-madrileno-enamoro-felipe-iv/",
+        "date": "2024-10-24 22:06:42",
+        "sentiment_score": 0.39854802563786507
+    },
+    {
+        "title": "¿Quiénes son los padres de Rodrygo Goes? Te contamos todo sobre su familia",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/24/2024102421394433309.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/famosos/quienes-son-padres-rodrygo-goes-contamos-todo-familia/20241025000000865184.html",
+        "date": "2024-10-24 22:00:00",
+        "sentiment_score": 0.853839622810483
+    },
+    {
+        "title": "Guinda a la Liga de fútbol por no dejar pasar los insultos en redes",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/01/10/2024011009024643970.jpg",
+        "tags": [
+            "la guinda"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/la_guinda/guinda-liga-futbol-dejar-pasar-insultos-redes/20241025000000864997.html",
+        "date": "2024-10-24 22:00:00",
+        "sentiment_score": -0.8209803439676762
+    },
+    {
+        "title": "El precio por el que el Real Madrid podría fichar a Haaland en verano",
+        "image_url": "https://cflvdg.avoz.es/sc/mhRTMAN2zwmsCPhZ9LPVm8W7EiE=/768x/2024/10/24/00121729802275551480527/Foto/EuropaPress_6228551_22_september_2024_united_kingdom_manchester_manchester_citys_erling_haaland-EP.jpg",
+        "tags": [
+            "erling haaland",
+            "manchester city",
+            "fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/10/24/precio-real-madrid-fichar-haaland-verano/00031729802412591425327.htm",
+        "date": "2024-10-24 21:18:00",
+        "sentiment_score": 0.0015678927302360535
+    },
+    {
+        "title": "Real Madrid y Baskonia aplastan a Estrella Roja y Alba Berlín",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/10/24/671ab520d42ee.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/real-madrid-y-baskonia-aplastan-estrella-roja-y-alba-berlin-20241024_3034369.html",
+        "date": "2024-10-24 21:02:22",
+        "sentiment_score": 0.10651436448097229
+    },
+    {
+        "title": "Marianela Balbi: \"En Venezuela los periodistas ya no se atreven a firmar y utilizan avatares\"",
+        "image_url": "https://static.eldiario.es/clip/0ad1484e-2af6-40c5-b95a-bbee341d290a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.eldiario.es/internacional/marianela-balbi-venezuela-periodistas-no-atreven-firmar-utilizan-avatares_1_11760119.html",
+        "date": "2024-10-24 20:53:39",
+        "sentiment_score": -0.1980656236410141
+    },
+    {
+        "title": "Conmoción en el fútbol: fallece el exfutbolista del Getafe, Abdelaziz Barrada a los 35 años",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/10/24/2024102422314355792.png",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/futbol/conmocion-futbol-fallece-exfutbolista-getafe-abdelaziz-barrada-35-anos/20241024223528542418.html",
+        "date": "2024-10-24 20:35:28",
+        "sentiment_score": 0.8125885352492332
+    },
+    {
+        "title": "Detienen a los responsables de la campaña de odio contra Vinicius Jr",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/detienen-a-los-responsables-de-la-campana-de-odio-contra-vinicius-2024102416210",
+        "date": "2024-10-24 20:21:00",
+        "sentiment_score": -0.8203708063811064
+    },
+    {
+        "title": "Lionel Messi fue víctima de una “deepfake” para una estafa piramidal",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/AP24294042375674.jpg",
+        "tags": [
+            "fútbol",
+            "messi",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/10/24/lionel-messi-fue-victima-de-una-deepfake-para-una-estafa-piramidal/",
+        "date": "2024-10-24 20:03:28",
+        "sentiment_score": -0.8765669632703066
+    },
+    {
+        "title": "Las vistas al golf revalorizan las casas un 20%: así es la oferta en las zonas más caras",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/0cb3e3251cbc5b2f6f0eb4fe833cab30/crop/35x155/2031x1486/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/24/17298002549740.jpg",
+        "tags": [
+            "mercado inmobiliario>",
+            "casas>",
+            "inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/casas/2024/10/25/671aa7d3468aeb4c3c8b4570.html",
+        "date": "2024-10-24 22:05:56",
+        "sentiment_score": 0.7990868482738733
+    },
+    {
+        "title": "La IA Generativa, prioridad para el 58% de los CIOs",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2024/06/analitica-de-datos-1024x683.jpeg.webp",
+        "tags": [
+            "actualidad ti",
+            "cios",
+            "prioridades",
+            "ia generativa"
+        ],
+        "link": "https://revistabyte.es/actualidad-it/ia-generativa-cios/",
+        "date": "2024-10-24 22:05:00",
+        "sentiment_score": 0.1172027476131916
+    },
+    {
+        "title": "Más luces que sombras en el club de los Brics",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/24/671a8fd255240.r_d.2058-1333-0.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20241025/10049082/mas-luces-sombras-club-brics.html",
+        "date": "2024-10-24 22:05:00",
+        "sentiment_score": 0.7017291784286499
+    },
+    {
+        "title": "Crean gemelos digitales para tratar cáncer",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2023/11/16/B820F704-0775-405E-B14F-7484087EB593/gemelo-digital-replica-virtual-cuerpo-individuo_96.jpg?crop=1024%2C576%2Cx0%2Cy225&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "tecnología"
+        ],
+        "link": "https://www.larazon.es/tecnologia/crean-gemelos-digitales-tratar-cancer_20241025671ac36d2914190001e08dc6.html",
+        "date": "2024-10-24 22:00:13",
+        "sentiment_score": 0.301547035574913
+    },
+    {
+        "title": "David Bondia",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/24/examen-protagonistas/895920571_13627664_1706x960.jpg?contentId=ESPIMA20241024_0172",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20241025/david-bondia/895910519_0.html",
+        "date": "2024-10-24 22:00:00",
+        "sentiment_score": -0.03550812602043152
+    },
+    {
+        "title": "La limitación de los alquileres y el progresivo deterioro de los pisos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/12/vida/793930817_8707029_1706x960.jpg?contentId=ESPIMA20230912_0218",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20241025/la-limitacion-de-los-alquileres-progresivo-deterioro/896040394_13.html",
+        "date": "2024-10-24 22:00:00",
+        "sentiment_score": -0.7313359826803207
+    },
+    {
+        "title": "La Guardia Civil compra 12 millones de balas a una empresa de armas de Israel",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/21/2024102113022920859.jpg",
+        "tags": [
+            "seguridad"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/seguridad/guardia-civil-compra-12-millones-balas-empresa-armas-israel/20241024234932865198.html",
+        "date": "2024-10-24 22:00:00",
+        "sentiment_score": -0.8022196143865585
+    },
+    {
+        "title": "El Emirates busca ciudad en el Mediterráneo, con Valencia favorita, para la próxima Copa América",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/24/business/895920564_13627453_1706x960.jpg?contentId=ESPIMA20241024_0165",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241025/el-emirates-mediterraneo-valencia-favorita-copa-america/895660436_0.html",
+        "date": "2024-10-24 22:00:00",
+        "sentiment_score": -0.5182120054960251
+    },
+    {
+        "title": "Errejón, o morir por un tuit",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/10/13/pensamiento/801679978_8979693_1706x960.jpg?contentId=ESPIMA20231013_0154",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20241025/errejon-morir-por-un-tuit/896040395_13.html",
+        "date": "2024-10-24 22:00:00",
+        "sentiment_score": -0.7106468118727207
+    },
+    {
+        "title": "Suspende pagos en Barcelona la tienda de radios profesionales Locura Digital",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/02/vida/867423347_13172368_1706x960.png?contentId=ESPIMA20240702_0098",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20241025/suspende-barcelona-tienda-radios-profesionales-locura-digital/895910482_0.html",
+        "date": "2024-10-24 22:00:00",
+        "sentiment_score": -0.5305520817637444
+    },
+    {
+        "title": "EEUU | Confirman pago de $768 por cupones SNAP (+Fechas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-confirman-pago-de-768-por-cupones-snap-fechas--202410241810",
+        "date": "2024-10-24 22:01:00",
+        "sentiment_score": 0.14723839797079563
+    },
+    {
+        "title": "El protocolo \"militar\" de Oasis para evitar peleas entre los Gallagher",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729805275432/BeFunky-collage%20(16).jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/el-protocolo-militar-de-oasis-para-evitar-peleas-entre-los-gallagher-2024102417450",
+        "date": "2024-10-24 21:45:00",
+        "sentiment_score": -0.808489304035902
+    },
+    {
+        "title": "EEUU | ¿Cuáles estados otorgan cupones SNAP a inmigrantes?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-cuales-estados-otorgan-cupones-snap-a-inmigrantes--2024102417440",
+        "date": "2024-10-24 21:44:00",
+        "sentiment_score": 0.3882209435105324
+    },
+    {
+        "title": "Muere Geoff Capes, el \"Hombre Más Fuerte del Mundo\"",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729805439198/17297487135001.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/muere-geoff-capes-el-hombre-mas-fuerte-del-mundo--2024102417400",
+        "date": "2024-10-24 21:40:00",
+        "sentiment_score": -0.7905612252652645
+    },
+    {
+        "title": "Miami: Macy’s ofrece empleo a personas bilingües por $19 la hora",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/miami-macy-s-ofrece-empleo-a-personas-bilingues-por-19-la-hora-2024102417240",
+        "date": "2024-10-24 21:24:00",
+        "sentiment_score": -0.06767275929450989
+    },
+    {
+        "title": "Ofrecen empleo con salario de 25 por hora a personas sin estudios (+Requisitos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/ofrecen-empleo-con-salario-de-25-por-hora-a-personas-sin-estudios-2024102417190",
+        "date": "2024-10-24 21:19:00",
+        "sentiment_score": 0.2979146968573332
+    },
+    {
+        "title": "Fiscal de Los Ángeles se pronuncia sobre sentencia de los hermanos Menéndez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/fiscal-de-los-angeles-se-pronuncia-sobre-sentencia-de-los-hermanos-menendez-2024102417170",
+        "date": "2024-10-24 21:17:00",
+        "sentiment_score": -0.7504638861864805
+    },
+    {
+        "title": "California | Beneficio de desempleo paga hasta $ 450",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-beneficio-de-desempleo-paga-hasta-450-2024102417130",
+        "date": "2024-10-24 21:13:00",
+        "sentiment_score": 0.139398954808712
+    },
+    {
+        "title": "EEUU | ¿Cuánto cuesta estudiar en la Universidad de Harvard por un año?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-cuanto-cuesta-estudiar-en-la-universidad-de-harvard-por-un-ano--2024102417110",
+        "date": "2024-10-24 21:11:00",
+        "sentiment_score": -0.1403750479221344
+    },
+    {
+        "title": "Trump admiraba en privado la \"fortaleza\" de Maduro, señala su exasesora",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-admiraba-en-privado-la-fortaleza-de-maduro-senala-su-exasesora-202410241700",
+        "date": "2024-10-24 21:00:00",
+        "sentiment_score": 0.2152707576751709
     }
 ];
