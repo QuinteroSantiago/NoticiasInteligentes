@@ -196,16 +196,6 @@ export default [
         "sentiment_score": -0.06472264230251312
     },
     {
-        "title": "Las redes sociales de nicho se consolidan como alternativa al 'ruido' de las generalistas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/21/redessocialesalternativas-RAwK35ngiRiBdysMNxYgwyI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/redes-sociales-nicho-consolidan-alternativa-ruido-generalistas-20241021151650-nt.html",
-        "date": "2024-10-21 13:46:41",
-        "sentiment_score": -0.06503187119960785
-    },
-    {
         "title": "Una auditoría apunta que Toni Comín desvió 15.500 euros de una entidad independentista para gastos personales",
         "image_url": "https://imagenes.elpais.com/resizer/v2/L26IKAYBMJGAJDHN2FLYGDBUNQ.jpg?auth=d000ece7800f3cbe4f63f2a68ef06bf90ff7b3c0215e62c8fd10e50c41d16d2f&width=1200",
         "tags": [
@@ -350,36 +340,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-21/la-acampada-por-la-vivienda-de-valencia-quiere-prender-en-otras-ciudades.html",
         "date": "2024-10-21 14:47:34",
         "sentiment_score": 0.0005345940589904785
-    },
-    {
-        "title": "Estos son los diseñadores de la futura financiación catalana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JKPUOZTIKFH2RPWYASGW5V3PCM.jpg?auth=eeb500109a3489df93c1699b25bbea9daa9ac8a0145ef01cb62d8579c9e2080e&width=1200",
-        "tags": [
-            "erc",
-            "cataluña",
-            "psc",
-            "presupuestos autonómicos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-21/estos-son-los-disenadores-de-la-futura-financiacion-catalana.html",
-        "date": "2024-10-21 13:27:07",
-        "sentiment_score": 0.1826335694640875
-    },
-    {
-        "title": "Liberado el opositor argelino Hicham Aboud en buen estado de salud en Sevilla después de ser secuestrado en la calle en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WPZIN3QAYFHMTKTONOVXSWXYVQ.jpg?auth=9fb74c488194d5c41828d31b4878edc134db0b5be21fb3f7e31e57cd99bdd2b0&width=1200",
-        "tags": [
-            "secuestros",
-            "guardia civil",
-            "barcelona",
-            "mossos d'esquadra",
-            "disidencia",
-            "lebrija",
-            "cataluña",
-            "argelia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-21/liberado-el-opositor-argelino-hicham-aboud-en-buen-estado-de-salud-en-sevilla-despues-de-ser-secuestrado-en-la-calle-en-barcelona.html",
-        "date": "2024-10-21 13:10:39",
-        "sentiment_score": -0.647623810917139
     },
     {
         "title": "Noticias de Vigo en 2 minutos: lunes 21 de octubre",
@@ -7437,5 +7397,429 @@ export default [
         "link": "https://2001online.com/internacionales/trump-admiraba-en-privado-la-fortaleza-de-maduro-senala-su-exasesora-202410241700",
         "date": "2024-10-24 21:00:00",
         "sentiment_score": 0.2152707576751709
+    },
+    {
+        "title": "Estados Unidos evacuará a 20 empleados de su embajada en Haití tras ataques a vehículos e intensificación de violencia de pandillas, dicen fuentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771701-2024-10-21t021312z-417983413-rc2boaaqn3k4-rtrmadp-3-haiti-violence.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "haití"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/24/estados-unidos-evacuara-empleados-embajada-haiti-ataque-trax/",
+        "date": "2024-10-25 01:53:11",
+        "sentiment_score": -0.8058030735701323
+    },
+    {
+        "title": "ANÁLISIS | Hay quienes llaman fascista a Trump. ¿Qué significa eso?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771660-gettyimages-2180615898.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones ee.uu. 2024",
+            "elecciones en estados unidos",
+            "fascismo",
+            "análisis"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/24/analisis-que-significa-fascista-trump-trax/",
+        "date": "2024-10-25 01:41:06",
+        "sentiment_score": -0.6562082041054964
+    },
+    {
+        "title": "La mascarada costarricense, una fiesta tradicional que se vive el mismo día de Halloween",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771693-mascarada-costa-rica.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "halloween",
+            "costa rica",
+            "máscara"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/24/mascarada-costarricense-fiesta-tradicional-halloween-orix/",
+        "date": "2024-10-25 01:22:03",
+        "sentiment_score": 0.28145526349544525
+    },
+    {
+        "title": "Sergio “Checo” Pérez: Todavía tengo dos años más de contrato y seguiré",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180843389.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sergio-checo-perez-todavia-tengo-dos-anos-mas-contrato-seguire-gp-mexico-formula-1-deportes-tv",
+        "date": "2024-10-25 01:20:49",
+        "sentiment_score": 0.3817768730223179
+    },
+    {
+        "title": "¿Cómo el sector hotelero de Acapulco busca recuperarse a un año de Otis?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771122-huracan-otis-acapulco-aseguradoras.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/acapulco-recuperacion-sector-hotelero-otis-panorama-mundial-tv",
+        "date": "2024-10-25 01:02:32",
+        "sentiment_score": -0.3521687015891075
+    },
+    {
+        "title": "¿Cómo el sector hotelero de Acapulco busca recuperarse a un año de Otis?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771122-huracan-otis-acapulco-aseguradoras.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "acapulco",
+            "huracán otis",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/acapulco-recuperacion-sector-hotelero-otis-panorama-mundial-tv/",
+        "date": "2024-10-25 01:02:32",
+        "sentiment_score": -0.6586217023432255
+    },
+    {
+        "title": "Fiscal sugiere que deberían cambiar sentencia a hermanos Menéndez",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1462355302-20241025005143581.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "justicia",
+            "juicio",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fiscal-hermanos-menendez-sentencia-dusa-tv-fast/",
+        "date": "2024-10-25 00:58:17",
+        "sentiment_score": -0.45518460124731064
+    },
+    {
+        "title": "Emilio Azcárraga Jean pide permiso al frente de Grupo Televisa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771629-emilio-azcarraga-presidencia-televisa.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fifa",
+            "televisa",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/emilio-azcarraga-jean-pide-licencia-al-frente-grupo-televisa-panorama-mundial-tv/",
+        "date": "2024-10-25 00:45:39",
+        "sentiment_score": -0.019115284085273743
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 24 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179849713.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-24-de-octubre-2024-panorama-fast",
+        "date": "2024-10-25 00:34:05",
+        "sentiment_score": 0.14001452550292015
+    },
+    {
+        "title": "Fiscal del caso de los hermanos Menéndez explica a CNN por qué recomendó una nueva sentencia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767812-20241016-erik-lyle-menendez-split.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/entrevista-fiscal-george-gascon-caso-hermanos-menendez-nueva-sentencia-panorama-mundial-tv",
+        "date": "2024-10-25 00:33:18",
+        "sentiment_score": -0.19518336653709412
+    },
+    {
+        "title": "El Gobierno abre la puerta a que se disparen los jubilados a partir de 52 años en profesiones de riesgo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/25/riesgo-RvLIMieHABX13HYtMBKXYJN-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/seguridad-social-abre-puerta-nuevos-jubilados-anos-20241025190712-nt.html",
+        "date": "2024-10-25 02:12:34",
+        "sentiment_score": -0.06463336944580078
+    },
+    {
+        "title": "Irritación en la Inspección de Hacienda por la tibieza del Ministerio frente al plan para trocear la Agencia Tributaria",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/25/SoledadFernndez-RD5uYIQDQzD1vPvc0A2fF8J-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/irritacion-inspeccion-hacienda-tibieza-cupula-ministerio-frente-20241025133711-nt.html",
+        "date": "2024-10-25 02:11:07",
+        "sentiment_score": -0.07139632105827332
+    },
+    {
+        "title": "Trabajo obliga a convertir 95.000 contratos temporales en fijos en lo que va de año",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/25/Imagen(195670774)-RvKAn8tfCUqZPVUHNrgQ8hM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/trabajo-obliga-convertir-95000-contratos-temporales-fijos-20241025202315-nt.html",
+        "date": "2024-10-25 02:10:47",
+        "sentiment_score": -0.07820817828178406
+    },
+    {
+        "title": "Fiscalía investiga los altercados del partido entre el Real Madrid y el Atlético",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0d7075ae-4c81-49ab-95d3-21744e32fe49_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2024/10/25/fiscalia-investiga-altercados-partido-real-8848226.html",
+        "date": "2024-10-25 02:10:20",
+        "sentiment_score": -0.7597765829414129
+    },
+    {
+        "title": "«Donde haya un mallorquín, también tiene que estar el diario ‘Ultima Hora’»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2024/10/25/2264663/donde-haya-mallorquin-tambien-tiene-estar-diario-ultima-hora.html",
+        "date": "2024-10-25 02:00:02",
+        "sentiment_score": -0.04557842016220093
+    },
+    {
+        "title": "Sin prisa, pero sin pausa: el Barça busca un relevo para Laprovittola",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/25/2024102503353876005.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/prisa-pausa-barca-busca-relevo-laprovittola/20241025033731321811.html",
+        "date": "2024-10-25 01:37:31",
+        "sentiment_score": 0.2908659502863884
+    },
+    {
+        "title": "Comparación entre Mbappé del Real Madrid y Yamal del Barcelona antes de su primer clásico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/comparacion-entre-mbappe-del-real-madrid-y-yamal-del-barcelona-antes-de-su-primer-clasico/",
+        "date": "2024-10-25 00:59:09",
+        "sentiment_score": -0.25748662650585175
+    },
+    {
+        "title": "José Antonio suma 85 arrestos, debía entrar a prisión y apuñaló a un opositor de Policía Nacional",
+        "image_url": "https://s1.elespanol.com/2024/10/24/madrid/895921443_250340769_1706x960.jpg?contentId=ESPIMA20241024_1044",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20241025/jose-antonio-suma-arrestos-debia-entrar-prision-apunalo-opositor-policia-nacional/895910967_0.html",
+        "date": "2024-10-25 00:30:47",
+        "sentiment_score": -0.888934007845819
+    },
+    {
+        "title": "Cartera contra cantera: el clásico Madrid-Barça enfrenta dos modelos antagónicos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/22/culemania/849675239_12825925_1706x960.jpg?contentId=ESPIMA20240422_0215",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241025/cartera-cantera-clasico-madrid-barca-enfrenta-modelos-antagonicos/895910488_0.html",
+        "date": "2024-10-24 23:25:50",
+        "sentiment_score": -0.7908673211932182
+    },
+    {
+        "title": "El modelo de explotación del Bernabéu contra el nuevo Camp Nou: similitudes y diferencias",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/21/culemania/palco/887671229_13476419_1706x960.jpg?contentId=ESPIMA20240921_0005",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241025/el-explotacion-bernabeu-camp-nou-similitudes-diferencias/895910522_0.html",
+        "date": "2024-10-24 23:23:04",
+        "sentiment_score": 0.6182526536285877
+    },
+    {
+        "title": "Un año del adiós a Fernando Fernández Tapias: el duelo de su viuda, Nuria González, y la gran madurez de su hijo Iván",
+        "image_url": "https://s1.elespanol.com/2024/10/24/corazon/famosos/895920669_250316807_1706x960.jpg?contentId=ESPIMA20241024_0270",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241025/ano-adios-fernando-fernandez-tapias-duelo-viuda-nuria-gonzalez-gran-madurez-hijo-ivan/895910545_0.html",
+        "date": "2024-10-24 23:15:25",
+        "sentiment_score": 0.25210098922252655
+    },
+    {
+        "title": "Quirónsalud Costa Adeje, tres años cuidando de la salud de los participantes de la Carrera Fedola Family Run",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e5e4fb81-ac6a-4c69-9c65-bcadf3fb16c7_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/sociedad/2024/10/25/quironsalud-costa-adeje-tres-anos-110336371.html",
+        "date": "2024-10-24 23:01:00",
+        "sentiment_score": 0.6522260997444391
+    },
+    {
+        "title": "El festival Mecal Air lleva ‘Guaret’, de Josep Alorda, al Frontó de Sineu",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/25/2264591/cine-mallorca-josep-alorda-proyecta-guaret-fronto-sineu-gracias-festival-mecal-air.html",
+        "date": "2024-10-25 02:00:02",
+        "sentiment_score": 0.06033116579055786
+    },
+    {
+        "title": "Los orígenes de Samantha Hudson, un icono underground, llega a CineCiutat",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2024/10/25/2264593/cine-mallorca-cineciutat-proyecta-documental-sobre-samantha-hudson.html",
+        "date": "2024-10-25 02:00:02",
+        "sentiment_score": -0.04020240902900696
+    },
+    {
+        "title": "Enric Miró: «Al salir del Barça, Alaior fue como el inicio de mi vida»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3052893.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/futbol/2024/10/25/2264775/enric-miro-salir-del-barca-alaior-fue-como-inicio-vida.html",
+        "date": "2024-10-25 02:00:02",
+        "sentiment_score": 0.010028243064880371
+    },
+    {
+        "title": "Barcelona y el queso Mahón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2024/10/25/2264553/barcelona-queso-mahon.html",
+        "date": "2024-10-25 02:00:02",
+        "sentiment_score": -0.05715093016624451
+    },
+    {
+        "title": "Lo que le faltaba a Rodrigo Martínez",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/24/671a9f7f9746c.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/241025/1661440/le-faltaba-rodrigo-martinez.html",
+        "date": "2024-10-25 01:30:00",
+        "sentiment_score": 0.724522165954113
+    },
+    {
+        "title": "Puigdemont refuerza su poder en Junts para asegurarse todo el control sobre el futuro de Pedro Sánchez",
+        "image_url": "https://s1.elespanol.com/2024/10/02/espana/politica/890421942_249698372_1706x960.jpg?contentId=ESPIMA20241002_0993",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241025/puigdemont-refuerza-poder-junts-asegurarse-control-futuro-pedro-sanchez/895910760_0.html",
+        "date": "2024-10-25 01:19:34",
+        "sentiment_score": 0.43263772688806057
+    },
+    {
+        "title": "Esta iglesia alemana es la más alta del mundo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "mundo insólito"
+        ],
+        "link": "https://lacalle.com.ve/esta-iglesia-alemana-es-la-mas-alta-del-mundo/",
+        "date": "2024-10-25 01:00:57",
+        "sentiment_score": -0.042129382491111755
+    },
+    {
+        "title": "Una startup para los viajes deportivos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/19/671400b1eaf4e.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241025/10035564/startup-viajes-deportivos.html",
+        "date": "2024-10-25 01:00:00",
+        "sentiment_score": 0.45548596419394016
+    },
+    {
+        "title": "Investigadores españoles descubren el secreto de los controladores del VIH en sus defensas: \"La respuesta frente al virus es más potente\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/9b0844b627322260d9ca6cec15c45d24/crop/86x0/1690x1069/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/24/17297669673850.jpg",
+        "tags": [
+            "ciencia y salud",
+            "enfermedades infecciosas",
+            "sida y hepatitis",
+            "salud"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2024/10/25/671a1a6ce85ecec34a8b45b1.html",
+        "date": "2024-10-25 00:52:18",
+        "sentiment_score": 0.03477580100297928
+    },
+    {
+        "title": "Aclaran rumores sobre cheque de estímulo por $2.000 (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/aclaran-rumores-sobre-cheque-de-estimulo-por-2-000-detalles--2024102421550",
+        "date": "2024-10-25 01:55:00",
+        "sentiment_score": 0.3356143794953823
+    },
+    {
+        "title": "Venezolana quedó varada en el Darién tras sufrir una fractura de pierna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/venezolana-quedo-varada-en-el-darien-tras-sufrir-una-fractura-de-pierna-2024102421530",
+        "date": "2024-10-25 01:53:00",
+        "sentiment_score": -0.013700097799301147
+    },
+    {
+        "title": "Atacan a tiros a Josh Reynolds, jugador de los Denver Broncos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/sucesos/atacan-a-tiros-a-josh-reynolds-jugador-de-los-denver-broncos-2024102421520",
+        "date": "2024-10-25 01:52:00",
+        "sentiment_score": -0.25837869942188263
+    },
+    {
+        "title": "Rehabilitan Misión Vivienda de la avenida Bolívar en Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1729835733874/61.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/rehabilitan-mision-vivienda-de-la-avenida-bolivar-en-caracas-2024102421500",
+        "date": "2024-10-25 01:50:00",
+        "sentiment_score": 0.2610360234975815
+    },
+    {
+        "title": "EEUU | Joven venezolano muere tras enfrentarse a la policía de Colorado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/sucesos/eeuu-joven-venezolano-muere-tras-enfrentarse-a-la-policia-de-colorado-2024102421430",
+        "date": "2024-10-25 01:43:00",
+        "sentiment_score": -0.34325724095106125
+    },
+    {
+        "title": "Un hombre se disparó en los testículos en medio de un asalto",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/un-hombre-se-disparo-en-los-testiculos-en-medio-de-un-asalto-2024102421410",
+        "date": "2024-10-25 01:41:00",
+        "sentiment_score": -0.06021634489297867
+    },
+    {
+        "title": "E. coli: Qué es y cómo se contagia esta mortal enfermedad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/e-coli-que-es-y-como-se-contagia-esta-mortal-enfermedad-2024102421230",
+        "date": "2024-10-25 01:23:00",
+        "sentiment_score": 0.37186405062675476
+    },
+    {
+        "title": "¿Cómo obtener la Green Card sin entrevista y en cuatro meses? (+Testimonio)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/como-obtener-la-green-card-sin-entrevista-y-en-cuatro-meses-testimonio--2024102421190",
+        "date": "2024-10-25 01:19:00",
+        "sentiment_score": 0.10711166821420193
+    },
+    {
+        "title": "Banco Provincial ofrecerá financiamiento para vehículos en el Autofest 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banco-provincial-ofrecera-financiamiento-para-vehiculos-en-el-autofest-2024-2024102421100",
+        "date": "2024-10-25 01:10:00",
+        "sentiment_score": 0.06274454854428768
+    },
+    {
+        "title": "Lo nuevo de Walmart: entregará medicamentos recetados en solo 30 minutos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/lo-nuevo-de-walmart-entregara-medicamentos-recetados-en-solo-30-minutos-2024102420480",
+        "date": "2024-10-25 00:48:00",
+        "sentiment_score": 0.6036944966763258
     }
 ];
