@@ -189,26 +189,6 @@ export default [
         "sentiment_score": -0.022019773721694946
     },
     {
-        "title": "La ONU denuncia que la población ucraniana se ha reducido en 8 millones de personas desde el inicio de la guerra",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/22/poblacion-ucraniana-kDnG-U603238211777PFC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/onu-denuncia-poblacion-ucraniana-reducido-millones-personas-20241022152225-nt.html",
-        "date": "2024-10-22 13:22:25",
-        "sentiment_score": -0.09053757786750793
-    },
-    {
-        "title": "El sindicato CSIF pide que se esclarezca la participación de la empresa privada Alstom en el descarrilamiento",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/22/35284606-RXhkKJ0VeDjBaE90FAnIjdL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sindicato-csif-pide-esclarezca-participacion-empresa-privada-20241022145828-nt.html",
-        "date": "2024-10-22 12:58:28",
-        "sentiment_score": -0.16793110966682434
-    },
-    {
         "title": "Detenido un ‘mosso’ acusado de pedir 50.000 euros a cambio de retirar una denuncia",
         "image_url": "https://imagenes.elpais.com/resizer/v2/V2WUWSJXARAEZPOQLVY6UNILQU.jpg?auth=7efc135b74ba3aad07768fa0e3aab10403e08db46ef4562712cf5d3a6b4888b0&width=1200",
         "tags": [
@@ -7793,5 +7773,413 @@ export default [
         "link": "https://2001online.com/internacionales/eeuu-esta-al-borde-de-una-guerra-civil-esta-encuesta-lo-revela-202410251790",
         "date": "2024-10-25 21:09:00",
         "sentiment_score": -0.4932228848338127
+    },
+    {
+        "title": "Analista señala que tras veto de Brasil a Venezuela en los BRICS la relación bilateral parece rota",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1258271552.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "brics",
+            "luiz inacio lula da silva",
+            "nicolás maduro",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/relacion-brasil-venezuela-brics-rota-financiamiento-conclusiones-tv/",
+        "date": "2024-10-26 02:07:29",
+        "sentiment_score": -0.4329349994659424
+    },
+    {
+        "title": "Experto advierte que las elecciones en EE.UU. podrían decidirse por “uno o dos puntos\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170587742-20241026015025049.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/harris-trump-empate-encuestas-eeuu-votantes-simpatias-conclusiones-tv/",
+        "date": "2024-10-26 01:54:02",
+        "sentiment_score": -0.7366497274488211
+    },
+    {
+        "title": "Experto advierte que las elecciones en EE.UU. podrían decidirse por “uno o dos puntos\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170587742-20241026015025049.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/harris-trump-empate-encuestas-eeuu-votantes-simpatias-conclusiones-tv",
+        "date": "2024-10-26 01:54:02",
+        "sentiment_score": -0.1526833288371563
+    },
+    {
+        "title": "Fernando Valenzuela estuvo presente para los aficionados de Dodgers y Yankees",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181063403.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fernando-valenzuela-presente-aficionados-dodges-yankees-serie-mundial-beisbol-deportes-tv",
+        "date": "2024-10-26 01:49:54",
+        "sentiment_score": 0.12584365159273148
+    },
+    {
+        "title": "Ucrania denuncia la presencia de soldados norcoreanos para apoyar la guerra de Rusia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-1546205347.jpg?quality=100&strip=info",
+        "tags": [
+            "rusia",
+            "guerra de rusia en ucrania",
+            "ucrania",
+            "corea del norte"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/corea-del-norte-envio-tropas-ucrania-apoyo-rusia-panorama-mundial-tv/",
+        "date": "2024-10-26 01:17:20",
+        "sentiment_score": -0.29014699161052704
+    },
+    {
+        "title": "Experto analiza el ataque de Israel contra objetivos en Irán y qué posible escenarios podrían desarrollarse en la región",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1947705749.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra",
+            "israel",
+            "ataque",
+            "irán",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-ataque-israel-iran-crisis-medio-oriente-panorama-mundial-tv/",
+        "date": "2024-10-26 01:10:36",
+        "sentiment_score": -0.36379070207476616
+    },
+    {
+        "title": "Experto analiza el ataque de Israel contra objetivos en Irán y qué posible escenarios podrían desarrollarse en la región",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1947705749.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-ataque-israel-iran-crisis-medio-oriente-panorama-mundial-tv",
+        "date": "2024-10-26 01:10:36",
+        "sentiment_score": -0.4145091399550438
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 25 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179471535-20241026004743011.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-25-de-octubre-2024-panorama-fast",
+        "date": "2024-10-26 00:49:39",
+        "sentiment_score": 0.1319110170006752
+    },
+    {
+        "title": "Israel confirma que realiza ataques contra \"objetivos militares\" en Irán",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ministro-de-defensa-israel.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "irán",
+            "medio oriente",
+            "guerra medio oriente",
+            "israel noticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/contraalmirante-daniel-hagarien-israel-ataque-contra-iran-panorama/",
+        "date": "2024-10-26 00:34:57",
+        "sentiment_score": -0.3759841024875641
+    },
+    {
+        "title": "Jefe de bomberos entra en casa en llamas para rescatar a mujer",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21072487-117165-017-still-20241026001316827.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rescate-mujer-casa-en-llamas-trax/",
+        "date": "2024-10-26 00:21:07",
+        "sentiment_score": -0.48211435973644257
+    },
+    {
+        "title": "La vida sin Pepelu puede hacerse interminable",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/26/vida-pepelu-hacerse-interminable-110429738.html",
+        "date": "2024-10-26 02:01:05",
+        "sentiment_score": -0.24827727675437927
+    },
+    {
+        "title": "Una estafa mallorquina de generación a generación: cronología de las huidas de los Llinàs",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2024/10/26/2264979/estafa-mallorca-salvador-llinas-onate-bauza-generacion-generacion-cronologia-huida-millonaria.html",
+        "date": "2024-10-26 02:00:01",
+        "sentiment_score": -0.2385948896408081
+    },
+    {
+        "title": "El entrenador que descubrió a Pedri escribe la Guerra Civil: 'Hoy no hay violencia, pero sí ese abismo derecha-izquierda'",
+        "image_url": "https://s1.elespanol.com/2024/10/22/espana/politica/895421129_250265979_1706x1280.jpg?contentId=ESPIMA20241022_0680",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241026/entrenador-descubrio-pedri-escribe-guerra-civil-hoy-no-violencia-abismo-derecha-izquierda/895410886_0.html",
+        "date": "2024-10-26 01:25:06",
+        "sentiment_score": 0.622264638543129
+    },
+    {
+        "title": "Ilia Topuria y Sergio Ramos deslumbran en el pesaje antes de la pelea estelar contra Holloway",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/26/2024102603161852548.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/topuria-sergio-ramos-deslumbran-pesaje-ufc-308/20241026032223321890.html",
+        "date": "2024-10-26 01:22:23",
+        "sentiment_score": 0.5888421609997749
+    },
+    {
+        "title": "La tecnología, compañero de viaje de un turismo más sostenible y personalizado",
+        "image_url": "https://s1.elespanol.com/2024/10/25/invertia/disruptores/grandes-actores/empresas/896170948_250359471_1706x960.jpg?contentId=ESPIMA20241025_0574",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20241026/tecnologia-companero-viaje-turismo-sostenible-personalizado/896160688_0.html",
+        "date": "2024-10-26 01:12:40",
+        "sentiment_score": 0.6346681043505669
+    },
+    {
+        "title": "Cosentino triunfa en Celosphere 2024 explicando cómo innova fabricando en Almería para todo el mundo",
+        "image_url": "https://s1.elespanol.com/2024/10/25/invertia/disruptores/grandes-actores/tecnologicas/896171070_250363232_1706x960.jpg?contentId=ESPIMA20241025_0696",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20241026/cosentino-triunfa-celosphere-explicando-innova-fabricando-almeria-mundo/896160710_0.html",
+        "date": "2024-10-26 01:12:01",
+        "sentiment_score": -0.032542839646339417
+    },
+    {
+        "title": "La gran apuesta de Botín con Openbank: de filial con poco peso en Santander a operar en seis países en sólo siete años",
+        "image_url": "https://s1.elespanol.com/2024/10/23/invertia/empresas/banca/895670785_250289502_1706x960.jpg?contentId=ESPIMA20241023_0361",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20241026/gran-apuesta-botin-openbank-filial-peso-santander-operar-paises-solo-anos/895410840_0.html",
+        "date": "2024-10-26 01:07:46",
+        "sentiment_score": 0.1425375249236822
+    },
+    {
+        "title": "De la carbofobia al entrenamiento en ayunas o el 'pesocentrismo': seis mitos comunes en nutrición",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/31aa21bc71d17cb4b0f449dff4add6a0/crop/0x184/2480x1837/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/24/17297852628947.jpg",
+        "tags": [
+            "bienestar",
+            "nutrición",
+            "artículos cristina galafate",
+            "estilo de vida",
+            "alimentación",
+            "alimentación saludable"
+        ],
+        "link": "https://www.elmundo.es/vida-sana/bienestar/2024/10/26/671a1a89fdddff42bc8b458d.html",
+        "date": "2024-10-26 00:40:02",
+        "sentiment_score": -0.6385359168052673
+    },
+    {
+        "title": "El Real Madrid vive más feliz desde que Laporta regresó a la presidencia del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/25/culemania/palco/896170509_13632032_1706x960.jpg?contentId=ESPIMA20241025_0135",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241026/el-real-madrid-laporta-regreso-presidencia-barca/896160473_0.html",
+        "date": "2024-10-26 00:19:27",
+        "sentiment_score": 0.5120651200413704
+    },
+    {
+        "title": "El dentista de Lamine Yamal revela el secreto de sus nuevos brackets para el clásico",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/25/culemania/culemaniacos/896170514_13632185_1706x960.jpg?contentId=ESPIMA20241025_0140",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241026/el-dentista-de-lamine-yamal-el-brackets/896160485_0.html",
+        "date": "2024-10-26 00:19:08",
+        "sentiment_score": 0.053662583231925964
+    },
+    {
+        "title": "La gestión de Lim obliga a ‘quemar etapas’ en Mestalla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1f616418-0255-4e72-8c40-68fd417acdd2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/26/gestion-lim-obliga-quemar-etapas-110429741.html",
+        "date": "2024-10-26 02:01:06",
+        "sentiment_score": 0.0407281219959259
+    },
+    {
+        "title": "‘Mecanoscrit del segon origen’, un ‘long seller’ frente al paso del tiempo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8da03e61-12d9-40da-8570-20184985b356_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/postdata/2024/10/26/mecanoscrit-segon-origen-long-seller-110412654.html",
+        "date": "2024-10-26 02:01:02",
+        "sentiment_score": -0.08813607692718506
+    },
+    {
+        "title": "Ángela Pérez: \"Tenemos talento y espacio para atraer a tecnológicas internacionales\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b336d066-955a-4242-9725-1fe7004ee80e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/economia/2024/10/26/angela-perez-presidenta-the-terminal-hub-talento-espacio-atraer-110416021.html",
+        "date": "2024-10-26 02:01:01",
+        "sentiment_score": -0.19052641093730927
+    },
+    {
+        "title": "Joan Feliu, histórico intendente: «Estoy muy orgulloso de la transformación policial que hicimos entre todos»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2024/10/26/2265249/joan-feliu-estoy-muy-orgulloso-transformacion-policial-hicimos-entre-todos.html",
+        "date": "2024-10-26 02:00:01",
+        "sentiment_score": -0.10679161548614502
+    },
+    {
+        "title": "El interrogatorio de los ‘nois’ de Porto Cristo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/26/2265129/interrogatorio-nois-porto-cristo.html",
+        "date": "2024-10-26 02:00:01",
+        "sentiment_score": -0.2876966595649719
+    },
+    {
+        "title": "Barceló, Barça, Gaudí",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2024/10/26/2265131/barcelo-barca-gaudi.html",
+        "date": "2024-10-26 02:00:01",
+        "sentiment_score": -0.2637956589460373
+    },
+    {
+        "title": "Llega el cambio de hora otoñal: a las 03,00 de la madrugada del domingo serán las 02,00",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/26/671c6a099fffd.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/241026/1662378/llega-cambio-hora-otonal-03-00-madrugada-domingo-seran-02-00.html",
+        "date": "2024-10-26 02:00:00",
+        "sentiment_score": 0.03759555146098137
+    },
+    {
+        "title": "El domingo durará 25 horas con el cambio horario",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/25/671bbbb3e5e3c.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/241026/1662357/relojes-atrasan-hora-madrugada-domingo-27.html",
+        "date": "2024-10-26 01:30:00",
+        "sentiment_score": -0.01796669512987137
+    },
+    {
+        "title": "Pescar sonidos en el Porma y Curueño",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/10/25/671bd00a9f7a5.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/241026/1662150/pescar-sonidos-porma-curueno.html",
+        "date": "2024-10-26 01:30:00",
+        "sentiment_score": 0.23548826575279236
+    },
+    {
+        "title": "Nueva York notifica a más de 1.000 migrantes que deben abandonar los hoteles",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/migracion/nueva-york-notifica-a-mas-de-1-000-migrantes-que-deben-abandonar-los-hoteles-202410252260",
+        "date": "2024-10-26 02:06:00",
+        "sentiment_score": 0.2116154283285141
+    },
+    {
+        "title": "México desmiente reportes de prensa sobre el Tren de Aragua",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/mexico-desmiente-reportes-de-prensa-sobre-el-tren-de-aragua-2024102521560",
+        "date": "2024-10-26 01:56:00",
+        "sentiment_score": -0.7040477450937033
+    },
+    {
+        "title": "¿Los indocumentados pueden cambiar su licencia de conducir en supermercados?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/los-indocumentados-pueden-cambiar-su-licencia-de-conducir-en-supermercados--2024102521450",
+        "date": "2024-10-26 01:45:00",
+        "sentiment_score": 0.00937362015247345
+    },
+    {
+        "title": "Mujer muere tras ser asfixiada por su pareja en Sucre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-murio-tras-ser-asfixiada-por-su-pareja-en-sucre-2024102521340",
+        "date": "2024-10-26 01:34:00",
+        "sentiment_score": -0.6009399313479662
+    },
+    {
+        "title": "Otra clínica en Caracas se convierte en aliada de Cashea (+Servicios)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/otra-clinica-en-caracas-se-convierte-en-aliada-de-cashea-servicios--2024102521280",
+        "date": "2024-10-26 01:28:00",
+        "sentiment_score": 0.09977643564343452
+    },
+    {
+        "title": "EEUU | Así ayudará Harris con la deuda médica de ganar las elecciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-asi-ayudara-harris-con-la-deuda-medica-de-ganar-las-elecciones-2024102521100",
+        "date": "2024-10-26 01:10:00",
+        "sentiment_score": 0.16193696856498718
+    },
+    {
+        "title": "Conoce los lugares en California donde puedes ver olas bioluminiscentes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conoce-los-lugares-en-california-donde-puedes-ver-olas-bioluminiscentes-202410252190",
+        "date": "2024-10-26 01:09:00",
+        "sentiment_score": 0.7803201768547297
+    },
+    {
+        "title": "Venezuela celebrará el Día de José Gregorio Hernández este #26Oct",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-celebrara-el-dia-de-jose-gregorio-hernandez-este-26oct-202410252180",
+        "date": "2024-10-26 01:08:00",
+        "sentiment_score": 0.8423569817095995
+    },
+    {
+        "title": "Joven atenta contra su vida tras sufrir maltrato psicológico de su madre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/joven-atenta-contra-su-vida-tras-sufrir-maltrato-psicologico-de-su-madre-202410252170",
+        "date": "2024-10-26 01:07:00",
+        "sentiment_score": -0.8494385685771704
+    },
+    {
+        "title": "¿Quiénes están exentos del examen para licencia de conducir en Florida?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/quienes-estan-exentos-del-examen-para-licencia-de-conducir-en-florida--2024102520250",
+        "date": "2024-10-26 00:25:00",
+        "sentiment_score": -0.08766675367951393
     }
 ];
