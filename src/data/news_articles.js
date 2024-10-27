@@ -1,524 +1,5 @@
 export default [
     {
-        "title": "Las cuatro noticias destacadas del mediodía del 23 de octubre en CNN en Español",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1769189-habra-sorpresas-entre-trump-y-harris-para-las-elecciones-de-ee-uu.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-23-de-octubre-2024-redaccion-buenos-aires-mediodia-fast",
-        "date": "2024-10-23 17:07:55",
-        "sentiment_score": 0.07714134827256203
-    },
-    {
-        "title": "John Kelly dice que Trump encaja en la definición de fascista",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "trump",
-            "elecciones en estados unidos",
-            "john kelly"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/john-kelly-trump-facista-trax-ush/",
-        "date": "2024-10-23 17:04:28",
-        "sentiment_score": -0.381036926060915
-    },
-    {
-        "title": "John Kelly dice que Trump encaja en la definición de fascista",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-858033762.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/john-kelly-trump-facista-trax-ush",
-        "date": "2024-10-23 17:04:28",
-        "sentiment_score": -0.4140927940607071
-    },
-    {
-        "title": "Charlamagne tha God se rio frente a Lara Trump por sugerir que su suegro no es racista",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "racismo ee.uu.",
-            "donald turmp",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/charlamagne-tha-god-lara-trump-no-es-racista-ush-trax/",
-        "date": "2024-10-23 16:53:23",
-        "sentiment_score": -0.5375415161252022
-    },
-    {
-        "title": "Douglas Emhoff, el esposo de Kamala Harris que podría convertirse en primer caballero de Estados Unidos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/emhoff-biden-harris-event-0812.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones en estados unidos",
-            "kamala harris"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/23/douglas-emhoff-esposo-kamala-harris-primer-caballero-estados-unidos-orix/",
-        "date": "2024-10-23 16:30:34",
-        "sentiment_score": -0.40256186574697495
-    },
-    {
-        "title": "Los científicos dicen que el limo de tu lavavajillas podría desvelar una solución al calentamiento global",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-1630428383.jpg?quality=100&strip=info",
-        "tags": [
-            "calentamiento global",
-            "ciencia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/23/limo-lavavajillas-solucion-calentamiento-global-trax/",
-        "date": "2024-10-23 16:20:47",
-        "sentiment_score": 0.18156062066555023
-    },
-    {
-        "title": "Policía de Perú despliega operativos por paro de transporte público",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/paro-transporte-peru.png",
-        "tags": [
-            "perú"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/23/peru-paro-de-transporte-publico-orix/",
-        "date": "2024-10-23 16:18:29",
-        "sentiment_score": -0.05897429585456848
-    },
-    {
-        "title": "El presidente de McDonald's dice que sus alimentos son seguros después de un brote de E. coli",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/mc-donalds.webp",
-        "tags": [
-            "negocios"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/23/mcdonalds-alimentos-e-coli-seguros-trax/",
-        "date": "2024-10-23 15:54:03",
-        "sentiment_score": -0.6872688196599483
-    },
-    {
-        "title": "Este video muestra una explosión durante “ataque terrorista” en Turquía",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21067419-11532-696-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "turquía",
-            "terrorismo"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataque-terrorista-turquia-trax/",
-        "date": "2024-10-23 15:26:58",
-        "sentiment_score": -0.819919016212225
-    },
-    {
-        "title": "Este video muestra una explosión durante el “ataque terrorista” en Turquía",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21067419-11532-696-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataque-terrorista-turquia-trax",
-        "date": "2024-10-23 15:26:58",
-        "sentiment_score": -0.7447949983179569
-    },
-    {
-        "title": "Dormir mal acelera el envejecimiento cerebral",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/23/dormir.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/dormir-mal-acelera-envejecimiento-cerebral-20241023141941-nt.html",
-        "date": "2024-10-23 16:32:00",
-        "sentiment_score": -0.14075130224227905
-    },
-    {
-        "title": "Orbán acusa a la UE de intentar derrocar su gobierno para instalar uno «títere»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/23/orban-RlsgvU8QNK78YaCtXn7JMMJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/orban-acusa-ue-intentar-derrocar-gobierno-instalar-20241023182527-nt.html",
-        "date": "2024-10-23 16:25:56",
-        "sentiment_score": -0.06972384452819824
-    },
-    {
-        "title": "La policía italiana registra las sedes de TIM y Ntt Data por la posible corrupción de dos directivos, con un soborno de 50.000 euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/23/tim-logo-reuters-kQe-U603243987442KEG-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/policia-italiana-registra-sedes-tim-ntt-data-20241023180415-nt.html",
-        "date": "2024-10-23 16:06:10",
-        "sentiment_score": -0.31176547706127167
-    },
-    {
-        "title": "Tinder en la montaña, la solución para la soltería según un joven en Suiza",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/23/senderismo-kmTB-U603243851087JLC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/tinder-montana-solucion-solteria-segun-joven-suiza-20241023175102-nt.html",
-        "date": "2024-10-23 15:51:02",
-        "sentiment_score": -0.1426365077495575
-    },
-    {
-        "title": "El presidente de Aragón amenaza con llevar a los tribunales el impuesto a las energéticas si se hace permanente",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/23/Azconefe-R1jKc4eQKXhrXqePUqrIkEK-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/presidente-aragon-amenaza-llevar-tribunales-impuesto-energeticas-20241023165842-nt.html",
-        "date": "2024-10-23 14:58:42",
-        "sentiment_score": -0.11071671545505524
-    },
-    {
-        "title": "Evacuan el aeropuerto de Birmingham y suspenden los vuelos por la presencia de un «vehículo sospechoso»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/23/Birmingham-kUhH-U603243467578ebC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/evacuan-aeropuerto-birmingham-suspenden-vuelos-presencia-vehiculo-20241023161502-nt.html",
-        "date": "2024-10-23 14:26:14",
-        "sentiment_score": -0.5493244975805283
-    },
-    {
-        "title": "Trump amplía su ventaja en Georgia, uno de los estados clave en las elecciones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/22/encuesta-diaria-1200x840-U603239503019szG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/empate-encuestas-eeuu-20241023192803-nt.html",
-        "date": "2024-10-23 14:22:29",
-        "sentiment_score": -0.10792770981788635
-    },
-    {
-        "title": "La jueza del caso de la pareja de Ayuso abre una nueva pieza para investigar más delitos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HSYYF2UPX5DKJNWCKPD6OQJDME.jpg?auth=79f07ff38fc64dc9db0930804ff23a0e72f097f7d9272150209050dff2c232db&width=1200",
-        "tags": [
-            "alberto gonzález amador",
-            "madrid",
-            "isabel díaz ayuso",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-23/la-jueza-del-caso-de-la-pareja-de-ayuso-abre-una-nueva-pieza-para-investigar-mas-delitos.html",
-        "date": "2024-10-23 16:47:13",
-        "sentiment_score": -0.8373105973005295
-    },
-    {
-        "title": "La Guardia Civil detiene en Tarragona al líder de la pandilla ecuatoriana que asaltó un plató en directo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FO3H4EN3KYH7C4DMD7WUC4JBPA.jpg?auth=0b7bba27001eddbbd361c4de4cea8066721ac84ec761c47ff0f493554d4d8ab7&width=1200",
-        "tags": [
-            "cataluña",
-            "terrorismo",
-            "ecuador",
-            "tarragona",
-            "detenciones",
-            "audiencia nacional",
-            "guardia civil"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-23/la-guardia-civil-detiene-en-tarragona-al-lider-del-grupo-terrorista-los-tiguerones-que-asaltaron-un-plato-en-directo-en-ecuador.html",
-        "date": "2024-10-23 16:44:33",
-        "sentiment_score": -0.7139948811382055
-    },
-    {
-        "title": "Desarticulado un laboratorio en Granada que producía drogas que vendían en latas de conserva",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WZW5DZXNZZGUFPPESOS5UAY74I.jpg?auth=bd89287ecb267dfb568a97dd118b8aac7ea09ecc7330554dba540be6e7448630&width=1200",
-        "tags": [
-            "drogas",
-            "rave",
-            "policía",
-            "guardia civil",
-            "españa",
-            "redadas policiales",
-            "granada"
-        ],
-        "link": "https://elpais.com/espana/2024-10-23/desarticulado-un-laboratorio-en-granada-que-producia-drogas-que-vendian-en-latas-de-conserva.html",
-        "date": "2024-10-23 16:12:51",
-        "sentiment_score": -0.566123329102993
-    },
-    {
-        "title": "España y Portugal pactan caudales mínimos en el Tajo y el Guadiana y la construcción de dos puentes internacionales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QIIXIDV2AREGPEERMEH237KCAA.jpg?auth=1dfea62ba614b3253e6947be9dcbf767b0e75c0becf8635f4a4f4f300ccbf7a4&width=1200",
-        "tags": [
-            "cumbres ibéricas",
-            "portugal",
-            "infraestructuras internacionales",
-            "españa",
-            "río guadiana",
-            "pedro sánchez alemán",
-            "ríos",
-            "río tajo",
-            "luís montenegro"
-        ],
-        "link": "https://elpais.com/espana/2024-10-23/espana-y-portugal-pactan-caudales-minimos-en-el-tajo-y-el-guadiana-y-la-construccion-de-dos-puentes-internacionales.html",
-        "date": "2024-10-23 15:51:53",
-        "sentiment_score": -0.2528960704803467
-    },
-    {
-        "title": "Sumar acentúa sus diferencias con el PSOE en medio de la presión de Podemos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3OS523YCVFFGBFJFGYDLB2IGUM.JPG?auth=73c393d8170e66357942c326aefb00be855fd7320b036674c226b16971b9e543&width=1200",
-        "tags": [
-            "psoe",
-            "congreso diputados",
-            "pp",
-            "sumar",
-            "españa",
-            "gobierno",
-            "vivienda"
-        ],
-        "link": "https://elpais.com/espana/2024-10-23/sumar-acentua-sus-diferencias-con-el-psoe-en-medio-de-la-presion-de-podemos.html",
-        "date": "2024-10-23 15:44:22",
-        "sentiment_score": -0.9323651837185025
-    },
-    {
-        "title": "Málaga mueve ficha frente a los pisos turísticos: los prohibirá en 43 barrios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AACORG2IPBCK3OCYKUP6F5WOQY.jpg?auth=c46f968fec646126569914a91f8f00233232af6cb31515bb8592433010796418&width=1200",
-        "tags": [
-            "andalucía",
-            "airbnb",
-            "turismo",
-            "urbanismo",
-            "málaga",
-            "pisos turísticos",
-            "vecinos",
-            "inversión inmobiliaria",
-            "españa",
-            "viviendas alquiler",
-            "turistificación",
-            "vivienda"
-        ],
-        "link": "https://elpais.com/espana/2024-10-23/malaga-mueve-ficha-frente-a-los-pisos-turisticos-los-prohibira-en-43-barrios.html",
-        "date": "2024-10-23 15:39:14",
-        "sentiment_score": 0.19978734478354454
-    },
-    {
-        "title": "La Policía desmantela cuatro plantaciones de marihuana en las Tres Mil Viviendas tras el tiroteo con arma de guerra",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/V2WIY6SDOYND24LN74Y62DSKZQ.jpg?auth=a13793c473b557e350770c913e38a3cf0a26be15f8bb82dcb41e140fedfe0a19&width=1200",
-        "tags": [
-            "andalucía",
-            "sevilla",
-            "endesa",
-            "tiroteos",
-            "pobreza",
-            "ayuntamiento sevilla",
-            "policía nacional",
-            "marihuana",
-            "españa",
-            "drogas"
-        ],
-        "link": "https://elpais.com/espana/2024-10-23/la-policia-desmantela-cuatro-plantaciones-de-marihuana-en-las-tres-mil-viviendas-tras-el-tiroteo-con-arma-de-guerra.html",
-        "date": "2024-10-23 15:15:01",
-        "sentiment_score": -0.49312176555395126
-    },
-    {
-        "title": "Ayuso intenta introducir en la Conferencia de Presidentes los temas que renunció a tratar con Sánchez en La Moncloa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/V3BYRA4JZNE3LIL27E325PO3RQ.jpg?auth=c8e5543780cfac5a0ec4f4330719554490748e2efd39f21f11a7cec3db40b199&width=1200",
-        "tags": [
-            "isabel díaz ayuso",
-            "comunidad de madrid",
-            "pedro sánchez",
-            "pp",
-            "psoe",
-            "gobierno de españa",
-            "conferencia presidentes autonómicos",
-            "pp madrid",
-            "madrid",
-            "gobierno comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-23/ayuso-intenta-introducir-en-la-conferencia-de-presidentes-los-temas-que-renuncio-a-tratar-con-sanchez-en-la-moncloa.html",
-        "date": "2024-10-23 14:40:55",
-        "sentiment_score": -0.27778320014476776
-    },
-    {
-        "title": "Canibalismo “por amor” en una cueva del Neolítico de Alicante",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W7VYKTAOEZAS5MA3JFCZYSETHM.jpg?auth=abd5066cc44c4d298f993d5c0243ed7e322d78f267f4e4c0e015034b1c61b84b&width=1200",
-        "tags": [
-            "neolítico",
-            "canibalismo",
-            "alicante",
-            "antropología",
-            "prehistoria",
-            "arqueología",
-            "comunidad valenciana",
-            "historia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-23/canibalismo-por-amor-en-una-cueva-del-neolitico-de-alicante.html",
-        "date": "2024-10-23 14:39:53",
-        "sentiment_score": -0.7964678071439266
-    },
-    {
-        "title": "Sánchez defiende el rescate de Air Europa: “Lo volvería a hacer”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XILDYC7NEBF2LKYZH52QFREL54.jpg?auth=c3e560ad68fb1144cfb84132642bf13b068dbbb50e6dbdb13623215e8bc33e55&width=1200",
-        "tags": [
-            "portugal",
-            "caso koldo",
-            "pedro sánchez",
-            "españa",
-            "luís montenegro",
-            "cumbres ibéricas",
-            "air europa",
-            "pandemia"
-        ],
-        "link": "https://elpais.com/espana/2024-10-23/sanchez-defiende-el-rescate-de-air-europa-lo-volveria-a-hacer.html",
-        "date": "2024-10-23 14:39:37",
-        "sentiment_score": 0.4604719504714012
-    },
-    {
-        "title": "Un policía a caballo arrolla a un aficionado del Dortmund durante la previa del partido ante el Real Madrid",
-        "image_url": "https://album.mediaset.es/eimg/2024/10/23/fsdfsdf_8e83.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.telecinco.es/noticias/deportes/20241023/aficionado-dortmund-caballo-policia-arrolla_18_013806850.html",
-        "date": "2024-10-23 17:09:56",
-        "sentiment_score": -0.6501941122114658
-    },
-    {
-        "title": "Nuevos detalles sobre el futuro curso para tener un perro: de cuatro horas, online y con examen final",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2d055105-3c4f-4520-82fa-a19988832235_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/videos/sociedad/2024/10/23/nuevos-detalles-futuro-curso-perro-110196196.html",
-        "date": "2024-10-23 17:06:12",
-        "sentiment_score": 0.034324198961257935
-    },
-    {
-        "title": "Roban el reloj, la cartera y el móvil a un directivo del Bayern de Múnich antes del partido contra el Barcelona",
-        "image_url": "https://static.grupojoly.com/clip/901f901f-a971-4591-a68b-6d5ff2354cd1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.granadahoy.com/sociedad/roban-reloj-cartera-movil-directivo-bayern_0_2002625983.html",
-        "date": "2024-10-23 17:09:52",
-        "sentiment_score": -0.8893893798813224
-    },
-    {
-        "title": "Directo | Once de lujo del Barça con una novedad para medirse a su 'bestia negra'",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/23/barca-bayern-champions-league-directo.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/noticia/5647102/0/barcelona-bayern-champions-league-directo-ultima-hora-tercera-jornada-fase-liga/",
-        "date": "2024-10-23 17:09:37",
-        "sentiment_score": 0.1434587985277176
-    },
-    {
-        "title": "El Salón de la Ocupación y el Bizbarcelona arrancan con la inteligencia artificial como telón de fondo",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/23/67192ba3cb3d5.r_d.1062-738-0.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20241023/10045947/salon-ocupacion-bizbarcelona-arrancan-inteligencia-artificial-telon-fondo.html",
-        "date": "2024-10-23 17:08:09",
-        "sentiment_score": 0.2446177676320076
-    },
-    {
-        "title": "El Sevilla apunta a Archie Gray: un talento en busca de nuevos horizontes",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/23/2024102319054862376.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/sevilla-apunta-archie-gray-talento-busca-nuevos-horizontes/20241023190736321555.html",
-        "date": "2024-10-23 17:07:36",
-        "sentiment_score": 0.007591031491756439
-    },
-    {
-        "title": "La infertilidad y sus problemas asociados forman parte, cada vez más, de la sociedad actual",
-        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/10/23/67192c107b2de.jpeg",
-        "tags": [
-            "cope huelva"
-        ],
-        "link": "https://www.cope.es/emisoras/andalucia/huelva-provincia/huelva/cope-huelva/noticias/infertilidad-y-problemas-asociados-forman-parte-vez-sociedad-actual-20241023_3033501.html",
-        "date": "2024-10-23 17:06:18",
-        "sentiment_score": -0.016433537006378174
-    },
-    {
-        "title": "Illinois | Así puedes descubrir si el estado te debe dinero (+Detalles)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/illinois-asi-puedes-descubrir-si-el-estado-te-debe-dinero-detalles--202410231380",
-        "date": "2024-10-23 17:08:00",
-        "sentiment_score": -0.0902024619281292
-    },
-    {
-        "title": "¿Qué dice de nosotros el estilo musical que nos gusta? ¡Te lo contamos!",
-        "image_url": "https://pxcdn.2001online.com/2001/102024/1729688234815/BANNER-INTERNO.jpeg",
-        "tags": [
-            "variedades - bienestar"
-        ],
-        "link": "https://2001online.com/zona3d/bienestar/que-dice-de-nosotros-el-estilo-musical-que-nos-gusta-te-lo-contamos--202410231300",
-        "date": "2024-10-23 17:00:00",
-        "sentiment_score": 0.41212090477347374
-    },
-    {
-        "title": "Karol G reabre su escuela de primaria (+DETALLES)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/karol-g-reabre-su-escuela-de-primaria-detalles--2024102312560",
-        "date": "2024-10-23 16:56:00",
-        "sentiment_score": 0.6644695997238159
-    },
-    {
-        "title": "Metro Los Ángeles renueva su aplicación móvil: Conozca las novedades",
-        "image_url": "https://pxcdn.2001online.com/2001/102024/1729701827010/los-angeles.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/metro-los-angeles-renueva-su-aplicacion-movil-conozca-las-novedades-2024102312490",
-        "date": "2024-10-23 16:49:00",
-        "sentiment_score": 0.3941362015902996
-    },
-    {
-        "title": "Toyota lanzará en Venezuela un vehículo \"económico\" (+MONTO)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/toyota-lanzara-en-venezuela-un-vehiculo-economico-monto--2024102312450",
-        "date": "2024-10-23 16:45:00",
-        "sentiment_score": 0.36968121491372585
-    },
-    {
-        "title": "Feria de recursos comunitarios con vacunas gratuitas en Dallas (+Detalles)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/feria-de-recursos-comunitarios-con-vacunas-gratuitas-en-dallas-detalles--2024102312310",
-        "date": "2024-10-23 16:31:00",
-        "sentiment_score": 0.4368647914379835
-    },
-    {
-        "title": "Italia| Suspenden una serie de Disney tras denuncia por difamación",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/italia-suspenden-una-serie-de-disney-tras-denuncia-por-difamacion-2024102312280",
-        "date": "2024-10-23 16:28:00",
-        "sentiment_score": -0.7135430853813887
-    },
-    {
-        "title": "Directivo del Bayern de Múnich es víctima de la delincuencia (+Detalles)",
-        "image_url": "https://pxcdn.2001online.com/2001/102024/1729700626242/17047157281274.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/directivo-del-bayern-de-munich-es-victima-de-la-delincuencia-detalles--2024102312250",
-        "date": "2024-10-23 16:25:00",
-        "sentiment_score": -0.12043042480945587
-    },
-    {
-        "title": "Luis Miguel pospone concierto en México y esta es la razón",
-        "image_url": "https://pxcdn.2001online.com/2001/102024/1729700006602/image%20-%202024-10-23T121320.485.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/luis-miguel-pospone-concierto-en-mexico-y-esta-es-la-razon--2024102312240",
-        "date": "2024-10-23 16:24:00",
-        "sentiment_score": 0.05314450338482857
-    },
-    {
-        "title": "Múltiples víctimas deja atentado terrorista en Turquía este #23Oct",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/multiples-victimas-deja-atentado-terrorista-en-turquia-este-23oct-2024102312220",
-        "date": "2024-10-23 16:22:00",
-        "sentiment_score": -0.7365392670035362
-    },
-    {
         "title": "Trump sobre la soldado Vanessa Guillen: \"¡No cuesta US$ 60.000 enterrar a un p*** mexicano!\"",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1770882-untitled-design-2024-10-23t124652-407-1.png?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -757,20 +238,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-23/barcelona-plantea-subir-la-entrada-al-park-guell-de-10-a-18-euros.html",
         "date": "2024-10-23 19:08:25",
         "sentiment_score": 0.45982296764850616
-    },
-    {
-        "title": "El presidente de Amics de la Rambla pide reformar el paseo Colom y cubrir la ronda del Litoral",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/77HD7NUJ2JCMVGCECNVRCWMERM.jpg?auth=ac4ae4469fc55bea5d4ba94711b4727d0e03136b2e532b85b16b33c3e9919ba0",
-        "tags": [
-            "cataluña",
-            "barcelona",
-            "jaume collboni",
-            "premios",
-            "la rambla"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-23/el-presidente-de-amics-de-la-rambla-pide-reformar-el-paseo-colom-y-cubrir-la-ronda-del-litoral.html",
-        "date": "2024-10-23 18:22:57",
-        "sentiment_score": -0.10525193810462952
     },
     {
         "title": "Barcelona goleó al Bayern Munich y se prepara de cara al clásico",
@@ -8058,5 +7525,553 @@ export default [
         "link": "https://2001online.com/sucesos/abuela-junto-a-su-pareja-torturaban-a-una-nina-de-siete-anos-2024102618540",
         "date": "2024-10-26 22:54:00",
         "sentiment_score": -0.2573751024901867
+    },
+    {
+        "title": "La estrella de los Dodgers Shohei Ohtani sufre una lesión en hombro izquierdo durante el Juego 2 de la Serie Mundial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/shonei-otei.webp",
+        "tags": [
+            "dodgers",
+            "deportes"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/27/estrella-dodgers-shohei-ohtani-sufre-lesion-hombro-juego-serie-mundial-trax/",
+        "date": "2024-10-27 06:07:09",
+        "sentiment_score": -0.6288446821272373
+    },
+    {
+        "title": "Los Dodgers toman ventaja de 2 a 0 sobre los Yankees en la Serie Mundial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181263988-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dodgers-toman-ventaja-2-a-0-sobre-yankees-serie-mundial-beisbol-deportes-tv",
+        "date": "2024-10-27 04:27:10",
+        "sentiment_score": 0.4705125540494919
+    },
+    {
+        "title": "Qué se esconde detrás del envío de tropas de Corea del Norte a Rusia: «Un salto cualitativo con graves implicaciones y carne de cañón»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/27/ko8-ReoU6TdH8VLKD9gE2uWHn4M-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/letra-pequena-envio-tropas-corea-norte-rusia-20241027183614-nt.html",
+        "date": "2024-10-27 05:26:55",
+        "sentiment_score": -0.26881739497184753
+    },
+    {
+        "title": "Energéticas, bancos y aliados para doblegar a Hacienda",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/27/impuestobancaenergeticas-RsAvzLLvQBMy5hL8hDbHprL-350x624@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/yolanda-gomez-rojo-energeticas-bancos-aliados-doblegar-hacienda-20241027184705-nt.html",
+        "date": "2024-10-27 04:39:54",
+        "sentiment_score": -0.08403247594833374
+    },
+    {
+        "title": "Un nuevo pilar digital para el diseño arquitectónico",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/25/rendair-fundadores_20241025203259.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/nuevo-pilar-digital-diseno-arquitectonico-20241027053912-nt.html",
+        "date": "2024-10-27 04:39:12",
+        "sentiment_score": 0.0035621225833892822
+    },
+    {
+        "title": "Una brigada tecnológica para facilitar la limpieza del vidrio",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/27/droncristales-Rzd0hiyBiiVQi5ZpZkecEhJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/brigada-tecnologica-facilitar-limpieza-vidrio-20241027053847-nt.html",
+        "date": "2024-10-27 04:38:47",
+        "sentiment_score": 0.05026900768280029
+    },
+    {
+        "title": "La industria del papel no se arruga en la era digital",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/27/papel-R1XqAV08CeG8O4U79oyPq4J-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/industria-papel-arruga-era-digital-20241027184419-nt.html",
+        "date": "2024-10-27 04:38:22",
+        "sentiment_score": 0.026673108339309692
+    },
+    {
+        "title": "La gasolina de las megarrondas da alas al emprendimiento innovador",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/27/megarrondas_20241025191315-R7IRFRHmKIHDhUWMqfMXOWI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gasolina-megarrondas-alas-emprendimiento-innovador-20241027204033-nt.html",
+        "date": "2024-10-27 04:37:39",
+        "sentiment_score": 0.0029549598693847656
+    },
+    {
+        "title": "El sector renovable luce músculo innovador en el mundo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/28/SPRD1459-RCJW95KaS5nxdlNJ4tZF0gP-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sector-renovable-luce-musculo-innovador-mundo-20241028201130-nt.html",
+        "date": "2024-10-27 04:36:53",
+        "sentiment_score": 0.04398822784423828
+    },
+    {
+        "title": "El cambio climático y China llevan el precio del café a un récord histórico",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/27/cafe-RlJmkEZBIvWxKFmkt2CtuiI-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cambio-climatico-china-llevan-precio-cafe-record-20241027193858-nt.html",
+        "date": "2024-10-27 03:39:28",
+        "sentiment_score": -0.11543096601963043
+    },
+    {
+        "title": "Jim Hollander, el fotógrafo de los sanfermines que retrata el conflicto israelí: «Siento lo mismo en la guerra que en el encierro»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/27/070824Hollander-06-30_Alencierro-RLiUQRKoHNYvm8UOxf38YUM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/jim-hollander-fotografo-sanfermines-retrata-conflicto-israeli-20241027152139-nt.html",
+        "date": "2024-10-27 03:24:18",
+        "sentiment_score": -0.10354512929916382
+    },
+    {
+        "title": "El impuestazo hace saltar las alarmas de la inversión extranjera en España",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/27/sanchezymontero-REOlMd4Sc6H9Q7VAkhhfrNK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/maria-jesus-perez-impuestazo-saltar-alarmas-inversion-extranjera-espana-20241027183117-nt.html",
+        "date": "2024-10-27 03:13:24",
+        "sentiment_score": -0.06643566489219666
+    },
+    {
+        "title": "Registrar (bien) las horas que se trabajan en España es una misión casi imposible",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WZYTTMU7VVCJZMMHBSDTPA6NEE.JPG?auth=6f6878e31df607d541a5d2d573de9d9220c2c0cc8acd7069f073b878caac7945&width=1200",
+        "tags": [
+            "ministerio de trabajo y economía social",
+            "inspecciones trabajo",
+            "empresas",
+            "fraudes",
+            "salarios",
+            "sanciones laborales",
+            "economía",
+            "horas extraordinarias",
+            "pymes",
+            "empleo",
+            "trabajo",
+            "jornada laboral"
+        ],
+        "link": "https://elpais.com/economia/2024-10-27/registrar-bien-las-horas-que-se-trabajan-en-espana-es-una-mision-casi-imposible.html",
+        "date": "2024-10-27 04:45:00",
+        "sentiment_score": -0.8270207401365042
+    },
+    {
+        "title": "Las incógnitas del ‘caso Errejón’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3COAN56T6RAZPOINYU3IZSKEHU.jpg?auth=5986c2cbc67a08b122883b23711fe11101f7378d61671724257937113014a5d1&width=1200",
+        "tags": [
+            "españa",
+            "agresiones sexuales",
+            "adolfo carretero",
+            "congreso diputados",
+            "comisarías",
+            "investigación judicial",
+            "policía nacional",
+            "juzgados",
+            "violencia sexual",
+            "denuncias",
+            "ley libertad sexual",
+            "elisa mouliaá",
+            "sumar",
+            "íñigo errejón",
+            "política",
+            "ministerio del interior"
+        ],
+        "link": "https://elpais.com/espana/2024-10-27/las-incognitas-del-caso-errejon.html",
+        "date": "2024-10-27 04:40:00",
+        "sentiment_score": -0.8770570596680045
+    },
+    {
+        "title": "El peor otoño de la coalición",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RI5BKZASXRCZJLJYKDN4YTT6PU.jpg?auth=4f8ee504716460aa9fff204ed1d42cea91f2791ac7baccc2129f8f7305508c67&width=1200",
+        "tags": [
+            "españa",
+            "agresiones sexuales",
+            "psoe",
+            "corrupción",
+            "oposición política",
+            "sumar",
+            "josé luis ábalos",
+            "presupuestos generales estado",
+            "feminismo",
+            "íñigo errejón",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2024-10-27/el-peor-otono-de-la-coalicion.html",
+        "date": "2024-10-27 04:40:00",
+        "sentiment_score": -0.8649748023599386
+    },
+    {
+        "title": "La amenaza de Ayuso convierte a Feijóo en un líder permanentemente a prueba",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7Q6RCGV3BJDKFIYGQSJ7445G6I.jpg?auth=a38350e5deff1f6af62701bfeb16241839173e6d4d4074b8c41db1c77a38c10f&width=1200",
+        "tags": [
+            "congreso diputados",
+            "isabel díaz ayuso",
+            "pablo casado blanco",
+            "mariano rajoy",
+            "pedro sánchez",
+            "gobierno de españa",
+            "miguel ángel rodríguez",
+            "corrupción política",
+            "alberto núñez feijóo",
+            "josé luis ábalos",
+            "españa",
+            "pp",
+            "pablo simón",
+            "hacienda pública",
+            "comunidades autónomas",
+            "asamblea madrid",
+            "comunidad de madrid",
+            "cristina monge",
+            "alberto gonzález amador",
+            "política"
+        ],
+        "link": "https://elpais.com/espana/2024-10-27/la-amenaza-de-ayuso-convierte-a-feijoo-en-un-lider-permanentemente-a-prueba.html",
+        "date": "2024-10-27 04:40:00",
+        "sentiment_score": -0.9032374601811171
+    },
+    {
+        "title": "Del ‘caso Koldo’ al ‘caso Ábalos’: en busca de la X",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KVEJUSYTQNHKRKFUY5Y3YE7E2Y.jpg?auth=1f1ba8614c5669589f191119bb719d94f16e55559074d47f4d4e4efc6935dc8b&width=1200",
+        "tags": [
+            "españa",
+            "ministerio de transportes",
+            "fiscalía anticorrupción",
+            "koldo garcía",
+            "tribunal supremo",
+            "ministerio de fomento",
+            "caso koldo",
+            "investigación judicial",
+            "josé luis ábalos",
+            "fiscalía",
+            "pedro sánchez",
+            "audiencia nacional"
+        ],
+        "link": "https://elpais.com/espana/2024-10-27/del-caso-koldo-al-caso-abalos-en-busca-de-la-x.html",
+        "date": "2024-10-27 04:40:00",
+        "sentiment_score": 0.40560077875852585
+    },
+    {
+        "title": "La guerra de Gaza, el arma arrojadiza con la que derecha e izquierda libran su batalla interna en España",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Z2U4R2Y7P7XPQAQWDNADCZWGIU.jpg?auth=825b554b94b45076ad23bf1f3fb67eab427ba495eb8bc42c85461880dd8f4088&width=1200",
+        "tags": [
+            "españa",
+            "guerra",
+            "franja gaza",
+            "sumar",
+            "vox",
+            "israel",
+            "líbano",
+            "política",
+            "onu",
+            "podemos"
+        ],
+        "link": "https://elpais.com/espana/2024-10-27/la-guerra-de-gaza-el-arma-arrojadiza-con-la-que-derecha-e-izquierda-libran-su-batalla-interna-en-espana.html",
+        "date": "2024-10-27 04:40:00",
+        "sentiment_score": -0.897701452486217
+    },
+    {
+        "title": "Las izquierdas buscan rumbo tras la conmoción por el ‘caso Errejón’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4GZY5FJQWBEMPJSXX7CM5WN7J4.jpg?auth=ef0d29953a1c79f3f6f20ede5aca6bed979dfbe20c3a6837d1f5951a175b6235&width=1200",
+        "tags": [
+            "españa",
+            "pablo iglesias",
+            "agresiones sexuales",
+            "izquierda unida",
+            "sumar",
+            "íñigo errejón",
+            "más madrid",
+            "podemos"
+        ],
+        "link": "https://elpais.com/espana/2024-10-27/las-izquierdas-buscan-rumbo-tras-la-conmocion-por-el-caso-errejon.html",
+        "date": "2024-10-27 04:40:00",
+        "sentiment_score": -0.41830187290906906
+    },
+    {
+        "title": "Así son los solicitantes de pisos sociales en Cataluña: personas solas, de nacionalidad española y con rentas muy bajas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OUWKZGI6I5CQ3KB6S6MVR5TODA.jpg?auth=59edc04e4a7f8239a580bf70aeaf0e28b4680f5d05b14d46919fbae210bbdbb8&width=1200",
+        "tags": [
+            "generalitat cataluña",
+            "barcelona",
+            "cataluña",
+            "pobreza",
+            "vpo",
+            "migrantes",
+            "viviendas alquiler",
+            "vivienda",
+            "ayuntamiento barcelona",
+            "familia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-27/asi-son-los-solicitantes-de-pisos-sociales-en-cataluna-personas-solas-de-nacionalidad-espanola-y-con-rentas-muy-bajas.html",
+        "date": "2024-10-27 04:15:00",
+        "sentiment_score": 0.06375628337264061
+    },
+    {
+        "title": "Lisardo Pollán, jubilado tras 40 años: “Nadie nace con vocación de funcionario de prisiones”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WB5OS6PAA5AVFJYUBA2LIJLCVE.jpg?auth=f545306ccd2ae6a18a7f48cb6ab1730c3ba2850342d3c8671b92179807caa255&width=1200",
+        "tags": [
+            "funcionarios",
+            "villena",
+            "terroristas eta",
+            "funcionarios prisiones",
+            "terroristas",
+            "prisiones",
+            "alicante",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-27/lisardo-pollan-nadie-nace-con-vocacion-de-funcionario-de-prisiones.html",
+        "date": "2024-10-27 04:15:00",
+        "sentiment_score": -0.6270167455077171
+    },
+    {
+        "title": "La ideología es Puigdemont",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y5YK5F2F3ZB5XNQOPW7JMEIGQE.jpg?auth=635873275ab376c5cfe10b6adb0dc1a33062a33b9f41395f7ba0602b6dfe39f3&width=1200",
+        "tags": [
+            "laura borràs",
+            "jordi pujol",
+            "independencia",
+            "carles puigdemont",
+            "cataluña",
+            "oriol junqueras",
+            "procés independentista catalán",
+            "juntsxcat",
+            "ciu"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-27/la-ideologia-es-puigdemont.html",
+        "date": "2024-10-27 04:15:00",
+        "sentiment_score": -0.2527015805244446
+    },
+    {
+        "title": "¿Qué fue de Yiya? De polémica concursante en 'Supervivientes' a ser empresaria de éxito",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/26/671ccdb94a6f5.r_d.340-234-7016.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/gente/20241027/1002341009/que-yiya-polemica-concursante-supervivientes-empresaria-exito-dct.html",
+        "date": "2024-10-27 06:15:00",
+        "sentiment_score": 0.049577534198760986
+    },
+    {
+        "title": "Barcelona dejó fuera de juego al Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes",
+            "fc barcelona"
+        ],
+        "link": "https://www.analitica.com/deportes/barcelona-dejo-fuera-de-juego-al-real-madrid/",
+        "date": "2024-10-27 06:07:00",
+        "sentiment_score": -0.5741646513342857
+    },
+    {
+        "title": "Lorena Gómez un año después de 'Me vuelvo a la vida': sembrar para recoger a través de cuatro piezas de generosidad y poderío vocal",
+        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2024/09/19/66ec7590d431a.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.cadena100.es/musica/noticias/lorena-gomez-ano-me-vuelvo-vida-sembrar-recoger-traves-cuatro-piezas-generosidad-y-poderio-vocal-20241027_127116.html",
+        "date": "2024-10-27 06:05:00",
+        "sentiment_score": -0.07466709613800049
+    },
+    {
+        "title": "¿Tienen protocolos los partidos políticos ante casos como el de Errejón?",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2023/01/14/63c2af0aefd90.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/tienen-protocolos-partidos-politicos-casos-errejon.html",
+        "date": "2024-10-27 06:04:13",
+        "sentiment_score": -0.7360687740147114
+    },
+    {
+        "title": "Pensionistas salen a la calle en Madrid contra la «privatización» del sistema",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2024/10/Pensionistas-salen-a-la-calle-en-Madrid-contra-la-privatizacion-del-sistema-907x510.webp",
+        "tags": [
+            "laboral"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/pensionistas-salen-a-la-calle-en-madrid-contra-la-privatizacion-del-sistema/",
+        "date": "2024-10-27 06:04:04",
+        "sentiment_score": -0.0710986889898777
+    },
+    {
+        "title": "Carmen Rasero",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a0d71c58-7e9c-4c84-9e6e-41e96e4044a3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2024/10/27/carmen-rasero-110523173.html",
+        "date": "2024-10-27 06:00:53",
+        "sentiment_score": -0.6790580600500107
+    },
+    {
+        "title": "Favorito",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab96941f-fdbc-456f-842b-d80fd364bb5f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2024/10/27/favorito-110527429.html",
+        "date": "2024-10-27 06:00:53",
+        "sentiment_score": 0.09543490409851074
+    },
+    {
+        "title": "Familia Werner: cinco siglos de historia ligada a Málaga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/78638dd8-a9d6-4005-a8ab-07bc4db1723c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2024/10/27/familia-werner-cinco-siglos-historia-110412930.html",
+        "date": "2024-10-27 06:00:45",
+        "sentiment_score": -0.10324196517467499
+    },
+    {
+        "title": "\"No somos conscientes del valor cultural y tecnológico de Málaga. Es una barbaridad lo que ha conseguido\"",
+        "image_url": "https://s1.elespanol.com/2024/10/25/malaga/vivir/turismo/896171324_250371134_1706x960.jpg?contentId=ESPIMA20241025_0950",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/vivir/turismo/20241027/no-conscientes-valor-cultural-tecnologico-malaga-barbaridad-conseguido/896160898_0.html",
+        "date": "2024-10-27 05:50:00",
+        "sentiment_score": -0.35647788643836975
+    },
+    {
+        "title": "Anna Castillo y Mario Casas, un ‘match’ de película",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/24/671a292fa92ec.r_d.428-371-0.jpeg",
+        "tags": [
+            "protagonistas"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/protagonistas/20241027/10047482/anna-castillo-mario-casas-match-pelicula.html",
+        "date": "2024-10-27 05:36:16",
+        "sentiment_score": 0.7627390846610069
+    },
+    {
+        "title": "Este es el brutal volumen de contratos de mascarillas que dio Illa a una empresa de su pueblo: 275 veces sus ingresos",
+        "image_url": "https://s.libertaddigital.com/2024/10/02/reunion-del-consell-nacional-del-psc.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/espana/politica/2024-10-27/este-es-el-brutal-volumen-de-contratos-de-mascarillas-que-dio-illa-a-una-empresa-de-su-pueblo-275-veces-sus-ingresos-7178562/",
+        "date": "2024-10-27 06:22:22",
+        "sentiment_score": -0.43839210644364357
+    },
+    {
+        "title": "Laboralistas piden que la reducción de jornada se acuerde con los agentes sociales",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2024/10/Laboralistas-piden-que-la-reduccion-de-jornada-se-acuerde-con-los-agentes-sociales-907x510.webp",
+        "tags": [
+            "laboral"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/laboralistas-piden-que-la-reduccion-de-jornada-se-acuerde-con-los-agentes-sociales/",
+        "date": "2024-10-27 06:15:56",
+        "sentiment_score": 0.061405763030052185
+    },
+    {
+        "title": "Lo más adverso de una DANA para el recuerdo pone en alerta a la AEMET: situación límite en 24 horas",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/10/26/el-mapa-de-prevision-de-precipitaciones-de-la-aemet.jpeg",
+        "tags": [
+            "el tiempo"
+        ],
+        "link": "https://www.huffingtonpost.es/tiempo/lo-mas-adverso-dana-recuerdo-pone-alerta-aemet-situacion-limite-24-horas.html",
+        "date": "2024-10-27 06:06:51",
+        "sentiment_score": -0.7180780880153179
+    },
+    {
+        "title": "Espinosa, Campomanes, Agirre y el Lehendakari Ibarretxe",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/76276d01-5d7c-4460-92f5-41404d9bfe25_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/tribuna-abierta/2024/10/27/espinosa-campomanes-agirre-lehendakari-ibarretxe-8854885.html",
+        "date": "2024-10-27 06:03:07",
+        "sentiment_score": -0.6560645885765553
+    },
+    {
+        "title": "Cáceres, entre la escalada de precios de alquiler y el auge de los pisos turísticos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1332f93b-34fe-4319-a3fe-f8637d4b2aa1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2024/10/27/caceres-escalada-precios-alquiler-auge-110557620.html",
+        "date": "2024-10-27 06:00:55",
+        "sentiment_score": -0.7303915582597256
+    },
+    {
+        "title": "Integra, el socio familiar de los gigantes tecnológicos nacido en Calatayud",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f8065d12-817a-49a9-918c-1683980873f9_16-9-aspect-ratio_default_0_x1119y41.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/economia/activos/2024/10/27/integra-socio-familiar-gigantes-tecnologicos-calatayud-110527254.html",
+        "date": "2024-10-27 06:00:53",
+        "sentiment_score": 0.00818556547164917
+    },
+    {
+        "title": "Lubián defiende la supervivencia de su tienda: \"Si cierra es el acabose\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7eabae44-c829-4082-a257-eae93dfde2b5_16-9-aspect-ratio_default_1334178.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondezamora.es/comarcas/2024/10/27/lubian-defiende-supervivencia-tienda-cierra-110520874.html",
+        "date": "2024-10-27 06:00:50",
+        "sentiment_score": -0.13166455924510956
+    },
+    {
+        "title": "Así fue la tradicional \"Bajada de la Chinita\" en el Zulia (+Video)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/asi-fue-la-tradicional-bajada-de-la-chinita-en-el-zulia-video--2024102623510",
+        "date": "2024-10-27 03:51:00",
+        "sentiment_score": 0.11276238411664963
+    },
+    {
+        "title": "Detienen a una mujer por tráfico sexual en Valencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-una-mujer-por-trafico-sexual-en-valencia-2024102623220",
+        "date": "2024-10-27 03:22:00",
+        "sentiment_score": 0.02097051590681076
+    },
+    {
+        "title": "Confirman lista de postulados para Fiscal General, Defensor y Contralor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/confirman-lista-de-postulados-para-fiscal-general-defensor-y-contralor-2024102622560",
+        "date": "2024-10-27 02:56:00",
+        "sentiment_score": 0.04910395294427872
+    },
+    {
+        "title": "EEUU | Costco lanza ofertas en comida por menos de $20 (+Lista)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-costco-lanza-ofertas-en-comida-por-menos-de-20-lista--2024102622530",
+        "date": "2024-10-27 02:53:00",
+        "sentiment_score": 0.10980772227048874
+    },
+    {
+        "title": "Denny’s cerrará 150 locales comerciales en EEUU (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/denny-s-cerrara-150-locales-comerciales-en-eeuu-detalles--2024102622150",
+        "date": "2024-10-27 02:15:00",
+        "sentiment_score": 0.23185081034898758
     }
 ];
