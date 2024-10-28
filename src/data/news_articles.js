@@ -154,66 +154,6 @@ export default [
         "sentiment_score": -0.17124485969543457
     },
     {
-        "title": "La Casa Blanca advierte que las tropas de Pyongyang serán un «blanco legítimo» si intervienen en la guerra de Ucrania",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/24/kim-RnQoSeyv7wY4faijSpAuunM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/casa-blanca-advierte-tropas-pyongyang-blanco-legitimo-20241024151840-nt.html",
-        "date": "2024-10-24 13:19:05",
-        "sentiment_score": -0.13998351991176605
-    },
-    {
-        "title": "La banca expresa su «enérgico rechazo» al 'impuestazo' y denuncia que el Gobierno le impide discutir el gravamen",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/24/botin-oliu-torres-RebGuvLLKVle7umPFokdfXN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/banca-expresa-energico-rechazo-impuestazo-denuncia-gobierno-20241024150810-nt.html",
-        "date": "2024-10-24 13:10:53",
-        "sentiment_score": -0.10299170017242432
-    },
-    {
-        "title": "Todos los servicios que te ofrecen las farmacias: Desde un cribado de cáncer de colon hasta ayudarte a dejar de fumar",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/24/PresentacionMapadeServiciosFarmacuticos-RFcbXgOUyU9gixEsATbQ7uK-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/servicios-ofrecen-farmacias-cribado-cancer-colon-ayudarte-20241024151044-nt.html",
-        "date": "2024-10-24 13:10:44",
-        "sentiment_score": -0.07868298888206482
-    },
-    {
-        "title": "La comitiva de Kamala Harris se cruza con un conductor ebrio que circulaba en dirección contraria",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/21/encuesta-diaria-366x256.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/comitiva-kamala-harris-cruza-conductor-ebrio-circulaba-20241024142729-nt.html",
-        "date": "2024-10-24 13:01:49",
-        "sentiment_score": -0.3217131495475769
-    },
-    {
-        "title": "Renfe defiende su gestión del descarrilamiento: «España tiene un sistema ferroviario espectacular»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/24/1487758405-RyIoKUPsXopyLQx76CDV6RL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/renfe-defiende-gestion-descarrilamiento-espana-sistema-ferroviario-20241024133826-nt.html",
-        "date": "2024-10-24 11:56:28",
-        "sentiment_score": -0.07097300887107849
-    },
-    {
-        "title": "Montero reconoce que el impuesto a las energéticas puede no salir adelante",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/24/MonteroEP-RgqOrMjoGpBJvafFfN4fKON-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/montero-reconoce-impuesto-energeticas-puede-salir-adelante-20241024125607-nt.html",
-        "date": "2024-10-24 10:56:07",
-        "sentiment_score": -0.046733856201171875
-    },
-    {
         "title": "Las últimas y raras 24 horas del portavoz de Sumar en el Congreso",
         "image_url": "https://imagenes.elpais.com/resizer/v2/OBKXTMQF7NG7PJGKXG7JFPWA4U.jpg?auth=7266fbeea7b99bd8acf16687ae6dd2c209eaf7f63e76899c53261b957aa90a3e&width=1200",
         "tags": [
@@ -354,36 +294,6 @@ export default [
         "link": "https://elpais.com/espana/2024-10-24/sumar-abre-una-investigacion-sobre-informaciones-que-senalan-a-errejon.html",
         "date": "2024-10-24 14:15:45",
         "sentiment_score": -0.24965351074934006
-    },
-    {
-        "title": "La pareja de Ayuso prepara su querella número 12 a raíz de su caso y pide 20.000 euros a la portavoz de Más Madrid, Manuela Bergerot",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HSYYF2UPX5DKJNWCKPD6OQJDME.jpg?auth=79f07ff38fc64dc9db0930804ff23a0e72f097f7d9272150209050dff2c232db&width=1200",
-        "tags": [
-            "félix bolaños garcía",
-            "isabel rodríguez garcía",
-            "rita maestre",
-            "isabel díaz ayuso",
-            "pedro sánchez",
-            "más madrid",
-            "madrid",
-            "fiscalía",
-            "psoe",
-            "hacienda pública",
-            "fraude fiscal",
-            "delitos",
-            "alberto gonzález amador",
-            "comunidad de madrid",
-            "diana morant ripoll",
-            "josé zaragoza",
-            "querellas",
-            "álvaro garcía ortiz",
-            "maría jesús montero",
-            "manuela bergerot",
-            "libertad expresión"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-24/la-pareja-de-ayuso-prepara-su-querella-numero-12-a-raiz-de-su-caso-y-pide-20000-euros-a-la-portavoz-de-mas-madrid-manuela-bergerot.html",
-        "date": "2024-10-24 13:52:48",
-        "sentiment_score": -0.6925514284521341
     },
     {
         "title": "Martxel Rodríguez y Jon López (Led Silhouette): \"Siempre nos ha movido la inconsciencia de lanzarnos a la piscina\"",
@@ -7409,5 +7319,421 @@ export default [
         "link": "https://2001online.com/internacionales/expresidente-peruano-martin-vizcarra-sera-enjuiciado-este-lunes-2024102715580",
         "date": "2024-10-27 19:58:00",
         "sentiment_score": -0.5529616642743349
+    },
+    {
+        "title": "Vinicius Jr., favorito para llevarse el Balón de Oro de este año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/balon-de-oro-2024-vinicius-jr-deportes-tv-fast",
+        "date": "2024-10-28 00:54:05",
+        "sentiment_score": 0.757629157975316
+    },
+    {
+        "title": "Michelle Obama: Algunos optan por ignorar la incompetencia de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2024-10-26t235055z-1386507600-rc2lsaarelga-rtrmadp-3-usa-election-harris-20241028002601563.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/michelle-obama-trump-kamala-elecciones-trump-trax/",
+        "date": "2024-10-28 00:35:20",
+        "sentiment_score": -0.8929698849096894
+    },
+    {
+        "title": "Michelle Obama: Algunos optan por ignorar la incompetencia de Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/michelle-obama-trump-kamala-elecciones-trump-trax",
+        "date": "2024-10-28 00:35:20",
+        "sentiment_score": -0.6944125443696976
+    },
+    {
+        "title": "Israel asegura que ataque contra Irán fue efectivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/iran-respuesta-ataque-israel-hamas-mirador-mundial-tv",
+        "date": "2024-10-27 23:52:15",
+        "sentiment_score": 0.04199060797691345
+    },
+    {
+        "title": "Israel asegura que ataque contra Irán fue efectivo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177142933.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "ataque a irán",
+            "irán",
+            "israel",
+            "ataque israel hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/iran-respuesta-ataque-israel-hamas-mirador-mundial-tv/",
+        "date": "2024-10-27 23:52:15",
+        "sentiment_score": -0.7519659623503685
+    },
+    {
+        "title": "Cierran los centros de votación en las elecciones presidenciales de Uruguay",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/GettyImages-2181398377_1a6eff.jpg?quality=100&strip=info",
+        "tags": [
+            "uruguay"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/27/resultados-elecciones-presidenciales-uruguay-2024-orix/",
+        "date": "2024-10-27 23:46:15",
+        "sentiment_score": -0.00849635899066925
+    },
+    {
+        "title": "Uruguayos eligen a su próximo presidente",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181374978.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-voto-uruguay-presidente-como-funcionan-mirador-mundial-tv/",
+        "date": "2024-10-27 23:35:15",
+        "sentiment_score": 0.13276482373476028
+    },
+    {
+        "title": "Comediante en evento de Trump insulta a Puerto Rico",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/michelle-00-04-28-26-still003.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/comediante-puerto-rico-isla-basura-evento-donald-trump-mirador-mundial-tv/",
+        "date": "2024-10-27 23:23:29",
+        "sentiment_score": -0.8693187665194273
+    },
+    {
+        "title": "¿Qué está en juego en las elecciones en Uruguay? Especialista responde",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180748518.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones",
+            "uruguay",
+            "cono sur"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-uruguay-analisis-juego-mirador-mundial-tv/",
+        "date": "2024-10-27 23:21:58",
+        "sentiment_score": -0.2981835752725601
+    },
+    {
+        "title": "¿Qué está en juego en las elecciones en Uruguay? Especialista responde",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180748518.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-uruguay-analisis-juego-mirador-mundial-tv",
+        "date": "2024-10-27 23:21:58",
+        "sentiment_score": -0.07816114276647568
+    },
+    {
+        "title": "Las aguas españolas no son el vertedero de Gibraltar",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/10/17/bajamedica_1-U16226834378zDE-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-aguas-espanolas-vertedero-gibraltar-20241028211805-nt.html",
+        "date": "2024-10-28 01:32:07",
+        "sentiment_score": -0.19647625088691711
+    },
+    {
+        "title": "Orsi da el primer golpe en las elecciones en Uruguay y se medirá con el oficialista Delgado en la segunda vuelta",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/28/uruguay-efe-kzkF-U603263782296pcE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/orsi-primer-golpe-elecciones-uruguay-enfrentara-segunda-20241028022645-nt.html",
+        "date": "2024-10-28 01:29:30",
+        "sentiment_score": -0.04305490851402283
+    },
+    {
+        "title": "Lo raro",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/10/25/zasca-bar-granadino-madrid-kxQD--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-raro-20241028001736-nts.html",
+        "date": "2024-10-27 23:17:36",
+        "sentiment_score": -0.06551897525787354
+    },
+    {
+        "title": "La Aurora de San Judas",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/10/19/elhormiguero-kg9G--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-aurora-san-judas-20241028000946-nts.html",
+        "date": "2024-10-27 23:12:03",
+        "sentiment_score": -0.08422502875328064
+    },
+    {
+        "title": "José Antonio Vidal, el comienzo de todo",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-jose-antonio-vidal-comienzo-20241028231112-nts.html",
+        "date": "2024-10-27 23:06:59",
+        "sentiment_score": -0.1865023374557495
+    },
+    {
+        "title": "Paloma Martín: \"Hay okupas porque no hay consecuencias, ya hay más de 100.000 propietarios que lo sufren\"",
+        "image_url": "https://s1.elespanol.com/2024/10/25/espana/politica/896171545_250377990_1706x960.jpg?contentId=ESPIMA20241025_1171",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241028/paloma-martin-okupas-no-consecuencias-propietarios-sufren/895911006_0.html",
+        "date": "2024-10-28 01:35:35",
+        "sentiment_score": -0.921136224642396
+    },
+    {
+        "title": "Aldama pedía \"dinero para el PSOE\" a cambio de influencia en el Gobierno y ofrecía como aval sus fotos con Sánchez",
+        "image_url": "https://s1.elespanol.com/2024/10/27/espana/896670703_250402594_1706x1280.jpg?contentId=ESPIMA20241027_0379",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241028/aldama-pedia-dinero-psoe-cambio-influencia-gobierno-ofrecia-aval-fotos-sanchez/896660390_0.html",
+        "date": "2024-10-28 01:34:19",
+        "sentiment_score": -0.05926840007305145
+    },
+    {
+        "title": "El comprometedor álbum de Aldama: sus fotos con Sánchez, Ábalos, Koldo, Hidalgo o un espía chavista",
+        "image_url": "https://s1.elespanol.com/2024/10/27/espana/politica/896670570_250398549_1706x960.jpg?contentId=ESPIMA20241027_0246",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241028/comprometedor-album-aldama-fotos-sanchez-abalos-koldo-hidalgo-espia-chavista/896690328_3.html",
+        "date": "2024-10-28 01:33:03",
+        "sentiment_score": -0.9111490109935403
+    },
+    {
+        "title": "La huerta en Carabaña con 210 tipos de tomates que envía su aceite al Papa y a la Casa Blanca",
+        "image_url": "https://s1.elespanol.com/2024/10/25/madrid/ocio/896170652_250350244_1706x960.jpg?contentId=ESPIMA20241025_0278",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241028/huerta-carabana-tipos-tomates-envia-aceite-papa-casa-blanca/896160506_0.html",
+        "date": "2024-10-28 00:49:35",
+        "sentiment_score": 0.3500637039542198
+    },
+    {
+        "title": "La goleada del Barcelona al Real Madrid, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/10/28/671edbef78bec.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/goleada-barcelona-real-madrid-tertulion-domingos-20241028_3035524.html",
+        "date": "2024-10-28 00:34:02",
+        "sentiment_score": -0.06324970722198486
+    },
+    {
+        "title": "Robert Navarro, el jugador al que en Mallorca ven en el Athletic",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/10/27/navarro.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/robert-navarro-jugador-mallorca-ven-athletic-20241027010549-nt.html",
+        "date": "2024-10-28 00:05:50",
+        "sentiment_score": 0.23578567802906036
+    },
+    {
+        "title": "Las claves que explican por qué Arrasate triunfa en Mallorca: «Es una bendición»",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/10/27/arrasate%20rayo%20son%20moix%20efe-RPCdHKS7PaexqB0IF4Y3iPP-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/claves-explican-arrasate-triunfa-mallorca-bendicion-20241027010434-nt.html",
+        "date": "2024-10-28 00:04:34",
+        "sentiment_score": 0.3382139205932617
+    },
+    {
+        "title": "Lo nunca visto: Afif, ex del Sporting, se burla de Mbappé tras marcar de vaselina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/337966ca-b411-4aad-9ae2-3a845fa03060_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sporting/2024/10/28/visto-afif-ex-sporting-burla-110655774.html",
+        "date": "2024-10-27 23:49:52",
+        "sentiment_score": -0.04373916983604431
+    },
+    {
+        "title": "Hansi Flick, el flamante fichaje del Barça que estuvo a punto de volver al Bayern",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/05/31/culemania/primer-equipo/859424190_13023384_1706x960.jpg?contentId=ESPIMA20240531_0141",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241028/hansi-flick-flamante-fichaje-barca-estuvo-volveralbayern/896660380_0.html",
+        "date": "2024-10-27 23:46:07",
+        "sentiment_score": 0.1920456737279892
+    },
+    {
+        "title": "La semana grande del Barça refuerza a Laporta y debilita a los grupos de oposición",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/27/culemania/palco/896670392_13637741_1706x960.jpg?contentId=ESPIMA20241027_0068",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241028/la-semana-barca-refuerza-laporta-debilita-oposicion/896660383_0.html",
+        "date": "2024-10-27 23:45:57",
+        "sentiment_score": 0.6968821212649345
+    },
+    {
+        "title": "Puigdemont lidera por plasma: dice que \"pasará a la ofensiva\" mientras todavía depende del Constitucional",
+        "image_url": "https://s1.elespanol.com/2024/10/27/actualidad/896670709_250402772_1706x960.jpg?contentId=ESPIMA20241027_0385",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241028/puigdemont-lidera-plasma-dice-pasara-ofensiva-todavia-depende-constitucional/896660494_0.html",
+        "date": "2024-10-28 01:49:49",
+        "sentiment_score": -0.8139423709362745
+    },
+    {
+        "title": "3 películas románticas que debes ver si te gustó ‘Una aventura en Marruecos’",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/SVGICL4HZBFHVPOKHH5O7HVVRA.JPG?auth=829845fcd44adb78c2ab4aed6c4528e0cea69573f4abfb1ba1165ae8e894f258&height=658&smart=true&width=992",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/entretenimiento/2024/10/28/3-peliculas-romanticas-que-debes-ver-si-te-gusto-una-aventura-en-marruecos/",
+        "date": "2024-10-28 00:57:53",
+        "sentiment_score": 0.7647498603910208
+    },
+    {
+        "title": "Mario Casas: \"Me he convertido en un solitario; la felicidad pasa por ver a mis perras, comer sano y pasear por la montaña\"",
+        "image_url": "https://s1.elespanol.com/2024/10/25/reportajes/896171220_250367881_1706x960.jpg?contentId=ESPIMA20241025_0846",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241028/mario-casas-convertido-solitario-felicidad-pasa-ver-perras-comer-sano-pasear-montana/896160859_0.html",
+        "date": "2024-10-28 00:39:29",
+        "sentiment_score": -0.4256529211997986
+    },
+    {
+        "title": "Five Guys ficha al operador logístico de McDonald’s para asaltar el mercado portugués y las islas Canarias y Baleares",
+        "image_url": "https://s1.elespanol.com/2023/12/23/malaga/marbella/819428287_238677833_1706x960.jpg?contentId=ESPIMA20231223_0238",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20241028/five-guys-ficha-operador-logistico-mcdonalds-asaltar-mercado-portugues-islas-canarias-baleares/895910786_0.html",
+        "date": "2024-10-28 00:38:03",
+        "sentiment_score": 0.08934050053358078
+    },
+    {
+        "title": "El PNV sostiene que defenderá junto a Junts «las realidades nacionales vasca y catalana»",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/10/27/99273604-kHUH--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/politica/pnv-sostiene-defendera-junto-junts-realidades-nacionales-20241028064818-nt.html",
+        "date": "2024-10-28 00:00:00",
+        "sentiment_score": 0.07765988260507584
+    },
+    {
+        "title": "'Nanoflores' de hierro: este es el proyecto español para limpiar de microplásticos el agua potable",
+        "image_url": "https://s1.elespanol.com/2024/10/25/enclave-ods/historias/896170589_250348239_1706x960.jpg?contentId=ESPIMA20241025_0215",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20241028/nanoflores-hierro-proyecto-espanol-limpiar-microplasticos-agua-potable/896160485_0.html",
+        "date": "2024-10-27 23:52:43",
+        "sentiment_score": 0.31728120148181915
+    },
+    {
+        "title": "Uruguay va a segunda vuelta electoral para elegir al próximo presidente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/uruguay-va-a-segunda-vuelta-electoral-para-elegir-al-proximo-presidente-2024102721520",
+        "date": "2024-10-28 01:52:00",
+        "sentiment_score": 0.14987650886178017
+    },
+    {
+        "title": "Mac’s Pizza Pub ofrece patrocinio de Green Card a sus empleados (+Requisitos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/mac-s-pizza-pub-ofrece-patrocinio-de-green-card-a-sus-empleados--2024102721480",
+        "date": "2024-10-28 01:48:00",
+        "sentiment_score": 0.5116843674331903
+    },
+    {
+        "title": "Así puede actualizar sus datos en la web del Saime (+Paso a paso)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/asi-puede-actualizar-sus-datos-en-la-web-del-saime-paso-a-paso--2024102721320",
+        "date": "2024-10-28 01:32:00",
+        "sentiment_score": 0.10975940898060799
+    },
+    {
+        "title": "Incautan más de 2 mil cajas de comida por contrabando en Guárico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/incautan-mas-de-2-mil-cajas-de-comida-por-contrabando-en-guarico-2024102721270",
+        "date": "2024-10-28 01:27:00",
+        "sentiment_score": -0.25575484335422516
+    },
+    {
+        "title": "Capturan a un hombre con varias solicitudes por violencia de género",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/capturan-a-un-hombre-con-varias-solicitudes-por-violencia-de-genero-202410272180",
+        "date": "2024-10-28 01:08:00",
+        "sentiment_score": -0.001742243766784668
+    },
+    {
+        "title": "EEUU | ¿Cómo obtener cupones de descuento en las tiendas Macy’s?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-como-obtener-cupones-de-descuento-en-las-tiendas-macy-s--2024102720550",
+        "date": "2024-10-28 00:55:00",
+        "sentiment_score": 0.4135183058679104
+    },
+    {
+        "title": "Luis Arce ordena investigar el ataque que sufrió Evo Morales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/luis-arce-ordena-investigar-el-ataque-que-sufrio-evo-morales-2024102720100",
+        "date": "2024-10-28 00:10:00",
+        "sentiment_score": -0.5606933981180191
+    },
+    {
+        "title": "¿Cómo se celebra el Día de Muertos en EEUU? (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/como-se-celebra-el-dia-de-muertos-en-eeuu-detalles--202410272020",
+        "date": "2024-10-28 00:02:00",
+        "sentiment_score": 0.08282490074634552
+    },
+    {
+        "title": "Dotan de insumos y equipos a centros de salud de La Guaira",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/dotan-de-insumos-y-equipos-a-centros-de-salud-de-la-guaira-2024102719330",
+        "date": "2024-10-27 23:33:00",
+        "sentiment_score": 0.04832547903060913
+    },
+    {
+        "title": "Proyecto millonario podría cambiar el paisaje en Miami (+Propuestas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/proyecto-millonario-podria-cambiar-el-paisaje-en-miami-propuestas--202410271960",
+        "date": "2024-10-27 23:06:00",
+        "sentiment_score": 0.6147948168218136
     }
 ];
