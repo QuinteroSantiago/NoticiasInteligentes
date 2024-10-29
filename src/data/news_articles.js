@@ -66,50 +66,6 @@ export default [
         "sentiment_score": 0.1311081349849701
     },
     {
-        "title": "ANÁLISIS | Obama vuelve a sentir la \"feroz urgencia del presente\" mientras Trump aspira a regresar al poder",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771861-kamala-obama.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política",
-            "elecciones ee.uu"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/25/obama-sentirferoz-urgencia-del-presente-trump-volver-al-poder-trax/",
-        "date": "2024-10-25 13:48:55",
-        "sentiment_score": 0.2253301441669464
-    },
-    {
-        "title": "Amerizaje sobre el océano: así llegó la misión Crew-8 de SpaceX a la Tierra",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/aterrizaje-spacex-crew8-spacex-nasa-cafe-tv-orix",
-        "date": "2024-10-25 13:23:57",
-        "sentiment_score": 0.22903090715408325
-    },
-    {
-        "title": "Amerizaje sobre el océano: así llegó la misión Crew-8 de SpaceX a la Tierra",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/spacexthumbs-1-20241025131406575.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ciencia y espacio",
-            "astronautas",
-            "spacex crew dragon",
-            "videos digitales"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/aterrizaje-spacex-crew8-spacex-nasa-cafe-tv-orix/",
-        "date": "2024-10-25 13:23:57",
-        "sentiment_score": 0.6275807954370975
-    },
-    {
-        "title": "El PKK reivindica el ataque mortal contra una empresa aeroespacial turca",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/GettyImages-2180533009.jpg?quality=100&strip=info",
-        "tags": [
-            "turquía"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/25/el-pkk-reivindica-el-ataque-mortal-contra-una-empresa-aeroespacial-turquia/",
-        "date": "2024-10-25 12:55:53",
-        "sentiment_score": -0.8106481954455376
-    },
-    {
         "title": "Así favorece la masculinidad la enfermedad cardíaca en los hombres",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/10/25/masculinidad-trump-RSu265ApJ7wGi0tHjjXLIXK-1200x840@diario_abc.jpg",
         "tags": [
@@ -170,46 +126,6 @@ export default [
         "sentiment_score": -0.09759783744812012
     },
     {
-        "title": "Las renovables se convierten en la primera fuente de electricidad en España por primera vez en la historia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/25/1479120867-RsmDnIyNcU0V0j9wMT5nCVO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/renovables-convierten-primera-fuente-electricidad-espana-primera-20241025151844-nt.html",
-        "date": "2024-10-25 13:21:17",
-        "sentiment_score": -0.05292798578739166
-    },
-    {
-        "title": "Zarandeo al concierto catalán en la cumbre de los inspectores de Hacienda: «No hay por donde cogerlo»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/25/Mesafinanciacinautonmica-ResiavHpAhy1EvHlcScux5H-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/zarandeo-concierto-catalan-cumbre-inspectores-hacienda-cogerlo-20241025144943-nt.html",
-        "date": "2024-10-25 12:50:56",
-        "sentiment_score": -0.1046212911605835
-    },
-    {
-        "title": "Las empresas del transporte por carretera y los sindicatos tendrán 20 días para pedir la jubilación anticipada de los conductores",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/25/1474837493-RKp31HKectcvZKwaLdY6iiO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/empresas-transporte-carretera-sindicatos-dias-pedir-jubilacion-20241025142050-nt.html",
-        "date": "2024-10-25 12:21:22",
-        "sentiment_score": -0.0501285195350647
-    },
-    {
-        "title": "Zelenski rechaza recibir a Guterres en Kiev tras su visita a Rusia",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/25/1483728985-kujB-U603254335135a8G-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/zelenski-rechaza-recibir-guterres-kiev-tras-visita-20241025141054-nt.html",
-        "date": "2024-10-25 12:10:54",
-        "sentiment_score": -0.19039186835289001
-    },
-    {
         "title": "España apuesta por pasar la página de los acuerdos pesquero y agrícola anulados por la justicia europea",
         "image_url": "https://imagenes.elpais.com/resizer/v2/SKHWAAHBY7TPUZBRVHJSUFGTYE.jpg?auth=02119817aaca267b91a72d4b2b24d59a2e9130a66225c6ed2b478fae4554eec6&width=1200",
         "tags": [
@@ -260,133 +176,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-25/laura-borras-pide-que-se-le-aplique-la-amnistia-porque-es-intensamente-independentista.html",
         "date": "2024-10-25 14:29:41",
         "sentiment_score": -0.8683954980224371
-    },
-    {
-        "title": "El juez del ‘caso Koldo’ rechaza que testifiquen Pedro Sánchez y Nadia Calviño",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5KFP5NHZB7KLRQIBPG4QNCYNYA.jpg?auth=6ec87e97867b824b80d1c1e7f2264d7287344e03e1361a5749d6d10c30efaea8&width=1200",
-        "tags": [
-            "testigos",
-            "pedro sánchez",
-            "españa",
-            "audiencia nacional",
-            "caso koldo",
-            "política",
-            "ismael moreno chamarro"
-        ],
-        "link": "https://elpais.com/espana/2024-10-25/el-juez-del-caso-koldo-rechaza-que-testifiquen-pedro-sanchez-y-nadia-calvino.html",
-        "date": "2024-10-25 13:58:21",
-        "sentiment_score": 0.01562754064798355
-    },
-    {
-        "title": "Ada Colau en su despedida del Ayuntamiento de Barcelona: “Lo que más me ha decepcionado de la ciudad son las élites provincianas, mediocres y avariciosas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YCPD6UBL6VE6JDAXXESNRRHRUM.JPG?auth=0b00adcde80626b36ba522375cd6cb01125301e6d296385c28300b3a91c2c5a8&width=1200",
-        "tags": [
-            "izquierdismo",
-            "barcelona",
-            "cataluña",
-            "activismo",
-            "plenos municipales",
-            "barcelona en comú",
-            "política",
-            "ada colau",
-            "ayuntamiento barcelona",
-            "política municipal"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-25/ada-colau-en-su-despedida-del-ayuntamiento-de-barcelona-lo-que-mas-me-ha-decepcionado-de-la-ciudad-son-las-elites-provincianas-mediocres-y-avariciosas.html",
-        "date": "2024-10-25 13:53:12",
-        "sentiment_score": 0.16162988543510437
-    },
-    {
-        "title": "La ausencia de Ayuso marca la visita de las baronesas del PP a La Moncloa: “Lo que queda es una silla vacía. La única”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DZJ56AOGKG47RXH5VQNSD7WK7Y.jpg?auth=0718ba900322e776d8288c40dea1fe8da1a9f51f103b6e3043d9e8affb3710ea&width=1200",
-        "tags": [
-            "españa",
-            "isabel díaz ayuso",
-            "política",
-            "baleares",
-            "pp",
-            "extremadura",
-            "psoe",
-            "maría guardiola martín",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2024-10-25/la-ausencia-de-ayuso-marca-la-visita-de-las-baronesas-del-pp-en-la-moncloa-lo-que-queda-es-una-silla-vacia-la-unica.html",
-        "date": "2024-10-25 13:33:57",
-        "sentiment_score": -0.8957666717469692
-    },
-    {
-        "title": "El Supremo investigará si Belarra vulneró el honor del juez García-Castellón al llamarlo “corrupto”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JH323LJF3VBRRPRBN2PS5MQBWQ.jpg?auth=8b0c4a09b7ded9b41e8b818344e269526d510773f725a070060c3c4f295a6adf&width=1200",
-        "tags": [
-            "españa",
-            "podemos",
-            "política",
-            "manuel garcía castellón",
-            "congreso diputados",
-            "jueces",
-            "ione belarra",
-            "justicia"
-        ],
-        "link": "https://elpais.com/espana/2024-10-25/el-supremo-investigara-si-belarra-vulnero-el-honor-del-juez-garcia-castellon-al-llamarlo-corrupto.html",
-        "date": "2024-10-25 13:09:25",
-        "sentiment_score": 0.06665018573403358
-    },
-    {
-        "title": "“Loreto lo está parando”: la omisión de Más Madrid frente a una de las denuncias públicas contra Íñigo Errejón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LSDTQQGHKH2CHK6B6WSY2ZP2BU.jpg?auth=e74301211471ad1925baa808de4431fb3dfb54188743cd59f103ceecae7b3320&width=1200",
-        "tags": [
-            "españa",
-            "redes sociales",
-            "denuncias",
-            "violencia sexual",
-            "congreso diputados",
-            "íñigo errejón",
-            "sumar",
-            "más país"
-        ],
-        "link": "https://elpais.com/espana/2024-10-25/loreto-lo-esta-parando-la-omision-de-mas-madrid-frente-a-una-de-las-denuncias-publicas-contra-inigo-errejon.html",
-        "date": "2024-10-25 12:52:55",
-        "sentiment_score": -0.6314668282866478
-    },
-    {
-        "title": "La acampada por la vivienda de Valencia plantea ocupar otros espacios: “Ya no nos vale solo la plaza”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2VQNTOLHE4TZ4C3OBJ7LMUVKIA.jpg?auth=9a11691e2486cb62f5a3126ddf3775ca75301fed87d63fc3a6cd98815b034219&width=1200",
-        "tags": [
-            "vivienda",
-            "ayuntamiento valencia",
-            "generalitat valenciana",
-            "juventud",
-            "viviendas alquiler",
-            "protestas sociales",
-            "turistificación",
-            "políticas gobierno",
-            "valencia",
-            "jóvenes",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-25/la-acampada-por-la-vivienda-de-valencia-plantea-ocupar-otros-espacios-ya-no-nos-vale-solo-la-plaza.html",
-        "date": "2024-10-25 12:40:55",
-        "sentiment_score": -0.01844669133424759
-    },
-    {
-        "title": "Intervenidas en Algeciras 13 toneladas de cocaína oculta entre plátanos, el mayor alijo aprehendido en España",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JJVGQMYVM4V23ZNAASX6IDTXOQ.jpg?auth=e8a2d40cd5e9cf5377c4a45af097b6e9f07de54b70352d82c324e6ad951692f0&width=1200",
-        "tags": [
-            "narcotráfico",
-            "policía nacional",
-            "españa",
-            "comercio",
-            "cádiz",
-            "drogas",
-            "plátano",
-            "cocaína",
-            "tráfico cocaína",
-            "exportaciones",
-            "algeciras"
-        ],
-        "link": "https://elpais.com/espana/2024-10-25/intervenidas-en-algeciras-13-toneladas-de-cocaina-oculta-entre-platanos-el-mayor-alijo-aprehendido-en-espana.html",
-        "date": "2024-10-25 11:54:42",
-        "sentiment_score": -0.4819047711789608
     },
     {
         "title": "Leonor y Sofía ven quién está entre el público y su reacción es inmediata",
@@ -7320,5 +7109,401 @@ export default [
         "link": "https://2001online.com/deportes/lamine-yamal-recibe-premio-a-mejor-jugador-joven-del-mundo-2024102816490",
         "date": "2024-10-28 20:49:00",
         "sentiment_score": 0.4776872508227825
+    },
+    {
+        "title": "El rol de la industria farmacéutica y los gobiernos en la salud",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-56293505.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/merck-industria-farmaceutica-retos-gobierno-panorama-mundial-tv/",
+        "date": "2024-10-29 02:10:13",
+        "sentiment_score": 0.19532056152820587
+    },
+    {
+        "title": "El rol de la industria farmacéutica y los gobiernos en la salud",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-56293505.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/merck-industria-farmaceutica-retos-gobierno-panorama-mundial-tv",
+        "date": "2024-10-29 02:10:13",
+        "sentiment_score": -0.03690388798713684
+    },
+    {
+        "title": "Insultos de Trump no es algo nuevo para los puertorriqueños, asegura experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180984991.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/insultos-puerto-rico-trump-hinchcliffe-elecciones-panorama-mundial-tv",
+        "date": "2024-10-29 02:09:48",
+        "sentiment_score": -0.5191442295908928
+    },
+    {
+        "title": "Insultos de Trump no es algo nuevo para los puertorriqueños, asegura experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180984991.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/insultos-puerto-rico-trump-hinchcliffe-elecciones-panorama-mundial-tv/",
+        "date": "2024-10-29 02:09:48",
+        "sentiment_score": -0.842519081197679
+    },
+    {
+        "title": "A Netanyahu no le conviene un cese del fuego, dice analista",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1718833083.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cese-fuego-gaza-egipto-netanyahu-panorama-mundial-tv/",
+        "date": "2024-10-29 02:09:37",
+        "sentiment_score": -0.4691948890686035
+    },
+    {
+        "title": "Experto analiza el impacto de los comentarios de Hinchcliffle contra Puerto Rico",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/apimages-b5a19efa6fec44c78afba5be175fac1d-20241029020216499.jpg?quality=100&strip=info",
+        "tags": [
+            "puerto rico",
+            "ee.uu.",
+            "elecciones estados unidos",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-puerto-rico-electorado-insultos-trump-conclusiones-tv/",
+        "date": "2024-10-29 02:05:04",
+        "sentiment_score": -0.37367812544107437
+    },
+    {
+        "title": "Mira cómo es la competencia acuática dentro de calabazas gigantes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/pumpkin-race-thumb-1-20241029015208146.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "videos digitales",
+            "competencias",
+            "europa",
+            "halloween"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/belgica-calabazas-competencia-gigante-halloween-trax/",
+        "date": "2024-10-29 01:53:10",
+        "sentiment_score": 0.314436674118042
+    },
+    {
+        "title": "Las aerolíneas estadounidenses deberán reembolsarte automáticamente el importe de un vuelo cancelado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-1228826491.webp",
+        "tags": [
+            "aviación",
+            "aerolíneas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/28/las-aerolineas-estadounidenses-deberan-reembolsarte-automaticamente-el-importe-de-un-vuelo-cancelado/",
+        "date": "2024-10-29 01:43:38",
+        "sentiment_score": -0.7868902608752251
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 28 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-28-de-octubre-2024-panorama-fast",
+        "date": "2024-10-29 00:44:53",
+        "sentiment_score": 0.13911987468600273
+    },
+    {
+        "title": "ANÁLISIS | Cómo los clips de redes sociales se convirtieron en uno de los medios más poderosos de la campaña de 2024",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2181418850.webp",
+        "tags": [
+            "elecciones en estados unidos",
+            "redes sociales",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/28/clips-redes-sociales-poder-campana-elecciones-trax/",
+        "date": "2024-10-29 00:31:10",
+        "sentiment_score": 0.22276850789785385
+    },
+    {
+        "title": "El Ayuntamiento de Madrid completará la compra de la empresa que gestiona la M-30",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UD6K2NWESVH33IWF4HU63N7WYU.jpg?auth=cad13ff45aa9e3266b1b23ef9de38996c76b539848646f4635e942bd34d02e18&width=1200",
+        "tags": [
+            "carreteras",
+            "ayuntamiento madrid",
+            "madrid",
+            "comunidad de madrid",
+            "josé luis martínez almeida",
+            "túneles carretera",
+            "plenos municipales",
+            "m-30",
+            "presupuestos municipales"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-28/el-ayuntamiento-de-madrid-completara-la-compra-de-la-empresa-que-gestiona-la-m-30.html",
+        "date": "2024-10-28 23:00:00",
+        "sentiment_score": 0.029811762273311615
+    },
+    {
+        "title": "El futbolista español Rodri gana el Balón de Oro 2024",
+        "image_url": "https://cdn.img.noticiaslatam.lat/img/07e8/0a/1d/1158603734_0:27:2310:1326_1920x0_80_0_0_53e34e121e525ec99aecfb73a46efd1d.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://noticiaslatam.lat/20241029/el-futbolista-espanol-rodri-gana-el-balon-de-oro-2024-1158603586.html",
+        "date": "2024-10-29 02:10:00",
+        "sentiment_score": 0.8753804229199886
+    },
+    {
+        "title": "Los mensajes de Aldama a Delcy tras su visita a España: \"Dile a Maduro que lo ha conseguido en tiempo récord\"",
+        "image_url": "https://s1.elespanol.com/2024/10/12/espana/892921198_249968106_1706x960.png?contentId=ESPIMA20241012_0499",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241029/mensajes-aldama-delcy-visita-espana-dile-maduro-conseguido-tiempo-record/896910940_0.html",
+        "date": "2024-10-29 02:01:45",
+        "sentiment_score": -0.5723139997571707
+    },
+    {
+        "title": "¿Cuánto dinero mueve el Balón de Oro? El impacto comercial tras la senda de Messi y Cristiano",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/29/culemania/palco/897170275_13642201_1706x960.jpg?contentId=ESPIMA20241029_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241029/cuanto-balon-de-oro-el-messi-cristiano/897160276_0.html",
+        "date": "2024-10-29 01:09:40",
+        "sentiment_score": 0.7494952753186226
+    },
+    {
+        "title": "Lamine Yamal asume la misión de rescatar al Barça de las tinieblas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/28/culemania/primer-equipo/896920434_13641979_1706x960.jpg?contentId=ESPIMA20241028_0135",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241029/lamine-yamal-mision-de-rescatar-barca-tinieblas/896910440_0.html",
+        "date": "2024-10-29 01:07:33",
+        "sentiment_score": 0.4475456699728966
+    },
+    {
+        "title": "Ludmila da Silva, ex del Atlético, achaca al racismo que Vinícius no haya ganado el Balón de Oro",
+        "image_url": "https://cflvdg.avoz.es/sc/kMCJykNQTiTLdefCxrbM0EAErao=/768x/2024/10/28/00121730152999683821577/Foto/EuropaPress_5983861_ludmila_da_silva_of_atletico_madrid_in_action_during_the_spanish_women-EP.jpg",
+        "tags": [
+            "fútbol",
+            "balón de oro",
+            "real madrid",
+            "vinicius"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/10/28/ludmila-da-silva-ex-atletico-achaca-racismo-vinicius-haya-ganado-balon-oro/00031730153049039590649.htm",
+        "date": "2024-10-29 01:05:00",
+        "sentiment_score": -0.8507698765024543
+    },
+    {
+        "title": "Casa Rafa, la marisquería del Retiro con 70 años de historia que empezó siendo un bar de periodistas",
+        "image_url": "https://s1.elespanol.com/2024/10/28/madrid/ocio/896921238_250432331_1706x960.jpg?contentId=ESPIMA20241028_0939",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241029/casa-rafa-marisqueria-retiro-anos-historia-empezo-bar-periodistas/896910560_0.html",
+        "date": "2024-10-29 01:03:05",
+        "sentiment_score": 0.25508661568164825
+    },
+    {
+        "title": "28 OCT 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/28-oct-2024-partidazo-cope-20241029_3036238.html",
+        "date": "2024-10-29 00:54:15",
+        "sentiment_score": -0.2625327557325363
+    },
+    {
+        "title": "3.521 señalados por el #MeToo anónimo de Fallarás: 14 meses de denuncias y un libro sin proceso de verificación",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/48cf0167c1283c7505a808848babc8f2/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/28/17301521669453.jpg",
+        "tags": [
+            "artículos luigi benedicto borges"
+        ],
+        "link": "https://www.elmundo.es/cronica/2024/10/29/672007f1e85ecedf778b4588.html",
+        "date": "2024-10-29 00:48:28",
+        "sentiment_score": -0.37275150790810585
+    },
+    {
+        "title": "‘The Washington Post’ pierde más de 200.000 suscriptores tras bloquear Bezos el apoyo a Harris",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CW7H3TN5U5E55ALIBFEYJR2Q3U.jpg?auth=3b2b176bf1a516273f6a3b29c6ddd7d859678de7ebf73ad094a7cf442c6a96dd&width=1200",
+        "tags": [
+            "política",
+            "medios comunicación privados",
+            "kamala harris",
+            "partido republicano ee uu",
+            "medios comunicación internacionales",
+            "políticos",
+            "medios comunicación",
+            "donald trump",
+            "elecciones ee uu",
+            "campañas electorales",
+            "partido demócrata ee uu",
+            "elecciones",
+            "estados unidos",
+            "the washington post",
+            "américa",
+            "elecciones presidenciales"
+        ],
+        "link": "https://elpais.com/internacional/elecciones-usa/2024-10-29/the-washington-post-pierde-mas-de-200000-suscriptores-tras-bloquear-bezos-el-apoyo-a-harris.html",
+        "date": "2024-10-29 00:47:11",
+        "sentiment_score": -0.8069026544690132
+    },
+    {
+        "title": "Rodri se quedó con el Balón de Oro y le ganó la pulseada a Vinicius Jr.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://eltiempove.com/rodri-se-quedo-con-el-balon-de-oro-y-le-gano-la-pulseada-a-vinicius-jr/",
+        "date": "2024-10-29 00:30:17",
+        "sentiment_score": 0.5079863965511322
+    },
+    {
+        "title": "¿Cuáles son las opciones para volar a México y Venezuela desde Ecuador?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/cuales-son-las-opciones-para-volar-a-mexico-y-venezuela-desde-ecuador--2024102821320",
+        "date": "2024-10-29 01:32:00",
+        "sentiment_score": -0.6924741696566343
+    },
+    {
+        "title": "Panoram, la gestora que está detrás de Hilton, Accor e IHG en España, suma cinco hoteles más a su cartera",
+        "image_url": "https://s1.elespanol.com/2024/10/28/invertia/empresas/turismo/896920422_250406998_1706x960.jpg?contentId=ESPIMA20241028_0123",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20241029/panoram-gestora-detras-hilton-accor-ihg-espana-suma-hoteles-cartera/896910375_0.html",
+        "date": "2024-10-29 01:22:41",
+        "sentiment_score": 0.36317455768585205
+    },
+    {
+        "title": "Mitos y leyendas sobre la vivienda",
+        "image_url": "https://s1.elespanol.com/2024/10/28/invertia/opinion/896920437_250407516_1706x960.jpg?contentId=ESPIMA20241028_0138",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20241029/mitos-leyendas-vivienda/897030289_12.html",
+        "date": "2024-10-29 01:21:15",
+        "sentiment_score": -0.01086629182100296
+    },
+    {
+        "title": "El otro gran problema de Montjuïc: se cuela mucha más gente que en el Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/23/culemania/culemaniacos/895670551_13621141_1706x960.jpg?contentId=ESPIMA20241023_0127",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241029/el-problema-montjuic-cuela-mucha-camp-nou/896910390_0.html",
+        "date": "2024-10-29 01:08:04",
+        "sentiment_score": -0.7033294849097729
+    },
+    {
+        "title": "La plataforma para la movilidad internacional de Lodgerin aterriza en EEUU y abre sede en Miami",
+        "image_url": "https://s1.elespanol.com/2024/10/28/invertia/disruptores/ecosistema-startup/896920420_250406960_1706x960.jpg?contentId=ESPIMA20241028_0121",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/20241029/plataforma-movilidad-internacional-lodgerin-aterriza-eeuu-abre-sede-miami/896910376_0.html",
+        "date": "2024-10-29 00:47:15",
+        "sentiment_score": 0.6763622723519802
+    },
+    {
+        "title": "Cainã Cavalcante hace lo que quiere con la guitarra",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/10/29/1-kNwH-U2201638301032eWC-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/caina-cavalcante-quiere-guitarra-20241029013209-nt.html",
+        "date": "2024-10-29 00:32:09",
+        "sentiment_score": 0.6565113104879856
+    },
+    {
+        "title": "Maduro sobre Guanipa: Es el sujeto más fascista de la oposición",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-sobre-guanipa-es-el-sujeto-mas-fascista-de-la-oposicion-2024102821500",
+        "date": "2024-10-29 01:50:00",
+        "sentiment_score": -0.8739906288683414
+    },
+    {
+        "title": "EEUU: La cadena de comida que cerrará 150 restaurantes producto de la crisis",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-la-cadena-de-comida-que-cerrara-150-restaurantes-producto-de-la-crisis-2024102821320",
+        "date": "2024-10-29 01:32:00",
+        "sentiment_score": -0.8125231266021729
+    },
+    {
+        "title": "EEUU: Familia obtuvo 500.000 dólares tras vender una moneda (+Foto)",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1730163973440/1.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-familia-obtuvo-500-000-dolares-tras-vender-una-moneda-foto--202410282130",
+        "date": "2024-10-29 01:03:00",
+        "sentiment_score": -0.1036435216665268
+    },
+    {
+        "title": "Harán jornada de Borrón y Cuenta Nueva en El Hatillo (+Fecha)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/haran-jornada-de-borron-y-cuenta-nueva-en-el-hatillo-fecha--2024102820590",
+        "date": "2024-10-29 00:59:00",
+        "sentiment_score": 0.056657712906599045
+    },
+    {
+        "title": "Ofrecen punto de venta en oferta por Halloween (+Precio)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/ofrecen-punto-de-venta-en-oferta-por-halloween-precio--2024102820560",
+        "date": "2024-10-29 00:56:00",
+        "sentiment_score": 0.18315239995718002
+    },
+    {
+        "title": "Capturan a sujeto por tráfico de armas y municiones en el Zulia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/capturan-a-sujeto-por-trafico-de-armas-y-municiones-en-el-zulia-2024102820540",
+        "date": "2024-10-29 00:54:00",
+        "sentiment_score": -0.6145255155861378
+    },
+    {
+        "title": "EEUU | Conozca la ciudad que regala terrenos para levantar su vivienda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-conozca-la-ciudad-que-regala-terrenos-para-levantar-su-vivienda-2024102820400",
+        "date": "2024-10-29 00:40:00",
+        "sentiment_score": 0.731119379401207
+    },
+    {
+        "title": "Capturan a los conductores involucrados en la muerte de una mujer en Catia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/capturan-a-los-conductores-involucrados-en-la-muerte-de-una-mujer-en-catia-2024102820350",
+        "date": "2024-10-29 00:35:00",
+        "sentiment_score": -0.7708537057042122
+    },
+    {
+        "title": "Tiktoker latina revela las empresas que ofrecen trabajos temporales en EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/tiktoker-latina-revela-las-empresas-que-ofrecen-trabajos-temporales-en-eeuu-2024102820280",
+        "date": "2024-10-29 00:28:00",
+        "sentiment_score": -0.07136988639831543
     }
 ];
