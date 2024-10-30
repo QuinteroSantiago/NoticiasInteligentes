@@ -55,67 +55,6 @@ export default [
         "sentiment_score": -0.863597852177918
     },
     {
-        "title": "En Texas, Harris abraza a Beyoncé y advierte a los votantes de los estados indecisos que las \"prohibiciones de aborto de Trump\" van por ellos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/kamala-harris-beyonce.jpg?quality=100&strip=info",
-        "tags": [
-            "beyoncé",
-            "política",
-            "kamala harris"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/26/harris-abraza-beyonce-estados-indecisos-prohibiciones-de-aborto-trax/",
-        "date": "2024-10-26 13:39:22",
-        "sentiment_score": -0.2561706006526947
-    },
-    {
-        "title": "La obesidad infantil en EE.UU. aumentó considerablemente en 20 años",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-107069273.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "consejos de salud",
-            "obesidad infantil",
-            "noticias de salud",
-            "videos digitales"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/obesidad-infantil-eeuu-aumento-minuto-de-salud-fast/",
-        "date": "2024-10-26 13:00:35",
-        "sentiment_score": -0.786849120631814
-    },
-    {
-        "title": "“Es una apuesta de alto riesgo”, dice experta sobre el nuevo paquete de estímulo de China",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178129830-20241023215335147.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "exportaciones",
-            "estímulo económico",
-            "china",
-            "economía china"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nuevo-paquete-de-estimulo-de-china-globoeconomia-fast/",
-        "date": "2024-10-26 12:00:12",
-        "sentiment_score": -0.03883467614650726
-    },
-    {
-        "title": "Milei dice que acelera como Colapinto, pero la economía argentina recién arranca",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/09/gettyimages-2175368435.jpg?quality=100&strip=info",
-        "tags": [
-            "javier milei",
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/26/milei-economia-argentina-analisi-orix/",
-        "date": "2024-10-26 11:56:40",
-        "sentiment_score": 0.301437608897686
-    },
-    {
-        "title": "Por qué estos republicanos creen que votar contra Trump podría salvar al Partido Republicano",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/Republicanos-port-e1729937559515.jpg?quality=100&strip=info",
-        "tags": [
-            "harris",
-            "trump",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/26/pensilvania-haley-votantes-trump-harris-trax/",
-        "date": "2024-10-26 10:21:28",
-        "sentiment_score": -0.40656111389398575
-    },
-    {
         "title": "La extracción del tren descarrilado entre Atocha y Chamartín obligará a «cortar todas las circulaciones» con el Levante",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/26/Descarrilado-k4hH-U603259249018fVB-1200x840@diario_abc.JPG",
         "tags": [
@@ -124,16 +63,6 @@ export default [
         "link": "https://www.abc.es/economia/extraccion-tren-descarrilado-atocha-chamartin-obligara-cortar-20241026173716-nt.html",
         "date": "2024-10-26 15:37:16",
         "sentiment_score": -0.1073538064956665
-    },
-    {
-        "title": "Estados Unidos apunta al despliegue de tropas norcoreanas en la región rusa de Kursk",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/26/putincorea-RyPm9XN8hjX0vz09CZUI6gJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/estados-unidos-apunta-despliegue-tropas-norcoreanas-region-20241026135921-nt.html",
-        "date": "2024-10-26 12:03:23",
-        "sentiment_score": -0.1465851068496704
     },
     {
         "title": "‘Shock’, lágrimas y acusaciones cruzadas en Más Madrid por el ‘caso Errejón’: “Que salga hasta el último demonio”",
@@ -151,73 +80,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-10-26/shock-lagrimas-y-acusaciones-cruzadas-en-mas-madrid-por-el-caso-errejon-que-salga-hasta-el-ultimo-demonio.html",
         "date": "2024-10-26 15:24:55",
         "sentiment_score": -0.9250226896256208
-    },
-    {
-        "title": "Illa reinicia los trámites para crear la Agencia de Atención Integrada Social y Sanitaria",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HSKEW5G4JNCYHNVIAJU76HKKSE.JPG?auth=4f17c75749616b5e89da9dc295fc135472962148279221123201b03999bab2f9&width=1200",
-        "tags": [
-            "leyes autonómicas",
-            "residencias ancianos",
-            "salvador illa",
-            "generalitat cataluña",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-26/illa-reinicia-los-tramites-para-crear-la-agencia-de-atencion-integrada-social-y-sanitaria.html",
-        "date": "2024-10-26 11:56:00",
-        "sentiment_score": -0.411595456302166
-    },
-    {
-        "title": "Alunizaje en la ‘boutique’ de Valentino en Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NJ7KKG32XRAD5N2ZI3JRYPBOME.jpg?auth=ff3ff61a5baf65d69473cff8a44d2624035bf8bdab772f77cb694604ad8c68d4&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "madrid",
-            "alunizaje",
-            "sucesos",
-            "robos",
-            "investigación policial",
-            "policía"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-26/alunizaje-en-la-boutique-de-valentino-en-madrid.html",
-        "date": "2024-10-26 11:49:56",
-        "sentiment_score": -0.8862432138994336
-    },
-    {
-        "title": "La nueva cúpula de Junts: un democristiano independentista, el pedigrí convergente y políticas con futuro",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QT3NWPFTQZFONDS2C3UDF3GEVY.jpg?auth=fb8a6b9146ede01c861ad4a8b50c73765d70dec25b45384e3725fd0d29fda9b9&width=1200",
-        "tags": [
-            "congresos",
-            "ciu",
-            "independencia",
-            "juntsxcat",
-            "carles puigdemont",
-            "calella",
-            "cataluña",
-            "míriam nogueras",
-            "partidos políticos",
-            "laura borràs"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-26/la-nueva-cupula-de-junts-un-democristiano-independentista-el-pedigri-convergente-y-politicas-con-futuro.html",
-        "date": "2024-10-26 11:22:04",
-        "sentiment_score": 0.22545276023447514
-    },
-    {
-        "title": "Dos heridos en el incendio provocado por un rayo en una casa de madera de Vallvidrera (Barcelona)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2LR7D47P2Z6XLM4UB7LNW6LUUA.jpg?auth=4fa2d33c8457d0d0fcf29cf487ad8e1e336d426a1633ecc10433a5f14eee058b&width=1200",
-        "tags": [
-            "cataluña",
-            "barcelona",
-            "meteorología",
-            "viviendas prefabricadas",
-            "bomberos",
-            "mossos d'esquadra",
-            "heridos",
-            "rayos",
-            "lluvias torrenciales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-10-26/dos-heridos-en-el-incendio-provocado-por-un-rayo-en-una-casa-de-madera-de-vallvidrera-barcelona.html",
-        "date": "2024-10-26 10:55:30",
-        "sentiment_score": -0.7256855443120003
     },
     {
         "title": "Sumar enfrenta el reto del 'caso Errejón' y su impacto en el Gobierno de coalición",
@@ -7190,5 +7052,326 @@ export default [
         "link": "https://www.informacion.es/cultura/2024/10/29/ahora-sufrimiento-sentido-investigacion-destapa-110847501.html",
         "date": "2024-10-29 21:41:28",
         "sentiment_score": -0.6813436299562454
+    },
+    {
+        "title": "Preocupación internacional por las medidas de Israel contra la UNRWA",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181057728.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "guerra en gaza",
+            "guerra israel",
+            "ayuda humanitaria",
+            "unrwa",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/unrwa-ayuda-humanitaria-bloqueo-israel-panorama-mundial-tv/",
+        "date": "2024-10-30 02:13:53",
+        "sentiment_score": -0.8973310487344861
+    },
+    {
+        "title": "Preocupación internacional por las medidas de Israel contra la UNRWA",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181057728.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/unrwa-ayuda-humanitaria-bloqueo-israel-panorama-mundial-tv",
+        "date": "2024-10-30 02:13:53",
+        "sentiment_score": -0.7754724193364382
+    },
+    {
+        "title": "Evo Morales: Bolivia vive en la dictadura de la mentira",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1284423166.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bolivia",
+            "zona andina",
+            "ataque",
+            "xpress",
+            "fast – news variety",
+            "evo morales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/evo-morales-bolivia-dictadura-aristegui-tv/",
+        "date": "2024-10-30 02:13:37",
+        "sentiment_score": -0.7871030941605568
+    },
+    {
+        "title": "OPINIÓN | Cualquier cosa puede suceder en las elecciones en Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181800500.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opinion-jorge-castaneda-elecciones-eeuu-recta-final-panorama-mundial-tv",
+        "date": "2024-10-30 02:10:07",
+        "sentiment_score": -0.009138241410255432
+    },
+    {
+        "title": "Candidato a la gobernación de Puerto Rico llama a votar por Harris tras indignación por insultos contra la isla",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/gettyimages-2181817987-20241030015924361.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/puerto-rico-elecciones-eeuu-apoyo-voto-electores-conclusiones-tv/",
+        "date": "2024-10-30 02:02:28",
+        "sentiment_score": -0.691045630723238
+    },
+    {
+        "title": "¿Qué cambios provocó el covid-19 en el sector salud?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/naucalpan-logo-20241030014711992.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/merck-industria-farmaceutica-retos-gobierno-post-covid-panorama-mundial-tv",
+        "date": "2024-10-30 01:51:42",
+        "sentiment_score": -0.11104045808315277
+    },
+    {
+        "title": "¿Qué cambios provocó el covid-19 en el sector salud?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/naucalpan-logo-20241030014711992.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/merck-industria-farmaceutica-retos-gobierno-post-covid-panorama-mundial-tv/",
+        "date": "2024-10-30 01:51:42",
+        "sentiment_score": 0.1278279721736908
+    },
+    {
+        "title": "Qué hacer si las elecciones en EE.UU le quitan el sueño",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181769049.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "insomnio",
+            "elecciones en ee.uu.",
+            "xpress",
+            "noticias de salud",
+            "videos digitales",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-impacto-sueno-electosomnio-minuto-de-salud-fast/",
+        "date": "2024-10-30 01:45:26",
+        "sentiment_score": -0.20251229405403137
+    },
+    {
+        "title": "Qué hacer si las elecciones en EE.UU le quitan el sueño",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181769049.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-impacto-sueno-electosomnio-minuto-de-salud-fast",
+        "date": "2024-10-30 01:45:26",
+        "sentiment_score": -0.7986023481935263
+    },
+    {
+        "title": "Harris: Si es elegido, Trump entrará a esa oficina con una lista de enemigos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181822127.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "kamala harris",
+            "elecciones ee.uu",
+            "trump",
+            "kamala",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-harris-compara-trump-elecciones-eeuu-orix/",
+        "date": "2024-10-30 01:43:14",
+        "sentiment_score": -0.07862779498100281
+    },
+    {
+        "title": "El temporal se desplaza hacia el noreste tras dejar varios muertos en Valencia y seis desaparecidos en Albacete",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RTEDJI7W6FFH7EPJDLXUSMUTEM.jpg?auth=3ced9bb873ee151f38d5b81b729afb12266928a47d3226c484538999c5e93bc7&width=1200",
+        "tags": [
+            "aragón",
+            "temporales",
+            "dana",
+            "viento",
+            "andalucía",
+            "españa",
+            "lluvias torrenciales",
+            "predicción meteorológica",
+            "comunidad valenciana",
+            "aemet",
+            "ríos",
+            "castilla-la mancha",
+            "meteorología",
+            "inundaciones",
+            "lluvia",
+            "alerta meteorológica"
+        ],
+        "link": "https://elpais.com/espana/2024-10-30/el-temporal-se-desplaza-hacia-el-noreste-tras-dejar-varios-muertos-en-valencia-y-siete-desaparecidos-en-albacete.html",
+        "date": "2024-10-30 00:04:10",
+        "sentiment_score": -0.7777124550193548
+    },
+    {
+        "title": "Los socios de Díaz aprovechan el 'caso Errejón' para acelerar la \"catarsis\" en Sumar y enterrar su modelo \"vertical\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/08353a73d368c0e26a973adb88560deb/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/29/17302357391260.jpg",
+        "tags": [
+            "sumar",
+            "yolanda díaz",
+            "artículos álvaro carvajal",
+            "iñigo errejón"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/10/30/67213578e9cf4adb268b45b2.html",
+        "date": "2024-10-30 01:47:26",
+        "sentiment_score": -0.09054340422153473
+    },
+    {
+        "title": "Rudy Fernández: \"Mi padre me decía que tenía que darlo todo por cada camiseta, pero el Real Madrid fue algo especial\"",
+        "image_url": "https://s1.elespanol.com/2024/10/30/eventos/2024/9-aniversario/897420251_250465816_1706x960.jpg?contentId=ESPIMA20241030_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/eventos/2024/9-aniversario/20241030/rudy-fernandez-padre-decia-darlo-camiseta-real-madrid-especial/897160870_0.html",
+        "date": "2024-10-30 01:15:00",
+        "sentiment_score": 0.45804641395807266
+    },
+    {
+        "title": "Laporta cambia de estrategia con las instituciones: cada vez más lejos del Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/30/culemania/palco/897420251_13647845_1706x960.jpg?contentId=ESPIMA20241030_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241030/laporta-cambia-estrategia-instituciones-lejos-real-madrid/897410251_0.html",
+        "date": "2024-10-30 00:58:40",
+        "sentiment_score": 0.6695264130830765
+    },
+    {
+        "title": "Ahora o nunca para Urko González de Zarate",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/10/29/99323134-kamE--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/nunca-urko-gonzalez-zarate-20241030064908-nt.html",
+        "date": "2024-10-30 00:00:00",
+        "sentiment_score": 0.39698151871562004
+    },
+    {
+        "title": "Siete desaparecidos, personas atrapadas y cuantiosos daños materiales tras el paso de la DANA por España",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/29/672161af914ee.r_d.1772-1181-1267.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20241030/1002343497/siete-desaparecidos-personas-atrapadas-cuantiosos-danos-materiales-paso-dana-espana-dct.html",
+        "date": "2024-10-29 23:52:47",
+        "sentiment_score": -0.9116280293092132
+    },
+    {
+        "title": "La dana en España, en directo | Varios muertos en Valencia y al menos seis desaparecidos en Albacete por las inundaciones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f8486290-33c1-4a0e-9e88-7706cfb32662_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/sucesos/2024/10/30/directo-ultima-hora-dana-azota-costa-mediterranea-sur-peninsula-110855348.html",
+        "date": "2024-10-29 23:47:47",
+        "sentiment_score": -0.6834070533514023
+    },
+    {
+        "title": "Y Sobrino se reencontró con el gol",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2024/10/29/20241029220147__TA_0704-RY4uQLmYNnht1slcZjaYlmJ-758x531@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/sobrino-reencontro-gol-20241029000600-ntv.html",
+        "date": "2024-10-29 23:08:23",
+        "sentiment_score": 0.01488804817199707
+    },
+    {
+        "title": "El Valencia C.F pide que se suspenda su partido de Copa del Rey por las \"graves consecuencias\" de la DANA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "valencia"
+        ],
+        "link": "https://www.esdiario.com/comunidad-valenciana/valencia/241030/145806/valencia-c-f-pide-suspenda-partido-copa-rey-graves-consecuencias-dana.html",
+        "date": "2024-10-29 23:05:37",
+        "sentiment_score": -0.6365679148584604
+    },
+    {
+        "title": "Cristina Pardo a los aficionados que insultaron a Lamine Yamal en el Bernabéu: «Si vendiera pañuelos...»",
+        "image_url": "https://cflvdg.avoz.es/sc/oFhZvSkt_xkJSxUQZuhIH8r_wR0=/768x/2024/10/29/00121730239055871924671/Foto/Cristina-Pardo-Lamine-Yamal.jpg",
+        "tags": [
+            "real madrid",
+            "tertulias",
+            "fc barcelona",
+            "lamine yamal"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/tertulias/2024/10/29/cristina-pardo-aficionados-insultaron-lamine-yamal-bernabeu-vendiera-panuelos/00031730239156419920837.htm",
+        "date": "2024-10-29 23:05:00",
+        "sentiment_score": -0.4831215962767601
+    },
+    {
+        "title": "Suntory Global Spirits automatiza su tesorería Europea en Madrid",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2024/10/suntory-global-spirits-automatiza-su-tesoreria-europea.jpg.webp",
+        "tags": [
+            "automatizar",
+            "actualidad ti",
+            "suntory global spirits",
+            "kyriba"
+        ],
+        "link": "https://revistabyte.es/actualidad-it/suntory-global/",
+        "date": "2024-10-29 23:05:00",
+        "sentiment_score": 0.7459768122062087
+    },
+    {
+        "title": "Williams Brito: “En el básquet, como todo, está conformado por capas”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/williams-brito-en-el-basquet-como-todo-esta-conformado-por-capas/",
+        "date": "2024-10-30 01:09:32",
+        "sentiment_score": 0.09851051867008209
+    },
+    {
+        "title": "Así es la vida de Hansi Flick en la zona alta de Barcelona",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/29/culemania/culemaniacos/897170445_13647331_1706x960.png?contentId=ESPIMA20241029_0171",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241030/asi-la-vida-de-hansi-flick-barcelona/897160384_0.html",
+        "date": "2024-10-30 00:47:44",
+        "sentiment_score": 0.29938022792339325
+    },
+    {
+        "title": "Murió tras chocar contra muro de un puente y caer a una laguna",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/10/accidente-anzoategui-conductor-fallecido-730x524.webp",
+        "tags": [
+            "accidente de tránsito",
+            "accidente en la zona oeste",
+            "hombre",
+            "nación",
+            "sucesos",
+            "muerte",
+            "anzoátegui"
+        ],
+        "link": "https://primicia.com.ve/sucesos/murio-tras-chocar-contra-muro-de-un-puente-y-caer-a-una-laguna/",
+        "date": "2024-10-30 00:38:36",
+        "sentiment_score": -0.7848489861935377
+    },
+    {
+        "title": "Localizados un número indeterminado de cadáveres en las zonas inundadas de España",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/293c833afe8f876055216b795626000c/crop/22x31/1933x1305/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/30/17302459735200.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.expansion.com/sociedad/2024/10/30/67215da3468aebb6468b469d.html",
+        "date": "2024-10-29 23:53:47",
+        "sentiment_score": -0.6290617808699608
+    },
+    {
+        "title": "Puntos violeta por teléfono y en varios idiomas en Alicante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43a5c112-7177-4e03-ae71-04df944d87de_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/alicante/2024/10/30/nuevos-puntos-violeta-telefono-idiomas-alicante-110854095.html",
+        "date": "2024-10-29 23:46:08",
+        "sentiment_score": -0.7896695975214243
+    },
+    {
+        "title": "Venganza futbolera",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/30/errejon-km7F-U2201643476576zCB-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/opinion/rosa-palo-venganza-futbolera-20241030004554-ntrc.html",
+        "date": "2024-10-29 23:45:55",
+        "sentiment_score": -0.8983010891824961
     }
 ];
