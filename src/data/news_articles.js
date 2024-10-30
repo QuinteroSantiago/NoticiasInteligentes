@@ -1,140 +1,5 @@
 export default [
     {
-        "title": "Las Tres Mil tras la batalla",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-tres-mil-tras-batalla-20241026073925-nts.html",
-        "date": "2024-10-26 05:39:26",
-        "sentiment_score": -0.25327129662036896
-    },
-    {
-        "title": "Una explosión de gas causa el derrumbe de un edificio en Santander y se busca a tres personas desaparecidas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ADYK4AL7KZAPBDN2CCWF7KPM5A.jpg?auth=e63c85cf052050d716cbb9765a75a0c91aff650feff8c75e94c7604892d8108e&width=1200",
-        "tags": [
-            "españa",
-            "explosiones",
-            "sucesos",
-            "bomberos",
-            "santander (cantabria)",
-            "cantabria"
-        ],
-        "link": "https://elpais.com/espana/2024-10-26/una-explosion-causa-el-derrumbe-de-un-edificio-en-santander-y-se-busca-a-tres-personas-desaparecidas.html",
-        "date": "2024-10-26 06:26:44",
-        "sentiment_score": -0.7788557652384043
-    },
-    {
-        "title": "El día que el rey emérito atropelló a un ciclista en Valladolid",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/18/efespeleven487716-kc3D-U2201529822834OiH-650x455@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/dia-rey-emerito-atropello-ciclista-valladolid-20241026082048-nt.html",
-        "date": "2024-10-26 06:20:48",
-        "sentiment_score": -0.285801038146019
-    },
-    {
-        "title": "Imágenes del día: Sara Carbonero comparte una tarde de fútbol con un exjugador del Real Madrid",
-        "image_url": "https://s1.elespanol.com/2024/10/25/actualidad/896171525_250377372_1706x960.jpg?contentId=ESPIMA20241025_1151",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/multimedia/galeria-de-imagenes/20241026/imagenes-dia-sara-carbonero-comparte-tarde-futbol-exjugador-real-madrid/896190381_3.html",
-        "date": "2024-10-26 06:20:21",
-        "sentiment_score": -0.01890970766544342
-    },
-    {
-        "title": "La hamburguesa vasca que llega a la final de 'The Champions Burger'",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c73ffbfd-1e94-4126-8770-7885ee004e5b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/gastronomia/2024/10/26/hamburguesa-guipuzcoana-final-the-champions-burger-8853383.html",
-        "date": "2024-10-26 06:00:50",
-        "sentiment_score": 0.6587576568126678
-    },
-    {
-        "title": "Fui jugador del Real Madrid, piloto de rallys y ahora, a mis 59 años, lucho contra el cáncer y me cargo de energía positiva a base de pedaladas",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/10/jugador-real-madrid-cancer-ciclista-skoda-titan-desert-4252791.jpg?tf=1200x",
-        "tags": [
-            "estilo de vida"
-        ],
-        "link": "https://www.businessinsider.es/estilo-vida/fui-jugador-real-madrid-piloto-rallys-ahora-59-anos-lucho-cancer-me-cargo-energia-positiva-base-pedaladas-1414028",
-        "date": "2024-10-26 06:00:12",
-        "sentiment_score": -0.6416000798344612
-    },
-    {
-        "title": "Disfruta del Clásico con esta oferta que DAZN ha lanzado por tiempo limitado",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/10/22/6717762f16367.jpeg",
-        "tags": [
-            "elrecomendador"
-        ],
-        "link": "https://www.mundodeportivo.com/elrecomendador/20241026/1002338212/disfruta-clasico-oferta-dazn-lanzado-limitado.html",
-        "date": "2024-10-26 06:00:00",
-        "sentiment_score": 0.7413996672257781
-    },
-    {
-        "title": "El desgaste del Baskonia, a examen ante 'La Penya'",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fb6498f4-479e-4f38-b2e4-4d27bed27bee_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2024/10/26/desgaste-baskonia-examen-penya-8850764.html",
-        "date": "2024-10-26 05:45:13",
-        "sentiment_score": -0.08225575089454651
-    },
-    {
-        "title": "Real Madrid - FC Barcelona, un clásico inédito: el 'antisistema' Ancelotti contra la presión del osado Flick",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/302e30ef-5dfe-4453-9853-e37504cec939_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2024/10/26/real-madrid-fc-barcelona-clasico-110467219.html",
-        "date": "2024-10-26 05:30:41",
-        "sentiment_score": 0.007440507411956787
-    },
-    {
-        "title": "Lo que debes saber hoy, 26 de octubre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/19/vivir-en-barcelona/894670536_13604035_1706x960.jpg?contentId=ESPIMA20241019_0012",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241026/lo-que-debes-saber-hoy-de-octubre-barcelona/896410351_0.html",
-        "date": "2024-10-26 06:24:20",
-        "sentiment_score": -0.3282487913966179
-    },
-    {
-        "title": "Las empresas catalanas se asoman a la universidad dual para cubrir sus vacantes más complejas: \"Es pura atracción de talento\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/77e30c3f-78ff-4122-bd0a-89e58da13a85_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20241026/universidad-dual-empresas-talento-cataluna-110318545",
-        "date": "2024-10-26 06:00:49",
-        "sentiment_score": 0.013262331485748291
-    },
-    {
-        "title": "Raquel Gil: \"La Constitución recoge el derecho a la vivienda, no al alquiler de un local comercial\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b846558-9eed-4fe1-8669-a8ae08939f58_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20241026/entrevista-raquel-gil-concejala-comercio-barcelona-limites-alquileres-comerciales-110340033",
-        "date": "2024-10-26 06:00:48",
-        "sentiment_score": -0.3039950132369995
-    },
-    {
-        "title": "La formación universitaria dual se abre paso en Catalunya: la UB estrenará tres grados dualizados el curso que viene",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6428da0d-b0ed-457e-a4d9-2cf025084877_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241026/nuevos-grados-formacion-dual-universidad-barcelona-cataluna-110162634",
-        "date": "2024-10-26 05:46:08",
-        "sentiment_score": 0.1614978164434433
-    },
-    {
         "title": "Una niña de 11 años fingió estar muerta para escapar luego de que cinco de sus familiares fueran asesinados en su casa en el estado de Washington",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/still-21060937-842155-072-still.jpg?quality=100&strip=info",
         "tags": [
@@ -271,36 +136,6 @@ export default [
         "sentiment_score": -0.1465851068496704
     },
     {
-        "title": "La oposición venezolana denuncia el «cruel asesinato» de uno de sus dirigentes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/26/EdwinSantos-RuSMQPliZ3fBgrWL5yq9MpL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/oposicion-venezolana-denuncia-cruel-asesinato-dirigentes-20241026112419-nt.html",
-        "date": "2024-10-26 09:29:23",
-        "sentiment_score": -0.17128023505210876
-    },
-    {
-        "title": "La crisis energética se agrava en Ecuador y se estiman pérdidas de 2.000 millones de dólares",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/26/ecuador-kMFF-U603258050387PFB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/crisis-energetica-agrava-ecuador-estiman-perdidas-2000-20241026101647-nt.html",
-        "date": "2024-10-26 08:17:47",
-        "sentiment_score": -0.12677933275699615
-    },
-    {
-        "title": "Irán vive su primer ataque aéreo extranjero en cuarenta años",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/26/iran-kxeC-U603258002632nGE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/iran-vive-primer-ataque-aereo-extranjero-cuarenta-20241026100359-nt.html",
-        "date": "2024-10-26 08:04:31",
-        "sentiment_score": -0.19258737564086914
-    },
-    {
         "title": "‘Shock’, lágrimas y acusaciones cruzadas en Más Madrid por el ‘caso Errejón’: “Que salga hasta el último demonio”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/WO6QQMESCFI7LAXDGGZKTN3AYQ.jpg?auth=a4342ff91c2a8834892257560c873002f6c36c940e6c8b292eacbd2a73bcbfd8&width=1200",
         "tags": [
@@ -383,52 +218,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-10-26/dos-heridos-en-el-incendio-provocado-por-un-rayo-en-una-casa-de-madera-de-vallvidrera-barcelona.html",
         "date": "2024-10-26 10:55:30",
         "sentiment_score": -0.7256855443120003
-    },
-    {
-        "title": "Detenidas 35 personas por la comisión de 70 estafas mediante la modalidad del “hijo en apuros”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W4E6WRD7HBHDVAACYP72XDRAN4.jpg?auth=a5c129d327dfc9eed6fe47ccf439358753441f235d8b1024b58a0f8d300d40c8&width=1200",
-        "tags": [
-            "ladrones",
-            "policía nacional",
-            "policía",
-            "detenciones",
-            "fraudes",
-            "estafas",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-26/detenidas-35-personas-por-la-comision-de-70-estafas-mediante-la-modalidad-del-hijo-en-apuros.html",
-        "date": "2024-10-26 10:02:30",
-        "sentiment_score": -0.8711431939154863
-    },
-    {
-        "title": "¿De toda la vida? La costumbre del cambio de hora en España tiene medio siglo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KPIUN25QMWZ6OVE2XLML2WJLPI.jpg?auth=af4df3a36b1b538d1781129814abed3c81464538466a22950c09e618da18db51&width=1200",
-        "tags": [
-            "sociedad",
-            "salud",
-            "bienestar",
-            "cambio horario",
-            "noticias de españa"
-        ],
-        "link": "https://elpais.com/sociedad/2024-10-26/de-toda-la-vida-la-costumbre-del-cambio-de-hora-en-espana-tiene-medio-siglo.html",
-        "date": "2024-10-26 10:00:00",
-        "sentiment_score": 0.2092275321483612
-    },
-    {
-        "title": "Cuatro fallecidos y un herido grave tras la salida de vía de un turismo en un pueblo de Granada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QVRHN3KEKNETXGNMQWOBUBNKSM.jpg?auth=8d62cdc792e230eef3400ff1191322e136ab33347209506dc1e312e39686aa6b&width=1200",
-        "tags": [
-            "bomberos",
-            "carreteras",
-            "112 operator",
-            "seguridad vial",
-            "granada",
-            "españa",
-            "accidentes tráfico"
-        ],
-        "link": "https://elpais.com/espana/2024-10-26/cuatro-fallecidos-y-un-herido-grave-tras-la-salida-de-via-de-un-turismo-en-un-pueblo-de-granada.html",
-        "date": "2024-10-26 08:48:13",
-        "sentiment_score": -0.6389187760651112
     },
     {
         "title": "Sumar enfrenta el reto del 'caso Errejón' y su impacto en el Gobierno de coalición",
@@ -6886,5 +6675,520 @@ export default [
         "link": "https://2001online.com/sucesos/quinceanero-abuso-sexualmente-de-su-prima-en-barinas-202410295460",
         "date": "2024-10-29 09:46:00",
         "sentiment_score": -0.5216889195144176
+    },
+    {
+        "title": "Trump evita hablar del comentario ofensivo sobre Puerto Rico en evento de su campaña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-evento-puerto-rico-dusa-tv-fast",
+        "date": "2024-10-29 22:15:25",
+        "sentiment_score": -0.7992011569440365
+    },
+    {
+        "title": "Trump evita hablar del comentario ofensivo sobre Puerto Rico en evento de su campaña",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181151605.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "puerto rico",
+            "fast – news variety",
+            "ee.uu.",
+            "discriminación",
+            "racismo",
+            "xpress",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-evento-puerto-rico-dusa-tv-fast/",
+        "date": "2024-10-29 22:15:25",
+        "sentiment_score": -0.8269335832446814
+    },
+    {
+        "title": "Las 3 noticias destacadas de la tarde del 29 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-29-de-octubre-2024-pmx-tarde-fast",
+        "date": "2024-10-29 22:10:21",
+        "sentiment_score": 0.19046234339475632
+    },
+    {
+        "title": "Zhang Yiming, fundador de TikTok, el más rico del gigante asiático, según la revista Hurun",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1773546-tiktok-fundador.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "tiktok",
+            "millonarios",
+            "china"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/29/zhang-yiming-fundador-tiktok-hombre-mas-rico-china-efe/",
+        "date": "2024-10-29 21:48:03",
+        "sentiment_score": 0.4267820715904236
+    },
+    {
+        "title": "Arzobispo de San Juan exige disculpas a Donald Trump por comentarios sobre Puerto Rico en su mitin",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1773587-arzobispo-san-juan.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones ee.uu. 2024",
+            "noticias de donald trump",
+            "puerto rico",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/29/arzobispo-san-juan-exige-dispulpas-trump-comentarios-puerto-rico-orix/",
+        "date": "2024-10-29 21:40:41",
+        "sentiment_score": -0.6764532700181007
+    },
+    {
+        "title": "Este es el mazapán de 10.000 kg que se convirtió en el más grande del mundo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-3-20241029205415878.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mazapan-mas-grande-mundo-record-guinness-ush-orix/",
+        "date": "2024-10-29 21:24:41",
+        "sentiment_score": 0.2399129420518875
+    },
+    {
+        "title": "Este es el mazapán de 10.000 kg que se convirtió en el más grande del mundo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-3-20241029205415878.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mazapan-mas-grande-mundo-record-guinness-ush-orix",
+        "date": "2024-10-29 21:24:41",
+        "sentiment_score": 0.3498300611972809
+    },
+    {
+        "title": "CNN veta a comentarista conservador que hizo una \"broma\" racista al aire",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1773532-still-21064736-1006677-853-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "periodismo"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/29/comentarista-conservador-broma-racista-aire-trax/",
+        "date": "2024-10-29 21:17:12",
+        "sentiment_score": -0.7945123063400388
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 29 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181139041.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-29-de-octubre-2024-dusa-tarde-fast",
+        "date": "2024-10-29 21:14:07",
+        "sentiment_score": 0.09519916772842407
+    },
+    {
+        "title": "Rusia reclama el control de la ciudad clave de Selydove en la región ucraniana de Donetsk",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/Rusia_87e221.jpg?quality=100&strip=info",
+        "tags": [
+            "guerra de rusia",
+            "rusia",
+            "guerra de rusia en ucrania",
+            "ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/29/rusia-reclama-control-selydove-en-region-ucraniana-donetsk-trax/",
+        "date": "2024-10-29 21:07:48",
+        "sentiment_score": -0.18231017887592316
+    },
+    {
+        "title": "Israel captura a un comandante de Hizbolá en el sur de Líbano",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/29/hizbola-comandante-kwaE-U603274348672dr-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/israel-captura-comandante-hizbola-sur-libano-20241029230512-nt.html",
+        "date": "2024-10-29 22:05:12",
+        "sentiment_score": -0.21360386908054352
+    },
+    {
+        "title": "Lo que el ojo no ve",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/28/tdt-television-cambio-canales-k12E--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-diaz-ojo-20241030215850-nts.html",
+        "date": "2024-10-29 22:01:50",
+        "sentiment_score": -0.04033958911895752
+    },
+    {
+        "title": "Menos Vinis y más Rodris",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/28/tdt-television-cambio-canales-k12E--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-vinis-rodris-20241030211406-nts.html",
+        "date": "2024-10-29 20:24:56",
+        "sentiment_score": -0.04925793409347534
+    },
+    {
+        "title": "El Papa Francisco y la literatura",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/10/30/241030TerceradelaRica-RAE0Yqzam5MBMHEAQ26DfhP-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alvaro-de-la-rica-papa-francisco-literatura-20241030210652-nt.html",
+        "date": "2024-10-29 20:06:52",
+        "sentiment_score": -0.06357091665267944
+    },
+    {
+        "title": "Tríos",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/10/27/1484937972-ksXF-U2201624021329a4E-170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-trios-20241030210619-nt.html",
+        "date": "2024-10-29 20:06:26",
+        "sentiment_score": -0.15996216237545013
+    },
+    {
+        "title": "Flora y fauna de los MeToo",
+        "image_url": "https://s2.ppllstatics.com/larioja/www/multimedia/2024/10/23/urgencias--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/maria-jose-fuentealamo-flora-fauna-metoo-20241030174744-nt.html",
+        "date": "2024-10-29 20:06:01",
+        "sentiment_score": -0.16654175519943237
+    },
+    {
+        "title": "Ultraizquierda contra ultraizquierda: «Tic, tac...»",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/10/27/1484937972-ksXF-U2201624021329a4E-170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-fernandezmiranda-ultraizquierda-ultraizquierda-tic-tac-20241030161955-nt.html",
+        "date": "2024-10-29 20:05:03",
+        "sentiment_score": -0.12019658088684082
+    },
+    {
+        "title": "Gobierno de vergüenza",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/28/tdt-television-cambio-canales-k12E--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/teodoro-leon-gross-gobierno-verguenza-20241030192852-nt.html",
+        "date": "2024-10-29 20:04:36",
+        "sentiment_score": -0.16655924916267395
+    },
+    {
+        "title": "Un horizonte penal más amplio",
+        "image_url": "https://s2.ppllstatics.com/larioja/www/multimedia/2024/10/23/urgencias--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-horizonte-penal-amplio-20241030205917-nt.html",
+        "date": "2024-10-29 20:00:49",
+        "sentiment_score": -0.20366784930229187
+    },
+    {
+        "title": "El brazo flojo",
+        "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/huelva/2024/10/29/caro-0-U58638353283TFG-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-brazo-flojo-20241030210030-nt.html",
+        "date": "2024-10-29 20:00:39",
+        "sentiment_score": -0.12237358093261719
+    },
+    {
+        "title": "La Dana en España, en directo | El temporal deja al menos seis desaparecidos en Albacete y uno en Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RTEDJI7W6FFH7EPJDLXUSMUTEM.jpg?auth=3ced9bb873ee151f38d5b81b729afb12266928a47d3226c484538999c5e93bc7&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "españa",
+            "lluvia",
+            "castilla-la mancha",
+            "temporales",
+            "inundaciones",
+            "murcia",
+            "viento",
+            "dana",
+            "meteorología"
+        ],
+        "link": "https://elpais.com/espana/2024-10-29/la-dana-en-espana-en-directo-ultimas-noticias-del-temporal-y-las-inundaciones.html",
+        "date": "2024-10-29 20:09:18",
+        "sentiment_score": -0.5292533710598946
+    },
+    {
+        "title": "La Dana en España, en imágenes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3F27CQJ2QTL52B6Z2XDQH2AKZ4.jpg?auth=a7441ab633808dfe2968cfaacba43933f24326dcedd23b3242fa9fc7d855a552&width=1200",
+        "tags": [
+            "sociedad",
+            "comunidad valenciana",
+            "málaga",
+            "españa",
+            "tormentas",
+            "albacete",
+            "meteorología",
+            "lluvias torrenciales"
+        ],
+        "link": "https://elpais.com/espana/2024-10-29/la-dana-en-espana-en-imagenes.html",
+        "date": "2024-10-29 20:01:25",
+        "sentiment_score": -0.82139509357512
+    },
+    {
+        "title": "El Congreso rechaza el intento del PP de que el Gobierno cese al Fiscal General del Estado",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YQFBEGT4L442IZGQWXT2VYTJZE.jpg?auth=3c667ae1f4a2a23cfabde850ec21f59f1965eaaf143d4d7fadf56c91b508d016&width=1200",
+        "tags": [
+            "grupos parlamentarios",
+            "gobierno",
+            "fiscalía general estado",
+            "caso ayuso",
+            "bildu",
+            "partidos políticos",
+            "erc",
+            "pedro sánchez",
+            "partidos conservadores",
+            "compromís",
+            "sumar",
+            "isabel díaz ayuso",
+            "congreso diputados",
+            "psoe",
+            "partidos nacionalistas",
+            "yolanda díaz",
+            "coaliciones políticas",
+            "españa",
+            "pp",
+            "fiscalía",
+            "senado",
+            "fiscalía anticorrupción"
+        ],
+        "link": "https://elpais.com/espana/2024-10-29/el-congreso-rechaza-el-intento-del-pp-de-que-el-gobierno-cese-al-fiscal-general-del-estado.html",
+        "date": "2024-10-29 19:42:29",
+        "sentiment_score": -0.8723687315359712
+    },
+    {
+        "title": "El periplo de la princesa Leonor a bordo de ‘Elcano’: siete países de Iberoamérica y un final en Nueva York",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2MB2J2B545OH3O7CZSWEB4Q6WY.jpg?auth=516a537b71e5a910906ba38fb59b773ba7c9933ce7338db012f6abd2b4674319&width=1200",
+        "tags": [
+            "defensa",
+            "españa",
+            "diplomacia",
+            "felipe vi",
+            "juan sebastián elcano",
+            "princesa de asturias",
+            "leonor de borbón",
+            "margarita robles"
+        ],
+        "link": "https://elpais.com/espana/2024-10-29/la-princesa-leonor-visitara-iberoamerica-y-ee-uu-en-su-crucero-de-instruccion-a-bordo-de-elcano.html",
+        "date": "2024-10-29 19:15:59",
+        "sentiment_score": 0.14892906695604324
+    },
+    {
+        "title": "La reforma de la ‘ley mordaza’ pasa el primer trámite, pero apunta a un difícil encaje",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/J6ILDJZOPAA4F3DW2AAVJMNFXI.jpg?auth=44446541c9a8f1446a29be2e8745bef3b198f92e8ef0a772ea9105b53c2446a8&width=1200",
+        "tags": [
+            "psoe",
+            "néstor rego",
+            "podemos",
+            "juntsxcat",
+            "erc",
+            "españa",
+            "debates parlamentarios",
+            "enrique santiago",
+            "jon iñarritu",
+            "ley mordaza",
+            "eaj-pnv",
+            "ley seguridad ciudadana",
+            "eh bildu",
+            "congreso diputados",
+            "leyes orgánicas",
+            "bng",
+            "sumar",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2024-10-29/la-reforma-de-la-ley-mordaza-pasa-el-primer-tramite-pero-apunta-a-un-dificil-encaje.html",
+        "date": "2024-10-29 19:06:36",
+        "sentiment_score": -0.8407431859523058
+    },
+    {
+        "title": "Montcada i Reixach quiere acabar con la ‘favela’ del Besòs y desmantela uno de sus campamentos de chabolas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/L3YJ4WVYJRBQ7M2YLPNZU35F4E.jpg?auth=aabb41d012ca277e1793614e4af4023186f6d586813c56f71a20628660b1bce9&width=1200",
+        "tags": [
+            "cataluña",
+            "urbanismo",
+            "pobreza",
+            "barcelona",
+            "área metropolitana barcelona",
+            "chabolas",
+            "vivienda",
+            "barracas",
+            "generalitat cataluña",
+            "montcada i reixac"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-29/montcada-i-reixach-quiere-acabar-con-la-favela-del-besos-y-desmantela-uno-de-sus-campamentos-de-chabolas.html",
+        "date": "2024-10-29 17:51:24",
+        "sentiment_score": -0.8508212696760893
+    },
+    {
+        "title": "El Govern extiende la gratuidad del túnel del Cadí a trabajadores no residentes de la zona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CAHNUX7QYBBKDDQVFENZTTH3EM.jpg?auth=22fb93d26472496c4de83a05fa974ae6cf5cc4540a70ba9ea49c9049081ab368&width=1200",
+        "tags": [
+            "govern cataluña",
+            "comunidades autónomas",
+            "cataluña",
+            "barcelona",
+            "mossos d'esquadra",
+            "tráfico",
+            "coches",
+            "puentes",
+            "trenes",
+            "obras públicas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-29/el-govern-extiende-la-gratuidad-del-tunel-del-cadi-a-trabajadores-no-residentes-de-la-zona.html",
+        "date": "2024-10-29 17:31:24",
+        "sentiment_score": 0.012705594301223755
+    },
+    {
+        "title": "La “segunda oportunidad” para los jóvenes que incendiaron la vivienda de un alcalde de Jaén",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MAXH5VC67RDULFZKXQYMZOJWGA.jpg?auth=a50039c21ea178058314a76ebdc3e95e693bddc0eec7b2d33eade7c932965526&width=1200",
+        "tags": [
+            "psoe-a",
+            "incendios",
+            "jóvenes",
+            "españa",
+            "navas de san juan",
+            "jaén",
+            "andalucía",
+            "incendios intencionados"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-10-29/la-segunda-oportunidad-para-los-jovenes-que-incendiaron-la-vivienda-de-un-alcalde-de-jaen.html",
+        "date": "2024-10-29 17:26:42",
+        "sentiment_score": -0.838366761803627
+    },
+    {
+        "title": "El cementerio de la Almudena de Madrid abre el ‘Parque de las Mariposas’ para sepultar a bebés fallecidos antes de nacer",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LKDJWGSRJRF5JIUPPF62I247WU.jpg?auth=56fce5300070e99defa6a22636525abe94a24e7c74f03656be2afed5227e00fc&width=1200",
+        "tags": [
+            "madrid",
+            "bebés",
+            "comunidad de madrid",
+            "cementerios",
+            "bebe"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-10-29/el-cementerio-de-la-almudena-de-madrid-abre-el-parque-de-las-mariposas-para-sepultar-a-bebes-fallecidos-antes-de-nacer.html",
+        "date": "2024-10-29 17:21:07",
+        "sentiment_score": -0.024330750107765198
+    },
+    {
+        "title": "José Luis Sanz, alcalde de Sevilla, premio Ciudad 2024: \"Es la mejor ciudad del mundo para visitar, vivir, trabajar y para emprender\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/29/fotografo-jorge-paris-hernandez-previsiones-20m-tema-premios-20minutos-47.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5649150/0/jose-luis-sanz-alcalde-sevilla/",
+        "date": "2024-10-29 22:14:34",
+        "sentiment_score": 0.7255635410547256
+    },
+    {
+        "title": "¿Quién va ganando? Así están las encuestas de las elecciones en Estados Unidos 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a566fbaa-ae33-49da-bccd-db9fffa6408a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/10/29/ganando-encuestas-elecciones-estados-unidos-109117741.html",
+        "date": "2024-10-29 22:10:00",
+        "sentiment_score": -0.06731942296028137
+    },
+    {
+        "title": "El vacile de Burger King a Vinicius tras quedarse sin Balón de Oro: «Te la regalamos»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/10/29/vini-partido-kNlC-U2201649570361h3H-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deportes/vacile-burger-king-vinicius-tras-quedarse-balon-20241029230926-nt.html",
+        "date": "2024-10-29 22:09:26",
+        "sentiment_score": -0.6868274323642254
+    },
+    {
+        "title": "El Valencia CF pide el aplazamiento del partido de la Copa de mañana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e7238e17-4385-4a38-8216-3c3f833cb235_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2024/10/29/valencia-cf-pide-aplazamiento-partido-110848295.html",
+        "date": "2024-10-29 22:00:50",
+        "sentiment_score": -0.07559352368116379
+    },
+    {
+        "title": "Novedades en la declaración de la Renta: estas son las nuevas deducciones para los propietarios de pisos en alquiler",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51e12e73-1640-4c1c-af21-39a340bd0394_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.informacion.es/finanzas-personales/2024/10/29/aviso-propietarios-pisos-alquiler-novedades-declaracion-renta-dv-97400346.html",
+        "date": "2024-10-29 22:00:00",
+        "sentiment_score": 0.5601747110486031
+    },
+    {
+        "title": "El Defensor del Pueblo investigará de oficio los insultos racistas en el Bernabéu",
+        "image_url": "http://www.publico.es//uploads/2024/08/14/66bd205a4bc24.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "http://www.publico.es/deportes/defensor-pueblo-investigara-oficio-insultos-racistas-bernabeu.html",
+        "date": "2024-10-29 21:59:00",
+        "sentiment_score": -0.8384841121733189
+    },
+    {
+        "title": "España triunfa en París",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/10/29/2024102922521153061.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/espana-triunfa-paris/20241029225317322253.html",
+        "date": "2024-10-29 21:53:17",
+        "sentiment_score": 0.6356015875935555
+    },
+    {
+        "title": "El Real Madrid, sólo en casa (79-69)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/57306c0f-cbbd-4362-9368-35b2fea58102_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2024/10/29/real-madrid-casa-79-69-110848102.html",
+        "date": "2024-10-29 21:50:54",
+        "sentiment_score": -0.9052563793957233
+    },
+    {
+        "title": "El récord Guinness que el Mago Pop arrebató a Hugh Jackman y Bruce Springsteen",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/10/29/mago-pop-kvzB-U2201649362948cdG-1200x840@El%20Correo.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/tv/record-guiness-mago-pop-arrebato-hugh-jackman-bruce-springsteen-20241029225628-nt.html",
+        "date": "2024-10-29 22:02:51",
+        "sentiment_score": 0.18614740669727325
+    },
+    {
+        "title": "Suspendidas las clases este miércoles por la Dana: los municipios valencianos afectados",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/29/suspendidas-las-clases-este-miercoles-por-la-dana-los-municipios-valencianos-afectados_523e.jpg",
+        "tags": [
+            "valencia"
+        ],
+        "link": "https://www.telecinco.es/noticias/valencia/20241029/suspendidas-clases-dana-municipios-afectados_18_013863394.html",
+        "date": "2024-10-29 21:52:54",
+        "sentiment_score": -0.8461877815425396
+    },
+    {
+        "title": "DANA en Valencia: suspenden estos vuelos de urgencia por la feroz tormenta",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/11/22/655e3532c1f47.r_d.1571-808.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20241029/1002343396/suspenden-vuelos-urgencia-dana-valencia-cvj-nmd.html",
+        "date": "2024-10-29 21:46:09",
+        "sentiment_score": -0.8778436128050089
+    },
+    {
+        "title": "\"Ahora mi sufrimiento tiene sentido\": una investigación destapa la fuga de depredadores sexuales en los jesuitas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/96772d05-9e8a-4892-8024-8d7a35c3a10d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/cultura/2024/10/29/ahora-sufrimiento-sentido-investigacion-destapa-110847501.html",
+        "date": "2024-10-29 21:41:28",
+        "sentiment_score": -0.6813436299562454
     }
 ];
