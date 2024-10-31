@@ -1,197 +1,5 @@
 export default [
     {
-        "title": "La estrella de los Dodgers Shohei Ohtani sufre una lesión en hombro izquierdo durante el Juego 2 de la Serie Mundial",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/shonei-otei.webp",
-        "tags": [
-            "dodgers",
-            "deportes"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/27/estrella-dodgers-shohei-ohtani-sufre-lesion-hombro-juego-serie-mundial-trax/",
-        "date": "2024-10-27 06:07:09",
-        "sentiment_score": -0.6288446821272373
-    },
-    {
-        "title": "Qué se esconde detrás del envío de tropas de Corea del Norte a Rusia: «Un salto cualitativo con graves implicaciones y carne de cañón»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/27/ko8-ReoU6TdH8VLKD9gE2uWHn4M-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/letra-pequena-envio-tropas-corea-norte-rusia-20241027183614-nt.html",
-        "date": "2024-10-27 05:26:55",
-        "sentiment_score": -0.26881739497184753
-    },
-    {
-        "title": "¿Qué fue de Yiya? De polémica concursante en 'Supervivientes' a ser empresaria de éxito",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/26/671ccdb94a6f5.r_d.340-234-7016.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/gente/20241027/1002341009/que-yiya-polemica-concursante-supervivientes-empresaria-exito-dct.html",
-        "date": "2024-10-27 06:15:00",
-        "sentiment_score": 0.049577534198760986
-    },
-    {
-        "title": "Barcelona dejó fuera de juego al Real Madrid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "deportes",
-            "fc barcelona"
-        ],
-        "link": "https://www.analitica.com/deportes/barcelona-dejo-fuera-de-juego-al-real-madrid/",
-        "date": "2024-10-27 06:07:00",
-        "sentiment_score": -0.5741646513342857
-    },
-    {
-        "title": "Lorena Gómez un año después de 'Me vuelvo a la vida': sembrar para recoger a través de cuatro piezas de generosidad y poderío vocal",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2024/09/19/66ec7590d431a.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.cadena100.es/musica/noticias/lorena-gomez-ano-me-vuelvo-vida-sembrar-recoger-traves-cuatro-piezas-generosidad-y-poderio-vocal-20241027_127116.html",
-        "date": "2024-10-27 06:05:00",
-        "sentiment_score": -0.07466709613800049
-    },
-    {
-        "title": "¿Tienen protocolos los partidos políticos ante casos como el de Errejón?",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2023/01/14/63c2af0aefd90.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/tienen-protocolos-partidos-politicos-casos-errejon.html",
-        "date": "2024-10-27 06:04:13",
-        "sentiment_score": -0.7360687740147114
-    },
-    {
-        "title": "Pensionistas salen a la calle en Madrid contra la «privatización» del sistema",
-        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2024/10/Pensionistas-salen-a-la-calle-en-Madrid-contra-la-privatizacion-del-sistema-907x510.webp",
-        "tags": [
-            "laboral"
-        ],
-        "link": "https://www.elperiodicodecanarias.es/pensionistas-salen-a-la-calle-en-madrid-contra-la-privatizacion-del-sistema/",
-        "date": "2024-10-27 06:04:04",
-        "sentiment_score": -0.0710986889898777
-    },
-    {
-        "title": "Carmen Rasero",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a0d71c58-7e9c-4c84-9e6e-41e96e4044a3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/10/27/carmen-rasero-110523173.html",
-        "date": "2024-10-27 06:00:53",
-        "sentiment_score": -0.6790580600500107
-    },
-    {
-        "title": "Favorito",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab96941f-fdbc-456f-842b-d80fd364bb5f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/10/27/favorito-110527429.html",
-        "date": "2024-10-27 06:00:53",
-        "sentiment_score": 0.09543490409851074
-    },
-    {
-        "title": "Familia Werner: cinco siglos de historia ligada a Málaga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/78638dd8-a9d6-4005-a8ab-07bc4db1723c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2024/10/27/familia-werner-cinco-siglos-historia-110412930.html",
-        "date": "2024-10-27 06:00:45",
-        "sentiment_score": -0.10324196517467499
-    },
-    {
-        "title": "\"No somos conscientes del valor cultural y tecnológico de Málaga. Es una barbaridad lo que ha conseguido\"",
-        "image_url": "https://s1.elespanol.com/2024/10/25/malaga/vivir/turismo/896171324_250371134_1706x960.jpg?contentId=ESPIMA20241025_0950",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/malaga/vivir/turismo/20241027/no-conscientes-valor-cultural-tecnologico-malaga-barbaridad-conseguido/896160898_0.html",
-        "date": "2024-10-27 05:50:00",
-        "sentiment_score": -0.35647788643836975
-    },
-    {
-        "title": "Anna Castillo y Mario Casas, un ‘match’ de película",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/24/671a292fa92ec.r_d.428-371-0.jpeg",
-        "tags": [
-            "protagonistas"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/protagonistas/20241027/10047482/anna-castillo-mario-casas-match-pelicula.html",
-        "date": "2024-10-27 05:36:16",
-        "sentiment_score": 0.7627390846610069
-    },
-    {
-        "title": "Este es el brutal volumen de contratos de mascarillas que dio Illa a una empresa de su pueblo: 275 veces sus ingresos",
-        "image_url": "https://s.libertaddigital.com/2024/10/02/reunion-del-consell-nacional-del-psc.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/espana/politica/2024-10-27/este-es-el-brutal-volumen-de-contratos-de-mascarillas-que-dio-illa-a-una-empresa-de-su-pueblo-275-veces-sus-ingresos-7178562/",
-        "date": "2024-10-27 06:22:22",
-        "sentiment_score": -0.43839210644364357
-    },
-    {
-        "title": "Laboralistas piden que la reducción de jornada se acuerde con los agentes sociales",
-        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2024/10/Laboralistas-piden-que-la-reduccion-de-jornada-se-acuerde-con-los-agentes-sociales-907x510.webp",
-        "tags": [
-            "laboral"
-        ],
-        "link": "https://www.elperiodicodecanarias.es/laboralistas-piden-que-la-reduccion-de-jornada-se-acuerde-con-los-agentes-sociales/",
-        "date": "2024-10-27 06:15:56",
-        "sentiment_score": 0.061405763030052185
-    },
-    {
-        "title": "Lo más adverso de una DANA para el recuerdo pone en alerta a la AEMET: situación límite en 24 horas",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/10/26/el-mapa-de-prevision-de-precipitaciones-de-la-aemet.jpeg",
-        "tags": [
-            "el tiempo"
-        ],
-        "link": "https://www.huffingtonpost.es/tiempo/lo-mas-adverso-dana-recuerdo-pone-alerta-aemet-situacion-limite-24-horas.html",
-        "date": "2024-10-27 06:06:51",
-        "sentiment_score": -0.7180780880153179
-    },
-    {
-        "title": "Espinosa, Campomanes, Agirre y el Lehendakari Ibarretxe",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/76276d01-5d7c-4460-92f5-41404d9bfe25_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/tribuna-abierta/2024/10/27/espinosa-campomanes-agirre-lehendakari-ibarretxe-8854885.html",
-        "date": "2024-10-27 06:03:07",
-        "sentiment_score": -0.6560645885765553
-    },
-    {
-        "title": "Cáceres, entre la escalada de precios de alquiler y el auge de los pisos turísticos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1332f93b-34fe-4319-a3fe-f8637d4b2aa1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2024/10/27/caceres-escalada-precios-alquiler-auge-110557620.html",
-        "date": "2024-10-27 06:00:55",
-        "sentiment_score": -0.7303915582597256
-    },
-    {
-        "title": "Integra, el socio familiar de los gigantes tecnológicos nacido en Calatayud",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f8065d12-817a-49a9-918c-1683980873f9_16-9-aspect-ratio_default_0_x1119y41.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/economia/activos/2024/10/27/integra-socio-familiar-gigantes-tecnologicos-calatayud-110527254.html",
-        "date": "2024-10-27 06:00:53",
-        "sentiment_score": 0.00818556547164917
-    },
-    {
-        "title": "Lubián defiende la supervivencia de su tienda: \"Si cierra es el acabose\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7eabae44-c829-4082-a257-eae93dfde2b5_16-9-aspect-ratio_default_1334178.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondezamora.es/comarcas/2024/10/27/lubian-defiende-supervivencia-tienda-cierra-110520874.html",
-        "date": "2024-10-27 06:00:50",
-        "sentiment_score": -0.13166455924510956
-    },
-    {
         "title": "Harris hace un esfuerzo final para cerrar la brecha con los votantes masculinos",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/harris-votantes-masculinos-estados-unidos.jpg?quality=100&strip=info",
         "tags": [
@@ -6847,5 +6655,528 @@ export default [
         "link": "https://www.ultimahora.es/noticias/palma/2024/10/30/2267811/aparcamiento-metge-josep-darder-tendra-536-plazas-costara-millones-euros.html",
         "date": "2024-10-30 16:55:00",
         "sentiment_score": -0.024082422256469727
+    },
+    {
+        "title": "Gobierno de Bolivia acusa a Evo Morales de portar y utilizar armas de fuego contra la policía durante presunto atentado",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1774177-bolivia-evo-morales.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bolivia",
+            "evo morales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/30/gobierno-bolivia-acusa-evo-morales-utilizar-armas-fuego-atentado-orix/",
+        "date": "2024-10-30 22:10:00",
+        "sentiment_score": -0.8550780713558197
+    },
+    {
+        "title": "¿Basura?, solo belleza: Bad Bunny defiende a Puerto Rico con emotivo video",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/badbunnytrump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "donald trump",
+            "noticias de ee.uu.",
+            "puerto rico",
+            "elecciones 2024",
+            "fast – general",
+            "bad bunny",
+            "xpress",
+            "donald turmp",
+            "celebridades"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bad-bunny-respuesta-video-puerto-rico-racismo-trump-showbiz-orix/",
+        "date": "2024-10-30 21:57:38",
+        "sentiment_score": 0.24519343674182892
+    },
+    {
+        "title": "Nicky Jam retira su apoyo a Donald Trump tras insulto de comediante a Puerto Rico",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172286249-20241030213516839.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-nicky-jam-insulto-trump-apoyo-puerto-rico-basura-dusa-tv-fast/",
+        "date": "2024-10-30 21:40:04",
+        "sentiment_score": -0.5823379382491112
+    },
+    {
+        "title": "“Mi hijo se ha ido”, dice una madre que culpa a la IA por el suicidio de un adolescente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/suicidio-sewell-setzer-inteligencia-artificial-trax",
+        "date": "2024-10-30 21:18:16",
+        "sentiment_score": -0.8033534064888954
+    },
+    {
+        "title": "“Mi hijo se ha ido”, dice una madre que culpa a la IA por el suicidio de un adolescente",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/best-thumb-20241029211239398-20241030211159441.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "inteligencia artificial",
+            "fast – news variety",
+            "adolescentes",
+            "videos digitales",
+            "prevención del suicidio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/suicidio-sewell-setzer-inteligencia-artificial-trax/",
+        "date": "2024-10-30 21:18:16",
+        "sentiment_score": -0.7616531737148762
+    },
+    {
+        "title": "Así se ven desde el espacio las poderosas tormentas provocadas por la DANA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/imagenes-dana-espacio-video-tormentas-valencia-orix",
+        "date": "2024-10-30 21:13:47",
+        "sentiment_score": 0.11207762360572815
+    },
+    {
+        "title": "Así se ven desde el espacio las poderosas tormentas provocadas por la DANA",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/dana-horiz.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa",
+            "tormenta",
+            "inundaciones",
+            "valencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/imagenes-dana-espacio-video-tormentas-valencia-orix/",
+        "date": "2024-10-30 21:13:47",
+        "sentiment_score": -0.017988920211791992
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 30 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-30-de-octubre-2024-dusa-tarde-fast",
+        "date": "2024-10-30 21:08:36",
+        "sentiment_score": 0.08458492904901505
+    },
+    {
+        "title": "¿Qué hará McDonald 's para recuperar sus ventas y las visitas?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mcdonalds-comidas-rapidas-estrategias-clientes-ventas-cnn-dinero-tv",
+        "date": "2024-10-30 20:57:41",
+        "sentiment_score": 0.007008090615272522
+    },
+    {
+        "title": "¿Qué hará McDonald 's para recuperar sus ventas y las visitas?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/mc-thumbnail-20241030203907552.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mcdonalds-comidas-rapidas-estrategias-clientes-ventas-cnn-dinero-tv/",
+        "date": "2024-10-30 20:57:41",
+        "sentiment_score": -0.2177557498216629
+    },
+    {
+        "title": "Milei cesa a la ministra de Exteriores tras el apoyo de Argentina en la ONU al fin del embargo a Cuba",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/30/ministra-exteriores-kBsE-U6032812727296iB-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/milei-cesa-ministra-exteriores-tras-apoyo-argentina-20241030223240-nt.html",
+        "date": "2024-10-30 21:33:05",
+        "sentiment_score": -0.10888311266899109
+    },
+    {
+        "title": "Dimite la presidenta del Tribunal Supremo de México forzada por la nueva reforma judicial",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/30/Norma-pina-kKMD-U603281093309HzC-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/dimite-presidenta-tribunal-supremo-mexico-forzada-nueva-20241030220454-nt.html",
+        "date": "2024-10-30 21:04:54",
+        "sentiment_score": -0.02349993586540222
+    },
+    {
+        "title": "Más unidad y eficacia ante la DANA",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/10/25/Imagen%20(195706715)--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-unidad-eficacia-ante-dana-20241031203228-nt.html",
+        "date": "2024-10-30 19:46:27",
+        "sentiment_score": -0.11670267581939697
+    },
+    {
+        "title": "Algo más que mezquino",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/29/collas-U501624004588joF-U80373476775Uec-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-mezquino-20241031204144-nt.html",
+        "date": "2024-10-30 19:46:07",
+        "sentiment_score": -0.4270545244216919
+    },
+    {
+        "title": "El Gobierno acuerda con sus socios subir los impuestos al diésel, el tabaco, los vapeadores y los grandes ahorradores",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/30/MaraJessMonteroefe-RvcSHKClKTzP6iMO7PYJ6iL-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-acuerda-socios-subir-impuestos-diesel-tabaco-20241030202937-nt.html",
+        "date": "2024-10-30 19:45:11",
+        "sentiment_score": -0.05438145995140076
+    },
+    {
+        "title": "Reviviscencia del buen médico",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/10/31/foto-tribuna-abierta-R6rsWCuKU9DNg7xgBhTiaBM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jose-antonio-duran-quintana-reviviscencia-buen-medico-20241031191057-nts.html",
+        "date": "2024-10-30 19:24:24",
+        "sentiment_score": -0.09274479746818542
+    },
+    {
+        "title": "Devastación",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/29/accidenteICALambulancia-U190822383642tKB--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-devastacion-20241031175219-nts.html",
+        "date": "2024-10-30 19:24:15",
+        "sentiment_score": -0.15723881125450134
+    },
+    {
+        "title": "El mundo paralelo",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-mundo-paralelo-20241031194059-nts.html",
+        "date": "2024-10-30 19:24:03",
+        "sentiment_score": -0.0649779736995697
+    },
+    {
+        "title": "Dana mortal y rosa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/10/31/1488051885-RkTyyAwNUZBWJ1X8LZXdkqJ-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-dana-mortal-rosa-20241031200440-nt.html",
+        "date": "2024-10-30 19:17:48",
+        "sentiment_score": -0.6309390962123871
+    },
+    {
+        "title": "Bajo el barro",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/10/31/241031TerceraPalomar-RFBXvQ2vhSP0dlOpmxHz6YN-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-bajo-barro-20241031195859-nt.html",
+        "date": "2024-10-30 18:58:59",
+        "sentiment_score": -0.1675717830657959
+    },
+    {
+        "title": "La dana en Andalucía sacude Cádiz y Málaga, donde muere un ciudadano británico tras su rescate",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3CQVE3ZS5ZG5DDKE26LIAIUQAU.jpg?auth=b3d00811426a5e120639268477d8e966eb00bc4fe50d4aea703b4cadb20c7bd8&width=1200",
+        "tags": [
+            "provincia almería",
+            "provincia málaga",
+            "lluvia",
+            "dana",
+            "provincia huelva",
+            "inundaciones",
+            "andalucía",
+            "desastres naturales",
+            "provincia cádiz",
+            "provincia sevilla",
+            "jerez de la frontera",
+            "álora",
+            "españa",
+            "temporales",
+            "cártama"
+        ],
+        "link": "https://elpais.com/espana/2024-10-30/la-dana-en-andalucia-sacude-cadiz-y-malaga-donde-muere-un-ciudadano-britanico-tras-su-rescate.html",
+        "date": "2024-10-30 19:14:51",
+        "sentiment_score": -0.7994117457419634
+    },
+    {
+        "title": "La Unión Europea se compromete a ayudar a España para superar las “devastadoras” inundaciones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/J6LVLC6WKTZXBWCAKR7UTYFACE.jpg?auth=1d2d035ce34cf91898b21222e5c991dcd07f755dec33181bab8b30b590f0d776&width=1200",
+        "tags": [
+            "unión europea",
+            "catástrofes",
+            "comunidad valenciana",
+            "españa",
+            "parlamento europeo",
+            "inundaciones",
+            "dana",
+            "fondos cohesión"
+        ],
+        "link": "https://elpais.com/espana/2024-10-30/la-union-europea-se-compromete-a-ayudar-a-espana-para-superar-las-devastadoras-inundaciones.html",
+        "date": "2024-10-30 18:43:10",
+        "sentiment_score": 0.39247826486825943
+    },
+    {
+        "title": "Día de terror en Letur: “¡Julián, el río!, ¡el río! ¡Que se ha vuelto loco!”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TBY6JPRCTFAW5GYIHTLZXESOOQ.jpg?auth=d35dc7f28b4d64e9d977fc7d4d3d82352c9cc332755a27bb5e8892d71e9adef0&width=1200",
+        "tags": [
+            "catástrofes",
+            "españa",
+            "castilla-la mancha",
+            "inundaciones",
+            "dana",
+            "riadas",
+            "temporales",
+            "albacete",
+            "víctimas",
+            "lluvias torrenciales"
+        ],
+        "link": "https://elpais.com/espana/2024-10-30/dia-de-terror-en-letur-julian-el-rio-el-rio-que-se-ha-vuelto-loco.html",
+        "date": "2024-10-30 18:35:55",
+        "sentiment_score": -0.20728975534439087
+    },
+    {
+        "title": "Mapas de la dana en Valencia: lluvia récord, ríos desbordados y un reguero de destrucción",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DIPNSBDNVBCOFGWMGN3XJHDGAU.png?auth=9ec7b6ad8fb6c476b9231f85581439c1f40132ad8848b75d607a1a7e86ca8fde&width=1200",
+        "tags": [
+            "valencia",
+            "tormentas",
+            "españa",
+            "dana",
+            "lluvias torrenciales",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/2024-10-30/mapas-de-la-dana-en-valencia-lluvia-record-rios-desbordados-y-un-reguero-de-destruccion.html",
+        "date": "2024-10-30 18:32:32",
+        "sentiment_score": -0.6225737370550632
+    },
+    {
+        "title": "Aragón repite dana por tercera vez este año",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PIQF27LNH5GMVJJVQMMYCL3AAI.jpg?auth=7edd2f7a7e658e899f93c473d2c26e615b0bf8caa59134dced037729fbcd11ee&width=1200",
+        "tags": [
+            "lluvia",
+            "meteorología",
+            "che",
+            "evacuaciones",
+            "zaragoza",
+            "aragón",
+            "inundaciones",
+            "riadas",
+            "españa",
+            "teruel",
+            "hidrología",
+            "lluvias torrenciales",
+            "río ebro",
+            "cortes de aragón",
+            "aemet",
+            "el tiempo"
+        ],
+        "link": "https://elpais.com/espana/2024-10-30/aragon-repite-dana-por-tercera-vez-este-ano.html",
+        "date": "2024-10-30 18:11:35",
+        "sentiment_score": -0.853995393961668
+    },
+    {
+        "title": "La nueva voz de Junts en RTVE: ‘Mikimoto’, el comunicador de TV3 que que abrazó la república catalana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/53VEKDOCSJOBWLK46EYLDXETA4.jpg?auth=94da7475e611a366cfdc560d391ea5bf2fab9b7aa90c1a67120da84ba1d98539&width=1200",
+        "tags": [
+            "erc",
+            "juntsxcat",
+            "miquel calzada",
+            "cataluña",
+            "tv3",
+            "congreso diputados"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-30/la-nueva-voz-de-junts-en-rtve-mikimoto-el-comunicador-de-tv3-que-que-abrazo-la-republica-catalana.html",
+        "date": "2024-10-30 17:43:06",
+        "sentiment_score": -0.08194804936647415
+    },
+    {
+        "title": "Ramis presencia el partido del Burgos CF en Móstoles antes de fichar como nuevo entrenador",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/10/30/6722ae9a32822.jpeg",
+        "tags": [
+            "deportes cope en burgos"
+        ],
+        "link": "https://www.cope.es/emisoras/castilla-y-leon/burgos-provincia/burgos/deportes-cope-en-burgos/noticias/ramis-presencia-partido-burgos-cf-mostoles-fichar-nuevo-entrenador-20241030_3037565.html",
+        "date": "2024-10-30 22:12:37",
+        "sentiment_score": -0.02111971378326416
+    },
+    {
+        "title": "‘La tragedia del buen doctor’ muestra la faceta científica y política de Negrín",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3336df68-51a5-46b9-9028-ca16bac10026_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/sociedad/2024/10/30/tragedia-buen-doctor-muestra-faceta-110932807.html",
+        "date": "2024-10-30 22:01:49",
+        "sentiment_score": -0.0443505197763443
+    },
+    {
+        "title": "Una Copa cargada de responsabilidad",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/10/30/rov-kEZC--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/copa-cargada-responsabilidad-20241031224618-nt.html",
+        "date": "2024-10-30 21:56:29",
+        "sentiment_score": -0.8532612230628729
+    },
+    {
+        "title": "DANA: LaLiga solicita la suspensión, entre otros, del Levante-Málaga CF del lunes",
+        "image_url": "https://s1.elespanol.com/2021/02/17/elbernabeu/559706535_173271454_1706x960.jpg?contentId=ESPIMA20210217_2511",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/deporte/malaga-c-f/20241030/dana-laliga-solicita-suspension-levante-malaga-cf-lunes/897410913_0.html",
+        "date": "2024-10-30 21:54:52",
+        "sentiment_score": -0.7320330906659365
+    },
+    {
+        "title": "Posponen encuentros de la Copa del Rey por inundaciones al sur de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/posponen-encuentros-de-la-copa-del-rey-por-inundaciones-al-sur-de-espana/",
+        "date": "2024-10-30 21:13:58",
+        "sentiment_score": -0.9135036244988441
+    },
+    {
+        "title": "«El Calderón es espacio de encuentro que se reinventa constantemente»",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/30/Viteri.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/170aniversario/temas/calderon-espacio-encuentro-reinventa-constantemente-20241030220501-nt.html",
+        "date": "2024-10-30 21:05:02",
+        "sentiment_score": 0.31892359256744385
+    },
+    {
+        "title": "La Liga solicita la suspensión de los partidos en Valencia por el desastre de la DANA",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/30/culemania/palco/897420444_13653651_1706x960.jpg?contentId=ESPIMA20241030_0195",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241030/la-liga-la-suspension-de-valencia-dana/897410378_0.html",
+        "date": "2024-10-30 20:22:05",
+        "sentiment_score": 0.07520382851362228
+    },
+    {
+        "title": "El Villarreal-Rayo y el Castellón-Ferrol cambiarán de fecha",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/217a9d64-417f-4acd-b770-ce944ee69b73_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicomediterraneo.com/deportes/2024/10/30/laliga-villarreal-rayo-castellon-ferrol-partidos-suspendidos-110938976.html",
+        "date": "2024-10-30 20:08:36",
+        "sentiment_score": -0.059263646602630615
+    },
+    {
+        "title": "El Valencia pide a la Liga F el aplazamiento del Valencia-Dépor",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1f6c9f24-a9fb-4e2a-ac62-c0d1dd798a6e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2024/10/30/valencia-pide-liga-f-aplazamiento-110938302.html",
+        "date": "2024-10-30 20:05:50",
+        "sentiment_score": -0.2140495926141739
+    },
+    {
+        "title": "El Valencia femenino pide el aplazamiento del partido ante el Deportivo",
+        "image_url": "https://s1.elespanol.com/2024/10/30/quincemil/deporte/deportivo/897421336_250499684_1706x960.gif?contentId=ESPIMA20241030_1087",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/quincemil/deporte/deportivo/20241030/valencia-femenino-pide-aplazamiento-partido-deportivo/897410886_0.html",
+        "date": "2024-10-30 19:58:22",
+        "sentiment_score": -0.8633208852261305
+    },
+    {
+        "title": "UEFA promete invertir 1.000 millones de euros al fútbol femenino los próximos 6 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/uefa-promete-invertir-1-000-millones-de-euros-al-futbol-femenino-los-proximos-6-anos/",
+        "date": "2024-10-30 21:58:28",
+        "sentiment_score": 0.4242642819881439
+    },
+    {
+        "title": "Al menos 95 muertos en devastadoras inundaciones en España",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/10/24304341550420-1-300x200.webp",
+        "tags": [
+            "internacionales",
+            "destacados"
+        ],
+        "link": "https://lacalle.com.ve/al-menos-95-muertos-en-devastadoras-inundaciones-en-espana/",
+        "date": "2024-10-30 21:43:08",
+        "sentiment_score": -0.9353697458282113
+    },
+    {
+        "title": "Suspendida la velada en la que iba a participar el zaragozano Ezequiel Gurría en Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a3c809ab-5e60-459c-863d-db6ce3b01734_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/2024/10/30/suspendida-velada-iba-participar-zaragozano-110945618.html",
+        "date": "2024-10-30 21:40:52",
+        "sentiment_score": -0.30041326582431793
+    },
+    {
+        "title": "El 112 recibe 330 llamadas por las lluvias en Catalunya hasta las 22 horas",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241030221720_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-112-recibe-330-llamadas-lluvias-catalunya-22-horas-20241030221720.html",
+        "date": "2024-10-30 21:17:20",
+        "sentiment_score": -0.16532033309340477
+    },
+    {
+        "title": "Riada de desfachatez",
+        "image_url": "https://s.libertaddigital.com/2024/10/22/pedro-sanchez-181024.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2024-10-30/editorial-riada-de-desfachatez-7180578/",
+        "date": "2024-10-30 21:06:11",
+        "sentiment_score": -0.9132859408855438
+    },
+    {
+        "title": "¿Cuándo se jugará el partido aplazado entre el Jove Español y la Real Sociedad?",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/10/30/entrenamiento-kSwF-U2201664365689CIG-1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/jugara-partido-aplazado-jove-espanol-real-sociedad-20241030220540-nt.html",
+        "date": "2024-10-30 21:05:40",
+        "sentiment_score": -0.049604929983615875
+    },
+    {
+        "title": "«Los valores de hace 97 años los ha mantenido y los mantiene Protos»",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/30/Bayon-knfG-U2201664194268OUE-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/170aniversario/temas/valores-anos-mantenido-mantiene-protos-20241030220510-nt.html",
+        "date": "2024-10-30 21:05:25",
+        "sentiment_score": 0.08384525403380394
+    },
+    {
+        "title": "Norrsken House celebra su primer año en Barcelona",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/30/recomendados/897420459_13654122_1706x960.png?contentId=ESPIMA20241030_0210",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/recomendados/20241030/norrsken-house-celebra-su-primer-ano-barcelona/897410385_0.html",
+        "date": "2024-10-30 20:52:26",
+        "sentiment_score": 0.24462803080677986
+    },
+    {
+        "title": "Una clase práctica antes de visitar Granada",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/10/30/ppppppoocvdwvs.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/clase-practica-visitar-granada-20241030214830-nt.html",
+        "date": "2024-10-30 20:48:30",
+        "sentiment_score": 0.7570098638534546
     }
 ];
