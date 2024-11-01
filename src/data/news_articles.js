@@ -85,31 +85,6 @@ export default [
         "sentiment_score": -0.06147625669836998
     },
     {
-        "title": "OTAN confirma la presencia de soldados de Corea del Norte en región rusa de Kursk, donde Ucrania mantiene posiciones",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/GettyImages-1228992051.jpg?quality=100&strip=info",
-        "tags": [
-            "kursk",
-            "corea del norte",
-            "rusia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/28/rusia-desplego-soldados-corea-norte-kursk-otan-trax/",
-        "date": "2024-10-28 14:08:18",
-        "sentiment_score": -0.18966127187013626
-    },
-    {
-        "title": "Así se ve la situación en Venezuela después de tres meses de las elecciones presidenciales",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21078036-0-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "venezuela",
-            "elecciones venezuela",
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/tres-meses-elecciones-presidenciales-venezuela-tv/",
-        "date": "2024-10-28 13:56:19",
-        "sentiment_score": -0.4006126597523689
-    },
-    {
         "title": "Escándalo en Italia por un caso de espionaje de piratas informáticos: «Es un peligro para la democracia»",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/28/gmeloni-R7jr4bPvlPIyzQ7hltxqxpN-1200x840@diario_abc.jpg",
         "tags": [
@@ -160,56 +135,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/seguras-terapias-trasplante-celular-20241028140816-nt.html",
         "date": "2024-10-28 14:34:32",
         "sentiment_score": -0.1175132691860199
-    },
-    {
-        "title": "Batalla encarnizada en Míchigan y Pensilvania, dos estados decisivos donde se estrechan aún más las diferencias",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/22/encuesta-diaria-1200x840-U603239503019szG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/batalla-encarnizada-michigan-pensilvania-dos-estados-decisivos-20241028151447-nt.html",
-        "date": "2024-10-28 14:14:47",
-        "sentiment_score": -0.09946805238723755
-    },
-    {
-        "title": "UGT pide a Yolanda Díaz que no de ayudas a las empresas si CEOE no firma la reducción de la jornada laboral",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/28/1485732804-RWfzk48Ioa5LAQaiRcxgTuL-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ugt-pide-yolanda-diaz-ayudas-empresas-ceoe-20241028142410-nt.html",
-        "date": "2024-10-28 13:38:47",
-        "sentiment_score": -0.0249919593334198
-    },
-    {
-        "title": "Al menos 21 personas resultaron heridas tras varios ataques aéreos rusos contra Járkov",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/28/Kharkiv-RwrgC20EpsLXCw9pmZ9C37N-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/personas-resultaron-heridas-tras-varios-ataques-aereos-20241028142834-nt.html",
-        "date": "2024-10-28 13:31:42",
-        "sentiment_score": -0.26358798146247864
-    },
-    {
-        "title": "¿Quién es el candidato favorito de Netanyahu, Harris o Trump?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/28/ntk-RRl6A9B9kzrZCGZ4SoKkZ3N-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/candidato-favorito-netanyahu-harris-trump-20241028140107-nt.html",
-        "date": "2024-10-28 13:01:27",
-        "sentiment_score": -0.15113848447799683
-    },
-    {
-        "title": "La OTAN confirma el despliegue de militares de Corea del Norte en la región rusa de Kursk",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/28/pionyang-RLZ2H9aLFnZ4EKV2d0t98KO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/otan-confirma-despliegue-militares-corea-norte-region-20241028130038-nt.html",
-        "date": "2024-10-28 12:01:33",
-        "sentiment_score": -0.18375203013420105
     },
     {
         "title": "Mazón pide a la izquierda “que se calle” mientras se negocia la vuelta de la Copa del América a Valencia",
@@ -7353,5 +7278,389 @@ export default [
         "link": "https://2001online.com/usa/servicios/florida-quieres-lucir-bella-estos-son-los-precios-en-las-peluquerias--2024103117160",
         "date": "2024-10-31 21:16:00",
         "sentiment_score": 0.7246363386511803
+    },
+    {
+        "title": "¿Qué esperar de la noche electoral en Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/audie-wide-20241101020410508.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noche-electoral-elecciones-eeuu-trax",
+        "date": "2024-11-01 02:09:08",
+        "sentiment_score": -0.035775087773799896
+    },
+    {
+        "title": "¿Qué esperar de la noche electoral en Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/audie-wide-20241101020410508.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones ee.uu",
+            "ee.uu.",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noche-electoral-elecciones-eeuu-trax/",
+        "date": "2024-11-01 02:09:08",
+        "sentiment_score": -0.09697342664003372
+    },
+    {
+        "title": "Experta asegura que comentario de Trump de proteger a las mujeres es un autogol a su campaña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujeres-trump-kamala-apoyo-cuidar-veto-aborto-derechos-conclusiones-tv",
+        "date": "2024-11-01 01:48:27",
+        "sentiment_score": -0.8072940949350595
+    },
+    {
+        "title": "Experta asegura que comentario de Trump de proteger a las mujeres es un autogol a su campaña",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-621650866.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "noticias de donald trump",
+            "mujeres",
+            "aborto en ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujeres-trump-kamala-apoyo-cuidar-veto-aborto-derechos-conclusiones-tv/",
+        "date": "2024-11-01 01:48:27",
+        "sentiment_score": -0.8006637562066317
+    },
+    {
+        "title": "Corcuera: la supremacía constitucional es una carrera de velocidad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/camara-de-diputados-1920.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "suprema corte",
+            "méxico",
+            "cámara de diputados",
+            "reforma judicial"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/corcuera-supremacia-constitucional-diputados-aristegui-tv/",
+        "date": "2024-11-01 01:40:47",
+        "sentiment_score": 0.026404649019241333
+    },
+    {
+        "title": "Corcuera: la supremacía constitucional es una carrera de velocidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/corcuera-supremacia-constitucional-diputados-aristegui-tv",
+        "date": "2024-11-01 01:40:47",
+        "sentiment_score": -0.008965849876403809
+    },
+    {
+        "title": "Testigo del caso de Sean \"Diddy\" Combs afirma tener videos del músico victimizando a celebridades",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1774847-c-ap24265346474643.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "sean “diddy” combs",
+            "instanoticias",
+            "judicial",
+            "celebridades"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/10/31/testigo-diddy-combs-videos-musico-victimizando-celebridades-trax/",
+        "date": "2024-11-01 01:21:15",
+        "sentiment_score": -0.4251321703195572
+    },
+    {
+        "title": "Las 4 noticias económicas del 31 de octubre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176212949.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-31-octubre-panorama-tv-fast",
+        "date": "2024-11-01 01:20:19",
+        "sentiment_score": -0.014092028141021729
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 31 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-31-de-octubre-2024-panorama-fast",
+        "date": "2024-11-01 00:36:46",
+        "sentiment_score": 0.13288526609539986
+    },
+    {
+        "title": "Supremacía de la Constitución evidencia poder de la mayoría parlamentaria, dice abogada",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21083617-0-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "reforma constitucional",
+            "méxico",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/supremacia-constitucional-evidencia-poder-mayoria-parlamentaria-perspectivas-mexico-tv-fast/",
+        "date": "2024-11-01 00:26:18",
+        "sentiment_score": -0.16378042101860046
+    },
+    {
+        "title": "La mitad de las mujeres desarrollará miomas a lo largo de su vida: qué son y cómo abordarlos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/31/miomas.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/salud-al-dia/mitad-mujeres-desarrollara-miomas-largo-vida-abordarlos-20241101013800-nt.html",
+        "date": "2024-11-01 00:38:00",
+        "sentiment_score": -0.12411341071128845
+    },
+    {
+        "title": "Por unos servicios financieros responsables, justos y adaptados a las necesidades del cliente",
+        "image_url": "https://s1.elespanol.com/2024/10/31/invertia/opinion/897671195_250531727_1706x960.jpg?contentId=ESPIMA20241031_0971",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20241101/servicios-financieros-responsables-justos-adaptados-necesidades-cliente/897780217_12.html",
+        "date": "2024-11-01 00:52:58",
+        "sentiment_score": 0.47022517025470734
+    },
+    {
+        "title": "Dos Euroligas en horas bajas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4f57449c-877d-4854-bb73-1cc22181ad6a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2024/11/01/euroligas-horas-bajas-111068518.html",
+        "date": "2024-11-01 00:45:08",
+        "sentiment_score": -0.8692572321742773
+    },
+    {
+        "title": "Los vecinos del Camp Nou pasan al ataque como los del Bernabéu: más presión para el Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/01/culemania/palco/897920202_13660086_1706x960.jpg?contentId=ESPIMA20241101_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241101/los-vecinos-del-camp-nou-bernabeu-barca/897910201_0.html",
+        "date": "2024-11-01 00:41:06",
+        "sentiment_score": -0.697487898170948
+    },
+    {
+        "title": "Entramos en el centro español de pruebas de Danone, donde conciben los yogures con el punto de textura y sabor idóneo",
+        "image_url": "https://s1.elespanol.com/2024/10/31/invertia/disruptores/grandes-actores/corporaciones/897670626_250513922_1706x960.jpg?contentId=ESPIMA20241031_0402",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20241101/entramos-centro-espanol-pruebas-danone-conciben-yogures-punto-textura-sabor-idoneo/897660468_0.html",
+        "date": "2024-11-01 00:29:50",
+        "sentiment_score": 0.48879707232117653
+    },
+    {
+        "title": "Las series que se estrenan esta semana",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/31/carrie-k9AC-U2201675021487cvC-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/pantallas/series/series-estrenan-semana-20241031005253-ntrc.html",
+        "date": "2024-10-31 23:52:54",
+        "sentiment_score": 0.3649972006678581
+    },
+    {
+        "title": "Las series que se estrenan esta semana",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/10/31/carrie-k9AC-U2201675021487cvC-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/pantallas/series/series-estrenan-semana-20241031005253-ntrc.html",
+        "date": "2024-10-31 23:52:54",
+        "sentiment_score": 0.12762810662388802
+    },
+    {
+        "title": "Suite: un congreso «sin cocineros» para dar protagonismo a la sala",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/10/25/suiteas1200x840.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/jantour/suite-congreso-cocineros-dar-protagonismo-sala-20241026003942-nt.html",
+        "date": "2024-10-31 23:39:42",
+        "sentiment_score": 0.1983533464372158
+    },
+    {
+        "title": "Amazon gana hasta 14.141 millones de dólares, un 55% más en el tercer trimestre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/77978913-aee2-43a4-8a99-a26111e49ecb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/economia/2024/11/01/amazon-gana-14-141-millones-111062447.html",
+        "date": "2024-10-31 23:09:04",
+        "sentiment_score": 0.7544950190931559
+    },
+    {
+        "title": "Pau Cubarsí está desatado: palo al Real Madrid y espectacular elogio a Lamine Yamal",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/31/culemania/primer-equipo/897670410_13659969_1706x960.jpg?contentId=ESPIMA20241031_0186",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241101/pau-cubarsi-real-madrid-espectacular-lamine-yamal/897660368_0.html",
+        "date": "2024-10-31 23:05:47",
+        "sentiment_score": -0.24642326682806015
+    },
+    {
+        "title": "El cementerio de la Almudena abre el 'Parque de las Mariposas', un espacio para honrar la memoria de hijos no nacidos",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/29/flores-en-un-cementerio_5b03.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.telecinco.es/noticias/madrid/20241031/cementerio-almudena-parque-mariposas-espacio-hijos-no-nacidos_18_013857880.html",
+        "date": "2024-10-31 23:01:37",
+        "sentiment_score": 0.16540133953094482
+    },
+    {
+        "title": "Sin fecha para reabrir la autovía Valencia-Madrid, colapsada por el barro y cientos de vehículos abandonados: \"Faltan días\"",
+        "image_url": "https://s1.elespanol.com/2024/10/31/valencia/897671372_250537136_1706x1280.png?contentId=ESPIMA20241031_1148",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/valencia/20241101/sin-fecha-reabrir-autovia-valencia-madrid-colapsada-barro-cientos-vehiculos-abandonados-faltan-dias/897660756_0.html",
+        "date": "2024-11-01 01:30:12",
+        "sentiment_score": -0.7096634581685066
+    },
+    {
+        "title": "¡Un plato de pasta para llevar, por favor!",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/31/6723abb1350f5.jpeg",
+        "tags": [
+            "emprendedores"
+        ],
+        "link": "https://www.lavanguardia.com/economia/emprendedores/20241101/10053917/brutalia-pasta-artesanal-domicilio.html",
+        "date": "2024-11-01 01:00:00",
+        "sentiment_score": -0.14416451752185822
+    },
+    {
+        "title": "Laporta exprime los documentales de futbolistas para revitalizar el negocio fracasado de Barça Studios",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/31/culemania/palco/897670385_13659215_1706x960.jpg?contentId=ESPIMA20241031_0161",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241101/laporta-exprime-documentales-futbolistas-revitalizar-fracasado-debarcastudios/897660356_0.html",
+        "date": "2024-11-01 00:41:17",
+        "sentiment_score": 0.611078224144876
+    },
+    {
+        "title": "El Barça ha invertido 2,6 millones de euros en siete startups",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/31/culemania/palco/897670393_13659466_1706x960.jpg?contentId=ESPIMA20241031_0169",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241101/el-barca-invertido-millones-euros-siete-startups/897660359_0.html",
+        "date": "2024-11-01 00:41:12",
+        "sentiment_score": 0.45495758671313524
+    },
+    {
+        "title": "Descubrimos la nueva colección de Laure de Sagazan: diseños inspirados en Italia para novias desenfadadas y 'boho chic'",
+        "image_url": "https://s1.elespanol.com/2024/10/31/actualidad/897670689_250515895_1706x960.jpg?contentId=ESPIMA20241031_0465",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/estilo/20241101/descubrimos-nueva-coleccion-laure-sagazan-disenos-inspirados-italia-novias-desenfadadas-boho-chic/897410715_0.html",
+        "date": "2024-11-01 00:26:57",
+        "sentiment_score": 0.299534996971488
+    },
+    {
+        "title": "Toda una vida junto a la muerte",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/10/31/Jaume-R2O92GtaokcORJvgMDZ2XGO-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/sociedad/vida-junto-muerte-20241031201030-ntrc.html",
+        "date": "2024-10-31 23:55:00",
+        "sentiment_score": -0.07194027304649353
+    },
+    {
+        "title": "Así luce el altar por el Día de Muertos en la Casa Blanca (+Fotos)",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1730425819833/altar1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-luce-el-altar-por-el-dia-de-muertos-en-la-casa-blanca-fotos--2024103121340",
+        "date": "2024-11-01 01:34:00",
+        "sentiment_score": 0.11071115173399448
+    },
+    {
+        "title": "Aumentan límites para retirar efectivo en cajeros Mercantil (+Monto)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/aumentan-limites-para-retirar-efectivo-en-cajeros-mercantil-monto--2024103121310",
+        "date": "2024-11-01 01:31:00",
+        "sentiment_score": -0.01188892126083374
+    },
+    {
+        "title": "Cadáver de un obrero petrolero es hallado en el Lago de Maracaibo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/cadaver-de-un-obrero-petrolero-es-hallado-en-el-lago-de-maracaibo-2024103121300",
+        "date": "2024-11-01 01:30:00",
+        "sentiment_score": -0.3747960142791271
+    },
+    {
+        "title": "Seguro Social EEUU: Estos son los tres cheques para jubilados en noviembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-social-eeuu-estos-son-los-tres-cheques-para-jubilados-en-noviembre-2024103121280",
+        "date": "2024-11-01 01:28:00",
+        "sentiment_score": 0.47888028621673584
+    },
+    {
+        "title": "Inicia entrega de megabono por Bs.3000 este #31Oct",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/inicia-entrega-de-megabono-por-bs-3000-este-31oct-2024103121170",
+        "date": "2024-11-01 01:17:00",
+        "sentiment_score": 0.012073926627635956
+    },
+    {
+        "title": "EEUU | Descubre si eres elegible para recibir pago directo de Costco",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-descubre-si-eres-elegible-para-recibir-pago-directo-de-costco-2024103120520",
+        "date": "2024-11-01 00:52:00",
+        "sentiment_score": -0.8806444406509399
+    },
+    {
+        "title": "EEUU | ¿Cómo recibir el cheque de estímulo de $725? (+Requisitos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-como-recibir-el-cheque-de-estimulo-de-725-requisitos--2024103120430",
+        "date": "2024-11-01 00:43:00",
+        "sentiment_score": 0.17653103917837143
+    },
+    {
+        "title": "Black Friday EEUU: Sepa cómo aprovecharlo y cuánto durará",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/black-friday-eeuu-sepa-como-aprovecharlo-y-cuanto-durara-2024103120300",
+        "date": "2024-11-01 00:30:00",
+        "sentiment_score": 0.4451614748686552
+    },
+    {
+        "title": "Madre ahoga a su bebé recién nacida en el baño de su casa (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/madre-ahoga-a-su-bebe-recien-nacida-en-el-bano-de-su-casa-detalles--202410312050",
+        "date": "2024-11-01 00:05:00",
+        "sentiment_score": -0.6263587307184935
+    },
+    {
+        "title": "Los beneficios que puedes obtener al trabajar con Walmart (+Requisitos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/los-beneficios-que-puedes-obtener-al-trabajar-con-walmart-requisitos--202410312020",
+        "date": "2024-11-01 00:02:00",
+        "sentiment_score": 0.14780282974243164
     }
 ];
