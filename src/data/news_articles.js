@@ -1,207 +1,5 @@
 export default [
     {
-        "title": "Rechazan comentarios sobre Puerto Rico dados por comediante en evento de Trump de Nueva York",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/michelle-00-04-28-26-still003.jpg?quality=100&strip=info",
-        "tags": [
-            "estados unidos noticias",
-            "elecciones en estados unidos",
-            "puerto rico"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/28/rechazan-comentarios-puerto-rico-comediante-evento-trump-orix/",
-        "date": "2024-10-28 05:34:01",
-        "sentiment_score": -0.8136352226138115
-    },
-    {
-        "title": "Los efectos del ataque de Israel sobre Irán: preocupación en Teherán y un inesperado efecto en Rusia y Hizbolá",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/28/1487916728-kbiC-U603264427027h7C-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/efectos-ataque-israel-sobre-iran-preocupacion-teheran-20241028072700-nt.html",
-        "date": "2024-10-28 06:27:01",
-        "sentiment_score": -0.12609542906284332
-    },
-    {
-        "title": "La casa prefabricada de madera de 105 metros cuadrados por menos de 15.000 euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/diario_abc/2024/10/25/casapre.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/casa-prefabricada-madera-105-metros-cuadrados-20241028111005-nt.html",
-        "date": "2024-10-28 06:00:00",
-        "sentiment_score": -0.09506146609783173
-    },
-    {
-        "title": "Ruido en el Bernabéu",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/27/culemania/primer-equipo/896670360_13636741_1706x960.jpg?contentId=ESPIMA20241027_0036",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20241028/ruido-en-el-bernabeu/896660368_0.html",
-        "date": "2024-10-28 06:17:45",
-        "sentiment_score": -0.7888747081160545
-    },
-    {
-        "title": "El Astur, un club amateur con cinco años más de vida que el Pucela",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/27/astur-aficion-kj0G-U22016230696630pH-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/astur-club-amateur-cinco-anos-vida-pucela-20241028070232-nt.html",
-        "date": "2024-10-28 06:02:33",
-        "sentiment_score": -0.3961173892021179
-    },
-    {
-        "title": "El Recinto Sur, ¿un lugar inseguro?",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1116749",
-        "date": "2024-10-28 06:00:52",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "«Cerrar Almaraz es un error brutal basado en el ‘talibanismo’ ecologista»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d3b9b15a-388c-4a3b-b991-a8918aea2598_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2024/10/28/cerrar-almaraz-error-brutal-basado-110678420.html",
-        "date": "2024-10-28 06:00:21",
-        "sentiment_score": -0.22341874241828918
-    },
-    {
-        "title": "La vallisoletana que se convirtió en la primera directora de una radio en España en pleno franquismo",
-        "image_url": "https://s1.elespanol.com/2024/10/27/castilla-y-leon/region/valladolid/896670545_250397740_1706x960.jpg?contentId=ESPIMA20241027_0221",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20241028/vallisoletana-convirtio-primera-directora-radio-espana-pleno-franquismo/896660432_0.html",
-        "date": "2024-10-28 06:00:00",
-        "sentiment_score": 0.6192533150315285
-    },
-    {
-        "title": "La duda de Paco González con el futuro de Ancelotti tras la goleada del Barcelona: \"Está obligado\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2024/10/23/6719521469831.r_d.1033-376.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/duda-paco-gonzalez-futuro-ancelotti-goleada-barcelona-esta-obligado-20241028_3035528.html",
-        "date": "2024-10-28 05:57:04",
-        "sentiment_score": 0.05920407176017761
-    },
-    {
-        "title": "La impronta de Jagoba Arrasate",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd71ab42-8137-4e87-a235-ac1bebd47812_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2024/10/28/impronta-jagoba-arrasate-8858262.html",
-        "date": "2024-10-28 05:54:25",
-        "sentiment_score": 0.29198507964611053
-    },
-    {
-        "title": "El diputado duelista Barroeta-Aldamar",
-        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/10/27/Canal%20HISTORIA%201200%20(20).jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/gipuzkoa/historia/diputado-duelista-barroetaaldamar-20241028065226-nt.html",
-        "date": "2024-10-28 05:52:27",
-        "sentiment_score": -0.37250908836722374
-    },
-    {
-        "title": "Un arco monumental y enigmático",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/01/arco3-RmNIA6to7EURuzJsKe6L0KI-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/170aniversario/historias-de-nuestra-historia/arco-monumental-enigmatico-20241028065026-nt.html",
-        "date": "2024-10-28 05:50:26",
-        "sentiment_score": 0.05388164520263672
-    },
-    {
-        "title": "Vinicius espera un Balón de Oro contra el racismo en plena crisis por los insultos del Bernabéu y la goleada del clásico",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e57b8ce6-5a3a-44d0-9df0-b79c562594bb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/deportes/2024/10/28/vinicius-espera-balon-oro-racismo-110676936.html",
-        "date": "2024-10-28 05:31:52",
-        "sentiment_score": 0.20064988732337952
-    },
-    {
-        "title": "El diputado condenado por maltrato que Abascal no cesa amenazó a su mujer frente a sus hijos en el colegio",
-        "image_url": "https://www.elplural.com/uploads/s1/18/57/58/5/carlos-flores-fue-condenado-por-violencia-de-ge-nero-ep_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/diputado-condenado-maltrato-abascal-no-cesa-amenazo-mujer-hijos-colegio_340161102",
-        "date": "2024-10-28 06:31:57",
-        "sentiment_score": -0.26084306836128235
-    },
-    {
-        "title": "En directo | Israel mantiene su ofensiva en Líbano y Gaza mientras se retoman las negociaciones en Qatar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c4db3a5a-825e-45b2-b9f4-06c5b3ff7b40_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.levante-emv.com/internacional/2024/10/28/directo-ultima-hora-conflicto-palestina-93048487.html",
-        "date": "2024-10-28 06:28:00",
-        "sentiment_score": -0.6811927370727062
-    },
-    {
-        "title": "Exilios, migraciones y fronteras",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/61532a1d-3923-4e96-8fbd-3d02976c63dd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/politica/2024/10/28/exilios-migraciones-fronteras-8857725.html",
-        "date": "2024-10-28 06:24:02",
-        "sentiment_score": -0.03859308362007141
-    },
-    {
-        "title": "Lo que debes saber hoy, 28 de octubre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/03/11/vivir-en-barcelona/839176091_12594694_1706x960.jpg?contentId=ESPIMA20240311_0017",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241028/lo-que-debes-saber-hoy-de-octubre-barcelona/896910301_0.html",
-        "date": "2024-10-28 06:22:35",
-        "sentiment_score": 0.23408865928649902
-    },
-    {
-        "title": "Eva, madre cuidadora de Carlos, con una enfermedad ultrarrara: \"En mi casa nos reímos mucho, o lo intentamos\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/23/eva-con-su-hijo-carlos-de-21-anos-y-gran-dependiente.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/noticia/5647095/0/eva-madre-cuidadora-carlos-con-una-enfermedad-ultrarrara/",
-        "date": "2024-10-28 06:20:36",
-        "sentiment_score": -0.3265436924993992
-    },
-    {
-        "title": "La ofensiva de Junts",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/27/1487908360-khFD-U2201624306336G2B-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/opinion/el-norte-ofensiva-junts-20241028071750-nt.html",
-        "date": "2024-10-28 06:17:51",
-        "sentiment_score": -0.05307599902153015
-    },
-    {
-        "title": "La fórmula de éxito de Casa Bonay busca sitio en Madrid, Palma y Lisboa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ef5de3a-44a2-42cf-9234-bcbe75667312_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodicodearagon.com/economia/activos/2024/10/28/formula-exito-casa-bonay-110679201.html",
-        "date": "2024-10-28 06:15:25",
-        "sentiment_score": -0.05604484677314758
-    },
-    {
         "title": "¿Quién es favorito para ganar las elecciones presidenciales en EE.UU. 2024? Esto dicen las encuestas",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/harris-trump-encuestas.jpg?quality=100&strip=info",
         "tags": [
@@ -7029,5 +6827,531 @@ export default [
         "link": "https://2001online.com/usa/internacionales/el-particular-gesto-de-joe-biden-con-bebes-durante-celebracion-de-halloween--2024103112360",
         "date": "2024-10-31 16:36:00",
         "sentiment_score": -0.6204704120755196
+    },
+    {
+        "title": "Así fue el momento en que el cantante de Radiohead abandona el escenario tras interrupción",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/horizontal-thom-yorke.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/thom-yorke-abandona-el-escenario-trax",
+        "date": "2024-10-31 22:10:31",
+        "sentiment_score": -0.7601435147225857
+    },
+    {
+        "title": "Mira las misteriosas esculturas que aparecieron en Washington de la noche a la mañana",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179893611-20241031215721960.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "videos digitales",
+            "fast – news variety",
+            "estados unidos noticias",
+            "xpress",
+            "eleccciones estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/esculturas-washington-dc-trump-harris-ush-trax/",
+        "date": "2024-10-31 22:05:17",
+        "sentiment_score": -0.2302570715546608
+    },
+    {
+        "title": "Mira las misteriosas esculturas que aparecieron en Washington de la noche a la mañana",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179893611-20241031215721960.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/esculturas-washington-dc-trump-harris-ush-trax",
+        "date": "2024-10-31 22:05:17",
+        "sentiment_score": 0.12625497579574585
+    },
+    {
+        "title": "De los campos de cultivo a adornar el Día de Muertos: así es la ruta de la flor de cempasúchil",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/0964ca79-38d7-448d-9196-195c48e7342d.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "día de muertos",
+            "fast – news variety",
+            "flores",
+            "xpress",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/flor-cempasuchil-dio-de-muertos-siembra-orix-pkg-perspectivas-mexico-tv/",
+        "date": "2024-10-31 22:00:50",
+        "sentiment_score": -0.23695367574691772
+    },
+    {
+        "title": "De los campos de cultivo a adornar el Día de Muertos: así es la ruta de la flor de cempasúchil",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/flor-cempasuchil-dio-de-muertos-siembra-orix-pkg-perspectivas-mexico-tv",
+        "date": "2024-10-31 22:00:50",
+        "sentiment_score": 0.21319445967674255
+    },
+    {
+        "title": "Aficionados de los Dodgers incendian un autobús tras ganar la Serie Mundial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/110195-dodgersbusfire0-20241031215126340.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "fast – sports",
+            "videos digitales",
+            "estados unidos noticias",
+            "yankees",
+            "xpress",
+            "dodgers"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dodgers-bus-incendio-celebracion-ush-trax/",
+        "date": "2024-10-31 21:55:42",
+        "sentiment_score": -0.6711080446839333
+    },
+    {
+        "title": "Aficionados de los Dodgers incendian un autobús tras ganar la Serie Mundial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dodgers-bus-incendio-celebracion-ush-trax",
+        "date": "2024-10-31 21:55:42",
+        "sentiment_score": -0.8141336813569069
+    },
+    {
+        "title": "Las 3 noticias internacionales del 31 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-31-octubre-2024-fast",
+        "date": "2024-10-31 21:50:58",
+        "sentiment_score": -0.009497229009866714
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 31 de octubre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-31-de-octubre-2024-dusa-tarde-fast",
+        "date": "2024-10-31 21:06:22",
+        "sentiment_score": 0.08206122741103172
+    },
+    {
+        "title": "“Una auténtica pesadilla”, dice residente sobre la noche de tormenta en Valencia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/horiz-160.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inundaciones",
+            "españa",
+            "valencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/testimonio-tormenta-valencia-dana-inundaciones-orix/",
+        "date": "2024-10-31 21:01:22",
+        "sentiment_score": -0.7609851788729429
+    },
+    {
+        "title": "México arresta a un narco chino encargado de lavar activos por más 150 millones de euros al año",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/31/metanfetamina-kNFC-U603286383812eAG-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/mexico-arresta-narco-chino-encargado-lavar-activos-20241031214008-nt.html",
+        "date": "2024-10-31 20:41:31",
+        "sentiment_score": -0.15207044780254364
+    },
+    {
+        "title": "Ferrovial nombra a Ignacio del Pino, hijo del presidente, nuevo director general de Inversiones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/31/ignacio-del-pino-kpkD-U603286225483S4G-1200x840@diario_abc.PNG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ferrovial-nombra-ignacio-pino-hijo-presidente-nuevo-20241031210053-nt.html",
+        "date": "2024-10-31 20:00:53",
+        "sentiment_score": -0.0025609731674194336
+    },
+    {
+        "title": "Un equipo español diseña el primer mapa de la máquina molecular más compleja dentro de cada célula",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/31/genes.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/espanol-disenan-primer-mapa-maquina-molecular-compleja-20241031141032-nt.html",
+        "date": "2024-10-31 19:19:00",
+        "sentiment_score": -0.07583874464035034
+    },
+    {
+        "title": "Alarmas en el móvil",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-alarmas-movil-20241101200500-nts.html",
+        "date": "2024-10-31 19:05:00",
+        "sentiment_score": -0.05641236901283264
+    },
+    {
+        "title": "Restringir el azúcar en los primeros 1.000 días de vida reduce el riesgo de diabetes e hipertensión",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/10/31/azucar-RulkLY5vs5dVj70GedtbpeL-1200x840@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/evitar-azucar-mil-primeros-dias-vida-protege-20241031140651-nt.html",
+        "date": "2024-10-31 19:02:00",
+        "sentiment_score": -0.12681810557842255
+    },
+    {
+        "title": "¿Dónde está el Estado?",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/10/28/tdt-television-cambio-canales-k12E--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-estado-20241101194322-nt.html",
+        "date": "2024-10-31 18:56:35",
+        "sentiment_score": -0.13953004777431488
+    },
+    {
+        "title": "La UME de todos los santos",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/29/accidenteICALambulancia-U190822383642tKB--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-ume-santos-20241101184122-nts.html",
+        "date": "2024-10-31 18:53:47",
+        "sentiment_score": -0.025444358587265015
+    },
+    {
+        "title": "Al borde del abismo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/01/congreso-diputados-politicos-Rp6ms7lXLfIiYaLx47kCGvN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-marin-sicilia-borde-abismo-20241101173652-nts.html",
+        "date": "2024-10-31 18:51:56",
+        "sentiment_score": -0.046802252531051636
+    },
+    {
+        "title": "Parar las aguas",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/10/30/1475563907-kg7B--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-parar-aguas-20241101175925-nts.html",
+        "date": "2024-10-31 18:51:31",
+        "sentiment_score": -0.1192297637462616
+    },
+    {
+        "title": "El dueño de Deliplus y Bosque Verde y otros tres empresarios, entre los desaparecidos en Valencia por la DANA",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/31/miguel-kcJ-U603285870760caH-1200x840@diario_abc.PNG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/dueno-deliplus-bosque-verde-tres-empresarios-desaparecidos-20241031193325-nt.html",
+        "date": "2024-10-31 18:39:47",
+        "sentiment_score": -0.2799455225467682
+    },
+    {
+        "title": "Los tres ejércitos se implican en la lucha contra los efectos de la dana con el despliegue de 500 militares más",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FF47WQKFEZBPHLPA6RD2AEWUHA.jpg?auth=4c281bd2f2870414933370c4c15ae791ab2243d0d689352dc74b23678b0e5eba&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "catástrofes",
+            "ume",
+            "aemet",
+            "ejército tierra",
+            "ejército aire",
+            "españa",
+            "armada"
+        ],
+        "link": "https://elpais.com/espana/2024-10-31/los-tres-ejercitos-se-implican-en-la-lucha-contra-los-efectos-de-la-dana-con-el-despliegue-de-500-militares-mas.html",
+        "date": "2024-10-31 20:40:45",
+        "sentiment_score": -0.15135983377695084
+    },
+    {
+        "title": "Líneas de Cercanías desaparecidas, carreteras cortadas, AVE y Euromed cancelados: los daños de la dana en las infraestructuras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DS6EJME44FFTDINPCPIEMIKCCM.jpg?auth=6cf28b0dbca08007efd8dc61c6931bd8e43ac0f95916065cd13ae1d11f7267eb&width=1200",
+        "tags": [
+            "españa",
+            "ave",
+            "dana",
+            "autovías",
+            "cercanías",
+            "infraestructuras del transporte",
+            "trenes",
+            "inundaciones dana octubre 2024",
+            "valencia",
+            "requena",
+            "metro",
+            "carreteras"
+        ],
+        "link": "https://elpais.com/espana/2024-10-31/lineas-de-cercanias-desaparecidas-carreteras-cortadas-ave-y-euromed-cancelados-los-danos-de-la-dana-en-las-infraestructuras.html",
+        "date": "2024-10-31 19:15:04",
+        "sentiment_score": -0.8247147221118212
+    },
+    {
+        "title": "La residencia de Paiporta donde murieron seis ancianos: “Los trabajadores los subieron a cuestas por la escalera. Hicieron lo imposible”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WFHT6JT2NRFLPELWJ4D64AJP5A.jpg?auth=e4f5af4eb1419bf7ee6f2b7d704ceccc4d0b5b0015e68f16944e72c08153fcc3&width=1200",
+        "tags": [
+            "paiporta",
+            "ancianos",
+            "valencia",
+            "dana",
+            "residencias ancianos",
+            "muertes",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-10-31/la-residencia-de-paiporta-donde-murieron-seis-ancianos-los-trabajadores-los-subieron-a-cuestas-por-la-escalera-hicieron-lo-imposible.html",
+        "date": "2024-10-31 18:37:35",
+        "sentiment_score": -0.546750470995903
+    },
+    {
+        "title": "El ‘parlamento’ paralelo de Puigdemont reduce estructura por su “preocupante” situación económica",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CY2NMOX2SNAWJGTHP5QDBPJCTY.jpg?auth=57fcb71292a2b12c9b2f47c52d4e92d95ecb880576e8515c30ab3210a2582066&width=1200",
+        "tags": [
+            "política",
+            "cataluña",
+            "govern cataluña",
+            "carles puigdemont",
+            "juntsxcat",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-31/el-parlamento-paralelo-de-puigdemont-reduce-estructura-por-su-preocupante-situacion-economica.html",
+        "date": "2024-10-31 18:21:05",
+        "sentiment_score": -0.8652519546449184
+    },
+    {
+        "title": "Qué pasó el día de la dana: cronología de los avisos de la Aemet y de la riada que llegó antes de las decisiones políticas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WOIUPD2TXZE4ZLN5G76EQR5VFY.png?auth=e8d4b35e3b49cb0a4d207328b966408f7cfdd98c6b1672eda99d86603269d69f&width=1200",
+        "tags": [
+            "meteorología",
+            "inundaciones",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "catástrofes",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/2024-10-31/que-paso-el-dia-de-la-dana-cronologia-de-los-avisos-de-la-aemet-y-de-la-riada-que-llego-antes-de-las-decisiones-politicas.html",
+        "date": "2024-10-31 18:03:26",
+        "sentiment_score": -0.41783634200692177
+    },
+    {
+        "title": "¿Cómo se desbordaron ramblas y ríos en Valencia? Los mapas satelitales muestran los pueblos anegados",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GLDRQBIONJEABECNC6KV6QQYHI.png?auth=1a749425a5091dd4cc4f5257f9b371748ef598f7021108afd5ffd7bd688462c3&width=1200",
+        "tags": [
+            "desastres naturales",
+            "valencia",
+            "tormentas",
+            "españa",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "temporales",
+            "lluvias torrenciales",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/2024-10-31/como-se-desbordaron-ramblas-y-rios-en-valencia-los-mapas-satelitales-muestran-los-pueblos-anegados.html",
+        "date": "2024-10-31 18:02:10",
+        "sentiment_score": -0.8968012873083353
+    },
+    {
+        "title": "Arooj Aftab, flotando entre lo mundano y lo espiritual",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BN2ONWNJY5BM5BWZVDVNQWE3LY.jpg?auth=0b43d2049cd08a66a384c5f5aa6a5a780aa55760c5cc7dba3b85bf5fd2e2f474&width=1200",
+        "tags": [
+            "fusión ritmos",
+            "conciertos",
+            "silvia pérez cruz",
+            "cataluña",
+            "música",
+            "pakistán",
+            "barcelona",
+            "asia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-10-31/arooj-aftab-flotando-entre-lo-mundano-y-lo-espiritual.html",
+        "date": "2024-10-31 17:44:23",
+        "sentiment_score": -0.12039317190647125
+    },
+    {
+        "title": "La perla de la cantera del Barça que acude al llamado de Hansi Flick: generación 2007",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/31/culemania/primer-equipo/897670408_13659911_1706x960.jpg?contentId=ESPIMA20241031_0184",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241031/la-de-cantera-barca-hansi-flick-generacion/897660366_0.html",
+        "date": "2024-10-31 22:13:02",
+        "sentiment_score": 0.15863658487796783
+    },
+    {
+        "title": "El Maccabi sentencia sobre la bocina a un Real Madrid que sigue con su maleficio como visitante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/581303d3-e390-48f9-9be7-4efdc2d004ec_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2024/10/31/maccabi-sentencia-bocina-real-madrid-111058095.html",
+        "date": "2024-10-31 22:02:30",
+        "sentiment_score": -0.31197689473629
+    },
+    {
+        "title": "Olympiacos revive las pesadillas de un pobre Barça",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/48144d3d-2185-420c-9021-b52b90585a33_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2024/10/31/olympiacos-revive-pesadillas-pobre-barca-111056602.html",
+        "date": "2024-10-31 21:42:08",
+        "sentiment_score": 0.5634433850646019
+    },
+    {
+        "title": "Noche de terror para Real Madrid y Barcelona en la Euroliga",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/10/31/6723f510b02ab.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/noche-terror-real-madrid-barcelona-euroliga-20241031_3038565.html",
+        "date": "2024-10-31 21:36:38",
+        "sentiment_score": -0.1071043610572815
+    },
+    {
+        "title": "El regreso de Rodrigo Sorogoyen, centro de los estrenos de noviembre",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4a470e69-39c4-4f59-9d1e-610a75ebc69f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/cine-y-series/2024/10/31/regreso-rodrigo-sorogoyen-centro-estrenos-8877641.html",
+        "date": "2024-10-31 21:23:51",
+        "sentiment_score": -0.8058701492846012
+    },
+    {
+        "title": "Las opciones que maneja MotoGP para el Gran Premio de la Comunitat Valenciana tras el paso de la DANA",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0344660a-9db1-4f2e-9b47-1d2a9a2323cb_16-9-aspect-ratio_default_0_x1003y411.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/motogp/2024/10/31/opciones-maneja-motogp-gran-premio-comunitat-valenciana-posible-suspension-111050016.html",
+        "date": "2024-10-31 20:39:53",
+        "sentiment_score": -0.4800305888056755
+    },
+    {
+        "title": "Fira de València acogerá los cadáveres de las víctimas de la DANA y la actividad forense",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/31/6723da6671b65.r_d.2544-2141-0.jpeg",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://www.lavanguardia.com/local/valencia/20241031/10069373/fira-valencia-acogera-cadaveres-victimas-dana-actividad-forense.html",
+        "date": "2024-10-31 20:34:37",
+        "sentiment_score": 0.15358635410666466
+    },
+    {
+        "title": "El joyero Pedro Ferreiro, triple campeón del mundo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be8f3d5e-40d5-4f0f-bce3-117d7100ad0d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/sociedad/2024/10/31/joyero-pedro-ferreiro-triple-campeon-111050778.html",
+        "date": "2024-10-31 20:32:37",
+        "sentiment_score": 0.5610653087496758
+    },
+    {
+        "title": "El chef José Andrés repartirá comidas a los damnificados de la DANA de Valencia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4a6f578c-96b0-4a48-97bd-5c6b2b14d6ee_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/sociedad/2024/10/31/chef-jose-andres-repartira-comidas-111050317.html",
+        "date": "2024-10-31 20:23:20",
+        "sentiment_score": -0.3935687988996506
+    },
+    {
+        "title": "EEUU | Beneficiarios del Seguro Social que recibirán pagos el 1 de noviembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-beneficiarios-del-seguro-social-que-recibiran-pagos-el-1-de-noviembre-2024103118130",
+        "date": "2024-10-31 22:13:00",
+        "sentiment_score": 0.42408586107194424
+    },
+    {
+        "title": "#31Oct| Anuncian \"megabono\" para estos grupos de funcionarios (+MONTO)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/31oct-anuncian-megabono-para-estos-grupos-de-funcionarios-monto--2024103118130",
+        "date": "2024-10-31 22:13:00",
+        "sentiment_score": 0.04257688671350479
+    },
+    {
+        "title": "Mujer recibe larga condena por usar a sus sobrinas para grabar pornografía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-recibe-larga-condena-por-usar-a-sus-sobrinas-para-grabar-pornografia-2024103117590",
+        "date": "2024-10-31 21:59:00",
+        "sentiment_score": -0.10938897728919983
+    },
+    {
+        "title": "¿Cuándo tiempo durará el recorrido de la Dana?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/cuando-tiempo-durara-el-recorrido-de-la-dana--2024103117440",
+        "date": "2024-10-31 21:44:00",
+        "sentiment_score": -0.9262694399803877
+    },
+    {
+        "title": "La suma millonaria que recibirán los Dodgers tras ganar la Serie Mundial",
+        "image_url": "https://pxcdn.2001online.com/2001/102024/1730410433964/descarga%20(41).jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/la-suma-millonaria-que-recibiran-los-dodgers-tras-ganar-la-serie-mundial-2024103117400",
+        "date": "2024-10-31 21:40:00",
+        "sentiment_score": 0.5158951431512833
+    },
+    {
+        "title": "Oklahoma | Consiente tu paladar en algunos de estos restaurantes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/oklahoma-consiente-tu-paladar-en-algunos-de-estos-restaurantes-2024103117350",
+        "date": "2024-10-31 21:35:00",
+        "sentiment_score": 0.8581149056553841
+    },
+    {
+        "title": "Conozca el nuevo límite de ingresos para solicitar SNAP en Pensilvania (+Montos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conozca-el-nuevo-limite-de-ingresos-para-solicitar-snap-en-pensilvania-montos--2024103117260",
+        "date": "2024-10-31 21:26:00",
+        "sentiment_score": 0.041187308728694916
+    },
+    {
+        "title": "CalFresh: Estos beneficiarios recibirán sus cupones a partir del #10Nov",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/calfresh-estos-beneficiarios-recibiran-sus-cupones-a-partir-del-10nov-2024103117240",
+        "date": "2024-10-31 21:24:00",
+        "sentiment_score": 0.0004527084529399872
+    },
+    {
+        "title": "EEUU | Fiscal de Los Ángeles solicita \"clemencia\" para los hermanos Menéndez",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1771690-fiscal-sugiere-que-deberian-cambiar-sentencia-a-hermanos-menendez.jpg?q=w_1110%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-fiscal-de-los-angeles-solicita-clemencia-para-los-hermanos-menendez-2024103117230",
+        "date": "2024-10-31 21:23:00",
+        "sentiment_score": -0.1002570241689682
+    },
+    {
+        "title": "Florida | ¿Quieres lucir bella? Estos son los precios en las peluquerías",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/florida-quieres-lucir-bella-estos-son-los-precios-en-las-peluquerias--2024103117160",
+        "date": "2024-10-31 21:16:00",
+        "sentiment_score": 0.7246363386511803
     }
 ];
