@@ -178,36 +178,6 @@ export default [
         "sentiment_score": -0.08844056725502014
     },
     {
-        "title": "Putin ordena un nuevo ejercicio nuclear estratégico a sus fuerzas armadas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/29/1487995056-k4nE-U603272409585T5E-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/putin-ordena-nuevo-ejercicio-nuclear-estrategico-fuerzas-20241029143857-nt.html",
-        "date": "2024-10-29 13:41:07",
-        "sentiment_score": -0.10964016616344452
-    },
-    {
-        "title": "Economía muestra su disposición a aceptar ajustes en los impuestos a la banca y las energéticas para facilitar un acuerdo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/29/CuerpoEFE-Rjw2KAK6FTDhXjXcyLw0akM-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/economia-muestra-disposicion-aceptar-ajustes-impuestos-banca-20241029141557-nt.html",
-        "date": "2024-10-29 13:28:44",
-        "sentiment_score": -0.018180906772613525
-    },
-    {
-        "title": "Steve Bannon, quien fuera asesor de Trump, sale de prisión tras cumplir una condena por desacato",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/29/Steve-Bannon-efe-kuzF-U603272307689VRG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/steve-bannon-asesor-trump-sale-prision-tras-20241029142556-nt.html",
-        "date": "2024-10-29 13:28:23",
-        "sentiment_score": -0.23181259632110596
-    },
-    {
         "title": "El PSOE planea abstenerse sobre el techo de gasto de Mañueco para facilitar el debate presupuestario",
         "image_url": "https://imagenes.elpais.com/resizer/v2/XWDIICQ5KBQI4ROZKJGSNZLYME.jpg?auth=70bd9bb49dc25603892be657d432c0c2ab204c487bc97a00c97ce124cc9a738b&width=1200",
         "tags": [
@@ -349,46 +319,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-10-29/la-pareja-de-ayuso-citada-el-29-de-noviembre-para-declarar-en-la-pieza-por-fraude-fiscal.html",
         "date": "2024-10-29 14:50:27",
         "sentiment_score": -0.40532035008072853
-    },
-    {
-        "title": "El Poder Judicial se inclina por que el juicio del ‘caso ERE’ a Chaves y Griñán no se repita",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y4IQ2FPMZJDVROQTUXVC7INL6Q.jpg?auth=0b1396c227ab7d56d728828e88a00834d248e5ca2e09ff6bda512e631b3f28e5&width=1200",
-        "tags": [
-            "tribunal supremo",
-            "josé antonio griñan martínez",
-            "españa",
-            "cgpj",
-            "manuel chaves",
-            "ap alicante",
-            "caso de los ere",
-            "tribunal constitucional"
-        ],
-        "link": "https://elpais.com/espana/2024-10-29/el-poder-judicial-se-inclina-por-que-el-juicio-del-caso-ere-a-chaves-y-grinan-no-se-repita.html",
-        "date": "2024-10-29 14:12:52",
-        "sentiment_score": -0.017822779715061188
-    },
-    {
-        "title": "Los representantes del Real Madrid descargan en los promotores la responsabilidad del ruido en el Bernabéu",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LINU7RLTCJFSTLTF7AWZJMVUBM.JPG?auth=66d793beb0a230159119f2f4464d371de3b3e056a91661df6094b19d838ac2b9&width=1200",
-        "tags": [
-            "tribunales",
-            "juicios",
-            "espectáculos",
-            "vecinos",
-            "contaminación acústica",
-            "real madrid",
-            "denuncias",
-            "obras ampliación",
-            "madrid",
-            "multas",
-            "ordenanzas municipales",
-            "conciertos",
-            "comunidad de madrid",
-            "estadio santiago bernabéu"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-10-29/los-representantes-del-real-madrid-descargan-en-los-promotores-la-responsabilidad-del-ruido-en-el-bernabeu.html",
-        "date": "2024-10-29 14:08:42",
-        "sentiment_score": -0.607948798686266
     },
     {
         "title": "Nacho Peña baja el 'suflé' al barcelonismo tras la victoria en el Clásico: \"A Canaletas\"",
@@ -7114,5 +7044,330 @@ export default [
         "link": "https://2001online.com/nacionales/dolar-bcv-venezuela-asi-se-cotizara-hasta-el-proximo-5nov-202411116520",
         "date": "2024-11-01 20:52:00",
         "sentiment_score": -0.031338371336460114
+    },
+    {
+        "title": "Evo Morales pide a sus partidarios suspender bloqueos y dice que hará huelga de hambre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181647868.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bolivia-crisis-evo-arce-simpatizantes-militares-protestas-conclusiones-tv",
+        "date": "2024-11-02 02:09:00",
+        "sentiment_score": -0.736541610211134
+    },
+    {
+        "title": "Evo Morales pide a sus partidarios suspender bloqueos y dice que hará huelga de hambre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181647868.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "luis arce",
+            "bolivia",
+            "evo morales",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bolivia-crisis-evo-arce-simpatizantes-militares-protestas-conclusiones-tv/",
+        "date": "2024-11-02 02:09:00",
+        "sentiment_score": -0.8076953440904617
+    },
+    {
+        "title": "Jaime Maussan, el periodista que lleva décadas intentando demostrar que los aliens existen",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/maussan-thumb-web.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jaime-maussan-alienigenas-entrevista-ovnis-orix-digivid/",
+        "date": "2024-11-02 02:08:32",
+        "sentiment_score": -0.40351222455501556
+    },
+    {
+        "title": "Jaime Maussan, el periodista que lleva décadas intentando demostrar que los aliens existen",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/maussan-thumb-web.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jaime-maussan-alienigenas-entrevista-ovnis-orix-digivid",
+        "date": "2024-11-02 02:08:32",
+        "sentiment_score": -0.07126288115978241
+    },
+    {
+        "title": "Evo Morales pide a sus partidarios suspender bloqueos y dice que hará huelga de hambre para exigir diálogo con el Gobierno",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775367-evo-morales.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "evo morales",
+            "bolivia",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/01/evo-morales-suspender-bloqueos-huelga-de-hambre-bolivia-orix/",
+        "date": "2024-11-02 01:28:54",
+        "sentiment_score": -0.4213062524795532
+    },
+    {
+        "title": "¿Llegaron a tiempo las alarmas por el temporal en Valencia?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/testimonio-valencia-dana-inundaciones-sobreviviente-panorama-mundial-tv",
+        "date": "2024-11-02 01:19:45",
+        "sentiment_score": -0.13544206321239471
+    },
+    {
+        "title": "¿Llegaron a tiempo las alarmas por el temporal en Valencia?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181582336.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/testimonio-valencia-dana-inundaciones-sobreviviente-panorama-mundial-tv/",
+        "date": "2024-11-02 01:19:45",
+        "sentiment_score": -0.5800733007490635
+    },
+    {
+        "title": "Video muestra a un hombre que sufre quemaduras de tercer grado durante un arresto en Phoenix",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/09935912-00386147-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hombre-sufre-quemaduras-arresto-phoenix-trax/",
+        "date": "2024-11-02 01:18:38",
+        "sentiment_score": -0.7764083007350564
+    },
+    {
+        "title": "Video muestra a un hombre que sufre quemaduras de tercer grado durante un arresto en Phoenix",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hombre-sufre-quemaduras-arresto-phoenix-trax",
+        "date": "2024-11-02 01:18:38",
+        "sentiment_score": -0.7681623380631208
+    },
+    {
+        "title": "Esta rara moneda de 10 centavos con un error se vendió por US$ 506.250 en una subasta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/91137831-35999970-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/moneda-diez-centavos-meido-millon-dolares-subasta-trax/",
+        "date": "2024-11-02 01:11:58",
+        "sentiment_score": -0.6624906919896603
+    },
+    {
+        "title": "Beltrán de la Lastra (Panza Capital): “En un mundo tan endeudado, Hacienda te quitará cada vez más beneficios”",
+        "image_url": "https://s1.elespanol.com/2024/11/01/invertia/mis-finanzas/fondos-de-inversion/897920467_250545793_1706x960.jpg?contentId=ESPIMA20241101_0268",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20241102/beltran-lastra-panza-capital-mundo-endeudado-hacienda-quitara-vez-beneficios/897910356_0.html",
+        "date": "2024-11-02 01:34:27",
+        "sentiment_score": -0.7426179554313421
+    },
+    {
+        "title": "La AEMET, denunciada por \"homicidio imprudente\" y acosada por los bulos, se defiende: \"El pronóstico de la DANA fue acertado\"",
+        "image_url": "https://s1.elespanol.com/2024/11/01/actualidad/897920590_250549591_1706x960.jpg?contentId=ESPIMA20241101_0391",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241102/aemet-denunciada-homicidio-imprudente-acosada-bulos-defiende-pronostico-dana-acertado/897660646_0.html",
+        "date": "2024-11-02 01:28:10",
+        "sentiment_score": -0.8425672305747867
+    },
+    {
+        "title": "Baldomera Larra, la madrileña que ideó en el siglo XIX la primera estafa piramidal registrada de la historia: duplicaba los duros",
+        "image_url": "https://s1.elespanol.com/2024/10/31/reportajes/897670932_250523493_1706x960.png?contentId=ESPIMA20241031_0708",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241102/baldomera-larra-madrilena-ideo-siglo-xix-primera-estafa-piramidal-registrada-historia-duplicaba-duros/897660636_0.html",
+        "date": "2024-11-02 01:27:38",
+        "sentiment_score": -0.8300623595714569
+    },
+    {
+        "title": "La reina Sofía cumple 86 años con una imagen reforzada y un estilo vital y renovado: \"Es un gran valor para la Corona\"",
+        "image_url": "https://s1.elespanol.com/2024/10/31/mujer/royals/897670415_250507526_1706x960.jpg?contentId=ESPIMA20241031_0191",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/royals/20241102/reina-sofia-cumple-anos-imagen-reforzada-estilo-vital-renovado-gran-valor-corona/897160651_0.html",
+        "date": "2024-11-02 00:40:36",
+        "sentiment_score": -0.3151421695947647
+    },
+    {
+        "title": "La orden no se espera",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241102/orden-no-espera_241136.html",
+        "date": "2024-11-02 00:30:00",
+        "sentiment_score": -0.2816857136785984
+    },
+    {
+        "title": "Ya se pueden pedir en Madrid las ayudas al alquiler de vivienda 2024: cómo hacerlo y hasta cuándo",
+        "image_url": "https://s1.elespanol.com/2023/09/25/alicante/economia/797180886_236308387_1706x960.jpg?contentId=ESPIMA20230925_0612",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241102/pueden-pedir-madrid-ayudas-alquiler-vivienda-hacerlo/897910351_0.html",
+        "date": "2024-11-02 00:28:42",
+        "sentiment_score": 0.08299633301794529
+    },
+    {
+        "title": "Madrid-Belgrado, 2.600 kilómetros en busca de la pista de Ana María Henao",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/02/fotolead_cronicanegra840.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/cronica-negra/madridbelgrado-2600-kilometros-busca-pista-ana-maria-20241102011415-ntrc.html",
+        "date": "2024-11-02 00:14:16",
+        "sentiment_score": -0.08247444778680801
+    },
+    {
+        "title": "Les Xornaes Internacionales d'Estudiu de l'Academia de la Llingua entamen el martes qu'entra nel Campus del Milán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c917ac5c-b4e5-4eba-9ad8-2953dd998206_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/11/02/les-xornaes-internacionales-destudiu-lacademia-111044426.html",
+        "date": "2024-11-02 02:00:57",
+        "sentiment_score": -0.06879167258739471
+    },
+    {
+        "title": "LOS40 Music Awards Santander 2024 desvelan su cartel de actuaciones definitivo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JVM6KE2NCNAIZPBEXCJGG2DQ2A.png?auth=ac10cf8eb114fedd8a8e9e7c1ab51ffbbadd4281a3245a3f37197db29f53f032&width=1200",
+        "tags": [
+            "rauw alejandro",
+            "los40",
+            "estados unidos",
+            "artistas",
+            "karol g",
+            "maluma",
+            "premios",
+            "shakira",
+            "américa",
+            "bad bunny"
+        ],
+        "link": "https://elpais.com/us/2024-11-02/los40-music-awards-santander-2024-desvelan-su-cartel-de-actuaciones-definitivo.html",
+        "date": "2024-11-02 01:50:03",
+        "sentiment_score": 0.05501708760857582
+    },
+    {
+        "title": "Mafalda te espera sentada",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/02/mafalda-sentada-k5VF-U22016865654828XC-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/culturas/libros/mafalda-espera-sentada-20241102014512-ntrc.html",
+        "date": "2024-11-02 00:45:13",
+        "sentiment_score": 0.06454499065876007
+    },
+    {
+        "title": "«Preocuparte por algo que no puedes controlar es una pérdida de energía»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/02/santi-millan-k9ID-U2201686247777oGH-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/culturas/tv/preocuparte-puedes-controlar-perdida-energia-20241102013711-ntrc.html",
+        "date": "2024-11-02 00:37:12",
+        "sentiment_score": -0.8363930135965347
+    },
+    {
+        "title": "EEUU | Descubre cómo acceder a la lotería de vivienda por $454 mensuales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-descubre-como-acceder-a-la-loteria-de-vivienda-por-454-mensuales-20241112290",
+        "date": "2024-11-02 02:09:00",
+        "sentiment_score": 0.1116926372051239
+    },
+    {
+        "title": "Conozca el pronóstico del tiempo para los próximos 5 días",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/conozca-el-pronostico-del-tiempo-para-los-proximos-5-dias-20241112250",
+        "date": "2024-11-02 02:05:00",
+        "sentiment_score": 0.26788753643631935
+    },
+    {
+        "title": "El curioso error del DMV de California al emitir licencias de conducir (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-curioso-error-del-dmv-de-california-al-emitir-licencias-de-conducir--20241112240",
+        "date": "2024-11-02 02:04:00",
+        "sentiment_score": -0.0916246697306633
+    },
+    {
+        "title": "Maduro: La mayoría de detenidos en protestas fueron entrenados en Texas, Perú y Chile",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-la-mayoria-de-detenidos-en-protestas-fueron-entrenados-en-texas-peru-y-chile-20241112200",
+        "date": "2024-11-02 02:00:00",
+        "sentiment_score": -0.4047088287770748
+    },
+    {
+        "title": "¿Cómo registrarse para cobrar los bonos de protección social con aumento?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/como-registrarse-para-cobrar-los-bonos-de-proteccion-social-con-aumento--202411121530",
+        "date": "2024-11-02 01:53:00",
+        "sentiment_score": 0.39029061794281006
+    },
+    {
+        "title": "Santa Teresa anuncia el regreso de su icónico Ron Selecto en una edición limitada",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730512754705.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/santa-teresa-anuncia-el-regreso-de-su-iconico-ron-selecto-en-una-edicion-limitada-202411121420",
+        "date": "2024-11-02 01:42:00",
+        "sentiment_score": 0.7545882724225521
+    },
+    {
+        "title": "EEUU: Esta ciudad ofrece $5.000 por mudarse a vivir allí",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-esta-ciudad-ofrece-5-000-por-mudarse-a-vivir-alli-202411121240",
+        "date": "2024-11-02 01:24:00",
+        "sentiment_score": 0.7089969422668219
+    },
+    {
+        "title": "Trump demanda a la cadena CBS por billonaria cifra",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-demanda-a-la-cadena-cbs-por-billonaria-cifra-202411121200",
+        "date": "2024-11-02 01:20:00",
+        "sentiment_score": -0.18054425716400146
+    },
+    {
+        "title": "Así estará el clima el día de las elecciones presidenciales en EEUU (+Pronóstico)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-estara-el-clima-el-dia-de-las-elecciones-presidenciales-en-eeuu--202411121120",
+        "date": "2024-11-02 01:12:00",
+        "sentiment_score": -0.3753538727760315
+    },
+    {
+        "title": "Aerolínea de California ofrecerá WiFi y alcohol gratis en sus vuelos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/aerolinea-de-california-ofrecera-wifi-y-alcohol-gratis-en-sus-vuelos-202411120480",
+        "date": "2024-11-02 00:48:00",
+        "sentiment_score": 0.12083970755338669
     }
 ];
