@@ -1,190 +1,5 @@
 export default [
     {
-        "title": "Adecco ofrece casi 10.000 puestos de trabajo para la campaña de Navidad y Black Friday: requisitos y cómo inscribirse",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/29/pexels-tiger-lily-4481259-khG-U603267339298DXH-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/adecco-ofrece-10000-puestos-trabajo-campana-navidad-20241029070000-nt.html",
-        "date": "2024-10-29 06:12:50",
-        "sentiment_score": -0.08603441715240479
-    },
-    {
-        "title": "Entre el optimismo y las dudas",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/67cbb96d-9aea-3c27-d01c0254984f91f2.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z67cbb880-cac2-e485-de3cf56ba7848b40/202410/entre-el-optimismo-y-las-dudas",
-        "date": "2024-10-29 06:30:13",
-        "sentiment_score": -0.340024933218956
-    },
-    {
-        "title": "Rodri Hernández, un Balón de Oro que jugó en la Ciudad Deportiva ante el filial del Real Zaragoza",
-        "image_url": "https://s1.elespanol.com/2024/10/28/aragon/deportes/real-zaragoza/896921375_250436495_1706x960.jpg?contentId=ESPIMA20241028_1076",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/aragon/deportes/real-zaragoza/20241029/rodri-hernandez-balon-oro-jugo-ciudad-deportiva-filial-real-zaragoza/896910880_0.html",
-        "date": "2024-10-29 06:30:00",
-        "sentiment_score": 0.1019233912229538
-    },
-    {
-        "title": "El Banco Santander gana 9.309 millones hasta septiembre, un 14% más",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7P7HPRLKHVADHJJMZEB7QL6KMU.jpg?auth=44d694f7ee703b50e15dcf7ae07df8869152464e72169257aa86cba5b0ae75e5&width=1200",
-        "tags": [
-            "empresas",
-            "grupo santander",
-            "banca",
-            "finanzas"
-        ],
-        "link": "https://cincodias.elpais.com/companias/2024-10-29/el-banco-santander-gana-9309-millones-hasta-septiembre-un-14-mas.html",
-        "date": "2024-10-29 06:08:29",
-        "sentiment_score": -0.3828909173607826
-    },
-    {
-        "title": "España reina en el fútbol: Rodri, Balón de Oro",
-        "image_url": "https://static.euronews.com/articles/stories/08/81/90/14/1200x675_cmsv2_97935689-1dba-5744-98f3-9d25cd0c2d61-8819014.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.euronews.com/2024/10/29/espana-reina-en-el-futbol-rodri-balon-de-oro",
-        "date": "2024-10-29 06:04:40",
-        "sentiment_score": 0.7968804500997066
-    },
-    {
-        "title": "Panathinaikos, Efes, Fenerbahçe, Partizan, Virtus... y Unicaja",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3a385a7-7c38-4693-9fcc-71af751314da_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2024/10/29/panathinaikos-efes-fenerbahce-partizan-virtus-unicaja-110727998.html",
-        "date": "2024-10-29 06:00:16",
-        "sentiment_score": 0.5375595241785049
-    },
-    {
-        "title": "Ingeniero químico de día y encargado de parar a James Rodríguez por la tarde: \"Los sueños a veces salen bien\"",
-        "image_url": "https://s1.elespanol.com/2024/10/28/castilla-y-leon/region/palencia/896920858_250420593_1706x960.jpg?contentId=ESPIMA20241028_0559",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/palencia/20241029/ingeniero-quimico-dia-encargado-parar-james-rodriguez-tarde-suenos-veces-salen-bien/896910584_0.html",
-        "date": "2024-10-29 06:00:00",
-        "sentiment_score": 0.6326701529324055
-    },
-    {
-        "title": "Atlas del cáncer de pulmón en Sevilla: una IA estudiará las causas de su alta incidencia",
-        "image_url": "https://s1.elespanol.com/2024/10/28/sevilla/salud/896921051_250426497_1706x960.jpg?contentId=ESPIMA20241028_0752",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/sevilla/salud/20241029/atlas-cancer-pulmon-sevilla-ia-estudiara-causas-alta-incidencia/896910746_0.html",
-        "date": "2024-10-29 05:50:00",
-        "sentiment_score": 0.1544281393289566
-    },
-    {
-        "title": "\"La jugada de Ceferin habría sido maquiavélica si el Manchester City no avisa al Real Madrid\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "herrera en cope"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/monologos/jugada-ceferin-habria-sido-maquiavelica-manchester-city-avisa-real-madrid-20241029_3036263.html",
-        "date": "2024-10-29 05:19:18",
-        "sentiment_score": 0.016469299793243408
-    },
-    {
-        "title": "Así es Medi-Llama, un proyecto con huella española que busca mejorar el tratamiento del cáncer de mama con IA",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2022/11/14/cancer-de-mama.r_d.1130-439.jpeg",
-        "tags": [
-            "emprendimiento"
-        ],
-        "link": "https://www.20minutos.es/tecnologia/emprendimiento/asi-es-medi-llama-un-proyecto-con-huella-espanola-que-busca-mejorar-tratamiento-cancer-mama-con-ia-5648112/",
-        "date": "2024-10-29 05:16:56",
-        "sentiment_score": 0.46008384600281715
-    },
-    {
-        "title": "Basauri recauda en fiestas 15.471 euros para ayudar a Ane Etxebarria",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/498eb393-8e41-4e3d-8790-3705b0d61bef_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2024/10/29/basauri-recauda-fiestas-15-471-8862636.html",
-        "date": "2024-10-29 06:30:13",
-        "sentiment_score": 0.48237144947052
-    },
-    {
-        "title": "Este es el nuevo 'temazo' de la primera banda musical nacida en TikTok",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/28/671f5705dce1a.r_d.1617-858-2192.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/musica/20241029/1002342216/nuevo-temazo-primera-banda-musical-nacida-tiktok-brl.html",
-        "date": "2024-10-29 06:25:00",
-        "sentiment_score": -0.023755252361297607
-    },
-    {
-        "title": "Lo que debes saber hoy, 29 de octubre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/09/18/vivir-en-barcelona/886921350_13458760_1706x960.jpg?contentId=ESPIMA20240918_0051",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241029/lo-que-debes-saber-hoy-de-octubre-barcelona/897160281_0.html",
-        "date": "2024-10-29 06:21:43",
-        "sentiment_score": 0.3775600343942642
-    },
-    {
-        "title": "Esto es lo que puedes hacer, de momento, con Apple Intelligence",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/0b9df6fbda3a3c39e559a2b795e04a8a/crop/153x0/1773x1080/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/29/17301826629125.jpg",
-        "tags": [
-            "apple inc.",
-            "tecnología",
-            "iphone"
-        ],
-        "link": "https://www.elmundo.es/tecnologia/2024/10/29/67207cb5fc6c837e248b45b4.html",
-        "date": "2024-10-29 06:18:49",
-        "sentiment_score": -0.27239833027124405
-    },
-    {
-        "title": "Las mejores albóndigas de Barcelona se comen estos restaurantes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/12e3329e-678d-43ae-922b-b3afd7630a97_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241029/mejores-albondigas-barcelona-restaurantes-110082773",
-        "date": "2024-10-29 06:12:42",
-        "sentiment_score": 0.7167090624570847
-    },
-    {
-        "title": "Unos 130 chefs reivindicarán la cocina responsable en el Gastronomic Forum de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4c5d049f-88bd-4e9a-bc44-03951671c940_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241029/gastronomic-forum-barcelona-2024-cocina-responsable-110392613",
-        "date": "2024-10-29 06:11:15",
-        "sentiment_score": 0.4608817361295223
-    },
-    {
-        "title": "Expreso de medianoche",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/29/67207abb1f48c.r_d.3120-2212-0.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.lavanguardia.com/politica/20241029/10058730/expreso-medianoche.html",
-        "date": "2024-10-29 06:10:47",
-        "sentiment_score": -0.5332032293081284
-    },
-    {
-        "title": "Barcelona buena y barata: fricandó en Bar Copèrnic, pasión por la cocina catalana tradicional",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46591ce2-348e-4531-b617-f72897be202c_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241029/bar-copernic-restaurante-barcelona-110687029",
-        "date": "2024-10-29 06:09:57",
-        "sentiment_score": 0.6476618200540543
-    },
-    {
         "title": "Evo Morales reitera que hubo un intento de magnicidio en su contra y acusa al Gobierno de Bolivia de fabricar una mentira",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/10/GettyImages-2180928588.jpg?quality=100&strip=info",
         "tags": [
@@ -726,26 +541,6 @@ export default [
         "link": "https://www.diariodeibiza.es/economia/2024/10/29/brecha-capital-espana-rural-consulta-110826676.html",
         "date": "2024-10-29 16:58:58",
         "sentiment_score": -0.15325191617012024
-    },
-    {
-        "title": "Venezolano fue asesinado tras defender a su hermano de ladrones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/migracion/venezolano-fue-asesinado-tras-defender-a-su-hermano-de-ladrones-202410295520",
-        "date": "2024-10-29 09:52:00",
-        "sentiment_score": -0.8394589247182012
-    },
-    {
-        "title": "Quinceañero abusó sexualmente de su prima en Barinas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/quinceanero-abuso-sexualmente-de-su-prima-en-barinas-202410295460",
-        "date": "2024-10-29 09:46:00",
-        "sentiment_score": -0.5216889195144176
     },
     {
         "title": "Trump evita hablar del comentario ofensivo sobre Puerto Rico en evento de su campaña",
@@ -6800,5 +6595,524 @@ export default [
         "link": "https://2001online.com/farandula/el-juego-del-calamar-regresa-y-este-es-el-trailer-de-su-nueva-temporada--202411112350",
         "date": "2024-11-01 16:35:00",
         "sentiment_score": 0.6210283078253269
+    },
+    {
+        "title": "“Yo no perdería mi tiempo”: habitantes de Puerto Rico no podrán votar legalmente por los candidatos de EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1194932834.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "puerto rico",
+            "elecciones ee.uu. 2024",
+            "fast – news variety",
+            "elecciones en estados unidos",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/esta-todo-listo-para-las-elecciones-generales-en-puerto-rico/",
+        "date": "2024-11-01 22:01:33",
+        "sentiment_score": -0.051456332206726074
+    },
+    {
+        "title": "Así lanzó Corea del Norte un misil balístico “perfeccionado”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/asi-lanzo-corea-del-norte-misil-balistico-perfeccionado-ush-trax/",
+        "date": "2024-11-01 22:00:59",
+        "sentiment_score": 0.23137642443180084
+    },
+    {
+        "title": "Cae la inflación y las solicitudes de desempleo en EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "empleo",
+            "economía de ee.uu.",
+            "noticias de ee.uu.",
+            "inflación"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-inflacion-desempleo-caida-fed-economia-cnn-dinero-tv/",
+        "date": "2024-11-01 21:41:02",
+        "sentiment_score": 0.09494197368621826
+    },
+    {
+        "title": "Cae la inflación y las solicitudes de desempleo en EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-inflacion-desempleo-caida-fed-economia-cnn-dinero-tv",
+        "date": "2024-11-01 21:41:02",
+        "sentiment_score": -0.5976980850100517
+    },
+    {
+        "title": "Grupo armado secuestra a personal militar y toma base en el centro de Bolivia, dice el Ejército",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1276712-ultima-hora-1200-noticias-logo-cnn-cnnee.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bolivia",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/01/bolivia-grupo-armado-secuestra-personal-militar-toma-base-ejercito-trax/",
+        "date": "2024-11-01 21:18:50",
+        "sentiment_score": -0.5583854485303164
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 1 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-1-de-noviembre-2024-dusa-tarde-fast",
+        "date": "2024-11-01 21:07:54",
+        "sentiment_score": 0.08066310733556747
+    },
+    {
+        "title": "Resumen de entretenimiento: Los impresionantes disfraces de los famosos, suspenden nueva canción de Liam Payne y más",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/resumen-entretenimiento-noviembre-1-nodal-liam-payne-lopez-showbiz",
+        "date": "2024-11-01 21:04:06",
+        "sentiment_score": 0.4342113584280014
+    },
+    {
+        "title": "¿Cuál es el informe final de empleo antes de las elecciones?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-465405412.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/empleos-estados-unidos-labor-estadisticas-economia-cnn-dinero-tv/",
+        "date": "2024-11-01 20:55:58",
+        "sentiment_score": -0.3586548827588558
+    },
+    {
+        "title": "¿Cuál es el informe final de empleo antes de las elecciones?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/empleos-estados-unidos-labor-estadisticas-economia-cnn-dinero-tv",
+        "date": "2024-11-01 20:55:58",
+        "sentiment_score": -0.020436514168977737
+    },
+    {
+        "title": "Apple prioriza estabilidad sobre innovación en su reciente lanzamiento, según experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/apple-inteligence.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apple-inteligencia-artificial-tecnologia-dispositivos-cnn-dinero-tv/",
+        "date": "2024-11-01 20:43:05",
+        "sentiment_score": 0.4991785027086735
+    },
+    {
+        "title": "Un avión sevillano (e hindú)",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/10/25/Imagen%20(195706715)--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-avion-sevillano-hindu-20241102193150-nts.html",
+        "date": "2024-11-01 19:59:04",
+        "sentiment_score": 0.0003921687602996826
+    },
+    {
+        "title": "El primer ministro de Eslovaquia acusa a Occidente de «alargar la guerra de Ucrania»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/01/fico-ReaMkl0Nd6edoeHR3vPiIaL-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/primer-ministro-eslovaquia-acusa-occidente-alargar-guerra-20241101202316-nt.html",
+        "date": "2024-11-01 19:26:40",
+        "sentiment_score": -0.14511753618717194
+    },
+    {
+        "title": "La tarde de difuntos",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/10/19/elhormiguero-kg9G--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-tarde-difuntos-20241102122029-nts.html",
+        "date": "2024-11-01 18:33:33",
+        "sentiment_score": -0.03913888335227966
+    },
+    {
+        "title": "Esas pequeñas cosas",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/10/29/vecinos-U22824720257Evt-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-pequenas-20241102184201-nts.html",
+        "date": "2024-11-01 18:30:37",
+        "sentiment_score": -0.028428614139556885
+    },
+    {
+        "title": "Además de auxilio, estrategia",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/runrun/2024/10/30/camionero-bonares-U34710110738RNf-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-ademas-auxilio-estrategia-20241102192949-nt.html",
+        "date": "2024-11-01 18:30:00",
+        "sentiment_score": -0.1365954577922821
+    },
+    {
+        "title": "La Sevilla que enterramos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/02/nazarenos-cine-llorens-2-RLjgZtZPeVg1BtvTuEclHeI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-sevilla-enterramos-20241102114103-nts.html",
+        "date": "2024-11-01 18:29:23",
+        "sentiment_score": -0.12086185812950134
+    },
+    {
+        "title": "Sumar y los protocolos del silencio",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/runrun/2024/10/30/camionero-bonares-U34710110738RNf-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-sumar-protocolos-silencio-20241102192846-nt.html",
+        "date": "2024-11-01 18:28:53",
+        "sentiment_score": -0.6745484694838524
+    },
+    {
+        "title": "No es 'cambio climático', sino incompetencia criminal",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/02/ABC_ANGULOOSCURO_Tragedianacional_DEPRADA-R8FAvvUJGG7XcwGpd2BUxHM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-cambio-climatico-incompetencia-criminal-20241102192811-nt.html",
+        "date": "2024-11-01 18:28:43",
+        "sentiment_score": -0.1674409806728363
+    },
+    {
+        "title": "Cristóbal Colón, «envidiado extranjero»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/02/TERCERAABC_COLONGENOVES-RtZfqEHhyWKgbektpUXBErL-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/consuelo-varela-cristobal-colon-envidiado-extranjero-20241102192829-nt.html",
+        "date": "2024-11-01 18:28:29",
+        "sentiment_score": -0.11748045682907104
+    },
+    {
+        "title": "La verdadera gente",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/28/ikea-U80176403723QJi-170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-verdadera-gente-20241102192751-nt.html",
+        "date": "2024-11-01 18:27:58",
+        "sentiment_score": -0.21995486319065094
+    },
+    {
+        "title": "Brian Eno y la descolonización del Congo, dos hitos del In-Edit",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2O6B66AJUWJJRB32HRMOTA5O4U.jpg?auth=ed8476bf1e5d14b1346be89eea2cf0b9a4464d0f75f33af3fd48763504a15db5&width=1200",
+        "tags": [
+            "documental",
+            "cine musical",
+            "música",
+            "cataluña",
+            "república democrática del congo",
+            "cia",
+            "brian eno",
+            "zaire",
+            "barcelona",
+            "festivales cine"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-01/brian-eno-y-la-descolonizacion-del-congo-dos-hitos-del-in-edit.html",
+        "date": "2024-11-01 18:32:41",
+        "sentiment_score": 0.6272996664047241
+    },
+    {
+        "title": "La alcaldesa de Paiporta: “Los primeros avisos llegaron cuando el agua estaba a dos metros y el mal ya estaba hecho”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5PPKKFREAFCRZDOTQU5RHCUHDM.JPG?auth=1b2c1a01fb5a57cd2fdac3f036dae6e8cec0dd07cbd3773a8c9f2cc00c7d5968&width=1200",
+        "tags": [
+            "inundaciones",
+            "efectos catástrofes",
+            "paiporta",
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "valencia",
+            "catástrofes"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-01/la-alcaldesa-de-paiporta-los-primeros-avisos-llegaron-cuando-el-agua-estaba-a-dos-metros-y-el-mal-ya-estaba-hecho.html",
+        "date": "2024-11-01 18:11:04",
+        "sentiment_score": -0.6624574400484562
+    },
+    {
+        "title": "‘Presentes’: una memoria sin Historia con fondo de Falange",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/29/letraglobal/letras/897170423_13646693_1706x960.jpg?contentId=ESPIMA20241029_0149",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20241101/presentes-una-memoria-sin-historia-fondo-falange/897160392_0.html",
+        "date": "2024-11-01 21:58:52",
+        "sentiment_score": 0.12114542722702026
+    },
+    {
+        "title": "Fabio Cannavaro y Celades, alternativas para el banquillo del Dépor",
+        "image_url": "https://cflvdg.avoz.es/sc/x_M19Pvl0SXdFMalRshl_TosDM8=/768x/2024/11/01/00121730496301632104859/Foto/efe_20240526_193653294.jpg",
+        "tags": [
+            "deportivo",
+            "torre de marathón"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/torremarathon/2024/11/01/fabio-cannavaro-celades-alternativas-banquillo-depor/00031730496235556294483.htm",
+        "date": "2024-11-01 21:28:00",
+        "sentiment_score": 0.7046280317008495
+    },
+    {
+        "title": "La perla del Real Madrid paga caro el castigo de Carlo Ancelotti: sin convocatoria a la selección",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/01/culemania/real-madrid/897920275_13662251_1706x960.jpg?contentId=ESPIMA20241101_0076",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20241101/la-real-madrid-carlo-ancelotti-convocatoria-seleccion/897910262_0.html",
+        "date": "2024-11-01 20:58:05",
+        "sentiment_score": -0.9070732071995735
+    },
+    {
+        "title": "Los ritos funerarios guían el tiempo de ánimas",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/01/tiempo-animas1-kLQ-U2201684903359zUG-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/segovia/ritos-funerarios-guian-tiempo-animas-20241101214815-nt.html",
+        "date": "2024-11-01 20:48:16",
+        "sentiment_score": 0.08965560793876648
+    },
+    {
+        "title": "Real Madrid: ¿Enzo Fernández por Tchouaméni, podría ser un trueque necesario?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/01/2024110121181746642.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/realmente-hipotetica-llegada-enzo-fernandez-podria-provocar-salida-tchouameni/20241101212346322591.html",
+        "date": "2024-11-01 20:23:46",
+        "sentiment_score": -0.023161470890045166
+    },
+    {
+        "title": "El fútbol español se vuelca sin condición con l’Horta Sud",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/01d3ee12-2328-4988-be98-8cd0cb8e9227_16-9-aspect-ratio_default_1335506.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/11/01/futbol-espanol-vuelca-condicion-l-111149482.html",
+        "date": "2024-11-01 19:59:15",
+        "sentiment_score": -0.6015496551990509
+    },
+    {
+        "title": "Neymar sigue sin ser convocado con Brasil para los últimos duelos de la eliminatoria sudamericana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/neymar-sigue-sin-ser-convocado-con-brasil-para-los-ultimos-duelos-de-la-eliminatoria-sudamericana/",
+        "date": "2024-11-01 19:55:05",
+        "sentiment_score": -0.4733346030116081
+    },
+    {
+        "title": "Neymar sigue sin ser convocado con Brasil para los últimos duelos de la eliminatoria sudamericana",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/8/02/8022ff87-7bfa-548e-b28f-e8143f6a7bfe/6725318372bb7.image.jpg?resize=300%2C200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/neymar-sigue-sin-ser-convocado-con-brasil-para-los-ltimos-duelos-de-la-eliminatoria-sudamericana/article_edce67a0-8e4a-580c-b642-a468c9038011.html",
+        "date": "2024-11-01 19:51:16",
+        "sentiment_score": -0.4869711995124817
+    },
+    {
+        "title": "El BOE publica el cambio de consejo en RTVE entre críticas de la oposición",
+        "image_url": "https://cflvdg.avoz.es/sc/jy28q_qN-ySdoat6K6SasnyumoA=/768x/2024/10/30/00121730312101867790637/Foto/eup_20241030_120626434.jpg",
+        "tags": [
+            "alberto núñez feijoo",
+            "rtve",
+            "pedro sánchez",
+            "santiago abascal",
+            "españa",
+            "psoe"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/espana/2024/11/01/boe-publica-cambio-consejo-rtve-criticas-oposicion/00031730490228475483852.htm",
+        "date": "2024-11-01 19:48:00",
+        "sentiment_score": -0.9324009232223034
+    },
+    {
+        "title": "Las noticias imprescindibles del viernes 1 de noviembre en León",
+        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2024/11/01/viernes-kvVB-U2201683822611pmD-1200x840@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/leon/noticias-imprescindibles-viernes-noviembre-leon-20241101201723-nt.html",
+        "date": "2024-11-01 19:17:23",
+        "sentiment_score": 0.20106851309537888
+    },
+    {
+        "title": "La polémica segunda camiseta del Barça 2025-26: nueva filtración en redes sociales",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/01/culemania/culemaniacos/897920281_13662425_1706x960.jpg?contentId=ESPIMA20241101_0082",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241101/la-polemica-segunda-camiseta-barca-filtracion-sociales/897910267_0.html",
+        "date": "2024-11-01 21:59:07",
+        "sentiment_score": -0.6354902908205986
+    },
+    {
+        "title": "La vivienda es un sinvivir",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/192d19d3-d195-49d1-9679-a37061b74b82_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2024/11/01/vivienda-sinvivir-111137115.html",
+        "date": "2024-11-01 21:56:33",
+        "sentiment_score": -0.23689500987529755
+    },
+    {
+        "title": "Lionel Messi revela que no ve su futuro como entrenador",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/lionel-messi-revela-que-no-ve-su-futuro-como-entrenador-202411117390",
+        "date": "2024-11-01 21:39:00",
+        "sentiment_score": -0.4627762995660305
+    },
+    {
+        "title": "El desgarrador mensaje de Joana Sanz en redes: \"Hace dos años...\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/04/21/66254c179601c.r_d.406-458.jpeg",
+        "tags": [
+            "vaya mundo"
+        ],
+        "link": "https://www.mundodeportivo.com/vaya-mundo/20241101/1002345276/desgarrador-mensaje-joana-sanz-redes-dos-anos-dct.html",
+        "date": "2024-11-01 21:35:29",
+        "sentiment_score": -0.6571936570107937
+    },
+    {
+        "title": "La máquina que cambia gratis calderilla en billetes de euro y que está Zaragoza",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/10/30/banco-de-espana-maquina-de-cambio-de-monedas-de-euros.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.heraldo.es/noticias/economia/2024/11/01/maquina-cambia-gratis-calderilla-billetes-euro-gratis-zaragoza-banco-espana-1774016.html",
+        "date": "2024-11-01 21:00:00",
+        "sentiment_score": 0.20974447950720787
+    },
+    {
+        "title": "El Wanapix cae ante el Barcelona (2-1)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/15d79808-023a-430f-9547-b9b395e419a4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/2024/11/01/wanapix-cae-barcelona-2-1-111152863.html",
+        "date": "2024-11-01 20:34:33",
+        "sentiment_score": 0.3614128679037094
+    },
+    {
+        "title": "'Grada Sur' y 'Frente Ketama' se unen para ayudar a los afectados por la DANA",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1118979",
+        "date": "2024-11-01 20:25:54",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Día 3 de la DANA: 252.000 personas continúan sin teléfono y 15.000 sin electricidad",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ba0aa3b3-c67c-41b1-895f-31c01768b781_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/actualidad/sociedad/2024/11/01/dia-3-dana-252-000-8880063.html",
+        "date": "2024-11-01 20:17:15",
+        "sentiment_score": -0.8166238619014621
+    },
+    {
+        "title": "Gobierno colombiano y ELN retoman diálogo este este fin de semana en Caracas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/gobierno-colombiano-y-eln-retoman-dialogo-este-este-fin-de-semana-en-caracas-202411117430",
+        "date": "2024-11-01 21:43:00",
+        "sentiment_score": 0.011888422071933746
+    },
+    {
+        "title": "Hermanas terminan en prisión tras pelearse por una herencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/hermanas-terminan-en-prision-tras-pelearse-por-una-herencia-202411117290",
+        "date": "2024-11-01 21:29:00",
+        "sentiment_score": -0.47984202206134796
+    },
+    {
+        "title": "SNAP: Sepa cuál es la fecha límite de noviembre para la recertificación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/snap-sepa-cual-es-la-fecha-limite-de-noviembre-para-la-recertificacion-202411117250",
+        "date": "2024-11-01 21:25:00",
+        "sentiment_score": 0.5588607862591743
+    },
+    {
+        "title": "Bolivia | Denuncian que simpatizantes de Evo Morales tomaron los cuarteles",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730496197177/BeFunky-collage%20(21).jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/bolivia-denuncian-que-simpatizantes-de-evo-morales-tomaron-los-cuarteles-202411117230",
+        "date": "2024-11-01 21:23:00",
+        "sentiment_score": 0.07748686894774437
+    },
+    {
+        "title": "EEUU | ¿Cómo reclamar el cheque de estímulo de $1.400? (+Requisitos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-como-reclamar-el-cheque-de-estimulo-de-1-400-requisitos--202411117140",
+        "date": "2024-11-01 21:14:00",
+        "sentiment_score": 0.030046112835407257
+    },
+    {
+        "title": "Movilnet ofrece plan con servicios de Netflix y Spotify gratis",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/movilnet-ofrece-plan-con-servicios-de-netflix-y-spotify-gratis-202411117130",
+        "date": "2024-11-01 21:13:00",
+        "sentiment_score": 0.16215799190104008
+    },
+    {
+        "title": "Planteles seguirán estos pasos para incorporar a niños que regresen al país",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/planteles-seguiran-estos-pasos-para-incorporar-a-ninos-que-regresen-al-pais-20241111700",
+        "date": "2024-11-01 21:00:00",
+        "sentiment_score": 0.45413605496287346
+    },
+    {
+        "title": "España | Valencia suspende Moto GP por tragedia de la DANA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/espana-valencia-suspende-moto-gp-por-tragedia-de-la-dana-202411116560",
+        "date": "2024-11-01 20:56:00",
+        "sentiment_score": -0.746864402666688
+    },
+    {
+        "title": "Dólar BCV Venezuela: Así se cotizará hasta el próximo #5Nov",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/dolar-bcv-venezuela-asi-se-cotizara-hasta-el-proximo-5nov-202411116520",
+        "date": "2024-11-01 20:52:00",
+        "sentiment_score": -0.031338371336460114
     }
 ];
