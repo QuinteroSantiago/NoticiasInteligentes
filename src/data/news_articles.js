@@ -143,66 +143,6 @@ export default [
         "sentiment_score": -0.20103387534618378
     },
     {
-        "title": "Cinco alimentos que no deberías guardar en la nevera",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/10/30/nevera-alimentos2-Rv4IArer1t7ra8rrXOE8P5M-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/cinco-alimentos-deberias-guardar-nevera-20241030144843-nt.html",
-        "date": "2024-10-30 13:48:43",
-        "sentiment_score": -0.07400882244110107
-    },
-    {
-        "title": "El Consejo Económico y Social veta por amplia mayoría la entrada de la patronal amadrinada por Begoña Gómez",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/30/pimec-RBgbKzlWWhII8rFxcXpuRjJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/consejo-economico-social-veta-entrada-patronal-arropada-20241030130220-nt.html",
-        "date": "2024-10-30 13:21:25",
-        "sentiment_score": -0.0908651053905487
-    },
-    {
-        "title": "Fedea advierte de que si se recorta la aportación de Cataluña a la solidaridad Baleares y Madrid también lo exigirán",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/30/salvadorilla-R35yyaysaY135SNf6y35WiO-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/fedea-advierte-recorta-aportacion-cataluna-solidaridad-baleares-20241030132311-nt.html",
-        "date": "2024-10-30 12:25:44",
-        "sentiment_score": -0.08018055558204651
-    },
-    {
-        "title": "Todo el poder en Caixabank regresa a La Caixa tras la salida de Goirigolzarri",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/30/goirigolzarri-gortazar-R6AHqAKTAcKGsJ1aenGolNL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/poder-caixabank-regresa-caixa-tras-salida-goirigolzarri-20241030125232-nt.html",
-        "date": "2024-10-30 12:15:08",
-        "sentiment_score": -0.07800349593162537
-    },
-    {
-        "title": "Organizaciones de consumidores recuerdan a los asegurados que tienen que reclamar con rapidez y hacer fotografías de los daños de la DANA",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/30/1488036345-Ri2XATw5BGGmB3j1hefUvVJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/organizaciones-consumidores-recuerdan-asegurados-reclamar-rapidez-fotografias-20241030125024-nt.html",
-        "date": "2024-10-30 11:50:25",
-        "sentiment_score": -0.10373303294181824
-    },
-    {
-        "title": "Las telecos despliegan «refuerzos masivos» para restablecer las comunicaciones tras los cortes por la DANA",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/10/30/dana-valencia-RfKvuM5QP99qAhXsWqc23CM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/telecos-despliegan-refuerzos-masivos-restablecer-comunicaciones-tras-20241030122822-nt.html",
-        "date": "2024-10-30 11:30:44",
-        "sentiment_score": -0.16381479799747467
-    },
-    {
         "title": "Cómo ayudar a los afectados por la dana: donaciones y recogida de comida y enseres",
         "image_url": "https://imagenes.elpais.com/resizer/v2/RZRHPAYPPRHXNE73WCKT2OAMUM.jpeg?auth=b2f32b8f3e995df70b028a684ccce56e62f8b2a14f4ca827abc238bfe5ada87c&width=1200",
         "tags": [
@@ -7088,5 +7028,461 @@ export default [
         "link": "https://2001online.com/zona3d/salud/parkinson-sintomas-que-existe-degeneracion-de-las-neuronas--20241121500",
         "date": "2024-11-02 19:00:00",
         "sentiment_score": -0.07969125360250473
+    },
+    {
+        "title": "Desfile de Día de Muertos en la Ciudad de México reúne a 1,3 millones de personas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/dia-de-muertos-mexico-digi-00-00-25-07-still002.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "día de los muertos",
+            "ciudad de méxico",
+            "día de muertos",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desfile-de-dia-de-muertos-ciudad-de-mexico-orix/",
+        "date": "2024-11-03 02:12:31",
+        "sentiment_score": 0.0006104409694671631
+    },
+    {
+        "title": "Desfile de Día de Muertos en la Ciudad de México reúne a 1,3 millones de personas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/dia-de-muertos-mexico-digi-00-00-25-07-still002.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desfile-de-dia-de-muertos-ciudad-de-mexico-orix",
+        "date": "2024-11-03 02:12:31",
+        "sentiment_score": -0.4603521376848221
+    },
+    {
+        "title": "Estas cuatro simples palabras podrían protegerte de una intoxicación por alimentos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sg-foodborne-thumb-3-20241103012539859.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-protegerse-de-una-intoxicacion-alimentaria-tra",
+        "date": "2024-11-03 02:10:24",
+        "sentiment_score": 0.008929073810577393
+    },
+    {
+        "title": "Estas cuatro simples palabras podrían protegerte de una intoxicación por alimentos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/sg-foodborne-thumb-3-20241103012539859.jpg?quality=100&strip=info",
+        "tags": [
+            "alimentos saludables",
+            "noticias de salud",
+            "consejos de salud",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-protegerse-de-una-intoxicacion-alimentaria-trax/",
+        "date": "2024-11-03 02:10:24",
+        "sentiment_score": -0.17924967408180237
+    },
+    {
+        "title": "Crece la frustración mientras la agencia federal trata de combatir las mentiras electorales difundidas por estadounidenses",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/230615161329-cisa-headquarters-handout.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "elecciones ee.uu. 2024",
+            "noticias falsas",
+            "desinformación"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/02/frustracion-agencia-federal-combatir-mentiras-electorales-estadounidenses-trax/",
+        "date": "2024-11-03 01:30:33",
+        "sentiment_score": -0.7078939080238342
+    },
+    {
+        "title": "Un tiburón muerde parte de la pierna de un surfista en un ataque cerca de una playa de Maui, Hawái, dicen las autoridades",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775619-ataque-tiburon.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "mordida de tiburón",
+            "tiburón",
+            "hawái",
+            "animales",
+            "instanoticias",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/02/tiburon-muerde-pierna-surfista-maui-hawai-trax/",
+        "date": "2024-11-03 01:00:44",
+        "sentiment_score": -0.7709149941802025
+    },
+    {
+        "title": "¿Te estresan las elecciones de EE.UU.? Aquí tienes una lista de películas para desconectarte",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775586-screen-shot-2024-10-31-at-10-41-13-am.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cine",
+            "instanoticias",
+            "películas",
+            "elecciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/02/estres-elecciones-peliculas-para-desconectarte-trax/",
+        "date": "2024-11-03 00:30:01",
+        "sentiment_score": 0.5149547234177589
+    },
+    {
+        "title": "Nuevos ataques en Medio Oriente, Israel espera una nueva represalia iraní",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataques-israel-iran-libano-mirador-mundial-tv",
+        "date": "2024-11-03 00:23:15",
+        "sentiment_score": -0.7946945428848267
+    },
+    {
+        "title": "Nuevos ataques en Medio Oriente, Israel espera una nueva represalia iraní",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181744241.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra israel hezbollah",
+            "israel",
+            "medio oriente",
+            "guerra israel y hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataques-israel-iran-libano-mirador-mundial-tv/",
+        "date": "2024-11-03 00:23:15",
+        "sentiment_score": -0.7675216048955917
+    },
+    {
+        "title": "Prevalece la alerta por fuertes lluvias en Valencia tras la DANA",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182510093.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa",
+            "valencia",
+            "cambio climático"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/valencia-dana-tormentas-pronostico-mirador-mundial-tv/",
+        "date": "2024-11-03 00:21:36",
+        "sentiment_score": -0.8374928869307041
+    },
+    {
+        "title": "Luces de bohemia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/11/03/bohemia.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-luces-bohemia-20241103012611-nt.html",
+        "date": "2024-11-03 00:29:08",
+        "sentiment_score": -0.11048731207847595
+    },
+    {
+        "title": "Coral, Sergio, Iván y los miles de voluntarios que llegan en buses de la Generalitat: \"Esto parece un escenario de posguerra\"",
+        "image_url": "https://s1.elespanol.com/2024/11/02/reportajes/898170490_250562596_1706x960.jpg?contentId=ESPIMA20241102_0316",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241103/coral-sergio-ivan-miles-voluntarios-llegan-buses-generalitatesto-parece-escenario-posguerra/898160271_0.html",
+        "date": "2024-11-03 01:52:49",
+        "sentiment_score": -0.6345608904957771
+    },
+    {
+        "title": "Álvaro Benito y su banda Pignoise: \"Ya no vemos al artista salir colocado, eso se ha quedado para después del concierto\"",
+        "image_url": "https://s1.elespanol.com/2024/10/31/reportajes/entrevistas/897671213_250532299_1706x960.jpg?contentId=ESPIMA20241031_0989",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241103/alvaro-benito-banda-pignoise-no-vemos-artista-salir-colocado-quedado-despues-concierto/897660796_0.html",
+        "date": "2024-11-03 01:52:38",
+        "sentiment_score": 0.7326629646122456
+    },
+    {
+        "title": "Alfonso Guerra: \"Si se es del PSOE, se debe defender la unidad de la nación\"",
+        "image_url": "https://s1.elespanol.com/2024/11/02/espana/politica/898170512_250563574_1706x960.jpg?contentId=ESPIMA20241102_0338",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241103/alfonso-guerra-psoe-debe-defender-unidad-nacion/897910246_0.html",
+        "date": "2024-11-03 01:34:13",
+        "sentiment_score": -0.7491104379296303
+    },
+    {
+        "title": "De los 53 euros de Valladolid a los 224 de Málaga: la nueva tasa de basuras no será igual para todos los bolsillos",
+        "image_url": "https://s1.elespanol.com/2024/10/31/invertia/economia/macroeconomia/897671057_250527372_1706x960.jpg?contentId=ESPIMA20241031_0833",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20241103/euros-valladolid-malaga-nueva-tasa-basuras-no-igual-bolsillos/897160642_0.html",
+        "date": "2024-11-03 01:23:56",
+        "sentiment_score": -0.5823383219540119
+    },
+    {
+        "title": "Audiencia previa, bajas por enfermedad e indemnizaciones disuasorias: disparidad de criterios a la espera del Supremo",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2023/07/empresaria-rubia-sonriente-que-pasa-papel-mira-camara.jpg",
+        "tags": [
+            "indemnización",
+            "app",
+            "legitimación",
+            "derecho laboral",
+            "legislación",
+            "artículos",
+            "nulidad",
+            "znoticia portada1"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/audiencia-previa-bajas-por-enfermedad-e-indemnizaciones-disuasorias-disparidad-de-criterios-a-la-espera-del-supremo/",
+        "date": "2024-11-03 01:00:49",
+        "sentiment_score": -0.7539803236722946
+    },
+    {
+        "title": "Beatriz González-Cristóbal, experta española en lujo: \"En la gestión del tiempo, todas las mujeres somos magas\"",
+        "image_url": "https://s1.elespanol.com/2024/10/30/mujer/protagonistas/897420706_250479808_1706x960.jpg?contentId=ESPIMA20241030_0457",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241103/beatriz-gonzalez-cristobal-experta-espanola-lujo-gestion-tiempo-todas-mujeres-magas/897410501_0.html",
+        "date": "2024-11-03 00:47:43",
+        "sentiment_score": 0.09054004028439522
+    },
+    {
+        "title": "Gómez, alcalde de Aranjuez: 'El próximo curso, la Rey Juan Carlos va a ofrecer el primer grado público en gastronomía'",
+        "image_url": "https://s1.elespanol.com/2024/10/22/madrid/comunidad/895421300_250270968_1706x960.jpg?contentId=ESPIMA20241022_0851",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241103/gomez-alcalde-aranjuez-proximo-curso-rey-juan-carlos-va-ofrecer-primer-grado-publico-gastronomia/895410760_0.html",
+        "date": "2024-11-03 00:40:43",
+        "sentiment_score": 0.5087091624736786
+    },
+    {
+        "title": "Tenorio",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241103/tenorio_241329.html",
+        "date": "2024-11-03 00:30:00",
+        "sentiment_score": -0.04009723663330078
+    },
+    {
+        "title": "De ríos a calles: cómo la ocupación de cauces agrava las inundaciones en España",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/11/02/mapa-1200x840.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/sociedad/rios-calles-ocupacion-cauces-agrava-inundaciones-espana-20241103012216-ntrc.html",
+        "date": "2024-11-03 00:22:19",
+        "sentiment_score": -0.8080505896359682
+    },
+    {
+        "title": "Marcelo y Fluminense rescindieron contrato tras discusión con el DT (+video)",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/11/marcelo-fluminense.jpeg",
+        "tags": [
+            "mano menezes",
+            "fútbol",
+            "rescisión de contrato",
+            "pelea",
+            "fluminense",
+            "marcelo",
+            "brasil",
+            "discusión",
+            "deportes"
+        ],
+        "link": "https://primicia.com.ve/deportes/marcelo-y-fluminense-rescindieron-contrato-tras-discusion-con-el-dt-video/",
+        "date": "2024-11-03 00:14:04",
+        "sentiment_score": -0.4150541014969349
+    },
+    {
+        "title": "\"On abortion\", del premiu Nacional Laia Abril, aporta al Centru Niemeyer",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c65118a2-64f9-4c36-ae94-73311c55bdde_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/11/03/on-abortion-premiu-nacional-laia-111045937.html",
+        "date": "2024-11-03 02:00:09",
+        "sentiment_score": -0.15263329446315765
+    },
+    {
+        "title": "Los secretos de belleza de la gurú de la cosmética coreana que se enamoró de España por un libro",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/b59a7f87b794ce6181da7fb0dbf43fc2/crop/205x329/2619x1939/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/18/17292590415703.jpg",
+        "tags": [
+            "trucos de belleza",
+            "tratamientos de belleza",
+            "estilo de vida",
+            "tendencias de belleza",
+            "bienestar",
+            "productos de belleza",
+            "belleza",
+            "artículos cristina galafate"
+        ],
+        "link": "https://www.elmundo.es/vida-sana/estilo-y-gastro/2024/11/03/67126416fdddff4f558b4571.html",
+        "date": "2024-11-03 01:58:23",
+        "sentiment_score": 0.12404485046863556
+    },
+    {
+        "title": "El riesgo de infecciones tras la DANA: \"No hay que beber ni comer nada que haya podido contaminarse\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/b0bea5c7ca2536557370b12c007bc746/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/02/17305695086419.jpg",
+        "tags": [
+            "artículos cristina g. lucio",
+            "ciencia y salud",
+            "salud",
+            "dana"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2024/11/03/67262f0bfc6c83e4328b4572.html",
+        "date": "2024-11-03 01:58:17",
+        "sentiment_score": -0.8155693672597408
+    },
+    {
+        "title": "Viviendo con los narcos albaneses que llenan el Pirineo con plantaciones de marihuana: así se oculta la mafia",
+        "image_url": "https://s1.elespanol.com/2024/11/01/reportajes/897920529_250562137_1706x960.jpg?contentId=ESPIMA20241101_0330",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241103/viviendo-narcos-albaneses-llenan-pirineo-plantaciones-marihuana-oculta-mafia/897910383_0.html",
+        "date": "2024-11-03 01:50:26",
+        "sentiment_score": -0.3232005126774311
+    },
+    {
+        "title": "Can Sabadell, el campo olvidado del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/30/culemania/historias-del-barca/897420335_13650373_1706x960.jpg?contentId=ESPIMA20241030_0086",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20241103/can-sabadell-el-campo-olvidado-del-barca/897410313_0.html",
+        "date": "2024-11-03 01:15:30",
+        "sentiment_score": -0.0019408538937568665
+    },
+    {
+        "title": "La venta del Espanyol a Chen, el modelo de transformación que debe evitar el Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/03/culemania/palco/898420155_13665169_1706x960.png?contentId=ESPIMA20241103_0006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241103/la-espanyol-chen-el-modelo-transformacion-barca/898160201_0.html",
+        "date": "2024-11-03 01:14:46",
+        "sentiment_score": -0.9234595149755478
+    },
+    {
+        "title": "Un nuevo quebradero de cabeza para Begoña Gómez: el juez Peinado la imputa por apropiación indebida e intrusismo",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2024/11/IMAGEN-WORDPRESS-EJ-HORIZONTAL-5-2-foto-1.png",
+        "tags": [
+            "noticias jurídicas",
+            "app",
+            "begoña gómez",
+            "pedro sánchez",
+            "actualidad",
+            "jurisprudencia",
+            "juez peinado",
+            "znoticia portada2"
+        ],
+        "link": "https://www.economistjurist.es/actualidad-juridica/un-nuevo-quebradero-de-cabeza-para-begona-gomez-el-juez-peinado-la-imputa-por-apropiacion-indebida-e-intrusismo/",
+        "date": "2024-11-03 01:00:58",
+        "sentiment_score": -0.7208976000547409
+    },
+    {
+        "title": "Las empanadillas gigantes de un venezolano que vende igual que el McDonald's en delivery: \"Soy top 10 de Glovo en Madrid\"",
+        "image_url": "https://s1.elespanol.com/2024/10/31/madrid/ocio/897670906_250522839_1706x960.jpg?contentId=ESPIMA20241031_0682",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241103/empanadillas-gigantes-venezolano-vende-igual-mcdonalds-delivery-top-glovo-madrid/897410746_0.html",
+        "date": "2024-11-03 00:40:53",
+        "sentiment_score": 0.009443268179893494
+    },
+    {
+        "title": "Se acabó Yolanda Díaz",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/02/08/65c41a4046e54.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241103/acabo-yolanda-diaz_241106.html",
+        "date": "2024-11-03 00:30:00",
+        "sentiment_score": -0.8894821591675282
+    },
+    {
+        "title": "Detienen a un hombre por agredir con un arma blanca a su pareja embarazada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-un-hombre-por-agredir-con-un-arma-blanca-a-su-pareja-embarazada-202411221410",
+        "date": "2024-11-03 01:41:00",
+        "sentiment_score": -0.13115854561328888
+    },
+    {
+        "title": "Lluvias causan fuertes inundaciones en Lara (+Video)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/lluvias-causan-fuertes-inundaciones-en-lara-video--202411221340",
+        "date": "2024-11-03 01:34:00",
+        "sentiment_score": -0.7338744513690472
+    },
+    {
+        "title": "Texas busca asesor comercial que hable español por $1.800 semanales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-busca-asesor-comercial-que-hable-espanol-por-1-800-semanales--202411221180",
+        "date": "2024-11-03 01:18:00",
+        "sentiment_score": 0.4292358532547951
+    },
+    {
+        "title": "Sepa cómo recuperar su contraseña del Saime (+Pasos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sepa-como-recuperar-su-contrasena-del-saime-pasos--20241122180",
+        "date": "2024-11-03 01:08:00",
+        "sentiment_score": 0.01787222921848297
+    },
+    {
+        "title": "Macy’s anuncia remate con ahorro de hasta $684 dólares (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/macy-s-anuncia-remate-con-ahorro-de-hasta-684-dolares-detalles--202411220410",
+        "date": "2024-11-03 00:41:00",
+        "sentiment_score": 0.09355039894580841
+    },
+    {
+        "title": "Trump y Harris escogen los mismos estados para el crucial cierre de campaña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-y-harris-escogen-los-mismos-estados-para-el-crucial-cierre-de-campana-202411219330",
+        "date": "2024-11-02 23:33:00",
+        "sentiment_score": -0.023481816053390503
+    },
+    {
+        "title": "Pasos para recibir el Credimujer del Banco de Venezuela (+Requisitos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/pasos-para-recibir-el-credimujer-del-banco-de-venezuela-requisitos--202411219300",
+        "date": "2024-11-02 23:30:00",
+        "sentiment_score": 0.5924442000687122
+    },
+    {
+        "title": "GNB captura a integrante de peligroso grupo delictivo en Zulia (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/gnb-captura-a-integrante-de-peligroso-grupo-delictivo-en-zulia-detalles--202411219300",
+        "date": "2024-11-02 23:30:00",
+        "sentiment_score": -0.2551400512456894
+    },
+    {
+        "title": "Esto dijo Miss Panamá tras ser expusada del Miss Universo (+Comunicado)",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730588653623/WhatsApp%20Image%202024-11-02%20at%207.03.35%20PM.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/esto-dijo-miss-panama-tras-ser-expusada-del-miss-universo-comunicado--202411219200",
+        "date": "2024-11-02 23:20:00",
+        "sentiment_score": -0.31044885516166687
+    },
+    {
+        "title": "EEUU | Las “Peace dollars” que valen más de $300.000 (+Características)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-las-peace-dollars-que-valen-mas-de-300-000-caracteristicas--202411219150",
+        "date": "2024-11-02 23:15:00",
+        "sentiment_score": 0.6197100169956684
     }
 ];
