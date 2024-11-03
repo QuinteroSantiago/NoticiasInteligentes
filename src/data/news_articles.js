@@ -1,239 +1,5 @@
 export default [
     {
-        "title": "Constitución, inane",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/10/30/1487719609-Rw0GpclBwvLrzPC5B6gbNyK-350x624@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/enrique-sanchez-de-leon-constitucion-inane-20241030064327-nt.html",
-        "date": "2024-10-30 05:43:27",
-        "sentiment_score": -0.2001807987689972
-    },
-    {
-        "title": "El sanchismo refuerza su control sobre la Fiscalía",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/10/16/policianacional--170x119.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-sanchismo-refuerza-control-sobre-fiscalia-20241030194002-nt.html",
-        "date": "2024-10-30 05:42:04",
-        "sentiment_score": -0.44039279967546463
-    },
-    {
-        "title": "El doble rasero de Ayuso con la violencia machista: las veces que dudó de la víctima e incluso premió al presunto agresor",
-        "image_url": "https://www.elplural.com/uploads/s1/18/59/06/5/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-y-el-tenor-placido-domingo-ep_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/doble-rasero-ayuso-violencia-machista-veces-presidenta-dudo-victima-incluso-premio-presunto-agresor_340298102",
-        "date": "2024-10-30 06:24:00",
-        "sentiment_score": -0.16603535413742065
-    },
-    {
-        "title": "Alucina con lo que hace, según le han dicho, \"la gente de Sevilla\" con el papel higiénico",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/10/28/una-imagen-de-la-publicacion-de-amaiaconde_.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/alucina-asegura-la-gente-sevilla-papel-higienico.html",
-        "date": "2024-10-30 06:15:56",
-        "sentiment_score": -0.6947342716157436
-    },
-    {
-        "title": "Éxito del fútbol español y pataleta",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/29/1487969170-kHoE-U2201649417229Y1H-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/opinion/el-norte-exito-futbol-espanol-pataleta-20241030070658-nt.html",
-        "date": "2024-10-30 06:06:59",
-        "sentiment_score": 0.7855504937469959
-    },
-    {
-        "title": "Mazazo Errejón sin aviso ni runrún",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/baa85296-af1d-4978-810e-22385c1b827e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/10/30/mazazo-errejon-aviso-runrun-110826964.html",
-        "date": "2024-10-30 06:00:28",
-        "sentiment_score": -0.911102207377553
-    },
-    {
-        "title": "Málaga sigue en la parte baja del ranking español en renta media por persona pero escala posiciones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0127e3a4-53fb-4fa7-8c94-6bc88158a47c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2024/10/30/malaga-parte-baja-ranking-renta-provincias-espana-110809838.html",
-        "date": "2024-10-30 06:00:24",
-        "sentiment_score": 0.09837698936462402
-    },
-    {
-        "title": "El II Simposio ‘Comunicación Deportiva en el siglo XXI’ acepta inscripciones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/27bb86ae-5823-4a59-a891-92281c02f334_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2024/10/30/ii-simposio-comunicacion-deportiva-siglo-110794191.html",
-        "date": "2024-10-30 06:00:24",
-        "sentiment_score": 0.14314549788832664
-    },
-    {
-        "title": "Unionistas quiere alargar la Copa",
-        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/10/29/alvarogomez-kx9B-U20510177911LrF-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/deportes/futbol-local/unionistas/unionistas-quiere-alargar-copa-20241029070000-nt.html",
-        "date": "2024-10-30 06:00:00",
-        "sentiment_score": 0.020898446440696716
-    },
-    {
-        "title": "La oposición pide a Azcón que se deje de \"excusas\" y empiece a negociar ya el presupuesto de Aragón de 2025",
-        "image_url": "https://s1.elespanol.com/2024/10/29/actualidad/897171179_250464895_1706x960.png?contentId=ESPIMA20241029_0905",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/aragon/actualidad/20241030/oposicion-pide-azcon-deje-excusas-empiece-negociar-presupuesto-aragon/897160897_0.html",
-        "date": "2024-10-30 06:00:00",
-        "sentiment_score": -0.23777107149362564
-    },
-    {
-        "title": "Florentino Pérez, el 'amo del fútbol' que desafía al mundo: Sus injerencias deportivas",
-        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/florentino-perez-1730225569480_1600_1067.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elcierredigital.com/investigacion/florentino-perez-amo-futbol-desafia-al-mundo-sus-injerencias-deportivas",
-        "date": "2024-10-30 05:40:00",
-        "sentiment_score": 0.37665529549121857
-    },
-    {
-        "title": "La persecución contra colectivos que denuncian el genocidio llega a la Audiencia Nacional",
-        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/2cfab743/aturem_el_genocidi_bcn_03%20copia.jpg?v=63865271280",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elsaltodiario.com/palestina/persecucion-colectivos-denuncian-genocidio-llega-audiencia-nacional",
-        "date": "2024-10-30 05:11:00",
-        "sentiment_score": -0.6947458237409592
-    },
-    {
-        "title": "Aviso amarillo por lluvias y tormentas este miércoles en Ceuta",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1117552",
-        "date": "2024-10-30 06:31:08",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El Halloween más terrorífico en Navarra: un sinfín de planes 'de muerte' para disfrutar en familia",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2018/11/01/2018110110424319449.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/sociedad/planes-halloween-navarra-terrorifico-sinfin-planes-muerte-disfrutar-familia/20241030072547566032.html",
-        "date": "2024-10-30 06:25:47",
-        "sentiment_score": 0.6400998942553997
-    },
-    {
-        "title": "La boxeadora mexicana que sirve en Barcelona los mejores chilaquiles y micheladas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bba83b96-e9f1-4a41-8916-19b8bdbd8cd0_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241030/casi-esquina-restaurante-mexicano-barcelona-vila-olimpica-109555249",
-        "date": "2024-10-30 06:23:26",
-        "sentiment_score": -0.005536168813705444
-    },
-    {
-        "title": "Goirigolzarri deja CaixaBank y el \"legado\" de Aragonès",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/05/24/business/857674311_12986936_1706x960.jpg?contentId=ESPIMA20240524_0087",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241030/goirigolzarri-deja-caixabank-el-legado-de-aragones/897410253_0.html",
-        "date": "2024-10-30 06:20:14",
-        "sentiment_score": 0.015078499913215637
-    },
-    {
-        "title": "Los macarrones con butifarra que han salvado el veterano restaurante Agullers",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/289ad5dc-cb63-46fb-b889-e9cf83a90358_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241030/restaurante-agullers-barcelona-110823444",
-        "date": "2024-10-30 06:19:46",
-        "sentiment_score": -0.2760106474161148
-    },
-    {
-        "title": "Más de 7 millones del Estado para inmigración y coste de la desaladora",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1117563",
-        "date": "2024-10-30 06:15:30",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Así funciona el algoritmo “adictivo” de TikTok: \"Quieren que estemos el máximo tiempo conectados\"",
-        "image_url": "https://album.mediaset.es/eimg/2024/10/29/usuaria-de-tiktok_7c66.jpg",
-        "tags": [
-            "noticias de ciencia y tecnología"
-        ],
-        "link": "https://www.telecinco.es/noticias/ciencia-y-tecnologia/20241030/algoritmo-adictivo-tiktok-maximo-tiempo-conectados_18_013860174.html",
-        "date": "2024-10-30 06:14:27",
-        "sentiment_score": 0.1512206718325615
-    },
-    {
-        "title": "Lo que debes saber hoy, 30 de octubre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/21/vivir-en-barcelona/895170487_13647902_1706x960.jpg?contentId=ESPIMA20241021_0013",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241030/lo-que-debes-saber-hoy-de-octubre-barcelona/897410252_0.html",
-        "date": "2024-10-30 06:11:21",
-        "sentiment_score": -0.3845237269997597
-    },
-    {
-        "title": "BMW i8, Mercedes... y así hasta 37 coches robados pero cazados en Algeciras",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1117587",
-        "date": "2024-10-30 06:10:55",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Conflicto en Oriente Próximo, en directo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PVRXUREXRNDRVCE4Y4EPV6FHHA.jpg?auth=e79b88e414295281eb2f6b71c969e97c8db131112dafefa56b71a5f3ac16608f&width=1200",
-        "tags": [
-            "bombardeos",
-            "cisjordania",
-            "palestina",
-            "benjamin netanyahu",
-            "guerra",
-            "tel aviv",
-            "israel",
-            "jerusalén",
-            "territorios palestinos",
-            "tregua",
-            "hamás",
-            "conflicto árabe-israelí",
-            "conflictos armados",
-            "franja gaza",
-            "oriente próximo"
-        ],
-        "link": "https://elpais.com/internacional/2024-10-30/conflicto-en-oriente-proximo-en-directo.html",
-        "date": "2024-10-30 06:10:47",
-        "sentiment_score": -0.9077343689277768
-    },
-    {
         "title": "Las tres noticias destacadas del mediodía del 30 de octubre en CNN en Español",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6817,5 +6583,510 @@ export default [
         "link": "https://2001online.com/deportes/los-perfumes-que-usan-los-pilotos-mas-guapos-de-la-f1--20241121200",
         "date": "2024-11-02 16:00:00",
         "sentiment_score": 0.605904458090663
+    },
+    {
+        "title": "Las cuatro noticias destacadas de la tarde del 2 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-2-de-noviembre-2024-mirador-tarde-tv-fast",
+        "date": "2024-11-02 22:14:21",
+        "sentiment_score": 0.10348604992032051
+    },
+    {
+        "title": "¿Por qué México registró un déficit comercial de US$ 579 millones en septiembre?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-85585978.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-economia-deficit-comercial-baja-exportaciones-importaciones-cnn-dinero-tv-fast",
+        "date": "2024-11-02 21:37:20",
+        "sentiment_score": -0.723167022690177
+    },
+    {
+        "title": "¿Por qué México registró un déficit comercial de US$ 579 millones en septiembre?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-85585978.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "comercio",
+            "exportaciones",
+            "fast – news variety",
+            "economía mexicana",
+            "méxico",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-economia-deficit-comercial-baja-exportaciones-importaciones-cnn-dinero-tv-fast/",
+        "date": "2024-11-02 21:37:20",
+        "sentiment_score": -0.20630448311567307
+    },
+    {
+        "title": "Roban en una joyería casi US$ 2 millones en oro, anillos y collares",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/clean-00-00-15-22-still003-20241102200042873.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/roban-joyeria-oro-trax/",
+        "date": "2024-11-02 20:03:35",
+        "sentiment_score": -0.8667497234418988
+    },
+    {
+        "title": "Roban en una joyería casi US$ 2 millones en oro, anillos y collares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/roban-joyeria-oro-trax",
+        "date": "2024-11-02 20:03:35",
+        "sentiment_score": -0.5047277137637138
+    },
+    {
+        "title": "Gerardo Martino niega la llegada de Neymar al Inter Miami para 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/neymar-inter-miami-gerardo-tata-martino-futbol-cnn-deportes-tv",
+        "date": "2024-11-02 19:58:28",
+        "sentiment_score": -0.7111675720661879
+    },
+    {
+        "title": "Esta inmigrante venezolana no puede votar en las elecciones de EE.UU. Pero los resultados podrían cambiar su futuro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775486-migrante-venezolana-madre.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inmigración",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/02/inmigrante-venezolana-elecciones-futuro-trax/",
+        "date": "2024-11-02 19:54:21",
+        "sentiment_score": -0.5928386002779007
+    },
+    {
+        "title": "La convocatoria de Brasil para las eliminatorias mundialistas de noviembre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1713925-gettyimages-2159752156-2.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/convocatorias-brasil-chile-eliminatorias-sudamericanas-futbol-cnn-deportes-tv",
+        "date": "2024-11-02 19:47:43",
+        "sentiment_score": 0.006843477487564087
+    },
+    {
+        "title": "¿En qué consiste el modelo de IA Apple Intelligence?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172380847.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apple-intelligence-iphone16-ipad-chatgpt-gemini-google-llama-meta-claude-anthropic-cnn-dinero-tv-fast",
+        "date": "2024-11-02 19:42:46",
+        "sentiment_score": 0.0019754357635974884
+    },
+    {
+        "title": "¿En qué consiste el modelo de IA Apple Intelligence?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2172380847.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "apple iphone",
+            "apple",
+            "fast – news variety",
+            "tecnología",
+            "xpress",
+            "inteligencia artificial"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apple-intelligence-iphone16-ipad-chatgpt-gemini-google-llama-meta-claude-anthropic-cnn-dinero-tv-fast/",
+        "date": "2024-11-02 19:42:46",
+        "sentiment_score": 0.04413946717977524
+    },
+    {
+        "title": "Guardianes del español en Sevilla",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/03/ilustracion-tribuna-RD4ge6wmydJV49pmJ4t2vjL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/lola-pons-guardianes-espanol-sevilla-20241103221540-nts.html",
+        "date": "2024-11-02 21:15:40",
+        "sentiment_score": -0.019122451543807983
+    },
+    {
+        "title": "Miedo",
+        "image_url": "https://s2.ppllstatics.com/larioja/www/multimedia/2024/10/23/urgencias--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-miedo-20241103221537-nts.html",
+        "date": "2024-11-02 21:15:37",
+        "sentiment_score": -0.0756792426109314
+    },
+    {
+        "title": "El barrizal de la política entre el dolor",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/03/montero-teodoro-RTXBjvNNFQkYFgqjkw0aHeN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-barrizal-politica-dolor-20241103221534-nts.html",
+        "date": "2024-11-02 21:15:34",
+        "sentiment_score": -0.080839604139328
+    },
+    {
+        "title": "Nuestra tragedia",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/28/tdt-television-cambio-canales-k12E--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-tragedia-20241103123625-nts.html",
+        "date": "2024-11-02 21:15:34",
+        "sentiment_score": -0.20303811132907867
+    },
+    {
+        "title": "Las huellas de un centenario",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-huellas-centenario-20241103221533-nts.html",
+        "date": "2024-11-02 21:15:33",
+        "sentiment_score": 0.1473158895969391
+    },
+    {
+        "title": "Humano, demasiado humano",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/runrun/2024/10/30/camionero-bonares-U34710110738RNf-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-humano-humano-20241103171323-nts.html",
+        "date": "2024-11-02 21:15:32",
+        "sentiment_score": -0.03433865308761597
+    },
+    {
+        "title": "No Fallarás",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/03/opinion-errejon-RKvG1OXsqrYnvKdPj0c1eKL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-fallaras-20241103221529-nts.html",
+        "date": "2024-11-02 21:15:29",
+        "sentiment_score": -0.1563325822353363
+    },
+    {
+        "title": "La cadena de comida rápida TGI Fridays se declara en quiebra",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/02/fridays-kbvF-U603293594868dr-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cadena-comida-rapida-tgi-fridays-declara-quiebra-20241102201924-nt.html",
+        "date": "2024-11-02 19:19:25",
+        "sentiment_score": -0.08922870457172394
+    },
+    {
+        "title": "Ni más ni menos que una noticia",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/03/ABCDEFENSORA_03_11_24_SADABA-RLCHAg1RGovLoZCWZiO0i9I-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/defensora-del-lector-charo-sadaba-noticia-20241103160926-nt.html",
+        "date": "2024-11-02 18:35:15",
+        "sentiment_score": -0.13346591591835022
+    },
+    {
+        "title": "Crisis de Estado",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/28/tdt-television-cambio-canales-k12E--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-crisis-estado-20241103192835-nt.html",
+        "date": "2024-11-02 18:34:39",
+        "sentiment_score": -0.21299536526203156
+    },
+    {
+        "title": "Mazón juega al despiste con la intervención del Ejército: cronología con las horas exactas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZTR2SNGCVFFQFM6AKRY2JWPPAA.jpg?auth=842c22bc29781057d9d79689c542dd57a0b37409f7b229b752358cb2a2614c3d&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-02/las-medias-verdades-de-mazon-sobre-cuando-pidio-la-intervencion-del-ejercito-cronologia-con-las-horas-exactas.html",
+        "date": "2024-11-02 20:29:12",
+        "sentiment_score": -0.2780098430812359
+    },
+    {
+        "title": "Mazón pide el auxilio del Gobierno tras cuatro días de crisis por el desastre de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5R4LEGXTLNB4REHURXXD5OZIVU.jpg?auth=ab9f04e48d2fa714eb904764e03c333633a95a8a64c44772930789697bf9d3a9&width=1200",
+        "tags": [
+            "catástrofes",
+            "generalitat valenciana",
+            "lluvias torrenciales",
+            "psoe",
+            "aemet",
+            "gobierno",
+            "pedro sánchez",
+            "emergencias",
+            "carlos mazón",
+            "inundaciones dana octubre 2024",
+            "pp",
+            "comunidad valenciana",
+            "emergencias 112 gva",
+            "valencia",
+            "inundaciones"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-02/mazon-pide-el-auxilio-del-gobierno-tras-cuatro-dias-de-crisis-por-el-desastre-de-la-dana.html",
+        "date": "2024-11-02 19:37:06",
+        "sentiment_score": -0.6293109469115734
+    },
+    {
+        "title": "Gritos al cielo contra Javier Tebas por no suspender la jornada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/464da580-aa74-4707-9bc4-98a18499acb4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/11/02/gritos-cielo-javier-tebas-suspender-111248099.html",
+        "date": "2024-11-02 22:00:32",
+        "sentiment_score": -0.874937585555017
+    },
+    {
+        "title": "'Pesadilla UD' en los estadios del 'Big Three': cuatro triunfos en 103 visitas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a1a05eb-a02e-4765-94e2-004132164ee8_16-9-aspect-ratio_default_1335637.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/11/02/pesadilla-ud-estadios-big-three-111254187.html",
+        "date": "2024-11-02 21:53:56",
+        "sentiment_score": 0.020734399557113647
+    },
+    {
+        "title": "En zona Champions y a un gol de ser tercero",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/999972dd-cacd-4b2f-abdd-ae6e9a9e9c82_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2024/11/02/zona-champions-gol-tercero-8882487.html",
+        "date": "2024-11-02 20:23:24",
+        "sentiment_score": -0.033367007970809937
+    },
+    {
+        "title": "Las dramáticas imágenes del interior de algunos garajes de Paiporta cinco días después de la DANA",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/02/interior-de-un-garaje.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5650279/0/impactantes-imagenes-interior-garajes-paiporta-cinco-dias-despues-dana/",
+        "date": "2024-11-02 20:02:25",
+        "sentiment_score": -0.0310945063829422
+    },
+    {
+        "title": "Una calle fantasma en el centro: el caso del famoso escultor que se cayó del callejero",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/28/1487816559-k18G-U2201633366670O6F-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/valladolid/calle-fantasma-centro-famoso-escultor-cayo-callejero-20241102205628-nt.html",
+        "date": "2024-11-02 19:56:29",
+        "sentiment_score": -0.8484135819599032
+    },
+    {
+        "title": "María Antón: \"Es desalentador ver ideas regresivas en los jóvenes sobre las relaciones\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a16beb8b-6bbc-4b86-b385-43a8dbe05628_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/elche/2024/11/02/maria-anton-desalentador-ver-ideas-111243794.html",
+        "date": "2024-11-02 19:30:21",
+        "sentiment_score": -0.18398315459489822
+    },
+    {
+        "title": "La conselleria trabaja en abrir la autovía de Torrent a València en un carril por sentido",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1fb1175e-f55d-4bd9-b285-b24b38909e5a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/horta/2024/11/02/conselleria-trabaja-abrir-autovia-torrent-111243504.html",
+        "date": "2024-11-02 19:28:48",
+        "sentiment_score": -0.08499214053153992
+    },
+    {
+        "title": "Lita Cabellut se mira en el fantasmal espejo de Goya",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/11/02/Lita.-Disparate.-La-Lealtad-1-RV2dIJF9JNfJ0wJlrgHPJLK-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/culturas/lita-cabellut-mira-fantasmal-espejo-goya-20241102201823-ntrc.html",
+        "date": "2024-11-02 19:18:24",
+        "sentiment_score": -0.14150282740592957
+    },
+    {
+        "title": "El festival In-Edit premia a 'Soundtrack to a Coup d'Etat' y 'La guitarra flamenca de Yerai Cortés'",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241102231438_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-festival-in-edit-premia-soundtrack-to-coup-detat-guitarra-flamenca-yerai-cortes-20241102231438.html",
+        "date": "2024-11-02 22:14:38",
+        "sentiment_score": 0.26071352511644363
+    },
+    {
+        "title": "109-69 | El Unicaja recibe una paliza en Manresa",
+        "image_url": "https://s1.elespanol.com/2024/11/02/malaga/deporte/unicaja/898170553_250564702_1706x960.jpg?contentId=ESPIMA20241102_0379",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20241102/unicaja-recibe-paliza-manresa/1003592680697_29.html",
+        "date": "2024-11-02 22:10:11",
+        "sentiment_score": -0.856026204302907
+    },
+    {
+        "title": "«Estamos avanzando en proyectos de IA en la digitalización de procesos»",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/31/JoseFernandezPlantManageren%20FicosaSoria-RoPiVMFnHyQfYm3gZOwsIFO-1200x840@El%20Norte.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/economia/empresas/avanzando-proyectos-ia-digitalizacion-procesos-20241103230150-nt.html",
+        "date": "2024-11-02 22:01:50",
+        "sentiment_score": 0.7440461553633213
+    },
+    {
+        "title": "Dos acertantes de La Primitiva se llevan más de medio millón de euros este sábado",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2024/10/07/loteria-kjEE-U22014404158359cD-1200x840@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/dos-acertantes-primitiva-llevan-medio-millon-euros-20241102224319-nt.html",
+        "date": "2024-11-02 21:43:19",
+        "sentiment_score": 0.214420348405838
+    },
+    {
+        "title": "Tito, el niño que más sabe sobre el Barça en el mundo: ¡recuerda el resultado de todos los partidos del club!",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/02/nino_b470.jpg",
+        "tags": [
+            "got talent"
+        ],
+        "link": "https://www.telecinco.es/gottalent/20241102/tito-barca-recuerda-resultado-partidos_18_013895338.html",
+        "date": "2024-11-02 21:40:05",
+        "sentiment_score": 0.3043069541454315
+    },
+    {
+        "title": "Dos acertantes de la Primitiva ganan 550.000 euros y el bote sube a 1,8 millones",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2019/12/13/una-administracion-de-loterias-en-una-imagen-de-archivo-1.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5650290/0/acertantes-primitiva-ganan-euros-bote-sube-millones/",
+        "date": "2024-11-02 21:29:27",
+        "sentiment_score": 0.1948399692773819
+    },
+    {
+        "title": "La Primitiva deja más de medio millón de euros en Soria",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/02/despacho-kOrB-U2201694221246Ns-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/soria/primitiva-deja-medio-millon-euros-soria-20241102222916-nt.html",
+        "date": "2024-11-02 21:29:16",
+        "sentiment_score": 0.08948837593197823
+    },
+    {
+        "title": "Más de medio millón de euros de premio: la Primitiva reparte suerte en esta ciudad de Castilla y León",
+        "image_url": "https://s1.elespanol.com/2023/09/24/treintayseis/actualidad/galicia/796930788_242632911_1024x576.jpg?contentId=ESPIMA20230924_0489",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/soria/20241102/medio-millon-euros-premio-primitiva-reparte-suerte-ciudad-castilla-leon/898160354_0.html",
+        "date": "2024-11-02 21:26:42",
+        "sentiment_score": 0.5634924098849297
+    },
+    {
+        "title": "Así puedes obtener un seguro médico gratis en EEUU (+Pasos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-puedes-obtener-un-seguro-medico-gratis-en-eeuu-pasos--20241121820",
+        "date": "2024-11-02 22:02:00",
+        "sentiment_score": 0.33139269053936005
+    },
+    {
+        "title": "Activan software para detectar cáncer de mama (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/activan-software-para-detectar-cancer-de-mama-detalles--202411217340",
+        "date": "2024-11-02 21:34:00",
+        "sentiment_score": 0.26292645931243896
+    },
+    {
+        "title": "Venezuela exhortó a Brasil a \"no inmiscuirse\" en asuntos del país",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-exhorto-a-brasil-a-no-inmiscuirse-en-asuntos-del-pais-202411217120",
+        "date": "2024-11-02 21:12:00",
+        "sentiment_score": -0.8436559801921248
+    },
+    {
+        "title": "EEUU | Amazon comenzó a lanzar ofertas de Black Friday en algunos productos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-amazon-comenzo-a-lanzar-ofertas-de-black-friday-en-algunos-productos-202411216420",
+        "date": "2024-11-02 20:42:00",
+        "sentiment_score": 0.5296390727162361
+    },
+    {
+        "title": "¿Por qué expulsan a Panamá del Miss Universo 2024? Sepa el chisme aquí",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730569873724/KZ5JIGENAVBRLB7EBJBT2PRD4A.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/por-que-expulsan-a-panama-del-miss-universo-2024-sepa-el-chisme-aqui--20241121600",
+        "date": "2024-11-02 20:00:00",
+        "sentiment_score": -0.2446565292775631
+    },
+    {
+        "title": "EEUU: Seguro Social pagará hasta $4.873 a estos beneficiarios en noviembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-seguro-social-pagara-hasta-4-873-a-estos-beneficiarios-en-noviembre-20241121600",
+        "date": "2024-11-02 20:00:00",
+        "sentiment_score": -0.04240775853395462
+    },
+    {
+        "title": "Accidente de tránsito cobra la vida de dos funcionarios de la PNB",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730567314013/BeFunky-collage%20(15).jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/accidente-de-transito-cobra-la-vida-de-dos-funcionarios-de-la-pnb-202411215300",
+        "date": "2024-11-02 19:30:00",
+        "sentiment_score": -0.49338584765791893
+    },
+    {
+        "title": "Conoce los museos que tendrán entrada gratuita en Chicago por noviembre (+Lista)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conoce-los-museos-que-tendran-entrada-gratuita-en-chicago-por-noviembre-202411215260",
+        "date": "2024-11-02 19:26:00",
+        "sentiment_score": 0.6724979970604181
+    },
+    {
+        "title": "Cómo aumentar de nivel en el Club Cashea Más (+Beneficios)",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730558227330/BeFunky-collage%20(6).jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/como-aumentar-de-nivel-en-el-club-cashea-mas-beneficios--20241121500",
+        "date": "2024-11-02 19:00:00",
+        "sentiment_score": 0.7825563615188003
+    },
+    {
+        "title": "Parkinson: síntomas que existe degeneración de las neuronas",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730489847036/Parkinson,.jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/parkinson-sintomas-que-existe-degeneracion-de-las-neuronas--20241121500",
+        "date": "2024-11-02 19:00:00",
+        "sentiment_score": -0.07969125360250473
     }
 ];
