@@ -1,127 +1,5 @@
 export default [
     {
-        "title": "Arnold Schwarzenegger dice que votará por Harris",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1774338-arnold.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "arnold schwarzenegger",
-            "elecciones en ee.uu.",
-            "elecciones en estados unidos",
-            "celebridades"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/10/31/arnold-schwarzenegger-dice-que-votara-por-harris-trax/",
-        "date": "2024-10-31 06:30:19",
-        "sentiment_score": 0.010613173246383667
-    },
-    {
-        "title": "Botafogo jugará su primera final de Libertadores",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182024189.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/botafogo-primera-final-libertadores",
-        "date": "2024-10-31 05:50:43",
-        "sentiment_score": 0.21064648777246475
-    },
-    {
-        "title": "Estas son las nuevas conexiones de Ouigo e Iryo con Galicia y Cantabria: cuando estarán disponibles y otros trayectos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/31/ouigo-kd1H-U603278125760GgH-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/nuevas-conexiones-ouigo-iryo-galicia-cantabria-disponibles-20241031064500-nt.html",
-        "date": "2024-10-31 06:24:25",
-        "sentiment_score": -0.014031469821929932
-    },
-    {
-        "title": "Sabadell logra un beneficio récord de 1.295 millones de euros hasta septiembre y gana un 25,9% más",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/31/JosepOliu-k0DG-U603282024728fqF-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sabadell-logra-beneficio-record-1295-millones-euros-20241031070616-nt.html",
-        "date": "2024-10-31 06:06:17",
-        "sentiment_score": -0.06026935577392578
-    },
-    {
-        "title": "CaixaBank gana 4.248 millones hasta septiembre, un 16,1% más",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/10/31/caixabank-kS8G-U603282006719icB-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/caixabank-gana-4248-millones-septiembre-161-20241031065251-nt.html",
-        "date": "2024-10-31 05:52:51",
-        "sentiment_score": 0.307950884103775
-    },
-    {
-        "title": "Corea del Norte lanza un misil intercontinental a 7.000 metros de altura mientras incrementa la cooperación militar con Rusia",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/31/misil-kN7F-U603281948037eFC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/corea-norte-lanza-misil-intercontinental-7000-metros-20241031062624-nt.html",
-        "date": "2024-10-31 05:26:25",
-        "sentiment_score": -0.10893487930297852
-    },
-    {
-        "title": "Última hora de la dana, en directo | Se reanudan las labores de búsqueda de desaparecidos por la dana en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4TZIYHXTF5AD3EDCORSZ3W2QAA.jpg?auth=fa306013ec41f521679609c65c6c6f2c137dea70ce7fa24a3c65b3f20bcf51e1&width=1200",
-        "tags": [
-            "viento",
-            "lluvia",
-            "dana",
-            "inundaciones",
-            "murcia",
-            "castilla-la mancha",
-            "españa",
-            "meteorología",
-            "temporales",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/2024-10-31/ultima-hora-de-la-dana-en-directo.html",
-        "date": "2024-10-31 05:50:38",
-        "sentiment_score": -0.9073096280917525
-    },
-    {
-        "title": "Sánchez y Feijóo se desplazan este jueves a Valencia para visitar el centro de emergencias por la DANA",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241031072927_120.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/nacional/noticia-sanchez-feijoo-desplazan-jueves-valencia-visitar-centro-emergencias-dana-20241031072927.html",
-        "date": "2024-10-31 06:29:27",
-        "sentiment_score": -0.7143300864845514
-    },
-    {
-        "title": "¿Hasta cuándo va a durar la DANA? La AEMET publica los datos de la Comunidad Valenciana para esta semana",
-        "image_url": "https://s1.elespanol.com/2024/10/31/valencia/897670244_250502079_1706x960.png?contentId=ESPIMA20241031_0020",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/valencia/20241031/va-durar-dana-aemet-publica-datos-comunidad-valenciana-semana/897660234_0.html",
-        "date": "2024-10-31 06:25:40",
-        "sentiment_score": -0.8667315663769841
-    },
-    {
-        "title": "El triunfo de la 'generación Rodri': los jugadores decidirán su calendario con la UEFA tras la amenaza de huelga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d430478b-11db-45ac-b08a-2249cca33776_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2024/10/31/triunfo-generacion-rodri-jugadores-decidiran-110979564.html",
-        "date": "2024-10-31 06:21:39",
-        "sentiment_score": -0.1387258768081665
-    },
-    {
-        "title": "Directo | Al menos 95 muertos y decenas de desaparecidos en la peor DANA del siglo en España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e7d8384a-3872-438c-a5c8-855c9be3f476_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/sociedad/2024/10/31/directo-ultima-hora-dana-azota-costa-mediterranea-sur-peninsula-110836403.html",
-        "date": "2024-10-31 06:32:00",
-        "sentiment_score": -0.8667937442660332
-    },
-    {
         "title": "Las cuatro noticias destacadas del mediodía del 31 de octubre en CNN en Español",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181235379.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6890,5 +6768,543 @@ export default [
         "link": "https://2001online.com/usa/servicios/eeuu-sepa-cuando-arranca-el-servicio-de-tren-de-chicago-a-miami-202411311430",
         "date": "2024-11-03 15:43:00",
         "sentiment_score": 0.00875861942768097
+    },
+    {
+        "title": "Liberan de prisión a payasa asesina condenada en Florida",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775788-copia-de-foto-para-wp-2024-11-03t144120-282.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/03/liberan-prision-payasa-asesina-condenada-florida/",
+        "date": "2024-11-03 21:40:43",
+        "sentiment_score": -0.92522659804672
+    },
+    {
+        "title": "¿Qué son los \"swing states\" o estados de tendencia electoral incierta y cuáles pueden definir las elecciones de EE.UU. 2024?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1773347-elecciones-eeuu1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "instanoticias",
+            "elecciones en ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/03/swing-states-estados-pendulares-cuales-definir-elecciones-ee-uu-2024-trax/",
+        "date": "2024-11-03 21:10:17",
+        "sentiment_score": -0.08072838932275772
+    },
+    {
+        "title": "Kamala Harris habla con la Kamala Harris de Maya Rudolph en SNL",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-02-41-22-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones",
+            "noticias de ee.uu.",
+            "snl",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/snl-sketch-kamala-harris/",
+        "date": "2024-11-03 19:46:40",
+        "sentiment_score": 0.07804865390062332
+    },
+    {
+        "title": "¿Por qué bajaría el crecimiento de la economía global?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1237998664.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "dinero",
+            "economía",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/economia-fmi-crecimiento-endeudamiento-bajo-pbi-china-cnn-dinero-tv-fast/",
+        "date": "2024-11-03 19:45:13",
+        "sentiment_score": -0.6304347924888134
+    },
+    {
+        "title": "¿Por qué bajaría el crecimiento de la economía global?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1237998664.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/economia-fmi-crecimiento-endeudamiento-bajo-pbi-china-cnn-dinero-tv-fast",
+        "date": "2024-11-03 19:45:13",
+        "sentiment_score": -0.6380815729498863
+    },
+    {
+        "title": "¿Cómo surgió la alianza de los BRICS y cuál es su importancia? Expertos nos lo explican",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-surgio-cumbre-brics-conectados-fast",
+        "date": "2024-11-03 19:31:16",
+        "sentiment_score": -0.06459759920835495
+    },
+    {
+        "title": "¿Cómo surgió la alianza de los BRICS y cuál es su importancia? Expertos nos lo explican",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179802196.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "india",
+            "xpress",
+            "rusia",
+            "brasil",
+            "brics",
+            "china",
+            "fast – news variety",
+            "economía"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-surgio-cumbre-brics-conectados-fast/",
+        "date": "2024-11-03 19:31:16",
+        "sentiment_score": -0.14026279747486115
+    },
+    {
+        "title": "Alerta roja en el litoral de Valencia por nuevas tormentas de gran intensidad; localidades piden ponerse a resguardo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1773862-flooding-and-heavy-rain-in-valencia-region-of-spain.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "valencia",
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/03/alerta-roja-litoral-valencia-nuevas-tormentas-gran-intensidad-orix/",
+        "date": "2024-11-03 18:10:37",
+        "sentiment_score": -0.4646250009536743
+    },
+    {
+        "title": "Fluminense rescinde el contrato de Marcelo tras pelea con el entrenador",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marcelo-vieira-mano-menezes-fluminense-futbol-cnn-deportes-tv",
+        "date": "2024-11-03 17:58:21",
+        "sentiment_score": -0.2910606190562248
+    },
+    {
+        "title": "Detienen a mujer iraní tras desnudarse en una universidad de Teherán",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775730-copia-de-foto-para-wp-2024-11-03t103117-546.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "irán"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/03/detienen-mujer-irani-desnudarse-universidad-teheran-trax/",
+        "date": "2024-11-03 17:33:28",
+        "sentiment_score": -0.8485430777072906
+    },
+    {
+        "title": "No, no te lo mereces",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-mereces-20241104213944-nts.html",
+        "date": "2024-11-03 20:43:16",
+        "sentiment_score": -0.08702853322029114
+    },
+    {
+        "title": "El debate sobre las listas de espera en hospitales andaluces",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/04/ilustracion-tribuna-RhaiA9tCzWcjCz5SgeF5jnO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jorge-fernandez-parra-debate-sobre-listas-espera-hospitales-andaluces-20241104213950-nts.html",
+        "date": "2024-11-03 20:39:51",
+        "sentiment_score": -0.128673255443573
+    },
+    {
+        "title": "Lo que no sabíamos",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/30/contenedores-U01860482412ocj-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/manuel-contreras-sabiamos-20241104205401-nts.html",
+        "date": "2024-11-03 20:39:43",
+        "sentiment_score": -0.18722619116306305
+    },
+    {
+        "title": "Cañas y barro",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-canas-barro-20241104213942-nts.html",
+        "date": "2024-11-03 20:39:42",
+        "sentiment_score": -0.13673485815525055
+    },
+    {
+        "title": "La presidenta moldava proeuropea podría haber perdido la votación ante su adversario prorruso",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/03/sandu-RyXWQHrmsjfq1YQQM04hDeI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/presidenta-moldava-proeuropea-haber-perdido-votacion-ante-20241103210621-nt.html",
+        "date": "2024-11-03 20:07:09",
+        "sentiment_score": -0.10004280507564545
+    },
+    {
+        "title": "Cadena de fallos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/04/TERCERAABC_Cadenadeerrores_QUIROS-R6xYejkMI9FNjjyhEXA1IWM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-cadena-fallos-20241104200708-nt.html",
+        "date": "2024-11-03 19:07:30",
+        "sentiment_score": -0.11853206157684326
+    },
+    {
+        "title": "España, sin Gobierno",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/10/28/tdt-television-cambio-canales-k12E--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-espana-gobierno-20241104192649-nt.html",
+        "date": "2024-11-03 19:04:05",
+        "sentiment_score": -0.09176844358444214
+    },
+    {
+        "title": "Demasiados frentes abiertos en Iberoamérica",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/14/impuesto-U20584106600ueo-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-ayllon-demasiados-frentes-abiertos-iberoamerica-20241104161536-nt.html",
+        "date": "2024-11-03 18:51:42",
+        "sentiment_score": -0.10965317487716675
+    },
+    {
+        "title": "Arbitrariedad sobre arbitrariedad",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/03/MJMonteroJaimeGarca-RzVkVnp4l6F7F7T4eamePFO-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/arbitrariedad-sobre-arbitrariedad-20241103194845-nt.html",
+        "date": "2024-11-03 18:49:31",
+        "sentiment_score": -0.15707047283649445
+    },
+    {
+        "title": "Líderes bajo presión",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/03/carlosmazneuropeapress-R4CF8eWtXIPTDZh0ULmznBL-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-lideres-bajo-presion-20241103193355-nt.html",
+        "date": "2024-11-03 18:34:38",
+        "sentiment_score": -0.1440645009279251
+    },
+    {
+        "title": "Dana e inundaciones en Valencia: resumen del 3/11/2024",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NVUKMUC745H3JENRKFR5B7WY54.JPG?auth=57713ead0233bfca195f13012ca09ad617f967fb2c5504c5419af13116d75c9f&width=1200",
+        "tags": [
+            "dana",
+            "lluvia",
+            "meteorología",
+            "temporales",
+            "comunidad valenciana",
+            "españa",
+            "castilla-la mancha",
+            "murcia",
+            "viento",
+            "inundaciones dana octubre 2024",
+            "inundaciones"
+        ],
+        "link": "https://elpais.com/espana/2024-11-04/ultima-hora-de-la-dana-en-directo.html",
+        "date": "2024-11-03 21:26:09",
+        "sentiment_score": -0.9046840453520417
+    },
+    {
+        "title": "Vicco inaugura la Music Week de LOS40 en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2HTKIWKUAFHHDDC6CDR7T455DI.JPG?auth=ac306ceaac71f1a05e3742033ad3e8d6662e8a527d4bbf0649089cc8e36fd71b&width=1200",
+        "tags": [
+            "barcelona",
+            "cultura",
+            "los40",
+            "música en vivo",
+            "música",
+            "conciertos",
+            "famosos",
+            "radio",
+            "cantantes",
+            "compositores",
+            "palau sant jordi",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-03/vicco-inaugura-la-music-week-de-los40-en-barcelona.html",
+        "date": "2024-11-03 19:12:16",
+        "sentiment_score": 0.430808138102293
+    },
+    {
+        "title": "La farmacia del barrio ahora es un almacén de conservas: Valencia se convierte en un centro logístico gigante",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZNEWAHQDQRD5DAWD42A6UEYZVM.JPG?auth=df894d540bc911b7a236592bb7e221ec1da33f65e638992db32cee841b2b29d9&width=1200",
+        "tags": [
+            "alimentos",
+            "donaciones humanitarias",
+            "comunidad valenciana",
+            "meteorología",
+            "catástrofes",
+            "emergencias",
+            "voluntarios",
+            "aemet",
+            "lluvia",
+            "limpieza"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-03/la-farmacia-del-barrio-ahora-es-un-almacen-de-conservas-valencia-se-convierte-en-un-centro-logistico-gigante.html",
+        "date": "2024-11-03 18:23:28",
+        "sentiment_score": 0.3152481019496918
+    },
+    {
+        "title": "Últimas horas antes de entrar en el aparcamiento anegado de 2.800 plazas del centro comercial Bonaire",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GGMQQJ3HT5CZ3I6WBPV7JDMOKU.jpeg?auth=11309c0c61f326c27211dc3aee564795e6a3ad9cd4d620244a184f267410cd33&width=1200",
+        "tags": [
+            "dana",
+            "españa",
+            "inundaciones dana octubre 2024",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/2024-11-03/ultimas-horas-antes-de-entrar-en-el-aparcamiento-anegado-de-2800-plazas-del-centro-comercial-bonaire.html",
+        "date": "2024-11-03 18:17:11",
+        "sentiment_score": -0.5935157239437103
+    },
+    {
+        "title": "El PP se envuelve en la figura de Felipe VI tras los abucheos: “Viva el Rey, abajo el mal Gobierno”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OYLDBEGXJFHAFJGYFAXFBJX2FE.jpg?auth=59ebabb1929fac49fe5a97f586ec4e3a96aabb7b7de571edcaf9b69ac8e0b7b7&width=1200",
+        "tags": [
+            "alberto núñez feijóo",
+            "dana",
+            "carlos mazón",
+            "comunidad valenciana",
+            "españa",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2024-11-03/el-pp-se-envuelve-en-la-figura-de-felipe-vi-tras-los-abucheos-viva-el-rey-abajo-el-mal-gobierno.html",
+        "date": "2024-11-03 18:15:22",
+        "sentiment_score": -0.7606537993997335
+    },
+    {
+        "title": "Siete fallecidos en dos naufragios tras un fin de semana en el que llegan a Canarias más de 1.500 migrantes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PFNSLDZ2EJU7X7DFE3D735CHPY.jpg?auth=eb4942cc86b1050347ef53f6965657554e7e5bbcbc902926d57f127acd5ec9d4&width=1200",
+        "tags": [
+            "migración",
+            "pateras canarias",
+            "lanzarote",
+            "españa",
+            "salvamento marítimo",
+            "inmigración irregular españa",
+            "migrantes",
+            "canarias",
+            "inmigración",
+            "cayucos",
+            "el hierro",
+            "inmigrantes africanos",
+            "pateras",
+            "inmigrantes",
+            "inmigración irregular"
+        ],
+        "link": "https://elpais.com/espana/2024-11-03/siete-fallecidos-en-dos-naufragios-tras-un-fin-de-semana-en-el-que-llegan-a-canarias-mas-de-1500-migrantes.html",
+        "date": "2024-11-03 17:25:14",
+        "sentiment_score": -0.6422042343765497
+    },
+    {
+        "title": "Berenguer y Fornals firman tablas tras un vibrante partido en San Mamés",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/17ed32bb-2bad-4e12-9282-6ec432ebc028_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/deportes/2024/11/03/1-1-berenguer-fornals-firman-111340836.html",
+        "date": "2024-11-03 22:15:54",
+        "sentiment_score": 0.7758262306451797
+    },
+    {
+        "title": "La europeísta Maia Sandu gana las presidenciales moldavas por la mínima",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3fe62b56-f2ce-41d9-bc8a-fdf192d0c1c3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/11/03/europeista-maia-sandu-gana-presidenciales-111340720.html",
+        "date": "2024-11-03 22:09:56",
+        "sentiment_score": 0.12058646976947784
+    },
+    {
+        "title": "El Real Madrid, pese a sus cinco bajas, gana por fin a domicilio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6016e8e0-a8c8-4857-ba4b-18b85e50c5e5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2024/11/03/real-madrid-pese-cinco-bajas-111340681.html",
+        "date": "2024-11-03 22:07:19",
+        "sentiment_score": 0.5211121439933777
+    },
+    {
+        "title": "Última hora de la DANA en Valencia, Catalunya y resto de España, hoy en directo: supervivientes, desaparecidos, muertos y tareas de rescate",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92d14830-f41f-4873-aa9c-b0eb7d835b59_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/tiempo/20241104/el-tiempo-barcelona-catalunya-lluvias-dana-ultima-hora-directo-111217623",
+        "date": "2024-11-03 22:15:00",
+        "sentiment_score": -0.9166019130498171
+    },
+    {
+        "title": "Aparece un mural de Ilia Topuria en pleno Born de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/03/ciutat-vella/898420247_13667899_1706x960.jpg?contentId=ESPIMA20241103_0098",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/ciutat-vella/20241103/aparece-un-mural-de-ilia-topuria-en-pleno-born-barcelona/898410208_0.html",
+        "date": "2024-11-03 22:06:48",
+        "sentiment_score": -0.0048890262842178345
+    },
+    {
+        "title": "El evento para inspirar y empoderar a futuras líderes de todos los sectores",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/714c6742-8b1b-4f8a-ac51-cd2bd015d9b1_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20241104/evento-inspirar-empoderar-futuras-lideres-111014028",
+        "date": "2024-11-03 22:02:11",
+        "sentiment_score": 0.3327891007065773
+    },
+    {
+        "title": "Afectados por las inundaciones en España lanzan lodo a los reyes y a funcionarios gubernamentales",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/5/8b/58bbb0c9-5bd9-59b0-ab27-14338978f977/672776cd2e06a.image.jpg?resize=300%2C200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/international/afectados-por-las-inundaciones-en-espa-a-lanzan-lodo-a-los-reyes-y-a-funcionarios/article_2813bb82-547c-543f-8c3a-c632dc8baa28.html",
+        "date": "2024-11-03 21:55:16",
+        "sentiment_score": -0.9174780556932092
+    },
+    {
+        "title": "El jugador del Barça que está hundido: \"No tengo fuerzas ni para ir al estadio\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/03/culemania/primer-equipo/898420244_13667812_1706x960.jpg?contentId=ESPIMA20241103_0095",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241103/el-jugador-barca-hundido-no-fuerzas-estadio/898410206_0.html",
+        "date": "2024-11-03 21:28:56",
+        "sentiment_score": -0.8271185019984841
+    },
+    {
+        "title": "Acaba de llegar a Netflix esta mítica serie de TV3 y ya está en el Top 10 más visto de España",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/11/02/67268b145c637.r_d.557-464-4605.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20241103/1002346569/acaba-llegar-netflix-mitica-serie-tv3-esta-top-10-mas-visto-espana-tvp-dct.html",
+        "date": "2024-11-03 21:22:51",
+        "sentiment_score": 0.4822040107101202
+    },
+    {
+        "title": "El brutal registro ofensivo del Barça en Liga que humilla al Real Madrid (y mejora a Xavi)",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/03/culemania/primer-equipo/898420242_13667754_1706x960.jpg?contentId=ESPIMA20241103_0093",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241103/el-registro-barca-liga-real-madrid-xavi/898410194_0.html",
+        "date": "2024-11-03 20:55:34",
+        "sentiment_score": -0.18675893545150757
+    },
+    {
+        "title": "Prorrogan restricciones de tráfico a municipios afectados durante 48 horas por \"riesgo extremo de colapso\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2d19855f-f90c-4005-a503-15ed82712159_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2024/11/03/prorrogan-restricciones-trafico-municipios-afectados-8885281.html",
+        "date": "2024-11-03 20:55:18",
+        "sentiment_score": -0.7108632419258356
+    },
+    {
+        "title": "EEUU | Conozca los nuevos límites de ingresos para solicitar SNAP (+Montos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-conozca-los-nuevos-limites-de-ingresos-para-solicitar-snap-montos--20241131880",
+        "date": "2024-11-03 22:08:00",
+        "sentiment_score": -0.17071124911308289
+    },
+    {
+        "title": "USCIS: Los imprevistos que afectan algunos trámites y cómo resolverlos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/uscis-los-imprevistos-que-afectan-algunos-tramites-y-como-resolverlos-20241131800",
+        "date": "2024-11-03 22:00:00",
+        "sentiment_score": 0.4960855208337307
+    },
+    {
+        "title": "Esto pidió el venezolano acusado de matar a estudiante en Georgia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/esto-pidio-el-venezolano-acusado-de-matar-a-estudiante-en-georgia-202411317440",
+        "date": "2024-11-03 21:44:00",
+        "sentiment_score": -0.8229150231927633
+    },
+    {
+        "title": "Conoce todas las funciones del nuevo servicio streaming Aba TV Go",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conoce-todas-las-funciones-del-nuevo-servicio-streaming-aba-tv-go-202411317340",
+        "date": "2024-11-03 21:34:00",
+        "sentiment_score": 0.5671023931354284
+    },
+    {
+        "title": "¿Cómo verificar el centro de votación y los candidatos de Florida? (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/como-verificar-el-centro-de-votacion-y-los-candidatos-de-florida-detalles--202411317160",
+        "date": "2024-11-03 21:16:00",
+        "sentiment_score": 0.09099486283957958
+    },
+    {
+        "title": "Arrestan a diez PNB por disparar durante un allanamiento ilegal (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/arrestan-a-diez-pnb-por-disparar-durante-un-allanamiento-ilegal-detalles--202411316210",
+        "date": "2024-11-03 20:21:00",
+        "sentiment_score": -0.48641106858849525
+    },
+    {
+        "title": "EEUU: ¿Cuáles son las solicitudes que nunca responde el USCIS?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-cuales-son-las-solicitudes-que-nunca-responde-el-uscis--20241131600",
+        "date": "2024-11-03 20:00:00",
+        "sentiment_score": 0.5036901347339153
+    },
+    {
+        "title": "Así reaccionó Jennifer Lopez al ser cuestionada sobre Sean \"Diddy\" Combs",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730656287612/jennifer-lopez-junto-a-diddy-en-una-de-las-fiestas-salvajes-foto-instagramselmafonseca-BPPRII6SZBBI3MR7HBMYT4FOIE.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/asi-reacciono-jennifer-lopez-al-ser-cuestionada-sobre-sean-diddy-combs-20241131600",
+        "date": "2024-11-03 20:00:00",
+        "sentiment_score": -0.07666821032762527
+    },
+    {
+        "title": "EEUU | ¿Quiénes pueden obtener el Crédito Tributario Adicional por Hijos?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-quienes-pueden-obtener-el-credito-tributario-adicional-por-hijos--202411315530",
+        "date": "2024-11-03 19:53:00",
+        "sentiment_score": 0.031191788613796234
+    },
+    {
+        "title": "¡No pongas estos alimentos en el refrigerador! Cuida su frescura y sabor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/no-pongas-estos-alimentos-en-el-refrigerador-cuida-su-frescura-y-sabor-202411315440",
+        "date": "2024-11-03 19:44:00",
+        "sentiment_score": -0.7513327933847904
     }
 ];
