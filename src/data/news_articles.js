@@ -90,57 +90,6 @@ export default [
         "sentiment_score": -0.8449165923520923
     },
     {
-        "title": "Tiroteos en el centro de Orlando durante celebraciones de Halloween dejan 2 muertos y 6 heridos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775001-tiroteoorlando.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "tiroteos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/01/tiroteos-centro-orlando-halloween-muertos-trax/",
-        "date": "2024-11-01 14:12:42",
-        "sentiment_score": -0.8113395795226097
-    },
-    {
-        "title": "El último reporte de empleo antes de las elecciones muestra que la economía de EE.UU. sumó 12.000 puestos en medio de huelgas y huracanes",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1774988-feria-de-empleo.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "economía",
-            "empleo"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/01/reporte-de-empleo-elecciones-economia-12-000-puestos-huelgas-conflictos-trax/",
-        "date": "2024-11-01 13:26:31",
-        "sentiment_score": -0.002446085214614868
-    },
-    {
-        "title": "El ministro húngaro de Exteriores se burla de la UE en Bielorrusia y critica las sanciones a Putin",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/01/minsk-RbtKZmutFzCYwHyuKSBwVLK-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ministro-hungaro-exteriores-burla-union-europea-foro-20241101134822-nt.html",
-        "date": "2024-11-01 13:08:38",
-        "sentiment_score": -0.1735609918832779
-    },
-    {
-        "title": "El clan Barbakh: así es la familia de Gaza que organiza las protestas propalestinas violentas en Berlín",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/01/protesta-RQkZc5sYAoncTvpCGxnnXBM-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/clan-barbakh-familia-gaza-organiza-protestas-violentas-20241101124902-nt.html",
-        "date": "2024-11-01 12:23:54",
-        "sentiment_score": -0.2632174491882324
-    },
-    {
-        "title": "El BCE bendice avanzar hacia el futuro de los pagos: «Ha llegado el momento de tener un euro digital»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/01/sede-bce-R7p69hQjbSwShojC7okiBPJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bce-bendice-avanzar-futuro-pagos-llegado-momento-20241101124211-nt.html",
-        "date": "2024-11-01 11:43:34",
-        "sentiment_score": -0.01715138554573059
-    },
-    {
         "title": "Críticas a la consejera de Turismo de Valencia por sus palabras hacia los familiares de las víctimas: “No se permitirá el acceso”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/YGK26Q6UB5AMTOKLG7D2Q5V6GM.jpg?auth=9c96d2370f318f5659318544ecc89a587dfa9c363982ef2e77d74fb78e15546f&width=1200",
         "tags": [
@@ -288,41 +237,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-01/las-penurias-de-conseguir-agua-y-alimentos-en-alfafar-solo-nos-quedaba-para-el-desayuno-de-manana.html",
         "date": "2024-11-01 14:33:37",
         "sentiment_score": -0.7144476771354675
-    },
-    {
-        "title": "Iván, el vecino que busca a desaparecidos en su pueblo, Alfafar: “He podido localizar a tres familias”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DUU4ODORBJG4TNNTFYSPGK7I2E.jpg?auth=6174877f53b38ec5e7ba62c493bc7222476b68110ceafa2ba6bacc92c880b9ea&width=1200",
-        "tags": [
-            "solidaridad",
-            "comunidad valenciana",
-            "valencia",
-            "dana",
-            "policía",
-            "alfafar"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-01/ivan-el-vecino-que-busca-a-desaparecidos-en-su-pueblo-alfafar-he-podido-localizar-a-tres-familias.html",
-        "date": "2024-11-01 13:38:51",
-        "sentiment_score": -0.4487409219145775
-    },
-    {
-        "title": "Las imágenes del paso de la dana: la solidaridad vecinal en medio de la catástrofe",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/P7MICUVOOFAPZA63IUAQP4UXWA.JPG?auth=61b3ff431e8e7c8bfe1b82d824ec88ad7f72d5a6247eb1c8df8c6803fdd85f34&width=1200",
-        "tags": [
-            "lluvia",
-            "valencia",
-            "españa",
-            "ume",
-            "lluvias torrenciales",
-            "tormentas",
-            "ejército español",
-            "inundaciones",
-            "inundaciones dana octubre 2024",
-            "voluntarios",
-            "sociedad"
-        ],
-        "link": "https://elpais.com/espana/2024-11-01/las-imagenes-del-paso-de-la-dana-la-solidaridad-vecinal-en-medio-de-la-catastrofe.html",
-        "date": "2024-11-01 11:16:42",
-        "sentiment_score": 0.11004163324832916
     },
     {
         "title": "Victoria Federica elige San Sebastián para una escapada de lujo con amigos y pintxos por la Parte Vieja",
@@ -7403,5 +7317,424 @@ export default [
         "link": "https://2001online.com/usa/servicios/eeuu-recorre-portland-y-garantiza-tu-estadia-en-alguno-de-sus-hoteles-202411416560",
         "date": "2024-11-04 20:56:00",
         "sentiment_score": 0.8361129825934768
+    },
+    {
+        "title": "Así es la vida de Donald Trump: cuántos años tiene, esposa, hijos, estudios, cronología y más",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1704497-gettyimages-2156821290.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "elecciones en ee.uu.",
+            "política",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/04/donald-trump-vida-anos-esposa-hijos-cronologia-trax/",
+        "date": "2024-11-05 02:04:26",
+        "sentiment_score": 0.03685871884226799
+    },
+    {
+        "title": "La Guardia Nacional en alerta en Washington, Oregon y Nevada como medida de precaución ante \"posibles\" disturbios electorales",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1776352-guardia-nacional-disturbios-electorales.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/04/guardia-nacional-washington-oregon-nevada-precaucion-posibles-disturbios-electorales-trax/",
+        "date": "2024-11-05 01:55:53",
+        "sentiment_score": -0.8782839355990291
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 4 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-4-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-05 01:46:46",
+        "sentiment_score": 0.14323829114437103
+    },
+    {
+        "title": "Cómo votar en las elecciones de EE.UU. 2024: cómo marcar, requisitos, identificación y documentos válidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1776134-elecciones-ee-uu.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "votaciones",
+            "elecciones en estados unidos",
+            "elecciones ee.uu. 2024"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/04/como-votar-elecciones-eeuu-2024-orix/",
+        "date": "2024-11-05 01:25:56",
+        "sentiment_score": 0.02241886779665947
+    },
+    {
+        "title": "Padre de Liam Payne visita el cementerio de Buenos Aires donde se preserva el cuerpo del artista antes de su traslado a Reino Unido",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1776372-cementerio-britanico.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "celebridades",
+            "liam payne",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/04/padre-liam-payne-cementerio-buenos-aires-cuerpo-orix/",
+        "date": "2024-11-05 01:18:28",
+        "sentiment_score": 0.00902286171913147
+    },
+    {
+        "title": "Sheinbaum: Vamos a trabajar conjuntamente con quien elija el pueblo de EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21098446-1976313-1430000002-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "claudia sheinbaum",
+            "elecciones ee.uu",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-sheinbaum-respetaremos-decision-pueblo-perspectivas-mexico-tv/",
+        "date": "2024-11-05 01:14:10",
+        "sentiment_score": 0.1549675017595291
+    },
+    {
+        "title": "Sheinbaum: Vamos a trabajar conjuntamente con quien elija el pueblo de EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21098446-1976313-1430000002-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-sheinbaum-respetaremos-decision-pueblo-perspectivas-mexico-tv",
+        "date": "2024-11-05 01:14:10",
+        "sentiment_score": 0.5250129662454128
+    },
+    {
+        "title": "Histórica indemnización de Ikea a presos que fabricaron sus muebles",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fast – general",
+            "ikea",
+            "xpress",
+            "economía",
+            "empresas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ikea-empleo-presos-politicos-pago-trabajadores-alemania-comunista-perspectivas-mexico-tv/",
+        "date": "2024-11-05 01:01:50",
+        "sentiment_score": -0.29580484330654144
+    },
+    {
+        "title": "¿Cómo se elige al presidente y a los miembros del Senado y la Cámara de Estados Unidos?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/colegio-electoral-cnn-como-elige-presidente.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/04/como-se-elige-presidente-estados-unidos-elecciones-orix/",
+        "date": "2024-11-05 01:00:18",
+        "sentiment_score": -0.037396837025880814
+    },
+    {
+        "title": "Harris cierra la campaña electoral en Pensilvania con un mensaje de unidad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182932839.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/harris-democratas-elecciones-cierre-dusa-tv",
+        "date": "2024-11-05 00:40:42",
+        "sentiment_score": 0.28414925932884216
+    },
+    {
+        "title": "El presidente Mazón sale al ataque para exculparse y reclama al Gobierno ayudas equivalentes a todo el presupuesto autonómico",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5HMUTOD2LBO7O72MVPPG5UYD5Q.jpg?auth=72760b2b89f79cb2079903ed60d5a32793221093eb13ea370a4a97843d342abf&width=1200",
+        "tags": [
+            "catástrofes",
+            "españa",
+            "generalitat cataluña",
+            "inundaciones dana octubre 2024",
+            "pp",
+            "cataluña",
+            "cambio climático",
+            "inundaciones",
+            "alberto núñez feijóo",
+            "bomberos",
+            "víctimas",
+            "carlos mazón",
+            "paiporta",
+            "meteorología"
+        ],
+        "link": "https://elpais.com/espana/2024-11-04/el-presidente-mazon-sale-al-ataque-para-exculparse-y-reclama-al-gobierno-ayudas-equivalentes-a-todo-el-presupuesto-autonomico.html",
+        "date": "2024-11-04 23:01:00",
+        "sentiment_score": -0.8586794212460518
+    },
+    {
+        "title": "Los estadounidenses de España, tan divididos como en EEUU: \"No estamos tan polarizados desde la Guerra Civil\"",
+        "image_url": "https://s1.elespanol.com/2024/11/04/reportajes/898670834_250603712_1706x960.jpg?contentId=ESPIMA20241104_0710",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241105/estadounidenses-espana-divididos-eeuu-no-polarizados-guerra-civil/898660549_0.html",
+        "date": "2024-11-05 01:55:49",
+        "sentiment_score": -0.816739596426487
+    },
+    {
+        "title": "¿Habrá romance entre Belinda y Kenia Os? : Sepa más del chisme",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/habra-romance-entre-belinda-y-kenia-os-sepa-mas-del-chisme-202411421450",
+        "date": "2024-11-05 01:45:00",
+        "sentiment_score": 0.035924993455410004
+    },
+    {
+        "title": "Hora a hora, la semana del mayor drama y del caos político: imprevisión y partidismo, hasta que el Rey y Paiporta impusieron la paz",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/f84b4ad302ca8c134389f07301c856d7/f/webp/assets/multimedia/imagenes/2024/11/04/17307571610872.jpg",
+        "tags": [
+            "dana",
+            "comunidad valenciana"
+        ],
+        "link": "https://www.elmundo.es/comunidad-valenciana/2024/11/05/672911d2fdddff05a78b45bd.html",
+        "date": "2024-11-05 00:43:54",
+        "sentiment_score": -0.6787053756415844
+    },
+    {
+        "title": "3 parte | 04 NOV 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3-parte-04-nov-2024-partidazo-cope-20241105_3039838.html",
+        "date": "2024-11-05 00:37:14",
+        "sentiment_score": -0.1001000925898552
+    },
+    {
+        "title": "Lotería Navidad 2024: leyendas y bulos sobre el sorteo",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/10/la-alegria-de-ganar-un-premio-importante-en-la-loteria-de-navidad_d8c3.jpg",
+        "tags": [
+            "lotería de navidad"
+        ],
+        "link": "https://www.telecinco.es/noticias/loterias/loteria-de-navidad/20241105/leyendas-bulos-sorteo-be5m_18_013719448.html",
+        "date": "2024-11-05 00:30:42",
+        "sentiment_score": -0.7659241892397404
+    },
+    {
+        "title": "Peligro de radicalización: Laporta pasa de la Grada y de las peñas del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/25/empresas/797180464_8812115_1706x960.jpg?contentId=ESPIMA20230925_0190",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241105/peligro-de-radicalizacion-laporta-grada-penas-barca/898660234_0.html",
+        "date": "2024-11-05 00:15:40",
+        "sentiment_score": 0.09417419135570526
+    },
+    {
+        "title": "España y yo somos así...",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/04/6728dc685c781.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241105/10077208/espana-asi.html",
+        "date": "2024-11-04 23:30:00",
+        "sentiment_score": 0.44834860414266586
+    },
+    {
+        "title": "Jaén es la capital con la vivienda más asequible: 1.259 euros por metro cuadrado",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/11/05/JAEN-pisos-kaBH-U2201717012177W7D-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/jaen/jaen/jaen-capital-vivienda-asequible-1259-euros-metro-20241105002250-nt.html",
+        "date": "2024-11-04 23:22:50",
+        "sentiment_score": 0.44757208228111267
+    },
+    {
+        "title": "Rey de España se mantuvo firme ante aluvión de lodo. ¿Qué significa este momento para su reinado?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/internacional/articulo/2024-11-04/rey-de-espana-se-mantuvo-firme-ante-aluvion-de-lodo-que-significa-este-momento-para-su-reinado",
+        "date": "2024-11-04 23:10:31",
+        "sentiment_score": -0.16217151284217834
+    },
+    {
+        "title": "El Rey da la cara por el Estado",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/09/pensamiento/884671630_13426998_1706x960.jpg?contentId=ESPIMA20240909_0106",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20241105/el-rey-da-la-cara-por-estado/898790117_13.html",
+        "date": "2024-11-04 23:00:00",
+        "sentiment_score": -0.4400114566087723
+    },
+    {
+        "title": "El residuo orgánico siempre llama dos veces",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/02/6726971742861.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241105/10073292/residuo-organico-siempre-llama-dos-veces.html",
+        "date": "2024-11-05 02:00:00",
+        "sentiment_score": 0.032012924551963806
+    },
+    {
+        "title": "Christian McBride: \"Ray Brown fue un maestro del ritmo y la melodía\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/1b44632eb07c2639e8778f0291447d4e/crop/77x10/3008x1964/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/03/17306581148417.jpg",
+        "tags": [
+            "artículos javier martínez"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/11/05/67252a7de85ece96208b458b.html",
+        "date": "2024-11-05 00:56:25",
+        "sentiment_score": 0.15115656703710556
+    },
+    {
+        "title": "El reciclaje de la electrónica como solución para proteger la capa de ozono",
+        "image_url": "https://s1.elespanol.com/2024/10/19/enclave-ods/opinion/894670798_250145733_1706x960.jpg?contentId=ESPIMA20241019_0274",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/opinion/20241105/reciclaje-electronica-solucion-proteger-capa-ozono/894790519_13.html",
+        "date": "2024-11-05 00:54:23",
+        "sentiment_score": 0.17321538925170898
+    },
+    {
+        "title": "Estudiar a los supervivientes de cánceres avanzados para replicar su patrón en los casos más fulminantes",
+        "image_url": "https://s1.elespanol.com/2024/11/04/invertia/disruptores/ecosistema-startup/startups/898670356_250588623_1706x960.jpg?contentId=ESPIMA20241104_0232",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20241105/estudiar-supervivientes-canceres-avanzados-replicar-patron-casos-fulminantes/898660230_0.html",
+        "date": "2024-11-05 00:50:06",
+        "sentiment_score": 0.47784410044550896
+    },
+    {
+        "title": "Cuatro muertos y un herido dejó colisión de motos en Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "sucesos",
+            "accidentes"
+        ],
+        "link": "https://eltiempove.com/cuatro-muertos-y-un-herido-dejo-colision-de-motos-en-barcelona/",
+        "date": "2024-11-05 00:33:06",
+        "sentiment_score": -0.7949575139209628
+    },
+    {
+        "title": "La alabanza de Antonio Lobato a Max Verstappen tras el Gran Premio de Brasil: \"La mayor exhibición\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el soufflé"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/el-souffle/audios/alabanza-antonio-lobato-max-verstappen-gran-premio-brasil-mayor-exhibicion-20241105_3039822.html",
+        "date": "2024-11-05 00:21:21",
+        "sentiment_score": -0.034067124128341675
+    },
+    {
+        "title": "El Barça reduce la reclamación a Libero: de 40 a 15 millones",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/26/culemania/palco/881171974_13382303_1706x960.jpg?contentId=ESPIMA20240826_0100",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241105/el-barca-reduce-la-reclamacion-libero-millones/898660268_0.html",
+        "date": "2024-11-05 00:17:04",
+        "sentiment_score": 0.6546389944851398
+    },
+    {
+        "title": "El Barça debe 88 millones de euros por los fichajes que Laporta hizo en 2022 con las palancas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/01/16/culemania/palco/palco_3759730_321004_1706x960.jpg?contentId=ESPIMA20150116_0106",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241105/el-barca-millones-euros-fichajes-laporta-conlaspalancas/898660257_0.html",
+        "date": "2024-11-05 00:15:59",
+        "sentiment_score": -0.10948251187801361
+    },
+    {
+        "title": "Barcelona es escenario de la nueva campaña de Louis Vuitton",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "louis vuitton",
+            "parque güell"
+        ],
+        "link": "https://elestimulo.com/ub/moda/2024-11-04/barcelona-campana-louis-vuitton/",
+        "date": "2024-11-04 23:37:44",
+        "sentiment_score": 0.8354894146323204
+    },
+    {
+        "title": "EEUU | ¿Cuáles son los horarios para votar en Illinois e Indiana?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-cuales-son-los-horarios-para-votar-en-illinois-e-indiana--202411421460",
+        "date": "2024-11-05 01:46:00",
+        "sentiment_score": -0.030362993478775024
+    },
+    {
+        "title": "Desde este país centroamericano podrás volar a Miami sin escala (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/desde-este-pais-centroamericano-podras-volar-a-miami-sin-escala-detalles--202411421310",
+        "date": "2024-11-05 01:31:00",
+        "sentiment_score": 0.12320441007614136
+    },
+    {
+        "title": "Illinois | Arranca el programa \"Skip-The-Line\" para solicitar licencia de conducir",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/illinois-arranca-el-programa-skip-the-line-para-solicitar-licencia-de-conducir-202411421240",
+        "date": "2024-11-05 01:24:00",
+        "sentiment_score": 0.016179494559764862
+    },
+    {
+        "title": "EEUU: ¿Cómo puedes convertirte en notario y qué necesitas?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-como-puedes-convertirte-en-notario-y-que-necesitas--20241142180",
+        "date": "2024-11-05 01:08:00",
+        "sentiment_score": -0.030086390674114227
+    },
+    {
+        "title": "INTT: Trámite que debe realizar si realizó modificaciones a su vehículo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/intt-tramite-que-debe-realizar-si-realizo-modificaciones-a-su-vehiculo--202411420590",
+        "date": "2024-11-05 00:59:00",
+        "sentiment_score": 0.43321533128619194
+    },
+    {
+        "title": "EEUU: La moneda de 10 centavos que puede valer más de un millón de dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1730766300298/1.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-la-moneda-de-10-centavos-que-puede-valer-mas-de-un-millon-de-dolares-202411420230",
+        "date": "2024-11-05 00:23:00",
+        "sentiment_score": -0.7596541065722704
+    },
+    {
+        "title": "Maduro responde | ¿Cuál candidato de EEUU le conviene más a Venezuela?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-responde-cual-candidato-de-eeuu-le-conviene-mas-a-venezuela--20241142070",
+        "date": "2024-11-05 00:07:00",
+        "sentiment_score": 0.17898448184132576
+    },
+    {
+        "title": "CICPC: ¿Qué debe hacer si es víctima de extorsión?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/cicpc-que-debe-hacer-si-es-victima-de-extorsion--20241142010",
+        "date": "2024-11-05 00:01:00",
+        "sentiment_score": -0.7442884687334299
+    },
+    {
+        "title": "Elecciones EEUU | Documentos necesarios para votar este #5Nov",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/elecciones-eeuu-documentos-necesarios-para-votar-este-5nov--20241142000",
+        "date": "2024-11-05 00:00:00",
+        "sentiment_score": -0.20033812522888184
     }
 ];
