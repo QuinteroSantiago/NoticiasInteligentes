@@ -41,109 +41,6 @@ export default [
         "sentiment_score": -0.7319918610155582
     },
     {
-        "title": "La palabra basura se ha convertido en eje de las campañas presidenciales en EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182002633.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones en estados unidos",
-            "elecciones en ee.uu.",
-            "noticias de donald trump",
-            "campaña presidencial"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-harris-basura-elecciones-choque-dusa-tv/",
-        "date": "2024-11-02 13:00:29",
-        "sentiment_score": -0.26300425827503204
-    },
-    {
-        "title": "Cómo el \"dinero negro\" de Rusia podría amañar las elecciones presidenciales en Moldavia",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775415-elecciones-en-moldavia.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "europa",
-            "moldavia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/02/dinero-negro-rusia-amanar-elecciones-presidenciales-moldavia-trax/",
-        "date": "2024-11-02 12:15:50",
-        "sentiment_score": -0.08804188668727875
-    },
-    {
-        "title": "Así podría impactar la economía verde en la crisis climática, según experto",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2159697919.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "cambio climático",
-            "energías limpias",
-            "energías renovables",
-            "desastres naturales",
-            "medio ambiente"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/impacto-economia-verde-crisis-climatica-globoeconomia-fast/",
-        "date": "2024-11-02 12:00:15",
-        "sentiment_score": -0.29653315246105194
-    },
-    {
-        "title": "ANÁLISIS | Qué puede esperar la comunidad latina de estas elecciones en EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-911522-voto-latino-latinos-elecciones-biden.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones en ee.uu.",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/02/analisis-que-esperar-comunidad-latina-elecciones-ee-uu/",
-        "date": "2024-11-02 11:44:54",
-        "sentiment_score": -0.1696590632200241
-    },
-    {
-        "title": "A medida que las mujeres superan a los hombres en la participación anticipada, el desafío de Trump para ganarse a las votantes femeninas se hace más evidente",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775407-trump.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "harris trump",
-            "harris",
-            "elecciones en estados unidos",
-            "noticias de donald trump",
-            "elecciones estados unidos 2024"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/02/trump-mujeres-voto-brecha-de-genero-harris-trax/",
-        "date": "2024-11-02 10:43:10",
-        "sentiment_score": -0.8758350685238838
-    },
-    {
-        "title": "Kemi Badenoch, la mujer que sería capaz de cruzar la calle para iniciar una pelea",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/02/kemi-RwwOEkx73aCmhCso8wweFRO-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/kemi-badenoch-mujer-capaz-cruzar-calle-iniciar-20241102140940-nt.html",
-        "date": "2024-11-02 13:09:41",
-        "sentiment_score": -0.07608941197395325
-    },
-    {
-        "title": "Trump amplía su ventaja sobre Kamala Harris en el estado clave de Nevada",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/22/encuesta-diaria-1200x840-U603239503019szG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/encuestas-elecciones-estados-unidos-trump-harris-20241102152426-nt.html",
-        "date": "2024-11-02 13:08:08",
-        "sentiment_score": -0.0722452700138092
-    },
-    {
-        "title": "La tormenta Sánchez",
-        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/10/30/contenedores-U01860482412ocj-170x119@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jesus-lillo-tormenta-sanchez-20241103122956-nt.html",
-        "date": "2024-11-02 11:30:03",
-        "sentiment_score": -0.057777971029281616
-    },
-    {
-        "title": "Podemos amenaza con tumbar el paquete fiscal pactado por Hacienda con PNV y Junts si no hay impuesto a las energéticas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/02/MonteroBelarra-R3GvVYyFWBsIhBWFK0sdqZM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/podemos-amenaza-tumbar-paquete-fiscal-pactado-hacienda-20241102111604-nt.html",
-        "date": "2024-11-02 10:17:29",
-        "sentiment_score": -0.030597269535064697
-    },
-    {
         "title": "Masiva respuesta de voluntarios y numerosas críticas a la organización: “Sientes una importancia tremenda”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/3V4JGSPCMVAL7E5NGFOVP4CDXY.jpg?auth=905f17714aea542c265a660a3ecf255c7982bf679f77bf3cf2c005c0831315be&width=1200",
         "tags": [
@@ -152,59 +49,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-02/masiva-respuesta-de-voluntarios-y-numerosas-criticas-a-la-organizacion-hemos-visto-a-gente-sufriendo-mucho.html",
         "date": "2024-11-02 16:24:05",
         "sentiment_score": -0.8354655504226685
-    },
-    {
-        "title": "Protección Civil envía otro mensaje de alerta por las lluvias a los ciudadanos de Terres de l’Ebre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SSK3GODCGBBN5D2VB247M7EG5U.jfif?auth=43764aa241c3c71e4e6ae752eccf98b89cc7918adc128f60fe899e3bf48ea25a&width=1200",
-        "tags": [
-            "protección civil",
-            "tarragona",
-            "cataluña",
-            "inundaciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-02/proteccion-civil-envia-otro-mensaje-de-alerta-por-la-dana-a-los-ciudadanos-de-terres-de-lebre.html",
-        "date": "2024-11-02 13:53:58",
-        "sentiment_score": -0.8274000324308872
-    },
-    {
-        "title": "Sánchez envía 5000 militares, duplica el número de policías y emplaza a Mazón a que solicite más ayuda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3M7VU7XRWMKLJNUDYCQIHRUIBE.jpg?auth=cee013ce4f5ac6652c6c69ab636bb36bd75f8dac40e64efe887f98800f460767&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "desastres naturales",
-            "carlos mazón",
-            "lluvias torrenciales",
-            "pp",
-            "víctimas",
-            "ume",
-            "pedro sánchez",
-            "dana",
-            "psoe",
-            "ejército español",
-            "meteorología",
-            "españa",
-            "valencia",
-            "climas"
-        ],
-        "link": "https://elpais.com/espana/2024-11-02/sanchez-envia-5000-militares-duplica-el-numero-de-policias-y-emplaza-a-mazon-a-que-solicite-mas-ayuda.html",
-        "date": "2024-11-02 11:03:41",
-        "sentiment_score": -0.7375675085932016
-    },
-    {
-        "title": "Las imágenes del paso de la dana en Valencia: la búsqueda de víctimas mortales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LOGI64L2O5FLTITS5IC5ELSE4A.jpg?auth=3e4fc56168799438afafdf11b951c611c10a40f417ca425e99da932e8d05f07f&width=1200",
-        "tags": [
-            "lluvias torrenciales",
-            "voluntarios",
-            "inundaciones",
-            "valencia antiga",
-            "españa",
-            "tormentas",
-            "sociedad"
-        ],
-        "link": "https://elpais.com/espana/2024-11-02/las-imagenes-del-paso-de-la-dana-en-valencia-la-busqueda-de-victimas-mortales.html",
-        "date": "2024-11-02 10:36:37",
-        "sentiment_score": 0.3240676671266556
     },
     {
         "title": "Ilia Topuria se pica con Cristiano Ronaldo: «No esperaba que no supieras distinguir entre la confianza y la arrogancia»",
@@ -7279,5 +7123,342 @@ export default [
         "link": "https://www.epe.es/es/activos/20241106/ayuntamientos-pp-psoe-torpedean-ultimo-111409361",
         "date": "2024-11-05 22:14:26",
         "sentiment_score": -0.40552566945552826
+    },
+    {
+        "title": "Consejos para lidiar con las emociones durante las elecciones en Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182488254.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos",
+            "emociones",
+            "fast – news variety",
+            "salud mental",
+            "elecciones ee.uu. 2024",
+            "videos digitales",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lidiar-emociones-elecciones-ee-uu-minuto-de-salud-fast/",
+        "date": "2024-11-06 01:56:35",
+        "sentiment_score": -0.1395503729581833
+    },
+    {
+        "title": "Consejos para lidiar con las emociones durante las elecciones en Estados Unidos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lidiar-emociones-elecciones-ee-uu-minuto-de-salud-fast",
+        "date": "2024-11-06 01:56:35",
+        "sentiment_score": 0.05057036876678467
+    },
+    {
+        "title": "OPINIÓN | La democracia en EE.UU. está entre las mayores preocupaciones de los votantes, según encuestas a boca de urna",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173239432-20241106012729281.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/preocupacion-votantes-elecciones-eeuu-ush-dusa",
+        "date": "2024-11-06 01:37:39",
+        "sentiment_score": -0.24836469814181328
+    },
+    {
+        "title": "OPINIÓN | La democracia en EE.UU. está entre las mayores preocupaciones de los votantes, según encuestas a boca de urna",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173239432-20241106012729281.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/preocupacion-votantes-elecciones-eeuu-ush-dusa/",
+        "date": "2024-11-06 01:37:39",
+        "sentiment_score": -0.13495796918869019
+    },
+    {
+        "title": "Desesperación en Valencia por el lento avance de la ayuda tras la inundaciones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181595067.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/espana-ayuda-desesperacion-residentes-valencia-inundaciones",
+        "date": "2024-11-06 01:37:13",
+        "sentiment_score": -0.861429350450635
+    },
+    {
+        "title": "Desesperación en Valencia por el lento avance de la ayuda tras la inundaciones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181595067.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa",
+            "dana",
+            "valencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/espana-ayuda-desesperacion-residentes-valencia-inundaciones/",
+        "date": "2024-11-06 01:37:13",
+        "sentiment_score": -0.8256391696631908
+    },
+    {
+        "title": "¿Por qué estos votantes de los estados clave eligieron a Trump?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-votos.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/votantes-estados-disputados-trump-ush-trax/",
+        "date": "2024-11-06 01:36:23",
+        "sentiment_score": -0.42062457650899887
+    },
+    {
+        "title": "¿Por qué estos votantes de los estados clave eligieron a Trump?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-votos.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/votantes-estados-disputados-trump-ush-trax",
+        "date": "2024-11-06 01:36:23",
+        "sentiment_score": -0.7518943250179291
+    },
+    {
+        "title": "Esto opinan algunos latinos tras votar en las elecciones de Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-6.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/santana-votantes-latinos-elecciones-2024-ush-lkl/",
+        "date": "2024-11-06 01:34:42",
+        "sentiment_score": -0.09650921821594238
+    },
+    {
+        "title": "Esto opinan algunos latinos tras votar en las elecciones de Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-6.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/santana-votantes-latinos-elecciones-2024-ush-lkl",
+        "date": "2024-11-06 01:34:42",
+        "sentiment_score": -0.19514961913228035
+    },
+    {
+        "title": "Las anécdotas de la jornada electoral estadounidense: problemas con Google, detenciones por amenazas de bomba y la sombra de Rusia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/06/anecdotas-kQVF-U603309409169b9B-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/anecdotas-jornada-electoral-estadounidense-problemas-google-detencion-20241106024006-nt.html",
+        "date": "2024-11-06 01:45:09",
+        "sentiment_score": -0.10956676304340363
+    },
+    {
+        "title": "El rechazo de CEOE a la reducción de jornada abre la puerta a que Yolanda Díaz retire las ayudas ofrecidas a las empresas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/05/1462129139-RUjXh825ft1rjv2OG73ekGJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/rechazo-ceoe-reduccion-jornada-abre-puerta-yolanda-20241105024418-nt.html",
+        "date": "2024-11-06 01:44:31",
+        "sentiment_score": -0.03579697012901306
+    },
+    {
+        "title": "Escrito con dolor",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/06/241106TerceraGomez-kvPH-Rts9j3pGl2rkNqX9RV8EGSM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/javier-gomez-de-liano-escrito-dolor-20241106003058-nt.html",
+        "date": "2024-11-05 23:31:43",
+        "sentiment_score": -0.04405254125595093
+    },
+    {
+        "title": "Sánchez busca recobrar la iniciativa con un plan millonario mientras se rebaja la tensión política",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GKIXB3ZL6UR5GA7BIK23D2SD7M.jpg?auth=7d3eba622509f0a2d5a377b21a69d83495ba5348f1bd924fa9c5e4655b4eebe7&width=1200",
+        "tags": [
+            "extrema derecha",
+            "comunidad valenciana",
+            "paiporta",
+            "felipe vi",
+            "inundaciones",
+            "españa",
+            "pp",
+            "carlos mazón",
+            "vox",
+            "alberto núñez feijóo",
+            "pedro sánchez",
+            "fake news",
+            "generalitat valenciana",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/2024-11-05/sanchez-busca-recobrar-la-iniciativa-con-un-plan-millonario-mientras-se-rebaja-la-tension-politica.html",
+        "date": "2024-11-05 23:00:00",
+        "sentiment_score": -0.8778574243187904
+    },
+    {
+        "title": "El izquierdista Bernie Sanders, reelegido senador por Vermont en las elecciones de EEUU",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d8d2e33d-89d9-42a2-adb6-a25c2a4ce9e5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/11/06/bernie-sanders-reelegido-senador-vermont-estados-unidos-111417890.html",
+        "date": "2024-11-06 02:07:02",
+        "sentiment_score": -0.001057259738445282
+    },
+    {
+        "title": "Ancelotti responde a la crítica de Mina Bonino, mujer de Fede Valverde",
+        "image_url": "https://cflvdg.avoz.es/sc/QbavSARX06_JrUw1DZJgII3a0pA=/768x/2023/01/16/00121673876933717858832/Foto/Mina-Bonino-Fede-Valverde.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "fede valverde",
+            "carlo ancelotti"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/11/06/ancelotti-responde-critica-mina-bonino-mujer-fede-valverde/00031730857299002992736.htm",
+        "date": "2024-11-06 01:47:00",
+        "sentiment_score": -0.6518853791058064
+    },
+    {
+        "title": "FIFA dicta las reglas del Mundial de Clubes 2025 en EEUU",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24308075535343-e1730857548298.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "fifa"
+        ],
+        "link": "https://eldiariony.com/2024/11/05/fifa-dicta-las-reglas-del-mundial-de-clubes-2025-en-eeuu/",
+        "date": "2024-11-06 01:46:41",
+        "sentiment_score": 0.1618731990456581
+    },
+    {
+        "title": "Lunin, hundido tras la derrota del Real Madrid: «No te puedo decir buenas noches»",
+        "image_url": "https://cflvdg.avoz.es/sc/nYEY9QSrq7lGHH3k4uDNunJ3Z1Q=/768x/2024/11/06/00121730856351206324163/Foto/EuropaPress_6212073_andriy_lunin_of_real_madrid_cf_looks_on_prior_to_the_laliga_ea_sports_match-EP.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/11/06/lunin-hundido-tras-derrota-real-madrid-puedo-decir-buenas-noches/00031730856543143318443.htm",
+        "date": "2024-11-06 01:38:00",
+        "sentiment_score": -0.11663275957107544
+    },
+    {
+        "title": "Los cerdos de engorde, la nueva 'mina de oro' para el biogás: la especulación por comprar sus heces se dispara",
+        "image_url": "https://s1.elespanol.com/2023/10/27/invertia/empresas/energia/805179919_237148766_1706x960.jpg?contentId=ESPIMA20231027_0445",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20241106/cerdos-engorde-nueva-mina-oro-biogas-especulacion-comprar-heces-dispara/898910521_0.html",
+        "date": "2024-11-06 01:24:20",
+        "sentiment_score": 0.624850120395422
+    },
+    {
+        "title": "Real Madrid y el Man City sufrieron sendas humillaciones en la Champions",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/194970/real-madrid-y-el-man-city-sufrieron-sendas-humillaciones-en-la-champions/",
+        "date": "2024-11-06 01:24:13",
+        "sentiment_score": -0.5344829708337784
+    },
+    {
+        "title": "Los equipos con más patrocinadores de la Champions: solo uno supera al Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/06/culemania/palco/899170076_13680437_1706x960.jpg?contentId=ESPIMA20241106_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241106/los-equipos-patrocinadores-champions-solo-supera-barca/899160076_0.html",
+        "date": "2024-11-06 01:19:16",
+        "sentiment_score": 0.7835504971444607
+    },
+    {
+        "title": "El Real Madrid sigue de bajón y naufraga ante el Milan",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/38ead75b-0ca0-4f7d-968b-9a79910134b1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/futbol/2024/11/06/champions-league-real-madrid-sigue-bajon-milan-8896105.html",
+        "date": "2024-11-06 01:19:16",
+        "sentiment_score": -0.9047476919367909
+    },
+    {
+        "title": "Resultados de las elecciones en Estados Unidos 2024: así está el escrutinio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e07d6107-5c20-42bc-9ed0-3e461432c64c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/11/06/resultados-elecciones-estados-unidos-2024-111417692.html",
+        "date": "2024-11-06 00:59:48",
+        "sentiment_score": -0.18100416660308838
+    },
+    {
+        "title": "El agujero económico del Barça en la Champions: 165 millones menos que el Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/05/culemania/palco/898920278_13679626_1706x960.png?contentId=ESPIMA20241105_0179",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241106/el-economico-barca-champions-millones-real-madrid/898910233_0.html",
+        "date": "2024-11-06 00:58:39",
+        "sentiment_score": 0.2353038713335991
+    },
+    {
+        "title": "Bravas, música y optimismo: así viven la noche electoral los estadounidenses en Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/90876bd2-6c98-4feb-a106-50f670967969_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elperiodico.com/es/internacional/20241106/elecciones-eeuu-barcelona-estadounidenses-noche-electoral-111418649",
+        "date": "2024-11-06 02:09:44",
+        "sentiment_score": -0.1241312325000763
+    },
+    {
+        "title": "La DANA y las lluvias de otoño llenan los embalses catalanes y alejan las restricciones de agua",
+        "image_url": "http://www.publico.es//files/crop/uploads/2024/11/05/672a53f1cd0c3.r_16.0-0-1920-1280.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "http://www.publico.es/sociedad/dana-lluvias-otono-llenan-embalses-catalanes-alejan-restricciones-agua.html",
+        "date": "2024-11-06 01:55:00",
+        "sentiment_score": 0.6083402931690216
+    },
+    {
+        "title": "Mikel Oyarzabal, a punto de ser centenario",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b2a285dc-fdcd-4ce5-a492-752150a24439_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/11/06/mikel-oyarzabal-punto-centenario-8895327.html",
+        "date": "2024-11-06 01:40:58",
+        "sentiment_score": 0.07974439859390259
+    },
+    {
+        "title": "Mikel Oyarzabal, un valor seguro desde los once metros",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e82fbe24-7c7b-45ce-af62-5c161c197fb7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/11/06/real-sociedad-oyarzabal-seguro-once-8895388.html",
+        "date": "2024-11-06 01:40:07",
+        "sentiment_score": 0.7330733686685562
+    },
+    {
+        "title": "La generación de cristal no se rompe por la DANA: Mario, Blanca, Santi... los veinteañeros dan la cara en Valencia",
+        "image_url": "https://s1.elespanol.com/2024/11/05/reportajes/898920970_250636544_1706x960.jpg?contentId=ESPIMA20241105_0871",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241106/generacion-cristal-no-rompe-dana-mario-blanca-santi-veinteaneros-dan-cara-valencia/898910658_0.html",
+        "date": "2024-11-06 01:33:25",
+        "sentiment_score": -0.928223610855639
+    },
+    {
+        "title": "AltamarCAM lanza un fondo de 200 millones para invertir en las estrategias más exclusivas de Bain Capital",
+        "image_url": "https://s1.elespanol.com/2024/11/05/invertia/mis-finanzas/fondos-de-inversion/898920920_250635040_1706x960.jpg?contentId=ESPIMA20241105_0821",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20241106/altamarcam-lanza-fondo-millones-invertir-estrategias-exclusivas-bain-capital/898910648_0.html",
+        "date": "2024-11-06 01:24:16",
+        "sentiment_score": 0.10946190916001797
+    },
+    {
+        "title": "El Estrella Roja sí fue el ejército armado de Serbia",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/05/culemania/culemaniacos/898920240_13678443_1706x960.jpg?contentId=ESPIMA20241105_0141",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241106/el-estrella-roja-fue-ejercito-armado-serbia/898910160_0.html",
+        "date": "2024-11-06 00:58:14",
+        "sentiment_score": 0.05994178354740143
     }
 ];
