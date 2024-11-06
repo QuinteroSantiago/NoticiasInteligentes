@@ -1,343 +1,5 @@
 export default [
     {
-        "title": "Los neoyorquinos han cruzado mal la calle durante décadas. Ahora es legal, pero los turistas deberían pensarlo dos veces antes de hacer lo mismo",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775463-gettyimages-1943409413.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/02/neoyorquinos-cruzar-mal-calle-decadas-ahora-legal-turistas-trax/",
-        "date": "2024-11-02 16:40:54",
-        "sentiment_score": -0.581366628408432
-    },
-    {
-        "title": "Un jurado condena a un exoficial de Kentucky por usar fuerza excesiva contra Breonna Taylor durante una redada mortal",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/condena-policia.jpg?quality=100&strip=info",
-        "tags": [
-            "crimen"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/02/condena-exoficial-kentucky-uso-de-la-fuerza-excesiva-breonna-taylor-ap/",
-        "date": "2024-11-02 16:14:09",
-        "sentiment_score": -0.8904755944386125
-    },
-    {
-        "title": "Hugh Hewitt renuncia a The Washington Post tras abandonar en vivo el programa del periódico",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775450-ap24054066277843-copy-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/02/hugh-hewitt-renuncia-washington-post-en-vivo-programa-trax/",
-        "date": "2024-11-02 15:43:04",
-        "sentiment_score": -0.8311030194163322
-    },
-    {
-        "title": "El líder supremo de Irán promete una respuesta \"rompedora de dientes\" a Israel y EE.UU. tras los ataques contra sitios militares",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775445-lider-supremo-iran.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "irán",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/02/lider-supremo-iran-promete-respuesta-rompedora-de-dientes-israel-y-ee-uu-trax/",
-        "date": "2024-11-02 15:10:44",
-        "sentiment_score": -0.7319918610155582
-    },
-    {
-        "title": "Masiva respuesta de voluntarios y numerosas críticas a la organización: “Sientes una importancia tremenda”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3V4JGSPCMVAL7E5NGFOVP4CDXY.jpg?auth=905f17714aea542c265a660a3ecf255c7982bf679f77bf3cf2c005c0831315be&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-02/masiva-respuesta-de-voluntarios-y-numerosas-criticas-a-la-organizacion-hemos-visto-a-gente-sufriendo-mucho.html",
-        "date": "2024-11-02 16:24:05",
-        "sentiment_score": -0.8354655504226685
-    },
-    {
-        "title": "Ilia Topuria se pica con Cristiano Ronaldo: «No esperaba que no supieras distinguir entre la confianza y la arrogancia»",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/11/02/topuria-se-pica-con-cristiano-kJ1C-U2201692356355AME-1200x840@El%20Correo.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/deportes/ilia-topuria-pica-cristiano-ronaldo-esperaba-supieras-20241102173726-nt.html",
-        "date": "2024-11-02 16:37:27",
-        "sentiment_score": 0.35493993759155273
-    },
-    {
-        "title": "La UEFA se pronuncia ante supuestos comentarios sobre Vinícius",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/la-uefa-se-pronuncia-ante-supuestos-comentarios-sobre-vinicius-202411212300",
-        "date": "2024-11-02 16:30:00",
-        "sentiment_score": -0.7068744618445635
-    },
-    {
-        "title": "Se busca hueco para el aplazado Valencia-Real Madrid",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/02/mestalla-fecha-valencia-realmadrid-k74-U2201692067562g7G-1200x840@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/calendario-aplazado-valencia-realmadrid-20241102171910-ntrc.html",
-        "date": "2024-11-02 16:29:29",
-        "sentiment_score": -0.07409068569540977
-    },
-    {
-        "title": "Se busca hueco para el aplazado Valencia-Real Madrid",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/02/mestalla-fecha-valencia-realmadrid-k74-U2201692067562g7G-1200x840@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/deportes/futbol/liga-primera/calendario-aplazado-valencia-realmadrid-20241102171910-ntrc.html",
-        "date": "2024-11-02 16:29:29",
-        "sentiment_score": -0.742020383477211
-    },
-    {
-        "title": "Valverde: “Hay cosas mucho más importantes que el fútbol”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d21cb3e2-177b-4612-b5a5-ba23662bfe8b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2024/11/02/valverde-hay-cosas-importantes-futbol-8881935.html",
-        "date": "2024-11-02 16:28:46",
-        "sentiment_score": 0.37083016335964203
-    },
-    {
-        "title": "El Arsenal y el recordatorio crucial: los campeonatos se forjan en partidos como el de Newcastle",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/02/2024110217142555785.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/arsenal-que-recordarle-que-titulos-premier-ganan-partidos-como-newcastle/20241102171739322644.html",
-        "date": "2024-11-02 16:17:39",
-        "sentiment_score": -0.9266415555030107
-    },
-    {
-        "title": "El cocinero Ricard Camarena, en Cheste: “Hoy vamos a llenar tres tráilers con más de 25.000 raciones de comida”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UQC7YONJWRAPPHWJ2S76DTHE6E.jpeg?auth=02d86bc41d8b56dae26e91eb248269eab97c353cf7d50fd7becd3095dafb8bdf&width=1200",
-        "tags": [
-            "lluvias torrenciales",
-            "guisos de españa",
-            "world central kitchen",
-            "inundaciones dana octubre 2024",
-            "inundaciones",
-            "solidaridad",
-            "cocineras",
-            "comunidad valenciana",
-            "lluvia",
-            "valencia",
-            "gastronomía",
-            "cocineros"
-        ],
-        "link": "https://elpais.com/gastronomia/2024-11-02/el-cocinero-ricard-camarena-en-cheste-hoy-vamos-a-llenar-tres-trailers-con-mas-de-25000-raciones-de-comida.html",
-        "date": "2024-11-02 15:56:25",
-        "sentiment_score": -0.0048722028732299805
-    },
-    {
-        "title": "Desigualdad habitacional en España: el abismo entre barrios de lujo y zonas de bajos ingresos",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/02/2024110218051625222.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/desigualdad-habitacional-espana-abismo-barrios-lujo-zonas-bajos-ingresos/20241102180848322648.html",
-        "date": "2024-11-02 17:08:48",
-        "sentiment_score": 0.11817041039466858
-    },
-    {
-        "title": "El Observatorio de Acción Climática pasa examen a las ciudades: ¿qué hacen para adaptarse al cambio?",
-        "image_url": "https://s1.elespanol.com/2024/11/02/enclave-ods/noticias/898170288_250556147_1706x960.jpg?contentId=ESPIMA20241102_0114",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/noticias/20241102/observatorio-accion-climatica-pasa-examen-ciudades-hacen-adaptarse-cambio/898160215_0.html",
-        "date": "2024-11-02 17:06:53",
-        "sentiment_score": -0.10195653140544891
-    },
-    {
-        "title": "El Tarazona busca seguir en la parte más alta de la clasificación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/027cd34d-b3b4-4a2a-bdde-c668753130d8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2024/11/02/tarazona-busca-seguir-parte-alta-111233316.html",
-        "date": "2024-11-02 17:02:15",
-        "sentiment_score": 0.0481230765581131
-    },
-    {
-        "title": "Se restablecen los servicios de Media Distancia entre València-Teruel-Zaragoza",
-        "image_url": "https://www.diariodeteruel.es/uploads/diariodeteruel/contenidos/c_71245_tren-estacion-teruel.jpg",
-        "tags": [
-            "teruel"
-        ],
-        "link": "https://www.diariodeteruel.es/teruel/se-restablecen-los-servicios-de-media-distancia-entre-valencia-castello-vinaros-y-valencia-teruel-zaragoza-para-facilitar-los-desplazamientos-imprescindibles",
-        "date": "2024-11-02 16:47:00",
-        "sentiment_score": -0.6902929190546274
-    },
-    {
-        "title": "Las nuevas familias desplazan a las tradicionales, pero la economía no se ha dado cuenta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XNTKIOZAIVDIDAIW5GIHTVUWW4.jpg?auth=0cf7ea38b0bed180bad5529dcfd975a8141813632ea7750b95a663bca5dab45a&width=1200",
-        "tags": [
-            "familia",
-            "salarios",
-            "seguridad social",
-            "natalidad",
-            "vivienda",
-            "envejecimiento población",
-            "pensiones",
-            "hijos",
-            "población",
-            "familia monoparental",
-            "trabajo",
-            "economía",
-            "consumo",
-            "servicios sociales",
-            "empleo",
-            "prestaciones",
-            "pib"
-        ],
-        "link": "https://elpais.com/economia/negocios/2024-11-02/las-nuevas-familias-desplazan-a-las-tradicionales-pero-la-economia-no-se-ha-dado-cuenta.html",
-        "date": "2024-11-02 16:45:00",
-        "sentiment_score": 0.2140200436115265
-    },
-    {
-        "title": "Cortadas dos líneas más de Rodalies en Tarragona por inundaciones en la vía",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/02/vida/898170218_13664183_1706x960.jpg?contentId=ESPIMA20241102_0044",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20241102/cortadas-dos-lineas-rodalies-en-tarragona-inundaciones/898160212_0.html",
-        "date": "2024-11-02 16:41:07",
-        "sentiment_score": -0.12871405482292175
-    },
-    {
-        "title": "El teléfono de emergencias 112 ha recibido hasta esta tarde 819 llamadas por la DANA en Catalunya",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3aa42d1-b1e1-4cb2-bf7b-022cc8357788_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/tiempo/20241102/telefono-emergencias-112-recibido-tarde-llamadas-dana-catalunya-111235263",
-        "date": "2024-11-02 16:38:39",
-        "sentiment_score": -0.11930860206484795
-    },
-    {
-        "title": "Arrasan con la comida de los supermercados de Barcelona tras la DANA en Valencia",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/02/el-pulso-de-la-ciudad/898170215_13664096_1706x960.jpg?contentId=ESPIMA20241102_0041",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20241102/arrasan-con-la-comida-de-los-supermercados-barcelona-tras-dana-en-valencia/898160211_0.html",
-        "date": "2024-11-02 16:33:24",
-        "sentiment_score": -0.8689184682443738
-    },
-    {
-        "title": "Las alertas por fuertes lluvias se activarán este domingo en Valencia, Cataluña, Aragón y Murcia",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/10/30/inundaciones-en-teruel-2.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2024/11/02/las-alertas-por-fuertes-lluvias-se-activaran-este-domingo-en-valencia-cataluna-aragon-y-murcia-1774743.html",
-        "date": "2024-11-02 16:25:31",
-        "sentiment_score": -0.7695247530937195
-    },
-    {
-        "title": "El Real Club Tenis Barcelona, campeón de España en el Murcia CT",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a1e7f74d-eb8e-4c9e-8e37-085a64ee1c4a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2024/11/02/real-club-tenis-barcelona-campeon-111231241.html",
-        "date": "2024-11-02 16:23:56",
-        "sentiment_score": 0.4676339700818062
-    },
-    {
-        "title": "Sin importar su tamaño, así podrás darles utilidad a los pasillos de casa",
-        "image_url": "https://pxcdn.2001online.com/2001/102024/1730313251785/pasillo-con-mueble-bajo-abierto-00566547_f0e4340a_230721185343_1333x2000.jpeg",
-        "tags": [
-            "variedades - decoración"
-        ],
-        "link": "https://2001online.com/zona3d/decoracion/sin-importar-su-tamano-asi-podras-darles-utilidad-a-los-pasillos-de-casa-20241121300",
-        "date": "2024-11-02 17:00:00",
-        "sentiment_score": 0.7029693936929107
-    },
-    {
-        "title": "Moa Rivera estrena el video musical de “Mal Necesario”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/moa-rivera-estrena-el-video-musical-de-mal-necesario--20241121300",
-        "date": "2024-11-02 17:00:00",
-        "sentiment_score": 0.02056679129600525
-    },
-    {
-        "title": "Elecciones EEUU 2024 | ¿Abrirán las entidades bancarias este #5Nov?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/elecciones-eeuu-2024-abriran-las-entidades-bancarias-este-5nov--202411212350",
-        "date": "2024-11-02 16:35:00",
-        "sentiment_score": 0.6326906140893698
-    },
-    {
-        "title": "El Salvador recibe pandillero deportado desde EEUU tras múltiples homicidios",
-        "image_url": "https://pxcdn.2001online.com/2001/112024/1730563152181/image-1024x554.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/el-salvador-recibe-pandillero-deportado-desde-eeuu-tras-multiples-homicidios-202411212300",
-        "date": "2024-11-02 16:30:00",
-        "sentiment_score": 0.011754307895898819
-    },
-    {
-        "title": "Florida | Beneficios SNAP: Terminales que recibirán pagos hasta el #10Nov",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/florida-beneficios-snap-terminales-que-recibiran-pagos-hasta-el-10nov-202411212230",
-        "date": "2024-11-02 16:23:00",
-        "sentiment_score": 0.02896891161799431
-    },
-    {
-        "title": "Así puede pagar sus impuestos vehiculares en línea (+Detalles)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/asi-puede-pagar-sus-impuestos-vehiculares-en-linea-detalles--202411212140",
-        "date": "2024-11-02 16:14:00",
-        "sentiment_score": 0.17112425714731216
-    },
-    {
-        "title": "Eiza González deja poco a la imaginación con arriesgada fotografía",
-        "image_url": "https://pxcdn.2001online.com/2001/102024/1730319591842/WhatsApp%20Image%202024-10-30%20at%204.19.32%20PM.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/eiza-gonzalez-deja-poco-a-la-imaginacion-con-arriesgada-fotografia-20241121200",
-        "date": "2024-11-02 16:00:00",
-        "sentiment_score": -0.02632226049900055
-    },
-    {
-        "title": "Claves para aprender a ahorrar y respetar el presupuesto familiar",
-        "image_url": "https://pxcdn.2001online.com/2001/102024/1730407497097/Claves%20para%20aprender%20a%20ahorrar.jpg",
-        "tags": [
-            "variedades - bienestar"
-        ],
-        "link": "https://2001online.com/zona3d/bienestar/claves-para-aprender-a-ahorrar-y-respetar-el-presupuesto-familiar-20241121200",
-        "date": "2024-11-02 16:00:00",
-        "sentiment_score": 0.6276997998356819
-    },
-    {
-        "title": "Los perfumes que usan los pilotos más guapos de la F1",
-        "image_url": "https://pxcdn.2001online.com/2001/102024/1730411328713/images%20(18).jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/los-perfumes-que-usan-los-pilotos-mas-guapos-de-la-f1--20241121200",
-        "date": "2024-11-02 16:00:00",
-        "sentiment_score": 0.605904458090663
-    },
-    {
         "title": "Las cuatro noticias destacadas de la tarde del 2 de noviembre en CNN en Español",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -7460,5 +7122,478 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241106/el-estrella-roja-fue-ejercito-armado-serbia/898910160_0.html",
         "date": "2024-11-06 00:58:14",
         "sentiment_score": 0.05994178354740143
+    },
+    {
+        "title": "Dos estados votan para proteger los derechos al aborto, mientras que el esfuerzo por ampliar el acceso en Florida fracasa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1776746-aborto-mapa.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "elecciones en ee.uu.",
+            "elecciones en estados unidos",
+            "aborto en ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/06/10-estados-decidiran-aborto-boleta-electoral-2024-trax/",
+        "date": "2024-11-06 06:30:23",
+        "sentiment_score": -0.8403772376477718
+    },
+    {
+        "title": "La campaña de Harris informa que la vicepresidenta no hablará esta noche",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182517497-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos",
+            "partido demócrata",
+            "kamala harris"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kamala-harris-hablar-partidiarios-ush-dusa/",
+        "date": "2024-11-06 05:59:55",
+        "sentiment_score": -0.06486302986741066
+    },
+    {
+        "title": "Trump gana el estado clave de Carolina del Norte, proyecta CNN",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182515353.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-trump-gana-carolina-del-norte-tv-fast",
+        "date": "2024-11-06 05:29:20",
+        "sentiment_score": 0.17079351842403412
+    },
+    {
+        "title": "Trump gana el estado clave de Carolina del Norte, proyecta CNN",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182515353.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "carolina del norte",
+            "fast – news variety",
+            "elecciones ee.uu. 2024",
+            "xpress",
+            "noticias de donald trump",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-trump-gana-carolina-del-norte-tv-fast/",
+        "date": "2024-11-06 05:29:20",
+        "sentiment_score": 0.2316627874970436
+    },
+    {
+        "title": "Resultados de las elecciones en EE.UU. 2024, en vivo: ¿quién gana entre Trump y Harris? Votaciones por estados, Senado, Cámara y más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/GettyImages-2183189178.jpg?quality=100&strip=info",
+        "tags": [
+            "minuto cnn",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/06/resultados-elecciones-eeuu-2024-quien-gana-kamala-trump-orix-2/",
+        "date": "2024-11-06 05:27:55",
+        "sentiment_score": -0.07762909680604935
+    },
+    {
+        "title": "Un votante de un estado indeciso dice que su novia influyó en su voto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-novia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "votación",
+            "boleta electoral",
+            "elecciones en estados unidos",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/carolina-del-norte-pareja-novia-voto-elecciones-eeuu-ush-trax/",
+        "date": "2024-11-06 05:23:32",
+        "sentiment_score": -0.5178815536201
+    },
+    {
+        "title": "Un votante de un estado indeciso dice que su novia influyó en su voto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-novia.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/carolina-del-norte-pareja-novia-voto-elecciones-eeuu-ush-trax",
+        "date": "2024-11-06 05:23:32",
+        "sentiment_score": -0.6202552523463964
+    },
+    {
+        "title": "Más de 11.000 votantes de Nevada necesitan verificar sus firmas para que los votos cuenten",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-79531567-1.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nevada-votantes-elecciones-firmas-ush-trax",
+        "date": "2024-11-06 05:13:46",
+        "sentiment_score": -0.053788989782333374
+    },
+    {
+        "title": "Más de 11.000 votantes de Nevada necesitan verificar sus firmas para que los votos cuenten",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-79531567-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "elecciones",
+            "estados unidos noticias",
+            "xpress",
+            "elecciones en estados unidos",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nevada-votantes-elecciones-firmas-ush-trax/",
+        "date": "2024-11-06 05:13:46",
+        "sentiment_score": -0.27209271118044853
+    },
+    {
+        "title": "El senador de Texas, Ted Cruz, ganará la reelección y derrotará al demócrata Colin Allred, proyecta CNN",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1777113-texas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "texas",
+            "senado de estados unidos",
+            "elecciones estados unidos 2024",
+            "elecciones en estados unidos",
+            "elecciones de estados unidos",
+            "ted cruz"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/06/carrera-senatorial-texas-ted-cruz-trax/",
+        "date": "2024-11-06 05:05:00",
+        "sentiment_score": -0.23415176570415497
+    },
+    {
+        "title": "La factura del desastre",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/05/catarroja-dana-RiWTyq51VyP8kF5YPltkI6M-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ignacio-marcogardoqui-factura-desastre-20241105193813-nt.html",
+        "date": "2024-11-06 03:08:50",
+        "sentiment_score": -0.04265761375427246
+    },
+    {
+        "title": "Más de 70 empresas de electricistas trabajan como voluntarios para restablecer la luz en Valencia",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/06/DANAep-RdjCaaCKLyR5Y1GHpkTUPlJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/empresas-electricistas-trabajan-voluntarios-restablecer-luz-valencia-20241106184827-nt.html",
+        "date": "2024-11-06 03:07:00",
+        "sentiment_score": -0.17578595876693726
+    },
+    {
+        "title": "¿Hasta dónde llegó la riada? Los mapas satelitales de L’Horta Sud muestran 4.000 edificios afectados",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/U32VRARQRJEVRIHZTUN3ORNONU.png?auth=9ce83b0da0fc4676ab7bd60a2de74d3bbe9e659cc986c76fcb766f643aafbc3c&width=1200",
+        "tags": [
+            "copernicus",
+            "inundaciones dana octubre 2024",
+            "comunidad valenciana",
+            "generalitat valenciana",
+            "inundaciones",
+            "españa",
+            "emergencias",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/2024-11-06/hasta-donde-llego-la-riada-los-mapas-satelitales-de-lhorta-sud-muestran-4000-edificios-afectados.html",
+        "date": "2024-11-06 04:40:00",
+        "sentiment_score": -0.7959002628922462
+    },
+    {
+        "title": "Policías y bomberos que luchan contra los efectos de la dana denuncian falta de organización y medios de la Generalitat",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QGDFUJ6EZ7CK2WSEYQHR7LRBHA.jpg?auth=d1ece4d94f6e9f5291a0f1383547af90e85a3f9af440ea36263116eae9f11c15&width=1200",
+        "tags": [
+            "bomberos",
+            "inundaciones dana octubre 2024",
+            "desastres naturales",
+            "policía",
+            "españa",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/2024-11-06/policias-y-bomberos-que-luchan-contra-los-efectos-de-la-dana-denuncian-falta-de-organizacion-y-medios-de-la-generalitat.html",
+        "date": "2024-11-06 04:40:00",
+        "sentiment_score": -0.9156810846179724
+    },
+    {
+        "title": "El PSOE se reivindica como “baluarte de la izquierda”: las medidas que debatirán en el 41o Congreso de Sevilla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EGRNY7VV7JBNXP5P5KU6C4IE74.JPG?auth=d98b4858a52c1635346e020449c528d5acfe01bba39915f520c6c4b79fcd8c2a&width=1200",
+        "tags": [
+            "gobierno de españa",
+            "financiación",
+            "vivienda",
+            "comunidades autónomas",
+            "barones psoe",
+            "socialismo",
+            "pedro sánchez",
+            "medio ambiente",
+            "psoe",
+            "españa",
+            "economía"
+        ],
+        "link": "https://elpais.com/espana/2024-11-06/el-psoe-se-reivindica-como-baluarte-de-la-izquierda-las-medidas-que-debatiran-en-el-41-congreso-de-sevilla.html",
+        "date": "2024-11-06 04:40:00",
+        "sentiment_score": -0.6401293948292732
+    },
+    {
+        "title": "Buscando a un padre por los barrancos y campos de naranjos de Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HC22ZNH5O5G3VLILIISHXQUDBI.jpg?auth=fd9456c55f53755348dab3e7d80dcf1ce7f6782040d3846b1fff794b4eb5e7cb&width=1200",
+        "tags": [
+            "lluvias torrenciales",
+            "búsqueda supervivientes",
+            "inundaciones dana octubre 2024",
+            "comunidad valenciana",
+            "rescate víctimas",
+            "españa",
+            "ume",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/2024-11-06/buscando-a-un-padre-por-los-barrancos-y-campos-de-naranjos-de-valencia.html",
+        "date": "2024-11-06 04:40:00",
+        "sentiment_score": -0.8952907547354698
+    },
+    {
+        "title": "El adiós a las cosas que no se pueden comprar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XQSAWHPOMRGRFIYB7RNNCHCTVY.jpg?auth=d5ad5cebd6ee0ab8f2ec09a5fe277b6b7c44174a1ba7ebd00dfa3015f17fc395&width=1200",
+        "tags": [
+            "catarroja",
+            "españa",
+            "valencia",
+            "desastres naturales",
+            "memoria",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/2024-11-06/el-adios-a-las-cosas-que-no-se-pueden-comprar.html",
+        "date": "2024-11-06 04:30:00",
+        "sentiment_score": -0.7525436542928219
+    },
+    {
+        "title": "La Generalitat se da dos años para ordenar los planes de emergencias de toda Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IQORZZYCT5FDBMLLNNVPTYDKMY.jpg?auth=c7f4f512a9f598bda12ce26768abe934d93783fedf00128659d56a6ff89591f0&width=1200",
+        "tags": [
+            "psc",
+            "salvador illa",
+            "empleo",
+            "dana",
+            "cataluña",
+            "emergencias",
+            "planes urbanísticos",
+            "inundaciones dana octubre 2024",
+            "sílvia paneque",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-06/la-generalitat-se-da-dos-anos-para-ordenar-los-planes-de-emergencias-de-toda-cataluna.html",
+        "date": "2024-11-06 04:15:00",
+        "sentiment_score": 0.32815441489219666
+    },
+    {
+        "title": "Una citación a las 10.00 para Begoña Gómez: así se prepara la comparecencia de la esposa de Sánchez en la Asamblea de Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4UHGJCRDUVHQRHYIFJH2N67NZQ.jpg?auth=6ca62c63d7c7099f2c0a728bb233f1b05d509725d5ac665e764c3a1f7a023536&width=1200",
+        "tags": [
+            "comunidad de madrid",
+            "pedro sánchez",
+            "begoña gómez fernández",
+            "madrid",
+            "gobierno de españa",
+            "pp madrid",
+            "ucm",
+            "isabel díaz ayuso",
+            "gobierno comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-06/una-citacion-a-las-1000-para-begona-gomez-asi-se-prepara-la-comparecencia-de-la-esposa-de-sanchez-en-la-asamblea-de-madrid.html",
+        "date": "2024-11-06 04:00:00",
+        "sentiment_score": 0.13189570978283882
+    },
+    {
+        "title": "Los nietos de los represaliados buscan inculcar la memoria democrática a la generación Z",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NFQJQPB7PRADVDY2XZCEY5RSPQ.jpg?auth=1940b2e1f2e9c0f2acdeefaab3ad2e3ba3d2623549b0bc502d0c8ce21c9c8d22&width=1200",
+        "tags": [
+            "ley memoria histórica",
+            "franquismo",
+            "provincia huelva",
+            "guerra civil española",
+            "españa",
+            "memoria histórica",
+            "provincia sevilla",
+            "andalucía",
+            "ley memoria democrática",
+            "fosas comunes"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-11-06/los-nietos-de-los-represaliados-buscan-inculcar-la-memoria-democratica-a-la-generacion-z.html",
+        "date": "2024-11-06 04:00:00",
+        "sentiment_score": 0.10365180671215057
+    },
+    {
+        "title": "¿Por qué esta navaja para coger setas es la más vendida en Amazon?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/P6K5PLUX3VCBPGSZPLF3VM2CBM.png?auth=0a5415a309bc27768e658fa0e2560c9fd86d72531a00b4a7d162a2b0bfab5871&width=1200",
+        "tags": [
+            "planes",
+            "setas",
+            "navajas",
+            "ocio",
+            "comercio electrónico",
+            "amazon",
+            "bosques",
+            "estilo vida",
+            "micología",
+            "senderismo",
+            "familia",
+            "otoño"
+        ],
+        "link": "https://elpais.com/escaparate/lo-mas-vendido/2024-11-06/navaja-para-setas.html",
+        "date": "2024-11-06 06:30:00",
+        "sentiment_score": 0.7145517738536
+    },
+    {
+        "title": "Amgevicesa colocará cámaras en todos los autobuses",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1120895",
+        "date": "2024-11-06 06:29:00",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "'The Guardian' ve lo ocurrido con Felipe y Letizia y lanza un aviso sobre qué puede pasar ahora",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/11/05/la-reina-letizia-en-paiporta.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/the-guardian-ve-ocurrido-felipe-letizia-lanza-aviso-sobre-que-pasar.html",
+        "date": "2024-11-06 06:19:53",
+        "sentiment_score": -0.2097945511341095
+    },
+    {
+        "title": "'Faroq', condenado por amenazas y atentado a un guardia civil",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1120544",
+        "date": "2024-11-06 06:06:16",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "El mapa para saber qué carreteras están cortadas y afectadas por la DANA este miércoles 6",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/11/06/carretera-destrozada-reuters-kGCI-U2201679461690JK-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/mapa-saber-carreteras-cortadas-afectadas-dana-miercoles-20241106070250-ntrc.html",
+        "date": "2024-11-06 06:03:22",
+        "sentiment_score": -0.3184655997902155
+    },
+    {
+        "title": "Crean 'gemelos digitales' de pacientes con cáncer para predecir su respuesta a los tratamientos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241106070250_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-crean-gemelos-digitales-pacientes-cancer-predecir-respuesta-tratamientos-20241106070250.html",
+        "date": "2024-11-06 06:02:50",
+        "sentiment_score": 0.304670512676239
+    },
+    {
+        "title": "Conocer Aranjuez a bordo de un globo aeroestático, una piragua o un tren histórico del S. XIX",
+        "image_url": "https://okdiario.com/img/2024/10/14/ver-y-disfrutar-de-aranjuez-en-globo-aeroestatico.-.jpg",
+        "tags": [
+            "gastronomía",
+            "aranjuez",
+            "turismo",
+            "no-publi",
+            "españa",
+            "madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://okdiario.com/madrid/conocer-aranjuez-bordo-globo-aeroestatico-piragua-o-tren-historico-del-s-xix-13597187",
+        "date": "2024-11-06 06:00:35",
+        "sentiment_score": 0.5741923376917839
+    },
+    {
+        "title": "Elecciones EE.UU., en directo: Ganador y última hora sobre Trump y Harris | Resultados en Estados Unidos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/29/6720ca0b5ed9c.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20241106/10082118/elecciones-eeuu-ganador-presidente-estados-unidos-trump-harris-en-directo.html",
+        "date": "2024-11-06 06:27:31",
+        "sentiment_score": 0.013919126242399216
+    },
+    {
+        "title": "Iago Aspas alimenta a Douvikas en el Celta",
+        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/11/05/2024110522123128275.jpg",
+        "tags": [
+            "celtismo"
+        ],
+        "link": "https://www.atlantico.net/articulo/celtismo/iago-aspas-alimenta-douvikas-celta/202411052213191058338.html",
+        "date": "2024-11-06 06:25:33",
+        "sentiment_score": 0.370478093624115
+    },
+    {
+        "title": "Lo que debes saber hoy, 6 de noviembre, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/03/20/vivir-en-barcelona/841425999_12652555_1706x960.jpg?contentId=ESPIMA20240320_0150",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241106/lo-que-debes-saber-hoy-de-noviembre-barcelona/899160079_0.html",
+        "date": "2024-11-06 06:23:45",
+        "sentiment_score": 0.2028205543756485
+    },
+    {
+        "title": "G-90: así es la generación de los cocineros \"irreverentes\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/110e3bbd-a39c-4a88-be14-6472260945fe_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/20241106/generacion-cocineros-nacidos-90-111396489",
+        "date": "2024-11-06 06:22:46",
+        "sentiment_score": -0.2085343599319458
+    },
+    {
+        "title": "Destrozos en el campo y plan para evitar riadas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/05/vida/898920143_13675554_1706x960.jpg?contentId=ESPIMA20241105_0044",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241106/destrozos-en-campo-plan-para-evitar-riadas/899160080_0.html",
+        "date": "2024-11-06 06:22:06",
+        "sentiment_score": -0.2694220393896103
+    },
+    {
+        "title": "Restaurante Reserva Ibérica The Kitchen: la felicidad es una loncha de jamón y un trozo de carne de montanera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ffe87f3-3912-4fbe-ac41-d2f552e133bd_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241106/reserva-iberica-the-kitchen-restaurante-barcelona-111121724",
+        "date": "2024-11-06 06:20:45",
+        "sentiment_score": 0.21288803219795227
+    },
+    {
+        "title": "El kit completo de primeros auxilios perfecto para cualquier ocasión",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/J5IL3BVZ6BFLHJJAGNRVKX5PQI.png?auth=53c91fad6638d1263be129643dc2f14bd8b80c804f670ce75e4693e25394682f&width=1200",
+        "tags": [
+            "salud",
+            "primeros auxilios",
+            "comercio electrónico",
+            "amazon",
+            "ventas internet",
+            "emergencia sanitaria"
+        ],
+        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-11-06/kit-primeros-auxilios.html",
+        "date": "2024-11-06 06:20:00",
+        "sentiment_score": 0.13213170319795609
+    },
+    {
+        "title": "La paradoja china: no queremos sus coches, pero sí sus fábricas (y España se postula como candidata)",
+        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/11/paradoja-china-no-queremos-coches-pero-fabricas-espana-postula-como-candidata-4257795.jpg?tf=1200x",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.businessinsider.es/economia/paradoja-china-no-queremos-coches-pero-fabricas-espana-postula-como-candidata-1416631",
+        "date": "2024-11-06 06:15:07",
+        "sentiment_score": -0.12209045886993408
+    },
+    {
+        "title": "Estos serán los ‘chándals’ de mujer más en tendencia para este invierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GYOGUPVDSRDRXBMMIYBDQKXRDU.png?auth=6a0fdc61c08fd8a4eb03650408e8cec49835e2251e19d0ca60d475e4bc00aa5f&width=1200",
+        "tags": [
+            "comercio electrónico",
+            "amazon",
+            "ventas internet",
+            "ropa",
+            "adidas",
+            "mujeres",
+            "deportes"
+        ],
+        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-11-06/chandal-invierno-mujer.html",
+        "date": "2024-11-06 06:15:00",
+        "sentiment_score": 0.8760428735986352
     }
 ];
