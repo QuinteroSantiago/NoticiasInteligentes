@@ -1,560 +1,5 @@
 export default [
     {
-        "title": "Personas caminan descalzas por el aeropuerto de Barcelona debido a las inundaciones",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/39196009-27465596-generated-thumbnail.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/aeropuerto-barcelona-inundaciones-lluvas",
-        "date": "2024-11-04 16:54:22",
-        "sentiment_score": -0.7111832033842802
-    },
-    {
-        "title": "Personas caminan descalzas por el aeropuerto de Barcelona debido a las inundaciones",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/39196009-27465596-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/aeropuerto-barcelona-inundaciones-lluvas/",
-        "date": "2024-11-04 16:54:22",
-        "sentiment_score": -0.7909572347998619
-    },
-    {
-        "title": "Conoce al Mariachi Garibaldi, los músicos que alientan a Los Dodgers a través del folclore mexicano",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-5.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "dodgers de los ángeles",
-            "noticias de ee.uu.",
-            "méxico",
-            "estados unidos noticias",
-            "béisbol",
-            "deporte",
-            "videos digitales"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mariachi-garibaldi-dodgers-los-angeles-ush-pkg/",
-        "date": "2024-11-04 16:34:03",
-        "sentiment_score": 0.5363035202026367
-    },
-    {
-        "title": "¿Quién es Tim Walz, el aspirante demócrata a vicepresidente de Kamala Harris?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1733400-tim-walz.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "instanoticias",
-            "kamala harris",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/04/quien-es-tim-walz-vicepresidente-kamala-perfil-orix/",
-        "date": "2024-11-04 16:20:58",
-        "sentiment_score": -0.13377036154270172
-    },
-    {
-        "title": "¿Quién es J. D. Vance, el candidato a vicepresidente de Donald Trump?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Vance_548ac3.jpg?quality=100&strip=info",
-        "tags": [
-            "vicepresidente",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/04/quien-es-jd-vance-vicepresidente-trump-orix/",
-        "date": "2024-11-04 16:20:27",
-        "sentiment_score": -0.2828582637012005
-    },
-    {
-        "title": "Residentes furiosos en Valencia, España, se sienten abandonados tras inundaciones históricas con más lluvia por delante",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1776034-copia-de-foto-para-wp-2024-11-04t084953-802.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "españa",
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/04/residentes-furiosos-valencia-espana-abandonados-inundaciones-historicas-mas-lluvia-trax/",
-        "date": "2024-11-04 15:46:42",
-        "sentiment_score": -0.910530879162252
-    },
-    {
-        "title": "Carlo Ancelotti tras la DANA en Valencia: “Hablar de fútbol en estos momentos es complicado”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/carlo-ancelotti-valencia-deportes-tv",
-        "date": "2024-11-04 15:33:51",
-        "sentiment_score": -0.6981943137943745
-    },
-    {
-        "title": "El hombre que acogió a Peanut, la ardilla huérfana, dice que es \"surrealista\" que las autoridades hayan sacrificado a su mascota",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1776031-ardilla.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "animales",
-            "mascotas"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/04/hombre-peanut-ardilla-dice-es-surrealista-autoridades-sacrificado-mascota-ap/",
-        "date": "2024-11-04 15:20:07",
-        "sentiment_score": -0.8746887855231762
-    },
-    {
-        "title": "ANÁLISIS | Si Donald Trump es reelegido, pagarás por los aranceles. Aquí están las pruebas",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1776008-copia-de-foto-para-wp-2024-11-04t080429-044.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "análisis",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/04/analisis-donald-trump-reelegido-pagaras-aranceles-trax/",
-        "date": "2024-11-04 15:03:41",
-        "sentiment_score": -0.18197497725486755
-    },
-    {
-        "title": "La Policía de España revela las primeras imágenes del parking inundado de Bonaire tras la DANA en Valencia",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumbcochew-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "españa",
-            "videos digitales",
-            "valencia",
-            "dana",
-            "inundaciones"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/dana-valencia-aparcamiento-centro-comercial-espana-orix/",
-        "date": "2024-11-04 14:41:23",
-        "sentiment_score": -0.3673339709639549
-    },
-    {
-        "title": "Francia coquetea con la decadencia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/04/macron-RKXpAIdKnCp5y734FzEiY8J-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/francia-coquetea-decadencia-20241104174247-nt.html",
-        "date": "2024-11-04 16:42:48",
-        "sentiment_score": -0.14486011862754822
-    },
-    {
-        "title": "Estos han sido los resultados de Donald Trump en las elecciones de Estados Unidos que se ha presentado",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/04/trum-RoOaZpcMYd9SjetFkCwJYLM-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/resultados-donald-trump-elecciones-estados-unidos-20241104163631-nt.html",
-        "date": "2024-11-04 16:00:00",
-        "sentiment_score": -0.10731595754623413
-    },
-    {
-        "title": "Las personas solteras tienen un mayor riesgo de depresión",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/11/04/soledada.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/personas-solteras-riesgo-mayor-depresion-20241104131449-nt.html",
-        "date": "2024-11-04 15:59:04",
-        "sentiment_score": -0.2066233605146408
-    },
-    {
-        "title": "El voto hispano: los olvidados pueden salvar a Kamala Harris",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/03/latinos-eeuu-R387ta8AzfzUHOvLRiSv1uJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/voto-hispano-olvidados-pueden-salvar-kamala-harris-20241103214718-nt.html",
-        "date": "2024-11-04 15:11:52",
-        "sentiment_score": -0.11620177328586578
-    },
-    {
-        "title": "El 31,5% de las personas con dolor crónico en España sufre migrañas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/11/04/dolor-cabeza.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/315-personas-dolor-cronico-espana-sufre-migranas-20241104132020-nt.html",
-        "date": "2024-11-04 15:02:27",
-        "sentiment_score": -0.3543720841407776
-    },
-    {
-        "title": "La Sareb pone sus viviendas a disposición de los afectados de la DANA como pedía Mazón",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/04/casa-derrumbada_20241104152556-RcVQC2qUMDv2u4D8bPRho1J-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sareb-pone-viviendas-disposicion-afectados-dana-pedia-20241104154501-nt.html",
-        "date": "2024-11-04 14:45:02",
-        "sentiment_score": -0.1069246232509613
-    },
-    {
-        "title": "La ayuda a Paiporta se reaviva con más refuerzos: “Hoy se ven muchos más militares”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7KGNIJ4RE5EPHMK22MIBQ5KTM4.jpg?auth=f107bc131b524bae87fe44bffdeaf7b2dd416b06afeb4d963d31a498637b739f&width=1200",
-        "tags": [
-            "dana",
-            "temporales",
-            "ejército tierra",
-            "felipe vi",
-            "protección civil",
-            "carlos mazón",
-            "españa",
-            "pedro sánchez",
-            "ejército aire",
-            "ume",
-            "comunidad valenciana",
-            "inundaciones dana octubre 2024",
-            "paiporta"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/la-ayuda-a-paiporta-se-reactiva-con-mas-refuerzos-hoy-se-ven-muchos-mas-militares.html",
-        "date": "2024-11-04 16:02:21",
-        "sentiment_score": -0.3479124754667282
-    },
-    {
-        "title": "¿Esta dana no se acaba nunca? La persistencia de un temporal que ha sorprendido a los expertos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6YDR3MUSOJC5ZN6GFWQEDPVKDU.jpg?auth=711f9d7a8bee6e4010ed618060d4c17801d7950e9e8c9618bfedea1d5a2561ad&width=1200",
-        "tags": [
-            "alerta meteorológica",
-            "lluvia",
-            "meteorología",
-            "inundaciones",
-            "españa",
-            "predicción meteorológica",
-            "dana",
-            "inundaciones dana octubre 2024",
-            "cataluña",
-            "lluvias torrenciales",
-            "temporales",
-            "aemet",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/esta-dana-no-se-acaba-nunca-la-persistencia-de-un-temporal-que-ha-sorprendido-a-los-expertos.html",
-        "date": "2024-11-04 15:30:22",
-        "sentiment_score": -0.5666519999504089
-    },
-    {
-        "title": "Feijóo insiste en declarar la emergencia nacional, que sitúa a Marlaska en lugar de Mazón al frente de la crisis",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XHLZ36BG72ZKOMWKXVNTELDJJ4.jpg?auth=bd1ab2ef5ccca670b644aac291f6f6c5a3c047f470420c3e504fe7398e698294&width=1200",
-        "tags": [
-            "meteorología",
-            "españa",
-            "dana",
-            "pedro sánchez",
-            "comunidad valenciana",
-            "carlos mazón",
-            "alberto núñez feijóo",
-            "catástrofes"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/feijoo-insiste-en-declarar-la-emergencia-nacional-que-situa-a-marlaska-en-lugar-de-mazon-al-frente-de-la-crisis.html",
-        "date": "2024-11-04 14:51:11",
-        "sentiment_score": -0.7243221998214722
-    },
-    {
-        "title": "Dimite una edil del PP en Jaén por incitar al odio con insultos a Sánchez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/G36X3FWPQZAV3LSEBJQEQ4BST4.jpg?auth=48d90d0da8bd1273e29edcc3122366ff30305cac2eb6bc765091b77877f7f22f&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "andalucía",
-            "pp",
-            "psoe",
-            "jaén",
-            "valencia",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/dimite-una-edil-del-pp-en-jaen-por-incitar-al-odio-con-insultos-a-sanchez.html",
-        "date": "2024-11-04 14:35:32",
-        "sentiment_score": -0.7260480895638466
-    },
-    {
-        "title": "¿Cuándo se disputan los partidos aplazados por la DANA?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf1d1c19-130c-41d5-aab9-1633045d340e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/11/04/disputan-partidos-aplazados-dana-111371518.html",
-        "date": "2024-11-04 16:52:34",
-        "sentiment_score": -0.070513516664505
-    },
-    {
-        "title": "Ancelotti sobre la tragedia: “Hablar de fútbol hoy es complicado”",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/04/2024110417395284293.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/ancelotti-tragedia-hablar-futbol-hoy-es-complicado/20241104174035543570.html",
-        "date": "2024-11-04 16:40:35",
-        "sentiment_score": -0.9075236609205604
-    },
-    {
-        "title": "Reconocimiento a Busquets Ferrer",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/deportes/futbol/2024/11/04/2270223/futbol-busquets-ferrer-recibira-bota-oro-gala-del-futbol-balear.html",
-        "date": "2024-11-04 16:37:00",
-        "sentiment_score": 0.022985786199569702
-    },
-    {
-        "title": "Gutiérrez o Davies: he ahí el dilema",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/04/2024110417334191518.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/miguel-gutierrez-alphonso-davies-he-alli-dilema/20241104173658322860.html",
-        "date": "2024-11-04 16:36:58",
-        "sentiment_score": -0.5646684020757675
-    },
-    {
-        "title": "La provincia de Segovia vive uno de los mejores puentes del 1 de noviembre con una ocupación del 95%",
-        "image_url": "https://s1.elespanol.com/2024/11/04/castilla-y-leon/region/segovia/898670773_250601823_1706x960.jpg?contentId=ESPIMA20241104_0649",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20241104/provincia-segovia-vive-mejores-puentes-noviembre-ocupacion/898660567_0.html",
-        "date": "2024-11-04 16:35:24",
-        "sentiment_score": 0.22097788751125336
-    },
-    {
-        "title": "CEP denuncia que los 'antidisturbios' en Valencia alojados en hoteles disponen de 17 euros para comida y cena",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241104173324_120.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/nacional/noticia-cep-denuncia-antidisturbios-valencia-alojados-hoteles-disponen-17-euros-comida-cena-20241104173324.html",
-        "date": "2024-11-04 16:33:24",
-        "sentiment_score": -0.49471312388777733
-    },
-    {
-        "title": "Cádiz se adentra en su semana negra de la mano de 'Gaditanoir'",
-        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/cultura/2024/11/04/gaditanoir-festival-RZlPrbjMMJdDRuDvzXX839H-758x531@abc.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdigital.es/cultura/cadiz-adentra-semana-negra-mano-gaditanoir-20241104172107-ntv.html",
-        "date": "2024-11-04 16:25:48",
-        "sentiment_score": -0.03355655074119568
-    },
-    {
-        "title": "Los escoltas de Sánchez llegaron a desplegar el maletín antibalas durante el ataque de Paiporta",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/04/maletin_sanchez840-k6xE-Rllr82bcMcqeGrIzcZjzgIJ-1200x840@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/sociedad/escoltas-sanchez-llegaron-desplegar-maletin-antibalas-ataque-20241104164752-ntrc.html",
-        "date": "2024-11-04 16:25:11",
-        "sentiment_score": -0.6330290399491787
-    },
-    {
-        "title": "El parking del centro comercial Bonaire (Aldaia) en el ojo del huracán: ¿Se puede construir en zonas de riesgo de inundación en España?",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x675/5/f/0/1200x655_bonaire-dana.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13066727/11/24/el-parking-del-centro-comercial-bonaire-aldaia-en-el-ojo-del-huracan-se-puede-construir-en-zonas-de-riesgo-de-inundacion-en-espana.html",
-        "date": "2024-11-04 16:24:43",
-        "sentiment_score": -0.8625023253262043
-    },
-    {
-        "title": "El sentido mensaje de Carlo Ancelotti por las víctimas de la DANA",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/905b9a23-8693-4630-b6db-7d62e0c33979_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/11/04/sentido-mensaje-carlo-ancelotti-victimas-111370427.html",
-        "date": "2024-11-04 16:24:00",
-        "sentiment_score": -0.4773206561803818
-    },
-    {
-        "title": "Unos 200 agentes de la UIP de Vigo y A Coruña se suman al despliegue policial en Valencia",
-        "image_url": "https://cflvdg.avoz.es/sc/ZrHgYcHHiw7gtv-t5ZEEwvEcl7M=/768x/2024/10/06/00121728241021272334253/Foto/i_20241006_115615003.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/espana/2024/11/04/200-agentes-uip-vigo-coruna-suman-despliegue-policial-valencia/00031730739495190876224.htm",
-        "date": "2024-11-04 17:10:00",
-        "sentiment_score": -0.8275009226053953
-    },
-    {
-        "title": "Un joven soldado en Paiporta: \"Esto es como The Walking Dead\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3d2f93f5-60c4-4c25-aa60-76bea00b499a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241104/joven-soldado-paiporta-the-walking-111374393",
-        "date": "2024-11-04 17:07:45",
-        "sentiment_score": -0.3043104559183121
-    },
-    {
-        "title": "La DANA empieza a disolverse, pero la llegada de nuevas borrascas traerá más lluvias esta semana",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ab9b5b7-1023-4af1-aad1-5bff5aa07c89_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241104/dana-prevision-aemet-semana-lluvias-111375168",
-        "date": "2024-11-04 17:07:39",
-        "sentiment_score": -0.7109869122505188
-    },
-    {
-        "title": "BBVA dona cuatro millones de euros a Cruz Roja para atender a los afectados por la DANA",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241104180703_120.jpg",
-        "tags": [
-            "economía finanzas",
-            "finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/finanzas-00340/noticia-bbva-dona-cuatro-millones-euros-cruz-roja-atender-afectados-dana-20241104180703.html",
-        "date": "2024-11-04 17:07:03",
-        "sentiment_score": -0.031926825642585754
-    },
-    {
-        "title": "Maluma actuará en Barcelona y Madrid en 2025 en su gira europea",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241104180647_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-maluma-actuara-barcelona-madrid-2025-gira-europea-20241104180647.html",
-        "date": "2024-11-04 17:06:47",
-        "sentiment_score": 0.14698854088783264
-    },
-    {
-        "title": "Así trabajan los distintos dispositivos de Aragón trasladados a Catarroja (Valencia)",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/files/fp/uploads/imagenes/2024/11/04/asi-trabajan-los-distintos-dispositivos-de-aragon-trasladados-catarroja-valencia-1.r_d.433-456-13750.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/multimedia/videos/nacional/asi-trabajan-los-distintos-dispositivos-de-aragon-trasladados-a-catarroja-valencia/",
-        "date": "2024-11-04 17:02:44",
-        "sentiment_score": 0.012726306915283203
-    },
-    {
-        "title": "El Banco de España lo confirma: estos son los nuevos cambios en las monedas y billetes españoles",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/31/6723eb9606f67.r_d.1500-1000-1497.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20241104/1002344636/banco-espana-sorprende-nueva-norma-transformara-dinero-efectivo-nmd.html",
-        "date": "2024-11-04 17:00:00",
-        "sentiment_score": -0.7890327610075474
-    },
-    {
-        "title": "Indignación en redes tras lo que explica este trabajador afectado por la DANA: \"Qué asco de gente\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/11/04/6728f0571d61d.r_d.1057-554-2728.png",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20241104/1002347047/indignacion-redes-explica-trabajador-afectado-dana-que-asco-gente-dct.html",
-        "date": "2024-11-04 16:59:38",
-        "sentiment_score": -0.8814916582778096
-    },
-    {
-        "title": "El Ibex 35 cede un 0,32% pero aguanta los 11.800, con CaixaBank en máximos históricos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241104175905_120.jpg",
-        "tags": [
-            "economía finanzas",
-            "finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/finanzas-00340/noticia-ibex-35-cede-032-aguanta-11800-caixabank-maximos-historicos-20241104175905.html",
-        "date": "2024-11-04 16:59:05",
-        "sentiment_score": 0.2841102331876755
-    },
-    {
-        "title": "Vuelve a Barcelona el concurso de tiraje de cerveza: se elegirá al mejor tirador de Catalunya",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/07/18/vivir-en-barcelona/871422928_13243118_1706x960.jpg?contentId=ESPIMA20240718_0079",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241104/vuelve-barcelona-el-concurso-de-tiraje-cerveza-se-elegira-al-mejor-tirador-catalunya/898660230_0.html",
-        "date": "2024-11-04 16:58:27",
-        "sentiment_score": 0.37670017778873444
-    },
-    {
-        "title": "Quita los rayones de la pantalla de tu celular con ingredientes caseros",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "variedades - hogar"
-        ],
-        "link": "https://2001online.com/zona3d/hogar/quita-los-rayones-de-la-pantalla-de-tu-celular-con-ingredientes-caseros-20241141330",
-        "date": "2024-11-04 17:03:00",
-        "sentiment_score": 0.7218005647882819
-    },
-    {
-        "title": "Residentes de Chicago deben ahorrar agua por esta razón (+Detalles)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/residentes-de-chicago-deben-ahorrar-agua-por-esta-razon-detalles--20241141320",
-        "date": "2024-11-04 17:02:00",
-        "sentiment_score": -0.13814784586429596
-    },
-    {
-        "title": "¿Por qué nos cuesta decir que no? Aprende cómo hacerlo",
-        "image_url": "https://pxcdn.2001online.com/2001/112024/1730736910493/Decir-no-.jpeg",
-        "tags": [
-            "variedades - bienestar"
-        ],
-        "link": "https://2001online.com/zona3d/bienestar/por-que-nos-cuesta-decir-que-no-aprende-como-hacerlo-20241141300",
-        "date": "2024-11-04 17:00:00",
-        "sentiment_score": 0.30133916437625885
-    },
-    {
-        "title": "Portera del Boca Junior recibe propuesta de matrimonio en la cancha",
-        "image_url": "https://pxcdn.2001online.com/2001/112024/1730738604397/SaveClip.App_464761546_899861055460140_3459973536832962985_n.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/portera-del-boca-junior-recibe-propuesta-de-matrimonio-en-la-cancha-202411412480",
-        "date": "2024-11-04 16:48:00",
-        "sentiment_score": 0.11689645797014236
-    },
-    {
-        "title": "¿Café con cúrcuma? Pruébalo y obtendrás grandes beneficios para tu salud",
-        "image_url": "https://pxcdn.2001online.com/2001/112024/1730739613013/cafe%20colado.jpg",
-        "tags": [
-            "variedades - salud"
-        ],
-        "link": "https://2001online.com/zona3d/salud/cafe-con-curcuma-pruebalo-y-obtendras-grandes-beneficios-para-tu-salud--202411412410",
-        "date": "2024-11-04 16:41:00",
-        "sentiment_score": -0.054951414465904236
-    },
-    {
-        "title": "Maluma anuncia nuevas fechas para su gira mundial en 2025",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/maluma-anuncia-nuevas-fechas-para-su-gira-mundial-en-2025-202411412230",
-        "date": "2024-11-04 16:23:00",
-        "sentiment_score": 0.2606837581843138
-    },
-    {
-        "title": "¡Sorprendente! Descubre el uso de la sal en tareas domésticas",
-        "image_url": "https://pxcdn.2001online.com/2001/112024/1730737928036/limpieza%20con%20sal.jpg",
-        "tags": [
-            "variedades - hogar"
-        ],
-        "link": "https://2001online.com/zona3d/hogar/sorprendente-descubre-el-uso-de-la-sal-en-tareas-domesticas-202411412200",
-        "date": "2024-11-04 16:20:00",
-        "sentiment_score": 0.403456375002861
-    },
-    {
-        "title": "EEUU | ¿Quiénes califican para recibir el cheque de estímulo por $1.702?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/eeuu-quienes-califican-para-recibir-el-cheque-de-estimulo-por-1-702--202411412190",
-        "date": "2024-11-04 16:19:00",
-        "sentiment_score": 0.19864445179700851
-    },
-    {
-        "title": "Raphinha sorprende a Lamine Yamal con lujoso regalo",
-        "image_url": "https://pxcdn.2001online.com/2001/112024/1730736932840/SaveClip.App_465598234_2248649388845572_5376880667305844468_n%20(1).jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/raphinha-sorprende-a-lamine-yamal-con-lujoso-regalo-202411412160",
-        "date": "2024-11-04 16:16:00",
-        "sentiment_score": 0.025638960301876068
-    },
-    {
-        "title": "Futbolista murió tras ser alcanzado por un rayo (+Video)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/futbolista-murio-tras-ser-alcanzado-por-un-rayo-video--202411412150",
-        "date": "2024-11-04 16:15:00",
-        "sentiment_score": -0.8446393795311451
-    },
-    {
         "title": "Así procesan los votos en un estado indeciso antes de las elecciones",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179764316-20241104210037470.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -871,61 +316,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-04/las-imagenes-de-satelite-miden-las-zonas-inundadas-del-sur-de-valencia.html",
         "date": "2024-11-04 18:40:11",
         "sentiment_score": -0.7925325948745012
-    },
-    {
-        "title": "La patronal catalana pide recuperar los mecanismos de la covid para proteger a las empresas por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/R5VUE5SU7JDAJHAMCN6DUCMCTI.jpg?auth=060e8d4e0fbb576c5973ea1bc03e807c3498b87749f81090bd778ffbcca94b51&width=1200",
-        "tags": [
-            "fomento del trabajo nacional",
-            "trabajo",
-            "empleo",
-            "empresas",
-            "lluvias torrenciales",
-            "cataluña",
-            "inundaciones dana octubre 2024",
-            "temporales",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-04/la-patronal-catalana-pide-recuperar-los-mecanismos-de-la-covid-para-proteger-a-las-empresas-por-la-dana.html",
-        "date": "2024-11-04 18:31:32",
-        "sentiment_score": -0.8442867882549763
-    },
-    {
-        "title": "Esperanza desde el subsuelo del aparcamiento de Bonaire",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y3FILYNRNFFNDFEFYWN5QDKIJ4.jpeg?auth=1b1683df73f93a3c4b842916dff391bdb075e01b1edd7aa847defb47d0511267&width=1200",
-        "tags": [
-            "catástrofes",
-            "españa",
-            "meteorología",
-            "inundaciones",
-            "víctimas",
-            "inundaciones dana octubre 2024",
-            "dana",
-            "cambio climático"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/esperanza-desde-el-subsuelo-del-aparcamiento-de-bonaire.html",
-        "date": "2024-11-04 18:22:38",
-        "sentiment_score": -0.8031012155115604
-    },
-    {
-        "title": "Barceloneses pendientes de la alerta en el móvil: “Cuando llegó el aviso salí a buscar a mi hija en el instituto”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S6MS7VMIRRETPCZKR4XXJJ37MQ.jpg?auth=69bc8f1530846044dd28390e2b0353f1fb7609b2cb5eb323fabce77d24655643",
-        "tags": [
-            "castelldefels",
-            "cercanías",
-            "dana",
-            "lluvia",
-            "inundaciones",
-            "inundaciones dana octubre 2024",
-            "cataluña",
-            "sanidad",
-            "barcelona",
-            "aeropuerto el prat",
-            "gavà"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-04/barceloneses-pendientes-de-la-alerta-en-el-movil-cuando-llego-el-aviso-sali-a-buscar-a-mi-hija-en-el-instituto.html",
-        "date": "2024-11-04 17:35:29",
-        "sentiment_score": -0.7428683340549469
     },
     {
         "title": "Brahim Díaz: \"Mi sueño es hacer historia con la selección de Marruecos\"",
@@ -7108,5 +6498,478 @@ export default [
         "link": "https://www.telecinco.es/noticias/loterias/loteria-de-navidad/20241108/administraciones-mas-afortunadas-extremadura-be5m_18_013792994.html",
         "date": "2024-11-08 00:30:39",
         "sentiment_score": 0.4343419522047043
+    },
+    {
+        "title": "Hinchas de fútbol israelíes atacados en Ámsterdam, dicen las autoridades israelíes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778319-israel.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra israel",
+            "países bajos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/08/hinchas-futbol-israel-atacados-amsterdam-trax/",
+        "date": "2024-11-08 05:35:15",
+        "sentiment_score": -0.7972214156761765
+    },
+    {
+        "title": "Cinco personas resultaron heridas tras accidente por caída de un auto en un centro comercial en Santo Domingo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "santo domingo",
+            "caribe",
+            "accidente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/08/personas-heridas-accidente-caida-dauto-centro-comercial-santo-domingo-orix/",
+        "date": "2024-11-08 05:11:37",
+        "sentiment_score": -0.7088981252163649
+    },
+    {
+        "title": "República Dominicana arrecia operativos contra indocumentados haitianos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1744378-cnne-logo-video-bg-1.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inmigrantes haitianos",
+            "república dominicana",
+            "haití"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/07/republica-dominicana-operativos-indocumentados-haitianos-orix/",
+        "date": "2024-11-08 04:52:27",
+        "sentiment_score": -0.423631951212883
+    },
+    {
+        "title": "Migrantes buscan llegar a EE.UU. antes de que comience el segundo mandato de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21108882-2162-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-migrantes-caravana-segundo-mandato-trump/",
+        "date": "2024-11-08 04:21:24",
+        "sentiment_score": -0.061309993267059326
+    },
+    {
+        "title": "Migrantes buscan llegar a EE.UU. antes de que comience el segundo mandato de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21108882-2162-still.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-migrantes-caravana-segundo-mandato-trump",
+        "date": "2024-11-08 04:21:24",
+        "sentiment_score": -0.31690850108861923
+    },
+    {
+        "title": "Migrantes en Tijuana temen por su futuro tras la victoria electoral de Trump en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182571632.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tijuana-migrantes-eeuu-trump-elecciones",
+        "date": "2024-11-08 04:14:31",
+        "sentiment_score": 0.0613580197095871
+    },
+    {
+        "title": "Migrantes en Tijuana temen por su futuro tras la victoria electoral de Trump en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182571632.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "videos digitales",
+            "inmigración",
+            "inmigración estados unidos",
+            "inmigrantes indocumentados",
+            "donald trump jr.",
+            "noticias de estado unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tijuana-migrantes-eeuu-trump-elecciones/",
+        "date": "2024-11-08 04:14:31",
+        "sentiment_score": -0.4258468523621559
+    },
+    {
+        "title": "Jimmy Kimmel, con un nudo en la garganta tras la victoria de Trump; otros presentadores también reaccionaron",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/kimmel-horiz-thumb.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jimmy-kimmel-fallon-colbert-victoria-donald-trump-trax",
+        "date": "2024-11-08 04:01:09",
+        "sentiment_score": -0.7652947511523962
+    },
+    {
+        "title": "Familiares de detenidos tras elecciones en Venezuela piden liberaciones. Advierten que marcharán al Palacio de Miraflores el 1 de diciembre",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778297-detenidos-venezuela.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela",
+            "elecciones venezuela",
+            "detenidos venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/07/familiares-detenidos-elecciones-venezuela-piden-liberacion-marchar-1-diciembre-orix/",
+        "date": "2024-11-08 03:46:45",
+        "sentiment_score": -0.25379785895347595
+    },
+    {
+        "title": "¿Qué impacto tendría en la economía el plan de deportaciones de Trump?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181602938-20241108033442737.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-trump-plan-deportaciones-masivas-impacto-economico-conclusiones-tv/",
+        "date": "2024-11-08 03:36:25",
+        "sentiment_score": -0.4149370528757572
+    },
+    {
+        "title": "La futura relación de Trump con México, clave para Banco Santander y BBVA",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/08/botin-torres-oliu-RPUO8is57bKJEc0XD0R5xoN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/futura-relacion-trump-mexico-clave-banco-santander-20241108041239-nt.html",
+        "date": "2024-11-08 03:12:39",
+        "sentiment_score": -0.10749897360801697
+    },
+    {
+        "title": "El precavido que hay en ti",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/11/07/propper-RHjFf5FQZVN3rp5XDEep9yO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/precavido-20241107200745-nt.html",
+        "date": "2024-11-08 03:06:38",
+        "sentiment_score": -0.14832021296024323
+    },
+    {
+        "title": "Trump elige a su directora de campaña, Susie Wiles, como primera jefa de Gabinete de la Casa Blanca",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/08/trump-wiles-kpXE-U603320418440ZHF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-elige-directora-campana-susie-wiles-primera-20241108035435-nt.html",
+        "date": "2024-11-08 02:55:41",
+        "sentiment_score": -0.052040547132492065
+    },
+    {
+        "title": "Última hora de la dana, en directo | Los forenses identifican a 167 fallecidos en Valencia mientras 78 personas siguen desaparecidas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VJL444MISNCLFEC4M6LDRSNHMY.jpg?auth=cf814517683c7153f82a7f0ac8817c5b1622777e5980ffc541a8e11241d991a0&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "temporales",
+            "murcia",
+            "lluvia",
+            "viento",
+            "españa",
+            "meteorología",
+            "dana",
+            "castilla-la mancha",
+            "inundaciones"
+        ],
+        "link": "https://elpais.com/espana/2024-11-08/ultima-hora-de-la-dana-en-directo.html",
+        "date": "2024-11-08 05:42:54",
+        "sentiment_score": 0.039133504033088684
+    },
+    {
+        "title": "El fango de la corrupción navega entre dos aguas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/55WGLXF6CSWB3W7KP4BVAO2J2E.jpg?auth=034f3179a9bab28a30acd66c03186cfd601721de798593013bdb176e22f127cd&width=1200",
+        "tags": [
+            "generalitat valenciana",
+            "corrupción",
+            "carlos mazón",
+            "voluntarios",
+            "caso koldo",
+            "valencia",
+            "inundaciones dana octubre 2024",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-08/el-fango-de-la-corrupcion-navega-entre-dos-aguas.html",
+        "date": "2024-11-08 04:40:00",
+        "sentiment_score": -0.7225928418338299
+    },
+    {
+        "title": "La consejera responsable de emergencias conocía la oferta de la UME al menos una hora y cuarto antes de solicitar su intervención",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KBFEXU2NPNM4XXRF7EKAVNNPAM.jpg?auth=a1f415ba8c65cfa476d2720564aa5bcd47266b423e37f8ea1f87c79d5b1721f3&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-08/la-consejera-responsable-de-emergencias-conocia-la-oferta-de-la-ume-al-menos-una-hora-y-cuarto-antes-de-solicitar-su-intervencion.html",
+        "date": "2024-11-08 04:40:00",
+        "sentiment_score": -0.4632810689508915
+    },
+    {
+        "title": "“No somos víctimas de la dana, pero sí del hambre y la explotación”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DKCTQWZRQBGFXJKGFHATVWG6WI.jpg?auth=009d636a93e8807b68d21a5216c00c5cec3ef0f649f940bb7859428be6b77589&width=1200",
+        "tags": [
+            "temporales",
+            "colombia",
+            "inmigración irregular españa",
+            "valencia",
+            "policía",
+            "venezuela",
+            "torrent",
+            "españa",
+            "refugiados",
+            "inmigración",
+            "lluvia"
+        ],
+        "link": "https://elpais.com/espana/2024-11-08/no-somos-victimas-de-la-dana-pero-si-del-hambre-y-la-explotacion.html",
+        "date": "2024-11-08 04:40:00",
+        "sentiment_score": -0.8845036309212446
+    },
+    {
+        "title": "La respuesta de la Generalitat el día de la dana: ocho horas en las que desdeñó los avisos de Aemet, alcaldes, 112 y la Confederación del Júcar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WI2KPHBPNKFWPTWRAQ6VOBYR6E.jpg?auth=6a881a78e7fb91891c074e4d75657e37be91941a3a079c24dfa03b845a8eeea3&width=1200",
+        "tags": [
+            "generalitat valenciana",
+            "carlos mazón",
+            "ríos",
+            "pp",
+            "ppcv",
+            "gobierno",
+            "aemet",
+            "comunidad valenciana",
+            "inundaciones",
+            "inundaciones dana octubre 2024",
+            "lluvias torrenciales",
+            "chj",
+            "barrancos"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-08/la-respuesta-de-la-generalitat-el-dia-de-la-dana-ocho-horas-en-las-que-desdeno-los-avisos-de-aemet-alcaldes-112-y-la-confederacion-del-jucar.html",
+        "date": "2024-11-08 04:40:00",
+        "sentiment_score": 0.05826079100370407
+    },
+    {
+        "title": "Enterrar a una víctima de la dana: “La única opción era incinerarla, o llevarla a otro pueblo, y me negué”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XO6VUYHBEVDTLFS6FYHLCEWWFY.jpg?auth=ac1f83b91e9ee497f2d2f036ca4d7ad5cf873d6b6fac727b3f8bffff91d44767&width=1200",
+        "tags": [
+            "catarroja",
+            "entierros",
+            "justicia",
+            "valencia",
+            "dana",
+            "funerarias",
+            "españa",
+            "muertes"
+        ],
+        "link": "https://elpais.com/espana/2024-11-08/enterrar-a-una-victima-de-la-dana-la-unica-opcion-era-incinerarla-o-llevarla-a-otro-pueblo-y-me-negue.html",
+        "date": "2024-11-08 04:40:00",
+        "sentiment_score": -0.770939176902175
+    },
+    {
+        "title": "Sumar y Podemos, regreso al pasado",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IWFD4VMBCRFIBPV2UYI3NCRBJI.jpg?auth=a2947edba63cc36ed4e2aaf0fd1ed99c8a6a761c447b883c4359c830c308c46a&width=1200",
+        "tags": [
+            "cataluña",
+            "congreso diputados",
+            "sumar",
+            "gobierno",
+            "política",
+            "íñigo errejón",
+            "psoe",
+            "podemos"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-08/sumar-y-podemos-regreso-al-pasado.html",
+        "date": "2024-11-08 04:15:00",
+        "sentiment_score": -0.9234612137079239
+    },
+    {
+        "title": "Así se vacía de vecinos un barrio de Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZFSH24YI2NBH7DZW3EMM7FH4WU.jpg?auth=6e699880dd65189a4d11faab5e11334c1b3b47560066b9c47f20a5a72d37aa5c&width=1200",
+        "tags": [
+            "precio vivienda",
+            "cataluña",
+            "fondos inversión",
+            "vivienda",
+            "jordi valls riera",
+            "propiedad",
+            "precios",
+            "ayuntamiento barcelona",
+            "contratos",
+            "eixample",
+            "vecinos",
+            "mercado inmobiliario",
+            "viviendas alquiler",
+            "barcelona",
+            "gentrificación"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-08/asi-se-vacia-de-vecinos-un-barrio-de-barcelona.html",
+        "date": "2024-11-08 04:15:00",
+        "sentiment_score": -0.8799621956422925
+    },
+    {
+        "title": "Los imprescindibles del MIRA y el World Press Photo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5CFXZJDGJFEXLPGEKHMEHPF3CY.png?auth=3c64d331358e77ad7a56fcb3a9bf475ab42bf3eb05a1894490690c82f537c354&width=1200",
+        "tags": [
+            "coches",
+            "música",
+            "fotografía",
+            "música en vivo",
+            "planes",
+            "cataluña",
+            "ocio",
+            "cultura",
+            "exposiciones temporales",
+            "familia",
+            "exposiciones"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-08/los-imprescindibles-del-mira-y-el-world-press-photo.html",
+        "date": "2024-11-08 04:13:00",
+        "sentiment_score": 0.707277812063694
+    },
+    {
+        "title": "24 horas de guardia en unas urgencias extrahospitalarias de Madrid: “He realizado un triaje de guerra”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZUN3U5BY4VDOHK3HANG5YRRHRE.jpeg?auth=b307306f301c947f32a21838fff717b6258344a58f1def4d6955aa338a94e7e8&width=1200",
+        "tags": [
+            "ambulancias",
+            "emergencias",
+            "hospitales",
+            "sanidad pública",
+            "sanidad",
+            "madrid",
+            "centros salud",
+            "atención primaria",
+            "pacientes",
+            "comunidad de madrid",
+            "médicos",
+            "uvi",
+            "arganda del rey"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-08/24-horas-de-guardia-en-unas-urgencias-extrahospitalarias-de-madrid-he-realizado-un-triaje-de-guerra.html",
+        "date": "2024-11-08 04:00:00",
+        "sentiment_score": -0.054806165397167206
+    },
+    {
+        "title": "Los comercios comienzan a reabrir en Valencia tras la DANA que mató al menos a 219 personas",
+        "image_url": "https://static.euronews.com/articles/stories/08/83/91/38/1200x675_cmsv2_1e6be216-af2e-5089-aa34-8a176cd04a95-8839138.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.euronews.com/my-europe/2024/11/08/los-comercios-comienzan-a-reabrir-en-valencia-tras-la-dana-que-mato-al-menos-219-personas",
+        "date": "2024-11-08 06:28:26",
+        "sentiment_score": -0.9031612481921911
+    },
+    {
+        "title": "La búsqueda, apuesta y defensa de la autonomía personal, bandera del VI Congreso Nacional de Educación Especial",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/11/07/whatsapp-image-2024-11-07-at-15-58-50.r_d.1219-716-8092.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/noticia/5651943/0/busqueda-apuesta-defensa-autonomia-personal-una-las-banderas-educacion-especial/",
+        "date": "2024-11-08 06:27:11",
+        "sentiment_score": 0.5652398131787777
+    },
+    {
+        "title": "Catorce horas: anatomía de una crisis que acabó con más de 200 muertos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1c95ed8-2610-41bb-9483-22b738662656_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/nacional/2024/11/08/doce-horas-anatomia-crisis-acabo-111492119.html",
+        "date": "2024-11-08 06:21:15",
+        "sentiment_score": -0.8443896761164069
+    },
+    {
+        "title": "Vestido como nunca le habría dejado Luis Aragonés y con una competencia de altura: así recuperó el Atlético al mejor Oblak",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cb5a353a-9718-4749-81f9-4894d9ff98c2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2024/11/08/vestido-le-habria-dejado-luis-111492084.html",
+        "date": "2024-11-08 06:21:05",
+        "sentiment_score": -0.30075324326753616
+    },
+    {
+        "title": "CGT pide el cese del gerente de Obimace",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1121720",
+        "date": "2024-11-08 06:30:18",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "El Banco de Alimentos pide donaciones económicas tras la DANA",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1121742",
+        "date": "2024-11-08 06:28:45",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Glug, Garum y Cal Boter",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/040e961c-396e-4f89-8eb9-c5d72856c365_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241108/buenos-restaurantes-barcelona-glug-garum-cal-boter-111472139",
+        "date": "2024-11-08 06:25:57",
+        "sentiment_score": -0.2884330675005913
+    },
+    {
+        "title": "Juan Carlos, un multiusos del deporte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1121552",
+        "date": "2024-11-08 06:20:02",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Lo que debes saber hoy, 8 de noviembre, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/05/13/informacion-municipal/580951934_11128071_1706x960.jpg?contentId=ESPIMA20210513_0035",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241108/lo-que-debes-saber-hoy-de-noviembre-barcelona/899660027_0.html",
+        "date": "2024-11-08 06:11:52",
+        "sentiment_score": -0.03656169772148132
+    },
+    {
+        "title": "Protección de Datos sanciona al Hospital Clínic de Barcelona por el ciberataque del año pasado",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/01/05/el-pulso-de-la-ciudad/640196025_10919369_1706x960.jpg?contentId=ESPIMA20220105_0051",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20241108/proteccion-de-datos-sanciona-al-hospital-clinic-barcelona-por-el-ciberataque-del-ano-pasado/899410154_0.html",
+        "date": "2024-11-08 06:05:26",
+        "sentiment_score": -0.6763530410826206
+    },
+    {
+        "title": "Un viejo conocido de Laporta aparece en las reuniones con Nike, que quiere parte del negocio del Barça",
+        "image_url": "https://static1.ara.cat/clip/afb1a056-1a73-40de-9d6b-f1b9ec419b06_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/viejo-conocido-laporta-aparece-reuniones-nike-quiere-parte-negocio-barca_1_5194100.html",
+        "date": "2024-11-08 06:00:36",
+        "sentiment_score": -0.2035449668765068
+    },
+    {
+        "title": "Avena, soja, avellana... Los nutricionistas desvelan cuáles son las bebidas vegetales más saludables",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2024/11/04/4B443B4B-12D7-4D52-9CAA-C752197F47A3/avena-soja-avellana-estas-son-bebidas-vegetales-mas-saludables-segun-expertos_70.jpg?crop=724%2C407%2Cx0%2Cy35&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "salud",
+            "ondacero",
+            "noticias"
+        ],
+        "link": "https://www.ondacero.es/noticias/salud/avena-soja-avellana-nutricionistas-desvelan-cuales-son-bebidas-vegetales-mas-saludables_20241108672da8ed65664200019bb475.html",
+        "date": "2024-11-08 06:00:13",
+        "sentiment_score": -0.406705841422081
+    },
+    {
+        "title": "LOS40 Music Awards 2024 llegan a Barcelona en formato solidario",
+        "image_url": "http://www.publico.es//uploads/2024/11/08/241108070000_imagen-destacada-1-1.jpg",
+        "tags": [
+            "external"
+        ],
+        "link": "https://www.publico.es/uwu/cultura/los40-music-awards-2024-llegan-a-barcelona-en-formato-solidario/",
+        "date": "2024-11-08 06:00:00",
+        "sentiment_score": 0.6212224252521992
+    },
+    {
+        "title": "El Gobierno español subasta Lamborghinis, Ferraris y otros coches de lujo de narcos, desde 150 euros",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/06/672b60a4bec0e.r_d.1005-662-0.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20241108/10083114/gobierno-espano-subasta-lamborghini-ferrari-otros-coches-lujo-narcos-desde-150-euros-tsc.html",
+        "date": "2024-11-08 06:00:00",
+        "sentiment_score": -0.17479980736970901
     }
 ];
