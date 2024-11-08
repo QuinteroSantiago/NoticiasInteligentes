@@ -176,46 +176,6 @@ export default [
         "sentiment_score": -0.1069246232509613
     },
     {
-        "title": "Las aseguradoras reclaman al Gobierno que recupere incentivos al ahorro para la jubilación",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/04/mesa-ahorro-Rw9ypwSGMyebMq9RWiVQHDP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aseguradoras-reclaman-gobierno-recupere-incentivos-ahorro-jubilacion-20241104142546-nt.html",
-        "date": "2024-11-04 13:25:46",
-        "sentiment_score": 0.022693365812301636
-    },
-    {
-        "title": "¿Cuánto me pagará el seguro por la DANA? ¿es compatible con las ayudas? Preguntas y respuestas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/04/1488208344-Rz7KxRijEfgRXUcaYA2P3AL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/pagara-seguro-dana-compatible-ayudas-preguntas-respuestas-20241104135545-nt.html",
-        "date": "2024-11-04 12:57:27",
-        "sentiment_score": -0.13806895911693573
-    },
-    {
-        "title": "Rusia intensifica el lanzamiento de drones contra Ucrania mientras bajan las temperaturas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/04/1488239273-RhebqOgXjU9S69rzVL0r0GI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-intensifica-lanzamiento-drones-ucrania-bajan-temperaturas-20241104135456-nt.html",
-        "date": "2024-11-04 12:54:57",
-        "sentiment_score": -0.08112764358520508
-    },
-    {
-        "title": "Videoanálisis | El derecho a elegir, el buque insignia de Kamala",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/10/30/donald-trump-presidente-U16656747180tYZ-366x256@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/videoanalisis-derecho-elegir-buque-insignia-kamala-20241031185213-nt.html",
-        "date": "2024-11-04 11:01:39",
-        "sentiment_score": -0.08094130456447601
-    },
-    {
         "title": "La ayuda a Paiporta se reaviva con más refuerzos: “Hoy se ven muchos más militares”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/7KGNIJ4RE5EPHMK22MIBQ5KTM4.jpg?auth=f107bc131b524bae87fe44bffdeaf7b2dd416b06afeb4d963d31a498637b739f&width=1200",
         "tags": [
@@ -291,102 +251,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-04/dimite-una-edil-del-pp-en-jaen-por-incitar-al-odio-con-insultos-a-sanchez.html",
         "date": "2024-11-04 14:35:32",
         "sentiment_score": -0.7260480895638466
-    },
-    {
-        "title": "Críticas a Rafael Hernando por reprochar el aviso rojo de Aemet en Almería: “Nada fue grave”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NFKKVPX7E6RXYMCQA7HG6N6IJY.jpg?auth=442d06f99d4b035b8204ebe7f20897ba771c1796f0c93f3b3ee4a6f9b1fd754b&width=1200",
-        "tags": [
-            "aemet",
-            "emergencia climática",
-            "pp",
-            "valencia",
-            "rafael hernando",
-            "carlos mazón",
-            "españa",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/criticas-a-rafael-hernando-por-reprochar-el-aviso-rojo-de-aemet-en-almeria-nada-fue-grave.html",
-        "date": "2024-11-04 13:44:00",
-        "sentiment_score": -0.5763931646943092
-    },
-    {
-        "title": "Una Valencia sumida en el trauma lucha por volver a la normalidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AKGSJWFRX5D3ZO6BICPQM6HZEA.jpg?auth=a0ae9b71b4357993d58e35156556e12ed19329f457bc6c1ef2f15e2e968b1bb0&width=1200",
-        "tags": [
-            "sucesos",
-            "comunidad valenciana",
-            "valencia",
-            "españa",
-            "inundaciones dana octubre 2024",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/una-valencia-sumida-en-el-trauma-lucha-por-volver-a-la-normalidad.html",
-        "date": "2024-11-04 13:06:43",
-        "sentiment_score": -0.9087966457009315
-    },
-    {
-        "title": "Aplazado un desahucio a una madre soltera en Barcelona que se mantenía pese a la alerta por el temporal",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5GY2QZOWPDNDZ3N2SYMTDBNONA.jpg?auth=665ee822f973d1fc08c18aa0ebd1e26b909f509ded52ce8c3860b52cc5c86f1d&width=1200",
-        "tags": [
-            "lluvia",
-            "cataluña",
-            "vivienda",
-            "desahucios",
-            "temporales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-04/aplazado-un-desahucio-a-una-madre-soltera-en-barcelona-que-se-mantenia-pese-a-la-alerta-por-el-temporal.html",
-        "date": "2024-11-04 12:24:08",
-        "sentiment_score": -0.5838211365044117
-    },
-    {
-        "title": "¿Por qué no hay cifras de desaparecidos y la de muertes no se actualiza? Entre la dificultad y la falta de transparencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3L5LRWQYP5DPPF67FUD5XXPSU4.JPG?auth=fadca95ec099345e560f2f9fefb8be97f4a6dfd46795f3b7701014839532d6b6&width=1200",
-        "tags": [
-            "desabastecimiento",
-            "emergencia climática",
-            "víctimas",
-            "adn",
-            "dana",
-            "emergencia sanitaria",
-            "meteorología",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/por-que-no-hay-cifras-de-desaparecidos-y-la-de-muertes-no-se-actualiza-entre-la-dificultad-y-la-falta-de-transparencia.html",
-        "date": "2024-11-04 12:14:07",
-        "sentiment_score": -0.365832956507802
-    },
-    {
-        "title": "El Constitucional admitirá el recurso del PP contra la ley de amnistía y rechazará la recusación del magistrado José María Macías",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SGWBI6ZX5NHBBBASPU6R7FIQCU.jpg?auth=081985f59e737b54d3ffd2dc64138c8c35a753088e3c11b11fddae1aa0e5ae42&width=1200",
-        "tags": [
-            "cgpj",
-            "candido conde-pumpido touron",
-            "abogacía general estado",
-            "españa",
-            "amnistía",
-            "tribunal constitucional",
-            "procés independentista catalán"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/el-constitucional-admitira-el-recurso-del-pp-contra-la-ley-de-amnistia-y-rechazara-la-recusacion-del-magistrado-jose-maria-macias.html",
-        "date": "2024-11-04 12:06:18",
-        "sentiment_score": -0.6576806679368019
-    },
-    {
-        "title": "En imágenes: Valencia inicia la semana con la limpieza de las calles y la búsqueda de víctimas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZOTXK2MYIZBPNJRZOAW4O6WA4I.jpg?auth=7f80dbc03d0fe232645f3110fb942f8cd9680468445bc81289972465a8f61a75&width=1200",
-        "tags": [
-            "inundaciones dana octubre 2024",
-            "lluvias torrenciales",
-            "desastres naturales",
-            "ume",
-            "valencia",
-            "españa",
-            "ejército español",
-            "efectos catástrofes"
-        ],
-        "link": "https://elpais.com/espana/2024-11-04/en-imagenes-valencia-inicia-la-semana-con-la-limpieza-de-las-calles-y-la-busqueda-de-victimas.html",
-        "date": "2024-11-04 11:20:23",
-        "sentiment_score": -0.03941822797060013
     },
     {
         "title": "¿Cuándo se disputan los partidos aplazados por la DANA?",
@@ -6946,5 +6810,303 @@ export default [
         "link": "https://www.hoy.es/sociedad/acertantes-bonoloto-jueves-20241107224636-nt.html",
         "date": "2024-11-07 21:31:03",
         "sentiment_score": 0.17822912335395813
+    },
+    {
+        "title": "Marina mexicana decomisa más de tres toneladas de presunta cocaína en el Pacífico",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/semar-thumb.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "marina",
+            "méxico",
+            "guerrero",
+            "acapulco",
+            "drogas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marina-mexico-toneladas-cocaina-drogas-acapulco-orix/",
+        "date": "2024-11-08 02:08:14",
+        "sentiment_score": -0.2982446625828743
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 7 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-7-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-08 01:44:15",
+        "sentiment_score": 0.14094620198011398
+    },
+    {
+        "title": "Un juez federal anula la política de inmigración de Biden que protegía de la deportación a ciertos cónyuges indocumentados de ciudadanos estadounidenses",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778252-biden-politica-migratoria-conyuges-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inmigración",
+            "inmigrantes indocumentados",
+            "joe biden"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/07/juez-anula-politica-inmigracion-biden-protegia-deportacion-conyuges-indocumentados-ciudadanos-estadounidenses-trax/",
+        "date": "2024-11-08 01:41:53",
+        "sentiment_score": -0.7120676804333925
+    },
+    {
+        "title": "El teléfono del abogado de Trump fue intervenido por hackers chinos, dijeron fuentes a CNN",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778159-hackers-chinos-abogado-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hackers",
+            "donald trump",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/07/telefono-abogado-trump-intervenido-hackers-chinos-trax/",
+        "date": "2024-11-08 01:33:17",
+        "sentiment_score": -0.42354241758584976
+    },
+    {
+        "title": "Incautan 13 toneladas de cocaína en España, el mayor decomiso en la historia del país",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778246-incautan-cocaina-espana.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "drogas",
+            "españa",
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/07/incautan-toneladas-cocaina-espana-decomiso-historia-orix/",
+        "date": "2024-11-08 01:22:44",
+        "sentiment_score": -0.24573655426502228
+    },
+    {
+        "title": "Edmundo González dice que es un \"ataque\" la decisión de la Fiscalía de Venezuela de pedir su arresto por Interpol",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1767181-gettyimages-2177659794.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "interpol",
+            "edmundo gonzález",
+            "elecciones",
+            "venezuela noticias",
+            "venezuela",
+            "justicia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/07/edmundo-gonzalez-ataque-fiscalia-venezuela-interpol-orix/",
+        "date": "2024-11-08 01:04:44",
+        "sentiment_score": -0.6504379510879517
+    },
+    {
+        "title": "ANÁLISIS | El plan maestro de Trump para una reforma a fondo del gobierno de Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778227-c-2024-11-06t075835z-836502340-hp1ekb60m5l85-rtrmadp-3-usa-election-trump-20241107205800911-20241107205818316-20241107205833053.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos",
+            "elecciones ee.uu. 2024",
+            "análisis",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/07/analisis-plan-maestro-trump-reforma-gobierno-estados-unidos-trax/",
+        "date": "2024-11-08 01:04:13",
+        "sentiment_score": -0.2537221610546112
+    },
+    {
+        "title": "ANÁLISIS | Voto latino: cuánto peso tuvo realmente en la victoria de Donald Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778231-latinos-por-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/07/analisis-voto-latino-cuanto-peso-victoria-trump-orix/",
+        "date": "2024-11-08 00:37:42",
+        "sentiment_score": -0.06352043151855469
+    },
+    {
+        "title": "¿Cómo afecta la victoria de Trump a la guerra entre Rusia y Ucrania?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/eeuu-elecciones-victoria-trump-guerra-rusia-ucrania-trax-00-00-01-18-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones ee.uu. 2024",
+            "ee.uu.",
+            "rusia ucrania",
+            "noticias de rusia",
+            "noticias de ee.uu.",
+            "guerra ucrania rusia",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-victoria-trump-guerra-rusia-ucrania-trax/",
+        "date": "2024-11-08 00:31:27",
+        "sentiment_score": -0.8560745501890779
+    },
+    {
+        "title": "¿Cómo afecta la victoria de Trump a la guerra entre Rusia y Ucrania?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/eeuu-elecciones-victoria-trump-guerra-rusia-ucrania-trax-00-00-01-18-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-victoria-trump-guerra-rusia-ucrania-trax",
+        "date": "2024-11-08 00:31:27",
+        "sentiment_score": -0.40775034949183464
+    },
+    {
+        "title": "Malas noticias para Europa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/08/1488315877-RqcSLSRTqVBP1X6kKfMP1uN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ignacio-marcogardoqui-malas-noticias-europa-20241108003159-nt.html",
+        "date": "2024-11-07 23:31:59",
+        "sentiment_score": -0.13833075761795044
+    },
+    {
+        "title": "Testosterona, la hormona de moda para aumentar la libido femenina: \"Funciona muchísimo\", asegura Elsa Anka",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/7a3dd03731ee78b722e6db30508ad5d3/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/07/17309681178795.jpg",
+        "tags": [
+            "actualidad y tendencias",
+            "artículos marisa del bosque",
+            "yodona",
+            "lifestyle"
+        ],
+        "link": "https://www.elmundo.es/yodona/vida-saludable/2024/11/08/672a1f7bfdddff266e8b4590.html",
+        "date": "2024-11-08 01:55:02",
+        "sentiment_score": 0.07158993184566498
+    },
+    {
+        "title": "La crisis de Muface azuza las protestas de los funcionarios contra la gestión del Gobierno: \"¡Con la salud no se juega!\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/6cf54e95f3f2a5c467cbec59b55a465f/crop/0x86/2016x1430/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/28/17301139361891.jpg",
+        "tags": [
+            "seguridad social",
+            "ccoo",
+            "empleo",
+            "funcionarios",
+            "ugt",
+            "sanidad",
+            "artículos cristina alonso"
+        ],
+        "link": "https://www.elmundo.es/economia/2024/11/08/672d0aa5fc6c83c2688b4587.html",
+        "date": "2024-11-08 01:54:58",
+        "sentiment_score": -0.4535836689174175
+    },
+    {
+        "title": "Los becarios que estudian fuera de casa recibirán 200 euros más el próximo curso",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/11/07/Imagen%20uni2-RARB60qHANksvRVJYu6UHgO-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.canarias7.es/sociedad/educacion/becarios-estudian-casa-recibiran-200-euros-proximo-20241108025007-ntrc.html",
+        "date": "2024-11-08 01:50:29",
+        "sentiment_score": 0.05426398664712906
+    },
+    {
+        "title": "Si llenas el depósito de tu coche con este diésel ahorrarás dinero y, además, contaminarás menos: sacamos la calculadora",
+        "image_url": "https://s1.elespanol.com/2024/11/06/motor/899171080_250670620_1706x960.jpg?contentId=ESPIMA20241106_1006",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20241108/llenas-deposito-coche-diesel-ahorraras-dinero-ademas-contaminaras-sacamos-calculadora/899160651_0.html",
+        "date": "2024-11-08 01:21:31",
+        "sentiment_score": 0.3836255967617035
+    },
+    {
+        "title": "Los mejores planes este fin de semana en Madrid: celebrar la Almudena en Plaza Mayor y un mercadillo en pleno centro",
+        "image_url": "https://s1.elespanol.com/2023/11/07/actualidad/807929614_237399468_1706x960.jpg?contentId=ESPIMA20231107_0415",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241108/mejores-planes-fin-semana-madrid-celebrar-almudena-plaza-mayor-mercadillo-pleno-centro/899160525_0.html",
+        "date": "2024-11-08 01:06:57",
+        "sentiment_score": -0.10322438925504684
+    },
+    {
+        "title": "El Real Madrid marca el camino al Barça con la explotación de los palcos VIP del nuevo Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/11/25/culemania/palco/812428834_11951155_1706x960.jpg?contentId=ESPIMA20231125_0085",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241108/el-real-madrid-barca-vip-camp-nou/899410185_0.html",
+        "date": "2024-11-08 01:06:38",
+        "sentiment_score": 0.7428968660533428
+    },
+    {
+        "title": "Más de mil personas se manifiestan delante de la sede del PP en Barcelona pidiendo la dimisión de Mazón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "catalunya",
+            "politica",
+            "dana",
+            "valencia",
+            "pp"
+        ],
+        "link": "https://www.meneame.net/story/mas-mil-personas-manifiestan-delante-sede-pp-barcelona-pidiendo",
+        "date": "2024-11-08 02:00:04",
+        "sentiment_score": -0.5019846446812153
+    },
+    {
+        "title": "Luis de la Fuente y su lista para la Nations League: dudas y nuevas promesas",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/08/2024110802233571723.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/luis-fuente-lista-nations-league-dudas-nuevas-promesas/20241108022625323317.html",
+        "date": "2024-11-08 01:26:25",
+        "sentiment_score": -0.1662990227341652
+    },
+    {
+        "title": "La izquierda inyectó en la etapa de Ximo Puig 3,7 M a la entidad que convoca la manifestación en Valencia contra Mazón",
+        "image_url": "https://s1.elespanol.com/2024/11/07/actualidad/899421233_250706845_1706x960.jpg?contentId=ESPIMA20241107_1184",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241108/izquierda-inyecto-etapa-ximo-puig-entidad-convoca-manifestacion-valencia-mazon/899410200_0.html",
+        "date": "2024-11-08 01:25:20",
+        "sentiment_score": 0.17747032642364502
+    },
+    {
+        "title": "Almeida y los concejales de Madrid se suben otra vez el sueldo: el alcalde ganará 2.213 euros más en 2025",
+        "image_url": "https://s1.elespanol.com/2024/11/07/madrid/capital/899421024_250700420_1706x960.jpg?contentId=ESPIMA20241107_0975",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241108/almeida-concejales-madrid-suben-vez-sueldo-alcalde-ganara-euros/899410425_0.html",
+        "date": "2024-11-08 01:06:53",
+        "sentiment_score": -0.08588360249996185
+    },
+    {
+        "title": "Lamine Yamal, el nuevo foco que puede relanzar el negocio del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/08/culemania/palco/899670028_13693647_1706x960.jpg?contentId=ESPIMA20241108_0004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241108/lamine-yamal-el-nuevo-relanzar-negocio-barca/899660026_0.html",
+        "date": "2024-11-08 01:06:49",
+        "sentiment_score": 0.7119517587125301
+    },
+    {
+        "title": "De la exposición 'circular' al taller literario contra las relaciones tóxicas: estos son los planes ODS de la semana",
+        "image_url": "https://s1.elespanol.com/2024/11/07/enclave-ods/semanales/899420876_250695934_1706x960.png?contentId=ESPIMA20241107_0827",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/semanales/20241108/exposicion-circular-taller-literario-relaciones-toxicas-planes-ods-semana/899160537_0.html",
+        "date": "2024-11-08 00:54:15",
+        "sentiment_score": 0.45872678607702255
+    },
+    {
+        "title": "Trump y los combustibles fósiles: el idilio del presidente electo de EEUU que marcará una nueva era climática",
+        "image_url": "https://s1.elespanol.com/2024/11/07/enclave-ods/historias/899420380_250680941_1706x960.jpg?contentId=ESPIMA20241107_0331",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20241108/trump-combustibles-fosiles-idilio-presidente-electo-eeuu-marcara-nueva-climatica/899410169_0.html",
+        "date": "2024-11-08 00:54:13",
+        "sentiment_score": -0.8529254831373692
+    },
+    {
+        "title": "El 'Google Maps personalizado' que facilita la autonomía en el transporte público a las personas más dependientes",
+        "image_url": "https://s1.elespanol.com/2024/11/07/invertia/disruptores/ecosistema-startup/startups/899420207_250675595_1706x960.jpg?contentId=ESPIMA20241107_0158",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20241108/google-maps-personalizado-facilita-autonomia-transporte-publico-personas-dependientes/898910616_0.html",
+        "date": "2024-11-08 00:48:38",
+        "sentiment_score": 0.28836777061223984
+    },
+    {
+        "title": "Lotería Navidad 2024: las administraciones más afortunadas de Extremadura",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/22/ganador-de-la-loteria-de-navidad-con-decimo-comprado-en-la-encina-magica_57d1.jpg",
+        "tags": [
+            "lotería de navidad"
+        ],
+        "link": "https://www.telecinco.es/noticias/loterias/loteria-de-navidad/20241108/administraciones-mas-afortunadas-extremadura-be5m_18_013792994.html",
+        "date": "2024-11-08 00:30:39",
+        "sentiment_score": 0.4343419522047043
     }
 ];
