@@ -179,36 +179,6 @@ export default [
         "sentiment_score": -0.10695639252662659
     },
     {
-        "title": "La banca tiene una exposición de 20.000 millones y casi 500.000 créditos a las zonas afectadas por la DANA",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/05/destrozos-dana-RbbmWV5xHrl1hLXeaqFyiRK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/banca-exposicion-20000-millones-500000-creditos-zonas-20241105144740-nt.html",
-        "date": "2024-11-05 14:04:50",
-        "sentiment_score": -0.10507990419864655
-    },
-    {
-        "title": "Kamala Harris se pone por delante en las encuestas en EE.UU., pero Trump se mantiene en cabeza en la mayoría de los estados clave",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/10/22/encuesta-diaria-1200x840-U603239503019szG-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/kamala-harris-pone-delante-encuestas-eeuu-trump-20241105144217-nt.html",
-        "date": "2024-11-05 14:04:12",
-        "sentiment_score": -0.07917892932891846
-    },
-    {
-        "title": "Las elecciones en EE.UU. condicionan una potencial escalada en Oriente Próximo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/05/Palestinos-RXyOvBiFuLx06yUgUnp4kyN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/elecciones-eeuu-condicionan-potencial-escalada-oriente-proximo-20241105145507-nt.html",
-        "date": "2024-11-05 13:55:08",
-        "sentiment_score": -0.14549027383327484
-    },
-    {
         "title": "¿Pueblo salva pueblo? Populista, no popular",
         "image_url": "https://imagenes.elpais.com/resizer/v2/IYIQSK2EKF2GQU3M773ADF42KE.jpg?auth=52c0e52faa11f87f2a3a20aa6e2d04a70c77940d0b54603ba74bb9cd17a5d61b",
         "tags": [
@@ -6452,5 +6422,310 @@ export default [
         "link": "https://www.elcorreogallego.es/deportes/2024/11/08/barca-solido-defensa-da-opcion-111524590.html",
         "date": "2024-11-08 21:36:00",
         "sentiment_score": 0.5648427754640579
+    },
+    {
+        "title": "Mexicanos mueren más por problemas del corazón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/causas-muerte-mexicanos-perspectivas-mexico-tv",
+        "date": "2024-11-09 02:00:40",
+        "sentiment_score": -0.7341253198683262
+    },
+    {
+        "title": "Mexicanos mueren más por problemas del corazón",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1234548998.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "infarto",
+            "enfermedades del corazón",
+            "salud pública"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/causas-muerte-mexicanos-perspectivas-mexico-tv/",
+        "date": "2024-11-09 02:00:40",
+        "sentiment_score": -0.5570561848580837
+    },
+    {
+        "title": "Colombia indaga compra de software Pegasus con dinero de EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colombia-pegasus-financiamiento-estados-unidos-perspectivas-mexico-tv",
+        "date": "2024-11-09 01:57:01",
+        "sentiment_score": 0.12904270738363266
+    },
+    {
+        "title": "Colombia indaga compra de software Pegasus con dinero de EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1238318155.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "colombia",
+            "espionaje",
+            "colombia noticias",
+            "pegasus"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colombia-pegasus-financiamiento-estados-unidos-perspectivas-mexico-tv/",
+        "date": "2024-11-09 01:57:01",
+        "sentiment_score": -0.022606685757637024
+    },
+    {
+        "title": "El mercado de la vivienda, ¿cambiará con el nuevo Gobierno de Trump?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/presidente-trump-mercado-vivienda-trax",
+        "date": "2024-11-09 01:42:16",
+        "sentiment_score": -0.14285746589303017
+    },
+    {
+        "title": "El mercado de la vivienda, ¿cambiará con el nuevo Gobierno de Trump?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2166343943-20241107214708372-20241109013708304.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/presidente-trump-mercado-vivienda-trax/",
+        "date": "2024-11-09 01:42:16",
+        "sentiment_score": -0.05169957876205444
+    },
+    {
+        "title": "Fallo del Tribunal Constitucional de Bolivia cierra el camino a una nueva reelección de Evo Morales",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778723-evo-morales-reeleccion.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "evo morales",
+            "bolivia",
+            "instanoticias",
+            "luis arce"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/08/fallo-tcp-bolivia-cierra-camino-reeleccion-evo-morales-orix/",
+        "date": "2024-11-09 01:38:18",
+        "sentiment_score": -0.38762935996055603
+    },
+    {
+        "title": "ANÁLISIS | Trump afirma que Kim Jong Un \"lo extraña\", pero tratará con un líder de Corea del Norte muy distinto esta vez",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778653-ap21347083987702.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "corea del norte",
+            "noticias de donald trump",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/08/analisis-trump-kim-jong-un-extrana-lider-corea-del-norte-trax/",
+        "date": "2024-11-09 01:38:15",
+        "sentiment_score": -0.5809063948690891
+    },
+    {
+        "title": "Luis Arce acusa a legisladores afines a Evo Morales de provocar un \"acto vandálico\" que llevó a suspender la sesión de honor en el Congreso",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778722-legisladores-bolivia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bolivia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/08/luis-arce-acusa-legisladores-provocar-acto-vandalico-orix/",
+        "date": "2024-11-09 01:35:13",
+        "sentiment_score": -0.8994746832177043
+    },
+    {
+        "title": "Qatar acuerda expulsar a Hamas de Doha tras solicitud de EE.UU., según fuentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778704-hamas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/08/qatar-acuerda-expulsar-a-hamas-doha-trax/",
+        "date": "2024-11-09 01:08:18",
+        "sentiment_score": -0.6744398064911366
+    },
+    {
+        "title": "Sin fondos de contingencia contra la DANA",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/04/melendi-cancion-valencia-kEvC--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-fondos-contingencia-dana-20241109005203-nt.html",
+        "date": "2024-11-08 23:52:13",
+        "sentiment_score": -0.3213399648666382
+    },
+    {
+        "title": "Mazón, demasiados errores",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/11/05/IMG-20241105-WA0015-kylB--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-mazon-demasiados-errores-20241109194332-nt.html",
+        "date": "2024-11-08 23:52:00",
+        "sentiment_score": -0.12512066960334778
+    },
+    {
+        "title": "El jefe de Blanqueo de la Policía en Madrid facilitó durante años la entrada en España de grandes alijos de droga en contenedores",
+        "image_url": "https://s1.elespanol.com/2024/11/09/espana/899920012_250740030_1706x960.png?contentId=ESPIMA20241109_0013",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241109/jefe-blanqueo-policia-madrid-facilito-anos-entrada-espana-grandes-alijos-droga-contenedores/899660564_0.html",
+        "date": "2024-11-09 01:27:07",
+        "sentiment_score": -0.8491346975788474
+    },
+    {
+        "title": "El intento iraní de asesinar a Trump pone el foco de nuevo en las redes de criminales a sueldo de los ayatolás en Occidente",
+        "image_url": "https://s1.elespanol.com/2024/11/08/mundo/america/eeuu/899670875_250734408_1706x960.jpg?contentId=ESPIMA20241108_0851",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/america/eeuu/20241109/intento-irani-asesinar-trump-pone-foco-nuevo-redes-criminales-sueldo-ayatolas-occidente/899660570_0.html",
+        "date": "2024-11-09 01:27:05",
+        "sentiment_score": -0.8370714355260134
+    },
+    {
+        "title": "Miguel Ricardo de Álava, el general que asaltó el Louvre con 200 hombres para recuperar las obras que Napoleón había robado en España",
+        "image_url": "https://s1.elespanol.com/2024/11/08/porfolio/899670300_250716537_1706x960.png?contentId=ESPIMA20241108_0276",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241109/miguel-ricardo-alava-general-asalto-louvre-hombres-recuperar-obras-napoleon-robado-espana/899660225_0.html",
+        "date": "2024-11-09 01:20:59",
+        "sentiment_score": -0.7133953161537647
+    },
+    {
+        "title": "El reino del low cost está en Arganda: el nuevo centro comercial que tendrá las tiendas más baratas",
+        "image_url": "https://s1.elespanol.com/2024/11/05/madrid/comunidad/898920790_250631012_1706x960.jpg?contentId=ESPIMA20241105_0691",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241109/reino-low-cost-arganda-nuevo-centro-comercial-tiendas-baratas/898910520_0.html",
+        "date": "2024-11-09 01:07:26",
+        "sentiment_score": 0.4184388406574726
+    },
+    {
+        "title": "08 NOV 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-nov-2024-partidazo-cope-20241109_3042988.html",
+        "date": "2024-11-09 00:54:17",
+        "sentiment_score": 0.4192601442337036
+    },
+    {
+        "title": "De Mar Flores a Íñigo Onieva: los famosos que han ayudado y se han manchado de barro por los damnificados de la DANA",
+        "image_url": "https://s1.elespanol.com/2024/11/08/corazon/famosos/899670783_250731637_1706x960.jpg?contentId=ESPIMA20241108_0759",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241109/mar-flores-inigo-onieva-famosos-ayudado-manchado-barro-damnificados-dana/899660188_0.html",
+        "date": "2024-11-09 00:40:53",
+        "sentiment_score": 0.2257879227399826
+    },
+    {
+        "title": "El Barça de basket y el Femenino arrasan al Real Madrid en rentabilidad: 8 millones de diferencia",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/09/culemania/palco/899920004_13698511_1706x960.png?contentId=ESPIMA20241109_0005",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241109/el-barca-de-femenino-real-madrid-rentabilidad/899660151_0.html",
+        "date": "2024-11-09 00:38:33",
+        "sentiment_score": 0.7458623871207237
+    },
+    {
+        "title": "#OasisDeLibertad (08-11-2024)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "oasisdelibertad"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/oasisdelibertad/audios/oasisdelibertad-08-20241109_3042985.html",
+        "date": "2024-11-09 00:33:12",
+        "sentiment_score": -0.7566242143511772
+    },
+    {
+        "title": "Juega con fuego, pero no se quema",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/11/08/99650255-kcrD--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/juega-fuego-quema-20241109073219-nt.html",
+        "date": "2024-11-09 00:00:00",
+        "sentiment_score": -0.9268823293969035
+    },
+    {
+        "title": "La evolución de Raphinha bajo el mando de Flick tienen al Barcelona en la cima",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-11-08/la-evolucion-de-raphinha-bajo-el-mando-de-flick-tienen-al-barcelona-en-la-cima",
+        "date": "2024-11-08 23:18:49",
+        "sentiment_score": -0.8122943211346865
+    },
+    {
+        "title": "Una verdad incómoda a través del cómic",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/11/08/190C15E8-5F9C-40A1-9188-1CDE8CDED500/dos-vinetas-manana-sera-otro-dia_96.jpg?crop=531%2C299%2Cx0%2Cy93&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/verdad-incomoda-traves-comic_20241109672ec25265664200019cb3fc.html",
+        "date": "2024-11-09 02:00:50",
+        "sentiment_score": 0.12098713964223862
+    },
+    {
+        "title": "Los40 Music Awards",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/11/09/maluma-fue-reconocido-con-el-premio-icon-global-en-la-gala-de-los40-music-awards.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.huffingtonpost.es/life/cultura/los40-music-awards-celebran-vida-musica-valencia-corazon.html",
+        "date": "2024-11-09 01:45:56",
+        "sentiment_score": 0.3849935233592987
+    },
+    {
+        "title": "Monagas dijo presente en Anzoátegui en la gran gala inaugural de los Juegos Oriente 2024",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/11/Monagas-dijo-presente-en-Anzoategui-en-la-gran-gala-inaugural-de-los-Juegos-Oriente-2024-elorientaldemongas.com-8-de-noviembre-del-2024-1024x477.jpg",
+        "tags": [
+            "deportes",
+            "maturín",
+            "monagas",
+            "venezuela"
+        ],
+        "link": "https://elorientaldemonagas.com/monagas-dijo-presente-en-anzoategui-en-la-gran-gala-inaugural-de-los-juegos-oriente-2024/",
+        "date": "2024-11-09 01:19:26",
+        "sentiment_score": -0.022697120904922485
+    },
+    {
+        "title": "De Spotify a Nike: el comisionista de Laporta que se cuela en las grandes operaciones del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/08/04/culemania/palco/784181794_8374566_1706x960.jpg?contentId=ESPIMA20230804_0220",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241109/de-spotify-nike-comisionista-laporta-operaciones-barca/899660156_0.html",
+        "date": "2024-11-09 00:39:05",
+        "sentiment_score": 0.11779383383691311
+    },
+    {
+        "title": "Dani Olmo todavía no tiene luz verde para ser inscrito en enero: Nike no es suficiente para la Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/19/culemania/primer-equipo/871672972_13250399_1706x960.png?contentId=ESPIMA20240719_0148",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241109/dani-olmo-todavia-no-inscrito-nike-suficienteparalaliga/899660155_0.html",
+        "date": "2024-11-09 00:38:26",
+        "sentiment_score": 0.077700674533844
+    },
+    {
+        "title": "El excéntrico y palabras en el fango",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/15/666cc4ddba080.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241109/excentrico-palabras-fango_243288.html",
+        "date": "2024-11-09 00:30:00",
+        "sentiment_score": -0.007471993565559387
+    },
+    {
+        "title": "Rauw Alejandro y Myke Towers triunfan con tres premios cada uno en Los40 Music Awards",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/907bf59c-3e3d-4cb1-9274-2d0dcb008be5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/cultura/2024/11/09/rauw-alejandro-myke-towers-triunfan-111526488.html",
+        "date": "2024-11-08 23:58:21",
+        "sentiment_score": 0.5408371090888977
     }
 ];
