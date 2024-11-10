@@ -1,303 +1,5 @@
 export default [
     {
-        "title": "Dos estados votan para proteger los derechos al aborto, mientras que el esfuerzo por ampliar el acceso en Florida fracasa",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1776746-aborto-mapa.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política",
-            "elecciones en ee.uu.",
-            "elecciones en estados unidos",
-            "aborto en ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/06/10-estados-decidiran-aborto-boleta-electoral-2024-trax/",
-        "date": "2024-11-06 06:30:23",
-        "sentiment_score": -0.8403772376477718
-    },
-    {
-        "title": "La campaña de Harris informa que la vicepresidenta no hablará esta noche",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182517497-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones en estados unidos",
-            "partido demócrata",
-            "kamala harris"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/kamala-harris-hablar-partidiarios-ush-dusa/",
-        "date": "2024-11-06 05:59:55",
-        "sentiment_score": -0.06486302986741066
-    },
-    {
-        "title": "Trump gana el estado clave de Carolina del Norte, proyecta CNN",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182515353.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-trump-gana-carolina-del-norte-tv-fast",
-        "date": "2024-11-06 05:29:20",
-        "sentiment_score": 0.17079351842403412
-    },
-    {
-        "title": "Trump gana el estado clave de Carolina del Norte, proyecta CNN",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182515353.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "carolina del norte",
-            "fast – news variety",
-            "elecciones ee.uu. 2024",
-            "xpress",
-            "noticias de donald trump",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-elecciones-trump-gana-carolina-del-norte-tv-fast/",
-        "date": "2024-11-06 05:29:20",
-        "sentiment_score": 0.2316627874970436
-    },
-    {
-        "title": "Resultados de las elecciones en EE.UU. 2024, en vivo: ¿quién gana entre Trump y Harris? Votaciones por estados, Senado, Cámara y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/GettyImages-2183189178.jpg?quality=100&strip=info",
-        "tags": [
-            "minuto cnn",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/06/resultados-elecciones-eeuu-2024-quien-gana-kamala-trump-orix-2/",
-        "date": "2024-11-06 05:27:55",
-        "sentiment_score": -0.07762909680604935
-    },
-    {
-        "title": "Un votante de un estado indeciso dice que su novia influyó en su voto",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-novia.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "votación",
-            "boleta electoral",
-            "elecciones en estados unidos",
-            "videos digitales"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/carolina-del-norte-pareja-novia-voto-elecciones-eeuu-ush-trax/",
-        "date": "2024-11-06 05:23:32",
-        "sentiment_score": -0.5178815536201
-    },
-    {
-        "title": "Un votante de un estado indeciso dice que su novia influyó en su voto",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-novia.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/carolina-del-norte-pareja-novia-voto-elecciones-eeuu-ush-trax",
-        "date": "2024-11-06 05:23:32",
-        "sentiment_score": -0.6202552523463964
-    },
-    {
-        "title": "Más de 11.000 votantes de Nevada necesitan verificar sus firmas para que los votos cuenten",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-79531567-1.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nevada-votantes-elecciones-firmas-ush-trax",
-        "date": "2024-11-06 05:13:46",
-        "sentiment_score": -0.053788989782333374
-    },
-    {
-        "title": "Más de 11.000 votantes de Nevada necesitan verificar sus firmas para que los votos cuenten",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-79531567-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "fast – news variety",
-            "elecciones",
-            "estados unidos noticias",
-            "xpress",
-            "elecciones en estados unidos",
-            "videos digitales"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nevada-votantes-elecciones-firmas-ush-trax/",
-        "date": "2024-11-06 05:13:46",
-        "sentiment_score": -0.27209271118044853
-    },
-    {
-        "title": "¿Por qué esta navaja para coger setas es la más vendida en Amazon?",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/P6K5PLUX3VCBPGSZPLF3VM2CBM.png?auth=0a5415a309bc27768e658fa0e2560c9fd86d72531a00b4a7d162a2b0bfab5871&width=1200",
-        "tags": [
-            "planes",
-            "setas",
-            "navajas",
-            "ocio",
-            "comercio electrónico",
-            "amazon",
-            "bosques",
-            "estilo vida",
-            "micología",
-            "senderismo",
-            "familia",
-            "otoño"
-        ],
-        "link": "https://elpais.com/escaparate/lo-mas-vendido/2024-11-06/navaja-para-setas.html",
-        "date": "2024-11-06 06:30:00",
-        "sentiment_score": 0.7145517738536
-    },
-    {
-        "title": "Amgevicesa colocará cámaras en todos los autobuses",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1120895",
-        "date": "2024-11-06 06:29:00",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "'The Guardian' ve lo ocurrido con Felipe y Letizia y lanza un aviso sobre qué puede pasar ahora",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/11/05/la-reina-letizia-en-paiporta.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/the-guardian-ve-ocurrido-felipe-letizia-lanza-aviso-sobre-que-pasar.html",
-        "date": "2024-11-06 06:19:53",
-        "sentiment_score": -0.2097945511341095
-    },
-    {
-        "title": "'Faroq', condenado por amenazas y atentado a un guardia civil",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1120544",
-        "date": "2024-11-06 06:06:16",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El mapa para saber qué carreteras están cortadas y afectadas por la DANA este miércoles 6",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/11/06/carretera-destrozada-reuters-kGCI-U2201679461690JK-1200x840@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hoy.es/sociedad/mapa-saber-carreteras-cortadas-afectadas-dana-miercoles-20241106070250-ntrc.html",
-        "date": "2024-11-06 06:03:22",
-        "sentiment_score": -0.3184655997902155
-    },
-    {
-        "title": "Crean 'gemelos digitales' de pacientes con cáncer para predecir su respuesta a los tratamientos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241106070250_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-crean-gemelos-digitales-pacientes-cancer-predecir-respuesta-tratamientos-20241106070250.html",
-        "date": "2024-11-06 06:02:50",
-        "sentiment_score": 0.304670512676239
-    },
-    {
-        "title": "Conocer Aranjuez a bordo de un globo aeroestático, una piragua o un tren histórico del S. XIX",
-        "image_url": "https://okdiario.com/img/2024/10/14/ver-y-disfrutar-de-aranjuez-en-globo-aeroestatico.-.jpg",
-        "tags": [
-            "gastronomía",
-            "aranjuez",
-            "turismo",
-            "no-publi",
-            "españa",
-            "madrid",
-            "comunidad de madrid"
-        ],
-        "link": "https://okdiario.com/madrid/conocer-aranjuez-bordo-globo-aeroestatico-piragua-o-tren-historico-del-s-xix-13597187",
-        "date": "2024-11-06 06:00:35",
-        "sentiment_score": 0.5741923376917839
-    },
-    {
-        "title": "Elecciones EE.UU., en directo: Ganador y última hora sobre Trump y Harris | Resultados en Estados Unidos",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/29/6720ca0b5ed9c.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20241106/10082118/elecciones-eeuu-ganador-presidente-estados-unidos-trump-harris-en-directo.html",
-        "date": "2024-11-06 06:27:31",
-        "sentiment_score": 0.013919126242399216
-    },
-    {
-        "title": "Iago Aspas alimenta a Douvikas en el Celta",
-        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/11/05/2024110522123128275.jpg",
-        "tags": [
-            "celtismo"
-        ],
-        "link": "https://www.atlantico.net/articulo/celtismo/iago-aspas-alimenta-douvikas-celta/202411052213191058338.html",
-        "date": "2024-11-06 06:25:33",
-        "sentiment_score": 0.370478093624115
-    },
-    {
-        "title": "Lo que debes saber hoy, 6 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/03/20/vivir-en-barcelona/841425999_12652555_1706x960.jpg?contentId=ESPIMA20240320_0150",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241106/lo-que-debes-saber-hoy-de-noviembre-barcelona/899160079_0.html",
-        "date": "2024-11-06 06:23:45",
-        "sentiment_score": 0.2028205543756485
-    },
-    {
-        "title": "G-90: así es la generación de los cocineros \"irreverentes\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/110e3bbd-a39c-4a88-be14-6472260945fe_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241106/generacion-cocineros-nacidos-90-111396489",
-        "date": "2024-11-06 06:22:46",
-        "sentiment_score": -0.2085343599319458
-    },
-    {
-        "title": "Destrozos en el campo y plan para evitar riadas",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/05/vida/898920143_13675554_1706x960.jpg?contentId=ESPIMA20241105_0044",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20241106/destrozos-en-campo-plan-para-evitar-riadas/899160080_0.html",
-        "date": "2024-11-06 06:22:06",
-        "sentiment_score": -0.2694220393896103
-    },
-    {
-        "title": "Restaurante Reserva Ibérica The Kitchen: la felicidad es una loncha de jamón y un trozo de carne de montanera",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ffe87f3-3912-4fbe-ac41-d2f552e133bd_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241106/reserva-iberica-the-kitchen-restaurante-barcelona-111121724",
-        "date": "2024-11-06 06:20:45",
-        "sentiment_score": 0.21288803219795227
-    },
-    {
-        "title": "El kit completo de primeros auxilios perfecto para cualquier ocasión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J5IL3BVZ6BFLHJJAGNRVKX5PQI.png?auth=53c91fad6638d1263be129643dc2f14bd8b80c804f670ce75e4693e25394682f&width=1200",
-        "tags": [
-            "salud",
-            "primeros auxilios",
-            "comercio electrónico",
-            "amazon",
-            "ventas internet",
-            "emergencia sanitaria"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-11-06/kit-primeros-auxilios.html",
-        "date": "2024-11-06 06:20:00",
-        "sentiment_score": 0.13213170319795609
-    },
-    {
-        "title": "La paradoja china: no queremos sus coches, pero sí sus fábricas (y España se postula como candidata)",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/11/paradoja-china-no-queremos-coches-pero-fabricas-espana-postula-como-candidata-4257795.jpg?tf=1200x",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.businessinsider.es/economia/paradoja-china-no-queremos-coches-pero-fabricas-espana-postula-como-candidata-1416631",
-        "date": "2024-11-06 06:15:07",
-        "sentiment_score": -0.12209045886993408
-    },
-    {
-        "title": "Estos serán los ‘chándals’ de mujer más en tendencia para este invierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GYOGUPVDSRDRXBMMIYBDQKXRDU.png?auth=6a0fdc61c08fd8a4eb03650408e8cec49835e2251e19d0ca60d475e4bc00aa5f&width=1200",
-        "tags": [
-            "comercio electrónico",
-            "amazon",
-            "ventas internet",
-            "ropa",
-            "adidas",
-            "mujeres",
-            "deportes"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-11-06/chandal-invierno-mujer.html",
-        "date": "2024-11-06 06:15:00",
-        "sentiment_score": 0.8760428735986352
-    },
-    {
         "title": "Activistas protestan en Embajada de EE.UU. en Londres contra Trump",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/aerosol.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6366,5 +6068,432 @@ export default [
         "link": "https://www.clm24.es/articulo/viral/corredor-cae-fulminado-muere-ataque-corazon-iniciarse-carrera/20241109174559436039.html",
         "date": "2024-11-09 16:45:59",
         "sentiment_score": -0.9110651565715671
+    },
+    {
+        "title": "¿Cómo es el proceso de renovación de la famosa Fontana di Trevi?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/horiz-fontana.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/proceso-de-renovacion-fontana-di-trevi-roma-italia-trax",
+        "date": "2024-11-09 21:57:49",
+        "sentiment_score": 0.0010573714971542358
+    },
+    {
+        "title": "¿Cómo es el proceso de renovación de la famosa Fontana di Trevi?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/horiz-fontana.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "fontana di trevi",
+            "turismo",
+            "roma",
+            "italia",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/proceso-de-renovacion-fontana-di-trevi-roma-italia-trax/",
+        "date": "2024-11-09 21:57:49",
+        "sentiment_score": 0.020015090703964233
+    },
+    {
+        "title": "Indignación en Valencia: protesta por la gestión gubernamental de las inundaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-valencia-inundaciones-gobierno-carlos-mazon-orix",
+        "date": "2024-11-09 21:49:08",
+        "sentiment_score": -0.8631826620548964
+    },
+    {
+        "title": "Indignación en Valencia: protesta por la gestión gubernamental de las inundaciones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-h-20241109214446854.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-valencia-inundaciones-gobierno-carlos-mazon-orix/",
+        "date": "2024-11-09 21:49:08",
+        "sentiment_score": -0.9156669825315475
+    },
+    {
+        "title": "Gobierno de Ecuador suspende a vicepresidenta Verónica Abad por 150 días en medio de una ola de críticas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778913-veronica-abad-vicepresidenta-ecuador.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "daniel noboa",
+            "ecuador",
+            "verónica abad"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/09/gobierno-de-ecuador-suspende-vicepresidenta-veronica-abad-orix/",
+        "date": "2024-11-09 21:27:10",
+        "sentiment_score": -0.8649452701210976
+    },
+    {
+        "title": "El regreso de Trump y su efecto en la economía mundial, según experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180589131-20241109184045874.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-trump-victoria-economia-mundial-global-politica-economica-aranceles-cnn-dinero-tv-fast/",
+        "date": "2024-11-09 21:00:00",
+        "sentiment_score": 0.1634528487920761
+    },
+    {
+        "title": "El regreso de Trump y su efecto en la economía mundial, según experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180589131-20241109184045874.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-trump-victoria-economia-mundial-global-politica-economica-aranceles-cnn-dinero-tv-fast",
+        "date": "2024-11-09 21:00:00",
+        "sentiment_score": -0.08529941737651825
+    },
+    {
+        "title": "Leones del Zoológico de Oregon encuentran y juguetean con cámaras escondidas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-43-09-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/leones-zoo-oregon-camaras-escondidas-orix",
+        "date": "2024-11-09 20:36:04",
+        "sentiment_score": -0.07540774345397949
+    },
+    {
+        "title": "Leones del Zoológico de Oregon encuentran y juguetean con cámaras escondidas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-43-09-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/leones-zoo-oregon-camaras-escondidas-orix/",
+        "date": "2024-11-09 20:36:04",
+        "sentiment_score": -0.13414552807807922
+    },
+    {
+        "title": "Qatar suspende su papel en las conversaciones entre Israel y Hamas, según fuentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778866-ataque-israel-gaza-hamas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "qatar",
+            "medio oriente",
+            "instanoticias",
+            "ataques hamas israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/09/qatar-suspende-papel-conversaciones-israel-hamas-fuentes-trax/",
+        "date": "2024-11-09 19:35:09",
+        "sentiment_score": -0.8079683296382427
+    },
+    {
+        "title": "El bulo del metro ligero",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/11/07/inundacion-sanfernando-U22306452354gkR-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-bulo-metro-ligero-20241110112437-nts.html",
+        "date": "2024-11-09 22:11:41",
+        "sentiment_score": -0.07634979486465454
+    },
+    {
+        "title": "Elon Musk, TikTok y ChatGPT, los otros vencedores detrás de la victoria de Trump",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/11/10/trump-musk-afp-RYmlrkL2fDcehYpf87SgU1O-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/elon-musk-tiktok-chatgpt-vencedores-detras-victoria-20241110141148-nt.html",
+        "date": "2024-11-09 19:05:55",
+        "sentiment_score": -0.0887531042098999
+    },
+    {
+        "title": "El aliado de la eficiencia hídrica en la limpieza profesional",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/10/DSAL-CarroCComercial-Re1lrSowPDGuErK7qNruH5N-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/aliado-eficiencia-hidrica-limpieza-profesional-20241110171420-nt.html",
+        "date": "2024-11-09 18:47:15",
+        "sentiment_score": 0.08502787351608276
+    },
+    {
+        "title": "En la catástrofe de Valencia: El abrazo y la mirada del Rey",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/10/Imagen-portada-rey-RMq4DMxiFHFT3a9J9xNzhIL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jose-rodriguez-de-la-borbolla-catastrofe-valencia-abrazo-mirada-rey-20241110193702-nts.html",
+        "date": "2024-11-09 18:37:12",
+        "sentiment_score": -0.07343259453773499
+    },
+    {
+        "title": "La lista suprema de Bolaños",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2024/11/05/2024_11_05_JUICIO_HISTORIAL_CLINICO_ENFERMEROS-U40436036324ZBF-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-lista-suprema-bolanos-20241110180208-nt.html",
+        "date": "2024-11-09 18:33:02",
+        "sentiment_score": -0.1147613525390625
+    },
+    {
+        "title": "Los nuevos muros de un mundo de bloques",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/04/melendi-cancion-valencia-kEvC--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-nuevos-muros-mundo-bloques-20241110193238-nt.html",
+        "date": "2024-11-09 18:32:42",
+        "sentiment_score": -0.2955179065465927
+    },
+    {
+        "title": "Historia de dos Estados Unidos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/11/10/TERCERAABC_DosEEUU_IGNATIEFF(1)-RaHOIhkUgMUGMrVb7PbmS8H-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/michael-ignatieff-historia-dos-estados-unidos-20241110193223-nt.html",
+        "date": "2024-11-09 18:32:23",
+        "sentiment_score": -0.11544981598854065
+    },
+    {
+        "title": "La DANA y el Derecho Penal",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/11/04/aliciareina-U53202288712GUh-170x119@Las%20Provincias.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/enrique-remon-dana-derecho-penal-20241110193208-nt.html",
+        "date": "2024-11-09 18:32:08",
+        "sentiment_score": -0.22983960807323456
+    },
+    {
+        "title": "El móvil de los ahogados",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/11/04/aliciareina-U53202288712GUh-170x119@Las%20Provincias.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-movil-ahogados-20241110193152-nt.html",
+        "date": "2024-11-09 18:31:58",
+        "sentiment_score": -0.19732744991779327
+    },
+    {
+        "title": "España en EE.UU.",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/04/melendi-cancion-valencia-kEvC--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-espana-eeuu-20241110193137-nt.html",
+        "date": "2024-11-09 18:31:45",
+        "sentiment_score": -0.12616589665412903
+    },
+    {
+        "title": "Dos fallecidos y cinco heridos en un accidente de tráfico en Sevilla provocado por un conductor kamikaze",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OCXOIHYUDZC7DI7ZF56LUZ4ESQ.png?auth=bec25f08d8f0a386efbe9dcc26f72bdbfb1f83463f1163ea98e2fd18cc1c6484&width=1200",
+        "tags": [
+            "andalucía",
+            "kamikazes",
+            "accidentes tráfico",
+            "bomberos",
+            "provincia sevilla",
+            "españa",
+            "tráfico",
+            "112 operator"
+        ],
+        "link": "https://elpais.com/espana/2024-11-09/dos-fallecidos-y-cinco-heridos-en-un-accidente-de-trafico-en-sevilla-provocado-por-un-conductor-kamikaze.html",
+        "date": "2024-11-09 19:29:21",
+        "sentiment_score": -0.6250836402177811
+    },
+    {
+        "title": "La manifestación en Valencia por la gestión de la dana, en imágenes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZEKQND3LDRHRBF5OKN36NU5INU.JPG?auth=e7747b8192b02904e2ef8fa3d35e2873404736a5d833b43564b28e6f14ff5ac3&width=1200",
+        "tags": [
+            "catástrofes",
+            "inundaciones dana octubre 2024",
+            "valencia",
+            "inundaciones",
+            "protestas sociales",
+            "provincia valencia",
+            "desastres naturales",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-09/la-manifestacion-en-valencia-por-la-gestion-de-la-dana-en-imagenes.html",
+        "date": "2024-11-09 18:52:17",
+        "sentiment_score": 0.016445130109786987
+    },
+    {
+        "title": "Un conductor pierde el control por un problema de salud en Barcelona y atropella a nueve personas, una de ellas muy grave",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PZFEQLCVQJBKLC6NSGNT77ZG5U.jpg?auth=e9da453c74d9b4177e0bd1f2bfcef8e7b3cb801b1289672f8cf3184e4b961b5e&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-09/un-conductor-pierde-el-control-por-un-problema-de-salud-en-barcelona-y-atropella-a-siete-personas-una-de-ellas-muy-grave.html",
+        "date": "2024-11-09 18:29:35",
+        "sentiment_score": -0.5678408928215504
+    },
+    {
+        "title": "Un hombre mata a un fraile a golpes y hiere a otros seis en un convento de Valencia al grito de “soy Jesucristo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/527UTDGUOVCC3P2Q3JC5BQAKCA.jpg?auth=9e75946f6ddcc0a4a42772ffc8c3e3cb149611b29661153a299d6370e53fcf29&width=1200",
+        "tags": [
+            "homicidios",
+            "armas blancas",
+            "órdenes religiosas",
+            "valencia",
+            "ministerio del interior",
+            "guardia civil",
+            "españa",
+            "monasterios",
+            "sucesos"
+        ],
+        "link": "https://elpais.com/espana/2024-11-09/un-hombre-mata-a-un-fraile-a-golpes-y-hiere-a-otros-seis-en-un-convento-de-valencia-al-grito-de-soy-jesucristo.html",
+        "date": "2024-11-09 17:43:12",
+        "sentiment_score": -0.7643952909857035
+    },
+    {
+        "title": "El Unicaja saca músculo en Badalona (75-79)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/afaaced7-eef7-411d-aee1-313a9ae9b1e1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2024/11/09/unicaja-saca-musculo-badalona-joventut-111548619.html",
+        "date": "2024-11-09 22:04:35",
+        "sentiment_score": 0.7387400716543198
+    },
+    {
+        "title": "¿Qué quiere ser Alaïa, la hija de Adamari López, cuando sea grande?",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/Adamari-Lopez-1.jpg",
+        "tags": [
+            "entretenimiento",
+            "adamari lópez"
+        ],
+        "link": "https://eldiariony.com/2024/11/09/que-quiere-ser-alaia-la-hija-de-adamari-lopez-cuando-sea-grande/",
+        "date": "2024-11-09 21:53:00",
+        "sentiment_score": -0.0004485398530960083
+    },
+    {
+        "title": "Todas las imágenes del Real Murcia - Atlético de Madrid B",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e0812395-19a4-4c1d-807b-b6b04eb1282f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/fotos/deportes/2024/11/09/imagenes-real-murcia-atletico-madrid-111548377.html",
+        "date": "2024-11-09 21:41:38",
+        "sentiment_score": -0.09623496606945992
+    },
+    {
+        "title": "Vía libre policial a los manifestantes hasta la puerta del ‘Palau’ frente al blindaje de Ferraz",
+        "image_url": "https://okdiario.com/img/2024/11/09/video-presidencia-g..jpg",
+        "tags": [
+            "comunidad valenciana",
+            "interior",
+            "psoe",
+            "sede ferraz",
+            "españa",
+            "generalitat valencia"
+        ],
+        "link": "https://okdiario.com/comunidad-valenciana/via-libre-policial-manifestantes-hasta-puerta-del-palau-frente-blindaje-ferraz-13789219",
+        "date": "2024-11-09 21:37:20",
+        "sentiment_score": -0.2187006175518036
+    },
+    {
+        "title": "«Es un gran honor defender todo lo que tenga que ver con el Principado, la cuna de España»",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/09/nobleza%20(1)-kZkF-U2201777454762KeD-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/gran-honor-defender-ver-principado-cuna-espana-20241110223644-nt.html",
+        "date": "2024-11-09 21:36:44",
+        "sentiment_score": 0.8156523555517197
+    },
+    {
+        "title": "Confederación brasileña niega movimientos para contratar a Pep Guardiola",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24314718423949-e1731187461444.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "selección brasil",
+            "pep guardiola"
+        ],
+        "link": "https://eldiariony.com/2024/11/09/confederacion-brasilena-niega-movimientos-para-contratar-a-pep-guardiola/",
+        "date": "2024-11-09 21:25:37",
+        "sentiment_score": -0.4811567850410938
+    },
+    {
+        "title": "Un empate y dos derrotas en la jornada del balonmano ceutí",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1122402",
+        "date": "2024-11-09 21:19:05",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "El Real Madrid frena la crisis con triplete de Vinicius pero pierde a Militao",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes",
+            "vinicius",
+            "fútbol",
+            "real madrid",
+            "laliga"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-real-madrid-frena-la-crisis-con-triplete-de-vinicius-pero-pierde-a-militao/",
+        "date": "2024-11-09 21:11:07",
+        "sentiment_score": -0.8024515882134438
+    },
+    {
+        "title": "Alexander-Arnold se retira lesionado a 18 días del partido del Real Madrid",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2024/11/09/672fccaee9057.r_d.1612-522-1618.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/alexander-arnold-retira-lesionado-18-dias-partido-real-madrid-20241109_3043120.html",
+        "date": "2024-11-09 20:57:29",
+        "sentiment_score": -0.0734216570854187
+    },
+    {
+        "title": "El Revellín a los pies de ‘Mama Chencha’",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1122377",
+        "date": "2024-11-09 20:55:51",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "El Cisne paga caras las desconexiones ante el filial Culé",
+        "image_url": "https://cflvdg.avoz.es/sc/BXQIIeGzqy0PKzEGsJ36YgBSxxs=/768x/2024/11/09/00121731189301712710860/Foto/i_20241109_203552003.jpg",
+        "tags": [
+            "fc barcelona",
+            "pontevedra ciudad",
+            "play off"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/pontevedra/pontevedra/2024/11/10/cisne-paga-caras-desconexiones-ante-filial-cule/0003_202411P10C9991.htm",
+        "date": "2024-11-09 21:58:00",
+        "sentiment_score": -0.8855943623930216
+    },
+    {
+        "title": "Rescatar la memoria del lodo: \"Confío en recuperar las fotos, pero las cenizas de mi abuelo las hemos perdido\"",
+        "image_url": "https://static.eldiario.es/clip/bad056d5-cb69-493c-b2a1-3af98bc1c1d5_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/rescatar-memoria-lodo-confio-recuperar-fotos-cenizas-abuelo-hemos-perdido_1_11799516.html",
+        "date": "2024-11-09 21:48:54",
+        "sentiment_score": -0.07975903153419495
+    },
+    {
+        "title": "¿Será esta la próxima gran película de Bayona?",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/09/2024110922470223873.png",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/sociedad-espana/sera-proxima-gran-pelicula-bayona-director/20241109224747543868.html",
+        "date": "2024-11-09 21:47:47",
+        "sentiment_score": 0.5994680151343346
+    },
+    {
+        "title": "Risto Mejide ya no quiere ser borde",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/db344252-4e67-4675-95f4-6ca6d9d52b7d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/vida-y-estilo/gente/2024/11/09/risto-mejide-quiere-borde-111548426.html",
+        "date": "2024-11-09 21:39:33",
+        "sentiment_score": -0.032902806997299194
     }
 ];
