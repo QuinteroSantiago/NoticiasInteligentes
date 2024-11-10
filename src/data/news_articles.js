@@ -160,56 +160,6 @@ export default [
         "sentiment_score": -0.10029250383377075
     },
     {
-        "title": "Funcionarios locales avisan del riesgo de que las ayudas en el IBI y el IAE a los afectados por la DANA abran un agujero a los ayuntamientos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/06/policiamunicipalsedav-RryIBg3MyxEwlxlmDwy1GzO-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/funcionarios-locales-avisan-riesgo-ayudas-ibi-iae-20241106144018-nt.html",
-        "date": "2024-11-06 13:40:18",
-        "sentiment_score": -0.084042489528656
-    },
-    {
-        "title": "Los consejos de la Real Academia Nacional de Medicina para evitar epidemias tras la DANA",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/06/dana-valencia-epidemia-RtLyWbT8LBQYSFtA5reDoKO-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/consejos-real-academia-nacional-medicina-evitar-epidemias-20241106143110-nt.html",
-        "date": "2024-11-06 13:31:10",
-        "sentiment_score": -0.15739810466766357
-    },
-    {
-        "title": "Amancio Ortega pone a la venta un edificio en París por 80 millones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/06/AmancioOrtegaefe-RtnGCMgdPWCqUjfRERduVRI-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/amancio-ortega-pone-venta-edificio-paris-millones-20241106142741-nt.html",
-        "date": "2024-11-06 13:27:41",
-        "sentiment_score": -0.049672648310661316
-    },
-    {
-        "title": "ATA avisa de que el Gobierno se ha olvidado de los transportistas que estaban 'de paso' por Valencia en el paquete de ayudas por la DANA",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/06/1488091006-RDJl78oDPfJLKkW0C8FvpwL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ata-avisa-gobierno-olvidado-autonomos-paso-paquete-20241106141915-nt.html",
-        "date": "2024-11-06 13:25:24",
-        "sentiment_score": -0.10166069865226746
-    },
-    {
-        "title": "La Fundación Notariado presenta el libro Pasado, presente y futuro de la Justicia Transicional",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/06/Foto1-R6WmQZzlKdfReCwpb2pKBeO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/fundacion-notariado-presenta-libro-pasado-presente-futuro-20241106130940-nt.html",
-        "date": "2024-11-06 12:11:44",
-        "sentiment_score": 0.04261443018913269
-    },
-    {
         "title": "Prohiben los vuelos de drones privados en la zona afectada por la dana",
         "image_url": "https://imagenes.elpais.com/resizer/v2/5OK2UNEG2MSEA6GJCLHMWSAXGQ.jpg?auth=0cee3d9d73ed19ca876b2ae9fd50932d717e1802cc986aab99479965cd5d6cc4&width=1200",
         "tags": [
@@ -366,39 +316,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-06/el-congreso-busca-reconvertir-la-proxima-sesion-de-control-en-un-pleno-de-unidad-sobre-la-dana.html",
         "date": "2024-11-06 14:31:12",
         "sentiment_score": -0.19728007912635803
-    },
-    {
-        "title": "El PP mantiene el cambio de tono y respaldará el decreto del Gobierno de ayudas por la dana en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TNSTCT44QEXOZ53AZCMTM3XR2I.jpg?auth=cc58c3c802d79512a5679dd37bc3be5d5844a72e95d45e8efa9a81fd40e1db3c&width=1200",
-        "tags": [
-            "españa",
-            "valencia",
-            "dana",
-            "pp",
-            "inundaciones dana octubre 2024",
-            "carlos mazón",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://elpais.com/espana/2024-11-06/el-pp-mantiene-el-cambio-de-tono-y-respaldara-el-decreto-del-gobierno-de-ayudas-por-la-dana-en-valencia.html",
-        "date": "2024-11-06 14:11:49",
-        "sentiment_score": -0.8781563555821776
-    },
-    {
-        "title": "Puigdemont dimite de su “Generalitat paralela” y estalla una crisis en la dirección de la entidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L26IKAYBMJGAJDHN2FLYGDBUNQ.jpg?auth=d000ece7800f3cbe4f63f2a68ef06bf90ff7b3c0215e62c8fd10e50c41d16d2f&width=1200",
-        "tags": [
-            "carles puigdemont",
-            "generalitat cataluña",
-            "parlamento europeo",
-            "cataluña",
-            "govern cataluña",
-            "bélgica",
-            "antoni comín",
-            "independencia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-06/puigdemont-dimite-de-su-generalitat-paralela-y-estalla-una-crisis-en-la-direccion-de-la-entidad.html",
-        "date": "2024-11-06 13:44:21",
-        "sentiment_score": -0.8336317352950573
     },
     {
         "title": "El Registro Profesional de Tenis otorga un premio a Emilio Sánchez Vicario por su carrera",
@@ -6495,5 +6412,347 @@ export default [
         "link": "https://www.farodevigo.es/vida-y-estilo/gente/2024/11/09/risto-mejide-quiere-borde-111548426.html",
         "date": "2024-11-09 21:39:33",
         "sentiment_score": -0.032902806997299194
+    },
+    {
+        "title": "Incendio Mountain destruye 132 casas en California",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183803216-20241110013954887.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "fast – news variety",
+            "xpress",
+            "ee.uu.",
+            "incendio california",
+            "incendio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendio-mountain-california-mirador-mundial-tv/",
+        "date": "2024-11-10 01:44:01",
+        "sentiment_score": -0.8566443510353565
+    },
+    {
+        "title": "Posibles efectos de las deportaciones masivas de Trump, según Vicente Fox",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/02750585-65857562-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-deportaciones-efectos-mexico-oppenheimer-presenta-tv/",
+        "date": "2024-11-10 01:39:54",
+        "sentiment_score": -0.40838147699832916
+    },
+    {
+        "title": "Posibles efectos de las deportaciones masivas de Trump, según Vicente Fox",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-deportaciones-efectos-mexico-oppenheimer-presenta-tv",
+        "date": "2024-11-10 01:39:54",
+        "sentiment_score": -0.5507603920996189
+    },
+    {
+        "title": "¿Tendrá contrapesos el gobierno de Trump en EE.UU.? Responde especialista",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-elecciones-eeuu-contrapesos-oppenheimer-presenta-tv",
+        "date": "2024-11-10 01:35:02",
+        "sentiment_score": -0.1778142936527729
+    },
+    {
+        "title": "¿Tendrá contrapesos el gobierno de Trump en EE.UU.? Responde especialista",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/02397456-37114091-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-elecciones-eeuu-contrapesos-oppenheimer-presenta-tv/",
+        "date": "2024-11-10 01:35:02",
+        "sentiment_score": -0.16310451179742813
+    },
+    {
+        "title": "Decenas de miles de personas protestan para exigir la dimisión del presidente de la Generalitat Valenciana por su gestión en inundaciones mortales",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778980-protestas-valencia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa",
+            "dana",
+            "valencia",
+            "manifestaciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/09/protestan-exigir-dimision-presidente-generalitat-valenciana-inundaciones-trax/",
+        "date": "2024-11-10 01:34:41",
+        "sentiment_score": -0.8293745722621679
+    },
+    {
+        "title": "Qatar suspende su actividad como mediador entre Israel y Hamas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/qatar-mediador-israel-hamas-mirador-mundial-tv",
+        "date": "2024-11-10 01:33:38",
+        "sentiment_score": -0.8982097627595067
+    },
+    {
+        "title": "Qatar suspende su actividad como mediador entre Israel y Hamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1712283195.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hamas",
+            "israel noticias",
+            "medio oriente",
+            "qatar",
+            "israel"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/qatar-mediador-israel-hamas-mirador-mundial-tv/",
+        "date": "2024-11-10 01:33:38",
+        "sentiment_score": -0.8121314952149987
+    },
+    {
+        "title": "Mientras el Gobierno se enfrenta a trabajadores aeronáuticos, avanza el plan para privatizar Aerolíneas Argentinas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778972-aerolineas-argentinas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina",
+            "aerolíneas argentinas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/09/avanza-plan-privatizar-aerolineas-argentinas-trabajadores-orix/",
+        "date": "2024-11-10 00:53:51",
+        "sentiment_score": -0.8294750638306141
+    },
+    {
+        "title": "El alcance de los robots en la fuerza laboral de las empresas, según experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1319043080.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "robots",
+            "xpress",
+            "ciencia",
+            "trabajo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/robots-reemplazo-trabajos-tecnologia-empresas-ia-regulacion-robotica-cnn-dinero-tv/",
+        "date": "2024-11-10 00:39:05",
+        "sentiment_score": 0.19001489132642746
+    },
+    {
+        "title": "La indignación toma las calles de Valencia tras el desastre de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LMHDRPP4XFBSNIRCSKCRBRNXYY.jpg?auth=69876c0c049c21ac35d2748a772ad440a2b4bfb118a21a537e17de0de22bf3d4&width=1200",
+        "tags": [
+            "inundaciones dana octubre 2024",
+            "inundaciones",
+            "comunidad valenciana",
+            "carlos mazón",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-09/la-indignacion-toma-las-calles-de-valencia-tras-el-desastre-de-la-dana.html",
+        "date": "2024-11-09 22:18:15",
+        "sentiment_score": -0.67946464009583
+    },
+    {
+        "title": "Aldama, 'el invisible': cumple un mes en la cárcel protegiendo su anonimato, entre visitas de su abogado y llamadas a su mujer",
+        "image_url": "https://s1.elespanol.com/2024/11/08/espana/899671028_250739035_1706x960.png?contentId=ESPIMA20241108_1004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241110/aldama-invisible-cumple-mes-carcel-protegiendo-anonimato-visitas-abogado-llamadas-mujer/899660211_0.html",
+        "date": "2024-11-10 01:56:10",
+        "sentiment_score": -0.06264853477478027
+    },
+    {
+        "title": "Bild: Alphonso Davies es uno de los deseos de Hansi Flick para el Barça",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/10/2024111002512717719.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/bild-confirma-que-alphonso-davies-es-deseos-flick-barca/20241110025416323467.html",
+        "date": "2024-11-10 01:54:16",
+        "sentiment_score": 0.5781365390866995
+    },
+    {
+        "title": "Novillo se prepara para más DANAs en Madrid: \"Habrá el doble de tanques de tormentas y otro mapa de zonas inundables\"",
+        "image_url": "https://s1.elespanol.com/2024/11/08/madrid/comunidad/899670405_250719870_1706x960.jpg?contentId=ESPIMA20241108_0381",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241110/novillo-prepara-danas-madrid-doble-tanques-tormentas-mapa-zonas-inundables/899410479_0.html",
+        "date": "2024-11-10 01:47:13",
+        "sentiment_score": 0.1159094013273716
+    },
+    {
+        "title": "Middleton realiza su primera aparición pública después de completar su tratamiento de quimioterapia",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241110024238_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-middleton-realiza-primera-aparicion-publica-despues-completar-tratamiento-quimioterapia-20241110024238.html",
+        "date": "2024-11-10 01:42:38",
+        "sentiment_score": 0.08782622218132019
+    },
+    {
+        "title": "El marqués de la Floresta, el militar y cronista que escribe para el Rey y el Emérito: \"Felipe VI es muy alemán, se equivoca al obedecer a Sánchez\"",
+        "image_url": "https://s1.elespanol.com/2024/11/06/actualidad/899170538_250653626_1706x960.jpg?contentId=ESPIMA20241106_0464",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241110/marques-floresta-militar-cronista-escribe-rey-emerito-felipe-vi-aleman-equivoca-obedecer-sanchez/898910661_0.html",
+        "date": "2024-11-10 01:34:33",
+        "sentiment_score": 0.05406448245048523
+    },
+    {
+        "title": "Al WiZink invencible ante un Madrid dudoso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2024/11/10/wizink-invencible-madrid-dudoso-111550380.html",
+        "date": "2024-11-10 01:29:22",
+        "sentiment_score": -0.5078095942735672
+    },
+    {
+        "title": "Real Madrid goleó 4-0 a Osasuna con tripleta de Vinicius",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/11/Real-Madrid-goleo-4-0-a-Osasuna-con-tripleta-de-Vinicius-696x464.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/195743/real-madrid-goleo-4-0-a-osasuna-con-tripleta-de-vinicius/",
+        "date": "2024-11-10 01:20:06",
+        "sentiment_score": 0.19133451581001282
+    },
+    {
+        "title": "Cuando Karpov firmó una mesa de ajedrez en la Bilbaina",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/11/06/1488345130.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/arte/karpov-firmo-mesa-ajedrez-bilbaina-20241105011029-nt.html",
+        "date": "2024-11-10 00:10:29",
+        "sentiment_score": -0.055275171995162964
+    },
+    {
+        "title": "Toshack también puso un '2' en la quiniela...",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/11/10/M1-1488476793-U200265830600cPG--758x531@Diario%20Vasco-DiarioVasco.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/toshack-puso-quiniela-20241110070725-nt.html",
+        "date": "2024-11-10 00:00:00",
+        "sentiment_score": 0.6700801849365234
+    },
+    {
+        "title": "Florentino Pérez y el sentido común",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/10/2024111000383163423.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/madridismo-mediatico-pide-aclamacion-vuelta-sergio-ramos-confirmarse-grave-lesion-eder-militao/20241110005755323462.html",
+        "date": "2024-11-09 23:57:55",
+        "sentiment_score": 0.25564949214458466
+    },
+    {
+        "title": "Crónica de la muerte anunciada del Gobierno alemán: por qué la coalición semáforo de Scholz estaba condenada al colapso",
+        "image_url": "https://s1.elespanol.com/2024/11/08/mundo/europa/899670964_250737099_1706x960.png?contentId=ESPIMA20241108_0940",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20241110/cronica-muerte-anunciada-gobierno-aleman-coalicion-semaforo-scholz-condenada-colapso/899660239_0.html",
+        "date": "2024-11-10 02:08:02",
+        "sentiment_score": -0.7522567268460989
+    },
+    {
+        "title": "El lucroso negocio de las 'tiny house' en España: Pau vende estas casas a 33.000 euros y Alejandro a 380.000",
+        "image_url": "https://s1.elespanol.com/2024/10/25/reportajes/896171178_250366644_1706x960.jpg?contentId=ESPIMA20241025_0804",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241110/lucroso-negocio-tiny-house-espana-pau-vende-casas-euros-alejandro/896160803_0.html",
+        "date": "2024-11-10 01:33:29",
+        "sentiment_score": -0.1639595404267311
+    },
+    {
+        "title": "La inteligencia artificial que puede ayudar a convivir con el riesgo climático y los efectos de las futuras DANA",
+        "image_url": "https://s1.elespanol.com/2024/11/04/invertia/economia/macroeconomia/898670807_250602859_1706x960.jpg?contentId=ESPIMA20241104_0683",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20241110/inteligencia-artificial-puede-ayudar-convivir-riesgo-climatico-efectos-futuras-dana/899160238_0.html",
+        "date": "2024-11-10 01:21:40",
+        "sentiment_score": 0.5203498229384422
+    },
+    {
+        "title": "La clave del éxito del Barça de Flick que no tenía Xavi: staff experimentado",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/10/culemania/primer-equipo/900169975_13702527_1706x960.jpg?contentId=ESPIMA20241110_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241110/la-clave-del-barca-flick-xavi-experimentado/899910081_0.html",
+        "date": "2024-11-10 01:13:51",
+        "sentiment_score": 0.5062695257365704
+    },
+    {
+        "title": "Caos en los tribunales por el trámite de audiencia previa en los despidos: ¿obligatorio?",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2022/05/Palau_de_Justicia-300x225.jpg",
+        "tags": [
+            "artículos",
+            "znoticia portada1",
+            "tribunal supremo",
+            "despidos",
+            "derecho laboral",
+            "app",
+            "laboral",
+            "trámite",
+            "jurisprudencia"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/caos-en-los-tribunales-por-el-tramite-de-audiencia-previa-en-los-despidos-obligatorio/",
+        "date": "2024-11-10 01:00:34",
+        "sentiment_score": -0.7200531344860792
+    },
+    {
+        "title": "El TJUE avala que la no exoneración total del crédito público que plantea el legislador nacional es conforme a la directiva",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2024/11/3-1.png",
+        "tags": [
+            "artículos",
+            "jurisprudencia",
+            "proporcionalidad",
+            "crédito público",
+            "app",
+            "zbloque celeste",
+            "interés público",
+            "actualidad",
+            "derecho concursal",
+            "noticias jurídicas"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/el-tjue-avala-que-la-no-exoneracion-total-del-credito-publico-que-plantea-el-legislador-nacional-es-conforme-a-la-directiva/",
+        "date": "2024-11-10 01:00:06",
+        "sentiment_score": -0.5537260621786118
+    },
+    {
+        "title": "El Liverpool aprovecha la crisis del City para afianzar su liderato",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png",
+        "tags": [
+            "fútbol",
+            "manchester city",
+            "deportes",
+            "premier league",
+            "el liverpool"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-liverpool-aprovecha-la-crisis-del-city-para-afianzar-su-liderato/",
+        "date": "2024-11-10 00:39:07",
+        "sentiment_score": 0.6018877103924751
+    },
+    {
+        "title": "Qué esperar de la cumbre del clima de Bakú: una COP sin grandes expectativas y con la sombra de la victoria de Trump",
+        "image_url": "https://s1.elespanol.com/2024/11/07/enclave-ods/historias/899420406_250681618_1706x960.jpg?contentId=ESPIMA20241107_0357",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20241110/esperar-cumbre-clima-baku-cop-sin-grandes-expectativas-sombra-victoria-trump/899410196_0.html",
+        "date": "2024-11-10 00:10:21",
+        "sentiment_score": 0.10977578163146973
+    },
+    {
+        "title": "Sigue en directo desde las 12:00h Tiempo de Juego con el Mallorca-Atlético y Real Sociedad-Barcelona",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/10/672ff28831104.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/sigue-directo-12-00h-juego-mallorca-atletico-real-sociedad-barcelona-20241110_3043141.html",
+        "date": "2024-11-09 23:46:39",
+        "sentiment_score": 0.019203543663024902
     }
 ];
