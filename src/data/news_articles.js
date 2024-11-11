@@ -176,46 +176,6 @@ export default [
         "sentiment_score": -0.0549299418926239
     },
     {
-        "title": "El Consorcio de Seguros ya ha recibido 116.000 solicitudes de indemnización por la DANA",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/07/1488353780-R0lRYmgCq0XyTvSAFavrPMN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/consorcio-seguros-recibido-116000-solicitudes-indemnizacion-dana-20241107142135-nt.html",
-        "date": "2024-11-07 13:21:35",
-        "sentiment_score": -0.0990140289068222
-    },
-    {
-        "title": "Suspender el alquiler, aplazar el pago de la hipoteca o cancelar un viaje: ¿qué derechos tienen los afectados por la DANA?",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/07/1488354248-R4zJ2VicPzJJ7ZlIqGLg58O-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/suspender-alquiler-aplazar-pago-hipoteca-cancelar-viaje-20241107135838-nt.html",
-        "date": "2024-11-07 13:02:00",
-        "sentiment_score": -0.14002984762191772
-    },
-    {
-        "title": "Xi Jinping, Trump y la sombra de una guerra económica",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/07/trump-xi-Rg2CaS0zaKTiEOtbE2cCe3O-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/jinping-trump-sombra-guerra-economica-20241107134353-nt.html",
-        "date": "2024-11-07 12:43:54",
-        "sentiment_score": -0.07364842295646667
-    },
-    {
-        "title": "Muere a los 100 años la química Ana María Lajusticia, pionera del uso del magnesio como complemento alimenticio",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/07/lajusticia-klJC-REOMfnepAOji1vWr83FqIoN-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/fallece-100-anos-quimica-ana-maria-lajusticia-20241107131839-nt.html",
-        "date": "2024-11-07 12:25:55",
-        "sentiment_score": 0.10152655839920044
-    },
-    {
         "title": "Almeida presenta los presupuestos con más gasto que protagonizan “las grandes obras” de este año",
         "image_url": "https://imagenes.elpais.com/resizer/v2/BVFP6P6LBVFTHKCX2INJ5G2PEM.jpeg?auth=bd0516600230eca16aee2dfb30407be168a2b68fb1f55ce1f437f819fd881580&width=1200",
         "tags": [
@@ -6345,5 +6305,295 @@ export default [
         "link": "https://www.ara.cat/opinio/1929_1_5191658.html",
         "date": "2024-11-10 22:00:01",
         "sentiment_score": -0.21090200543403625
+    },
+    {
+        "title": "¿Quién gana entre Aerolíneas Argentinas y el Gobierno? Analista responde",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-825626320.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "javier milei",
+            "argentina",
+            "aerolíneas argentinas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aerolineas-argentinas-conflicto-privatizacion-mirador-mundial-tv/",
+        "date": "2024-11-11 01:08:11",
+        "sentiment_score": -0.21949414163827896
+    },
+    {
+        "title": "¿Quién gana entre Aerolíneas Argentinas y el Gobierno? Analista responde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aerolineas-argentinas-conflicto-privatizacion-mirador-mundial-tv",
+        "date": "2024-11-11 01:08:11",
+        "sentiment_score": -0.08112379163503647
+    },
+    {
+        "title": "El consejo de transición de Haití destituye al primer ministro Garry Conille",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779236-gettyimages-2160280021.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "haití"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/consejo-transicion-haiti-destituye-primer-ministro-garry-conille-trax/",
+        "date": "2024-11-11 01:05:58",
+        "sentiment_score": -0.13368560373783112
+    },
+    {
+        "title": "Rusia denuncia que Ucrania lanzó el mayor ataque con drones a Moscú",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-rusia-ataque-drones-moscu-mirador-mundial-tv",
+        "date": "2024-11-11 01:05:43",
+        "sentiment_score": -0.8093495015054941
+    },
+    {
+        "title": "Rusia denuncia que Ucrania lanzó el mayor ataque con drones a Moscú",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183326311.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "rusia",
+            "guerra de rusia en ucrania",
+            "ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-rusia-ataque-drones-moscu-mirador-mundial-tv/",
+        "date": "2024-11-11 01:05:43",
+        "sentiment_score": -0.7310871370136738
+    },
+    {
+        "title": "Israel reconoce su responsabilidad en los ataques con beepers en el Líbano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-reconoce-ataques-beepers-libano-mirador-mundial-tv",
+        "date": "2024-11-11 01:02:51",
+        "sentiment_score": -0.7439910396933556
+    },
+    {
+        "title": "Israel reconoce su responsabilidad en los ataques con beepers en el Líbano",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1473939945.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-reconoce-ataques-beepers-libano-mirador-mundial-tv/",
+        "date": "2024-11-11 01:02:51",
+        "sentiment_score": 0.013693034648895264
+    },
+    {
+        "title": "Despiden a empleada de FEMA que intentó evitar apoyo a seguidores de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/gettyimages-2176736355-20241111005658476.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apartan-empleada-fema-trump-milton-mirador-mundial-tv/",
+        "date": "2024-11-11 00:58:47",
+        "sentiment_score": -0.6641910262405872
+    },
+    {
+        "title": "¿Qué implica el megapuerto de China en Perú?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/megapuerto.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "perú",
+            "china"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/megapuerto-china-peru-mirador-mundial-tv/",
+        "date": "2024-11-11 00:46:56",
+        "sentiment_score": 0.10946698486804962
+    },
+    {
+        "title": "¿Qué implica el megapuerto de China en Perú?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/megapuerto-china-peru-mirador-mundial-tv",
+        "date": "2024-11-11 00:46:56",
+        "sentiment_score": -0.11686368845403194
+    },
+    {
+        "title": "El comisionista Aldama y los negocios de Delcy",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/11/04/aliciareina-U53202288712GUh-170x119@Las%20Provincias.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-comisionista-aldama-negocios-delcy-20241111014425-nt.html",
+        "date": "2024-11-11 00:44:28",
+        "sentiment_score": -0.6121093407273293
+    },
+    {
+        "title": "Barcelona pierde en su visita a la Real Sociedad",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/11/descarga-13-730x524.webp",
+        "tags": [
+            "fútbol español",
+            "real sociedad",
+            "barcelona",
+            "deportes",
+            "derrota del barcelona"
+        ],
+        "link": "https://primicia.com.ve/deportes/barcelona-pierde-en-su-visita-a-la-real-sociedad/",
+        "date": "2024-11-11 02:04:47",
+        "sentiment_score": 0.43232492357492447
+    },
+    {
+        "title": "El Barcelona se estrelló en visita a la Real Sociedad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/195944/el-barcelona-se-estrello-en-visita-a-la-real-sociedad/",
+        "date": "2024-11-11 01:47:40",
+        "sentiment_score": 0.3090817332267761
+    },
+    {
+        "title": "20 millones de euros para controlar la diabetes: Madrid reparte 440.000 sensores digitales para medir la glucosa",
+        "image_url": "https://s1.elespanol.com/2023/11/13/quincemil/vivir/salud/809430138_244498044_1706x960.jpg?contentId=ESPIMA20231113_1089",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241111/millones-euros-controlar-diabetes-madrid-reparte-sensores-digitales-medir-glucosa/899660581_0.html",
+        "date": "2024-11-11 01:04:51",
+        "sentiment_score": 0.42905668914318085
+    },
+    {
+        "title": "10 NOV 2024 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/10-nov-2024-tertulion-domingos-20241111_3043323.html",
+        "date": "2024-11-11 00:49:39",
+        "sentiment_score": -0.6718101464211941
+    },
+    {
+        "title": "Una nueva sentencia considera un suicidio accidente de trabajo... cómo prevenir el sufrimiento en el ámbito laboral: \"Nos falta creer que hay que anticiparse, también en lo psicosocial\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/4ef6b6a9e552d8ee4a95a7814bad47c0/crop/271x85/995x810/f/image/jpeg/assets/multimedia/imagenes/2022/05/26/16535920018495.jpg",
+        "tags": [
+            "artículos yaiza perera",
+            "prevención suicidio"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/2024/11/11/672df383e4d4d82c2b8b4593.html",
+        "date": "2024-11-11 00:30:13",
+        "sentiment_score": -0.8427188061177731
+    },
+    {
+        "title": "Derrota del líder y polémica arbitral, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2024/11/11/67314f709c132.r_d.963-354.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/derrota-lider-polemica-arbitral-tertulion-domingos-20241111_3043321.html",
+        "date": "2024-11-11 00:29:47",
+        "sentiment_score": -0.017543375492095947
+    },
+    {
+        "title": "Imanol Alguacil encuentra el antídoto contra Hansi Flick: su propia medicina",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/11/culemania/primer-equipo/900419951_13705535_1706x960.jpg?contentId=ESPIMA20241111_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241111/imanol-alguacil-encuentra-el-antidoto-barca-flick/900160048_0.html",
+        "date": "2024-11-11 00:14:39",
+        "sentiment_score": -0.81367988884449
+    },
+    {
+        "title": "Este lunes a las 23:30 horas, Juanma Castaño entrevista a Rodrigo Hernández",
+        "image_url": "https://imagenes.cope.es/files/og_thumbnail/uploads/2024/11/10/673122fd36f25.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/lunes-23-30-horas-juanma-castano-entrevista-rodrigo-hernandez-20241111_3043297.html",
+        "date": "2024-11-10 23:37:12",
+        "sentiment_score": -0.001798480749130249
+    },
+    {
+        "title": "Una batalla cuerpo a cuerpo",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/11/11/99684360-kYID--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/batalla-cuerpo-cuerpo-20241111001321-nt.html",
+        "date": "2024-11-10 23:26:13",
+        "sentiment_score": -0.12405674904584885
+    },
+    {
+        "title": "Tarjeta roja: Fermín López",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/10/culemania/primer-equipo/900170071_13705448_1706x960.png?contentId=ESPIMA20241110_0097",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241111/tarjeta-roja-fermin-lopez/900160049_0.html",
+        "date": "2024-11-10 23:24:15",
+        "sentiment_score": -0.9120213408023119
+    },
+    {
+        "title": "El Norte se le atraganta al Barça de Flick: dos derrotas sin Lamine Yamal",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/11/culemania/primer-equipo/900419955_13705653_1706x960.jpg?contentId=ESPIMA20241111_0006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241111/el-norte-atraganta-barca-flick-lamine-yamal/900409953_0.html",
+        "date": "2024-11-11 01:21:45",
+        "sentiment_score": 0.41967853903770447
+    },
+    {
+        "title": "La Justicia avala el despido del profesor que llamó \"puta lesbiana\" a una alumna y acosó sexualmente a otras dos",
+        "image_url": "https://s1.elespanol.com/2024/11/08/espana/tribunales/899670998_250738105_1706x960.jpg?contentId=ESPIMA20241108_0974",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20241111/justicia-avala-despido-profesor-llamo-puta-lesbiana-alumna-acoso-sexualmente/899410649_0.html",
+        "date": "2024-11-11 01:20:26",
+        "sentiment_score": -0.8110215151682496
+    },
+    {
+        "title": "Abdulrazak Gurnah: “Avanzamos a ser mejores seres humanos y de repente sale electo Trump”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TZSJGYA26BGPNGRWKEU2BJ5SUQ.jpg?auth=4c9ff8a7f445d6effb19b8951797fc5f78a0de47c251f8ad2b04b6891a0aaf00&width=1200",
+        "tags": [
+            "perú",
+            "américa",
+            "colonialismo",
+            "racismo",
+            "nobel de literatura",
+            "donald trump",
+            "latinoamérica",
+            "abdulrazak gurnah",
+            "arequipa",
+            "literatura",
+            "hay festival"
+        ],
+        "link": "https://elpais.com/america/2024-11-11/abdulrazak-gurnah-avanzamos-a-ser-mejores-seres-humanos-y-de-repente-sale-electo-trump.html",
+        "date": "2024-11-11 01:08:47",
+        "sentiment_score": 0.14207792282104492
+    },
+    {
+        "title": "“Rakuten es enano, no aspira a jugar en la liga de Netflix”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/08/672e33544260a.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241111/10090890/rakuten-enano-aspira-jugar-liga-netflix.html",
+        "date": "2024-11-11 01:00:00",
+        "sentiment_score": 0.6065167989581823
+    },
+    {
+        "title": "El Pazo frena el Barça",
+        "image_url": "https://www.elpuntavui.cat/imatges/63/30/4x3/780_0008_6330747_9d5d7e80b9c6bc406a50a8083ee93dcever3.jpg",
+        "tags": [
+            "esports"
+        ],
+        "link": "http://www.lesportiudecatalunya.cat/basquet/article/2477525-el-pazo-frena-el-barca.html",
+        "date": "2024-11-11 00:49:28",
+        "sentiment_score": -0.9469963936135173
+    },
+    {
+        "title": "Nadie manipula como el PSOE",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/02/08/65c41a4046e54.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241111/nadie-manipula-como-psoe_243564.html",
+        "date": "2024-11-11 00:30:00",
+        "sentiment_score": -0.7755068428814411
     }
 ];
