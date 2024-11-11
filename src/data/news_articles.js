@@ -1,797 +1,5 @@
 export default [
     {
-        "title": "ANÁLISIS | El regreso de Trump al poder plantea serias preguntas sobre la credibilidad de los medios",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1777535-trump-medios-prensa-credibilidad.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medios de comunicación",
-            "elecciones 2024",
-            "donald trump",
-            "noticias de donald trump",
-            "elecciones en estados unidos",
-            "periodistas"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/06/analisis-regreso-trump-poder-preguntas-credibilidad-medios-trax/",
-        "date": "2024-11-06 22:11:26",
-        "sentiment_score": -0.3990343436598778
-    },
-    {
-        "title": "Mercados globales reaccionan al triunfo de Trump con subidas mixtas",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/nyse-20241106215854233.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "donald trump",
-            "mercados de valores",
-            "donald trump jr.",
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mercados-globales-trump-dow-eeuu-europa-asia-elecciones-cnn-dinero-tv/",
-        "date": "2024-11-06 22:01:38",
-        "sentiment_score": 0.4444729685783386
-    },
-    {
-        "title": "Un nuevo bebé de hipopótamo pigmeo se convierte en la última sensación viral",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-haggis.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "animales",
-            "instanoticias",
-            "xpress",
-            "videos digitales",
-            "fast – general",
-            "escocia",
-            "hipopótamo"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/haggis-hipopotamo-viral-sensacion-ush-trax/",
-        "date": "2024-11-06 21:57:22",
-        "sentiment_score": -0.6795419082045555
-    },
-    {
-        "title": "Harris a Trump: \"Vamos a tener una transición de poder pacífica\"",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21105589-39680-665-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/video/kamala-harris-donald-trump-elecciones-estados-unidos/",
-        "date": "2024-11-06 21:53:38",
-        "sentiment_score": 0.07882469892501831
-    },
-    {
-        "title": "Harris acepta su derrota electoral en un discurso a la nación desde la Universidad de Howard",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1777605-kamala-harris-discurso-derrota.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "kamala harris",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/06/harris-acepta-derrota-elecciones-presidenciales-discurso-trax/",
-        "date": "2024-11-06 21:52:30",
-        "sentiment_score": -0.4531090259552002
-    },
-    {
-        "title": "¿Por qué los aranceles propuestos por Trump podrían costarte más de US$ 2.600 al año?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21104925-6452-45-still-1.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/aranceles-impuestos-donald-trump-estados-unidos-trax",
-        "date": "2024-11-06 21:35:08",
-        "sentiment_score": -0.8457447327673435
-    },
-    {
-        "title": "¿Por qué los aranceles propuestos por Trump podrían costarte más de US$ 2.600 al año?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21104925-6452-45-still-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/aranceles-impuestos-donald-trump-estados-unidos-trax/",
-        "date": "2024-11-06 21:35:08",
-        "sentiment_score": -0.7549164965748787
-    },
-    {
-        "title": "“Me afecta porque soy latino; el pro es que ya sabe cómo manejar un país”: latinos en EE.UU. reaccionan al triunfo de Trump",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/latinos-trump-thumb.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de donald trump",
-            "elecciones en estados unidos",
-            "latinos en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/latinos-reaccionan-donald-trump-presidente-electo-eeuu-ush/",
-        "date": "2024-11-06 21:28:39",
-        "sentiment_score": -0.14291870594024658
-    },
-    {
-        "title": "“Me afecta porque soy latino; el pro es que ya sabe cómo manejar un país”: latinos en EE.UU. reaccionan al triunfo de Trump",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/latinos-trump-thumb.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/latinos-reaccionan-donald-trump-presidente-electo-eeuu-ush",
-        "date": "2024-11-06 21:28:39",
-        "sentiment_score": -0.17046312987804413
-    },
-    {
-        "title": "Conmoción e incredulidad: Así reacciona la campaña de Harris a resultados",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182515288.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "xpress",
-            "noticias de donald trump",
-            "eleccciones estados unidos",
-            "fast – news variety",
-            "kamala harris",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/kamala-harris-campana-reaccion-elecciones-trump-ush-trax/",
-        "date": "2024-11-06 21:16:31",
-        "sentiment_score": -0.03238092362880707
-    },
-    {
-        "title": "El BEI ofrece a España acelerar el pago de hasta 900 millones para afrontar la reconstrucción tras la DANA",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/06/Calvino-kbrH-U603315186173EhH-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bei-ofrece-espana-acelerar-pago-900-millones-20241106221334-nt.html",
-        "date": "2024-11-06 21:13:34",
-        "sentiment_score": -0.03585827350616455
-    },
-    {
-        "title": "El padre Torres Padilla: fuente de agua viva",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/07/padre-torres-padilla-cuadro-parroq-san-sebastian-R00GFSVPOxXrzrLHnqCoWiJ-758x531@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/jose-angel-saiz-meneses-padre-torres-padilla-fuente-agua-viva-20241107212821-nts.html",
-        "date": "2024-11-06 20:28:21",
-        "sentiment_score": 0.05712014436721802
-    },
-    {
-        "title": "Alicia en el país de las pesadillas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-alicia-pais-pesadillas-20241107174503-nts.html",
-        "date": "2024-11-06 20:28:20",
-        "sentiment_score": -0.29864493012428284
-    },
-    {
-        "title": "La amarga madrugada de Kamala: ambiente de funeral en una Casa Blanca en 'shock'",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/06/democratas-nevada-RNs1ZU5E4jFZvO4AMAlGgeP-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/amarga-madrugada-kamala-ambiente-funeral-casa-blanca-20241106205115-nt.html",
-        "date": "2024-11-06 19:51:16",
-        "sentiment_score": -0.02302059531211853
-    },
-    {
-        "title": "El reproche de una trabajadora de la Generalitat a una consellera tras perder a su marido y su hija en la DANA en Valencia: «Que dimitan»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3c/fe/media_thumb-link-3997335.webp",
-        "tags": [
-            "consellera",
-            "generalitat",
-            "nuria montes",
-            "politica",
-            "comunidad valencian",
-            "pp"
-        ],
-        "link": "https://www.meneame.net/story/reproche-trabajadora-generalitat-consellera-tras-perder-marido",
-        "date": "2024-11-06 19:40:03",
-        "sentiment_score": -0.7965831756591797
-    },
-    {
-        "title": "Sánchez, esa imagen, tu bajeza",
-        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/11/04/rota-base-U57522333415YBv-170x119@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/agustin-pery-sanchez-imagen-bajeza-20241107194003-nt.html",
-        "date": "2024-11-06 18:57:30",
-        "sentiment_score": -0.10550251603126526
-    },
-    {
-        "title": "Trump triunfa sin contrapesos",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/10/28/120947880-kXJB--170x119@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-trump-triunfa-contrapesos-20241107195220-nt.html",
-        "date": "2024-11-06 18:52:30",
-        "sentiment_score": -0.07926180958747864
-    },
-    {
-        "title": "Un buen día para cazar pavos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/11/07/241107TerceraSorman-RT34sC43aoAiBW1FlK0kFmL-350x624@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/guy-sorman-buen-dia-cazar-pavos-20241107194129-nt.html",
-        "date": "2024-11-06 18:41:30",
-        "sentiment_score": -0.1181829571723938
-    },
-    {
-        "title": "El espejo americano",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/04/melendi-cancion-valencia-kEvC--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/ignacio-camacho-espejo-americano-20241107194113-nt.html",
-        "date": "2024-11-06 18:41:20",
-        "sentiment_score": -0.12800440192222595
-    },
-    {
-        "title": "El ganador es Biden",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/04/melendi-cancion-valencia-kEvC--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/alberto-garcia-reyes-ganador-biden-20241107194057-nt.html",
-        "date": "2024-11-06 18:41:06",
-        "sentiment_score": -0.13118112087249756
-    },
-    {
-        "title": "Dana e inundaciones en Valencia: resumen del 6/11/202",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PKJFUUQBSJBGNG2ANZR3SMTS3Q.jpg?auth=dfadaf702f2992954d97d1229ac13237166155dc7d50dc2339a1ebca45c03f6b&width=1200",
-        "tags": [
-            "españa",
-            "temporales",
-            "meteorología",
-            "inundaciones dana octubre 2024",
-            "dana",
-            "inundaciones",
-            "comunidad valenciana",
-            "viento",
-            "castilla-la mancha",
-            "murcia",
-            "lluvia"
-        ],
-        "link": "https://elpais.com/espana/2024-11-07/ultima-hora-de-la-dana-en-directo.html",
-        "date": "2024-11-06 21:38:57",
-        "sentiment_score": -0.5928369835019112
-    },
-    {
-        "title": "La consejera Nuria Montes desmiente que ofreciera un coche oficial a la vecina de Benetússer que perdió a su marido y su hija en la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I5XRMTGUHBHYTA725QW2TMYXRA.jpg?auth=017047e2bfe862cab69ae642aabdd26c4a09e5fbe8254d2f5549c7bce9fdda9f&width=1200",
-        "tags": [
-            "sucesos",
-            "temporales",
-            "víctimas",
-            "generalitat valenciana",
-            "dana",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-06/la-consejera-valenciana-nuria-montes-desmiente-que-ofreciera-un-coche-oficial-a-la-vecina-de-benetusser-que-perdio-a-su-marido-y-su-hija-en-la-dana.html",
-        "date": "2024-11-06 21:38:07",
-        "sentiment_score": -0.7956072147935629
-    },
-    {
-        "title": "De Soge Culebra a Kapo: el reggaetón atraca en el nuevo Port Olímpic de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y36ARWCHZ5HNTONROI6Z6B7D6Y.jpg?auth=4dd5fa70cb36deb18c720de285589b0f0128ac7eb317961d0a57114d10d278c8&width=1200",
-        "tags": [
-            "los40 music awards",
-            "cataluña",
-            "conciertos",
-            "rock",
-            "cultura",
-            "música latina",
-            "plataformas digitales",
-            "redes sociales",
-            "fiesta",
-            "pop",
-            "los40 live show",
-            "benidorm fest",
-            "radio",
-            "ràdio barcelona",
-            "televisión",
-            "música en vivo",
-            "discográficas",
-            "música"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-06/de-soge-culebra-a-kapo-el-reggaeton-atraca-en-el-nuevo-port-olimpic-de-barcelona.html",
-        "date": "2024-11-06 21:11:33",
-        "sentiment_score": 0.7337645497173071
-    },
-    {
-        "title": "Un campamento improvisado para 300 mascotas rescatadas tras la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EORECMOLB5ALHJ7UEOR6GLHZCY.jpg?auth=bb0683f7cbcf151be3e61086e55ccca7ffe1ac04e8207e0e2478fb74662fed4d&width=1200",
-        "tags": [
-            "españa",
-            "inundaciones dana octubre 2024",
-            "animales",
-            "paiporta",
-            "mascotas",
-            "valencia",
-            "animales compañía",
-            "protección animales",
-            "lluvias torrenciales",
-            "inundaciones"
-        ],
-        "link": "https://elpais.com/espana/2024-11-06/un-campamento-improvisado-para-300-mascotas-rescatadas-tras-la-dana.html",
-        "date": "2024-11-06 19:26:34",
-        "sentiment_score": 0.29533279687166214
-    },
-    {
-        "title": "La política de lo (trágicamente) real",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CWZS3A33AUOQ4KUUZVACMLQ7WE.jpg?auth=91e8ec6d58137358aee73aa13fa5e7c0daf5b94402b55858681dd7f86aab93ce&width=1200",
-        "tags": [
-            "salvador illa",
-            "meteorología",
-            "dana",
-            "cataluña",
-            "desastres",
-            "parlament cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-07/la-politica-de-lo-tragicamente-real.html",
-        "date": "2024-11-06 19:18:04",
-        "sentiment_score": -0.3645596355199814
-    },
-    {
-        "title": "La Sindicatura detecta pagos injustificados de la Generalitat a los funcionarios de prisiones catalanas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IKYHTEOWANBK7C5ARSZR65VJPA.jpg?auth=c016a1404393ac72c5ac1e3eb57692d08ca6cdee67b0e626adeab6042ea85b1e&width=1200",
-        "tags": [
-            "sindicatura de comptes",
-            "funcionarios prisiones",
-            "cataluña",
-            "centros penitenciarios",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-06/la-sindicatura-detecta-pagos-injustificados-de-la-generalitat-a-los-funcionarios-de-prisiones-catalanas.html",
-        "date": "2024-11-06 19:15:09",
-        "sentiment_score": -0.33364883065223694
-    },
-    {
-        "title": "La Abogacía del Estado pide al Supremo que archive la causa contra el fiscal general",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QZWSBFNC2VC3XHQHCWYLO3B4WI.jpg?auth=e3a009710a485c3ea2b587049df8b6d9a1b30103818d34445dcc67a4f9695b20&width=1200",
-        "tags": [
-            "isabel díaz ayuso",
-            "álvaro garcía ortiz",
-            "tribunal supremo",
-            "españa",
-            "abogacía general estado",
-            "fiscalía general estado",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/2024-11-06/la-abogacia-del-estado-pide-al-supremo-que-archive-la-causa-contra-el-fiscal-general.html",
-        "date": "2024-11-06 18:29:52",
-        "sentiment_score": -0.5098682902753353
-    },
-    {
-        "title": "El Barça golea al Estrella Roja (2-5) y el Atleti conquista París venciendo 1-2 al PSG en la última jugada",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/11/06/los-jugadores-del-fc-barcelona-celebran-en-belgrado-uno-de-los-goles-frente-al-estrella-roja.jpeg",
-        "tags": [
-            "deporte"
-        ],
-        "link": "https://www.huffingtonpost.es/deporte/el-barca-golea-estrella-roja-25-atleti-conquista-paris-venciendo-12-psg-ultima-jugada.html",
-        "date": "2024-11-06 22:04:00",
-        "sentiment_score": 0.30035431683063507
-    },
-    {
-        "title": "El Barça pone el turbo en la Champions y destroza al Estrella Roja en Belgrado",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/06/culemania/primer-equipo/899170258_13685935_1706x960.jpg?contentId=ESPIMA20241106_0184",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241106/el-barca-en-champions-estrella-roja-belgrado/899160215_0.html",
-        "date": "2024-11-06 21:58:04",
-        "sentiment_score": 0.44927453994750977
-    },
-    {
-        "title": "El Barcelona goleó al Estrella Roja en Champions League y sigue dando miedo en Europa",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/barcelona-e1730929977777.jpg",
-        "tags": [
-            "deportes",
-            "fc barcelona",
-            "champions league",
-            "fútbol"
-        ],
-        "link": "https://eldiariony.com/2024/11/06/el-barcelona-goleo-al-estrella-roja-en-champions-league-y-sigue-dando-miedo-en-europa/",
-        "date": "2024-11-06 21:58:03",
-        "sentiment_score": 0.7367226518690586
-    },
-    {
-        "title": "El Rey ya mandó a Valencia desde el tercer día de la DANA a 243 efectivos de su escolta y Guardia Real",
-        "image_url": "https://okdiario.com/img/2024/11/06/guardias-civiles-de-la-seguridad-del-rey-colaboran-en-las-labores-de-emergencia-en-la-zona-afectada-por-la-dana.-foto-zarzuela.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://okdiario.com/espana/rey-ya-mando-valencia-desde-tercer-dia-dana-243-efectivos-escolta-guardia-real-13775687",
-        "date": "2024-11-06 21:57:54",
-        "sentiment_score": -0.21691685914993286
-    },
-    {
-        "title": "Fotos, peritajes privados y paciencia: qué aprendieron los afectados por otras catástrofes naturales para tratar con seguros y ayudas",
-        "image_url": "https://static.eldiario.es/clip/a73e09af-f4a0-4fd2-b6a6-e4ff79ce1bdd_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.eldiario.es/economia/fotos-peritajes-privados-paciencia-aprendieron-afectados-catastrofes-naturales-tratar-seguros-ayudas_1_11791187.html",
-        "date": "2024-11-06 21:44:47",
-        "sentiment_score": -0.1433621048927307
-    },
-    {
-        "title": "EEUU se pone a los pies de Trump",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a05d64d6-7462-4b78-86bd-fe0fbe6b2f85_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/internacional/2024/11/06/eeuu-pone-pies-trump-111445523.html",
-        "date": "2024-11-06 21:35:42",
-        "sentiment_score": -0.3901436775922775
-    },
-    {
-        "title": "Interceptan en Algeciras el mayor alijo de cocaína en España",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/2375069a-9486-6aa9-535ea346ec61bd89.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z23750542-d59e-6cea-11aa2e7ff55a29e0/202411/interceptan-en-algeciras-el-mayor-alijo-de-cocaina-en-espana",
-        "date": "2024-11-06 21:16:01",
-        "sentiment_score": -0.261695459485054
-    },
-    {
-        "title": "Misa Rodríguez, la estrella teldense del Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a36f0671-f8d4-4742-b72b-f4b2773b2348_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/telde/2024/11/06/misa-rodriguez-estrella-teldense-real-111442556.html",
-        "date": "2024-11-06 21:07:39",
-        "sentiment_score": 0.38826926052570343
-    },
-    {
-        "title": "Rodri no está el top de mejor pagados de la Premier",
-        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/11/06/whatsapp-image-2022-05-28-at-1-56-38-pm_1-3699507_20220528140344--1200x799-Rti6wNMiUBWsK2CKVhzfMtM-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/deportes/rodri-top-mejor-pagados-premier-20241106215505-nt.html",
-        "date": "2024-11-06 20:58:09",
-        "sentiment_score": -0.6718854904174805
-    },
-    {
-        "title": "El Barça también siembra en el Pequeño Maracaná",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/29bcb107-9890-4357-9900-6ff66344869d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2024/11/06/champions-league-estrella-roja-fc-barcelona-111443545.html",
-        "date": "2024-11-06 22:05:00",
-        "sentiment_score": -0.4852287322282791
-    },
-    {
-        "title": "Lewandowski destroza todos los pronósticos goleadores con el Barça: 19 goles en 16 partidos",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/06/culemania/primer-equipo/899170259_13685964_1706x960.jpg?contentId=ESPIMA20241106_0185",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241106/lewandowski-destroza-todos-pronosticos-goleadores-barca-partidos/899160226_0.html",
-        "date": "2024-11-06 22:03:20",
-        "sentiment_score": 0.7571761980652809
-    },
-    {
-        "title": "Restaurante cierra sus puertas y prepara comida para afectados por la DANA",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/45427122-58411356-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/restautante-dana-comida-afectados-pkg",
-        "date": "2024-11-07 02:10:57",
-        "sentiment_score": -0.2370823323726654
-    },
-    {
-        "title": "Restaurante cierra sus puertas y prepara comida para afectados por la DANA",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/45427122-58411356-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "españa",
-            "dana",
-            "valencia",
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/restautante-dana-comida-afectados-pkg/",
-        "date": "2024-11-07 02:10:57",
-        "sentiment_score": -0.9075425658375025
-    },
-    {
-        "title": "Imágenes satelitales muestran la llegada del huracán Rafael a Cuba",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/imagenes-satelitales-huracan-rafael-orix-00-00-01-11-still001.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "cuba",
-            "centro nacional de huracanes",
-            "cambio climático",
-            "xpress",
-            "fast – news variety",
-            "huracanes",
-            "huracán"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/imagenes-satelitales-huracan-rafael-orix/",
-        "date": "2024-11-07 02:10:05",
-        "sentiment_score": -0.5669892728328705
-    },
-    {
-        "title": "Video de cámara corporal capta altercados entre la policía y los aficionados en partido de fútbol universitario",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/fan-thumb-20241107015635500.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/fans-futbol-americano-altercado-policia-florida-georgia-trax",
-        "date": "2024-11-07 02:09:04",
-        "sentiment_score": -0.593237953260541
-    },
-    {
-        "title": "Video de cámara corporal capta altercados entre la policía y los aficionados en partido de fútbol universitario",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/fan-thumb-20241107015635500.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/fans-futbol-americano-altercado-policia-florida-georgia-trax/",
-        "date": "2024-11-07 02:09:04",
-        "sentiment_score": -0.5736176781356335
-    },
-    {
-        "title": "Las 4 noticias destacadas de la noche del 6 de noviembre en CNN en Español",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182550504.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-6-de-noviembre-2024-panorama-fast",
-        "date": "2024-11-07 01:54:13",
-        "sentiment_score": 0.1342799849808216
-    },
-    {
-        "title": "Millones de estadounidenses padecen diabetes, pero no tienen diagnóstico",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-126225512.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "fast – news variety",
-            "prevención de enfermedades",
-            "xpress",
-            "diabetes",
-            "videos digitales",
-            "noticias de salud"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/estadounidenses-diabetes-sin-diagnostico-minuto-de-salud-fast/",
-        "date": "2024-11-07 01:29:07",
-        "sentiment_score": -0.4256183635443449
-    },
-    {
-        "title": "Millones de estadounidenses padecen diabetes, pero no tienen diagnóstico",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/estadounidenses-diabetes-sin-diagnostico-minuto-de-salud-fast",
-        "date": "2024-11-07 01:29:07",
-        "sentiment_score": -0.5014879032969475
-    },
-    {
-        "title": "Trump sorprende con su popularidad entre hombres negros e hispanos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2154370542.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de ee.uu.",
-            "diversidad y realidad en ee.uu.",
-            "voto latino",
-            "fast – news variety",
-            "elecciones ee.uu",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hombres-negros-hispanos-victoria-donald-trump-trax/",
-        "date": "2024-11-07 01:26:53",
-        "sentiment_score": 0.4180416166782379
-    },
-    {
-        "title": "Trump sorprende con su popularidad entre hombres negros e hispanos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hombres-negros-hispanos-victoria-donald-trump-trax",
-        "date": "2024-11-07 01:26:53",
-        "sentiment_score": 0.6713175177574158
-    },
-    {
-        "title": "De la alerta, al gabinete de crisis: 14 horas por explicar",
-        "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/sociedad/2024/11/05/aonubense-ayuda-valencia--170x119.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-alerta-gabinete-crisis-horas-explicar-20241107200134-nt.html",
-        "date": "2024-11-07 01:04:33",
-        "sentiment_score": -0.23818327486515045
-    },
-    {
-        "title": "La bajada de tipos dispara un 12,5% la compra de vivienda y devuelve la fiesta al sector inmobiliario",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/07/1479836121-RXo5Emu3r4Idb9DoOXauYTK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bajada-tipos-dispara-125-compra-vivienda-devuelve-20241107005143-nt.html",
-        "date": "2024-11-06 23:51:43",
-        "sentiment_score": -0.07890945672988892
-    },
-    {
-        "title": "¿Hablo con el señor Masías?",
-        "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/sociedad/2024/11/05/aonubense-ayuda-valencia--170x119.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/javier-macias-hablo-senor-masias-20241107232237-nts.html",
-        "date": "2024-11-06 22:36:08",
-        "sentiment_score": -0.02434486150741577
-    },
-    {
-        "title": "Tres ex de Colliers y Savills montan Albero Capital con 100 M€ para inversiones inmobiliarias de 'family offices'",
-        "image_url": "https://s1.elespanol.com/2024/11/06/invertia/mis-finanzas/fondos-de-inversion/899170823_250662597_1706x960.jpg?contentId=ESPIMA20241106_0749",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20241107/ex-colliers-savills-montan-albero-capital-meur-inversiones-inmobiliarias-family-offices/899160555_0.html",
-        "date": "2024-11-07 01:31:35",
-        "sentiment_score": 0.026284918189048767
-    },
-    {
-        "title": "Real Madrid pierde por lesión a otra de sus estrellas",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24281413015114.jpg",
-        "tags": [
-            "real madrid",
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://eldiariony.com/2024/11/06/real-madrid-pierde-por-lesion-a-otra-de-sus-estrellas/",
-        "date": "2024-11-07 01:27:00",
-        "sentiment_score": -0.12409326434135437
-    },
-    {
-        "title": "Las izquierdas sí se entienden en Madrid: Manzanares reedita su tripartito con caras nuevas y un mes de negociaciones",
-        "image_url": "https://s1.elespanol.com/2024/11/06/madrid/comunidad/899170821_250662539_1706x960.png?contentId=ESPIMA20241106_0747",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20241107/izquierdas-entienden-madrid-manzanares-reedita-tripartito-caras-nuevas-mes-negociaciones/899160469_0.html",
-        "date": "2024-11-07 01:24:52",
-        "sentiment_score": -0.07590173929929733
-    },
-    {
-        "title": "Las dispares vidas de Federico X y Genoveva un año después de las fotografías que cambiaron la historia de Dinamarca",
-        "image_url": "https://s1.elespanol.com/2024/11/06/corazon/casas-reales/899170453_250651072_1706x960.jpg?contentId=ESPIMA20241106_0379",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/corazon/casas-reales/20241107/dispares-vidas-federico-genoveva-ano-despues-fotografias-cambiaron-historia-dinamarca/899160316_0.html",
-        "date": "2024-11-07 00:49:29",
-        "sentiment_score": -0.2755216360092163
-    },
-    {
-        "title": "El Barça siembra el terror en Europa: lluvia de goles que mete miedo en la nueva Champions",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/07/culemania/primer-equipo/899420053_13686381_1706x960.jpg?contentId=ESPIMA20241107_0004",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241107/el-barca-siembra-terror-en-europa-champions/899160231_0.html",
-        "date": "2024-11-07 00:33:01",
-        "sentiment_score": 0.7677967771887779
-    },
-    {
-        "title": "González Carvajal, el sevillano que inventó la lotería de Navidad",
-        "image_url": "https://album.mediaset.es/eimg/2024/10/22/retrato-de-gonzalez-carvajal_7eae.jpg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.telecinco.es/noticias/loterias/loteria-de-navidad/20241107/gonzalez-carvajal-sevillano-invento-sorteo-be5m_18_013790154.html",
-        "date": "2024-11-07 00:00:07",
-        "sentiment_score": -0.5992877595126629
-    },
-    {
-        "title": "Continuidad de Negocio 360o: Innovación y resiliencia para los desafíos del futuro",
-        "image_url": "https://revistabyte.es/wp-content/uploads/2024/11/continuidad-de-negocio-360o-innovacion-y-resiliencia.jpg",
-        "tags": [
-            "continuidad de negocio",
-            "innovación",
-            "resiliencia",
-            "actualidad ti",
-            "globalsuite solutions"
-        ],
-        "link": "https://revistabyte.es/actualidad-it/continuidad-de-negocio/",
-        "date": "2024-11-06 23:35:00",
-        "sentiment_score": 0.6484313197433949
-    },
-    {
-        "title": "El biólogo del Pabellón del Veneno donde más 'pica' la curiosidad: \"Casi todos los efectos que tienen las serpientes son beneficiosos\"",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/d027d6d3bb1300f97b714e3a2f676ff9/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/06/17309113299735.jpg",
-        "tags": [
-            "diabetes",
-            "méxico",
-            "universidades",
-            "artículos benjamín g. rosado",
-            "estados unidos"
-        ],
-        "link": "https://www.elmundo.es/madrid/2024/11/07/672b9b71fdddff4a028b4578.html",
-        "date": "2024-11-06 23:27:32",
-        "sentiment_score": 0.08984464034438133
-    },
-    {
-        "title": "Sara Baras actúa en Mallorca: «No quiero dejar de aprender y de entregar el 100% de lo que soy»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6da91b3c-9fc8-4e4e-ab8a-9e2ee937243f_16-9-aspect-ratio_default_1336465.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodemallorca.es/cultura/2024/11/07/sara-baras-actua-mallorca-quiero-111443291.html",
-        "date": "2024-11-06 23:26:37",
-        "sentiment_score": 0.14381460845470428
-    },
-    {
-        "title": "Vox recupera la estrategia del covid contra el Gobierno para la crisis valenciana",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/10/abascal-congreso-vox-1440x808.jpg",
-        "tags": [
-            "gobierno de españa",
-            "comunidad valenciana",
-            "santiago abascal",
-            "españa",
-            "vox",
-            "dana"
-        ],
-        "link": "https://www.elindependiente.com/espana/2024/11/07/vox-estrategia-covid-valencia-dana-gobierno/",
-        "date": "2024-11-06 23:05:35",
-        "sentiment_score": -0.6680524088442326
-    },
-    {
-        "title": "La DANA se ceba con Ford en Valencia y afecta a Seat en Barcelona: la fabricación de coches no crecerá en 2024",
-        "image_url": "https://s1.elespanol.com/2024/11/06/motor/899170403_250649529_1706x960.jpg?contentId=ESPIMA20241106_0329",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elespanol.com/motor/20241107/dana-ceba-ford-valencia-afecta-seat-barcelona-fabricacion-coches-no-crecera/899160298_0.html",
-        "date": "2024-11-07 01:32:24",
-        "sentiment_score": -0.5230037719011307
-    },
-    {
-        "title": "Neymar podría estar fuera 2 semanas por lesión. Aumentan conjeturas sobre su futuro en Al Hilal",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-11-06/neymar-podria-estar-fuera-2-semanas-por-lesion-aumentan-conjeturas-sobre-su-futuro-en-al-hilal",
-        "date": "2024-11-07 01:22:07",
-        "sentiment_score": -0.7369138114154339
-    },
-    {
-        "title": "Charles Webb, el chef de las estrellas que da de comer jamón ibérico, higos secos de Málaga y queso de Cabrales a George Clooney, Sharon Stone o Brad Pitt",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/ed06861b11f26d780c0b1bc2fac42c0f/crop/26x5/826x805/f/image/jpeg/assets/multimedia/imagenes/2022/06/17/16554500570958.jpg",
-        "tags": [
-            "gastronomía"
-        ],
-        "link": "https://www.elmundo.es/metropoli/gastronomia/2024/11/07/6728eb0efc6c83483a8b4579.html",
-        "date": "2024-11-07 01:21:21",
-        "sentiment_score": 0.2133553959429264
-    },
-    {
-        "title": "Barça, Inter y Bayern mostraron jerarquía en la Champions",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://elperiodiquito.com/deportes/195238/barca-inter-y-bayern-mostraron-jerarquia-en-la-champions/",
-        "date": "2024-11-07 01:16:57",
-        "sentiment_score": 0.7189711891114712
-    },
-    {
-        "title": "Dawa, una startup para las segundas vidas",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/02/6726975d983ab.r_d.2598-1622-0.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20241107/10073302/dawa-empresas-devoluciones-retorno-compra-venta.html",
-        "date": "2024-11-07 01:00:00",
-        "sentiment_score": 0.3218457028269768
-    },
-    {
-        "title": "Con el mono puesto entre las llamas de Campanar y la DANA",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/07/amador-gimeno-bombero-kqRF-U2201748816013sqG-1200x840@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ideal.es/sociedad/mono-puesto-llamas-campanar-dana-20241107015623-ntrc.html",
-        "date": "2024-11-07 00:58:52",
-        "sentiment_score": -0.11698310077190399
-    },
-    {
         "title": "Etapa decisiva en la MLS de cara a las semis de conferencia",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173640673.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -800,134 +8,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/mls-semis-conferencia-deportes-tv-fast",
         "date": "2024-11-07 05:57:05",
         "sentiment_score": 0.3437153585255146
-    },
-    {
-        "title": "Barcelona golea y Liverpool domina: Así fue la jornada 4 de la Champions",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/barcelona-golea-liverpool-asi-fue-jornada-4-champions-league-futbol-deportes-tv",
-        "date": "2024-11-07 04:03:23",
-        "sentiment_score": 0.49374108389019966
-    },
-    {
-        "title": "Análisis: ¿Qué puede esperar América Latina de un segundo mandato presidencial de Donald Trump?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171847688-20241107031258862.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "diplomacia",
-            "donald trump",
-            "noticias de donald trump",
-            "noticias de latinoamérica"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-donald-trump-relacion-latinoamerica-segundo-mandato-conclusiones-tv/",
-        "date": "2024-11-07 03:17:41",
-        "sentiment_score": -0.14895880222320557
-    },
-    {
-        "title": "Análisis: ¿Qué puede esperar América Latina de un segundo mandato presidencial de Donald Trump?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-donald-trump-relacion-latinoamerica-segundo-mandato-conclusiones-tv",
-        "date": "2024-11-07 03:17:41",
-        "sentiment_score": -0.30663709342479706
-    },
-    {
-        "title": "Carbonell: Reforma judicial crea incertidumbre en México",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/image-6-20241107025246521.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "aristegui",
-            "reforma judicial",
-            "fast – news variety",
-            "xpress",
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/reforma-judicial-cambio-de-regimen-mexico-aristegui-tv/",
-        "date": "2024-11-07 03:11:25",
-        "sentiment_score": -0.8771621622145176
-    },
-    {
-        "title": "Donald Trump regresa a la Casa Blanca: ¿cómo será la política exterior que implementará para Estados Unidos?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1868624103.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política exterior",
-            "diplomacia",
-            "donald trump",
-            "fast – news variety",
-            "xpress",
-            "noticias de donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/donald-trump-triunfo-electoral-relacion-internacional-conclusiones-tv/",
-        "date": "2024-11-07 03:11:16",
-        "sentiment_score": -0.17093691229820251
-    },
-    {
-        "title": "Maduro plantea a Trump “un nuevo comienzo” en las relaciones entre Venezuela y EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-902237-maduro-envia-mensaje-a-trump-que-tenga-salud-y-vida.jpeg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "venezuela",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/06/maduro-trump-nuevo-comienzo-relaciones-venezuela-ee-uu-orix/",
-        "date": "2024-11-07 02:55:11",
-        "sentiment_score": 0.2552000880241394
-    },
-    {
-        "title": "Valencia: EE.UU. sabía quién era Trump y aún así votaron por él",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias de donald trump",
-            "elecciones en estados unidos",
-            "elecciones ee.uu. 2024",
-            "xpress",
-            "fast – news variety",
-            "kamala harris"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-trump-venganza-aristegui-tv/",
-        "date": "2024-11-07 02:43:34",
-        "sentiment_score": -0.7796141412109137
-    },
-    {
-        "title": "Valencia: EE.UU. sabía quién era Trump y aún así votaron por él",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183214770.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elecciones-eeuu-trump-venganza-aristegui-tv",
-        "date": "2024-11-07 02:43:34",
-        "sentiment_score": -0.6043032519519329
-    },
-    {
-        "title": "La victoria de Trump hizo a Elon Musk US$ 15.000 millones más rico",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/110280-musk-13-billion-horizontal-thumb-11-20241107023107876.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elon-musk-mas-rico-donald-trump-elecciones-eeuu-trax/",
-        "date": "2024-11-07 02:32:38",
-        "sentiment_score": 0.36317726969718933
-    },
-    {
-        "title": "La falta de contratos públicos atasca el plan estratégico de Indra",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/07/1483048548-kqDF-RTQYYVpX2kiVdB0g4MyARUI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/falta-contratos-publicos-atasca-plan-estrategico-indra-20241107184347-nt.html",
-        "date": "2024-11-07 03:30:51",
-        "sentiment_score": -0.033143460750579834
-    },
-    {
-        "title": "El Gobierno cambió las reglas entre 2019 y 2020 para poder gastar a su antojo sin necesidad de aprobar Presupuestos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/07/comiteemergenciaep-Rb1EH0afJWaJIxMQgBSVKwN-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-cambio-reglas-2019-2020-poder-gastar-20241107210348-nt.html",
-        "date": "2024-11-07 03:15:56",
-        "sentiment_score": -0.05919644236564636
     },
     {
         "title": "L’Hospitalet de Llobregat y Badalona incumplen la normativa sobre planes de emergencia",
@@ -963,144 +43,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-11-07/el-festival-42-alza-el-vuelo-a-lomos-de-dragon.html",
         "date": "2024-11-07 05:48:01",
         "sentiment_score": 0.19704607129096985
-    },
-    {
-        "title": "España reformará los fondos europeos para incluir la reconstrucción de Valencia por las inundaciones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2A65RBRPLZCOPABJTMN7CTDTIQ.jpg?auth=9c8a45dc96da989fd851b907afc609b949660579f7e0e65532cd5d2f3a732717&width=1200",
-        "tags": [
-            "comisión europea",
-            "bei",
-            "economía",
-            "inversión",
-            "unión europea",
-            "fondo europeo recuperación covid-19",
-            "ayudas públicas",
-            "préstamos",
-            "inundaciones dana octubre 2024",
-            "créditos"
-        ],
-        "link": "https://elpais.com/economia/2024-11-07/espana-reformara-los-fondos-europeos-para-incluir-la-reconstruccion-de-valencia-por-las-inundaciones.html",
-        "date": "2024-11-07 04:45:00",
-        "sentiment_score": 0.24024081230163574
-    },
-    {
-        "title": "El Gobierno deniega la escala en Algeciras de dos buques con armamento para Israel",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VMGEWAEVSNF2JLD7OW2DQFLCU4.jpg?auth=f598d80020eb5c4c560f51af579c73404627f806d42809f50b221fc7d8735045&width=1200",
-        "tags": [
-            "cádiz",
-            "guerra",
-            "franja gaza",
-            "conflicto árabe-israelí",
-            "armamento",
-            "andalucía",
-            "algeciras",
-            "israel",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-07/el-gobierno-deniega-la-escala-en-algeciras-de-dos-buques-con-armamento-para-israel.html",
-        "date": "2024-11-07 04:40:00",
-        "sentiment_score": -0.03285999596118927
-    },
-    {
-        "title": "¿Quién asesora a Carlos Mazón? Un reducido núcleo duro en el que priman los periodistas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GENTLOFZ4ZEYLOAR2VUA54OR7Q.jpg?auth=b89bb00f95eba8673079549e0b13bf127e70097249e9fd8f63445aa7e7b31f6a&width=1200",
-        "tags": [
-            "carlos mazón",
-            "pp",
-            "generalitat valenciana",
-            "inundaciones",
-            "comunidad valenciana",
-            "inundaciones dana octubre 2024",
-            "lluvias torrenciales",
-            "ppcv"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-07/quien-asesora-a-carlos-mazon-un-reducido-nucleo-duro-en-el-que-priman-los-periodistas.html",
-        "date": "2024-11-07 04:40:00",
-        "sentiment_score": -0.19205953180789948
-    },
-    {
-        "title": "Jugada redonda de Vox y rechinar de dientes de FAES",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5TFPBNFGRJCZBAAII3KP537NEY.jpg?auth=36040122ce6aea7db50716474763ad78d1bc34622916da6099a8c4d7ed7e4e18&width=1200",
-        "tags": [
-            "estados unidos",
-            "pp",
-            "josé maría aznar",
-            "vox",
-            "santiago abascal",
-            "donald trump",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-07/jugada-redonda-de-vox-y-chirriar-de-dientes-de-faes.html",
-        "date": "2024-11-07 04:40:00",
-        "sentiment_score": -0.41380923986434937
-    },
-    {
-        "title": "Dios pasó de puntillas por Sot de Chera",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GMTMOTFSDRGWVKAKIG3UYSAOKI.jpg?auth=42d085bc217af37f2a24bc27520a6c24b959c1e4f6fb52d3d27a8e90cc3543fd&width=1200",
-        "tags": [
-            "inundaciones",
-            "sot de chera",
-            "comunidad valenciana",
-            "inundaciones dana octubre 2024",
-            "valencia",
-            "españa",
-            "rescate víctimas"
-        ],
-        "link": "https://elpais.com/espana/2024-11-07/dios-paso-de-puntillas-por-sot-de-chera.html",
-        "date": "2024-11-07 04:40:00",
-        "sentiment_score": -0.8403913788497448
-    },
-    {
-        "title": "El día que la tragedia viene a buscarte, y estás solo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VS3U4Q7ZDBG5HAWBL2WZMXSWPU.jpg?auth=0cc7527cf807a01b8d8cb1e95521faee2f6f022f48e4130fc1e885304bba00cb&width=1200",
-        "tags": [
-            "víctimas",
-            "inundaciones",
-            "inundaciones dana octubre 2024",
-            "riadas",
-            "valencia",
-            "españa",
-            "desastres naturales"
-        ],
-        "link": "https://elpais.com/espana/2024-11-07/el-dia-que-la-tragedia-viene-a-buscarte-y-estas-solo.html",
-        "date": "2024-11-07 04:40:00",
-        "sentiment_score": -0.8684269990772009
-    },
-    {
-        "title": "Un día de trabajo con la UME en la Valencia arrasada por la Dana: “Llegaremos a todos los sitios tardemos lo que tardemos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QHIGKSZJ3JCTPIXXSF7PJTAMIM.jpg?auth=350c8a7bd56bd748d88699b54919e1f1089fb4a835374fc04df15d2eb13710f1&width=1200",
-        "tags": [
-            "militares carrera",
-            "comunidad valenciana",
-            "dana",
-            "meteorología",
-            "soldados",
-            "inundaciones dana octubre 2024",
-            "españa",
-            "ume",
-            "ejército español"
-        ],
-        "link": "https://elpais.com/espana/2024-11-07/un-dia-de-trabajo-con-la-ume-en-la-valencia-arrasada-por-la-dana-llegaremos-a-todos-los-sitios-tardemos-lo-que-tardemos.html",
-        "date": "2024-11-07 04:30:00",
-        "sentiment_score": 0.46514978632330894
-    },
-    {
-        "title": "La élite de los Mossos contra el ‘pistolero de Tarragona’: “Era una trampa. Nos quería matar”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VW5MSEMVPFGRRH4OZQYCLYO4RI.jpg?auth=af6f3b67d16fd7a38c140146ee517bf5dfb4e130ec870f8559bb0fb9b71811c2&width=1200",
-        "tags": [
-            "jueces",
-            "mossos d'esquadra",
-            "investigación judicial",
-            "eutanasia",
-            "riudoms",
-            "cataluña",
-            "securitas",
-            "vigilantes jurados",
-            "tarragona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-07/la-elite-de-los-mossos-contra-el-pistolero-de-tarragona-era-una-trampa-nos-queria-matar.html",
-        "date": "2024-11-07 04:15:00",
-        "sentiment_score": -0.7506685461848974
     },
     {
         "title": "Las pruebas de hisopado nasal predicen la gravedad de la enfermedad COVID-19",
@@ -6718,5 +5660,483 @@ export default [
         "link": "https://www.elperiodicodearagon.com/aragon/2024/11/10/zaragoza-afianza-polo-atraccion-inversiones-111500526.html",
         "date": "2024-11-10 06:00:00",
         "sentiment_score": 0.47783534973859787
+    },
+    {
+        "title": "ANÁLISIS | La participación en estas elecciones revela un colapso demócrata tan grande como el auge de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779059-us-election-night-watch-parties-held-overseas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "estados unidos noticias",
+            "noticias de donald trump",
+            "elecciones en estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/analisis-participacion-elecciones-colapso-democrata-orix/",
+        "date": "2024-11-10 15:40:06",
+        "sentiment_score": -0.777398094534874
+    },
+    {
+        "title": "Netanyahu dice que ha hablado con Trump tres veces recientemente: \"Coincidimos en la amenaza iraní\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779077-copia-de-foto-para-wp-2024-11-10t092828-857.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "benjamin netanyahu",
+            "israel",
+            "israel noticias",
+            "donald trump",
+            "noticias de donald trump",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/netanyahu-trump-tres-coincidimos-amenaza-irani-trax/",
+        "date": "2024-11-10 15:33:04",
+        "sentiment_score": -0.5455609522759914
+    },
+    {
+        "title": "Los estadounidenses se sienten ansiosos y están haciendo consumos impulsivos para aliviar el estrés",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779069-economia-ee-uu.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "economía de ee.uu.",
+            "economía"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/compras-compulsivas-doom-spending-trax/",
+        "date": "2024-11-10 15:21:10",
+        "sentiment_score": 0.1058921068906784
+    },
+    {
+        "title": "Ucrania lanza el mayor ataque con drones contra la capital rusa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/rusia.webp",
+        "tags": [
+            "moscú",
+            "noticias de rusia",
+            "noticias de ucrania",
+            "rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/ucrania-lanza-mayor-ataque-drones-contra-la-capital-rusa-trax/",
+        "date": "2024-11-10 11:24:41",
+        "sentiment_score": -0.7378826774656773
+    },
+    {
+        "title": "Los demócratas, aún atónitos, comienzan a entrecerrar los ojos ante su futuro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779041-bandera-evento-washington-kamala.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "pensilvania",
+            "elecciones en estados unidos",
+            "estados unidos noticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/democratas-atonitos-comienzan-a-entrecerrar-ojos-ante-su-futuro-trax/",
+        "date": "2024-11-10 11:14:00",
+        "sentiment_score": -0.7782680243253708
+    },
+    {
+        "title": "Al menos 25 muertos en un ataque israelí en el norte de Gaza, según funcionario hospitalario",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778866-ataque-israel-gaza-hamas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "jabalia",
+            "fdi",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/25-muertos-ataque-israeli-norte-de-gaza-segun-funcionario-hospitalario-trax/",
+        "date": "2024-11-10 09:39:38",
+        "sentiment_score": -0.6772629600018263
+    },
+    {
+        "title": "Solo hay una heladería con estrella Michelin en el mundo. Y está en Taiwán",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779032-taiwan.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "taiwán",
+            "helado",
+            "gastronomía"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/solo-heladeria-estrella-michelin-en-el-mundo-y-esta-taiwan-trax/",
+        "date": "2024-11-10 09:16:05",
+        "sentiment_score": 0.19235286116600037
+    },
+    {
+        "title": "El elenco de 'SNL' apela directamente al presidente electo Donald Trump durante la apertura fría del episodio postelectoral",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779024-bowen-yang.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "saturday night live",
+            "televisión"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/snl-apela-presidente-donald-trump-durante-apertura-episodio-postelectoral-trax/",
+        "date": "2024-11-10 06:38:14",
+        "sentiment_score": -0.19401635229587555
+    },
+    {
+        "title": "Naranjas",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/11/04/quemado-U81058786122hZe-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-naranjas-20241111174923-nts.html",
+        "date": "2024-11-10 16:50:03",
+        "sentiment_score": 0.026817917823791504
+    },
+    {
+        "title": "Estábamos equivocados",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/11/1488386858_20241110165257-Rc9agZjYDfoebjuogb7wDTM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/fernando-garcia-sanchez-equivocados-20241111170653-nt.html",
+        "date": "2024-11-10 16:07:35",
+        "sentiment_score": -0.057689279317855835
+    },
+    {
+        "title": "¿Es la comida la medicina del futuro?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/08/inmunonutricion.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/comida-medicina-futuro-20241109183759-nt.html",
+        "date": "2024-11-10 15:25:50",
+        "sentiment_score": -0.0897107720375061
+    },
+    {
+        "title": "Los equipos de Trump y Zelenski inician preparativos para la próxima reunión entre ambos líderes",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/10/trump-zelenski-RB3Q5ivFZQgz5KTOSFR2R8I-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/equipos-trump-zelenski-inician-preparativos-proxima-reunion-20241110154540-nt.html",
+        "date": "2024-11-10 14:45:40",
+        "sentiment_score": -0.0459388792514801
+    },
+    {
+        "title": "Ayudadme a caer",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/10/mazon-kNSF-U60332948273920G-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-ayudadme-caer-20241110142428-nt.html",
+        "date": "2024-11-10 13:24:37",
+        "sentiment_score": -0.3959314078092575
+    },
+    {
+        "title": "Rusia sufre en octubre el mayor número de bajas en Ucrania, según jefe del ejército británico",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/10/soldado-ucrania-RgEHicWH5ZD386qWkU7fR1J-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/rusia-sufre-octubre-mayor-numero-bajas-ucrania-jefe-ejercito-britanico-20241110131350-nt.html",
+        "date": "2024-11-10 12:15:34",
+        "sentiment_score": -0.07131519913673401
+    },
+    {
+        "title": "Bots indios y desinformación durante lo peor de la DANA en España: «El negocio de Elon Musk es que haya ruido en X»",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/11/04/aliciareina-U53202288712GUh-170x119@Las%20Provincias.JPG",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/bots-indios-desinformacion-peor-dana-espana-negocio-20241110120508-nt.html",
+        "date": "2024-11-10 11:05:08",
+        "sentiment_score": -0.24306803941726685
+    },
+    {
+        "title": "La Aemet avisa de otra posible dana en el Mediterráneo y Baleares a partir del miércoles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CAVUEFBXA5GWHL3KWXZHTTN6D4.jpg?auth=ce05479419fbb38e76e17de6dd925b0abc50b347067274294d01efc4de9fb4bd&width=1200",
+        "tags": [
+            "meteorología",
+            "baleares",
+            "aemet",
+            "dana",
+            "lluvias torrenciales",
+            "comunidad valenciana",
+            "españa",
+            "mar mediterráneo"
+        ],
+        "link": "https://elpais.com/espana/2024-11-10/la-aemet-avisa-de-otra-posible-dana-en-el-mediterraneo-y-baleares-a-partir-del-miercoles.html",
+        "date": "2024-11-10 16:47:55",
+        "sentiment_score": -0.0745638757944107
+    },
+    {
+        "title": "Transición Ecológica recomienda hervir el agua en 60 municipios afectados por la dana, pero la Generalitat pide que solo se consuma embotellada",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WGECUSM22YCO7S762KINAJE5G4.jpg?auth=c48ba9784e07b6780d2649e024cd136b02aa18c4c4cf20d5f9bee480b1959f95&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "españa",
+            "agua",
+            "inundaciones dana octubre 2024",
+            "valencia",
+            "temporales"
+        ],
+        "link": "https://elpais.com/espana/2024-11-10/el-agua-de-cinco-municipios-valencianos-aun-no-es-potable-y-en-otros-60-hay-que-hervirla.html",
+        "date": "2024-11-10 16:23:19",
+        "sentiment_score": -0.6927869413048029
+    },
+    {
+        "title": "La vicepresidenta valenciana, sobre la manifestación: “No es una opción en este momento ninguna dimisión”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O75DZ5S7AVF63N2LMQKL6EZ4BE.jpg?auth=e3c725052d6ae63a02bbbd6c4d5cde5a25f86f8325111bc569f683fcfc484dbd&width=1200",
+        "tags": [
+            "carlos mazón",
+            "valencia",
+            "españa",
+            "pp",
+            "ángel víctor torres",
+            "inundaciones dana octubre 2024",
+            "dana",
+            "comunidad valenciana",
+            "generalitat valenciana",
+            "manifestaciones",
+            "política",
+            "susana camarero",
+            "dimisiones políticas",
+            "gobierno"
+        ],
+        "link": "https://elpais.com/espana/2024-11-10/la-vicepresidenta-valenciana-sobre-la-manifestacion-no-es-una-opcion-en-este-momento-ninguna-dimision.html",
+        "date": "2024-11-10 13:35:47",
+        "sentiment_score": -0.3162311986088753
+    },
+    {
+        "title": "Inaugurado el tranvía hasta Verdaguer: “Me encanta. Cuando llegue a Francesc Macià será perfecto”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7M75E6UNIMUPSW5OCNCEUAOFP4.jpg?auth=202f56364d7825f8db6732c31a81943aadc66cef45239375b8778f11659e88bd&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-10/inaugurado-el-tranvia-hasta-verdaguer-me-encanta-cuando-llegue-a-francesc-macia-sera-perfecto.html",
+        "date": "2024-11-10 13:24:27",
+        "sentiment_score": 0.4285070672631264
+    },
+    {
+        "title": "Un desprendimiento de tierra en la Autopista AP-66 obliga a cortar totalmente el tráfico en Lena",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YRGD6OD7OVBQZMZ35G26UWQ7KQ.jfif?auth=e7d55641fe4bd88e067437fc20277909f9b0438f2ca7f73ebdddcca91dd48571&width=1200",
+        "tags": [
+            "carreteras",
+            "lena",
+            "españa",
+            "guardia civil",
+            "principado de asturias"
+        ],
+        "link": "https://elpais.com/espana/2024-11-10/un-desprendimiento-de-tierra-en-la-autopista-ap-66-obliga-a-cortar-totalmente-el-trafico-en-lena.html",
+        "date": "2024-11-10 11:13:42",
+        "sentiment_score": -0.5152128133922815
+    },
+    {
+        "title": "Detenida una mujer por presuntamente matar a su hija en Coll de Nargó (Lleida)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/K2WNAXQSJRH3FBRDBVEOEQCVA4.jpg?auth=539c7db04843548dafd93bdbdb509578e031679ed1af1d603f6bfea32e934193&width=1200",
+        "tags": [
+            "mossos d'esquadra",
+            "violencia",
+            "violencia vicaria",
+            "lleida",
+            "menores",
+            "cataluña",
+            "sucesos"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-10/detenida-una-mujer-por-presuntamente-matar-a-su-hija-en-coll-de-nargo-lleida.html",
+        "date": "2024-11-10 09:50:41",
+        "sentiment_score": -0.38477956876158714
+    },
+    {
+        "title": "Detenido el presunto autor del ataque que dejó a siete monjes heridos en el monasterio de Gilet",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LDPK4JZHORFFJI72QRRF7VRE6Q.jpg?auth=49bfcb48bb09187c48680cf5c2b7a651bce5a977d618a6879d0781ec2b063c3e&width=1200",
+        "tags": [
+            "órdenes religiosas",
+            "españa",
+            "sucesos",
+            "monjes",
+            "gilet",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/2024-11-10/detenido-el-autor-del-ataque-que-dejo-a-siete-monjes-heridos-en-el-monasterio-de-gilet.html",
+        "date": "2024-11-10 09:44:46",
+        "sentiment_score": -0.5561918690800667
+    },
+    {
+        "title": "Dana e inundaciones en Valencia: resumen del 9/11/202",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WQHVQ77XTCSLLBB6UQE6Q25FI4.jpg?auth=ea5c88a2e9f20c48ae022daee11e38945d158af54cd63b7150eb7e7972ebe8dc&width=1200",
+        "tags": [
+            "inundaciones dana octubre 2024",
+            "dana",
+            "españa",
+            "murcia",
+            "inundaciones",
+            "meteorología",
+            "temporales",
+            "lluvia",
+            "viento",
+            "comunidad valenciana",
+            "castilla-la mancha"
+        ],
+        "link": "https://elpais.com/espana/2024-11-10/ultima-hora-de-la-dana-en-directo.html",
+        "date": "2024-11-10 07:59:48",
+        "sentiment_score": -0.4130493476986885
+    },
+    {
+        "title": "Zidane, más cerca de volver",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b0f4b0c-0c33-4ca0-84b3-e95b1911a2bf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/fichajes/2024/11/10/zidane-cerca-volver-111565085.html",
+        "date": "2024-11-10 17:09:47",
+        "sentiment_score": 0.03675839304924011
+    },
+    {
+        "title": "Explicación visual | Cómo el nuevo cauce del Turia fue salvavidas para unos y castigo para otros",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/11/09/maqueta-kYZF--650x455@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/explicacion-visual-plan-sur-salvavidas-castigo-20241110180758-ntrc.html",
+        "date": "2024-11-10 17:09:12",
+        "sentiment_score": -0.39237505942583084
+    },
+    {
+        "title": "La reina Letizia: afectada tras visitar Paiporta, pero comprometida con ayudar a los damnificados",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/10/2024111018050530744.jpg",
+        "tags": [
+            "destacadas"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/cantabria/reina-letizia-afectada-visitar-paiporta-comprometida-ayudar-damnificados/20241110180611543937.html",
+        "date": "2024-11-10 17:06:11",
+        "sentiment_score": -0.7662544101476669
+    },
+    {
+        "title": "La Caja Mágica acoge primeras pruebas de Eurovisión Junior 2024",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/10/2024111017512078758.jpg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/musica/caja-magica-acoge-primeras-pruebas-eurovision-junior-2024/20241110175412543930.html",
+        "date": "2024-11-10 16:54:12",
+        "sentiment_score": 0.29062619246542454
+    },
+    {
+        "title": "Julián Álvarez araña al Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3073045.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/11/10/2273431/real-mallorca-atletico-madrid-gol-julian-alvarez-decide-son-moix.html",
+        "date": "2024-11-10 16:52:00",
+        "sentiment_score": 0.08340668678283691
+    },
+    {
+        "title": "Zidane vinculado al Real Madrid y así está el despido de Ancelotti: reunión con Florentino",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b0f4b0c-0c33-4ca0-84b3-e95b1911a2bf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/fichajes/2024/11/10/zidane-vinculado-real-madrid-despido-111565656.html",
+        "date": "2024-11-10 16:50:00",
+        "sentiment_score": -0.9029068816453218
+    },
+    {
+        "title": "Juzgan una trama de certificados falsos en Alicante sin el principal acusado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bc5cc1f6-10d5-40f7-889a-37279366040a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/sucesos/sucesos-en-alicante/2024/11/10/juzgan-trama-certificados-falsos-alicante-111536169.html",
+        "date": "2024-11-10 16:00:29",
+        "sentiment_score": -0.8248321861028671
+    },
+    {
+        "title": "El día en el que todo empezó a desmoronarse",
+        "image_url": "https://www.atalayar.com/media/atalayar/images/2024/11/07/2024110714415922442.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.atalayar.com/articulo/cultura/dia-que-todo-empezo-desmoronarse/20241110170000207420.html",
+        "date": "2024-11-10 16:00:00",
+        "sentiment_score": -0.16049766540527344
+    },
+    {
+        "title": "Ocupan el piso de una mujer de 90 años aprovechando que estaba en el hospital",
+        "image_url": "https://www.clm24.es/media/clm24/images/2019/08/31/2019083120173264903.jpg",
+        "tags": [
+            "viral"
+        ],
+        "link": "https://www.clm24.es/articulo/viral/ocupan-piso-mujer-90-anos-aprovechando-que-estaba-hospital/20241110180458436081.html",
+        "date": "2024-11-10 17:04:58",
+        "sentiment_score": -0.5739718861877918
+    },
+    {
+        "title": "Un atentado suicida en una estación de tren en Pakistán deja al menos 26 muertos y más de 60 heridos",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/10/2024111018005173061.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/atentado-suicida-estacion-tren-pakistan-deja-menos-26-muertos-mas-60-heridos/20241110180239323505.html",
+        "date": "2024-11-10 17:02:39",
+        "sentiment_score": -0.7142840437591076
+    },
+    {
+        "title": "¿Suscripción o compra? Así funciona el 'Netflix' de las baterías para coches eléctricos",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/05/17/moto-electrica.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/motor/actualidad/suscripcion-compra-netflix-bateria-coches-electricos-5647908/",
+        "date": "2024-11-10 17:00:00",
+        "sentiment_score": 0.6752676293253899
+    },
+    {
+        "title": "Marta Díaz, sobre la DANA: \"Si no llega a ser por los 'influencers' no se vería la realidad\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_948_465/uploads/2024/11/09/672fc36c426f0.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20241110/1002350277/marta-diaz-dana-valencia-influencer-realidad-dct.html",
+        "date": "2024-11-10 17:00:00",
+        "sentiment_score": 0.6729789450764656
+    },
+    {
+        "title": "Carreteras cortadas en Barcelona y Catalunya y última hora de las incidencias por la DANA, hoy en directo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c2db4f9a-581b-42fe-83bf-d3e0da0bbc15_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20241110/cortes-trenes-renfe-vuelos-cancelados-trafico-barcelona-cataluna-hoy-ultima-hora-directo-111003196",
+        "date": "2024-11-10 17:00:00",
+        "sentiment_score": -0.8100908454507589
+    },
+    {
+        "title": "El Festival de Géneros Fantásticos de Barcelona se consolida y reúne a más de 7.500 personas",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/10/vivir-en-barcelona/900170024_13704073_1706x960.jpg?contentId=ESPIMA20241110_0050",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241110/el-festival-de-generos-fantasticos-barcelona-se-consolida-reune-mas-personas/900160020_0.html",
+        "date": "2024-11-10 16:58:56",
+        "sentiment_score": 0.25000567361712456
+    },
+    {
+        "title": "El videojuego, un ecosistema de 700 millones de euros en Cataluña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/10/business/900170021_13703986_1706x960.jpg?contentId=ESPIMA20241110_0047",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20241110/el-videojuego-ecosistema-de-millones-euros-cataluna/900160013_0.html",
+        "date": "2024-11-10 16:40:53",
+        "sentiment_score": 0.4876095876097679
+    },
+    {
+        "title": "Este es el barrio de Barcelona que quiere cambiar de nombre: 22.000 habitantes",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/02/22/vivir-en-barcelona/834676660_12492251_1706x960.jpg?contentId=ESPIMA20240222_0136",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241110/este-es-el-barrio-de-barcelona-que-quiere-cambiar-nombre-habitantes/900160015_0.html",
+        "date": "2024-11-10 16:39:45",
+        "sentiment_score": -0.587040301412344
+    },
+    {
+        "title": "Cabezudos y Minyons pasean los castells de 9",
+        "image_url": "https://static1.ara.cat/clip/b59cbe32-6337-4ca9-9253-1da779745a9e_16-9-aspect-ratio_default_1045062.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/misc/cabezudos-minyons-pasean-castells-9_1_5196934.html",
+        "date": "2024-11-10 16:38:52",
+        "sentiment_score": -0.3621271848678589
+    },
+    {
+        "title": "La dureza que Fermín Cacho no vio en la Behobia - San Sebastián: «No sé dónde están las cuestas»",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/11/10/fermin-cacho-k4PI--1920x1080@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/deportes/atletismo/behobia-sansebastian/fermin-cacho-behobia-san-sebastian-cuestas-20241110171054-nt.html",
+        "date": "2024-11-10 16:16:04",
+        "sentiment_score": 0.9258317332714796
     }
 ];
