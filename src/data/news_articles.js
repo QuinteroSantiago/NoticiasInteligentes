@@ -1,191 +1,5 @@
 export default [
     {
-        "title": "Etapa decisiva en la MLS de cara a las semis de conferencia",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173640673.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mls-semis-conferencia-deportes-tv-fast",
-        "date": "2024-11-07 05:57:05",
-        "sentiment_score": 0.3437153585255146
-    },
-    {
-        "title": "L’Hospitalet de Llobregat y Badalona incumplen la normativa sobre planes de emergencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DJXLLB4SGVC4XN7Z2CNA5FDOT4.jpg?auth=8fb174628bc062a983f0aa786fe1e941bc738035c8a8c366c1802284f8114bc9&width=1200",
-        "tags": [
-            "l'hospitalet de llobregat",
-            "psc",
-            "badalona",
-            "xavier garcía albiol",
-            "salvador illa",
-            "protección civil",
-            "cataluña",
-            "dana",
-            "emergencias"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-07/lhospitalet-de-llobregat-y-badalona-incumplen-la-normativa-sobre-planes-de-emergencia.html",
-        "date": "2024-11-07 05:48:31",
-        "sentiment_score": -0.7339890580624342
-    },
-    {
-        "title": "El festival 42 alza el vuelo a lomos de dragón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OXEZZKFOVRHG5AAZMKURSWRJCA.jpg?auth=1a609c5fe284cf6c42dc296ee391807d58ff6a3ee31a496044e2ba519d7d8bec&width=1200",
-        "tags": [
-            "fantasia",
-            "ciencia ficción",
-            "barcelona",
-            "fabra i coats",
-            "cataluña",
-            "literatura fantástica",
-            "ted chiang",
-            "festivales culturales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-07/el-festival-42-alza-el-vuelo-a-lomos-de-dragon.html",
-        "date": "2024-11-07 05:48:01",
-        "sentiment_score": 0.19704607129096985
-    },
-    {
-        "title": "Las pruebas de hisopado nasal predicen la gravedad de la enfermedad COVID-19",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241107070049_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-pruebas-hisopado-nasal-predicen-gravedad-enfermedad-covid-19-20241107070049.html",
-        "date": "2024-11-07 06:00:49",
-        "sentiment_score": 0.4005117043852806
-    },
-    {
-        "title": "Sorpréndete con las actividades que puedes disfrutar en un fin de semana en San Lorenzo de El Escorial",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/25/el-real-monasterio-de-san-lorenzo.jpeg",
-        "tags": [
-            "branded content"
-        ],
-        "link": "https://www.20minutos.es/especiales/actividades-san-lorenzo-escorial/",
-        "date": "2024-11-07 06:00:00",
-        "sentiment_score": 0.8328196629881859
-    },
-    {
-        "title": "La máquina roja: ¿campeones en todo?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/07/2024110706530528360.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/liverpool-es-candidato-ganarlo-todo/20241107065606323237.html",
-        "date": "2024-11-07 05:56:06",
-        "sentiment_score": -0.09470687806606293
-    },
-    {
-        "title": "El método Pintus también se desmorona: los jugadores del Real Madrid corren menos que todos sus rivales",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b6687287-e0b1-44ca-89cc-a33e5d1c6daa_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreogallego.es/deportes/2024/11/07/metodo-pintus-desmorona-jugadores-real-111450610.html",
-        "date": "2024-11-07 05:45:33",
-        "sentiment_score": -0.711242564022541
-    },
-    {
-        "title": "Beatrice Casella e Iván García (Glug), premio Cuiner del Gastronomic Forum Barcelona 2024",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dadf5e41-b311-4e1d-ab25-bf62b35e88e7_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241107/premio-cuiner-2024-gastronomic-forum-barcelona-beatrice-casella-ivan-garcia-restaurante-glug-111436401",
-        "date": "2024-11-07 06:30:31",
-        "sentiment_score": -0.03399786353111267
-    },
-    {
-        "title": "Fidel Gómez Rosa: “La UMD tuvo un papel importante para facilitar el proceso democrático”",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1121353",
-        "date": "2024-11-07 06:30:00",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "La empresa viguesa Little lanza su todoterreno eléctrico a nivel mundial",
-        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/11/06/2024110619400212120.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.atlantico.net/articulo/economia/empresa-viguesa-little-lanza-todoterreno-electrico-nivel-mundial/202411061940251058438.html",
-        "date": "2024-11-07 06:26:27",
-        "sentiment_score": 0.07764343917369843
-    },
-    {
-        "title": "Lo que debes saber hoy, 7 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/08/21/vivir-en-barcelona/879922099_13364055_1706x960.png?contentId=ESPIMA20240821_0100",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241107/lo-que-debes-saber-hoy-de-noviembre-barcelona/899410052_0.html",
-        "date": "2024-11-07 06:13:18",
-        "sentiment_score": 0.38779569417238235
-    },
-    {
-        "title": "Cuatro organistas se citan en la Concatedral de Vigo",
-        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/11/06/2024110621230423772.jpg",
-        "tags": [
-            "vigo"
-        ],
-        "link": "https://www.atlantico.net/articulo/vigo/organistas-citan-concatedral-vigo/202411062123241058464.html",
-        "date": "2024-11-07 06:07:01",
-        "sentiment_score": 0.19862504303455353
-    },
-    {
-        "title": "Bar Canyí: el talento de un equipo que cocina pasado y futuro",
-        "image_url": "https://static1.ara.cat/clip/67d3d6b6-ca9c-4e10-b4d3-7948bf93c824_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/bar-canyi-talento-equipo-cocina-pasado-futuro_1_5193739.html",
-        "date": "2024-11-07 06:00:45",
-        "sentiment_score": -0.04223981499671936
-    },
-    {
-        "title": "Ricardo Canosa: “A Felipe II o a Tutankamón la tasa de crecimiento no les importaba gran cosa”",
-        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/11/06/2024110620011979380.jpg",
-        "tags": [
-            "entrevista a..."
-        ],
-        "link": "https://www.atlantico.net/articulo/entrevista-a/ricardo-canosa/202411061654101058403.html",
-        "date": "2024-11-07 06:00:39",
-        "sentiment_score": -0.4767395034432411
-    },
-    {
-        "title": "Rumbo al 'superpuente' de eventos en Sevilla: los hoteles se preparan para un 'boom' inminente de reservas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61323118-52ec-4b22-8809-f01efa50acaf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2024/11/07/reservas-hoteles-sevilla-puente-diciembre-magna-navidad-111031146.html",
-        "date": "2024-11-07 06:00:38",
-        "sentiment_score": 0.09711971879005432
-    },
-    {
-        "title": "\"Tenemos que intentar dejar a todos los equipos de atrás un poco más lejos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a50bf8c7-b626-4b42-8ca3-f6d401b6075d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malagacf/2024/11/07/julen-lobete-entrevista-malaga-cf-111442593.html",
-        "date": "2024-11-07 06:00:34",
-        "sentiment_score": -0.854285592213273
-    },
-    {
-        "title": "La tienda más antigua de Tarragona es también uno de los 15 negocios de Europa con más historia",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/06/antigua-casa-corderet.jpeg",
-        "tags": [
-            "tarragona"
-        ],
-        "link": "https://www.20minutos.es/noticia/5651417/0/cual-es-tienda-mas-antigua-tarragona-europa/",
-        "date": "2024-11-07 06:00:00",
-        "sentiment_score": 0.13574878498911858
-    },
-    {
         "title": "Turismo sostenible: cómo disfrutar de unas buenas vacaciones minizando tu impacto ambiental",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1775122-ecuador-environment-climate-indigenous-forest-water.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6138,5 +5952,398 @@ export default [
         "link": "https://www.diariovasco.com/deportes/atletismo/behobia-sansebastian/fermin-cacho-behobia-san-sebastian-cuestas-20241110171054-nt.html",
         "date": "2024-11-10 16:16:04",
         "sentiment_score": 0.9258317332714796
+    },
+    {
+        "title": "Qué estará abierto y cerrado el Día de los Veteranos de 2024",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779170-dia-de-los-veteranos.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "veterano",
+            "economía",
+            "comercio"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/estara-abierto-y-cerrado-dia-de-los-veteranos-2024-trax/",
+        "date": "2024-11-10 21:56:26",
+        "sentiment_score": -0.1604267954826355
+    },
+    {
+        "title": "Sismo de magnitud 6,8 sacude la costa este de Cuba",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779158-copia-de-foto-para-wp-2024-11-10t142230-204.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cuba"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/sismo-magnitud-6-8-costa-este-cuba-trax/",
+        "date": "2024-11-10 20:31:37",
+        "sentiment_score": -0.859719367697835
+    },
+    {
+        "title": "Un cuadro pintado por un robot se vende por US$ 1 millón en Sotheby's",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/diseno-sin-titulo-20241110200300634.jpg?c=original&q=w_800%2Cc_fill",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cuadro-robot-1-millon-dolares-shotebys-orix/",
+        "date": "2024-11-10 20:09:47",
+        "sentiment_score": 0.06448878347873688
+    },
+    {
+        "title": "Un cuadro pintado por un robot se vende por US$ 1 millón en Sotheby's",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cuadro-robot-1-millon-dolares-shotebys-orix",
+        "date": "2024-11-10 20:09:47",
+        "sentiment_score": 0.043078236281871796
+    },
+    {
+        "title": "¿Cómo será la relación entre Donald Trump y Claudia Sheinbaum?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2155805675.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "noticias de donald trump",
+            "xpress",
+            "claudia sheinbaum",
+            "méxico",
+            "frontera con méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/relacion-claudia-sheinbaum-donald-trump-estados-unidos-mexico-opina-tv-fast/",
+        "date": "2024-11-10 19:45:12",
+        "sentiment_score": -0.10772352665662766
+    },
+    {
+        "title": "¿Cómo será la relación entre Donald Trump y Claudia Sheinbaum?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/relacion-claudia-sheinbaum-donald-trump-estados-unidos-mexico-opina-tv-fast",
+        "date": "2024-11-10 19:45:12",
+        "sentiment_score": -0.15001828968524933
+    },
+    {
+        "title": "Muere una persona en un incendio forestal en el estado de Nueva York",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-01-27-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendio-forestado-estado-nueva-york-trax",
+        "date": "2024-11-10 19:20:08",
+        "sentiment_score": -0.7367922626435757
+    },
+    {
+        "title": "Muere una persona en un incendio forestal en el estado de Nueva York",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-01-27-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "incendio forestal",
+            "fast – news variety",
+            "xpress",
+            "incendios",
+            "nueva york"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendio-forestado-estado-nueva-york-trax/",
+        "date": "2024-11-10 19:20:08",
+        "sentiment_score": -0.8294146098196507
+    },
+    {
+        "title": "ANÁLISIS | El machismo de Donald Trump no solo no fue un impedimento: sedujo a ciertos votantes, y no solo hombres",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/GettyImages-1229955654.jpg?quality=100&strip=info",
+        "tags": [
+            "elecciones en estados unidos",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/10/machismo-donald-trump-analisis-orix/",
+        "date": "2024-11-10 18:30:13",
+        "sentiment_score": -0.5325125269591808
+    },
+    {
+        "title": "Eder Militao y Rodrygo serán bajas para Brasil en la fecha FIFA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lesiones-real-madrid-eder-militao-rodrygo-futbol-cnn-deportes-tv",
+        "date": "2024-11-10 17:59:43",
+        "sentiment_score": -0.33896639570593834
+    },
+    {
+        "title": "Una revolución arquitectónica con vistas a la naturaleza",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/11/lanzarote_20241108181216-RF7kgaDM3RuZJerKNvnXY8I-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/revolucion-arquitectonica-vistas-naturaleza-20241111181806-nt.html",
+        "date": "2024-11-10 18:58:39",
+        "sentiment_score": 0.057875365018844604
+    },
+    {
+        "title": "Las pymes buscan su lugar en la fiesta del Black Friday",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/11/black-friday-RRjZ1wxuKGJJHUzRHSmiZtM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/pymes-buscan-lugar-fiesta-black-friday-20241111160012-nt.html",
+        "date": "2024-11-10 18:57:30",
+        "sentiment_score": -0.00593411922454834
+    },
+    {
+        "title": "El nuevo patrón innovador de la sastrería",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/11/sastreriainnovacion-RRY8fKiTFuiYrvh3FGRmsKK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/nuevo-patron-innovador-sastreria-20241111185426-nt.html",
+        "date": "2024-11-10 18:56:55",
+        "sentiment_score": -0.018083691596984863
+    },
+    {
+        "title": "Las ciberamenazas alejan la realidad de un mundo sin dinero efectivo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/11/Imagenciber2-RX3Xs1NFu3l1BPNTkgPPckJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ciberamenazas-alejan-realidad-mundo-dinero-efectivo-20241111180358-nt.html",
+        "date": "2024-11-10 18:56:35",
+        "sentiment_score": -0.11264249682426453
+    },
+    {
+        "title": "Trump y la economía",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/10/1488271873-RFhZ5b2nKpJQNARL12Cu5TO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-trump-economia-20241110195245-nt.html",
+        "date": "2024-11-10 18:52:46",
+        "sentiment_score": -0.11686186492443085
+    },
+    {
+        "title": "La virtud en tiempos de DANA",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/11/TERCERAABC_Lavirtudentiemposdedana_GALIANO-RW0OOyFaC4RvAA2Ne1kidsJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/antonio-fernandezgaliano-virtud-tiempos-dana-20241111165314-nt.html",
+        "date": "2024-11-10 18:33:07",
+        "sentiment_score": -0.14678426086902618
+    },
+    {
+        "title": "Trump, ¿el futuro de las democracias?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/11/11/ENFOQUEABC_Elfuturodelasdemocracias_SORMAN-Rp0sk0NlrZ6Ur1nUfezhBUM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-trump-futuro-democracias-20241111193228-nt.html",
+        "date": "2024-11-10 18:32:29",
+        "sentiment_score": -0.11097845435142517
+    },
+    {
+        "title": "Torrentera",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/11/07/inundacion-sanfernando-U22306452354gkR-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-torrentera-20241111193208-nt.html",
+        "date": "2024-11-10 18:32:15",
+        "sentiment_score": -0.023227602243423462
+    },
+    {
+        "title": "Se llevan soberbios y autoritarios",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/04/melendi-cancion-valencia-kEvC--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-llevan-soberbios-autoritarios-20241111193151-nt.html",
+        "date": "2024-11-10 18:31:59",
+        "sentiment_score": -0.20275749266147614
+    },
+    {
+        "title": "Mazón no puede dimitir",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/06/croquetones-solidarios-granada-afectados-dana-U200409355690hRB--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-mazon-puede-dimitir-20241111193135-nt.html",
+        "date": "2024-11-10 18:31:45",
+        "sentiment_score": -0.12797877192497253
+    },
+    {
+        "title": "Rita Maestre, sobre Errejón: “¿Cómo iba yo a encubrir como política lo que no sabía como pareja?”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/I5F32VYWAK4HSLUNBW6SXNJUAY.jpg?auth=e91257f8fa3904be977ac67acb590e0f41c7c8d3ab8c53dc43c18e134db50b48&width=1200",
+        "tags": [
+            "sumar",
+            "íñigo errejón",
+            "machismo",
+            "elisa mouliaá",
+            "podemos",
+            "más madrid",
+            "españa",
+            "rita maestre",
+            "feminismo",
+            "agresiones sexuales",
+            "acoso sexual",
+            "violencia machista"
+        ],
+        "link": "https://elpais.com/espana/2024-11-10/rita-maestre-sobre-errejon-como-iba-yo-a-encubrir-como-politica-lo-que-no-sabia-como-pareja.html",
+        "date": "2024-11-10 21:36:38",
+        "sentiment_score": -0.43692658841609955
+    },
+    {
+        "title": "La Real Sociedad frena al Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol",
+            "barcelona",
+            "deportes",
+            "real sociedad"
+        ],
+        "link": "https://www.elnacional.com/deportes/la-real-sociedad-frena-al-barcelona/",
+        "date": "2024-11-10 22:16:13",
+        "sentiment_score": -0.8601579703390598
+    },
+    {
+        "title": "El Barcelona perdió su racha en un polémico partidazo ante la Real Sociedad",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/2bd91680759b06b3caa4ef48c5a920a05e7488ddw-e1731276418941.jpg",
+        "tags": [
+            "fc barcelona",
+            "real sociedad",
+            "fútbol",
+            "deportes",
+            "laliga"
+        ],
+        "link": "https://eldiariony.com/2024/11/10/el-barcelona-perdio-su-racha-en-un-polemico-partidazo-ante-la-real-sociedad/",
+        "date": "2024-11-10 22:14:48",
+        "sentiment_score": 0.4880824536085129
+    },
+    {
+        "title": "Aldo, el hombre que construye con tecnología y ciencia al campeón Topuria",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/10/aldo-martinez-kE3B-U2201785406377V7G-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/deportes/mas-deportes/aldo-hombre-construye-tecnologia-ciencia-campeon-topuria-campeon-ufc-20241111230622-ntrc.html",
+        "date": "2024-11-10 22:11:14",
+        "sentiment_score": 0.7133342809975147
+    },
+    {
+        "title": "Rita Maestre, sobre Errejón: \"Ninguna aportación política vale el daño que ha creado\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0195359-d165-4e4e-9da1-af7c98201eff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/nacional/2024/11/10/rita-maestre-errejon-aportacion-politica-dano-creado-111573457.html",
+        "date": "2024-11-10 21:58:31",
+        "sentiment_score": -0.9059448409825563
+    },
+    {
+        "title": "Este Barça no es invencible: derrota ante la Real Sociedad en un partido muy flojo de los azulgrana que agita la Liga",
+        "image_url": "https://s1.elespanol.com/2024/11/10/deportes/futbol/900170424_250765385_1706x960.jpg?contentId=ESPIMA20241110_0450",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20241110/barca-no-invencible-derrota-real-sociedad-partido-flojo-azulgrana-agita-liga/900160107_0.html",
+        "date": "2024-11-10 21:57:01",
+        "sentiment_score": -0.9366743620485067
+    },
+    {
+        "title": "Hay que cuidar a Lamine Yamal",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/10/2024111022403260653.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/que-cuidar-lamine-yamal/20241110224519323547.html",
+        "date": "2024-11-10 21:45:19",
+        "sentiment_score": -0.4129786416888237
+    },
+    {
+        "title": "La Real Sociedad desactiva al Barça de Flick",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/f209ddf2-db73-bd2b-067917ea1b0945b6.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/zf209dc44-b070-30a2-c274395cee8720b0/202411/la-real-sociedad-desactiva-al-barca-de-flick",
+        "date": "2024-11-10 21:32:33",
+        "sentiment_score": 0.5087883919477463
+    },
+    {
+        "title": "Por la punta del botin: El absurdo offside que le cobró el VAR a Lewandowski",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/lewandowski-e1731272601284.jpg",
+        "tags": [
+            "fc barcelona",
+            "robert lewandowski",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/11/10/por-la-punta-del-botin-el-absurdo-offside-que-le-cobro-el-var-a-lewandowski/",
+        "date": "2024-11-10 21:30:53",
+        "sentiment_score": -0.7171289753168821
+    },
+    {
+        "title": "El gol de Becker, que provoca la segunda derrota del Barcelona en Liga en San Sebastián",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/10/real-sociedad-barcelona-video-klNF--1920x1080@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/deportes/futbol/la-liga/liga-primera/gol-becker-provoca-segunda-derrota-barcelona-liga-20241110231233-ntrc.html",
+        "date": "2024-11-10 22:12:34",
+        "sentiment_score": -0.4352472275495529
+    },
+    {
+        "title": "'7291', el documental sobre las muertes en las residencias madrileñas durante la pandemia de covid",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/10/7291-el-documental-sobre-las-muertes-en-las-residencias-madrilenas_3036.jpg",
+        "tags": [
+            "noticias de cultura"
+        ],
+        "link": "https://www.telecinco.es/noticias/cultura/20241110/7291-documental-muertes-residencias-madrilenas-pandemia-covid_18_013965826.html",
+        "date": "2024-11-10 22:07:56",
+        "sentiment_score": -0.49232228845357895
+    },
+    {
+        "title": "Señalado en Anoeta: Flick se carga a un peso pesado del Barça en el descanso",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/10/culemania/primer-equipo/900170066_13705303_1706x960.jpg?contentId=ESPIMA20241110_0092",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241110/senalado-en-anoeta-flick-pesado-barca-descanso/900160045_0.html",
+        "date": "2024-11-10 22:05:27",
+        "sentiment_score": -0.91119877807796
+    },
+    {
+        "title": "El Barça naufraga en Anoeta sin Lamine Yamal: segunda derrota en Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/10/culemania/primer-equipo/900170054_13704954_1706x960.jpg?contentId=ESPIMA20241110_0080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241110/el-barca-en-anoeta-lamine-yamal-liga/900160037_0.html",
+        "date": "2024-11-10 22:04:06",
+        "sentiment_score": 0.2175377458333969
+    },
+    {
+        "title": "Estas son las noticias más leídas este domingo en El Progreso",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/11/10/2024111009502867547.jpg",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/lugo/son-noticias-mas-leidas-domingo-progreso/202411102301351803524.html",
+        "date": "2024-11-10 22:01:35",
+        "sentiment_score": -0.7785317040979862
+    },
+    {
+        "title": "Este es el mejor restaurante de Badalona con más de 500 reseñas: comida mediterránea",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/08/29/gran-barcelona/881921805_13389414_1706x960.jpg?contentId=ESPIMA20240829_0006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20241110/este-es-el-mejor-restaurante-de-badalona-con-mas-resenas-comida-mediterranea/900160044_0.html",
+        "date": "2024-11-10 22:01:28",
+        "sentiment_score": 0.8669705782085657
+    },
+    {
+        "title": "El te (1929)",
+        "image_url": "https://static1.ara.cat/clip/ce6c1228-5463-4865-8797-9fbc56229a21_16-9-aspect-ratio_default_0_x311y128.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/1929_1_5191658.html",
+        "date": "2024-11-10 22:00:01",
+        "sentiment_score": -0.21090200543403625
     }
 ];
