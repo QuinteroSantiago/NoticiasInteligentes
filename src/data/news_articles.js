@@ -52,59 +52,6 @@ export default [
         "sentiment_score": 0.029320217669010162
     },
     {
-        "title": "Esta es la teoría de Van Jones sobre la derrota de Kamala Harris",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/van-jones-teoria-derrota-kamala-harris-ush-trax/",
-        "date": "2024-11-08 14:01:31",
-        "sentiment_score": -0.49901657924056053
-    },
-    {
-        "title": "Los animales, las otras víctimas de la DANA en Valencia, España",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181238455.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/animales-victimas-refugio-paiporta-valencia-dana-cafe-tv",
-        "date": "2024-11-08 13:39:08",
-        "sentiment_score": -0.8015587441623211
-    },
-    {
-        "title": "Los animales, las otras víctimas de la DANA en Valencia, España",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181238455.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/animales-victimas-refugio-paiporta-valencia-dana-cafe-tv/",
-        "date": "2024-11-08 13:39:08",
-        "sentiment_score": -0.9227879047393799
-    },
-    {
-        "title": "Las tres noticias destacadas de la mañana del 8 de noviembre en CNN en Español",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182732073.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-8-de-noviembre-2024-cafe-manana-fast",
-        "date": "2024-11-08 13:31:47",
-        "sentiment_score": 0.12158665806055069
-    },
-    {
-        "title": "¿Qué reformas radicales buscará Donald Trump en su segundo mandato?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182527291-20241108130326483.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "fast – general",
-            "noticias de donald trump",
-            "ee.uu.",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/reformas-donald-trump-segundo-mandato-senado-primera-manana-fast/",
-        "date": "2024-11-08 13:04:03",
-        "sentiment_score": -0.2135835364460945
-    },
-    {
         "title": "Zelenski afirma que las tropas norcoreanas en la provincia rusa de Kursk sufrieron las primeras bajas",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/08/Zelenski-RHevH4l3GPmTmApJVD45lvI-1200x840@diario_abc.jpg",
         "tags": [
@@ -137,76 +84,6 @@ export default [
         "link": "https://www.meneame.net/story/mazon-comio-dia-dana-periodista-maribel-vilaplana-ofrecer",
         "date": "2024-11-08 16:15:04",
         "sentiment_score": -0.4737512618303299
-    },
-    {
-        "title": "Qué es la leptospirosis, la enfermedad con dos posibles casos entre voluntarios de la DANA",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/08/leptospirosis-dana-RjX315CK2yCuehoqHb0VLfM-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/leptospirosis-enfermedad-dos-posibles-casos-voluntarios-dana-20241108143441-nt.html",
-        "date": "2024-11-08 13:34:41",
-        "sentiment_score": -0.36934879422187805
-    },
-    {
-        "title": "El consejero delegado de Duro Felguera dimite y ahonda la crisis del grupo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/08/1457980346-RbPCdiTtrXV6cJt6z1RSWwO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/consejero-delegado-duro-felguera-dimite-ahonda-crisis-20241108141640-nt.html",
-        "date": "2024-11-08 13:19:56",
-        "sentiment_score": -0.0475136935710907
-    },
-    {
-        "title": "Primera bronca entre Yolanda Díaz y la CEOE por la DANA: los permisos laborales «se plantean a costa de empresas arruinadas»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/08/1488433989-RPQay3tt2Ma4kqpdXwl9lkI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/primera-bronca-yolanda-diaz-ceoe-dana-permisos-20241108141352-nt.html",
-        "date": "2024-11-08 13:17:04",
-        "sentiment_score": -0.16813182830810547
-    },
-    {
-        "title": "La ONU reduce a menos de la mitad los muertos en Gaza que comunica Hamás, pero confirma que casi el 70 por ciento son mujeres y niños",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/08/palestinos-RkJGnwKhmygdTCD6F00tpnJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/onu-reduce-mitad-muertos-gaza-comunica-hamas-20241108131628-nt.html",
-        "date": "2024-11-08 12:16:28",
-        "sentiment_score": -0.18881650269031525
-    },
-    {
-        "title": "Deducciones del 60% en el IRPF y eliminar el IVA para la compra de casas y coches: lo que los economistas echan en falta en las ayudas por la DANA",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/08/1488134203-RUZRkkLUJSA0JR5F7FZQelL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/economistas-creen-plan-ayudas-dana-deberia-incluir-20241108123444-nt.html",
-        "date": "2024-11-08 11:58:55",
-        "sentiment_score": -0.0821295976638794
-    },
-    {
-        "title": "Iberia se plantea acudir a una posible ampliación de capital de Air Europa",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/08/1414733202-RPbXZl15TBf7CgL5hCLmbhI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/iberia-plantea-acudir-posible-ampliacion-capital-air-20241108123922-nt.html",
-        "date": "2024-11-08 11:40:34",
-        "sentiment_score": -0.0701051652431488
-    },
-    {
-        "title": "Un estudio asegura que un vaso y medio de leche al día se asocia con mayor riesgo cardiaco",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/08/milk.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/estudio-asegura-vaso-medio-leche-dia-asocia-20241108120856-nt.html",
-        "date": "2024-11-08 11:08:57",
-        "sentiment_score": -0.13620176911354065
     },
     {
         "title": "El jefe de la UME: “La gente no entendería que llegáramos tarde por cumplir la legalidad burocrática”",
@@ -6389,5 +6266,295 @@ export default [
         "link": "https://eldiariony.com/2024/11/11/arturo-vidal-vuelve-a-la-seleccion-de-chile-tras-varias-polemicas-con-ricardo-gareca/",
         "date": "2024-11-11 21:30:12",
         "sentiment_score": 0.17914611101150513
+    },
+    {
+        "title": "COP29: Retos en políticas ambientales ante la crisis del cambio climático",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779134-cop29.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio ambiente",
+            "cambio climático"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cop29-retos-politicas-ambientales-cambio-climatico-panorama-mundial-tv/",
+        "date": "2024-11-12 02:07:42",
+        "sentiment_score": -0.06906217336654663
+    },
+    {
+        "title": "¿Hizo erupción un volcán de lodo en Colombia?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21117446-50700-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "colombia",
+            "actividad volcánica"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/erupcion-explosion-volcan-lodo-colombia-san-jose-mulatos-panorama-mundial-tv/",
+        "date": "2024-11-12 02:01:16",
+        "sentiment_score": -0.5655006133019924
+    },
+    {
+        "title": "¿Hizo erupción un volcán de lodo en Colombia?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21117446-50700-still.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/erupcion-explosion-volcan-lodo-colombia-san-jose-mulatos-panorama-mundial-tv",
+        "date": "2024-11-12 02:01:16",
+        "sentiment_score": -0.6438144221901894
+    },
+    {
+        "title": "Israel planea la soberanía en la Ribera Occidental tras triunfo de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1715984-topshot-palestinian-israel-conflict-camp.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "israel hamas gaza",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-soberania-ribera-occidental-triunfo-trump-panorama-mundial-tv/",
+        "date": "2024-11-12 01:57:38",
+        "sentiment_score": -0.03761310875415802
+    },
+    {
+        "title": "Las 3 noticias destacadas de la noche del 11 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184188445.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-11-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-12 01:55:52",
+        "sentiment_score": 0.177889134734869
+    },
+    {
+        "title": "Lo que sabemos del avión Spirit que fue tiroteado mientras sobrevolaba Haití",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1987034193.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/avion-spirit-haiti-perspectivas-mexico-tv",
+        "date": "2024-11-12 01:53:58",
+        "sentiment_score": -0.5737309325486422
+    },
+    {
+        "title": "Lo que sabemos del avión Spirit que fue tiroteado mientras sobrevolaba Haití",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1987034193.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/avion-spirit-haiti-perspectivas-mexico-tv/",
+        "date": "2024-11-12 01:53:58",
+        "sentiment_score": -0.760933711193502
+    },
+    {
+        "title": "Trump busca a su secretario de Justicia mientras los funcionarios del Departamento de Justicia se preocupan por el caos y las represalias",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779697-c-2017-05-15t120000z-1628283057-rc1b5bade5f0-rtrmadp-3-usa-trump-police.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "donald trump",
+            "gabinete"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/11/trump-busca-secretario-justicia-represalias-trax/",
+        "date": "2024-11-12 01:50:44",
+        "sentiment_score": -0.7831652350723743
+    },
+    {
+        "title": "Esto fue lo que encontraron los residentes de Camarillo tras devastador incendio en California",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/video1483342864-00-01-26-21-imagen-fija137.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "videos digitales",
+            "incendios california",
+            "fast – news variety",
+            "xpress",
+            "estados unidos noticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendio-california-camarillo-destruccion-ush-trax/",
+        "date": "2024-11-12 01:23:26",
+        "sentiment_score": -0.8763019572943449
+    },
+    {
+        "title": "Esto fue lo que encontraron los residentes de Camarillo tras devastador incendio en California",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/video1483342864-00-01-26-21-imagen-fija137.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendio-california-camarillo-destruccion-ush-trax",
+        "date": "2024-11-12 01:23:26",
+        "sentiment_score": -0.8302506152540445
+    },
+    {
+        "title": "Desvían un avión a República Dominicana tras recibir disparos cuando intentaba aproximarse a Puerto Príncipe",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/11/avion-k0FH-U603335763913PdH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/avion-desviado-republica-dominicana-tras-recibir-disparos-20241111233453-nt.html",
+        "date": "2024-11-11 22:39:03",
+        "sentiment_score": -0.1892162263393402
+    },
+    {
+        "title": "Don Óscar Churchill",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/11/08/herencia-kMbB--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-don-oscar-churchill-20241112232640-nts.html",
+        "date": "2024-11-11 22:27:12",
+        "sentiment_score": -0.1444549262523651
+    },
+    {
+        "title": "Adidas golea a Nike como sponsor de los grandes clubes europeos de fútbol",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/11/culemania/palco/900420063_13708995_1706x960.jpg?contentId=ESPIMA20241111_0114",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241112/adidas-nike-sponsor-de-grandes-clubes-europeos/900410025_0.html",
+        "date": "2024-11-12 01:23:27",
+        "sentiment_score": -0.14851240813732147
+    },
+    {
+        "title": "Borrell condena las declaraciones de Smotrich que suponen \"un claro paso hacia la anexión ilegal\" de Cisjordania",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241112015334_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-borrell-condena-declaraciones-smotrich-suponen-claro-paso-anexion-ilegal-cisjordania-20241112015334.html",
+        "date": "2024-11-12 00:53:34",
+        "sentiment_score": 0.055291250348091125
+    },
+    {
+        "title": "Lakovic se atasca contra los equipos de Euroliga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c7a3f83-530b-43ec-b3bc-e47f133e245c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2024/11/12/lakovic-atasca-equipos-euroliga-111609278.html",
+        "date": "2024-11-12 00:00:00",
+        "sentiment_score": -0.32780202478170395
+    },
+    {
+        "title": "Media salvación pasa por Siete Palmas en 50 días",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7b0988d7-d35f-417f-a6e8-419c9fce3d6a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/11/12/media-salvacion-pasa-siete-palmas-111609267.html",
+        "date": "2024-11-12 00:00:00",
+        "sentiment_score": 0.01449650526046753
+    },
+    {
+        "title": "Martínez y Mamé, los mejores revulsivos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2e944cef-b971-40be-b29e-ff6a3c23a08f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/11/12/martinez-mame-mejores-revulsivos-111609266.html",
+        "date": "2024-11-12 00:00:00",
+        "sentiment_score": 0.19066935777664185
+    },
+    {
+        "title": "¿Por qué no juega la Real siempre así?",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/11/11/99728360-ktWC--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/juega-real-sociedad-siempre-20241112235225-nt.html",
+        "date": "2024-11-11 23:32:17",
+        "sentiment_score": 0.4000266194343567
+    },
+    {
+        "title": "Deco rastrea el mercado del ‘9’ y apunta varias alternativas a Haaland",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/09/culemania/892170822_13559616_1706x960.jpg?contentId=ESPIMA20241009_0048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241112/deco-rastrea-mercado-apunta-varias-alternativas-haaland/900410082_0.html",
+        "date": "2024-11-11 23:31:57",
+        "sentiment_score": -0.09743055701255798
+    },
+    {
+        "title": "«A medida que cumples años te sorprenden menos las cosas»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/12/clotet-kyxC-U2201793726123RmE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/culturas/tv/medida-cumples-anos-sorprenden-20241112003103-ntrc.html",
+        "date": "2024-11-11 23:31:04",
+        "sentiment_score": -0.18317736685276031
+    },
+    {
+        "title": "El fuera de juego semiautomático en la Liga: 12 cámaras, 29 puntos de movimiento y 5 millones de euros",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/11/culemania/primer-equipo/900420053_13710073_1706x960.jpg?contentId=ESPIMA20241111_0104",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241112/el-de-semiautomatico-liga-camaras-movimiento-millones/900659927_0.html",
+        "date": "2024-11-12 01:40:39",
+        "sentiment_score": -0.7719829641282558
+    },
+    {
+        "title": "Las 10 preguntas del nuevo acuerdo entre el Barça y Nike que todavía no tienen respuesta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/18/culemania/palco/871422866_13241225_1706x960.jpg?contentId=ESPIMA20240718_0017",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241112/las-preguntas-acuerdo-barca-nike-todavia-respuesta/900410069_0.html",
+        "date": "2024-11-12 01:24:09",
+        "sentiment_score": -0.579822413623333
+    },
+    {
+        "title": "Fundació SURT promueve la inserción laboral de mujeres a través de la formación en oficios típicamente masculinos.",
+        "image_url": "https://s1.elespanol.com/2024/07/30/actualidad/874422613_248133031_1706x960.jpg?contentId=ESPIMA20240730_0064",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20241112/fundacio-surt-promueve-insercion-laboral-mujeres-traves-formacion-oficios-tipicamente-masculinos/862413929_0.html",
+        "date": "2024-11-12 01:21:26",
+        "sentiment_score": 0.3079589530825615
+    },
+    {
+        "title": "Por una política de vivienda útil y efectiva. ¿Es posible una solución europea?",
+        "image_url": "https://s1.elespanol.com/2024/11/11/invertia/opinion/900420179_250772928_1706x960.jpg?contentId=ESPIMA20241111_0230",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20241112/politica-vivienda-util-efectiva-posible-solucion-europea/900529940_12.html",
+        "date": "2024-11-12 01:13:04",
+        "sentiment_score": -0.22546498477458954
+    },
+    {
+        "title": "Miles protestan contra el presidente regional de Valencia por mala respuesta a las inundaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/internacional/articulo/2024-11-11/miles-protestan-contra-el-presidente-regional-de-valencia-por-mala-respuesta-a-las-inundaciones",
+        "date": "2024-11-12 00:56:41",
+        "sentiment_score": -0.8698427127674222
+    },
+    {
+        "title": "He probado las gafas que quieren revolucionar la realidad aumentada: jugar así parece cosa de ciencia ficción",
+        "image_url": "https://s1.elespanol.com/2024/11/10/actualidad/900170308_250761714_1706x960.png?contentId=ESPIMA20241110_0334",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/elandroidelibre/moviles-android/analisis/20241112/probado-gafas-quieren-revolucionar-realidad-aumentada-jugar-parece-cosa-ciencia-ficcion/899910028_0.html",
+        "date": "2024-11-12 00:27:59",
+        "sentiment_score": 0.36740899831056595
+    },
+    {
+        "title": "El restaurante Bascoat, ganador de la tercera edición de TheFork Awards",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/11/11/un-plato-de-bascoat.jpeg",
+        "tags": [
+            "life"
+        ],
+        "link": "https://www.huffingtonpost.es/life/el-restaurante-bascoat-ganador-tercera-edicion-thefork-awards.html",
+        "date": "2024-11-12 00:05:00",
+        "sentiment_score": 0.47131773829460144
+    },
+    {
+        "title": "El vacile de Busquets a Rodri por sus partidos como central: \"Con lo tranquilo que se ve todo desde atrás...\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/11/12/67329b1d5f587.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/vacile-busquets-rodri-partidos-central-tranquilo-ve-20241112_3044056.html",
+        "date": "2024-11-12 00:03:22",
+        "sentiment_score": -0.04079020023345947
     }
 ];
