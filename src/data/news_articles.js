@@ -1,321 +1,5 @@
 export default [
     {
-        "title": "Rusia dice que enviará 80.000 toneladas de diésel a Cuba para enfrentar la crisis energética",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778826-topshot-cuba-energy-economy-blackout.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "rusia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/09/rusia-enviara-80-000-toneladas-diesel-cuba-crisis-energetica-orix/",
-        "date": "2024-11-09 16:27:23",
-        "sentiment_score": -0.10305285453796387
-    },
-    {
-        "title": "ANÁLISIS | Trump sacudirá el mundo. Tal vez eso es lo que hace falta",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/Trump1.jpg?quality=100&strip=info",
-        "tags": [
-            "política",
-            "noticias de donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/09/trump-sacudira-el-mundo-tal-vez-hace-falta-trax/",
-        "date": "2024-11-09 15:57:13",
-        "sentiment_score": -0.9083886323496699
-    },
-    {
-        "title": "Ucrania dice que lanzó un ataque con drones contra una planta química rusa",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/russia-powerplant-fire.jpg?quality=100&strip=info",
-        "tags": [
-            "noticias de rusia",
-            "noticias de ucrania",
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/09/ucrania-ataque-drones-planta-quimica-rusa-trax/",
-        "date": "2024-11-09 15:51:30",
-        "sentiment_score": -0.7227578293532133
-    },
-    {
-        "title": "Cerca del 70% de los muertos en Gaza son mujeres y niños, según la ONU",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/gaza.png",
-        "tags": [
-            "medio oriente",
-            "gaza"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/09/cerca-70-por-ciento-muertos-gaza-mujeres-ninos-onu-trax/",
-        "date": "2024-11-09 15:47:18",
-        "sentiment_score": -0.6947179455310106
-    },
-    {
-        "title": "Cámara de seguridad capta el momento de la explosión en una estación de tren en Pakistán",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "pakistán",
-            "trenes",
-            "ataques terroristas"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/camara-seguridad-explosion-tren-pakistan-vo/",
-        "date": "2024-11-09 15:27:25",
-        "sentiment_score": -0.8410527324303985
-    },
-    {
-        "title": "Cámara de seguridad capta el momento de la explosión en una estación de tren en Pakistán",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-13-29-still001.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/camara-seguridad-explosion-tren-pakistan-vo",
-        "date": "2024-11-09 15:27:25",
-        "sentiment_score": -0.288871917873621
-    },
-    {
-        "title": "La semana de furia contra Starmer de la nueva líder ‘tory’: «¿Pedirá disculpas por los insultos a Trump?»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/08/1488347914-RbgS6GBKC9Sirr4lcriAVvJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nueva-lider-torie-incomoda-starmer-sobre-trump-20241108175309-nt.html",
-        "date": "2024-11-09 16:14:41",
-        "sentiment_score": -0.08884701132774353
-    },
-    {
-        "title": "Boeing explora la posible venta de su filial Jeppesen para reducir su deuda",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/09/boeing-kNWB-U603326652866cWB-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/boeing-explora-posible-venta-filial-jeppesen-reducir-20241109165643-nt.html",
-        "date": "2024-11-09 15:56:44",
-        "sentiment_score": -0.1288820207118988
-    },
-    {
-        "title": "La alta velocidad entre Madrid y Valencia se restablecerá entre el miércoles y el jueves",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/09/1487360100-Rif0ZFfuiEcWjiBFO3EeRuJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/alta-velocidad-madrid-valencia-restablecera-miercoles-jueves-20241109163929-nt.html",
-        "date": "2024-11-09 15:40:26",
-        "sentiment_score": -0.03316664695739746
-    },
-    {
-        "title": "Buscan por tierra, mar y aire a un hombre que cayó ayer al agua en Platja d’Aro al intentar rescatar a su perro",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UNGBMH7P5VBDXG35KHXTJQNHNE.jfif?auth=10b51c6234bddcdaefe46626eb278f1d7fd73084041c17e18d0a4fa6dc3d690a&width=1200",
-        "tags": [
-            "bomberos",
-            "playas",
-            "emergencias",
-            "búsqueda supervivientes",
-            "sucesos insólitos",
-            "cataluña",
-            "castell-platja d'aro"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-09/buscan-por-tierra-mar-y-aire-a-un-hombre-que-cayo-ayer-al-agua-en-platja-daro-al-intentar-rescatar-a-su-perro.html",
-        "date": "2024-11-09 16:04:42",
-        "sentiment_score": -0.18233923614025116
-    },
-    {
-        "title": "Los andaluces se movilizan masivamente por la vivienda en Sevilla y Málaga",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IKRKXYGXVNAMPETNWF5F7VRPRU.jpg?auth=4568b8038d5908195f07838f943f0691e99b4e88d9717e7441376f71873b36aa&width=1200",
-        "tags": [
-            "málaga",
-            "sevilla",
-            "turismo",
-            "andalucía",
-            "pisos turísticos",
-            "vivienda",
-            "economía"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2024-11-09/los-andaluces-se-movilizan-masivamente-por-la-vivienda-en-sevilla-y-malaga.html",
-        "date": "2024-11-09 14:15:00",
-        "sentiment_score": -0.37411047518253326
-    },
-    {
-        "title": "Real Madrid vuelve al triunfo con show de Vinicius Jr",
-        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f3c1.png",
-        "tags": [
-            "vinicius jr",
-            "real madrid",
-            "laliga",
-            "deportes",
-            "osasuna"
-        ],
-        "link": "https://noticialdia.com/deportes/real-madrid-vuelve-al-triunfo-con-show-de-vinicius-jr/",
-        "date": "2024-11-09 17:04:11",
-        "sentiment_score": 0.1728641726076603
-    },
-    {
-        "title": "«Encerrados en la placenta digital somos más manipulables»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/11/09/Bruckner-Sofa-RFgcKToWyPekD3xxJ7upfYM-1200x840@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/culturas/encerrados-placenta-digital-manipulables-20241109180022-ntrc.html",
-        "date": "2024-11-09 17:00:36",
-        "sentiment_score": -0.7905785534530878
-    },
-    {
-        "title": "Militao sufre una rotura de ligamento cruzado anterior en la rodilla derecha",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/11/09/672f94660c726.r_d.1256-1638-3165.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20241109/militao-sufre-rotura-ligamento-cruzado-anterior-rodilla-derecha_243444.html",
-        "date": "2024-11-09 16:57:33",
-        "sentiment_score": -0.7195134963840246
-    },
-    {
-        "title": "Osasuna desaparece en el Bernabéu (4-0)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/69241cde-0d4c-45c3-9048-6d92f798a1c4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2024/11/09/osasuna-desparece-bernabeu-8910944.html",
-        "date": "2024-11-09 16:57:21",
-        "sentiment_score": -0.9077838212251663
-    },
-    {
-        "title": "La alta velocidad entre Madrid y Valencia estará en funcionamiento a mitad de semana",
-        "image_url": "https://www.economiadigital.es/valencia/wp-content/uploads/sites/2/2023/02/Tren-OUIGO-en-Estacion-Joaquin-Sorolla-1024x683.jpg",
-        "tags": [
-            "renfe",
-            "dana valencia",
-            "economía"
-        ],
-        "link": "https://www.economiadigital.es/valencia/economia/alta-velocidad-madrid-valencia-estara-funcionamiento-mitad-de-semana.html",
-        "date": "2024-11-09 16:54:24",
-        "sentiment_score": 0.026726827025413513
-    },
-    {
-        "title": "Arrollamiento a una persona de un tren de cercanías en Villaverde Bajo",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/09/2024110917540415419.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/sucesos/arrollamiento-persona-tren-cercanias/20241109175420543834.html",
-        "date": "2024-11-09 16:54:20",
-        "sentiment_score": -0.7496820390224457
-    },
-    {
-        "title": "La alta velocidad entre Madrid y Valencia podría reanudarse la próxima semana",
-        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2024/11/09/672f9362ab1e0.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.diariodeleon.es/nacional/241109/1677592/gobierno-anuncia-alta-velocidad-madrid-valencia-reanudara-mediados-proxima-semana.html",
-        "date": "2024-11-09 16:52:56",
-        "sentiment_score": 0.2343057543039322
-    },
-    {
-        "title": "El gran problema que se va a encontrar el Real Madrid cuando vaya a fichar este mercado de invierno",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/09/672f92938c575.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/gran-problema-encontrar-real-madrid-fichar-mercado-invierno-20241109_3043086.html",
-        "date": "2024-11-09 16:51:15",
-        "sentiment_score": -0.009336590766906738
-    },
-    {
-        "title": "Terrible noticia para el Madrid: se cumplen los peores pronósticos con la lesión de Militao",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/09/2024110917433378564.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/terrible-noticia-madrid-cumple-peor-pronosticos-lesion-militao/20241109174502323456.html",
-        "date": "2024-11-09 16:45:02",
-        "sentiment_score": -0.745252825319767
-    },
-    {
-        "title": "Viktoriia Balandina: Hacerse las uñas es una práctica que va más allá de la apariencia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "salud",
-            "tiempo libre"
-        ],
-        "link": "https://eltiempove.com/viktoriia-balandina-hacerse-las-unas-es-una-practica-que-va-mas-alla-de-la-apariencia/",
-        "date": "2024-11-09 17:07:26",
-        "sentiment_score": 0.14323429763317108
-    },
-    {
-        "title": "Un joven cosido a puñaladas al defenderse para evitar que le robaran en un local",
-        "image_url": "https://www.clm24.es/media/clm24/images/2023/07/24/2023072421270642262.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/dejan-vida-muerte-apunalarlo-evitar-que-robaran-tabaco/20241109180254436042.html",
-        "date": "2024-11-09 17:02:54",
-        "sentiment_score": -0.6059277877211571
-    },
-    {
-        "title": "\"El panettone me ha salvado la vida\"",
-        "image_url": "https://static1.ara.cat/clip/3633c49e-934a-4b06-a3d4-8adf21263a00_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/panettone-salvado-vida_128_5196206.html",
-        "date": "2024-11-09 17:00:34",
-        "sentiment_score": -0.02352273464202881
-    },
-    {
-        "title": "¡Desde Cantabria a Dubái! Este chef, que tiene restaurante en Cantabria, premiado entre los mejores",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/09/2024110917514590707.png",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/sociedad/cenador-amos-jesus-sanchez-chef-que-tiene-restaurante-cantabria-premiado-mejores/20241109175850543835.html",
-        "date": "2024-11-09 16:58:50",
-        "sentiment_score": 0.841473001986742
-    },
-    {
-        "title": "Un falso revisor del gas deja sin ahorros a seis ancianas de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/04/27/gran-barcelona/668193176_9247793_1706x960.jpg?contentId=ESPIMA20220427_0002",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sucesos/20241109/un-falso-revisor-del-gas-deja-sin-ahorros-seis-ancianas-de-barcelona/899910059_0.html",
-        "date": "2024-11-09 16:50:10",
-        "sentiment_score": -0.56394899263978
-    },
-    {
-        "title": "Quartararo tiene claro quién es su favorito para el Mundial: \"Sólo debe ser inteligente\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/29/67208c16b049e.r_d.1726-909-1283.jpeg",
-        "tags": [
-            "motogp"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/motogp/20241109/1002350161/quartararo-claro-favorito-mundial-solo-debe-inteligente.html",
-        "date": "2024-11-09 16:48:58",
-        "sentiment_score": 0.5195655524730682
-    },
-    {
-        "title": "Una protesta masiva toma València por las “negligencias” de la DANA: \"Mazón dimisión\"",
-        "image_url": "https://static.eldiario.es/clip/f632dc3f-50ce-4b15-8162-9d5b407dd0ee_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/comunitat-valenciana/protesta-masiva-toma-centro-valencia-negligencias-dana-personas-han-muerto-gestion-mazon_1_11805618.html",
-        "date": "2024-11-09 16:47:34",
-        "sentiment_score": -0.13133622705936432
-    },
-    {
-        "title": "¿Cuánto dinero reportará al Barcelona su nuevo contrato con Nike?",
-        "image_url": "https://cflvdg.avoz.es/sc/556VOD4o3S7FnX3PQ6XihtS0mdQ=/768x/2024/11/09/00121731170512877538415/Foto/EuropaPress_6319935_dani_olmo_of_fc_barcelona_celebrates_goal_with_marc_casado_during_the-EP.jpg",
-        "tags": [
-            "fc barcelona",
-            "fútbol"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/11/09/dinero-reportara-barcelona-nuevo-contrato-nike/00031731170540247315314.htm",
-        "date": "2024-11-09 16:46:00",
-        "sentiment_score": 0.24063387513160706
-    },
-    {
-        "title": "Un ciclista cae fulminado y muere de un ataque al corazón tras iniciarse la prueba",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/11/09/2024110917452365712.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/corredor-cae-fulminado-muere-ataque-corazon-iniciarse-carrera/20241109174559436039.html",
-        "date": "2024-11-09 16:45:59",
-        "sentiment_score": -0.9110651565715671
-    },
-    {
         "title": "¿Cómo es el proceso de renovación de la famosa Fontana di Trevi?",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/horiz-fontana.png?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -516,16 +200,6 @@ export default [
         "sentiment_score": -0.19732744991779327
     },
     {
-        "title": "España en EE.UU.",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/04/melendi-cancion-valencia-kEvC--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/angel-exposito-espana-eeuu-20241110193137-nt.html",
-        "date": "2024-11-09 18:31:45",
-        "sentiment_score": -0.12616589665412903
-    },
-    {
         "title": "Dos fallecidos y cinco heridos en un accidente de tráfico en Sevilla provocado por un conductor kamikaze",
         "image_url": "https://imagenes.elpais.com/resizer/v2/OCXOIHYUDZC7DI7ZF56LUZ4ESQ.png?auth=bec25f08d8f0a386efbe9dcc26f72bdbfb1f83463f1163ea98e2fd18cc1c6484&width=1200",
         "tags": [
@@ -558,34 +232,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-09/la-manifestacion-en-valencia-por-la-gestion-de-la-dana-en-imagenes.html",
         "date": "2024-11-09 18:52:17",
         "sentiment_score": 0.016445130109786987
-    },
-    {
-        "title": "Un conductor pierde el control por un problema de salud en Barcelona y atropella a nueve personas, una de ellas muy grave",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PZFEQLCVQJBKLC6NSGNT77ZG5U.jpg?auth=e9da453c74d9b4177e0bd1f2bfcef8e7b3cb801b1289672f8cf3184e4b961b5e&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-09/un-conductor-pierde-el-control-por-un-problema-de-salud-en-barcelona-y-atropella-a-siete-personas-una-de-ellas-muy-grave.html",
-        "date": "2024-11-09 18:29:35",
-        "sentiment_score": -0.5678408928215504
-    },
-    {
-        "title": "Un hombre mata a un fraile a golpes y hiere a otros seis en un convento de Valencia al grito de “soy Jesucristo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/527UTDGUOVCC3P2Q3JC5BQAKCA.jpg?auth=9e75946f6ddcc0a4a42772ffc8c3e3cb149611b29661153a299d6370e53fcf29&width=1200",
-        "tags": [
-            "homicidios",
-            "armas blancas",
-            "órdenes religiosas",
-            "valencia",
-            "ministerio del interior",
-            "guardia civil",
-            "españa",
-            "monasterios",
-            "sucesos"
-        ],
-        "link": "https://elpais.com/espana/2024-11-09/un-hombre-mata-a-un-fraile-a-golpes-y-hiere-a-otros-seis-en-un-convento-de-valencia-al-grito-de-soy-jesucristo.html",
-        "date": "2024-11-09 17:43:12",
-        "sentiment_score": -0.7643952909857035
     },
     {
         "title": "El Unicaja saca músculo en Badalona (75-79)",
@@ -6506,5 +6152,487 @@ export default [
         "link": "https://www.diariovasco.com/real-sociedad/dos-puntos-pasada-temporada-real-sociedad-20241113191304-nt.html",
         "date": "2024-11-13 00:00:00",
         "sentiment_score": -0.017239123582839966
+    },
+    {
+        "title": "Controversia en Ecuador por filtración de supuestos chats de Fernando Villavicencio",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-670310674.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "asesinato",
+            "ecuador",
+            "fernando villavicencio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-investigacion-asesinato-filtracion-chats-villavicencio-conclusiones-tv/",
+        "date": "2024-11-13 03:24:27",
+        "sentiment_score": -0.6132242418825626
+    },
+    {
+        "title": "Controversia en Ecuador por filtración de supuestos chats de Fernando Villavicencio",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-670310674.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-investigacion-asesinato-filtracion-chats-villavicencio-conclusiones-tv",
+        "date": "2024-11-13 03:24:27",
+        "sentiment_score": -0.6441857218742371
+    },
+    {
+        "title": "Amanda Villavicencio asegura que supuestos chats de su padre no tienen “ninguna validez”",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1610628007-20241113031933552.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "asesinato de líderes sociales",
+            "ecuador",
+            "fernando villavicencio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-filtracion-telefono-chats-fernando-villavicencio-conclusiones-tv/",
+        "date": "2024-11-13 03:20:36",
+        "sentiment_score": -0.6152361333370209
+    },
+    {
+        "title": "Amanda Villavicencio asegura que supuestos chats de su padre no tienen “ninguna validez”",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1610628007-20241113031933552.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-filtracion-telefono-chats-fernando-villavicencio-conclusiones-tv",
+        "date": "2024-11-13 03:20:36",
+        "sentiment_score": -0.595841946080327
+    },
+    {
+        "title": "Chile declara alerta roja por incendios forestales en cinco comunas; el fuego afecta más de 300 hectáreas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780374-chile-incendios.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "chile",
+            "incendios"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/12/chile-alerta-roja-incendios-forestales-comunas-orix/",
+        "date": "2024-11-13 03:05:30",
+        "sentiment_score": -0.7368338368833065
+    },
+    {
+        "title": "Penalista explica cómo debería indagarse la difusión de supuestos chats de Fernando Villavicencio",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1584849884-20241113030059579.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "asesinato",
+            "ecuador",
+            "fernando villavicencio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-filtracion-fiscalia-caso-villavicencio-supuestos-chats-filtraciones-conclusiones-tv/",
+        "date": "2024-11-13 03:04:17",
+        "sentiment_score": -0.47788170352578163
+    },
+    {
+        "title": "Qué significa la filtración de supuestos chats de Fernando Villavicencio, candidato presidencial de Ecuador asesinado en 2023",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1610628007.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news briefs",
+            "ecuador",
+            "xpress",
+            "fernando villavicencio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/controversia-filtracion-chats-fernando-villavicencio-fdr-conclusiones-tv/",
+        "date": "2024-11-13 03:04:10",
+        "sentiment_score": -0.7704156450927258
+    },
+    {
+        "title": "Cristina Kirchner defiende su inocencia y denuncia un intento de proscripción",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/13/cristina-fernandez-kjMC-U6033416678370xD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/cristina-kirchner-defiende-inocencia-denuncia-intento-proscripcion-20241113064445-nt.html",
+        "date": "2024-11-13 06:07:28",
+        "sentiment_score": -0.08023792505264282
+    },
+    {
+        "title": "Los hutíes reivindican ataques contra un portaaviones y dos destructores estadounidenses cerca de Yemen",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/13/1411957547-knUC-U603341737121LyB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/huties-reivindican-ataques-portaaviones-dos-destructores-estadounidenses-20241113070425-nt.html",
+        "date": "2024-11-13 06:04:26",
+        "sentiment_score": -0.19293634593486786
+    },
+    {
+        "title": "Última hora de la dana, en directo | Los municipios de la costa mediterránea se preparan ante el temor de los efectos de una nueva dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/S5US225BF5ACNCCFLZFPLLJ35E.jpg?auth=787381883d5336d87c8716842bc07d8c900fd4b7bb4e990a4063a0feeb77abe3",
+        "tags": [
+            "viento",
+            "españa",
+            "inundaciones",
+            "meteorología",
+            "lluvia",
+            "inundaciones dana octubre 2024",
+            "dana",
+            "comunidad valenciana",
+            "murcia",
+            "castilla-la mancha",
+            "temporales"
+        ],
+        "link": "https://elpais.com/espana/2024-11-13/ultima-hora-de-la-dana-en-directo.html",
+        "date": "2024-11-13 05:01:03",
+        "sentiment_score": -0.7791651338338852
+    },
+    {
+        "title": "La Generalitat se vuelca en la prevención de una nueva dana en vísperas de la comparecencia de Carlos Mazón: “Llueve sobre mojado”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SGUXLPYURFEKBICMQMPBEJ3DZA.jpg?auth=58918000fdbc28f6aa676b665bb39314cef296f21060e35cd59adcff4f113c0c&width=1200",
+        "tags": [
+            "emergencia climática",
+            "aemet",
+            "valencia",
+            "ayuda humanitaria",
+            "inundaciones dana octubre 2024",
+            "generalitat valenciana",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-13/la-generalitat-se-vuelca-en-la-prevencion-de-una-nueva-dana-en-visperas-de-la-comparecencia-de-carlos-mazon-llueve-sobre-mojado.html",
+        "date": "2024-11-13 04:40:00",
+        "sentiment_score": -0.7077162228524685
+    },
+    {
+        "title": "Los vecinos comienzan a solicitar las ayudas entre el desánimo y la resignación",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/B4FKCBZAXVCD5CXWB64R2WW4T4.JPG?auth=ebfa4999487db27b638151f83ab43e83b2841b3ac7eb12377151310e3e304e59&width=1200",
+        "tags": [
+            "economía",
+            "dana",
+            "valencia",
+            "inundaciones dana octubre 2024",
+            "españa",
+            "inundaciones"
+        ],
+        "link": "https://elpais.com/espana/2024-11-13/los-vecinos-comienzan-a-solicitar-las-ayudas-entre-el-desanimo-y-la-resignacion.html",
+        "date": "2024-11-13 04:40:00",
+        "sentiment_score": -0.8216304630041122
+    },
+    {
+        "title": "El autobús 27 no es el 47, y es una pena",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NLF4MXBUVFGFJNDLIJSNHPQZ2Y.JPG?auth=ade3a7ed4dd4bae580c2c9c8dd1e7d34b870936244967e07ea1a59c2bd81804e&width=1200",
+        "tags": [
+            "transición democrática",
+            "valencia",
+            "inundaciones dana octubre 2024",
+            "eduard fernández",
+            "voluntarios",
+            "españa",
+            "desastres naturales"
+        ],
+        "link": "https://elpais.com/espana/2024-11-13/el-autobus-27-no-es-el-47-y-es-una-pena.html",
+        "date": "2024-11-13 04:40:00",
+        "sentiment_score": 0.22615845501422882
+    },
+    {
+        "title": "La derecha católica anti-inmigración topa con la Iglesia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JG6SYWYHVFEKPLDBWZ4Y254OTE.jpg?auth=cf4e5572d92f1bf3b79eb1458b9fd7057605f05ea73cc3d0eb03c6273a22e182&width=1200",
+        "tags": [
+            "conferencia episcopal",
+            "obispos",
+            "ultraderecha",
+            "iglesia católica",
+            "vox",
+            "jorge mario bergoglio",
+            "españa",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2024-11-13/la-derecha-catolica-anti-inmigracion-topa-con-la-iglesia.html",
+        "date": "2024-11-13 04:40:00",
+        "sentiment_score": -0.2010359913110733
+    },
+    {
+        "title": "Las seis vidas rotas de Letur y las dos supervivientes: “Llamé a mi padre y al cura para despedirme y que cuidara de mi hermana”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3HXWSGS3KJBERDMTL3JCOAANQI.jpg?auth=7510ea43acdbb2099e883420003ac96bf69b05d9b140f52b4f0f8d18d79462b9&width=1200",
+        "tags": [
+            "letur",
+            "aemet",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "temporales",
+            "emiliano garcía-page",
+            "españa",
+            "castilla-la mancha",
+            "albacete"
+        ],
+        "link": "https://elpais.com/espana/2024-11-13/las-seis-vidas-rotas-de-letur-y-las-dos-supervivientes-llame-a-mi-padre-y-al-cura-para-despedirme-y-que-cuidara-de-mi-hermana.html",
+        "date": "2024-11-13 04:40:00",
+        "sentiment_score": -0.8673479650169611
+    },
+    {
+        "title": "Cataluña lidera el número de personas que se acogen a la ley de segunda oportunidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FHYHRT7E35G67EEA7ORZVQPHQE.jpeg?auth=82436bd69743f00070f098a5968e8d90b8d34e4a79eee47900cb0749b9d39a34&width=1200",
+        "tags": [
+            "deudas",
+            "empresas",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-13/cataluna-lidera-el-numero-de-personas-que-se-acogen-a-la-ley-de-segunda-oportunidad.html",
+        "date": "2024-11-13 04:15:00",
+        "sentiment_score": -0.37339892238378525
+    },
+    {
+        "title": "De la vergüenza al orgullo: las nietas del represaliado Muñoz y el represor Urraca se encuentran en Cádiz",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HIH2AIBQBRC47L4YV5QZMIEVJY.JPG?auth=b5e6e32dba51f1eb77e7a4524d0707eed593fbd027cd4df48d2ab1e87e3f82b1&width=1200",
+        "tags": [
+            "cádiz",
+            "parís",
+            "alicante",
+            "represión política",
+            "provincia cádiz",
+            "andalucía",
+            "dictadura",
+            "franquismo",
+            "gestapo",
+            "españa",
+            "chiclana de la frontera",
+            "memoria histórica"
+        ],
+        "link": "https://elpais.com/espana/2024-11-13/de-la-verguenza-al-orgullo-las-nietas-del-represaliado-munoz-y-el-represor-urraca-se-encuentran-en-cadiz.html",
+        "date": "2024-11-13 04:00:00",
+        "sentiment_score": 0.3707177862524986
+    },
+    {
+        "title": "Los presupuestos de Ayuso para 2025 recogen un incremento de 114 millones en beneficios fiscales de sus impuestos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NRQKNC56AWXMSAKCMILEQQWT3I.jpg?auth=05cf156eb51c70b677dd61687582cc6d14bbb6883ad5bba912bd4c2a470e1964&width=1200",
+        "tags": [
+            "impuesto patrimonio",
+            "madrid",
+            "más madrid",
+            "hacienda pública",
+            "impuestos",
+            "presupuestos autonómicos",
+            "pp madrid",
+            "asamblea madrid",
+            "isabel díaz ayuso",
+            "comunidad de madrid",
+            "psoe",
+            "política fiscal",
+            "gobierno comunidad de madrid",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-13/los-presupuestos-de-ayuso-para-2025-recogen-mas-de-6000-millones-en-beneficios-fiscales.html",
+        "date": "2024-11-13 04:00:00",
+        "sentiment_score": -0.9248231397941709
+    },
+    {
+        "title": "Diez comunidades bajo aviso, que es rojo en Málaga y Tarragona, en el día álgido de la nueva dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4UV4CJM7EBIQUXLJU52OAKZSSU.jpg?auth=f77f869855df881df74ee6f6602bad222b7b6d19451d8dd641bcc1e3f5eab9f6&width=1200",
+        "tags": [
+            "meteorología",
+            "el tiempo",
+            "aemet",
+            "dana",
+            "otoño",
+            "inundaciones dana octubre 2024",
+            "temporales",
+            "lluvias torrenciales",
+            "lluvia",
+            "viento",
+            "predicción meteorológica",
+            "españa",
+            "inundaciones",
+            "alerta meteorológica"
+        ],
+        "link": "https://elpais.com/espana/2024-11-13/el-dia-algido-de-la-nueva-dana-pone-bajo-aviso-a-10-comunidades-con-rojo-en-malaga.html",
+        "date": "2024-11-13 04:00:00",
+        "sentiment_score": -0.8285332731902599
+    },
+    {
+        "title": "La ONU afirma que el \"patrón\" de los ataques israelíes indican una \"violación sistemática\" del Derecho Internacional",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241113073043_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-onu-afirma-patron-ataques-israelies-indican-violacion-sistematica-derecho-internacional-20241113073043.html",
+        "date": "2024-11-13 06:30:43",
+        "sentiment_score": -0.696317795664072
+    },
+    {
+        "title": "La enfermería castiga al Madrid",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/6bed81a1-abcf-f83d-b8203b661cccbf6f.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z6bed8060-d04b-1593-fdad7a0cae216a95/202411/la-enfermeria-castiga-al-madrid",
+        "date": "2024-11-13 06:20:47",
+        "sentiment_score": -0.8888637274503708
+    },
+    {
+        "title": "Empleados ante la alerta roja por la dana: no tienen que ir a trabajar",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1123777",
+        "date": "2024-11-13 06:13:16",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Los beneficios del perfil genómico integral en cáncer: más tratamientos personalizados y mejores resultados",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241113070850_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-beneficios-perfil-genomico-integral-cancer-mas-tratamientos-personalizados-mejores-resultados-20241113070850.html",
+        "date": "2024-11-13 06:08:50",
+        "sentiment_score": 0.22269511967897415
+    },
+    {
+        "title": "Sofía de Rodríguez, la 'influencer' que estaría saliendo con Vinícius Jr. según Javier de Hoyos",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/12/la-influencer-sofia-rodriguez-y-vinicuis-junior.png",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/noticia/5653468/0/asi-es-sofia-rodriguez-influencer-que-estaria-saliendo-con-vinicius-jr-segun-javier-hoyos/",
+        "date": "2024-11-13 06:07:14",
+        "sentiment_score": -0.2304268330335617
+    },
+    {
+        "title": "El sistema de información al viajero en Chamartín tiene sello palentino",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/12/chamartin.01-kUZC-U2201806953924Sg-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/palencia/sistema-informacion-viajero-chamartin-sello-palentino-20241113070255-nt.html",
+        "date": "2024-11-13 06:02:55",
+        "sentiment_score": -0.09711506590247154
+    },
+    {
+        "title": "Historias de esperanza y solidaridad en la reconstrucción de Valencia",
+        "image_url": "https://www.hola.com/horizon/landscape/96935c07e83d-braislorenzo-x7nov2024-rosalia-abraza-voluntario.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/actualidad/20241113729589/historias-esperanza-solidaridad-reconstruccion-valencia/",
+        "date": "2024-11-13 05:59:43",
+        "sentiment_score": -0.5724083110690117
+    },
+    {
+        "title": "Ana Guerra y Víctor Elías nos invitan a su emocionante boda llena de estrellas",
+        "image_url": "https://www.hola.com/horizon/landscape/55de2dc0ce51-portadamontajehorizontal-copia.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/actualidad/20241113729489/ana-guerra-victor-elias-emocionante-boda-llena-de-estrellas/",
+        "date": "2024-11-13 05:57:59",
+        "sentiment_score": -0.24718665331602097
+    },
+    {
+        "title": "Película 'El 47': 50 años después y el bus sigue sin llegar",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/a00d64ca/weary-8375125_1280.jpg?v=63898656484",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elsaltodiario.com/transporte-publico/pelicula-47-50-anos-despues-bus-sigue-llegar",
+        "date": "2024-11-13 05:15:00",
+        "sentiment_score": -0.4437705371528864
+    },
+    {
+        "title": "Jordan Davis se vuelve a cruzar con el UCAM Murcia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a0732348-ef52-444a-8c4c-9f6f413aa164_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2024/11/13/jordan-davis-vuelve-cruzar-ucam-111635941.html",
+        "date": "2024-11-13 05:01:12",
+        "sentiment_score": 0.249636709690094
+    },
+    {
+        "title": "Carles Abellan (asesor del Bar Vint-i-quatre): \"Soy ex empresario y cocinero. Nada más\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/591b770c-77d4-4f56-ad7c-63adf988f5b5_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241113/restaurante-vint-i-quatre-barcelona-carles-abellan-111626202",
+        "date": "2024-11-13 06:20:32",
+        "sentiment_score": -0.2668267637491226
+    },
+    {
+        "title": "Lo que debes saber hoy, 13 de noviembre, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/04/vivir-en-barcelona/898670188_13670040_1706x960.jpg?contentId=ESPIMA20241104_0064",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241113/lo-que-debes-saber-hoy-de-noviembre-barcelona/900909904_0.html",
+        "date": "2024-11-13 06:19:18",
+        "sentiment_score": -0.5391644090414047
+    },
+    {
+        "title": "El Nacional cumple 10 años (y otras noticias gastro)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4ca65c0d-400a-4e59-a7db-65082011e979_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/20241113/nacional-cumple-10-anos-noticias-111406327",
+        "date": "2024-11-13 06:18:42",
+        "sentiment_score": 0.7183026298880577
+    },
+    {
+        "title": "Córdoba, en el top 10 de las ciudades con mejor política de movilidad de España",
+        "image_url": "https://static.grupojoly.com/clip/a6f88207-4c22-4e36-b532-0c4fadff3cf2_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordoba/cordoba-top-10-ciudades-movilidad-espana_0_2002774913.html",
+        "date": "2024-11-13 06:01:53",
+        "sentiment_score": 0.31661709398031235
+    },
+    {
+        "title": "La perla azulgrana que jugaba con balones de papel de periódico y cinta adhesiva",
+        "image_url": "https://static1.ara.cat/clip/d40350f9-ae43-43bf-b6cf-204c68a06c17_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/perla-azulgrana-jugaba-balones-papel-periodico-cinta-adhesiva_130_5199717.html",
+        "date": "2024-11-13 06:00:21",
+        "sentiment_score": -0.2959350347518921
+    },
+    {
+        "title": "Condenados en Zaragoza por robar muestrarios de joyas valorados en 600.000 euros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/23188abd-e248-4248-8300-9414995e6aa7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/caso-abierto/sucesos-aragon/2024/11/13/condenados-zaragoza-robar-muestrarios-joyas-111633731.html",
+        "date": "2024-11-13 06:00:20",
+        "sentiment_score": -0.24546228349208832
+    },
+    {
+        "title": "El chocolate premium catalán que se hace entre viñedos: ¿de dónde sale Simón Coll?",
+        "image_url": "https://static1.ara.cat/clip/f9eb9d4a-8e7d-4f3b-a932-bd63aafdb392_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/economia/empresas/chocolate-premium-catalan-vinedos-sale-simon-coll_1_5199710.html",
+        "date": "2024-11-13 06:00:17",
+        "sentiment_score": -0.1656719446182251
+    },
+    {
+        "title": "Dani Pérez y Reyes Maroto «sellan una alianza» por la vivienda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be29d3ec-54bb-4b30-a742-3d462964acce_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2024/11/13/dani-perez-reyes-maroto-alianza-por-vivienda-111629643.html",
+        "date": "2024-11-13 06:00:13",
+        "sentiment_score": 0.19575649499893188
+    },
+    {
+        "title": "Venden el complejo logístico construido en la antigua Bacardí por 60 millones de euros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9ec8ee51-cecb-4490-a73e-bbb2d508f467_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2024/11/13/venden-complejo-logistico-construido-antigua-111628757.html",
+        "date": "2024-11-13 06:00:10",
+        "sentiment_score": 0.03504548966884613
+    },
+    {
+        "title": "Germanor interterritorial",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1f749a7-c6fd-4ebb-8942-3947b67f3d4b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/cultura/panorama/2024/11/13/germanor-interterritorial-111623170.html",
+        "date": "2024-11-13 06:00:06",
+        "sentiment_score": -0.22851818799972534
     }
 ];
