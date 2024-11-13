@@ -66,58 +66,6 @@ export default [
         "sentiment_score": -0.288871917873621
     },
     {
-        "title": "Crew Dragon rescatará a la tripulación de Starliner en febrero, ¿por qué?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2156233039.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "spacex crew dragon",
-            "starliner boeing",
-            "ciencia y espacio",
-            "estación espacial internacional"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/crew-dragon-rescate-tripulacion-starliner-conectados-tv-fast/",
-        "date": "2024-11-09 14:00:18",
-        "sentiment_score": -0.8729442870244384
-    },
-    {
-        "title": "Por qué tras las elecciones en EE.UU. se despertó un interés repentino entre las mujeres por un movimiento de Corea del Sur",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778793-movimiento-4b.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "mujer",
-            "corea del sur"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/09/mujeres-estados-unidos-movimiento-4b-corea-del-sur-trax/",
-        "date": "2024-11-09 13:15:06",
-        "sentiment_score": -0.3676079250872135
-    },
-    {
-        "title": "Por qué no deberías consumir cannabis si estás embarazada",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1249835997.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "videos digitales",
-            "mujeres embarazadas",
-            "noticias de salud",
-            "embarazo",
-            "cannabis"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/consumo-cannabis-embarazo-minuto-de-salud-fast/",
-        "date": "2024-11-09 13:00:24",
-        "sentiment_score": -0.5967842601239681
-    },
-    {
-        "title": "Choque de Opiniones analiza por qué ganó Trump a pesar de su retórica",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182894075.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de donald trump",
-            "videos digitales",
-            "kamala harris",
-            "elecciones ee.uu. 2024",
-            "elecciones en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-victoria-elecciones-retorica-choque-dusa-tv/",
-        "date": "2024-11-09 12:00:45",
-        "sentiment_score": -0.5707494579255581
-    },
-    {
         "title": "La semana de furia contra Starmer de la nueva líder ‘tory’: «¿Pedirá disculpas por los insultos a Trump?»",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/08/1488347914-RbgS6GBKC9Sirr4lcriAVvJ-1200x840@diario_abc.jpg",
         "tags": [
@@ -146,26 +94,6 @@ export default [
         "link": "https://www.abc.es/economia/alta-velocidad-madrid-valencia-restablecera-miercoles-jueves-20241109163929-nt.html",
         "date": "2024-11-09 15:40:26",
         "sentiment_score": -0.03316664695739746
-    },
-    {
-        "title": "Los planes de Trump para finalizar la guerra en Ucrania: congelar el conflicto y desplegar tropas europeas en una zona de amortiguación",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/09/1488341739-R3xUcpgH1oBXYFBfwLYiVgO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/planes-trump-finalizar-guerra-ucrania-congelar-conflicto-20241109135251-nt.html",
-        "date": "2024-11-09 12:54:34",
-        "sentiment_score": -0.1495521068572998
-    },
-    {
-        "title": "Las FDI «eliminan decenas de terroristas» en Yabalia y atacan más de 50 objetivos en Líbano y la Franja",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/09/ataques-aereos-libano-R3ZEodsu7twEkoDV3a78eMM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/fdi-eliminan-decenas-terroristas-yabalia-atacan-objetivos-libano-franja-20241109114857-nt.html",
-        "date": "2024-11-09 10:50:05",
-        "sentiment_score": -0.22712455689907074
     },
     {
         "title": "Buscan por tierra, mar y aire a un hombre que cayó ayer al agua en Platja d’Aro al intentar rescatar a su perro",
@@ -198,69 +126,6 @@ export default [
         "link": "https://elpais.com/espana/andalucia/2024-11-09/los-andaluces-se-movilizan-masivamente-por-la-vivienda-en-sevilla-y-malaga.html",
         "date": "2024-11-09 14:15:00",
         "sentiment_score": -0.37411047518253326
-    },
-    {
-        "title": "Mazón sostiene que los datos que dio Aemet eran los de una “tormenta normal”, y que a las siete de la tarde “todo cambió”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CFB5EOOM5FG6FKLVD562QQGYSY.JPG?auth=29487d2a3d22f766fe73c6ffcdbc990aae3286b961e1b8a0a04deb7f1ee2fa62&width=1200",
-        "tags": [
-            "pp",
-            "carlos mazón",
-            "dana",
-            "pedro sánchez",
-            "teresa ribera",
-            "catástrofes",
-            "inundaciones dana octubre 2024",
-            "españa",
-            "inundaciones",
-            "valencia",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://elpais.com/espana/2024-11-09/mazon-sostiene-que-la-dana-era-una-tormenta-normal-hasta-las-siete-de-la-tarde-cuando-todo-cambio.html",
-        "date": "2024-11-09 13:53:03",
-        "sentiment_score": -0.2627924680709839
-    },
-    {
-        "title": "La búsqueda de desaparecidos por la dana en la Albufera de Valencia, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TEBQLOHPBJCDVMKTRCVIHXRI4U.jpg?auth=4e0232217447dda11e83348ff997a6faa9d848c73ebd6f46848435cefd08a92b&width=1200",
-        "tags": [
-            "valencia",
-            "inundaciones",
-            "españa",
-            "comunidad valenciana",
-            "lluvias torrenciales",
-            "inundaciones dana octubre 2024",
-            "albufera de valencia"
-        ],
-        "link": "https://elpais.com/espana/2024-11-09/la-busqueda-de-desaparecidos-por-la-dana-en-la-albufera-de-valencia-en-imagenes.html",
-        "date": "2024-11-09 11:45:15",
-        "sentiment_score": -0.8414385225623846
-    },
-    {
-        "title": "Un juez de Madrid condena a Glovo por emplear a 3.312 falsos autónomos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J3D6DSAUTBILPIKV3RT4Y65TEA.jpg?auth=b92c08d51493e03433fbefd8da37e86928a457eb331b6910fa276fb2d8eefbbf&width=1200",
-        "tags": [
-            "repartidores",
-            "impuestos",
-            "empleo autónomo",
-            "sentencias",
-            "falsos autónomos",
-            "trabajo",
-            "sanciones",
-            "empresas",
-            "abogados",
-            "juzgados",
-            "inspecciones trabajo",
-            "empleo",
-            "multas",
-            "glovo",
-            "sentencias condenatorias",
-            "economía",
-            "comida a domicilio",
-            "seguridad social"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-09/un-juez-de-madrid-condena-a-glovo-por-emplear-a-3312-falsos-autonomos.html",
-        "date": "2024-11-09 10:27:17",
-        "sentiment_score": -0.24921923130750656
     },
     {
         "title": "Real Madrid vuelve al triunfo con show de Vinicius Jr",
@@ -6320,5 +6185,326 @@ export default [
         "link": "https://www.deia.eus/sucesos/2024/11/12/prision-provisional-padre-acusado-apunalar-8923204.html",
         "date": "2024-11-12 21:00:02",
         "sentiment_score": -0.8211843147873878
+    },
+    {
+        "title": "OPINIÓN | Jorge Castañeda: Trump es congruente en elección de gabinete",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780039-gettyimages-2182950277.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "donald turmp",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opinion-jorge-castaneda-gabinete-trump-congruente-panorama-mundial-tv/",
+        "date": "2024-11-13 02:08:45",
+        "sentiment_score": 0.21991576254367828
+    },
+    {
+        "title": "Una “ballena muerta” apareció en la cumbre del clima COP29",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21118678-23640-333-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cambio climático",
+            "cop29"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/escultura-ballena-muerta-cumbre-cop29-baku-panorama-mundial-tv/",
+        "date": "2024-11-13 02:07:47",
+        "sentiment_score": -0.6330360323190689
+    },
+    {
+        "title": "Funcionario de Canadá pide dejar a México fuera del T-MEC",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21120426-42273-421-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/doug-ford-ontario-pide-mexico-fuera-tmec-panorama-mundial-tv",
+        "date": "2024-11-13 01:57:46",
+        "sentiment_score": -0.6246004961431026
+    },
+    {
+        "title": "Funcionario de Canadá pide dejar a México fuera del T-MEC",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21120426-42273-421-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "canadá",
+            "tmec"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/doug-ford-ontario-pide-mexico-fuera-tmec-panorama-mundial-tv/",
+        "date": "2024-11-13 01:57:46",
+        "sentiment_score": -0.7809993885457516
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 12 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184381277.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-12-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-13 01:32:05",
+        "sentiment_score": 0.11401400715112686
+    },
+    {
+        "title": "Alerta roja en el Pacífico de Costa Rica por fuertes lluvias",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780310-still-21120350-93-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "costa rica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/12/alerta-roja-pacifico-costa-rica-lluvias-orix/",
+        "date": "2024-11-13 01:12:30",
+        "sentiment_score": -0.5125186629593372
+    },
+    {
+        "title": "Trump anuncia “Departamento de Eficiencia del Gobierno” y que Elon Musk tendrá un cargo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779588-cual-sera-la-influencia-de-elon-musk-sobre-donald-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "donald trump",
+            "elon musk"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/12/trump-musk-departamento-eficiencia-gobierno-trax/",
+        "date": "2024-11-13 01:01:18",
+        "sentiment_score": 0.12315873801708221
+    },
+    {
+        "title": "Mike Huckabee, elegido por Trump como embajador de EE.UU. en Israel, dijo alguna vez que \"no existe realmente tal cosa como un palestino\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780288-gettyimages-1259029207-restricted.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/12/mike-huckabee-trump-embajador-israel-no-existe-palestino-trax/",
+        "date": "2024-11-13 00:55:46",
+        "sentiment_score": -0.3844377025961876
+    },
+    {
+        "title": "Trump elige al presentador de Fox News Pete Hegseth como secretario de Defensa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780297-gettyimages-1167012750-restricted.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fox news",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/12/trump-presentador-fox-pete-hegseth-secretario-defensa-orix/",
+        "date": "2024-11-13 00:39:47",
+        "sentiment_score": 0.12523572146892548
+    },
+    {
+        "title": "Escenario de la posible deportación masiva propuesta por Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177757725.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "ee.uu.",
+            "crisis en la frontera",
+            "xpress",
+            "noticias de donald trump",
+            "inmigración",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/escenario-de-la-posible-deportacion-masiva-propuesta-por-trump-perspectivas-mexico-tv-fast/",
+        "date": "2024-11-13 00:19:00",
+        "sentiment_score": 0.002447083592414856
+    },
+    {
+        "title": "Un fármaco inmunoterápico mejora los resultados en sarcoma de tejidos blandos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/11/12/sarcoma-cancer.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/farmaco-inmunoterapico-mejora-resultados-sarcoma-tejidos-blandos-20241113010300-nt.html",
+        "date": "2024-11-13 00:03:00",
+        "sentiment_score": -0.06928759813308716
+    },
+    {
+        "title": "España se prepara para otra dana solo dos semanas después de la catástrofe de Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LR7H7KQBAZGD3NUD7O2CNWYX4U.jpg?auth=b0e3385a66462606c5da118f584c3cc6e0521f80de77624947060296830c1005&width=1200",
+        "tags": [
+            "cataluña",
+            "comunidad valenciana",
+            "lluvias torrenciales",
+            "españa",
+            "dana",
+            "aemet",
+            "andalucía",
+            "medio ambiente",
+            "restricciones",
+            "inundaciones"
+        ],
+        "link": "https://elpais.com/espana/2024-11-12/espana-se-prepara-para-otra-dana-solo-dos-semanas-despues-de-la-catastrofe-de-valencia.html",
+        "date": "2024-11-12 22:45:06",
+        "sentiment_score": -0.880956650711596
+    },
+    {
+        "title": "Almeida reformará el Paseo del Prado: se gastará 575.000 euros en 2025 para estudiar impactos y redactar el proyecto",
+        "image_url": "https://s1.elespanol.com/2024/11/11/madrid/capital/900420035_250768616_1706x960.jpg?contentId=ESPIMA20241111_0086",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241113/almeida-reformara-paseo-prado-gastara-euros-estudiar-impactos-redactar-proyecto/900160098_0.html",
+        "date": "2024-11-13 01:03:21",
+        "sentiment_score": 0.5801670625805855
+    },
+    {
+        "title": "Begoña y la foto de la vergüenza",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6624045da.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241113/begona-foto-verguenza_244273.html",
+        "date": "2024-11-13 00:30:00",
+        "sentiment_score": -0.911800910718739
+    },
+    {
+        "title": "Las emisiones de gases de efecto invernadero siguen sin tocar techo un año más",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/11/12/avion-k5TB-U2201800924578J3H-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/antropia/emisiones-gases-efecto-invernadero-siguen-tocar-techo-20241113012535-ntrc.html",
+        "date": "2024-11-13 00:25:36",
+        "sentiment_score": -0.6738511435687542
+    },
+    {
+        "title": "El miembro de la junta directiva del Barça que sueña con ocupar el trono de Laporta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/01/17/culemania/palco/825677508_12269565_1706x960.jpg?contentId=ESPIMA20240117_0084",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241113/el-miembro-de-directiva-barca-ocupar-laporta/900660059_0.html",
+        "date": "2024-11-13 00:03:49",
+        "sentiment_score": -0.6999011477455497
+    },
+    {
+        "title": "El arquitecto Juan Luis Camacho, Premio Rafael Manzano 2024 por la conservación de Chinchón y Colmenar de Oreja",
+        "image_url": "https://autonomico.elconfidencialdigital.com/media/elconfidencialautonomico/images/2024/11/13/2024111301014453112.png",
+        "tags": [
+            "muy confidencial"
+        ],
+        "link": "https://autonomico.elconfidencialdigital.com/articulo/muy_confidencial/arquitecto-juan-luis-camacho-premio-rafael-manzano-2024-conservacion-chinchon-colmenar-oreja/20241113010339140977.html",
+        "date": "2024-11-13 00:03:39",
+        "sentiment_score": 0.7299189046025276
+    },
+    {
+        "title": "Pajares reabre a camiones tras 12 horas de cierre por nieve",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/13/99784342-kRtC--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/asturias/reabre-pajares-camiones-corte-autopista-huerna-argayo-nieve-20241113225813-nt.html",
+        "date": "2024-11-13 00:00:00",
+        "sentiment_score": -0.7889640685170889
+    },
+    {
+        "title": "Cox recorta el tamaño de su salida a Bolsa, y ahora espera obtener 175 millones",
+        "image_url": "http://www.publico.es//uploads/2024/11/12/6733c0b66224e.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "http://www.publico.es/economia/cox-recorta-tamano-salida-bolsa-espera-obtener-175-millones.html",
+        "date": "2024-11-12 23:31:00",
+        "sentiment_score": 0.1118687093257904
+    },
+    {
+        "title": "El capo de la droga vinculado al jefe de la UDEF se escondía tras una empresa de \"reputación corporativa\"",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/11/secuencia-0102-24-15-14imagen-fija037-1440x808.jpg",
+        "tags": [
+            "policía",
+            "españa",
+            "drogas",
+            "tribunales",
+            "audiencia nacional"
+        ],
+        "link": "https://www.elindependiente.com/espana/tribunales/2024/11/13/el-capo-de-la-droga-vinculado-al-jefe-de-la-udef-se-escondia-tras-una-empresa-de-reputacion-corporativa/",
+        "date": "2024-11-12 23:06:31",
+        "sentiment_score": -0.24902461469173431
+    },
+    {
+        "title": "Ozempic y Viagra, entre los más de 80 fármacos que esperan funcionar contra el Alzheimer en los próximos años",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/adfbcdd7b49927a6938bbea20ac1d258/crop/118x0/584x310/f/webp/assets/multimedia/imagenes/2022/09/20/16636999371455.jpg",
+        "tags": [
+            "salud",
+            "ozempic",
+            "alzheimer",
+            "farmacología",
+            "ciencia y salud",
+            "neurología"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2024/11/13/6732709fe9cf4ab86c8b45a3.html",
+        "date": "2024-11-13 01:59:01",
+        "sentiment_score": 0.10600164532661438
+    },
+    {
+        "title": "Daniela decide compartir solo con Maica su 'curva de la vida' : \"Perdí al amor de mi vida\"",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/13/daniela_3b76.jpg",
+        "tags": [
+            "gran hermano"
+        ],
+        "link": "https://www.telecinco.es/granhermano/20241113/daniela-curva-vida-maica-amor_18_013989879.html",
+        "date": "2024-11-13 01:58:02",
+        "sentiment_score": -0.8233218295499682
+    },
+    {
+        "title": "Tiemblan Laporta y Xavi Puig: las jugadoras del Barça Femenino miran a la Premier",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/13/culemania/secciones/900919913_13716370_1706x960.jpg?contentId=ESPIMA20241113_0014",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20241113/tiemblan-laporta-xavi-puig-barca-femenino-premier/900909903_0.html",
+        "date": "2024-11-13 01:12:22",
+        "sentiment_score": -0.43170079588890076
+    },
+    {
+        "title": "Estas son las fábricas de coches y de baterías que China ha puesto en ‘espera’ tras los aranceles europeos",
+        "image_url": "https://s1.elespanol.com/2024/09/09/espana/politica/884671759_250820558_1706x960.jpg?contentId=ESPIMA20240909_0235",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20241113/fabricas-coches-baterias-china-puesto-espera-aranceles-europeos/900660454_0.html",
+        "date": "2024-11-13 01:08:10",
+        "sentiment_score": -0.27705005556344986
+    },
+    {
+        "title": "Dapibus, la startup con un ejército de moscas soldado",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/09/672fc2f55bb44.r_d.3956-2131-0.jpeg",
+        "tags": [
+            "emprendedores"
+        ],
+        "link": "https://www.lavanguardia.com/economia/emprendedores/20241113/10093505/dapibus-moscas-soldado-proteina-larva-insecto.html",
+        "date": "2024-11-13 01:00:00",
+        "sentiment_score": 0.11564742773771286
+    },
+    {
+        "title": "Caemos como moscas, Josemi",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/13/letraglobal/artes/900919911_13716331_1706x960.jpg?contentId=ESPIMA20241113_0012",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/letraglobal/artes/20241113/caemos-como-moscas-josemi/900909902_0.html",
+        "date": "2024-11-13 00:13:17",
+        "sentiment_score": -0.7253844328224659
+    },
+    {
+        "title": "Camp Nou, Nike y Spotify: los grandes logros económicos de Laporta en el Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/13/culemania/palco/885671429_13438946_1706x960.jpg?contentId=ESPIMA20240913_0005",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241113/camp-nou-nike-spotify-economicos-laporta-barca/900660010_0.html",
+        "date": "2024-11-13 00:04:46",
+        "sentiment_score": 0.4938275218009949
+    },
+    {
+        "title": "Larga vida al SUV que lidera las ventas en nuestro país",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/11/12/99734009-kHgC--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/motor/larga-vida-suv-lidera-ventas-pais-20241113115949-nt.html",
+        "date": "2024-11-13 00:00:00",
+        "sentiment_score": 0.7913742121309042
+    },
+    {
+        "title": "Dos puntos más que la pasada temporada",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2024/11/12/99777952-kMZE--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/dos-puntos-pasada-temporada-real-sociedad-20241113191304-nt.html",
+        "date": "2024-11-13 00:00:00",
+        "sentiment_score": -0.017239123582839966
     }
 ];
