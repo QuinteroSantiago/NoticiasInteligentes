@@ -38,31 +38,6 @@ export default [
         "sentiment_score": 0.1058921068906784
     },
     {
-        "title": "Ucrania lanza el mayor ataque con drones contra la capital rusa",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/rusia.webp",
-        "tags": [
-            "moscú",
-            "noticias de rusia",
-            "noticias de ucrania",
-            "rusia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/10/ucrania-lanza-mayor-ataque-drones-contra-la-capital-rusa-trax/",
-        "date": "2024-11-10 11:24:41",
-        "sentiment_score": -0.7378826774656773
-    },
-    {
-        "title": "Los demócratas, aún atónitos, comienzan a entrecerrar los ojos ante su futuro",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779041-bandera-evento-washington-kamala.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "pensilvania",
-            "elecciones en estados unidos",
-            "estados unidos noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/10/democratas-atonitos-comienzan-a-entrecerrar-ojos-ante-su-futuro-trax/",
-        "date": "2024-11-10 11:14:00",
-        "sentiment_score": -0.7782680243253708
-    },
-    {
         "title": "Naranjas",
         "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/11/04/quemado-U81058786122hZe-170x119@Diario%20Sur.jpg",
         "tags": [
@@ -103,36 +78,6 @@ export default [
         "sentiment_score": -0.0459388792514801
     },
     {
-        "title": "Ayudadme a caer",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/10/mazon-kNSF-U60332948273920G-350x624@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/julian-quiros-ayudadme-caer-20241110142428-nt.html",
-        "date": "2024-11-10 13:24:37",
-        "sentiment_score": -0.3959314078092575
-    },
-    {
-        "title": "Rusia sufre en octubre el mayor número de bajas en Ucrania, según jefe del ejército británico",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/10/soldado-ucrania-RgEHicWH5ZD386qWkU7fR1J-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-sufre-octubre-mayor-numero-bajas-ucrania-jefe-ejercito-britanico-20241110131350-nt.html",
-        "date": "2024-11-10 12:15:34",
-        "sentiment_score": -0.07131519913673401
-    },
-    {
-        "title": "Bots indios y desinformación durante lo peor de la DANA en España: «El negocio de Elon Musk es que haya ruido en X»",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/11/04/aliciareina-U53202288712GUh-170x119@Las%20Provincias.JPG",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/bots-indios-desinformacion-peor-dana-espana-negocio-20241110120508-nt.html",
-        "date": "2024-11-10 11:05:08",
-        "sentiment_score": -0.24306803941726685
-    },
-    {
         "title": "La Aemet avisa de otra posible dana en el Mediterráneo y Baleares a partir del miércoles",
         "image_url": "https://imagenes.elpais.com/resizer/v2/CAVUEFBXA5GWHL3KWXZHTTN6D4.jpg?auth=ce05479419fbb38e76e17de6dd925b0abc50b347067274294d01efc4de9fb4bd&width=1200",
         "tags": [
@@ -163,53 +108,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-10/el-agua-de-cinco-municipios-valencianos-aun-no-es-potable-y-en-otros-60-hay-que-hervirla.html",
         "date": "2024-11-10 16:23:19",
         "sentiment_score": -0.6927869413048029
-    },
-    {
-        "title": "La vicepresidenta valenciana, sobre la manifestación: “No es una opción en este momento ninguna dimisión”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O75DZ5S7AVF63N2LMQKL6EZ4BE.jpg?auth=e3c725052d6ae63a02bbbd6c4d5cde5a25f86f8325111bc569f683fcfc484dbd&width=1200",
-        "tags": [
-            "carlos mazón",
-            "valencia",
-            "españa",
-            "pp",
-            "ángel víctor torres",
-            "inundaciones dana octubre 2024",
-            "dana",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "manifestaciones",
-            "política",
-            "susana camarero",
-            "dimisiones políticas",
-            "gobierno"
-        ],
-        "link": "https://elpais.com/espana/2024-11-10/la-vicepresidenta-valenciana-sobre-la-manifestacion-no-es-una-opcion-en-este-momento-ninguna-dimision.html",
-        "date": "2024-11-10 13:35:47",
-        "sentiment_score": -0.3162311986088753
-    },
-    {
-        "title": "Inaugurado el tranvía hasta Verdaguer: “Me encanta. Cuando llegue a Francesc Macià será perfecto”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7M75E6UNIMUPSW5OCNCEUAOFP4.jpg?auth=202f56364d7825f8db6732c31a81943aadc66cef45239375b8778f11659e88bd&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-10/inaugurado-el-tranvia-hasta-verdaguer-me-encanta-cuando-llegue-a-francesc-macia-sera-perfecto.html",
-        "date": "2024-11-10 13:24:27",
-        "sentiment_score": 0.4285070672631264
-    },
-    {
-        "title": "Un desprendimiento de tierra en la Autopista AP-66 obliga a cortar totalmente el tráfico en Lena",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YRGD6OD7OVBQZMZ35G26UWQ7KQ.jfif?auth=e7d55641fe4bd88e067437fc20277909f9b0438f2ca7f73ebdddcca91dd48571&width=1200",
-        "tags": [
-            "carreteras",
-            "lena",
-            "españa",
-            "guardia civil",
-            "principado de asturias"
-        ],
-        "link": "https://elpais.com/espana/2024-11-10/un-desprendimiento-de-tierra-en-la-autopista-ap-66-obliga-a-cortar-totalmente-el-trafico-en-lena.html",
-        "date": "2024-11-10 11:13:42",
-        "sentiment_score": -0.5152128133922815
     },
     {
         "title": "Zidane, más cerca de volver",
@@ -6444,5 +6342,305 @@ export default [
         "link": "https://theobjective.com/economia/transporte/2024-11-13/puente-retrasa-reapertura-trenes-madrid-valencia/",
         "date": "2024-11-13 21:49:16",
         "sentiment_score": -0.809085133485496
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 13 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184595241.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-noche-cnne-13-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-14 02:06:52",
+        "sentiment_score": 0.1299176961183548
+    },
+    {
+        "title": "Cientos de palomas invaden un tejado en Nevada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "animales",
+            "noticias de ee.uu.",
+            "plagas",
+            "ee.uu.",
+            "nevada"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cientos-palomas-invaden-tejado-nevada-trax/",
+        "date": "2024-11-14 02:02:14",
+        "sentiment_score": -0.8738375511020422
+    },
+    {
+        "title": "Embajador Ken Salazar: No funcionó la estrategia de seguridad de AMLO",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2178189546.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ken-salazar-conferencia-inseguridad-mexico-amlo-panorama-mundial-tv",
+        "date": "2024-11-14 01:52:33",
+        "sentiment_score": -0.8654783274978399
+    },
+    {
+        "title": "Embajador Ken Salazar: No funcionó la estrategia de seguridad de AMLO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fast – news variety",
+            "méxico",
+            "xpress",
+            "seguridad",
+            "amlo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ken-salazar-conferencia-inseguridad-mexico-amlo-panorama-mundial-tv/",
+        "date": "2024-11-14 01:52:33",
+        "sentiment_score": -0.8037872351706028
+    },
+    {
+        "title": "Se reportan dos explosiones cerca del Supremo Tribunal de Brasil",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1781000-still-21123326-25118-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "brasil",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/explosiones-cerca-suprema-corte-brasil-brasilia-panorama-mundial-tv/",
+        "date": "2024-11-14 01:51:45",
+        "sentiment_score": -0.6856303382664919
+    },
+    {
+        "title": "Ucrania no puede registrar como marca comercial \"Buque de guerra ruso, vete a la m**rda\", dictamina el tribunal de la UE",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780967-ucrania-insulto-rusia-buque.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ucrania",
+            "buque de guerra",
+            "rusia",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/13/ucrania-registrar-marca-buque-guerra-ruso-dictamina-tribunal-ue-trax/",
+        "date": "2024-11-14 01:47:19",
+        "sentiment_score": -0.8956465879455209
+    },
+    {
+        "title": "El Gobierno de Costa Rica decreta emergencia nacional por fuertes lluvias",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1781030-costa-rica-lluvias.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "lluvias",
+            "costa rica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/13/costa-rica-lluvias-gobierno-decreta-emergencia-nacional-orix/",
+        "date": "2024-11-14 01:38:02",
+        "sentiment_score": -0.7800145745277405
+    },
+    {
+        "title": "La vicepresidenta de Ecuador pide a la Asamblea Nacional rechazar la decisión del Gobierno de suspenderla del cargo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778913-veronica-abad-vicepresidenta-ecuador.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ecuador",
+            "daniel noboa",
+            "verónica abad"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/13/vicepresidenta-ecuador-asamblea-rechazar-suspension-cargo-orix/",
+        "date": "2024-11-14 01:36:51",
+        "sentiment_score": -0.8038019724190235
+    },
+    {
+        "title": "Miss Universo 2024 será coronada en México con \"la luz del infinito\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21123063-29956-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "miss universo",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/miss-universo-2024-sera-coronada-en-mexico-perspectivas-mexico-tv/",
+        "date": "2024-11-14 01:30:17",
+        "sentiment_score": 0.2764713503420353
+    },
+    {
+        "title": "Ciudades fronterizas en México colapsarían si Trump realiza deportaciones masivas, según experto",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/46252146-12045876-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "deportación inmigrantes",
+            "donald turmp",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ciudades-fronterizas-deportaciones-trump-pesrpectivas-mexico-tv/",
+        "date": "2024-11-14 01:22:22",
+        "sentiment_score": -0.7373453415930271
+    },
+    {
+        "title": "Trump elige a una defensora de Rusia para dirigir la Inteligencia de EE.UU.",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/13/Tulsi-Gabbard-kxuB-U603346971725PVH-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-elige-defensora-rusia-dirigir-inteligencia-eeuu-20241113231802-nt.html",
+        "date": "2024-11-13 22:18:03",
+        "sentiment_score": -0.08739298582077026
+    },
+    {
+        "title": "Premios Poder Femenino 2024: Yo Dona homenajea a siete mujeres excepcionales en una noche cargada de esperanza y entusiasmo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "yodona",
+            "premios yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/actualidad/2024/11/14/67348f45e4d4d8be198b457a.html",
+        "date": "2024-11-14 01:47:48",
+        "sentiment_score": 0.8327617663890123
+    },
+    {
+        "title": "Andrea Levy: \"He aprendido a convivir con el dolor físico de la fibromialgia y el emocional de la política\"",
+        "image_url": "https://s1.elespanol.com/2024/11/13/mujer/protagonistas/900920399_250841359_1706x960.jpg?contentId=ESPIMA20241113_0500",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241114/andrea-levy-aprendido-convivir-dolor-fisico-fibromialgia-emocional-politica/900910082_0.html",
+        "date": "2024-11-14 01:47:41",
+        "sentiment_score": 0.30143681168556213
+    },
+    {
+        "title": "La Vinotinto no puede ceder más terreno ante en las eliminatorias",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/11/El-combinado-criollo-buscara-la-primera-victoria-en-casa-contra-la-verdeamarela.-Fotos-EFE-696x429.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/196540/la-vinotinto-no-puede-ceder-mas-terreno-ante-en-las-eliminatorias/",
+        "date": "2024-11-14 01:26:18",
+        "sentiment_score": 0.14035779237747192
+    },
+    {
+        "title": "EDP sigue a Iberdrola y Solaria con planes para entrar en los centros de datos y promover 1,3 GW en España",
+        "image_url": "https://s1.elespanol.com/2024/11/13/invertia/empresas/energia/900920624_250848388_1706x960.png?contentId=ESPIMA20241113_0725",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20241114/edp-sigue-iberdrola-solaria-planes-entrar-centros-datos-promover-gw-espana/900910335_0.html",
+        "date": "2024-11-14 01:17:13",
+        "sentiment_score": 0.5980376936495304
+    },
+    {
+        "title": "Los mejores planes con niños este fin de semana en Madrid: de los secretos de 'El Rey León' a Beethoven",
+        "image_url": "https://s1.elespanol.com/2024/11/12/madrid/ocio/900670798_250822003_1706x960.png?contentId=ESPIMA20241112_0874",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241114/mejores-planes-ninos-fin-semana-madrid-secretos-rey-leon-beethoven/900660405_0.html",
+        "date": "2024-11-14 01:08:25",
+        "sentiment_score": 0.7092356067150831
+    },
+    {
+        "title": "De flores al tanatorio a roscones: así funciona el 'Blablacar' de los envíos en Madrid con el que ganar hasta \"250€ a la semana\"",
+        "image_url": "https://s1.elespanol.com/2024/11/13/madrid/sociedad/900920079_250831085_1706x960.jpg?contentId=ESPIMA20241113_0180",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20241114/flores-tanatorio-roscones-funciona-elblablacar-envios-madrid-ganar-semana/900660512_0.html",
+        "date": "2024-11-14 01:08:24",
+        "sentiment_score": 0.25982697308063507
+    },
+    {
+        "title": "Octubre negro en Madrid con 12 trabajadores muertos: de un derrumbe de 600 kilos a una descarga eléctrica mortal",
+        "image_url": "https://s1.elespanol.com/2024/05/07/madrid/sociedad/853425721_242112096_1706x960.jpg?contentId=ESPIMA20240507_1072",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20241114/octubre-negro-madrid-trabajadores-muertos-derrumbe-kilos-descarga-electrica-mortal/900910208_0.html",
+        "date": "2024-11-14 01:08:21",
+        "sentiment_score": -0.8324604574590921
+    },
+    {
+        "title": "Alberto Contador entrega bicicletas en Valencia: 80 nuevas bicis para los pueblos afectados por la DANA",
+        "image_url": "https://s1.elespanol.com/2024/11/13/valencia/reconstruir-valencia/900920053_250830283_1706x960.jpg?contentId=ESPIMA20241113_0154",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/valencia/reconstruir-valencia/20241114/alberto-contador-entrega-bicicletas-valencia-nuevas-bicis-pueblos-afectados-dana/900909972_0.html",
+        "date": "2024-11-14 01:00:00",
+        "sentiment_score": -0.04382474720478058
+    },
+    {
+        "title": "Más que un contrato: la renovación Barça-Nike impulsa a las dos partes en el área comercial",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/14/culemania/palco/901169875_13721022_1706x960.jpg?contentId=ESPIMA20241114_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241114/mas-contrato-renovacion-barca-nike-impulsa-partes-comercial/901159876_0.html",
+        "date": "2024-11-14 00:45:59",
+        "sentiment_score": -0.3434035927057266
+    },
+    {
+        "title": "Agentes autónomos: Salesforce aterriza en España la gran revolución empresarial de la IA en la gestión de clientes",
+        "image_url": "https://s1.elespanol.com/2024/11/12/actualidad/900670012_250797717_1706x960.jpg?contentId=ESPIMA20241112_0088",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20241114/agentes-autonomos-salesforce-aterriza-espana-gran-revolucion-empresarial-ia-gestion-clientes/900659980_0.html",
+        "date": "2024-11-14 00:44:42",
+        "sentiment_score": 0.3908750116825104
+    },
+    {
+        "title": "Las intensas lluvias paralizan Málaga: España bajo alerta de la nueva dana",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/14/2024111402081785669.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/intensas-lluvias-paralizan-malaga-espana-alerta-nueva-dana/20241114020828323933.html",
+        "date": "2024-11-14 01:08:28",
+        "sentiment_score": -0.779272623360157
+    },
+    {
+        "title": "No se pierdan a Jesper Lindell",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/11/14/2-kqGB-U22018237835109KB-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/pierdan-jesper-lindell-20241114011052-nt.html",
+        "date": "2024-11-14 00:10:52",
+        "sentiment_score": 0.29327355325222015
+    },
+    {
+        "title": "La diabetes mal controlada incrementa el riesgo de infartos e ictus y contribuye a la aparición de demencia, depresión y problemas en la salud ósea y bucal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3a72e14-5968-4ee0-ad86-c73c58493aa7_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/salud/2024/11/14/diabetes-mal-controlada-incrementa-riesgo-111676790.html",
+        "date": "2024-11-14 00:09:28",
+        "sentiment_score": -0.8435437120497227
+    },
+    {
+        "title": "Lotería Navidad 2024: ¿Qué administraciones han vendido más Gordos?",
+        "image_url": "https://album.mediaset.es/eimg/2024/10/31/el-sorteo-de-loteria-de-navidad_2d6a.jpg",
+        "tags": [
+            "lotería de navidad"
+        ],
+        "link": "https://www.telecinco.es/noticias/loterias/loteria-de-navidad/20241114/administraciones-venden-mas-gordos-be5m_18_013880215.html",
+        "date": "2024-11-14 00:00:48",
+        "sentiment_score": -0.45007289946079254
+    },
+    {
+        "title": "Octubre empeora los datos del Seve con la quinta mayor caída de pasajeros del país",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/11/13/99814262-kamB--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/octubre-empeora-datos-seve-quinta-mayor-caida-20241114071418-nt.html",
+        "date": "2024-11-14 00:00:00",
+        "sentiment_score": 0.15050358325242996
+    },
+    {
+        "title": "Alerta roja por la dana en Valencia: preocupación por las lluvias torrenciales en el litoral",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/01/2024110100092995578.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/alerta-roja-dana-valencia/20241114005510323926.html",
+        "date": "2024-11-13 23:55:10",
+        "sentiment_score": -0.41845352947711945
+    },
+    {
+        "title": "Salvador Rueda: «Los pisos turísticos quitan el alma a las ciudades; hay que pararlos»",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/11/13/Imagen%20(99814610)-kCZB-U2201819683056FuF-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bizkaia/pisos-turisticos-quitan-alma-ciudades-pararlos-20241113004943-nt.html",
+        "date": "2024-11-13 23:49:44",
+        "sentiment_score": -0.8377593830227852
     }
 ];
