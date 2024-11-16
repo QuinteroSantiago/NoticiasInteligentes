@@ -1,156 +1,5 @@
 export default [
     {
-        "title": "Israel no cumple los criterios de EE.UU. para mejorar la situación humanitaria en Gaza, afirman grupos de ayuda",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779802-palestinos.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medio oriente",
-            "israel noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/12/israel-no-cumple-criterios-de-ee-uu-mejorar-situacion-humanitaria-en-gaza-trax/",
-        "date": "2024-11-12 05:46:16",
-        "sentiment_score": -0.2265673354268074
-    },
-    {
-        "title": "Noboa encarga la vicepresidencia a una funcionaria y Verónica Abad impugna la decisión",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/noboa-kKRF-U603336448014mZC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/noboa-encarga-vicepresidencia-funcionaria-veronica-abad-impugna-20241112062635-nt.html",
-        "date": "2024-11-12 05:31:20",
-        "sentiment_score": -0.07415002584457397
-    },
-    {
-        "title": "Última hora de la dana, en directo | La nueva dana pone de nuevo bajo aviso naranja a Valencia y Baleares",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7JC2IPFHBND3VLGN37QC5XBOYQ.jpg?auth=7dc374cd90f168b0740d5d3c663ee81a002ddc2006318751b77d1a8138f1a45a&width=1200",
-        "tags": [
-            "murcia",
-            "inundaciones dana octubre 2024",
-            "meteorología",
-            "temporales",
-            "viento",
-            "dana",
-            "comunidad valenciana",
-            "españa",
-            "castilla-la mancha",
-            "inundaciones",
-            "lluvia"
-        ],
-        "link": "https://elpais.com/espana/2024-11-12/ultima-hora-de-la-dana-en-directo.html",
-        "date": "2024-11-12 06:04:06",
-        "sentiment_score": -0.8250762103125453
-    },
-    {
-        "title": "La ansiedad de Mbappé",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/38a53dd2-9b89-177c-8367478af562e7ec.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z38a53c2d-a6c5-39ad-97e921c7e8e1391a/202411/la-ansiedad-de-mbappe",
-        "date": "2024-11-12 06:26:51",
-        "sentiment_score": -0.9090571999549866
-    },
-    {
-        "title": "‘Hermanos’ se prepara para su final y ‘Gran Hermano’ salva a dos nominados",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/84d5c878-031a-493f-9614-99f54ba3d78f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/ocio/tv/programacion-tv/2024/11/12/hermanos-prepara-final-gran-hermano-111611431.html",
-        "date": "2024-11-12 06:08:04",
-        "sentiment_score": -0.001915566623210907
-    },
-    {
-        "title": "Pedaladas contra el fascismo: cómo fue la carrera ciclista que se hizo en plena guerra civil",
-        "image_url": "https://static1.ara.cat/clip/38bf19a0-30d4-47d0-8d62-39b8f94e5ed1_16-9-aspect-ratio_default_0_x253y195.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/estilo/pedaladas-fascismo-carrera-ciclista-hizo-plena-guerra-civil_130_5198394.html",
-        "date": "2024-11-12 06:30:40",
-        "sentiment_score": -0.2039349377155304
-    },
-    {
-        "title": "La lucha de Miguel Hurtado, abusado por la iglesia, llega al Congreso: \"Los pederastas siguen con los niños\"",
-        "image_url": "https://www.elplural.com/uploads/s1/18/67/91/2/miguel-hurtado-victima-de-abusos-sexuales-por-parte-de-la-iglesia_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/lucha-miguel-hurtado-abusado-iglesia-llega-congreso-los-pederastas-siguen-ninos_341136102",
-        "date": "2024-11-12 06:30:00",
-        "sentiment_score": -0.15715338289737701
-    },
-    {
-        "title": "Tiago, el primer bebé que nace en una aldea de Ourense en las últimas tres décadas",
-        "image_url": "https://album.mediaset.es/eimg/2024/11/11/imagen-de-archivo-de-la-mano-de-un-bebe_482b.jpg",
-        "tags": [
-            "galicia"
-        ],
-        "link": "https://www.telecinco.es/noticias/galicia/20241112/nace-tiago-primer-bebe-30-anos-aldea-ourense_18_013969097.html",
-        "date": "2024-11-12 06:20:54",
-        "sentiment_score": -0.13379785418510437
-    },
-    {
-        "title": "Los hermanos chilenos que sirven uno de los mejores 'sushi' de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/85263055-d814-4103-8946-e6cba20c4f1c_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241112/restaurante-jara-omakase-sushi-barcelona-111462411",
-        "date": "2024-11-12 06:14:48",
-        "sentiment_score": 0.2266528606414795
-    },
-    {
-        "title": "Lo que debes saber hoy, 12 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/04/vivir-en-barcelona/898670188_13670040_1706x960.jpg?contentId=ESPIMA20241104_0064",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241112/lo-que-debes-saber-hoy-de-noviembre-barcelona/900659928_0.html",
-        "date": "2024-11-12 06:10:07",
-        "sentiment_score": -0.5391644090414047
-    },
-    {
-        "title": "La miel extremeña recupera producción, pero continúa lastrada por precios bajos e importaciones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/37511348-c965-47de-b7b7-c61f30ebdef6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2024/11/12/miel-extremena-recupera-produccion-continua-111611334.html",
-        "date": "2024-11-12 06:00:39",
-        "sentiment_score": -0.8913528406992555
-    },
-    {
-        "title": "Betis, Subdelegación y Ayuntamiento pidieron a La Liga que no se jugase contra el Barça el día grande de la Magna",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0e26f9a0-ca32-4373-a890-dea40513b895_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2024/11/12/liga-betis-barca-magna-111599144.html",
-        "date": "2024-11-12 06:00:33",
-        "sentiment_score": -0.15417608618736267
-    },
-    {
-        "title": "El milagro de Interactvty: la empresa de Córdoba que apostó por el ‘streaming’ a las puertas del covid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dc7507c3-096e-488a-971d-72c0984a9217_16-9-aspect-ratio_default_0_x1566y602.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elcorreoweb.es/economia/2024/11/12/interactvty-empresa-cordobesa-contenido-digital-111596097.html",
-        "date": "2024-11-12 06:00:12",
-        "sentiment_score": 0.13708177208900452
-    },
-    {
-        "title": "Rabbit's: Forrest Gump es una croqueta de gambas",
-        "image_url": "https://static1.ara.cat/clip/ac090c14-8927-4a5e-915f-07355d55d0dc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/rabbit-s-forrest-gump-croqueta-gambas_1_5198384.html",
-        "date": "2024-11-12 06:00:06",
-        "sentiment_score": -0.1180173009634018
-    },
-    {
         "title": "Video muestra lo que sucedió después de que un hombre atropellara a decenas de personas en China",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/110338-china-hit-and-run-16x9-v1-clean-00-00-06-04-still004-copy.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6195,5 +6044,472 @@ export default [
         "link": "https://www.eldia.es/sociedad/2024/11/15/toc-son-manias-sufre-millon-personas-espana-111730436.html",
         "date": "2024-11-15 17:01:30",
         "sentiment_score": -0.5154480561614037
+    },
+    {
+        "title": "El canciller de Alemania mantiene una llamada con Putin, rompiendo el aislamiento occidental sobre Rusia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782137-olaf-scholz1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "rusia",
+            "europa",
+            "ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/scholz-alemania-llama-a-putin-trax/",
+        "date": "2024-11-15 22:14:14",
+        "sentiment_score": -0.15909768640995026
+    },
+    {
+        "title": "Productos desde US$ 1 en la nueva tienda en línea de Amazon",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1241865968.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/amazon-haul-competencia-productos-tiendas-linea-ventas-cnn-dinero-tv/",
+        "date": "2024-11-15 22:10:06",
+        "sentiment_score": 0.30534506775438786
+    },
+    {
+        "title": "Productos desde US$ 1 en la nueva tienda en línea de Amazon",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/amazon-haul-competencia-productos-tiendas-linea-ventas-cnn-dinero-tv",
+        "date": "2024-11-15 22:10:06",
+        "sentiment_score": 0.1371386256068945
+    },
+    {
+        "title": "La guerra de Israel en Gaza cumple con las \"características del genocidio\", según la comisión especial de la ONU",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780679-gettyimages-2183346793.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "genocidio",
+            "guerra en gaza",
+            "medio oriente",
+            "onu"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/guerra-israel-gaza-caracteristicas-genocidio-onu-trax/",
+        "date": "2024-11-15 21:40:28",
+        "sentiment_score": -0.4597000181674957
+    },
+    {
+        "title": "Las primeras imágenes de la deslumbrante superluna, la última del año",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-15t153803z-1484204887-rc2r5ba7ryq6-rtrmadp-3-supermoon-egypt.JPG?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ciencia",
+            "instanoticias",
+            "luna",
+            "superluna",
+            "ciencia y espacio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/imagenes-ultima-superluna-del-2024-orix/",
+        "date": "2024-11-15 21:22:51",
+        "sentiment_score": 0.16155551373958588
+    },
+    {
+        "title": "Tribunal ordena que el periodista José Rubén Zamora regrese a prisión en Guatemala",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1745668-hijo-de-jose-ruben-zamora-dice-por-que-cree-que-el-proceso-penal-contra-su-padre-no-avanza.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guatemala"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/tribunal-ordena-jose-ruben-zamora-regrese-a-prision-guatemala-orix/",
+        "date": "2024-11-15 21:20:24",
+        "sentiment_score": -0.5226546972990036
+    },
+    {
+        "title": "ANÁLISIS | A los líderes climáticos les preocupaba que la victoria de Trump echara a perder la COP29. No sabían que el anfitrión lo haría desde adentro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782097-gettyimages-2184290644.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cop29",
+            "análisis"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/analisis-lideres-climaticos-trump-anfitrion-cop29-trax/",
+        "date": "2024-11-15 21:10:36",
+        "sentiment_score": -0.579303439706564
+    },
+    {
+        "title": "El Ministerio Público de Venezuela lamenta el fallecimiento en prisión preventiva de opositor",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1742076-venezuela-election-justice.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "detenidos venezuela",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/venezuela-lamenta-el-fallecimiento-en-prision-jesus-manuel-martinez-medina-orix/",
+        "date": "2024-11-15 20:49:13",
+        "sentiment_score": -0.8562027588486671
+    },
+    {
+        "title": "Las noticias internacionales del 15 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183990025-20241115202806891.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-internacional-15-noviembre-2024-fast",
+        "date": "2024-11-15 20:47:59",
+        "sentiment_score": -0.0194731242954731
+    },
+    {
+        "title": "Cara a cara con los reclusos de una prisión de máxima seguridad en El Salvador",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fast – news variety",
+            "xpress",
+            "centroamérica",
+            "nayib bukele",
+            "prisioneros",
+            "el salvador"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/prision-salvador-maxima-seguridad-david-culver-trax/",
+        "date": "2024-11-15 20:22:07",
+        "sentiment_score": -0.5292069017887115
+    },
+    {
+        "title": "Cincuenta años de Emasesa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/16/tribuna-emasesa-RRWnU1udVHiyuUrYjRVXJtI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/pedro-jose-sanchez-gomez-cincuenta-anos-emasesa-20241116184625-nts.html",
+        "date": "2024-11-15 21:06:49",
+        "sentiment_score": -0.05663040280342102
+    },
+    {
+        "title": "Sinergias olivareras",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/29/viudedad-U33685404401QDL-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-sinergias-olivareras-20241116211139-nts.html",
+        "date": "2024-11-15 21:05:40",
+        "sentiment_score": 0.029937684535980225
+    },
+    {
+        "title": "Del reseteo como sucedáneo revolucionario",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/11/12/luciano%20montaje-U21517772116FXu-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-reseteo-sucedaneo-revolucionario-20241116003034-nts.html",
+        "date": "2024-11-15 19:59:42",
+        "sentiment_score": -0.18745726346969604
+    },
+    {
+        "title": "El puente a la eternidad de la SE-40",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/14/ambulancia1-kvSG--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-puente-eternidad-se40-20241116205930-nts.html",
+        "date": "2024-11-15 19:59:31",
+        "sentiment_score": -0.07754164934158325
+    },
+    {
+        "title": "Hacienda garantiza que el impuesto del 15% a las multinacionales estará operativo a partir del 1 de enero",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/15/mjmonterocongreso-RpsBvmGuqtSyAe1HCq5foEK-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/hacienda-garantiza-impuesto-multinacionales-operativo-partir-enero-20241115204203-nt.html",
+        "date": "2024-11-15 19:43:14",
+        "sentiment_score": -0.08171248435974121
+    },
+    {
+        "title": "«Robert F. Kennedy Jr. es alguien sin formación sanitaria que ya ha hecho mucho daño a la salud en este país»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/15/robert-kennedy-trump-RuvtQ0HKBzlBv6vpxepaatL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/robert-kennedy-alguien-formacion-sanitaria-dano-salud-20241115204032-nt.html",
+        "date": "2024-11-15 19:42:38",
+        "sentiment_score": -0.15313512086868286
+    },
+    {
+        "title": "Mazón gana tiempo en una maniobra arriesgada",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/14/ambulancia1-kvSG--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-mazon-gana-tiempo-maniobra-arriesgada-20241116195343-nt.html",
+        "date": "2024-11-15 19:30:53",
+        "sentiment_score": -0.19653871655464172
+    },
+    {
+        "title": "Descubren el talón de Aquiles de las bacterias resistentes a los antibióticos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/11/15/labo-cancer.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/descubren-talon-aquiles-bacterias-resistentes-antibioticos-20241115141532-nt.html",
+        "date": "2024-11-15 19:11:00",
+        "sentiment_score": -0.080752432346344
+    },
+    {
+        "title": "Reino Unido despliega varios cazas tras detectar un avión ruso cerca de su espacio aéreo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/15/Caza-kfYG-U603356259688MFF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/reino-unido-despliega-varios-cazas-tras-detectar-20241115195226-nt.html",
+        "date": "2024-11-15 18:52:26",
+        "sentiment_score": -0.1826971471309662
+    },
+    {
+        "title": "Cierren la puerta al salir",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2024/11/14/Imagen%20foro%20vivienda_39-kLME--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alfonso-j-ussia-cierren-puerta-salir-20241116193649-nt.html",
+        "date": "2024-11-15 18:43:01",
+        "sentiment_score": -0.21099519729614258
+    },
+    {
+        "title": "Mazón, el síndrome del falso testigo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2EXOC62IXFGMJJZNRXYRAPJCVQ?auth=23513f6ce440a797fb4dc18a8f0fcbda754d160047dd92aaa523beeaa87f2631&width=1200",
+        "tags": [
+            "españa",
+            "valencia",
+            "compromis-q",
+            "corts valencianes",
+            "psoe",
+            "pp",
+            "vox",
+            "carlos mazón",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/2024-11-15/mazon-el-sindrome-del-falso-testigo.html",
+        "date": "2024-11-15 20:56:00",
+        "sentiment_score": -0.531874917447567
+    },
+    {
+        "title": "La culpa fue del protocolo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UZO53MCAQ5H63MGZBU2EPHY37Q.jpg?auth=d497c171e254c3fb6a5aaadb9c1549db47fb8785b83cfac5f30b9cd9d935bfa1&width=1200",
+        "tags": [
+            "corts valencianes",
+            "pspv-psoe",
+            "compromis-q",
+            "confederaciones hidrográficas",
+            "aemet",
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "españa",
+            "carlos mazón",
+            "joan baldoví roda"
+        ],
+        "link": "https://elpais.com/espana/2024-11-15/la-culpa-fue-del-protocolo.html",
+        "date": "2024-11-15 18:43:11",
+        "sentiment_score": -0.8544762656092644
+    },
+    {
+        "title": "En los pocos bares abiertos de la zona cero de la dana silencian a Mazón",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DE45BRPWJBHHTBQR7KUDNP5G7E.JPG?auth=8d5990db297bbdc7d0fa0d5483840f4cff5718d58a7ef2a49d482d6ffa8d7441&width=1200",
+        "tags": [
+            "benetússer",
+            "generalitat valenciana",
+            "sedaví",
+            "emergencia climática",
+            "inundaciones dana octubre 2024",
+            "españa",
+            "carlos mazón",
+            "paiporta",
+            "catarroja"
+        ],
+        "link": "https://elpais.com/espana/2024-11-15/en-los-pocos-bares-abiertos-de-la-zona-cero-silencian-a-mazon.html",
+        "date": "2024-11-15 18:39:35",
+        "sentiment_score": -0.6774084717035294
+    },
+    {
+        "title": "El VAR sale al mercado de los patrocinios: ¿Cuánto le costaría 'comprarlo' al Real Madrid?",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/01/23/culemania/palco/827177397_13732404_1706x960.jpg?contentId=ESPIMA20240123_0123",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241115/el-var-al-patrocinios-cuanto-real-madrid/901409940_0.html",
+        "date": "2024-11-15 22:02:32",
+        "sentiment_score": 0.21464869007468224
+    },
+    {
+        "title": "España brilla y sufre en Copenhague con el liderato de grupo",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/11/15/oyarzabaldos-kLbD--758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/deportes/espana-brilla-sufre-copenhague-liderato-grupo-20241115225135-nt.html",
+        "date": "2024-11-15 21:51:36",
+        "sentiment_score": 0.423802737146616
+    },
+    {
+        "title": "Oyarzabal y Ayoze dinamitan Copenhague",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/15/oyarzabal-ayoze-knaF-U23018287662EzC-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deportes/futbol/seleccion-espanola/cronica-dinamarca-espana-liga-naciones-20241115170142-ntrc.html",
+        "date": "2024-11-15 21:51:04",
+        "sentiment_score": 0.1366662234067917
+    },
+    {
+        "title": "Oyarzabal y Ayoze dinamitan Copenhague",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/15/oyarzabal-ayoze-knaF-U23018287662EzC-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/deportes/futbol/seleccion-espanola/cronica-dinamarca-espana-liga-naciones-20241115170142-ntrc.html",
+        "date": "2024-11-15 21:47:56",
+        "sentiment_score": -0.10559375584125519
+    },
+    {
+        "title": "Adamari López y Toni Costa se reúnen por el recital de Alaïa: 'Que feliz nos hace verte crecer'",
+        "image_url": "https://www.hola.com/horizon/landscape/1230bfecd8f0-al-3.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20241115730431/adamari-lopez-alaia-toni-costa-juntos-piano-recital/",
+        "date": "2024-11-15 21:08:15",
+        "sentiment_score": -0.05308109521865845
+    },
+    {
+        "title": "El 'Vinicius' de LKN sufre un nuevo acto vandálico",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2024/11/15/6737b73080f03.jpeg",
+        "tags": [
+            "pamplona y comarca"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/navarra/pamplona-comarca/2024/11/15/el-vinicius-lkn-sufre-nuevo-acto-vandalico-629110-1002.html",
+        "date": "2024-11-15 21:04:14",
+        "sentiment_score": -0.9074585950002074
+    },
+    {
+        "title": "Exclusiva | La razón del distanciamiento entre Isabel Pantoja y su sobrina Anabel",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/15/exclusiva-la-razon-del-distanciamiento-entre-isabel-pantoja-y-su-sobrina-anabel_1621.png",
+        "tags": [
+            "tardear"
+        ],
+        "link": "https://www.telecinco.es/tardear/20241115/exclusiva-razon-distanciamiento-isabel-pantoja-sobrina-anabel_18_014027237.html",
+        "date": "2024-11-15 20:53:39",
+        "sentiment_score": -0.6350384056568146
+    },
+    {
+        "title": "El Sindicato Democrático de Prisiones contado por los presos a los que ayudaron en la Transición",
+        "image_url": "https://static.eldiario.es/clip/94f88344-3880-40c8-b49a-8bdc5896ad0d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/sindicato-democratico-prisiones-contado-presos-ayudaron-transicion_1_11811802.html",
+        "date": "2024-11-15 20:50:17",
+        "sentiment_score": -0.2575709819793701
+    },
+    {
+        "title": "La opinión sobre el Sporting y el Oviedo: Las obras de los que entran y de los que salen",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/53dff838-a89d-4b80-9389-c3e68716f272_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/deportes/opinion/2024/11/15/opinion-sporting-oviedo-obras-entran-111736160.html",
+        "date": "2024-11-15 20:37:21",
+        "sentiment_score": -0.33985738456249237
+    },
+    {
+        "title": "Real Madrid: La ‘Operación Davies’ está más cerca",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2022/03/ImagenUN.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/noticias/deportes/real-madrid-la-operacion-davies-esta-mas-cerca/",
+        "date": "2024-11-15 20:16:11",
+        "sentiment_score": 0.09436137787997723
+    },
+    {
+        "title": "Julia Otero, implacable contra los bulos: \"Solo así salvaremos la democracia\"",
+        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20241115/1002353910/julia-otero-implacable-bulos-asi-salvaremos-democracia-dct.html",
+        "date": "2024-11-15 22:15:08",
+        "sentiment_score": 0.5906474776566029
+    },
+    {
+        "title": "El suspenso de la semana: Marta Villanueva",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/15/quien-hace-barcelona/901420008_13733468_1706x960.jpg?contentId=ESPIMA20241115_0159",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/quien-hace-barcelona/20241115/el-suspenso-de-la-semana-marta-villanueva/901409972_0.html",
+        "date": "2024-11-15 22:04:49",
+        "sentiment_score": -0.37381916120648384
+    },
+    {
+        "title": "El sobresaliente de la semana: Laia Bonet",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/15/quien-hace-barcelona/901420009_13733505_1706x960.jpg?contentId=ESPIMA20241115_0160",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/quien-hace-barcelona/20241115/el-sobresaliente-de-la-semana-laia-bonet/901409967_0.html",
+        "date": "2024-11-15 22:04:25",
+        "sentiment_score": 0.16342909634113312
+    },
+    {
+        "title": "Una obra monumental sobre premsa catalana (1932)",
+        "image_url": "https://static1.ara.cat/clip/3d3114bb-bf99-4154-98af-45a529d63eef_16-9-aspect-ratio_default_0_x699y523.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/obra-monumental-premsa-catalana-1932_1_5197613.html",
+        "date": "2024-11-15 22:00:10",
+        "sentiment_score": -0.10159337520599365
+    },
+    {
+        "title": "Un Shorts imperial acaba con un insípido Barça",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc3cd198-6f1c-4350-a404-af8ce2305d70_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2024/11/15/shorts-imperial-acaba-insipido-barca-111737937.html",
+        "date": "2024-11-15 21:49:53",
+        "sentiment_score": 0.5650921016931534
+    },
+    {
+        "title": "Cada almeriense gastará 132 euros de media para las rebajas del Black Friday",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/16/descuentos-kalE-U23019709983f6C-1200x840@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/almeriense-gastara-132-euros-media-rebajas-black-20241116224910-nt.html",
+        "date": "2024-11-15 21:49:10",
+        "sentiment_score": -0.37644001841545105
+    },
+    {
+        "title": "Bagnaia empieza fuerte su asalto a Martín en Barcelona",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/f39af3bd-af7f-94d3-3014871133e78cb3.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/zf39af0c2-c641-6223-e87dd7414b58b5af/202411/bagnaia-empieza-fuerte-su-asalto-a-martin-en-barcelona",
+        "date": "2024-11-15 21:34:33",
+        "sentiment_score": 0.697938334196806
+    },
+    {
+        "title": "Más de 130.000 niños vacunados en África gracias a la Alianza en la que participan 272 empresas de Alicante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a786be1e-527b-4122-82d1-18b7218be94b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/salud/2024/11/15/ninos-vacunados-africa-111724932.html",
+        "date": "2024-11-15 21:30:06",
+        "sentiment_score": 0.0448492169380188
+    },
+    {
+        "title": "Colsubsidio cierra sus supermercados: lo que hay que saber",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GAKZLZ4QHVFRRPGFUMREP36N5Q.jpeg?auth=f663dc7d9745a54ab9964e01d3be6c9ee6cbedc3efc0367379423f862b46cdd3&width=1200",
+        "tags": [
+            "supermercados",
+            "colombia",
+            "américa",
+            "tiendas",
+            "ayuda social",
+            "latinoamérica",
+            "cierre establecimientos"
+        ],
+        "link": "https://elpais.com/america-colombia/2024-11-15/colsubsidio-cierra-sus-supermercados-lo-que-hay-que-saber.html",
+        "date": "2024-11-15 21:28:36",
+        "sentiment_score": 0.13974345475435257
     }
 ];
