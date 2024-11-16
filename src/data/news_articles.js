@@ -1,402 +1,5 @@
 export default [
     {
-        "title": "Video muestra lo que sucedió después de que un hombre atropellara a decenas de personas en China",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/110338-china-hit-and-run-16x9-v1-clean-00-00-06-04-still004-copy.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/china-accidente-atropello-trax",
-        "date": "2024-11-12 17:01:38",
-        "sentiment_score": -0.699976921081543
-    },
-    {
-        "title": "Video muestra lo que sucedió después de que un hombre atropellara a decenas de personas en China",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/110338-china-hit-and-run-16x9-v1-clean-00-00-06-04-still004-copy.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "accidente de tránsito",
-            "china"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/china-accidente-atropello-trax/",
-        "date": "2024-11-12 17:01:38",
-        "sentiment_score": -0.754465838894248
-    },
-    {
-        "title": "Donald Trump y el reino de los zares",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779982-2024-11-06t210255z-987696276-rc2izaat5xe3-rtrmadp-3-usa-election-trump.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/12/trump-reino-zares-trax/",
-        "date": "2024-11-12 16:46:47",
-        "sentiment_score": 0.10308781266212463
-    },
-    {
-        "title": "Trump quiere cerrar el Departamento de Educación. Esto es lo que podría significar",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780005-trump-y-la-educacion.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ee.uu.",
-            "educación",
-            "educación en estados unidos"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/12/trump-cerrar-el-departamento-de-educacion-podria-significar-trax/",
-        "date": "2024-11-12 16:38:27",
-        "sentiment_score": 0.01765604317188263
-    },
-    {
-        "title": "¿Qué es el Proyecto 2025, el plan que los ultraconservadores quieren implementar en Estados Unidos?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1719793-proyecto-2025-una-polemica-plataforma-politica-conservadora.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/12/proyecto-2025-plan-ultraconservadores-estados-unidos-trump-trax/",
-        "date": "2024-11-12 16:16:30",
-        "sentiment_score": -0.12572914361953735
-    },
-    {
-        "title": "En medio de la crisis política, Alemania celebrará elecciones anticipadas en febrero",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779950-parlamento-aleman.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones",
-            "europa",
-            "alemania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/12/alemania-elecciones-anticipadas-febrero-trax/",
-        "date": "2024-11-12 15:59:15",
-        "sentiment_score": -0.1350906863808632
-    },
-    {
-        "title": "El arzobispo de Canterbury dimite por su gestión de caso de abuso infantil en la Iglesia",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779956-service-for-new-parliament-held-at-westminster-abbey.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "reino unido"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/12/arzobispo-canterbury-dimite-gestion-caso-abuso-infantil-iglesia-trax/",
-        "date": "2024-11-12 15:32:43",
-        "sentiment_score": -0.8261459870263934
-    },
-    {
-        "title": "Video muestra a un agente de policía de Oklahoma usando la fuerza contra un hombre de 71 años",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/hombrethumbh-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ancianos",
-            "agresiones policiales",
-            "noticias de ee.uu.",
-            "oklahoma"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-oklahoma-abuso-policial-adulto-mayor-hospitalizado-accidente-trafico-ush-trax/",
-        "date": "2024-11-12 14:44:24",
-        "sentiment_score": -0.667076513171196
-    },
-    {
-        "title": "El príncipe heredero de Arabia Saudita acusa a Israel de cometer \"genocidio colectivo\" en Gaza",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1779916-mohammed-bin-salman.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/12/principe-arabia-saudita-acusa-israel-genocidio-colectivo-gaza-trax/",
-        "date": "2024-11-12 14:38:16",
-        "sentiment_score": -0.8705565053969622
-    },
-    {
-        "title": "Se busca la formalización del trabajo en la Cumbre de Economías de la región Asia-Pacífico en Lima",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183593991.jpg?c=16x9&q=w_1280%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cumbre-conomica-asi-pacifico-apec-lima-peru-ministro-cafe-tv",
-        "date": "2024-11-12 14:22:13",
-        "sentiment_score": -0.00698094442486763
-    },
-    {
-        "title": "Jugamos a 'Dragon Ball: Sparking! Zero': un espectáculo para los fanáticos de Goku",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/11/12/sparking-R0XiA3a7f2OuLceEaB8Ht4I-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/jugamos-dragon-ball-sparking-zero-espectaculo-fanaticos-20241112180520-nt.html",
-        "date": "2024-11-12 17:05:20",
-        "sentiment_score": -0.03101208806037903
-    },
-    {
-        "title": "La Fiscalía de Maduro aumenta los cargos contra Edmundo González de seis a diez delitos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/Edmundoo-venezuela-RPNvNUovgOXdG1Rmm1ovT5N-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/fiscalia-maduro-aumenta-seis-diez-delitos-edmundo-20241112165101-nt.html",
-        "date": "2024-11-12 15:52:20",
-        "sentiment_score": -0.17519517242908478
-    },
-    {
-        "title": "Kallas mantendrá el apoyo a Ucrania «hasta que Rusia pierda su última guerra colonial»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/kaja-kalllas-RwzFiP0MSQiaOkTgd3icndK-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/kallas-mantendra-apoyo-ucrania-rusia-pierda-ultima-20241112162938-nt.html",
-        "date": "2024-11-12 15:30:31",
-        "sentiment_score": -0.14581556618213654
-    },
-    {
-        "title": "La Policía detiene al presunto culpable de vandalizar 26 coches en Usera",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FBCDCM2TPZAEBCV7AVWMNWTQTA.jpg?auth=cde5b54615631f972c77fb5ab3640f2dfba69d7458e39b71765dd9c7ca64b0ad&width=1200",
-        "tags": [
-            "coches",
-            "sucesos",
-            "comunidad de madrid",
-            "policía nacional",
-            "zona ser madrid",
-            "vandalismo",
-            "ayuntamiento madrid",
-            "policía municipal",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-12/la-policia-detiene-al-presunto-culpable-de-vandalizar-26-coches-en-usera.html",
-        "date": "2024-11-12 17:02:01",
-        "sentiment_score": -0.8865700205788016
-    },
-    {
-        "title": "Susana Pareja, leyenda del balonmano y otra rescatadora más en Sedaví: “Le decía a mi amiga ‘aguanta’ y trataba de bromear con ella”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JMXVKPYNRBFBZKTNDHZSWT77TA.JPG?auth=f0372fe45ab7280cff0c655009ba8c8d04b4b758d379914a47a6e21500605f9e",
-        "tags": [
-            "sedaví",
-            "españa",
-            "inundaciones",
-            "inundaciones dana octubre 2024",
-            "valencia",
-            "lluvias torrenciales",
-            "desastres naturales",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-12/susana-pareja-leyenda-del-balonmano-y-otra-rescatadora-mas-en-sedavi-le-decia-a-mi-amiga-aguanta-y-trataba-de-bromear-con-ella.html",
-        "date": "2024-11-12 16:41:48",
-        "sentiment_score": -0.5632671006023884
-    },
-    {
-        "title": "La víctima de tocamientos de Saül Gordillo niega que consintiera: “Era mi jefe y podía ser mi padre”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/D35LVK5PFW3ZLYDUOFHAVRDVPQ.jpg?auth=227a79150ccf6e9dc0258bdbf00be3cfbb16c907b5a7dc7d956a9bd4bfe17f79",
-        "tags": [
-            "cataluña",
-            "barcelona",
-            "fiscalía",
-            "agresiones sexuales",
-            "discotecas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-12/la-victima-de-tocamientos-de-saul-gordillo-niega-que-consintiera-era-mi-jefe-y-podia-ser-mi-padre.html",
-        "date": "2024-11-12 16:23:08",
-        "sentiment_score": -0.7048712950199842
-    },
-    {
-        "title": "Junqueras descarta entrar en el Govern y quiere hacer de ERC “la mejor alternativa” al PSC",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7CICK3LYG4Y6ZA237FSLOOTDIY.jpg?auth=04cbdc389dc9005fe9cc7604855052eb9afab63fc7c3290915711413f835bdfa",
-        "tags": [
-            "generalitat cataluña",
-            "cataluña",
-            "política",
-            "psc",
-            "oriol junqueras",
-            "juntsxcat",
-            "erc",
-            "independentismo",
-            "salvador illa"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-12/junqueras-descarta-entrar-en-el-govern-y-quiere-hacer-de-erc-la-mejor-alternativa-al-psc.html",
-        "date": "2024-11-12 15:54:10",
-        "sentiment_score": -0.20077241957187653
-    },
-    {
-        "title": "La Audiencia Nacional rebaja la condena al jubilado que envió cartas pirotécnicas al Gobierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SVGINQBHRRLWF6P4T2XH4BXSBE.jpg?auth=74ab225652b44de27a41518183d2b67003b34136f786c0a70715a851ca3f563c&width=1200",
-        "tags": [
-            "delitos",
-            "castilla y león",
-            "pedro sánchez",
-            "españa",
-            "juicios",
-            "miranda de ebro",
-            "guerra",
-            "gobierno",
-            "invasiones",
-            "burgos",
-            "justicia",
-            "ministerio de defensa",
-            "ucrania",
-            "guerra de rusia en ucrania",
-            "audiencia nacional",
-            "recursos judiciales",
-            "terrorismo",
-            "rusia"
-        ],
-        "link": "https://elpais.com/espana/2024-11-12/la-audiencia-nacional-rebaja-la-condena-al-jubilado-que-envio-cartas-pirotecnicas-al-gobierno.html",
-        "date": "2024-11-12 15:28:10",
-        "sentiment_score": -0.6131956204771996
-    },
-    {
-        "title": "El exjefe de asuntos internos confirma la guerra sucia policial contra el independentismo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LNYU32ZLTJFLBAXW3M2XI53LOY.JPG?auth=a5d139ef2d602b4ca656a7ee0193c234b591fbde2c99463815151d1f72558b7f&width=1200",
-        "tags": [
-            "congreso diputados",
-            "españa",
-            "operación kitchen",
-            "podemos",
-            "policía nacional",
-            "jorge fernandez diaz",
-            "comisiones investigación",
-            "cataluña",
-            "independentismo"
-        ],
-        "link": "https://elpais.com/espana/2024-11-12/el-exjefe-de-asuntos-internos-confirma-la-guerra-sucia-policial-contra-el-independentismo.html",
-        "date": "2024-11-12 15:27:25",
-        "sentiment_score": 0.0019212216138839722
-    },
-    {
-        "title": "El pacto fiscal entre PSOE y Sumar revienta el bloque de investidura a derechas e izquierdas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4OUSTGB2MZF5FF3ECS22EHIHRY.jpg?auth=355ff2bdf5e0e7a44141e19d8c6f86d7e80f37bc534b0059ed7bb108c40cf676&width=1200",
-        "tags": [
-            "psoe",
-            "sumar",
-            "juntsxcat",
-            "erc",
-            "hacienda pública",
-            "eaj-pnv",
-            "grupos parlamentarios",
-            "congreso diputados",
-            "presupuestos generales estado",
-            "unión europea de inversiones",
-            "sanciones",
-            "gobierno de españa",
-            "bildu",
-            "unión europea",
-            "podemos",
-            "pactos postelectorales",
-            "pactos políticos",
-            "bruselas",
-            "impuestos"
-        ],
-        "link": "https://elpais.com/espana/2024-11-12/el-pacto-fiscal-entre-psoe-y-sumar-revienta-el-bloque-de-investidura-a-derechas-e-izquierdas.html",
-        "date": "2024-11-12 15:12:56",
-        "sentiment_score": -0.9249928761273623
-    },
-    {
-        "title": "Ceuta Femenino-Atlético Torcal, el martes 26 a las 18:30 en el ‘Molina’",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1123562",
-        "date": "2024-11-12 17:09:28",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Los Másteres MBA mejor valorados por los estudiantes del curso 2024-2025",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7fbf0c1a-2733-4340-b959-1adbb9405c6e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.informacion.es/comunicacion-empresarial/2024/11/12/masteres-mba-mejor-valorados-estudiantes-111629391.html",
-        "date": "2024-11-12 17:06:11",
-        "sentiment_score": 0.07923289760947227
-    },
-    {
-        "title": "El Príncipe: otro año sin Presupuesto ni inversiones para su desarrollo",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1123558",
-        "date": "2024-11-12 17:02:08",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El Rayo da por perdido a James Rodríguez: Boca ya se prepara para recibirlo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0fb03213-e219-46f7-a66c-9dc1cb9c6c6f_16-9-aspect-ratio_default_1337775.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/fichajes/2024/11/12/rayo-da-perdido-james-rodriguez-111626807.html",
-        "date": "2024-11-12 17:00:16",
-        "sentiment_score": 0.6916711926460266
-    },
-    {
-        "title": "Aragón, al frente de la revolución del sistema sanitario basada en los datos",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/11/12/rueda-de-prensa-de-las-xi-jornadas-de-la-red-espanola-de-agencias-de-evaluacion-de-tecnologias-sanitarias-y-prestaciones-del-sistema-nacional-de-salud.jpeg",
-        "tags": [
-            "aragón"
-        ],
-        "link": "https://www.heraldo.es/noticias/aragon/2024/11/12/aragon-revolucion-sistema-sanitario-basado-datos-jornadas-redets-zaragoza-1777268.html",
-        "date": "2024-11-12 16:58:46",
-        "sentiment_score": 0.14683112874627113
-    },
-    {
-        "title": "El alpinista Carlos Soria subirá a la cumbre del Manaslu en el Himalaya 50 años después",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-24-at-17.48.29-e1716565756377-469x317.jpeg",
-        "tags": [
-            "himalaya",
-            "regiones y ciudades",
-            "alpinismo",
-            "nepal",
-            "ávila",
-            "deportes"
-        ],
-        "link": "https://theobjective.com/deportes/2024-11-12/alpinista-carlos-soria-manaslu-himalaya/",
-        "date": "2024-11-12 16:58:18",
-        "sentiment_score": 0.34880926087498665
-    },
-    {
-        "title": "Iría Folgado recibe el premio +MÚSICAS a la mejor grabación de música clásica",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/12/673387db0e55e.jpeg",
-        "tags": [
-            "ferrol - cedeira - cariño"
-        ],
-        "link": "https://www.cope.es/emisoras/galicia/a-coruna-provincia/ferrol/noticias/iria-folgado-recibe-premio-musicas-mejor-grabacion-musica-clasica-20241112_3044707.html",
-        "date": "2024-11-12 16:52:54",
-        "sentiment_score": 0.03465437889099121
-    },
-    {
-        "title": "Sudamérica: Argentina recupera al 'Dibu', indulto para Vidal en Chile y Brasil sigue sin Neymar",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/3/53/353709b1-a9c3-52b9-b052-9dfab5970747/673029b11e052.image.jpg?resize=300%2C200",
-        "tags": [
-            "top"
-        ],
-        "link": "https://santamariatimes.com/ap/sports/sudam-rica-argentina-recupera-al-dibu-indulto-para-vidal-en-chile-y-brasil-sigue-sin/article_a539f2df-5516-5a15-abdb-c1c8fba2efb7.html",
-        "date": "2024-11-12 16:49:31",
-        "sentiment_score": 0.23417827486991882
-    },
-    {
-        "title": "Interior dice que el decreto por la DANA habla de emergencia nacional desde el plano operativo y no para asumir el mando",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241112174821_120.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/nacional/noticia-interior-dice-decreto-dana-habla-emergencia-nacional-plano-operativo-no-asumir-mando-20241112174821.html",
-        "date": "2024-11-12 16:48:21",
-        "sentiment_score": -0.9003392737358809
-    },
-    {
-        "title": "Relacionan a la influencer viguesa Sofía Rodríguez con el futbolista del Real Madrid Vinícius",
-        "image_url": "https://cflvdg.avoz.es/sc/hRqrwoUVrRnrd-VFUe-5uqCfcps=/768x/2024/11/12/00121731429292646242742/Foto/vinividivinci.jpg",
-        "tags": [
-            "vinicius",
-            "vigo ciudad",
-            "real madrid",
-            "gente"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/gente/2024/11/12/relacionan-viguesa-sofia-rodriguez-futbolista-real-madrid-vinicius/00031731423099997609431.htm",
-        "date": "2024-11-12 16:42:00",
-        "sentiment_score": 0.10282056778669357
-    },
-    {
-        "title": "Catalunya suspende clases y restringe la movilidad este miércoles por la previsión de lluvias en cinco comarcas de Tarragona",
-        "image_url": "https://static.eldiario.es/clip/14b5fc82-08d2-437b-93b2-3f21311ed09d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/catalunya/catalunya-suspende-clases-restringe-movilidad-miercoles-prevision-lluvias-cinco-comarcas_1_11813873.html",
-        "date": "2024-11-12 17:09:58",
-        "sentiment_score": -0.19475668668746948
-    },
-    {
         "title": "Las tres noticias destacadas de EE.UU. del 12 de noviembre en CNN en Español",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -566,46 +169,6 @@ export default [
         "link": "https://www.abc.es/economia/ingresos-totales-vocento-septiembre-disminuyen-principalmente-debilidad-20241112132427-nt.html",
         "date": "2024-11-12 18:56:30",
         "sentiment_score": -0.08439633250236511
-    },
-    {
-        "title": "Son unos genios",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/12/1488601951-RAin7GywIPxz4sSU51nTL0J-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ignacio-marcogardoqui-genios-20241112192303-nt.html",
-        "date": "2024-11-12 18:23:04",
-        "sentiment_score": -0.11972078680992126
-    },
-    {
-        "title": "Netanyahu pedirá a Trump la anexión de Cisjordania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/netanyahu-RYz3oOCLtZmhQsg5SCQfvxH-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/netanyahu-pedira-trump-anexion-cisjordania-20241112191821-nt.html",
-        "date": "2024-11-12 18:18:22",
-        "sentiment_score": -0.05557292699813843
-    },
-    {
-        "title": "Putin desafía a Europa: una fragata rusa con misiles hipersónicos Zircon realiza ejercicios en el Canal de la Mancha",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/Golovko1.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/putin-desafia-europa-fragata-rusa-misiles-hipersonicos-20241112191717-nt.html",
-        "date": "2024-11-12 18:17:17",
-        "sentiment_score": -0.18026010692119598
-    },
-    {
-        "title": "ACS gana 605 millones de euros hasta septiembre, un 5% más, impulsada por Estados Unidos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/12/1462375608-RD6ilJlHSK0hwVVdlHPR5RN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/acs-gana-605-millones-euros-septiembre-impulsada-20241112190249-nt.html",
-        "date": "2024-11-12 18:07:29",
-        "sentiment_score": -0.052572399377822876
     },
     {
         "title": "Medio centenar de municipios de la Comunidad Valenciana y cinco comarcas de Tarragona suspenden las clases ante la nueva dana",
@@ -6690,5 +6253,549 @@ export default [
         "link": "https://ultimasnoticias.com.ve/noticias/general/ministerio-publico-lamenta-fallecimiento-del-ciudadano-jesus-martinez/",
         "date": "2024-11-16 00:29:45",
         "sentiment_score": -0.804114249534905
+    },
+    {
+        "title": "Mons. Spengler: El padre Marcelo sacrificó su vida para defender la de otros",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182040959.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "fast – news variety",
+            "asesinato de sacerdotes jesuitas",
+            "xpress",
+            "chiapas",
+            "comunidades indígenas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/crimen-organizado-valores-evangelio-aristegui-tv/",
+        "date": "2024-11-16 04:07:10",
+        "sentiment_score": -0.7569715231657028
+    },
+    {
+        "title": "Mons. Spengler: Quién y por qué mataron al padre Marcelo, que no es el primero",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182043187.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "asesinato de sacerdotes jesuitas",
+            "méxico",
+            "fast – news variety",
+            "chiapas",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pago-con-vida-padre-marcelo-chiapas-aristegui-tv/",
+        "date": "2024-11-16 03:50:22",
+        "sentiment_score": -0.8512121811509132
+    },
+    {
+        "title": "Mons. Spengler: Quién y por qué mataron al padre Marcelo, que no es el primero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pago-con-vida-padre-marcelo-chiapas-aristegui-tv",
+        "date": "2024-11-16 03:50:22",
+        "sentiment_score": -0.7280435170978308
+    },
+    {
+        "title": "¿Qué piensan los rusos del papel de Elon Musk en el gobierno de Trump?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusos-opinan-elon-musk-gobierno-trump-trax",
+        "date": "2024-11-16 03:46:59",
+        "sentiment_score": -0.24496911466121674
+    },
+    {
+        "title": "¿Qué piensan los rusos del papel de Elon Musk en el gobierno de Trump?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184861233.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "rusia",
+            "elon musk",
+            "opinión",
+            "donald trum",
+            "eleccciones estados unidos",
+            "rusos",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusos-opinan-elon-musk-gobierno-trump-trax/",
+        "date": "2024-11-16 03:46:59",
+        "sentiment_score": -0.22946971654891968
+    },
+    {
+        "title": "Las 4 noticias económicas del 15 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-15-noviembre-2024-panorama-tv-fast",
+        "date": "2024-11-16 03:40:51",
+        "sentiment_score": -0.019590817391872406
+    },
+    {
+        "title": "Muere un bebé panda rojo por el estrés causado por fuegos artificiales, dice el Zoológico de Edimburgo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1781514-copia-de-foto-para-wp-2024-11-14t143522-785.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "animales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/muere-bebe-panda-rojo-estres-fuegos-artificiales-zoologico-edimburgo-trax/",
+        "date": "2024-11-16 03:28:54",
+        "sentiment_score": -0.868735590018332
+    },
+    {
+        "title": "Ordenan en Argentina arrestar a 61 brasileños presuntamente vinculados con el intento de golpe de Estado de 2023",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782257-untitled-design-2024-11-15t211729-023.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/ordenan-argentina-arrestar-brasilenos-intento-golpe-de-estado-orix/",
+        "date": "2024-11-16 03:23:00",
+        "sentiment_score": -0.6073296908289194
+    },
+    {
+        "title": "Congresista opina sobre si puerto de Chancay afectará relación de Perú con EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181420314.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "perú",
+            "economía ee.uu.",
+            "chancay"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apec-peru-boluarte-inversion-china-chancay-puerto-nuevo-conclusiones-tv/",
+        "date": "2024-11-16 02:41:40",
+        "sentiment_score": -0.20834869891405106
+    },
+    {
+        "title": "Congresista opina sobre si puerto de Chancay afectará relación de Perú con EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apec-peru-boluarte-inversion-china-chancay-puerto-nuevo-conclusiones-tv",
+        "date": "2024-11-16 02:41:40",
+        "sentiment_score": -0.4442078620195389
+    },
+    {
+        "title": "Calderilla para un alcalde",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/29/viudedad-U33685404401QDL-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-calderilla-alcalde-20241116065111-nts.html",
+        "date": "2024-11-16 05:51:11",
+        "sentiment_score": -0.12884405255317688
+    },
+    {
+        "title": "Lo que dice Gómez es un abuso",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/06/soy-dueno-almazara-mes-bajara-precio-aceite-kbgE--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-dice-gomez-abuso-20241116194902-nt.html",
+        "date": "2024-11-16 03:19:03",
+        "sentiment_score": -0.10774862766265869
+    },
+    {
+        "title": "El Gobierno no logra apoyos y deja en punto muerto la pasarela al RETA para mutualistas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/16/Imagen(196338139)-REAXbdeNAXpttbG2QF3SoFI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-logra-apoyos-deja-punto-muerto-pasarela-20241116040649-nt.html",
+        "date": "2024-11-16 03:06:50",
+        "sentiment_score": 0.020466119050979614
+    },
+    {
+        "title": "El precio de la luz se dispara a los 100 euros por la inestabilidad de las renovables",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/16/luz-R48O1lX4j3L5s1I7NVjLQbJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/precio-luz-dispara-100-euros-inestabilidad-renovables-20241116040639-nt.html",
+        "date": "2024-11-16 03:06:39",
+        "sentiment_score": -0.12442459166049957
+    },
+    {
+        "title": "Médicos de Muface instan al Gobierno a romper con las aseguradoras y concertar el servicio con hospitales y profesionales",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/18/mufacemdicos-RMKqg0RSaNDXcaOrhZsMa0H-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/medicos-muface-instan-gobierno-romper-aseguradoras-concertar-20241118200203-nt.html",
+        "date": "2024-11-16 03:06:30",
+        "sentiment_score": -0.011663675308227539
+    },
+    {
+        "title": "Ribera prometió en Europa apoyar la nuclear y apartarse en los laudos a las renovables",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/16/ribera-R6owlHh2oBtuswOzNH0ttwN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ribera-prometio-europa-apoyar-nuclear-apartarse-laudos-20241116193832-nt.html",
+        "date": "2024-11-16 03:06:03",
+        "sentiment_score": -0.008048325777053833
+    },
+    {
+        "title": "La Justicia argentina ordena la detención de 61 bolsonaristas acusados de intento de golpe de Estado",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/16/brasilia-bolsonaro-kmIF-U603357074392KUC-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/justicia-argentina-ordena-detencion-bolsonaristas-acusados-intento-20241116031439-nt.html",
+        "date": "2024-11-16 02:14:52",
+        "sentiment_score": -0.12030702829360962
+    },
+    {
+        "title": "Perder la casa en la dana y no poder pagar un alquiler en tu pueblo: “Los precios se han vuelto abusivos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XKHP2AR33NEMHLSHT42B5UECIY.jpg?auth=bf2e0a993140344f33d84710e4e664dc287965caf1a72a98de9573c444719556&width=1200",
+        "tags": [
+            "españa",
+            "desastres naturales",
+            "inundaciones",
+            "paiporta",
+            "catarroja",
+            "inundaciones dana octubre 2024",
+            "massanassa",
+            "vivienda",
+            "provincia valencia",
+            "riadas"
+        ],
+        "link": "https://elpais.com/espana/2024-11-16/perder-la-casa-en-la-dana-y-no-poder-pagar-un-alquiler-en-tu-pueblo-los-precios-se-han-vuelto-abusivos.html",
+        "date": "2024-11-16 04:46:00",
+        "sentiment_score": -0.9214810440316796
+    },
+    {
+        "title": "Tragedia en la residencia de Villafranca del Ebro: “Las trabajadoras se han ganado el cielo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DNYABHBSUJFFRM3BSEXMBIZYPM.jpg?auth=c7bc3abf8fc12509ab4a66120ad87a5b989acb278a7d728ef8af42e86eede8de&width=1200",
+        "tags": [
+            "residencias ancianos",
+            "españa",
+            "sucesos",
+            "zaragoza",
+            "incendios",
+            "guardia civil",
+            "salud mental",
+            "bomberos"
+        ],
+        "link": "https://elpais.com/espana/2024-11-16/tragedia-en-la-residencia-de-villafranca-del-ebro-las-trabajadoras-se-han-ganado-el-cielo.html",
+        "date": "2024-11-16 04:40:00",
+        "sentiment_score": -0.0671108290553093
+    },
+    {
+        "title": "Los 100 primeros días del presidente Illa: Borrón y cuenta nueva",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PYDCV3ZDHFGQVBYDRLSFFA6BJI.jpg?auth=9b15e75fa7df729d6db2ae572ed54007b7200614e09bd86c6a41bec5ddfbf723&width=1200",
+        "tags": [
+            "juntsxcat",
+            "govern cataluña",
+            "psc",
+            "política",
+            "generalitat cataluña",
+            "parlament cataluña",
+            "salvador illa",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-16/los-100-primeros-dias-del-presidente-illa-borron-y-cuenta-nueva.html",
+        "date": "2024-11-16 04:40:00",
+        "sentiment_score": 0.34866727888584137
+    },
+    {
+        "title": "Carlos Mazón protagoniza seis horas de debate pero no da una respuesta convincente sobre la cuestionada gestión de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NZSQFXRSWNADBFTEQXNSRFPTYQ.jpg?auth=cd47a10f246ed7cafe716bba05e45e519ad868f5eb6bf384de33385a923da9ed&width=1200",
+        "tags": [
+            "ppcv",
+            "españa",
+            "comunidad valenciana",
+            "carlos mazón",
+            "pp",
+            "valencia",
+            "generalitat valenciana",
+            "inundaciones dana octubre 2024",
+            "dana"
+        ],
+        "link": "https://elpais.com/espana/2024-11-16/carlos-mazon-protagoniza-seis-horas-de-debate-pero-no-da-una-respuesta-convincente-sobre-la-cuestionada-gestion-de-la-dana.html",
+        "date": "2024-11-16 04:40:00",
+        "sentiment_score": -0.6703022085130215
+    },
+    {
+        "title": "Varios colegios concertados catalanes avanzan las puertas abiertas a noviembre",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FF44N3MA7JFAVINPGL32Y2OVWQ.jpg?auth=97be0a5ab9c0dd31d7f70e594f9277284d620f4ec77074a2ef00c507b9bea267&width=1200",
+        "tags": [
+            "educación infantil",
+            "enseñanza privada",
+            "matriculación estudiantes",
+            "educación primaria",
+            "asociaciones padres",
+            "enseñanza concertada",
+            "cataluña",
+            "centros educativos"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-16/varios-colegios-concertados-catalanes-avanzan-las-puertas-abiertas-a-noviembre.html",
+        "date": "2024-11-16 04:15:00",
+        "sentiment_score": 0.264074869453907
+    },
+    {
+        "title": "Jorge Blass, a la búsqueda del asombro mágico",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SL2R6KSSYBDS3G5XNM4PAEXZO4.jpg?auth=8044b275595992ac744fff6d1a14ba1dd25526ceb5ec1ac2882daafad4ae5db9&width=1200",
+        "tags": [
+            "barcelona",
+            "artes escénicas",
+            "cultura",
+            "teatro",
+            "espectáculos",
+            "magia",
+            "arte",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-16/jorge-blass-a-la-busqueda-del-asombro-magico.html",
+        "date": "2024-11-16 04:15:00",
+        "sentiment_score": 0.06189405918121338
+    },
+    {
+        "title": "El Gobierno de Ayuso rescata a Telemadrid con 4,2 millones de euros por la bajada de ingresos en publicidad y el mayor coste de salarios y servicios",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BZGOWDOAPNFSTCCYA4S65AXBBI.jpg?auth=c6104d24b92fbcfb9863ccb55ec39556bffdc758f008010faaec52c077a46649&width=1200",
+        "tags": [
+            "madrid",
+            "telemadrid 2",
+            "isabel díaz ayuso",
+            "televisión",
+            "presupuestos autonómicos",
+            "pp madrid",
+            "televisión autonómica",
+            "telemadrid",
+            "comunidad de madrid",
+            "gobierno comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-16/el-gobierno-de-ayuso-rescata-a-telemadrid-con-42-millones-de-euros-por-la-bajada-de-ingresos-en-publicidad-y-el-mayor-coste-de-salarios-y-servicios.html",
+        "date": "2024-11-16 04:00:00",
+        "sentiment_score": -0.6874959915876389
+    },
+    {
+        "title": "Caballero se resiste a colocar un monumento a la insurrección obrera de Vigo de 1972 por exhibir una estrella roja",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2TRGRPMLGNBMNEMYIJRCVXPFZY.jpg?auth=ac4a96de6961ed0f172cca12822101544c63c4cc5d5dcae461e4f0549d5a35e4&width=1200",
+        "tags": [
+            "escultura",
+            "cig",
+            "vigo",
+            "galicia",
+            "comisiones obreras",
+            "huelgas generales",
+            "franquismo",
+            "monumentos",
+            "huelgas",
+            "españa",
+            "sindicatos",
+            "abel caballero",
+            "memoria histórica",
+            "psdeg-psoe"
+        ],
+        "link": "https://elpais.com/espana/galicia/2024-11-16/caballero-se-resiste-a-colocar-un-monumento-a-la-insurreccion-obrera-de-vigo-de-1972-por-exhibir-una-estrella-roja.html",
+        "date": "2024-11-16 04:00:00",
+        "sentiment_score": -0.7764795310795307
+    },
+    {
+        "title": "\"Andalucía es el ejemplo de cómo conseguir que la gente deje el coche en casa y se suba al tren\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7c5770e7-1bed-4e01-86f5-39b372e52079_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elcorreoweb.es/economia/2024/11/16/entrevista-trainline-pedro-garcia-viajes-en-tren-andalucia-110721480.html",
+        "date": "2024-11-16 06:01:15",
+        "sentiment_score": -0.028323888778686523
+    },
+    {
+        "title": "Retos y oportunidades del turismo sostenible en Bardenas Reales",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/29b69571-810c-435d-a91b-80e68804f14f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.noticiasdenavarra.com/foro-hiria/2024/11/16/retos-oportunidades-turismo-sostenible-bardenas-8939111.html",
+        "date": "2024-11-16 06:00:36",
+        "sentiment_score": 0.18686430156230927
+    },
+    {
+        "title": "Raúl Tamudo: “Cuando metí el Tamudazo lo que recordé fue que el año anterior nos habían cantado ¡A Segunda, a Segunda!”",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/11/tamudazo-750x375.jpeg",
+        "tags": [
+            "entrevista",
+            "raúl tamudo",
+            "actualidad",
+            "espanyol"
+        ],
+        "link": "https://lagradaonline.com/raul-tamudo-entrevista-espanyol/",
+        "date": "2024-11-16 05:55:58",
+        "sentiment_score": -0.16476185619831085
+    },
+    {
+        "title": "Tendencias 2024: Visionarios y expertos del sector, debaten el futuro de la tecnología, educación y salud mental en Madrid",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2020/10/foto-educaixa-jovenes-emprendedores-os-la-caixa-1-1024x683.jpeg",
+        "tags": [
+            "sociedad",
+            "salud mental",
+            "educación",
+            "eventos"
+        ],
+        "link": "https://www.economiadigital.es/sociedad/tendencias-2024-expertos-debaten-tecnologia-educacion-salud-mental.html",
+        "date": "2024-11-16 05:55:00",
+        "sentiment_score": 0.6342048961669207
+    },
+    {
+        "title": "Dinero, drogas y corrupción policial o en los puertos: un combo letal",
+        "image_url": "https://s1.elespanol.com/2024/11/08/espana/899670913_250735548_1706x960.jpg?contentId=ESPIMA20241108_0889",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/20241116/dinero-drogas-corrupcion-policial-puertos-combo-letal/901410418_0.html",
+        "date": "2024-11-16 05:50:00",
+        "sentiment_score": -0.7446383610367775
+    },
+    {
+        "title": "La explosión del transporte público en Málaga: mueve ya a casi 182.000 personas todos los días",
+        "image_url": "https://s1.elespanol.com/2024/01/17/actualidad/825677747_239189753_1706x960.jpg?contentId=ESPIMA20240117_0323",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/malaga-ciudad/20241116/explosion-transporte-publico-malaga-mueve-personas-dias/901409931_0.html",
+        "date": "2024-11-16 05:50:00",
+        "sentiment_score": 0.5088979750871658
+    },
+    {
+        "title": "Otras miradas - La respuesta está en el feminismo",
+        "image_url": "http://www.publico.es//uploads/2024/11/16/241116061544_europapress_5813181_decenas_mujeres_manifestacion_8m_marzo_2024_barcelona_catalunya_espana.jpg",
+        "tags": [
+            "external"
+        ],
+        "link": "https://blogs.publico.es/otrasmiradas/88521/la-respuesta-esta-en-el-feminismo/",
+        "date": "2024-11-16 05:15:44",
+        "sentiment_score": -0.08376720547676086
+    },
+    {
+        "title": "Cayetano Martínez de Irujo: \"Los últimos años de mi madre sentí su amor y eso me llenó para siempre\"",
+        "image_url": "https://okdiario.com/look/img/2024/11/15/u122411_013-1-224x140.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/cayetano-martinez-irujo-ultimos-anos-madre-senti-amor-eso-lleno-siempre-2155169",
+        "date": "2024-11-16 05:00:28",
+        "sentiment_score": 0.23350149393081665
+    },
+    {
+        "title": "Codazos para comprar una vivienda: por qué hay gente que paga hasta un 10% más del precio de venta",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PQZENKCYZRESJC2TWMXUXBQL4A.jpg?auth=8f09123b93d5354b7ec688b5d87b07b9f202a8f249ec1f2ddcc8fb5eb4543d81&width=1200",
+        "tags": [
+            "economía",
+            "vivienda segunda mano",
+            "agencias inmobiliarias",
+            "hipotecas",
+            "vivienda",
+            "negocios",
+            "construcción viviendas",
+            "mercado inmobiliario"
+        ],
+        "link": "https://elpais.com/economia/negocios/2024-11-16/codazos-para-comprar-una-vivienda-por-que-hay-gente-que-paga-hasta-un-10-mas-del-precio-de-venta.html",
+        "date": "2024-11-16 04:45:00",
+        "sentiment_score": -0.7550571113824844
+    },
+    {
+        "title": "Del ‘salvaje Este’ al lujoso Bernabéu: cómo el barrio de Chamartín cambió el rumbo de Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EQC6BRGXBZEYRGZTWN3MRDY4UE.jpg?auth=d717147ee8a3e5a84a91a0e07caee329f20082d3355a56beb62aa3f667e5d759&width=1200",
+        "tags": [
+            "urbanismo",
+            "arquitectura",
+            "estilo vida",
+            "madrid",
+            "chamartín",
+            "ciudades sostenibles",
+            "historia"
+        ],
+        "link": "https://elpais.com/icon-design/2024-11-16/del-salvaje-este-al-lujoso-bernabeu-como-el-barrio-de-chamartin-cambio-el-rumbo-de-madrid.html",
+        "date": "2024-11-16 04:30:00",
+        "sentiment_score": -0.49342111498117447
+    },
+    {
+        "title": "Júlia Coll, concursant de La Travessa: «La Travessa és un repte, et posa al límit físicament i mentalment»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8f6d1dc6-c6e9-4f8c-ab62-8c27aa76a481_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/ido/2024/11/16/julia-coll-concursant-travessa-travessa-111712137.html",
+        "date": "2024-11-16 06:05:51",
+        "sentiment_score": -0.2960759997367859
+    },
+    {
+        "title": "Viaje al centro de la tierra con Geointegral, expertos en tecnología geotérmica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/99fb9d9a-392d-44bb-8b15-d20e1f8cd2ff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.epe.es/es/activos/20241116/viaje-centro-tierra-geointegral-expertos-110917547",
+        "date": "2024-11-16 06:05:16",
+        "sentiment_score": 0.47894427366554737
+    },
+    {
+        "title": "El transporte alerta de que 20 años de obras pendientes en la red ferroviaria de Zaragoza lastran su potencial",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c169706-d813-4969-82b1-3458754b4354_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/aragon/2024/11/16/transporte-alerta-20-anos-obras-111735621.html",
+        "date": "2024-11-16 06:01:17",
+        "sentiment_score": -0.20594583451747894
+    },
+    {
+        "title": "Estas son las imágenes que estarán en besamanos extraordinario con motivo del Congreso de Hermandades de Sevilla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eb6cc464-02f4-4d6f-b0aa-8ba94ab51b52_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/semana-santa/2024/11/16/son-imagenes-estaran-besamanos-extraordinario-111437843.html",
+        "date": "2024-11-16 06:01:15",
+        "sentiment_score": 0.36952194571495056
+    },
+    {
+        "title": "\"Los robots harán desaparecer muchos trabajos, pero crearán otros que ahora desconocemos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/25e89896-022c-493c-9b58-a8fbcf88a11f_16-9-aspect-ratio_default_1338481.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/aragon/2024/11/16/robots-haran-desaparecer-trabajos-crearan-111726237.html",
+        "date": "2024-11-16 06:01:10",
+        "sentiment_score": 0.07147659361362457
+    },
+    {
+        "title": "Conectividad, talento y calidad de vida hacen de las Islas Canarias el lugar idóneo para trabajar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b67b07b-f327-40fd-bffb-cded3e77da9d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2024/11/16/diversificacion-economica-incentivos-fiscales-islas-malaga-111628164.html",
+        "date": "2024-11-16 06:01:00",
+        "sentiment_score": 0.6205245740711689
+    },
+    {
+        "title": "La ley de zonas inundables desaconseja escuelas y ambulatorios en el barrio de las Tres Xemeneies del Besòs",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7c94521-0cda-49e1-a9d4-eaf268bdc22f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/badalona/20241116/zonas-inundables-tres-chimeneas-sant-adria-escuelas-ambulatorios-111661729",
+        "date": "2024-11-16 06:00:35",
+        "sentiment_score": -0.2187654674053192
+    },
+    {
+        "title": "Cómo conseguir que un 'médico robot' no sea peor que un humano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/42dea406-de0b-4a34-9843-2a45238070f6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20241116/medico-robot-sea-peor-humano-111694736",
+        "date": "2024-11-16 06:00:30",
+        "sentiment_score": -0.8735534390434623
+    },
+    {
+        "title": "Un gran museo oculto dentro de un viejo hospital de Barcelona",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/11/15/3E918F9D-7FD6-4506-861D-113AB34A21B3/imagen-interior-nuevo-espacio-museografico_96.jpg?crop=8688%2C4887%2Cx0%2Cy480&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/gran-museo-oculto-dentro-viejo-hospital-barcelona_20241116673834f1b747ad000183ffd2.html",
+        "date": "2024-11-16 06:00:17",
+        "sentiment_score": 0.22769909352064133
     }
 ];
