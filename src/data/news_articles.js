@@ -139,76 +139,6 @@ export default [
         "sentiment_score": -0.14581556618213654
     },
     {
-        "title": "Macron defiende el poder de disuasión del arsenal nuclear de Francia frente a los enemigos de Europa",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/rutte-macron-RCzyjk4ulA2WR7cscVO67FN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/macron-defiende-poder-disuasion-arsenal-nuclear-francia-20241112143258-nt.html",
-        "date": "2024-11-12 13:32:58",
-        "sentiment_score": 0.07013913989067078
-    },
-    {
-        "title": "Vuelven a Italia los últimos inmigrantes deportados a Albania tras una decisión de la Justicia italiana",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/fotonoticia_20241104195616_690(1)-kZUE-U603337470131td-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/vuelven-italia-ultimos-inmigrantes-deportados-albania-tras-20241112135809-nt.html",
-        "date": "2024-11-12 12:58:09",
-        "sentiment_score": -0.1498071700334549
-    },
-    {
-        "title": "La OTAN tiene tres veces más armamento que Rusia, excepto el nuclear",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/nato-reuters-Rzn3iIeU4rYWPLItBmWG1wK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/otan-tres-veces-armamento-rusia-excepto-nuclear-20241112131703-nt.html",
-        "date": "2024-11-12 12:17:51",
-        "sentiment_score": -0.14328375458717346
-    },
-    {
-        "title": "Irán anuncia la construcción de su primer «túnel defensivo» en Teherán tras los últimos bombardeos israelíes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/12/1480007007-kf0F-U60333795664604-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/iran-anuncia-construccion-primer-tunel-defensivo-teheran-20241112130032-nt.html",
-        "date": "2024-11-12 12:00:32",
-        "sentiment_score": -0.31166160106658936
-    },
-    {
-        "title": "Del desconcierto al caos: esto es lo que pasaría si el mundo se quedase sin internet durante 24 horas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/11/12/tecnologia-R1nKovsGHPfvqbkkDH6ZdkI-1200x840@diario_abc.JPG",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/desconcierto-caos-pasaria-mundo-quedase-internet-horas-20241112125937-nt.html",
-        "date": "2024-11-12 11:59:37",
-        "sentiment_score": -0.232553169131279
-    },
-    {
-        "title": "La Inspección de Trabajo se revuelve contra Yolanda Díaz y le insta a que evite «cualquier politización del cuerpo»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/12/1488039299-RAmp5jQHmCKwocFrs8tkm3H-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/inspeccion-trabajo-revuelve-yolanda-diaz-insta-evite-20241112124840-nt.html",
-        "date": "2024-11-12 11:54:10",
-        "sentiment_score": -0.07462014257907867
-    },
-    {
-        "title": "Una científica trató con éxito su propio cáncer con virus cultivados en su laboratorio",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/12/virus-cancer-Rfhba0X02tGGnjoQyYVSWGK-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/cientifica-trato-exito-propio-cancer-virus-cultivados-20241112122536-nt.html",
-        "date": "2024-11-12 11:27:05",
-        "sentiment_score": -0.05274048447608948
-    },
-    {
         "title": "La Policía detiene al presunto culpable de vandalizar 26 coches en Usera",
         "image_url": "https://imagenes.elpais.com/resizer/v2/FBCDCM2TPZAEBCV7AVWMNWTQTA.jpg?auth=cde5b54615631f972c77fb5ab3640f2dfba69d7458e39b71765dd9c7ca64b0ad&width=1200",
         "tags": [
@@ -347,65 +277,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-12/el-pacto-fiscal-entre-psoe-y-sumar-revienta-el-bloque-de-investidura-a-derechas-e-izquierdas.html",
         "date": "2024-11-12 15:12:56",
         "sentiment_score": -0.9249928761273623
-    },
-    {
-        "title": "Guerra por las terrazas en Barcelona entre vecinos y el Gremio de Restauración",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NBGOXMJNGVCT5CRHH5QEUGTK54.jpg?auth=1b1f0f71a8631dd5a6fce78dd9d0d2d67d6fc4c3b129e2173798b3906a2675d3&width=1200",
-        "tags": [
-            "asociaciones vecinos",
-            "turismo masivo",
-            "espacio público",
-            "favb",
-            "ordenanzas municipales",
-            "vecinos",
-            "restauración",
-            "ayuntamiento barcelona",
-            "bares",
-            "cataluña",
-            "terrazas verano",
-            "barcelona",
-            "turismo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-12/guerra-por-las-terrazas-en-barcelona-entre-vecinos-y-el-gremio-de-restauracion.html",
-        "date": "2024-11-12 13:54:08",
-        "sentiment_score": -0.742102449759841
-    },
-    {
-        "title": "Los vecinos de la mancomunidad de San Cristóbal en Madrid quieren que un juez impida a los niños jugar en sus accesos a la salida del cole",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7E7FBS4Y7RCEPA2F6O3HNHUHBA.jpg?auth=332f3680fca0c428f445e79de20ed073514762c690a5c6129bc3e07888dc9682&width=1200",
-        "tags": [
-            "colegios públicos",
-            "educación infantil",
-            "ayuntamiento madrid",
-            "más madrid",
-            "educación primaria",
-            "urbanismo",
-            "parques y jardines",
-            "comunidad de madrid",
-            "colegios",
-            "madrid",
-            "plazas"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-12/los-vecinos-de-la-mancomunidad-de-san-cristobal-en-madrid-quieren-que-un-juez-impida-a-los-ninos-jugar-en-sus-accesos-a-la-salida-del-cole.html",
-        "date": "2024-11-12 13:40:45",
-        "sentiment_score": -0.8137023355811834
-    },
-    {
-        "title": "Sánchez lleva la tragedia de Valencia a la cumbre Bakú: “No es un hecho aislado, el cambio climático mata, debemos actuar”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S3ZHEPLPE6CEYOLXR5O6B7GFGE.jpg?auth=b28e3d82e995b09ddf78e566aaeebf221aa967d950195b31f74788de5f479295&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "inundaciones dana octubre 2024",
-            "españa",
-            "pedro sánchez alemán",
-            "bakú",
-            "cambio climático",
-            "dana",
-            "cop29 cambio climático"
-        ],
-        "link": "https://elpais.com/espana/2024-11-12/sanchez-lleva-la-tragedia-de-valencia-a-la-cumbre-baku-no-es-un-hecho-aislado-el-cambio-climatico-mata-debemos-actuar.html",
-        "date": "2024-11-12 13:31:43",
-        "sentiment_score": 0.2884334623813629
     },
     {
         "title": "Ceuta Femenino-Atlético Torcal, el martes 26 a las 18:30 en el ‘Molina’",
@@ -6511,5 +6382,313 @@ export default [
         "link": "https://elpais.com/america-colombia/2024-11-15/colsubsidio-cierra-sus-supermercados-lo-que-hay-que-saber.html",
         "date": "2024-11-15 21:28:36",
         "sentiment_score": 0.13974345475435257
+    },
+    {
+        "title": "Tormenta tropical Sara deja inundaciones y miles afectados en Honduras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tormenta-tropical-sara-honduras-inundaciones-panorama-mundial-tv",
+        "date": "2024-11-16 01:53:49",
+        "sentiment_score": -0.88629084918648
+    },
+    {
+        "title": "Tormenta tropical Sara deja inundaciones y miles afectados en Honduras",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782198-tormenta-tropical-sara.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "tormenta tropical",
+            "honduras"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tormenta-tropical-sara-honduras-inundaciones-panorama-mundial-tv/",
+        "date": "2024-11-16 01:53:49",
+        "sentiment_score": -0.8815735634416342
+    },
+    {
+        "title": "Iglesia católica de México se manifiesta por la violencia en el país",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/iglesia-inseguridad-sacerdotes-asesinados-perspectivas-mexico-tv",
+        "date": "2024-11-16 01:47:55",
+        "sentiment_score": -0.3319636657834053
+    },
+    {
+        "title": "Iglesia católica de México se manifiesta por la violencia en el país",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179136069.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/iglesia-inseguridad-sacerdotes-asesinados-perspectivas-mexico-tv/",
+        "date": "2024-11-16 01:47:55",
+        "sentiment_score": -0.7946890573948622
+    },
+    {
+        "title": "Esto opinan los rusos sobre Elon Musk y los elegidos por Trump para su gabinete",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782121-trump2.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "estados unidos noticias",
+            "rusia"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/rusos-musk-proxima-administracion-de-trump-trax/",
+        "date": "2024-11-16 01:35:21",
+        "sentiment_score": -0.127102330327034
+    },
+    {
+        "title": "El equipo de transición de Trump quedó sorprendido por la acusación contra Hegseth",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/pete-hegseth-gettyimages-1167012750-20241115235221505.jpg?quality=100&strip=info",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/hegseth-trump-equipo-transicion-trax/",
+        "date": "2024-11-16 01:22:13",
+        "sentiment_score": -0.470144622027874
+    },
+    {
+        "title": "¿Habrá redadas de indocumentados y deportaciones masivas en EE.UU.?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-945287448.jpg?c=original&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/redadas-policiales-inmigrantes-centros-trabajo-eeuu-oppenheimer-presenta-tv-fast",
+        "date": "2024-11-16 00:46:01",
+        "sentiment_score": -0.41974968649446964
+    },
+    {
+        "title": "Juez dictamina que Melissa Lucio, la única mujer hispana en el corredor de la muerte de Texas, es inocente",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782181-h-15675464.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "pena de muerte",
+            "texas",
+            "judicial"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/15/juez-melissa-lucio-mujer-hispana-muerte-texas-inocente-trax/",
+        "date": "2024-11-16 00:40:21",
+        "sentiment_score": -0.7363377269357443
+    },
+    {
+        "title": "St. Vincent agradece a sus fans hispanos con álbum en español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/st-vincent-album-espanol-grammy-perspectivas-mexico-tv",
+        "date": "2024-11-16 00:28:31",
+        "sentiment_score": 0.6423860341310501
+    },
+    {
+        "title": "Video: Stallone compara a Trump con George Washington",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1215421-sylvester-stallone-invita-a-mexicanos-a-sacar-los-guantes-para-una-clase-de-boxeo.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "celebridades",
+            "estados unidos noticias",
+            "sylvester stallone",
+            "videos digitales",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sylvester-stallone-compara-trump-george-washington-ush-trax/",
+        "date": "2024-11-16 00:14:30",
+        "sentiment_score": -0.134170800447464
+    },
+    {
+        "title": "Dana e inundaciones en Valencia: resumen del 15/11/202",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/L3GGHPG3VZDPJMY4PQDRNJK67M.jpg?auth=26063bcbec55832ba5212181ba3e411ad2d043515146ff338d22c03c3a396433&width=1200",
+        "tags": [
+            "viento",
+            "lluvia",
+            "dana",
+            "inundaciones",
+            "españa",
+            "meteorología",
+            "inundaciones dana octubre 2024",
+            "castilla-la mancha",
+            "murcia",
+            "temporales",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/2024-11-16/ultima-hora-de-la-dana-en-directo.html",
+        "date": "2024-11-15 22:58:04",
+        "sentiment_score": -0.7575673572719097
+    },
+    {
+        "title": "Huerta Carabaña y el rescate del sabor perdido: tomates, verduras, aceite... que compran particulares, la Casa Real y hasta el Papa",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/e0633e288435a3f94256899aec75eef5/crop/254x228/2998x2057/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/15/17316817822124.jpg",
+        "tags": [
+            "madrid",
+            "sostenibilidad",
+            "comer",
+            "gastronomía"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2024/11/16/672a38c4fdddff0e858b458d.html",
+        "date": "2024-11-16 02:07:21",
+        "sentiment_score": 0.25546807050704956
+    },
+    {
+        "title": "Jorge Freire: \"Detesto a Pedro Sánchez, pero es inmortal y va a durar más que Felipe. Tiene virtudes que no ha tenido ningún presidente\"",
+        "image_url": "https://s1.elespanol.com/2024/11/15/reportajes/entrevistas/901420256_250902549_1706x960.jpg?contentId=ESPIMA20241115_0407",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241116/jorge-freire-detesto-pedro-sanchez-inmortal-va-durar-felipe-virtudes-no-ningun-presidente/901409991_0.html",
+        "date": "2024-11-16 01:57:44",
+        "sentiment_score": -0.6220611706376076
+    },
+    {
+        "title": "El clan del jefe de Blanqueo de la Policía que escondía 20 millones en su casa tenía asesores fiscales a sueldo",
+        "image_url": "https://s1.elespanol.com/2024/11/08/espana/899670913_250735548_1706x960.jpg?contentId=ESPIMA20241108_0889",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241116/clan-jefe-blanqueo-policia-escondia-millones-casa-asesores-fiscales-sueldo/901410364_0.html",
+        "date": "2024-11-16 01:56:05",
+        "sentiment_score": -0.5938090197741985
+    },
+    {
+        "title": "Duques, restauradores y artistas... 'Madrid Chic', el libro que descubre a la verdadera alta sociedad madrileña",
+        "image_url": "https://s1.elespanol.com/2024/11/15/actualidad/901421020_250926267_1706x960.jpg?contentId=ESPIMA20241115_1171",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20241116/duques-restauradores-artistas-madrid-chic-libro-descubre-verdadera-alta-sociedad-madrilena/900910373_0.html",
+        "date": "2024-11-16 01:12:20",
+        "sentiment_score": 0.2006746083498001
+    },
+    {
+        "title": "El 'cliente incógnito virtual' que emula al ojo humano y alerta a los bancos con antelación sobre las incidencias de los usuarios",
+        "image_url": "https://s1.elespanol.com/2024/11/15/invertia/disruptores/america-tech/901420094_250897537_1706x960.jpg?contentId=ESPIMA20241115_0245",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/america-tech/20241116/cliente-incognito-virtual-emula-ojo-humano-alerta-bancos-antelacion-incidencias-usuarios/901409925_0.html",
+        "date": "2024-11-16 00:48:15",
+        "sentiment_score": 0.6362588964402676
+    },
+    {
+        "title": "El último negocio común entre el Barça y el Real Madrid: a subasta las taquillas de sus jugadores más emblemáticos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/15/culemania/palco/901419851_13728730_1706x960.jpg?contentId=ESPIMA20241115_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241116/el-el-barca-real-madrid-taquillas-emblematicos/901409851_0.html",
+        "date": "2024-11-16 00:46:35",
+        "sentiment_score": 0.5223457664251328
+    },
+    {
+        "title": "La hegemonía del Barça Femenino corre peligro: Michele Kang planea aterrizar en España",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/16/culemania/palco/901669829_13734681_1706x960.jpg?contentId=ESPIMA20241116_0005",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241116/la-hegemonia-barca-femenino-michele-kang-espana/901409992_0.html",
+        "date": "2024-11-16 00:36:30",
+        "sentiment_score": -0.616858221590519
+    },
+    {
+        "title": "El agua que bebía Felipe II",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/14/OCH_monasterioescorial_007-Rk0pXQM1TPZkUEqkghXtFsJ-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/escorial-patrimonio-agua-humanidad-20241114140900-ntrc.html",
+        "date": "2024-11-15 23:25:59",
+        "sentiment_score": -0.0018364787101745605
+    },
+    {
+        "title": "Madrid se pone a prueba como anfitriona de Eurovisión Junior",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/16/euroviswion-junior-k7FB-U23020656534c2B-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/culturas/musica/madrid-pone-prueba-anfitriona-eurovision-junior-20241116002203-ntrc.html",
+        "date": "2024-11-15 23:22:05",
+        "sentiment_score": -0.031244903802871704
+    },
+    {
+        "title": "El nuevo Junts de Puigdemont se pone en marcha: un arma para presionar a Sánchez y unir al separatismo",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/74c7568e0f13351bbd2d907a69c5cae4/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/15/17316928498827.jpg",
+        "tags": [
+            "artículos víctor mondelo"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2024/11/16/6737886de85ecee10f8b4597.html",
+        "date": "2024-11-16 02:07:14",
+        "sentiment_score": -0.518754169344902
+    },
+    {
+        "title": "El revolucionario sistema para que las placas solares guarden energía durante meses y se pueda usar para calentar la casa",
+        "image_url": "https://s1.elespanol.com/2024/11/11/omicrono/tecnologia/900420723_250789916_1706x960.jpg?contentId=ESPIMA20241111_0774",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20241116/revolucionario-sistema-placas-solares-guarden-energia-meses-pueda-usar-calentar-casa/900410315_0.html",
+        "date": "2024-11-16 01:56:45",
+        "sentiment_score": 0.707910941913724
+    },
+    {
+        "title": "\"Perra sarnosa, mamona\": detenido el hombre de 71 años que envió cartas con amenazas e insultos a diputadas del PP",
+        "image_url": "https://s1.elespanol.com/2024/11/15/espana/politica/901421116_250929095_1706x960.jpg?contentId=ESPIMA20241115_1267",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241116/perra-sarnosa-mamona-detenido-hombre-anos-envio-cartas-amenazas-insultos-diputadas-pp/901410305_0.html",
+        "date": "2024-11-16 01:56:30",
+        "sentiment_score": -0.45822321251034737
+    },
+    {
+        "title": "George Harris cierra en Valencia su exitosa gira europea",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "entretenimiento",
+            "george harris"
+        ],
+        "link": "https://www.elnacional.com/entretenimiento/george-harris-cierra-en-valencia-su-exitosa-gira-europea/",
+        "date": "2024-11-16 00:54:51",
+        "sentiment_score": 0.47401973605155945
+    },
+    {
+        "title": "Ni Via Veneto ni Botafumeiro: el restaurante de Barcelona donde Hansi Flick coincide con exdirectivos del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/11/culemania/primer-equipo/900419979_13706392_1706x960.jpg?contentId=ESPIMA20241111_0030",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/cule-bron/20241116/via-veneto-botafumeiro-barcelona-hansi-flick-barca/901159919_0.html",
+        "date": "2024-11-16 00:51:47",
+        "sentiment_score": 0.044811271131038666
+    },
+    {
+        "title": "Así es el nuevo hotel que construirá el Barça en la Ciutat Esportiva: otro lujo para los bolsillos más VIP",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/15/culemania/palco/901419850_13728700_1706x960.jpg?contentId=ESPIMA20241115_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241116/asi-el-construira-barca-ciutat-esportiva-vip/901409979_0.html",
+        "date": "2024-11-16 00:46:43",
+        "sentiment_score": 0.5995326228439808
+    },
+    {
+        "title": "Tamara Suju sobre caso de Jesús Martínez: «Lo dejaron morir»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "venezuela",
+            "tamara suju",
+            "política"
+        ],
+        "link": "https://www.elnacional.com/venezuela/tamara-suju-sobre-caso-de-jesus-martinez-lo-dejaron-morir/",
+        "date": "2024-11-16 00:43:41",
+        "sentiment_score": -0.8333334606140852
+    },
+    {
+        "title": "Ministerio Público lamenta fallecimiento del ciudadano Jesús Martínez",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2023/11/1200px-Ministerio_Publico_en_Caracas_Venezuela.jpg",
+        "tags": [
+            "sucesos",
+            "ministerio público",
+            "fallecimiento",
+            "esús martínez",
+            "zxgeneral"
+        ],
+        "link": "https://ultimasnoticias.com.ve/noticias/general/ministerio-publico-lamenta-fallecimiento-del-ciudadano-jesus-martinez/",
+        "date": "2024-11-16 00:29:45",
+        "sentiment_score": -0.804114249534905
     }
 ];
