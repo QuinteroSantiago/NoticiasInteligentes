@@ -1,216 +1,5 @@
 export default [
     {
-        "title": "Cristina Kirchner defiende su inocencia y denuncia un intento de proscripción",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/13/cristina-fernandez-kjMC-U6033416678370xD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/cristina-kirchner-defiende-inocencia-denuncia-intento-proscripcion-20241113064445-nt.html",
-        "date": "2024-11-13 06:07:28",
-        "sentiment_score": -0.08023792505264282
-    },
-    {
-        "title": "Los hutíes reivindican ataques contra un portaaviones y dos destructores estadounidenses cerca de Yemen",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/13/1411957547-knUC-U603341737121LyB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/huties-reivindican-ataques-portaaviones-dos-destructores-estadounidenses-20241113070425-nt.html",
-        "date": "2024-11-13 06:04:26",
-        "sentiment_score": -0.19293634593486786
-    },
-    {
-        "title": "La ONU afirma que el \"patrón\" de los ataques israelíes indican una \"violación sistemática\" del Derecho Internacional",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241113073043_120.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-onu-afirma-patron-ataques-israelies-indican-violacion-sistematica-derecho-internacional-20241113073043.html",
-        "date": "2024-11-13 06:30:43",
-        "sentiment_score": -0.696317795664072
-    },
-    {
-        "title": "La enfermería castiga al Madrid",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/6bed81a1-abcf-f83d-b8203b661cccbf6f.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z6bed8060-d04b-1593-fdad7a0cae216a95/202411/la-enfermeria-castiga-al-madrid",
-        "date": "2024-11-13 06:20:47",
-        "sentiment_score": -0.8888637274503708
-    },
-    {
-        "title": "Empleados ante la alerta roja por la dana: no tienen que ir a trabajar",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1123777",
-        "date": "2024-11-13 06:13:16",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Los beneficios del perfil genómico integral en cáncer: más tratamientos personalizados y mejores resultados",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241113070850_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-beneficios-perfil-genomico-integral-cancer-mas-tratamientos-personalizados-mejores-resultados-20241113070850.html",
-        "date": "2024-11-13 06:08:50",
-        "sentiment_score": 0.22269511967897415
-    },
-    {
-        "title": "Sofía de Rodríguez, la 'influencer' que estaría saliendo con Vinícius Jr. según Javier de Hoyos",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/12/la-influencer-sofia-rodriguez-y-vinicuis-junior.png",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5653468/0/asi-es-sofia-rodriguez-influencer-que-estaria-saliendo-con-vinicius-jr-segun-javier-hoyos/",
-        "date": "2024-11-13 06:07:14",
-        "sentiment_score": -0.2304268330335617
-    },
-    {
-        "title": "El sistema de información al viajero en Chamartín tiene sello palentino",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/12/chamartin.01-kUZC-U2201806953924Sg-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/palencia/sistema-informacion-viajero-chamartin-sello-palentino-20241113070255-nt.html",
-        "date": "2024-11-13 06:02:55",
-        "sentiment_score": -0.09711506590247154
-    },
-    {
-        "title": "Historias de esperanza y solidaridad en la reconstrucción de Valencia",
-        "image_url": "https://www.hola.com/horizon/landscape/96935c07e83d-braislorenzo-x7nov2024-rosalia-abraza-voluntario.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20241113729589/historias-esperanza-solidaridad-reconstruccion-valencia/",
-        "date": "2024-11-13 05:59:43",
-        "sentiment_score": -0.5724083110690117
-    },
-    {
-        "title": "Ana Guerra y Víctor Elías nos invitan a su emocionante boda llena de estrellas",
-        "image_url": "https://www.hola.com/horizon/landscape/55de2dc0ce51-portadamontajehorizontal-copia.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20241113729489/ana-guerra-victor-elias-emocionante-boda-llena-de-estrellas/",
-        "date": "2024-11-13 05:57:59",
-        "sentiment_score": -0.24718665331602097
-    },
-    {
-        "title": "Película 'El 47': 50 años después y el bus sigue sin llegar",
-        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/a00d64ca/weary-8375125_1280.jpg?v=63898656484",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elsaltodiario.com/transporte-publico/pelicula-47-50-anos-despues-bus-sigue-llegar",
-        "date": "2024-11-13 05:15:00",
-        "sentiment_score": -0.4437705371528864
-    },
-    {
-        "title": "Carles Abellan (asesor del Bar Vint-i-quatre): \"Soy ex empresario y cocinero. Nada más\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/591b770c-77d4-4f56-ad7c-63adf988f5b5_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241113/restaurante-vint-i-quatre-barcelona-carles-abellan-111626202",
-        "date": "2024-11-13 06:20:32",
-        "sentiment_score": -0.2668267637491226
-    },
-    {
-        "title": "Lo que debes saber hoy, 13 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/04/vivir-en-barcelona/898670188_13670040_1706x960.jpg?contentId=ESPIMA20241104_0064",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241113/lo-que-debes-saber-hoy-de-noviembre-barcelona/900909904_0.html",
-        "date": "2024-11-13 06:19:18",
-        "sentiment_score": -0.5391644090414047
-    },
-    {
-        "title": "El Nacional cumple 10 años (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4ca65c0d-400a-4e59-a7db-65082011e979_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241113/nacional-cumple-10-anos-noticias-111406327",
-        "date": "2024-11-13 06:18:42",
-        "sentiment_score": 0.7183026298880577
-    },
-    {
-        "title": "Córdoba, en el top 10 de las ciudades con mejor política de movilidad de España",
-        "image_url": "https://static.grupojoly.com/clip/a6f88207-4c22-4e36-b532-0c4fadff3cf2_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordoba/cordoba-top-10-ciudades-movilidad-espana_0_2002774913.html",
-        "date": "2024-11-13 06:01:53",
-        "sentiment_score": 0.31661709398031235
-    },
-    {
-        "title": "La perla azulgrana que jugaba con balones de papel de periódico y cinta adhesiva",
-        "image_url": "https://static1.ara.cat/clip/d40350f9-ae43-43bf-b6cf-204c68a06c17_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/perla-azulgrana-jugaba-balones-papel-periodico-cinta-adhesiva_130_5199717.html",
-        "date": "2024-11-13 06:00:21",
-        "sentiment_score": -0.2959350347518921
-    },
-    {
-        "title": "Condenados en Zaragoza por robar muestrarios de joyas valorados en 600.000 euros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/23188abd-e248-4248-8300-9414995e6aa7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/caso-abierto/sucesos-aragon/2024/11/13/condenados-zaragoza-robar-muestrarios-joyas-111633731.html",
-        "date": "2024-11-13 06:00:20",
-        "sentiment_score": -0.24546228349208832
-    },
-    {
-        "title": "El chocolate premium catalán que se hace entre viñedos: ¿de dónde sale Simón Coll?",
-        "image_url": "https://static1.ara.cat/clip/f9eb9d4a-8e7d-4f3b-a932-bd63aafdb392_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/economia/empresas/chocolate-premium-catalan-vinedos-sale-simon-coll_1_5199710.html",
-        "date": "2024-11-13 06:00:17",
-        "sentiment_score": -0.1656719446182251
-    },
-    {
-        "title": "Dani Pérez y Reyes Maroto «sellan una alianza» por la vivienda",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be29d3ec-54bb-4b30-a742-3d462964acce_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2024/11/13/dani-perez-reyes-maroto-alianza-por-vivienda-111629643.html",
-        "date": "2024-11-13 06:00:13",
-        "sentiment_score": 0.19575649499893188
-    },
-    {
-        "title": "Venden el complejo logístico construido en la antigua Bacardí por 60 millones de euros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9ec8ee51-cecb-4490-a73e-bbb2d508f467_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2024/11/13/venden-complejo-logistico-construido-antigua-111628757.html",
-        "date": "2024-11-13 06:00:10",
-        "sentiment_score": 0.03504548966884613
-    },
-    {
-        "title": "Germanor interterritorial",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1f749a7-c6fd-4ebb-8942-3947b67f3d4b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/cultura/panorama/2024/11/13/germanor-interterritorial-111623170.html",
-        "date": "2024-11-13 06:00:06",
-        "sentiment_score": -0.22851818799972534
-    },
-    {
         "title": "Protestan por la inseguridad en Perú a la par de la cumbre del Foro de Cooperación Económica Asia-Pacífico",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183594120.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6036,5 +5825,398 @@ export default [
         "link": "https://www.mundodeportivo.com/motor/motogp/20241116/1002354241/jornada-sabado-gp-solidario-barcelona-imagenes.html",
         "date": "2024-11-16 16:48:44",
         "sentiment_score": 0.0444510392844677
+    },
+    {
+        "title": "El impacto que producirían los aumentos de aranceles de Trump a los autos o sus componentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2092448011.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "autos",
+            "fast – news variety",
+            "xpress",
+            "aranceles",
+            "economía de estados unidos",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-aranceles-autos-precio-aumento-economia-eeuu-mexico-acero-cnn-dinero-tv-fast/",
+        "date": "2024-11-16 20:44:28",
+        "sentiment_score": -0.06647174060344696
+    },
+    {
+        "title": "El impacto que producirían los aumentos de aranceles de Trump a los autos o sus componentes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-aranceles-autos-precio-aumento-economia-eeuu-mexico-acero-cnn-dinero-tv-fast",
+        "date": "2024-11-16 20:44:28",
+        "sentiment_score": -0.2074955254793167
+    },
+    {
+        "title": "“Fue a cazar mujeres”: inicia juicio contra migrante venezolano acusado de asesinar a una estudiante universitaria en Georgia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-horiz-3-20241116203453838.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/juicio-asesinato-laken-riley-jose-ibarra-universidad-georgia-ush-trax/",
+        "date": "2024-11-16 20:39:09",
+        "sentiment_score": -0.8160872831940651
+    },
+    {
+        "title": "“Fue a cazar mujeres”: inicia juicio contra migrante venezolano acusado de asesinar a una estudiante universitaria en Georgia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-horiz-3-20241116203453838.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/juicio-asesinato-laken-riley-jose-ibarra-universidad-georgia-ush-trax",
+        "date": "2024-11-16 20:39:09",
+        "sentiment_score": -0.8170873802155256
+    },
+    {
+        "title": "Macron y Milei se reúnen en Buenos Aires: ¿por qué este encuentro puede ser clave para Argentina y Francia?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782381-france-argentina-politics-diplomacy.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/16/macron-milei-buenos-aires-encuentro-clave-argentina-francia-orix/",
+        "date": "2024-11-16 19:54:19",
+        "sentiment_score": 0.24183258414268494
+    },
+    {
+        "title": "Tropas israelíes realizan la incursión más profunda hasta ahora en el sur del Líbano, mientras Hezbollah considera una nueva propuesta de alto el fuego",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782361-libano.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "israel noticias",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/16/israel-incursion-mas-profunda-libano-trax/",
+        "date": "2024-11-16 18:55:34",
+        "sentiment_score": -0.1204013079404831
+    },
+    {
+        "title": "Caracas sale a las calles para ver la última superluna de 2024",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-02-00-00-00-00-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/superluna-2024-caracas-venezuela-orix/",
+        "date": "2024-11-16 18:34:10",
+        "sentiment_score": 0.7043642178177834
+    },
+    {
+        "title": "Caracas sale a las calles para ver la última superluna de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/superluna-2024-caracas-venezuela-orix",
+        "date": "2024-11-16 18:34:10",
+        "sentiment_score": 0.025705918669700623
+    },
+    {
+        "title": "Esta experiencia de Airbnb en el Coliseo ofrece un particular momento a solas después del anochecer",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/airbnb-experiencia-gladiator-coliseo-roma-trax",
+        "date": "2024-11-16 18:12:02",
+        "sentiment_score": 0.4019201546907425
+    },
+    {
+        "title": "Esta experiencia de Airbnb en el Coliseo ofrece un particular momento a solas después del anochecer",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/e5c6daac880d4feea3fb9e89837c6046-00000-copy-20241116180758154.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/airbnb-experiencia-gladiator-coliseo-roma-trax/",
+        "date": "2024-11-16 18:12:02",
+        "sentiment_score": 0.23124010860919952
+    },
+    {
+        "title": "La España ideologizada",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/17/espana-ideologia-enfrentamiento-RcCaItieXFGKlsIrbp385SO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-espana-ideologizada-20241117225913-nts.html",
+        "date": "2024-11-16 21:59:13",
+        "sentiment_score": -0.10894407331943512
+    },
+    {
+        "title": "Política bajo la tormenta",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/17/parlamento-andaluz-presidente-RoLIYsEiFmNNJ3QW838a8SL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-politica-bajo-tormenta-20241117225903-nts.html",
+        "date": "2024-11-16 21:59:03",
+        "sentiment_score": -0.12583094835281372
+    },
+    {
+        "title": "Óscar, el gladiador",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/11/12/luciano%20montaje-U21517772116FXu-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/oscar-gladiador-20241117225902-nts.html",
+        "date": "2024-11-16 21:59:03",
+        "sentiment_score": -0.08519750833511353
+    },
+    {
+        "title": "La magia cofrade",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/29/viudedad-U33685404401QDL-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-magia-cofrade-20241117225836-nts.html",
+        "date": "2024-11-16 21:58:36",
+        "sentiment_score": -0.044758498668670654
+    },
+    {
+        "title": "El regalo de sufrir",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/06/soy-dueno-almazara-mes-bajara-precio-aceite-kbgE--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-regalo-sufrir-20241117225726-nts.html",
+        "date": "2024-11-16 21:57:32",
+        "sentiment_score": -0.08103451132774353
+    },
+    {
+        "title": "El misterio sin resolver de Ineco y Tragsa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/17/1482448569_20241116215615-RgodCUx2VSikBNNoEDJG3KJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-misterio-resolver-ineco-tragsa-20241117225659-nts.html",
+        "date": "2024-11-16 21:56:59",
+        "sentiment_score": -0.08267396688461304
+    },
+    {
+        "title": "Ni Cavias ni Ruanos",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/11/14/salon-kScC--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-cavias-ruanos-20241117132943-nt.html",
+        "date": "2024-11-16 19:23:40",
+        "sentiment_score": -0.13296781480312347
+    },
+    {
+        "title": "La ley del silencio",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/10/29/viudedad-U33685404401QDL-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-ley-silencio-20241117132026-nt.html",
+        "date": "2024-11-16 18:38:27",
+        "sentiment_score": -0.2137434482574463
+    },
+    {
+        "title": "Un auténtico 'plan Marshall' para Valencia",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/17/1488565550-U82561577875vmM-1200x630@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-autentico-plan-marshall-valencia-20241117192025-nt.html",
+        "date": "2024-11-16 18:37:16",
+        "sentiment_score": -0.6043229922652245
+    },
+    {
+        "title": "El hombre occidental se odia a sí mismo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/17/TERCERAABC_Autoodio_Brague-RIgpYekiMidbM7cf6ouMyvK-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/remi-brague-hombre-occidental-odia-20241117135319-nt.html",
+        "date": "2024-11-16 18:31:59",
+        "sentiment_score": -0.18272049725055695
+    },
+    {
+        "title": "Abel Caballero prende la Navidad de Vigo con un mensaje de “solidaridad y dolor”: “Forza Valencia”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/345KEHG57VMVJZ7YPI32MIXDPI.jpg?auth=27204ff2c5d86cdeb2fc22fe9fd162eb3cfa1434a23d28727ce5c10080b7c28f&width=1200",
+        "tags": [
+            "abel caballero",
+            "españa",
+            "galicia",
+            "navidad",
+            "vigo"
+        ],
+        "link": "https://elpais.com/espana/galicia/2024-11-16/abel-caballero-prende-la-navidad-de-vigo-con-un-mensaje-de-solidaridad-y-dolor-forza-valencia.html",
+        "date": "2024-11-16 22:05:55",
+        "sentiment_score": 0.15320374071598053
+    },
+    {
+        "title": "La actuación de España en la final de Eurovisión Junior 2024",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZLP3KUDLI5FUVDD7EAGBWHVMLU.jpg?auth=b6af5b99d6c498101c9588ba872383a147a2ec6ea08d40948aa435f1f3874fb7&width=1200",
+        "tags": [
+            "festival eurovisión",
+            "caja mágica",
+            "madrid",
+            "música",
+            "televisión",
+            "festival eurovisión junior",
+            "festivales música"
+        ],
+        "link": "https://elpais.com/videos/2024-11-16/la-actuacion-de-espana-en-la-final-de-eurovision-junior-2024.html",
+        "date": "2024-11-16 18:46:01",
+        "sentiment_score": 0.24120614305138588
+    },
+    {
+        "title": "À Punt rompe con el fantasma de Canal 9 y reconecta con la ciudadanía por su cobertura de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RHEUMABFJVBLLMIOGIXSOJCIHA.jpg?auth=f250388cfc12c4e239348d4843e1c7ccab9c3b143e03ea57f4f2a1c2a2db1057&width=1200",
+        "tags": [
+            "españa",
+            "política",
+            "carlos mazón",
+            "à punt",
+            "inundaciones dana octubre 2024",
+            "canal 9",
+            "televisión pública",
+            "pp",
+            "generalitat valenciana"
+        ],
+        "link": "https://elpais.com/espana/2024-11-16/a-punt-rompe-con-el-fantasma-de-canal-nou-y-reconecta-con-la-ciudadania-por-su-cobertura-de-la-dana.html",
+        "date": "2024-11-16 18:31:42",
+        "sentiment_score": -0.7991817817091942
+    },
+    {
+        "title": "El Intercity se enfrenta al Fuenlabrada sin margen de error",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/baabdfb3-6f06-4c31-a572-6eda237246dc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/deportes/2024/11/16/intercity-recibe-fuenlabrada-margen-error-111758447.html",
+        "date": "2024-11-16 22:08:35",
+        "sentiment_score": 0.5064453631639481
+    },
+    {
+        "title": "España construye menos viviendas que nunca: el déficit habitacional alcanza niveles críticos (e históricos)",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2024/11/construccion-vivienda.jpg",
+        "tags": [
+            "vivienda",
+            "te interesa",
+            "mercado del alquiler",
+            "inmobiliario"
+        ],
+        "link": "https://www.economiadigital.es/inmobiliario/espana-deficit-habitacional-escasez-vivienda.html",
+        "date": "2024-11-16 21:55:00",
+        "sentiment_score": -0.8975697727873921
+    },
+    {
+        "title": "La peña madridista de La Fresneda celebra la niña bonita: \"Las cosas ahora ya no son como antes\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8336d002-ad7c-4a02-aeaf-4456940fc01c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/siero/2024/11/16/pena-madridista-fresneda-celebra-nina-111405136.html",
+        "date": "2024-11-16 21:20:02",
+        "sentiment_score": -0.106668621301651
+    },
+    {
+        "title": "El Barcelona castiga al Madrid con otra goleada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7ccdfb91-6c64-446e-9744-88f1d0cc04ea_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2024/11/16/barcelona-castiga-madrid-goleada-111756851.html",
+        "date": "2024-11-16 21:17:46",
+        "sentiment_score": 0.42275577783584595
+    },
+    {
+        "title": "El Barcelona repite goleada ante el Real Madrid y sigue dominando 'El Clásico' de la Liga F",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/16/67390bb1059cf.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/barcelona-repite-goleada-real-madrid-sigue-dominando-clasico-liga-f-20241116_3047364.html",
+        "date": "2024-11-16 21:17:31",
+        "sentiment_score": 0.00573691725730896
+    },
+    {
+        "title": "Tres acertantes se llevan casi 67.000 euros en La Primitiva de este sábado",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/11/10/63713230-kJ4G-U2201785303700n5H-1200x840@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/tres-acertantes-llevan-67000-euros-primitiva-sabado-20241116231405-nt.html",
+        "date": "2024-11-16 22:14:06",
+        "sentiment_score": 0.3459325209259987
+    },
+    {
+        "title": "El área metropolitana de Barcelona concentra la mitad de las víctimas de siniestros de tráfico en Catalunya",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/75fc8c0e-d139-4f61-884f-99ce9b3451ef_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20241117/siniestros-trafico-barcelona-2023-victimas-111726319",
+        "date": "2024-11-16 22:00:09",
+        "sentiment_score": -0.4207700677216053
+    },
+    {
+        "title": "El conductor que circula por Santiago con un Ford A de los años 30",
+        "image_url": "https://cflvdg.avoz.es/sc/QpKE1di4HHp8F6Th3Xm0948ZG9A=/768x/2024/11/12/00121731416042074935560/Foto/S_20241112_134733000.jpg",
+        "tags": [
+            "pontecesures",
+            "transporte",
+            "tráfico",
+            "jaguar",
+            "santiago ciudad",
+            "touro"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/santiago/santiago/2024/11/12/compostelano-circula-santiago-ford-anos-30/00031731411014190122304.htm",
+        "date": "2024-11-16 21:57:00",
+        "sentiment_score": 0.06226017326116562
+    },
+    {
+        "title": "Jardineros submarinos para restaurar nuestras costas",
+        "image_url": "http://www.publico.es//uploads/2024/11/14/67363a0f033c2.png",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "http://www.publico.es/sociedad/jardineros-submarinos-restaurar-costas.html",
+        "date": "2024-11-16 21:27:00",
+        "sentiment_score": 0.36189818382263184
+    },
+    {
+        "title": "Esta es la palabra en castellano de origen catalán que todos usan para pedir café en Cataluña",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/25f01aad-9340-4715-817f-bcd41e1abf3c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/sociedad/2024/11/16/palabra-castellano-origen-catalan-pedir-111756890.html",
+        "date": "2024-11-16 21:25:56",
+        "sentiment_score": 0.11106500029563904
+    },
+    {
+        "title": "Calles cortadas por la Cursa de la Dona en Barcelona: más de 30 líneas de bus sin servicio",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/16/movilidad/901669886_13736433_1706x960.jpg?contentId=ESPIMA20241116_0062",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20241115/estas-son-las-lineas-de-bus-afectadas-este-domingo-por-la-cursa-dona-en-barcelona/901409960_0.html",
+        "date": "2024-11-16 21:25:05",
+        "sentiment_score": -0.7766845412552357
+    },
+    {
+        "title": "Oriol Junqueras: \"Con nosotros, ERC no estará en el Govern solo por el hecho de estar en él\"",
+        "image_url": "http://www.publico.es//uploads/2024/11/15/673682eadb241.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "http://www.publico.es/politica/oriol-junqueras-erc-no-estara-govern-hecho.html",
+        "date": "2024-11-16 21:24:00",
+        "sentiment_score": -0.1811031550168991
+    },
+    {
+        "title": "Tres acertantes de la Primitiva ganan 67.000 euros y el bote sube a 10,5 millones",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/16/administracion-de-loterias.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5654943/0/primitiva-acertantes-ganan-miles-euros-bote-sube-millones/",
+        "date": "2024-11-16 21:23:28",
+        "sentiment_score": 0.3204420804977417
     }
 ];
