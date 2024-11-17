@@ -166,46 +166,6 @@ export default [
         "sentiment_score": -0.1259375512599945
     },
     {
-        "title": "La patronal catalana insta a Junts y PNV a frenar en el Congreso el «infierno fiscal» impulsado desde el Gobierno",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/13/NoguerasEsteban-RqFo1neinUQiPn65m6WoHaO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/patronal-catalana-insta-junts-pnv-frenar-congreso-20241113144845-nt.html",
-        "date": "2024-11-13 13:50:23",
-        "sentiment_score": -0.09305712580680847
-    },
-    {
-        "title": "Aena pierde la pugna con Avialliance por los aeropuertos británicos de Ferrovial",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/13/1474646973-RZ6ffhoHfh2MDv0ABIAR28N-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aena-pierde-pugna-avialliance-aeropuertos-britanicos-ferrovial-20241113143340-nt.html",
-        "date": "2024-11-13 13:39:51",
-        "sentiment_score": -0.07896989583969116
-    },
-    {
-        "title": "El Gobierno italiano estudia congelar el envío de inmigrantes a Albania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/13/albania-RhSbWJwfQgsZOVzVsWYmurL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/gobierno-italiano-estudia-congelar-envio-inmigrantes-albania-20241113143656-nt.html",
-        "date": "2024-11-13 13:39:17",
-        "sentiment_score": -0.16382573544979095
-    },
-    {
-        "title": "El Banco de España califica de «crucial» que las entidades mantengan su posición de solvencia en el entorno actual",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/13/soledad-nunez-RWuqStuCyMTx5Ib6su133rI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/banco-espana-califica-crucial-entidades-mantengan-posicion-20241113143111-nt.html",
-        "date": "2024-11-13 13:31:56",
-        "sentiment_score": -0.03636878728866577
-    },
-    {
         "title": "El Ayuntamiento de Madrid presenta su plan para prohibir los pisos turísticos dispersos en el centro",
         "image_url": "https://imagenes.elpais.com/resizer/v2/4FEEEXSO4NBQVNSAKVU2CN4V6Q.jpg?auth=e17cfd6ee48ebad6ad5f8f97ab6ab0ad647d916ca7f8c365e12a4634ef7214b4&width=1200",
         "tags": [
@@ -294,94 +254,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-11-13/el-cambio-climatico-llega-al-parlament.html",
         "date": "2024-11-13 14:30:47",
         "sentiment_score": -0.8493623025715351
-    },
-    {
-        "title": "La Fiscalía pide al Constitucional que investigue las denuncias por torturas sufridas durante el franquismo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NFHV35OTUVB6HEQCSFFRUY7S4Q.jpg?auth=a78f33ebfe7418342d793aed78f9f2727c7d746945ce47b612cb781900075543&width=1200",
-        "tags": [
-            "memoria histórica",
-            "fiscalía",
-            "justicia",
-            "franquismo",
-            "tortura",
-            "tribunal constitucional",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-13/la-fiscalia-pide-al-constitucional-que-investigue-las-denuncias-por-torturas-sufridas-durante-el-franquismo.html",
-        "date": "2024-11-13 14:02:10",
-        "sentiment_score": -0.02594718337059021
-    },
-    {
-        "title": "Mazón cesará a dos consejeras y creará una vicepresidencia para la reconstrucción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FYDQ2XD4J5CNPJSLMVENZGRU2I.jpg?auth=4509d621994d9e1cd65e96895eeaee7880378a7bfde42abf342c01c8497ed71a&width=1200",
-        "tags": [
-            "dana",
-            "generalitat valenciana",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "carlos mazón",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-13/mazon-cesara-a-dos-consejeras-y-creara-una-vicepresidencia-para-la-reconstruccion.html",
-        "date": "2024-11-13 13:56:31",
-        "sentiment_score": 0.10336363315582275
-    },
-    {
-        "title": "La reconexión de Valencia con los municipios del sur arranca a medio gas por el temor a la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NLF4MXBUVFGFJNDLIJSNHPQZ2Y.JPG?auth=ade3a7ed4dd4bae580c2c9c8dd1e7d34b870936244967e07ea1a59c2bd81804e&width=1200",
-        "tags": [
-            "inundaciones dana octubre 2024",
-            "españa",
-            "comunidad valenciana",
-            "trenes",
-            "valencia",
-            "autobuses",
-            "transporte",
-            "dana",
-            "transporte público"
-        ],
-        "link": "https://elpais.com/espana/2024-11-13/la-reconexion-de-valencia-con-los-municipios-del-sur-arranca-a-medio-gas-por-el-temor-a-la-dana.html",
-        "date": "2024-11-13 13:36:01",
-        "sentiment_score": -0.3866531401872635
-    },
-    {
-        "title": "El juez Peinado suspende la citación de Begoña Gómez del próximo lunes por su viaje a la cumbre del G-20",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S5RXLXV3Z5F2HGMKBFCITXXQKI.jpg?auth=82e51f155e49558ad20f3a6bb8a5f23c9f2caef9d39e736c8be0e28febce7cb5&width=1200",
-        "tags": [
-            "delitos",
-            "españa",
-            "corrupción",
-            "ucm",
-            "jueces",
-            "investigación judicial",
-            "pedro sánchez",
-            "psoe",
-            "begoña gómez fernández",
-            "brasil",
-            "juan carlos peinado",
-            "justicia"
-        ],
-        "link": "https://elpais.com/espana/2024-11-13/el-juez-peinado-suspende-la-citacion-de-begona-gomez-del-proximo-lunes-por-su-viaje-a-la-cumbre-del-g-20.html",
-        "date": "2024-11-13 13:33:29",
-        "sentiment_score": -0.54213972017169
-    },
-    {
-        "title": "Feijóo pide al Gobierno que retire la candidatura de Teresa Ribera a la Comisión Europea",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M23SKRBAJOUHJ5QC7I2HHMYOGY.jpg?auth=a1666dfba943bcbba6ff459838e6dc62c94d83a0ec3f68a7b0369256f85c7589&width=1200",
-        "tags": [
-            "inundaciones dana octubre 2024",
-            "españa",
-            "psoe",
-            "ppe - partido popular europeo",
-            "comisario europeo",
-            "alberto núñez feijóo",
-            "pp",
-            "teresa ribera",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/2024-11-13/feijoo-pide-al-gobierno-que-retire-la-candidatura-de-teresa-ribera-a-la-comision-europea.html",
-        "date": "2024-11-13 13:26:12",
-        "sentiment_score": -0.14545827358961105
     },
     {
         "title": "\"Te la están colando\": la asociación de familias numerosas cree que las razones de no tener hijos son \"excusas\"",
@@ -6218,5 +6090,286 @@ export default [
         "link": "https://www.20minutos.es/noticia/5654943/0/primitiva-acertantes-ganan-miles-euros-bote-sube-millones/",
         "date": "2024-11-16 21:23:28",
         "sentiment_score": 0.3204420804977417
+    },
+    {
+        "title": "Joe Biden se reúne con Xi Jinping en la cumbre APEC en Perú. Mira los puntos clave",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184468533.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apec-peru-reunion-biden-xi-jinping-mirador-mundial-tv/",
+        "date": "2024-11-17 01:44:24",
+        "sentiment_score": 0.17735527455806732
+    },
+    {
+        "title": "Joe Biden se reúne con Xi Jinping en la cumbre APEC en Perú. Mira los puntos clave",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apec-peru-reunion-biden-xi-jinping-mirador-mundial-tv",
+        "date": "2024-11-17 01:44:24",
+        "sentiment_score": 0.15419001132249832
+    },
+    {
+        "title": "Lo que debes saber sobre Miss Universo 2024",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184895451.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/miss-universo-2024-mexico-mirador-mundial-tv/",
+        "date": "2024-11-17 01:43:20",
+        "sentiment_score": 0.24426905624568462
+    },
+    {
+        "title": "Mara Topic, la representante de Ecuador en Miss Universo 2024",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1703678-miss-universo-ecuador-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "ecuador"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/16/mara-topic-miss-universo-ecuador-orix/",
+        "date": "2024-11-17 00:54:47",
+        "sentiment_score": 0.1127876415848732
+    },
+    {
+        "title": "Liberan a personas detenidas en protestas electorales en Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2165041531.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "arrestos",
+            "venezuela",
+            "fast – news variety",
+            "venezuela noticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/70-personas-liberadas-en-venezuela-mirador-mundial-tv-fast/",
+        "date": "2024-11-17 00:06:30",
+        "sentiment_score": -0.6153878159821033
+    },
+    {
+        "title": "Video de la Fuerza Aérea de EE. UU. muestra un enjambre de drones iraníes atacando a Israel",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/raf-lakenheath-06-20241116235602858.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-fuerza-aerea-ee-uu-drones-de-iran-hacia-israel-trax",
+        "date": "2024-11-17 00:03:33",
+        "sentiment_score": -0.7092588804662228
+    },
+    {
+        "title": "Video de la Fuerza Aérea de EE. UU. muestra un enjambre de drones iraníes atacando a Israel",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/raf-lakenheath-06-20241116235602858.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "israel noticias",
+            "israel",
+            "medio oriente",
+            "ataques con drones",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-fuerza-aerea-ee-uu-drones-de-iran-hacia-israel-trax/",
+        "date": "2024-11-17 00:03:33",
+        "sentiment_score": -0.39960213005542755
+    },
+    {
+        "title": "Trump elige a Chris Wright, CEO de una empresa de \"fracking\", como próximo secretario del Departamento de Energía",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782424-c-2018-01-12t163351z-271494944-rc17a507b500-rtrmadp-3-usa-stocks.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/16/trump-elige-chris-wright-ceo-fracking-secretario-energia-trax/",
+        "date": "2024-11-16 23:35:30",
+        "sentiment_score": -0.057254642248153687
+    },
+    {
+        "title": "Las tres noticias destacadas de la tarde en del 16 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184257693.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-16-de-noviembre-2024-mirador-tarde-tv-fast",
+        "date": "2024-11-16 23:30:54",
+        "sentiment_score": 0.15037070773541927
+    },
+    {
+        "title": "¿Cumplirá Trump sus promesas de deportaciones masivas?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782239-choque-de-opiniones-analiza-las-ultimas-y-controversiales-designaciones-del-gabinete-de-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-deportaciones-masivas-mexico-opina-tv-fast/",
+        "date": "2024-11-16 23:21:26",
+        "sentiment_score": -0.7889817170798779
+    },
+    {
+        "title": "La mejor compañía",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/17/banco-central.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-mejor-compania-20241117015000-nt.html",
+        "date": "2024-11-17 00:50:11",
+        "sentiment_score": -0.09152153134346008
+    },
+    {
+        "title": "Día Mundial contra el Cáncer de Pulmón: visibilidad, detección precoz e investigación",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/11/15/DSC_3628.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/dia-mundial-cancer-pulmon-visibilidad-deteccion-precoz-20241117173912-nt.html",
+        "date": "2024-11-16 23:23:01",
+        "sentiment_score": -0.11640289425849915
+    },
+    {
+        "title": "Teresa Ribera, la 'ministra desaparecida': sólo tuvo agenda oficial 16 días en los dos meses previos a la DANA",
+        "image_url": "https://s1.elespanol.com/2024/11/15/actualidad/901420845_250920668_1706x960.jpg?contentId=ESPIMA20241115_0996",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241117/teresa-ribera-ministra-desaparecida-solo-agenda-oficial-dias-meses-previos-dana/901410318_0.html",
+        "date": "2024-11-17 02:05:20",
+        "sentiment_score": -0.3231312483549118
+    },
+    {
+        "title": "El asalto al Banco Central, desde dentro: la psicosis del 23-F hizo creer al Gobierno que se enfrentaba a un golpe de Estado",
+        "image_url": "https://s1.elespanol.com/2024/11/15/espana/politica/901420727_250916969_1706x960.jpg?contentId=ESPIMA20241115_0878",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241117/asalto-banco-central-dentro-psicosis-hizo-creer-gobierno-enfrentaba-golpe/901410252_0.html",
+        "date": "2024-11-17 02:04:04",
+        "sentiment_score": -0.14972753822803497
+    },
+    {
+        "title": "María Méndez sufre en su primer Clásico la dictadura del Barça",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0ab5e8a1-2c91-4891-9cb1-8c762d8dcbf2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2024/11/17/maria-mendez-sufre-primer-clasico-111760131.html",
+        "date": "2024-11-17 01:55:05",
+        "sentiment_score": 0.30162213742733
+    },
+    {
+        "title": "El Bayern se suma a la puja por el delantero Jonathan David",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/17/2024111702533860565.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/bayern-suma-puja-delantero-jonathan-david/20241117025423324282.html",
+        "date": "2024-11-17 01:54:23",
+        "sentiment_score": 0.6580584347248077
+    },
+    {
+        "title": "El Barça femenino se lleva el Clásico femenino con una nueva exhibición",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/17/2024111702360032236.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/patri-lidera-nuevo-recital-barca-clasico-femenino/20241117023714324280.html",
+        "date": "2024-11-17 01:37:14",
+        "sentiment_score": 0.6218522973358631
+    },
+    {
+        "title": "Tercera sentencia por la caja B del PP",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4d4143ed-ca8f-49af-a65a-c770210c1e21_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/editorial/2024/11/17/tercera-sentencia-caja-b-pp-8941862.html",
+        "date": "2024-11-17 01:13:22",
+        "sentiment_score": -0.17780502140522003
+    },
+    {
+        "title": "Laporta respira a costa del Real Madrid: dos goleadas (0-4) que refuerzan al presidente del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/17/culemania/palco/901919802_13736703_1706x960.jpg?contentId=ESPIMA20241117_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241117/laporta-del-real-madrid-refuerzan-presidente-barca/901909801_0.html",
+        "date": "2024-11-17 00:53:44",
+        "sentiment_score": 0.7508881762623787
+    },
+    {
+        "title": "La ambigüedad del Barça con Montjuïc, como el perro del hortelano: ni se queda, ni descarta salir",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/08/09/culemania/palco/785431630_8410851_1706x960.jpg?contentId=ESPIMA20230809_0181",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241117/la-ambiguedad-del-barca-montjuic-hortelano-ni/901409982_0.html",
+        "date": "2024-11-17 00:50:40",
+        "sentiment_score": -0.37616075575351715
+    },
+    {
+        "title": "José Mercé, el 'superventas' del flamenco: \"Cuando murió mi hijo, roto de dolor, fue mi mujer la que me cogió de la mano y me dijo: 'Tenemos otras dos hijas y tú no sabes más que cantar, así que súbete al escenario'\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/50caa98c548cf5832aaf243509716a14/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/16/17317701328926.jpg",
+        "tags": [
+            "artículos daniel izeddin"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/11/17/6738b24521efa003038b4589.html",
+        "date": "2024-11-17 00:26:03",
+        "sentiment_score": 0.6557646095752716
+    },
+    {
+        "title": "Podemos ya extraer varias enseñanzas de la tragedia valenciana",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/05/2024110519194860465.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/podemos-extraer-varias-ensenanzas-tragedia-valenciana/20241117011901324265.html",
+        "date": "2024-11-17 00:19:01",
+        "sentiment_score": -0.8552641309797764
+    },
+    {
+        "title": "Azcón: \"El único que me ha llamado para decir que Valencia necesita ayuda es Mazón, ni los ministerios ni la Moncloa\"",
+        "image_url": "https://s1.elespanol.com/2024/11/16/espana/politica/901670206_250942530_1706x960.jpg?contentId=ESPIMA20241116_0382",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241117/azcon-unico-llamado-decir-valencia-necesita-ayuda-mazon-ministerios-moncloa/901659957_0.html",
+        "date": "2024-11-17 02:02:05",
+        "sentiment_score": -0.7828752286732197
+    },
+    {
+        "title": "Un ecuatoriano se queja de que todo está cerrado los domingos en Barcelona y crispa a toda España: \"¿Qué hacen?\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/12/6732db93796f4.png",
+        "tags": [
+            "barcelona provincia"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/noticias/ecuatoriano-queja-cerrado-domingos-barcelona-crispa-toda-espana-20241117_3044073.html",
+        "date": "2024-11-17 01:55:00",
+        "sentiment_score": -0.1489783525466919
+    },
+    {
+        "title": "Enrique Criado tiene en Marbella la única clínica de Europa que clona a tu perro y a tu gato muerto: \"Ayuda al duelo\"",
+        "image_url": "https://s1.elespanol.com/2024/11/16/actualidad/901670000_250936154_1706x960.jpg?contentId=ESPIMA20241116_0176",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241117/enrique-criado-marbella-unica-clinica-europa-clona-perro-gato-muerto-ayuda-duelo/901410105_0.html",
+        "date": "2024-11-17 01:30:00",
+        "sentiment_score": 0.4381606727838516
+    },
+    {
+        "title": "El silencio ensordecedor sustituye al rugido de las motos en el circuito de Cheste, afectado por la DANA",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/11/16/B47D6A8C-F092-49F1-8B28-21A317EFB1C1/entradas-oficiales-circuito-esta-desierta-dia-que-empezarian-llegar-mas-200000-personas_96.jpg?crop=4080%2C2295%2Cx0%2Cy391&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "comunidad valenciana"
+        ],
+        "link": "https://www.larazon.es/comunidad-valenciana/silencio-ensordecedor-sustituye-rugido-motos-circuito-cheste-afectado-dana_20241117673942e4b747ad000184e1aa.html",
+        "date": "2024-11-17 01:12:04",
+        "sentiment_score": -0.7221995294094086
+    },
+    {
+        "title": "El nuevo Camp Nou sirve de inspiración al Betis y el Sevilla para reformar sus estadios",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/20/culemania/palco/879672097_13358052_1706x960.jpg?contentId=ESPIMA20240820_0073",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241117/el-camp-nou-inspiracion-betis-sevilla-reformar/901409974_0.html",
+        "date": "2024-11-17 00:50:46",
+        "sentiment_score": 0.34207928366959095
     }
 ];
