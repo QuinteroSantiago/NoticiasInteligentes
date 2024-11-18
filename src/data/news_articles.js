@@ -145,66 +145,6 @@ export default [
         "sentiment_score": -0.2987353205680847
     },
     {
-        "title": "La pandemia de la diabetes: más de 800 millones de adultos afectados y creciendo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/14/parche_diabates.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/pandemia-diabetes-800-millones-adultos-afectados-creciendo-20241114144537-nt.html",
-        "date": "2024-11-14 14:08:09",
-        "sentiment_score": -0.26233236491680145
-    },
-    {
-        "title": "Siemens cierra un año fiscal de récord: 8.301 millones de beneficio y eleva más de un 10% el dividendo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/14/siemens-R96IxC5EG4JglztbsFtUCUP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/siemens-cierra-ano-fiscal-beneficio-record-8301-20241114130423-nt.html",
-        "date": "2024-11-14 13:28:52",
-        "sentiment_score": 0.011045575141906738
-    },
-    {
-        "title": "La banca insta a los diputados 'in extremis' a que tumben en el Congreso el impuesto al sector",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/14/alejandra-kindelan-RdAijCbs5gcBir05N0TWr0M-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/banca-presiona-extremis-diputados-tumben-congreso-impuesto-20241114135119-nt.html",
-        "date": "2024-11-14 13:18:02",
-        "sentiment_score": -0.06019437313079834
-    },
-    {
-        "title": "Anticorrupción pide otros 59 años de cárcel para Villarejo por sus 'proyectos' para Iberdrola",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/14/Capturadepantalla2024-11-14134817-RkphthcaT6p2OWvit33WOyH-1200x840@diario_abc.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/anticorrupcion-pide-anos-carcel-villarejo-proyectos-iberdrola-20241114135444-nt.html",
-        "date": "2024-11-14 12:54:44",
-        "sentiment_score": -0.1740596890449524
-    },
-    {
-        "title": "El presidente de Lituania llama al nuevo Parlamento a la unidad con Europa y la OTAN",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/14/gitanas-Rx4uz6DRAIXKiEpzNcZswjN-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/presidente-lituania-llama-nuevo-parlamento-unidad-europa-20241114123359-nt.html",
-        "date": "2024-11-14 11:33:59",
-        "sentiment_score": -0.002272188663482666
-    },
-    {
-        "title": "Más de 1.000 empresas han solicitado un ERTE por fuerza mayor por la DANA para proteger a 14.463 trabajadores",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/14/yolandadiaz-RcC267AoVxzOV347Wfa9laL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/1000-empresas-solicitado-erte-fuerza-mayor-dana-20241114115439-nt.html",
-        "date": "2024-11-14 11:33:38",
-        "sentiment_score": -0.06398692727088928
-    },
-    {
         "title": "La becaria que denunció a Nacho Cano se ratifica en su declaración ante el juez",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -312,78 +252,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-11-14/un-40-de-los-catalanes-cree-que-la-lengua-catalana-esta-amenazada-y-puede-desaparecer.html",
         "date": "2024-11-14 14:48:47",
         "sentiment_score": -0.11465569213032722
-    },
-    {
-        "title": "Casi la mitad de las 216 víctimas mortales de la dana en Valencia tenían 70 o más años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TDJ2AHUB45D6VKOUFTJTQSMSXY.jpg?auth=33365690b6ef8ee6725c32d7026e426a76915b8290fd8432672197735f2421a7&width=1200",
-        "tags": [
-            "dana",
-            "comunidad valenciana",
-            "lluvia",
-            "inundaciones dana octubre 2024",
-            "víctimas",
-            "meteorología"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-14/casi-la-mitad-de-las-216-victimas-mortales-de-la-dana-en-valencia-tenian-70-o-mas-anos.html",
-        "date": "2024-11-14 14:10:25",
-        "sentiment_score": -0.48235873505473137
-    },
-    {
-        "title": "La consejera valenciana Nuria Montes, en una intervención de hace ocho meses: “Si algo bueno trae el cambio climático es precisamente la extensión de la temporada turística”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YGK26Q6UB5AMTOKLG7D2Q5V6GM.jpg?auth=9c96d2370f318f5659318544ecc89a587dfa9c363982ef2e77d74fb78e15546f&width=1200",
-        "tags": [
-            "españa",
-            "valencia",
-            "dana",
-            "inundaciones",
-            "nuria montes",
-            "desastres naturales",
-            "inundaciones dana octubre 2024",
-            "cambio climático"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-14/la-consejera-valenciana-nuria-montes-en-una-intervencion-de-hace-ocho-meses-si-algo-bueno-trae-el-cambio-climatico-es-precisamente-la-extension-de-la-temporada-turistica.html",
-        "date": "2024-11-14 14:09:51",
-        "sentiment_score": 0.07553354278206825
-    },
-    {
-        "title": "España regresa al órgano de gobernanza de la OMS veinte años después, con la incorporación de Mónica García",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/A63GOPRDQC7HCZS5M3B5A62SZQ.jpg?auth=5a70663694beb892299516ed76b66657b16f0e1acb8d8d0179162076b19128e1&width=1200",
-        "tags": [
-            "atención primaria",
-            "oms",
-            "sanidad",
-            "ministerio de sanidad",
-            "salud",
-            "mónica garcía gómez",
-            "sociedad"
-        ],
-        "link": "https://elpais.com/sociedad/2024-11-14/espana-regresa-al-organo-de-gobernanza-de-la-oms-veinte-anos-despues-con-la-incorporacion-de-monica-garcia.html",
-        "date": "2024-11-14 13:46:04",
-        "sentiment_score": 0.405242133885622
-    },
-    {
-        "title": "El Gobierno aplaza la votación de la reforma fiscal con el nuevo impuesto a las eléctricas ante la falta de mayoría",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3SNQ3H2WDZHH3A6Q2QLJRISEII.jpg?auth=fc54746f8f5e897afaf6c142a98e06a8255b54591472f786802e27d9f824e04f&width=1200",
-        "tags": [
-            "erc",
-            "psoe",
-            "votaciones",
-            "ministerio de economía, comercio y empresa",
-            "congreso diputados",
-            "hacienda pública",
-            "impuesto sociedades",
-            "pp",
-            "comisiones bancarias",
-            "maría jesús montero",
-            "españa",
-            "repsol",
-            "comisiones parlamentarias",
-            "impuestos",
-            "empresas multinacionales"
-        ],
-        "link": "https://elpais.com/espana/2024-11-14/el-gobierno-aplaza-la-votacion-de-la-reforma-fiscal-con-el-nuevo-impuesto-a-las-electricas-ante-la-falta-de-mayoria.html",
-        "date": "2024-11-14 13:34:12",
-        "sentiment_score": -0.6451943702995777
     },
     {
         "title": "El gestor cultural del Auditorio Teobaldo Power de 2007 a 2022 vincula su cierre a la DANA y a carecer siempre de plan de seguridad",
@@ -6192,5 +6060,258 @@ export default [
         "link": "https://www.mundiario.com/articulo/gente/cual-es-nueva-ocupacion-exfutbolista-dani-alves/20241117221153324355.html",
         "date": "2024-11-17 21:11:53",
         "sentiment_score": 0.04004529118537903
+    },
+    {
+        "title": "A una semana del balotaje en Uruguay, Orsi y Delgado protagonizan el primer debate presidencial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-uruguay-debate-orsi-delgado-mirador-mundial-tv",
+        "date": "2024-11-18 00:28:01",
+        "sentiment_score": 0.0931241475045681
+    },
+    {
+        "title": "A una semana del balotaje en Uruguay, Orsi y Delgado protagonizan el primer debate presidencial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181398377-20241118002651276.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-uruguay-debate-orsi-delgado-mirador-mundial-tv/",
+        "date": "2024-11-18 00:28:01",
+        "sentiment_score": 0.27399636805057526
+    },
+    {
+        "title": "Las claves de la reunión de Milei y Macron en Buenos Aires",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185246745.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/macron-milei-claves-reunion-buenos-aires-mirador-mundial-tv/",
+        "date": "2024-11-18 00:25:56",
+        "sentiment_score": -0.02906656265258789
+    },
+    {
+        "title": "Líderes salientes y entrantes participan de una cumbre del G-20 que promete ser \"de transición\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184635428.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cumbre del g20",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/g20-rio-de-janeiro-cumbre-cambios-mirador-mundial-tv/",
+        "date": "2024-11-18 00:23:51",
+        "sentiment_score": 0.11725960671901703
+    },
+    {
+        "title": "Discrepancia entre las cifras de excarcelaciones en Venezuela",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fiscalia-general-presos-politicos-excarcelaciones-venezuela-foro-penal-mirador-mundial-tv",
+        "date": "2024-11-18 00:21:52",
+        "sentiment_score": -0.5864538811147213
+    },
+    {
+        "title": "Discrepancia entre las cifras de excarcelaciones en Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184213937.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fiscalia-general-presos-politicos-excarcelaciones-venezuela-foro-penal-mirador-mundial-tv/",
+        "date": "2024-11-18 00:21:52",
+        "sentiment_score": -0.4295473974198103
+    },
+    {
+        "title": "Los usuarios están abandonando X, la red social de Elon Musk",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1786816830-20241118000616549.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "elon musk",
+            "fast – news variety",
+            "videos digitales",
+            "redes sociales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elon-musk-x-twitter-bluesky-usuarios-ush-trax/",
+        "date": "2024-11-18 00:12:29",
+        "sentiment_score": -0.7239355146884918
+    },
+    {
+        "title": "Muere portavoz de Hezbollah por ataque israelí durante propuestas de paz",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185250034.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "xpress",
+            "fast – news variety",
+            "guerra israel hezbollah"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muerte-portavoz-hezbollah-ataque-israel-mirador-mundial-tv/",
+        "date": "2024-11-18 00:11:59",
+        "sentiment_score": -0.8849663008004427
+    },
+    {
+        "title": "Muere portavoz de Hezbollah por ataque israelí durante propuestas de paz",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185250034.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muerte-portavoz-hezbollah-ataque-israel-mirador-mundial-tv",
+        "date": "2024-11-18 00:11:59",
+        "sentiment_score": -0.8211946859955788
+    },
+    {
+        "title": "¿En qué consiste la economía circular? Expertos lo explican",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/que-es-la-economia-circular-conectados-tv-fast",
+        "date": "2024-11-18 00:04:39",
+        "sentiment_score": -0.005785100162029266
+    },
+    {
+        "title": "ACS impulsa la movilidad sostenible en el Global Mobility Call 2024",
+        "image_url": "https://s1.elespanol.com/2024/11/12/actualidad/900670506_250852177_1706x960.jpg?contentId=ESPIMA20241112_0582",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/20241118/acs-impulsa-movilidad-sostenible-global-mobility-call/900660302_0.html",
+        "date": "2024-11-18 02:01:00",
+        "sentiment_score": 0.7890621460974216
+    },
+    {
+        "title": "«Las baterías en estado sólido duplicarán la autonomía de los vehículos»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/17/martin1-RXwyI47aN69tvZTR6LooC8O-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/motor/motoreco/baterias-estado-solido-duplicaran-autonomia-vehiculos-20241117083200-ntrc.html",
+        "date": "2024-11-18 01:51:27",
+        "sentiment_score": 0.2151736095547676
+    },
+    {
+        "title": "Carlos Sobera, tras 2.000 'First Dates': \"Cuando una mujer me dice que busca un empotrador, me quedo perplejo\"",
+        "image_url": "https://s1.elespanol.com/2024/11/15/reportajes/901420573_250912321_1706x960.jpg?contentId=ESPIMA20241115_0724",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241118/carlos-sobera-first-dates-mujer-dice-busca-empotrador-quedo-perplejo/901410068_0.html",
+        "date": "2024-11-18 01:39:55",
+        "sentiment_score": 0.4186633341014385
+    },
+    {
+        "title": "Este general portugués explica cómo funciona la misión de los europeos en un país africano agitado por el yihadismo",
+        "image_url": "https://s1.elespanol.com/2024/11/14/mundo/africa/901170767_250885007_1706x960.jpg?contentId=ESPIMA20241114_0893",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/africa/20241118/general-portugues-explica-funciona-mision-europeos-pais-africano-agitado-yihadismo/901160251_0.html",
+        "date": "2024-11-18 01:39:52",
+        "sentiment_score": -0.8980229934677482
+    },
+    {
+        "title": "La brecha digital en los servicios de taxi",
+        "image_url": "https://s1.elespanol.com/2024/11/17/invertia/opinion/901920247_250958270_1706x960.jpg?contentId=ESPIMA20241117_0448",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20241118/brecha-digital-servicios-taxi/902029793_12.html",
+        "date": "2024-11-18 01:30:00",
+        "sentiment_score": -0.6522529982030392
+    },
+    {
+        "title": "Así será por dentro el hotel de Robert de Niro en la nueva 'Milla de Oro' de Madrid: spa, restaurante y bar con azotea",
+        "image_url": "https://s1.elespanol.com/2024/11/15/madrid/capital/901420590_250912767_1706x960.jpg?contentId=ESPIMA20241115_0741",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241118/dentro-hotel-robert-niro-nueva-milla-oro-madrid-spa-restaurante-bar-azotea/901410004_0.html",
+        "date": "2024-11-18 01:30:00",
+        "sentiment_score": 0.42380547896027565
+    },
+    {
+        "title": "Hay final en la NSWL: Orlando Pride y Washington Spirit lucharán por el título",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP23316199985347.jpg",
+        "tags": [
+            "deportes",
+            "béisbol",
+            "nwsl"
+        ],
+        "link": "https://eldiariony.com/2024/11/17/hay-final-en-la-nswl-orlando-pride-y-washington-spirit-lucharan-por-el-titulo/",
+        "date": "2024-11-18 01:27:00",
+        "sentiment_score": 0.6305207759141922
+    },
+    {
+        "title": "Ni Mendes ni Zahavi: la agencia de representación que gana terreno en el Barça de Flick",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/22/empresas/796430351_8784289_1706x960.jpg?contentId=ESPIMA20230922_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241118/ni-mendes-zahavi-de-representacion-barca-flick/902159776_0.html",
+        "date": "2024-11-18 01:15:40",
+        "sentiment_score": 0.7093785181641579
+    },
+    {
+        "title": "El Barça cambia de rumbo: más cantera y fichajes muy selectivos en todos los equipos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/04/culemania/palco/883421651_13406475_1706x960.jpg?contentId=ESPIMA20240904_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241118/el-barca-cambia-cantera-fichajes-selectivos-equipos/901159954_0.html",
+        "date": "2024-11-18 01:14:54",
+        "sentiment_score": 0.2970754839479923
+    },
+    {
+        "title": "Laporta cierra el primer acuerdo de BLM tras el contrato con Nike: viaje fructífero a Mongolia",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/17/culemania/palco/901919817_13737155_1706x960.jpg?contentId=ESPIMA20241117_0018",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241118/laporta-el-blm-contrato-nike-fructifero-mongolia/901909858_0.html",
+        "date": "2024-11-18 00:48:04",
+        "sentiment_score": -0.020177006721496582
+    },
+    {
+        "title": "Jorge Martín se proclamó por primera vez campeón del mundo de MotoGP",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/197173/jorge-martin-se-proclamo-por-primera-vez-campeon-del-mundo-de-motogp/",
+        "date": "2024-11-18 00:40:45",
+        "sentiment_score": -0.4898655489087105
+    },
+    {
+        "title": "Entrevista al campeón de MotoGP y la importancia de la selección, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/18/673a85f66b735.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/entrevista-campeon-motogp-importancia-seleccion-tertulion-20241118_3047546.html",
+        "date": "2024-11-18 00:14:16",
+        "sentiment_score": -0.08397084474563599
+    },
+    {
+        "title": "Airbnb pasa a la ofensiva y carga contra Collboni por las restricciones a los pisos turísticos",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/4f78d704a146f3ed6035d6f579ddeaad/crop/205x137/1843x1229/resize/1200/f/webp/assets/multimedia/imagenes/2022/09/20/16636893465922.jpg",
+        "tags": [
+            "economía>",
+            "cataluña>",
+            "transporte y turismo>",
+            "política>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2024/11/18/673a5c19e5fdead41a8b4591.html",
+        "date": "2024-11-18 00:02:00",
+        "sentiment_score": -0.13701538741588593
+    },
+    {
+        "title": "Imanol Alguacil entrará en 'El club de los 300' en el partido de Copa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/23f536b0-fd2b-4528-b263-9fdf768b0efd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/11/18/imanol-alguacil-entrara-club-300-8944583.html",
+        "date": "2024-11-17 23:34:55",
+        "sentiment_score": 0.5850412026047707
     }
 ];
