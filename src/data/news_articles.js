@@ -116,96 +116,6 @@ export default [
         "sentiment_score": -0.05462229251861572
     },
     {
-        "title": "Descubren un nuevo fármaco para adelgazar que quema energía y reduce el apetito, sin náuseas ni vómitos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/15/adelgazar-pastillas-RdBd65oXbJBRuxGW3Y2NHqL-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/descubren-nuevo-farmaco-adelgazar-quema-energia-reduce-20241115144045-nt.html",
-        "date": "2024-11-15 13:40:46",
-        "sentiment_score": -0.0884813517332077
-    },
-    {
-        "title": "El Gobierno vuelve a vetar la rebaja del IVA a las peluquerías y el sector denuncia que les usan «como moneda de cambio»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/15/1488681933-RXTtOV2MmpVpmIc6zmvcOIJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-vuelve-vetar-rebaja-iva-peluquerias-sector-20241115143841-nt.html",
-        "date": "2024-11-15 13:39:17",
-        "sentiment_score": -0.13572688400745392
-    },
-    {
-        "title": "La UE aumenta el límite diario de consumo de sacarina al asegurar que «es segura para el ser humano»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/11/15/sacarina-kPyG-U603354954094QLB-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/ue-aumenta-limite-diario-consumo-sacarina-confirmar-20241115142439-nt.html",
-        "date": "2024-11-15 13:28:30",
-        "sentiment_score": -0.10597796738147736
-    },
-    {
-        "title": "El turismo en España se encarece: los paquetes vacacionales aumentan un 15% y los hoteles un 5% en octubre",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/15/turismo-RIbSmXbmrnpTEoOWoJJvakM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/turismo-espana-encarece-paquetes-vacacionales-aumentan-hoteles-20241115121036-nt.html",
-        "date": "2024-11-15 12:52:49",
-        "sentiment_score": -0.10185213387012482
-    },
-    {
-        "title": "En 2022 se crearon 301.406 empresas en España y desaparecieron 299.680, según el INE",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/15/empresa-R7Y1PS4zVvRriKEXoDrzQ9N-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/2022-nacieron-301406-empresas-espana-desaparecieron-299680-20241115125409-nt.html",
-        "date": "2024-11-15 12:44:10",
-        "sentiment_score": -0.10641595721244812
-    },
-    {
-        "title": "Jugamos a 'Dragon Age: The Veilguard': La saga vuelve llena de acción, pero escasa de rol",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/11/15/dragon-R22mvLDubG95QCMK9KRTsTN-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/videojuegos/jugamos-dragon-age-the-veilguard-saga-vuelve-20241115133821-nt.html",
-        "date": "2024-11-15 12:38:21",
-        "sentiment_score": -0.009065002202987671
-    },
-    {
-        "title": "Sanitas abrirá un centro integral en Córdoba en 2027, con servicio médico, dental y una residencia de mayores",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/15/1464914568-R3laSi25jy1FjMgxGRiaW3N-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sanitas-abrira-centro-integral-cordoba-2027-servicio-20241115124813-nt.html",
-        "date": "2024-11-15 11:48:13",
-        "sentiment_score": 0.08007612824440002
-    },
-    {
-        "title": "Egipto impulsa la tolerancia religiosa con la aprobación de 293 nuevas iglesias cristianas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/15/alsisi-RmAL7vQr1xzG1mT5mJ10xEM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/egipto-impulsa-tolerancia-religiosa-aprobacion-293-nuevas-20241115120954-nt.html",
-        "date": "2024-11-15 11:15:50",
-        "sentiment_score": -0.11124248802661896
-    },
-    {
-        "title": "El Gobierno baraja que la adhesión a Muface de los funcionarios sea fija e irreversible para atraer a las aseguradoras",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/15/scarlpez-RrP2ypYvD6yjl36BNhw6dmO-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-baraja-adhesion-muface-funcionarios-fija-irreversible-20241115121022-nt.html",
-        "date": "2024-11-15 11:11:31",
-        "sentiment_score": 0.03402392566204071
-    },
-    {
         "title": "Mazón dice que fue “un error” borrar el tuit con el vídeo en el que aseguraba que la dana iba hacia Cuenca",
         "image_url": "https://imagenes.elpais.com/resizer/v2/MFIMLXGJ6ZAADIKECESCYLDBOA.png?auth=e465b6d879a82de7e20b65b58418a12a302479c00d179e78c6667208e8e4a25a&width=1200",
         "tags": [
@@ -6458,5 +6368,303 @@ export default [
         "link": "https://www.elmundo.es/papel/historias/2024/11/18/673b670f21efa0b0658b4591.html",
         "date": "2024-11-18 21:47:34",
         "sentiment_score": 0.27759067714214325
+    },
+    {
+        "title": "Saquean casi 100 camiones de ayuda en Gaza; la ONU advierte del \"colapso de la ley y el orden\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1783188-camiones-gaza.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra en gaza",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/18/saquean-camiones-ayuda-gaza-onu-advierte-colapso-ley-orden-trax/",
+        "date": "2024-11-19 02:02:09",
+        "sentiment_score": -0.8915674993768334
+    },
+    {
+        "title": "Casi el 40% de los jóvenes estadounidenses se informan a través de \"influencers\", según un estudio",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1783161-gettyimages-2051178435.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "redes sociales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/18/jovenes-estadounidenses-informan-influencers-redes-trax/",
+        "date": "2024-11-19 01:49:04",
+        "sentiment_score": 0.023341812193393707
+    },
+    {
+        "title": "Consejos para mantener a sus hijos a salvo de lesiones no intencionales",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/hmfst-lesiones-00-00-09-14-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/consejos-hijos-seguros-lesiones-minuto-de-salud-fast",
+        "date": "2024-11-19 01:25:02",
+        "sentiment_score": -0.061276987195014954
+    },
+    {
+        "title": "Consejos para mantener a sus hijos a salvo de lesiones no intencionales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "videos digitales",
+            "bienestar niños",
+            "fast – news variety",
+            "accidentes",
+            "noticias de salud",
+            "niños"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/consejos-hijos-seguros-lesiones-minuto-de-salud-fast/",
+        "date": "2024-11-19 01:25:02",
+        "sentiment_score": -0.03649049997329712
+    },
+    {
+        "title": "La reacción de Rusia a la autorización de EE.UU. a Ucrania para usar misiles de largo alcance",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/atacms-thumbnail-4-20241119011551365.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reaccion-rusia-autorizacion-eeuu-ucrania-misiles-largo-alcance-digivid-trax",
+        "date": "2024-11-19 01:17:36",
+        "sentiment_score": -0.3876785710453987
+    },
+    {
+        "title": "La reacción de Rusia a la autorización de EE.UU. a Ucrania para usar misiles de largo alcance",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/atacms-thumbnail-4-20241119011551365.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "joe biden",
+            "xpress",
+            "fast – news variety",
+            "misiles",
+            "guerra de rusia en ucrania",
+            "ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reaccion-rusia-autorizacion-eeuu-ucrania-misiles-largo-alcance-digivid-trax/",
+        "date": "2024-11-19 01:17:36",
+        "sentiment_score": -0.030702799558639526
+    },
+    {
+        "title": "Trump llama directamente a los senadores para presionar por la confirmación de Gaetz como secretario de Justicia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1783152-gettyimages-2162319295.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "matt gaetz",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/18/trump-llama-directamente-senadores-gaetz-secretario-justicia-trax/",
+        "date": "2024-11-19 01:17:33",
+        "sentiment_score": -0.052537113428115845
+    },
+    {
+        "title": "Sheinbaum propone en el G20 programa mundial de reforestación",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184805427.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "claudia sheinbaum",
+            "cambio climático",
+            "cumbre del g20",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-reforestacion-g20-brasil-perspectivas-mexico-tv/",
+        "date": "2024-11-19 01:17:20",
+        "sentiment_score": 0.24695489555597305
+    },
+    {
+        "title": "¿De qué trata la serie “Silo” de Apple TV+? Elenco habla de nueva temporada",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/silo-00-03-12-29-still001.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/silo-apple-tv-nueva-temporada-tim-robbins-steve-zhan-common-entrevista-showbiz-orix",
+        "date": "2024-11-19 01:09:19",
+        "sentiment_score": 0.010538488626480103
+    },
+    {
+        "title": "¿Qué tan viable es la propuesta de México de destinar el 1% del presupuesto militar a la reforestación?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184764662-20241119005538000.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/brasil-propuesta-g20-claudia-sheinbaum-perspectivas-mexico-tv-fast",
+        "date": "2024-11-19 01:04:53",
+        "sentiment_score": -0.18504232168197632
+    },
+    {
+        "title": "Biden rearma a Ucrania en tiempo de descuento",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/11/17/1487958082--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-biden-rearma-ucrania-tiempo-descuento-20241119195313-nt.html",
+        "date": "2024-11-19 02:06:20",
+        "sentiment_score": -0.12870648503303528
+    },
+    {
+        "title": "Hoy es jugador de fútbol americano en la secundaria en EEUU. Pronto será lama budista en el Himalaya",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/1/1b/11b2092c-b7af-5fea-8a31-039d0bb5992a/673bf3bec03fd.image.jpg?resize=300%2C200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/national/hoy-es-jugador-de-f-tbol-americano-en-la-secundaria-en-eeuu-pronto-ser-lama/article_99256ab6-8129-57f2-a39c-184998174514.html",
+        "date": "2024-11-19 01:59:47",
+        "sentiment_score": 0.16926144063472748
+    },
+    {
+        "title": "Beatriz Magro y Nuria Morales, tras el imperio de la Kombucha que emplea a mujeres rurales: \"Somos chicas de pueblo\"",
+        "image_url": "https://s1.elespanol.com/2024/11/18/mujer/protagonistas/902170239_250972978_1706x960.jpg?contentId=ESPIMA20241118_0465",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241119/beatriz-magro-nuria-morales-imperio-kombucha-emplea-mujeres-rurales-chicas-pueblo/902159786_0.html",
+        "date": "2024-11-19 01:36:36",
+        "sentiment_score": 0.49685539305210114
+    },
+    {
+        "title": "Póker de damas en la Casa Real: Felipe VI opta por un equipo más femenino y desmilitarizado tras cumplir 10 años de reinado",
+        "image_url": "https://s1.elespanol.com/2024/11/18/espana/902170582_250983509_1706x960.png?contentId=ESPIMA20241118_0808",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241119/poker-damas-casa-real-felipe-vi-opta-equipo-femenino-desmilitarizado-cumplir-anos-reinado/902160370_0.html",
+        "date": "2024-11-19 01:36:25",
+        "sentiment_score": 0.1027650311589241
+    },
+    {
+        "title": "Lobato descarta 'hacer un Simancas' y aliarse con el candidato de Ferraz: \"La vía de unidad es la nuestra\"",
+        "image_url": "https://s1.elespanol.com/2024/11/18/madrid/comunidad/902170366_250976904_1706x960.jpg?contentId=ESPIMA20241118_0592",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241119/lobato-descarta-hacer-simancas-aliarse-candidato-ferraz-via-unidad/902160016_0.html",
+        "date": "2024-11-19 01:24:20",
+        "sentiment_score": 0.1215859204530716
+    },
+    {
+        "title": "¿Otro adiós de Antoine Griezmann del Atlético?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/19/2024111902190587325.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/adios-antoine-griezmann-atletico/20241119022035324514.html",
+        "date": "2024-11-19 01:20:35",
+        "sentiment_score": -0.23741107434034348
+    },
+    {
+        "title": "Los sesenta años del restaurante Hevia",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/045f1ebfb9da20f27e2452c6d371d6bb/crop/102x41/1062x681/f/webp/assets/multimedia/imagenes/2024/11/18/17319628175561.jpg",
+        "tags": [
+            "gastronomía"
+        ],
+        "link": "https://www.expansion.com/directivos/estilo-vida/rincones-gastronomicos/2024/11/19/673ba74e468aeb6f498b45ac.html",
+        "date": "2024-11-19 01:05:24",
+        "sentiment_score": 0.149757519364357
+    },
+    {
+        "title": "Eduardo Casanova estrena la película sobre el hombre que se quemó a lo bonzo: \"Me obsesioné con su historia\"",
+        "image_url": "https://s1.elespanol.com/2024/11/18/el-cultural/cine/902170548_250982499_1706x960.png?contentId=ESPIMA20241118_0774",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20241119/eduardo-casanova-estrena-pelicula-hombre-quemo-bonzo-obsesione-historia/902160343_0.html",
+        "date": "2024-11-19 00:59:24",
+        "sentiment_score": -0.3623703718185425
+    },
+    {
+        "title": "El patio de recreo de Antonio Vega",
+        "image_url": "https://s1.elespanol.com/2024/11/18/el-cultural/blogs/entreclasicos/902169929_250963369_1706x960.jpg?contentId=ESPIMA20241118_0155",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/blogs/entreclasicos/20241119/patio-recreo-antonio-vega/902279767_12.html",
+        "date": "2024-11-19 00:59:23",
+        "sentiment_score": -0.12821809947490692
+    },
+    {
+        "title": "La batalla con la que Napoleón rindió Madrid: descubren los cadáveres de 38 de sus soldados",
+        "image_url": "https://s1.elespanol.com/2023/11/20/historia/811179785_237768736_1706x960.jpg?contentId=ESPIMA20231120_0911",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20241119/batalla-napoleon-rindio-madrid-descubren-cadaveres-soldados/902160001_0.html",
+        "date": "2024-11-19 00:58:24",
+        "sentiment_score": -0.9135087775066495
+    },
+    {
+        "title": "Los asuntos pendientes de Laporta para ingresar 1.000 millones de euros por temporada",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/17/culemania/palco/901919802_13736703_1706x960.jpg?contentId=ESPIMA20241117_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241119/los-pendientes-de-laporta-ingresar-millones-temporada/902159869_0.html",
+        "date": "2024-11-19 00:55:54",
+        "sentiment_score": 0.44918418303132057
+    },
+    {
+        "title": "Destrozan una de las lujosas propiedades de Piqué en Cerdanya",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/11/Destrozan-una-de-las-lujosas-propiedades-de-Pique-en-Cerdanya-18-de-nov-2024-elorientaldemonagas.com-2-1024x477.jpg",
+        "tags": [
+            "monagas",
+            "venezuela",
+            "deportes",
+            "maturín"
+        ],
+        "link": "https://elorientaldemonagas.com/destrozan-una-de-las-lujosas-propiedades-de-pique-en-cerdanya/",
+        "date": "2024-11-19 02:00:00",
+        "sentiment_score": -0.8932367358356714
+    },
+    {
+        "title": "La realidad del relevo en la España Vaciada: \"Los jóvenes que pelean por una habitación de 700 euros lo cambiarían\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2024/11/19/673bead29f4f7.jpeg",
+        "tags": [
+            "poniendo las calles"
+        ],
+        "link": "https://www.cope.es/programas/poniendo-las-calles/audios/realidad-relevo-espana-vaciada-jovenes-pelean-habitacion-700-euros-cambiarian-20241119_3048288.html",
+        "date": "2024-11-19 01:36:12",
+        "sentiment_score": -0.06380301713943481
+    },
+    {
+        "title": "La Policía descubre en un chalet de Barcelona una habitación de tortura del cártel de Sinaloa",
+        "image_url": "https://s1.elespanol.com/2024/11/18/espana/902170595_250983895_1706x960.png?contentId=ESPIMA20241118_0821",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241119/policia-descubre-chalet-barcelona-habitacion-tortura-cartel-sinaloa/902160352_0.html",
+        "date": "2024-11-19 01:36:01",
+        "sentiment_score": -0.8407893814146519
+    },
+    {
+        "title": "Estados Unidos desmantela los despachos del Barça Femenino: la fuga de cerebros que amenaza a Laporta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/19/culemania/secciones/902419751_13742914_1706x960.jpg?contentId=ESPIMA20241119_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20241119/estados-unidos-desmantela-despachos-barca-femenino-laporta/902159909_0.html",
+        "date": "2024-11-19 01:11:48",
+        "sentiment_score": -0.924896314740181
+    },
+    {
+        "title": "Croacia y Dinamarca avanzan a cuartos de Liga de Naciones con empates. España vence 3-2 a Suiza",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/11/AP24323796115001.webp",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/croacia-y-dinamarca-avanzan-a-cuartos-de-liga-de-naciones-con-empates-espana-vence-3-2-a-suiza/",
+        "date": "2024-11-19 01:02:23",
+        "sentiment_score": 0.27582502365112305
+    },
+    {
+        "title": "Un mundo de agentes de cambio",
+        "image_url": "https://s1.elespanol.com/2024/11/18/enclave-ods/opinion/902170106_250968780_1706x960.jpg?contentId=ESPIMA20241118_0332",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/opinion/20241119/mundo-agentes-cambio/902289765_13.html",
+        "date": "2024-11-19 00:53:06",
+        "sentiment_score": 0.660580325871706
+    },
+    {
+        "title": "El otro gran derbi de Barcelona, un éxito descontrolado con reparto de responsabilidades",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/18/culemania/culemaniacos/902169903_13742632_1706x960.jpg?contentId=ESPIMA20241118_0129",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241119/el-derbi-de-barcelona-descontrolado-reparto-responsabilidades/902159904_0.html",
+        "date": "2024-11-19 00:48:44",
+        "sentiment_score": 0.4721415936946869
     }
 ];
