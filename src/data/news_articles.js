@@ -30,82 +30,6 @@ export default [
         "sentiment_score": -0.8466306123882532
     },
     {
-        "title": "Zelensky dice que la guerra en Ucrania terminará \"más rápido\" bajo la presidencia de Trump",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782330-zelensky-d56b43.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política",
-            "volodymyr zelensky"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/16/zelensky-guerra-ucrania-terminara-mas-rapido-trump-trax/",
-        "date": "2024-11-16 14:07:50",
-        "sentiment_score": -0.04371003806591034
-    },
-    {
-        "title": "Irán \"niega categóricamente\" que su enviado de la ONU se haya reunido con Elon Musk",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782323-elon-musk.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/16/iran-niega-categoricamente-reunion-elon-musk-trax/",
-        "date": "2024-11-16 13:13:59",
-        "sentiment_score": -0.10501828789710999
-    },
-    {
-        "title": "Choque de Opiniones analiza las últimas y controversiales designaciones del gabinete de Trump",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183887435.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "gabinete",
-            "xpress",
-            "elecciones ee.uu. 2024",
-            "noticias de donald trump",
-            "donald trump",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-elige-gabinete-choque-dusa-tv/",
-        "date": "2024-11-16 13:00:05",
-        "sentiment_score": -0.1833059936761856
-    },
-    {
-        "title": "El origen de Miss Universo: de Afrodita a la reina de la belleza que se negó a posar en bañador",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1329502-miss-universo.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "miss universo",
-            "concurso de belleza"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/16/miss-universo-historia-orix/",
-        "date": "2024-11-16 12:01:41",
-        "sentiment_score": -0.21723754703998566
-    },
-    {
-        "title": "Detención masiva y devolución de migrantes a México: los planes de Donald Trump sobre inmigración comienzan a tomar forma",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782316-trump-c01e98.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones en estados unidos",
-            "inmigración estados unidos",
-            "agentes de inmigración",
-            "trump",
-            "política"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/16/donald-trump-planes-inmgracion-trax/",
-        "date": "2024-11-16 11:40:56",
-        "sentiment_score": -0.4836241975426674
-    },
-    {
-        "title": "El papel fundamental de la legislación y las políticas públicas en la economía circular",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2058830602.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "industria",
-            "consumo",
-            "fast – general",
-            "xpress",
-            "economía",
-            "inteligencia artificial"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/legislacion-politicas-publicas-economia-circular-conectados-tv-fast/",
-        "date": "2024-11-16 11:00:14",
-        "sentiment_score": 0.15930723398923874
-    },
-    {
         "title": "Quién es Chloe delaRosa, la representante de España en Eurovision Junior 2024",
         "image_url": "https://imagenes.elpais.com/resizer/v2/EK56E32CO3HXMOO54PXCDGVZIE.jpg?auth=557dffb2e1c543ee1618e26715713a1425d9219ee05234a4c156911ca395504f&width=1200",
         "tags": [
@@ -152,61 +76,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-16/santiago-abascal-nuevo-presidente-de-patriotas-por-europa-el-partigo-que-integra-a-orban-y-le-pen.html",
         "date": "2024-11-16 15:32:00",
         "sentiment_score": 0.14655184745788574
-    },
-    {
-        "title": "La Aemet asegura que ya había información para alertar a los valencianos cuando Mazón estaba de comida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AT6GHOEGDNAIJGYSXJIVZFLF5Q.jpg?auth=8f9382306ff7c030c9163b04b3c6b708c5756a9fc69b32914ff90ba18f3b4a52&width=1200",
-        "tags": [
-            "españa",
-            "valencia",
-            "dana",
-            "carlos mazón"
-        ],
-        "link": "https://elpais.com/espana/2024-11-16/la-aemet-asegura-que-ya-habia-informacion-para-alertar-a-los-valencianos-cuando-mazon-estaba-de-comida.html",
-        "date": "2024-11-16 13:46:10",
-        "sentiment_score": -0.6335282288491726
-    },
-    {
-        "title": "Ayuso insinúa que el Ejecutivo de Sánchez tardó en ayudar con la dana porque el PP gobierna en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HQXGGGSYXKJXTQJODW7QH2G6XQ.jpg?auth=f43ab9d0ffadae521fca7ca4cb76ae61c6eef8b0c0fc4b7cf507aa480e341d53&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "isabel díaz ayuso",
-            "carlos mazón",
-            "pp madrid",
-            "pedro sánchez",
-            "temporales",
-            "gobierno comunidad de madrid",
-            "madrid",
-            "inundaciones",
-            "valencia",
-            "gobierno de españa",
-            "inundaciones dana octubre 2024",
-            "dana",
-            "lluvias torrenciales"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-16/ayuso-insinua-que-el-ejecutivo-de-sanchez-tardo-en-ayudar-con-la-dana-porque-el-pp-gobierna-en-valencia.html",
-        "date": "2024-11-16 13:31:34",
-        "sentiment_score": -0.8207668457180262
-    },
-    {
-        "title": "Los comunes exigen a ERC, CUP y PSC: “Basta de políticas de derechas y de pactar con la derecha independentista”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PWBTRLI5WTK7HJHZ5PHNWICH3E.jpg?auth=587767e1a6b7422af0c349c728045bad6a58eb8e47face73eef4a220c895bd27&width=1200",
-        "tags": [
-            "barcelona en comú",
-            "resultados electorales",
-            "barcelona",
-            "partidos políticos",
-            "cat en comú",
-            "congresos políticos",
-            "ada colau",
-            "cataluña",
-            "elecciones",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-16/los-comunes-exigen-a-erc-cup-y-psc-basta-de-politicas-de-derechas-y-de-pactar-con-la-derecha-independentista.html",
-        "date": "2024-11-16 13:11:43",
-        "sentiment_score": -0.30556879937648773
     },
     {
         "title": "León refuerza su vínculo histórico con la Academia Básica del Aire y del Espacio",
@@ -6524,5 +6393,313 @@ export default [
         "link": "https://www.elcorreogallego.es/motogp/2024/11/19/marquez-rojo-queda-111849994.html",
         "date": "2024-11-19 22:15:11",
         "sentiment_score": 0.33775173872709274
+    },
+    {
+        "title": "Las noticias económicas del 19 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-19-noviembre-2024-panorama-tv-fast",
+        "date": "2024-11-20 02:13:28",
+        "sentiment_score": -0.025210265070199966
+    },
+    {
+        "title": "Trump elige al doctor y personalidad de televisión Mehmet Oz para dirigir los Centros de Servicios de Medicare y Medicaid",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1783832-medicare-medicaid-oz.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "medicare",
+            "noticias de ee.uu.",
+            "medicaid",
+            "donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/19/doctor-mehmet-oz-trump-centros-servicios-medicare-medicaid-trax/",
+        "date": "2024-11-20 02:01:52",
+        "sentiment_score": 0.33128024637699127
+    },
+    {
+        "title": "SpaceX lanza la sexta prueba del sistema de dos fases Starship",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185019162.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "innovación",
+            "ciencia y espacio",
+            "starship",
+            "espacio",
+            "tecnología",
+            "spacex",
+            "noticias de ee.uu.",
+            "elon musk"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/spacex-lanza-prueba-sistema-starship-orix/",
+        "date": "2024-11-20 01:39:40",
+        "sentiment_score": 0.12614745646715164
+    },
+    {
+        "title": "Esto dice un coronel retirado sobre el uso de misiles de largo alcance para atacar a Rusia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21134246-36927-546-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ucrania",
+            "xpress",
+            "guerra rusa en ucrania",
+            "lanzamiento de misiles",
+            "rusia",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-rusia-misiles-largo-alcance-perspectivas-mexico-tv-fast/",
+        "date": "2024-11-20 01:38:16",
+        "sentiment_score": -0.5381298065185547
+    },
+    {
+        "title": "Esto dice un coronel retirado sobre el uso de misiles de largo alcance para atacar a Rusia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-rusia-misiles-largo-alcance-perspectivas-mexico-tv-fast",
+        "date": "2024-11-20 01:38:16",
+        "sentiment_score": -0.6697151865810156
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 19 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-18-de-noviembre-2024-panorama-noche-fast",
+        "date": "2024-11-20 01:29:39",
+        "sentiment_score": 0.13161325454711914
+    },
+    {
+        "title": "Nuevos brotes de gripe aviar causan preocupación en EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-brotes-gripe-aviar-minuto-de-salud-fast",
+        "date": "2024-11-20 01:29:02",
+        "sentiment_score": -0.8227890059351921
+    },
+    {
+        "title": "Nuevos brotes de gripe aviar causan preocupación en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1430888571.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "noticias de salud",
+            "fast – news variety",
+            "videos digitales",
+            "gripe aviar",
+            "enfermedades respiratorias"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-brotes-gripe-aviar-minuto-de-salud-fast/",
+        "date": "2024-11-20 01:29:02",
+        "sentiment_score": -0.8292364217340946
+    },
+    {
+        "title": "Advierten riesgo en servicio de internet para gran parte de Ecuador tras cuestionada decisión gubernamental contra empresa Telconet",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1706678-el-plan-economico-del-presidente-noboa-genera-descontento-en-sectores-de-ecuador.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "ecuador"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/19/riesgo-internet-ecuador-telconet-orix/",
+        "date": "2024-11-20 00:52:00",
+        "sentiment_score": -0.8484687628224492
+    },
+    {
+        "title": "Las noticias de América Latina del 19 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/recorrido-america-latina-19-noviembre-2024-cnnee-perspectivas-mexico-fast",
+        "date": "2024-11-20 00:51:48",
+        "sentiment_score": -0.04364575445652008
+    },
+    {
+        "title": "Un especialista en reconstrucción",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/11/04/quemado-U81058786122hZe-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-especialista-reconstruccion-20241120005904-nt.html",
+        "date": "2024-11-19 23:59:08",
+        "sentiment_score": -0.4739951267838478
+    },
+    {
+        "title": "El día que Aldama me dio un recado para Ábalos: \"A ver cómo explica el aumento patrimonial de alguno de sus familiares\"",
+        "image_url": "https://s1.elespanol.com/2024/11/19/espana/902420719_251015976_1706x1280.png?contentId=ESPIMA20241119_0970",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241120/dia-aldama-dio-recado-abalos-ver-explica-aumento-patrimonial-alguno-familiares/902410344_0.html",
+        "date": "2024-11-20 01:48:57",
+        "sentiment_score": -0.619598887860775
+    },
+    {
+        "title": "Sí, los hombres tienen suelo pélvico y también deben cuidarlo con ejercicios",
+        "image_url": "https://s1.elespanol.com/2024/11/12/enclave-ods/noticias/900670604_250816087_1706x960.jpg?contentId=ESPIMA20241112_0680",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/noticias/20241120/hombres-suelo-pelvico-deben-cuidarlo-ejercicios/900660319_0.html",
+        "date": "2024-11-20 01:07:23",
+        "sentiment_score": -0.6219941340386868
+    },
+    {
+        "title": "Amaia Rodríguez, la navarra que 'recicla' el mediterráneo: \"Hacemos 'halls' de hoteles y asientos para el Betis\"",
+        "image_url": "https://s1.elespanol.com/2024/11/19/enclave-ods/referentes/902419823_250996633_1706x960.jpg?contentId=ESPIMA20241119_0074",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20241120/amaia-rodriguez-navarra-recicla-mediterraneo-hacemos-halls-hoteles-asientos-betis/902409801_0.html",
+        "date": "2024-11-20 01:07:18",
+        "sentiment_score": 0.16941677778959274
+    },
+    {
+        "title": "Hansi Flick ya conocía a los primos Toni y Guille Fernández antes de fichar por el Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/08/culemania/secciones/899670115_13696403_1706x960.jpg?contentId=ESPIMA20241108_0091",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241120/hansi-flick-conocia-toni-guille-fernandez-barca/902659726_0.html",
+        "date": "2024-11-20 00:51:27",
+        "sentiment_score": 0.26326702535152435
+    },
+    {
+        "title": "El entramado de los tres socios del 'policía de la droga': frutas, inmobiliarias y una tienda de ropa",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/11/whatsapp-image-2024-11-08-at-194514-1-1440x808.jpeg",
+        "tags": [
+            "audiencia nacional",
+            "españa",
+            "tribunales",
+            "fiscalía",
+            "drogas"
+        ],
+        "link": "https://www.elindependiente.com/espana/tribunales/2024/11/20/el-entramado-de-los-tres-socios-del-policia-de-la-droga-frutas-inmobiliarias-y-una-tienda-de-ropa/",
+        "date": "2024-11-19 23:05:07",
+        "sentiment_score": -0.5332087203860283
+    },
+    {
+        "title": "Telecinco, a un paso de lograr los derechos de la final de la Champions",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/27/2024102721440296653.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/telecinco-paso-hacerse-derechos-final-champions/20241120000000880616.html",
+        "date": "2024-11-19 23:00:00",
+        "sentiment_score": 0.40532719902694225
+    },
+    {
+        "title": "Un policía de la brigada adscrita al CNI recupera un plus salarial recortado",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2020/09/08/2020090817125217287.jpg",
+        "tags": [
+            "seguridad"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/seguridad/policia-brigada-adscrita-cni-recupera-plus-salarial-recortado/20241120000000880706.html",
+        "date": "2024-11-19 23:00:00",
+        "sentiment_score": 0.06889571249485016
+    },
+    {
+        "title": "Martínez Almeida se moja en 'El Hormiguero' con La oreja de Van Gogh: «¿Eres más Amaia o de Leire?»",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/11/19/almeida-kWHB-U23062341231rFF-1200x840@El%20Correo.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/tv/martinez-almeida-moja-hormiguero-oreja-van-gogh-20241119234901-nt.html",
+        "date": "2024-11-19 22:49:01",
+        "sentiment_score": -0.37436551600694656
+    },
+    {
+        "title": "¿Por qué el Seminario de Orihuela está iluminado de rojo?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88154622-9dd4-4abc-aecd-4c3b49a095d7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/vega-baja/2024/11/19/seminario-orihuela-iluminado-rojo-111849945.html",
+        "date": "2024-11-19 22:34:16",
+        "sentiment_score": 0.34159621596336365
+    },
+    {
+        "title": "Pablo Lorenzo 'el ruedas', jefe del Cártel de Sinaloa en Barcelona: condenado por blanqueo en México y 20 años en España",
+        "image_url": "https://s1.elespanol.com/2024/11/20/actualidad/902669737_251017139_1706x960.png?contentId=ESPIMA20241120_0013",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241120/pablo-lorenzo-ruedas-jefe-cartel-sinaloa-barcelona-condenado-blanqueo-mexico-anos-espana/902410349_0.html",
+        "date": "2024-11-20 01:48:56",
+        "sentiment_score": -0.7895778454840183
+    },
+    {
+        "title": "Propuestas para construir más vivienda asequible en España",
+        "image_url": "https://s1.elespanol.com/2024/11/19/invertia/opinion/902419981_250993257_1706x960.jpg?contentId=ESPIMA20241119_0232",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20241120/propuestas-construir-vivienda-asequible-espana/902529740_12.html",
+        "date": "2024-11-20 01:44:59",
+        "sentiment_score": 0.317661888897419
+    },
+    {
+        "title": "El club secreto del whisky en Madrid: un bar clandestino con más de 750 botellas y mil socios",
+        "image_url": "https://s1.elespanol.com/2024/11/19/madrid/ocio/902420124_250997704_1706x960.jpg?contentId=ESPIMA20241119_0375",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241120/club-secreto-whisky-madrid-bar-clandestino-botellas-mil-socios/902410013_0.html",
+        "date": "2024-11-20 01:24:42",
+        "sentiment_score": 0.2850944697856903
+    },
+    {
+        "title": "Anzoátegui cerrará la final de la Liga Futve 2 en su remozado estadio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes",
+            "fútbol sala"
+        ],
+        "link": "https://eltiempove.com/anzoategui-cerrara-la-final-de-la-liga-futve-2-en-su-remozado-estadio/",
+        "date": "2024-11-20 01:05:15",
+        "sentiment_score": 0.09865902364253998
+    },
+    {
+        "title": "Obras del Camp Nou: nueva victoria de los vecinos de Les Corts sobre el Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/12/culemania/palco/892920760_13578480_1706x960.jpg?contentId=ESPIMA20241012_0061",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241120/obras-camp-nou-de-les-corts-barca/902159874_0.html",
+        "date": "2024-11-20 00:52:39",
+        "sentiment_score": 0.5003593899309635
+    },
+    {
+        "title": "Núñez y Laporta: gestiones antagónicas del centenario y del 125 aniversario del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/19/culemania/palco/902419898_13747271_1706x960.jpg?contentId=ESPIMA20241119_0149",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241120/nunez-laporta-antagonicas-del-centenario-aniversario-barca/902409841_0.html",
+        "date": "2024-11-20 00:51:48",
+        "sentiment_score": -0.6270159482955933
+    },
+    {
+        "title": "Lotería Navidad 2024: ¿Dónde puedes comprarte una vivienda si te toca el Gordo?",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/12/viviendas-en-construccion-en-madrid_942a.jpg",
+        "tags": [
+            "lotería de navidad"
+        ],
+        "link": "https://www.telecinco.es/noticias/loterias/loteria-de-navidad/20241120/donde-comprar-vivienda-si-toca-gordo-be5m_18_013980177.html",
+        "date": "2024-11-20 00:30:59",
+        "sentiment_score": -0.37337885797023773
+    },
+    {
+        "title": "Nadal, icono de resiliencia, cierra el círculo y una leyenda entre lágrimas",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/11/20/nadal-color-k3pC-U23063412351N1B-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/deportes/tenis/copa-davis/nadal-icono-resiliencia-cierra-circulo-leyenda-lagrimas-carrera-retirada-copa-davis-malaga-paises-bajos-20241120011402-ntrc.html",
+        "date": "2024-11-20 00:24:36",
+        "sentiment_score": 0.7005914524197578
     }
 ];
