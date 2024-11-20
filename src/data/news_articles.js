@@ -1,221 +1,5 @@
 export default [
     {
-        "title": "Ocho muertos y 17 heridos en un ataque masivo con cuchillo en el este de China",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2022/10/ultima-hora-1200.jpg?quality=100&strip=info",
-        "tags": [
-            "china"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/16/ocho-muertos-heridos-un-ataque-masivo-cuchillo-este-china-trax/",
-        "date": "2024-11-16 16:47:44",
-        "sentiment_score": -0.8262302614748478
-    },
-    {
-        "title": "El Gobierno de Venezuela excarcela a 10 personas que habían sido detenidas durante las protestas posteriores a las elecciones",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/GettyImages-2184214063.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/16/venezuela-excarcela-10-detenidos-orix/",
-        "date": "2024-11-16 15:30:57",
-        "sentiment_score": -0.6902026608586311
-    },
-    {
-        "title": "Diez bebés recién nacidos mueren en un incendio en hospital del norte de India",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782333-incendio-india.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "india"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/16/diez-bebes-recien-nacidos-mueren-incendio-hospital-india-ap/",
-        "date": "2024-11-16 14:29:02",
-        "sentiment_score": -0.8466306123882532
-    },
-    {
-        "title": "Quién es Chloe delaRosa, la representante de España en Eurovision Junior 2024",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EK56E32CO3HXMOO54PXCDGVZIE.jpg?auth=557dffb2e1c543ee1618e26715713a1425d9219ee05234a4c156911ca395504f&width=1200",
-        "tags": [
-            "festival eurovisión",
-            "caja mágica",
-            "madrid",
-            "música",
-            "televisión",
-            "festival eurovisión junior",
-            "festivales música"
-        ],
-        "link": "https://elpais.com/videos/2024-11-16/quies-es-chloe-delarosa-la-representante-de-espana-en-eurovision-junior-2024.html",
-        "date": "2024-11-16 17:07:33",
-        "sentiment_score": 0.28284066915512085
-    },
-    {
-        "title": "El Congreso Internacional de la Radio ve en la calidad y la credibilidad la garantía de futuro del medio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3LBICVQQNZDTVCAUTE5RIEGJPY.jpg?auth=f6f7f7b5cd6559c1964fc13033962c8e13edf4718a8554d8785d0a893c0f2214&width=1200",
-        "tags": [
-            "caixaforum barcelona",
-            "prisa media",
-            "ràdio barcelona",
-            "barcelona",
-            "cadena ser",
-            "periodismo",
-            "cataluña",
-            "centenarios",
-            "inteligencia artificial",
-            "grupo prisa",
-            "radio"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-16/el-congreso-internacional-de-la-radio-ve-en-la-calidad-y-la-credibilidad-la-garantia-de-futuro-del-medio.html",
-        "date": "2024-11-16 17:00:03",
-        "sentiment_score": 0.1951037459075451
-    },
-    {
-        "title": "Santiago Abascal, nuevo presidente de Patriotas por Europa, el partigo que integra a Orbán y Le Pen",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UGICJBJMD5BRTKXVEARFMHTD6U.JPG?auth=6df2b31ea07b5bdeefadf8bfe1b80c3f25d50780220c47dc6fe9fa7f5cbd6081&width=1200",
-        "tags": [
-            "santiago abascal",
-            "vox",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-16/santiago-abascal-nuevo-presidente-de-patriotas-por-europa-el-partigo-que-integra-a-orban-y-le-pen.html",
-        "date": "2024-11-16 15:32:00",
-        "sentiment_score": 0.14655184745788574
-    },
-    {
-        "title": "León refuerza su vínculo histórico con la Academia Básica del Aire y del Espacio",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2024/11/16/16111024%20Recepcin%20Consejo%20Superior%20Ejrcito%20del%20Aire%20(18)-kih-U23026121739CZH-1200x840@Leonoticias.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/leon/leon-refuerza-vinculo-historico-academia-basica-aire-20241116180829-nt.html",
-        "date": "2024-11-16 17:08:29",
-        "sentiment_score": 0.43343278765678406
-    },
-    {
-        "title": "Alphonso Davies y el Real Madrid: ¿Revolución en la banda izquierda?",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/16/2024111617462444332.png",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/alphonso-davies-real-madrid-revolucion-banda-izquierda/20241116174640544382.html",
-        "date": "2024-11-16 16:46:40",
-        "sentiment_score": 0.8027860149741173
-    },
-    {
-        "title": "Ayuso critica el uso de recursos gubernamentales para proyectos privados de Begoña Gómez",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/16/2024111617304127517.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/espanha/ayuso-critica-uso-recursos-gubernamentales-proyectos-privados-begona-gomez/20241116173107544367.html",
-        "date": "2024-11-16 16:31:07",
-        "sentiment_score": -0.8537538647651672
-    },
-    {
-        "title": "Mazón no da para más",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a29530a7-7678-42d8-b93f-10674007015b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/opinion/2024/11/16/mazon-da-111750561.html",
-        "date": "2024-11-16 16:20:25",
-        "sentiment_score": -0.18171365559101105
-    },
-    {
-        "title": "Junqueras se fija el objetivo de ganar las municipales de 2027",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/1d6c6786-c9c6-17cc-df0fd0f70f40df9e.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z1d6c658b-cfd9-406b-1699abdb3f5d29ce/202411/junqueras-se-fija-el-objetivo-de-ganar-las-municipales-de-2027",
-        "date": "2024-11-16 17:03:52",
-        "sentiment_score": 0.18636460602283478
-    },
-    {
-        "title": "Los Prismas premian la divulgación científica: del cáncer al cerebro pasando por los océanos",
-        "image_url": "https://cflvdg.avoz.es/sc/KX0RP776XYkLjk-DUMQ2IuEyVDY=/768x/2024/11/16/00121731773821329592707/Foto/i_20241116_154233000.jpg",
-        "tags": [
-            "ciencia",
-            "casa de las ciencias",
-            "aquarium finisterrae",
-            "libros",
-            "a coruña ciudad",
-            "inés rey",
-            "radio galega",
-            "medio ambiente",
-            "cáncer"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2024/11/16/prismas-premian-divulgacion-cientifica-sobre-cancer-cerebro/00031731766665021943904.htm",
-        "date": "2024-11-16 17:03:00",
-        "sentiment_score": 0.5985301174223423
-    },
-    {
-        "title": "\"Yo no habría disuelto CDC\": Jordi Pujol conversa con el ARA en el 50 aniversario de la fundación del partido",
-        "image_url": "https://static1.ara.cat/clip/96889b27-e37e-4104-bb34-6c812196a22c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/politica/no-habria-disuelto-cdc-jordi-pujol-conversa-ara-50-aniversario-fundacion-partido_1_5203315.html",
-        "date": "2024-11-16 17:01:17",
-        "sentiment_score": -0.27849532663822174
-    },
-    {
-        "title": "\"El Premio Lluís Carulla detecta proyectos e ideas culturales innovadores\"",
-        "image_url": "https://static1.ara.cat/clip/b16a43f5-6944-407c-aadc-33edb30ed206_16-9-aspect-ratio_default_0_x2035y1142.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/cultura/premio-lluis-carulla-detecta-proyectos-e-ideas-culturales-innovadores_128_5203310.html",
-        "date": "2024-11-16 17:01:09",
-        "sentiment_score": 0.1721174269914627
-    },
-    {
-        "title": "Acosta y Marc Márquez explican su incidente en la salida: \"Si alguien podía evitarlo era yo\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/11/16/6738cc67896aa.jpeg",
-        "tags": [
-            "motogp"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/motogp/20241116/1002354252/acosta-marquez-explican-incidente-salida-alguien-podia-evitarlo.html",
-        "date": "2024-11-16 16:58:07",
-        "sentiment_score": -0.7096148654818535
-    },
-    {
-        "title": "La Laguna se convierte en un salón de baile parisino en la Noche en Blanco con el espectáculo internacional ‘Cristal Palace’",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cb48ce0c-3a23-4fce-82df-4caa6c31184e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/la-laguna/2024/11/16/laguna-convierte-salon-baile-parisino-111751037.html",
-        "date": "2024-11-16 16:55:57",
-        "sentiment_score": 0.2249031960964203
-    },
-    {
-        "title": "La nueva guerra inmobiliaria en España: quien más pague, gana la casa",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/16/2024111617505733004.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/nueva-guerra-inmobiliaria-espana-quien-mas-pague-gana-casa/20241116175451324250.html",
-        "date": "2024-11-16 16:54:51",
-        "sentiment_score": -0.7412689663469791
-    },
-    {
-        "title": "¿Por qué a veces tenemos la sensación de que Lamine Yamal es medio Barça?",
-        "image_url": "https://static1.ara.cat/clip/c122d859-f6ea-42b2-a1c2-76a1ff97a204_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/veces-sensacion-lamine-yamal-medio-barca_1_5203252.html",
-        "date": "2024-11-16 16:54:09",
-        "sentiment_score": -0.8513485658913851
-    },
-    {
-        "title": "La jornada del sábado del GP Solidario de Barcelona, en imágenes",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/11/16/6738cc61ccd72.r_d.1569-1922-4231.jpeg",
-        "tags": [
-            "motogp"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/motogp/20241116/1002354241/jornada-sabado-gp-solidario-barcelona-imagenes.html",
-        "date": "2024-11-16 16:48:44",
-        "sentiment_score": 0.0444510392844677
-    },
-    {
         "title": "El impacto que producirían los aumentos de aranceles de Trump a los autos o sus componentes",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2092448011.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -301,26 +85,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/superluna-2024-caracas-venezuela-orix",
         "date": "2024-11-16 18:34:10",
         "sentiment_score": 0.025705918669700623
-    },
-    {
-        "title": "Esta experiencia de Airbnb en el Coliseo ofrece un particular momento a solas después del anochecer",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/airbnb-experiencia-gladiator-coliseo-roma-trax",
-        "date": "2024-11-16 18:12:02",
-        "sentiment_score": 0.4019201546907425
-    },
-    {
-        "title": "Esta experiencia de Airbnb en el Coliseo ofrece un particular momento a solas después del anochecer",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/e5c6daac880d4feea3fb9e89837c6046-00000-copy-20241116180758154.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/airbnb-experiencia-gladiator-coliseo-roma-trax/",
-        "date": "2024-11-16 18:12:02",
-        "sentiment_score": 0.23124010860919952
     },
     {
         "title": "La España ideologizada",
@@ -413,16 +177,6 @@ export default [
         "sentiment_score": -0.6043229922652245
     },
     {
-        "title": "El hombre occidental se odia a sí mismo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/17/TERCERAABC_Autoodio_Brague-RIgpYekiMidbM7cf6ouMyvK-758x531@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/remi-brague-hombre-occidental-odia-20241117135319-nt.html",
-        "date": "2024-11-16 18:31:59",
-        "sentiment_score": -0.18272049725055695
-    },
-    {
         "title": "Abel Caballero prende la Navidad de Vigo con un mensaje de “solidaridad y dolor”: “Forza Valencia”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/345KEHG57VMVJZ7YPI32MIXDPI.jpg?auth=27204ff2c5d86cdeb2fc22fe9fd162eb3cfa1434a23d28727ce5c10080b7c28f&width=1200",
         "tags": [
@@ -451,24 +205,6 @@ export default [
         "link": "https://elpais.com/videos/2024-11-16/la-actuacion-de-espana-en-la-final-de-eurovision-junior-2024.html",
         "date": "2024-11-16 18:46:01",
         "sentiment_score": 0.24120614305138588
-    },
-    {
-        "title": "À Punt rompe con el fantasma de Canal 9 y reconecta con la ciudadanía por su cobertura de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RHEUMABFJVBLLMIOGIXSOJCIHA.jpg?auth=f250388cfc12c4e239348d4843e1c7ccab9c3b143e03ea57f4f2a1c2a2db1057&width=1200",
-        "tags": [
-            "españa",
-            "política",
-            "carlos mazón",
-            "à punt",
-            "inundaciones dana octubre 2024",
-            "canal 9",
-            "televisión pública",
-            "pp",
-            "generalitat valenciana"
-        ],
-        "link": "https://elpais.com/espana/2024-11-16/a-punt-rompe-con-el-fantasma-de-canal-nou-y-reconecta-con-la-ciudadania-por-su-cobertura-de-la-dana.html",
-        "date": "2024-11-16 18:31:42",
-        "sentiment_score": -0.7991817817091942
     },
     {
         "title": "El Intercity se enfrenta al Fuenlabrada sin margen de error",
@@ -6701,5 +6437,535 @@ export default [
         "link": "https://www.leonoticias.com/deportes/tenis/copa-davis/nadal-icono-resiliencia-cierra-circulo-leyenda-lagrimas-carrera-retirada-copa-davis-malaga-paises-bajos-20241120011402-ntrc.html",
         "date": "2024-11-20 00:24:36",
         "sentiment_score": 0.7005914524197578
+    },
+    {
+        "title": "La administración Biden aprueba el envío de minas antipersonales a Ucrania en otro cambio importante de política",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1783905-biden.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "biden",
+            "minas",
+            "armas ee.uu.",
+            "política",
+            "guerra rusia ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/20/administracion-biden-minas-antipersonales-ucrania-trax/",
+        "date": "2024-11-20 05:32:16",
+        "sentiment_score": 0.32969941943883896
+    },
+    {
+        "title": "EE.UU. debe preguntarse si destinar recursos a deportaciones masivas, dice experta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1731763211.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "noticias de donald trump",
+            "fast – news variety",
+            "donald trump",
+            "deportaciones",
+            "deportación inmigrantes"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/deportacion-masiva-empresa-millonaria-eeuu-aristegui-tv/",
+        "date": "2024-11-20 04:15:55",
+        "sentiment_score": -0.19982729852199554
+    },
+    {
+        "title": "EE.UU. debe preguntarse si destinar recursos a deportaciones masivas, dice experta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1731763211.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/deportacion-masiva-empresa-millonaria-eeuu-aristegui-tv",
+        "date": "2024-11-20 04:15:55",
+        "sentiment_score": -0.19601965695619583
+    },
+    {
+        "title": "Residentes de Kyiv conmemoran los 1.000 días de guerra con 1.000 velas encendidas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2024-11-19t165627z-1-lwd090619112024rp1-rtrwnev-d-0906-ukraine-crisis-1000days-candles-mp4-00-02-50-28-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ucrania",
+            "fast – news variety",
+            "videos digitales",
+            "xpress",
+            "ucrania",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-ucrania-rusia-mil-velas-kyiv-conmemoracion-orix/",
+        "date": "2024-11-20 03:58:44",
+        "sentiment_score": 0.02516034245491028
+    },
+    {
+        "title": "Rusia busca disuadir ataques de Occidente con su política nuclear, dice analista",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184728824-20241120034820711.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "misiles",
+            "xpress",
+            "ucrania",
+            "armas nucleares",
+            "rusia",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/politica-nuclear-rusia-occidente-aristegui-tv/",
+        "date": "2024-11-20 03:58:38",
+        "sentiment_score": -0.30659884214401245
+    },
+    {
+        "title": "A 1.000 días de su comienzo, la guerra de Rusia en Ucrania entra en una nueva etapa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184041394-20241120033853782.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "misiles",
+            "xpress",
+            "guatemala",
+            "josé rubén zamora",
+            "rusia",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/1000-dias-guerra-rusia-ucrania-escalada-conclusiones-tv-fast/",
+        "date": "2024-11-20 03:39:44",
+        "sentiment_score": -0.27686572819948196
+    },
+    {
+        "title": "A 1.000 días de su comienzo, la guerra de Rusia en Ucrania entra en una nueva etapa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184041394-20241120033853782.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/1000-dias-guerra-rusia-ucrania-escalada-conclusiones-tv-fast",
+        "date": "2024-11-20 03:39:44",
+        "sentiment_score": -0.16175709664821625
+    },
+    {
+        "title": "Abogado de José Rubén Zamora asegura que están buscando justicia para el periodista fuera de Guatemala",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163943451.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guatemala-ddhh-tortura-jose-ruben-zamora-mp-investigacion-conclusiones-tv",
+        "date": "2024-11-20 03:14:22",
+        "sentiment_score": -0.1591930091381073
+    },
+    {
+        "title": "Abogado de José Rubén Zamora asegura que están buscando justicia para el periodista fuera de Guatemala",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2163943451.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "josé rubén zamora",
+            "guatemala",
+            "cidh"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guatemala-ddhh-tortura-jose-ruben-zamora-mp-investigacion-conclusiones-tv/",
+        "date": "2024-11-20 03:14:22",
+        "sentiment_score": -0.4419533684849739
+    },
+    {
+        "title": "Exembajador de Chile en Moscú analiza el papel que podría jugar Trump en la guerra en Ucrania",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-misiles-guerra-eeuu-rusia-apoyo-armas-nucleares-otan-conclusiones-tv/",
+        "date": "2024-11-20 03:01:35",
+        "sentiment_score": -0.14011447876691818
+    },
+    {
+        "title": "Biden sigue aprobando armas para Ucrania antes de irse: turno para las minas antipersonas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/20/1488781465-kA3H-U603374115131JYB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/biden-sigue-aprobando-armas-ucrania-irse-turno-20241120073209-nt.html",
+        "date": "2024-11-20 06:32:10",
+        "sentiment_score": -0.1196986734867096
+    },
+    {
+        "title": "Omar Hatamleh: «Los niños que están naciendo ahora vivirán sin problema hasta 130 años gracias a la IA»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/11/20/hatamleh-ReVeq54SovUtB2BAWF0WuZM-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/omar-hatamleh-ninos-naciendo-viviran-problema-130-20241120042208-nt.html",
+        "date": "2024-11-20 03:50:59",
+        "sentiment_score": -0.09069269895553589
+    },
+    {
+        "title": "El Gobierno intentará aprobar el jueves una vía para una reforma 'light' del régimen de socimis",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/20/MonteroEFE-RtpBEXf7IBNA80lZVs2eAuM-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-intentara-aprobar-jueves-via-reforma-light-20241120202018-nt.html",
+        "date": "2024-11-20 03:25:38",
+        "sentiment_score": -0.005231618881225586
+    },
+    {
+        "title": "Viaje a la cuna de Confucio",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/19/confucio1-R2Qq37VSp2g2Jo1CQbpu3dL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/viaje-cuna-confucio-20241119141143-nt.html",
+        "date": "2024-11-20 03:22:46",
+        "sentiment_score": -0.04739651083946228
+    },
+    {
+        "title": "La Comisión Europea se plantea ya retrasar los objetivos ambientales",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/20/VDL-RNt0LEP6dmI521wPRSWns8L-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/comision-europea-plantea-retrasar-objetivos-ambientales-20241120182110-nt.html",
+        "date": "2024-11-20 03:20:49",
+        "sentiment_score": -0.021818935871124268
+    },
+    {
+        "title": "Trump resulta ahora el más cuerdo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/19/donald-trumpp-RZ0S9zLlmY75xu9oEDMbmoI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-resulta-cuerdo-20241119041921-nt.html",
+        "date": "2024-11-20 03:19:21",
+        "sentiment_score": -0.08163854479789734
+    },
+    {
+        "title": "España ha concedido casi 250.000 permisos de residencia a directivos e inversores extranjeros en 10 años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5B4JWOC2GBG4PODVJM6SGXILOQ.jpg?auth=4362c7f0ed0f75becae5017270e554ee77d327c37817bdd7b7a944c16b64766c&width=1200",
+        "tags": [
+            "inversión inmobiliaria",
+            "ministerio de inclusión, seguridad social y migraciones",
+            "permisos trabajo",
+            "gobierno",
+            "extracomunitarios",
+            "madrid",
+            "legislación",
+            "visados",
+            "permisos residencia",
+            "vivienda",
+            "inversión",
+            "economía",
+            "inmigración",
+            "pedro sánchez",
+            "barcelona",
+            "emprendedores",
+            "mariano rajoy",
+            "extranjeros"
+        ],
+        "link": "https://elpais.com/economia/2024-11-20/espana-ha-concedido-casi-250000-permisos-de-residencia-a-directivos-e-inversores-extranjeros-en-10-anos.html",
+        "date": "2024-11-20 04:45:00",
+        "sentiment_score": -0.04765602946281433
+    },
+    {
+        "title": "La condena de la memoria: el ‘apartheid’ funerario diseñado por Franco",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TKORXWHEPJH7VG3VNHDRBMMKNU.jpg?auth=56fdc01939c14e3808e28462da5055f98375729b7ec134d3452f40166200db1e&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-20/la-condena-de-la-memoria-el-apartheid-funerario-disenado-por-franco.html",
+        "date": "2024-11-20 04:40:00",
+        "sentiment_score": -0.8443438429385424
+    },
+    {
+        "title": "Cuatro etarras se enfrentan a casi 35 años de cárcel por intentar asesinar a una periodista de EL PAÍS y a otro de Antena 3 en el año 2000",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZPHZYUV4FVGBFM3WPJDOFNKTCY.jpg?auth=3b6c87d12f902a243f9c375f30da06de45253e160481296bd933d7f967af0138&width=1200",
+        "tags": [
+            "españa",
+            "intento asesinato",
+            "eta",
+            "país vasco",
+            "terroristas",
+            "terroristas eta",
+            "juicios",
+            "justicia",
+            "el país",
+            "audiencia nacional",
+            "atentados bomba",
+            "jueces",
+            "san sebastián",
+            "investigación judicial",
+            "delitos",
+            "fiscalía",
+            "el final de eta"
+        ],
+        "link": "https://elpais.com/espana/2024-11-20/cuatro-etarras-se-enfrentan-a-casi-35-anos-de-carcel-por-intentar-asesinar-a-dos-periodistas-de-el-pais-y-antena-3.html",
+        "date": "2024-11-20 04:40:00",
+        "sentiment_score": -0.8557475432753563
+    },
+    {
+        "title": "El choque por el poder en ERC enmaraña la negociación de los planes del Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/V2FJNGMS4VCIXHQFQHQVV5KP2E.jpg?auth=ba80e71753cc1273ae2012b099c92b8bba14c7d06530174a3c1fffb94463a888&width=1200",
+        "tags": [
+            "oriol junqueras",
+            "congreso diputados",
+            "juntsxcat",
+            "carles puigdemont",
+            "psoe",
+            "erc",
+            "presupuestos generales estado",
+            "pedro sánchez",
+            "gobierno",
+            "pp",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-20/el-choque-por-el-poder-en-erc-enmarana-la-negociacion-de-los-planes-del-gobierno.html",
+        "date": "2024-11-20 04:40:00",
+        "sentiment_score": -0.9112896379083395
+    },
+    {
+        "title": "Carlos Mazón endosa la reconstrucción de Valencia a un general retirado para acallar las críticas a la gestión de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FI5AUNK65Z2PFRLXQX44HGNFTQ.jpg?auth=adb34170863247c5cfea5dfd090bace2836127fde3f743152316a4c766ee9ed8&width=1200",
+        "tags": [
+            "gobierno autonómico",
+            "crisis gobierno",
+            "generalitat valenciana",
+            "inundaciones",
+            "pp",
+            "comunidad valenciana",
+            "ppcv",
+            "carlos mazón",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-20/carlos-mazon-endosa-la-reconstruccion-de-valencia-a-un-general-retirado-para-acallar-las-criticas-a-la-gestion-de-la-dana.html",
+        "date": "2024-11-20 04:40:00",
+        "sentiment_score": -0.7076491322368383
+    },
+    {
+        "title": "El paquete fiscal sigue en el aire por las exigencias antagónicas de los aliados del Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7W552EYQD6Y6PA6KRHJM7Y2GQI.jpg?auth=d3e6b73f4993e2ee4b30a73387d7c8841e2f8a1db8d4c0edb17d5abf6fd63b9e&width=1200",
+        "tags": [
+            "impuestos",
+            "congreso diputados",
+            "unión europea",
+            "reforma fiscal",
+            "pp",
+            "impuesto sociedades",
+            "españa",
+            "pactos políticos",
+            "juntsxcat",
+            "pedro sánchez",
+            "partidos conservadores",
+            "votaciones",
+            "comisión europea",
+            "impuesto patrimonio",
+            "podemos",
+            "erc",
+            "mesa congreso",
+            "eaj-pnv",
+            "grupos parlamentarios",
+            "ione belarra",
+            "tributos",
+            "psoe",
+            "bildu"
+        ],
+        "link": "https://elpais.com/espana/2024-11-20/el-paquete-fiscal-sigue-en-el-aire-por-las-exigencias-de-erc-y-podemos.html",
+        "date": "2024-11-20 04:40:00",
+        "sentiment_score": -0.686874195933342
+    },
+    {
+        "title": "La cultura afronta el desastre de la dana, entre la parálisis y la creación",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EHCXWUEE4BE43KKIUBGCDZIHSY.jpg?auth=5fd29615c7c1977d394cb5ff7bcd116415482d129c82f06f3be28ac5df8e2a13&width=1200",
+        "tags": [
+            "dana",
+            "cómic",
+            "comunidad valenciana",
+            "cultura",
+            "cristina durán",
+            "música",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-20/la-cultura-afronta-el-desastre-de-la-dana-entre-la-paralisis-y-la-creacion.html",
+        "date": "2024-11-20 04:40:00",
+        "sentiment_score": -0.8173076622188091
+    },
+    {
+        "title": "Del fuego al agua y el fango: la solidaridad de la sierra de la Culebra con Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UTFURKF72BDUPLVO5RBWUPFROA.jpg?auth=a653ff089ac3f51a9ddfff3c7c10a4d136916127d65a0fb27cbfd6bb1a5f6a87&width=1200",
+        "tags": [
+            "españa",
+            "paiporta",
+            "valencia",
+            "algemesí",
+            "castilla y león",
+            "solidaridad",
+            "incendios",
+            "catástrofes",
+            "comunidad valenciana",
+            "bomberos",
+            "catarroja",
+            "zamora",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/2024-11-20/del-fuego-al-agua-y-el-fango-la-solidaridad-de-la-sierra-de-la-culebra-con-valencia.html",
+        "date": "2024-11-20 04:40:00",
+        "sentiment_score": -0.8695747954770923
+    },
+    {
+        "title": "Tres décadas de obras para que la catedral de Vitoria se cure y sobreviva otros 600 años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3BHRPPQ2BVDIDKE56H2NOYOKSE.jpg?auth=e3a6b6d774a7a21374ed69d35fd8b0d74b07a9a0fd36d0e05f3e3ec2f9620703&width=1200",
+        "tags": [
+            "vitoria",
+            "rehabilitación edificios",
+            "país vasco",
+            "españa",
+            "catedrales",
+            "iglesias",
+            "patrimonio eclesiástico",
+            "restauración patrimonio",
+            "turismo",
+            "patrimonio cultural",
+            "patrimonio artístico"
+        ],
+        "link": "https://elpais.com/espana/paisvasco/2024-11-20/tres-decadas-de-obras-para-que-la-catedral-de-vitoria-se-cure-y-sobreviva-otros-600-anos.html",
+        "date": "2024-11-20 04:00:00",
+        "sentiment_score": 0.6941205225884914
+    },
+    {
+        "title": "Miles de escolares perderán a sus profesores: 4.500 profesionales cambian de trabajo en Madrid antes de Navidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IWATVEL2KFF2LEAV6GCD2OUJPU.jpg?auth=38f78ddc3c00cc3b882dd12a2db475bb219882249faedbcda8832d992c8c5363&width=1200",
+        "tags": [
+            "despido",
+            "educación",
+            "madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-20/miles-de-escolares-perderan-a-sus-profesores-4500-profesionales-cambian-de-trabajo-en-madrid-antes-de-navidad.html",
+        "date": "2024-11-20 04:00:00",
+        "sentiment_score": -0.14650565385818481
+    },
+    {
+        "title": "Stuani, la amenaza que el Espanyol dejó escapar y que supo aprovechar el Girona",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/11/stuani-girona-750x375.jpg",
+        "tags": [
+            "cristhian stuani",
+            "girona",
+            "actualidad",
+            "espanyol"
+        ],
+        "link": "https://lagradaonline.com/christian-stuani-girona-espanyol/",
+        "date": "2024-11-20 06:00:56",
+        "sentiment_score": 0.44105562567710876
+    },
+    {
+        "title": "El correo vuelve a la zona cero",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/494779f7-b3ce-4af3-8d6b-c6054a8ca78e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia/2024/11/20/correo-vuelve-zona-cero-111845476.html",
+        "date": "2024-11-20 06:00:31",
+        "sentiment_score": 0.1761164367198944
+    },
+    {
+        "title": "El Málaga CF se cita con el mejor líder de la historia de Segunda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be6e0f2c-2bd7-4478-b5a7-7c3c2c014a14_16-9-aspect-ratio_default_0_x708y0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malagacf/2024/11/20/malaga-cf-mejor-lider-racing-111848719.html",
+        "date": "2024-11-20 06:00:31",
+        "sentiment_score": 0.7375205978751183
+    },
+    {
+        "title": "\"Para mí Zamora resulta muy especial, es un lugar ‘champion’ en tradiciones\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0506e15f-76dd-4289-8e3a-22f8f1d4a093_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondezamora.es/zamora/2024/11/20/zamora-resulta-especial-lugar-champion-111846417.html",
+        "date": "2024-11-20 06:00:26",
+        "sentiment_score": 0.1257631815969944
+    },
+    {
+        "title": "El error que debes evitar porque te puede salir muy caro si se lleva tu coche la grúa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/09/20/6329f4d0efe7c.png",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20241120/10115761/error-debes-evitar-te-salir-caro-lleva-coche-grua-pvlv.html",
+        "date": "2024-11-20 06:00:00",
+        "sentiment_score": -0.030790649354457855
+    },
+    {
+        "title": "No es Roma, ni Arizona, ni Canadá... es la provincia de Segovia",
+        "image_url": "https://s1.elespanol.com/2024/11/14/castilla-y-leon/region/segovia/901170331_250871397_1706x960.jpg?contentId=ESPIMA20241114_0457",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20241120/no-roma-arizona-canada-provincia-segovia/900910329_0.html",
+        "date": "2024-11-20 06:00:00",
+        "sentiment_score": 0.6799755059182644
+    },
+    {
+        "title": "Los centros de datos toman Málaga: \"Está en una posición única para crecer en este sector\"",
+        "image_url": "https://s1.elespanol.com/2024/11/19/malaga/economia/tecnologia/902420701_251015413_1706x960.jpg?contentId=ESPIMA20241119_0952",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/economia/tecnologia/20241120/centros-datos-toman-malaga-posicion-unica-crecer-sector/902410123_0.html",
+        "date": "2024-11-20 05:50:00",
+        "sentiment_score": 0.6136821769177914
+    },
+    {
+        "title": "Moncloa negó que la asesora de Presidencia trabajara para Begoña: «Se circunscribe al presidente»",
+        "image_url": "https://okdiario.com/img/2024/11/19/moncloa-le-dice-al-congreso-que-el-trabajo-de-la-asistente-interior-1.jpg",
+        "tags": [
+            "españa",
+            "universidad complutense de madrid",
+            "gobierno",
+            "congreso diputados",
+            "begoña gómez",
+            "pedro sánchez"
+        ],
+        "link": "https://okdiario.com/espana/moncloa-nego-que-asesora-presidencia-trabajara-begona-circunscribe-presidente-13841829",
+        "date": "2024-11-20 05:45:31",
+        "sentiment_score": 0.03891041874885559
+    },
+    {
+        "title": "Un libro descubre los secretos de las calles del centro histórico lagunero",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4bc8101-d1e9-4935-ba28-3812d7f8b7b6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/la-laguna/2024/11/20/libro-descubre-secretos-calles-centro-111851830.html",
+        "date": "2024-11-20 05:01:47",
+        "sentiment_score": -0.2682093232870102
+    },
+    {
+        "title": "Salir de su primer bache, el nuevo propósito del Real Murcia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e21b0460-0a20-40a0-8c4f-2a6d7897e30f_16-9-aspect-ratio_default_0_x973y986.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2024/11/20/salir-primer-bache-nuevo-proposito-111844426.html",
+        "date": "2024-11-20 05:01:22",
+        "sentiment_score": -0.11738759279251099
+    },
+    {
+        "title": "Bascoat (Madrid), mejor restaurante nuevo de 2023 en España (y otras noticias gastro)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52882b46-fcce-49ab-a3e7-44962f17cd7d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/20241120/mejores-aperturas-restaurantes-2023-premios-the-fork-111710945",
+        "date": "2024-11-20 06:31:13",
+        "sentiment_score": 0.7183026298880577
+    },
+    {
+        "title": "Dani Martín anuncia concierto en Bilbao dentro de su gira para celebrar sus 25 años en la música",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/11/20/dani-martin-kTjE-U23064668328X3C-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/dani-martin-anuncia-concierto-bilbao-dentro-gira-20241120072807-nt.html",
+        "date": "2024-11-20 06:29:18",
+        "sentiment_score": 0.09363618865609169
+    },
+    {
+        "title": "Paseo de Gracia y Serrano se mantienen como las calles más caras de España (y sus precios rozan máximos históricos)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/25fa056b-3af4-4d61-aaa5-07a4cde1fe86_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/economia/2024/11/20/paseo-gracia-serrano-calles-caras-111856422.html",
+        "date": "2024-11-20 06:28:39",
+        "sentiment_score": -0.16970422863960266
     }
 ];
