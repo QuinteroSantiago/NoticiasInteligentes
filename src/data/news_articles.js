@@ -58,29 +58,6 @@ export default [
         "sentiment_score": -0.31225865334272385
     },
     {
-        "title": "Ataques masivos rusos en Ucrania provocan apagones y matan al menos a cinco personas",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782519-lviv.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de ucrania",
-            "noticias de rusia",
-            "ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/17/ataques-rusos-ucrania-apagones-matan-cinco-personas-trax/",
-        "date": "2024-11-17 11:18:33",
-        "sentiment_score": -0.9066080534830689
-    },
-    {
-        "title": "La Policía de Israel y los servicios de inteligencia inician una investigación tras el lanzamiento de bengalas contra la casa de Netanyahu",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780027-benjamin-netanyahu-cnn.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "israel noticias",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/17/policia-israel-servicios-inteligencia-inician-investigacion-lanzamiento-bengalas-contra-casa-netanyahu-trax/",
-        "date": "2024-11-17 10:58:06",
-        "sentiment_score": -0.8409123327583075
-    },
-    {
         "title": "Ni Ribera ni Mazón pueden seguir",
         "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/11/14/salon-kScC--170x119@La%20Verdad.jpg",
         "tags": [
@@ -151,83 +128,6 @@ export default [
         "link": "https://elpais.com/espana/andalucia/2024-11-17/miles-de-andaluces-muestran-su-indignacion-por-el-deterioro-de-la-sanidad-publica-o-cambian-de-politica-o-los-tendremos-que-echar.html",
         "date": "2024-11-17 15:35:40",
         "sentiment_score": -0.7996790055185556
-    },
-    {
-        "title": "La extraña llamada de Mazón al alcalde de Cullera en la tarde de la tragedia de la dana: “No me alertó de nada”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JYGOAU6DYNDHLIPPX57M5CKVOE.jpg?auth=0a007eced03d9636fd89b1135243dc1d711c12974d9078230f37d60d57c759d3&width=1200",
-        "tags": [
-            "carlos mazón",
-            "valencia",
-            "generalitat valenciana",
-            "política",
-            "comunidad valenciana",
-            "lluvias torrenciales",
-            "dana",
-            "temporales",
-            "emergencias",
-            "inundaciones dana octubre 2024",
-            "aemet",
-            "cullera"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-17/la-extrana-llamada-de-mazon-al-alcalde-de-cullera-en-la-tarde-de-la-tragedia-de-la-dana-no-me-alerto-de-nada.html",
-        "date": "2024-11-17 12:18:54",
-        "sentiment_score": -0.4113634154200554
-    },
-    {
-        "title": "El malestar de las bases de Catalunya en comú estalla en su asamblea: “Si la dirección se votara, habría voto de castigo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CVTJKMZ6HOC33SCKWOVU4GT3RQ.jpg?auth=95214d67dc3887de8b9044faa1f1b0c52b3a134a785a805d5c2b13643a9b8a40&width=1200",
-        "tags": [
-            "cataluña",
-            "jéssica albiach",
-            "partidos políticos",
-            "icv-euia",
-            "barcelona en comú",
-            "cat en comú",
-            "barcelona",
-            "ernest urtasun domenech",
-            "ada colau",
-            "congresos políticos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-17/el-malestar-de-las-bases-de-catalunya-en-comu-estalla-en-su-asamblea-si-la-direccion-se-votara-habria-voto-de-castigo.html",
-        "date": "2024-11-17 11:46:09",
-        "sentiment_score": 0.15176059305667877
-    },
-    {
-        "title": "De Carabanchel a Valencia: así funciona uno de los puntos de recogida para los afectados por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GYR7LIMLEBCUBIU4HXYX6ZONWE.jpg?auth=3eda7c738ee456e91b2bcc3a77914596081e3c3d0d085381861e2ec360c72a1c&width=1200",
-        "tags": [
-            "madrid",
-            "ayuda humanitaria",
-            "lluvias torrenciales",
-            "valencia",
-            "solidaridad",
-            "gimnasios",
-            "catástrofes",
-            "inundaciones",
-            "inundaciones dana octubre 2024",
-            "voluntariado",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-17/de-carabanchel-a-valencia-asi-funciona-uno-de-los-puntos-de-recogida-para-los-afectados-por-la-dana.html",
-        "date": "2024-11-17 11:25:01",
-        "sentiment_score": 0.11110956966876984
-    },
-    {
-        "title": "La historia de la foto de los bomberos de Alfafar, símbolo del paso de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RFVUDXTKPZE4BMRJHOSBNZHTBU.jpeg?auth=27225ccec5e1189114e49e5215b75eb12bdd96685f9b108a487124252a537998&width=1200",
-        "tags": [
-            "fotografía",
-            "lluvias torrenciales",
-            "valencia",
-            "españa",
-            "temporales",
-            "dana",
-            "inundaciones",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/2024-11-17/la-historia-de-la-foto-de-los-bomberos-de-alfafar-simbolo-del-paso-de-la-dana.html",
-        "date": "2024-11-17 11:03:26",
-        "sentiment_score": 0.3615093231201172
     },
     {
         "title": "Las personas sordas quieren hacerse oír: \"El progreso tecnológico no ha ido acompasado con el social\"",
@@ -6667,5 +6567,313 @@ export default [
         "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2024/11/20/juan-carlos-unzue-llevo-tres-8958282.html",
         "date": "2024-11-20 21:13:34",
         "sentiment_score": -0.4260297194123268
+    },
+    {
+        "title": "Australia presenta proyecto de ley para limitar el uso de redes sociales en menores de 16 años. Las empresas tecnológicas se enfrentarían a enormes multas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784446-gettyimages-2038598670-20241120115846599.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "australia",
+            "redes sociales"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/20/australia-ley-limitar-uso-redes-sociales-menores-16-trax/",
+        "date": "2024-11-21 02:12:44",
+        "sentiment_score": -0.8977413466200233
+    },
+    {
+        "title": "Imágenes satelitales muestran paso de ciclón bomba que dejó al menos 2 muertos en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gcy7at0xcaawae4.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/imagenes-satelitales-ciclon-bomba-orix/",
+        "date": "2024-11-21 01:41:31",
+        "sentiment_score": -0.8495409460738301
+    },
+    {
+        "title": "Imágenes satelitales muestran paso de ciclón bomba que dejó al menos 2 muertos en EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/imagenes-satelitales-ciclon-bomba-orix",
+        "date": "2024-11-21 01:41:31",
+        "sentiment_score": -0.7751134037971497
+    },
+    {
+        "title": "A quiénes podría deportar Trump en su segundo mandato",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784442-trump-deportacion.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inmigración",
+            "deportación",
+            "noticias de donald trump",
+            "noticias de ee.uu.",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/20/deportacion-trump-segundo-mandato-estados-unidos-orix/",
+        "date": "2024-11-21 01:33:04",
+        "sentiment_score": -0.627962701022625
+    },
+    {
+        "title": "Los republicanos del panel de ética votan para bloquear la presentación de un informe sobre Gaetz",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784421-c-ap24325663455535.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "matt gaetz",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/20/republicanos-panel-etica-bloquear-presentacion-informe-gaetz-trax/",
+        "date": "2024-11-21 01:13:20",
+        "sentiment_score": -0.6796764638274908
+    },
+    {
+        "title": "Las noticias de América Latina del 20 de noviembre en CNN en Españo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/recorrido-america-latina-20-noviembre-2024-cnne-perspectivas-mexico-tv-fast",
+        "date": "2024-11-21 01:03:43",
+        "sentiment_score": -0.06314891204237938
+    },
+    {
+        "title": "La misión Solar Orbiter capta las imágenes de mayor resolución de la superficie solar hasta ahora",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/phi-visible-light-20230322.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia y espacio",
+            "agencia espacial europea",
+            "misión espacial"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/20/mision-solar-orbiter-imagenes-resolucion-superficie-solar-trax/",
+        "date": "2024-11-21 01:03:12",
+        "sentiment_score": 0.19420084357261658
+    },
+    {
+        "title": "Texas ofrece más de 500 hectáreas al Gobierno de Trump para la construcción de instalaciones de deportación",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173924322.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/texas-500-hectares-trump-instalaciones-deportacion-perspectivas-mexico-tv-fast/",
+        "date": "2024-11-21 00:55:35",
+        "sentiment_score": 0.2368878573179245
+    },
+    {
+        "title": "Premio Nobel de Economía: No es suficiente distribuir lo que existe, se necesita un sector privado dinámico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/premio-nobel-economia-acierto-errores-gobierno-mexico-perspectivas-mexico-tv-fast",
+        "date": "2024-11-21 00:51:35",
+        "sentiment_score": 0.1061011552810669
+    },
+    {
+        "title": "Premio Nobel de Economía: No es suficiente distribuir lo que existe, se necesita un sector privado dinámico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "premio nobel",
+            "pobreza",
+            "méxico",
+            "gobierno de méxico",
+            "economía"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/premio-nobel-economia-acierto-errores-gobierno-mexico-perspectivas-mexico-tv-fast/",
+        "date": "2024-11-21 00:51:35",
+        "sentiment_score": -0.18737152218818665
+    },
+    {
+        "title": "Aldama buscará su libertad aportando datos concretos de los escándalos políticos en los que está implicado",
+        "image_url": "https://s1.elespanol.com/2024/11/20/espana/tribunales/902670791_251049818_854x640.png?contentId=ESPIMA20241120_1067",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20241121/aldama-buscara-libertad-aportando-datos-concretos-escandalos-politicos-implicado/902660339_0.html",
+        "date": "2024-11-21 02:11:46",
+        "sentiment_score": -0.12689441442489624
+    },
+    {
+        "title": "Once detenidos por violar a una menor de Ciudad Real a la que manipularon a través de una aplicación de citas",
+        "image_url": "https://s1.elespanol.com/2024/11/21/eldigitalcastillalamancha/sociedad/sucesos/902919700_251050621_1706x960.jpg?contentId=ESPIMA20241121_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/sociedad/sucesos/20241121/once-detenidos-violar-menor-ciudad-real-manipularon-traves-aplicacion-citas/902660362_0.html",
+        "date": "2024-11-21 02:03:17",
+        "sentiment_score": -0.6018503550440073
+    },
+    {
+        "title": "La esposición \"Testamentvm\" convida a lleer la hestoria del monesteriu de Corniana en 20 documentos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3ca7028-5054-4ff2-97b0-97f4567280f2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/11/21/esposicion-testamentvm-convida-lleer-hestoria-111812260.html",
+        "date": "2024-11-21 02:00:47",
+        "sentiment_score": -0.11300495266914368
+    },
+    {
+        "title": "La Federación de Fútbol de Madrid prohíbe jugar partidos en el campo de Valdemoro: \"Pone en peligro a los jugadores\"",
+        "image_url": "https://s1.elespanol.com/2024/11/20/madrid/sociedad/902670518_251041366_1706x960.jpg?contentId=ESPIMA20241120_0794",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20241121/federacion-futbol-madrid-prohibe-jugar-partidos-campo-valdemoro-pone-peligro-jugadores/902410143_0.html",
+        "date": "2024-11-21 01:14:05",
+        "sentiment_score": 0.40940096229314804
+    },
+    {
+        "title": "¿Ha ganado Feijóo o Sánchez con el 'caso Ribera' en Europa?",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/3c666a78a7d8801d3710619f14ba7a06/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/09/17284693519452.jpg",
+        "tags": [
+            "artículos daniel viaña"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/11/21/673e3382e85ece90328b458e.html",
+        "date": "2024-11-21 00:33:07",
+        "sentiment_score": -0.06685139238834381
+    },
+    {
+        "title": "Ideas, votos y consecuencias",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/05/09/663d0822a7eda.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241121/ideas-votos-consecuencias_246651.html",
+        "date": "2024-11-21 00:30:00",
+        "sentiment_score": -0.04683926701545715
+    },
+    {
+        "title": "3.000 programas de 'Jugones' en laSexta: la alternativa a Los Manolos que se convirtió en referente con Josep Pedrerol",
+        "image_url": "https://s1.elespanol.com/2024/11/19/bluper/902420169_250999099_1706x960.png?contentId=ESPIMA20241119_0420",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/bluper/20241121/programas-jugones-lasexta-alternativa-manolos-convirtio-referente-josep-pedrerol/902410091_0.html",
+        "date": "2024-11-21 00:27:16",
+        "sentiment_score": 0.20246298611164093
+    },
+    {
+        "title": "Quirónsalud Costa Adeje cuidará de la salud de los participantes del Spring Surfest La Américas 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a8c5fe18-19a5-4181-879a-5a9952f255a3_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/salud/2024/11/21/quironsalud-costa-adeje-cuidara-salud-111884983.html",
+        "date": "2024-11-21 00:00:50",
+        "sentiment_score": 0.5106022506952286
+    },
+    {
+        "title": "El mensaje de Rodri que no gustará al madridismo tras ganar el Balón de Oro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/20/culemania/culemaniacos/902669859_13752576_1706x960.jpg?contentId=ESPIMA20241120_0135",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241121/el-mensaje-de-rodri-madridismo-balon-oro/902659850_0.html",
+        "date": "2024-11-20 23:13:40",
+        "sentiment_score": 0.12310892343521118
+    },
+    {
+        "title": "Podemos arrincona al Gobierno con la votación de la reforma fiscal",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/11/25431a6d9d9defb535269a98a8b84f54662c5285-1440x808.jpg",
+        "tags": [
+            "españa",
+            "gobierno de españa",
+            "maría jesús montero",
+            "ione belarra",
+            "junts",
+            "congreso de los diputados",
+            "podemos",
+            "impuestos",
+            "partido popular (pp)",
+            "sumar",
+            "pedro sánchez",
+            "irene montero"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/11/21/podemos-arrincona-al-gobierno-con-la-votacion-de-la-reforma-fiscal/",
+        "date": "2024-11-20 23:06:22",
+        "sentiment_score": 0.09838532283902168
+    },
+    {
+        "title": "Sin ser un eléctrico, este coche híbrido enchufable tiene 7.000 euros de descuento gracias a una autonomía de hasta 133 km",
+        "image_url": "https://s1.elespanol.com/2024/11/20/motor/902670053_251027036_1706x960.jpg?contentId=ESPIMA20241120_0329",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/motor/20241121/sin-electrico-coche-hibrido-enchufable-euros-descuento-gracias-autonomia-km/902160327_0.html",
+        "date": "2024-11-21 01:20:34",
+        "sentiment_score": 0.23843648098409176
+    },
+    {
+        "title": "Felipe Fernández: “Más de 4.500 taxis ya trabajan con Uber, por lo que queremos ser un socio del sector a largo plazo”",
+        "image_url": "https://s1.elespanol.com/2024/11/20/invertia/observatorios/movilidad/902669770_251018155_1706x960.jpg?contentId=ESPIMA20241120_0046",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20241121/felipe-fernandez-taxis-trabajan-uber-queremos-socio-sector-largo-plazo/902659731_0.html",
+        "date": "2024-11-21 01:20:32",
+        "sentiment_score": 0.44735096395015717
+    },
+    {
+        "title": "San Sebastián de los Reyes desafía a Europa: el truco para ser los primeros que no suben la tasa de basuras a sus vecinos",
+        "image_url": "https://s1.elespanol.com/2024/08/22/actualidad/880172138_248625037_1706x960.jpg?contentId=ESPIMA20240822_0164",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241121/san-sebastian-reyes-desafia-europa-truco-primeros-no-suben-tasa-basuras-vecinos/902659922_0.html",
+        "date": "2024-11-21 01:14:02",
+        "sentiment_score": -0.5211706385016441
+    },
+    {
+        "title": "La precocidad de Lamine Yamal y Cubarsí malacostumbra a los culés: la escasa paciencia con los fichajes del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/02/16/culemania/culemaniacos/833176906_12464873_1706x960.jpg?contentId=ESPIMA20240216_0232",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241121/la-lamine-yamal-cubarsi-malacostumbra-los-barca/902659846_0.html",
+        "date": "2024-11-21 01:12:11",
+        "sentiment_score": -0.5475086867809296
+    },
+    {
+        "title": "La vuelta al Camp Nou, el sueño fallido de Laporta para el 125 aniversario del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/21/culemania/palco/902919700_13752606_1706x960.jpg?contentId=ESPIMA20241121_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241121/la-camp-nou-el-laporta-aniversario-barca/902909701_0.html",
+        "date": "2024-11-21 01:10:50",
+        "sentiment_score": 0.2529622260481119
+    },
+    {
+        "title": "Laporta, contra las cuerdas: investigado por hasta cuatro supuestas estafas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/05/05/culemania/palco/852924709_12881530_1706x960.jpg?contentId=ESPIMA20240505_0010",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241121/laporta-contra-cuerdas-investigado-cuatro-supuestas-estafas/902659845_0.html",
+        "date": "2024-11-21 01:10:25",
+        "sentiment_score": -0.717492351308465
+    },
+    {
+        "title": "Risto Mejide se queda impactado con el currículum de una participante y le propone una cosa: \"Debería usted presentar el programa, no yo\"",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/21/risto-mejide-se-queda-impactado-con-el-curriculum-de-una-participante-y-le-propone-una-cosa-deberia_ce8f.jpg",
+        "tags": [
+            "demos: el gran sondeo"
+        ],
+        "link": "https://www.telecinco.es/demos-el-gran-sondeo/20241121/risto-mejide-impactado-curriculum-participante-propone_18_014071931.html",
+        "date": "2024-11-21 00:18:04",
+        "sentiment_score": 0.19559814035892487
+    },
+    {
+        "title": "El rocódromo del futuro llega a Madrid: 10 millones de euros para levantar junto al Metropolitano el primer estadio de escalada del mundo... y un 'megaclub' de pádel",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/dd55e3fa7b272ce79f74c3617bb0f4a7/crop/93x0/1821x1152/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/20/17321290366953.jpg",
+        "tags": [
+            "atlético de madrid",
+            "madrid",
+            "artículos carlos guisasola"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/11/21/673e321bfdddff54298b4598.html",
+        "date": "2024-11-21 00:10:11",
+        "sentiment_score": 0.50783128477633
     }
 ];
