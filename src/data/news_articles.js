@@ -46,73 +46,6 @@ export default [
         "sentiment_score": -0.6674383543431759
     },
     {
-        "title": "Mil días de la invasión: Ucrania podrá usar misiles de EE.UU. contra territorio de Rusia",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184594074.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mil-dias-invasion-rusia-ucrania-uso-misiles-eeuu-cafe-tv",
-        "date": "2024-11-18 14:02:09",
-        "sentiment_score": -0.16664087772369385
-    },
-    {
-        "title": "Mil días de la invasión: Ucrania podrá usar misiles de EE.UU. contra territorio de Rusia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mil-dias-invasion-rusia-ucrania-uso-misiles-eeuu-cafe-tv/",
-        "date": "2024-11-18 14:02:09",
-        "sentiment_score": -0.28784649074077606
-    },
-    {
-        "title": "No deja de llover: alerta roja en Honduras tras el paso de la tormenta tropical Sara",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/alerta-roja-honduras-tegucigalpa-lluvias-tormenta-tropical-sara-cafe-tv",
-        "date": "2024-11-18 13:38:46",
-        "sentiment_score": -0.7084941789507866
-    },
-    {
-        "title": "No deja de llover: alerta roja en Honduras tras el paso de la tormenta tropical Sara",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tormenta tropical",
-            "xpress",
-            "fast – news variety",
-            "honduras",
-            "tegucigalpa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/alerta-roja-honduras-tegucigalpa-lluvias-tormenta-tropical-sara-cafe-tv/",
-        "date": "2024-11-18 13:38:46",
-        "sentiment_score": -0.8286881353706121
-    },
-    {
-        "title": "¿Qué se espera de la cumbre del G20 con la victoria de Trump?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/expectativas-cumbre-g20-trump-milei-primera-manana-fast",
-        "date": "2024-11-18 13:32:45",
-        "sentiment_score": -0.10738798975944519
-    },
-    {
-        "title": "¿Qué se espera de la cumbre del G20 con la victoria de Trump?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "argentina",
-            "fast – news variety",
-            "cumbre de g20",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/expectativas-cumbre-g20-trump-milei-primera-manana-fast/",
-        "date": "2024-11-18 13:32:45",
-        "sentiment_score": -0.07306566834449768
-    },
-    {
         "title": "Bomberos franceses anuncian una huelga de hambre tras semanas de paros para exigir más recursos",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/18/Pompiers-kzqH-U603366016046ybE-1200x840@diario_abc.jpg",
         "tags": [
@@ -191,26 +124,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/poco-tiempo-semanal-ejercicio-necesitas-reducir-riesgo-20241118153432-nt.html",
         "date": "2024-11-18 14:40:45",
         "sentiment_score": -0.1233721375465393
-    },
-    {
-        "title": "España recibió 91,5 millones de pasajeros internacionales hasta octubre, según Turespaña",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/18/turistas-RxdWkhnvzhTS6IOa26ZhsXP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/espana-recibio-915-millones-pasajeros-internacionales-octubre-20241118120245-nt.html",
-        "date": "2024-11-18 13:18:30",
-        "sentiment_score": -0.1049690842628479
-    },
-    {
-        "title": "La DANA alcanza las cifras del huracán Katrina: el coste económico equivale al 1% del PIB nacional",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/18/1488844913-R71ydrcbEKB2kZqyWWQtVSI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dana-alcanza-cifras-huracan-katrina-coste-economico-20241118140900-nt.html",
-        "date": "2024-11-18 13:10:11",
-        "sentiment_score": -0.09948468208312988
     },
     {
         "title": "Carlos Mazón alarga su crisis de gobierno con un goteo lento de cambios pero niega que sea por no hallar candidatos",
@@ -348,50 +261,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-18/feijoo-pide-humildad-a-mazon-y-le-presiona-para-seguir-reconociendo-errores-y-asumiendo-responsabilidades.html",
         "date": "2024-11-18 14:44:23",
         "sentiment_score": 0.03231136500835419
-    },
-    {
-        "title": "El juez del ‘caso Begoña Gómez’ imputa al directivo del IE y exconsejero madrileño del PP Juan José Güemes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AIK4JSOJZNBN5CHN2V66AEKF6E.jpg?auth=a8563709efd4b88de485c78443abe8e2d62b97acb920397464ee5ac263dbe08f&width=1200",
-        "tags": [
-            "begoña gómez fernández",
-            "justicia",
-            "juan josé güemes",
-            "corrupción",
-            "españa",
-            "juan carlos peinado",
-            "política",
-            "ie business",
-            "gobierno",
-            "tribunales",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/2024-11-18/el-juez-del-caso-begona-gomez-imputa-al-directivo-del-ie-y-exconsejero-madrileno-juan-jose-guemes.html",
-        "date": "2024-11-18 12:47:33",
-        "sentiment_score": -0.08578655123710632
-    },
-    {
-        "title": "Militantes de Arran vandalizan la casa de Piqué en la Cerdanya con la frase “fuera pijos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DMF3BIMNJZAB7JJQCMYI3AN2HQ.jpg?auth=8749e64645b613c3aceee019cfb4131e87c2fa5496377a215804c8a5c8f6e2b9&width=1200",
-        "tags": [
-            "leasing",
-            "fútbol",
-            "futbolistas",
-            "vivienda",
-            "precios",
-            "jóvenes",
-            "brecha salarial",
-            "cataluña",
-            "barca",
-            "renting",
-            "asociaciones",
-            "juventud",
-            "arran",
-            "protestas sociales",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-18/militantes-de-arran-pintan-la-casa-de-pique-en-la-cerdanya-con-la-frase-fuera-pijos.html",
-        "date": "2024-11-18 12:38:29",
-        "sentiment_score": -0.463296040892601
     },
     {
         "title": "Solaria gana 57 millones a septiembre y acelera su apuesta por los 'data centers' con una cartera de 1,7 GW",
@@ -7057,5 +6926,312 @@ export default [
         "link": "https://www.heraldo.es/noticias/aragon/2024/11/21/illa-coincide-en-bruselas-con-puig-tras-aplazarse-el-juicio-de-sijena-al-no-poder-citarlo-1779756.html",
         "date": "2024-11-21 21:32:32",
         "sentiment_score": -0.48827946558594704
+    },
+    {
+        "title": "Rancheros en la \"puerta\" de un muro fronterizo incompleto confían en que Trump lo termine",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784782-img-2713.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inmigración",
+            "muro fronterizo"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/21/rancheros-muro-fronterizo-incompleto-confian-trump-trax/",
+        "date": "2024-11-22 02:02:56",
+        "sentiment_score": -0.892796978354454
+    },
+    {
+        "title": "Cómo el asesinato de Laken Riley cambió la vida de estudiantes y amantes de la naturaleza en la Universidad de Georgia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784991-20241115-162512.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "noticias de ee.uu.",
+            "laken riley",
+            "asesinato"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/21/asesinato-laken-riley-sendero-estudiantes-universidad-trax/",
+        "date": "2024-11-22 02:02:24",
+        "sentiment_score": -0.6906303204596043
+    },
+    {
+        "title": "Analista: México pasará de ser referente en el acceso a la información a ser uno de los peores con la desaparición del INAI",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/comunicado-inai-336-24-20241122014833480.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "reformas",
+            "inai",
+            "gobierno de méxico",
+            "méxico",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desaparicion-inai-acceso-informacion-perspectivas-mexico-tv-fast/",
+        "date": "2024-11-22 01:51:04",
+        "sentiment_score": -0.591588169336319
+    },
+    {
+        "title": "Analista: México pasará de ser referente en el acceso a la información a ser uno de los peores con la desaparición del INAI",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/comunicado-inai-336-24-20241122014833480.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desaparicion-inai-acceso-informacion-perspectivas-mexico-tv-fast",
+        "date": "2024-11-22 01:51:04",
+        "sentiment_score": -0.9122931510210037
+    },
+    {
+        "title": "Sheinbaum: “Habrá más transparencia” tras desaparición del INAI",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21145543-9957-26-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "claudia sheinbaum"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-desaparicion-inai-camara-diputados-organos-autonomos-panorama-mundial-tv/",
+        "date": "2024-11-22 01:49:18",
+        "sentiment_score": -0.49022163450717926
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 21 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1750156579.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-21-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-22 01:27:13",
+        "sentiment_score": 0.12902915477752686
+    },
+    {
+        "title": "Así fue el momento en el que un hombre aferrado a un acantilado es rescatado en helicóptero",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/110449goldengate-20241122012250979.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "helicóptero",
+            "fast – news variety",
+            "xpress",
+            "noticias de ee.uu.",
+            "ee.uu.",
+            "rescate"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rescate-helicoptero-san-francisco-trax/",
+        "date": "2024-11-22 01:23:48",
+        "sentiment_score": -0.2274111807346344
+    },
+    {
+        "title": "Así fue el momento en el que un hombre aferrado a un acantilado es rescatado en helicóptero",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/110449goldengate-20241122012250979.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rescate-helicoptero-san-francisco-trax",
+        "date": "2024-11-22 01:23:48",
+        "sentiment_score": -0.39193403720855713
+    },
+    {
+        "title": "¿Quién es el candidato favorito para ganar la segunda vuelta en las elecciones presidenciales de Uruguay? Esto dicen las encuestas antes de la veda electoral",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1781934-copia-de-foto-para-wp-3.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "uruguay"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/21/encuestas-segunda-vuelta-elecciones-presidenciales-uruguay-orix/",
+        "date": "2024-11-22 01:10:54",
+        "sentiment_score": -0.059046655893325806
+    },
+    {
+        "title": "Robert F. Kennedy Jr. comparó a Trump con Hitler y elogió las descripciones de sus partidarios como \"nazis\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785008-c-gettyimages-2162975398.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "robert f. kennedy jr.",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/21/robert-f-kennedy-jr-trump-hitler-nazis-trax/",
+        "date": "2024-11-22 00:33:29",
+        "sentiment_score": -0.786469578742981
+    },
+    {
+        "title": "Citan a Alberto Fernández a declarar tras su imputación por violencia machista",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/22/fernandez-kyoH-U603383772208Z0-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/citan-alberto-fernandez-declarar-tras-imputacion-violencia-20241122015810-nt.html",
+        "date": "2024-11-22 00:58:11",
+        "sentiment_score": -0.20970921218395233
+    },
+    {
+        "title": "Los partidos rechazan el intento de Vox de que los migrantes no usen las paradas de bus de Hortaleza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KMT7BJDMFFGMLNKUAF5HHWAKD4.jpeg?auth=05679292b1116535aefbbf7cea3f93c108ac440153cb0e7e9e0a1c712d8bb67c&width=1200",
+        "tags": [
+            "madrid",
+            "emt",
+            "josé luis martínez almeida",
+            "menores migrantes",
+            "vox",
+            "comunidad de madrid",
+            "ultraderecha",
+            "migrantes"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-21/los-partidos-rechazan-el-intento-de-vox-de-que-los-migrantes-no-usen-las-paradas-de-bus-de-hortaleza.html",
+        "date": "2024-11-21 22:32:29",
+        "sentiment_score": -0.7089501395821571
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, viernes 22 de noviembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b35ef5d-7043-4d2f-9199-a7f5e5ab048d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/11/22/tiempo-alicante-alacant-prevision-meteorologica-111928010.html",
+        "date": "2024-11-22 01:53:46",
+        "sentiment_score": 0.40750744193792343
+    },
+    {
+        "title": "Los mejores planes este fin de semana en Madrid: adelantarse a la Navidad en Torrejón o asistir a un desfile solidario",
+        "image_url": "https://s1.elespanol.com/2023/11/27/madrid/sociedad/812929383_237966419_1706x960.jpg?contentId=ESPIMA20231127_0684",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241122/mejores-planes-fin-semana-madrid-adelantarse-navidad-torrejon-asistir-desfile-solidario/902659829_0.html",
+        "date": "2024-11-22 01:42:11",
+        "sentiment_score": 0.6677456013858318
+    },
+    {
+        "title": "Exposiciones naturales en Valencia o cine butanés en Madrid: estos son los planes ODS de la semana",
+        "image_url": "https://s1.elespanol.com/2024/11/21/enclave-ods/historias/902920462_251074574_1706x960.png?contentId=ESPIMA20241121_0763",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20241122/exposiciones-naturales-valencia-cine-butanes-madrid-planes-ods-semana/902909966_0.html",
+        "date": "2024-11-22 01:30:02",
+        "sentiment_score": 0.20767316222190857
+    },
+    {
+        "title": "El músculo inversor cacereño que aúpa la colaboración público-privada para escalar la innovación de la región",
+        "image_url": "https://s1.elespanol.com/2024/11/21/invertia/disruptores/ecosistema-startup/inversores/902919803_251053841_1706x960.jpg?contentId=ESPIMA20241121_0104",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/inversores/20241122/musculo-inversor-cacereno-aupa-colaboracion-publico-privada-escalar-innovacion-region/902909769_0.html",
+        "date": "2024-11-22 01:24:38",
+        "sentiment_score": 0.7021207883954048
+    },
+    {
+        "title": "Aldama sale de prisión tras acusar del cobro de mordidas a ministros y cargos del PSOE",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/11/22/pol-aldama-mordidas-ministros-koHG-U23085972290MKI-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/politica/aldama-declara-mordidas-ministros-cargos-extiende-psoe-20241122010658-nt.html",
+        "date": "2024-11-22 01:03:38",
+        "sentiment_score": 0.3345726355910301
+    },
+    {
+        "title": "21 NOV 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/21-nov-2024-partidazo-cope-20241122_3050570.html",
+        "date": "2024-11-22 00:59:19",
+        "sentiment_score": -0.2196793332695961
+    },
+    {
+        "title": "Adiós al sueño de fichar a Achraf: el marroquí renueva con el PSG hasta 2029",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/22/2024112201323066580.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/adios-sueno-fichar-achraf-marroqui-renueva-psg-2029/20241122014056324869.html",
+        "date": "2024-11-22 00:40:56",
+        "sentiment_score": -0.7012888640165329
+    },
+    {
+        "title": "Uniphore y Konecta unen fuerzas para el desarrollo de la IA en la experiencia de cliente y la transformación digital",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.postregister.com/businessreport/technology/uniphore-y-konecta-unen-fuerzas-para-el-desarrollo-de-la-ia-en-la-experiencia-de/article_55f409ff-f0db-5c54-92f6-c07864614d58.html",
+        "date": "2024-11-22 00:40:34",
+        "sentiment_score": -0.09343209490180016
+    },
+    {
+        "title": "De la nube pública a la nube privada: un paso",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/16/6738fde460ced.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241122/10113712/nube-publica-nube-privada-paso.html",
+        "date": "2024-11-22 02:00:00",
+        "sentiment_score": 0.4178927354514599
+    },
+    {
+        "title": "Los cinco pueblos más bonitos cerca de Barcelona para ver en un día, según ChatGPT",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/06/25/B178ACA5-B47A-4187-AE8F-C381C986635C/jovenes-ciudad-barcelona_96.jpg?crop=1236%2C695%2Cx0%2Cy115&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/cinco-pueblos-mas-bonitos-cerca-barcelona-ver-dia-segun-chatgpt_20241122673fe4bcd43601000152e863.html",
+        "date": "2024-11-22 01:56:12",
+        "sentiment_score": 0.22142711281776428
+    },
+    {
+        "title": "Primer día de juzgamiento de ganado en la Monagas Expo Agroindustrial 2024",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/11/Primer-dia-de-juzgamiento-de-ganado-en-la-Monagas-Expo-Agroindustrial-2024-21-de-nov-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "maturín",
+            "venezuela",
+            "monagas",
+            "local"
+        ],
+        "link": "https://elorientaldemonagas.com/primer-dia-de-juzgamiento-de-ganado-en-la-monagas-expo-agroindustrial-2024/",
+        "date": "2024-11-22 01:50:40",
+        "sentiment_score": -0.04172724485397339
+    },
+    {
+        "title": "'Nací del barro', la plataforma creada por Esther para ayudar a Paiporta, el pueblo de los 45 ahogados por la DANA",
+        "image_url": "https://s1.elespanol.com/2024/11/21/actualidad/902919851_251055410_1706x960.jpg?contentId=ESPIMA20241121_0152",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/valencia/reconstruir-valencia/20241122/naci-barro-plataforma-creada-esther-ayudar-paiporta-pueblo-ahogados-dana/902909816_0.html",
+        "date": "2024-11-22 01:00:00",
+        "sentiment_score": -0.0877191573381424
+    },
+    {
+        "title": "LA Galaxy: Tres semanas entre juegos de playoffs es una 'espera muy larga'; va contra Minnesota FC",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c84079d/2147483647/strip/true/crop/2048x1075+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fea%2F0e%2F96a5816843a5aff62c9e7c02b772%2Frmr56923-1.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-11-21/la-galaxy-tres-semanas-entre-juegos-de-playoffs-es-una-espera-muy-larga-va-contra-minnesota-fc",
+        "date": "2024-11-22 00:37:28",
+        "sentiment_score": -0.23241164907813072
+    },
+    {
+        "title": "Celta-Barcelona y Leganés-Real Madrid los platos fuertes de La Liga",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/11/El-beneficiado-de-la-posible-ausencia-de-Yamal-seria-Pau-Victor.-Foto-AP-696x522.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/197903/celta-barcelona-y-leganes-real-madrid-los-platos-fuertes-de-la-liga/",
+        "date": "2024-11-22 00:26:34",
+        "sentiment_score": -0.08284087479114532
+    },
+    {
+        "title": "Gerard Piqué fulmina a su Echevarría particular de la Kings League",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/10/08/culemania/culemaniacos/800430104_8942437_1706x960.jpg?contentId=ESPIMA20231008_0155",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241122/gerard-pique-fulmina-echevarria-particular-kings-league/902909760_0.html",
+        "date": "2024-11-22 00:25:17",
+        "sentiment_score": -0.5132682994008064
+    },
+    {
+        "title": "Las medias verdades de Laporta con el regreso del Barça al Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/19/culemania/palco/871672829_13246060_1706x960.jpg?contentId=ESPIMA20240719_0005",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241122/las-verdades-laporta-regreso-barca-camp-nou/902909773_0.html",
+        "date": "2024-11-22 00:25:14",
+        "sentiment_score": -0.9098546411842108
     }
 ];
