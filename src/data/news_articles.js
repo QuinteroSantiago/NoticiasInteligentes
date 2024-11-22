@@ -1,204 +1,5 @@
 export default [
     {
-        "title": "Trump redobla su apuesta por las provocativas elecciones para el gabinete mientras sus destinos penden de un hilo",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782756-trump-8a5d96.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "donald trump",
-            "trump",
-            "gabinete"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/18/trump-redobla-apuesta-tras-elecciones-gabinete-destinos-penden-hilo-trax/",
-        "date": "2024-11-18 06:22:12",
-        "sentiment_score": -0.825501186773181
-    },
-    {
-        "title": "Los candidatos presidenciales uruguayos se comprometieron en debate a no subir impuestos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782708-a-una-semana-del-balotaje-en-uruguay-orsi-y-delgado-protagonizan-el-primer-debate-presidencial.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "uruguay",
-            "elecciones"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/18/candidatos-uruguay-debate-compromiso-no-subir-impuestos-efe/",
-        "date": "2024-11-18 05:56:36",
-        "sentiment_score": -0.22309765219688416
-    },
-    {
-        "title": "Impacta en Jordania un interceptor israelí fallido lanzado por la presencia de un dron proiraní",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/18/jordania-k1cH-U603362975500i8F-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/impacta-jordania-interceptor-israeli-fallido-lanzado-presencia-20241118064216-nt.html",
-        "date": "2024-11-18 05:42:17",
-        "sentiment_score": -0.18104997277259827
-    },
-    {
-        "title": "RTVE, sin sanciones a los sospechosos de filtrar el examen de oposición un mes y medio después de suspenderse",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/939e686b-5d97-41de-a6c7-343404e13e82_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2024/11/18/rtve-sanciones-sospechosos-filtrar-examen-111780854.html",
-        "date": "2024-11-18 06:23:19",
-        "sentiment_score": -0.7394161894917488
-    },
-    {
-        "title": "De la UMA a triunfar en sus entrevistas laborales",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f6d982d9-2ea4-407f-bef0-c09b6968ce66_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2024/11/18/uma-triunfar-entrevistas-laborales-111773553.html",
-        "date": "2024-11-18 06:00:56",
-        "sentiment_score": -0.3785654306411743
-    },
-    {
-        "title": "A dos décadas del descubrimiento del yacimiento de la Plaza de la Catedral",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1125802",
-        "date": "2024-11-18 06:00:50",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Embalses de San Juan y Picadas, dos paraísos de agua en el corazón de la Comunidad de Madrid",
-        "image_url": "https://okdiario.com/img/2024/11/12/istock-1305803155.jpg",
-        "tags": [
-            "deportes",
-            "turismo",
-            "españa",
-            "comunidad de madrid",
-            "no-publi",
-            "madrid",
-            "ocio"
-        ],
-        "link": "https://okdiario.com/madrid/embalses-san-juan-picadas-dos-paraisos-agua-corazon-comunidad-madrid-13658234",
-        "date": "2024-11-18 06:00:43",
-        "sentiment_score": 0.49439433962106705
-    },
-    {
-        "title": "Alemania teme que la guerra comercial restará un punto a su crecimiento",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/2/5/a/joachim_nagel.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13088608/11/24/alemania-teme-que-la-guerra-comercial-restara-un-punto-a-su-crecimiento.html",
-        "date": "2024-11-18 06:00:05",
-        "sentiment_score": -0.6275195404887199
-    },
-    {
-        "title": "Alonso Aznar y Renata Collado, los novios discretos que quieren una boda fuera de foco",
-        "image_url": "https://www.hola.com/horizon/landscape/2f2689fc98d0-cp44180cut.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20241118729686/alonso-aznar-renata-collado-novios-discretos-boda-fuera-foco/",
-        "date": "2024-11-18 06:00:00",
-        "sentiment_score": 0.2961643934249878
-    },
-    {
-        "title": "Antipolítica y franquismo de Sánchez a Gómez",
-        "image_url": "https://s1.elespanol.com/2023/04/14/castilla-y-leon/opinion/756184586_232410302_1706x960.jpg?contentId=ESPIMA20230414_0212",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/opinion/20241118/antipolitica-franquismo-sanchez-gomez/902039792_13.html",
-        "date": "2024-11-18 06:00:00",
-        "sentiment_score": -0.13491111993789673
-    },
-    {
-        "title": "NIA, cantante: \"La música es complicada, porque es un mundo con muchos intereses\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_948_465/uploads/2024/11/17/673a2c315eb17.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20241118/1002354813/nia-cantante-musica-complicada-mundo-intereses-dct.html",
-        "date": "2024-11-18 06:23:52",
-        "sentiment_score": 0.7301185429096222
-    },
-    {
-        "title": "Dónde hará goles Haaland",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/06/culemania/primer-equipo/899170077_13738730_1706x960.jpg?contentId=ESPIMA20241106_0003",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/juanito-blaugrana/20241118/donde-hara-goles-haaland/902159777_0.html",
-        "date": "2024-11-18 06:17:21",
-        "sentiment_score": -0.1821206659078598
-    },
-    {
-        "title": "El clima y las riadas",
-        "image_url": "https://www.diariodenavarra.es/images/envelope-open-text-solid.png",
-        "tags": [
-            "cartas al director"
-        ],
-        "link": "https://www.diariodenavarra.es/contenidos/participacion/cartasaldirector/2024/11/18/el-clima-riadas.html",
-        "date": "2024-11-18 06:17:04",
-        "sentiment_score": -0.19901175796985626
-    },
-    {
-        "title": "Lo que debes saber hoy, 18 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/08/21/vivir-en-barcelona/879922099_13364055_1706x960.png?contentId=ESPIMA20240821_0100",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241118/lo-que-debes-saber-hoy-de-noviembre-barcelona/902159778_0.html",
-        "date": "2024-11-18 06:16:18",
-        "sentiment_score": 0.24456869810819626
-    },
-    {
-        "title": "Spiderman y la moral de Albert Sánchez Piñol",
-        "image_url": "https://static1.ara.cat/clip/0332ba24-08f7-4929-8296-a4e2963d4061_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/spiderman-moral-albert-sanchez-pinol_129_5204423.html",
-        "date": "2024-11-18 06:15:53",
-        "sentiment_score": -0.09039905667304993
-    },
-    {
-        "title": "Airbnb pide a Collboni reconsiderar la restricción a la vivienda turística tras su \"nulo\" efecto",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/18/airbnb-pide-a-collboni-reconsiderar-la-restriccion-a-la-vivienda-turistica-tras-su-nulo-efecto.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/noticia/5655105/0/airbnb-pide-collboni-reconsiderar-restriccion-vivienda-turistica-tras-su-nulo-efecto/",
-        "date": "2024-11-18 06:04:07",
-        "sentiment_score": 0.12536968290805817
-    },
-    {
-        "title": "El CD Málaga de hace 35 años",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dcd251ee-1669-4ee8-9879-38d908cbc66c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/11/18/cd-malaga-35-anos-111777749.html",
-        "date": "2024-11-18 06:01:05",
-        "sentiment_score": -0.328321248292923
-    },
-    {
-        "title": "Café y una tarde de cerámica: la nueva tendencia que trae colas en esta cafetería de Sevilla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e61ac607-e489-4a0d-8a19-6f8c453aae47_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2024/11/18/cafe-tarde-ceramica-nueva-tendencia-111560258.html",
-        "date": "2024-11-18 06:01:02",
-        "sentiment_score": -0.3642364963889122
-    },
-    {
-        "title": "La Magna, una prueba de fuego para la ciudad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd6f68ff-079a-4820-a5d0-2f8030d2862d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2024/11/18/magna-prueba-fuego-ciudad-111729755.html",
-        "date": "2024-11-18 06:01:01",
-        "sentiment_score": 0.23297064751386642
-    },
-    {
         "title": "El enviado de EE.UU. llega a Beirut mientras el país responde \"positivamente\" a la propuesta de alto el fuego, dice el primer ministro del Líbano",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782899-copia-de-foto-para-wp-2024-11-18t101639-192.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6724,5 +6525,537 @@ export default [
         "link": "https://www.infosalus.com/asistencia/noticia-neurologo-destaca-papel-ia-mejorar-diagnosticos-enfermedades-neuromusculares-20241121175344.html",
         "date": "2024-11-21 16:53:44",
         "sentiment_score": 0.35835227370262146
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 21 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782507-pete-hegseth.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-21-de-noviembre-2024-dusa-tarde-fast",
+        "date": "2024-11-21 22:14:05",
+        "sentiment_score": 0.0754813626408577
+    },
+    {
+        "title": "Estados Unidos busca dividir a Google para prevenir prácticas ilegales",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-486234008.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/google-chrome-navegador-internet-eeuu-doj-tecnologia-cnn-dinero-tv/",
+        "date": "2024-11-21 22:14:01",
+        "sentiment_score": -0.8320085573941469
+    },
+    {
+        "title": "Detienen en California a líder del CJNG y yerno del Mencho que fingió su muerte, según el Depto. de Justicia de EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784926-departamento-justicia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "narcotráfico",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/21/detienen-lider-cjng-mencho-departamento-justicia-ee-uu-trax/",
+        "date": "2024-11-21 21:40:19",
+        "sentiment_score": -0.5813734978437424
+    },
+    {
+        "title": "Cortes de energía por el ciclón bomba en EE.UU. podrían durar hasta el fin de semana, a medida que se avecina una nueva tormenta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784928-copia-de-foto-para-wp-2024-11-21t142031-744.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "ee.uu.",
+            "bomba ciclónica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/21/cortes-energia-ciclon-bomba-fin-semana-nueva-tormenta-trax/",
+        "date": "2024-11-21 21:26:12",
+        "sentiment_score": -0.8274092469364405
+    },
+    {
+        "title": "Cortes de energía por la bomba ciclónica en EE.UU. podrían durar hasta el fin de semana, a medida que se avecina una nueva tormenta",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784928-copia-de-foto-para-wp-2024-11-21t142031-744.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bomba ciclónica",
+            "noticias de ee.uu.",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/21/cortes-energia-bomba-ciclonica-fin-semana-nueva-tormenta-trax/",
+        "date": "2024-11-21 21:26:12",
+        "sentiment_score": -0.8366096206009388
+    },
+    {
+        "title": "Trump pone a la venta guitarras valoradas en US$ 10.000",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/trumpguitar-20241121204839548.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "estados unidos noticias",
+            "donald trump",
+            "noticias de donald trump",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-guitarra-venta-diez-mil-dolares-ush-trax/",
+        "date": "2024-11-21 21:11:47",
+        "sentiment_score": 0.29678943008184433
+    },
+    {
+        "title": "Ciclón bomba arranca árboles y llena las carreteras de escombros en Seattle",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/21143680-aftermath-bomb-cyclone-00-00-43-02-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ciclon-bomba-arboles-carreteras-seattle-estados-unidos-orix/",
+        "date": "2024-11-21 21:09:11",
+        "sentiment_score": -0.5506715103983879
+    },
+    {
+        "title": "Ciclón bomba arranca árboles y llena las carreteras de escombros en Seattle",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ciclon-bomba-arboles-carreteras-seattle-estados-unidos-orix",
+        "date": "2024-11-21 21:09:11",
+        "sentiment_score": -0.7309680320322514
+    },
+    {
+        "title": "Bomba ciclónica arranca árboles y llena las carreteras de escombros en Seattle",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/21143680-aftermath-bomb-cyclone-00-00-43-02-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress",
+            "bomba ciclónica",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bomba-ciclonica-arboles-carreteras-seattle-estados-unidos-ush-orix/",
+        "date": "2024-11-21 21:09:11",
+        "sentiment_score": -0.5593825280666351
+    },
+    {
+        "title": "Subastan por US$ 6,2 millones una banana pegada con cinta a la pared",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/subasta-arte-banana-pegada-pared-cafe-tv",
+        "date": "2024-11-21 21:07:50",
+        "sentiment_score": -0.14211101084947586
+    },
+    {
+        "title": "El punki y el legionario",
+        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/provincia/2024/11/20/Clipboard--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-punki-legionario-20241121224836-nt.html",
+        "date": "2024-11-21 21:48:52",
+        "sentiment_score": -0.12522506713867188
+    },
+    {
+        "title": "Aldama y sus largos en El Trastámara",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/11/15/navidad-kqOE--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-aldama-largos-trastamara-20241122182455-nts.html",
+        "date": "2024-11-21 19:33:27",
+        "sentiment_score": -0.07996603846549988
+    },
+    {
+        "title": "Un testimonio devastador",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/11/19/desempleoooo-U78648601513qkl-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-testimonio-devastador-20241122201610-nt.html",
+        "date": "2024-11-21 19:33:01",
+        "sentiment_score": -0.16156059503555298
+    },
+    {
+        "title": "Teseo en Euskadi",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/22/tribuna-RDpgAI1yEkk15hwe0SdRY2M-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-benitez-burraco-teseo-euskadi-20241122190231-nts.html",
+        "date": "2024-11-21 19:23:54",
+        "sentiment_score": -0.12001818418502808
+    },
+    {
+        "title": "Airbus analizará cómo añadir armas antisubmarinas a los helicópteros NH90 del Ejército por 10 millones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/21/1437224238-k2mG-U603382815387eMF-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/airbus-analizara-anadir-armas-antisubmarinas-helicopteros-nh90-20241121202108-nt.html",
+        "date": "2024-11-21 19:21:09",
+        "sentiment_score": -0.11766387522220612
+    },
+    {
+        "title": "La Policía de Brasil acusa a Jair Bolsonaro de intento de golpe de Estado tras las elecciones de 2022",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/21/Bolsonaro-ktiE-U603382736199qIC-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/policia-brasil-acusa-jair-bolsonaro-intento-golpe-20241121194621-nt.html",
+        "date": "2024-11-21 19:09:46",
+        "sentiment_score": -0.14607569575309753
+    },
+    {
+        "title": "Respirar bajo el agua sucia",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2024/11/19/banco-komD--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/carlos-herrera-respirar-bajo-agua-sucia-20241122193613-nt.html",
+        "date": "2024-11-21 18:58:00",
+        "sentiment_score": -0.14925575256347656
+    },
+    {
+        "title": "Aldama canta el Gordo",
+        "image_url": "https://s2.ppllstatics.com/larioja/www/multimedia/2024/11/19/99987957-khUC--170x119@La%20Rioja.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alvaro-martinez-aldama-canta-gordo-20241122171722-nt.html",
+        "date": "2024-11-21 18:27:16",
+        "sentiment_score": -0.1134943962097168
+    },
+    {
+        "title": "Enseñanzas de la Transición española",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/22/241122Tercera-ReHMqWedK2h9FOPAEHG9CuO-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-moreno-ocampo-ensenanzas-transicion-espanola-20241122171717-nt.html",
+        "date": "2024-11-21 18:26:23",
+        "sentiment_score": -0.05961722135543823
+    },
+    {
+        "title": "Código rojo",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/11/17/1487958082--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-codigo-rojo-20241122192604-nt.html",
+        "date": "2024-11-21 18:26:11",
+        "sentiment_score": -0.24268074333667755
+    },
+    {
+        "title": "Barcelona y su área metropolitana ultiman una subida del recibo del agua de casi un 6% para 2025",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Q7BDFAWFSNGRNE2WAPZMFC35JY.jpg?auth=fe1d0bd0b0af08302d72668bd852bee1fa3d4852ebdb9687e9f42268a04abdd0&width=1200",
+        "tags": [
+            "tarifas eléctricas",
+            "barcelona",
+            "área metropolitana barcelona",
+            "jaume collboni",
+            "cataluña",
+            "agua",
+            "psc",
+            "amb",
+            "cambio climático",
+            "sequía"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-22/barcelona-y-su-area-metropolitana-ultiman-una-subida-del-recibo-del-agua-de-casi-un-6-para-2025.html",
+        "date": "2024-11-21 21:03:00",
+        "sentiment_score": -0.05492262542247772
+    },
+    {
+        "title": "Andrés Casinello, el general que allanó el camino a la transición y guardó los secretos de la lucha contra ETA",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CXCRNXNWPJAUHEY3YQADXGLI7A.jpg?auth=030b5a155d02f71293cfeee054aa4945a86ca1132d2cc3a95c971cd59676543a&width=1200",
+        "tags": [
+            "españa",
+            "gal",
+            "felipe gonzález márquez",
+            "obituarios",
+            "eta",
+            "adolfo suarez",
+            "operación galaxia",
+            "23-f",
+            "militares carrera"
+        ],
+        "link": "https://elpais.com/espana/2024-11-21/andres-casinello-el-general-que-allano-el-camino-a-la-transicion-y-guardo-los-secretos-de-la-lucha-contra-eta.html",
+        "date": "2024-11-21 20:28:34",
+        "sentiment_score": -0.11209192872047424
+    },
+    {
+        "title": "Cientos de sevillanos se concentran para exigir que se mantenga su futuro “pulmón verde” en el centro de la ciudad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Z7OJ57HODNFMZB7FS7BMWRWPNA.jpeg?auth=b0f8b6307db358365d953b88b1eae391a3aaf7834e1ac0ecd46c8f401bb4e323&width=1200",
+        "tags": [
+            "psoe",
+            "andalucía",
+            "españa",
+            "sevilla",
+            "pp",
+            "vecinos",
+            "protestas sociales"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-11-21/los-de-sevillanos-se-concentran-para-exigir-que-se-mantenga-su-futuro-pulmon-verde-en-el-centro-de-la-ciudad.html",
+        "date": "2024-11-21 19:34:20",
+        "sentiment_score": -0.0668659433722496
+    },
+    {
+        "title": "Feijóo se abre a una moción de censura: “Si los socios quieren acabar con todo esto, estoy a disposición para abrir una nueva etapa”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/22TNFMWVPVEQFGD5PK6KMGJ6TM.jpg?auth=72b812ce895aac3f380a4c73995e8c4ed984dd020e203b319589e262fec4fb91&width=1200",
+        "tags": [
+            "pp",
+            "víctor de aldama",
+            "koldo garcía",
+            "pedro sánchez",
+            "caso koldo",
+            "audiencia nacional",
+            "españa",
+            "psoe",
+            "congreso diputados",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://elpais.com/espana/2024-11-21/feijoo-se-abre-a-una-mocion-de-censura-si-los-socios-quieren-acabar-con-todo-esto-estoy-a-disposicion-para-abrir-una-nueva-etapa.html",
+        "date": "2024-11-21 18:59:45",
+        "sentiment_score": -0.6859676949679852
+    },
+    {
+        "title": "Un ladrón asalta de madrugada un restaurante de Arganzuela pero solo se lleva seis cuchillos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YAG4HCAUEBCI5OZYVCU6DYFCQI.jpeg?auth=cf2e7547caad83150ceb303b373eac837a51e18d108b6fe73432098778a967d5&width=1200",
+        "tags": [
+            "sucesos",
+            "telemadrid",
+            "restaurantes",
+            "madrid",
+            "ladrones",
+            "españa",
+            "robos",
+            "policía",
+            "arganzuela"
+        ],
+        "link": "https://elpais.com/espana/2024-11-21/un-ladron-asalta-de-madrugada-un-restaurante-de-arganzuela-pero-solo-se-lleva-seis-cuchillos.html",
+        "date": "2024-11-21 18:21:29",
+        "sentiment_score": 0.05014877766370773
+    },
+    {
+        "title": "El “Ángel de Madrid”, de 18 metros de altura, iluminará la plaza de Colón estas Navidades",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GC6OQSUZNBD3LHX6GXYY3ULI4M.jpg?auth=38cb81fc49822e945c83d4a8ff2536360c55aba487682966eef5b04629902e43&width=1200",
+        "tags": [
+            "gran vía",
+            "madrid",
+            "plaza mayor",
+            "ayuntamiento madrid",
+            "plaza de españa",
+            "navidad",
+            "comunidad de madrid",
+            "fiesta",
+            "iluminación navideña"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-21/el-angel-de-madrid-de-18-metros-de-altura-iluminara-la-plaza-de-colon-estas-navidades.html",
+        "date": "2024-11-21 17:58:14",
+        "sentiment_score": -0.049448974430561066
+    },
+    {
+        "title": "La versión de la periodista que comió con Mazón el día de la dana: “En ningún momento transmite la sensación de que está pasando algo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/G4SS6COA3NG45OJV5LYFVKIHBQ.jpg?auth=beb56beba596240449e7a05dcbb541bba29d32b58a81e639ee9fe40350f934e2&width=1200",
+        "tags": [
+            "valencia",
+            "generalitat valenciana",
+            "restaurantes",
+            "carlos mazón",
+            "inundaciones dana octubre 2024",
+            "españa",
+            "dana"
+        ],
+        "link": "https://elpais.com/espana/2024-11-21/la-version-de-la-periodista-sobre-la-comida-con-mazon-en-ningun-momento-el-president-transmite-la-sensacion-de-que-esta-pasando-algo.html",
+        "date": "2024-11-21 17:56:44",
+        "sentiment_score": 0.03942308574914932
+    },
+    {
+        "title": "El coste de las catástrofes en España se duplicó en 2023, hasta alcanzar los 4.450 millones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QODLYGRCD2OVPVZCWZ7EGSSNHI.jpg?auth=73229546d755b08cdb342b515cd8b36cb28cc7055cfef5a212f81c0695e907d4&width=1200",
+        "tags": [
+            "sequía",
+            "cambio climático",
+            "inundaciones",
+            "desastres naturales",
+            "economía",
+            "crecimiento económico",
+            "pib"
+        ],
+        "link": "https://elpais.com/economia/2024-11-21/el-coste-de-las-catastrofes-en-espana-se-duplico-en-2023-hasta-alcanzar-los-4450-millones.html",
+        "date": "2024-11-21 17:53:43",
+        "sentiment_score": -0.08731342852115631
+    },
+    {
+        "title": "Detenida una mujer en Menorca acusada de dejar morir a su bebé tras dar a luz en su casa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PO2KFOYRCBCNNLKFA7YPI7VF2Y.jpg?auth=e14203cf84df341445382adde4419c1d70d8ceb92ae4818d2fe9aa8d99cab01b&width=1200",
+        "tags": [
+            "menorca",
+            "palma",
+            "maó - mahón",
+            "granada",
+            "españa",
+            "asesinatos",
+            "bebés"
+        ],
+        "link": "https://elpais.com/espana/2024-11-21/detenida-una-mujer-en-menorca-acusada-de-dejar-morir-a-su-bebe-tras-dar-a-luz-en-su-casa.html",
+        "date": "2024-11-21 17:30:53",
+        "sentiment_score": -0.4011947140097618
+    },
+    {
+        "title": "El Clínic registra un nuevo récord de agresiones sexuales: “Es una cifra auténticamente demencial”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6WQAEIGQRFFZXF7UQL3IIFKX3M.jpg?auth=ea0b298a504d078f7093cb94bc084af3a4c9e8d2ad462ea67e0549f0f62ed212&width=1200",
+        "tags": [
+            "agresiones sexuales",
+            "hospitales",
+            "abusos sexuales",
+            "violencia machista",
+            "salud",
+            "cataluña",
+            "hospital clínico barcelona",
+            "personas sin hogar"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-21/el-clinic-registra-un-nuevo-record-de-agresiones-sexuales-es-una-cifra-autenticamente-demencial.html",
+        "date": "2024-11-21 17:22:21",
+        "sentiment_score": -0.20585733652114868
+    },
+    {
+        "title": "El Real Madrid tumba al ALBA Berlín y se va de fin de semana con los deberes hechos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ebb22e9-9e8c-4801-9086-aecb99890a4a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2024/11/21/real-madrid-tumba-alba-berlin-111925535.html",
+        "date": "2024-11-21 22:17:59",
+        "sentiment_score": -0.7212537378072739
+    },
+    {
+        "title": "Ni Aitana ni Alexia: la nueva crack del Barça Femenino que brilla en la Champions",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/21/culemania/secciones/902919883_13758165_1706x960.jpg?contentId=ESPIMA20241121_0184",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20241121/ni-aitana-alexia-la-barca-femenino-champions/902909823_0.html",
+        "date": "2024-11-21 22:05:49",
+        "sentiment_score": 0.21335245668888092
+    },
+    {
+        "title": "Estas son las opciones del Salamanca UDS y Unionistas de enfrentarse a un Primera en Copa tras la victoria de la Real Sociedad",
+        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/11/21/LGS_20240119_Tema%20del%20(17058538)-U54826301156qTQ-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/deportes/futbol-local/opciones-salamanca-unionistas-enfrentarse-primera-copa-tras-20241121225548-nt.html",
+        "date": "2024-11-21 21:55:49",
+        "sentiment_score": 0.09636310487985611
+    },
+    {
+        "title": "Cake en Ferraz: «La trama de Aldama robó a manos llenas mientras Sánchez nos confinaba»",
+        "image_url": "https://okdiario.com/img/2024/11/21/cake-3.jpg",
+        "tags": [
+            "españa",
+            "sede ferraz",
+            "psoe",
+            "pedro sánchez"
+        ],
+        "link": "https://okdiario.com/espana/cake-ferraz-trama-aldama-robo-manos-llenas-mientras-sanchez-nos-confinaba-13859798",
+        "date": "2024-11-21 21:55:38",
+        "sentiment_score": -0.5833442136645317
+    },
+    {
+        "title": "El Barça hace los deberes en Viena y se acerca su pase a los cuartos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/21/673fb0a69489c.jpeg",
+        "tags": [
+            "fútbol femenino"
+        ],
+        "link": "https://www.cope.es/deportes/futbol/futbol-femenino/noticias/barca-deberes-viena-acerca-pase-cuartos-20241121_3050547.html",
+        "date": "2024-11-21 22:15:17",
+        "sentiment_score": 0.01398119330406189
+    },
+    {
+        "title": "Claves de la mesa de diálogos con la Segunda Marquetalia en el Gobierno de Gustavo Petro",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QKGZDSKVHVFXBH7V3K6TKR7S2I.jpeg?auth=677aa736ea7741e2f8e340fda1bcee261ad7401c526c9d3c4ae8ea76432c8b9d&width=1200",
+        "tags": [
+            "américa",
+            "acuerdos paz",
+            "colombia",
+            "farc",
+            "latinoamérica",
+            "conflicto colombia",
+            "ley paz total",
+            "disidentes farc",
+            "negociaciones paz",
+            "guerrillas",
+            "iván márquez",
+            "gustavo petro"
+        ],
+        "link": "https://elpais.com/america-colombia/2024-11-21/claves-de-la-mesa-de-dialogos-con-la-segunda-marquetalia-en-el-gobierno-de-gustavo-petro.html",
+        "date": "2024-11-21 22:06:52",
+        "sentiment_score": -0.8328451178967953
+    },
+    {
+        "title": "“La tragèdia sexual de Tolstoi”, de Kallinicow (1933)",
+        "image_url": "https://static1.ara.cat/clip/ca0aa408-41f5-4d25-8ad8-7bbaa5891eb1_16-9-aspect-ratio_default_0_x221y140.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/tragedia-sexual-tolstoi-kallinicow-1933_1_5204785.html",
+        "date": "2024-11-21 22:00:53",
+        "sentiment_score": -0.29285335540771484
+    },
+    {
+        "title": "Pep Guardiola renueva hasta 2027 como técnico del Manchester City",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f64c.png",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "manchester city",
+            "pep guardiola"
+        ],
+        "link": "https://www.elnacional.com/deportes/pep-guardiola-renueva-hasta-2027-como-tecnico-del-manchester-city/",
+        "date": "2024-11-21 21:55:52",
+        "sentiment_score": 0.1662774309515953
+    },
+    {
+        "title": "El Museo de Teruel muestra la moda de los 60 y 70 bajo la óptica de la primera fotoperiodista",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/11/21/056-1.jpeg",
+        "tags": [
+            "teruel"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/teruel/2024/11/21/el-museo-de-teruel-muestra-la-moda-de-los-60-y-70-bajo-la-optica-de-la-primera-fotoperiodista-1779757.html",
+        "date": "2024-11-21 21:42:55",
+        "sentiment_score": 0.1244867742061615
+    },
+    {
+        "title": "El Supremo condena a tres años de cárcel a los responsables de un club de cannabis de Barcelona",
+        "image_url": "https://static.eldiario.es/clip/8aab7582-b386-4cc4-a571-6a9d53deb5fc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/supremo-condena-tres-anos-carcel-responsables-club-cannabis-barcelona_1_11840986.html",
+        "date": "2024-11-21 21:35:16",
+        "sentiment_score": -0.1543387919664383
+    },
+    {
+        "title": "Carme Ruscalleda: \"Se consume cada vez más medicamento en vez de alimento\"",
+        "image_url": "https://static.eldiario.es/clip/0ce23480-4718-4b65-8342-0f924ca1d12e_16-9-discover-aspect-ratio_default_0_x2934y1406.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/viajes/carme-ruscalleda-consume-vez-medicamento-vez-alimento_128_11828574.html",
+        "date": "2024-11-21 21:35:15",
+        "sentiment_score": -0.09511125087738037
+    },
+    {
+        "title": "El malestar de las bases agita a los Comuns en la era post Colau: \"Nadie da la cara por los malos resultados\"",
+        "image_url": "https://static.eldiario.es/clip/1a5f820a-a20d-49ed-87de-dc58bcb6ec54_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/malestar-bases-agita-comuns-post-colau-nadie-da-cara-malos-resultados_1_11835121.html",
+        "date": "2024-11-21 21:35:15",
+        "sentiment_score": -0.07046085596084595
+    },
+    {
+        "title": "Illa coincide en Bruselas con Puig tras aplazarse el juicio de Sijena al no poder citarlo",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/11/21/illa-coincidio-con-puig-en-un-acto-en-su-visita-oficial-a-bruselas.png",
+        "tags": [
+            "aragón"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/2024/11/21/illa-coincide-en-bruselas-con-puig-tras-aplazarse-el-juicio-de-sijena-al-no-poder-citarlo-1779756.html",
+        "date": "2024-11-21 21:32:32",
+        "sentiment_score": -0.48827946558594704
     }
 ];
