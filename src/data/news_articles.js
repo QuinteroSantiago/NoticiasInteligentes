@@ -131,86 +131,6 @@ export default [
         "sentiment_score": -0.11647361516952515
     },
     {
-        "title": "Caixabank descarta adquisiciones y no tiene «ninguna indicación» de que el FROB vaya a pedir otro consejero",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/19/gonzalo-gortazar-ceo-RKbzCUDcAwCVo2kIm3TazsK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/caixabank-descarta-adquisiciones-ninguna-indicacion-frob-vaya-20241119141932-nt.html",
-        "date": "2024-11-19 13:20:37",
-        "sentiment_score": -0.11565884947776794
-    },
-    {
-        "title": "Competencia plantea la retirada de efectivo en comercios para suplir la falta de cajeros en zonas rurales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/19/cnmc-R75xolX3PaInKO2qrok0jJK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/competencia-plantea-retirada-efectivo-comercios-suplir-falta-20241119141819-nt.html",
-        "date": "2024-11-19 13:18:54",
-        "sentiment_score": -0.06324753165245056
-    },
-    {
-        "title": "Grifols rechazará la oferta de 6.450 millones de Brookfield por considerarla baja",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/19/DAMBin_20241119134607-RcHfzPWzIxon4q2aGeSax8H-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/grifols-rechazara-oferta-6450-millones-brookfield-considerarla-20241119134912-nt.html",
-        "date": "2024-11-19 12:53:28",
-        "sentiment_score": -0.11091160774230957
-    },
-    {
-        "title": "Por ataques convencionales o amenazas a la soberanía: las claves de la nueva doctrina de Putin para el uso de armas nucleares",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/19/newspaint-1732020244467-1200x840-k6hE-U603370064353WtH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ataques-convencionales-amenazas-soberania-claves-nueva-doctrina-20241119133915-nt.html",
-        "date": "2024-11-19 12:39:16",
-        "sentiment_score": -0.21553680300712585
-    },
-    {
-        "title": "La jefa de la Policía de Berlín aconseja a judíos y homosexuales tener «más cuidado» en los barrios con mayorías árabes",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/19/policia-alemania-kusH-U603369738590gJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/jefa-policia-berlin-aconseja-judios-homosexuales-tener-20241119132406-nt.html",
-        "date": "2024-11-19 12:26:57",
-        "sentiment_score": -0.26387907564640045
-    },
-    {
-        "title": "El estrés altera la memoria y provoca ansiedad innecesaria: este es el porqué",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/19/raton-joven.png",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/estres-altera-memoria-provoca-ansiedad-innecesaria-20241119125517-nt.html",
-        "date": "2024-11-19 11:56:56",
-        "sentiment_score": -0.1871538609266281
-    },
-    {
-        "title": "Los agricultores españoles rechazan de plano el acuerdo entre la UE y Mercosur",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/18/agricultores-RzWYMMu7UXn8JzpIGvJ2CLN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ue-mercosur-acuerdo-promete-guerra-agricultores-gobiernos-20241118135839-nt.html",
-        "date": "2024-11-19 11:48:09",
-        "sentiment_score": -0.0734696090221405
-    },
-    {
-        "title": "El flanco oriental de la OTAN se prepara para la guerra",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/19/misil-RQsgvOLIYVPY6I5dFy6CVFJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/flanco-oriental-otan-prepara-guerra-20241119124253-nt.html",
-        "date": "2024-11-19 11:45:12",
-        "sentiment_score": -0.1974772959947586
-    },
-    {
         "title": "Govern y campings acuerdan actualizar los mapas de riesgo y de inundabilidad",
         "image_url": "https://imagenes.elpais.com/resizer/v2/RZEKJPKRWFGTXFUMXHIXH2KVOY.jpg?auth=624364bd59963e4d9140b0522f8a848b64cc2952830994823a66371aa880e5e2&width=1200",
         "tags": [
@@ -6961,5 +6881,315 @@ export default [
         "link": "https://www.eldiario.es/catalunya/despacho-habitaciones-1-100-euros-mes-pisos-convertidos-coliving-escapan-regulacion_1_11840660.html",
         "date": "2024-11-22 21:22:56",
         "sentiment_score": -0.12943972647190094
+    },
+    {
+        "title": "Trump elige a Russell Vought, coautor de Proyecto 2025, para liderar la oficina de presupuesto de la Casa Blanca",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785632-presupuesto-casa-blanca.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "noticias de ee.uu.",
+            "noticias de donald trump",
+            "presupuesto ee.uu.",
+            "casa blanca"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/22/trump-russell-vought-proyecto-2025-oficina-administracion-presupuesto-trax/",
+        "date": "2024-11-23 02:06:27",
+        "sentiment_score": 0.012205660343170166
+    },
+    {
+        "title": "McDonald’s reestructura su menú en EE.UU. por primera vez en años",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785582-mc-donalds-e6f2c9.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "mcdonald's",
+            "negocios",
+            "instanoticias",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/22/mcdonalds-reestructura-su-menu-trax/",
+        "date": "2024-11-23 02:00:03",
+        "sentiment_score": -0.21025234460830688
+    },
+    {
+        "title": "Milei revela distanciamiento con la vicepresidenta de Argentin",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160755323.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milei-argentina-vicepresidenta-distanciamiento-villarruel-perspectivas-mexico-tv/",
+        "date": "2024-11-23 01:42:14",
+        "sentiment_score": -0.5678686127066612
+    },
+    {
+        "title": "Trudeau: El T-MEC dependerá de México y las decisiones que tome sobre China",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185603119.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trudeau-canada-mexico-temec-tlcan-china-sheinbaum/",
+        "date": "2024-11-23 01:40:27",
+        "sentiment_score": -0.14166957885026932
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 22 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-22-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-23 01:27:50",
+        "sentiment_score": 0.1288142055273056
+    },
+    {
+        "title": "Trump elige a la representante Lori Chavez-DeRemer como secretaria de Trabajo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/secretaria-trabajo.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "noticias de donald trump",
+            "gabinete trump",
+            "trabajo",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/22/trump-lori-chavez-deremer-secretaria-de-trabajo-trax/",
+        "date": "2024-11-23 01:20:10",
+        "sentiment_score": 0.1450270116329193
+    },
+    {
+        "title": "Expertos dicen que hay más virus durante las fiestas de fin de año en EE.UU., ¿cómo mantenerse sano?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mantenerse-sano-minuto-fiestas-fin-de-ano-eeuu-minuto-de-salud-fast",
+        "date": "2024-11-23 01:08:27",
+        "sentiment_score": -0.6208864897489548
+    },
+    {
+        "title": "Trump anuncia oficialmente al millonario Scott Bessent como su elección para secretario del Tesoro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/Scott-bessent.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "departamento del tesoro",
+            "noticias de donald trump",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/22/scott-bessent-secretario-del-tesoro-eeuu-trump-trax/",
+        "date": "2024-11-23 01:02:35",
+        "sentiment_score": -0.012451037764549255
+    },
+    {
+        "title": "Los objetivos del G20 y la cooperación internacional",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/objetivos-g20-cooperacion-internacional-mexico-opina-tv-fast",
+        "date": "2024-11-23 00:51:06",
+        "sentiment_score": -0.009268172085285187
+    },
+    {
+        "title": "Fiscalía de Venezuela anuncia investigación a María Corina Machado por apoyar un proyecto de ley en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1556851-maria-corina-machado-enfrentara-a-maduro-o-a-otro-candidato.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/22/fiscalia-venezuela-investiga-maria-corina-machado-apoyar-proyecto-ley-ee-uu-orix/",
+        "date": "2024-11-23 00:46:33",
+        "sentiment_score": -0.8246331922709942
+    },
+    {
+        "title": "UGRSKIN: la primera piel artificial humana diseñada en España",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/22/PIELARTIFICIALIMPLANTADAENUNPACIENTE.jpeg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/ugrskin-primera-piel-artificial-humana-disenada-espana-20241123180641-nt.html",
+        "date": "2024-11-22 23:06:00",
+        "sentiment_score": -0.030950158834457397
+    },
+    {
+        "title": "Ken Follett: \"Con un siglo XX como el de España, lo normal sería que los españoles desconfiaran del nacionalismo\"",
+        "image_url": "https://s1.elespanol.com/2024/11/22/espana/politica/903170838_251116962_1706x1280.jpg?contentId=ESPIMA20241122_1164",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241123/ken-follett-siglo-xx-espana-normal-espanoles-desconfiaran-nacionalismo/902910180_0.html",
+        "date": "2024-11-23 02:08:40",
+        "sentiment_score": -0.16463926434516907
+    },
+    {
+        "title": "Los papeles de Tierno, el alcalde de Madrid que 'seducía' en Cataluña: \"Era algo soberbio pero se volcó con los humildes\"",
+        "image_url": "https://s1.elespanol.com/2024/11/22/madrid/capital/903170823_251116476_1706x960.jpg?contentId=ESPIMA20241122_1149",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241123/papeles-tierno-alcalde-madrid-seducia-cataluna-soberbio-volco-humildes/903160196_0.html",
+        "date": "2024-11-23 01:55:21",
+        "sentiment_score": 0.4203171879053116
+    },
+    {
+        "title": "Juana Macías y los abusos a menores tuteladas en 'Las chicas de la estación': \"Puede ocurrirle a nuestras hijas\"",
+        "image_url": "https://s1.elespanol.com/2024/11/20/mujer/protagonistas/902670326_251035521_1706x960.jpg?contentId=ESPIMA20241120_0602",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241123/juana-macias-abusos-menores-tuteladas-chicas-estacion-puede-ocurrirle-hijas/902659933_0.html",
+        "date": "2024-11-23 01:46:45",
+        "sentiment_score": 0.23360497504472733
+    },
+    {
+        "title": "Ayuso impulsa su agenda internacional: visita Corea en su viaje \"más potente\" y acudirá a la Fórmula 1 en Abu Dabi",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/51ded3774df26a5e18ce81351c21152a/crop/0x0/3024x3024/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436433363550.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "política",
+            "corea del sur",
+            "fórmula 1",
+            "ifema",
+            "isabel díaz ayuso",
+            "artículos vicente coll"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/11/23/6740af3f21efa09c6b8b4593.html",
+        "date": "2024-11-23 01:26:08",
+        "sentiment_score": 0.5677347499877214
+    },
+    {
+        "title": "Manolo García, cantante: \"No abrazarse es un síntoma inequívoco de que algo no funciona bien\"",
+        "image_url": "https://s1.elespanol.com/2024/11/11/el-cultural/letras/900419957_250766140_854x640.jpg?contentId=ESPIMA20241111_0008",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20241123/manolo-garcia-cantante-no-abrazarse-sintoma-inequivoco-no-funciona-bien/900409951_0.html",
+        "date": "2024-11-23 01:00:00",
+        "sentiment_score": -0.5591591522097588
+    },
+    {
+        "title": "Los últimos discos de La Ritirata, Juan Diego Flórez y Dolly Parton: del barroco al banjo de los Apalaches",
+        "image_url": "https://s1.elespanol.com/2024/11/21/actualidad/902919721_251051256_1706x960.jpg?contentId=ESPIMA20241121_0022",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/discos/20241123/ultimos-discos-ritirata-juan-diego-florez-dolly-parton-barroco-banjo-apalaches/902909701_0.html",
+        "date": "2024-11-23 01:00:00",
+        "sentiment_score": 0.27635814249515533
+    },
+    {
+        "title": "Baterías para coches eléctricos más baratas, eficientes y de vida más larga: el reto de la ciencia 'marca España'",
+        "image_url": "https://s1.elespanol.com/2024/11/22/enclave-ods/historias/903170447_251104673_1706x960.jpg?contentId=ESPIMA20241122_0773",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20241123/baterias-coches-electricos-baratas-eficientes-vida-larga-reto-ciencia-marca-espana/903160058_0.html",
+        "date": "2024-11-23 00:57:31",
+        "sentiment_score": 0.307800829410553
+    },
+    {
+        "title": "Aldama promete pruebas «en breve» de las mordidas y el PSOE abre un frente judicial",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/11/23/adama-nueva-kWPH-U230981559501IE-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/politica/aldama-promete-pruebas-breve-mordidas-cumplir-anticorrupcion-20241123012458-nt.html",
+        "date": "2024-11-23 00:34:47",
+        "sentiment_score": 0.011947393417358398
+    },
+    {
+        "title": "JJ Richards propone la creación de un mapa con los fragmentos de su novela en el Museo de Pontevedra",
+        "image_url": "https://cflvdg.avoz.es/sc/gWi4GceE6zzyMOskZLaBBegCYX4=/768x/2024/11/22/00121732294142788124103/Foto/PN23C10F2_174752.jpg",
+        "tags": [
+            "museo de pontevedra",
+            "diputación de pontevedra",
+            "arte",
+            "buenos aires",
+            "francia",
+            "novela",
+            "pontevedra",
+            "londres",
+            "literatura",
+            "reino unido"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/pontevedra/2024/11/23/jj-richards-propone-creacion-mapa-fragmentos-novela-museo/0003_202411P23C10994.htm",
+        "date": "2024-11-22 23:52:00",
+        "sentiment_score": 0.15150108933448792
+    },
+    {
+        "title": "Las bandas de 'aluniceros', de Usera a Netflix",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/11/22/net.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/sociedad/sucesos/bandas-aluniceros-usera-netflix-20241124004412-nt.html",
+        "date": "2024-11-22 23:44:12",
+        "sentiment_score": 0.009835537523031235
+    },
+    {
+        "title": "Descendientes de Companys, Alcalá Zamora y otras 400 familias reclaman con pagarés de hace 86 años el dinero que incautó Franco",
+        "image_url": "https://s1.elespanol.com/2024/11/22/actualidad/903170233_251098140_1706x960.jpg?contentId=ESPIMA20241122_0559",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241123/descendientes-companys-alcala-zamora-familias-reclaman-pagares-hace-anos-dinero-incauto-franco/902410259_0.html",
+        "date": "2024-11-23 02:07:31",
+        "sentiment_score": -0.9214826636016369
+    },
+    {
+        "title": "¿El futuro de Nico está en LaLiga o en la Premier?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/23/2024112303061751212.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/futuro-nico-williams-es-incognita/20241123030700324962.html",
+        "date": "2024-11-23 02:07:00",
+        "sentiment_score": 0.9091635122895241
+    },
+    {
+        "title": "La Paz hace historia: devuelven el latido al corazón de Marieta con una técnica que, hasta ahora, sólo se usaba en adultos",
+        "image_url": "https://s1.elespanol.com/2024/11/22/madrid/comunidad/903170115_251094398_1706x960.jpg?contentId=ESPIMA20241122_0441",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241123/paz-hace-historia-devuelven-latido-corazon-marieta-tecnica-ahora-solo-usaba-adultos/903159905_0.html",
+        "date": "2024-11-23 01:55:26",
+        "sentiment_score": 0.22624027729034424
+    },
+    {
+        "title": "José Ángel Palacios trabaja con personas mayores que viven solas y hace un aviso a los jóvenes: \"Nuestro futuro\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2024/11/20/673d4bb848bc4.r_d.1103-28-3829.jpeg",
+        "tags": [
+            "poniendo las calles"
+        ],
+        "link": "https://www.cope.es/programas/poniendo-las-calles/audios/jose-angel-palacios-trabaja-personas-mayores-viven-solas-aviso-jovenes-nuestro-futuro-20241123_3049049.html",
+        "date": "2024-11-23 01:55:00",
+        "sentiment_score": -0.09950762987136841
+    },
+    {
+        "title": "Por fin podemos salir por Sabadell!: Así se vive el arranque de la nueva Zona Hermética",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16de93a0-f56e-423a-a6df-6292035e6895_16-9-aspect-ratio_default_1340015.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sabadell/20241123/zona-hermetica-sabadell-arranque-reapertura-discotecas-111955853",
+        "date": "2024-11-23 01:48:05",
+        "sentiment_score": 0.14480188488960266
+    },
+    {
+        "title": "'Asalto al Banco Central': ¿Qué pasó tras el 23F?",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/23/asalto-kvYH-U23098358715QSH-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/pantallas/series/asalto-banco-central-paso-tras-23f-20241123023050-ntrc.html",
+        "date": "2024-11-23 01:35:00",
+        "sentiment_score": -0.6996318660676479
+    },
+    {
+        "title": "'Asalto al Banco Central': ¿Qué pasó tras el 23F?",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/23/asalto-kvYH-U23098358715QSH-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/pantallas/series/asalto-banco-central-paso-tras-23f-20241123023050-ntrc.html",
+        "date": "2024-11-23 01:35:00",
+        "sentiment_score": 0.5538307763636112
     }
 ];
