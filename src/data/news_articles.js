@@ -1,224 +1,5 @@
 export default [
     {
-        "title": "Mujeres testifican ante una comisión de la Cámara que recibieron pagos por favores sexuales de Gaetz, según abogado",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1782291-gaetz-cf5313.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones en estados unidos noticias",
-            "política",
-            "noticias de donald trump",
-            "matt gaetz",
-            "cámara de representantes estados unidos",
-            "gabinete"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/19/matt-gaetz-camara-representantes-etica-abogado-trax/",
-        "date": "2024-11-19 06:00:51",
-        "sentiment_score": -0.18882595747709274
-    },
-    {
-        "title": "Un palé para que los alumnos entren al 'Reina Sofía' sin mojarse",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1126156",
-        "date": "2024-11-19 06:20:58",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El triunfo por encima del juego",
-        "image_url": "https://images.ficheroslavoz.com/9c/9c3c2172-9820-4325-b698-bbb070678982.jpg?crop=1750%2C986&expires=1763532717&height=1070&token=s6EkKeYAwZtuqIa9yYF9yO_-Q0hJjQsrh9IpUJHKagY&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/283467/el-triunfo-por-encima-del-juego",
-        "date": "2024-11-19 06:10:51",
-        "sentiment_score": 0.1730133220553398
-    },
-    {
-        "title": "Otro sapo más",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2feab555-d54e-4077-b6e0-e812467b9f3d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/11/19/sapo-111813647.html",
-        "date": "2024-11-19 06:00:37",
-        "sentiment_score": 0.803755309432745
-    },
-    {
-        "title": "Se buscan bicicletas y patinetes ante el colapso de la EMT",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ad4a4824-7bc6-406e-b708-d5048078ffea_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia/2024/11/19/patinetes-bicicletas-cotizan-alza-colapso-dana-valencia-111791073.html",
-        "date": "2024-11-19 06:00:17",
-        "sentiment_score": -0.4175752103328705
-    },
-    {
-        "title": "El Consorcio de Aguas Bilbao Bizkaia obtiene 20 millones en ayudas para digitalizar todos los procesos del agua",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2df5fc4b-907c-4334-85b8-419a5a7d44ae_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2024/11/19/consorcio-aguas-bilbao-bizkaia-obtiene-8948925.html",
-        "date": "2024-11-19 05:59:48",
-        "sentiment_score": 0.36880551278591156
-    },
-    {
-        "title": "Begoña logró dinero para la cátedra con el aval de la Complutense días después de reunirse con el rector",
-        "image_url": "https://okdiario.com/img/2024/11/18/begona-logro-dinero-para-la-catedra-con-el-aval-de-la-complutense-interior.jpg",
-        "tags": [
-            "gobierno",
-            "universidad complutense de madrid",
-            "begoña gómez",
-            "españa",
-            "pedro sánchez"
-        ],
-        "link": "https://okdiario.com/espana/begona-gomez-logro-dinero-catedra-aval-complutense-dias-reunirse-rector-13837651",
-        "date": "2024-11-19 05:54:31",
-        "sentiment_score": 0.021515563130378723
-    },
-    {
-        "title": "La ONU denuncia que Ucrania se ha convertido en uno de los lugares más minados del mundo tras mil días de guerra",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241119065310_120.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-onu-denuncia-ucrania-convertido-lugares-mas-minados-mundo-mil-dias-guerra-20241119065310.html",
-        "date": "2024-11-19 05:53:10",
-        "sentiment_score": -0.8570835907012224
-    },
-    {
-        "title": "El debut en un derbi contra la Real de Julen Agirrezabala",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d1eb6e51-788c-46c4-8b61-b1b30a59780f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2024/11/19/debut-derbi-real-julen-agirrezabala-8948910.html",
-        "date": "2024-11-19 05:45:02",
-        "sentiment_score": -0.09736928343772888
-    },
-    {
-        "title": "Ni El Retiro ni el Palacio Real: el mejor atardecer de Madrid está en esta calle del centro de la capital",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2023/03/30/Un-avion-sobrevuela-Madrid-con-el-skyline-de-las-cuatro-grandes-torres-al-fondo..jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.huffingtonpost.es/life/viajes/ni-retiro-palacio-real-mejor-atardecer-madrid-esta-calle-centro-capital.html",
-        "date": "2024-11-19 05:40:00",
-        "sentiment_score": 0.49782131612300873
-    },
-    {
-        "title": "Taylor Swift y sus coches: una colección de lujo, práctica y algo excéntrica",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/18/673b22b548636.r_d.1236-869-0.jpeg",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.lavanguardia.com/motor/20241119/10116398/taylor-swift-coches-coleccion-lujo-practica-excentrica.html",
-        "date": "2024-11-19 05:39:21",
-        "sentiment_score": 0.7266044840216637
-    },
-    {
-        "title": "Carla Gómez, cofundadora de Theker Robotics: \"Ante los inversores, intento mostrar mucho carisma porque, si no, es muy fácil que te coman\"",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/03/carla-gomez-ceo-theker-robotics-3284815.jpg?tf=1200x",
-        "tags": [
-            "startups"
-        ],
-        "link": "https://www.businessinsider.es/carla-gomez-theker-robotics-mujeres-suele-mirar-distinto-1370240",
-        "date": "2024-11-19 06:30:03",
-        "sentiment_score": 0.27442825958132744
-    },
-    {
-        "title": "2 españoles, entre los 14 mejores quesos del mundo (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54a5d0d7-456e-43c5-814a-aa565d97154e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241119/world-cheese-awards-2024-mejores-quesos-espanoles-mundo-111795086",
-        "date": "2024-11-19 06:23:58",
-        "sentiment_score": 0.7183026298880577
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/05/11/vivir-en-barcelona/854424552_12916911_1706x960.jpg?contentId=ESPIMA20240511_0003",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241119/lo-que-debes-saber-hoy-de-noviembre-barcelona/902409753_0.html",
-        "date": "2024-11-19 06:23:43",
-        "sentiment_score": 0.5921646095812321
-    },
-    {
-        "title": "Muere la soprano Enriqueta Tarrés, \"una de las grandes voces de nuestro país\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/19/la-soprano-barcelonesa-enriqueta-tarres.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5655521/0/muere-soprano-enriqueta-tarres-los-noventa-anos-edad/",
-        "date": "2024-11-19 06:20:10",
-        "sentiment_score": 0.12481772154569626
-    },
-    {
-        "title": "La terapia para el Alzheimer que mejora la autonomía y el equilibrio de los pacientes: \"Éxito\"",
-        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/11/14/6735f5f842da4.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/terapia-alzheimer-mejora-autonomia-equilibrio-pacientes-exito-20241119_3046047.html",
-        "date": "2024-11-19 06:06:39",
-        "sentiment_score": -0.027333498001098633
-    },
-    {
-        "title": "\"El Ayuntamiento de Barcelona debería comprar los pisos turísticos\"",
-        "image_url": "https://static1.ara.cat/clip/139daea5-1576-49e4-8b65-6019d9b02035_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/sociedad/turismo/ayuntamiento-barcelona-deberia-comprar-pisos-turisticos_128_5205355.html",
-        "date": "2024-11-19 06:01:21",
-        "sentiment_score": 0.4591529071331024
-    },
-    {
-        "title": "El Espacio de Animación del Barça corre el riesgo de desaparecer",
-        "image_url": "https://static1.ara.cat/clip/469347f8-3487-4e30-b07e-03d860de34cb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/espacio-animacion-barca-corre-riesgo-desaparecer_130_5205354.html",
-        "date": "2024-11-19 06:01:21",
-        "sentiment_score": -0.092308908700943
-    },
-    {
-        "title": "Lambán y el club de fans de Peronella de Aragó",
-        "image_url": "https://static1.ara.cat/clip/d2e0924d-3967-469a-944b-24d249880a05_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/politica/lamban-club-fans-peronella-arago_1_5205350.html",
-        "date": "2024-11-19 06:01:15",
-        "sentiment_score": -0.14586471021175385
-    },
-    {
-        "title": "El aristócrata del cemento que se divorció con la República",
-        "image_url": "https://static1.ara.cat/clip/69cfd10d-6419-4209-a8dd-5d97db01b031_16-9-aspect-ratio_default_0_x642y339.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/misc/aristocrata-cemento-divorcio-republica_1_5205342.html",
-        "date": "2024-11-19 06:01:06",
-        "sentiment_score": -0.14895030856132507
-    },
-    {
-        "title": "Estos son los mejores pasteles de queso de Barcelona (y con diferencia)",
-        "image_url": "https://static1.ara.cat/clip/b126a4dc-ef10-45f2-8dcc-1230e47513be_16-9-aspect-ratio_default_0_x1178y607.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/son-mejores-pasteles-queso-barcelona-diferencia_1_5205344.html",
-        "date": "2024-11-19 06:01:06",
-        "sentiment_score": -0.07800063490867615
-    },
-    {
         "title": "Transportistas llevan semanas varados en Argentina debido a la crisis de combustible en Bolivia",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6700,5 +6481,485 @@ export default [
         "link": "https://cincodias.elpais.com/companias/2024-11-22/revolut-desplegara-una-red-de-cajeros-automaticos-en-espana-en-2025.html",
         "date": "2024-11-22 16:51:35",
         "sentiment_score": 0.45253900066018105
+    },
+    {
+        "title": "¿Cuál es la aerolínea con mayor éxito económico en Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1346028250-20241122220632295.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aerolineas-southwest-spirit-bancarrota-viajes-aeropuesrtos-cnn-dinero-tv",
+        "date": "2024-11-22 22:11:42",
+        "sentiment_score": 0.085872583091259
+    },
+    {
+        "title": "¿Cuál es la aerolínea con mayor éxito económico en Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1346028250-20241122220632295.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aerolineas-southwest-spirit-bancarrota-viajes-aeropuesrtos-cnn-dinero-tv/",
+        "date": "2024-11-22 22:11:42",
+        "sentiment_score": 0.07222609221935272
+    },
+    {
+        "title": "“Todos tenemos necesidad de trabajar”, dice un jornalero de Los Ángeles ante posibles deportaciones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/12082106-79865561-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-los-angeles-ciudad-santuario-deportaciones-migrantes-dusa-tv-fast/",
+        "date": "2024-11-22 22:05:08",
+        "sentiment_score": 0.4594634100794792
+    },
+    {
+        "title": "“Todos tenemos necesidad de trabajar”, dice un jornalero de Los Ángeles ante posibles deportaciones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/12082106-79865561-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-los-angeles-ciudad-santuario-deportaciones-migrantes-dusa-tv-fast",
+        "date": "2024-11-22 22:05:08",
+        "sentiment_score": -0.44973019883036613
+    },
+    {
+        "title": "Migración venezolana: entre la crisis política y la búsqueda de refugio en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1450733897-20241122215632753.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-edmundo-biden-trump-migrantes-deportaciones-politica-cnn-dinero-tv",
+        "date": "2024-11-22 21:59:36",
+        "sentiment_score": -0.5458088107407093
+    },
+    {
+        "title": "Migración venezolana: entre la crisis política y la búsqueda de refugio en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1450733897-20241122215632753.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-edmundo-biden-trump-migrantes-deportaciones-politica-cnn-dinero-tv/",
+        "date": "2024-11-22 21:59:36",
+        "sentiment_score": -0.2593289986252785
+    },
+    {
+        "title": "ANÁLISIS | De una llamada con Putin a un ataque experimental, una semana llena de tensión transforma la guerra en Ucrania",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785439-2024-11-21t173838z-522913911-rc2t9banjqmq-rtrmadp-3-ukraine-crisis-putin.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "rusia",
+            "guerra de rusia en ucrania",
+            "ucrania",
+            "análisis"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/22/analisis-llamada-putin-ataque-experimental-guerra-ucrania-trax/",
+        "date": "2024-11-22 21:48:21",
+        "sentiment_score": -0.7165930084884167
+    },
+    {
+        "title": "Promesas de Trump y sus posibles efectos en el sector inmobiliario",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2166343943-20241122214245781.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-mercado-vivienda-casas-venta-tasas-interes-banco-central-cnn-dinero-tv/",
+        "date": "2024-11-22 21:45:53",
+        "sentiment_score": 0.0032456517219543457
+    },
+    {
+        "title": "Promesas de Trump y sus posibles efectos en el sector inmobiliario",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-mercado-vivienda-casas-venta-tasas-interes-banco-central-cnn-dinero-tv",
+        "date": "2024-11-22 21:45:53",
+        "sentiment_score": -0.1123029813170433
+    },
+    {
+        "title": "Se espera que Trump le ofrezca a Kelly Loeffler el cargo de secretaria de Agricultura",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785473-secret-argicultura.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "agricultura",
+            "noticias de donald trump",
+            "noticias de ee.uu.",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/22/trump-kelly-loeffler-secretaria-de-agricultura-trax/",
+        "date": "2024-11-22 21:45:43",
+        "sentiment_score": -0.03306914120912552
+    },
+    {
+        "title": "El gigante industrial forjado en diez años",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/11/20/paradook-U70265161355mkG-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-gigante-industrial-forjado-diez-anos-20241123230139-nts.html",
+        "date": "2024-11-22 22:02:47",
+        "sentiment_score": 0.022484898567199707
+    },
+    {
+        "title": "El tribunal de los contratos públicos suspende las licitaciones sanitarias de las mutuas de los funcionarios de Justicia y el Ejército",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/22/CSIF-kxqC-U603388409638Bt-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/tribunal-contratos-publicos-suspende-licitaciones-sanitarias-isfas-20241122212854-nt.html",
+        "date": "2024-11-22 20:47:21",
+        "sentiment_score": -0.14056318998336792
+    },
+    {
+        "title": "El arte de educar tiene un secreto",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/23/AdobeStock_980750309-R482VCDbtCDCeWAxqviMKWJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-gallego-cubiles-arte-educar-secreto-20241123190440-nts.html",
+        "date": "2024-11-22 20:39:20",
+        "sentiment_score": -0.07214511930942535
+    },
+    {
+        "title": "¿Y mi silla para la Magna?",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/11/20/paradook-U70265161355mkG-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-silla-magna-20241123174346-nts.html",
+        "date": "2024-11-22 19:56:25",
+        "sentiment_score": -0.10503944754600525
+    },
+    {
+        "title": "El Paseo Colón nos salva",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/11/15/navidad-kqOE--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-paseo-colon-salva-20241123173451-nts.html",
+        "date": "2024-11-22 19:55:38",
+        "sentiment_score": -0.10481294989585876
+    },
+    {
+        "title": "Aquella moción de censura de 2018",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/11/21/elma-U25155188021MSm-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-mocion-censura-2018-20241123002603-nts.html",
+        "date": "2024-11-22 19:53:44",
+        "sentiment_score": -0.17294050753116608
+    },
+    {
+        "title": "Sevilla, divino broche de oro",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/11/20/paradook-U70265161355mkG-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-sevilla-divino-broche-oro-20241123190640-nts.html",
+        "date": "2024-11-22 19:52:19",
+        "sentiment_score": 0.008720725774765015
+    },
+    {
+        "title": "El bulo de Canal Sur",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/23/sede-canal-sur-Rh0aowO1OQAZ1hTDDAw5QtO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-bulo-canal-sur-20241123191337-nts.html",
+        "date": "2024-11-22 19:50:28",
+        "sentiment_score": -0.14383700489997864
+    },
+    {
+        "title": "Readaptable a ojivas nucleares y con un alcance de 5.500 km: así es Oreshnik, el misil hipersónico «experimental» ruso",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/22/Misil1-kMJC-U603387063488EDB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/readaptable-ojivas-nucleares-alcance-5500-oreshnik-misil-20241122192512-nt.html",
+        "date": "2024-11-22 18:25:13",
+        "sentiment_score": -0.14710617065429688
+    },
+    {
+        "title": "Netanyahu ignora la orden de arresto y sigue con la ofensiva: «No cederemos a las presiones»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/22/netanyahu-benjamin-RNsnzxH8SYC9AUjyUHODN7O-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/netanyahu-ignora-orden-arresto-sigue-ofensiva-cederemos-20241122190949-nt.html",
+        "date": "2024-11-22 18:23:28",
+        "sentiment_score": -0.13434067368507385
+    },
+    {
+        "title": "El Molino y el folclore murciano, extremos que se tocan",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/K6IHEG573JCF5DCC2BJ3BWTGD4.jpg?auth=9f9dd0d9f484deff02d777a5176d925354ea83ee4a2d4b045b68f2d10f8c0792&width=1200",
+        "tags": [
+            "música",
+            "murcia",
+            "crítica musical",
+            "barcelona",
+            "molinos",
+            "salas",
+            "espectáculos variedades",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-22/el-molino-y-el-folclore-murciano-extremos-que-se-tocan.html",
+        "date": "2024-11-22 20:47:05",
+        "sentiment_score": 0.6806098036468029
+    },
+    {
+        "title": "El presidente de la Diputación de Valencia avisó “nervioso” a Mazón de que había que “tomar medidas” al menos dos horas antes de la alerta",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QIWEB7O65XHCL57ZFZOXFPXSRE.jpg?auth=77f48b0e0dd8b67ab7502dbb0492e893bf09c84fd29796474c9623c69d5e2806&width=1200",
+        "tags": [
+            "carlos mazón",
+            "pp",
+            "inundaciones dana octubre 2024",
+            "inundaciones",
+            "catástrofes",
+            "generalitat valenciana",
+            "comunidad valenciana",
+            "política"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-22/el-presidente-de-la-diputacion-de-valencia-aviso-nervioso-a-mazon-de-que-habia-que-tomar-medidas-al-menos-dos-horas-antes-de-la-alerta.html",
+        "date": "2024-11-22 19:20:55",
+        "sentiment_score": -0.5291448310017586
+    },
+    {
+        "title": "El Gobierno, Canarias y Ceuta presionan a Feijóo para retomar la negociación sobre el reparto de menores migrantes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EUEZ2BMV4IY5IX7457IWQDUFEA.jpg?auth=7b4f76cfa40040144afd1795fd71808ec19f0e525cf0995222ebd9af0203cf44&width=1200",
+        "tags": [
+            "pp",
+            "fernando clavijo",
+            "españa",
+            "ceuta",
+            "ángel víctor torres",
+            "pedro sánchez",
+            "menores migrantes",
+            "alberto núñez feijóo",
+            "juan jesús vivas",
+            "canarias",
+            "ministerio de política territorial y memoria democrática"
+        ],
+        "link": "https://elpais.com/espana/2024-11-22/el-gobierno-canarias-y-ceuta-presionan-a-feijoo-para-retomar-la-negociacion-sobre-el-reparto-de-menores-migrantes.html",
+        "date": "2024-11-22 19:18:34",
+        "sentiment_score": 0.28600747138261795
+    },
+    {
+        "title": "El Gobierno beca con 8.000 euros anuales a casi un millar de opositores a la Justicia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Q2ZP6IH7CEZ5V5ZWQBIRYU7EW4.jpg?auth=20d38cde2b786098e6eb8869fce1a3fc9e067304c1020566d5a7659154988c4b&width=1200",
+        "tags": [
+            "justicia",
+            "educación",
+            "becas",
+            "félix bolaños garcía",
+            "españa",
+            "psoe",
+            "gobierno de españa",
+            "tribunales"
+        ],
+        "link": "https://elpais.com/espana/2024-11-22/el-gobierno-beca-con-8000-euros-anuales-a-casi-un-millar-de-opositores-a-la-justicia.html",
+        "date": "2024-11-22 19:14:49",
+        "sentiment_score": 0.08392892777919769
+    },
+    {
+        "title": "Vuelve a robar al parking del que fue despedido días atrás en Elche y la Policía lo arresta con 4.000 euros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UFZGTWQ6WBBNNDBH3PBDXLA5V4.jpg?auth=727c1862b042e69b1b257c2074072d38f457d6fb860b8c711d53420d7bd05212&width=1200",
+        "tags": [
+            "dinero",
+            "atracos",
+            "aparcamientos",
+            "alicante",
+            "robos",
+            "elche",
+            "sucesos",
+            "españa",
+            "ladrones"
+        ],
+        "link": "https://elpais.com/espana/2024-11-22/vuelve-a-robar-al-parking-del-que-fue-despedido-dias-atras-en-elche-y-la-policia-lo-arresta-con-4000-euros.html",
+        "date": "2024-11-22 18:03:36",
+        "sentiment_score": -0.46465305238962173
+    },
+    {
+        "title": "Federación francesa de fútbol no intervendrá en disputa entre Mbappé y PSG",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/11/24312570815428-1.webp",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/federacion-francesa-de-futbol-no-intervendra-en-disputa-entre-mbappe-y-psg/",
+        "date": "2024-11-22 21:46:27",
+        "sentiment_score": -0.31953053921461105
+    },
+    {
+        "title": "Noche de terror en Múnich: nuevo ridículo del Barça de Basket en la Euroliga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/22/culemania/secciones/903169829_13762867_1706x960.jpg?contentId=ESPIMA20241122_0155",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20241122/noche-de-en-munich-barca-basket-euroliga/903159792_0.html",
+        "date": "2024-11-22 21:37:11",
+        "sentiment_score": -0.8953478178009391
+    },
+    {
+        "title": "Sánchez, Begoña Gómez y varios ministros inician acciones legales contra Aldama",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/11/22/2024112222333195255.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elprogreso.es/articulo/espana/psoe-sanchez-begona-gomez-varios-ministros-inician-acciones-legales-aldama/202411222234281807024.html",
+        "date": "2024-11-22 21:34:28",
+        "sentiment_score": -0.022474519908428192
+    },
+    {
+        "title": "Una empresa del cártel de sobres electorales dota provisiones millonarias tras las condenas a favor de PSOE o PP",
+        "image_url": "https://static.eldiario.es/clip/6db48e5c-6777-4033-a6a2-cf204364efe8_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.eldiario.es/economia/empresa-cartel-sobres-electorales-dota-provisiones-millonarias-condenas-favor-psoe-pp_1_11844462.html",
+        "date": "2024-11-22 21:23:00",
+        "sentiment_score": -0.17476098239421844
+    },
+    {
+        "title": "Condenar abiertamente la violencia sexual, la asignatura pendiente del fútbol",
+        "image_url": "https://static.eldiario.es/clip/c77fd022-9d5b-4d8f-baf7-a15e492e448f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/condenar-abiertamente-violencia-sexual-asignatura-pendiente-futbol_1_11837210.html",
+        "date": "2024-11-22 21:22:58",
+        "sentiment_score": -0.2664724141359329
+    },
+    {
+        "title": "El Consultorio de Pedro Martín (Semana del 9 al 22 de noviembre)",
+        "image_url": "https://imagenes.cope.es/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/cartas-al-director/noticias/consultorio-pedro-martin-semana-9-22-noviembre-20241122_3051333.html",
+        "date": "2024-11-22 21:16:15",
+        "sentiment_score": -0.12266901135444641
+    },
+    {
+        "title": "Comentarios, sugerencias, peticiones (Semana del 9 al 22 de noviembre)",
+        "image_url": "https://imagenes.cope.es/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/cartas-al-director/noticias/comentarios-sugerencias-peticiones-semana-9-22-noviembre-20241122_3051332.html",
+        "date": "2024-11-22 21:13:27",
+        "sentiment_score": -0.033931463956832886
+    },
+    {
+        "title": "Un micro abierto destapa lo que realmente piensa Pepe del Real de Aurah Ruiz: \"Es una...\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/04/04/660ec9f248eef.r_d.586-421-2770.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20241122/1002357959/micro-abierto-destapa-realmente-piensa-pepe-real-aurah-ruiz-dct.html",
+        "date": "2024-11-22 21:09:45",
+        "sentiment_score": 0.4500938951969147
+    },
+    {
+        "title": "Gavi regresa al once titular del FC Barcelona tras 369 días",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/22/2024112221595558784.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/369-dias-despues-gavi-vuelve-alineacion-titular-fc-barcelona/20241122220016324953.html",
+        "date": "2024-11-22 21:00:16",
+        "sentiment_score": -0.05359168350696564
+    },
+    {
+        "title": "Mestalla se cita con el fútbol y el pueblo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/85eb622e-f2ba-40d4-a16e-a527e5a8f865_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2024/11/22/mestalla-cita-futbol-pueblo-111962049.html",
+        "date": "2024-11-22 20:44:51",
+        "sentiment_score": -0.22865289449691772
+    },
+    {
+        "title": "Euromillones deja 14 nuevos millonarios en España y el bote sube a 208 millones de euros",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/22/don-benito.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5657168/0/euromillones-nuevos-millonarios-espana-bote-sube-millones/",
+        "date": "2024-11-22 22:01:33",
+        "sentiment_score": 0.5683810412883759
+    },
+    {
+        "title": "Lamine Yamal seguirá de baja hasta que logre regresar “al 100%”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/yamal_7793c0-e1732311275985.jpg",
+        "tags": [
+            "fútbol",
+            "fc barcelona",
+            "deportes",
+            "lamine yamal"
+        ],
+        "link": "https://eldiariony.com/2024/11/22/lamine-yamal-seguira-de-baja-hasta-que-logre-regresar-al-100/",
+        "date": "2024-11-22 21:51:51",
+        "sentiment_score": -0.7926723621785641
+    },
+    {
+        "title": "Más de 30 chefs y confiteros asturianos se vuelcan con Valencia en una cena solidaria",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/11/22/100087969.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/chefs-confiteros-asturianos-valencia-cena-solidaria-20241123204424-nt.html",
+        "date": "2024-11-22 21:50:32",
+        "sentiment_score": 0.21162371337413788
+    },
+    {
+        "title": "España enfrantará a Holanda en cuartos de la Liga de Naciones; Francia con Croacia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-11-22/espana-enfrantara-a-holanda-en-cuartos-de-la-liga-de-naciones-francia-con-croacia",
+        "date": "2024-11-22 21:46:35",
+        "sentiment_score": 0.07132375612854958
+    },
+    {
+        "title": "Leiva actuará en el Palau Sant Jordi de Barcelona: fecha y detalles",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/12/03/vivir-en-barcelona/631946810_9808205_1706x960.jpg?contentId=ESPIMA20211203_0011",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241122/leiva-actuara-en-el-palau-sant-jordi-de-barcelona-fecha-detalles/903159785_0.html",
+        "date": "2024-11-22 21:41:26",
+        "sentiment_score": 0.1522850189357996
+    },
+    {
+        "title": "El impacto de los casinos online en la economía catalana: oportunidades y riesgos",
+        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/IMAGEN-SECUNDARIA.jpg",
+        "tags": [
+            "casinos online",
+            "economía catalana",
+            "empresas y productos"
+        ],
+        "link": "https://www.elnacional.com/empresas-productos/el-impacto-de-los-casinos-online-en-la-economia-catalana-oportunidades-y-riesgos/",
+        "date": "2024-11-22 21:26:10",
+        "sentiment_score": 0.1863040179014206
+    },
+    {
+        "title": "Daniel Di Pietropaolo, relojero: \"Queremos ver la hora, pero no queremos ver el tiempo\"",
+        "image_url": "https://static.eldiario.es/clip/48fcf8dd-e740-4a00-a4a4-29d929ebc21e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/daniel-di-pietropaolo-relojero-queremos-ver-hora-no-queremos-ver-tiempo_1_11840066.html",
+        "date": "2024-11-22 21:23:00",
+        "sentiment_score": -0.051088184118270874
+    },
+    {
+        "title": "De despacho a habitaciones por 1.100 euros al mes: los pisos convertidos en ‘coliving’ se escapan de la regulación",
+        "image_url": "https://static.eldiario.es/clip/8a09d307-2840-487a-942b-632f0511c96b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/despacho-habitaciones-1-100-euros-mes-pisos-convertidos-coliving-escapan-regulacion_1_11840660.html",
+        "date": "2024-11-22 21:22:56",
+        "sentiment_score": -0.12943972647190094
     }
 ];
