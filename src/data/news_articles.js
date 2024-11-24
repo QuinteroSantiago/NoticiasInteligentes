@@ -144,76 +144,6 @@ export default [
         "sentiment_score": -0.1134311854839325
     },
     {
-        "title": "Los 100.000 trabajadores de la industria cárnica irán a la huelga si no hay acuerdo salarial mañana",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/20/7154358-REHuqNSkUaaUmOPGJV3WQLI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/100000-trabajadores-industria-carnica-iran-huelga-acuerdo-20241120145626-nt.html",
-        "date": "2024-11-20 13:59:03",
-        "sentiment_score": -0.027616530656814575
-    },
-    {
-        "title": "Los trabajadores griegos protestan por los bajos salarios y los altos precios de la vivienda con una huelga general",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/20/grecia-RX1Ra9976moqlEzN7dVxQuL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trabajadores-griegos-convocan-huelga-general-protestar-precio-20241120102223-nt.html",
-        "date": "2024-11-20 12:52:49",
-        "sentiment_score": -0.01658189296722412
-    },
-    {
-        "title": "La vivienda no dará tregua en 2025 y los precios del alquiler y de compra subirán por encima del 10%",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/20/1485329803-R3R6MVCuZOLTRQRr7nKh3nI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/vivienda-dara-tregua-2025-precios-alquiler-compra-20241120134214-nt.html",
-        "date": "2024-11-20 12:42:15",
-        "sentiment_score": -0.11483912169933319
-    },
-    {
-        "title": "Menos del 5% de las empresas y autónomos afectados por la DANA han solicitado ERTE, según ATA",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/20/lorenzoamor-Rr0YqZctXtInNxcssP6tSqL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/empresas-autonomos-afectados-dana-solicitado-erte-segun-20241120115822-nt.html",
-        "date": "2024-11-20 12:40:35",
-        "sentiment_score": -0.10419142246246338
-    },
-    {
-        "title": "Los salarios en la eurozona crecen al 5,42%, la cifra más alta desde 1993, y amenazan la lucha contra la inflación",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/20/1432488863-Rggqyav9fyD4xj5D26bIM5K-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/salarios-eurozona-crecen-542-cifra-alta-1993-20241120130800-nt.html",
-        "date": "2024-11-20 12:31:45",
-        "sentiment_score": -0.08926177024841309
-    },
-    {
-        "title": "Hasta siempre, Antonio",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/20/WhatsAppImage2024-11-20at12.17.29-khwD-U6033754400282UG-1200x840@diario_abc.jpeg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/siempre-antonio-20241120130633-nt.html",
-        "date": "2024-11-20 12:06:34",
-        "sentiment_score": 0.07110700011253357
-    },
-    {
-        "title": "Joe Biden debilita las defensas de su reserva aérea con los conflictos en Oriente y Ucrania",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/20/biden-kUlF-U603374505062hGF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/joe-biden-debilita-defensas-reserva-aerea-conflictos-20241120115606-nt.html",
-        "date": "2024-11-20 10:56:06",
-        "sentiment_score": -0.11102408170700073
-    },
-    {
         "title": "La detención de una pareja y su hijo en Alicante alerta sobre el reclutamiento de menores para cometer asesinatos",
         "image_url": "https://imagenes.elpais.com/resizer/v2/FM5AH54I2JNDNNGCKSAEAM5XZQ.jpg?auth=ac7429af69b9b31b5e69f6451b0b1224f6ed7cb97afb988f81cd225feb26537a&width=1200",
         "tags": [
@@ -314,108 +244,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-20/la-intervencion-de-ribera-en-cinco-claves-su-desaparicion-el-apagon-informativo-las-obras-del-barranco-del-poyo-y-el-bulo-sobre-los-rios.html",
         "date": "2024-11-20 15:15:21",
         "sentiment_score": -0.35544073581695557
-    },
-    {
-        "title": "El 47 iluminará la Navidad en el barrio de Torre Baró de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YVLP5AVDIGYJ6N2DVY3VZKZ6P4.jpg?auth=305ba60cdde739203f7dd83e9e4fde293385230be7607a631640cc45bda23a59&width=1200",
-        "tags": [
-            "cultura",
-            "tradiciones navidad",
-            "cataluña",
-            "fiesta",
-            "alumbrado",
-            "conciertos",
-            "autobuses",
-            "espacio público",
-            "espectáculos",
-            "patrimonio cultural",
-            "ayuntamiento barcelona",
-            "fiestas populares",
-            "fiestas",
-            "jaume collboni",
-            "belenes",
-            "religión",
-            "barcelona",
-            "navidad"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-20/el-47-iluminara-la-navidad-en-el-barrio-de-torre-baro-de-barcelona.html",
-        "date": "2024-11-20 14:13:56",
-        "sentiment_score": 0.359051413834095
-    },
-    {
-        "title": "Dimite el director general de la televisión pública valenciana À Punt",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/R2EHN6LQOREGLCXDGNLMGBTFYA.jpg?auth=dd7271412d4cb1b525657602e0befc54dd29b252c12f8ddcf456d852a71d5591&width=1200",
-        "tags": [
-            "carlos mazón",
-            "inundaciones dana octubre 2024",
-            "à punt",
-            "generalitat valenciana",
-            "comunicación",
-            "comunidad valenciana",
-            "medios comunicación",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-20/dimite-el-director-general-de-la-television-publica-valenciana-a-punt.html",
-        "date": "2024-11-20 13:09:39",
-        "sentiment_score": -0.6836403422057629
-    },
-    {
-        "title": "El Banco de España estima que la catástrofe de la dana restará dos décimas de PIB al crecimiento económico del cuarto trimestre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RRKQD6ZTLZE7NLGOY54WMZNZMY.jpg?auth=9a2243e3f531bf91748d7b1cd66f71a106acdebd1c3dcd9bca49ddac80e921e3&width=1200",
-        "tags": [
-            "crecimiento económico",
-            "josé luis escrivá",
-            "ipc",
-            "pib",
-            "economía",
-            "valencia",
-            "banco de españa"
-        ],
-        "link": "https://elpais.com/economia/2024-11-20/el-banco-de-espana-estima-que-la-catastrofe-de-la-dana-restara-dos-decimas-de-pib-al-crecimiento-economico-del-cuarto-trimestre.html",
-        "date": "2024-11-20 13:02:06",
-        "sentiment_score": -0.30365290492773056
-    },
-    {
-        "title": "Ribera achaca a la Generalitat incompetencia para interpretar los avisos: “De poco sirve tener información si quien tiene que actuar no lo hace”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7ZFKRZD4PBBJZOTMWY4B7A3BKQ.jpg?auth=42703923e3eafbd3cbf7c93397416d1204da6fa6d0248de97e536293d5800063&width=1200",
-        "tags": [
-            "inundaciones dana octubre 2024",
-            "política",
-            "comunidad valenciana",
-            "comisión europea",
-            "teresa ribera",
-            "congreso diputados",
-            "ministerio de transición ecológica",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-20/ribera-achaca-a-la-generalitat-incompetencia-para-interpretar-los-avisos-de-poco-sirve-tener-informacion-si-quien-tiene-que-actuar-no-lo-hace.html",
-        "date": "2024-11-20 13:00:13",
-        "sentiment_score": 0.2963731363415718
-    },
-    {
-        "title": "El decano convocado por el PP de Ayuso a la comisión de Begoña Gómez: “De ese caso, no tengo constancia”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S5RXLXV3Z5F2HGMKBFCITXXQKI.jpg?auth=82e51f155e49558ad20f3a6bb8a5f23c9f2caef9d39e736c8be0e28febce7cb5&width=1200",
-        "tags": [
-            "tráfico influencias",
-            "comisiones investigación",
-            "madrid",
-            "pedro sánchez",
-            "comunidad de madrid",
-            "intrusismo profesional",
-            "isabel díaz ayuso",
-            "corrupción",
-            "gobierno comunidad de madrid",
-            "apropiación indebida",
-            "gobierno de españa",
-            "begoña gómez fernández",
-            "pp madrid",
-            "asamblea madrid",
-            "parlamentos autonómicos",
-            "ucm"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-20/el-decano-convocado-por-el-pp-de-ayuso-a-la-comision-de-begona-gomez-de-ese-caso-no-tengo-constancia.html",
-        "date": "2024-11-20 12:30:06",
-        "sentiment_score": -0.6625583991408348
     },
     {
         "title": "Las 5 claves de la próxima Asamblea de socios del Real Madrid",
@@ -6858,5 +6686,321 @@ export default [
         "link": "https://ultimasnoticias.com.ve/noticias/anzoateggui/inaugurada-pescaderia-municipal-en-barcelona/",
         "date": "2024-11-23 21:48:53",
         "sentiment_score": 0.5137065500020981
+    },
+    {
+        "title": "La Policía asedia la embajada argentina en Caracas, según denuncias de opositores",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/policia-venezolana-embajada-argentina-orix-00-00-09-11-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela",
+            "venezuela noticias",
+            "edmundo gonzález",
+            "nicolás maduro",
+            "embajada",
+            "maría corina machado"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/policia-venezolana-embajada-argentina-orix/",
+        "date": "2024-11-24 01:35:03",
+        "sentiment_score": -0.550918210297823
+    },
+    {
+        "title": "La Policía asedia la embajada argentina en Caracas, según denuncias de opositores",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/policia-venezolana-embajada-argentina-orix-00-00-09-11-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/policia-venezolana-embajada-argentina-orix",
+        "date": "2024-11-24 01:35:03",
+        "sentiment_score": -0.7968894932419062
+    },
+    {
+        "title": "Álvaro Delgado, el veterinario \"romántico\" y amante del campo que quiere ser presidente de Uruguay",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1772178-alvaro-delgado.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "uruguay"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/23/candidato-elecciones-uruguay-alavaro-delgado-orix/",
+        "date": "2024-11-24 01:00:03",
+        "sentiment_score": -0.07765252888202667
+    },
+    {
+        "title": "\"Las políticas de Trump no tienen nada que ver con lo que hoy se vive\", dice nobel de Economía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/solucionara-trump-los-problemas-de-ee-uu-responde-nobel-de-economia",
+        "date": "2024-11-24 00:39:17",
+        "sentiment_score": -0.41276848316192627
+    },
+    {
+        "title": "\"Las políticas de Trump no tienen nada que ver con lo que hoy se vive\", dice nobel de Economía",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/nobel.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "donald trump",
+            "economía",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/solucionara-trump-los-problemas-de-ee-uu-responde-nobel-de-economia/",
+        "date": "2024-11-24 00:39:17",
+        "sentiment_score": 0.03251010179519653
+    },
+    {
+        "title": "El balance del primer año de gobierno de Daniel Noboa en Ecuador, según un especialista",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1798340310-20241124003609157.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "daniel noboa",
+            "zona andina",
+            "ecuador"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/daniel-noboa-primer-ano-gobierno-ecuador-balance-mirador-mundial-tv/",
+        "date": "2024-11-24 00:37:15",
+        "sentiment_score": 0.18094806373119354
+    },
+    {
+        "title": "Rusia seguirá usando nuevos misiles balísticos ¿Hacia dónde va la guerra con Ucrania?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1202252353.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-rusia-guerra-putin-misiles-mirador-mundial-tv/",
+        "date": "2024-11-24 00:37:02",
+        "sentiment_score": -0.4114838317036629
+    },
+    {
+        "title": "Rusia seguirá usando nuevos misiles balísticos ¿Hacia dónde va la guerra con Ucrania?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-rusia-guerra-putin-misiles-mirador-mundial-tv",
+        "date": "2024-11-24 00:37:02",
+        "sentiment_score": -0.4910854697227478
+    },
+    {
+        "title": "¿Cómo evitar que la política electoral arruine tu cena navideña?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/election-holiday-dinner-thumb-20241124003327212.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-evitar-arruinar-temporada-festiva-tras-elecciones-eeuu-trax/",
+        "date": "2024-11-24 00:34:19",
+        "sentiment_score": -0.8485504873096943
+    },
+    {
+        "title": "Ucrania puede disparar misiles franceses de largo alcance contra Rusia en \"autodefensa\", dice ministro francés",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785881-ucrania-francia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ucrania",
+            "francia",
+            "guerra de rusia en ucrania"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/23/ucrania-misiles-franceses-largo-alcance-autodefensa-rusia-ministro-trax/",
+        "date": "2024-11-24 00:30:42",
+        "sentiment_score": -0.24511511623859406
+    },
+    {
+        "title": "Así ha logrado EL ESPAÑOL encadenar quince meses consecutivos como líder de la prensa en España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20241124/logrado-espanol-encadenar-quince-meses-consecutivos-lider-prensa-espana/903160089_0.html",
+        "date": "2024-11-24 01:06:29",
+        "sentiment_score": -0.04278242588043213
+    },
+    {
+        "title": "Tarjeta amarilla: Jules Koundé",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/24/culemania/primer-equipo/903669628_13765468_1706x960.png?contentId=ESPIMA20241124_0004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241124/tarjeta-amarilla-jules-kounde/903659629_0.html",
+        "date": "2024-11-24 00:48:28",
+        "sentiment_score": -0.034321144223213196
+    },
+    {
+        "title": "Los secretos de la subasta del vestuario del Real Madrid: 372.000 euros de salida, falta la taquilla 7 y \"se trasladó como un Goya\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/6c80c22c7b6ba2d38fdf4d64167c95df/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/22/17323028642994.jpg",
+        "tags": [
+            "real madrid",
+            "artículos martín mucha",
+            "champions league"
+        ],
+        "link": "https://www.elmundo.es/cronica/2024/11/24/6740d8e5fc6c837d348b4593.html",
+        "date": "2024-11-24 00:42:34",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Las denuncias por violencia de género dividen a España en dos",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/52c5746c8a509571f307c264e6a2f6c8/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/23/17323805431119.jpg",
+        "tags": [
+            "violencia de género"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/11/24/6741de23fc6c835c058b4593.html",
+        "date": "2024-11-24 00:42:32",
+        "sentiment_score": -0.257593609392643
+    },
+    {
+        "title": "El globo de Flick pincha en Balaídos: 1 punto de 6 posibles que dan alas al Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/24/culemania/primer-equipo/903669626_13765410_1706x960.jpg?contentId=ESPIMA20241124_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241124/el-de-flick-balaidos-posibles-real-madrid/903409713_0.html",
+        "date": "2024-11-24 00:03:43",
+        "sentiment_score": -0.6901649050414562
+    },
+    {
+        "title": "La ‘Laminedependencia’ pasa factura al Barça en Vigo: empate muy doloroso",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/28/culemania/primer-equipo/889421116_13512117_1706x960.jpg?contentId=ESPIMA20240928_0067",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241124/la-laminedependencia-factura-barca-vigo-empate-doloroso/903659627_0.html",
+        "date": "2024-11-24 00:02:33",
+        "sentiment_score": -0.7435833774507046
+    },
+    {
+        "title": "Puente de diciembre 2024: los mejores destinos en relación calidad-precio",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/06/vista-panoramica-de-toledo_09ad.jpg",
+        "tags": [
+            "ocio"
+        ],
+        "link": "https://www.telecinco.es/noticias/ocio/20241124/puente-diciembre-2024-mejores-destinos-relacion-calidad-precio-be5m_18_013929873.html",
+        "date": "2024-11-24 00:00:51",
+        "sentiment_score": 0.8178701028227806
+    },
+    {
+        "title": "Historia de la Demencia, los hinchas 'pijo anarquistas' y antimadridistas del Estudiantes: entre el Ché, Irán y el himno del Barça por los altavoces del Ramiro",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/7a9a9ec3e0b8208e46e7a58f40e4535d/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/20/17321283281038.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/11/24/673e303fe9cf4a49178b4590.html",
+        "date": "2024-11-23 23:53:40",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Dos goles en tres minutos evitan triunfo del Barcelona ante Celta",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24328742761039.jpg",
+        "tags": [
+            "fc barcelona",
+            "fútbol",
+            "laliga",
+            "celta de vigo",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/11/23/dos-goles-en-tres-minutos-evitan-triunfo-del-barcelona-ante-celta/",
+        "date": "2024-11-23 23:48:00",
+        "sentiment_score": -0.10050308704376221
+    },
+    {
+        "title": "Detenidas tres personas por insultos racistas en el partido Real Madrid-Barça",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/11/Detenidas-tres-personas-por-insultos-racistas-en-el-partido-Real-Madrid-Barca-23-de-nov-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "monagas",
+            "maturín",
+            "deportes",
+            "venezuela"
+        ],
+        "link": "https://elorientaldemonagas.com/detenidas-tres-personas-por-insultos-racistas-en-el-partido-real-madrid-barca/",
+        "date": "2024-11-23 23:43:53",
+        "sentiment_score": -0.8705486813560128
+    },
+    {
+        "title": "Una sentencia del TJUE sobre los jueces honorarios italianos obliga al Gobierno a regularizar a los jueces sustitutos españoles",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2024/11/decano-de-icam-con-los-ponentes-de-esta-mesa-redonda-foto-1.jpg",
+        "tags": [
+            "app",
+            "artículos",
+            "abogados",
+            "znoticia portada2",
+            "actualidad",
+            "sentencia",
+            "jueces",
+            "derecho laboral",
+            "legislación",
+            "tjue",
+            "gobierno",
+            "noticias jurídicas"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/una-sentencia-del-tjue-sobre-los-jueces-honorarios-italianos-obliga-al-gobierno-a-regularizar-a-los-jueces-sustitutos-espanoles/",
+        "date": "2024-11-24 02:00:21",
+        "sentiment_score": -0.1046760082244873
+    },
+    {
+        "title": "Españoles protestaron por altos costos de alquileres en Barcelona",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2024/11/Espanoles-protestaron-por-altos-costos-de-alquileres-en-Barcelona-696x464.jpg",
+        "tags": [
+            "mundo"
+        ],
+        "link": "https://elperiodiquito.com/mundo/198256/espanoles-protestaron-por-altos-costos-de-alquileres-en-barcelona/",
+        "date": "2024-11-24 01:57:43",
+        "sentiment_score": -0.8269520904868841
+    },
+    {
+        "title": "La vivienda, el desafío de Illa",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/24/pensamiento/903669630_13765526_1706x960.jpg?contentId=ESPIMA20241124_0006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20241124/la-vivienda-el-desafio-de-illa/903789613_13.html",
+        "date": "2024-11-24 01:36:11",
+        "sentiment_score": -0.09127604961395264
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, domingo 24 de noviembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a4b4f770-0b4b-4713-b76e-a5564d91fb2f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/11/24/tiempo-alicante-alacant-prevision-meteorologica-111989282.html",
+        "date": "2024-11-24 01:34:28",
+        "sentiment_score": 0.6249705590307713
+    },
+    {
+        "title": "Jules Koundé se suma a Marc Casadó en la autocrítica tras el empate en Balaídos",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/24/2024112402262559408.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/jules-kounde-suma-marc-casado-autocritica-empate-balaidos/20241124022839325046.html",
+        "date": "2024-11-24 01:28:39",
+        "sentiment_score": -0.8405854813754559
+    },
+    {
+        "title": "Messi, Neymar y Suárez regresan al Barcelona gracias a eFootball",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP607453812973.jpg",
+        "tags": [
+            "fútbol",
+            "luis suarez",
+            "deportes",
+            "fc barcelona",
+            "messi",
+            "neymar"
+        ],
+        "link": "https://eldiariony.com/2024/11/23/messi-neymar-y-suarez-regresan-al-barcelona-gracias-a-efootball/",
+        "date": "2024-11-24 01:19:00",
+        "sentiment_score": 0.033183276653289795
+    },
+    {
+        "title": "Fetus: “Amb el ‘punk’ es por fer memòria històrica”",
+        "image_url": "https://www.elpuntavui.cat/imatges/63/34/4x3/780_0008_6334022_58e61cfb418f5741910dfe2e73aae5d4ver3.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.elpuntavui.cat/cultura/article/19-cultura/2481908-fetus-amb-el-punk-es-por-fer-memoria-historica.html",
+        "date": "2024-11-24 01:00:00",
+        "sentiment_score": 0.03772518038749695
+    },
+    {
+        "title": "MVP: Iñaki Peña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/24/culemania/primer-equipo/903669625_13765378_1706x960.png?contentId=ESPIMA20241124_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241124/mvp-inaki-pena/903659626_0.html",
+        "date": "2024-11-24 00:48:23",
+        "sentiment_score": 0.6550790630280972
     }
 ];
