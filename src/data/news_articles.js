@@ -1,147 +1,5 @@
 export default [
     {
-        "title": "La administración Biden aprueba el envío de minas antipersonales a Ucrania en otro cambio importante de política",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1783905-biden.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "biden",
-            "minas",
-            "armas ee.uu.",
-            "política",
-            "guerra rusia ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/20/administracion-biden-minas-antipersonales-ucrania-trax/",
-        "date": "2024-11-20 05:32:16",
-        "sentiment_score": 0.32969941943883896
-    },
-    {
-        "title": "Biden sigue aprobando armas para Ucrania antes de irse: turno para las minas antipersonas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/20/1488781465-kA3H-U603374115131JYB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/biden-sigue-aprobando-armas-ucrania-irse-turno-20241120073209-nt.html",
-        "date": "2024-11-20 06:32:10",
-        "sentiment_score": -0.1196986734867096
-    },
-    {
-        "title": "Stuani, la amenaza que el Espanyol dejó escapar y que supo aprovechar el Girona",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/11/stuani-girona-750x375.jpg",
-        "tags": [
-            "cristhian stuani",
-            "girona",
-            "actualidad",
-            "espanyol"
-        ],
-        "link": "https://lagradaonline.com/christian-stuani-girona-espanyol/",
-        "date": "2024-11-20 06:00:56",
-        "sentiment_score": 0.44105562567710876
-    },
-    {
-        "title": "El correo vuelve a la zona cero",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/494779f7-b3ce-4af3-8d6b-c6054a8ca78e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia/2024/11/20/correo-vuelve-zona-cero-111845476.html",
-        "date": "2024-11-20 06:00:31",
-        "sentiment_score": 0.1761164367198944
-    },
-    {
-        "title": "El Málaga CF se cita con el mejor líder de la historia de Segunda",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be6e0f2c-2bd7-4478-b5a7-7c3c2c014a14_16-9-aspect-ratio_default_0_x708y0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malagacf/2024/11/20/malaga-cf-mejor-lider-racing-111848719.html",
-        "date": "2024-11-20 06:00:31",
-        "sentiment_score": 0.7375205978751183
-    },
-    {
-        "title": "\"Para mí Zamora resulta muy especial, es un lugar ‘champion’ en tradiciones\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0506e15f-76dd-4289-8e3a-22f8f1d4a093_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondezamora.es/zamora/2024/11/20/zamora-resulta-especial-lugar-champion-111846417.html",
-        "date": "2024-11-20 06:00:26",
-        "sentiment_score": 0.1257631815969944
-    },
-    {
-        "title": "El error que debes evitar porque te puede salir muy caro si se lleva tu coche la grúa",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/09/20/6329f4d0efe7c.png",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavanguardia.com/motor/actualidad/20241120/10115761/error-debes-evitar-te-salir-caro-lleva-coche-grua-pvlv.html",
-        "date": "2024-11-20 06:00:00",
-        "sentiment_score": -0.030790649354457855
-    },
-    {
-        "title": "No es Roma, ni Arizona, ni Canadá... es la provincia de Segovia",
-        "image_url": "https://s1.elespanol.com/2024/11/14/castilla-y-leon/region/segovia/901170331_250871397_1706x960.jpg?contentId=ESPIMA20241114_0457",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/segovia/20241120/no-roma-arizona-canada-provincia-segovia/900910329_0.html",
-        "date": "2024-11-20 06:00:00",
-        "sentiment_score": 0.6799755059182644
-    },
-    {
-        "title": "Los centros de datos toman Málaga: \"Está en una posición única para crecer en este sector\"",
-        "image_url": "https://s1.elespanol.com/2024/11/19/malaga/economia/tecnologia/902420701_251015413_1706x960.jpg?contentId=ESPIMA20241119_0952",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/malaga/economia/tecnologia/20241120/centros-datos-toman-malaga-posicion-unica-crecer-sector/902410123_0.html",
-        "date": "2024-11-20 05:50:00",
-        "sentiment_score": 0.6136821769177914
-    },
-    {
-        "title": "Moncloa negó que la asesora de Presidencia trabajara para Begoña: «Se circunscribe al presidente»",
-        "image_url": "https://okdiario.com/img/2024/11/19/moncloa-le-dice-al-congreso-que-el-trabajo-de-la-asistente-interior-1.jpg",
-        "tags": [
-            "españa",
-            "universidad complutense de madrid",
-            "gobierno",
-            "congreso diputados",
-            "begoña gómez",
-            "pedro sánchez"
-        ],
-        "link": "https://okdiario.com/espana/moncloa-nego-que-asesora-presidencia-trabajara-begona-circunscribe-presidente-13841829",
-        "date": "2024-11-20 05:45:31",
-        "sentiment_score": 0.03891041874885559
-    },
-    {
-        "title": "Bascoat (Madrid), mejor restaurante nuevo de 2023 en España (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52882b46-fcce-49ab-a3e7-44962f17cd7d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241120/mejores-aperturas-restaurantes-2023-premios-the-fork-111710945",
-        "date": "2024-11-20 06:31:13",
-        "sentiment_score": 0.7183026298880577
-    },
-    {
-        "title": "Dani Martín anuncia concierto en Bilbao dentro de su gira para celebrar sus 25 años en la música",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/11/20/dani-martin-kTjE-U23064668328X3C-1200x840@El%20Correo.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/culturas/musica/dani-martin-anuncia-concierto-bilbao-dentro-gira-20241120072807-nt.html",
-        "date": "2024-11-20 06:29:18",
-        "sentiment_score": 0.09363618865609169
-    },
-    {
-        "title": "Paseo de Gracia y Serrano se mantienen como las calles más caras de España (y sus precios rozan máximos históricos)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/25fa056b-3af4-4d61-aaa5-07a4cde1fe86_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/economia/2024/11/20/paseo-gracia-serrano-calles-caras-111856422.html",
-        "date": "2024-11-20 06:28:39",
-        "sentiment_score": -0.16970422863960266
-    },
-    {
         "title": "Netanyahu ofrece US$ 5 millones y un salvoconducto para salir de Gaza a quien devuelva a un rehén",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/Copia-de-FOTO-PARA-WP-2024-11-20T095833.269.jpg?quality=100&strip=info",
         "tags": [
@@ -6583,5 +6441,422 @@ export default [
         "link": "https://es.ara.cat/deportes/fc-barcelona/barca-marca-identidad_130_5209625.html",
         "date": "2024-11-23 17:00:09",
         "sentiment_score": -0.09996901452541351
+    },
+    {
+        "title": "Los estadounidenses aman los alimentos ultraprocesados. La ciencia quiere saber por qué",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/alimentos-ultraprocesados-comida-salud-experimento-trax",
+        "date": "2024-11-23 22:08:25",
+        "sentiment_score": -0.013808056712150574
+    },
+    {
+        "title": "Los estadounidenses aman los alimentos ultraprocesados. La ciencia quiere saber por qué",
+        "image_url": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "alimentos",
+            "xpress",
+            "comida chatarra",
+            "fast – news variety",
+            "ultraprocesados"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/alimentos-ultraprocesados-comida-salud-experimento-trax/",
+        "date": "2024-11-23 22:08:25",
+        "sentiment_score": -0.006001181900501251
+    },
+    {
+        "title": "Se espera que Brooke Rollins, exasesora política de Trump, sea elegida como secretaria de Agricultura",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785806-secretaria-agricultura.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "noticias de ee.uu.",
+            "agricultura"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/23/broke-rollins-secretaria-agricultura-trump-eeuu-trax/",
+        "date": "2024-11-23 21:00:39",
+        "sentiment_score": -0.07021035254001617
+    },
+    {
+        "title": "ANÁLISIS | La extrema aversión de Trump a los directores del FBI, explicada",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785765-c-gettyimages-2183984830.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "donald trump",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/23/trump-aversion-directores-fbi-trax/",
+        "date": "2024-11-23 20:30:00",
+        "sentiment_score": -0.45458073168992996
+    },
+    {
+        "title": "Este es uno de los mejores tacos del mundo y está en Tijuana, México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-04-00-01-05-08-still002.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "gastronomía",
+            "tacos",
+            "méxico",
+            "comida mexicana",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/taco-carne-asada-tijuana-mexico-orix/",
+        "date": "2024-11-23 20:05:28",
+        "sentiment_score": 0.7472855113446712
+    },
+    {
+        "title": "Este es uno de los mejores tacos del mundo y está en Tijuana, México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/taco-carne-asada-tijuana-mexico-orix",
+        "date": "2024-11-23 20:05:28",
+        "sentiment_score": 0.8519718237221241
+    },
+    {
+        "title": "¿Cómo afectarían a las finanzas personales la política económica de Trump?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181602938-20241123192647863.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-economia-trump-gobierno-inflacion-recorte-impuestos-cnn-dinero-tv-fast",
+        "date": "2024-11-23 19:44:33",
+        "sentiment_score": -0.24504533782601357
+    },
+    {
+        "title": "¿Cómo afectarían a las finanzas personales la política económica de Trump?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181602938-20241123192647863.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-economia-trump-gobierno-inflacion-recorte-impuestos-cnn-dinero-tv-fast/",
+        "date": "2024-11-23 19:44:33",
+        "sentiment_score": -0.0002630650997161865
+    },
+    {
+        "title": "Biden extiende por un año la calificación de Nicaragua como una \"amenaza inusual y extraordinaria\" para la seguridad de Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1772976-mira-el-momento-en-el-que-biden-espera-en-la-fila-y-vota-en-delaware.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "nicaragua",
+            "centroamérica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/23/biden-extiende-calificacion-nicaragua-amenaza-seguridad-eeuu-orix/",
+        "date": "2024-11-23 18:47:49",
+        "sentiment_score": -0.5996512919664383
+    },
+    {
+        "title": "Tras respaldar a Donald Trump, el presidente de la UFC, Dana White, dice que se retira de la política \"repugnante\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785772-trump-dana-white-ufc.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/23/dana-white-ufc-retira-politica-tras-respaldar-trump-trax/",
+        "date": "2024-11-23 18:33:08",
+        "sentiment_score": -0.7794307358562946
+    },
+    {
+        "title": "Órdenes superiores para amortiguar la tragedia",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/provincia/2024/11/21/diogenes004-U31638101877tnm-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-ordenes-superiores-amortiguar-tragedia-20241124212702-nt.html",
+        "date": "2024-11-23 20:27:10",
+        "sentiment_score": -0.46163852512836456
+    },
+    {
+        "title": "Dientes, dientes, en un PSOE sobre el volcán",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/24/t-e-o-RI6HCxbAxbxEBzkoi9WMiMI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-dientes-dientes-psoe-sobre-volcan-20241124193410-nts.html",
+        "date": "2024-11-23 18:34:11",
+        "sentiment_score": -0.11346003413200378
+    },
+    {
+        "title": "El dilema moral de la izquierda",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/24/TERCERAABC_Eldilema_CUARTANGO-Rm5JEK6DAmuqBXCqtrdRFEN-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-garcia-cuartango-dilema-moral-izquierda-20241124193146-nt.html",
+        "date": "2024-11-23 18:31:47",
+        "sentiment_score": -0.17337965965270996
+    },
+    {
+        "title": "El profesor y la IA",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/24/1461603278-RygmUvigogCShIQFUIxc0LJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/antonio-barbeito-profesor-ia-20241124193126-nt.html",
+        "date": "2024-11-23 18:31:27",
+        "sentiment_score": -0.04932105541229248
+    },
+    {
+        "title": "Leer poesía",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/provincia/2024/11/21/diogenes004-U31638101877tnm-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-leer-poesia-20241124193108-nt.html",
+        "date": "2024-11-23 18:31:14",
+        "sentiment_score": -0.07474634051322937
+    },
+    {
+        "title": "Defensa defiende... a la ministra",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/11/21/ana-belen-kVeH--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-defensa-defiende-ministra-20241124193052-nt.html",
+        "date": "2024-11-23 18:31:02",
+        "sentiment_score": -0.13314196467399597
+    },
+    {
+        "title": "¡Congreso del PSOE!",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/22/casa-dragon-salobrena-kzJG--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-congreso-psoe-20241124183919-nt.html",
+        "date": "2024-11-23 18:30:46",
+        "sentiment_score": 0.015007317066192627
+    },
+    {
+        "title": "No llores, Broncano",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/11/20/paradook-U70265161355mkG-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-llores-broncano-20241124193021-nt.html",
+        "date": "2024-11-23 18:30:30",
+        "sentiment_score": -0.08493441343307495
+    },
+    {
+        "title": "Querido PNV: quién te vio con Rajoy, quién te ve con Sánchez",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/11/21/elma-U25155188021MSm-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-sanchez-querido-pnv-vio-rajoy-sanchez-20241124193002-nt.html",
+        "date": "2024-11-23 18:30:13",
+        "sentiment_score": -0.17471829056739807
+    },
+    {
+        "title": "Teresa",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/11/20/paradook-U70265161355mkG-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-teresa-20241124192947-nt.html",
+        "date": "2024-11-23 18:29:56",
+        "sentiment_score": -0.11021453142166138
+    },
+    {
+        "title": "Miles de personas piden en Valencia la dimisión de Mazón por la gestión educativa tras la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6C63VNSSLNDQRGML5FB5JUFV7Q.JPG?auth=85d67d7dccfa5b9e450e00abe4431bd48749230462bec4bce614d30faa003eeb&width=1200",
+        "tags": [
+            "centros educativos",
+            "josé antonio rovira",
+            "familia",
+            "colegios",
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "carlos mazón",
+            "profesorado",
+            "inundaciones",
+            "institutos"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-23/miles-de-personas-piden-en-valencia-la-dimision-de-mazon-por-la-gestion-educativa-tras-la-dana.html",
+        "date": "2024-11-23 20:11:49",
+        "sentiment_score": -0.8411541078239679
+    },
+    {
+        "title": "El Celta se agarra a la heroica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/31040f77-4f7e-44c1-9a9f-eaaaab9d7124_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/celta-de-vigo/2024/11/23/celta-barca-resultado-resumen-goles-111987739.html",
+        "date": "2024-11-23 22:13:55",
+        "sentiment_score": -0.1248408854007721
+    },
+    {
+        "title": "Informativos Telecinco | Edición noche fin de semana, en vídeo (23-11-2024)",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/23/infot5-noche-231124_a292-2.jpg",
+        "tags": [
+            "a la carta"
+        ],
+        "link": "https://www.telecinco.es/noticias/a-la-carta/20241123/informativos-telecinco-video-integro-sabado-23-noviembre-2024-edicion-noche-fin-semana_18_014098843.html",
+        "date": "2024-11-23 22:07:49",
+        "sentiment_score": -0.8459081202745438
+    },
+    {
+        "title": "Sorloth hace vencedor al Atlético en el minuto 86",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/85979169-e647-2f85-f1999963b046a2d0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z85978c63-0d59-da21-3675c99b95cd65a3/202411/sorloth-hace-vencedor-al-atletico-en-el-minuto-86",
+        "date": "2024-11-23 21:48:22",
+        "sentiment_score": 0.2322601079940796
+    },
+    {
+        "title": "El Celta castiga a un Barça menos fiero",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/8ff88953-d976-638f-9cb63604379a9136.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z8ff88680-f73a-2858-769e659c501099f9/202411/el-celta-castiga-a-un-barca-menos-fiero",
+        "date": "2024-11-23 21:45:00",
+        "sentiment_score": 0.31322355568408966
+    },
+    {
+        "title": "Una niña de 12 años de Oviedo sorprende con su talento y se adelanta tres cursos en el conservatorio donde estudia: “El mejor concierto”",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/11/22/6740a2e445390.jpeg",
+        "tags": [
+            "oviedo"
+        ],
+        "link": "https://www.cope.es/emisoras/asturias/asturias-provincia/oviedo/noticias/nina-12-anos-oviedo-sorprende-talento-adelanta-tres-cursos-conservatorio-estudia-mejor-concierto-20241123_3051181.html",
+        "date": "2024-11-23 21:30:54",
+        "sentiment_score": 0.17200423777103424
+    },
+    {
+        "title": "Atletico se llevó el triunfo en el partido 700 de Simeone",
+        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2024/11/Atletico-Madrid-860x645.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://reporteconfidencial.info/2024/11/23/atletico-se-llevo-el-triunfo-en-el-partido-700-de-simeone/",
+        "date": "2024-11-23 21:30:08",
+        "sentiment_score": 0.635064035654068
+    },
+    {
+        "title": "El eléctrico debut de Mateu Morey con el Mallorca 196 días después de su último partido oficial",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3090055.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2024/11/23/2280645/palmas-real-mallorca-debut-mateu-morey-como-bermellon-gran-canaria.html",
+        "date": "2024-11-23 21:23:00",
+        "sentiment_score": -0.11261561512947083
+    },
+    {
+        "title": "Ancelotti prepara un equipo inédito para la visita del Madrid al Leganés",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/23/2024112322014698252.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/ancelotti-prepara-equipo-inedito-visita-madrid-leganes/20241123220159325032.html",
+        "date": "2024-11-23 21:01:59",
+        "sentiment_score": -0.6171460933983326
+    },
+    {
+        "title": "Madrid y Valencia, escenario de nuevas movilizaciones contra la gestión de la DANA",
+        "image_url": "https://www.elplural.com/uploads/s1/18/74/35/5/manifestacio-n-contra-mazo-n-por-su-gestio-n-de-la-dana-ep_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/madrid-valencia-escenario-nuevas-movilizaciones-contra-gestion-dana_341879102",
+        "date": "2024-11-23 20:49:48",
+        "sentiment_score": -0.02647438645362854
+    },
+    {
+        "title": "El valor de las corazonadas en la consulta: \"Ves entrar a un paciente que conoces y sabes si está bien o mal\"",
+        "image_url": "https://static.eldiario.es/clip/f1ba7b7d-5d7f-47b7-945d-f58544d2bf5b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/corazonadas-consulta-ves-entrar-paciente-conoces-si-mal_1_11836178.html",
+        "date": "2024-11-23 20:47:54",
+        "sentiment_score": -0.24643376469612122
+    },
+    {
+        "title": "Comprobar los resultados de la Primitiva del sábado, 23 de noviembre de 2024",
+        "image_url": "https://s1.elespanol.com/2023/12/26/actualidad/820178460_238712496_1706x960.jpg?contentId=ESPIMA20231226_0486",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/loterias/20241123/comprobar-resultados-primitiva-sabado-noviembre/903409753_0.html",
+        "date": "2024-11-23 22:15:38",
+        "sentiment_score": 0.056109797209501266
+    },
+    {
+        "title": "22:00 | 23 NOV 2024 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-23-nov-2024-juego-20241123_3051493.html",
+        "date": "2024-11-23 22:13:51",
+        "sentiment_score": 0.07369166612625122
+    },
+    {
+        "title": "El Barça se relaja en la recta final y cede un empate doloroso ante el Celta de los 'niños'",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/11/23/67424fc51b557.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20241123/barca-relaja-recta-final-cede-empate-doloroso-ante-celta-ninos_247468.html",
+        "date": "2024-11-23 22:02:58",
+        "sentiment_score": 0.3150457590818405
+    },
+    {
+        "title": "Estas son las noticias más leídas este sábado en El Progreso",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/11/23/2024112313585629405.jpg",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/lugo/son-noticias-mas-leidas-sabado-progreso/202411232257481807304.html",
+        "date": "2024-11-23 21:57:48",
+        "sentiment_score": 0.39478708803653717
+    },
+    {
+        "title": "Invitaría recordarle a Kounde que los partidos duran 90 minutos: los apuntes en caliente del Barça-Celta",
+        "image_url": "https://static1.ara.cat/clip/d539a35f-d148-474b-8ba7-018bd2ecca29_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/invitaria-recordarle-kounde-partidos-duran-90-minutos-apuntes-caliente-barca-celta_1_5210804.html",
+        "date": "2024-11-23 21:57:36",
+        "sentiment_score": -0.7770636640489101
+    },
+    {
+        "title": "La Primitiva sonríe a Salamanca con más de 40.000 euros",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/11/23/primitiva--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/salamanca/primitiva-sonrie-salamanca-deja-buen-pellizco-20241123224239-nt.html",
+        "date": "2024-11-23 21:50:15",
+        "sentiment_score": -0.322342187166214
+    },
+    {
+        "title": "Validada en Monforte una Bonoloto agraciada con 50.880 euros",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/11/23/2024112322380963720.jpg",
+        "tags": [
+            "ribeira sacra"
+        ],
+        "link": "https://www.elprogreso.es/articulo/ribeira-sacra/validada-monforte-bonoloto-agraciada-50880-euros/202411232250031807298.html",
+        "date": "2024-11-23 21:50:03",
+        "sentiment_score": 0.31265582144260406
+    },
+    {
+        "title": "Inaugurada pescadería municipal en Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2024/11/IMG_1487-scaled.jpg",
+        "tags": [
+            "pescadería",
+            "inaugurada",
+            "municipal",
+            "anzoátegui",
+            "zxgeneral"
+        ],
+        "link": "https://ultimasnoticias.com.ve/noticias/anzoateggui/inaugurada-pescaderia-municipal-en-barcelona/",
+        "date": "2024-11-23 21:48:53",
+        "sentiment_score": 0.5137065500020981
     }
 ];
