@@ -159,56 +159,6 @@ export default [
         "sentiment_score": -0.11588284373283386
     },
     {
-        "title": "Las moratorias concursales por la DANA podrían disparar las insolvencias si no hay medidas de refuerzo, advierten los economistas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/21/1488935134-RNqgSmhiWHt6iRMsutBQ0eJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/moratorias-concursales-dana-disparar-insolvencias-medidas-refuerzo-20241121144707-nt.html",
-        "date": "2024-11-21 13:50:18",
-        "sentiment_score": -0.10068979859352112
-    },
-    {
-        "title": "Las mujeres con endometriosis tienen un riesgo de muerte prematura un 31% mayor",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/11/21/endometriosis.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/mujeres-endometriosis-riesgo-muerte-prematura-mayor-20241121132500-nt.html",
-        "date": "2024-11-21 13:43:49",
-        "sentiment_score": -0.16345147788524628
-    },
-    {
-        "title": "El coste de las catástrofes naturales en España se disparó un 53% en 2023 hasta los 4.450 millones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/21/desastre-RWFbtQOMoxsNdYHrJqKOufM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/coste-catastrofes-naturales-espana-disparo-2023-4450-20241121141155-nt.html",
-        "date": "2024-11-21 13:13:30",
-        "sentiment_score": -0.12615761160850525
-    },
-    {
-        "title": "Australia lanza un proyecto de ley «histórico» para prohibir las redes sociales a los menores de 16 años",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/11/21/moviles.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/australia-lanza-proyecto-ley-historico-prohibir-redes-20241121132936-nt.html",
-        "date": "2024-11-21 12:29:36",
-        "sentiment_score": -0.17145779728889465
-    },
-    {
-        "title": "Las aseguradoras se defienden de los ataques de Sanidad: es «imposible» expulsar a los mutualistas de riesgo a la pública",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/21/1488900305-RjatZrqxMjS834Ws7QXCDGL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aseguradoras-defienden-ataques-sanidad-niegan-empujen-mutualistas-20241121124502-nt.html",
-        "date": "2024-11-21 11:50:37",
-        "sentiment_score": -0.1631523072719574
-    },
-    {
         "title": "Illa y Puig coinciden en Bruselas y mantienen una breve conversación",
         "image_url": "https://imagenes.elpais.com/resizer/v2/OQCIBBQKHRETHLCM7IMDACTQHY.JPG?auth=c0b240891911d854fa1c068dbdad2e6ed1a897be37ec64dcabbfe94ede6e1019&width=1200",
         "tags": [
@@ -295,99 +245,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-11-21/barcelona-se-prepara-para-una-gran-manifestacion-reclamando-el-derecho-a-la-vivienda.html",
         "date": "2024-11-21 14:42:16",
         "sentiment_score": 0.047081395983695984
-    },
-    {
-        "title": "El crecimiento de España duplica el de la OCDE: su PIB avanza un 3,4% frente al 1,7% de la media",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/G4O2GPHHUJHABLDE3ZT5FH5LIA.jpg?auth=dd5ff2f12c3144279fdf145aecd90d962dea3b46ca3fdd5902a615ea5e8bb2a9&width=1200",
-        "tags": [
-            "crecimiento económico",
-            "noticias de españa",
-            "economía",
-            "importaciones",
-            "zona euro",
-            "pib",
-            "exportaciones",
-            "ocde"
-        ],
-        "link": "https://elpais.com/economia/2024-11-21/el-crecimiento-de-espana-duplica-el-de-la-ocde-su-pib-avanza-un-34-frente-al-17-de-la-media.html",
-        "date": "2024-11-21 13:40:44",
-        "sentiment_score": 0.4280013144016266
-    },
-    {
-        "title": "Los sindicatos sanitarios se unen en una demanda millonaria a la Comunidad de Madrid por no tener un plan de riesgos laborales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HNLAVCPT4ZCYXMN6LAS2SMPVH4.JPG?auth=2f12c99466b6acd9d6c4572c2e1e205612c9b8d042ff3f7ee468015a503879a9&width=1200",
-        "tags": [
-            "condiciones trabajo",
-            "médicos",
-            "sanidad",
-            "fátima matute",
-            "demandas",
-            "legislación laboral",
-            "comunidad de madrid",
-            "sanidad pública",
-            "satse",
-            "comisiones obreras",
-            "atención primaria",
-            "riesgos laborales",
-            "madrid",
-            "sindicatos",
-            "isabel díaz ayuso",
-            "amyts"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-21/los-sindicatos-sanitarios-se-unen-en-una-demanda-millonaria-a-la-comunidad-de-madrid-por-no-tener-un-plan-de-riesgos-laborales.html",
-        "date": "2024-11-21 13:29:47",
-        "sentiment_score": -0.6413935460150242
-    },
-    {
-        "title": "El alcalde de Barcelona responde a Airbnb: “La decisión de acabar con todos los pisos turísticos es firme”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JFU5GRIVHXJV4S75LY2CO3OJKU.jpg?auth=2150b8b0404b93570dbe9395417d54eff87b14da88a534a10718b13e8ed0fc15&width=1200",
-        "tags": [
-            "barcelona",
-            "cataluña",
-            "ayuntamiento barcelona",
-            "airbnb",
-            "jaume collboni"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-21/el-alcalde-de-barcelona-responde-a-airbnb-la-decision-de-acabar-con-todos-los-pisos-turisticos-es-firme.html",
-        "date": "2024-11-21 13:07:15",
-        "sentiment_score": 0.0786736011505127
-    },
-    {
-        "title": "Podemos desbloquea con el Gobierno el pacto fiscal y despeja otro reto para la legislatura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DT5EAQWNGVFNHD7E3VEP72A7ZA.jpg?auth=d673128e3fd23dc6bdb916317479139b7b6cf47e195004bc46cb37c7e815c28c&width=1200",
-        "tags": [
-            "españa",
-            "psoe",
-            "reforma fiscal",
-            "gobierno",
-            "eaj-pnv",
-            "podemos",
-            "juntsxcat",
-            "congreso diputados"
-        ],
-        "link": "https://elpais.com/espana/2024-11-21/podemos-desbloquea-con-el-gobierno-el-pacto-fiscal-y-despeja-otro-reto-para-la-legislatura.html",
-        "date": "2024-11-21 12:53:53",
-        "sentiment_score": 0.35489094629883766
-    },
-    {
-        "title": "El Gobierno saca adelante en el Congreso la reforma fiscal con los socios de izquierda y derecha",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SFQLJWYQWVCX5IOCEUXD6LWZNE.jpg?auth=c3e907795e637e691a642875ef68f4c4aa28966b142e5110099869db0e6ae353&width=1200",
-        "tags": [
-            "reforma fiscal",
-            "congreso diputados",
-            "eaj-pnv",
-            "vox",
-            "juntsxcat",
-            "pp",
-            "gobierno",
-            "españa",
-            "podemos",
-            "psoe",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2024-11-21/el-gobierno-saca-adelante-en-el-congreso-la-reforma-fiscal-con-los-socios-de-izquierda-y-derecha.html",
-        "date": "2024-11-21 12:53:53",
-        "sentiment_score": 0.43760938197374344
     },
     {
         "title": "Caballero, a todos los vigueses: «É crucial que a cidade amose o apoio ao AVE directo a Madrid por Cerdedo»",
@@ -6537,5 +6394,283 @@ export default [
         "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2024/11/24/vecinos-de-francisco-de-vitoria-contra-el-ruido-tres-noches-a-la-semana-no-se-puede-descansar-1780054.html",
         "date": "2024-11-24 21:00:00",
         "sentiment_score": -0.8305772412568331
+    },
+    {
+        "title": "Mira el interior del nuevo crucero de Disney",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21151746-3332-7369999999996-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/crucero-disney-treasure-espectaculo-barco-trax",
+        "date": "2024-11-25 01:54:20",
+        "sentiment_score": 0.04244492948055267
+    },
+    {
+        "title": "“Nos estamos ahogando”: desplazados en Gaza se enfrentan a fuertes lluvias y clima invernal extremo en condiciones precarias",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185769061.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gaza-lluvia-tiendas-inundacion-desplazados-invierno-orix/",
+        "date": "2024-11-25 01:36:04",
+        "sentiment_score": -0.7819961421191692
+    },
+    {
+        "title": "“Nos estamos ahogando”: desplazados en Gaza se enfrentan a fuertes lluvias y clima invernal extremo en condiciones precarias",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185769061.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gaza-lluvia-tiendas-inundacion-desplazados-invierno-orix",
+        "date": "2024-11-25 01:36:04",
+        "sentiment_score": -0.908775775693357
+    },
+    {
+        "title": "“Triunfa una vez más el país de la libertad”, Orsi habla tras Delgado reconocerle su victoria",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185851074.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "yamandú orsi",
+            "elecciones",
+            "uruguay"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/yamandu-orsi-discurso-vistoria-elecciones-uruguay-mirador-mundial-tv/",
+        "date": "2024-11-25 01:29:56",
+        "sentiment_score": -0.1434338241815567
+    },
+    {
+        "title": "“Triunfa una vez más el país de la libertad”, Orsi habla tras Delgado reconocerle su victoria",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185851074.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/yamandu-orsi-discurso-vistoria-elecciones-uruguay-mirador-mundial-tv",
+        "date": "2024-11-25 01:29:56",
+        "sentiment_score": 0.6526476815342903
+    },
+    {
+        "title": "“De los discursos más difíciles que voy a tener que hacer en mi vida”, Delgado habla tras reconocer su derrota",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/discurso-derrota-alvaro-delgado-elecciones-uruguay-mirador-mundial-tv",
+        "date": "2024-11-25 01:04:16",
+        "sentiment_score": -0.7902163993567228
+    },
+    {
+        "title": "“De los discursos más difíciles que voy a tener que hacer en mi vida”, Delgado habla tras reconocer su derrota",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185849734.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/discurso-derrota-alvaro-delgado-elecciones-uruguay-mirador-mundial-tv/",
+        "date": "2024-11-25 01:04:16",
+        "sentiment_score": -0.3406774252653122
+    },
+    {
+        "title": "¿Busca el \"Departamento de Eficiencia Gubernamental\" poner fin al trabajo remoto? Esto es lo que hay que saber",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1786125-copia-de-foto-para-wp-2024-11-24t162309-394.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "trabajo remoto",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/24/que-saber-empleados-federales-departamento-eficiencia-gubernamental-fin-trabajo-remoto-trax/",
+        "date": "2024-11-25 01:04:09",
+        "sentiment_score": -0.18076163530349731
+    },
+    {
+        "title": "Proyecciones le dan a Yamandú Orsi el triunfo en las elecciones de Uruguay",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/proyecciones-triunfo-yamandu-orsi-elecciones-uruguay-tv",
+        "date": "2024-11-25 00:46:23",
+        "sentiment_score": 0.4765474870800972
+    },
+    {
+        "title": "Proyecciones le dan a Yamandú Orsi el triunfo en las elecciones de Uruguay",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186699765.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "uruguay",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/proyecciones-triunfo-yamandu-orsi-elecciones-uruguay-tv/",
+        "date": "2024-11-25 00:46:23",
+        "sentiment_score": -0.012322023510932922
+    },
+    {
+        "title": "Elecciones en Chile: la oposición le arrebata cinco gobernaciones al oficialismo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/25/boric-keWG-U603394411584npG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/elecciones-chile-oposicion-arrebata-cinco-gobernaciones-oficialismo-20241125025841-nt.html",
+        "date": "2024-11-25 01:58:41",
+        "sentiment_score": -0.029935330152511597
+    },
+    {
+        "title": "Un prorruso y el primer ministro optarán a presidir el Gobierno de Rumanía",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/25/primerministro-RBLQafkSGzbepmeAqCfvZoM-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/prorruso-primer-ministro-optaran-presidir-gobierno-rumania-20241125014950-nt.html",
+        "date": "2024-11-25 00:49:50",
+        "sentiment_score": -0.11518070101737976
+    },
+    {
+        "title": "Juan José Ballesta: \"Pasé dos años de depresión sin terapia, llorando todo el día y haciendo locuras como ir a 180 km/h\"",
+        "image_url": "https://s1.elespanol.com/2024/11/22/reportajes/903170767_251114758_1706x960.jpg?contentId=ESPIMA20241122_1093",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241125/juan-jose-ballesta-pase-anos-depresion-sin-terapia-llorando-dia-haciendo-locuras-ir-kmh/903160163_0.html",
+        "date": "2024-11-25 02:03:32",
+        "sentiment_score": 0.5970684364438057
+    },
+    {
+        "title": "La impresionante nave de jamones de una mítica marca que se vende en Alcobendas por la mitad de su precio",
+        "image_url": "https://s1.elespanol.com/2024/11/19/madrid/sociedad/902420084_250996411_1706x960.png?contentId=ESPIMA20241119_0335",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20241125/impresionante-nave-jamones-mitica-marca-vende-alcobendas-mitad-precio/902410004_0.html",
+        "date": "2024-11-25 01:35:15",
+        "sentiment_score": 0.07644795626401901
+    },
+    {
+        "title": "La ruta de las fuentes de Madrid que recrea la Osa Mayor: estas son las siete ubicaciones de las siete estrellas",
+        "image_url": "https://s1.elespanol.com/2024/11/22/madrid/capital/903170843_251117088_1706x960.png?contentId=ESPIMA20241122_1169",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241125/ruta-fuentes-madrid-recrea-osa-mayor-ubicaciones-estrellas/903160250_0.html",
+        "date": "2024-11-25 01:32:36",
+        "sentiment_score": 0.032654814422130585
+    },
+    {
+        "title": "Ayuso intenta evitar que Sánchez identifique la histórica Casa de Correos como lugar de torturas del franquismo",
+        "image_url": "https://s1.elespanol.com/2023/01/13/madrid/comunidad/733437544_230139561_1706x960.jpg?contentId=ESPIMA20230113_0895",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241125/ayuso-intenta-evitar-sanchez-identifique-historica-casa-correos-lugar-torturas-franquismo/903659702_0.html",
+        "date": "2024-11-25 01:30:11",
+        "sentiment_score": -0.7605379298329353
+    },
+    {
+        "title": "Las ideas de Florentino Pérez, los cambios de Ancelotti y el nuevo tropiezo de Flick, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/11/25/6743ca9b92ec1.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ideas-florentino-perez-cambios-ancelotti-nuevo-tropiezo-flick-tertulion-20241125_3051661.html",
+        "date": "2024-11-25 00:54:21",
+        "sentiment_score": -0.12854750454425812
+    },
+    {
+        "title": "Aviso para el Barça: los peligros del nuevo modelo societario del Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/24/culemania/palco/903669706_13767937_1706x960.jpg?contentId=ESPIMA20241124_0082",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241125/aviso-barca-peligros-del-societario-real-madrid/903659691_0.html",
+        "date": "2024-11-25 00:39:42",
+        "sentiment_score": 0.18072858452796936
+    },
+    {
+        "title": "Quién es quién en la Grada d'Animació del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/10/culemania/culemaniacos/900170015_13703812_1706x960.jpg?contentId=ESPIMA20241110_0041",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241125/quien-es-quien-grada-danimacio-del-barca/900160010_0.html",
+        "date": "2024-11-25 00:38:11",
+        "sentiment_score": -0.9126820424571633
+    },
+    {
+        "title": "«Durante mucho tiempo, mi apellido fue un lastre»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/24/santiago-ramon-cajal-k31E-U23043482747ApE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/tiempo-apellido-lastre-20241124000812-ntrc.html",
+        "date": "2024-11-24 23:08:13",
+        "sentiment_score": -0.876224129460752
+    },
+    {
+        "title": "Jesús Vez Álvarez \"Camunini\", un visionario que revolucionó la industria del agua",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ed1aaa3b-752a-4d0f-b1ce-73f6b8247abd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2024/11/25/jesus-vez-alvarez-camunini-visionario-111946311.html",
+        "date": "2024-11-25 02:00:42",
+        "sentiment_score": 0.3208761066198349
+    },
+    {
+        "title": "La izquierda vuelve al gobierno en Uruguay tras una reñida pugna",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/24/6743a67c8387d.r_d.2771-1591-0.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20241125/10136536/izquierda-vuelve-gobierno-uruguay-renida-pugna.html",
+        "date": "2024-11-25 00:59:07",
+        "sentiment_score": 0.0976196676492691
+    },
+    {
+        "title": "Los futbolistas que el Barça pondrá en venta para hacer caja y ahorrar fichas muy altas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/06/13/culemania/palco/862673725_13086280_1706x960.jpg?contentId=ESPIMA20240613_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241125/los-futbolistas-barca-pondra-venta-ahorrar-fichas/903159775_0.html",
+        "date": "2024-11-25 00:37:41",
+        "sentiment_score": 0.019768498837947845
+    },
+    {
+        "title": "Una carrera para ayudar a investigar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ce3c410-7611-4f4c-8f97-b63f963b1dbb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oviedo/la-corredoria/2024/11/25/carrera-ayudar-investigar-112011087.html",
+        "date": "2024-11-24 23:24:31",
+        "sentiment_score": -0.6937448382377625
+    },
+    {
+        "title": "Imanol Alguacil: “Habría cambiado a los once jugadores”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5dfef109-4b0a-4155-8cc9-225591cdd883_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/athletic/2024/11/25/imanol-alguacil-habria-cambiado-once-8972156.html",
+        "date": "2024-11-24 23:17:07",
+        "sentiment_score": -0.1286596655845642
+    },
+    {
+        "title": "Una empresa de Granada como solo hay cuatro en el mundo",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/11/25/empresa-granada-kN0H-U23068267024GrD-1200x840@Ideal.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/empresa-granada-solo-cuatro-mundo-20241125001355-nt.html",
+        "date": "2024-11-24 23:13:55",
+        "sentiment_score": -0.8515042681246996
+    },
+    {
+        "title": "El calvario del campo: más de la mitad de los daños asegurados fueron en agricultura",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/11/agricultura-danos-espana-1440x808.jpg",
+        "tags": [
+            "agricultura",
+            "empresas",
+            "economía",
+            "medio ambiente"
+        ],
+        "link": "https://www.elindependiente.com/economia/2024/11/25/el-calvario-del-campo-mas-de-la-mitad-de-los-danos-asegurados-fueron-en-agricultura/",
+        "date": "2024-11-24 23:11:24",
+        "sentiment_score": -0.8620355483144522
     }
 ];
