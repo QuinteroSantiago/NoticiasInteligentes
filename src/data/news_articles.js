@@ -174,36 +174,6 @@ export default [
         "sentiment_score": -0.09741699695587158
     },
     {
-        "title": "Ryanair afirma que cobrar por el equipaje de mano es legal y acusa al Gobierno de actuar «por razones políticas»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/22/1449555107-RZjAAjuIQcJ7rba1aU1bsQP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ryanair-afirma-cobrar-equipaje-mano-legal-acusa-20241122142909-nt.html",
-        "date": "2024-11-22 13:30:57",
-        "sentiment_score": -0.15744368731975555
-    },
-    {
-        "title": "¿Me pueden devolver el dinero del equipaje de mano tras la multa de 179 millones a Ryanair, Vueling y otras aerolíneas por cobrarlo?",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/22/ryanair.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/pueden-devolver-dinero-equipaje-mano-tras-multa-20241122140354-nt.html",
-        "date": "2024-11-22 13:03:55",
-        "sentiment_score": -0.11911167204380035
-    },
-    {
-        "title": "Hallan las herramientas para reparar el ADN dañado ligado al envejecimiento o el cáncer",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/11/22/fotocabecera(2).jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/hallan-herramientas-reparar-adn-danado-ligado-envejecimiento-20241122134949-nt.html",
-        "date": "2024-11-22 12:49:49",
-        "sentiment_score": -0.10754860937595367
-    },
-    {
         "title": "Andrés Cassinello, del fango hasta las estrellas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/CXCRNXNWPJAUHEY3YQADXGLI7A.jpg?auth=030b5a155d02f71293cfeee054aa4945a86ca1132d2cc3a95c971cd59676543a",
         "tags": [
@@ -290,106 +260,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-22/el-psoe-activa-el-frente-judicial-y-se-querellara-contra-aldama-por-injurias-y-calumnias.html",
         "date": "2024-11-22 14:35:25",
         "sentiment_score": 0.16182976961135864
-    },
-    {
-        "title": "El PP y Vox rompen su pacto de Gobierno en el Ayuntamiento de Burgos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6MORUF4C6JCHDB7UCB7BWOXZ3E.jpg?auth=692d5aa80d59a436bb134370e72e7c0c3dd487a2c37bc7d8ddac3326844238fc&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "madrid",
-            "pactos postelectorales",
-            "pp",
-            "política migratoria",
-            "presupuestos municipales",
-            "política municipal",
-            "inmigrantes",
-            "inmigración",
-            "pactos políticos",
-            "inmigración irregular",
-            "vox"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-22/el-pp-de-burgos-y-vox-rompen-su-pacto-de-gobierno.html",
-        "date": "2024-11-22 14:15:09",
-        "sentiment_score": -0.5914829708635807
-    },
-    {
-        "title": "Víctor de Aldama: “Mi relación con Venezuela también está vinculada al tema del petróleo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2NN5I4N5D5DMNH3SFJV425P7KI.jpg?auth=cd159745c97cfbab9ebd2bea0d20e45a0e451b9c723d3b73a47a90864b809f64&width=1200",
-        "tags": [
-            "audiencia nacional",
-            "investigación judicial",
-            "delitos",
-            "koldo garcía",
-            "corrupción",
-            "víctor de aldama",
-            "santiago pedraz",
-            "ismael moreno chamarro",
-            "petróleo",
-            "venezuela",
-            "españa",
-            "caso koldo",
-            "fiscalía",
-            "justicia"
-        ],
-        "link": "https://elpais.com/espana/2024-11-22/victor-de-aldama-mi-relacion-con-venezuela-tambien-esta-vinculada-al-tema-del-petroleo.html",
-        "date": "2024-11-22 14:07:39",
-        "sentiment_score": -0.6086027827113867
-    },
-    {
-        "title": "Detenido en Murcia Jesús Heredia, uno de los diez más buscados por la policía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LJU3MOBJYFGM3IUXDAXFVWDFVE.jpeg?auth=5e835808a9496a9a2204c38718f4379bd43a7d0caaebab45f1a08480ad34e47e&width=1200",
-        "tags": [
-            "fugitivos",
-            "asesinatos",
-            "murcia",
-            "policía nacional",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-11-22/detenido-en-murcia-jesus-heredia-uno-de-los-diez-mas-buscados-por-la-policia.html",
-        "date": "2024-11-22 13:38:17",
-        "sentiment_score": -0.30329032987356186
-    },
-    {
-        "title": "El Govern y Barcelona avanzan en medidas sobre vivienda y turismo la víspera de la manifestación contra los precios del alquiler",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KK34Y7POABD2DKEMSUKIDUVRNQ.jpg?auth=ec71dd36209c06a4c58fd196c214cbd31779232e6cf2a3a44c623c47ff115bb8&width=1200",
-        "tags": [
-            "albert dalmau miranda",
-            "pisos turísticos",
-            "psc",
-            "ayuntamiento barcelona",
-            "turismo",
-            "govern cataluña",
-            "hospital clínico barcelona",
-            "laia bonet",
-            "cataluña",
-            "generalitat cataluña",
-            "vivienda",
-            "transporte público"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-22/el-govern-y-barcelona-avanzan-en-medidas-sobre-vivienda-y-turismo-la-vispera-de-la-manifestacion-contra-los-precios-del-alquiler.html",
-        "date": "2024-11-22 13:06:52",
-        "sentiment_score": 0.3642890229821205
-    },
-    {
-        "title": "La escultura ‘Julia’, la gran cabeza de la plaza de Colón, se queda en Madrid al menos un año más",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/E6CMHEZAFZEOBIFK3WUVEIFPEU.JPG?auth=37162274ed2b9057c8de42bf2e880ea86581fa43cf81a278820ca50464406b1d&width=1200",
-        "tags": [
-            "arte",
-            "jaume plensa",
-            "arte urbano",
-            "exposiciones",
-            "exposiciones temporales",
-            "ayuntamiento madrid",
-            "plazas",
-            "escultura",
-            "comunidad de madrid",
-            "artistas",
-            "cultura",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-11-22/la-escultura-julia-la-gran-cabeza-de-la-plaza-de-colon-se-queda-en-madrid-al-menos-un-ano-mas.html",
-        "date": "2024-11-22 12:36:51",
-        "sentiment_score": 0.19873128458857536
     },
     {
         "title": "¿Cuál es el salario mínimo actual en España?",
@@ -6462,5 +6332,373 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20241125/este-es-el-pueblo-mas-pobre-de-barcelona-kilometros-del-centro-con-habitantes/903909711_0.html",
         "date": "2024-11-25 21:31:37",
         "sentiment_score": -0.7959043383598328
+    },
+    {
+        "title": "Neuralink recibe la autorización para probar su chip cerebral para mover brazos robóticos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1608125-elon-musk-neuralink.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "robot",
+            "empresas",
+            "elon musk"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/25/neuralink-recibe-autorizacion-probar-chip-cerebral-mover-brazos-roboticos-efe/",
+        "date": "2024-11-26 02:13:10",
+        "sentiment_score": 0.49458349496126175
+    },
+    {
+        "title": "Las 4 noticias económicas del 25 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186857127.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-25-noviembre-2024-panorama-tv-fast",
+        "date": "2024-11-26 02:08:25",
+        "sentiment_score": -0.02118764817714691
+    },
+    {
+        "title": "Los retos de Yamandú Orsi como próximo presidente de Uruguay",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1786210-gettyimages-2185853556.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "uruguay"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/retos-yamandu-orsi-elecciones-uruguay-presidente-electo-panorama-mundial/",
+        "date": "2024-11-26 02:01:58",
+        "sentiment_score": 0.1426738053560257
+    },
+    {
+        "title": "Trump anuncia aranceles del 25% para México y Canadá desde su primer día de gobierno",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785810-como-afectarian-a-las-finanzas-personales-la-politica-economica-de-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-amenaza-aranceles-mexico-china-canada-panorama-mundial-tv/",
+        "date": "2024-11-26 02:01:24",
+        "sentiment_score": -0.06124785542488098
+    },
+    {
+        "title": "Trump anuncia aranceles del 25% para México y Canadá desde su primer día de gobierno",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785810-como-afectarian-a-las-finanzas-personales-la-politica-economica-de-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-amenaza-aranceles-mexico-china-canada-panorama-mundial-tv",
+        "date": "2024-11-26 02:01:24",
+        "sentiment_score": -0.24475376307964325
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 25 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185401728.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-25-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-26 01:33:34",
+        "sentiment_score": 0.12885384634137154
+    },
+    {
+        "title": "Mujeres marchan en la Ciudad de México en contra de la violencia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21154080-230224-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujeres-dia-internacional-eliminar-violencia-mexico-marcha",
+        "date": "2024-11-26 01:18:15",
+        "sentiment_score": -0.20789892971515656
+    },
+    {
+        "title": "Mujeres marchan en la Ciudad de México en contra de la violencia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21154080-230224-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujeres-dia-internacional-eliminar-violencia-mexico-marcha/",
+        "date": "2024-11-26 01:18:15",
+        "sentiment_score": -0.19564417004585266
+    },
+    {
+        "title": "Autoridades dicen que el ataque a bar en Tabasco es parte de una lucha entre cárteles",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185823519-20241126010701211.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataque-bar-tabasco-carteles-violencia-perspectivas-mexico-tv/",
+        "date": "2024-11-26 01:12:01",
+        "sentiment_score": -0.6076342184096575
+    },
+    {
+        "title": "Autoridades dicen que el ataque a bar en Tabasco es parte de una lucha entre cárteles",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185823519-20241126010701211.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataque-bar-tabasco-carteles-violencia-perspectivas-mexico-tv",
+        "date": "2024-11-26 01:12:01",
+        "sentiment_score": -0.5907830074429512
+    },
+    {
+        "title": "Los inspectores alientan la respuesta de la plantilla de Hacienda en Cataluña a la amenaza de ruptura: «Seamos valientes»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/26/sedeagenciatributariacatalunya-RCmVwNVTItCBFmxvum7V2JP-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/inspectores-alientan-respuesta-plantilla-hacienda-cataluna-amenaza-20241126022854-nt.html",
+        "date": "2024-11-26 01:28:55",
+        "sentiment_score": -0.07772314548492432
+    },
+    {
+        "title": "Amper e Indra descartan su fusión pero ultiman alianzas en Defensa y Seguridad",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/26/enriquelopezamper-RMEDmtLGBwQX5j6CFtseEtL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/amper-indra-descartan-fusion-ultiman-alianzas-defensa-20241126171136-nt.html",
+        "date": "2024-11-26 01:28:16",
+        "sentiment_score": -0.08468562364578247
+    },
+    {
+        "title": "La campaña en redes sociales da ventaja al prorruso Georgescu en las presidenciales de Rumanía",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/26/calin-rumania-RQ2Yt2lptjZqnysDEt0G66N-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/campana-redes-sociales-ventaja-prorruso-georgescu-presidenciales-20241126022802-nt.html",
+        "date": "2024-11-26 01:28:02",
+        "sentiment_score": -0.09619158506393433
+    },
+    {
+        "title": "Wall Street cierra al alza, con récord del Dow Jones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/26/ebt-R7xsRxqLNMaBy14072dZn3K-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/wall-street-cierra-alza-record-dow-jones-20241126021634-nt.html",
+        "date": "2024-11-26 01:17:10",
+        "sentiment_score": -0.09807911515235901
+    },
+    {
+        "title": "La torpe estrategia de negacion de Begoña Gómez",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/11/21/expolio-patrimonio--kNHE-U230787281835XB-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-torpe-estrategia-negacion-begona-gomez-20241126021012-nt.html",
+        "date": "2024-11-26 01:10:18",
+        "sentiment_score": -0.276561439037323
+    },
+    {
+        "title": "Un informe en 'The Lancet' recuerda que el VIH sigue siendo una amenaza",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/11/25/sida.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/vih-sigue-amenaza-20241126172934-nt.html",
+        "date": "2024-11-26 00:30:01",
+        "sentiment_score": -0.0828353762626648
+    },
+    {
+        "title": "Teresa Barrio, abuela ejemplar",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/11/22/desempleook-U58015051135Fqt-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/soledad-becerril-teresa-barrio-abuela-ejemplar-20241126233232-nts.html",
+        "date": "2024-11-26 00:26:49",
+        "sentiment_score": -0.10138270258903503
+    },
+    {
+        "title": "Los grandes almacenes estadounidenses Macy's retrasan los resultados del tercer trimestre por una manipulación contable de hasta 146,7 millones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/25/macys-kmWF-U60339950228850-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/grandes-almacenes-estadounidenses-macys-retrasan-resultados-tercer-20241125232330-nt.html",
+        "date": "2024-11-25 22:23:31",
+        "sentiment_score": -0.13862597942352295
+    },
+    {
+        "title": "Salen a subasta bienes del contrabandista Marcial Dorado, en prisión desde 2009: fincas, una casa, aparcamientos...",
+        "image_url": "https://s1.elespanol.com/2024/11/25/espana/903920626_251172289_1706x960.png?contentId=ESPIMA20241125_1027",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241126/salen-subasta-bienes-contrabandista-marcial-dorado-prision-fincas-casa-aparcamientos/903910218_0.html",
+        "date": "2024-11-26 01:28:44",
+        "sentiment_score": -0.3992953971028328
+    },
+    {
+        "title": "El Elfsborg, una 'cenicienta' con garras",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/11/25/elf-kJBE-U230119236723p4F-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/elfsborg-cenicienta-garras-20241125020210-nt.html",
+        "date": "2024-11-26 01:02:11",
+        "sentiment_score": 0.22507156431674957
+    },
+    {
+        "title": "«Desde hace un año no tengo ningún dolor»",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/11/25/100174587.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/sociedad/salud/quironsalud/ano-ningun-dolor-20241126071854-nt.html",
+        "date": "2024-11-26 00:00:00",
+        "sentiment_score": -0.36518705636262894
+    },
+    {
+        "title": "Los errores que debe subsanar el Barça de Flick para volver a la senda de la victoria contra el Brest",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/11/culemania/primer-equipo/900419950_13772128_1706x960.jpg?contentId=ESPIMA20241111_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241126/los-subsanar-barca-de-flick-la-victoriacontraelbrest/903909722_0.html",
+        "date": "2024-11-25 23:50:03",
+        "sentiment_score": -0.17161735892295837
+    },
+    {
+        "title": "Florentino Pérez continúa pidiendo el Balón de Oro para Vinicius Jr",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/11/Florentino-Perez-continua-pidiendo-el-Balon-de-Oro-para-Vinicius-Jr-25-de-nov-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "maturín",
+            "deportes",
+            "venezuela",
+            "monagas"
+        ],
+        "link": "https://elorientaldemonagas.com/florentino-perez-continua-pidiendo-el-balon-de-oro-para-vinicius-jr/",
+        "date": "2024-11-25 23:30:00",
+        "sentiment_score": 0.22616927325725555
+    },
+    {
+        "title": "Cuáles son las 10 mejores ciudades del mundo para 2025",
+        "image_url": "https://resizer.glanacion.com/resizer/v2/londres-la-ciudad-que-lidera-el-PJA5CCYF4JAWZPY6HOS2NTBDMY.JPG?auth=3d8a7eb1e15b485a3756311964976f99ef08449aa43b04da9f7043ee14dac5b3&height=280&quality=70&smart=true&width=420",
+        "tags": [
+            "variedades",
+            "nueva york",
+            "las 10 mejores ciudades del mundo para el 2025",
+            "tokio",
+            "londres",
+            "parís",
+            "life style"
+        ],
+        "link": "https://www.elnacional.com/life-style/cuales-son-las-10-mejores-ciudades-del-mundo-para-2025/",
+        "date": "2024-11-25 23:28:44",
+        "sentiment_score": 0.299659788608551
+    },
+    {
+        "title": "\"Las gafas de las que habla Florentino Pérez para ver al Real Madrid cuestan 3.500 euros\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/26/674503c2dbade.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/gafas-habla-florentino-perez-ver-real-madrid-cuestan-3-500-euros-20241126_3052382.html",
+        "date": "2024-11-25 23:16:16",
+        "sentiment_score": -0.1375453621149063
+    },
+    {
+        "title": "¿Necesita el Real Madrid cambiar su modelo de propiedad?",
+        "image_url": "https://images.theconversation.com/files/634273/original/file-20241125-15-4yrcu.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&rect=47%2C29%2C3899%2C2929&w=496",
+        "tags": [
+            "top"
+        ],
+        "link": "https://theconversation.com/necesita-el-real-madrid-cambiar-su-modelo-de-propiedad-244532",
+        "date": "2024-11-25 23:14:46",
+        "sentiment_score": -0.8710524346679449
+    },
+    {
+        "title": "Los VTC baten récords de siniestralidad en Madrid: sufren un 22% más de accidentes que los taxis siendo la mitad de licencias",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/52e19464f560acf122e56c326949010a/crop/0x266/1939x1559/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/25/17325571149664.jpg",
+        "tags": [
+            "madrid",
+            "comunidad de madrid",
+            "vtc",
+            "taxi",
+            "artículos gabriela galarza",
+            "accidentes tráfico",
+            "coches"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/11/26/6744b9f4e9cf4a26208b457d.html",
+        "date": "2024-11-25 23:12:27",
+        "sentiment_score": -0.6482830718159676
+    },
+    {
+        "title": "La última celebración de Calero, el barra brava colombiano que fue degollado en el 'hotel okupa' de Madrid",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/19258775b46e09c72160f791ae9ee703/crop/45x10/960x620/f/webp/assets/multimedia/imagenes/2024/11/25/17325620284139.jpg",
+        "tags": [
+            "artículos luis f. durán",
+            "artículos daniel somolinos"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/11/26/6744ca9de4d4d883298b4596.html",
+        "date": "2024-11-25 23:12:26",
+        "sentiment_score": -0.7910954095423222
+    },
+    {
+        "title": "El pasado burgués de Carme Arcarazo, la líder contra los \"rentistas\" en Barcelona: estudió en un colegio como el de Leonor",
+        "image_url": "https://s1.elespanol.com/2024/11/25/reportajes/903920420_251165813_1706x960.jpg?contentId=ESPIMA20241125_0821",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241126/pasado-burgues-carme-arcarazo-lider-rentistas-barcelona-estudio-colegio-leonor/903910082_0.html",
+        "date": "2024-11-26 01:29:22",
+        "sentiment_score": 0.17135538160800934
+    },
+    {
+        "title": "El quién es quién de Ebro, la nueva marca ‘china y española’ de coches SUV que ya 'fabrica' en Barcelona",
+        "image_url": "https://s1.elespanol.com/2024/11/24/motor/903669929_251138790_1706x960.jpg?contentId=ESPIMA20241124_0305",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20241126/ebro-nueva-marca-china-espanola-coches-suv-fabrica-barcelona/903659782_0.html",
+        "date": "2024-11-26 01:25:31",
+        "sentiment_score": 0.23149318806827068
+    },
+    {
+        "title": "Cupra da un paso más allá que Seat y entrará en el mercado estadounidense en 2030",
+        "image_url": "https://s1.elespanol.com/2024/11/25/motor/903920195_251158845_1706x960.jpg?contentId=ESPIMA20241125_0596",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20241126/cupra-da-paso-alla-seat-entrara-mercado-estadounidense/903909699_0.html",
+        "date": "2024-11-26 01:25:30",
+        "sentiment_score": 0.03705791383981705
+    },
+    {
+        "title": "España alza la voz contra la violencia machista en un 25-N marcado por la división feminista",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/26/2024112601460520092.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/espana-alza-voz-violencia-machista-25-n-marcado-division-feminista/20241126014656325300.html",
+        "date": "2024-11-26 00:46:56",
+        "sentiment_score": -0.1941031888127327
+    },
+    {
+        "title": "El inversor frustrado del Barça que colabora con otros 9 clubes de la Champions",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/25/culemania/palco/903919744_13772369_1706x960.jpg?contentId=ESPIMA20241125_0145",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241126/el-inversor-frustrado-barca-colabora-clubes-champions/903909724_0.html",
+        "date": "2024-11-25 23:54:50",
+        "sentiment_score": 0.7082574982196093
+    },
+    {
+        "title": "Lopetegui niega 'tajantemente' que le dijera a Gerard Piqué que tenía que pedir perdón",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/26/67450ccf74a59.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/lopetegui-niega-tajantamente-le-dijera-gerard-pique-tenia-pedir-perdon-20241126_3052388.html",
+        "date": "2024-11-25 23:48:36",
+        "sentiment_score": -0.15578152239322662
+    },
+    {
+        "title": "La fuerza que domina el universo: Einstein sigue teniendo razón",
+        "image_url": "https://images.theconversation.com/files/633520/original/file-20241121-17-sfuief.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&rect=13%2C4%2C1008%2C758&w=496",
+        "tags": [
+            "top"
+        ],
+        "link": "https://theconversation.com/la-fuerza-que-domina-el-universo-einstein-sigue-teniendo-razon-244200",
+        "date": "2024-11-25 23:15:15",
+        "sentiment_score": 0.017908602952957153
     }
 ];
