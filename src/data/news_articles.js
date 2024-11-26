@@ -1,200 +1,5 @@
 export default [
     {
-        "title": "Biden califica de «escandalosas» las órdenes de arresto del TPI contra Netanyahu y Gallant",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/22/10896990-kTfF-U603384543922coE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/biden-califica-escandalosas-ordenes-arresto-tpi-netanyahu-20241122072551-nt.html",
-        "date": "2024-11-22 06:25:51",
-        "sentiment_score": -0.19333858788013458
-    },
-    {
-        "title": "Sara Aagesen sustituye a Ribera como vicepresidenta tercera y ministra para la Transición Ecológica",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/11/07/li_la-secretaria-de-estado-de-energia-sara-aagesen.r_d.2645-424.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sara-aagesen-sustituye-ribera-vicepresidenta-tercera-ministra-transicion-ecologica-5656807/",
-        "date": "2024-11-22 06:26:34",
-        "sentiment_score": 0.5297397822141647
-    },
-    {
-        "title": "Los 5 'intocables' de Ancelotti",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/3b9956ed-b0af-2c4b-4d5a7e6b997190a1.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z3b9955b1-ffc6-2f8f-6a594bbab68b32ed/202411/los-5-intocables-de-ancelotti",
-        "date": "2024-11-22 06:25:49",
-        "sentiment_score": 0.775485947728157
-    },
-    {
-        "title": "«Se evitaría que coincidan Unionistas y Salamanca UDS»",
-        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/11/21/UNIO-ktlE--758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/deportes/futbol-local/evitaria-coincidan-unionistas-salamanca-20241121071500-nt.html",
-        "date": "2024-11-22 06:15:00",
-        "sentiment_score": -0.3110438846051693
-    },
-    {
-        "title": "Ganar a las expectativas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4acb4769-00d3-4a9a-b0ee-66dcd34e6198_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/11/22/ganar-expectativas-111920173.html",
-        "date": "2024-11-22 06:01:08",
-        "sentiment_score": -0.011341795325279236
-    },
-    {
-        "title": "La nueva vida de Iñaki Peña bajo palos con Hansi Flick",
-        "image_url": "https://static1.ara.cat/clip/7b4fd29b-e8a3-4a44-8b1b-3f785a0d6717_16-9-aspect-ratio_default_0.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/nueva-vida-inaki-pena-palos-hansi-flick_1_5208776.html",
-        "date": "2024-11-22 06:01:07",
-        "sentiment_score": -0.10233491659164429
-    },
-    {
-        "title": "Manuel Carra en nuestra memoria, en el Día Internacional de la Música",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2554d61f-8629-42a6-af23-faf5d3fe21e0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/11/22/manuel-carra-memoria-dia-internacional-111917406.html",
-        "date": "2024-11-22 06:01:05",
-        "sentiment_score": 0.5794100612401962
-    },
-    {
-        "title": "Anatomía de un cocido",
-        "image_url": "https://album.mediaset.es/eimg/2024/11/18/anatomia-de-un-cocido_fcb9.jpg",
-        "tags": [
-            "recetas"
-        ],
-        "link": "https://www.telecinco.es/gastronomia/recetas/20241122/anatomia-cocido_18_014038228.html",
-        "date": "2024-11-22 06:00:55",
-        "sentiment_score": 0.06987348198890686
-    },
-    {
-        "title": "LaLiga EA Sports | Las claves de la jornada 14: el Espanyol visita a un Girona al alza en su lucha por salir del descenso",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/11/laliga-ea-sports-jornada-14-750x375.jpg",
-        "tags": [
-            "laliga ea sports",
-            "actualidad",
-            "girona",
-            "espanyol",
-            "jornada 14",
-            "claves"
-        ],
-        "link": "https://lagradaonline.com/girona-espanyol-claves-jornada-14-primera-division-laliga-ea-sports/",
-        "date": "2024-11-22 05:55:31",
-        "sentiment_score": 0.6169101037085056
-    },
-    {
-        "title": "La 'comisión Begoña' queda en punto muerto: el PP propone cambiar el plan de trabajo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/22350057-10fe-4afd-b263-248e7485df19_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/espana/2024/11/22/comision-begona-queda-punto-muerto-111930510.html",
-        "date": "2024-11-22 05:46:47",
-        "sentiment_score": -0.5580653846263885
-    },
-    {
-        "title": "¿Quién fue Picio, el feo granadino de historia trágica que se convirtió en leyenda popular?",
-        "image_url": "https://static.grupojoly.com/clip/654d91b5-e4f9-4118-8ceb-79ad904c9d5c_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.granadahoy.com/vivir/picio-feo-granadino-historia-tragica_0_2002839450.html",
-        "date": "2024-11-22 06:30:28",
-        "sentiment_score": -0.7356892749667168
-    },
-    {
-        "title": "El poderoso don Fidel y su casa con ascensor",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/19/casamantilla-kdaG-RFquwG2Rd6BWb6oIXepX9qO-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/170aniversario/historias-de-nuestra-historia/poderoso-don-fidel-casa-ascensor-20241122072742-nt.html",
-        "date": "2024-11-22 06:27:42",
-        "sentiment_score": 0.10414962470531464
-    },
-    {
-        "title": "Estas son las previsiones del mercado de la vivienda de 2025: más hipotecas, más compraventas y precios más caros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92fda6c9-53b8-4760-b508-38e29f144ef7_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20241122/gonzalo-bernardos-previsiones-mercado-vivienda-2025-111911979",
-        "date": "2024-11-22 06:20:04",
-        "sentiment_score": 0.42009412124753
-    },
-    {
-        "title": "Fin de semana en Barcelona: las primeras luces navideñas en Sant Pau, un concierto solidario y 'Anna Karenina' en el TNC",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/11/29/recinto-modernista-de-sant-pau.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/noticia/5656133/0/fin-de-semana-en-barcelona-las-primeras-luces-navidenas-en-sant-pau-un-concierto-solidario-y-anna-karenina-en-el-tnc/",
-        "date": "2024-11-22 06:20:01",
-        "sentiment_score": 0.008845582604408264
-    },
-    {
-        "title": "Carme Arcarazo, portavoz del Sindicat de Llogateres: \"El alquiler de temporada es como los contratos basura del mundo laboral\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/07/entrevista-sindicat-de-llogaters-portavoz-carme-arcarazo-portada.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.20minutos.es/noticia/5652033/0/carme-arcarazo-sindicat-llogaters-si-los-rentistas-no-bajan-los-alquileres-los-bajaremos-los-inquilinos/",
-        "date": "2024-11-22 06:19:23",
-        "sentiment_score": 0.09746260195970535
-    },
-    {
-        "title": "Lo que debes saber hoy, 22 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/08/22/vivir-en-barcelona/697440321_10955716_1706x960.jpg?contentId=ESPIMA20220822_0072",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241122/lo-que-debes-saber-hoy-de-noviembre-barcelona/903159676_0.html",
-        "date": "2024-11-22 06:14:02",
-        "sentiment_score": -0.509326659142971
-    },
-    {
-        "title": "Pide un \"agua del tiempo\" en un bar de Barcelona y la respuesta del camarero crea estupefacción",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/11/21/una-botella-de-agua-en-un-restaurante.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/pide-agua-barcelona-respuesta-dependiente-crea-estupefaccion.html",
-        "date": "2024-11-22 06:13:45",
-        "sentiment_score": -0.636898685246706
-    },
-    {
-        "title": "Nico Rodríguez, un experimentado del fútbol ceutí",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1127468",
-        "date": "2024-11-22 06:11:52",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Vivas concreta con Sánchez los desafíos a los que se enfrenta Ceuta",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1127555",
-        "date": "2024-11-22 06:04:33",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
         "title": "Envían equipo de desactivación de explosivos al Aeropuerto Gatwick de Londres y evacúan una terminal por un objeto \"sospechoso\"",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785340-terminal-gatwick-londres-explosivos.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6191,5 +5996,471 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/economia/20241125/colaboracion-publico-privada-en-barcelona-el-port-inaugura-una-red-para-convertir-frio-residual-energia/903909608_0.html",
         "date": "2024-11-25 16:59:40",
         "sentiment_score": 0.7541127055883408
+    },
+    {
+        "title": "Abogados de Trump investigan a asesor por buscar beneficios económicos, dicen fuentes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1786570-asesor-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/25/abogados-trump-investigan-boris-epshteyn-trax/",
+        "date": "2024-11-25 22:14:08",
+        "sentiment_score": -0.6820922195911407
+    },
+    {
+        "title": "Acusan a una pareja de robar casi US$ 1 millón de Lululemon en una elaborada trama de hurtos en tiendas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/robos-lululemon.jpg?quality=100&strip=info",
+        "tags": [
+            "empresas",
+            "tiendas",
+            "robos",
+            "minoristas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/25/pareja-robar-us-1-millon-lululemon-trama-hurtos-tiendas-trax/",
+        "date": "2024-11-25 22:11:52",
+        "sentiment_score": -0.8055628165602684
+    },
+    {
+        "title": "Juez retrasa audiencia de nueva sentencia para hermanos Menéndez",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1768240-erik-lyle-menendez-gettyimages-1462355302.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "crimen"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/25/retrasan-audiencia-erik-lyle-hermanos-menendez-trax/",
+        "date": "2024-11-25 21:49:44",
+        "sentiment_score": -0.53853864595294
+    },
+    {
+        "title": "ANÁLISIS | Elon Musk habla de comprar MSNBC, pero no es el único multimillonario que podría estar interesado",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1786535-copia-de-foto-para-wp-2024-11-25t141911-831.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "negocios",
+            "análisis",
+            "elon musk"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/25/analisis-elon-musk-comprar-msnbc-multimillonario-interesado-trax/",
+        "date": "2024-11-25 21:36:03",
+        "sentiment_score": -0.3927687108516693
+    },
+    {
+        "title": "Influencer de TikTok se publicó a sí misma yendo de compras a Target cuando en realidad estaba robando",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-tiktok.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiktok-influencer-robo-target-arresto-ush-trax/",
+        "date": "2024-11-25 21:24:28",
+        "sentiment_score": -0.6523770708590746
+    },
+    {
+        "title": "Influencer de TikTok se publicó a sí misma yendo de compras a Target cuando en realidad estaba robando",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-tiktok.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiktok-influencer-robo-target-arresto-ush-trax",
+        "date": "2024-11-25 21:24:28",
+        "sentiment_score": -0.5731036644428968
+    },
+    {
+        "title": "Disney da a conocer el primer tráiler de “Lilo y Stitch” con personajes de acción real",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/stitch1.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/disney-lilo-stitch-primer-trailer-showbiz",
+        "date": "2024-11-25 21:02:53",
+        "sentiment_score": 0.22299319505691528
+    },
+    {
+        "title": "El ADN confirma que un hombre que pasó la prueba del polígrafo es el presunto asesino de un caso sin resolver de 1979",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-02-00-00-05-09-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/adn-poligrafo-asesino-1979-california-esther-gonzalez-trax",
+        "date": "2024-11-25 20:59:39",
+        "sentiment_score": -0.7197277154773474
+    },
+    {
+        "title": "El ADN confirma que un hombre que pasó la prueba del polígrafo es el presunto asesino de un caso sin resolver de 1979",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "estados unidos noticias",
+            "californa",
+            "crímenes",
+            "crimen"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/adn-poligrafo-asesino-1979-california-esther-gonzalez-trax/",
+        "date": "2024-11-25 20:59:39",
+        "sentiment_score": -0.7046154141426086
+    },
+    {
+        "title": "Se acerca una poderosa tormenta invernal para el Día de Acción de Gracias con el aire más frío en meses",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1786509-clima-accion-de-gracias.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "acción de gracias",
+            "cambio climático"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/25/tormenta-invernal-accion-de-gracias-trax/",
+        "date": "2024-11-25 20:49:48",
+        "sentiment_score": -0.12134422361850739
+    },
+    {
+        "title": "Un spray nasal inhibe una enzima clave en alzhéimer en ratones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/11/25/alzheimer-protein.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/spray-nasal-inhibe-enzima-clave-alzheimer-ratones-20241125152127-nt.html",
+        "date": "2024-11-25 21:00:00",
+        "sentiment_score": -0.04694750905036926
+    },
+    {
+        "title": "'Fagamos' una Magna",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/11/24/1444113159--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/juan-j-borrero-fagamos-magna-20241126194255-nts.html",
+        "date": "2024-11-25 19:37:09",
+        "sentiment_score": -0.01592579483985901
+    },
+    {
+        "title": "Biden ignora la norma de no tomar grandes decisiones en el final de su mandato",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/25/joe-bideen-R4HeZaDUj5vMdKpuIVjLprI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/biden-ignora-norma-tomar-grandes-decisiones-final-20241125193507-nt.html",
+        "date": "2024-11-25 18:35:08",
+        "sentiment_score": -0.043048352003097534
+    },
+    {
+        "title": "Las tres ciudades y el reloj",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/11/26/241126TerceraCortina-RhATOdOi0HJyfb11vToPDIL-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alvaro-cortina-tres-ciudades-reloj-20241126155453-nt.html",
+        "date": "2024-11-25 18:25:09",
+        "sentiment_score": -0.08169978857040405
+    },
+    {
+        "title": "'¡Hola, pueblos!'",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/11/22/desempleook-U58015051135Fqt-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-hola-pueblos-20241126192445-nt.html",
+        "date": "2024-11-25 18:24:52",
+        "sentiment_score": -0.0694635808467865
+    },
+    {
+        "title": "'Llanto militar'",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/11/25/pelea-churriana-kn2C--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-ruizquintano-llanto-militar-20241126192421-nt.html",
+        "date": "2024-11-25 18:24:30",
+        "sentiment_score": -0.08359363675117493
+    },
+    {
+        "title": "Una ficción",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2024/11/24/196556654-kpWE--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-ficcion-20241126192350-nt.html",
+        "date": "2024-11-25 18:23:58",
+        "sentiment_score": -0.08964565396308899
+    },
+    {
+        "title": "Operación Macarena",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2024/11/23/IMG_1307-kfpH--170x119@Leonoticias.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-lillo-operacion-macarena-20241126192324-nt.html",
+        "date": "2024-11-25 18:23:37",
+        "sentiment_score": -0.18302272260189056
+    },
+    {
+        "title": "Unanimidad",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/11/21/ana-belen-kVeH--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-garcia-cuartango-unanimidad-20241126192257-nt.html",
+        "date": "2024-11-25 18:23:05",
+        "sentiment_score": -0.09005972743034363
+    },
+    {
+        "title": "Sánchez no se va, hay que echarlo",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/11/24/1444113159--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/isabel-san-sebastian-sanchez-echarlo-20241126192235-nt.html",
+        "date": "2024-11-25 18:22:44",
+        "sentiment_score": -0.17230495810508728
+    },
+    {
+        "title": "Miles de mujeres protestan contra la violencia machista en toda España: “Nos unen muchas más cosas de las que nos separan”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/X6M35PIV6NFHZCUIQC2AEW6KKQ.JPG?auth=147fa910f37508a88241c44bf844a92352e1a6f49c343df7ccc8ea6dfcafdcbe&width=1200",
+        "tags": [
+            "agresiones sexuales",
+            "víctimas violencia género",
+            "machismo",
+            "violencia psíquica",
+            "violencia vicaria",
+            "ana redondo garcía",
+            "violencia sexual",
+            "maltrato mujer",
+            "violencia género",
+            "asesinato pareja",
+            "ministerio de igualdad",
+            "violaciones múltiples",
+            "violaciones",
+            "día contra violencia género",
+            "patriarcado",
+            "sociedad",
+            "violencia machista"
+        ],
+        "link": "https://elpais.com/sociedad/2024-11-25/miles-de-mujeres-protestan-contra-la-violencia-machista-en-toda-espana-nos-unen-muchas-mas-cosas-de-las-que-nos-separan.html",
+        "date": "2024-11-25 20:52:02",
+        "sentiment_score": -0.8760077031329274
+    },
+    {
+        "title": "Más del 40% de los casos activos de violencia de género de Valencia están en los municipios afectados por la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IP5MZ7D6Q5O2JGKHQDPAAZIQ34.jpg?auth=93de35e5ba74f68952bd261863f7c20010c413af884ac6f832cb207a6c20e1d1&width=1200",
+        "tags": [
+            "feminismo",
+            "valencia",
+            "día contra violencia género",
+            "paiporta",
+            "violencia machista",
+            "pilar bernabé",
+            "alfafar",
+            "aldaia",
+            "sedaví",
+            "comunidad valenciana",
+            "ministerio de igualdad",
+            "catarroja"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-25/mas-del-40-de-los-casos-activos-de-violencia-de-genero-de-valencia-estan-en-los-municipios-afectados-por-la-dana.html",
+        "date": "2024-11-25 19:38:41",
+        "sentiment_score": 0.21604248136281967
+    },
+    {
+        "title": "Begoña Gómez pide citar a testigos para combatir la nueva imputación sobre el ‘software’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CHGQT7ZZBNDRJOO7FQWY7RULI4.jpg?auth=14514a7580365a5d2b0569a0d5e2e64326c1f166400d5814203bf23d79ccfa22&width=1200",
+        "tags": [
+            "jueces",
+            "investigación judicial",
+            "software",
+            "testigos",
+            "begoña gómez fernández",
+            "españa",
+            "hazte oír"
+        ],
+        "link": "https://elpais.com/espana/2024-11-25/begona-gomez-pide-citar-a-testigos-para-combatir-la-nueva-imputacion-sobre-el-software.html",
+        "date": "2024-11-25 19:35:35",
+        "sentiment_score": -0.17566468194127083
+    },
+    {
+        "title": "El PP de Ayuso diseña una argucia legal para vetar que el gobierno recuerde que la Real Casa de Correos acogió las torturas del franquismo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FS6PIPBHPRJANAXB2MAUBBILGM.jpg?auth=b6e3791119cb4560619323088b994446b66a09c6182272cd4581f8a3bc057358",
+        "tags": [
+            "gobierno comunidad de madrid",
+            "isabel díaz ayuso",
+            "comunidad de madrid",
+            "madrid",
+            "gobierno de españa"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-25/el-pp-de-ayuso-disena-una-argucia-legal-para-vetar-que-el-gobierno-recuerde-que-la-real-casa-de-correos-acogio-las-torturas-del-franquismo.html",
+        "date": "2024-11-25 18:57:27",
+        "sentiment_score": -0.7845182754099369
+    },
+    {
+        "title": "Lobato irrita al PSOE por su actuación ante el correo del novio de Ayuso y recrudece la batalla por el control de la federación madrileña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y3ZVFHEPGP3H3EOXF3BY44UAMQ.jpg?auth=e37d954231a126463b35ad1009f32cbeaf5e3ba2985a0e13c5f164a30fa61ccf&width=1200",
+        "tags": [
+            "barones psoe",
+            "óscar lópez águeda",
+            "psoe",
+            "psoe-m",
+            "tribunales",
+            "pilar sanchez acera",
+            "justicia",
+            "juan lobato",
+            "pedro sánchez",
+            "gobierno de españa",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-25/lobato-enerva-al-psoe-y-recrudece-la-batalla-organica-por-el-control-de-madrid.html",
+        "date": "2024-11-25 18:36:20",
+        "sentiment_score": -0.8578908564522862
+    },
+    {
+        "title": "El PP conecta las “filtraciones” del fiscal general del Estado con La Moncloa: “Tenían como epicentro a Sánchez”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O3MTFGD5BDKBIVPUQJ4MHKRH3Q.jpg?auth=69ac4148a4fa355b75f6c8b23f6588ff93ef0a06616033fa48db69a1641804dc&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "alberto núñez feijóo",
+            "alvaro ortiz",
+            "fgee",
+            "pp",
+            "gobierno",
+            "psoe",
+            "cuca gamarra",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-25/el-pp-conecta-las-filtraciones-del-fiscal-general-del-estado-con-la-moncloa-tenian-como-epicentro-a-sanchez.html",
+        "date": "2024-11-25 17:33:25",
+        "sentiment_score": -0.8840031363070011
+    },
+    {
+        "title": "Miles de personas protestan este 25-N contra la violencia machista en toda España",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/11/feminismo-dividido-1-1-469x317.jpg",
+        "tags": [
+            "españa",
+            "violencia sexual",
+            "violencia de género",
+            "feminismo",
+            "machismo"
+        ],
+        "link": "https://theobjective.com/espana/2024-11-25/miles-personas-25-n-violencia-machista/",
+        "date": "2024-11-25 22:08:52",
+        "sentiment_score": -0.1663590744137764
+    },
+    {
+        "title": "¿Cuánto dinero aportará Peter Lim para ayudar a las víctimas de la dana?",
+        "image_url": "https://cflvdg.avoz.es/sc/btKCUJiNp2eErJB5FIWu5XKg4kA=/768x/2024/11/25/00121732571229935149321/Foto/EuropaPress_6361629_in_memory_of_victims_of_dana_during_the_spanish_league_liga_ea_sports-EP.jpg",
+        "tags": [
+            "fútbol",
+            "valencia cf"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/11/25/dinero-aportara-peter-lim-ayudar-victimas-dana/00031732571269731444209.htm",
+        "date": "2024-11-25 21:51:00",
+        "sentiment_score": -0.3531636446714401
+    },
+    {
+        "title": "Miles de personas marchan este 25N marcado por los últimos crímenes machistas en España",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/11/25/60962C30-65FA-4F2A-B048-23CA455AB71D/miles-personas-marchan-este-25n-marcado-ultimos-crimenes-machistas-espana_70.jpg?crop=1920%2C1080%2Cx0%2Cy99&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "españa",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/miles-personas-marchan-este-25n-marcado-ultimos-crimenes-machistas-espana_202411256744f11fb1008800018ea602.html",
+        "date": "2024-11-25 21:50:23",
+        "sentiment_score": -0.7339871935546398
+    },
+    {
+        "title": "Miles de personas marchan este 25N marcado por los últimos crímenes machistas en España",
+        "image_url": "http://www.publico.es//uploads/2024/11/25/6744e3071a2e6.jpeg",
+        "tags": [
+            "mujer"
+        ],
+        "link": "http://www.publico.es/mujer/miles-personas-marchan-25n-marcado-ultimos-crimenes-machistas-espana.html",
+        "date": "2024-11-25 21:05:00",
+        "sentiment_score": -0.7379426136612892
+    },
+    {
+        "title": "Miles de personas marchan en toda España en un 25N marcado por los últimos crímenes machistas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/27d3c9c6-1696-4174-8179-5fb4042511b7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lacronicabadajoz.com/nacional/2024/11/25/miles-personas-marchan-espana-25n-112043718.html",
+        "date": "2024-11-25 21:01:48",
+        "sentiment_score": -0.6690371446311474
+    },
+    {
+        "title": "Los datos de la violencia machista en España: ¿aumentan porque hay más casos o porque se denuncia más?",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2024/11/25/6744f6760cd51.jpeg",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/audios/investigador-violencia-genero-aclara-datos-aumentan-denuncia-hay-casos-20241125_3052372.html",
+        "date": "2024-11-25 22:13:31",
+        "sentiment_score": -0.38872599601745605
+    },
+    {
+        "title": "Inditex asciende al tercer puesto en el Índice de Preparación para el Futuro de IMD",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/777ac396-df0c-4134-8356-6a10109be865_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.epe.es/es/activos/20241126/inditex-asciende-tercer-puesto-indice-112040602",
+        "date": "2024-11-25 22:06:04",
+        "sentiment_score": 0.5845958366990089
+    },
+    {
+        "title": "Pintura i poesia (1933)",
+        "image_url": "https://static1.ara.cat/clip/89fb17b8-3d39-4daf-92b7-f9f2bfbd9f95_16-9-aspect-ratio_default_1004644.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/pintura-poesia-1933_1_5211480.html",
+        "date": "2024-11-25 22:01:00",
+        "sentiment_score": -0.15215618908405304
+    },
+    {
+        "title": "El Brest, un club con 50 años de historia menos que el Barça y un presupuesto muy lejos de la Champions",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/25/culemania/culemaniacos/903919736_13772137_1706x960.jpg?contentId=ESPIMA20241125_0137",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241125/el-brest-un-de-barca-presupuesto-champions/903909721_0.html",
+        "date": "2024-11-25 22:00:39",
+        "sentiment_score": 0.8012578189373016
+    },
+    {
+        "title": "Miles de personas se manifiestan en Barcelona para protestar por la violencia contra las mujeres",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/25/vida/903919739_13772224_1706x960.jpg?contentId=ESPIMA20241125_0140",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20241125/miles-personas-manifiestan-barcelona-protestar-violencia-mujeres/903909725_0.html",
+        "date": "2024-11-25 21:45:07",
+        "sentiment_score": -0.5980309881269932
+    },
+    {
+        "title": "La provincia celebra la cultura con el recuerdo a las víctimas de la DANA",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8e6ef3fb-d31d-41cd-b668-5995d9bab5a6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/cultura/2024/11/25/provincia-celebra-cultura-recuerdo-victimas-dana-112044009.html",
+        "date": "2024-11-25 21:43:01",
+        "sentiment_score": 0.185959130525589
+    },
+    {
+        "title": "Anuncian que ya empezó el proceso de postulaciones para las elecciones de jueces de paz comunal en Anzoátegui",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "comunidad",
+            "locales",
+            "política",
+            "tribunales"
+        ],
+        "link": "https://eltiempove.com/anuncian-que-ya-empezo-el-proceso-de-postulaciones-para-las-elecciones-de-jueces-de-paz-comunal-en-anzoategui/",
+        "date": "2024-11-25 21:32:28",
+        "sentiment_score": 0.08388328365981579
+    },
+    {
+        "title": "Este es el pueblo más pobre de Barcelona: a 20 kilómetros del centro y con más de 10.000 habitantes",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/07/02/gran-barcelona/593450690_11126562_1706x960.jpg?contentId=ESPIMA20210702_0041",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20241125/este-es-el-pueblo-mas-pobre-de-barcelona-kilometros-del-centro-con-habitantes/903909711_0.html",
+        "date": "2024-11-25 21:31:37",
+        "sentiment_score": -0.7959043383598328
     }
 ];
