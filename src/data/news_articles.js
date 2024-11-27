@@ -21,67 +21,6 @@ export default [
         "sentiment_score": -0.08545899391174316
     },
     {
-        "title": "Un pueblo de Sicilia está conmocionado por una amenaza mafiosa que incluye una cabeza de caballo y una vaca embarazada",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785736-amenaza-mafiosa.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/23/cabeza-de-caballo-vaca-embarazada-amenaza-mafia-sicilia-trax/",
-        "date": "2024-11-23 13:50:09",
-        "sentiment_score": -0.9124921653419733
-    },
-    {
-        "title": "Cómo y dónde voto en las elecciones en Uruguay 2024: documentos, requisitos y horarios",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1784204-elecciones-uruguay.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones",
-            "uruguay"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/23/como-y-donde-voto-elecciones-uruguay-2024-documentos-requisitos-y-horarios-orix/",
-        "date": "2024-11-23 13:08:53",
-        "sentiment_score": -0.017500098794698715
-    },
-    {
-        "title": "Los objetivos del G20 y la cooperación internacional",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185575234.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "líderes mundiales",
-            "cumbre del g20",
-            "río de janeiro",
-            "brasil"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/objetivos-g20-cooperacion-internacional-mexico-opina-tv-fast/",
-        "date": "2024-11-23 13:00:06",
-        "sentiment_score": 0.14569959044456482
-    },
-    {
-        "title": "Presentadores de Fox, famosos de las noticias por cable y profesionales del espectáculo: Trump está formando un gabinete hecho para la televisión",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1785711-trump.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "gabinete trump",
-            "pete hegseth",
-            "fox news",
-            "política",
-            "noticias de donald trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/23/trump-famosos-tv-gabinete-trax/",
-        "date": "2024-11-23 12:51:21",
-        "sentiment_score": 0.5911259725689888
-    },
-    {
-        "title": "Expertos dicen que hay más virus durante las fiestas de fin de año en EE.UU., ¿cómo mantenerse sano?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1863300605.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "videos digitales",
-            "noticias de salud",
-            "prevención de enfermedades",
-            "thanksgiving"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mantenerse-sano-minuto-fiestas-fin-de-ano-eeuu-minuto-de-salud-fast/",
-        "date": "2024-11-23 12:00:27",
-        "sentiment_score": -0.11841051280498505
-    },
-    {
         "title": "El bulo de Espadas",
         "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/11/21/elma-U25155188021MSm-170x119@Las%20Provincias.png",
         "tags": [
@@ -152,39 +91,6 @@ export default [
         "sentiment_score": -0.11479155719280243
     },
     {
-        "title": "El PSOE lleva al Congreso una propuesta de pasarela al RETA para mutualistas que rebaja un año el requisito de actividad",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/23/EuropaPress_6205831_ministra_inclusion_seguridad_social_migraciones_elma_saiz_comparece-RDQ7GMOb1ZECWtZvk2wrmbM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/psoe-lleva-congreso-propuesta-pasarela-reta-mutualistas-20241123144237-nt.html",
-        "date": "2024-11-23 13:42:37",
-        "sentiment_score": -0.0039816200733184814
-    },
-    {
-        "title": "La misión Solar Orbiter revela nuevas imágenes del Sol a menos de 74 millones de kilómetros de distancia",
-        "image_url": "https://cdn.mnmstatic.net/cache/3d/11/media_thumb-link-4002136.webp",
-        "tags": [
-            "astronomia",
-            "solar orbiter",
-            "imágenes del sol",
-            "74 millones de kilómetros"
-        ],
-        "link": "https://www.meneame.net/story/mision-solar-orbiter-revela-nuevas-imagenes-sol-menos-74",
-        "date": "2024-11-23 13:30:04",
-        "sentiment_score": 0.005712844431400299
-    },
-    {
-        "title": "Putin ordena la producción en serie del nuevo misil hipersónico lanzado en Ucrania",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/23/putin.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/putin-ordena-produccion-serie-nuevo-misil-hipersonico-20241123121148-nt.html",
-        "date": "2024-11-23 11:11:49",
-        "sentiment_score": -0.06196236610412598
-    },
-    {
         "title": "Vivir con la menor renta de España: el Estado de bienestar y la economía sumergida salen al rescate en Badajoz",
         "image_url": "https://imagenes.elpais.com/resizer/v2/T5POD5LH3ZFB7ERWQWB5Y5R2WE.jpg?auth=6deed55272a588fbc0fe2b3820e79a786f6b0aed3f73ae1a0ebf683e5f289a85&width=1200",
         "tags": [
@@ -249,81 +155,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-11-23/madrid-y-sus-arroyos-olvidados-el-agua-que-no-vemos-y-que-puede-volver.html",
         "date": "2024-11-23 16:00:00",
         "sentiment_score": 0.5506535582244396
-    },
-    {
-        "title": "La ministra de Defensa tiene un encontronazo con afectados por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6KMAXJR4RFC3ZDLZ66YEO5YXU4.jpeg?auth=f74b6e4d23ab2ffb9a6f309dbce0fb5d0191b7f1d73fe6a8397027a0b4e8c0c0&width=1200",
-        "tags": [
-            "españa",
-            "dana",
-            "susana camarero",
-            "ume",
-            "fuerzas armadas",
-            "paiporta",
-            "comunidad valenciana",
-            "margarita robles"
-        ],
-        "link": "https://elpais.com/espana/2024-11-23/la-ministra-de-defensa-tiene-un-encontronazo-con-afectados-por-la-dana.html",
-        "date": "2024-11-23 13:13:00",
-        "sentiment_score": -0.7653417140245438
-    },
-    {
-        "title": "IU busca liderar una alianza popular y llama a reanimar a una izquierda en “shock y acobardada”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LFOP4SRFWTRF4B4ZEXNW6UWB74.jpg?auth=6084df47e125e1231389cf7b448e317bd36b53eaf917da8a6428acd58c045e02&width=1200",
-        "tags": [
-            "sumar",
-            "congreso diputados",
-            "españa",
-            "partidos políticos",
-            "antonio maíllo cañadas",
-            "podemos",
-            "democracia",
-            "presupuestos generales estado",
-            "izquierda unida"
-        ],
-        "link": "https://elpais.com/espana/2024-11-23/iu-busca-liderar-una-alianza-popular-y-llama-a-reanimar-a-una-izquierda-en-shock-y-acobardada.html",
-        "date": "2024-11-23 13:04:06",
-        "sentiment_score": 0.3434630483388901
-    },
-    {
-        "title": "El Gobierno pide a Feijóo sentarse este lunes o jueves para retomar la negociación sobre los menores migrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XVNNI22AVEWF4EEGX4SZ3F363M.jpg?auth=c47869c6fe5647fde6e90ef8fd967979e77ba46e45ecacbb2ee37b9fe4c79f65&width=1200",
-        "tags": [
-            "alberto núñez feijóo",
-            "inmigración irregular",
-            "ángel víctor torres",
-            "ceuta",
-            "psoe",
-            "inmigración",
-            "pp",
-            "españa",
-            "ursula von der leyen",
-            "pedro sánchez",
-            "gobierno",
-            "canarias"
-        ],
-        "link": "https://elpais.com/espana/2024-11-23/el-gobierno-pide-al-pp-sentarse-este-lunes-o-jueves-para-retomar-la-negociacion-de-los-menores-migrantes-tras-la-carta-a-von-der-leyen.html",
-        "date": "2024-11-23 12:04:20",
-        "sentiment_score": 0.011982239782810211
-    },
-    {
-        "title": "Centenares de falangistas se manifiestan desde la sede del PP a la del PSOE en Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EAD7ODKWQNFNPNQARN2SKI2U6U.jpeg?auth=6e915da95cd361d7d97579e86535e2ab506f5ef4592d9d0a7c0981be56b3dd1e&width=1200",
-        "tags": [
-            "alberto núñez feijóo",
-            "pedro sánchez",
-            "psoe",
-            "fe jons",
-            "pp",
-            "españa",
-            "manifestaciones",
-            "delegaciones del gobierno",
-            "franquismo",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/2024-11-23/centenares-de-falangistas-se-manifiestan-desde-la-sede-del-pp-a-la-psoe-en-madrid.html",
-        "date": "2024-11-23 10:49:14",
-        "sentiment_score": -0.059361688792705536
     },
     {
         "title": "La investigadora Araceli Boraita, cardióloga y pionera contra la muerte súbita, nueva presidenta de QUAES",
@@ -6451,5 +6282,300 @@ export default [
         "link": "https://www.cuatro.com/firstdates/20241126/soltero-desvela-oscuro-secreto-sentimental_18_014118989.html",
         "date": "2024-11-26 22:00:23",
         "sentiment_score": 0.039358168840408325
+    },
+    {
+        "title": "Biden anuncia un acuerdo de alto el fuego entre Israel y Hezbollah",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/biden-anuncia-un-acuerdo-de-alto-el-fuego-entre-israel-y-hezbollah-00-00-35-14-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "israel noticias",
+            "hezbollah",
+            "joe biden",
+            "medio oriente",
+            "ee.uu.",
+            "líbano",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biden-anuncia-alto-al-fuego-trax/",
+        "date": "2024-11-27 01:55:10",
+        "sentiment_score": -0.0012631416320800781
+    },
+    {
+        "title": "Biden anuncia un acuerdo de alto el fuego entre Israel y Hezbollah",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biden-anuncia-alto-al-fuego-trax",
+        "date": "2024-11-27 01:55:10",
+        "sentiment_score": 0.08323279023170471
+    },
+    {
+        "title": "Israel acuerda un cese del fuego con Hezbollah en el Líbano por 60 días",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1787175-2024-11-26t140335z-2019090587-rc21dbal6pxn-rtrmadp-3-israel-palestinians-lebanon.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra israel hezbollah",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-aprueba-cese-fuego-hezbolah-libano-60-dias-panorama-mundial-tv/",
+        "date": "2024-11-27 01:50:12",
+        "sentiment_score": -0.29930999875068665
+    },
+    {
+        "title": "Israel acuerda un cese del fuego con Hezbollah en el Líbano por 60 días",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-aprueba-cese-fuego-hezbolah-libano-60-dias-panorama-mundial-tv",
+        "date": "2024-11-27 01:50:12",
+        "sentiment_score": -0.4927668049931526
+    },
+    {
+        "title": "Josep Guardiola explicó los arañazos en su rostro tras el empate del City",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/josep-guardiola-explico-aranazos-rostro-tras-empate-manchester-city-futbol-deportes-tv",
+        "date": "2024-11-27 01:49:20",
+        "sentiment_score": -0.39395930618047714
+    },
+    {
+        "title": "La oposición de Venezuela denuncia el presunto robo de fusibles eléctricos de la Embajada de Argentina en Caracas, que asila a seis opositores al Gobierno de Maduro",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1742508-detienen-a-un-trabajador-de-la-embajada-argentina-en-venezuela.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela",
+            "nicolás maduro",
+            "argentina noticias",
+            "venezuela noticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/26/oposicion-venezuela-presunto-robo-fusibles-embajada-argentina-orix/",
+        "date": "2024-11-27 01:31:32",
+        "sentiment_score": -0.8081764113157988
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 26 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187010985.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-26-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-27 01:28:55",
+        "sentiment_score": 0.1253190003335476
+    },
+    {
+        "title": "“Abuela” creada con IA es la pesadilla para estafadores telefónicos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1134624697.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/abuela-ia-daisy-estafas-telefonicas-chatbot-perspectivas-mexico-tv/",
+        "date": "2024-11-27 01:09:13",
+        "sentiment_score": -0.9077765867114067
+    },
+    {
+        "title": "Estrategias para mantenerte saludable y en forma durante los meses fríos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-506411802.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "ejercicio físico",
+            "videos digitales",
+            "hábitos saludables",
+            "noticias de salud",
+            "consejos de salud",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mantenerse-saludable-en-forma-meses-frios-invierno-minuto-de-salud-fast/",
+        "date": "2024-11-27 01:07:11",
+        "sentiment_score": 0.2700718939304352
+    },
+    {
+        "title": "Estrategias para mantenerte saludable y en forma durante los meses fríos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-506411802.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mantenerse-saludable-en-forma-meses-frios-invierno-minuto-de-salud-fast",
+        "date": "2024-11-27 01:07:11",
+        "sentiment_score": 0.4612032100558281
+    },
+    {
+        "title": "Biden celebra un alto el fuego con vocación de permanente que comienza de madrugada en Líbano",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/26/biden-k5RB-U603405998417iVH-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/biden-celebra-alto-fuego-vocacion-permanente-comienza-20241126233049-nt.html",
+        "date": "2024-11-26 22:33:11",
+        "sentiment_score": -0.11298152804374695
+    },
+    {
+        "title": "PSG y Manchester City dispararon las alarmas en una noche de goleadas en Champions",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/198887/psg-y-manchester-city-dispararon-las-alarmas-en-una-noche-de-goleadas-en-champions/",
+        "date": "2024-11-27 02:11:56",
+        "sentiment_score": 0.2562168538570404
+    },
+    {
+        "title": "PSG y Manchester City disparan las alarmas en una noche de goleadas en la Champions",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1fa75.png",
+        "tags": [
+            "el manchester city",
+            "el psg",
+            "deportes",
+            "feyenoord",
+            "fútbol",
+            "champions"
+        ],
+        "link": "https://www.elnacional.com/deportes/psg-y-manchester-city-disparan-las-alarmas-en-una-noche-de-goleadas-en-la-champions/",
+        "date": "2024-11-27 01:32:19",
+        "sentiment_score": 0.039475470781326294
+    },
+    {
+        "title": "Juan Lobato, el \"telepredicador\" de Soto del Real, donde hasta los de Vox le votaban: \"El apoyo en pueblos como este es máximo\"",
+        "image_url": "https://s1.elespanol.com/2024/11/26/reportajes/904170790_251211497_1706x960.jpg?contentId=ESPIMA20241126_1216",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241127/juan-lobato-telepredicador-soto-real-vox-votaban-apoyo-pueblos-maximo/904160157_0.html",
+        "date": "2024-11-27 01:26:35",
+        "sentiment_score": -0.0023949742317199707
+    },
+    {
+        "title": "Velasco y Abellà, los herederos de Santceloni, consiguen su primera estrella Michelin: cocinan para la 'jet set' mundial",
+        "image_url": "https://s1.elespanol.com/2024/03/15/madrid/ocio/840176562_240764856_1706x960.jpg?contentId=ESPIMA20240315_0588",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241127/velasco-abella-herederos-santceloni-consiguen-primera-estrella-michelin-cocinan-jet-set-mundial/904159741_0.html",
+        "date": "2024-11-27 01:16:23",
+        "sentiment_score": 0.6918728463351727
+    },
+    {
+        "title": "Pabú, el restaurante elegido por la Casa Real para celebraciones, gana una estrella Michelin con sus platos de microtemporada",
+        "image_url": "https://s1.elespanol.com/2023/10/25/madrid/ocio/804680289_237095184_1706x960.jpg?contentId=ESPIMA20231025_0765",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241127/pabu-restaurante-elegido-casa-real-celebraciones-gana-estrella-michelin-platos-microtemporada/904159748_0.html",
+        "date": "2024-11-27 01:16:22",
+        "sentiment_score": 0.4875855930149555
+    },
+    {
+        "title": "Lobato apelará a la militancia cuando se desvelen sus whatsapp como hizo Sánchez cuando le tumbó el aparato",
+        "image_url": "https://s1.elespanol.com/2024/11/26/madrid/comunidad/904170537_251203622_1706x960.jpg?contentId=ESPIMA20241126_0963",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241127/lobato-apelara-militancia-desvelen-whatsapp-hizo-sanchez-tumbo-aparato/904159857_0.html",
+        "date": "2024-11-27 01:16:18",
+        "sentiment_score": -0.826621787622571
+    },
+    {
+        "title": "Manchester City sigue sin victoria: Igualó por Champions League ante Feyenoord",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24331785151539-e1732669837507.jpg",
+        "tags": [
+            "deportes",
+            "champions league",
+            "feyenoord",
+            "manchester city",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/11/26/manchester-city-sigue-sin-victoria-igualo-por-champions-league-ante-feyenoord/",
+        "date": "2024-11-27 01:12:07",
+        "sentiment_score": -0.5686774253845215
+    },
+    {
+        "title": "26 NOV 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/26-nov-2024-partidazo-cope-20241127_3053198.html",
+        "date": "2024-11-27 00:54:50",
+        "sentiment_score": 0.1263129860162735
+    },
+    {
+        "title": "El Barça de Flick calma las turbulencias de Laporta antes del 125 aniversario",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/27/culemania/palco/904419551_13777383_1706x960.jpg?contentId=ESPIMA20241127_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241127/el-barca-de-flick-turbulencias-laporta-aniversario/904159707_0.html",
+        "date": "2024-11-27 00:51:59",
+        "sentiment_score": 0.7626191768795252
+    },
+    {
+        "title": "Tokenización para pymes: así es la disruptora financiación alternativa, de fácil usabilidad, que ahorra tiempo y costes",
+        "image_url": "https://s1.elespanol.com/2024/11/24/invertia/disruptores/grandes-actores/empresas/903669724_251132112_1706x960.jpg?contentId=ESPIMA20241124_0100",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20241127/tokenizacion-pymes-disruptora-financiacion-alternativa-facil-usabilidad-ahorra-tiempo-costes/903659655_0.html",
+        "date": "2024-11-27 00:39:32",
+        "sentiment_score": 0.29408805072307587
+    },
+    {
+        "title": "Dos jugadores del Barça regatean la polémica con la Grada: “Es una decisión de club”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/27/culemania/primer-equipo/904419558_13777588_1706x960.jpg?contentId=ESPIMA20241127_0009",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241127/dos-jugadores-barca-regatean-la-grada-es/904409552_0.html",
+        "date": "2024-11-27 01:26:23",
+        "sentiment_score": -0.9191224109381437
+    },
+    {
+        "title": "Aldi cierra un 2024 histórico en aperturas: alcanzará las 468 tiendas en España tras las ocho inauguraciones en diciembre",
+        "image_url": "https://s1.elespanol.com/2024/11/25/invertia/empresas/distribucion/903920287_251161718_1706x960.jpg?contentId=ESPIMA20241125_0688",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20241127/aldi-cierra-historico-aperturas-alcanzara-tiendas-espana-inauguraciones-diciembre/903910000_0.html",
+        "date": "2024-11-27 01:21:56",
+        "sentiment_score": 0.6091197170317173
+    },
+    {
+        "title": "La gestora de alternativos donde participa Marc Murtra echa a andar con ex de Trea y Alantra",
+        "image_url": "https://s1.elespanol.com/2023/09/12/eventos/observatorio-ods-2023/793931213_235992077_1706x960.jpg?contentId=ESPIMA20230912_0614",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20241127/gestora-alternativos-participa-marc-murtra-echa-andar-ex-trea-alantra/904160110_0.html",
+        "date": "2024-11-27 01:21:15",
+        "sentiment_score": -0.005729943513870239
+    },
+    {
+        "title": "Cradle Of Filth entre esqueletos en Bilbao",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/11/27/cradle1-knI-U2301334383900iF-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/cradle-filth-esqueletos-bilbao-20241127014530-nt.html",
+        "date": "2024-11-27 00:45:30",
+        "sentiment_score": -0.7696140557527542
+    },
+    {
+        "title": "The Objective deja de publicar la edición en papel tras la prueba en los quioscos",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/11/27/2024112701114256006.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/the-objective-deja-publicar-edicion-papel-prueba-quioscos/20241127011448885540.html",
+        "date": "2024-11-27 00:14:48",
+        "sentiment_score": -0.6026981081813574
+    },
+    {
+        "title": "Elías Israel cuenta la versión de Julen Lopetegui sobre la reunión con Piqué tras el 1-0: \"Una historia inventada\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/11/26/67450ccf74a59.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/elias-israel-cuenta-version-julen-lopetegui-sobre-reunion-pique-1-0-historia-inventada-20241127_3053188.html",
+        "date": "2024-11-26 23:57:54",
+        "sentiment_score": -0.08265331387519836
     }
 ];
