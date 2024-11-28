@@ -68,29 +68,6 @@ export default [
         "sentiment_score": -0.06315229833126068
     },
     {
-        "title": "Drones no identificados son avistados volando sobre tres bases de la Fuerza Aérea de EE.UU. en Reino Unido",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1786001-drones-no-identificados-bases-fuerzas-estados-unidos-reino-unido.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "drones",
-            "ejército de ee.uu.",
-            "reino unido"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/24/drones-no-identificados-avistados-bases-fuerza-aerea-ee-uu-reino-unido-trax/",
-        "date": "2024-11-24 14:01:06",
-        "sentiment_score": -0.08370942622423172
-    },
-    {
-        "title": "Elecciones en Uruguay 2024, en vivo: Orsi, Delgado, votaciones, noticias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/Copia-de-FOTO-PARA-WP-3-1.jpg?quality=100&strip=info",
-        "tags": [
-            "uruguay",
-            "minuto a minuto"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/24/resultados-elecciones-uruguay-2024-quien-gana-orsi-delgado-orix/",
-        "date": "2024-11-24 11:00:40",
-        "sentiment_score": 0.168863445520401
-    },
-    {
         "title": "Cuánto dinero cobra un preso por estar en la cárcel en España en 2024: salario medio y retribuciones",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/07/23/gtres-k0KC-U603387516473ZGE-1200x840@diario_abc.jpg",
         "tags": [
@@ -109,26 +86,6 @@ export default [
         "link": "https://www.abc.es/internacional/maria-corina-machado-convoca-protesta-maduro-dentro-20241124161828-nt.html",
         "date": "2024-11-24 15:22:55",
         "sentiment_score": -0.06773275136947632
-    },
-    {
-        "title": "Israel denuncia el asesinato «antisemita» de un rabino en Emiratos Árabes Unidos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/24/rabino-R0YMFjGexEYAh3IfesZDMcP-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-denuncia-asesinato-antisemita-rabino-emiratos-arabes-20241124132848-nt.html",
-        "date": "2024-11-24 13:06:02",
-        "sentiment_score": -0.2278767079114914
-    },
-    {
-        "title": "«Los 57 días más duros de las guerras»",
-        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/provincia/2024/11/21/diogenes004-U31638101877tnm-170x119@huelva24.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/giuseppe-tringali-dias-duros-guerras-20241124123321-nt.html",
-        "date": "2024-11-24 11:33:21",
-        "sentiment_score": 0.028904318809509277
     },
     {
         "title": "La Policía Nacional detiene a tres hombres por el secuestro de otro en Marbella que aún sigue desaparecido",
@@ -152,16 +109,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-24/la-policia-nacional-detiene-a-tres-hombres-por-el-secuestro-de-otro-en-marbella-que-aun-sigue-desaparecido.html",
         "date": "2024-11-24 15:40:24",
         "sentiment_score": -0.5892450157552958
-    },
-    {
-        "title": "Muere un hombre al derrumbarse el techo de un colegio afectado por la dana en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MXO4N2QDZVALNGOLQ6OA35LK4M.jpg?auth=b851fcf2e164c19d3bde816d0438af6490df9381170e9afe34462206055c79fd&width=1200",
-        "tags": [
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-24/muere-un-hombre-al-derrumbarse-el-techo-de-un-colegio-afectado-por-la-dana-en-valencia.html",
-        "date": "2024-11-24 12:37:02",
-        "sentiment_score": -0.7319388575851917
     },
     {
         "title": "Un frente frío asociado a la borrasca Bert trae mañana más nubes, lluvias y viento",
@@ -6551,5 +6498,354 @@ export default [
         "link": "https://www.elperiodico.com/es/sociedad/20241127/tres-heridos-choque-2-vehiculos-santa-eugenia-berga-112122132",
         "date": "2024-11-27 21:46:31",
         "sentiment_score": -0.8010516986250877
+    },
+    {
+        "title": "Las 3 noticias económicas del 27 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2181953662.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-27-noviembre-2024-panorama-tv-fast",
+        "date": "2024-11-28 02:07:39",
+        "sentiment_score": -0.019367847591638565
+    },
+    {
+        "title": "Consumidores de México y Estados Unidos serían los principales afectados por los aranceles de Trump, dicen expertos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/57405778-02567865-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "comercio estados unidos",
+            "xpress",
+            "fast – news variety",
+            "aranceles"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-eeuu-aranceles-trump-consumidores-perspectivas-mexico-tv/",
+        "date": "2024-11-28 02:05:29",
+        "sentiment_score": -0.7988593820482492
+    },
+    {
+        "title": "Consumidores de México y Estados Unidos serían los principales afectados por los aranceles de Trump, dicen expertos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/57405778-02567865-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-eeuu-aranceles-trump-consumidores-perspectivas-mexico-tv",
+        "date": "2024-11-28 02:05:29",
+        "sentiment_score": -0.7078647930175066
+    },
+    {
+        "title": "Incertidumbre en Líbano tras cese del fuego entre Israel y Hezbollah",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186523823.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incetidumbre-libano-inicio-cese-fuego-israel-hezbollah-panorama-mundial-tv/",
+        "date": "2024-11-28 02:04:58",
+        "sentiment_score": -0.6343514695763588
+    },
+    {
+        "title": "Una avioneta choca con un árbol en Fullerton, California",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/accidente-avioneta-fullerton-california-orix-00-00-52-05-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "avión",
+            "avioneta",
+            "ee.uu.",
+            "accidente avión",
+            "accidente de avión",
+            "california",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/accidente-avioneta-fullerton-california-orix/",
+        "date": "2024-11-28 01:48:46",
+        "sentiment_score": -0.8481210945174098
+    },
+    {
+        "title": "Las 4 noticias destacadas de la noche del 27 de noviembre en CNN en Español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-27-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-28 01:37:39",
+        "sentiment_score": 0.1303613856434822
+    },
+    {
+        "title": "Los proyectos del artista argentino Luis Pescetti y su conexión con el público en Miami",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luis-pescetti-argentino-miami-wendy-guerra-orix",
+        "date": "2024-11-28 01:24:11",
+        "sentiment_score": 0.14851556345820427
+    },
+    {
+        "title": "Analista: Trump busca imponer su agenda ante México y Canadá con las amenazas comerciales",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumbnail-trump-tarifs.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-impone-agenda-relacion-mexico-canada-amenazas-comerciales-perspectivas-mexico-tv-fast/",
+        "date": "2024-11-28 01:11:46",
+        "sentiment_score": -0.3351803123950958
+    },
+    {
+        "title": "Analista: Trump busca imponer su agenda ante México y Canadá con las amenazas comerciales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-impone-agenda-relacion-mexico-canada-amenazas-comerciales-perspectivas-mexico-tv-fast",
+        "date": "2024-11-28 01:11:46",
+        "sentiment_score": -0.3811076357960701
+    },
+    {
+        "title": "Un tribunal de apelaciones impide a la administración de Biden retirar el alambre de púas en disputa fronteriza con Texas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/ap24035230393677.webp",
+        "tags": [
+            "noticias de ee.uu.",
+            "inmigración",
+            "frontera méxico-ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/27/tribunal-impide-biden-remover-alambre-puas-frontera-texas-trax/",
+        "date": "2024-11-28 01:02:33",
+        "sentiment_score": -0.8499022424221039
+    },
+    {
+        "title": "Vinculan algunas terapias hormonales de la menopausia a un mayor riesgo de patologías cardíacas y trombos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/11/27/parche-estrogenos.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/terapias-hormonales-elevan-riesgo-patologias-cardiacas-trombos-20241128133002-nt.html",
+        "date": "2024-11-27 23:30:00",
+        "sentiment_score": -0.12448395788669586
+    },
+    {
+        "title": "Una inyección semestral tiene una eficacia del 96% en prevenir la transmisión del VIH",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/27/PrEP-VIH.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/inyeccion-semestral-eficacia-prevencion-vih-20241128132649-nt.html",
+        "date": "2024-11-27 23:00:00",
+        "sentiment_score": -0.18990260362625122
+    },
+    {
+        "title": "La defensa del hermano de Pedro Sánchez entiende que la UCO ha descartado que se enriqueciera ilícitamente",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MAB5HRQQSOUYHXSWAJFANRGEJA.jpg?auth=7592306492489e3b8022127c8113ca78cfaf73117162796747e197606be149ff&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "españa",
+            "diputación provincial badajoz",
+            "investigación judicial",
+            "contratos administrativos",
+            "badajoz",
+            "conservatorios"
+        ],
+        "link": "https://elpais.com/espana/2024-11-27/la-defensa-del-hermano-de-pedro-sanchez-entiende-que-la-uco-ha-descartado-que-se-enriqueciera-ilicitamente.html",
+        "date": "2024-11-27 23:08:07",
+        "sentiment_score": -0.3035009056329727
+    },
+    {
+        "title": "Los mejores equipos del Barça en 125 años de historia: de Samitier a Leo Messi",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/05/24/culemania/historias-del-barca/857674409_12989848_1706x960.jpg?contentId=ESPIMA20240524_0185",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20241128/los-barca-de-historia-samitier-leo-messi/904409646_0.html",
+        "date": "2024-11-28 01:34:43",
+        "sentiment_score": 0.8042600378394127
+    },
+    {
+        "title": "Eduardo Camavinga se lesiona y deja una sombra de preocupación",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/28/2024112802095710755.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/camavinga-lesiona-deja-sombra-preocupacion/20241128021219325590.html",
+        "date": "2024-11-28 01:12:19",
+        "sentiment_score": -0.46481550484895706
+    },
+    {
+        "title": "Lobato se marcha como víctima de la 'forma de hacer política' de Sánchez y su equipo, basada en la 'destrucción' y 'aniquilación'",
+        "image_url": "https://s1.elespanol.com/2024/11/27/espana/politica/904420861_251252306_1706x960.jpg?contentId=ESPIMA20241127_1312",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241128/lobato-marcha-victima-forma-hacer-politica-sanchez-equipo-basada-destruccion-aniquilacion/904409815_0.html",
+        "date": "2024-11-28 01:09:03",
+        "sentiment_score": -0.7658572550863028
+    },
+    {
+        "title": "27 NOV 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/27-nov-2024-partidazo-cope-20241128_3053978.html",
+        "date": "2024-11-28 00:55:46",
+        "sentiment_score": -0.18255001306533813
+    },
+    {
+        "title": "¿Hay esperanzas en medio de tanta decepción?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/28/2024112801474411370.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/esperanzas-medio-tanta-decepcion/20241128015233325587.html",
+        "date": "2024-11-28 00:52:33",
+        "sentiment_score": -0.782560596242547
+    },
+    {
+        "title": "Real Madrid cayó ante Liverpool y crece su crisis en Champions League",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-27-a-las-19.27.40-png.webp",
+        "tags": [
+            "deportes",
+            "destacados"
+        ],
+        "link": "https://lacalle.com.ve/real-madrid-cayo-ante-liverpool-y-crece-su-crisis-en-champions-league/",
+        "date": "2024-11-28 00:26:55",
+        "sentiment_score": 0.0844455361366272
+    },
+    {
+        "title": "Los mejores planes culturales para este fin de semana en Bizkaia",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2023/02/09/combo-28-k9nB-U1905816171535FF-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/mejores-planes-culturales-fin-semana-bizkaia-20241128011510-nt.html",
+        "date": "2024-11-28 00:15:11",
+        "sentiment_score": 0.7635567598044872
+    },
+    {
+        "title": "Gareth Bale tras fallo de Mbappé: “Es el mejor del mundo”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24190657320167.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "real madrid",
+            "gareth bale",
+            "kylian mbappé"
+        ],
+        "link": "https://eldiariony.com/2024/11/27/gareth-bale-tras-fallo-de-mbappe-es-el-mejor-del-mundo/",
+        "date": "2024-11-27 23:53:00",
+        "sentiment_score": -0.07811332494020462
+    },
+    {
+        "title": "Arne Slot se comió con patatas al Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/28/2024112800435446512.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/principio-fin-carlo-ancelotti/20241128005250325584.html",
+        "date": "2024-11-27 23:52:50",
+        "sentiment_score": 0.6149570420384407
+    },
+    {
+        "title": "Champions League: el Liverpool agrava la crisis del Real Madrid",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png",
+        "tags": [
+            "liverpool",
+            "el real madrid",
+            "deportes",
+            "fútbol",
+            "liga de campeones"
+        ],
+        "link": "https://www.elnacional.com/deportes/champions-league-el-liverpool-agrava-la-crisis-del-real-madrid/",
+        "date": "2024-11-27 23:52:31",
+        "sentiment_score": -0.6263334453105927
+    },
+    {
+        "title": "Gimnasio Solé, el lugar de Barcelona en el que se fundó el Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/04/culemania/historias-del-barca/890921032_13538387_1706x960.png?contentId=ESPIMA20241004_0133",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20241128/gimnasio-sole-el-lugar-barcelona-fundo-barca/890910972_0.html",
+        "date": "2024-11-28 01:46:04",
+        "sentiment_score": -0.34183836728334427
+    },
+    {
+        "title": "Ángela Royo y Lydia Ibáñez, las cazatalentos del lujo detrás del imperio gastro español: \"Somos un tándem de poli bueno y poli malo\"",
+        "image_url": "https://s1.elespanol.com/2024/11/27/mujer/protagonistas/904420120_251229506_1024x576.jpg?contentId=ESPIMA20241127_0571",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241128/angela-royo-lydia-ibanez-cazatalentos-lujo-detras-imperio-gastro-espanol-tandem-poli-bueno-malo/903909859_0.html",
+        "date": "2024-11-28 01:09:50",
+        "sentiment_score": 0.6875690668821335
+    },
+    {
+        "title": "Hablando de Gijón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/opinion/2024/11/28/hablando-gijon-112112291.html",
+        "date": "2024-11-28 01:02:08",
+        "sentiment_score": -0.6702986657619476
+    },
+    {
+        "title": "De La Meca a Italia: Renfe pone el foco en otros mercados para que el 10% de sus ingresos venga del exterior en 2028",
+        "image_url": "https://s1.elespanol.com/2024/11/27/invertia/observatorios/movilidad/904420122_251229571_1706x960.jpg?contentId=ESPIMA20241127_0573",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20241128/meca-italia-renfe-pone-foco-mercados-ingresos-venga-exterior/904409672_0.html",
+        "date": "2024-11-28 00:56:55",
+        "sentiment_score": 0.1550711691379547
+    },
+    {
+        "title": "La socimi Onaland de los Munné empieza a cotizar en Portfolio SE con 7,2 M€",
+        "image_url": "https://s1.elespanol.com/2024/11/27/invertia/empresas/inmobiliario/904420648_251245748_1706x960.jpg?contentId=ESPIMA20241127_1099",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/inmobiliario/20241128/socimi-onaland-munne-empieza-cotizar-portfolio-meur/904410044_0.html",
+        "date": "2024-11-28 00:56:24",
+        "sentiment_score": -0.783036507666111
+    },
+    {
+        "title": "¡Viva Cristo Rey!",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/02/23/63f730ddd9565.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241128/viva-cristo-rey_248628.html",
+        "date": "2024-11-28 00:30:00",
+        "sentiment_score": 0.766630832105875
+    },
+    {
+        "title": "Todos contra VMware: tras un 2024 de planificación, el próximo año podría ser el de la migración masiva",
+        "image_url": "https://s1.elespanol.com/2024/11/27/invertia/disruptores/grandes-actores/tecnologicas/904419632_251214790_1706x960.png?contentId=ESPIMA20241127_0083",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20241128/vmware-planificacion-proximo-ano-podria-migracion-masiva/904409567_0.html",
+        "date": "2024-11-28 00:26:59",
+        "sentiment_score": 0.03646647930145264
+    },
+    {
+        "title": "Esta IA asignará (por fin) las guardias del personal sanitario esta Navidad de forma justa, eficiente y sin descontentos",
+        "image_url": "https://s1.elespanol.com/2024/11/27/invertia/disruptores/ecosistema-startup/startups/904419984_251225553_1706x960.jpg?contentId=ESPIMA20241127_0435",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20241128/ia-asignara-fin-guardias-personal-sanitario-navidad-forma-justa-eficiente-sin-descontentos/904409739_0.html",
+        "date": "2024-11-28 00:26:58",
+        "sentiment_score": 0.7011794559657574
+    },
+    {
+        "title": "Una creadora impulsada por la ola feminista",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/11/27/100226802-kspD--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/sandra-miret-futuro-femenino-20241128183138-nt.html",
+        "date": "2024-11-28 00:00:00",
+        "sentiment_score": 0.18933696672320366
     }
 ];
