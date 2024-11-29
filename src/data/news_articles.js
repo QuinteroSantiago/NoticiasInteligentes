@@ -68,51 +68,6 @@ export default [
         "sentiment_score": -0.7532894946634769
     },
     {
-        "title": "Dos ataques diferentes en Tabasco, México, dejan 7 muertos y 12 heridos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataques-armados-tabasco-mexico-muertos-cafe-tv",
-        "date": "2024-11-25 13:56:44",
-        "sentiment_score": -0.7746559288352728
-    },
-    {
-        "title": "Dos ataques diferentes en Tabasco, México, dejan 7 muertos y 12 heridos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185823519.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "violencia armada en méxico",
-            "méxico",
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataques-armados-tabasco-mexico-muertos-cafe-tv/",
-        "date": "2024-11-25 13:56:44",
-        "sentiment_score": -0.8073037499561906
-    },
-    {
-        "title": "Reportan desaparición de 16 personas tras el naufragio de un crucero turístico en el mar Rojo",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1786370-copia-de-foto-para-wp-5.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "egipto",
-            "barco hundido"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/25/egipto-16-personas-desaparecidas-naufragio-crucero-turistico-mar-rojo/",
-        "date": "2024-11-25 13:42:06",
-        "sentiment_score": -0.8366693370044231
-    },
-    {
-        "title": "Autoridades de Egipto dicen que hay 17 personas desaparecidas tras el naufragio de un crucero turístico en el mar Rojo",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1276712-ultima-hora-1200-noticias-logo-cnn-cnnee.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "barco hundido",
-            "egipto"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/25/egipto-17-personas-desaparecidas-naufragio-crucero-turistico-mar-rojo/",
-        "date": "2024-11-25 13:42:06",
-        "sentiment_score": -0.7402811981737614
-    },
-    {
         "title": "El Papa lamenta que en Ucrania «la arrogancia del invasor prevalece sobre el diálogo»",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/25/1489143808-kgUD-U603397997747sVF-1200x840@diario_abc.jpg",
         "tags": [
@@ -151,66 +106,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/funciona-viagra-estudian-uso-botox-disfuncion-erectil-20241125161232-nt.html",
         "date": "2024-11-25 15:12:32",
         "sentiment_score": -0.1153905987739563
-    },
-    {
-        "title": "La extrema derecha austriaca muestra su fuerza con la victoria de las elecciones regionales en Estiria",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/25/herbert-kickl-R0w5ZcPTsmI9aDDNBCR7wQN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/extrema-derecha-austriaca-muestra-fuerza-victoria-elecciones-20241125143911-nt.html",
-        "date": "2024-11-25 13:39:12",
-        "sentiment_score": -0.11385044455528259
-    },
-    {
-        "title": "Ucrania trabaja en el desarrollo de bombas aéreas guiadas de producción nacional",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/25/misiles-ukraine-RQY861eESSKUNTmheuChpWL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ucrania-trabaja-desarrollo-bombas-aereas-guiadas-produccion-20241125142440-nt.html",
-        "date": "2024-11-25 13:24:40",
-        "sentiment_score": -0.10751393437385559
-    },
-    {
-        "title": "Tiroteos que silencian los 'narcocorridos': ya no hay paz en la Feria Ganadera de Culiacán",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/24/culiacan-RABEsnenipgykBGL5RVBTSI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/balaceras-silencian-narcocorridos-paz-feria-ganadera-culiacan-20241124180908-nt.html",
-        "date": "2024-11-25 13:09:39",
-        "sentiment_score": -0.15335717797279358
-    },
-    {
-        "title": "Reino Unido impone su mayor paquete de sanciones contra la «flota rusa en la sombra»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/25/1488950109-kszF-U603397031179ryF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/reino-unido-impone-mayor-paquete-sanciones-flota-20241125140651-nt.html",
-        "date": "2024-11-25 13:06:51",
-        "sentiment_score": -0.21973919868469238
-    },
-    {
-        "title": "Fotocasa estima que cerca de dos millones de españoles dedican la mitad o más de su sueldo al pago de la hipoteca",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/25/fotocasa-ROyURBqCchNwzkbQcfaYG0K-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/hipotecados-dedican-sueldo-pago-cuota-20241125134218-nt.html",
-        "date": "2024-11-25 12:58:48",
-        "sentiment_score": -0.10648460686206818
-    },
-    {
-        "title": "Un hombre mata a tiros a siete personas, entre ellas sus padres, esposa e hijo, y después se suicida",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/25/TUKIE-kKy-U603396469807CIE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hombre-mata-tiros-siete-personas-padres-esposa-20241125132805-nt.html",
-        "date": "2024-11-25 12:28:05",
-        "sentiment_score": -0.6770305149257183
     },
     {
         "title": "Cómo subir al tren de la Navidad 2024 del Metro de Madrid: los horarios de los vagones sorpresa en la Línea 6",
@@ -367,40 +262,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-11-25/detenido-en-girona-uno-de-los-fugitivos-mas-buscados-de-europa-que-asesino-a-un-sacerdote-en-hungria.html",
         "date": "2024-11-25 14:17:33",
         "sentiment_score": -0.68843824416399
-    },
-    {
-        "title": "El juez Eloy Velasco ataca a Irene Montero por la ‘ley del solo sí es sí’ y la compara con “un cajero de Mercadona”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W2Y3GIQBAJHLPFSNH3RNENVGI4.png?auth=73f979075fcbea0ba92964e17be848683edbe14c08d69ba0d7481c5e0f66b540&width=1200",
-        "tags": [
-            "irene montero",
-            "podemos",
-            "cataluña",
-            "audiencia nacional",
-            "eloy velasco",
-            "ley de víctimas",
-            "agresiones sexuales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-25/el-juez-eloy-velasco-ataca-a-irene-montero-por-la-ley-del-solo-si-es-si-y-la-compara-con-un-cajero-de-mercadona.html",
-        "date": "2024-11-25 14:00:18",
-        "sentiment_score": -0.7202649340033531
-    },
-    {
-        "title": "Vito Quiles se acoge a su derecho a no declarar en su vista por un delito de injurias y calumnias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4343ZIYV55ARVKMMVLG3JSVYPI.jpg?auth=2803a872bda1f44febceffd9c3c235aabdd778e5a104144073a0a0cd23961ce9",
-        "tags": [
-            "tribunales",
-            "calumnias",
-            "redes sociales",
-            "alvise pérez",
-            "injurias",
-            "bulos internet",
-            "facua",
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://elpais.com/espana/2024-11-25/vito-quiles-se-acoge-a-su-derecho-a-no-declarar-en-su-vista-por-un-delito-de-injurias-y-calumnias.html",
-        "date": "2024-11-25 13:42:27",
-        "sentiment_score": -0.15411262214183807
     },
     {
         "title": "Las dudas se ciernen sobre el Barça de Flick tras dos tropiezos consecutivos",
@@ -7230,5 +7091,414 @@ export default [
         "link": "https://www.cope.es/programas/la-linterna/noticias/todos-recursos-buena-infancia-20241128_3054702.html",
         "date": "2024-11-28 21:10:12",
         "sentiment_score": -0.03162539005279541
+    },
+    {
+        "title": "Costa Rica inicia proceso para formar parte del Acuerdo Transpacífico",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788367-ministro-comercio-costa-rica.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "costa rica",
+            "acuerdo transpacífico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/28/costa-rica-proceso-formar-parte-acuerdo-transpacifico-cptpp-orix/",
+        "date": "2024-11-29 02:05:31",
+        "sentiment_score": 0.23368782550096512
+    },
+    {
+        "title": "OPINIÓN | Castañeda: ¿Es buena señal la llamada entre Trump y Sheinbaum?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opinion-jorge-castaneda-llamada-trump-sheinbaum-aranceles-panorama-mundial-tv/",
+        "date": "2024-11-29 02:03:26",
+        "sentiment_score": -0.36473601311445236
+    },
+    {
+        "title": "OPINIÓN | Castañeda: ¿Es buena señal la llamada entre Trump y Sheinbaum?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1787957-ssheinbaum-trump.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opinion-jorge-castaneda-llamada-trump-sheinbaum-aranceles-panorama-mundial-tv",
+        "date": "2024-11-29 02:03:26",
+        "sentiment_score": -0.02982509881258011
+    },
+    {
+        "title": "Sheinbaum niega acuerdo con Trump para cerrar la frontera sur",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-sheinbaum-aranceles-migracion-llamada-perspectivas-mexico-tv",
+        "date": "2024-11-29 01:49:34",
+        "sentiment_score": -0.7866342328488827
+    },
+    {
+        "title": "Sheinbaum niega acuerdo con Trump para cerrar la frontera sur",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186701558.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "frontera estados unidos méxico",
+            "claudia sheinbaum",
+            "xpress",
+            "méxico",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-sheinbaum-aranceles-migracion-llamada-perspectivas-mexico-tv/",
+        "date": "2024-11-29 01:49:34",
+        "sentiment_score": -0.7109598349779844
+    },
+    {
+        "title": "\"Tiros al aire de celebración”: el ambiente en el Líbano por el cese del fuego",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185382845.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ambiente-alto-al-fuego-libano-israel-trax/",
+        "date": "2024-11-29 01:49:04",
+        "sentiment_score": -0.45876119285821915
+    },
+    {
+        "title": "\"Tiros al aire de celebración”: el ambiente en el Líbano por el cese del fuego",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ambiente-alto-al-fuego-libano-israel-trax",
+        "date": "2024-11-29 01:49:04",
+        "sentiment_score": -0.5613589026033878
+    },
+    {
+        "title": "La historia del cuadro de Silvia Pinal que pintó Diego Rivera",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21161548-130802-278-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/silvia-pinal-cuadro-diego-rivera-panorama",
+        "date": "2024-11-29 01:34:16",
+        "sentiment_score": -0.08945915102958679
+    },
+    {
+        "title": "Las 3 noticias destacadas de la noche del 28 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185992657.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-28-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-29 01:25:28",
+        "sentiment_score": 0.16980483010411263
+    },
+    {
+        "title": "Fallece Silvia Pinal, un ícono de México, a los 93 años de edad. Así fueron su vida e historia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/silvia-pinal-vida-biografia-icono-mexico-cultura-cine-muerte-panorama-mundial",
+        "date": "2024-11-29 01:09:29",
+        "sentiment_score": -0.8246302027255297
+    },
+    {
+        "title": "¿Tienes dudas sobre tu salud? Esto es lo que las enfermeras pueden hacer por ti",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/11/27/EnfermerosPreguntaTuEnfermera.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/dudas-sobre-salud-enfermeras-pueden-20241129133539-nt.html",
+        "date": "2024-11-28 23:44:00",
+        "sentiment_score": -0.23183149099349976
+    },
+    {
+        "title": "Campaña ‘Hablemos de tiempo. Hablemos de próstata’: En el cáncer de próstata no hay tiempo que perder",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/11/27/Campan%CC%83aHablemosdeTiempo.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/campana-hablemos-tiempo-hablemos-prostata-cancer-prostata-20241129003300-nt.html",
+        "date": "2024-11-28 23:33:00",
+        "sentiment_score": -0.07272934913635254
+    },
+    {
+        "title": "Luis Manuel Gutiérrez prepara una exposición de 50 portadas deportivas",
+        "image_url": "https://s1.ppllstatics.com/hoy/guarena/multimedia/2024/11/29/portada-hoy-y-as.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://guarena.hoy.es/luis-manuel-gutierrez-prepara-exposicion-portadas-deportivas-20241129030422-nt.html",
+        "date": "2024-11-29 02:06:32",
+        "sentiment_score": 0.14183755218982697
+    },
+    {
+        "title": "Un problema que va más allá de Antonio Pintus",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/29/2024112903002419043.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/problema-que-va-mas-alla-p/20241129030300325721.html",
+        "date": "2024-11-29 02:03:00",
+        "sentiment_score": -0.864398973993957
+    },
+    {
+        "title": "El Parlamento venezolano aprueba una ley que castiga severamente a los opositores que respaldan sanciones económicas de Estados Unidos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/878f9af8-818c-49e2-8ad0-26d0740e46de_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/11/29/parlamento-venezolano-aprueba-ley-castiga-112159289.html",
+        "date": "2024-11-29 01:32:00",
+        "sentiment_score": -0.5264162793755531
+    },
+    {
+        "title": "Selección venezolana de baloncesto masculino 3×3 suma dos victorias en los Juegos Bicentenario Ayacucho",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/11/Seleccion-venezolana-de-baloncesto-masculino-3%C3%973-suma-dos-victorias-en-los-Juegos-Bicentenario-Ayacucho-28-nov-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "maturín",
+            "relevantes",
+            "monagas",
+            "venezuela",
+            "deportes"
+        ],
+        "link": "https://elorientaldemonagas.com/seleccion-venezolana-de-baloncesto-masculino-3x3-suma-dos-victorias-en-los-juegos-bicentenario-ayacucho/",
+        "date": "2024-11-29 01:31:00",
+        "sentiment_score": 0.003850027918815613
+    },
+    {
+        "title": "Gan Pampols cobrará 92.000 euros como vicepresidente valenciano, el salario que tenía en el Ejército en 2019",
+        "image_url": "https://s1.elespanol.com/2024/11/28/valencia/904670158_251272834_1706x960.jpg?contentId=ESPIMA20241128_0634",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/valencia/20241129/gan-pampols-cobrara-euros-vicepresidente-valenciano-salario-ejercito/904659953_0.html",
+        "date": "2024-11-29 01:30:42",
+        "sentiment_score": -0.9064683392643929
+    },
+    {
+        "title": "Los 125 mejores jugadores de la historia del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/29/culemania/historias-del-barca/904919513_13790193_1706x960.jpg?contentId=ESPIMA20241129_0014",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20241129/los-mejores-jugadores-de-historia-del-barca/904659611_0.html",
+        "date": "2024-11-29 00:58:43",
+        "sentiment_score": 0.8504194132983685
+    },
+    {
+        "title": "El Palau Blaugrana, el último reducto del barcelonismo ante un Montjuïc lleno de turistas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/28/culemania/secciones/904669737_13789373_1706x960.jpg?contentId=ESPIMA20241128_0213",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20241129/el-palau-blaugrana-reducto-barcelonismo-montjuic-llenodeturistas/904659651_0.html",
+        "date": "2024-11-29 00:58:03",
+        "sentiment_score": 0.5541400350630283
+    },
+    {
+        "title": "Ni la web de Casa Real ni sus redes: por qué estos 'medios' han sido los únicos en no difundir los retratos de Felipe y Letizia",
+        "image_url": "https://s1.elespanol.com/2024/11/26/corazon/casas-reales/904169832_251181897_1706x960.jpg?contentId=ESPIMA20241126_0258",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20241129/web-casa-real-redes-medios-unicos-no-difundir-retratos-felipe-letizia/904659713_0.html",
+        "date": "2024-11-29 00:54:34",
+        "sentiment_score": -0.8930512815713882
+    },
+    {
+        "title": "Camavinga se une a las bajas de Vinicius, Carvajal, Alaba y Militao para San Mamés",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/11/29/ath-camavinga-baja-k85H-U230154503822XYG-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/camavinga-une-bajas-vinicius-carvajal-alaba-militao-20241129011414-nt.html",
+        "date": "2024-11-29 00:14:15",
+        "sentiment_score": -0.8316062521189451
+    },
+    {
+        "title": "Tavares, Campazzo y Hezonja tiñen el clásico de blanco en la Euroliga con una victoria épica tras dos prórrogas",
+        "image_url": "https://imagenes.eldebate.com/files/image_16_9_desktop/uploads/2024/11/29/674902b32a4cb.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20241129/tavares-campazzo-hezonja-tinen-clasico-blanco-euroliga-victoria-epica-dos-prorrogas_249040.html",
+        "date": "2024-11-29 00:01:46",
+        "sentiment_score": 0.7462991140782833
+    },
+    {
+        "title": "Xavier Gamper: \"Mi abuelo evitó la desaparición del Barça en 1908\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/28/culemania/palco/904669723_13788950_1706x960.jpg?contentId=ESPIMA20241128_0199",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241129/xavier-gamper-mi-abuelo-evito-desaparicion-barca/904409682_0.html",
+        "date": "2024-11-29 01:01:15",
+        "sentiment_score": -0.5636909194290638
+    },
+    {
+        "title": "La supercomputación gana en potencia y relevancia",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/23/6742398f2fcab.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241129/10134487/supercomputacion-gana-potencia-relevancia.html",
+        "date": "2024-11-29 01:00:00",
+        "sentiment_score": 0.499789847061038
+    },
+    {
+        "title": "¿Es esta la primera foto de la historia del Barça?",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/27/culemania/historias-del-barca/904419645_13780287_1706x960.png?contentId=ESPIMA20241127_0096",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20241129/es-esta-la-primera-foto-historia-barca/899410181_0.html",
+        "date": "2024-11-29 00:59:37",
+        "sentiment_score": 0.11081841588020325
+    },
+    {
+        "title": "Ni Kubala ni Samitier: el primer gran crack de la historia del Barça fichado por Gamper",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/28/culemania/historias-del-barca/904669750_13789761_1706x960.jpg?contentId=ESPIMA20241128_0226",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20241129/ni-kubala-samitier-historia-barca-fichado-gamper/904659656_0.html",
+        "date": "2024-11-29 00:56:40",
+        "sentiment_score": 0.8123538475483656
+    },
+    {
+        "title": "Risto Mejide cumple 50 años: de su faceta como padre a sus sonadas rupturas y el llamativo 'patrón' que repite en el amor",
+        "image_url": "https://s1.elespanol.com/2024/11/28/corazon/famosos/904670130_251271854_1706x960.jpg?contentId=ESPIMA20241128_0606",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241129/risto-mejide-cumple-anos-faceta-padre-sonadas-rupturas-llamativo-patron-repite-amor/904659924_0.html",
+        "date": "2024-11-29 00:54:29",
+        "sentiment_score": 0.04359212517738342
+    },
+    {
+        "title": "Identifican una mutación genética clave en casos de miocardiopatía dilatada en Tenerife",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/903be389-c6db-4cbe-9691-fd078a425054_16-9-aspect-ratio_default_1341272.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/salud/2024/11/29/identifican-mutacion-genetica-clave-casos-112155247.html",
+        "date": "2024-11-29 00:00:16",
+        "sentiment_score": -0.02807547152042389
+    },
+    {
+        "title": "Messi, entre los nominados al premio The Best",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/10/16/670f84ef30804.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/messi-nominados-premio-the-best-20241129_3054728.html",
+        "date": "2024-11-28 23:58:12",
+        "sentiment_score": -0.09339587390422821
+    },
+    {
+        "title": "Nacho Peña da la solución a los problemas de Mbappé en el Real Madrid con un ejemplo: \"Tiene dos caminos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/11/29/6749029e265ff.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/nacho-pena-da-solucion-problemas-mbappe-real-madrid-ejemplo-dos-caminos-20241129_3054725.html",
+        "date": "2024-11-28 23:54:19",
+        "sentiment_score": -0.09876921772956848
+    },
+    {
+        "title": "Israel y el Líbano se acusan de “violar” el alto al fuego",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/israel-y-el-libano-se-acusan-de-violar-el-alto-al-fuego-2024112822150",
+        "date": "2024-11-29 02:15:00",
+        "sentiment_score": -0.06659630686044693
+    },
+    {
+        "title": "Anuncian casting para el relanzamiento de \"Somos Tu y Yo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/anuncian-casting-para-el-relanzamiento-de-somos-tu-y-yo--2024112822120",
+        "date": "2024-11-29 02:12:00",
+        "sentiment_score": 0.1767614185810089
+    },
+    {
+        "title": "Texas | Oferta de trabajo para personas sin experiencia por $40 la hora",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-oferta-de-trabajo-para-personas-sin-experiencia-por-40-la-hora-202411282230",
+        "date": "2024-11-29 02:03:00",
+        "sentiment_score": 0.04485224187374115
+    },
+    {
+        "title": "Sepa cuáles son las fechas de pago para cupones SNAP en Texas (+Lista)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/sepa-cuales-son-las-fechas-de-pago-para-cupones-snap-en-texas-lista--2024112821590",
+        "date": "2024-11-29 01:59:00",
+        "sentiment_score": 0.09906289353966713
+    },
+    {
+        "title": "El Mayo Zambada negocia con EEUU para no ir a la misma prisión del Chapo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/el-mayo-zambada-negocia-con-eeuu-para-no-ir-a-la-misma-prision-del-chapo-2024112821340",
+        "date": "2024-11-29 01:34:00",
+        "sentiment_score": 0.1988578662276268
+    },
+    {
+        "title": "Nuevo caso de intoxicación en Mérida deja al menos 70 estudiantes afectados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/nuevo-caso-de-intoxicacion-en-merida-deja-al-menos-70-estudiantes-afectados-2024112821310",
+        "date": "2024-11-29 01:31:00",
+        "sentiment_score": -0.652010740712285
+    },
+    {
+        "title": "Famoso cirujano demandará a Miami Beach por restringir fiestas Art Week",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/famoso-cirujano-demandara-a-miami-beach-por-restringir-fiestas-art-week-2024112821180",
+        "date": "2024-11-29 01:18:00",
+        "sentiment_score": -0.716134175658226
+    },
+    {
+        "title": "Así será la celebración de la Virgen de Guadalupe en Chicago (+Cronograma)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-sera-la-celebracion-de-la-virgen-de-guadalupe-en-chicago-cronograma--2024112821140",
+        "date": "2024-11-29 01:14:00",
+        "sentiment_score": 0.1364713329821825
+    },
+    {
+        "title": "Eugenio Suárez se alista para llevar su experiencia grandeliga a los Leones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/eugenio-suarez-se-alista-para-llevar-su-experiencia-grandeliga-a-los-leones-2024112821130",
+        "date": "2024-11-29 01:13:00",
+        "sentiment_score": 0.03679870069026947
+    },
+    {
+        "title": "EEUU | sí puede tramitar su licencia de conducir siendo residente permanente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-si-puede-tramitar-su-licencia-de-conducir-siendo-residente-permanente-2024112820500",
+        "date": "2024-11-29 00:50:00",
+        "sentiment_score": 0.10479037091135979
     }
 ];
