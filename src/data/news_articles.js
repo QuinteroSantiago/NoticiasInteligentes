@@ -1,232 +1,5 @@
 export default [
     {
-        "title": "Arribas dirige la orquesta",
-        "image_url": "https://images.ficheroslavoz.com/69/693f8065-774e-4ef8-b2ff-f680a451d70d.jpg?crop=6000%2C3379&expires=1764051052&height=1070&token=2izYnxJXfn3JaIghk9i_yUaLZhMy9gCrlmB05Spss5E&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/283762/arribas-dirige-la-orquesta",
-        "date": "2024-11-25 06:09:54",
-        "sentiment_score": 0.6942352540791035
-    },
-    {
-        "title": "Florentino activa la cuenta atrás para cambiar el modelo de sociedad del Real Madrid",
-        "image_url": "https://static1.ara.cat/clip/539f1020-f471-47f8-9001-a3f7c2f01638_16-9-aspect-ratio_default_1045481.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/futbol/florentino-activa-cuenta-cambiar-modelo-sociedad-real-madrid_1_5211310.html",
-        "date": "2024-11-25 06:00:47",
-        "sentiment_score": -0.44576504081487656
-    },
-    {
-        "title": "Este fin de semana no dejes a tu familia en casa, Las Rozas tiene un plan para ti",
-        "image_url": "https://okdiario.com/img/2024/11/20/diadelafamilia_087-min-e1732103448772.jpg",
-        "tags": [
-            "compras",
-            "niños",
-            "madrid",
-            "no-publi",
-            "turismo",
-            "naturaleza",
-            "españa",
-            "deporte",
-            "las rozas",
-            "familia",
-            "comunidad de madrid"
-        ],
-        "link": "https://okdiario.com/madrid/este-fin-semana-no-dejes-tu-familia-casa-rozas-tiene-plan-ti-13833016",
-        "date": "2024-11-25 06:00:26",
-        "sentiment_score": 0.5788823589682579
-    },
-    {
-        "title": "Transportes adjudica el estudio de la nueva estación de Alta Velocidad de Plasencia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c74fcada-ec74-48fe-9405-c19c780f0b73_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/plasencia/2024/11/25/transportes-adjudica-estudio-nueva-estacion-112000530.html",
-        "date": "2024-11-25 06:00:25",
-        "sentiment_score": 0.08475133031606674
-    },
-    {
-        "title": "25N: Todas las marchas que claman este lunes contra la violencia machista",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/11/24/4726FE5F-5A83-42C8-9D6C-89E36739FCD3/imagen-archivo-cartel-violencia-genero_70.jpg?crop=1080%2C608%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "sociedad",
-            "noticias",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/25n-todas-marchas-que-claman-este-lunes-violencia-machista_202411256744126fb2d0df0001d30426.html",
-        "date": "2024-11-25 06:00:15",
-        "sentiment_score": -0.3685022220015526
-    },
-    {
-        "title": "Naturgy invierte 1340 millones de euros para mejorar su red eléctrica en España",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2024/11/UFD-se-apoyara-en-drones-para-digitalizar-su-red.-Foto-Naturgy-1200x800.jpg",
-        "tags": [
-            "naturgy",
-            "empresas"
-        ],
-        "link": "https://www.economiadigital.es/empresas/naturgy-ufd-inversion.html",
-        "date": "2024-11-25 06:00:00",
-        "sentiment_score": -0.10220351815223694
-    },
-    {
-        "title": "Sánchez otorgó 169.600 € de ayudas ICO a la academia de inglés de su inquilina en la casa de Pozuelo",
-        "image_url": "https://okdiario.com/img/2024/11/20/sanchez-jill-stribling.jpg",
-        "tags": [
-            "pozuelo de alarcón",
-            "casa",
-            "españa",
-            "ico",
-            "créditos",
-            "psoe",
-            "pedro sánchez"
-        ],
-        "link": "https://okdiario.com/espana/sanchez-otorgo-169-600-ayudas-ico-academia-ingles-inquilina-casa-pozuelo-13851913",
-        "date": "2024-11-25 05:45:39",
-        "sentiment_score": -0.4200048893690109
-    },
-    {
-        "title": "LaLiga EA Sports | El Espanyol, con un partido menos pero más dudas que nunca, acaba la 14a jornada segundo por la cola",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/11/laliga-ea-sports-jornada-14-domingo.jpg",
-        "tags": [
-            "espanyol",
-            "girona",
-            "clasificación",
-            "laliga ea sports",
-            "actualidad",
-            "jornada 14",
-            "resultados"
-        ],
-        "link": "https://lagradaonline.com/girona-fc-rcd-espanyol-jornada-14-primera-division-laliga-ea-sports-domingo/",
-        "date": "2024-11-25 05:45:23",
-        "sentiment_score": 0.6758425012230873
-    },
-    {
-        "title": "''El pacto era positivo, pero en los últimos años habíamos tenido una paciencia infinita con el PP''",
-        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/11/24/CM-kwlH--758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/salamanca/pacto-era-positivo-ultimos-anos-paciencia-infinita-20241124063000-nt.html",
-        "date": "2024-11-25 05:30:00",
-        "sentiment_score": -0.8048739302903414
-    },
-    {
-        "title": "La Ley del Ku Klux Klan y la hipocresía del saqueo en el exilio",
-        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-24-113241.png",
-        "tags": [
-            "columnista",
-            "opinión"
-        ],
-        "link": "https://www.elnacional.com/opinion/la-ley-del-ku-klux-klan-y-la-hipocresia-del-saqueo-en-el-exilio/",
-        "date": "2024-11-25 05:24:57",
-        "sentiment_score": -0.8795713651925325
-    },
-    {
-        "title": "Adiós Huelva. Sigue el cine",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdigital.es/opinion/eduardo-moyano-adios-huelva-sigue-cine-20241125073244-ntv.html",
-        "date": "2024-11-25 06:32:45",
-        "sentiment_score": -0.04164263606071472
-    },
-    {
-        "title": "El CatSalut va detectar més de 10.800 casos de violència masclista el 2023",
-        "image_url": "https://elmon.cat/app/uploads/sites/15/2019/11/img-4109-scaled.jpeg",
-        "tags": [
-            "salut",
-            "societat"
-        ],
-        "link": "https://elmon.cat/societat/salut/catsalut-detectar-mes-10-800-casos-violencia-masclista-2023-931107/",
-        "date": "2024-11-25 06:25:57",
-        "sentiment_score": -0.233156256377697
-    },
-    {
-        "title": "Diez cifras en clave catalana que evidencian que la lucha feminista es más necesaria que nunca",
-        "image_url": "http://www.publico.es//uploads/2024/11/22/6740b03e9add9.jpeg",
-        "tags": [
-            "mujer"
-        ],
-        "link": "http://www.publico.es/mujer/diez-cifras-clave-catalana-evidencian-lucha-feminista-necesaria.html",
-        "date": "2024-11-25 06:24:00",
-        "sentiment_score": -0.5061400197446346
-    },
-    {
-        "title": "Crean una red de espacios de crianza para familias vulnerables con hijos de 0 a 3 años: \"Genera seguridad\"",
-        "image_url": "https://album.mediaset.es/eimg/2024/11/20/crean-una-red-de-espacios-de-crianza-para-familias-vulnerables-con-hijos-de-0-a-3-anos_594c.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20241125/red-espacios-crianza-familias-vulnerables-hijos-seguridad_18_014066588.html",
-        "date": "2024-11-25 06:20:08",
-        "sentiment_score": 0.4717150442302227
-    },
-    {
-        "title": "Más de 40 marchas en una España que no calla ante la violencia machista: \"Juntas, el miedo cambia de bando\"",
-        "image_url": "https://www.elplural.com/uploads/s1/18/74/58/6/una-mujer-sujeta-un-cartel-durante-una-manifestacio-n-por-el-25n-a-25-de-noviembre-de-2023-en-madrid-espan-a-ep_7_480x270.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.elplural.com/politica/mas-40-marchas-espana-no-calla-violencia-machista-juntas-miedo-cambia-bando_341901102",
-        "date": "2024-11-25 06:15:33",
-        "sentiment_score": -0.06352275609970093
-    },
-    {
-        "title": "Feijóo utilizará la cara de Errejón durante el 25N en su campaña contra la izquierda",
-        "image_url": "https://www.elplural.com/uploads/s1/18/74/63/6/nu-n-ez-feijo-o-en-un-acto-con-afiliados-y-simpatizantes-en-caravaca-de-la-cruz-ep_7_480x270.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.elplural.com/politica/feijoo-utilizara-cara-errejon-durante-25n-campana-contra-izquierda_341904102",
-        "date": "2024-11-25 06:15:03",
-        "sentiment_score": -0.12472312152385712
-    },
-    {
-        "title": "Lo que debes saber hoy, 25 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/03/26/vivir-en-barcelona/568953100_9373456_1706x960.jpg?contentId=ESPIMA20210326_0001",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241125/lo-que-debes-saber-hoy-de-noviembre-barcelona/903909601_0.html",
-        "date": "2024-11-25 06:10:54",
-        "sentiment_score": -0.3619137778878212
-    },
-    {
-        "title": "Isabel Giménez, la jueza que explica a los niños que sufren violencia de género sus sentencias: \"Trato de dar voz a los más vulnerables\"",
-        "image_url": "https://album.mediaset.es/eimg/2024/11/21/la-jueza-isabel-gimenez_068c.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.telecinco.es/noticias/sociedad/20241125/isabel-gimenez-jueza-explica-ninos-violencia-genero-sentencias_18_014082922.html",
-        "date": "2024-11-25 06:05:54",
-        "sentiment_score": -0.12599718570709229
-    },
-    {
-        "title": "Avencia Sánchez-Mejías: la niña que solo quería entender y hoy puede curar enfermedades genéticas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0174a4ae-5c3e-4f7a-a03a-5cc75d416dee_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20241125/avencia-sanchez-mejias-nina-queria-hoy-puede-curar-111951041",
-        "date": "2024-11-25 06:02:42",
-        "sentiment_score": -0.6348684579133987
-    },
-    {
-        "title": "Tratar mejor al cliente y al proveedor",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/38cf89ee-5127-4c0d-8f5f-00f9505f1762_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20241125/tratar-mejor-cliente-proveedor-sector-alimentacion-111952058",
-        "date": "2024-11-25 06:02:16",
-        "sentiment_score": -0.039255887269973755
-    },
-    {
         "title": "Macy's descubrió que un solo empleado ocultó gastos por valor de hasta US$ 154 millones",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1786391-macy-s.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -6885,5 +6658,577 @@ export default [
         "link": "https://www.eldiario.es/internacional/protestas-genocidio-israel-gaza-semana-ciudades-hay-manifestaciones-dias-hora_1_11853807.html",
         "date": "2024-11-28 16:55:00",
         "sentiment_score": -0.058133482933044434
+    },
+    {
+        "title": "Intercambian acusaciones de violaciones del alto el fuego en el Líbano; esto es lo que se sabe sobre la frágil tregua",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788215-israel-y-hezgollah.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra de israel",
+            "medio oriente",
+            "líbano"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/28/israel-y-libano-acusaciones-violaciones-alto-el-fuego-trax/",
+        "date": "2024-11-28 21:40:45",
+        "sentiment_score": -0.830937260761857
+    },
+    {
+        "title": "Nutrióloga da consejos de alimentación para la cena de Acción de Gracias",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-625709064-2.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "alimentación",
+            "nutrición",
+            "thanksgiving",
+            "xpress",
+            "noticias de salud",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nutriologa-mitos-consejos-cena-accion-de-gracias-minuto-de-salud-fast/",
+        "date": "2024-11-28 21:25:00",
+        "sentiment_score": 0.08584745228290558
+    },
+    {
+        "title": "Agencia espacial japonesa podría retrasar el lanzamiento del cohete Epsilon S tras explosión",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/27949803-21612476-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/agencia-espacial-japonesa-lanzamiento-cohete-epsilon-s-explosion-orix",
+        "date": "2024-11-28 21:06:15",
+        "sentiment_score": -0.7344735972583294
+    },
+    {
+        "title": "Agencia espacial japonesa podría retrasar el lanzamiento del cohete Epsilon S tras explosión",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/27949803-21612476-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "epsilon s",
+            "fast – news variety",
+            "xpress",
+            "ciencia y espacio",
+            "cohete",
+            "agencia de exploración aeroespacial de japón"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/agencia-espacial-japonesa-lanzamiento-cohete-epsilon-s-explosion-orix/",
+        "date": "2024-11-28 21:06:15",
+        "sentiment_score": -0.8196937525644898
+    },
+    {
+        "title": "Grupo Intocable recibe reconocimiento “Emisario de las Musas” en Texas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/intocable.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/intocable-reconocimiento-emisario-musas-texas-showbiz",
+        "date": "2024-11-28 21:06:09",
+        "sentiment_score": 0.4758884012699127
+    },
+    {
+        "title": "Así son los narcosubmarinos interceptados con toneladas de cocaína en el Pacífico",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21159955-51213-324-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/captura-narco-submarino-interceptados-operacion-orix",
+        "date": "2024-11-28 20:22:52",
+        "sentiment_score": -0.6403406318277121
+    },
+    {
+        "title": "Así son los narcosubmarinos interceptados con toneladas de cocaína en el Pacífico",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21159955-51213-324-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa",
+            "fast – news variety",
+            "videos digitales",
+            "submarinos",
+            "xpress",
+            "cocaína",
+            "drogas",
+            "cocaína colombia",
+            "océano pacífico",
+            "narcotráfico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/captura-narco-submarino-interceptados-operacion-orix/",
+        "date": "2024-11-28 20:22:52",
+        "sentiment_score": -0.3341265395283699
+    },
+    {
+        "title": "La NASA detecta una base secreta de la Guerra Fría bajo hielo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/nasa-20241128194921761.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "nasa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nasa-base-secreta-guerra-fria-redaccion-buenos-aires-tv/",
+        "date": "2024-11-28 19:53:09",
+        "sentiment_score": -0.1783798336982727
+    },
+    {
+        "title": "La NASA detecta una base secreta de la Guerra Fría bajo hielo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nasa-base-secreta-guerra-fria-redaccion-buenos-aires-tv",
+        "date": "2024-11-28 19:53:09",
+        "sentiment_score": -0.3110724613070488
+    },
+    {
+        "title": "Las mejores 5 universidades de EE.UU., según QS",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/466734860-936029755223054-388606129568964053-n.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "universidad"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estados-unidos-5-mejores-universidades-redaccion-buenos-aires-tv/",
+        "date": "2024-11-28 19:48:33",
+        "sentiment_score": -0.0016872882843017578
+    },
+    {
+        "title": "La pataleta de Fran Rivera",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/diario_abc/2024/11/28/magna-sevilla-kbvD-RbH5IfDVpCN1sjyKN0KfkzL-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-pataleta-fran-rivera-20241129221536-nts.html",
+        "date": "2024-11-28 21:17:05",
+        "sentiment_score": -0.05300849676132202
+    },
+    {
+        "title": "PSOE sin honra",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/11/27/marcial-efe-kriF--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-gobierno-honra-20241129181250-nts.html",
+        "date": "2024-11-28 21:05:14",
+        "sentiment_score": -0.05077564716339111
+    },
+    {
+        "title": "El sanchismo culmina su toma de control total de RTVE",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/27/casa-marcial-menus-precios-nacho-manzano-estrellas-michelin-kdN--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-sanchismo-culmina-toma-control-total-rtve-20241129212329-nt.html",
+        "date": "2024-11-28 20:23:32",
+        "sentiment_score": -0.21525663137435913
+    },
+    {
+        "title": "Trump afirma que México cerrará la frontera, pero este lo niega",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/28/trump-sheinbaum-RXnGrpoLmgR4YgMGnV9JNRN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-afirma-mexico-cerrara-frontera-niega-20241128203721-nt.html",
+        "date": "2024-11-28 19:39:15",
+        "sentiment_score": -0.10235914587974548
+    },
+    {
+        "title": "Así quedan las pensiones con la subida del 2,8% en 2025: crecerán hasta 78 euros al mes",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/28/IMG_20241107_133230-Rw71h5dguY97AxvPR1Y3dlI-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/quedan-pensiones-subida-2025-creceran-euros-mes-20241128195350-nt.html",
+        "date": "2024-11-28 19:05:32",
+        "sentiment_score": -0.07828010618686676
+    },
+    {
+        "title": "Las provincias donde es más barato alquilar en la capital que en la periferia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/28/1480074404-RfxzC5IxN57RaV6J58cWntI-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/provincias-barato-alquilar-capital-aledanos-20241128193818-nt.html",
+        "date": "2024-11-28 19:04:42",
+        "sentiment_score": -0.11545616388320923
+    },
+    {
+        "title": "El degolladero",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/29/1489183795-U60448183328NmV-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-degolladero-20241129193307-nt.html",
+        "date": "2024-11-28 18:52:42",
+        "sentiment_score": -0.1234014630317688
+    },
+    {
+        "title": "Trump, una nueva era para Venezuela",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/29/241129TerceraAlvarado-RGtPMn7YoM1Yl4hWcP4jNmO-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/enrique-alvarado-trump-nueva-era-venezuela-20241129194827-nt.html",
+        "date": "2024-11-28 18:49:01",
+        "sentiment_score": -0.0020338892936706543
+    },
+    {
+        "title": "El pensamiento de la señora Stone",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/29/1489063335-U76864188874MFY-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-pensamiento-senora-stone-20241129194802-nt.html",
+        "date": "2024-11-28 18:48:09",
+        "sentiment_score": -0.3451694846153259
+    },
+    {
+        "title": "Sevilla va a ser Sofía este fin de semana",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/29/1489280141-U15786288623GRz-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alvaro-martinez-sevilla-sofia-fin-semana-20241129165609-nt.html",
+        "date": "2024-11-28 18:47:51",
+        "sentiment_score": -0.19094157218933105
+    },
+    {
+        "title": "La bronca política a costa de la gestión de la dana llega hasta la elección de la ropa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BENUO2FFWBHZDK5TIFP2JKJDXY.jfif?auth=257030332271f13d8d4f3be76dd0f562762848205352f46793831e715f8ba7ce&width=1200",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-28/la-bronca-politica-a-costa-de-la-gestion-de-la-dana-llega-hasta-la-eleccion-de-la-ropa.html",
+        "date": "2024-11-28 21:34:43",
+        "sentiment_score": -0.8548792731016874
+    },
+    {
+        "title": "La eólica marina del Golfo de Roses y el Cap de Creus perjudicaría hasta 135 especies vulnerables",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/34PTZCRGDVJGHNQCIYTGN5MVCY.jpg?auth=f73a63b46e600f5ece9e8c4d2895cb43f5319c8082fb7c2677bdbdeb2937340e&width=1200",
+        "tags": [
+            "energía eólica marina",
+            "biodiversidad",
+            "girona",
+            "medio ambiente",
+            "energía eólica",
+            "cataluña",
+            "especies acuáticas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-28/la-eolica-marina-del-golfo-de-roses-y-el-cap-de-creus-perjudicaria-hasta-135-especies-vulnerables.html",
+        "date": "2024-11-28 20:27:48",
+        "sentiment_score": -0.4064991734921932
+    },
+    {
+        "title": "Bolaños: “No hubo una trama rusa de apoyo al independentismo catalán”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RJ3MSXSZDYRHYPW3CGQ736YWF4.jpg?auth=1c0f7f8f627850b8028babd5e927d9d18463922ad48dd884b7d716ccb412f9fc&width=1200",
+        "tags": [
+            "procés independentista catalán",
+            "españa",
+            "félix bolaños garcía",
+            "vox",
+            "rusia",
+            "seguridad nacional",
+            "bulos internet"
+        ],
+        "link": "https://elpais.com/espana/2024-11-28/bolanos-no-hubo-una-trama-rusa-de-apoyo-al-independentismo-catalan.html",
+        "date": "2024-11-28 19:55:44",
+        "sentiment_score": -0.5403552446514368
+    },
+    {
+        "title": "Madrid alumbra las Navidades con 12 millones de bombillas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JLFZ42GXC5ARTJ3YLXHW3FU544.jpg?auth=395eca550ac8e03aa69ad43fddbb336e04e365d0f105b5662f0fef9a98f998fe&width=1200",
+        "tags": [
+            "luis de la fuente",
+            "madrid",
+            "navidad",
+            "puerta del sol",
+            "alumbrado",
+            "comunidad de madrid",
+            "alvaro de luna",
+            "ayuntamiento madrid",
+            "fiestas"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-11-28/madrid-alumbra-las-navidades-con-12-millones-de-bombillas.html",
+        "date": "2024-11-28 19:38:35",
+        "sentiment_score": 0.18674667179584503
+    },
+    {
+        "title": "Protección de Datos multa a Alvise con 5.000 euros por publicar una foto de la hija de Óscar Puente cuando era menor",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2PWXB3Q7VBHMNGTAFGJR2L7AEI.jpg?auth=dc06ece2400ba29ae86e4b54a3260ce7aaf33d572e59e7b840ab74fdc5bb4898&width=1200",
+        "tags": [
+            "multas",
+            "se acabó la fiesta (salf)",
+            "óscar puente santiago",
+            "españa",
+            "alvise pérez",
+            "sentencias",
+            "aepd",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2024-11-28/proteccion-de-datos-multa-a-alvise-con-5000-euros-por-publicar-una-foto-de-la-hija-de-oscar-puente-cuando-era-menor.html",
+        "date": "2024-11-28 19:17:45",
+        "sentiment_score": -0.579033961519599
+    },
+    {
+        "title": "Barcelona estrena la Navidad con el encendido de las luces navideñas en el Paseo de Gràcia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XFGNPT6EDFFK3PT36T6PITTFTU.jpg?auth=a9dcf76f1b471ec23466f8c54211f4f081a892848bc6bbc8288cf34655161cb4&width=1200",
+        "tags": [
+            "locales comerciales",
+            "comercios",
+            "alcaldía",
+            "música",
+            "espacio público",
+            "fiestas nacionales",
+            "jaume collboni",
+            "urbanismo",
+            "ventas",
+            "cataluña",
+            "navidad",
+            "paseo de gracia",
+            "iluminados",
+            "fiestas",
+            "cultura",
+            "ayuntamiento barcelona",
+            "eventos",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-28/barcelona-estrena-la-navidad-con-el-encendido-de-las-luces-navidenas-en-el-paseo-de-gracia.html",
+        "date": "2024-11-28 18:51:01",
+        "sentiment_score": -0.8778930306434631
+    },
+    {
+        "title": "Tres detenidos en Ceuta y Sevilla por hallarse en “avanzado” proceso de radicalización yihadista",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TFWNHVJF75GAVH7CT6WYE5XXYI.JPG?auth=7169b1a0f8e68d7f445b65ea05d27c80e37bbcc8497bee5052ed688014cfce7a&width=1200",
+        "tags": [
+            "terrorismo islamista",
+            "detenciones",
+            "yihadismo",
+            "guardia civil",
+            "ministerio del interior",
+            "terrorismo",
+            "españa",
+            "ceuta"
+        ],
+        "link": "https://elpais.com/espana/2024-11-28/tres-detenidos-en-ceuta-y-sevilla-por-hallarse-en-avanzado-proceso-de-radicalizacion-yihadista.html",
+        "date": "2024-11-28 18:38:44",
+        "sentiment_score": -0.573480749502778
+    },
+    {
+        "title": "La Universidad de Alicante reelige a Amparo Navarro como rectora y respalda su defensa del grado de Medicina",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NWWXQ3FC5FFJDA2IYEQP4OGHVI.jpeg?auth=832de46808e785a31ceea9f9fc4f92fb981f004b127df20e07de075a047084a1&width=1200",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-28/la-universidad-de-alicante-reelige-a-amparo-navarro-como-rectora-y-respalda-su-defensa-del-grado-de-medicina.html",
+        "date": "2024-11-28 18:05:04",
+        "sentiment_score": 0.4100605249404907
+    },
+    {
+        "title": "El PP hará un reconocimiento a los alcaldes valencianos por su gestión de la dana en ausencia de Mazón",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/23MZV7IF25DVDCVRG4R27J5GMA.jpg?auth=41bd9054475970a72dfd2f1f23acbd25f999be7578243be9688d4ea58033dbf2&width=1200",
+        "tags": [
+            "españa",
+            "carlos mazón",
+            "política",
+            "valladolid",
+            "valencia",
+            "alberto núñez feijóo",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2024-11-28/el-pp-hara-un-reconocimiento-a-los-alcaldes-valencianos-por-su-gestion-de-la-dana-en-ausencia-de-mazon.html",
+        "date": "2024-11-28 17:33:41",
+        "sentiment_score": -0.7766885403543711
+    },
+    {
+        "title": "Los empleos en España están más expuestos a la inteligencia artificial, pero son menos automatizables",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4AXXRLEGDVGQXD4VSKQRYTPTC4.jpg?auth=d4adc63acc51e2e323a2834ea5427c0ec435ef6a0ec55192b81fbd049207404e&width=1200",
+        "tags": [
+            "empleo",
+            "automatización",
+            "trabajo",
+            "ocde",
+            "inteligencia artificial",
+            "tecnología",
+            "economía"
+        ],
+        "link": "https://elpais.com/economia/2024-11-28/los-empleos-en-espana-estan-mas-expuestos-a-la-inteligencia-artificial-pero-son-menos-automatizables.html",
+        "date": "2024-11-28 17:22:18",
+        "sentiment_score": 0.7400549408048391
+    },
+    {
+        "title": "El Madrid rompe el cumpleaños redondo del Barça",
+        "image_url": "https://static1.ara.cat/clip/57ced541-3ef2-4d94-92e7-48457b2ee120_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/baloncesto/euroliga/madrid-rompe-cumpleanos-redondo-barca_1_5215512.html",
+        "date": "2024-11-28 22:09:32",
+        "sentiment_score": 0.09539395570755005
+    },
+    {
+        "title": "Víctor Cageao: \"Es un reto y un regalo\"",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/11/28/2024112823070815582.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.elprogreso.es/articulo/cultura/victor-cageao-es-reto-regalo/202411282308101809100.html",
+        "date": "2024-11-28 22:08:10",
+        "sentiment_score": 0.003052927553653717
+    },
+    {
+        "title": "Un histórico de Real Madrid cuestionó a Mbappé tras la derrota ante el Liverpool en Champions",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/11/Un-historico-de-Real-Madrid-cuestiono-a-Mbappe-tras-la-derrota-ante-el-Liverpool-en-Champions-28-de-noviembre-de-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "monagas",
+            "venezuela",
+            "deportes",
+            "maturín"
+        ],
+        "link": "https://elorientaldemonagas.com/un-historico-de-real-madrid-cuestiono-a-mbappe-tras-la-derrota-ante-el-liverpool-en-champions/",
+        "date": "2024-11-28 22:00:00",
+        "sentiment_score": -0.09844647347927094
+    },
+    {
+        "title": "Nuevo autobús del Real Madrid sufre accidente vial en su regreso de Liverpool",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24100650903181-e1732829595718.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "real madrid"
+        ],
+        "link": "https://eldiariony.com/2024/11/28/nuevo-autobus-del-real-madrid-sufre-accidente-vial-en-su-regreso-de-liverpool/",
+        "date": "2024-11-28 21:35:00",
+        "sentiment_score": -0.5432670265436172
+    },
+    {
+        "title": "Protección de Datos empieza a multar a empresas por subir fotos al perfil de sus trabajadores sin permiso",
+        "image_url": "https://static.eldiario.es/clip/d30ada23-c362-457c-9f1b-b7c00732c6a3_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/tecnologia/proteccion-datos-empieza-multar-empresas-subir-fotos-perfil-trabajadores-permiso_1_11857082.html",
+        "date": "2024-11-28 21:30:49",
+        "sentiment_score": -0.1532500684261322
+    },
+    {
+        "title": "Louzán, el hombre de Feijóo condenado por pagar dos veces un campo de fútbol se prepara para dirigir la Federación",
+        "image_url": "https://static.eldiario.es/clip/5655bfb6-fcbb-4fd8-a641-ba7dac3c510e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/galicia/louzan-hombre-feijoo-condenado-pagar-veces-campo-futbol-prepara-dirigir-federacion_1_11859545.html",
+        "date": "2024-11-28 21:30:48",
+        "sentiment_score": -0.0633508563041687
+    },
+    {
+        "title": "Dos reformas legales para agilizar el socorro en desastres como la DANA llevan años aparcadas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ec14f9ef-9538-44e9-82d1-877f077d3762_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lacronicabadajoz.com/sociedad/2024/11/28/paradas-reformas-legales-agilizar-socorro-desastres-112155244.html",
+        "date": "2024-11-28 21:25:28",
+        "sentiment_score": -0.8402486750856042
+    },
+    {
+        "title": "El Real Madrid se lleva un Clásico de 2 prórrogas",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/90bdec0b-f934-b9c9-180f52c4bc9e93b0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z90bde52b-c82d-aaf4-534ca4b1d64ac09f/202411/el-real-madrid-se-lleva-un-clasico-de-2-prorrogas",
+        "date": "2024-11-28 21:24:47",
+        "sentiment_score": -0.3321496322751045
+    },
+    {
+        "title": "Toni Lato se pierde su ‘partido del año’ por lesión",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2aca6553-9ad8-4a92-8ec4-c010cc707e3b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2024/11/28/toni-lato-pierde-partido-ano-112154751.html",
+        "date": "2024-11-28 21:07:39",
+        "sentiment_score": -0.6908182688057423
+    },
+    {
+        "title": "La Audiencia Nacional ratifica la inhabilitación de Pedro Rocha, que impide su candidatura para presidir la RFEF",
+        "image_url": "http://www.publico.es//uploads/2024/07/16/6696b76248756.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "http://www.publico.es/deportes/ratifican-inhabilitacion-anos-pedro-rocha-impide-candidatura-presidente-rfef.html",
+        "date": "2024-11-28 20:50:00",
+        "sentiment_score": -0.8876922214403749
+    },
+    {
+        "title": "El partit de l’emoció: Europa-Barça (1924)",
+        "image_url": "https://static1.ara.cat/clip/eb4a814a-2ed8-4c05-a033-a180a438a08f_16-9-aspect-ratio_default_0_x531y214.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/partit-l-emocio-europa-barca-1924_1_5211512.html",
+        "date": "2024-11-28 22:00:10",
+        "sentiment_score": -0.11696596443653107
+    },
+    {
+        "title": "¿Por qué en Cáceres se llama 'camellos' a los vendedores de droga?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9a48fb0b-a2db-42ff-8901-c674b1406218_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2024/11/28/caceres-llama-camellos-vendedores-droga-112155482.html",
+        "date": "2024-11-28 21:49:22",
+        "sentiment_score": -0.5859763585031033
+    },
+    {
+        "title": "Sustrajeron la tapa de una tanquilla ubicada en plena vía del BTR en Puerto La Cruz",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "locales",
+            "vialidad",
+            "transporte"
+        ],
+        "link": "https://eltiempove.com/sustrajeron-la-tapa-de-una-tanquilla-ubicada-en-plena-via-del-btr-en-puerto-la-cruz/",
+        "date": "2024-11-28 21:47:42",
+        "sentiment_score": -0.8764103101566434
+    },
+    {
+        "title": "Arqueólogos en las Ramblas de Barcelona: en busca de hallazgos del siglo XIV entre turistas y jubilados",
+        "image_url": "https://static.eldiario.es/clip/79a716d4-9297-4b11-a70f-7d59aef986c4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/cultura/arqueologos-ramblas-barcelona-busca-hallazgos-siglo-xiv-turistas-jubilados_1_11859573.html",
+        "date": "2024-11-28 21:30:50",
+        "sentiment_score": -0.08049416542053223
+    },
+    {
+        "title": "El resurgir del patio y la corrala: ¿puede un espacio cambiar la relación con tus vecinos?",
+        "image_url": "https://static.eldiario.es/clip/676dcc9f-6cfa-4064-a0db-f64d2d58c540_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/consumoclaro/resurgir-patio-corrala-espacio-cambiar-relacion-vecinos_1_11859135.html",
+        "date": "2024-11-28 21:30:49",
+        "sentiment_score": -0.13801109790802002
+    },
+    {
+        "title": "El retraso para juzgar despidos, deudas y actos de la administración se cronifica: \"Así no podemos seguir\"",
+        "image_url": "https://static.eldiario.es/clip/5b97c492-260e-4d89-a95f-1a96d2afc231_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/retraso-juzgar-despidos-deudas-actos-administracion-cronifica-no-seguir_1_11775145.html",
+        "date": "2024-11-28 21:30:47",
+        "sentiment_score": -0.03739479184150696
+    },
+    {
+        "title": "La UD Las Palmas, ‘novata’ contra el Barça y con pocos triunfos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b3e49ff-f57b-415a-be05-3d807cb1534e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/11/28/ud-palmas-novata-barca-triunfos-112155132.html",
+        "date": "2024-11-28 21:22:49",
+        "sentiment_score": -0.22722722589969635
+    },
+    {
+        "title": "Todos los recursos para una buena infancia",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/11/27/674743fa67de4.png",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/noticias/todos-recursos-buena-infancia-20241128_3054702.html",
+        "date": "2024-11-28 21:10:12",
+        "sentiment_score": -0.03162539005279541
     }
 ];
