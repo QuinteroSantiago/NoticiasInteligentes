@@ -1,206 +1,5 @@
 export default [
     {
-        "title": "Carmen Jáudenes, Fiapas: \"Los audífonos son la única prótesis externa sin cubrir por el sistema público de salud\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/04/17/una-mujer-con-un-audifono.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/noticia/5656709/0/carmen-jaudenes-fiapas-los-audifonos-son-unica-protesis-externa-que-no-esta-cubierta-por-sistema-publico-salud/",
-        "date": "2024-11-26 06:31:02",
-        "sentiment_score": -0.7136972397565842
-    },
-    {
-        "title": "Liverpool - Real Madrid: este partidazo y lo mejor de la Champions por tan solo 9,99 euros al mes en Movistar Plus+",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/05/08/6458aca7435ab.r_d.2928-2374-812.jpeg",
-        "tags": [
-            "elrecomendador"
-        ],
-        "link": "https://www.mundodeportivo.com/elrecomendador/20241126/1002359382/liverpool-real-madrid-partidazo-mejor-champions-9-99-euros-mes-movistar-plus.html",
-        "date": "2024-11-26 06:30:00",
-        "sentiment_score": 0.7525573149323463
-    },
-    {
-        "title": "La herencia de los guantes",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/11/25/ezkieta-machin-kXAF-RDnjB9BaLhYtFDpQb1aK7KK-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/deportes/racing/herencia-guantes-20241126071146-nt.html",
-        "date": "2024-11-26 06:11:47",
-        "sentiment_score": -0.17351184040308
-    },
-    {
-        "title": "Lo que hay detrás de las fotos de los reyes Felipe y Letizia con Annie Leibovitz: de su precio a cómo se gestaron",
-        "image_url": "https://album.mediaset.es/eimg/2024/11/25/los-ultimos-retratos-oficiales-de-los-reyes-felipe-y-letizia-en-2020_3e8f.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.telecinco.es/noticias/gente/20241126/fotos-reyes-felipe-letizia-annie-leibovitz-precio-gestaron_18_014111006.html",
-        "date": "2024-11-26 06:05:49",
-        "sentiment_score": 0.04241090267896652
-    },
-    {
-        "title": "Las cifras de un Espanyol al borde del abismo y su ¿última? oportunidad para reaccionar",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/11/manolo-gonzalez-girona.jpg",
-        "tags": [
-            "calendario",
-            "actualidad",
-            "espanyol"
-        ],
-        "link": "https://lagradaonline.com/espanyol-crisis-permanencia-calendario-diciembre/",
-        "date": "2024-11-26 05:55:09",
-        "sentiment_score": 0.5212624818086624
-    },
-    {
-        "title": "Adesval premia el esfuerzo, la labor y la dedicación por activar la comarca en su 30 aniversario",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f6dacfc1-fb77-4399-a0cd-fa636d9576ab_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/coria/2024/11/26/adesval-premia-esfuerzo-labor-dedicacion-112048322.html",
-        "date": "2024-11-26 05:53:33",
-        "sentiment_score": 0.32888633012771606
-    },
-    {
-        "title": "Rubiales y Piqué protagonizan otra polémica relacionada con la Supercopa de España",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/26/2024112606503696310.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/rubiales-y-pique/20241126065305325322.html",
-        "date": "2024-11-26 05:53:05",
-        "sentiment_score": -0.046554118394851685
-    },
-    {
-        "title": "La primera gran experiencia laboral para alumnos de la Universidad X El Sabio: \"Volvería a repetir al 100%\"",
-        "image_url": "https://s1.elespanol.com/2024/11/25/actualidad/903920158_251157672_1706x1280.jpg?contentId=ESPIMA20241125_0559",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/malaga/20241126/primera-gran-experiencia-laboral-alumnos-universidad-sabio-volveria-repetir/903909735_0.html",
-        "date": "2024-11-26 05:50:00",
-        "sentiment_score": 0.6965795420110226
-    },
-    {
-        "title": "La vallisoletana Anita Hernández, de planchadora a estrella musical en España y América",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/24/caricatura_20241124194825-RF2OhOYsJW5AsbozxuAzd4J-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/el-cronista/anita-hernandez-planchadora-estrella-musical-espana-america-20241126124504-nt.html",
-        "date": "2024-11-26 05:48:43",
-        "sentiment_score": -0.2677127942442894
-    },
-    {
-        "title": "La inquilina de Sánchez que recibió 169.000 € del Gobierno en 2020 fue condenada en 2022 por morosa",
-        "image_url": "https://okdiario.com/img/2024/11/25/sanchez-jill-stribling-sentencia-interior.jpg",
-        "tags": [
-            "gobierno",
-            "pozuelo de alarcón",
-            "españa",
-            "pedro sánchez",
-            "psoe",
-            "casa"
-        ],
-        "link": "https://okdiario.com/espana/inquilina-sanchez-que-recibio-169-000-del-gobierno-2020-fue-condenada-2022-morosa-13876594",
-        "date": "2024-11-26 05:47:53",
-        "sentiment_score": -0.8257096894085407
-    },
-    {
-        "title": "Bajan las temperaturas en Cataluña: las mínimas ya no alcanzan los 10o este martes, 26 de noviembre",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/03/18/vida/vida_19008583_1267415_1706x960.jpg?contentId=ESPIMA20150318_0484",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20241126/bajan-las-temperaturas-cataluna-minimas-alcanzan-noviembre/904159577_0.html",
-        "date": "2024-11-26 06:32:53",
-        "sentiment_score": -0.44805316627025604
-    },
-    {
-        "title": "Las mejores barras de restaurantes de Barcelona... sin estrellas Michelin",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ca01d8ae-0f68-4191-97ec-b4a267bb1973_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241126/mejores-barras-restaurantes-barcelona-estrellas-108049427",
-        "date": "2024-11-26 06:27:59",
-        "sentiment_score": 0.16768068075180054
-    },
-    {
-        "title": "Un estudio afirma que la 'focaccia' y el pan se cocinaban hace 9.000 años en Oriente Próximo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bc58757f-b9ef-428b-8f89-d294bb590188_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241126/focaccia-pan-cocinaban-oriente-proximo-hace-9000-anos-112022731",
-        "date": "2024-11-26 06:25:45",
-        "sentiment_score": -0.10756619274616241
-    },
-    {
-        "title": "Bilbao se corona como la ciudad más cara para comer de menú del día de toda España",
-        "image_url": "https://album.mediaset.es/eimg/2024/11/25/una-persona-observa-la-carta-de-menu-del-dia-de-un-local-de-deusto-en-bilbao_bf12.jpg",
-        "tags": [
-            "euskadi"
-        ],
-        "link": "https://www.telecinco.es/noticias/euskadi/20241126/menu-dia-mas-caro-espana-bilbao_18_014105562.html",
-        "date": "2024-11-26 06:20:03",
-        "sentiment_score": -0.11578653752803802
-    },
-    {
-        "title": "El cepillo de dientes eléctrico más vendido de Amazon está a precio de ganga en estos momentos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CZCJOUIFEBC6HEIU62WNPNZ23Q.png?auth=b77d9115996fb78aefcc17050c5b448a6a02c4188e659e00a54e387f186c3767&width=1200",
-        "tags": [
-            "amazon",
-            "tecnología",
-            "casa hogar",
-            "higiene bucal",
-            "cepillos dentales"
-        ],
-        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2024-11-26/cepillo-de-dientes-electrico-oral-b.html",
-        "date": "2024-11-26 06:20:00",
-        "sentiment_score": 0.5276601947844028
-    },
-    {
-        "title": "Lo que debes saber hoy, 26 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/09/04/vivir-en-barcelona/791931132_10805008_1706x960.jpg?contentId=ESPIMA20230904_0333",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241126/lo-que-debes-saber-hoy-de-noviembre-barcelona/904159576_0.html",
-        "date": "2024-11-26 06:15:32",
-        "sentiment_score": -0.012404769659042358
-    },
-    {
-        "title": "La historia familiar de Héctor Fort en el barrio de Les Corts",
-        "image_url": "https://static1.ara.cat/clip/d58ae2c1-6f68-478c-ba17-daeaa5309496_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/historia-familiar-hector-fort-barrio-corts_130_5212396.html",
-        "date": "2024-11-26 06:01:34",
-        "sentiment_score": -0.1111183762550354
-    },
-    {
-        "title": "¿El imán de Ripoll estaba a sueldo del CNI?",
-        "image_url": "https://static1.ara.cat/clip/35c7c683-a4dd-47c2-97ae-9070bd7b6d18_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/politica/iman-ripoll-sueldo-cni_1_5212391.html",
-        "date": "2024-11-26 06:01:27",
-        "sentiment_score": -0.4861657842993736
-    },
-    {
-        "title": "El magnate belga que construyó un imperio de más de 16.000 millones",
-        "image_url": "https://static1.ara.cat/clip/b28a5501-4b5d-4a83-947a-c17ba6aa2805_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/misc/magnate-belga-construyo-imperio-16-000-millones_1_5212381.html",
-        "date": "2024-11-26 06:01:07",
-        "sentiment_score": -0.04204362630844116
-    },
-    {
         "title": "7,4 millones de estadounidenses podrían obtener cobertura de Medicare o Medicaid para fármacos contra la obesidad",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/medicare-biden-bajar-peso.webp",
         "tags": [
@@ -7144,5 +6943,614 @@ export default [
         "link": "https://2001online.com/farandula/muere-el-actor-canadiense-julien-arnold-durante-grabacion-detalles--2024112912210",
         "date": "2024-11-29 16:21:00",
         "sentiment_score": -0.8446585452184081
+    },
+    {
+        "title": "Fuerzas armadas rebeldes de Siria entran en Aleppo por primera vez en 8 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "guerra civil en siria",
+            "medio oriente",
+            "aleppo",
+            "siria",
+            "rebeldes"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rebeldes-siria-alepo-bashar-al-assad-trax/",
+        "date": "2024-11-29 22:08:57",
+        "sentiment_score": -0.6094786822795868
+    },
+    {
+        "title": "Las tres noticias destacadas de EE.UU. del 29 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1245873071.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-29-de-noviembre-2024-dusa-tarde-fast",
+        "date": "2024-11-29 22:07:43",
+        "sentiment_score": 0.08788802102208138
+    },
+    {
+        "title": "ANÁLISIS | El Gobierno argentino se fortalece y se profundizan los ataques contra la comunidad LGBTQ",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788708-argentina-pride-parade-lgbt.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina",
+            "javier milei",
+            "comunidad lgbt"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/29/gobierno-argentino-ataques-comunidad-lgbtq-orix/",
+        "date": "2024-11-29 21:47:15",
+        "sentiment_score": -0.7513742297887802
+    },
+    {
+        "title": "Comisión del Congreso de Perú amplía seis meses la vigencia de polémica licencia de minería a pequeña escala",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1787660-peru-politics-miners-protest.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/29/comision-congreso-peru-amplia-vigencia-polemica-licencia-mineria-orix/",
+        "date": "2024-11-29 21:21:58",
+        "sentiment_score": 0.0021192729473114014
+    },
+    {
+        "title": "El Congreso de Perú amplía seis meses la vigencia de polémica licencia de minería a pequeña escala",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1787660-peru-politics-miners-protest.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/29/congreso-peru-amplia-vigencia-polemica-licencia-mineria-orix/",
+        "date": "2024-11-29 21:21:58",
+        "sentiment_score": -0.10794214904308319
+    },
+    {
+        "title": "Cancelan el registro de Semilla, el partido del presidente de Guatemala",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/GettyImages-2184767419.jpg?quality=100&strip=info",
+        "tags": [
+            "bernardo arévalo",
+            "guatemala"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/29/cancelan-el-registro-de-semilla-del-presidente-de-guatemala/",
+        "date": "2024-11-29 21:02:42",
+        "sentiment_score": -0.3833564296364784
+    },
+    {
+        "title": "Descubre qué es la levitación acústica y sus usos en ciencia y salud",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/youtube-estilo-cnn-20241129195115911.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/levitacion-acustica-ciencia-salud-startup-tv",
+        "date": "2024-11-29 20:11:54",
+        "sentiment_score": 0.07733248174190521
+    },
+    {
+        "title": "Descubre qué es la levitación acústica y sus usos en ciencia y salud",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/youtube-estilo-cnn-20241129195115911.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/levitacion-acustica-ciencia-salud-startup-tv/",
+        "date": "2024-11-29 20:11:54",
+        "sentiment_score": 0.19639898836612701
+    },
+    {
+        "title": "\"Ser curiosos y protagonistas\": el consejo de un experto sobre nuestra relación en el futuro con la inteligencia artificial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1915746841-20241129195722829.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "innovación",
+            "nuevas tecnologías",
+            "tecnología",
+            "globoeconomía",
+            "inteligencia artificial",
+            "josé antonio montenegro"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inteligencia-artificial-futuro-analisis-tecnologias-emergentes-globoeconomia-tv/",
+        "date": "2024-11-29 19:58:47",
+        "sentiment_score": 0.09527423977851868
+    },
+    {
+        "title": "\"Ser curiosos y protagonistas\": el consejo de un experto sobre nuestra relación en el futuro con la inteligencia artificial",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1915746841-20241129195722829.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inteligencia-artificial-futuro-analisis-tecnologias-emergentes-globoeconomia-tv",
+        "date": "2024-11-29 19:58:47",
+        "sentiment_score": 0.36269207671284676
+    },
+    {
+        "title": "Países Bajos deja la puerta abierta a que Netanyahu pueda visitar el país pese a la orden de arresto del Tribunal Penal Internacional",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/29/BB-kC9C-U603424051181XfB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/paises-bajos-deja-puerta-abierta-netanyahu-pueda-20241129220452-nt.html",
+        "date": "2024-11-29 21:04:52",
+        "sentiment_score": -0.1958637684583664
+    },
+    {
+        "title": "Riquelme, el gran 'gambler'",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/22/787A9588-kgZB--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-riquelme-gran-gambler-20241130211643-nts.html",
+        "date": "2024-11-29 20:20:36",
+        "sentiment_score": -0.02771654725074768
+    },
+    {
+        "title": "El imposible fin de semana",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/28/embutido-kxlH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-imposible-fin-semana-20241130195820-nts.html",
+        "date": "2024-11-29 19:31:52",
+        "sentiment_score": -0.14181099832057953
+    },
+    {
+        "title": "Mi silla para la Magna",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/11/28/jubilado-joven-fotolia-kaVE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-silla-magna-20241130174403-nts.html",
+        "date": "2024-11-29 19:30:54",
+        "sentiment_score": -0.046757400035858154
+    },
+    {
+        "title": "Chestertonianos",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/25/pelea-churriana-kn2C--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-chestertonianos-20241130202854-nts.html",
+        "date": "2024-11-29 19:29:55",
+        "sentiment_score": -0.09092974662780762
+    },
+    {
+        "title": "Sánchez inaugura la Magna",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/11/30/articulo-pedro-sanchez-REZrgN5Dox4cTIAfnn1PkkO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-sanchez-inaugura-magna-20241130202450-nts.html",
+        "date": "2024-11-29 19:25:14",
+        "sentiment_score": -0.09359601140022278
+    },
+    {
+        "title": "El buen samaritano en Valencia",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/11/30/241130TerceraBujan-ReJJVLUMOUxloptYEt0c7YM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/federico-fernandez-de-bujan-buen-samaritano-valencia-20241130194829-nt.html",
+        "date": "2024-11-29 18:48:29",
+        "sentiment_score": -0.0952003002166748
+    },
+    {
+        "title": "Los partidos son sectas(y juntas de ladrones)",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/11/30/ABC_ANGULOOSCURO_Juntadeladrones_DEPRADA-R6a4PS8mwIlD6Ij4igFmayI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-partidos-sectasy-juntas-ladrones-20241130194806-nt.html",
+        "date": "2024-11-29 18:48:28",
+        "sentiment_score": -0.2232416421175003
+    },
+    {
+        "title": "La mano y el fuego",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/22/787A9588-kgZB--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-mano-fuego-20241130194746-nt.html",
+        "date": "2024-11-29 18:48:03",
+        "sentiment_score": -0.03957107663154602
+    },
+    {
+        "title": "Fistros",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/11/28/jubilado-joven-fotolia-kaVE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jon-juaristi-fistros-20241130194730-nt.html",
+        "date": "2024-11-29 18:47:39",
+        "sentiment_score": -0.08990654349327087
+    },
+    {
+        "title": "Alfonso Rueda echa balones fuera sobre los contratos de la Xunta en la pandemia: “Aquí no hubo koldos ni aldamas”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/B4BNCQSOGVB45NKRT24IIFOFGQ.jpg?auth=5c37f068da1cf241570d934dd7d1000a37a1caa58660c2acf4eb20dd24f68aba&width=1200",
+        "tags": [
+            "alberto núñez feijóo",
+            "galicia",
+            "xunta galicia",
+            "españa",
+            "alfonso rueda"
+        ],
+        "link": "https://elpais.com/espana/galicia/2024-11-29/alfonso-rueda-echa-balones-fuera-sobre-los-contratos-de-la-xunta-en-la-pandemia-aqui-no-hubo-koldos-ni-aldamas.html",
+        "date": "2024-11-29 21:07:30",
+        "sentiment_score": -0.1744237020611763
+    },
+    {
+        "title": "Se busca clon de Carlos Cuevas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7LIAIVYB2RHBPDNJHU3GTQ2SIQ.JPG?auth=c81cd2316cce26ee7420b06836ad2c9f76984b2212dac7c33f00b9269df1d721&width=1200",
+        "tags": [
+            "gràcia",
+            "concursos",
+            "redes sociales",
+            "premios",
+            "actores",
+            "cataluña",
+            "barcelona",
+            "carlos cuevas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-29/se-busca-clon-de-carlos-cuevas.html",
+        "date": "2024-11-29 20:49:16",
+        "sentiment_score": 0.13699641823768616
+    },
+    {
+        "title": "El PSOE se aferra a Zapatero y sus 145 años de historia para resistir la ofensiva judicial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/G7WNY6F4XVBQJIB5ZUTRDDQ64M.JPG?auth=bc7982bb7e596e8ebd54ab7bfd361256a65eaaa22c2786a5f71d18ce8154b57c&width=1200",
+        "tags": [
+            "emiliano garcía-page",
+            "españa",
+            "gobierno de españa",
+            "financiación",
+            "santos cerdán",
+            "comunidad lgtbiq",
+            "maría jesús montero",
+            "juan lobato",
+            "pedro sánchez",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2024-11-29/el-psoe-se-aferra-a-zapatero-y-sus-145-anos-de-historia-para-resistir-la-ofensiva-judicial.html",
+        "date": "2024-11-29 20:24:29",
+        "sentiment_score": -0.8987775119021535
+    },
+    {
+        "title": "Miles de personas se concentran en Valencia para recordar a las víctimas al cumplirse un mes de las riadas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DQL5J5GISFALFFIETKFS4DK43U.JPG?auth=7a20bb69405e179180318f8aa7ebab685f4d51afa880055395faf2eeabe91efe&width=1200",
+        "tags": [
+            "inundaciones",
+            "carlos mazón",
+            "comunidad valenciana",
+            "paiporta",
+            "valencia",
+            "manifestaciones",
+            "sedaví",
+            "inundaciones dana octubre 2024",
+            "provincia valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-29/miles-de-personas-se-concentran-en-valencia-para-recordar-a-las-victimas-al-cumplirse-un-mes-de-las-riadas.html",
+        "date": "2024-11-29 20:04:55",
+        "sentiment_score": -0.8723524119704962
+    },
+    {
+        "title": "Ayuso no quiere memoria histórica en la sede de su Gobierno: \"Es una barbaridad vincular este edificio con el franquismo\"",
+        "image_url": "https://static.eldiario.es/clip/c0b4008a-0e6c-4dde-b58e-30267f125162_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/ayuso-no-quiere-memoria-historica-sede-gobierno-barbaridad-vincular-edificio-franquismo_1_11860876.html",
+        "date": "2024-11-29 21:39:39",
+        "sentiment_score": -0.19091740250587463
+    },
+    {
+        "title": "Pablo Motos, Dani Martín, Alberto Núñez Feijóo y otros 'ofendiditos' a favor del feminismo de verdad",
+        "image_url": "https://static.eldiario.es/clip/94dca364-6675-4b5e-8333-9d62dae3dc90_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/pablo-motos-dani-martin-alberto-nunez-feijoo-ofendiditos-favor-feminismo_129_11863030.html",
+        "date": "2024-11-29 21:39:38",
+        "sentiment_score": -0.13657158613204956
+    },
+    {
+        "title": "Por primera vez analizan el efecto de abrir un juzgado de violencia machista: suben las denuncias un 28%",
+        "image_url": "https://static.eldiario.es/clip/36bdc5bf-97e2-46b0-873e-d97af72c200e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/primera-vez-analizan-efecto-abrir-juzgado-violencia-machista-suben-denuncias-28_1_11856201.html",
+        "date": "2024-11-29 21:39:35",
+        "sentiment_score": -0.21882547438144684
+    },
+    {
+        "title": "Juan Lobato: la caída de Mr. Política",
+        "image_url": "https://static.eldiario.es/clip/0e748edc-9062-4793-a606-1ee0e5a82453_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/madrid/juan-lobato-caida-mr-politica_1_11862045.html",
+        "date": "2024-11-29 21:39:35",
+        "sentiment_score": 0.015098631381988525
+    },
+    {
+        "title": "La UD, ante un gran desafío olímpico ... y a ver qué pasa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/731d544d-ccf3-4efd-a0e5-de2e944392e3_16-9-aspect-ratio_default_0_x632y549.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/11/29/ud-gran-desafio-olimpico-ver-112193680.html",
+        "date": "2024-11-29 21:32:57",
+        "sentiment_score": -0.09689885377883911
+    },
+    {
+        "title": "Morientes, sorprendido por esta faceta del juego de Raúl Asencio: \"Los jugadores engañan\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2024/11/24/67437c9b4811e.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/morientes-sorprendido-faceta-juego-raul-asencio-jugadores-enganan-20241129_3055500.html",
+        "date": "2024-11-29 21:13:01",
+        "sentiment_score": -0.026066184043884277
+    },
+    {
+        "title": "La Real blinda a Álex Marchal",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/53066a8d-9078-4ee0-a9fa-d1031c6278b5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2024/11/29/real-blinda-alex-marchal-8996253.html",
+        "date": "2024-11-29 21:04:46",
+        "sentiment_score": 0.21181441843509674
+    },
+    {
+        "title": "Yamal reaparecerá con el Barcelona tras lesión de tobillo",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-29-a-las-4.50.00-p.-m-png.webp",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/yamal-reaparecera-con-el-barcelona-tras-lesion-de-tobillo/",
+        "date": "2024-11-29 20:53:57",
+        "sentiment_score": 0.11588528752326965
+    },
+    {
+        "title": "Guardiola pide tiempo a la directiva del City para reparar al equipo durante la visita de Nadal",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-29-a-las-4.44.46-p.-m-png.webp",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/guardiola-pide-tiempo-a-la-directiva-del-city-para-reparar-al-equipo-durante-la-visita-de-nadal/",
+        "date": "2024-11-29 20:45:52",
+        "sentiment_score": -0.8574523366987705
+    },
+    {
+        "title": "Nieves Herrero recauda en Alicante ayudas para Valencia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d84d887d-e062-493b-bd04-2e182aee343c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/cultura/2024/11/29/nieves-herrero-recauda-alicante-ayudas-dana-112192416.html",
+        "date": "2024-11-29 20:30:50",
+        "sentiment_score": -0.7409079857170582
+    },
+    {
+        "title": "ElimineDeuda.com quita la deuda de un vecino de Murcia de unos 590.000 euros",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/11/30/ipl-agobados-kUwC-U230161522654l4B-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/eliminedeudacom-quita-deuda-vecino-murcia-590000-euros-20241130230232-nt.html",
+        "date": "2024-11-29 22:02:32",
+        "sentiment_score": -0.37690092623233795
+    },
+    {
+        "title": "Helena Solà, el ariete contra el PSC que quiere recuperar la estelada",
+        "image_url": "https://static1.ara.cat/clip/aa57c3c2-f7f7-4efd-a75e-9a4858aecac2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/politica/helena-sola-ariete-psc-quiere-recuperar-estelada_1_5217031.html",
+        "date": "2024-11-29 22:00:16",
+        "sentiment_score": -0.5154697969555855
+    },
+    {
+        "title": "Oriol Junqueras, el historiador que ambiciona el despacho de presidente",
+        "image_url": "https://static1.ara.cat/clip/8cdd0f69-3fa5-433e-bfef-e4035438ed9e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/politica/oriol-junqueras-historiador-ambiciona-despacho-presidente_1_5217028.html",
+        "date": "2024-11-29 22:00:11",
+        "sentiment_score": -0.1468845158815384
+    },
+    {
+        "title": "Reactivados vuelos comerciales en aeropuerto de San Tomé",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2024/11/Imagen-de-WhatsApp-2024-11-29-a-las-17.05.30_c5a3526d.jpg",
+        "tags": [
+            "zxgeneral",
+            "anzoátegui",
+            "más vida"
+        ],
+        "link": "https://ultimasnoticias.com.ve/noticias/anzoateggui/reactivados-vuelos-comerciales-en-aeropuerto-de-san-tome/",
+        "date": "2024-11-29 21:55:57",
+        "sentiment_score": 0.18730537593364716
+    },
+    {
+        "title": "José Luis Bonet: \"La voracidad recaudatoria abusiva en todas las administraciones perjudica a la gente y a la economía del país\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/a7486655f28cd942f188c8ae2a804ecf/crop/0x0/1024x1024/f/image/jpeg/assets/multimedia/imagenes/2023/10/13/16971946696366.jpg",
+        "tags": [
+            "artículos cristina alonso"
+        ],
+        "link": "https://www.elmundo.es/economia/2024/11/29/6749e200fc6c83d6438b4574.html",
+        "date": "2024-11-29 21:49:56",
+        "sentiment_score": -0.7170066367834806
+    },
+    {
+        "title": "'Rauxa', folclore y lágrimas que no se explican",
+        "image_url": "https://static1.ara.cat/clip/ced7e1c1-b9f2-4786-8311-021099fb2ca4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/rauxa-folclore-lagrimas-no-explican_129_5217019.html",
+        "date": "2024-11-29 21:48:18",
+        "sentiment_score": -0.4191173017024994
+    },
+    {
+        "title": "S&P da aire a Francia al mantener su ‘rating’ pese a la fragilidad del Gobierno de Barnier",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZOI3KLFPQLD7PAQFVRRFSTPVTY.jpg?auth=2bf597c9b1177ab0ec3c2c28e90e81b9b6de539e09b20871ae63b6a91e80a750&width=1200",
+        "tags": [
+            "mercados financieros",
+            "deuda pública",
+            "standard & poor's",
+            "francia",
+            "michel barnier"
+        ],
+        "link": "https://cincodias.elpais.com/mercados-financieros/2024-11-29/sp-da-aire-a-francia-al-mantener-su-rating-pese-a-la-fragilidad-del-gobierno-de-barnier.html",
+        "date": "2024-11-29 21:40:47",
+        "sentiment_score": 0.2249300181865692
+    },
+    {
+        "title": "Sama Aweidah, activista feminista palestina: \"Los soldados israelíes procuran violar a tantas mujeres como puedan\"",
+        "image_url": "https://static.eldiario.es/clip/42c57522-1801-481a-906b-bb1574247a4c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/sama-aweidah-activista-feminista-palestina-soldados-israelies-procuran-violar-mujeres-puedan_128_11793114.html",
+        "date": "2024-11-29 21:39:40",
+        "sentiment_score": -0.1909894049167633
+    },
+    {
+        "title": "Aficionados al Warhammer de todo el mundo apoyan la huelga de una fábrica catalana que produce sus pinturas",
+        "image_url": "https://static.eldiario.es/clip/4d44f7c8-562b-48ac-982b-b19635b74adb_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/aficionados-warhammer-mundo-apoyan-huelga-fabrica-catalana-produce-pinturas_1_11858803.html",
+        "date": "2024-11-29 21:39:38",
+        "sentiment_score": -0.06517210602760315
+    },
+    {
+        "title": "Secuestran a 28 migrantes venezolanos en Chiapas (+DETALLES)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/secuestran-a-28-migrantes-venezolanos-en-chiapas-detalles--2024112914100",
+        "date": "2024-11-29 18:10:00",
+        "sentiment_score": -0.3732757307589054
+    },
+    {
+        "title": "Georgia | Refugios de calentamiento que se han habilitado en Atlanta",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/georgia-refugios-de-calentamiento-que-se-han-habilitado-en-atlanta--202411291440",
+        "date": "2024-11-29 18:04:00",
+        "sentiment_score": 0.08421453833580017
+    },
+    {
+        "title": "Texas | Autoridades hallan a un niño abandonado en la frontera con México (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/texas-autoridades-hallan-a-un-nino-abandonado-en-la-frontera-con-mexico-detalles--2024112913530",
+        "date": "2024-11-29 17:53:00",
+        "sentiment_score": -0.6551937945187092
+    },
+    {
+        "title": "¿Cuál era el parentesco de Silvia Pinal y Luis Miguel?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/cual-era-el-parentesco-de-silvia-pinal-y-luis-miguel--2024112913500",
+        "date": "2024-11-29 17:50:00",
+        "sentiment_score": 0.30985692143440247
+    },
+    {
+        "title": "Hija de Alejandra Guzmán llora la muerte de Silvia Pinal (+Video)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/hija-de-alejandra-guzman-llora-la-muerte-de-silvia-pinal-video--2024112913470",
+        "date": "2024-11-29 17:47:00",
+        "sentiment_score": -0.9113921020179987
+    },
+    {
+        "title": "¿Cuáles son las zonas más exclusivas para vivir en Arizona? Le contamos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuales-son-las-zonas-mas-exclusivas-para-vivir-en-arizona-le-contamos-2024112913460",
+        "date": "2024-11-29 17:46:00",
+        "sentiment_score": 0.90668567083776
+    },
+    {
+        "title": "Así será el aumento del pasaje en Nueva Jersey (+Monto)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/asi-sera-el-aumento-de-pasaje-en-nueva-jersey-monto--2024112913450",
+        "date": "2024-11-29 17:45:00",
+        "sentiment_score": 0.20659061148762703
+    },
+    {
+        "title": "Sepa qué hacer en Nueva York durante la temporada decembrina (+Eventos)",
+        "image_url": "https://pxcdn.2001online.com/2001/112024/1732897921546/Anexo%207%20(2).jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/sepa-que-hacer-en-nueva-york-durante-la-temporada-decembrina-eventos--2024112913450",
+        "date": "2024-11-29 17:45:00",
+        "sentiment_score": 0.7795898402109742
+    },
+    {
+        "title": "Florida | Conozca cuáles serán los próximos “encendidos navideños” en Miami",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/florida-conozca-cuales-seran-los-proximos-encendidos-navidenos-en-miami-2024112913370",
+        "date": "2024-11-29 17:37:00",
+        "sentiment_score": 0.5405885064974427
+    },
+    {
+        "title": "Sepa dónde queda el centro outlet más grande de EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/sepa-donde-queda-el-centro-outlet-mas-grande-de-eeuu--2024112913350",
+        "date": "2024-11-29 17:35:00",
+        "sentiment_score": 0.09822379797697067
     }
 ];
