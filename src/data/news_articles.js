@@ -155,66 +155,6 @@ export default [
         "sentiment_score": -0.21239745616912842
     },
     {
-        "title": "España, sexto receptor mundial de inversiones de fondos soberanos: recibe el récord de 7.300 millones en el último año",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/26/51812743-RFKdTYPstUH8DH8iCQfTgDN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/espana-sexto-receptor-mundial-inversiones-fondos-soberanos-20241126142637-nt.html",
-        "date": "2024-11-26 13:59:06",
-        "sentiment_score": -0.04578739404678345
-    },
-    {
-        "title": "Cox pone en marcha un proyecto de planta termosolar en Arabia Saudí por 1.500 millones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/26/Cox_20241126141133-RniTWxvpmqr3JJmTTNxApRP-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cox-pone-marcha-proyecto-planta-termosolar-arabia-20241126141615-nt.html",
-        "date": "2024-11-26 13:16:15",
-        "sentiment_score": 0.00681796669960022
-    },
-    {
-        "title": "Seis brechas diferentes separan a los hombres y las mujeres en el mercado laboral sénior",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/26/mujer-RBcQbt3FHaa3fOoi3clUlAJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/seis-brechas-diferentes-separan-hombres-mujeres-mercado-20241126140707-nt.html",
-        "date": "2024-11-26 13:10:29",
-        "sentiment_score": -0.08299684524536133
-    },
-    {
-        "title": "Rusia condena a cuatro años de prisión a una periodista por trabajar con medios extranjeros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/26/DAMBin(26).jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-condena-cuatro-anos-prision-periodista-trabajar-20241126134822-nt.html",
-        "date": "2024-11-26 12:48:23",
-        "sentiment_score": -0.2855852544307709
-    },
-    {
-        "title": "Gabriel Escarrer, el hombre que llevó la bandera española hasta los últimos confines de la tierra",
-        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/11/24/1444113159--170x119.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gabriel-escarrer-hombre-llevo-bandera-espanola-ultimos-20241126132548-nt.html",
-        "date": "2024-11-26 12:25:48",
-        "sentiment_score": 0.23395970463752747
-    },
-    {
-        "title": "Recuperan tres cadáveres tras el naufragio del yate turístico en Egipto",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/26/naufragio-egipt-kkUE-U603403367211ByF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/recuperan-tres-cadaveres-tras-naufragio-yate-turistico-20241126131519-nt.html",
-        "date": "2024-11-26 12:22:19",
-        "sentiment_score": -0.16253922879695892
-    },
-    {
         "title": "Así fueron los dos gabinetes de crisis de Lobato en la Asamblea antes de comparecer",
         "image_url": "https://imagenes.elpais.com/resizer/v2/YPH4ODZZWZAIXJDONZVBLMQNBE.jpg?auth=88b1d617ce9dc2ba5fe896da9630455c776d2d46792e0a4e19425c1bebc35088&width=1200",
         "tags": [
@@ -368,24 +308,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-11-26/unos-policias-salvan-la-vida-de-una-nina-de-tres-anos-que-no-podia-respirar-en-vallecas.html",
         "date": "2024-11-26 14:35:46",
         "sentiment_score": -0.5403699427843094
-    },
-    {
-        "title": "Sánchez busca reanimar a la izquierda en el congreso de UGT: “Ganamos a los bulos y a la mentira en 2023 y lo haremos en 2027”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LQEVLREDTMLHA7BXJK4WSKOPFI.jpg?auth=6c94fa115e85283771d12a59f223442617b1f735029c633a25584224d26861b7&width=1200",
-        "tags": [
-            "impuestos",
-            "elecciones",
-            "psoe",
-            "corrupción",
-            "españa",
-            "pedro sánchez",
-            "gobierno",
-            "ugt",
-            "víctor de aldama"
-        ],
-        "link": "https://elpais.com/espana/2024-11-26/sanchez-busca-reanimar-a-la-izquierda-en-el-congreso-de-ugt-ganamos-a-los-bulos-y-a-la-mentira-en-2023-y-lo-haremos-en-2027.html",
-        "date": "2024-11-26 13:41:07",
-        "sentiment_score": -0.7046213001012802
     },
     {
         "title": "La RUCTL organiza una recogida de juguetes para los niños afectados por la DANA en Valencia",
@@ -7552,5 +7474,414 @@ export default [
         "link": "https://2001online.com/usa/servicios/sepa-donde-queda-el-centro-outlet-mas-grande-de-eeuu--2024112913350",
         "date": "2024-11-29 17:35:00",
         "sentiment_score": 0.09822379797697067
+    },
+    {
+        "title": "Las 3 noticias económicas del 29 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184967770.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-economicas-29-noviembre-2024-panorama-tv-fast",
+        "date": "2024-11-30 02:04:06",
+        "sentiment_score": -0.016635652631521225
+    },
+    {
+        "title": "Rusia ataca a rebeldes sirios que entraron a Aleppo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788510-siriae.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusia-ofensiva-rebeldes-opositores-sirios-aleppo-idlib-siria-panorama-mundial-tv/",
+        "date": "2024-11-30 02:01:31",
+        "sentiment_score": -0.4680635780096054
+    },
+    {
+        "title": "Las 3 noticias destacadas de la noche del 29 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186442705.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-29-de-noviembre-2024-panorama-fast",
+        "date": "2024-11-30 01:48:39",
+        "sentiment_score": 0.17482155188918114
+    },
+    {
+        "title": "\"Extremadamente disruptivo\": lo que sucedió la última vez que Trump trasladó una agencia federal fuera de Washington",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788697-agencias-federales.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "washington",
+            "política",
+            "noticias de ee.uu.",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/29/trump-trasladar-agencias-federales-fuera-washington-blm-trax/",
+        "date": "2024-11-30 01:30:32",
+        "sentiment_score": -0.5417112559080124
+    },
+    {
+        "title": "Trump cena con el primer ministro de Canadá Justin Trudeau en Mar-a-Lago",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788793-trump-trudeau.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "justin trudeau",
+            "canadá",
+            "noticias de ee.uu.",
+            "aranceles"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/29/trump-cena-justin-trudea-canada-mar-a-lago-trax/",
+        "date": "2024-11-30 01:27:42",
+        "sentiment_score": 0.01914733648300171
+    },
+    {
+        "title": "Maduro promulga la ley que castiga a quienes apoyen sanciones del extranjero contra Venezuela",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1765692-nicolas-maduro-3.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ley bolívar",
+            "nicolás maduro",
+            "sanciones",
+            "venezuela noticias",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/29/maduro-promulga-ley-castigo-sanciones-extranjeras-bolivar-orix/",
+        "date": "2024-11-30 01:26:43",
+        "sentiment_score": -0.5203112959861755
+    },
+    {
+        "title": "Australia prohíbe el uso de redes sociales a los menores de 16 años",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21162473-26786-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "australia",
+            "xpress",
+            "regulaciones",
+            "fast – news variety",
+            "redes sociales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/australia-prohibe-redes-sociales-menores-16-ush-trax/",
+        "date": "2024-11-30 00:57:36",
+        "sentiment_score": -0.5303329527378082
+    },
+    {
+        "title": "Una mujer y dos niños palestinos mueren aplastados fuera de una panadería en Gaza",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788777-palestinos-crisis.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "gaza",
+            "guerra en gaza",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/29/mujer-ninos-palestinos-mueren-aplastados-panaderia-gaza-trax/",
+        "date": "2024-11-30 00:57:06",
+        "sentiment_score": -0.8575706034898758
+    },
+    {
+        "title": "Recorrido por las noticias de América Latina del 29 de noviembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21162476-2132760-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/recorrido-america-latina-29-noviembre-2024-cnnee-perspectivas-mexico-tv-fast",
+        "date": "2024-11-30 00:44:18",
+        "sentiment_score": -0.010754644870758057
+    },
+    {
+        "title": "Alerta a lo largo de EE.UU. por nieve y bajas temperaturas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1245859202.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "nieve",
+            "noticias de ee.uu.",
+            "ola de frío"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/frio-eeuu-nieve-heladas-dusa-tv/",
+        "date": "2024-11-30 00:36:52",
+        "sentiment_score": -0.07023899257183075
+    },
+    {
+        "title": "Barcelona se vuelca con Serrat y Estopa en el concierto solidario de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ACYFH74RMBYE5M72YUTIVHXAR4.jpg?auth=5061acbe95721e191e73ccddd31d1ccbd7ece68a28a7fe3a01d181706fa4342a&width=1200",
+        "tags": [
+            "emergencias",
+            "cataluña",
+            "joan manuel serrat",
+            "alcaldía",
+            "comunidades autónomas",
+            "canciones",
+            "artistas",
+            "cultura",
+            "solidaridad",
+            "calentamiento global",
+            "dana",
+            "espectáculos",
+            "ayuda económica",
+            "estopa",
+            "valencia",
+            "catástrofes",
+            "barcelona",
+            "música",
+            "ayuntamiento barcelona",
+            "jaume collboni",
+            "emergencia climática"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-29/barcelona-se-vuelca-con-serrat-y-estopa-en-el-concierto-solidario-de-la-dana.html",
+        "date": "2024-11-29 23:12:54",
+        "sentiment_score": 0.4368349500000477
+    },
+    {
+        "title": "Gan Pampols, el hombre con galones para la reconstrucción: \"Hay que liberar suelo y levantar viviendas. La obra es faraónica\"",
+        "image_url": "https://s1.elespanol.com/2024/11/29/valencia/reconstruir-valencia/904920597_251319387_1706x960.jpg?contentId=ESPIMA20241129_1098",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/valencia/reconstruir-valencia/20241130/gan-pampols-hombre-galones-reconstruccion-liberar-suelo-levantar-viviendas-obra-faraonica/904659936_0.html",
+        "date": "2024-11-30 01:50:17",
+        "sentiment_score": 0.12350890040397644
+    },
+    {
+        "title": "Trabajo sale de caza: investiga más de 326.000 contratos en busca de falsos temporales y jornadas parciales 'fake'",
+        "image_url": "https://s1.elespanol.com/2024/11/29/invertia/economia/empleo/904920339_251311350_1706x960.jpg?contentId=ESPIMA20241129_0840",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/empleo/20241130/trabajo-sale-caza-investiga-contratos-busca-falsos-temporales-jornadas-parciales-fake/904909741_0.html",
+        "date": "2024-11-30 01:39:32",
+        "sentiment_score": 0.08076432347297668
+    },
+    {
+        "title": "Doblete de Cristiano Ronaldo lo deja de cerca de nuevo récord con Al Nassr",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24329328855130_f52406-e1732928343706.jpg",
+        "tags": [
+            "al nassr",
+            "cristiano ronaldo",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/11/29/doblete-de-cristiano-ronaldo-lo-deja-de-cerca-de-nuevo-record-con-al-nassr/",
+        "date": "2024-11-30 01:00:13",
+        "sentiment_score": -0.10912754386663437
+    },
+    {
+        "title": "29 NOV 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/29-nov-2024-partidazo-cope-20241130_3055521.html",
+        "date": "2024-11-30 00:56:29",
+        "sentiment_score": 0.3382951468229294
+    },
+    {
+        "title": "El PSOE coge el comodín de la Iglesia",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20241130/psoe-coge-comodin-iglesia_249278.html",
+        "date": "2024-11-30 00:30:00",
+        "sentiment_score": -0.5522885881364346
+    },
+    {
+        "title": "El Hospital Quirónsalud Tenerife lidera la lista de centros privados más reputados de Canarias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ac0050e-03e1-4bd4-a490-4da398347645_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/salud/2024/11/30/hospital-quironsalud-tenerife-lidera-lista-112191818.html",
+        "date": "2024-11-30 00:00:14",
+        "sentiment_score": 0.7193075083196163
+    },
+    {
+        "title": "La vuelta a la Casa de Campo corriendo",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/361af509cb0a54026fd81f8dbe566b9e/crop/0x120/3072x2168/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/29/17328864713256.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/11/30/6749be35fc6c836a748b4570.html",
+        "date": "2024-11-29 23:56:51",
+        "sentiment_score": 0.4820344150066376
+    },
+    {
+        "title": "Algo pasa con Kilian",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/29/674a23ac29627.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241130/10156602/pasa-kilian.html",
+        "date": "2024-11-29 23:30:00",
+        "sentiment_score": 0.3784912973642349
+    },
+    {
+        "title": "Lo que más preocupa de Mbappé",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/91d2139d-c343-4042-828d-5fe0ada9b2f1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2024/11/29/preocupa-mbappe-112194486.html",
+        "date": "2024-11-29 22:22:30",
+        "sentiment_score": -0.8592843301594257
+    },
+    {
+        "title": "El ladrillo español que cambiará la construcción: está equipado con placas solares para que los edificios produzcan energía",
+        "image_url": "https://s1.elespanol.com/2024/11/25/omicrono/tecnologia/903920325_251162918_1706x960.jpg?contentId=ESPIMA20241125_0726",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20241130/ladrillo-espanol-cambiara-construccion-equipado-placas-solares-edificios-produzcan-energia/903909991_0.html",
+        "date": "2024-11-30 01:50:20",
+        "sentiment_score": 0.5304894633591175
+    },
+    {
+        "title": "Trudeau se reúne con Trump en Mar-a-Lago tras la amenaza sobre los aranceles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AXN5WXIZJ27K5ZRZSBX735SXIA.jpg?auth=f4976a3cdf4a2095fe17527aac6ac13a14bfe73daae439c5b3f7eb220f0315ff&width=1200",
+        "tags": [
+            "comercio exterior",
+            "norteamérica",
+            "elecciones",
+            "política",
+            "partido demócrata ee uu",
+            "estados unidos",
+            "proteccionismo",
+            "aranceles",
+            "américa",
+            "elecciones presidenciales",
+            "claudia sheinbaum",
+            "campañas electorales",
+            "florida",
+            "exportaciones",
+            "políticos",
+            "justin trudeau",
+            "partido republicano ee uu",
+            "canadá",
+            "donald trump",
+            "noticias de méxico",
+            "política comercial",
+            "importaciones",
+            "elecciones ee uu"
+        ],
+        "link": "https://elpais.com/internacional/elecciones-usa/2024-11-30/trudeau-se-reune-con-trump-en-mar-a-lago-tras-la-amenaza-sobre-los-aranceles.html",
+        "date": "2024-11-30 01:44:06",
+        "sentiment_score": -0.34684811532497406
+    },
+    {
+        "title": "Candela Peña: \"¿MeToo en el cine español? No puedo hablar, porque el miedo me invade. Mejor calladita, que quiero seguir trabajando\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/ee1857fd4433af904c9ffa49b577ada6/crop/82x80/1121x1465/f/webp/assets/multimedia/imagenes/2024/11/25/17325512091158.jpg",
+        "tags": [
+            "actualidad",
+            "candela peña",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/actualidad/2024/11/29/67449beb21efa03d4a8b4574.html",
+        "date": "2024-11-30 01:41:20",
+        "sentiment_score": 0.5322297289967537
+    },
+    {
+        "title": "Puerto Mocho: lo que hay que saber de la nueva playa de Barranquilla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/V7MCOERUSRBJBMHKXNB56FVE4U.jpg?auth=d62e4b5ff27895a1b21587ac007d5a46ea981fad1ff3b60bfb1a29e6b04b7ed6&width=1200",
+        "tags": [
+            "turismo naturaleza",
+            "colombia",
+            "playas",
+            "alejandro char",
+            "américa",
+            "barranquilla",
+            "desarrollo sostenible",
+            "latinoamérica",
+            "turismo"
+        ],
+        "link": "https://elpais.com/america-colombia/2024-11-30/puerto-mocho-lo-que-hay-que-saber-de-la-nueva-playa-de-barranquilla.html",
+        "date": "2024-11-30 01:34:16",
+        "sentiment_score": 0.6825739294290543
+    },
+    {
+        "title": "De Caprile a Irving Penn: estas son las exposiciones de moda más fascinantes del momento que se pueden ver en España",
+        "image_url": "https://s1.elespanol.com/2024/11/28/actualidad/904669831_251262576_1706x1280.png?contentId=ESPIMA20241128_0307",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/moda/20241130/caprile-irving-penn-exposiciones-moda-fascinantes-momento-pueden-ver-espana/904659565_0.html",
+        "date": "2024-11-30 01:16:34",
+        "sentiment_score": 0.4381480701267719
+    },
+    {
+        "title": "Cataluña y su largo camino de cinco años (y los que quedan) para situar a la IA en el centro de sus servicios públicos",
+        "image_url": "https://s1.elespanol.com/2024/11/29/invertia/disruptores/autonomias/cataluna/904919563_251287094_1706x960.jpg?contentId=ESPIMA20241129_0064",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/cataluna/20241130/cataluna-largo-camino-anos-quedan-situar-ia-centro-servicios-publicos/904909518_0.html",
+        "date": "2024-11-30 01:00:39",
+        "sentiment_score": 0.2735899016261101
+    },
+    {
+        "title": "Así es Cat, la nueva mascota no binaria del Barcelona",
+        "image_url": "https://cflvdg.avoz.es/sc/K133fWr3waPDnPCOkPtXaTV1PbU=/768x/2024/11/30/00121732927850991180458/Foto/Cat-Barcelona-EP.jpg",
+        "tags": [
+            "fútbol",
+            "fc barcelona"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/11/30/cat-nueva-mascota-binaria-barcelona/00031732927913159316557.htm",
+        "date": "2024-11-30 00:56:01",
+        "sentiment_score": -0.2180362455546856
+    },
+    {
+        "title": "Horario y dónde ver el RCD Espanyol – Celta de Vigo de la jornada 15 de LaLiga EA Sports 2024-25",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/11/horario-donde-ver-espanyol-celta-vigo.jpg",
+        "tags": [
+            "fecha",
+            "dónde ver",
+            "celta de vigo",
+            "espanyol",
+            "actualidad",
+            "horario"
+        ],
+        "link": "https://lagradaonline.com/horario-donde-ver-rcd-espanyol-celta-vigo-jornada-15-laliga-ea-sports-24-25/",
+        "date": "2024-11-30 00:34:24",
+        "sentiment_score": -0.32765980809926987
+    },
+    {
+        "title": "Detenido un exagente de Pinochet condenado por el crimen en Chile del español Carmelo Soria",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7IQQ5AZ42RD2TMC5QRUFLBL4II.jpg?auth=6d5c34250fcc8c8200f20ee9267f136943b6bcd1e52d6988b55a697c103fb4d2&width=1200",
+        "tags": [
+            "américa",
+            "latinoamérica",
+            "golpe chile 1973",
+            "derechos humanos",
+            "carmelo soria",
+            "chile",
+            "dictadura pinochet"
+        ],
+        "link": "https://elpais.com/chile/2024-11-30/detenido-un-exagente-de-pinochet-condenado-por-el-crimen-en-chile-del-espanol-carmelo-soria.html",
+        "date": "2024-11-30 00:28:04",
+        "sentiment_score": -0.7695569191128016
     }
 ];
