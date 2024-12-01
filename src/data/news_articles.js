@@ -1,173 +1,5 @@
 export default [
     {
-        "title": "Perú amplía estado de emergencia para combatir el crimen organizado en 14 distritos de Lima y Callao",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/27/peru-afp-kzjH-U603406829611krC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/peru-amplia-estado-emergencia-combatir-crimen-organizado-20241127064851-nt.html",
-        "date": "2024-11-27 05:48:52",
-        "sentiment_score": -0.07861194014549255
-    },
-    {
-        "title": "Las carreteras de Madrid se preparan para las nevadas: las entradas a la capital y los puertos de la sierra, los puntos críticos",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/26/el-delegado-del-gobierno-en-la-comunidad-de-madrid-francisco-martin-anuncia-el-plan-de-invierno.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/noticia/5658204/0/las-carreteras-de-madrid-se-preparan-para-las-nevadas-puntos-criticos-en-las-entradas-a-la-capital-y-los-puertos-de-la-sierra/",
-        "date": "2024-11-27 06:33:41",
-        "sentiment_score": 0.01188679039478302
-    },
-    {
-        "title": "Así son las zapatillas Puma unisex más elegantes y que están arrasando con oferta Black Friday (cuestan 32€)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Q2JPPFAPG5HMPHL3QKRSJD4SCQ.png?auth=df5b62c329881e94bb35359bd853ab9c70b1604031e08ce18306c660635985ba&width=1200",
-        "tags": [
-            "puma",
-            "calzado",
-            "estilo vida",
-            "amazon",
-            "calzado deportivo",
-            "deportes"
-        ],
-        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2024-11-27/zapatillas-puma-unisex.html",
-        "date": "2024-11-27 06:30:00",
-        "sentiment_score": 0.7543305289000273
-    },
-    {
-        "title": "El cisma inesperado",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/3d1ca775-f07c-65d0-06453e41ec08ae3c.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z3d1ca5d9-a071-3973-a0f94cd8942002f7/202411/el-cisma-inesperado",
-        "date": "2024-11-27 06:26:19",
-        "sentiment_score": -0.8327317759394646
-    },
-    {
-        "title": "12 televisores de grandes marcas con descuentos pre Black Friday",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3AJB7HNFTZCR7GMFT5EKGGPXUU.png?auth=a01d53341e61e1680d1c8a16241cf2417284b92b73624eb7ff82a4e6cb1a3052&width=1200",
-        "tags": [
-            "ventas internet",
-            "televisión",
-            "televisión hd",
-            "oferta compra",
-            "black friday",
-            "comercio electrónico",
-            "amazon",
-            "rebajas"
-        ],
-        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2024-11-27/televisor-black-friday-2024.html",
-        "date": "2024-11-27 06:20:00",
-        "sentiment_score": 0.3800681345164776
-    },
-    {
-        "title": "15 chollos de Cecotec por menos de 150 euros solo esta semana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BA7XH3WVAZA4FKOEWO7CKBLMNQ.png?auth=1537644412aaa5206a410f18fc9796bd08dc500e5f685f83cd9e138228b20e22&width=1200",
-        "tags": [
-            "pequeños electrodomésticos",
-            "belleza",
-            "casa hogar",
-            "black friday",
-            "comercio electrónico",
-            "cecotec",
-            "rebajas"
-        ],
-        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2024-11-27/cecotec-black-friday-2024.html",
-        "date": "2024-11-27 06:15:00",
-        "sentiment_score": 0.22102221846580505
-    },
-    {
-        "title": "Un Arenas sin techo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/73a55f9f-bbea-4ac9-ac25-1dc33b63681a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/futbol/2024/11/27/arenas-techo-8982129.html",
-        "date": "2024-11-27 06:02:52",
-        "sentiment_score": 0.06486925482749939
-    },
-    {
-        "title": "La oposición seguirá sin entrar en la sociedad mixta para construir la nueva Romareda",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bad6d7df-94b5-439a-9cb1-2ac4249d8c7d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/zaragoza/2024/11/27/oposicion-seguira-entrar-sociedad-mixta-112072757.html",
-        "date": "2024-11-27 06:01:05",
-        "sentiment_score": -0.0432855486869812
-    },
-    {
-        "title": "El escultor burgalés que pasó de \"comer una barra de pan diaria\" a triunfar en los cinco continentes",
-        "image_url": "https://s1.elespanol.com/2024/11/26/castilla-y-leon/region/burgos/904170032_251188024_1706x960.jpg?contentId=ESPIMA20241126_0458",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20241127/escultor-burgales-paso-comer-barra-pan-diaria-triunfar-continentes/904159781_0.html",
-        "date": "2024-11-27 06:00:00",
-        "sentiment_score": 0.7019506581127644
-    },
-    {
-        "title": "La monja alférez",
-        "image_url": "https://s1.elespanol.com/2024/05/13/actualidad/854925124_242257979_1706x960.jpg?contentId=ESPIMA20240513_0625",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/opinion/20241127/monja-alferez/904039593_13.html",
-        "date": "2024-11-27 06:00:00",
-        "sentiment_score": 0.5600852891802788
-    },
-    {
-        "title": "Soy redactora de belleza y estas son las marcas que he fichado para este Black Friday 2024",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O4U65ICYDVGLBP4FZHU7RNMSXE.png?auth=a15a30acacefdb399cff0c7071d4607baf9387c0f702b4dbfa134669c2b4b09c&width=1200",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://elpais.com/escaparate/2024-11-27/productos-belleza-black-friday-2024.html",
-        "date": "2024-11-27 06:00:00",
-        "sentiment_score": 0.26514802128076553
-    },
-    {
-        "title": "Nuevo macrooperativo policial: más de 700 policías se despliegan contra el tráfico de personas en Cataluña",
-        "image_url": "https://static1.ara.cat/clip/b6e87338-b025-4368-906e-ab5a22d31b22_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/sociedad/sucesos/nuevo-macrooperativo-policial-700-policias-despliegan-trafico-personas-cataluna_1_5213413.html",
-        "date": "2024-11-27 06:31:31",
-        "sentiment_score": -0.6388622615486383
-    },
-    {
-        "title": "Adriana Manso, diseñadora de los anillos de plástico de Madonna, Miley Cyrus, Bad Gyal...: \"Aún me sigue petando la cabeza\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54b5bcfa-5486-469a-ad72-72c9b5d30137_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/estilo-y-famosos/20241127/adriana-manso-disenadora-anillos-plastico-la-manso-madonna-miley-cyrus-bad-gyal-rosalia-entrevista-112057219",
-        "date": "2024-11-27 06:30:27",
-        "sentiment_score": -0.022994190454483032
-    },
-    {
-        "title": "Álvarez, reelegido como líder de UGT con el respaldo de Sánchez",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/3d0bdf8d-ef49-0cdc-f6605611d8b44829.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z3d0bdb07-0d9a-6f54-6a08ffce9b39497a/202411/alvarez-reelegido-como-lider-de-ugt-con-el-respaldo-de-sanchez",
-        "date": "2024-11-27 06:24:29",
-        "sentiment_score": 0.775328004732728
-    },
-    {
-        "title": "Macrooperativo policial contra el tráfico de personas, de drogas y el blanqueo en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/de0034dc-ba68-4236-892d-4803e0230451_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/sucesos/2024/11/27/macrooperativo-policial-trafico-personas-drogas-112087669.html",
-        "date": "2024-11-27 06:23:00",
-        "sentiment_score": -0.816450210288167
-    },
-    {
         "title": "Te presentamos algunos hermanos que han tenido protagonismo en la NFL",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1918700346.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -7237,5 +7069,451 @@ export default [
         "link": "https://www.20minutos.es/noticia/5659511/0/catalana-marta-minoves-nombrada-mejor-chef-joven-europa/",
         "date": "2024-11-30 16:48:32",
         "sentiment_score": 0.010593943297863007
+    },
+    {
+        "title": "Trump elige al padre de Jared Kushner, Charles Kushner, como embajador en Francia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789002-charles-kushner.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "jared kushner",
+            "política",
+            "noticias de ee.uu.",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/30/trump-elige-charles-kushner-embajador-eeuu-francia-trax/",
+        "date": "2024-11-30 21:19:53",
+        "sentiment_score": 0.13742731511592865
+    },
+    {
+        "title": "El ministro de Asuntos Exteriores de Rusia habla con sus homólogos de Irán y Turquía sobre la \"peligrosa\" situación en Siria",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/sergey-lavrov-ONU.jpg?quality=100&strip=info",
+        "tags": [
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/30/ministro-ruso-homologos-iran-turquia-situacion-siria-trax/",
+        "date": "2024-11-30 20:28:39",
+        "sentiment_score": 0.08252078294754028
+    },
+    {
+        "title": "Obispos de Centroamérica convocan a jornada de oración por la \"desafiante\" situación de la Iglesia católica en Nicaragua",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788993-guatemala-pope-bishops.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "centroamérica"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/30/obispos-centroamerica-oracion-iglesia-catolica-nicaragua-orix/",
+        "date": "2024-11-30 20:03:46",
+        "sentiment_score": 0.20273235440254211
+    },
+    {
+        "title": "¿Qué está pasando en Siria? Aquí una guía simple",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788968-gettyimages-2186774575.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "siria"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/30/que-pasa-siria-guia-simple-trax/",
+        "date": "2024-11-30 19:12:26",
+        "sentiment_score": -0.6087982952594757
+    },
+    {
+        "title": "Un coleccionista se come la mundialmente famosa banana de US$ 6,2 millones",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/banana-wide-v1-cln-00-00-12-21-still001-20241130180154987.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "obras de arte",
+            "arte"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/coleccionista-come-banana-6-millones-trax/",
+        "date": "2024-11-30 18:04:28",
+        "sentiment_score": -0.27406027913093567
+    },
+    {
+        "title": "Trudeau dice que tuvo \"una conversación excelente\" con Trump en Mar-a-Lago",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788972-nato-leaders-summit-takes-place-in-the-uk-day-two.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "canadá"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/30/trudeau-conversacion-excelente-trump-trax/",
+        "date": "2024-11-30 18:02:00",
+        "sentiment_score": 0.6246015504002571
+    },
+    {
+        "title": "Los latinos se convirtieron en un nuevo frente de batalla para los candidatos políticos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788947-gettyimages-2154369729.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "elecciones en estados unidos",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/30/latinos-nuevo-frente-batalla-para-candidatos-politicos-trax/",
+        "date": "2024-11-30 17:34:39",
+        "sentiment_score": -0.6755971312522888
+    },
+    {
+        "title": "Fondos de Capital Privados: alternativas de inversión",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/30/fondos-hucha_20241130214440-RQ2Lnv36DMRk0li1iUpSMKP-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fondos-capital-privados-alternativas-inversion-20241130214957-nt.html",
+        "date": "2024-11-30 20:49:58",
+        "sentiment_score": -0.042849212884902954
+    },
+    {
+        "title": "La emergencia nacional sigue",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/28/embutido-kxlH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/emergencia-nacional-sigue-20241201175826-nt.html",
+        "date": "2024-11-30 19:23:26",
+        "sentiment_score": -0.3007872700691223
+    },
+    {
+        "title": "El clásico triunfa",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/11/26/detectives-U81504588258vQX-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-clasico-triunfa-20241201105918-nts.html",
+        "date": "2024-11-30 19:09:42",
+        "sentiment_score": -0.07083329558372498
+    },
+    {
+        "title": "El Congreso de unción del enfermo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/01/pedro-sanchez-congreso-RqLd0f9q7gL2wQYd6o0nEuO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-congreso-uncion-enfermo-20241201185520-nts.html",
+        "date": "2024-11-30 19:08:49",
+        "sentiment_score": -0.15263785421848297
+    },
+    {
+        "title": "Estado de marasmo",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/11/28/jubilado-joven-fotolia-kaVE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-estado-marasmo-20241201165538-nt.html",
+        "date": "2024-11-30 18:47:17",
+        "sentiment_score": -0.21179735660552979
+    },
+    {
+        "title": "Registro de viajeros",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/25/pelea-churriana-kn2C--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-registro-viajeros-20241201163801-nt.html",
+        "date": "2024-11-30 18:26:02",
+        "sentiment_score": -0.08639883995056152
+    },
+    {
+        "title": "«No nos olvidéis»",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/11/28/zorrorifico-detective-murciano-revuelta-U22018059591109RG--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-olvideis-20241201180504-nt.html",
+        "date": "2024-11-30 18:25:33",
+        "sentiment_score": -0.07879200577735901
+    },
+    {
+        "title": "Ministra actuante",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/25/pelea-churriana-kn2C--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-ministra-actuante-20241201191737-nt.html",
+        "date": "2024-11-30 18:24:41",
+        "sentiment_score": -0.08591443300247192
+    },
+    {
+        "title": "Dignidades de bolsillo",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2024/11/28/lisonjero%20(8)-kQsC--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-dignidades-bolsillo-20241201164237-nt.html",
+        "date": "2024-11-30 18:24:18",
+        "sentiment_score": -0.2548443078994751
+    },
+    {
+        "title": "Miedito entre los socios de Sánchez",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/27/casa-marcial-menus-precios-nacho-manzano-estrellas-michelin-kdN--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-sanchez-miedito-socios-sanchez-20241201182821-nt.html",
+        "date": "2024-11-30 18:23:50",
+        "sentiment_score": -0.175471693277359
+    },
+    {
+        "title": "Sánchez acuerda unas bases de financiación autonómica en las que se reconocen el PSC y Page",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GVWGCQZ6TRBOTGJMRHJC7M3WWA.jpg?auth=e19123b2bb59911beff70b0957a7168e1e1a0f9263ba0f70e5fae7d233f86851&width=1200",
+        "tags": [
+            "gobierno de españa",
+            "españa",
+            "pedro sánchez",
+            "socialismo",
+            "psoe",
+            "financiación",
+            "comunidades autónomas"
+        ],
+        "link": "https://elpais.com/espana/2024-11-30/sanchez-acuerda-una-bases-de-financiacion-autonomica-en-las-que-se-reconocen-el-psc-y-page.html",
+        "date": "2024-11-30 21:23:24",
+        "sentiment_score": -0.4999503493309021
+    },
+    {
+        "title": "El PP confronta el modelo de “gestión” de sus alcaldes al “congreso de los imputados” del PSOE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RITDBCXWVVCOZEOOTBMB6YIMAU.jpg?auth=43196e02592c637aeb8ad6a9a3953ccca8996bc4b462ae4c5c580a2fd631fba2&width=1200",
+        "tags": [
+            "dana",
+            "valladolid",
+            "gobierno",
+            "pp",
+            "alberto núñez feijóo",
+            "caso koldo",
+            "víctor de aldama",
+            "pedro sánchez",
+            "carlos mazón",
+            "psoe",
+            "juan lobato",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-11-30/el-pp-confronta-el-modelo-de-gestion-de-sus-alcaldes-al-congreso-de-los-imputados-del-psoe.html",
+        "date": "2024-11-30 19:58:32",
+        "sentiment_score": -0.8703781422227621
+    },
+    {
+        "title": "Junqueras obtiene el 48% de los votos para liderar ERC pero tendrá que ir a una segunda vuelta",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CL4S6GE6JBBGFH6PS2G7EAT6VY.jpg?auth=944f9b054fb80ac12c4baa284e2175b8cab0d5f7df9a379a981ce13308989263&width=1200",
+        "tags": [
+            "erc",
+            "cataluña",
+            "congresos políticos",
+            "independentismo",
+            "oriol junqueras",
+            "partidos políticos",
+            "marta rovira i vergés"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-30/junqueras-obtiene-el-48-de-los-votos-para-liderar-erc-pero-tendra-que-ir-a-una-segunda-vuelta.html",
+        "date": "2024-11-30 19:09:20",
+        "sentiment_score": -0.35100656002759933
+    },
+    {
+        "title": "Archivada la investigación a dos mandos de la Guardia Civil por el operativo en el que fueron asesinados dos agentes en Barbate",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IBR4LEBBKFC5JPH47NOY4POML4.jpg?auth=3f1f0623e38fbd4c0718ce08dba4d54cf91f4da0214083a97d701db9b67e798f&width=1200",
+        "tags": [
+            "barbate",
+            "ministerio del interior",
+            "guardia civil",
+            "asesinatos",
+            "cádiz",
+            "narcotraficantes",
+            "españa",
+            "narcotráfico"
+        ],
+        "link": "https://elpais.com/espana/2024-11-30/archivada-la-investigacion-a-dos-mandos-de-la-guardia-civil-por-el-operativo-en-el-que-fueron-asesinados-dos-agentes-en-barbate.html",
+        "date": "2024-11-30 18:18:34",
+        "sentiment_score": -0.8661388522014022
+    },
+    {
+        "title": "Sebastião Salgado recibe el I ‘Premio Joan Guerrero’ de Catalunya Mirades Solidàries",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YKK5XUSEOJED5LM7L3NYHFDQTU.jpeg?auth=b495fc91abd1a595831284cc0f56d6eb93bdd98146965d998e891e0b9aab6ae9&width=1200",
+        "tags": [
+            "premios",
+            "cataluña",
+            "santa coloma de gramenet",
+            "fotografía",
+            "salgado",
+            "joan guerrero"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-11-30/sebastiao-salgado-recibe-el-i-premio-joan-guerrero-de-catalunya-mirades-solidaries.html",
+        "date": "2024-11-30 17:46:46",
+        "sentiment_score": 0.3374565802514553
+    },
+    {
+        "title": "Miles de personas se manifiestan contra la gestión del presidente Mazón en la dana: “Ni olvido ni perdón”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JSHI4XXB5W3JMDNHY7HF3HHP4Q.jpg?auth=ccb50e486e5897ae938e50745efdfbed7a9f5277f334d3b1401ee9bb0d8ce8e7&width=1200",
+        "tags": [
+            "catástrofes",
+            "comunidad valenciana",
+            "dana",
+            "carlos mazón",
+            "aldaia",
+            "protestas sociales",
+            "valencia",
+            "manifestaciones",
+            "paiporta",
+            "sedaví",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-30/miles-de-personas-se-manifiestan-contra-la-gestion-del-presidente-mazon-en-la-dana-ni-olvido-ni-perdon.html",
+        "date": "2024-11-30 17:42:29",
+        "sentiment_score": -0.0017184317111968994
+    },
+    {
+        "title": "Victoria, Memoria y Concordia: nombres para una avenida franquista de Madrid que la derecha quiere resignificar",
+        "image_url": "https://static.eldiario.es/clip/3afa4586-74d4-4c7a-a686-a2202256f42f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/victoria-memoria-concordia-nombres-avenida-franquista-madrid-derecha-quiere-resignificar_1_11863461.html",
+        "date": "2024-11-30 22:13:38",
+        "sentiment_score": 0.03590807318687439
+    },
+    {
+        "title": "Los musulmanes de seis comunidades autónomas no tienen dónde enterrar a sus muertos: \"Es nuestro derecho\"",
+        "image_url": "https://static.eldiario.es/clip/8d814185-5526-4abc-8098-18742752c4eb_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/desalambre/musulmanes-seis-comunidades-autonomas-no-enterrar-muertos-derecho_1_11557342.html",
+        "date": "2024-11-30 22:13:36",
+        "sentiment_score": -0.13033702969551086
+    },
+    {
+        "title": "Occidente debilita el derecho internacional y con ello se traza un nuevo (des)orden mundial",
+        "image_url": "https://static.eldiario.es/clip/c6eb1332-6746-468a-ab4d-befcb2bc7161_16-9-discover-aspect-ratio_default_1107104.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.eldiario.es/internacional/occidente-debilita-derecho-internacional-traza-nuevo-des-orden-mundial_129_11864904.html",
+        "date": "2024-11-30 22:13:31",
+        "sentiment_score": -0.14311447739601135
+    },
+    {
+        "title": "Griezmann lidera la exhibición del Atlético en Zorrilla",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/11/30/griezmann-kjhH--1920x1080@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/griezmann-lidera-exhibicion-atletico-zorrilla-20241130230716-ntrc.html",
+        "date": "2024-11-30 22:10:47",
+        "sentiment_score": 0.5212254971265793
+    },
+    {
+        "title": "El Atlético de Madrid mantiene su buena racha y aplasta al Valladolid con un recital de fútbol",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/11/30/674b7cd7de4db.r_d.3333-909-2852.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20241130/atletico-madrid-mantiene-buena-racha-aplasta-valladolid-recital-futbol_249489.html",
+        "date": "2024-11-30 21:57:19",
+        "sentiment_score": 0.5536181032657623
+    },
+    {
+        "title": "«Cracovia se parece mucho a Madrid»",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/11/30/100309480-kPAC--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/asturianos-por-el-mundo/cracovia-parece-madrid-20241201222733-nt.html",
+        "date": "2024-11-30 21:57:00",
+        "sentiment_score": -0.5856543332338333
+    },
+    {
+        "title": "No se salva ni Flick: los seis señalados del Barça en la derrota contra Las Palmas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/30/culemania/primer-equipo/905169621_13801870_1706x960.jpg?contentId=ESPIMA20241130_0147",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241130/no-flick-senalados-barca-derrota-las-palmas/905159530_0.html",
+        "date": "2024-11-30 21:42:43",
+        "sentiment_score": -0.8964848378673196
+    },
+    {
+        "title": "Real Sociedad - Real Betis: fecha, horario y dónde ver por televisión",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/44538ceb-ab20-4f24-8759-fc584ff5ee7e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/betis/2024/11/30/real-sociedad-real-betis-fecha-horario-television-112216743.html",
+        "date": "2024-11-30 21:40:09",
+        "sentiment_score": 0.02433416247367859
+    },
+    {
+        "title": "Whitelane Research destaca a T-Systems por la satisfacción de clientes en digitalización",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/09/Digital-469x317.jpg",
+        "tags": [
+            "tecnología digital",
+            "tecnologia",
+            "actualidad",
+            "digitalización"
+        ],
+        "link": "https://theobjective.com/actualidad/2024-11-30/whitelane-research-t-systems-digitalizacion/",
+        "date": "2024-11-30 21:26:18",
+        "sentiment_score": 0.6172484513372183
+    },
+    {
+        "title": "El jefe de Glovo declara por primera vez como imputado entre intentos de los 'riders' para ampliar los delitos del caso",
+        "image_url": "https://static.eldiario.es/clip/b0091e35-f040-49ae-8453-e01d1d207ee6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/jefe-glovo-declara-primera-vez-imputado-intentos-riders-ampliar-delitos-caso_1_11863150.html",
+        "date": "2024-11-30 22:13:33",
+        "sentiment_score": -0.19146059453487396
+    },
+    {
+        "title": "Godàs tanteará a la candidatura derrotada para ganar a Junqueras en la segunda vuelta del congreso de ERC",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/30/politica/905169619_13801812_1706x960.jpg?contentId=ESPIMA20241130_0145",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/politica/20241130/godas-tanteara-la-candidatura-derrotada-junqueras-erc/905159537_0.html",
+        "date": "2024-11-30 22:13:28",
+        "sentiment_score": 0.24114998430013657
+    },
+    {
+        "title": "El Recoletas Atlético planta cara al campeón",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/30/recoBAR-k89D-U2301720182532RE-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/deportes/balonmano/recoletas-atletico-planta-cara-campeon-20241130225848-nt.html",
+        "date": "2024-11-30 21:58:48",
+        "sentiment_score": 0.5007533952593803
+    },
+    {
+        "title": "Scalextric pone rumbo a los 10 millones en ventas, pilotada por el nieto de quien la hizo ser lo que es",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/985dc9f7-d761-4e5f-974e-89527e857a05_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20241130/scalextric-empresa-catalana-pone-rumbo-10-millones-112114218",
+        "date": "2024-11-30 21:45:29",
+        "sentiment_score": 0.11503288149833679
+    },
+    {
+        "title": "Novak Djokovic fue el encargado de ingresar el trofeo de la Copa Libertadores al campo de juego",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/11/AP24287383800167_dc67eb-e1733002682518.jpg",
+        "tags": [
+            "copa libertadores",
+            "fútbol",
+            "novak djokovic",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2024/11/30/novak-djokovic-fue-el-encargado-de-ingresar-el-trofeo-de-la-copa-libertadores-al-campo-de-juego/",
+        "date": "2024-11-30 21:39:06",
+        "sentiment_score": 0.04457150027155876
+    },
+    {
+        "title": "El postre típico de Barcelona que no se come en el resto de España: enamora a locales y turistas",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/30/gastro/905169606_13801411_1706x960.jpg?contentId=ESPIMA20241130_0132",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241130/el-postre-tipico-de-barcelona-que-no-se-come-en-el-resto-espana-enamora-locales-turistas/905159541_0.html",
+        "date": "2024-11-30 21:31:08",
+        "sentiment_score": 0.7701394408941269
+    },
+    {
+        "title": "Resultados de la Primitiva del sábado 30 de noviembre de 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/924e280e-a2ec-4df9-b86c-b16a84d9ac4b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/sociedad/2024/11/30/resultados-primitiva-sabado-30-noviembre-112217142.html",
+        "date": "2024-11-30 21:26:09",
+        "sentiment_score": 0.0480462983250618
     }
 ];
