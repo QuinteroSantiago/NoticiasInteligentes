@@ -160,56 +160,6 @@ export default [
         "sentiment_score": -0.11573180556297302
     },
     {
-        "title": "Pepe Álvarez, reelegido para su tercer mandato al frente de UGT, afronta las batallas de la reducción de jornada y la subida del salario mínimo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/27/EuropaPress_6370047_secretario_general_ugt_pepe_alvarez_clausura_congreso_confederal_ugt_27-RdKuM1N6fK52y06ioo8c8pL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/pepe-alvarez-reelegido-secretario-general-ugt-7944-20241127132007-nt.html",
-        "date": "2024-11-27 13:51:20",
-        "sentiment_score": -0.03891292214393616
-    },
-    {
-        "title": "Trilantic mantiene en estudio la oferta de Sidenor por el 29,9% de Talgo: «Ni se ha aceptado ni se ha rechazado»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/27/1481779712-RgJ3DYys1TUHcz2sZTW77bJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trilantic-mantiene-estudio-oferta-sidenor-299-talgo-20241127142155-nt.html",
-        "date": "2024-11-27 13:23:15",
-        "sentiment_score": -0.28995072841644287
-    },
-    {
-        "title": "Tras el alto el fuego en Líbano, Hamás se abre a negociar uno en Gaza",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/27/gazaaa-RHvjIGJEoyGAYiHGwERhxgM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/tras-alto-fuego-libano-hamas-abre-negociar-20241127135324-nt.html",
-        "date": "2024-11-27 12:57:35",
-        "sentiment_score": -0.10839211940765381
-    },
-    {
-        "title": "Interior desoye a los hoteleros y el lunes entrará en vigor el 'gran hermano' turístico: «No hay motivos para más moratorias»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/27/1450292682-RKwmZuojkg6bJx7b4W2mIDP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/interior-desoye-hoteleros-lunes-entrara-vigor-gran-20241127130356-nt.html",
-        "date": "2024-11-27 12:08:41",
-        "sentiment_score": -0.47324955090880394
-    },
-    {
-        "title": "La I+D en España y el informe Draghi",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/27/fotoPampillon-RqDIWByU0b5uxScA7r8CQVJ-350x624@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/rafael-pampillon-espana-informe-draghi-20241127130705-nt.html",
-        "date": "2024-11-27 12:07:05",
-        "sentiment_score": -0.10136091709136963
-    },
-    {
         "title": "La conservadora APM revalida su poder en las salas de gobierno de los principales tribunales",
         "image_url": "https://imagenes.elpais.com/resizer/v2/7W3VPQCVW2LSNNL5BNIKVPRCQA.jpg?auth=4b4392720173df123c15569dc22d0af33fd5b89c3fbd95effe5d41b99a65b821&width=1200",
         "tags": [
@@ -7515,5 +7465,292 @@ export default [
         "link": "https://www.informacion.es/sociedad/2024/11/30/resultados-primitiva-sabado-30-noviembre-112217142.html",
         "date": "2024-11-30 21:26:09",
         "sentiment_score": 0.0480462983250618
+    },
+    {
+        "title": "A un mes de la mortal tragedia, cientos de personas marchan contra el gobierno de Valencia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/gettyimages-2183160990_88739f.jpg?quality=100&strip=info",
+        "tags": [
+            "valencia",
+            "protestas",
+            "dana"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/valencia-protestas-dana/",
+        "date": "2024-12-01 01:59:21",
+        "sentiment_score": -0.9011839842423797
+    },
+    {
+        "title": "\"Mis recuerdos destrozados\": los desplazados del Líbano hacen un balance de sus pérdidas en medio de una delicada tregua",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789010-mallah.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hezbollah",
+            "líbano"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/30/libaneses-desplazados-balance-perdidas-tregua-trax/",
+        "date": "2024-12-01 01:30:31",
+        "sentiment_score": -0.6140985637903214
+    },
+    {
+        "title": "Residentes sirios derriban una estatua y un busto de la familia Assad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/assad3-20241201005616509.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ciudadanos-sirios-derriban-una-estatua-de-la-familia-assad",
+        "date": "2024-12-01 01:01:28",
+        "sentiment_score": -0.9142075469717383
+    },
+    {
+        "title": "Residentes sirios derriban una estatua y un busto de la familia Assad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/assad3-20241201005616509.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ciudadanos-sirios-derriban-una-estatua-de-la-familia-assad/",
+        "date": "2024-12-01 01:01:28",
+        "sentiment_score": -0.494366779923439
+    },
+    {
+        "title": "España resalta la fraternidad entre México y España a través de los libros en la FIL 2024",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186886332.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/feria-internacional-libro-guadalajara-espana-mexico-mirador-mundial-tv/",
+        "date": "2024-12-01 00:55:09",
+        "sentiment_score": 0.5347286984324455
+    },
+    {
+        "title": "Trump anuncia que tiene la intención de reemplazar al actual director del FBI con Kash Patel",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789058-director-fbi.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fbi",
+            "noticias de ee.uu.",
+            "política",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/11/30/trump-quiere-reemplazar-director-fbi-kash-patel-trax/",
+        "date": "2024-12-01 00:45:28",
+        "sentiment_score": 0.13671334832906723
+    },
+    {
+        "title": "Temperaturas gélidas golpean gran parte de Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788867-tormenta.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "xpress",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nevadas-en-eeuu-mirador-mundial-tv-fast/",
+        "date": "2024-12-01 00:38:10",
+        "sentiment_score": -0.39517655223608017
+    },
+    {
+        "title": "Silvia Pinal es despedida con emotivo homenaje en el Palacio de Bellas Artes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187035879.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/silvia-pinal-homenaje-bellas-artes-mexico-mirador-mundial-tv/",
+        "date": "2024-12-01 00:37:50",
+        "sentiment_score": -0.07199150323867798
+    },
+    {
+        "title": "Silvia Pinal es despedida con emotivo homenaje en el Palacio de Bellas Artes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187035879.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/silvia-pinal-homenaje-bellas-artes-mexico-mirador-mundial-tv",
+        "date": "2024-12-01 00:37:50",
+        "sentiment_score": -0.7715441025793552
+    },
+    {
+        "title": "Violencia en México: se registran 40 muertos en Sinaloa en menos de una semana",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788617-mexico-crime-violence.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "sinaloa",
+            "méxico",
+            "fast – news variety",
+            "violencia armada en méxico",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/violencia-mexico-40-muertos-en-sinaloa-mirador-mundial-tv-fast/",
+        "date": "2024-12-01 00:34:49",
+        "sentiment_score": -0.8776881154626608
+    },
+    {
+        "title": "Una generación sin conexión",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/01/moviles-khaF-U603429127691t1G-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/generacion-conexion-20241201020130-nt.html",
+        "date": "2024-12-01 01:08:22",
+        "sentiment_score": -0.12880781292915344
+    },
+    {
+        "title": "Rivas cierra su salida a la M-50 tras años de lucha vecinal: 5M del Gobierno de Sánchez y una fecha en el horizonte",
+        "image_url": "https://s1.elespanol.com/2024/11/28/madrid/comunidad/904670320_251277772_1706x960.jpg?contentId=ESPIMA20241128_0796",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241201/rivas-cierra-salida-m-50-anos-lucha-vecinal-gobierno-sanchez-fecha-horizonte/904660011_0.html",
+        "date": "2024-12-01 01:41:19",
+        "sentiment_score": 0.637664183974266
+    },
+    {
+        "title": "Camavinga estará dos o tres semanas de baja por una lesión en el bíceps femoral",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/11/Camavinga-estara-dos-o-tres-semanas-de-baja-por-una-lesion-en-el-biceps-femoral-30-de-nov-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "monagas",
+            "deportes",
+            "maturín",
+            "venezuela"
+        ],
+        "link": "https://elorientaldemonagas.com/camavinga-estara-dos-o-tres-semanas-de-baja-por-una-lesion-en-el-biceps-femoral/",
+        "date": "2024-12-01 01:00:00",
+        "sentiment_score": -0.39073993265628815
+    },
+    {
+        "title": "La sociedad entre Griezmann y Julián comienza a brindar alegrías al Atlético",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/01/2024120101453626371.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/sociedad-griezmann-julian-comienza-brindar-alegrias-atletico/20241201014856325899.html",
+        "date": "2024-12-01 00:48:56",
+        "sentiment_score": 0.8788323923945427
+    },
+    {
+        "title": "Daniel Chong, de un pequeño taller de Lavapiés al mundo",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/01/chong-mochilas-kC9D-U2301618910204KB-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/gente-estilo/moda/daniel-chong-pequeno-taller-lavapies-mundo-20241201014838-ntrc.html",
+        "date": "2024-12-01 00:48:39",
+        "sentiment_score": -0.008460134267807007
+    },
+    {
+        "title": "«La inmediatez en la que vivimos no permite canciones como 'Mediterráneo'»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/27/dani-martin-02-kuVB-U2301424662160uF-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/culturas/musica/dani-martin-inmediatez-vivimos-permite-canciones-mediterraneo-20241130213228-ntrc.html",
+        "date": "2024-12-01 00:41:50",
+        "sentiment_score": -0.7895116880536079
+    },
+    {
+        "title": "«La inmediatez en la que vivimos no permite canciones como 'Mediterráneo'»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/11/27/dani-martin-02-kuVB-U2301424662160uF-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/dani-martin-inmediatez-vivimos-permite-canciones-mediterraneo-20241130213228-ntrc.html",
+        "date": "2024-12-01 00:41:50",
+        "sentiment_score": 0.5137641802430153
+    },
+    {
+        "title": "Las 5 discotecas de los nuevos reyes de la noche madrileña: reservados de 10.000€ llenos de famosos y artistas mundiales",
+        "image_url": "https://s1.elespanol.com/2024/11/29/madrid/ocio/904920424_251314021_1706x960.jpg?contentId=ESPIMA20241129_0925",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241201/discotecas-nuevos-reyes-noche-madrilena-reservados-llenos-famosos-artistas-mundiales/904659699_0.html",
+        "date": "2024-12-01 01:41:20",
+        "sentiment_score": 0.15379179269075394
+    },
+    {
+        "title": "Antonio Neri, presidente de HPE: \"La IA requiere gestionar datos que están distribuidos en entornos híbridos\"·",
+        "image_url": "https://s1.elespanol.com/2024/11/22/invertia/disruptores/grandes-actores/tecnologicas/903170557_251108077_1706x960.jpg?contentId=ESPIMA20241122_0883",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20241201/antonio-neri-presidente-hpe-ia-requiere-gestionar-datos-distribuidos-entornos-hibridos/847915421_0.html",
+        "date": "2024-12-01 01:25:26",
+        "sentiment_score": 0.35789769887924194
+    },
+    {
+        "title": "Himno a la alegría de la UD",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0bb2005-09d7-4528-955c-545ef0612f1e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/12/01/himno-alegria-ud-112219954.html",
+        "date": "2024-12-01 01:20:28",
+        "sentiment_score": -0.732585720717907
+    },
+    {
+        "title": "El mundo se rinde a la UD: ‘Un muro frena al Barça’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/003a7223-f2e1-4fe3-8fa2-9d73e1b8092b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/12/01/mundo-rinde-ud-muro-frena-112219952.html",
+        "date": "2024-12-01 01:20:05",
+        "sentiment_score": -0.06809693574905396
+    },
+    {
+        "title": "«Se la saqué a Raphinha porque lo vi en Instagram»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b40780b-3118-4df3-b268-ccc0795d0f9c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/12/01/saque-raphinha-vi-instagram-112219895.html",
+        "date": "2024-12-01 01:09:55",
+        "sentiment_score": 0.7098459601402283
+    },
+    {
+        "title": "‘Telcos’ en ebullició",
+        "image_url": "https://www.elpuntavui.cat/imatges/62/53/4x3/780_0008_6253071_0e26ae429c7ea3e0db2ec98e9f5d9006ver2.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.elpuntavui.cat/economia/article/18-economia/2483685-telcos-en-ebullicio.html",
+        "date": "2024-12-01 01:00:00",
+        "sentiment_score": -0.024204879999160767
+    },
+    {
+        "title": "Las quince caritas... y dos más",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241201/quince-caritas-dos_249478.html",
+        "date": "2024-12-01 00:30:00",
+        "sentiment_score": 0.024445801973342896
+    },
+    {
+        "title": "30 NOV 2024 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/30-nov-2024-tramo-final-juego-20241201_3055682.html",
+        "date": "2024-12-01 00:20:11",
+        "sentiment_score": -0.08132486045360565
     }
 ];
