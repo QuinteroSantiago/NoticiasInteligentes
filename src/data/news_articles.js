@@ -138,86 +138,6 @@ export default [
         "sentiment_score": -0.06753578782081604
     },
     {
-        "title": "Heineken instalará en Dubai la primera cervecera a gran escala en un país del Golfo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/28/1489276099-Rp5WPY1eV9cebwBLPuwSzaN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/heineken-instalara-dubai-primera-cervecera-gran-escala-20241128142610-nt.html",
-        "date": "2024-11-28 13:26:10",
-        "sentiment_score": -0.03023970127105713
-    },
-    {
-        "title": "El Supremo abordará en diciembre la indemnización por despido improcedente cuestionada desde Estrasburgo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/28/tribunalsupremo-RB7t664XwhMmyKhtZFh8fxJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/supremo-abordara-diciembre-indemnizacion-despido-improcedente-cuestionada-20241128140905-nt.html",
-        "date": "2024-11-28 13:09:06",
-        "sentiment_score": -0.12374112010002136
-    },
-    {
-        "title": "Putin amenaza con bombardear los «centros de toma decisiones» en Kiev con potencia similar a la bomba atómica",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/28/putin-RRMO8J6K46nR5TXDppUtvCN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/putin-amenaza-bombardear-centros-toma-decisiones-kiev-20241128134309-nt.html",
-        "date": "2024-11-28 12:43:09",
-        "sentiment_score": -0.16176022589206696
-    },
-    {
-        "title": "Un farmacéutico aclara si el helado es bueno para combatir el dolor de garganta: «Si te duele...»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/11/28/dolor-garganta-helado-kh4F-U603415449270r9F-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/farmaceutico-aclara-helado-bueno-combatir-dolor-garganta-20241128133500-nt.html",
-        "date": "2024-11-28 12:35:01",
-        "sentiment_score": -0.3953530341386795
-    },
-    {
-        "title": "Científicos chinos afirman que han creado un arma similar a la de la Estrella de la muerte de Star Wars",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/11/28/est-muerte-R6VEaj1EuM2H3VIZuViKPoL-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/cientificos-chinos-afirman-creado-arma-similar-estrella-20241128131722-nt.html",
-        "date": "2024-11-28 12:17:23",
-        "sentiment_score": -0.04757228493690491
-    },
-    {
-        "title": "Vodafone España subirá sus tarifas un 3% de media a partir del 1 de enero de 2025",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/28/DAMBin(37)-ktUB-U6034150946713KD-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/vodafone-espana-subira-tarifas-media-partir-enero-20241128131602-nt.html",
-        "date": "2024-11-28 12:16:02",
-        "sentiment_score": -0.060738518834114075
-    },
-    {
-        "title": "Globalia suscribe 65 millones en la ampliación de capital de Air Europa y da a IAG hasta el 13 de diciembre para sumarse",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/28/1429840833-RGw3DfrlRtYHEwoUdFWUVDM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/globalia-suscribe-millones-ampliacion-capital-air-europa-20241128124207-nt.html",
-        "date": "2024-11-28 11:42:07",
-        "sentiment_score": -0.4729952812194824
-    },
-    {
-        "title": "¿Sabes que la longitud de los dedos puede revelar tus hábitos de consumo de alcohol?",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/11/28/hand-sky-finger-arm-close-up-hands-1146488-pxhere.com.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/sabes-longitud-dedos-puede-revelar-tus-habitos-20241128122700-nt.html",
-        "date": "2024-11-28 11:28:37",
-        "sentiment_score": -0.08996613323688507
-    },
-    {
         "title": "La Diputación de Barcelona aprueba el Presupuesto de 2025 con un aumento del 5%",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JR7N6QJKK7MHKLQPKE7PIKH4NE.jpg?auth=316a072dfaae3761b2fa7d7eacd4751ca9160b24230cc97e7a5013b7edc63b05&width=1200",
         "tags": [
@@ -373,48 +293,6 @@ export default [
         "link": "https://elpais.com/espana/2024-11-28/quien-es-la-empresaria-carmen-pano-que-asegura-que-entrego-bolsas-de-dinero-en-ferraz.html",
         "date": "2024-11-28 14:29:23",
         "sentiment_score": -0.6394014172255993
-    },
-    {
-        "title": "Así se prepara Barcelona para las olas de calor: escuelas climatizadas, espacio público para remojarse y refugios climáticos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B6IPN7AIHBCKDHBQXPKPKF274Y.jpg?auth=12fcb43c70e5a12d284d1de8378d8cb58755ec953583b5fad9e2053321fcee91&width=1200",
-        "tags": [
-            "ayuntamiento barcelona",
-            "cambio climático",
-            "laia bonet",
-            "jaume collboni",
-            "energías renovables",
-            "movilidad sostenible",
-            "barrios",
-            "barcelona",
-            "olas calor",
-            "espacio público",
-            "cataluña",
-            "calor",
-            "emergencia climática",
-            "ciudades sostenibles"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-28/asi-se-prepara-barcelona-para-las-olas-de-calor-escuelas-climatizadas-espacio-publico-para-remojarse-y-refugios-climaticos.html",
-        "date": "2024-11-28 13:59:04",
-        "sentiment_score": -0.5304667390882969
-    },
-    {
-        "title": "El ministro Torres niega que pidiera dinero al comisionista Aldama: “Es un rotundo no”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/24RSKO26SIANHDOUYRFDV7IPVA.jpg?auth=7c5fac9c09955a48dc43708c8d64e53c999bded0a97443480e5a2bb02c0c2bed&width=1200",
-        "tags": [
-            "mascarillas",
-            "caso koldo",
-            "españa",
-            "senado",
-            "koldo garcía",
-            "pandemia",
-            "josé luis ábalos",
-            "ángel víctor torres",
-            "coronavirus covid-19",
-            "canarias"
-        ],
-        "link": "https://elpais.com/espana/2024-11-28/el-ministro-torres-niega-que-pidiera-dinero-al-comisionista-aldama-es-un-rotundo-no.html",
-        "date": "2024-11-28 13:52:27",
-        "sentiment_score": -0.1760890632867813
     },
     {
         "title": "El 'dardo' de Paulo Futre tras la derrota del Real Madrid en Liverpool: \"Good morning...\"",
@@ -6873,5 +6751,329 @@ export default [
         "link": "https://apnews.com/article/francia-autobus-choque-acantilado-barcelona-2c9cf4f3184f6cfa7a4d17281d862c38",
         "date": "2024-12-01 21:49:37",
         "sentiment_score": -0.7652802839875221
+    },
+    {
+        "title": "María Corina Machado dice que EE.UU. debe enviar mensaje a Maduro \"de que el tiempo se le acabó\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1748330-machado-venezuela.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "maría corina machado",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/01/maria-corina-machado-maduro-eeuu-oppenheimer-orix/",
+        "date": "2024-12-02 02:00:20",
+        "sentiment_score": -0.5485461503267288
+    },
+    {
+        "title": "Quién es Hunter Biden, condenado en caso de posesión de un arma",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1704175-hunter-biden-gun-trial-continues-in-delaware.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hunter biden",
+            "política",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/01/quien-es-hunter-biden-condenado-arma-orix/",
+        "date": "2024-12-02 01:53:20",
+        "sentiment_score": -0.3729781061410904
+    },
+    {
+        "title": "Joe Biden le otorga el indulto presidencial a su hijo Hunter a pesar de su promesa de no hacerlo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187280340.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/joe-biden-perdona-hijo-hunter-mirador-mundial-tv-fast",
+        "date": "2024-12-02 01:45:01",
+        "sentiment_score": -0.17081232368946075
+    },
+    {
+        "title": "Joe Biden le otorga el indulto presidencial a su hijo Hunter a pesar de su promesa de no hacerlo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187280340.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/joe-biden-perdona-hijo-hunter-mirador-mundial-tv-fast/",
+        "date": "2024-12-02 01:45:01",
+        "sentiment_score": -0.845544807612896
+    },
+    {
+        "title": "Rebeldes sirios ganan fuerza en la región, dice especialista",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187230044.jpg?c=16x9&q=w_1280%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/siria-guerra-contexto-regional-mirador-mundial-tv",
+        "date": "2024-12-02 00:42:18",
+        "sentiment_score": 0.604022927582264
+    },
+    {
+        "title": "Rebeldes sirios ganan fuerza en la región, dice especialista",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187230044.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "guerra civil en siria",
+            "siria"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/siria-guerra-contexto-regional-mirador-mundial-tv/",
+        "date": "2024-12-02 00:42:18",
+        "sentiment_score": -0.4927627518773079
+    },
+    {
+        "title": "Así se vivió el segundo día de la FIL Guadalajara",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187094638.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fil-guadalajara-mexico-segundo-dia-mirador-mundial-tv/",
+        "date": "2024-12-02 00:41:10",
+        "sentiment_score": 0.28926392644643784
+    },
+    {
+        "title": "Así se vivió el segundo día de la FIL Guadalajara",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187094638.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fil-guadalajara-mexico-segundo-dia-mirador-mundial-tv",
+        "date": "2024-12-02 00:41:10",
+        "sentiment_score": 0.21960800886154175
+    },
+    {
+        "title": "El presidente de EE.UU. Joe Biden indulta a su hijo Hunter Biden",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789362-ap24156746193942-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ee.uu.",
+            "instanoticias",
+            "joe biden"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/01/joe-biden-indulta-a-su-hijo-hunter-biden-trax/",
+        "date": "2024-12-02 00:37:33",
+        "sentiment_score": -0.42532822117209435
+    },
+    {
+        "title": "Trump amenaza con aranceles del 100% a países BRICS si se alejan del dólar",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179619804.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-amenaza-paises-brics-aranceles-cien-por-ciento-mirador-mundial-tv-fast/",
+        "date": "2024-12-02 00:34:46",
+        "sentiment_score": -0.7746267169713974
+    },
+    {
+        "title": "Cristian Campos: \"Ayuso ha trascendido al PP y ha creado una especie de partido propio surgido de la calle\"",
+        "image_url": "https://s1.elespanol.com/2024/11/28/espana/politica/904669766_251260513_1706x960.jpg?contentId=ESPIMA20241128_0242",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241202/cristian-campos-ayuso-trascendido-pp-creado-especie-partido-propio-surgido-calle/904659659_0.html",
+        "date": "2024-12-02 02:02:47",
+        "sentiment_score": -0.50373625010252
+    },
+    {
+        "title": "Jon Lee Anderson: \"La izquierda ha colapsado, el nuevo modelo revolucionario no es el Che Guevara, sino Javier Milei\"",
+        "image_url": "https://s1.elespanol.com/2024/11/29/actualidad/904920138_251305064_1706x960.jpg?contentId=ESPIMA20241129_0639",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/20241202/jon-lee-anderson-izquierda-colapsado-nuevo-modelo-revolucionario-no-che-guevara-javier-milei/904660050_0.html",
+        "date": "2024-12-02 02:02:43",
+        "sentiment_score": -0.725504893809557
+    },
+    {
+        "title": "Entra en vigor el registro obligatorio de viajeros entre la oposición del turismo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/545f821d-3d86-4cd1-bd4d-63a707157ab2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2024/12/02/entra-vigor-registro-obligatorio-viajeros-oposicion-turismo-9000913.html",
+        "date": "2024-12-02 01:53:04",
+        "sentiment_score": -0.5005697160959244
+    },
+    {
+        "title": "Biden indulta a su hijo Hunter y sostiene que el proceso judicial ha sido \"instigado\" por sus rivales políticos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3fba2a3a-5e5a-4e62-b38b-de76492d4520_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2024/12/02/biden-indulta-hijo-hunter-sostiene-112244429.html",
+        "date": "2024-12-02 01:52:51",
+        "sentiment_score": -0.8309546485543251
+    },
+    {
+        "title": "'Al Margen': el ego de Casanova eclipsa una tragedia humana",
+        "image_url": "https://www.nuevatribuna.es/media/nuevatribuna/images/2024/12/02/2024120202063041232.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.nuevatribuna.es/articulo/cultura---ocio/estrenos-cine-margen-ego-eduardo-casanova-eclipsa-tragedia-humana/20241202021827233036.html",
+        "date": "2024-12-02 01:18:27",
+        "sentiment_score": 0.005050346255302429
+    },
+    {
+        "title": "La Grada d'Animació apunta contra Laporta: la propiedad del socio del Barça, en peligro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/05/30/culemania/culemaniacos/859174229_13018619_1706x960.jpg?contentId=ESPIMA20240530_0155",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241202/la-grada-danimacio-laporta-propiedad-del-barca/905409504_0.html",
+        "date": "2024-12-02 01:14:36",
+        "sentiment_score": -0.7223999612033367
+    },
+    {
+        "title": "Queremos tanto a Saul Steinberg, el ilustrador que se comió la Gran Manzana",
+        "image_url": "https://s1.elespanol.com/2024/11/22/el-cultural/arte/903170463_251105229_854x640.jpg?contentId=ESPIMA20241122_0789",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20241202/queremos-saul-steinberg-ilustrador-comio-gran-manzana/903160073_0.html",
+        "date": "2024-12-02 01:00:00",
+        "sentiment_score": 0.7259711660444736
+    },
+    {
+        "title": "100 años de la muerte de Giacomo Puccini, el mago inconformista",
+        "image_url": "https://s1.elespanol.com/2024/11/29/el-cultural/escenarios/opera/904920341_251311436_1706x960.jpg?contentId=ESPIMA20241129_0842",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/opera/20241202/anos-muerte-giacomo-puccini-mago-inconformista/904660066_0.html",
+        "date": "2024-12-02 01:00:00",
+        "sentiment_score": -0.7032367028295994
+    },
+    {
+        "title": "El tradicional Belén de la Comunidad de Madrid presenta más de 480 figuras",
+        "image_url": "https://autonomico.elconfidencialdigital.com/media/elconfidencialautonomico/images/2024/12/02/2024120201550678003.jpg",
+        "tags": [
+            "muy confidencial"
+        ],
+        "link": "https://autonomico.elconfidencialdigital.com/articulo/muy_confidencial/tradicional-belen-comunidad-madrid-presenta-mas-480-figuras/20241202015551141979.html",
+        "date": "2024-12-02 00:55:51",
+        "sentiment_score": 0.22478726506233215
+    },
+    {
+        "title": "Lewandowski sigue sólido como líder del Pichichi, pero ojo con los delanteros del Atleti",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/02/2024120201373879383.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lewandowski-sigue-solido-como-lider-pichichi-ojo-delanteros-atleti/20241202012947326031.html",
+        "date": "2024-12-02 00:29:47",
+        "sentiment_score": 0.6250166594982147
+    },
+    {
+        "title": "El condenado a dos años de cárcel por contagiar VIH a su pareja y cómo no contarlo no es delito",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/d10f7590d5aff784a5f79ad725197166/crop/22x158/1575x1193/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/01/17330710343300.jpg",
+        "tags": [
+            "artículos ana maría ortiz",
+            "tribunal supremo"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/12/02/674c6e35e4d4d8d51e8b4619.html",
+        "date": "2024-12-02 02:12:17",
+        "sentiment_score": -0.6604365296661854
+    },
+    {
+        "title": "Sumar pide a Sánchez una salida \"a la ofensiva\" de la crisis judicial: \"Nos desgasta no tomar medidas\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/e78b890cc67a380462e5216f9765c735/crop/510x321/3019x1994/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/01/17330768335633.jpg",
+        "tags": [
+            "artículos álvaro carvajal",
+            "yolanda díaz",
+            "sumar"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/12/02/674caeb1e9cf4ad0508b46f4.html",
+        "date": "2024-12-02 02:12:09",
+        "sentiment_score": -0.09877622127532959
+    },
+    {
+        "title": "Anabel Mateos entra en la Ejecutiva tras hacer lobby cuando su marido Antonio Hernando estaba en Moncloa",
+        "image_url": "https://s1.elespanol.com/2024/12/01/espana/905419818_251345690_854x640.jpg?contentId=ESPIMA20241201_0369",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241202/anabel-mateos-entra-ejecutiva-hacer-lobby-marido-antonio-hernando-moncloa/905409595_0.html",
+        "date": "2024-12-02 02:01:06",
+        "sentiment_score": -0.4358865022659302
+    },
+    {
+        "title": "Más que buena sintonía: Álvarez (UGT), Garamendi (CEOE) y una relación que choca con los ataques de Yolanda Díaz",
+        "image_url": "https://s1.elespanol.com/2024/11/29/invertia/economia/empleo/904919932_251298685_1706x960.jpg?contentId=ESPIMA20241129_0433",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/empleo/20241202/buena-sintonia-alvarez-ugt-garamendi-ceoe-relacion-choca-ataques-yolanda-diaz/904909757_0.html",
+        "date": "2024-12-02 01:57:13",
+        "sentiment_score": -0.8237461037933826
+    },
+    {
+        "title": "Biden indulta a su hijo e incumple la promesa de no utilizar sus poderes",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/25/66cb6a9e60e55.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20241202/10160501/biden-indulta-hijo-incumpliendo-promesa-hizo-utilizar-poderes.html",
+        "date": "2024-12-02 00:57:43",
+        "sentiment_score": -0.7785171382129192
+    },
+    {
+        "title": "Brad Pitt y Richard Gere, los dos guapos oficiales de Hollywood que han encontrado en España el amor y su refugio de descanso",
+        "image_url": "https://s1.elespanol.com/2024/11/29/corazon/celebrities/904919998_251300679_1706x960.jpg?contentId=ESPIMA20241129_0499",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20241202/brad-pitt-richard-gere-guapos-oficiales-hollywood-encontrado-espana-amor-refugio-descanso/904659705_0.html",
+        "date": "2024-12-02 00:49:49",
+        "sentiment_score": 0.7271548919379711
+    },
+    {
+        "title": "El impacto económico del nuevo Camp Nou que no resuelve la crisis del Barça: los números no salen",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/30/culemania/palco/882171778_13392445_1706x960.png?contentId=ESPIMA20240830_0004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241202/el-economico-del-camp-nou-no-barca/905409458_0.html",
+        "date": "2024-12-02 00:47:50",
+        "sentiment_score": 0.7154600396752357
+    },
+    {
+        "title": "Barça One ya es rentable: Toni Cruz desvela beneficios y la llegada de publicidad para 2025",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/04/culemania/palco/845175734_12728556_1706x960.jpg?contentId=ESPIMA20240404_0260",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241202/barca-one-rentable-toni-cruz-beneficios-publicidad/904909569_0.html",
+        "date": "2024-12-02 00:44:48",
+        "sentiment_score": 0.6284308545291424
     }
 ];
