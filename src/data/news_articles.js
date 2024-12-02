@@ -1,230 +1,5 @@
 export default [
     {
-        "title": "Quien fue a Sevilla",
-        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/11/27/marcial-efe-kriF--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/javier-macias-sevilla-20241128224344-nts.html",
-        "date": "2024-11-28 06:21:59",
-        "sentiment_score": -0.12716910243034363
-    },
-    {
-        "title": "Mark Zuckerberg se reúne con Donald Trump en Mar-a-Lago tras años de tensas relaciones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/11/28/trump-zuckerberg-afp-kxa-U603414051629QQC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/mark-zuckerberg-reune-donald-trump-maralago-tras-20241128065613-nt.html",
-        "date": "2024-11-28 05:56:13",
-        "sentiment_score": -0.08305895328521729
-    },
-    {
-        "title": "Una profesora de matemáticas gana más de 20 millones en la lotería con un método: ¿Sirve para El Gordo de Navidad?",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2024/11/28/6747b3371d58e.r_d.671-1332-3184.jpeg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.cope.es/actualidad/vivir/loteria-de-navidad/noticias/profesora-matematicas-gana-mas-20-millones-loteria-metodo-sirve-gordo-navidad-20241128_3053966.html",
-        "date": "2024-11-28 06:32:52",
-        "sentiment_score": -0.06589221954345703
-    },
-    {
-        "title": "Los conductores de autobús vuelven a la huelga este jueves y viernes para pedir la jubilación anticipada",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/96704b4475623e58c48353bfb064ddb7/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/28/17327749692831.jpg",
-        "tags": [
-            "actualidad económica",
-            "huelgas",
-            "transporte y turismo",
-            "economía"
-        ],
-        "link": "https://www.elmundo.es/economia/2024/11/28/67480cb3e85ece2b358b4570.html",
-        "date": "2024-11-28 06:25:04",
-        "sentiment_score": -0.1722325161099434
-    },
-    {
-        "title": "Nueva inyección contra el VIH: 96% de eficacia con solo dos dosis al año",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241128071649_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-nueva-inyeccion-contra-vih-96-eficacia-solo-dos-dosis-ano-20241128071649.html",
-        "date": "2024-11-28 06:16:49",
-        "sentiment_score": 0.0947982519865036
-    },
-    {
-        "title": "El Liverpool somete a un Madrid a la deriva",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/afd2ba0d-1968-4178-93a9-c403e2704f7f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/futbol/2024/11/28/liverpool-somete-madrid-deriva-8987250.html",
-        "date": "2024-11-28 06:15:29",
-        "sentiment_score": -0.09902681410312653
-    },
-    {
-        "title": "De las hermanas Iglesias a Lily Collins: todas las veces que los hijos de las estrellas estuvieron en el Baile de Debutantes",
-        "image_url": "https://www.hola.com/horizon/landscape/318c68e8838b-iglesiasportada.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20241128732429/baile-de-debutantes-recordamos-hijos-nietos-celebrities/",
-        "date": "2024-11-28 06:01:00",
-        "sentiment_score": -0.05349631607532501
-    },
-    {
-        "title": "¿Por qué Barcelona se ha convertido en una de las capitales mundiales del 'panettone'?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92fc2d0e-e58e-4714-a856-eed03f430b97_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241128/panettone-barcelona-capital-mundial-111719786",
-        "date": "2024-11-28 06:00:24",
-        "sentiment_score": 0.13918989896774292
-    },
-    {
-        "title": "España reducirá un 17,8% su renta per cápita hasta el 2049",
-        "image_url": "https://s10.s3c.es/imag/_v0/5472x2986/0/e/5/1200x655_63318.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13094675/11/24/espana-reduciraun-178-su-renta-per-capita-hasta-el-2049.html",
-        "date": "2024-11-28 06:00:24",
-        "sentiment_score": 0.0505046546459198
-    },
-    {
-        "title": "¿Ganar más para alquilar vivienda? El alquiler se come el 90% del sueldo en esta localidad y rompe el límite en diez provincias",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/11/dinero-4266593.jpg?tf=1200x",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.businessinsider.es/economia/ganar-alquilar-vivienda-alquiler-come-90-sueldo-localidad-rompe-limite-diez-provincias-1425672",
-        "date": "2024-11-28 06:00:07",
-        "sentiment_score": -0.08882444351911545
-    },
-    {
-        "title": "Más de 70 empresas son avaladas por su excelencia con el certificado CIEGE",
-        "image_url": "https://s10.s3c.es/imag/_v0/7882x4302/e/0/8/1200x655_cfsdfsdfs49.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13107655/11/24/mas-de-70-empresas-son-avaladas-por-su-excelencia-con-el-certificado-ciege.html",
-        "date": "2024-11-28 06:00:04",
-        "sentiment_score": 0.7233447879552841
-    },
-    {
-        "title": "Kenia, un crucero por el Danubio o Canarias, oportunidades del 'black friday' para 2025",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/27/6747059f9ca74.r_d.1178-685-0.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/viajes/20241128/10145312/ofertas-viajes-escapadas-vuelos-hoteles-low-cost-cts.html",
-        "date": "2024-11-28 06:00:00",
-        "sentiment_score": 0.5189881026744843
-    },
-    {
-        "title": "Alfonso Arús paraliza 'Aruseros' y descubre lo que pocos sabían de Rocío Cano: \"Me han registrado\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/11/28/6748097197156.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20241128/1002361209/alfonso-arus-paraliza-aruseros-descubre-pocos-sabian-rocio-cano-me-han-registrado-dct.html",
-        "date": "2024-11-28 06:32:15",
-        "sentiment_score": -0.5370342284440994
-    },
-    {
-        "title": "Toda el Área Metropolitana de Barcelona supera la contaminación del aire que aconseja a la UE",
-        "image_url": "https://static1.ara.cat/clip/46f925e7-d1c3-47e4-b9bf-751ecf67bb71_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/sociedad/medio-ambiente/area-metropolitana-barcelona-supera-contaminacion-aire-aconseja-ue_1_5214380.html",
-        "date": "2024-11-28 06:30:23",
-        "sentiment_score": 0.048355862498283386
-    },
-    {
-        "title": "Plantas a menos de 1 euro: el mercado que vuelve a abrir sus puertas en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54a33789-f7cb-42c4-ba6d-b6dd8f0e6084_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20241128/plantas-1-euro-mercado-barcelona-dv-112099646",
-        "date": "2024-11-28 06:30:00",
-        "sentiment_score": 0.7811988368630409
-    },
-    {
-        "title": "Apax y Carlyle compran otras cuatro corredurías en España y estudian ocho más",
-        "image_url": "https://phantom-expansion.unidadeditorial.es/f67dd680d05547fb22843472930633e0/crop/190x398/1829x1626/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/27/17327341985354.jpg",
-        "tags": [
-            "seguros>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/empresas/seguros/2024/11/28/67480d89e5fdeac16c8b4570.html",
-        "date": "2024-11-28 06:28:41",
-        "sentiment_score": 0.11053140088915825
-    },
-    {
-        "title": "Lo que debes saber hoy, 28 de noviembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/10/19/vivir-en-barcelona/894670536_13604035_1706x960.jpg?contentId=ESPIMA20241019_0012",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241128/lo-que-debes-saber-hoy-de-noviembre-barcelona/904659526_0.html",
-        "date": "2024-11-28 06:17:36",
-        "sentiment_score": -0.17706818878650665
-    },
-    {
-        "title": "Huelga de autobuses en Barcelona, Madrid y resto de España, hoy en directo | Última hora de los servicios mínimos y líneas afectadas",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/10/28/671f86e19fa84.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20241128/10149072/huelga-general-autobuses-hoy-directo-ultima-hora-transporte-barcelona-catalunya.html",
-        "date": "2024-11-28 06:16:51",
-        "sentiment_score": -0.06668395549058914
-    },
-    {
-        "title": "Woody Allen prepara su nuevo filme en Barcelona",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/28/6747a7960cf70.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20241128/10148858/woody-allen-prepara-nuevo-filme-barcelona.html",
-        "date": "2024-11-28 06:07:40",
-        "sentiment_score": 0.0399857833981514
-    },
-    {
-        "title": "¡Martín prácticamente se descarta por el título 2025 ante Bagnaia y Márquez!: \"Casi ni lo contemplo\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/11/27/674794e4730cc.jpeg",
-        "tags": [
-            "motogp"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/motogp/20241128/1002361129/martin-practicamente-descarta-titulo-2025-bagnaia-marquez-contemplo.html",
-        "date": "2024-11-28 06:05:00",
-        "sentiment_score": 0.4917624816298485
-    },
-    {
-        "title": "Escuelas escénicas y abusos: el patrón se repite mientras las profesionales tratan de impulsar protocolos",
-        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/ed05348c/2G0A1322Copia.jpg?v=63886207350",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elsaltodiario.com/violencia-sexual/escuelas-escenicas-abusos-patron-repite-profesionales-impulsar-protocolos",
-        "date": "2024-11-28 06:02:00",
-        "sentiment_score": -0.8238567560911179
-    },
-    {
-        "title": "100.000 toneladas de material reciclado para el nuevo Spotify Camp Nou",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/802a1c49-f8c8-478d-948f-6383d438e62b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/sociedad/2024/11/28/100-000-toneladas-material-reciclado-112126262.html",
-        "date": "2024-11-28 06:01:51",
-        "sentiment_score": 0.08308228850364685
-    },
-    {
         "title": "Estuvo desaparecido durante 25 años y su hermana lo encontró luego de ver su foto en las noticias",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/californiadesaparecido.jpg?quality=100&strip=info",
         "tags": [
@@ -6684,5 +6459,419 @@ export default [
         "link": "https://elorientaldemonagas.com/cuenca-del-lago-de-maracaibo-la-mas-afectada-por-el-calentamiento-en-sudamerica/",
         "date": "2024-12-01 16:07:05",
         "sentiment_score": -0.5372152253985405
+    },
+    {
+        "title": "\"Deja de hablar y consigue un abogado\": la caída de un dentista acusado de envenenar a su esposa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789252-james-craig.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "dentista",
+            "crimen"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/01/james-craig-dentista-colorado-acusado-envenenar-esposa-trax/",
+        "date": "2024-12-01 22:15:35",
+        "sentiment_score": -0.7725753393024206
+    },
+    {
+        "title": "Los países no logran un acuerdo en las negociaciones sobre plásticos de la ONU",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789283-gettyimages-2177111461.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "contaminación",
+            "plástico"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/01/paises-no-logran-acuerdo-plastico-onu-reux/",
+        "date": "2024-12-01 21:31:16",
+        "sentiment_score": -0.7989796753972769
+    },
+    {
+        "title": "Estudio revela imágenes de la organización de las orcas para cazar a un tiburón ballena",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-orcas-h.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – reserve",
+            "animales",
+            "xpress",
+            "orca",
+            "tiburones"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/orcas-cazan-tiburones-ballena-video-orix/",
+        "date": "2024-12-01 21:29:37",
+        "sentiment_score": -0.019411981105804443
+    },
+    {
+        "title": "Estos son los planes de Kash Patel para el FBI",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-fbi.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kash-patel-fbi-trump-planes-ush-trax",
+        "date": "2024-12-01 20:47:27",
+        "sentiment_score": 0.005392909049987793
+    },
+    {
+        "title": "Estos son los planes de Kash Patel para el FBI",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-fbi.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/kash-patel-fbi-trump-planes-ush-trax/",
+        "date": "2024-12-01 20:47:27",
+        "sentiment_score": -0.7873360924422741
+    },
+    {
+        "title": "Casi dos millones de personas siguen bajo alerta por nieve de efecto lago en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-nieve-20241201195437916.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nevadas-estados-unidos-bajo-advertencias-clima-ush-trax/",
+        "date": "2024-12-01 19:58:52",
+        "sentiment_score": -0.4769015796482563
+    },
+    {
+        "title": "Casi dos millones de personas siguen bajo alerta por nieve de efecto lago en EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nevadas-estados-unidos-bajo-advertencias-clima-ush-trax",
+        "date": "2024-12-01 19:58:52",
+        "sentiment_score": -0.7395050376653671
+    },
+    {
+        "title": "Los rebeldes celebran la toma de Aleppo mientras Rusia bombardea Siria",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/vo-siria-00-00-07-04-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "aleppo",
+            "siria"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rebeldes-siria-aleppo-idlib-bombardeos-rusia-orix/",
+        "date": "2024-12-01 19:57:00",
+        "sentiment_score": -0.37013067305088043
+    },
+    {
+        "title": "“El Sol” iluminó Ciudad de México: así vivieron miles de fans el concierto de Luis Miguel",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luis-miguel-concierto-gnp-seguros-fans-generaciones-showbiz-orix",
+        "date": "2024-12-01 19:47:07",
+        "sentiment_score": 0.8063162099570036
+    },
+    {
+        "title": "Los problemas de Volkswagen aumentan mientras los trabajadores se preparan para una huelga en toda Alemania",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789244-volkswagen-huelga-alemania.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "europa",
+            "alemania",
+            "huelga",
+            "volkswagen"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/01/problemas-volkswagen-trabajadores-huelgas-alemania-trax/",
+        "date": "2024-12-01 19:21:39",
+        "sentiment_score": -0.3885621912777424
+    },
+    {
+        "title": "Lo que se sabe sobre el supuesto hackeo a la Agencia Tributaria",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/01/hacienda-montaje-kixH-U603431609508ocE-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sabe-sobre-supuesto-hackeo-agencia-tributaria-20241201211122-nt.html",
+        "date": "2024-12-01 20:11:22",
+        "sentiment_score": -0.29682374000549316
+    },
+    {
+        "title": "Culto del PSOE a Sánchez y familia",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/11/28/jubilado-joven-fotolia-kaVE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-culto-psoe-sanchez-familia-20241202174452-nt.html",
+        "date": "2024-12-01 20:08:45",
+        "sentiment_score": -0.07098090648651123
+    },
+    {
+        "title": "Una medida populista que choca con las autonomías",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/11/28/jubilado-joven-fotolia-kaVE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-medida-populista-choca-autonomias-20241202173942-nt.html",
+        "date": "2024-12-01 20:07:20",
+        "sentiment_score": -0.205429345369339
+    },
+    {
+        "title": "La oposición venezolana denuncia la lentitud de la Corte Penal Internacional para ordenar el arresto de Maduro",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/01/venezolanos-RfuWoHMUAnDULZuJZBWBpoL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/oposicion-venezolana-denuncia-lentitud-corte-penal-internacional-20241201203050-nt.html",
+        "date": "2024-12-01 19:32:19",
+        "sentiment_score": -0.08596983551979065
+    },
+    {
+        "title": "La izquierda rumana se sitúa por delante de la extrema derecha en las elecciones parlamentarias",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/01/rumania-RjOtCt0qOhQFOqaos2xzONI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/izquierda-rumana-situa-delante-extrema-derecha-elecciones-20241201202730-nt.html",
+        "date": "2024-12-01 19:28:09",
+        "sentiment_score": -0.09631776809692383
+    },
+    {
+        "title": "La garantía de la conectividad en los contextos más complejos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/01/metropolitanodemadrid-RH7SY7NJkeTWVwUjLZeShwK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/garantia-conectividad-contextos-complejos-20241201162139-nt.html",
+        "date": "2024-12-01 19:28:03",
+        "sentiment_score": -0.0647539496421814
+    },
+    {
+        "title": "La ciudad que no cuida de sus escenarios",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/11/26/detectives-U81504588258vQX-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-ciudad-cuida-escenarios-20241202185107-nts.html",
+        "date": "2024-12-01 19:18:34",
+        "sentiment_score": -0.10223716497421265
+    },
+    {
+        "title": "El barco del capitán Achab",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/02/TERCERAABC_CongresoPSOE_CAMACHO-RMkAFY2m0WvvHbjWPK2YhUN-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-barco-capitan-achab-20241202200932-nt.html",
+        "date": "2024-12-01 19:14:35",
+        "sentiment_score": -0.23608934879302979
+    },
+    {
+        "title": "Elecciones alemanas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/01/1441134703-Rp1qJnUS0AnkGcelQyyGf6J-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-elecciones-alemanas-20241201194228-nt.html",
+        "date": "2024-12-01 18:45:07",
+        "sentiment_score": -0.03384709358215332
+    },
+    {
+        "title": "Cacería humana en sede judicial",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/11/15/navidad-kqOE--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-caceria-humana-sede-judicial-20241202164120-nt.html",
+        "date": "2024-12-01 18:38:57",
+        "sentiment_score": -0.1307203620672226
+    },
+    {
+        "title": "Al menos dos muertos y 15 heridos graves en un accidente en Francia de un autobús de l’Hospitalet (Barcelona)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OGQJCYZQLD26ZRN573NQUE26AY.jpg?auth=2d3de6dbc56c7507227cec1c6b0fbd2efb26d4d1272805fbfded3691dd460ced&width=1200",
+        "tags": [
+            "tráfico",
+            "hospitales",
+            "muertes",
+            "accidentes",
+            "bomberos",
+            "francia",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-01/al-menos-dos-muertos-y-15-heridos-graves-en-un-accidente-en-francia-de-un-autobus-de-lhospitalet-barcelona.html",
+        "date": "2024-12-01 19:30:43",
+        "sentiment_score": -0.757441807538271
+    },
+    {
+        "title": "¿LGTBIQ+ o LGTBI? El debate político va más allá de la nomenclatura",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UKHLALWNLRCVFHYLHTYVQTP4RU.jpg?auth=cb0e5daf09cfae08df5efab0c2bb17b72befbda0cf9cffe5e1d9fa07980a5237&width=1200",
+        "tags": [
+            "irene montero",
+            "ley trans",
+            "transexualidad",
+            "derechos humanos",
+            "podemos",
+            "psoe",
+            "comunidad lgtbiq",
+            "carmen calvo",
+            "españa",
+            "transexuales",
+            "ministerio de igualdad",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2024-12-01/lgtbiq-o-lgtbi-el-debate-politico-va-mas-alla-de-la-nomenclatura.html",
+        "date": "2024-12-01 18:56:25",
+        "sentiment_score": -0.3188888505101204
+    },
+    {
+        "title": "Argüeso, secretario de Emergencias de Mazón, en la rampa de salida tras pedir su cese Vox",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NRNZFISGEBE2HLH4TPJAZZNZG4.jpg?auth=284941fb8aa1634f99bdbbff50777febdf4571cb80687c1acdbd02509915376c&width=1200",
+        "tags": [
+            "vox",
+            "carlos mazón",
+            "generalitat valenciana",
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "inundaciones",
+            "dana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-01/argueso-secretario-de-emergencias-de-mazon-en-la-rampa-de-salida-tras-pedir-su-cese-vox.html",
+        "date": "2024-12-01 18:02:24",
+        "sentiment_score": -0.8114781938493252
+    },
+    {
+        "title": "Marta Rovira revela que se queda a vivir en Suiza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TKDUBLIC4JHTFNAWC6OVPA3Z4A.jpg?auth=2a5751c87e020a3e5def7aa120955d483dce3dfe427de960cbc770f46041fc58&width=1200",
+        "tags": [
+            "oriol junqueras",
+            "ginebra",
+            "independencia",
+            "suiza",
+            "amnistía",
+            "marta rovira i vergés",
+            "erc",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-01/marta-rovira-revela-que-se-queda-a-vivir-en-suiza.html",
+        "date": "2024-12-01 17:16:41",
+        "sentiment_score": -0.7181272264569998
+    },
+    {
+        "title": "Mucha Real para tan poco Betis",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ccf2404-bd6a-4cff-8c07-c854e6915a65_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/deportes/2024/12/01/real-resumen-jornada-15-laliga-112242414.html",
+        "date": "2024-12-01 22:13:13",
+        "sentiment_score": 0.11986881494522095
+    },
+    {
+        "title": "El Bernabéu y Ancelotti miman a Mbappé en el gol y en el error mientras Endrick se desespera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6fc39020-1a17-405c-94b6-cd1b1fbb9dc0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/deportes/2024/12/01/bernabeu-ancelotti-miman-mbappe-gol-real-madrid-112241742.html",
+        "date": "2024-12-01 21:42:25",
+        "sentiment_score": 0.5309482514858246
+    },
+    {
+        "title": "La pinya de l’abat Escarré (1987)",
+        "image_url": "https://static1.ara.cat/clip/820abda4-2c2d-4c2b-9048-e463769269bc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/pinya-l-abat-escarre-1987_1_5211520.html",
+        "date": "2024-12-01 22:00:48",
+        "sentiment_score": -0.2880560830235481
+    },
+    {
+        "title": "Ramírez guarda el champán y señala al cerebro de la gesta del 30-N: \"Helguera es el auténtico creador de esta UD\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50e3d9ee-a861-44c6-aac0-a89d7a50da77_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/12/01/ramirez-guarda-champan-senala-cerebro-112241714.html",
+        "date": "2024-12-01 21:59:21",
+        "sentiment_score": -0.010832756757736206
+    },
+    {
+        "title": "Al menos dos muertos al accidentarse un autobús en los Pirineos franceses",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/01/accidente-francia-pirineos-kWn-U230178971793itE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/sociedad/tres-muertos-accidentarse-autobus-pirineos-franceses-20241201224723-ntrc.html",
+        "date": "2024-12-01 21:57:34",
+        "sentiment_score": -0.8246099222451448
+    },
+    {
+        "title": "Málaga premia hoy a los mejores deportistas del año",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/535e96e6-e728-4955-b012-98ce7fa195ef_16-9-aspect-ratio_default_1341794.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2024/12/01/malaga-premia-hoy-mejores-deportistas-112241758.html",
+        "date": "2024-12-01 21:57:27",
+        "sentiment_score": 0.0001936107873916626
+    },
+    {
+        "title": "Dos heridos graves en un incendio en Cerdanyola del Vallès",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/467354b6-5e25-441a-865c-2c5246bbd323_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20241201/incendio-cerdanyola-valles-heridos-graves-112241305",
+        "date": "2024-12-01 21:57:25",
+        "sentiment_score": -0.8621592679992318
+    },
+    {
+        "title": "Al menos dos muertos y veintiocho heridos en el accidente de un autobús en los Pirineos",
+        "image_url": "https://www.laregion.es/media/laregion/images/2024/12/01/2024120122493333717.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.laregion.es/articulo/espanha/menos-muertos-veintiocho-heridos-accidente-autobus-pirineos/202412012253231350826.html",
+        "date": "2024-12-01 21:53:23",
+        "sentiment_score": -0.8165531773120165
+    },
+    {
+        "title": "Un Betis sin reacción pierde en Anoeta por un error en cadena y un penalti 'made in' LaLiga (2-0)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b64380e4-2478-4fe4-a045-142e540fa1e4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/betis/2024/12/01/liga-cronica-real-sociedad-betis-anoeta-112239946.html",
+        "date": "2024-12-01 21:50:00",
+        "sentiment_score": -0.6297856420278549
+    },
+    {
+        "title": "Accidente de autobús cerca de estación de esquí en Francia deja 2 muertos y al menos 33 heridos.",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/francia-autobus-choque-acantilado-barcelona-2c9cf4f3184f6cfa7a4d17281d862c38",
+        "date": "2024-12-01 21:49:37",
+        "sentiment_score": -0.7652802839875221
     }
 ];
