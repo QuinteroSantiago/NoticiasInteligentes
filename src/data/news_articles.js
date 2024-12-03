@@ -89,44 +89,6 @@ export default [
         "sentiment_score": -0.22783759236335754
     },
     {
-        "title": "“Convertir cenizas en arte”: así se ve la Catedral de Notre Dame por dentro tras años de restauración",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fast – news variety",
-            "parís",
-            "notre dame",
-            "francia",
-            "emmanuel macron",
-            "noticias culturales",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/primera-visita-catedral-notre-dame-paris-restauracion-cafe-tv/",
-        "date": "2024-11-29 13:54:11",
-        "sentiment_score": -0.41321465373039246
-    },
-    {
-        "title": "Notre Dame cinco años después del incendio, en vivo: noticias y fotos de la catedral por dentro",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/macron-notre-dame-GettyImages-2186774778-e1732888260428.jpg?quality=100&strip=info",
-        "tags": [
-            "notre dame",
-            "francia",
-            "minuto a minuto"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/29/notre-dame-imagenes-fotos-de-la-catedral-dentro-en-vivo-orix/",
-        "date": "2024-11-29 13:51:32",
-        "sentiment_score": -0.1282733976840973
-    },
-    {
-        "title": "Organizaciones internacionales critican la reforma de ampliación de prisión preventiva en México",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2170647547.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/criticas-reforma-ampliacion-prision-preventiva-mexico-cafe-tv/",
-        "date": "2024-11-29 13:41:25",
-        "sentiment_score": -0.21131347119808197
-    },
-    {
         "title": "El Constitucional aplaza hasta el lunes su decisión sobre la primera vuelta de las presidenciales",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/11/29/CalinGeorgescu-RrtMksQH3Gc93ImuhbZbm5O-1200x840@diario_abc.jpg",
         "tags": [
@@ -165,66 +127,6 @@ export default [
         "link": "https://www.abc.es/economia/iberia-lanza-billetes-euros-black-friday-destinos-20241129155251-nt.html",
         "date": "2024-11-29 14:52:51",
         "sentiment_score": -0.0596749484539032
-    },
-    {
-        "title": "Iberia Express lanza billetes con 50% de descuento por el Black Friday: destinos, cómo comprarlos y condiciones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/29/iberia-express-kiHE-U60342143663792E-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/iberia-express-lanza-billetes-descuento-black-friday-20241129141929-nt.html",
-        "date": "2024-11-29 13:24:38",
-        "sentiment_score": 0.03397610783576965
-    },
-    {
-        "title": "Amazon, líder indiscutible de las compras online en España, seguida de AliExpress y Zalando, según la CNMC",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/29/amazon-RkyH9KPzNSXlt9yI02FnY6H-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/amazon-lider-indiscutible-compras-online-espana-seguida-20241129135810-nt.html",
-        "date": "2024-11-29 12:58:11",
-        "sentiment_score": -0.05339066684246063
-    },
-    {
-        "title": "Consumo advierte de que en el último Black Friday el 70% de las ofertas de comercio electrónico eran falsas o engañosas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/11/29/blackfriday-RY25uSRVlGdAdelp9IvIeeI-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/consumo-advierte-ultimo-black-friday-ofertas-comercio-20241129122934-nt.html",
-        "date": "2024-11-29 11:50:13",
-        "sentiment_score": -0.16340778768062592
-    },
-    {
-        "title": "Amazon prepara el lanzamiento de Olympus, su IA para plantar cara a ChatGPT",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/11/29/amazon-reuters-RF9SxjRtfc6O0JgXW3vMeAM-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/amazon-prepara-lanzamiento-olympus-ia-plantar-cara-20241129121130-nt.html",
-        "date": "2024-11-29 11:11:31",
-        "sentiment_score": -0.026988863945007324
-    },
-    {
-        "title": "Irán mantendrá conversaciones con países europeos mientras aumentan las tensiones en materia nuclear en Oriente Próximo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/11/29/araghchi-RE5dQZlMHPsgC6kwZhagJQO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/iran-mantiene-conversaciones-nucleares-europeos-aumentan-tensiones-20241129103634-nt.html",
-        "date": "2024-11-29 10:54:39",
-        "sentiment_score": -0.16032883524894714
-    },
-    {
-        "title": "Por qué la renta fija seguirá siendo estratégica en las carteras en 2025",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/11/28/Dardo-diana-renta-fija-R0ylC0lMCXDi9yRxnO25VCJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/renta-fija-seguira-estrategica-carteras-2025-20241128135320-nt.html",
-        "date": "2024-11-29 10:48:20",
-        "sentiment_score": -0.043662041425704956
     },
     {
         "title": "Antonio Romero Ruiz, comunista integral andaluz",
@@ -348,58 +250,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-11-29/jordi-pujol-manifiesta-en-un-acto-publico-que-cataluna-no-sera-nunca-independiente.html",
         "date": "2024-11-29 14:31:36",
         "sentiment_score": 0.5594465211033821
-    },
-    {
-        "title": "Bomberos del Consorcio de Valencia: “Estábamos mal y la dana nos ha acabado de ahogar”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MGTJQ34JSTIOGXJAAFDWBP2JIQ.jpg?auth=69d78143bd47529a25fd5b088ce17a63a636b6b312fbea0c86054c50e92b6925&width=1200",
-        "tags": [
-            "diputación provincial valencia",
-            "inundaciones dana octubre 2024",
-            "sindicatos",
-            "bomberos",
-            "dana",
-            "trabajo",
-            "rescate víctimas",
-            "ugt",
-            "generalitat valenciana",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-11-29/estabamos-mal-y-la-dana-nos-ha-acabado-de-ahogar-denuncian-bomberos-de-ugt-en-el-consorcio-provincial-de-valencia.html",
-        "date": "2024-11-29 14:08:20",
-        "sentiment_score": -0.8938092654570937
-    },
-    {
-        "title": "Detenido por tercera vez el abogado Francisco Comitre acusado de otra veintena de estafas inmobiliarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3XP23IVEZ5G55BTGBYHZL2W4QU.jpg?auth=6d7f79fbb0be08c9a94213fb557f90430ef93922cb0ad6f48821a560040436c6&width=1200",
-        "tags": [
-            "abogados",
-            "estafas",
-            "investigación judicial",
-            "mossos d'esquadra",
-            "cataluña",
-            "detenciones",
-            "sector inmobiliario",
-            "investigación policial",
-            "notarios"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-29/detenido-por-tercera-vez-el-abogado-francisco-comitre-acusado-de-otra-veintena-de-estafas-inmobiliarias.html",
-        "date": "2024-11-29 13:45:52",
-        "sentiment_score": -0.7722301781177521
-    },
-    {
-        "title": "El PSC va al cónclave del PSOE con la convicción de que la financiación singular ya está blindada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YLCVNV2NCVTPREWYGZM7XHVKKQ.jpg?auth=8c853ce3b461e24943c5fac7805957018d3d3dfa8149a5683cb867b6a75d0806&width=1200",
-        "tags": [
-            "financiación",
-            "cataluña",
-            "psc",
-            "erc",
-            "barcelona",
-            "salvador illa"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-11-29/el-psc-va-al-conclave-del-psoe-con-la-conviccion-de-que-la-financiacion-singular-ya-esta-blindada.html",
-        "date": "2024-11-29 13:09:47",
-        "sentiment_score": -0.20858338475227356
     },
     {
         "title": "Descubre el curioso origen del nombre de esta ciudad española: ligado a un río y con referencia al pasado",
@@ -6555,5 +6405,356 @@ export default [
         "link": "https://www.eldiario.es/catalunya/viaje-bus-low-cost-andorra-termino-accidente-mortal-sacude-comunidad-colombiana-barcelona_1_11869643.html",
         "date": "2024-12-02 21:12:30",
         "sentiment_score": -0.2478199303150177
+    },
+    {
+        "title": "Las 3 noticias destacadas de la noche del 2 de diciembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187024222.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-la-noche-cnne-2-de-diciembre-2024-panorama-fast",
+        "date": "2024-12-03 02:11:11",
+        "sentiment_score": 0.16139279678463936
+    },
+    {
+        "title": "Estados Unidos se enfrenta a una situación difícil en Siria mientras grupos rebeldes avanzan contra el régimen de Assad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789783-c-2024-11-30t183106z-122041773-rc2pfbabwpcd-rtrmadp-3-syria-security-fd26dc.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "siria",
+            "aleppo",
+            "medio oriente",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/02/estados-unidos-situacion-dificil-siria-rebeldes-trax/",
+        "date": "2024-12-03 01:35:57",
+        "sentiment_score": -0.8612284306436777
+    },
+    {
+        "title": "Los demócratas quedaron furiosos por la decisión de Biden de indultar a su hijo, después de que él dijera repetidamente que no lo haría",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789826-joe-biden-hunter-indulto-democratas.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "hunter biden",
+            "indulto",
+            "joe biden",
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/02/democratas-furiosos-decision-biden-indultar-hijo-trax/",
+        "date": "2024-12-03 01:00:09",
+        "sentiment_score": -0.7754631713032722
+    },
+    {
+        "title": "Las reacciones al indulto de Joe Biden a su hijo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnne-1789830-las-reacciones-al-indulto-de-joe-biden-a-su-hijo.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/joe-hunter-biden-indulto-dusa-tv-2/",
+        "date": "2024-12-03 00:51:03",
+        "sentiment_score": -0.8034467939287424
+    },
+    {
+        "title": "Familiares de detenidos tras elecciones presidenciales en Venezuela piden a Maduro que los libere para Navidad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187266738.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/familiares-detenidos-venezuela-piden-adura-libere-para-navidad-perspectivas-mexico-tv",
+        "date": "2024-12-03 00:41:20",
+        "sentiment_score": -0.5152089223265648
+    },
+    {
+        "title": "Familiares de detenidos tras elecciones presidenciales en Venezuela piden a Maduro que los libere para Navidad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187266738.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/familiares-detenidos-venezuela-piden-adura-libere-para-navidad-perspectivas-mexico-tv/",
+        "date": "2024-12-03 00:41:20",
+        "sentiment_score": -0.34017299115657806
+    },
+    {
+        "title": "Analista: El diálogo entre Trump y Sheinbaum abre la puerta a ciertos niveles de colaboración en materia de seguridad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183351603-20241203002803538.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/panorama-nacional-materia-seguridad-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-03 00:34:34",
+        "sentiment_score": -0.034771233797073364
+    },
+    {
+        "title": "Las 3 noticias destacadas de la tarde del 2 de diciembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187259118.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-del-dia-cnne-15-de-diciembre-2024-pmx-tarde-fast",
+        "date": "2024-12-03 00:25:40",
+        "sentiment_score": 0.15076448768377304
+    },
+    {
+        "title": "Así fue la despedida de Juan Martín Del Potro del tenis profesional",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187272016.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/asi-fue-despedida-juan-martin-del-potro-tenis-deportes-tv",
+        "date": "2024-12-03 00:18:35",
+        "sentiment_score": -0.5164285991340876
+    },
+    {
+        "title": "Conoce a Kash Patel, el elegido por Trump para dirigir el FBI",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2177572342.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-patel-fbi-polemica-dusa-tv",
+        "date": "2024-12-03 00:16:05",
+        "sentiment_score": -0.021523892879486084
+    },
+    {
+        "title": "La realidad de Sánchez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.huelvainformacion.es/opinion/editorial/realidad-sanchez_0_2002913710.html",
+        "date": "2024-12-03 02:05:30",
+        "sentiment_score": -0.5137378498911858
+    },
+    {
+        "title": "El PSOE \"unge\" a Óscar López para ganar Madrid y Ayuso se mofa del sistema \"norcoreano\" de Sánchez para elegir a su rival",
+        "image_url": "https://s1.elespanol.com/2024/12/02/madrid/comunidad/905670059_251365355_1706x960.jpg?contentId=ESPIMA20241202_0635",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241203/psoe-unge-oscar-lopez-ganar-madrid-ayuso-mofa-sistema-norcoreano-sanchez-elegir-rival/905659842_0.html",
+        "date": "2024-12-03 01:45:43",
+        "sentiment_score": -0.06804981827735901
+    },
+    {
+        "title": "Del patrimonio de Casillas al refugio de Topuria: los \"secretos\" de Boadilla para captar famosos frente a La Finca o La Moraleja",
+        "image_url": "https://s1.elespanol.com/2024/12/02/madrid/comunidad/905670204_251369914_1706x960.jpg?contentId=ESPIMA20241202_0780",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241203/patrimonio-casillas-refugio-topuria-secretos-boadilla-captar-famosos-frente-finca-moraleja/905659893_0.html",
+        "date": "2024-12-03 01:45:39",
+        "sentiment_score": -0.9213993791490793
+    },
+    {
+        "title": "Biblioteca, refugio y recogimiento",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.eldebate.com/opinion/cartas-director/20241203/biblioteca-refugio-recogimiento_249947.html",
+        "date": "2024-12-03 00:30:00",
+        "sentiment_score": 0.020532406866550446
+    },
+    {
+        "title": "La triste vanidad",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.eldebate.com/opinion/cartas-director/20241203/triste-vanidad_249941.html",
+        "date": "2024-12-03 00:30:00",
+        "sentiment_score": -0.9150876644998789
+    },
+    {
+        "title": "La bandera arcoíris... o la del Real Madrid",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/02/08/65c41a4046e54.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241203/bandera-arcoiris-real-madrid_249939.html",
+        "date": "2024-12-03 00:30:00",
+        "sentiment_score": -0.16642042994499207
+    },
+    {
+        "title": "El Tribunal Supremo del Reino Unido",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.eldebate.com/opinion/cartas-director/20241203/tribunal-supremo-reino-unido_249954.html",
+        "date": "2024-12-03 00:30:00",
+        "sentiment_score": -0.173198364675045
+    },
+    {
+        "title": "'Callejeros: Detenido' | Programa, en vídeo (02/12/24)",
+        "image_url": "https://album.mediaset.es/eimg/2024/12/02/callejeros-17_5c3e.jpg?w=1024",
+        "tags": [
+            "televisión a la carta"
+        ],
+        "link": "https://www.cuatro.com/television/a-la-carta/20241203/callejeros-detenido-programa-completo-video_18_014179889.html",
+        "date": "2024-12-03 00:20:09",
+        "sentiment_score": 0.30886516720056534
+    },
+    {
+        "title": "Bautismo de Mbappé en La Catedral",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/12/02/mbappe-kUOC-U2301873848644lF-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/bautismo-mbappe-catedral-20241202010743-nt.html",
+        "date": "2024-12-03 00:19:34",
+        "sentiment_score": 0.1663808897137642
+    },
+    {
+        "title": "Llega el Real Madrid y surge el debate de los porteros en el Athletic",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/12/02/simon-agirrezabala-kNGD-U230187309870LiB-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/duda-porteria-debate-inesperado-visita-real-madrid-20241202011459-nt.html",
+        "date": "2024-12-03 00:14:59",
+        "sentiment_score": -0.7907775714993477
+    },
+    {
+        "title": "La americana XPO se hace fuerte en España",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/30/674b7943570bb.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241203/10158422/americana-xpo-fuerte-espana.html",
+        "date": "2024-12-03 02:00:00",
+        "sentiment_score": 0.856815367937088
+    },
+    {
+        "title": "La reconversión de Glovo deja a Uber Eats como única empresa de reparto con autónomos tres años después de la Ley Rider",
+        "image_url": "https://s1.elespanol.com/2024/12/02/invertia/observatorios/digital/905669937_251361619_1706x960.jpg?contentId=ESPIMA20241202_0513",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/digital/20241203/reconversion-glovo-deja-uber-eats-unica-empresa-reparto-autonomos-anos-despues-ley-rider/905659828_0.html",
+        "date": "2024-12-03 01:50:04",
+        "sentiment_score": 0.49103610031306744
+    },
+    {
+        "title": "Adiós a los mitos de la Inquisición: fue una \"central de inteligencia\" para proteger a la Monarquía Hispánica",
+        "image_url": "https://s1.elespanol.com/2020/05/15/cultura/historia/historia-inquisicion-religion_490211662_251362408_1706x960.jpg?contentId=ESPIMA20200515_0688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20241203/adios-mitos-inquisicion-central-inteligencia-proteger-monarquia-hispanica/905659596_0.html",
+        "date": "2024-12-03 01:42:37",
+        "sentiment_score": 0.31489297747612
+    },
+    {
+        "title": "La amistad de Silvia Pinal con Victoriano Valencia, el padre de Paloma Cuevas: un 'affaire' y la reacción de él a su muerte",
+        "image_url": "https://s1.elespanol.com/2024/12/02/corazon/famosos/905669854_251359073_1706x960.jpg?contentId=ESPIMA20241202_0430",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241203/amistad-silvia-pinal-victoriano-valencia-padre-paloma-cuevas-affaire-reaccion-muerte/905659768_0.html",
+        "date": "2024-12-03 01:24:53",
+        "sentiment_score": -0.49791980534791946
+    },
+    {
+        "title": "Susana Berniola, nueva líder sindical del Barça, acaba con 25 años de Jaume Feliu como representante de los trabajadores",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/03/culemania/palco/905919400_13810000_1706x960.jpg?contentId=ESPIMA20241203_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241203/susana-berniola-barca-de-jaume-feliu-representante/905909401_0.html",
+        "date": "2024-12-03 01:01:31",
+        "sentiment_score": -0.08850295096635818
+    },
+    {
+        "title": "Los 10 motivos de la oposición del Barça para volver a la carga contra Laporta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/02/culemania/palco/905669605_13809899_1706x960.jpg?contentId=ESPIMA20241202_0181",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241203/los-motivos-la-oposicion-barca-volver-laporta/905659555_0.html",
+        "date": "2024-12-03 00:54:46",
+        "sentiment_score": 0.15359871089458466
+    },
+    {
+        "title": "Yolanda Díaz retrasa a mediados de 2025 la aplicación de la nueva jornada laboral reducida",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/12/03/yolanda-diaz-ep-kbCB-U230188942525G5-1200x840@RC.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.leonoticias.com/economia/trabajo/yolanda-diaz-retrasa-mediados-2025-aplicacion-nueva-20241203011233-ntrc.html",
+        "date": "2024-12-03 00:48:14",
+        "sentiment_score": -0.3614041358232498
+    },
+    {
+        "title": "Alarma en Baleares al duplicarse en un año la llegada de pateras: ya van más de 5.000 personas y cada vez se 'cazan' más lanchas rápidas",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/4a359dca9f9ef8a84cc99b7d94e7b471/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/02/17331661318954.jpg",
+        "tags": [
+            "artículos eduardo colom"
+        ],
+        "link": "https://www.elmundo.es/baleares/2024/12/03/674e0598e9cf4a84458b4817.html",
+        "date": "2024-12-03 00:46:38",
+        "sentiment_score": -0.3825090229511261
+    },
+    {
+        "title": "Más de quince entidades presentarán alegaciones contra la opa de BBVA sobre Sabadell",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/411d82ab00401681d8620bd7ce0d81db/crop/0x0/2048x1362/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/04/17200792061458.jpg",
+        "tags": [
+            "banca>"
+        ],
+        "link": "https://www.expansion.com/empresas/banca/2024/12/03/674e12ed468aeb616a8b458d.html",
+        "date": "2024-12-03 00:30:53",
+        "sentiment_score": 0.014909103512763977
     }
 ];
