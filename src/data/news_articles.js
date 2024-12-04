@@ -1,148 +1,5 @@
 export default [
     {
-        "title": "La vida de lujo de Isak Andic, dueño de Mango: tres hijos y una novia española que es golfista",
-        "image_url": "https://theobjective.com/wp-content/uploads/2024/11/isak-andik-mango-150x150.jpg",
-        "tags": [
-            "negocios",
-            "mango",
-            "reina letizia",
-            "gente",
-            "celebrities",
-            "revista forbes",
-            "moda"
-        ],
-        "link": "https://theobjective.com/gente/2024-11-30/vida-lujo-isak-andic-dueno-mango/",
-        "date": "2024-11-30 06:30:00",
-        "sentiment_score": 0.6151625066995621
-    },
-    {
-        "title": "Este es el barrio de Madrid donde más veces ha tocado el Gordo de Navidad",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/11/25/bombo-de-la-loteria-de-navidad-8707.jpeg",
-        "tags": [
-            "life"
-        ],
-        "link": "https://www.huffingtonpost.es/life/este-barrio-madrid-mas-veces-tocado-gordo-navidad.html",
-        "date": "2024-11-30 06:06:41",
-        "sentiment_score": 0.2404622584581375
-    },
-    {
-        "title": "Todo, con todos y en todo momento",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e93e29be-f61a-498e-a512-acd57c487df4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.deia.eus/opinion/tribuna-abierta/2024/11/30/momento-8995331.html",
-        "date": "2024-11-30 06:05:29",
-        "sentiment_score": -0.8676935285329819
-    },
-    {
-        "title": "Cuatro días para constatar que las bodas son para (casi) toda la vida",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dda75686-ec9c-497a-a795-50d16bd0bd8b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/tenerife/2024/11/30/cuatro-dias-constatar-bodas-son-112194783.html",
-        "date": "2024-11-30 06:01:24",
-        "sentiment_score": 0.2200269103050232
-    },
-    {
-        "title": "Lottin, el gemelo tuercebotas de Mbappé, no convence al Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/67afef93-ff32-48f9-a13c-26b48a5ba901_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/extra/20241130/lottin-gemelo-tuercebotas-mbappe-convence-112142681",
-        "date": "2024-11-30 06:00:27",
-        "sentiment_score": -0.9120216639712453
-    },
-    {
-        "title": "Hace 25 años | La Casa de las Plantas se trasladará de Eirís al monte de San Pedro",
-        "image_url": "https://www.elidealgallego.com/images/showid/7069715",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elidealgallego.com/articulo/a-coruna/hace-25-anos-casa-plantas-trasladara-eiris-monte-san-pedro-5090415",
-        "date": "2024-11-30 06:00:00",
-        "sentiment_score": -0.07049623131752014
-    },
-    {
-        "title": "La Real planea hacer un stage en Madrid",
-        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/11/29/unnamed-kDgE-U230163865027nlD-1200x840@Diario%20Vasco.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/real-sociedad/real-planea-stage-madrid-20241130065651-nt.html",
-        "date": "2024-11-30 05:57:06",
-        "sentiment_score": 0.03634916618466377
-    },
-    {
-        "title": "Selectra traslada parte de su sede corporativa a Sevilla y prevé doblar el empleo en Andalucía",
-        "image_url": "https://static.grupojoly.com/clip/e0549362-35fc-4b5e-a96c-1e1896b66b5e_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.huelvainformacion.es/economia/selectra-traslada-parte-sede-corporativa_0_2002897259.html",
-        "date": "2024-11-30 05:54:36",
-        "sentiment_score": 0.6464336607605219
-    },
-    {
-        "title": "Begoña Gómez registró la marca del software 4 días después de avisarle la Complutense que era «100% UCM»",
-        "image_url": "https://okdiario.com/img/2024/11/30/begona-gomez-registro-la-marca-del-software-interior.jpg",
-        "tags": [
-            "begoña gómez",
-            "pedro sánchez",
-            "psoe",
-            "españa",
-            "gobierno"
-        ],
-        "link": "https://okdiario.com/espana/begona-gomez-registro-marca-del-software-4-dias-despues-avisarle-complutense-que-era-100-ucm-13902076",
-        "date": "2024-11-30 05:49:01",
-        "sentiment_score": -0.24674055725336075
-    },
-    {
-        "title": "\"Óscar López está metido hasta el cuello en esta operación delictiva e igual puede ir pa'lante\"",
-        "image_url": "https://s.libertaddigital.com/2024/11/29/juan-lobato-efe-2-291124.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2024-11-30/oscar-lopez-esta-metido-hasta-el-cuello-en-esta-operacion-delictiva-e-igual-puede-ir-palante-7192577/",
-        "date": "2024-11-30 05:45:29",
-        "sentiment_score": -0.949890342541039
-    },
-    {
-        "title": "La casa de Julia Otero en Barcelona con piscina, salón abierto a la cocina y flores",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/11/casa-sonia-ferrer-madrid-469x317.jpeg",
-        "tags": [
-            "julia otero",
-            "celebrities",
-            "gente",
-            "casas"
-        ],
-        "link": "https://theobjective.com/gente/2024-11-30/casa-julia-otero-barcelona-piscina-flores/",
-        "date": "2024-11-30 06:30:00",
-        "sentiment_score": 0.08705301582813263
-    },
-    {
-        "title": "Arte rumbo a Sevilla",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/22f4ab2e-6724-460d-9501-386757857ead_source-aspect-ratio_default_0.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/opinion/mesa-de-redaccion/2024/11/30/arte-rumbo-sevilla-8995800.html",
-        "date": "2024-11-30 06:05:29",
-        "sentiment_score": -0.04116004705429077
-    },
-    {
-        "title": "«Qué eneatipo eres en esencia no es tanto lo que se manifiesta fuera sino tu motivación»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8e7b6c14-b2b6-4da1-aaff-c2f1c2f1a227_16-9-aspect-ratio_default_0_x232y194.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeibiza.es/cultura/2024/11/30/eneatipo-esencia-manifiesta-fuera-motivacion-112197858.html",
-        "date": "2024-11-30 06:01:40",
-        "sentiment_score": -0.10895492136478424
-    },
-    {
         "title": "Las FDI lanzan nuevo ataque en el sur del Líbano en medio del acuerdo de alto el fuego",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788941-lebanon-israel-palestinian-conflict-ceasefire.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -251,22 +108,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/11/30/canal-explosion-kosovo-central-electrica-reux/",
         "date": "2024-11-30 10:28:53",
         "sentiment_score": -0.9178241388872266
-    },
-    {
-        "title": "Los aranceles de Trump podrían hacer subir el precio de tu cerveza y tequila favoritos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/aranceles-e1732955422316.jpg?quality=100&strip=info",
-        "tags": [
-            "aranceles",
-            "economía de estados unidos",
-            "tequila",
-            "cerveza",
-            "negocios",
-            "noticias de donald trump",
-            "economía méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/11/30/trump-tarifa-cerveza-tequila-trax/",
-        "date": "2024-11-30 09:51:48",
-        "sentiment_score": -0.4958055168390274
     },
     {
         "title": "¿Por qué somos sevillanos?",
@@ -5913,5 +5754,518 @@ export default [
         "link": "https://cincodias.elpais.com/economia/2024-12-03/las-universidades-de-madrid-y-cataluna-son-las-que-reciben-menos-financiacion.html",
         "date": "2024-12-03 16:55:59",
         "sentiment_score": -0.2933547794818878
+    },
+    {
+        "title": "Jaguar revela su primer auto conceptual tras un controvertido cambio de identidad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/fj-hero-imagery-16x9-sp.webp",
+        "tags": [
+            "instanoticias",
+            "jaguar",
+            "empresas"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/03/jaguar-primer-concept-car-cambio-identidad-trax/",
+        "date": "2024-12-03 22:11:18",
+        "sentiment_score": 0.2214183807373047
+    },
+    {
+        "title": "Trump bromea con Trudeau y le dice que Canadá debería convertirse en el estado número 51 de EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1790333-20241129-trump-trudeau.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "instanoticias",
+            "donald trump",
+            "justin trudeau"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/03/trump-bromea-trudeau-canada-estado-51-trax/",
+        "date": "2024-12-03 21:35:38",
+        "sentiment_score": -0.41015268862247467
+    },
+    {
+        "title": "Ricky Martin encabeza concierto por el Día Mundial de la lucha contra el SIDA",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/showbiz-10.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ricky-martin-concierto-dia-mundial-sida-showbiz",
+        "date": "2024-12-03 21:16:07",
+        "sentiment_score": 0.033390797674655914
+    },
+    {
+        "title": "Cómo aumentarían los precios de productos electrónicos con los aranceles de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1870879781.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "presidencia ee.uu.",
+            "aranceles",
+            "aumento de precios",
+            "donald trump jr.",
+            "xpress",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aumento-precios-telefonos-electrodomesticos-aranceles-computadoras-tabletas-ush/",
+        "date": "2024-12-03 21:11:37",
+        "sentiment_score": -0.01908940076828003
+    },
+    {
+        "title": "Cómo aumentarían los precios de productos electrónicos con los aranceles de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1870879781.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aumento-precios-telefonos-electrodomesticos-aranceles-computadoras-tabletas-ush",
+        "date": "2024-12-03 21:11:37",
+        "sentiment_score": -0.35790590569376945
+    },
+    {
+        "title": "Los soldados ucranianos tienen tres segundos para derribar un dron de ataque ruso",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ukraine-20241202182747741-20241203210511933.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra de rusia en ucrania",
+            "ucrania",
+            "vladimir putin"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/soldados-ucrania-dron-rusia-trump-trax/",
+        "date": "2024-12-03 21:07:21",
+        "sentiment_score": -0.587871003895998
+    },
+    {
+        "title": "Los soldados ucranianos tienen tres segundos para derribar un dron de ataque ruso",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ukraine-20241202182747741-20241203210511933.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/soldados-ucrania-dron-rusia-trump-trax",
+        "date": "2024-12-03 21:07:21",
+        "sentiment_score": -0.49682096391916275
+    },
+    {
+        "title": "Así será la Conferencia de Acción Política Conservadora (CPAC) en Argentina: presentes, ausentes y principales oradores",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1790320-conservatives-gather-for-annual-cpac-conference.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina",
+            "javier milei"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/03/conferencia-accion-politica-conservadora-cpac-argentina-orix/",
+        "date": "2024-12-03 20:58:56",
+        "sentiment_score": 0.13478407636284828
+    },
+    {
+        "title": "Javier Mascherano y sus primeras declaraciones como técnico del Inter Miami",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188064328.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top",
+            "sports",
+            "technology",
+            "business",
+            "science",
+            "entertainment",
+            "health",
+            "world",
+            "politics",
+            "environment",
+            "tourism",
+            "education"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/javier-mascherano-tecnico-inter-miami-deportes-tv",
+        "date": "2024-12-03 20:55:25",
+        "sentiment_score": 0.05606231093406677
+    },
+    {
+        "title": "Exhiben en Munich el árbol de Navidad más caro de Europa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/arbol-20241203202740882.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/europa-munich-arbol-mas-caro-redaccion-buenos-aires-tv/",
+        "date": "2024-12-03 20:33:18",
+        "sentiment_score": -0.07125186920166016
+    },
+    {
+        "title": "Miente, que algo queda",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/28/labodega-vinoartesaal-kMEG--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-diaz-miente-queda-20241204214217-nts.html",
+        "date": "2024-12-03 20:45:56",
+        "sentiment_score": -0.031536757946014404
+    },
+    {
+        "title": "La crisis en Corea del Sur pilló por sorpresa a la Administración Biden",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/03/suk-biiden-Rl0EE7KTgtu5ZB4u97eAhQJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/crisis-corea-sur-pillo-sorpresa-administracion-biden-20241203213425-nt.html",
+        "date": "2024-12-03 20:39:52",
+        "sentiment_score": -0.13395167887210846
+    },
+    {
+        "title": "Corea del Sur vive su propio 23-F",
+        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/huelva/2024/12/03/foto-cumbre-portugal-U81408342053gZq-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-democracia-sale-20241204201947-nt.html",
+        "date": "2024-12-03 20:05:16",
+        "sentiment_score": -0.10213175415992737
+    },
+    {
+        "title": "La bandera blanca y verde",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/02/arcos_20241202105726-U74725050106xxH-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/bandera-blanca-verde-20241204114902-nts.html",
+        "date": "2024-12-03 19:29:22",
+        "sentiment_score": 0.00877445936203003
+    },
+    {
+        "title": "La superstición tecnológica",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/11/29/correos-U26611416646Dsc-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/supersticion-tecnologica-20241204150657-nts.html",
+        "date": "2024-12-03 19:28:36",
+        "sentiment_score": -0.14301404356956482
+    },
+    {
+        "title": "Sevilla, ciudad de Dios",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/04/tribuna-RLyfCzE6lhNCh2TXlNvvoHM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/pablo-borrallo-sevilla-ciudad-dios-20241204202504-nts.html",
+        "date": "2024-12-03 19:28:00",
+        "sentiment_score": 0.01398894190788269
+    },
+    {
+        "title": "Discrepancias entre los expertos del plan para que los menores de 6 años no usen pantallas: «Fue difundido sin consenso»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/04/nios-moviles-RcIe63erFOH1usa0cFru1qL-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/discrepancias-expertos-plan-evitar-menores-anos-usen-20241204181325-nt.html",
+        "date": "2024-12-03 19:04:19",
+        "sentiment_score": -0.10082538425922394
+    },
+    {
+        "title": "La oposición siria prosigue su avance con el asalto de Hama",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/03/SIRIA-RGvwiqwBjozxBCNQtUymoLO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/oposicion-siria-prosigue-avance-asalto-hama-20241203192132-nt.html",
+        "date": "2024-12-03 18:21:32",
+        "sentiment_score": -0.11584573984146118
+    },
+    {
+        "title": "La OTAN da largas a Ucrania a la espera de la llegada de Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/03/rutte-RPfL1G8DpcLpeJw7iIoo5UL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/otan-largas-ucrania-espera-llegada-trump-20241203190128-nt.html",
+        "date": "2024-12-03 18:01:28",
+        "sentiment_score": -0.0756191611289978
+    },
+    {
+        "title": "1980: la última ley marcial declarada tras la muerte del dictador Park Chung Hee que desató una ola de protestas para democratizar el país",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/03/corea5-kF0G-U603442656729bfE-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/1980-ultima-ley-marcial-declarada-tras-muerte-20241203184615-nt.html",
+        "date": "2024-12-03 17:46:15",
+        "sentiment_score": -0.16993218660354614
+    },
+    {
+        "title": "CaixaForum+ estrena un documental sobre Toresky, el popular y pionero locutor de Ràdio Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T6UZMPBKSBDKHGF3ZCHFY2EOWA.jpg?auth=650ae59acebc4093dacdc32e0cf4fb9f495196f56380b40abcc1d05ba7c5528c&width=1200",
+        "tags": [
+            "medios comunicación",
+            "periodismo",
+            "ràdio barcelona",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-03/caixaforum-estrena-un-documental-sobre-toresky-el-popular-y-pionero-locutor-de-radio-barcelona.html",
+        "date": "2024-12-03 20:41:19",
+        "sentiment_score": 0.5322706028819084
+    },
+    {
+        "title": "Convocada una huelga de la limpieza en Barcelona de tres días durante las fiestas navideñas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QPWKS2GXHVHHTGTIERKRTO7QLM.jpg?auth=f62e46ef8ddfde9dc2abe62bc6f213fa1d94ae78dd952e5199367c4041f3f47a&width=1200",
+        "tags": [
+            "huelgas",
+            "laia bonet",
+            "ayuntamientos",
+            "jaume collboni",
+            "limpieza",
+            "cataluña",
+            "basura",
+            "psc"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-03/convocada-una-huelga-de-la-limpieza-en-barcelona-de-tres-dias-durante-las-fiestas-navidenas.html",
+        "date": "2024-12-03 20:19:22",
+        "sentiment_score": -0.12572576105594635
+    },
+    {
+        "title": "El PP asedia a la vicepresidenta Aagesen en su estreno en el Senado: “Es usted como Sánchez”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/76X5PNIJGYBN7HUCHX7KLWGOVU.jpg?auth=4864bebc3a7018a77813875e744abfe3aa14484f0c006ff602ead0feab6c9a97&width=1200",
+        "tags": [
+            "óscar lópez",
+            "senado",
+            "pp",
+            "sesiones control gobierno",
+            "españa",
+            "sara aagesen",
+            "alfonso serrano"
+        ],
+        "link": "https://elpais.com/espana/2024-12-03/el-pp-asedia-a-la-vicepresidenta-aagesen-en-su-estreno-en-el-senado-es-usted-como-sanchez.html",
+        "date": "2024-12-03 19:34:56",
+        "sentiment_score": -0.8934175409376621
+    },
+    {
+        "title": "La ley marcial sorprende a una delegación de Turismo andaluza en Seúl: “Estamos tranquilos, pero no sabemos cuál es la situación”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LEJOTE5ZKJBQVMAFRKILGP7F4Q.JPG?auth=8fe9c383be8d33ab38b4863a7150c420338848898775056e16d4f100fec200a6&width=1200",
+        "tags": [
+            "corea",
+            "parlamento",
+            "política",
+            "corea del sur",
+            "españoles extranjero",
+            "corea del norte",
+            "ley marcial",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-03/la-polemica-ley-marcial-sorprende-a-una-delegacion-de-turismo-andaluza-en-seul-estamos-tranquilos-pero-no-sabemos-cual-es-la-situacion.html",
+        "date": "2024-12-03 19:19:03",
+        "sentiment_score": -0.5510448701679707
+    },
+    {
+        "title": "La exclusión social en España afecta a 9,4 millones de personas, un 16% más que antes de la crisis de 2008",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/A6JU3NKF3RAZZDZ7TEM5QAUX54.jpg?auth=02dba73ab76025ff56c0579ef73c22dc62422a73be49ea3d917e8b7fedac667d&width=1200",
+        "tags": [
+            "donaciones humanitarias",
+            "salarios",
+            "cáritas diocesana",
+            "pobreza",
+            "pobreza infantil",
+            "economía",
+            "familia",
+            "vivienda",
+            "desigualdad social",
+            "trabajo",
+            "desigualdad económica"
+        ],
+        "link": "https://elpais.com/economia/2024-12-03/la-exclusion-social-en-espana-afecta-a-94-millones-de-personas-un-16-mas-que-antes-de-la-crisis-de-2008.html",
+        "date": "2024-12-03 18:24:48",
+        "sentiment_score": -0.612920606508851
+    },
+    {
+        "title": "Los comunes exigen un aumento de “al menos un 50%” de la tasa turística para aprobar los Presupuestos catalanes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MFUZTZKTDNH4TODHWSD46S745I.jpg?auth=b4159b9119913f10457eae023038349420f679f974a526176b1d343a3eedb607&width=1200",
+        "tags": [
+            "parlament cataluña",
+            "política",
+            "salvador illa",
+            "política vivienda",
+            "jéssica albiach",
+            "marta vilalta",
+            "generalitat cataluña",
+            "presupuestos autonómicos",
+            "cataluña",
+            "vivienda",
+            "erc",
+            "psc",
+            "cat en comú"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-03/los-comunes-exigen-un-aumento-de-al-menos-un-50-de-la-tasa-turistica-para-aprobar-los-presupuestos-catalanes.html",
+        "date": "2024-12-03 18:21:01",
+        "sentiment_score": 0.007747732102870941
+    },
+    {
+        "title": "Municipios de la dana, en el Congreso: “Lo más urgente es devolver la confianza en las instituciones”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4OGUVWBRFJGF5FIQMKN2EY2SK4.jpg?auth=2ad6240f6a88de4300f0fb6fb97a96019e6b112a12fb5b85be7753fa57d0a22e&width=1200",
+        "tags": [
+            "tribunal de las aguas valencia",
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "inundaciones",
+            "orihuela",
+            "congreso diputados",
+            "utiel",
+            "españa",
+            "cheste",
+            "albal",
+            "generalitat valenciana",
+            "alaquàs"
+        ],
+        "link": "https://elpais.com/espana/2024-12-03/municipios-de-la-dana-en-el-congreso-lo-mas-urgente-es-devolver-la-confianza-en-las-instituciones.html",
+        "date": "2024-12-03 17:15:01",
+        "sentiment_score": -0.8692555697634816
+    },
+    {
+        "title": "Crystal Palace vence 1-0 a Ipswich en la Premier. Guehi desafía a la FA con mensaje en brazalete",
+        "image_url": "https://dims.apnews.com/dims4/default/fcec07d/2147483647/strip/true/crop/3500x1969+0+166/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2F6f%2F481c578b35863f9bafde8e825d93%2F2fa7ad91e10a48939dd882fa0e452dde",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/leicester-vardy-nistelrooy-west-ham-palace-ipswich-940a06ad88a83a4ccca6b761aa25d2ec",
+        "date": "2024-12-03 21:53:28",
+        "sentiment_score": 0.09240390360355377
+    },
+    {
+        "title": "Alerta Policía: Podrían hacerse pasar por ti desde tu WhatsApp",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1132678",
+        "date": "2024-12-03 21:30:30",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Un Unicaja de récord ya está en el Round-16 de la BCL tras ganar 98-82 a Filou Ostende",
+        "image_url": "https://s1.elespanol.com/2024/12/03/malaga/deporte/unicaja/905920421_251403083_1706x960.jpg?contentId=ESPIMA20241203_1022",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20241203/unicaja-record-round-16-bcl-ganar-filou-ostende/1003623677597_29.html",
+        "date": "2024-12-03 21:28:02",
+        "sentiment_score": 0.7200392633676529
+    },
+    {
+        "title": "El Unicaja pone rumbo al Round of 16 por la puerta grande (98-82)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b28a61f3-0a79-4d96-86e7-ea5a91361677_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2024/12/03/unicaja-pone-rumbo-round-cronica-oostende-bcl-112304270.html",
+        "date": "2024-12-03 21:24:32",
+        "sentiment_score": 0.3997160270810127
+    },
+    {
+        "title": "Peñarroya, señalado: el Barça de basket pierde por la mínima en Atenas tras otro mal partido en defensa",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/03/culemania/secciones/905919611_13816378_1706x960.jpg?contentId=ESPIMA20241203_0212",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20241203/penarroya-senalado-barca-en-atenas-partido-defensa/905909534_0.html",
+        "date": "2024-12-03 21:21:56",
+        "sentiment_score": 0.4572863429784775
+    },
+    {
+        "title": "El Real Madrid cae con polémica ante el Villeurbanne y prolonga su calvario fuera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5e35131f-33bb-47b2-b86d-de52cd6c420f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2024/12/03/real-madrid-cae-polemica-villeurbanne-112305449.html",
+        "date": "2024-12-03 21:20:26",
+        "sentiment_score": -0.7656800858676434
+    },
+    {
+        "title": "Hansi Flick: \"Esta vez me pone contento haber metido cinco goles\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/03/culemania/primer-equipo/905919609_13816320_1706x960.jpg?contentId=ESPIMA20241203_0210",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241203/hansi-flick-esta-contento-haber-metido-cinco/905909535_0.html",
+        "date": "2024-12-03 22:16:54",
+        "sentiment_score": 0.7115597501397133
+    },
+    {
+        "title": "El postre con miel que preparan en Oviedo y ha enamorado a Michelin",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/12/03/cocina-cabal-postre-kzMH-U230198518440e6E-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/gastronomia/postre-miel-preparan-oviedo-enamorado-michelin-20241203231247-nt.html",
+        "date": "2024-12-03 22:12:56",
+        "sentiment_score": 0.6463629007339478
+    },
+    {
+        "title": "Prohens revela que sufre esclerosis múltiple desde su juventud",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/12/03/marga-prohens-congreso-kloE-U230198781318ZPE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/nacional/prohens-revela-sufre-esclerosis-multiple-juventud-20241203231000-ntrc.html",
+        "date": "2024-12-03 22:10:01",
+        "sentiment_score": -0.6686116922646761
+    },
+    {
+        "title": "Prohens revela que sufre esclerosis múltiple desde su juventud",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/12/03/marga-prohens-congreso-kloE-U230198781318ZPE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/politica/prohens-revela-sufre-esclerosis-multiple-juventud-20241203231000-ntrc.html",
+        "date": "2024-12-03 22:10:01",
+        "sentiment_score": 0.12477843463420868
+    },
+    {
+        "title": "Prohens revela que padece esclerosis múltiple desde los 19 años: \"No lo había contado antes por pudor\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/03/marga-prohens-en-el-video-donde-cuenta-que-padece-esclerosis-multiple.png",
+        "tags": [
+            "baleares"
+        ],
+        "link": "https://www.20minutos.es/noticia/5660628/0/marga-prohens-revela-que-padece-esclerosis-multiple-desde-los-19-anos-jamas-habia-contado-antes-por-pudor/",
+        "date": "2024-12-03 22:02:31",
+        "sentiment_score": -0.09015143290162086
+    },
+    {
+        "title": "Oasi evaporat (1994)",
+        "image_url": "https://static1.ara.cat/clip/0944c658-0924-4a07-aeff-57273b6ae042_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/oasi-evaporat-1994_1_5218650.html",
+        "date": "2024-12-03 22:00:54",
+        "sentiment_score": -0.30853115767240524
+    },
+    {
+        "title": "El CEO de Glovo declara ante la jueza que solo contrata a sus repartidores para evitarse conflictos legales",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c36704e7-f840-4bbb-a932-5fd23753b53e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/videos/economia/2024/12/03/ceo-glovo-declara-jueza-contrata-112306167.html",
+        "date": "2024-12-03 22:00:46",
+        "sentiment_score": -0.8567268457263708
     }
 ];
