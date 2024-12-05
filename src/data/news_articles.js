@@ -1,269 +1,5 @@
 export default [
     {
-        "title": "Manifestantes protestan por tercera noche consecutiva en Georgia tras suspensión de conversaciones sobre adhesión a la Unión Europea",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789203-copia-de-foto-para-wp-2024-12-01t095037-224.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "georgia",
-            "unión europea",
-            "europa"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/manifestantes-tercera-noche-protestas-georgia-union-europea/",
-        "date": "2024-12-01 16:34:22",
-        "sentiment_score": -0.683454304933548
-    },
-    {
-        "title": "Mujer australiana encontró una mortal serpiente tigre a sus pies mientras conducía a 80 kilómetros por hora",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/Australia.jpg?quality=100&strip=info",
-        "tags": [
-            "serpientes",
-            "australia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/mujer-australiana-serpiente-tigre-mortal-mientras-conducia-80-km-h/",
-        "date": "2024-12-01 16:01:40",
-        "sentiment_score": -0.41193779185414314
-    },
-    {
-        "title": "Israel mantiene \"plena libertad operativa\" para actuar contra Hezbollah a pesar del alto el fuego, dice ministro",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789185-israel-hezbollah-alto-el-fuego-ministro-finanzas.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medio oriente",
-            "hezbollah",
-            "alto el fuego",
-            "israel"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/israel-libertad-operativa-hezbollah-alto-el-fuego-ministro-trax/",
-        "date": "2024-12-01 15:17:43",
-        "sentiment_score": 0.09709291160106659
-    },
-    {
-        "title": "El América avanza a semifinales y sigue en busca del tricampeonato en México",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187632367.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "top",
-            "sports",
-            "technology",
-            "business",
-            "science",
-            "entertainment",
-            "health",
-            "world",
-            "politics",
-            "environment",
-            "tourism",
-            "education"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/club-america-toluca-liguilla-cuartos-de-final-liga-mx-futbol-cnn-deportes-tv",
-        "date": "2024-12-01 15:10:21",
-        "sentiment_score": 0.4923983924090862
-    },
-    {
-        "title": "La carrera para reflotar el superyate Bayesian en Sicilia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/reflotar-yate-bayesian-sicilia.jpg?quality=100&strip=info",
-        "tags": [
-            "barco",
-            "italia",
-            "sicilia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/carrera-reflotar-superyate-bayesian-sicilia-trax/",
-        "date": "2024-12-01 14:35:18",
-        "sentiment_score": -0.24709729850292206
-    },
-    {
-        "title": "El 'Pepedeclarante' ante el Senado",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/01/1489328054-RfmmIm8NONFKvptCJy723qM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/john-muller-pepedeclarante-ante-senado-20241201171835-nt.html",
-        "date": "2024-12-01 17:09:26",
-        "sentiment_score": -0.14706695079803467
-    },
-    {
-        "title": "Mi madre, mi ejemplo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/02/madre-jimenez-becerril_20241201162851-RUAvYO7VwVfMrGx8TS1epXK-1200x840@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/teresa-jimenezbecerril-madre-ejemplo-20241202163004-nts.html",
-        "date": "2024-12-01 16:55:36",
-        "sentiment_score": -0.059528648853302
-    },
-    {
-        "title": "El vino",
-        "image_url": "https://s1.ppllstatics.com/burgosconecta/www/multimedia/2024/11/20/covarrubias-kQt--170x119@Burgosconecta.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-vino-20241202161409-nts.html",
-        "date": "2024-12-01 16:54:35",
-        "sentiment_score": 0.01704081892967224
-    },
-    {
-        "title": "La nueva jefa de la diplomacia europea comienza su mandato con una visita simbólica a Kiev",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/01/zelenski-kallas-costa-Rj1x2c1PwM6TQ4zLlOeMaVM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nueva-jefa-diplomacia-europea-comienza-mandato-visita-20241201173645-nt.html",
-        "date": "2024-12-01 16:46:49",
-        "sentiment_score": 0.007063806056976318
-    },
-    {
-        "title": "Sánchez evita dar una señal clara de apoyo a Espadas para que siga al frente del PSOE andaluz",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DPBMCNLTY5EMLFKZ4JWN2HQRIQ.jpg?auth=9e80e00ed2ab93d7d349f8ac3dbbe4b95160324d177ab602d9f1d110d1ad4fd0&width=1200",
-        "tags": [
-            "españa",
-            "psoe-a",
-            "junta de andalucía",
-            "juan espadas cejas",
-            "sociedad",
-            "primarias psoe",
-            "andalucía"
-        ],
-        "link": "https://elpais.com/espana/2024-12-01/sanchez-evita-dar-una-senal-clara-de-apoyo-a-espadas-para-que-siga-al-frente-del-psoe-andaluz.html",
-        "date": "2024-12-01 14:21:15",
-        "sentiment_score": 0.8095816262066364
-    },
-    {
-        "title": "El Real Madrid ya huele el liderato",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/221a2b95-d9ce-e515-f6f218b294ed6d69.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z20fa63fb-9c28-ad67-54e2ec12937849f0/202412/el-real-madrid-ya-huele-el-liderato",
-        "date": "2024-12-01 17:09:23",
-        "sentiment_score": 0.19989703595638275
-    },
-    {
-        "title": "La esperanza de vida de la mujer da un vuelco para las que han sido madres a partir de los 35 años",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/01/una-imagen-de-archivo-de-un-bebe-recien-nacido-y-su-madre.jpeg",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://www.huffingtonpost.es/life/salud/la-esperanza-vida-mujer-da-vuelco-han-sido-madres-partir-35nos.html",
-        "date": "2024-12-01 16:46:30",
-        "sentiment_score": 0.3527335152029991
-    },
-    {
-        "title": "Page satisfecho con el texto sobre financiación autonómica aprobado por el PSOE",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/12/01/2024120117282011801.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.clm24.es/articulo/actualidad/page-muestra-conformidad-texto-financiacion-autonomica-multilateralismo-ausencia-singularidad-cataluna/20241201174428437840.html",
-        "date": "2024-12-01 16:44:28",
-        "sentiment_score": 0.15401090681552887
-    },
-    {
-        "title": "LaLiga | Real Madrid - Getafe, en imágenes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/12d2d7e0-b892-46ed-a29f-c3dc5d039eb2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/fotos/deportes/2024/12/01/laliga-real-madrid-getafe-imagenes-112235312.html",
-        "date": "2024-12-01 16:44:27",
-        "sentiment_score": 0.8029226511716843
-    },
-    {
-        "title": "Así es la pastelería más antigua de Barcelona: fundada en 1825",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/12/01/vivir-en-barcelona/905419510_13803694_1706x960.jpg?contentId=ESPIMA20241201_0061",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241201/asi-es-la-pasteleria-mas-antigua-de-barcelona-fundada-en/905409494_0.html",
-        "date": "2024-12-01 17:03:16",
-        "sentiment_score": 0.7643007971346378
-    },
-    {
-        "title": "Álvaro Muñoz Escassi y Sheila Casas, captados protagonizando un romántico beso",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/30/674af6e3aa3b8.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.lavanguardia.com/television/20241201/10159959/alvaro-munoz-escassi-sheila-casas-captados-protagonizando-romantico-beso-gvm2.html",
-        "date": "2024-12-01 17:00:43",
-        "sentiment_score": -0.26090583950281143
-    },
-    {
-        "title": "Emerge el proyecto ambicioso de Rusia en la Península Ibérica: \"Último reducto de defensa en Europa Occidental\"",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/11/27/retrato-del-dictador-maximo-dirigente-de-la-urss-y-secretario-general-del-comite-central-del-partido-comunista-de-la-union-sovietica-entre-1922-y-1952-iosif-stalin.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/emerge-proyecto-ambicioso-rusia-peninsula-iberica-ultimo-reducto-defensa-europa-occidental.html",
-        "date": "2024-12-01 16:56:50",
-        "sentiment_score": 0.4767706021666527
-    },
-    {
-        "title": "VIDEO. Grave explosión en un piso de un bloque: ha estallado una bombona de butano",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/12/01/2024120113164016931.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/video-varios-heridos-explosion-piso-estallar-bombona-butano/20241201175456437822.html",
-        "date": "2024-12-01 16:54:56",
-        "sentiment_score": -0.7312159240245819
-    },
-    {
-        "title": "Oración budista a favor de los afectados por la DANA de Valencia",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3099543.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/noticias/sociedad/2024/12/01/2284823/dana-valencia-oracion-colectiva-budista-palma-favor-afectados.html",
-        "date": "2024-12-01 16:43:00",
-        "sentiment_score": -0.0015996694564819336
-    },
-    {
-        "title": "El partido de Puigdemont tacha de trilerismo el pacto del PSOE en financiación",
-        "image_url": "https://cflvdg.avoz.es/sc/A4CBQRqdyz2zRYAs_4O8c7WLHxU=/768x/2024/09/17/00121726606741882378330/Foto/eup_20240908_115724089.jpg",
-        "tags": [
-            "carles puigdemont",
-            "salvador illa",
-            "financiación autonómica",
-            "españa",
-            "psoe",
-            "junts"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/espana/2024/12/01/partido-puigdemonttacha-trilerismo-pacto-psoe-financiacion/00031733071124006347321.htm",
-        "date": "2024-12-01 16:42:00",
-        "sentiment_score": -0.3985924683511257
-    },
-    {
-        "title": "El Barça es una ruina",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/01/674c8f3924b36.r_d.501-476-0.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/baloncesto/20241201/10159953/baxi-manresa-barca-liga-endesa-resumen.html",
-        "date": "2024-12-01 16:36:05",
-        "sentiment_score": -0.01681390404701233
-    },
-    {
-        "title": "Así es el colegio alternativo que está a las afueras de Barcelona: un método educativo asociado a la UNESCO desde 1999",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/12/01/vivir-en-barcelona/905419506_13803578_1706x960.jpg?contentId=ESPIMA20241201_0057",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241201/asi-es-el-colegio-alternativo-que-esta-las-afueras-de-barcelona-un-metodo-educativo-asociado-la-unesco-desde/905409492_0.html",
-        "date": "2024-12-01 16:29:48",
-        "sentiment_score": 0.7664585560560226
-    },
-    {
-        "title": "Cuenca del Lago de Maracaibo la más afectada por el calentamiento en Sudamérica",
-        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/12/Cuenca-del-Lago-de-Maracaibo-la-mas-afectada-por-el-calentamiento-en-Sudamerica-elorientaldemongas.com-elorientaldemongas.com-1-de-diciembre-del-2024-1024x477.jpg",
-        "tags": [
-            "monagas",
-            "regiones",
-            "maturín",
-            "relevantes",
-            "venezuela"
-        ],
-        "link": "https://elorientaldemonagas.com/cuenca-del-lago-de-maracaibo-la-mas-afectada-por-el-calentamiento-en-sudamerica/",
-        "date": "2024-12-01 16:07:05",
-        "sentiment_score": -0.5372152253985405
-    },
-    {
         "title": "\"Deja de hablar y consigue un abogado\": la caída de un dentista acusado de envenenar a su esposa",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789252-james-craig.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -543,39 +279,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-01/lgtbiq-o-lgtbi-el-debate-politico-va-mas-alla-de-la-nomenclatura.html",
         "date": "2024-12-01 18:56:25",
         "sentiment_score": -0.3188888505101204
-    },
-    {
-        "title": "Argüeso, secretario de Emergencias de Mazón, en la rampa de salida tras pedir su cese Vox",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NRNZFISGEBE2HLH4TPJAZZNZG4.jpg?auth=284941fb8aa1634f99bdbbff50777febdf4571cb80687c1acdbd02509915376c&width=1200",
-        "tags": [
-            "vox",
-            "carlos mazón",
-            "generalitat valenciana",
-            "comunidad valenciana",
-            "inundaciones dana octubre 2024",
-            "inundaciones",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-01/argueso-secretario-de-emergencias-de-mazon-en-la-rampa-de-salida-tras-pedir-su-cese-vox.html",
-        "date": "2024-12-01 18:02:24",
-        "sentiment_score": -0.8114781938493252
-    },
-    {
-        "title": "Marta Rovira revela que se queda a vivir en Suiza",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TKDUBLIC4JHTFNAWC6OVPA3Z4A.jpg?auth=2a5751c87e020a3e5def7aa120955d483dce3dfe427de960cbc770f46041fc58&width=1200",
-        "tags": [
-            "oriol junqueras",
-            "ginebra",
-            "independencia",
-            "suiza",
-            "amnistía",
-            "marta rovira i vergés",
-            "erc",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-01/marta-rovira-revela-que-se-queda-a-vivir-en-suiza.html",
-        "date": "2024-12-01 17:16:41",
-        "sentiment_score": -0.7181272264569998
     },
     {
         "title": "Mucha Real para tan poco Betis",
@@ -7123,5 +6826,594 @@ export default [
         "link": "https://2001online.com/usa/servicios/cuando-sera-la-ultima-parada-del-canadian-pacific-2024-en-illinois--202412420250",
         "date": "2024-12-05 00:25:00",
         "sentiment_score": 0.1575301457196474
+    },
+    {
+        "title": "Elecciones 2025 en Bolivia: Se agudiza disputa por el MAS de Morales y Arce",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1241436100.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "evo morales",
+            "bolivia",
+            "elecciones",
+            "luis arce"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mas-arce-morales-disputa-liderazgo-candidatura-elecciones-bolivia-conclusiones-tv/",
+        "date": "2024-12-05 02:42:21",
+        "sentiment_score": -0.7718438897281885
+    },
+    {
+        "title": "Los alcances políticos de la guerra contra el fentanilo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/fenta-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra contra el narcotráfico",
+            "fast – news variety",
+            "méxico",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fentanilo-decomiso-estrategia-seguridad-mexico-estados-unidos-panorama-mundial-tv/",
+        "date": "2024-12-05 02:36:52",
+        "sentiment_score": -0.7773350160568953
+    },
+    {
+        "title": "José Luis Bernal: El presidente de Corea del Sur es un político poco experimentado",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184962529.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "yoon suk yeol",
+            "fast – news variety",
+            "asia",
+            "ley marcial",
+            "corea del sur",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/corea-del-sur-presidente-yoon-suk-yeol-trump-coreano-aristegui-tv/",
+        "date": "2024-12-05 02:32:47",
+        "sentiment_score": -0.8283628653734922
+    },
+    {
+        "title": "José Luis Bernal: Parlamento acusaría a presidente surcoreano de hacer peligrar la seguridad nacional",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187503519-20241205022334741.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "yoon suk yeol",
+            "fast – news variety",
+            "asia",
+            "ley marcial",
+            "corea del sur",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/corea-del-sur-presidente-yoon-suk-yeol-seguridad-nacional-aristegui-tv/",
+        "date": "2024-12-05 02:28:11",
+        "sentiment_score": -0.6589756458997726
+    },
+    {
+        "title": "Tyre, una de las ciudades más antiguas del mundo está devastada por la guerra",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/asi-luce-una-de-las-ciudades-mas-antigua-00-00-13-07-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra medio oriente",
+            "medio oriente",
+            "líbano"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tyre-ciudad-antigua-mundo-trax/",
+        "date": "2024-12-05 02:20:51",
+        "sentiment_score": -0.931135487742722
+    },
+    {
+        "title": "EE.UU. exige a Maduro otorgar salvoconductos a opositores refugiados en embajada de Argentina en Caracas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1207394475-20241205021151095.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opositores-refugio-embajada-argentina-brasil-venezuela-maduro-eeuu-conclusiones-tv/",
+        "date": "2024-12-05 02:16:22",
+        "sentiment_score": -0.42040473222732544
+    },
+    {
+        "title": "Renfe establece un precio fijo de 7 euros para estas personas: requisitos y cómo conseguirlas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/04/renfe.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/renfe-establece-precio-fijo-euros-personas-requisitos-20241205061500-nt.html",
+        "date": "2024-12-05 05:15:00",
+        "sentiment_score": -0.01460614800453186
+    },
+    {
+        "title": "La mujer del CEO de UnitedHealthcare reconoce que recibió amenazas antes de ser asesinado a tiros",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/04/ceo2-U75618526526zZU-366x256@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/mujer-ceo-unitedhealthcare-reconoce-recibio-amenazas-asesinado-20241204201633-nt.html",
+        "date": "2024-12-05 03:12:19",
+        "sentiment_score": -0.19478251039981842
+    },
+    {
+        "title": "Oficinas más sostenibles, una de las claves del urbanismo del siglo XXI",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/04/Jornada2-RTW6nMRlAwTjaUUkPzqrbSI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/oficinas-sostenibles-claves-urbanismo-siglo-xxi-20241204175218-nt.html",
+        "date": "2024-12-05 03:04:15",
+        "sentiment_score": -0.012999176979064941
+    },
+    {
+        "title": "Detenida una concejal del PP, dos policías locales de Santa Susanna y un ‘mosso’ en una trama de regularización de extranjeros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZG2IV2DA3NBARLBNJAM4EY6EBM.jpg?auth=1f85522dfcf928ccf7cd0fca3c5ac0b137ebb8051c9014b72a3af8104e7d8109&width=1200",
+        "tags": [
+            "detenciones",
+            "santa susanna",
+            "extranjeros",
+            "falsificación documentos",
+            "crimen organizado",
+            "cataluña",
+            "policía nacional",
+            "investigación judicial"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-05/detenida-una-concejal-del-pp-y-tres-policias-locales-de-santa-susanna-en-una-trama-de-regularizacion-de-extranjeros.html",
+        "date": "2024-12-05 05:50:00",
+        "sentiment_score": -0.8307584971189499
+    },
+    {
+        "title": "El consejero delegado de Mango, Toni Ruiz, recibe un premio en reconocimiento por el despliegue del negocio en Estados Unidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DB2B5AH6MZFR5HLTI4ZTN5W54Q.jpg?auth=7a355cbae253fa20f585afe63d9d68d6ff1bd078d56b8b6fac1da04e1c135149&width=1200",
+        "tags": [
+            "empresas",
+            "ropa",
+            "cataluña",
+            "cámaras comercio",
+            "premios",
+            "moda",
+            "mango",
+            "industria"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-05/el-consejero-delegado-de-mango-toni-ruiz-recibe-un-premio-en-reconocimiento-por-el-despliegue-del-negocio-en-estados-unidos.html",
+        "date": "2024-12-05 05:15:00",
+        "sentiment_score": 0.7075960151851177
+    },
+    {
+        "title": "El limbo de Sánchez Acera por el ‘email’ del caso del novio de Ayuso: del “no ha hecho nada malo” al “estamos todos expectantes”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YVP3QPXIJFFO3CKYBL56QYEXXY.jpg?auth=95b5db9fb387494da0ad2016833c04ea4f4eca932e9ba5717304fa329a1ef6f7&width=1200",
+        "tags": [
+            "madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-05/el-limbo-de-sanchez-acera-por-el-email-del-caso-del-novio-de-ayuso-del-no-ha-hecho-nada-malo-al-estamos-todos-expectantes.html",
+        "date": "2024-12-05 04:40:00",
+        "sentiment_score": -0.834074454382062
+    },
+    {
+        "title": "Los magistrados catalanes reciben al borde del colapso los nuevos juzgados para combatir la multirreincidencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OH4F2KRNJ5NK3KCMDNMURNEO6Q.jpg?auth=d6ef12aca81859166a62fdfa7b468445a83e61bf0350fa145584db3ac8c2647f&width=1200",
+        "tags": [
+            "jueces",
+            "magistratura",
+            "cataluña",
+            "barcelona",
+            "justicia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-05/los-magistrados-catalanes-reciben-al-borde-del-colapso-los-nuevos-juzgados-para-combatir-la-multirreincidencia.html",
+        "date": "2024-12-05 04:40:00",
+        "sentiment_score": -0.8253377508372068
+    },
+    {
+        "title": "Todo lo que aún no es normal en Paiporta, el epicentro de la dana, 36 días después de la riada",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/62OJGFAQK5E7FOSTPQPHVMZHBM.jpg?auth=9a4d64cfe7c4daa62a1a2ec35d8d83176ab73c718fd629061e6237b7c7271e37&width=1200",
+        "tags": [
+            "españa",
+            "valencia",
+            "lotería navidad",
+            "ejército español",
+            "ume",
+            "navidad",
+            "catástrofes",
+            "inundaciones dana octubre 2024",
+            "paiporta"
+        ],
+        "link": "https://elpais.com/espana/2024-12-05/todo-lo-que-aun-no-es-normal-en-paiporta-el-epicentro-de-la-dana-36-dias-despues-de-la-riada.html",
+        "date": "2024-12-05 04:40:00",
+        "sentiment_score": 0.5049472525715828
+    },
+    {
+        "title": "Sumar fía su rearme a la reducción de la jornada laboral",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YEUNMG4VVREXFEARTZCVU33C4Y.jpg?auth=cd48118a2b60800502978c0b3297f740bec1bf5207fc4e43c4151426713fdea9&width=1200",
+        "tags": [
+            "españa",
+            "derecho laboral",
+            "ministerio de trabajo y economía social",
+            "yolanda díaz",
+            "ugt",
+            "congreso diputados",
+            "comisiones obreras",
+            "horarios trabajo",
+            "sumar",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2024-12-05/sumar-fia-su-rearme-a-la-reduccion-de-la-jornada-laboral.html",
+        "date": "2024-12-05 04:40:00",
+        "sentiment_score": 0.18936454877257347
+    },
+    {
+        "title": "Reconstrucción de la votación en el congreso del PSOE: así fue el debate sobre el colectivo LGTBIQ+",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OOR4COOOBRELHF2JM7A4PRMNEI.jpg?auth=47981db5402e033b95c5707d588d0f23ad93f0284ad2588f6c5206ab696a125c&width=1200",
+        "tags": [
+            "españa",
+            "lgtbifobia",
+            "congresos políticos",
+            "comunidad lgtbiq",
+            "izquierdismo",
+            "ideologías",
+            "feminismo",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2024-12-05/reconstruccion-de-la-votacion-en-congreso-del-psoe-asi-fue-debate-sobre-el-colectivo-lgtbiq.html",
+        "date": "2024-12-05 04:40:00",
+        "sentiment_score": -0.8597153844311833
+    },
+    {
+        "title": "El órdago de Abascal a Feijóo: conmigo o con Sánchez",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MO65IIGRQAGKTBVDZIDMQ4IPLU.jpg?auth=d4c21b65545f1edc30369b0b58d583f80a52b48d9ceebbbdc6257ca15f33c6b9&width=1200",
+        "tags": [
+            "ultraderecha",
+            "españa",
+            "santiago abascal",
+            "javier milei",
+            "vox",
+            "política",
+            "argentina",
+            "extrema derecha",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2024-12-05/el-ordago-de-abascal-a-feijoo-conmigo-o-con-sanchez.html",
+        "date": "2024-12-05 04:40:00",
+        "sentiment_score": -0.8134258445352316
+    },
+    {
+        "title": "Las constructoras señaladas por Aldama niegan las acusaciones de conseguir licitaciones a cambio de mordidas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/S5NZ462OCFDSDP427WWVKCE73E.jpg?auth=2f3745efea43eb7ca679b56931d014d9ccaf22e737544dcb2ba7b2ba07612ee7&width=1200",
+        "tags": [
+            "koldo garcía",
+            "españa",
+            "fiscalía",
+            "constructoras",
+            "empresas",
+            "josé luis ábalos",
+            "psoe",
+            "tribunales",
+            "justicia",
+            "corrupción"
+        ],
+        "link": "https://elpais.com/espana/2024-12-05/las-constructoras-senaladas-por-aldama-niegan-las-acusaciones-de-conseguir-licitaciones-a-cambio-de-mordidas.html",
+        "date": "2024-12-05 04:40:00",
+        "sentiment_score": -0.3666539005935192
+    },
+    {
+        "title": "El PP acude a las negociaciones con el Gobierno sobre menores migrantes sin renunciar a sus posiciones de máximos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HODN4F7537W6QIHVAFPJJSLXW4.jpg?auth=34bf341e0c8ef94584e58311efdaa8846c90aa957e145c7c3c3d5b414b878ebf&width=1200",
+        "tags": [
+            "españa",
+            "ministerio de política territorial y memoria democrática",
+            "menores extranjeros no acompañados",
+            "ceuta",
+            "pp",
+            "acogida niños",
+            "canarias",
+            "psoe",
+            "inmigración irregular"
+        ],
+        "link": "https://elpais.com/espana/2024-12-05/el-pp-acude-a-las-negociaciones-con-el-gobierno-sobre-menores-migrantes-sin-renunciar-a-sus-posiciones-de-maximos.html",
+        "date": "2024-12-05 04:40:00",
+        "sentiment_score": -0.5282196998596191
+    },
+    {
+        "title": "Por qué las personas crédulas son más susceptibles a las teorías conspirativas? Un estudio explica la conexión",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241205071951_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-personas-credulas-son-mas-susceptibles-teorias-conspirativas-estudio-explica-conexion-20241205071951.html",
+        "date": "2024-12-05 06:19:51",
+        "sentiment_score": -0.8745025899261236
+    },
+    {
+        "title": "La imagen fascista de Morris triunfa con la obra “1936”",
+        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/12/04/2024120421510120225.jpg",
+        "tags": [
+            "vigo"
+        ],
+        "link": "https://www.atlantico.net/articulo/vigo/imagen-fascista-morris-triunfa-obra-1936/202412050715211062240.html",
+        "date": "2024-12-05 06:15:21",
+        "sentiment_score": -0.31558792293071747
+    },
+    {
+        "title": "10 lugares de España en los que se han rodado películas famosas",
+        "image_url": "https://album.mediaset.es/eimg/2024/11/15/el-lejano-oeste-en-realidad-esta-en-el-desierto-de-almeria_e576.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.cuatro.com/noticias/sociedad/20241205/lugares-espana-rodaje-peliculas-famosas-be5m_18_014020064.html",
+        "date": "2024-12-05 06:00:36",
+        "sentiment_score": 0.41647014766931534
+    },
+    {
+        "title": "\"Me jubilo y mi hijo va a crear un proyecto paralelo a la bodega\"",
+        "image_url": "https://static1.ara.cat/clip/14e46e72-1fba-4360-befe-633723327aca_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/comer/jubilo-hijo-crear-proyecto-paralelo-bodega_128_5221693.html",
+        "date": "2024-12-05 06:00:25",
+        "sentiment_score": 0.05239135026931763
+    },
+    {
+        "title": "Europa apunta hacia la fase del año de mayor consumo de tabaco en Salamanca: los meses de 'terraceo'",
+        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/12/04/LA%20GACETA%20REGIONAL%20DE%20(7102968)-Rw8pfHwfFRuxxBTty3RqzIP-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/salamanca/europa-apunta-fase-ano-mayor-consumo-tabaco-20241204070000-nt.html",
+        "date": "2024-12-05 06:00:00",
+        "sentiment_score": 0.2815183214843273
+    },
+    {
+        "title": "El pueblo de Catalunya donde más toca 'El Gordo' de la Lotería de Navidad: no es cerca de Barcelona",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/01/03/65952a36a66f3.r_d.2516-1959.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20241205/1002365285/pueblo-catalunya-mas-toca-gordo-loteria-navidad-cerca-barcelona-dct.html",
+        "date": "2024-12-05 06:00:00",
+        "sentiment_score": 0.629880391061306
+    },
+    {
+        "title": "Los datos que enfrentan a la Universidad con Ayuso: 21% menos de financiación pese a ser la comunidad más rica",
+        "image_url": "https://www.elplural.com/uploads/s1/18/45/52/7/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-durante-la-sesion-de-apertura-del-curso-academico-2024-de-la-real-academia-de-doctores-de-espana-en-el-paraninfo-de-la-universidad-comp_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/datos-enfrentan-universidad-ayuso-21-menos-financiacion-pese-ser-comunidad-mas-rica_342597102",
+        "date": "2024-12-05 06:00:00",
+        "sentiment_score": -0.07145869731903076
+    },
+    {
+        "title": "Todas las enmiendas de la izquierda a los presupuestos 'para ricos' de Ayuso",
+        "image_url": "https://www.elplural.com/uploads/s1/18/82/14/8/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-durante-la-inauguracion-del-belen-de-la-real-casa-de-correos-ep_7_480x270.jpeg",
+        "tags": [
+            "autonomías",
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/todas-enmiendas-izquierda-presupuestos-para-ricos-ayuso_342577102",
+        "date": "2024-12-05 06:00:00",
+        "sentiment_score": 0.0012006759643554688
+    },
+    {
+        "title": "Javier Urra, psicólogo: “La familia no solo forma; te sostiene cuando todo lo demás se tambalea”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EBTCY3IU7NDMHAGWMVHZHXWCEE.png?auth=8c54e17c70169c0371ba34f4a3c16743df429becf68bd0104fc81ce1fcca89e7&width=1200",
+        "tags": [
+            "hijos",
+            "padres",
+            "crianza hijos",
+            "educación",
+            "familia",
+            "acoso escolar",
+            "formación",
+            "jóvenes",
+            "adolescencia",
+            "psicología",
+            "ciberacoso"
+        ],
+        "link": "https://elpais.com/economia/formacion/2024-12-05/javier-urra-psicologo-la-familia-no-solo-forma-te-sostiene-cuando-todo-lo-demas-se-tambalea.html",
+        "date": "2024-12-05 06:00:00",
+        "sentiment_score": 0.0797974169254303
+    },
+    {
+        "title": "Adolfo García, el archivero municipal de Valladolid que más tiempo ejerció el cargo",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/27/newspaint-1732725426373-1200x840-kB4F-U23093218491mCD-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/valladolid/el-cronista/adolfo-garcia-archivero-municipal-valladolid-tiempo-ejercio-20241205064916-nt.html",
+        "date": "2024-12-05 05:49:16",
+        "sentiment_score": 0.046924054622650146
+    },
+    {
+        "title": "Toni Ruiz, consejero delegado de Mango, recibe en Nueva York el premio de empresario del año",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/05/67514399b0453.r_d.2814-2363-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241205/10172680/toni-ruiz-consejero-delegado-mango-recibe-nueva-york-premio-empresario-ano.html",
+        "date": "2024-12-05 06:25:59",
+        "sentiment_score": 0.7659025862812996
+    },
+    {
+        "title": "Malparit y su cocina de mercado dos en uno: bar y restaurante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d7b2c7e0-e791-4868-b687-2ae8dc10df70_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241205/malparit-restaurante-barcelona-cocina-mercado-111955634",
+        "date": "2024-12-05 06:23:44",
+        "sentiment_score": -0.17921805381774902
+    },
+    {
+        "title": "Estos son los secretos del tomate 'volcánico' que adereza las auténticas pizzas napolitanas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/12c2d57a-8800-4257-a311-6a170de1d797_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/20241205/tomate-san-marzano-secretos-pizza-111501738",
+        "date": "2024-12-05 06:21:58",
+        "sentiment_score": 0.2465808391571045
+    },
+    {
+        "title": "Primera sentencia que reconoce el permiso parental retribuido de 8 semanas",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1133336",
+        "date": "2024-12-05 06:17:46",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Nuevos restaurantes en Barcelona para visitar ya",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/3dca1a6f90743fd74c540c725deb7842/resize/600/assets/multimedia/imagenes/2024/11/24/17324706985147.jpg",
+        "tags": [
+            "barcelona>",
+            "fuera de serie>"
+        ],
+        "link": "https://www.expansion.com/fueradeserie/gastro/album/2024/12/05/6750b891468aeb67148b4580.html",
+        "date": "2024-12-05 06:17:21",
+        "sentiment_score": 0.7436471097171307
+    },
+    {
+        "title": "María Xiao y Álvaro Robles: \"Este año hemos salido más, pero acaban los Juegos y no nos vuelves a ver\"",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/05/alvaro-robles-y-maria-xiao-tras-coronarse-campeones-de-europa-8882.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/maria-xiao-alvaro-robles-esteno-hemos-salido-mas-acaban-juegos-vuelves-ver.html",
+        "date": "2024-12-05 06:16:57",
+        "sentiment_score": 0.05850300192832947
+    },
+    {
+        "title": "Lo que debes saber hoy, 5 de diciembre, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/09/27/vivir-en-barcelona/615198503_9865135_1706x960.jpg?contentId=ESPIMA20210927_0029",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241205/lo-que-debes-saber-hoy-de-diciembre-barcelona/906409352_0.html",
+        "date": "2024-12-05 06:07:53",
+        "sentiment_score": -0.11856479942798615
+    },
+    {
+        "title": "La época más mágica del año llega a los hábitats de Bioparc Valencia con BIOnadal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9f7721d7-9846-4456-874d-43d840679af7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/comunidad-valenciana/2024/12/05/bioparc-valencia-bionadal-112311003.html",
+        "date": "2024-12-05 06:01:02",
+        "sentiment_score": 0.8475010991096497
+    },
+    {
+        "title": "Es un cíborg pero está bien: la historia de Kai Landre llega al cine",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7131e419-7774-426f-b0ee-e05728066f1e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2024/12/05/ciborg-historia-kai-landre-llega-112313017.html",
+        "date": "2024-12-05 06:01:02",
+        "sentiment_score": -0.03937423229217529
+    },
+    {
+        "title": "Los tres menús navideños más originales de Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4bbfc40-8741-459d-9d7a-921065684e8e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20241205/menus-navidenos-originales-barcelona-comidas-navidad-112294438",
+        "date": "2024-12-05 06:01:00",
+        "sentiment_score": -0.2802521884441376
+    },
+    {
+        "title": "Dictan medida de libertad a favor de la joven Mariana Victoria González",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/dictan-medida-de-libertad-a-favor-de-la-joven-mariana-victoria-gonzalez-202412423250",
+        "date": "2024-12-05 03:25:00",
+        "sentiment_score": 0.1807449758052826
+    },
+    {
+        "title": "Junior Guerra sigue cosechando éxitos e igualó un récord de la LVBP",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/junior-guerra-sigue-cosechando-exitos-e-igualo-un-record-de-la-lvbp-202412423180",
+        "date": "2024-12-05 03:18:00",
+        "sentiment_score": 0.6506552379578352
+    },
+    {
+        "title": "Diosdado Cabello afirma que María Corina tiene un dolor físico (+Video)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/diosdado-cabello-afirma-que-maria-corina-tiene-un-dolor-fisico-video--202412423170",
+        "date": "2024-12-05 03:17:00",
+        "sentiment_score": 0.172315813601017
+    },
+    {
+        "title": "EEUU | Texas lanza empleo para personas sin experiencia por 23 dólares la hora",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1733367036306/WhatsApp%20Image%202024-12-04%20at%2010.50.10%20PM.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-texas-lanza-empleo-para-personas-sin-experiencia-por-23-dolares-la-hora-20241242310",
+        "date": "2024-12-05 03:01:00",
+        "sentiment_score": 0.007484935224056244
+    },
+    {
+        "title": "Cabello: María Corina acordó con Rawayana enviar mensajes durante conciertos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cabello-maria-corina-acordo-con-rawayana-enviar-mensajes-durante-conciertos-202412422540",
+        "date": "2024-12-05 02:54:00",
+        "sentiment_score": -0.12087610363960266
+    },
+    {
+        "title": "Vea lo que pagó este jugador de la NFL por un Batimóvil",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/vea-lo-que-pago-este-jugador-de-la-nfl-por-un-batimovil-202412422500",
+        "date": "2024-12-05 02:50:00",
+        "sentiment_score": 0.1972052901983261
+    },
+    {
+        "title": "¿Cómo tramitar la licencia de conducir más rápido en California? (+Opciones)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/como-tramitar-la-licencia-de-conducir-mas-rapido-en-california-opciones--202412422500",
+        "date": "2024-12-05 02:50:00",
+        "sentiment_score": 0.1845475286245346
+    },
+    {
+        "title": "Trump anuncia a su candidato para dirigir el IRS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-anuncia-a-su-candidato-para-dirigir-el-irs-202412422400",
+        "date": "2024-12-05 02:40:00",
+        "sentiment_score": 0.19646390341222286
+    },
+    {
+        "title": "EEUU | Salario mínimo aumentará para 2025 en Illinois y el Condado de Cook",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-salario-minimo-aumentara-para-2025-en-illinois-y-el-condado-de-cook-202412422290",
+        "date": "2024-12-05 02:29:00",
+        "sentiment_score": 0.05923343449831009
+    },
+    {
+        "title": "El mejor panettone del mundo es preparado por un inmigrante mexicano (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-mejor-panettone-del-mundo-es-preparado-por-un-inmigrante-mexicano--202412422170",
+        "date": "2024-12-05 02:17:00",
+        "sentiment_score": 0.053285934031009674
     }
 ];
