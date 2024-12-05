@@ -69,53 +69,6 @@ export default [
         "sentiment_score": -0.24709729850292206
     },
     {
-        "title": "La intensa nevada por efecto lago crea peligro para los viajes en la región de los Grandes Lagos mientras el frío generalizado del Ártico congela a EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/limpia-la-nieve-en-nueva-york.webp",
-        "tags": [
-            "tiempo",
-            "tormenta",
-            "nieve",
-            "estados unidos noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/intensa-nevada-efecto-lago-crea-peligro-viajes-region-grandes-lagos-frio-generalizado-artico-congela-ee-uu-trax/",
-        "date": "2024-12-01 13:10:44",
-        "sentiment_score": -0.8931142333894968
-    },
-    {
-        "title": "Siria, la guerra sin fin que recrudece a 13 años de su inicio",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2020/02/200213171705-syrian-army-troops-full-169.jpg?quality=100&strip=info",
-        "tags": [
-            "siria",
-            "guerra civil en siria"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/siria-guerra-historia-rusia-assad-orix/",
-        "date": "2024-12-01 12:35:53",
-        "sentiment_score": -0.6308338809758425
-    },
-    {
-        "title": "Aviones sirios y rusos atacan a rebeldes luego de que la oposición tomara control de gran parte de Aleppo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/aleppo.webp",
-        "tags": [
-            "aleppo",
-            "siria",
-            "noticias de rusia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/aviones-sirios-y-rusos-atacan-a-rebeldes-tras-toma-oposicion-aleppo-trax/",
-        "date": "2024-12-01 11:44:30",
-        "sentiment_score": -0.8338904175907373
-    },
-    {
-        "title": "Bombardeos israelíes habrían matado a 200 personas en el norte de Gaza, incluidas más de 40 en un solo ataque",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788889-gaza.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "gaza",
-            "medio oriente"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/ataques-israelies-habrian-matado-200-personas-norte-gaza-incluidas-40-solo-ataque-trax/",
-        "date": "2024-12-01 10:54:15",
-        "sentiment_score": -0.8034489713609219
-    },
-    {
         "title": "El 'Pepedeclarante' ante el Senado",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/01/1489328054-RfmmIm8NONFKvptCJy723qM-1200x840@diario_abc.jpg",
         "tags": [
@@ -156,16 +109,6 @@ export default [
         "sentiment_score": 0.007063806056976318
     },
     {
-        "title": "Veinte años en China: de la globalización a la Nueva Guerra Fría",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/10/19/dali-kRdC-RZDsQVc9XQgSrS63l0VlejJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/veinte-anos-china-globalizacion-nueva-guerra-fria-20241019171727-nt.html",
-        "date": "2024-12-01 11:44:27",
-        "sentiment_score": -0.03488621115684509
-    },
-    {
         "title": "Sánchez evita dar una señal clara de apoyo a Espadas para que siga al frente del PSOE andaluz",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DPBMCNLTY5EMLFKZ4JWN2HQRIQ.jpg?auth=9e80e00ed2ab93d7d349f8ac3dbbe4b95160324d177ab602d9f1d110d1ad4fd0&width=1200",
         "tags": [
@@ -180,52 +123,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-01/sanchez-evita-dar-una-senal-clara-de-apoyo-a-espadas-para-que-siga-al-frente-del-psoe-andaluz.html",
         "date": "2024-12-01 14:21:15",
         "sentiment_score": 0.8095816262066364
-    },
-    {
-        "title": "Feijóo: “Aguanta, Pedro, no te mereces irte con honor, te vamos a echar los españoles libre y democráticamente”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XASFMHBTHOLJG6LLOW2FLHJFDQ.jpg?auth=95ce5b4406545513d797df54b115e89a012b1e242b3743ec40c845da28b483e4&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "dana",
-            "elecciones generales",
-            "españa",
-            "caso koldo",
-            "gobierno",
-            "carlos mazón",
-            "alberto núñez feijóo",
-            "pp",
-            "psoe",
-            "víctor de aldama"
-        ],
-        "link": "https://elpais.com/espana/2024-12-01/feijoo-aguanta-pedro-no-te-mereces-irte-con-honor-te-vamos-a-echar-los-espanoles-libre-y-democraticamente.html",
-        "date": "2024-12-01 13:58:26",
-        "sentiment_score": 0.11851506680250168
-    },
-    {
-        "title": "Sánchez llama a una contraofensiva y mira ya a 2027: “No reduciremos el paso, vamos a acelerar con más fuerza”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VT672FAONVGM3FHIURGCLP4VQQ.jpg?auth=8637ebc3b9a9d107d8b744f5dd6adac65fd42df8a93362e91eee50c05d8c1e80",
-        "tags": [
-            "españa",
-            "gobierno",
-            "congreso psoe",
-            "ejecutivas partidos",
-            "sevilla",
-            "psoe",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2024-12-01/sanchez-llama-a-una-contraofensiva-y-mira-ya-a-2027-no-reduciremos-el-paso-vamos-a-acelerar-con-mas-fuerza.html",
-        "date": "2024-12-01 13:45:05",
-        "sentiment_score": 0.5342632010579109
-    },
-    {
-        "title": "Junqueras y Godàs se lanzan a buscar votos para liderar ERC más allá de la candidatura descartada en la primera vuelta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RYKNO7UMTZ276CV4IKUDBEXC3I.jpg?auth=129e9a8d3d301627d99ef5fbf3d895efbf4c961bdfd3b2ac62b3ac3a1a5a12a6&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-01/junqueras-y-godas-se-lanzan-a-buscar-votos-para-liderar-erc-mas-alla-de-la-candidatura-descartada-en-la-primera-vuelta.html",
-        "date": "2024-12-01 10:37:14",
-        "sentiment_score": -0.08823543041944504
     },
     {
         "title": "El Real Madrid ya huele el liderato",
@@ -6755,5 +6652,476 @@ export default [
         "link": "https://2001online.com/usa/servicios/eeuu-trabajadores-con-discapacidad-podran-cobrar-mas-dinero-202412417370",
         "date": "2024-12-04 21:37:00",
         "sentiment_score": -0.5233801975846291
+    },
+    {
+        "title": "Mercedes-Benz presenta nuevo papamóvil ecológico",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-pope.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "mercedes-benz",
+            "papa francisco",
+            "fast – news variety",
+            "xpress",
+            "religión"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mercedes-benz-papamovil-ecologico-orix/",
+        "date": "2024-12-05 02:13:48",
+        "sentiment_score": 0.38389888033270836
+    },
+    {
+        "title": "Comité de la ONU abre investigación sobre el proceso electoral en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnne-1790960-comite-de-la-onu-abre-investigacion-sobre-el-proceso-electoral-en-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-venezuela-investigacion-onu-dusa-tv-2/",
+        "date": "2024-12-05 01:23:54",
+        "sentiment_score": -0.15402209013700485
+    },
+    {
+        "title": "“Viajar con sus aerolíneas es un desastre”, crítica de senador de Missouri",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/hawley-thumb-20241205005454545.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "missouri",
+            "noticias de ee.uu.",
+            "senado de estados unidos",
+            "noticias de estados unidos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/senador-missouri-critica-aerolineas-eeuu-ush-trax/",
+        "date": "2024-12-05 00:58:08",
+        "sentiment_score": -0.9023634167388082
+    },
+    {
+        "title": "Sheinbaum anuncia un plan para incrementar en 12% el salario mínimo de México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "claudia sheinbaum",
+            "méxico",
+            "xpress",
+            "fast – news variety",
+            "salario minimo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-incremento-salario-minimo-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-05 00:29:21",
+        "sentiment_score": 0.3925847187638283
+    },
+    {
+        "title": "EE.UU.: la Corte Suprema debate los tratamientos de afirmación de género en menores",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-debate-derechos-transgenero-ninos-scotus-dusa-tv/",
+        "date": "2024-12-05 00:24:20",
+        "sentiment_score": -0.0012838244438171387
+    },
+    {
+        "title": "Sheinbaum propone reforma para asegurar los derechos de los trabajadores de plataformas digitales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "claudia sheinbaum",
+            "aplicaciones",
+            "méxico",
+            "xpress",
+            "derechos laborales",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-reforma-derechos-trabajadores-plataformas-digitales-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-05 00:20:06",
+        "sentiment_score": 0.4426208809018135
+    },
+    {
+        "title": "EE.UU.: denuncias contra Pete Hegseth complican su respaldo en el Senado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnne-1790952-ee-uu-denuncias-contra-pete-hegseth-complican-su-respaldo-en-el-senado.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-hegseth-nominado-trump-dusa-tv-2/",
+        "date": "2024-12-05 00:15:07",
+        "sentiment_score": -0.8472537528723478
+    },
+    {
+        "title": "NEO, un robot humanoide con inteligencia artificial que podría lavar tu ropa, asear y hacer los deberes de la casa",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/neo-robot-ia.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "robot",
+            "inteligencia articifial",
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/robot-ia-neo-humanoide-casa-cafe-orix/",
+        "date": "2024-12-04 23:54:53",
+        "sentiment_score": 0.25179365277290344
+    },
+    {
+        "title": "Cada vez más gente joven tiene cáncer en EE.UU. En hombres, este es el tipo más común",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-01-00-00-00-00-still001-20241204234156295.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "hombres",
+            "cáncer",
+            "xpress",
+            "noticias de salud",
+            "jóvenes"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-cancer-testicular-sintomas-frecuente-en-jovenes-minuto-de-salud-fast/",
+        "date": "2024-12-04 23:42:46",
+        "sentiment_score": -0.2787533663213253
+    },
+    {
+        "title": "CNN obtuvo el video del tiroteo mortal contra el CEO de UnitedHealthcare",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "crimen",
+            "xpress",
+            "ee.uu.",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-tiroteo-mortal-ceo-unitedhealthcare-ush-trax/",
+        "date": "2024-12-04 22:45:01",
+        "sentiment_score": -0.8869744334369898
+    },
+    {
+        "title": "El consumo de chocolate negro se asocia con un menor riesgo de diabetes",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/12/04/606739059_91143dbd32_o.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/consumo-chocolate-negro-asocia-menor-riesgo-diabetes-20241205130011-nt.html",
+        "date": "2024-12-05 00:30:00",
+        "sentiment_score": -0.1102040708065033
+    },
+    {
+        "title": "Guerra al cangrejero",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/03/pizzeriakuro08-kfCH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-guerra-cangrejero-20241205230852-nts.html",
+        "date": "2024-12-04 22:19:36",
+        "sentiment_score": -0.1276874542236328
+    },
+    {
+        "title": "Ayuso desprecia el aterrizaje del ministro Óscar López en el PSOE de Madrid: “No va a ser candidato ni de broma. Es un desastre en todo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6ZUN6JIFOBBCLO3DGSYQ76HKWA.jpg?auth=b04d6126ea3eec7dfd8ba2943610a9af60ccb123c36b86ff17328dda142a8932",
+        "tags": [
+            "comunidad de madrid",
+            "óscar lópez águeda",
+            "madrid",
+            "gobierno comunidad de madrid",
+            "isabel díaz ayuso",
+            "gobierno de españa",
+            "psoe",
+            "pp madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-04/ayuso-desprecia-el-aterrizaje-del-ministro-oscar-lopez-en-el-psoe-de-madrid-no-va-a-ser-candidato-ni-de-broma-es-un-desastre-en-todo.html",
+        "date": "2024-12-04 23:08:43",
+        "sentiment_score": 0.3252973183989525
+    },
+    {
+        "title": "04 DIC 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-dic-2024-partidazo-cope-20241205_3058190.html",
+        "date": "2024-12-05 00:47:00",
+        "sentiment_score": -0.8113636747002602
+    },
+    {
+        "title": "Las declaraciones de Mbappé tras fallar el penalti ante el Athletic",
+        "image_url": "https://cflvdg.avoz.es/sc/U84fj2l6u1dqcHx6Mi-YMHOlCjM=/768x/2024/12/05/00121733358204878180956/Foto/EuropaPress_6386461_kylian_mbappe_of_real_madrid_cf_looks_on_during_the_laliga_ea_sports_match-EP.jpg",
+        "tags": [
+            "kylian mbappé",
+            "fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/12/05/declaraciones-mbappe-tras-fallar-penalti-ante-athletic/00031733358608455615429.htm",
+        "date": "2024-12-05 00:36:00",
+        "sentiment_score": -0.7121838256716728
+    },
+    {
+        "title": "Un catalizador único llamado Kylian Mbappé",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/05/2024120501330910614.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/cuando-fallar-tambien-pone-laliga-mapa/20241205013339326379.html",
+        "date": "2024-12-05 00:33:39",
+        "sentiment_score": 0.5635976046323776
+    },
+    {
+        "title": "Nazareth Sánchez prometió su nuevo cargo de concejala del Ayuntamiento",
+        "image_url": "https://s2.ppllstatics.com/hoy/guarena/multimedia/2024/12/05/momento-de-prometer-el-cargo-concejal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://guarena.hoy.es/nazareth-sanchez-prometio-nuevo-cargo-concejala-ayuntamiento-20241205004254-nt.html",
+        "date": "2024-12-05 00:01:29",
+        "sentiment_score": 0.1040126234292984
+    },
+    {
+        "title": "Mbappé falla otro penal y el Real Madrid cae 2-1 en Bilbao",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/12/AP24339794931599.webp",
+        "tags": [
+            "deportes",
+            "destacados"
+        ],
+        "link": "https://lacalle.com.ve/mbappe-falla-otro-penal-y-el-real-madrid-cae-2-1-en-bilbao/",
+        "date": "2024-12-04 23:58:30",
+        "sentiment_score": -0.10942572355270386
+    },
+    {
+        "title": "Los halagos de Pedrerol a Valverde en El Chiringuito: «Qué grande eres»",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/12/04/pedrerol-kATB-U230209570860l3F-1200x840@El%20Correo.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/halagos-pedrerol-valverde-chiringuito-grande-20241204005055-nt.html",
+        "date": "2024-12-04 23:50:55",
+        "sentiment_score": -0.886867762543261
+    },
+    {
+        "title": "La Copa del Rey de las sorpresas: Pontevedra y Logroñés se cargan a Villarreal y Girona",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/05/el-pontevedra-celebra-la-victoria-en-copa-del-rey-ante-el-villarreal.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/la-copa-rey-sorpresaspontevedra-logrones-cargan-villarreal-girona.html",
+        "date": "2024-12-04 23:46:47",
+        "sentiment_score": 0.1531337946653366
+    },
+    {
+        "title": "2 parte | 04 DIC 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2-parte-04-dic-2024-partidazo-cope-20241205_3058182.html",
+        "date": "2024-12-04 23:43:13",
+        "sentiment_score": -0.8054210245609283
+    },
+    {
+        "title": "Mbappé falla otro penal y el Real Madrid cae (2-1) ante el Athletic Club",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f4fd.png",
+        "tags": [
+            "athletic club",
+            "kylian mbappé",
+            "fútbol",
+            "real madrid",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/deportes/mbappe-falla-otro-penal-y-el-real-madrid-cae-2-1-ante-el-athletic-club/",
+        "date": "2024-12-04 23:42:21",
+        "sentiment_score": -0.2513023018836975
+    },
+    {
+        "title": "Valverde: “La victoria nos refuerza en la posición que estamos”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0cec75d9-c614-4aaf-8c88-857f5cfb7e7c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/athletic/2024/12/05/valverde-victoria-refuerza-posicion-9014671.html",
+        "date": "2024-12-04 23:36:20",
+        "sentiment_score": 0.10927549004554749
+    },
+    {
+        "title": "Autoridades de Ecuador investigan la presunta desaparición del futbolista Pedro Pablo Perlaza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2024/12/04/ecuador-investigan-presunta-desaparicion-futbolista-pedro-pablo-perlaza-orix/",
+        "date": "2024-12-05 02:03:41",
+        "sentiment_score": -0.5471210032701492
+    },
+    {
+        "title": "Muere Pepe Alcaraz, político socialista e historiador",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4732d2b4-5eb8-4110-942b-27d6eb87ac69_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/canarias/2024/12/05/muere-socialista-jose-alcaraz-exconcejal-telde-exsenador-gran-canaria-112343137.html",
+        "date": "2024-12-05 01:43:35",
+        "sentiment_score": -0.4689347743988037
+    },
+    {
+        "title": "El empresario que revoluciona la noche madrileña con Fitz: la discoteca con reservados de 8.000 euros, DJ en los baños y camerinos secretos para los artistas",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/0c60bb7ea7b6de0b452db759348f1d89/crop/39x1030/2945x2967/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/04/17333318491311.jpg",
+        "tags": [
+            "artículos ana del barrio"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/12/05/67508f85e85ece8a648b45ae.html",
+        "date": "2024-12-05 01:39:21",
+        "sentiment_score": -0.07720339298248291
+    },
+    {
+        "title": "Mi primera experiencia porno de verdad: dentro de un rodaje de cine para adultos y en una auténtica inmersión en busca del deseo",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/5c984949e21b7d22b720ac816d83a226/crop/556x71/2525x1548/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/04/17333263159921.jpg",
+        "tags": [
+            "yodona",
+            "actualidad"
+        ],
+        "link": "https://www.elmundo.es/yodona/actualidad/2024/12/05/67503da721efa0975c8b45b9.html",
+        "date": "2024-12-05 01:38:06",
+        "sentiment_score": -0.2888247072696686
+    },
+    {
+        "title": "Los mejores planes este fin de semana en Madrid: humor, luces, inmersión y un homenaje a Paul McCartney",
+        "image_url": "https://s1.elespanol.com/2024/12/04/madrid/ocio/906170242_251430419_1706x960.jpg?contentId=ESPIMA20241204_0868",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241205/mejores-planes-fin-semana-madrid-humor-luces-inmersion-homenaje-paul-mccartney/906159775_0.html",
+        "date": "2024-12-05 01:30:00",
+        "sentiment_score": 0.6427824525162578
+    },
+    {
+        "title": "Transavia, la ‘low cost’ de Air France, refuerza su apuesta en España para competir con Vueling y Volotea",
+        "image_url": "https://s1.elespanol.com/2024/12/04/invertia/empresas/turismo/906170221_251429779_1706x960.jpg?contentId=ESPIMA20241204_0847",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20241205/transavia-low-cost-air-france-refuerza-apuesta-espana-competir-vueling-volotea/906159857_0.html",
+        "date": "2024-12-05 01:30:00",
+        "sentiment_score": 0.6056073289364576
+    },
+    {
+        "title": "El Barça se agarra a la normativa UEFA para justificar el retraso de Limak en las obras del Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/06/15/culemania/palco/863173712_13098764_1706x960.jpg?contentId=ESPIMA20240615_0038",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241205/el-barca-uefa-justificar-limak-camp-nou/906159481_0.html",
+        "date": "2024-12-05 01:13:25",
+        "sentiment_score": -0.1508171111345291
+    },
+    {
+        "title": "Laporta se asegura un desfile militar en la asamblea de Nike: el salvavidas insuficiente de Dani Olmo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/19/culemania/palco/894670565_13604895_1706x960.jpg?contentId=ESPIMA20241019_0041",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241205/laporta-de-nike-salvavidas-insuficiente-dani-olmo/906159499_0.html",
+        "date": "2024-12-05 01:13:21",
+        "sentiment_score": 0.08607657812535763
+    },
+    {
+        "title": "El Barça quiere ingresar 5 millones anuales con los asientos destinados a la Grada en el nuevo Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/26/culemania/culemaniacos/904169728_13777021_1706x960.jpg?contentId=ESPIMA20241126_0154",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241205/el-barca-ingresar-destinados-grada-camp-nou/906159441_0.html",
+        "date": "2024-12-05 00:59:55",
+        "sentiment_score": -0.8330228943377733
+    },
+    {
+        "title": "Feijóo avisa a Vox: no se someterá a “chantajes de ningún tipo” para aprobar los presupuestos",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/04/2024110415341186376.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/feijoo-avisa-vox-sometera-chantajes-ningun-tipo-aprobar-presupuestos/20241205014830326380.html",
+        "date": "2024-12-05 00:48:30",
+        "sentiment_score": -0.8320670947432518
+    },
+    {
+        "title": "Biden se duerme durante reunión con líderes africanos (+Video)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/biden-se-duerme-durante-reunion-con-lideres-africanos-video--202412422130",
+        "date": "2024-12-05 02:13:00",
+        "sentiment_score": -0.22116094827651978
+    },
+    {
+        "title": "Informan cómo será el reembolso del Cusica Fest y la gira de Rawayana en Venezuela",
+        "image_url": "https://pbs.twimg.com/media/Gd_w18FWcAAChBj?format=jpg&name=medium",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/informan-como-sera-el-reembolso-del-cusica-fest-y-la-gira-de-rawayana-en-venezuela-202412422100",
+        "date": "2024-12-05 02:10:00",
+        "sentiment_score": 0.7741172313690186
+    },
+    {
+        "title": "Bancos activan horario navideño: sepa dónde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/bancos-activan-horario-navideno-sepa-donde-20241242260",
+        "date": "2024-12-05 02:06:00",
+        "sentiment_score": 0.08710578829050064
+    },
+    {
+        "title": "Trump postula a un astronauta multimillonario para dirigir la NASA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-postula-a-un-astronauta-multimillonario-para-dirigir-la-nasa-202412421320",
+        "date": "2024-12-05 01:32:00",
+        "sentiment_score": 0.22347547113895416
+    },
+    {
+        "title": "Estas son las pistas de patinajes que abrieron en Dallas (+Lista)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/estas-son-las-pistas-de-patinajes-que-abrieron-en-dallas-lista--202412421300",
+        "date": "2024-12-05 01:30:00",
+        "sentiment_score": 0.5935051888227463
+    },
+    {
+        "title": "Sepa el nuevo horario y las medidas de seguridad en frontera de Paraguachón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/sepa-el-nuevo-horario-y-las-medidas-de-seguridad-en-frontera-de-paraguachon-202412421170",
+        "date": "2024-12-05 01:17:00",
+        "sentiment_score": -0.012319810688495636
+    },
+    {
+        "title": "Texas: Dos leyes vehiculares entrarán en vigor en 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-dos-leyes-vehiculares-entraran-en-vigor-en-2025-20241242180",
+        "date": "2024-12-05 01:08:00",
+        "sentiment_score": 0.1221226267516613
+    },
+    {
+        "title": "¿Qué pasó con el icónico cuadro de Silvia Pinal que pintó Diego Rivera?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/que-paso-con-el-iconico-cuadro-de-silvia-pinal-que-pinto-diego-rivera--202412415400",
+        "date": "2024-12-05 00:40:00",
+        "sentiment_score": -0.005288064479827881
+    },
+    {
+        "title": "Sharenting: ¿Hasta dónde llega el peligro de compartir la vida de tus hijos en redes sociales?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/sharenting-hasta-donde-llega-el-peligro-de-compartir-la-vida-de-tus-hijos-en-redes-sociales--202412420360",
+        "date": "2024-12-05 00:36:00",
+        "sentiment_score": -0.8740746285766363
+    },
+    {
+        "title": "¿Cuándo será la última parada del Canadian Pacific 2024 en Illinois?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuando-sera-la-ultima-parada-del-canadian-pacific-2024-en-illinois--202412420250",
+        "date": "2024-12-05 00:25:00",
+        "sentiment_score": 0.1575301457196474
     }
 ];
