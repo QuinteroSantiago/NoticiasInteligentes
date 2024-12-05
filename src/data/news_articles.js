@@ -1,143 +1,5 @@
 export default [
     {
-        "title": "Dina Boluarte nombra nuevo ministro de Energía y Minas después de que el Congreso censuró al anterior",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1755176-copia-de-foto-para-wp-2024-09-19t082435-794.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "dina boluarte",
-            "perú"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/dina-boluarte-nombra-ministro-energia-y-minas-congreso-censuro-al-anterior-orix/",
-        "date": "2024-12-01 06:30:40",
-        "sentiment_score": -0.3781920075416565
-    },
-    {
-        "title": "La Casa Blanca dice que está “monitoreando de cerca” los acontecimientos en Siria después de que los rebeldes sirios tomaran el control de la mayor parte de Aleppo",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788809-rusia-ataca-a-rebeldes-sirios-que-entraron-a-aleppo.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "política",
-            "aleppo",
-            "siria",
-            "estados unidos noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/casa-blanca-monitorea-acontecimientos-siria-rebeldes-tomaran-alepo-trax/",
-        "date": "2024-12-01 06:05:17",
-        "sentiment_score": -0.281234547495842
-    },
-    {
-        "title": "ANÁLISIS | La ilusión del control de Bashar al-Assad sobre Siria se desmorona, mientras Rusia, Irán y Hezbollah bajan la guardia",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789033-gettyimages-2186948661-copy.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "siria",
-            "análisis"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/ilusion-control-bashar-al-assad-siria-desmorona-trax/",
-        "date": "2024-12-01 05:57:53",
-        "sentiment_score": -0.0180036723613739
-    },
-    {
-        "title": "Borrell, adiós a la voz disidente en la política exterior de la UE",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d6855ede-c670-49f5-a307-821875a56bc4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/internacional/2024/12/01/borrell-adios-voz-disidente-politica-exterior-ue-112222410.html",
-        "date": "2024-12-01 06:26:43",
-        "sentiment_score": 0.06395462155342102
-    },
-    {
-        "title": "Prorrogada la prisión del asesino del niño Mohamed",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1131651",
-        "date": "2024-12-01 06:22:42",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El gancho de una estafa por smishing que termina con condena",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1131652",
-        "date": "2024-12-01 06:15:43",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El 0-5 del Atlético de Madrid en el Real Valladolid 0-5 Atlético de Madrid de la jornada 15 de LaLiga EA Sports",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/923ea26a-9f71-44c1-ac94-c8bc9c33c949_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemurcia.es/videos/deportes/2024/12/01/0-5-atletico-madrid-real-112222116.html",
-        "date": "2024-12-01 06:02:58",
-        "sentiment_score": -0.03370495140552521
-    },
-    {
-        "title": "Clamor entre el colectivo gay por la implantación de la 'pastilla antisida': \"Crecimos con miedo al VIH, este fármaco nos da tranquilidad\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b4d25617-ae86-4254-9240-977b34b6e10d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodemallorca.es/sociedad/2024/12/01/clamor-colectivo-gay-implantacion-pastilla-112222430.html",
-        "date": "2024-12-01 06:30:37",
-        "sentiment_score": -0.1076367199420929
-    },
-    {
-        "title": "Los vuelos chárter animan el aeropuerto de Vitoria",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9eb478cb-f21d-419c-aba7-0349a4261296_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/alava/2024/12/01/vuelos-charter-animan-aeropuerto-vitoria-diciembre-8995869.html",
-        "date": "2024-12-01 06:30:03",
-        "sentiment_score": 0.6542836502194405
-    },
-    {
-        "title": "El Baskonia aspira a confirmar su remontada a costa de un potente Valencia Basket",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/52fce160-f12a-40df-ada3-14e9118bb62d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2024/12/01/baskonia-aspira-confirmar-remontada-costa-valencia-basket-buesa-arena-acb-8997345.html",
-        "date": "2024-12-01 06:30:03",
-        "sentiment_score": 0.8916226327419281
-    },
-    {
-        "title": "Jordi Évole, más allá del presentador: un hijo, su relación con Anna Gabriel y una productora",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/11/HURTADO-MARINA-OCH-2111-1-469x317.jpg",
-        "tags": [
-            "celebrities",
-            "jordi evole",
-            "gente",
-            "relaciones de pareja"
-        ],
-        "link": "https://theobjective.com/gente/2024-12-01/jordi-evole-presentador-productora-anna-gabriel-hijo/",
-        "date": "2024-12-01 06:30:00",
-        "sentiment_score": 0.4432736672461033
-    },
-    {
-        "title": "Pocas luces",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5e413a72-b063-4f5d-8caf-1101832a2050_16-9-aspect-ratio_default_0_x1039y100.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/opinion/2024/12/01/luces-112222138.html",
-        "date": "2024-12-01 06:05:31",
-        "sentiment_score": -0.0745314210653305
-    },
-    {
-        "title": "Es falso que los inmigrantes estén haciendo subir el precio del alquiler",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4218ad10-910b-407f-8b47-843da097eec1_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20241201/falso-inmigrantes-esten-haciendo-subir-112156505",
-        "date": "2024-12-01 06:00:57",
-        "sentiment_score": -0.26612789183855057
-    },
-    {
         "title": "Manifestantes protestan por tercera noche consecutiva en Georgia tras suspensión de conversaciones sobre adhesión a la Unión Europea",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789203-copia-de-foto-para-wp-2024-12-01t095037-224.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -252,17 +114,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/2024/12/01/ataques-israelies-habrian-matado-200-personas-norte-gaza-incluidas-40-solo-ataque-trax/",
         "date": "2024-12-01 10:54:15",
         "sentiment_score": -0.8034489713609219
-    },
-    {
-        "title": "Assad dice a los líderes regionales que Siria defenderá su estabilidad contra el terrorismo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/11/gettyimages-2186948661-copy.jpg?quality=100&strip=info",
-        "tags": [
-            "ataques a siria",
-            "siria"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/01/assad-dice-lideres-regionales-siria-defendera-su-estabilidad-contra-terrorismo-trax/",
-        "date": "2024-12-01 09:42:57",
-        "sentiment_score": -0.057345762848854065
     },
     {
         "title": "El 'Pepedeclarante' ante el Senado",
@@ -6344,5 +6195,565 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241204/la-masia-sentenciada-hansi-flick-suplente-jornadas/906159461_0.html",
         "date": "2024-12-04 17:01:07",
         "sentiment_score": -0.82690354809165
+    },
+    {
+        "title": "Video muestra a agentes rescatando a dos niños del patio trasero de una casa en llamas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-casa.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/casa-incendio-agentes-rescate-ninos-ush-orix/",
+        "date": "2024-12-04 21:12:06",
+        "sentiment_score": -0.3643483482301235
+    },
+    {
+        "title": "La Guardia Civil española detiene a 7 personas por el robo de cajeros automáticos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/guardia-civil-00-00-29-05-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guardia-civil-espana-robo-cajero-automatico-banco-orix/",
+        "date": "2024-12-04 20:37:35",
+        "sentiment_score": -0.6624946091324091
+    },
+    {
+        "title": "Manuel Adorni: Argentina puede ser uno de los polos tecnológicos y de IA más importantes del mundo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/adorni-2.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "inteligencia artificial",
+            "argentina",
+            "javier milei"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/adorni-argentina-tecnologia-ia-musk-oppenheimer-presenta-tv/",
+        "date": "2024-12-04 20:37:29",
+        "sentiment_score": 0.25974301993846893
+    },
+    {
+        "title": "Manuel Adorni sobre el Mercosur: No vemos problema en que los países se pongan de acuerdo en tratados de libre comercio",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/adorni.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-mercosur-salida-libre-comercio-oppenheimer-presenta-tv/",
+        "date": "2024-12-04 20:37:19",
+        "sentiment_score": -0.13715560734272003
+    },
+    {
+        "title": "Un año de Milei en Argentina: los puntos altos y bajos de su gestión, según Andrés Oppenheimer",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2186529930.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milei-argentina-primer-ano-balance-oppenheimer-presenta-tv/",
+        "date": "2024-12-04 20:37:01",
+        "sentiment_score": 0.013542473316192627
+    },
+    {
+        "title": "Autoridades identificaron a los tres adolescentes que murieron tras accidente en un Cybertruck de Tesla en Piedmont",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "accidente automovilístico",
+            "estados unidos noticias",
+            "noticias de ee.uu.",
+            "tesla",
+            "videos digitales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/piedmont-cybertruck-accidente-tres-muertos-ush-trax/",
+        "date": "2024-12-04 19:28:53",
+        "sentiment_score": -0.7022983338683844
+    },
+    {
+        "title": "Estados Unidos afirma que el cese del fuego entre Israel y Hezbollah “sigue manteniéndose en gran medida”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "xpress",
+            "alto el fuego",
+            "guerra israel hezbollah",
+            "medio oriente",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-tregua-israel-hezbollah-alto-el-fuego-redaccion-buenos-aires-tv-fast/",
+        "date": "2024-12-04 19:12:54",
+        "sentiment_score": 0.022721678018569946
+    },
+    {
+        "title": "Unión Eléctrica de Cuba confirma “desconexión total del sistema” a nivel nacional",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "cuba",
+            "xpress",
+            "apagón en cuba",
+            "fast – news variety",
+            "energía eléctrica"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cuba-union-electrica-confirma-desconexion-total-electrica-redaccion-buenos-aires-tv-fast/",
+        "date": "2024-12-04 19:07:55",
+        "sentiment_score": -0.7490108776837587
+    },
+    {
+        "title": "CEO de UnitedHealthcare muere a tiros en el centro de Manhattan",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "nueva york",
+            "asesinato",
+            "xpress",
+            "manhattan",
+            "noticias de ee.uu.",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/brian-thompson-unitedhealthcare-ataque-redaccion-buenos-aires-tv-fast/",
+        "date": "2024-12-04 19:03:16",
+        "sentiment_score": -0.8310655821114779
+    },
+    {
+        "title": "“Estamos trabajando en todas las áreas”: Sheinbaum afirma que elabora un plan para hacer frente a deportaciones masivas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/36312806-06796048-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "xpress",
+            "méxico",
+            "fast – news variety",
+            "deportación inmigrantes",
+            "gobierno de méxico",
+            "claudia sheinbaum"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-trabaja-en-plan-deportaciones-masivas-eeuu-perspectivas-mexico-tv/",
+        "date": "2024-12-04 18:23:41",
+        "sentiment_score": 0.212399423122406
+    },
+    {
+        "title": "Un análisis de sangre prenatal podrían alerta de cánceres maternos ocultos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/12/04/6261112692_48394736b1_o.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/analisis-sangre-prenatal-indicar-canceres-maternos-ocultos-20241204130133-nt.html",
+        "date": "2024-12-04 22:00:00",
+        "sentiment_score": -0.10959474742412567
+    },
+    {
+        "title": "Airbus recortará 303 puestos de trabajo en su división de Defence and Space en España",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/04/airbus-kV2E-U6034495950925xE-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/airbus-recortara-303-puestos-trabajo-division-defence-20241204223346-nt.html",
+        "date": "2024-12-04 21:33:47",
+        "sentiment_score": -0.025319993495941162
+    },
+    {
+        "title": "Fainé nombra a Josep Maria Coronas nuevo director general de la Fundación 'la Caixa'",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/04/torres-negras-caixa-RtUPZS849IOSUriRVB1RbEI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/faine-nombra-josep-maria-coronas-nuevo-director-20241204215947-nt.html",
+        "date": "2024-12-04 21:19:36",
+        "sentiment_score": -0.10557767748832703
+    },
+    {
+        "title": "FCC, Sacyr y Becsa ganan la nueva conexión de L5 de Metro de Madrid con Barajas por 181 millones de euros",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/04/metro-kIt-U603449318351X7G-1200x840@diario_abc.PNG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fcc-sacyr-becsa-ganan-nueva-conexion-metro-20241204214905-nt.html",
+        "date": "2024-12-04 20:49:41",
+        "sentiment_score": -0.03800308704376221
+    },
+    {
+        "title": "La Comisión Europea ofrece colaborar en la investigación contra Reynders por blanqueo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/04/DidierReynders-RCX9NvSyqglSdY8kHUuwgOM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/comision-europea-ofrece-colaborar-investigacion-reynders-blanqueo-20241204204740-nt.html",
+        "date": "2024-12-04 19:50:49",
+        "sentiment_score": -0.14727377891540527
+    },
+    {
+        "title": "La pinza entre la izquierda y Le Pen tumba el gobierno más efímero de la V República francesa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/04/barnier_03-RXzzKGBrzLsY6oV9782O54I-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/asamblea-nacional-aprueba-mocion-censura-gobierno-barnier-20241204203045-nt.html",
+        "date": "2024-12-04 19:43:12",
+        "sentiment_score": -0.08065357804298401
+    },
+    {
+        "title": "Trump propone que Canadá sea anexionado dentro de EE.UU. para facilitar el comercio",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/04/donald-trump-RiV0d9VGHj8oU2dYf0WnQ7H-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-propone-canada-anexionado-dentro-eeuu-facilitar-20241204203912-nt.html",
+        "date": "2024-12-04 19:39:12",
+        "sentiment_score": -0.14238214492797852
+    },
+    {
+        "title": "España no puede resignarse a que siga bajando el nivel en su escuela",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/03/pizzeriakuro08-kfCH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-espana-puede-resignarse-siga-bajando-nivel-escuela-20241205201342-nt.html",
+        "date": "2024-12-04 19:22:16",
+        "sentiment_score": -0.6822318434715271
+    },
+    {
+        "title": "¿La habéis visto en los balcones?",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/03/avecinaok-k0TB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-visto-balcones-20241205165211-nts.html",
+        "date": "2024-12-04 19:19:31",
+        "sentiment_score": -0.04061657190322876
+    },
+    {
+        "title": "Vox, la nueva oposición del PP",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/11/29/correos-U26611416646Dsc-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-vox-nueva-oposicion-pp-20241205200443-nt.html",
+        "date": "2024-12-04 19:12:19",
+        "sentiment_score": -0.09379738569259644
+    },
+    {
+        "title": "El Constitucional ordena reabrir el caso de la muerte de un detenido en dependencias de la policía local de un pueblo de Jaén",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/US5YV6LOFRGBDKMEQ6URHJDTKU.jpg?auth=b8f94e71476743398f951ac5e938c87ad459df165ba62a5d117d41ed16efb051&width=1200",
+        "tags": [
+            "policía",
+            "españa",
+            "recurso amparo",
+            "jaén",
+            "sentencias",
+            "andalucía",
+            "tribunal constitucional",
+            "jódar"
+        ],
+        "link": "https://elpais.com/espana/2024-12-04/el-constitucional-ordena-reabrir-el-caso-de-la-muerte-de-un-detenido-en-dependencias-de-la-policia-local-de-un-pueblo-de-jaen.html",
+        "date": "2024-12-04 20:43:30",
+        "sentiment_score": -0.672177841886878
+    },
+    {
+        "title": "Airbus recortará un 3% su plantilla de Defensa y Espacio en España con 303 salidas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LE2B4V5J6VB2RENLDKZBX5EH4Q.jpg?auth=e61061f73005e4a4dd75d16a031c56d017c8e1cd805a68a016d90a50db79c9b2&width=1200",
+        "tags": [
+            "airbus industrie",
+            "economía",
+            "empleo",
+            "industria"
+        ],
+        "link": "https://elpais.com/economia/2024-12-04/airbus-recortara-un-3-su-plantilla-de-defensa-y-espacio-en-espana-con-303-salidas.html",
+        "date": "2024-12-04 20:31:24",
+        "sentiment_score": 0.05857729911804199
+    },
+    {
+        "title": "Detenido el patrón de una patera acusado de violar a una menor durante el viaje",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SN2VTJRVDVBDJEU26M5N22K4WM.jpg?auth=a5510776787ae03e5ca24bccbb76da991f527b057e4f8a24c2fe3175176d8ac8&width=1200",
+        "tags": [
+            "menores migrantes",
+            "agresiones sexuales",
+            "violaciones",
+            "españa",
+            "migración",
+            "pateras",
+            "consell",
+            "isla formentera"
+        ],
+        "link": "https://elpais.com/espana/2024-12-04/detenido-el-patron-de-una-patera-acusado-de-violar-a-una-menor-durante-el-viaje.html",
+        "date": "2024-12-04 19:06:55",
+        "sentiment_score": -0.6574895568192005
+    },
+    {
+        "title": "Colas en plena calle para ver un piso de alquiler por menos de 1.000 euros en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2QVRQ6P6LBBPDBSKDC2AHE5IJA.png?auth=b88bbe72b52222c8c548b2815779924f7b86803cefbb77457aaf4b47aba64ad6&width=1200",
+        "tags": [
+            "gràcia",
+            "cataluña",
+            "vivienda",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-04/colas-en-plena-calle-para-ver-un-piso-de-alquiler-por-menos-de-1000-euros-en-barcelona.html",
+        "date": "2024-12-04 18:54:54",
+        "sentiment_score": 0.2858614884316921
+    },
+    {
+        "title": "El Constitucional admite a trámite el recurso del PP contra la eliminación del poder de veto del Senado al techo de gasto",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FXRDSKDUJNDZ5HDXKQHCLJQ4WE.jpg?auth=156cc85c33d41e53870d991b62b0aeef0daf30c5e2e2e1514e5921507d7eb136&width=1200",
+        "tags": [
+            "tribunal constitucional",
+            "senado",
+            "psoe",
+            "pp",
+            "política",
+            "sumar",
+            "españa",
+            "gobierno"
+        ],
+        "link": "https://elpais.com/espana/2024-12-04/el-constitucional-admite-a-tramite-el-recurso-del-pp-contra-la-eliminacion-del-poder-de-veto-del-senado-al-techo-de-gasto.html",
+        "date": "2024-12-04 18:49:33",
+        "sentiment_score": -0.24885280430316925
+    },
+    {
+        "title": "Sumar pide al Congreso que desclasifique de su archivo documentos secretos sobre uno de los crímenes de la Transición nunca esclarecido",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FN6EMUYRO5S55C7LCYL5IXROOI.jpg?auth=f2db15cd8009639f7b5bd580d3cadb28b220975cdf65fb40842a4cc700c76784&width=1200",
+        "tags": [
+            "congreso ciudadanos",
+            "málaga",
+            "transición democrática",
+            "documentación",
+            "transición española",
+            "manifestaciones",
+            "andalucía",
+            "manuel josé garcía caparrós",
+            "sumar",
+            "policía nacional",
+            "españa",
+            "izquierda unida"
+        ],
+        "link": "https://elpais.com/espana/2024-12-04/sumar-pide-al-congreso-que-desclasifique-de-su-archivo-documentos-secretos-sobre-uno-de-los-crimenes-de-la-transicion-nunca-esclarecido.html",
+        "date": "2024-12-04 18:34:57",
+        "sentiment_score": -0.3864846043288708
+    },
+    {
+        "title": "Albares pide “cerrar la excepcionalidad” de la Eurocámara, la única institución europea donde no se puede hablar catalán o euskera",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/P36B2DYBVVGPY54GS67EOIEA2A.jpg?auth=a70d9478b5bafc0701a3dc17d6ae075fa8ffad1ee9ec1d3c11cf5a39085ce005&width=1200",
+        "tags": [
+            "josé manuel albares",
+            "catalán",
+            "unión europea",
+            "roberta metsola",
+            "españa",
+            "gallego",
+            "parlamento europeo",
+            "euskera"
+        ],
+        "link": "https://elpais.com/espana/2024-12-04/albares-pide-cerrar-la-excepcionalidad-de-la-eurocamara-la-unica-institucion-europea-donde-no-se-puede-hablar-catalan-o-euskera.html",
+        "date": "2024-12-04 18:00:40",
+        "sentiment_score": 0.2214304283261299
+    },
+    {
+        "title": "Marlaska vuelve a poner a un guardia civil al frente del centro de inteligencia contra el terrorismo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CPOVDR4DB632FQDLKHMKTBNEEI.jpg?auth=164366306264c44b99b08497a6c54bfa1c274df37b2cda46cef9e3558eb70ae6&width=1200",
+        "tags": [
+            "guardia civil",
+            "ministerio del interior",
+            "crimen organizado",
+            "españa",
+            "policía nacional",
+            "terrorismo"
+        ],
+        "link": "https://elpais.com/espana/2024-12-04/marlaska-vuelve-a-poner-a-un-guardia-civil-al-frente-del-centro-de-inteligencia-contra-el-terrorismo.html",
+        "date": "2024-12-04 17:46:34",
+        "sentiment_score": 0.02729940414428711
+    },
+    {
+        "title": "Vecinos de un torre de viviendas sociales de la Generalitat, entre ellos dos discapacitados, denuncian la desatención de su casero tras la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DJWH37BIXFGGPAXRSYCX64Z32U.jpg?auth=d745b84b1d03ccc2529c154fa780e03e33f3c5d0d2f314cab5e2d4450b2660f3&width=1200",
+        "tags": [
+            "valencia",
+            "inundaciones dana octubre 2024",
+            "inundaciones",
+            "carlos mazón",
+            "generalitat valenciana",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-04/vecinos-de-un-torre-de-viviendas-sociales-de-la-generalitat-entre-ellos-dos-discapacitados-denuncian-la-desatencion-de-su-casero-tras-la-dana.html",
+        "date": "2024-12-04 17:32:30",
+        "sentiment_score": -0.844042900018394
+    },
+    {
+        "title": "Sanidad estima que la dana duplicará los trastornos por ansiedad y depresión entre los afectados",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GDROEZCIAECMLCV665USB6P34U.jpg?auth=7c88db84acdab599cf85ce2ab75c88e83217ec5a620282e8b2951fa3224846d4&width=1200",
+        "tags": [
+            "ministerio de sanidad",
+            "salud mental",
+            "ansiedad",
+            "depresión",
+            "inundaciones dana octubre 2024",
+            "generalitat valenciana",
+            "inundaciones",
+            "mónica garcía gómez",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-04/sanidad-estima-que-la-dana-duplicara-los-trastornos-por-ansiedad-y-depresion-entre-los-afectados.html",
+        "date": "2024-12-04 17:22:03",
+        "sentiment_score": 0.28198428452014923
+    },
+    {
+        "title": "El Madrid y Mbappé vuelven a las andadas",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/04/mbappe-kn6F--1920x1080@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/deportes/futbol/liga-primera/cronica-athletic-realmadrid-jornada19-primera-20241204170435-ntrc.html",
+        "date": "2024-12-04 22:16:48",
+        "sentiment_score": -0.3510460928082466
+    },
+    {
+        "title": "Athletic 2 - 1 Real Madrid | Las notas de Aitor Martínez: Vivian y una defensa magistral",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ffc20472-6576-47ce-a825-d3c09a648f98_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/athletic/2024/12/04/athletic-2-1-real-madrid-9014439.html",
+        "date": "2024-12-04 22:15:38",
+        "sentiment_score": 0.7792776077985764
+    },
+    {
+        "title": "El 1-0 del Athletic Club en el Athletic Club 2-1 Real Madrid de la jornada 19 de LaLiga EA Sports",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/85487cde-50f7-4285-90c4-fa6ae843b13e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/videos/deportes/2024/12/04/1-0-athletic-club-athletic-112339951.html",
+        "date": "2024-12-04 22:14:11",
+        "sentiment_score": -0.0037086382508277893
+    },
+    {
+        "title": "Josep Maria Coronas sucede a Antonio Vila como director general de la Fundación La Caixa",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/7191084d3648abf2932b676b4a9ba6f1/crop/142x0/1151x673/f/webp/assets/multimedia/imagenes/2024/12/04/17333503134730.jpg",
+        "tags": [
+            "la caixa"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2024/12/04/6750d234fc6c83454b8b45b5.html",
+        "date": "2024-12-04 22:12:30",
+        "sentiment_score": 0.20624427124857903
+    },
+    {
+        "title": "Michael Reid y Xavier Colás: \"Hacer periodismo se ha puesto más difícil que antes pero es más necesario que nunca\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/86728de101be78bfd7e5a7bc449701a9/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/04/17333399013800.jpg",
+        "tags": [
+            "artículos alberto rojas"
+        ],
+        "link": "https://www.elmundo.es/papel/lideres/2024/12/04/6750aadffc6c833e7a8b45ae.html",
+        "date": "2024-12-04 22:05:49",
+        "sentiment_score": -0.24164262413978577
+    },
+    {
+        "title": "Mbappé condena al Real Madrid en San Mamés: otro penalti fallado que revitaliza al Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/04/culemania/real-madrid/906169590_13823081_1706x960.jpg?contentId=ESPIMA20241204_0216",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20241204/mbappe-al-real-madrid-san-mames-barca/906159498_0.html",
+        "date": "2024-12-04 22:05:43",
+        "sentiment_score": -0.07523983716964722
+    },
+    {
+        "title": "Joaquim Vayreda, un paisatgista pur (1894)",
+        "image_url": "https://static1.ara.cat/clip/9454ecc2-13d9-4939-b7c5-ffa6ff692d91_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/joaquim-vayreda-paisatgista-pur-1894_1_5218671.html",
+        "date": "2024-12-04 22:00:51",
+        "sentiment_score": -0.21902337670326233
+    },
+    {
+        "title": "La firma de nuevos alquileres en Barcelona cae un 16%",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/20bf1bdcdd83f0611e1d955e47244997/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/04/17333490174713.jpg",
+        "tags": [
+            "cataluña>",
+            "inmobiliario>",
+            "inmobiliario y construcción>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2024/12/04/6750ced0e5fdeaf7188b45a6.html",
+        "date": "2024-12-04 21:52:05",
+        "sentiment_score": -0.09729433804750443
+    },
+    {
+        "title": "Tres acertantes ganan más de 45.000 euros en la Bonoloto de este miércoles",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/12/04/121091327-kQ0B-U2302056445630AF-1200x840@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/tres-acertantes-ganan-45000-euros-bonoloto-miercoles-20241204224328-nt.html",
+        "date": "2024-12-04 21:43:28",
+        "sentiment_score": 0.7651462815701962
+    },
+    {
+        "title": "La 'ciudad instantánea' levantada en Ibiza en 1971: un millón de grapas y 15.000 metros cuadrados de plástico",
+        "image_url": "https://static.eldiario.es/clip/f6c46816-90c3-4675-9e55-f978c5d10575_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/illes-balears/sociedad/ciudad-instantanea-levantada-ibiza-1971-millon-grapas-15-000-metros-cuadrados-plastico_1_11876275.html",
+        "date": "2024-12-04 21:42:01",
+        "sentiment_score": -0.01602756977081299
+    },
+    {
+        "title": "El último metro que circuló el día de la DANA lo hizo por vías inundadas: \"No murió nadie de casualidad\"",
+        "image_url": "https://static.eldiario.es/clip/34d7310e-2a21-49da-87c6-ba6e7b5df6da_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/comunitat-valenciana/ultimo-metro-circulo-dia-dana-hizo-vias-inundadas-no-murio-nadie-casualidad_1_11874872.html",
+        "date": "2024-12-04 21:41:58",
+        "sentiment_score": -0.13443449139595032
+    },
+    {
+        "title": "El auge de las excursiones en autocar baratas y sin factura: “Nadie pregunta si hay seguro”",
+        "image_url": "https://static.eldiario.es/clip/e7211121-f1e6-486f-a86c-e1e361d34ee8_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/auge-excursiones-autocar-baratas-factura-nadie-pregunta-si-hay-seguro_1_11876925.html",
+        "date": "2024-12-04 21:41:56",
+        "sentiment_score": -0.21317633986473083
+    },
+    {
+        "title": "El tremendo enfado de Poli Rincón tras el gol que marca Berenguer tras un fallo de Courtois: \"Es la consecuencia\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/12/04/6750c879ca847.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tremendo-enfado-poli-rincon-gol-berenguer-marca-fallo-courtois-consecuencia-20241204_3058152.html",
+        "date": "2024-12-04 21:37:28",
+        "sentiment_score": -0.1252278834581375
+    },
+    {
+        "title": "¿Cuáles cambios tendrá el proceso de ciudadanía estadounidense? le contamos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuales-cambios-tendra-el-proceso-de-ciudadania-estadounidense-le-contamos-20241241860",
+        "date": "2024-12-04 22:06:00",
+        "sentiment_score": 0.5294795837253332
+    },
+    {
+        "title": "Mira estos juegos de la NBA en vivo y en exclusiva por Meridiano Televisión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/mira-estos-juegos-de-la-nba-en-vivo-y-en-exclusiva-por-meridiano-television-20241241840",
+        "date": "2024-12-04 22:04:00",
+        "sentiment_score": 0.747944856993854
+    },
+    {
+        "title": "Real Madrid se enfrenta este fin de semana a Unicaja por Mediano Televisión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/real-madrid-se-enfrenta-este-fin-de-semana-a-unicaja-por-mediano-television-202412417420",
+        "date": "2024-12-04 21:42:00",
+        "sentiment_score": -0.003389410674571991
+    },
+    {
+        "title": "EEUU: Trabajadores con discapacidad podrán cobrar más dinero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-trabajadores-con-discapacidad-podran-cobrar-mas-dinero-202412417370",
+        "date": "2024-12-04 21:37:00",
+        "sentiment_score": -0.5233801975846291
     }
 ];
