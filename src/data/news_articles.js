@@ -1,247 +1,5 @@
 export default [
     {
-        "title": "Robo a punta de pistola de un reloj de lujo en Chamartín",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DFQ3MDH7MBN2265ZHWA7374YFU.jpg?auth=a895672db11729eaf5068f7b392c4102de1b3c46add17f687d8d375815d94db6&width=1200",
-        "tags": [
-            "robos",
-            "madrid",
-            "investigación policial",
-            "lujo",
-            "relojes",
-            "policía",
-            "comunidad de madrid",
-            "sucesos"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-02/robo-a-punta-de-pistola-de-un-reloj-de-lujo-en-chamartin.html",
-        "date": "2024-12-02 05:51:33",
-        "sentiment_score": -0.8065016120672226
-    },
-    {
-        "title": "La generación TikTok valenciana asume su momento histórico",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/75N2J3WKEVE6LM5YJ3A77BKCP4.jpg?auth=0fa27b7fce6e1bfd4a52751731de0660e75b4c84c7205c43cbce7f2d9c4c8cda&width=1200",
-        "tags": [
-            "inundaciones dana octubre 2024",
-            "carlos mazón",
-            "comunidad valenciana",
-            "dana",
-            "manifestaciones"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-02/la-generacion-tiktok-valenciana-asume-su-momento-historico.html",
-        "date": "2024-12-02 05:23:18",
-        "sentiment_score": -0.21841463446617126
-    },
-    {
-        "title": "Los coches más peculiares que han protagonizado la feria del Retromóvil Madrid",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/12/02/674d52f1ac618.jpeg",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.eldebate.com/motor/20241202/coches-peculiares-han-protagonizado-feria-retromovil-madrid_249643.html",
-        "date": "2024-12-02 06:29:13",
-        "sentiment_score": 0.7292260751128197
-    },
-    {
-        "title": "HRW pide al Gobierno egipcio que garantice la educación a los niños refugiados y solicitantes de asilo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241202072313_120.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-hrw-pide-gobierno-egipcio-garantice-educacion-ninos-refugiados-solicitantes-asilo-20241202072313.html",
-        "date": "2024-12-02 06:23:13",
-        "sentiment_score": -0.7688909359276295
-    },
-    {
-        "title": "Más de 6.000 símbolos del franquismo persisten en España, seis en Ceuta",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1131922",
-        "date": "2024-12-02 06:21:51",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "A licitación el cribado de cáncer de colon en población de riesgo",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1131928",
-        "date": "2024-12-02 06:15:02",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Solo cuatro autonomías se libran de tener empresas con ERTE por la DANA",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eee96fe1-ba3c-46e6-9f21-95e667c80d99_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20241202/cuatro-autonomias-libran-empresas-erte-112228538",
-        "date": "2024-12-02 06:11:49",
-        "sentiment_score": -0.8510873690247536
-    },
-    {
-        "title": "La dana de Faitanar: una alquería derruida y la huerta regada de basura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/07299ca8-2a5a-4d01-b14d-1dfbeea26f72_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia/2024/12/02/dana-faitanar-alqueria-derruida-huerta-112236117.html",
-        "date": "2024-12-02 06:00:37",
-        "sentiment_score": -0.522373341023922
-    },
-    {
-        "title": "«El mundo se mueve por la fuerza de los equipos, no de los individuos»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/548f10c7-e08c-4245-bb90-f773b1152290_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/badajoz/2024/12/02/mundo-mueve-fuerza-equipos-individuos-112200711.html",
-        "date": "2024-12-02 06:00:31",
-        "sentiment_score": -0.0022589415311813354
-    },
-    {
-        "title": "Juan López Frade, \"hay que situar al consumidor en el centro de la transición hacia el coche eléctrico\"",
-        "image_url": "https://static.grupojoly.com/clip/0443810f-4e3f-4f7a-b0f6-3de29e53437f_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.huelvainformacion.es/motor/juan-lopez-frade-hay-situar_0_2002908199.html",
-        "date": "2024-12-02 06:00:14",
-        "sentiment_score": 0.2565724588930607
-    },
-    {
-        "title": "El Real Ávila, un club liderado por un médico y político que busca pescar en río revuelto: \"Ganas de dar la sorpresa\"",
-        "image_url": "https://s1.elespanol.com/2024/12/01/castilla-y-leon/region/avila/905419792_251344885_1706x960.jpg?contentId=ESPIMA20241201_0343",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/avila/20241202/real-avila-club-liderado-medico-politico-busca-pescar-rio-revuelto-ganas-dar-sorpresa/905409547_0.html",
-        "date": "2024-12-02 06:00:00",
-        "sentiment_score": -0.6702528614550829
-    },
-    {
-        "title": "Las 10 personas más ricas del mundo a diciembre de 2024",
-        "image_url": "https://forbes.es/wp-content/uploads/2024/12/50F837F9-970D-41BE-AC00-CA236A90C7B9.jpg",
-        "tags": [
-            "elon musk",
-            "amancio ortega",
-            "forbes ricos",
-            "actualidad",
-            "steve ballmer",
-            "warren buffet",
-            "larry ellison",
-            "jeff bezos",
-            "larry page",
-            "mark zuckerberg",
-            "bernard arnault",
-            "sergey brin"
-        ],
-        "link": "https://forbes.es/forbes-ricos/559462/las-10-personas-mas-ricas-del-mundo-a-diciembre-de-2024/",
-        "date": "2024-12-02 06:00:00",
-        "sentiment_score": 0.6384556405246258
-    },
-    {
-        "title": "Dos muertos en un accidente de autobús al volver de Andorra",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/3edad945-0297-5ec5-e637f1349fb80199.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z25cdfe10-ea7b-390c-a2144db5f3a9bb6d/202412/dos-muertos-en-un-accidente-de-autobus-al-volver-de-andorra",
-        "date": "2024-12-02 06:33:33",
-        "sentiment_score": -0.7533535696566105
-    },
-    {
-        "title": "Vaticinan el futuro de KTM en MotoGP después de declararse en quiebra con miles de millones de deuda",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/12/02/674d501f8d7d6.r_d.1983-2118-1169.jpeg",
-        "tags": [
-            "motogp"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/motogp/20241202/1002363703/vaticinan-futuro-ktm-motogp-declararse-quiebra-miles-millones-deuda-smd.html",
-        "date": "2024-12-02 06:29:31",
-        "sentiment_score": 0.07689344882965088
-    },
-    {
-        "title": "Las albóndigas más suculentas de Barcelona al mejor precio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e4725f1-195c-4d23-913f-e59246870289_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241202/mejores-albondigas-baratas-barcelona-restaurantes-110086111",
-        "date": "2024-12-02 06:19:27",
-        "sentiment_score": 0.3951111063361168
-    },
-    {
-        "title": "«Lloré de orgullo y me quedé sin aire, casi me muero»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/df3928f5-5595-4133-8f65-d2784b9cd4b0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/ud-las-palmas/2024/12/02/llore-orgullo-quede-aire-muero-112243945.html",
-        "date": "2024-12-02 06:17:09",
-        "sentiment_score": 0.018309682607650757
-    },
-    {
-        "title": "Valladolid, en los primeros puestos del saneamiento en España",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/27/brazo-norte-rio-kJ7F-R9HaL3ZMmkZKxbxiwqlirNM-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/170aniversario/historias-de-nuestra-historia/valladolid-primeros-puestos-saneamiento-espana-20241202071303-nt.html",
-        "date": "2024-12-02 06:13:03",
-        "sentiment_score": 0.02981395274400711
-    },
-    {
-        "title": "Lo que debes saber hoy, 2 de diciembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/12/20/vivir-en-barcelona/818678234_12115014_1706x960.jpg?contentId=ESPIMA20231220_0110",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241202/lo-que-debes-saber-hoy-de-diciembre-barcelona/905659426_0.html",
-        "date": "2024-12-02 06:12:04",
-        "sentiment_score": -0.0667492002248764
-    },
-    {
-        "title": "Al menos dos muertos y unos 40 heridos en un accidente de autocar en el Pirineo francés",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2024/12/02/674d4f4ae2a4f.jpeg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/sucesos/2024/12/02/dos-muertos-40-heridos-accidente-autocar-el-pirineo-frances-630722-3204.html",
-        "date": "2024-12-02 06:11:36",
-        "sentiment_score": -0.5156928859651089
-    },
-    {
-        "title": "Natàlia Boronat, periodista: \"Es una lástima que Rusia no haya logrado crear un espacio atractivo para sus vecinos\"",
-        "image_url": "http://www.publico.es//files/crop/uploads/2024/11/26/67458d87e0ade.r_4.0-0-1267-845.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "http://www.publico.es/internacional/natalia-boronat-periodista-lastima-rusia-no-haya-logrado-crear-espacio-atractivo-vecinos.html",
-        "date": "2024-12-02 06:10:00",
-        "sentiment_score": -0.08056582510471344
-    },
-    {
-        "title": "Las tareas que le esperan al nuevo entrenador del Real Valladolid",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/01/pucela-atleti-kQNI-U23017829291356G-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/tareas-esperan-nuevo-entrenador-real-valladolid-20241202070859-nt.html",
-        "date": "2024-12-02 06:08:59",
-        "sentiment_score": 0.0687345340847969
-    },
-    {
-        "title": "\"Congelo los 150.000 euros\": así coaccionó un cargo de Juntos dos concejalas",
-        "image_url": "https://static1.ara.cat/clip/b6c45b8c-721b-44b0-8b7f-7198230c396e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/politica/congelo-150-000-euros-coacciono-cargo-concejalas_1_5218428.html",
-        "date": "2024-12-02 06:00:59",
-        "sentiment_score": -0.26491862535476685
-    },
-    {
         "title": "CNN pregunta al principal asesor de Putin si cree que Trump puede resolver el conflicto en Ucrania",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/trump-sot-thumbnail-20241202165827686.jpg?quality=100&strip=info",
         "tags": [
@@ -7098,5 +6856,567 @@ export default [
         "link": "https://2001online.com/servicios/con-estos-productos-llega-la-bolsa-clap-en-el-junquito-foto--20241251280",
         "date": "2024-12-05 16:08:00",
         "sentiment_score": 0.13409344106912613
+    },
+    {
+        "title": "¿Cómo actuar ante una solicitud de documentos en Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1144141655.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "eeuu",
+            "inmigrante en ee.uu.",
+            "ee.uu.",
+            "migración"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-inmigracion-solicitud-documentos-derechos-residentes-autoridades-cnn-ush/",
+        "date": "2024-12-05 22:17:41",
+        "sentiment_score": 0.0040123239159584045
+    },
+    {
+        "title": "Qué hacer ante una detención por motivos migratorios en EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-945287450.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "detenciones inmigrantes",
+            "noticias de ee.uu.",
+            "migración",
+            "inmigrantes en ee.uu.",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-documentos-inmigracion-residentes-ciudadanos-indocumentados-arrestos-deportaciones-cnn-ush/",
+        "date": "2024-12-05 21:34:02",
+        "sentiment_score": -0.19489742815494537
+    },
+    {
+        "title": "Jeff Bezos explica por qué se siente optimista sobre el nuevo mandato de Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/new-york-times-jeff-bezos-trump-optimista-ush-trax/",
+        "date": "2024-12-05 21:05:38",
+        "sentiment_score": -0.020064502954483032
+    },
+    {
+        "title": "Residentes captan cómo se vivió el sismo de magnitud 7 que sacudió California",
+        "image_url": "https://vod-media-aka.warnermediacdn.com/cnn/v2/clips/2024-12/1718695-d8e935c6a2fb4c75abe77a003a2c042c/mp4/imagenes-terremoto-california-magnitud-7-1718695-1920x1080_8000k.mp4",
+        "tags": [
+            "sismos",
+            "california",
+            "terremotos"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/imagenes-terremoto-california-magnitud-7/",
+        "date": "2024-12-05 21:01:05",
+        "sentiment_score": -0.7985068093985319
+    },
+    {
+        "title": "Policía cree que una mujer cayó a un sumidero mientras buscaba a su gato",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-hoyo.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujer-rescate-caer-sumidero-ush-trax/",
+        "date": "2024-12-05 20:42:59",
+        "sentiment_score": -0.7858025375753641
+    },
+    {
+        "title": "Video: una madre se hace viral en TikTok tras aprobar un examen para ser abogada en California",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/redes-insight-2-9.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "estados unidos noticias",
+            "videos digitales",
+            "mujeres",
+            "noticias de ee.uu.",
+            "historias humanas",
+            "videos virales"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/viral-titkok-madre-examen-abogacia-ush-trax/",
+        "date": "2024-12-05 20:23:17",
+        "sentiment_score": -0.6775673590600491
+    },
+    {
+        "title": "Un fuerte sismo de 7,0 sacudió California, esto es lo que sabemos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/elegant-cinematic-wedding-thumbnail-hd-169.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/california-sismo-terremoto-tsunami-brk/",
+        "date": "2024-12-05 20:11:05",
+        "sentiment_score": -0.5785547308623791
+    },
+    {
+        "title": "Ganaderos de España rechazan acuerdo del Mercosur, temen que exista competencia desleal",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/28095071-55826345-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ganadero-espanoles-rechazan-acuerdo-mercosur-competencia-desleal/",
+        "date": "2024-12-05 20:03:20",
+        "sentiment_score": 0.18907207250595093
+    },
+    {
+        "title": "Analista explica qué revela el video sobre el autor del tiroteo del CEO de UnitedHealthcare",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-ceo.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-comportamiento-tiroteo-ceo-unitedhealthcare-ush-trax/",
+        "date": "2024-12-05 19:56:43",
+        "sentiment_score": -0.3128693178296089
+    },
+    {
+        "title": "Última hora del terremoto y la alerta de tsunami en California, en vivo: noticias, daños y más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/california.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de ee.uu.",
+            "minuto a minuto",
+            "terremoto"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/05/noticias-terremoto-california-tsunami-trax/",
+        "date": "2024-12-05 19:42:36",
+        "sentiment_score": -0.754854978993535
+    },
+    {
+        "title": "Sentirse mujer o ser un tramposo",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/12/03/Koke_20241203201021-U2201654060121SCB-U80231155376AHU-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-sentirse-mujer-tramposo-20241206193451-nt.html",
+        "date": "2024-12-05 19:33:44",
+        "sentiment_score": -0.20395341515541077
+    },
+    {
+        "title": "Macron no asume culpas y busca otro primer ministro",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/25/pelea-churriana-kn2C--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-macron-asume-culpas-busca-primer-ministro-20241206193745-nt.html",
+        "date": "2024-12-05 19:30:57",
+        "sentiment_score": -0.23242922127246857
+    },
+    {
+        "title": "Una dudosa derrota",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/06/woke-RwgB6muqwTIRCsBl5KhHuHK-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/andres-ollero-dudosa-derrota-20241206200912-nts.html",
+        "date": "2024-12-05 19:09:13",
+        "sentiment_score": -0.12223267555236816
+    },
+    {
+        "title": "Corran al Alcázar",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/01/salas-torre-centro-kZFG--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-corran-alcazar-20241206190008-nts.html",
+        "date": "2024-12-05 19:05:21",
+        "sentiment_score": -0.09038281440734863
+    },
+    {
+        "title": "Del mismo palo",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/03/avecinaok-k0TB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-palo-20241206180213-nts.html",
+        "date": "2024-12-05 19:04:34",
+        "sentiment_score": -0.13826844096183777
+    },
+    {
+        "title": "Basta una sola mutación en el virus de la gripe H5N1 para facilitar su transmisión humana",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/12/05/virusH5n1.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/basta-sola-mutacion-virus-gripe-bovina-h5n1-20241205104748-nt.html",
+        "date": "2024-12-05 19:00:00",
+        "sentiment_score": -0.18924982845783234
+    },
+    {
+        "title": "Una reflexión serena",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/06/241206TerceraPage-RQL5lt4WTLEss6E8GFD5WGJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/emiliano-garciapage-reflexion-serena-20241206193435-nt.html",
+        "date": "2024-12-05 18:34:36",
+        "sentiment_score": -0.006292283535003662
+    },
+    {
+        "title": "Lobos y lobas",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/01/Imagen%20farmaceutico%20jubilacion-U87577044370pOK-170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-lobos-lobas-20241206193413-nt.html",
+        "date": "2024-12-05 18:34:23",
+        "sentiment_score": -0.31457675993442535
+    },
+    {
+        "title": "Huéspedes de cristal",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/03/avecinaok-k0TB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-ruizquintano-huespedes-cristal-20241206193256-nt.html",
+        "date": "2024-12-05 18:34:04",
+        "sentiment_score": -0.16122931241989136
+    },
+    {
+        "title": "El fin de la superioridad moral",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/12/02/renta-k0l--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/carlos-granes-fin-superioridad-moral-20241206193203-nt.html",
+        "date": "2024-12-05 18:32:14",
+        "sentiment_score": -0.16260181367397308
+    },
+    {
+        "title": "El dibujante Naoki Urasawa da el pistoletazo de salida al Manga Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JVHW2S527VEB7AOXTCUUCTCMQA.png?auth=07a2d66b7a988509c2f163618d2a1344f2292cb8542bf83621c6baffb2fc3503&width=1200",
+        "tags": [
+            "dibujo",
+            "barcelona",
+            "cataluña",
+            "japón",
+            "series asiáticas",
+            "fira barcelona",
+            "arte",
+            "cultura",
+            "manga",
+            "recintos feriales",
+            "cómic",
+            "ayuntamiento barcelona",
+            "dibujos animados",
+            "anime",
+            "series animación"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-05/el-dibujante-naoki-urasawa-da-el-pistoletazo-de-salida-al-manga-barcelona.html",
+        "date": "2024-12-05 19:56:58",
+        "sentiment_score": 0.3731908705085516
+    },
+    {
+        "title": "Feijóo envía a Tellado para arropar a Mazón en la junta directiva del PP valenciano",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GFQZXKZCVZVDPDLXL26L6KVNGQ.jpg?auth=1331dd107aff593f8c73aae7813bce52e354c3a3cdadd8246af4ce7c277c7799&width=1200",
+        "tags": [
+            "dana",
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "carlos mazón",
+            "generalitat valenciana",
+            "ppcv"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-05/feijoo-envia-a-tellado-para-arropar-a-mazon-en-la-junta-directiva-del-pp-valenciano.html",
+        "date": "2024-12-05 19:54:26",
+        "sentiment_score": 0.41811708360910416
+    },
+    {
+        "title": "Detenida una mujer de 69 años por la muerte violenta de su pareja en El Vendrell",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XVYBUAAKZJDVDL3O4RKYFKXNDI.jpg?auth=96fe08a017205a4088c072ae427846a8e3465f56596a15f8b59235b31bb0bcbf&width=1200",
+        "tags": [
+            "el vendrell",
+            "cataluña",
+            "violencia doméstica",
+            "mossos d'esquadra"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-05/detenida-una-mujer-de-69-anos-por-la-muerte-violenta-de-su-pareja-en-el-vendrell.html",
+        "date": "2024-12-05 18:39:46",
+        "sentiment_score": -0.7024288531392813
+    },
+    {
+        "title": "Pillado tres veces en 24 horas por conducir sin carnet y borracho",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZDITKY3LJL2WLJPMD7PKAQAUUU.jpg?auth=483487d051f7469cdb760f95e5a46d196c157860d271f757250e0a4b157b55b1&width=1200",
+        "tags": [
+            "detenciones",
+            "cataluña",
+            "tráfico",
+            "accidentes",
+            "accidentes tráfico",
+            "sucesos",
+            "mossos d'esquadra",
+            "carnet conducir"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-05/pillado-tres-veces-en-24-horas-por-conducir-sin-carnet-y-borracho.html",
+        "date": "2024-12-05 18:11:47",
+        "sentiment_score": -0.12251552566885948
+    },
+    {
+        "title": "La cultura de la sidra asturiana, patrimonio de la humanidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O45JDHKNVJBHXJSG56LQNYPJEU.jpg?auth=cb7212cb43fd0c8819999dcfa7081f40608e6ca6ec1bb81fa990a3c423506901&width=1200",
+        "tags": [
+            "bebidas alcohólicas",
+            "patrimonio cultural",
+            "manzanares",
+            "cultura",
+            "patrimonio cultural inmaterial",
+            "españa",
+            "bebidas",
+            "sidra",
+            "patrimonio de la humanidad",
+            "unesco",
+            "principado de asturias"
+        ],
+        "link": "https://elpais.com/espana/2024-12-05/la-cultura-de-la-sidra-asturiana-patrimonio-de-la-humanidad.html",
+        "date": "2024-12-05 17:35:43",
+        "sentiment_score": 0.29558584466576576
+    },
+    {
+        "title": "El Supremo confirma el derecho de los inquilinos a comprar casas a precio de fondo buitre: “Ahora tenemos que aprender a dormir tranquilos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y27Y3SI7KNSUPQV4OTMA4VEQDM.jpg?auth=aeab98a72728ba7bf04b8e949bfafbf2785bfbcc1c025540cf287e53e3e3caeb&width=1200",
+        "tags": [
+            "vivienda",
+            "comunidad de madrid",
+            "madrid",
+            "tribunales",
+            "juicios",
+            "viviendas sociales de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-05/el-supremo-confirma-el-derecho-de-los-inquilinos-a-comprar-casas-a-precio-de-fondo-buitre-ahora-tenemos-que-aprender-a-dormir-tranquilos.html",
+        "date": "2024-12-05 17:33:28",
+        "sentiment_score": -0.5879966765642166
+    },
+    {
+        "title": "La ley de Memoria se suma el paquete de normas impulsadas por ERC que asume el Govern de Illa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AIEPAQVCMNWKROA75ODRNDS6Q4.jpg?auth=b97ee902e03e6b09d464fbeb607c47c680a68b71e942eb8432e8162028c163a0&width=1200",
+        "tags": [
+            "cataluña",
+            "erc",
+            "psc",
+            "pactos postelectorales",
+            "parlament cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-05/la-ley-de-memoria-se-suma-el-paquete-de-normas-impulsadas-por-erc-que-asume-el-govern-de-illa.html",
+        "date": "2024-12-05 17:32:12",
+        "sentiment_score": 0.0896635353565216
+    },
+    {
+        "title": "Valencia enciende la Navidad con más luces y adornos en las zonas afectadas por la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XHLNUNNAXNGHJIQZGQNOIRAWAU.JPG?auth=1eb4719f32bc634852e2af6296a6174f230f68881ece0b404552947dbb65c01e&width=1200",
+        "tags": [
+            "algemesí",
+            "valencia",
+            "navidad",
+            "catarroja",
+            "aldaia",
+            "paiporta",
+            "comunidad valenciana",
+            "comercios"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-05/valencia-enciende-la-navidad-con-mas-luces-y-adornos-en-las-zonas-afectadas-por-la-dana.html",
+        "date": "2024-12-05 17:20:31",
+        "sentiment_score": 0.1865450069308281
+    },
+    {
+        "title": "Caso Errejón: un gran despropósito",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c1cf8be0-9cf5-40fc-b15d-44ccf414bbff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2024/12/05/caso-errejon-gran-desproposito-112366989.html",
+        "date": "2024-12-05 22:07:40",
+        "sentiment_score": -0.36742039024829865
+    },
+    {
+        "title": "Nigel Hayes-Davis se aprovecha de un Real Madrid sin rumbo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6cae4a66-5888-44eb-9804-04efc0422139_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2024/12/05/nigel-hayes-davis-aprovecha-real-112375870.html",
+        "date": "2024-12-05 22:05:43",
+        "sentiment_score": 0.15005430579185486
+    },
+    {
+        "title": "El Real Madrid continúa sin rumbo antes de recibir al Unicaja",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6cae4a66-5888-44eb-9804-04efc0422139_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2024/12/05/nigel-hayes-davis-aprovecha-real-112375833.html",
+        "date": "2024-12-05 22:05:40",
+        "sentiment_score": 0.15005430579185486
+    },
+    {
+        "title": "Almería encara el puente con los hoteles al 50% de ocupación, salvo en El Toyo y el Cabo de Gata",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/12/06/senderismo-kMf-U230217343646j0B-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/almeria-encara-puente-hoteles-ocupacion-salvo-toyo-20241206230300-nt.html",
+        "date": "2024-12-05 22:03:01",
+        "sentiment_score": -0.49023518711328506
+    },
+    {
+        "title": "Las consignas clandestinas en súper de 24 horas inquietan a la Guardia Urbana",
+        "image_url": "https://static1.ara.cat/clip/89e5ad08-add9-4f84-80cf-87a52f48632f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/sociedad/barcelona/consignas-clandestinas-super-24-horas-inquietan-guardia-urbana_1_5222841.html",
+        "date": "2024-12-05 22:00:50",
+        "sentiment_score": -0.6509433798491955
+    },
+    {
+        "title": "Les emissores d’ona extra-curta (1927)",
+        "image_url": "https://static1.ara.cat/clip/bad76fa8-93f6-4052-91e4-d4e773175932_16-9-aspect-ratio_default_0_x389y151.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/emissores-d-ona-extra-curta-1927_1_5218678.html",
+        "date": "2024-12-05 22:00:44",
+        "sentiment_score": -0.3326341062784195
+    },
+    {
+        "title": "El cantante RelsB anuncia su compromiso con la influencer Nicole Betancur: 'Sacas mi mejor versión'",
+        "image_url": "https://www.hola.com/horizon/landscape/670fd2fe28df-relsb3.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/actualidad/20241205734371/relsb-nicole-betancur-anuncian-compromiso/",
+        "date": "2024-12-05 21:59:54",
+        "sentiment_score": 0.7250956334173679
+    },
+    {
+        "title": "El impacto de vivir con una enfermedad crónica, dolorosa y estigmatizante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/433fdea2-f0c9-45c1-93de-f4a56137df82_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elperiodico.com/es/salud/20241205/impacto-vivir-enfermedad-cronica-dolorosa-112365624",
+        "date": "2024-12-05 21:59:19",
+        "sentiment_score": -0.6994347684085369
+    },
+    {
+        "title": "La fábrica de Paterna no frena la producción de talentos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2ec9970f-d6b2-47eb-972f-ef1e31d27c77_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2024/12/05/fabrica-paterna-frena-produccion-talentos-112375178.html",
+        "date": "2024-12-05 21:32:55",
+        "sentiment_score": 0.3742509186267853
+    },
+    {
+        "title": "El tramo central de la Diagonal estrena etapa con el hogar como eje vertebrador",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/76659ddcb86d8d96f9166879c7fd3e71/crop/187x0/2007x1365/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/05/17334342623674.jpg",
+        "tags": [
+            "cataluña",
+            "tendencias"
+        ],
+        "link": "https://www.expansion.com/catalunya/2024/12/05/67521bc7e5fdea942e8b459c.html",
+        "date": "2024-12-05 21:32:02",
+        "sentiment_score": 0.1088133230805397
+    },
+    {
+        "title": "El Barça padece, pero redescubre la victoria en la Euroliga y frena su caída",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf99f30b-7bc3-485a-8aee-43406af95647_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2024/12/05/barca-sudo-sangre-imponerse-maccabi-112375245.html",
+        "date": "2024-12-05 21:29:38",
+        "sentiment_score": -0.04469209909439087
+    },
+    {
+        "title": "EEUU | Estos beneficiarios del Seguro Social recibirán $4783 en diciembre (+Fechas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-estos-beneficiarios-del-seguro-social-recibiran-4783-en-diciembre--202412518130",
+        "date": "2024-12-05 22:13:00",
+        "sentiment_score": 0.2013181857764721
+    },
+    {
+        "title": "Migrantes en España temen que cambio de modelo Glovo los deje sin trabajo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/migrantes-en-espana-temen-que-cambio-de-modelo-glovo-los-deje-sin-trabajo-20241251880",
+        "date": "2024-12-05 22:08:00",
+        "sentiment_score": 0.6001224927604198
+    },
+    {
+        "title": "Pantone revela el color que reinará en el 2025 (+Detalles)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1733438732063/WhatsApp%20Image%202024-12-05%20at%206.45.08%20PM.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/pantone-revela-el-color-que-reinara-en-el-2025-detalles--20241251830",
+        "date": "2024-12-05 22:03:00",
+        "sentiment_score": 0.7182061597704887
+    },
+    {
+        "title": "Administrador de gimnasio abusó sexualmente de una adolescente en el Zulia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/administrador-de-gimnasio-abuso-sexualmente-de-una-adolescente-en-el-zulia-202412517520",
+        "date": "2024-12-05 21:52:00",
+        "sentiment_score": -0.8033241257071495
+    },
+    {
+        "title": "Inauguran Centro Integrado de Ambulancias gratuitas en Caracas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/inauguran-centro-integrado-de-ambulancias-gratuitas-en-caracas-202412517490",
+        "date": "2024-12-05 21:49:00",
+        "sentiment_score": 0.0876130759716034
+    },
+    {
+        "title": "El juego del Valencia - Real Madrid aplazado por la DANA (+FECHA)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/el-juego-del-valencia---real-madrid-aplazado-por-la-dana-fecha--202412517440",
+        "date": "2024-12-05 21:44:00",
+        "sentiment_score": 0.06731028854846954
+    },
+    {
+        "title": "Katherine Coll despierta su lado sensual con ‘Me gustas’ (+Video)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/katherine-coll-despierta-su-lado-sensual-con-me-gustas-video--202412517330",
+        "date": "2024-12-05 21:33:00",
+        "sentiment_score": 0.16842185519635677
+    },
+    {
+        "title": "EEUU: ¿Quién reemplazaría a DeSantis si es elegido Secretario de Defensa?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-quien-reemplazaria-a-desantis-si-es-elegido-secretario-de-defensa--202412517320",
+        "date": "2024-12-05 21:32:00",
+        "sentiment_score": 0.10484670847654343
+    },
+    {
+        "title": "ONU pide a Perú que facilite la regularización de trabajadores venezolanos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/onu-pide-a-peru-que-facilite-la-regularizacion-de-trabajadores-venezolanos-202412517250",
+        "date": "2024-12-05 21:25:00",
+        "sentiment_score": 0.5073679760098457
+    },
+    {
+        "title": "Canelo Alvarez inaugura taquería en California",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1733433563837/Screenshot_2024-12-05-16-57-37-171_com.instagram.android-edit.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/canelo-alvarez-inaugura-taqueria-en-california-202412517200",
+        "date": "2024-12-05 21:22:00",
+        "sentiment_score": 0.43634042143821716
     }
 ];
