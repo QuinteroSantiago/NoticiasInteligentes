@@ -216,26 +216,6 @@ export default [
         "sentiment_score": -0.2637697011232376
     },
     {
-        "title": "Las telecomunicaciones, el sector inmobiliario y el transporte aéreo lideran las inversiones españolas en el Reino Unido",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/03/HDS_6806-RoFQFMKmM8a7ZazrHRbOzfP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/telecomunicaciones-sector-inmobiliario-transporte-aereo-lideran-inversiones-20241203140631-nt.html",
-        "date": "2024-12-03 13:07:25",
-        "sentiment_score": -0.024574488401412964
-    },
-    {
-        "title": "Digi reta a las grandes telecos y lanza su televisión por 7 euros",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/03/digi-sede-Rq95FEGSQomLbR5YHGnzOEM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/digi-reta-grandes-telecos-lanza-television-euros-20241203134407-nt.html",
-        "date": "2024-12-03 12:44:07",
-        "sentiment_score": -0.006326556205749512
-    },
-    {
         "title": "Cataluña tendrá un censo de amianto para garantizar su retirada en 2032",
         "image_url": "https://imagenes.elpais.com/resizer/v2/UY72QQYRFNHDPOQQM5FEHZ2GLI.jpg?auth=f888a7b49f954f9b8498ce3639f74224bd2dcee8488d98e93d23689d8fabb35e&width=1200",
         "tags": [
@@ -7308,5 +7288,335 @@ export default [
         "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20241206/toledo-segunda-ciudad-demandada-turistas-espanoles-puente-diciembre/906659540_0.html",
         "date": "2024-12-06 20:42:06",
         "sentiment_score": -0.07732442021369934
+    },
+    {
+        "title": "El Mercosur y la UE llegan a un acuerdo \"histórico\" que podría abarcar a unos 700 millones de consumidores",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-02-00-00-30-09-still001.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "europa",
+            "mercosur",
+            "uruguay",
+            "acuerdo comercial",
+            "xpress",
+            "fast – news variety",
+            "unión europea"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mercosur-ue-acuerdo-historico-fast/",
+        "date": "2024-12-07 00:49:48",
+        "sentiment_score": 0.18920199573040009
+    },
+    {
+        "title": "Experto en riesgos epidemiológicos analiza el caso de la bacteria que causó al menos 13 muertes en México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-103367767.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/especialista-bacteria-muerte-pacientes-hospitales-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-07 00:43:01",
+        "sentiment_score": -0.5676649566739798
+    },
+    {
+        "title": "La comunidad migrante de Los Ángeles se prepara para las posibles deportaciones masivas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2167172436.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "deportación inmigrantes",
+            "noticias de donald trump",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-deportacion-masiva-inmigrantes-california-dusa-tv/",
+        "date": "2024-12-07 00:17:50",
+        "sentiment_score": -0.34279149770736694
+    },
+    {
+        "title": "3 cosas que debes tener en cuenta antes de dejar que tus hijos jueguen al fútbol americano",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sgoc-head-injuries-football-02-20241207000515708.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de salud",
+            "noticias de ee.uu.",
+            "fútbol americano",
+            "escuela secundaria"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/razones-seguridad-jovenes-futbol-americano-evitar-accidentes-trax/",
+        "date": "2024-12-07 00:11:06",
+        "sentiment_score": -0.33331526815891266
+    },
+    {
+        "title": "Biden analiza la posibilidad de conceder indultos preventivos ante amenazas de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1903200714-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-biden-indultos-preventivos-dusa-tv/",
+        "date": "2024-12-07 00:09:45",
+        "sentiment_score": -0.262915663421154
+    },
+    {
+        "title": "5 temas fundamentales para conversar con los niños sobre los cambios de la pubertad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "adolescentes",
+            "adolescencia",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ninos-hablar-sobre-pubertad-minuto-de-salud-fast/",
+        "date": "2024-12-06 22:59:52",
+        "sentiment_score": -0.11664345115423203
+    },
+    {
+        "title": "Corte de Estados Unidos sostiene ley que podría eliminar TikTok en el país: esto es lo que se sabe",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187525477.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "tiktok",
+            "fast – news variety",
+            "noticias de ee.uu.",
+            "corte de estados unidos",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ley-podria-eliminar-tiktok-corte-eeuu-dusa-tv-fast/",
+        "date": "2024-12-06 22:55:07",
+        "sentiment_score": -0.3102143034338951
+    },
+    {
+        "title": "La princesa de Gales asiste al servicio anual de villancicos navideños",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21181521-5938-831-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "familia real británica",
+            "familia real",
+            "princesa de gales",
+            "fast – news variety",
+            "navidad",
+            "princesa kate",
+            "reino unido",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/princesa-gales-concierto-villancicos-trax/",
+        "date": "2024-12-06 22:51:16",
+        "sentiment_score": -0.034247636795043945
+    },
+    {
+        "title": "Un barrio de Nueva York se transforma en un destino imperdible por sus gigantes decoraciones navideñas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias de ee.uu.",
+            "estados unidos noticias",
+            "videos digitales",
+            "navidad"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dyker-heights-nueva-york-navidad-adornos-ush-orix/",
+        "date": "2024-12-06 22:18:37",
+        "sentiment_score": 0.21550226211547852
+    },
+    {
+        "title": "Cayetano, apolo de Armani, dandi de montera",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/07/cayetano-RR99GKoSucBZ66shhTKZc7I-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-cayetano-apolo-armani-dandi-montera-20241207014846-nt.html",
+        "date": "2024-12-07 00:49:03",
+        "sentiment_score": -0.03913119435310364
+    },
+    {
+        "title": "El difícil equilibrio de Illa en la vuelta de Cataluña al Día de la Constitución: una vela a Sánchez y otra al \"reencuentro\"",
+        "image_url": "https://s1.elespanol.com/2024/12/06/actualidad/906669664_251492133_1706x960.jpg?contentId=ESPIMA20241206_0340",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241207/dificil-equilibrio-illa-vuelta-cataluna-dia-constitucion-vela-sanchez-reencuentro/906659500_0.html",
+        "date": "2024-12-07 02:06:22",
+        "sentiment_score": -0.7408915795385838
+    },
+    {
+        "title": "El Real Madrid busca redimirse en Montilivi con Brahim como pieza clave",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/07/2024120703004860567.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-busca-redimirse-montilivi-brahim-como-pieza-clave/20241207030111326569.html",
+        "date": "2024-12-07 02:01:11",
+        "sentiment_score": -0.4270387217402458
+    },
+    {
+        "title": "Víctor Gutiérrez, el primer waterpolista gay de España y secretario LGTBI de Sánchez, acosado por las feministas clásicas: \"Lo aprobado es poco aplicable\"",
+        "image_url": "https://s1.elespanol.com/2022/09/30/actualidad/707189945_227621187_1706x960.jpg?contentId=ESPIMA20220930_0671",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241207/victor-gutierrez-primer-waterpolista-gay-espana-secretario-lgtbi-sanchez-acosado-feministas-clasicas-aprobado-aplicable/906409837_0.html",
+        "date": "2024-12-07 01:40:45",
+        "sentiment_score": -0.14170145988464355
+    },
+    {
+        "title": "Morientes y Paul Ferrer fichan por el partido LaLiga EA Sports x FC 25 Rush en Gamergy",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/12/LALIGA-VELETA-DEFINITIVA-469x317.jpg",
+        "tags": [
+            "deportes",
+            "laliga ea sports",
+            "videojuegos",
+            "actualidad"
+        ],
+        "link": "https://theobjective.com/actualidad/2024-12-07/morientes-y-paul-ferrer-fichan-por-el-partido-laliga-ea-sports-x-fc-25-rush-en-gamergy/",
+        "date": "2024-12-07 01:00:24",
+        "sentiment_score": 0.31724536046385765
+    },
+    {
+        "title": "La reacción de Salomón Rondón al saber sus rivales en el Mundial de Clubes",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/12/La-reaccion-de-Salomon-Rondon-al-saber-sus-rivales-en-el-Mundial-de-Clubes-6-dic-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "deportes",
+            "maturín",
+            "monagas",
+            "venezuela"
+        ],
+        "link": "https://elorientaldemonagas.com/la-reaccion-de-salomon-rondon-al-saber-sus-rivales-en-el-mundial-de-clubes/",
+        "date": "2024-12-07 01:00:00",
+        "sentiment_score": 0.2838594317436218
+    },
+    {
+        "title": "López 2 y otros genios",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/15/666cc4ddba080.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241207/lopez-2-otros-genios_251256.html",
+        "date": "2024-12-07 00:30:00",
+        "sentiment_score": 0.6811534948647022
+    },
+    {
+        "title": "Gran gestor",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241207/gran-gestor_251220.html",
+        "date": "2024-12-07 00:30:00",
+        "sentiment_score": 0.6021229326725006
+    },
+    {
+        "title": "Los dueños de la portería del Athletic",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/08/fotolead_cronicanegra1200x1200-kH5--562x562@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/duenos-porteria-athletic-20241205010453-nt.html",
+        "date": "2024-12-07 00:04:54",
+        "sentiment_score": -0.21943585574626923
+    },
+    {
+        "title": "Cinco cosas que no sabías de los viajes de Audrey Hepburn a España",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2024-12-05-a-las-141957_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/cinco-cosas-que-no-sabias-los-viajes-audrey-hepburn-espana",
+        "date": "2024-12-07 00:00:00",
+        "sentiment_score": 0.20424193143844604
+    },
+    {
+        "title": "Un bloque férreo y pragmático",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/12/06/100474575-kHmD--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/bloque-ferreo-pragmatico-20241207082625-nt.html",
+        "date": "2024-12-07 00:00:00",
+        "sentiment_score": -0.673915721476078
+    },
+    {
+        "title": "Oscar Pierre, el CEO de Glovo acorralado por la Justicia que divide a los 'riders' de España: \"Trabajando 8 horas al día no llegas a ningún lado\"",
+        "image_url": "https://s1.elespanol.com/2024/12/05/reportajes/906420356_251471346_1706x960.jpg?contentId=ESPIMA20241205_1007",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241207/oscar-pierre-ceo-glovo-acorralado-justicia-divide-riders-espana-trabajando-horas-dia-no-llegas-ningun-lado/906409802_0.html",
+        "date": "2024-12-07 01:40:46",
+        "sentiment_score": -0.8691510790959001
+    },
+    {
+        "title": "El hipermercado no ha muerto: 495 resisten en España frente a 48.230 ‘súper’ y el empuje del canal ‘online’",
+        "image_url": "https://s1.elespanol.com/2023/02/03/invertia/empresas/distribucion/738686454_230627278_1706x960.jpg?contentId=ESPIMA20230203_0330",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20241207/hipermercado-no-muerto-resisten-espana-frente-super-empuje-canal-online/906409403_0.html",
+        "date": "2024-12-07 01:36:56",
+        "sentiment_score": -0.7244393043220043
+    },
+    {
+        "title": "Pedro Calef (CEO de Ebro): \"Nuestro objetivo es vender entre 20.000 y 30.000 coches SUV en el año 2025\"",
+        "image_url": "https://s1.elespanol.com/2024/12/05/motor/906420420_251473409_1706x960.jpg?contentId=ESPIMA20241205_1071",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20241207/pedro-calef-ceo-ebro-objetivo-vender-coches-suv-ano/906409826_0.html",
+        "date": "2024-12-07 01:36:45",
+        "sentiment_score": 0.37293871864676476
+    },
+    {
+        "title": "Venezuela conoce sus rivales del Sudamericano sub20",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/12/Grupos-sorteo--730x524.png",
+        "tags": [
+            "sorteo",
+            "conmebol",
+            "deportes",
+            "fase de grupos",
+            "sudamericano sub20",
+            "venezuela",
+            "fútbol"
+        ],
+        "link": "https://primicia.com.ve/deportes/venezuela-conoce-sus-rivales-del-sudamericano-sub20/",
+        "date": "2024-12-07 01:07:54",
+        "sentiment_score": 0.021472379565238953
+    },
+    {
+        "title": "El referente gijonés de la poesía (traducido a varios idiomas) que hace un llamamiento a los asturianos: \"Para ser tan pequeños podríamos estar mejor avenidos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e0546e1e-c7d7-4ea4-9ba1-4d14c1e2cb59_16-9-aspect-ratio_default_0_x1108y713.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2024/12/07/referente-gijones-poesia-traducido-idiomas-112398235.html",
+        "date": "2024-12-07 01:01:50",
+        "sentiment_score": 0.018051087856292725
+    },
+    {
+        "title": "Todo, al mismo tiempo, no puede ser",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/16/64b42d970df18.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20241207/10155972/empleo-pib-crecimiento-inmigracion.html",
+        "date": "2024-12-07 01:00:00",
+        "sentiment_score": -0.683625053614378
+    },
+    {
+        "title": "M. Bhattachryya (Nutanix): \"Las empresas ya pueden adentrarse en la IA sin perder el control sobre sus datos\"",
+        "image_url": "https://s1.elespanol.com/2024/12/05/invertia/disruptores/grandes-actores/tecnologicas/906419441_251443395_1706x960.jpg?contentId=ESPIMA20241205_0092",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20241207/bhattachryya-nutanix-empresas-pueden-adentrarse-ia-sin-perder-control-datos/906160026_0.html",
+        "date": "2024-12-07 00:59:03",
+        "sentiment_score": 0.43969593942165375
+    },
+    {
+        "title": "Primer capítulo de 'Cien años de soledad' será proyectado en Aracataca, el pueblo de García Márquez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "entretenimiento",
+            "tiempo libre"
+        ],
+        "link": "https://eltiempove.com/primer-capitulo-de-cien-anos-de-soledad-sera-proyectado-en-aracataca-el-pueblo-de-garcia-marquez/",
+        "date": "2024-12-07 00:39:54",
+        "sentiment_score": 0.10779622197151184
+    },
+    {
+        "title": "¿Por qué la gente vota al PSOE?",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/15/666cc4387ad74.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241207/gente-vota-psoe_251216.html",
+        "date": "2024-12-07 00:30:00",
+        "sentiment_score": -0.6955505553632975
     }
 ];
