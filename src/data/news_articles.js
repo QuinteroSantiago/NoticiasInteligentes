@@ -116,34 +116,6 @@ export default [
         "sentiment_score": -0.23412974178791046
     },
     {
-        "title": "¿Puede haber una desnaturalización de inmigrantes con Trump?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789625-copia-de-foto-para-wp-2024-12-02t111236-614.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "instanoticias",
-            "noticias de donald trump",
-            "donald trump",
-            "inmigración"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/04/puede-haber-desnaturalizacion-inmigrantes-trump-orix/",
-        "date": "2024-12-04 14:00:13",
-        "sentiment_score": -0.2175927273929119
-    },
-    {
-        "title": "Cyber Monday, el mayor día de compras en línea en la historia de Estados Unidos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187360263.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "xpress",
-            "cyber monday",
-            "ee.uu.",
-            "economía",
-            "compras en línea",
-            "fast – general"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cyber-monday-2024-record-compras-eeuu-ush-cafe-tv/",
-        "date": "2024-12-04 13:57:48",
-        "sentiment_score": 0.4211180955171585
-    },
-    {
         "title": "Una investigación abre la puerta a conocer las causas del autismo no genético",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/12/04/autis-RZEdi8yrLFzZFZyHjlXcnSK-1200x840@diario_abc.jpg",
         "tags": [
@@ -162,86 +134,6 @@ export default [
         "link": "https://www.abc.es/internacional/ultima-hora-votacion-mocion-censura-gobierno-francia-20241204124153-di.html",
         "date": "2024-12-04 14:33:34",
         "sentiment_score": -0.014444872736930847
-    },
-    {
-        "title": "Así será la sesión parlamentaria que decidirá el incierto futuro político de Francia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/04/barnier-RnKCN6nvCpveXElCPJKg9dN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/comienza-sesion-parlamentaria-decidira-incierto-futuro-politico-20241204144405-nt.html",
-        "date": "2024-12-04 13:50:28",
-        "sentiment_score": -0.08394110202789307
-    },
-    {
-        "title": "País Vasco, Madrid y Navarra, las únicas comunidades que alcanzan la productividad de la UE",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/04/1465668636-RuoGGLOkFy994eYSWVjvYLP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/pais-vasco-madrid-navarra-unicas-comunidades-alcanzan-20241204140635-nt.html",
-        "date": "2024-12-04 13:16:16",
-        "sentiment_score": -0.14121975004673004
-    },
-    {
-        "title": "El CEO de Volkswagen muestra su preocupación por la empresa en medio de los conflictos sindicales",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/04/blume-RiOSahbfsr10VSVhHHPyysO-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ceo-volkswagen-muestra-preocupacion-empresa-medio-conflictos-20241204132902-nt.html",
-        "date": "2024-12-04 12:53:36",
-        "sentiment_score": -0.12805256247520447
-    },
-    {
-        "title": "Liberada de prisión en Irán por motivos médicos el Premio Nobel de la Paz Narges Mohammad",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/04/narges-R2KBwvYE62WZWQ3O0utT8yL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/liberada-prision-iran-motivos-medicos-premio-nobel-20241204133100-nt.html",
-        "date": "2024-12-04 12:31:00",
-        "sentiment_score": -0.11560672521591187
-    },
-    {
-        "title": "La productividad se estanca en España y ya es un 50% más baja que en Irlanda, el líder de Europa",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/04/1483019046-RbH8Y3lWaX6ThK0DQtka87J-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/productividad-estanca-espana-baja-irlanda-lider-europa-20241204123409-nt.html",
-        "date": "2024-12-04 11:48:30",
-        "sentiment_score": -0.10569912195205688
-    },
-    {
-        "title": "Rusia emite una orden de arresto contra un periodista de un canal alemán por «entrar ilegalmente desde Ucrania»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/04/1489505855-kadG-U60344610398796C-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-emite-orden-arresto-periodista-canal-aleman-20241204124248-nt.html",
-        "date": "2024-12-04 11:43:44",
-        "sentiment_score": -0.27243922650814056
-    },
-    {
-        "title": "Spotify Wrapped 2024: cómo consultar tus canciones y artistas más escuchados del año",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/diario_abc/2024/12/04/image(61)-kEiB-U603446131315JlC-141x38@abc.png",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/spotify-wrapped-2024-consultar-tus-canciones-artistas-20241204123353-nt.html",
-        "date": "2024-12-04 11:35:43",
-        "sentiment_score": -0.0457514226436615
-    },
-    {
-        "title": "Cuba sufre un nuevo apagón por la desconexión de su mayor central termoeléctrica",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/04/luz-cuba-reuters-kNbC-U603445879803HM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/cuba-sufre-nuevo-apagon-desconexion-mayor-central-20241204121154-nt.html",
-        "date": "2024-12-04 11:12:48",
-        "sentiment_score": -0.460655115544796
     },
     {
         "title": "La productividad de España sigue lejos de la europea: solo tres comunidades alcanzan la media comunitaria",
@@ -396,25 +288,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-12-04/todos-pendientes-de-la-declaracion-de-mar-ante-el-tribunal-supremo-a-ver-si-es-tan-valiente-ante-la-justicia-como-en-twitter.html",
         "date": "2024-12-04 14:44:16",
         "sentiment_score": 0.062356628477573395
-    },
-    {
-        "title": "Tráfico prevé 6,6 millones de desplazamientos en el puente de la Constitución",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZRHG6HRQZJZNGE6XT7TNNSOZ3A.jpg?auth=b12936c8d844ba5e9f7aabeea2be3b435d1c959a79e2f944dd6d3f63c08de1ec&width=1200",
-        "tags": [
-            "retenciones circulación",
-            "invierno",
-            "atascos",
-            "celebraciones",
-            "guardia civil",
-            "españa",
-            "viajes",
-            "accidentes tráfico",
-            "seguridad vial",
-            "dgt"
-        ],
-        "link": "https://elpais.com/espana/2024-12-04/trafico-preve-66-millones-de-desplazamientos-en-el-puente-de-la-constitucion.html",
-        "date": "2024-12-04 14:06:05",
-        "sentiment_score": 0.12399085983633995
     },
     {
         "title": "Palencia homenajea a Fuentes Quintana",
@@ -6772,5 +6645,247 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20241207/barcelona-restaurara-el-monumento-de-colon/906909365_0.html",
         "date": "2024-12-07 20:54:52",
         "sentiment_score": 0.17741809785366058
+    },
+    {
+        "title": "Macron, Trump y Zelensky coinciden en la reapertura de Notre Dame",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188190898.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "notre dame",
+            "emmanuel macron",
+            "xpress",
+            "volodymyr zelensky",
+            "noticias de donald trump",
+            "fast – news variety",
+            "francia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/macron-trump-zelensky-notre-dame-mirador-mundial-tv/",
+        "date": "2024-12-08 01:33:40",
+        "sentiment_score": -0.05013781785964966
+    },
+    {
+        "title": "Cuadros y esculturas, Pinta Miami presenta obras de artistas iberoamericanos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/17072296-32184627-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "miami",
+            "xpress",
+            "arte",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pinta-miami-obras-artistas-mirador-mundial-tv-fast/",
+        "date": "2024-12-08 00:18:45",
+        "sentiment_score": 0.5025793258100748
+    },
+    {
+        "title": "OMS y OPS registran más de 12 millones de contagios por dengue en América",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187380426.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "dengue",
+            "organización mundial de la salud",
+            "noticias de salud",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dengue-contagios-latinoamerica-murador-mundial-tv-fast/",
+        "date": "2024-12-08 00:15:23",
+        "sentiment_score": -0.4033334143459797
+    },
+    {
+        "title": "Manifestantes sirios derriban estatua del padre de Bashar al-Assad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21183276-8254-574-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "medio oriente",
+            "siria"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/manifestantes-derriban-estatua-bashar-al-assad-trax/",
+        "date": "2024-12-08 00:14:37",
+        "sentiment_score": -0.7497685067355633
+    },
+    {
+        "title": "Las razones por las que se esperan más avistamientos de auroras boreales en 2025",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/solar-maximum.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "auroras",
+            "ciencia",
+            "ciencia y espacio"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nuevas-auroras-boreales-2025-orix/",
+        "date": "2024-12-07 23:16:18",
+        "sentiment_score": 0.4002606123685837
+    },
+    {
+        "title": "Macron da la bienvenida a Trump antes de la reapertura de Notre Dame",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/macron-trump.PNG?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "fast – news variety",
+            "notre dame",
+            "xpress",
+            "parís",
+            "emmanuel macron",
+            "francia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/macron-recibe-a-trump-reapertura-notre-dame-paris-trax/",
+        "date": "2024-12-07 23:15:32",
+        "sentiment_score": 0.094999760389328
+    },
+    {
+        "title": "“Se podría decir que es una obsesión”: un hombre muestra su colección de más de 4 millones de mariposas",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/butterfly-2-20241207222332722.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "colección",
+            "animales",
+            "kenya",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/coleccion-4-millones-de-mariposas-en-nairobi-trax/",
+        "date": "2024-12-07 22:31:36",
+        "sentiment_score": 0.2663797587156296
+    },
+    {
+        "title": "Última hora de rebeldes en Damasco y guerra en Siria: noticias, muertos, reacciones y más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/siria-liveblog.jpg?quality=100&strip=info",
+        "tags": [
+            "siria",
+            "medio oriente",
+            "minuto a minuto",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/07/ultima-hora-guerra-en-siria-noticia-orix/",
+        "date": "2024-12-07 22:26:09",
+        "sentiment_score": -0.8552530193701386
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, domingo 8 de diciembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4d05fc2d-63a8-461c-ae04-3b0e4a45a0d8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/12/08/tiempo-alicante-alacant-prevision-meteorologica-112421270.html",
+        "date": "2024-12-08 02:12:41",
+        "sentiment_score": 0.6400705352425575
+    },
+    {
+        "title": "Los cazadores en España, del ocio a la necesidad: la Administración les busca ante la explosión de jabalíes y ciervos",
+        "image_url": "https://s1.elespanol.com/2024/12/04/invertia/economia/906169763_251415765_1706x960.jpg?contentId=ESPIMA20241204_0389",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/20241208/cazadores-espana-ocio-necesidad-administracion-busca-explosion-jabalies-ciervos/905909734_0.html",
+        "date": "2024-12-08 02:10:02",
+        "sentiment_score": -0.8768516145646572
+    },
+    {
+        "title": "El tiempo en Santa Pola: previsión meteorológica para hoy, domingo 8 de diciembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3ea10e9-0db3-4a01-8d22-28f5c4ad38d2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/12/08/tiempo-santa-pola-prevision-meteorologica-112421189.html",
+        "date": "2024-12-08 02:06:31",
+        "sentiment_score": 0.6733371131122112
+    },
+    {
+        "title": "Las claves del 0-3 del Madrid ante el Girona: Bellingham manda, Güler anota y Mbappé se reivindica",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/08/2024120802560231312.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/claves-3-madrid-girona-bellingham-manda-guler-reivindica-mbappe-anota/20241208025641326676.html",
+        "date": "2024-12-08 01:56:41",
+        "sentiment_score": 0.5371607653796673
+    },
+    {
+        "title": "Daniel Georges (Bolt): \"Para evitar que las VTC suban precios a ciertas horas, hay que corregir su escasez y no topar sus tarifas cada vez que juega el Real Madrid\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/451a543401f626d470ec99bf0160d0e0/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/05/17334174634911.jpg",
+        "tags": [
+            "artículos paula maría",
+            "cabify",
+            "uber",
+            "vtc"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2024/12/08/674dad6ee4d4d8ba618b4837.html",
+        "date": "2024-12-08 01:51:45",
+        "sentiment_score": 0.5347633026540279
+    },
+    {
+        "title": "Amatos, alcalde de Cobeña: \"Nuestro nuevo instituto va a ofrecer desde 1o de la ESO hasta Bachiller y tendremos FP\"",
+        "image_url": "https://s1.elespanol.com/2024/11/29/madrid/comunidad/904920453_251314938_1706x960.jpg?contentId=ESPIMA20241129_0954",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241208/amatos-alcalde-cobena-nuevo-instituto-va-ofrecer-bachiller-fp/904909938_0.html",
+        "date": "2024-12-08 01:46:38",
+        "sentiment_score": 0.44274473190307617
+    },
+    {
+        "title": "Las famosas palmeritas de Morata de Tajuña se reinventan con estos dos increíbles sabores sólo por Navidad",
+        "image_url": "https://s1.elespanol.com/2024/12/04/madrid/ocio/906170097_251426067_1706x960.jpg?contentId=ESPIMA20241204_0723",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241208/famosas-palmeritas-morata-tajuna-reinventan-increibles-sabores-solo-navidad/906159813_0.html",
+        "date": "2024-12-08 01:46:23",
+        "sentiment_score": 0.8105293307453394
+    },
+    {
+        "title": "Benito, un violín y los 21.610 irreductibles",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab8d9fd1-0734-4c85-bad6-3ede9caf9133_16-9-aspect-ratio_default_0_x804y163.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/12/08/benito-violin-21-610-irreductibles-112420707.html",
+        "date": "2024-12-08 01:04:56",
+        "sentiment_score": 0.06356161832809448
+    },
+    {
+        "title": "Magos, fantasmas y mormones: los 12 musicales que no te puedes perder esta temporada",
+        "image_url": "https://s1.elespanol.com/2024/12/03/el-cultural/escenarios/905920316_251399652_1706x960.jpg?contentId=ESPIMA20241203_0917",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/20241208/magos-fantasmas-mormones-musicales-no-puedes-perder-temporada/905909961_0.html",
+        "date": "2024-12-08 01:00:00",
+        "sentiment_score": 0.28363269567489624
+    },
+    {
+        "title": "Magia simpática e imagen de culto: pintura, escultura y contacto con lo divino en el Siglo de Oro",
+        "image_url": "https://s1.elespanol.com/2024/11/22/el-cultural/arte/903170275_251099441_1706x960.jpg?contentId=ESPIMA20241122_0601",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20241208/magia-simpatica-imagen-culto-pintura-escultura-contacto-divino-siglo-oro/903159890_0.html",
+        "date": "2024-12-08 01:00:00",
+        "sentiment_score": 0.657728623598814
+    },
+    {
+        "title": "Juanma Moreno sigue la senda de jordi Pujol",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.huelvainformacion.es/opinion/articulos/juanma-moreno-sigue-senda-jordi_0_2002943699.html",
+        "date": "2024-12-08 02:09:11",
+        "sentiment_score": 0.18315160274505615
+    },
+    {
+        "title": "Luis Fernández-Vega, mejor oftalmólogo español menor de 40 años: 'Sigo la tradición'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/b29b9956-scaled_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/salud-y-bienestar/luis-fernandez-vega-mejor-oftalmologo-espana-menor-40-anos-sigo-tradicion",
+        "date": "2024-12-08 02:00:00",
+        "sentiment_score": 0.20523186028003693
+    },
+    {
+        "title": "S700 y S800: dos SUV con los que regresa la icónica Ebro",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/08/EBRO_S700_25-RTmMcQ72SKw3bj0XEiHOrwI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/motor/novedades/s700-s800-dos-suv-regresa-iconica-ebro-20241208105300-ntrc.html",
+        "date": "2024-12-08 01:48:59",
+        "sentiment_score": 0.5444381162524223
     }
 ];
