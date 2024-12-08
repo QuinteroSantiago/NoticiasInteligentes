@@ -1,170 +1,5 @@
 export default [
     {
-        "title": "El motivo por el que Lola Índigo casi cancela su entrevista en 'La Revuelta'",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/12/04/lola-indigo-revuelta-khHF-U230200630986S3-1200x840@El%20Correo.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/gente-estilo/motivo-lola-indigo-cancela-entrevista-revuelta-20241204073434-nt.html",
-        "date": "2024-12-04 06:34:34",
-        "sentiment_score": -0.556765902787447
-    },
-    {
-        "title": "Una escuela de piano que se nutre del silencio en el Valle de Campoo",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/03/REPOR%20ESCUELA%20IMHOF43.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/dmusica/escuela-piano-nutre-silencio-20241204071757-nt.html",
-        "date": "2024-12-04 06:17:57",
-        "sentiment_score": 0.18208836019039154
-    },
-    {
-        "title": "Albert Recasens recupera música de Durón grabada en la colegiata de Ziortza",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d3c7eea8-f40a-430e-8d5e-8e2483c41722_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/cultura/2024/12/04/albert-recasens-recupera-musica-duron-9010277.html",
-        "date": "2024-12-04 06:14:27",
-        "sentiment_score": -0.032509252429008484
-    },
-    {
-        "title": "Así vivieron Zubimendi y Oyarzabal la final de la Eurocopa: «Mikel, el héroe inesperado»",
-        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2024/12/02/oyarzabal-eurocopa-kTYE-U230186453325oO-1200x840@Diario%20Vasco.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/real-sociedad/zubimendi-oyarzabal-final-eurocopa-mikel-heroe-20241204174207-nt.html",
-        "date": "2024-12-04 06:12:40",
-        "sentiment_score": -0.04980101436376572
-    },
-    {
-        "title": "Doble cita Real Madrid-Unicaja el domingo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/939661cb-221b-4520-96db-f439170504c3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2024/12/04/doble-cita-real-madrid-unicaja-valdebebas-112307086.html",
-        "date": "2024-12-04 06:01:33",
-        "sentiment_score": 0.11541799828410149
-    },
-    {
-        "title": "El incendio del Supremo en 1908: ¿accidente o fuego provocado para proteger el reinado de Alfonso XIII?",
-        "image_url": "https://okdiario.com/img/2024/12/03/alfonso_xiii_y_maria_cristina_regente.jpg",
-        "tags": [
-            "corona española",
-            "españa",
-            "alfonso xiii",
-            "tribunal supremo",
-            "libros"
-        ],
-        "link": "https://okdiario.com/espana/incendio-del-supremo-1908-accidente-o-fuego-provocado-proteger-reinado-alfonso-xiii-13914383",
-        "date": "2024-12-04 06:00:59",
-        "sentiment_score": -0.535303458571434
-    },
-    {
-        "title": "¿Cómo se mueven los virus? Revelan nuevas claves para rastrear su propagación",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241204070048_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-mueven-virus-revelan-nuevas-claves-rastrear-propagacion-20241204070048.html",
-        "date": "2024-12-04 06:00:48",
-        "sentiment_score": -0.04698016494512558
-    },
-    {
-        "title": "En busca de un candidato para dirigir al PSOE-A: Ni Ferraz ni lo críticos tienen alternativa a Juan Espadas",
-        "image_url": "https://static.grupojoly.com/clip/7eeecccb-5f69-4986-9903-f49e7d129b10_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.huelvainformacion.es/andalucia/busca-candidato-dirigir-psoe-ferraz_0_2002921980.html",
-        "date": "2024-12-04 06:00:36",
-        "sentiment_score": -0.7404934093356133
-    },
-    {
-        "title": "Barcelona, Bilbao y L’Hospitalet lideran el primer ranking que analiza la movilidad en las ciudades más pobladas",
-        "image_url": "https://static.grupojoly.com/clip/f6ad7dc1-5576-4d47-b595-6b3cb08b317c_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.huelvainformacion.es/motor/barcelona-bilbao-l-hospitalet-lideran_0_2002921960.html",
-        "date": "2024-12-04 06:00:33",
-        "sentiment_score": 0.4546906016767025
-    },
-    {
-        "title": "Esta es para Marc Márquez la gran diferencia entre la generación actual y la de Rossi, Jorge Lorenzo y Pedrosa",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/02/08/65c4a011dca66.r_d.2629-1918-846.jpeg",
-        "tags": [
-            "motogp"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/motogp/20241204/1002364848/marc-marquez-gran-diferencia-generacion-actual-rossi-jorge-lorenzo-pedrosa-smd.html",
-        "date": "2024-12-04 06:00:00",
-        "sentiment_score": 0.3965977765619755
-    },
-    {
-        "title": "Nueve de cada diez inquilinos en Madrid y Barcelona tienen contrato de alquiler temporal",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_M.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/nueve-de-cada-diez-inquilinos-en-madrid-y-barcelona-tienen-contrato-de-alquiler-temporal-2936117",
-        "date": "2024-12-04 06:15:26",
-        "sentiment_score": -0.05547277629375458
-    },
-    {
-        "title": "Lo que debes saber hoy, 4 de diciembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/07/29/vivir-en-barcelona/600199976_9713096_1706x960.jpg?contentId=ESPIMA20210729_0002",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241204/lo-que-debes-saber-hoy-de-diciembre-barcelona/906159378_0.html",
-        "date": "2024-12-04 06:15:11",
-        "sentiment_score": -0.8006251584738493
-    },
-    {
-        "title": "Un español trabajando en Disney: \"Recuerdo perfectamente el primer día en el que entré en las instalaciones\"",
-        "image_url": "https://album.mediaset.es/eimg/2024/12/03/joan-pons-un-espanol-en-disney_a7c8.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.telecinco.es/noticias/cultura/20241204/espanol-trabajando-disney-recuerdo-primer-dia_18_014189462.html",
-        "date": "2024-12-04 06:05:08",
-        "sentiment_score": 0.4323665127158165
-    },
-    {
-        "title": "\"Exigimos a la dirección que aparte Vallès\": carta de las concejalas coaccionadas en la cúpula de Junts",
-        "image_url": "https://static1.ara.cat/clip/8685699e-1626-44a0-9f85-9bc4a3ef8762_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/politica/exigimos-direccion-aparte-valles-carta-concejalas-coaccionadas-cupula-junts_1_5220634.html",
-        "date": "2024-12-04 06:02:07",
-        "sentiment_score": -0.25436344742774963
-    },
-    {
-        "title": "El último vuelo de la rapaz del Banco de España en Alicante",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bdcd5ecf-9280-48a9-b587-0723c6f0292c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/alicante/2024/12/04/ultimo-vuelo-rapaz-banco-de-espana-aguila-franquista-ley-memoria-democratica-112303748.html",
-        "date": "2024-12-04 06:01:27",
-        "sentiment_score": 0.0673992782831192
-    },
-    {
-        "title": "Pamplona y Navarra destacan por su velocidad en la venta de viviendas",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9271acca-8b93-487d-b996-44e18a3d278b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.noticiasdenavarra.com/vivienda/2024/12/04/pamplona-navarra-destacan-velocidad-venta-9002095.html",
-        "date": "2024-12-04 06:00:56",
-        "sentiment_score": 0.18594321608543396
-    },
-    {
         "title": "Escalada en la guerra civil de Siria: estos videos ayudan a entender cómo ocurrió",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6605,5 +6440,337 @@ export default [
         "link": "https://www.informacion.es/opinion/2024/12/07/unidad-victimas-112408083.html",
         "date": "2024-12-07 17:00:49",
         "sentiment_score": -0.21580789983272552
+    },
+    {
+        "title": "Los Inusuales: el escuchador de historias",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-753944-los-inusuales-el-escuchador-de-historias-20240726233855008.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "los inusuales",
+            "argentina",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/el-escuchador-de-historias-los-inusuales-fast/",
+        "date": "2024-12-07 22:11:45",
+        "sentiment_score": -0.06263107061386108
+    },
+    {
+        "title": "En fotos: la impresionante restauración de Notre Dame cinco años después del incendio",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1788528-france-religion-monument-heritage.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "arquitectura",
+            "notre dame",
+            "europa",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/07/fotos-impresionante-restauracion-notre-dame-trax/",
+        "date": "2024-12-07 20:10:45",
+        "sentiment_score": 0.3323787599802017
+    },
+    {
+        "title": "Qué documentos necesitan tener los inmigrantes en EE.UU. ante posibles interacciones con autoridades",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-945291502.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "migraciones",
+            "inmigración",
+            "agentes de inmigración",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/documentos-inmigracion-autoridades-migratorias-eeuu-ush-fast/",
+        "date": "2024-12-07 19:07:35",
+        "sentiment_score": -0.018579035997390747
+    },
+    {
+        "title": "La emotiva reapertura de la catedral de Notre Dame en París tras su restauración",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/96293938-10902746-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "francia",
+            "notre dame"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reapertura-catedral-notre-dame/",
+        "date": "2024-12-07 18:35:49",
+        "sentiment_score": -0.5756822302937508
+    },
+    {
+        "title": "El Nacimiento del Vaticano de 2024: un niño Jesús reposa sobre un pañuelo palestino",
+        "image_url": "https://cdn.mnmstatic.net/cache/3d/26/media_thumb-link-4007507.webp",
+        "tags": [
+            "palestino",
+            "belén",
+            "vaticano",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/nacimiento-vaticano-2024-nino-jesus-reposa-sobre-panuelo",
+        "date": "2024-12-07 21:30:05",
+        "sentiment_score": -0.28849560022354126
+    },
+    {
+        "title": "María, la Inmaculada Concepción",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/08/tribuna-inmaculada-RfMFL1Hle3My82q1xDuY8HO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/maria-inmaculada-concepcion-20241208214237-nts.html",
+        "date": "2024-12-07 20:42:37",
+        "sentiment_score": 0.08093738555908203
+    },
+    {
+        "title": "Andaluces, no es el alma, ¡es la pasta!",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/08/teodoro-foto-REwh7zE19mtXz00tKmFRWXN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-andaluces-alma-pasta-20241208214234-nts.html",
+        "date": "2024-12-07 20:42:34",
+        "sentiment_score": -0.06829693913459778
+    },
+    {
+        "title": "El día que soñó San Fernando",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/12/01/salas-torre-centro-kZFG--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-dia-sono-san-fernando-20241208130852-nts.html",
+        "date": "2024-12-07 20:42:33",
+        "sentiment_score": 0.10045081377029419
+    },
+    {
+        "title": "Suena Michel",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/12/03/avecinaok-k0TB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-suena-michel-20241208163126-nts.html",
+        "date": "2024-12-07 20:42:32",
+        "sentiment_score": -0.23996655642986298
+    },
+    {
+        "title": "Magna desmesura",
+        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/provincia/2024/12/05/accidenten-431huelva-U03756530383KKa-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-magna-desmesura-20241208004844-nts.html",
+        "date": "2024-12-07 20:42:31",
+        "sentiment_score": -0.10464900732040405
+    },
+    {
+        "title": "Rumanía y los caballos de Troya del Kremlin",
+        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/provincia/2024/12/05/accidenten-431huelva-U03756530383KKa-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-rumania-caballos-troya-kremlin-20241208204648-nt.html",
+        "date": "2024-12-07 19:46:52",
+        "sentiment_score": -0.5791951045393944
+    },
+    {
+        "title": "¿Qué pensaría Robin Hood de esto?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/08/TERCERAABC_RobinHood_HERGE-RSjvpR0gm0b0HZ2tIXQtj0I-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-a-herce-y-diego-valero-pensaria-robin-hood-20241208184004-nt.html",
+        "date": "2024-12-07 18:30:12",
+        "sentiment_score": -0.19498871266841888
+    },
+    {
+        "title": "Braga de bombero",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/12/01/salas-torre-centro-kZFG--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-braga-bombero-20241208192854-nt.html",
+        "date": "2024-12-07 18:29:01",
+        "sentiment_score": -0.0813010036945343
+    },
+    {
+        "title": "Más Q+ o menos Q+",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/04/secuestrador-U31626667484shE-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-mas-q-o-menos-q-20241208192840-nt.html",
+        "date": "2024-12-07 18:28:50",
+        "sentiment_score": -0.15933237969875336
+    },
+    {
+        "title": "Un viaducto provisional restablecerá el martes la última carretera autonómica dañada por la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FHSCQGZKY5EYLJIA2OTVPVIL6A.jpg?auth=08b5dbe5d8db6dbc6bcd280d8a2a4aa28b82aa7fd6d3d9dd32f2ede12e724dbe&width=1200",
+        "tags": [
+            "carlos mazón",
+            "dana",
+            "comunidad valenciana",
+            "torrent",
+            "carreteras",
+            "aldaia",
+            "inundaciones dana octubre 2024",
+            "alaquàs",
+            "obras reforma",
+            "generalitat valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-07/un-viaducto-provisional-restablecera-el-martes-la-ultima-carretera-autonomica-danada-por-la-dana.html",
+        "date": "2024-12-07 18:00:52",
+        "sentiment_score": 0.3872789926826954
+    },
+    {
+        "title": "22:00 | 07 DIC 2024 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-07-dic-2024-juego-20241207_3059314.html",
+        "date": "2024-12-07 22:13:42",
+        "sentiment_score": 0.05893290787935257
+    },
+    {
+        "title": "Bellingham ilumina al Real Madrid en Girona",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/12/07/jude-kmr-U230230864843htB-758x531@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/deportes/futbol/liga-primera/cronica-girona-realmadrid-jornada16-primera-20241207193602-ntrc.html",
+        "date": "2024-12-07 22:09:04",
+        "sentiment_score": 0.7265683934092522
+    },
+    {
+        "title": "Bellingham ilumina al Real Madrid en Girona",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/07/jude-kmr-U230230864843htB-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deportes/futbol/liga-primera/cronica-girona-realmadrid-jornada16-primera-20241207193602-ntrc.html",
+        "date": "2024-12-07 22:09:04",
+        "sentiment_score": -0.747537937015295
+    },
+    {
+        "title": "El Almería quiere la gloria ante un obstáculo mayor",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/12/08/UDA-Previa-kNuB-U230230468109vDI-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/udalmeria/almeria-quiere-gloria-ante-obstaculo-mayor-20241208230827-nt.html",
+        "date": "2024-12-07 22:08:27",
+        "sentiment_score": 0.03485991060733795
+    },
+    {
+        "title": "LaLiga | Girona-Real Madrid, en imágenes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fbf7c200-6f3c-4435-9be0-1ee3fd94eefd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreogallego.es/fotos/2024/12/07/laliga-girona-real-madrid-imagenes-112419356.html",
+        "date": "2024-12-07 22:05:49",
+        "sentiment_score": 0.00457918643951416
+    },
+    {
+        "title": "Los cuarteles de Sant Andreu en Barcelona: más de 300 pisos públicos vacíos o abandonados y una docena de solares sin edificar",
+        "image_url": "https://static1.ara.cat/clip/221e6f72-36a4-4a3d-9acb-af52f3f9a6f7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/sociedad/cuarteles-sant-andreu-barcelona-300-pisos-publicos-vacios-abandonados-docena-solares-edificar_130_5224654.html",
+        "date": "2024-12-07 22:12:26",
+        "sentiment_score": -0.8449009079486132
+    },
+    {
+        "title": "\"Izquierda no está dividida\"",
+        "image_url": "https://static1.ara.cat/clip/dcbba270-6ae7-43a8-a45b-710277e6bc0a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/politica/izquierda-no-dividida_128_5224648.html",
+        "date": "2024-12-07 22:00:50",
+        "sentiment_score": 0.5986552536487579
+    },
+    {
+        "title": "El Real Madrid se lame las heridas en Montilivi y vuelve a depender de sí mismo",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/12/07/6754bf58b3db4.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20241207/real-madrid-lame-heridas-montilivi-vuelve-depender-mismo_251394.html",
+        "date": "2024-12-07 21:53:35",
+        "sentiment_score": -0.9117746725678444
+    },
+    {
+        "title": "El Real Madrid golea y se acerca al liderato",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/60f193e3-a404-8e81-12e854b1156127d7.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z60f19259-e48a-cb4d-7f0b898e77d19008/202412/el-real-madrid-golea-y-se-acerca-al-liderato",
+        "date": "2024-12-07 21:44:52",
+        "sentiment_score": -0.035205185413360596
+    },
+    {
+        "title": "3-3. El Poio Pescamar evita la derrota ante un rival directo en los minutos finales",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2024/12/07/2024120722395793349.jpg",
+        "tags": [
+            "deporte local pontevedra"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/deporte-local-pontevedra/poio-pescamar-evita-derrota-rival-directo-minutos-finales/202412072241391332833.html",
+        "date": "2024-12-07 21:41:39",
+        "sentiment_score": 0.014474160969257355
+    },
+    {
+        "title": "El Gobierno valenciano emite un aviso ante el riesgo extremo de incendios para este domingo",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/12/estacion-esqui-baqueira-beret-tiempo-puente-diciembre-aemet-469x317.jpg",
+        "tags": [
+            "comunidad valenciana",
+            "viento",
+            "valencia",
+            "aemet",
+            "barcelona",
+            "españa",
+            "castellón"
+        ],
+        "link": "https://theobjective.com/espana/2024-12-07/comunidad-valenciana-vientos-incendios/",
+        "date": "2024-12-07 21:06:36",
+        "sentiment_score": -0.4133008383214474
+    },
+    {
+        "title": "Una mujer, herida grave tras caerle encima un árbol en Barcelona debido a las fuertes rachas de viento",
+        "image_url": "https://album.mediaset.es/eimg/2023/01/28/imagen-de-archivo-de-una-ambulancia_5143.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241207/herida-caerle-arbol-encima-barcelona-viento_18_014223615.html",
+        "date": "2024-12-07 20:59:37",
+        "sentiment_score": -0.828387638553977
+    },
+    {
+        "title": "Ars Creatio y Concha Valdés reciben el premio \"Diego Ramírez\" de Torrevieja",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/17cfe879-8a75-454c-a2e3-177813b75677_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/vega-baja/2024/12/07/ars-creatio-premios-diego-ramirez-franquista-concha-valdes-torrevieja-112417529.html",
+        "date": "2024-12-07 20:58:59",
+        "sentiment_score": 0.4136524274945259
+    },
+    {
+        "title": "Hasta 2.102 euros al mes: Mercadona busca empleados para la venta online",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2024/12/trabajadora-colmena-anillo-escaner-1.jpg",
+        "tags": [
+            "salarios",
+            "mercadona",
+            "sociedad",
+            "empleo"
+        ],
+        "link": "https://www.economiadigital.es/sociedad/empleo-mercadona-salario-ds.html",
+        "date": "2024-12-07 20:55:00",
+        "sentiment_score": 0.31484551541507244
+    },
+    {
+        "title": "Barcelona restaurará el monumento de Colón",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2018/07/26/el-pulso-de-la-ciudad/el_pulso_de_la_ciudad_325477465_10622045_1706x960.jpg?contentId=ESPIMA20180726_0016",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20241207/barcelona-restaurara-el-monumento-de-colon/906909365_0.html",
+        "date": "2024-12-07 20:54:52",
+        "sentiment_score": 0.17741809785366058
     }
 ];
