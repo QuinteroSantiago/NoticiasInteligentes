@@ -1,469 +1,5 @@
 export default [
     {
-        "title": "El artista visual Ahmed Gómez revela los fundamentos de su obra en el Art Basel Miami 2024",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "arte",
-            "art basel"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/art-basel-miami-ahmed-gomez-wendy-guerra-orix/",
-        "date": "2024-12-05 16:51:09",
-        "sentiment_score": 0.0673774853348732
-    },
-    {
-        "title": "Más de 50.000 luces Iluminan el árbol de Navidad de Rockefeller Center en Nueva York",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1812095860-1.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "noticias de ee.uu.",
-            "árbol de navidad",
-            "videos digitales"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/arbol-navidad-rockefeller-center-nueva-york-ush-orix/",
-        "date": "2024-12-05 14:28:07",
-        "sentiment_score": 0.5484628602862358
-    },
-    {
-        "title": "Crisis política en Francia: caída del primer ministro pone contra las cuerdas a Macron",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187716277.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "crisis política",
-            "emmanuel macron",
-            "xpress",
-            "fast – news variety",
-            "francia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/crisis-politica-francia-primer-ministro-barnier-macron-cafe-tv/",
-        "date": "2024-12-05 14:20:00",
-        "sentiment_score": -0.6926414854824543
-    },
-    {
-        "title": "La prevención y la detección ha salvado más vidas que los tratamientos en estos cinco tipos de cáncer",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/12/05/GillandersBCvaccinetrial.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/cinco-tipos-cancer-prevencion-deteccion-salvado-vidas-20241205104759-nt.html",
-        "date": "2024-12-05 17:00:05",
-        "sentiment_score": -0.18609009683132172
-    },
-    {
-        "title": "EE.UU. denuncia un «esfuerzo a gran escala» de injerencia en Rumanía por parte de Rusia",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/05/georgescu-RbFBYpI4wg3lNf6GM4wPwNM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-denuncia-esfuerzo-gran-escala-injerencia-rumania-20241205175350-nt.html",
-        "date": "2024-12-05 16:55:10",
-        "sentiment_score": -0.1806836575269699
-    },
-    {
-        "title": "Milei excluye a China de la licitación para la concesión de una hidrovía del río Paraná",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/05/milei-xi-RPwRkr10y3mbWomGiTp2FqL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/milei-excluye-china-licitacion-concesion-hidrovia-rio-20241205161559-nt.html",
-        "date": "2024-12-05 15:36:20",
-        "sentiment_score": -0.0755394697189331
-    },
-    {
-        "title": "La Generalitat Valenciana alerta del mayor consumo de cocaína y cannabis entre los jóvenes de clases más desfavorecidas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YDSFFKROJZDAXF2KFOQU226R7A.jfif?auth=ee0f68d9e09f502983b731f65dd0c253460a0d86032f4eacfdbffc7bb4f14446&width=1200",
-        "tags": [
-            "sanidad",
-            "bartolome pérez galvez",
-            "drogas",
-            "generalitat valenciana",
-            "sanidad pública",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-05/la-generalitat-valenciana-alerta-del-mayor-consumo-de-cocaina-y-cannabis-entre-los-jovenes-de-clases-mas-desfavorecidas.html",
-        "date": "2024-12-05 17:09:46",
-        "sentiment_score": -0.5622336976230145
-    },
-    {
-        "title": "El TSJM ve “inconclusa” la investigación sobre la número tres de Ayuso y ordena a la juez instructora completar las pesquisas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4MSIDDPP7NNI6NQG3RKJ555SX4.jpg?auth=3b571e0720046826a177d47371099916b5cc01d13c2d27f575e442509b117180&width=1200",
-        "tags": [
-            "gobierno comunidad de madrid",
-            "comunidad de madrid",
-            "isabel díaz ayuso",
-            "arroyomolinos",
-            "madrid",
-            "pp madrid",
-            "prevaricación",
-            "ana millán"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-05/el-tsjm-ve-inconclusa-la-investigacion-sobre-la-numero-tres-de-ayuso-y-ordena-a-la-juez-instructora-completar-las-pesquisas.html",
-        "date": "2024-12-05 17:08:35",
-        "sentiment_score": -0.3765372522175312
-    },
-    {
-        "title": "Una pareja de payasos revoluciona Paiporta y arranca las primeras risas tras la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BEBZET6EYFCRBEB355B4VUR7WU.jpg?auth=81cafe343c847d1656e6529b47c74a8cb4f5677339d4ed18016a2af1922615a2&width=1200",
-        "tags": [
-            "valencia",
-            "dana",
-            "españa",
-            "comedia",
-            "paiporta",
-            "payasos",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/2024-12-05/una-pareja-de-payasos-revoluciona-paiporta-y-arranca-las-primeras-risas-tras-la-dana.html",
-        "date": "2024-12-05 17:06:12",
-        "sentiment_score": 0.1050981730222702
-    },
-    {
-        "title": "El nuevo Espai Moja invita a un inmersivo viaje en el tiempo al patrimonio catalán con ‘pa amb tomàquet’ (virtual) incluido",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SPLZX6JFCRDHPPUOTXHEQQ4JC4.jpg?auth=1489d645cddf6e0449592ad8485ef4f4871cfe2406e87be21267ea6138d109a8&width=1200",
-        "tags": [
-            "tecnología 3d",
-            "museos públicos",
-            "cataluña",
-            "turismo",
-            "generalitat cataluña",
-            "exposiciones",
-            "patrimonio cultural",
-            "cultura",
-            "monumentos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-05/el-nuevo-espai-moja-invita-a-un-inmersivo-viaje-en-el-tiempo-al-patrimonio-catalan-con-pa-amb-tomaquet-virtual-incluido.html",
-        "date": "2024-12-05 16:58:11",
-        "sentiment_score": 0.469705943018198
-    },
-    {
-        "title": "El PP exige a la concejal de Santa Susanna detenida que renuncie a su acta municipal",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PXCAPM43KHO5JKMTVMF65CJVHA.jpg?auth=c4a4b0fee27ca34b41ce942e902cf2aafc3d10acba6c35ef4e1471eb7e858579&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-05/el-pp-exige-a-la-concejal-de-santa-susanna-detenida-que-renuncie-a-su-acta-municipal.html",
-        "date": "2024-12-05 16:56:22",
-        "sentiment_score": -0.6966032162308693
-    },
-    {
-        "title": "Así es el abeto de siete metros que inaugura la Navidad tras la dana en Paiporta: sin adornos a la espera de la decoración de los niños",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3LAHO44A5RCOFMHSVNTHXWQZCY.jpeg?auth=c9c78a18b5ea8ad67365cee2d26059972e1e792361aa5fd1b0fa9bdf30bacb02&width=1200",
-        "tags": [
-            "valencia",
-            "españa",
-            "ume",
-            "navidad",
-            "árboles",
-            "paiporta",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-05/asi-es-el-abeto-de-siete-metros-que-inaugura-la-navidad-tras-la-dana-en-paiporta-sin-adornos-a-la-espera-de-la-decoracion-de-los-ninos.html",
-        "date": "2024-12-05 16:47:21",
-        "sentiment_score": 0.024221591651439667
-    },
-    {
-        "title": "Hacienda detecta un fraude del cuñado de Rita Barberá de más de 600.000 euros en tres años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/V5JHN6G2Y7IY47NRAAFM7HO2ZI.jpg?auth=054352e5fe5f0b9b42f9d7959cbbd2fd2f82bb1835ac75f1a15b8df91be05128&width=1200",
-        "tags": [
-            "hacienda pública",
-            "corrupción",
-            "tribunales",
-            "corrupción pp",
-            "rita barberá",
-            "valencia",
-            "corrupción política",
-            "alfonso grau",
-            "caso azud",
-            "fraude fiscal",
-            "comunidad valenciana",
-            "ayuntamiento valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-05/hacienda-detecta-un-fraude-del-cunado-de-rita-barbera-de-mas-de-600000-euros-en-tres-anos.html",
-        "date": "2024-12-05 16:32:30",
-        "sentiment_score": -0.07225149124860764
-    },
-    {
-        "title": "PP y Vox piden al Gobierno 2.200 millones para adecuar barrancos tras la dana mientras recortaron presupuesto en obras y emergencias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YL67W6DQRVA3JELELDJSLL2EMM.JPG?auth=144901bfcd0bbdcae247ff1b42dfa4dfd5e1358f3cfff55bbf8265c2f0e4612d&width=1200",
-        "tags": [
-            "pspv-psoe",
-            "comunidad valenciana",
-            "dana",
-            "compromis-q",
-            "vox",
-            "corts valencianes",
-            "política",
-            "inundaciones dana octubre 2024",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-05/pp-y-vox-piden-al-gobierno-2200-millones-para-adecuar-barrancos-tras-la-dana-mientras-recortaron-presupuesto-en-obras-y-emergencias.html",
-        "date": "2024-12-05 16:01:46",
-        "sentiment_score": -0.08750689029693604
-    },
-    {
-        "title": "El Gobierno cifra en 274 millones las ayudas por la dana ya entregadas y destina 30 para l’Albufera",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/X6ISWFXQEZCJLIGED6BVCIWVII.jpg?auth=f6dacdd323d82e573f9baafa2ef522dcb181587a51a9b8afe9dcb5b55730c276&width=1200",
-        "tags": [
-            "gobierno",
-            "inundaciones dana octubre 2024",
-            "carlos mazón",
-            "comunidad valenciana",
-            "dana",
-            "sara aagesen",
-            "pedro sánchez",
-            "generalitat valenciana",
-            "valencia",
-            "carlos cuerpo",
-            "gobierno autonómico"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-05/el-gobierno-cifra-en-274-millones-las-ayudas-por-la-dana-ya-entregadas-y-destina-30-para-lalbufera.html",
-        "date": "2024-12-05 15:56:13",
-        "sentiment_score": -0.86799883749336
-    },
-    {
-        "title": "Profesores, alumnos y políticos se movilizan contra la asfixia de Ayuso a las universidades: “La uni no se vende, la uni se defiende”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LEEDXFE4WOQMFBYWEOXCVPEROE.jpg?auth=926df9b0dec15b5d50eadac899c293f8933d7db72ea463effb57f5695bdb85f6&width=1200",
-        "tags": [
-            "isabel díaz ayuso",
-            "educación",
-            "madrid",
-            "gobierno comunidad de madrid",
-            "universidades privadas",
-            "comunidad de madrid",
-            "universidades públicas"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-05/profesores-alumnos-y-politicos-se-movilizan-contra-la-asfixia-de-ayuso-a-las-universidades-la-uni-no-se-vende-la-uni-se-defiende.html",
-        "date": "2024-12-05 15:55:17",
-        "sentiment_score": -0.7881183382123709
-    },
-    {
-        "title": "Sara Sálamo cuenta el detalle que tuvo Florentino Pérez con ella",
-        "image_url": "https://cflvdg.avoz.es/sc/G53Wy8g3yX2QB9NoPWLeoPlSI5Q=/768x/2024/12/05/00121733417699584534290/Foto/EuropaPress_6334751_isco_alarcon_and_sara_salamo_pose_for_photo_during_the_marca_football-EP.jpg",
-        "tags": [
-            "fútbol",
-            "real madrid",
-            "florentino pérez"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/12/05/sara-salamo-cuenta-detalle-florentino-perez/00031733417770076339320.htm",
-        "date": "2024-12-05 17:01:00",
-        "sentiment_score": -0.01644616574048996
-    },
-    {
-        "title": "Felipe VI ensalza el papel de la Cámara de Comercio en su décimo aniversario y llama a la unidad empresarial",
-        "image_url": "https://images.ecestaticos.com/v4zeMdrM0pEn72cB8u3jYWqU8kI=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb87%2F1b9%2F3e4%2Fb871b93e41f25d72835646ebe2313975.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elconfidencial.com/empresas/2024-12-05/felipe-vi-papel-camara-comercio-aniversario-unidad-empresarial_4018095/",
-        "date": "2024-12-05 17:01:00",
-        "sentiment_score": 0.11587466299533844
-    },
-    {
-        "title": "Iker Casillas recomienda la Ribeira Sacra: \"De puente a un lugar maravilloso...\"",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/12/05/2024120517550635061.jpg",
-        "tags": [
-            "ribeira sacra"
-        ],
-        "link": "https://www.elprogreso.es/articulo/ribeira-sacra/iker-casillas-pasa-puente-ribeira-sacra/202412051759121811177.html",
-        "date": "2024-12-05 16:59:12",
-        "sentiment_score": -0.0676034726202488
-    },
-    {
-        "title": "DIGI TV, la nueva televisión de pago por solo 7 euros al mes: qué canales y funciones incluye",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/e/0/b/digi.jpg",
-        "tags": [
-            "tecnologia"
-        ],
-        "link": "https://www.eleconomista.es/tecnologia/noticias/13121409/12/24/digi-tv-la-nueva-television-de-pago-por-solo-7-euros-al-mes-que-canales-y-funciones-incluye.html",
-        "date": "2024-12-05 16:55:04",
-        "sentiment_score": 0.09275272488594055
-    },
-    {
-        "title": "¿Cómo puedo evitar la retención de Hacienda en la Lotería?",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1133566",
-        "date": "2024-12-05 16:52:53",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Una conversación interceptada desvela que Sito Miñanco pagaba 10.000 euros al mes a cada uno de los 40 miembros de su organización",
-        "image_url": "https://cflvdg.avoz.es/sc/xDcAXq7f1aNxFxG2_saJVHswrRg=/768x/2024/12/05/00121733416322051579978/Foto/efe_20241204_084943947.jpg",
-        "tags": [
-            "sito miñanco",
-            "policía nacional",
-            "narcotráfico",
-            "audiencia nacional",
-            "galicia"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/galicia/2024/12/05/sito-minanco-pagaba-10000-euros-mes-40-miembros-organizacion/00031733416268104674160.htm",
-        "date": "2024-12-05 16:44:00",
-        "sentiment_score": -0.2610376290977001
-    },
-    {
-        "title": "David Broncano y Lalachus presentarán las campanadas de La 1",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MLCXS2NSUBGHJGPB62MV5LOMU4.jpg?auth=a2e8ecf35cc9880db2484fbaa3683d78ede67a186d4866e728aca117aa4e8ff5&width=1200",
-        "tags": [
-            "antena 3",
-            "cristina pedroche",
-            "la 1",
-            "ana mena",
-            "la revuelta",
-            "nochevieja",
-            "alberto chicote",
-            "atresmedia",
-            "rtve",
-            "david broncano",
-            "humoristas",
-            "ramón garcía",
-            "tve",
-            "televisión"
-        ],
-        "link": "https://elpais.com/television/2024-12-05/david-broncano-y-lalachus-presentaran-las-campanadas-de-la-1.html",
-        "date": "2024-12-05 16:34:20",
-        "sentiment_score": -0.06958982348442078
-    },
-    {
-        "title": "Nico Fernández y Aleix Febas, dos bajas sensibles en el Elche para recibir al Cádiz CF",
-        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2024/12/05/nico-fernandez-elche-RRnmS7toC3t0QWQPW90dnaN-758x531@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/nico-fernandez-aleix-febas-dos-bajas-sensibles-20241205173123-ntv.html",
-        "date": "2024-12-05 16:31:23",
-        "sentiment_score": -0.1067805290222168
-    },
-    {
-        "title": "Nadal presenta las claves y valores para tener éxito en la industria del deporte",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/11/VICARIO-Y-RAFA-NADAL-DEFINITIVA-469x317.jpg",
-        "tags": [
-            "actualidad",
-            "servimedia"
-        ],
-        "link": "https://theobjective.com/actualidad/2024-12-05/nadal-presenta-claves-valores-exito-industria-deporte/",
-        "date": "2024-12-05 16:24:32",
-        "sentiment_score": 0.6547683086246252
-    },
-    {
-        "title": "Un Juzgado reconoce a un empleado público un permiso retribuido para cuidar a su hijo",
-        "image_url": "https://static.grupojoly.com/clip/65812e8c-129f-41ef-afe6-4b002d9b4083_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodecadiz.es/sociedad/juzgado-reconoce-empleado-publico-permiso_0_2002932652.html",
-        "date": "2024-12-05 17:07:12",
-        "sentiment_score": -0.8531757509335876
-    },
-    {
-        "title": "Pol Arnau: “Sé que hablé con mi padre antes de los penaltis”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/26c992ab-527d-4e05-81f6-4683c58428e1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/deportes/2024/12/05/pol-arnau-hable-padre-penaltis-112368217.html",
-        "date": "2024-12-05 17:05:48",
-        "sentiment_score": -0.10896487534046173
-    },
-    {
-        "title": "Así se prepara Maite Delgado para el Miss Universo Venezuela 2024 (+FOTOS)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1733417974515/WhatsApp%20Image%202024-12-05%20at%201.00.19%20PM.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/asi-se-prepara-maite-delgado-para-el-miss-universo-venezuela-2024-fotos--20241251310",
-        "date": "2024-12-05 17:01:00",
-        "sentiment_score": 0.11760577373206615
-    },
-    {
-        "title": "Tendencias decorativas para estas navidades 2024",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1733411928675/decoracion-navidad-natural-0.jpeg",
-        "tags": [
-            "variedades - decoración"
-        ],
-        "link": "https://2001online.com/zona3d/decoracion/tendencias-decorativas-para-estas-navidades-2024-20241251300",
-        "date": "2024-12-05 17:00:00",
-        "sentiment_score": 0.7694172970950603
-    },
-    {
-        "title": "Clientes de FPL pagarán más por pérdidas sufridas en huracanes (+Detalles)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/clientes-de-fpl-pagaran-mas-por-perdidas-sufridas-en-huracanes-detalles--20241251300",
-        "date": "2024-12-05 17:00:00",
-        "sentiment_score": 0.3853545971214771
-    },
-    {
-        "title": "Cuatro militares muertos tras ataque a helicóptero",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/cuatro-militares-muertos-tras-ataque-a-helicoptero--202412512360",
-        "date": "2024-12-05 16:36:00",
-        "sentiment_score": -0.4035209156572819
-    },
-    {
-        "title": "Texas | Así puede acceder a las becas de Livestock Show and Rodeo (+Fechas)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/texas-asi-puede-acceder-a-las-becas-de-livestock-show-and-rodeo-fechas--202412512340",
-        "date": "2024-12-05 16:35:00",
-        "sentiment_score": 0.5041679292917252
-    },
-    {
-        "title": "¿Deseas viajar a EEUU pero tienes el pasaporte vencido? Esto debes saber",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/deseas-viajar-a-eeuu-pero-tienes-el-pasaporte-vencido-esto-debes-saber-202412512350",
-        "date": "2024-12-05 16:35:00",
-        "sentiment_score": 0.03030236065387726
-    },
-    {
-        "title": "Shakira presenta a los finalistas para ganar el sorteo de su Lamborghini (+Video)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/shakira-presenta-a-los-finalistas-para-ganar-el-sorteo-de-su-lamborghini-video--202412512240",
-        "date": "2024-12-05 16:24:00",
-        "sentiment_score": 0.16989409923553467
-    },
-    {
-        "title": "JC Rey ofrece detalles de su reciente tema promocional",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/jc-rey-ofrece-detalles-de-su-reciente-tema-promocional--202412512230",
-        "date": "2024-12-05 16:23:00",
-        "sentiment_score": 0.11956996470689774
-    },
-    {
-        "title": "Detienen a jugador de la Unión Española por abuso sexual de una menor",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/detienen-a-jugador-de-la-union-espanola-por-abuso-sexual-de-una-menor-202412512190",
-        "date": "2024-12-05 16:19:00",
-        "sentiment_score": -0.6575937066227198
-    },
-    {
-        "title": "Con estos productos llega la bolsa CLAP en El Junquito (+FOTO)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1733414485176/IMG-20241204-WA0270.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/con-estos-productos-llega-la-bolsa-clap-en-el-junquito-foto--20241251280",
-        "date": "2024-12-05 16:08:00",
-        "sentiment_score": 0.13409344106912613
-    },
-    {
         "title": "¿Cómo actuar ante una solicitud de documentos en Estados Unidos?",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1144141655.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -640,46 +176,6 @@ export default [
         "sentiment_score": -0.18924982845783234
     },
     {
-        "title": "Una reflexión serena",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/06/241206TerceraPage-RQL5lt4WTLEss6E8GFD5WGJ-350x624@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/emiliano-garciapage-reflexion-serena-20241206193435-nt.html",
-        "date": "2024-12-05 18:34:36",
-        "sentiment_score": -0.006292283535003662
-    },
-    {
-        "title": "Lobos y lobas",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/01/Imagen%20farmaceutico%20jubilacion-U87577044370pOK-170x119@Diario%20Montanes.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/rosa-belmonte-lobos-lobas-20241206193413-nt.html",
-        "date": "2024-12-05 18:34:23",
-        "sentiment_score": -0.31457675993442535
-    },
-    {
-        "title": "Huéspedes de cristal",
-        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/03/avecinaok-k0TB--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/ignacio-ruizquintano-huespedes-cristal-20241206193256-nt.html",
-        "date": "2024-12-05 18:34:04",
-        "sentiment_score": -0.16122931241989136
-    },
-    {
-        "title": "El fin de la superioridad moral",
-        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/12/02/renta-k0l--170x119@La%20Verdad.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/carlos-granes-fin-superioridad-moral-20241206193203-nt.html",
-        "date": "2024-12-05 18:32:14",
-        "sentiment_score": -0.16260181367397308
-    },
-    {
         "title": "El dibujante Naoki Urasawa da el pistoletazo de salida al Manga Barcelona",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JVHW2S527VEB7AOXTCUUCTCMQA.png?auth=07a2d66b7a988509c2f163618d2a1344f2292cb8542bf83621c6baffb2fc3503&width=1200",
         "tags": [
@@ -730,89 +226,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-05/detenida-una-mujer-de-69-anos-por-la-muerte-violenta-de-su-pareja-en-el-vendrell.html",
         "date": "2024-12-05 18:39:46",
         "sentiment_score": -0.7024288531392813
-    },
-    {
-        "title": "Pillado tres veces en 24 horas por conducir sin carnet y borracho",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZDITKY3LJL2WLJPMD7PKAQAUUU.jpg?auth=483487d051f7469cdb760f95e5a46d196c157860d271f757250e0a4b157b55b1&width=1200",
-        "tags": [
-            "detenciones",
-            "cataluña",
-            "tráfico",
-            "accidentes",
-            "accidentes tráfico",
-            "sucesos",
-            "mossos d'esquadra",
-            "carnet conducir"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-05/pillado-tres-veces-en-24-horas-por-conducir-sin-carnet-y-borracho.html",
-        "date": "2024-12-05 18:11:47",
-        "sentiment_score": -0.12251552566885948
-    },
-    {
-        "title": "La cultura de la sidra asturiana, patrimonio de la humanidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O45JDHKNVJBHXJSG56LQNYPJEU.jpg?auth=cb7212cb43fd0c8819999dcfa7081f40608e6ca6ec1bb81fa990a3c423506901&width=1200",
-        "tags": [
-            "bebidas alcohólicas",
-            "patrimonio cultural",
-            "manzanares",
-            "cultura",
-            "patrimonio cultural inmaterial",
-            "españa",
-            "bebidas",
-            "sidra",
-            "patrimonio de la humanidad",
-            "unesco",
-            "principado de asturias"
-        ],
-        "link": "https://elpais.com/espana/2024-12-05/la-cultura-de-la-sidra-asturiana-patrimonio-de-la-humanidad.html",
-        "date": "2024-12-05 17:35:43",
-        "sentiment_score": 0.29558584466576576
-    },
-    {
-        "title": "El Supremo confirma el derecho de los inquilinos a comprar casas a precio de fondo buitre: “Ahora tenemos que aprender a dormir tranquilos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y27Y3SI7KNSUPQV4OTMA4VEQDM.jpg?auth=aeab98a72728ba7bf04b8e949bfafbf2785bfbcc1c025540cf287e53e3e3caeb&width=1200",
-        "tags": [
-            "vivienda",
-            "comunidad de madrid",
-            "madrid",
-            "tribunales",
-            "juicios",
-            "viviendas sociales de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-05/el-supremo-confirma-el-derecho-de-los-inquilinos-a-comprar-casas-a-precio-de-fondo-buitre-ahora-tenemos-que-aprender-a-dormir-tranquilos.html",
-        "date": "2024-12-05 17:33:28",
-        "sentiment_score": -0.5879966765642166
-    },
-    {
-        "title": "La ley de Memoria se suma el paquete de normas impulsadas por ERC que asume el Govern de Illa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AIEPAQVCMNWKROA75ODRNDS6Q4.jpg?auth=b97ee902e03e6b09d464fbeb607c47c680a68b71e942eb8432e8162028c163a0&width=1200",
-        "tags": [
-            "cataluña",
-            "erc",
-            "psc",
-            "pactos postelectorales",
-            "parlament cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-05/la-ley-de-memoria-se-suma-el-paquete-de-normas-impulsadas-por-erc-que-asume-el-govern-de-illa.html",
-        "date": "2024-12-05 17:32:12",
-        "sentiment_score": 0.0896635353565216
-    },
-    {
-        "title": "Valencia enciende la Navidad con más luces y adornos en las zonas afectadas por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XHLNUNNAXNGHJIQZGQNOIRAWAU.JPG?auth=1eb4719f32bc634852e2af6296a6174f230f68881ece0b404552947dbb65c01e&width=1200",
-        "tags": [
-            "algemesí",
-            "valencia",
-            "navidad",
-            "catarroja",
-            "aldaia",
-            "paiporta",
-            "comunidad valenciana",
-            "comercios"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-05/valencia-enciende-la-navidad-con-mas-luces-y-adornos-en-las-zonas-afectadas-por-la-dana.html",
-        "date": "2024-12-05 17:20:31",
-        "sentiment_score": 0.1865450069308281
     },
     {
         "title": "Caso Errejón: un gran despropósito",
@@ -6071,5 +5484,454 @@ export default [
         "link": "https://www.lavanguardia.com/opinion/20241209/10181383/semaforos-lunes-9-diciembre-marisol-schulz-enkaru-jakob-ingebrigtsen-bashar-asad.html",
         "date": "2024-12-08 23:05:00",
         "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "Oposición surcoreana acusa a partido gobernante de un «segundo golpe» de Estado",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/09/protestas-corea-k0P-U6034651300197c-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/oposicion-surcoreana-acusa-partido-gobernante-segundo-golpe-20241209060002-nt.html",
+        "date": "2024-12-09 05:00:03",
+        "sentiment_score": -0.09738051891326904
+    },
+    {
+        "title": "Biden apuesta por implicarse en la transición de Siria, pero ataca 75 objetivos del Estado Islámico",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/08/rebeldes-RwebGht5xrbcHw9zSSNPwSM-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/biden-apuesta-implicarse-transicion-siria-ataca-objetivos-20241208221446-nt.html",
+        "date": "2024-12-09 03:46:37",
+        "sentiment_score": -0.06851068139076233
+    },
+    {
+        "title": "Pumpido, abogado de Moncloa",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/01/Imagen%20farmaceutico%20jubilacion-U87577044370pOK-170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-pumpido-abogado-moncloa-20241209042020-nt.html",
+        "date": "2024-12-09 03:20:32",
+        "sentiment_score": -0.10112360119819641
+    },
+    {
+        "title": "Irán y Rusia serán expulsados de Siria tras la victoria de los rebeldes islamistas suníes",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/08/GOLANI-RV9V4NwSVx3HQBlzBV0unmO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/iran-rusia-expulsados-siria-tras-victoria-rebeldes-20241208041452-nt.html",
+        "date": "2024-12-09 03:14:53",
+        "sentiment_score": -0.14968502521514893
+    },
+    {
+        "title": "Alemania prevé un flujo de refugiados sirios de ida y vuelta tras la caída de Al Assad",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/08/berlin-Rz3q7taUZGwTixWFsLpq40I-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/alemania-preve-flujo-refugiados-sirios-ida-vuelta-20241208164525-nt.html",
+        "date": "2024-12-09 03:14:41",
+        "sentiment_score": -0.14040744304656982
+    },
+    {
+        "title": "Los Assad se hundieron entre intrigas palaciegas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/09/foto-familair-RyzCjmmLE2yJfr4UfWyvX8L-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/assad-hundieron-intrigas-palaciegas-20241209202016-nt.html",
+        "date": "2024-12-09 03:14:26",
+        "sentiment_score": -0.2739447057247162
+    },
+    {
+        "title": "Golpe del gobierno mexicano al narco: detienen al tesorero de Los Chapitos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/08/narco-R46vBM6vlWp0hQYO9SUUJqN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/golpe-gobierno-mexicano-narco-detienen-tesorero-chapitos-20241208041412-nt.html",
+        "date": "2024-12-09 03:14:12",
+        "sentiment_score": -0.10419836640357971
+    },
+    {
+        "title": "La sostenibilidad cambia las reglas de la industria juguetera",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/09/juguetes-RZxRxV12Kv4IaY3iRftyqNM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sostenibilidad-cambia-reglas-industria-juguetera-20241209204348-nt.html",
+        "date": "2024-12-09 03:13:47",
+        "sentiment_score": -0.037099361419677734
+    },
+    {
+        "title": "Las mil y una desconocidas vidas de la versátil tecnología nuclear",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/09/grammacamara-RE04VBKmIbRYEWVBHcngqrI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/mil-desconocidas-vidas-versatil-tecnologia-nuclear-20241209041308-nt.html",
+        "date": "2024-12-09 03:13:08",
+        "sentiment_score": -0.07463498413562775
+    },
+    {
+        "title": "El temporal invernal mantiene a Asturias y Castilla y León bajo aviso rojo por nieve",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XOKIO3MA3ND47M3CKUE63ECEYQ.jpg?auth=932ed90aa9754469b6f814b861a17144481fefd16723a4392ca09a062dd05d2d&width=1200",
+        "tags": [
+            "temperaturas máximas",
+            "bajas temperaturas",
+            "frío",
+            "españa",
+            "temporales",
+            "temperaturas mínimas",
+            "principado de asturias",
+            "alerta meteorológica",
+            "meteorología",
+            "lluvia",
+            "castilla y león",
+            "aemet",
+            "nieve",
+            "temperaturas",
+            "predicción meteorológica",
+            "el tiempo",
+            "viento"
+        ],
+        "link": "https://elpais.com/espana/2024-12-09/el-temporal-invernal-mantiene-a-asturias-y-castilla-y-leon-bajo-aviso-rojo-por-nieve.html",
+        "date": "2024-12-09 06:34:25",
+        "sentiment_score": -0.4669225141406059
+    },
+    {
+        "title": "España se prepara para duras negociaciones con Bruselas por los drásticos recortes propuestos para la pesca en el Mediterráneo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VUGGJL2OTJAWHMN5HKQPGRMBBU.jpg?auth=6b12aa2ed479999e097397761629a938ea0d6ff2dd535f72eede8c1d3dca072b&width=1200",
+        "tags": [
+            "pesca",
+            "unión europea",
+            "luis planas",
+            "comisión europea",
+            "economía",
+            "mar mediterráneo",
+            "europa",
+            "cuotas captura"
+        ],
+        "link": "https://elpais.com/economia/2024-12-09/espana-se-prepara-para-duras-negociaciones-con-bruselas-por-los-drasticos-recortes-propuestos-para-la-pesca-en-el-mediterraneo.html",
+        "date": "2024-12-09 04:45:00",
+        "sentiment_score": -0.784944811835885
+    },
+    {
+        "title": "La enconada pugna por la presidencia de Esquerra arroja sombras sobre el Govern de Illa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WB7ZL6CAE4RLKD55YQDNK3UAPE.jpg?auth=cde635ef2fabee3b1ba4413c8742078ea46ee381a850429d91d6d4cbab4aba59&width=1200",
+        "tags": [
+            "salvador illa",
+            "cataluña",
+            "generalitat cataluña",
+            "presupuestos autonómicos",
+            "psc",
+            "barcelona",
+            "oriol junqueras",
+            "erc"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-09/la-enconada-pugna-por-la-presidencia-de-esquerra-arroja-sombras-sobre-el-govern-de-illa.html",
+        "date": "2024-12-09 04:40:00",
+        "sentiment_score": -0.12171414494514465
+    },
+    {
+        "title": "Vox recoge el desplome del PP de Mazón por la gestión de la dana mientras crecen PSOE y Compromís",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MQLNPVMWMZESPOZUYA3UDOPZKU.png?auth=63840fddc9fa1276976bcffa34a2a3db3de68acb3a85534e8dcf0ff9c1dbc263&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "elecciones",
+            "encuestas electorales",
+            "barómetro el país",
+            "carlos mazón",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-09/vox-recoge-el-desplome-del-pp-de-mazon-por-la-gestion-de-la-dana-mientras-crecen-psoe-y-compromis.html",
+        "date": "2024-12-09 04:40:00",
+        "sentiment_score": -0.42503169924020767
+    },
+    {
+        "title": "La casa de Madrid que viste a actores de Hollywood",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H6OJZMQU3ZEJRLKWKHVLAF6GCE.jpg?auth=2bfd17bf98caba07fe05f84748231bdd8018d6dc857dec62590a3236b98c7e58&width=1200",
+        "tags": [
+            "series comedia",
+            "napoleon",
+            "madrid",
+            "arte",
+            "la casa del dragón",
+            "the crown",
+            "negocios",
+            "series británicas",
+            "cine",
+            "comunidad de madrid",
+            "dune",
+            "series acción",
+            "películas",
+            "vikingos",
+            "los bridgerton",
+            "hollywood",
+            "empresas"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-09/la-casa-de-madrid-que-viste-a-actores-de-hollywood.html",
+        "date": "2024-12-09 04:40:00",
+        "sentiment_score": 0.03623555600643158
+    },
+    {
+        "title": "Una comarca de ‘hobbits’ en el norte de Extremadura",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H7CP2L4OXRHI5GM7CXZQ6D265Y.jpg?auth=e18f287089dcbb6db8caaa241fc559ab8e478e95e4666877c2f03f93ce3c7726&width=1200",
+        "tags": [
+            "el señor de los anillos: la guerra del norte",
+            "fantasia",
+            "el señor de los anillos",
+            "el señor de los anillos: la comunidad del anillo",
+            "el hobbit",
+            "el señor de los anillos: las dos torres",
+            "j. r. r. tolkien",
+            "cuacos de yuste",
+            "el señor de los anillos: el retorno del rey",
+            "pisos turísticos",
+            "el señor de los anillos: la batalla por la tierra media ii",
+            "españa",
+            "el señor de los anillos: los anillos de poder",
+            "el señor de los anillos: la batalla por la tierra media",
+            "el señor de los anillos: las aventuras de aragorn",
+            "emprendedores",
+            "el señor de los anillos, 1¬™ parte",
+            "extremadura",
+            "el señor de los anillos online: minas de moria",
+            "hoteles",
+            "provincia cáceres",
+            "el señor de los anillos: la conquista",
+            "el señor de los anillos: el concilio blanco",
+            "el señor de los anillos online: el asedio de mirkwood",
+            "airbnb",
+            "el señor de los anillos: la tercera edad"
+        ],
+        "link": "https://elpais.com/espana/2024-12-09/una-comarca-de-hobbits-en-el-norte-de-extremadura.html",
+        "date": "2024-12-09 04:40:00",
+        "sentiment_score": 0.4460851922631264
+    },
+    {
+        "title": "Casi el 90% señala a Mazón como el más ineficaz durante la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4HQ3HWGVTJHSLEJOLP7OTFTW5U.jpg?auth=5d4ecb56f3029507b344f8a25664a4bb4d0e5a4e6a466a91b60c3011d4ddd68e&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "valencia",
+            "aemet",
+            "pp",
+            "barómetro el país",
+            "carlos mazón",
+            "inundaciones",
+            "se acabó la fiesta (salf)",
+            "catástrofes",
+            "pedro sánchez",
+            "vox",
+            "generalitat valenciana",
+            "psoe",
+            "paiporta",
+            "españa",
+            "ume"
+        ],
+        "link": "https://elpais.com/espana/2024-12-09/casi-el-90-senala-a-mazon-como-el-mas-ineficaz-durante-la-dana.html",
+        "date": "2024-12-09 04:40:00",
+        "sentiment_score": -0.8029317799955606
+    },
+    {
+        "title": "Los socios del Gobierno aprietan con sus demandas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/V5MTVQCCHRDR7EUHUN7QWGY4SQ.jpg?auth=da81ddbc8106c447074daeb43999f6f188c39d032aa36f6b24cf1943c01ce061&width=1200",
+        "tags": [
+            "coalición canaria",
+            "víctor de aldama",
+            "bng",
+            "ángel víctor torres",
+            "alberto núñez feijóo",
+            "psoe",
+            "erc",
+            "juntsxcat",
+            "corrupción",
+            "koldo garcía",
+            "mertxe aizpurua",
+            "españa",
+            "gobierno de españa",
+            "bildu",
+            "caso koldo",
+            "pp",
+            "eaj-pnv",
+            "josé luis ábalos",
+            "sesiones control gobierno",
+            "congreso diputados",
+            "pedro sánchez",
+            "maría jesús montero"
+        ],
+        "link": "https://elpais.com/espana/2024-12-09/los-socios-del-gobierno-aprietan-con-sus-demandas.html",
+        "date": "2024-12-09 04:40:00",
+        "sentiment_score": -0.7986959721893072
+    },
+    {
+        "title": "Vox es el partido que más sube después de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OTZP3GZTQZAL3PS3JNOBUQPL5E.png?auth=b568759446008c2753a724d6b93f6ab5b3bbb788d196d07ee91afb45561749dc&width=1200",
+        "tags": [
+            "elecciones generales",
+            "bng",
+            "vox",
+            "alberto núñez feijóo",
+            "psoe",
+            "barómetro el país",
+            "erc",
+            "alvise pérez",
+            "juntsxcat",
+            "se acabó la fiesta (salf)",
+            "yolanda díaz",
+            "ione belarra",
+            "españa",
+            "santiago abascal",
+            "bildu",
+            "partidos políticos",
+            "pp",
+            "encuestas electorales",
+            "sumar",
+            "podemos",
+            "eaj-pnv",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2024-12-09/vox-es-el-partido-que-mas-sube-despues-de-la-dana.html",
+        "date": "2024-12-09 04:40:00",
+        "sentiment_score": -0.05624443292617798
+    },
+    {
+        "title": "Saturnino Vera y su salón acorazado contra el puente de diciembre en Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MHO5IATZLBF6NM4TK6PONXDWVM.jpg?auth=720bfca7cd90fbaa153c092728c98f712b799adbdd4c87584c19307c13bfe185&width=1200",
+        "tags": [
+            "madrid",
+            "consumismo",
+            "gentrificación",
+            "ciudades turísticas",
+            "barrios",
+            "turismo",
+            "navidad",
+            "comunidad de madrid",
+            "barrios históricos",
+            "ocio"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-09/saturnino-vera-y-su-salon-acorazado-contra-el-puente-de-diciembre-en-madrid.html",
+        "date": "2024-12-09 04:40:00",
+        "sentiment_score": -0.9000263707712293
+    },
+    {
+        "title": "Un \"noviembre de mierda\" que amenaza también diciembre",
+        "image_url": "https://static1.ara.cat/clip/46d85f02-818b-4266-85b4-4d226edf2f6b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/noviembre-mierda-amenaza-diciembre_130_5224884.html",
+        "date": "2024-12-09 06:00:56",
+        "sentiment_score": -0.5549730062484741
+    },
+    {
+        "title": "Alfonso Cabello: \"Hay un gran potencial en las Islas pero no nos lo creemos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/831aa344-4d7f-4b79-af42-7312675a178d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/canarias/2024/12/09/alfonso-cabello-hay-gran-potencial-112431900.html",
+        "date": "2024-12-09 06:00:20",
+        "sentiment_score": 0.4633297622203827
+    },
+    {
+        "title": "Antonio Guerola, un gobernador para la historia de Málaga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fb93537f-1f01-42e3-96f4-5d265533318f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2024/12/09/antonio-guerola-gobernador-historia-malaga-112423917.html",
+        "date": "2024-12-09 06:00:17",
+        "sentiment_score": 0.038754403591156006
+    },
+    {
+        "title": "No solo el 112 valenciano: la explotación de Ilunion, en las Emergencias de seis comunidades",
+        "image_url": "https://www.elplural.com/uploads/s1/18/83/62/7/sede-de-ilunion_7_480x270.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.elplural.com/politica/no-solo-112-valenciano-explotacion-ilunion-emergencias-seis-comunidades_342683102",
+        "date": "2024-12-09 06:00:00",
+        "sentiment_score": -0.151707723736763
+    },
+    {
+        "title": "CONVOCADOS | La lista de Manolo González para el Getafe – Espanyol",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/09/lista-convocados-espanyol-750x375.jpg",
+        "tags": [
+            "getafe",
+            "espanyol",
+            "actualidad",
+            "convocados"
+        ],
+        "link": "https://lagradaonline.com/lista-convocados-getafe-cf-rcd-espanyol-jornada-16-laliga-ea-sports-24-25/",
+        "date": "2024-12-09 05:59:20",
+        "sentiment_score": -0.06386277079582214
+    },
+    {
+        "title": "La posible alineación del Espanyol ante el Getafe",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/09/alineaciones-posibles-espanyol-manolo-gonzalez-750x375.jpg",
+        "tags": [
+            "getafe",
+            "espanyol",
+            "alineaciones posibles",
+            "actualidad"
+        ],
+        "link": "https://lagradaonline.com/alineaciones-posibles-getafe-espanyol-jornada-16-laliga-ea-sports-24-25/",
+        "date": "2024-12-09 05:55:45",
+        "sentiment_score": 0.8570155948400497
+    },
+    {
+        "title": "Hadas Jaoul-Kalderon, madre de dos niños secuestrados por Hamás: \"El 7 de octubre Dios cerró los ojos\"",
+        "image_url": "https://s.libertaddigital.com/2024/12/08/hadas-jaoui-kalderon03.jpg",
+        "tags": [
+            "oriente medio"
+        ],
+        "link": "https://www.libertaddigital.com/internacional/oriente-medio/2024-12-09/hadas-jaoul-kalderon-madre-de-dos-ninos-secuestrados-por-hamas-el-7-de-octubre-dios-cerro-los-ojos-7195597/",
+        "date": "2024-12-09 05:46:09",
+        "sentiment_score": 0.0351729542016983
+    },
+    {
+        "title": "La UCO investiga si la licencia que Ribera dio a Villafuel pagó con petróleo a la trama del PSOE",
+        "image_url": "https://s.libertaddigital.com/2024/12/05/28062023-conversacion-entre-pedro-sanchez-y-teresa-ribera-el-secretario-general-y-presidente-del.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/espana/2024-12-09/la-uco-investiga-si-la-licencia-que-ribera-dio-a-villafuel-pago-con-petroleo-a-la-trama-del-psoe-7194773/",
+        "date": "2024-12-09 05:40:53",
+        "sentiment_score": -0.8467330280691385
+    },
+    {
+        "title": "Una semana redonda para el Athletic",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e2acdc87-3f4d-4f43-8e7e-e17dc2a801d8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/athletic/2024/12/09/semana-redonda-athletic-9026480.html",
+        "date": "2024-12-09 05:32:28",
+        "sentiment_score": -0.22802159190177917
+    },
+    {
+        "title": "Toni Calvo, el papá de (casi) todos los pilotos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e91daf6f-b956-4efc-9f5f-39c83f1a72d3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/motogp/2024/12/09/toni-calvo-papa-pilotos-112445653.html",
+        "date": "2024-12-09 06:30:10",
+        "sentiment_score": -0.024471402168273926
+    },
+    {
+        "title": "Lola Índigo responde tajante al comunicado del RCDE sobre su concierto del próximo verano",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/12/03/674f8c811cd23.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/musica/20241209/1002367902/lola-indigo-responde-tajante-comunicado-rcde-sobre-concierto-proximo-verano-dct.html",
+        "date": "2024-12-09 06:29:15",
+        "sentiment_score": 0.04222623258829117
     }
 ];
