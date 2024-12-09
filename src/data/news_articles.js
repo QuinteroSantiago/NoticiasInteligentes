@@ -37,87 +37,6 @@ export default [
         "sentiment_score": -0.6926414854824543
     },
     {
-        "title": "Amnistía Internacional acusa a Israel de genocidio en Gaza",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "xpress",
-            "gaza",
-            "fast – news variety",
-            "medio oriente",
-            "genocidio"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/amnistia-internacional-acusa-israel-genocidio-gaza-cafe-tv/",
-        "date": "2024-12-05 14:10:17",
-        "sentiment_score": -0.8990829614922404
-    },
-    {
-        "title": "Reportan que legisladores duermen dentro del Parlamento en Corea del Sur para evitar una nueva ley marcial",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188142899.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ley marcial",
-            "fast – news variety",
-            "xpress",
-            "corea del sur",
-            "corea"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/parlamento-miedo-nueva-ley-marcial-corea-del-sur-cafe-tv/",
-        "date": "2024-12-05 14:07:03",
-        "sentiment_score": -0.09897373616695404
-    },
-    {
-        "title": "Milei llama a acabar con la “basura del socialismo” en el cierre de la CPAC",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188279346.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "socialismo",
-            "xpress",
-            "argentina",
-            "javier milei",
-            "fast – news variety",
-            "derecha"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/milei-cpac-argentina-derrotar-socialismo-cafe-tv/",
-        "date": "2024-12-05 13:46:19",
-        "sentiment_score": -0.230103000998497
-    },
-    {
-        "title": "El gobierno de Sheinbaum ha detenido a casi 350.000 migrantes",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185271856.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "méxico",
-            "xpress",
-            "fast – news variety",
-            "detenciones inmigrantes"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/gobierno-sheinbaum-detencion-migrantes-cafe-tv/",
-        "date": "2024-12-05 13:43:45",
-        "sentiment_score": -0.3817411158233881
-    },
-    {
-        "title": "El impacto de las medidas de Milei en la economía diaria",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1791011-las-5-noticias-de-la-madrugada-del-5-de-diciembre-en-cnn-en-espanol.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "argentina",
-            "xpress",
-            "fast – news variety",
-            "economía argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/impacto-economia-diaria-argentina-primera-manana-fast/",
-        "date": "2024-12-05 13:06:08",
-        "sentiment_score": 0.09326866269111633
-    },
-    {
-        "title": "\"Tiene que ser una farsa\": la reacción del líder de la oposición surcoreana sobre el anuncio de la ley marcial",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/surcoreanothyumb.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "ley marcial",
-            "mundo",
-            "corea del sur"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/corea-del-sur-ley-marcial-oposicion-trax/",
-        "date": "2024-12-05 12:09:08",
-        "sentiment_score": -0.8135418761521578
-    },
-    {
         "title": "La prevención y la detección ha salvado más vidas que los tratamientos en estos cinco tipos de cáncer",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/12/05/GillandersBCvaccinetrial.jpg",
         "tags": [
@@ -146,76 +65,6 @@ export default [
         "link": "https://www.abc.es/internacional/milei-excluye-china-licitacion-concesion-hidrovia-rio-20241205161559-nt.html",
         "date": "2024-12-05 15:36:20",
         "sentiment_score": -0.0755394697189331
-    },
-    {
-        "title": "Escribano eleva su participación en Indra al 14,3%",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/05/1201232839-RBgreQ4QSDqUHvV1df746OO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/escribano-eleva-participacion-indra-143-20241205150541-nt.html",
-        "date": "2024-12-05 14:05:42",
-        "sentiment_score": -0.019665122032165527
-    },
-    {
-        "title": "Ferrovial logra su mayor contrato de construcción en Reino Unido con un proyecto de alta velocidad",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/05/ferrovial-RhpQdqKlwgeKN5nxtZM41GI-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ferrovial-logra-mayor-contrato-construccion-reino-unido-20241205143158-nt.html",
-        "date": "2024-12-05 13:32:17",
-        "sentiment_score": -0.0029216408729553223
-    },
-    {
-        "title": "Trump escoge a un conservador experto en criptomonedas para dirigir la bolsa estadounidense",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/05/atkins-RIdzHuRZcYtRkt097n662sN-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trump-escoge-conservador-experto-criptomonedas-dirigir-bolsa-20241205140655-nt.html",
-        "date": "2024-12-05 13:06:55",
-        "sentiment_score": -0.1269138604402542
-    },
-    {
-        "title": "Desmantelado un grupo neonazi terrorista que planificaba asesinar a Meloni",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/05/giorgia-RhVSuMpDTV9Pz8rs4fcs90N-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/desmantelado-grupo-neonzi-terrorista-planificaba-asesinar-meloni-20241205132838-nt.html",
-        "date": "2024-12-05 12:32:13",
-        "sentiment_score": -0.2708233743906021
-    },
-    {
-        "title": "Bruselas ordena a Tik Tok guardar datos relacionados con posibles riesgos al proceso electoral en Rumanía",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/05/Calin-Georgescu-knnH-U603452081855dVB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/bruselas-ordena-tik-tok-guardar-datos-relacionados-20241205132808-nt.html",
-        "date": "2024-12-05 12:28:08",
-        "sentiment_score": -0.06270477175712585
-    },
-    {
-        "title": "Barnier presenta su dimisión tras perder la moción de censura y deja un panorama de inquietud dentro y fuera de Francia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/05/barnier-kifF-U603451479826QxC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/barnier-presenta-dimision-tras-perder-mocion-censura-20241205125138-nt.html",
-        "date": "2024-12-05 11:53:03",
-        "sentiment_score": -0.13984154164791107
-    },
-    {
-        "title": "México, bajo la amenaza del 'narcoterrorismo': sicarios asesinan a un empresario en un centro comercial de la capital",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/05/culiacan-RqTv9Xdo6yrwIfaTRF1TIpM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/mexico-bajo-amenaza-narcoterrorismo-sicarios-asesinan-empresario-20241205123511-nt.html",
-        "date": "2024-12-05 11:35:12",
-        "sentiment_score": -0.1440710574388504
     },
     {
         "title": "La Generalitat Valenciana alerta del mayor consumo de cocaína y cannabis entre los jóvenes de clases más desfavorecidas",
@@ -5889,5 +5738,338 @@ export default [
         "link": "https://www.laopiniondemurcia.es/cultura/2024/12/08/lola-indigo-tropieza-barcelona-concierto-112439936.html",
         "date": "2024-12-08 21:17:52",
         "sentiment_score": -0.38525112718343735
+    },
+    {
+        "title": "Casos de dengue en América aumentan más de 175% en 2024",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-507087030.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "dengue",
+            "noticias de salud"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aumentan-casos-dengue-america-latina-motivos-mirador-mundial-tv/",
+        "date": "2024-12-09 00:28:05",
+        "sentiment_score": -0.06070855259895325
+    },
+    {
+        "title": "Las repercusiones que puede tener la caída de Assad en Medio Oriente",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188300239.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "guerra civil en siria",
+            "siria"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/siria-caida-al-assad-consecuencias-mirador-mundial-tv/",
+        "date": "2024-12-09 00:27:58",
+        "sentiment_score": -0.17869603633880615
+    },
+    {
+        "title": "\"No hay nadie\": CNN atraviesa puesto fronterizo sirio abandonado",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-cruce.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "siria",
+            "bashar al-assad",
+            "frontera",
+            "videos digitales",
+            "instanoticias"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cruce-frontera-siria-abandonado-trax/",
+        "date": "2024-12-08 23:59:48",
+        "sentiment_score": -0.8952421303838491
+    },
+    {
+        "title": "Caravana de migrantes busca llegar a EE.UU. antes de la asunción de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185271923-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "fast – news variety",
+            "caravana de migrantes",
+            "xpress",
+            "chiapas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/caravana-migrante-chiapas-trump-ush-mirador-mundial-fast/",
+        "date": "2024-12-08 23:54:58",
+        "sentiment_score": -0.020054534077644348
+    },
+    {
+        "title": "Símbolos de poder quedan intactos en Siria: las promesas de los rebeldes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/siria-rebeldes-promesas-poder-mirador-mundial-tv/",
+        "date": "2024-12-08 23:33:56",
+        "sentiment_score": -0.3565926104784012
+    },
+    {
+        "title": "Estados Unidos y el resto del mundo reaccionan a la situación en Siria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estados-unidos-reacciona-panorama-siria-mirador-mundial-tv-fast/",
+        "date": "2024-12-08 23:31:44",
+        "sentiment_score": -0.7290142476558685
+    },
+    {
+        "title": "Talibanes felicitan al pueblo sirio y a las fuerzas rebeldes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "talibanes",
+            "fast – news variety",
+            "siria",
+            "xpress",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/talibanes-afganistan-felicitan-rebeldes-sirios-mirador-mundial-tv-fast/",
+        "date": "2024-12-08 23:25:55",
+        "sentiment_score": -0.30318281054496765
+    },
+    {
+        "title": "Análisis de la nueva estrategia de seguridad de Claudia Sheinbaum",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187035051.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico",
+            "xpress",
+            "fast – general",
+            "seguridad méxico",
+            "violencia méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-estrategia-seguridad-claudia-sheinbaum-mexico-opina-tv-fast/",
+        "date": "2024-12-08 23:19:10",
+        "sentiment_score": -0.24565868824720383
+    },
+    {
+        "title": "Detectives no profesionales investigan el asesinato del director de aseguradora",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-tiktok-20241208224332951.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "internet",
+            "noticias de ee.uu.",
+            "sospechoso",
+            "videos digitales",
+            "investigación",
+            "asesinato"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/detectives-aficionados-asesinato-ceo-unitedhealthcare-ush-trax/",
+        "date": "2024-12-08 22:49:20",
+        "sentiment_score": -0.7949893437325954
+    },
+    {
+        "title": "Así son las celebraciones cerca de la frontera con Siria tras la caída del régimen",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/clarissa-ward-syria-thumb-01-20241208172749099-20241208221757421-20241208221758966.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "siria",
+            "celebraciones",
+            "xpress",
+            "fast – news variety",
+            "medio oriente",
+            "líbano"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/siria-celebraciones-residentes-rebeldes-trax/",
+        "date": "2024-12-08 22:20:13",
+        "sentiment_score": -0.5153114795684814
+    },
+    {
+        "title": "Invertir durante la transición",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/05/ia-hucha-inversion-RslnYGJ1h8ONQX1QcnxKZsK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/invertir-transicion-20241205114430-nt.html",
+        "date": "2024-12-08 22:19:22",
+        "sentiment_score": -0.041953474283218384
+    },
+    {
+        "title": "Un pasajero intenta secuestrar un avión en México para llevarlo hacia Estados Unidos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/08/Avion-kVTE-U603464230234HpG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pasajero-intenta-secuestrar-avion-mexico-llevarlo-estados-20241208231918-nt.html",
+        "date": "2024-12-08 22:19:19",
+        "sentiment_score": -0.19940651953220367
+    },
+    {
+        "title": "Ronaldo Nazario sorprendió al hablar sobre equipos de la Liga MX de cara al Mundial de Clubes",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/AP24144636799005.jpg",
+        "tags": [
+            "deportes",
+            "ronaldo nazario",
+            "fútbol",
+            "mundial de clubes"
+        ],
+        "link": "https://eldiariony.com/2024/12/08/ronaldo-nazario-sorprendio-al-hablar-sobre-equipos-de-la-liga-mx-de-cara-al-mundial-de-clubes/",
+        "date": "2024-12-09 01:22:00",
+        "sentiment_score": 0.3907693289220333
+    },
+    {
+        "title": "Exteriores y Moncloa señalan a Urtasun por la ausencia del Estado en el acto de Notre Dame",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/cf24cc0b3cba00e42841ac3268c0bb7b/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/08/17336820944539.jpg",
+        "tags": [
+            "artículos juanma lamet"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/12/09/6755df97fc6c83b8568b4584.html",
+        "date": "2024-12-09 01:19:08",
+        "sentiment_score": -0.8837069114670157
+    },
+    {
+        "title": "Mbappé reflexiona sobre la depresión, su relación con el PSG y su adaptación al fútbol español",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/09/2024120902045363947.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mbappe-reflexiona-depresion-relacion-psg-adaptacion-futbol-espanol/20241209020800326759.html",
+        "date": "2024-12-09 01:08:00",
+        "sentiment_score": 0.09209379553794861
+    },
+    {
+        "title": "Sandra Bruman, la última vedete de la TV que brilla en 'Ni que fuéramos': \"Me daba miedo caer como alguien friki\"",
+        "image_url": "https://s1.elespanol.com/2024/12/03/actualidad/905920394_251402188_1706x960.jpg?contentId=ESPIMA20241203_0995",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/bluper/20241209/sandra-bruman-ultima-vedete-tv-brilla-daba-miedo-caer-alguien-friki/905910018_0.html",
+        "date": "2024-12-09 01:07:17",
+        "sentiment_score": -0.0037762075662612915
+    },
+    {
+        "title": "María José Rubio. Amalia de Sajonia, la Reina poeta, intelectual y mística",
+        "image_url": "https://s1.elespanol.com/2024/12/02/el-cultural/opinion/primera_palabra_luis_maria_anson/905669435_251346122_1706x960.jpg?contentId=ESPIMA20241202_0011",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/opinion/primera_palabra_luis_maria_anson/20241209/maria-jose-rubio-amalia-sajonia-reina-poeta-intelectual-mistica/905789413_13.html",
+        "date": "2024-12-09 01:00:00",
+        "sentiment_score": 0.5453536733984947
+    },
+    {
+        "title": "Griezmann mete al Atleti en la pelea por la Liga; en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/09/675634c031f3a.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/griezmann-mete-atleti-pelea-liga-tertulion-domingos-20241209_3059483.html",
+        "date": "2024-12-09 00:08:21",
+        "sentiment_score": -0.0441935658454895
+    },
+    {
+        "title": "El coro de los colegiados en el conservadurismo desentona",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/28/2024112821443117191.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/coro-colegiados-conservadurismo-desentona/20241209003554326751.html",
+        "date": "2024-12-08 23:35:54",
+        "sentiment_score": 0.129056416451931
+    },
+    {
+        "title": "Las lesiones del Barça de basket exponen las carencias de la plantilla diseñada por Navarro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/09/culemania/secciones/907419250_13837290_1706x960.jpg?contentId=ESPIMA20241209_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20241209/las-lesiones-barca-de-carencias-plantilla-navarro/907159330_0.html",
+        "date": "2024-12-08 23:33:50",
+        "sentiment_score": -0.3672469034790993
+    },
+    {
+        "title": "La lealtad perdida",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/08/6755b99a5a02a.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241209/10181224/lealtad-perdida.html",
+        "date": "2024-12-08 23:30:00",
+        "sentiment_score": -0.9082113122567534
+    },
+    {
+        "title": "El Atlético de Madrid remonta (4-3) al Sevilla para seguir su gran racha",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/09/horarios-atleti-real-madrid-469x317.jpg",
+        "tags": [
+            "fútbol",
+            "atlético de madrid",
+            "deportes"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2024-12-09/atletico-de-madrid-remonta-sevilla/",
+        "date": "2024-12-08 23:22:32",
+        "sentiment_score": 0.7339681051671505
+    },
+    {
+        "title": "La campaña “8M, mes a mes” de A Veiga reconoce a Victoria Diéguez",
+        "image_url": "https://www.laregion.es/media/laregion/images/2024/12/08/2024120822263142715.jpg",
+        "tags": [
+            "valdeorras"
+        ],
+        "link": "https://www.laregion.es/articulo/valdeorras/campana-8m-mes-mes-veiga-reconoce-victoria-dieguez/202412082227191352989.html",
+        "date": "2024-12-09 02:15:00",
+        "sentiment_score": 0.07895717024803162
+    },
+    {
+        "title": "Antoni Gaudí, un genio con muchas luces y ninguna sombra en una biografía necesaria y definitiva",
+        "image_url": "https://s1.elespanol.com/2024/12/05/el-cultural/letras/906420521_251476626_1706x960.jpg?contentId=ESPIMA20241205_1172",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20241209/antoni-gaudi-genio-muchas-luces-ninguna-sombra-biografia-necesaria-definitiva/906409903_0.html",
+        "date": "2024-12-09 01:00:00",
+        "sentiment_score": -0.7786817029118538
+    },
+    {
+        "title": "El microcrédito se afianza como un elemento clave para emprender",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/09/675632b983919.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241209/10181898/microcredito-afianza-elemento-clave-emprender-brl.html",
+        "date": "2024-12-09 00:07:21",
+        "sentiment_score": 0.7665643189102411
+    },
+    {
+        "title": "El eco-emprendimiento progresa, pero reclama acelerar el cambio",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/09/67562f5c51ac6.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241209/10181895/eco-emprendimiento-progresa-reclama-acelerar-cambio.html",
+        "date": "2024-12-08 23:52:09",
+        "sentiment_score": 0.5232206434011459
+    },
+    {
+        "title": "Fred Astaire y Gimferrer",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/08/6755bb1a5f675.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241209/10181223/fred-astaire-gimferrer.html",
+        "date": "2024-12-08 23:30:00",
+        "sentiment_score": -0.8174304813146591
+    },
+    {
+        "title": "Pere Andreo, de Sóller a 'L'espassio' pasando por Cúber: \"Si tuviera que partir con los alienígenas me llevaría un disco de Ruibal y mi libreta”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f011b236-ee23-4170-b7b5-af4c62f353f5_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/2024/12/09/pere-andreo-soller-lespassio-pasando-112434675.html",
+        "date": "2024-12-08 23:15:41",
+        "sentiment_score": -0.005892068147659302
+    },
+    {
+        "title": "El Valencia CF en crisis: la responsabilidad de Peter Lim en la decadencia de un gigante",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/09/2024120900053929043.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/valencia-gigante-que-pierde-lugar-historico/20241209000553326742.html",
+        "date": "2024-12-08 23:05:53",
+        "sentiment_score": -0.8131796922534704
+    },
+    {
+        "title": "Los semáforos del lunes 9 de diciembre: Marisol Schulz, Enkaru, Jakob Ingebrigtsen y Bashar el Asad",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20241209/10181383/semaforos-lunes-9-diciembre-marisol-schulz-enkaru-jakob-ingebrigtsen-bashar-asad.html",
+        "date": "2024-12-08 23:05:00",
+        "sentiment_score": 0.1083386167883873
     }
 ];
