@@ -1,262 +1,5 @@
 export default [
     {
-        "title": "Renfe establece un precio fijo de 7 euros para estas personas: requisitos y cómo conseguirlas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/04/renfe.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/renfe-establece-precio-fijo-euros-personas-requisitos-20241205061500-nt.html",
-        "date": "2024-12-05 05:15:00",
-        "sentiment_score": -0.01460614800453186
-    },
-    {
-        "title": "Detenida una concejal del PP, dos policías locales de Santa Susanna y un ‘mosso’ en una trama de regularización de extranjeros",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZG2IV2DA3NBARLBNJAM4EY6EBM.jpg?auth=1f85522dfcf928ccf7cd0fca3c5ac0b137ebb8051c9014b72a3af8104e7d8109&width=1200",
-        "tags": [
-            "detenciones",
-            "santa susanna",
-            "extranjeros",
-            "falsificación documentos",
-            "crimen organizado",
-            "cataluña",
-            "policía nacional",
-            "investigación judicial"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-05/detenida-una-concejal-del-pp-y-tres-policias-locales-de-santa-susanna-en-una-trama-de-regularizacion-de-extranjeros.html",
-        "date": "2024-12-05 05:50:00",
-        "sentiment_score": -0.8307584971189499
-    },
-    {
-        "title": "El consejero delegado de Mango, Toni Ruiz, recibe un premio en reconocimiento por el despliegue del negocio en Estados Unidos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DB2B5AH6MZFR5HLTI4ZTN5W54Q.jpg?auth=7a355cbae253fa20f585afe63d9d68d6ff1bd078d56b8b6fac1da04e1c135149&width=1200",
-        "tags": [
-            "empresas",
-            "ropa",
-            "cataluña",
-            "cámaras comercio",
-            "premios",
-            "moda",
-            "mango",
-            "industria"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-05/el-consejero-delegado-de-mango-toni-ruiz-recibe-un-premio-en-reconocimiento-por-el-despliegue-del-negocio-en-estados-unidos.html",
-        "date": "2024-12-05 05:15:00",
-        "sentiment_score": 0.7075960151851177
-    },
-    {
-        "title": "Por qué las personas crédulas son más susceptibles a las teorías conspirativas? Un estudio explica la conexión",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241205071951_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-personas-credulas-son-mas-susceptibles-teorias-conspirativas-estudio-explica-conexion-20241205071951.html",
-        "date": "2024-12-05 06:19:51",
-        "sentiment_score": -0.8745025899261236
-    },
-    {
-        "title": "La imagen fascista de Morris triunfa con la obra “1936”",
-        "image_url": "https://www.atlantico.net/media/atlantico/images/2024/12/04/2024120421510120225.jpg",
-        "tags": [
-            "vigo"
-        ],
-        "link": "https://www.atlantico.net/articulo/vigo/imagen-fascista-morris-triunfa-obra-1936/202412050715211062240.html",
-        "date": "2024-12-05 06:15:21",
-        "sentiment_score": -0.31558792293071747
-    },
-    {
-        "title": "10 lugares de España en los que se han rodado películas famosas",
-        "image_url": "https://album.mediaset.es/eimg/2024/11/15/el-lejano-oeste-en-realidad-esta-en-el-desierto-de-almeria_e576.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.cuatro.com/noticias/sociedad/20241205/lugares-espana-rodaje-peliculas-famosas-be5m_18_014020064.html",
-        "date": "2024-12-05 06:00:36",
-        "sentiment_score": 0.41647014766931534
-    },
-    {
-        "title": "\"Me jubilo y mi hijo va a crear un proyecto paralelo a la bodega\"",
-        "image_url": "https://static1.ara.cat/clip/14e46e72-1fba-4360-befe-633723327aca_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/jubilo-hijo-crear-proyecto-paralelo-bodega_128_5221693.html",
-        "date": "2024-12-05 06:00:25",
-        "sentiment_score": 0.05239135026931763
-    },
-    {
-        "title": "Europa apunta hacia la fase del año de mayor consumo de tabaco en Salamanca: los meses de 'terraceo'",
-        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/12/04/LA%20GACETA%20REGIONAL%20DE%20(7102968)-Rw8pfHwfFRuxxBTty3RqzIP-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/salamanca/europa-apunta-fase-ano-mayor-consumo-tabaco-20241204070000-nt.html",
-        "date": "2024-12-05 06:00:00",
-        "sentiment_score": 0.2815183214843273
-    },
-    {
-        "title": "El pueblo de Catalunya donde más toca 'El Gordo' de la Lotería de Navidad: no es cerca de Barcelona",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/01/03/65952a36a66f3.r_d.2516-1959.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20241205/1002365285/pueblo-catalunya-mas-toca-gordo-loteria-navidad-cerca-barcelona-dct.html",
-        "date": "2024-12-05 06:00:00",
-        "sentiment_score": 0.629880391061306
-    },
-    {
-        "title": "Los datos que enfrentan a la Universidad con Ayuso: 21% menos de financiación pese a ser la comunidad más rica",
-        "image_url": "https://www.elplural.com/uploads/s1/18/45/52/7/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-durante-la-sesion-de-apertura-del-curso-academico-2024-de-la-real-academia-de-doctores-de-espana-en-el-paraninfo-de-la-universidad-comp_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/datos-enfrentan-universidad-ayuso-21-menos-financiacion-pese-ser-comunidad-mas-rica_342597102",
-        "date": "2024-12-05 06:00:00",
-        "sentiment_score": -0.07145869731903076
-    },
-    {
-        "title": "Todas las enmiendas de la izquierda a los presupuestos 'para ricos' de Ayuso",
-        "image_url": "https://www.elplural.com/uploads/s1/18/82/14/8/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-durante-la-inauguracion-del-belen-de-la-real-casa-de-correos-ep_7_480x270.jpeg",
-        "tags": [
-            "autonomías",
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/todas-enmiendas-izquierda-presupuestos-para-ricos-ayuso_342577102",
-        "date": "2024-12-05 06:00:00",
-        "sentiment_score": 0.0012006759643554688
-    },
-    {
-        "title": "Javier Urra, psicólogo: “La familia no solo forma; te sostiene cuando todo lo demás se tambalea”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EBTCY3IU7NDMHAGWMVHZHXWCEE.png?auth=8c54e17c70169c0371ba34f4a3c16743df429becf68bd0104fc81ce1fcca89e7&width=1200",
-        "tags": [
-            "hijos",
-            "padres",
-            "crianza hijos",
-            "educación",
-            "familia",
-            "acoso escolar",
-            "formación",
-            "jóvenes",
-            "adolescencia",
-            "psicología",
-            "ciberacoso"
-        ],
-        "link": "https://elpais.com/economia/formacion/2024-12-05/javier-urra-psicologo-la-familia-no-solo-forma-te-sostiene-cuando-todo-lo-demas-se-tambalea.html",
-        "date": "2024-12-05 06:00:00",
-        "sentiment_score": 0.0797974169254303
-    },
-    {
-        "title": "Adolfo García, el archivero municipal de Valladolid que más tiempo ejerció el cargo",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/11/27/newspaint-1732725426373-1200x840-kB4F-U23093218491mCD-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/el-cronista/adolfo-garcia-archivero-municipal-valladolid-tiempo-ejercio-20241205064916-nt.html",
-        "date": "2024-12-05 05:49:16",
-        "sentiment_score": 0.046924054622650146
-    },
-    {
-        "title": "Toni Ruiz, consejero delegado de Mango, recibe en Nueva York el premio de empresario del año",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/05/67514399b0453.r_d.2814-2363-0.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20241205/10172680/toni-ruiz-consejero-delegado-mango-recibe-nueva-york-premio-empresario-ano.html",
-        "date": "2024-12-05 06:25:59",
-        "sentiment_score": 0.7659025862812996
-    },
-    {
-        "title": "Malparit y su cocina de mercado dos en uno: bar y restaurante",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d7b2c7e0-e791-4868-b687-2ae8dc10df70_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241205/malparit-restaurante-barcelona-cocina-mercado-111955634",
-        "date": "2024-12-05 06:23:44",
-        "sentiment_score": -0.17921805381774902
-    },
-    {
-        "title": "Estos son los secretos del tomate 'volcánico' que adereza las auténticas pizzas napolitanas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/12c2d57a-8800-4257-a311-6a170de1d797_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241205/tomate-san-marzano-secretos-pizza-111501738",
-        "date": "2024-12-05 06:21:58",
-        "sentiment_score": 0.2465808391571045
-    },
-    {
-        "title": "Primera sentencia que reconoce el permiso parental retribuido de 8 semanas",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1133336",
-        "date": "2024-12-05 06:17:46",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Nuevos restaurantes en Barcelona para visitar ya",
-        "image_url": "https://phantom-expansion.unidadeditorial.es/3dca1a6f90743fd74c540c725deb7842/resize/600/assets/multimedia/imagenes/2024/11/24/17324706985147.jpg",
-        "tags": [
-            "barcelona>",
-            "fuera de serie>"
-        ],
-        "link": "https://www.expansion.com/fueradeserie/gastro/album/2024/12/05/6750b891468aeb67148b4580.html",
-        "date": "2024-12-05 06:17:21",
-        "sentiment_score": 0.7436471097171307
-    },
-    {
-        "title": "María Xiao y Álvaro Robles: \"Este año hemos salido más, pero acaban los Juegos y no nos vuelves a ver\"",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/05/alvaro-robles-y-maria-xiao-tras-coronarse-campeones-de-europa-8882.jpeg",
-        "tags": [
-            "deporte"
-        ],
-        "link": "https://www.huffingtonpost.es/deporte/maria-xiao-alvaro-robles-esteno-hemos-salido-mas-acaban-juegos-vuelves-ver.html",
-        "date": "2024-12-05 06:16:57",
-        "sentiment_score": 0.05850300192832947
-    },
-    {
-        "title": "Lo que debes saber hoy, 5 de diciembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/09/27/vivir-en-barcelona/615198503_9865135_1706x960.jpg?contentId=ESPIMA20210927_0029",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241205/lo-que-debes-saber-hoy-de-diciembre-barcelona/906409352_0.html",
-        "date": "2024-12-05 06:07:53",
-        "sentiment_score": -0.11856479942798615
-    },
-    {
-        "title": "La época más mágica del año llega a los hábitats de Bioparc Valencia con BIOnadal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9f7721d7-9846-4456-874d-43d840679af7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/comunidad-valenciana/2024/12/05/bioparc-valencia-bionadal-112311003.html",
-        "date": "2024-12-05 06:01:02",
-        "sentiment_score": 0.8475010991096497
-    },
-    {
-        "title": "Es un cíborg pero está bien: la historia de Kai Landre llega al cine",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7131e419-7774-426f-b0ee-e05728066f1e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2024/12/05/ciborg-historia-kai-landre-llega-112313017.html",
-        "date": "2024-12-05 06:01:02",
-        "sentiment_score": -0.03937423229217529
-    },
-    {
-        "title": "Los tres menús navideños más originales de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4bbfc40-8741-459d-9d7a-921065684e8e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20241205/menus-navidenos-originales-barcelona-comidas-navidad-112294438",
-        "date": "2024-12-05 06:01:00",
-        "sentiment_score": -0.2802521884441376
-    },
-    {
         "title": "El artista visual Ahmed Gómez revela los fundamentos de su obra en el Art Basel Miami 2024",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -5875,5 +5618,276 @@ export default [
         "link": "https://www.laprovincia.es/economia/2024/12/08/comidas-navidenas-ano-caras-112434539.html",
         "date": "2024-12-08 16:43:33",
         "sentiment_score": -0.19565263390541077
+    },
+    {
+        "title": "El régimen de Assad ha llegado a su fin en Siria. Un reportero explica el significado.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap24343259876147-20241208195816860.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/caida-regimen-siria-assad-significado-trax/",
+        "date": "2024-12-08 20:03:41",
+        "sentiment_score": -0.259519562125206
+    },
+    {
+        "title": "Un video muestra a los rebeldes escoltando al primer ministro sirio a transferir su cargo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/pm-rebels-sirya-ok.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-primer-ministro-rebeldes-sirios-siria-trax/",
+        "date": "2024-12-08 19:50:40",
+        "sentiment_score": -0.8107048906385899
+    },
+    {
+        "title": "X sufre una caída y deja a sus usuarios sin servicio durante varias horas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/08/X-kkVG-U6034638844127ZF-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/sufre-caida-deja-usuarios-servicio-varias-horas-20241208230019-nt.html",
+        "date": "2024-12-08 22:00:20",
+        "sentiment_score": -0.6732156127691269
+    },
+    {
+        "title": "Rusia e Irán sacrifican a Assad",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/11/25/pelea-churriana-kn2C--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-rusia-iran-sacrifican-assad-20241209213848-nt.html",
+        "date": "2024-12-08 20:39:34",
+        "sentiment_score": -0.16121388971805573
+    },
+    {
+        "title": "La cultura de la seguridad tras la Magna",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/05/camara-k1uE--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-cultura-seguridad-tras-magna-20241209195132-nts.html",
+        "date": "2024-12-08 19:28:48",
+        "sentiment_score": -0.04199811816215515
+    },
+    {
+        "title": "Otoño",
+        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/provincia/2024/12/05/accidenten-431huelva-U03756530383KKa-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-otono-20241209165756-nts.html",
+        "date": "2024-12-08 19:27:30",
+        "sentiment_score": 0.0065104663372039795
+    },
+    {
+        "title": "Las noches de tal y tal",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/09/narbonadialogos-RbyJ4hSVjsbCMo8lN2D0wQI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-narbona-noches-20241209185847-nts.html",
+        "date": "2024-12-08 18:46:25",
+        "sentiment_score": -0.13434410095214844
+    },
+    {
+        "title": "El fin de la medicina",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/09/TERCERAABC_FindelaMedicina_Mtz-RgQs9WE9NDDNzdK5RZsIalK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/manuel-martinezselles-fin-medicina-20241209160940-nt.html",
+        "date": "2024-12-08 18:24:21",
+        "sentiment_score": -0.0667700469493866
+    },
+    {
+        "title": "La estrategia del loco",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/09/ENFOQUEABC_Laestrategiadelloco_SORMAN(1)-Re2fc1jpS9soITPRuxYEP7I-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-estrategia-loco-20241209180723-nt.html",
+        "date": "2024-12-08 18:24:04",
+        "sentiment_score": -0.1986406147480011
+    },
+    {
+        "title": "Un sector huérfano de ministerio",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/09/1439528333-ReVsIiLpCw2qG3ktGI9UBYL-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/marta-rivera-de-la-cruz-sector-huerfano-ministerio-20241209192349-nt.html",
+        "date": "2024-12-08 18:23:49",
+        "sentiment_score": -0.014018714427947998
+    },
+    {
+        "title": "La banderita de Juanma",
+        "image_url": "https://s3.abcstatics.com/huelva24/www/multimedia/provincia/2024/12/05/accidenten-431huelva-U03756530383KKa-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-psoe-ordenaba-andalucismo-dias-alternos-20241209163829-nt.html",
+        "date": "2024-12-08 18:23:35",
+        "sentiment_score": -0.08899614214897156
+    },
+    {
+        "title": "España de la rabia y de la idea",
+        "image_url": "https://s1.ppllstatics.com/larioja/www/multimedia/2024/11/24/video-k3sG--170x119@La%20Rioja.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-espana-rabia-idea-20241209192157-nt.html",
+        "date": "2024-12-08 18:23:21",
+        "sentiment_score": -0.10191085934638977
+    },
+    {
+        "title": "Colas en las carreteras catalanas e incidencias por el viento y la nieve en la operación retorno del puente",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IXRSZOLUC5J2VNT2ASZNMFQXEE.jpg?auth=78c1c7ef97ff07ec7aa12ef28ab41e76e8f50d545e2375d09f400c7f79c4d595&width=1200",
+        "tags": [
+            "nieve",
+            "operación retorno",
+            "barcelona",
+            "temporales",
+            "viento",
+            "cataluña",
+            "coches"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-08/colas-en-las-carreteras-catalana-e-incidencias-por-el-viento-y-la-nieve-en-la-operacion-retorno-del-puente.html",
+        "date": "2024-12-08 20:42:35",
+        "sentiment_score": -0.12148142606019974
+    },
+    {
+        "title": "50 carreteras, afectadas por la nieve al final del puente de la Constitución",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UL7WS4LGRRHBDLAMIE6RJMOVWE.jpg?auth=c56550686a15fd5f5e9c25ea23491d604342af6689153240d3a1923d57ffc0bd&width=1200",
+        "tags": [
+            "seguridad vial",
+            "puentes festivos",
+            "accidentes tráfico",
+            "temporales",
+            "españa",
+            "nieve",
+            "dgt"
+        ],
+        "link": "https://elpais.com/espana/2024-12-08/50-carreteras-afectadas-por-la-nieve-al-final-del-puente-de-la-constitucion.html",
+        "date": "2024-12-08 18:24:40",
+        "sentiment_score": 0.05966708064079285
+    },
+    {
+        "title": "Mbappé habla por primera vez sobre investigación de violación en Suecia a la televisión francesa",
+        "image_url": "https://dims.apnews.com/dims4/default/62b8af7/2147483647/strip/true/crop/5480x3648+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4b%2F2f%2F39b290cdb4ac0296d1059b33ab4c%2F75192cffa0d8498382e05e4eb34435cc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/kylian-mbappe-suecia-violacion-5037785c8579daa2f9ec23a6b270e1f2",
+        "date": "2024-12-08 22:15:25",
+        "sentiment_score": -0.2747463621199131
+    },
+    {
+        "title": "Mbappé habla por primera vez sobre investigación de violación en Suecia a la televisión francesa",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/4/41/441ff963-0269-5d8e-ba53-0c586d8727be/67561c4723745.image.jpg?resize=300%2C200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/mbapp-habla-por-primera-vez-sobre-investigaci-n-de-violaci-n-en-suecia-a-la/article_a1f54be2-f576-5a0c-a1d8-3ae7be3cfbbf.html",
+        "date": "2024-12-08 22:15:25",
+        "sentiment_score": -0.7406948637217283
+    },
+    {
+        "title": "Griezmann reina en la locura del Metropolitano y mantiene al Atlético en la pelea por la Liga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/08/67561a5758995.r_d.953-435-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20241208/griezmann-reina-locura-metropolitano-mantiene-atletico-pelea-liga_251500.html",
+        "date": "2024-12-08 22:04:12",
+        "sentiment_score": 0.32654422521591187
+    },
+    {
+        "title": "Mabppé rompe su silencio: lo que dijo sobre investigación por supuesta violación en Suecia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "mabppé violación en suecia",
+            "fútbol",
+            "kylian mbappé",
+            "suecia mabppé",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/deportes/mabppe-rompe-su-silencio-lo-que-dijo-sobre-investigacion-por-supuesta-violacion-en-suecia/",
+        "date": "2024-12-08 21:54:12",
+        "sentiment_score": -0.8600234221667051
+    },
+    {
+        "title": "Mbappé desvela la persona por la que hubiera renunciado a su sueño de fichar por el Real Madrid",
+        "image_url": "https://cflvdg.avoz.es/sc/RSEDaSfpzECwhaAx2xzTtogNOBU=/768x/2024/12/08/00121733694067919100281/Foto/EuropaPress_6392603_kylian_mbappe_of_real_madrid_celebrates_goal_during_the_spanish_league_liga-EP.jpg",
+        "tags": [
+            "kylian mbappé",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/12/08/mbappe-desvela-persona-hubiera-renunciado-sueno-fichar-real-madrid/00031733694098789626768.htm",
+        "date": "2024-12-08 21:46:00",
+        "sentiment_score": -0.9153390321880579
+    },
+    {
+        "title": "Cuando la sandunga suena, la familia se reúne y la gente come, bebe y se lo pasa de p*** madre",
+        "image_url": "https://static.eldiario.es/clip/44c98c67-7d11-48dc-9462-763f0ce592ad_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/disfrutones/sandunga-suena-familia-reune-gente-come-bebe-pasa-p-madre_130_11885170.html",
+        "date": "2024-12-08 21:39:05",
+        "sentiment_score": -0.02765476703643799
+    },
+    {
+        "title": "La brutal confesión de Kylian Mbappé: estaba dispuesto a plantar al Real Madrid (otra vez)",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/16/culemania/real-madrid/870923002_13233672_1706x960.jpg?contentId=ESPIMA20240716_0103",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20241208/la-confesion-kylian-mbappe-dispuesto-real-madrid/907159328_0.html",
+        "date": "2024-12-08 21:33:49",
+        "sentiment_score": -0.8491178592666984
+    },
+    {
+        "title": "Kylian Mbappé desmintió depresión y asegura que triunfará en el Real Madrid",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/mbappe_958b38-e1733692681234.jpg",
+        "tags": [
+            "kylian mbappé",
+            "real madrid",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/12/08/kylian-mbappe-desmintio-depresion-y-asegura-que-triunfara-en-el-real-madrid/",
+        "date": "2024-12-08 21:29:31",
+        "sentiment_score": -0.8063663188368082
+    },
+    {
+        "title": "Sira Rego: \"Trabajamos a nivel internacional para regular el acceso de menores a contenidos violentos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cdad2629-15de-4292-bb1a-4b09ed0bbc6a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/sociedad/2024/12/08/sira-rego-nivel-internacional-regular-112440067.html",
+        "date": "2024-12-08 21:24:45",
+        "sentiment_score": -0.25022178888320923
+    },
+    {
+        "title": "El liderato del Unicaja en la Liga Endesa tiene las horas contadas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1a483aaf-965e-4760-825d-e850c0815b89_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2024/12/08/liderato-liga-endesa-horas-unicaja-valencia-tenerife-112439866.html",
+        "date": "2024-12-08 21:22:40",
+        "sentiment_score": 0.5959375351667404
+    },
+    {
+        "title": "Lola Índigo también tropieza en Barcelona: el concierto “no dispone de las autorizaciones”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7526c20-3e52-492d-9449-a78f48088be3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/cultura/2024/12/08/lola-indigo-tropieza-barcelona-concierto-112439936.html",
+        "date": "2024-12-08 21:17:52",
+        "sentiment_score": -0.38525112718343735
     }
 ];
