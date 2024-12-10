@@ -1,203 +1,5 @@
 export default [
     {
-        "title": "Cómo comprar Lotería de Navidad a domicilio en 2024",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/02/dos-hombres-comprando-loteria-de-navidad-en-madrid.jpeg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.huffingtonpost.es/loterias/loteria-de-navidad/como-comprar-loteria-navidad-domicilio-2024.html",
-        "date": "2024-12-06 06:27:33",
-        "sentiment_score": 0.05412347614765167
-    },
-    {
-        "title": "El Unicaja visita al Madrid sin nada que perder y todo que ganar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18bfe251-383d-41ba-a291-83c803eae4b7_16-9-aspect-ratio_default_0_x935y24.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2024/12/06/unicaja-visita-madrid-wizink-ganar-112371550.html",
-        "date": "2024-12-06 06:00:22",
-        "sentiment_score": -0.5013155937194824
-    },
-    {
-        "title": "20 años del último atentado de ETA en Valladolid: una bomba en un conocido bar del centro",
-        "image_url": "https://s1.elespanol.com/2023/12/04/castilla-y-leon/region/valladolid/814678744_238146675_1706x960.jpg?contentId=ESPIMA20231204_0220",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20241206/anos-ultimo-atentado-eta-valladolid-bomba-conocido-bar-centro/904159670_0.html",
-        "date": "2024-12-06 06:00:00",
-        "sentiment_score": -0.7136451564729214
-    },
-    {
-        "title": "Ábalos selló su primera comisión con Aldama mientras dirigía la campaña electoral de Sánchez en 2019",
-        "image_url": "https://okdiario.com/img/2024/12/05/abalossanchez.jpg",
-        "tags": [
-            "caso koldo",
-            "españa",
-            "pedro sánchez",
-            "josé luis ábalos",
-            "psoe",
-            "víctor de aldama"
-        ],
-        "link": "https://okdiario.com/espana/abalos-sello-primera-comision-aldama-mientras-dirigia-campana-electoral-sanchez-2019-13932634",
-        "date": "2024-12-06 05:46:27",
-        "sentiment_score": -0.28607454895973206
-    },
-    {
-        "title": "Cómo acceder a DIGI TV, la nueva plataforma de televisión barata que llega a España",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/12/04/tv-streaming.r_d.600-337.jpeg",
-        "tags": [
-            "aplicaciones"
-        ],
-        "link": "https://www.20minutos.es/tecnologia/aplicaciones/digi-tv-plataforma-television-barata-100-canales-7-euros-mes-5660689/",
-        "date": "2024-12-06 05:36:12",
-        "sentiment_score": 0.15204941853880882
-    },
-    {
-        "title": "Las conversaciones entre Aldama y Koldo confirman sus negocios con dos comunidades socialistas más: Aragón y La Rioja",
-        "image_url": "https://s.libertaddigital.com/2024/11/22/aldama-salida-prision.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/espana/politica/2024-12-06/las-conversaciones-entre-aldama-y-koldo-confirman-sus-negocios-con-dos-comunidades-socialistas-mas-aragon-y-la-rioja-7194836/",
-        "date": "2024-12-06 05:28:43",
-        "sentiment_score": -0.7704047709703445
-    },
-    {
-        "title": "El problema de la vivienda ya se abordó con la Constitución en 1978: de socializar el suelo al mercado sin control",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef7bc941-dccc-48d1-9875-a19054bdbab3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/nacional/2024/12/06/problema-vivienda-constitucion-1978-socializar-suelo-112379520.html",
-        "date": "2024-12-06 05:27:41",
-        "sentiment_score": -0.1876474916934967
-    },
-    {
-        "title": "Begoña Gómez cerró una cuenta y abrió otra en el mismo banco en plena polémica por sus citas de Aldama y Globalia",
-        "image_url": "https://s.libertaddigital.com/2024/11/24/begona-gomez-ceapi2021-100424-16-9-16-9-recorte.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2024-12-06/begona-gomez-cerro-una-cuenta-y-abrio-otra-en-el-mismo-banco-en-plena-polemica-por-sus-citas-de-aldama-y-globalia-7194698/",
-        "date": "2024-12-06 05:26:19",
-        "sentiment_score": -0.8927339930087328
-    },
-    {
-        "title": "El regreso de un 'president', los corrillos y las sonadas ausencias: de qué se hablará en el Congreso por el Día de la Constitución",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/04/pedro-sanchez-y-francina-armengol-en-el-dia-de-la-constitucion-del-ano-pasado.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/el-regreso-president-corrillos-sonadas-ausencias-que-hablara-congreso-dia-constitucion.html",
-        "date": "2024-12-06 05:14:14",
-        "sentiment_score": -0.005904585123062134
-    },
-    {
-        "title": "Uno de cada cinco nuevos alquileres en Cataluña es de temporada",
-        "image_url": "https://static1.ara.cat/clip/11899f1f-5f62-406e-88af-2aa4d432e2b1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/economia/inmobiliario/cinco-nuevos-alquileres-cataluna-temporada_1_5222882.html",
-        "date": "2024-12-06 06:30:55",
-        "sentiment_score": -0.6812476851046085
-    },
-    {
-        "title": "¿Cuántos grandes propietarios hay en España? Estas son las ciudades con más viviendas de grandes tenedores",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/11/servir-ciudad-4267072.jpg?tf=1200x",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.businessinsider.es/economia/cuantos-grandes-propietarios-hay-espana-estas-son-ciudades-viviendas-grandes-tenedores-1426010",
-        "date": "2024-12-06 06:30:03",
-        "sentiment_score": -0.024166718125343323
-    },
-    {
-        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Koy Shunka, Reserva Ibérica The Kitchen y El Pibe",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/870d35b7-5f11-4d56-ae3d-51a6962ce0df_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241206/buenos-restaurantes-barcelona-koy-shunka-reserva-iberica-the-kitchen-el-pibe-112347413",
-        "date": "2024-12-06 06:04:40",
-        "sentiment_score": -0.2884330675005913
-    },
-    {
-        "title": "La casa y la solución inesperada: sacar la cocina afuera para tener sala y cambiar de vida",
-        "image_url": "https://static1.ara.cat/clip/95e810a8-bc58-41cd-be25-78802874c5c7_16-9-aspect-ratio_default_0_x2809y3314.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/misc/casa-solucion-inesperada-sacar-cocina-afuera-sala-cambiar-vida_130_5222852.html",
-        "date": "2024-12-06 06:00:30",
-        "sentiment_score": -0.22091026604175568
-    },
-    {
-        "title": "El artículo 47 de la Constitución",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/opinion/2024/12/06/articulo-47-constitucion-112374182.html",
-        "date": "2024-12-06 06:00:25",
-        "sentiment_score": -0.015972301363945007
-    },
-    {
-        "title": "Barcelona rechaza flexibilizar la conversión de locales en viviendas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6bdbd880-5871-477c-a9ae-dfcdbea09f80_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20241206/barcelona-rechaza-flexibilizar-conversion-locales-planta-baja-viviendas-cambio-de-uso-112331117",
-        "date": "2024-12-06 06:00:18",
-        "sentiment_score": -0.18500912189483643
-    },
-    {
-        "title": "“Manolo González se tiene que poner las pilas en el apartado defensivo”: Solsona pide un cambio de mentalidad para el Espanyol",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/12/manolo-gonzalez-espanyol-dani-solsona-750x375.jpg",
-        "tags": [
-            "dani solsona",
-            "actualidad",
-            "manolo gonzález",
-            "espanyol"
-        ],
-        "link": "https://lagradaonline.com/dani-solsona-espanyol-manolo-gonzalez/",
-        "date": "2024-12-06 06:00:17",
-        "sentiment_score": -0.10969533771276474
-    },
-    {
-        "title": "Sobre esta ciudad española recae la peor profecía de Nostradamus",
-        "image_url": "https://album.mediaset.es/eimg/2020/01/17/lil5Zrk0EmB6Q7qo7EoU01.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.cuatro.com/noticias/cultura/20241206/ciudad-espanola-peor-profecia-nostradamus-be5m_18_014021491.html",
-        "date": "2024-12-06 06:00:08",
-        "sentiment_score": -0.6651559993624687
-    },
-    {
-        "title": "Compras de Navidad en Barcelona: estas son las mejores calles para adquirir tus regalos antes de Año Nuevo",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/12/05/mujer-haciendo-sus-compras-de-navidad.r_d.650-673-7894.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/noticia/5191136/0/mejor-calle-barcelona-compras-navidad-regalos/",
-        "date": "2024-12-06 06:00:04",
-        "sentiment_score": 0.7603622674942017
-    },
-    {
-        "title": "Compran un Mercedes de segunda mano y acaban pagando casi el doble en reparaciones de lo que les costó: este fue su error",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/03/29/6242b69450f01.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavanguardia.com/motor/actualidad/20241206/10149955/compran-mercedes-segunda-mano-acaban-pagando-doble-reparaciones-les-costo-coche-error-tsc.html",
-        "date": "2024-12-06 06:00:00",
-        "sentiment_score": -0.7520666588097811
-    },
-    {
         "title": "Líder rebelde sirio habla en exclusiva con CNN y reacciona al ser llamado “terrorista mundial”",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -234,28 +36,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/macron-resiste-dimision-crisis-politica-francia-primera-manana-tv/",
         "date": "2024-12-06 13:15:41",
         "sentiment_score": -0.660553053021431
-    },
-    {
-        "title": "Una política surcoreana se enfrenta a un soldado durante la ley marcial",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/an-thumbnail-1-20241206095926018.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/soldado-corea-del-sur-mujer-legisladora-trax/",
-        "date": "2024-12-06 10:11:19",
-        "sentiment_score": -0.463707335293293
-    },
-    {
-        "title": "¿Cuál es el origen de la Constitución Española y por qué se celebra su día el 6 de diciembre?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1517856-constitucion-espanola-1978-espana.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "españa",
-            "constitución",
-            "historia"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/06/origen-constitucion-espanola-celebra-6-diciembre-orix/",
-        "date": "2024-12-06 07:15:20",
-        "sentiment_score": -0.1386776939034462
     },
     {
         "title": "Un tribunal federal de Estados Unidos ratifica la orden que obliga a TikTok a desvincularse de China el mes que viene",
@@ -5322,5 +5102,485 @@ export default [
         "link": "https://www.20minutos.es/noticia/5662135/0/un-mural-con-ilustraciones-iconicas-barrio-gracia-barcelona-dignifica-zona-obras-mercat-l-albaceria/",
         "date": "2024-12-09 16:57:24",
         "sentiment_score": 0.0033210143446922302
+    },
+    {
+        "title": "\"Me sentí aterrorizado\": pasajeros relatan el intento de un hombre de desviar un vuelo mexicano a EE.UU.",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1232630102.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pasajeros-relatan-vuelo-hombre-intento-desviar-mexico-eeuu-perspectivas-mexico/",
+        "date": "2024-12-09 22:11:19",
+        "sentiment_score": -0.919389896094799
+    },
+    {
+        "title": "Trump: Trabajaré con los demócratas en un plan para los \"dreamers\"",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/trump-meet-the-press.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-trump-dreamers-plan-de-deportacion-indocumentados-redaccion-buenos-aires-tv-fast/",
+        "date": "2024-12-09 21:20:43",
+        "sentiment_score": -0.27629005908966064
+    },
+    {
+        "title": "“Un marco legal que proteja los derechos de todos”: líder rebelde sirio habla sobre la ideología de HTS",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/horiz-jomana-00-01-51-00-still003.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "siria",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lider-rebelde-sririo-ideologia-hts/",
+        "date": "2024-12-09 21:09:53",
+        "sentiment_score": -0.1360270380973816
+    },
+    {
+        "title": "Autoridades de Nueva York hablan sobre el arresto de Luigi Mangione, sospechoso por la muerte del CEO de UnitedHealthcare",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21185759-2541960-667-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/arresto-luigi-mangione-sospechoso-asesinato-ceo-unitedhealthcare/",
+        "date": "2024-12-09 20:31:28",
+        "sentiment_score": -0.5745034925639629
+    },
+    {
+        "title": "Video muestra a una patrulla fronteriza arrollar a una persona tratando de cruzar frontera entre EE.UU. y México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-atro.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/agente-fronterizo-atropellar-persona-ilegal-ush-orix/",
+        "date": "2024-12-09 20:27:51",
+        "sentiment_score": -0.7250197902321815
+    },
+    {
+        "title": "Las mejores ciudades para viajar en 2025, según Euromonitor International",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mejores-ciudades-viajar-2025-ranking-redaccion-buenos-aires-tv/",
+        "date": "2024-12-09 19:54:13",
+        "sentiment_score": 0.637646034359932
+    },
+    {
+        "title": "El líder rebelde sirio habló con CNN en una entrevista exclusiva",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/jolani-exclusiva-cnn.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jolani-rebelde-sirio-entrevista-exclusiva-trax/",
+        "date": "2024-12-09 17:57:48",
+        "sentiment_score": -0.26095572113990784
+    },
+    {
+        "title": "CNN en Español presenta su programación de fin de año",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1791606-navidad.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "sala de prensa"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/09/cnn-en-espanol-programacion-fin-2024-prensa/",
+        "date": "2024-12-09 17:48:49",
+        "sentiment_score": 0.5976117998361588
+    },
+    {
+        "title": "Última hora del posible sospechoso del asesinato del CEO de UnitedHealthcare, en vivo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/nueva-york-sospechoso-ceo-unitedhealthcare.jpg?quality=100&strip=info",
+        "tags": [
+            "asesinato",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/09/noticias-asesinato-ceo-unitedhealthcare-sospechoso-trax/",
+        "date": "2024-12-09 17:21:43",
+        "sentiment_score": -0.6285254955291748
+    },
+    {
+        "title": "Había que estar en Valencia",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/08/pensiones-kfrE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-estar-valencia-20241210194845-nt.html",
+        "date": "2024-12-09 20:01:21",
+        "sentiment_score": -0.09124931693077087
+    },
+    {
+        "title": "Magna ciudad magnífica",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/07/aciidente-trafico-U05437646464xxN-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/juan-j-borrero-magna-ciudad-magnifica-20241210192407-nts.html",
+        "date": "2024-12-09 19:18:29",
+        "sentiment_score": -0.12142708897590637
+    },
+    {
+        "title": "Algunos animales regeneran su capacidad auditiva; un estudio explica cómo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/12/09/CoverImageShi.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/animales-regeneran-capacidad-auditiva-estudio-explica-20241209200000-nt.html",
+        "date": "2024-12-09 19:00:01",
+        "sentiment_score": -0.055135637521743774
+    },
+    {
+        "title": "Cuestión de desconfianza",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/12/09/muerte-restaurante-oviedo-kjME--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-cuestion-desconfianza-20241210194023-nt.html",
+        "date": "2024-12-09 18:40:31",
+        "sentiment_score": -0.15547364950180054
+    },
+    {
+        "title": "Salvar al miliciano Vicente Aleixandre",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/10/241210TerceraCorral-R4tN177HANo86Lb1KvQMBiI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-corral-salvar-miliciano-vicente-aleixandre-20241210151214-nt.html",
+        "date": "2024-12-09 18:23:21",
+        "sentiment_score": -0.049919068813323975
+    },
+    {
+        "title": "Sospechosos habituales",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/08/pensiones-kfrE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-sospechosos-habituales-20241210192301-nt.html",
+        "date": "2024-12-09 18:23:10",
+        "sentiment_score": -0.2182595580816269
+    },
+    {
+        "title": "Pompa fúnebre y circunstancia sanchista",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/12/03/Koke_20241203201021-U2201654060121SCB-U80231155376AHU-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-lillo-pompa-funebre-circunstancia-sanchista-20241210192203-nt.html",
+        "date": "2024-12-09 18:22:51",
+        "sentiment_score": -0.09547814726829529
+    },
+    {
+        "title": "Mejor cuatro pandemias",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/huelva/2024/12/08/incendio-nave-huelva-U27408214845ZvQ-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-mejor-cuatro-pandemias-20241210192148-nt.html",
+        "date": "2024-12-09 18:21:55",
+        "sentiment_score": -0.20020918548107147
+    },
+    {
+        "title": "Dos modelos",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/huelva/2024/12/08/incendio-nave-huelva-U27408214845ZvQ-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-garcia-cuartango-dos-modelos-20241210192131-nt.html",
+        "date": "2024-12-09 18:21:39",
+        "sentiment_score": -0.20513096451759338
+    },
+    {
+        "title": "Tedeum de Estado",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/12/02/renta-k0l--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-ruizquintano-tedeum-estado-20241210192114-nt.html",
+        "date": "2024-12-09 18:21:23",
+        "sentiment_score": -0.07218647003173828
+    },
+    {
+        "title": "Tres candidatos a la presidencia del colegio de médicos de Madrid, diferentes programas y una petición: “Dejemos los bulos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YLSIJBKMEJAKJGYZN3OEJVZGE4.JPG?auth=6148d58d165b7b1be63396dc6729847a5c689e1cbe1e059768c331e7b1978a5e&width=1200",
+        "tags": [
+            "comunidad de madrid",
+            "amyts",
+            "medicina",
+            "consejerías autonómicas",
+            "icomem",
+            "madrid",
+            "sanidad privada",
+            "sindicatos",
+            "médicos",
+            "elecciones",
+            "atención primaria",
+            "hospitales",
+            "sanidad pública",
+            "coronavirus covid-19",
+            "sanidad"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-09/tres-candidatos-a-la-presidencia-del-colegio-de-medicos-de-madrid-diferentes-programas-y-una-peticion-dejemos-los-bulos.html",
+        "date": "2024-12-09 21:37:52",
+        "sentiment_score": 0.0528859943151474
+    },
+    {
+        "title": "El funeral católico por las víctimas de la dana presidido por los Reyes acaba con reproches e insultos de algunos familiares a Mazón",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GU52IS7A55DJ3MZFFQ52QJCUCY.JPG?auth=dd86e7108f6130db309c38478bd1468427b4e0b08bd248aa14f2c2ead2c0b8da&width=1200",
+        "tags": [
+            "valencia",
+            "carlos mazón",
+            "generalitat valenciana",
+            "inundaciones",
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-09/el-funeral-catolico-por-las-victimas-de-la-dana-presidido-por-los-reyes-acaba-con-reproches-e-insultos-de-algunos-familiares-a-mazon.html",
+        "date": "2024-12-09 21:01:42",
+        "sentiment_score": -0.6227878928184509
+    },
+    {
+        "title": "Muere una mujer de 89 años tras una fuerte explosión en su casa en León",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/N2AJJHRDYBAY5HFVQI3HOKDXWE.jpg?auth=f33af52452c59e8fddac68d821792072aa2b6c03a56d00952d51c1c8c6ace8c7&width=1200",
+        "tags": [
+            "españa",
+            "explosiones",
+            "león",
+            "emergencias",
+            "accidentes"
+        ],
+        "link": "https://elpais.com/espana/2024-12-09/muere-una-mujer-de-89-anos-tras-una-fuerte-explosion-en-su-casa-en-leon.html",
+        "date": "2024-12-09 20:14:10",
+        "sentiment_score": -0.3159579113125801
+    },
+    {
+        "title": "Bruselas urge a España y a otros dos países a presentar “cuanto antes” sus Presupuestos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5WAQKFIIQMTP25HDMCY23LEBSE.jpg?auth=d5ee30413831d4b32673a213e2aad1849299aeb64f86020ed8f1c99d5bc8805f&width=1200",
+        "tags": [
+            "unión europea",
+            "carlos cuerpo",
+            "comisión europea",
+            "eurogrupo",
+            "economía",
+            "presupuestos generales estado",
+            "valdis dombrovskis"
+        ],
+        "link": "https://elpais.com/economia/2024-12-09/bruselas-urge-a-espana-y-a-otros-dos-paises-a-presentar-cuanto-antes-sus-presupuestos-para-2025.html",
+        "date": "2024-12-09 20:04:49",
+        "sentiment_score": -0.5534008704125881
+    },
+    {
+        "title": "El funeral por las víctimas de la dana, en imágenes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BGFJ7EG5WFCVJFE3BR3KNGKFXQ.JPG?auth=fabdfa8d19f7955c2ce20af72a77f7fcffe3b94bcf8790ce60290e9b542d9b83&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "funerales",
+            "valencia",
+            "españa",
+            "desastres naturales",
+            "misas"
+        ],
+        "link": "https://elpais.com/espana/2024-12-09/el-funeral-por-las-victimas-de-la-dana-en-imagenes.html",
+        "date": "2024-12-09 19:48:09",
+        "sentiment_score": -0.11444218456745148
+    },
+    {
+        "title": "La nueva ley del coche sin conductor permitirá su despliegue en 2025... ¿o no?",
+        "image_url": "https://images.theconversation.com/files/636646/original/file-20241205-15-cocczz.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&rect=30%2C30%2C6609%2C4396&w=496",
+        "tags": [
+            "technology",
+            "science"
+        ],
+        "link": "https://theconversation.com/la-nueva-ley-del-coche-sin-conductor-permitira-su-despliegue-en-2025-o-no-244870",
+        "date": "2024-12-09 22:16:29",
+        "sentiment_score": 0.5808067191392183
+    },
+    {
+        "title": "Clara Galle se tatúa en en el plató de 'La Revuelta': «Cuando tenga nietos les contaré que fue aquí»",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/12/09/clara.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/clara-galle-tatua-plato-revuelta-nietos-contare-20241209230449-nt.html",
+        "date": "2024-12-09 22:04:49",
+        "sentiment_score": 0.19019225984811783
+    },
+    {
+        "title": "Bárbara Rey pone nombre y apellidos a los dos hombres de su vida: \"Sabe lo que siento y he sentido\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/12/09/675761b50dea2.r_d.959-549-2339.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20241209/1002368441/barbara-rey-pone-nombre-apellidos-dos-hombres-vida-siento-he-sentido-dct.html",
+        "date": "2024-12-09 21:58:57",
+        "sentiment_score": 0.5523079857230186
+    },
+    {
+        "title": "Las nuevas tendencias digitales de Malina casino en el entretenimiento deportivo",
+        "image_url": "https://www.clm24.es/media/clm24/images/2024/12/09/2024120922493876352.jpg",
+        "tags": [
+            "comunicados"
+        ],
+        "link": "https://www.clm24.es/articulo/comunicados/nuevas-tendencias-digitales-malina-casino-entretenimiento-deportivo/20241209225052438522.html",
+        "date": "2024-12-09 21:50:52",
+        "sentiment_score": 0.8769816290587187
+    },
+    {
+        "title": "LaLiga EA Sports | El Espanyol pierde una gran oportunidad y la permanencia se aleja a dos puntos, con un partido menos",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/12/laliga-ea-sports-jornada-16-clasificacion-750x375.jpg",
+        "tags": [
+            "laliga ea sports",
+            "jornada 16",
+            "resultados",
+            "clasificación",
+            "actualidad"
+        ],
+        "link": "https://lagradaonline.com/getafe-espanyol-jornada-16-primera-division-la-liga-ea-sports-lunes/",
+        "date": "2024-12-09 21:48:17",
+        "sentiment_score": 0.6332755908370018
+    },
+    {
+        "title": "Rego acusa al PP de negociar el reparto de menores con exigencias \"en constante cambio\"",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1135049",
+        "date": "2024-12-09 21:33:16",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "El señalado de Peñarroya en el Barça de basket que resurge de sus cenizas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/09/culemania/secciones/907419414_13842262_1706x960.jpg?contentId=ESPIMA20241209_0165",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20241209/el-senalado-de-penarroya-barca-resurge-cenizas/907409363_0.html",
+        "date": "2024-12-09 21:26:21",
+        "sentiment_score": 0.31173042953014374
+    },
+    {
+        "title": "Google presenta Willow, el nuevo chip capaz de realizar en cinco minutos lo que un superordenador tardaría en la edad del universo",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/12/09/00328211-928A-4AD5-A11F-A28ED319E12F/imagen-ingeniera-google-instalando-procesador-cuantico_96.jpg?crop=1920%2C1080%2Cx0%2Cy57&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "cyt",
+            "noticias",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/ciencia-tecnologia/google-presenta-willow-nuevo-chip-capaz-realizar-cinco-minutos-que-superordenador-tardaria-edad-universo_202412096757606c7337f20001b980c1.html",
+        "date": "2024-12-09 21:26:04",
+        "sentiment_score": 0.7072994913905859
+    },
+    {
+        "title": "Mbappé reafirma su compromiso con Francia tras perderse juegos recientes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-12-09/mbappe-reafirma-su-compromiso-con-francia-tras-perderse-juegos-recientes",
+        "date": "2024-12-09 21:16:18",
+        "sentiment_score": 0.5596900805830956
+    },
+    {
+        "title": "Los Aznar se reúnen en Yucatán: Los detalles de la boda VIP del hijo menor del clan",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/europapress-5346128-alonso-aznar-renata-collado-tanatorio-paz-despedir-marta-chavarri-21-julio-1733757944116_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/clan-aznar-yucatan-los-detalles-boda-renata-collado-y-alonso-aznar",
+        "date": "2024-12-09 21:15:00",
+        "sentiment_score": -0.8393289539963007
+    },
+    {
+        "title": "Bárbara Rey rompe a llorar al recordar a su padre y un duro episodio que vivió en su infancia: \"Eso se me quedó muy grabado\"",
+        "image_url": "https://album.mediaset.es/eimg/2024/12/09/barbara-rey_90f2.jpg",
+        "tags": [
+            "famosos"
+        ],
+        "link": "https://www.telecinco.es/famosos/20241209/barbara-rey-recordar-episodio-infancia_18_014236384.html",
+        "date": "2024-12-09 22:11:18",
+        "sentiment_score": 0.16050443053245544
+    },
+    {
+        "title": "Surrealista: salen a la luz las imágenes de la expulsión de Hansi Flick en el Villamarín",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/07/culemania/primer-equipo/906919369_13834575_1706x960.jpg?contentId=ESPIMA20241207_0070",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241209/surrealista-la-de-expulsion-hansi-flick-villamarin/907409365_0.html",
+        "date": "2024-12-09 22:08:53",
+        "sentiment_score": -0.8021111562848091
+    },
+    {
+        "title": "Oriol Junqueras i Xavier Godàs faran un cara a cara aquest dijous",
+        "image_url": "https://elmon.cat/app/uploads/sites/15/2024/11/whatsapp-image-2024-11-30-at-21.36.52.jpeg",
+        "tags": [
+            "erc",
+            "política"
+        ],
+        "link": "https://elmon.cat/politica/oriol-junqueras-xavier-godas-cara-cara-dijous-937361/",
+        "date": "2024-12-09 22:04:56",
+        "sentiment_score": -0.07035179436206818
+    },
+    {
+        "title": "Almería, la provincia donde Lidl tiene un mayor impacto en el PIB y el empleo",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/12/09/Imagen%20Tienda%20de%20Lidl-k26-U230245836682RxD-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/almeria-provincia-lidl-mayor-impacto-pib-empleo-20241210230431-nt.html",
+        "date": "2024-12-09 22:04:31",
+        "sentiment_score": 0.27672459185123444
+    },
+    {
+        "title": "Josep Maria Martí relevará a su hermano Miquel en la presidencia de Moventia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4444f2b5-d696-4329-9cfb-0222c3cb403d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20241210/josep-maria-marti-relevara-hermano-112449906",
+        "date": "2024-12-09 22:02:02",
+        "sentiment_score": -0.03198020160198212
+    },
+    {
+        "title": "Un Espanyol sin gol paga otro mal inicio y sucumbe en Getafe",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0a294924-2f0f-4028-9fb2-f518cc54f450_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2024/12/09/gol-tempranero-alvaro-rodriguez-sirve-112474717.html",
+        "date": "2024-12-09 22:00:54",
+        "sentiment_score": -0.8910328280180693
+    },
+    {
+        "title": "Pincho o tapa, ¿qué se consume más?",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/12/ruta-tapas-canarias-469x317.jpg",
+        "tags": [
+            "curiosidades",
+            "gastronomía española",
+            "gastronomía",
+            "diferencias",
+            "lom"
+        ],
+        "link": "https://theobjective.com/curiosidades/2024-12-09/pincho-o-tapa-que-se-consume-mas/",
+        "date": "2024-12-09 22:00:00",
+        "sentiment_score": 0.7931437827646732
+    },
+    {
+        "title": "Suma Supermercados se expande en el centro de Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0c8dbca0-ba1d-4038-9577-71cb77f7624d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20241209/suma-supermercados-expande-centro-barcelona-112462155",
+        "date": "2024-12-09 21:59:55",
+        "sentiment_score": 0.21682022511959076
+    },
+    {
+        "title": "Sheinbaum, Musk, Netanyahu y Trump, entre los candidatos a \"persona del año\" de Time 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/09cabd5a-a6b4-4bd8-8e35-61114709a2e0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/mundo/2024/12/09/sheinbaum-musk-netanyahu-trump-candidatos-112474623.html",
+        "date": "2024-12-09 21:50:48",
+        "sentiment_score": 0.06796988099813461
     }
 ];
