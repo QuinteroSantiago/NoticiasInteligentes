@@ -10,34 +10,6 @@ export default [
         "sentiment_score": -0.13031813502311707
     },
     {
-        "title": "Líderes del Mercosur se reúnen en Montevideo y anunciaron un acuerdo comercial con la Unión Europea",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "mercosur",
-            "fast – news variety",
-            "cono sur",
-            "xpress",
-            "macroeconomía"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/lideres-mercosur-union-europea-cafe-tv/",
-        "date": "2024-12-06 13:25:00",
-        "sentiment_score": 0.07994446158409119
-    },
-    {
-        "title": "Emmanuel Macron resiste pedidos de dimisión, análisis de la crisis política en Francia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "emmanuel macron",
-            "francia",
-            "fast – news variety",
-            "crisis política",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/macron-resiste-dimision-crisis-politica-francia-primera-manana-tv/",
-        "date": "2024-12-06 13:15:41",
-        "sentiment_score": -0.660553053021431
-    },
-    {
         "title": "Un tribunal federal de Estados Unidos ratifica la orden que obliga a TikTok a desvincularse de China el mes que viene",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/06/Tiktok-kdoH-U603457067409cYG-1200x840@diario_abc.JPG",
         "tags": [
@@ -86,16 +58,6 @@ export default [
         "link": "https://www.abc.es/internacional/milei-asume-presidencia-mercosur-tras-llegar-acuerdo-20241206154040-nt.html",
         "date": "2024-12-06 14:40:41",
         "sentiment_score": 0.060116738080978394
-    },
-    {
-        "title": "La UE cierra el acuerdo comercial con Mercosur pese al 'no' radical de Macron",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/06/mercosur-kpLE-U603456619532t8C-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ue-cierra-acuerdo-comercial-mercosur-pese-radical-20241206142155-nt.html",
-        "date": "2024-12-06 14:12:12",
-        "sentiment_score": -0.052104651927948
     },
     {
         "title": "España es la segunda economía avanzada donde más ha crecido la brecha de renta entre regiones",
@@ -173,127 +135,6 @@ export default [
         "link": "https://elpais.com/espana/andalucia/2024-12-06/vecinos-del-centro-de-sevilla-contra-la-venta-de-su-pulmon-verde-parece-una-especie-de-trama-encubierta.html",
         "date": "2024-12-06 14:29:03",
         "sentiment_score": 0.06635718047618866
-    },
-    {
-        "title": "Tráfico alerta a los conductores de las próximas nevadas y recomienda llevar cadenas o neumáticos de invierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FNKLLK5XKNWEKUJYBF4ZFC5S6U.jpg?auth=f4a089aaebe04c21f9f4175a9e68778426910e6f2c148d39370325133b0f9f3c&width=1200",
-        "tags": [
-            "circulación transporte",
-            "camiones",
-            "atascos",
-            "dgt",
-            "meteorología",
-            "accidentes",
-            "restricciones circulación",
-            "guardia civil",
-            "movilidad urbana",
-            "españa",
-            "nieve"
-        ],
-        "link": "https://elpais.com/espana/2024-12-06/trafico-alerta-a-los-conductores-de-las-proximas-nevadas-y-recomienda-llevar-cadenas-o-neumaticos-de-invierno.html",
-        "date": "2024-12-06 14:13:04",
-        "sentiment_score": -0.4367891550064087
-    },
-    {
-        "title": "Carlos Mazón celebra en Benidorm el Día de la Constitución tras cancelarlo en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZICJONKEHWWM5EQNUMISLMDT4Y.jpg?auth=2eba4de6816d64c49d3aff8441355e55303786c5ef44726d4e6c4e530b6d5829&width=1200",
-        "tags": [
-            "ppcv",
-            "conmemoraciones históricas",
-            "comunidad valenciana",
-            "política",
-            "carlos mazón",
-            "generalitat valenciana",
-            "dana",
-            "benidorm",
-            "inundaciones dana octubre 2024",
-            "constitución española"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-06/carlos-mazon-celebra-en-benidorm-el-dia-de-la-constitucion-tras-suspenderlo-en-valencia.html",
-        "date": "2024-12-06 14:01:46",
-        "sentiment_score": -0.49265400879085064
-    },
-    {
-        "title": "Ábalos pide al Supremo retrasar unos días su declaración del 12 de diciembre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7QOG6GGW45HQ7K3J5NWUJYCIAQ.jpg?auth=ef95795e343c4eb30eb2ad304e274678912c98b4b8b77f7c3f98ffd001721e4a&width=1200",
-        "tags": [
-            "fraudes",
-            "caso koldo",
-            "españa",
-            "coronavirus covid-19",
-            "ministerio de transportes",
-            "tribunal supremo",
-            "josé luis ábalos",
-            "mascarillas",
-            "corrupción",
-            "gobierno",
-            "koldo garcía",
-            "víctor de aldama"
-        ],
-        "link": "https://elpais.com/espana/2024-12-06/abalos-pide-al-supremo-retrasar-unos-dias-su-declaracion-del-12-de-diciembre.html",
-        "date": "2024-12-06 13:40:30",
-        "sentiment_score": -0.6820957753807306
-    },
-    {
-        "title": "El CSIC probará un espesante para facilitar la extracción de lodos de garajes inundados por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TYRVPDV2VNEY3DBMSVXBFRKXB4.jpg?auth=0f4227c826a7c1db8ce793cfe352f8cbbb47f22e424610f9ddee5f83c8c6b143&width=1200",
-        "tags": [
-            "dana",
-            "csic",
-            "comunidad valenciana",
-            "limpieza urbana",
-            "garajes",
-            "toulouse",
-            "valencia",
-            "francia",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-06/el-csic-probara-un-espesante-para-facilitar-la-extraccion-de-lodos-de-garajes-inundados-por-la-dana.html",
-        "date": "2024-12-06 13:18:46",
-        "sentiment_score": 0.4513321630656719
-    },
-    {
-        "title": "Junqueras advierte a Illa de que no apoyará los Presupuestos “si no se cumple en financiación y no se condona la deuda del FLA”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3CM3LJ4ADFZTRJSJKMXBPW57C4.jpg?auth=d062407f5d65680fd30c6564034ebb4372abc486df23d77b6490bd6877015f17&width=1200",
-        "tags": [
-            "erc",
-            "psc",
-            "cataluña",
-            "pedro sánchez",
-            "política",
-            "presupuestos autonómicos",
-            "salvador illa",
-            "financiación",
-            "comunidades autónomas",
-            "fondo liquidez autonómico",
-            "oriol junqueras"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-06/junqueras-advierte-a-illa-de-que-no-apoyara-los-presupuestos-si-no-se-cumple-en-financiacion-y-no-se-condona-la-deuda-del-fla.html",
-        "date": "2024-12-06 13:10:14",
-        "sentiment_score": 0.23568734526634216
-    },
-    {
-        "title": "El servicio de Cercanías entre València y Catarroja volverá a funcionar el 10 de diciembre.",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MPLVYGW4IVA5BE7LH73CXRJOT4.JPG?auth=e5c9b03e36d83af31d69350fab41676dbe134a9164cdea71c202fff160f87bbb&width=1200",
-        "tags": [
-            "alfafar",
-            "transporte ferroviario",
-            "ministerio de transportes",
-            "cercanías",
-            "transporte público",
-            "inundaciones dana octubre 2024",
-            "valencia",
-            "dana",
-            "comunidad valenciana",
-            "adif",
-            "renfe",
-            "catarroja",
-            "massanassa",
-            "silla"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-06/el-servicio-de-cercanias-entre-valencia-y-catarroja-volvera-a-funcionar-el-10-de-diciembre.html",
-        "date": "2024-12-06 12:34:27",
-        "sentiment_score": -0.12013103067874908
     },
     {
         "title": "El Madrid, entre la reacción liguera y una 'final' de Champions",
@@ -5582,5 +5423,263 @@ export default [
         "link": "https://www.farodevigo.es/mundo/2024/12/09/sheinbaum-musk-netanyahu-trump-candidatos-112474623.html",
         "date": "2024-12-09 21:50:48",
         "sentiment_score": 0.06796988099813461
+    },
+    {
+        "title": "Así es Luigi Mangione, sospechoso del asesinato del CEO de UnitedHealthcare",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21186172-170402-951-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "ee.uu.",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luigi-mangione-sospechoso-asesinato-ceo-directo-usa-tv-fast/",
+        "date": "2024-12-10 01:04:44",
+        "sentiment_score": -0.5214449837803841
+    },
+    {
+        "title": "Exembajador de México en Egipto: El más grande perdedor tras la caída de Assad es Irán",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188480190.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "siria",
+            "bashar al-assad",
+            "xpress",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/iran-perdedor-situacion-siria-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-10 00:52:30",
+        "sentiment_score": -0.7146272920072079
+    },
+    {
+        "title": "¿Puede Trump cambiar la Enmienda 14 de la Constitución de EE.UU.?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1995694346.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de donald trump",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-inmigrantes-enmienda-catorce-dusa-tv/",
+        "date": "2024-12-10 00:14:26",
+        "sentiment_score": -0.031040415167808533
+    },
+    {
+        "title": "Daniel Penny, absuelto del cargo de homicidio involuntario",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187916642.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/daniel-penny-inocente-homicidio-neely-dusa-tv/",
+        "date": "2024-12-10 00:05:10",
+        "sentiment_score": -0.8253256734460592
+    },
+    {
+        "title": "Las 2 noticias destacadas de EE.UU. del 9 de diciembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188513175.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news briefs",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/noticias-de-eeuu-cnne-9-de-diciembre-2024-dusa-fast/",
+        "date": "2024-12-09 22:26:28",
+        "sentiment_score": -0.7295059878379107
+    },
+    {
+        "title": "María Corina Machado: la caída de Al Assad desmoraliza y «preocupa a Nicolás Maduro»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/10/assad-maduro.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/maria-corina-machado-caida-assad-desmoraliza-preocupa-20241210020116-nt.html",
+        "date": "2024-12-10 01:01:16",
+        "sentiment_score": -0.06099548935890198
+    },
+    {
+        "title": "Junts se declara harto de los incumplimientos de Sánchez: \"No le podemos tumbar pero le podemos dejar caer\"",
+        "image_url": "https://s1.elespanol.com/2024/12/09/espana/politica/907420084_251539659_1706x960.jpg?contentId=ESPIMA20241209_0835",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241210/junts-declara-harto-incumplimientos-sanchez-no-podemos-tumbar-dejar-caer/907409579_0.html",
+        "date": "2024-12-10 01:56:35",
+        "sentiment_score": -0.8446300327777863
+    },
+    {
+        "title": "El Papa Francisco da el salto al coche eléctrico: así es su nuevo papamóvil basado en un mítico modelo de Mercedes",
+        "image_url": "https://s1.elespanol.com/2024/12/09/motor/907419911_251534351_1706x960.jpg?contentId=ESPIMA20241209_0662",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/motor/20241210/papa-francisco-da-salto-coche-electrico-nuevo-papamovil-basado-mitico-modelo-mercedes/907409588_0.html",
+        "date": "2024-12-10 01:46:41",
+        "sentiment_score": 0.6465618032962084
+    },
+    {
+        "title": "Madrid y Galicia meten presión al Gobierno para que mantenga las ayudas al transporte público",
+        "image_url": "https://s1.elespanol.com/2024/12/05/actualidad/906419690_251450979_1706x960.jpg?contentId=ESPIMA20241205_0341",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20241210/madrid-galicia-meten-presion-gobierno-mantenga-ayudas-transporte-publico/907409617_0.html",
+        "date": "2024-12-10 01:46:12",
+        "sentiment_score": -0.7999562881886959
+    },
+    {
+        "title": "Apuestas y alcohol: los patrocinios más polémicos de la Champions League",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/10/culemania/palco/907669228_13842471_1706x960.jpg?contentId=ESPIMA20241210_0004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241210/apuestas-alcohol-los-patrocinios-polemicos-champions-league/907659226_0.html",
+        "date": "2024-12-10 01:17:39",
+        "sentiment_score": 0.49667917005717754
+    },
+    {
+        "title": "Crece la tensión entre la Moncloa y Zarzuela: Claves de la ausencia española en París",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/whatsapp-image-2024-12-09-at-182543_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/tension-moncloa-y-zarzuela-evidente-clave-ausencia-espanola-notre-dame",
+        "date": "2024-12-10 01:00:00",
+        "sentiment_score": -0.8178957793861628
+    },
+    {
+        "title": "Paul McCartney hace saltar chispas en Madrid en una cita memorable con la historia del pop",
+        "image_url": "https://s1.elespanol.com/2024/12/10/el-cultural/escenarios/musica/907669226_251540692_1706x960.jpg?contentId=ESPIMA20241210_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20241210/paul-mccartney-hace-saltar-chispas-madrid-cita-memorable-historia-pop/907659227_0.html",
+        "date": "2024-12-10 00:49:21",
+        "sentiment_score": 0.6323273964226246
+    },
+    {
+        "title": "Bárbara Rey habla como nunca de Juan Carlos I: \"Me trató como una puta. Me dejó 500.000 pesetas en la mesilla\"",
+        "image_url": "https://s1.elespanol.com/2024/12/10/corazon/famosos/907669233_251540932_1706x960.jpg?contentId=ESPIMA20241210_0009",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241210/barbara-rey-habla-nunca-juan-carlos-trato-puta-dejo-pesetas-mesilla/907409811_0.html",
+        "date": "2024-12-10 00:36:25",
+        "sentiment_score": 0.14256970584392548
+    },
+    {
+        "title": "El escenario de negociación para salir del conflicto en Venezuela sigue vigente para el año que viene 2025",
+        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2024/12/IMG-20241209-WA0017.jpg",
+        "tags": [
+            "presos políticos",
+            "venezuela",
+            "política",
+            "cambios políticos"
+        ],
+        "link": "https://www.elnacional.com/venezuela/el-escenario-de-negociacion-para-salir-del-conflicto-en-venezuela-sigue-vigente-para-el-ano-que-viene-2025/",
+        "date": "2024-12-10 00:15:25",
+        "sentiment_score": 0.021031156182289124
+    },
+    {
+        "title": "Estos son los partidos de esta semana en la Champions League",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/12/mbappe-712-730x524.webp",
+        "tags": [
+            "barcelona",
+            "psg",
+            "liga de campeones",
+            "fútbol",
+            "liverpool",
+            "deportes",
+            "real madrid",
+            "champions league"
+        ],
+        "link": "https://primicia.com.ve/deportes/estos-son-los-partidos-de-esta-semana-en-la-champions-league/",
+        "date": "2024-12-09 23:53:00",
+        "sentiment_score": -0.24664562940597534
+    },
+    {
+        "title": "Getafe marca temprano y vence a Espanyol alejándose del descenso en La Liga",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/getafe-espanyol-la-liga-alvaro-rodriguez-descenso-19ea518d042e2dcc85f0e91e54a1b52f",
+        "date": "2024-12-09 23:51:21",
+        "sentiment_score": -0.19637805223464966
+    },
+    {
+        "title": "El tiempo en Cambados: previsión meteorológica para hoy, martes 10 de diciembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8830846c-ea42-450c-88c7-0d0c6f15b6c4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/12/10/tiempo-cambados-prevision-meteorologica-hoy-112476181.html",
+        "date": "2024-12-10 02:14:26",
+        "sentiment_score": 0.36599088460206985
+    },
+    {
+        "title": "El tiempo en Caldas de Reis: previsión meteorológica para hoy, martes 10 de diciembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/014e974c-db21-42a8-adbd-0417918ade2d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/12/10/tiempo-caldas-reis-prevision-meteorologica-112476169.html",
+        "date": "2024-12-10 02:13:37",
+        "sentiment_score": 0.6519389785826206
+    },
+    {
+        "title": "El tiempo en Bueu: previsión meteorológica para hoy, martes 10 de diciembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dd533006-af75-4386-9824-75045fa67c98_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/12/10/tiempo-bueu-prevision-meteorologica-hoy-112476135.html",
+        "date": "2024-12-10 02:11:01",
+        "sentiment_score": 0.532297857105732
+    },
+    {
+        "title": "El tiempo en Barro: previsión meteorológica para hoy, martes 10 de diciembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3056379a-fb60-42ff-9c4d-5bfbde730893_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/12/10/tiempo-barro-prevision-meteorologica-hoy-112476091.html",
+        "date": "2024-12-10 02:07:48",
+        "sentiment_score": 0.5055927336215973
+    },
+    {
+        "title": "El tiempo en Baiona: previsión meteorológica para hoy, martes 10 de diciembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e0bd25a1-057b-46df-a7eb-937071b69850_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/tiempo/2024/12/10/tiempo-baiona-prevision-meteorologica-hoy-112476068.html",
+        "date": "2024-12-10 02:06:38",
+        "sentiment_score": 0.6966826170682907
+    },
+    {
+        "title": "El ‘derby’ Barcelona-Madrid",
+        "image_url": "https://static.grupojoly.com/clip/20a63546-d6d2-4fa1-8362-3ae328bdce55_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/tribuna/derby-barcelona-madrid_0_2002953539.html",
+        "date": "2024-12-10 02:05:49",
+        "sentiment_score": -0.006406091153621674
+    },
+    {
+        "title": "La bebé Helia tiene una enfermedad \"ultrarara\" y su futuro depende de 500.000€ para encontrar un tratamiento",
+        "image_url": "https://s1.elespanol.com/2024/12/09/reportajes/907419606_251524907_1706x960.jpg?contentId=ESPIMA20241209_0357",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241210/bebe-helia-enfermedad-ultrarara-futuro-depende-encontrar-tratamiento/907409427_0.html",
+        "date": "2024-12-10 01:56:43",
+        "sentiment_score": 0.1839439421892166
+    },
+    {
+        "title": "La inversión anual del Barça en la Masía: mucho menos dinero que el fichaje de Ferran Torres",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/09/16/culemania/secciones/886421427_13450612_1706x960.png?contentId=ESPIMA20240916_0078",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241210/la-inversion-barca-masia-fichaje-ferran-torres/907409320_0.html",
+        "date": "2024-12-10 01:19:46",
+        "sentiment_score": 0.3043271638453007
     }
 ];
