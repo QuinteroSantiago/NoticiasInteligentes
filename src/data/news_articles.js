@@ -1,246 +1,5 @@
 export default [
     {
-        "title": "Protestas afuera de la Asamblea Nacional de Corea del Sur mientras el presidente sobrevive al juicio político",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/sequence-02-00-00-53-27-still001.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "corea",
-            "corea del sur"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/protestas-asanblea-nacional-corea-sur-presidente-juicio/",
-        "date": "2024-12-07 15:12:36",
-        "sentiment_score": -0.6245775558054447
-    },
-    {
-        "title": "Reapertura de Notre Dame, en vivo: Trump en París, imágenes, noticias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
-        "tags": [
-            "minuto a minuto",
-            "notre dame"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/07/reapertura-notre-dame-en-vivo-trax/",
-        "date": "2024-12-07 15:10:54",
-        "sentiment_score": 0.3975476995110512
-    },
-    {
-        "title": "La ultraderecha de AfD se lanza a la campaña electoral por una Alemania fuera del euro",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/07/alemania-Rt6WfqgGgqAIMDxawVOGZWK-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ultraderecha-afd-lanza-campana-electoral-alemania-euro-20241207180239-nt.html",
-        "date": "2024-12-07 17:02:40",
-        "sentiment_score": -0.10006280243396759
-    },
-    {
-        "title": "Guerra en Siria: última hora de los rebeldes en Damasco y Assad, en directo hoy",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/07/1489656014-kiPG-U6034600898359mC-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/guerra-siria-ultima-hora-rebeldes-damasco-assad-20241207175312-di.html",
-        "date": "2024-12-07 16:53:13",
-        "sentiment_score": -0.8720748890191317
-    },
-    {
-        "title": "El temporal de viento y nieve en Cataluña obliga a cortar una carretera y a evacuar 150 pasajeros de un tren afectado por la caída de un árbol",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S4S5PEEQTZFRFB4G2P3EVLH3RY.jpg?auth=8a0dda8de3db0628d598bbb8eaa095a34500edb797a9a08bca087cce88607a04&width=1200",
-        "tags": [
-            "nieve",
-            "carreteras",
-            "viento",
-            "temporales",
-            "trenes",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-07/el-temporal-de-viento-y-nieve-en-cataluna-obliga-a-cortar-una-carretera-y-a-evacuar-150-pasajeros-de-un-tren-afectado-por-la-caida-de-un-arbol.html",
-        "date": "2024-12-07 17:04:52",
-        "sentiment_score": -0.13852542266249657
-    },
-    {
-        "title": "Girona vs. Real Madrid, en vivo: hora y canal del partido por La Liga en Estados Unidos",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/jude-bellingham-girona-real-madrid_shutterstock_2523724121.jpg",
-        "tags": [
-            "la liga",
-            "deportes",
-            "girona",
-            "fútbol",
-            "real madrid"
-        ],
-        "link": "https://eldiariony.com/2024/12/07/girona-vs-real-madrid-en-vivo-hora-y-canal-del-partido-por-la-liga-en-estados-unidos/",
-        "date": "2024-12-07 17:00:00",
-        "sentiment_score": 0.12523118406534195
-    },
-    {
-        "title": "Uriarte presenta denuncia por insultos y amenazas tras ser advertido de consecuencias por \"meterse con Herri Harmaila\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241207175445_120.jpg",
-        "tags": [
-            "país vasco"
-        ],
-        "link": "https://www.europapress.es/euskadi/noticia-uriarte-presenta-denuncia-insultos-amenazas-ser-advertido-consecuencias-meterse-herri-harmaila-20241207175445.html",
-        "date": "2024-12-07 16:54:45",
-        "sentiment_score": -0.7225701026618481
-    },
-    {
-        "title": "Si Mazón quiere gobernar, que gobierne",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/960519c1-2d23-4087-9039-06cd17158e27_16-9-aspect-ratio_default_1342895.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/opinion/2024/12/07/mazon-quiere-gobernar-gobierne-112407395.html",
-        "date": "2024-12-07 16:54:44",
-        "sentiment_score": -0.2574808597564697
-    },
-    {
-        "title": "Lobato reivindica la \"autonomía y la libertad\" de los socialistas para decidir \"el futuro de su partido\"",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/07/el-ex-secretario-general-del-psoe-de-madrid-juan-lobato-a-su-llegada-a-testificar-en-el-tribunal-supremo-sobre-la-causa-contra-el-fiscal-general-del-estado-alvaro-garcia-ortiz-para-que-aclare-el-papel-de-moncloa-al-enviarle-informacion-de-la-par.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/lobato-reivindica-autonomia-libertad-socialistas-decidir-el-futuro-partidobr.html",
-        "date": "2024-12-07 16:48:22",
-        "sentiment_score": 0.22306905686855316
-    },
-    {
-        "title": "Jon Uriarte denuncia insultos y amenazas e interpone una denuncia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a454c6fc-8a6c-44bf-b2f7-09cd9085200f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2024/12/07/jon-uriarte-denuncia-insultos-amenazas-9022868.html",
-        "date": "2024-12-07 16:36:22",
-        "sentiment_score": -0.7308741845190525
-    },
-    {
-        "title": "Jon Uriarte denuncia ante la Ertzaintza «amenazas e insultos» de un radical: «Hijo de puta, te vas a enterar»",
-        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2024/12/07/uriarte-denuncia-kPkD-U230230192190rrE-1200x840@Diario%20Vasco.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/deportes/futbol/liga-primera/jon-uriarte-denuncia-ante-ertzaintza-amenazas-insultos-20241207173619-nt.html",
-        "date": "2024-12-07 16:36:19",
-        "sentiment_score": -0.7367668002843857
-    },
-    {
-        "title": "El Turismo en la Ribera más allá de las Bardenas",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5741d64f-975a-427e-a8be-f6ca09a31432_16-9-aspect-ratio_default_0_x3066y2043.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.noticiasdenavarra.com/navarra/2024/12/07/turismo-ribera-mas-alla-bardenas-9022813.html",
-        "date": "2024-12-07 16:34:39",
-        "sentiment_score": 0.24996016919612885
-    },
-    {
-        "title": "El Athletic confirma los insultos y las intimidaciones hacia el presidente Uriarte, pero niega que procedan del grupo Herri Harmaila",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/07/67547708e9871.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/athletic-confirma-insultos-intimidaciones-presidente-uriarte-niega-procedan-grupo-herri-harmaila-20241207_3059272.html",
-        "date": "2024-12-07 16:28:13",
-        "sentiment_score": -0.19994227588176727
-    },
-    {
-        "title": "Óscar López, proclamado nuevo secretario general del PSOE de Madrid al no haberse presentado más candidatos",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/ef9df4df16e4d4c29e17c22d16f51aca/crop/90x224/2831x2051/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/02/17331768606163.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elmundo.es/madrid/2024/12/07/6754748721efa072158b457c.html",
-        "date": "2024-12-07 16:19:54",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "Óscar López, proclamado nuevo secretario general del PSOE de Madrid al no presentarse ningún rival",
-        "image_url": "https://s1.elespanol.com/2024/12/07/espana/politica/906919444_251499309_1706x960.jpg?contentId=ESPIMA20241207_0145",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20241207/psoe-madrid-proclama-oscar-lopez-nuevo-secretario-general/906909411_0.html",
-        "date": "2024-12-07 15:47:40",
-        "sentiment_score": -0.448112852871418
-    },
-    {
-        "title": "Alberto Sabio: \"Joaquín Maurín fue el precursor de la idea de reconciliación en España\"",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/30/letraglobal/905169543_13799532_1706x960.jpg?contentId=ESPIMA20241130_0069",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/ideas/20241207/alberto-sabio-joaquin-maurin-de-reconciliacion-espana/905409464_0.html",
-        "date": "2024-12-07 17:08:53",
-        "sentiment_score": -0.4477885887026787
-    },
-    {
-        "title": "Expulsión a Hansi Flick: el polémico penalti señalado por el VAR contra el Barça en el Villamarín",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/07/culemania/primer-equipo/906919369_13834575_1706x960.jpg?contentId=ESPIMA20241207_0070",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241207/expulsion-hansi-flick-el-var-barca-villamarin/906909342_0.html",
-        "date": "2024-12-07 17:07:34",
-        "sentiment_score": 0.17962756752967834
-    },
-    {
-        "title": "Torres-García vuelve a casa",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/07/67547fa30c220.r_d.2106-1342-0.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20241207/10179618/torres-garcia-vuelve-casa.html",
-        "date": "2024-12-07 17:07:15",
-        "sentiment_score": 0.22793953120708466
-    },
-    {
-        "title": "Un violento incendio quema la parte superior del hotel The Mirror en pleno centro de Barcelona",
-        "image_url": "https://www.mundodeportivo.com/files/image_948_465/uploads/2024/12/07/67547f91ab7c2.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20241207/1002367000/violento-incendio-quema-parte-superior-hotel-the-mirror-pleno-centro-barcelona-dct.html",
-        "date": "2024-12-07 17:06:26",
-        "sentiment_score": -0.6568786446005106
-    },
-    {
-        "title": "Pedro Martín explica el penalti de Frenkie de Jong sobre Vítor Roque y que acabó con la expulsión de Hansi Flick: \"No es jugada de VAR\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2024/12/07/675484679ab6b.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/pedro-martin-explica-penalti-frenkie-jong-sobre-vitor-roque-acabo-expulsion-hansi-flick-jugada-var-20241207_3059274.html",
-        "date": "2024-12-07 17:04:50",
-        "sentiment_score": 0.1380186527967453
-    },
-    {
-        "title": "Caillebotte, Friedrich, Wyeth y Richter nos dan la espalda",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/07/letraglobal/artes/906919365_13834459_1706x960.jpg?contentId=ESPIMA20241207_0066",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/artes/20241207/caillebotte-friedrich-wyeth-richter-nos-dan-espalda/906909341_0.html",
-        "date": "2024-12-07 17:01:47",
-        "sentiment_score": 0.12284419685602188
-    },
-    {
-        "title": "Cuatro condenados por regentar un piso prostíbulo frente a los juzgados de Alicante",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/51b34300-6d26-47e9-9a3d-938d7a3c3906_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/sucesos/tribunales/2024/12/07/cuatro-condenados-regentar-piso-prostibulo-juzgados-112394906.html",
-        "date": "2024-12-07 17:00:50",
-        "sentiment_score": -0.6702556125819683
-    },
-    {
-        "title": "Unidad por las víctimas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d7ab41ee-059c-43b9-8016-09c77694037c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/opinion/2024/12/07/unidad-victimas-112408083.html",
-        "date": "2024-12-07 17:00:49",
-        "sentiment_score": -0.21580789983272552
-    },
-    {
         "title": "Los Inusuales: el escuchador de historias",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-753944-los-inusuales-el-escuchador-de-historias-20240726233855008.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -363,55 +122,6 @@ export default [
         "link": "https://www.abc.es/opinion/editorial-abc-rumania-caballos-troya-kremlin-20241208204648-nt.html",
         "date": "2024-12-07 19:46:52",
         "sentiment_score": -0.5791951045393944
-    },
-    {
-        "title": "¿Qué pensaría Robin Hood de esto?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/08/TERCERAABC_RobinHood_HERGE-RSjvpR0gm0b0HZ2tIXQtj0I-350x624@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jose-a-herce-y-diego-valero-pensaria-robin-hood-20241208184004-nt.html",
-        "date": "2024-12-07 18:30:12",
-        "sentiment_score": -0.19498871266841888
-    },
-    {
-        "title": "Braga de bombero",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/12/01/salas-torre-centro-kZFG--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/angel-antonio-herrera-braga-bombero-20241208192854-nt.html",
-        "date": "2024-12-07 18:29:01",
-        "sentiment_score": -0.0813010036945343
-    },
-    {
-        "title": "Más Q+ o menos Q+",
-        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/04/secuestrador-U31626667484shE-170x119@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/rebeca-argudo-mas-q-o-menos-q-20241208192840-nt.html",
-        "date": "2024-12-07 18:28:50",
-        "sentiment_score": -0.15933237969875336
-    },
-    {
-        "title": "Un viaducto provisional restablecerá el martes la última carretera autonómica dañada por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FHSCQGZKY5EYLJIA2OTVPVIL6A.jpg?auth=08b5dbe5d8db6dbc6bcd280d8a2a4aa28b82aa7fd6d3d9dd32f2ede12e724dbe&width=1200",
-        "tags": [
-            "carlos mazón",
-            "dana",
-            "comunidad valenciana",
-            "torrent",
-            "carreteras",
-            "aldaia",
-            "inundaciones dana octubre 2024",
-            "alaquàs",
-            "obras reforma",
-            "generalitat valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-07/un-viaducto-provisional-restablecera-el-martes-la-ultima-carretera-autonomica-danada-por-la-dana.html",
-        "date": "2024-12-07 18:00:52",
-        "sentiment_score": 0.3872789926826954
     },
     {
         "title": "22:00 | 07 DIC 2024 | TIEMPO DE JUEGO",
@@ -6005,5 +5715,506 @@ export default [
         "link": "https://elcierredigital.com/investigacion/vuelve-principe-zourab-tchokotua-asi-operaba-juan-carlos-y-sus-amantes",
         "date": "2024-12-11 01:00:00",
         "sentiment_score": 0.004420414566993713
+    },
+    {
+        "title": "CNN ingresa al palacio del derrocado presidente de Siria",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188637583.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "dictadura",
+            "rebeldes",
+            "guerra civil en siria",
+            "siria",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/palacio-interior-derrocado-presidente-assad-trax/",
+        "date": "2024-12-11 04:06:45",
+        "sentiment_score": -0.50868821144104
+    },
+    {
+        "title": "Guevara: Israel debe buscar la liberación de rehenes en Gaza con diplomacia",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188044299.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "genocidio",
+            "fast – news variety",
+            "medio oriente",
+            "israel noticias",
+            "hamas"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/amnistia-internacional-crimenes-contra-israelies-aristegui-tv-fast/",
+        "date": "2024-12-11 03:26:31",
+        "sentiment_score": -0.8009630180895329
+    },
+    {
+        "title": "Una mujer siria reflexiona sobre las pérdidas sufridas bajo el régimen derrocado",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/jomana-daraya-02-20241211031549546.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "damasco",
+            "siria",
+            "medio oriente",
+            "bashar al-assad"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/iria-perdidas-regimen-assad-trax/",
+        "date": "2024-12-11 03:26:02",
+        "sentiment_score": -0.8292370531708002
+    },
+    {
+        "title": "Doctor explica el posible origen de las infecciones de bacterias que dejaron 17 muertes en México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1235757623.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "bacterias",
+            "epidemia",
+            "noticias de méxico",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-bacteria-brote-muertes-infancias-contaminacion-farmaco-conclusiones-tv/",
+        "date": "2024-12-11 03:13:43",
+        "sentiment_score": -0.5655345544219017
+    },
+    {
+        "title": "Informe de Amnistía Internacional dice que Israel comete genocidio en Gaza",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188355353.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "genocidio",
+            "palestina",
+            "israel",
+            "fast – news variety",
+            "franja de gaza",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/informe-amnistia-internacional-israel-genocidio-gaza-aristegui-tv-fast/",
+        "date": "2024-12-11 03:10:15",
+        "sentiment_score": -0.6843742411583662
+    },
+    {
+        "title": "¿Ideología o negocio? Qué hay detrás de la reuniones de Milei con Trump y Musk",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184862455-20241211030145403.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "argentina",
+            "economía y negocios",
+            "javier milei",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/liderazgo-milei-latinoamerica-derecha-ano-presidencia-argentina-conclusiones-tv/",
+        "date": "2024-12-11 03:08:19",
+        "sentiment_score": -0.13953159004449844
+    },
+    {
+        "title": "Abogado de Luigi Mangione, sospechoso de matar al CEO de UnitedHealthCare, dice que su cliente “se declarará inocente”",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-h-20241211021557450.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luigi-mangione-abogado-brian-thompson/",
+        "date": "2024-12-11 02:19:27",
+        "sentiment_score": -0.8262642472982407
+    },
+    {
+        "title": "El narco amenaza el turismo arqueológico en México",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/10/MEX-CHIAPAS01-R33C79NQQFm3STX7qDl7ocM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/narco-amenaza-turismo-arqueologico-mexico-20241210174423-nt.html",
+        "date": "2024-12-11 04:28:15",
+        "sentiment_score": -0.20643000304698944
+    },
+    {
+        "title": "Biden envía a un alto negociador a liberar a rehenes extranjeros que fueron secuestrados en Siria",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/11/AustinTice-RBimuV550FR7SPLbDPE8IgJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/biden-envia-alto-negociador-liberar-rehenes-extranjeros-20241211203716-nt.html",
+        "date": "2024-12-11 03:13:58",
+        "sentiment_score": -0.17015427350997925
+    },
+    {
+        "title": "El fiasco en Siria agudizará la ofensiva rusa en Ucrania",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/10/Antidrones-RrC86aHnJehhr0thZt36o4L-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/fiasco-siria-agudizara-ofensiva-rusa-ucrania-20241210182010-nt.html",
+        "date": "2024-12-11 03:11:32",
+        "sentiment_score": -0.14495298266410828
+    },
+    {
+        "title": "La SEPI busca seguro de salud para su plantilla en plena crisis de Muface",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/11/sepi-fachada-RujmtRtsxdVMcoNN1db2q2L-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sepi-busca-seguro-salud-plantilla-plena-crisis-20241211040957-nt.html",
+        "date": "2024-12-11 03:09:57",
+        "sentiment_score": -0.07135051488876343
+    },
+    {
+        "title": "Albares contra la Casa del Rey",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/12/08/pensiones-kfrE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-albares-casa-rey-20241211201028-nt.html",
+        "date": "2024-12-11 03:08:02",
+        "sentiment_score": -0.07352101802825928
+    },
+    {
+        "title": "La UE pacta el reparto de pesca de 2025 con medidas para mantener el arrastre en el Mediterráneo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/11/pesquero-kK8H-U603474685703h0E-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ue-pacta-reparto-pesca-2025-medidas-mantener-20241211034450-nt.html",
+        "date": "2024-12-11 02:44:50",
+        "sentiment_score": -0.018392860889434814
+    },
+    {
+        "title": "La Diputación de Valencia nombra gerente de Bomberos tras la dana a un condenado por estafa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IUCRJB6WXZELNPWMAFKALNSGD4.jpg?auth=4a2d2524bcb0d927540292938f960a15e59a8e767ccda0e6502f5b3c058e12c8&width=1200",
+        "tags": [
+            "corrupción",
+            "diputación provincial valencia",
+            "valencia",
+            "ppcv",
+            "comunidad valenciana",
+            "estafas",
+            "falsificación documentos",
+            "bomberos"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-11/la-diputacion-de-valencia-nombra-gerente-de-bomberos-tras-la-dana-a-un-condenado-por-estafa.html",
+        "date": "2024-12-11 05:08:26",
+        "sentiment_score": -0.45716308057308197
+    },
+    {
+        "title": "España necesita 3,5 millones de viviendas asequibles para equilibrar el mercado inmobiliario",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/U6SXNYO5LRHPFCBMCPQE23GLVM.jpg?auth=00425dc3535fbc3826d40d40e6ead8f55c53a339237d0e4b197dcc05858c332a&width=1200",
+        "tags": [
+            "macroeconomía",
+            "sector inmobiliario",
+            "informes económicos",
+            "mercado inmobiliario",
+            "política vivienda",
+            "legislación vivienda",
+            "vivienda",
+            "vpo",
+            "economía"
+        ],
+        "link": "https://elpais.com/economia/2024-12-11/espana-necesita-35-millones-de-viviendas-asequibles-para-equilibrar-el-mercado-inmobiliario.html",
+        "date": "2024-12-11 04:45:00",
+        "sentiment_score": -0.05200961232185364
+    },
+    {
+        "title": "El juez Pedraz renuncia a ampliar a Interpol las pruebas por secuestro y torturas contra el hijo de Obiang",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CHLH2QX2NVB2HMDRENSTTKAZ2A.jpg?auth=1300bd05cf580204a7e9565f0fc5ddf0b3780feed2be8c78cd0834d050c1e591&width=1200",
+        "tags": [
+            "guinea ecuatorial",
+            "tortura",
+            "audiencia nacional",
+            "teodoro obiang nguema",
+            "interpol",
+            "investigación judicial",
+            "dictadura",
+            "españa",
+            "santiago pedraz"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/el-juez-pedraz-renuncia-a-ampliar-a-interpol-las-pruebas-por-secuestro-y-torturas-contra-el-hijo-de-obiang.html",
+        "date": "2024-12-11 04:40:00",
+        "sentiment_score": -0.6791492812335491
+    },
+    {
+        "title": "Mazón sigue adelante con la contrarreforma que favorece la construcción en la costa valenciana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YILL5VIATE6BYLWDTVA33I2OS4.jpg?auth=8bc02b205d1f6bfd464398f56f13e08bf5943d060e2d3d73d5ef920db1048cf6&width=1200",
+        "tags": [
+            "inundaciones dana octubre 2024",
+            "dana",
+            "ordenación suelo",
+            "litoral",
+            "carlos mazón",
+            "comunidad valenciana",
+            "construcción",
+            "política",
+            "leyes autonómicas",
+            "generalitat valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-11/mazon-sigue-adelante-con-la-contrarreforma-que-favorece-la-construccion-en-la-costa-valenciana.html",
+        "date": "2024-12-11 04:40:00",
+        "sentiment_score": 0.2104804813861847
+    },
+    {
+        "title": "Dos padres recuperados bajo una montaña de basura",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/M5KDRTOVZND4BPVG2SBEUU4E2Y.jpg?auth=8d45e48bc7df1f0c7bf95b6f183d05f4d068192006613e575f66bfd048c67456&width=1200",
+        "tags": [
+            "ley memoria democrática",
+            "víctimas franquismo",
+            "españa",
+            "memoria histórica",
+            "guerra civil española"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/dos-padres-recuperados-bajo-una-montana-de-basura.html",
+        "date": "2024-12-11 04:40:00",
+        "sentiment_score": -0.419990211725235
+    },
+    {
+        "title": "El Gobierno busca a la desesperada socios para revertir la anulación del impuesto pactada por PP y Junts",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6QWPH4UHDP5N6ITOF7DHHQQ47A.jpg?auth=ddd1c542aff7f14c7d4874559ceb82a655238ee241120b3b5bfad96baae81679&width=1200",
+        "tags": [
+            "energía",
+            "energía no renovable",
+            "pactos políticos",
+            "erc",
+            "carles puigdemont",
+            "españa",
+            "comisiones parlamentarias",
+            "energía eólica",
+            "energías renovables",
+            "pp",
+            "juntsxcat",
+            "gobierno",
+            "congreso diputados",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/el-gobierno-busca-socios-para-revertir-la-anulacion-del-impuesto-pactada-por-pp-y-junts.html",
+        "date": "2024-12-11 04:40:00",
+        "sentiment_score": -0.8560383133590221
+    },
+    {
+        "title": "Jorgo Chatzimarkakis, CEO de Hydrogen Europe: “España es un país perfecto para las energías renovables”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/J77G7OFRSRB63LI6C3FFWF3UHU.png?auth=1df3afe47b7b3de941f7ade099ebae68361258574cce53219324256185059266&width=1200",
+        "tags": [
+            "energías renovables",
+            "energía no renovable",
+            "desarrollo sostenible",
+            "europa",
+            "energía",
+            "hidrógeno verde",
+            "medio ambiente",
+            "cambio climático",
+            "innovación"
+        ],
+        "link": "https://elpais.com/proyecto-tendencias/2024-12-11/jorgo-chatzimarkakis-ceo-de-hydrogen-europe-espana-es-un-pais-perfecto-para-las-energias-renovables.html",
+        "date": "2024-12-11 04:00:00",
+        "sentiment_score": 0.5421596691012383
+    },
+    {
+        "title": "Las ofertas de Sánchez que sí acepta el PP de Ayuso: 170 millones para Universidades, 110 para la Cañada Real o 150 para soterrar la A-5",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BRJKAROD75BZHJR74V5AQUT67Q.jpeg?auth=48f543df18c0f23bdd7076dcde8821a3af45bcd5e2cd8c3b6fe6e50ad52eb525&width=1200",
+        "tags": [
+            "madrid",
+            "pp madrid",
+            "gobierno comunidad de madrid",
+            "gobierno de españa",
+            "pedro sánchez",
+            "psoe",
+            "comunidad de madrid",
+            "isabel díaz ayuso"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-11/las-ofertas-de-sanchez-que-si-acepta-el-pp-de-ayuso-170-millones-para-universidades-110-para-la-canada-real-o-150-para-soterrar-la-a-5.html",
+        "date": "2024-12-11 04:00:00",
+        "sentiment_score": -0.5181008763611317
+    },
+    {
+        "title": "Ante Budimir, con los grandes",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d6914c03-93a2-4458-aece-7d804e760428_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2024/12/11/budimir-grandes-9034939.html",
+        "date": "2024-12-11 06:25:02",
+        "sentiment_score": 0.6436826884746552
+    },
+    {
+        "title": "Los años amarillos de ‘Lewy’",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/0de4c162-e7be-01c5-f67d34a83b763d3d.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z0de4ad78-ac71-7c75-0bdc982034778cc2/202412/los-anos-amarillos-de-lewy",
+        "date": "2024-12-11 06:20:56",
+        "sentiment_score": 0.007155358791351318
+    },
+    {
+        "title": "Probamos los mejores micrófonos para grabar pódcast",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/U76AFKE36ZECBFI47P7V3Y3OGA.png?auth=4127c3a8f14207b24dde5ff4bb488e5d0d6d2d536e6cfb055b8427c6a55546d7&width=1200",
+        "tags": [
+            "tecnología",
+            "videojuegos",
+            "comparativas de productos",
+            "ordenadores",
+            "sonido",
+            "amazon",
+            "portátiles"
+        ],
+        "link": "https://elpais.com/escaparate/comparativas/2024-12-11/mejor-microfono-para-grabar-podcast.html",
+        "date": "2024-12-11 06:15:00",
+        "sentiment_score": 0.4677379596978426
+    },
+    {
+        "title": "El famoso futbolista que disfruta de su pasión en Salamanca: deporte, gastronomía y causas solidarias",
+        "image_url": "https://s1.elespanol.com/2024/11/20/castilla-y-leon/region/salamanca/902669897_251022050_1706x960.jpg?contentId=ESPIMA20241120_0173",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20241211/famoso-futbolista-disfruta-pasion-salamanca-deporte-gastronomia-causas-solidarias/902659778_0.html",
+        "date": "2024-12-11 06:00:00",
+        "sentiment_score": 0.09629097580909729
+    },
+    {
+        "title": "Olga Rivas Iglesias: “Quienes viven en el rural son los que mejor detectan sus oportunidades”",
+        "image_url": "https://www.laregion.es/media/laregion/images/2024/12/10/2024121023080489976.jpg",
+        "tags": [
+            "allariz - maceda"
+        ],
+        "link": "https://www.laregion.es/articulo/allariz/olga-rivas-iglesias-quienes-viven-rural-son-que-mejor-detectan-oportunidades/202412110700001353571.html",
+        "date": "2024-12-11 06:00:00",
+        "sentiment_score": 0.3423842787742615
+    },
+    {
+        "title": "Este es el día que se celebraron dos loterías de Navidad",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/21/63a3731525246.jpeg",
+        "tags": [
+            "loterías"
+        ],
+        "link": "https://www.huffingtonpost.es/loterias/dia-celebraron-dos-loterias.html",
+        "date": "2024-12-11 06:00:00",
+        "sentiment_score": 0.7660874985158443
+    },
+    {
+        "title": "Más de 200 guardias civiles, políticos y fiscales, con De los Cobos en una emotiva comida de jubilación",
+        "image_url": "https://okdiario.com/img/2024/12/10/guardias-civiles-politicos-y-fiscales-arropan-a-perez-de-los-cobos-interior-v2.jpg",
+        "tags": [
+            "justicia",
+            "guardia civil",
+            "seguridad",
+            "ministerio del interior",
+            "tribunales",
+            "españa",
+            "jorge fernández díaz",
+            "diego pérez de los cobos"
+        ],
+        "link": "https://okdiario.com/espana/mas-200-guardias-civiles-politicos-fiscales-cobos-emotiva-comida-jubilacion-13957484",
+        "date": "2024-12-11 05:53:57",
+        "sentiment_score": -0.12776704132556915
+    },
+    {
+        "title": "La UCO teme que la elección de la trama socialista de Dominicana tiene que ver con los obstáculos a la extradición",
+        "image_url": "https://s.libertaddigital.com/2024/10/24/abalos-koldo-aldama-dos.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/espana/politica/2024-12-11/la-uco-teme-que-la-eleccion-de-la-trama-socialista-de-dominicana-tiene-que-ver-con-los-obstaculos-a-la-extradicion-7196485/",
+        "date": "2024-12-11 05:42:13",
+        "sentiment_score": -0.16612837836146355
+    },
+    {
+        "title": "Cómo ver gratis las series y películas de Apple TV+ en Movistar: la alianza histórica que arrasará en España",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/12/05/apple-movistar-2.r_d.683-345-8050.jpeg",
+        "tags": [
+            "aplicaciones"
+        ],
+        "link": "https://www.20minutos.es/tecnologia/aplicaciones/apple-tv-movistar-acuerdo-espana-ver-contenidos-gratis-5661344/",
+        "date": "2024-12-11 05:41:35",
+        "sentiment_score": 0.49385862424969673
+    },
+    {
+        "title": "37 años de la matanza de ETA en la casa cuartel de Zaragoza: «No olvidemos, asesinaron a niños»",
+        "image_url": "https://okdiario.com/img/2024/12/11/okentrevista-lucia-ruiz-interior.jpg",
+        "tags": [
+            "guardia civil",
+            "zaragoza",
+            "aragón",
+            "eta",
+            "españa"
+        ],
+        "link": "https://okdiario.com/aragon/aniversario-matanza-eta-casa-cuartel-zaragoza-no-olvidemos-asesinaron-ninos-13953029",
+        "date": "2024-12-11 05:40:12",
+        "sentiment_score": -0.5451406016945839
+    },
+    {
+        "title": "El estudio sobre la CPEB4 \"es interesante\" pero no garantiza aún \"un tratamiento\", recuerda Autismo España",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/11/un-nino-con-autismo.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/noticia/5662655/0/autismo-espana-alerta-que-las-conclusiones-estudio-sobre-cpeb4-no-garantizan-aun-un-tratamiento-exitoso/",
+        "date": "2024-12-11 06:33:05",
+        "sentiment_score": -0.540090300142765
+    },
+    {
+        "title": "Comer fast-food’ de primera calidad: este bar de Barcelona, entre los mejores del mundo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/19f9496e-e722-48f3-9b1b-2f8138de0a43_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20241211/comer-fast-food-primera-calidad-barcelona-canete-dv-112486045",
+        "date": "2024-12-11 06:30:58",
+        "sentiment_score": 0.7915518824011087
+    },
+    {
+        "title": "La nueva colección de Springfield Kids trae los imprescindibles del invierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/F35AFPSWGFFR7PAUBOOW7F3PSM.png?auth=bf692a0a80d137355281bb20e1e6ca3c3b19557b9e56799765f36ca3c98b4c35&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-11/coleccion-invierno-2024-springfield-kids.html",
+        "date": "2024-12-11 06:30:00",
+        "sentiment_score": 0.5920644830912352
+    },
+    {
+        "title": "Vuelve la Fira de Nadal i Reis a la Diagonal de Barcelona: horarios y actividades",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d86d271-d83c-40d4-87de-045f1ef0353a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20241211/vuelve-fira-nadal-reis-diagonal-112513507",
+        "date": "2024-12-11 06:29:31",
+        "sentiment_score": 0.2946914955973625
+    },
+    {
+        "title": "AEMET activa el aviso amarillo en tres comunidades por frío de hasta 6 grados bajo cero y lluvia",
+        "image_url": "https://static.eldiario.es/clip/f9c4342f-5444-4407-8092-a3f71055b738_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/frio-6-grados-cero-lluvia-activan-aviso-amarillo-8-comunidades_1_11891452.html",
+        "date": "2024-12-11 06:23:00",
+        "sentiment_score": -0.17830753326416016
+    },
+    {
+        "title": "Lo que debes saber hoy, 11 de diciembre, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/04/vivir-en-barcelona/898670188_13670040_1706x960.jpg?contentId=ESPIMA20241104_0064",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241211/lo-que-debes-saber-hoy-de-diciembre-barcelona/907909202_0.html",
+        "date": "2024-12-11 06:20:38",
+        "sentiment_score": -0.019775867462158203
+    },
+    {
+        "title": "¿Por qué el queso 'fior di latte' es mejor que la 'mozzarella' en una pizza?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/83d6e9ad-bfec-4b72-8d20-3b8290c40cf4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/20241211/pizza-queso-fior-di-latte-mozzarella-111603489",
+        "date": "2024-12-11 06:20:20",
+        "sentiment_score": -0.22417308390140533
+    },
+    {
+        "title": "¿Qué regalar a niños de 11 y 12 años? 15 ideas para esta Navidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/J7UE4I7V3JEB7FKIKNO3IOS7PA.png?auth=3b84dfb8d74079e3b3133246c0331db37b3576dcb4442eb5f80b26bf519fdf61&width=1200",
+        "tags": [
+            "ventas internet",
+            "regalos",
+            "comercio electrónico",
+            "niños",
+            "niñas",
+            "navidad",
+            "amazon"
+        ],
+        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-11/regalos-para-ninos-de-11-y-12-anos-en-2024.html",
+        "date": "2024-12-11 06:20:00",
+        "sentiment_score": 0.9028089558705688
     }
 ];
