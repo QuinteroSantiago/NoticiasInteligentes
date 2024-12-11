@@ -22,32 +22,6 @@ export default [
         "sentiment_score": 0.3975476995110512
     },
     {
-        "title": "Si su alergia se agrava durante las fiestas de fin de año, esta podría ser la razón",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1868369554.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "alergias",
-            "videos digitales",
-            "noticias de salud",
-            "fiestas",
-            "navidad"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/alergias-fiestas-fin-de-ano-minuto-de-salud-fast/",
-        "date": "2024-12-07 12:00:23",
-        "sentiment_score": -0.6707714162766933
-    },
-    {
-        "title": "¿Está politizada la justicia en Estados Unidos? Análisis del impacto de los indultos",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-849353958.jpg?c=original&q=w_800%2Cc_fill",
-        "tags": [
-            "joe biden",
-            "indultos estados unidos",
-            "justicia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/biden-trump-justicia-indultos-amenazas-dusa-tv/",
-        "date": "2024-12-07 11:00:33",
-        "sentiment_score": -0.525890301913023
-    },
-    {
         "title": "La ultraderecha de AfD se lanza a la campaña electoral por una Alemania fuera del euro",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/07/alemania-Rt6WfqgGgqAIMDxawVOGZWK-1200x840@diario_abc.JPG",
         "tags": [
@@ -81,44 +55,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-07/el-temporal-de-viento-y-nieve-en-cataluna-obliga-a-cortar-una-carretera-y-a-evacuar-150-pasajeros-de-un-tren-afectado-por-la-caida-de-un-arbol.html",
         "date": "2024-12-07 17:04:52",
         "sentiment_score": -0.13852542266249657
-    },
-    {
-        "title": "Intervenidos más de 3.300 kilos de cocaína en un pesquero que navegaba sin luces hacia España",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JERCSG5LOVDDDPKXU7452SPGJQ.jpg?auth=15f1a0e198187536cbbbfb67094df780e3f569678ec3f27b25d134fce6d1d8a3&width=1200",
-        "tags": [
-            "policía nacional",
-            "venezuela",
-            "tráfico cocaína",
-            "cocaína",
-            "canarias",
-            "narcotráfico",
-            "colombia",
-            "españa",
-            "brasil",
-            "portugal",
-            "drogas",
-            "dea"
-        ],
-        "link": "https://elpais.com/espana/2024-12-07/intervenidos-mas-de-3300-kilos-de-cocaina-en-un-pesquero-que-navegaba-sin-luces-hacia-espana.html",
-        "date": "2024-12-07 14:12:50",
-        "sentiment_score": -0.879055343568325
-    },
-    {
-        "title": "La Policía investiga la muerte a tiros de un hombre en plena calle en Fuengirola",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PUCLFHMAU5GY7PTYBZNC4MEPKI.jpg?auth=57727d1720d1806c15301f74ed5ce2498db73dfee06ee01bc563fb47194f95b1&width=1200",
-        "tags": [
-            "costa del sol",
-            "armas de fuego",
-            "tiroteos",
-            "fuengirola",
-            "españa",
-            "homicidios",
-            "investigación judicial",
-            "policía nacional"
-        ],
-        "link": "https://elpais.com/espana/2024-12-07/la-policia-investiga-la-muerte-a-tiros-de-un-hombre-en-plena-calle-en-fuengirola.html",
-        "date": "2024-12-07 12:23:15",
-        "sentiment_score": -0.5983672961592674
     },
     {
         "title": "Girona vs. Real Madrid, en vivo: hora y canal del partido por La Liga en Estados Unidos",
@@ -5765,5 +5701,309 @@ export default [
         "link": "https://www.heraldo.es/noticias/deportes/futbol/2024/12/10/ya-hay-fecha-para-el-barbastro-fc-barcelona-1784370.html",
         "date": "2024-12-10 21:24:01",
         "sentiment_score": 0.3022843599319458
+    },
+    {
+        "title": "OPINIÓN | Jorge Castañeda: México no tiene capacidad de recibir a deportados de Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1245844091.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "donald trump jr.",
+            "inmigración",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opinion-jorge-castaneda-trump-deportaciones-masivas-migracion-panorama-mundial-tv/",
+        "date": "2024-12-11 02:04:57",
+        "sentiment_score": -0.868716012686491
+    },
+    {
+        "title": "Sirios en España celebran la caída del régimen de Bashar al-Assad",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188494642.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sirios-exiliados-europa-caida-regimen-al-assad-panorama-mundial-tv/",
+        "date": "2024-12-11 01:57:33",
+        "sentiment_score": -0.23766982555389404
+    },
+    {
+        "title": "Secretario de Salud de México: Es difícil que ocurran más muertes por Klebsiella oxytoca y Enterobacter cloacae",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21191285-5131-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dificil-mas-casos-klebsiella-oxytoca-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-11 01:46:33",
+        "sentiment_score": -0.7330033220350742
+    },
+    {
+        "title": "Israel dice que atacó objetivos militares en Siria",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21190621-6717-159-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "siria",
+            "netanyahu"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-ataques-siria-armas-quimicas-objetivos-militares-panorama-mundial-tv/",
+        "date": "2024-12-11 01:40:15",
+        "sentiment_score": -0.03639507293701172
+    },
+    {
+        "title": "¿Podrá Roma recibir 35 millones de turistas para el Jubileo de 2025?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/rome-jubilee-vespa-thumb-2-20241211004752168.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/roma-35-millones-de-turistas-preparativos-jubileo-trax/",
+        "date": "2024-12-11 00:49:49",
+        "sentiment_score": 0.23268578201532364
+    },
+    {
+        "title": "Autoridades de Chiapas brindan apoyo humanitario a migrantes que transitan por México",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185271856-20241211004138464.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "chiapas",
+            "campamento migrantes",
+            "fast – news variety",
+            "migrantes",
+            "méxico",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/apoyo-humanitario-migrantes-arriaga-chiapas-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-11 00:46:26",
+        "sentiment_score": 0.19758111238479614
+    },
+    {
+        "title": "Cámara corporal muestra la explosión de un camión de basura en Chicago",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/video-explosion-camion-basura-chicago-orix-00-00-04-02-still002.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "cámara corporal",
+            "policía",
+            "chicago",
+            "explosión",
+            "ee.uu.",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-explosion-camion-basura-chicago-orix/",
+        "date": "2024-12-11 00:42:07",
+        "sentiment_score": -0.8289473429322243
+    },
+    {
+        "title": "Experta en derechos humanos: Estado de excepción en El Salvador pasó de ser política temporal a política de Estado",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2157327611-20241211000707657.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "el salvador",
+            "centroamérica",
+            "derechos humanos",
+            "fast – news variety",
+            "nayib bukele",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ddhh-estado-excepcion-el-salvador-politica-seguridad-directo-usa-tv-fast/",
+        "date": "2024-12-11 00:38:46",
+        "sentiment_score": -0.05921132117509842
+    },
+    {
+        "title": "Trump presiona a Trudeau y Sheinbaum con la cuestión arancelaria",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21179751-2400-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "trump aranceles"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-trudeau-sheinbaum-mexico-canada-eeuu-dusa-tv/",
+        "date": "2024-12-11 00:20:01",
+        "sentiment_score": -0.8602932579815388
+    },
+    {
+        "title": "Los designados por Trump defienden su competencia para el cargo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2189233599.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-designados-gabinete-hegseth-congreso-dusa-tv/",
+        "date": "2024-12-11 00:12:09",
+        "sentiment_score": -0.02949349582195282
+    },
+    {
+        "title": "Sheinbaum prepara una estrategia para recibir a los migrantes que Trump busca deportar",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/10/sheinnbaum-ktOH-U603474529229l0D-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/sheinbaum-prepara-estrategia-recibir-migrantes-trump-busca-20241210001126-nt.html",
+        "date": "2024-12-10 23:11:40",
+        "sentiment_score": -0.08732911944389343
+    },
+    {
+        "title": "El comité de garantías de Más Madrid anula la destitución de Arenillas como miembro de la Mesa Regional del partido",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KF63UVDLQFEEJPZA3KY7ND427U.jpg?auth=57e4a6d9c9442265df05656f6f01f328a7b0a7078a1efff1b523a80b1d6fc5aa&width=1200",
+        "tags": [
+            "íñigo errejón",
+            "acoso sexual",
+            "manuela bergerot",
+            "mónica garcía gómez",
+            "rita maestre",
+            "madrid",
+            "más madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-10/el-comite-de-garantias-de-mas-madrid-anula-la-destitucion-de-arenillas-como-miembro-de-la-mesa-regional-del-partido.html",
+        "date": "2024-12-10 23:26:28",
+        "sentiment_score": -0.41260460764169693
+    },
+    {
+        "title": "José Blaya, el pescador que salvó al CD Minera y ahora se medirá al Real Madrid: \"Que traigan sus estrellas, podemos hacer daño\"",
+        "image_url": "https://s1.elespanol.com/2024/12/10/reportajes/907669946_251563025_1706x960.jpg?contentId=ESPIMA20241210_0722",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241211/jose-blaya-pescador-salvo-cd-minera-ahora-medira-real-madrid-traigan-estrellas-podemos-hacer-dano/907659288_0.html",
+        "date": "2024-12-11 02:14:56",
+        "sentiment_score": -0.14077234268188477
+    },
+    {
+        "title": "Sánchez \"conmemorará\" la muerte de Franco en la cama como si en 1975 hubiera comenzado la Democracia",
+        "image_url": "https://s1.elespanol.com/2024/12/10/espana/politica/907670110_251568040_1706x960.jpg?contentId=ESPIMA20241210_0886",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241211/sanchez-conmemorara-muerte-franco-cama-comenzado-democracia/907659775_0.html",
+        "date": "2024-12-11 02:13:57",
+        "sentiment_score": 0.23987868428230286
+    },
+    {
+        "title": "Rebelión vecinal en Vicálvaro por la cabalgata de Reyes: harán un desfile alternativo contra el cambio de fecha y los \"recortes\"",
+        "image_url": "https://s1.elespanol.com/2024/12/10/madrid/capital/907670017_251565222_1706x960.jpg?contentId=ESPIMA20241210_0793",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241211/rebelion-vecinal-vicalvaro-cabalgata-reyes-haran-desfile-alternativo-cambio-fecha-recortes/907659616_0.html",
+        "date": "2024-12-11 02:04:57",
+        "sentiment_score": 0.013171404600143433
+    },
+    {
+        "title": "De la nueva construcción a la rehabilitación: la vivienda en la Comunidad de Madrid apuesta por ser sostenible y accesible",
+        "image_url": "https://s1.elespanol.com/2024/12/10/enclave-ods/historias/907669624_251553060_1706x960.jpg?contentId=ESPIMA20241210_0400",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20241211/nueva-construccion-rehabilitacion-vivienda-comunidad-madrid-apuesta-sostenible-accesible/907659504_0.html",
+        "date": "2024-12-11 01:54:27",
+        "sentiment_score": 0.3663709685206413
+    },
+    {
+        "title": "Vizcaya quiere \"liderar la transición energética e industrial en Europa\" con su modelo de emprendimiento",
+        "image_url": "https://s1.elespanol.com/2024/12/09/invertia/disruptores/autonomias/pais-vasco/907419329_251516225_1706x960.jpg?contentId=ESPIMA20241209_0080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/pais-vasco/20241211/vizcaya-quiere-liderar-transicion-energetica-industrial-europa-modelo-emprendimiento/905910004_0.html",
+        "date": "2024-12-11 01:49:51",
+        "sentiment_score": 0.4373747371137142
+    },
+    {
+        "title": "Atalanta 2-3 Real Madrid: las 5 claves del triunfo merengue",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/11/2024121101595989367.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/atalanta-2-3-real-madrid-5-claves-triunfo-triunfo-merengue-bergamo/20241211020112327045.html",
+        "date": "2024-12-11 01:01:12",
+        "sentiment_score": -0.38901670277118683
+    },
+    {
+        "title": "El Real Madrid y el PSG logran triunfos clave en la Champions",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f60d.png",
+        "tags": [
+            "champions",
+            "fútbol",
+            "psg",
+            "el real madrid",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-real-madrid-el-psg-logran-triunfos-clave-en-la-champions/",
+        "date": "2024-12-11 00:38:36",
+        "sentiment_score": 0.5454590767621994
+    },
+    {
+        "title": "El Real Madrid y el PSG logran un triunfo clave en la Champions",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f60d.png",
+        "tags": [
+            "champions",
+            "el real madrid",
+            "psg",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-real-madrid-y-el-psg-logran-un-triunfo-clave-en-la-champions/",
+        "date": "2024-12-11 00:38:36",
+        "sentiment_score": 0.5219231769442558
+    },
+    {
+        "title": "10 DIC 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/10-dic-2024-partidazo-cope-20241211_3060806.html",
+        "date": "2024-12-11 00:36:56",
+        "sentiment_score": -0.0197923481464386
+    },
+    {
+        "title": "Borussia Dortmund, el club de tradición obrera que fue perseguido por la Gestapo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/10/culemania/culemaniacos/907669304_13844815_1706x960.jpg?contentId=ESPIMA20241210_0080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20241211/borussia-dortmund-club-tradicion-obrera-perseguido-gestapo/907659275_0.html",
+        "date": "2024-12-11 00:34:17",
+        "sentiment_score": -0.7873751167207956
+    },
+    {
+        "title": "Kira se suicidó con 15 años por bullying y ahora su padre logra que el caso vuelva a juicio: \"Hubo maltrato docente\"",
+        "image_url": "https://s1.elespanol.com/2024/12/10/reportajes/907669865_251560506_1706x960.png?contentId=ESPIMA20241210_0641",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241211/kira-suicido-anos-bullying-ahora-padre-logra-caso-vuelva-juicio-maltrato-docente/907659637_0.html",
+        "date": "2024-12-11 02:14:05",
+        "sentiment_score": -0.8726721974089742
+    },
+    {
+        "title": "Pipo, el perro 'salvavidas' de un niño de 13 años: puede detectar ataques epilépticos con 20 minutos de antelación",
+        "image_url": "https://s1.elespanol.com/2024/12/10/reportajes/907669965_251563764_1706x1280.png?contentId=ESPIMA20241210_0741",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241211/pipo-perro-salvavidas-nino-anos-puede-detectar-ataques-epilepticos-minutos-antelacion/907659734_0.html",
+        "date": "2024-12-11 02:14:01",
+        "sentiment_score": -0.6149215772747993
+    },
+    {
+        "title": "Uviéu, una de les trés ciudaes más segures d'Europa: namás estes dos lleguen al so nivel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/884c57e9-7db5-4b33-9533-4c5d56d86660_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/12/11/uvieu-les-tres-ciudaes-segures-112504046.html",
+        "date": "2024-12-11 02:01:01",
+        "sentiment_score": -0.2422105222940445
+    },
+    {
+        "title": "¿Hito o fracaso? La verdad sobre la política \"social\" de Franco de vivienda protegida y barata",
+        "image_url": "https://s1.elespanol.com/2024/12/10/historia/907669814_251558960_1706x960.jpg?contentId=ESPIMA20241210_0590",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20241211/hito-fracaso-verdad-politica-social-franco-vivienda-protegida-barata/907659359_0.html",
+        "date": "2024-12-11 02:00:18",
+        "sentiment_score": -0.8974837381392717
+    },
+    {
+        "title": "Vuelve Zourab Tchokotua: Así operaba 'el príncipe' entre Juan Carlos I y sus amantes",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2024-12-10-a-las-171815_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/vuelve-principe-zourab-tchokotua-asi-operaba-juan-carlos-y-sus-amantes",
+        "date": "2024-12-11 01:00:00",
+        "sentiment_score": 0.004420414566993713
     }
 ];
