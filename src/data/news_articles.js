@@ -10,16 +10,6 @@ export default [
         "sentiment_score": -0.11886195838451385
     },
     {
-        "title": "Alcobendas avanza",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/08/ZONAEMPRESARIALALCOBENDAS-2-RlFn6QZFeNsGRSBlMbit8CJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/alcobendas-avanza-20241208195808-nt.html",
-        "date": "2024-12-08 10:35:04",
-        "sentiment_score": 0.2445519119501114
-    },
-    {
         "title": "El juez envía a prisión al capitán de la Guardia Civil vinculado a una trama de narcotráfico y a otros tres detenidos",
         "image_url": "https://imagenes.elpais.com/resizer/v2/KWEUPDUWIZA4ROPU3GCCMZ3YDM.jpg?auth=92843b276a377fc0dbea45927e4fe52a6d014a1ac34fbdb6b08bbbf226371335",
         "tags": [
@@ -6220,5 +6210,322 @@ export default [
         "link": "https://es.ara.cat/deportes/fc-barcelona/heroe-inesperado-sale-banquillo-apuntes-caliente-dortmund-barca_1_5228437.html",
         "date": "2024-12-11 21:55:02",
         "sentiment_score": 0.8203076720237732
+    },
+    {
+        "title": "La inflación en Argentina se desacelera y Milei anuncia que buscará tratado de comercio con Estados Unidos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184862455-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "argentina noticias",
+            "javier milei",
+            "argentina",
+            "inflación",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inflacion-argentina-desacelera-tratado-comercio-estados-unidos-panorama-mundial-tv-fast/",
+        "date": "2024-12-12 02:05:39",
+        "sentiment_score": -0.12259656190872192
+    },
+    {
+        "title": "¿Santa Claus y uno de sus elfos en Londres? Así fue su divertida visita a un acuario",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/21194349-santa-claus-acuario-londres-00-00-29-05-still003.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "santa claus",
+            "videos digitales",
+            "xpress",
+            "fast – news variety",
+            "londres",
+            "navidad"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/santa-claus-y-elfo-buceando-acuario-de-londres-orix/",
+        "date": "2024-12-12 01:06:47",
+        "sentiment_score": 0.1762762814760208
+    },
+    {
+        "title": "Hay nueva evidencia que relaciona a Luigi Mangione con el asesinato de Brian Thompson",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188685037.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "luigi mangione"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luigi-mangione-thompson-asesinato-evidencias-dusa-tv/",
+        "date": "2024-12-12 00:35:48",
+        "sentiment_score": -0.3589090220630169
+    },
+    {
+        "title": "Recorrido por las noticias de América Latina del 11 de diciembre en CNN en Español",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187924452.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "xpress",
+            "noticias de latinoamérica",
+            "fast – news briefs"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/recorrido-america-latina-11-diciembre-2024-cnnee-perspectivas-mexico-fast/",
+        "date": "2024-12-12 00:35:00",
+        "sentiment_score": -0.4795031435787678
+    },
+    {
+        "title": "Claudia Sheinbaum es la cuarta mujer más poderosa del mundo, según Forbes",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175929692.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "mujeres",
+            "méxico",
+            "xpress",
+            "fast – news variety",
+            "claudia sheinbaum",
+            "lista forbes"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-cuarta-mujer-mas-poderosa-mundo-forbes-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-12 00:31:10",
+        "sentiment_score": 0.7242929078638554
+    },
+    {
+        "title": "Trump quiere acabar con la ciudadanía por nacimiento, ¿podría lograrlo?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1995667046-20241212002633256.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "noticias de donald trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/enmienda-catorce-trump-constitucion-dusa-tv/",
+        "date": "2024-12-12 00:27:29",
+        "sentiment_score": -0.7015353627502918
+    },
+    {
+        "title": "Así reaccionó Sheinbaum a la nominación de Ronald Johnson como nuevo embajador de EE.UU. en México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "embajador",
+            "méxico",
+            "xpress",
+            "fast – news variety",
+            "noticias de donald trump",
+            "claudia sheinbaum"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-reacciona-nominacion-johnson-embajador-eeuu-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-12 00:27:13",
+        "sentiment_score": -0.0367036908864975
+    },
+    {
+        "title": "La preocupación continúa entre inmigrantes por la deportación masiva que prometió Trump",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-634417434.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "noticias de donald trump",
+            "deportaciones"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-biden-deportacion-masiva-dusa-tv/",
+        "date": "2024-12-12 00:19:07",
+        "sentiment_score": 0.20109254121780396
+    },
+    {
+        "title": "Director del FBI anuncia que planea renunciar a su cargo",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2162696423.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/chris-wray-renunciara-al-fbi-dusa-tv-fast/",
+        "date": "2024-12-11 23:01:47",
+        "sentiment_score": -0.22113342583179474
+    },
+    {
+        "title": "El abrigo de Bernardito",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/12/paco-velez-nuncio-RK4GD1wQcULympEzrr4G50M-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-abrigo-bernardito-20241212234837-nts.html",
+        "date": "2024-12-11 22:49:13",
+        "sentiment_score": -0.03659290075302124
+    },
+    {
+        "title": "Manuel Carrasco cuenta en ‘La Revuelta’ que tiene que pagar casi 400.000 euros en multas por sus conciertos del Bernabéu",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TISO4LB23JBTTKBSUIROUWEZEI.jpg?auth=0cf4d535c4771b62bcb5d57e3c04348957a2aa52ff98a46691239eb1330993a9&width=1200",
+        "tags": [
+            "estadio santiago bernabéu",
+            "comunidad de madrid",
+            "denuncias",
+            "madrid",
+            "vecinos",
+            "multas"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-11/manuel-carrasco-cuenta-en-la-revuelta-que-tiene-que-pagar-casi-400000-euros-en-multas-por-sus-conciertos-del-bernabeu.html",
+        "date": "2024-12-11 23:23:10",
+        "sentiment_score": -0.1881074458360672
+    },
+    {
+        "title": "Las primeras infidelidades de Juan Carlos I a Sofía de Grecia: Sus cacerías y salidas",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/juan-carlos-y-sofia-portada_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/infidelidades-rey-juan-carlos-sofia-grecia-primeros-escandalos",
+        "date": "2024-12-12 02:00:00",
+        "sentiment_score": -0.4730444699525833
+    },
+    {
+        "title": "Máximos honores para el Rey en Italia mientras impulsa \"la voz del Mediterráneo\" para liderar Europa",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/af346aa422a63ef1acb24320c0082eaa/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/11/17339408033085.jpg",
+        "tags": [
+            "casa real",
+            "reina letizia",
+            "felipe vi",
+            "artículos marina pina"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/12/12/6759d17afc6c83e33f8b4574.html",
+        "date": "2024-12-12 01:41:18",
+        "sentiment_score": -0.13568948209285736
+    },
+    {
+        "title": "Luis García, el bombero que salvó la vida a 33 personas en la DANA tras desobedecer a sus jefes: \"Había una niña de 3 años\"",
+        "image_url": "https://s1.elespanol.com/2024/12/11/reportajes/907920122_251597488_1706x960.jpg?contentId=ESPIMA20241211_0923",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241212/luis-garcia-bombero-salvo-vida-personas-dana-desobedecer-jefes-nina-anos/907909575_0.html",
+        "date": "2024-12-12 01:34:47",
+        "sentiment_score": -0.5691905245184898
+    },
+    {
+        "title": "El presidente del TC, la presidenta del Supremo y la presidenta de Madrid arropan a El Español en los Leones de su liderazgo absoluto",
+        "image_url": "https://s1.elespanol.com/2024/12/11/eventos/2024/9-aniversario/907920499_251608772_1706x960.jpg?contentId=ESPIMA20241211_1300",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/eventos/2024/9-aniversario/20241212/presidente-tc-presidenta-supremo-madrid-arropan-espanol-leones-liderazgo-absoluto/907909594_0.html",
+        "date": "2024-12-12 01:34:45",
+        "sentiment_score": 0.18281486630439758
+    },
+    {
+        "title": "Un rugido en defensa de la independencia judicial",
+        "image_url": "https://s1.elespanol.com/2024/12/11/opinion/tribunas/907920270_251602069_1706x960.jpg?contentId=ESPIMA20241211_1071",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20241212/rugido-defensa-independencia-judicial/907909757_0.html",
+        "date": "2024-12-12 01:34:16",
+        "sentiment_score": 0.033423181623220444
+    },
+    {
+        "title": "Albero Capital hace sus tres primeras operaciones: un edificio de oficinas en Madrid y dos locales en Alicante por 10M",
+        "image_url": "https://s1.elespanol.com/2024/12/11/invertia/empresas/inmobiliario/907920141_251598093_1706x960.jpg?contentId=ESPIMA20241211_0942",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/inmobiliario/20241212/albero-capital-hace-primeras-operaciones-edificio-oficinas-madrid-locales-alicante/907909714_0.html",
+        "date": "2024-12-12 01:18:36",
+        "sentiment_score": 0.4312775246798992
+    },
+    {
+        "title": "Los mejores planes con niños este fin de semana en Madrid: magia, literatura y experiencias interactivas",
+        "image_url": "https://s1.elespanol.com/2024/12/09/madrid/ocio/907419839_251532082_1706x960.jpg?contentId=ESPIMA20241209_0590",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241212/mejores-planes-ninos-fin-semana-madrid-magia-literatura-experiencias-interactivas/907409672_0.html",
+        "date": "2024-12-12 01:03:55",
+        "sentiment_score": 0.8254785947501659
+    },
+    {
+        "title": "El restaurante de Majadahonda recomendado por la Guía Repsol con un menú de 17€: \"Hacemos casi de psicólogos\"",
+        "image_url": "https://s1.elespanol.com/2024/12/11/madrid/ocio/907920168_251598926_1706x960.jpg?contentId=ESPIMA20241211_0969",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241212/restaurante-majadahonda-recomendado-guia-repsol-menu-hacemos-psicologos/907659404_0.html",
+        "date": "2024-12-12 01:03:54",
+        "sentiment_score": 0.753554105758667
+    },
+    {
+        "title": "Pasión y drama de los judíos que lucharon por la República: \"En España me convertí en un ser humano\"",
+        "image_url": "https://s1.elespanol.com/2024/12/11/historia/907920092_251596486_1706x960.jpg?contentId=ESPIMA20241211_0893",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20241212/pasion-drama-judios-lucharon-republica-espana-converti-humano/907909442_0.html",
+        "date": "2024-12-12 00:52:33",
+        "sentiment_score": -0.7381040826439857
+    },
+    {
+        "title": "El Barça de las dos caras: enchufado en la Champions y desconectado en la Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/12/culemania/primer-equipo/908169187_13852795_1706x960.jpg?contentId=ESPIMA20241212_0013",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241212/el-barca-en-la-champions-desconectado-liga/908159179_0.html",
+        "date": "2024-12-12 00:51:44",
+        "sentiment_score": 0.6668615713715553
+    },
+    {
+        "title": "Una banda armada mata al menos a veinte personas en Haití",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/59e2e24c-36f1-4aab-8d63-3a5900c4a313_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/mundo/2024/12/12/banda-armada-mata-veinte-personas-112542975.html",
+        "date": "2024-12-12 02:00:29",
+        "sentiment_score": -0.8671950111165643
+    },
+    {
+        "title": "¿Tu pelo se ensucia con facilidad o se encrespa más de la cuenta? La culpa puede ser del agua, palabra de peluquero",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/cf074a3a59a2507355da48480b1de665/crop/174x0/2898x2043/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/10/17338234938192.jpg",
+        "tags": [
+            "yodona",
+            "belleza",
+            "pelo",
+            "artículos marta sotillo"
+        ],
+        "link": "https://www.elmundo.es/yodona/belleza/2024/12/12/6757f605fdddffb8538b459b.html",
+        "date": "2024-12-12 01:41:26",
+        "sentiment_score": -0.8771502180024981
+    },
+    {
+        "title": "El Barça de Hansi Flick y Lamine Yamal, el mejor desde Leo Messi en la Champions",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/12/culemania/primer-equipo/908169181_13852613_1706x960.jpg?contentId=ESPIMA20241212_0007",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241212/barca-hansi-flick-lamine-yamal-messi-champions/907909319_0.html",
+        "date": "2024-12-12 00:51:32",
+        "sentiment_score": 0.6270798072218895
+    },
+    {
+        "title": "La cultura de Urtasun",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/10/31/65416126b6574.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241212/cultura-urtasun_252576.html",
+        "date": "2024-12-12 00:30:00",
+        "sentiment_score": -0.24927882850170135
+    },
+    {
+        "title": "Mis biznietos",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241212/mis-biznietos_252523.html",
+        "date": "2024-12-12 00:30:00",
+        "sentiment_score": -0.16401532292366028
+    },
+    {
+        "title": "Tarjeta amarilla: Pau Cubarsí",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/12/culemania/primer-equipo/908169185_13852729_1706x960.png?contentId=ESPIMA20241212_0011",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241212/tarjeta-amarilla-pau-cubarsi/908159178_0.html",
+        "date": "2024-12-12 00:07:25",
+        "sentiment_score": -0.9188381889835
+    },
+    {
+        "title": "Grant Dalton, ese pirata",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/10/11/pensamiento/zona-franca/801180125_8969059_1706x960.jpg?contentId=ESPIMA20231011_0251",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20241212/grant-dalton-ese-pirata/908039190_13.html",
+        "date": "2024-12-12 00:04:15",
+        "sentiment_score": -0.1835782676935196
     }
 ];
