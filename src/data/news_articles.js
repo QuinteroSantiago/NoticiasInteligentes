@@ -1,209 +1,5 @@
 export default [
     {
-        "title": "La vida y carrera política de Bashar al-Assad",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-397878-130828203339-28-assad-chronicled-horizontal-large-gallery.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "bashar al-assad",
-            "siria",
-            "vida"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/08/vida-carrera-presidente-de-siria-bashar-al-assad-trax/",
-        "date": "2024-12-08 05:31:51",
-        "sentiment_score": -0.8256109114736319
-    },
-    {
-        "title": "La memoria y el vacío",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/E6BTCEWZXFCHNC4CO4QW5FEAW4.jpg?auth=a729a38f45df6fc2077648ed17f4ed9f1d58e8354250124e4b923a9194084028&width=1200",
-        "tags": [
-            "dictadura",
-            "comunidad valenciana",
-            "borges",
-            "valencia",
-            "franquismo"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-08/la-memoria-y-el-vacio.html",
-        "date": "2024-12-08 06:06:01",
-        "sentiment_score": -0.7394021358340979
-    },
-    {
-        "title": "'1936' y el exceso",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/06/escena-de-1936.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/1936-exceso.html",
-        "date": "2024-12-08 06:24:30",
-        "sentiment_score": -0.6181703805923462
-    },
-    {
-        "title": "Los presidentes autonómicos del PP contemplan un acuerdo en Vivienda con Sánchez: \"Lo demás es inviable\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9bb85534-c136-4096-ae3c-f0a46b128aac_16-9-aspect-ratio_default_1342815.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/espana/2024/12/08/ccaa-pp-contemplan-acuerdo-vivienda-conferencia-presidentes-112423332.html",
-        "date": "2024-12-08 06:16:55",
-        "sentiment_score": -0.5056071057915688
-    },
-    {
-        "title": "Real Madrid-Unicaja: el líder visita a un campeón en apuros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/339df62e-cd0d-4a5d-89c6-311da89bec65_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2024/12/08/real-madrid-unicaja-lider-visita-wizink-previa-liga-endesa-112412528.html",
-        "date": "2024-12-08 06:01:11",
-        "sentiment_score": -0.7935496494174004
-    },
-    {
-        "title": "El fútbol, en busca de modelos de éxito",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/opinion/2024/12/08/futbol-busca-modelos-exito-112412353.html",
-        "date": "2024-12-08 06:01:08",
-        "sentiment_score": -0.5063875913619995
-    },
-    {
-        "title": "De las 800.000 hipotecas con cláusulas suelo a los 2,5 millones de estafas online: los abogados de consumo encienden las alertas",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2024/12/mesa-redonda-ribon-y-alicia-visitacion.jpg",
-        "tags": [
-            "znoticia portada2",
-            "legislación",
-            "app",
-            "artículos",
-            "ciberdelincuencia",
-            "estafas online",
-            "derecho de consumo",
-            "actualidad"
-        ],
-        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/de-las-800-000-hipotecas-con-clausulas-suelo-a-los-25-millones-de-estafas-online-los-abogados-de-consumo-encienden-las-alertas/",
-        "date": "2024-12-08 06:00:48",
-        "sentiment_score": -0.7906937170773745
-    },
-    {
-        "title": "Rufino Blanco-Fombona y la Editorial América",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "papel literario"
-        ],
-        "link": "https://www.elnacional.com/papel-literario/rufino-blanco-fombona-y-la-editorial-america/",
-        "date": "2024-12-08 06:00:09",
-        "sentiment_score": -0.08456091582775116
-    },
-    {
-        "title": "La Escuela de UAS del Ejército del Aire y del Espacio, ubicada en Matacán: referente en la enseñanza militar de la OTAN",
-        "image_url": "https://s1.elespanol.com/2024/11/30/castilla-y-leon/region/salamanca/905169562_251326059_1706x960.jpg?contentId=ESPIMA20241130_0088",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20241208/escuela-uas-ejercito-aire-espacio-ubicada-matacan-referente-ensenanza-militar-otan/903409758_0.html",
-        "date": "2024-12-08 06:00:00",
-        "sentiment_score": 0.03911525011062622
-    },
-    {
-        "title": "Condenados todos los implicados en una trama de contratos falsos",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1134407",
-        "date": "2024-12-08 06:21:47",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "«L’Amic de les Arts», la revista con la que Cataluña quiso ser moderna",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2024/12/07/85E73D78-6477-4327-AED5-E62DA911411E/redaccion-lamic-les-arts-recibiendo-lorca-estacion-sitges-1927_96.jpg?crop=1877%2C1056%2Cx0%2Cy22&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/lamic-les-arts-revista-que-cataluna-quiso-ser-moderna_2024120867553a9d85d24c0001d31553.html",
-        "date": "2024-12-08 06:20:13",
-        "sentiment_score": -0.005911193788051605
-    },
-    {
-        "title": "La mirada de Lluís Real",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3107053.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.menorca.info/opinion/blogs/2024/12/08/2288049/mirada-lluis-real.html",
-        "date": "2024-12-08 06:03:00",
-        "sentiment_score": -0.2199404388666153
-    },
-    {
-        "title": "La congestión del patrimonio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f63e3f29-b273-4af3-b5d7-87ac94d4bb7d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres/opinion/2024/12/08/congestion-patrimonio-112415751.html",
-        "date": "2024-12-08 06:02:38",
-        "sentiment_score": -0.07998156547546387
-    },
-    {
-        "title": "Sevilla tiene ganas de más y se prepara para hacer historia en la Magna",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/656d8669-e734-4e1c-bfc2-20c1ea5c2d95_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreoweb.es/semana-santa/2024/12/08/sevilla-ganas-prepara-historia-magna-112420031.html",
-        "date": "2024-12-08 06:01:17",
-        "sentiment_score": 0.18351209163665771
-    },
-    {
-        "title": "«Voy a aprovechar el parón para actuar, pintar y ejercer de terapeuta»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fe789113-be72-49df-b2d6-bd9834f09c0a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2024/12/08/zenet-aprovechar-paron-actuar-pintar-112405402.html",
-        "date": "2024-12-08 06:01:01",
-        "sentiment_score": -0.0428624153137207
-    },
-    {
-        "title": "\"En la Marina de València tenemos casa por 30.000 euros\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/821bbef0-7da9-4972-8248-2c19fd9905c9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia/2024/12/08/marina-valencia-casa-30-000-112386678.html",
-        "date": "2024-12-08 06:00:55",
-        "sentiment_score": -0.08244247734546661
-    },
-    {
-        "title": "Jordi Bernabeu: \"No hay evidencias de la adicción a internet; ya veremos más adelante\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4ce9e90b-680d-45d0-b248-90c060059826_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241208/jordi-bernabeu-evidencias-adiccion-internet-pantallas-moviles-112396317",
-        "date": "2024-12-08 06:00:38",
-        "sentiment_score": -0.14477437734603882
-    },
-    {
-        "title": "Villajovita explota ante su total aislamiento",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1134346",
-        "date": "2024-12-08 06:00:09",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "La distancia a las grandes ciudades influye en el teletrabajo, pero no de la forma que pensabas",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2024/07/distancia-influye-teletrabajo-encuesta-confirma-definitivamente-3710496.jpg?tf=1200x",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.businessinsider.es/estilo-vida/distancia-grandes-ciudades-influye-teletrabajo-pero-no-forma-pensabas-1395301",
-        "date": "2024-12-08 06:00:06",
-        "sentiment_score": -0.08022237569093704
-    },
-    {
         "title": "El Baaz, el partido de los Assad, más de medio siglo de represión en Siria",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/08/Assad.JPG",
         "tags": [
@@ -222,36 +18,6 @@ export default [
         "link": "https://www.abc.es/economia/alcobendas-avanza-20241208195808-nt.html",
         "date": "2024-12-08 10:35:04",
         "sentiment_score": 0.2445519119501114
-    },
-    {
-        "title": "Las Rozas despega al futuro como polo de innovación, talento e inversión",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/08/LasRozas_Puente_Navalcarbo%CC%81n-RN0eTCXRaS0wRhsvrQ9ctkI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/rozas-despega-futuro-polo-innovacion-talento-inversion-20241208201913-nt.html",
-        "date": "2024-12-08 10:14:24",
-        "sentiment_score": 0.1863224357366562
-    },
-    {
-        "title": "Madrid perfecciona su receta de confianza y colaboración público-privada para atraer los focos de la inversión global",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/08/cuatrotorres-RyeeY1JAdZ9E6mmF75L7ghM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/madrid-perfecciona-receta-confianza-colaboracion-publicoprivada-atraer-20241208141339-nt.html",
-        "date": "2024-12-08 10:10:58",
-        "sentiment_score": 0.008862704038619995
-    },
-    {
-        "title": "Magna",
-        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2024/12/03/avecinaok-k0TB--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-magna-20241208080752-nts.html",
-        "date": "2024-12-08 07:07:53",
-        "sentiment_score": -0.018946975469589233
     },
     {
         "title": "El juez envía a prisión al capitán de la Guardia Civil vinculado a una trama de narcotráfico y a otros tres detenidos",
@@ -311,33 +77,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-08/ser-mujer-en-barcelona-mas-pobres-mas-solas-y-peor-pagadas-que-los-hombres.html",
         "date": "2024-12-08 14:47:19",
         "sentiment_score": -0.2529919072985649
-    },
-    {
-        "title": "La Aemet activa el aviso rojo por nieve en Aragón, Asturias, Castilla y León, Cataluña y Navarra",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TGLGTAJXWZDUNJA7XXY37QXQ2Y.jpg?auth=1257eb3f5ba4191056751cec2ddc856cad7a19f0d151fbc7ec293d8fad670783&width=1200",
-        "tags": [
-            "frío",
-            "temperaturas máximas",
-            "bajas temperaturas",
-            "navarra",
-            "españa",
-            "aragón",
-            "temperaturas mínimas",
-            "principado de asturias",
-            "lluvia",
-            "meteorología",
-            "castilla y león",
-            "aemet",
-            "nieve",
-            "temperaturas",
-            "predicción meteorológica",
-            "cataluña",
-            "el tiempo",
-            "viento"
-        ],
-        "link": "https://elpais.com/espana/2024-12-08/la-aemet-activa-el-aviso-rojo-por-nieve-en-aragon-asturias-castilla-y-leon-cataluna-y-navarra.html",
-        "date": "2024-12-08 10:13:35",
-        "sentiment_score": 0.09750746190547943
     },
     {
         "title": "Este es el plan semanal del Recre antes de visitar al Real Madrid Castilla",
@@ -5921,5 +5660,565 @@ export default [
         "link": "https://www.elconfidencial.com/empresas/2024-12-11/gifols-bonos-aplaza-vencimientos-deuda-2027_4021686/",
         "date": "2024-12-11 16:59:00",
         "sentiment_score": 0.13104023039340973
+    },
+    {
+        "title": "Videos parecen mostrar una fábrica de la droga captagon descubierta en Siria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "siria",
+            "drogas",
+            "bashar al-assad",
+            "instanoticias",
+            "medio oriente"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/videos-fabrica-captagon-siria-ush-trax/",
+        "date": "2024-12-11 22:06:53",
+        "sentiment_score": -0.6249491423368454
+    },
+    {
+        "title": "Cómo no subir de peso durante las fiestas de fin de año",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/52118103-67689558-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "navidad",
+            "comida",
+            "noticias de salud",
+            "xpress",
+            "año nuevo"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-no-subir-peso-fiestas-fin-de-ano-minuto-salud-fast/",
+        "date": "2024-12-11 21:22:36",
+        "sentiment_score": 0.0680876225233078
+    },
+    {
+        "title": "6 países de Europa elegidos por expatriados estadounidenses",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21193338-639-402-still.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "eeuu",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/europa-paises-elegidos-expatriados-estadounidenses-redaccion-buenos-aires-tv/",
+        "date": "2024-12-11 20:30:59",
+        "sentiment_score": 0.29497963190078735
+    },
+    {
+        "title": "Una mirada a la adinerada familia del presunto asesino del CEO de UnitedHealthcare",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-12-09-at-2-26-01-pm-20241211200405933.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "asesinato",
+            "crimen",
+            "noticias de ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mangione-origen-privilegio-riqueza-familia-unitedhealthcare-ush-trax/",
+        "date": "2024-12-11 20:14:36",
+        "sentiment_score": -0.679870817810297
+    },
+    {
+        "title": "Carteles de \"se busca\" de varios CEO aparecen en Nueva York",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/carteles-se-busca-ceo-asesinato-nueva-york-ush-trax/",
+        "date": "2024-12-11 20:06:06",
+        "sentiment_score": -0.7930366937071085
+    },
+    {
+        "title": "Un dron muestra las consecuencias de los ataques israelíes en Siria",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/israelsyriastrikes-thumb1-20241211190948980.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "fast – news variety",
+            "bashar al-assad",
+            "israel noticias",
+            "medio oriente",
+            "xpress",
+            "siria"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dron-ataques-israel-siria-fdi-damasco-alto-golan-assad-trax/",
+        "date": "2024-12-11 19:11:30",
+        "sentiment_score": -0.7678178735077381
+    },
+    {
+        "title": "Israel dice que golpea arsenales de armas en Siria en casi 500 ataques aéreos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1741519506-1.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "ataque de israel",
+            "medio oriente",
+            "ataques a siria",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-500-ataques-siria-redaccion-buenos-aires-tv-fast/",
+        "date": "2024-12-11 18:55:01",
+        "sentiment_score": -0.46799617260694504
+    },
+    {
+        "title": "“Simplemente no me parece bien”: el abogado de Luigi Mangione afirma que personas ofrecen pagar las facturas de su cliente",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-h-20241211021557450.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "noticias de ee.uu.",
+            "manhattan",
+            "xpress",
+            "asesinato",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/abogado-luigi-mangione-fianza-redaccion-buenos-aires-tv-fast/",
+        "date": "2024-12-11 18:33:18",
+        "sentiment_score": -0.45615723729133606
+    },
+    {
+        "title": "“Como un soplete\": incendio Franklin arrasa vegetación y casas en Malibu",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-malibu.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/destruccion-incendio-franklin-malibu-ush-orix/",
+        "date": "2024-12-11 17:52:25",
+        "sentiment_score": -0.8314356710761786
+    },
+    {
+        "title": "Setefilla",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/11/entrada-kW7F--170x119@El%20Norte.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-setefilla-20241212221659-nts.html",
+        "date": "2024-12-11 21:17:48",
+        "sentiment_score": -0.01969054341316223
+    },
+    {
+        "title": "WhatsApp deja de funcionar en estos móviles a partir de diciembre: atento si tienes uno de estos modelos Android o iPhone",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/11/whatsapp-2-kzhE-U6034795250520uC-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/moviles/whatsapp-deja-funcionar-moviles-partir-diciembre-atento-20241211210940-nt.html",
+        "date": "2024-12-11 20:09:40",
+        "sentiment_score": -0.022274672985076904
+    },
+    {
+        "title": "Whatsapp, Instagram y Facebook sufren una caída a nivel mundial",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/11/whatsapp-kJeD-U603479407954uZE-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/redes/whatsapp-instagram-facebook-sufren-caida-nivel-mundial-20241211202800-nt.html",
+        "date": "2024-12-11 19:32:42",
+        "sentiment_score": -0.7092588674277067
+    },
+    {
+        "title": "Los despropósitos del CNIO",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/12/08/pensiones-kfrE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-despropositos-cnio-20241212202934-nt.html",
+        "date": "2024-12-11 19:31:17",
+        "sentiment_score": -0.0815545916557312
+    },
+    {
+        "title": "Argentina, año 1 de Milei",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/11/1489557890-RNygx8HE0gFWSn9vEeOWfjN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-argentina-ano-milei-20241211201815-nt.html",
+        "date": "2024-12-11 19:18:16",
+        "sentiment_score": -0.07969629764556885
+    },
+    {
+        "title": "El Supremo obliga a las casas móviles a tener licencia urbanística",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/11/mobile-home-kipE-U603478545436JXH-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/supremo-obliga-casas-moviles-tener-licencia-urbanistica-20241211200544-nt.html",
+        "date": "2024-12-11 19:07:19",
+        "sentiment_score": -0.06770391762256622
+    },
+    {
+        "title": "Cartas marcadas",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/11/entrada-kW7F--170x119@El%20Norte.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-cartas-marcadas-20241212193400-nt.html",
+        "date": "2024-12-11 18:34:09",
+        "sentiment_score": -0.08423817157745361
+    },
+    {
+        "title": "La culpa es de Peppa Pig",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/09/muerte-restaurante-oviedo-U230128766609gqE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alberto-garcia-reyes-culpa-peppa-pig-20241212193344-nt.html",
+        "date": "2024-12-11 18:33:55",
+        "sentiment_score": -0.1320209801197052
+    },
+    {
+        "title": "Año del menosprecio a la Transición",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/09/muerte-restaurante-oviedo-U230128766609gqE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-ano-menosprecio-transicion-20241212193329-nt.html",
+        "date": "2024-12-11 18:33:39",
+        "sentiment_score": -0.03780943155288696
+    },
+    {
+        "title": "No hay yihadismo homologable",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/12/10/redees-sociales-k92G--170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/agustin-pery-yihadismo-homologable-20241212193314-nt.html",
+        "date": "2024-12-11 18:33:14",
+        "sentiment_score": -0.16220691800117493
+    },
+    {
+        "title": "La candidatura descabalgada para liderar ERC descarta pedir sus votos para Junqueras o Godàs",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RQC42RFD2NAH3HFBOIHTJEIKK4.jpg?auth=faa664a5bd89dd877e6660a61a3e840b6876ab012c2b003c7e468e04996472bf&width=1200",
+        "tags": [
+            "cataluña",
+            "oriol junqueras",
+            "erc",
+            "partidos políticos",
+            "marta rovira i vergés",
+            "congresos políticos"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-11/la-candidatura-descabalgada-para-liderar-erc-descarta-endosar-sus-votos-a-junqueras-o-godas.html",
+        "date": "2024-12-11 21:52:33",
+        "sentiment_score": -0.744313195347786
+    },
+    {
+        "title": "Daltonismo judicial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YKID6RA365G5TAAWNSE4SJJWX4.jpg?auth=77155655ad46c6711fa2dde262e037474bb1cd3482ced4255135bfce804572f6&width=1200",
+        "tags": [
+            "poder judicial",
+            "pp",
+            "jueces",
+            "gobierno",
+            "justicia",
+            "constitución",
+            "política",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/daltonismo-judicial.html",
+        "date": "2024-12-11 20:21:14",
+        "sentiment_score": -0.8842585496604443
+    },
+    {
+        "title": "El desembarco de Óscar López en Madrid: “Hay que remontar, y él es un miura”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/B7UX3KK2H5GMFOKLS2W2RFSG34.jpg?auth=c0aa85d116c4c786f53f1162cc7a8d2fd35cb585ee827065241b0bf742a27bd3&width=1200",
+        "tags": [
+            "pp madrid",
+            "óscar lópez",
+            "psoe",
+            "isabel díaz ayuso",
+            "gobierno comunidad de madrid",
+            "comunidad de madrid",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-11/el-desembarco-de-oscar-lopez-en-madrid-hay-que-remontar-y-el-es-un-miura.html",
+        "date": "2024-12-11 20:06:49",
+        "sentiment_score": -0.13599015772342682
+    },
+    {
+        "title": "Puente despliega datos sobre su gestión de la dana frente a las acusaciones de corrupción del PP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QQCM43W4GM3MDXCUGMVKJAOS5U.jpg?auth=acae3998eadfde47a07e3ac579193d02e296eb327d121c7b5689139d82c3b795&width=1200",
+        "tags": [
+            "carlos mazón",
+            "gobierno",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "barrancos",
+            "congreso diputados",
+            "catástrofes",
+            "españa",
+            "riadas",
+            "comunidad valenciana",
+            "debates parlamentarios",
+            "óscar puente santiago"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/puente-despliega-datos-sobre-su-gestion-de-la-dana-frente-a-las-acusaciones-de-corrupcion-del-pp.html",
+        "date": "2024-12-11 19:05:15",
+        "sentiment_score": -0.7422860879451036
+    },
+    {
+        "title": "Puente afirma que 18 de las 37 obras denunciadas por Aldama siguen sin licitar y solo seis son de la época de Ábalos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XN4JHUID4OGGAQ2DLJVOJP6GDU.jpg?auth=07d7386aab9a9fbd9897127933c3470b13cb432b3b6e1930b83587750ffa931d&width=1200",
+        "tags": [
+            "justicia",
+            "tribunales",
+            "españa",
+            "construcción",
+            "josé luis ábalos",
+            "corrupción",
+            "psoe",
+            "víctor de aldama"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/puente-afirma-que-18-de-las-37-obras-denunciadas-por-aldama-siguen-sin-licitar-y-solo-seis-son-de-la-epoca-de-abalos.html",
+        "date": "2024-12-11 18:54:34",
+        "sentiment_score": -0.2346494011580944
+    },
+    {
+        "title": "El Gobierno emplaza a los partidos a la próxima semana tras el plantón de Junts y PNV a la mesa para negociar el impuesto energético",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GQJ66Z5RIZRNM3N2YJLVLJQHUY.jpg?auth=b2cd17223319b2a13eb66ca24e45834ceccaa389a905ed36334765deda48ef71&width=1200",
+        "tags": [
+            "erc",
+            "podemos",
+            "bng",
+            "eaj-pnv",
+            "bildu",
+            "españa",
+            "reforma fiscal",
+            "juntsxcat",
+            "impuestos",
+            "congreso diputados",
+            "psoe",
+            "ione belarra"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/el-gobierno-emplaza-a-los-partidos-a-la-proxima-semana-tras-el-planton-de-junts-y-pnv-a-la-mesa-para-negociar-el-impuesto-energetico.html",
+        "date": "2024-12-11 18:31:14",
+        "sentiment_score": -0.7287247199565172
+    },
+    {
+        "title": "La Abogacía del Estado defiende la utilidad de la amnistía para “la normalización política” de Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FXRDSKDUJNDZ5HDXKQHCLJQ4WE.jpg?auth=156cc85c33d41e53870d991b62b0aeef0daf30c5e2e2e1514e5921507d7eb136&width=1200",
+        "tags": [
+            "amnistía",
+            "cataluña",
+            "españa",
+            "ley de amnistía",
+            "abogacía general estado",
+            "procés independentista catalán",
+            "pp",
+            "recursos judiciales",
+            "tribunal constitucional"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/la-abogacia-del-estado-defiende-la-utilidad-de-la-amnistia-para-la-normalizacion-politica-de-cataluna.html",
+        "date": "2024-12-11 18:25:32",
+        "sentiment_score": -0.761784628033638
+    },
+    {
+        "title": "Almeida dispara la recaudación por multas de tráfico casi un 50% desde que es alcalde",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CFCB4U6ACFFQ7AULMRO5QN33OA.jpg?auth=0e7e8980730f20ddeb6f56c72a5f77d8381d31fa8f066577911a2690d24ef0d0&width=1200",
+        "tags": [
+            "ayuntamiento madrid",
+            "multas tráfico",
+            "madrid",
+            "comunidad de madrid",
+            "josé luis martínez almeida",
+            "etiqueta ecológica",
+            "zbe",
+            "distrito centro",
+            "multas"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-11/almeida-dispara-la-recaudacion-por-multas-de-trafico-casi-un-50-desde-que-es-alcalde.html",
+        "date": "2024-12-11 18:15:33",
+        "sentiment_score": -0.4561178684234619
+    },
+    {
+        "title": "Vecinos de Huelva se levantan contra la construcción de un centro comercial en uno de sus parques",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6IS4AZRGXNCIZPGW3FIEXMXBHM.jpeg?auth=118b3aa43cb7197d7542e8848f437e9f241fbca34738846b68d9a7a740285fc2&width=1200",
+        "tags": [
+            "parques y jardines",
+            "andalucía",
+            "españa",
+            "huelva",
+            "sociedad",
+            "medio ambiente",
+            "asociaciones vecinos",
+            "urbanismo"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-12-11/vecinos-de-huelva-se-levantan-contra-la-construccion-de-un-centro-comercial-en-uno-de-sus-parques.html",
+        "date": "2024-12-11 18:03:02",
+        "sentiment_score": 0.31293514370918274
+    },
+    {
+        "title": "Llaves maestras y pintas de turistas: cae una banda de mujeres dedicadas al robo con fuerza en la costa andaluza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TUGQPLCGGFNNHHSJRUKWOVMSLU.jpg?auth=1ebe3824715efbce6486d6590c24a70a927576187e1d4dceaa04a4592351b450&width=1200",
+        "tags": [
+            "detenciones",
+            "sucesos",
+            "españa",
+            "cádiz",
+            "policía",
+            "granada",
+            "málaga",
+            "robos",
+            "violencia"
+        ],
+        "link": "https://elpais.com/espana/2024-12-11/llaves-maestras-y-pintas-de-turistas-cae-una-banda-de-mujeres-dedicadas-al-robo-con-fuerza-en-la-costa-andaluza.html",
+        "date": "2024-12-11 17:29:51",
+        "sentiment_score": -0.8876420333981514
+    },
+    {
+        "title": "Baraja trata de cerrar fisuras",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d518344d-378b-4735-a129-0ffbf803eec9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2024/12/11/baraja-trata-cerrar-fisuras-112541092.html",
+        "date": "2024-12-11 22:16:53",
+        "sentiment_score": 0.4411024823784828
+    },
+    {
+        "title": "Un doblete Signe Bruun ante el Celtic permite al Real Madrid soñar con el primer puesto en la Champions femenina",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/11/675a0e62f17e0.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/doblete-signe-bruun-celtic-permite-real-madrid-sonar-primer-puesto-champions-femenina-20241211_3061555.html",
+        "date": "2024-12-11 22:14:37",
+        "sentiment_score": -0.07021960616111755
+    },
+    {
+        "title": "El Barça vence 2-3 al Borussia Dortmund y se acerca a los octavos de Champions",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/11/ferran-torres-celebra-uno-de-sus-dos-goles-al-borussia-dortmund.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/barca-vence-2-3-borussia-dortmund-acerca-octavos-champions.html",
+        "date": "2024-12-11 21:56:13",
+        "sentiment_score": 0.8189060352742672
+    },
+    {
+        "title": "Un tiburón desbocado se zampa el Dortmund y abre un debate en la delantera",
+        "image_url": "https://static1.ara.cat/clip/3fe6fbd3-ef49-4347-8e90-fac966349988_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/tiburon-desbocado-zampa-dortmund-abre-debate-delantera_1_5228441.html",
+        "date": "2024-12-11 21:55:04",
+        "sentiment_score": -0.03613203763961792
+    },
+    {
+        "title": "Sánchez reitera a Zelenski el \"firme e intacto\" compromiso de España con Ucrania",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d1de62e7-1ab7-43b6-b95b-99769dd559c7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/nacional/2024/12/11/sanchez-reitera-zelenski-firme-intacto-112540669.html",
+        "date": "2024-12-11 21:43:46",
+        "sentiment_score": 0.057198792695999146
+    },
+    {
+        "title": "Jónsdóttir anota 4 y Wolfsburgo asegura cuartos al aplastar 6-1 a Roma en Liga de Campeonas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/j-nsd-ttir-anota-4-y-wolfsburgo-asegura-cuartos-al-aplastar-6-1-a-roma/article_9bb74c37-ff26-5faa-9a57-105753155110.html",
+        "date": "2024-12-11 21:37:59",
+        "sentiment_score": 0.5110313259065151
+    },
+    {
+        "title": "Jónsdóttir anota 4 y Wolfsburgo asegura cuartos al aplastar 6-1 a Roma en Liga de Campeonas",
+        "image_url": "https://dims.apnews.com/dims4/default/cef1229/2147483647/strip/true/crop/4364x2905+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F22%2F2c04b2378fafde43bbf6aa3f14d2%2Fb40cb97e92794fecb5b4480c8bd76f06",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/liga-campeonas-wolfsburgo-roma-jonsdottir-3e141a58b4b75b5dbbbcc818b91211c4",
+        "date": "2024-12-11 21:37:59",
+        "sentiment_score": 0.3479529023170471
+    },
+    {
+        "title": "Alaska visita ‘El Hormiguero’: de su doble boda con Mario Vaquerizo a su nueva serie documental",
+        "image_url": "https://okdiario.com/look/img/2024/12/11/vuelve-ver-entrevista-completa-alaska-atresplayer_104-224x140.jpg",
+        "tags": [
+            "mario vaquerizo",
+            "actualidad",
+            "alaska"
+        ],
+        "link": "https://okdiario.com/look/actualidad/alaska-visita-hormiguero-doble-boda-mario-vaquerizo-serie-documental-2173231",
+        "date": "2024-12-11 21:30:02",
+        "sentiment_score": 0.5304355323314667
+    },
+    {
+        "title": "Las entradas del partido Deportiva Minera-Real Madrid ya tienen precio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5e91c236-ff6d-452f-83fb-bc174422bedc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2024/12/11/entradas-partido-deportiva-minera-real-112540060.html",
+        "date": "2024-12-11 21:13:12",
+        "sentiment_score": 0.04700189456343651
+    },
+    {
+        "title": "Publicada una edición de ‘Platero y yo’ bilingüe español-guaraní que llegará a Paraguay y Argentina",
+        "image_url": "https://static.grupojoly.com/clip/2c86aa8c-2ac6-4920-817b-df851a2b8b72_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.huelvainformacion.es/huelva/publicada-edicion-platero-bilinguee-espanol_0_2002968965.html",
+        "date": "2024-12-11 20:53:11",
+        "sentiment_score": 0.05038169398903847
+    },
+    {
+        "title": "De La Modelo a IDEAL: el 'avisador' de Santa Cruz",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/12/12/Imagen%20portada-kRJH-U230265425451qBH-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/modelo-ideal-avisador-santa-cruz-20241212231552-nt.html",
+        "date": "2024-12-11 22:15:52",
+        "sentiment_score": -0.03964840620756149
+    },
+    {
+        "title": "First Dates | Programa, en vídeo (11/12/24)",
+        "image_url": "https://album.mediaset.es/eimg/2024/12/10/fd-2022_3c07.jpg?w=1024",
+        "tags": [
+            "televisión a la carta"
+        ],
+        "link": "https://www.cuatro.com/television/a-la-carta/20241211/first-dates-programa-video_18_014250471.html",
+        "date": "2024-12-11 22:10:45",
+        "sentiment_score": 0.20297157764434814
+    },
+    {
+        "title": "Un doblete de Ferran Torres al Dortmund lanza al Barça hacia la clasificación en Champions",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/12/LAMINE-YAMAL-469x317.jpg",
+        "tags": [
+            "lamine yamal",
+            "fc barcelona",
+            "robert lewandowski",
+            "fútbol",
+            "uefa champions league",
+            "borussia dortmund"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2024-12-11/resumen-goles-borussia-dortmund-barcelona-champions/",
+        "date": "2024-12-11 22:07:00",
+        "sentiment_score": 0.6871045753359795
+    },
+    {
+        "title": "El Barça derriba el muro de Dortmund",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2024/12/11/ferran-torres-kZSD-U230264874497ozH-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/deportes/futbol/liga-campeones/barca-derriba-muro-dortmund-20241211230653-ntrc.html",
+        "date": "2024-12-11 22:06:55",
+        "sentiment_score": -0.4553597494959831
+    },
+    {
+        "title": "La opinión sobre el Sporting y el Oviedo: Ya somos mundiales (o casi)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c8f4b60a-30f0-4a42-bb3e-b9ab679dc20d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/deportes/opinion/2024/12/11/opinion-sporting-oviedo-mundiales-o-112540773.html",
+        "date": "2024-12-11 21:58:54",
+        "sentiment_score": -0.34621746838092804
+    },
+    {
+        "title": "El héroe inesperado sale desde el banquillo: los apuntes en caliente del Dortmund-Barça",
+        "image_url": "https://static1.ara.cat/clip/8d4684f4-4a4a-4dfe-b178-e47693f90843_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/heroe-inesperado-sale-banquillo-apuntes-caliente-dortmund-barca_1_5228437.html",
+        "date": "2024-12-11 21:55:02",
+        "sentiment_score": 0.8203076720237732
     }
 ];
