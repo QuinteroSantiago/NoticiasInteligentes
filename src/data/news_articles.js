@@ -80,36 +80,6 @@ export default [
         "sentiment_score": -0.5320363342761993
     },
     {
-        "title": "Arrestan a pasajero que intentó desviar vuelo mexicano a EE.UU.",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244470654.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/pasajero-volaris-desvio-vuelo-cafe-tv/",
-        "date": "2024-12-09 14:08:54",
-        "sentiment_score": -0.6373867988586426
-    },
-    {
-        "title": "Israel se instala en la frontera con Siria y ataca objetivos dentro del país",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188444105.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/israel-siria-franja-de-seguridad-cafe-tv/",
-        "date": "2024-12-09 14:04:37",
-        "sentiment_score": -0.8496169112622738
-    },
-    {
-        "title": "La economía, a un año de la asunción de Javier Milei",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1834985169.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/economia-un-ano-milei-argentina-primera-manana-fast/",
-        "date": "2024-12-09 13:26:26",
-        "sentiment_score": -0.23576537519693375
-    },
-    {
         "title": "La silenciosa huida de los padres de Asma al Assad: de su casa londinense a Moscú",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/09/asma-nueva-RN7yTbAGE74Gv5OdkjGYPUI-1200x840@diario_abc.jpg",
         "tags": [
@@ -168,46 +138,6 @@ export default [
         "link": "https://www.abc.es/economia/espana-necesita-gastar-150830-millones-obra-publica-20241209160950-nt.html",
         "date": "2024-12-09 15:15:17",
         "sentiment_score": -0.025543928146362305
-    },
-    {
-        "title": "Los altos funcionarios exigen a Óscar López que asegure el futuro de Muface: «No permitiremos que se juegue con la salud de 1,5 millones de personas»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/09/Muface-ROMm8j5GZBrgXP13K6BlU9N-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/frente-altos-funcionarios-exigir-renovacion-muface-vamos-20241209140108-nt.html",
-        "date": "2024-12-09 13:51:04",
-        "sentiment_score": -0.13072146475315094
-    },
-    {
-        "title": "Varios hombres fuertes de Trump y magnates digitales se reúnen en la cumbre del bitcóin en Abu Dhabi",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/09/criptotrump-RiWpJXAnrm60X8YZqz0BJQM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/varios-hombres-fuertes-trump-reunen-congreso-criptomonedas-20241209112708-nt.html",
-        "date": "2024-12-09 13:06:14",
-        "sentiment_score": -0.10992202162742615
-    },
-    {
-        "title": "La socimi All Iron refuerza su presencia en Barcelona con la compra de un aparthotel por 35 millones de euros",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/09/ACTIVO-BARCELONA-ALLIRON-RovXt0YlZbiC1p3MUefXjVP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/socimi-all-iron-refuerza-presencia-barcelona-compra-20241209135202-nt.html",
-        "date": "2024-12-09 12:52:03",
-        "sentiment_score": 0.03842094540596008
-    },
-    {
-        "title": "Trump afirma que Zelenski quiere llegar a un acuerdo y pide un alto el fuego «inmediato» en Ucrania",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/09/trump-zelenski-notredame-RQz8wzDoqp9ocorLwzxQcAJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-afirma-zelenski-quiere-llegar-acuerdo-pide-20241209134337-nt.html",
-        "date": "2024-12-09 12:43:37",
-        "sentiment_score": -0.03598460555076599
     },
     {
         "title": "Juicio a un falso ojeador de fútbol por abusar de menores: “Me daba masajes que me hacían sentir incómodo”",
@@ -361,43 +291,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-09/enrique-lopez-recuerda-su-paso-por-el-gobierno-de-ayuso-en-el-examen-para-presidir-la-audiencia-nacional.html",
         "date": "2024-12-09 14:32:56",
         "sentiment_score": 0.016862332820892334
-    },
-    {
-        "title": "Clavijo intenta encajar su pacto migratorio con el PP en el preámbulo de la reforma de la ley de extranjería",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RIMPZ36COJC5JJVQIGH3EQLSDQ.jpg?auth=1a6976e8b53505eca2a88d89c68f7e73d2478ffafd0228a19aa8862b00d0370e&width=1200",
-        "tags": [
-            "menores extranjeros no acompañados",
-            "coalición canaria",
-            "menores migrantes",
-            "ceuta",
-            "canarias",
-            "inmigración irregular españa",
-            "inmigración",
-            "inmigración irregular",
-            "psoe",
-            "gobierno",
-            "españa",
-            "pp",
-            "fernando clavijo"
-        ],
-        "link": "https://elpais.com/espana/2024-12-09/clavijo-intenta-encajar-su-pacto-migratorio-con-el-pp-en-el-preambulo-de-la-reforma-de-la-ley-de-extranjeria.html",
-        "date": "2024-12-09 14:00:54",
-        "sentiment_score": -0.863824593834579
-    },
-    {
-        "title": "Barcelona recupera el proyecto de ampliación de la línea 2 de metro para unir la ciudad con el aeropuerto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VVY5ZMEKDJBKDCLQKNZOEUQ5H4.jpg?auth=3dc43e200e1ae6202df9a2f1f452f323719c238653b8eaca9c92b926de3e82c4&width=1200",
-        "tags": [
-            "barcelona",
-            "metro",
-            "cataluña",
-            "sílvia paneque",
-            "jaume collboni",
-            "aeropuerto el prat"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-09/barcelona-recupera-el-proyecto-de-ampliacion-de-la-linea-2-de-metro-para-unir-la-ciudad-con-el-aeropuerto.html",
-        "date": "2024-12-09 13:27:03",
-        "sentiment_score": 0.05151628702878952
     },
     {
         "title": "Puigdemont y Podemos complican los presupuestos a Sánchez",
@@ -6783,5 +6676,299 @@ export default [
         "link": "https://elmon.cat/societat/gairebe-2-milions-euros-sancions-residencies-gent-gran-any-2023-938737/",
         "date": "2024-12-12 21:00:20",
         "sentiment_score": -0.169171541929245
+    },
+    {
+        "title": "Asesinato de magistrado en Guerrero muestra el nivel violencia del estado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21195143-32792-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/homicidio-magistrado-guerrero-violencia-perspectivas-mexico-tv/",
+        "date": "2024-12-13 02:06:44",
+        "sentiment_score": -0.7539566028863192
+    },
+    {
+        "title": "Gustavo Petro expresa su descontento por rechazo a su reforma tributaria",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2187661884.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "colombia",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gustavo-petro-descontento-rechazo-reforma-fiscal-panorama-mundial-tv-fast/",
+        "date": "2024-12-13 01:56:30",
+        "sentiment_score": -0.9159003561362624
+    },
+    {
+        "title": "Presupuesto 2025 es aprobado por diputados mexicanos sin muchos cambios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21195728-271302-888-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/2025-presupuesto-diputados-claudia-sheinbaum-perspectivas-mexico-tv/",
+        "date": "2024-12-13 01:29:22",
+        "sentiment_score": 0.20740893483161926
+    },
+    {
+        "title": "“Es un término cariñoso”, dice la dueña de este restaurante vegano que “insulta” a sus clientes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/slutty-vegan.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pinky-cole-duena-restaurante-slutty-vegan-trax/",
+        "date": "2024-12-13 01:11:49",
+        "sentiment_score": -0.5004472583532333
+    },
+    {
+        "title": "Reunión entre el alcalde de Nueva York y el designado de Trump para ejecutar deportaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nyc-adams-homan-migrantes-refugio-dusa-tv/",
+        "date": "2024-12-13 00:44:21",
+        "sentiment_score": -0.1481596678495407
+    },
+    {
+        "title": "El alcalde de Nueva York se reunió con el designado de Trump para ejecutar deportaciones masivas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/thumbnaail-eric-adams-migracion.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/alcalde-nueva-york-reunion-designado-trump-deportaciones-directo-usa-tv-fast/",
+        "date": "2024-12-13 00:10:40",
+        "sentiment_score": -0.4492398425936699
+    },
+    {
+        "title": "El misterio de los avistamientos de drones en Nueva Jersey que preocupa a residentes y autoridades",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/drones-nj.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/avistamientos-drones-nueva-jersey-ush-trax/",
+        "date": "2024-12-12 23:20:36",
+        "sentiment_score": -0.6426291577517986
+    },
+    {
+        "title": "El presidente Joe Biden conmuta penas a casi 1.500 personas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/biden-20241212225312676.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biden-perdon-clemencia-penas-record-anuncio-dusa-tv/",
+        "date": "2024-12-12 22:53:59",
+        "sentiment_score": -0.5363688841462135
+    },
+    {
+        "title": "Se incrementa el número de adultos jóvenes con cáncer de colon, según estudio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/image-2-20241212224441795.png",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incremente-numero-adultos-jovenes-cancer-colon-minuto-salud-fast/",
+        "date": "2024-12-12 22:46:38",
+        "sentiment_score": -0.011284172534942627
+    },
+    {
+        "title": "El último rastro el mar",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/13/coontra-RrO3NoPvoPOGPrb5u1s3jgJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ultimo-rastro-mar-20241213012349-nt.html",
+        "date": "2024-12-13 00:24:00",
+        "sentiment_score": -0.07427895069122314
+    },
+    {
+        "title": "Familiares de las víctimas de la Dana registran en el Congreso más de 65.000 firmas pidiendo justicia",
+        "image_url": "https://autonomico.elconfidencialdigital.com/media/elconfidencialautonomico/images/2024/12/13/2024121302321056940.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://autonomico.elconfidencialdigital.com/articulo/madrid/familiares-victimas-dana-registran-congreso-mas-65000-firmas-pidiendo-justicia/20241213023628142558.html",
+        "date": "2024-12-13 01:36:28",
+        "sentiment_score": -0.9055440332740545
+    },
+    {
+        "title": "Ábalos se acoge a la tesis de Sánchez y alega en el TS que es víctima de una \"represalia política\" del PP de Ayuso",
+        "image_url": "https://s1.elespanol.com/2024/12/12/actualidad/908170195_251641690_1706x1280.jpg?contentId=ESPIMA20241212_1021",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20241213/abalos-acoge-tesis-sanchez-alega-ts-victima-represalia-politica-pp-ayuso/908159771_0.html",
+        "date": "2024-12-13 01:33:24",
+        "sentiment_score": -0.8110347669571638
+    },
+    {
+        "title": "De Quebec a Cataluña: muchas ventajas, poca solidaridad y otras diferencias que desmontan el 'cupo catalán'",
+        "image_url": "https://s1.elespanol.com/2024/12/12/invertia/economia/macroeconomia/908170087_251637523_1706x960.jpg?contentId=ESPIMA20241212_0913",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20241213/quebec-cataluna-muchas-ventajas-poca-solidaridad-diferencias-desmontan-cupo-catalan/908159343_0.html",
+        "date": "2024-12-13 01:29:56",
+        "sentiment_score": -0.7739352453500032
+    },
+    {
+        "title": "La noche más oscura de Santa Lucía: la catástrofe olvidada de los pescadores españoles en el Mar de Alborán",
+        "image_url": "https://s1.elespanol.com/2024/12/12/historia/908170048_251636276_1706x960.png?contentId=ESPIMA20241212_0874",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/historia/20241213/noche-oscura-santa-lucia-catastrofe-olvidada-pescadores-espanoles-mar-alboran/908159600_0.html",
+        "date": "2024-12-13 01:15:06",
+        "sentiment_score": -0.7985553219914436
+    },
+    {
+        "title": "YO MOBILE PRESENTA A CHICHARITO COMO EMBAJADOR GLOBAL DE LA MARCA",
+        "image_url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/4/5f/45fa4949-b415-5376-bb74-f40352f98159/675b8e653f27e.image.jpg?resize=300%2C169",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.victoriaadvocate.com/yo-mobile-presenta-a-chicharito-como-embajador-global-de-la-marca/article_3274858f-c95f-5e0f-98fe-c3ef295f6b5f.html",
+        "date": "2024-12-13 01:15:00",
+        "sentiment_score": 0.5281089507043362
+    },
+    {
+        "title": "Los genes más infieles de los Borbones: De Alfonso XIII al Conde de Barcelona",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2024-12-12-a-las-182919_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/los-genes-mas-infieles-los-borbones-alfonso-xiii-al-conde-barcelona",
+        "date": "2024-12-13 01:00:00",
+        "sentiment_score": -0.06323853135108948
+    },
+    {
+        "title": "Broncano contesta a Figo en La Revuelta: «Ronaldo no va mucho por Valladolid»",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/13/ronaldofigorevuelta-kfEI-U23027674637179B-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/broncano-contesta-figo-revuelta-ronaldo-valladolid-20241213011536-nt.html",
+        "date": "2024-12-13 00:15:36",
+        "sentiment_score": -0.4713774435222149
+    },
+    {
+        "title": "El diagnóstico temprano y el tratamiento multidisciplinar, claves para mejorar la calidad de vida del paciente con disfagia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4977346-ca8a-4a4e-8d97-74e74cd1a186_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/salud/2024/12/13/diagnostico-temprano-tratamiento-multidisciplinar-claves-112565045.html",
+        "date": "2024-12-13 00:00:06",
+        "sentiment_score": -0.2364698350429535
+    },
+    {
+        "title": "Salomón Rondón destaca en la victoria del Pachuca contra el Botafogo",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/12/Salomon-Rondon-destaca-en-la-victoria-del-Pachuca-contra-el-Botafogo-12-dic-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "relevantes",
+            "deportes",
+            "maturín",
+            "monagas",
+            "venezuela"
+        ],
+        "link": "https://elorientaldemonagas.com/salomon-rondon-destaca-en-la-victoria-del-pachuca-contra-el-botafogo/",
+        "date": "2024-12-13 00:00:00",
+        "sentiment_score": 0.6709081567823887
+    },
+    {
+        "title": "El presidente de la Deportiva Minera habla del elevado coste de las entradas contra el Real Madrid",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/files/fp/uploads/2024/12/13/675b6ca202c99.r_d.385-150-5313.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/presidente-deportiva-minera-habla-elevado-coste-entradas-real-madrid-20241213_3062299.html",
+        "date": "2024-12-12 23:11:25",
+        "sentiment_score": -0.07281655073165894
+    },
+    {
+        "title": "José tenía un acuerdo con su mujer para tener sexo de 22:30 a 22:55 y ella dice que la violó porque se pasó \"15 minutos\"",
+        "image_url": "https://s1.elespanol.com/2024/12/12/actualidad/908170185_251640440_1706x960.jpg?contentId=ESPIMA20241212_1011",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241213/jose-acuerdo-mujer-tener-sexo-dice-violo-paso-minutos/908159693_0.html",
+        "date": "2024-12-13 01:33:35",
+        "sentiment_score": -0.794539213180542
+    },
+    {
+        "title": "El Barça se proyecta al futuro con dos laterales en la mira de Deco",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/13/2024121302184447034.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/barca-prepara-futuro-laterales-fichajes-que-mira-deco/20241213022006327312.html",
+        "date": "2024-12-13 01:20:06",
+        "sentiment_score": 0.5444748532027006
+    },
+    {
+        "title": "El directivo del Barça que pierde peso en la parcela deportiva: menos ascendencia con Laporta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/13/culemania/palco/908419259_13861522_1706x960.jpg?contentId=ESPIMA20241213_0110",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241213/el-directivo-barca-parcela-deportiva-ascendencia-laporta/908159295_0.html",
+        "date": "2024-12-13 01:09:47",
+        "sentiment_score": 0.5957609191536903
+    },
+    {
+        "title": "El Barça de Flick ya supera los ingresos que generó Xavi en la fase de grupos de la última Champions",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/13/culemania/palco/908419175_13859012_1706x960.png?contentId=ESPIMA20241213_0026",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241213/el-barca-de-flick-xavi-la-champions/908159296_0.html",
+        "date": "2024-12-13 01:09:34",
+        "sentiment_score": 0.7237686142325401
+    },
+    {
+        "title": "El Barça puede retener 192 millones a Limak en caso de retraso en las obras del nuevo Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/13/culemania/palco/908419255_13861410_1706x960.jpg?contentId=ESPIMA20241213_0106",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241213/el-barca-retener-millones-de-limak-en/906409476_0.html",
+        "date": "2024-12-13 01:01:05",
+        "sentiment_score": -0.9089124398306012
+    },
+    {
+        "title": "Una startup sensible a la radiación solar",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/07/6754aecd5bbf9.r_d.2345-1583-1113.jpeg",
+        "tags": [
+            "emprendedores"
+        ],
+        "link": "https://www.lavanguardia.com/economia/emprendedores/20241213/10179940/startup-sensible-radiacion-solar.html",
+        "date": "2024-12-13 01:00:00",
+        "sentiment_score": 0.30421286076307297
+    },
+    {
+        "title": "Mercados sostenibles en Barcelona o plantar árboles en Alcalá de Guadaíra: estos son los planes de Enclave ODS",
+        "image_url": "https://s1.elespanol.com/2024/12/12/enclave-ods/semanales/908169723_251626047_1706x960.jpg?contentId=ESPIMA20241212_0549",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/semanales/20241213/mercados-sostenibles-barcelona-plantar-arboles-alcala-guadaira-planes-enclave-ods/908159176_0.html",
+        "date": "2024-12-13 00:43:25",
+        "sentiment_score": 0.5344517529010773
+    },
+    {
+        "title": "La UNAM crea la cátedra María Zambrano para honrar la vida y la obra de la filósofa española exiliada en México",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CUIZRUZ7DNOE3EIWNUCCT35DHA.jpg?auth=471d45f9e2d381224d53472e76ccd3cf7b23a633e05ff059ea41a226b0cccb9e&width=1200",
+        "tags": [
+            "cultura",
+            "américa",
+            "filosofía",
+            "unam",
+            "libros",
+            "maria zambrano",
+            "méxico",
+            "latinoamérica"
+        ],
+        "link": "https://elpais.com/mexico/2024-12-13/la-unam-crea-la-catedra-maria-zambrano-para-honrar-la-vida-y-la-obra-de-la-filosofa-espanola-exiliada-en-mexico.html",
+        "date": "2024-12-13 00:18:29",
+        "sentiment_score": 0.28332508355379105
     }
 ];
