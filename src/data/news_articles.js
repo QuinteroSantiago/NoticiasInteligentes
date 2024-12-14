@@ -25,64 +25,6 @@ export default [
         "sentiment_score": 0.1118684709072113
     },
     {
-        "title": "Benjamin Netanyahu declara en juicio por corrupción",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188584806.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/netanyahu-juicio-corrupcion-cafe-tv/",
-        "date": "2024-12-10 14:09:48",
-        "sentiment_score": -0.7206144742667675
-    },
-    {
-        "title": "Encuentran 40 cuerpos sin vida y con señales de tortura en Damasco",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-21188616-572094-996-still.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "medio oriente",
-            "cuerpos",
-            "tortura",
-            "fast – news variety",
-            "siria",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/damasco-explosiones-cuerpos-totura-cafe-tv/",
-        "date": "2024-12-10 14:04:24",
-        "sentiment_score": -0.8449697932228446
-    },
-    {
-        "title": "Última hora del arresto de Luigi Mangione, sospechoso del asesinato del CEO de UnitedHealthcare, en vivo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/Copia-de-FOTO-PARA-WP.jpg?quality=100&strip=info",
-        "tags": [
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/10/noticias-luigi-mangione-sospechoso-unitedhealthcare-trax/",
-        "date": "2024-12-10 13:53:55",
-        "sentiment_score": -0.7817126670852304
-    },
-    {
-        "title": "Recomendaciones de alimentación para las fiestas de fin de año",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "health"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/recomendaciones-alimentacion-fin-de-ano-primera-manana-fast/",
-        "date": "2024-12-10 13:01:11",
-        "sentiment_score": 0.37063824012875557
-    },
-    {
-        "title": "Luigi Mangione comparece por primera vez ante un tribunal",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/luigi-20241210104421981.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "asesinato",
-            "tribunal",
-            "united",
-            "noticias de ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/video/luigi-mangione-ceo-united-health-trax/",
-        "date": "2024-12-10 11:28:45",
-        "sentiment_score": -0.7961747292429209
-    },
-    {
         "title": "El novio de Ayuso y el fango de enfrente",
         "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/12/03/Koke_20241203201021-U2201654060121SCB-U80231155376AHU-170x119@Hoy.jpg",
         "tags": [
@@ -121,66 +63,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/estudio-afirma-ultraprocesados-promueven-riesgo-cancer-colon-20241210170000-nt.html",
         "date": "2024-12-10 16:00:00",
         "sentiment_score": -0.15398193895816803
-    },
-    {
-        "title": "Las aerolíneas esperan ganar casi 35.000 millones en 2025 aprovechando la bajada del precio del petróleo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/10/avion-knMC-U603471549475OrE-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aerolineas-esperan-ganar-35000-millones-2025-aprovechando-20241210134826-nt.html",
-        "date": "2024-12-10 12:53:00",
-        "sentiment_score": -0.10012489557266235
-    },
-    {
-        "title": "Moeve inicia la transformación de sus 1.800 estaciones de servicio en España y Portugal",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/10/dsc_0591-RWHO3s0BzqjqRQABaSGFgML-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/moeve-inicia-transformacion-1800-estaciones-servicio-espana-20241210134142-nt.html",
-        "date": "2024-12-10 12:42:54",
-        "sentiment_score": 0.09187722206115723
-    },
-    {
-        "title": "Netanyahu empieza a testificar en su juicio por corrupción",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/10/netan-Ru3HA9nQMfXrSqM57I0JMzK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/netanyahu-empieza-testificar-juicio-corrupcion-20241210123623-nt.html",
-        "date": "2024-12-10 12:39:13",
-        "sentiment_score": -0.3063674867153168
-    },
-    {
-        "title": "Tarjetas regalo falsas o sorteos: las diez estafas que te van a intentar colar esta Navidad",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/10/phishing-RSnQtvIH6jXOAv0gOLPVhyK-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/tarjetas-regalo-falsas-sorteos-diez-estafas-van-20241210130422-nt.html",
-        "date": "2024-12-10 12:04:23",
-        "sentiment_score": -0.3240314722061157
-    },
-    {
-        "title": "China investiga al coloso tecnológico Nvidia por violación de las leyes antimonopolio",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/10/jensenhuang-RGdvUrOYRhGQdHmeapZ2sPI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/china-investiga-coloso-tecnologico-nvidia-violacion-leyes-20241210105108-nt.html",
-        "date": "2024-12-10 12:04:07",
-        "sentiment_score": -0.2423081398010254
-    },
-    {
-        "title": "Trudeau amenaza con volver a gravar «bienes estratégicos» si la Casa Blanca endurece los aranceles contra Canadá",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/10/TRUDEAU-TRUMP-1-RH7ZNteAzchAvIFtM29wSgP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trudeau-amenaza-volver-gravar-bienes-estrategicos-casa-20241210125122-nt.html",
-        "date": "2024-12-10 11:51:22",
-        "sentiment_score": -0.146310493350029
     },
     {
         "title": "David Sánchez alega que su plaza se convocó cuando su hermano Pedro “había tocado fondo” en el PSOE",
@@ -329,63 +211,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-10/el-gobierno-dedicara-2025-a-celebrar-mas-de-un-centenar-de-actos-por-la-muerte-de-franco-y-la-llegada-de-la-democracia.html",
         "date": "2024-12-10 14:54:23",
         "sentiment_score": -0.7637724485248327
-    },
-    {
-        "title": "Malestar en Exteriores por no haber sido informado sobre la ausencia de España en Notre Dame",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IFBC6N6ED6OWFIDAGZAY3JIOGE.jpg?auth=ec9a3bc90805fbe03be27da62f72371eacfc2a5f5da6be458b1d39308ef2f725&width=1200",
-        "tags": [
-            "felipe vi",
-            "francia",
-            "ernest urtasun domenech",
-            "casa real",
-            "emmanuel macron",
-            "ministerio de cultura",
-            "españa",
-            "política exterior",
-            "ministerio de asuntos exteriores",
-            "josé manuel albares"
-        ],
-        "link": "https://elpais.com/espana/2024-12-10/malestar-en-exteriores-por-no-haber-sido-informado-sobre-la-ausencia-de-espana-en-notre-dame.html",
-        "date": "2024-12-10 14:11:46",
-        "sentiment_score": -0.8634852580726147
-    },
-    {
-        "title": "Salvador Illa, forzado a comparecer en el Parlament por la incorporación de la Policía Nacional en el centro de emergencias 112",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SHTWTPUV46Z42RIZDCAFZR735U.jpg?auth=640467ee5a20c57c0aa3f5f74fc1656711fbae9478661b9ff518026de7d0b0bc&width=1200",
-        "tags": [
-            "policía nacional",
-            "generalitat cataluña",
-            "emergencias",
-            "política",
-            "salvador illa",
-            "inmigración",
-            "cat en comú",
-            "sílvia paneque",
-            "parlament cataluña",
-            "psc",
-            "cataluña",
-            "juntsxcat"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-10/salvador-illa-forzado-a-comparecer-en-el-parlament-por-la-incorporacion-de-la-policia-nacional-en-el-centro-de-emergencias-112.html",
-        "date": "2024-12-10 13:38:03",
-        "sentiment_score": -0.042818620800971985
-    },
-    {
-        "title": "El Gobierno del PP en Baleares retira los Presupuestos tras dinamitar los puentes con Vox",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TDKJ2G5AURH5XCDIALM44GCXJY.jpg?auth=4e1af79c9e25cd74cc93550c617eac78efa7223036f1e3fb9bb0ac0abc176595&width=1200",
-        "tags": [
-            "españa",
-            "comunidades autónomas",
-            "política",
-            "baleares",
-            "memoria histórica",
-            "pp",
-            "vox",
-            "marga prohens"
-        ],
-        "link": "https://elpais.com/espana/2024-12-10/el-gobierno-de-prohens-retira-los-presupuestos-tras-dinamitar-los-puentes-con-vox.html",
-        "date": "2024-12-10 12:43:23",
-        "sentiment_score": -0.32760415971279144
     },
     {
         "title": "El Valencia-Real Madrid aplazado por la DANA se jugará finalmente el 3 de enero",
@@ -6717,5 +6542,280 @@ export default [
         "link": "https://www.elmundo.es/madrid/2024/12/13/675c9e7cfc6c83b6798b4576.html",
         "date": "2024-12-13 21:09:20",
         "sentiment_score": 0.8173855189234018
+    },
+    {
+        "title": "Hospital en el norte de Gaza es alcanzado por un bombardeo israelí",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2187870625-20241214021031277.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-catastrofico-bombardeo-hospital-norte-gaza-panorama-tv-fast/",
+        "date": "2024-12-14 02:11:15",
+        "sentiment_score": -0.8718142136931419
+    },
+    {
+        "title": "Arrestan a empleada de Buckingham por violencia en fiesta navideña",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnne-1385870-buckingham-palace-shotgun-arrest-intl-hnk.jpeg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/arresto-empleada-buckingham-fiesta-navidad-panorama-mundial-tv/",
+        "date": "2024-12-14 02:10:29",
+        "sentiment_score": -0.8277114145457745
+    },
+    {
+        "title": "Trump y su esfuerzo para disminuir regulaciones bancarias",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2183216502-20241214010910503_57da5f.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-transicion-regulaciones-bancarias-musk-ramaswamy-panorama-mundial-tv/",
+        "date": "2024-12-14 02:08:57",
+        "sentiment_score": 0.09479209780693054
+    },
+    {
+        "title": "Siria celebra su primer viernes de oración desde la caída de Assad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189070478_bc396c.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/siria-primer-viernes-oracion-caida-al-assad-panoama-mundial-tv/",
+        "date": "2024-12-14 02:04:53",
+        "sentiment_score": -0.8025355413556099
+    },
+    {
+        "title": "Michoacán investiga la muerte de una pareja californiana",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21200373-65603-22899999999-still.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "méxico",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/michoacan-asesinados-pareja-perspectivas-mexico-tv/",
+        "date": "2024-12-14 01:47:23",
+        "sentiment_score": -0.560759823769331
+    },
+    {
+        "title": "El “sí” que voló alto: una propuesta de matrimonio a 3.050 metros de altura",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/propuesta-en-las-alturas-trax-00-01-39-21-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/propuesta-en-las-alturas-trax/",
+        "date": "2024-12-14 01:19:22",
+        "sentiment_score": 0.5031340718269348
+    },
+    {
+        "title": "¿Qué posibilidades tiene Trump de cumplir sus promesas de campaña?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2183216502-20241214010910503.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-promesas-cumplir-choque-dusa-tv-fast/",
+        "date": "2024-12-14 01:18:58",
+        "sentiment_score": -0.1953645944595337
+    },
+    {
+        "title": "Este gato perdido durante más de una década finalmente se reunió con su dueño en el aeropuerto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/trax-gatito-00-01-33-20-still001.png",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gato-perdido-se-reune-con-dueno-tras-11-anos-trax/",
+        "date": "2024-12-14 00:50:45",
+        "sentiment_score": -0.2594985403120518
+    },
+    {
+        "title": "Gobierno de México decomisa mercancía de origen chino en Sonora",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21198641-807301-2390000001-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/decomisan-mercancia-china-sonora-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-14 00:36:37",
+        "sentiment_score": -0.4210236519575119
+    },
+    {
+        "title": "No había agentes encubiertos del FBI en la insurrección del 6 de enero de 2021",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fbi-agentes-capitolio-insurreccion-dusa-tv/",
+        "date": "2024-12-14 00:16:14",
+        "sentiment_score": -0.4095819294452667
+    },
+    {
+        "title": "Manolo, que fue leyenda con raqueta",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/14/Santana-RTUiSI0HxcM7kufEI3Al95J-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/manolo-leyenda-raqueta-20241214004505-nt.html",
+        "date": "2024-12-13 23:45:18",
+        "sentiment_score": 0.038234710693359375
+    },
+    {
+        "title": "El derecho a hablar castellano en España",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/12/08/pensiones-kfrE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-derecho-hablar-castellano-espana-20241214200619-nt.html",
+        "date": "2024-12-13 23:21:18",
+        "sentiment_score": -0.3987386226654053
+    },
+    {
+        "title": "Aun lesionado, Mbappé viajará con Real Madrid a Qatar para jugar final de Copa Intercontinental",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-12-13/aun-lesionado-mbappe-viajara-con-real-madrid-a-qatar-para-jugar-final-de-copa-intercontinental",
+        "date": "2024-12-14 01:57:01",
+        "sentiment_score": -0.6434613429009914
+    },
+    {
+        "title": "Por qué la crueldad de la guerra civil siria recuerda a la española, pero su transición será \"más larga\" y \"menos previsible\"",
+        "image_url": "https://s1.elespanol.com/2024/12/13/mundo/oriente-proximo/908419962_251667347_1706x960.jpg?contentId=ESPIMA20241213_0813",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/oriente-proximo/20241214/crueldad-guerra-civil-siria-recuerda-espanola-transicion-larga-previsible/908409591_0.html",
+        "date": "2024-12-14 01:55:24",
+        "sentiment_score": -0.9125323425978422
+    },
+    {
+        "title": "Burbuja inmobiliaria global",
+        "image_url": "https://s1.elespanol.com/2024/12/13/actualidad/908420331_251678732_1706x960.jpg?contentId=ESPIMA20241213_1182",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20241214/inteligencia-artificial-paises-listos/908539151_13.html",
+        "date": "2024-12-14 01:51:17",
+        "sentiment_score": -0.07735225558280945
+    },
+    {
+        "title": "La guerra de redes sociales que salpica al Barça: o estás con Laporta o estás contra él",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/31/culemania/palco/882421782_13396641_1706x960.jpg?contentId=ESPIMA20240831_0033",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241214/la-guerra-sociales-salpica-barca-estas-laporta/908659127_0.html",
+        "date": "2024-12-14 00:49:14",
+        "sentiment_score": -0.896145828999579
+    },
+    {
+        "title": "La bonita historia de María, Marieta y su menina con Síndrome de Down: \"Vienen a verla de todo el mundo\"",
+        "image_url": "https://s1.elespanol.com/2024/12/13/mujer/protagonistas/908419874_251667612_1706x960.jpg?contentId=ESPIMA20241213_0725",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241214/bonita-historia-maria-marieta-menina-sindrome-down-vienen-verla-mundo/908409234_0.html",
+        "date": "2024-12-14 00:38:32",
+        "sentiment_score": 0.6954843029379845
+    },
+    {
+        "title": "El Mirandés no es el Madrid pero...",
+        "image_url": "https://images.ficheroslavoz.com/49/49e89ff0-2754-4f92-875b-995cd7213ef7.jpg?crop=4787%2C2696&expires=1765692268&height=1070&token=Qeu-B0zF2OIyeOAfvK45nlS_FfEJhePKr4_8autPT8Q&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/284664/el-mirandes-no-es-el-madrid-pero",
+        "date": "2024-12-14 00:06:00",
+        "sentiment_score": -0.43901751935482025
+    },
+    {
+        "title": "Los líos del Rayo comprometen a Martín Presa: El 'no' a su Estadio y otros fracasos",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/rayo-vallecano-martin-presa_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/lios-rayo-comprometen-martin-presa-no-estadio-otros-fracasos",
+        "date": "2024-12-14 00:00:00",
+        "sentiment_score": -0.8174460865557194
+    },
+    {
+        "title": "«Queríamos a un Kraven menos bidimensional que en los cómics»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/12/10/kraven-ultima-kx5F-U230254828666w1C-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/pantallas/cine/queriamos-kraven-bidimensional-comics-20241210003606-ntrc.html",
+        "date": "2024-12-13 23:36:07",
+        "sentiment_score": -0.27533749490976334
+    },
+    {
+        "title": "Un día con Paco Lobatón, 'desaparecido' en su Jerez natal a los 73 años: \"Dimití el día que trajeron a un vidente para resolver un caso\"",
+        "image_url": "https://s1.elespanol.com/2024/12/13/actualidad/908419559_251654867_1706x960.jpg?contentId=ESPIMA20241213_0410",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241214/dia-paco-lobaton-desaparecido-jerez-natal-anos-dimiti-trajeron-vidente-resolver-caso/905659618_0.html",
+        "date": "2024-12-14 01:57:09",
+        "sentiment_score": 0.3144605830311775
+    },
+    {
+        "title": "Más de 15 planes navideños para disfrutar de las fiestas en la provincia de Alicante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9eba943b-6a21-418b-9619-640f4c7a5b21_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/navidad/2024/12/14/15-planes-navidad-provincia-alicante-2024-112582453.html",
+        "date": "2024-12-14 01:01:14",
+        "sentiment_score": 0.6500548534095287
+    },
+    {
+        "title": "El Ayuntamiento de Barcelona se pone duro: la licencia para reabrir el Camp Nou va para largo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/18/culemania/culemaniacos/894420647_13601094_1706x960.jpg?contentId=ESPIMA20241018_0098",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241214/el-ayuntamiento-barcelona-licencia-para-camp-nou/908409240_0.html",
+        "date": "2024-12-14 00:06:37",
+        "sentiment_score": -0.34760351851582527
+    },
+    {
+        "title": "Balada triste de Villalibre",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2024/12/13/bfalo-U2307519383992E-U230283982236G9D-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/balada-triste-villalibre-20241213010509-nt.html",
+        "date": "2024-12-14 00:05:09",
+        "sentiment_score": -0.6504508126527071
+    },
+    {
+        "title": "Será muy raro ver al Almería sin Chumi",
+        "image_url": "https://images.ficheroslavoz.com/d5/d518a564-5c9a-4701-a296-0319de2515a5.jpg?crop=4787%2C2696&expires=1765692270&height=1070&token=8qu4ODjMKVhqReNQxay8GAPLOwK-KK5LV4mVwDgAjtM&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/284591/sera-muy-raro-ver-al-almeria-sin-chumi",
+        "date": "2024-12-14 00:01:00",
+        "sentiment_score": 0.04641897231340408
+    },
+    {
+        "title": "Melero, hasta que el cuerpo aguante",
+        "image_url": "https://images.ficheroslavoz.com/c9/c9d869e4-9fdb-41d2-9dc9-a0e158ec67bc.jpg?crop=4787%2C2696&expires=1765692271&height=1070&token=sCDjclwGk2BrpsJXGHE6M9Pjy1yrVEz1sKUL4hr6y3A&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/284590/melero-hasta-que-el-cuerpo-aguante",
+        "date": "2024-12-13 23:56:00",
+        "sentiment_score": 0.8590636067092419
+    },
+    {
+        "title": "Tranvías al prestigio",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/14/DAMBin-kh6E-U230282389824X2E-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/opinion/rosa-belmonte-tranvias-prestigio-20241214002632-ntrc.html",
+        "date": "2024-12-13 23:26:32",
+        "sentiment_score": 0.1686912626028061
     }
 ];
