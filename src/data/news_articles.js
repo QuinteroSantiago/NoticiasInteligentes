@@ -21,46 +21,6 @@ export default [
         "sentiment_score": 0.018170416355133057
     },
     {
-        "title": "El tiroteo contra el CEO de UnitedHealthcare revela los peligros de las \"armas fantasma\"",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/armasthumb.png?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "xpress",
-            "noticias de ee.uu.",
-            "fast – news variety",
-            "armas en ee.uu.",
-            "tiroteo"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/unitedhealthcare-ceo-brian-thompson-arma-ush-trax/",
-        "date": "2024-12-11 14:01:10",
-        "sentiment_score": -0.8547983840107918
-    },
-    {
-        "title": "Rebeldes nombran a primer ministro interino por tres meses en Siria",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2188763321.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "rebeldes",
-            "siria",
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rebeldes-nuevo-primer-ministro-interino-siria-cafe-tv/",
-        "date": "2024-12-11 13:52:03",
-        "sentiment_score": -0.4266187325119972
-    },
-    {
-        "title": "Los principales puntos del discurso de Milei a un año de Gobierno",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2187924080-20241211130217034.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "argentina",
-            "xpress",
-            "javier milei",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/discurso-milei-un-ano-presidente-primera-manana-fast/",
-        "date": "2024-12-11 13:09:11",
-        "sentiment_score": 0.03265492618083954
-    },
-    {
         "title": "El Papa rompe su silencio sobre el nuevo régimen de Siria y le pide que respete a todas las religiones",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/11/papa-francisco-RFDG967VZTGiRfbMNii48LN-1200x840@diario_abc.jpg",
         "tags": [
@@ -129,36 +89,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/desabastecimiento-medicamento-tdah-consejos-neurologos-pediatricos-ante-20241211160824-nt.html",
         "date": "2024-12-11 15:08:25",
         "sentiment_score": -0.058828920125961304
-    },
-    {
-        "title": "Un destino preferente para el talento cualificado nacional e internacional",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/10/TALENTO_20241205193554-RkPePpLx65wjmoNdVR6pP0M-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/destino-preferente-talento-cualificado-nacional-internacional-20241210193559-nt.html",
-        "date": "2024-12-11 14:11:40",
-        "sentiment_score": 0.09177297353744507
-    },
-    {
-        "title": "Fumar tabaco desde la infancia puede causar daño en el corazón prematuro",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/12/11/jove-tabaco--758x531.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/fumar-tabaco-infancia-puede-causar-dano-corazon-20241211132940-nt.html",
-        "date": "2024-12-11 14:00:02",
-        "sentiment_score": -0.12742993235588074
-    },
-    {
-        "title": "Óscar Puente pide fondos europeos para introducir «variables climáticas» en la construcción de infraestructuras",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/11/1489818137-Rz7b0CDD1eBH1CCxkWpCq4L-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/oscar-puente-pide-fondos-europeos-introducir-variables-20241211144642-nt.html",
-        "date": "2024-12-11 13:48:43",
-        "sentiment_score": -0.010173499584197998
     },
     {
         "title": "El CCCB ofrecerá en 2025 exposiciones sobre Mercè Rodoreda y el dibujante de comics Chris Ware",
@@ -6210,5 +6140,260 @@ export default [
         "link": "https://www.20minutos.es/noticia/5664034/0/primitiva-cuatro-acertantes-ganan-miles-euros-bote-sube-millones/",
         "date": "2024-12-14 21:34:59",
         "sentiment_score": 0.22563280165195465
+    },
+    {
+        "title": "Así salvaron la vida de dos delfines atorados en aguas poco profundas en Florida",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/ytbazo-mirador-1-00-00-02-28-still001.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rescatan-delfines-manglares-florida-orix-ush/",
+        "date": "2024-12-15 01:57:15",
+        "sentiment_score": -0.45112812519073486
+    },
+    {
+        "title": "Sacerdote argentino en Siria dice que el país vive \"una prueba más\" en su historia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sacerdote.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sacerdote-argentino-siria-mirador-mundial-tv/",
+        "date": "2024-12-15 01:23:27",
+        "sentiment_score": 0.16291019320487976
+    },
+    {
+        "title": "Sandra Lorenzano: \"Estamos cambiando la narrativa que hacen el arte y la cultura sobre la violencia en nuestro país\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sujo-significado-narcos-sandra-lorenzano-mirador-mundial-tv/",
+        "date": "2024-12-15 01:07:21",
+        "sentiment_score": 0.26114562898874283
+    },
+    {
+        "title": "Comunidad siria en España celebra la caída de Assad y se ilusiona con regresar a casa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sirios-en-espana.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sirios-espana-festejan-caida-al-assad-mirador-mundial-tv/",
+        "date": "2024-12-15 01:05:25",
+        "sentiment_score": -0.6306447982788086
+    },
+    {
+        "title": "La mujer que acusó de violación a 3 jugadores de lacrosse de Duke dice que mintió",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujer-acusa-violacion-mentira-jugadores-lacrosse-trax/",
+        "date": "2024-12-15 00:49:10",
+        "sentiment_score": -0.8572541773319244
+    },
+    {
+        "title": "Secretario de Seguridad Nacional de EE.UU. afirma que avistamiento de drones se trata de “identificaciones erróneas”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/dronesnj.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/avistamientos-drones-en-eeuu-mirador-mundial-tv-fast/",
+        "date": "2024-12-15 00:23:18",
+        "sentiment_score": -0.457866121083498
+    },
+    {
+        "title": "Defensa de Luigi Mangione contrata a prestigiosa abogada para representar su caso",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/luigi-20241212100050855.jpeg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luigi-mangione-contrata-prestigiosa-abogada-mirador-mundial-tv-fast/",
+        "date": "2024-12-15 00:17:35",
+        "sentiment_score": -0.6502349302172661
+    },
+    {
+        "title": "La ONU pide respeto a la soberanía de Siria tras la caída de Bashar al-Assad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2188866229.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/onu-siria-bashar-al-assad-mirador-mundial-tv/",
+        "date": "2024-12-15 00:05:26",
+        "sentiment_score": -0.3200846016407013
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, domingo 15 de diciembre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5885c241-2c45-4fd0-9b1d-c1aeec580d87_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2024/12/15/tiempo-alicante-alacant-prevision-meteorologica-112627021.html",
+        "date": "2024-12-15 02:12:59",
+        "sentiment_score": 0.6767445094883442
+    },
+    {
+        "title": "Equipos históricos del fútbol español (IX): El CE Europa, fundador de Primera División",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/ce-europa-1734007866270_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/equipos-historicos-futbol-espanol-ce-europa-fundador-primera-division",
+        "date": "2024-12-15 02:00:00",
+        "sentiment_score": 0.16955586522817612
+    },
+    {
+        "title": "El tropiezo del Real Madrid calienta la Liga: oportunidad de oro para Barça y Atlético",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/15/culemania/primer-equipo/908919101_13869705_1706x960.jpg?contentId=ESPIMA20241215_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241215/el-real-madrid-liga-oportunidad-barca-atletico/908909102_0.html",
+        "date": "2024-12-15 01:51:52",
+        "sentiment_score": -0.8837055340409279
+    },
+    {
+        "title": "Iván Ferreiro: \"Madrid no es una ciudad tan moderna ya: va para atrás\"",
+        "image_url": "https://s1.elespanol.com/2024/12/13/reportajes/entrevistas/908419755_251660851_1706x1280.jpg?contentId=ESPIMA20241213_0606",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241215/ivan-ferreiro-madrid-no-ciudad-moderna-va/908409504_0.html",
+        "date": "2024-12-15 01:51:30",
+        "sentiment_score": -0.8372696377336979
+    },
+    {
+        "title": "¿Pero qué tren viene a Huelva?",
+        "image_url": "https://static.grupojoly.com/clip/2656b991-e808-4e74-a579-09999bae733c_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.huelvainformacion.es/opinion/articulos/que-tren-viene-huelva_0_2002985842.html",
+        "date": "2024-12-15 01:05:29",
+        "sentiment_score": 0.25243446230888367
+    },
+    {
+        "title": "El Pachuca conquista una final de infarto y asegura su lugar en la Copa Intercontinental",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/15/2024121501520522431.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/pachuca-conquista-final-infarto-sellar-boleto-copa-intercontinental/20241215015223327555.html",
+        "date": "2024-12-15 00:52:23",
+        "sentiment_score": 0.8113268502056599
+    },
+    {
+        "title": "Exteriores permitió el desliz de Zarzuela en Notre Dame",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/642bc3ff818f86e843900b89f376e0f0/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/14/17341835156925.jpg",
+        "tags": [
+            "felipe vi",
+            "josé manuel albares",
+            "artículos marina pina"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/12/15/675d8a18fdddff95158b4577.html",
+        "date": "2024-12-15 00:35:53",
+        "sentiment_score": -0.689425365999341
+    },
+    {
+        "title": "Belichick habló con Jets sobre vacante de entrenador antes de irse al colegial, según fuente de AP",
+        "image_url": "https://dims.apnews.com/dims4/default/69b99c7/2147483647/strip/true/crop/7124x4742+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F77%2Fd9ab8af4f6b5c8c22647e1cb7c0a%2F4cbf4d26fb6d4ea8a96c3cc754f0d9e7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/bill-belichick-jets-negociacion-colegial-057a5e701ca1d17feaaeba19e291bf88",
+        "date": "2024-12-15 00:24:05",
+        "sentiment_score": -0.04119004309177399
+    },
+    {
+        "title": "El secreto mejor guardado del nuevo Camp Nou: Laporta lanza una novedosa línea de negocio",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/20/culemania/palco/879672102_13358197_1706x960.jpg?contentId=ESPIMA20240820_0078",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241215/el-secreto-guardado-camp-nou-laporta-novedosa/908159243_0.html",
+        "date": "2024-12-15 00:12:00",
+        "sentiment_score": 0.14393457770347595
+    },
+    {
+        "title": "Pachuca sobrevive a drama de penales ante Al Ahly y chocará ante el Madrid por Copa Intercontinental",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-12-14/pachuca-sobrevive-a-drama-de-penales-ante-al-ahly-y-chocara-ante-el-madrid-por-copa-intercontinental",
+        "date": "2024-12-15 00:08:55",
+        "sentiment_score": -0.1778799593448639
+    },
+    {
+        "title": "José A. López (CIO de Tous): \"Con los datos y la IA, podemos anticiparnos al cliente tras superar el 20% de ventas online\"",
+        "image_url": "https://s1.elespanol.com/2024/12/10/invertia/disruptores/grandes-actores/corporaciones/907669603_251552334_1706x960.jpg?contentId=ESPIMA20241210_0379",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20241215/jose-lopez-cio-tous-datos-ia-podemos-anticiparnos-cliente-superar-ventas-online/907659470_0.html",
+        "date": "2024-12-15 02:04:49",
+        "sentiment_score": 0.7472015414386988
+    },
+    {
+        "title": "Isak Andic, el turco que hizo de Mango un icono mundial de la moda española y levantó un imperio de 2.800 tiendas",
+        "image_url": "https://s1.elespanol.com/2024/12/14/invertia/empresas/distribucion/908669447_251689800_1706x960.jpg?contentId=ESPIMA20241214_0323",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20241215/isak-andic-turco-hizo-mango-icono-mundial-moda-espanola-levanto-imperio-tiendas/908659255_0.html",
+        "date": "2024-12-15 01:55:03",
+        "sentiment_score": -0.3414663150906563
+    },
+    {
+        "title": "La nueva vida de la infanta Cristina \"pensando sólo en ella\": ya pasa más tiempo en España aunque seguirá en Suiza porque paga menos impuestos",
+        "image_url": "https://s1.elespanol.com/2024/12/13/reportajes/908419955_251667136_1706x960.png?contentId=ESPIMA20241213_0806",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241215/nueva-vida-infanta-cristina-pensando-solo-pasa-tiempo-espana-seguira-suiza-paga-impuestos/908409341_0.html",
+        "date": "2024-12-15 01:51:42",
+        "sentiment_score": 0.15912728011608124
+    },
+    {
+        "title": "La historia no contada de Gustavo y Augusto tras Café&Té, la cadena que se inspiró en Starbucks: el grupo factura 30M",
+        "image_url": "https://s1.elespanol.com/2024/12/13/reportajes/908419982_251668079_1706x960.jpg?contentId=ESPIMA20241213_0833",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241215/historia-no-contada-gustavo-augusto-cafete-cadena-inspiro-starbucks-grupo-factura/908159665_0.html",
+        "date": "2024-12-15 01:49:59",
+        "sentiment_score": 0.149437814950943
+    },
+    {
+        "title": "Jonathan Andic, el hijo que hizo volver a su padre del retiro para reflotar Mango",
+        "image_url": "https://s1.elespanol.com/2024/12/14/actualidad/908669519_251691975_1706x960.jpg?contentId=ESPIMA20241214_0395",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241215/jonathan-andic-hijo-hizo-volver-padre-retiro-reflotar-mango/908659280_0.html",
+        "date": "2024-12-15 01:49:25",
+        "sentiment_score": -0.7033397741615772
+    },
+    {
+        "title": "Ni Teatro Kapital ni Barceló: esta es la discoteca de Madrid que se cuela entre las 25 mejores del mundo",
+        "image_url": "https://s1.elespanol.com/2024/12/13/madrid/ocio/908420153_251673285_1706x960.jpg?contentId=ESPIMA20241213_1004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241215/teatro-kapital-barcelo-discoteca-madrid-cuela-mejores-mundo/908409671_0.html",
+        "date": "2024-12-15 01:39:12",
+        "sentiment_score": 0.6796512044966221
+    },
+    {
+        "title": "El asesinato de la mendigo Rosario Endrinal: El punto de inflexión en el Código Penal",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/rosario-endrinal_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/sucesos/asesinato-mendigo-rosario-endrinal-punto-inflexion-codigo-penal",
+        "date": "2024-12-15 01:30:00",
+        "sentiment_score": -0.8957039937376976
     }
 ];
