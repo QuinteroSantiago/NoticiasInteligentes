@@ -1,208 +1,5 @@
 export default [
     {
-        "title": "Ante Budimir, con los grandes",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d6914c03-93a2-4458-aece-7d804e760428_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2024/12/11/budimir-grandes-9034939.html",
-        "date": "2024-12-11 06:25:02",
-        "sentiment_score": 0.6436826884746552
-    },
-    {
-        "title": "Los años amarillos de ‘Lewy’",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/0de4c162-e7be-01c5-f67d34a83b763d3d.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z0de4ad78-ac71-7c75-0bdc982034778cc2/202412/los-anos-amarillos-de-lewy",
-        "date": "2024-12-11 06:20:56",
-        "sentiment_score": 0.007155358791351318
-    },
-    {
-        "title": "Probamos los mejores micrófonos para grabar pódcast",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/U76AFKE36ZECBFI47P7V3Y3OGA.png?auth=4127c3a8f14207b24dde5ff4bb488e5d0d6d2d536e6cfb055b8427c6a55546d7&width=1200",
-        "tags": [
-            "tecnología",
-            "videojuegos",
-            "comparativas de productos",
-            "ordenadores",
-            "sonido",
-            "amazon",
-            "portátiles"
-        ],
-        "link": "https://elpais.com/escaparate/comparativas/2024-12-11/mejor-microfono-para-grabar-podcast.html",
-        "date": "2024-12-11 06:15:00",
-        "sentiment_score": 0.4677379596978426
-    },
-    {
-        "title": "El famoso futbolista que disfruta de su pasión en Salamanca: deporte, gastronomía y causas solidarias",
-        "image_url": "https://s1.elespanol.com/2024/11/20/castilla-y-leon/region/salamanca/902669897_251022050_1706x960.jpg?contentId=ESPIMA20241120_0173",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20241211/famoso-futbolista-disfruta-pasion-salamanca-deporte-gastronomia-causas-solidarias/902659778_0.html",
-        "date": "2024-12-11 06:00:00",
-        "sentiment_score": 0.09629097580909729
-    },
-    {
-        "title": "Olga Rivas Iglesias: “Quienes viven en el rural son los que mejor detectan sus oportunidades”",
-        "image_url": "https://www.laregion.es/media/laregion/images/2024/12/10/2024121023080489976.jpg",
-        "tags": [
-            "allariz - maceda"
-        ],
-        "link": "https://www.laregion.es/articulo/allariz/olga-rivas-iglesias-quienes-viven-rural-son-que-mejor-detectan-oportunidades/202412110700001353571.html",
-        "date": "2024-12-11 06:00:00",
-        "sentiment_score": 0.3423842787742615
-    },
-    {
-        "title": "Este es el día que se celebraron dos loterías de Navidad",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/21/63a3731525246.jpeg",
-        "tags": [
-            "loterías"
-        ],
-        "link": "https://www.huffingtonpost.es/loterias/dia-celebraron-dos-loterias.html",
-        "date": "2024-12-11 06:00:00",
-        "sentiment_score": 0.7660874985158443
-    },
-    {
-        "title": "Más de 200 guardias civiles, políticos y fiscales, con De los Cobos en una emotiva comida de jubilación",
-        "image_url": "https://okdiario.com/img/2024/12/10/guardias-civiles-politicos-y-fiscales-arropan-a-perez-de-los-cobos-interior-v2.jpg",
-        "tags": [
-            "justicia",
-            "guardia civil",
-            "seguridad",
-            "ministerio del interior",
-            "tribunales",
-            "españa",
-            "jorge fernández díaz",
-            "diego pérez de los cobos"
-        ],
-        "link": "https://okdiario.com/espana/mas-200-guardias-civiles-politicos-fiscales-cobos-emotiva-comida-jubilacion-13957484",
-        "date": "2024-12-11 05:53:57",
-        "sentiment_score": -0.12776704132556915
-    },
-    {
-        "title": "La UCO teme que la elección de la trama socialista de Dominicana tiene que ver con los obstáculos a la extradición",
-        "image_url": "https://s.libertaddigital.com/2024/10/24/abalos-koldo-aldama-dos.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/espana/politica/2024-12-11/la-uco-teme-que-la-eleccion-de-la-trama-socialista-de-dominicana-tiene-que-ver-con-los-obstaculos-a-la-extradicion-7196485/",
-        "date": "2024-12-11 05:42:13",
-        "sentiment_score": -0.16612837836146355
-    },
-    {
-        "title": "Cómo ver gratis las series y películas de Apple TV+ en Movistar: la alianza histórica que arrasará en España",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/12/05/apple-movistar-2.r_d.683-345-8050.jpeg",
-        "tags": [
-            "aplicaciones"
-        ],
-        "link": "https://www.20minutos.es/tecnologia/aplicaciones/apple-tv-movistar-acuerdo-espana-ver-contenidos-gratis-5661344/",
-        "date": "2024-12-11 05:41:35",
-        "sentiment_score": 0.49385862424969673
-    },
-    {
-        "title": "37 años de la matanza de ETA en la casa cuartel de Zaragoza: «No olvidemos, asesinaron a niños»",
-        "image_url": "https://okdiario.com/img/2024/12/11/okentrevista-lucia-ruiz-interior.jpg",
-        "tags": [
-            "guardia civil",
-            "zaragoza",
-            "aragón",
-            "eta",
-            "españa"
-        ],
-        "link": "https://okdiario.com/aragon/aniversario-matanza-eta-casa-cuartel-zaragoza-no-olvidemos-asesinaron-ninos-13953029",
-        "date": "2024-12-11 05:40:12",
-        "sentiment_score": -0.5451406016945839
-    },
-    {
-        "title": "El estudio sobre la CPEB4 \"es interesante\" pero no garantiza aún \"un tratamiento\", recuerda Autismo España",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/11/un-nino-con-autismo.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/noticia/5662655/0/autismo-espana-alerta-que-las-conclusiones-estudio-sobre-cpeb4-no-garantizan-aun-un-tratamiento-exitoso/",
-        "date": "2024-12-11 06:33:05",
-        "sentiment_score": -0.540090300142765
-    },
-    {
-        "title": "Comer fast-food’ de primera calidad: este bar de Barcelona, entre los mejores del mundo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/19f9496e-e722-48f3-9b1b-2f8138de0a43_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20241211/comer-fast-food-primera-calidad-barcelona-canete-dv-112486045",
-        "date": "2024-12-11 06:30:58",
-        "sentiment_score": 0.7915518824011087
-    },
-    {
-        "title": "La nueva colección de Springfield Kids trae los imprescindibles del invierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/F35AFPSWGFFR7PAUBOOW7F3PSM.png?auth=bf692a0a80d137355281bb20e1e6ca3c3b19557b9e56799765f36ca3c98b4c35&width=1200",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-11/coleccion-invierno-2024-springfield-kids.html",
-        "date": "2024-12-11 06:30:00",
-        "sentiment_score": 0.5920644830912352
-    },
-    {
-        "title": "Vuelve la Fira de Nadal i Reis a la Diagonal de Barcelona: horarios y actividades",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d86d271-d83c-40d4-87de-045f1ef0353a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20241211/vuelve-fira-nadal-reis-diagonal-112513507",
-        "date": "2024-12-11 06:29:31",
-        "sentiment_score": 0.2946914955973625
-    },
-    {
-        "title": "AEMET activa el aviso amarillo en tres comunidades por frío de hasta 6 grados bajo cero y lluvia",
-        "image_url": "https://static.eldiario.es/clip/f9c4342f-5444-4407-8092-a3f71055b738_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/sociedad/frio-6-grados-cero-lluvia-activan-aviso-amarillo-8-comunidades_1_11891452.html",
-        "date": "2024-12-11 06:23:00",
-        "sentiment_score": -0.17830753326416016
-    },
-    {
-        "title": "Lo que debes saber hoy, 11 de diciembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/04/vivir-en-barcelona/898670188_13670040_1706x960.jpg?contentId=ESPIMA20241104_0064",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241211/lo-que-debes-saber-hoy-de-diciembre-barcelona/907909202_0.html",
-        "date": "2024-12-11 06:20:38",
-        "sentiment_score": -0.019775867462158203
-    },
-    {
-        "title": "¿Por qué el queso 'fior di latte' es mejor que la 'mozzarella' en una pizza?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/83d6e9ad-bfec-4b72-8d20-3b8290c40cf4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20241211/pizza-queso-fior-di-latte-mozzarella-111603489",
-        "date": "2024-12-11 06:20:20",
-        "sentiment_score": -0.22417308390140533
-    },
-    {
-        "title": "¿Qué regalar a niños de 11 y 12 años? 15 ideas para esta Navidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J7UE4I7V3JEB7FKIKNO3IOS7PA.png?auth=3b84dfb8d74079e3b3133246c0331db37b3576dcb4442eb5f80b26bf519fdf61&width=1200",
-        "tags": [
-            "ventas internet",
-            "regalos",
-            "comercio electrónico",
-            "niños",
-            "niñas",
-            "navidad",
-            "amazon"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-11/regalos-para-ninos-de-11-y-12-anos-en-2024.html",
-        "date": "2024-12-11 06:20:00",
-        "sentiment_score": 0.9028089558705688
-    },
-    {
         "title": "Más de 18.000 residentes recibieron alerta de evacuación por los incendios en Malibu",
         "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/34489698-05482229-generated-thumbnail.jpg?c=16x9&q=w_800%2Cc_fill",
         "tags": [
@@ -262,19 +59,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/discurso-milei-un-ano-presidente-primera-manana-fast/",
         "date": "2024-12-11 13:09:11",
         "sentiment_score": 0.03265492618083954
-    },
-    {
-        "title": "Última hora de la caída del régimen de Assad en Siria: avance rebelde en vivo, noticias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/lebano-frontera.jpg?quality=100&strip=info",
-        "tags": [
-            "medio oriente",
-            "minuto a minuto",
-            "bashar al-assad",
-            "siria"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/11/caida-del-regimen-de-assad-en-siria-avance-rebelde-en-vivo-noticias-y-mas-trax-1/",
-        "date": "2024-12-11 08:42:43",
-        "sentiment_score": -0.0983065515756607
     },
     {
         "title": "El Papa rompe su silencio sobre el nuevo régimen de Siria y le pide que respete a todas las religiones",
@@ -6149,5 +5933,282 @@ export default [
         "link": "https://www.heraldo.es/multimedia/videos/economia/muere-fundador-mango-isak-andic-accidente-montana-barcelona/",
         "date": "2024-12-14 16:57:08",
         "sentiment_score": -0.8049053102731705
+    },
+    {
+        "title": "Malas decisiones financieras podrían ser señal de alzhéimer en adultos mayores, según estudio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/04717723-75288506-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/adultos-mayores-deteccion-alzheimer-minuto-de-salud-fast/",
+        "date": "2024-12-14 19:33:28",
+        "sentiment_score": 0.09279195964336395
+    },
+    {
+        "title": "“Produjo una tragedia económica”: así fue el impacto de la reconstrucción de Notre Dame",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/notre-dame-trump-20241207112329955.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/impacto-economico-catedral-notre-dame-conectados-tv-fast/",
+        "date": "2024-12-14 18:26:26",
+        "sentiment_score": -0.058062463998794556
+    },
+    {
+        "title": "No es magia, es ciencia: hacen levitar objetos con sonido",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sound-waves-levitation-startup-still2-20241214173725862.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/levita-sonido-objeto-tecnologia-trax/",
+        "date": "2024-12-14 17:42:15",
+        "sentiment_score": 0.43010401725769043
+    },
+    {
+        "title": "ABC News llega a un acuerdo con Trump tras una demanda por difamación y pagará al presidente electo 15 millones de dólares",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/14/donald-trump-kt6D-U603495020989JCI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/abc-news-llega-acuerdo-trump-tras-demanda-20241214231304-nt.html",
+        "date": "2024-12-14 22:13:04",
+        "sentiment_score": -0.2853197306394577
+    },
+    {
+        "title": "La presión fiscal del sanchismo llega hasta la farmacia",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/11/radares-cadiz-U03384175428Dwk-170x119@abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/presion-fiscal-sanchismo-llega-farmacia-20241215202354-nt.html",
+        "date": "2024-12-14 20:10:47",
+        "sentiment_score": -0.20042480528354645
+    },
+    {
+        "title": "La calculadora algorítmica que cuantifica el ciberriesgo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/15/ManuelCarpio2-R6JncZabBZmGV9n4Ia56SpK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/calculadora-algoritmica-cuantifica-ciberriesgo-20241215200124-nt.html",
+        "date": "2024-12-14 19:59:46",
+        "sentiment_score": -0.028015851974487305
+    },
+    {
+        "title": "Blockchain busca el equilibrio entre transparencia y privacidad",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/15/blockchain-R4QKyzD34M5uRTGsTRLc6XM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/blockchain-busca-equilibrio-transparencia-privacidad-20241215190456-nt.html",
+        "date": "2024-12-14 19:58:30",
+        "sentiment_score": -0.001550525426864624
+    },
+    {
+        "title": "El dulce reto de desestacionalizar el consumo de turrón",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/15/turrones-RGt6Gs6mScYn1PjxxW6eTjK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/dulce-reto-desestacionalizar-consumo-turron-20241215144828-nt.html",
+        "date": "2024-12-14 19:57:11",
+        "sentiment_score": -0.03567624092102051
+    },
+    {
+        "title": "Traer un chulapo al mundo",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/09/muerte-restaurante-oviedo-U230128766609gqE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/karina-sainz-borgo-traer-chulapo-mundo-20241215163742-nt.html",
+        "date": "2024-12-14 19:27:10",
+        "sentiment_score": -0.04318496584892273
+    },
+    {
+        "title": "Bloch, un patriota francés",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/15/TERCERAABC_MarcBloch_CANAL-Rl53yOdXLT3qVxmgDH6bf7J-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/bloch-patriota-frances-20241215122916-nt.html",
+        "date": "2024-12-14 19:05:04",
+        "sentiment_score": -0.010594874620437622
+    },
+    {
+        "title": "Dos bocadillos de jamón",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/11/radares-cadiz-U03384175428Dwk-170x119@abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-dos-bocadillos-jamon-20241215115820-nt.html",
+        "date": "2024-12-14 19:04:07",
+        "sentiment_score": -0.08123400807380676
+    },
+    {
+        "title": "Exaltar la vulgaridad por imperativo moral",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/12/08/pensiones-kfrE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-exaltar-vulgaridad-imperativo-moral-20241215174315-nt.html",
+        "date": "2024-12-14 19:03:31",
+        "sentiment_score": -0.1876738965511322
+    },
+    {
+        "title": "Corte de mangas a Putin, Xi y Trump",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/12/11/casa-prefabricada-U2101964017858MWC--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-sanchez-corte-mangas-putin-trump-20241215170357-nt.html",
+        "date": "2024-12-14 19:03:03",
+        "sentiment_score": -0.08628645539283752
+    },
+    {
+        "title": "Junqueras, el eterno aspirante a ‘president’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DQNZI2OO4JGRFNOWBO5BFH3GQE.jpg?auth=6a62a52d35fbaa71da0534f9972558bf592065a92f322fccee0c0b02889d66f6&width=1200",
+        "tags": [
+            "generalitat cataluña",
+            "política",
+            "cataluña",
+            "sant vicenç dels horts",
+            "barcelona",
+            "carles puigdemont",
+            "procés independentista catalán",
+            "iglesia católica",
+            "religión",
+            "erc",
+            "independentismo",
+            "oriol junqueras",
+            "ceo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-14/junqueras-el-eterno-aspirante-a-president.html",
+        "date": "2024-12-14 19:13:56",
+        "sentiment_score": -0.4343445748090744
+    },
+    {
+        "title": "Oriol Junqueras repetirá como presidente de ERC tras obtener el 52% de votos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BIQMOTRRPBS2DSRBBD6R3LB6YU.jpg?auth=bddf403b52395bdbff4d2fb50b06957318d34c8b48450132c0b918164f19178b&width=1200",
+        "tags": [
+            "oriol junqueras",
+            "congresos políticos",
+            "marta rovira i vergés",
+            "partidos políticos",
+            "erc",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-14/oriol-junqueras-repetira-como-presidente-de-erc-tras-obtener-el-52-de-votos.html",
+        "date": "2024-12-14 19:04:18",
+        "sentiment_score": 0.0740518569946289
+    },
+    {
+        "title": "La ciudad de Castilla y León en la que más ha tocado el gordo de Navidad",
+        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/12/14/loteria_20241214193011-RbnHPxlND3d3DnwxxdUImSL-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/castilla-y-leon/ciudad-castilla-leon-tocado-gordo-navidad-20241214231516-nt.html",
+        "date": "2024-12-14 22:15:16",
+        "sentiment_score": -0.33685775101184845
+    },
+    {
+        "title": "El Real Madrid se deja el liderato en el Vietnam de Vallecas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5cb6fa25-a6f3-472f-b6d5-d184ad5bd246_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreogallego.es/deportes/2024/12/14/real-madrid-deja-liderato-vietnam-112625384.html",
+        "date": "2024-12-14 22:09:33",
+        "sentiment_score": -0.3154149651527405
+    },
+    {
+        "title": "Puigdemont hace un «balance decepcionante» de Sánchez y exige avances en el Acuerdo de Bruselas",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2024/12/14/puigdemont-R2rXqOIg6m1ltZlY5u4aGcP-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/nacional/puigdemont-balance-decepcionante-sanchez-exige-avances-acuerdo-20241214231553-nt.html",
+        "date": "2024-12-14 22:15:53",
+        "sentiment_score": -0.8999337572604418
+    },
+    {
+        "title": "«Las más graves vulneraciones de los derechos humanos se producen en los barrios más vulnerables de Andalucía»",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/12/15/lospajaritos-k3mF-U230292017588DrH-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/graves-vulneraciones-derechos-humanos-producen-barrios-vulnerables-20241215230734-nt.html",
+        "date": "2024-12-14 22:07:35",
+        "sentiment_score": -0.8668620996177197
+    },
+    {
+        "title": "El Real Madrid se queda a medias y suma un nuevo pinchazo en Vallecas",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/12/14/675dffc70d59b.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20241214/real-madrid-queda-medias-suma-nuevo-pinchazo-vallecas_253419.html",
+        "date": "2024-12-14 22:06:06",
+        "sentiment_score": -0.6564300395548344
+    },
+    {
+        "title": "El Rayo funde los plomos del Real Madrid en Vallecas: desastre sin Mbappé",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/14/culemania/real-madrid/908669228_13869575_1706x960.jpg?contentId=ESPIMA20241214_0104",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20241214/el-rayo-real-madrid-vallecas-desastre-mbappe/908659183_0.html",
+        "date": "2024-12-14 22:05:18",
+        "sentiment_score": -0.22482240200042725
+    },
+    {
+        "title": "Cuatro afortunados ganan más de 52.000 euros en La Primitiva de este sábado",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/12/09/primitiva2-kVWC-U230244422012q0E-1200x840@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/cuatro-afortunados-ganan-52000-euros-primitiva-sabado-20241214225831-nt.html",
+        "date": "2024-12-14 21:58:31",
+        "sentiment_score": 0.7655213735997677
+    },
+    {
+        "title": "Junqueras ve \"imposible\" nuevos acuerdos con los socialistas si no cumplen sus compromisos",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/12/14/erc-oriol-junqueras.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2024/12/14/junqueras-ve-imposible-nuevos-acuerdos-con-los-socialistas-si-no-cumplen-sus-compromisos-1785401.html",
+        "date": "2024-12-14 21:37:48",
+        "sentiment_score": 0.8332041539251804
+    },
+    {
+        "title": "Junqueras refuerza su liderazgo en ERC en un momento clave para su futuro",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/30/2024113021173474343.png",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/junqueras-consolida-liderazgo-erc-momento-clave-futuro-politico/20241214223512327535.html",
+        "date": "2024-12-14 21:35:12",
+        "sentiment_score": 0.03486765921115875
+    },
+    {
+        "title": "La victoria de Junqueras apuntala la gobernabilidad en Cataluña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/14/politica/908669217_13869239_1706x960.jpg?contentId=ESPIMA20241214_0093",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/politica/20241214/la-victoria-de-junqueras-apuntala-gobernabilidad-cataluna/908659176_0.html",
+        "date": "2024-12-14 21:35:10",
+        "sentiment_score": -0.4378820210695267
+    },
+    {
+        "title": "Cuatro acertantes de la Primitiva ganan 51.000 euros y el bote sube a 17,9 millones",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/14/administracion-de-loterias-2.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5664034/0/primitiva-cuatro-acertantes-ganan-miles-euros-bote-sube-millones/",
+        "date": "2024-12-14 21:34:59",
+        "sentiment_score": 0.22563280165195465
     }
 ];
