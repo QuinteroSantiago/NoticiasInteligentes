@@ -1,164 +1,5 @@
 export default [
     {
-        "title": "El presidente surcoreano promete luchar «hasta el último minuto»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/12/presidente-corea-sur-kL2H-U603480850905BSC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/presidente-surcoreano-promete-luchar-ultimo-minuto-20241212071516-nt.html",
-        "date": "2024-12-12 06:15:16",
-        "sentiment_score": -0.13882017135620117
-    },
-    {
-        "title": "Al cava se le secan las ventas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EQOPV37SFVGFBCKBOF5ADCSLZA.jpg?auth=50ffc70d4446ddfb4c5191c6e6a9249ff723a55a6bd9a5fdb522d48aa6949739&width=1200",
-        "tags": [
-            "codorniú",
-            "exportaciones",
-            "economía",
-            "sequía",
-            "economía agraria",
-            "freixenet",
-            "vilafranca del penedès",
-            "cava",
-            "cataluña",
-            "sant sadurní d'anoia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-12/al-cava-se-le-secan-las-ventas.html",
-        "date": "2024-12-12 06:23:21",
-        "sentiment_score": -0.6402109786868095
-    },
-    {
-        "title": "'Código Marcos': la película con una mirada íntima al autismo desde el corazón de una familia",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/11/whatsapp-image-2024-12-11-at-14-12-02.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/noticia/5662843/0/codigo-marcos-pelicula-con-una-mirada-intima-autismo-desde-corazon-una-familia/",
-        "date": "2024-12-12 06:30:45",
-        "sentiment_score": 0.4921689108014107
-    },
-    {
-        "title": "Bellingham vuelve a ser clave",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/41b0a652-0821-09ab-0e67c9f1d956044b.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z41b0a527-0ea4-f387-758dd27ddb3c6c78/202412/bellingham-vuelve-a-ser-clave",
-        "date": "2024-12-12 06:29:17",
-        "sentiment_score": -0.1241050511598587
-    },
-    {
-        "title": "Miguel Quintana: \"De mi grupo de la universidad estamos trabajando en periodismo dos\"",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/files/fp/uploads/2024/12/11/miguel-quintana.r_d.600-897-5634.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/miguel-quintana-de-mi-grupo-universidad-trabajando-periodismo-dos.html",
-        "date": "2024-12-12 06:13:07",
-        "sentiment_score": -0.2762981206178665
-    },
-    {
-        "title": "El Instituto Zorrilla se llama así desde 1932 y no desde 1940",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/11/1483617974-kubF-U230265820008VCF-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/opinion/diego-gomez-carnero-instituto-zorrilla-llama-1932-1940-20241212071156-nt.html",
-        "date": "2024-12-12 06:11:56",
-        "sentiment_score": -0.33599432185292244
-    },
-    {
-        "title": "Mario Fernández, In Memoriam",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/opinion/tribuna-abierta/2024/12/12/mario-fernandez-in-memoriam-9038969.html",
-        "date": "2024-12-12 06:02:17",
-        "sentiment_score": -0.7153116073459387
-    },
-    {
-        "title": "\"Hemos pasado de ser un club que parecía la peste a ser respetados y hasta envidiados\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/161b61fc-1c73-48c1-92c7-9c09df85577f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2024/12/12/hemos-pasado-club-parecia-peste-9040047.html",
-        "date": "2024-12-12 06:01:02",
-        "sentiment_score": -0.2622148245573044
-    },
-    {
-        "title": "Irene Escolar protagoniza el thriller sonoro “La bala mágica”",
-        "image_url": "https://www.diariodemallorca.es/ideas/Repsol-la-bala-magica/images/spotlight-04.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodemallorca.es/ideas/Repsol-la-bala-magica/index.html",
-        "date": "2024-12-12 06:00:52",
-        "sentiment_score": -0.699104618281126
-    },
-    {
-        "title": "José María Mezquita Gullón. La dignidad de lo necesario",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9c1ae7cf-611a-4bd4-bddd-6d56a9450eff_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondezamora.es/opinion/2024/12/12/jose-maria-mezquita-gullon-dignidad-112536256.html",
-        "date": "2024-12-12 06:00:33",
-        "sentiment_score": -0.8059106506407261
-    },
-    {
-        "title": "FP bilingüe en Aragón: Un mundo de oportunidades sin salir (de momento) de casa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/37f3afff-9252-4698-b9db-84d7543e158b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/aragon/2024/12/12/fp-bilingue-aragon-mundo-oportunidades-112490873.html",
-        "date": "2024-12-12 06:00:00",
-        "sentiment_score": 0.6079585999250412
-    },
-    {
-        "title": "El gesto de muchos turistas en Barcelona por Navidad que hace tomar medidas a la Policía: \"Desesperación\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/12/675a83692cb6d.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/gesto-turistas-barcelona-navidad-tomar-medidas-policia-desesperacion-20241212_3058102.html",
-        "date": "2024-12-12 06:32:59",
-        "sentiment_score": -0.15818965435028076
-    },
-    {
-        "title": "Louro, el restaurante gallego con un pasadizo que conecta con el Palau Güell",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b97be05e-9cfe-45e8-bb6e-b5c1a48528d3_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241212/louro-restaurante-gallego-barcelona-112328438",
-        "date": "2024-12-12 06:32:17",
-        "sentiment_score": -0.2677336186170578
-    },
-    {
-        "title": "Diez intoxicados tras un incendio en un piso de Carabanchel: fueron evacuados por la fachada del edificio",
-        "image_url": "https://s1.elespanol.com/2024/12/12/madrid/sociedad/908169255_251611617_1706x960.png?contentId=ESPIMA20241212_0081",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20241212/intoxicados-incendio-piso-carabanchel-evacuados-fachada-edificio/908159185_0.html",
-        "date": "2024-12-12 06:31:06",
-        "sentiment_score": -0.8130856854841113
-    },
-    {
-        "title": "Guerra de Ucrania, hoy en directo | Ascienden a 10 los fallecidos por un ataque ruso contra la provincia ucraniana de Zaporiyia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/719b7376-46c0-4bdd-b2fb-84fa265ab15e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/internacional/2024/12/12/guerra-ucrania-hoy-directo-kiev-111861030.html",
-        "date": "2024-12-12 06:30:00",
-        "sentiment_score": -0.14262792468070984
-    },
-    {
         "title": "Trump toca la campana de apertura en la Bolsa de Nueva York tras ser nombrado “Persona del Año” por Time",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189594646.jpg?quality=100&strip=info",
         "tags": [
@@ -240,16 +81,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/cristina-kirchner-partido-justicialista-primera-manana-fast/",
         "date": "2024-12-12 13:11:00",
         "sentiment_score": -0.4390904940664768
-    },
-    {
-        "title": "\"¿Hablas en serio?\" Pasó meses en una prisión siria. La cámara de CNN captó el momento de su liberación",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/clarissathumb.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/prisionero-siria-carcel-liberacion-panorama-mundial-tv/",
-        "date": "2024-12-12 08:45:23",
-        "sentiment_score": -0.31067973375320435
     },
     {
         "title": "Localizan cerca de Damasco a un ciudadano estadounidense liberado de una cárcel siria tras siete meses desaparecido",
@@ -5471,5 +5302,289 @@ export default [
         "link": "https://www.mundodeportivo.com/actualidad/20241215/1002371737/ciudad-mejores-mercadillos-navidad-2h30-barcelona-vuela-30-euros-tsm-dct.html",
         "date": "2024-12-15 16:45:58",
         "sentiment_score": 0.31439967453479767
+    },
+    {
+        "title": "¿La guerra cultural pone en segundo plano a la democracia en Siria?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2188259799.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/siria-conflicto-assad-rebeldes-futuro-mexico-opina-tv-fast/",
+        "date": "2024-12-15 20:18:56",
+        "sentiment_score": -0.1121305599808693
+    },
+    {
+        "title": "Sarah Sherman imita a Nancy Grace en la apertura de “SNL” y se burla del fenómeno de Luigi Mangione",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/89837353-07001872-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – general"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sarah-sherman-nancy-grace-luigi-mangione-saturday-night-live-trax/",
+        "date": "2024-12-15 19:16:12",
+        "sentiment_score": -0.820713909342885
+    },
+    {
+        "title": "Un tornado toca tierra en Scotts Valley, cerca de San Francisco",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/21202886-tornado-san-franc-clean-00-00-00-08-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tornado-san-francisco-scotts-valley-eeuu-trax/",
+        "date": "2024-12-15 19:15:45",
+        "sentiment_score": -0.5097485464066267
+    },
+    {
+        "title": "Sevilla es metropolitana",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/11/entrada-kW7F--170x119@El%20Norte.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-sevilla-metropolitana-20241216195621-nts.html",
+        "date": "2024-12-15 20:41:24",
+        "sentiment_score": -0.053163737058639526
+    },
+    {
+        "title": "A dónde va la Universidad",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/12/12/Loida-U63847276785YYQ-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-universidad-20241216202828-nt.html",
+        "date": "2024-12-15 20:03:08",
+        "sentiment_score": -0.022898226976394653
+    },
+    {
+        "title": "Propofol",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/12/11/casa-prefabricada-U2101964017858MWC--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-propofol-20241216171801-nt.html",
+        "date": "2024-12-15 19:47:48",
+        "sentiment_score": -0.0878937840461731
+    },
+    {
+        "title": "El valor del toro bravo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/16/51667360-R2qqzcUDeD9AqGNaheqIDbK-1200x840@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/antonio-banuelos-valor-toro-bravo-20241216131556-nt.html",
+        "date": "2024-12-15 19:47:45",
+        "sentiment_score": -0.07041963934898376
+    },
+    {
+        "title": "La derecha 'woke'",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/09/muerte-restaurante-oviedo-U230128766609gqE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-derecha-woke-20241216170258-nt.html",
+        "date": "2024-12-15 19:47:05",
+        "sentiment_score": -0.11698320508003235
+    },
+    {
+        "title": "En favor de los niños chulapos",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/sociedad/2024/12/12/ies-pablo-U82261340642wHW-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-favor-ninos-chulapos-20241216193048-nt.html",
+        "date": "2024-12-15 19:46:54",
+        "sentiment_score": -0.17580783367156982
+    },
+    {
+        "title": "Formación de combate",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/09/muerte-restaurante-oviedo-U230128766609gqE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-formacion-combate-20241216190845-nt.html",
+        "date": "2024-12-15 19:46:12",
+        "sentiment_score": -0.07484441995620728
+    },
+    {
+        "title": "Y los ricos éramos nosotros...",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/12/08/pensiones-kfrE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-ricos-20241216204227-nt.html",
+        "date": "2024-12-15 19:46:03",
+        "sentiment_score": -0.2387225180864334
+    },
+    {
+        "title": "La innovación que diluye la amenaza de los microplásticos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/16/microplasticos-R0wKVnMf3RtRWzA3GDdw1lO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/innovacion-diluye-amenaza-microplasticos-20241216174351-nt.html",
+        "date": "2024-12-15 18:01:19",
+        "sentiment_score": -0.10986237227916718
+    },
+    {
+        "title": "La tecnología marca diferencias en el Everest de la atención al cliente",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/16/tecnologiaatencioncliente-RUUhXwFHvWE5LK02RP6Ld5H-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/tecnologia-marca-diferencias-everest-atencion-cliente-20241216163956-nt.html",
+        "date": "2024-12-15 18:00:01",
+        "sentiment_score": -0.09704476594924927
+    },
+    {
+        "title": "La Marató recauda 3,25 millones de euros para investigar las enfermedades respiratorias",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DAC5VVSPMFELPL7HJ4WUHLKV5A.jpg?auth=916d382789c0942b19157ce15957da000d7512f68ab4b088ec08da7d570d7abe&width=1200",
+        "tags": [
+            "televisión autonómica",
+            "programas entretenimiento",
+            "solidaridad",
+            "investigación científica",
+            "catalunya ràdio",
+            "ccma",
+            "televisión",
+            "enfermedades respiratorias",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-15/la-marato-recauda-325-millones-de-euros-para-investigar-las-enfermedades-respiratorias.html",
+        "date": "2024-12-15 21:16:01",
+        "sentiment_score": -0.6356824766844511
+    },
+    {
+        "title": "Canarias suspende las clases este lunes por el viento en La Gomera, El Hierro y parte de Tenerife",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LYFGTVVWUBBFZHZJWZLXKEL5BQ.jpg?auth=a859f0220a5e7c8c2f4d028fcb0cce24a55493f78c5af6cbc2e7ea012f4c5f32&width=1200",
+        "tags": [
+            "el tiempo",
+            "canarias",
+            "la palma",
+            "gran canaria",
+            "tenerife",
+            "la gomera",
+            "gobierno canarias",
+            "españa",
+            "aemet",
+            "predicción meteorológica",
+            "el hierro",
+            "meteorología"
+        ],
+        "link": "https://elpais.com/espana/2024-12-15/canarias-suspende-las-clases-este-lunes-por-el-viento-en-la-gomera-el-hierro-y-parte-de-tenerife.html",
+        "date": "2024-12-15 18:14:00",
+        "sentiment_score": -0.8264193031936884
+    },
+    {
+        "title": "El segundo jugador del Barça al que le rompen el diente en tres partidos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/15/culemania/primer-equipo/908919185_13872296_1706x960.jpg?contentId=ESPIMA20241215_0086",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241215/el-segundo-jugador-barca-rompen-diente-partidos/908909156_0.html",
+        "date": "2024-12-15 22:13:45",
+        "sentiment_score": -0.8051544576883316
+    },
+    {
+        "title": "Paco González explica la sorprendente derrota del Barcelona ante el Leganés: \"De todo el año\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/12/15/675f5325c1784.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/paco-gonzalez-explica-derrota-barcelona-leganes-ano-20241215_3063371.html",
+        "date": "2024-12-15 22:12:48",
+        "sentiment_score": 0.0253659188747406
+    },
+    {
+        "title": "El Leganés hace historia en Barcelona y aprieta LaLiga",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/15/el-defensa-del-leganes-sergio-gonzalez-celebra-su-gol-que-le-ha-dado-la-victoria-ante-el-barca-de-hansi-flick.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/el-leganes-historia-barcelona-aprieta-laliga.html",
+        "date": "2024-12-15 22:11:53",
+        "sentiment_score": 0.19103050231933594
+    },
+    {
+        "title": "El Barça da vida al Real Madrid: desastre injustificable contra el Leganés en Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/15/culemania/primer-equipo/908919186_13872325_1706x960.jpg?contentId=ESPIMA20241215_0087",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241215/el-barca-real-madrid-injustificable-leganes-liga/908909150_0.html",
+        "date": "2024-12-15 22:05:22",
+        "sentiment_score": -0.9006572561338544
+    },
+    {
+        "title": "Pesadilla antes de Navidad del Barça de Flick",
+        "image_url": "https://static1.ara.cat/clip/69e65a3d-2b32-4aa0-b6f0-f45bb8f7a428_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/pesadilla-navidad-barca-flick_1_5231925.html",
+        "date": "2024-12-15 22:00:50",
+        "sentiment_score": -0.4395780861377716
+    },
+    {
+        "title": "Lewandowski ensucia las estadísticas de Raphinha: los apuntes en caliente del Barça-Leganés",
+        "image_url": "https://static1.ara.cat/clip/2552eacd-8870-427f-890a-8d18dcbf2bbd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/lewandowski-ensucia-estadisticas-raphinha-apuntes-caliente-barca-leganes_1_5231921.html",
+        "date": "2024-12-15 22:00:19",
+        "sentiment_score": -0.7880936563014984
+    },
+    {
+        "title": "Amargo fin de año para Osasuna Femenino",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2024/12/15/675f50409f436.jpeg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/osasuna/2024/12/15/amargo-ano-osasuna-femenino-632035-1027.html",
+        "date": "2024-12-15 21:55:34",
+        "sentiment_score": 0.28183456510305405
+    },
+    {
+        "title": "Atlético de Madrid suma su 11a victoria consecutiva e iguala al Barça",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "real madrid",
+            "barcelona",
+            "deportes",
+            "la liga",
+            "atlético de madrid"
+        ],
+        "link": "https://www.elnacional.com/deportes/atletico-de-madrid-suma-su-11a-victoria-e-iguala-al-barca/",
+        "date": "2024-12-15 21:39:29",
+        "sentiment_score": 0.3770669102668762
+    },
+    {
+        "title": "Baraja empieza una semana de dos finales",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/55713912-c49a-4349-8d71-e6b77522e3fe_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2024/12/15/baraja-empieza-semana-finales-112645790.html",
+        "date": "2024-12-15 21:39:27",
+        "sentiment_score": 0.32338695228099823
+    },
+    {
+        "title": "Mejores Ligas y Competencias para Apostar en Bet on Red en 2024",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/15/2024121522352136298.png",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/sociedad/mejores-ligas-competencias-apostar-bet-on-red-2024/20241215223636546730.html",
+        "date": "2024-12-15 21:36:36",
+        "sentiment_score": 0.5042691817507148
+    },
+    {
+        "title": "El 0-1 del Leganés en el FC Barcelona 0-1 Leganés de la jornada 17 de LaLiga EA Sports",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/67a306ae-90dd-4cab-8753-b5fa2486aaef_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreoweb.es/videos/deportes/2024/12/15/0-1-leganes-fc-barcelona-112646357.html",
+        "date": "2024-12-15 22:17:41",
+        "sentiment_score": -0.081938236951828
     }
 ];
