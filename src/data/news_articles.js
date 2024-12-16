@@ -33,56 +33,6 @@ export default [
         "sentiment_score": -0.47843972593545914
     },
     {
-        "title": "Maduro acusa a González Urrutia de “promover una guerra civil” en Venezuela",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "venezuela",
-            "nicolás maduro",
-            "edmundo gonzález urrutia",
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-acusa-edmundo-gonzalez-mensajes-cafe-tv/",
-        "date": "2024-12-12 14:13:29",
-        "sentiment_score": -0.8552089054137468
-    },
-    {
-        "title": "Trump: La persona del año de Time",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "time magazine",
-            "noticias de donald trump",
-            "xpress",
-            "fast – news variety",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-persona-de-ano-de-time-cafe-tv/",
-        "date": "2024-12-12 14:01:33",
-        "sentiment_score": 0.6110437624156475
-    },
-    {
-        "title": "Gobierno interino en Siria disolverá las fuerzas de seguridad de Assad",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fast – news variety",
-            "siria",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/gobierno-sirio-transicion-catigo-antiguos-funcionarios-cafe-tv/",
-        "date": "2024-12-12 13:36:21",
-        "sentiment_score": -0.862622756510973
-    },
-    {
-        "title": "La oposición en Argentina de cara al año electoral",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cristina-kirchner-partido-justicialista-primera-manana-fast/",
-        "date": "2024-12-12 13:11:00",
-        "sentiment_score": -0.4390904940664768
-    },
-    {
         "title": "Localizan cerca de Damasco a un ciudadano estadounidense liberado de una cárcel siria tras siete meses desaparecido",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/12/siria-kv0B-U60348476564585E-758x531@diario_abc.jpg",
         "tags": [
@@ -141,46 +91,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/descubren-forma-potenciar-inmunoterapia-tumores-resistentes-20241212154909-nt.html",
         "date": "2024-12-12 14:55:06",
         "sentiment_score": -0.12019950151443481
-    },
-    {
-        "title": "Jenni Hermoso, Milei y Meloni, entre las 100 personas más influyentes de 2024, según la revista 'Time'",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/12/jenni-hermoso-kC0H-U60348387255144D-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/jenni-hermoso-milei-meloni-100-personas-influyentes-20241212145734-nt.html",
-        "date": "2024-12-12 13:57:35",
-        "sentiment_score": -0.021939635276794434
-    },
-    {
-        "title": "EE.UU. da señales de cerrarle el grifo a Ucrania antes de la llegada de Trump",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/12/trump-zelens-RBxqSqY2mGl6zuwEs4ARMXL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-cierra-grifo-ucrania-llegada-trump-20241212141352-nt.html",
-        "date": "2024-12-12 13:32:12",
-        "sentiment_score": 0.01239323616027832
-    },
-    {
-        "title": "Lula vuelve al quirófano y responde bien a cirugía",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/12/lula-RIUZ7s43JzSsAyGptAYTeeL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/lula-vuelve-quirofano-responde-bien-cirugia-20241212142920-nt.html",
-        "date": "2024-12-12 13:29:21",
-        "sentiment_score": -0.1112859845161438
-    },
-    {
-        "title": "Mahmoud Abbas visita al Papa Francisco y le pide que siga solicitando que Israel salga de Gaza",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/12/abbas-RQoSSPXdvZJGKKwYObJJn6M-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/mahmoud-abbas-visita-papa-francisco-pide-siga-20241212142604-nt.html",
-        "date": "2024-12-12 13:26:04",
-        "sentiment_score": 0.020806998014450073
     },
     {
         "title": "Barcelona pagará 9,6 millones por acoger la salida del Tour de France en 2026",
@@ -5586,5 +5496,260 @@ export default [
         "link": "https://www.elcorreoweb.es/videos/deportes/2024/12/15/0-1-leganes-fc-barcelona-112646357.html",
         "date": "2024-12-15 22:17:41",
         "sentiment_score": -0.081938236951828
+    },
+    {
+        "title": "Testimonios de la caravana migrante que buscan el \"sueño americano\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/migrantes.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nueva-caravana-migrante-sueno-americano-estados-unidos-mexico-mirador-mundial-tv/",
+        "date": "2024-12-16 02:04:38",
+        "sentiment_score": -0.03291960060596466
+    },
+    {
+        "title": "¿Hacia dónde se dirige Siria? tras la caída del régimen de Assad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2188791915.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/assad-regimen-siria-futuro-que-pasara-mirador-mundial-tv/",
+        "date": "2024-12-16 01:32:20",
+        "sentiment_score": -0.5227969065308571
+    },
+    {
+        "title": "Un video muestra un carguero ruso partido en dos que se hunde cerca de Crimea",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/carguero-horiz.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-muestra-carguero-ruso-partido-en-dos-hunde-crimea-trax/",
+        "date": "2024-12-16 01:08:36",
+        "sentiment_score": -0.7143680043518543
+    },
+    {
+        "title": "Incremento de casos de dengue en Guatemala prende las alertas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2161122880.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guatemala-casos-dengue-mirador-mundial-tv-fast/",
+        "date": "2024-12-16 00:57:44",
+        "sentiment_score": -0.8880756134167314
+    },
+    {
+        "title": "Los beneficios de reemplazar los combustibles fósiles por electricidad en los hogares",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1242853644.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/beneficios-electrificar-hogares-combustibles-fosiles-mirador-mundial-tv/",
+        "date": "2024-12-16 00:55:15",
+        "sentiment_score": 0.46961579471826553
+    },
+    {
+        "title": "\"Situación de alto riesgo”: asilados en la embajada argentina en Caracas denuncian \"asedio\" del Gobierno venezolano",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1207394477-20241216005113623.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/asilados-embajada-argentina-caracas-denuncian-alto-riesgo-mirador-mundial-tv/",
+        "date": "2024-12-16 00:52:19",
+        "sentiment_score": -0.8261197488754988
+    },
+    {
+        "title": "Permanece la incógnita en torno al futuro de Siria: ¿conformará un nuevo Estado islámico?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189066357.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/siria-futuro-estado-islamico-mirador-mundial-tv/",
+        "date": "2024-12-16 00:49:44",
+        "sentiment_score": -0.4235695116221905
+    },
+    {
+        "title": "Aldama organizó una reunión entre Ábalos y el embajador de Guaidó en España como enlace del Gobierno con Venezuela",
+        "image_url": "https://s1.elespanol.com/2024/12/15/espana/908919369_251701110_1706x960.jpg?contentId=ESPIMA20241215_0270",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20241216/aldama-organizo-reunion-abalos-embajador-guaido-espana-enlace-gobierno-venezuela/908909197_0.html",
+        "date": "2024-12-16 02:01:37",
+        "sentiment_score": -0.6290927827358246
+    },
+    {
+        "title": "Tadeo de Samarkanda",
+        "image_url": "https://www.eldebate.com/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241216/tadeo-samarkanda_253296.html",
+        "date": "2024-12-16 00:30:00",
+        "sentiment_score": -0.34778992831707
+    },
+    {
+        "title": "La mala racha del Barcelona y la polémica en el Rayo-Real Madrid, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/16/675f6f26597b4.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-15-20241216_3063385.html",
+        "date": "2024-12-16 00:15:51",
+        "sentiment_score": -0.023060739040374756
+    },
+    {
+        "title": "Hansi Flick pierde su idilio con la Liga: los errores del técnico alemán que sentencian al Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/23/culemania/primer-equipo/903419725_13765349_1706x960.jpg?contentId=ESPIMA20241123_0076",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241216/hansi-flick-liga-errores-tecnico-sentencian-barca/908909161_0.html",
+        "date": "2024-12-15 23:55:26",
+        "sentiment_score": -0.9301060494035482
+    },
+    {
+        "title": "Barcelona perdió en casa con Leganés",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/12/barcelona-1512-730x524.webp",
+        "tags": [
+            "fútbol",
+            "derrota",
+            "barcelona",
+            "leganés",
+            "españa",
+            "deportes",
+            "la liga",
+            "atlético de madrid"
+        ],
+        "link": "https://primicia.com.ve/deportes/barcelona-perdio-en-casa-con-leganes/",
+        "date": "2024-12-15 23:49:49",
+        "sentiment_score": 0.3894536420702934
+    },
+    {
+        "title": "El líder Barça cae en casa ante el Leganés y es alcanzado por el Atlético",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol",
+            "atlético madrid",
+            "barca",
+            "deportes",
+            "real madrid"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-lider-barca-cae-en-casa-ante-el-leganes-el-atletico-lo-alcanza/",
+        "date": "2024-12-15 23:40:13",
+        "sentiment_score": 0.22271449863910675
+    },
+    {
+        "title": "El MVP de la jornada: Marc Casadó",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/16/culemania/primer-equipo/909169075_13872688_1706x960.png?contentId=ESPIMA20241216_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241216/el-mvp-de-la-jornada-marc-casado/908909162_0.html",
+        "date": "2024-12-15 23:29:45",
+        "sentiment_score": -0.9033144190907478
+    },
+    {
+        "title": "Barcelona sucumbe en casa 1-0 ante el Leganés en la liga española",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-12-15/barcelona-sucumbe-en-casa-1-0-ante-el-leganes-en-la-liga-espanola",
+        "date": "2024-12-15 23:29:39",
+        "sentiment_score": -0.6181226819753647
+    },
+    {
+        "title": "\"Construir la alternativa política revolucionaria\": movilizarse para transformar el descontento de la izquierda",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/12/16/63D7506F-1D14-4CE6-ABA4-97DD2894E3FF/jovenes-manifestandose-centro-madrid-convocados-coordinadora-juvenil-socialista-cjs-dia-14-diciembre-2024_70.jpg?crop=1280%2C720%2Cx0%2Cy133&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "españa",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/construir-alternativa-politica-revolucionaria-movilizarse-transformar-descontento-izquierda_20241216675f641ec2280e000103c214.html",
+        "date": "2024-12-15 23:19:58",
+        "sentiment_score": 0.639020774513483
+    },
+    {
+        "title": "«La ciencia es un gran método de propaganda que ha seducido a los estados»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/13/Arnau_20241213201737-RNhYThL2KqQTjXJ00593LZM-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/libros/ciencia-gran-metodo-propaganda-seducido-estados-20241213202640-ntrc.html",
+        "date": "2024-12-15 23:09:46",
+        "sentiment_score": 0.4770786017179489
+    },
+    {
+        "title": "Once vuelos fueron desviados a Gran Canaria y Tenerife Sur",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1558f08-4694-4e47-9b7c-29798748dc9a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/gran-canaria/2024/12/16/once-vuelos-desviados-gran-canaria-112647222.html",
+        "date": "2024-12-16 01:41:14",
+        "sentiment_score": -0.6594262178987265
+    },
+    {
+        "title": "Nueva vida de Aleix Espargaró: Sus negocios en Andorra tras dejar la moto por la bici",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/aleix-espargaro-en-bici-2_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/nueva-vida-aleix-espargaro-su-inicio-nuevo-deporte-negocios-andorra",
+        "date": "2024-12-16 01:00:00",
+        "sentiment_score": 0.29819322377443314
+    },
+    {
+        "title": "15 DIC 2024 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/15-dic-2024-tertulion-domingos-20241216_3063394.html",
+        "date": "2024-12-16 00:52:58",
+        "sentiment_score": -0.8665904365479946
+    },
+    {
+        "title": "Puigdemont sostiene ante empresarios que no habrá Presupuestos en 2025 y elogia a Isak Andic, pese a que lo señaló en sus memorias del 1-0",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/a3da21206f6a0e956be0a245670c8df8/f/webp/assets/multimedia/imagenes/2024/12/15/17342818076233.jpg",
+        "tags": [
+            "artículos carlos segovia"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2024/12/16/675f023be4d4d846238b457a.html",
+        "date": "2024-12-16 00:42:27",
+        "sentiment_score": -0.9114689379930496
+    },
+    {
+        "title": "Isak Andic en la hora de todos",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/02/08/65c41a4046e54.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241216/isak-andic-hora-todos_253514.html",
+        "date": "2024-12-16 00:30:00",
+        "sentiment_score": -0.3149868845939636
+    },
+    {
+        "title": "El himno maldito del Barça: dos derrotas en casa y ningún punto desde el aniversario",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/16/culemania/primer-equipo/909169077_13872746_1706x960.jpg?contentId=ESPIMA20241216_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241216/el-himno-maldito-barca-derrotas-ningun-aniversario/909159077_0.html",
+        "date": "2024-12-16 00:23:41",
+        "sentiment_score": -0.8993739718571305
+    },
+    {
+        "title": "The Concrete Home: el nuevo modelo de construcción de hormigón llega a Málaga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosur.es/economia/empresas-malaguenas/the-concrete-home-nuevo-modelo-construccion-hormigon-20241216113712-nt.html",
+        "date": "2024-12-16 00:00:00",
+        "sentiment_score": 0.2941462881863117
     }
 ];
