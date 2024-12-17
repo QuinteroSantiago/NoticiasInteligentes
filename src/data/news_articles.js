@@ -52,61 +52,6 @@ export default [
         "sentiment_score": -0.21935537457466125
     },
     {
-        "title": "Alivio familiar por estadounidense hallado en Siria",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnn-fast_e7c1dd.png",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/estadounidense-hallado-siria-cafe-tv-fast/",
-        "date": "2024-12-13 13:54:01",
-        "sentiment_score": -0.023919284343719482
-    },
-    {
-        "title": "Masivo ataque ruso contra infraestructura energética en Ucrania",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189029083.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/masivo-ataque-infraestructura-energetica-ucrania-cafe-tv/",
-        "date": "2024-12-13 13:50:23",
-        "sentiment_score": -0.8790724324062467
-    },
-    {
-        "title": "Al menos 33 muertos en un ataque israelí a un campamento de refugiados en Gaza",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189010222.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nuevo-ataque-israel-gaza-refugiados-cafe-tv/",
-        "date": "2024-12-13 13:44:26",
-        "sentiment_score": -0.7891063261777163
-    },
-    {
-        "title": "Trascendencia del pacto firmado en el Mercosur",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnn-fast-20241213123945390_5e99cc.png",
-        "tags": [
-            "xpress",
-            "fast – general",
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trascendencia-pacto-firmado-mercosur-primera-manana-fast/",
-        "date": "2024-12-13 12:54:53",
-        "sentiment_score": -0.09162374585866928
-    },
-    {
-        "title": "¿Podría Trump cumplir la propuesta de dar “green card” a estudiantes extranjeros que se gradúen en EE.UU.?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1181885065.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-inmigracion-trump-estudiantes-extranjeros-green-card-residencia-cnn-ush/",
-        "date": "2024-12-13 10:49:42",
-        "sentiment_score": -0.1418619304895401
-    },
-    {
         "title": "Fira de Barcelona alcanza este año el récord de 300 millones de ingresos y 20 millones de beneficios",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/13/1477942555-RfUi1eKwYH79b107SwbQpUL-1200x840@diario_abc.jpg",
         "tags": [
@@ -155,56 +100,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/cambios-dieta-ralentizar-crecimiento-cancer-prostata-20241213150526-nt.html",
         "date": "2024-12-13 15:00:00",
         "sentiment_score": -0.11131732165813446
-    },
-    {
-        "title": "El líder de la extrema derecha de Austria pierde su inmunidad parlamentaria",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/13/kickl-RZhp1V5Ai5DMUPzrZLc1FLI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/lider-extrema-derecha-austria-pierde-inmunidad-parlamentaria-20241213135427-nt.html",
-        "date": "2024-12-13 12:54:28",
-        "sentiment_score": -0.14416740834712982
-    },
-    {
-        "title": "Las farmacias, contra el estigma en salud mental: ayudarán a detectar y derivar pacientes con conductas de riesgo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/12/13/foto-farmas-RbnqfGrHd8wVAkXCxE8mfwI-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/farmacias-estigma-salud-mental-ayudaran-detectar-derivar-20241213134311-nt.html",
-        "date": "2024-12-13 12:43:11",
-        "sentiment_score": -0.04384899139404297
-    },
-    {
-        "title": "El Gobierno negociará la condonación de la deuda autonómica antes de abrir el melón del 'cupo catalán'",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/13/SanchezXXVIIConferenciaPresidentes-RI2O2q7czBf20S68zBlCJcK-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-negociara-condonacion-deuda-autonomica-abrir-melon-20241213130717-nt.html",
-        "date": "2024-12-13 12:34:51",
-        "sentiment_score": 0.019280701875686646
-    },
-    {
-        "title": "Rusia continúa su campaña contra el sector energético de Ucrania con un nuevo ataque masivo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/13/uke-RdZ9tcb7JTF1f3Le0EIhUbP-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-continua-campana-sector-energetico-ucrania-nuevo-20241213125716-nt.html",
-        "date": "2024-12-13 12:21:43",
-        "sentiment_score": -0.08164134621620178
-    },
-    {
-        "title": "CSIF se concentrará mañana en la sede de Muface en defensa del concierto sanitario",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/13/1489821522-RH8M2RdRtGEGZ56p3bX5ukN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/csif-concentrara-manana-sede-muface-defensa-concierto-20241213125549-nt.html",
-        "date": "2024-12-13 11:55:49",
-        "sentiment_score": 0.026252537965774536
     },
     {
         "title": "El otro termómetro que ignoró Mazón: el 112 superó los 10 segundos de espera excesiva en las doce horas previas a la alerta móvil",
@@ -350,42 +245,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-13/detienen-el-juicio-al-acusado-de-matar-a-su-pareja-y-a-la-hija-de-esta-en-valladolid-al-ser-agredido-el-investigado.html",
         "date": "2024-12-13 14:35:54",
         "sentiment_score": -0.505045760422945
-    },
-    {
-        "title": "Se mantiene, solo por aire, la búsqueda terrestre de los excursionistas catalanes perdidos en el Pirineo francés",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VUFR6MBSLTGTM3JU3322PCXC7U.jpg?auth=65f87f71743d1471238c80380541077deff81ca3bbe943c07b4d0e4e5abff84a",
-        "tags": [
-            "temporales",
-            "nieve",
-            "francia",
-            "personas desaparecidas",
-            "búsqueda supervivientes",
-            "pirineos",
-            "cataluña",
-            "rescate víctimas",
-            "bomberos",
-            "servicios emergencia",
-            "excursiones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-13/se-mantiene-solo-por-aire-la-busqueda-terrestre-de-los-excursionistas-catalanes-perdidos-en-el-pirineo-frances.html",
-        "date": "2024-12-13 13:39:08",
-        "sentiment_score": -0.7344507798552513
-    },
-    {
-        "title": "Fira de Barcelona exprime sus salones a la espera de su gran expansión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/G5CZDKFQ45CKJGEPMOKOYH5GGA.jpg?auth=99916fa7330ffd9fdb6736e4f298452b27bbd63ef0c75798e69bb66a82e51bec",
-        "tags": [
-            "fira barcelona",
-            "cataluña",
-            "congresos",
-            "turismo",
-            "mwc",
-            "barcelona",
-            "ferias"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-13/fira-de-barcelona-exprime-sus-salones-a-la-espera-de-su-gran-expansion.html",
-        "date": "2024-12-13 13:29:23",
-        "sentiment_score": 0.2773819863796234
     },
     {
         "title": "Palencia reivindica el legado del economista Fuentes Quintana",
@@ -5785,5 +5644,362 @@ export default [
         "link": "https://eltiempove.com/partido-encuentro-ciudadano-celebro-su-6to-aniversario-con-diferentes-actividades-en-anzoategui/",
         "date": "2024-12-16 21:57:28",
         "sentiment_score": 0.28649337217211723
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 17 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/BK5VEQQZYBERPOJDSMJFCVIGUU.jpg?auth=3b002e1efecc55c943ecba09d655a64e2531ef7717c36065e2df5530e46f0265&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/17/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-17-de-diciembre/",
+        "date": "2024-12-17 02:01:40",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Portugueses ven insuficiente proyecto del Gobierno de vetar vuelos de madrugada en Lisboa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/portugueses-ven-insuficiente-proyecto-del-gobierno-de-vetar-vuelos-de-madrugada-en-lisboa/",
+        "date": "2024-12-17 01:48:31",
+        "sentiment_score": -0.5182678624987602
+    },
+    {
+        "title": "García Plaza: El Villarreal es el principal candidato para el cuarto puesto",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/garcia-plaza-el-villarreal-es-el-principal-candidato-para-el-cuarto-puesto/",
+        "date": "2024-12-17 01:33:30",
+        "sentiment_score": 0.7982610445469618
+    },
+    {
+        "title": "Detenido en Albal (Valencia) con 160 kilos de ibuprofeno y pesticidas ocultos en un coche",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/detenido-en-albal-valencia-con-160-kilos-de-ibuprofeno-y-pesticidas-ocultos-en-un-coche/",
+        "date": "2024-12-17 01:18:30",
+        "sentiment_score": -0.8145424295216799
+    },
+    {
+        "title": "Los municipios expresan su apoyo a los planes de ayudas estatal y autonómicos por la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/los-municipios-expresan-su-apoyo-a-los-planes-de-ayudas-estatal-y-autonomicos-por-la-dana/",
+        "date": "2024-12-17 01:03:29",
+        "sentiment_score": 0.5670246779918671
+    },
+    {
+        "title": "Procesan al exalcalde de Arboleas (Almería) por la muerte de un trabajador en el derrumbe de una mina",
+        "image_url": "https://www.infobae.com/resizer/v2/K3UFGFXN2BBMZFL3DSNLYX52GA.jpg?auth=d2ef0628005d7d19069719083239d34787db07dc6f026f053d58ddf66b1928c3&height=1920&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/procesan-al-exalcalde-de-arboleas-almeria-por-la-muerte-de-un-trabajador-en-el-derrumbe-de-una-mina/",
+        "date": "2024-12-17 00:48:33",
+        "sentiment_score": -0.8276504278182983
+    },
+    {
+        "title": "Hallan a 12 personas muertas en el restaurante de una estación de esquí de Georgia: pudieron haberse intoxicado por culpa de un generador",
+        "image_url": "https://www.infobae.com/resizer/v2/272NXS7LOZHCXA5H6Y36XK52YA.jpg?auth=2ada920d5c9073f20cc648bf51bc5c19e3d6cf922d9b7d026e21767fa5fa72ff&height=1078&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/17/hallan-a-12-personas-muertas-en-el-restaurante-de-una-estacion-de-esqui-de-georgia-pudieron-haberse-intoxicado-por-culpa-de-un-generador/",
+        "date": "2024-12-17 00:33:06",
+        "sentiment_score": -0.4147171080112457
+    },
+    {
+        "title": "La Xunta, condenada a pagar casi 45.000 euros a un profesor interino cesado por no superar el proceso de estabilización",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/la-xunta-condenada-a-pagar-casi-45000-euros-a-un-profesor-interino-cesado-por-no-superar-el-proceso-de-estabilizacion/",
+        "date": "2024-12-17 00:18:30",
+        "sentiment_score": -0.5858263820409775
+    },
+    {
+        "title": "Andueza(PSE) dice que \"es el momento para construir un relato completo sobre la violencia de ETA con todas las verdades\"",
+        "image_url": "https://www.infobae.com/resizer/v2/EZ6JFED6GFFYLFR2EUAISJML2E.jpg?auth=810d43698855b5fe0509841a6b241b50080e7ab44cb9b5e4b1b786b4d28205ea&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/anduezapse-dice-que-es-el-momento-para-construir-un-relato-completo-sobre-la-violencia-de-eta-con-todas-las-verdades/",
+        "date": "2024-12-16 23:48:28",
+        "sentiment_score": -0.49398285895586014
+    },
+    {
+        "title": "Sala de 'Astapa' absuelve a 31 acusados y condena a multa o inhabilitación a 15, entre ellos Barrientos",
+        "image_url": "https://www.infobae.com/resizer/v2/5UEEZM6QXNGGXHHNTH3RCZNC3A.jpg?auth=ab73f7548771baf41dff947d32d226b93ead3a0b851fed3f73e1901d49c1fc18&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/sala-de-astapa-absuelve-a-31-acusados-y-condena-a-multa-o-inhabilitacion-a-15-entre-ellos-barrientos/",
+        "date": "2024-12-16 23:18:39",
+        "sentiment_score": -0.8381499256938696
+    },
+    {
+        "title": "¿Qué ocurre con los \"perritos peregrinos\" abandonados en la Basílica de Guadalupe?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/image-3-20241217004540376.png",
+        "tags": [
+            "méxico",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/perritos-abandonados-basilica-guadalupe-ciudad-de-mexico-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-17 00:50:11",
+        "sentiment_score": -0.22930876910686493
+    },
+    {
+        "title": "Los peligros de consumir leche de vaca no pasteurizada",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sequence-01-00-01-49-07-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/consumo-leche-vaca-no-pasteurizada-minuto-de-salud-fast/",
+        "date": "2024-12-17 00:49:39",
+        "sentiment_score": -0.20003463327884674
+    },
+    {
+        "title": "La tensión diplomática entre Argentina y Venezuela sigue creciendo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2188715448-20241217003409612.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-venezuela-tension-diplomatica-dusa-tv/",
+        "date": "2024-12-17 00:35:15",
+        "sentiment_score": -0.8401200864464045
+    },
+    {
+        "title": "Así reaccionó la Casa Blanca al tiroteo en una escuela primaria de Wisconsin",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189597506.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiroteo-wisconsin-biden-reacciones-dusa-tv/",
+        "date": "2024-12-17 00:27:42",
+        "sentiment_score": -0.6146110855042934
+    },
+    {
+        "title": "Gobierno de Claudia Sheinbaum recorta recursos para migración en medio de las amenazas de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2187035051-20241216234334354.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gobierno-claudia-sheinbaum-mexico-recorta-migracion-dusa-tv-fast/",
+        "date": "2024-12-16 23:56:50",
+        "sentiment_score": -0.7031189166009426
+    },
+    {
+        "title": "Muere un tercer preso político en las cárceles chavistas de Venezuela",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/17/presos-venezuela-kZlD-U6035034786466tE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/muere-tercer-preso-politico-carceles-chavistas-venezuela-20241217015951-nt.html",
+        "date": "2024-12-17 00:59:51",
+        "sentiment_score": -0.20217134058475494
+    },
+    {
+        "title": "Conducir un taxi o una ambulancia protege frente a la enfermedad de Alzheimer",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/12/16/taxis.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/conducir-taxi-ambulancia-protege-frente-enfermedad-alzheimer-20241217141135-nt.html",
+        "date": "2024-12-16 23:38:00",
+        "sentiment_score": -0.09829172492027283
+    },
+    {
+        "title": "Estados Unidos mata a 12 terroristas de Estado Islámico con ataques aéreos en Siria",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/16/siria-reuters.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/estados-unidos-mata-terroristas-estado-islamico-ataques-20241216230931-nt.html",
+        "date": "2024-12-16 22:23:41",
+        "sentiment_score": -0.19680090248584747
+    },
+    {
+        "title": "El top de las mejores series de Netflix en México",
+        "image_url": "https://www.infobae.com/resizer/v2/IP63LS6UWBESBFKBO5UMSJCOVE.jpg?auth=979c09eef8246aad7b8af5535345d475738a1626caa2bd3c8bbb6af34ce9c494&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/12/17/el-top-de-las-mejores-series-de-netflix-en-mexico/",
+        "date": "2024-12-17 02:01:20",
+        "sentiment_score": 0.38908425718545914
+    },
+    {
+        "title": "Caracafé, el guitarrista de las Tres Mil Viviendas que estuvo 20 años con Pata Negra y saca a niños en riesgo de la calle",
+        "image_url": "https://s1.elespanol.com/2024/12/13/reportajes/908419879_251664669_1706x960.jpg?contentId=ESPIMA20241213_0730",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241217/caracafe-guitarrista-mil-viviendas-anos-pata-negra-saca-ninos-riesgo-calle/908409556_0.html",
+        "date": "2024-12-17 01:23:32",
+        "sentiment_score": 0.06183481216430664
+    },
+    {
+        "title": "Dinero para el PSOE, pisos con \"señoritas\" y comisiones en favor de Ábalos: todo lo que declaró Aldama en el Supremo",
+        "image_url": "https://s1.elespanol.com/2024/12/16/espana/politica/909169578_251733831_1706x960.jpg?contentId=ESPIMA20241216_0504",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20241217/dinero-psoe-pisos-senoritas-comisiones-favor-abalos-declaro-aldama-supremo/909159709_0.html",
+        "date": "2024-12-17 01:23:03",
+        "sentiment_score": -0.331734586507082
+    },
+    {
+        "title": "La mano que 'mecía' las comisiones: Aldama aporta la foto que le envió Koldo en \"garantía de que iban a cumplir\"",
+        "image_url": "https://s1.elespanol.com/2024/12/16/espana/tribunales/909170145_251734423_854x640.jpg?contentId=ESPIMA20241216_1071",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20241217/mano-mecia-comisiones-aldama-aporta-foto-envio-koldo-garantia-iban-cumplir/909159723_0.html",
+        "date": "2024-12-17 01:23:02",
+        "sentiment_score": -0.15902037918567657
+    },
+    {
+        "title": "Las series de Netflix Colombia que roban la atención HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/SHYK4VXAKJAR7M62GKZKCIXDQI.jpg?auth=dd42c320c34e1147046c52486e2d09be5d0c553d07f4b1a776897d24f32e83eb&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/12/17/las-series-de-netflix-colombia-que-roban-la-atencion-hoy/",
+        "date": "2024-12-17 01:16:03",
+        "sentiment_score": 0.5889206230640411
+    },
+    {
+        "title": "Una gloria del fútbol lanzó su candidatura a la presidencia de la Confederación Brasileña: “Tengo planes increíbles”",
+        "image_url": "https://www.infobae.com/resizer/v2/NYGSMZXR2VECNL2XWNGTPLKH2M.jfif?auth=7c4f9eacb2b25b865b2fec5cc23b7966b273c51ffae45b22d7075cb05d777552&height=1081&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/17/una-gloria-del-futbol-lanzo-su-candidatura-a-la-presidencia-de-la-confederacion-brasilena-tengo-planes-increibles/",
+        "date": "2024-12-17 01:14:19",
+        "sentiment_score": -0.25751587748527527
+    },
+    {
+        "title": "Campeón del mundo con Francia en 2018 podría enfrentarse a equipos colombianos en la Copa Libertadores",
+        "image_url": "https://www.infobae.com/resizer/v2/WFRLM6T4LBFXFL4BGIC4KTCSRA.jpeg?auth=77c263c55c7f325facab988ec0dc0889aaf4283a383c285040da30263d8aa213&height=900&smart=true&width=1600",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/12/17/campeon-del-mundo-con-francia-en-2018-podria-enfrentarse-a-equipos-colombianos-en-la-copa-libertadores/",
+        "date": "2024-12-17 01:11:17",
+        "sentiment_score": 0.10512815415859222
+    },
+    {
+        "title": "LaLiga | Misterio rodea la ausencia de James Rodríguez en el Rayo Vallecano",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/12/LaLiga-Misterio-rodea-la-ausencia-de-James-Rodriguez-en-el-Rayo-Vallecano-16-dic-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "monagas",
+            "deportes",
+            "maturín",
+            "venezuela"
+        ],
+        "link": "https://elorientaldemonagas.com/laliga-misterio-rodea-la-ausencia-de-james-rodriguez-en-el-rayo-vallecano/",
+        "date": "2024-12-17 01:00:00",
+        "sentiment_score": -0.5560183729976416
+    },
+    {
+        "title": "Estas son las series mas populares para ver en Netflix Perú hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/IUKGGB27AZFDLPEY5BRHD3JIB4.jpg?auth=263bc5be3092d6f48443db864d1ca4f43ace83faf22438fda11b5c3360945a58&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/12/17/estas-son-las-series-mas-populares-para-ver-en-netflix-peru-hoy/",
+        "date": "2024-12-17 00:46:31",
+        "sentiment_score": 0.7547858096659184
+    },
+    {
+        "title": "Cuenta atrás para las vacaciones de Navidad de Felipe y Letizia: su último y significativo acto y el regreso de Leonor y Sofía",
+        "image_url": "https://s1.elespanol.com/2024/12/16/actualidad/909169839_251725109_1706x960.jpg?contentId=ESPIMA20241216_0765",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20241217/cuenta-vacaciones-navidad-felipe-letizia-ultimo-significativo-acto-regreso-leonor-sofia/909159230_0.html",
+        "date": "2024-12-17 00:35:11",
+        "sentiment_score": 0.5226647108793259
+    },
+    {
+        "title": "Así es el tesoro modernista que oculta A Coruña",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2024/12/16/430C3346-F106-4EE1-B9AC-63E467E27FC9/edificio-fundacion-barrie_96.jpg?crop=1440%2C810%2Cx0%2Cy75&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "galicia",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/galicia/asi-tesoro-modernista-que-oculta-coruna-p7m_20241217675ffae36b6d0500012b22fe.html",
+        "date": "2024-12-17 01:35:32",
+        "sentiment_score": 0.8951272834092379
+    },
+    {
+        "title": "El diagnóstico de un traumatólogo sobre la lesión de Lamine Yamal enciende las alarmas: “Es una imprudencia de los servicios médicos”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/17/culemania/primer-equipo/909419080_13878635_1706x960.jpg?contentId=ESPIMA20241217_0031",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241217/el-diagnostico-de-traumatologo-lamine-yamal-es/909409051_0.html",
+        "date": "2024-12-17 01:29:49",
+        "sentiment_score": -0.9069685926660895
+    },
+    {
+        "title": "La inteligencia artificial será la aliada indiscutible de la ciberseguridad en 2025, pero también su talón de Aquiles",
+        "image_url": "https://s1.elespanol.com/2024/12/11/invertia/disruptores/grandes-actores/corporaciones/907919469_251577226_1706x960.jpg?contentId=ESPIMA20241211_0270",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20241217/inteligencia-artificial-aliada-indiscutible-ciberseguridad-talon-aquiles/907909430_0.html",
+        "date": "2024-12-17 00:37:58",
+        "sentiment_score": 0.40839018300175667
+    },
+    {
+        "title": "Así es Violeta, la sobrina de Isak Andic, que sigue el legado de la familia fuera de Mango: firma 'eco' con una diseñadora VIP",
+        "image_url": "https://s1.elespanol.com/2024/12/16/corazon/famosos/909169845_251725271_1706x960.jpg?contentId=ESPIMA20241216_0771",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241217/violeta-sobrina-isak-andic-sigue-legado-familia-mango-firma-eco-disenadora-vip/909159284_0.html",
+        "date": "2024-12-17 00:35:09",
+        "sentiment_score": 0.09135233238339424
+    },
+    {
+        "title": "La gran crisis del fútbol barcelonés: los modelos de propiedad de Barça y Espanyol, bajo sospecha",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/03/culemania/palco/898420155_13665169_1706x960.png?contentId=ESPIMA20241103_0006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241217/la-barcelones-de-propiedad-barca-espanyol-sospecha/909159140_0.html",
+        "date": "2024-12-17 00:29:02",
+        "sentiment_score": -0.9294788027182221
+    },
+    {
+        "title": "La seguridad de Montjuïc persigue a los aficionados que cantan \"Barça sí, Laporta no\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/16/culemania/palco/909169209_13876779_1706x960.png?contentId=ESPIMA20241216_0135",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241217/la-seguridad-montjuic-persigue-aficionados-barca-laporta/909159175_0.html",
+        "date": "2024-12-17 00:24:26",
+        "sentiment_score": -0.8264565858989954
+    },
+    {
+        "title": "Comprobado: los inviernos son ahora más cortos y cálidos",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/17/fotolead_invierno_840.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/antropia/comprobado-inviernos-cortos-calidos-20241217011034-ntrc.html",
+        "date": "2024-12-17 00:10:36",
+        "sentiment_score": 0.5155682377517223
     }
 ];
