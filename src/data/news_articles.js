@@ -1,250 +1,5 @@
 export default [
     {
-        "title": "Un coche que circulaba en sentido contrario choca contra un VTC en la M-45",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XJX4A75CYNBNDHI4AHNGSRNSGE.jpg?auth=8dab547729f26bd253f74afe4fc8a4e518fd8e923a76f7c7d19d64d2e05f1d27&width=1200",
-        "tags": [
-            "madrid",
-            "circunvalación",
-            "samur",
-            "hospital 12 de octubre",
-            "heridos",
-            "accidentes tráfico",
-            "hospital gregorio marañón",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-13/un-coche-que-circulaba-en-sentido-contrario-choca-contra-un-vtc-en-la-m-45.html",
-        "date": "2024-12-13 06:21:37",
-        "sentiment_score": -0.7196571733802557
-    },
-    {
-        "title": "El engendro de Emvicesa y la oscura política de vivienda en Ceuta",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1136531",
-        "date": "2024-12-13 06:32:36",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El escritor Homesley y el cineasta Conditt IV amenazan al Unicaja",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a53d759b-6a64-4f29-bfe9-ea9fd5eaace8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/12/13/escritor-homesley-cineasta-conditt-iv-112564635.html",
-        "date": "2024-12-13 06:00:46",
-        "sentiment_score": -0.2013722062110901
-    },
-    {
-        "title": "Juanma García 'Lucas', toda una vida centrada en el fútbol",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "barriada de manzanera",
-            "ad ceuta",
-            "futbol",
-            "noticias",
-            "ua ceutí",
-            "sarchal",
-            "deportes"
-        ],
-        "link": "https://elfarodeceuta.es/juanma-garcia-lucas-toda-vida-centrada-futbol/",
-        "date": "2024-12-13 06:00:43",
-        "sentiment_score": 0.47441187128424644
-    },
-    {
-        "title": "The Economist dixit",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3de1c7f4-a253-455e-9b9f-a5eae49c9839_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2024/12/13/the-economist-dixit-112558103.html",
-        "date": "2024-12-13 06:00:33",
-        "sentiment_score": 0.25146447122097015
-    },
-    {
-        "title": "Denuncian 'oscurantismo' en el rastreo de contratos a la familia de Feijóo: \"Pide explicaciones en Madrid y se niega a darlas en Galicia\"",
-        "image_url": "https://www.elplural.com/uploads/s1/18/85/77/5/alberto-nunez-feijoo-y-alfonso-rueda-ep_7_480x270.jpeg",
-        "tags": [
-            "galicia"
-        ],
-        "link": "https://www.elplural.com/autonomias/galicia/denuncian-oscurantismo-rastreo-contratos-familia-feijoo-pide-explicaciones-madrid-niega-darlas-galicia_342987102",
-        "date": "2024-12-13 06:00:00",
-        "sentiment_score": -0.19539082050323486
-    },
-    {
-        "title": "Jornada 17 de La Liga: horarios, resultados y resumen de los partidos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LVJ7EAAOBYIAIGA3OHQ4EFPSMA.jpg?auth=25de28faed7c25ade1e182bec880d8453ae23d8ecc8e759675831e3baa403183&width=1200",
-        "tags": [
-            "valencia cf",
-            "rcd mallorca",
-            "competiciones",
-            "entrenadores",
-            "athletic",
-            "celta de vigo",
-            "cd leganés",
-            "osasuna",
-            "laliga ea sports",
-            "ud las palmas",
-            "atlético de madrid",
-            "fútbol",
-            "sevilla fútbol club",
-            "horarios de partidos",
-            "futbolistas",
-            "real valladolid",
-            "rayo vallecano",
-            "villarreal cf",
-            "fc barcelona",
-            "real sociedad",
-            "deportivo alavés",
-            "girona cf",
-            "deportes",
-            "getafe cf",
-            "rcd espanyol",
-            "real betis",
-            "real madrid"
-        ],
-        "link": "https://elpais.com/deportes/futbol/2024-12-13/jornada-17-de-la-liga-horarios-resultados-y-resumen-de-los-partidos.html",
-        "date": "2024-12-13 06:00:00",
-        "sentiment_score": -0.06816083192825317
-    },
-    {
-        "title": "Hiba Abouk, confidencias tras un año lleno de cambios: maternidad, amor y su proyecto más especial",
-        "image_url": "https://www.hola.com/horizon/landscape/c8fb6824ec2f-christmas-tree-hiba11720cut.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20241213734626/hiba-abouk-confidencias-anyo-cambios-maternidad-amor-proyecto-especial/",
-        "date": "2024-12-13 06:00:00",
-        "sentiment_score": 0.07129648327827454
-    },
-    {
-        "title": "Entre guantes y risas: la lección de compañerismo de Pacheco y Joan García",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2024/12/joan-garcia-fernando-pacheco-espanyol-750x375.jpg",
-        "tags": [
-            "joan garcía",
-            "fernando pacheco",
-            "actualidad",
-            "espanyol"
-        ],
-        "link": "https://lagradaonline.com/joan-garcia-fernando-pacheco-portero-espanyol/",
-        "date": "2024-12-13 05:50:41",
-        "sentiment_score": 0.6025339961051941
-    },
-    {
-        "title": "Las lesiones borran a Dani Lorenzo del once del Málaga CF",
-        "image_url": "https://s1.elespanol.com/2024/08/04/malaga/deporte/malaga-c-f/875672719_248270356_1706x960.jpg?contentId=ESPIMA20240804_0295",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/malaga/deporte/malaga-c-f/20241213/lesiones-borran-dani-lorenzo-once-malaga-cf/908159711_0.html",
-        "date": "2024-12-13 05:50:00",
-        "sentiment_score": -0.8314377078786492
-    },
-    {
-        "title": "Begoña Gómez iba acompañada de la directora de Moncloa a sus reuniones con la cúpula de la Complutense",
-        "image_url": "https://okdiario.com/img/2024/12/13/begona-gomez-iba-con-escoltas-interior.jpg",
-        "tags": [
-            "begoña gómez",
-            "pedro sánchez",
-            "gobierno",
-            "españa"
-        ],
-        "link": "https://okdiario.com/espana/begona-gomez-iba-acompanada-directora-moncloa-sus-reuniones-cupula-complutense-13968278",
-        "date": "2024-12-13 05:48:20",
-        "sentiment_score": -0.22840869426727295
-    },
-    {
-        "title": "Ferran, un suplente de garantías",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/752645c8-e0d2-0596-30bed8d5dcc7155c.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z7526448b-d5b3-ceb5-7521ab75087bf72e/202412/ferran-un-suplente-de-garantias",
-        "date": "2024-12-13 06:28:13",
-        "sentiment_score": 0.7938556466251612
-    },
-    {
-        "title": "El plátano solitario o el poder del arte de contar historias",
-        "image_url": "https://static1.ara.cat/clip/aeae9656-c9c7-40d8-9f87-a9de390238b8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/platano-solitario-arte-contar-historias_129_5229458.html",
-        "date": "2024-12-13 06:15:28",
-        "sentiment_score": -0.30128684639930725
-    },
-    {
-        "title": "Lo que debes saber hoy, 13 de diciembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/10/08/vivir-en-barcelona/617948202_9430345_1706x960.jpg?contentId=ESPIMA20211008_0003",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241213/lo-que-debes-saber-hoy-de-diciembre-barcelona/908409151_0.html",
-        "date": "2024-12-13 06:13:49",
-        "sentiment_score": 0.29848892986774445
-    },
-    {
-        "title": "Este es el número que jugó el FC Barcelona en la Lotería de Navidad 2023",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/12/07/67548024ca7a7.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20241213/1002370237/numero-jugo-fc-barcelona-loteria-navidad-2023-dct.html",
-        "date": "2024-12-13 06:10:00",
-        "sentiment_score": 0.8741996381431818
-    },
-    {
-        "title": "La historia detrás de Curro, el pájaro multicolor que lleva siendo un icono desde 1992",
-        "image_url": "https://album.mediaset.es/eimg/2024/12/12/curro_e160.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.telecinco.es/noticias/cultura/20241213/historia-detras-curro-pajaro-multicolor-expo-1992_18_014267193.html",
-        "date": "2024-12-13 06:05:40",
-        "sentiment_score": 0.11752256751060486
-    },
-    {
-        "title": "Los menús de Fin de Año más interesantes y variados",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8b343c70-a348-49cf-b865-d0e83ce55861_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241213/menus-fin-de-ano-restaurantes-barcelona-112489740",
-        "date": "2024-12-13 06:05:02",
-        "sentiment_score": 0.48929545283317566
-    },
-    {
-        "title": "3 buenos restaurantes de Barcelona para el fin de semana: Topik, Jara Omakase & Sushi y Budda Ramen Bar",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16ddf928-aa09-429c-bd86-d9abdb5b4090_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241213/buenos-restaurantes-barcelona-topik-jara-omakase-sushi-budda-ramen-bar-112534873",
-        "date": "2024-12-13 06:02:49",
-        "sentiment_score": -0.2884330675005913
-    },
-    {
-        "title": "Hablamos con David Bustamante de sus 23 años de carrera, su amor por Yana y su cambio físico",
-        "image_url": "https://www.hola.com/horizon/landscape/eca48a5701ff-busta-2-baja-1.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20241213735204/david-bustamante-entrevista-carrera-cambio-fisico/",
-        "date": "2024-12-13 06:02:00",
-        "sentiment_score": -0.8485228437930346
-    },
-    {
-        "title": "La rehabilitación de la fábrica Fiat Lux arrancará en 2025: será el Centro Cultural La Chimenea",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/78363d8b-7d10-4e77-ac8c-25873764cd09_16-9-aspect-ratio_default_0_x1972y1667.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2024/12/13/rehabilitacion-fabrica-fiat-lux-arrancara-112549138.html",
-        "date": "2024-12-13 06:00:30",
-        "sentiment_score": 0.5171470530331135
-    },
-    {
         "title": "Lo que deben hacer los estudiantes extranjeros que terminan sus estudios para quedarse más tiempo en EE.UU.",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1244775734.jpg?quality=100&strip=info",
         "tags": [
@@ -5430,5 +5185,605 @@ export default [
         "link": "https://www.cope.es/programas/la-tarde/audios/asi-ruta-fallecido-fundador-mango-cerca-barcelona-punto-mas-peligroso-20241216_3064047.html",
         "date": "2024-12-16 16:52:44",
         "sentiment_score": -0.1700383722782135
+    },
+    {
+        "title": "Feijóo pide a Sánchez hacer un propósito para 2025 al no dimitir ni llamar a las urnas: \"Que no vuelvan a delinquir\"",
+        "image_url": "https://www.infobae.com/resizer/v2/2VEO3JYSXRBJ3OUHCNDESBMXDI.jpg?auth=f4dcb6aa74224cd3de950a17ec32eda6e4ad7cf27d95c2e4d8bda7f3abfa3841&height=1268&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/feijoo-pide-a-sanchez-hacer-un-proposito-para-2025-al-no-dimitir-ni-llamar-a-las-urnas-que-no-vuelvan-a-delinquir/",
+        "date": "2024-12-16 22:15:36",
+        "sentiment_score": -0.4700743481516838
+    },
+    {
+        "title": "Ayuso, Feijóo, mil afiliados y un lema del 15-M contra el PSOE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/ayuso-feijoo-mil-afiliados-y-un-lema-del-15-m-contra-el-psoe/",
+        "date": "2024-12-16 22:02:40",
+        "sentiment_score": -0.02253475785255432
+    },
+    {
+        "title": "Aena aclara que no hubo ninguna reunión en la que participara Aldama con el exCEO de Globalia",
+        "image_url": "https://www.infobae.com/resizer/v2/PFLBJMIXLJFHHPTQ7NVTVZMYEM.jpg?auth=201c606397c6063346bc5714caa6268b710cbafa287af3aa2d1841d941d19ec1&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/aena-aclara-que-no-hubo-ninguna-reunion-en-la-que-participara-aldama-con-el-exceo-de-globalia/",
+        "date": "2024-12-16 22:00:40",
+        "sentiment_score": -0.4414491467177868
+    },
+    {
+        "title": "Forbes abre en Madrid su primer club privado: bar-azotea, restaurante con estrella Michelin y una bodega",
+        "image_url": "https://www.infobae.com/resizer/v2/TWQE6IQZNFEO3IBK5KIG4OF2O4.jpg?auth=2ffacde2bcaeac3e63263619fe8b3c18eb4bbd7fcba58e41e01b447ffd658623&height=1440&smart=true&width=960",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/16/forbes-abre-en-madrid-su-primer-club-privado-bar-azotea-restaurante-con-estrella-michelin-y-una-bodega/",
+        "date": "2024-12-16 21:54:14",
+        "sentiment_score": 0.23538478463888168
+    },
+    {
+        "title": "Karanka: \"El Madrid siempre es favorito\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/karanka-el-madrid-siempre-es-favorito/",
+        "date": "2024-12-16 21:48:49",
+        "sentiment_score": 0.7663697265088558
+    },
+    {
+        "title": "Juande Ramos: \"Ancelotti es el entrenador que más garantías puede dar al Real Madrid\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/juande-ramos-ancelotti-es-el-entrenador-que-mas-garantias-puede-dar-al-real-madrid/",
+        "date": "2024-12-16 21:48:32",
+        "sentiment_score": 0.5985248237848282
+    },
+    {
+        "title": "Estabilizan el incendio en un solar con coches acumulados tras la dana en Catarroja",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/estabilizan-el-incendio-en-un-solar-con-coches-acumulados-tras-la-dana-en-catarroja/",
+        "date": "2024-12-16 21:48:11",
+        "sentiment_score": -0.8062336966395378
+    },
+    {
+        "title": "Ayuso, tras la declaración de De Aldama: \"No hay pan para tanto chorizo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/ayuso-tras-la-declaracion-de-de-aldama-no-hay-pan-para-tanto-chorizo/",
+        "date": "2024-12-16 21:47:54",
+        "sentiment_score": -0.3219825029373169
+    },
+    {
+        "title": "Prisión para dos patrones de una patera por la presunta muerte de 6 migrantes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/prision-para-dos-patrones-de-una-patera-por-la-presunta-muerte-de-6-migrantes/",
+        "date": "2024-12-16 21:47:38",
+        "sentiment_score": -0.8511299174278975
+    },
+    {
+        "title": "Iván Helguera: \"Hay que intentar que Vinicius no haga ese tipo de cosas\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/ivan-helguera-hay-que-intentar-que-vinicius-no-haga-ese-tipo-de-cosas/",
+        "date": "2024-12-16 21:31:51",
+        "sentiment_score": -0.6075163558125496
+    },
+    {
+        "title": "Tiroteo en escuela en Wisconsin deja al menos dos muertos y múltiples heridos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21203757-2040455-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiroteo-madison-wisconsin-escuela/",
+        "date": "2024-12-16 21:42:53",
+        "sentiment_score": -0.822274612262845
+    },
+    {
+        "title": "Trump dice que cree \"firmemente \" en la vacuna contra la polio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/trump-00-00-13-01-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-eeuu-vacuna-polio-venezuela-tv/",
+        "date": "2024-12-16 20:44:11",
+        "sentiment_score": -0.04023565351963043
+    },
+    {
+        "title": "Mira cómo llegan más de 30 tanques M1A2T enviados por EE.UU. a Taiwán",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/taiwan-tanques-eeuu-china-orix/",
+        "date": "2024-12-16 20:12:15",
+        "sentiment_score": 0.07370211184024811
+    },
+    {
+        "title": "La historia del argentino que vendió sus 70 bitcoines hace 10 años y perdió una oportunidad de ser millonario",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-bitcoin-70-vendio-redaccion-buenos-aires-tv/",
+        "date": "2024-12-16 19:55:27",
+        "sentiment_score": -0.4131098985671997
+    },
+    {
+        "title": "Última hora del tiroteo en escuela de Madison, Wisconsin: muertos, noticias, reacciones y más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/screenshot-2024-12-16-at-12-41-36-pm.jpg?quality=100&strip=info",
+        "tags": [
+            "tiroteos",
+            "minuto a minuto"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/16/noticias-tiroteo-escuela-wisconsin-trax/",
+        "date": "2024-12-16 19:34:48",
+        "sentiment_score": -0.7848397996276617
+    },
+    {
+        "title": "Los estudiantes extranjeros deberían volver a EE.UU. antes de la toma de posesión de Trump, aconsejan universidades",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estudiantes-internacionales-trump-daca-avisos-ush-orix/",
+        "date": "2024-12-16 19:26:57",
+        "sentiment_score": -0.10302452743053436
+    },
+    {
+        "title": "Matan al alcalde de Tancanhuitz, San Luis Potosí, México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/matan-alcalde-tancanhuitz-san-luis-potosi-mexico-rba-tv/",
+        "date": "2024-12-16 19:21:05",
+        "sentiment_score": -0.8496753331273794
+    },
+    {
+        "title": "Imágenes afuera de la Escuela Cristiana Abundant Life, en Madison, Wisconsin, tras tiroteo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21203757-854318-445-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiroteo-escuela-cristiana-madison-wisconsin-ush-rba-tv/",
+        "date": "2024-12-16 18:44:11",
+        "sentiment_score": -0.7360343486070633
+    },
+    {
+        "title": "Grúa tuvo que “pescar” vehículo sumergido luego de que su conductor se estrellara contra la pared de un gimnasio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/coche-caer-piscina-gimnasio-ush-trax/",
+        "date": "2024-12-16 18:34:38",
+        "sentiment_score": -0.6422139089554548
+    },
+    {
+        "title": "Lo que dice la Fiscalía de Michoacán sobre el homicidio de una pareja de estadounidenses",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fiscalia-michoacan-asesinato-pareja-estadounidenses-tv/",
+        "date": "2024-12-16 18:25:44",
+        "sentiment_score": -0.4654075112193823
+    },
+    {
+        "title": "Se compra alcaldía a buen precio",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/11/23/soy-dueno-almazara-precio-aceite-navidad-klQB--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-compra-alcaldia-buen-precio-20241217193629-nt.html",
+        "date": "2024-12-16 20:30:37",
+        "sentiment_score": -0.06628870964050293
+    },
+    {
+        "title": "Sevilla caminó en Esperanza",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/11/esperanza-triana-macarena-RKLrOw294sKiIft5E2hqMrL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jose-joaquin-gallardo-sevilla-camino-esperanza-20241217125600-nts.html",
+        "date": "2024-12-16 20:10:36",
+        "sentiment_score": 0.1821778565645218
+    },
+    {
+        "title": "El arte de la democracia",
+        "image_url": "https://s1.ppllstatics.com/burgosconecta/www/multimedia/2024/12/13/michelin-buena-comida-kgGB--170x119@Burgosconecta.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-ruizquintano-arte-democracia-20241217210728-nt.html",
+        "date": "2024-12-16 20:07:37",
+        "sentiment_score": -0.26189298927783966
+    },
+    {
+        "title": "Jaén merece muchísimo más",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/12/15/2023_04_06_GNR_CONTROL-U77607621661qdd-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/juan-j-borrero-jaen-merece-muchisimo-20241217193729-nts.html",
+        "date": "2024-12-16 20:07:28",
+        "sentiment_score": -0.1326259821653366
+    },
+    {
+        "title": "Nuestra estampa",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2024/12/16/nuevo-precio-aove-16diciembre-kxCB--170x119@Las%20Provincias.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-estampa-20241217134130-nts.html",
+        "date": "2024-12-16 20:06:15",
+        "sentiment_score": -0.039327412843704224
+    },
+    {
+        "title": "El candidato Muñoz",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/17/articulo-antonio-munoz-RkD2sYX3IY6BxkBTrZWIetO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-candidato-munoz-20241217192552-nts.html",
+        "date": "2024-12-16 19:47:07",
+        "sentiment_score": -0.029539823532104492
+    },
+    {
+        "title": "La UE quiere evitar en Siria los errores de Libia y Afganistán",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/16/damasco-Rav2mImAp4LW3SVHJQtNUPO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ue-quiere-evitar-siria-errores-libia-afganistan-20241216201759-nt.html",
+        "date": "2024-12-16 19:21:16",
+        "sentiment_score": -0.10866528749465942
+    },
+    {
+        "title": "El ministro de Finanzas de Canadá dimite tras enfrentarse a Trudeau y asesta un duro golpe al Gobierno",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/16/Canada-kebC-U603502210459BkH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ministro-finanzas-canada-dimite-tras-enfrentarse-trudeau-20241216200430-nt.html",
+        "date": "2024-12-16 19:04:30",
+        "sentiment_score": -0.15561458468437195
+    },
+    {
+        "title": "Hadas Jaoui-Kalderon: «Nunca me hubiera instalado tan cerca de la frontera si no hubiera tenido una confianza ciega en Israel»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/14/hadas-RbcN6ZVo0hMC9cHEMpqzl7N-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/hadas-jaouikalderon-israel-hamas-deben-flexibles-poder-20241214174709-nt.html",
+        "date": "2024-12-16 19:00:10",
+        "sentiment_score": -0.1621924489736557
+    },
+    {
+        "title": "Quemar la ciudad",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/17/6019950-U03823863855diR-1200x630@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-quemar-ciudad-20241217121916-nt.html",
+        "date": "2024-12-16 18:31:13",
+        "sentiment_score": -0.045330584049224854
+    },
+    {
+        "title": "Ayuso brinda por la Navidad con la frase favorita de su jefe de gabinete: “Esto no lo tapa ni Franco. Van ‘p’alante”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IJISFQWJNFBRDEAMPRRGF3VPRU.jpg?auth=6c5709cf896b6e2150691062ed720a531a59a36ae54c46bf1d20c19307eefb58&width=1200",
+        "tags": [
+            "españa",
+            "política",
+            "cena",
+            "pp madrid",
+            "navidad",
+            "isabel díaz ayuso",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://elpais.com/espana/2024-12-16/ayuso-brinda-por-la-navidad-con-la-frase-favorita-de-su-jefe-de-gabinete-esto-no-lo-tapa-ni-franco-van-palante.html",
+        "date": "2024-12-16 22:16:11",
+        "sentiment_score": 0.35798317193984985
+    },
+    {
+        "title": "Barcelona pone coto al número de festivales en el Parc del Fórum",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/X6P7U2E7K5DZVAWDVK2P3JTTDQ.jpg?auth=2b610159450af3c526be7865405f5542ca74952a9911ae5a2e0a881dc03b5bbc&width=1200",
+        "tags": [
+            "música en vivo",
+            "vecinos",
+            "rock",
+            "barcelona",
+            "ayuntamiento barcelona",
+            "barrios",
+            "cataluña",
+            "festivales culturales",
+            "conciertos",
+            "música",
+            "barrios históricos",
+            "jazz",
+            "urbanismo",
+            "primavera sound",
+            "festivales música",
+            "festivales",
+            "cultura"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-16/barcelona-pone-coto-al-numero-de-festivales-en-el-parc-del-forum.html",
+        "date": "2024-12-16 20:31:35",
+        "sentiment_score": -0.11180960386991501
+    },
+    {
+        "title": "El Consejo de Seguridad Nuclear desactiva el aviso tras localizar un bulto con material radiactivo que se había extraviado en Barajas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2RW23TGPDJGJRNJFDYHOQG3BZM.jpg?auth=8cbe09eec52a8a9a65310ca8bb6add11829797e4736c9e7f3221b21ef73129e5&width=1200",
+        "tags": [
+            "aeropuerto madrid barajas",
+            "españa",
+            "radiactividad",
+            "seguridad nuclear"
+        ],
+        "link": "https://elpais.com/espana/2024-12-16/el-consejo-de-seguridad-nuclear-alerta-de-que-se-ha-extraviado-un-bulto-con-material-radiactivo-en-barajas-pero-que-esta-debidamente-encapsulado.html",
+        "date": "2024-12-16 20:13:27",
+        "sentiment_score": -0.4156251773238182
+    },
+    {
+        "title": "Literatura será optativa en primero de Bachillerato en Cataluña y el Treball de Recerca contará como una asignatura",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7ADEWW4CDRDTPPRQ7ZET2HK7OE.jpg?auth=796158d9225e13845a42a86faef422289592feddd2d5e2cc538563da511f90a0&width=1200",
+        "tags": [
+            "educación",
+            "bachillerato",
+            "asignatura pendiente",
+            "generalitat cataluña",
+            "cataluña",
+            "química",
+            "física"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-16/literatura-sera-optativa-en-primero-de-bachillerato-en-cataluna-y-el-treball-de-recerca-contara-como-una-asignatura.html",
+        "date": "2024-12-16 20:13:04",
+        "sentiment_score": -0.02963336557149887
+    },
+    {
+        "title": "Las voces de las víctimas de la dictadura retumban en el Congreso de los Diputados",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IR2DJH5R74ATCFF7UADSNXD3UM.jpg?auth=66ebc249a0bfe4428b6aae9fde30fcef06bd37e797555bceeadc4ce880e71a30&width=1200",
+        "tags": [
+            "españa",
+            "francina armengol",
+            "ernest urtasun domenech",
+            "víctimas franquismo",
+            "ángel víctor torres",
+            "memoria histórica",
+            "congreso diputados",
+            "guerra civil"
+        ],
+        "link": "https://elpais.com/espana/2024-12-16/las-voces-de-las-victimas-de-la-dictadura-retumban-en-el-congreso-de-los-diputados.html",
+        "date": "2024-12-16 18:59:07",
+        "sentiment_score": -0.01056496798992157
+    },
+    {
+        "title": "Más Madrid presenta un recurso contra el cambio de nombre de la Avenida de la Memoria por Avenida de la Concordia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TKLVZJQT5FBOLFWKQ74VBSEQXA.jpg?auth=5b2ea494c07c394a51a0d3aae608e88ccd5e9ad090bda3c5602ad5163e4dc359&width=1200",
+        "tags": [
+            "pp",
+            "comunidad de madrid",
+            "ayuntamiento madrid",
+            "memoria",
+            "memoria de españa",
+            "josé luis martínez almeida",
+            "más madrid",
+            "ley memoria histórica",
+            "calles",
+            "rita maestre",
+            "madrid",
+            "ley memoria democrática",
+            "moncloa-aravaca"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-16/mas-madrid-presenta-un-recurso-contra-el-cambio-de-nombre-de-la-avenida-de-la-memoria-por-avenida-de-la-concordia.html",
+        "date": "2024-12-16 18:39:53",
+        "sentiment_score": 0.0701906681060791
+    },
+    {
+        "title": "Barcelona prohíbe las estufas de gas en las terrazas de los bares a partir del 1 de enero",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UNRJUOLTVNLIDB7JL3KZUMQT3A.jpg?auth=ac7af9faed9c9092807ba91f4761b67667d4f9042820ba830655ab21a72e9d7f&width=1200",
+        "tags": [
+            "cafeterías",
+            "bares",
+            "cataluña",
+            "barcelona",
+            "restauración",
+            "hoteles"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-16/barcelona-prohibe-las-estufas-de-gas-en-las-terrazas-de-los-bares-a-partir-del-1-de-enero.html",
+        "date": "2024-12-16 18:25:03",
+        "sentiment_score": -0.04487457126379013
+    },
+    {
+        "title": "El Constitucional rechaza el recurso de Quim Torra contra la decisión de la Junta Electoral que lo declaró inelegible",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UXGUJ5APURJZVNIWK3N5HTLEKU.jpg?auth=f67e507c57b60160055f98e66e4664d0577815dfbae41dfe927d4494362c56d1&width=1200",
+        "tags": [
+            "justicia",
+            "tribunal constitucional",
+            "recursos judiciales",
+            "españa",
+            "procés independentista catalán",
+            "independentismo",
+            "quim torra"
+        ],
+        "link": "https://elpais.com/espana/2024-12-16/el-constitucional-rechaza-el-recurso-de-quim-torra-contra-la-decision-de-la-junta-electoral-que-lo-declaro-inelegible.html",
+        "date": "2024-12-16 17:54:43",
+        "sentiment_score": -0.8525001984089613
+    },
+    {
+        "title": "La deuda financiera de Jaén, la más alta per cápita del país, tensiona la moción de censura contra el PP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HVSZO3U4OJFCXDA4OS23NOW2SM.jpg?auth=47cc633afd1b10fefc5673a920eb66c65a3f5e3debbf8c4a0c59c4769da18768&width=1200",
+        "tags": [
+            "jaén merece más",
+            "deuda municipal",
+            "españa",
+            "pp-a",
+            "mociones censura",
+            "psoe-a",
+            "andalucía",
+            "jaén"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2024-12-16/la-deuda-financiera-de-jaen-la-mas-alta-per-capita-del-pais-tensiona-la-mocion-de-censura-contra-el-pp.html",
+        "date": "2024-12-16 17:39:21",
+        "sentiment_score": -0.8043440748006105
+    },
+    {
+        "title": "Los profesores exigen seguridad para abrir tres institutos afectados por la dana y acusan a Educación de “presionar y desinformar”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YSHQXNG5HIXX7IZXHMSAOFKIZA.jpg?auth=c7e3beec661b4bf45d8d9900f70f7a323eaf36db1ef1da47d5524573410ccdad&width=1200",
+        "tags": [
+            "generalitat valenciana",
+            "comunidad valenciana",
+            "educación",
+            "carlos mazón",
+            "inundaciones",
+            "inundaciones dana octubre 2024",
+            "josé antonio rovira"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-16/los-profesores-exigen-seguridad-para-abrir-tres-institutos-afectados-por-la-dana-y-acusan-a-educacion-de-presionar-y-desinformar.html",
+        "date": "2024-12-16 17:36:40",
+        "sentiment_score": -0.5743143856525421
+    },
+    {
+        "title": "Piden bajar la velocidad a 30 km/h en grandes avenidas",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/2d026cfd-a6a6-b464-a3c7bb62669b8578.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z2d0269b4-9a6c-7344-6720c76475550edd/202412/piden-bajar-la-velocidad-a-30-kmh-en-grandes-avenidas",
+        "date": "2024-12-16 22:04:50",
+        "sentiment_score": 0.013301953673362732
+    },
+    {
+        "title": "Premios The Best de la FIFA 2024: Fecha, horarios, dónde ver y lista de nominados",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/pago-nuevo-e1734385147492.jpg",
+        "tags": [
+            "fifa the best",
+            "fútbol",
+            "deportes",
+            "the best"
+        ],
+        "link": "https://eldiariony.com/2024/12/16/premios-the-best-de-la-fifa-2024-fecha-horarios-donde-ver-y-lista-de-nominados/",
+        "date": "2024-12-16 21:53:45",
+        "sentiment_score": 0.2844167724251747
+    },
+    {
+        "title": "La TVG y la manifestación contra Altri: más tiempo a desacreditar la marcha que a informar de una movilización masiva",
+        "image_url": "https://static.eldiario.es/clip/d3038982-41dd-470e-a6c2-998ed330f58f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/galicia/tvg-manifestacion-altri-tiempo-desacreditar-marcha-informar-movilizacion-masiva_1_11904484.html",
+        "date": "2024-12-16 21:42:05",
+        "sentiment_score": -0.10749489068984985
+    },
+    {
+        "title": "Martín Presa: \"El comportamiento de la grada de Vallecas fue excelente\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/martin-presa-el-comportamiento-de-la-grada-de-vallecas-fue-excelente/",
+        "date": "2024-12-16 21:15:44",
+        "sentiment_score": 0.8298537321388721
+    },
+    {
+        "title": "Con Messi nominado, la FIFA adelantó para este martes la gala de los premios The Best: el llamativo formato de entrega",
+        "image_url": "https://www.infobae.com/resizer/v2/JDZO6QLJHZENBGDL7P52KQV3FA.JPG?auth=a348d9e8c78a48af0a1774f3ffcd377b375c1f61e0b3f597b4af7d54206dfd17&height=673&smart=true&width=660",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/16/con-messi-nominado-la-fifa-adelanto-para-este-martes-la-gala-de-los-premios-the-best-el-llamativo-formato-de-entrega/",
+        "date": "2024-12-16 20:36:11",
+        "sentiment_score": -0.1024419367313385
+    },
+    {
+        "title": "Jesús Martínez, propietario del Pachuca: \"Ficharía a Vinicius; tiene desborde, gol, es ganador, se sacrifica... todo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a910448f-657e-4f4e-b1a0-921fd38e83aa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2024/12/16/jesus-martinez-propietario-pachuca-ficharia-112676473.html",
+        "date": "2024-12-16 20:30:55",
+        "sentiment_score": 0.0045816898345947266
+    },
+    {
+        "title": "Messi, de Yamal: \"El premio es resultado del talento, el duro trabajo y el sacrificio\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/16/messi-de-yamal-el-premio-es-resultado-del-talento-el-duro-trabajo-y-el-sacrificio/",
+        "date": "2024-12-16 22:16:11",
+        "sentiment_score": 0.5954000875353813
+    },
+    {
+        "title": "El crack que se postula como relevo de Alejandro Balde en el Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/16/culemania/primer-equipo/909169235_13877556_1706x960.png?contentId=ESPIMA20241216_0161",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241216/el-crack-postula-relevo-alejandro-balde-barca/909159196_0.html",
+        "date": "2024-12-16 22:07:37",
+        "sentiment_score": -0.9103806437924504
+    },
+    {
+        "title": "La crisis climática resta al invierno español ocho días con mínimas bajo cero",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/bf62b1f8/JP_25.jpg?v=63777320348",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elsaltodiario.com/cambio-climatico/crisis-climatica-resta-invierno-espanol-ocho-dias-minimas-cero",
+        "date": "2024-12-16 22:01:00",
+        "sentiment_score": -0.6351732835173607
+    },
+    {
+        "title": "La Florida grita por un deporte en «condiciones dignas»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7dae7904-d595-4a2c-8c38-eea22e369ed5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/alicante/2024/12/16/florida-grita-deporte-condiciones-dignas-112675983.html",
+        "date": "2024-12-16 22:00:11",
+        "sentiment_score": -0.8975134370848536
+    },
+    {
+        "title": "Iran: El preu de la intransigència (1979)",
+        "image_url": "https://static1.ara.cat/clip/6f3e3277-8e1f-4dac-aea3-29213a5cfc08_16-9-aspect-ratio_default_0_x497y182.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/iran-preu-intransigencia-1979_1_5226773.html",
+        "date": "2024-12-16 22:00:08",
+        "sentiment_score": -0.4502692073583603
+    },
+    {
+        "title": "Partido Encuentro Ciudadano celebró su 6to aniversario con diferentes actividades en Anzoátegui",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "locales",
+            "venezuela post electoral",
+            "política"
+        ],
+        "link": "https://eltiempove.com/partido-encuentro-ciudadano-celebro-su-6to-aniversario-con-diferentes-actividades-en-anzoategui/",
+        "date": "2024-12-16 21:57:28",
+        "sentiment_score": 0.28649337217211723
     }
 ];
