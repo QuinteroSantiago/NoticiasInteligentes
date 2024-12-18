@@ -10,16 +10,6 @@ export default [
         "sentiment_score": 0.4740632548928261
     },
     {
-        "title": "Celebraciones en Corea del Sur tras aprobación de juicio político al presidente",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/celebraciones-juicio-politico-corea-presidente/",
-        "date": "2024-12-14 13:15:09",
-        "sentiment_score": -0.6250217631459236
-    },
-    {
         "title": "La Policía detiene al exministro de Defensa de Bolsonaro por intento de golpe de Estado",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/14/walter-R6qIGx2PIzth0clVxFfn6dI-1200x840@diario_abc.jpg",
         "tags": [
@@ -38,16 +28,6 @@ export default [
         "link": "https://www.abc.es/economia/muere-fundador-mango-isak-andic-anos-20241214164424-nt.html",
         "date": "2024-12-14 15:44:25",
         "sentiment_score": -0.8121559657156467
-    },
-    {
-        "title": "Ucrania registra más de 2.000 casos de intoxicación química en soldados desde el inicio de la guerra",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/14/ukranian-RfDLdxgd0QEQzfpDIlKYAyI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ucrania-registro-2000-casos-intoxicacion-quimica-soldados-20241214143537-nt.html",
-        "date": "2024-12-14 13:36:28",
-        "sentiment_score": -0.1377106010913849
     },
     {
         "title": "Fallece un hombre de 40 años tras estrellar su avioneta en Vélez-Málaga",
@@ -80,75 +60,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-14/el-fundador-de-mango-isak-andic-muere-en-un-accidente-de-montana-cerca-de-barcelona.html",
         "date": "2024-12-14 15:38:17",
         "sentiment_score": -0.8813533540815115
-    },
-    {
-        "title": "Cae un grupo criminal que compraba droga en Figueres y la distribuía en Marsella",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QMLVOYVROBMTXCFJSL3BKOMUDU.jpg?auth=209313685ab829d8a0e14e33a03d7779589f20b3705fed26440cb37958f9208b&width=1200",
-        "tags": [
-            "investigación judicial",
-            "cataluña",
-            "narcotráfico",
-            "francia",
-            "figueres",
-            "marsella",
-            "marihuana",
-            "prisión preventiva",
-            "mossos d'esquadra"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-14/cae-un-grupo-criminal-que-compraba-droga-en-figueres-y-la-distribuia-en-marsella.html",
-        "date": "2024-12-14 13:49:40",
-        "sentiment_score": -0.38441792875528336
-    },
-    {
-        "title": "Dos detenidos por matar a un hombre a patadas para robarle el móvil y la cartera",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LI3G5JL26ZGZJE37DQRF4FDZLQ.jpg?auth=0b8c631bfd18c09eccd688e3589eb9836008cbdca933d9e98367721539631ab0&width=1200",
-        "tags": [
-            "robos",
-            "homicidios",
-            "españa",
-            "detenciones",
-            "policía",
-            "almería"
-        ],
-        "link": "https://elpais.com/espana/2024-12-14/dos-detenidos-por-matar-a-un-hombre-a-patadas-para-robarle-el-movil-y-la-cartera.html",
-        "date": "2024-12-14 12:59:09",
-        "sentiment_score": -0.30149224400520325
-    },
-    {
-        "title": "La candidata oficialista gana las primarias de Podemos en Andalucía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CRHSVBS2C5EFPIPC7SHA43CT4E.JPG?auth=4e046da2a91bc348f4ecd1b90de6f99a295d3f1facc8de0bc0eb84c00203018c&width=1200",
-        "tags": [
-            "podemos extremadura",
-            "podemos castilla-la mancha",
-            "podemos euskadi",
-            "españa",
-            "podemos",
-            "podemos galicia",
-            "partidos políticos",
-            "elecciones primarias",
-            "podemos andalucía"
-        ],
-        "link": "https://elpais.com/espana/2024-12-14/la-candidata-oficialista-gana-las-primarias-de-podemos-en-andalucia.html",
-        "date": "2024-12-14 11:42:21",
-        "sentiment_score": -0.8299938347190619
-    },
-    {
-        "title": "La Generalitat acusa al Gobierno de no cortar carreteras en la dana cuando era su competencia, según el Plan autonómico de Inundaciones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VEK7O6GRPRD4HCDI5UXXW265XY.jpg?auth=be6bb0d02702c7d1773309318b7136469ec4e5f20d9e315af35d1631ec4de454&width=1200",
-        "tags": [
-            "ppcv",
-            "generalitat valenciana",
-            "dana",
-            "pedro sánchez",
-            "inundaciones dana octubre 2024",
-            "pilar bernabé",
-            "carlos mazón",
-            "valencia",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-14/la-generalitat-acusa-al-gobierno-de-no-cortar-carreteras-en-la-dana-cuando-era-su-competencia-segun-establece-el-plan-autonomico-de-inundaciones.html",
-        "date": "2024-12-14 10:38:22",
-        "sentiment_score": -0.016851283609867096
     },
     {
         "title": "Descubierto el truco para no pagar agua, luz ni internet: así cuelan los recibos a otros",
@@ -6054,5 +5965,436 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241217/el-nuevo-cupon-de-la-once-un-homenaje-al-centenario-del-metro-barcelona/909409152_0.html",
         "date": "2024-12-17 21:51:30",
         "sentiment_score": 0.10733320564031601
+    },
+    {
+        "title": "Las últimas previsiones para Barcelona: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/GLHYSHHG2NDOLBA5UIQPS5FRMQ.jpg?auth=8c611befe9296e506543a56c2379f319e938070f1b9528a53179bc905e79cab1&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/18/las-ultimas-previsiones-para-barcelona-temperatura-lluvias-y-viento/",
+        "date": "2024-12-18 02:01:56",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Congreso de El Salvador aprueba presupuesto estatal para 2025 por 9.203 millones de euros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/congreso-de-el-salvador-aprueba-presupuesto-estatal-para-2025-por-9203-millones-de-euros/",
+        "date": "2024-12-18 01:46:34",
+        "sentiment_score": 0.5300343930721283
+    },
+    {
+        "title": "Rescatan en estado grave a una pareja de ancianos tras incendiarse su vivienda en Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/rescatan-en-estado-grave-a-una-pareja-de-ancianos-tras-incendiarse-su-vivienda-en-madrid/",
+        "date": "2024-12-18 01:46:15",
+        "sentiment_score": -0.8738156920298934
+    },
+    {
+        "title": "La presidenta de Inspectores de Hacienda se opone a la singularidad de Cataluña: Llevaría al \"desastre total\"",
+        "image_url": "https://www.infobae.com/resizer/v2/FGZBZUG66VDAFCGFAWUGBZTOUI.jpg?auth=faa50e789389f2d16c68384e3751634470eaf2b6c6e092aa3c721c41a9fa84c5&height=1079&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/la-presidenta-de-inspectores-de-hacienda-se-opone-a-la-singularidad-de-cataluna-llevaria-al-desastre-total/",
+        "date": "2024-12-18 01:33:19",
+        "sentiment_score": -0.8876016838476062
+    },
+    {
+        "title": "La Abogacía rechaza el levantamiento de las medidas suspensivas en las zonas afectadas por la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/A4NYZOMEFVANXIJSFVJ6G74PJ4.jpg?auth=1aa6a7d0b5311be9db4727a477aa0bf42ce43313f7df3cad40a35ab7fc6f0810&height=446&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/la-abogacia-rechaza-el-levantamiento-de-las-medidas-suspensivas-en-las-zonas-afectadas-por-la-dana/",
+        "date": "2024-12-18 01:18:33",
+        "sentiment_score": -0.7806442510336637
+    },
+    {
+        "title": "Japón incurrió en un déficit comercial de 729 millones de euros en noviembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/japon-incurrio-en-un-deficit-comercial-de-729-millones-de-euros-en-noviembre/",
+        "date": "2024-12-18 00:46:48",
+        "sentiment_score": -0.7919433787465096
+    },
+    {
+        "title": "Puigdemont advierte al Gobierno sobre la iniciativa de Junts de la cuestión de confianza a Sánchez: “Un portazo habría llevado la legislatura al colapso”",
+        "image_url": "https://www.infobae.com/resizer/v2/DNDCI5KRJVFNBDS6JVXKY25RN4.jpg?auth=e6a309478910c885a8cd421a12b4955d6f8cb965f8156ce3bcf911adb7085419&height=1282&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/18/puigdemont-advierte-al-gobierno-sobre-la-iniciativa-de-junts-de-la-cuestion-de-confianza-a-sanchez-un-portazo-habria-llevado-la-legislatura-al-colapso/",
+        "date": "2024-12-18 00:24:39",
+        "sentiment_score": -0.4826264791190624
+    },
+    {
+        "title": "Koldo acusa a la Guardia Civil de orquestar un movimiento contra Ábalos: \"Yo no soy relevante\"",
+        "image_url": "https://www.infobae.com/resizer/v2/NISBJTU6UZANFLTZE3BT2TCB2U.jpg?auth=835f2eb380ad24b27a3378ca8527493d5f96aebb79ce3483e3ea51065256907e&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/koldo-acusa-a-la-guardia-civil-de-orquestar-un-movimiento-contra-abalos-yo-no-soy-relevante/",
+        "date": "2024-12-18 00:15:37",
+        "sentiment_score": -0.8565941527485847
+    },
+    {
+        "title": "PSOE pregunta en Europa si la Comisión \"cuenta con instrumentos para reparar el daño reputacional de Viñedos de Álava\"",
+        "image_url": "https://www.infobae.com/resizer/v2/OJR62VLO4RCHZKHZ6R6PKVG6EI.jpg?auth=0194c11499ccfa8e45ec24d74089c57ff156ad66acd63d89993304b91f72ec5b&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/psoe-pregunta-en-europa-si-la-comision-cuenta-con-instrumentos-para-reparar-el-dano-reputacional-de-vinedos-de-alava/",
+        "date": "2024-12-17 23:48:34",
+        "sentiment_score": 0.11546635627746582
+    },
+    {
+        "title": "La operación contra el jefe de blanqueo de Policía en Madrid con 20 millones emparedados deja un total de 15 detenidos",
+        "image_url": "https://www.infobae.com/resizer/v2/GSHYHU3TSBCSFBHWFNW3I32XMY.jpg?auth=6bfd17e91bc93742ed6b1858deeb8a6bbf5db3147844dd2e6b9088c7cd6c0170&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/la-operacion-contra-el-jefe-de-blanqueo-de-policia-en-madrid-con-20-millones-emparedados-deja-un-total-de-15-detenidos/",
+        "date": "2024-12-17 23:48:14",
+        "sentiment_score": -0.8769541848450899
+    },
+    {
+        "title": "La cifra de muertes que une a México y Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sequence-04-00-03-22-11-still048.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muertes-homicidios-sobredosis-unen-estados-unidos-mexico-perspectivas-mexico-tv/",
+        "date": "2024-12-18 02:05:36",
+        "sentiment_score": -0.3623803164809942
+    },
+    {
+        "title": "Video podría mostrar el momento previo a la detonación de una bomba que mata un general ruso",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/moscow-bomb-close-up-highlight-20241218020203018.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-bomba-general-ruso-trax/",
+        "date": "2024-12-18 02:05:19",
+        "sentiment_score": -0.5670041814446449
+    },
+    {
+        "title": "Honda y Nissan están en conversaciones para fusionarse",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2085680893-20241218015027054.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/honda-nissan-conversaciones-fusion-competencia-negocios-panorama-mundial-tv/",
+        "date": "2024-12-18 02:00:22",
+        "sentiment_score": 0.18886756896972656
+    },
+    {
+        "title": "Policía de Nueva York critica las celebraciones por asesinato de CEO de aseguradora",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2187620326.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/policia-nueva-york-critica-celebraciones-heroismo-mangiones-ceo-aseguradora-trax/",
+        "date": "2024-12-18 01:50:24",
+        "sentiment_score": -0.7217061873525381
+    },
+    {
+        "title": "Lo que sabemos de la extradición de Osiel Cardenas, exlíder del cartel del Golfo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21207455-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mini-lic-damaso-lopez-serrano-javier-valdez-osiel-cardenas-extradicion-perspectivas-mexico-tv/",
+        "date": "2024-12-18 01:46:49",
+        "sentiment_score": -0.5106584206223488
+    },
+    {
+        "title": "Sheinbaum tiene que tejer alianzas con empresarios en Estados Unidos, asegura experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sheinbaum-trump-split.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/retos-sheinbaum-trump-economia-estados-unidos-perspectivas-mexico-tv/",
+        "date": "2024-12-18 01:34:01",
+        "sentiment_score": 0.23650118708610535
+    },
+    {
+        "title": "“Y ese es el terror. No saber dónde está”, dice hermano de gendarme argentino detenido en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/split-20241218005821716.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "argentina",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nahuel-gallo-gendarme-detenido-milei-venezuela-redaccion-buenos-aires-dusa-tv/",
+        "date": "2024-12-18 01:18:11",
+        "sentiment_score": -0.5999728478491306
+    },
+    {
+        "title": "Así reaccionó Trump a un fallo que dictamina que no tiene inmunidad presidencial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnne-1371433-230405124344-merchan-trump-split.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-merchan-inmunidad-reaccion-dusa-tv/",
+        "date": "2024-12-18 00:28:45",
+        "sentiment_score": -0.7397283259779215
+    },
+    {
+        "title": "El CEO de TikTok se reunió con el presidente electo Donald Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/tiktok-20241209211209397.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-redes-sociales-tiktok-dusa-tv/",
+        "date": "2024-12-18 00:21:24",
+        "sentiment_score": -0.14265620708465576
+    },
+    {
+        "title": "La humanidad ‘tocará’ el Sol este 24 de diciembre: qué significa este histórico acercamiento",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/parker-00-00-17-24-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sonda-parker-acercamiento-sol-orix/",
+        "date": "2024-12-18 00:18:46",
+        "sentiment_score": 0.06508901715278625
+    },
+    {
+        "title": "Milei pide la liberación «inmediata» del gendarme retenido en Venezuela y llama a Maduro «dictador criminal»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/18/milei-k6bB-U705767232KfG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/milei-pide-liberacion-inmediata-gendarme-retenido-venezuela-20241218003828-nt.html",
+        "date": "2024-12-17 23:38:28",
+        "sentiment_score": -0.12334445118904114
+    },
+    {
+        "title": "¿Un vaso de vino diario protege al corazón? Depende del vaso, la persona y del día",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/12/17/wine-glass-drink-stemware-alcohol-champagne-stemware-glass-1614205-pxhere.com.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/cuantas-copas-vino-mes-buenas-corazon-20241217135736-nt.html",
+        "date": "2024-12-17 23:30:00",
+        "sentiment_score": -0.13906912505626678
+    },
+    {
+        "title": "Tomás Merina gana las elecciones del Colegio de Médicos de Madrid: el doctor del cambio apoyado por Amyts",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/W2BJGGVETFGBDFAN5E572EYFQI.JPG?auth=70188f9c61f129d0344f0f883f5bfa163bbe9c45e741409ff9d4c92f5559554d",
+        "tags": [
+            "colegio médicos",
+            "sanidad",
+            "hospitales",
+            "atención primaria",
+            "huelgas sectoriales",
+            "madrid",
+            "comunidad de madrid",
+            "sanidad privada",
+            "sanidad pública",
+            "icomem"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-17/tomas-merina-gana-las-elecciones-del-colegio-de-medicos-de-madrid-el-doctor-del-cambio-apoyado-por-amyts.html",
+        "date": "2024-12-17 22:24:39",
+        "sentiment_score": 0.19592978060245514
+    },
+    {
+        "title": "Puigdemont eleva la amenaza a Pedro Sánchez y avisa que no tramitar la cuestión de confianza “llevaría la legislatura al colapso”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CHN6GKICOVA77M7OGRDYXALGFE.jpg?auth=ef86ae256b9d4b7bb537f3bf08bf6237c526491ed84b69ebeabc3312f66b57d9",
+        "tags": [
+            "generalitat cataluña",
+            "pedro sánchez",
+            "independencia",
+            "bruselas",
+            "tv3",
+            "presupuestos generales estado",
+            "govern cataluña",
+            "cataluña",
+            "carles puigdemont",
+            "juntsxcat"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-17/puigdemont-eleva-el-tono-contra-pedro-sanchez-si-no-cambian-mucho-las-cosas-no-podemos-dar-apoyo-al-gobierno.html",
+        "date": "2024-12-17 22:19:01",
+        "sentiment_score": -0.7617818154394627
+    },
+    {
+        "title": "Mbappé jugará por el Real Madrid en final de Copa Intercontinental ante Pachuca",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-12-17/mbappe-jugara-por-el-real-madrid-en-final-de-copa-intercontinental-ante-pachuca",
+        "date": "2024-12-18 02:10:19",
+        "sentiment_score": 0.389900304377079
+    },
+    {
+        "title": "Los asientos Vip del nuevo Camp Nou: la palanca final a 25.000 euros por butaca que salva a Dani Olmo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/18/culemania/palco/909669030_13883133_1706x960.png?contentId=ESPIMA20241218_0006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241218/los-asientos-vip-camp-nou-dani-olmo/909659026_0.html",
+        "date": "2024-12-18 01:46:34",
+        "sentiment_score": 0.22541570663452148
+    },
+    {
+        "title": "Bárcenas, 8 años, 4,5 millones y una delación después: sale a la calle el tesorero de \"M. Rajoy\"",
+        "image_url": "https://s1.elespanol.com/2024/12/17/espana/909420119_251768534_1706x960.jpg?contentId=ESPIMA20241217_1070",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20241218/barcenas-anos-millones-delacion-despues-sale-calle-tesorero-rajoy/909409552_0.html",
+        "date": "2024-12-18 01:40:03",
+        "sentiment_score": -0.8758485484868288
+    },
+    {
+        "title": "El Real Zaragoza se la pega en casa ante el Oviedo (2-3) y Víctor Fernández dice que se aparta",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/12/18/676226d06ae47.jpeg",
+        "tags": [
+            "deportes en zaragoza"
+        ],
+        "link": "https://www.cope.es/emisoras/aragon/zaragoza-provincia/zaragoza/deportes-en-zaragoza/noticias/real-zaragoza-pega-casa-oviedo-2-3-victor-fernandez-dice-aparta-20241218_3064884.html",
+        "date": "2024-12-18 01:37:10",
+        "sentiment_score": 0.11924752593040466
+    },
+    {
+        "title": "Solaria desafía a Iberdrola y negocia tres alianzas de 12.000 millones para liderar los centros de datos en España",
+        "image_url": "https://s1.elespanol.com/2018/04/13/invertia/empresas/energias_renovables-empresas_299483664_73721015_1706x960.jpg?contentId=ESPIMA20180413_3615",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20241218/solaria-desafia-iberdrola-negocia-alianzas-millones-liderar-centros-datos-espana/909409522_0.html",
+        "date": "2024-12-18 01:37:00",
+        "sentiment_score": 0.4599255211651325
+    },
+    {
+        "title": "(Pre) El Villarreal defiende su lugar de Champions ante el Alavés y el Sevilla busca calma en Butarque",
+        "image_url": "https://www.infobae.com/resizer/v2/ZNYCODJS4FBR3BI4P4CAOWCQZM.jpg?auth=3f81062180203f9a84a50f86ff49a1056a5dda9d6dc323a28ab50e0b71ee6d18&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/08/pre-el-villarreal-defiende-su-lugar-de-champions-ante-el-alaves-y-el-sevilla-busca-calma-en-butarque/",
+        "date": "2024-12-18 01:33:42",
+        "sentiment_score": 0.4979743994772434
+    },
+    {
+        "title": "Iñigo Pérez dejó clara su postura sobre James Rodríguez y su posible salida del Rayo Vallecano: esto dijo el entrenador",
+        "image_url": "https://www.infobae.com/resizer/v2/D3HWE3W235H67OOKID4U4XALDA.jpg?auth=e02ad2b09b0c20185a1314a3f3ab4d3a308f06f387bf56c441e9887623067b3f&height=914&smart=true&width=1656",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/12/18/inigo-perez-dejo-clara-su-postura-sobre-james-rodriguez-y-su-posible-salida-del-rayo-vallecano-esto-dijo-el-entrenador/",
+        "date": "2024-12-18 01:26:54",
+        "sentiment_score": -0.6829353608191013
+    },
+    {
+        "title": "Ni Vinicius ni Rodri, así fue la votación de Jorge Fossati en los premios The Best de la FIFA: también participó Paolo Guerrero como capitán de Perú",
+        "image_url": "https://www.infobae.com/resizer/v2/CYEPG2SENBB4HKFFQ44GUCVJ2Q.png?auth=ce55a7b3f073ad9bab222d2dc45b70890fbed25b763696137457734da513889c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2024/12/18/ni-vinicius-ni-rodri-asi-fue-la-votacion-de-jorge-fossati-en-los-premios-the-best-de-la-fifa-tambien-participo-paolo-guerrero-como-capitan-de-peru/",
+        "date": "2024-12-18 01:17:02",
+        "sentiment_score": 0.12273523211479187
+    },
+    {
+        "title": "17 DIC 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/17-dic-2024-partidazo-cope-20241218_3064881.html",
+        "date": "2024-12-18 00:29:57",
+        "sentiment_score": -0.4192813113331795
+    },
+    {
+        "title": "Barcelona daría el golpe en el mercado de fichajes con un colombiano: costaría cerca de 70 millones de euros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/12/17/barcelona-daria-el-golpe-en-el-mercado-de-fichajes-con-un-colombiano-costaria-cerca-de-70-millones-de-euros/",
+        "date": "2024-12-17 23:49:14",
+        "sentiment_score": 0.399616502225399
+    },
+    {
+        "title": "La banda de 'Los Rebeldes' sigue 'dando guerra': Los detalles de su nuevo disco y gira",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/los-rebeldes-6pg_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/regresa-mitica-banda-los-rebeldes-los-detalles-su-nuevo-disco-y-gira",
+        "date": "2024-12-18 02:00:00",
+        "sentiment_score": 0.8679032307118177
+    },
+    {
+        "title": "El nuevo Camp Nou tendrá Grada d'Animació: el gran cambio que prepara Laporta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/08/20/empresas/788181388_8492208_1706x960.jpg?contentId=ESPIMA20230820_0214",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241218/el-camp-nou-grada-danimacio-prepara-laporta/909409141_0.html",
+        "date": "2024-12-18 01:48:22",
+        "sentiment_score": -0.44352851063013077
+    },
+    {
+        "title": "Getafe, la primera ciudad del PSOE 'díscola' con la tasa de basuras: no computará el primer trimestre de 2025",
+        "image_url": "https://s1.elespanol.com/2024/04/29/actualidad/851425639_241927010_1706x960.jpg?contentId=ESPIMA20240429_0790",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241218/getafe-primera-ciudad-psoe-discola-tasa-basuras-no-computara-primer-trimestre/909409293_0.html",
+        "date": "2024-12-18 01:20:03",
+        "sentiment_score": 0.33839496970176697
+    },
+    {
+        "title": "Almería seduce al turista británico: estas son las conexiones aéreas con Reino Unido",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2024/12/17/1011C38F-00BF-4D71-A361-9A142123B2B4/avion-easyjet_96.jpg?crop=3840%2C2160%2Cx0%2Cy189&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/almeria-seduce-turista-britanico-estas-son-conexiones-aereas-reino-unido_2024121867621bf0af21750001fa23e4.html",
+        "date": "2024-12-18 00:48:48",
+        "sentiment_score": 0.6662374082952738
+    },
+    {
+        "title": "Antonela Roccuzzo sacrificó uno de sus sueños para apoyar la carrera de Lionel Messi como futbolista",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/MXVXDXLMDZCS5LZNWB7U6XUPJ4.png?auth=3575369d0cf57b91458c00e6146814f313b7c664a0faa76cfcab8bfeba80ef86&height=628&smart=true&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/entretenimiento/2024/12/18/antonela-roccuzzo-sacrifico-uno-de-sus-suenos-para-apoyar-la-carrera-de-lionel-messi-como-futbolista/",
+        "date": "2024-12-18 00:44:29",
+        "sentiment_score": -0.0293562114238739
+    },
+    {
+        "title": "Las lubinas del fugado",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241218/lubinas-fugado_254182.html",
+        "date": "2024-12-18 00:30:00",
+        "sentiment_score": -0.3020450994372368
+    },
+    {
+        "title": "Scream Inc adaptando el 'S&M' de Metallica en Bilbao",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/12/18/1-ksXD-U230321895373MpC-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/scream-inc-adaptando-metallica-bilbao-20241218010227-nt.html",
+        "date": "2024-12-18 00:02:27",
+        "sentiment_score": 0.1607971414923668
     }
 ];
