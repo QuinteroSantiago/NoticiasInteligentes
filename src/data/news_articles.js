@@ -1,264 +1,5 @@
 export default [
     {
-        "title": "Las luces navideñas de Roma quieren encender no solo la alegría sino también la conciencia ecológica",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/navidad-eco-roma-00-01-41-02-still001.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/roma-luces-navidad-ecologicas-orix/",
-        "date": "2024-12-14 15:57:14",
-        "sentiment_score": 0.4740632548928261
-    },
-    {
-        "title": "La Policía detiene al exministro de Defensa de Bolsonaro por intento de golpe de Estado",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/14/walter-R6qIGx2PIzth0clVxFfn6dI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/policia-detiene-exministro-defensa-bolsonaro-intento-golpe-20241214164713-nt.html",
-        "date": "2024-12-14 15:47:14",
-        "sentiment_score": -0.08643321692943573
-    },
-    {
-        "title": "Muere el fundador de Mango, Isak Andic, a los 71 años",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/14/isak-andic-klX-U603493604663iII-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/muere-fundador-mango-isak-andic-anos-20241214164424-nt.html",
-        "date": "2024-12-14 15:44:25",
-        "sentiment_score": -0.8121559657156467
-    },
-    {
-        "title": "Fallece un hombre de 40 años tras estrellar su avioneta en Vélez-Málaga",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SYVN57OM7ZFIPEDXGQVO6UDP4M.jpg?auth=a4104e91873f1ccfc6814e7cc935724b0091a487e4d597beb051f38c149f4b6e&width=1200",
-        "tags": [
-            "andalucía",
-            "accidentes",
-            "provincia málaga",
-            "accidentes aéreos",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-14/fallece-un-hombre-de-40-anos-tras-estrellar-su-avioneta-en-velez-malaga.html",
-        "date": "2024-12-14 15:40:02",
-        "sentiment_score": 0.06401975452899933
-    },
-    {
-        "title": "El fundador de Mango, Isak Andic, muere en un accidente de montaña cerca de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LV7UWHSZGJEIFINZES32PL2RWM.jpeg?auth=3437a2600d584695d7836eb227ec6a6720d9cab079c688ed2436b9adebed7035&width=1200",
-        "tags": [
-            "montserrat",
-            "innovación",
-            "mango",
-            "moda",
-            "textil",
-            "cataluña",
-            "mossos d'esquadra",
-            "barcelona",
-            "isak andic"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-14/el-fundador-de-mango-isak-andic-muere-en-un-accidente-de-montana-cerca-de-barcelona.html",
-        "date": "2024-12-14 15:38:17",
-        "sentiment_score": -0.8813533540815115
-    },
-    {
-        "title": "Descubierto el truco para no pagar agua, luz ni internet: así cuelan los recibos a otros",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/12/14/2024121413430721045.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/descubierto-truco-pagar-agua-luz-ni-internet-asi-cuelan-recibos-otros/20241214180154438896.html",
-        "date": "2024-12-14 17:01:54",
-        "sentiment_score": -0.7339285910129547
-    },
-    {
-        "title": "Rayo Vallecano vs. Real Madrid, en vivo: hora y canal del partido por La Liga en Estados Unidos",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/rayo-vs-real-madrid-la-liga_shutterstock_2517042195.jpg",
-        "tags": [
-            "la liga",
-            "rayo vallecano",
-            "real madrid",
-            "fútbol"
-        ],
-        "link": "https://eldiariony.com/2024/12/14/rayo-vallecano-vs-real-madrid-en-vivo-hora-y-canal-del-partido-por-la-liga-en-estados-unidos/",
-        "date": "2024-12-14 17:00:00",
-        "sentiment_score": 0.1508850883692503
-    },
-    {
-        "title": "“Estoy encantada como una niña”: Gemma Cuervo se emociona en su homenaje más reciente",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/14/2024121417461048856.jpg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/television/estoy-encantada-como-nina-gemma-cuervo-emociona-homenaje-mas-reciente/20241214174629546613.html",
-        "date": "2024-12-14 16:46:29",
-        "sentiment_score": 0.8538784775882959
-    },
-    {
-        "title": "Crisis en la Euroliga: Real Madrid, Barcelona y Baskonia fuera del Top-10",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/14/2024121417420831560.png",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/baloncesto/crisis-euroliga-real-madrid-barcelona-baskonia-fuera-top-10/20241214174520546610.html",
-        "date": "2024-12-14 16:45:20",
-        "sentiment_score": -0.9342967541888356
-    },
-    {
-        "title": "Carla Camacho y Caroline Moller revolucionan TikTok con su baile navideño.",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/14/2024121417393188189.png",
-        "tags": [
-            "lo+viral"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/lo-viral/carla-camacho-caroline-moller-revolucionan-tiktok-baile-navideno/20241214174016546605.html",
-        "date": "2024-12-14 16:40:16",
-        "sentiment_score": 0.23922614753246307
-    },
-    {
-        "title": "Balde, Martín y el fichaje del Barça para el lateral que gusta a Deco: nivel Champions",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/05/30/culemania/primer-equipo/859174163_13016574_1706x960.jpg?contentId=ESPIMA20240530_0089",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241214/balde-martin-el-fichaje-barca-deco-champions/908659161_0.html",
-        "date": "2024-12-14 16:16:16",
-        "sentiment_score": 0.5683765560388565
-    },
-    {
-        "title": "El Barça busca despertar en la Liga tras su reacción europea",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/12/14/flick-barcelona-leganes-k0R-U230289928742jEF-1200x840@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/previa-barcelona-leganes-jornada17-primera-20241214170550-ntrc.html",
-        "date": "2024-12-14 16:07:23",
-        "sentiment_score": 0.06958268582820892
-    },
-    {
-        "title": "Gemma Cuervo desvela cómo eran los momentos que compartió con la Reina Sofía: \"Era sencilla y maravillosa\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241214165852_120.jpg",
-        "tags": [
-            "chance",
-            "gente"
-        ],
-        "link": "https://www.europapress.es/chance/gente/noticia-gemma-cuervo-desvela-eran-momentos-compartio-reina-sofia-era-sencilla-maravillosa-20241214165852.html",
-        "date": "2024-12-14 15:58:52",
-        "sentiment_score": -0.6035221964120865
-    },
-    {
-        "title": "Malas noticias para el Madrid de baloncesto: un posible fichaje rechaza a los merengues",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/14/2024121416294486198.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/malas-noticias-madrid-baloncesto-posible-fichaje-rechaza-merengues/20241214165805327513.html",
-        "date": "2024-12-14 15:58:05",
-        "sentiment_score": 0.30507802963256836
-    },
-    {
-        "title": "Simeone, sobre la posibilidad de entrenar a su hijo: \"Yo quiero ganar. Soy padre, pero no soy tonto\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9346fa07-e0a3-4956-8246-f7aab8b4ea81_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2024/12/14/simeone-posibilidad-entrenar-hijo-quiero-112617169.html",
-        "date": "2024-12-14 15:55:57",
-        "sentiment_score": -0.1306772530078888
-    },
-    {
-        "title": "Hansi Flick prepara una sorpresa para el once del Barça-Leganés (como mínimo)",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/14/culemania/primer-equipo/908669188_13868345_1706x960.jpg?contentId=ESPIMA20241214_0064",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241214/hansi-flick-prepara-sorpresa-para-barca-leganes-minimo/908659165_0.html",
-        "date": "2024-12-14 17:08:12",
-        "sentiment_score": 0.0561862587928772
-    },
-    {
-        "title": "Hallan asfixiados hasta la muerte a una pareja en la habitación de un hotel rural",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/03/19/2024031923032822628.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/hallan-asfixiados-muerte-pareja-habitacion-hotel-rural/20241214180335438903.html",
-        "date": "2024-12-14 17:03:35",
-        "sentiment_score": -0.0648941695690155
-    },
-    {
-        "title": "El legado que deja el fundador de Mango: de una única tienda en España a tener 2.700 en todo el mundo",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/14/fundador-mango-isak-andic-k2XE-U2302900920998F-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/sociedad/sucesos/isak-andic-ermay-fundador-mango-tiendas-patrimonio-20241214175648-nt.html",
-        "date": "2024-12-14 17:02:32",
-        "sentiment_score": 0.20549872517585754
-    },
-    {
-        "title": "El Colegio de Abogados de Barcelona desconfía de los nuevos juzgados",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2024/12/11/5651E1FD-DABA-4AF5-8F98-08C0E09A88D1/96.jpg?crop=3840%2C2160%2Cx0%2Cy200&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/colegio-abogados-barcelona-desconfia-nuevos-juzgados_20241214675db9be6495a1000158efc0.html",
-        "date": "2024-12-14 17:00:46",
-        "sentiment_score": -0.8776424676179886
-    },
-    {
-        "title": "La familia del fundador de Mango, fallecido en un accidente de montaña en Barcelona, presenció la caída mortal",
-        "image_url": "https://album.mediaset.es/eimg/2024/12/14/isak-andic_b073.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.telecinco.es/noticias/sociedad/20241214/familia-fundador-mango-fallecido-accidente-barcelona-presencio-caida_18_014285200.html",
-        "date": "2024-12-14 16:59:27",
-        "sentiment_score": -0.8689387068152428
-    },
-    {
-        "title": "Iván Ferreiro: \"La normativa mata al rock\"",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/14/2024121417582440580.jpg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/musica/ivan-ferreiro-normativa-mata-rock/20241214175859546628.html",
-        "date": "2024-12-14 16:58:59",
-        "sentiment_score": -0.04187023639678955
-    },
-    {
-        "title": "Muere el fundador de Mango, Isak Andic, en un accidente de montaña cerca de Barcelona",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/muere-el-fundador-de-mango-isak-andic-en-un-accidente-de-montana-cerca-de-barcelona-2950001",
-        "date": "2024-12-14 16:58:03",
-        "sentiment_score": -0.8412577230483294
-    },
-    {
-        "title": "El metro de Barcelona cumple 100 años con visitas a las estaciones fantasma",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2022/11/15/94E74B52-662A-4FBE-9940-E310B388C5F1/96.jpg?crop=4200%2C2363%2Cx0%2Cy95&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "cataluña",
-            "barcelona"
-        ],
-        "link": "https://www.larazon.es/cataluna/barcelona/metro-barcelona-cumple-100-anos-visitas-estaciones-fantasma_20241214675db8f5c2280e0001028e39.html",
-        "date": "2024-12-14 16:57:25",
-        "sentiment_score": 0.4817275442183018
-    },
-    {
-        "title": "Muere el fundador de Mango, Isak Andic, en un accidente de montaña",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/12/14/muere-el-fundador-de-mango-isak-andic-en-un-accidente-en-las-cuevas-de-collbato-barcelona.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.heraldo.es/multimedia/videos/economia/muere-fundador-mango-isak-andic-accidente-montana-barcelona/",
-        "date": "2024-12-14 16:57:08",
-        "sentiment_score": -0.8049053102731705
-    },
-    {
         "title": "Malas decisiones financieras podrían ser señal de alzhéimer en adultos mayores, según estudio",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/04717723-75288506-generated-thumbnail.jpg?quality=100&strip=info",
         "tags": [
@@ -267,26 +8,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/adultos-mayores-deteccion-alzheimer-minuto-de-salud-fast/",
         "date": "2024-12-14 19:33:28",
         "sentiment_score": 0.09279195964336395
-    },
-    {
-        "title": "“Produjo una tragedia económica”: así fue el impacto de la reconstrucción de Notre Dame",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/notre-dame-trump-20241207112329955.jpg?quality=100&strip=info",
-        "tags": [
-            "business"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/impacto-economico-catedral-notre-dame-conectados-tv-fast/",
-        "date": "2024-12-14 18:26:26",
-        "sentiment_score": -0.058062463998794556
-    },
-    {
-        "title": "No es magia, es ciencia: hacen levitar objetos con sonido",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sound-waves-levitation-startup-still2-20241214173725862.jpg?quality=100&strip=info",
-        "tags": [
-            "ciencia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/levita-sonido-objeto-tecnologia-trax/",
-        "date": "2024-12-14 17:42:15",
-        "sentiment_score": 0.43010401725769043
     },
     {
         "title": "ABC News llega a un acuerdo con Trump tras una demanda por difamación y pagará al presidente electo 15 millones de dólares",
@@ -6396,5 +6117,590 @@ export default [
         "link": "https://www.elcorreo.com/culturas/musica/scream-inc-adaptando-metallica-bilbao-20241218010227-nt.html",
         "date": "2024-12-18 00:02:27",
         "sentiment_score": 0.1607971414923668
+    },
+    {
+        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 18 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/P3RCI56TJBAYBHN45CSO3RI4JU.jpg?auth=0da87c8296c6d658ab0128e0c2649b95a11558b6ff8b6824a704f5501b350058&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/18/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-18-de-diciembre/",
+        "date": "2024-12-18 06:31:19",
+        "sentiment_score": -0.06122169271111488
+    },
+    {
+        "title": "Qué pasa si el hijo o nieto que recibe la herencia es un heredero menor de edad",
+        "image_url": "https://www.infobae.com/resizer/v2/IBTAA2UIPRHUDOCS7EMGKNHSAE.jpg?auth=02d20f606de16bdc53368115ef61fa60ead8b5cc077ee5223296c7545ba897a8&height=3823&smart=true&width=5734",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/18/que-pasa-si-el-hijo-o-nieto-que-recibe-la-herencia-es-un-heredero-menor-de-edad/",
+        "date": "2024-12-18 06:28:03",
+        "sentiment_score": -0.4889788329601288
+    },
+    {
+        "title": "Efemérides del 19 de diciembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/efemerides-del-19-de-diciembre/",
+        "date": "2024-12-18 06:15:41",
+        "sentiment_score": -0.028797484934329987
+    },
+    {
+        "title": "Daouda, Iman y Nihal: del duelo migratorio propio a empoderar a otros hacia la inclusión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/daouda-iman-y-nihal-del-duelo-migratorio-propio-a-empoderar-a-otros-hacia-la-inclusion/",
+        "date": "2024-12-18 06:15:25",
+        "sentiment_score": -0.38601092994213104
+    },
+    {
+        "title": "El TSJCV admite a trámite un recurso contra la \"inactividad\" de Presidencia y Emergencias de la Generalitat",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/el-tsjcv-admite-a-tramite-un-recurso-contra-la-inactividad-de-presidencia-y-emergencias-de-la-generalitat/",
+        "date": "2024-12-18 06:03:29",
+        "sentiment_score": -0.16674183309078217
+    },
+    {
+        "title": "El Gobierno pide a la UE equipos de bombeo y expertos para actuar en las zonas afectadas por la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/TOSSDYCHSFD45CUNRCJTVTYJRM.jpg?auth=e8a28dc97388cdef3a344e3172ecf2e168118bc496599e73311070c8ffd51d17&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/el-gobierno-pide-a-la-ue-equipos-de-bombeo-y-expertos-para-actuar-en-las-zonas-afectadas-por-la-dana/",
+        "date": "2024-12-18 05:18:07",
+        "sentiment_score": 0.046859174966812134
+    },
+    {
+        "title": "Actualización del tipo de cambio dólar-euro hoy 18 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/TYSIBOCAJRGC5CIPDAYPKZKUTA.jpg?auth=2cfa0020f3ef618fadce03417e3ca067d90909a2caa56c77503951887e2ba86e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/18/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-18-de-diciembre/",
+        "date": "2024-12-18 05:15:33",
+        "sentiment_score": -0.15754206478595734
+    },
+    {
+        "title": "El salario mínimo en Ecuador será de 447 euros en 2025, un 2,17 % más que 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/el-salario-minimo-en-ecuador-sera-de-447-euros-en-2025-un-217-mas-que-2024/",
+        "date": "2024-12-18 05:00:59",
+        "sentiment_score": 0.06580707430839539
+    },
+    {
+        "title": "¿Se puede firmar un décimo de Lotería de Navidad? Para qué sirve hacerlo y por qué es importante en caso de compartirlo",
+        "image_url": "https://www.infobae.com/resizer/v2/4CITFAQMFRB7HEEMQEFQCMRF7M.jpg?auth=49919540eb3c8c3e5eec8940b32315d03b9ac499cd065ea677f96156768e8f65&height=363&smart=true&width=544",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/18/se-puede-firmar-un-decimo-de-loteria-de-navidad-para-que-sirve-hacerlo-y-por-que-es-importante-en-caso-de-compartirlo/",
+        "date": "2024-12-18 05:00:00",
+        "sentiment_score": -0.03698379546403885
+    },
+    {
+        "title": "Detenidos otros dos tripulantes de la narcolancha que arrolló a dos guardia civiles en Barbate (Cádiz)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/detenidos-otros-dos-tripulantes-de-la-narcolancha-que-arrollo-a-dos-guardia-civiles-en-barbate-cadiz/",
+        "date": "2024-12-18 04:48:24",
+        "sentiment_score": -0.8338779974728823
+    },
+    {
+        "title": "La lucha de poder en Morena representa \"una enorme tensión para Sheinbaum\", dice Alberto Aziz",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2175281605.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-enfrentamiento-coordinadores-morena-sheinbaum-aristegui-tv/",
+        "date": "2024-12-18 03:49:14",
+        "sentiment_score": -0.19553780555725098
+    },
+    {
+        "title": "Es una contradicción de Bullrich, dice exministra de Seguridad de Argentina de la modificación sobre portación de armas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1666607385-1.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-decreto-armas-milie-reduccion-edad-inseguridad-conclusiones-tv/",
+        "date": "2024-12-18 03:45:32",
+        "sentiment_score": -0.8742286078631878
+    },
+    {
+        "title": "Javier Milei cambia la política de armas en Argentina y baja la edad para portarlas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1311530761.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-reduce-edad-armas-desarme-milei-desregulacion-conclusiones-tv/",
+        "date": "2024-12-18 03:41:28",
+        "sentiment_score": -0.24710871279239655
+    },
+    {
+        "title": "Exfiscal explica los escenarios que enfrentaría Evo Morales si comparece ante la Justicia por caso de trata",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1284423166.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bolivia-tarija-trata-personas-caso-evo-morales-investigacion-fiscalia-conclusiones-tv/",
+        "date": "2024-12-18 03:37:08",
+        "sentiment_score": -0.21150250732898712
+    },
+    {
+        "title": "Aziz: La concentración de poder enfrenta a líderes de Morena",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/image-13-20241218031800967.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-choque-senadores-diputados-morena-aristegui-tv/",
+        "date": "2024-12-18 03:21:17",
+        "sentiment_score": -0.2774237170815468
+    },
+    {
+        "title": "Los desafíos internos y externos de Trudeau con Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/trudeau-freeland.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trudeau-renuncia-chrystia-freeland-panorama-mundial-tv/",
+        "date": "2024-12-18 02:51:15",
+        "sentiment_score": -0.7904797233641148
+    },
+    {
+        "title": "Él era Igor Kirillov, el teniente general que dirigía las fuerzas rusas de Defensa radiológica, biológica y química",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189820966.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/explosion-mata-general-ruso-kirillov-moscu-ucrania-trax/",
+        "date": "2024-12-18 02:40:45",
+        "sentiment_score": -0.8207607213407755
+    },
+    {
+        "title": "Nuevo «tiroteo masivo» en EE.UU.: al menos un muerto y nueve heridos en Baltimore",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/18/1490099567-k4jG-U706728545IAF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/nuevo-tiroteo-masivo-eeuu-muerto-nueve-heridos-20241218071257-nt.html",
+        "date": "2024-12-18 06:14:00",
+        "sentiment_score": -0.5893334001302719
+    },
+    {
+        "title": "Cuánto dinero cobra una azafata de vuelo en España: sueldos en Iberia, Ryanair, Vueling, Air Europa, easyJet y resto de compañías",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/18/auxiliar-vuelo-Rc2F17FuLU7ovuHwGRhSMRL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/dinero-cobra-azafata-vuelo-espana-sueldos-iberia-ryanair-vueling-air-europa-easyjet-20241218180459-nt.html",
+        "date": "2024-12-18 06:01:00",
+        "sentiment_score": -0.06986498832702637
+    },
+    {
+        "title": "Juicios de Auschwitz: 60 años de un viaje secreto tras el telón de acero",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/18/Auschwitz-kIdH-Rm7reLrrlaItq34g0p8kLqJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/juicios-auschwitz-anos-viaje-secreto-tras-telon-20241218204558-nt.html",
+        "date": "2024-12-18 03:20:29",
+        "sentiment_score": -0.1445542573928833
+    },
+    {
+        "title": "Las aseguradoras recelan de la nueva propuesta del Gobierno y mantienen las dudas sobre el futuro de Muface",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/18/PilarAlegraEFE-RiWH5yuitxUwdfddT3PHuZO-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/aseguradoras-recelan-nueva-propuesta-gobierno-mantienen-dudas-20241218211851-nt.html",
+        "date": "2024-12-18 03:13:42",
+        "sentiment_score": -0.018114864826202393
+    },
+    {
+        "title": "El juez Peinado interroga a Begoña Gómez sobre dos delitos que las pruebas del sumario desmienten",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y27ZDQCKI5CSDJAHXFOOCS6IVI.jpg?auth=106ac252dd276c423e4ca32fd10edc05945eaf7d88975d4bc13eec6c09391d87&width=1200",
+        "tags": [
+            "investigación judicial",
+            "begoña gómez fernández",
+            "software",
+            "tráfico influencias",
+            "pedro sánchez",
+            "apropiación indebida",
+            "jueces",
+            "juan carlos peinado",
+            "ucm",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-18/el-juez-peinado-interroga-a-begona-gomez-sobre-dos-delitos-que-las-pruebas-del-sumario-desmienten.html",
+        "date": "2024-12-18 04:40:00",
+        "sentiment_score": -0.8315895162522793
+    },
+    {
+        "title": "Claves | La Fiscalía pide investigar a Mazón por la gestión de la dana: ¿qué puede pasar ahora?, ¿hay otros procesos en marcha?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5AKBHVLALZBQBOUXS3JNJV3VGU.jpg?auth=49bd3091fe4d1ece3c1d281c563f9f2d03c7003bc9db93bcf6ffcfeea908c474&width=1200",
+        "tags": [
+            "tribunales",
+            "denuncias",
+            "generalitat valenciana",
+            "pedro sánchez",
+            "inundaciones",
+            "inundaciones dana octubre 2024",
+            "querellas",
+            "carlos mazón",
+            "tsjcv",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-18/claves-la-fiscalia-pide-investigar-a-mazon-por-la-gestion-de-la-dana-que-puede-pasar-ahora-hay-otros-procesos-en-marcha.html",
+        "date": "2024-12-18 04:40:00",
+        "sentiment_score": -0.7410532087087631
+    },
+    {
+        "title": "La pinza entre Junts y Podemos atenaza al Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZJCMCW7I7Y3ER2PKXGDOVHQB7Q.jpg?auth=db5f041b1c1f8b23379478008af5f7107d765800a2a7cb414bae02cda31fbb58&width=1200",
+        "tags": [
+            "congreso diputados",
+            "sumar",
+            "leyes ordinarias",
+            "psoe",
+            "debates parlamentarios",
+            "podemos",
+            "félix bolaños garcía",
+            "juntsxcat",
+            "mesa congreso",
+            "patxi lópez",
+            "ione belarra",
+            "miguel tellado",
+            "pp",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-18/la-pinza-entre-junts-y-podemos-atenaza-al-gobierno.html",
+        "date": "2024-12-18 04:40:00",
+        "sentiment_score": -0.7854142244905233
+    },
+    {
+        "title": "Sale en libertad el exalto cargo del CNI acusado de filtrar información secreta a EE UU",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5UMJ32IYGRHORGJUH6HZEP7224.jpg?auth=1e3ffe98aacf3cc1d7d9c9bb37348b307cb1e1268afbaf7ea008d33978b5f46a&width=1200",
+        "tags": [
+            "psoe",
+            "prisiones",
+            "espionaje",
+            "cni",
+            "estados unidos",
+            "ministerio de defensa",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-18/sale-en-libertad-el-exalto-cargo-del-cni-acusado-de-filtrar-informacion-secreta-a-ee-uu.html",
+        "date": "2024-12-18 04:40:00",
+        "sentiment_score": -0.5797956604510546
+    },
+    {
+        "title": "Baltasar Garzón: “Hoy tengo mis dudas, más que razonables, sobre el sistema judicial español”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YYWOTQQHAVH7PMV5LCTKB6A2DU.jpg?auth=fcad25689bd61e2a7e9105ba0367d400a025b77ffd9d4569d905e6fb2a941c81&width=1200",
+        "tags": [
+            "augusto pinochet",
+            "chile",
+            "begoña gómez fernández",
+            "reino unido",
+            "pedro sánchez",
+            "julian assange",
+            "baltasar garzón",
+            "justicia universal",
+            "wikileaks",
+            "españa",
+            "londres"
+        ],
+        "link": "https://elpais.com/espana/2024-12-18/baltasar-garzon-hoy-tengo-mis-dudas-mas-que-razonables-sobre-el-sistema-judicial-espanol.html",
+        "date": "2024-12-18 04:40:00",
+        "sentiment_score": -0.4470636621117592
+    },
+    {
+        "title": "La integración en el 112, una reclamación histórica negociada por todos, firmada por el PSC",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JQJKRHQJDWYFVALLGKWZUHKYWY.jpg?auth=ae242ca7e3c20352b8385c12ee3e4c11716fbdd364e9b1857603597ac233596c&width=1200",
+        "tags": [
+            "psc",
+            "mossos d'esquadra",
+            "psoe",
+            "cataluña",
+            "salvador illa",
+            "núria parlon",
+            "fernando grande-marlaska",
+            "seguridad ciudadana",
+            "policía nacional",
+            "guardia civil"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-18/la-integracion-en-el-112-una-reclamacion-historica-negociada-por-todos-firmada-por-el-psc.html",
+        "date": "2024-12-18 04:15:00",
+        "sentiment_score": 0.08180537819862366
+    },
+    {
+        "title": "Objetivo urgente: vaciar las campas de coches y enseres de la dana tras dos incendios en 48 horas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4NQ7VO343BBDBN7Z5JJRKI7MPM.JPG?auth=e25530930abcfaf33caa8aa74e36ac8b4783468c6e3e396d7f4d59ba9d22055c&width=1200",
+        "tags": [
+            "generalitat valenciana",
+            "susana camarero",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "pedro sánchez",
+            "pilar bernabé",
+            "gobierno",
+            "toxicología",
+            "comunidad valenciana",
+            "carlos mazón"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-18/objetivo-urgente-vaciar-las-campas-de-coches-y-enseres-de-la-dana-tras-dos-incendios-en-48-horas.html",
+        "date": "2024-12-18 04:15:00",
+        "sentiment_score": 0.16652707010507584
+    },
+    {
+        "title": "Puigdemont lucha por la “independencia” velando por las eléctricas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CHN6GKICOVA77M7OGRDYXALGFE.jpg?auth=ef86ae256b9d4b7bb537f3bf08bf6237c526491ed84b69ebeabc3312f66b57d9&width=1200",
+        "tags": [
+            "alberto núñez feijóo",
+            "compañías eléctricas",
+            "pp",
+            "psoe",
+            "carles puigdemont",
+            "impuestos",
+            "cataluña",
+            "juntsxcat",
+            "independentismo",
+            "gobierno"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-18/puigdemont-lucha-por-la-independencia-velando-por-las-electricas.html",
+        "date": "2024-12-18 04:15:00",
+        "sentiment_score": -0.764475729316473
+    },
+    {
+        "title": "El enigma Óscar López en el Madrid de Ayuso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PHCULDOAFVW2LN4T4BCDCKGOXU.jpg?auth=d9207982f094a9df6e7e549b09e025df7195c2abbdc9f6c642e81c8833feaa3b&width=1200",
+        "tags": [
+            "isabel díaz ayuso",
+            "pedro sánchez",
+            "madrid",
+            "joaquín leguina",
+            "juan barranco",
+            "pp madrid",
+            "gobierno comunidad de madrid",
+            "gobierno de españa",
+            "rafael simancas",
+            "cristina almeida",
+            "óscar lópez águeda",
+            "psoe",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-18/el-enigma-oscar-lopez-en-el-madrid-de-ayuso.html",
+        "date": "2024-12-18 04:00:00",
+        "sentiment_score": -0.5796935930848122
+    },
+    {
+        "title": "Zarautz levantará medio metro su malecón para protegerse del cambio climático",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QRIR3ZKU6RHHBJVB54U73Z2X3M.jpg?auth=d5fb6a5081f7fe1006159f7ecaa0d59f7c3f7c4a80e2f0797197bd703339d115&width=1200",
+        "tags": [
+            "costas",
+            "cambio climático",
+            "zarautz",
+            "playas",
+            "país vasco",
+            "españa",
+            "calentamiento global"
+        ],
+        "link": "https://elpais.com/espana/2024-12-18/zarautz-levantara-medio-metro-su-malecon-para-protegerse-del-cambio-climatico.html",
+        "date": "2024-12-18 04:00:00",
+        "sentiment_score": -0.23592016100883484
+    },
+    {
+        "title": "Esta es la lista de regalos para adolescentes de 14 años más completa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OOZQDF5I3VB5DNSRUDQ2S44OFQ.png?auth=fc7c21e5431313ef89d5cff6502d9aa9429d21671d48fe69dc665c58be09bec4&width=1200",
+        "tags": [
+            "limpieza automóviles",
+            "limpieza",
+            "amazon",
+            "llantas",
+            "coches",
+            "ventas internet",
+            "comercio electrónico"
+        ],
+        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-18/regalos-para-adolescentes-de-14-anos.html",
+        "date": "2024-12-18 06:30:00",
+        "sentiment_score": 0.29300815984606743
+    },
+    {
+        "title": "Las multas que empapelan al fútbol",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4b15b8f0-e118-405b-a836-199463b7cf48_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/athletic/2024/12/18/multas-empapelan-futbol-9063381.html",
+        "date": "2024-12-18 06:24:29",
+        "sentiment_score": -0.49912792444229126
+    },
+    {
+        "title": "25 ideas de regalos originales para mujer",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HYUC3ZQSY5G2RJON6PKIX4YWDI.png?auth=8f457813060ecaeba2d3ef689e7d15d747717834e9a549789a3a7c6c5e160439&width=1200",
+        "tags": [
+            "comercio electrónico",
+            "ventas internet",
+            "mujeres",
+            "navidad",
+            "regalos",
+            "amazon"
+        ],
+        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-18/regalos-para-mujer.html",
+        "date": "2024-12-18 06:20:00",
+        "sentiment_score": 0.31926149129867554
+    },
+    {
+        "title": "Los trabajadores de Navantia rechazan el preacuerdo sobre el nuevo convenio colectivo",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/18/676268171360d.jpeg",
+        "tags": [
+            "cartagena"
+        ],
+        "link": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/cartagena/noticias/trabajadores-navantia-rechazan-preacuerdo-sobre-nuevo-convenio-colectivo-20241218_3064895.html",
+        "date": "2024-12-18 06:15:15",
+        "sentiment_score": -0.12051837146282196
+    },
+    {
+        "title": "Descubrimos los libros que enganchan a los adolescentes y que son un regalo ideal para esta Navidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RP6GRX2G2JHGHN5WQQKBLI3ELE.png?auth=b5d7caacf52435aa11e1310a09a5bac2d92fc2b2b7f6f9001d7ae7021f06344f&width=1200",
+        "tags": [
+            "ventas internet",
+            "libros",
+            "navidad",
+            "adolescencia",
+            "regalos",
+            "amazon"
+        ],
+        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-18/libros-para-adolescentes.html",
+        "date": "2024-12-18 06:15:00",
+        "sentiment_score": 0.7907057777047157
+    },
+    {
+        "title": "Hablan las presidentas de la Queens League: Noe, Espe y Totakeki hacen balance de la liga de Piqué",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/17/totakeki-espe-y-noe9977.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/hablan-presidentas-queens-league-noe-espe-totakeki-balance-liga-pique.html",
+        "date": "2024-12-18 06:14:32",
+        "sentiment_score": 0.09165260195732117
+    },
+    {
+        "title": "Conflicto en Oriente Próximo, en directo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FUV5IODTYZFEFPA4374FERYFKI.jpg?auth=407ca1182a5337bf101b1dffd64d27bdbcaae2f5224549ab65f5404860f1d1cf&width=1200",
+        "tags": [
+            "guerra",
+            "franja gaza",
+            "bombardeos",
+            "benjamin netanyahu",
+            "conflictos armados",
+            "israel",
+            "conflicto árabe-israelí",
+            "palestina",
+            "jerusalén",
+            "tregua",
+            "hamás",
+            "oriente próximo",
+            "tel aviv",
+            "cisjordania",
+            "territorios palestinos"
+        ],
+        "link": "https://elpais.com/internacional/2024-12-18/conflicto-en-oriente-proximo-en-directo.html",
+        "date": "2024-12-18 06:04:49",
+        "sentiment_score": -0.8452591644600034
+    },
+    {
+        "title": "El Rey Guillermo con las princesas Amalia y Alexia, y Federico y Mary de Dinamarca: las imágenes de su cita en Madrid",
+        "image_url": "https://www.hola.com/horizon/landscape/963b2208f691-guillermoalexiamalia.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/realeza/casa_belga/20241218736399/rey-guillermo-amalia-alexia-federico-mary-dinamarca-cita-madrid-imagenes/",
+        "date": "2024-12-18 06:04:39",
+        "sentiment_score": -0.15051797032356262
+    },
+    {
+        "title": "La infanta Elena: descubrimos su lado más desconocido, con motivo de su cumpleaños",
+        "image_url": "https://www.hola.com/horizon/landscape/0d710bc933e8-fjt9893r.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/realeza/casa_espanola/20241218736378/infanta-elena-lado-mas-desconocido-cumpleanyos/",
+        "date": "2024-12-18 06:04:29",
+        "sentiment_score": 0.09752261638641357
+    },
+    {
+        "title": "La última hora del estado de salud de Raphael: lo que se sabe tras su infarto en ‘La revuelta’",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/10/punto-relacion-amelia-bono-manuel-martos-469x317.jpeg",
+        "tags": [
+            "la revuelta",
+            "gente",
+            "celebrities",
+            "raphael"
+        ],
+        "link": "https://theobjective.com/gente/2024-12-18/ultima-hora-raphael-infarto/",
+        "date": "2024-12-18 06:27:47",
+        "sentiment_score": -0.17360257357358932
+    },
+    {
+        "title": "Lo que debes saber hoy, 18 de diciembre, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/08/10/gran-barcelona/785681672_9096181_1706x960.jpg?contentId=ESPIMA20230810_0248",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241218/lo-que-debes-saber-hoy-de-diciembre-barcelona/909409107_0.html",
+        "date": "2024-12-18 06:10:34",
+        "sentiment_score": -0.7588802576065063
+    },
+    {
+        "title": "Las voces del sector dibujan el futuro del cómic",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/12/18/movil-comic12-v2.gif",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/comic-por-dentro-futuro-profesion-20241218182523-ntrc.html",
+        "date": "2024-12-18 06:08:28",
+        "sentiment_score": 0.32666781544685364
+    },
+    {
+        "title": "Estos restaurantes de hoteles de lujo son una fiesta gastronómica en Navidades",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b9af9d95-d465-4060-b72a-2dc253034eb1_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241218/menus-navidad-restaurantes-hoteles-lujo-barcelona-112549207",
+        "date": "2024-12-18 06:03:46",
+        "sentiment_score": 0.8218803592026234
+    },
+    {
+        "title": "La cesta de la compra de Navidad acelera su subida a una semana de Nochebuena",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b2bdeb68-f821-456b-9ca0-cd7fb17a5139_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/economia/2024/12/18/menu-nochebuena-navidad-cena-nochebuena-comidad-navidad-menu-navidad-112694658.html",
+        "date": "2024-12-18 06:01:05",
+        "sentiment_score": -0.0403263121843338
+    },
+    {
+        "title": "El secreto de los Felipe II, los mantecados selectos que todo el mundo busca en Navidad",
+        "image_url": "https://static1.ara.cat/clip/c5045a02-c7e8-4aa4-af47-fb191b0b0056_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/economia/empresas/secreto-felipe-ii-mantecados-selectos-mundo-busca-navidad_1_5233943.html",
+        "date": "2024-12-18 06:00:33",
+        "sentiment_score": -0.1251903772354126
     }
 ];
