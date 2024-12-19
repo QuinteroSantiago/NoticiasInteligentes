@@ -10,16 +10,6 @@ export default [
         "sentiment_score": -0.07372689247131348
     },
     {
-        "title": "La Habana, una ciudad en peligro de derrumbe",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/15/cuba-Rx4jopy0oj55Vuuvlc0C08I-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/habana-ciudad-peligro-derrumbe-20241215211330-nt.html",
-        "date": "2024-12-15 13:31:49",
-        "sentiment_score": -0.2023901641368866
-    },
-    {
         "title": "Una marea humana clama en Santiago contra la ‘macrocelulosa’ de Altri apadrinada por la Xunta",
         "image_url": "https://imagenes.elpais.com/resizer/v2/WN2KFHNNRBHYUI52MNI2FSMVY4.jpg?auth=4090da354462efde6c8e093f6735adab61f741a51318ae41bebf581f24d15047&width=1200",
         "tags": [
@@ -6941,5 +6931,382 @@ export default [
         "link": "https://www.expansion.com/catalunya/2024/12/18/67634021e5fdea96618b4574.html",
         "date": "2024-12-18 21:37:25",
         "sentiment_score": 0.44935496151447296
+    },
+    {
+        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/64DQ33O5XNF7HLOJMMCRJGOBHU.jpg?auth=d59ec96ee1a5c9303dda082c4d54fa5bb67c61a4fcb68f1c52d25084ba999946&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/19/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2024-12-19 02:02:01",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Diego Martínez: \"Me siento muy orgulloso de este equipo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/diego-martinez-me-siento-muy-orgulloso-de-este-equipo/",
+        "date": "2024-12-19 01:33:13",
+        "sentiment_score": 0.8852073587477207
+    },
+    {
+        "title": "Iñigo Pérez: \"Debemos ser un colectivo potente y volver a impulsarnos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/inigo-perez-debemos-ser-un-colectivo-potente-y-volver-a-impulsarnos/",
+        "date": "2024-12-19 01:18:23",
+        "sentiment_score": 0.717487744987011
+    },
+    {
+        "title": "Cillessen: \"Con Diego Martínez hemos hecho clic y peleamos por todo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/cillessen-con-diego-martinez-hemos-hecho-clic-y-peleamos-por-todo/",
+        "date": "2024-12-19 01:18:04",
+        "sentiment_score": 0.8159159515053034
+    },
+    {
+        "title": "El granadino Julián Sánchez gana el V Premio SGAE de Jazz ‘Tete Montoliú’ 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/el-granadino-julian-sanchez-gana-el-v-premio-sgae-de-jazz-tete-montoliu-2024/",
+        "date": "2024-12-18 23:48:12",
+        "sentiment_score": 0.6047693230211735
+    },
+    {
+        "title": "Baraja: \"Cuanto más difícil es la situación, más fortaleza debes sacar\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/baraja-cuanto-mas-dificil-es-la-situacion-mas-fortaleza-debes-sacar/",
+        "date": "2024-12-18 23:46:53",
+        "sentiment_score": 0.016117185354232788
+    },
+    {
+        "title": "Manolo González: \"El gol tan rápido nos ha hecho daño\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/manolo-gonzalez-el-gol-tan-rapido-nos-ha-hecho-dano/",
+        "date": "2024-12-18 23:46:36",
+        "sentiment_score": -0.9201381905004382
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 19 de diciembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/hoy-sera-noticia-jueves-19-de-diciembre/",
+        "date": "2024-12-18 23:32:40",
+        "sentiment_score": 0.0365048348903656
+    },
+    {
+        "title": "Gumbau: \"Nos ha faltado acierto y estar concentrados a balón parado\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/08/gumbau-nos-ha-faltado-acierto-y-estar-concentrados-a-balon-parado/",
+        "date": "2024-12-18 23:18:23",
+        "sentiment_score": -0.8810839504003525
+    },
+    {
+        "title": "1-1. Mirandés y Sporting firman tablas en partido condicionado por la lesión de Panichelli",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/1-1-mirandes-y-sporting-firman-tablas-en-partido-condicionado-por-la-lesion-de-panichelli/",
+        "date": "2024-12-18 23:18:05",
+        "sentiment_score": -0.3113262467086315
+    },
+    {
+        "title": "Migración: ¿Seguir la ruta o volver a casa?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2155606113.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migracion-volver-sueno-americano-peligros-perspectivas-mexico-tv/",
+        "date": "2024-12-19 02:08:52",
+        "sentiment_score": -0.15922972559928894
+    },
+    {
+        "title": "\"Hay que esperar al menos una hora para abusar de ella\": Mensajes arrojan luz sobre el modo de actuar de Dominique Pelicot",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gisele-pelicot-rape-case-investigation1-20241219020051963.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mensajes-modo-actuar-dominique-pelicot-abuso-caso/",
+        "date": "2024-12-19 02:05:28",
+        "sentiment_score": -0.8747559152543545
+    },
+    {
+        "title": "El “regalo” de Sheinbaum para los migrantes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2183211803.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/himno-migrante-sheinbaum-perspectivas-mexico-tv/",
+        "date": "2024-12-19 02:00:11",
+        "sentiment_score": 0.30044765770435333
+    },
+    {
+        "title": "Las actividades criminales del Tren de Aragua en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2183351603-1.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tren-de-aragua-actividad-criminal-perspectivas-mexico-tv/",
+        "date": "2024-12-19 01:53:40",
+        "sentiment_score": -0.8539773961529136
+    },
+    {
+        "title": "EE.UU. confirma primer caso severo de gripe aviar H5N1 en un paciente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-73129495.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-cdc-primer-caso-severo-gripe-aviar-h5n1-panorama-mundial/",
+        "date": "2024-12-19 01:52:55",
+        "sentiment_score": -0.42027539387345314
+    },
+    {
+        "title": "Google Maps revela pistas en caso de un torso hallado en España",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/69259364-18955130-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "españa",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/google-maps-investigacion-policial-espana-orix/",
+        "date": "2024-12-19 01:04:15",
+        "sentiment_score": -0.3962363712489605
+    },
+    {
+        "title": "Italia devuelve a México más de 100 piezas arqueológicas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21210406-3288610-still.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "méxico",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/italia-devuelve-mexico-piezas-arqueologicas-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-19 00:26:16",
+        "sentiment_score": -0.17797907069325447
+    },
+    {
+        "title": "Director del Infonavit: Muchos trabajadores no saben que tienen ese dinero",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/infonavit.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/infonavit-proyecto-desarrollo-inmobiliario-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-19 00:18:49",
+        "sentiment_score": -0.8516657631844282
+    },
+    {
+        "title": "La Corte Suprema acepta el caso sobre la prohibición de TikTok en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/dusa-3.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiktok-cambio-redes-sociales-corte-suprema-ush-dusa-tv/",
+        "date": "2024-12-19 00:07:03",
+        "sentiment_score": -0.07106168568134308
+    },
+    {
+        "title": "Jeff Bezos se reúne con Trump en Mar-a-Lago",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/dusa-2-20241218235734626.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jeff-bezos-visita-a-donald-trump/",
+        "date": "2024-12-19 00:01:01",
+        "sentiment_score": -0.12126211822032928
+    },
+    {
+        "title": "La Comisión reprende a España por el 'gran hermano' turístico: \"Hay que aligerar la recogida de datos, no añadir burocracia\"",
+        "image_url": "https://s1.elespanol.com/2024/12/18/espana/politica/909670085_251804516_1706x960.jpg?contentId=ESPIMA20241218_1061",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20241219/comision-reprende-espana-gran-hermano-turistico-aligerar-recogida-datos-no-anadir-burocracia/909409691_0.html",
+        "date": "2024-12-19 01:31:12",
+        "sentiment_score": -0.41409460455179214
+    },
+    {
+        "title": "Jhon Arias está en el top 3 de jugadores con más minutos en el mundo: superó a estrella del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/QT2AXEM4HZGMTGQTEHIOCHQOUQ.jpg?auth=8baca2d8a654107cbee6bc5068d2a1f7691a2db1a1ff50e3bd389a2d5e2af329&height=1088&smart=true&width=1635",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/12/19/jhon-arias-esta-en-el-top-3-de-jugadores-con-mas-minutos-en-el-mundo-supero-a-estrella-del-real-madrid/",
+        "date": "2024-12-19 01:19:26",
+        "sentiment_score": 0.8593960572034121
+    },
+    {
+        "title": "El aguinaldo de Ayuso se convierte en “calderilla”: acepta sólo 16 enmiendas de la oposición",
+        "image_url": "https://s1.elespanol.com/2023/12/21/madrid/comunidad/818928624_238615053_1706x960.jpg?contentId=ESPIMA20231221_0525",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241219/aguinaldo-ayuso-convierte-calderilla-acepta-solo-enmiendas-oposicion/909159660_0.html",
+        "date": "2024-12-19 00:52:55",
+        "sentiment_score": -0.01233498752117157
+    },
+    {
+        "title": "18 DIC 2024 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/18-dic-2024-partidazo-cope-20241219_3065675.html",
+        "date": "2024-12-19 00:43:57",
+        "sentiment_score": 0.22247393429279327
+    },
+    {
+        "title": "El Barça supera al Real Madrid en los ingresos televisivos de la Liga 2023-24: los motivos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/12/20/culemania/palco/818678301_12117139_1706x960.jpg?contentId=ESPIMA20231220_0177",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241219/el-barca-real-madrid-los-televisivos-liga/909659143_0.html",
+        "date": "2024-12-19 00:39:44",
+        "sentiment_score": 0.4527806341648102
+    },
+    {
+        "title": "La ‘palanca Haaland’ que prepara Laporta, otra hipoteca a 20 años",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/18/culemania/palco/909669163_13887256_1706x960.jpg?contentId=ESPIMA20241218_0139",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241219/la-palanca-haaland-prepara-laporta-otra-hipoteca/909659142_0.html",
+        "date": "2024-12-19 00:06:59",
+        "sentiment_score": 0.5908974222838879
+    },
+    {
+        "title": "El parragués Javier Hernanz aspira a ser reelegido como presidente de la Nacional de Piragüismo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d21600b9-64f0-42d2-9eb9-7df434bb51ec_16-9-aspect-ratio_default_0_x593y795.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2024/12/19/parragues-javier-hernanz-aspira-reelegido-112747182.html",
+        "date": "2024-12-18 23:47:45",
+        "sentiment_score": -0.17477011680603027
+    },
+    {
+        "title": "El Real Madrid celebra, pero surge la duda: ¿Bellingham ante el Sevilla?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/19/2024121900372755454.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-celebra-surge-duda-bellingham-sevilla/20241219003827327980.html",
+        "date": "2024-12-18 23:38:27",
+        "sentiment_score": -0.7881207410246134
+    },
+    {
+        "title": "Real Madrid goleó a Pachuca y gana su cuarta Copa Intercontinental",
+        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2024/12/REAL-MADRID-CELEBRA-GOL-ANTE-PACHUCA.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://soynuevaprensadigital.com/npd/real-madrid-goleo-a-pachuca-y-gana-su-cuarta-copa-intercontinental/",
+        "date": "2024-12-18 23:29:10",
+        "sentiment_score": 0.6279463097453117
+    },
+    {
+        "title": "Crece la desdicha para Villarreal con empate 1-1 ante Rayo; Valencia y Espanyol quedan tablas",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/futbol-espana-villarreal-rayo-empate-a602b069949cf66136f5eede40c5d064",
+        "date": "2024-12-18 23:27:40",
+        "sentiment_score": 0.6222003698348999
+    },
+    {
+        "title": "El prestigio científico del CNIO se despeña: cae 129 puestos en el ranking 'Nature' de centros en los últimos 7 años",
+        "image_url": "https://s1.elespanol.com/2024/12/18/actualidad/909670034_251802981_1706x960.png?contentId=ESPIMA20241218_1010",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20241219/prestigio-cientifico-cnio-despena-cae-puestos-ranking-nature-centros-ultimos-anos/909659562_0.html",
+        "date": "2024-12-19 01:30:38",
+        "sentiment_score": -0.8660531155765057
+    },
+    {
+        "title": "Encuentran sin vida a un seminarista en convento La Merced de Cusco: familiares cuestionan circunstancias del hecho",
+        "image_url": "https://www.infobae.com/resizer/v2/AHBE7WD64ZFYZGGILJ6BEHBEL4.png?auth=9c38e892e397ba4db8f54e87e83216602f0d8859dfa1fa07939bbf05ed1a17e4&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/12/19/encuentran-sin-vida-a-un-seminarista-en-convento-la-merced-de-cusco-familiares-cuestionan-circunstancias-del-hecho/",
+        "date": "2024-12-19 01:16:01",
+        "sentiment_score": -0.6902319639921188
+    },
+    {
+        "title": "Vicio llegará a Lisboa en enero del próximo año tras cerrar 2024 con 55M€ de facturación",
+        "image_url": "https://s1.elespanol.com/2024/12/18/invertia/empresas/distribucion/909669717_251793372_1706x960.jpg?contentId=ESPIMA20241218_0693",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20241219/vicio-llegara-lisboa-enero-proximo-ano-cerrar-facturacion/909659441_0.html",
+        "date": "2024-12-19 00:56:56",
+        "sentiment_score": 0.49158315546810627
+    },
+    {
+        "title": "La locura del cochinillo asado de un cubano en su tienda de Oporto: la cola da la vuelta a la esquina esta Navidad",
+        "image_url": "https://s1.elespanol.com/2024/12/18/madrid/ocio/909669452_251785462_1706x960.jpg?contentId=ESPIMA20241218_0428",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241219/locura-cochinillo-asado-cubano-tienda-oporto-cola-da-vuelta-esquina-navidad/909659271_0.html",
+        "date": "2024-12-19 00:52:51",
+        "sentiment_score": -0.7880348451435566
+    },
+    {
+        "title": "Antoine Griezmann, la estrella infravalorada que llegó al Barça en el peor momento",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/02/25/culemania/primer-equipo/primer_equipo_13759288_1786540_1706x960.jpg?contentId=ESPIMA20150225_0664",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241219/antoine-griezmann-estrella-infravalorada-llego-barca-enelpeormomento/909659128_0.html",
+        "date": "2024-12-19 00:30:26",
+        "sentiment_score": -0.9210410807281733
+    },
+    {
+        "title": "«La libertad es esclavitud», la verdad sanchista",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/10/31/65416126b6574.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241219/libertad-esclavitud-verdad-sanchista_254593.html",
+        "date": "2024-12-19 00:30:00",
+        "sentiment_score": -0.7757027745246887
+    },
+    {
+        "title": "Una mujer muere tras una explosión fatal en su vivienda en El Masnou",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/10/bombers-de-barcelona.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5665553/0/una-mujer-muere-su-vivienda-tras-una-explosion-fatal-masnou/",
+        "date": "2024-12-19 00:07:14",
+        "sentiment_score": -0.7713974565267563
     }
 ];
