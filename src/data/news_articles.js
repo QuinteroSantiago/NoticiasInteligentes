@@ -1,231 +1,5 @@
 export default [
     {
-        "title": "Lula recibe el alta hospitalaria tras su doble cirugía: «Me preocupó la cantidad de sangre en mi cabeza»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/15/DAMBin-2024-12-15T173003.203-kZtB-U6034969735506uH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/lula-recibe-alta-hospitalaria-tras-doble-cirugia-20241215174819-nt.html",
-        "date": "2024-12-15 16:48:20",
-        "sentiment_score": -0.07372689247131348
-    },
-    {
-        "title": "Una marea humana clama en Santiago contra la ‘macrocelulosa’ de Altri apadrinada por la Xunta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WN2KFHNNRBHYUI52MNI2FSMVY4.jpg?auth=4090da354462efde6c8e093f6735adab61f741a51318ae41bebf581f24d15047&width=1200",
-        "tags": [
-            "xunta galicia",
-            "galicia",
-            "contaminación industrial",
-            "alfonso rueda",
-            "españa",
-            "manifestaciones",
-            "fábricas",
-            "ría de arosa",
-            "contaminación",
-            "beatriz mato otero",
-            "medio ambiente",
-            "contaminación litoral"
-        ],
-        "link": "https://elpais.com/espana/galicia/2024-12-15/una-marea-humana-clama-en-santiago-contra-la-macrocelulosa-de-altri-apadrinada-por-la-xunta.html",
-        "date": "2024-12-15 15:29:38",
-        "sentiment_score": -0.7349497303366661
-    },
-    {
-        "title": "El rey Federico de Dinamarca vuelve a Madrid junto a su mujer un año después de las polémicas imágenes con Genoveva Casanova",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/22/los-retratos-oficiales-civiles-de-mary-donaldson-y-federico-de-dinamarca.png",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5664131/0/rey-federico-dinamarca-vuelve-madrid-junto-su-mujer-tras-las-imagenes-junto-genoveva-casanova/",
-        "date": "2024-12-15 17:09:17",
-        "sentiment_score": 0.08638059720396996
-    },
-    {
-        "title": "Dinamarca critica a Federico X y Mary Donaldson durante su visita a Madrid: \"Nos vuelven a abandonar\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/15/federico-x-y-mary-donaldson.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5664137/0/dinamarca-critica-federico-x-mary-donaldson-durante-su-visita-madrid-nos-vuelven-abandonar/",
-        "date": "2024-12-15 17:08:07",
-        "sentiment_score": -0.9123181570321321
-    },
-    {
-        "title": "Vinicius la vuelve a liar: el vergonzoso gesto a la grada del Rayo Vallecano",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/15/culemania/real-madrid/908919149_13871140_1706x960.jpg?contentId=ESPIMA20241215_0050",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20241215/vinicius-la-vuelve-vergonzoso-gesto-rayo-vallecano/908909139_0.html",
-        "date": "2024-12-15 16:59:53",
-        "sentiment_score": -0.5641022175550461
-    },
-    {
-        "title": "Final de la Copa Intercontinental entre Pachuca y Real Madrid: Fecha, horarios y dónde ver",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/pachuca_41aba0-e1734278681323.jpg",
-        "tags": [
-            "real madrid",
-            "deportes",
-            "pachuca",
-            "fútbol"
-        ],
-        "link": "https://eldiariony.com/2024/12/15/final-de-la-copa-intercontinental-entre-pachuca-y-real-madrid-fecha-horarios-y-donde-ver/",
-        "date": "2024-12-15 16:53:33",
-        "sentiment_score": 0.6795202940702438
-    },
-    {
-        "title": "«El primer objetivo es formar, pero es más fácil con una exigencia competitiva»",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/15/olivas1-kQ8F-U230297304347yNF-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/primer-objetivo-formar-facil-exigencia-competitiva-20241215175254-nt.html",
-        "date": "2024-12-15 16:52:55",
-        "sentiment_score": 0.2462231144309044
-    },
-    {
-        "title": "Andrés Iniesta se prepara para ser entrenador",
-        "image_url": "https://cflvdg.avoz.es/sc/-aZvMaoFtrOiXF4sJ0bi9pp4xAs=/768x/2024/12/15/00121734281068542962400/Foto/EuropaPress_2039604_barcelona_spain_december_18_the_fc_barcelona_player_andres_iniesta_from-EP.jpg",
-        "tags": [
-            "andrés iniesta",
-            "fútbol"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2024/12/15/andres-iniesta-prepara-entrenador/00031734281096340101229.htm",
-        "date": "2024-12-15 16:48:00",
-        "sentiment_score": -0.20881514251232147
-    },
-    {
-        "title": "La larga carrera de la gigafactoría: así logró Zaragoza el sí de Stellantis y el socio chino CATL",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50002b59-3fb8-4123-9eb1-5481ac6d5789_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20241215/larga-carrera-gigafactoria-logro-zaragoza-stellantis-112637658",
-        "date": "2024-12-15 16:47:11",
-        "sentiment_score": 0.4567583054304123
-    },
-    {
-        "title": "¡Alerta sanitaria! Estos son los productos cárnicos que NO debes consumir",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/15/2024121517415315058.png",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/espanha/listeria-embutidos-alerta-sanitaria-retiran-productos-carnicos-toda-espana-peligrosa-bacteria/20241215174225546698.html",
-        "date": "2024-12-15 16:42:25",
-        "sentiment_score": -0.03229133039712906
-    },
-    {
-        "title": "Telecinco altera su programación este miércoles: Ana Rosa será sustituida por el fútbol",
-        "image_url": "https://www.elplural.com/uploads/s1/18/71/37/7/ana-rosa-quintana-en-tardear-mediaset-espana-1_7_480x270.jpeg",
-        "tags": [
-            "todo tv"
-        ],
-        "link": "https://www.elplural.com/todo-tv/telecinco-altera-programacion-miercoles-ana-rosa-sera-sustituida-futbol_343124102",
-        "date": "2024-12-15 16:39:06",
-        "sentiment_score": -0.0662304162979126
-    },
-    {
-        "title": "Roncero pierde la paciencia con un jugador del Real Madrid: «Si no muerde, no puede jugar aquí»",
-        "image_url": "https://cflvdg.avoz.es/sc/xihkKLPUXy30ti97_R1DBmuLVzA=/768x/2024/12/15/00121734280134812508153/Foto/EuropaPress_4145502_tomas_roncero_sport_journalist_attends_during_the_arrival_red_carpet_at_the-EP.jpg",
-        "tags": [
-            "real madrid",
-            "tertulias"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/escuadra/tertulias/2024/12/15/roncero-pierde-paciencia-jugador-real-madrid-muerde-puede-jugar-/00031734280170712114109.htm",
-        "date": "2024-12-15 16:36:00",
-        "sentiment_score": -0.4779539816081524
-    },
-    {
-        "title": "Desarticulan en España a una banda que captaba mujeres de Honduras, Colombia y otros países",
-        "image_url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/6/e1/6e12c61a-bd1e-5701-9c71-578fe22cb15f/675f192f6a7d1.image.png?resize=300%2C150",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.victoriaadvocate.com/desarticulan-en-espa-a-a-una-banda-que-captaba-mujeres-de-honduras-colombia-y-otros/article_e6952958-ac58-557a-8a5b-43b3f38549de.html",
-        "date": "2024-12-15 17:10:00",
-        "sentiment_score": -0.6871132776141167
-    },
-    {
-        "title": "La dictadura de Maduro entrega en avanzado estado de descomposición el cadáver del preso político Jesús Álvarez",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/14/675dad5a57e6c.r_d.379-224-14320.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.eldebate.com/internacional/20241215/regimen-maduro-entrega-avanzado-estado-descomposicion-cadaver-preso-politicojesus-alvarez_253520.html",
-        "date": "2024-12-15 17:08:23",
-        "sentiment_score": -0.8744669519364834
-    },
-    {
-        "title": "Violeta Andic, se despide de su tio Isak Andic en el tanatorio de Les Corts (Barceona)",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/202412/15/media/cortadas/violeta-andic-despide-isak-andic-tanatorio-corts-20241215165503-vi.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/sociedad/violeta-andic-despide-isak-andic-tanatorio-corts-20241215165503-vi.html",
-        "date": "2024-12-15 17:05:06",
-        "sentiment_score": -0.5545035190880299
-    },
-    {
-        "title": "Muere un joven embestido por un conductor drogado cuando iba por una travesía",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/08/16/2024081617412486115.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/muere-joven-arrollado-conductor-drogado-cuando-caminaba-travesia/20241215180213438985.html",
-        "date": "2024-12-15 17:02:13",
-        "sentiment_score": -0.8178578726947308
-    },
-    {
-        "title": "Una mujer en estado crítico tras ser atropellada por una moto en Igualada",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a3c1dbf-62bc-48b1-9326-829bf62b97a4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20241215/mujer-estado-critico-atropellada-moto-igualada-barcelona-112641129",
-        "date": "2024-12-15 17:02:05",
-        "sentiment_score": -0.8330440865829587
-    },
-    {
-        "title": "Open Arms lanza una campaña contra la desinformación con imágenes de Trump, Musk y Von der Leyen",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/files/fp/uploads/imagenes/2024/12/15/la-nueva-campana-a-ti-tambien-te-salvariamos-de-open-arms.r_d.1500-1000-3300.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/internacional/2024/12/15/open-arms-lanza-una-campana-contra-la-desinformacion-con-imagenes-de-trump-musk-y-von-der-leyen-1785493.html",
-        "date": "2024-12-15 16:57:51",
-        "sentiment_score": -0.29486601799726486
-    },
-    {
-        "title": "Yanguas participa en las Finales desde el jueves",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/12/15/Franco-Stupaczuk-Mike-Yanguas-Madrid-P1-1536x864-U190632066343oNB-U230297383284HZE-1200x840@Ideal.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ideal.es/deportes/provincial-granada/yanguas-participa-finales-jueves-20241215175419-nt.html",
-        "date": "2024-12-15 16:57:13",
-        "sentiment_score": -0.8648920599371195
-    },
-    {
-        "title": "Liberan a 8 mujeres latinoamericanas que eran forzadas a prostituirse en España",
-        "image_url": "https://i0.wp.com/efectococuyo.com/wp-content/uploads/2018/12/trata-de-personas.jpg?fit=1000%2C600&ssl=1",
-        "tags": [
-            "internacionales"
-        ],
-        "link": "https://efectococuyo.com/internacionales/liberan-a-8-mujeres-latinoamericanas-que-eran-forzadas-a-prostituirse-en-espana/",
-        "date": "2024-12-15 16:48:05",
-        "sentiment_score": -0.3320624753832817
-    },
-    {
-        "title": "La ciudad con uno de los mejores mercadillos de Navidad, a tan solo 2h30 de Barcelona: vuela por menos de 30 euros",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/12/06/6752eb689b45b.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20241215/1002371737/ciudad-mejores-mercadillos-navidad-2h30-barcelona-vuela-30-euros-tsm-dct.html",
-        "date": "2024-12-15 16:45:58",
-        "sentiment_score": 0.31439967453479767
-    },
-    {
         "title": "¿La guerra cultural pone en segundo plano a la democracia en Siria?",
         "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2188259799.jpg?quality=100&strip=info",
         "tags": [
@@ -337,26 +111,6 @@ export default [
         "sentiment_score": -0.2387225180864334
     },
     {
-        "title": "La innovación que diluye la amenaza de los microplásticos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/16/microplasticos-R0wKVnMf3RtRWzA3GDdw1lO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/innovacion-diluye-amenaza-microplasticos-20241216174351-nt.html",
-        "date": "2024-12-15 18:01:19",
-        "sentiment_score": -0.10986237227916718
-    },
-    {
-        "title": "La tecnología marca diferencias en el Everest de la atención al cliente",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/16/tecnologiaatencioncliente-RUUhXwFHvWE5LK02RP6Ld5H-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/tecnologia-marca-diferencias-everest-atencion-cliente-20241216163956-nt.html",
-        "date": "2024-12-15 18:00:01",
-        "sentiment_score": -0.09704476594924927
-    },
-    {
         "title": "La Marató recauda 3,25 millones de euros para investigar las enfermedades respiratorias",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DAC5VVSPMFELPL7HJ4WUHLKV5A.jpg?auth=916d382789c0942b19157ce15957da000d7512f68ab4b088ec08da7d570d7abe&width=1200",
         "tags": [
@@ -373,27 +127,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-15/la-marato-recauda-325-millones-de-euros-para-investigar-las-enfermedades-respiratorias.html",
         "date": "2024-12-15 21:16:01",
         "sentiment_score": -0.6356824766844511
-    },
-    {
-        "title": "Canarias suspende las clases este lunes por el viento en La Gomera, El Hierro y parte de Tenerife",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LYFGTVVWUBBFZHZJWZLXKEL5BQ.jpg?auth=a859f0220a5e7c8c2f4d028fcb0cce24a55493f78c5af6cbc2e7ea012f4c5f32&width=1200",
-        "tags": [
-            "el tiempo",
-            "canarias",
-            "la palma",
-            "gran canaria",
-            "tenerife",
-            "la gomera",
-            "gobierno canarias",
-            "españa",
-            "aemet",
-            "predicción meteorológica",
-            "el hierro",
-            "meteorología"
-        ],
-        "link": "https://elpais.com/espana/2024-12-15/canarias-suspende-las-clases-este-lunes-por-el-viento-en-la-gomera-el-hierro-y-parte-de-tenerife.html",
-        "date": "2024-12-15 18:14:00",
-        "sentiment_score": -0.8264193031936884
     },
     {
         "title": "El segundo jugador del Barça al que le rompen el diente en tres partidos",
@@ -7308,5 +7041,477 @@ export default [
         "link": "https://www.20minutos.es/noticia/5665553/0/una-mujer-muere-su-vivienda-tras-una-explosion-fatal-masnou/",
         "date": "2024-12-19 00:07:14",
         "sentiment_score": -0.7713974565267563
+    },
+    {
+        "title": "Cuál es el precio de la gasolina este 19 de diciembre en Madrid, Barcelona y otras ciudades de España",
+        "image_url": "https://www.infobae.com/resizer/v2/4NWH5FEAPJGYPEL4ENBTWGDUUM.jpg?auth=23d28acd6b79280c76040305cf267d65645aff18e2a29c39b04876570f624fdd&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/19/cual-es-el-precio-de-la-gasolina-este-19-de-diciembre-en-madrid-barcelona-y-otras-ciudades-de-espana/",
+        "date": "2024-12-19 06:31:24",
+        "sentiment_score": -0.06122169271111488
+    },
+    {
+        "title": "Efemérides del 20 de diciembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/19/efemerides-del-20-de-diciembre/",
+        "date": "2024-12-19 06:15:45",
+        "sentiment_score": -0.02005285769701004
+    },
+    {
+        "title": "Pedraz abrirá pieza separada en el caso Hidrocarburos con el volcado del móvil de Aldama",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/19/pedraz-abrira-pieza-separada-en-el-caso-hidrocarburos-con-el-volcado-del-movil-de-aldama/",
+        "date": "2024-12-19 06:15:28",
+        "sentiment_score": -0.02340804785490036
+    },
+    {
+        "title": "Esas son las medidas que peligran si se mantiene el veto a la ley de eficiencia judicial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/19/esas-son-las-medidas-que-peligran-si-se-mantiene-el-veto-a-la-ley-de-eficiencia-judicial/",
+        "date": "2024-12-19 05:45:44",
+        "sentiment_score": -0.15102620422840118
+    },
+    {
+        "title": "Actualización del tipo de cambio dólar-euro hoy 19 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2XSHXRMXXJEE7LMPM6YKAATFZI.jpg?auth=4a9d7df92f29fd0dfc38fafa42cad9f2b9326a454f321e07e2f3d18ec9119a7e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/19/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-19-de-diciembre/",
+        "date": "2024-12-19 05:15:32",
+        "sentiment_score": -0.32036420702934265
+    },
+    {
+        "title": "Esta es la estación de tren más bonita del mundo, según la Unesco: está a los pies de un increíble lago y tiene una locomotora de 1893",
+        "image_url": "https://www.infobae.com/resizer/v2/H5TB4DWA2FFJXDCXE6KIZ6ANZA.jpg?auth=89353b04e1b85d10ac29eb0d702c80662ed7729235e39aed4cd245564ede711a&height=1161&smart=true&width=2065",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2024/12/19/esta-es-la-estacion-de-tren-mas-bonita-del-mundo-segun-la-unesco-esta-a-los-pies-de-un-increible-lago-y-tiene-una-locomotora-de-1893/",
+        "date": "2024-12-19 05:00:00",
+        "sentiment_score": -0.016745753586292267
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Zaragoza?",
+        "image_url": "https://www.infobae.com/resizer/v2/3GDJVQAQ7JAOBJPGZOQJM7H75I.jpg?auth=05fa6f820db2c8bf57d87b7632225e013eaeab6b2f9a6265a01d5527617bf760&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/19/cual-es-la-temperatura-promedio-en-zaragoza/",
+        "date": "2024-12-19 04:46:00",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Valencia este 19 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/HN5T2Y6JQBFYVFLIBLRBNICM6I.jpg?auth=0b1d73f5d44863836f85eddf20acaaa197311242b3500f189dd904d878cf431e&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/19/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-valencia-este-19-de-diciembre/",
+        "date": "2024-12-19 04:17:14",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "El Congreso cierra el año pendiente de la votación de dos normas clave del Gobierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/19/el-congreso-cierra-el-ano-pendiente-de-la-votacion-de-dos-normas-clave-del-gobierno/",
+        "date": "2024-12-19 04:15:58",
+        "sentiment_score": 0.2890421226620674
+    },
+    {
+        "title": "Del tamaño de un husky, pero sin pelo y con dientes de sable: el antepasado de los mamíferos más antiguo del mundo vivía en Mallorca",
+        "image_url": "https://www.infobae.com/resizer/v2/KZUK3O4A7NEATIKCB3CWVRJBCU.jpg?auth=ce205ec9f6ef48e05697cd1d692344a9c596cfa9f058ff7c7179c304b7494fb6&height=731&smart=true&width=1300",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/19/del-tamano-de-un-husky-pero-sin-pelo-y-con-dientes-de-sable-el-antepasado-de-los-mamiferos-mas-antiguo-del-mundo-vivia-en-mallorca/",
+        "date": "2024-12-19 04:04:45",
+        "sentiment_score": 0.6563619151711464
+    },
+    {
+        "title": "¿Qué futuro le espera a los migrantes de la tercera edad?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1063549196.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news briefs",
+            "méxico",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migrantes-mayores-tercera-edad-fdr-conclusiones-tv-fast/",
+        "date": "2024-12-19 03:34:30",
+        "sentiment_score": -0.32069992274045944
+    },
+    {
+        "title": "Activista explica la discriminación que padecen los migrantes con discapacidad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1086407066.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/personas-discapacidad-viaje-migracion-desplazamiento-obstaculo-conclusiones-tv/",
+        "date": "2024-12-19 03:03:19",
+        "sentiment_score": -0.8084944449365139
+    },
+    {
+        "title": "Activista describe el drama que viven los migrantes adultos mayores en Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-57041872.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migrantes-discriminacion-jornaleros-ancianos-fuerza-trabajo-conclusiones-tv/",
+        "date": "2024-12-19 03:02:53",
+        "sentiment_score": -0.5105040520429611
+    },
+    {
+        "title": "La más destacada activista de DD.HH. de Irán habla con CNN mientras le permiten salir temporalmente de prisión",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/activista-derechos-humanos-cnn-00-01-25-01-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/entrevista-activista-derechos-humanos-cnn-trax/",
+        "date": "2024-12-19 02:25:10",
+        "sentiment_score": -0.36166611313819885
+    },
+    {
+        "title": "Del mafioso oculto en Galapagar al asesinato del taxista indio: los crímenes que Google Maps ayudó a resolver",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/18/mafioso-italiano_20241218173317-RQMNwGIdIF3t1UWhniSRzRI-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/mafioso-oculto-galapagar-asesinato-taxista-indio-crimenes-20241218041626-nt.html",
+        "date": "2024-12-19 03:16:38",
+        "sentiment_score": -0.09042724967002869
+    },
+    {
+        "title": "La plantilla pública engorda en 407.139 nuevos empleos con Sánchez, el 95% en las autonomías",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/19/funci-Rz5vnfMxyRPdCnq3IaGcWdL-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/plantilla-publica-engorda-407139-nuevos-empleos-sanchez-20241219194426-nt.html",
+        "date": "2024-12-19 03:07:34",
+        "sentiment_score": -0.10005998611450195
+    },
+    {
+        "title": "Argentina lanza una 'mili' pagada y voluntaria para todos los jóvenes 'ninis'",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/19/militares-kTQ-U7012065828TCG-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/argentina-lanza-mili-pagada-voluntaria-jovenes-ninis-20241219040222-nt.html",
+        "date": "2024-12-19 03:02:22",
+        "sentiment_score": 0.01776030659675598
+    },
+    {
+        "title": "De suicidio a homicidio en Marbella: cuando la clave de la investigación es la posición del cadáver en el suelo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OC7QCJZ2FFCLRA4RWCERMHWDXE.jpg?auth=691bd44e45f0de70414637cf5bfb36f290eec382d3dba53bcc8f45529c5c5d67&width=1200",
+        "tags": [
+            "investigación judicial",
+            "policía",
+            "sucesos",
+            "marbella",
+            "españa",
+            "policía judicial",
+            "asesinatos",
+            "suicidio"
+        ],
+        "link": "https://elpais.com/espana/2024-12-19/de-suicidio-a-homicidio-en-marbella-cuando-la-clave-de-la-investigacion-es-la-posicion-del-cadaver-en-el-suelo.html",
+        "date": "2024-12-19 04:40:00",
+        "sentiment_score": -0.6718035563826561
+    },
+    {
+        "title": "Junts y Podemos amenazan con un último pleno de infarto con varias derrotas posibles del Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YV4D4NL5TJBIDD7LXW7GVPHMFY.jpg?auth=37709f2322a9a55c79d60be2eb98b5bd625394b4e3015b13ef58e9ca69bab0cd&width=1200",
+        "tags": [
+            "política",
+            "españa",
+            "gobierno",
+            "congreso diputados",
+            "psoe",
+            "juntsxcat",
+            "podemos",
+            "gobierno de españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-19/junts-y-podemos-amenazan-con-un-ultimo-pleno-de-infarto-con-varias-derrotas-posibles-del-gobierno.html",
+        "date": "2024-12-19 04:40:00",
+        "sentiment_score": 0.38274363428354263
+    },
+    {
+        "title": "El PSOE andaluz teme a las primarias: dirigentes socialistas buscan una salida consensuada a Juan Espadas que las evite",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TEKZCX7P7FFUBE2RLWTQXWHLV4.jpg?auth=c0f7bbbee0c090974ebf68153e6ff1f1f0adb4d11b9a2c6d3ca142abcf2639cf&width=1200",
+        "tags": [
+            "andalucía",
+            "socialismo",
+            "primarias psoe",
+            "susana díaz",
+            "sevilla",
+            "españa",
+            "jaén",
+            "psoe",
+            "juan espadas cejas",
+            "junta de andalucía",
+            "psoe-a"
+        ],
+        "link": "https://elpais.com/espana/2024-12-19/el-psoe-andaluz-teme-a-la-fiesta-de-la-democracia-dirigentes-socialistas-buscan-una-salida-consensuada-a-juan-espadas-que-evite-primarias.html",
+        "date": "2024-12-19 04:40:00",
+        "sentiment_score": 0.021596845239400864
+    },
+    {
+        "title": "Los centros privados de FP ‘online’ acumulan cientos de denuncias en la Generalitat y la OCU",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DD56G3Y5ANFYTNLTY6TJXL4TCA.jpg?auth=075c276ff430ee86701789cadb65d1692c186720e30a4bda3be05a8fc6b168f5&width=1200",
+        "tags": [
+            "centros educativos",
+            "generalitat cataluña",
+            "cataluña",
+            "estudiantes",
+            "enseñanza privada",
+            "educación",
+            "formación profesional",
+            "educación a distancia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-19/los-centros-privados-de-fp-online-acumulan-cientos-de-denuncias-en-la-generalitat-y-la-ocu.html",
+        "date": "2024-12-19 04:15:00",
+        "sentiment_score": 0.36362479627132416
+    },
+    {
+        "title": "Juan Manuel Sevillano: “El Thyssen ayudará a aumentar el número de visitantes del resto de museos de Barcelona”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TZYMFCEWX5ENXDMMXECDC464QE.jpg?auth=2091433b626fe7461bb1d76df5250edfc130e4b4d011d923c98a7f925ae94a3a&width=1200",
+        "tags": [
+            "thyssen boetticher",
+            "cataluña",
+            "barcelona",
+            "museos",
+            "museo thyssen-bornemisza",
+            "fondo de cultura económica"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-19/juan-manuel-sevillano-el-thyssen-ayudara-a-aumentar-el-numero-de-visitantes-del-resto-de-museos-de-barcelona.html",
+        "date": "2024-12-19 04:15:00",
+        "sentiment_score": -0.9005089029669762
+    },
+    {
+        "title": "Illa paga el peaje de la debilidad parlamentaria",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3H447MHUL6MN752EJRE3ANIX2A.jpg?auth=2dcbae159d7fb6f3fe5d1816c0b8c19936080656d0c57fd4a1184e6bd29de8b3&width=1200",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "mossos d'esquadra",
+            "salvador illa",
+            "parlament cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-19/illa-y-el-peaje-de-la-debilidad-parlamentaria.html",
+        "date": "2024-12-19 04:15:00",
+        "sentiment_score": -0.9203655822202563
+    },
+    {
+        "title": "La Fiscalía investiga al Gobierno de Ayuso por fraccionar más de tres millones en contratos menores para obras en ocho centros educativos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AVSF36QTJFHQND6Z6NHOSQVQ2A.jpg?auth=bcd354158fc50aa497e194cc3e544cb64613f13aa08ae900821be4dba7aed03c&width=1200",
+        "tags": [
+            "formación profesional",
+            "madrid",
+            "asamblea madrid",
+            "comunidad de madrid",
+            "pp madrid",
+            "isabel díaz ayuso",
+            "gobierno comunidad de madrid",
+            "enrique ossorio crespo",
+            "educación"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-19/la-fiscalia-investiga-al-gobierno-de-ayuso-por-fraccionar-mas-de-tres-millones-en-contratos-menores-para-obras-en-ocho-centros-educativos.html",
+        "date": "2024-12-19 04:00:00",
+        "sentiment_score": -0.7961587850004435
+    },
+    {
+        "title": "Madrid nos pertence",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QI2METZFXZFAVG2GLH2TYKHJ2E.jpg?auth=38d97d71fb7d953d2b5d28a064d173aae03513c588ffcbfdb260becc75728a0e&width=1200",
+        "tags": [
+            "punk",
+            "rock",
+            "madrid",
+            "música",
+            "gentrificación",
+            "comunidad de madrid",
+            "josé luis martínez almeida",
+            "isabel díaz ayuso",
+            "turismo",
+            "desahucios",
+            "urbanismo"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-19/madrid-nos-pertence.html",
+        "date": "2024-12-19 04:00:00",
+        "sentiment_score": 0.6683136448264122
+    },
+    {
+        "title": "Hospitalizado 24 horas antes de ser desahuciado por la marquesa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OIHI2S5Z6ZDFXG3EKH6RG6QVLA.jpg?auth=66a31ce0b08cd95e6b6d1546ab39d6031ad66386d27d537369a096aa5aa4cea2&width=1200",
+        "tags": [
+            "comunidad de madrid",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-19/ingresado-en-el-hospital-24-horas-antes-de-ser-desahuciado-por-la-marquesa.html",
+        "date": "2024-12-19 04:00:00",
+        "sentiment_score": -0.8722214065492153
+    },
+    {
+        "title": "Tomás Merina, nuevo presidente del Colegio de Médicos de Madrid: “Voy a defender a los colegiados esté en la Comunidad quien esté”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XLBLQTFKXREVVGKAP3SNZ66QYA.JPG?auth=abaef7daf84ff564a9eb361870a71f3192a596cad2e9487d8168da15c478ad6a&width=1200",
+        "tags": [
+            "icomem",
+            "elecciones",
+            "atención primaria",
+            "madrid",
+            "médicos",
+            "hospitales",
+            "comunidad de madrid",
+            "sanidad privada",
+            "isabel díaz ayuso",
+            "colegios profesionales",
+            "sanidad pública",
+            "empresarios"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-19/tomas-merina-nuevo-presidente-del-colegio-de-medicos-de-madrid-voy-a-defender-a-los-colegiados-este-en-la-comunidad-quien-este.html",
+        "date": "2024-12-19 04:00:00",
+        "sentiment_score": -0.4922489672899246
+    },
+    {
+        "title": "El Atlético logra un bloque coral",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/aa3f8d2d-0456-592c-7d7f973d31ddb84f.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/zaa3f8bd3-d92b-a3be-fc22f7ea8f14b727/202412/el-atletico-logra-un-bloque-coral",
+        "date": "2024-12-19 06:31:08",
+        "sentiment_score": 0.8084287904202938
+    },
+    {
+        "title": "Esto es lo que te podrías comprar ahora con el dinero del premio del primer sorteo de la Lotería de Navidad",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/07/638fefa50f5a2.jpeg",
+        "tags": [
+            "life"
+        ],
+        "link": "https://www.huffingtonpost.es/life/esto-te-podrias-comprar-dinero-premio-primer-sorteo-loteria-navidad.html",
+        "date": "2024-12-19 06:27:11",
+        "sentiment_score": -0.14949016273021698
+    },
+    {
+        "title": "Míster Jägger: \"Ahora el formato vertical funciona muchísimo mejor\"",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/18/mister-jaegger-durante-la-entrevista-concedida-a-el-huffpost-6040.jpeg",
+        "tags": [
+            "influencers y celebrities"
+        ],
+        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/mister-jagger-me-gustaria-recibir-clases-suenosbr.html",
+        "date": "2024-12-19 06:18:42",
+        "sentiment_score": 0.12845933437347412
+    },
+    {
+        "title": "Los triunfos del Barça y del Real Madrid acaparan las portadas deportivas de hoy",
+        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/12/19/6763b6d8b7dbf.jpeg",
+        "tags": [
+            "vaya mundo"
+        ],
+        "link": "https://www.mundodeportivo.com/vaya-mundo/20241219/1002373947/triunfos-barca-real-madrid-acaparan-portadas-deportivas-hoy-dct.html",
+        "date": "2024-12-19 06:04:49",
+        "sentiment_score": -0.16874241828918457
+    },
+    {
+        "title": "De tocar el piano para sus padres a componer para Netflix: “Me gusta hacer lo que me da la gana”",
+        "image_url": "https://s1.elespanol.com/2024/11/14/mujer/protagonistas/901170259_250869132_1706x960.jpg?contentId=ESPIMA20241114_0385",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241219/tocar-piano-padres-componer-netflix-gusta-hacer-da-gana/901160116_0.html",
+        "date": "2024-12-19 06:03:34",
+        "sentiment_score": 0.47519480250775814
+    },
+    {
+        "title": "Todos los destinos a los que puedes volar desde el aeropuerto de Bilbao esta Navidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/viajes/2024/12/19/destinos-puedes-volar-aeropuerto-bilbao-9068932.html",
+        "date": "2024-12-19 06:00:32",
+        "sentiment_score": 0.65934719145298
+    },
+    {
+        "title": "El icónico atleta que disfruta de su retiro en un bello municipio burgalés en el que brilla el lechazo y el vino",
+        "image_url": "https://s1.elespanol.com/2024/11/28/castilla-y-leon/region/burgos/904670223_251274729_1706x960.jpg?contentId=ESPIMA20241128_0699",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20241219/iconico-atleta-disfruta-retiro-bello-municipio-burgales-brilla-lechazo-vino/904659984_0.html",
+        "date": "2024-12-19 06:00:00",
+        "sentiment_score": 0.6984881535172462
+    },
+    {
+        "title": "Colectivos feministas se concentran este jueves en Madrid en apoyo a Gisèle Pelicot",
+        "image_url": "https://www.elplural.com/uploads/s1/18/89/07/2/europapress-6214412-september-14-2024-marseille-france-protester-holds-placard-during-the-rally_7_480x270.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.elplural.com/sociedad/colectivos-feministas-concentran-jueves-madrid-apoyo-gisele-pelicot_343345102",
+        "date": "2024-12-19 06:00:00",
+        "sentiment_score": -0.2172195017337799
+    },
+    {
+        "title": "El mejor aceite de oliva del mundo es manchego: 7 españoles se encuentran en el top 10",
+        "image_url": "https://s1.elespanol.com/2024/04/15/cocinillas/actualidad-gastronomica/847925424_241510161_1706x960.jpg?contentId=ESPIMA20240415_0225",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20241219/mejor-aceite-oliva-mundo-manchego-espanoles-encuentran-top/909409426_0.html",
+        "date": "2024-12-19 06:00:00",
+        "sentiment_score": 0.4894157573580742
+    },
+    {
+        "title": "Lo que debes saber hoy, 19 de diciembre, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2018/05/18/vivir-en-barcelona/vivir_en_barcelona_308229175_9936816_1706x960.jpg?contentId=ESPIMA20180518_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241219/lo-que-debes-saber-hoy-de-diciembre-barcelona/909909002_0.html",
+        "date": "2024-12-19 06:31:15",
+        "sentiment_score": -0.35111236572265625
+    },
+    {
+        "title": "\"Trabajar con la baronesa Carmen Thyssen es un privilegio\"",
+        "image_url": "https://static1.ara.cat/clip/1cd9d5ea-c164-4a4f-b4b1-12b7703fc1aa_16-9-aspect-ratio_default_0_x4165y1085.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/cultura/arte/trabajar-baronesa-carmen-thyssen-privilegio_128_5234840.html",
+        "date": "2024-12-19 06:31:03",
+        "sentiment_score": -0.28663909435272217
+    },
+    {
+        "title": "Una oportunidad para Ferran Torres",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/zaa355cf6-d44b-1fca-126385c5fccd5d80/202412/una-oportunidad-para-ferran-torres",
+        "date": "2024-12-19 06:30:01",
+        "sentiment_score": 0.01611161231994629
+    },
+    {
+        "title": "Josep Maria Fericle: \"Si el 10% de la gente fuera capaz de estar media hora al día sin hacer nada, cambiábamos la Humanidad\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/daccedb2-d823-4df7-af27-5bcf9af904d1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/sociedad/2024/12/19/josep-maria-fericle-10-gente-112749942.html",
+        "date": "2024-12-19 06:29:42",
+        "sentiment_score": 0.013405680656433105
     }
 ];
