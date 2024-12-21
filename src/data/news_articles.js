@@ -141,47 +141,6 @@ export default [
         "sentiment_score": 0.42380810901522636
     },
     {
-        "title": "Bomba mata a general ruso buscado por el uso de armas químicas",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189825768.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/general-ruso-bomba-armas-quimicas-cafe-tv/",
-        "date": "2024-12-17 13:31:31",
-        "sentiment_score": -0.8161445464938879
-    },
-    {
-        "title": "CNN visita la zona donde murió un general ruso en la explosión de una bomba en Moscú",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/fred-20241217131607467.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/general-ruso-bomba-ucrania-trax/",
-        "date": "2024-12-17 13:23:14",
-        "sentiment_score": -0.79319185949862
-    },
-    {
-        "title": "Cómo comprobar si un objeto en el cielo es un dron o un avión",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1242354154-copy-20241217113511378.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/dron-avion-comprobar-nueva-jersey-ush-trax/",
-        "date": "2024-12-17 11:45:14",
-        "sentiment_score": 0.04119046777486801
-    },
-    {
-        "title": "Última hora de Rusia y Ucrania tras la muerte de un general en Moscú, en vivo: noticias, reacciones y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/General-Ruso-e1734433098141.jpg?quality=100&strip=info",
-        "tags": [
-            "rusia",
-            "guerra rusia ucrania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/17/ultima-hora-de-rusia-y-ucrania-tras-la-muerte-de-un-general-en-moscu-en-vivo-noticias-reacciones-y-mas/",
-        "date": "2024-12-17 11:26:18",
-        "sentiment_score": -0.7956243781372905
-    },
-    {
         "title": "Bruselas investiga a TikTok por no frenar injerencias extranjeras en campaña electoral en Rumanía",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/17/CalinReuters-koIB-U703270916c4D-1200x840@diario_abc.jpg",
         "tags": [
@@ -210,76 +169,6 @@ export default [
         "link": "https://www.abc.es/internacional/igor-kirillov-mediatico-general-ruso-acusado-utilizar-20241217155826-nt.html",
         "date": "2024-12-17 14:59:35",
         "sentiment_score": -0.22099095582962036
-    },
-    {
-        "title": "Trump nomina a un «amigo de toda la vida» y «gran golfista» como embajador ante Uruguay",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/17/trump-kmqD-U702506250jPG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-nomina-amigo-vida-gran-golfista-embajador-20241217140838-nt.html",
-        "date": "2024-12-17 13:08:39",
-        "sentiment_score": 0.14343121647834778
-    },
-    {
-        "title": "La competitividad de las CC.AA. creció el doble que el PIB en 2023, con Madrid, País Vasco y Navarra a la cabeza",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/17/FOTO_17.12.24_CGE-ndicedeCompetitividadRegional-RrN2C1TcQ4oPM822MuhTLTN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/competitividad-ccaa-crecio-doble-pib-2023-madrid-20241217133820-nt.html",
-        "date": "2024-12-17 12:38:21",
-        "sentiment_score": -0.06206047534942627
-    },
-    {
-        "title": "EE.UU. subvenciona una tecnológica taiwanesa con 400 millones en plena guerra comercial con China",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/17/HYYF6PKICJONBCVNNGFKBHWXBY-RdPVr7hklnHQcPxL7iZoiZO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/eeuu-subvenciona-tecnologica-taiwanesa-400-millones-plena-20241217132953-nt.html",
-        "date": "2024-12-17 12:38:19",
-        "sentiment_score": -0.05076894164085388
-    },
-    {
-        "title": "México asiste a la apática elección popular de jueces en Bolivia",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/17/sufragio-RfcyO9z6y48KfBt6xFHhIrL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/mexico-asiste-apatica-eleccion-popular-jueces-bolivia-20241217131947-nt.html",
-        "date": "2024-12-17 12:19:47",
-        "sentiment_score": -0.07060933113098145
-    },
-    {
-        "title": "TikTok apura su última oportunidad para evitar la prohibición en Estados Unidos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/17/tiktok-reuters-RXjHYDN3it0Egklu1YdN34L-1200x840@diario_abc.JPG",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/tiktok-apura-ultima-oportunidad-evitar-prohibicion-estados-20241217125120-nt.html",
-        "date": "2024-12-17 11:51:21",
-        "sentiment_score": -0.14878378808498383
-    },
-    {
-        "title": "El nuevo presidente de la CNMV aboga también por retrasar la opa de BBVA hasta que se pronuncie Competencia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/17/carlos-san-basilio-Rkh4YRyQvkLDr4V74umcuQM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/nuevo-presidente-cnmv-aboga-retrasar-opa-bbva-20241217124928-nt.html",
-        "date": "2024-12-17 11:49:28",
-        "sentiment_score": -0.029716163873672485
-    },
-    {
-        "title": "Marisa Paredes en el 'reality' del muro",
-        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/12/13/coche-kaGB--170x119@La%20Verdad.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jesus-lillo-marisa-paredes-reality-muro-20241218124355-nt.html",
-        "date": "2024-12-17 11:44:06",
-        "sentiment_score": -0.0647435188293457
     },
     {
         "title": "La prórroga presupuestaria en Cataluña obliga a frenar la ley de barrios y parte de la inversión en vivienda",
@@ -434,42 +323,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-17/koldo-garcia-niega-en-el-supremo-las-acusaciones-de-aldama-y-asegura-que-ni-cobro-ni-vio-comisiones.html",
         "date": "2024-12-17 14:13:47",
         "sentiment_score": -0.010817661881446838
-    },
-    {
-        "title": "La Fiscalía apoya que se investigue la posible responsabilidad penal de Carlos Mazón por la gestión de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BTMET2SMGXQMPA5QP77JBMKTIQ.jpg?auth=f7a2727a0ac31871e29ea799bf9b002406e4363f95b430f724ae75bcf48ae1d5&width=1200",
-        "tags": [
-            "inundaciones",
-            "delitos",
-            "fiscalía",
-            "valencia",
-            "inundaciones dana octubre 2024",
-            "carlos mazón",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "prevaricación",
-            "homicidio imprudente",
-            "tribunales"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-17/la-fiscalia-apoya-que-se-investigue-la-posible-responsabilidad-penal-de-carlos-mazon-por-la-gestion-de-la-dana.html",
-        "date": "2024-12-17 14:05:10",
-        "sentiment_score": 0.04374825209379196
-    },
-    {
-        "title": "Una asociación que reúne a 4.000 militares firma un convenio de formación con Desokupa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AS32GF5CGZGWPI4KTNHOTOF2QQ.JPG?auth=ddd8f12447861967770b6002664ef8ebacb88881d3db876b706afa2dc09a98eb&width=1200",
-        "tags": [
-            "ejército español",
-            "fuerzas armadas",
-            "desokupa",
-            "guardia civil",
-            "desahucios",
-            "policía",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-17/una-asociacion-que-reune-a-4000-militares-firma-un-convenio-de-formacion-con-desokupa.html",
-        "date": "2024-12-17 14:00:34",
-        "sentiment_score": -0.8585472647100687
     },
     {
         "title": "Pezzolano: «Ronaldo no quería que nos fuerámos, pero había mucha interferencia en el club»",
@@ -7590,5 +7443,397 @@ export default [
         "link": "https://www.elprogreso.es/articulo/cultura/adios-chiripitiflautico-que-era-lucense/202412202251151815562.html",
         "date": "2024-12-20 21:51:15",
         "sentiment_score": -0.8119918331503868
+    },
+    {
+        "title": "Adiós Conrado, el último 'maletilla'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/adios-conrado-el-ultimo-maletilla/",
+        "date": "2024-12-21 02:03:26",
+        "sentiment_score": -0.5692914426326752
+    },
+    {
+        "title": "En estado crítico uno de los heridos por el atropello múltiple en Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/en-estado-critico-uno-de-los-heridos-por-el-atropello-multiple-en-barcelona/",
+        "date": "2024-12-21 02:03:07",
+        "sentiment_score": -0.8565162047743797
+    },
+    {
+        "title": "Barcelona: el pronóstico del tiempo para este 21 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/CHGLPGK5SZFKLPBFIVG7MP73RY.jpg?auth=160d26a4b017f362d6fc80c40ab3fadabc413d077fce9819d44239445f094b44&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/21/barcelona-el-pronostico-del-tiempo-para-este-21-de-diciembre/",
+        "date": "2024-12-21 02:02:20",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Doctor Ripoll:“Un 12-15% de deportistas pueden sufrir lesiones coincidentes, como Militao”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/doctor-ripollun-12-15-de-deportistas-pueden-sufrir-lesiones-coincidentes-como-militao/",
+        "date": "2024-12-21 01:47:48",
+        "sentiment_score": -0.49884522147476673
+    },
+    {
+        "title": "2-2. La igualdad entre Mirandés y Cádiz depara un empate para seguir sus luchas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/2-2-la-igualdad-entre-mirandes-y-cadiz-depara-un-empate-para-seguir-sus-luchas/",
+        "date": "2024-12-21 01:47:30",
+        "sentiment_score": 0.6804278045892715
+    },
+    {
+        "title": "Borja Jiménez apuesta por Munir; Iheanacho, con Isaac Romero y Lukebakio en ataque",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/borja-jimenez-apuesta-por-munir-iheanacho-con-isaac-romero-y-lukebakio-en-ataque/",
+        "date": "2024-12-21 01:33:29",
+        "sentiment_score": 0.3216291330754757
+    },
+    {
+        "title": "Dos centenares de personas marchan hacia Ferraz en protesta por la política del Gobierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/dos-centenares-de-personas-marchan-hacia-ferraz-en-protesta-por-la-politica-del-gobierno/",
+        "date": "2024-12-21 01:33:09",
+        "sentiment_score": -0.2038457989692688
+    },
+    {
+        "title": "Interceptadas cinco pateras con 105 inmigrantes a bordo en Baleares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/interceptadas-cinco-pateras-con-105-inmigrantes-a-bordo-en-baleares/",
+        "date": "2024-12-21 01:32:50",
+        "sentiment_score": -0.40028221905231476
+    },
+    {
+        "title": "Temas del día de EFE Economía del domingo 10 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/temas-del-dia-de-efe-economia-del-domingo-10-de-noviembre-de-2024/",
+        "date": "2024-12-21 01:02:46",
+        "sentiment_score": 0.16033796966075897
+    },
+    {
+        "title": "71-83: Ennis (UCAM) no tiene piedad de su exequipo y el MoraBanc sufre la cuarta derrota",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/09/71-83-ennis-ucam-no-tiene-piedad-de-su-exequipo-y-el-morabanc-sufre-la-cuarta-derrota/",
+        "date": "2024-12-21 01:02:26",
+        "sentiment_score": 0.6127468943595886
+    },
+    {
+        "title": "Ataque a mercado navideño en Alemania deja al menos dos muertos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dos-muertos-ataque-mercado-navideno-alemania-panorama-mundial-tv/",
+        "date": "2024-12-21 01:57:34",
+        "sentiment_score": -0.8610549066215754
+    },
+    {
+        "title": "Este robot dio una clase en Alemania y esto es lo que pensaron los alumnos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/wide-v2-clean-00-00-06-00-still001-20241221013850100.png",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/robot-inteligencia-artificial-clase-alemania-ush-trax/",
+        "date": "2024-12-21 01:40:33",
+        "sentiment_score": 0.030356138944625854
+    },
+    {
+        "title": "Tener una mejor salud mental, un propósito de año nuevo cada vez más común",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2185100551.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mejor-salud-mental-proposito-ano-nuevo-minuto-de-salud-fast/",
+        "date": "2024-12-21 01:06:45",
+        "sentiment_score": 0.2820954695343971
+    },
+    {
+        "title": "La frontera entre EE.UU. y México está quebrada, asegura embajador de EE.UU. en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2155622941.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/frontera-quebrada-ken-salazar-embajador-estados-unidos-perspectivas-mexico-tv/",
+        "date": "2024-12-21 00:37:28",
+        "sentiment_score": -0.8812528038397431
+    },
+    {
+        "title": "¿Cuáles son las opciones para los que tienen orden de deportación de EE.UU.?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnne-1592679-guatemala-us-migration-deportation.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/deportacion-trump-opciones-inmigrantes-dusa-tv/",
+        "date": "2024-12-20 23:44:36",
+        "sentiment_score": -0.44764228351414204
+    },
+    {
+        "title": "La FDA alerta sobre un medicamento usado para aliviar síntomas de la menopausia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21215345-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/alerta-medicamento-sintomas-menopausia-minuto-de-salud-fast/",
+        "date": "2024-12-20 23:35:32",
+        "sentiment_score": 0.04509532451629639
+    },
+    {
+        "title": "Un video muestra el lugar del atropello en un mercado navideño en Alemania",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/video-lugar-ataque-mercado-alemania-00-00-14-01-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-lugar-ataque-mercado-alemania-trax/",
+        "date": "2024-12-20 23:27:13",
+        "sentiment_score": -0.8472522841766477
+    },
+    {
+        "title": "“Mi trabajo es detener la inmigración en Texas”, dice Abbott al mostrar campaña que usaría para disuadir a los migrantes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/abbott3.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gregg-abbott-texas-campana-disuasion-migrantes-eeuu-dusa-tv-fast/",
+        "date": "2024-12-20 23:04:53",
+        "sentiment_score": -0.6231071874499321
+    },
+    {
+        "title": "Alaska, entre Nefertiti y Sara Montiel",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/21/alaska-R5C38iMJ6tLDO4oge3VqOmM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-alaska-nefertiti-sara-montiel-20241221024431-nt.html",
+        "date": "2024-12-21 00:40:57",
+        "sentiment_score": -0.07545220851898193
+    },
+    {
+        "title": "El sanchismo toma las federaciones socialistas",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/09/polientes%20(1)--170x119.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-sanchismo-toma-federaciones-socialistas-20241221013758-nt.html",
+        "date": "2024-12-21 00:38:07",
+        "sentiment_score": -0.09945422410964966
+    },
+    {
+        "title": "Una excastellera denuncia que sufrió abusos por parte del actual presidente de una colla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/43DKPPYDZ5F27NJNOA6BU6YMVU.jpg?auth=bbeb1486a6b11f7108aa490439b1ff4fbe797ff8a2e9178d5f799228eef04e25&width=1200",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "tarragona",
+            "abusos sexuales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-20/una-excastellera-denuncia-que-sufrio-abusos-por-parte-del-actual-presidente-de-una-colla.html",
+        "date": "2024-12-20 22:52:30",
+        "sentiment_score": -0.5139812603592873
+    },
+    {
+        "title": "Este es el top 10 de series en Netflix México para disfrutar acompañado",
+        "image_url": "https://www.infobae.com/resizer/v2/FRVJHWWMVVHNPCIY2RMIFTPULQ.jpg?auth=443eae93caaff6dab418f43ba1d7b8ab3e8f8334d74c24aaacc5fdd7fd6a2bc7&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/12/21/este-es-el-top-10-de-series-en-netflix-mexico-para-disfrutar-acompanado/",
+        "date": "2024-12-21 02:01:23",
+        "sentiment_score": 0.43480309471488
+    },
+    {
+        "title": "Falcao se fue de vacaciones, pero no olvidó el cumpleaños de Mbappé: recordó curioso apodo del jugador",
+        "image_url": "https://www.infobae.com/resizer/v2/MGEROIFD3VAMJE35OYMEGK5ZHM.jpeg?auth=ecc4eda23c9fde5393f78cae1501ae110bb7c5bcd20714705638ef5e4be14562&height=865&smart=true&width=1561",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/12/21/falcao-se-fue-de-vacaciones-pero-no-olvido-el-cumpleanos-de-mbappe-recordo-curioso-apodo-del-jugador/",
+        "date": "2024-12-21 01:58:14",
+        "sentiment_score": 0.18022922798991203
+    },
+    {
+        "title": "Letizia se salta la dieta 'healthy' por Navidad: menú con \"caprichos\" para Nochebuena con Paloma Rocasolano y el roscón, en casa de Jesús Ortiz",
+        "image_url": "https://s1.elespanol.com/2024/12/20/reportajes/910169383_251848174_1706x960.jpg?contentId=ESPIMA20241220_0409",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241221/letizia-salta-dieta-healthy-navidad-menu-caprichos-nochebuena-paloma-rocasolano-roscon-casa-jesus-ortiz/910159185_0.html",
+        "date": "2024-12-21 01:53:51",
+        "sentiment_score": 0.07980099320411682
+    },
+    {
+        "title": "Madrid necesita 864.000 casas 'baratas' para que las familias no se asfixien con gastos y destinen menos del 30% al hogar",
+        "image_url": "https://s1.elespanol.com/2024/12/19/madrid/capital/909919468_251821179_1706x960.jpg?contentId=ESPIMA20241219_0469",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20241221/madrid-necesita-casas-baratas-familias-no-asfixien-gastos-destinen-hogar/909909007_0.html",
+        "date": "2024-12-21 01:38:48",
+        "sentiment_score": -0.3690532147884369
+    },
+    {
+        "title": "Las series más populares de Netflix Colombia que no podrás dejar de ver",
+        "image_url": "https://www.infobae.com/resizer/v2/WNYE4DUCQJHOBPBQTP2PE2NNYI.jpg?auth=38c3c2228e3b1dce14c3bfb7b268d7aa9c56ad3f7a46da6c69ec7c85bea048b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/12/21/las-series-mas-populares-de-netflix-colombia-que-no-podras-dejar-de-ver/",
+        "date": "2024-12-21 01:17:01",
+        "sentiment_score": -0.04734179377555847
+    },
+    {
+        "title": "Letizia, Leonor y Sofía vistieron el color de los Borbones para sus actos más importantes: el vínculo del blanco y la Corona",
+        "image_url": "https://s1.elespanol.com/2024/12/20/mujer/royals/910169850_251862657_1706x960.png?contentId=ESPIMA20241220_0876",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/royals/20241221/letizia-leonor-sofia-vistieron-color-borbones-actos-importantes-vinculo-blanco-corona/910159120_0.html",
+        "date": "2024-12-21 01:14:05",
+        "sentiment_score": -0.12045253813266754
+    },
+    {
+        "title": "Los 10 grandes hitos de la música y la ópera de 2024: maestros resistentes, voces con fulgor",
+        "image_url": "https://s1.elespanol.com/2024/12/19/el-cultural/escenarios/musica/909919596_251825308_1706x960.jpg?contentId=ESPIMA20241219_0597",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20241221/grandes-hitos-musica-opera-maestros-resistentes-voces-fulgor/909909326_0.html",
+        "date": "2024-12-21 01:00:00",
+        "sentiment_score": 0.20544973015785217
+    },
+    {
+        "title": "La música clásica en 2024: óperas contemporáneas a quemarropa",
+        "image_url": "https://s1.elespanol.com/2024/12/20/actualidad/910169803_251861234_1706x960.jpg?contentId=ESPIMA20241220_0829",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20241221/musica-clasica-operas-contemporaneas-quemarropa/909909422_0.html",
+        "date": "2024-12-21 01:00:00",
+        "sentiment_score": 0.8270590528845787
+    },
+    {
+        "title": "Estas son las series de moda en Netflix Perú hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/AJJAKD3MF5ABBBIE3NAVCDDPFQ.jpg?auth=fa6c7e1e928c8e3edd9023961c3c667b2e0f94f5b042860588fd56dd41418bc1&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/12/21/estas-son-las-series-de-moda-en-netflix-peru-hoy/",
+        "date": "2024-12-21 00:46:43",
+        "sentiment_score": 0.7270177267491817
+    },
+    {
+        "title": "3-3. Leao no puede con todo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/09/3-3-leao-no-puede-con-todo/",
+        "date": "2024-12-21 00:33:22",
+        "sentiment_score": 0.8171305507421494
+    },
+    {
+        "title": "\"Bueño ha tenido una influencia total en mi obra\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d36f3358-118f-4284-9928-c94e73a4e97e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/ribera-de-arriba/2024/12/21/bueno-tenido-influencia-total-obra-112732839.html",
+        "date": "2024-12-21 02:01:22",
+        "sentiment_score": 0.5903943106532097
+    },
+    {
+        "title": "Descubren 52 momias, 13 de ellas con lenguas de oro",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/12/amuletos-escarabajos-de-oro-hallados-en-egipto-730x524.webp",
+        "tags": [
+            "hallazgo",
+            "lenguas de oro",
+            "periodo ptolemaico",
+            "momias",
+            "sepulcro",
+            "arqueólogos",
+            "ciencia y tecnología",
+            "campaña",
+            "excavaciones",
+            "egipto"
+        ],
+        "link": "https://primicia.com.ve/mas/ciencia-y-tecnologia/descubren-52-momias-13-de-ellas-con-lenguas-de-oro/",
+        "date": "2024-12-21 02:01:22",
+        "sentiment_score": 0.14151357114315033
+    },
+    {
+        "title": "Momo González, por la puerta grande a las semifinales de las Premier Padel Finals de Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosur.es/deportes/mas-deportes/momo-gonzalez-puerta-grande-semifinales-premier-padel-20241220025742-nt.html",
+        "date": "2024-12-21 01:57:43",
+        "sentiment_score": 0.6459875181317329
+    },
+    {
+        "title": "Jesús Ibáñez, el lotero que juega al 13 y esconde décimos para sus vecinos hasta en el fondo del mar: regala 40 a sus médicos",
+        "image_url": "https://s1.elespanol.com/2024/12/20/actualidad/910169835_251862284_1706x960.jpg?contentId=ESPIMA20241220_0852",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241221/jesus-ibanez-lotero-juega-esconde-decimos-vecinos-fondo-mar-regala-medicos/910159438_0.html",
+        "date": "2024-12-21 01:52:50",
+        "sentiment_score": 0.5921292454004288
+    },
+    {
+        "title": "Anatomía de una caída: en el desfiladero donde murió Isak Andic con su hijo como único testigo el día que iban a reconciliarse",
+        "image_url": "https://s1.elespanol.com/2024/12/20/reportajes/910169714_251858391_1706x960.jpg?contentId=ESPIMA20241220_0740",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241221/anatomia-caida-desfiladero-murio-isak-andic-hijo-unico-testigo-dia-iban-reconciliarse/909409578_0.html",
+        "date": "2024-12-21 01:50:13",
+        "sentiment_score": -0.7163498066365719
+    },
+    {
+        "title": "Dime cómo es tu piel y te diré cuál es el tratamiento que te regalarás esta Navidad para estar radiante",
+        "image_url": "https://s1.elespanol.com/2024/12/18/mujer/belleza/909669508_251786848_1706x960.jpg?contentId=ESPIMA20241218_0484",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/belleza/20241221/dime-piel-dire-tratamiento-regalaras-navidad-radiante/908409483_0.html",
+        "date": "2024-12-21 01:17:09",
+        "sentiment_score": 0.4128552936017513
+    },
+    {
+        "title": "La directora Pilar Ordóñez: “Se toma el sexo demasiado en serio. La risa es el mejor lubricante\"",
+        "image_url": "https://s1.elespanol.com/2024/12/20/actualidad/910169111_251839884_1706x960.jpg?contentId=ESPIMA20241220_0137",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241221/directora-pilar-ordonez-toma-sexo-demasiado-serio-risa-mejor-lubricante/910159017_0.html",
+        "date": "2024-12-21 01:16:12",
+        "sentiment_score": -0.7723073773086071
     }
 ];
