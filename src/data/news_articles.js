@@ -1,278 +1,5 @@
 export default [
     {
-        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 18 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/P3RCI56TJBAYBHN45CSO3RI4JU.jpg?auth=0da87c8296c6d658ab0128e0c2649b95a11558b6ff8b6824a704f5501b350058&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/18/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-18-de-diciembre/",
-        "date": "2024-12-18 06:31:19",
-        "sentiment_score": -0.06122169271111488
-    },
-    {
-        "title": "Qué pasa si el hijo o nieto que recibe la herencia es un heredero menor de edad",
-        "image_url": "https://www.infobae.com/resizer/v2/IBTAA2UIPRHUDOCS7EMGKNHSAE.jpg?auth=02d20f606de16bdc53368115ef61fa60ead8b5cc077ee5223296c7545ba897a8&height=3823&smart=true&width=5734",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/18/que-pasa-si-el-hijo-o-nieto-que-recibe-la-herencia-es-un-heredero-menor-de-edad/",
-        "date": "2024-12-18 06:28:03",
-        "sentiment_score": -0.4889788329601288
-    },
-    {
-        "title": "Efemérides del 19 de diciembre",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/18/efemerides-del-19-de-diciembre/",
-        "date": "2024-12-18 06:15:41",
-        "sentiment_score": -0.028797484934329987
-    },
-    {
-        "title": "Daouda, Iman y Nihal: del duelo migratorio propio a empoderar a otros hacia la inclusión",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/18/daouda-iman-y-nihal-del-duelo-migratorio-propio-a-empoderar-a-otros-hacia-la-inclusion/",
-        "date": "2024-12-18 06:15:25",
-        "sentiment_score": -0.38601092994213104
-    },
-    {
-        "title": "El TSJCV admite a trámite un recurso contra la \"inactividad\" de Presidencia y Emergencias de la Generalitat",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/08/el-tsjcv-admite-a-tramite-un-recurso-contra-la-inactividad-de-presidencia-y-emergencias-de-la-generalitat/",
-        "date": "2024-12-18 06:03:29",
-        "sentiment_score": -0.16674183309078217
-    },
-    {
-        "title": "El Gobierno pide a la UE equipos de bombeo y expertos para actuar en las zonas afectadas por la DANA",
-        "image_url": "https://www.infobae.com/resizer/v2/TOSSDYCHSFD45CUNRCJTVTYJRM.jpg?auth=e8a28dc97388cdef3a344e3172ecf2e168118bc496599e73311070c8ffd51d17&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/08/el-gobierno-pide-a-la-ue-equipos-de-bombeo-y-expertos-para-actuar-en-las-zonas-afectadas-por-la-dana/",
-        "date": "2024-12-18 05:18:07",
-        "sentiment_score": 0.046859174966812134
-    },
-    {
-        "title": "Actualización del tipo de cambio dólar-euro hoy 18 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/TYSIBOCAJRGC5CIPDAYPKZKUTA.jpg?auth=2cfa0020f3ef618fadce03417e3ca067d90909a2caa56c77503951887e2ba86e&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/18/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-18-de-diciembre/",
-        "date": "2024-12-18 05:15:33",
-        "sentiment_score": -0.15754206478595734
-    },
-    {
-        "title": "Nuevo «tiroteo masivo» en EE.UU.: al menos un muerto y nueve heridos en Baltimore",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/18/1490099567-k4jG-U706728545IAF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nuevo-tiroteo-masivo-eeuu-muerto-nueve-heridos-20241218071257-nt.html",
-        "date": "2024-12-18 06:14:00",
-        "sentiment_score": -0.5893334001302719
-    },
-    {
-        "title": "Cuánto dinero cobra una azafata de vuelo en España: sueldos en Iberia, Ryanair, Vueling, Air Europa, easyJet y resto de compañías",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/18/auxiliar-vuelo-Rc2F17FuLU7ovuHwGRhSMRL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dinero-cobra-azafata-vuelo-espana-sueldos-iberia-ryanair-vueling-air-europa-easyjet-20241218180459-nt.html",
-        "date": "2024-12-18 06:01:00",
-        "sentiment_score": -0.06986498832702637
-    },
-    {
-        "title": "Esta es la lista de regalos para adolescentes de 14 años más completa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OOZQDF5I3VB5DNSRUDQ2S44OFQ.png?auth=fc7c21e5431313ef89d5cff6502d9aa9429d21671d48fe69dc665c58be09bec4&width=1200",
-        "tags": [
-            "limpieza automóviles",
-            "limpieza",
-            "amazon",
-            "llantas",
-            "coches",
-            "ventas internet",
-            "comercio electrónico"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-18/regalos-para-adolescentes-de-14-anos.html",
-        "date": "2024-12-18 06:30:00",
-        "sentiment_score": 0.29300815984606743
-    },
-    {
-        "title": "Las multas que empapelan al fútbol",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4b15b8f0-e118-405b-a836-199463b7cf48_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2024/12/18/multas-empapelan-futbol-9063381.html",
-        "date": "2024-12-18 06:24:29",
-        "sentiment_score": -0.49912792444229126
-    },
-    {
-        "title": "25 ideas de regalos originales para mujer",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HYUC3ZQSY5G2RJON6PKIX4YWDI.png?auth=8f457813060ecaeba2d3ef689e7d15d747717834e9a549789a3a7c6c5e160439&width=1200",
-        "tags": [
-            "comercio electrónico",
-            "ventas internet",
-            "mujeres",
-            "navidad",
-            "regalos",
-            "amazon"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-18/regalos-para-mujer.html",
-        "date": "2024-12-18 06:20:00",
-        "sentiment_score": 0.31926149129867554
-    },
-    {
-        "title": "Los trabajadores de Navantia rechazan el preacuerdo sobre el nuevo convenio colectivo",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/18/676268171360d.jpeg",
-        "tags": [
-            "cartagena"
-        ],
-        "link": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/cartagena/noticias/trabajadores-navantia-rechazan-preacuerdo-sobre-nuevo-convenio-colectivo-20241218_3064895.html",
-        "date": "2024-12-18 06:15:15",
-        "sentiment_score": -0.12051837146282196
-    },
-    {
-        "title": "Descubrimos los libros que enganchan a los adolescentes y que son un regalo ideal para esta Navidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RP6GRX2G2JHGHN5WQQKBLI3ELE.png?auth=b5d7caacf52435aa11e1310a09a5bac2d92fc2b2b7f6f9001d7ae7021f06344f&width=1200",
-        "tags": [
-            "ventas internet",
-            "libros",
-            "navidad",
-            "adolescencia",
-            "regalos",
-            "amazon"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2024-12-18/libros-para-adolescentes.html",
-        "date": "2024-12-18 06:15:00",
-        "sentiment_score": 0.7907057777047157
-    },
-    {
-        "title": "Hablan las presidentas de la Queens League: Noe, Espe y Totakeki hacen balance de la liga de Piqué",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/17/totakeki-espe-y-noe9977.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/hablan-presidentas-queens-league-noe-espe-totakeki-balance-liga-pique.html",
-        "date": "2024-12-18 06:14:32",
-        "sentiment_score": 0.09165260195732117
-    },
-    {
-        "title": "Conflicto en Oriente Próximo, en directo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FUV5IODTYZFEFPA4374FERYFKI.jpg?auth=407ca1182a5337bf101b1dffd64d27bdbcaae2f5224549ab65f5404860f1d1cf&width=1200",
-        "tags": [
-            "guerra",
-            "franja gaza",
-            "bombardeos",
-            "benjamin netanyahu",
-            "conflictos armados",
-            "israel",
-            "conflicto árabe-israelí",
-            "palestina",
-            "jerusalén",
-            "tregua",
-            "hamás",
-            "oriente próximo",
-            "tel aviv",
-            "cisjordania",
-            "territorios palestinos"
-        ],
-        "link": "https://elpais.com/internacional/2024-12-18/conflicto-en-oriente-proximo-en-directo.html",
-        "date": "2024-12-18 06:04:49",
-        "sentiment_score": -0.8452591644600034
-    },
-    {
-        "title": "El Rey Guillermo con las princesas Amalia y Alexia, y Federico y Mary de Dinamarca: las imágenes de su cita en Madrid",
-        "image_url": "https://www.hola.com/horizon/landscape/963b2208f691-guillermoalexiamalia.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/realeza/casa_belga/20241218736399/rey-guillermo-amalia-alexia-federico-mary-dinamarca-cita-madrid-imagenes/",
-        "date": "2024-12-18 06:04:39",
-        "sentiment_score": -0.15051797032356262
-    },
-    {
-        "title": "La infanta Elena: descubrimos su lado más desconocido, con motivo de su cumpleaños",
-        "image_url": "https://www.hola.com/horizon/landscape/0d710bc933e8-fjt9893r.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/realeza/casa_espanola/20241218736378/infanta-elena-lado-mas-desconocido-cumpleanyos/",
-        "date": "2024-12-18 06:04:29",
-        "sentiment_score": 0.09752261638641357
-    },
-    {
-        "title": "La última hora del estado de salud de Raphael: lo que se sabe tras su infarto en ‘La revuelta’",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/10/punto-relacion-amelia-bono-manuel-martos-469x317.jpeg",
-        "tags": [
-            "la revuelta",
-            "gente",
-            "celebrities",
-            "raphael"
-        ],
-        "link": "https://theobjective.com/gente/2024-12-18/ultima-hora-raphael-infarto/",
-        "date": "2024-12-18 06:27:47",
-        "sentiment_score": -0.17360257357358932
-    },
-    {
-        "title": "Lo que debes saber hoy, 18 de diciembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/08/10/gran-barcelona/785681672_9096181_1706x960.jpg?contentId=ESPIMA20230810_0248",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241218/lo-que-debes-saber-hoy-de-diciembre-barcelona/909409107_0.html",
-        "date": "2024-12-18 06:10:34",
-        "sentiment_score": -0.7588802576065063
-    },
-    {
-        "title": "Las voces del sector dibujan el futuro del cómic",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2024/12/18/movil-comic12-v2.gif",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/culturas/comic-por-dentro-futuro-profesion-20241218182523-ntrc.html",
-        "date": "2024-12-18 06:08:28",
-        "sentiment_score": 0.32666781544685364
-    },
-    {
-        "title": "Estos restaurantes de hoteles de lujo son una fiesta gastronómica en Navidades",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b9af9d95-d465-4060-b72a-2dc253034eb1_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20241218/menus-navidad-restaurantes-hoteles-lujo-barcelona-112549207",
-        "date": "2024-12-18 06:03:46",
-        "sentiment_score": 0.8218803592026234
-    },
-    {
-        "title": "La cesta de la compra de Navidad acelera su subida a una semana de Nochebuena",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b2bdeb68-f821-456b-9ca0-cd7fb17a5139_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/economia/2024/12/18/menu-nochebuena-navidad-cena-nochebuena-comidad-navidad-menu-navidad-112694658.html",
-        "date": "2024-12-18 06:01:05",
-        "sentiment_score": -0.0403263121843338
-    },
-    {
-        "title": "El secreto de los Felipe II, los mantecados selectos que todo el mundo busca en Navidad",
-        "image_url": "https://static1.ara.cat/clip/c5045a02-c7e8-4aa4-af47-fb191b0b0056_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/economia/empresas/secreto-felipe-ii-mantecados-selectos-mundo-busca-navidad_1_5233943.html",
-        "date": "2024-12-18 06:00:33",
-        "sentiment_score": -0.1251903772354126
-    },
-    {
         "title": "La ONG Médicos del Mundo plantea un ERE para despedir al 25% de su plantilla en España",
         "image_url": "https://www.infobae.com/resizer/v2/D2FBF7HS3TTUWOJLSKBAY6YHQI.jpg?auth=35e1eedf0450383cf32b1e1e2a490edddf8c4e589cb03d604320beae0da5e176&height=3124&smart=true&width=4690",
         "tags": [
@@ -512,26 +239,6 @@ export default [
         "link": "https://www.abc.es/economia/gobierno-convoca-funcionarios-tras-presion-calles-20241218112323-nt.html",
         "date": "2024-12-18 10:23:24",
         "sentiment_score": -0.01166844367980957
-    },
-    {
-        "title": "Varias averías en la catenaria en Palencia provocan retrasos y obligan a realizar transbordos en varios trenes Alvia",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/18/archivo-chamartin-kExC-U707558485w2F-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/varias-averias-catenaria-palencia-provocan-retrasos-obligan-20241218110216-nt.html",
-        "date": "2024-12-18 10:05:58",
-        "sentiment_score": -0.14528560638427734
-    },
-    {
-        "title": "La deuda pública alcanza el récord de 1,637 billones pero se modera al 104% del PIB gracias al crecimiento económico",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/18/1488085418-Rp3rMIPmI42Y9PQRYMylD3K-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/deuda-publica-alcanza-record-1637-billones-modera-20241118121629-nt.html",
-        "date": "2024-12-18 09:22:24",
-        "sentiment_score": -0.07219144701957703
     },
     {
         "title": "El PP ni cita a Mazón durante cuatro horas de debate sobre la dana en el Congreso",
@@ -6984,5 +6691,435 @@ export default [
         "link": "https://www.elperiodicodearagon.com/cai-zaragoza/2024/12/21/previa-gran-canaria-casademont-visita-112829677.html",
         "date": "2024-12-21 16:38:48",
         "sentiment_score": 0.591129794716835
+    },
+    {
+        "title": "El Banco de España avisa del peligro para la estabilidad financiera de una caída bursátil de las tecnológicas",
+        "image_url": "https://www.infobae.com/resizer/v2/7F25A7TVHJG2ZKVIHRK64DAYOM.jpg?auth=5f48c46fad97a649884ddbbc8fa66c7fcab6b4c4150d6480f7e459671f79b1ae&height=1251&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/10/el-banco-de-espana-avisa-del-peligro-para-la-estabilidad-financiera-de-una-caida-bursatil-de-las-tecnologicas/",
+        "date": "2024-12-21 22:03:29",
+        "sentiment_score": 0.18606775254011154
+    },
+    {
+        "title": "El Gobierno valenciano descarta cualquier dimisión: No podemos abandonar a las víctimas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/el-gobierno-valenciano-descarta-cualquier-dimision-no-podemos-abandonar-a-las-victimas/",
+        "date": "2024-12-21 22:02:26",
+        "sentiment_score": 0.3888685330748558
+    },
+    {
+        "title": "Jijantes y las Troncas se alzan con el trofeo de la Kings y Queens League en Tenerife",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/21/jijantes-y-las-troncas-se-alzan-con-el-trofeo-de-la-kings-y-queens-league-en-tenerife/",
+        "date": "2024-12-21 22:01:40",
+        "sentiment_score": 0.026941567659378052
+    },
+    {
+        "title": "Participantes de 20 países compiten en España en el mundial de Scrabble en español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/10/participantes-de-20-paises-compiten-en-espana-en-el-mundial-de-scrabble-en-espanol/",
+        "date": "2024-12-21 21:47:30",
+        "sentiment_score": 0.4123261123895645
+    },
+    {
+        "title": "El Movistar mantiene el liderato después de que el Barça fuera arrollado en Jaén (9-4)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/21/el-movistar-mantiene-el-liderato-despues-de-que-el-barca-fuera-arrollado-en-jaen-9-4/",
+        "date": "2024-12-21 21:46:30",
+        "sentiment_score": 0.02524551749229431
+    },
+    {
+        "title": "Los merengues se llevan el Derbi de las Aficiones con el récord de Alejandro Jiménez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/los-merengues-se-llevan-el-derbi-de-las-aficiones-con-el-record-de-alejandro-jimenez/",
+        "date": "2024-12-21 21:32:46",
+        "sentiment_score": 0.299037903547287
+    },
+    {
+        "title": "El lehendakari reivindica una memoria autocrítica que supere relatos \"autocomplacientes\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/el-lehendakari-reivindica-una-memoria-autocritica-que-supere-relatos-autocomplacientes/",
+        "date": "2024-12-21 21:32:27",
+        "sentiment_score": 0.03640054166316986
+    },
+    {
+        "title": "Sancet sufre un \"pequeño esguince\" en el tobillo derecho",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/21/sancet-sufre-un-pequeno-esguince-en-el-tobillo-derecho/",
+        "date": "2024-12-21 21:31:16",
+        "sentiment_score": -0.7839954383671284
+    },
+    {
+        "title": "27–28. Granollers se lleva el triunfo en Guadalajara en un partido gris",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/21/2728-granollers-se-lleva-el-triunfo-en-guadalajara-en-un-partido-gris/",
+        "date": "2024-12-21 21:30:59",
+        "sentiment_score": 0.031753480434417725
+    },
+    {
+        "title": "Madrid envía 40 autobuses a Valencia para conectar a las zonas afectadas por la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/madrid-envia-40-autobuses-a-valencia-para-conectar-a-las-zonas-afectadas-por-la-dana/",
+        "date": "2024-12-21 21:18:21",
+        "sentiment_score": 0.2753394693136215
+    },
+    {
+        "title": "Canadiense captura por accidente el paso de una ballena jorobada con cámara submarina",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/canada-ballena-jorobada-camara-sumergida-trax/",
+        "date": "2024-12-21 19:28:03",
+        "sentiment_score": -0.4774702414870262
+    },
+    {
+        "title": "“Fue un ataque terrible”: Canciller de Alemania condena el atentado en el mercado navideño de Magdeburgo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190234909.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/scholz-condena-ataque-de-magdeburgo-sot/",
+        "date": "2024-12-21 17:09:26",
+        "sentiment_score": -0.9099152535200119
+    },
+    {
+        "title": "Un nuevo pacto de Sevilla con Cervantes",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/22/documento-miguel-cervantes-RD5ONgZRYoB9AHk3WqqddxN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rafael-raya-rasero-nuevo-pacto-sevilla-cervantes-20241222220320-nts.html",
+        "date": "2024-12-21 21:03:21",
+        "sentiment_score": 0.07108920812606812
+    },
+    {
+        "title": "No es Jaén vs. Sevilla, sino el dedazo de Sánchez",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/22/espadas-moreno-jaen-RaGAp8nJ9Q7cZIz1ojriD7K-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-jaen-sevilla-dedazo-sanchez-20241222220317-nts.html",
+        "date": "2024-12-21 21:03:17",
+        "sentiment_score": -0.13093942403793335
+    },
+    {
+        "title": "Epifanía de la demagogia",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/19/jose-andres-mantecados--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-epifania-demagogia-20241222220315-nts.html",
+        "date": "2024-12-21 21:03:16",
+        "sentiment_score": -0.11161956191062927
+    },
+    {
+        "title": "La lotería valenciana",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/12/15/borrasca-enol-asturias-aemet-kLSH--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-loteria-valenciana-20241222220314-nts.html",
+        "date": "2024-12-21 21:03:15",
+        "sentiment_score": -0.09241542220115662
+    },
+    {
+        "title": "La tregua eterna",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-tregua-eterna-20241222220313-nts.html",
+        "date": "2024-12-21 21:03:14",
+        "sentiment_score": -0.10436955094337463
+    },
+    {
+        "title": "Las víctimas de los ERE",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/21/1489368270.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-victimas-ere-20241222220310-nts.html",
+        "date": "2024-12-21 21:03:10",
+        "sentiment_score": -0.21836788952350616
+    },
+    {
+        "title": "Trump, un mandato por definir",
+        "image_url": "https://s1.ppllstatics.com/larioja/www/multimedia/2024/11/24/video-k3sG--170x119@La%20Rioja.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-trump-mandato-definir-20241222191458-nt.html",
+        "date": "2024-12-21 19:38:50",
+        "sentiment_score": -0.0774427056312561
+    },
+    {
+        "title": "Centenario del 'reinado relámpago'",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/22/ABCTERCERA_Reinadorelampago_ALVAREZpsd-RD1J02i6Ej4a7ip0R2MzbtJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-alvarez-de-miranda-centenario-reinado-relampago-20241222174758-nt.html",
+        "date": "2024-12-21 18:33:12",
+        "sentiment_score": -0.05884289741516113
+    },
+    {
+        "title": "Cliente de los Chiripitifláuticos",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/12/17/pescaderia-granada-U2201640265548G1E--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-cliente-chiripitiflauticos-20241222193120-nt.html",
+        "date": "2024-12-21 18:31:27",
+        "sentiment_score": -0.05185985565185547
+    },
+    {
+        "title": "Cosas que no hacer en Navidad",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-navidad-20241222193102-nt.html",
+        "date": "2024-12-21 18:31:11",
+        "sentiment_score": -0.09277787804603577
+    },
+    {
+        "title": "Desconvocada la huelga de recogida de basura prevista para esta Navidad en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5YGNLOXWBVEXFI5AALBGGKP2OQ.jpeg?auth=c4f7e9b950a5c8543d2cd0bbfdf098eed5acd0c4c2928c2b8ca524f89a0e99e3&width=1200",
+        "tags": [
+            "barcelona",
+            "sindicatos",
+            "ayuntamiento barcelona",
+            "huelgas",
+            "cataluña",
+            "servicios públicos",
+            "basura",
+            "navidad"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-21/desconvocada-la-huelga-de-recogida-de-basura-prevista-para-esta-navidad-en-barcelona.html",
+        "date": "2024-12-21 17:13:01",
+        "sentiment_score": 0.18544702231884003
+    },
+    {
+        "title": "«Nos deja un hombre ejemplar, su etapa fue la más brillante de la CAM»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8a10384-1f42-419c-a520-a058b44fb912_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/economia/2024/12/21/deja-hombre-ejemplar-etapa-brillante-112837265.html",
+        "date": "2024-12-21 22:07:40",
+        "sentiment_score": 0.17397059500217438
+    },
+    {
+        "title": "La premonición de Paco González sobre el Barcelona-Atlético que se hizo realidad: \"Este año fuera de casa ha sido...\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/12/21/67673af017b19.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/premonicion-paco-gonzalez-sobre-barcelona-atletico-hizo-realidad-ano-fuera-casa-sido-20241221_3067276.html",
+        "date": "2024-12-21 22:06:40",
+        "sentiment_score": -0.028308600187301636
+    },
+    {
+        "title": "Lotería Navidad 2024 en directo | Horario y resultado del Gordo de Lotería Nacional",
+        "image_url": "https://s1.elespanol.com/2024/12/21/loterias/910419202_251874695_1706x960.jpg?contentId=ESPIMA20241221_0253",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/loterias/20241221/loteria-navidad-directo-sigue-resultado-sorteo-nacional-diciembre/910508943_10.html",
+        "date": "2024-12-21 21:36:58",
+        "sentiment_score": 0.24185999296605587
+    },
+    {
+        "title": "El sorteo de lotería más esperado del año remata los últimos preparativos",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/12/numero-000000-loteria-navidad-469x317.jpg",
+        "tags": [
+            "españa",
+            "loterías y apuestas del estado",
+            "el gordo",
+            "lotería de navidad",
+            "sorteo de navidad"
+        ],
+        "link": "https://theobjective.com/espana/2024-12-21/loteria-navidad-ultimos-preparativos/",
+        "date": "2024-12-21 21:33:35",
+        "sentiment_score": 0.237174641340971
+    },
+    {
+        "title": "La antesala del Sorteo Extraordinario de Navidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IZUGVSJN5ZHZTIYM2JOAQ6NHOQ.jpg?auth=7c8b86ca28e2aa58fa0fa923c1985c4d29b73629321390dc0dc63cee730e46bf&width=1200",
+        "tags": [
+            "premios",
+            "lotería nacional",
+            "navidad",
+            "lotería",
+            "dinero",
+            "noticias de españa",
+            "lotería navidad",
+            "el gordo"
+        ],
+        "link": "https://elpais.com/videos/2024-12-21/la-antesala-de-sorteo-extraordinario-de-navidad.html",
+        "date": "2024-12-21 21:28:26",
+        "sentiment_score": 0.18447811901569366
+    },
+    {
+        "title": "Las anécdotas del 8.669, el primer 'Gordo' almeriense",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/12/21/ESPECIAL%20DE%20LA%20CRONICA%20MERIDIONAL-kylH-U230358674426lP-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/anecdotas-8669-primer-gordo-almeriense-20241222222652-nt.html",
+        "date": "2024-12-21 21:26:53",
+        "sentiment_score": -0.11417152732610703
+    },
+    {
+        "title": "El Coria salva los muebles",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/86d59f16-2733-47c9-95ec-df5c23826e5c_16-9-aspect-ratio_default_1345692.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2024/12/21/coria-salva-muebles-112836980.html",
+        "date": "2024-12-21 21:26:51",
+        "sentiment_score": 0.7515503242611885
+    },
+    {
+        "title": "A qué hora termina el sorteo de la Lotería de Navidad 2024 y cuánto dura: los horarios",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/12/18/sorteo-de-la-loteria-de-navidad-gsc1.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2024/12/21/hora-termina-sorteo-cuanto-dura-loteria-navidad-horario-2024-1619836.html",
+        "date": "2024-12-21 21:26:28",
+        "sentiment_score": 0.4618162140250206
+    },
+    {
+        "title": "El Atlético logra el liderato en el último suspiro",
+        "image_url": "https://www.diariodeburgos.es/media/img/2024/311a0e14-05b8-7815-243da071ccb0bedd.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z311a0ca8-e3af-6765-adb02d8119336d4e/202412/el-atletico-logra-el-liderato-en-el-ultimo-suspiro",
+        "date": "2024-12-21 21:22:28",
+        "sentiment_score": 0.44202417880296707
+    },
+    {
+        "title": "El Barça se pasea en la segunda parte y accede a cuartos con Levante, Granada y Madrid CFF",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/21/el-barca-se-pasea-en-la-segunda-parte-y-accede-a-cuartos-con-levante-granada-y-madrid-cff/",
+        "date": "2024-12-21 21:17:25",
+        "sentiment_score": 0.14837554097175598
+    },
+    {
+        "title": "Una idea de belleza",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/12/15/2023_04_06_GNR_CONTROL-U77607621661qdd-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/culturas/idea-belleza-20241222224210-nt.html",
+        "date": "2024-12-21 22:13:47",
+        "sentiment_score": 0.8882894180715084
+    },
+    {
+        "title": "Detenido un hombre como presunto autor de la muerte violenta de su madre en Cornellá de Llobregat, Barcelona",
+        "image_url": "https://album.mediaset.es/eimg/2024/12/21/detenido-un-hombre-acusado-de-la-muerte-violenta-de-su-madre-en-cornella-barcelona_3cff.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241221/detenido-presunto-autor-muerte-violenta-madre-cornella-barcelona_18_014348669.html",
+        "date": "2024-12-21 22:12:55",
+        "sentiment_score": -0.7724018450826406
+    },
+    {
+        "title": "Sorloth silencia Montjuic en el último minuto y le da el título de campeón de invierno al Atlético",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/21/67673baf58a46.r_d.1631-492-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20241221/sorloth-silencia-montjuic-ultimo-minuto-le-da-titulo-campeon-invierno-atletico_255460.html",
+        "date": "2024-12-21 22:08:49",
+        "sentiment_score": 0.2601095587015152
+    },
+    {
+        "title": "Un rácano Atlético hunde la moral del Barça tras recibir un baño de fútbol",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/21/culemania/primer-equipo/910419023_13902260_1706x960.jpg?contentId=ESPIMA20241221_0074",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241221/un-racano-atletico-hunde-barca-recibir-futbol/910409003_0.html",
+        "date": "2024-12-21 22:05:50",
+        "sentiment_score": -0.3573946952819824
+    },
+    {
+        "title": "FC Barcelona aprueba nuevo acuerdo millonario con Nike",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/10/AP24104699495792.jpg",
+        "tags": [
+            "deportes",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/12/21/fc-barcelona-aprueba-nuevo-acuerdo-millonario-con-nike/",
+        "date": "2024-12-21 22:03:34",
+        "sentiment_score": 0.31756144016981125
+    },
+    {
+        "title": "El Atlético de Madrid gana al Barcelona en el último minuto gracias a un gol de Sorloth (1-2)",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/21/el-centrocampista-del-fc-barcelona-pedri-2i-intenta-un-lanzamiento-durante-el-partido-entre-el-fc-barcelona-y-el-atletico-de-madrid-este-sabado-en-el-estadio-olimpico-lluis-companys.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/el-atletico-madridgana-barcelona-ultimo-minuto-gracias-gol-sorloth-12.html",
+        "date": "2024-12-21 22:01:51",
+        "sentiment_score": 0.13251323997974396
+    },
+    {
+        "title": "1-2. Sorloth completa la remontada del Atlético en el tiempo añadido",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/21/1-2-sorloth-completa-la-remontada-del-atletico-en-el-tiempo-anadido/",
+        "date": "2024-12-21 22:00:41",
+        "sentiment_score": 0.5558224655687809
+    },
+    {
+        "title": "El Barça se dispara un disparo en el pie ante el Atlético de Madrid",
+        "image_url": "https://static1.ara.cat/clip/86205d6a-6aca-49be-831b-9d842a3b8256_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/barca-dispara-disparo-precio-frente-atletico-madrid_1_5238100.html",
+        "date": "2024-12-21 21:58:29",
+        "sentiment_score": 0.18556612730026245
     }
 ];
