@@ -120,47 +120,6 @@ export default [
         "sentiment_score": 0.5319303125143051
     },
     {
-        "title": "Netanyahu pisa territorio sirio",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189946471.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/netanyahu-siria-monte-hermon-cafe-tv/",
-        "date": "2024-12-18 13:41:33",
-        "sentiment_score": -0.4498448893427849
-    },
-    {
-        "title": "Fosas comunes halladas en Siria escenifican atrocidades del régimen de Assad",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/fosas-comunes-personas-torturadas-assad-siria-cafe-tv/",
-        "date": "2024-12-18 13:38:43",
-        "sentiment_score": -0.8231501076370478
-    },
-    {
-        "title": "Milei recibe ciudadanía italiana durante visita de Estado",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnn-fast-20241216230153548_2827f6.png",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/milei-ciudadania-italiana-primera-manana-fast/",
-        "date": "2024-12-18 13:02:39",
-        "sentiment_score": -0.009480059146881104
-    },
-    {
-        "title": "Aumenta la cantidad de mensajes que recibe Luigi Mangione en prisión",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/danny.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/luigi-mangione-prision-mensajes-unitedhealthcare-ush-trax/",
-        "date": "2024-12-18 10:55:14",
-        "sentiment_score": -0.32692156732082367
-    },
-    {
         "title": "La agónica crisis a la que se enfrenta Trudeau en Canadá: su posible dimisión y el papel clave del Rey de Inglaterra",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/18/trudeau-kxQF-U709943427HPH-1200x840@diario_abc.jpg",
         "tags": [
@@ -169,76 +128,6 @@ export default [
         "link": "https://www.abc.es/internacional/agonica-crisis-enfrenta-trudeau-canada-posible-dimision-20241218173229-nt.html",
         "date": "2024-12-18 16:32:29",
         "sentiment_score": -0.1353028267621994
-    },
-    {
-        "title": "Sarkozy acepta una pulsera electrónica de vigilancia para evitar la cárcel",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/18/sarkozy-kRyH-U709368079PIC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/sarkozy-acepta-pulsera-electronica-vigilancia-evitar-carcel-20241218143320-nt.html",
-        "date": "2024-12-18 13:33:21",
-        "sentiment_score": -0.7741243205964565
-    },
-    {
-        "title": "La industria eólica alerta sobre la lentitud en la implantación de renovables",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/18/eolicaEP-ROQJqDUVBw50CYuAofVGB3N-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/industria-eolica-alerta-sobre-lentitud-implantacion-renovables-20241218141257-nt.html",
-        "date": "2024-12-18 13:12:58",
-        "sentiment_score": -0.004887610673904419
-    },
-    {
-        "title": "Baleares y Canarias, a la cabeza del crecimiento en 2023: duplicaron la media nacional gracias al turismo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/18/1450427783-R6lBZ8vwSnbxKqyY4xBneJJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/baleares-canarias-cabeza-crecimiento-2023-duplicaron-media-20241218135636-nt.html",
-        "date": "2024-12-18 12:59:48",
-        "sentiment_score": -0.07521256804466248
-    },
-    {
-        "title": "EE.UU. consigue prolongar la tregua entre rebeldes proturcos y los kurdos en Siria",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/18/trump-erdogan-RjMdTapU40Thk149PMdxLUK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-consigue-prolongar-tregua-rebeldes-proturcos-kurdos-20241218124614-nt.html",
-        "date": "2024-12-18 12:04:19",
-        "sentiment_score": -0.07813131809234619
-    },
-    {
-        "title": "Muface convoca el viernes a los sindicatos para informar sobre la nueva licitación",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/18/muface-RXw0U3Wk31GRjVSbHl83G1M-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/muface-convoca-viernes-sindicatos-informar-sobre-nueva-20241218124759-nt.html",
-        "date": "2024-12-18 11:47:59",
-        "sentiment_score": -0.10116854310035706
-    },
-    {
-        "title": "El sector público necesita «reformas sustanciales» para sostener el Estado de Bienestar, advierte Funcas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/18/carlosocaa-R8IIELicLIC23JkDBmIAuZN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sector-publico-necesita-reformas-sustanciales-sostener-estado-20241218121712-nt.html",
-        "date": "2024-12-18 11:17:13",
-        "sentiment_score": -0.03929018974304199
-    },
-    {
-        "title": "El Gobierno convoca a los funcionarios tras la presión en las calles",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/18/1489955947-RGXuJyKLt9toqTbMLQ5O72J-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-convoca-funcionarios-tras-presion-calles-20241218112323-nt.html",
-        "date": "2024-12-18 10:23:24",
-        "sentiment_score": -0.01166844367980957
     },
     {
         "title": "El PP ni cita a Mazón durante cuatro horas de debate sobre la dana en el Congreso",
@@ -7121,5 +7010,320 @@ export default [
         "link": "https://es.ara.cat/deportes/fc-barcelona/barca-dispara-disparo-precio-frente-atletico-madrid_1_5238100.html",
         "date": "2024-12-21 21:58:29",
         "sentiment_score": 0.18556612730026245
+    },
+    {
+        "title": "Rufián (ERC) afirma que \"el escenario cambia\" en la negociación de los PGE tras la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/JRPAGXKUJNB6DCU3MFFFRVW7XE.jpg?auth=d5092afcc2f0a1a6478f86750e7b7d2d0cf8bb8a45a9a197efd23c684b3bf077&height=1312&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/rufian-erc-afirma-que-el-escenario-cambia-en-la-negociacion-de-los-pge-tras-la-dana/",
+        "date": "2024-12-22 02:03:37",
+        "sentiment_score": -0.4378461241722107
+    },
+    {
+        "title": "Comunidad Valenciana, Murcia, Cataluña y Madrid serán las CCAA que cerrarán 2024 con mayor déficit, según Fedea",
+        "image_url": "https://www.infobae.com/resizer/v2/MLOLWBZJVZDRZDALM3R6SDBGAY.jpg?auth=d7b846f2c0fd4c36b4979761028cbf46a444dbf48de14c833f685a5435ea436e&height=1024&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/comunidad-valenciana-murcia-cataluna-y-madrid-seran-las-ccaa-que-cerraran-2024-con-mayor-deficit-segun-fedea/",
+        "date": "2024-12-22 02:03:18",
+        "sentiment_score": -0.679841548204422
+    },
+    {
+        "title": "Cuerpo asegura que habrá más fases de ayuda económica del Gobierno a Valencia por la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/GUTKEEOJHJGYZKCCYGBPONNRZM.jpg?auth=a34368d3ca0dd570fa9c5b096f7e7ead0ef104017766cd80621777cdfd6810ed&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/cuerpo-asegura-que-habra-mas-fases-de-ayuda-economica-del-gobierno-a-valencia-por-la-dana/",
+        "date": "2024-12-22 02:02:58",
+        "sentiment_score": 0.3960305117070675
+    },
+    {
+        "title": "La Comunidad de Madrid no valora la manifestación contra Mazón e insiste en \"ser útiles\" para ayudar",
+        "image_url": "https://www.infobae.com/resizer/v2/Q4TD3BMCBJA5PPKGBXAI2BX22Y.jpg?auth=5a9411a104e39e92e9c3427dde203d1e7485c81f052d2167314cf9bc1d763185&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/la-comunidad-de-madrid-no-valora-la-manifestacion-contra-mazon-e-insiste-en-ser-utiles-para-ayudar/",
+        "date": "2024-12-22 02:02:38",
+        "sentiment_score": 0.5622561126947403
+    },
+    {
+        "title": "Temperaturas en Barcelona: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/LN6OIWHCZFAADBNLIS73GEPSVA.jpg?auth=9f570b032a1d1d9fd755782741968d81e622b81216207db0a1690ded32a25ebc&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/22/temperaturas-en-barcelona-preparate-antes-de-salir-de-casa/",
+        "date": "2024-12-22 02:01:14",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Las solicitudes de indemnización recibidas por el Consorcio de Seguro alcanzan las 156.126",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/las-solicitudes-de-indemnizacion-recibidas-por-el-consorcio-de-seguro-alcanzan-las-156126/",
+        "date": "2024-12-22 01:47:45",
+        "sentiment_score": 0.38170225918293
+    },
+    {
+        "title": "Barrenechea: Ir con Argentina es un sueño, no me lo esperaba, los veo como ídolos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/barrenechea-ir-con-argentina-es-un-sueno-no-me-lo-esperaba-los-veo-como-idolos/",
+        "date": "2024-12-22 01:47:27",
+        "sentiment_score": 0.7063053622841835
+    },
+    {
+        "title": "Identificado el último de los cuerpos de desaparecidos en Letur (Albacete) tras la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/identificado-el-ultimo-de-los-cuerpos-de-desaparecidos-en-letur-albacete-tras-la-dana/",
+        "date": "2024-12-22 01:33:22",
+        "sentiment_score": -0.5098145063966513
+    },
+    {
+        "title": "Enfermera Saturada: \"La solidaridad es lo que da fuerzas a los afectados por la dana\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/enfermera-saturada-la-solidaridad-es-lo-que-da-fuerzas-a-los-afectados-por-la-dana/",
+        "date": "2024-12-22 01:33:04",
+        "sentiment_score": 0.13280561566352844
+    },
+    {
+        "title": "Lo mejor de YouTube España: lista de los videos del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/AWVRKSYYBRDYHIZGCWGP42D4PI.jpg?auth=888389a8efcc4eec411d4ecc23eec29433361a033ae6fe455de225858a1aab58&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/22/lo-mejor-de-youtube-espana-lista-de-los-videos-del-momento/",
+        "date": "2024-12-22 01:16:18",
+        "sentiment_score": 0.2826126478612423
+    },
+    {
+        "title": "Ataque masivo en Alemania sacude a Europa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190171602.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataque-mercado-navideno-alemania-magdeburgo-mirador-mundial-tv/",
+        "date": "2024-12-22 02:04:27",
+        "sentiment_score": -0.8031244901940227
+    },
+    {
+        "title": "Gordofobia en Argentina: historias de discriminación en primera persona",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gordofobia.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gordofobia-discriminacion-argentina-historias-mirador-mundial-tv/",
+        "date": "2024-12-22 00:44:49",
+        "sentiment_score": -0.8081576656550169
+    },
+    {
+        "title": "Lo que dejó el fallo de la Corte IDH sobre el caso Beatriz en El Salvador",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190190528.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fallo-beatriz-cidh-aborto-el-salvador-futuro-mirador-mundial-tv/",
+        "date": "2024-12-22 00:36:57",
+        "sentiment_score": 0.040139101445674896
+    },
+    {
+        "title": "Accidente entre tres vehículos en Brasil deja al menos 38 muertos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21219934-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/accidente-automovilistico-brasil-38-muertos-mirador-mundial-tv-fast/",
+        "date": "2024-12-22 00:34:23",
+        "sentiment_score": -0.6344781015068293
+    },
+    {
+        "title": "Hombre pide la reunificación con su familia tras ser deportados a México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/21216278-live-mangione-clean-00-02-43-04-still001.png",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/familia-migrantes-mexicanos-deportados-mirador-mundial-tv-fast/",
+        "date": "2024-12-22 00:29:15",
+        "sentiment_score": -0.6191884353756905
+    },
+    {
+        "title": "Inversiones ferroviaries en riesgu: la xuba de costos dexa en peligru obres del corredor Lleón-Asturies",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7878da73-cd72-4373-845a-7974a35e2440_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/12/22/inversiones-ferroviaries-riesgu-xuba-costos-112705328.html",
+        "date": "2024-12-22 02:00:04",
+        "sentiment_score": -0.11770549416542053
+    },
+    {
+        "title": "Vinícius Jr cerca de los jugadores más destacados con el Real Madrid",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2024/12/Vinicius-Jr-cerca-de-los-jugadores-mas-destacados-con-el-Real-Madrid-21-dic-2024-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "monagas",
+            "venezuela",
+            "maturín",
+            "deportes"
+        ],
+        "link": "https://elorientaldemonagas.com/vinicius-jr-cerca-de-los-jugadores-mas-destacados-con-el-real-madrid/",
+        "date": "2024-12-22 02:00:00",
+        "sentiment_score": 0.6521450355648994
+    },
+    {
+        "title": "JC Reyes, el 'rey del urban' y padre de tres hijos que es más escuchado que Melendi y Omar Montes: \"Recibí mi primer disco de oro en la cárcel\"",
+        "image_url": "https://s1.elespanol.com/2024/12/16/reportajes/909169653_251719390_1706x960.jpg?contentId=ESPIMA20241216_0579",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241222/jc-reyes-rey-urban-padre-hijos-escuchado-melendi-omar-montes-recibi-primer-disco-oro-carcel/909159414_0.html",
+        "date": "2024-12-22 01:56:04",
+        "sentiment_score": -0.13595256209373474
+    },
+    {
+        "title": "Cataluña sigue pagando la factura económica del 'procés'",
+        "image_url": "https://s1.elespanol.com/2024/12/18/actualidad/909669409_251783780_1706x960.jpg?contentId=ESPIMA20241218_0385",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20241222/cataluna-sigue-pagando-factura-economica-proces/910278969_12.html",
+        "date": "2024-12-22 01:20:39",
+        "sentiment_score": -0.9000571211799979
+    },
+    {
+        "title": "El Barça de Flick tira puntos a la basura: adiós a 2024 sin el liderato de la Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/22/culemania/primer-equipo/910668927_13902550_1706x960.jpg?contentId=ESPIMA20241222_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241222/el-barca-de-flick-la-liderato-liga/910658926_0.html",
+        "date": "2024-12-22 01:13:43",
+        "sentiment_score": 0.6266213655471802
+    },
+    {
+        "title": "Atlético de Madrid vence al Barça para asumir el liderato en la Liga española",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2024-12-21/atletico-de-madrid-vence-al-barca-para-asumir-el-liderato-en-la-liga-espanola",
+        "date": "2024-12-22 01:08:36",
+        "sentiment_score": 0.1401761919260025
+    },
+    {
+        "title": "Los 10 mejores ensayos en español de 2024: tomarse España con filosofía",
+        "image_url": "https://s1.elespanol.com/2024/12/20/el-cultural/letras/ensayo/910169533_251852866_1706x960.jpg?contentId=ESPIMA20241220_0559",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/ensayo/20241222/mejores-ensayos-espanol-tomarse-espana-filosofia/910159307_0.html",
+        "date": "2024-12-22 01:00:00",
+        "sentiment_score": 0.7081869728863239
+    },
+    {
+        "title": "La necesidad de un futuro con memoria",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/20a99b59-c658-47b3-bd20-74796a16965d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/tribuna-abierta/2024/12/22/necesidad-futuro-memoria-inaki-anasagasti-9080491.html",
+        "date": "2024-12-22 00:53:10",
+        "sentiment_score": -0.2969515174627304
+    },
+    {
+        "title": "Sandra Daviú, la voz del sorteo de la Lotería de Navidad en TVE: \"Los reinados a largo plazo en televisión no molan\"",
+        "image_url": "https://s1.elespanol.com/2024/12/18/bluper/909669340_251781693_1706x960.jpg?contentId=ESPIMA20241218_0316",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/bluper/20241222/sandra-daviu-voz-sorteo-loteria-navidad-tve-reinados-largo-plazo-television-no-molan/909659081_0.html",
+        "date": "2024-12-22 00:40:51",
+        "sentiment_score": 0.250385208055377
+    },
+    {
+        "title": "El Poder para la destrucción de la dignidad de la persona y de la democracia",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20241222/poder-destruccion-dignidad-persona-democracia_255305.html",
+        "date": "2024-12-22 00:30:00",
+        "sentiment_score": -0.8535922933369875
+    },
+    {
+        "title": "José Luis Paniagua estudió Derecho y ahora es el mejor sumiller de España: \"Dios hizo el milagro del vino y yo lo sirvo\"",
+        "image_url": "https://s1.elespanol.com/2024/12/19/reportajes/909919670_251827642_1706x960.jpg?contentId=ESPIMA20241219_0671",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241222/jose-luis-paniagua-estudio-derecho-ahora-mejor-sumiller-espana-dios-hizo-milagro-vino-sirvo/909909205_0.html",
+        "date": "2024-12-22 02:01:41",
+        "sentiment_score": 0.047858357429504395
+    },
+    {
+        "title": "La caída en desgracia de Arthur Perepelkin, el 'rey del vodka' que pide desde Barcelona no ser devuelto a Rusia: \"Putin me persigue por apoyar a Ucrania\"",
+        "image_url": "https://s1.elespanol.com/2024/12/20/reportajes/910169605_251855123_1706x960.png?contentId=ESPIMA20241220_0631",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241222/caida-desgracia-arthur-perepelkin-rey-vodka-pide-barcelona-no-devuelto-rusia-putin-persigue-apoyar-ucrania/910159340_0.html",
+        "date": "2024-12-22 02:01:26",
+        "sentiment_score": -0.891169554553926
+    },
+    {
+        "title": "Rafael Rebolo: «No podemos perder el talento de la gente que nace aquí»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/93396798-da87-4e72-950e-9a912bce800d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/dominical/2024/12/22/rafael-rebolo-perder-talento-gente-112839068.html",
+        "date": "2024-12-22 01:43:31",
+        "sentiment_score": -0.36176706850528717
+    },
+    {
+        "title": "Las Troncas y Jijantes se coronan en Canarias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3105bf0-f976-4992-800a-7cf39c42de5c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/deportes-canarias/2024/12/22/troncas-jijantes-coronan-canarias-112839004.html",
+        "date": "2024-12-22 01:23:30",
+        "sentiment_score": -0.4624735862016678
+    },
+    {
+        "title": "El Heliodoro vibra al ritmo de las finales de la Kings",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bf983e03-948f-4503-87ba-6411085d9c0d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/deportes-canarias/2024/12/22/heliodoro-vibra-ritmo-finales-kings-112838936.html",
+        "date": "2024-12-22 01:17:27",
+        "sentiment_score": -0.4624735862016678
+    },
+    {
+        "title": "La taberna castiza que arrasa en el futuro barrio de moda de Madrid: \"Mis torreznos gustan tanto que los piden de postre\"",
+        "image_url": "https://s1.elespanol.com/2024/12/20/madrid/ocio/910169623_251855655_1706x960.jpg?contentId=ESPIMA20241220_0649",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241222/taberna-castiza-arrasa-futuro-barrio-moda-madrid-torreznos-gustan-piden-postre/910159315_0.html",
+        "date": "2024-12-22 01:06:45",
+        "sentiment_score": -0.3271300941705704
     }
 ];
