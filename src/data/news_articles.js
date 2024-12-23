@@ -132,48 +132,6 @@ export default [
         "sentiment_score": 0.35454145073890686
     },
     {
-        "title": "Gisele Pelicot agradece a las personas que la apoyaron durante el juicio",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190049349.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/gisele-pelicot-agradece-cafe-tv/",
-        "date": "2024-12-19 13:55:31",
-        "sentiment_score": -0.16642579436302185
-    },
-    {
-        "title": "Avioneta se estrella en zona residencial en San Fernando, Argentina",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnn-fast-20241213123945390_e217ad.png",
-        "tags": [
-            "fast – news variety",
-            "argentina",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/avioneta-estrella-san-fernando-primera-manana-fast/",
-        "date": "2024-12-19 13:06:54",
-        "sentiment_score": -0.5979806296527386
-    },
-    {
-        "title": "La abogada de Dominique Pelicot dice que aún no decidieron si apelarán la sentencia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190043638.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/dominique-pelicot-apelacion-juicio-sot/",
-        "date": "2024-12-19 12:14:33",
-        "sentiment_score": -0.6871135085821152
-    },
-    {
-        "title": "Dominique Pelicot es condenado a la pena máxima de 20 años por violaciones a su mujer",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2189652893-1.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/dominique-pelicot-giselle-sentencia-carcel-trax/",
-        "date": "2024-12-19 11:07:01",
-        "sentiment_score": -0.8720808858051896
-    },
-    {
         "title": "«No nos convencen»: los agricultores mantienen las movilizaciones por Mercosur tras la reunión con el Gobierno",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/19/1490152296-RY4TAmiaka3xHqUhIzXgfzL-1200x840@diario_abc.jpg",
         "tags": [
@@ -202,46 +160,6 @@ export default [
         "link": "https://www.abc.es/internacional/horrores-dictadura-assad-fosa-comun-tener-100000-20241219152602-nt.html",
         "date": "2024-12-19 14:39:39",
         "sentiment_score": -0.2476702332496643
-    },
-    {
-        "title": "Los funcionarios empiezan el próximo año sin subida salarial",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/19/1485852525-R8fM6ZcqGabvkq8LP1xFKnI-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/funcionarios-empiezan-proximo-ano-subida-salarial-20241219134741-nt.html",
-        "date": "2024-12-19 12:53:01",
-        "sentiment_score": -0.01906907558441162
-    },
-    {
-        "title": "Hayan una relación entre la infección por citomegalovirus y el alzhéimer",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/12/19/readhead-microglia-banner-RP9YV211nrqmVjYJM6zDcoO-1200x840@diario_abc.png",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/novedosa-relacion-infeccion-causada-citomegalovirus-alzheimer-20241219120534-nt.html",
-        "date": "2024-12-19 12:48:55",
-        "sentiment_score": -0.1321266144514084
-    },
-    {
-        "title": "El Congreso aprueba la ley del desperdicio alimentario con matices de PP y Junts: eximen a los bares de donar comida",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/19/1490107149-Rvf5O0lPxN6bxFOp4fmymKO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/congreso-aprueba-ley-desperdicio-alimentario-matices-pp-20241219121943-nt.html",
-        "date": "2024-12-19 11:22:08",
-        "sentiment_score": -0.053710728883743286
-    },
-    {
-        "title": "Navantia alcanza un acuerdo para comprar los astilleros del Titanic por 85 millones de euros",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/19/1490073462-RbXmN5FGo16StSHH1agIEtL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/navantia-alcanza-acuerdo-comprar-astilleros-titanic-millones-20241219112250-nt.html",
-        "date": "2024-12-19 10:29:37",
-        "sentiment_score": -0.03518375754356384
     },
     {
         "title": "El PSOE denuncia a Vox por financiación irregular",
@@ -392,51 +310,6 @@ export default [
         "link": "https://elpais.com/espana/andalucia/2024-12-19/la-familia-de-uno-de-los-fallecidos-en-cerro-muriano-pedira-hasta-12-anos-para-los-militares-procesados.html",
         "date": "2024-12-19 14:30:34",
         "sentiment_score": -0.4439288526773453
-    },
-    {
-        "title": "Tráfico prevé 20 millones de desplazamientos durante las Navidades",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FB5NFZRGUVC67PG56LS2U7NZVQ.jpg?auth=cf6eb35453b2924ee3d34a4ec0edd73a55590e481f468c51b701a917541fd83b&width=1200",
-        "tags": [
-            "dgt",
-            "víctimas",
-            "denuncias",
-            "alcoholismo",
-            "tráfico",
-            "movilidad urbana",
-            "restricciones circulación",
-            "seguridad vial",
-            "drogas",
-            "accidentes tráfico",
-            "guardia civil",
-            "españa",
-            "accidentes",
-            "controles alcoholemia"
-        ],
-        "link": "https://elpais.com/espana/2024-12-19/trafico-preve-20-millones-de-desplazamientos-durante-las-navidades.html",
-        "date": "2024-12-19 14:03:34",
-        "sentiment_score": -0.18378613144159317
-    },
-    {
-        "title": "Ábalos responde a la petición de su suplicatorio con denuncias contra la Guardia Civil y la Fiscalía Anticorrupción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6RBJXODX7LKSSZORU4UWJ4FHFI.jpg?auth=d7a60710b22ba3127f501b6a75db4c26294172acfc76f3dddfa7add1564424b1&width=1200",
-        "tags": [
-            "víctor de aldama",
-            "congreso diputados",
-            "gobierno",
-            "españa",
-            "ministerio de fomento",
-            "caso koldo",
-            "obras públicas",
-            "psoe",
-            "comisiones parlamentarias",
-            "corrupción política",
-            "corrupción",
-            "josé luis ábalos",
-            "fomento de obras y construcciones"
-        ],
-        "link": "https://elpais.com/espana/2024-12-19/abalos-responde-a-la-peticion-de-su-suplicatorio-con-denuncias-contra-la-guardia-civil-y-la-fiscalia-anticorrupcion.html",
-        "date": "2024-12-19 13:43:49",
-        "sentiment_score": -0.8676509857177734
     },
     {
         "title": "Una tradición envenenada golpea la puerta del Barça",
@@ -6782,5 +6655,459 @@ export default [
         "link": "https://2001online.com/usa/internacionales/donald-trump-nombra-al-principal-asesor-economico-para-su-segundo-mandato-2024122215150",
         "date": "2024-12-22 19:15:00",
         "sentiment_score": 0.1052434928715229
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 23 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/MIDCM226O5C5BEW2VP5TLITTBA.jpg?auth=e2e0ac6ebf8bc29f0591440e3e694f7dc47ede8334ba5de9e95874676df48d49&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/23/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-23-de-diciembre/",
+        "date": "2024-12-23 02:02:17",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Bajcetic sustituye a Carmona en la selección sub-21",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/bajcetic-sustituye-a-carmona-en-la-seleccion-sub-21/",
+        "date": "2024-12-23 01:48:07",
+        "sentiment_score": 0.003515996038913727
+    },
+    {
+        "title": "Ni Oasis, ni Swift ni Rosalía: las ausencias descafeínan los premios europeos de MTV",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/ni-oasis-ni-swift-ni-rosalia-las-ausencias-descafeinan-los-premios-europeos-de-mtv/",
+        "date": "2024-12-23 01:47:45",
+        "sentiment_score": -0.8607319481670856
+    },
+    {
+        "title": "El Colo Colo se proclama campeón en Chile en un polémico final marcado por el VAR",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/el-colo-colo-se-proclama-campeon-en-chile-en-un-polemico-final-marcado-por-el-var/",
+        "date": "2024-12-23 01:18:20",
+        "sentiment_score": 0.057600364089012146
+    },
+    {
+        "title": "1-0. La Real vence al Barcelona, que encaja su segunda derrota",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/1-0-la-real-vence-al-barcelona-que-encaja-su-segunda-derrota/",
+        "date": "2024-12-23 00:48:25",
+        "sentiment_score": 0.6937889829277992
+    },
+    {
+        "title": "Maestre, que se siente \"culpable\" y \"furiosa\", se ha puesto en contacto con Elisa Mouliaá",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/maestre-que-se-siente-culpable-y-furiosa-se-ha-puesto-en-contacto-con-elisa-mouliaa/",
+        "date": "2024-12-23 00:47:28",
+        "sentiment_score": -0.21674960851669312
+    },
+    {
+        "title": "Presidente de la Real Academia de Gastronomía de España destaca la excelencia y creatividad de la cocina peruana",
+        "image_url": "https://www.infobae.com/resizer/v2/UNHJYC5RZRFOXAKTHWCQNWIVIA.png?auth=a546ad59a42a1157b1e54b720caebf60b288d129820a04bde1616dfbcec34518&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/12/23/presidente-de-la-real-academia-de-gastronomia-de-espana-destaca-la-excelencia-y-creatividad-de-la-cocina-peruana/",
+        "date": "2024-12-23 00:22:22",
+        "sentiment_score": 0.7235073558986187
+    },
+    {
+        "title": "Gabigol confirma que deja el Flamengo a final de año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/gabigol-confirma-que-deja-el-flamengo-a-final-de-ano/",
+        "date": "2024-12-23 00:17:46",
+        "sentiment_score": -0.30843011289834976
+    },
+    {
+        "title": "Un hombre herido por varios disparos en un tiroteo en Málaga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/un-hombre-herido-por-varios-disparos-en-un-tiroteo-en-malaga/",
+        "date": "2024-12-23 00:17:25",
+        "sentiment_score": -0.7376690451055765
+    },
+    {
+        "title": "Renfe califica de \"incidencia técnica\" el percance del tren de Ourense",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/23/renfe-califica-de-incidencia-tecnica-el-percance-del-tren-de-ourense/",
+        "date": "2024-12-23 00:15:18",
+        "sentiment_score": -0.9192106276750565
+    },
+    {
+        "title": "¿Quién es el gendarme argentino detenido en Venezuela y qué sabemos de él?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/thumb-gallo.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/quien-es-gendarme-argentino-mirador-munidal-tv/",
+        "date": "2024-12-23 01:58:27",
+        "sentiment_score": -0.5185526125133038
+    },
+    {
+        "title": "Sheinbaum responde a Trump: no aceptamos injerencismos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/thumb-shein-20241223010729913.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-sheinbaum-carteles-droga-mirador-munidal-tv/",
+        "date": "2024-12-23 01:58:06",
+        "sentiment_score": -0.8320770058780909
+    },
+    {
+        "title": "De Colombia al mundo: conoce este oasis en pleno Miami Beach",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/colombia-20241223002852135.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/oasis-colombia-miami-beach-mirador-mundial-tv/",
+        "date": "2024-12-23 00:37:05",
+        "sentiment_score": 0.6267915368080139
+    },
+    {
+        "title": "Así festejan los ganadores del sorteo del Gordo de Navidad en España",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sorteo-ok.jpg?quality=100&strip=info",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/la-alegria-de-los-ganadores-del-gordo-de-navidad-en-espana/",
+        "date": "2024-12-23 00:36:25",
+        "sentiment_score": 0.09597742557525635
+    },
+    {
+        "title": "Migrantes festejan Navidad en un refugio de Ciudad Juárez",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/albergue.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migrantes-mexico-navidad-refugio-mirador-mundial-tv/",
+        "date": "2024-12-23 00:35:54",
+        "sentiment_score": 0.27862757444381714
+    },
+    {
+        "title": "Roma y el Vaticano se preparan para recibir a millones de peregrinos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2185794666.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/roma-vaticano-esperan-peregrinos-jubileo-2025-mirador-mundial-tv/",
+        "date": "2024-12-23 00:35:19",
+        "sentiment_score": 0.2220625802874565
+    },
+    {
+        "title": "Se desconoce a dónde se dirige Siria tras el derrocamiento de al-Assad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2191090055.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/futuro-gobierno-siria-incertidumbre-mirador-munidal-tv/",
+        "date": "2024-12-23 00:11:59",
+        "sentiment_score": -0.8653370905667543
+    },
+    {
+        "title": "Mujer muere en el metro de Nueva York luego de que le prendieran fuego",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1391136181.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujer-muere-nueva-york-fuego-ush-mirador-mundial-tv-fast/",
+        "date": "2024-12-23 00:07:40",
+        "sentiment_score": -0.8022332303225994
+    },
+    {
+        "title": "Trump sugiere reunión con Putin para terminar la guerra en Ucrania",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1202252353-20241222234833265.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-reuion-putin-guerra-ucrania-mirador-munidal-tv/",
+        "date": "2024-12-22 23:56:08",
+        "sentiment_score": -0.1409539431333542
+    },
+    {
+        "title": "El canal de Panamá es de Panamá, dice Mulino sobre comentarios de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/thumb-mulino.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-mulino-canal-de-panama-ush-mirador-munidal-tv/",
+        "date": "2024-12-22 23:48:22",
+        "sentiment_score": -0.620750118046999
+    },
+    {
+        "title": "La hucha vacía del 'superfondo' de las pensiones",
+        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2024/12/16/IMG_2471-kAoE--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-hucha-vacia-superfondo-pensiones-20241223011320-nt.html",
+        "date": "2024-12-23 00:13:23",
+        "sentiment_score": -0.19608715176582336
+    },
+    {
+        "title": "Una diplomacia errática",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/11/25/flor-pascua-kAr--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-diplomacia-erratica-20241223011256-nt.html",
+        "date": "2024-12-23 00:13:05",
+        "sentiment_score": -0.18105396628379822
+    },
+    {
+        "title": "Crónica del Real Sociedad - FC Barcelona, 1-0",
+        "image_url": "https://www.infobae.com/resizer/v2/Z76ZMYERZBEE7OH4L7GNBZFPZM.jpg?auth=5cedcc9b6573d33ea7ebc8dbb68be3793cb963722881d68739829ce0e8a9cd69&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/10/cronica-del-real-sociedad-fc-barcelona-1-0/",
+        "date": "2024-12-23 02:02:25",
+        "sentiment_score": 0.21906618773937225
+    },
+    {
+        "title": "El calvario de Pedro, María y las víctimas de patinetes sin seguro: lo exige la UE y España retrasa que sea obligatorio",
+        "image_url": "https://s1.elespanol.com/2024/12/20/reportajes/910169725_251860404_1706x960.jpg?contentId=ESPIMA20241220_0751",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241223/calvario-pedro-maria-victimas-patinetes-sin-seguro-exige-ue-espana-retrasa-obligatorio/910159058_0.html",
+        "date": "2024-12-23 01:46:18",
+        "sentiment_score": -0.8288506465032697
+    },
+    {
+        "title": "Mariam, la lotera de Catarroja que vendió el tercer premio \"en décimos manchados de barro\": \"Lo compraron los voluntarios\"",
+        "image_url": "https://s1.elespanol.com/2024/12/22/valencia/910669378_251888904_1706x960.jpg?contentId=ESPIMA20241222_0454",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/valencia/20241223/mariam-lotera-catarroja-vendio-tercer-premio-decimos-manchados-barro-compraron-voluntarios/910659116_0.html",
+        "date": "2024-12-23 01:44:56",
+        "sentiment_score": -0.18769516050815582
+    },
+    {
+        "title": "Dónde encargar la cena de Nochebuena en Madrid para no pisar la cocina: copón, filetes armando o bandejas de sushi",
+        "image_url": "https://s1.elespanol.com/2024/12/20/madrid/ocio/910169775_251860309_1706x960.jpg?contentId=ESPIMA20241220_0801",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241223/encargar-cena-nochebuena-madrid-no-pisar-cocina-copon-filetes-armando-bandejas-sushi/910159414_0.html",
+        "date": "2024-12-23 01:40:13",
+        "sentiment_score": -0.022789105772972107
+    },
+    {
+        "title": "1-0. La Real tumba a un Barcelona irreconocible",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/10/1-0-la-real-tumba-a-un-barcelona-irreconocible/",
+        "date": "2024-12-23 01:33:01",
+        "sentiment_score": 0.8397629037499428
+    },
+    {
+        "title": "La Real Sociedad frena al Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/10/la-real-sociedad-frena-al-barcelona/",
+        "date": "2024-12-23 01:17:23",
+        "sentiment_score": 0.8477389495819807
+    },
+    {
+        "title": "Diez datos y curiosidades de la jornada 13",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/10/diez-datos-y-curiosidades-de-la-jornada-13/",
+        "date": "2024-12-23 01:03:06",
+        "sentiment_score": 0.11449369788169861
+    },
+    {
+        "title": "Vinicius logra un triplete y se sitúa segundo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/10/vinicius-logra-un-triplete-y-se-situa-segundo/",
+        "date": "2024-12-23 01:02:47",
+        "sentiment_score": 0.6128422021865845
+    },
+    {
+        "title": "El liderato del Atlético con 'sorpasso' al Barcelona, y un Real Madrid con mejor cara, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/12/23/6768b5614626a.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/liderato-atletico-sorpasso-barcelona-real-madrid-mejor-cara-tertulion-juego-20241223_3067526.html",
+        "date": "2024-12-23 00:57:10",
+        "sentiment_score": -0.04049214720726013
+    },
+    {
+        "title": "El Madrid también da el zarpazo al Barça en el adiós de Jesús Navas",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2024/12/10-1-3.jpg",
+        "tags": [
+            "noticias destacadas",
+            "sevilla fc",
+            "deportes",
+            "barcelona fc",
+            "real madrid"
+        ],
+        "link": "https://elsiglo.com.ve/2024/12/22/el-madrid-tambien-da-el-zarpazo-al-barca-en-el-adios-de-jesus-navas/",
+        "date": "2024-12-23 00:46:19",
+        "sentiment_score": 0.6237785667181015
+    },
+    {
+        "title": "Se confirmaron todos los equipos clasificados a la Copa Libertadores y Sudamericana 2025: la agenda",
+        "image_url": "https://www.infobae.com/resizer/v2/MBH3TX54IRAHTFKOD6DYVKQMQY.jpg?auth=f8d1961edea16e9fc0640ccfe8150a1dadc127047cd5f026b2f4753786064cee&height=2732&smart=true&width=4096",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/23/se-confirmaron-todos-los-equipos-clasificados-a-la-copa-libertadores-y-sudamericana-2025-la-agenda/",
+        "date": "2024-12-23 02:07:23",
+        "sentiment_score": 0.21328992024064064
+    },
+    {
+        "title": "Flick señala al equipo como \"responsable\" de la derrota",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/10/flick-senala-al-equipo-como-responsable-de-la-derrota/",
+        "date": "2024-12-23 02:02:44",
+        "sentiment_score": -0.7907185889780521
+    },
+    {
+        "title": "Quién es Paula Nata: Influencer y futura mujer de Jonathan Andic, heredero de Mango",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/whatsapp-image-2024-12-21-at-194412_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/mas-media/y",
+        "date": "2024-12-23 01:30:00",
+        "sentiment_score": 0.7655718773603439
+    },
+    {
+        "title": "Anzoátegui | Mujer es detenida por vender juguetes de las comunidades",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/anzoategui-mujer-es-detenida-por-vender-juguetes-de-las-comunidades-202412222260",
+        "date": "2024-12-23 02:06:00",
+        "sentiment_score": 0.3312036208808422
+    },
+    {
+        "title": "Conoce cómo era la casa de origen de Miguel Cabrera",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1734923894105/WhatsApp%20Image%202024-12-22%20at%2011.17.43%20PM.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/conoce-como-era-la-casa-de-origen-de-miguel-cabrera-202412222200",
+        "date": "2024-12-23 02:00:00",
+        "sentiment_score": 0.8038542717695236
+    },
+    {
+        "title": "Microsoft complace las súplicas de sus usuarios con esta increíble función",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/microsoft-complace-las-suplicas-de-sus-usuarios-con-esta-increible-funcion-202412222200",
+        "date": "2024-12-23 01:47:30",
+        "sentiment_score": 0.8108844654634595
+    },
+    {
+        "title": "Texas lanza vacante laboral remota por $24 dólares por hora (+Requisitos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-lanza-vacante-laboral-remota-por-24-dolares-por-hora-requisitos--2024122221440",
+        "date": "2024-12-23 01:44:00",
+        "sentiment_score": 0.041819848120212555
+    },
+    {
+        "title": "Venezolano asesinó a su pareja y a su suegro en Perú",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/venezolano-asesino-a-su-pareja-y-a-su-suegro-en-peru-2024122221300",
+        "date": "2024-12-23 01:30:00",
+        "sentiment_score": -0.6020671781152487
+    },
+    {
+        "title": "Pasos para abrir una cuenta digital en el BDV (+Requisitos)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/pasos-para-abrir-una-cuenta-digital-en-el-bdv-requisitos--2024122221300",
+        "date": "2024-12-23 01:30:00",
+        "sentiment_score": 0.2176757287234068
+    },
+    {
+        "title": "Carlos Baute se suma a la fiebre del \"Burrito sabanero\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/carlos-baute-se-suma-a-la-fiebre-del-burrito-sabanero--2024122221220",
+        "date": "2024-12-23 01:22:00",
+        "sentiment_score": 0.7637181766331196
+    },
+    {
+        "title": "Fallece el luchador mexicano Rey Misterio Sr : Conozca la causa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/fallece-el-luchador-mexicano-rey-misterio-sr-conozca-la-causa-202412222100",
+        "date": "2024-12-23 01:00:00",
+        "sentiment_score": -0.4724443405866623
+    },
+    {
+        "title": "Anuncian nuevo fondo para viviendas asequibles en EEUU (+Monto)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/anuncian-nuevo-fondo-para-viviendas-asequibles-en-eeuu-monto--2024122220530",
+        "date": "2024-12-23 00:53:00",
+        "sentiment_score": 0.18388117477297783
+    },
+    {
+        "title": "El millonario túnel para llegar de Nueva York a Londres en minutos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/el-millonario-tunel-para-llegar-de-nueva-york-a-londres-en-minutos-202412222000",
+        "date": "2024-12-23 00:00:00",
+        "sentiment_score": -0.31473591923713684
     }
 ];
