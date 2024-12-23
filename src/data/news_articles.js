@@ -1,185 +1,5 @@
 export default [
     {
-        "title": "Cuál es el precio de la gasolina este 19 de diciembre en Madrid, Barcelona y otras ciudades de España",
-        "image_url": "https://www.infobae.com/resizer/v2/4NWH5FEAPJGYPEL4ENBTWGDUUM.jpg?auth=23d28acd6b79280c76040305cf267d65645aff18e2a29c39b04876570f624fdd&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/19/cual-es-el-precio-de-la-gasolina-este-19-de-diciembre-en-madrid-barcelona-y-otras-ciudades-de-espana/",
-        "date": "2024-12-19 06:31:24",
-        "sentiment_score": -0.06122169271111488
-    },
-    {
-        "title": "Efemérides del 20 de diciembre",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/19/efemerides-del-20-de-diciembre/",
-        "date": "2024-12-19 06:15:45",
-        "sentiment_score": -0.02005285769701004
-    },
-    {
-        "title": "Pedraz abrirá pieza separada en el caso Hidrocarburos con el volcado del móvil de Aldama",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/19/pedraz-abrira-pieza-separada-en-el-caso-hidrocarburos-con-el-volcado-del-movil-de-aldama/",
-        "date": "2024-12-19 06:15:28",
-        "sentiment_score": -0.02340804785490036
-    },
-    {
-        "title": "Esas son las medidas que peligran si se mantiene el veto a la ley de eficiencia judicial",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/19/esas-son-las-medidas-que-peligran-si-se-mantiene-el-veto-a-la-ley-de-eficiencia-judicial/",
-        "date": "2024-12-19 05:45:44",
-        "sentiment_score": -0.15102620422840118
-    },
-    {
-        "title": "Actualización del tipo de cambio dólar-euro hoy 19 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/2XSHXRMXXJEE7LMPM6YKAATFZI.jpg?auth=4a9d7df92f29fd0dfc38fafa42cad9f2b9326a454f321e07e2f3d18ec9119a7e&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/19/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-19-de-diciembre/",
-        "date": "2024-12-19 05:15:32",
-        "sentiment_score": -0.32036420702934265
-    },
-    {
-        "title": "El Atlético logra un bloque coral",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/aa3f8d2d-0456-592c-7d7f973d31ddb84f.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/zaa3f8bd3-d92b-a3be-fc22f7ea8f14b727/202412/el-atletico-logra-un-bloque-coral",
-        "date": "2024-12-19 06:31:08",
-        "sentiment_score": 0.8084287904202938
-    },
-    {
-        "title": "Esto es lo que te podrías comprar ahora con el dinero del premio del primer sorteo de la Lotería de Navidad",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2022/12/07/638fefa50f5a2.jpeg",
-        "tags": [
-            "life"
-        ],
-        "link": "https://www.huffingtonpost.es/life/esto-te-podrias-comprar-dinero-premio-primer-sorteo-loteria-navidad.html",
-        "date": "2024-12-19 06:27:11",
-        "sentiment_score": -0.14949016273021698
-    },
-    {
-        "title": "Míster Jägger: \"Ahora el formato vertical funciona muchísimo mejor\"",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/18/mister-jaegger-durante-la-entrevista-concedida-a-el-huffpost-6040.jpeg",
-        "tags": [
-            "influencers y celebrities"
-        ],
-        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/mister-jagger-me-gustaria-recibir-clases-suenosbr.html",
-        "date": "2024-12-19 06:18:42",
-        "sentiment_score": 0.12845933437347412
-    },
-    {
-        "title": "Los triunfos del Barça y del Real Madrid acaparan las portadas deportivas de hoy",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/12/19/6763b6d8b7dbf.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20241219/1002373947/triunfos-barca-real-madrid-acaparan-portadas-deportivas-hoy-dct.html",
-        "date": "2024-12-19 06:04:49",
-        "sentiment_score": -0.16874241828918457
-    },
-    {
-        "title": "De tocar el piano para sus padres a componer para Netflix: “Me gusta hacer lo que me da la gana”",
-        "image_url": "https://s1.elespanol.com/2024/11/14/mujer/protagonistas/901170259_250869132_1706x960.jpg?contentId=ESPIMA20241114_0385",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/mujer/protagonistas/20241219/tocar-piano-padres-componer-netflix-gusta-hacer-da-gana/901160116_0.html",
-        "date": "2024-12-19 06:03:34",
-        "sentiment_score": 0.47519480250775814
-    },
-    {
-        "title": "Todos los destinos a los que puedes volar desde el aeropuerto de Bilbao esta Navidad",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/viajes/2024/12/19/destinos-puedes-volar-aeropuerto-bilbao-9068932.html",
-        "date": "2024-12-19 06:00:32",
-        "sentiment_score": 0.65934719145298
-    },
-    {
-        "title": "El icónico atleta que disfruta de su retiro en un bello municipio burgalés en el que brilla el lechazo y el vino",
-        "image_url": "https://s1.elespanol.com/2024/11/28/castilla-y-leon/region/burgos/904670223_251274729_1706x960.jpg?contentId=ESPIMA20241128_0699",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20241219/iconico-atleta-disfruta-retiro-bello-municipio-burgales-brilla-lechazo-vino/904659984_0.html",
-        "date": "2024-12-19 06:00:00",
-        "sentiment_score": 0.6984881535172462
-    },
-    {
-        "title": "Colectivos feministas se concentran este jueves en Madrid en apoyo a Gisèle Pelicot",
-        "image_url": "https://www.elplural.com/uploads/s1/18/89/07/2/europapress-6214412-september-14-2024-marseille-france-protester-holds-placard-during-the-rally_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/colectivos-feministas-concentran-jueves-madrid-apoyo-gisele-pelicot_343345102",
-        "date": "2024-12-19 06:00:00",
-        "sentiment_score": -0.2172195017337799
-    },
-    {
-        "title": "El mejor aceite de oliva del mundo es manchego: 7 españoles se encuentran en el top 10",
-        "image_url": "https://s1.elespanol.com/2024/04/15/cocinillas/actualidad-gastronomica/847925424_241510161_1706x960.jpg?contentId=ESPIMA20240415_0225",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20241219/mejor-aceite-oliva-mundo-manchego-espanoles-encuentran-top/909409426_0.html",
-        "date": "2024-12-19 06:00:00",
-        "sentiment_score": 0.4894157573580742
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de diciembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2018/05/18/vivir-en-barcelona/vivir_en_barcelona_308229175_9936816_1706x960.jpg?contentId=ESPIMA20180518_0001",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241219/lo-que-debes-saber-hoy-de-diciembre-barcelona/909909002_0.html",
-        "date": "2024-12-19 06:31:15",
-        "sentiment_score": -0.35111236572265625
-    },
-    {
-        "title": "\"Trabajar con la baronesa Carmen Thyssen es un privilegio\"",
-        "image_url": "https://static1.ara.cat/clip/1cd9d5ea-c164-4a4f-b4b1-12b7703fc1aa_16-9-aspect-ratio_default_0_x4165y1085.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/cultura/arte/trabajar-baronesa-carmen-thyssen-privilegio_128_5234840.html",
-        "date": "2024-12-19 06:31:03",
-        "sentiment_score": -0.28663909435272217
-    },
-    {
-        "title": "Una oportunidad para Ferran Torres",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/zaa355cf6-d44b-1fca-126385c5fccd5d80/202412/una-oportunidad-para-ferran-torres",
-        "date": "2024-12-19 06:30:01",
-        "sentiment_score": 0.01611161231994629
-    },
-    {
-        "title": "Josep Maria Fericle: \"Si el 10% de la gente fuera capaz de estar media hora al día sin hacer nada, cambiábamos la Humanidad\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/daccedb2-d823-4df7-af27-5bcf9af904d1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/sociedad/2024/12/19/josep-maria-fericle-10-gente-112749942.html",
-        "date": "2024-12-19 06:29:42",
-        "sentiment_score": 0.013405680656433105
-    },
-    {
         "title": "“Quiero que te mueras”: nuevos audios revelan las amenazas de Marius Borg a su exnovia la noche en que la agredió",
         "image_url": "https://www.infobae.com/resizer/v2/TLDH5TYVP5EENL5KS3YKTGR2VY.jpg?auth=4a5d30ee1803b602496cbd4a3676d9bc579f90a7c0666a81e015f2037ca16d62&height=660&smart=true&width=1173",
         "tags": [
@@ -354,28 +174,6 @@ export default [
         "sentiment_score": -0.8720808858051896
     },
     {
-        "title": "Última hora del veredicto en el juicio por la violación masiva de Giselle Pelicot, en vivo: noticias, sentencias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/Pelicot.jpg?quality=100&strip=info",
-        "tags": [
-            "gisèle pélicot",
-            "francia",
-            "dominique pélicot"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/19/ultima-hora-veredicto-juicio-violacion-masiva-giselle-pelicot-en-vivo-trax/",
-        "date": "2024-12-19 08:10:36",
-        "sentiment_score": -0.5791772417724133
-    },
-    {
-        "title": "“Zar de la frontera” de Trump dice que agentes de ICE estarán en las calles desde el primer día",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-961479070.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/tom-homan-zar-como-deportara-inmigrantes-sot/",
-        "date": "2024-12-19 07:44:26",
-        "sentiment_score": -0.27619917690753937
-    },
-    {
         "title": "«No nos convencen»: los agricultores mantienen las movilizaciones por Mercosur tras la reunión con el Gobierno",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/19/1490152296-RY4TAmiaka3xHqUhIzXgfzL-1200x840@diario_abc.jpg",
         "tags": [
@@ -444,16 +242,6 @@ export default [
         "link": "https://www.abc.es/economia/navantia-alcanza-acuerdo-comprar-astilleros-titanic-millones-20241219112250-nt.html",
         "date": "2024-12-19 10:29:37",
         "sentiment_score": -0.03518375754356384
-    },
-    {
-        "title": "El Congreso de EE.UU. tiene dos días para evitar el cierre tras el rechazo de Trump al proyecto de ley de gastos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/19/vance-RrVlKL09HkQxFaCeil6Y8ZJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/congreso-eeuu-dos-dias-evitar-cierre-tras-20241219093305-nt.html",
-        "date": "2024-12-19 08:33:06",
-        "sentiment_score": -0.05161598324775696
     },
     {
         "title": "El PSOE denuncia a Vox por financiación irregular",
@@ -6495,5 +6283,504 @@ export default [
         "link": "https://www.elperiodico.com/es/barcelona/20241222/ayuntamiento-barcelona-aprueba-nuevos-precios-publicos-ipc-112856998",
         "date": "2024-12-22 16:41:59",
         "sentiment_score": 0.0998595803976059
+    },
+    {
+        "title": "Míchel: \"Ganar nos gusta de cualquier forma\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/michel-ganar-nos-gusta-de-cualquier-forma/",
+        "date": "2024-12-22 22:03:20",
+        "sentiment_score": 0.70265306904912
+    },
+    {
+        "title": "Mrsic: \"Hemos merecido ganar\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/mrsic-hemos-merecido-ganar/",
+        "date": "2024-12-22 22:03:02",
+        "sentiment_score": 0.8080195356160402
+    },
+    {
+        "title": "Valverde: \"Pudo haber sido un 0-0 pero ha sido un 1-1. Es un resultado justo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/valverde-pudo-haber-sido-un-0-0-pero-ha-sido-un-1-1-es-un-resultado-justo/",
+        "date": "2024-12-22 22:02:43",
+        "sentiment_score": 0.5782874748110771
+    },
+    {
+        "title": "Los portugueses Fabio Mascarenhas y Ana Cabecinha ganan las X Millas del Guadiana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/los-portugueses-fabio-mascarenhas-y-ana-cabecinha-ganan-las-x-millas-del-guadiana/",
+        "date": "2024-12-22 22:02:24",
+        "sentiment_score": 0.4145064726471901
+    },
+    {
+        "title": "Paula Badosa: \"Vengo con mucha confianza y ganas de representar a mi país\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/paula-badosa-vengo-con-mucha-confianza-y-ganas-de-representar-a-mi-pais/",
+        "date": "2024-12-22 21:48:25",
+        "sentiment_score": 0.7982646021991968
+    },
+    {
+        "title": "Bordalás: \"Está claro que el equipo necesita seis fichajes de primer nivel\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/bordalas-esta-claro-que-el-equipo-necesita-seis-fichajes-de-primer-nivel/",
+        "date": "2024-12-22 21:48:06",
+        "sentiment_score": 0.005370527505874634
+    },
+    {
+        "title": "Lunes, 11 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/lunes-11-de-noviembre-de-2024/",
+        "date": "2024-12-22 21:47:47",
+        "sentiment_score": -0.12441462278366089
+    },
+    {
+        "title": "78-62. Iyana Martín guía a España ante Croacia y encarrila el camino al Eurobasket",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/78-62-iyana-martin-guia-a-espana-ante-croacia-y-encarrila-el-camino-al-eurobasket/",
+        "date": "2024-12-22 21:18:24",
+        "sentiment_score": 0.7043471485376358
+    },
+    {
+        "title": "Un Racing de Santander de récord se consolida al frente de la tabla",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/un-racing-de-santander-de-record-se-consolida-al-frente-de-la-tabla/",
+        "date": "2024-12-22 21:18:06",
+        "sentiment_score": 0.8324085772037506
+    },
+    {
+        "title": "Peñarroya: \"Espero que aprendamos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/penarroya-espero-que-aprendamos/",
+        "date": "2024-12-22 21:17:46",
+        "sentiment_score": -0.8362906761467457
+    },
+    {
+        "title": "Un hombre atropelló a varias personas con su coche en un centro comercial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/thumb-suv.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hombre-atropellar-centro-comercial-texas-ush-trax/",
+        "date": "2024-12-22 21:47:57",
+        "sentiment_score": -0.7948233783245087
+    },
+    {
+        "title": "Cuento de lotería de Navidad",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-cuento-loteria-navidad-20241223215431-nts.html",
+        "date": "2024-12-22 20:56:14",
+        "sentiment_score": 0.016778677701950073
+    },
+    {
+        "title": "Pues yo, sí",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/23/mano-andalucia-lengua-R18nX8Ah4gGT6JVBDJDByuN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-narbona-pues-20241223215451-nts.html",
+        "date": "2024-12-22 20:55:24",
+        "sentiment_score": -0.12776178121566772
+    },
+    {
+        "title": "Paisaje",
+        "image_url": "https://s2.ppllstatics.com/burgosconecta/www/multimedia/2024/12/17/loteria-navidad-kBg--170x119@Burgosconecta.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-paisaje-20241223215343-nts.html",
+        "date": "2024-12-22 20:53:44",
+        "sentiment_score": -0.06823298335075378
+    },
+    {
+        "title": "Muere Marciano Sánchez Bayle, médico referente en la defensa de la sanidad pública",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2024/12/22/marciano-sanchez-bayle-k2G-U7028867994y9C-1200x840@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/muere-marciano-sanchez-bayle-medico-referente-defensa-20241222210404-nt.html",
+        "date": "2024-12-22 20:10:01",
+        "sentiment_score": 0.02664831280708313
+    },
+    {
+        "title": "Críticas a los fallos de seguridad en el atropello múltiple de Alemania",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/22/alemania-R0tdxygypXvmBMEQwbtDXpL-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/criticas-fallos-seguridad-atropello-multiple-alemania-20241222204843-nt.html",
+        "date": "2024-12-22 19:50:29",
+        "sentiment_score": -0.14117646217346191
+    },
+    {
+        "title": "Navidad: despertar de lo humano",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/23/ABCTERCERA_Navidad_Granados-RajxMllYs97dFuqV303JPHN-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-granados-navidad-despertar-humano-20241223191516-nt.html",
+        "date": "2024-12-22 18:15:34",
+        "sentiment_score": -0.051922112703323364
+    },
+    {
+        "title": "'Caquistocracia'",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/23/ENFOQUEABC_Caquistocracia_SORMAN-RGzP82eTLa29GWqjapMS9FN-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-caquistocracia-20241223191457-nt.html",
+        "date": "2024-12-22 18:14:57",
+        "sentiment_score": -0.12434691190719604
+    },
+    {
+        "title": "Trump y Latinoamérica",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/23/1488191144-R4qqoRXwgtAkmS53Om1uN1M-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/john-mario-gonzalez-trump-latinoamerica-20241223191442-nt.html",
+        "date": "2024-12-22 18:14:43",
+        "sentiment_score": -0.17270682752132416
+    },
+    {
+        "title": "24",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/11/25/flor-pascua-kAr--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-24-20241223191426-nt.html",
+        "date": "2024-12-22 18:14:33",
+        "sentiment_score": -0.01738777756690979
+    },
+    {
+        "title": "Afortunado en amores",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2024/12/17/pescaderia-granada-U2201640265548G1E--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-afortunado-amores-20241223191412-nt.html",
+        "date": "2024-12-22 18:14:21",
+        "sentiment_score": -0.05217301845550537
+    },
+    {
+        "title": "Dos presos se fugan de la cárcel de Picassent tras romper barrotes y descolgarse con una sábana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IIGLOBL3IRH7HMRELMMTSA4HWM.aspx?auth=ef79bf6711d8fc1d9a213ea321b7e2fdc487a1b9df2f197331cb2989ef45d101&width=1200",
+        "tags": [
+            "fuga presos",
+            "cárcel picassent",
+            "valencia",
+            "instituciones penitenciarias",
+            "presos",
+            "picassent",
+            "ministerio del interior",
+            "fernando grande-marlaska",
+            "guardia civil",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-22/dos-presos-se-fugan-de-la-carcel-de-picassent-tras-romper-barrotes-y-descolgarse-con-una-sabana.html",
+        "date": "2024-12-22 19:26:02",
+        "sentiment_score": -0.8072049599140882
+    },
+    {
+        "title": "Un perfil eterno en el cielo para el amante de los pájaros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/R4NRCSTHLNEGNE3PPNJSJF3SOM.jpg?auth=3ce4acf90cd4a487fa4477d9a17f4c7fd2d9c75a3465607cd69f5d7a6611ce6a&width=1200",
+        "tags": [
+            "delta del ebro",
+            "tarragona",
+            "birdie",
+            "muertes",
+            "cataluña",
+            "parques naturales",
+            "aves",
+            "ornitología",
+            "científicos",
+            "observatorio",
+            "homenajes"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-22/un-perfil-eterno-en-el-cielo-para-el-amante-de-los-pajaros.html",
+        "date": "2024-12-22 17:24:29",
+        "sentiment_score": 0.48260407894849777
+    },
+    {
+        "title": "Contracrónica: Cuando una cagalera es una lección de picardía",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f206e03-76d6-4697-9eed-2560b2418f4a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2024/12/22/contracronica-cagalera-leccion-picardia-112861909.html",
+        "date": "2024-12-22 22:04:35",
+        "sentiment_score": -0.3140869140625
+    },
+    {
+        "title": "El Madrid también da el sorpaso al Barça en el adiós de la leyenda Jesús Navas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/22/el-madrid-tambien-da-el-sorpaso-al-barca-en-el-adios-de-la-leyenda-jesus-navas/",
+        "date": "2024-12-22 22:00:55",
+        "sentiment_score": -0.25651533901691437
+    },
+    {
+        "title": "Barry, quinto triplete de la campaña y Mbappé se pone a 10",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/22/barry-quinto-triplete-de-la-campana-y-mbappe-se-pone-a-10/",
+        "date": "2024-12-22 22:00:39",
+        "sentiment_score": 0.28077153861522675
+    },
+    {
+        "title": "Se cruzó a Martín Palermo en una carnicería y le hizo una particular pregunta: “Entré en shock”",
+        "image_url": "https://www.infobae.com/resizer/v2/DIJEYENZMZBHTOHSN5SELRAZJY.jpg?auth=8fbb46a3c443b5e7f236d8456b598c91b888ca9e8460829807b5ee4689348bfa&height=2005&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/22/se-cruzo-a-martin-palermo-en-una-carniceria-y-le-hizo-una-particular-pregunta-entre-en-shock/",
+        "date": "2024-12-22 21:58:18",
+        "sentiment_score": 0.6164730228483677
+    },
+    {
+        "title": "Un abogado del Estado logra llevar al naviero Vicente Boluda al banquillo por denuncia falsa",
+        "image_url": "https://static.eldiario.es/clip/61c6a46f-f01b-482e-908a-351664cd7a21_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.eldiario.es/economia/abogado-logra-llevar-naviero-vicente-boluda-banquillo-denuncia-falsa_1_11919702.html",
+        "date": "2024-12-22 21:26:49",
+        "sentiment_score": -0.16129595041275024
+    },
+    {
+        "title": "Dos reclusos se escapan de la prisión de Picassent durante el Barcelona-Atlético",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/12/22/67687e3a0673b.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20241222/dos-reclusos-escapan-prision-picassent-durante-barcelonaatletico_255622.html",
+        "date": "2024-12-22 21:24:56",
+        "sentiment_score": -0.5482053980231285
+    },
+    {
+        "title": "\"Lo de hoy en el Bernabéu ha sido una bendita locura\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/22/676882f1823ab.jpeg",
+        "tags": [
+            "sevilla-deportes"
+        ],
+        "link": "https://www.cope.es/emisoras/andalucia/sevilla-provincia/sevilla/sevilla-deportes/noticias/hoy-bernabeu-sido-bendita-locura-20241222_3067516.html",
+        "date": "2024-12-22 21:22:28",
+        "sentiment_score": 0.1927873194217682
+    },
+    {
+        "title": "Temas del día de EFE España del lunes 11 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/10/temas-del-dia-de-efe-espana-del-lunes-11-de-noviembre-de-2024/",
+        "date": "2024-12-22 21:17:27",
+        "sentiment_score": 0.09639692306518555
+    },
+    {
+        "title": "Navas: \"No recuerdo haber visto algo así en un campo rival\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/22/navas-no-recuerdo-haber-visto-algo-asi-en-un-campo-rival/",
+        "date": "2024-12-22 21:15:23",
+        "sentiment_score": -0.24684877693653107
+    },
+    {
+        "title": "De lobbies y de lobos",
+        "image_url": "https://s.libertaddigital.com/2024/12/18/carles-puigdemont-bruselas09122024.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2024-12-22/anna-grau-de-lobbies-y-de-lobos-7201163/",
+        "date": "2024-12-22 21:01:55",
+        "sentiment_score": -0.8327597100287676
+    },
+    {
+        "title": "Bohemia: educación y precariedad",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/22/67688f968d054.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20241222/10232553/bohemia-educacion-precariedad.html",
+        "date": "2024-12-22 22:15:50",
+        "sentiment_score": -0.8853906011208892
+    },
+    {
+        "title": "Investigan el atropello de un hombre en Valdoviño, A Coruña: buscan al conductor que se dio a la fuga",
+        "image_url": "https://album.mediaset.es/eimg/2024/12/22/investigan-el-atropello-de-un-hombre-en-valdovino-a-coruna-buscan-al-conductor-fugado_2db4.jpg",
+        "tags": [
+            "galicia"
+        ],
+        "link": "https://www.telecinco.es/noticias/galicia/20241222/investigan-atropello-valdovino-coruna-buscan-conductor-fugado_18_014353799.html",
+        "date": "2024-12-22 22:11:31",
+        "sentiment_score": -0.6950660720467567
+    },
+    {
+        "title": "Oriol de Bolòs: una vida entre les plantes (2007)",
+        "image_url": "https://static1.ara.cat/clip/4163bfc5-6027-4e8f-a45c-b620a92d9e2f_16-9-aspect-ratio_default_0_x262y180.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/oriol-bolos-vida-plantes-2007_1_5233474.html",
+        "date": "2024-12-22 22:00:45",
+        "sentiment_score": -0.29469067603349686
+    },
+    {
+        "title": "Cae un jugador de los cuatro...",
+        "image_url": "https://images.ficheroslavoz.com/5b/5bd01ee5-aa0c-46fe-a88b-1920dfcf0b2f.jpg?crop=3700%2C2084&expires=1766470894&height=1070&token=idZBsZ34nZEYUJJLk0wfJP8UYpBkt6zUUygqHCVFfOw&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/285040/cae-un-jugador-de-los-cuatro",
+        "date": "2024-12-22 21:55:00",
+        "sentiment_score": -0.23185095191001892
+    },
+    {
+        "title": "La perla del Barça que pierde brillo sin Xavi: cero goles en 12 jornadas de Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/22/culemania/primer-equipo/910669001_13904792_1706x960.jpg?contentId=ESPIMA20241222_0077",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241222/la-barca-pierde-brillo-xavi-jornadas-liga/910658993_0.html",
+        "date": "2024-12-22 21:24:35",
+        "sentiment_score": 0.7665962055325508
+    },
+    {
+        "title": "Seguro Social EEUU: El formulario para revisión de beneficios denegados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-social-eeuu-el-formulario-para-revision-de-beneficios-denegados-202412221800",
+        "date": "2024-12-22 22:00:00",
+        "sentiment_score": -0.004054173827171326
+    },
+    {
+        "title": "Capturan a sicario que se disfrazó de médico para asesinar a un paciente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/capturan-a-sicario-que-se-disfrazo-de-medico-para-asesinar-a-un-paciente-2024122217340",
+        "date": "2024-12-22 21:34:00",
+        "sentiment_score": -0.25001829862594604
+    },
+    {
+        "title": "Helicóptero se estrella contra un hospital y deja cuatro fallecidos (+Detalles)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/helicoptero-se-estrella-contra-un-hospital-y-deja-cuatro-fallecidos-detalles--2024122217300",
+        "date": "2024-12-22 21:30:00",
+        "sentiment_score": -0.6911993399262428
+    },
+    {
+        "title": "Siguiendo estos pasos podrás recibir los bonos del Sistema Patria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/siguiendo-estos-pasos-podras-recibir-los-bonos-del-sistema-patria-2024122217300",
+        "date": "2024-12-22 21:30:00",
+        "sentiment_score": 0.2468252331018448
+    },
+    {
+        "title": "EEUU | Estos beneficiarios del SSDI recibirán pagos antes de navidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-estos-beneficiarios-del-ssdi-recibiran-pagos-antes-de-navidad-2024122217140",
+        "date": "2024-12-22 21:14:00",
+        "sentiment_score": 0.06434980779886246
+    },
+    {
+        "title": "¿Cuáles han sido las \"maldiciones\" más famosas en la historia del fútbol?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/cuales-han-sido-las-maldiciones-mas-famosas-en-la-historia-del-futbol--202412221700",
+        "date": "2024-12-22 21:00:00",
+        "sentiment_score": -0.07690523564815521
+    },
+    {
+        "title": "Osvaldo Ríos revela cómo \"Kassandra\" tuvo un papel crucial en la guerra (+Video)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1734894240868/BeFunky-collage%20(17).jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/osvaldo-rios-revela-como-kassandra-tuvo-un-papel-crucial-en-la-guerra-video--202412221700",
+        "date": "2024-12-22 21:00:00",
+        "sentiment_score": 0.38625648617744446
+    },
+    {
+        "title": "EEUU: Walmart dejará de aceptar estos billetes desde enero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-walmart-dejara-de-aceptar-estos-billetes-desde-enero-202412221600",
+        "date": "2024-12-22 20:00:00",
+        "sentiment_score": -0.00117579847574234
+    },
+    {
+        "title": "Arizona | Detienen influencer tras grabar un video en Walmart: Sepa por qué",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/arizona-detienen-influencer-tras-grabar-un-video-en-walmart-sepa-por-que-202412221600",
+        "date": "2024-12-22 20:00:00",
+        "sentiment_score": -0.8394197095185518
+    },
+    {
+        "title": "Donald Trump nombra al principal asesor económico para su segundo mandato",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/donald-trump-nombra-al-principal-asesor-economico-para-su-segundo-mandato-2024122215150",
+        "date": "2024-12-22 19:15:00",
+        "sentiment_score": 0.1052434928715229
     }
 ];
