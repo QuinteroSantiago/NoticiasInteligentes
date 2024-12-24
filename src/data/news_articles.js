@@ -132,38 +132,6 @@ export default [
         "sentiment_score": 0.04674798995256424
     },
     {
-        "title": "Las palabras de Daddy Yankee mientras ingresaba al Tribunal por una demanda contra su esposa",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/yankee.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/daddy-yankee-denuncia-esposa-transferencia-cafe-tv/",
-        "date": "2024-12-20 14:12:26",
-        "sentiment_score": -0.3860938623547554
-    },
-    {
-        "title": "Incendios e infraestructura dañada por ataque mortal ruso contra Kyiv",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataque-misiles-rusia-ucrania-kyiv-incendios-cafe-tv/",
-        "date": "2024-12-20 13:49:52",
-        "sentiment_score": -0.9032803792506456
-    },
-    {
-        "title": "Balance del primer año de gestión de Milei",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "xpress",
-            "fast – general",
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/balance-primer-ano-milei-primera-manana-fast/",
-        "date": "2024-12-20 13:00:16",
-        "sentiment_score": 0.004256822168827057
-    },
-    {
         "title": "Malasia reanudará la búsqueda del avión del vuelo MH370, desaparecido hace 10 años",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/20/VueloMalasia-km6-U70209161349eD-1200x840@diario_abc.jpg",
         "tags": [
@@ -202,66 +170,6 @@ export default [
         "link": "https://www.abc.es/economia/sareb-suspende-venta-promotora-arqura-ante-posible-20241220151347-nt.html",
         "date": "2024-12-20 14:16:46",
         "sentiment_score": -0.5518960729241371
-    },
-    {
-        "title": "De 35 horas semanales a 48: estas son las jornadas laborales en los países de la Unión Europea",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/20/1483019046-kazH-U7020166224UrB-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/horas-semanales-jornadas-laborales-paises-union-europea-20241220144337-nt.html",
-        "date": "2024-12-20 13:43:37",
-        "sentiment_score": -0.12991422414779663
-    },
-    {
-        "title": "La odisea del Open Arms: más de un centenar de inmigrantes durante 20 días en altamar y un juicio a Salvini",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/20/openarms-R9g72wnOg1EApO8RFhYkFCK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/open-arms-investiga-salvini-20241220130249-nt.html",
-        "date": "2024-12-20 12:44:48",
-        "sentiment_score": -0.13915696740150452
-    },
-    {
-        "title": "España solicita el quinto pago de los fondos europeos, con valor de 25.000 millones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/20/1490110959-RUMrLxzDfN9Gb2aSGNONoJJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/espana-solicita-quinto-pago-fondos-europeos-valor-20241220133306-nt.html",
-        "date": "2024-12-20 12:33:07",
-        "sentiment_score": -0.040944844484329224
-    },
-    {
-        "title": "Mango confirma su modelo de gestión y refuerza a Toni Ruiz para liderar su crecimiento",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/20/mang-Rde0b3szR9ZUr5DGAtOKIsK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/mango-confirma-modelo-gestion-confirma-toni-ruiz-20241220131803-nt.html",
-        "date": "2024-12-20 12:20:35",
-        "sentiment_score": -0.028357118368148804
-    },
-    {
-        "title": "EE.UU. retirará al nuevo líder sirio de la lista del terrorismo mundial",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/20/syria-R5UYQzyNbd30ypMGdJyj08M-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-retirara-nuevo-lider-sirio-lista-terrorismo-20241220130234-nt.html",
-        "date": "2024-12-20 12:16:48",
-        "sentiment_score": -0.2212081253528595
-    },
-    {
-        "title": "El presidente de Corea del Sur, citado a declarar el día de Navidad en el marco de la investigación por declarar la ley marcial",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/20/1490136235-kf6-U70194887198DB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/presidente-corea-sur-citado-declarar-dia-navidad-20241220130210-nt.html",
-        "date": "2024-12-20 12:02:10",
-        "sentiment_score": -0.12281490862369537
     },
     {
         "title": "Mazón creará una unidad de alerta de emergencias tras cerrar antes de la dana la de coordinación por ser un “chiringuito” de la izquierda",
@@ -394,45 +302,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-20/espana-apela-a-su-soberania-para-responder-a-la-amenaza-de-sanciones-por-vetar-la-escala-de-buques-con-armas-para-israel.html",
         "date": "2024-12-20 14:23:31",
         "sentiment_score": -0.7898964341729879
-    },
-    {
-        "title": "La asesora de La Moncloa afirma que sus gestiones con la Complutense fueron favores personales a Begoña Gómez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UF6HFDZ5QVL6ZS7ZU4F3VBHBTA.jpg?auth=add3dcaffe20c86e07ddcd4442dbfe131df1295d84a049680cd18f422f45789f&width=1200",
-        "tags": [
-            "tribunales",
-            "begoña gómez fernández",
-            "universidad",
-            "españa",
-            "pedro sánchez",
-            "justicia",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/2024-12-20/la-asesora-de-moncloa-afirma-que-sus-gestiones-con-la-complutense-fueron-favores-personales-a-begona-gomez.html",
-        "date": "2024-12-20 14:03:34",
-        "sentiment_score": -0.3261033333837986
-    },
-    {
-        "title": "Los usuarios de iPhone ya pueden empezar a validar la T-mobilitat con su teléfono móvil",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WZY3C46RAJF2VCKINTSVJ3SN5E.jpg?auth=c86169e13a0ae8785e95c3604f54d6267b946c5103eeeacf2df3cbd749df2033&width=1200",
-        "tags": [
-            "cataluña",
-            "transporte",
-            "atm",
-            "autobuses",
-            "fgc",
-            "transporte ferroviario",
-            "cercanías",
-            "transporte público",
-            "trenes",
-            "autobuses urbanos",
-            "transporte pasajeros",
-            "metro barcelona",
-            "transporte sostenible",
-            "transporte urbano"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-20/los-usuarios-de-iphone-ya-pueden-empezar-a-validar-la-t-mobilitat-con-su-telefono-movil.html",
-        "date": "2024-12-20 13:53:32",
-        "sentiment_score": 0.09265140071511269
     },
     {
         "title": "Mathias Lessort, operado con éxito tras su grave lesión, el Panathinaikos en vilo",
@@ -7063,5 +6932,405 @@ export default [
         "link": "https://2001online.com/usa/servicios/eeuu-irs-entregara-1-400-a-estos-contribuyentes--202412231730",
         "date": "2024-12-23 21:03:00",
         "sentiment_score": 0.07011652365326881
+    },
+    {
+        "title": "Alter Enersun invertirá 16 millones en una planta fotovoltaica para Atlantic Copper",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/alter-enersun-invertira-16-millones-en-una-planta-fotovoltaica-para-atlantic-copper/",
+        "date": "2024-12-24 01:48:27",
+        "sentiment_score": 0.7565286420285702
+    },
+    {
+        "title": "El bitcóin sigue su escalada y revalida máximos históricos cerca de los 82.400 dólares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/el-bitcoin-sigue-su-escalada-y-revalida-maximos-historicos-cerca-de-los-82400-dolares/",
+        "date": "2024-12-24 01:48:08",
+        "sentiment_score": 0.5771558657288551
+    },
+    {
+        "title": "El IBEX 35 mantiene subidas del 0,75 % y se establece por encima de los 11.600 puntos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/el-ibex-35-mantiene-subidas-del-075-y-se-establece-por-encima-de-los-11600-puntos/",
+        "date": "2024-12-24 01:47:49",
+        "sentiment_score": 0.4029989019036293
+    },
+    {
+        "title": "Sheila Avilés dice que España está en la élite pese a que le falta más respaldo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/sheila-aviles-dice-que-espana-esta-en-la-elite-pese-a-que-le-falta-mas-respaldo/",
+        "date": "2024-12-24 01:47:30",
+        "sentiment_score": 0.5498077794909477
+    },
+    {
+        "title": "IU ve que hubo descoordinación en la dana: a la gente le da igual quién tiene competencias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/iu-ve-que-hubo-descoordinacion-en-la-dana-a-la-gente-le-da-igual-quien-tiene-competencias/",
+        "date": "2024-12-24 01:47:08",
+        "sentiment_score": -0.8841323060914874
+    },
+    {
+        "title": "Robbie Williams ofrecerá el 5 de julio en el RCDE Stadium su único concierto en España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/robbie-williams-ofrecera-el-5-de-julio-en-el-rcde-stadium-su-unico-concierto-en-espana/",
+        "date": "2024-12-24 01:33:23",
+        "sentiment_score": 0.221303453668952
+    },
+    {
+        "title": "Gobierno amplía ERTE a más zonas y aprueba permisos retribuidos para afectados por dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/gobierno-amplia-erte-a-mas-zonas-y-aprueba-permisos-retribuidos-para-afectados-por-dana/",
+        "date": "2024-12-24 01:33:04",
+        "sentiment_score": 0.3539169281721115
+    },
+    {
+        "title": "Podemos pide la dimisión de Albares por condenar ataques contra aficionados del Maccabi",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/podemos-pide-la-dimision-de-albares-por-condenar-ataques-contra-aficionados-del-maccabi/",
+        "date": "2024-12-24 01:32:45",
+        "sentiment_score": -0.8928557615727186
+    },
+    {
+        "title": "Álvaro Morte, 'El profesor' de 'La Casa de Papel', tiene nueva misión en el cine: 'Raqa'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/alvaro-morte-el-profesor-de-la-casa-de-papel-tiene-nueva-mision-en-el-cine-raqa/",
+        "date": "2024-12-24 01:32:24",
+        "sentiment_score": -0.402725413441658
+    },
+    {
+        "title": "Desarrollan modelos de Inteligencia artificial para personalizar terapias contra el cáncer",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/desarrollan-modelos-de-inteligencia-artificial-para-personalizar-terapias-contra-el-cancer/",
+        "date": "2024-12-24 01:32:05",
+        "sentiment_score": 0.22221633791923523
+    },
+    {
+        "title": "Ivanka Trump dice que terminó con la política y no va a volver",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21221181-875170-8640000001-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ivanka-trump-no-vuelva-politica-ush-trax/",
+        "date": "2024-12-24 01:10:18",
+        "sentiment_score": -0.7709450321272016
+    },
+    {
+        "title": "Video muestra a Mangione dentro de la sala del tribunal para su comparecencia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2191189436-20241224005401073.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-luigi-mangione-comparecencia-corte-ush-trax/",
+        "date": "2024-12-24 00:55:44",
+        "sentiment_score": -0.5850751306861639
+    },
+    {
+        "title": "Cómo manejar el estrés y disfrutar de las fiestas de fin de año",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190325934.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estres-fiestas-fin-de-ano-minuto-de-salud-fast/",
+        "date": "2024-12-24 00:00:30",
+        "sentiment_score": 0.6476192474365234
+    },
+    {
+        "title": "El novio de Ayuso pide al Supremo intervenir las comunicaciones de seis periodistas protegidos por el secreto profesional",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JY6OWQPBZZDP5GBXXXJTZPYF7Q.jpg?auth=28f79738f25dc9439cc5c58ccc54bf6da1314192cb6d05be7e175cd5ffc12811&width=1200",
+        "tags": [
+            "periodismo",
+            "tribunal supremo",
+            "isabel díaz ayuso",
+            "españa",
+            "tribunales",
+            "caso ayuso",
+            "cadena ser",
+            "alberto gonzález amador"
+        ],
+        "link": "https://elpais.com/espana/2024-12-23/el-novio-de-ayuso-pide-al-supremo-intervenir-las-comunicaciones-de-seis-periodistas-protegidos-por-el-secreto-profesional.html",
+        "date": "2024-12-23 23:27:04",
+        "sentiment_score": -0.24805784225463867
+    },
+    {
+        "title": "Rodrygo y Lucas Vázquez, un mes de baja por lesiones musculars",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/11/rodrygo-y-lucas-vazquez-un-mes-de-baja-por-lesiones-musculars/",
+        "date": "2024-12-24 02:03:26",
+        "sentiment_score": -0.7885408718138933
+    },
+    {
+        "title": "Las series más vistas en Netflix México para pasar horas frente a la pantalla",
+        "image_url": "https://www.infobae.com/resizer/v2/J3L2C5ZCLNCXDO2E3LHHMBBC4Q.jpg?auth=4a0635e62d653a43d90590bb2be1443b786a0ff4a6e61977cb868599942ce218&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/12/24/las-series-mas-vistas-en-netflix-mexico-para-pasar-horas-frente-a-la-pantalla/",
+        "date": "2024-12-24 02:01:20",
+        "sentiment_score": 0.7186007425189018
+    },
+    {
+        "title": "El Gobierno extiende el código hipotecario para congelar las hipotecas 12 meses más",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/el-gobierno-extiende-el-codigo-hipotecario-para-congelar-las-hipotecas-12-meses-mas/",
+        "date": "2024-12-24 01:17:42",
+        "sentiment_score": 0.3160110041499138
+    },
+    {
+        "title": "Estas son las series mas populares para ver en Netflix Colombia hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/FLTXDDV7ZBBTNBAX5XQX2KRYZM.jpg?auth=0617d480211460153e7f96d0d01739d011a54e77c954daddbea3a5e00f66145b&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/12/24/estas-son-las-series-mas-populares-para-ver-en-netflix-colombia-hoy/",
+        "date": "2024-12-24 01:16:02",
+        "sentiment_score": 0.5169250033795834
+    },
+    {
+        "title": "Bryan Gil citado por Lamine Yamal",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/11/bryan-gil-citado-por-lamine-yamal/",
+        "date": "2024-12-24 01:02:51",
+        "sentiment_score": -0.42305072396993637
+    },
+    {
+        "title": "El 'nuevo' Sumar de Yolanda Díaz: renuncia a una implantación real, se garantiza que nadie le haga sombra y da por obsoleto el estilo de Podemos",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/529a295a947643057048e480704d2e0b/crop/58x61/972x975/f/image/jpeg/assets/multimedia/imagenes/2022/05/04/16516612044253.jpg",
+        "tags": [
+            "yolanda díaz",
+            "sumar",
+            "podemos",
+            "artículos álvaro carvajal"
+        ],
+        "link": "https://www.elmundo.es/espana/2024/12/24/6769af51e4d4d896038b4583.html",
+        "date": "2024-12-24 01:00:53",
+        "sentiment_score": -0.8131836373358965
+    },
+    {
+        "title": "Venta anticipada de palcos VIP, la jugada de riesgo de Laporta que complica la devolución del crédito a Goldman Sachs",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/24/culemania/palco/911168875_13909310_1706x960.png?contentId=ESPIMA20241224_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241224/venta-de-vip-la-laporta-goldman-sachs/910909000_0.html",
+        "date": "2024-12-24 00:54:36",
+        "sentiment_score": 0.06877568364143372
+    },
+    {
+        "title": "Incentivos para que los asturianos no tengan que emigrar: así busca Asturias la receta contra la fuga de talento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/289d737b-0758-4ced-bf57-e349c5fbee0f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2024/12/24/incentivos-asturianos-tengan-emigrar-busca-112889286.html",
+        "date": "2024-12-24 00:53:29",
+        "sentiment_score": 0.06808215379714966
+    },
+    {
+        "title": "Michael Schumacher se convertirá en abuelo a 11 años de la tragedia que lo alejó del ojo público",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/YMZQEPE7Z5EPBJUW23DAEYCBOY.jpg?auth=5301dbdaa0ff714cad454795836859392748d22adf5c473d3a219c3d3edd6ed0&height=572&smart=true&width=858",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2024/12/24/michael-schumacher-se-convertira-en-abuelo-a-11-anos-de-la-tragedia-que-lo-alejo-del-ojo-publico/",
+        "date": "2024-12-24 00:46:52",
+        "sentiment_score": 0.09926920384168625
+    },
+    {
+        "title": "Revelaron el truco de Ronaldinho para organizar una fastuosa fiesta de madrugada por la Navidad sin molestar a los vecinos",
+        "image_url": "https://www.infobae.com/resizer/v2/MKO6XGCOSBHDTJIOIUEQCZ55NA.jpg?auth=9456c459a6cad63ad358dad054b6efabeacd5df39dd5cbfe9db36ff3e8aaa63a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/24/revelaron-el-truco-de-ronaldinho-para-organizar-una-fastuosa-fiesta-de-madrugada-por-la-navidad-sin-molestar-a-los-vecinos/",
+        "date": "2024-12-24 00:38:56",
+        "sentiment_score": 0.007331244647502899
+    },
+    {
+        "title": "Gran ritmo de adopción 'versus' falta de perfiles profesionales: la doble velocidad de las tecnologías exponenciales",
+        "image_url": "https://s1.elespanol.com/2024/12/04/enclave-ods/opinion/906169474_251406878_1706x960.jpg?contentId=ESPIMA20241204_0100",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20241224/gran-ritmo-adopcion-versus-falta-perfiles-profesionales-doble-velocidad-tecnologias-exponenciales/910159013_0.html",
+        "date": "2024-12-24 01:22:50",
+        "sentiment_score": 0.6714267823845148
+    },
+    {
+        "title": "De Mikimoto en TVE a Pere Soler en la CNMC: el jefe de los Mossos de Puigdemont que ve a España \"un país de pandereta\"",
+        "image_url": "https://s1.elespanol.com/2024/12/23/invertia/empresas/910919625_251915061_1706x960.jpg?contentId=ESPIMA20241223_0726",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20241224/mikimoto-tve-pere-soler-cnmc-jefe-mossos-puigdemont-ve-espana-pais-pandereta/910909400_0.html",
+        "date": "2024-12-24 01:06:59",
+        "sentiment_score": -0.4126802235841751
+    },
+    {
+        "title": "Salvador Illa aboga por superar el “sufrimiento” del procés y avanza en su plan de gobierno",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/24/2024122401233549708.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/salvador-illa-aboga-superar-sufrimiento-proces-avanza-plan-gobierno/20241224013832328425.html",
+        "date": "2024-12-24 00:38:32",
+        "sentiment_score": -0.29722482711076736
+    },
+    {
+        "title": "El año que la inteligencia artificial tomó los móviles: de traducir conversaciones a que nunca salga mal una foto",
+        "image_url": "https://s1.elespanol.com/2024/05/27/elandroidelibre/noticias-y-novedades/858424359_243504173_1706x960.jpg?contentId=ESPIMA20240527_0210",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20241224/ano-inteligencia-artificial-tomo-moviles-traducir-conversaciones-nunca-salga-mal-foto/908409527_0.html",
+        "date": "2024-12-24 00:28:02",
+        "sentiment_score": 0.1536974012851715
+    },
+    {
+        "title": "La sorpresa de Álvaro Morata para que Víctor Martínez, un joven con discapacidad, corra la San Silvestre: \"Va a tirar él solo en la carrera\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/12/23/6769def0ac56b.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/sorpresa-alvaro-morata-victor-martinez-joven-discapacidad-corra-san-silvestre-tirar-carrera-20241224_3068120.html",
+        "date": "2024-12-24 00:26:10",
+        "sentiment_score": 0.11086562275886536
+    },
+    {
+        "title": "¿Por qué las personas hablan dormidas?",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735005070136.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/por-que-las-personas-hablan-dormidas--2024122321450",
+        "date": "2024-12-24 01:45:00",
+        "sentiment_score": -0.010583236813545227
+    },
+    {
+        "title": "Acusan a indocumentado de quemar viva a una mujer en el metro de Nueva York",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735007974543.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/acusan-a-indocumentado-de-quemar-viva-a-una-mujer-en-el-metro-de-nueva-york-2024122321450",
+        "date": "2024-12-24 01:45:00",
+        "sentiment_score": -0.8044975381344557
+    },
+    {
+        "title": "EEUU | Conoce cómo sacar una cita por CBP One si eres venezolano",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735005277278.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-conoce-como-sacar-una-cita-por-cbp-one-si-eres-venezolano-2024122321390",
+        "date": "2024-12-24 01:39:00",
+        "sentiment_score": 0.17067048698663712
+    },
+    {
+        "title": "MP anuncia 46 nuevas excarcelaciones este #23Dic",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735002279098.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/mp-anuncia-46-nuevas-excarcelaciones-este-23dic-2024122321300",
+        "date": "2024-12-24 01:30:00",
+        "sentiment_score": 0.2779858633875847
+    },
+    {
+        "title": "Mega Millions: Sepa cómo jugar por casi 1.000 mdd este #24Dic",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735002198558.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/mega-millions-sepa-como-jugar-por-casi-1-000-mdd-este-24dic-202412232120",
+        "date": "2024-12-24 01:02:00",
+        "sentiment_score": 0.13359523378312588
+    },
+    {
+        "title": "¿Por qué salen llagas en la boca?",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1734999786328.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/por-que-salen-llagas-en-la-boca--2024122320180",
+        "date": "2024-12-24 00:18:00",
+        "sentiment_score": -0.4312858246266842
+    },
+    {
+        "title": "California: Sepa cómo recibir el beneficio CalFresh en enero",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1734999291438.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-sepa-como-recibir-el-beneficio-calfresh-en-enero-2024122320140",
+        "date": "2024-12-24 00:14:00",
+        "sentiment_score": 0.541909147053957
+    },
+    {
+        "title": "Hospitalizan al expresidente Bill Clinto (+Detalles)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1734999744645.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/hospitalizan-al-expresidente-bill-clinto-detalles--2024122320120",
+        "date": "2024-12-24 00:12:00",
+        "sentiment_score": -0.4116942882537842
+    },
+    {
+        "title": "Zoom implementa horario especial para el 24 de diciembre",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1734995326372.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/zoom-implementa-horario-especial-para-el-24-de-diciembre-202412232030",
+        "date": "2024-12-24 00:03:00",
+        "sentiment_score": 0.10953834839165211
+    },
+    {
+        "title": "Así reciben en Colombia al excapo Fabio Ochoa Vásquez (+VIDEOS)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1734996326523.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/asi-reciben-en-colombia-al-excapo-fabio-ochoa-vasquez-videos--202412232000",
+        "date": "2024-12-24 00:00:00",
+        "sentiment_score": -0.716107552871108
     }
 ];
