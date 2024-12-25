@@ -100,16 +100,6 @@ export default [
         "sentiment_score": -0.7769997715950012
     },
     {
-        "title": "Última hora del atropello en el mercado navideño de Alemania, en vivo: noticias, arrestos y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/Mercado-alemania.jpg?quality=100&strip=info",
-        "tags": [
-            "alemania"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/21/ultima-hora-del-atropello-en-el-mercado-navideno-de-alemania-en-vivo-noticias-arrestos-y-mas-trax/",
-        "date": "2024-12-21 10:55:23",
-        "sentiment_score": -0.8492220714688301
-    },
-    {
         "title": "Estados Unidos retira la recompensa de diez millones de dólares por Al Jolani",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/21/algolani-REeWnGdQTXTgEiiVMd9riGO-1200x840@diario_abc.jpg",
         "tags": [
@@ -128,26 +118,6 @@ export default [
         "link": "https://www.abc.es/internacional/francia-advierte-aumento-amenaza-terrorista-navidad-20241221170658-nt.html",
         "date": "2024-12-21 16:06:58",
         "sentiment_score": -0.20378175377845764
-    },
-    {
-        "title": "Olaf Scholz, desde el mercadillo navideño atacado, promete actuar contra quienes «quieren sembrar el odio»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/21/1490236543-kJX-U7023711177lwE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/olaf-scholz-mercadillo-navideno-atacado-promete-actuar-20241221151238-nt.html",
-        "date": "2024-12-21 14:13:25",
-        "sentiment_score": -0.2986166626214981
-    },
-    {
-        "title": "La dictadura cubana organiza protestas contra el 'bloqueo', mientras la mitad del país está sin electricidad",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/21/desfile02-RalgpFV3LtdiImDZzW7HF0M-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/dictadura-cubana-organiza-protestas-bloqueo-20241221133916-nt.html",
-        "date": "2024-12-21 13:03:46",
-        "sentiment_score": -0.12642832100391388
     },
     {
         "title": "El Govern y los Comuns pactan mantener la bonificación al transporte público en 2025",
@@ -188,35 +158,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-21/alegria-se-presenta-para-liderar-el-psoe-de-aragon-con-un-mensaje-de-unidad-este-proyecto-no-excluye-a-nadie-voy-a-por-todas.html",
         "date": "2024-12-21 14:23:06",
         "sentiment_score": 0.47064001113176346
-    },
-    {
-        "title": "Sánchez critica las cesiones de la derecha tradicional al populismo ultra",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KO2KG73LDVCWHC347TPFJWK6II.jpg?auth=75b6abcda63f6280c1b4955e80c2ebb41bd21a812eee55f620cfecc92a9ae5c8&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-21/sanchez-critica-las-cesiones-de-la-derecha-tradicional-al-populismo-ultra.html",
-        "date": "2024-12-21 13:22:11",
-        "sentiment_score": 0.6669181995093822
-    },
-    {
-        "title": "¿Dónde viven los argentinos en Madrid?",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UEDEIM5N4FHLHM2J74BD64ECRA.png?auth=655ee6d1ec25d54d5e980f2160b8d029b4f26fce386da78ec8b7d0cd4df54d5a&width=1200",
-        "tags": [
-            "hispanos",
-            "madrid",
-            "población",
-            "inmigración",
-            "censo",
-            "latinos",
-            "noticias de españa",
-            "argentina",
-            "comunidad de madrid",
-            "américa"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-21/donde-viven-los-argentinos-en-madrid.html",
-        "date": "2024-12-21 11:15:00",
-        "sentiment_score": -0.058682650327682495
     },
     {
         "title": "Xita Rubert y el padre extravagante",
@@ -6939,5 +6880,365 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/pensamiento/20241224/manuel-valls-resurreccion-fobia/911288867_13.html",
         "date": "2024-12-24 21:00:00",
         "sentiment_score": -0.9172533582895994
+    },
+    {
+        "title": "Detenido en Sevilla un conductor ebrio, sin seguro ni ITV buscado por dos juzgados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/detenido-en-sevilla-un-conductor-ebrio-sin-seguro-ni-itv-buscado-por-dos-juzgados/",
+        "date": "2024-12-25 02:03:29",
+        "sentiment_score": -0.571406276896596
+    },
+    {
+        "title": "La Guardia Civil neutraliza tres artefactos de la Guerra Civil localizados tras movimientos de tierra por la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/A6OY5V4S4BFPNID7A7D54VD5R4.jpg?auth=a3bc46300242e40f5f7d68f5bddbf90ee5ae0129f3e2247b07abe880442c3dbf&height=1282&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-guardia-civil-neutraliza-tres-artefactos-de-la-guerra-civil-localizados-tras-movimientos-de-tierra-por-la-dana/",
+        "date": "2024-12-25 02:03:11",
+        "sentiment_score": -0.6063819080591202
+    },
+    {
+        "title": "El Congreso celebra mañana la primera votación de los consejeros de RTVE propuestos por PSOE y sus socios",
+        "image_url": "https://www.infobae.com/resizer/v2/MZ5B2UI4ZVCADNKOHFISGBYKVQ.jpg?auth=139ce4d9f770f3c5bb51c17a408b9c6eb73951c50fe57f5254aab41eaee34ece&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/el-congreso-celebra-manana-la-primera-votacion-de-los-consejeros-de-rtve-propuestos-por-psoe-y-sus-socios/",
+        "date": "2024-12-25 02:02:31",
+        "sentiment_score": 0.0887312963604927
+    },
+    {
+        "title": "La Generalitat ya ha abonado los 365,6 millones previstos por la sentencia de ATL",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-generalitat-ya-ha-abonado-los-3656-millones-previstos-por-la-sentencia-de-atl/",
+        "date": "2024-12-25 01:18:22",
+        "sentiment_score": -0.16860724240541458
+    },
+    {
+        "title": "Petrobras pone en operación una unidad capaz de elevar en 11,5 % su oferta de gas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/petrobras-pone-en-operacion-una-unidad-capaz-de-elevar-en-115-su-oferta-de-gas/",
+        "date": "2024-12-25 01:18:03",
+        "sentiment_score": 0.6685493960976601
+    },
+    {
+        "title": "Retirada del lodo y refuerzo de la seguridad, prioridades de los polígonos industriales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/retirada-del-lodo-y-refuerzo-de-la-seguridad-prioridades-de-los-poligonos-industriales/",
+        "date": "2024-12-25 01:17:43",
+        "sentiment_score": 0.26852190494537354
+    },
+    {
+        "title": "El Obradoiro acudirá al mercado si se confirma la lesión de Tomeu Rigo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/el-obradoiro-acudira-al-mercado-si-se-confirma-la-lesion-de-tomeu-rigo/",
+        "date": "2024-12-25 01:17:24",
+        "sentiment_score": -0.8886926900595427
+    },
+    {
+        "title": "Barceló: La pintura es como Drácula, siempre se habla de su muerte, pero siempre resucita",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/barcelo-la-pintura-es-como-dracula-siempre-se-habla-de-su-muerte-pero-siempre-resucita/",
+        "date": "2024-12-25 01:17:06",
+        "sentiment_score": 0.34427861869335175
+    },
+    {
+        "title": "Los cines en los municipios de la dana recibirán entre 12.000 y 59.000 euros de ayuda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/los-cines-en-los-municipios-de-la-dana-recibiran-entre-12000-y-59000-euros-de-ayuda/",
+        "date": "2024-12-25 01:03:23",
+        "sentiment_score": 0.5546111352741718
+    },
+    {
+        "title": "CC reclama a Interior que refuerce de forma estable el control de pasaportes en el aeropuerto Tenerife Sur",
+        "image_url": "https://www.infobae.com/resizer/v2/754UYX4YPBAJFC23WURQEPTO4Q.jpg?auth=ffc57e142b9418deda4eb7ff86ebda55db571e522fb7e7cc3aae6889340e97c3&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/cc-reclama-a-interior-que-refuerce-de-forma-estable-el-control-de-pasaportes-en-el-aeropuerto-tenerife-sur/",
+        "date": "2024-12-25 01:03:05",
+        "sentiment_score": -0.4601389020681381
+    },
+    {
+        "title": "Papa Francisco da inicio al Jubileo 2025 al abrir la Puerta Santa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francisco-inicio-jubileo-2025-puerta-santa-roma-panorama-mundial/",
+        "date": "2024-12-25 02:02:04",
+        "sentiment_score": 0.43144113570451736
+    },
+    {
+        "title": "Mario Iván Martínez aborda la infancia de Francisco Gabilondo Soler en “De niños, pianos y un grillito”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cricrithumb.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gabilondo-soler-ninos-pianos-grillito-aristegui-tv/",
+        "date": "2024-12-25 01:18:28",
+        "sentiment_score": -0.05720452964305878
+    },
+    {
+        "title": "Ibai Llanos muestra cómo logró su cambio físico en 100 días",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/ibai-orix-00-01-15-15-still002.jpg?quality=100&strip=info",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ibai-llanos-cambio-fisico-cien-dias-orix/",
+        "date": "2024-12-25 00:57:25",
+        "sentiment_score": 0.547037910670042
+    },
+    {
+        "title": "¿Qué cenan los mexicanos en Nochebuena?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1236363387.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cena-navidad-mexicanos-comprar-ultimo-minuto-perspectivas-mexico-tv/",
+        "date": "2024-12-25 00:08:25",
+        "sentiment_score": -0.2699066810309887
+    },
+    {
+        "title": "Así pasan la víspera de Navidad algunos migrantes que avanzan por México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/navidad-migrantes-donaciones-ush-dusa-tv/",
+        "date": "2024-12-24 23:40:10",
+        "sentiment_score": 0.36472852528095245
+    },
+    {
+        "title": "Sospechoso de prender fuego a mujer en el metro de Nueva York enfrenta cargos de asesinato e incendio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-3027117.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nyc-metro-incendio-sospechoso-ush-dusa-tv/",
+        "date": "2024-12-24 23:34:17",
+        "sentiment_score": -0.7634093668311834
+    },
+    {
+        "title": "Consejos para mantenerse saludable durante las fiestas de fin de año",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/sequence-01-00-01-23-17-still002.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fiestas-fin-de-ano-saludables-minuto-de-salud-fast/",
+        "date": "2024-12-24 23:14:11",
+        "sentiment_score": 0.4488733671605587
+    },
+    {
+        "title": "El hombre acusado de quemar viva a una mujer en el metro de Nueva York confiesa que había bebido «mucho»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/25/ny-kCTH-U7035087728r8E-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/hombre-acusado-quemar-viva-mujer-metro-nueva-20241225015929-nt.html",
+        "date": "2024-12-25 01:00:50",
+        "sentiment_score": -0.3276115506887436
+    },
+    {
+        "title": "Al cole en un búnker a tiro de la frontera con Rusia",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/25/sumy1-RaVoLgx0DJXgmMoSOuuMbIP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/olga-gatos-esperan-rusos-sumy-20241225165302-nt.html",
+        "date": "2024-12-25 00:22:26",
+        "sentiment_score": -0.10204458236694336
+    },
+    {
+        "title": "Miércoles, 25 de diciembre de 2024 (02:00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/25/miercoles-25-de-diciembre-de-2024-0200-gmt/",
+        "date": "2024-12-25 02:00:35",
+        "sentiment_score": -0.015093639492988586
+    },
+    {
+        "title": "El sorteo del Mundial de Clubes 2025 será el 5 de diciembre en Miami",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/11/el-sorteo-del-mundial-de-clubes-2025-sera-el-5-de-diciembre-en-miami/",
+        "date": "2024-12-25 01:33:21",
+        "sentiment_score": 0.12379197776317596
+    },
+    {
+        "title": "El Valencia confirma a Carlos Corberán como nuevo técnico hasta 2027",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/25/el-valencia-confirma-a-carlos-corberan-como-nuevo-tecnico-hasta-2027/",
+        "date": "2024-12-25 01:00:18",
+        "sentiment_score": 0.18580810353159904
+    },
+    {
+        "title": "Isco: \"Siempre tengo en mente volver a la selección, lo primero es recuperarse bien y volver sin problemas\"",
+        "image_url": "https://www.infobae.com/resizer/v2/FQVBKGH2FNA2BAWGBLDVXKSQFY.jpg?auth=33e56ec970f9bd465ad48264d4657eb57be777d58383752d82e19a62211f2be0&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/11/isco-siempre-tengo-en-mente-volver-a-la-seleccion-lo-primero-es-recuperarse-bien-y-volver-sin-problemas/",
+        "date": "2024-12-25 00:47:12",
+        "sentiment_score": 0.417879331856966
+    },
+    {
+        "title": "La Infantería de Marina ensaya un despliegue en la frontera entre Rumania y Ucrania con ataque a trincheras",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/24/676a8ba783c45.r_d.533-249-11111.jpeg",
+        "tags": [
+            "defensa y fuerzas armadas"
+        ],
+        "link": "https://www.eldebate.com/espana/defensa/20241225/infanteria-marina-ensaya-despliegue-frontera-entre-rumania-ucrania-ataque-trincheras_255987.html",
+        "date": "2024-12-25 00:30:00",
+        "sentiment_score": -0.8586138542741537
+    },
+    {
+        "title": "Carlos Corberán entrenará al Valencia tras confirmar su salida el West Bromwich Albion",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/25/carlos-corberan-entrenara-al-valencia-tras-confirmar-su-salida-el-west-bromwich-albion/",
+        "date": "2024-12-25 00:15:34",
+        "sentiment_score": -0.0755954161286354
+    },
+    {
+        "title": "Reacciones políticas al discurso de Navidad del Rey",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/12/24/felipe-vi-hay-una-clamorosa-demanda-de-serenidad-ante-la-atronadora-contienda-politica.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2024/12/25/primeras-reacciones-politicas-discurso-navidad-rey-felipe-1787939.html",
+        "date": "2024-12-24 23:57:26",
+        "sentiment_score": -0.15417422354221344
+    },
+    {
+        "title": "El estadio Santiago Bernabéu acoge una cena de Navidad para 200 personas vulnerables",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2024/12/25/cena-solidaria-de-mensajeros-por-la-paz.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2024/12/25/estadio-santiago-bernabeu-cena-nochebuena-200-personas-vulnerables-1787936.html",
+        "date": "2024-12-24 23:39:11",
+        "sentiment_score": 0.7448846977204084
+    },
+    {
+        "title": "Un pionero proyecto de drenaje urbano para 'salvar' a Madrid de las catástrofes: combina la predicción meteorológica con nuevos tanques de tormentas",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/8a9fc387806e96c41575b48c20a16eb0/crop/32x52/1361x1381/f/image/jpeg/assets/multimedia/imagenes/2024/01/16/17053677034470.jpg",
+        "tags": [
+            "artículos daniel somolinos"
+        ],
+        "link": "https://www.elmundo.es/madrid/2024/12/25/676987b9e85eceaa4b8b4587.html",
+        "date": "2024-12-24 23:19:29",
+        "sentiment_score": 0.2738877646625042
+    },
+    {
+        "title": "Cristiano Ronaldo lleva a su familia a Laponia para vacaciones navideñas",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/4/1e/41e4957d-d679-56ce-9740-177045adfcaa/676b4180dda33.image.jpg?resize=300%2C204",
+        "tags": [
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/cristiano-ronaldo-lleva-a-su-familia-a-laponia-para-vacaciones-navide-as/article_d6713708-f115-5f41-b922-276d088c3892.html",
+        "date": "2024-12-24 23:07:10",
+        "sentiment_score": -0.41794536262750626
+    },
+    {
+        "title": "Cities worldwide hold subdued Christmas Eve celebrations amid conflicts",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.woonsocketcall.com/news/national_and_world_news/cities-worldwide-hold-subdued-christmas-eve-celebrations-amid-conflicts/article_aa364171-675c-5998-ba2c-209d9f7ef68f.html",
+        "date": "2024-12-25 00:44:48",
+        "sentiment_score": -0.7193401493132114
+    },
+    {
+        "title": "Magdeburgo",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/15/666cc4387ad74.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241225/magdeburgo_256014.html",
+        "date": "2024-12-25 00:30:00",
+        "sentiment_score": -0.04063832759857178
+    },
+    {
+        "title": "Las malas noticias no llegan solas a Can Barça",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/25/2024122500563773157.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/malas-noticias-llegan-solas-can-barca/20241225005711328586.html",
+        "date": "2024-12-24 23:57:11",
+        "sentiment_score": -0.3053804188966751
+    },
+    {
+        "title": "Ampliación de cobertura EFE Audiovisual Internacional 11 de noviembre (16.00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/11/ampliacion-de-cobertura-efe-audiovisual-internacional-11-de-noviembre-1600-gmt/",
+        "date": "2024-12-24 23:32:48",
+        "sentiment_score": -0.3492925092577934
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 25 de diciembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/24/hoy-sera-noticia-miercoles-25-de-diciembre/",
+        "date": "2024-12-24 23:15:25",
+        "sentiment_score": 0.03302280977368355
+    },
+    {
+        "title": "El paseo de Gràcia acoge el desfile de la Festa Florida",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/25/676b3ef57c994.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20241225/10237307/paseo-gracia-acoge-desfile-festa-florida.html",
+        "date": "2024-12-24 23:08:37",
+        "sentiment_score": 0.14668461680412292
+    },
+    {
+        "title": "La justicia rechaza amnistiar al independentista condenado por una protesta anti-Jusapol",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-justicia-rechaza-amnistiar-al-independentista-condenado-por-una-protesta-anti-jusapol/",
+        "date": "2024-12-24 22:47:27",
+        "sentiment_score": -0.9263843083754182
     }
 ];
