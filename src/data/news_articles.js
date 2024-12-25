@@ -1,353 +1,5 @@
 export default [
     {
-        "title": "Baldoví cree que la manifestación contra Mazón \"marca un antes y un después\": \"Debe dimitir de manera inmediata\"",
-        "image_url": "https://www.infobae.com/resizer/v2/WGYY7WGZKNEQPMW6GG6MBNCUTM.jpg?auth=f8c1c1e80ae1351273a41dc6aad297cc0e13cf392711067c77b3551378b1b481&height=1211&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/baldovi-cree-que-la-manifestacion-contra-mazon-marca-un-antes-y-un-despues-debe-dimitir-de-manera-inmediata/",
-        "date": "2024-12-21 17:03:27",
-        "sentiment_score": 0.023353636264801025
-    },
-    {
-        "title": "PP ve mala noticia que \"la portavoz de las mentiras de Sánchez\" pueda liderar PSOE Aragón",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/21/pp-ve-mala-noticia-que-la-portavoz-de-las-mentiras-de-sanchez-pueda-liderar-psoe-aragon/",
-        "date": "2024-12-21 17:00:21",
-        "sentiment_score": -0.9156677750870585
-    },
-    {
-        "title": "El Tesoro celebra esta semana una subasta de letras a 3 y 9 meses, la primera tras la Fed",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/el-tesoro-celebra-esta-semana-una-subasta-de-letras-a-3-y-9-meses-la-primera-tras-la-fed/",
-        "date": "2024-12-21 16:48:27",
-        "sentiment_score": -0.200180321931839
-    },
-    {
-        "title": "Ford Almussafes retoma la actividad desde este lunes, pero solo en el turno de la mañana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/ford-almussafes-retoma-la-actividad-desde-este-lunes-pero-solo-en-el-turno-de-la-manana/",
-        "date": "2024-12-21 16:48:08",
-        "sentiment_score": -0.36771857738494873
-    },
-    {
-        "title": "Montero pide dejar el \"politiqueo\" y aprobar los PGE para ayudar a Valencia: \"Es impropio llamarlo chantaje\"",
-        "image_url": "https://www.infobae.com/resizer/v2/ZCWTYNRYMJH5NLDMR4PWDX5PM4.jpg?auth=66d534bf79602fd976abe104e96c29e49a6103eada3dca30cbb2b37aac33e230&height=1268&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/montero-pide-dejar-el-politiqueo-y-aprobar-los-pge-para-ayudar-a-valencia-es-impropio-llamarlo-chantaje/",
-        "date": "2024-12-21 16:47:49",
-        "sentiment_score": -0.8100945428013802
-    },
-    {
-        "title": "El español Javier Habans, campeón del mundo sub-16 invicto en Brasil",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/el-espanol-javier-habans-campeon-del-mundo-sub-16-invicto-en-brasil/",
-        "date": "2024-12-21 16:47:28",
-        "sentiment_score": 0.826052363961935
-    },
-    {
-        "title": "Iñaki Williams (445) entra en el 'top 10' de partidos con el Athletic",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/21/inaki-williams-445-entra-en-el-top-10-de-partidos-con-el-athletic/",
-        "date": "2024-12-21 16:47:26",
-        "sentiment_score": 0.5450216270983219
-    },
-    {
-        "title": "Kike Barja y Unai Simón, titulares en El Sadar",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/21/kike-barja-y-unai-simon-titulares-en-el-sadar/",
-        "date": "2024-12-21 16:47:09",
-        "sentiment_score": 0.033748552203178406
-    },
-    {
-        "title": "Los números que dieron fortuna a los nuevos ganadores de Super Once",
-        "image_url": "https://www.infobae.com/resizer/v2/DVDLEDHU35FHFHWM3JYJMKWCPU.jpg?auth=a9394fe2db9de14c4cfde40a8ba3ed64d4ee356bd619384111848fde22e35d4d&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/21/los-numeros-que-dieron-fortuna-a-los-nuevos-ganadores-de-super-once/",
-        "date": "2024-12-21 16:45:26",
-        "sentiment_score": 0.12323660962283611
-    },
-    {
-        "title": "Fallece un motorista tras sufrir una caída y ser atropellado en Puerto Real (Cádiz)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/fallece-un-motorista-tras-sufrir-una-caida-y-ser-atropellado-en-puerto-real-cadiz/",
-        "date": "2024-12-21 16:33:06",
-        "sentiment_score": -0.7769997715950012
-    },
-    {
-        "title": "Estados Unidos retira la recompensa de diez millones de dólares por Al Jolani",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/21/algolani-REeWnGdQTXTgEiiVMd9riGO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/estados-unidos-retira-recompensa-diez-millones-dolares-20241221180751-nt.html",
-        "date": "2024-12-21 17:08:17",
-        "sentiment_score": -0.14473019540309906
-    },
-    {
-        "title": "Francia advierte del aumento de la amenaza terrorista esta Navidad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/21/police-R3HcQHGUbBHbsUikneqbz0L-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/francia-advierte-aumento-amenaza-terrorista-navidad-20241221170658-nt.html",
-        "date": "2024-12-21 16:06:58",
-        "sentiment_score": -0.20378175377845764
-    },
-    {
-        "title": "El Govern y los Comuns pactan mantener la bonificación al transporte público en 2025",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GVFNIHJPJRBFFPLXKTS5XWX5AQ.jpg?auth=e86353176e7a8473905ce7e0434324fe16604510df65795802d0052ca7a8e0fd&width=1200",
-        "tags": [
-            "metro",
-            "salvador illa",
-            "cataluña",
-            "transporte",
-            "renfe",
-            "barcelona",
-            "transporte público",
-            "psc",
-            "trenes",
-            "autobuses",
-            "tranvía",
-            "govern cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-21/el-govern-y-los-comuns-pactan-mantener-la-bonificacion-al-transporte-publico-en-2025.html",
-        "date": "2024-12-21 16:20:54",
-        "sentiment_score": 0.011068612337112427
-    },
-    {
-        "title": "Alegría se presenta para liderar el PSOE de Aragón con un mensaje de unidad: “Este proyecto no excluye a nadie, voy a por todas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BKOGQIABMBAOPPDQQX3P6LJWWM.jpeg?auth=00534e8fc6d0ece2b9e83291891d929cc6de102f17982d85794ddede53dded7b&width=1200",
-        "tags": [
-            "primarias psoe",
-            "aragón",
-            "comunidades autónomas",
-            "gobierno de españa",
-            "psoe",
-            "barones psoe",
-            "javier lambán montañés",
-            "la zaida",
-            "pilar alegría",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-21/alegria-se-presenta-para-liderar-el-psoe-de-aragon-con-un-mensaje-de-unidad-este-proyecto-no-excluye-a-nadie-voy-a-por-todas.html",
-        "date": "2024-12-21 14:23:06",
-        "sentiment_score": 0.47064001113176346
-    },
-    {
-        "title": "Xita Rubert y el padre extravagante",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2024/06/25/ter-xita-rubert-k0nB-U230315215623iHF-1200x840@El%20Correo.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/culturas/territorios/xita-rubert-padre-extravagante-20241221180642-nt.html",
-        "date": "2024-12-21 17:06:43",
-        "sentiment_score": 0.5438525229692459
-    },
-    {
-        "title": "(Previa) El Valencia-Alavés y el Las Palmas-Espanyol preceden a una Nochebuena caliente en el descenso",
-        "image_url": "https://www.infobae.com/resizer/v2/552VCOSH6ZHUFJ7MJ4GBQ5DBRU.jpg?auth=ae1a2b0257b6a723da9e266d57f9873bd7f3aabaf1af5ee7621a4c46b72694cc&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/21/previa-el-valencia-alaves-y-el-las-palmas-espanyol-preceden-a-una-nochebuena-caliente-en-el-descenso/",
-        "date": "2024-12-21 17:01:29",
-        "sentiment_score": 0.654344841837883
-    },
-    {
-        "title": "La semana judicial más negra para el Gobierno acorrala al fiscal general y abre nuevos frentes en Moncloa",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/21/6766e507932a5.r_d.1075-476-6250.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20241221/semana-judicial-negra-gobierno-acorrala-fiscal-general-abre-nuevos-frentes-moncloa_255427.html",
-        "date": "2024-12-21 17:00:13",
-        "sentiment_score": -0.845235588029027
-    },
-    {
-        "title": "El futuro de Rathan-Mayes en el aire: rotaciones, dudas y un Real Madrid incierto",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/21/2024122117583491981.png",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/baloncesto/futuro-rathan-mayes-aire-rotaciones-dudas-real-madrid-incierto/20241221175858547248.html",
-        "date": "2024-12-21 16:58:58",
-        "sentiment_score": 0.819275476038456
-    },
-    {
-        "title": "¿Por qué todos hacen fila en Doña Manolita? La historia detrás de su éxito navideño",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/21/2024122117471653407.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/sociedad/que-todos-hacen-fila-dona-manolita-historia-detras-exito-navideno/20241221174732547241.html",
-        "date": "2024-12-21 16:47:32",
-        "sentiment_score": 0.8595439754426479
-    },
-    {
-        "title": "De Sara Barquinero a García Márquez, las novelas en español más destacadas del 2024",
-        "image_url": "https://static.infolibre.es/clip/4b5c1af9-0e57-4d1f-8629-7b7b0bbcb372_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infolibre.es/cultura/sara-barquinero-garcia-marquez-novelas-espanol-destacadas-2024_1_1919544.html",
-        "date": "2024-12-21 16:46:22",
-        "sentiment_score": -0.11399346590042114
-    },
-    {
-        "title": "La crisis de la vivienda se agravará en 2025: estas son las previsiones para los precios de compra y alquiler",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7A5DFSSG3RE6PI5LELCV6TG74Q.jpg?auth=f974bb4e6e17ede69a233d515db5275c8cb374ee4d34c3a3e959598bff327fbe&width=1200",
-        "tags": [
-            "ministerio de vivienda",
-            "negocios",
-            "agencias inmobiliarias",
-            "vivienda",
-            "economía",
-            "viviendas alquiler",
-            "vivienda segunda mano",
-            "construcción viviendas",
-            "mercado inmobiliario"
-        ],
-        "link": "https://elpais.com/economia/negocios/2024-12-21/la-crisis-de-la-vivienda-se-agravara-en-2025-estas-son-las-previsiones-para-los-precios-de-compra-y-alquiler.html",
-        "date": "2024-12-21 16:45:00",
-        "sentiment_score": -0.832719199359417
-    },
-    {
-        "title": "Los mejores futbolistas se rebelan ante el nuevo torneo gigante de la FIFA",
-        "image_url": "https://dims.apnews.com/dims4/default/b006375/2147483647/strip/true/crop/3460x1946+0+181/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F84%2F9b10affc117d16986ff4aac6b460%2F829a98f971cf430db490e98b56fdee8e",
-        "tags": [
-            "top"
-        ],
-        "link": "https://apnews.com/article/fifa-calendario-rodri-liga-de-campeones-liga-premier-3bd8e6fc1aa6eab12713d3824088dfe4",
-        "date": "2024-12-21 16:43:47",
-        "sentiment_score": 0.025695443153381348
-    },
-    {
-        "title": "Los mejores futbolistas se rebelan ante el nuevo torneo gigante de la FIFA",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/3/dd/3ddd1a25-9ca6-56a4-8261-f7dda4a13e12/6766f1ca6608c.image.jpg?resize=300%2C200",
-        "tags": [
-            "top"
-        ],
-        "link": "https://santamariatimes.com/ap/sports/los-mejores-futbolistas-se-rebelan-ante-el-nuevo-torneo-gigante-de-la-fifa/article_d7ee61a1-e37d-52e7-8573-483aaf8224c2.html",
-        "date": "2024-12-21 16:43:47",
-        "sentiment_score": 0.856626758351922
-    },
-    {
-        "title": "Horarios, premios y dónde verlo, ¡Todo lo que necesitas saber sobre el Sorteo de la Lotería de Navidad 2024!",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/21/2024122117395961476.jpg",
-        "tags": [
-            "arte y vida"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/arte-y-vida/que-hora-empieza-sorteo-navidad-horarios-premios-donde-verlo-todo-que-necesitas-saber-sorteo-loteria-navidad-2024/20241221174143547237.html",
-        "date": "2024-12-21 16:41:43",
-        "sentiment_score": 0.49990259297192097
-    },
-    {
-        "title": "El líder de Desokupa que no vota a Vox por los toros",
-        "image_url": "https://static1.ara.cat/clip/a750b4e8-b585-4480-a55b-8a637d397692_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/politica/lider-desokupa-no-vota-vox-toros_1_5237441.html",
-        "date": "2024-12-21 17:06:20",
-        "sentiment_score": -0.7442527636885643
-    },
-    {
-        "title": "Al menos 5 heridos tras un incendio originado en un ático de un bloque de pisos",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/12/01/2024120113164016931.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/menos-5-heridos-incendio-originado-atico-bloque-pisos/20241221180519439514.html",
-        "date": "2024-12-21 17:05:19",
-        "sentiment_score": 0.11974091082811356
-    },
-    {
-        "title": "Quevedo publica el precio de las entradas de su gira y se desata la polémica en redes",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/22/quevedo-lanza-su-esperado-segundo-disco-buenas-noches.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5666429/0/quevedo-publica-precio-entradas-gira-desata-polemica-redes/",
-        "date": "2024-12-21 17:01:59",
-        "sentiment_score": 0.12740292213857174
-    },
-    {
-        "title": "Belasteguín se despide del pádel profesional con un emotivo homenaje en Barcelona",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/21/belasteguin-se-despide-del-padel-profesional-con-un-emotivo-homenaje-en-barcelona/",
-        "date": "2024-12-21 17:01:28",
-        "sentiment_score": -0.41642025113105774
-    },
-    {
-        "title": "Desconvocada la huelga de recogida de basura prevista para esta Navidad en Barcelona",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/desconvocada-la-huelga-de-recogida-de-basura-prevista-para-esta-navidad-en-barcelona-2959250",
-        "date": "2024-12-21 16:52:08",
-        "sentiment_score": -0.8134592697024345
-    },
-    {
-        "title": "Desconvocada la huelga de los trabajadores de limpieza en Navidad en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/ADFZ5RCESVBZNG47VWKWXEEPNM.jpg?auth=d942ac766831348c339cd924c5a2c7310d21769972da1d62a169652a1cc5a418&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/21/desconvocada-la-huelga-de-los-trabajadores-de-limpieza-en-navidad-en-barcelona/",
-        "date": "2024-12-21 16:45:36",
-        "sentiment_score": -0.8844227036461234
-    },
-    {
-        "title": "El Barça al límite, el desafío de evitar el desastre en la Liga Endesa",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/21/2024122117403015329.jpg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/baloncesto/barca-limite-desafio-evitar-desastre-liga-endesa/20241221174051547234.html",
-        "date": "2024-12-21 16:40:51",
-        "sentiment_score": 0.000434190034866333
-    },
-    {
-        "title": "La previa del Gran Canaria-Casademont: una visita para repetir",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a08498c7-b55d-4c26-905e-fdafa038a9c2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/cai-zaragoza/2024/12/21/previa-gran-canaria-casademont-visita-112829677.html",
-        "date": "2024-12-21 16:38:48",
-        "sentiment_score": 0.591129794716835
-    },
-    {
         "title": "El Banco de España avisa del peligro para la estabilidad financiera de una caída bursátil de las tecnológicas",
         "image_url": "https://www.infobae.com/resizer/v2/7F25A7TVHJG2ZKVIHRK64DAYOM.jpg?auth=5f48c46fad97a649884ddbbc8fa66c7fcab6b4c4150d6480f7e459671f79b1ae&height=1251&smart=true&width=1920",
         "tags": [
@@ -458,16 +110,6 @@ export default [
         "sentiment_score": -0.4774702414870262
     },
     {
-        "title": "“Fue un ataque terrible”: Canciller de Alemania condena el atentado en el mercado navideño de Magdeburgo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190234909.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/scholz-condena-ataque-de-magdeburgo-sot/",
-        "date": "2024-12-21 17:09:26",
-        "sentiment_score": -0.9099152535200119
-    },
-    {
         "title": "Un nuevo pacto de Sevilla con Cervantes",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/22/documento-miguel-cervantes-RD5ONgZRYoB9AHk3WqqddxN-1200x840@diario_abc.jpg",
         "tags": [
@@ -566,23 +208,6 @@ export default [
         "link": "https://www.abc.es/opinion/rebeca-argudo-navidad-20241222193102-nt.html",
         "date": "2024-12-21 18:31:11",
         "sentiment_score": -0.09277787804603577
-    },
-    {
-        "title": "Desconvocada la huelga de recogida de basura prevista para esta Navidad en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5YGNLOXWBVEXFI5AALBGGKP2OQ.jpeg?auth=c4f7e9b950a5c8543d2cd0bbfdf098eed5acd0c4c2928c2b8ca524f89a0e99e3&width=1200",
-        "tags": [
-            "barcelona",
-            "sindicatos",
-            "ayuntamiento barcelona",
-            "huelgas",
-            "cataluña",
-            "servicios públicos",
-            "basura",
-            "navidad"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-21/desconvocada-la-huelga-de-recogida-de-basura-prevista-para-esta-navidad-en-barcelona.html",
-        "date": "2024-12-21 17:13:01",
-        "sentiment_score": 0.18544702231884003
     },
     {
         "title": "«Nos deja un hombre ejemplar, su etapa fue la más brillante de la CAM»",
@@ -7240,5 +6865,414 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-justicia-rechaza-amnistiar-al-independentista-condenado-por-una-protesta-anti-jusapol/",
         "date": "2024-12-24 22:47:27",
         "sentiment_score": -0.9263843083754182
+    },
+    {
+        "title": "Crean una plataforma para fomentar el oleoturismo en ocho provincias españolas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/crean-una-plataforma-para-fomentar-el-oleoturismo-en-ocho-provincias-espanolas/",
+        "date": "2024-12-25 06:18:25",
+        "sentiment_score": 0.5108096823096275
+    },
+    {
+        "title": "La demanda nacional del gas cae el 4,4 % en octubre lastrada por el sector eléctrico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-demanda-nacional-del-gas-cae-el-44-en-octubre-lastrada-por-el-sector-electrico/",
+        "date": "2024-12-25 06:18:06",
+        "sentiment_score": 0.13770264387130737
+    },
+    {
+        "title": "Las diputaciones vascas proponen que las rentas de 85.000 euros no puedan deducir vivienda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/las-diputaciones-vascas-proponen-que-las-rentas-de-85000-euros-no-puedan-deducir-vivienda/",
+        "date": "2024-12-25 06:17:47",
+        "sentiment_score": 0.3913823366165161
+    },
+    {
+        "title": "Sesión con suplentes en Tajonar sin Vicente Moreno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/sesion-con-suplentes-en-tajonar-sin-vicente-moreno/",
+        "date": "2024-12-25 06:17:28",
+        "sentiment_score": -0.011084765195846558
+    },
+    {
+        "title": "La A. Nacional suspende la orden de Sanidad para evitar el intrusismo en cirugía estética",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-a-nacional-suspende-la-orden-de-sanidad-para-evitar-el-intrusismo-en-cirugia-estetica/",
+        "date": "2024-12-25 06:17:09",
+        "sentiment_score": -0.6470227930694818
+    },
+    {
+        "title": "Andalucia activa en fase de preemergencia el plan por inundaciones en Poniente almeriense",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/andalucia-activa-en-fase-de-preemergencia-el-plan-por-inundaciones-en-poniente-almeriense/",
+        "date": "2024-12-25 06:03:26",
+        "sentiment_score": -0.2818385288119316
+    },
+    {
+        "title": "Libertad con cargos para los detenidos por los disturbios en la manifestación contra Mazón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/libertad-con-cargos-para-los-detenidos-por-los-disturbios-en-la-manifestacion-contra-mazon/",
+        "date": "2024-12-25 06:03:04",
+        "sentiment_score": -0.7678075656294823
+    },
+    {
+        "title": "Muere uno de los siete monjes atacados en un monasterio de Gilet (Valencia)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/muere-uno-de-los-siete-monjes-atacados-en-un-monasterio-de-gilet-valencia/",
+        "date": "2024-12-25 06:02:45",
+        "sentiment_score": -0.8822828428819776
+    },
+    {
+        "title": "El PSOE logra el apoyo de Sumar a su paquete fiscal mientras apura la negociación con ERC",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/el-psoe-logra-el-apoyo-de-sumar-a-su-paquete-fiscal-mientras-apura-la-negociacion-con-erc/",
+        "date": "2024-12-25 06:02:26",
+        "sentiment_score": -0.6285602413117886
+    },
+    {
+        "title": "La bolsa sube el 0,4 % y roza los 11.600 puntos con Wall Street en máximos históricos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-bolsa-sube-el-04-y-roza-los-11600-puntos-con-wall-street-en-maximos-historicos/",
+        "date": "2024-12-25 06:02:07",
+        "sentiment_score": 0.3476911261677742
+    },
+    {
+        "title": "Defensa del Estado, de todas sus piezas",
+        "image_url": "https://imagenes.elpais.com/resizer/5B1YtBCOa7krdB927ZH3nRcrdmI=/arc-anglerfish-eu-central-1-prod-prisa/public/BKTYN56LRJBDHIAMRJOLKMNN34.jpg",
+        "tags": [
+            "inundaciones dana octubre 2024",
+            "valencia",
+            "felipe vi",
+            "casa real",
+            "pedro sánchez",
+            "paiporta",
+            "comunidades autónomas",
+            "reina letizia",
+            "inmigración",
+            "gobierno",
+            "dana",
+            "partidos políticos",
+            "vivienda",
+            "monarquía",
+            "mensaje navidad",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-25/defensa-del-estado-de-todas-sus-piezas.html",
+        "date": "2024-12-25 04:40:00",
+        "sentiment_score": -0.22526073455810547
+    },
+    {
+        "title": "Paseo por la Navidad de la dana: “La vida sigue normal ahí fuera pero aquí el barro es eterno”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/V5N3LVQOBVBULK44D7FA7NAZ5E.gif?auth=a918112498a319e271692bbff59c1a965a9e94ff1a2b49ec3bde7c52185e7624&width=1200",
+        "tags": [
+            "inundaciones dana octubre 2024",
+            "inundaciones",
+            "valencia",
+            "paiporta",
+            "catástrofes",
+            "comunidad valenciana",
+            "dana",
+            "catarroja",
+            "mercado abastos",
+            "cambio climático",
+            "navidad",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-25/paseo-por-la-navidad-de-la-dana-la-vida-sigue-normal-ahi-fuera-pero-aqui-el-barro-es-eterno.html",
+        "date": "2024-12-25 04:40:00",
+        "sentiment_score": -0.6063274368643761
+    },
+    {
+        "title": "El año que los Reyes bajaron al barro",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/K5AHML2J3ZFHBBZXVJHSPJ7FLM.jpg?auth=718d893a52287b562c02344a0b01d1ad45745f56579e99200c8f6cc4513e9241&width=1200",
+        "tags": [
+            "valencia",
+            "felipe vi",
+            "casa real",
+            "pedro sánchez",
+            "paiporta",
+            "chiva",
+            "claudia sheinbaum",
+            "monarquía",
+            "gobierno",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-25/el-ano-que-los-reyes-bajaron-al-barro.html",
+        "date": "2024-12-25 04:40:00",
+        "sentiment_score": -0.7994973175227642
+    },
+    {
+        "title": "Enric Morist: “En la reclamación de la financiación singular tiene que haber una visión social”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/L4JTWRLEH5CP7G5THUH2RI5XNQ.jpg?auth=3e2469923806f3d7a435ebde4db826dacbfbca5d41afae6368f18ee8beafbfdc&width=1200",
+        "tags": [
+            "govern cataluña",
+            "pobreza infantil",
+            "ingreso mínimo vital",
+            "renta garantizada",
+            "vivienda",
+            "cataluña",
+            "pobreza"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-25/no-publicar-enric-morist-en-la-reclamacion-de-la-financiacion-singular-tiene-que-haber-una-vision-social.html",
+        "date": "2024-12-25 04:15:00",
+        "sentiment_score": 0.15362796932458878
+    },
+    {
+        "title": "Para las fiestas... en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NYKCJKFYTBFU5OVN32HPUF3HZQ.jpg?auth=998a8a8a3f95faedc3fd94d6a987cc3f4c177b1a952c607620e3a7649674b3b9&width=1200",
+        "tags": [
+            "turismo",
+            "barcelona",
+            "zoo barcelona",
+            "aquàrium barcelona",
+            "fiestas",
+            "navidad",
+            "teatro",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-25/para-las-fiestas-en-barcelona.html",
+        "date": "2024-12-25 04:15:00",
+        "sentiment_score": 0.36249255761504173
+    },
+    {
+        "title": "El teletrabajo en Cataluña: el doble que antes de la pandemia, con preferencia por el modelo híbrido",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3PYHEA5ADSUFVKZVP4XUTVQCNA.JPG?auth=aefc66b832655b84dfa1d4944ce52d16d3dfcad96083108cd5c5050bff3c9e53&width=1200",
+        "tags": [
+            "pimec",
+            "trabajo",
+            "teletrabajo",
+            "sindicatos",
+            "empresas",
+            "cataluña",
+            "empleo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-25/el-teletrabajo-en-cataluna-el-doble-que-antes-de-la-pandemia-con-preferencia-por-el-modelo-hibrido.html",
+        "date": "2024-12-25 04:15:00",
+        "sentiment_score": 0.05221346765756607
+    },
+    {
+        "title": "La oficina móvil del DNI intenta revivir a una mujer ‘muerta’ en Girona desde hace 30 años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VIS7BQ753JC5RMY46QOLP7TOOE.jpg?auth=bbc6557b907deb5e798917cbea3372d793d5d2b974cfd11153646c69606de146&width=1200",
+        "tags": [
+            "dni",
+            "cataluña",
+            "administración estado",
+            "documentación",
+            "girona",
+            "policía nacional",
+            "alt empordà"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-25/la-oficina-movil-del-dni-intenta-revivir-a-una-mujer-muerta-en-girona-desde-hace-30-anos.html",
+        "date": "2024-12-25 04:15:00",
+        "sentiment_score": -0.729218726977706
+    },
+    {
+        "title": "Los niños que descubren a Papá Noel en el salón de casa: “¡Hay alguien abajo!”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DA4BCU6V5JHD7MM2WJQKHUBY64.jpg?auth=baf11a756454a44f3fc6cdecfa4adbef31b6a2fcefcc7be0726525ba549cfcc1&width=1200",
+        "tags": [
+            "disfraces",
+            "arroyomolinos",
+            "regalos",
+            "emprendedores",
+            "animación",
+            "nochebuena",
+            "cena",
+            "navidad",
+            "niños",
+            "barrio salamanca",
+            "madrid",
+            "comunidad de madrid",
+            "papá noel"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-25/los-ninos-que-descubren-a-papa-noel-en-el-salon-de-casa-hay-alguien-abajo.html",
+        "date": "2024-12-25 04:00:00",
+        "sentiment_score": 0.6935535185039043
+    },
+    {
+        "title": "De Salamanca al mundo: Sergio López, el lateral que sueña con la Bundesliga y su tierra",
+        "image_url": "https://s1.elespanol.com/2024/12/20/castilla-y-leon/region/salamanca/910169017_251837062_1706x960.jpg?contentId=ESPIMA20241220_0043",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20241225/salamanca-mundo-sergio-lopez-lateral-suena-bundesliga-tierra/910159004_0.html",
+        "date": "2024-12-25 06:00:00",
+        "sentiment_score": 0.29974958300590515
+    },
+    {
+        "title": "Famosos que celebran su cumpleaños durante la Navidad: de Ricky Martin a David Broncano",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/19/6763e338cf7ff.jpeg",
+        "tags": [
+            "protagonistas"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/protagonistas/20241225/10213319/ricky-martin-david-broncano-famosos-celebran-cumpleanos-navidad.html",
+        "date": "2024-12-25 06:00:00",
+        "sentiment_score": 0.7211427502334118
+    },
+    {
+        "title": "Silvia Alonso: “Antes sufría mucho en los rodajes y ahora quiero divertirme”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/20/6765574aacac3.r_d.1866-2296-1230.jpeg",
+        "tags": [
+            "protagonistas"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/protagonistas/20241225/10236664/silvia-alonso-sin-instrucciones-veneciafrenia-cine-ansiedad-diversion.html",
+        "date": "2024-12-25 05:00:00",
+        "sentiment_score": -0.32973798736929893
+    },
+    {
+        "title": "El Gobierno aprueba nuevos incentivos para la jubilación activa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/24/676ad8ecd2c2f.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20241225/10237000/gobierno-aprueba-nuevos-incentivos-jubilacion-activa.html",
+        "date": "2024-12-25 05:00:00",
+        "sentiment_score": 0.024478435516357422
+    },
+    {
+        "title": "Las fechas clave de 2025",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LUSZ5KVCFFE3TN4J7C2QLVVFSA.jpg?auth=b486cae24a8d37b2f1132f1355bb8e8218a01a11d128a4b1a173dba31eb71771&width=1200",
+        "tags": [
+            "estrenos cine",
+            "exposiciones",
+            "efemérides",
+            "tendencias",
+            "cumbres internacionales",
+            "conciertos",
+            "calendario electoral",
+            "calendario deportivo"
+        ],
+        "link": "https://elpais.com/eps/2024-12-25/las-fechas-clave-de-2025.html",
+        "date": "2024-12-25 04:40:00",
+        "sentiment_score": 0.1985308825969696
+    },
+    {
+        "title": "La nueva empresa pública de vivienda del Gobierno nacerá con más de 5.000 viviendas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/883dfb1b-95e7-486a-bb9e-ccdb1f441f48_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/economia/2024/12/25/empresa-publica-vivienda-gobierno-112905873.html",
+        "date": "2024-12-25 04:10:57",
+        "sentiment_score": 0.0808834359049797
+    },
+    {
+        "title": "La incapacidad absoluta de Joan tras un accidente en patinete: \"No llevaba casco y me rompí el cráneo en mil pedazos\"",
+        "image_url": "https://album.mediaset.es/eimg/2024/12/04/la-incapacidad-absoluta-de-joan-tras-un-accidente-en-patinete_e7cc.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241225/incapacidad-absoluta-joan-accidente-patinete-sin-casco-fractura-craneo_18_014200707.html",
+        "date": "2024-12-25 06:20:16",
+        "sentiment_score": -0.8601991375908256
+    },
+    {
+        "title": "La masía de Can Carreres acogerá una nueva escuela infantil pública en Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c68ecfa9-422e-40b1-8bda-d31c69c91326_16-9-aspect-ratio_default_1346040.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20241225/masia-nueva-guarderia-publica-barcelona-112897696",
+        "date": "2024-12-25 06:20:00",
+        "sentiment_score": 0.27581067383289337
+    },
+    {
+        "title": "Feijóo anuncia que registrará su Ley de Vivienda a principios de 2025",
+        "image_url": "https://s.libertaddigital.com/2024/12/24/feijoo-congreso.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/espana/politica/2024-12-25/feijoo-anuncia-que-registrara-su-ley-de-vivienda-a-principios-de-2025-7201615/",
+        "date": "2024-12-25 06:10:12",
+        "sentiment_score": -0.6875047255307436
+    },
+    {
+        "title": "Asia y Marruecos: los destinos de moda entre los españoles para Nochevieja",
+        "image_url": "https://www.laregion.es/media/laregion/images/2024/12/19/2024121918350131240.jpg",
+        "tags": [
+            "especiales"
+        ],
+        "link": "https://www.laregion.es/articulo/especiales/asia-marruecos-destinos-moda-espanoles-nochevieja/202412250701391356662.html",
+        "date": "2024-12-25 06:01:39",
+        "sentiment_score": 0.13745293021202087
+    },
+    {
+        "title": "Los lectores de EL PERIÓDICO dan más valor a las noticias sobre pensiones, seguridad ciudadana y turismo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be84a75a-cfdd-4944-bc8a-8119aa1aabe6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20241225/lectores-periodico-pensiones-seguridad-ciudadana-turismo-112884887",
+        "date": "2024-12-25 06:01:05",
+        "sentiment_score": -0.13364890217781067
+    },
+    {
+        "title": "Dag Shang Kagyu, un templo budista en las montañas de Huesca",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/20/67654309c594e.r_d.2836-1973-801.jpeg",
+        "tags": [
+            "viajes"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/viajes/20241225/10224763/dag-shang-kagyu-templo-budista-panillo-huesca.html",
+        "date": "2024-12-25 06:00:00",
+        "sentiment_score": -0.02610825002193451
+    },
+    {
+        "title": "Ni billetes ni tarjetas: en este país los viajeros pagan el metro escaneando la palma de su mano",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/05/23/646cb314f0073.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20241225/10209895/billetes-tarjetas-pais-viajeros-pagan-metro-escaneando-palma-mano-tsc.html",
+        "date": "2024-12-25 06:00:00",
+        "sentiment_score": 0.044478852301836014
+    },
+    {
+        "title": "El fabuloso garaje de Zeus, el multimillonario con aspecto de vagabundo que triunfa en redes sociales",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/20/676568c4cb5b4.png",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20241225/10224365/fabuloso-garaje-zeus-multimillonario-aspecto-vagabundo-triunfa-redes-sociales-tsc.html",
+        "date": "2024-12-25 06:00:00",
+        "sentiment_score": 0.8024063743650913
+    },
+    {
+        "title": "La revolucionaria pintura solar de Mercedes: recorre hasta 20.000 km gratis al año sin depender de enchufes",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/17/67617b9d60418.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20241225/10210368/revolucionaria-pintura-solar-mercedes-recorre-20-000-km-gratis-ano-depender-enchufes-tsc.html",
+        "date": "2024-12-25 06:00:00",
+        "sentiment_score": 0.5184178091585636
     }
 ];
