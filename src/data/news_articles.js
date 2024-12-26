@@ -148,53 +148,6 @@ export default [
         "sentiment_score": -0.8541716411709785
     },
     {
-        "title": "Tres presuntos narcos heridos en el Estrecho tras ser embestidos por la lancha de otros traficantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Q2I5AH6VUVHKBGL6APZPJHJ6JI.jpg?auth=7099d6eac5ccb87afdcb012dff2b370fa9923cc820e701881f02246286eb00b3&width=1200",
-        "tags": [
-            "combustibles",
-            "tráfico hachís",
-            "narcotráfico",
-            "cádiz",
-            "narcotraficantes",
-            "ministerio del interior",
-            "españa",
-            "drogas",
-            "guardia civil",
-            "estrecho gibraltar"
-        ],
-        "link": "https://elpais.com/espana/2024-12-22/tres-presuntos-narcos-heridos-en-el-estrecho-tras-ser-embestidos-por-la-lancha-de-otros-traficantes.html",
-        "date": "2024-12-22 14:04:48",
-        "sentiment_score": -0.667703015729785
-    },
-    {
-        "title": "Logroño y Madrid se quedan El Gordo y parte de los premios alivia a los castigados por la dana de Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VQWONEXA4ZECTOXLWFZJQH5YFU.JPG?auth=337dc88c0e9922d863afde02fb1b0520889c1320cb6b0ffeae912c2e8e0c7821&width=1200",
-        "tags": [
-            "madrid",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-22/logrono-y-madrid-se-reparten-el-gordo-y-parte-de-los-premios-alivia-a-los-castigados-por-la-dana-de-valencia.html",
-        "date": "2024-12-22 13:53:54",
-        "sentiment_score": -0.014386564493179321
-    },
-    {
-        "title": "Dos detenidos por dos homicidios, uno en Cataluña y otro en Francia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FQEKKIBEKAUABJPJSMAA2IEQF4.jpg?auth=e0feba1dde55fb225f1eee2b7d7e68fabe64dd16f8c01d561fc85cfb490b5f27&width=1200",
-        "tags": [
-            "cataluña",
-            "homicidios",
-            "francia",
-            "barcelona",
-            "sucesos",
-            "mossos d'esquadra",
-            "cornellà de llobregat",
-            "cervelló"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-22/dos-detenidos-por-dos-homicidios-uno-en-cataluna-y-otro-en-francia.html",
-        "date": "2024-12-22 13:33:59",
-        "sentiment_score": -0.7484487555921078
-    },
-    {
         "title": "El CC 7 Palmas da un cuarto premio del 77768: \"Recuerdo que pidieron que tuviera muchos siete\"",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0cea6600-8be3-41cb-a877-901873b72603_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -6805,5 +6758,388 @@ export default [
         "link": "https://2001online.com/servicios/asi-funcionan-los-botones-de-panico-instalados-en-caracas-2024122517180",
         "date": "2024-12-25 21:18:00",
         "sentiment_score": 0.23312877118587494
+    },
+    {
+        "title": "La Bolsa de Shanghái cae un 1,39 % y la de Shenzhen, un 0,65 %",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-bolsa-de-shanghai-cae-un-139-y-la-de-shenzhen-un-065/",
+        "date": "2024-12-26 01:32:23",
+        "sentiment_score": -0.6902818754315376
+    },
+    {
+        "title": "Muere a los 95 años Lui Che Woo, magnate de construcción y casinos en Hong Kong y Macao",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/muere-a-los-95-anos-lui-che-woo-magnate-de-construccion-y-casinos-en-hong-kong-y-macao/",
+        "date": "2024-12-26 01:32:04",
+        "sentiment_score": 0.7756973840296268
+    },
+    {
+        "title": "Bayer pierde 2.217 millones entre enero y septiembre, casi la mitad que hace un año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/bayer-pierde-2217-millones-entre-enero-y-septiembre-casi-la-mitad-que-hace-un-ano/",
+        "date": "2024-12-26 01:18:23",
+        "sentiment_score": -0.7300700284540653
+    },
+    {
+        "title": "Cortada la A-4 en El Viso del Marqués (Ciudad Real) sentido Andalucía por un accidente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/cortada-la-a-4-en-el-viso-del-marques-ciudad-real-sentido-andalucia-por-un-accidente/",
+        "date": "2024-12-26 01:18:04",
+        "sentiment_score": -0.6935227122157812
+    },
+    {
+        "title": "Bukele ofrece a Costa Rica ayuda humanitaria que iba a ser destinada a la DANA y que España \"por alguna razón\" no acepta",
+        "image_url": "https://www.infobae.com/resizer/v2/TVHGD2KMYBGH5PVJ27SKNN46HQ.jpg?auth=468cde81a644fdad2188290b4c45112d9779be503420cef680c20574d535b65a&height=1281&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/12/bukele-ofrece-a-costa-rica-ayuda-humanitaria-que-iba-a-ser-destinada-a-la-dana-y-que-espana-por-alguna-razon-no-acepta/",
+        "date": "2024-12-26 01:02:43",
+        "sentiment_score": 0.3219166100025177
+    },
+    {
+        "title": "El Nikkei cede un 0,4 % arrastrado por el sector de los semiconductores",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-nikkei-cede-un-04-arrastrado-por-el-sector-de-los-semiconductores/",
+        "date": "2024-12-26 00:48:00",
+        "sentiment_score": -0.6265413053333759
+    },
+    {
+        "title": "El Gobierno se somete hoy a su primera sesión de control tras la DANA, con el PP incidiendo en la emergencia nacional",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-gobierno-se-somete-hoy-a-su-primera-sesion-de-control-tras-la-dana-con-el-pp-incidiendo-en-la-emergencia-nacional/",
+        "date": "2024-12-26 00:47:41",
+        "sentiment_score": -0.5580575317144394
+    },
+    {
+        "title": "El Congreso celebra hoy la primera votación de los consejeros de RTVE propuestos por PSOE y sus socios",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-congreso-celebra-hoy-la-primera-votacion-de-los-consejeros-de-rtve-propuestos-por-psoe-y-sus-socios/",
+        "date": "2024-12-26 00:47:21",
+        "sentiment_score": 0.19779156893491745
+    },
+    {
+        "title": "Bitcóin mantiene su escalada y establece un nuevo récord por encima de los 89.500 dólares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/bitcoin-mantiene-su-escalada-y-establece-un-nuevo-record-por-encima-de-los-89500-dolares/",
+        "date": "2024-12-26 00:32:05",
+        "sentiment_score": 0.5231547132134438
+    },
+    {
+        "title": "Fuertes lluvias, olas, viento y nieve ponen en alerta 8 comunidades, el Levante en naranja",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/fuertes-lluvias-olas-viento-y-nieve-ponen-en-alerta-8-comunidades-el-levante-en-naranja/",
+        "date": "2024-12-26 00:17:06",
+        "sentiment_score": -0.5095217451453209
+    },
+    {
+        "title": "Consejos de un psicólogo para afrontar el estrés, la tristeza y la ansiedad durante las fiestas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2191398227-20241226003844319.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/psicologo-consejos-problemas-fiestas-decembrinas-trax/",
+        "date": "2024-12-26 00:48:06",
+        "sentiment_score": -0.6449750140309334
+    },
+    {
+        "title": "PSOE y PP hacen suya la llamada del Rey al \"diálogo\" y la \"serenidad\"",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/b8343d516b8f2e2a00b6c95933e531cd/crop/65x30/2010x1326/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/26/17351704255024.jpg",
+        "tags": [
+            "política>"
+        ],
+        "link": "https://www.expansion.com/economia/politica/2024/12/26/676c98bae5fdeab9138b4576.html",
+        "date": "2024-12-25 23:48:00",
+        "sentiment_score": -0.2745380997657776
+    },
+    {
+        "title": "La soprano Lisette Oropesa arrasa con 'Maria Stuarda' en el Teatro Real: \"Temo que un día me levante sin voz\"",
+        "image_url": "https://s1.elespanol.com/2024/12/24/actualidad/911169127_251929532_1706x960.jpg?contentId=ESPIMA20241224_0253",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20241226/soprano-lisette-oropesa-arrasa-maria-stuarda-teatro-real-temo-dia-levante-sin-voz/910909021_0.html",
+        "date": "2024-12-25 23:46:47",
+        "sentiment_score": 0.2751665599644184
+    },
+    {
+        "title": "De Jennifer Lopez y Ben Affleck a Chiara Ferragni y Fedez: todas las 'celebrities' que han puesto fin a su amor este 2024",
+        "image_url": "https://s1.elespanol.com/2024/12/21/corazon/celebrities/910419169_251873654_1706x960.jpg?contentId=ESPIMA20241221_0220",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20241226/jennifer-lopez-ben-affleck-chiara-ferragni-fedez-todas-celebrities-puesto-fin-amor/910159428_0.html",
+        "date": "2024-12-25 23:37:51",
+        "sentiment_score": -0.06430472433567047
+    },
+    {
+        "title": "El mejor Granca en la Liga Endesa de las últimas siete campañas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bb3d1c77-dd53-4364-89b1-c892f3baf7af_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2024/12/26/mejor-granca-liga-endesa-ultimas-112915296.html",
+        "date": "2024-12-25 23:31:16",
+        "sentiment_score": 0.5967717170715332
+    },
+    {
+        "title": "Lehuede (Ampere Energy): \"El almacenamiento va a despegar con fuerza muy pronto, sólo hay que aguantar un poco más\"",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x890/d/c/a/1200x655_Foto3.jpg",
+        "tags": [
+            "energia"
+        ],
+        "link": "https://www.eleconomista.es/energia/noticias/13148912/12/24/lehuede-ampere-energy-el-almacenamiento-va-a-despegar-con-fuerza-muy-pronto-solo-hay-que-aguantar-un-poco-mas.html",
+        "date": "2024-12-25 23:20:34",
+        "sentiment_score": 0.6691746208816767
+    },
+    {
+        "title": "Una Navidad entre ‘Yesterday’, ‘El cascanueces’ y un toque canario",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8e99c89-799a-48a9-a7ba-16013224abde_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/tenerife/2024/12/26/navidad-yesterday-cascanueces-toque-canario-112915243.html",
+        "date": "2024-12-25 23:17:35",
+        "sentiment_score": -0.05269533395767212
+    },
+    {
+        "title": "Reencuentros familiares y polémicas en las bodas más destacadas del año",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2024/12/26/familiares-kZiB-U2303868214932YE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/gente-estilo/reencuentros-familiares-polemicas-bodas-destacadas-ano-20241226000432-ntrc.html",
+        "date": "2024-12-25 23:04:33",
+        "sentiment_score": -0.5307370387017727
+    },
+    {
+        "title": "El PSOE apadrina la entrada en la Internacional Socialista de un movimiento saharaui que el CNI vincula con Marruecos",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/12/gfj2bxzwwaehzub-e1735058182528.jpg",
+        "tags": [
+            "españa",
+            "marruecos",
+            "sáhara occidental",
+            "partido socialista obrero español (psoe)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2024/12/26/el-psoe-apadrina-la-entrada-en-la-internacional-socialista-de-un-movimiento-saharaui-que-el-cni-vincula-con-marruecos/",
+        "date": "2024-12-25 23:03:42",
+        "sentiment_score": -0.5121610313653946
+    },
+    {
+        "title": "El regreso de Manuel Valls: el ex primer ministro se incorpora al nuevo Gobierno de Francia",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/26/2024122604295217927.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.mundiario.com/articulo/internacional/regreso-manuel-valls-ex-primer-ministro-incorpora-nuevo-gobierno-francia/20241226030653328661.html",
+        "date": "2024-12-26 02:06:53",
+        "sentiment_score": -0.6732364073395729
+    },
+    {
+        "title": "La entrada de una DANA activa avisos en 13 provincias por lluvia, nieve y olas y caída generalizada de temperaturas",
+        "image_url": "https://www.infobae.com/resizer/v2/5WOTKRU4YVACDG4IWVS6YVAO3Y.jpg?auth=1e253eff4fd9a10f61391174c91df7b14a7e04732f9b7422cf51b18fee768a9a&height=1806&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/12/la-entrada-de-una-dana-activa-avisos-en-13-provincias-por-lluvia-nieve-y-olas-y-caida-generalizada-de-temperaturas/",
+        "date": "2024-12-26 02:02:11",
+        "sentiment_score": -0.6313594803214073
+    },
+    {
+        "title": "Bogotá es el segundo mejor destino turístico del mundo para Navidad y Fin de Año en 2024, de acuerdo con importante medio internacional",
+        "image_url": "https://www.infobae.com/resizer/v2/4763GLTBQRAVBGC3NMRZOVXLVU.jpg?auth=71ac8e1891829e6eb685493fcf0b8d59895ffa4168a2d94d697719cdbbeb62ad&height=463&smart=true&width=612",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/12/26/bogota-es-el-segundo-mejor-destino-turistico-del-mundo-para-navidad-y-fin-de-ano-en-2024-de-acuerdo-con-importante-medio-internacional/",
+        "date": "2024-12-26 01:56:54",
+        "sentiment_score": 0.8755307104438543
+    },
+    {
+        "title": "El Consell de la República elegirá nueva dirección tras la dimisión de Puigdemont",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/08/07/2024080716150467583.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/consell-republica-elegira-nueva-direccion-dimision-puigdemont/20241226022220328657.html",
+        "date": "2024-12-26 01:22:20",
+        "sentiment_score": 0.2889784350991249
+    },
+    {
+        "title": "Hijos de Shakira no sabrían que Clara Chía es la novia de Gerard Piqué: “Es algo sorprendente”",
+        "image_url": "https://www.infobae.com/resizer/v2/J7PXJYMVORHCBO7RDE2BM5GCUY.jpg?auth=293a1b9376cd2dd303aa18c41aafb1083985978ca3b011d13b741924005326a6&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/12/26/hijos-de-shakira-no-sabrian-que-clara-chia-es-la-novia-de-gerard-pique-es-algo-sorprendente/",
+        "date": "2024-12-26 00:46:39",
+        "sentiment_score": -0.02321399748325348
+    },
+    {
+        "title": "Todos somos cristianos",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20241226/todos-somos-cristianos_255771.html",
+        "date": "2024-12-26 00:30:00",
+        "sentiment_score": -0.2696288153529167
+    },
+    {
+        "title": "La Iglesia viva",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/02/23/63f730ddd9565.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20241226/iglesia-viva_256219.html",
+        "date": "2024-12-26 00:30:00",
+        "sentiment_score": 0.28052590787410736
+    },
+    {
+        "title": "Efemérides del 13 de noviembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/efemerides-del-13-de-noviembre/",
+        "date": "2024-12-26 00:03:05",
+        "sentiment_score": 0.45921414345502853
+    },
+    {
+        "title": "Javier de la Rosa, cuál es su unión con Juan Carlos I 30 años después de su 'divorcio'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/javier-de-la-rosa-emerito_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/juan-carlos-borbon-olvida-javier-rosa-30-anos-despues-su-divorcio",
+        "date": "2024-12-26 00:00:00",
+        "sentiment_score": -0.7095729410648346
+    },
+    {
+        "title": "PoliChacao ordena investigación sobre funcionario tras incidente violento",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735187073083.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/polichacao-ordena-investigacion-sobre-funcionario-tras-incidente-violento-202412252270",
+        "date": "2024-12-26 02:07:00",
+        "sentiment_score": -0.7986443433910608
+    },
+    {
+        "title": "Hallan el cadáver de un un hombre en la rueda un avión (+Detalles)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735189321169.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/hallan-el-cadaver-de-un-un-hombre-en-la-rueda-un-avion-detalles--202412252250",
+        "date": "2024-12-26 02:05:00",
+        "sentiment_score": -0.017453301697969437
+    },
+    {
+        "title": "Jay-Z demanda al abogado de la mujer que lo acusó de abuso sexual",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735172648542.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/jay-z-demanda-al-abogado-de-la-mujer-que-lo-acuso-de-abuso-sexual-202412252200",
+        "date": "2024-12-26 02:00:00",
+        "sentiment_score": -0.4947354383766651
+    },
+    {
+        "title": "EEUU | Así lucirán los billetes de dólar que van a circular en 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735178199656.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-asi-luciran-los-billetes-de-dolar-que-van-a-circular-en-2025--2024122521550",
+        "date": "2024-12-26 01:55:00",
+        "sentiment_score": 0.15395505726337433
+    },
+    {
+        "title": "Así puede pagar sus aranceles del Saren por pago móvil (+Pasos)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735178355088.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/asi-puede-pagar-sus-aranceles-del-saren-por-pago-movil-pasos--2024122521540",
+        "date": "2024-12-26 01:54:00",
+        "sentiment_score": 0.0639401413500309
+    },
+    {
+        "title": "Calles y avenidas de Caracas recibieron limpieza profunda este #25Dic",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735163905430.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/calles-y-avenidas-de-caracas-recibieron-limpieza-profunda-este-25dic-2024122521360",
+        "date": "2024-12-26 01:36:00",
+        "sentiment_score": -0.4779745861887932
+    },
+    {
+        "title": "Asesinan a puñaladas a una adolescente de 14 años en Bolivia",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735167873240.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/asesinan-a-punaladas-a-una-adolescente-de-14-anos-en-bolivia-2024122521330",
+        "date": "2024-12-26 01:33:00",
+        "sentiment_score": -0.783550325781107
+    },
+    {
+        "title": "Condenan a dos hombres a 100 años de cárcel por abuso de hijos adoptados",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735176591774.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/sucesos/condenan-a-dos-hombres-a-100-anos-de-carcel-por-abuso-de-hijos-adoptados-2024122521300",
+        "date": "2024-12-26 01:30:00",
+        "sentiment_score": -0.9338150285184383
+    },
+    {
+        "title": "Balbino Fuenmayor y Yonathan Daza reforzarán a estos clubes del Caribe",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735171723121.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/balbino-fuenmayor-y-yonathan-daza-reforzaran-a-estos-clubes-del-caribe-2024122521220",
+        "date": "2024-12-26 01:22:00",
+        "sentiment_score": 0.10103929042816162
+    },
+    {
+        "title": "EEUU: Burger King regalará sandwich de pollo y hamburguesas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1723174916908.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-burger-king-regalara-sandwich-de-pollo-y-hamburguesas--2024122521100",
+        "date": "2024-12-26 01:10:00",
+        "sentiment_score": 0.6860845535993576
     }
 ];
