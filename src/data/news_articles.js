@@ -1,308 +1,5 @@
 export default [
     {
-        "title": "Bilbao rinde homenaje a \"todas las víctimas del terrorismo\" en el Día de la Memoria y el alcalde llama a \"no olvidar\"",
-        "image_url": "https://www.infobae.com/resizer/v2/MR2B4GGSDRBSPCHYX6M2J3KMJA.jpg?auth=36e4be8899d4460b74ff64a57402d7bd6aa1258cb18df5c50ebbd068fca08f47&height=1440&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/bilbao-rinde-homenaje-a-todas-las-victimas-del-terrorismo-en-el-dia-de-la-memoria-y-el-alcalde-llama-a-no-olvidar/",
-        "date": "2024-12-22 06:18:07",
-        "sentiment_score": 0.16190367937088013
-    },
-    {
-        "title": "El Gobierno valenciano dice que trabaja \"desde el primer día\" en \"la peor catástrofe natural del siglo\"",
-        "image_url": "https://www.infobae.com/resizer/v2/6P4QB6SBMRGDTFP76X555Q5AQM.jpg?auth=c05c82ceb1085c2437ff633fac78c02ba6b4c37a03821ce16fe1a2074caf72f2&height=1281&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/el-gobierno-valenciano-dice-que-trabaja-desde-el-primer-dia-en-la-peor-catastrofe-natural-del-siglo/",
-        "date": "2024-12-22 06:17:27",
-        "sentiment_score": 0.3712977357208729
-    },
-    {
-        "title": "Efemérides del 23 de diciembre",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/22/efemerides-del-23-de-diciembre/",
-        "date": "2024-12-22 06:15:22",
-        "sentiment_score": -0.026747629046440125
-    },
-    {
-        "title": "¿Por qué el caso Miguel Ángel Blanco sigue siendo hoy trascendental? El Tribunal Supremo debe decidir si 253 asesinatos de ETA no han prescrito y se pueden juzgar",
-        "image_url": "https://www.infobae.com/resizer/v2/QDHEUN4W7BDJZEDNZJ7P6XLOSU.jpg?auth=0c85029c145fe17a2837f5eb49cdb3121f759781c91ee0ef2a827f84c56ae00c&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/22/por-que-el-caso-miguel-angel-blanco-sigue-siendo-hoy-trascendental-el-tribunal-supremo-debe-decidir-si-253-asesinatos-de-eta-no-han-prescrito-y-se-pueden-juzgar/",
-        "date": "2024-12-22 06:00:00",
-        "sentiment_score": -0.8088278956711292
-    },
-    {
-        "title": "Los 11 libros recomendados para niños de 9 a 12 años para regalar en Navidades: de ‘Manolito Gafotas’ e ‘Invisible’ a grandes clásicos ilustrados",
-        "image_url": "https://www.infobae.com/resizer/v2/B4SNO3A4KFATNDVJIPCX4ANAO4.jpg?auth=c90c67e66faff7189bdac11cb9582cf3743e7b4a06a47d6da88014891f10d01a&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2024/12/22/los-11-libros-recomendados-para-ninos-de-9-a-12-anos-para-regalar-en-navidades-de-manolito-gafotas-e-invisible-a-grandes-clasicos-ilustrados/",
-        "date": "2024-12-22 06:00:00",
-        "sentiment_score": 0.6977146277204156
-    },
-    {
-        "title": "Del juez Peinado a Víctor de Aldama: los 12 personajes del año 2024 en los tribunales",
-        "image_url": "https://www.infobae.com/resizer/v2/CSY6J5V7SZAULGCRRI5C2ZOBEQ.png?auth=8cdf627b617f360cd64652cb96520edfc60f57da17b4e29de0b784a44646e90f&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/22/del-juez-peinado-a-victor-de-aldama-los-12-personajes-del-ano-2024-en-los-tribunales/",
-        "date": "2024-12-22 06:00:00",
-        "sentiment_score": -0.7063517235219479
-    },
-    {
-        "title": "Cómo hacer una guarnición de verduras asadas para Navidad",
-        "image_url": "https://www.infobae.com/resizer/v2/I46KE2OVBNCQFBSGFKNSJ5GCJQ.jpeg?auth=513f80ccab565934421c7429ab243980aae1ba07657f7efc3474dca6766a97ef&height=2700&smart=true&width=4050",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/22/como-hacer-una-guarnicion-de-verduras-asadas-para-navidad/",
-        "date": "2024-12-22 06:00:00",
-        "sentiment_score": 0.6428827568888664
-    },
-    {
-        "title": "Qué es el reintegro de la Lotería de Navidad y cuánto dinero se gana",
-        "image_url": "https://www.infobae.com/resizer/v2/TUNKIEHYDJBEXDFAHGI75HQRUA.jpg?auth=4781af0786b4e134308a03102606ef34c6a989df818266670bd08ce87f66b8f5&height=2492&smart=true&width=4430",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/22/que-es-el-reintegro-de-la-loteria-de-navidad-y-cuanto-dinero-se-gana/",
-        "date": "2024-12-22 06:00:00",
-        "sentiment_score": 0.11172120273113251
-    },
-    {
-        "title": "La vida de Antonio Hidalgo, el presentador que volvió a un programa de Ana Rosa 20 años después: novia ‘influencer’ y un extenso currículum",
-        "image_url": "https://www.infobae.com/resizer/v2/OV5B4HFC3ZFZHAFTEJ7RJU5LN4.jpg?auth=0f989c5aad58e48f694b0edfb2efa6e2236d122ba6f127505a1292c1012cc6b6&height=924&smart=true&width=1640",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/22/la-vida-de-antonio-hidalgo-el-presentador-que-volvio-a-un-programa-de-ana-rosa-20-anos-despues-novia-influencer-y-un-extenso-curriculum/",
-        "date": "2024-12-22 06:00:00",
-        "sentiment_score": 0.8511417396366596
-    },
-    {
-        "title": "Mossos investigan los motivos del crimen de Coll de Nargó, incluido el trastorno mental",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/10/mossos-investigan-los-motivos-del-crimen-de-coll-de-nargo-incluido-el-trastorno-mental/",
-        "date": "2024-12-22 05:48:25",
-        "sentiment_score": -0.8156377011910081
-    },
-    {
-        "title": "Lotería",
-        "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/provincia/2024/12/17/tiempohuelvanavidadnochebuena-U30684708777lFU-170x119@huelva24.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-loteria-20241222072222-nts.html",
-        "date": "2024-12-22 06:22:53",
-        "sentiment_score": -0.026030778884887695
-    },
-    {
-        "title": "De la pobreza infantil a la desigualdad de rentas: los indicadores en situación crítica en España según la Comisión Europea",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/22/1488251445-kQ7-U7019905940zMF-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/pobreza-infantil-desigualdad-rentas-indicadores-situacion-critica-20241222070000-nt.html",
-        "date": "2024-12-22 06:00:00",
-        "sentiment_score": -0.10113006830215454
-    },
-    {
-        "title": "La necesidad de un futuro con memoria",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/opinion/tribuna-abierta/2024/12/22/necesidad-futuro-memoria-9080100.html",
-        "date": "2024-12-22 06:25:03",
-        "sentiment_score": -0.29218022525310516
-    },
-    {
-        "title": "Lotería de Navidad 2024: Aquí puedes comprobar tus décimos, dónde seguir el Sorteo Extraordinario del 22 de diciembre",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/20/676567383746c.jpeg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.cope.es/actualidad/vivir/loteria-de-navidad/noticias/loteria-navidad-2024-puedes-comprobar-tus-decimos-seguir-sorteo-extraordinario-22-diciembre-20241222_3067279.html",
-        "date": "2024-12-22 06:25:00",
-        "sentiment_score": 0.040392398834228516
-    },
-    {
-        "title": "Horario del Sorteo del Gordo de Lotería de Navidad 2024: dónde ver online y en directo",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/09/horario-del-sorteo-de-loteria-de-navidad-2024.png",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.20minutos.es/loterias/loteria-navidad/horario-sorteo-gordo-loteria-navidad-2024-5662071/",
-        "date": "2024-12-22 06:23:29",
-        "sentiment_score": 0.15889483876526356
-    },
-    {
-        "title": "Arrasate sale en ataque con Larin y Muriqi y Simeone introduce 4 cambios respecto a París",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/10/arrasate-sale-en-ataque-con-larin-y-muriqi-y-simeone-introduce-4-cambios-respecto-a-paris/",
-        "date": "2024-12-22 06:17:46",
-        "sentiment_score": 0.7842098064720631
-    },
-    {
-        "title": "Ni Marbella ni Fuengirola, este es el pueblo de Málaga con más suerte en la Lotería de la Navidad",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/25/loteria-de-navidad-de-dona-manolita.jpeg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.20minutos.es/loterias/loteria-navidad/pueblo-malaga-suerte-loteria-navidad-5665713/",
-        "date": "2024-12-22 06:16:51",
-        "sentiment_score": 0.048596300184726715
-    },
-    {
-        "title": "Cuánto se lleva Hacienda de cada uno de los premios de la Lotería de Navidad",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/25/loteria-de-navidad-de-dona-manolita.jpeg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.20minutos.es/loterias/loteria-navidad/cuanto-se-lleva-hacienda-del-gordo-y-resto-premios-loteria-de-navidad-2024-5655229/",
-        "date": "2024-12-22 06:15:01",
-        "sentiment_score": -0.016214903444051743
-    },
-    {
-        "title": "¿A qué hora es la Lotería de Navidad 2024? Horario y dónde ver por tv",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/188a465b-35c7-4acd-a2e7-40ad6b376522_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/loteria-navidad/20241222/a-que-hora-es-loteria-navidad-2024-111460248",
-        "date": "2024-12-22 06:12:00",
-        "sentiment_score": 0.08552883565425873
-    },
-    {
-        "title": "Lotería de Navidad 2024 | El sorteo reparte este domingo más de 2.700 millones de euros en premios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DNFVNKBYCVHELK2XKFNDCKZS2U.png?auth=28f83837ea9740175d4c149845af68734d5f575866a45dd8c03fa1897457c2cd&width=1200",
-        "tags": [
-            "lotería nacional",
-            "juegos azar",
-            "fiestas",
-            "comunidades autónomas",
-            "lotería",
-            "juego",
-            "españa",
-            "lae",
-            "lotería navidad",
-            "teatro real",
-            "navidad",
-            "premios lotería",
-            "sociedad",
-            "eventos"
-        ],
-        "link": "https://elpais.com/loteria-de-navidad/2024-12-22/loteria-de-navidad-el-sorteo-del-gordo-en-directo.html",
-        "date": "2024-12-22 06:11:39",
-        "sentiment_score": 0.3493620716035366
-    },
-    {
-        "title": "El Procurador del Común pide a la Junta una estrategia como la de Madrid para fomentar la natalidad",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2024/12/19/676415ba1739d.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/241222/96333/defensor-pueblo-castilla-leon-pide-estrategia-madrid-fomentar-natalidad.html",
-        "date": "2024-12-22 06:10:00",
-        "sentiment_score": -0.4776167646050453
-    },
-    {
-        "title": "La oferta de alquiler baja en Huelva y empieza a tensionar el mercado",
-        "image_url": "https://static.grupojoly.com/clip/218801c2-ee9a-48bb-9eff-5b9e0479393e_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.huelvainformacion.es/economia/oferta-alquiler-baja-huelva-empieza_0_2002980579.html",
-        "date": "2024-12-22 06:26:44",
-        "sentiment_score": -0.46694739162921906
-    },
-    {
-        "title": "\"No lo recomendaría a nadie\": Gonzalo Bernardos alerta a los españoles del peligro de las herencias y donaciones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32600246-e927-4025-9b00-fe1432963b58_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreogallego.es/economia/2024/12/22/recomendaria-nadie-gonzalo-bernardos-alerta-dv-112807160.html",
-        "date": "2024-12-22 06:15:29",
-        "sentiment_score": -0.08012646436691284
-    },
-    {
-        "title": "Cuarto premio de Lotería de Navidad 2024: Comprueba aquí el resultado en directo",
-        "image_url": "https://s1.elespanol.com/2024/12/22/loterias/loteria-navidad/910668945_251875864_1706x960.jpg?contentId=ESPIMA20241222_0021",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/loterias/loteria-navidad/20241222/cuarto-premio-loteria-navidad-puedes-ganar-cobrar-importe-final/909659654_0.html",
-        "date": "2024-12-22 06:15:18",
-        "sentiment_score": 0.6820907667279243
-    },
-    {
-        "title": "'Los pilares de la tierra', si no está mal es que estará bien",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/20/los-pilares-de-la-tierra.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/los-pilares-tierra-esta-mala.html",
-        "date": "2024-12-22 06:12:13",
-        "sentiment_score": 0.48732616752386093
-    },
-    {
-        "title": "Luces, sabores y tradición: el legado de los mercadillos navideños",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/02/mercado-navideno-en-frankfurt.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/luces-sabores-tradicion-legado-mercadillos-navidenos.html",
-        "date": "2024-12-22 06:09:53",
-        "sentiment_score": 0.6697811037302017
-    },
-    {
-        "title": "Sánchez actúa ya como un Estado dentro del Estado",
-        "image_url": "https://s.libertaddigital.com/2024/12/21/pedro-sanchez-moncloa211224.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2024-12-22/federico-jimenez-losantos-sanchez-actua-ya-como-un-estado-dentro-del-estado-7200829/",
-        "date": "2024-12-22 06:09:51",
-        "sentiment_score": -0.6979380324482918
-    },
-    {
-        "title": "«Desde Badajoz vendemos a todo el planeta una solución digital al deporte»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a3a6c42-1309-477c-9e66-a67f697bb35b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2024/12/22/badajoz-vendemos-planeta-solucion-digital-112755954.html",
-        "date": "2024-12-22 06:03:43",
-        "sentiment_score": 0.07591145858168602
-    },
-    {
-        "title": "Tercer premio de Lotería de Navidad 2024: Comprobar en directo y cómo reclamar el décimo ganador",
-        "image_url": "https://s1.elespanol.com/2024/12/22/loterias/loteria-navidad/910668944_251875835_1706x960.jpg?contentId=ESPIMA20241222_0020",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/loterias/loteria-navidad/20241222/tercer-premio-loteria-navidad-saber-reclamar-decimo-ganador/909659620_0.html",
-        "date": "2024-12-22 06:03:08",
-        "sentiment_score": 0.42861634492874146
-    },
-    {
         "title": "Bolaños da por terminada la ronda de contactos con los grupos políticos del Congreso y agradece las propuestas",
         "image_url": "https://www.infobae.com/resizer/v2/NNQCLUMEYZCI7CGRQK34LPQ6WA.jpg?auth=3efe7de2b9267475bb9c011da25996ec972dc5c1f3ecf608fd85c4baa2a9e5ec&height=1080&smart=true&width=1920",
         "tags": [
@@ -496,26 +193,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-22/dos-detenidos-por-dos-homicidios-uno-en-cataluna-y-otro-en-francia.html",
         "date": "2024-12-22 13:33:59",
         "sentiment_score": -0.7484487555921078
-    },
-    {
-        "title": "‘Quadern’ celebra 2.000 números con una edición especial",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EPKKIKQGI5GFTC3WFT6OOF7U4I.jpg?auth=2ea37e67807452efda41395c51793fc5bc4d4688a31eddd495c2685cf3ec397d&width=1200",
-        "tags": [
-            "cataluña",
-            "suplementos prensa",
-            "arte",
-            "prensa",
-            "música",
-            "literatura catalana",
-            "comunicación",
-            "cine",
-            "literatura",
-            "gastronomía",
-            "cultura"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-22/quadern-celebra-2000-numeros-con-una-edicion-especial.html",
-        "date": "2024-12-22 09:07:40",
-        "sentiment_score": 0.2014177069067955
     },
     {
         "title": "El CC 7 Palmas da un cuarto premio del 77768: \"Recuerdo que pidieron que tuviera muchos siete\"",
@@ -6660,5 +6337,473 @@ export default [
         "link": "https://www.diariovasco.com/deportes/futbol/liga-primera/2024-incertidumbre-barcelona-20241225173033-ntrc.html",
         "date": "2024-12-25 16:31:47",
         "sentiment_score": -0.84710275195539
+    },
+    {
+        "title": "Las emergencias cántabras buscan a un montañero perdido hace dos días en Picos de Europa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/25/las-emergencias-cantabras-buscan-a-un-montanero-perdido-hace-dos-dias-en-picos-de-europa/",
+        "date": "2024-12-25 21:45:56",
+        "sentiment_score": -0.6012833695858717
+    },
+    {
+        "title": "Retenciones puntuales en la AP-46 de Málaga y en la A-6 y A-42 de entrada a Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/25/retenciones-puntuales-en-la-ap-46-de-malaga-y-en-la-a-6-y-a-42-de-entrada-a-madrid/",
+        "date": "2024-12-25 21:00:42",
+        "sentiment_score": -0.5639624986797571
+    },
+    {
+        "title": "Super Once: estos son los resultados ganadores del Sorteo 5",
+        "image_url": "https://www.infobae.com/resizer/v2/U6YBWOQVNFF6REGYGRWQC2N2VQ.jpg?auth=6a0d43a333e01cb8a0fb71c22a07d46c09d6da4c1aa8eabd13fa4f2ab0851134&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/25/super-once-estos-son-los-resultados-ganadores-del-sorteo-5/",
+        "date": "2024-12-25 20:45:27",
+        "sentiment_score": 0.19462169520556927
+    },
+    {
+        "title": "República Dominicana captura a uno de sus nacionales solicitado por la Justicia de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/12/republica-dominicana-captura-a-uno-de-sus-nacionales-solicitado-por-la-justicia-de-espana/",
+        "date": "2024-12-25 20:32:26",
+        "sentiment_score": -0.7691522035747766
+    },
+    {
+        "title": "Rodri: \"Duermo con el Balón de Oro\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/rodri-duermo-con-el-balon-de-oro/",
+        "date": "2024-12-25 20:17:24",
+        "sentiment_score": 0.6805694494396448
+    },
+    {
+        "title": "Temas del día de EFE España del jueves 26 de diciembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/25/temas-del-dia-de-efe-espana-del-jueves-26-de-diciembre-de-2024/",
+        "date": "2024-12-25 20:16:49",
+        "sentiment_score": -0.018341701477766037
+    },
+    {
+        "title": "Fallece un hombre de 72 años en un accidente con un tractor en Pozoblanco (Córdoba)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/25/fallece-un-hombre-de-72-anos-en-un-accidente-con-un-tractor-en-pozoblanco-cordoba/",
+        "date": "2024-12-25 20:16:33",
+        "sentiment_score": -0.766126474365592
+    },
+    {
+        "title": "Jueves, 26 de diciembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/25/jueves-26-de-diciembre-de-2024/",
+        "date": "2024-12-25 20:00:43",
+        "sentiment_score": -0.014821261167526245
+    },
+    {
+        "title": "Un conato de incendio forestal obliga a evacuar a unas 200 personas en El Paso (La Palma)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/un-conato-de-incendio-forestal-obliga-a-evacuar-a-unas-200-personas-en-el-paso-la-palma/",
+        "date": "2024-12-25 19:32:44",
+        "sentiment_score": -0.29047592729330063
+    },
+    {
+        "title": "Bukele enviará a Costa Rica un avión con ayuda humanitaria que ofreció a España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/12/bukele-enviara-a-costa-rica-un-avion-con-ayuda-humanitaria-que-ofrecio-a-espana/",
+        "date": "2024-12-25 19:32:05",
+        "sentiment_score": 0.027821630239486694
+    },
+    {
+        "title": "El Papa Francisco pide por la paz en Ucrania y Rusia en su mensaje de Navidad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190756238.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francisco-paz-ucrania-rusia-discurso-navidad-orix/",
+        "date": "2024-12-25 19:05:17",
+        "sentiment_score": -0.01921236515045166
+    },
+    {
+        "title": "Lo más destacado de Los Ángeles Auto Show 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/destacado-auto-show-los-angeles-2024-clix/",
+        "date": "2024-12-25 17:42:05",
+        "sentiment_score": 0.7431135773658752
+    },
+    {
+        "title": "Video muestra momento en que avión se estrella en Kazajstán",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/horiz-crash-00-00-15-11-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/avion-estrella-kazajstan-trax/",
+        "date": "2024-12-25 17:16:01",
+        "sentiment_score": -0.6969413757324219
+    },
+    {
+        "title": "La Natividad en el verso claro de Lope",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2024/12/26/LopedeVega-RdJ7jfuN6R49zRCDuLUejeM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santiago-arauz-de-robles-natividad-verso-claro-lope-20241226213758-nts.html",
+        "date": "2024-12-25 20:37:59",
+        "sentiment_score": -0.030114978551864624
+    },
+    {
+        "title": "Darse la mano",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2024/11/15/veterinario-k7ED--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-darse-mano-20241226213758-nts.html",
+        "date": "2024-12-25 20:37:58",
+        "sentiment_score": 0.026388227939605713
+    },
+    {
+        "title": "Pasaditos de decibelios",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/11/29/vtc-kyPD--170x119@Diario%20Sur.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-pasaditos-decibelios-20241226213757-nts.html",
+        "date": "2024-12-25 20:37:57",
+        "sentiment_score": -0.042283982038497925
+    },
+    {
+        "title": "Los cristianos de Siria celebran la Navidad entre el temor y la esperanza",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/25/damasco-RXyF4GC6xMjV6UNct6TUdnN-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/cristianos-siria-celebran-navidad-temor-esperanza-20241225213007-nt.html",
+        "date": "2024-12-25 20:31:55",
+        "sentiment_score": -0.06880512833595276
+    },
+    {
+        "title": "«Fantasma», «perdedor», «oportunismo presumido»... Manuel Valls es recibido con duras críticas en su regreso a la política francesa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/25/valls-RGhoe1vkPI8ihEKajTULIPK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/fantasma-perdedor-oportunismo-presumido-manuel-valls-recibido-20241225212512-nt.html",
+        "date": "2024-12-25 20:25:12",
+        "sentiment_score": -0.2521039694547653
+    },
+    {
+        "title": "El bien común, tras el muro",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/12/17/pescaderia-granada-U2201640265548G1E--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-bien-comun-tras-muro-20241226185826-nt.html",
+        "date": "2024-12-25 19:34:33",
+        "sentiment_score": -0.08944538235664368
+    },
+    {
+        "title": "Aumenta el hambre en el mundo y no alcanza la ayuda para combatirla",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/25/malnutrition-Rxai2tDWXKgagigdZgiIDBO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/aumenta-hambre-mundo-alcanza-ayuda-combatirla-20241225180441-nt.html",
+        "date": "2024-12-25 18:25:19",
+        "sentiment_score": -0.21017448604106903
+    },
+    {
+        "title": "Espacios compartidos",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-espacios-compartidos-20241226190938-nt.html",
+        "date": "2024-12-25 18:13:00",
+        "sentiment_score": -0.1689738780260086
+    },
+    {
+        "title": "La cena de Nochebuena",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2024/12/26/TERCERAABC_Nochebuena_NAVARRO-RzY0oguWGPR2FrSLAS6kd8L-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/fernando-navarro-cena-nochebuena-20241226190928-nt.html",
+        "date": "2024-12-25 18:09:28",
+        "sentiment_score": -0.08720171451568604
+    },
+    {
+        "title": "Villancico de intemperie",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/12/22/registro-horario-kb8E--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-villancico-intemperie-20241226190913-nt.html",
+        "date": "2024-12-25 18:09:20",
+        "sentiment_score": -0.07645255327224731
+    },
+    {
+        "title": "Nochebuena en Madrid: más peleas, intoxicaciones y atrapados en el ascensor que el año pasado",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E3L5JA3E5ZFBHJOJML4MKHAGLE.png?auth=2fa334a32692482a1e1d605f1ecd3bd48b974f7d205e283ce8ea03eace566419&width=1200",
+        "tags": [
+            "josé luis martínez almeida",
+            "samur",
+            "madrid",
+            "bomberos",
+            "comunidad de madrid",
+            "policía municipal",
+            "isabel díaz ayuso"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-25/nochebuena-en-madrid-mas-peleas-intoxicaciones-y-atrapados-en-el-ascensor-que-el-ano-pasado.html",
+        "date": "2024-12-25 17:29:44",
+        "sentiment_score": 0.08801435679197311
+    },
+    {
+        "title": "La gestora del ‘Govern paralelo’ de Puigdemont anuncia elecciones para elegir nueva cúpula en febrero",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LM7MYQE2HBCUPFJVHFOUKQX6YQ.jpg?auth=aba37ad9f30fb5bc303424e53805a34ee7dcfa494b510e4685f138e7851d8a40&width=1200",
+        "tags": [
+            "cataluña",
+            "carles puigdemont",
+            "antoni comin i oliveres",
+            "independentismo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-25/la-gestora-del-govern-paralelo-de-puigdemont-anuncia-elecciones-para-elegir-nueva-cupula-en-febrero.html",
+        "date": "2024-12-25 17:20:23",
+        "sentiment_score": -0.884797889739275
+    },
+    {
+        "title": "Amics de la Gent Gran, una navidad en compañía para vencer a la soledad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XVCZHPYWY3VATJ4WXCBBIQB52E.jpg?auth=dccb2156ec176b251ac44bc075f6ecd2291530c34bcf1dc14d9c9a5967c30b8f&width=1200",
+        "tags": [
+            "once",
+            "nochebuena",
+            "abuelos",
+            "familia",
+            "paul newman",
+            "compañeros",
+            "sociedad",
+            "amor",
+            "manualidades",
+            "axa",
+            "voluntariado",
+            "fundación",
+            "soledad",
+            "barcelona",
+            "amiga",
+            "cine",
+            "escritores",
+            "michael jackson",
+            "arc de triomf",
+            "música",
+            "cataluña",
+            "greta garbo",
+            "navidad",
+            "regalos",
+            "voluntarios",
+            "nochevieja"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-25/amics-de-la-gent-gran-una-navidad-en-compania-para-vencer-a-la-soledad.html",
+        "date": "2024-12-25 17:16:46",
+        "sentiment_score": 0.3529903218150139
+    },
+    {
+        "title": "Rusia afirma que el hundimiento de su barco entre España y Argelia fue un “acto terrorista”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5XIIPIWJBV3ZOYJSFXIMMNUQRQ.jpg?auth=41c32f76d5e930f23d58b3f926432d51e588b98e93c0fe2dde1a3fc727ee7c04",
+        "tags": [
+            "sucesos",
+            "cartagena",
+            "accidentes marítimos",
+            "barcos",
+            "rusia",
+            "buques mercantes"
+        ],
+        "link": "https://elpais.com/internacional/2024-12-25/rusia-afirma-que-el-hundimiento-de-su-barco-entre-espana-y-argelia-fue-un-acto-terrorista.html",
+        "date": "2024-12-25 17:15:36",
+        "sentiment_score": -0.7500306181609631
+    },
+    {
+        "title": "Corberán, el entrenador con un máster en convivencia con propietarios",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/80a8353d-0c1b-4a5c-ada1-69126fad3f20_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2024/12/25/corberan-entrenador-master-convivencia-propietarios-112914969.html",
+        "date": "2024-12-25 22:12:36",
+        "sentiment_score": 0.02988480031490326
+    },
+    {
+        "title": "Sergio Ramos no para su disciplina y comparte entrenamiento en plena víspera de Navidad",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/ramos-e1735158972754.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "sergio ramos"
+        ],
+        "link": "https://eldiariony.com/2024/12/25/sergio-ramos-no-para-su-disciplina-y-comparte-entrenamiento-en-plena-vispera-de-navidad/",
+        "date": "2024-12-25 21:52:57",
+        "sentiment_score": 0.7103384956717491
+    },
+    {
+        "title": "Hijo de Kaká se viraliza por el gran parecido a su padre en la cancha",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/AP96437907042-e1735152977665.jpg",
+        "tags": [
+            "kaká",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2024/12/25/hijo-de-kaka-se-viraliza-por-el-gran-parecido-a-su-padre-en-la-cancha/",
+        "date": "2024-12-25 21:27:00",
+        "sentiment_score": 0.529458798468113
+    },
+    {
+        "title": "Pedro Martínez cumple 150 partidos de taronja mejorando sus propios números",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba1b40ab-a88e-442d-babf-30ad1ecf366f_16-9-aspect-ratio_default_0_x1247y937.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-basket/2024/12/25/pedro-martinez-camino-superar-primera-etapa-valencia-basket-112914607.html",
+        "date": "2024-12-25 20:45:34",
+        "sentiment_score": 0.5783011466264725
+    },
+    {
+        "title": "Mbappé: Pérdida o ganancia para el Real Madrid",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2024/10/ULTIMAS-NOTICIAS-Banner-Superior-300x250px-Version-APP.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/noticias/deportes/mbappe-perdida-o-ganancia-para-el-real-madrid/",
+        "date": "2024-12-25 20:38:43",
+        "sentiment_score": -0.8206917475908995
+    },
+    {
+        "title": "Figuras de Liverpool sorprendieron a un fanático de 6 años y emocionaron a todos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fanático",
+            "deportes",
+            "niño",
+            "liverpool",
+            "fútbol",
+            "navidad"
+        ],
+        "link": "https://www.elnacional.com/deportes/figuras-de-liverpool-sorprendieron-a-un-fanatico-de-6-anos/",
+        "date": "2024-12-25 20:30:55",
+        "sentiment_score": 0.724178284406662
+    },
+    {
+        "title": "Valencia contrata a Carlos Corberán, entrenador del West Brom, como su nuevo técnico",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/9/aa/9aa0399a-869e-590f-a80a-b4d12d2656fc/676c6cf2903dd.image.jpg?resize=300%2C198",
+        "tags": [
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/valencia-contrata-a-carlos-corber-n-entrenador-del-west-brom-como-su-nuevo-t-cnico/article_4be2358c-ef69-514d-a9e4-cf041b41dd96.html",
+        "date": "2024-12-25 20:30:11",
+        "sentiment_score": -0.052412986755371094
+    },
+    {
+        "title": "Jueves 26 de diciembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/25/jueves-26-de-diciembre-de-2024/",
+        "date": "2024-12-25 20:15:55",
+        "sentiment_score": -0.011702924966812134
+    },
+    {
+        "title": "Jorge Martín, campeón contra todos y contra todo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/927ddee0-0b0d-4fa6-a884-58bfbc1f7a33_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/motogp/2024/12/25/jorge-martin-campeon-112914997.html",
+        "date": "2024-12-25 21:53:58",
+        "sentiment_score": -0.337862566113472
+    },
+    {
+        "title": "La rotura de la catenaria obliga a los viajeros del tren a ir en bus de Monforte a Ourense",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2024/12/25/2024122522323171331.jpg",
+        "tags": [
+            "ribeira sacra"
+        ],
+        "link": "https://www.elprogreso.es/articulo/ribeira-sacra/rotura-catenaria-obliga-llevar-bus-viajeros-tren-ourense/202412252236531817328.html",
+        "date": "2024-12-25 21:36:53",
+        "sentiment_score": -0.3647960461676121
+    },
+    {
+        "title": "EEUU: ¿Cómo reclamar el cheque de estímulo del IRS? (+Monto)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735158641042.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-como-reclamar-el-cheque-de-estimulo-del-irs-monto--2024122518100",
+        "date": "2024-12-25 22:10:00",
+        "sentiment_score": 0.022140100598335266
+    },
+    {
+        "title": "EEUU | Beneficiarios del Seguro Social que recibirán pagos antes de Año Nuevo",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735164492292.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-beneficiarios-del-seguro-social-que-recibiran-pagos-antes-de-ano-nuevo-202412251830",
+        "date": "2024-12-25 22:03:00",
+        "sentiment_score": 0.10949626192450523
+    },
+    {
+        "title": "El Vinotinto Eduardo Bello anuncia que espera a su primer hijo (+Chisme)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735161959942.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/el-vinotinto-eduardo-bello-anuncia-que-espera-a-su-primer-hijo-chisme--2024122517300",
+        "date": "2024-12-25 21:30:00",
+        "sentiment_score": 0.26411961019039154
+    },
+    {
+        "title": "ALBA-TCP criticó intenciones de Trump de controlar el canal de Panamá",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735162205022.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/alba-tcp-critico-intenciones-de-trump-de-controlar-el-canal-de-panama-2024122517260",
+        "date": "2024-12-25 21:26:00",
+        "sentiment_score": -0.7619645316153765
+    },
+    {
+        "title": "Así funcionan los botones de pánico instalados en Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735161531313.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/asi-funcionan-los-botones-de-panico-instalados-en-caracas-2024122517180",
+        "date": "2024-12-25 21:18:00",
+        "sentiment_score": 0.23312877118587494
     }
 ];
