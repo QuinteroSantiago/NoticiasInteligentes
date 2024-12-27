@@ -110,71 +110,6 @@ export default [
         "sentiment_score": -0.8486746195703745
     },
     {
-        "title": "Una Navidad diferente tras la DANA en Valencia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21222041-70063-still.jpg?quality=100&strip=info",
-        "tags": [
-            "xpress",
-            "fast – news variety",
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/navidad-dana-valencia-afectados-tv/",
-        "date": "2024-12-23 14:04:51",
-        "sentiment_score": -0.4604872912168503
-    },
-    {
-        "title": "Varias familias de rehenes israelíes recibieron “señales de vida”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/failias-rehenes-israel-senales-de-vida-cafe-tv/",
-        "date": "2024-12-23 13:43:16",
-        "sentiment_score": -0.2974376529455185
-    },
-    {
-        "title": "Los hutíes atacan desde Yemen a Tel Aviv",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataques-huties-yemen-tel-aviv-cafe-tv/",
-        "date": "2024-12-23 13:40:18",
-        "sentiment_score": -0.7798749972134829
-    },
-    {
-        "title": "Homenaje a víctimas del ataque en mercado navideño en Alemania",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnn-fast-20241213123945390_1cbc10.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/homenaje-victimas-ataque-mercado-navideno-alemania-primera-manana-fast/",
-        "date": "2024-12-23 13:04:40",
-        "sentiment_score": -0.47820302471518517
-    },
-    {
-        "title": "Trump cuestiona las tarifas del canal de Panamá : “Nos están estafando”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-canal-de-panama-trax/",
-        "date": "2024-12-23 11:51:26",
-        "sentiment_score": -0.795071505010128
-    },
-    {
-        "title": "Ni China ni Corea del Norte: la historia del país de América Latina que \"eliminó\" la Navidad del calendario oficial hace más de 100 años",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1315162-navidad.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "uruguay",
-            "navidad",
-            "instanoticias",
-            "sociedad"
-        ],
-        "link": "https://cnnespanol.cnn.com/2024/12/23/uruguay-navidad-historia-orix/",
-        "date": "2024-12-23 11:20:57",
-        "sentiment_score": -0.4084211513400078
-    },
-    {
         "title": "El Gobierno transferirá a Sepes las viviendas titularidad del Estado para destinarlas al alquiler asequible",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/23/1486703798-RXQfgqBUnbjAnvdkfPyVj2M-1200x840@diario_abc.jpg",
         "tags": [
@@ -203,76 +138,6 @@ export default [
         "link": "https://www.abc.es/internacional/asesino-terrorista-facho-conservador-ignorante-2024-ano-20241223141956-nt.html",
         "date": "2024-12-23 14:44:40",
         "sentiment_score": -0.13952334225177765
-    },
-    {
-        "title": "Marcel Ciolacu repetirá como nuevo primer ministro de Rumanía bajo una gran coalición proeuropea",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/23/rumania-kBvF-U7031342990BrG-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/marcel-ciolacu-repetira-nuevo-primer-ministro-rumania-20241223143312-nt.html",
-        "date": "2024-12-23 13:33:12",
-        "sentiment_score": -0.052289724349975586
-    },
-    {
-        "title": "¿En que se parecen los musulmanes chiíes a los católicos?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/23/clrigos-R5R0QA5OirJyWkptSOk2JJJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/parecen-musulmanes-chiies-catolicos-20241223135517-nt.html",
-        "date": "2024-12-23 12:55:54",
-        "sentiment_score": -0.13499119877815247
-    },
-    {
-        "title": "El Gobierno extiende el escudo antiopas para empresas estratégicas hasta 2027",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/23/1490311316-RTNWWYUx05gpbdFsXbqXJYP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-extiende-escudo-antiopas-empresas-estrategicas-2027-20241223133205-nt.html",
-        "date": "2024-12-23 12:32:46",
-        "sentiment_score": -0.007750719785690308
-    },
-    {
-        "title": "Trump nombra embajador en Dinamarca y dice que el control de Groenlandia es «una necesidad absoluta»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/23/trumop-RWR32KfmXcWzuFACVK0XtOP-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-nombra-embajador-dinamarca-dice-control-groenlandia-20241223131945-nt.html",
-        "date": "2024-12-23 12:23:29",
-        "sentiment_score": -0.07010313868522644
-    },
-    {
-        "title": "Aviva acuerda la compra de la aseguradora Direct Line por 4.457 millones de euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/23/1490304149-Ry4l3mf4ouyMWbz7E728tSP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aviva-acuerda-compra-aseguradora-direct-line-4457-20241223122730-nt.html",
-        "date": "2024-12-23 11:37:33",
-        "sentiment_score": -0.03566828370094299
-    },
-    {
-        "title": "TikTok pide a Albania que «aclare urgentemente» sus planes para suspender el acceso a la plataforma en 2025",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/23/tiktok-kbWB-U7030811520jcH-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/tiktok-pide-albania-aclare-urgentemente-planes-suspender-20241223122858-nt.html",
-        "date": "2024-12-23 11:30:39",
-        "sentiment_score": -0.1469263732433319
-    },
-    {
-        "title": "Los precios de los alimentos navideños se disparan un 12,3%, según la OCU",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/23/1490309769-R4o7HO9HJhbm9Tzd8bsY32J-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/precios-alimentos-navidenos-disparan-123-segun-ocu-20241223120800-nt.html",
-        "date": "2024-12-23 11:08:00",
-        "sentiment_score": -0.10626278817653656
     },
     {
         "title": "Mueren tres personas en un choque frontal de un turismo y un camión en Riudecols, Tarragona",
@@ -7156,5 +7021,482 @@ export default [
         "link": "https://2001online.com/servicios/sistema-patria-inicia-pago-de-bono-familiar-este-26dic-monto--2024122614310",
         "date": "2024-12-26 18:31:00",
         "sentiment_score": 0.13273223489522934
+    },
+    {
+        "title": "El albanés Uzuni llega a los cien partidos con el Granada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-albanes-uzuni-llega-a-los-cien-partidos-con-el-granada/",
+        "date": "2024-12-27 02:03:22",
+        "sentiment_score": 0.9028797578066587
+    },
+    {
+        "title": "El Valencia recupera a Hugo Duro y a Almeida en la vuelta a los entrenamientos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-valencia-recupera-a-hugo-duro-y-a-almeida-en-la-vuelta-a-los-entrenamientos/",
+        "date": "2024-12-27 02:03:02",
+        "sentiment_score": 0.5545217618346214
+    },
+    {
+        "title": "El Gobierno pide al Ayuntamiento de Cádiz que desista de cambiar el nombre del estadio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-gobierno-pide-al-ayuntamiento-de-cadiz-que-desista-de-cambiar-el-nombre-del-estadio/",
+        "date": "2024-12-27 02:02:43",
+        "sentiment_score": -0.8215868379920721
+    },
+    {
+        "title": "Tasende se entrena con el grupo y Soberón sigue al margen",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/tasende-se-entrena-con-el-grupo-y-soberon-sigue-al-margen/",
+        "date": "2024-12-27 02:02:25",
+        "sentiment_score": -0.7378481216728687
+    },
+    {
+        "title": "Conchita Martínez: “La Billie Jean King va a ser una fiesta del tenis”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/conchita-martinez-la-billie-jean-king-va-a-ser-una-fiesta-del-tenis/",
+        "date": "2024-12-27 02:02:05",
+        "sentiment_score": 0.7319741174578667
+    },
+    {
+        "title": "Previsión del clima en Barcelona para antes de salir de casa este 27 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/RLQIS4EQTBARNJLLAX3A5C2MHQ.jpg?auth=e0bf7693fe2f1d3c611d547542df3f9f42e6b6f79848082d3ac658014ab80582&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/27/prevision-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-27-de-diciembre/",
+        "date": "2024-12-27 02:01:25",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "La historiadora Miren Arzalluz nueva directora del Museo Guggenheim Bilbao",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-historiadora-miren-arzalluz-nueva-directora-del-museo-guggenheim-bilbao/",
+        "date": "2024-12-27 01:48:25",
+        "sentiment_score": 0.05693626403808594
+    },
+    {
+        "title": "Abiertos ya 139 kilómetros de carreteras de los 160 afectados por la dana en Valencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/abiertos-ya-139-kilometros-de-carreteras-de-los-160-afectados-por-la-dana-en-valencia/",
+        "date": "2024-12-27 01:48:06",
+        "sentiment_score": 0.532254945486784
+    },
+    {
+        "title": "La danza mejora el bienestar emocional de las personas con Alzheimer, según un estudio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-danza-mejora-el-bienestar-emocional-de-las-personas-con-alzheimer-segun-un-estudio/",
+        "date": "2024-12-27 01:47:47",
+        "sentiment_score": 0.6576907299458981
+    },
+    {
+        "title": "Lla vicepresidenta valenciana sobre los cambios: Estamos hablando del cómo, no de quiénes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/lla-vicepresidenta-valenciana-sobre-los-cambios-estamos-hablando-del-como-no-de-quienes/",
+        "date": "2024-12-27 01:47:27",
+        "sentiment_score": 0.5545812621712685
+    },
+    {
+        "title": "OPINIÓN | Jorge Castañeda: Amenaza de Trump de quitarle el canal a Panamá es falsa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190645576-20241227000632717_003322.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/opinion-jorge-castaneda-trump-panama-canal-embajador-panorama-mundial-tv/",
+        "date": "2024-12-27 02:08:27",
+        "sentiment_score": -0.51323601603508
+    },
+    {
+        "title": "Netanyahu advierte que Israel seguirá atacando Yemen",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/netanyahu-israel-ataques-yemen-medio-oriente-panorama-mundial-tv/",
+        "date": "2024-12-27 02:00:31",
+        "sentiment_score": -0.6186259612441063
+    },
+    {
+        "title": "Cómo romper el hábito de dormir con la televisión de fondo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21230459-35898-832-still.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/romper-habito-dormir-con-television-minuto-de-salud-fast/",
+        "date": "2024-12-27 01:04:44",
+        "sentiment_score": -0.2567751407623291
+    },
+    {
+        "title": "Gobierno de Ecuador dice que “no encubrirá a nadie” en el caso de los cuatro menores desaparecidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190608064-20241227000523310.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-desaparicion-forzada-menores-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-27 00:29:16",
+        "sentiment_score": -0.43083151802420616
+    },
+    {
+        "title": "¿Por qué Trump dice que China opera el canal de Panamá?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190645576-20241227000632717.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/canal-panama-china-trump-mulino-reaccion-perspectivas-mexico-tv/",
+        "date": "2024-12-27 00:25:01",
+        "sentiment_score": -0.38468450121581554
+    },
+    {
+        "title": "Donald Trump aprovechó la Navidad para publicar varios mensajes en Truth Social",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1236014455-20241227000955186.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-redes-sociales-navidad-ush-dusa-tv/",
+        "date": "2024-12-27 00:10:48",
+        "sentiment_score": -0.051525846123695374
+    },
+    {
+        "title": "Mulino: No hay absolutamente ninguna participación china en el canal de Panamá",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2176499363.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mulino-canal-de-panama-china-perspectivas-mexico-tv-fast/",
+        "date": "2024-12-27 00:03:34",
+        "sentiment_score": -0.8033584887161851
+    },
+    {
+        "title": "“Una Nochebuena muy, muy afortunada\": un hombre provoca una avalancha y salva a su hermano sepultado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hermanos-provocar-avalancha-utah-ush-trax/",
+        "date": "2024-12-26 22:34:08",
+        "sentiment_score": 0.06147852540016174
+    },
+    {
+        "title": "La Tapa, una revolución gastronómica del siglo XXI",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-tapa-una-revolucion-gastronomica-del-siglo-xxi/",
+        "date": "2024-12-27 01:47:06",
+        "sentiment_score": 0.1606544405221939
+    },
+    {
+        "title": "El test de Navidad de Carlos Areces, de 'La que se avecina': \"No pongo ni árbol ni belén, y en Nochevieja cenaría con Hitler\"",
+        "image_url": "https://s1.elespanol.com/2024/12/26/reportajes/911669433_251956906_1706x960.jpg?contentId=ESPIMA20241226_0609",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241227/test-navidad-carlos-areces-avecina-no-pongo-arbol-belen-nochevieja-cenaria-hitler/911659207_0.html",
+        "date": "2024-12-27 01:15:27",
+        "sentiment_score": -0.2489771470427513
+    },
+    {
+        "title": "Los 5 proyectos 'estrella' que Ayuso arrancará en 2025 mientras se \"prepara para los ataques\" de Pedro Sánchez",
+        "image_url": "https://s1.elespanol.com/2024/12/26/madrid/comunidad/911669513_251959258_1706x960.jpg?contentId=ESPIMA20241226_0689",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20241227/proyectos-estrella-ayuso-arrancara-prepara-ataques-pedro-sanchez/911659258_0.html",
+        "date": "2024-12-27 01:07:07",
+        "sentiment_score": -0.8553423807024956
+    },
+    {
+        "title": "Absuelto un guardia civil que abatió a un joven con esquizofrenia en Manzanares (Madrid) al actuar en legítima defensa",
+        "image_url": "https://www.infobae.com/resizer/v2/RNE6NXR4V5DBXLHVW4ND4RLG3M.jpg?auth=e80482076f2027920af3685794499800b5bed2a897948de34625dd41f2da6bb3&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/absuelto-un-guardia-civil-que-abatio-a-un-joven-con-esquizofrenia-en-manzanares-madrid-al-actuar-en-legitima-defensa/",
+        "date": "2024-12-27 01:03:33",
+        "sentiment_score": -0.7732733767479658
+    },
+    {
+        "title": "Yolanda Díaz y el acuerdo 'fake' para reducir la jornada a 37,5 horas",
+        "image_url": "https://s1.elespanol.com/2024/12/20/opinion/editoriales/910169922_251864899_1706x960.jpg?contentId=ESPIMA20241220_0948",
+        "tags": [
+            "business",
+            "politics"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20241227/yolanda-diaz-acuerdo-fake-reducir-jornada-horas/911788815_13.html",
+        "date": "2024-12-27 01:00:18",
+        "sentiment_score": -0.764336571097374
+    },
+    {
+        "title": "Tebas gana su guerra contra Rubiales: la limpia de Louzán en la RFEF",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/27/culemania/palco/911918800_13915854_1706x960.jpg?contentId=ESPIMA20241227_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241227/tebas-guerra-contra-rubiales-la-louzan-rfef/911658885_0.html",
+        "date": "2024-12-27 00:46:41",
+        "sentiment_score": -0.05240347981452942
+    },
+    {
+        "title": "Qué información podría recuperar la Guardia Civil del móvil del fiscal general tras el borrado masivo de sus mensajes",
+        "image_url": "https://s1.elespanol.com/2017/04/25/actualidad/actualidad_211241303_129858886_1706x960.jpg?contentId=ESPIMA20170425_2429",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20241227/informacion-podria-recuperar-guardia-civil-movil-fiscal-general-borrado-masivo-mensajes/911659097_0.html",
+        "date": "2024-12-27 00:29:02",
+        "sentiment_score": -0.15915914624929428
+    },
+    {
+        "title": "¿Qué canciones se escuchan en los vestuarios de los equipos de LaLiga?",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/12/23/6769ad9c6cf0a.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/que-canciones-escuchan-vestuarios-equipos-laliga-20241227_3068092.html",
+        "date": "2024-12-27 00:26:54",
+        "sentiment_score": -0.02850016951560974
+    },
+    {
+        "title": "De pista de hielo en Madrid a concierto punk para perretes: estos son los planes ODS de la semana",
+        "image_url": "https://s1.elespanol.com/2024/12/24/enclave-ods/semanales/911169356_251930213_1706x960.jpg?contentId=ESPIMA20241224_0482",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/semanales/20241227/pista-hielo-madrid-concierto-punk-perretes-planes-ods-semana/911159185_0.html",
+        "date": "2024-12-27 00:09:52",
+        "sentiment_score": 0.6350983018055558
+    },
+    {
+        "title": "El público de los entrenamientos de España podrá colaborar con un donativo a los afectados por la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/X2MK4XBWXFDPBHQARG5MFL6MDE.jpg?auth=77b0a2e281b69769d7fc9e8a74774cb865ebed58fedd593bad916a604e4198eb&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/12/el-publico-de-los-entrenamientos-de-espana-podra-colaborar-con-un-donativo-a-los-afectados-por-la-dana/",
+        "date": "2024-12-27 00:02:35",
+        "sentiment_score": 0.24009159952402115
+    },
+    {
+        "title": "Estos son los 10 pódcast de salud y bienestar más reproducidos de 2024 en España",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/42207f95362cf80a48ab58f7db36018a/crop/30x0/2792x1841/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/25/17351219461653.jpg",
+        "tags": [
+            "artículos cristina galafate",
+            "bienestar",
+            "estilo de vida",
+            "podcast"
+        ],
+        "link": "https://www.elmundo.es/vida-sana/bienestar/2024/12/27/676bcbb121efa01c2c8b4571.html",
+        "date": "2024-12-27 02:02:27",
+        "sentiment_score": 0.6652756035327911
+    },
+    {
+        "title": "María de la Orden: \"Existe ese miedo al qué dirán o al riesgo de sobresalir demasiado\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/9a3bb00481373b5de048cfccb9cb16dd/crop/79x296/1348x1989/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/19/17346262112540.jpg",
+        "tags": [
+            "yodona",
+            "moda"
+        ],
+        "link": "https://www.elmundo.es/yodona/moda/2024/12/27/676442dfe9cf4a81268b45c0.html",
+        "date": "2024-12-27 02:02:26",
+        "sentiment_score": 0.47494005411863327
+    },
+    {
+        "title": "Figa Flawas, Oques Grasses y Sopa de Cabra actuarán el 22 de noviembre por València",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/figa-flawas-oques-grasses-y-sopa-de-cabra-actuaran-el-22-de-noviembre-por-valencia/",
+        "date": "2024-12-27 01:33:24",
+        "sentiment_score": 0.6523091774433851
+    },
+    {
+        "title": "Un millar de estudiantes reclaman en Barcelona la dimisión de Carlos Mazón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/un-millar-de-estudiantes-reclaman-en-barcelona-la-dimision-de-carlos-mazon/",
+        "date": "2024-12-27 01:18:06",
+        "sentiment_score": -0.804644363000989
+    },
+    {
+        "title": "La CUP defiende revisar la ubicación de campings y planeamiento urbanístico en zonas inundables",
+        "image_url": "https://www.infobae.com/resizer/v2/TJ2CWR3KZ5CLLJBNLK5LZ5EEZM.jpg?auth=2f71f51f68e01610f42ad26f8de17cd63e06e83ec3fe415df5d007e687884c73&height=1269&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-cup-defiende-revisar-la-ubicacion-de-campings-y-planeamiento-urbanistico-en-zonas-inundables/",
+        "date": "2024-12-27 01:02:13",
+        "sentiment_score": -0.8538104891777039
+    },
+    {
+        "title": "Cayeron por robo de moto",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/12/delincuentes-robos-motos-anzoategui-730x524.jpg",
+        "tags": [
+            "ministerio público",
+            "detenido",
+            "robos",
+            "flagrancia",
+            "motos",
+            "anzoátegui",
+            "cicpc",
+            "policía científica",
+            "detenidos",
+            "investigación",
+            "sucesos"
+        ],
+        "link": "https://primicia.com.ve/sucesos/cayeron-por-robo-de-moto/",
+        "date": "2024-12-27 00:45:44",
+        "sentiment_score": -0.5661037098616362
+    },
+    {
+        "title": "Cuál es el grado de estudios de Javier Aguirre, el entrenador que buscará salvar a la selección mexicana rumbo al Mundial",
+        "image_url": "https://www.infobae.com/resizer/v2/LBTNYQ7U65FTBCA46RRO5BZXPY.jpg?auth=7400487de4c986176624e195d662d2b4c15d5bce03e7e17860a6cef115b82fc3&height=3712&smart=true&width=5568",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2024/07/23/este-es-el-grado-de-estudios-de-javier-aguirre-el-entrenador-que-buscara-salvar-a-la-seleccion-mexicana-rumbo-al-mundial/",
+        "date": "2024-12-27 00:34:32",
+        "sentiment_score": 0.129675030708313
+    },
+    {
+        "title": "Pop urbano, flamenco o mensajes feministas entre las propuestas de las 16 canciones del Benidorm Fest 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/EISQS7L76JFBHF3MAEVRV5PCQ4.jpg?auth=834c33c791b7ad623547dabedc707f5309ebeab7de2fdf8a2f034e7382a0ac92&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/12/pop-urbano-flamenco-o-mensajes-feministas-entre-las-propuestas-de-las-16-canciones-del-benidorm-fest-2025/",
+        "date": "2024-12-27 00:32:54",
+        "sentiment_score": 0.52422203309834
+    },
+    {
+        "title": "Hombre fallece tras recibir dosis letal de quimioterapia",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735263887867.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/hombre-fallece-tras-recibir-dosis-letal-de-quimioterapia-2024122621460",
+        "date": "2024-12-27 01:46:00",
+        "sentiment_score": -0.6077920254319906
+    },
+    {
+        "title": "Estas son las artistas femeninas más influyentes del 2024",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735004730701.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/estas-son-las-artistas-femeninas-mas-influyentes-del-2024-2024122621450",
+        "date": "2024-12-27 01:45:00",
+        "sentiment_score": 0.8971764240413904
+    },
+    {
+        "title": "Maduro pide reactivar construcción del teleférico hotel Humbolt - La Guaira",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735259354087.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-pide-reactivar-construccion-del-teleferico-hotel-humbolt---la-guaira-2024122621330",
+        "date": "2024-12-27 01:33:00",
+        "sentiment_score": 0.7641682866960764
+    },
+    {
+        "title": "Así puedes acceder a Credimujer en el Banco de Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735004262792.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/asi-puedes-acceder-a-credimujer-en-el-banco-de-venezuela-2024122621300",
+        "date": "2024-12-27 01:30:00",
+        "sentiment_score": -0.08284508809447289
+    },
+    {
+        "title": "EEUU | Las mejores aplicaciones para enviar dinero a México",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735262840320.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-las-mejores-aplicaciones-para-enviar-dinero-a-mexico-2024122621260",
+        "date": "2024-12-27 01:26:00",
+        "sentiment_score": 0.023255839943885803
+    },
+    {
+        "title": "EEUU| ¿Cómo proteger a tu mascota de contraer gripe aviar?",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735264225282.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/eeuu-como-proteger-a-tu-mascota-de-contraer-gripe-aviar--2024122621260",
+        "date": "2024-12-27 01:26:00",
+        "sentiment_score": 0.13505087047815323
+    },
+    {
+        "title": "Argentina fija el nuevo salario mínimo desde diciembre (+MONTOS)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735262875243.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/argentina-fija-el-nuevo-salario-minimo-desde-diciembre-montos--2024122621110",
+        "date": "2024-12-27 01:11:00",
+        "sentiment_score": 0.08385828509926796
+    },
+    {
+        "title": "California: ¿Cuáles son los trabajadores migrantes en riesgo de deportación?",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735261561522.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-cuales-son-los-trabajadores-migrantes-en-riesgo-de-deportacion--202412262150",
+        "date": "2024-12-27 01:05:00",
+        "sentiment_score": -0.0052924007177352905
+    },
+    {
+        "title": "Esta es la enfermedad que llevó a un hijo de Diomedes Díaz a perder una pierna",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735005104682.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/esta-es-la-enfermedad-que-llevo-a-un-hijo-de-diomedes-diaz-a-perder-una-pierna-2024122620400",
+        "date": "2024-12-27 00:40:00",
+        "sentiment_score": -0.6768047865480185
+    },
+    {
+        "title": "LVBP| Los detalles defensivos que pueden cambiar el rumbo del Round Robin",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735261242394.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/lvbp-los-detalles-defensivos-que-pueden-cambiar-el-rumbo-del-round-robin-2024122620150",
+        "date": "2024-12-27 00:15:00",
+        "sentiment_score": 0.04858434200286865
     }
 ];
