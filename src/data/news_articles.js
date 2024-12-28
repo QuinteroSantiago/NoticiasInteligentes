@@ -120,89 +120,6 @@ export default [
         "sentiment_score": -0.3007451593875885
     },
     {
-        "title": "Cristianos en Medio Oriente celebran la Navidad entre la fe y la incertidumbre",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190593068.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cristianos-medio-oriente-navidad-cafe-tv/",
-        "date": "2024-12-24 14:03:12",
-        "sentiment_score": -0.9112953133881092
-    },
-    {
-        "title": "El narcotraficante Fabio Ochoa Vázquez regresa a Colombia tras cumplir condena en EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21215614-689122-333-still.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/fabio-ochoa-vazquez-narco-llega-colombia-cafe-tv/",
-        "date": "2024-12-24 13:56:34",
-        "sentiment_score": -0.7569583021104336
-    },
-    {
-        "title": "Panameños defienden la soberanía del canal de Panamá",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190645515.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/panamenos-defienden-canal-panama-cafe-tv/",
-        "date": "2024-12-24 13:50:21",
-        "sentiment_score": -0.7027099318802357
-    },
-    {
-        "title": "Todos los vuelos de American Airlines fueron suspendidos en EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2153859637-20241224132125582.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/vuelos-suspendidos-american-airlines-ush-cafe-tv/",
-        "date": "2024-12-24 13:46:07",
-        "sentiment_score": -0.868600033223629
-    },
-    {
-        "title": "Desafíos de la estabilidad cambiaria en Argentina para el 2025",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnn-fast-20241213123945390_6ec1c7.png",
-        "tags": [
-            "xpress",
-            "argentina",
-            "fast – general"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/desafios-estabilidad-cambiaria-argentina-2025-primera-manana-fast/",
-        "date": "2024-12-24 13:00:21",
-        "sentiment_score": 0.050912272185087204
-    },
-    {
-        "title": "Las 5 noticias de la madrugada del 24 de diciembre en CNN en Español",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "xpress",
-            "fast – news briefs"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/noticias-madrugada-cnne-24-de-diciembre-2024-primera-manana-fast/",
-        "date": "2024-12-24 12:51:29",
-        "sentiment_score": 0.011376932263374329
-    },
-    {
-        "title": "American Airlines, la aerolínea más grande del mundo, cancela todos sus vuelos en plena Nochebuena",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/24/Ultimahora-kq5B-U7034266266Gg-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/american-airlines-aerolinea-grande-mundo-cancela-vuelos-20241224140210-nt.html",
-        "date": "2024-12-24 13:03:31",
-        "sentiment_score": -0.6673901248723269
-    },
-    {
-        "title": "Los 10 avances más relevantes en salud de 2024, y para 2025",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/12/24/ojos-cell-RnIXRzYTpeyhUIv7rxO2ICJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/principales-avances-medicos-2024-20241224140541-nt.html",
-        "date": "2024-12-24 11:41:56",
-        "sentiment_score": -0.0429663360118866
-    },
-    {
         "title": "Un tiroteo a plena luz del día en Marbella acaba con un hombre herido",
         "image_url": "https://imagenes.elpais.com/resizer/v2/ZUQBNQXYIHEJZREZY44EDETNTY.jpg?auth=e22598db6114d4e2a15a095d1f71cc5bd9a75795dc5e51f61c0abb269dbccaad&width=1200",
         "tags": [
@@ -234,80 +151,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2024-12-24/se-mantiene-la-rebaja-del-60-en-el-transporte-publico-de-madrid-pero-durante-seis-meses.html",
         "date": "2024-12-24 15:42:12",
         "sentiment_score": 0.011478632688522339
-    },
-    {
-        "title": "Cae una banda de atracadores italianos que robaba joyerías en Portugal y se ocultaba en Galicia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CQG6UOA2YMDYTIZMMFYSFRFWLA.jpg?auth=5f4bad29552faa4fbb331d828743cb1763e1579e36dbbe3f11d80f240f9aac77",
-        "tags": [
-            "joyerías",
-            "españa",
-            "italia",
-            "galicia",
-            "crimen organizado",
-            "europol",
-            "delincuencia",
-            "detenciones",
-            "sucesos",
-            "guardia civil",
-            "atracos",
-            "marruecos",
-            "portugal"
-        ],
-        "link": "https://elpais.com/espana/2024-12-24/cae-una-banda-de-atracadores-italianos-que-robaba-joyerias-en-portugal-y-se-ocultaba-en-galicia.html",
-        "date": "2024-12-24 13:36:56",
-        "sentiment_score": -0.7068856861442327
-    },
-    {
-        "title": "Hallado un cadáver semienterrado en Alicante, la tercera muerte violenta en la provincia en una semana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JJMPP3VXSRE7DOG26SLXR73IKQ.jpg?auth=7fe05ab26a96bb6833f6bd4b3e7a3095a5b05796476f31886bee614a4d64bdf4",
-        "tags": [
-            "españa",
-            "comunidad valenciana",
-            "sucesos",
-            "guardia civil",
-            "alicante",
-            "homicidios"
-        ],
-        "link": "https://elpais.com/espana/2024-12-24/hallado-un-cadaver-semienterrado-en-un-pozo-en-alicante-la-tercera-muerte-violenta-en-la-provincia-en-una-semana.html",
-        "date": "2024-12-24 13:17:47",
-        "sentiment_score": -0.5984775014221668
-    },
-    {
-        "title": "Sánchez ensalza la labor “encomiable” de las fuerzas armadas en la tragedia de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7T63X5OB5DCJPA36YHAD3ZIZKI.jpg?auth=e127c82b00fa40e010b3e49272fa56c9f2ddd07cae5d8c7f355ab77db4136fc4",
-        "tags": [
-            "gobierno",
-            "inundaciones dana octubre 2024",
-            "ministerio de defensa",
-            "margarita robles",
-            "valencia",
-            "ejército español",
-            "guerra de rusia en ucrania",
-            "rusia",
-            "fuerzas armadas",
-            "españa",
-            "pedro sánchez",
-            "política",
-            "tropas"
-        ],
-        "link": "https://elpais.com/espana/2024-12-24/sanchez-ensalza-la-labor-encomiable-de-las-fuerzas-armadas-en-la-tragedia-de-la-dana.html",
-        "date": "2024-12-24 12:54:56",
-        "sentiment_score": 0.13833492994308472
-    },
-    {
-        "title": "Puigdemont avisa de nuevo: no apoyará a Sánchez si continúa “la estrategia que pretende hundir” a Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GWX2VM55DZCS5JA6MT277MUVZA.JPG?auth=3218a5408574b72591d6f797f56ded4fa4b3064089d9d622178a1792cabd8970",
-        "tags": [
-            "carles puigdemont",
-            "cataluña",
-            "ley de amnistía",
-            "salvador illa",
-            "procés independentista catalán",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-24/puigdemont-avisa-de-nuevo-no-apoyara-a-sanchez-si-continua-la-estrategia-que-pretende-hundir-a-cataluna.html",
-        "date": "2024-12-24 12:50:27",
-        "sentiment_score": -0.8811802435666323
     },
     {
         "title": "La Biblioteca Nacional expone documentos de 800 años del archivo del conde de Orgaz",
@@ -7217,5 +7060,445 @@ export default [
         "link": "https://2001online.com/usa/servicios/illinois-conoce-todos-los-artistas-latinos-que-tendran-concierto-en-chicago-en-2025-202412271750",
         "date": "2024-12-27 21:05:00",
         "sentiment_score": 0.3170454651117325
+    },
+    {
+        "title": "Castilla-La Mancha desactiva el Plan de Riesgos Meteorológicos tras 15 días operativo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/castilla-la-mancha-desactiva-el-plan-de-riesgos-meteorologicos-tras-15-dias-operativo/",
+        "date": "2024-12-28 02:03:13",
+        "sentiment_score": -0.6722512394189835
+    },
+    {
+        "title": "El PP pide un cambio reglamentario en el Congreso para forzar a Sánchez a celebrar el debate del estado de la Nación",
+        "image_url": "https://www.infobae.com/resizer/v2/74UAGVQ5GJHJJLTGJBHZGJYASA.jpg?auth=9e72ba8ce69f15a9509180dba1c4f0c4d6c809a70974596bf96587afc7587a39&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-pp-pide-un-cambio-reglamentario-en-el-congreso-para-forzar-a-sanchez-a-celebrar-el-debate-del-estado-de-la-nacion/",
+        "date": "2024-12-28 02:02:47",
+        "sentiment_score": 0.17330512404441833
+    },
+    {
+        "title": "Temporal- Abascal replica a Sánchez que lo que \"mata\" es no lanzar alertas a tiempo y tener un \"desaprensivo\" en Moncloa",
+        "image_url": "https://www.infobae.com/resizer/v2/PRQWI5UH6JGVXK5BTNJBBSIOUY.jpg?auth=e58ce10f84c7d0eb758ea9e31c843f492a8c741654e228d93c679398c4f315d0&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/temporal-abascal-replica-a-sanchez-que-lo-que-mata-es-no-lanzar-alertas-a-tiempo-y-tener-un-desaprensivo-en-moncloa/",
+        "date": "2024-12-28 02:02:08",
+        "sentiment_score": 0.00024005770683288574
+    },
+    {
+        "title": "Temporal- El ministro Torres comparecerá mañana en el Pleno del Congreso para hacer balance de la actuación del Gobierno",
+        "image_url": "https://www.infobae.com/resizer/v2/CAHKZJPUO5F7DJ5PYDPZNN72JY.jpg?auth=75f6039a26a8d2c705978907fd710794d7980ecfb7d0481125e907efe351b924&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/temporal-el-ministro-torres-comparecera-manana-en-el-pleno-del-congreso-para-hacer-balance-de-la-actuacion-del-gobierno/",
+        "date": "2024-12-28 01:48:14",
+        "sentiment_score": -0.5696812234818935
+    },
+    {
+        "title": "Argentina alcanza otro superávit fiscal en octubre, según el ministro de Economía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/argentina-alcanza-otro-superavit-fiscal-en-octubre-segun-el-ministro-de-economia/",
+        "date": "2024-12-28 01:02:25",
+        "sentiment_score": 0.6567234843969345
+    },
+    {
+        "title": "Becas 2025 para colombianos: anuncian financiación para programas de maestría en España",
+        "image_url": "https://www.infobae.com/resizer/v2/DEAKE57ADJGAHDDECX5F4GCSNU.jpg?auth=67f357219bbc1dcc1473376bf6b0220e7c837b316566268a59ca684805a4f357&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/12/28/becas-2025-para-colombianos-anuncian-financiacion-para-programas-de-maestria-en-espana/",
+        "date": "2024-12-28 00:57:12",
+        "sentiment_score": 0.7928768191486597
+    },
+    {
+        "title": "El grupo hotelero canario Lopesan compra el Hotel Miguel Ángel de Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-grupo-hotelero-canario-lopesan-compra-el-hotel-miguel-angel-de-madrid/",
+        "date": "2024-12-28 00:48:20",
+        "sentiment_score": 0.5403168983757496
+    },
+    {
+        "title": "El bitcóin roza los 90.000 dólares y después retrocede",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-bitcoin-roza-los-90000-dolares-y-despues-retrocede/",
+        "date": "2024-12-28 00:48:02",
+        "sentiment_score": 0.06132812798023224
+    },
+    {
+        "title": "El grupo canario Lopesan desembarca en Madrid con la compra del hotel Miguel Ángel",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-grupo-canario-lopesan-desembarca-en-madrid-con-la-compra-del-hotel-miguel-angel/",
+        "date": "2024-12-28 00:47:43",
+        "sentiment_score": 0.8255576509982347
+    },
+    {
+        "title": "Inmocemento se estrena en bolsa con un descenso próximo al 10 %",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/12/inmocemento-se-estrena-en-bolsa-con-un-descenso-proximo-al-10/",
+        "date": "2024-12-28 00:47:24",
+        "sentiment_score": 0.6442110985517502
+    },
+    {
+        "title": "El nuevo ‘modus operandi’ de secuestros de migrantes en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2185131423.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/secuestro-migrantes-modus-operandi-perspectivas-mexico-tv/",
+        "date": "2024-12-28 01:54:40",
+        "sentiment_score": -0.3937942236661911
+    },
+    {
+        "title": "¿Buscará Trump hacer que México sea tercer país de albergue de deportados?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190944478.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-nueva-administracion-deportaciones-masivas-perspectivas-mexico-tv/",
+        "date": "2024-12-28 01:18:17",
+        "sentiment_score": -0.5394546985626221
+    },
+    {
+        "title": "Musk y Ramaswamy piden ampliar la cantidad de visas para trabajadores inmigrantes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2176089209-20241228000750559.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-trump-musk-ramaswamy-visas-trabajo-ush-dusa-tv/",
+        "date": "2024-12-28 00:08:42",
+        "sentiment_score": 0.21021124720573425
+    },
+    {
+        "title": "Sospechoso de asesinato en el metro de Nueva York tendrá que presentarse ante la Corte en enero",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cnne-1386697-230504054437-01-nyc-subway-death-050123.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/atacante-metro-nueva-york-procesado-7-enero-2025-dusa-fast/",
+        "date": "2024-12-27 23:43:16",
+        "sentiment_score": -0.8176170699298382
+    },
+    {
+        "title": "Ranking de Netflix en México: estas son las series más vistas del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/AXHDYSG5R5G6VC2A6US3QTYEWQ.jpg?auth=3580fe84fb51679f2f01dfab93c60587923983ca491f94d9fa57965c1c3afe07&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2024/12/28/ranking-de-netflix-en-mexico-estas-son-las-series-mas-vistas-del-momento/",
+        "date": "2024-12-28 02:01:02",
+        "sentiment_score": -0.04734179377555847
+    },
+    {
+        "title": "Iryo se abona al ‘low cost’ y caldea la guerra de precios de tren con Ouigo y Renfe",
+        "image_url": "https://s1.elespanol.com/2024/11/06/invertia/observatorios/movilidad/899170393_250649201_1706x960.jpg?contentId=ESPIMA20241106_0319",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20241228/iryo-abona-low-cost-caldea-guerra-precios-tren-ouigo-renfe/910159168_0.html",
+        "date": "2024-12-28 01:42:20",
+        "sentiment_score": 0.018896862864494324
+    },
+    {
+        "title": "Depósitos a plazo, letras del Tesoro, fondos o bolsa: dónde llevar el dinero en tiempos de tipos de interés a la baja",
+        "image_url": "https://s1.elespanol.com/2024/12/09/mujer/estilo-vida/907419855_251532559_1706x960.jpg?contentId=ESPIMA20241209_0606",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20241228/depositos-plazo-letras-tesoro-fondos-bolsa-llevar-dinero-tiempos-tipos-interes-baja/911658871_0.html",
+        "date": "2024-12-28 01:41:04",
+        "sentiment_score": 0.21229936182498932
+    },
+    {
+        "title": "Dani Fernández: \"Hubo gente que no creía en mí y pensé que tendría que volver al pueblo. Se me caían las paredes de casa, no tenía ni oficio ni beneficio\"",
+        "image_url": "https://s1.elespanol.com/2024/12/23/reportajes/910919422_251908733_1706x960.jpg?contentId=ESPIMA20241223_0523",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241228/dani-fernandez-gente-no-creia-pense-volver-pueblo-caian-paredes-casa-oficio-beneficio/910909283_0.html",
+        "date": "2024-12-28 01:34:38",
+        "sentiment_score": -0.9087899280712008
+    },
+    {
+        "title": "Tebas: \"Florentino Pérez con la Superliga me recuerda al señor feudal y los vasallos de la época medieval\"",
+        "image_url": "https://www.infobae.com/resizer/v2/DDFEIFFWVJBLRK3DYMF3RW4HQM.jpg?auth=173711a68f6485fcc7b05a471109103555eaaf456b4f7dd14803e2010d44e038&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/12/tebas-florentino-perez-con-la-superliga-me-recuerda-al-senor-feudal-y-los-vasallos-de-la-epoca-medieval/",
+        "date": "2024-12-28 01:17:49",
+        "sentiment_score": -0.9380725100636482
+    },
+    {
+        "title": "Netflix Colombia: Estas son las mejores series para ver hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/LVXKQTC2ZNFTTMYCS5X7RIKW5A.jpg?auth=8dfa0371358b92a1a0fca7e23433f3f8cd79e70d6451eba27771343f9ca10016&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/12/28/netflix-colombia-estas-son-las-mejores-series-para-ver-hoy/",
+        "date": "2024-12-28 01:17:20",
+        "sentiment_score": 0.5169250033795834
+    },
+    {
+        "title": "Nuno Mendes advierte de la \"calidad\" de Polonia incluso sin Lewandowski",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/12/nuno-mendes-advierte-de-la-calidad-de-polonia-incluso-sin-lewandowski/",
+        "date": "2024-12-28 01:03:23",
+        "sentiment_score": 0.7486788146197796
+    },
+    {
+        "title": "Antonio Resines: \"Encontrar un buen guion de comedia es muy complicado. La clave es que leyéndolo te rías\"",
+        "image_url": "https://s1.elespanol.com/2024/12/15/el-cultural/cine/908919126_251693578_854x640.jpg?contentId=ESPIMA20241215_0027",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20241228/antonio-resines-encontrar-buen-guion-comedia-complicado-clave-leyendolo-rias/908909104_0.html",
+        "date": "2024-12-28 00:58:37",
+        "sentiment_score": -0.23405760526657104
+    },
+    {
+        "title": "El gran 2024 de Felipe VI y Letizia: 20 años de amor y 10 de un reinado más transparente, renovado y humano que nunca",
+        "image_url": "https://s1.elespanol.com/2024/12/18/corazon/casas-reales/909669532_251787615_1706x960.jpg?contentId=ESPIMA20241218_0508",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20241228/gran-felipe-vi-letizia-anos-amor-reinado-transparente-renovado-humano-nunca/909659310_0.html",
+        "date": "2024-12-28 00:44:15",
+        "sentiment_score": 0.19684772193431854
+    },
+    {
+        "title": "América de Cali le quitó una figura a Millonarios: anunció un refuerzo de mucho peso para la Copa Sudamericana",
+        "image_url": "https://www.infobae.com/resizer/v2/WIRM3K3NEFD4TPKFUOEON2WMJQ.jpg?auth=488d2fd8961b3d7f88cf4c2f11695c4b1ef8681e9657910c1f02abe1fd5d50be&height=2093&smart=true&width=3608",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/12/28/america-de-cali-le-quito-una-figura-a-millonarios-anuncio-un-refuerzo-de-mucho-peso-para-la-copa-sudamericana/",
+        "date": "2024-12-28 00:32:59",
+        "sentiment_score": 0.23601209744811058
+    },
+    {
+        "title": "César Tello, director general de Adigital: “Es necesario moderar el contexto regulatorio para que fluya la innovación en Europa”",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2024/12/Cesar-Tello-foto-1-director-general-de-Adgital.jpg",
+        "tags": [
+            "artículos",
+            "actualidad",
+            "znoticia portada1",
+            "adigital",
+            "economía digital",
+            "legislación",
+            "inteligencia artificial",
+            "app",
+            "noticias jurídicas",
+            "regulación tecnológica",
+            "derecho administrativo"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/cesar-tello-director-general-de-adigital-es-necesario-moderar-el-contexto-regulatorio-para-que-fluya-la-innovacion-en-europa/",
+        "date": "2024-12-28 02:00:40",
+        "sentiment_score": 0.5459726676344872
+    },
+    {
+        "title": "La huella térmica de la Tierra, sin secretos para esta startup: así se monitoriza el planeta contra el cambio climático",
+        "image_url": "https://s1.elespanol.com/2024/12/26/invertia/disruptores/ecosistema-startup/startups/911669195_251949437_1706x960.jpg?contentId=ESPIMA20241226_0371",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20241228/huella-termica-tierra-sin-secretos-startup-monitoriza-planeta-cambio-climatico/911658899_0.html",
+        "date": "2024-12-28 01:44:58",
+        "sentiment_score": 0.4013049229979515
+    },
+    {
+        "title": "Natividad perdió 50.000 € por caer en la estafa de los falsos famosos que aconsejan invertir: \"Le puede pasar a cualquiera\"",
+        "image_url": "https://s1.elespanol.com/2024/12/26/actualidad/911669518_251959417_1706x960.jpg?contentId=ESPIMA20241226_0694",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241228/natividad-perdio-eur-caer-estafa-falsos-famosos-aconsejan-invertir-puede-pasar/911659048_0.html",
+        "date": "2024-12-28 01:35:55",
+        "sentiment_score": -0.840080389752984
+    },
+    {
+        "title": "El imperio de Protos, las bodegas cuna de la Ribera del Duero lideradas por Carlos Villar: \"En 2024 facturaremos 50 millones\"",
+        "image_url": "https://s1.elespanol.com/2024/12/26/reportajes/911669060_251945288_1706x960.jpg?contentId=ESPIMA20241226_0236",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241228/imperio-protos-bodegas-cuna-ribera-duero-lideradas-carlos-villar-facturaremos-millones/911659007_0.html",
+        "date": "2024-12-28 01:34:21",
+        "sentiment_score": 0.6408141031861305
+    },
+    {
+        "title": "La curiosa ostra verde que trae este restaurante de Madrid por Navidad: triunfa por ser la que mejor guarda la esencia del mar",
+        "image_url": "https://s1.elespanol.com/2024/12/26/madrid/ocio/911669095_251946301_1706x960.jpg?contentId=ESPIMA20241226_0271",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20241228/curiosa-ostra-verde-trae-restaurante-madrid-navidad-triunfa-mejor-guarda-esencia-mar/911658998_0.html",
+        "date": "2024-12-28 01:30:12",
+        "sentiment_score": 0.31199224293231964
+    },
+    {
+        "title": "Carlsen se retira del Mundial de Rápidas de ajedrez y reniega de la FIDE tras incumplir el código de vestimenta",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5DTWKLJRPVCSTKR2LZRJ22BKXU.jpg?auth=1a32f06a7c9816eebc09dad8a9ab7c9b2283688e6a1561291d19279d05d6db97&width=1200",
+        "tags": [
+            "nueva york",
+            "jugadores ajedrez",
+            "magnus carlsen",
+            "ránking fide",
+            "noticias de ajedrez",
+            "fide"
+        ],
+        "link": "https://elpais.com/deportes/2024-12-28/carlsen-se-retira-del-mundial-de-rapidas-de-ajedrez-y-reniega-de-la-fide-tras-incumplir-el-codigo-de-vestimenta.html",
+        "date": "2024-12-28 01:29:42",
+        "sentiment_score": -0.7578669711947441
+    },
+    {
+        "title": "La guerra sucia entre el Barça y Frenkie de Jong: puede acabar mal para todas las partes",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/21/culemania/culemaniacos/902919808_13755830_1706x960.jpg?contentId=ESPIMA20241121_0109",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20241228/la-guerra-barca-frenkie-jong-acabar-partes/911908882_0.html",
+        "date": "2024-12-28 01:06:24",
+        "sentiment_score": -0.49558813869953156
+    },
+    {
+        "title": "Hackers israelíes especializados en software espía se trasladan a Barcelona, según \"Haaretz\"|",
+        "image_url": "https://cdn.mnmstatic.net/cache/3d/3d/media_thumb-link-4013317.webp",
+        "tags": [
+            "europa",
+            "actualidad",
+            "israel",
+            "ciberseguridad",
+            "pegasus"
+        ],
+        "link": "https://www.meneame.net/story/hackers-israelies-especializados-software-espia-trasladan-segun",
+        "date": "2024-12-28 01:05:05",
+        "sentiment_score": -0.2757270559668541
+    },
+    {
+        "title": "Miami busca niñera de medio tiempo por $40 la hora (+Requisitos)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735351598316.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/miami-busca-ninera-de-medio-tiempo-por-40-la-hora-requisitos--202412272250",
+        "date": "2024-12-28 02:05:00",
+        "sentiment_score": 0.08907295390963554
+    },
+    {
+        "title": "Estos son los pueblitos más navideños y mágicos de EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735258025933.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/estos-son-los-pueblitos-mas-navidenos-y-magicos-de-eeuu-2024122619480",
+        "date": "2024-12-28 02:00:00",
+        "sentiment_score": 0.779873114079237
+    },
+    {
+        "title": "Daddy Yankee pide “desacato” contra su esposa y cuñada",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735358120166.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/daddy-yankee-pide-desacato-contra-su-esposa-y-cunada-2024122721400",
+        "date": "2024-12-28 01:40:00",
+        "sentiment_score": -0.45447123795747757
+    },
+    {
+        "title": "Madre ahorcó y golpeó a su hija por comerse un alimento sin permiso",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735347454422.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/madre-ahorco-y-golpeo-a-su-hija-por-comerse-una-comida-sin-permiso-2024122721300",
+        "date": "2024-12-28 01:30:00",
+        "sentiment_score": 0.29793449118733406
+    },
+    {
+        "title": "Diferencias entre el pasaporte ordinario y el habilitado (+Precios)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735347836280.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/diferencias-entre-el-pasaporte-ordinario-y-el-habilitado-precios--2024122721270",
+        "date": "2024-12-28 01:27:00",
+        "sentiment_score": 0.035787176340818405
+    },
+    {
+        "title": "Oregón | Así es el “kit de herramientas” contra las políticas de Trump",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735349429438.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/oregon-asi-es-el-kit-de-herramientas-contra-las-politicas-de-trump-2024122721270",
+        "date": "2024-12-28 01:27:00",
+        "sentiment_score": -0.4355932027101517
+    },
+    {
+        "title": "Texas | Ofrecen trabajo para latinos con sueldo de $650 semanal (+Requisitos)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735350134222.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-ofrecen-trabajo-para-latinos-con-sueldo-de-650-semanal-requisitos--202412272160",
+        "date": "2024-12-28 01:06:00",
+        "sentiment_score": 0.08282782696187496
+    },
+    {
+        "title": "Dos días de concierto en Miraflores para recibir el año: estos son los artistas",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735346980474.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/dos-dias-de-concierto-en-miraflores-para-recibir-el-ano-estos-son-los-artistas-202412272150",
+        "date": "2024-12-28 01:05:00",
+        "sentiment_score": 0.30718990974128246
+    },
+    {
+        "title": "California: Ofrecen empleo para personas que hablen español por $22 la hora",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735347225100.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/empleo/california-ofrecen-empleo-para-personas-que-hablen-espanol-por-22-la-hora-202412272110",
+        "date": "2024-12-28 01:01:00",
+        "sentiment_score": 0.6957265827804804
+    },
+    {
+        "title": "Reconocida presentadora de Univisión obtiene la ciudadanía estadounidense",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735345989493.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/reconocida-presentadora-de-univision-obtiene-la-ciudadania-estadounidense-2024122720140",
+        "date": "2024-12-28 00:14:00",
+        "sentiment_score": -0.0006497874855995178
     }
 ];
