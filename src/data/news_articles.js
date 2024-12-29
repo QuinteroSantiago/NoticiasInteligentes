@@ -1,215 +1,5 @@
 export default [
     {
-        "title": "Crean una plataforma para fomentar el oleoturismo en ocho provincias españolas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/crean-una-plataforma-para-fomentar-el-oleoturismo-en-ocho-provincias-espanolas/",
-        "date": "2024-12-25 06:18:25",
-        "sentiment_score": 0.5108096823096275
-    },
-    {
-        "title": "La demanda nacional del gas cae el 4,4 % en octubre lastrada por el sector eléctrico",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-demanda-nacional-del-gas-cae-el-44-en-octubre-lastrada-por-el-sector-electrico/",
-        "date": "2024-12-25 06:18:06",
-        "sentiment_score": 0.13770264387130737
-    },
-    {
-        "title": "Las diputaciones vascas proponen que las rentas de 85.000 euros no puedan deducir vivienda",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/las-diputaciones-vascas-proponen-que-las-rentas-de-85000-euros-no-puedan-deducir-vivienda/",
-        "date": "2024-12-25 06:17:47",
-        "sentiment_score": 0.3913823366165161
-    },
-    {
-        "title": "Sesión con suplentes en Tajonar sin Vicente Moreno",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/sesion-con-suplentes-en-tajonar-sin-vicente-moreno/",
-        "date": "2024-12-25 06:17:28",
-        "sentiment_score": -0.011084765195846558
-    },
-    {
-        "title": "La A. Nacional suspende la orden de Sanidad para evitar el intrusismo en cirugía estética",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-a-nacional-suspende-la-orden-de-sanidad-para-evitar-el-intrusismo-en-cirugia-estetica/",
-        "date": "2024-12-25 06:17:09",
-        "sentiment_score": -0.6470227930694818
-    },
-    {
-        "title": "Andalucia activa en fase de preemergencia el plan por inundaciones en Poniente almeriense",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/andalucia-activa-en-fase-de-preemergencia-el-plan-por-inundaciones-en-poniente-almeriense/",
-        "date": "2024-12-25 06:03:26",
-        "sentiment_score": -0.2818385288119316
-    },
-    {
-        "title": "Libertad con cargos para los detenidos por los disturbios en la manifestación contra Mazón",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/libertad-con-cargos-para-los-detenidos-por-los-disturbios-en-la-manifestacion-contra-mazon/",
-        "date": "2024-12-25 06:03:04",
-        "sentiment_score": -0.7678075656294823
-    },
-    {
-        "title": "Muere uno de los siete monjes atacados en un monasterio de Gilet (Valencia)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/muere-uno-de-los-siete-monjes-atacados-en-un-monasterio-de-gilet-valencia/",
-        "date": "2024-12-25 06:02:45",
-        "sentiment_score": -0.8822828428819776
-    },
-    {
-        "title": "El PSOE logra el apoyo de Sumar a su paquete fiscal mientras apura la negociación con ERC",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/el-psoe-logra-el-apoyo-de-sumar-a-su-paquete-fiscal-mientras-apura-la-negociacion-con-erc/",
-        "date": "2024-12-25 06:02:26",
-        "sentiment_score": -0.6285602413117886
-    },
-    {
-        "title": "La bolsa sube el 0,4 % y roza los 11.600 puntos con Wall Street en máximos históricos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/11/la-bolsa-sube-el-04-y-roza-los-11600-puntos-con-wall-street-en-maximos-historicos/",
-        "date": "2024-12-25 06:02:07",
-        "sentiment_score": 0.3476911261677742
-    },
-    {
-        "title": "De Salamanca al mundo: Sergio López, el lateral que sueña con la Bundesliga y su tierra",
-        "image_url": "https://s1.elespanol.com/2024/12/20/castilla-y-leon/region/salamanca/910169017_251837062_1706x960.jpg?contentId=ESPIMA20241220_0043",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20241225/salamanca-mundo-sergio-lopez-lateral-suena-bundesliga-tierra/910159004_0.html",
-        "date": "2024-12-25 06:00:00",
-        "sentiment_score": 0.29974958300590515
-    },
-    {
-        "title": "Famosos que celebran su cumpleaños durante la Navidad: de Ricky Martin a David Broncano",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/19/6763e338cf7ff.jpeg",
-        "tags": [
-            "protagonistas"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/protagonistas/20241225/10213319/ricky-martin-david-broncano-famosos-celebran-cumpleanos-navidad.html",
-        "date": "2024-12-25 06:00:00",
-        "sentiment_score": 0.7211427502334118
-    },
-    {
-        "title": "La incapacidad absoluta de Joan tras un accidente en patinete: \"No llevaba casco y me rompí el cráneo en mil pedazos\"",
-        "image_url": "https://album.mediaset.es/eimg/2024/12/04/la-incapacidad-absoluta-de-joan-tras-un-accidente-en-patinete_e7cc.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20241225/incapacidad-absoluta-joan-accidente-patinete-sin-casco-fractura-craneo_18_014200707.html",
-        "date": "2024-12-25 06:20:16",
-        "sentiment_score": -0.8601991375908256
-    },
-    {
-        "title": "La masía de Can Carreres acogerá una nueva escuela infantil pública en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c68ecfa9-422e-40b1-8bda-d31c69c91326_16-9-aspect-ratio_default_1346040.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20241225/masia-nueva-guarderia-publica-barcelona-112897696",
-        "date": "2024-12-25 06:20:00",
-        "sentiment_score": 0.27581067383289337
-    },
-    {
-        "title": "Feijóo anuncia que registrará su Ley de Vivienda a principios de 2025",
-        "image_url": "https://s.libertaddigital.com/2024/12/24/feijoo-congreso.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/espana/politica/2024-12-25/feijoo-anuncia-que-registrara-su-ley-de-vivienda-a-principios-de-2025-7201615/",
-        "date": "2024-12-25 06:10:12",
-        "sentiment_score": -0.6875047255307436
-    },
-    {
-        "title": "Asia y Marruecos: los destinos de moda entre los españoles para Nochevieja",
-        "image_url": "https://www.laregion.es/media/laregion/images/2024/12/19/2024121918350131240.jpg",
-        "tags": [
-            "especiales"
-        ],
-        "link": "https://www.laregion.es/articulo/especiales/asia-marruecos-destinos-moda-espanoles-nochevieja/202412250701391356662.html",
-        "date": "2024-12-25 06:01:39",
-        "sentiment_score": 0.13745293021202087
-    },
-    {
-        "title": "Los lectores de EL PERIÓDICO dan más valor a las noticias sobre pensiones, seguridad ciudadana y turismo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be84a75a-cfdd-4944-bc8a-8119aa1aabe6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20241225/lectores-periodico-pensiones-seguridad-ciudadana-turismo-112884887",
-        "date": "2024-12-25 06:01:05",
-        "sentiment_score": -0.13364890217781067
-    },
-    {
-        "title": "Dag Shang Kagyu, un templo budista en las montañas de Huesca",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/20/67654309c594e.r_d.2836-1973-801.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/viajes/20241225/10224763/dag-shang-kagyu-templo-budista-panillo-huesca.html",
-        "date": "2024-12-25 06:00:00",
-        "sentiment_score": -0.02610825002193451
-    },
-    {
-        "title": "Ni billetes ni tarjetas: en este país los viajeros pagan el metro escaneando la palma de su mano",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/05/23/646cb314f0073.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavanguardia.com/motor/actualidad/20241225/10209895/billetes-tarjetas-pais-viajeros-pagan-metro-escaneando-palma-mano-tsc.html",
-        "date": "2024-12-25 06:00:00",
-        "sentiment_score": 0.044478852301836014
-    },
-    {
-        "title": "El fabuloso garaje de Zeus, el multimillonario con aspecto de vagabundo que triunfa en redes sociales",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/20/676568c4cb5b4.png",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavanguardia.com/motor/actualidad/20241225/10224365/fabuloso-garaje-zeus-multimillonario-aspecto-vagabundo-triunfa-redes-sociales-tsc.html",
-        "date": "2024-12-25 06:00:00",
-        "sentiment_score": 0.8024063743650913
-    },
-    {
-        "title": "La revolucionaria pintura solar de Mercedes: recorre hasta 20.000 km gratis al año sin depender de enchufes",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/17/67617b9d60418.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavanguardia.com/motor/actualidad/20241225/10210368/revolucionaria-pintura-solar-mercedes-recorre-20-000-km-gratis-ano-depender-enchufes-tsc.html",
-        "date": "2024-12-25 06:00:00",
-        "sentiment_score": 0.5184178091585636
-    },
-    {
         "title": "El Gobierno andaluz aprueba este martes ampliar a 92 los municipios declarados como desastre natural tras la DANA",
         "image_url": "https://www.infobae.com/resizer/v2/ECSDOG7EO5EZ5AH55F6CYEC22Y.jpg?auth=7be232b998b3ff008b6486a52634e04052d2659eefddb8e2434257c576dfb9f7&height=1280&smart=true&width=1920",
         "tags": [
@@ -428,28 +218,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-25/illa-pide-capacidad-de-acuerdo-entre-catalanes-y-junqueras-le-exige-cumplir-los-pactos.html",
         "date": "2024-12-25 13:09:12",
         "sentiment_score": -0.6257229186594486
-    },
-    {
-        "title": "El PSOE y el PP celebran la defensa del consenso y la “serenidad” hecha por Felipe VI y evitan darse por aludidos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FC63UVR2CRFSTGTLSG3XPNS3ZE.jpg?auth=4bab54530096647b1047217e5ebd1491ff08fde7896f5a58db250ec52fbbe179&width=1200",
-        "tags": [
-            "alberto núñez feijóo",
-            "pedro sánchez",
-            "política",
-            "juntsxcat",
-            "partidos políticos",
-            "sumar",
-            "casa real",
-            "españa",
-            "pp",
-            "felipe vi",
-            "congreso diputados",
-            "gobierno",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/2024-12-25/el-psoe-y-el-pp-celebran-la-defensa-del-consenso-y-la-serenidad-hecha-por-felipe-vi-y-evitan-darse-por-aludidos.html",
-        "date": "2024-12-25 09:26:06",
-        "sentiment_score": -0.9470094591379166
     },
     {
         "title": "Un año de incertidumbre para el Barcelona",
@@ -7209,5 +6977,536 @@ export default [
         "link": "https://2001online.com/farandula/wisin-comparte-reflexivo-mensaje-de-navidad--202412281100",
         "date": "2024-12-28 15:00:00",
         "sentiment_score": 0.020144276320934296
+    },
+    {
+        "title": "Los vecinos de Lepe (Huelva) reciben 2025 por adelantado con 12 frutos rojos de sus campos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/28/los-vecinos-de-lepe-huelva-reciben-2025-por-adelantado-con-12-frutos-rojos-de-sus-campos/",
+        "date": "2024-12-28 22:01:15",
+        "sentiment_score": 0.2149861976504326
+    },
+    {
+        "title": "El Peñíscola se une al Movistar y logra plaza para la Copa de España al ganar a Jaén (3-1)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/28/el-peniscola-se-une-al-movistar-y-logra-plaza-para-la-copa-de-espana-al-ganar-a-jaen-3-1/",
+        "date": "2024-12-28 21:46:20",
+        "sentiment_score": 0.5888844802975655
+    },
+    {
+        "title": "Muere el conductor de un turismo en Jaén tras colisionar con un camión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/28/muere-el-conductor-de-un-turismo-en-jaen-tras-colisionar-con-un-camion/",
+        "date": "2024-12-28 21:30:55",
+        "sentiment_score": -0.7899931464344263
+    },
+    {
+        "title": "Loterías de Catalunya: números ganadores de la 6/49 este 28 del diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/3XZU2VMCAFE3JJ7XJEFLQVNKTE.jpg?auth=3369eb417fd9fb305a353c521941d00785f7a1e0cb021cd3654a86e717ca05ed&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/28/loterias-de-catalunya-numeros-ganadores-de-la-649-este-28-del-diciembre/",
+        "date": "2024-12-28 21:00:26",
+        "sentiment_score": 0.04357337951660156
+    },
+    {
+        "title": "Acogen a desalojados en Alhaurín de la Torre (Málaga) ya afectados por la dana días atrás",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/acogen-a-desalojados-en-alhaurin-de-la-torre-malaga-ya-afectados-por-la-dana-dias-atras/",
+        "date": "2024-12-28 20:47:55",
+        "sentiment_score": -0.5332008898258209
+    },
+    {
+        "title": "Bruselas prevé impacto \"limitado\" en la UE por fin del transito del gas ruso por Ucrania",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/28/bruselas-preve-impacto-limitado-en-la-ue-por-fin-del-transito-del-gas-ruso-por-ucrania/",
+        "date": "2024-12-28 20:32:12",
+        "sentiment_score": -0.023603230714797974
+    },
+    {
+        "title": "Real Madrid-Betis y Barcelona-Sevilla, semifinales del torneo sub-13 LaLiga Futures",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/28/real-madrid-betis-y-barcelona-sevilla-semifinales-del-torneo-sub-13-laliga-futures/",
+        "date": "2024-12-28 20:31:54",
+        "sentiment_score": 0.014697827398777008
+    },
+    {
+        "title": "Un fallecido en Cádiz y otro en Coruña en accidentes de tráfico en las últimas 24 horas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/28/un-fallecido-en-cadiz-y-otro-en-coruna-en-accidentes-de-trafico-en-las-ultimas-24-horas/",
+        "date": "2024-12-28 20:31:32",
+        "sentiment_score": -0.6342370826750994
+    },
+    {
+        "title": "Temas del día de EFE Economía del domingo, 29 de diciembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/28/temas-del-dia-de-efe-economia-del-domingo-29-de-diciembre-de-2024/",
+        "date": "2024-12-28 20:16:34",
+        "sentiment_score": -0.010237067937850952
+    },
+    {
+        "title": "Ibon Navarro: “Todos firmaríamos que cada año fuese como este”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/28/ibon-navarro-todos-firmariamos-que-cada-ano-fuese-como-este/",
+        "date": "2024-12-28 20:16:16",
+        "sentiment_score": -0.006051152944564819
+    },
+    {
+        "title": "Cámara corporal registró cómo agentes penitenciarios golpean hasta la muerte a un recluso",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/thumb1-20241227230254901-20241228184458813.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/golpiza-muerte-reo-brooks-correccional-ny-trax/",
+        "date": "2024-12-28 18:51:33",
+        "sentiment_score": -0.7761295679956675
+    },
+    {
+        "title": "El año que viene",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-ano-viene-20241229162713-nts.html",
+        "date": "2024-12-28 20:44:41",
+        "sentiment_score": -0.08908042311668396
+    },
+    {
+        "title": "La España sectaria",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/28/congreso-RO6ocFE05AH91Ur4aqPKVNK-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-espana-sectaria-20241229171342-nts.html",
+        "date": "2024-12-28 20:44:09",
+        "sentiment_score": -0.16606804728507996
+    },
+    {
+        "title": "Bailar bajo la nieve",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2024/12/26/buque-ruso-cartagena-kt7H--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-bailar-bajo-nieve-20241229175117-nts.html",
+        "date": "2024-12-28 20:35:23",
+        "sentiment_score": 0.003121614456176758
+    },
+    {
+        "title": "Minerva debe irse",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/29/minerva-RWcP2lCkj0eyp8UwI8OspBK-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-minerva-debe-irse-20241229213505-nts.html",
+        "date": "2024-12-28 20:35:06",
+        "sentiment_score": 0.02925705909729004
+    },
+    {
+        "title": "Bronca por las Campanadas",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/11/29/vtc-kyPD--170x119@Diario%20Sur.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-bronca-campanadas-20241229110758-nts.html",
+        "date": "2024-12-28 20:34:42",
+        "sentiment_score": -0.10300678014755249
+    },
+    {
+        "title": "2025 no será sobrenatural en Andalucía",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/29/juanma-RCN6zYWM1LfH9BmXYDzqXpJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-2025-sobrenatural-andalucia-20241229203401-nts.html",
+        "date": "2024-12-28 19:34:02",
+        "sentiment_score": -0.10260656476020813
+    },
+    {
+        "title": "Contra el propósito",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/26/pasillo-k0s--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-proposito-20241229170013-nt.html",
+        "date": "2024-12-28 18:38:11",
+        "sentiment_score": -0.01593148708343506
+    },
+    {
+        "title": "El 'indepe' Pere... al Consejo de la CNMC",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/26/linfoma-cerebral-sintomas-kkfF--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-indepe-pere-consejo-cnmc-20241229190412-nt.html",
+        "date": "2024-12-28 18:37:27",
+        "sentiment_score": -0.16032367944717407
+    },
+    {
+        "title": "Cuando cancelan «los nuestros»",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/11/29/vtc-kyPD--170x119@Diario%20Sur.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-cancelan-20241229173233-nt.html",
+        "date": "2024-12-28 18:36:13",
+        "sentiment_score": -0.34517545998096466
+    },
+    {
+        "title": "Un español adulto",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/12/17/pescaderia-granada-U2201640265548G1E--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-espanol-adulto-20241229163551-nt.html",
+        "date": "2024-12-28 18:35:32",
+        "sentiment_score": -0.15855392813682556
+    },
+    {
+        "title": "El Poder Judicial investigará al juez que llamó “psicópata” a Pedro Sánchez por nuevos mensajes contra el presidente",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5K6JC2F75ZDQDPDXBI62B66NDE.jpg?auth=f28182c8ecd0b2e485837bace20a1b1a8de6784871c335c6db76822596e2baa2&width=1200",
+        "tags": [
+            "cgpj",
+            "twitter",
+            "gobierno",
+            "psoe",
+            "jueces",
+            "pedro sánchez",
+            "begoña gómez fernández",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2024-12-28/el-poder-judicial-investigara-al-juez-que-llamo-psicopata-a-pedro-sanchez-por-nuevos-mensajes-contra-el-presidente.html",
+        "date": "2024-12-28 18:36:42",
+        "sentiment_score": -0.7774147912859917
+    },
+    {
+        "title": "Muere un excursionista al caer 100 metros por una ladera en el Pirineo de Lleida",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4TDHKVFI7MN7RJQEQTY7RTPYQQ.jpg?auth=221bc0972074bf519b390fd962f6cb769b98769b4dc1d8e56eb1cb2ca44c5bae&width=1200",
+        "tags": [
+            "cataluña",
+            "rescate víctimas",
+            "pirineo catalán",
+            "bomberos",
+            "lleida"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-28/muere-un-excursionista-al-caer-100-metros-por-una-ladera-en-el-pirineo-de-lleida.html",
+        "date": "2024-12-28 18:27:32",
+        "sentiment_score": -0.7467836011201143
+    },
+    {
+        "title": "Ancelotti recibe su regalo adelantado de Reyes: adiós a un canterano del Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/13/culemania/real-madrid/908419351_13864373_1706x960.jpg?contentId=ESPIMA20241213_0202",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20241228/ancelotti-recibe-adelantado-reyes-canterano-real-madrid/912158829_0.html",
+        "date": "2024-12-28 22:06:41",
+        "sentiment_score": 0.8425464704632759
+    },
+    {
+        "title": "Miércoles, 13 de noviembre (02:00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/13/miercoles-13-de-noviembre-0200-gmt/",
+        "date": "2024-12-28 22:02:05",
+        "sentiment_score": 0.2934628129005432
+    },
+    {
+        "title": "Cuando en Antas se cosechaba algodón",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/12/29/calleantasdipalme-kcvB-U230407533324NfC-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/antas-cosechaba-algodon-20241229230106-nt.html",
+        "date": "2024-12-28 22:01:06",
+        "sentiment_score": -0.04279549419879913
+    },
+    {
+        "title": "Un giro al clásico de Pinocho",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/12/28/101079375-kJeB--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/giro-clasico-pinocho-20241229223146-nt.html",
+        "date": "2024-12-28 21:47:05",
+        "sentiment_score": 0.13725712895393372
+    },
+    {
+        "title": "Agotadas las entradas para la despedida de Jesús Navas el lunes en el Pizjuán",
+        "image_url": "https://www.infobae.com/resizer/v2/GQXBDHK275F3HE5YPX25MVXIPE.jpg?auth=96ebe010bde7e7a3c261af55509736650fd90bd2585f52fa8bdc4a3ffd44dd1e&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/28/agotadas-las-entradas-para-la-despedida-de-jesus-navas-el-lunes-en-el-pizjuan/",
+        "date": "2024-12-28 21:30:19",
+        "sentiment_score": -0.6387327071279287
+    },
+    {
+        "title": "El año de la banana de seis millones de euros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/79fd5b2d-488c-4ea2-a9ba-ff5cc8cc2f91_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2024/12/28/ano-banana-seis-millones-euros-112965095.html",
+        "date": "2024-12-28 21:00:23",
+        "sentiment_score": -0.4190461188554764
+    },
+    {
+        "title": "El Rey es más alto que Pedro Sánchez",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54118608-1fa0-47b6-8b1c-c206f76d6e57_16-9-aspect-ratio_default_1346444.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2024/12/28/rey-alto-pedro-sanchez-112963460.html",
+        "date": "2024-12-28 21:00:22",
+        "sentiment_score": -0.2180970311164856
+    },
+    {
+        "title": "El Atlético recibirá al Villarreal el sábado 25 de enero a las 16.15",
+        "image_url": "https://www.infobae.com/resizer/v2/WFQ2ZZ6UPZDT7OJMRQ54VWSVBA.jpg?auth=50ec092983ad0790e0f54c8c110fe8a1147e4e405fa32e2df9220231db57aa88&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/28/el-atletico-recibira-al-villarreal-el-sabado-25-de-enero-a-las-1615/",
+        "date": "2024-12-28 21:00:19",
+        "sentiment_score": 0.05932442471385002
+    },
+    {
+        "title": "Por culpa de Rayo Vallecano, James Rodríguez termina uno de los peores años de su carrera: estos son sus números de 2024",
+        "image_url": "https://www.infobae.com/resizer/v2/S2Y4GBHFK5DXPKNT4OC6OBK7BI.jpg?auth=2959d42378df0856365cecf6346b1794258d7049f2e2a1a1d6831fbc5d268177&height=3531&smart=true&width=6278",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2024/12/28/por-culpa-de-rayo-vallecano-james-rodriguez-termina-uno-de-los-peores-anos-de-su-carrera-estos-son-sus-numeros-de-2024/",
+        "date": "2024-12-28 20:58:12",
+        "sentiment_score": -0.07024902105331421
+    },
+    {
+        "title": "Bomba en el mercado de pases: Boca le hizo una oferta a Sergio Ramos",
+        "image_url": "https://www.infobae.com/resizer/v2/4467MJODFJAGPKQFK7TPATLEZY.jpg?auth=a359c39618d11655cb22e471f792df364e8c656a00a15ca2c1229d57fcb8c24a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/28/bomba-en-el-mercado-de-pases-boca-le-hizo-una-oferta-a-sergio-ramos/",
+        "date": "2024-12-28 20:34:12",
+        "sentiment_score": -0.007089532911777496
+    },
+    {
+        "title": "Los jugadores del Barbastro escriben su particular carta a los Reyes Magos pensando en el Barcelona",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/28/677076d13b44c.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/jugadores-barbastro-escriben-particular-carta-reyes-magos-pensando-barcelona-20241228_3069857.html",
+        "date": "2024-12-28 22:13:11",
+        "sentiment_score": 0.0968637764453888
+    },
+    {
+        "title": "Disparador de sentimiento",
+        "image_url": "https://s1.ppllstatics.com/starfish/latest/assets/images/placeholders/ideal-placeholder.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/opinion/rosa-belmonte-disparador-sentimiento-20241229230251-nt.html",
+        "date": "2024-12-28 22:02:51",
+        "sentiment_score": -0.8597562573850155
+    },
+    {
+        "title": "Diciembre, el segundo peor mes del año para sacarse el carnet de conducir",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/12/29/volanteycarnet-koDG-U230407473538GJE-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/diciembre-segundo-peor-mes-ano-sacarse-carnet-20241229230201-nt.html",
+        "date": "2024-12-28 22:02:01",
+        "sentiment_score": -0.917277772910893
+    },
+    {
+        "title": "Buscan a una mujer alemana de 83 años desaparecida el día de San Esteban en el Empordà",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/28/677073fd48c3c.r_d.167-399-4568.jpeg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.lavanguardia.com/sucesos/20241228/10244126/buscan-mujer-alemana-83-anos-desaparecida-dia-san-esteban-emporda.html",
+        "date": "2024-12-28 22:01:19",
+        "sentiment_score": -0.1326974257826805
+    },
+    {
+        "title": "El Barbastro le pide a los Reyes las camisetas del FC Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/QANPB2JHOJBFPA4T6WLGVMFRJM.jpg?auth=2469d28f101c3b55998ee8a1e31a4e24a00a6fb4400f747cc865943450056c52&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/28/el-barbastro-le-pide-a-los-reyes-las-camisetas-del-fc-barcelona/",
+        "date": "2024-12-28 22:00:22",
+        "sentiment_score": -0.15573100745677948
+    },
+    {
+        "title": "Aena inicia la ampliación de los servicios de la terminal",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/12/28/101079336.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/asturias/aena-inicia-ampliacion-servicios-terminal-20241229222953-nt.html",
+        "date": "2024-12-28 21:46:44",
+        "sentiment_score": 0.3437998704612255
+    },
+    {
+        "title": "La magia de la Navidad: niños y adultos aprenden el trabajo de los pajes de los Reyes en una fábrica de Barcelona",
+        "image_url": "https://album.mediaset.es/eimg/2024/12/28/la-magia-de-la-navidad-ninos-y-adultos-aprenden-el-trabajo-de-los-pajes-de-los-reyes-en-una-fabrica_dfff.png",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241228/fabrica-barcelona-trabajo-pajes-reyes-magos_18_014385321.html",
+        "date": "2024-12-28 21:25:16",
+        "sentiment_score": 0.17039741575717926
+    },
+    {
+        "title": "El Jimbee Cartagena cierra un año mágico con una remontada fantástica",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/28/6770680ddb8ea.jpeg",
+        "tags": [
+            "deportes cartagena"
+        ],
+        "link": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/cartagena/deportes-cartagena/noticias/jimbee-cartagena-cierra-ano-magico-remontada-fantastica-20241228_3069853.html",
+        "date": "2024-12-28 21:20:19",
+        "sentiment_score": 0.21462422609329224
+    },
+    {
+        "title": "La petición de Zara a sus clientes: así quiere ahora que devuelvan la ropa que se prueban",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/12/05/zara-tienda.r_d.1686-211.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/noticia/5668070/0/peticion-zara-clientes-devuelvan-ropa/",
+        "date": "2024-12-28 21:13:14",
+        "sentiment_score": 0.32331419363617897
+    },
+    {
+        "title": "EEUU: Conozca la fecha exacta del cambio de horario de verano",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1723666177162.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-conozca-la-fecha-exacta-del-cambio-de-horario-de-verano--202412281800",
+        "date": "2024-12-28 22:00:00",
+        "sentiment_score": -0.008067414164543152
+    },
+    {
+        "title": "Conozca cómo registrarse para acceder a créditos dirigidos al emprendimiento",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735342465935.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conozca-como-registrarse-para-acceder-a-creditos-dirigidos-al-emprendimiento-2024122817310",
+        "date": "2024-12-28 21:31:00",
+        "sentiment_score": 0.019595876336097717
+    },
+    {
+        "title": "Niño de ocho años pierde dos dedos al lanzar fuegos artificiales en Navidad",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735420399482.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/nino-de-ocho-anos-pierde-dos-dedos-al-lanzar-fuegos-artificiales-en-navidad-2024122817130",
+        "date": "2024-12-28 21:13:00",
+        "sentiment_score": -0.4624486416578293
+    },
+    {
+        "title": "EEUU | ¿Quiénes serán los primeros en recibir pagos SNAP la próxima semana?",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735420392332.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-quienes-seran-los-primeros-en-recibir-pagos-snap-la-proxima-semana--2024122817110",
+        "date": "2024-12-28 21:11:00",
+        "sentiment_score": -0.08453090861439705
+    },
+    {
+        "title": "WhatsApp dejará de estar disponible en estos teléfonos a partir de 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735356738815.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/whatsapp-dejara-de-estar-disponible-en-estos-telefonos-a-partir-de-2025-202412281700",
+        "date": "2024-12-28 21:00:00",
+        "sentiment_score": -0.05121110379695892
+    },
+    {
+        "title": "NBA: ¡No te pierdas los grandes partidos de este fin de semana que tiene Meridiano Televisión!",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735417120666.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/nba-no-te-pierdas-los-grandes-partidos-de-este-fin-de-semana-que-tiene-meridiano-television--2024122816180",
+        "date": "2024-12-28 20:18:00",
+        "sentiment_score": 0.8929280750453472
+    },
+    {
+        "title": "Florida | Así quedó el cronograma de pagos SNAP por enero (+Detalles)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735416596811.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/florida-asi-quedo-el-cronograma-de-pagos-snap-por-enero-detalles--202412281690",
+        "date": "2024-12-28 20:09:00",
+        "sentiment_score": 0.13905868865549564
+    },
+    {
+        "title": "Cantante brasileña suspende show de fuegos artificiales por este motivo (+Video)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735400834505.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/cantante-brasilena-suspende-show-de-fuegos-artificiales-por-este-motivo-video--202412281660",
+        "date": "2024-12-28 20:06:00",
+        "sentiment_score": 0.8169860020279884
+    },
+    {
+        "title": "¿Qué hacer antes de salir de EEUU y no tener problemas con la CBP?",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735079019013.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/que-hacer-antes-de-salir-de-eeuu-y-no-tener-problemas-con-la-cbp--202412281600",
+        "date": "2024-12-28 20:00:00",
+        "sentiment_score": -0.02150970697402954
+    },
+    {
+        "title": "Aprovecha la versatilidad del calabacín y prepara este sencillo plato",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735240264695.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - gastronomía"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/aprovecha-la-versatilidad-del-calabacin-y-prepara-este-sencillo-plato-202412281600",
+        "date": "2024-12-28 20:00:00",
+        "sentiment_score": 0.564375652000308
     }
 ];
