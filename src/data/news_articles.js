@@ -163,46 +163,6 @@ export default [
         "sentiment_score": -0.32590778917074203
     },
     {
-        "title": "Mueren 14 agentes sirios en una “emboscada” de las antiguas fuerzas de al-Assad",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/agentes-sirios-emboscada-cafe-tv/",
-        "date": "2024-12-26 13:53:49",
-        "sentiment_score": -0.893087912350893
-    },
-    {
-        "title": "Mueren cinco periodistas en un ataque israelí en Gaza cerca de un hospital",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mueren-periodistas-gaza-al-quds-today-cafe-tv/",
-        "date": "2024-12-26 13:51:40",
-        "sentiment_score": -0.8199237445369363
-    },
-    {
-        "title": "Biden y Zelensky condenan los ataques rusos a Ucrania el día de Navidad",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataques-rusos-ucrania-navidad-cafe-tv/",
-        "date": "2024-12-26 13:49:51",
-        "sentiment_score": -0.8801893126219511
-    },
-    {
-        "title": "Excarcelan a todos los jóvenes presos por protestas tras las elecciones en Venezuela",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2188488609.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/excarcelan-jovenes-presos-protestas-venezuela-cafe-tv/",
-        "date": "2024-12-26 13:31:14",
-        "sentiment_score": -0.6769012100994587
-    },
-    {
         "title": "Línea Directa supera los 1.000 millones de euros en ingresos por primas",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/26/PatriciaAyuela_CEOLneaDirecta-RS7XzsNBaiEByMrV67pKNxM-1200x840@diario_abc.jpg",
         "tags": [
@@ -221,86 +181,6 @@ export default [
         "link": "https://www.abc.es/internacional/rusia-declara-emergencia-federal-vertido-petroleo-mar-20241226170453-nt.html",
         "date": "2024-12-26 16:06:00",
         "sentiment_score": -0.7782745771110058
-    },
-    {
-        "title": "Portugal anuncia la mayor inversión en vivienda pública desde los años 90",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/26/portugal-kiqH-U7039248402Q0G-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/portugal-anuncia-mayor-inversion-vivienda-publica-anos-20241226143822-nt.html",
-        "date": "2024-12-26 13:38:23",
-        "sentiment_score": 0.014264136552810669
-    },
-    {
-        "title": "'League of Legends': 15 años creando comunidad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/26/PrincipallagHaraAmoros-RTNpEAQQUxZfHWLIJcaBV1I-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/league-legends-anos-creando-comunidad-20241226143344-nt.html",
-        "date": "2024-12-26 13:33:44",
-        "sentiment_score": -0.015449762344360352
-    },
-    {
-        "title": "La CNMV abre un expediente sancionador a Twitter por anuncios de 'chiringuitos financieros'",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/26/1488712022-kJaD-U7039055370RHH-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cnmv-abre-expediente-sancionador-twitter-anuncios-chiringuitos-20241226141609-nt.html",
-        "date": "2024-12-26 13:16:10",
-        "sentiment_score": -0.13682492077350616
-    },
-    {
-        "title": "La OMS publica los datos de Covid-19 cinco años después del primer caso: más de siete millones de muertes en 234 países",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/12/26/covid-krDI-U7039049225h8-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/oms-publica-datos-covid19-cinco-anos-despues-20241226135900-nt.html",
-        "date": "2024-12-26 12:59:01",
-        "sentiment_score": -0.22955536842346191
-    },
-    {
-        "title": "El peso del turismo en el PIB se elevó en 2023 al 12,3%, pero sigue por debajo del prepandemia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/26/1425439532-R8VnuckM35CMciJdrY4DeCJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/peso-turismo-pib-elevo-2023-123-sigue-20241226132950-nt.html",
-        "date": "2024-12-26 12:51:54",
-        "sentiment_score": -0.078437939286232
-    },
-    {
-        "title": "La edición genética reduce las placas de alzhéimer en ratones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/12/26/alzheimers_disease.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/edicion-genetica-reduce-placas-alzheimer-ratones-20241226132032-nt.html",
-        "date": "2024-12-26 12:20:33",
-        "sentiment_score": -0.07999196648597717
-    },
-    {
-        "title": "Este biomarcador detecta cómo de envejecidas están nuestras células",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/12/26/longevidad-RrF0B8wllMWG5uhhtyhAaBN-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/biomarcador-detecta-envejecidas-celulas-20241226125957-nt.html",
-        "date": "2024-12-26 11:59:57",
-        "sentiment_score": -0.09338632225990295
-    },
-    {
-        "title": "Hallan muerto en un hotel al presidente de una empresa investigada en Perú por dar comida para perros en colegios",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/26/ninos-comedor-kN2B-U7038770346OiF-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hallan-muerto-hotel-presidente-empresa-investigada-peru-20241226125817-nt.html",
-        "date": "2024-12-26 11:58:18",
-        "sentiment_score": -0.32836203277111053
     },
     {
         "title": "Las multas de Almeida por los conciertos del Santiago Bernabéu suman ya 2,6 millones de euros",
@@ -426,57 +306,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-26/el-numero-dos-de-lamban-disputara-a-pilar-alegria-el-liderazgo-del-psoe-de-aragon.html",
         "date": "2024-12-26 14:16:27",
         "sentiment_score": -0.43964797258377075
-    },
-    {
-        "title": "28 fallecidos en accidentes de tráfico la primera de las tres fases de la Operación de Navidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Q547AP6BJG4WEVYIX2VNVXYEDE.jpg?auth=bdcab18ce657ba0dc6e2bd1f3edcfab2d3875d21ebd4285a8a1d33eafa78b3e8&width=1200",
-        "tags": [
-            "movilidad urbana",
-            "víctimas",
-            "guardia civil",
-            "dgt",
-            "accidentes tráfico",
-            "seguridad vial",
-            "accidentes",
-            "operaciones tráfico",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-26/28-fallecidos-en-accidentes-de-trafico-la-primera-de-las-tres-fases-de-la-operacion-de-navidad.html",
-        "date": "2024-12-26 12:47:59",
-        "sentiment_score": 0.07881984114646912
-    },
-    {
-        "title": "La Generalitat dice ahora que Mazón no estaba en el Ventorro el día de la dana en su condición de presidente",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WPOCAT435BAMS5AKSBG2IXMZXM.jpg?auth=8fa210284ce0690acef6c6f2c93fff1856539f8e0e8cbed0247e67a4747711e8&width=1200",
-        "tags": [
-            "ppcv",
-            "carlos mazón",
-            "generalitat valenciana",
-            "inundaciones",
-            "dana",
-            "pp",
-            "comunidad valenciana",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-26/la-generalitat-dice-ahora-que-mazon-no-estaba-en-el-ventorro-el-dia-de-la-dana-en-su-condicion-de-presidente.html",
-        "date": "2024-12-26 12:23:01",
-        "sentiment_score": -0.03141351044178009
-    },
-    {
-        "title": "El Supremo cita como testigos a la fiscal superior de Madrid y al que denunció por fraude a la pareja de Ayuso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FW3JO5CBUNH6FGXREEVSTHAYCE.jpg?auth=8f6035b4e8bcb6004030f28d716af4e322f89ecb7467e0963e7a4c04fe60f263&width=1200",
-        "tags": [
-            "jueces",
-            "tribunales",
-            "españa",
-            "tribunal supremo",
-            "justicia",
-            "fiscalía",
-            "caso ayuso"
-        ],
-        "link": "https://elpais.com/espana/2024-12-26/el-supremo-cita-como-testigos-a-la-fiscal-superior-de-madrid-y-al-que-denuncio-por-fraude-a-la-pareja-de-ayuso.html",
-        "date": "2024-12-26 11:58:14",
-        "sentiment_score": -0.06699049472808838
     },
     {
         "title": "Adjudicados por 17 millones de euros dos contratos para adaptar el tramo Madrid-Zaragoza a la autopista ferroviaria",
@@ -7964,5 +7793,478 @@ export default [
         "link": "https://2001online.com/servicios/asi-puedes-tramitar-la-pension-del-ivss-detalles--202411213160",
         "date": "2024-12-29 19:02:00",
         "sentiment_score": -0.06799831241369247
+    },
+    {
+        "title": "El sector pide que sea obligatorio negociar planes de pensiones de empleo en las empresas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-sector-pide-que-sea-obligatorio-negociar-planes-de-pensiones-de-empleo-en-las-empresas/",
+        "date": "2024-12-30 02:03:22",
+        "sentiment_score": 0.5261769965291023
+    },
+    {
+        "title": "Grupo Moure difiere con \"el inicio del fin de los combustibles fósiles\" que señaló la AIE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/grupo-moure-difiere-con-el-inicio-del-fin-de-los-combustibles-fosiles-que-senalo-la-aie/",
+        "date": "2024-12-30 02:03:04",
+        "sentiment_score": 0.5196388736367226
+    },
+    {
+        "title": "Los robots humanoides llegan para reducir las labores repetitivas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/los-robots-humanoides-llegan-para-reducir-las-labores-repetitivas/",
+        "date": "2024-12-30 02:02:44",
+        "sentiment_score": 0.44022553972899914
+    },
+    {
+        "title": "Ayoze pide \"ayudar lo máximo posible\" a Tenerife por la dana en el regreso de la selección",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/ayoze-pide-ayudar-lo-maximo-posible-a-tenerife-por-la-dana-en-el-regreso-de-la-seleccion/",
+        "date": "2024-12-30 02:02:25",
+        "sentiment_score": 0.5635175555944443
+    },
+    {
+        "title": "El Málaga y el Unicaja suspenden los entrenamientos por las fuertes lluvias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-malaga-y-el-unicaja-suspenden-los-entrenamientos-por-las-fuertes-lluvias/",
+        "date": "2024-12-30 02:02:07",
+        "sentiment_score": -0.8385059963911772
+    },
+    {
+        "title": "Rafa Villar: \"Los jóvenes podrán dar un paso adelante y reconstruir 'La Familia'\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/rafa-villar-los-jovenes-podran-dar-un-paso-adelante-y-reconstruir-la-familia/",
+        "date": "2024-12-30 01:48:28",
+        "sentiment_score": 0.8178963214159012
+    },
+    {
+        "title": "El Ayuntamiento de Cádiz continúa el proceso para cambiar el nombre del estadio de fútbol",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-ayuntamiento-de-cadiz-continua-el-proceso-para-cambiar-el-nombre-del-estadio-de-futbol/",
+        "date": "2024-12-30 01:48:09",
+        "sentiment_score": 0.1608094498515129
+    },
+    {
+        "title": "El Real Madrid se prepara para el 'regreso' de Vincent Poirier",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-real-madrid-se-prepara-para-el-regreso-de-vincent-poirier/",
+        "date": "2024-12-30 01:47:48",
+        "sentiment_score": 0.7281779162585735
+    },
+    {
+        "title": "El Imserso abre un nuevo plazo para solicitar los viajes de turismo para personas mayores",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-imserso-abre-un-nuevo-plazo-para-solicitar-los-viajes-de-turismo-para-personas-mayores/",
+        "date": "2024-12-30 01:47:29",
+        "sentiment_score": 0.6125114634633064
+    },
+    {
+        "title": "Castilla-La Mancha cifra en más de 40 millones los daños de la dana en el sector agrario",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/castilla-la-mancha-cifra-en-mas-de-40-millones-los-danos-de-la-dana-en-el-sector-agrario/",
+        "date": "2024-12-30 01:47:10",
+        "sentiment_score": -0.8468337478116155
+    },
+    {
+        "title": "\"Hemos perdido a un hombre bueno\", dice exmiembro del Centro Carter sobre la muerte del exmandatario",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/1-20241230013237290.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muere-jimmy-carter-legado-centro-mirador-mundial-tv/",
+        "date": "2024-12-30 01:39:20",
+        "sentiment_score": -0.6015646960586309
+    },
+    {
+        "title": "El legado de Jimmy Carter para América Latina, según el expresidente de Colombia, Iván Duque",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/duque.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/legado-jimmy-carter-america-latina-ivan-duque-mirador-mundial-tv/",
+        "date": "2024-12-30 01:36:58",
+        "sentiment_score": -0.48652565106749535
+    },
+    {
+        "title": "\"Su liderazgo fue profundamente conciliador y espiritual\", dice Laura Chinchilla sobre Carter",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/cr.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jimmy-carter-costa-rica-laura-chinchilla-mirador-mundial-tv/",
+        "date": "2024-12-30 01:36:54",
+        "sentiment_score": 0.35909514129161835
+    },
+    {
+        "title": "“Un modelo de lo que significa vivir una vida con significado y propósito”: Biden habla tras la muerte de Carter",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2191107355.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/joe-biden-declaraciones-muerte-jimmy-carter-ush-mirador-mundial-tv/",
+        "date": "2024-12-30 01:21:11",
+        "sentiment_score": -0.21669334173202515
+    },
+    {
+        "title": "¿Quién fue Jimmy Carter y qué hizo como presidente de Estados Unidos?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1351711-jimmy-carter.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "jimmy carter",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/29/jimmy-carter-presidente-estados-unidos-quien-fue-que-hizo-orix/",
+        "date": "2024-12-30 00:13:09",
+        "sentiment_score": -0.04077461361885071
+    },
+    {
+        "title": "¿De qué murió y qué problemas de salud tuvo Jimmy Carter?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1511701-jimmy-carter.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "jimmy carter"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/29/jimmy-carter-de-que-murio-problemas-de-salud-trax/",
+        "date": "2024-12-29 23:33:27",
+        "sentiment_score": -0.5752378217875957
+    },
+    {
+        "title": "La vida y familia de Jimmy Carter: carrera, hijos y más datos",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1348925-jimmy-carter-vida.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "jimmy carter",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/29/jimmy-carter-familia-vida-mujer-hijos-carrera/",
+        "date": "2024-12-29 23:16:42",
+        "sentiment_score": -0.0399186909198761
+    },
+    {
+        "title": "¿Por qué ganó Jimmy Carter el Premio Nobel de la Paz en 2002?",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1348888-jimmy-cartel-nobel-de-la-paz.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política",
+            "jimmy carter",
+            "premio nobel de la paz"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/29/presidente-jimmy-carter-premio-nobel-paz-orix/",
+        "date": "2024-12-29 23:15:47",
+        "sentiment_score": 0.20101159811019897
+    },
+    {
+        "title": "Todos los presidentes de la historia de EE.UU. de George Washington a Joe Biden",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1338921-presidentes-estados-unidos-1.png?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/29/presidentes-estados-unidos-historia-orix/",
+        "date": "2024-12-29 23:10:56",
+        "sentiment_score": -0.05993959307670593
+    },
+    {
+        "title": "La historia de amor de Rosalynn y Jimmy Carter",
+        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1793970-gettyimages-481979439.jpg?c=16x9&q=w_800%2Cc_fill",
+        "tags": [
+            "jimmy carter",
+            "ee.uu."
+        ],
+        "link": "https://cnnespanol.cnn.com/2024/12/29/historia-amor-rosalyn-jimmy-carter-orix/",
+        "date": "2024-12-29 23:02:15",
+        "sentiment_score": 0.20506371557712555
+    },
+    {
+        "title": "Temas del día de EFE España del miércoles 13 de noviembre (13:30 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/temas-del-dia-de-efe-espana-del-miercoles-13-de-noviembre-1330-horas/",
+        "date": "2024-12-30 01:33:29",
+        "sentiment_score": -0.8715335736051202
+    },
+    {
+        "title": "Renfe e Iryo retoman mañana la alta velocidad entre Madrid-Valencia y Ouigo el viernes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/renfe-e-iryo-retoman-manana-la-alta-velocidad-entre-madrid-valencia-y-ouigo-el-viernes/",
+        "date": "2024-12-30 01:32:10",
+        "sentiment_score": 0.12481707334518433
+    },
+    {
+        "title": "Los 'dueños' de los balcones de la Puerta del Sol donde Broncano y las televisiones darán las Campanadas",
+        "image_url": "https://s1.elespanol.com/2024/12/27/madrid/sociedad/911919466_251981188_1706x960.jpg?contentId=ESPIMA20241227_0667",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20241230/duenos-balcones-puerta-sol-broncano-televisiones-daran-campanadas/911909215_0.html",
+        "date": "2024-12-30 01:08:36",
+        "sentiment_score": 0.04843142628669739
+    },
+    {
+        "title": "Real Madrid venció al Barcelona con un Campazzo estelar: el video de la gran jugada que terminó con Deck lesionado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/30/real-madrid-vencio-al-barcelona-con-un-campazzo-estelar-el-video-de-la-gran-jugada-que-termino-con-deck-lesionado/",
+        "date": "2024-12-30 01:04:06",
+        "sentiment_score": 0.15468230843544006
+    },
+    {
+        "title": "“Buscaba en la basura para comer”: las fuertes confesiones de Emiliano Vecchio",
+        "image_url": "https://www.infobae.com/resizer/v2/LZIKK2IW6RE5JBVWQ4TGUOP6QM.JPG?auth=ce38d589f4bd9e22aa747dd5a4fac1c666015b59f74053f1cdadc010692a3a3f&height=1052&smart=true&width=1870",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/30/buscaba-en-la-basura-para-comer-las-fuertes-confesiones-de-emiliano-vecchio/",
+        "date": "2024-12-30 01:02:09",
+        "sentiment_score": -0.06909546256065369
+    },
+    {
+        "title": "Borrar el virus de la bronquiolitis: \"Los inmunizados o no se infectan por el patógeno o si lo hacen de forma leve\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/6b6b86e90ff74a74e443d2656e916b40/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/28/17354073432374.jpg",
+        "tags": [
+            "enfermedades respiratorias",
+            "pediatría",
+            "salud",
+            "vacunas",
+            "enfermedades infecciosas",
+            "niños",
+            "ciencia y salud"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2024/12/30/67702e19e4d4d8dc378b45a9.html",
+        "date": "2024-12-30 00:59:43",
+        "sentiment_score": -0.06804078817367554
+    },
+    {
+        "title": "De la alegría de la Eurocopa a las lágrimas de Rafa Nadal y Carolina Marín, en el Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/29/677197bdd6363.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/alegria-eurocopa-lagrimas-rafa-nadal-carolina-marin-tertulion-domingos-20241230_3069942.html",
+        "date": "2024-12-30 00:43:21",
+        "sentiment_score": 0.031076639890670776
+    },
+    {
+        "title": "Los caminos del Barça y el Real Madrid se cruzan en Oriente Medio: Laporta busca ingresos en Dubai",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/30/culemania/palco/912668726_13922607_1706x960.png?contentId=ESPIMA20241230_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241230/barca-real-madrid-oriente-medio-laporta-dubai/912658726_0.html",
+        "date": "2024-12-30 00:37:51",
+        "sentiment_score": 0.1914827674627304
+    },
+    {
+        "title": "El Ángel Caído",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20241230/angel-caido_256572.html",
+        "date": "2024-12-30 00:30:00",
+        "sentiment_score": -0.4206250533461571
+    },
+    {
+        "title": "En video muestran la magia de las Pascuas en Colombia: con asados por todas partes",
+        "image_url": "https://www.infobae.com/resizer/v2/FFHDI2YFCZCCFGKUA2LHQLLZYI.png?auth=14ef5f3208b31963f4a978b7ab218562eae2b88acb09457ffe1d4bde335f9fce&height=600&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2024/12/29/a-punta-de-asado-y-cerveza-en-familia-asi-celebraron-los-bogotanos-las-pascuas/",
+        "date": "2024-12-30 02:10:06",
+        "sentiment_score": 0.803789284080267
+    },
+    {
+        "title": "Namás 18 conceyos d'Asturies tienen más cotizantes que pensionistes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/44161d14-71a3-414c-85f6-8a25552c882b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2024/12/30/namas-18-conceyos-dasturies-cotizantes-112973953.html",
+        "date": "2024-12-30 02:05:40",
+        "sentiment_score": -0.25142402946949005
+    },
+    {
+        "title": "La financiación social que traspasa fronteras",
+        "image_url": "https://s1.elespanol.com/2024/10/03/invertia/opinion/890671598_249721238_1706x960.jpg?contentId=ESPIMA20241003_0674",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20241230/financiacion-social-traspasa-fronteras/912028790_12.html",
+        "date": "2024-12-30 01:56:59",
+        "sentiment_score": -0.1290445625782013
+    },
+    {
+        "title": "Los 'reyes de Año Nuevo' y sus macrofiestas de Nochevieja: \"Facturamos más de medio millón con 9.000 fiesteros\"",
+        "image_url": "https://s1.elespanol.com/2024/12/27/reportajes/911919541_251983504_1706x960.jpg?contentId=ESPIMA20241227_0742",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20241230/reyes-ano-nuevo-macrofiestas-nochevieja-facturamos-medio-millon-fiesteros/911909233_0.html",
+        "date": "2024-12-30 01:55:00",
+        "sentiment_score": 0.5537649765610695
+    },
+    {
+        "title": "De la regulación de la IA al tratamiento contra el VIH: los eventos que dieron forma a la ciencia en 2024",
+        "image_url": "https://media.es.wired.com/photos/6771f5477ebc6549e19608a8/master/pass/GettyImages-1675557173.jpg",
+        "tags": [
+            "inteligencia artificial, cambio climático"
+        ],
+        "link": "https://es.wired.com/articulos/2024-eventos-que-dieron-forma-a-la-ciencia-y-la-tecnologia",
+        "date": "2024-12-30 01:53:42",
+        "sentiment_score": 0.2546366695314646
+    },
+    {
+        "title": "La Juventus se lanza por un futbolista del Barça para reforzar su defensa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/30/2024123002221034829.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/juventus-lanza-futbolista-barca-reforzar-defensa/20241230022251329004.html",
+        "date": "2024-12-30 01:22:51",
+        "sentiment_score": 0.7180774696171284
+    },
+    {
+        "title": "Bolivia, a pesar de las bajas, pretender sorprender a Ecuador por la zona de clasificación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/13/bolivia-a-pesar-de-las-bajas-pretender-sorprender-a-ecuador-por-la-zona-de-clasificacion/",
+        "date": "2024-12-30 01:03:28",
+        "sentiment_score": -0.6253784522414207
+    },
+    {
+        "title": "Detienen a una mujer por agredir a su hija de 13 años con un tubo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-una-mujer-por-agredir-a-su-hija-de-13-anos-con-un-tubo-202412292240",
+        "date": "2024-12-30 02:04:00",
+        "sentiment_score": -0.8633049298077822
+    },
+    {
+        "title": "Venezuela lamenta el fallecimiento del expresidente Carter",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735521879030/Comunicado.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-lamenta-el-fallecimiento-del-expresidente-carter-202412292210",
+        "date": "2024-12-30 02:01:00",
+        "sentiment_score": 0.7729000598192215
+    },
+    {
+        "title": "EEUU | ¿Cómo es la moneda de 50 centavos valorada en $3.500? (+Características)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-como-es-la-moneda-de-50-centavos-valorada-en-3-500--2024122921540",
+        "date": "2024-12-30 01:54:00",
+        "sentiment_score": 0.7137762531638145
+    },
+    {
+        "title": "Asesinan a tiros a una familia de pastores evangélicos en Colombia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/asesinan-a-tiros-a-una-familia-de-pastores-evangelicos-en-colombia-2024122921360",
+        "date": "2024-12-30 01:36:00",
+        "sentiment_score": -0.6712371557950974
+    },
+    {
+        "title": "McDonald anuncia el fin de su promoción navideña a $1 dólar (+Otras ofertas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/mcdonald-anuncia-el-fin-de-su-promocion-navidena-a-1-dolar--202412292130",
+        "date": "2024-12-30 01:03:00",
+        "sentiment_score": 0.17078806273639202
+    },
+    {
+        "title": "Conozca los hechos deportivos más importantes del 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/conozca-los-hechos-deportivos-mas-importantes-del-2024-2024122920300",
+        "date": "2024-12-30 00:30:00",
+        "sentiment_score": 0.5973609909415245
+    },
+    {
+        "title": "EEUU | Estos son los estados que aumentaran sus salarios en 2025 (+Lista)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-estos-son-los-estados-que-aumentaran-sus-salarios-en-2025-lista--2024122919580",
+        "date": "2024-12-29 23:58:00",
+        "sentiment_score": 0.08260059729218483
+    },
+    {
+        "title": "Asesinan a funcionario de la PNB de múltiples disparos en El Junquito",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/asesinan-a-funcionario-de-la-pnb-de-multiples-disparos-en-el-junquito-2024122919360",
+        "date": "2024-12-29 23:36:00",
+        "sentiment_score": -0.09317846223711967
+    },
+    {
+        "title": "Saab responde en un comunicado declaraciones de canciller argentino",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/saab-responde-en-un-comunicado-declaraciones-de-canciller-argentino-2024122919360",
+        "date": "2024-12-29 23:36:00",
+        "sentiment_score": 0.25636447966098785
+    },
+    {
+        "title": "Conoce el ambicioso proyecto empresarial de Mbappé",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/conoce-el-ambicioso-proyecto-empresarial-de-mbappe-2024122919310",
+        "date": "2024-12-29 23:31:00",
+        "sentiment_score": 0.12868690490722656
     }
 ];
