@@ -1,1010 +1,5 @@
 export default [
     {
-        "title": "Artistas amazónicos claman en una exposición en España por la defensa de la Amazonía",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/12/artistas-amazonicos-claman-en-una-exposicion-en-espana-por-la-defensa-de-la-amazonia/",
-        "date": "2024-12-26 22:03:45",
-        "sentiment_score": 0.4803965277969837
-    },
-    {
-        "title": "Los gobiernos central y vasco crearán un nuevo foro para resolver \"controversias competenciales\"",
-        "image_url": "https://www.infobae.com/resizer/v2/VD7UWOAH6NDXLODBZXCCPUPNDA.jpg?auth=b18a75f7783593ac022d5f340eaf39951b939259b6e418736d6ded9c5d4e874c&height=1278&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/los-gobiernos-central-y-vasco-crearan-un-nuevo-foro-para-resolver-controversias-competenciales/",
-        "date": "2024-12-26 21:48:12",
-        "sentiment_score": 0.38144808262586594
-    },
-    {
-        "title": "Un acertante de Valencia obtiene un premio de 1.002.976 euros en la Bonoloto",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/un-acertante-de-valencia-obtiene-un-premio-de-1002976-euros-en-la-bonoloto/",
-        "date": "2024-12-26 21:45:41",
-        "sentiment_score": 0.45674649626016617
-    },
-    {
-        "title": "La Policía tiene constancia del acceso de intrusos a la casa del agente con 20 millones emparedados",
-        "image_url": "https://www.infobae.com/resizer/v2/GSUA64FBJRHDPAIU3IUUPAWGYM.jpg?auth=4608e087e4e03f0c159f6711eba3c27a3e34aff04b3281430c110df59c251cf1&height=1279&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-policia-tiene-constancia-del-acceso-de-intrusos-a-la-casa-del-agente-con-20-millones-emparedados/",
-        "date": "2024-12-26 21:34:56",
-        "sentiment_score": -0.7309468127787113
-    },
-    {
-        "title": "Bono alquiler joven ha llegado a menos del 1 % del colectivo, según Consejo de la Juventud",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/bono-alquiler-joven-ha-llegado-a-menos-del-1-del-colectivo-segun-consejo-de-la-juventud/",
-        "date": "2024-12-26 21:34:29",
-        "sentiment_score": -0.5688680708408356
-    },
-    {
-        "title": "Prisión provisional para la detenida por presuntamente matar a su hija en Coll de Nargó (Lleida)",
-        "image_url": "https://www.infobae.com/resizer/v2/KPKN2LWNHFAAHPPNDDZHWWWG5A.jpg?auth=520849f78a9283e71267b86a1d8e89f7b89d22871f825254c28834ec3a5660f9&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/prision-provisional-para-la-detenida-por-presuntamente-matar-a-su-hija-en-coll-de-nargo-lleida/",
-        "date": "2024-12-26 21:34:10",
-        "sentiment_score": -0.5287568159401417
-    },
-    {
-        "title": "Pradales defenderá en Europa la Macrorregión atlántica y un rol activo de las regiones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/pradales-defendera-en-europa-la-macrorregion-atlantica-y-un-rol-activo-de-las-regiones/",
-        "date": "2024-12-26 21:33:50",
-        "sentiment_score": 0.5564810670912266
-    },
-    {
-        "title": "Consejera balear cree que construcciones en zonas inundables es \"corresponsabilidad\" de quienes han gobernado",
-        "image_url": "https://www.infobae.com/resizer/v2/VBSAW4UA7FBSFB4BV7WUKP2QKU.jpg?auth=8216f2a88d60a71071228522f75e8203ddca2f429257b57dbf656a0661033c5c&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/consejera-balear-cree-que-construcciones-en-zonas-inundables-es-corresponsabilidad-de-quienes-han-gobernado/",
-        "date": "2024-12-26 21:33:31",
-        "sentiment_score": 0.2778187692165375
-    },
-    {
-        "title": "La rupia india encadena un nuevo mínimo histórico lastrada por la salida de capitales",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-rupia-india-encadena-un-nuevo-minimo-historico-lastrada-por-la-salida-de-capitales/",
-        "date": "2024-12-26 21:19:27",
-        "sentiment_score": -0.14255662262439728
-    },
-    {
-        "title": "Puente acusa a Feijóo de \"mezquindad\" por sugerir que la respuesta en Valencia hubiera sido otra si gobernara el PSOE",
-        "image_url": "https://www.infobae.com/resizer/v2/TZD2U6XVFJFW3DL4GIQGQEUY34.jpg?auth=c6300c98ebe73f4e06384779d58f826d7a12a479d41ffe1b0d2baee03ee30ef0&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/puente-acusa-a-feijoo-de-mezquindad-por-sugerir-que-la-respuesta-en-valencia-hubiera-sido-otra-si-gobernara-el-psoe/",
-        "date": "2024-12-26 21:19:09",
-        "sentiment_score": -0.8804310988634825
-    },
-    {
-        "title": "Así estaba el interior del avión de Azerbaijan Airlines antes de estrellarse en Kazajstán",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/horiz-crash-00-00-01-03-still002.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/interior-avion-kazajstan-orix/",
-        "date": "2024-12-26 20:56:26",
-        "sentiment_score": -0.7459483612328768
-    },
-    {
-        "title": "Así es Alamesa, el restaurante atendido por jóvenes neurodivergentes",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "xpress",
-            "fast – reserve"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/argentina-cientifico-pfizer-integracion-redaccion-buenos-aires-tv/",
-        "date": "2024-12-26 19:51:31",
-        "sentiment_score": 0.48211465775966644
-    },
-    {
-        "title": "Estos son los detalles de la carta de invitación del gendarme argentino Nahuel Gallo detenido en Venezuela",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21216026-2169160-still.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/carta-gendarme-argentino-nahuel-gallo-rba-tv/",
-        "date": "2024-12-26 19:22:21",
-        "sentiment_score": -0.5525645017623901
-    },
-    {
-        "title": "Las cinco noticias que marcaron 2024",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/2024-thumbnail.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cinco-noticias-2024-orix/",
-        "date": "2024-12-26 19:19:53",
-        "sentiment_score": -0.7642368897795677
-    },
-    {
-        "title": "Video mostraría la \"desaparición forzada\" de 4 niños en Ecuador",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/youtube-estilo-cnn-2.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/desaparicion-forzada-ninos-ecuador-rba-tv/",
-        "date": "2024-12-26 19:16:40",
-        "sentiment_score": -0.8327401522547007
-    },
-    {
-        "title": "Los ojos son el mejor Iphone",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/12/22/registro-horario-kb8E--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-ojos-mejor-iphone-20241227220740-nts.html",
-        "date": "2024-12-26 21:07:40",
-        "sentiment_score": -0.10150259733200073
-    },
-    {
-        "title": "Mucho que celebrar",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2024/12/22/registro-horario-kb8E--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-celebrar-20241227121724-nts.html",
-        "date": "2024-12-26 21:06:47",
-        "sentiment_score": -0.03436514735221863
-    },
-    {
-        "title": "Encarando la nueva realidad europea",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2024/12/27/europa-Rd4rcYKLhR9aNlTShLoaiiJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/ignacio-nino-encarando-nueva-realidad-europea-20241227182327-nts.html",
-        "date": "2024-12-26 21:06:31",
-        "sentiment_score": -0.038695454597473145
-    },
-    {
-        "title": "Qué es y qué síntomas tiene el linfoma cerebral, el tumor que padece Raphael",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2024/12/26/raphael-ignacio-gil-kGhD-U7039858655vmB-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/sintomas-linfoma-cerebral-tumor-padece-raphael-20241226203958-nt.html",
-        "date": "2024-12-26 19:39:58",
-        "sentiment_score": -0.16997595131397247
-    },
-    {
-        "title": "La oposición de Corea del Sur también presenta una moción de censura contra el presidente en funciones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/26/corea-R7OxTyFWnQpcJRm58slIh9L-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/oposicion-corea-sur-presenta-mocion-censura-presidente-20241226202928-nt.html",
-        "date": "2024-12-26 19:39:10",
-        "sentiment_score": -0.06971567869186401
-    },
-    {
-        "title": "El precio de los carburantes se mantiene estable en plenas vacaciones de Navidad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/26/1490381107-RRaiyguMwEADSxKnqGIWujK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/precio-carburantes-mantiene-estable-plenas-vacaciones-navidad-20241226193913-nt.html",
-        "date": "2024-12-26 19:06:24",
-        "sentiment_score": -0.081817626953125
-    },
-    {
-        "title": "Pretty Woman",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2024/12/17/pescaderia-granada-U2201640265548G1E--170x119@Ideal.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/ignacio-camacho-pretty-woman-20241227192237-nt.html",
-        "date": "2024-12-26 18:32:36",
-        "sentiment_score": -0.08309149742126465
-    },
-    {
-        "title": "Illa pide no dejarse arrastrar por los discursos que dividen ni por los del odio en 2025",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BLGZDARL5BHTNJTVYR7XZ5XXLQ.jpg?auth=a007d3c960bb8af9d983f9da7238a6c35c933e77a9670e8599401ec9379b0206&width=1200",
-        "tags": [
-            "psc",
-            "cataluña",
-            "salvador illa",
-            "valencia",
-            "govern cataluña",
-            "mensaje navidad"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-26/illa-pide-no-dejarse-arrastrar-por-los-discursos-que-dividen-ni-por-los-del-odio-en-2025.html",
-        "date": "2024-12-26 20:05:38",
-        "sentiment_score": 0.10442483052611351
-    },
-    {
-        "title": "El 'palito' de Andreu Buenafuente a Florentino Pérez y Mbappé que resuena en media España",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/12/26/676dcd30ce427.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20241226/1002377357/palito-andreu-buenafuente-florentino-perez-mbappe-resuena-media-espana-dct.html",
-        "date": "2024-12-26 22:08:42",
-        "sentiment_score": -0.18794755637645721
-    },
-    {
-        "title": "Conmoción en Brasil: asesinaron de ocho balazos a un familiar de Endrick en un bar",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2024/12/26/conmocion-en-brasil-asesinaron-de-ocho-balazos-a-un-familiar-de-endrick-en-un-bar/",
-        "date": "2024-12-26 21:57:32",
-        "sentiment_score": -0.8240543119609356
-    },
-    {
-        "title": "Llull sobre su récord: \"Significa que he estado al máximo nivel muchos años\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/26/llull-sobre-su-record-significa-que-he-estado-al-maximo-nivel-muchos-anos/",
-        "date": "2024-12-26 21:30:40",
-        "sentiment_score": 0.37557176500558853
-    },
-    {
-        "title": "Las medidas para cruzar de México a Estados Unidos por tierra durante las fiestas decembrinas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4OF4446ZN5HK3LZ6LG4PGM5WXQ.jpg?auth=d0c11084e3f658854b9e06894ab5ed3239156b92978c966191fec932f8e2970d&width=1200",
-        "tags": [
-            "américa",
-            "celebraciones",
-            "viajes",
-            "latinoamérica",
-            "fiestas",
-            "méxico",
-            "navidad",
-            "estados unidos",
-            "año nuevo",
-            "fronteras"
-        ],
-        "link": "https://elpais.com/mexico/2024-12-26/las-medidas-para-cruzar-de-mexico-a-estados-unidos-por-tierra-durante-las-fiestas-decembrinas.html",
-        "date": "2024-12-26 21:16:49",
-        "sentiment_score": 0.18408886343240738
-    },
-    {
-        "title": "Una patrullera marroquí, encallada en aguas de Melilla",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1142409",
-        "date": "2024-12-26 21:03:04",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Sin margen de adaptación; con la urgencia de sumar puntos desde ya",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/edbd0f07-61d1-49d0-abf4-de03e3344886_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/valencia-cf/2024/12/26/margen-adaptacion-urgencia-sumar-puntos-112939984.html",
-        "date": "2024-12-26 20:55:13",
-        "sentiment_score": -0.1658652424812317
-    },
-    {
-        "title": "Marbella y San Pedro reciben a los emisarios de los Reyes Magos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariosur.es/marbella/marbella-san-pedro-reciben-emisarios-reyes-magos-20241226215406-nt.html",
-        "date": "2024-12-26 20:54:06",
-        "sentiment_score": 0.21601137518882751
-    },
-    {
-        "title": "PP denuncia que el Gobierno habla en el BOE de emergencia nacional para blindar a un cargo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/pp-denuncia-que-el-gobierno-habla-en-el-boe-de-emergencia-nacional-para-blindar-a-un-cargo/",
-        "date": "2024-12-26 20:49:32",
-        "sentiment_score": -0.9177645379677415
-    },
-    {
-        "title": "Mentiras para tapar la corrupción y resistir en la poltrona",
-        "image_url": "https://s.libertaddigital.com/2024/12/10/foto-familia-mesa-consejo-ministros-22112023-recorte.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2024-12-26/editorial-mentiras-para-tapar-la-corrupcion-y-resistir-en-la-poltrona-7201992/",
-        "date": "2024-12-26 20:47:54",
-        "sentiment_score": -0.9034581547603011
-    },
-    {
-        "title": "Kiko Rivera habla sin rodeos sobre las críticas recibidas: \"Mis amigos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/950b53c5-e20d-4619-a383-469d8829a994_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "kiko rivera,gente,isabel pantoja,la sexta,programas de televisión"
-        ],
-        "link": "https://www.laopiniondezamora.es/vida-y-estilo/gente/2024/12/26/kiko-rivera-habla-rodeos-criticas-112940080.html",
-        "date": "2024-12-26 20:46:34",
-        "sentiment_score": 0.4939142018556595
-    },
-    {
-        "title": "Innocents i rifes (1934)",
-        "image_url": "https://static1.ara.cat/clip/ba84e3eb-1d6c-42cd-b91b-91747893b1ed_16-9-aspect-ratio_default_0_x390y274.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ara.cat/opinio/innocents-rifes-1934_1_5238877.html",
-        "date": "2024-12-26 22:10:52",
-        "sentiment_score": -0.37400420010089874
-    },
-    {
-        "title": "Tres afortunados ganan más de 370.000 euros en La Primitiva de este jueves",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/12/09/primitiva2-kVWC-U230244422012q0E-1200x840@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hoy.es/sociedad/tres-afortunados-ganan-370000-euros-primitiva-jueves-20241226230949-nt.html",
-        "date": "2024-12-26 22:09:49",
-        "sentiment_score": 0.7406770624220371
-    },
-    {
-        "title": "Aprender a gestionar la soledad: el reto del siglo XXI",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/26/caixa-kqFD-U230392352122DII-1200x840@El%20Norte.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elnortedecastilla.es/promocionales/aprender-gestionar-soledad-reto-siglo-xxi-20241227225922-nt.html",
-        "date": "2024-12-26 21:59:22",
-        "sentiment_score": -0.06024123728275299
-    },
-    {
-        "title": "El endurecimiento del despido, próximo gran objetivo de los sindicatos para 2025",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/12/europapress-6054408-i-d-secretario-general-ugt-pepe-alvarez-secretario-general-ccoo-unai-sordo-1440x808.jpg",
-        "tags": [
-            "patronal",
-            "ministerio de trabajo y economía social",
-            "sindicatos",
-            "economía"
-        ],
-        "link": "https://www.elindependiente.com/economia/2024/12/26/el-endurecimiento-del-despido-proximo-gran-objetivo-de-los-sindicatos-para-2025/",
-        "date": "2024-12-26 21:50:08",
-        "sentiment_score": -0.021467819809913635
-    },
-    {
-        "title": "María Patiño manda un mensaje a Terelu Campos: \"La echo de menos pero hay que aceptar la vida\"",
-        "image_url": "https://www.infobae.com/resizer/v2/X242DBSZRJDPXPIJURFU6ANT6Y.jpg?auth=2690a3bf7e5448ed79175434b211b33b456df31cb0175c4d9990d021c579a7a6&height=1440&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/12/maria-patino-manda-un-mensaje-a-terelu-campos-la-echo-de-menos-pero-hay-que-aceptar-la-vida/",
-        "date": "2024-12-26 21:48:50",
-        "sentiment_score": -0.02197672426700592
-    },
-    {
-        "title": "Lamine Yamal se marcha de vacaciones a Dubái lesionado: de safari con bota ortopédica",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/26/culemania/cule-bron/911668872_13915402_1706x960.jpg?contentId=ESPIMA20241226_0048",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/cule-bron/20241226/lamine-yamal-de-vacaciones-dubai-lesionado-ortopedica/911658876_0.html",
-        "date": "2024-12-26 21:41:06",
-        "sentiment_score": 0.10856510698795319
-    },
-    {
-        "title": "Premio millonario para un acertante del sorteo de la Bonoloto de este jueves",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2024/12/26/loteria-apuestas-progreso--kFVE-U2303590597460CE-1200x840@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hoy.es/sociedad/premio-millonario-acertante-sorteo-bonoloto-jueves-20241226223112-nt.html",
-        "date": "2024-12-26 21:39:37",
-        "sentiment_score": 0.7737240344285965
-    },
-    {
-        "title": "La romántica foto de Messi junto a Antonela Roccuzzo que desató una ola de repercusiones en las redes sociales",
-        "image_url": "https://www.infobae.com/resizer/v2/YCHM7ETNZZEA7HMYNBURA2IMRE.jpg?auth=ac8993e08acb5d8f915208500587342367fa64551a619e4143863b4278841c82&height=1080&smart=true&width=1080",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2024/12/26/la-romantica-foto-de-messi-junto-a-antonela-roccuzzo-que-desato-una-ola-de-repercusiones-en-las-redes-sociales/",
-        "date": "2024-12-26 21:38:51",
-        "sentiment_score": 0.21168816089630127
-    },
-    {
-        "title": "El local modernista de 1873 que comenzó como un casino y ahora es un referente gastronómico de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/12/26/gastro/911668864_13915130_1706x960.png?contentId=ESPIMA20241226_0040",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gastro/20241226/el-local-modernista-de-que-comenzo-como-un-casino-ahora-es-referente-gastronomico-barcelona/911658875_0.html",
-        "date": "2024-12-26 21:02:22",
-        "sentiment_score": 0.5732221975922585
-    },
-    {
-        "title": "Dólar BCV Venezuela: Cotización de la moneda estadounidense para el #27Dic",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735241468406.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/nacionales/dolar-bcv-venezuela-cotizacion-de-la-moneda-estadounidense-para-el-27dic-2024122615260",
-        "date": "2024-12-26 19:26:00",
-        "sentiment_score": 0.0712154395878315
-    },
-    {
-        "title": "Estos son todos los impuestos que deben pagarse en EEUU",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735239680552.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/estos-son-todos-los-impuestos-que-deben-pagarse-en-eeuu-202412261500",
-        "date": "2024-12-26 19:00:00",
-        "sentiment_score": 0.08277532085776329
-    },
-    {
-        "title": "Estos son los días festivos en EEUU para el próximo año",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735239505076.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/internacionales/estos-son-los-dias-festivos-en-eeuu-para-el-proximo-ano--2024122614580",
-        "date": "2024-12-26 18:58:00",
-        "sentiment_score": 0.1879768967628479
-    },
-    {
-        "title": "El clásico por Meridiano Televisión: Real Madrid vs Barcelona este domingo",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735239455147.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/el-clasico-por-meridiano-television-real-madrid-vs-barcelona-este-domingo-2024122614560",
-        "date": "2024-12-26 18:56:00",
-        "sentiment_score": 0.8807119503617287
-    },
-    {
-        "title": "Conozca cuáles beneficiarios reciben aumento en el pago del Seguro Social",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735234598655.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/conozca-cuales-beneficiarios-reciben-aumento-en-el-pago-del-seguro-social-2024122614450",
-        "date": "2024-12-26 18:45:00",
-        "sentiment_score": 0.7623351532965899
-    },
-    {
-        "title": "Illinois | Conozca cuánto debe ganar para comprar una vivienda",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735238558896.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/illinois-conozca-cuanto-debe-ganar-para-comprar-una-vivienda-2024122614430",
-        "date": "2024-12-26 18:43:00",
-        "sentiment_score": 0.41236143931746483
-    },
-    {
-        "title": "Declaran emergencia ambiental por derrame de crudo en Perú",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735238726732.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/declaran-emergencia-ambiental-por-derrame-de-crudo-en-peru-2024122614390",
-        "date": "2024-12-26 18:39:00",
-        "sentiment_score": 0.2549629509449005
-    },
-    {
-        "title": "Sepa cómo reconocer la moneda de $1 que vale hasta $144.000",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735238260885.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/internacionales/sepa-como-reconocer-la-moneda-de-1-que-vale-hasta-144-000-2024122614360",
-        "date": "2024-12-26 18:36:00",
-        "sentiment_score": 0.6176704168319702
-    },
-    {
-        "title": "EEUU: ¿Cómo obtener devoluciones gratuitas de Amazon en tiendas minoristas?",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735237805794.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/eeuu-como-obtener-devoluciones-gratuitas-de-amazon-en-tiendas-minoristas--2024122614330",
-        "date": "2024-12-26 18:33:00",
-        "sentiment_score": -0.045264847576618195
-    },
-    {
-        "title": "El albanés Uzuni llega a los cien partidos con el Granada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-albanes-uzuni-llega-a-los-cien-partidos-con-el-granada/",
-        "date": "2024-12-27 02:03:22",
-        "sentiment_score": 0.9028797578066587
-    },
-    {
-        "title": "El Valencia recupera a Hugo Duro y a Almeida en la vuelta a los entrenamientos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-valencia-recupera-a-hugo-duro-y-a-almeida-en-la-vuelta-a-los-entrenamientos/",
-        "date": "2024-12-27 02:03:02",
-        "sentiment_score": 0.5545217618346214
-    },
-    {
-        "title": "El Gobierno pide al Ayuntamiento de Cádiz que desista de cambiar el nombre del estadio",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-gobierno-pide-al-ayuntamiento-de-cadiz-que-desista-de-cambiar-el-nombre-del-estadio/",
-        "date": "2024-12-27 02:02:43",
-        "sentiment_score": -0.8215868379920721
-    },
-    {
-        "title": "Tasende se entrena con el grupo y Soberón sigue al margen",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/tasende-se-entrena-con-el-grupo-y-soberon-sigue-al-margen/",
-        "date": "2024-12-27 02:02:25",
-        "sentiment_score": -0.7378481216728687
-    },
-    {
-        "title": "Conchita Martínez: “La Billie Jean King va a ser una fiesta del tenis”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/conchita-martinez-la-billie-jean-king-va-a-ser-una-fiesta-del-tenis/",
-        "date": "2024-12-27 02:02:05",
-        "sentiment_score": 0.7319741174578667
-    },
-    {
-        "title": "Previsión del clima en Barcelona para antes de salir de casa este 27 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/RLQIS4EQTBARNJLLAX3A5C2MHQ.jpg?auth=e0bf7693fe2f1d3c611d547542df3f9f42e6b6f79848082d3ac658014ab80582&height=1536&smart=true&width=2688",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/27/prevision-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-27-de-diciembre/",
-        "date": "2024-12-27 02:01:25",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "La historiadora Miren Arzalluz nueva directora del Museo Guggenheim Bilbao",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-historiadora-miren-arzalluz-nueva-directora-del-museo-guggenheim-bilbao/",
-        "date": "2024-12-27 01:48:25",
-        "sentiment_score": 0.05693626403808594
-    },
-    {
-        "title": "Abiertos ya 139 kilómetros de carreteras de los 160 afectados por la dana en Valencia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/abiertos-ya-139-kilometros-de-carreteras-de-los-160-afectados-por-la-dana-en-valencia/",
-        "date": "2024-12-27 01:48:06",
-        "sentiment_score": 0.532254945486784
-    },
-    {
-        "title": "La danza mejora el bienestar emocional de las personas con Alzheimer, según un estudio",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-danza-mejora-el-bienestar-emocional-de-las-personas-con-alzheimer-segun-un-estudio/",
-        "date": "2024-12-27 01:47:47",
-        "sentiment_score": 0.6576907299458981
-    },
-    {
-        "title": "Lla vicepresidenta valenciana sobre los cambios: Estamos hablando del cómo, no de quiénes",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/lla-vicepresidenta-valenciana-sobre-los-cambios-estamos-hablando-del-como-no-de-quienes/",
-        "date": "2024-12-27 01:47:27",
-        "sentiment_score": 0.5545812621712685
-    },
-    {
-        "title": "OPINIÓN | Jorge Castañeda: Amenaza de Trump de quitarle el canal a Panamá es falsa",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190645576-20241227000632717_003322.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/opinion-jorge-castaneda-trump-panama-canal-embajador-panorama-mundial-tv/",
-        "date": "2024-12-27 02:08:27",
-        "sentiment_score": -0.51323601603508
-    },
-    {
-        "title": "Netanyahu advierte que Israel seguirá atacando Yemen",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/netanyahu-israel-ataques-yemen-medio-oriente-panorama-mundial-tv/",
-        "date": "2024-12-27 02:00:31",
-        "sentiment_score": -0.6186259612441063
-    },
-    {
-        "title": "Cómo romper el hábito de dormir con la televisión de fondo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21230459-35898-832-still.jpg?quality=100&strip=info",
-        "tags": [
-            "health"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/romper-habito-dormir-con-television-minuto-de-salud-fast/",
-        "date": "2024-12-27 01:04:44",
-        "sentiment_score": -0.2567751407623291
-    },
-    {
-        "title": "Gobierno de Ecuador dice que “no encubrirá a nadie” en el caso de los cuatro menores desaparecidos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190608064-20241227000523310.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ecuador-desaparicion-forzada-menores-perspectivas-mexico-tv-fast/",
-        "date": "2024-12-27 00:29:16",
-        "sentiment_score": -0.43083151802420616
-    },
-    {
-        "title": "¿Por qué Trump dice que China opera el canal de Panamá?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190645576-20241227000632717.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/canal-panama-china-trump-mulino-reaccion-perspectivas-mexico-tv/",
-        "date": "2024-12-27 00:25:01",
-        "sentiment_score": -0.38468450121581554
-    },
-    {
-        "title": "Donald Trump aprovechó la Navidad para publicar varios mensajes en Truth Social",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1236014455-20241227000955186.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-redes-sociales-navidad-ush-dusa-tv/",
-        "date": "2024-12-27 00:10:48",
-        "sentiment_score": -0.051525846123695374
-    },
-    {
-        "title": "Mulino: No hay absolutamente ninguna participación china en el canal de Panamá",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2176499363.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mulino-canal-de-panama-china-perspectivas-mexico-tv-fast/",
-        "date": "2024-12-27 00:03:34",
-        "sentiment_score": -0.8033584887161851
-    },
-    {
-        "title": "“Una Nochebuena muy, muy afortunada\": un hombre provoca una avalancha y salva a su hermano sepultado",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hermanos-provocar-avalancha-utah-ush-trax/",
-        "date": "2024-12-26 22:34:08",
-        "sentiment_score": 0.06147852540016174
-    },
-    {
-        "title": "La Tapa, una revolución gastronómica del siglo XXI",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-tapa-una-revolucion-gastronomica-del-siglo-xxi/",
-        "date": "2024-12-27 01:47:06",
-        "sentiment_score": 0.1606544405221939
-    },
-    {
-        "title": "El test de Navidad de Carlos Areces, de 'La que se avecina': \"No pongo ni árbol ni belén, y en Nochevieja cenaría con Hitler\"",
-        "image_url": "https://s1.elespanol.com/2024/12/26/reportajes/911669433_251956906_1706x960.jpg?contentId=ESPIMA20241226_0609",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20241227/test-navidad-carlos-areces-avecina-no-pongo-arbol-belen-nochevieja-cenaria-hitler/911659207_0.html",
-        "date": "2024-12-27 01:15:27",
-        "sentiment_score": -0.2489771470427513
-    },
-    {
-        "title": "Los 5 proyectos 'estrella' que Ayuso arrancará en 2025 mientras se \"prepara para los ataques\" de Pedro Sánchez",
-        "image_url": "https://s1.elespanol.com/2024/12/26/madrid/comunidad/911669513_251959258_1706x960.jpg?contentId=ESPIMA20241226_0689",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20241227/proyectos-estrella-ayuso-arrancara-prepara-ataques-pedro-sanchez/911659258_0.html",
-        "date": "2024-12-27 01:07:07",
-        "sentiment_score": -0.8553423807024956
-    },
-    {
-        "title": "Absuelto un guardia civil que abatió a un joven con esquizofrenia en Manzanares (Madrid) al actuar en legítima defensa",
-        "image_url": "https://www.infobae.com/resizer/v2/RNE6NXR4V5DBXLHVW4ND4RLG3M.jpg?auth=e80482076f2027920af3685794499800b5bed2a897948de34625dd41f2da6bb3&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/absuelto-un-guardia-civil-que-abatio-a-un-joven-con-esquizofrenia-en-manzanares-madrid-al-actuar-en-legitima-defensa/",
-        "date": "2024-12-27 01:03:33",
-        "sentiment_score": -0.7732733767479658
-    },
-    {
-        "title": "Yolanda Díaz y el acuerdo 'fake' para reducir la jornada a 37,5 horas",
-        "image_url": "https://s1.elespanol.com/2024/12/20/opinion/editoriales/910169922_251864899_1706x960.jpg?contentId=ESPIMA20241220_0948",
-        "tags": [
-            "business",
-            "politics"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20241227/yolanda-diaz-acuerdo-fake-reducir-jornada-horas/911788815_13.html",
-        "date": "2024-12-27 01:00:18",
-        "sentiment_score": -0.764336571097374
-    },
-    {
-        "title": "Tebas gana su guerra contra Rubiales: la limpia de Louzán en la RFEF",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/27/culemania/palco/911918800_13915854_1706x960.jpg?contentId=ESPIMA20241227_0001",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20241227/tebas-guerra-contra-rubiales-la-louzan-rfef/911658885_0.html",
-        "date": "2024-12-27 00:46:41",
-        "sentiment_score": -0.05240347981452942
-    },
-    {
-        "title": "Qué información podría recuperar la Guardia Civil del móvil del fiscal general tras el borrado masivo de sus mensajes",
-        "image_url": "https://s1.elespanol.com/2017/04/25/actualidad/actualidad_211241303_129858886_1706x960.jpg?contentId=ESPIMA20170425_2429",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20241227/informacion-podria-recuperar-guardia-civil-movil-fiscal-general-borrado-masivo-mensajes/911659097_0.html",
-        "date": "2024-12-27 00:29:02",
-        "sentiment_score": -0.15915914624929428
-    },
-    {
-        "title": "¿Qué canciones se escuchan en los vestuarios de los equipos de LaLiga?",
-        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/12/23/6769ad9c6cf0a.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/que-canciones-escuchan-vestuarios-equipos-laliga-20241227_3068092.html",
-        "date": "2024-12-27 00:26:54",
-        "sentiment_score": -0.02850016951560974
-    },
-    {
-        "title": "De pista de hielo en Madrid a concierto punk para perretes: estos son los planes ODS de la semana",
-        "image_url": "https://s1.elespanol.com/2024/12/24/enclave-ods/semanales/911169356_251930213_1706x960.jpg?contentId=ESPIMA20241224_0482",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/semanales/20241227/pista-hielo-madrid-concierto-punk-perretes-planes-ods-semana/911159185_0.html",
-        "date": "2024-12-27 00:09:52",
-        "sentiment_score": 0.6350983018055558
-    },
-    {
-        "title": "El público de los entrenamientos de España podrá colaborar con un donativo a los afectados por la DANA",
-        "image_url": "https://www.infobae.com/resizer/v2/X2MK4XBWXFDPBHQARG5MFL6MDE.jpg?auth=77b0a2e281b69769d7fc9e8a74774cb865ebed58fedd593bad916a604e4198eb&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/12/el-publico-de-los-entrenamientos-de-espana-podra-colaborar-con-un-donativo-a-los-afectados-por-la-dana/",
-        "date": "2024-12-27 00:02:35",
-        "sentiment_score": 0.24009159952402115
-    },
-    {
-        "title": "Estos son los 10 pódcast de salud y bienestar más reproducidos de 2024 en España",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/42207f95362cf80a48ab58f7db36018a/crop/30x0/2792x1841/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/25/17351219461653.jpg",
-        "tags": [
-            "artículos cristina galafate",
-            "bienestar",
-            "estilo de vida",
-            "podcast"
-        ],
-        "link": "https://www.elmundo.es/vida-sana/bienestar/2024/12/27/676bcbb121efa01c2c8b4571.html",
-        "date": "2024-12-27 02:02:27",
-        "sentiment_score": 0.6652756035327911
-    },
-    {
-        "title": "María de la Orden: \"Existe ese miedo al qué dirán o al riesgo de sobresalir demasiado\"",
-        "image_url": "https://phantom-elmundo.unidadeditorial.es/9a3bb00481373b5de048cfccb9cb16dd/crop/79x296/1348x1989/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/19/17346262112540.jpg",
-        "tags": [
-            "yodona",
-            "moda"
-        ],
-        "link": "https://www.elmundo.es/yodona/moda/2024/12/27/676442dfe9cf4a81268b45c0.html",
-        "date": "2024-12-27 02:02:26",
-        "sentiment_score": 0.47494005411863327
-    },
-    {
-        "title": "Figa Flawas, Oques Grasses y Sopa de Cabra actuarán el 22 de noviembre por València",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/figa-flawas-oques-grasses-y-sopa-de-cabra-actuaran-el-22-de-noviembre-por-valencia/",
-        "date": "2024-12-27 01:33:24",
-        "sentiment_score": 0.6523091774433851
-    },
-    {
-        "title": "Un millar de estudiantes reclaman en Barcelona la dimisión de Carlos Mazón",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/un-millar-de-estudiantes-reclaman-en-barcelona-la-dimision-de-carlos-mazon/",
-        "date": "2024-12-27 01:18:06",
-        "sentiment_score": -0.804644363000989
-    },
-    {
-        "title": "La CUP defiende revisar la ubicación de campings y planeamiento urbanístico en zonas inundables",
-        "image_url": "https://www.infobae.com/resizer/v2/TJ2CWR3KZ5CLLJBNLK5LZ5EEZM.jpg?auth=2f71f51f68e01610f42ad26f8de17cd63e06e83ec3fe415df5d007e687884c73&height=1269&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/la-cup-defiende-revisar-la-ubicacion-de-campings-y-planeamiento-urbanistico-en-zonas-inundables/",
-        "date": "2024-12-27 01:02:13",
-        "sentiment_score": -0.8538104891777039
-    },
-    {
-        "title": "Cayeron por robo de moto",
-        "image_url": "https://primicia.com.ve/wp-content/uploads/2024/12/delincuentes-robos-motos-anzoategui-730x524.jpg",
-        "tags": [
-            "ministerio público",
-            "detenido",
-            "robos",
-            "flagrancia",
-            "motos",
-            "anzoátegui",
-            "cicpc",
-            "policía científica",
-            "detenidos",
-            "investigación",
-            "sucesos"
-        ],
-        "link": "https://primicia.com.ve/sucesos/cayeron-por-robo-de-moto/",
-        "date": "2024-12-27 00:45:44",
-        "sentiment_score": -0.5661037098616362
-    },
-    {
-        "title": "Cuál es el grado de estudios de Javier Aguirre, el entrenador que buscará salvar a la selección mexicana rumbo al Mundial",
-        "image_url": "https://www.infobae.com/resizer/v2/LBTNYQ7U65FTBCA46RRO5BZXPY.jpg?auth=7400487de4c986176624e195d662d2b4c15d5bce03e7e17860a6cef115b82fc3&height=3712&smart=true&width=5568",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2024/07/23/este-es-el-grado-de-estudios-de-javier-aguirre-el-entrenador-que-buscara-salvar-a-la-seleccion-mexicana-rumbo-al-mundial/",
-        "date": "2024-12-27 00:34:32",
-        "sentiment_score": 0.129675030708313
-    },
-    {
-        "title": "Pop urbano, flamenco o mensajes feministas entre las propuestas de las 16 canciones del Benidorm Fest 2025",
-        "image_url": "https://www.infobae.com/resizer/v2/EISQS7L76JFBHF3MAEVRV5PCQ4.jpg?auth=834c33c791b7ad623547dabedc707f5309ebeab7de2fdf8a2f034e7382a0ac92&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/12/pop-urbano-flamenco-o-mensajes-feministas-entre-las-propuestas-de-las-16-canciones-del-benidorm-fest-2025/",
-        "date": "2024-12-27 00:32:54",
-        "sentiment_score": 0.52422203309834
-    },
-    {
-        "title": "Hombre fallece tras recibir dosis letal de quimioterapia",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735263887867.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/hombre-fallece-tras-recibir-dosis-letal-de-quimioterapia-2024122621460",
-        "date": "2024-12-27 01:46:00",
-        "sentiment_score": -0.6077920254319906
-    },
-    {
-        "title": "Estas son las artistas femeninas más influyentes del 2024",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735004730701.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/estas-son-las-artistas-femeninas-mas-influyentes-del-2024-2024122621450",
-        "date": "2024-12-27 01:45:00",
-        "sentiment_score": 0.8971764240413904
-    },
-    {
-        "title": "Maduro pide reactivar construcción del teleférico hotel Humbolt - La Guaira",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735259354087.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/nacionales/maduro-pide-reactivar-construccion-del-teleferico-hotel-humbolt---la-guaira-2024122621330",
-        "date": "2024-12-27 01:33:00",
-        "sentiment_score": 0.7641682866960764
-    },
-    {
-        "title": "Así puedes acceder a Credimujer en el Banco de Venezuela",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735004262792.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/asi-puedes-acceder-a-credimujer-en-el-banco-de-venezuela-2024122621300",
-        "date": "2024-12-27 01:30:00",
-        "sentiment_score": -0.08284508809447289
-    },
-    {
-        "title": "EEUU | Las mejores aplicaciones para enviar dinero a México",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735262840320.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/eeuu-las-mejores-aplicaciones-para-enviar-dinero-a-mexico-2024122621260",
-        "date": "2024-12-27 01:26:00",
-        "sentiment_score": 0.023255839943885803
-    },
-    {
-        "title": "EEUU| ¿Cómo proteger a tu mascota de contraer gripe aviar?",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735264225282.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/curiosidades/eeuu-como-proteger-a-tu-mascota-de-contraer-gripe-aviar--2024122621260",
-        "date": "2024-12-27 01:26:00",
-        "sentiment_score": 0.13505087047815323
-    },
-    {
-        "title": "Argentina fija el nuevo salario mínimo desde diciembre (+MONTOS)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735262875243.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/argentina-fija-el-nuevo-salario-minimo-desde-diciembre-montos--2024122621110",
-        "date": "2024-12-27 01:11:00",
-        "sentiment_score": 0.08385828509926796
-    },
-    {
-        "title": "California: ¿Cuáles son los trabajadores migrantes en riesgo de deportación?",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735261561522.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/california-cuales-son-los-trabajadores-migrantes-en-riesgo-de-deportacion--202412262150",
-        "date": "2024-12-27 01:05:00",
-        "sentiment_score": -0.0052924007177352905
-    },
-    {
-        "title": "Esta es la enfermedad que llevó a un hijo de Diomedes Díaz a perder una pierna",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735005104682.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/esta-es-la-enfermedad-que-llevo-a-un-hijo-de-diomedes-diaz-a-perder-una-pierna-2024122620400",
-        "date": "2024-12-27 00:40:00",
-        "sentiment_score": -0.6768047865480185
-    },
-    {
-        "title": "LVBP| Los detalles defensivos que pueden cambiar el rumbo del Round Robin",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735261242394.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/lvbp-los-detalles-defensivos-que-pueden-cambiar-el-rumbo-del-round-robin-2024122620150",
-        "date": "2024-12-27 00:15:00",
-        "sentiment_score": 0.04858434200286865
-    },
-    {
         "title": "El PSOE de Pontevedra aprueba una enmienda que pide eliminar de la ponencia la federalización de la Agencia Tributaria",
         "image_url": "https://www.infobae.com/resizer/v2/25C4WJAKAZCWBG7XD75O3ZFKH4.jpg?auth=cb250910c82040e0b48b560faacb064e02a55dae3b2e2058c19713222c255a7a&height=1378&smart=true&width=1920",
         "tags": [
@@ -1105,314 +100,6 @@ export default [
         "sentiment_score": 0.26047976315021515
     },
     {
-        "title": "Imágenes satelitales muestran el flujo de lava tras la erupción del Kilauea",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/kilauea-00-00-18-17-still001.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/imagenes-satelitales-muestran-lava-erupcion-kilauea-hawaii-orix/",
-        "date": "2024-12-27 03:49:20",
-        "sentiment_score": -0.4573736824095249
-    },
-    {
-        "title": "\"Los ecuatorianos tenemos sed de justicia\", dice la vicepresidenta Abad sobre los menores desaparecidos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190627195.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ecuador-caso-menores-desaparecidos-vicepresidenta-veronica-abad-conclusiones-tv/",
-        "date": "2024-12-27 03:23:18",
-        "sentiment_score": -0.3922976478934288
-    },
-    {
-        "title": "Verónica Abad: Estoy esperando que me abran las puertas del despacho vicepresidencial",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-2190607949.jpg?quality=100&strip=info",
-        "tags": [
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/daniel-noboa-veronica-abad-ecuador-actualidad-disputa-conclusiones-tv/",
-        "date": "2024-12-27 03:18:11",
-        "sentiment_score": 0.04384569823741913
-    },
-    {
-        "title": "Trump se dispone a arrebatar a China el control de Iberoamérica",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/27/eeuu-trump-RBbRmpKuDHkp3376SGX4l1J-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-dispone-arrebatar-china-control-iberoamerica-20241227041832-nt.html",
-        "date": "2024-12-27 03:18:33",
-        "sentiment_score": -0.09574362635612488
-    },
-    {
-        "title": "El 'zar de la frontera' de la Casa Blanca anuncia nuevos centros de detención para familias",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/26/zar-frontera-R6Ov6YBo5d9NFXtQH272yXL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/zar-frontera-casa-blanca-anuncia-nuevos-centros-20241226041824-nt.html",
-        "date": "2024-12-27 03:18:25",
-        "sentiment_score": -0.2247936725616455
-    },
-    {
-        "title": "Un ministro para las divisiones",
-        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2024/11/29/vtc-kyPD--170x119@Diario%20Sur.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-ministro-divisiones-20241227041154-nt.html",
-        "date": "2024-12-27 03:12:03",
-        "sentiment_score": -0.10990303754806519
-    },
-    {
-        "title": "Las familias numerosas exigen que la 'cuota de solidaridad' tenga en cuenta los hijos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/27/Imagen(197524282)-RD72M86FXmtmtTcHcp7oHUM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/familias-numerosas-exigen-cuota-solidaridad-cuenta-hijos-20241227172249-nt.html",
-        "date": "2024-12-27 03:11:28",
-        "sentiment_score": -0.09255896508693695
-    },
-    {
-        "title": "El campo esquiva la reforma laboral y podrá recurrir a los contratos temporales",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/26/1465668541-RjuCihRZjRZlWzibowtvq0H-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/campo-esquiva-reforma-laboral-podra-recurrir-contratos-20241226151819-nt.html",
-        "date": "2024-12-27 03:06:29",
-        "sentiment_score": -0.021406173706054688
-    },
-    {
-        "title": "El 60% de los contratos indefinidos que se firman en España son a tiempo parcial o fijos discontinuos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/27/martorell-trabajadores-kCEH-RouO3XDgmLORaoShTeupUDL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/contratos-indefinidos-firman-espana-tiempo-parcial-fijos-20241227152940-nt.html",
-        "date": "2024-12-27 03:05:15",
-        "sentiment_score": -0.08413366973400116
-    },
-    {
-        "title": "Sentencias como indultos en el caso de los ERE",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2024/12/22/DEPRESION--170x119.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-abc-sentencias-indultos-ere-20241227040206-nt.html",
-        "date": "2024-12-27 03:02:11",
-        "sentiment_score": -0.37231966853141785
-    },
-    {
-        "title": "Las autoridades sirias detienen a Mohammed Kanjo Hassan, uno de los responsables de la prisión de Sednaya",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/27/sednaya-1-kl0D-U7040927374keG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/autoridades-sirias-detienen-mohammed-kanjo-hassan-responsables-20241227035646-nt.html",
-        "date": "2024-12-27 02:56:47",
-        "sentiment_score": -0.1915118545293808
-    },
-    {
-        "title": "El PP espera una decisión “asimétrica” de Vox con los Presupuestos de sus Gobiernos autonómicos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NRKO5SCPYNCB7EUOZSQ5OS7W3E.jpg?auth=962b7d6981406cd0ce0825abf0ffb8dc1a62c08afc74f3eda4b83ef8771396b1&width=1200",
-        "tags": [
-            "marga prohens",
-            "vox",
-            "baleares",
-            "pp",
-            "jorge azcón",
-            "juan manuel moreno",
-            "murcia",
-            "comunidad valenciana",
-            "españa",
-            "castilla y león",
-            "santiago abascal"
-        ],
-        "link": "https://elpais.com/espana/2024-12-27/el-pp-espera-una-decision-asimetrica-de-vox-con-los-presupuestos-de-sus-gobiernos-autonomicos.html",
-        "date": "2024-12-27 04:40:00",
-        "sentiment_score": -0.8115568440407515
-    },
-    {
-        "title": "Interior prohíbe a los presos vestir “de negro, azul oscuro o similar” por razones de seguridad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FV37TBFIGFA45PASB56T7JSJRU.jpg?auth=130875732b6945425295c9afbc7ff611afeeb38f0c3ecdae50dda5cfecd6ea0d&width=1200",
-        "tags": [
-            "presos",
-            "cárcel teixeiro",
-            "ministerio del interior",
-            "instituciones penitenciarias",
-            "ropa",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-27/interior-prohibe-a-los-presos-vestir-de-negro-azul-oscuro-o-similar-por-razones-de-seguridad.html",
-        "date": "2024-12-27 04:40:00",
-        "sentiment_score": -0.3331187218427658
-    },
-    {
-        "title": "El Gobierno renovará y flexibilizará los permisos de residencia y trabajo de los inmigrantes afectados por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZIXE4LJKEJA2XPYZUY3A6QXQVM.jpg?auth=24afb3c1baa348d9866878ee2fbdb7397c63486191555351cf15556b0c85f3fc&width=1200",
-        "tags": [
-            "valencia",
-            "ministerio de inclusión, seguridad social y migraciones",
-            "regularización inmigrantes",
-            "temporales",
-            "consejo de ministros",
-            "españa",
-            "inmigración"
-        ],
-        "link": "https://elpais.com/espana/2024-12-27/el-gobierno-renovara-y-flexibilizara-los-permisos-de-residencia-y-trabajo-de-los-inmigrantes-afectados-por-la-dana.html",
-        "date": "2024-12-27 04:40:00",
-        "sentiment_score": -0.1990673467516899
-    },
-    {
-        "title": "Los primeros realojados de la dana: “Estamos rehaciendo la vida poquito a poco”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N3D4UWWDCNFEFNZU6J7AELMMQE.jpg?auth=073524734443171aa42f39d0badb37f44304b5647ad25a1f8d1b70f9261b9ba6&width=1200",
-        "tags": [
-            "valencia",
-            "carlos mazón",
-            "inundaciones dana octubre 2024",
-            "realojamiento",
-            "viviendas alquiler",
-            "generalitat valenciana",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-27/los-primeros-realojados-de-la-dana-estamos-rehaciendo-la-vida-poquito-a-poco.html",
-        "date": "2024-12-27 04:40:00",
-        "sentiment_score": -0.7390108536928892
-    },
-    {
-        "title": "El Gobierno supera el 91% de las votaciones pese a sus apuros parlamentarios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PYIUV2RF6JHPPDFU6LL33QUCU4.jpg?auth=95c1b0a6bd3100d7e2b14e35204aed1784d3fd761899a8b035b2d853a1f6fb1d&width=1200",
-        "tags": [
-            "maría jesús montero",
-            "sumar",
-            "félix bolaños garcía",
-            "yolanda díaz",
-            "leyes orgánicas",
-            "psoe",
-            "erc",
-            "congreso diputados",
-            "pp",
-            "decretos",
-            "leyes autonómicas",
-            "eaj-pnv",
-            "pedro sánchez",
-            "juntsxcat",
-            "españa",
-            "debates parlamentarios",
-            "leyes ordinarias",
-            "gobierno de españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-27/el-gobierno-gana-el-91-de-las-votaciones-pese-a-sus-apuros-parlamentarios.html",
-        "date": "2024-12-27 04:40:00",
-        "sentiment_score": 0.030138880014419556
-    },
-    {
-        "title": "Puigdemont intenta rearmar a Junts para aliarse con el empresariado y recuperar influencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZGACBUAUJ5AA7IIJ5ZNIP6NYRE.jpg?auth=5260a78052f069bb6db0a57065c13d9cc4e9e5846b6a74f739dbcda69ada2a6b&width=1200",
-        "tags": [
-            "pactos políticos",
-            "economía",
-            "psoe",
-            "carles puigdemont",
-            "govern cataluña",
-            "salvador illa",
-            "juntsxcat",
-            "psc",
-            "generalitat cataluña",
-            "josep sanchez llibre",
-            "cataluña",
-            "independencia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-27/puigdemont-intenta-rearmar-a-junts-para-aliarse-con-el-empresariado-y-recuperar-influencia.html",
-        "date": "2024-12-27 04:40:00",
-        "sentiment_score": 0.086562380194664
-    },
-    {
-        "title": "Rambla Catalunya, el escaparate de la moda catalana: “Se ha convertido en la nueva milla de oro de Barcelona”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/45DVRDXBAZGM3PJGKU6ZACSEMA.jpg?auth=5e974e98265fa05994eaf79db97f2882cc29926490d6b4dd01ead3f5912f117d&width=1200",
-        "tags": [
-            "barcelona",
-            "moda rápida",
-            "tiendas",
-            "moda",
-            "ropa",
-            "diseñadores moda",
-            "comercios",
-            "empresas",
-            "cataluña",
-            "lujo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-27/rambla-catalunya-el-escaparate-de-la-moda-catalana-se-ha-convertido-en-la-nueva-milla-de-oro-de-barcelona.html",
-        "date": "2024-12-27 04:15:00",
-        "sentiment_score": 0.7037747129797935
-    },
-    {
-        "title": "El vicepresidente de Mazón para la dana y el comisionado del Gobierno abren una vía de colaboración en medio del rifirrafe político",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4OGVNTV6A5BEBND3KRIGFMDPCQ.jpg?auth=7d303a0396929fe574b6c0d4b57fabd905e3426af0517e506daef2f033a269b2&width=1200",
-        "tags": [
-            "josep maria angel",
-            "carlos mazón",
-            "inundaciones dana octubre 2024",
-            "pspv-psoe",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "política",
-            "ppcv",
-            "dana",
-            "pilar bernabé"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-27/el-vicepresidente-de-mazon-para-la-dana-y-el-comisionado-del-gobierno-abren-una-via-de-colaboracion-en-medio-del-rifirrafe-politico.html",
-        "date": "2024-12-27 04:15:00",
-        "sentiment_score": 0.32697637379169464
-    },
-    {
-        "title": "Maestros y sanitarios, trabajadores cada vez más quemados: “Hay demasiada carga laboral”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TW4EVH34EREFRIWNTO2GHGB7TA.jpg?auth=f496f3e561e01b7724f99e60ecda469b0367737424cd991215bce0fab10070a6&width=1200",
-        "tags": [
-            "salarios",
-            "educación",
-            "sanidad privada",
-            "ics",
-            "formación",
-            "sanidad",
-            "sanidad pública",
-            "trabajo",
-            "profesorado",
-            "govern cataluña",
-            "colegios públicos",
-            "barcelona",
-            "sant boi de llobregat",
-            "cataluña",
-            "colegios",
-            "hospital bellvitge",
-            "la garriga",
-            "institutos",
-            "hospitales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-27/maestros-y-sanitarios-trabajadores-cada-vez-mas-quemados-hay-demasiada-carga-laboral.html",
-        "date": "2024-12-27 04:15:00",
-        "sentiment_score": -0.8414963781833649
-    },
-    {
-        "title": "De Plaza Catalunya a Montjuïc: la Barcelona para los más pequeños",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J76WQ4KLWNCXPBT3PA2ZIQHXJE.jpg?auth=469f241a94f8cde58a87eb792db803ed0726310b61e4a9c4a9c59b6dc4423ae5&width=1200",
-        "tags": [
-            "barcelona",
-            "navidad",
-            "infancia",
-            "música",
-            "circo",
-            "cataluña",
-            "ocio"
-        ],
-        "link": "https://elpais.com/espana/catalunya/barcelona-se-sale/2024-12-27/de-plaza-catalunya-a-montjuic-la-barcelona-para-los-mas-pequenos.html",
-        "date": "2024-12-27 04:15:00",
-        "sentiment_score": 0.19221565127372742
-    },
-    {
         "title": "Jokin Aperribay hace historia en la Real Sociedad",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/b2207fa4-36ad-4ade-8695-ae8a652069ce_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -1462,106 +149,6 @@ export default [
         "link": "https://www.laprovincia.es/mundo/2024/12/27/nicolas-pascual-parte-eurodiputado-pp-112943656.html",
         "date": "2024-12-27 06:22:07",
         "sentiment_score": 0.05417565256357193
-    },
-    {
-        "title": "Premier League: así fueron los resultados del \"Boxing Day\" (+Detalles)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735268065536.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/premier-league-asi-fueron-los-resultados-del-boxing-day-detalles--2024122623530",
-        "date": "2024-12-27 03:53:00",
-        "sentiment_score": 0.8092622682452202
-    },
-    {
-        "title": "Nicolás Maduro pide la extradición de Dinorah Figuera a España",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735269900204.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/nacionales/nicolas-maduro-pide-la-extradicion-de-dinorah-figuera-a-espana-2024122623500",
-        "date": "2024-12-27 03:50:00",
-        "sentiment_score": -0.11637875437736511
-    },
-    {
-        "title": "Anuncian fusión de Honda y Nissan para 2026 (+Detalles)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735271289060.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/curiosidades/anuncian-fusion-de-honda-y-nissan-para-2026-detalles--2024122623490",
-        "date": "2024-12-27 03:49:00",
-        "sentiment_score": 0.07440778613090515
-    },
-    {
-        "title": "A punto de inaugurarse nuevo estadio Monseñor Febres-Cordero en El Hatillo",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735270484083.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/comunidad/a-punto-de-inaugurarse-nuevo-estadio-monsenor-febres-cordero-en-el-hatillo-2024122623340",
-        "date": "2024-12-27 03:34:00",
-        "sentiment_score": 0.5290216710418463
-    },
-    {
-        "title": "Delcy Rodriguez: Comercio electrónico se incrementó 97% en diciembre",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735262380305.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/nacionales/delcy-rodriguez-comercio-electronico-se-incremento-97-en-diciembre-2024122623300",
-        "date": "2024-12-27 03:30:00",
-        "sentiment_score": 0.47439973056316376
-    },
-    {
-        "title": "Gala Montes confesó todo sobre la relación que mantiene con su manager",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735269817951.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/gala-montes-confeso-todo-sobre-la-relacion-que-mantiene-con-su-manager-202412262360",
-        "date": "2024-12-27 03:06:00",
-        "sentiment_score": 0.8911752384155989
-    },
-    {
-        "title": "Sujeto solicitado por homicidio fue abatido durante intervención policial",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735268738533.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/sujeto-solicitado-por-homicidio-fue-abatido-durante-intervencion-policial-202412262350",
-        "date": "2024-12-27 03:05:00",
-        "sentiment_score": -0.5736197233200073
-    },
-    {
-        "title": "Así le va a los venezolanos en las votaciones del Salón de la Fama de la MLB",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735266264045.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/asi-le-va-a-los-venezolanos-en-las-votaciones-del-salon-de-la-fama-de-la-mlb-202412262300",
-        "date": "2024-12-27 03:00:00",
-        "sentiment_score": -0.04448631405830383
-    },
-    {
-        "title": "MP inicia investigación contra funcionario de PoliChacao (+Detalles)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735267991395.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/mp-inicia-investigacion-contra-funcionario-de-polichacao-detalles--202412262300",
-        "date": "2024-12-27 03:00:00",
-        "sentiment_score": -0.8195739910006523
-    },
-    {
-        "title": "Conductor estresado de Amazon abandona 80 paquetes en la carretera (+Detalles)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735267511130.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/conductor-estresado-de-amazon-abandona-80-paquetes-en-la-carretera-2024122622420",
-        "date": "2024-12-27 02:42:00",
-        "sentiment_score": -0.04027280956506729
     },
     {
         "title": "(Pre) España se agarra a Badosa y al público para batir a la Polonia de Swiatek en las Finales de la BJKC",
@@ -8244,5 +6831,736 @@ export default [
         "link": "https://2001online.com/usa/servicios/eeuu-sam-s-club-anuncia-el-cierre-de-600-sucursales-por-24-horas--2024122922410",
         "date": "2024-12-30 02:41:00",
         "sentiment_score": 0.3446904793381691
+    },
+    {
+        "title": "Cristina Pedroche, embarazada de su segundo hijo en común con Dabiz Muñoz",
+        "image_url": "https://www.infobae.com/resizer/v2/PJCAMHJIKFBDPIDMYGT3I4N7JM.jpg?auth=df456fc2ddf5f6eb7cb82b1185c301e09fea5b6726d17bf14d156b5d10ceb2d2&height=810&smart=true&width=1440",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/30/cristina-pedroche-embarazada-de-su-segundo-hijo-en-comun-con-dabiz-munoz/",
+        "date": "2024-12-30 17:07:41",
+        "sentiment_score": 0.05434567481279373
+    },
+    {
+        "title": "Un 40 % de los consumidores abandona la compra online por problemas en el proceso de pago",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/un-40-de-los-consumidores-abandona-la-compra-online-por-problemas-en-el-proceso-de-pago/",
+        "date": "2024-12-30 17:02:48",
+        "sentiment_score": -0.6046753562986851
+    },
+    {
+        "title": "Un tornado destroza una gasolinera en Mijas (Málaga), donde se viven momentos de angustia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/un-tornado-destroza-una-gasolinera-en-mijas-malaga-donde-se-viven-momentos-de-angustia/",
+        "date": "2024-12-30 17:02:30",
+        "sentiment_score": -0.8705549035221338
+    },
+    {
+        "title": "El Senado pide al Gobierno que intervenga para evitar el veto de Israel a la UNRWA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-senado-pide-al-gobierno-que-intervenga-para-evitar-el-veto-de-israel-a-la-unrwa/",
+        "date": "2024-12-30 17:02:11",
+        "sentiment_score": -0.8895329348742962
+    },
+    {
+        "title": "“Escribiré incluso al presidente del país, dejadme trabajar”: la petición de un funcionario para no tener que jubilarse aunque ya tenga derecho a pensión",
+        "image_url": "https://www.infobae.com/resizer/v2/KNPPRFJQNJARLHVEYCYFC5N7DU.jpg?auth=c683eac3970422eb98c2e86e648685c3d6099408af4e8b3f4375c7f9f369033e&height=4912&smart=true&width=7360",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/30/escribire-incluso-al-presidente-del-pais-dejadme-trabajar-la-peticion-de-un-funcionario-para-no-tener-que-jubilarse-aunque-ya-tenga-derecho-a-pension/",
+        "date": "2024-12-30 16:54:04",
+        "sentiment_score": -0.4240775778889656
+    },
+    {
+        "title": "“Esto es completamente ilegal y una salvajada”: la alerta de un farmacéutico en redes al ver un anuncio de un medicamento en Vinted",
+        "image_url": "https://www.infobae.com/resizer/v2/ZRCABF6NZNFA5L2T3KLGMIGC2E.png?auth=735f35499932e66394016594e95e357d11043f33bcbae615d449dc17019009fb&height=720&smart=true&width=1280",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/30/esto-es-completamente-ilegal-y-una-salvajada-la-alerta-de-un-farmaceutico-en-redes-al-ver-un-anuncio-de-un-medicamento-en-vinted/",
+        "date": "2024-12-30 16:51:37",
+        "sentiment_score": -0.8015399966388941
+    },
+    {
+        "title": "Un joven que vive en Rumanía desmiente la supuesta peligrosidad que afirman los españoles: “Vivimos con las puertas de casa abiertas”",
+        "image_url": "https://www.infobae.com/resizer/v2/3FWCSNWJXRBMGPX6EFCSUWDLJM.jpg?auth=16ed0a8a6178503b455df2a69e71e703b48ded92cbf7bf767c7b2705dcf1ab8b&height=533&smart=true&width=800",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2024/12/30/un-joven-que-vive-en-rumania-desmiente-la-supuesta-peligrosidad-que-afirman-los-espanoles-vivimos-con-las-puertas-de-casa-abiertas/",
+        "date": "2024-12-30 16:49:46",
+        "sentiment_score": -0.5458769723773003
+    },
+    {
+        "title": "El gobierno rumano congela salarios públicos, pensiones y becas para reducir el déficit",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/30/el-gobierno-rumano-congela-salarios-publicos-pensiones-y-becas-para-reducir-el-deficit/",
+        "date": "2024-12-30 16:48:18",
+        "sentiment_score": -0.16586661338806152
+    },
+    {
+        "title": "El oro se encamina a cerrar su mejor año desde 2010 pese al retroceso de los últimos meses",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/30/el-oro-se-encamina-a-cerrar-su-mejor-ano-desde-2010-pese-al-retroceso-de-los-ultimos-meses/",
+        "date": "2024-12-30 16:48:02",
+        "sentiment_score": 0.7874075174331665
+    },
+    {
+        "title": "Infografías del lunes 30 de diciembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/30/infografias-del-lunes-30-de-diciembre/",
+        "date": "2024-12-30 16:47:24",
+        "sentiment_score": -0.017486732453107834
+    },
+    {
+        "title": "La contribución de Jimmy Carter al mejoramiento de la salud en Colombia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-159368229.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jimmy-carter-mejoramiento-salud-colombia-cafe-fast/",
+        "date": "2024-12-30 16:04:00",
+        "sentiment_score": 0.2665904089808464
+    },
+    {
+        "title": "Las familias lloran a las víctimas del accidente aéreo en el Aeropuerto Internacional de Muan, Corea del Sur",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/skwide-thumb1-20241230151231223.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/accidente-aereo-corea-del-sur-avion-trax/",
+        "date": "2024-12-30 15:32:20",
+        "sentiment_score": -0.8548033172264695
+    },
+    {
+        "title": "Líderes mundiales destacan el liderazgo de Carter y su contribución a la solución de conflictos alrededor del mundo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1689487.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lideres-mundiales-jimmy-carter-condolencias-cafe-tv-fast/",
+        "date": "2024-12-30 14:30:23",
+        "sentiment_score": 0.38907967507839203
+    },
+    {
+        "title": "Crear un plan sencillo y flexible, la clave para cumplir tus objetivos de Año Nuevo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1706758.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – general"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/plan-objetivos-inicio-ano-primera-manana-tv-fast/",
+        "date": "2024-12-30 14:24:47",
+        "sentiment_score": 0.45317322574555874
+    },
+    {
+        "title": "Jimmy Carter redefinió el rol de expresidente, dice un analista político",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/ap23050661347974-20241230091838352.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jimmy-carter-muerte-presidencia-expresidente-trax/",
+        "date": "2024-12-30 09:23:49",
+        "sentiment_score": -0.49032508209347725
+    },
+    {
+        "title": "Milanovic arrasa en la primera vuelta de las presidenciales de Croacia, pero irá a segunda vuelta",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/croatia-RJ1iCnQourpJ0Zv0fJl5hVJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/milanovic-arrasa-primera-vuelta-presidenciales-croacia-ira-20241230161627-nt.html",
+        "date": "2024-12-30 15:23:41",
+        "sentiment_score": -0.1762104034423828
+    },
+    {
+        "title": "Probamos el Amazon Echo Show 21: ¿una buena alternativa a un segundo televisor?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/30/assets.aboutamazon-R0dnfh8ZqaJG4qHmWzA8KKJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/probamos-amazon-echo-show-buena-alternativa-segundo-20241230152714-nt.html",
+        "date": "2024-12-30 14:27:14",
+        "sentiment_score": -0.013797640800476074
+    },
+    {
+        "title": "La advertencia de los otorrinos sobre las uvas en Nochevieja: Quién no debería comerlas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/12/30/uvas-nochevieja-otorrinos-RELqSjYvlmGMrLf2aUpDAjI-1200x840@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/advertencia-otorrinos-sobre-uvas-nochevieja-deberia-comerlas-20241230150407-nt.html",
+        "date": "2024-12-30 14:04:08",
+        "sentiment_score": -0.23301120102405548
+    },
+    {
+        "title": "Biden anuncia un nuevo paquete de 2.500 millones de dólares en ayuda militar a Ucrania",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/joe-biden-kYM-U7050379723I2C-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/biden-anuncia-nuevo-paquete-2500-millones-dolares-20241230122904-nt.html",
+        "date": "2024-12-30 11:29:05",
+        "sentiment_score": -0.046016037464141846
+    },
+    {
+        "title": "El ahorro de los hogares aumentó un 42% en verano tras la 'tregua' de la inflación",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/30/1433077874-R1dNPvcc6R0az4hMqdNMZzH-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ahorro-hogares-aumento-varano-tras-tregua-inflacion-20241230121436-nt.html",
+        "date": "2024-12-30 11:18:14",
+        "sentiment_score": -0.09325763583183289
+    },
+    {
+        "title": "Carta del regadío español a los Reyes Magos",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/12/17/pescaderia-granada-U2201640265548G1E--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-valero-de-palma-carta-regadio-espanol-reyes-magos-20241228112904-nt.html",
+        "date": "2024-12-30 10:35:02",
+        "sentiment_score": 0.02232763171195984
+    },
+    {
+        "title": "China, Venezuela, Cuba o Alemania: los líderes internacionales se despiden de Jimmy Carter",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/DAMBin%20(24).jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/china-venezuela-cuba-alemania-lideres-internacionales-despiden-20241230111150-nt.html",
+        "date": "2024-12-30 10:11:50",
+        "sentiment_score": -0.08319976925849915
+    },
+    {
+        "title": "Corea del Sur revisará todos los Boeing 737-800 como el siniestrado",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/corea10_20241230104708-RPTHXSodR8AtBCbUhSZP24O-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/corea-sur-revisara-boeing-737800-siniestrado-20241230103942-nt.html",
+        "date": "2024-12-30 09:50:37",
+        "sentiment_score": -0.1746605634689331
+    },
+    {
+        "title": "Máxima tensión tras la muerte del mantero en el río: un grupo de veinte personas busca venganza y destroza la Jefatura de la Policía Local de Sevilla",
+        "image_url": "https://cdn.mnmstatic.net/cache/3d/3f/media_thumb-link-4013890.webp",
+        "tags": [
+            "policía",
+            "actualidad",
+            "sevilla",
+            "manteros"
+        ],
+        "link": "https://www.meneame.net/story/maxima-tension-tras-muerte-mantero-rio-grupo-veinte-personas",
+        "date": "2024-12-30 08:10:11",
+        "sentiment_score": -0.7731977868825197
+    },
+    {
+        "title": "La inflación media de 2024 ha sido del 2,8%, ocho décimas menos que en 2023",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/30/1490321695-RjKUdT8EnQ0QEeCkTGf2ToJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/inflacion-2024-ocho-decimas-2023-20241230085721-nt.html",
+        "date": "2024-12-30 08:02:09",
+        "sentiment_score": -0.0920245349407196
+    },
+    {
+        "title": "Guía práctica para disfrutar de las preuvas y las uvas en la Puerta del Sol de Madrid: accesos, horarios y aforo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DVPXNGG44BEX5GHWQF6VM45NEY.jpg?auth=21a4acb888dcfd28954971d9b8f72e755014f5537c95b2442e13548f32d3a7c4",
+        "tags": [
+            "comunidad de madrid",
+            "samur",
+            "bomberos",
+            "uvas",
+            "policía municipal",
+            "protección civil",
+            "puerta del sol",
+            "policía nacional",
+            "año nuevo",
+            "madrid",
+            "nochevieja",
+            "relojes",
+            "seguridad ciudadana",
+            "tradiciones navidad"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-30/guia-practica-para-disfrutar-de-las-uvas-y-las-preuvas-en-la-puerta-del-sol-de-madrid-accesos-horarios-y-aforo.html",
+        "date": "2024-12-30 15:33:42",
+        "sentiment_score": 0.05571773648262024
+    },
+    {
+        "title": "El Gobierno valenciano aprueba un decreto que acorta la tramitación de proyectos urbanísticos en zonas dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QD4SAYWTRJHOVMDRKDKESRLZNM.jpg?auth=52b1843379b517a1789d52c8388aaddc4ff2b0cab8154fb0a458841e8a59244f",
+        "tags": [
+            "inundaciones",
+            "generalitat valenciana",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "planes urbanísticos",
+            "reconstrucción",
+            "comunidad valenciana",
+            "consell",
+            "decretos autonómicos",
+            "carlos mazón",
+            "urbanismo",
+            "política autonómica",
+            "susana camarero"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-30/el-gobierno-valenciano-aprueba-un-decreto-que-acorta-la-tramitacion-de-proyectos-urbanisticos-en-zonas-dana.html",
+        "date": "2024-12-30 15:22:43",
+        "sentiment_score": -0.6280630566179752
+    },
+    {
+        "title": "Muere a los 93 años la diseñadora Lola Casademunt",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XU72XN5NK5HPFATALDXZ7RO4N4.jpeg?auth=d5e1311ab50cc85db8b6d09c29b0ad2fa1e2e7e0e7342ed3171d74727cb0283f",
+        "tags": [
+            "ropa",
+            "obituarios",
+            "diseñadores",
+            "cataluña",
+            "moda",
+            "diseñadores moda"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-30/muere-a-los-93-anos-la-disenadora-lola-casademunt.html",
+        "date": "2024-12-30 14:59:34",
+        "sentiment_score": 0.18240375071763992
+    },
+    {
+        "title": "El Gobierno de Mazón critica la “utilización del dolor” por parte de la izquierda en la manifestación por la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EILNGB42LNDEJHPRAY45ZSZRIA.jpg?auth=5a7857b5e7f96da33ff1eaf410c9447c2487fa97e4c2564c349d7643f43966d2",
+        "tags": [
+            "política autonómica",
+            "pedro sánchez",
+            "inundaciones dana octubre 2024",
+            "susana camarero",
+            "manifestaciones",
+            "carlos mazón",
+            "comunidad valenciana",
+            "protestas sociales",
+            "generalitat valenciana",
+            "consell",
+            "dana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-30/el-gobierno-de-mazon-critica-la-utilizacion-del-dolor-por-parte-de-la-izquierda-en-la-manifestacion-por-la-dana.html",
+        "date": "2024-12-30 14:14:21",
+        "sentiment_score": -0.8460324732586741
+    },
+    {
+        "title": "La Guardia Civil interviene siete toneladas de cocaína en el Guadalquivir, el mayor alijo transportado con narcolanchas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZCU246WBSDBALTTCJVBXTNMP6M.jpg?auth=b7603fb5a6e7ff0a05410b4a4099afed2c512c410a2e2b07b7e2a1e3893cb1ed&width=1200",
+        "tags": [
+            "cocaína",
+            "narcotráfico",
+            "narcotraficantes",
+            "ministerio del interior",
+            "andalucía",
+            "alijos",
+            "sevilla",
+            "coria del río",
+            "españa",
+            "guardia civil",
+            "río guadalquivir"
+        ],
+        "link": "https://elpais.com/espana/2024-12-30/la-guardia-civil-interviene-siete-toneladas-de-cocaina-en-el-guadalquivir-el-mayor-alijo-transportado-con-narcolanchas.html",
+        "date": "2024-12-30 13:46:52",
+        "sentiment_score": -0.4077814035117626
+    },
+    {
+        "title": "El tiempo en Nochevieja y Año Nuevo: una nueva dana en el área mediterránea y heladas y niebla en el interior",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LBKV43BXHIQCGQY7KW6QHBMF6U.jpg?auth=85bdc5978df617bcbcaf8f57568214e32fe1bde42dd68a0d98bef77b66eae446&width=1200",
+        "tags": [
+            "niebla",
+            "lluvia",
+            "nochevieja",
+            "bajas temperaturas",
+            "tradiciones navidad",
+            "temperaturas mínimas",
+            "frío",
+            "temperaturas máximas",
+            "invierno",
+            "españa",
+            "meteorología",
+            "aemet",
+            "temperaturas",
+            "año nuevo",
+            "predicción meteorológica",
+            "fiestas nacionales",
+            "navidad"
+        ],
+        "link": "https://elpais.com/espana/2024-12-30/el-tiempo-en-nochevieja-y-ano-nuevo-una-nueva-dana-en-el-area-mediterranea-y-heladas-y-niebla-en-el-interior.html",
+        "date": "2024-12-30 13:14:40",
+        "sentiment_score": -0.5746159143745899
+    },
+    {
+        "title": "La vivienda se dispara como la mayor preocupación de los barceloneses junto a la inseguridad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LAMCSQTILJA4PKYHROISJFZPWM.jpg?auth=cbf3e25379739df5a2ef640249ece0010965f5247edf850a202694fb06c14af8&width=1200",
+        "tags": [
+            "delincuencia",
+            "vivienda",
+            "cataluña",
+            "barcelona",
+            "viviendas alquiler",
+            "jaume collboni",
+            "ayuntamiento barcelona",
+            "encuestas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-30/la-vivienda-se-dispara-como-la-mayor-preocupacion-de-los-barceloneses-junto-a-la-inseguridad.html",
+        "date": "2024-12-30 13:14:05",
+        "sentiment_score": 0.1058322861790657
+    },
+    {
+        "title": "El Ayuntamiento de Madrid aparta a los vecinos de Vicálvaro de la decoración de su cabalgata de Reyes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/C2LLODRTQFCTVODW5Z3ER2ZPW4.jpg?auth=9fbde84120258a3cbc522971de4678b2b13c69d28814d3050b0baf91d157395c&width=1200",
+        "tags": [
+            "josé luis martínez almeida",
+            "comunidad de madrid",
+            "ayuntamiento madrid",
+            "reyes magos",
+            "vecinos",
+            "navidad",
+            "discriminación",
+            "pp",
+            "madrid",
+            "privatizaciones",
+            "vicálvaro"
+        ],
+        "link": "https://elpais.com/espana/madrid/2024-12-30/el-ayuntamiento-aparta-a-los-vecinos-de-vicalvaro-de-la-decoracion-de-su-cabalgata-de-reyes.html",
+        "date": "2024-12-30 12:40:56",
+        "sentiment_score": -0.5941430889070034
+    },
+    {
+        "title": "Un vendedor ambulante fallece ahogado en Sevilla tras huir de la Policía Local y saltar al río",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AFT3C3IHPNGI3GJIO734LCTGL4.jpg?auth=733f2fa86db1273975c95336d72bf16f7d02cf1e05181aec379443f488616e68",
+        "tags": [
+            "inmigración",
+            "río guadalquivir",
+            "policía",
+            "ahogamientos",
+            "andalucía",
+            "sucesos",
+            "españa",
+            "sevilla"
+        ],
+        "link": "https://elpais.com/espana/2024-12-30/un-vendedor-ambulante-fallece-ahogado-en-sevilla-tras-huir-de-la-policia-local-y-saltar-al-rio.html",
+        "date": "2024-12-30 12:12:12",
+        "sentiment_score": -0.7480044011026621
+    },
+    {
+        "title": "Un juez acusa al Ayuntamiento de Badalona de dejar “en completo desamparo” a personas sin hogar y le obliga a darles cobijo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RYFVEN337RHOBDWQIA6WR7XU2U.jpg?auth=8d109a000826d8d10f7db57e93b6b371dfd4953b0db45427a460598e36decc29&width=1200",
+        "tags": [
+            "badalona",
+            "personas sin hogar",
+            "pobreza",
+            "cataluña",
+            "jueces"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2024-12-30/un-juez-acusa-al-ayuntamiento-de-badalona-de-dejar-en-completo-desamparo-a-personas-sin-hogar-y-le-obliga-a-darles-cobijo.html",
+        "date": "2024-12-30 11:30:56",
+        "sentiment_score": -0.5819214694201946
+    },
+    {
+        "title": "Con la camiseta de Alianza Lima y con la de la ‘U’: estos los momentos más icónicos de la carrera de Hugo Sotil",
+        "image_url": "https://www.infobae.com/resizer/v2/5CCULUE4QVAUFLLSYZDECP2JY4.jpg?auth=168e2cbe74eb353e868d2765ef66e96847f0464e23170dde2dd005c7ba9357c2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2024/12/30/hugo-sotil-los-momentos-mas-iconicos-de-la-carrera-futbolistica-del-cholo/",
+        "date": "2024-12-30 17:08:57",
+        "sentiment_score": 0.8771609049290419
+    },
+    {
+        "title": "Albares no asiste a la presentación de cartas credenciales desde que Villarino llegó a Zarzuela",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/12/30/2024123017590636507.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/politica/albares-asiste-presentacion-cartas-credenciales-que-villarino-llego-zarzuela/20241231050000903186.html",
+        "date": "2024-12-30 17:07:27",
+        "sentiment_score": -0.1566379815340042
+    },
+    {
+        "title": "Mónica García destaca los avances conseguidos en Sanidad",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1143805",
+        "date": "2024-12-30 17:00:08",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "El top 50 de los radares de la DGT que menos se respetan en España, ¿dónde están ubicados?",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/11/06/radar-de-velociad.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/motor/actualidad/radares-dgt-menos-se-respetan-espana-donde-estan-ubicados-5666718/",
+        "date": "2024-12-30 17:00:00",
+        "sentiment_score": 0.003711387515068054
+    },
+    {
+        "title": "Mañueco urge a Puente el fin de las infraestructuras pendientes en Castilla y León",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2024/12/30/6772d0127b938.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/241230/96497/manueco-urge-puente-infraestructuras-pendientes-castilla-leon.html",
+        "date": "2024-12-30 16:56:26",
+        "sentiment_score": 0.17796701565384865
+    },
+    {
+        "title": "Cristina Pedroche y David Muñoz esperan su segundo hijo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/30/2024123017545849323.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/cristina-pedroche-david-munoz-esperan-segundo-hijo/20241230175551329039.html",
+        "date": "2024-12-30 16:55:51",
+        "sentiment_score": 0.015176266431808472
+    },
+    {
+        "title": "2024, un año repleto de acontecimientos trepidantes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3875f5f6-2c86-4e97-8604-e85dc19e23dd_16-9-aspect-ratio_default_0_x768y483.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2024/12/30/2024-ano-repleto-acontecimientos-trepidantes-113018234.html",
+        "date": "2024-12-30 16:49:27",
+        "sentiment_score": -0.06858578324317932
+    },
+    {
+        "title": "Temas del día de EFE Internacional del 13 de noviembre de 2024 (15.00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/13/temas-del-dia-de-efe-internacional-del-13-de-noviembre-de-2024-1500-gmt/",
+        "date": "2024-12-30 16:48:07",
+        "sentiment_score": 0.2041555792093277
+    },
+    {
+        "title": "Cristina Pedroche y Dabiz Muñoz esperan su segundo hijo: la historia de una inocentada que terminó siendo real",
+        "image_url": "https://s1.elespanol.com/2024/12/28/corazon/famosos/912168999_251992649_1706x960.jpg?contentId=ESPIMA20241228_0225",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20241230/cristina-pedroche-dabiz-munoz-esperan-segundo-hijo-historia-inocentada-termino-real/912158923_0.html",
+        "date": "2024-12-30 16:42:01",
+        "sentiment_score": -0.4588237442076206
+    },
+    {
+        "title": "Un conductor drogado mata a una mujer cuando cruzaba por un paso de peatones",
+        "image_url": "https://www.clm24.es/media/clm24/images/2024/08/15/2024081521205212689.jpg",
+        "tags": [
+            "viral"
+        ],
+        "link": "https://www.clm24.es/articulo/viral/conductor-drogado-mata-mujer-cuando-cruzaba-paso-peatones/20241230180805440151.html",
+        "date": "2024-12-30 17:08:05",
+        "sentiment_score": -0.42005688324570656
+    },
+    {
+        "title": "Las cuencas internas catalanas acaban el año a un tercio de su capacidad",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20241230180735_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-cuencas-internas-catalanas-acaban-ano-tercio-capacidad-20241230180735.html",
+        "date": "2024-12-30 17:07:35",
+        "sentiment_score": -0.2222973294556141
+    },
+    {
+        "title": "El Ministerio de Transportes responde a Bruselas: en 2025 no habrá peajes en España",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/09/10/peajes-barreras-levantadas.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/motor/actualidad/ministerio-transportes-responde-bruselas-no-peajes-espana-2025-5666727/",
+        "date": "2024-12-30 17:03:14",
+        "sentiment_score": -0.8115913774818182
+    },
+    {
+        "title": "El Ayuntamiento redoblará esfuerzos para evitar \"objetos peligrosos e incidentes\" en Nochevieja",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2024/08/28/B6EB434E-8200-405B-9492-BDF90D3FF52E/patrulla-mossos-desquadra_96.jpg?crop=880%2C495%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/ayuntamiento-redonlara-esfuerzos-evitar-objetos-peligrosos-incidentes-nochevieja_202412306772d1e24f1fb700017b2e64.html",
+        "date": "2024-12-30 17:03:01",
+        "sentiment_score": 0.30146779119968414
+    },
+    {
+        "title": "Roba un reloj de 10.000 euros y acaba retenido por vecinos y entregado a la policía",
+        "image_url": "https://www.clm24.es/media/clm24/images/2024/06/07/2024060721135634818.jpg",
+        "tags": [
+            "viral"
+        ],
+        "link": "https://www.clm24.es/articulo/viral/roba-reloj-10000-euros-acaba-retenido-vecinos-entregado-policia/20241230180226440150.html",
+        "date": "2024-12-30 17:02:26",
+        "sentiment_score": -0.8815130386501551
+    },
+    {
+        "title": "Barcelona ha vivido 258 días con temperaturas por encima de lo normal durante el 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e7f3c09-8d73-41fd-9fec-c251978a1f20_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20241230/barcelona-temperaturas-mas-altas-normal-balance-climatico-2024-113017865",
+        "date": "2024-12-30 17:00:31",
+        "sentiment_score": -0.06111621856689453
+    },
+    {
+        "title": "Aterrizaje de emergencia en Barcelona de un avión que viajaba a Dublín por un problema técnico",
+        "image_url": "https://album.mediaset.es/eimg/2024/12/30/aeropuerto-de-el-prat_19d0.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20241230/aterrizaje-emergencia-avion-problema-tecnico-barcelona_18_014393280.html",
+        "date": "2024-12-30 16:58:45",
+        "sentiment_score": -0.619236771017313
+    },
+    {
+        "title": "El aeropuerto Alicante-Elche operará un millar más de vuelos estas navidades",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49f225bc-3e23-493d-89d9-4a32e9c819ae_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.informacion.es/economia/2024/12/30/aeropuerto-alicante-elche-operara-millar-113017790.html",
+        "date": "2024-12-30 16:57:27",
+        "sentiment_score": 0.6961190328001976
+    },
+    {
+        "title": "Otra derrota para el Barça: el juez también deniega la cautelar a Dani Olmo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54830d01-248f-4276-81ba-214aaaa9f079_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/deportes/20241230/derrota-barca-juez-deniega-cautelar-113017089",
+        "date": "2024-12-30 16:55:43",
+        "sentiment_score": -0.8422703882679343
+    },
+    {
+        "title": "EEUU | IRS anuncia fecha límite para solicitar crédito por hasta $3.600",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1723151931582.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-irs-anuncia-fecha-limite-para-solicitar-credito-por-hasta-3-600--202412301320",
+        "date": "2024-12-30 17:02:00",
+        "sentiment_score": -0.3045150712132454
+    },
+    {
+        "title": "Plataforma Patria inicia pago de un bono por Bs 2350 este #30Dic",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735577603940.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/plataforma-patria-inicia-pago-de-un-bono-por-bs-2350-este-30dic-2024123012530",
+        "date": "2024-12-30 16:53:00",
+        "sentiment_score": 0.039185039699077606
+    },
+    {
+        "title": "Karol G anuncia proyecto con Netflix para el 2025 (+Detalles)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735576510477.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/karol-g-anuncia-proyecto-con-netflix-para-el-2025-detalles--2024123012370",
+        "date": "2024-12-30 16:37:00",
+        "sentiment_score": 0.720767181366682
+    },
+    {
+        "title": "Chacao celebra el fin de año con un concierto gratuito (+Detalles)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735576145956.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/chacao-celebra-el-fin-de-ano-con-un-concierto-gratuito-detalles--2024123012350",
+        "date": "2024-12-30 16:35:00",
+        "sentiment_score": 0.04324808903038502
+    },
+    {
+        "title": "Jugador de los Commanders de Washington se compromete con su novia (+Video)",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735575500938.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/jugador-de-los-commanders-de-washington-se-compromete-con-su-novia-video--2024123012300",
+        "date": "2024-12-30 16:30:00",
+        "sentiment_score": -0.019616588950157166
+    },
+    {
+        "title": "OFICIAL: Saime difunde costos del nuevo pasaporte que se obtiene en 48 horas",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735574451084.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/oficial-saime-difunde-costos-del-nuevo-pasaporte-que-se-obtiene-en-48-horas-2024123012250",
+        "date": "2024-12-30 16:25:00",
+        "sentiment_score": 0.021072976291179657
+    },
+    {
+        "title": "¿Cómo pasa el tiempo para tu perro?",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735576283021.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - mascotas"
+        ],
+        "link": "https://2001online.com/zona3d/mascotas/como-pasa-el-tiempo-para-tu-perro--2024123012250",
+        "date": "2024-12-30 16:25:00",
+        "sentiment_score": -0.8385777492076159
+    },
+    {
+        "title": "NASA descubre nuevo planeta que podría ser habitable",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735579087178.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/nasa-descubre-nuevo-planeta-que-podria-ser-habitable-2024123012210",
+        "date": "2024-12-30 16:21:00",
+        "sentiment_score": 0.12607608921825886
+    },
+    {
+        "title": "Para después de las fiestas: Prepara este remedio anti ojeras",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735575766365.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/para-despues-de-las-fiestas-prepara-este-remedio-anti-ojeras--2024123012210",
+        "date": "2024-12-30 16:21:00",
+        "sentiment_score": -0.0036917179822921753
+    },
+    {
+        "title": "Las 5 personalidades que murieron en 2024",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735578482589.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/las-5-personalidades-que-murieron-en-2024-2024123012210",
+        "date": "2024-12-30 16:21:00",
+        "sentiment_score": -0.8289319397881627
     }
 ];
