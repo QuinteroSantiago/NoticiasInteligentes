@@ -1,429 +1,5 @@
 export default [
     {
-        "title": "Cuál es la fruta que tiene más vitamina C, ayuda a la producción de colágeno y es alta en antioxidantes",
-        "image_url": "https://www.infobae.com/resizer/v2/ZYX75SMXNJB65DU2OQOIEKAEMU.jpg?auth=dddf805fa89d5d170c1204addd595c3e990657f0e35fa340627b4c2cc7c7536d&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/28/cual-es-la-fruta-que-tiene-mas-vitamina-c-ayuda-a-la-produccion-de-colageno-y-es-alta-en-antioxidantes/",
-        "date": "2024-12-28 17:06:51",
-        "sentiment_score": 0.15217354893684387
-    },
-    {
-        "title": "El temporal de lluvias deja 54 l/m2 en cuatro horas en les Illes Columbretes (Castellón)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/el-temporal-de-lluvias-deja-54-lm2-en-cuatro-horas-en-les-illes-columbretes-castellon/",
-        "date": "2024-12-28 17:03:16",
-        "sentiment_score": -0.8615601696074009
-    },
-    {
-        "title": "Gandía (Valencia) suspende las clases este miércoles ante el aviso de fuertes lluvias",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/gandia-valencia-suspende-las-clases-este-miercoles-ante-el-aviso-de-fuertes-lluvias/",
-        "date": "2024-12-28 17:02:57",
-        "sentiment_score": -0.8608055468648672
-    },
-    {
-        "title": "Ingresa en la prisión de Zuera el detenido por la muerte de un vecino de Mallén en una reyerta",
-        "image_url": "https://www.infobae.com/resizer/v2/LIAVHJSF2NAJFHE2QP62G2RIHU.jpg?auth=faabdd617e206df216507ea9d02cb965c75c67b8aae52874d9f69db07bf1f9f4&height=1274&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/28/ingresa-en-la-prision-de-zuera-el-detenido-por-la-muerte-de-un-vecino-de-mallen-en-una-reyerta/",
-        "date": "2024-12-28 17:00:41",
-        "sentiment_score": -0.7259820606559515
-    },
-    {
-        "title": "El Cuponazo de la ONCE reparte más de 6 millones en varias localidades de Valladolid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/28/el-cuponazo-de-la-once-reparte-mas-de-6-millones-en-varias-localidades-de-valladolid/",
-        "date": "2024-12-28 16:46:33",
-        "sentiment_score": 0.2006237730383873
-    },
-    {
-        "title": "Super Once: esta es la combinación ganadora del sorteo del 28 diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/LANMGN4BJVGDBG2LX3X7Y7KIXY.jpg?auth=bd64337383d79d6bb3f77fcd3b518da379159186aeb319c60ee11e9d1b182b5a&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/28/super-once-esta-es-la-combinacion-ganadora-del-sorteo-del-28-diciembre/",
-        "date": "2024-12-28 16:45:26",
-        "sentiment_score": 0.11244224570691586
-    },
-    {
-        "title": "109-80. De Larrea pone la chispa y el Valencia se da una alegría entre tanta tristeza",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/12/109-80-de-larrea-pone-la-chispa-y-el-valencia-se-da-una-alegria-entre-tanta-tristeza/",
-        "date": "2024-12-28 16:32:10",
-        "sentiment_score": -0.020758122205734253
-    },
-    {
-        "title": "Leyendas del Valencia y de l’Horta Sud recaudan dinero en un emotivo encuentro",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/28/leyendas-del-valencia-y-de-lhorta-sud-recaudan-dinero-en-un-emotivo-encuentro/",
-        "date": "2024-12-28 16:30:58",
-        "sentiment_score": 0.4814819321036339
-    },
-    {
-        "title": "Espadas reta a Moreno a una auditoría sobre el \"dineral\" en publicidad institucional",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/28/espadas-reta-a-moreno-a-una-auditoria-sobre-el-dineral-en-publicidad-institucional/",
-        "date": "2024-12-28 16:30:39",
-        "sentiment_score": -0.0823638066649437
-    },
-    {
-        "title": "La presión migratoria en Canarias no frena: desde Navidad han sido rescatados 1.689 migrantes en 27 embarcaciones",
-        "image_url": "https://www.infobae.com/resizer/v2/HJPUFFKVBVD2ZHANQZZGOWUHF4.jpg?auth=f129a873a4cb184dc893d0d52c26ba9309aa42198016eb64ce0cfc0c07771c8b&height=1441&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/28/la-presion-migratoria-en-canarias-no-frena-desde-navidad-han-sido-rescatados-1689-migrantes-en-27-embarcaciones/",
-        "date": "2024-12-28 16:26:03",
-        "sentiment_score": 0.2325826659798622
-    },
-    {
-        "title": "La innovación da una vuelta de tuerca al trabajo de los 'cazadores de talento'",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2024/12/29/tecnologiacazadorestalento-Rukdl0orSti4Ojfl4cWgn1L-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/tecnologia-vuelta-tuerca-trabajo-cazadores-talento-20241229200217-nt.html",
-        "date": "2024-12-28 17:07:06",
-        "sentiment_score": -0.02947324514389038
-    },
-    {
-        "title": "Web corporativa, cuando la primera impresión es decisiva",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/30/web-corporativa-RTE2CaZxbF2tCoMj4UnVm5N-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/web-corporativa-primera-impresion-decisiva-20241230181733-nt.html",
-        "date": "2024-12-28 17:05:34",
-        "sentiment_score": -0.016888663172721863
-    },
-    {
-        "title": "El líder talibán prohíbe las ventanas que den a vivendas donde pueda haber mujeres",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/28/mujeres-afganistan-kMtB-U70459776265EC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/lider-taliban-prohibe-ventanas-den-vivendas-pueda-20241228174327-nt.html",
-        "date": "2024-12-28 16:43:28",
-        "sentiment_score": -0.12758813798427582
-    },
-    {
-        "title": "Cuando robaron un león de las Cortes",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2024/12/26/pasillo-k0s--170x119@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jose-manuel-burgueno-robaron-leon-cortes-20241228162618-nt.html",
-        "date": "2024-12-28 15:27:58",
-        "sentiment_score": -0.12348315119743347
-    },
-    {
-        "title": "Darío Villagrasa se presenta “sin mochilas y libre de equipaje” para “un tiempo nuevo” en e PSOE de Aragón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QCDSERSK42W3FRC4SMQDUAHUWM.jpg?auth=ae2b5da50433945c9652a03f660954b4d1ef7039cd928f3f0a85669b2019a9fe&width=1200",
-        "tags": [
-            "psoe",
-            "javier lambán montañés",
-            "primarias psoe",
-            "zaragoza",
-            "pilar alegría",
-            "españa",
-            "aragón"
-        ],
-        "link": "https://elpais.com/espana/2024-12-28/dario-villagrasa-se-presenta-sin-mochilas-y-libre-de-equipaje-para-un-tiempo-nuevo-en-e-psoe-de-aragon.html",
-        "date": "2024-12-28 16:29:16",
-        "sentiment_score": -0.6877071596682072
-    },
-    {
-        "title": "El Govern financia un nuevo depósito de agua y una potabilizadora en la Vilella Baixa (Tarragona)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C263QH4EVJCAXBJFFYHLEO27D4.jpg?auth=29116c23ed66f28d52edb76d7af72d7536d15014bc093d2bcfb6c043fee3cc01&width=1200",
-        "tags": [
-            "albert dalmau",
-            "agua",
-            "psc",
-            "tarragona",
-            "generalitat cataluña",
-            "cataluña",
-            "sequía",
-            "lluvias torrenciales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-28/el-govern-financia-un-nuevo-deposito-de-agua-y-una-potabilizadora-en-la-vilella-baixa-tarragona.html",
-        "date": "2024-12-28 14:50:11",
-        "sentiment_score": 0.19933228567242622
-    },
-    {
-        "title": "Fallece a los 94 años Angelina Caia, madre del seleccionador español Sergio Scariolo",
-        "image_url": "https://www.infobae.com/resizer/v2/MPZDE3CGYVGMVGNNOXR3AJXW4I.jpg?auth=d83bc4ac37ae511e1aa0c63e2a0546db989f663bea31885fc1d2e5f28fff348d&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/28/fallece-a-los-94-anos-angelina-caia-madre-del-seleccionador-espanol-sergio-scariolo/",
-        "date": "2024-12-28 17:00:23",
-        "sentiment_score": -0.8222050163894892
-    },
-    {
-        "title": "La Gazzeta coloca al Milan detrás de Mosquera",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e92d16b7-43ec-4da6-b556-ea22728a5fa3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia-cf/2024/12/28/fichajes-valencia-milan-mosquera-112977163.html",
-        "date": "2024-12-28 16:41:50",
-        "sentiment_score": -0.04893562197685242
-    },
-    {
-        "title": "Eder Militao, un regreso forjado en resiliencia y determinación",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/12/28/2024122817364775767.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/eder-militao-regreso-forjado-resiliencia-determinacion/20241228173714547604.html",
-        "date": "2024-12-28 16:37:14",
-        "sentiment_score": 0.8873586170375347
-    },
-    {
-        "title": "Vinicius Jr. es nombrado Jugador del Año en los premios Globe Soccer",
-        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2024/12/Vinicius-Jr.--860x645.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://reporteconfidencial.info/2024/12/28/vinicius-jr-es-nombrado-jugador-del-ano-en-los-premios-globe-soccer/",
-        "date": "2024-12-28 16:30:13",
-        "sentiment_score": 0.4019024670124054
-    },
-    {
-        "title": "El reloj de Sol estrena nuevo cartel para dar la bienvenida al 2025",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2024/12/28/6770253a143e7.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.eldebate.com/espana/madrid/20241228/reloj-solestrena-nuevo-cartel-dar-bienvenida-2025_256874.html",
-        "date": "2024-12-28 16:27:17",
-        "sentiment_score": 0.6754875909537077
-    },
-    {
-        "title": "Las pensiones subirán una media de 35 euros al mes en Extremadura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cdc034ff-daad-4ebc-a128-b33dd5262015_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/extremadura/2024/12/28/pensiones-subiran-media-35-euros-112976429.html",
-        "date": "2024-12-28 16:02:24",
-        "sentiment_score": 0.06022953987121582
-    },
-    {
-        "title": "Corberán dirige este domingo su primer entrenamiento en el Valencia con una doble sesión",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/28/corberan-dirige-este-domingo-su-primer-entrenamiento-en-el-valencia-con-una-doble-sesion/",
-        "date": "2024-12-28 16:01:43",
-        "sentiment_score": 0.26576483994722366
-    },
-    {
-        "title": "Enfermedad, tensión y una monarquía golpeada: el 'annus horribilis' 2.0 de la familia real británica",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/16/los-reyes-los-principes-de-gales-y-sus-hijos-en-el-balcon-durante-el-trooping-the-colour-2859.jpeg",
-        "tags": [
-            "influencers y celebrities"
-        ],
-        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/enfermedad-tension-monarquia-golpeada-annus-horribilis-20-familia-real-britanica.html",
-        "date": "2024-12-28 16:01:19",
-        "sentiment_score": -0.008331239223480225
-    },
-    {
-        "title": "“El sistema judicial está diseñado para que no funcione”",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2024/12/28/6736CE94-1F45-498F-9A5E-2B55E31AE8E9/jurista-segoviano-alfonso-ceballos-escalera-gila-recoge-reconocimiento-otan_96.jpg?crop=2514%2C1414%2Cx0%2Cy497&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "castilla y león"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/sistema-judicial-esta-disenado-que-funcione_20241228676fe4fcbc785b00016c59a4.html",
-        "date": "2024-12-28 16:00:13",
-        "sentiment_score": -0.06244921684265137
-    },
-    {
-        "title": "Muere un excursionista en Lérida al caer de 100 metros",
-        "image_url": "https://www.diariodeburgos.es/media/img/2024/9084e33c-aadc-2dad-ebf294806e3b0e26.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z9084e214-c037-cd4f-bb062c8c2be8a577/202412/muere-un-excursionista-en-lerida-al-caer-de-100-metros",
-        "date": "2024-12-28 17:07:51",
-        "sentiment_score": -0.793146125972271
-    },
-    {
-        "title": "La mayor instalación médica del norte de Gaza, fuera de servicio tras una redada",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/28/67702f06289d7.r_d.2742-1612-816.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20241228/10243888/mayor-instalacion-medica-norte-gaza-fuera-servicio-redada.html",
-        "date": "2024-12-28 17:05:30",
-        "sentiment_score": -0.8728048820048571
-    },
-    {
-        "title": "Corre al ver a los policías y se delata: había asesinado a una joven de 25 años",
-        "image_url": "https://www.clm24.es/media/clm24/images/2023/05/27/2023052714204258353.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/echa-correr-ver-policia-delata-habia-asesinado-joven-25-anos/20241228180310440006.html",
-        "date": "2024-12-28 17:03:10",
-        "sentiment_score": -0.7840322237461805
-    },
-    {
-        "title": "Que vuelva el 'Calcetín' de Tàpies",
-        "image_url": "https://static1.ara.cat/clip/ee9c9b46-983c-4d10-94d0-941bcc9d4dd8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/opinion/vuelva-calcetin-tapies_129_5241617.html",
-        "date": "2024-12-28 17:00:29",
-        "sentiment_score": -0.27021005749702454
-    },
-    {
-        "title": "Barcelona triplicará los intercambiadores de baterías eléctricas en aparcamientos",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/12/28/informacion-municipal/912168804_13920472_1706x960.jpg?contentId=ESPIMA20241228_0030",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20241228/barcelona-triplicara-los-intercambiadores-de-baterias-electricas-en-aparcamientos/912158813_0.html",
-        "date": "2024-12-28 16:49:48",
-        "sentiment_score": 0.5631335582584143
-    },
-    {
-        "title": "Saúl Craviotto, mucho más que \"ese que ganó seis medallas\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d1f76896-7864-4b2b-9322-33319d38438c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/polideportivo/2024/12/28/saul-craviotto-gano-seis-medallas-112977428.html",
-        "date": "2024-12-28 16:48:11",
-        "sentiment_score": -0.815250001847744
-    },
-    {
-        "title": "Presidente ucraniano se solidariza con Azerbaiyán tras accidente aéreo",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735398500424.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/presidente-ucraniano-se-solidariza-con-azerbaiyan-tras-accidente-aereo-202412281300",
-        "date": "2024-12-28 17:00:00",
-        "sentiment_score": 0.1286732405424118
-    },
-    {
-        "title": "Texas | Realizan primer taller de Ciudadanía a bajo costo 2025 (+Fecha)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735404862198.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/texas-realizan-primer-taller-de-ciudadania-a-bajo-costo-2025-fecha--2024122812550",
-        "date": "2024-12-28 16:55:00",
-        "sentiment_score": 0.4988393485546112
-    },
-    {
-        "title": "Detienen hombre por abusar sexualmente de su cuñada en el Zulia",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735396631865.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/detienen-hombre-por-abusar-sexualmente-de-su-cunada-en-el-zulia-2024122812300",
-        "date": "2024-12-28 16:30:00",
-        "sentiment_score": -0.24457305297255516
-    },
-    {
-        "title": "Vladímir Putin pide disculpas al presidente de Azerbaiyán (+Detalles)",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735394723572.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/vladimir-putin-pide-disculpas-al-presidente-de-azerbaiyan-detalles--2024122812200",
-        "date": "2024-12-28 16:20:00",
-        "sentiment_score": -0.8831368712708354
-    },
-    {
-        "title": "California | Ofertan empleo para vendedores por $22.98 si hablan español",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735401850097.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/california-ofertan-empleo-para-vendedores-por-22-98-si-hablan-espanol-202412281250",
-        "date": "2024-12-28 16:05:00",
-        "sentiment_score": 0.049910638481378555
-    },
-    {
-        "title": "Real Madrid cambiaría el nombre al estadio Santiago Bernabéu",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735335497766.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/real-madrid-cambiaria-el-nombre-al-estadio-santiago-bernabeu-202412281200",
-        "date": "2024-12-28 16:00:00",
-        "sentiment_score": -0.380540668964386
-    },
-    {
-        "title": "Modelo de OnlyFans da a luz una bebé junto a su hermanastro: Sepa quién es",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735397667738.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/modelo-de-onlyfans-da-a-luz-una-bebe-junto-a-su-hermanastro-sepa-quien-es-2024122811300",
-        "date": "2024-12-28 15:30:00",
-        "sentiment_score": 0.33984266221523285
-    },
-    {
-        "title": "Pitbull ayudó con el último cristal de la bola que cae en Times Square",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735398033446.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/pitbull-ayudo-con-el-ultimo-cristal-de-la-bola-que-cae-en-times-square-2024122811300",
-        "date": "2024-12-28 15:30:00",
-        "sentiment_score": 0.09195586666464806
-    },
-    {
-        "title": "Florida | Propietarios podrán recibir hasta $30.000: Descubra si es elegible",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735398767945.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/florida-propietarios-podran-recibir-hasta-30-000-descubra-si-es-elegible-2024122811140",
-        "date": "2024-12-28 15:14:00",
-        "sentiment_score": 0.1957432460039854
-    },
-    {
-        "title": "Wisin comparte reflexivo mensaje de Navidad",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735148358675.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/wisin-comparte-reflexivo-mensaje-de-navidad--202412281100",
-        "date": "2024-12-28 15:00:00",
-        "sentiment_score": 0.020144276320934296
-    },
-    {
         "title": "Los vecinos de Lepe (Huelva) reciben 2025 por adelantado con 12 frutos rojos de sus campos",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -649,20 +225,6 @@ export default [
         "link": "https://elpais.com/espana/2024-12-28/el-poder-judicial-investigara-al-juez-que-llamo-psicopata-a-pedro-sanchez-por-nuevos-mensajes-contra-el-presidente.html",
         "date": "2024-12-28 18:36:42",
         "sentiment_score": -0.7774147912859917
-    },
-    {
-        "title": "Muere un excursionista al caer 100 metros por una ladera en el Pirineo de Lleida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4TDHKVFI7MN7RJQEQTY7RTPYQQ.jpg?auth=221bc0972074bf519b390fd962f6cb769b98769b4dc1d8e56eb1cb2ca44c5bae&width=1200",
-        "tags": [
-            "cataluña",
-            "rescate víctimas",
-            "pirineo catalán",
-            "bomberos",
-            "lleida"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-28/muere-un-excursionista-al-caer-100-metros-por-una-ladera-en-el-pirineo-de-lleida.html",
-        "date": "2024-12-28 18:27:32",
-        "sentiment_score": -0.7467836011201143
     },
     {
         "title": "Ancelotti recibe su regalo adelantado de Reyes: adiós a un canterano del Real Madrid",
@@ -8394,5 +7956,411 @@ export default [
         "link": "https://2001online.com/sucesos/matan-a-un-agente-de-migracion-en-ciudad-juarez-2024123118190",
         "date": "2024-12-31 22:19:00",
         "sentiment_score": -0.31782660260796547
+    },
+    {
+        "title": "La Bolsa española sube el 0,34 % tras la apertura y recupera los 11.400 puntos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/la-bolsa-espanola-sube-el-034-tras-la-apertura-y-recupera-los-11400-puntos/",
+        "date": "2025-01-01 06:17:48",
+        "sentiment_score": 0.18938875943422318
+    },
+    {
+        "title": "Restablecida la circulación en la línea de alta velocidad entre Málaga y Antequera",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/restablecida-la-circulacion-en-la-linea-de-alta-velocidad-entre-malaga-y-antequera/",
+        "date": "2025-01-01 06:17:08",
+        "sentiment_score": -0.5499885194003582
+    },
+    {
+        "title": "CNMC abre expediente sancionador a Telefónica por incumplimientos tras comprar Sogecable",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/cnmc-abre-expediente-sancionador-a-telefonica-por-incumplimientos-tras-comprar-sogecable/",
+        "date": "2025-01-01 06:03:24",
+        "sentiment_score": -0.7557523734867573
+    },
+    {
+        "title": "Ezentis amplía capital en 1,1 millones de euros para cumplir su acuerdo con Global Tech",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/ezentis-amplia-capital-en-11-millones-de-euros-para-cumplir-su-acuerdo-con-global-tech/",
+        "date": "2025-01-01 06:02:45",
+        "sentiment_score": 0.7302688844501972
+    },
+    {
+        "title": "El Levante suspende el entrenamiento por la restricción de movilidad por las lluvias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/el-levante-suspende-el-entrenamiento-por-la-restriccion-de-movilidad-por-las-lluvias/",
+        "date": "2025-01-01 06:02:05",
+        "sentiment_score": -0.8296703305095434
+    },
+    {
+        "title": "¿Formación militar o carrera universitaria? El 2025, un año clave en la vida de la infanta Sofía",
+        "image_url": "https://www.infobae.com/resizer/v2/DG47IIWLYNEVLHWCH274GJSLCI.jpg?auth=1e6ccd1a23663a33f16f074b4d176da9428aeb5b66cdcb94753a7a9b420cc758&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/01/formacion-militar-o-carrera-universitaria-el-2025-un-ano-clave-en-la-vida-de-la-infanta-sofia/",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": -0.08545428514480591
+    },
+    {
+        "title": "Por qué a veces sueñas con tu ex y no sabes el motivo, según un psicólogo especializado en sueños lúcidos",
+        "image_url": "https://www.infobae.com/resizer/v2/AQJW57DO3ZGYXO2FHDND35UZZY.jpg?auth=b3db6d6c0ecc09dfcd5f399724c08aeaf9df61df39220520f9e133dc89b517e1&height=816&smart=true&width=1456",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/01/por-que-a-veces-suenas-con-tu-ex-y-no-sabes-el-motivo-segun-un-psicologo-especializado-en-suenos-lucidos/",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": -0.41713228821754456
+    },
+    {
+        "title": "La cuesta de enero de Pedro Sánchez en los tribunales: del software de Begoña Gómez a la declaración de su hermano",
+        "image_url": "https://www.infobae.com/resizer/v2/MOXTRFZ5GZNGSBFNF7EUKXLTXA.jpg?auth=883be7cd6149bfac3795250719f8a2650ef21ed7b578d6cb1b0f0e4ada36a846&height=534&smart=true&width=800",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/01/la-cuesta-de-enero-de-pedro-sanchez-en-los-tribunales-del-software-de-begona-gomez-a-la-declaracion-de-su-hermano/",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": 0.11198102682828903
+    },
+    {
+        "title": "El precio del tabaco sube en 2025: así quedan los precios de las cajetillas de cigarros de las principales marcas",
+        "image_url": "https://www.infobae.com/resizer/v2/BOD4HCNVSVCSJD6OPEYBIVJ3KI.jpg?auth=ffef4f757044f865c20273d39521110f76c8e3d27c7b262b118b7b35ffe43972&height=2576&smart=true&width=3872",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/01/el-precio-del-tabaco-sube-en-2025-asi-quedan-los-precios-de-las-cajetillas-de-cigarros-de-las-principales-marcas/",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": 0.03137943148612976
+    },
+    {
+        "title": "Los mejores estrenos de la semana: de ‘Better Man’ a ‘Queer’",
+        "image_url": "https://www.infobae.com/resizer/v2/ZBNCVQVUKZHYPHDARWSALUDZJ4.jpg?auth=5a40748bc822e9ce1faa6a2c0dfa32fd99a49ea7327154037928f2355f725348&height=844&smart=true&width=1500",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/01/01/los-mejores-estrenos-de-la-semana-de-better-man-a-queer/",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": 0.18946610391139984
+    },
+    {
+        "title": "Así quedan los precios del abono transporte en Madrid a partir de enero",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NP3M4ZE3LZHKHJ2U6KQETGEPCM.jpg?auth=1b5888a689af7a3e41c6df4369aed67781f2e4b533ad168075e4e6f83fd59b93&width=1200",
+        "tags": [
+            "madrid",
+            "noticias de españa",
+            "comunidad de madrid",
+            "tarifas transporte",
+            "metro madrid",
+            "precios",
+            "gobierno comunidad de madrid",
+            "transporte público"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-01/asi-quedan-los-precios-del-abono-transporte-en-madrid-a-partir-de-enero.html",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": 0.13537703454494476
+    },
+    {
+        "title": "EH Bildu, de recurso incómodo a aliado fiel",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4HXU3J5G6JCAXNIC4OHVATC5JE.JPG?auth=439a9a0386f6bd932b4901c2248dd2a7bd4c4016021308c05ed2cecf5f802051&width=1200",
+        "tags": [
+            "juan carlos i",
+            "pedro sánchez",
+            "gobierno de españa",
+            "eaj-pnv",
+            "españa",
+            "josé bono",
+            "amaiur",
+            "adriana lastra",
+            "aitor esteban",
+            "jon iñarritu",
+            "oskar matute",
+            "eta",
+            "arnaldo otegi",
+            "ley seguridad ciudadana",
+            "sumar",
+            "mertxe aizpurua",
+            "rafael simancas",
+            "congreso diputados",
+            "pactos políticos",
+            "eh bildu"
+        ],
+        "link": "https://elpais.com/espana/2025-01-01/eh-bildu-de-recurso-incomodo-a-aliado-fiel.html",
+        "date": "2025-01-01 04:40:00",
+        "sentiment_score": 0.7695831581950188
+    },
+    {
+        "title": "El choque en la negociación del acuerdo sobre inmigración envenena los tratos entre el Gobierno y Junts",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ESC5DS2W45DX5HTOA4GPPRVC7M.jpg?auth=52c273237a462c9771f2187f1cbd6186a4ecde3ea9e4d9890da73338c9436373&width=1200",
+        "tags": [
+            "congreso diputados",
+            "cataluña",
+            "gobierno",
+            "presupuestos generales estado",
+            "juntsxcat",
+            "psoe",
+            "carles puigdemont",
+            "independencia",
+            "pedro sánchez",
+            "inmigración",
+            "pactos políticos",
+            "míriam nogueras"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-01/el-choque-en-la-negociacion-del-acuerdo-sobre-inmigracion-envenena-los-tratos-entre-el-gobierno-y-junts.html",
+        "date": "2025-01-01 04:35:00",
+        "sentiment_score": -0.5258166454732418
+    },
+    {
+        "title": "Un fin de año a la carrera en el 60 aniversario de la San Silvestre Vallecana: “De Serrano a Vallecas hay un contraste brutal”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YDZSQDCBV5AJVKHH2FCTBYCAUA.jpg?auth=98aa1b4e03b446b7868694d3792f87a507eb8bedae70c07739209e593f281964&width=1200",
+        "tags": [
+            "media maratón",
+            "desigualdad social",
+            "atletismo",
+            "runner",
+            "carreras populares",
+            "madrid",
+            "san silvestre vallecana",
+            "comunidad de madrid",
+            "running",
+            "carrera san silvestre",
+            "puente vallecas",
+            "desigualdad económica",
+            "chamartín"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-01/un-fin-de-ano-a-la-carrera-en-el-60-aniversario-de-la-san-silvestre-vallecana-de-serrano-a-vallecas-hay-un-contraste-brutal.html",
+        "date": "2025-01-01 04:00:00",
+        "sentiment_score": -0.9087629970163107
+    },
+    {
+        "title": "Cabalgata de Reyes en Madrid 2025: horario, recorrido y mejores sitios para verla",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/17/gaspar-saluda-a-los-ninos-durante-la-cabalgata-de-reyes-magos-de-madrid.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.20minutos.es/noticia/5664658/0/cabalgata-reyes-madrid-2025-horario-recorrido-mejores-sitios/",
+        "date": "2025-01-01 06:00:06",
+        "sentiment_score": 0.06190001219511032
+    },
+    {
+        "title": "Alejo Carpentier y Valmont",
+        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/01/03-Alejo-Carpentier-circa-1979-1024x896.jpg",
+        "tags": [
+            "columnista",
+            "opinión"
+        ],
+        "link": "https://www.elnacional.com/opinion/alejo-carpentier-y-valmont/",
+        "date": "2025-01-01 05:09:13",
+        "sentiment_score": -0.23255523294210434
+    },
+    {
+        "title": "Del 11% de Baleares al 0,4% en Navarra: así sube la vivienda en las comunidades autónomas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DZLT7M6KDBF7NPBL4SVXS5NFNQ.jpg?auth=1ad6c75ea636631eac8a33f2991c19c5cce52a2dc6fcaa0a9d78d904e38557ae&width=1200",
+        "tags": [
+            "baleares",
+            "vivienda segunda mano",
+            "vivienda",
+            "mercado inmobiliario",
+            "comunidades autónomas",
+            "economía",
+            "precio vivienda"
+        ],
+        "link": "https://elpais.com/economia/2025-01-01/del-11-de-baleares-al-04-en-navarra-asi-sube-la-vivienda-en-las-comunidades-autonomas.html",
+        "date": "2025-01-01 04:45:00",
+        "sentiment_score": -0.23442688584327698
+    },
+    {
+        "title": "Del 11% de Baleares al 0,4% en Navarra: así sube la vivienda en las comunidades autónomas",
+        "image_url": "https://datawrapper.dwcdn.net/rrlrf/full.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cincodias.elpais.com/economia/2025-01-01/del-11-de-baleares-al-04-en-navarra-asi-sube-la-vivienda-en-las-comunidades-autonomas.html",
+        "date": "2025-01-01 04:45:00",
+        "sentiment_score": 0.02783261239528656
+    },
+    {
+        "title": "Una casa en 2025",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/31/6773bfd4f0307.jpeg",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://www.lavanguardia.com/local/valencia/20250101/10248601/casa-2025.html",
+        "date": "2025-01-01 04:40:00",
+        "sentiment_score": 0.06113956868648529
+    },
+    {
+        "title": "La agenda de Boca Juniors en 2025: los refuerzos, las cinco competencias que disputará y la posible ampliación de la Bombonera",
+        "image_url": "https://www.infobae.com/resizer/v2/DDBN2EAR7RGWFOAS2GUGLNW4BQ.jpg?auth=a7f2e6cd2696319d1ef8d0281bb27143c427f4a07c62816b763313b097a456d3&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/01/la-agenda-de-boca-juniors-en-2025-los-refuerzos-las-cinco-competencias-que-disputara-y-la-posible-ampliacion-de-la-bombonera/",
+        "date": "2025-01-01 04:16:42",
+        "sentiment_score": 0.10409119352698326
+    },
+    {
+        "title": "Adiós al 2024 en Aragón; el año de las inversiones millonarias y las estrellas (en la mesa y en el cine)",
+        "image_url": "https://images.ecestaticos.com/zAkQeIiqAlqg4GVNXMh9guTlOBI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5a1%2F1fc%2F6a9%2F5a11fc6a9f8cfeca9ba46e9fde592060.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elconfidencial.com/espana/aragon/2025-01-01/aragon-inversiones-millonarias-estrellas-mesa-cine_4034635/",
+        "date": "2025-01-01 04:00:00",
+        "sentiment_score": -0.5367822200059891
+    },
+    {
+        "title": "El edificio de la Agencia Tributaria de A Coruña: una enorme roca",
+        "image_url": "https://s1.elespanol.com/2024/12/31/quincemil/cultura/conoce-tu-ciudad/912919274_252043816_1706x960.jpg?contentId=ESPIMA20241231_0575",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/quincemil/cultura/conoce-tu-ciudad/20250101/edificio-agencia-tributaria-coruna-enorme-roca/912908966_0.html",
+        "date": "2025-01-01 04:00:00",
+        "sentiment_score": -0.40939485281705856
+    },
+    {
+        "title": "¿Pagarías 200 euros al mes por ChatGPT? Esto es lo que ofrece la IA más cara del momento",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/30/67725371e38f9.r_d.2805-1786-1000.jpeg",
+        "tags": [
+            "tecnología"
+        ],
+        "link": "https://www.eldebate.com/tecnologia/20250101/pagarias-200-euros-mes-chatgpt-esto-ofrece-ia-cara-momento_257074.html",
+        "date": "2025-01-01 03:30:00",
+        "sentiment_score": -0.26893871277570724
+    },
+    {
+        "title": "Libres para negociar: los grandes futbolistas que ya pueden fichar gratis por cualquier equipo",
+        "image_url": "https://imagenes.eldebate.com/files/main_gallery/files/fp/uploads/2024/12/30/67727f86efdbb.r_d.1466-512.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/20250101/libres-negociar-grandes-futbolistas-pueden-fichar-gratis-cualquier-equipo_257348.html",
+        "date": "2025-01-01 03:30:00",
+        "sentiment_score": 0.4602157175540924
+    },
+    {
+        "title": "¿Cuánto sube el transporte público de Barcelona en 2025?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dc6ceaac-e556-4324-b6ea-0426907399ec_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20250101/precio-transporte-barcelona-2025-metro-autobus-tren-112947596",
+        "date": "2025-01-01 06:09:58",
+        "sentiment_score": -0.09819860756397247
+    },
+    {
+        "title": "May Peus: \"A los Juegos de Milán iremos con posibilidades de medalla\"",
+        "image_url": "https://www.infobae.com/resizer/v2/FAHHCXFFVNAQLN4QP3EW7P7RFM.jpg?auth=8e65625115cda39aa7ef6e69991645ee018f39684f15327028148236505f28bc&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/may-peus-a-los-juegos-de-milan-iremos-con-posibilidades-de-medalla/",
+        "date": "2025-01-01 06:01:46",
+        "sentiment_score": 0.7427586624398828
+    },
+    {
+        "title": "¿Cuánto subirá el precio del agua en Barcelona en 2025?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ac4052ed-0818-47cb-aa72-5b5b707f3a19_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20250101/precio-agua-barcelona-2025-112808771",
+        "date": "2025-01-01 06:01:04",
+        "sentiment_score": -0.060826197266578674
+    },
+    {
+        "title": "¿Qué es el intercambio de casas y cómo puede ayudarle a encontrar amistad y amor en sus vacaciones?",
+        "image_url": "https://static.euronews.com/articles/stories/08/93/48/08/1200x675_cmsv2_63c9f3be-bf2e-54dd-a518-aa8ba720e0c6-8934808.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.euronews.com/viajes/2025/01/01/que-es-el-intercambio-de-casas-y-como-puede-ayudarle-a-encontrar-amistad-y-amor-en-sus-vac",
+        "date": "2025-01-01 06:00:52",
+        "sentiment_score": -0.020934775471687317
+    },
+    {
+        "title": "Cabalgata de Reyes en Barcelona 2025: cuándo empieza y qué recorrido tendrá",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/12/18/cabalgata-de-reyes-en-barcelona.r_d.546-312-11433.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5665131/0/cabalgata-reyes-barcelona-2025-horario-recorrido/",
+        "date": "2025-01-01 06:00:07",
+        "sentiment_score": 0.0002602487802505493
+    },
+    {
+        "title": "Anny-Charlotte Verney, la top model que conquistó Le Mans y sobrevivió al Dakar bebiendo su perfume",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/04/67290f8dbdecc.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20250101/10077877/anny-charlotte-verney-top-model-conquisto-le-mans-sobrevivio-dakar-bebiendo-perfume-tsc.html",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": 0.7075010873377323
+    },
+    {
+        "title": "La estafa de la nota en el parabrisas que te hace picar porque crees en la honestidad de las personas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/11/25/6744589fb4e82.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavanguardia.com/motor/actualidad/20250101/10137269/estafa-nota-parabrisas-te-picar-crees-honestidad-personas-tsc.html",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": -0.8173922542482615
+    },
+    {
+        "title": "Nuevo Aston Martin Vahalla, el hiperdeportivo híbrido enchufable de 1.079 CV que llega en 2025",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/23/6769997c9042d.jpeg",
+        "tags": [
+            "coches"
+        ],
+        "link": "https://www.lavanguardia.com/motor/vehiculos/coches/20250101/10235221/nuevo-aston-martin-vahalla-hiperdeportivo-hibrido-enchufable-1079-cv-llega-2025-tsc.html",
+        "date": "2025-01-01 06:00:00",
+        "sentiment_score": 0.59874352440238
+    },
+    {
+        "title": "Una inscripción fallida y un futuro incierto: Esto es lo que se sabe del caso Dani Olmo",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/01/6774d9413c4c5.r_d.976-279-9899.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250101/esto-sabe-caso-dani-olmo_257488.html",
+        "date": "2025-01-01 05:59:40",
+        "sentiment_score": -0.7670937478542328
+    },
+    {
+        "title": "Companion, el muñeco más querido de Kaws, se cuela en el corazón de un tourbillon único",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/20/67656c0fdf6cc.r_d.1472-3174-1008.jpeg",
+        "tags": [
+            "moda"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/moda/20250101/10226586/companion-muneco-mas-querido-kaws-cuela-corazon-tourbillon-unico.html",
+        "date": "2025-01-01 05:30:00",
+        "sentiment_score": 0.6664910987019539
+    },
+    {
+        "title": "Conozca el horario del Metro de Caracas para este #1Ene",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735686840089.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conozca-el-horario-del-metro-de-caracas-para-este-1ene-202412312300",
+        "date": "2025-01-01 03:00:00",
+        "sentiment_score": 0.383570171892643
     }
 ];
