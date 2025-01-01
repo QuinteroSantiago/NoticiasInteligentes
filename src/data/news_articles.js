@@ -140,16 +140,6 @@ export default [
         "sentiment_score": -0.12348315119743347
     },
     {
-        "title": "El cargador USB será universal y obligatorio para móviles y aparatos electrónicos a partir de este sábado",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/12/28/cable-usb-RHyOCOLblqiBTTloPt3dlvN-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/cargador-usb-universal-obligatorio-moviles-aparatos-electronicos-20241228112104-nt.html",
-        "date": "2024-12-28 10:21:49",
-        "sentiment_score": -0.02057279646396637
-    },
-    {
         "title": "Darío Villagrasa se presenta “sin mochilas y libre de equipaje” para “un tiempo nuevo” en e PSOE de Aragón",
         "image_url": "https://imagenes.elpais.com/resizer/v2/QCDSERSK42W3FRC4SMQDUAHUWM.jpg?auth=ae2b5da50433945c9652a03f660954b4d1ef7039cd928f3f0a85669b2019a9fe&width=1200",
         "tags": [
@@ -181,39 +171,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-28/el-govern-financia-un-nuevo-deposito-de-agua-y-una-potabilizadora-en-la-vilella-baixa-tarragona.html",
         "date": "2024-12-28 14:50:11",
         "sentiment_score": 0.19933228567242622
-    },
-    {
-        "title": "Rescatados otros 240 migrantes cerca de las costas de Canarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CLAC5O3WYFOVKKLEXVYRNYDXWQ.jpg?auth=cb9023001c123c20313bc1fe3c6f153d4bc8f13328aa473f5e020d6e006f12ba&width=1200",
-        "tags": [
-            "españa",
-            "el hierro",
-            "inmigrantes",
-            "migración",
-            "las palmas de gran canaria",
-            "inmigración irregular",
-            "salvamento marítimo",
-            "canarias",
-            "cayucos",
-            "inmigración irregular españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-28/rescatados-otros-240-migrantes-cerca-de-las-costas-de-canarias.html",
-        "date": "2024-12-28 11:55:35",
-        "sentiment_score": -0.035537853837013245
-    },
-    {
-        "title": "Muere Yoyo, una de las tres elefantas del Zoo de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FLK3JEKMTRCBPCHPZZZZLDAPAY.jpg?auth=fb11a865f27d090f71a4904d2ac1ae96192792ae0848edd8cd5b9f784b48e5ef&width=1200",
-        "tags": [
-            "animales",
-            "cataluña",
-            "zoo barcelona",
-            "ayuntamientos",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-28/muere-yoyo-una-de-las-tres-elefantas-del-zoo-de-barcelona.html",
-        "date": "2024-12-28 11:13:37",
-        "sentiment_score": -0.561810189858079
     },
     {
         "title": "Fallece a los 94 años Angelina Caia, madre del seleccionador español Sergio Scariolo",
@@ -7920,5 +7877,522 @@ export default [
         "link": "https://2001online.com/zona3d/gastronomia/endulza-estas-fiestas-con-este-dulce-tradicional--202412311600",
         "date": "2024-12-31 20:00:00",
         "sentiment_score": 0.6753960456699133
+    },
+    {
+        "title": "Juzgan a un yihadista por proponer a otro cometer un atentado a cambio de 300.000 euros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/juzgan-a-un-yihadista-por-proponer-a-otro-cometer-un-atentado-a-cambio-de-300000-euros/",
+        "date": "2025-01-01 02:02:43",
+        "sentiment_score": -0.7526345886290073
+    },
+    {
+        "title": "El temporal deja más de 80 litros en Cullera y genera problemas de circulación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/el-temporal-deja-mas-de-80-litros-en-cullera-y-genera-problemas-de-circulacion/",
+        "date": "2025-01-01 02:02:24",
+        "sentiment_score": -0.7949712071567774
+    },
+    {
+        "title": "Las academias de la lengua española fijan en Ecuador como retos la IA y lenguaje accesible",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/las-academias-de-la-lengua-espanola-fijan-en-ecuador-como-retos-la-ia-y-lenguaje-accesible/",
+        "date": "2025-01-01 01:48:05",
+        "sentiment_score": 0.33935217559337616
+    },
+    {
+        "title": "La Aemet eleva a nivel naranja el aviso por lluvias en el interior sur de Castellón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/la-aemet-eleva-a-nivel-naranja-el-aviso-por-lluvias-en-el-interior-sur-de-castellon/",
+        "date": "2025-01-01 00:32:24",
+        "sentiment_score": -0.5239923410117626
+    },
+    {
+        "title": "Los bomberos de Castellón realizan más de 70 servicios, 14 de ellos rescates",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/los-bomberos-de-castellon-realizan-mas-de-70-servicios-14-de-ellos-rescates/",
+        "date": "2024-12-31 23:48:18",
+        "sentiment_score": -0.34716248512268066
+    },
+    {
+        "title": "Marruecos, con 70 efectivos y 25 camiones, abre la ayuda internacional oficial a Valencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/marruecos-con-70-efectivos-y-25-camiones-abre-la-ayuda-internacional-oficial-a-valencia/",
+        "date": "2024-12-31 23:33:19",
+        "sentiment_score": 0.26521220803260803
+    },
+    {
+        "title": "Cristina Pedroche da la campanada con un vestido con 8.500 cristales de leche materna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/31/cristina-pedroche-da-la-campanada-con-un-vestido-con-8500-cristales-de-leche-materna/",
+        "date": "2024-12-31 23:30:41",
+        "sentiment_score": -0.20506849884986877
+    },
+    {
+        "title": "Cristina Pedroche, por la protección de la infancia en las Campanadas 2025 de la mano de UNICEF España",
+        "image_url": "https://www.infobae.com/resizer/v2/CUUYYRLEP5FS5MUCPMCKTXT3II.jpg?auth=f3afcbc26277d340bf6e05d93458606eebefe3bf42ee63aa202f40ab97278e92&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/31/cristina-pedroche-por-la-proteccion-de-la-infancia-en-las-campanadas-2025-de-la-mano-de-unicef-espana/",
+        "date": "2024-12-31 23:30:17",
+        "sentiment_score": 0.2764093354344368
+    },
+    {
+        "title": "La lluvia descarga de nuevo en la rambla del Poyo (Valencia) y caen 44,4 l/m2 en una hora",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/la-lluvia-descarga-de-nuevo-en-la-rambla-del-poyo-valencia-y-caen-444-lm2-en-una-hora/",
+        "date": "2024-12-31 23:17:05",
+        "sentiment_score": -0.46356138586997986
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 1 de enero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/31/hoy-sera-noticia-miercoles-1-de-enero/",
+        "date": "2024-12-31 23:15:41",
+        "sentiment_score": 0.03148295730352402
+    },
+    {
+        "title": "¿Qué desean los mexicanos para el país en 2025?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-989501756.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/deseos-2025-mexicanos-paz-salud-dinero-amor-perspectivas-mexico-tv/",
+        "date": "2025-01-01 01:22:09",
+        "sentiment_score": 0.2867625877261162
+    },
+    {
+        "title": "Putin dice que “todo estará bien” en su discurso de año nuevo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/putin-discurso-ano-nuevo-vert-00-00-07-15-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/putin-discurso-ano-nuevo-orix/",
+        "date": "2025-01-01 00:53:48",
+        "sentiment_score": 0.11588482558727264
+    },
+    {
+        "title": "Estos son algunos de los rituales mexicanos para recibir al Año Nuevo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-91982450.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rituales-recibir-ano-nuevo-mexico-perspectivas-tv-fast/",
+        "date": "2024-12-31 23:52:54",
+        "sentiment_score": 0.17136570811271667
+    },
+    {
+        "title": "Las cifras de violencia político-criminal durante 2024 en México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/violencia-mexico-politica-criminal-perspectivas-tv-fast/",
+        "date": "2024-12-31 23:36:35",
+        "sentiment_score": -0.6766039896756411
+    },
+    {
+        "title": "Ecuador confirma la identidad de 4 menores calcinados y dictan prisión preventiva a 16 militares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-menores-calcinados-militares-dusa-tv-fast/",
+        "date": "2024-12-31 23:11:24",
+        "sentiment_score": -0.4924469403922558
+    },
+    {
+        "title": "Así recibirán al 2025 desde la Puerta del Sol en Madrid",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/gettyimages-1230479361.jpg?quality=100&strip=info",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/espana-ano-nuevo-2025-madrid-dusa-tv-fast/",
+        "date": "2024-12-31 23:02:31",
+        "sentiment_score": 0.359078586101532
+    },
+    {
+        "title": "Putin en Rusia: radiografía de 25 años en el poder",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/putin-thumb-2.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/perfil-putin-25-anos-rusia-orix/",
+        "date": "2024-12-31 22:59:57",
+        "sentiment_score": -0.506973385810852
+    },
+    {
+        "title": "Así se escucha el villancico “Noche de paz” en la restaurada catedral de Notre Dame",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/notre-dame-20241231215612842.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/coro-noche-de-paz-notre-dame/",
+        "date": "2024-12-31 22:19:14",
+        "sentiment_score": 0.3190384730696678
+    },
+    {
+        "title": "Gabriel Boric se juega el Gobierno en su último año de mandato",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/boric_20241230160307-R4bqeZ3CwhkpVZT6Y7vvTbN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gabriel-boric-juega-gobierno-ultimo-ano-mandato-20241230005655-nt.html",
+        "date": "2024-12-31 23:56:56",
+        "sentiment_score": -0.04246044158935547
+    },
+    {
+        "title": "El sector del juguete apunta a los adultos para combatir la caída de la natalidad",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/01/1405704607-RVUXmELTeYlQpxS877OPoQK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sector-juguete-apunta-adultos-combatir-caida-natalidad-20250101005458-nt.html",
+        "date": "2024-12-31 23:54:58",
+        "sentiment_score": -0.1069379448890686
+    },
+    {
+        "title": "La India libra contra China la batalla de la influencia en África",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/29/xi-modi-RFHp4UbIP4I4RmTef1zujeK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/india-libra-china-batalla-influencia-africa-20241229162710-nt.html",
+        "date": "2024-12-31 23:54:13",
+        "sentiment_score": -0.01980966329574585
+    },
+    {
+        "title": "Elecciones en 2025 en Ecuador, Bolivia, Chile y Honduras: pasar página o vuelta de los 'ex'",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/01/latam-RrdnXvfl423ac8XJ8JsY45L-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/elecciones-2025-ecuador-bolivia-chile-honduras-pasar-20250101005055-nt.html",
+        "date": "2024-12-31 23:51:27",
+        "sentiment_score": -0.04725125432014465
+    },
+    {
+        "title": "Los desafíos del mundo en un año en el que Trump volverá a reinar",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/01/trump-zelenski-RA3WGFSo5JWafjPjmqUoTuL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/desafios-mundo-ano-trump-volvera-reinar-20250101171524-nt.html",
+        "date": "2024-12-31 23:50:43",
+        "sentiment_score": -0.08132103085517883
+    },
+    {
+        "title": "El clan Pujol se sentará en el banquillo 13 años después",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-clan-pujol-sentara-banquillo-anos-despues-20250101190946-nt.html",
+        "date": "2024-12-31 23:49:46",
+        "sentiment_score": -0.7375016063451767
+    },
+    {
+        "title": "El Barça «no ha presentado una alternativa» válida para la inscripción de Dani Olmo y Pau Víctor, que quedan libres",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/01/677481f4dea48.r_d.964-480-6250.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/20250101/barca-no-presentado-alternativa-valida-inscripcion-dani-olmo-pau-victor-quedan-libres_257484.html",
+        "date": "2024-12-31 23:52:35",
+        "sentiment_score": -0.5629978589713573
+    },
+    {
+        "title": "La infanta Sofía cumple 18 años en 2025: los desafíos que deberá enfrentar, según tres expertas en la Familia Real",
+        "image_url": "https://s1.elespanol.com/2024/12/16/mujer/royals/909170040_251731181_1706x960.jpg?contentId=ESPIMA20241216_0966",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/royals/20250101/infanta-sofia-cumple-anos-desafios-debera-enfrentar-expertas-familia-real/908159369_0.html",
+        "date": "2024-12-31 23:36:42",
+        "sentiment_score": 0.3087993636727333
+    },
+    {
+        "title": "Real Madrid lanza ofensiva para contratar a Alexander-Arnold",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/AP24364668736252-e1735685637972.jpg",
+        "tags": [
+            "real madrid",
+            "deportes",
+            "fútbol",
+            "liverpool fc"
+        ],
+        "link": "https://eldiariony.com/2024/12/31/real-madrid-lanza-ofensiva-para-contratar-a-alexander-arnold/",
+        "date": "2024-12-31 23:36:07",
+        "sentiment_score": 0.017284706234931946
+    },
+    {
+        "title": "El PP, a la llamada de Moncloa por la muerte de Franco: \"Un Gobierno de Feijóo celebrará los 50 años de la Constitución\"",
+        "image_url": "https://s1.elespanol.com/2024/12/31/espana/politica/912919076_252038021_1706x960.jpg?contentId=ESPIMA20241231_0377",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250101/pp-llamada-moncloa-muerte-franco-gobierno-feijoo-celebrara-anos-constitucion/912908834_0.html",
+        "date": "2024-12-31 23:09:37",
+        "sentiment_score": -0.4028308279812336
+    },
+    {
+        "title": "Remedios para la resaca: los tres cotilleos más jugosos de 2024",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/12/corazon-veinticuatro.png",
+        "tags": [
+            "gente",
+            "kate middleton"
+        ],
+        "link": "https://www.elindependiente.com/gente/2025/01/01/cotilleos-jugosos-perspectiva/",
+        "date": "2024-12-31 23:05:33",
+        "sentiment_score": 0.7909606713801622
+    },
+    {
+        "title": "Sin elecciones a la vista pero mirando a Junts y a los tribunales: Sánchez arranca un 2025 lleno de incertidumbres",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/12/pedro-sanchez-2025.png",
+        "tags": [
+            "partido socialista obrero español (psoe)",
+            "podemos",
+            "begoña gómez",
+            "españa",
+            "gobierno de españa",
+            "presupuestos generales del estado",
+            "álvaro garcía ortiz",
+            "junts",
+            "caso koldo",
+            "isabel díaz ayuso",
+            "pedro sánchez",
+            "josé luis ábalos",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/01/01/sin-elecciones-a-la-vista-pero-mirando-a-junts-y-a-los-tribunales-sanchez-arranca-un-2025-lleno-de-incertidumbres/",
+        "date": "2024-12-31 23:05:09",
+        "sentiment_score": -0.8479398330673575
+    },
+    {
+        "title": "Real Madrid confirmó la grave lesión que sufrió Gabriel Deck tras una volcada luego de un genial pase de Campazzo",
+        "image_url": "https://www.infobae.com/resizer/v2/O3TBXBIIPBFG5NN24224E6OUTY.jpg?auth=750f20017da48fee17ab6e25ee97299f977f3de5968f8f665ab687cb57022190&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2024/12/31/real-madrid-confirmo-la-grave-lesion-que-sufrio-gabriel-deck-tras-una-volcada-luego-de-un-genial-pase-de-campazzo/",
+        "date": "2024-12-31 23:02:34",
+        "sentiment_score": -0.7325909286737442
+    },
+    {
+        "title": "Cristina Pedroche, una diosa que protege la infancia con un diseño de 40 pezones del que emana su propia leche materna",
+        "image_url": "https://s1.elespanol.com/2024/12/31/corazon/famosos/912918846_252043856_1706x1280.jpg?contentId=ESPIMA20241231_0147",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250101/cristina-pedroche-diosa-protege-infancia-diseno-pezones-emana-propia-leche-materna/911909095_0.html",
+        "date": "2024-12-31 23:00:55",
+        "sentiment_score": 0.38403182476758957
+    },
+    {
+        "title": "Despegar se adelanta a las promociones del Buen Fin con la campaña de cupones ocultos",
+        "image_url": "https://www.infobae.com/resizer/v2/NDMJY352OZBN5OZN57CJLEKCHA.jpg?auth=505c31eeb1723be0cc7a986ca0c8c56dcf4b42558f2c0b57dda3f105b11d6826&height=245&smart=true&width=400",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/despegar-se-adelanta-a-las-promociones-del-buen-fin-con-la-campana-de-cupones-ocultos/",
+        "date": "2024-12-31 22:17:24",
+        "sentiment_score": 0.5482872286811471
+    },
+    {
+        "title": "El presidente de la china Chery pide no llevar la guerra de precios a mercados extranjeros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/el-presidente-de-la-china-chery-pide-no-llevar-la-guerra-de-precios-a-mercados-extranjeros/",
+        "date": "2025-01-01 01:32:22",
+        "sentiment_score": 0.4500439614057541
+    },
+    {
+        "title": "120.000 espectadores en el espectáculo de Nochevieja en Barcelona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250101014738_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-120000-espectadores-espectaculo-nochevieja-barcelona-20250101014738.html",
+        "date": "2025-01-01 00:47:38",
+        "sentiment_score": -0.12730950117111206
+    },
+    {
+        "title": "Hijo de Hugo Sotil cuestionó accionar de la FPF tras el fallecimiento de su padre: “No se han contactado”",
+        "image_url": "https://www.infobae.com/resizer/v2/UFNP55RPBBHWLAJI2CBDGKOCQE.jpg?auth=f389725ba37cab0dc74a5d0f378e20df67fd1102cc971b2dfe0a857792635a56&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/01/01/hijo-de-hugo-sotil-cuestiono-accionar-de-la-fpf-tras-el-fallecimiento-de-su-padre-no-se-han-contactado/",
+        "date": "2025-01-01 00:42:14",
+        "sentiment_score": -0.8928464893251657
+    },
+    {
+        "title": "Puños en alto",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/12/31/6773bf9e0e87e.jpeg",
+        "tags": [
+            "en primera línea"
+        ],
+        "link": "https://www.eldebate.com/opinion/en-primera-linea/20250101/punos-alto_257350.html",
+        "date": "2025-01-01 00:30:00",
+        "sentiment_score": -0.17584742605686188
+    },
+    {
+        "title": "La peor costumbre de Laporta: el ejercicio de funambulismo que pone en riesgo al Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/31/culemania/palco/882421782_13396641_1706x960.jpg?contentId=ESPIMA20240831_0033",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250101/la-costumbre-de-laporta-ejercicio-funambulismo-barca/912908775_0.html",
+        "date": "2025-01-01 00:16:58",
+        "sentiment_score": 0.36629195511341095
+    },
+    {
+        "title": "Laporta se esfuerza más por Olmo que por Messi: malvende los palcos VIP para su inscripción",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/31/culemania/palco/912918791_13929272_1706x960.png?contentId=ESPIMA20241231_0092",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250101/laporta-esfuerza-por-olmo-messi-vip-parasuinscripcion/912908757_0.html",
+        "date": "2025-01-01 00:16:23",
+        "sentiment_score": -0.8598079476505518
+    },
+    {
+        "title": "El Barça se queda sin Olmo y Pau Víctor en LaLiga: «No ha presentado una alternativa» válida para su inscripción",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/01/677481f4dea48.r_d.964-480-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250101/barca-no-presentado-alternativa-valida-inscripcion-dani-olmo-pau-victor-quedan-libres_257484.html",
+        "date": "2024-12-31 23:52:35",
+        "sentiment_score": -0.8878712626174092
+    },
+    {
+        "title": "Lalachus y Broncano consiguen que Pedroche y Chicote se cuelen unos segundos en las campanadas de La 1",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5TQFSYK6ZRGGVCHIZO53LVZY64.png?auth=890b30b84155af0a067d9396a506adc8738d910831d7a6db3f49a093a7a5f8e3&width=1200",
+        "tags": [
+            "la 1",
+            "televisión",
+            "david broncano",
+            "lalachus",
+            "cristina pedroche",
+            "alberto chicote",
+            "nochevieja",
+            "rtve",
+            "antena 3"
+        ],
+        "link": "https://elpais.com/television/2024-12-31/lalachus-y-broncano-consiguen-que-pedroche-y-chicote-se-cuelen-unos-segundos-en-las-campanadas-de-la-1.html",
+        "date": "2024-12-31 23:43:07",
+        "sentiment_score": 0.29960887134075165
+    },
+    {
+        "title": "Junts se hunde en Barcelona tras la jubilación de un Trias sin relevo",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "artículos víctor mondelo"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/01/01/677408a4fdddffd0b08b4570.html",
+        "date": "2024-12-31 23:35:50",
+        "sentiment_score": -0.30466943979263306
+    },
+    {
+        "title": "¿Amor apache? No tienes porque vivirlo",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735703039418.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - bienestar"
+        ],
+        "link": "https://2001online.com/zona3d/bienestar/amor-apache-no-tienes-porque-vivirlo--20241231900",
+        "date": "2025-01-01 01:00:00",
+        "sentiment_score": -0.6714644655585289
+    },
+    {
+        "title": "¿El dinero compra la felicidad? Descubre qué dicen los expertos",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735692651718.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - bienestar"
+        ],
+        "link": "https://2001online.com/zona3d/bienestar/el-dinero-compra-la-felicidad-descubre-que-dicen-los-expertos--2024123120410",
+        "date": "2025-01-01 00:41:00",
+        "sentiment_score": 0.6447723656892776
+    },
+    {
+        "title": "Alcaldesa agradece al Cartel Jalisco por la entrega de juguetes en su municipio",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735679096766.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/alcaldesa-agradece-al-cartel-jalisco-por-la-entrega-de-juguetes-en-su-municipio-202412311900",
+        "date": "2024-12-31 23:00:00",
+        "sentiment_score": -0.6994102876633406
+    },
+    {
+        "title": "Sistema Patria 2025| ¿Cuándo pagan el primer bono especial del año?",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735683410907.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sistema-patria-2025-cuando-pagan-el-primer-bono-especial-del-ano--2024123118590",
+        "date": "2024-12-31 22:59:00",
+        "sentiment_score": 0.06031790003180504
+    },
+    {
+        "title": "Las noches de copa loca de María Conchita",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735685406603.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/las-noches-de-copa-loca-de-maria-conchita-2024123118500",
+        "date": "2024-12-31 22:50:00",
+        "sentiment_score": 0.32512927055358887
+    },
+    {
+        "title": "Año nuevo: cinco películas para maratonear en Netflix",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735685131588.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/ano-nuevo-cinco-peliculas-para-maratonear-en-netflix-2024123118360",
+        "date": "2024-12-31 22:36:00",
+        "sentiment_score": 0.8617891417816281
+    },
+    {
+        "title": "Matan a un agente de migración en Ciudad Juárez",
+        "image_url": "https://pxcdn.2001online.com/2001/122024/1735683616108.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/matan-a-un-agente-de-migracion-en-ciudad-juarez-2024123118190",
+        "date": "2024-12-31 22:19:00",
+        "sentiment_score": -0.31782660260796547
     }
 ];
