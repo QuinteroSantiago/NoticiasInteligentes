@@ -120,46 +120,6 @@ export default [
         "sentiment_score": -0.1429539918899536
     },
     {
-        "title": "Consternación entre los familiares de las víctimas del accidente de avión en Corea del Sur: «Me quedo solo con mi hermana menor»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/29/familia-llorando-dos-kizG-U7047764302WyD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/consternacion-familiares-victimas-accidente-avion-corea-sur-20241229150542-nt.html",
-        "date": "2024-12-29 14:05:42",
-        "sentiment_score": -0.3211047202348709
-    },
-    {
-        "title": "Lo que se sabe y lo que no del accidente de avión de Corea del Sur: las hipotésis de una bandada de pájaros y el tren de aterrizaje",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/12/29/Captura-RffK8KAYXeAVGebSWMJMfjP-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/sabe-accidente-avion-corea-sur-hipotesis-bandada-20241229132739-nt.html",
-        "date": "2024-12-29 12:27:39",
-        "sentiment_score": -0.2635377198457718
-    },
-    {
-        "title": "El sector del autocuidado, listo para los retos en sostenibilidad, digital y autorregulación de 2025",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/29/sectorautocuidado-Ri2tTxSqnGSa2k7I5684q9J-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sector-autocuidado-listo-retos-sostenibilidad-digital-autorregulacion-20241229204725-nt.html",
-        "date": "2024-12-29 10:56:14",
-        "sentiment_score": 0.04873943328857422
-    },
-    {
-        "title": "Nuevos horizontes para el mercado inmobiliario",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/12/29/mercadoinmobiliario_20241225202822-RDwnXBc3QFA5dywnNrujNuI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/nuevos-horizontes-mercado-inmobiliario-20241229203121-nt.html",
-        "date": "2024-12-29 10:54:32",
-        "sentiment_score": -0.008851885795593262
-    },
-    {
         "title": "Un hombre profana la tumba de su madre en Avilés y se lleva su cuerpo a casa para comprobar que estaba muerta",
         "image_url": "https://imagenes.elpais.com/resizer/v2/VWNMPKBXZICTKXTKKH3GB27IOQ.jpg?auth=51b522032857c091b3a0ee6afbeda44233a172ac81c59331d26b675e4982ecd2&width=1200",
         "tags": [
@@ -185,29 +145,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-29/como-sera-nochevieja-en-barcelona.html",
         "date": "2024-12-29 16:30:27",
         "sentiment_score": 0.025776848196983337
-    },
-    {
-        "title": "La búsqueda de cuatro asesinados en alta mar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FW5OKDMSWBDFJDNAQOBDNYHFVY.png?auth=7394912e2e0b2c282ac70871c489062abfb1c9a45f0549259c397c27f4b22e5a&width=1200",
-        "tags": [
-            "guardia civil",
-            "tenerife",
-            "inmigración",
-            "inmigración irregular",
-            "canarias",
-            "inmigrantes",
-            "migración",
-            "inmigración irregular españa",
-            "migrantes",
-            "inmigrantes africanos",
-            "pateras",
-            "pateras canarias",
-            "el hierro",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-29/la-busqueda-de-cuatro-asesinados-en-alta-mar.html",
-        "date": "2024-12-29 11:44:27",
-        "sentiment_score": -0.811236746609211
     },
     {
         "title": "Brasil presume del \"mejor jugador del mundo\" con una pancarta gigante",
@@ -387,86 +324,6 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241229/esta-sera-la-linea-de-metro-mas-larga-barcelona/912408781_0.html",
         "date": "2024-12-29 16:31:01",
         "sentiment_score": 0.23377039283514023
-    },
-    {
-        "title": "Sepa cuál es la ciudad de EEUU ideal para solteros: Por qué",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735225692334.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/internacionales/sepa-cual-es-la-ciudad-de-eeuu-ideal-para-solteros-por-que--20241229900",
-        "date": "2024-12-29 13:00:00",
-        "sentiment_score": 0.8030766444280744
-    },
-    {
-        "title": "Las fotos de Navidad de Stephany Abasali que te dejarán sin aliento",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735238302818.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/las-fotos-de-navidad-de-stephany-abasali-que-te-dejaran-sin-aliento-20241229900",
-        "date": "2024-12-29 13:00:00",
-        "sentiment_score": 0.374129768460989
-    },
-    {
-        "title": "Así puede pagar sus impuestos vehiculares en línea (+Detalles)",
-        "image_url": "https://pxcdn.2001online.com/2001/112024/1730564178293.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/asi-puede-pagar-sus-impuestos-vehiculares-en-linea-detalles--202411212140",
-        "date": "2024-12-29 12:41:00",
-        "sentiment_score": 0.17112425714731216
-    },
-    {
-        "title": "EEUU | Las visas para inmigrantes que apoyaría el gobierno de Donald Trump",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735475421541.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/eeuu-las-visas-inmigrantes-que-si-apoyara-el-gobierno-de-donald-trump-202412298320",
-        "date": "2024-12-29 12:32:00",
-        "sentiment_score": 0.2956657074391842
-    },
-    {
-        "title": "Conozca el pronóstico del Inameh para este #29Dic",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735475268978.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/nacionales/conozca-el-pronostico-del-inameh-para-este-29dic-202412298230",
-        "date": "2024-12-29 12:23:00",
-        "sentiment_score": 0.11231311224400997
-    },
-    {
-        "title": "La bebida refrescante para adelgazar rápidamente",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735247891462.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "variedades - salud"
-        ],
-        "link": "https://2001online.com/zona3d/salud/la-bebida-refrescante-para-adelgazar-rapidamente-20241229800",
-        "date": "2024-12-29 12:00:00",
-        "sentiment_score": 0.3482285998761654
-    },
-    {
-        "title": "Horóscopo del 29 de diciembre",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1734699481894.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "variedades - horóscopo"
-        ],
-        "link": "https://2001online.com/zona3d/horoscopo/horoscopo-del-29-de-diciembre-202412297300",
-        "date": "2024-12-29 11:30:00",
-        "sentiment_score": 0.01801174134016037
-    },
-    {
-        "title": "Bonos para estudiantes: Sepa cuál es el proceso de registro adecuado",
-        "image_url": "https://pxcdn.2001online.com/2001/122024/1735413252826.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/bonos-para-estudiantes-sepa-cual-es-el-proceso-de-registro-adecuado-202412296410",
-        "date": "2024-12-29 10:41:00",
-        "sentiment_score": -0.05406705290079117
     },
     {
         "title": "Rubén Domínguez (Bilbao) y Jilson Bango (Zaragoza), Jugadores de la Jornada 13",
@@ -7768,5 +7625,486 @@ export default [
         "link": "https://2001online.com/farandula/bodas-de-artistas-anunciadas-para-el-2025--20251116140",
         "date": "2025-01-01 20:14:00",
         "sentiment_score": 0.3730355240404606
+    },
+    {
+        "title": "Cabañes, plata mundial en parasurf: “Me ha afectado la situación de Valencia”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/cabanes-plata-mundial-en-parasurf-me-ha-afectado-la-situacion-de-valencia/",
+        "date": "2025-01-02 02:03:19",
+        "sentiment_score": -0.19974252581596375
+    },
+    {
+        "title": "Guerra deja abierta la posibilidad de reforzar el Sporting en el mercado de invierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/guerra-deja-abierta-la-posibilidad-de-reforzar-el-sporting-en-el-mercado-de-invierno/",
+        "date": "2025-01-02 02:02:59",
+        "sentiment_score": 0.34303636476397514
+    },
+    {
+        "title": "Azkona cree que ganar el derbi a la Real \"sería un subidón\" por la rivalidad y los puntos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/azkona-cree-que-ganar-el-derbi-a-la-real-seria-un-subidon-por-la-rivalidad-y-los-puntos/",
+        "date": "2025-01-02 02:02:40",
+        "sentiment_score": 0.5675330981612206
+    },
+    {
+        "title": "La banca pide al Congreso que frene el impuesto al sector, \"un lastre para la economía\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/la-banca-pide-al-congreso-que-frene-el-impuesto-al-sector-un-lastre-para-la-economia/",
+        "date": "2025-01-02 02:02:21",
+        "sentiment_score": -0.8510067295283079
+    },
+    {
+        "title": "El PP recalca que Ribera no debe ser comisaria: ha hecho dejación de funciones en la riada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/el-pp-recalca-que-ribera-no-debe-ser-comisaria-ha-hecho-dejacion-de-funciones-en-la-riada/",
+        "date": "2025-01-02 02:02:01",
+        "sentiment_score": -0.7677844762802124
+    },
+    {
+        "title": "Nace Interioristas en Acción para reconstruir hogares afectados por la dana de Valencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/nace-interioristas-en-accion-para-reconstruir-hogares-afectados-por-la-dana-de-valencia/",
+        "date": "2025-01-02 02:01:43",
+        "sentiment_score": 0.4503311291337013
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/2MZG4MBG25GV5PCMJHFWBD6NN4.jpg?auth=1935aa8dc63799ddf649f1a7e7dfb69fab01982489f8a0d0c873dc2b85a9a997&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/02/prediccion-del-clima-estas-son-las-temperaturas-en-barcelona/",
+        "date": "2025-01-02 02:01:39",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Puente cree que se empieza a ver la \"luz del sol\" con la reapertura de las infraestructuras en Valencia",
+        "image_url": "https://www.infobae.com/resizer/v2/QCSXAXMLQBEGTHGAP3VQXSPYYA.jpg?auth=1bdea800bc5b04eacdbdd11356a426016d8fe66a64c64a4221d0b40def090376&height=1258&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/puente-cree-que-se-empieza-a-ver-la-luz-del-sol-con-la-reapertura-de-las-infraestructuras-en-valencia/",
+        "date": "2025-01-02 01:48:27",
+        "sentiment_score": 0.6766430549323559
+    },
+    {
+        "title": "Moreno pide máxima prudencia en Cádiz, Huelva y Sevilla: \"Todavía estamos preocupados\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/moreno-pide-maxima-prudencia-en-cadiz-huelva-y-sevilla-todavia-estamos-preocupados/",
+        "date": "2025-01-02 01:48:06",
+        "sentiment_score": -0.7299719918519258
+    },
+    {
+        "title": "El juez cita a la gerente del SAS y sus dos antecesores tras la querella de PSOE-A por contratos sanitarios",
+        "image_url": "https://www.infobae.com/resizer/v2/BTSIA3F7LZBYXHRR2IE6VWKTAY.jpg?auth=89247a5b31643bfe1a6faef1cc214102ec8f510acc2c08116c8bbdd2dcc4c88a&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/el-juez-cita-a-la-gerente-del-sas-y-sus-dos-antecesores-tras-la-querella-de-psoe-a-por-contratos-sanitarios/",
+        "date": "2025-01-02 01:47:48",
+        "sentiment_score": -0.7892986256629229
+    },
+    {
+        "title": "¿Qué sueñan los migrantes para este 2025?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21251661-0-still-20250102020658677.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/deseos-migrantes-ano-nuevo-perspectivas-mexico-tv/",
+        "date": "2025-01-02 02:12:45",
+        "sentiment_score": 0.3075912594795227
+    },
+    {
+        "title": "Volvió la luz a Puerto Rico luego de recibir el Año Nuevo en penumbras",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191357025.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/puerto-rico-apagon-ano-nuevo-perspectivas-mexico-tv/",
+        "date": "2025-01-02 02:12:39",
+        "sentiment_score": 0.2501883953809738
+    },
+    {
+        "title": "Dayán: Plan C desmonta las instituciones creadas en la transición democrática",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2171706476-20250102014848795.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jacobo-dayan-plan-c-aristegui-tv-fast/",
+        "date": "2025-01-02 02:09:12",
+        "sentiment_score": -0.1166362315416336
+    },
+    {
+        "title": "Dayán: Trump buscará desarticular a Hamas, pero no la creación de dos estados",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191476493.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-malas-noticias-ucrania-gza-aristegui-tv-fast/",
+        "date": "2025-01-02 02:09:06",
+        "sentiment_score": -0.3594543933868408
+    },
+    {
+        "title": "Autoridades de Milán prohíben fumar en espacios públicos. Estas son las multas para quienes no cumplan",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1230670773.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/prohiben-fumar-lugares-publicos-milan-panorama-mundial-tv-fast/",
+        "date": "2025-01-02 01:59:43",
+        "sentiment_score": -0.7243517860770226
+    },
+    {
+        "title": "El papa Francisco pide condonar la deuda de los países más pobres",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnne-1746372-topshot-ssudan-vatican-diplomacy-religion-pope.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francisco-mensaje-2025-condonar-deuda-paises-pobres-panorama-mundial-tv/",
+        "date": "2025-01-02 01:56:18",
+        "sentiment_score": -0.3479446470737457
+    },
+    {
+        "title": "Los deseos de los latinos en EE.UU. durante el Desfile de las Rosas 2025",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192056796.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desfile-rosas-pasadena-ush-orix/",
+        "date": "2025-01-02 01:28:44",
+        "sentiment_score": 0.502651184797287
+    },
+    {
+        "title": "Explota Cybertruck de Tesla frente a propiedad de Donald Trump en Las Vegas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191499007.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/explota-cybertruck-tesla-donald-trump-perspectivas-tv-fast/",
+        "date": "2025-01-02 00:52:37",
+        "sentiment_score": -0.8657471453770995
+    },
+    {
+        "title": "“Nadie puede llegar a una conclusión todavía”, dice Biden sobre el ataque en Nueva Orleans",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191499031.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biden-ataque-nueva-orleans-investigacion-perspectivas-mexico-tv/",
+        "date": "2025-01-02 00:44:03",
+        "sentiment_score": -0.5918299593031406
+    },
+    {
+        "title": "Aumenta a 15 el número de muertos tras ataque en Nueva Orleans",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192059891.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aumenta-numero-muertos-ataque-nueva-orleans-perspectivas-tv-fast/",
+        "date": "2025-01-02 00:40:56",
+        "sentiment_score": -0.8186054034158587
+    },
+    {
+        "title": "Luis Zueco, el novelista histórico e ingeniero industrial que restaura y dirige castillos: \"Al escribir hablo con reyes\"",
+        "image_url": "https://s1.elespanol.com/2024/12/17/reportajes/909420118_251768564_1706x1108.jpg?contentId=ESPIMA20241217_1069",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250102/luis-zueco-novelista-historico-ingeniero-industrial-restaura-dirige-castillos-escribir-hablo-reyes/909159488_0.html",
+        "date": "2025-01-02 02:11:17",
+        "sentiment_score": -0.19577185809612274
+    },
+    {
+        "title": "El año que informaremos peligrosamente: el Gobierno, contra sus medios críticos con la tesis de la desinformación",
+        "image_url": "https://s1.elespanol.com/2024/12/26/espana/politica/911669047_251944812_1706x960.jpg?contentId=ESPIMA20241226_0223",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250102/ano-informaremos-peligrosamente-gobierno-medios-criticos-tesis-desinformacion/910909208_0.html",
+        "date": "2025-01-02 02:11:16",
+        "sentiment_score": -0.8179650250822306
+    },
+    {
+        "title": "Mi primer ticket de la compra en 2025: esto he pagado de más en el súper tras la subida del IVA de los productos básicos",
+        "image_url": "https://s1.elespanol.com/2025/01/01/actualidad/913169096_252056772_1706x960.png?contentId=ESPIMA20250101_0422",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250102/primer-ticket-compra-pagado-super-subida-iva-productos-basicos/913158748_0.html",
+        "date": "2025-01-02 02:10:44",
+        "sentiment_score": 0.1961750127375126
+    },
+    {
+        "title": "Pere Romeu: \"Ganar al Real Madrid es dar un golpe en la mesa\"",
+        "image_url": "https://www.infobae.com/resizer/v2/H5PPDXSRBFDKBOOP5Z4U3BLVOA.jpg?auth=3e1977b9cd66b5c527cd749a06c5c5a55a513f73c9adad1d37e1b1649f539773&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/pere-romeu-ganar-al-real-madrid-es-dar-un-golpe-en-la-mesa/",
+        "date": "2025-01-02 01:18:26",
+        "sentiment_score": 0.7270682416856289
+    },
+    {
+        "title": "La Justicia digital de Ayuso: acceso online a expedientes y reconocimiento de voz para jueces, magistrados y fiscales",
+        "image_url": "https://s1.elespanol.com/2024/12/30/madrid/comunidad/912669410_252022329_1706x960.jpg?contentId=ESPIMA20241230_0686",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20250102/justicia-digital-ayuso-acceso-online-expedientes-reconocimiento-voz-jueces-magistrados-fiscales/912659155_0.html",
+        "date": "2025-01-02 01:17:55",
+        "sentiment_score": 0.4809991791844368
+    },
+    {
+        "title": "Los videos que publicó Sergio Ramos para recibir el 2025 mientras Boca espera una respuesta a su oferta",
+        "image_url": "https://www.infobae.com/resizer/v2/4467MJODFJAGPKQFK7TPATLEZY.jpg?auth=a359c39618d11655cb22e471f792df364e8c656a00a15ca2c1229d57fcb8c24a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/02/los-videos-que-publico-sergio-ramos-para-recibir-el-2025-mientras-boca-espera-una-respuesta-a-su-oferta/",
+        "date": "2025-01-02 01:09:08",
+        "sentiment_score": -0.4506721217185259
+    },
+    {
+        "title": "El buscador digital que agiliza la Justicia en la Comunidad de Madrid digitaliza en un año 60 millones de documentos",
+        "image_url": "https://s1.elespanol.com/2024/12/31/invertia/disruptores/autonomias/madrid/912918877_252032004_1706x960.jpg?contentId=ESPIMA20241231_0178",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/madrid/20250102/buscador-digital-agiliza-justicia-comunidad-madrid-digitaliza-ano-millones-documentos/912908826_0.html",
+        "date": "2025-01-02 01:08:27",
+        "sentiment_score": 0.46045697666704655
+    },
+    {
+        "title": "Los eventos que traerá el año deportivo 2025: Un nuevo Mundial de Clubes como reclamo",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/exitos-de-espana-en-2024_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/los-eventos-que-traera-ano-deportivo-2025-nuevo-mundial-clubes-como-reclamo",
+        "date": "2025-01-02 01:00:00",
+        "sentiment_score": 0.8666233997792006
+    },
+    {
+        "title": "El año arranca con un intento de subir de nivel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c9347dec-f592-4e70-acbc-39dda92ce866_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/01/02/ano-arranca-subir-nivel-113055194.html",
+        "date": "2025-01-02 00:00:43",
+        "sentiment_score": 0.34109392762184143
+    },
+    {
+        "title": "Los planes de Ayuso para 2025: trigésima rebaja fiscal, la Ciudad de la Justicia y el 'acelerón' de la Fórmula 1 en plena 'guerra' con Moncloa por los actos de Franco",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/51ded3774df26a5e18ce81351c21152a/crop/0x0/3024x3024/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436433363550.jpg",
+        "tags": [
+            "política",
+            "artículos vicente coll",
+            "comunidad de madrid",
+            "isabel díaz ayuso",
+            "pp"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/01/02/67756059e9cf4afc468b4592.html",
+        "date": "2025-01-01 23:16:15",
+        "sentiment_score": 0.06078794598579407
+    },
+    {
+        "title": "Sánchez anuncia su enésimo plan de vivienda tras prometer 183.000 pisos: el PP ya negocia el suyo con Vox, PNV y Junts",
+        "image_url": "https://s1.elespanol.com/2023/04/28/espana/politica/759685009_232786535_1706x960.jpg?contentId=ESPIMA20230428_0985",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250102/sanchez-anuncia-enesimo-plan-vivienda-prometer-pisos-pp-negocia-vox-pnv-junts/913158762_0.html",
+        "date": "2025-01-02 02:10:41",
+        "sentiment_score": -0.7495925780385733
+    },
+    {
+        "title": "El terrorista de Nueva Orleans colocó explosivos en la calle y aprovechó un fallo de seguridad para arrollar a la multitud",
+        "image_url": "https://s1.elespanol.com/2025/01/01/mundo/america/eeuu/913169076_252056138_1706x960.jpg?contentId=ESPIMA20250101_0402",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/america/20250102/terrorista-nueva-orleans-coloco-explosivos-calle-aprovecho-fallo-seguridad-arrollar-multitud/913158784_0.html",
+        "date": "2025-01-02 02:10:00",
+        "sentiment_score": -0.8607208468019962
+    },
+    {
+        "title": "Talgo sube a Renfe en el primer caos ferroviario del año",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/9ae1dd00578cc7d72b75cc1b300e6529/crop/0x0/1759x1173/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/01/17357612773083.jpg",
+        "tags": [
+            "óscar puente",
+            "artículos césar urrutia",
+            "ouigo",
+            "renfe"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/01/02/67759d4ee85ece5f138b45bc.html",
+        "date": "2025-01-02 02:03:54",
+        "sentiment_score": -0.7828511223196983
+    },
+    {
+        "title": "Novedades culturales para 2025: Del adiós de Joaquín Sabina a 'España en Libertad'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/copia-de-diseno-sin-titulo-15-1734705549291_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/novedades-culturales-para-2025-adios-joaquin-sabina-espana-libertad",
+        "date": "2025-01-02 02:00:00",
+        "sentiment_score": -0.7655930183827877
+    },
+    {
+        "title": "Un 2025 lleno de bodas: Estas son las celebridades que se darán el 'sí, quiero'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/portada-previsiones-2025-photoroom_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/2025-lleno-bodas-estas-son-las-celebridades-que-se-daran-quiero",
+        "date": "2025-01-02 01:30:00",
+        "sentiment_score": 0.075736403465271
+    },
+    {
+        "title": "Pedro Acosta guarda buen recuerdo de su primera visita a Montmeló",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/pedro-acosta-guarda-buen-recuerdo-de-su-primera-visita-a-montmelo/",
+        "date": "2025-01-02 01:03:28",
+        "sentiment_score": 0.6338531412184238
+    },
+    {
+        "title": "La leche y la ofensa",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250102/leche-ofensa_257543.html",
+        "date": "2025-01-02 00:30:00",
+        "sentiment_score": -0.9025271069258451
+    },
+    {
+        "title": "Mujer roba cartera a sexagenaria en una tienda y queda grabada (+VIDEO)",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735780315857.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-roba-cartera-a-sexagenaria-en-una-tienda-y-queda-grabada-video--20251121120",
+        "date": "2025-01-02 01:12:00",
+        "sentiment_score": -0.14857718348503113
+    },
+    {
+        "title": "EEUU | Posponen el Sugar Bowl por ataque en Nueva Orleans",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735780106495.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/eeuu-posponen-el-sugar-bowl-por-ataque-en-nueva-orleans-2025112190",
+        "date": "2025-01-02 01:09:00",
+        "sentiment_score": -0.033115409314632416
+    },
+    {
+        "title": "Consulte aquí el calendario de gasolina subsidiada para el mes de enero",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735779815894.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/consulte-aqui-el-calendario-de-gasolina-subsidiada-para-el-mes-de-enero-2025112130",
+        "date": "2025-01-02 01:03:00",
+        "sentiment_score": 0.07637989521026611
+    },
+    {
+        "title": "Conozca cómo será la nueva ley de Licencia Prenatal Paga en Nueva York",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735779797042.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conozca-como-sera-la-nueva-ley-de-licencia-prenatal-paga-en-nueva-york-2025112110",
+        "date": "2025-01-02 01:01:00",
+        "sentiment_score": -0.014982953667640686
+    },
+    {
+        "title": "Así le fue a las venezolanas en los concursos internacionales durante 2024",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735779689084.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/asi-le-fue-a-las-venezolanas-en-los-concursos-internacionales-durante-2024-20251119590",
+        "date": "2025-01-01 23:59:00",
+        "sentiment_score": 0.6797654461115599
+    },
+    {
+        "title": "EEUU | Así puedes identificar la moneda de 25 centavos que vale $12.000",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735776037644.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-asi-puedes-identificar-la-moneda-de-25-centavos-que-vale-12-000--20251119560",
+        "date": "2025-01-01 23:56:00",
+        "sentiment_score": 0.6246064081788063
+    },
+    {
+        "title": "Maduro informa planes para mejorar el ingreso de los trabajadores en 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735774960871.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-informa-planes-para-mejorar-el-ingreso-de-los-trabajadores-en-2025-20251119310",
+        "date": "2025-01-01 23:31:00",
+        "sentiment_score": 0.3789278082549572
+    },
+    {
+        "title": "Metro de Chicago busca personal que hable español por $5.243 (+Requisitos)",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735773425605.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/metro-de-chicago-busca-personal-que-hable-espanol-por-5-243-requisitos--20251119160",
+        "date": "2025-01-01 23:16:00",
+        "sentiment_score": 0.020820513367652893
+    },
+    {
+        "title": "Así recibieron los artista venezolanos el Año Nuevo (+Fotos)",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735776213787.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/asi-recibieron-los-artista-venezolanos-el-ano-nuevo-fotos--20251119130",
+        "date": "2025-01-01 23:13:00",
+        "sentiment_score": 0.07316132262349129
+    },
+    {
+        "title": "Bonos Patria que aumentaron el último mes de 2024 (+Montos)",
+        "image_url": "https://pxcdn.2001online.com/2001/012025/1735772646493.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/bonos-patria-que-aumentaron-el-ultimo-mes-de-2024-montos--2025111940",
+        "date": "2025-01-01 23:04:00",
+        "sentiment_score": 0.3540680781006813
     }
 ];
