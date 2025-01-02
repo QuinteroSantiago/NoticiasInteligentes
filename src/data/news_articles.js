@@ -1,331 +1,5 @@
 export default [
     {
-        "title": "Von der Leyen se reúne con los grupos parlamentarios para desbloquear la nueva Comisión",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/von-der-leyen-se-reune-con-los-grupos-parlamentarios-para-desbloquear-la-nueva-comision/",
-        "date": "2024-12-29 17:03:25",
-        "sentiment_score": 0.3092898726463318
-    },
-    {
-        "title": "Siemens Energy sube un 17 % en Bolsa y marca máximos tras presentar resultados",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/siemens-energy-sube-un-17-en-bolsa-y-marca-maximos-tras-presentar-resultados/",
-        "date": "2024-12-29 17:03:04",
-        "sentiment_score": 0.6462609618902206
-    },
-    {
-        "title": "El belga Caufriez vuelve al grupo, en el que siguen Hugo Duro y André Almeida",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-belga-caufriez-vuelve-al-grupo-en-el-que-siguen-hugo-duro-y-andre-almeida/",
-        "date": "2024-12-29 17:02:45",
-        "sentiment_score": 0.0349438339471817
-    },
-    {
-        "title": "España se juega en Benidorm el billete a la Eurocopa de 2025 en Islas Feroe",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/espana-se-juega-en-benidorm-el-billete-a-la-eurocopa-de-2025-en-islas-feroe/",
-        "date": "2024-12-29 17:02:27",
-        "sentiment_score": 0.23560718074440956
-    },
-    {
-        "title": "Page celebra la creación del Alto Comisionado y espera que el Estado \"se moje\" en la restauración de los cauces",
-        "image_url": "https://www.infobae.com/resizer/v2/7XM3RGFTM5AJPLAGIV4VKND2NQ.jpg?auth=afa1f1984456780611c649bf87f53e002109d9416418240bc390614ff30879c5&height=1282&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/page-celebra-la-creacion-del-alto-comisionado-y-espera-que-el-estado-se-moje-en-la-restauracion-de-los-cauces/",
-        "date": "2024-12-29 17:02:06",
-        "sentiment_score": 0.3616918697953224
-    },
-    {
-        "title": "El Bàsquet Girona refuerza la pintura con Martinas Geben",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/29/el-basquet-girona-refuerza-la-pintura-con-martinas-geben/",
-        "date": "2024-12-29 17:01:54",
-        "sentiment_score": 0.08132417500019073
-    },
-    {
-        "title": "Muere Begoña Arregi, esposa del lehendakari Juan José Ibarretxe a los 65 años tras una enfermedad",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/29/muere-begona-arregi-esposa-del-lehendakari-juan-jose-ibarretxe-a-los-65-anos-tras-una-enfermedad/",
-        "date": "2024-12-29 17:00:51",
-        "sentiment_score": -0.775062182918191
-    },
-    {
-        "title": "Moreno se declara \"preparado para el 2025\" y habla de \"año de hitos\" en el balance de 2024",
-        "image_url": "https://www.infobae.com/resizer/v2/YOUQ5O25Y5AM3EHEYUWIYJ6NPQ.jpg?auth=9b2c356040ad94c66eb2a1b4922ec16c02fc9df5752e8b768f8b42a8f4c618bd&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/29/moreno-se-declara-preparado-para-el-2025-y-habla-de-ano-de-hitos-en-el-balance-de-2024/",
-        "date": "2024-12-29 17:00:35",
-        "sentiment_score": 0.16427236795425415
-    },
-    {
-        "title": "El Ejército ha realizado 1.140 misiones de retirada de lodo en alcantarillas de Valencia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-ejercito-ha-realizado-1140-misiones-de-retirada-de-lodo-en-alcantarillas-de-valencia/",
-        "date": "2024-12-29 16:48:23",
-        "sentiment_score": -0.07890093326568604
-    },
-    {
-        "title": "PSN dice que es \"indigno\" el veto del PP a la reforma de la Lorafna para el traspaso de tráficoa Navarra",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/psn-dice-que-es-indigno-el-veto-del-pp-a-la-reforma-de-la-lorafna-para-el-traspaso-de-traficoa-navarra/",
-        "date": "2024-12-29 16:48:04",
-        "sentiment_score": -0.08923527598381042
-    },
-    {
-        "title": "Burdeos y diamantes",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/29/vinoburdeos-Rh97Ak2XuL20Qe3KfULIwuK-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-burdeos-diamantes-20241229180906-nt.html",
-        "date": "2024-12-29 17:09:06",
-        "sentiment_score": -0.17899826169013977
-    },
-    {
-        "title": "China lleva dos décadas engañando a los consumidores europeos con un falso sello de calidad",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/13/imagen-juguetes-china-kTzB-U7042413228V8-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/china-enganando-consumidores-europeos-logo-20241229171430-nt.html",
-        "date": "2024-12-29 14:58:00",
-        "sentiment_score": -0.1429539918899536
-    },
-    {
-        "title": "Un hombre profana la tumba de su madre en Avilés y se lleva su cuerpo a casa para comprobar que estaba muerta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VWNMPKBXZICTKXTKKH3GB27IOQ.jpg?auth=51b522032857c091b3a0ee6afbeda44233a172ac81c59331d26b675e4982ecd2&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2024-12-29/un-hombre-profana-la-tumba-de-su-madre-en-aviles-y-se-lleva-su-cuerpo-a-casa-para-comprobar-que-estaba-muerta.html",
-        "date": "2024-12-29 16:39:05",
-        "sentiment_score": -0.609138872474432
-    },
-    {
-        "title": "¿Cómo será Nochevieja en Barcelona?",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OZJ2P3IX2A6WETE5T6VUTIWVGI.jpg?auth=09eed1a673af0c76d8f5e74d25c4694e589da1a88b5f78b49590251795b8b187&width=1200",
-        "tags": [
-            "cataluña",
-            "año nuevo",
-            "mossos d'esquadra",
-            "guardia urbana",
-            "barcelona",
-            "navidad",
-            "fiesta",
-            "nochevieja"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-29/como-sera-nochevieja-en-barcelona.html",
-        "date": "2024-12-29 16:30:27",
-        "sentiment_score": 0.025776848196983337
-    },
-    {
-        "title": "Brasil presume del \"mejor jugador del mundo\" con una pancarta gigante",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/29/6771802dc6cfe.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/brasil-presume-mejor-jugador-mundo-pancarta-gigante-20241229_3069932.html",
-        "date": "2024-12-29 17:02:36",
-        "sentiment_score": 0.19505199790000916
-    },
-    {
-        "title": "Vuelta a la rutina de la mano de Íñigo Vélez",
-        "image_url": "https://static.grupojoly.com/clip/7a756399-0e8c-4dd7-ac2d-ebf207774fa0_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "recreativo de huelva"
-        ],
-        "link": "https://www.huelvainformacion.es/recreativo/vuelta-rutina-mano-inigo-velez_0_2003057954.html",
-        "date": "2024-12-29 17:00:11",
-        "sentiment_score": 0.4242733418941498
-    },
-    {
-        "title": "El City de Guardiola se da un respiro en medio del huracán y vuelve a ganar seis partidos después",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/29/67717e9847ec8.r_d.5056-1138-2001.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/20241229/city-guardiola-da-respiro-medio-huracan-vuelve-ganar-seis-partidos-despues_257039.html",
-        "date": "2024-12-29 16:59:20",
-        "sentiment_score": 0.13953879475593567
-    },
-    {
-        "title": "Anthony Santander y Joselyn Brea Atletas del Año",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2024/12/IMG_7652.webp",
-        "tags": [
-            "deportes",
-            "destacados"
-        ],
-        "link": "https://lacalle.com.ve/anthony-santander-y-joselyn-brea-atletas-del-ano/",
-        "date": "2024-12-29 16:50:14",
-        "sentiment_score": -0.0501493364572525
-    },
-    {
-        "title": "Temas del día de EFE Internacional del 13 de noviembre de 2024 (11.00 GMT)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/13/temas-del-dia-de-efe-internacional-del-13-de-noviembre-de-2024-1100-gmt/",
-        "date": "2024-12-29 16:17:50",
-        "sentiment_score": 0.14669998735189438
-    },
-    {
-        "title": "El tirón de orejas de la Ligue 1 a Cristiano Ronaldo tras decir que la Liga Saudí era mejor",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/29/6771759132a62.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tiron-orejas-ligue-1-cristiano-ronaldo-decir-liga-saudi-mejor-20241229_3069926.html",
-        "date": "2024-12-29 16:17:03",
-        "sentiment_score": -0.11723539233207703
-    },
-    {
-        "title": "Murió futbolista mexicana de 21 años por causas desconocidas",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2024/12/Abigail.jpg",
-        "tags": [
-            "fútbol",
-            "selección de méxico",
-            "deportes"
-        ],
-        "link": "https://eldiariony.com/2024/12/29/murio-futbolista-mexicana-de-21-anos-por-causas-desconocidas/",
-        "date": "2024-12-29 16:14:36",
-        "sentiment_score": 0.008472539484500885
-    },
-    {
-        "title": "El desliz de Cristiano Ronaldo que alimentó rumores de un casamiento en secreto con Georgina Rodríguez",
-        "image_url": "https://www.infobae.com/resizer/v2/V2MOUAMNC5BOHM4VPPCSIIMFTA.jpg?auth=6d0c8f33c5779d2d40497f7b51965d5028dbd8df53a2590f571e7116cc28ebee&height=531&smart=true&width=944",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2024/12/29/el-desliz-de-cristiano-ronaldo-que-alimento-rumores-de-un-casamiento-en-secreto-con-georgina-rodriguez/",
-        "date": "2024-12-29 16:08:35",
-        "sentiment_score": 0.253322321921587
-    },
-    {
-        "title": "VIDEO. Aparece un recién nacido muerto en el interior de un contenedor de basura",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/12/29/2024122918084645488.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/video-aparece-recien-nacido-muerto-interior-contenedor-basura/20241229180915440066.html",
-        "date": "2024-12-29 17:09:15",
-        "sentiment_score": -0.32016299292445183
-    },
-    {
-        "title": "Elvira Lindo: \"No podemos estar midiendo todo lo que ven y todo lo que leen los niños\"",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/19/letraglobal/letras/902419899_13747300_1706x960.jpg?contentId=ESPIMA20241119_0150",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20241229/elvira-lindo-no-midiendo-todo-lo-que/902409858_0.html",
-        "date": "2024-12-29 17:08:06",
-        "sentiment_score": 0.14795753359794617
-    },
-    {
-        "title": "\"El Showman\", un violento corto que rompe la cuarta pared",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/827fa172-0793-460e-b76d-fe7bb239470a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/cultura/2024/12/29/showman-violento-corto-rompe-cuarta-112962699.html",
-        "date": "2024-12-29 17:00:45",
-        "sentiment_score": -0.18513813614845276
-    },
-    {
-        "title": "Los maullidos más absurdos no los hacen los gatos, los hacen adolescentes",
-        "image_url": "https://static1.ara.cat/clip/67a3f6f7-b206-4af8-878d-2632a9f56ccf_16-9-aspect-ratio_default_0_x2454y835.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/misc/maullidos-absurdos-no-gatos-adolescentes_129_5243054.html",
-        "date": "2024-12-29 17:00:04",
-        "sentiment_score": -0.08004596829414368
-    },
-    {
-        "title": "El Canal de Panamá, en la mira: entre la realidad operativa y la nueva retórica política",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2U75OL5MCKCEBY4TISAFML3IBE.jpg?auth=716c94bce6b998ffa605f899c6fb0b3ccbd7626b67955f2bd6644311e497854a&width=1200",
-        "tags": [
-            "donald trump",
-            "panamá",
-            "economía",
-            "estados unidos",
-            "latinoamérica",
-            "américa"
-        ],
-        "link": "https://elpais.com/america/2024-12-29/el-canal-de-panama-en-la-mira-entre-la-realidad-operativa-y-la-nueva-retorica-politica.html",
-        "date": "2024-12-29 16:50:03",
-        "sentiment_score": 0.7726263515651226
-    },
-    {
-        "title": "Kati Horna, la artista que se refugió en México para huir de los horrores de la guerra",
-        "image_url": "https://www.infobae.com/resizer/v2/KENZLHJSSNFOPFFRC2HRTKYVXY.jpg?auth=2fdd0d0d32717fdcb4819b55dec5493455896572e62216f80e61b6c6a9a41877&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/mexico/2024/12/29/kati-horna-la-artista-que-se-refugio-en-mexico-para-huir-de-los-horrores-de-la-guerra/",
-        "date": "2024-12-29 16:50:00",
-        "sentiment_score": 0.16655434668064117
-    },
-    {
-        "title": "El Metro de Barcelona funcionará 43 horas sin interrupción por Fin de Año",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2024/12/29/ACC42798-46E3-43AE-8DD6-94E5C2BB0DC1/96.jpg?crop=1920%2C1080%2Cx0%2Cy161&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/metro-barcelona-funcionara-43-horas-interrupcion-fin-ano_20241229677179b6bc785b00016d0a95.html",
-        "date": "2024-12-29 16:32:54",
-        "sentiment_score": -0.01752156764268875
-    },
-    {
-        "title": "Julia Spínola gana la segunda edición del Premio de Escultura Fundación Bosch Aymerich",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/julia-spinola-gana-la-segunda-edicion-del-premio-de-escultura-fundacion-bosch-aymerich/",
-        "date": "2024-12-29 16:32:36",
-        "sentiment_score": 0.6027880497276783
-    },
-    {
-        "title": "Esta será la línea de metro más larga de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/11/10/movilidad/900170036_13704430_1706x960.jpg?contentId=ESPIMA20241110_0062",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241229/esta-sera-la-linea-de-metro-mas-larga-barcelona/912408781_0.html",
-        "date": "2024-12-29 16:31:01",
-        "sentiment_score": 0.23377039283514023
-    },
-    {
         "title": "Rubén Domínguez (Bilbao) y Jilson Bango (Zaragoza), Jugadores de la Jornada 13",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -459,16 +133,6 @@ export default [
         "sentiment_score": -0.8642436023801565
     },
     {
-        "title": "Video muestra el avión surcoreano en la pista antes de estallar en llamas",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/still-21239996-15029-302-still-20241229170948812.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/video-surcoreano-jeju-accidente-aereo-trax/",
-        "date": "2024-12-29 17:12:09",
-        "sentiment_score": -0.6660024859011173
-    },
-    {
         "title": "Evacuadas dos estaciones de Metro de Roma por un incendio",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/29/carabinieeri-kUeD-U7048780057CvG-1200x840@diario_abc.PNG",
         "tags": [
@@ -519,56 +183,6 @@ export default [
         "sentiment_score": -0.10428282618522644
     },
     {
-        "title": "Israel informa de 20 muertos y más de 240 detenidos en la toma del Hospital Kamal Aduan",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/29/1488983206-kZXB-U7048428324anG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-informa-muertos-240-detenidos-toma-hospital-20241229193007-nt.html",
-        "date": "2024-12-29 18:30:07",
-        "sentiment_score": -0.15696384012699127
-    },
-    {
-        "title": "Los del fondo",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/23/ezgif.com-speed%20(1)--170x119.gif",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-fondo-20241230164118-nt.html",
-        "date": "2024-12-29 18:24:58",
-        "sentiment_score": -0.09318497776985168
-    },
-    {
-        "title": "Votar a los 16 años",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2024/12/26/linfoma-cerebral-sintomas-kkfF--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/luis-del-val-votar-anos-20241230173655-nt.html",
-        "date": "2024-12-29 18:24:07",
-        "sentiment_score": -0.20118282735347748
-    },
-    {
-        "title": "Encadenados a las tinieblas",
-        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/26/catedral_20241226132753-U17062322075CRK-170x119@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-encadenados-tinieblas-20241230163234-nt.html",
-        "date": "2024-12-29 18:20:29",
-        "sentiment_score": -0.18457049131393433
-    },
-    {
-        "title": "El año de la simonía",
-        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/ignacio-camacho-ano-simonia-20241230171137-nt.html",
-        "date": "2024-12-29 18:19:38",
-        "sentiment_score": -0.21723638474941254
-    },
-    {
         "title": "Una ballena se acerca a 50 metros de la playa de Barcelona en el último domingo del año",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JOFCOTINWNG2VGDEYWHKRGSLU4.jpg?auth=bda0235af2e5164bf509288f6868f51829dc33086f3e8967e0f7f0be50ccd8cc&width=1200",
         "tags": [
@@ -582,27 +196,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2024-12-29/una-ballena-se-acerca-a-50-metros-de-la-playa-de-barcelona-en-el-ultimo-domingo-del-ano.html",
         "date": "2024-12-29 20:11:49",
         "sentiment_score": -0.33034829795360565
-    },
-    {
-        "title": "Valencia cierra el año con decenas de miles de personas en las calles que exigen la dimisión de Mazón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CVLG7SHPRZCEVFL6SD4MSD5Z5M.jpg?auth=3b805b2b293bebe2a2fdb5033b09fd75578019c358a12bd680771d9d335304a8&width=1200",
-        "tags": [
-            "catástrofes",
-            "desastres naturales",
-            "benetússer",
-            "comunidad valenciana",
-            "alfafar",
-            "carlos mazón",
-            "valencia",
-            "paiporta",
-            "pp",
-            "sedaví",
-            "catarroja",
-            "protestas sociales"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-29/valencia-cierra-el-ano-con-decenas-de-miles-de-personas-en-las-calles-que-exigen-la-dimision-de-mazon.html",
-        "date": "2024-12-29 18:11:31",
-        "sentiment_score": -0.3029784560203552
     },
     {
         "title": "Crónica del Real Madrid - Barça: 73-71",
@@ -8106,5 +7699,415 @@ export default [
         "link": "https://2001online.com/nacionales/bonos-patria-que-aumentaron-el-ultimo-mes-de-2024-montos--2025111940",
         "date": "2025-01-01 23:04:00",
         "sentiment_score": 0.3540680781006813
+    },
+    {
+        "title": "Vecttor, filial de Cabify, busca incorporar a 300 nuevos conductores en Madrid hasta enero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/vecttor-filial-de-cabify-busca-incorporar-a-300-nuevos-conductores-en-madrid-hasta-enero/",
+        "date": "2025-01-02 06:17:04",
+        "sentiment_score": 0.6928803585469723
+    },
+    {
+        "title": "España encabeza el aumento en la producción de vino en la UE en 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/espana-encabeza-el-aumento-en-la-produccion-de-vino-en-la-ue-en-2024/",
+        "date": "2025-01-02 06:16:46",
+        "sentiment_score": 0.4241319075226784
+    },
+    {
+        "title": "Una paliza en prisión queda sin castigo al no ser suficiente el testimonio de la víctima",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/02/una-paliza-en-prision-queda-sin-castigo-al-no-ser-suficiente-el-testimonio-de-la-victima/",
+        "date": "2025-01-02 06:15:59",
+        "sentiment_score": -0.8298485446721315
+    },
+    {
+        "title": "Efemérides del 3 de enero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/02/efemerides-del-3-de-enero/",
+        "date": "2025-01-02 06:15:42",
+        "sentiment_score": -0.05424867570400238
+    },
+    {
+        "title": "El Supremo confirma la absolución de un preso al que se acusó de golpear a otro en las duchas con un calcetín con latas",
+        "image_url": "https://www.infobae.com/resizer/v2/SEP2QH4OMBBLJFDPHMZFPJ4SVY.jpg?auth=248eed6e05311c7e07fabe94c1c6e7ccce078b368b77e6a5d1a01de577e5557b&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/02/el-supremo-confirma-la-absolucion-de-un-preso-al-que-se-acuso-de-golpear-a-otro-en-las-duchas-con-un-calcetin-con-latas/",
+        "date": "2025-01-02 06:15:19",
+        "sentiment_score": -0.7547569684684277
+    },
+    {
+        "title": "Ciencia movilizó casi 1.000 millones para impulsar el crecimiento de empresas innovadoras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/ciencia-movilizo-casi-1000-millones-para-impulsar-el-crecimiento-de-empresas-innovadoras/",
+        "date": "2025-01-02 06:03:18",
+        "sentiment_score": 0.6988319531083107
+    },
+    {
+        "title": "El Gobierno canario instala un contenedor de frío en El Hierro para preservar cadáveres",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/el-gobierno-canario-instala-un-contenedor-de-frio-en-el-hierro-para-preservar-cadaveres/",
+        "date": "2025-01-02 06:02:59",
+        "sentiment_score": -0.42716628313064575
+    },
+    {
+        "title": "Las últimas lluvias pasan de puntillas por Paiporta: \"Estamos igual de mal que estábamos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/las-ultimas-lluvias-pasan-de-puntillas-por-paiporta-estamos-igual-de-mal-que-estabamos/",
+        "date": "2025-01-02 06:02:40",
+        "sentiment_score": -0.7558797802776098
+    },
+    {
+        "title": "La Abogacía del Estado pide anular el registro al fiscal general por ser desproporcionado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/la-abogacia-del-estado-pide-anular-el-registro-al-fiscal-general-por-ser-desproporcionado/",
+        "date": "2025-01-02 06:02:21",
+        "sentiment_score": -0.814440542832017
+    },
+    {
+        "title": "Moreno espera que mañana se recupere la normalidad en el ámbito educativo de Andalucía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/moreno-espera-que-manana-se-recupere-la-normalidad-en-el-ambito-educativo-de-andalucia/",
+        "date": "2025-01-02 06:02:02",
+        "sentiment_score": -0.36490263044834137
+    },
+    {
+        "title": "Carola Vinuesa : «Hay cientos de madres acusadas de haber causado daño, cuando en muchos casos parece que se trata de enfermedades genéticas raras»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2024/12/27/Carola.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/carola-vinuesa-cientos-madres-acusadas-haber-causado-20241229131226-nt.html",
+        "date": "2025-01-02 03:48:56",
+        "sentiment_score": -0.19701427221298218
+    },
+    {
+        "title": "El consumo eléctrico en España se mantiene estancado desde antes de la pandemia",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/02/autoconsumo-RUrzS6LOtJHW4UBLcHTLLpN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/consumo-electrico-espana-mantiene-estancado-pandemia-20250102041911-nt.html",
+        "date": "2025-01-02 03:19:12",
+        "sentiment_score": 0.013730347156524658
+    },
+    {
+        "title": "El final del contrato de tránsito de gas ruso eleva los precios en toda Europa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/02/gasruso-RmC7TPsmEvjE7ht3OVQoFSJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/final-contrato-transito-gas-ruso-eleva-precios-20250102041738-nt.html",
+        "date": "2025-01-02 03:17:38",
+        "sentiment_score": -0.10995349287986755
+    },
+    {
+        "title": "Correos ofrecerá traslados a otros ministerios y prejubilaciones a partir de los 61 años para rebajar sus costes",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/02/EFECorreos-RHqV0GLacnB3vLnwkDqJaxJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/correos-ofrecera-traslados-ministerios-prejubilaciones-partir-anos-20250102210201-nt.html",
+        "date": "2025-01-02 03:11:33",
+        "sentiment_score": 0.0028160810470581055
+    },
+    {
+        "title": "La vivienda será más cara y las familias tendrán que hacer frente a subidas del recibo de la luz y la cesta de la compra",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/02/viviendamscaraefe-RvbmN9iZZJ9DTfM6QUDgJSM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/vivienda-cara-familias-frente-subidas-recibo-luz-20250102202550-nt.html",
+        "date": "2025-01-02 03:11:07",
+        "sentiment_score": -0.06977607309818268
+    },
+    {
+        "title": "Málaga frente a Teruel: los pisos turísticos aumentan hasta un 33% los precios del alquiler de larga temporada",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O7NAHD77KVBWXFJXQYQZPSBPQ4.jpg?auth=f88e177bf0e49aacd23553f47f7524a2b772543275399259f19522b720daa826&width=1200",
+        "tags": [
+            "problemas sociales",
+            "vivienda",
+            "viviendas alquiler",
+            "andalucía",
+            "sevilla",
+            "turismo masivo",
+            "viviendas vacacionales",
+            "teruel",
+            "mercado inmobiliario",
+            "jaén",
+            "turistificación",
+            "precio vivienda",
+            "turismo",
+            "málaga",
+            "burbuja inmobiliaria",
+            "precios",
+            "universidades públicas"
+        ],
+        "link": "https://elpais.com/espana/2025-01-02/malaga-frente-a-teruel-los-pisos-turisticos-aumentan-hasta-un-33-los-precios-del-alquiler-de-larga-temporada.html",
+        "date": "2025-01-02 04:55:00",
+        "sentiment_score": 0.5887724347412586
+    },
+    {
+        "title": "La zona cero de la dana resurge con dolor",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SWGUELQVEVCBFPAZ6QPY64FYLU.JPG?auth=21ac18e3e894947147587c7a72766e492ddb5957d86978966ba0426dac5fd25c&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "noticias de españa",
+            "inundaciones dana octubre 2024",
+            "paiporta",
+            "economía",
+            "catarroja",
+            "crisis económica",
+            "dana",
+            "carlos mazón"
+        ],
+        "link": "https://elpais.com/espana/2025-01-02/la-zona-cero-de-la-dana-resurge-con-dolor.html",
+        "date": "2025-01-02 04:40:00",
+        "sentiment_score": -0.11210662126541138
+    },
+    {
+        "title": "Un secuestro, un tiroteo y tres operaciones policiales: “En el tráfico de drogas no hay amigos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BZCOTJSIBFDZNNU5ADL2XZVC2A.jpg?auth=e5c3d62956d5f80a8ad1963febe5d43f3a830c4ed241c33fc187f0618da242f5&width=1200",
+        "tags": [
+            "españa",
+            "marbella",
+            "sucesos",
+            "drogas",
+            "málaga",
+            "tiroteos"
+        ],
+        "link": "https://elpais.com/espana/2025-01-02/un-secuestro-un-tiroteo-y-tres-operaciones-policiales-en-el-trafico-de-drogas-no-hay-amigos.html",
+        "date": "2025-01-02 04:30:00",
+        "sentiment_score": -0.4445214346051216
+    },
+    {
+        "title": "Los CAP catalanes se preparan para un repunte de gripe ante la baja vacunación en Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RLTNAYAKBFHEVELHDHCGFBPCCQ.jpg?auth=abf0a64b285f86a0c9c1e886a8d1b0b5f651781c94875c8c62f371972defef02&width=1200",
+        "tags": [
+            "infecciones",
+            "ambulatorios",
+            "olga pané",
+            "vacunación",
+            "gripe",
+            "atención primaria",
+            "cataluña",
+            "epidemia",
+            "salud pública",
+            "coronavirus covid-19",
+            "pandemia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-02/los-cap-catalanes-se-preparan-para-un-repunte-de-gripe-ante-la-baja-vacunacion-en-cataluna.html",
+        "date": "2025-01-02 04:20:00",
+        "sentiment_score": -0.14488113671541214
+    },
+    {
+        "title": "Los lodos de las depuradoras del País Vasco aumentan la fertilidad del campo en Navarra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FU6S7W3J2JF4FN2P6GXW3JHVQQ.jpg?auth=f4c776aef54d51262f066791492dbd039e206cd35d5dd3c2e79480098a5bb19c&width=1200",
+        "tags": [
+            "españa",
+            "saneamiento",
+            "san sebastián",
+            "agricultura",
+            "depuradoras agua",
+            "cereales",
+            "navarra",
+            "aguas residuales",
+            "reciclaje",
+            "empresas",
+            "país vasco"
+        ],
+        "link": "https://elpais.com/espana/paisvasco/2025-01-02/los-lodos-de-las-depuradoras-del-pais-vasco-aumentan-la-fertilidad-del-campo-en-navarra.html",
+        "date": "2025-01-02 04:00:00",
+        "sentiment_score": 0.40816614031791687
+    },
+    {
+        "title": "La transparencia se atasca en el Madrid de Ayuso: reclamaciones sin resolver desde 2022 y 335 casos en un limbo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VWSLXL5UPXRPAFKWZ2HXWPFVX4.jpg?auth=f9b244abd96f7c015d36c88af0cae48359ae2f6f5db3e3173872b2b05a313979&width=1200",
+        "tags": [
+            "transparencia institucional",
+            "parlamentos autonómicos",
+            "pp madrid",
+            "gobierno comunidad de madrid",
+            "isabel díaz ayuso",
+            "comunidad de madrid",
+            "asamblea madrid",
+            "organismos públicos investigación",
+            "ley transparencia",
+            "gobierno autonómico",
+            "madrid",
+            "oposición política"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-02/la-transparencia-se-atasca-en-el-madrid-de-ayuso-reclamaciones-sin-resolver-desde-2022-y-335-casos-en-un-limbo.html",
+        "date": "2025-01-02 04:00:00",
+        "sentiment_score": -0.8159858975559473
+    },
+    {
+        "title": "Soterramiento de la A-5: pulso entre administraciones por la gratuidad de la R-5 y el carril bus hasta Príncipe Pío",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FTGASRFII5AVJGKSP3QSRXNAAE.jpg?auth=20d22629cdfd29afc2a531f1bd0f3c020e5fe0c498adfef7aff84dc7d80b19ad&width=1200",
+        "tags": [
+            "a-5",
+            "soterramiento vías",
+            "gobierno de españa",
+            "ayuntamiento madrid",
+            "emt",
+            "cercanías madrid",
+            "movilidad sostenible",
+            "josé luis martínez almeida",
+            "comunidad de madrid",
+            "tráfico",
+            "movilidad urbana",
+            "m-30",
+            "metro madrid",
+            "m-40",
+            "atascos",
+            "obras municipales",
+            "circunvalación",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-02/soterramiento-de-la-a-5-pulso-entre-administraciones-por-la-gratuidad-de-la-r-5-y-el-carril-bus-hasta-principe-pio.html",
+        "date": "2025-01-02 04:00:00",
+        "sentiment_score": -0.2901136204600334
+    },
+    {
+        "title": "El Canal de Isabel II, erre que erre: desprecio a los municipios y venta del patrimonio público",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AB6MC4HQF5EW7KUZ7IU3IDBPGY.jpg?auth=dd55017c93778f0973787895ea938e2bdeafa6ba60a9562ffc70c89ea94dca03&width=1200",
+        "tags": [
+            "patrimonio autonómico",
+            "abastecimiento agua",
+            "vivienda",
+            "gobierno comunidad de madrid",
+            "comunidad de madrid",
+            "canal de isabel ii",
+            "isabel díaz ayuso",
+            "oficinas",
+            "lujo",
+            "empresas públicas",
+            "mercado inmobiliario",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-02/el-canal-de-isabel-ii-erre-que-erre-desprecio-a-los-municipios-y-venta-del-patrimonio-publico.html",
+        "date": "2025-01-02 04:00:00",
+        "sentiment_score": 0.15571101754903793
+    },
+    {
+        "title": "La experiencia puntera de España con la IA frente al cáncer de piel",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250102072734_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "asistencia"
+        ],
+        "link": "https://www.infosalus.com/asistencia/noticia-experiencia-puntera-espana-ia-frente-cancer-piel-20250102072734.html",
+        "date": "2025-01-02 06:27:34",
+        "sentiment_score": 0.6500371694564819
+    },
+    {
+        "title": "Un nuevo método de escaneo revela secretos de la función pulmonar",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250102072422_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-nuevo-metodo-escaneo-revela-secretos-funcion-pulmonar-20250102072422.html",
+        "date": "2025-01-02 06:24:22",
+        "sentiment_score": 0.28220726922154427
+    },
+    {
+        "title": "Los centros comerciales españoles reciben uno de cada seis euros invertidos en el sector en Europa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8c97a691-cf1a-4026-941b-039b424092af_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/economia/2025/01/02/inversion-centros-comerciales-espanoles-113057084.html",
+        "date": "2025-01-02 06:18:08",
+        "sentiment_score": 0.12604990601539612
+    },
+    {
+        "title": "Andalucía, Madrid y Comunidad Valenciana aglutinan las nuevas aperturas de parques comerciales en 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3d2698dd-979b-4ad2-9f37-f4161ef3e1fb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.lacronicabadajoz.com/economia/2025/01/02/andalucia-madrid-comunidad-valenciana-aglutinan-113057088.html",
+        "date": "2025-01-02 06:18:06",
+        "sentiment_score": 0.29851070046424866
+    },
+    {
+        "title": "Inversores de Nueva York y Miami ponen la vista en Madrid para adquirir proyectos inmobiliarios de lujo y ultralujo",
+        "image_url": "https://www.infobae.com/resizer/v2/4MZM2IZA3FB6RFBXL5DOSTZHTE.jpg?auth=defeccb225308d481377afaa8cd2228529714f4c4f86f208b0c96c2ce48162ce&height=1543&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/inversores-de-nueva-york-y-miami-ponen-la-vista-en-madrid-para-adquirir-proyectos-inmobiliarios-de-lujo-y-ultralujo/",
+        "date": "2025-01-02 06:17:25",
+        "sentiment_score": 0.7785271108150482
+    },
+    {
+        "title": "UCAM-Unicaja: Murcia tiene la llave para ir a la Copa (20.30 horas)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0ea35b5c-2f42-452c-9ec6-4fd70d0c3e28_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/01/02/ucam-unicaja-murcia-llave-copa-liga-endesa-113053823.html",
+        "date": "2025-01-02 06:01:02",
+        "sentiment_score": 0.6486705467104912
+    },
+    {
+        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades este 2 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/6SYXC64I35GVZOS7XLGCRJWTBY.jpg?auth=0215d7f6bb07ad502a71af4e46df272ff1e83b37ccda3692a3baa389996396cb&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/02/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-este-2-de-enero/",
+        "date": "2025-01-02 06:31:17",
+        "sentiment_score": 0.09075035527348518
+    },
+    {
+        "title": "Lo que debes saber hoy, 2 de enero, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/05/11/vivir-en-barcelona/854424552_12916911_1706x960.jpg?contentId=ESPIMA20240511_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250102/lo-que-debes-saber-hoy-de-enero-barcelona/913408652_0.html",
+        "date": "2025-01-02 06:27:22",
+        "sentiment_score": 0.021569788455963135
+    },
+    {
+        "title": "El teléfono contra el abuso de las personas mayores recibe 600 casos en 2024: \"Un hijo llegó a sacar 200.000 euros de la cuenta de su padre\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/235bfa39-88df-4552-a807-8022085fb22c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/01/02/telefono-abuso-personas-mayores-recibe-113057272.html",
+        "date": "2025-01-02 06:25:38",
+        "sentiment_score": -0.9228668743744493
     }
 ];
