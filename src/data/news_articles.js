@@ -1,255 +1,5 @@
 export default [
     {
-        "title": "Una mujer y su novio, apuñalados en San Blas (Madrid) por su expareja: tenía una orden de alejamiento y ya ha sido detenido",
-        "image_url": "https://www.infobae.com/resizer/v2/6FMX53CXNFCBVBAOQA2BX7FAOQ.png?auth=6dc470d99b8ccb0994abdeefa87c1931448d473379cb2177f01f97a99549c7b6&height=740&smart=true&width=1631",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2024/12/30/detenido-un-hombre-en-madrid-tras-herir-a-navajazos-a-su-ex-pareja-y-al-novio-de-esta/",
-        "date": "2024-12-30 06:18:42",
-        "sentiment_score": -0.7068089842796326
-    },
-    {
-        "title": "Azerbaiyán, Kazajistán y Uzbekistán firman un acuerdo de asociación sobre energía verde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/azerbaiyan-kazajistan-y-uzbekistan-firman-un-acuerdo-de-asociacion-sobre-energia-verde/",
-        "date": "2024-12-30 06:18:27",
-        "sentiment_score": 0.5680749118328094
-    },
-    {
-        "title": "Banco Santander cree que la victoria electoral de Donald Trump hará reaccionar a Europa",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/banco-santander-cree-que-la-victoria-electoral-de-donald-trump-hara-reaccionar-a-europa/",
-        "date": "2024-12-30 06:18:08",
-        "sentiment_score": -0.3856891468167305
-    },
-    {
-        "title": "Puertollano (C.Real) acoge la primera planta solar hibrida del mundo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/puertollano-creal-acoge-la-primera-planta-solar-hibrida-del-mundo/",
-        "date": "2024-12-30 06:17:47",
-        "sentiment_score": 0.6894668228924274
-    },
-    {
-        "title": "Ferrovial acuerda la venta de su 50% en los aeropuertos de Aberdeen, Glasgow y Southampton",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/ferrovial-acuerda-la-venta-de-su-50-en-los-aeropuertos-de-aberdeen-glasgow-y-southampton/",
-        "date": "2024-12-30 06:17:28",
-        "sentiment_score": 0.1273668184876442
-    },
-    {
-        "title": "Endesa condonará la próxima factura de luz y gas a clientes valencianos y manchegos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/endesa-condonara-la-proxima-factura-de-luz-y-gas-a-clientes-valencianos-y-manchegos/",
-        "date": "2024-12-30 06:17:10",
-        "sentiment_score": 0.4053839035332203
-    },
-    {
-        "title": "Giovanni Nucci, el autor que liberó a un ladrón \"de la obligación de robar\" con La Iliada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/30/giovanni-nucci-el-autor-que-libero-a-un-ladron-de-la-obligacion-de-robar-con-la-iliada/",
-        "date": "2024-12-30 06:15:55",
-        "sentiment_score": -0.6546285562217236
-    },
-    {
-        "title": "Efemérides del 31 de diciembre",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/30/efemerides-del-31-de-diciembre/",
-        "date": "2024-12-30 06:15:38",
-        "sentiment_score": -0.03100314736366272
-    },
-    {
-        "title": "Pau Sans: \"Tener un entrenador como Víctor Fernández es un placer\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/pau-sans-tener-un-entrenador-como-victor-fernandez-es-un-placer/",
-        "date": "2024-12-30 06:03:23",
-        "sentiment_score": 0.7413944192230701
-    },
-    {
-        "title": "Fundación Occident colaborará con la Gasol Foundation para prevenir la obesidad infantil",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/fundacion-occident-colaborara-con-la-gasol-foundation-para-prevenir-la-obesidad-infantil/",
-        "date": "2024-12-30 06:03:05",
-        "sentiment_score": 0.5837749876081944
-    },
-    {
-        "title": "Los 12 personajes que han marcado la crónica social en 2024: de Bárbara Rey a Raphael, pasando por la princesa Leonor",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/10/25/la-princesa-leonor-interviene-durante-durante-la-ceremonia-de-entrega-de-los-premios-princesa-de-asturias-2024.r_d.1398-662.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5667741/0/quienes-han-sido-los-12-personajes-mas-2024-barbara-rey-mujer-martinez-almeida/",
-        "date": "2024-12-30 06:25:21",
-        "sentiment_score": 0.3941253423690796
-    },
-    {
-        "title": "Tras los pasos de Colapinto: quiénes son las promesas del automovilismo argentino que se perfilan para llegar la Fórmula 1",
-        "image_url": "https://www.infobae.com/resizer/v2/IR3OPHSHFJEJHK4TO7THZUXB74.jpg?auth=c2888f80b91825237cd029c11a668c599dd8d41645da7ea81b5d574525d761ee&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2024/12/30/tras-los-pasos-de-colapinto-quienes-son-las-promesas-del-automovilismo-argentino-que-se-perfilan-para-llegar-la-formula-1/",
-        "date": "2024-12-30 06:13:02",
-        "sentiment_score": 0.5815218612551689
-    },
-    {
-        "title": "Tomás Guasch explica el porqué el Real Madrid no fichará en este mercado de invierno: \"Nadie mejora a Asencio\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2024/10/05/6701b597c4c36.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/tomas-guasch-explica-porque-real-madrid-fichara-mercado-invierno-nadie-mejora-asencio-20241230_3069964.html",
-        "date": "2024-12-30 06:11:28",
-        "sentiment_score": -0.025030463933944702
-    },
-    {
-        "title": "Tomás Guasch explica por qué el Real Madrid no fichará en este mercado de invierno: \"Nadie mejora a Asencio\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2024/10/05/6701b597c4c36.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/tomas-guasch-explica-real-madrid-fichara-mercado-invierno-nadie-mejora-asencio-20241230_3069964.html",
-        "date": "2024-12-30 06:11:28",
-        "sentiment_score": -0.025030463933944702
-    },
-    {
-        "title": "Así se llamaba Madrid antes de ser Madrid: un nombre con raíces romanas",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/28/vista-aerea-de-madrid-8750.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/asi-llamaba-madrid-madrid-nombre-raices-romanas.html",
-        "date": "2024-12-30 06:03:46",
-        "sentiment_score": 0.4946666657924652
-    },
-    {
-        "title": "El día que el Juventud Torremolinos compitió contra el Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06a28ef1-c1a6-470a-be50-26046386e698_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2024/12/30/dia-juventud-torremolinos-compitio-real-112997818.html",
-        "date": "2024-12-30 06:01:12",
-        "sentiment_score": -0.16053658723831177
-    },
-    {
-        "title": "Carlos Corberán aprieta las tuercas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bb45c6e8-8696-4b6c-b6d7-45789f19dbac_16-9-aspect-ratio_default_1346672.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia-cf/2024/12/30/carlos-corberan-aprieta-tuercas-112998326.html",
-        "date": "2024-12-30 06:01:12",
-        "sentiment_score": 0.6325809173285961
-    },
-    {
-        "title": "El año en el que el Valencia ha caído todavía más abajo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3c0d51e-9562-4f9b-9b9e-aa0677b6bdcd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia-cf/2024/12/30/ano-valencia-caido-todavia-abajo-112997107.html",
-        "date": "2024-12-30 06:01:10",
-        "sentiment_score": -0.9474046481773257
-    },
-    {
-        "title": "Vox no tiene quien le escriba",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dfe30bd0-a313-4439-956a-1e46478931e7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/opinion/2024/12/30/vox-le-escriba-112993425.html",
-        "date": "2024-12-30 06:01:00",
-        "sentiment_score": -0.40428426861763
-    },
-    {
-        "title": "Piden más de 4 años de cárcel por un pase de hachís en el Sarchal",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1143574",
-        "date": "2024-12-30 06:28:38",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "¿Por qué la gente escoge los números de la lotería en base a fechas importantes?",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/13/66e4ac9860ae8.jpeg",
-        "tags": [
-            "loterías"
-        ],
-        "link": "https://www.lavanguardia.com/loterias/20241230/10232736/gente-escoge-numeros-loteria-base-fechas-importantes-pmv.html",
-        "date": "2024-12-30 06:19:25",
-        "sentiment_score": 0.08765881508588791
-    },
-    {
-        "title": "Un año lleno de grandes momentos",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/29/combo-kcmC-U230411649491aQE-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/deportes/ano-lleno-grandes-momentos-20241230071846-nt.html",
-        "date": "2024-12-30 06:18:47",
-        "sentiment_score": 0.902861949056387
-    },
-    {
-        "title": "Una orquesta de implantados cocleares: \"Quizás tengamos que esforzarnos más, pero podemos llegar\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/04/joven-orquesta-graeme-clark.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/noticia/5660990/0/orquesta-implantados-cocleares-queriamos-demostrar-que-podemos-hacer-cosas/",
-        "date": "2024-12-30 06:17:55",
-        "sentiment_score": 0.1281745582818985
-    },
-    {
-        "title": "Lo que debes saber hoy, 30 de diciembre, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2020/03/24/vivir-en-barcelona/vivir_en_barcelona_477212275_9101595_1706x960.jpg?contentId=ESPIMA20200324_0001",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20241230/lo-que-debes-saber-hoy-de-diciembre-barcelona/912658728_0.html",
-        "date": "2024-12-30 06:17:11",
-        "sentiment_score": 0.3166061192750931
-    },
-    {
-        "title": "Aitana Bonmatí, el fútbol femenino lleva su nombre",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a539aca5-7ac2-4d82-b5b8-c23f48791003_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2024/12/30/aitana-bonmati-futbol-femenino-lleva-113002197.html",
-        "date": "2024-12-30 06:15:39",
-        "sentiment_score": 0.6151531785726547
-    },
-    {
         "title": "Cristina Pedroche, embarazada de su segundo hijo en común con Dabiz Muñoz",
         "image_url": "https://www.infobae.com/resizer/v2/PJCAMHJIKFBDPIDMYGT3I4N7JM.jpg?auth=df456fc2ddf5f6eb7cb82b1185c301e09fea5b6726d17bf14d156b5d10ceb2d2&height=810&smart=true&width=1440",
         "tags": [
@@ -393,16 +143,6 @@ export default [
         "sentiment_score": 0.45317322574555874
     },
     {
-        "title": "Jimmy Carter redefinió el rol de expresidente, dice un analista político",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/12/ap23050661347974-20241230091838352.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/jimmy-carter-muerte-presidencia-expresidente-trax/",
-        "date": "2024-12-30 09:23:49",
-        "sentiment_score": -0.49032508209347725
-    },
-    {
         "title": "Milanovic arrasa en la primera vuelta de las presidenciales de Croacia, pero irá a segunda vuelta",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/croatia-RJ1iCnQourpJ0Zv0fJl5hVJ-1200x840@diario_abc.jpg",
         "tags": [
@@ -461,49 +201,6 @@ export default [
         "link": "https://www.abc.es/opinion/juan-valero-de-palma-carta-regadio-espanol-reyes-magos-20241228112904-nt.html",
         "date": "2024-12-30 10:35:02",
         "sentiment_score": 0.02232763171195984
-    },
-    {
-        "title": "China, Venezuela, Cuba o Alemania: los líderes internacionales se despiden de Jimmy Carter",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/DAMBin%20(24).jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/china-venezuela-cuba-alemania-lideres-internacionales-despiden-20241230111150-nt.html",
-        "date": "2024-12-30 10:11:50",
-        "sentiment_score": -0.08319976925849915
-    },
-    {
-        "title": "Corea del Sur revisará todos los Boeing 737-800 como el siniestrado",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/corea10_20241230104708-RPTHXSodR8AtBCbUhSZP24O-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/corea-sur-revisara-boeing-737800-siniestrado-20241230103942-nt.html",
-        "date": "2024-12-30 09:50:37",
-        "sentiment_score": -0.1746605634689331
-    },
-    {
-        "title": "Máxima tensión tras la muerte del mantero en el río: un grupo de veinte personas busca venganza y destroza la Jefatura de la Policía Local de Sevilla",
-        "image_url": "https://cdn.mnmstatic.net/cache/3d/3f/media_thumb-link-4013890.webp",
-        "tags": [
-            "policía",
-            "actualidad",
-            "sevilla",
-            "manteros"
-        ],
-        "link": "https://www.meneame.net/story/maxima-tension-tras-muerte-mantero-rio-grupo-veinte-personas",
-        "date": "2024-12-30 08:10:11",
-        "sentiment_score": -0.7731977868825197
-    },
-    {
-        "title": "La inflación media de 2024 ha sido del 2,8%, ocho décimas menos que en 2023",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/30/1490321695-RjKUdT8EnQ0QEeCkTGf2ToJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/inflacion-2024-ocho-decimas-2023-20241230085721-nt.html",
-        "date": "2024-12-30 08:02:09",
-        "sentiment_score": -0.0920245349407196
     },
     {
         "title": "Guía práctica para disfrutar de las preuvas y las uvas en la Puerta del Sol de Madrid: accesos, horarios y aforo",
@@ -7462,5 +7159,525 @@ export default [
         "link": "https://www.eldebate.com/economia/20250102/gobierno-culpa-efecto-2000-caos-ferroviario-ano-nuevo_257859.html",
         "date": "2025-01-02 16:47:06",
         "sentiment_score": -0.8750424226745963
+    },
+    {
+        "title": "Adrianzén defiende designación de ‘la sombra’ de Dina Boluarte como auxiliar en embajada en España: “No hubo irregularidades”",
+        "image_url": "https://www.infobae.com/resizer/v2/UMKELOQBH5DCZLTEIXUWW4DWL4.png?auth=b9eb115188f3f68927a97b386ff4d4313cf15bead7431ac1652b14425af70265&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/01/02/adrianzen-defiende-designacion-de-la-sombra-de-dina-boluarte-como-auxiliar-en-embajada-en-espana-no-hubo-irregularidades/",
+        "date": "2025-01-02 22:11:07",
+        "sentiment_score": -0.879258131608367
+    },
+    {
+        "title": "Temas del día de EFE Economía del viernes 15 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/temas-del-dia-de-efe-economia-del-viernes-15-de-noviembre-de-2024/",
+        "date": "2025-01-02 22:02:30",
+        "sentiment_score": 0.2931860275566578
+    },
+    {
+        "title": "Merlin ingresa un 5% más hasta septiembre, multiplica por 18 su ganancia y dará dividendo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/merlin-ingresa-un-5-mas-hasta-septiembre-multiplica-por-18-su-ganancia-y-dara-dividendo/",
+        "date": "2025-01-02 22:02:11",
+        "sentiment_score": 0.7007201500236988
+    },
+    {
+        "title": "Logroño se rinde a las Cien Gaviotas de Mikel Erentxun en el primer concierto de 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/02/logrono-se-rinde-a-las-cien-gaviotas-de-mikel-erentxun-en-el-primer-concierto-de-2025/",
+        "date": "2025-01-02 22:01:53",
+        "sentiment_score": 0.02527099847793579
+    },
+    {
+        "title": "Lebron y Di Nenno, eliminados en octavos de final del Premier P1 de Kuwait",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/lebron-y-di-nenno-eliminados-en-octavos-de-final-del-premier-p1-de-kuwait/",
+        "date": "2025-01-02 22:01:52",
+        "sentiment_score": 0.23621977865695953
+    },
+    {
+        "title": "Fallece el expresidente de Baleares Francesc Antich a los 66 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/02/fallece-el-expresidente-de-baleares-francesc-antich-a-los-66-anos/",
+        "date": "2025-01-02 22:01:37",
+        "sentiment_score": -0.7473079692572355
+    },
+    {
+        "title": "He Bing Jiao:\"Carolina Marín siempre ha sido mi referencia\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/he-bing-jiaocarolina-marin-siempre-ha-sido-mi-referencia/",
+        "date": "2025-01-02 22:01:34",
+        "sentiment_score": 0.7809127122163773
+    },
+    {
+        "title": "Una asesora de Moncloa señaló a Reale el interés de Begoña Gómez en que siguiera patrocinando la cátedra:\"Le encantaría\"",
+        "image_url": "https://www.infobae.com/resizer/v2/HIHVBA5FHZAE3KR4SY6UZJKJMI.jpg?auth=6d0aecb51994721b7fa058c35694a536c4bcee8a64b03ad7efaa3f9ff9229e49&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/una-asesora-de-moncloa-senalo-a-reale-el-interes-de-begona-gomez-en-que-siguiera-patrocinando-la-catedrale-encantaria/",
+        "date": "2025-01-02 21:46:34",
+        "sentiment_score": 0.6966520920395851
+    },
+    {
+        "title": "73-75. Canaan enfría el último calentón del Buesa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/02/73-75-canaan-enfria-el-ultimo-calenton-del-buesa/",
+        "date": "2025-01-02 21:46:21",
+        "sentiment_score": -0.3926941603422165
+    },
+    {
+        "title": "Cuba anticipa una contracción de su PIB en 2024, que sería la segunda anual consecutiva",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/cuba-anticipa-una-contraccion-de-su-pib-en-2024-que-seria-la-segunda-anual-consecutiva/",
+        "date": "2025-01-02 21:33:08",
+        "sentiment_score": -0.8501749448478222
+    },
+    {
+        "title": "“No debería estar aquí\": un pescador queda en medio de un tornado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pescador-atrapado-tornado-ush-trax/",
+        "date": "2025-01-02 21:55:09",
+        "sentiment_score": -0.6670406851917505
+    },
+    {
+        "title": "Los peores videojuegos de 2024, según Metacritic",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/ranking-20250102195323477.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/peores-videojuegos-de-2024-metacritic-redaccion-buenos-aires-tv/",
+        "date": "2025-01-02 19:58:35",
+        "sentiment_score": 0.3640231341123581
+    },
+    {
+        "title": "Sheinbaum reitera que el Gobierno de México se prepara para posibles deportaciones masivas de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnne-1790904-opinion-trump-se-enfrenta-a-sheinbaum-por-la-amenaza-de-imposicion-de-aranceles.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-deportaciones-mexicanos-trump-ush-perspectivas-mexico/",
+        "date": "2025-01-02 19:54:07",
+        "sentiment_score": 0.3372563123703003
+    },
+    {
+        "title": "“No tenemos para el arriendo ni la comida”, dice mujer que se unió a la primera caravana migrante de 2025 hacia EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/caravana-migrante-2025.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/primera-caravana-migrante-2025-eeuu-redaccion-buenos-aires-tv/",
+        "date": "2025-01-02 19:24:35",
+        "sentiment_score": -0.46130818873643875
+    },
+    {
+        "title": "“Esperamos grandes cambios”, dice residente de Puerto Rico tras la asunción de Jenniffer González como gobernadora",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1492672783.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jenniffer-gonzalez-nueva-gobernadora-puerto-rico-redaccion-buenos-aires-tv-fast/",
+        "date": "2025-01-02 19:00:31",
+        "sentiment_score": 0.5677296221256256
+    },
+    {
+        "title": "“Hemos vivido una vida con mucho que contar”, dice Linda Montaner sobre su relación con el fallecido Carlos Alberto Montaner",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/linda-montaner-esposo-fallecido-carlos-alberto-wendy-guerra-orix/",
+        "date": "2025-01-02 18:15:14",
+        "sentiment_score": -0.15833497792482376
+    },
+    {
+        "title": "¿Quién era el sospechoso del ataque en Nueva Orleans?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nueva-orleans-sospechoso-atropellamiento-ush-trax/",
+        "date": "2025-01-02 17:59:46",
+        "sentiment_score": -0.39151194877922535
+    },
+    {
+        "title": "“Fue un acto de terrorismo”, dice el FBI sobre el ataque en Nueva Orleans",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191517913.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nueva-orleans-sospechoso-terrorismo-fbi-ush/",
+        "date": "2025-01-02 17:41:42",
+        "sentiment_score": -0.8537220815196633
+    },
+    {
+        "title": "¿Dos años sin Benedicto XVI?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/02/250103%20Tercera%20Camino.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-antonio-martinez-camino-dos-anos-benedicto-xvi-20250103205955-nt.html",
+        "date": "2025-01-02 20:09:53",
+        "sentiment_score": -0.028177350759506226
+    },
+    {
+        "title": "Año Nuevo 2025",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2024/12/30/dolor-estomago-kb2D--1248x698@ab-k8JB--170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-ruizquintano-ano-nuevo-2025-20250103204430-nt.html",
+        "date": "2025-01-02 19:56:38",
+        "sentiment_score": -0.07911714911460876
+    },
+    {
+        "title": "Grieta",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/grieta-20250103203055-nt.html",
+        "date": "2025-01-02 19:41:14",
+        "sentiment_score": -0.2037341296672821
+    },
+    {
+        "title": "Las miserias de 'lo político'",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/01/02/alquiler-casa-U30315032400OTB-170x119@abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/carlos-granes-miserias-politico-20250103202430-nt.html",
+        "date": "2025-01-02 19:29:04",
+        "sentiment_score": -0.18658727407455444
+    },
+    {
+        "title": "El sermón de la Puerta del Sol",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/maria-jose-fuentealamo-sermon-puerta-sol-20250103201449-nt.html",
+        "date": "2025-01-02 19:19:47",
+        "sentiment_score": -0.12493142485618591
+    },
+    {
+        "title": "Definitivamente apocalíptico",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/30/cestas-U73513087517lTw-170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alvaro-martinez-definitivamente-apocaliptico-20250103195702-nt.html",
+        "date": "2025-01-02 19:10:15",
+        "sentiment_score": -0.19113582372665405
+    },
+    {
+        "title": "2025, el Año Melgar",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2024/12/11/bernardos-U43467688106KjU-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/carlos-herrera-2025-ano-melgar-20250103194351-nt.html",
+        "date": "2025-01-02 18:50:30",
+        "sentiment_score": -0.03595453500747681
+    },
+    {
+        "title": "Las palancas de Montero",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2024/12/26/Investigacin-kT--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-palancas-montero-20250103193322-nt.html",
+        "date": "2025-01-02 18:39:58",
+        "sentiment_score": -0.0666322112083435
+    },
+    {
+        "title": "Masorange y Vodafone unen fuerzas para crear la mayor compañía de fibra de Europa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/02/meinrad-spenger-RQbThyxM7XH4Wh8WW35zmPO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/masorange-vodafone-unen-fuerzas-crear-mayor-compania-20250102191846-nt.html",
+        "date": "2025-01-02 18:32:15",
+        "sentiment_score": 0.11013850569725037
+    },
+    {
+        "title": "El Gobierno de Meloni convoca al embajador de Irán por el arresto de una periodista italiana en Teherán",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/02/CeciliaSala-krwB-U7060174706scF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gobierno-meloni-convoca-embajador-iran-arresto-periodista-20250102191829-nt.html",
+        "date": "2025-01-02 18:18:29",
+        "sentiment_score": -0.25055791437625885
+    },
+    {
+        "title": "Los Mossos investigan presuntos maltratos en una residencia de ancianos de Barcelona en Nochevieja",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/V2WUWSJXARAEZPOQLVY6UNILQU.jpg?auth=7efc135b74ba3aad07768fa0e3aab10403e08db46ef4562712cf5d3a6b4888b0",
+        "tags": [
+            "cataluña",
+            "agresiones físicas",
+            "barcelona",
+            "residencias ancianos",
+            "mossos d'esquadra",
+            "sucesos"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-02/los-mossos-investigan-presuntos-maltratos-en-una-residencia-de-ancianos-de-barcelona-en-nochevieja.html",
+        "date": "2025-01-02 20:25:06",
+        "sentiment_score": -0.8050949703902006
+    },
+    {
+        "title": "La declaración de Aldama en el Supremo: “Pagaba dinero a Ábalos y a Koldo por adjudicaciones”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tribunal supremo",
+            "psoe",
+            "josé luis ábalos",
+            "caso koldo",
+            "víctor de aldama",
+            "españa",
+            "interrogatorios",
+            "ángel víctor torres"
+        ],
+        "link": "https://elpais.com/espana/2025-01-02/la-declaracion-de-aldama-en-el-supremo-pagaba-dinero-a-abalos-y-a-koldo-por-adjudicaciones.html",
+        "date": "2025-01-02 20:18:28",
+        "sentiment_score": -0.7131697367876768
+    },
+    {
+        "title": "Canarias cierra 2024 con el mayor número de migrantes llegados de su historia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/47EFIEFEF4ZDZ2HKFYBUUJ3SPQ.jpg?auth=23517cada1c21556d166071102dedc08c4dc845b4b466d04a510ca87cc8f598f&width=1200",
+        "tags": [
+            "migrantes",
+            "fernando clavijo",
+            "borja semper",
+            "psoe",
+            "migración",
+            "canarias",
+            "el hierro",
+            "inmigración",
+            "inmigración irregular españa",
+            "baleares",
+            "inmigrantes africanos",
+            "ángel víctor torres",
+            "inmigración irregular",
+            "pp canarias",
+            "inmigrantes",
+            "españa",
+            "coalición canaria"
+        ],
+        "link": "https://elpais.com/espana/2025-01-02/canarias-cierra-2024-con-el-mayor-numero-de-migrantes-llegados-de-su-historia.html",
+        "date": "2025-01-02 18:31:36",
+        "sentiment_score": 0.26212670654058456
+    },
+    {
+        "title": "La EMT de Valencia sube el precio del billete sencillo: pasará de costar 1,5 a 2 euros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5V3Q5CCTMZUJN4DQGS6BFIT5ZE.jpg?auth=474946a324506228b16b66ff3bf2a1fbd30c9524bf39eea32423d72e25a88c19&width=1200",
+        "tags": [
+            "valencia",
+            "maría josé catalá",
+            "ayuntamiento valencia",
+            "carlos mazón",
+            "transporte público",
+            "generalitat valenciana",
+            "emt",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-01-02/la-emt-de-valencia-sube-el-precio-del-billete-sencillo-pasara-de-costar-15-a-2-euros.html",
+        "date": "2025-01-02 17:26:26",
+        "sentiment_score": -0.01522091031074524
+    },
+    {
+        "title": "Mestalla se encomienda al ‘efecto Corberán’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/edd786db-5bb1-4360-8e81-0127e4f8a5dd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/02/mestalla-encomienda-efecto-corberan-113078496.html",
+        "date": "2025-01-02 22:14:43",
+        "sentiment_score": -0.030358314514160156
+    },
+    {
+        "title": "Los 7 requisitos para presentarse a las elecciones a la presidencia del Real Madrid",
+        "image_url": "https://cflvdg.avoz.es/sc/rnPVq2DdoSB3P8va2o9kUmwyqac=/768x/2025/01/02/00121735855364276897861/Foto/EuropaPress_6427011_florentino_perez_rodriguez_president_of_real_madrid_looks_on_during_the-EP.jpg",
+        "tags": [
+            "real madrid",
+            "florentino pérez",
+            "fútbol"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2025/01/02/7-requisitos-presentarse-elecciones-presidencia-real-madrid/00031735855400453746851.htm",
+        "date": "2025-01-02 22:13:01",
+        "sentiment_score": -0.015802979469299316
+    },
+    {
+        "title": "James Rodríguez es viral en redes sociales por gracioso reto que grabó junto a sus hijos: “Papá, escupiste agua”",
+        "image_url": "https://www.infobae.com/resizer/v2/X5NV5LLUIZFGDFAHJW6JM6NATE.jpg?auth=573e7b776c86ef3788c190287314ea3c10f6c6af0fa9356c45993b5df9c63a56&height=1907&smart=true&width=3264",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/01/02/james-rodriguez-es-viral-en-redes-sociales-por-gracioso-reto-que-grabo-junto-a-sus-hijos-papa-escupiste-agua/",
+        "date": "2025-01-02 22:02:37",
+        "sentiment_score": 0.28369245678186417
+    },
+    {
+        "title": "El régimen de Maduro ahora ofrece una recompensa por información sobre el paradero de Edmundo González Urrutia",
+        "image_url": "https://www.infobae.com/resizer/v2/HGZKLXITCZGDHH4KWUSRZZPDIY.png?auth=ddc623d169ed2b0d6c81e8b407ba89c817838bb1d19976992332a0a044e914e9&height=1280&smart=true&width=750",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/venezuela/2025/01/02/el-regimen-de-maduro-ahora-ofrece-una-recompensa-por-informacion-sobre-el-paradero-de-edmundo-gonzalez-urrutia/",
+        "date": "2025-01-02 21:50:08",
+        "sentiment_score": -0.8907279307022691
+    },
+    {
+        "title": "Fallece el catedrático emérito de Geometría y exdecano de la Facultad de Ciencias Pedro Luis García Pérez",
+        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2025/01/02/pedroluisgarcia-kKGI--758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/salamanca/fallece-catedratico-emerito-geometria-exdecano-facultad-ciencias-20250102223421-nt.html",
+        "date": "2025-01-02 21:44:04",
+        "sentiment_score": 0.04609307274222374
+    },
+    {
+        "title": "El Inter de Lautaro Martínez derrotó 2-0 al Atalanta y jugará la final de la Supercopa de Italia",
+        "image_url": "https://www.infobae.com/resizer/v2/KZQGZEY2YHALBDD4JIKABR7BWU.jpg?auth=a3001a1aa6e8b2a9726085248e8b4945e35f46d232676cd5a095347ff4a00bd8&height=2312&smart=true&width=3308",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/02/el-inter-de-lautaro-martinez-derroto-2-0-al-atalanta-y-jugara-la-final-de-la-supercopa-de-italia/",
+        "date": "2025-01-02 21:38:25",
+        "sentiment_score": -0.774256082251668
+    },
+    {
+        "title": "Muere Fernando Martín Minguijón, alcalde de Calatayud durante 12 años",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/01/02/inauguracion-en-calatayud-de-la-plaza-dedicada-al-ex-alcalde-fernando-martin-autor-macipe-jesus-fecha-09-09-2018-propietario-colaboradores-aragon-id-2018-2868010-ha-archivo.jpeg",
+        "tags": [
+            "zaragoza"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2025/01/02/muere-fernando-martin-minguijon-alcalde-calatayud-historico-pp-1789519.html",
+        "date": "2025-01-02 21:37:46",
+        "sentiment_score": 0.026067644357681274
+    },
+    {
+        "title": "Temas del día de EFE España del viernes 15 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/temas-del-dia-de-efe-espana-del-viernes-15-de-noviembre-de-2024/",
+        "date": "2025-01-02 21:31:53",
+        "sentiment_score": -0.737250167876482
+    },
+    {
+        "title": "El futbolista \"antisistema\" que fundó un club terraplanista, ataca a Bellerín y resucita al Moscardó entre polémicas",
+        "image_url": "https://static.eldiario.es/clip/be729ca3-e848-427b-9ba4-0961a51f178f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/noticias/futbolista-antisistema-fundo-club-terraplanista-ataca-bellerin-resucita-moscardo-polemicas_1_11905723.html",
+        "date": "2025-01-02 21:24:29",
+        "sentiment_score": -0.09882143139839172
+    },
+    {
+        "title": "Un día de Lamine Yamal por el supermercado con su hermano pequeño: \"Mi gángster\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/02/67770bebdd34b.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/dia-lamine-yamal-supermercado-hermano-pequeno-mi-gangster-20250102_3071440.html",
+        "date": "2025-01-02 22:14:53",
+        "sentiment_score": -0.033017128705978394
+    },
+    {
+        "title": "Más de un millar de manifestantes por la muerte de Mamouth Bakhoum señalan a las instituciones por su responsabilidad",
+        "image_url": "https://static.eldiario.es/clip/c1463ff0-a6b5-4eb2-90ca-88f496c5d4aa_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sevilla/millar-manifestantes-muerte-mamouth-bakhoum-senalan-instituciones-responsabilidad_1_11939584.html",
+        "date": "2025-01-02 22:08:23",
+        "sentiment_score": -0.1020612120628357
+    },
+    {
+        "title": "El soltero Antonio vuelve a 'First Dates' para llevarse otro chasco en su cita: \"No es mi estilo...\"",
+        "image_url": "https://album.mediaset.es/eimg/2025/01/02/antonioportada_8428.png?w=1024",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.cuatro.com/television/20250102/soltero-antonio-first-dates-llevarse_18_014401765.html",
+        "date": "2025-01-02 22:00:17",
+        "sentiment_score": -0.2123146504163742
+    },
+    {
+        "title": "Los Mossos investigan presuntos maltratos en una residencia de ancianos de Barcelona en Nochevieja",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2025/01/02/4F48BAA0-04C9-41A0-8229-0D3671544771/96.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/mossos-investigan-presuntos-maltratos-residencia-ancianos-barcelona-nochevieja_2025010267770955af21750001456cc2.html",
+        "date": "2025-01-02 21:50:34",
+        "sentiment_score": -0.7577589731663465
+    },
+    {
+        "title": "La solidaridad de los vecinos con 30 inmigrantes que vivieron 8 meses en una gasolinera de Barcelona",
+        "image_url": "https://album.mediaset.es/eimg/2025/01/02/la-solidaridad-de-los-vecinos-con-los-30-inmigrantes-que-malvivian-en-una-gasolinera-en-barcelona_6053.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.telecinco.es/noticias/espana/20250102/solidaridad-vecinos-barcelona-inmigrantes-viviendo-gasolinera-abandonada_18_014408358.html",
+        "date": "2025-01-02 21:34:41",
+        "sentiment_score": -0.08263343572616577
+    },
+    {
+        "title": "He Bing Jiao, Jesús Navas y las madres de los Williams y Yamal, premiados por Relevo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/he-bing-jiao-jesus-navas-y-las-madres-de-los-williams-y-yamal-premiados-por-relevo/",
+        "date": "2025-01-02 21:32:49",
+        "sentiment_score": 0.25301578640937805
+    },
+    {
+        "title": "Viernes 15 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/viernes-15-de-noviembre-de-2024/",
+        "date": "2025-01-02 21:31:33",
+        "sentiment_score": 0.32385653257369995
     }
 ];
