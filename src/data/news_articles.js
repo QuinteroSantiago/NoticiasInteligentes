@@ -163,46 +163,6 @@ export default [
         "sentiment_score": -0.013797640800476074
     },
     {
-        "title": "La advertencia de los otorrinos sobre las uvas en Nochevieja: Quién no debería comerlas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2024/12/30/uvas-nochevieja-otorrinos-RELqSjYvlmGMrLf2aUpDAjI-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/advertencia-otorrinos-sobre-uvas-nochevieja-deberia-comerlas-20241230150407-nt.html",
-        "date": "2024-12-30 14:04:08",
-        "sentiment_score": -0.23301120102405548
-    },
-    {
-        "title": "Biden anuncia un nuevo paquete de 2.500 millones de dólares en ayuda militar a Ucrania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/30/joe-biden-kYM-U7050379723I2C-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/biden-anuncia-nuevo-paquete-2500-millones-dolares-20241230122904-nt.html",
-        "date": "2024-12-30 11:29:05",
-        "sentiment_score": -0.046016037464141846
-    },
-    {
-        "title": "El ahorro de los hogares aumentó un 42% en verano tras la 'tregua' de la inflación",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/30/1433077874-R1dNPvcc6R0az4hMqdNMZzH-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ahorro-hogares-aumento-varano-tras-tregua-inflacion-20241230121436-nt.html",
-        "date": "2024-12-30 11:18:14",
-        "sentiment_score": -0.09325763583183289
-    },
-    {
-        "title": "Carta del regadío español a los Reyes Magos",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2024/12/17/pescaderia-granada-U2201640265548G1E--170x119@Ideal.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/juan-valero-de-palma-carta-regadio-espanol-reyes-magos-20241228112904-nt.html",
-        "date": "2024-12-30 10:35:02",
-        "sentiment_score": 0.02232763171195984
-    },
-    {
         "title": "Guía práctica para disfrutar de las preuvas y las uvas en la Puerta del Sol de Madrid: accesos, horarios y aforo",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DVPXNGG44BEX5GHWQF6VM45NEY.jpg?auth=21a4acb888dcfd28954971d9b8f72e755014f5537c95b2442e13548f32d3a7c4",
         "tags": [
@@ -281,120 +241,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-30/el-gobierno-de-mazon-critica-la-utilizacion-del-dolor-por-parte-de-la-izquierda-en-la-manifestacion-por-la-dana.html",
         "date": "2024-12-30 14:14:21",
         "sentiment_score": -0.8460324732586741
-    },
-    {
-        "title": "La Guardia Civil interviene siete toneladas de cocaína en el Guadalquivir, el mayor alijo transportado con narcolanchas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZCU246WBSDBALTTCJVBXTNMP6M.jpg?auth=b7603fb5a6e7ff0a05410b4a4099afed2c512c410a2e2b07b7e2a1e3893cb1ed&width=1200",
-        "tags": [
-            "cocaína",
-            "narcotráfico",
-            "narcotraficantes",
-            "ministerio del interior",
-            "andalucía",
-            "alijos",
-            "sevilla",
-            "coria del río",
-            "españa",
-            "guardia civil",
-            "río guadalquivir"
-        ],
-        "link": "https://elpais.com/espana/2024-12-30/la-guardia-civil-interviene-siete-toneladas-de-cocaina-en-el-guadalquivir-el-mayor-alijo-transportado-con-narcolanchas.html",
-        "date": "2024-12-30 13:46:52",
-        "sentiment_score": -0.4077814035117626
-    },
-    {
-        "title": "El tiempo en Nochevieja y Año Nuevo: una nueva dana en el área mediterránea y heladas y niebla en el interior",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LBKV43BXHIQCGQY7KW6QHBMF6U.jpg?auth=85bdc5978df617bcbcaf8f57568214e32fe1bde42dd68a0d98bef77b66eae446&width=1200",
-        "tags": [
-            "niebla",
-            "lluvia",
-            "nochevieja",
-            "bajas temperaturas",
-            "tradiciones navidad",
-            "temperaturas mínimas",
-            "frío",
-            "temperaturas máximas",
-            "invierno",
-            "españa",
-            "meteorología",
-            "aemet",
-            "temperaturas",
-            "año nuevo",
-            "predicción meteorológica",
-            "fiestas nacionales",
-            "navidad"
-        ],
-        "link": "https://elpais.com/espana/2024-12-30/el-tiempo-en-nochevieja-y-ano-nuevo-una-nueva-dana-en-el-area-mediterranea-y-heladas-y-niebla-en-el-interior.html",
-        "date": "2024-12-30 13:14:40",
-        "sentiment_score": -0.5746159143745899
-    },
-    {
-        "title": "La vivienda se dispara como la mayor preocupación de los barceloneses junto a la inseguridad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LAMCSQTILJA4PKYHROISJFZPWM.jpg?auth=cbf3e25379739df5a2ef640249ece0010965f5247edf850a202694fb06c14af8&width=1200",
-        "tags": [
-            "delincuencia",
-            "vivienda",
-            "cataluña",
-            "barcelona",
-            "viviendas alquiler",
-            "jaume collboni",
-            "ayuntamiento barcelona",
-            "encuestas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-30/la-vivienda-se-dispara-como-la-mayor-preocupacion-de-los-barceloneses-junto-a-la-inseguridad.html",
-        "date": "2024-12-30 13:14:05",
-        "sentiment_score": 0.1058322861790657
-    },
-    {
-        "title": "El Ayuntamiento de Madrid aparta a los vecinos de Vicálvaro de la decoración de su cabalgata de Reyes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C2LLODRTQFCTVODW5Z3ER2ZPW4.jpg?auth=9fbde84120258a3cbc522971de4678b2b13c69d28814d3050b0baf91d157395c&width=1200",
-        "tags": [
-            "josé luis martínez almeida",
-            "comunidad de madrid",
-            "ayuntamiento madrid",
-            "reyes magos",
-            "vecinos",
-            "navidad",
-            "discriminación",
-            "pp",
-            "madrid",
-            "privatizaciones",
-            "vicálvaro"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-30/el-ayuntamiento-aparta-a-los-vecinos-de-vicalvaro-de-la-decoracion-de-su-cabalgata-de-reyes.html",
-        "date": "2024-12-30 12:40:56",
-        "sentiment_score": -0.5941430889070034
-    },
-    {
-        "title": "Un vendedor ambulante fallece ahogado en Sevilla tras huir de la Policía Local y saltar al río",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AFT3C3IHPNGI3GJIO734LCTGL4.jpg?auth=733f2fa86db1273975c95336d72bf16f7d02cf1e05181aec379443f488616e68",
-        "tags": [
-            "inmigración",
-            "río guadalquivir",
-            "policía",
-            "ahogamientos",
-            "andalucía",
-            "sucesos",
-            "españa",
-            "sevilla"
-        ],
-        "link": "https://elpais.com/espana/2024-12-30/un-vendedor-ambulante-fallece-ahogado-en-sevilla-tras-huir-de-la-policia-local-y-saltar-al-rio.html",
-        "date": "2024-12-30 12:12:12",
-        "sentiment_score": -0.7480044011026621
-    },
-    {
-        "title": "Un juez acusa al Ayuntamiento de Badalona de dejar “en completo desamparo” a personas sin hogar y le obliga a darles cobijo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RYFVEN337RHOBDWQIA6WR7XU2U.jpg?auth=8d109a000826d8d10f7db57e93b6b371dfd4953b0db45427a460598e36decc29&width=1200",
-        "tags": [
-            "badalona",
-            "personas sin hogar",
-            "pobreza",
-            "cataluña",
-            "jueces"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-30/un-juez-acusa-al-ayuntamiento-de-badalona-de-dejar-en-completo-desamparo-a-personas-sin-hogar-y-le-obliga-a-darles-cobijo.html",
-        "date": "2024-12-30 11:30:56",
-        "sentiment_score": -0.5819214694201946
     },
     {
         "title": "Con la camiseta de Alianza Lima y con la de la ‘U’: estos los momentos más icónicos de la carrera de Hugo Sotil",
@@ -7679,5 +7525,405 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2024/11/14/viernes-15-de-noviembre-de-2024/",
         "date": "2025-01-02 21:31:33",
         "sentiment_score": 0.32385653257369995
+    },
+    {
+        "title": "AMP-La UCM, La Caixa y Reale bendijeron por unanimidad la creación del 'software' por el que se investiga a Begoña Gómez",
+        "image_url": "https://www.infobae.com/resizer/v2/HCTJABEYZZELPB5H7UO2ZVNGNU.jpg?auth=dc1513c03ec2c10fa76e7d25ff93e0975a41df3ed988d089044660ef7f421fda&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/amp-la-ucm-la-caixa-y-reale-bendijeron-por-unanimidad-la-creacion-del-software-por-el-que-se-investiga-a-begona-gomez/",
+        "date": "2025-01-03 02:03:16",
+        "sentiment_score": -0.5729253441095352
+    },
+    {
+        "title": "La Fiscalía Europea pidió a la UCO que le informara de lo incautado a Barrabés en el 'caso Begoña Gómez'",
+        "image_url": "https://www.infobae.com/resizer/v2/N5B7MZZGRZAIRMU3MHK5SFUZKA.jpg?auth=24f16d76099309664681ab901b72cc2b8e6d25b533a9be1d0f59edc91f834f9f&height=1262&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/la-fiscalia-europea-pidio-a-la-uco-que-le-informara-de-lo-incautado-a-barrabes-en-el-caso-begona-gomez/",
+        "date": "2025-01-03 02:02:56",
+        "sentiment_score": -0.6533163394778967
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona para antes de salir de casa este 3 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/NPF2UIHYUVFNNIA5UEDH6YOAG4.jpg?auth=9872f58bd8e4ffbae8a88a4fd8924e1ff94b6154c983ea997b07c8ea69edde19&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/03/pronostico-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-3-de-enero/",
+        "date": "2025-01-03 02:01:56",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Chus Mateo: \"Tenemos que afrontar todos los partidos respetando más\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/chus-mateo-tenemos-que-afrontar-todos-los-partidos-respetando-mas/",
+        "date": "2025-01-03 01:48:51",
+        "sentiment_score": 0.11297346651554108
+    },
+    {
+        "title": "Starmer anuncia una inversión de 1.200 millones euros en el sector aeroespacial en 5 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/starmer-anuncia-una-inversion-de-1200-millones-euros-en-el-sector-aeroespacial-en-5-anos/",
+        "date": "2025-01-03 01:47:37",
+        "sentiment_score": 0.6380173154175282
+    },
+    {
+        "title": "La Generalitat: La CHJ es la única entidad obligada a avisar de riesgos de desbordamiento",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/la-generalitat-la-chj-es-la-unica-entidad-obligada-a-avisar-de-riesgos-de-desbordamiento/",
+        "date": "2025-01-03 01:32:38",
+        "sentiment_score": -0.8302396852523088
+    },
+    {
+        "title": "Disney gana 4.724 millones de euros en 2024, un 111 % más interanual",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/disney-gana-4724-millones-de-euros-en-2024-un-111-mas-interanual/",
+        "date": "2025-01-03 01:17:20",
+        "sentiment_score": 0.7227716725319624
+    },
+    {
+        "title": "Sasa Obradovic: Hemos defendido muy duro",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/sasa-obradovic-hemos-defendido-muy-duro/",
+        "date": "2025-01-03 01:17:01",
+        "sentiment_score": 0.3244035840034485
+    },
+    {
+        "title": "La UCM, La Caixa y Reale bendijeron por unanimidad la creación del 'software' por el que se investiga a Begoña Gómez",
+        "image_url": "https://www.infobae.com/resizer/v2/GLEY7FSRHZANNEXEHSU6HPCGUE.jpg?auth=19c90953a6a18c2e79b71ca895ad69288f15af00e024a81388776e1a05616357&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/la-ucm-la-caixa-y-reale-bendijeron-por-unanimidad-la-creacion-del-software-por-el-que-se-investiga-a-begona-gomez/",
+        "date": "2025-01-03 00:47:11",
+        "sentiment_score": -0.8475791644304991
+    },
+    {
+        "title": "Felipe VI anima a los empresarios iberoamericanos a \"puentear distancias\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/14/felipe-vi-anima-a-los-empresarios-iberoamericanos-a-puentear-distancias/",
+        "date": "2025-01-03 00:33:25",
+        "sentiment_score": 0.5858225040137768
+    },
+    {
+        "title": "Zovatto: Las democracias en América Latina estarán bajo una fuerte tensión en 2025",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1514774008.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/daniel-zovatto-democracia-america-latina-aristegui-tv-fast/",
+        "date": "2025-01-03 02:12:32",
+        "sentiment_score": -0.7677429113537073
+    },
+    {
+        "title": "No te pierdas la primer lluvia de meteoros de 2025",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2166010142.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "ciencia",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cuadrantidas-lluvia-estrellas-2025-perspectivas-mexico-tv/",
+        "date": "2025-01-03 02:06:30",
+        "sentiment_score": 0.15752195566892624
+    },
+    {
+        "title": "Zovatto: Trump aplicaría los aranceles como un instrumento de extorsión geopolítica",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2180589131-20250103020507628.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/daniel-zovatto-trump-presidencial-aristegui-tv-fast/",
+        "date": "2025-01-03 02:06:07",
+        "sentiment_score": -0.517611276358366
+    },
+    {
+        "title": "Venezuela difunde imágenes del gendarme argentino Nahuel Gallo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21255860-5920-still.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "venezuela",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-imagenes-nahuel-gallo-gendarme-argentino-detenido-panorama-mundial-tv/",
+        "date": "2025-01-03 01:59:58",
+        "sentiment_score": -0.5972950160503387
+    },
+    {
+        "title": "¿Qué es ISIS-K? La rama más radical del grupo terrorista",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-805623552.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/quienes-son-isis-k-terroristas-trax/",
+        "date": "2025-01-03 01:43:00",
+        "sentiment_score": -0.8474153568968177
+    },
+    {
+        "title": "Un 80% de las mujeres en América Latina ha experimentado algún tipo de violencia de género, según Oxfam",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/66866037-75658500-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "colombia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/violencia-mujeres-colombia-pkg/",
+        "date": "2025-01-03 01:30:54",
+        "sentiment_score": -0.5448619443923235
+    },
+    {
+        "title": "Preocupación entre periodistas por nueva ley de ciberseguridad en El Salvador",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21244552-175315-068-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/el-salvador-nueva-ley-ciberseguridad/",
+        "date": "2025-01-03 01:04:17",
+        "sentiment_score": 0.025858119130134583
+    },
+    {
+        "title": "En la Casa Blanca, Biden otorga la medalla presidencial a 20 personas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191612382-1.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/biden-entrega-medalla-presidencial-dusa-tv/",
+        "date": "2025-01-03 00:13:52",
+        "sentiment_score": -0.8556834142655134
+    },
+    {
+        "title": "Entran en vigor nuevas leyes federales y estatales en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2170420900.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-congreso-nuevas-leyes-federales-estatales-2025-dusa-tv/",
+        "date": "2025-01-03 00:13:18",
+        "sentiment_score": 0.08533476293087006
+    },
+    {
+        "title": "FBI cree que el sospechoso del ataque en Nueva Orleans actuó solo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191517565.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-ataque-nueva-orleans-fbi-dusa-tv/",
+        "date": "2025-01-03 00:12:47",
+        "sentiment_score": -0.8736556963995099
+    },
+    {
+        "title": "Fallece el expresidente de Baleares Francesc Antich a los 66 años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4KVP7EMAIRBXTIQHG4QHJGNV4A.jpg?auth=839cc734d0bd3541aff860c4468d206391dfe93f53cd2f99d02d45e7c090b243&width=1200",
+        "tags": [
+            "partidos políticos",
+            "baleares",
+            "obituarios",
+            "francesc antich",
+            "políticos",
+            "españa",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2025-01-02/fallece-el-expresidente-de-baleares-francesc-antich.html",
+        "date": "2025-01-02 22:34:58",
+        "sentiment_score": -0.7894720770418644
+    },
+    {
+        "title": "El Real Madrid pierde frente al Anadolu Efes en la Euroliga pese al conato de remontada liderado por Campazzo",
+        "image_url": "https://www.infobae.com/resizer/v2/WFULNLPWT5APNBRIA2RU3ISKGE.jpg?auth=817d536b4e86d9fe15eaa679222525fb0c4b768ce23be6d5db42b6559e60e789&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/el-real-madrid-pierde-frente-al-anadolu-efes-en-la-euroliga-pese-al-conato-de-remontada-liderado-por-campazzo/",
+        "date": "2025-01-03 02:02:36",
+        "sentiment_score": 0.21109379827976227
+    },
+    {
+        "title": "Sánchez cumple dos meses sin pisar Valencia tras la DANA: a La Palma viajó 7 veces por una tragedia con un sólo muerto",
+        "image_url": "https://s1.elespanol.com/2025/01/02/valencia/913419134_252072974_1706x960.jpg?contentId=ESPIMA20250102_0485",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/valencia/20250103/sanchez-cumple-meses-sin-pisar-valencia-dana-palma-viajo-veces-tragedia-solo-muerto/913408881_0.html",
+        "date": "2025-01-03 01:52:05",
+        "sentiment_score": -0.9269262589514256
+    },
+    {
+        "title": "Crónica del Real Madrid - Anadolu Efes, 64-74",
+        "image_url": "https://www.infobae.com/resizer/v2/V5V5YAL3ZFFLHJTBTK5XJQEKYA.jpg?auth=d9b702bc98151d7bcb4a31eed9f8711f52ed290f2bc4c6db73ca77f918e91786&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/14/cronica-del-real-madrid-anadolu-efes-64-74/",
+        "date": "2025-01-03 01:32:19",
+        "sentiment_score": -0.3175600916147232
+    },
+    {
+        "title": "“¿River o Boca?”: la respuesta de Ricardo Bochini cuando le preguntaron qué equipo es más grande",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/03/river-o-boca-la-respuesta-de-ricardo-bochini-cuando-le-preguntaron-que-equipo-es-mas-grande/",
+        "date": "2025-01-03 01:28:38",
+        "sentiment_score": 0.24746575951576233
+    },
+    {
+        "title": "Ya puedes ver a los Reyes Magos sin esperar al domingo: horarios y recorridos de las otras Cabalgatas de Madrid",
+        "image_url": "https://s1.elespanol.com/2024/12/10/madrid/capital/907670017_251565222_1706x960.jpg?contentId=ESPIMA20241210_0793",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20250103/puedes-ver-reyes-magos-sin-esperar-domingo-horarios-recorridos-cabalgatas-madrid/913408783_0.html",
+        "date": "2025-01-03 01:25:02",
+        "sentiment_score": -0.13180219382047653
+    },
+    {
+        "title": "Los agentes forestales de Madrid inician 2025 en chalés que se caen a pedazos, con ratas y con temperaturas bajo cero",
+        "image_url": "https://s1.elespanol.com/2025/01/02/madrid/comunidad/913419191_252074741_1706x960.jpg?contentId=ESPIMA20250102_0542",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20250103/agentes-forestales-madrid-inician-chales-caen-pedazos-ratas-temperaturas-cero/913409023_0.html",
+        "date": "2025-01-03 01:24:59",
+        "sentiment_score": -0.7394763603806496
+    },
+    {
+        "title": "Arturo Vidal habló sobre los rumores que colocan a Keylor Navas en Colo Colo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/03/2025010302092716573.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/arturo-vidal-hablo-rumores-que-colocan-keylor-navas-colo-colo/20250103021002329339.html",
+        "date": "2025-01-03 01:10:02",
+        "sentiment_score": 0.46030009537935257
+    },
+    {
+        "title": "El Barça sienta un precedente único con Dani Olmo: inscripción ‘in extremis’ fuera de plazo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/02/culemania/palco/913418740_13933683_1706x960.png?contentId=ESPIMA20250102_0091",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250103/el-barca-precedente-dani-olmo-inscripcion-extremisfueradeplazo/913408737_0.html",
+        "date": "2025-01-03 01:03:21",
+        "sentiment_score": -0.807366281747818
+    },
+    {
+        "title": "La Rioja y Navarra arrancan el año con un impulso al 'agrotech': alianza regional y más apoyo al centro tecnológico CNTA",
+        "image_url": "https://s1.elespanol.com/2025/01/02/invertia/disruptores/autonomias/la-rioja/913418820_252063017_1706x960.jpg?contentId=ESPIMA20250102_0171",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/la-rioja/20250103/rioja-navarra-arrancan-ano-impulso-agrotech-alianza-regional-apoyo-centro-tecnologico-cnta/913408772_0.html",
+        "date": "2025-01-03 01:15:17",
+        "sentiment_score": 0.709922419860959
+    },
+    {
+        "title": "La grieta en el discurso jurídico del Barça para salvar a Dani Olmo y Pau Víctor",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/03/culemania/palco/913668625_13933837_1706x960.jpg?contentId=ESPIMA20250103_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250103/la-discurso-barca-dani-olmo-pau-victor/913658626_0.html",
+        "date": "2025-01-03 01:04:10",
+        "sentiment_score": 0.0535336434841156
+    },
+    {
+        "title": "El Real Madrid buscará el liderato en Mestalla",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/03/2025010301525274232.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/madrid-busca-liderato-solitario-mestalla/20250103015631329337.html",
+        "date": "2025-01-03 00:56:31",
+        "sentiment_score": 0.0746912732720375
+    },
+    {
+        "title": "Otro becerro de oro",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20250103/otro-becerro-oro_257869.html",
+        "date": "2025-01-03 00:30:00",
+        "sentiment_score": 0.30699221789836884
+    },
+    {
+        "title": "El Barça se juega sus cartas para evitar un desastre",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/20/2024112018460047518.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/laporta-barca-juegan-ultima-carta-laliga-inscribir-olmo/20250103012523329333.html",
+        "date": "2025-01-03 00:25:23",
+        "sentiment_score": -0.890934887342155
+    },
+    {
+        "title": "La intimidad del desafío familiar que ganaron los Messi: el heredero de la camiseta N° 10 y el guiño a la Selección",
+        "image_url": "https://www.infobae.com/resizer/v2/HZMIHC3B4VF7RFTLLEP3ECWV4E.jpg?auth=014abbb35c4567b558fb90202a6ece20cb20f81ca1a7e2eabfceb6fbd397305e&height=1080&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/03/la-intimidad-del-desafio-familiar-que-ganaron-los-messi-el-heredero-de-la-camiseta-n-10-y-el-guino-a-la-seleccion/",
+        "date": "2025-01-03 00:17:09",
+        "sentiment_score": 0.031361594796180725
+    },
+    {
+        "title": "Frenazo de las manufacturas en la eurozona con España como excepción",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/19b77d1d69dc39e43dfa0b7dfc224340/crop/217x135/1831x1211/resize/1200/f/webp/assets/multimedia/imagenes/2023/07/24/16902024368098.jpg",
+        "tags": [
+            "industria>",
+            "cataluña>",
+            "economía>",
+            "artículos david casals>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/01/03/67772b06468aeb0a0d8b4580.html",
+        "date": "2025-01-03 00:11:06",
+        "sentiment_score": -0.18924839794635773
+    },
+    {
+        "title": "Los hoteles lideran en 2024 la inversión inmobiliaria en Barcelona",
+        "image_url": "https://phantom-expansion.unidadeditorial.es/3011c24a5ab0c10bf0eeef6f0127b0c6/crop/210x136/1838x1220/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/03/17358624544595.jpg",
+        "tags": [
+            "mercado inmobiliario>",
+            "artículos david casals>",
+            "empresas>",
+            "transporte y turismo>",
+            "cataluña>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/01/03/6777287c468aebed138b4581.html",
+        "date": "2025-01-03 00:02:01",
+        "sentiment_score": 0.08413606882095337
+    },
+    {
+        "title": "Sorbo, otra noruega para la UD Costa Adeje",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61e7ee4b-6c53-4075-99cb-4f14a40031b5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/01/03/sorbo-noruega-ud-costa-adeje-113079338.html",
+        "date": "2025-01-03 00:00:22",
+        "sentiment_score": 0.249538853764534
     }
 ];
