@@ -1,183 +1,5 @@
 export default [
     {
-        "title": "BBVA baja un 0,4 % y Banco Sabadell un 0,23 % tras alargar la CNMC el estudio de la opa",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/bbva-baja-un-04-y-banco-sabadell-un-023-tras-alargar-la-cnmc-el-estudio-de-la-opa/",
-        "date": "2024-12-31 06:17:14",
-        "sentiment_score": -0.8537976071238518
-    },
-    {
-        "title": "Amaia Montero anuncia su vuelta a la música en 2025: “Trátame bien por favor, porque tus predecesores han sido muy duros conmigo”",
-        "image_url": "https://www.infobae.com/resizer/v2/6LWPX4TT4VADJLQRMG5EBLGU6Y.jpg?auth=cfc63bad7f41637616598e0abebfd4fe9f38f8ff924c4da5646a336cbd857d9a&height=667&smart=true&width=1000",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2024/12/31/amaia-montero-anuncia-su-vuelta-a-la-musica-en-2025-tratame-bien-por-favor-porque-tus-predecesores-han-sido-muy-duros-conmigo/",
-        "date": "2024-12-31 06:17:09",
-        "sentiment_score": 0.19173669815063477
-    },
-    {
-        "title": "España se prepara para Imagine Dragons, Billie Eilish y Ed Sheeran a la espera de Shakira",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/31/espana-se-prepara-para-imagine-dragons-billie-eilish-y-ed-sheeran-a-la-espera-de-shakira/",
-        "date": "2024-12-31 06:15:23",
-        "sentiment_score": 0.058906856924295425
-    },
-    {
-        "title": "El Levante modifica el lugar de entrenamiento por la alerta meteorológica",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-levante-modifica-el-lugar-de-entrenamiento-por-la-alerta-meteorologica/",
-        "date": "2024-12-31 06:03:23",
-        "sentiment_score": -0.7814989583566785
-    },
-    {
-        "title": "Renfe reprograma las Cercanías del núcleo de València ante la nueva alerta de dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/renfe-reprograma-las-cercanias-del-nucleo-de-valencia-ante-la-nueva-alerta-de-dana/",
-        "date": "2024-12-31 06:02:45",
-        "sentiment_score": 0.029725633561611176
-    },
-    {
-        "title": "Aemet eleva a rojo el aviso por lluvias en Valencia con hasta 180 l/m2 en 12 horas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/aemet-eleva-a-rojo-el-aviso-por-lluvias-en-valencia-con-hasta-180-lm2-en-12-horas/",
-        "date": "2024-12-31 06:02:26",
-        "sentiment_score": -0.24676796048879623
-    },
-    {
-        "title": "El desbordamiento del río Vélez obliga a desalojar dos cámpines y un núcleo chabolista",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-desbordamiento-del-rio-velez-obliga-a-desalojar-dos-campines-y-un-nucleo-chabolista/",
-        "date": "2024-12-31 06:02:07",
-        "sentiment_score": -0.8132623694837093
-    },
-    {
-        "title": "Marlaska reprocha al PP su cinismo en la dana y que no crea en la competencia de Mazón",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/marlaska-reprocha-al-pp-su-cinismo-en-la-dana-y-que-no-crea-en-la-competencia-de-mazon/",
-        "date": "2024-12-31 05:48:22",
-        "sentiment_score": -0.8985284324735403
-    },
-    {
-        "title": "El Diccionario panhispánico y la Gramática española se ponen al día en Quito",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/el-diccionario-panhispanico-y-la-gramatica-espanola-se-ponen-al-dia-en-quito/",
-        "date": "2024-12-31 05:48:02",
-        "sentiment_score": 0.03824837505817413
-    },
-    {
-        "title": "Planas pide al comisario europeo de Agricultura movilizar la reserva agrícola por la dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/13/planas-pide-al-comisario-europeo-de-agricultura-movilizar-la-reserva-agricola-por-la-dana/",
-        "date": "2024-12-31 05:47:44",
-        "sentiment_score": -0.48011768609285355
-    },
-    {
-        "title": "Las 200 frases más destacadas de 2024: discusiones políticas y disputas personales de una Argentina vehemente",
-        "image_url": "https://www.infobae.com/resizer/v2/QCTEDJX2YNHBLMYZHTMZOEGDRI.jpg?auth=edd76d8c29d23c1d27dd241d319a552df0a0c32d05b506725432a84a3f8ee1d6&height=4504&smart=true&width=8004",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/politica/2024/12/31/las-200-frases-mas-destacadas-de-2024-discusiones-politicas-y-disputas-personales-de-una-argentina-vehemente/",
-        "date": "2024-12-31 06:08:54",
-        "sentiment_score": -0.7605028171092272
-    },
-    {
-        "title": "El Grupo ACS cierra un 2024 de récord",
-        "image_url": "https://okdiario.com/img/2024/12/23/the-spiral-en-nueva-york.--acs-1.jpg",
-        "tags": [
-            "digitalización",
-            "no-publi",
-            "europa",
-            "empresas",
-            "economía",
-            "acs",
-            "eeuu",
-            "sector tecnológico",
-            "inversión"
-        ],
-        "link": "https://okdiario.com/economia/grupo-acs-cierra-2024-record-13961841",
-        "date": "2024-12-31 06:00:04",
-        "sentiment_score": 0.528700977563858
-    },
-    {
-        "title": "2024, cuando la vergüenza cambió de bando: el año de Gisèle Pelicot, Nevenka Fernández y el 'Me Too' español",
-        "image_url": "https://www.elplural.com/uploads/s1/18/93/56/8/diseno-sin-titulo-2_7_480x270.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.elplural.com/sociedad/2024-cuando-verguenza-cambio-bando-ano-gisele-pelicot-nevenka-fernandez-me-too-espanol_343572102",
-        "date": "2024-12-31 06:00:00",
-        "sentiment_score": -0.20309272408485413
-    },
-    {
-        "title": "La historia de amor de Cuti Romero y Karen Cavaller, del “match” en Córdoba a la vida juntos en Europa",
-        "image_url": "https://www.infobae.com/resizer/v2/5CJ7M4CJK5EMHEVPQOA2NZZCMA.jfif?auth=a10199f0f6eeb27b4f4c7540d9ebf08b13fa44bfe11bf4baef641e031ef9a5fb&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2024/12/31/la-historia-de-amor-de-cuti-romero-y-karen-cavaller-del-match-en-cordoba-a-la-vida-juntos-en-europa/",
-        "date": "2024-12-31 05:53:54",
-        "sentiment_score": 0.08092410862445831
-    },
-    {
-        "title": "La vivienda finaliza 2024 un 1% más cara que hace un año en Extremadura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3c99f7f3-bac1-44e5-9f49-b8467e5df233_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/extremadura/2024/12/31/vivienda-finaliza-2024-1-cara-113028159.html",
-        "date": "2024-12-31 05:46:05",
-        "sentiment_score": 0.1169641762971878
-    },
-    {
-        "title": "Lo más destacado del calendario deportivo de 2025: récord de partidos, Alcaraz buscará hacer historia y verano de Eurobasket, entre otros eventos",
-        "image_url": "https://www.infobae.com/resizer/v2/UII2Z2VD5BDAVD4UVQPE7S76ZA.png?auth=3eb8494695b2ad0d63bdb7c92c80d64a9e801d180641d63cda7f60c19c9619d2&height=623&smart=true&width=1102",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2024/12/31/lo-mas-destacado-del-calendario-deportivo-de-2025-record-de-partidos-alcaraz-buscara-hacer-historia-y-verano-de-eurobasket-entre-otros-eventos/",
-        "date": "2024-12-31 05:29:10",
-        "sentiment_score": 0.84967359341681
-    },
-    {
-        "title": "La inversión en edificios de oficinas se recupera a golpe de 'opas' y ampliaciones de capital",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2d553cd0-8fd5-4810-a457-ac1d1dc856ef_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/economia/2024/12/31/inversion-oficinas-2024-113028395.html",
-        "date": "2024-12-31 06:20:39",
-        "sentiment_score": 0.3040347024798393
-    },
-    {
         "title": "Radiografía de un año crítico: el mercado inmobiliario cierra el 2024 con la vivienda como principal problema en España y alquileres cada vez más caros",
         "image_url": "https://www.infobae.com/resizer/v2/XQKKDO4AVNFPZOLRS3QO7CRDKA.jpg?auth=72c18fd8880010885dfe6ff306eb6bdeeac78d8463ca41f0b9272cc7ae6eab11&height=1216&smart=true&width=1920",
         "tags": [
@@ -546,29 +368,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2024-12-31/detenidos-en-elche-cuatro-menores-por-su-presunta-relacion-con-el-yihadismo.html",
         "date": "2024-12-31 10:18:04",
         "sentiment_score": -0.5802950859069824
-    },
-    {
-        "title": "Tomarse las uvas en la Puerta del Sol: guía para pasar la Nochevieja en Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TTRV466AW3DZ2Y4RUXK73CY5CY.jpg?auth=2953516bdbb3fd25049d69d6328890e5150fad22b639d9d647bddbf2ade88ae4&width=1200",
-        "tags": [
-            "tradiciones navidad",
-            "policía municipal",
-            "puerta del sol",
-            "relojes",
-            "bomberos",
-            "seguridad ciudadana",
-            "policía nacional",
-            "madrid",
-            "samur",
-            "nochevieja",
-            "comunidad de madrid",
-            "uvas",
-            "año nuevo",
-            "protección civil"
-        ],
-        "link": "https://elpais.com/espana/madrid/2024-12-31/tomarse-las-uvas-en-la-puerta-del-sol-guia-para-pasar-la-nochevieja-en-madrid.html",
-        "date": "2024-12-31 07:29:16",
-        "sentiment_score": -0.2432229332625866
     },
     {
         "title": "Agenda Informativa de Europa Press para el 14 de noviembre ( 1 )",
@@ -7122,5 +6921,538 @@ export default [
         "link": "https://www.eldiariomontanes.es/nacional/mossos-acusan-traicion-agente-ayudo-huir-puigdemont-20250103175413-ntrc.html",
         "date": "2025-01-03 16:54:13",
         "sentiment_score": -0.7665890716016293
+    },
+    {
+        "title": "Bordalás dice que es una “gran noticia” el triunfo y el gol de Borja Mayoral",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/03/bordalas-dice-que-es-una-gran-noticia-el-triunfo-y-el-gol-de-borja-mayoral/",
+        "date": "2025-01-03 22:01:53",
+        "sentiment_score": 0.871824724599719
+    },
+    {
+        "title": "Dalisson: \"Ahora nos gustaría un grande, un Real Madrid o un Barcelona\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/03/dalisson-ahora-nos-gustaria-un-grande-un-real-madrid-o-un-barcelona/",
+        "date": "2025-01-03 22:01:37",
+        "sentiment_score": 0.03686133027076721
+    },
+    {
+        "title": "Escribá acaba “satisfecho” con el partido y “contrariado” con la eliminación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/03/escriba-acaba-satisfecho-con-el-partido-y-contrariado-con-la-eliminacion/",
+        "date": "2025-01-03 22:01:20",
+        "sentiment_score": -0.012271285057067871
+    },
+    {
+        "title": "El Sevilla inscribe a José Ángel Carmona como futbolista del primer plantel",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/03/el-sevilla-inscribe-a-jose-angel-carmona-como-futbolista-del-primer-plantel/",
+        "date": "2025-01-03 22:01:03",
+        "sentiment_score": 0.09593525528907776
+    },
+    {
+        "title": "Illa emplaza a fortalecer el vínculo del Puerto de Barcelona con El Prat y la Zona Franca",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/15/illa-emplaza-a-fortalecer-el-vinculo-del-puerto-de-barcelona-con-el-prat-y-la-zona-franca/",
+        "date": "2025-01-03 21:48:44",
+        "sentiment_score": 0.5706206858158112
+    },
+    {
+        "title": "Cox debuta en la Bolsa española con pérdidas que han llegado a superar el 4 %",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/15/cox-debuta-en-la-bolsa-espanola-con-perdidas-que-han-llegado-a-superar-el-4/",
+        "date": "2025-01-03 21:48:24",
+        "sentiment_score": 0.19822370260953903
+    },
+    {
+        "title": "El español Máximo Quiles regresa al equipo de Aspar para el Mundial de Moto3 en 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/15/el-espanol-maximo-quiles-regresa-al-equipo-de-aspar-para-el-mundial-de-moto3-en-2025/",
+        "date": "2025-01-03 21:48:05",
+        "sentiment_score": 0.7931330893188715
+    },
+    {
+        "title": "Aspas: \"El equipo mira hacia arriba\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/15/aspas-el-equipo-mira-hacia-arriba/",
+        "date": "2025-01-03 21:47:47",
+        "sentiment_score": 0.8565763421356678
+    },
+    {
+        "title": "El fútbol vuelve a Valencia con un emotivo Levante-Elche",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/15/el-futbol-vuelve-a-valencia-con-un-emotivo-levante-elche/",
+        "date": "2025-01-03 21:47:28",
+        "sentiment_score": 0.5397085025906563
+    },
+    {
+        "title": "Íñigo Pérez: \"Hemos tenido precisión en un área; en la otra hemos sido sólidos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/03/inigo-perez-hemos-tenido-precision-en-un-area-en-la-otra-hemos-sido-solidos/",
+        "date": "2025-01-03 21:47:21",
+        "sentiment_score": 0.36093777418136597
+    },
+    {
+        "title": "Encuentran huellas de dinosaurio de 166 millones de años en el Reino Unido",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/fosil-dinosaurio-uk-huella-trax.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fosiles-huellas-dinosaurios-reino-unido-trax-cafe-tv/",
+        "date": "2025-01-03 21:40:27",
+        "sentiment_score": 0.1879783421754837
+    },
+    {
+        "title": "El consumo de alcohol aumentaría el riesgo de padecer al menos siete tipos de cáncer",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/230203185354-alcohol-dementia-study-wellness-stock-20250103202124133.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/consumo-alcohol-cancer-advertencia-ush-trax/",
+        "date": "2025-01-03 20:26:39",
+        "sentiment_score": -0.32614388689398766
+    },
+    {
+        "title": "Mike Johnson logra evitar una segunda ronda de votación y es reelegido presidente de la Cámara de Representantes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191708501.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-mike-johnson-votacion-presidente-camara-representantes-rba-tv/",
+        "date": "2025-01-03 20:15:22",
+        "sentiment_score": -0.2558152973651886
+    },
+    {
+        "title": "Un “objeto espacial” se estrella en una aldea remota de Kenya",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/objeto-espacial-cohete-aldea-kenya-cafe-tv/",
+        "date": "2025-01-03 20:07:59",
+        "sentiment_score": -0.8484167605638504
+    },
+    {
+        "title": "Cambios en los programas de visas H-1B y H-2B en EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fast – general",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-cambios-visas-h1b-h2b-trabajadores-ush/",
+        "date": "2025-01-03 20:02:52",
+        "sentiment_score": 0.30235910043120384
+    },
+    {
+        "title": "OEA: La detención del gendarme argentino en Venezuela viola los principios fundamentales de humanidad y justicia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21256175-1207200-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/oea-detencion-gendarme-argentino-crimen-lesa-humanidad/",
+        "date": "2025-01-03 19:21:48",
+        "sentiment_score": -0.9310615863651037
+    },
+    {
+        "title": "Abuelas de Plaza de Mayo rechazan los recortes de fondos del gobierno de Milei",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/pkg-20250103190656990.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/argentina-abuelas-plaza-de-mayo-milei-redaccion-buenos-aires-tv/",
+        "date": "2025-01-03 19:19:44",
+        "sentiment_score": -0.8647966599091887
+    },
+    {
+        "title": "Las aerolíneas más puntuales del mundo en 2024, según Cirium",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2068287086.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – general"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aerolineas-mas-puntuales-del-mundo-2024-redaccion-buenos-aires-tv/",
+        "date": "2025-01-03 19:19:16",
+        "sentiment_score": 0.40112345665693283
+    },
+    {
+        "title": "Conoce La Pawnadería y su pan dulce mexicano... para perros",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/29976211-36691823-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pan-dulce-pawnaderia-ush-orix/",
+        "date": "2025-01-03 19:02:12",
+        "sentiment_score": 0.3911566361784935
+    },
+    {
+        "title": "Preocupan en Honduras las amenazas de deportaciones masivas de Trump y se preparan para responder",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/24185381-12981955-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/preocupan-honduras-deportaciones-masivas-trump-cafe/",
+        "date": "2025-01-03 17:41:33",
+        "sentiment_score": -0.5465363711118698
+    },
+    {
+        "title": "Los dos amaneceres",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/12/29/vacaciones-tenerife-despide-trabajadores-kGo--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/dos-amaneceres-20250104215101-nts.html",
+        "date": "2025-01-03 20:54:23",
+        "sentiment_score": 0.04242074489593506
+    },
+    {
+        "title": "El cobijo real",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/12/30/dolor-estomago-kb2D--1248x698@ab-k8JB--170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-cobijo-real-20250104214152-nts.html",
+        "date": "2025-01-03 20:47:14",
+        "sentiment_score": 0.015247374773025513
+    },
+    {
+        "title": "Sagrados corazones y mascotas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/04/ABC_ANGULOOSCURO_Simbolosreligiosos_PRADA-RxoDwvX1LVf02eFLQ6Ez0bP-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-sagrados-corazones-mascotas-20250104211027-nt.html",
+        "date": "2025-01-03 20:16:12",
+        "sentiment_score": -0.1210610568523407
+    },
+    {
+        "title": "Lalachús como género literario",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2024/12/30/cestas-U73513087517lTw-170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alfonso-j-ussia-lalachus-genero-literario-20250104155827-nt.html",
+        "date": "2025-01-03 19:34:42",
+        "sentiment_score": -0.18224777281284332
+    },
+    {
+        "title": "Añoranza de otra España",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/02/Alejandro%20Moreno-kMzG--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/isabel-san-sebastian-anoranza-espana-20250104142456-nt.html",
+        "date": "2025-01-03 19:34:32",
+        "sentiment_score": -0.1035897433757782
+    },
+    {
+        "title": "Chavesnogaliana",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/02/Alejandro%20Moreno-kMzG--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-chavesnogalismo-20250104121444-nt.html",
+        "date": "2025-01-03 19:34:21",
+        "sentiment_score": -0.3592534214258194
+    },
+    {
+        "title": "Elogio del silencio",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/03/250104TerceraSerra.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/maurizio-serra-elogio-silencio-20250104124942-nt.html",
+        "date": "2025-01-03 19:34:15",
+        "sentiment_score": -0.0772612988948822
+    },
+    {
+        "title": "Vaquillas y cabestros",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2024/12/30/dolor-estomago-kb2D--1248x698@ab-k8JB--170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-vaquillas-cabestros-20250104133600-nt.html",
+        "date": "2025-01-03 19:34:11",
+        "sentiment_score": -0.10825029015541077
+    },
+    {
+        "title": "La historia y la memoria",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/30/cabalgata-cadiz-U67576854816EvU-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-garcia-cuartango-historia-memoria-20250104135727-nt.html",
+        "date": "2025-01-03 19:33:44",
+        "sentiment_score": -0.14745625853538513
+    },
+    {
+        "title": "La magia de la Cabalgata de los Reyes Magos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/04/rey-melchor-tribuna-RSBnFojjEVX2T82tfn6gtXP-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-fabiani-magia-cabalgata-reyes-magos-20250104202615-nts.html",
+        "date": "2025-01-03 19:31:50",
+        "sentiment_score": 0.07676276564598083
+    },
+    {
+        "title": "Una asociación denuncia ante Igualdad la organización de terapias de conversión para homosexuales en siete diócesis españolas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3ZBLT6UQKFCJRNNBXMWNPIJIWI.jpg?auth=df33f508c8317e6e54a691318a08f641e730ee9016805f475b7253d01246e8b3&width=1200",
+        "tags": [
+            "comunidad lgtbiq",
+            "lgtbifobia",
+            "sigüenza",
+            "provincia guadalajara",
+            "homofobia",
+            "ministerio de igualdad",
+            "iglesia católica",
+            "españa",
+            "diócesis"
+        ],
+        "link": "https://elpais.com/espana/2025-01-03/una-asociacion-denuncia-ante-igualdad-la-organizacion-de-terapias-de-conversion-para-homosexuales-en-siete-diocesis-espanolas.html",
+        "date": "2025-01-03 19:45:14",
+        "sentiment_score": 0.06980454921722412
+    },
+    {
+        "title": "La cifra de fallecidos por la dana de Valencia sube a 224 tras la muerte de una mujer de 79 años que estaba hospitalizada",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TEBQLOHPBJCDVMKTRCVIHXRI4U.jpg?auth=4e0232217447dda11e83348ff997a6faa9d848c73ebd6f46848435cefd08a92b&width=1200",
+        "tags": [
+            "valencia",
+            "inundaciones",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "comunidad valenciana",
+            "muertes"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-03/sube-a-224-la-cifra-de-muertos-en-las-riadas-de-la-dana-de-valencia-con-tres-desaparecidos.html",
+        "date": "2025-01-03 19:43:57",
+        "sentiment_score": -0.545843742787838
+    },
+    {
+        "title": "Los Mossos detienen por tocamientos a un acusado de maltrato en una residencia de ancianos en Nochevieja",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KLSYQ32RGZFXLNNDYPWLUR2EWE?auth=cb258390748bee02505d09b417cc52f6e8de0d340725391bc711a06c1fa4af86&width=1200",
+        "tags": [
+            "cataluña",
+            "sucesos",
+            "mossos d'esquadra",
+            "residencias ancianos",
+            "barcelona",
+            "nochevieja",
+            "agresiones sexuales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-03/los-mossos-detienen-por-tocamientos-a-un-acusado-de-maltrato-en-una-residencia-de-ancianos-en-nochevieja.html",
+        "date": "2025-01-03 19:21:28",
+        "sentiment_score": -0.7935298644006252
+    },
+    {
+        "title": "Francesc Antich y el acertado riesgo de lograr grandes coaliciones de progreso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CGWA6JMOVBAELLLWFSN6JWZ65Q.jpg?auth=75db2e4e359bb365af929b17a1a26607e5bbd1ff3de9510d06d3615bd27ca211&width=1200",
+        "tags": [
+            "españa",
+            "palma",
+            "obituarios",
+            "comunidades autónomas",
+            "baleares",
+            "psoe",
+            "francesc antich"
+        ],
+        "link": "https://elpais.com/espana/2025-01-03/francesc-antich-y-el-acertado-riesgo-de-lograr-grandes-coaliciones-de-progreso.html",
+        "date": "2025-01-03 18:40:59",
+        "sentiment_score": -0.7121373675763607
+    },
+    {
+        "title": "Turull pide por carta a Bolaños que no le indulte para no “blanquear” al Supremo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6SJJTSAC7VG2HIUSFUVS6DXB5E.jpg?auth=aec495812821d28f6f237d3f2e2e6d5856ce9c3eabdc1baa9904825d5635bc67&width=1200",
+        "tags": [
+            "amnistía",
+            "procés independentista catalán",
+            "jueces",
+            "barcelona",
+            "indulto",
+            "jordi turull",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-03/turull-pide-por-carta-a-bolanos-que-no-le-indulte-para-no-blanquear-al-supremo.html",
+        "date": "2025-01-03 17:09:49",
+        "sentiment_score": -0.8549706693738699
+    },
+    {
+        "title": "Madrid enfría el reparto extraordinario de menores migrantes y se enroca en la reforma de extranjería",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/00a385be-8473-4113-98e0-e4869904dbc2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/canarias/2025/01/03/madrid-enfria-reparto-extraordinario-menores-113106023.html",
+        "date": "2025-01-03 22:09:13",
+        "sentiment_score": 0.21227698028087616
+    },
+    {
+        "title": "LaLiga EA Sports | El Espanyol respira: la derrota del Valencia ante el Madrid mantiene la ventaja blanquiazul",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/01/laliga-ea-sports-jornada-12-valencia-madrid-750x375.jpg",
+        "tags": [
+            "espanyol",
+            "resultados",
+            "valencia",
+            "clasificación",
+            "real madrid",
+            "actualidad"
+        ],
+        "link": "https://lagradaonline.com/espanyol-valencia-cf-real-madrid-jornada-12-laliga-ea-sports/",
+        "date": "2025-01-03 22:07:54",
+        "sentiment_score": 0.6529251337051392
+    },
+    {
+        "title": "El Real Madrid hace la heroica en Mestalla después de quedarse con 10 por la roja a Vinicius",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/03/67785ed8b0c64.r_d.871-455.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250103/real-madrid-hace-heroica-mestalla-despues-quedarse-10-roja-vinicius_258193.html",
+        "date": "2025-01-03 22:07:04",
+        "sentiment_score": -0.038031548261642456
+    },
+    {
+        "title": "Vídeo resumen y mejores imágenes del Valencia - Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3fe0719-12bf-4e6f-aebe-fa044b886cf6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia cf,real madrid,valencia,mestalla"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/03/video-resumen-mejores-imagenes-valencia-113105625.html",
+        "date": "2025-01-03 22:00:25",
+        "sentiment_score": 0.7130618393421173
+    },
+    {
+        "title": "Protestas y cargas policiales en el acceso a Mestalla antes del Valencia-Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2025/01/03/protestas-cargas-policiales-acceso-mestalla-113105930.html",
+        "date": "2025-01-03 21:59:43",
+        "sentiment_score": -0.8910669665783644
+    },
+    {
+        "title": "Mateu Lahoz, sobre si Bellingham debió repetir el penalti por la posición de Dimitrievski: \"Te mete en un marrón\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2025/01/03/67785874863e4.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mateu-lahoz-sobre-bellingham-debio-repetir-penalti-posicion-dimitrievski-te-mete-marron-20250103_3072030.html",
+        "date": "2025-01-03 21:52:20",
+        "sentiment_score": -0.054959386587142944
+    },
+    {
+        "title": "Las mejores fotos del partido entre el Valencia y el Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e20460d0-94ea-4c16-8ce4-9fc9f858dfd1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/fotos/deportes/2025/01/03/mejores-fotos-partido-valencia-real-113105678.html",
+        "date": "2025-01-03 21:47:33",
+        "sentiment_score": 0.6573022864758968
+    },
+    {
+        "title": "El Real Madrid, a poner fin a la maldición del 'clásico'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/15/el-real-madrid-a-poner-fin-a-la-maldicion-del-clasico/",
+        "date": "2025-01-03 21:47:08",
+        "sentiment_score": 0.6058221571147442
+    },
+    {
+        "title": "Barcelona bada. Isabel Llorach l’espavila (1933)",
+        "image_url": "https://static1.ara.cat/clip/a3918a27-b071-4b29-95ec-58c4cdacbaac_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/barcelona-bada-isabel-llorach-l-espavila-1933_1_5243564.html",
+        "date": "2025-01-03 22:12:09",
+        "sentiment_score": -0.2936955839395523
+    },
+    {
+        "title": "Y ahora, una de las pistas más duras de la ACB",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/01/04/dep-tenerife-kRG-U230446346711QmB-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/pistas-duras-acb-20250104231146-nt.html",
+        "date": "2025-01-03 22:11:46",
+        "sentiment_score": 0.5864793136715889
+    },
+    {
+        "title": "Al final nunca pasa nada, hasta que pasa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef350152-f83c-466c-b77c-e886033e344d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "niños,aficionados,padres,público,trabajo"
+        ],
+        "link": "https://www.superdeporte.es/opinion/2025/01/03/final-pasa-pasa-113105163.html",
+        "date": "2025-01-03 22:00:36",
+        "sentiment_score": -0.6732399240136147
+    },
+    {
+        "title": "La Policía buscaba marihuana... y encuentra, además, dos granadas de mano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/03400f1d-8d0a-482c-a228-7f52147c963c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20250104/policia-marihuana-granadas-de-mano-barcelona-113106759",
+        "date": "2025-01-03 22:00:25",
+        "sentiment_score": -0.7033640239387751
+    },
+    {
+        "title": "La belleza de lo desconocido",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/01/04/197714430--1200x840.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/culturas/trazos/belleza-desconocido-20250104230012-nt.html",
+        "date": "2025-01-03 22:00:13",
+        "sentiment_score": 0.7265553921461105
+    },
+    {
+        "title": "El Barça recupera la calma en París tras la 'tormenta' Heurtel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e94927fb-4e22-4083-b42b-c9073961fa85_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "baloncesto,fc barcelona de baloncesto,euroliga"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2025/01/03/barca-recupera-calma-paris-tormenta-113105929.html",
+        "date": "2025-01-03 21:59:23",
+        "sentiment_score": 0.6577278971672058
     }
 ];
