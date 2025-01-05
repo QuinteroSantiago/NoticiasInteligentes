@@ -121,38 +121,6 @@ export default [
         "sentiment_score": -0.7001050021499395
     },
     {
-        "title": "Imágenes de la escena tras el incidente masivo en el Barrio Francés de Nueva Orleans",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/bourbon-street-nueva-orleans.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nueva-orleans-barrio-frances-heridos-muertos-eeuu-trax/",
-        "date": "2025-01-01 13:04:12",
-        "sentiment_score": -0.8009198755025864
-    },
-    {
-        "title": "Última hora del atropellamiento en Nueva Orleans: número de fallecidos, heridos, noticias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/nueva-orleans.jpeg?quality=100&strip=info",
-        "tags": [
-            "nueva orleans",
-            "minuto a minuto",
-            "estados unidos noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/01/ultima-hora-atropellamien-nueva-orleans-fallecidos-heridos-noticias-y-mas-trx/",
-        "date": "2025-01-01 12:06:36",
-        "sentiment_score": -0.3709469325840473
-    },
-    {
-        "title": "Así celebraron la llegada del 2025 alrededor del mundo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/2024-12-31t233429z-401936605-rc2n0caa7gsj-rtrmadp-3-new-year-france-fireworks-20250101105931537.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ano-nuevo-2025-mundo-celebra-orix/",
-        "date": "2025-01-01 11:03:13",
-        "sentiment_score": 0.6791862547397614
-    },
-    {
         "title": "Todo lo que se sabe sobre el ataque de Nueva Orleans que ha dejado varios muertos y heridos en un atropello masivo",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/01/furgoneta-nueva-orleans-kkOI-U7056516056cQG-1200x840@diario_abc.jpg",
         "tags": [
@@ -226,81 +194,6 @@ export default [
         "link": "https://elpais.com/espana/2025-01-01/una-macrofiesta-no-autorizada-reune-a-cientos-de-personas-junto-al-aeropuerto-de-ciudad-real.html",
         "date": "2025-01-01 15:00:40",
         "sentiment_score": 0.17276954278349876
-    },
-    {
-        "title": "Muere un joven de 19 años atropellado accidentalmente en la estación de Cercanías de Sol",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZDSSHWVTVZOMBP6RLK3SQSJYYQ.jpg?auth=11b38f0d368658bd7730950de9fc5be8ab96ddb57b6c5a511d1ef53edb0a0c5c&width=1200",
-        "tags": [
-            "accidentes",
-            "accidentes ferrocarril",
-            "emergencias",
-            "comunidad de madrid",
-            "atropellos",
-            "cercanías madrid",
-            "cercanías",
-            "samur",
-            "investigación judicial",
-            "renfe",
-            "año nuevo",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-01/muere-un-joven-de-19-anos-atropellado-accidentalmente-en-la-estacion-de-cercanias-de-sol.html",
-        "date": "2025-01-01 13:46:19",
-        "sentiment_score": -0.784439017996192
-    },
-    {
-        "title": "Lucía, nacida en la localidad madrileña de Torrejón de Ardoz, la primera bebé española de 2025",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RSNJ5IVJFLUVWVMZRSB3Z742NU.jpg?auth=cd5c746e2847428950017e04db31f51ee2881cf7c23d8ccf44572dd839e95f23&width=1200",
-        "tags": [
-            "hospitales",
-            "partos hospitalarios",
-            "comunidad de madrid",
-            "bebés",
-            "familia",
-            "año nuevo",
-            "torrejón de ardoz",
-            "madrid",
-            "navidad",
-            "nochevieja"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-01/lucia-nacida-en-la-localidad-madrilena-de-torrejon-de-ardoz-la-primera-bebe-espanola-de-2025.html",
-        "date": "2025-01-01 11:20:43",
-        "sentiment_score": 0.22178640961647034
-    },
-    {
-        "title": "Los Mossos detienen a 75 personas en Nochevieja en Cataluña, el doble que en 2024",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OZJ2P3IX2A6WETE5T6VUTIWVGI.jpg?auth=09eed1a673af0c76d8f5e74d25c4694e589da1a88b5f78b49590251795b8b187&width=1200",
-        "tags": [
-            "detenciones",
-            "nochevieja",
-            "cataluña",
-            "celebraciones",
-            "policía",
-            "mossos d'esquadra",
-            "fiestas",
-            "sucesos",
-            "accidentes tráfico"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-01/los-mossos-detienen-a-75-personas-en-nochevieja-en-cataluna-el-doble-que-en-2024.html",
-        "date": "2025-01-01 10:52:41",
-        "sentiment_score": -0.67010198533535
-    },
-    {
-        "title": "Barcelona, una fiesta igual a otras mil",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MCFR5GGVVM2WZTTGYQD6ID6LVM.jpg?auth=e95d08a3a05e6138b5280c9cbe3111bb7d2ac36786c8e7d7c8b7066a6b78d71f&width=1200",
-        "tags": [
-            "cristina pedroche",
-            "tv3",
-            "cataluña",
-            "nochevieja",
-            "barcelona",
-            "crítica televisión",
-            "miki núñez",
-            "laura escanes"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-01/barcelona-una-fiesta-igual-a-otras-mil.html",
-        "date": "2025-01-01 10:20:15",
-        "sentiment_score": -0.2574884742498398
     },
     {
         "title": "El Gobierno afirma que la economía española crecerá en 2025 por encima del 2,4%",
@@ -7098,5 +6991,359 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2025/01/04/hansi-flick-no-hubo-sensacion-de-que-el-equipo-este-sufriendo/",
         "date": "2025-01-04 21:15:18",
         "sentiment_score": -0.5087791606783867
+    },
+    {
+        "title": "La UE acuerda un presupuesto para 2025 un 1,78 % más alto que el de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/la-ue-acuerda-un-presupuesto-para-2025-un-178-mas-alto-que-el-de-2024/",
+        "date": "2025-01-05 02:03:58",
+        "sentiment_score": 0.3241356760263443
+    },
+    {
+        "title": "El Ángel Ximénez confía en la reacción con la visita del Recoletas Valladolid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/el-angel-ximenez-confia-en-la-reaccion-con-la-visita-del-recoletas-valladolid/",
+        "date": "2025-01-05 02:03:40",
+        "sentiment_score": -0.22331513464450836
+    },
+    {
+        "title": "El Gobierno emplaza a Mazón a que concrete las actuaciones prioritarias en las carreteras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/el-gobierno-emplaza-a-mazon-a-que-concrete-las-actuaciones-prioritarias-en-las-carreteras/",
+        "date": "2025-01-05 02:03:21",
+        "sentiment_score": 0.5484219044446945
+    },
+    {
+        "title": "Diana Morant insta al PP a dar un paso al frente y destituir a Mazón porque no debe seguir",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/diana-morant-insta-al-pp-a-dar-un-paso-al-frente-y-destituir-a-mazon-porque-no-debe-seguir/",
+        "date": "2025-01-05 02:03:02",
+        "sentiment_score": 0.030284911394119263
+    },
+    {
+        "title": "CaixaBank se adhiere a las líneas ICO para anticipar ayudas a los afectados por la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/caixabank-se-adhiere-a-las-lineas-ico-para-anticipar-ayudas-a-los-afectados-por-la-dana/",
+        "date": "2025-01-05 02:02:44",
+        "sentiment_score": 0.35446689277887344
+    },
+    {
+        "title": "El PP exige garantizar por ley la conectividad del transporte por carretera en la España rural",
+        "image_url": "https://www.infobae.com/resizer/v2/NYRSS2FP4BELLHKNJ2KU27P3XA.jpg?auth=40ba1d59bf2c2526ba0d78793af73b905f2d54fa2ef388bf8f870aa436186823&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/16/el-pp-exige-garantizar-por-ley-la-conectividad-del-transporte-por-carretera-en-la-espana-rural/",
+        "date": "2025-01-05 01:48:56",
+        "sentiment_score": -0.596589770168066
+    },
+    {
+        "title": "El MoraBanc, en fase de reconstrucción por las lesiones, recibe al líder Unicaja",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/el-morabanc-en-fase-de-reconstruccion-por-las-lesiones-recibe-al-lider-unicaja/",
+        "date": "2025-01-05 01:34:17",
+        "sentiment_score": 0.5991510227322578
+    },
+    {
+        "title": "Mireia Belmonte deja escapar una nueva oportunidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/mireia-belmonte-deja-escapar-una-nueva-oportunidad/",
+        "date": "2025-01-05 01:33:59",
+        "sentiment_score": -0.8782370192930102
+    },
+    {
+        "title": "Marlaska niega que hubiese un \"apagón informativo\" el día de la dana, como aseguró Mazón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/marlaska-niega-que-hubiese-un-apagon-informativo-el-dia-de-la-dana-como-aseguro-mazon/",
+        "date": "2025-01-05 01:33:40",
+        "sentiment_score": -0.8131364453583956
+    },
+    {
+        "title": "Colau se despide del liderazgo de los Comuns y llama a \"reconectar\" con la ciudadanía",
+        "image_url": "https://www.infobae.com/resizer/v2/NTUWKEE73VEPVPERHNFU75UWVE.jpg?auth=602a11655afbf322c8305cd3c6421c9d3f522216f3597ae730d83bbd80b2b6cc&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/colau-se-despide-del-liderazgo-de-los-comuns-y-llama-a-reconectar-con-la-ciudadania/",
+        "date": "2025-01-05 01:32:44",
+        "sentiment_score": -0.5005620047450066
+    },
+    {
+        "title": "“Fue el presidente de mi vida”: así despiden a Jimmy Carter",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/thumbnail-20250104162609657-20250105005635954.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/seguidores-jimy-carter-muestran-respeto-trax/",
+        "date": "2025-01-05 00:57:52",
+        "sentiment_score": -0.5196088291704655
+    },
+    {
+        "title": "El cuerpo de Jimmy Carter llegó a Atlanta para despedida de sus seguidores",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191866522.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cuerpo-jimmy-carter-atlanta-mirador-mundial-tv/",
+        "date": "2025-01-05 00:51:52",
+        "sentiment_score": 0.03142857551574707
+    },
+    {
+        "title": "Tormenta invernal en EE.UU. mantiene en alerta a 62 millones de personas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2187406656.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tormenta-invernal-afecta-eeuu-mirador-mundial-tv-fast/",
+        "date": "2025-01-05 00:33:42",
+        "sentiment_score": -0.8676248211413622
+    },
+    {
+        "title": "Durante su visita a Argentina, González Urrutia anuncia reunión con Biden",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191802941.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-visita-argentina-mirador-mundial-tv/",
+        "date": "2025-01-05 00:11:08",
+        "sentiment_score": 0.06855252385139465
+    },
+    {
+        "title": "Sospechoso del Cybertruck pasó a una estación de carga antes del incidente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/charging-clean-20250104235742443.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sospechoso-cybertruck-estacion-carga-trax/",
+        "date": "2025-01-04 23:59:46",
+        "sentiment_score": -0.5133150555193424
+    },
+    {
+        "title": "Edmundo González se reúne con Luis Lacalle Pou en Uruguay",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191853126.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-lacalle-pou-reunion-uruguay-mirador-mundial-tv-fast/",
+        "date": "2025-01-04 23:53:29",
+        "sentiment_score": -0.08941972255706787
+    },
+    {
+        "title": "'Los años nuevos'",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/04/sorogoyen-RPjWnX4mqNBzWKMAL5xBfBO-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-anos-nuevos-20250105020023-nt.html",
+        "date": "2025-01-05 01:00:45",
+        "sentiment_score": -0.13907116651535034
+    },
+    {
+        "title": "Edmundo González será recibido en Washington",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/05/edmundo-gonzalez-kxBG-U7068155668duH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/edmundo-gonzalez-recibido-washington-20250105004558-nt.html",
+        "date": "2025-01-04 23:47:01",
+        "sentiment_score": -0.1012183129787445
+    },
+    {
+        "title": "Un pequeño Silicon Valley en la Gran Vía de Madrid: así es el laboratorio donde FOSSA da vida a sus nuevos nanosatélites",
+        "image_url": "https://s1.elespanol.com/2025/01/02/invertia/disruptores/ecosistema-startup/startups/913418762_252061175_1706x960.jpg?contentId=ESPIMA20250102_0113",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250105/pequeno-silicon-valley-gran-via-madrid-laboratorio-fossa-da-vida-nuevos-nanosatelites/913408731_0.html",
+        "date": "2025-01-05 01:54:44",
+        "sentiment_score": 0.7886493410915136
+    },
+    {
+        "title": "Los 'novios' de Federico García Lorca: Todos los hombres del mito de la literatura",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/lorca-1735916541477_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/los-novios-federico-garcia-lorca",
+        "date": "2025-01-05 01:30:00",
+        "sentiment_score": 0.2621098607778549
+    },
+    {
+        "title": "¿Adiós al sueño? 93 millones podrían alejar al Madrid de su fichaje estrella",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/10/2024111000383163423.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/adios-sueno-93-millones-alejan-real-madrid-fichaje-estelar/20250105022301329542.html",
+        "date": "2025-01-05 01:23:01",
+        "sentiment_score": 0.9001220036298037
+    },
+    {
+        "title": "Encuentran muerto en un hotel al futbolista Mathías Acuña",
+        "image_url": "https://cflvdg.avoz.es/sc/YPZsFYu0B1vlzybeB7GR5GNgrqA=/768x/2025/01/05/00121736039995879989873/Foto/Mathias-Acuna-Efe.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2025/01/05/encuentran-muerto-hotel-futbolista-mathias-acuna/00031736040026060500817.htm",
+        "date": "2025-01-05 01:23:00",
+        "sentiment_score": -0.813263775780797
+    },
+    {
+        "title": "Redeños, paraguas y escaleras, los secretos para poder disfrutar de los Reyes Magos en una Cabalgata pasada por agua",
+        "image_url": "https://s1.elespanol.com/2025/01/03/madrid/ocio/913669280_252097336_1706x960.jpg?contentId=ESPIMA20250103_0656",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20250105/redenos-paraguas-escaleras-secretos-poder-disfrutar-reyes-magos-cabalgata-pasada-agua/913658969_0.html",
+        "date": "2025-01-05 00:37:08",
+        "sentiment_score": 0.7933246083557606
+    },
+    {
+        "title": "Nieves Herrero publica 'Luna Roja', una novela donde el crimen y misterio se dan la mano",
+        "image_url": "https://www.infobae.com/resizer/v2/KAG4AR5QZVH6DMYZH74QCUYPSY.jpg?auth=2518deac6592fdb84aef59d76901bebbdc164daf8b4adf414ecdc880fdb0b02d&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/16/nieves-herrero-publica-luna-roja-una-novela-donde-el-crimen-y-misterio-se-dan-la-mano/",
+        "date": "2025-01-05 00:32:22",
+        "sentiment_score": -0.30999287962913513
+    },
+    {
+        "title": "El Elche, rival de la UD Las Palmas en Copa del Rey, suma 20 años sin eliminar a un equipo de Primera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a1555d5d-5b71-49fa-bbea-94c193519623_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2025/01/05/elche-rival-ud-palmas-copa-113126694.html",
+        "date": "2025-01-05 00:31:04",
+        "sentiment_score": -0.25428394228219986
+    },
+    {
+        "title": "Equipos históricos fútbol español (XII): El Pontevedra CF, el matagigantes de la Copa",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/ponteveda_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/equipos-historicos-futbol-espanol-xii-pontevedra-cf-matagigantes-copa",
+        "date": "2025-01-05 00:30:00",
+        "sentiment_score": 0.5407075583934784
+    },
+    {
+        "title": "Cien días de Illa: vuelta a la \"normalidad\", énfasis en la gestión y atado a ERC y Comuns",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/cien-dias-de-illa-vuelta-a-la-normalidad-enfasis-en-la-gestion-y-atado-a-erc-y-comuns/",
+        "date": "2025-01-05 00:17:38",
+        "sentiment_score": 0.5992773361504078
+    },
+    {
+        "title": "Alianza por el Clima convoca mañana una \"vigilia solidaria\" con los afectados por la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/AJJZECMLLJGH3NLZI324LYWXYE.jpg?auth=f302be6c02498ee2dc45bce98305fa9d0e01fc6d66c5ba48442032a3fe947858&height=955&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/16/alianza-por-el-clima-convoca-manana-una-vigilia-solidaria-con-los-afectados-por-la-dana/",
+        "date": "2025-01-05 00:17:19",
+        "sentiment_score": -0.23525935411453247
+    },
+    {
+        "title": "Las últimas monjas clarisas del monasterio de Pedralbes de Barcelona marcan el fin de una era",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/01/18/61e605ffd8b67.r_d.767-512-3998.jpeg",
+        "tags": [
+            "red de lectores"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/red-lectores/20250105/10254569/ultimas-monjas-clarisas-monasterio-pedralbes-barcelona-marcan.html",
+        "date": "2025-01-05 02:00:00",
+        "sentiment_score": -0.31888801604509354
+    },
+    {
+        "title": "Bagnaia se lleva la pole en el primer asalto ante Jorge Martín, cuarto",
+        "image_url": "https://www.infobae.com/resizer/v2/2T2XOUWLB5FHLDPDIOCOOK5YYQ.jpg?auth=bb3e157d0377631f188776a9dc5e0b87a080fec97c745332372ef1ca0a6462a7&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/16/bagnaia-se-lleva-la-pole-en-el-primer-asalto-ante-jorge-martin-cuarto/",
+        "date": "2025-01-05 01:47:40",
+        "sentiment_score": 0.705666309222579
+    },
+    {
+        "title": "Chantal Delsol, la filósofa que mejor entiende el populismo: \"Trump es un payaso inteligente\"",
+        "image_url": "https://s1.elespanol.com/2024/12/17/reportajes/909419229_251741172_1706x960.jpg?contentId=ESPIMA20241217_0180",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250105/chantal-delsol-filosofa-mejor-entiende-populismo-trump-payaso-inteligente/909159684_0.html",
+        "date": "2025-01-05 01:45:26",
+        "sentiment_score": -0.8358579501509666
+    },
+    {
+        "title": "Expulsan del país a un colombiano tras hurtar un gran número de móviles durante las Fiestas del Pilar",
+        "image_url": "https://www.infobae.com/resizer/v2/MVH7PHIXFJFONHJIW6F46D3H7I.jpg?auth=29c294927827b59292408505ac8029fcd847311b5c469d624b752b519f6ae0cf&height=1270&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/16/expulsan-del-pais-a-un-colombiano-tras-hurtar-un-gran-numero-de-moviles-durante-las-fiestas-del-pilar/",
+        "date": "2025-01-05 01:32:06",
+        "sentiment_score": -0.7255004290491343
+    },
+    {
+        "title": "La ira del mariscal libio Haftar contra Pedro Sánchez por una redada de la Guardia Civil: \"Tendrá consecuencias\"",
+        "image_url": "https://s1.elespanol.com/2025/01/03/reportajes/913669372_252100089_1706x960.jpg?contentId=ESPIMA20250103_0748",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250105/ira-mariscal-libio-haftar-pedro-sanchez-redada-guardia-civil-consecuencias/913659035_0.html",
+        "date": "2025-01-05 01:29:49",
+        "sentiment_score": -0.8847219571471214
+    },
+    {
+        "title": "Cayetano Cordovés Dorta: \"Los adultos se sientes cada vez más atraídos por el libro con ilustraciones\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3b0f95bf-28c4-4013-8f16-999ec401ecdf_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/dominical/2025/01/05/cayetano-cordoves-dorta-adultos-sientes-113126873.html",
+        "date": "2025-01-05 01:13:49",
+        "sentiment_score": -0.1438061147928238
+    },
+    {
+        "title": "José Miguel Viñas, el meteorólogo que mira al cielo de los óleos de la historia del arte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/jose-miguel-vinas-el-meteorologo-que-mira-al-cielo-de-los-oleos-de-la-historia-del-arte/",
+        "date": "2025-01-05 01:04:18",
+        "sentiment_score": 0.06378121674060822
     }
 ];
