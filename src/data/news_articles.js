@@ -1,477 +1,5 @@
 export default [
     {
-        "title": "Colombiana denunció que fue víctima de xenofobia en España por compañero de trabajo: “Panchita”, “Sudaca”",
-        "image_url": "https://www.infobae.com/resizer/v2/RKVOXNCJTRBSPDSS7SYF2MMAO4.jpg?auth=46c6bf1701e9ea0bbf473ca7e32c61a32dc5ea2055d0bfb2b2fb6027ad19d4d9&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/01/01/colombiana-denuncio-que-fue-victima-de-xenofobia-en-espana-por-companero-de-trabajo-panchita-sudaca/",
-        "date": "2025-01-01 17:06:30",
-        "sentiment_score": -0.017087697982788086
-    },
-    {
-        "title": "Las dos condiciones que Cristina Pedroche impone a Antena 3 para presentar las campanadas",
-        "image_url": "https://www.infobae.com/resizer/v2/JDOFNRHC6NALVEG4XRFMT3KIK4.jpg?auth=871c404f7ab3b04b4c690ebddf79d63f16f17b76099defdd6888e1e048a0dc9d&height=837&smart=true&width=1448",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/01/las-dos-condiciones-que-cristina-pedroche-impone-a-antena-3-para-presentar-las-campanadas/",
-        "date": "2025-01-01 17:02:50",
-        "sentiment_score": 0.33761125802993774
-    },
-    {
-        "title": "El IBEX sube 0,31 % y mantiene los 11.400 puntos con el euro depreciándose frente al dólar",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/14/el-ibex-sube-031-y-mantiene-los-11400-puntos-con-el-euro-depreciandose-frente-al-dolar/",
-        "date": "2025-01-01 17:02:21",
-        "sentiment_score": 0.073146291077137
-    },
-    {
-        "title": "Ministro luso de Finanzas cree que Europa necesita cambiar regulación y sistema taxativo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/14/ministro-luso-de-finanzas-cree-que-europa-necesita-cambiar-regulacion-y-sistema-taxativo/",
-        "date": "2025-01-01 17:02:01",
-        "sentiment_score": 0.23761528730392456
-    },
-    {
-        "title": "Madrid admitirá fuera de Centro pisos turísticos en primeros y bajos con acceso único",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/14/madrid-admitira-fuera-de-centro-pisos-turisticos-en-primeros-y-bajos-con-acceso-unico/",
-        "date": "2025-01-01 17:01:42",
-        "sentiment_score": -0.01932978630065918
-    },
-    {
-        "title": "Qué documentos debes presentar para cobrar el subsidio de 480 euros si has trabajado menos de un año",
-        "image_url": "https://www.infobae.com/resizer/v2/DMS5EYAPQVHF3LYGPTNCWYSHMU.jpg?auth=5bf6a937d148175088bfffdecaec5697335b38c8728c69d1c0fdc0ad767927ee&height=836&smart=true&width=1254",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/01/que-documentos-debes-presentar-para-cobrar-el-subsidio-de-480-euros-si-has-trabajado-menos-de-un-ano/",
-        "date": "2025-01-01 16:58:22",
-        "sentiment_score": -0.4404272362589836
-    },
-    {
-        "title": "Cómo limpiar las manchas de vino tinto: sólo necesitas un producto",
-        "image_url": "https://www.infobae.com/resizer/v2/YAEBSOEONBC35B5HK4X3UTYRXA.jpg?auth=f4b547ec1941d4fba62916dea3ed22a9df8f0be60be3fc3a4160f1656cf5cf87&height=3000&smart=true&width=2000",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/01/como-limpiar-las-manchas-de-vino-tinto-solo-necesitas-un-producto/",
-        "date": "2025-01-01 16:55:23",
-        "sentiment_score": -0.0329340398311615
-    },
-    {
-        "title": "Francisco Portillo completa su primer entrenamiento con el Real Oviedo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/14/francisco-portillo-completa-su-primer-entrenamiento-con-el-real-oviedo/",
-        "date": "2025-01-01 16:48:22",
-        "sentiment_score": 0.48705041594803333
-    },
-    {
-        "title": "Més apoyaría cambiar el nombre de la coalición Sumar si mejora el espacio: \"Si todos estamos cómodos, bienvenido sea\"",
-        "image_url": "https://www.infobae.com/resizer/v2/TZ55VV3B2RGXTEOMTIH4URKCAY.jpg?auth=b28262d72f169cfa5daf19e8f40ae13c5b34447a636bdf48ff623a64c24a8755&height=1268&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/14/mes-apoyaria-cambiar-el-nombre-de-la-coalicion-sumar-si-mejora-el-espacio-si-todos-estamos-comodos-bienvenido-sea/",
-        "date": "2025-01-01 16:48:04",
-        "sentiment_score": 0.6762723959982395
-    },
-    {
-        "title": "El Valencia vuelve a la acb, Dubljevic vuelve a la Fonteta",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/14/el-valencia-vuelve-a-la-acb-dubljevic-vuelve-a-la-fonteta/",
-        "date": "2025-01-01 16:47:44",
-        "sentiment_score": -0.39530476927757263
-    },
-    {
-        "title": "Un video gráfico muestra a las víctimas en la calle después de que una camioneta embistiera a una multitud en Nueva Orleans",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191462801.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/video-grafico-victimas-calle-nueva-orleans-ush-trax/",
-        "date": "2025-01-01 17:04:13",
-        "sentiment_score": -0.6337433587759733
-    },
-    {
-        "title": "Testigo describe lo que vio tras el atropellamiento masivo en Bourbon Street, en Nueva Orleans",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/video1483342864-00-00-26-08-imagen-fija200.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nueva-orleans-atropellamiento-bourbon-street-ush-trax/",
-        "date": "2025-01-01 16:16:10",
-        "sentiment_score": -0.7001050021499395
-    },
-    {
-        "title": "Todo lo que se sabe sobre el ataque de Nueva Orleans que ha dejado varios muertos y heridos en un atropello masivo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/01/furgoneta-nueva-orleans-kkOI-U7056516056cQG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/sabe-sobre-ataque-nueva-orleans-dejado-varios-20250101160723-nt.html",
-        "date": "2025-01-01 15:31:30",
-        "sentiment_score": -0.22588485479354858
-    },
-    {
-        "title": "Muere a los 77 años Joan Guinovart, fundador y exdirector del Institut de Recerca Biomèdica (IRB)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AM5CF4BPLBCHLPAH4I3HWJYQTA.jpg?auth=8aa7aa233dd7493c24d43e6b8e5ac053f7e105c0b25f000ec25251c87c0fa202&width=1200",
-        "tags": [
-            "tarragona",
-            "obituarios",
-            "cataluña",
-            "ciencia",
-            "científicos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-01/muere-a-los-77-anos-joan-guinovart-fundador-y-exdirector-del-institut-de-recerca-biomedica-irb.html",
-        "date": "2025-01-01 16:57:32",
-        "sentiment_score": 0.6201564036309719
-    },
-    {
-        "title": "Muere a los 59 años el DJ José María Castells, uno de los creadores de la saga Max Mix",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W5VSUOYGS5HRZIWABCNG57LN7Y.jpeg?auth=c7bfced520056bf664502567a4f905b4c99f76625c3145c7b104df661311d2f9&width=1200",
-        "tags": [
-            "música electrónica",
-            "barcelona",
-            "música",
-            "cataluña",
-            "deejay",
-            "obituarios"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-01/muere-a-los-59-anos-el-dj-jose-maria-castells-uno-de-los-creadores-de-la-saga-max-mix.html",
-        "date": "2025-01-01 16:12:10",
-        "sentiment_score": -0.8319829925894737
-    },
-    {
-        "title": "Mueren dos personas a bordo del primer cayuco llegado a Canarias en 2025",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OC4G5GIFQFEQ5BJIMKVEFQWCX4.jpg?auth=bd92ef13908127d29989f2adeecb28110736bc93a70717ea1db695791b696700",
-        "tags": [
-            "migrantes",
-            "tenerife",
-            "españa",
-            "inmigrantes africanos",
-            "inmigración irregular",
-            "inmigración irregular españa",
-            "inmigrantes",
-            "inmigración",
-            "canarias",
-            "migración"
-        ],
-        "link": "https://elpais.com/espana/2025-01-01/mueren-dos-personas-a-bordo-del-primer-cayuco-llegado-a-canarias-en-2025.html",
-        "date": "2025-01-01 15:33:30",
-        "sentiment_score": -0.10155957564711571
-    },
-    {
-        "title": "Una macrofiesta no autorizada reúne a cientos de personas junto al aeropuerto de Ciudad Real",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HKAUNRJXPVDULJKXJCI4IIMKJQ.jpg?auth=53d11b3d1eed65c1d04ec105e62c8a348cb644f0ba34c79b9b3af5bd71f3396a&width=1200",
-        "tags": [
-            "castilla-la mancha",
-            "macrofiestas",
-            "fiestas",
-            "rave",
-            "nochevieja",
-            "españa",
-            "ciudad real",
-            "navidad"
-        ],
-        "link": "https://elpais.com/espana/2025-01-01/una-macrofiesta-no-autorizada-reune-a-cientos-de-personas-junto-al-aeropuerto-de-ciudad-real.html",
-        "date": "2025-01-01 15:00:40",
-        "sentiment_score": 0.17276954278349876
-    },
-    {
-        "title": "El Gobierno afirma que la economía española crecerá en 2025 por encima del 2,4%",
-        "image_url": "https://static.grupojoly.com/clip/180634b6-e6c1-41cf-b176-cd5f7283ba4e_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.huelvainformacion.es/economia/economia-espanola-crecera-2025-por-encima-2-4_0_2003068577.html",
-        "date": "2025-01-01 17:07:25",
-        "sentiment_score": 0.47194280847907066
-    },
-    {
-        "title": "\"El Girona no sería lo que es sin toda la mierda que ha vivido\"",
-        "image_url": "https://static1.ara.cat/clip/21367df4-04a3-4883-a91d-abfa66d8fd32_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/girona-fc/girona-no-seria-mierda-vivido_130_5244750.html",
-        "date": "2025-01-01 17:00:55",
-        "sentiment_score": -0.08897429704666138
-    },
-    {
-        "title": "Liverpool rechazó intento del Real Madrid de fichar a Alexander-Arnold",
-        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/01/461cde5c953ba35dc712928eca8a852222522530w-1-e1735749788290.jpg",
-        "tags": [
-            "fútbol",
-            "liverpool fc",
-            "real madrid",
-            "deportes"
-        ],
-        "link": "https://eldiariony.com/2025/01/01/liverpool-rechazo-intento-del-real-madrid-de-fichar-a-alexander-arnold/",
-        "date": "2025-01-01 16:52:28",
-        "sentiment_score": -0.1892065480351448
-    },
-    {
-        "title": "Actual 25 despliega su mapa de actividades artísticas en más de 15 escenarios con propuestas para todos los públicos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250101173254_120.jpg",
-        "tags": [
-            "la rioja"
-        ],
-        "link": "https://www.europapress.es/la-rioja/noticia-actual-25-despliega-mapa-actividades-artisticas-mas-15-escenarios-propuestas-todos-publicos-20250101173254.html",
-        "date": "2025-01-01 16:32:54",
-        "sentiment_score": 0.6086077578365803
-    },
-    {
-        "title": "Alexia Putellas: \"Trabajamos para ampliar la distancia con el Real Madrid\"",
-        "image_url": "https://www.infobae.com/resizer/v2/LA77W4BEKJE4XHKWOKQNFVJBRE.jpg?auth=5adc8128628908b77f1b4265819af00030f5d0083ae75a4fa27aa0e5a5e1f3f3&height=1386&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/14/alexia-putellas-trabajamos-para-ampliar-la-distancia-con-el-real-madrid/",
-        "date": "2025-01-01 16:32:37",
-        "sentiment_score": 0.4698282778263092
-    },
-    {
-        "title": "Árbitro de mal recuerdo para el Valencia - Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f16b37a-a772-47fe-aae6-7276eee39f33_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.superdeporte.es/valencia-cf/2025/01/01/arbitro-mal-recuerdo-valencia-madrid-113049723.html",
-        "date": "2025-01-01 16:23:35",
-        "sentiment_score": 0.07524969428777695
-    },
-    {
-        "title": "La tremenda cantidad de dinero que podría perder el Barcelona si no consigue inscribir a Dani Olmo",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/01/6774d9413c4c5.r_d.759-293.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/20250101/tremenda-cantidad-dinero-podria-perder-barcelona-no-consigue-inscribir-dani-olmo_257568.html",
-        "date": "2025-01-01 16:10:03",
-        "sentiment_score": -0.8911541467532516
-    },
-    {
-        "title": "Mourinho desvela los puntos de inflexión de su carrera",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/01/01/2025010117021538390.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/mourinho-desvela-puntos-iinflexion-carrera/20250101170248547780.html",
-        "date": "2025-01-01 16:02:48",
-        "sentiment_score": -0.4584200829267502
-    },
-    {
-        "title": "Carlos Mata: «El éxito me robó vida»",
-        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2025/01/4f270b686fcb81eccce2bd934b6ed4e2e6c17540w-scaled.jpg",
-        "tags": [
-            "espectáculos",
-            "featured",
-            "música"
-        ],
-        "link": "https://soynuevaprensadigital.com/npd/puerto-rico-despide-2024-con-un-apagon-masivo-2-4-2-3-2/",
-        "date": "2025-01-01 15:42:33",
-        "sentiment_score": -0.23898282647132874
-    },
-    {
-        "title": "Muere a los 59 años el disc-jockey Josep Maria Castells, el rey del 'megamix'",
-        "image_url": "https://static1.ara.cat/clip/a5338d80-c841-4c7f-939a-e880d1cc978b_16-9-aspect-ratio_default_0_x525y403.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/cultura/musica/muere-59-anos-disc-jockey-josep-maria-castells-rey-megamix_1_5244755.html",
-        "date": "2025-01-01 17:05:28",
-        "sentiment_score": 0.32958826422691345
-    },
-    {
-        "title": "Más de 14.000 afectados por la paralización de los Talgo Avril de Renfe que conectan Madrid con el noroeste y el arco mediterráneo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d5199548-d7cb-45ad-923f-b75dd16b862a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20250101/trenes-avril-unen-madrid-galicia-asturias-fallo-informatico-113046059",
-        "date": "2025-01-01 17:04:24",
-        "sentiment_score": -0.8641892308369279
-    },
-    {
-        "title": "La Real se entrena a puerta abierta este jueves en Zubieta",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b15ce4ef-ff1f-40cc-aceb-29d82ff4d884_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/01/01/real-entrena-puerta-abierta-jueves-9112943.html",
-        "date": "2025-01-01 17:02:37",
-        "sentiment_score": 0.268922071903944
-    },
-    {
-        "title": "Muere José María Castells, uno de los responsables de la saga Max Mix",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2025/01/01/1150D249-7CC9-4A03-9587-EB2180CCAB78/96.jpg?crop=1284%2C722%2Cx0%2Cy281&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/muere-jose-maria-castells-uno-responsables-saga-max-mix_20250101677574c8af21750001054713.html",
-        "date": "2025-01-01 17:00:56",
-        "sentiment_score": -0.765892393887043
-    },
-    {
-        "title": "Fallece José María Castells, leyenda de la música electrónica y creador de los míticos Max Mix",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/01/01/2025010117460126950.png",
-        "tags": [
-            "arte y vida"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/arte-y-vida/fallece-dj-jose-maria-castells-leyenda-musica-electronica-creador-miticos-max-mix/20250101174729547817.html",
-        "date": "2025-01-01 16:47:29",
-        "sentiment_score": 0.8369086347520351
-    },
-    {
-        "title": "Confirmado: LaLiga elimina a Dani Olmo y Pau Víctor de su registro oficial",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/01/2025010117461996403.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/confirmado-laliga-elimina-dani-olmo-pau-victor-registro-oficial/20250101174706329199.html",
-        "date": "2025-01-01 16:47:06",
-        "sentiment_score": -0.7956604901701212
-    },
-    {
-        "title": "Carles Coll logra el billete mundialista en los 200 braza",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/14/carles-coll-logra-el-billete-mundialista-en-los-200-braza/",
-        "date": "2025-01-01 16:47:02",
-        "sentiment_score": -0.027235954999923706
-    },
-    {
-        "title": "El Barcelona contra las cuerdas en su batalla legal",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/01/01/2025010117394710156.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/barcelona-cuerdas-batalla-legal/20250101174008547815.html",
-        "date": "2025-01-01 16:40:08",
-        "sentiment_score": -0.7838575299829245
-    },
-    {
-        "title": "Abren inscripciones para programa de subsidio escolar este #2Ene (+Elegibilidad)",
-        "image_url": "https://pxcdn.2001online.com/2001/012025/1735751221740.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/abren-inscripciones-para-programa-de-subsidio-escolar-este-2ene-2025111380",
-        "date": "2025-01-01 17:08:00",
-        "sentiment_score": 0.3947657626122236
-    },
-    {
-        "title": "Haz esto con tu cabello y crecerá rápidamente",
-        "image_url": "https://pxcdn.2001online.com/2001/012025/1735750795640.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "variedades - belleza"
-        ],
-        "link": "https://2001online.com/zona3d/belleza/haz-esto-con-tu-cabello-y-crecera-rapidamente-20251112550",
-        "date": "2025-01-01 16:55:00",
-        "sentiment_score": 0.38986821845173836
-    },
-    {
-        "title": "Cheques de estímulo EEUU: ¿Cómo reclamar el pago de $1.400?",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1723152304910.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/cheques-de-estimulo-eeuu-como-reclamar-el-pago-de-1-400--20251112460",
-        "date": "2025-01-01 16:46:00",
-        "sentiment_score": 0.1040382944047451
-    },
-    {
-        "title": "EEUU | Requisitos para tramitar la Real ID sin ser ciudadano (+Fecha límite)",
-        "image_url": "https://pxcdn.2001online.com/2001/012025/1735749096365.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/eeuu-requisitos-para-tramitar-la-real-id-sin-ser-ciudadano-fecha-limite--20251112340",
-        "date": "2025-01-01 16:34:00",
-        "sentiment_score": 0.45120944455266
-    },
-    {
-        "title": "Nueva Orleans | Muere en un tiroteo sospechoso de atropello masivo este #1Ene",
-        "image_url": "https://pxcdn.2001online.com/2001/012025/1735755284020.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/nota/nueva-orleans-muere-en-un-tiroteo-sospechoso-de-atropello-masivo-este-1ene-20251112320",
-        "date": "2025-01-01 16:32:00",
-        "sentiment_score": 0.016297414898872375
-    },
-    {
-        "title": "Aceite de coco para adelgazar ¿Mito o realidad?",
-        "image_url": "https://pxcdn.2001online.com/2001/012025/1735748000850.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "variedades - salud"
-        ],
-        "link": "https://2001online.com/zona3d/salud/aceite-de-coco-para-adelgazar-mito-o-realidad--2025111240",
-        "date": "2025-01-01 16:04:00",
-        "sentiment_score": -0.2540225461125374
-    },
-    {
-        "title": "Covered California vs Medi-Cal: ¿Cuál plan de salud se debe escoger?",
-        "image_url": "https://pxcdn.2001online.com/2001/012025/1735749356188.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/covered-california-vs-medi-cal-cual-plan-de-salud-se-debe-escoger--2025111240",
-        "date": "2025-01-01 16:04:00",
-        "sentiment_score": 0.026761796325445175
-    },
-    {
-        "title": "Descubra dónde celebrar el Día de reyes en Charlotte (+Actividades)",
-        "image_url": "https://pxcdn.2001online.com/2001/012025/1735746939267.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/descubra-donde-celebrar-el-dia-de-reyes-en-charlotte-actividades--20251111570",
-        "date": "2025-01-01 15:57:00",
-        "sentiment_score": 0.07380660623311996
-    },
-    {
-        "title": "Illinois | Así puede tramitar la Real ID sin cita en Chicago (+Requisitos)",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1723162983174.webp?ch=212&cw=377&extw=webp",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/illinois-asi-puede-tramitar-la-real-id-sin-cita-en-chicago-requisitos--20251111540",
-        "date": "2025-01-01 15:54:00",
-        "sentiment_score": 0.5350172184407711
-    },
-    {
-        "title": "Cinco temas a estudiar para dominar el examen de ciudadanía estadounidense",
-        "image_url": "https://pxcdn.2001online.com/2001/012025/1735747193097.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/cinco-temas-a-estudiar-para-dominar-el-examen-de-ciudadania-estadounidense-20251111340",
-        "date": "2025-01-01 15:34:00",
-        "sentiment_score": -0.045100100338459015
-    },
-    {
         "title": "Anticorrupción pide 59 años de cárcel para Villarejo por los presuntos encargos ilegales para Iberdrola",
         "image_url": "https://www.infobae.com/resizer/v2/XPV7FJCPX5CEHCRYFCBU5RHDBU.jpg?auth=b8e0ed51a4fc7113892b830ac9044caed5687ef69ad977f0a18f5a99f7960911&height=1282&smart=true&width=1920",
         "tags": [
@@ -641,17 +169,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/nueva-orleans-atropellamiento-testigo-ush-trax/",
         "date": "2025-01-01 19:49:48",
         "sentiment_score": -0.824305715970695
-    },
-    {
-        "title": "Escucha la llamada de emergencia luego del atropellamiento masivo en Bourbon Street, Nueva Orleans",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191457792.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/atropellamiento-masivo-nueva-orleans-ush-trax/",
-        "date": "2025-01-01 17:57:38",
-        "sentiment_score": -0.8582265553995967
     },
     {
         "title": "El sueño cumplido de Antonio",
@@ -7345,5 +6862,518 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2024/11/16/jose-miguel-vinas-el-meteorologo-que-mira-al-cielo-de-los-oleos-de-la-historia-del-arte/",
         "date": "2025-01-05 01:04:18",
         "sentiment_score": 0.06378121674060822
+    },
+    {
+        "title": "El Casademont se enfrenta al Baskonia, a su endeblez defensiva y a su fatiga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/el-casademont-se-enfrenta-al-baskonia-a-su-endeblez-defensiva-y-a-su-fatiga/",
+        "date": "2025-01-05 06:17:39",
+        "sentiment_score": -0.4885913282632828
+    },
+    {
+        "title": "La residencia incendiada en Villafranca de Ebro (Zaragoza) cumplía la normativa y la ratio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/la-residencia-incendiada-en-villafranca-de-ebro-zaragoza-cumplia-la-normativa-y-la-ratio/",
+        "date": "2025-01-05 06:17:20",
+        "sentiment_score": -0.8992662644013762
+    },
+    {
+        "title": "María León: “Tengo las mismas ganas que cuando empecé, o más”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/maria-leon-tengo-las-mismas-ganas-que-cuando-empece-o-mas/",
+        "date": "2025-01-05 06:17:01",
+        "sentiment_score": 0.6699895039200783
+    },
+    {
+        "title": "Vox: Si Mazón quiere liderar la reconstrucción debe dar un giro drástico a su gestión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/vox-si-mazon-quiere-liderar-la-reconstruccion-debe-dar-un-giro-drastico-a-su-gestion/",
+        "date": "2025-01-05 06:04:12",
+        "sentiment_score": -0.8600761853158474
+    },
+    {
+        "title": "El peruano Roca Rey aumenta en cifras su liderazgo en el escalafón de matadores de toros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/el-peruano-roca-rey-aumenta-en-cifras-su-liderazgo-en-el-escalafon-de-matadores-de-toros/",
+        "date": "2025-01-05 06:03:53",
+        "sentiment_score": 0.19829903542995453
+    },
+    {
+        "title": "Compromís insiste en que Mazón deje de aferrarse al cargo y dimita por \"negligente\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/compromis-insiste-en-que-mazon-deje-de-aferrarse-al-cargo-y-dimita-por-negligente/",
+        "date": "2025-01-05 06:03:34",
+        "sentiment_score": -0.922903566621244
+    },
+    {
+        "title": "El número de festejos taurinos en España se estabilizó en la temporada 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/16/el-numero-de-festejos-taurinos-en-espana-se-estabilizo-en-la-temporada-2024/",
+        "date": "2025-01-05 06:02:19",
+        "sentiment_score": 0.15671706199645996
+    },
+    {
+        "title": "El Efesé persigue su primer triunfo en casa y el Huesca poner fin a su racha sin victorias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/16/el-efese-persigue-su-primer-triunfo-en-casa-y-el-huesca-poner-fin-a-su-racha-sin-victorias/",
+        "date": "2025-01-05 06:02:00",
+        "sentiment_score": -0.08455459773540497
+    },
+    {
+        "title": "Cómo hacer Roscón de Reyes casero: esta es la receta fácil y clásica para que quede esponjoso y delicioso",
+        "image_url": "https://www.infobae.com/resizer/v2/CDHNR6PA2JHLFBOARNPGR2PDBU.jpeg?auth=8a13e54ef2f24a3b10041e16ba783bb0fc099143a73b8b299241974fae9315fa&height=3611&smart=true&width=5416",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/05/como-hacer-roscon-de-reyes-casero-esta-es-la-receta-facil-y-clasica-para-que-quede-esponjoso-y-delicioso/",
+        "date": "2025-01-05 06:00:00",
+        "sentiment_score": 0.8930468950420618
+    },
+    {
+        "title": "Ucrania corta el grifo del gas ruso: qué consecuencias podría tener para España la pérdida de uno de sus mayores suministradores",
+        "image_url": "https://www.infobae.com/resizer/v2/COPDEJBNBE62LDVE777BKYSEYY.jpg?auth=94ba2d81e091d18fe02d3a8cb89a1397a5a83c285393bddfb8428001ac39aed3&height=4194&smart=true&width=5840",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/05/ucrania-corta-el-grifo-del-gas-ruso-que-consecuencias-podria-tener-para-espana-la-perdida-de-uno-de-sus-mayores-suministradores/",
+        "date": "2025-01-05 06:00:00",
+        "sentiment_score": 0.15732327103614807
+    },
+    {
+        "title": "Así despidió Chip Carter a su padre, el expresidente Jimmy Carter",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/jimmy-sons-hor-00-01-16-06-still001.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hijo-de-jimmy-carter-se-despide-trax/",
+        "date": "2025-01-05 02:55:53",
+        "sentiment_score": 0.18167273700237274
+    },
+    {
+        "title": "¿Cómo afectan los planes de deportación masiva de Trump en la región?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/ap20235757241464-20250104195556929.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/deportacion-masiva-trump-mirador-mundial-tv/",
+        "date": "2025-01-05 02:29:37",
+        "sentiment_score": -0.304950550198555
+    },
+    {
+        "title": "El CSI de los juguetes: quién vigila que la diversión no salga cara",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/05/jcs-RM9QbmeBK7MlIJed8heTFjM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/csi-juguetes-vigila-diversion-salga-cara-20250105011138-nt.html",
+        "date": "2025-01-05 03:22:58",
+        "sentiment_score": -0.2581641972064972
+    },
+    {
+        "title": "Gobernar sin el apoyo del legislativo era esto",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-gobernar-apoyo-legislativo-era-20250105041843-nt.html",
+        "date": "2025-01-05 03:18:51",
+        "sentiment_score": -0.3445085883140564
+    },
+    {
+        "title": "España ya no es tierra prometida",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-espana-tierra-prometida-20250105041832-nt.html",
+        "date": "2025-01-05 03:18:46",
+        "sentiment_score": -0.12168049812316895
+    },
+    {
+        "title": "Jens Eskelund : «Europa necesita pensar como lo ha hecho China»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/02/jens-eskelund-RtuOyse0qaiHUDiT9HAny3L-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jens-eskelund-europa-necesita-pensar-china-20250102181219-nt.html",
+        "date": "2025-01-05 03:05:38",
+        "sentiment_score": -0.17744354903697968
+    },
+    {
+        "title": "Renfe sigue sin concretar la sanción por los fallos de los Avril a la espera de la venta de Talgo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/05/1490601342-Rn7NdnTrZhDKgrGvoLDCRjM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/renfe-sigue-concretar-sancion-fallos-avril-espera-20250105192900-nt.html",
+        "date": "2025-01-05 03:04:58",
+        "sentiment_score": -0.1260250061750412
+    },
+    {
+        "title": "Transición Ecológica eleva su apuesta por el almacenamiento eléctrico para fortalecer el sistema",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/05/SaraAagesenfotoJaimeGarcia-R9OYrVh18xN346am8casqhM-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/transicion-ecologica-eleva-apuesta-almacenamiento-electrico-fortalecer-20250105182059-nt.html",
+        "date": "2025-01-05 03:04:12",
+        "sentiment_score": 0.017550557851791382
+    },
+    {
+        "title": "El Gobierno busca compañías eléctricas por si hay un gran apagón",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/05/centralgas-RMq5CWDRu9DgYuUgxIoNVAN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-busca-companias-electricas-gran-apagon-20250105181003-nt.html",
+        "date": "2025-01-05 03:03:06",
+        "sentiment_score": -0.04646393656730652
+    },
+    {
+        "title": "'Charlie Hebdo': diez años de la matanza que silenció todas las risas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/05/charlie8-RZ419yuxiLv0p5BpuJnmmTM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/charlie-hebdo-diez-anos-matanza-silencio-risas-20250105134609-nt.html",
+        "date": "2025-01-05 03:02:43",
+        "sentiment_score": -0.17958317697048187
+    },
+    {
+        "title": "Una década de ‘golden visa’ en España: de compradores saudíes en Málaga a chinos en Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZAK7LEBCEBGCDKW63AIHX275IE.jpeg?auth=314e85a1ce053e4e425b4eedf2a851806b6f99027f96211b01bb9f0fc71952aa&width=1200",
+        "tags": [
+            "lujo",
+            "turismo",
+            "permisos residencia",
+            "valencia",
+            "barcelona",
+            "mercado inmobiliario",
+            "ucrania",
+            "málaga",
+            "ley emprendedores",
+            "baleares",
+            "precio vivienda",
+            "madrid",
+            "alicante",
+            "visados",
+            "girona",
+            "vivienda",
+            "brexit",
+            "cataluña",
+            "extracomunitarios",
+            "extranjeros"
+        ],
+        "link": "https://elpais.com/economia/2025-01-05/una-decada-de-golden-visa-en-espana-desde-compradores-de-oriente-medio-en-malaga-hasta-chinos-en-usera.html",
+        "date": "2025-01-05 04:45:00",
+        "sentiment_score": -0.6923695914447308
+    },
+    {
+        "title": "Pulso por la agenda política en un año sin elecciones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3OMJJXC3PJARHBIZE4M2RSP62E.jpg?auth=dd6c81773f021b956e23c3e1f67b1c20d69618d6d3314cb1ced78338ac64006c&width=1200",
+        "tags": [
+            "gobierno",
+            "podemos",
+            "pp",
+            "psoe",
+            "vox",
+            "sumar",
+            "españa",
+            "congreso diputados"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/pulso-por-la-agenda-politica-en-un-ano-sin-elecciones.html",
+        "date": "2025-01-05 04:40:00",
+        "sentiment_score": -0.10469324141740799
+    },
+    {
+        "title": "Ester Muñoz gana enteros en la oposición dura del PP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/F5PRVBHG4B5HMOJXAVKSHAX2DM.jpg?auth=137f21917aba2d94b8a36abcfb4b36a016c1969b398551c51ede3a1522fc0733&width=1200",
+        "tags": [
+            "gobierno",
+            "alberto núñez feijóo",
+            "pp",
+            "redes sociales",
+            "caso koldo",
+            "borja semper",
+            "koldo garcía",
+            "comunicación",
+            "óscar puente santiago",
+            "begoña gómez fernández",
+            "ester muñoz",
+            "pedro sánchez",
+            "congreso diputados",
+            "política",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/ester-munoz-gana-enteros-en-la-oposicion-dura-del-pp.html",
+        "date": "2025-01-05 04:40:00",
+        "sentiment_score": 0.5352075323462486
+    },
+    {
+        "title": "Euskadi aborda el debate sobre los terceros grados a etarras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SBU3PBTL3MLRTWVY7HXFQ7TOEU.jpg?auth=c51e06be2b648eae85b1f110cc23f593f7006316a0b258d807a0439058f6393c&width=1200",
+        "tags": [
+            "pse-ee psoe",
+            "gobierno vasco",
+            "covite",
+            "presos eta",
+            "eta",
+            "etxerat",
+            "terrorismo",
+            "prisiones",
+            "país vasco",
+            "terroristas eta",
+            "españa",
+            "el final de eta",
+            "consuelo ordoñez",
+            "eaj-pnv"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/euskadi-aborda-el-debate-sobre-los-terceros-grados-a-etarras.html",
+        "date": "2025-01-05 04:40:00",
+        "sentiment_score": -0.8747968319803476
+    },
+    {
+        "title": "Falsos culpables en España: 88 inocentes condenados a prisión en 30 años (y subiendo)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OV6GB6S7FU52XUX6KDGTC4JKGE.jpg?auth=eebb4bd82446b339da7212021ecf10d2ba3ff658ca940dce8115790cd11d373b&width=1200",
+        "tags": [
+            "ahmed tommouhi",
+            "ley enjuiciamiento criminal",
+            "sentencias polémicas",
+            "manuel marchena",
+            "españa",
+            "abderrazak mounib",
+            "errores judiciales"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/falsos-culpables-en-espana-88-inocentes-condenados-a-prision-en-30-anos-y-subiendo.html",
+        "date": "2025-01-05 04:40:00",
+        "sentiment_score": -0.374722495675087
+    },
+    {
+        "title": "Afrontar la dana sin ayudas ni papeles: “Emigramos para enviar dinero a nuestros países y no al revés”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7C7P4P6F5JCBTPCNGVR6C2I2WU.jpg?auth=a0d06947c5391bf0a2de9a87b4cd0bb28665916983deddfee64d7e32f881e8e5&width=1200",
+        "tags": [
+            "precariedad laboral",
+            "alfafar",
+            "dana",
+            "comunidad valenciana",
+            "carlos mazón",
+            "massanassa",
+            "paiporta",
+            "ayudas públicas",
+            "empleo",
+            "inmigración",
+            "españa",
+            "migración"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/afrontar-la-dana-sin-ayudas-ni-papeles-emigramos-para-enviar-dinero-a-nuestros-paises-y-no-al-reves.html",
+        "date": "2025-01-05 04:40:00",
+        "sentiment_score": -0.8042167015373707
+    },
+    {
+        "title": "De Casado a García Ortiz: la caza mayor de Miguel Ángel Rodríguez",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HOLFOSUUQRFHBLXPHXRHBHQX6M.jpg?auth=b0ab63f8fdf96a27ceb149195076cdc4dbb469c0ab5bc12fb49fb6af2eda2dc4&width=1200",
+        "tags": [
+            "fiscalía general estado",
+            "alberto gonzález amador",
+            "cristina monge",
+            "pp",
+            "miguel ángel rodríguez",
+            "álvaro garcía ortiz",
+            "isabel díaz ayuso",
+            "pablo casado blanco",
+            "tribunal supremo",
+            "españa",
+            "pedro sánchez",
+            "pablo simón"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/de-casado-a-garcia-ortiz-la-caza-mayor-de-miguel-angel-rodriguez.html",
+        "date": "2025-01-05 04:40:00",
+        "sentiment_score": 0.565722331404686
+    },
+    {
+        "title": "Las mujeres de Aragón fueron menos tratadas y peor asistidas en la covid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EVITIEVBEVB4JGTGKZ7WY4IMQQ.jpg?auth=fdedfb2363aeb0f43970c61a77703421e521b815819bab980596fecd94c78338&width=1200",
+        "tags": [
+            "investigación médica",
+            "pandemia",
+            "discriminación sexual",
+            "aragón",
+            "machismo",
+            "sanidad",
+            "españa",
+            "discriminación",
+            "medicina",
+            "coronavirus"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/las-mujeres-de-aragon-fueron-menos-tratadas-y-peor-asistidas-en-la-covid.html",
+        "date": "2025-01-05 04:31:00",
+        "sentiment_score": -0.7875479366630316
+    },
+    {
+        "title": "Mañueco, un presidente acostumbrado a prorrogar los presupuestos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IRQ24F5OIIJYRQC5OEOSTR6XGM.jpg?auth=e992b47fc36b6f68cb88bba0894e28e7942c263d7a17d4b8cf1e8fd8da4ed2f1&width=1200",
+        "tags": [
+            "ciudadanos",
+            "alberto núñez feijóo",
+            "pp",
+            "psoe",
+            "alfonso fernández mañueco",
+            "comunidades autónomas",
+            "luis tudanca",
+            "vox",
+            "castilla y león",
+            "españa",
+            "política",
+            "juan garcía-gallardo",
+            "presupuestos autonómicos"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/manueco-un-presidente-acostumbrado-a-prorrogar-los-presupuestos.html",
+        "date": "2025-01-05 04:30:00",
+        "sentiment_score": -0.9152957126498222
+    },
+    {
+        "title": "La prórroga de los Presupuestos en las comunidades del PP lastra la estrategia de Feijóo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WK5IEUPRU5BZJB3CZYSNW567QY.jpg?auth=d3af09adbd124fd36664ff907a26e36774f6586ad75fbc3f44503a7878e38c79&width=1200",
+        "tags": [
+            "fernando lópez miras",
+            "psoe",
+            "alfonso fernández mañueco",
+            "presupuestos generales estado",
+            "murcia",
+            "gobierno",
+            "jorge azcón",
+            "extremadura",
+            "castilla y león",
+            "españa",
+            "pedro sánchez",
+            "comunidades autónomas",
+            "carlos mazón",
+            "baleares",
+            "maría guardiola martín",
+            "presupuestos autonómicos",
+            "alberto núñez feijóo",
+            "pp",
+            "aragón",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/2025-01-05/la-prorroga-de-los-presupuestos-en-las-comunidades-del-pp-lastra-la-estrategia-de-feijoo.html",
+        "date": "2025-01-05 04:30:00",
+        "sentiment_score": -0.8642117138952017
+    },
+    {
+        "title": "El requisito inquebrantable de Florentino Pérez en su política de fichajes de más de 20 años en el Real Madrid",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/6/6/b/florentino-perez-2024-alamy.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13156115/01/25/el-requisito-inquebrantable-de-florentino-perez-en-su-politica-de-fichajes-de-mas-de-20-anos-en-el-real-madrid.html",
+        "date": "2025-01-05 06:15:27",
+        "sentiment_score": -0.0984857976436615
+    },
+    {
+        "title": "José Blaya, el Florentino Pérez de un Deportivo Minera que busca el milagro ante el Real Madrid en Copa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ae2c5374-4698-4925-90b7-6c84b3b0e443_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,copa del rey,futbol"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/01/05/jose-blaya-florentino-perez-deportivo-113128687.html",
+        "date": "2025-01-05 06:11:53",
+        "sentiment_score": 0.18146070837974548
+    },
+    {
+        "title": "El Real Madrid recurrirá la expulsión de Vinicius, que podría jugar la Supercopa gracias a la \"benévola\" redacción del acta arbitral",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61d2410c-6726-4f82-a071-da39af95c4d9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,valencia cf,vinícius,el periódico de españa"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/01/05/real-madrid-recurrira-expulsion-vinicius-supercopa-113128690.html",
+        "date": "2025-01-05 06:11:49",
+        "sentiment_score": -0.7677451726049185
+    },
+    {
+        "title": "Israel García, jugador del Barbastro, pide matrimonio a su novia tras el partido de Copa ante el Barça",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/01/05/Clipboard-k8zD-U230453865505yGH-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/gente-estilo/israel-garcia-jugador-barbastro-pide-matrimonio-novia-20250105071632-ntrc.html",
+        "date": "2025-01-05 06:17:06",
+        "sentiment_score": -0.04833875596523285
+    },
+    {
+        "title": "Cabalgata de los Reyes Magos en Barcelona 2025: horario, recorrido y cortes de tráfico",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/01/02/los-reyes-magos-saludan-a-los-espectadores-durante-un-acto-en-barcelona.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/cabalgata-reyes-magos-barcelona-2025-horario-recorrido-cortes-trafico.html",
+        "date": "2025-01-05 06:10:52",
+        "sentiment_score": 0.8083613961935043
+    },
+    {
+        "title": "'The Messi Experience' llega a República Dominicana para rememorar carrera de Lionel Messi",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/16/the-messi-experience-llega-a-republica-dominicana-para-rememorar-carrera-de-lionel-messi/",
+        "date": "2025-01-05 06:03:18",
+        "sentiment_score": 0.8638987187296152
+    },
+    {
+        "title": "Las gigafactorías de Sagunt y Zaragoza apuntalan el corredor cantábrico",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/486094ce-222c-4e03-88e9-0c42919f8e65_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/economia/2025/01/05/corredor-cantabrico-gigafactorias-sagunt-zaragoza-stellantis-volkswagen-113116066.html",
+        "date": "2025-01-05 06:01:01",
+        "sentiment_score": 0.10615432262420654
+    },
+    {
+        "title": "Dónde ver online o por televisión la cabalgata de Reyes 2025 de Barcelona",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2023/01/05/19415A66-EE78-458D-992F-7F600C166362/69.jpg?crop=6269%2C3526%2Cx0%2Cy327&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/donde-ver-online-television-cabalgata-reyes-2025-barcelona-p7m_20250105677a1ff14f1fb700017f0f6d.html",
+        "date": "2025-01-05 06:00:17",
+        "sentiment_score": 0.11494458466768265
+    },
+    {
+        "title": "Cabalgata de los Reyes Magos 2025 en Barcelona: horario, recorrido y cortes de tráfico",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2024/01/04/A3E7168F-D675-451E-9A95-4E9B5DC8C55A/cabalgata-reyes-magos-barcelona_69.jpg?crop=674%2C379%2Cx23%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/cabalgata-reyes-magos-2025-barcelona-horario-recorrido-cortes-trafico-p7m_202501056777c9a9af2175000145cbb6.html",
+        "date": "2025-01-05 06:00:13",
+        "sentiment_score": -0.6153338961303234
     }
 ];
