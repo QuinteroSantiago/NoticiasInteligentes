@@ -143,16 +143,6 @@ export default [
         "sentiment_score": -0.4293108284473419
     },
     {
-        "title": "Grabación muestra al auto del ataque en Nueva Orleans rebasar a una patrulla y entrar en la calle Bourbon",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21238892-7386-667-still-20250102112418536.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nueva-orleans-ataque-terrorista-camioneta-video-trax/",
-        "date": "2025-01-02 11:26:48",
-        "sentiment_score": -0.37503380328416824
-    },
-    {
         "title": "Argentina pierde a Jorge Lanata, su principal referencia en el periodismo",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/02/efe-RzPnisd7oCwafjOyc4EBeAJ-1200x840@diario_abc.jpg",
         "tags": [
@@ -171,86 +161,6 @@ export default [
         "link": "https://www.abc.es/economia/empresas-ven-2025-favorable-negocios-riesgo-costes-20250102164157-nt.html",
         "date": "2025-01-02 15:52:13",
         "sentiment_score": -0.03733253479003906
-    },
-    {
-        "title": "¿Por qué renace Estado Islámico?",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/02/daesh-kBtB-U70595680094bE-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/renace-estado-islamico-20250102140220-nt.html",
-        "date": "2025-01-02 13:02:20",
-        "sentiment_score": -0.29415325820446014
-    },
-    {
-        "title": "Nueve de cada diez coches vendidos en Noruega ya son cien por cien eléctricos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/02/noruega-kPX-U7059327158YjF-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/nueve-diez-coches-vendidos-noruega-cien-cien-20250102135137-nt.html",
-        "date": "2025-01-02 12:52:30",
-        "sentiment_score": -0.07533766329288483
-    },
-    {
-        "title": "Meta planea introducir cuentas impulsadas por IA que podrán generar y publicar contenido en Instagram y Facebook",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/02/meta-instagram-facebook-ksO-U7059168001uVB-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/redes/meta-planea-introducir-cuentas-impulsadas-ia-podran-20250102132909-nt.html",
-        "date": "2025-01-02 12:32:45",
-        "sentiment_score": -0.02182510495185852
-    },
-    {
-        "title": "Un exjugador de fútbol americano, una estudiante de enfermería y un padre «lleno de vida»: algunas de las víctimas del atropello de Nueva Orleans",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/02/victimas-kYbF-U7058965670ygH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/jugador-futbol-americano-estudiante-enfermeria-padre-lleno-20250102131223-nt.html",
-        "date": "2025-01-02 12:26:34",
-        "sentiment_score": -0.30789297819137573
-    },
-    {
-        "title": "Nuevo índice para actualizar el precio del alquiler: cuánto sube y a quién afecta",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/02/1466933747-R5kCM4KPZjZBtCA5xrSoZ2O-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/nuevo-indice-actualizar-precio-alquiler-aplica-afecta-20250102130810-nt.html",
-        "date": "2025-01-02 12:24:27",
-        "sentiment_score": -0.09885650873184204
-    },
-    {
-        "title": "Así queda el Salario Mínimo Interprofesional en 2025 en España",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/02/yolanda-diaz.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/queda-salario-minimo-interprofesional-2025-espana-20250102123449-nt.html",
-        "date": "2025-01-02 11:46:51",
-        "sentiment_score": -0.01340511441230774
-    },
-    {
-        "title": "Las rebajas de enero generarán más de 172.000 contratos, un 19,8% más que en 2024",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/02/1482965402-Rhbjdeb65XMFjrp4MCEmWRM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/rebajas-enero-generaran-172000-contratos-198-2024-20250102121718-nt.html",
-        "date": "2025-01-02 11:17:18",
-        "sentiment_score": -0.0011067688465118408
-    },
-    {
-        "title": "La Policía surcoreana prohíbe al jefe de la aerolínea Jeju abandonar el país tras el accidente que causó 179 muertos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/02/Kim-E-bae-k3CE-U7058872992omB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/policia-surcoreana-prohibe-jefe-aerolinea-jeju-abandonar-20250102120401-nt.html",
-        "date": "2025-01-02 11:04:01",
-        "sentiment_score": -0.3815178722143173
     },
     {
         "title": "Condenado un camionero a seis años de cárcel por almacenar y difundir más de 2.000 vídeos y audios de la yihad",
@@ -348,98 +258,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-02/la-patronal-reclama-mas-colaboracion-de-todas-las-administraciones-tras-la-dana-porque-es-bastante-mejorable.html",
         "date": "2025-01-02 14:22:30",
         "sentiment_score": 0.28230754286050797
-    },
-    {
-        "title": "Las cabalgatas de Reyes Magos se adelantan al sábado en Cádiz, Sevilla y Huelva para evitar la lluvia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S3FBEDHN4RDKFK6IGSABK7HG5E.jpg?auth=37884d66ec659ac9ea06f96fd0fa38f38a7e52a4090c78ae1d0018f2e61e5e7a&width=1200",
-        "tags": [
-            "andalucía",
-            "ayuntamientos",
-            "huelva",
-            "cádiz",
-            "reyes magos",
-            "españa",
-            "sevilla"
-        ],
-        "link": "https://elpais.com/espana/2025-01-02/las-cabalgatas-de-reyes-magos-se-adelantan-al-sabado-en-cadiz-sevilla-y-huelva-para-evitar-la-lluvia.html",
-        "date": "2025-01-02 14:05:21",
-        "sentiment_score": -0.7755645476281643
-    },
-    {
-        "title": "Cabalgata de los Reyes Magos en Madrid en 2025: horario y recorrido",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JSEOFHSAFZEBTH7OKWSDOIP5RM.JPG?auth=62bc0ae9d54faab6cee80ce33c894d0eec86f142ff60d08c892caa1fef911234&width=1200",
-        "tags": [
-            "tradiciones navidad",
-            "familia",
-            "comunidad de madrid",
-            "regalos",
-            "fiestas",
-            "niños",
-            "tráfico",
-            "reyes magos",
-            "madrid",
-            "navidad"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-02/cabalgata-de-los-reyes-magos-en-madrid-en-2025-horario-y-recorrido.html",
-        "date": "2025-01-02 13:43:31",
-        "sentiment_score": 0.20245715230703354
-    },
-    {
-        "title": "El Gobierno catalán y RENFE invierten 77 millones en un plan para mejorar el servicio de Rodalies",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/K2QBZS23JFNBTPBGDVCYVZZ6PE.jpg?auth=2e0cd08b936b201b587ff06461e2198ddfe2d3b0a02ea0b432e189136e0255db&width=1200",
-        "tags": [
-            "barcelona",
-            "renfe",
-            "cercanías",
-            "raül blanco",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-02/el-gobierno-catalan-y-renfe-invierten-77-millones-en-un-plan-para-mejorar-el-servicio-de-rodalies.html",
-        "date": "2025-01-02 13:33:26",
-        "sentiment_score": 0.416519396007061
-    },
-    {
-        "title": "La dirección del PP apoya que Guardiola recule y apruebe la ley que pedía Vox contra la memoría histórica: “Todo lo que suena a concordia, suena bien”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PHL5TBXDXE73TG2AR6S6X75GK4.jpg?auth=230fb2c356f10b4e7902ea18b9cde661166cb2294eda9525d2d4e6db8d081d81&width=1200",
-        "tags": [
-            "ángel víctor torres",
-            "alberto núñez feijóo",
-            "extremadura",
-            "borja semper",
-            "memoria histórica",
-            "españa",
-            "pp",
-            "gobierno",
-            "psoe",
-            "pedro sánchez",
-            "vox",
-            "maría guardiola martín",
-            "santiago abascal"
-        ],
-        "link": "https://elpais.com/espana/2025-01-02/la-direccion-del-pp-apoya-que-guardiola-recule-y-apruebe-la-ley-que-pedia-vox-contra-la-memoria-historica-todo-lo-que-suena-a-concordia-suena-bien.html",
-        "date": "2025-01-02 13:24:15",
-        "sentiment_score": -0.9154531853273511
-    },
-    {
-        "title": "Barcelona se prepara para los cambios en circulación: multas de hasta 500 euros a los patinetes que circulen por la acera o sin casco",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VB5WLIPBVFCEJBMM3QOLFNIFLY.jpg?auth=019271ecc7cadb2bcd0f889676820f806f9818a4b6eb629df97c2d2d8de898a8",
-        "tags": [
-            "movilidad urbana",
-            "tráfico",
-            "circulación transporte",
-            "barcelona",
-            "cataluña",
-            "dgt",
-            "ayuntamiento barcelona",
-            "movilidad sostenible",
-            "ordenanzas municipales",
-            "patinetes eléctricos",
-            "multas tráfico",
-            "multas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-02/barcelona-se-prepara-para-los-cambios-en-circulacion-multas-de-hasta-500-euros-a-los-patinetes-que-circulen-por-la-acera-o-sin-casco.html",
-        "date": "2025-01-02 13:06:56",
-        "sentiment_score": 0.06780565902590752
     },
     {
         "title": "Vandalismo en El Escorial: aparecen varias figuras del turístico Belén sin cabeza",
@@ -6855,5 +6673,456 @@ export default [
         "link": "https://www.elcomercio.es/sociedad/cabalgata-reyes-magos-barcelona-reune-750000-pequenos-20250105213503-vi.html",
         "date": "2025-01-05 21:50:04",
         "sentiment_score": 0.11166740953922272
+    },
+    {
+        "title": "Detenida una mujer con orden ingreso en prisión tras verse implicada en accidente tráfico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/detenida-una-mujer-con-orden-ingreso-en-prision-tras-verse-implicada-en-accidente-trafico/",
+        "date": "2025-01-06 02:04:29",
+        "sentiment_score": -0.4863995164632797
+    },
+    {
+        "title": "La delegada del Gobierno pide a Mazón centrarse en lo importante \"por decencia\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/la-delegada-del-gobierno-pide-a-mazon-centrarse-en-lo-importante-por-decencia/",
+        "date": "2025-01-06 02:04:11",
+        "sentiment_score": -0.12280936539173126
+    },
+    {
+        "title": "Miles de manifestantes reclaman que Feve llegue al centro de la capital leonesa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/miles-de-manifestantes-reclaman-que-feve-llegue-al-centro-de-la-capital-leonesa/",
+        "date": "2025-01-06 02:03:51",
+        "sentiment_score": -0.5695079416036606
+    },
+    {
+        "title": "Sube a 226 el número de fallecidos por la dana y 13 desaparecidos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/sube-a-226-el-numero-de-fallecidos-por-la-dana-y-13-desaparecidos/",
+        "date": "2025-01-06 02:03:33",
+        "sentiment_score": -0.7814966198056936
+    },
+    {
+        "title": "Urtasun (Comuns) pide sostener al Gobierno PSOE-Sumar ante la \"ola reaccionaria\" de la ultraderecha",
+        "image_url": "https://www.infobae.com/resizer/v2/ZHZPJQIN6VCWHDIL7FWBXQGLUM.jpg?auth=901e9595f41285088189b343fa0cdb633b9620106fca070342fbe86a9a148e76&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/urtasun-comuns-pide-sostener-al-gobierno-psoe-sumar-ante-la-ola-reaccionaria-de-la-ultraderecha/",
+        "date": "2025-01-06 02:03:14",
+        "sentiment_score": -0.6087556928396225
+    },
+    {
+        "title": "Yolanda Díaz asegura que se implantará la jornada de 37,5 horas \"antes de que termine el próximo año\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/yolanda-diaz-asegura-que-se-implantara-la-jornada-de-375-horas-antes-de-que-termine-el-proximo-ano/",
+        "date": "2025-01-06 02:02:53",
+        "sentiment_score": -0.30698537081480026
+    },
+    {
+        "title": "26-20. Bera Bera tumba al Lublin polaco y se suma a la fiesta del balonmano en Europa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/26-20-bera-bera-tumba-al-lublin-polaco-y-se-suma-a-la-fiesta-del-balonmano-en-europa/",
+        "date": "2025-01-06 02:02:16",
+        "sentiment_score": 0.6153235957026482
+    },
+    {
+        "title": "Renfe ofrecerá todos los partidos de LaLiga EA Sports 2024-2025 en sus trenes AVE y Avlo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/renfe-ofrecera-todos-los-partidos-de-laliga-ea-sports-2024-2025-en-sus-trenes-ave-y-avlo/",
+        "date": "2025-01-06 01:49:23",
+        "sentiment_score": 0.6426610257476568
+    },
+    {
+        "title": "Robles despide a más de 250 militares que viajan a Líbano en la misión UNIFIL: \"La operación es más necesaria que nunca\"",
+        "image_url": "https://www.infobae.com/resizer/v2/CUZKWQVJZFGGNM6FY76YKQDNJI.jpg?auth=88c5c8db2a7158379d9dceddf29f729ab9c31f75d003f6cb8cd87a9d1530a0a2&height=1281&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/robles-despide-a-mas-de-250-militares-que-viajan-a-libano-en-la-mision-unifil-la-operacion-es-mas-necesaria-que-nunca/",
+        "date": "2025-01-06 01:48:46",
+        "sentiment_score": 0.22260141372680664
+    },
+    {
+        "title": "Temas del día de EFE España del domingo 17 de noviembre de 2024 (13:30 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/temas-del-dia-de-efe-espana-del-domingo-17-de-noviembre-de-2024-1330-horas/",
+        "date": "2025-01-06 01:33:38",
+        "sentiment_score": -0.7294064741581678
+    },
+    {
+        "title": "Lo hizo mejor que ningún mexicano: Issa López sobre \"Emilia Pérez\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/issa-lopez-00-00-49-28-still002.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/issa-lopez-golden-globes-globos-de-oro-emilia-perez-showbiz/",
+        "date": "2025-01-06 01:24:44",
+        "sentiment_score": 0.1052040159702301
+    },
+    {
+        "title": "¿Podría el Gobierno de Trump acabar con la guerra en Ucrania?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/donald-trump-20250103210900784.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataque-ucrania-kursk-mirador-mundial-tv/",
+        "date": "2025-01-06 00:23:29",
+        "sentiment_score": -0.41486795246601105
+    },
+    {
+        "title": "Varios muertos y heridos por ataque en bar de Villahermosa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/tabasco-bar.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ataque-bar-villaheromsa-tabasco-muertos-mirador-mundial-tv/",
+        "date": "2025-01-06 00:23:22",
+        "sentiment_score": -0.7315886970609426
+    },
+    {
+        "title": "La gente acude al Centro Carter a despedir al expresidente Jimmy Carter",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191984464.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jimmy-carter-centro-carter-expresidente-ush-mirador-mundial-tv/",
+        "date": "2025-01-06 00:19:43",
+        "sentiment_score": -0.3560861051082611
+    },
+    {
+        "title": "Asamblea General de Venezuela ratifica liderazgos a días de toma de Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191972466.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/asamblea-general-de-venezuela-confirma-a-sus-dirigentes/",
+        "date": "2025-01-06 00:11:50",
+        "sentiment_score": 0.1476348340511322
+    },
+    {
+        "title": "Atacante de Nueva Orleans tenía 2 bombas que no logró detonar",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191631272-20250106000150913.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/atacante-nueva-orleans-bombas-mirador-mundial-tv/",
+        "date": "2025-01-06 00:06:44",
+        "sentiment_score": -0.6821394674479961
+    },
+    {
+        "title": "Hamas compartió video de rehén israelí capturada el 7 de octubre de 2023",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1742509908.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hamas-video-rehen-israeli-mirador-mundial-tv/",
+        "date": "2025-01-06 00:03:10",
+        "sentiment_score": -0.12971347570419312
+    },
+    {
+        "title": "Policía de Kansas advierte a los conductores en medio de tormenta de nieve",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/thumb-nieve-20250105230850444.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tormenta-nieve-kansas-advertencia-agente-ush-trax/",
+        "date": "2025-01-05 23:09:34",
+        "sentiment_score": -0.8297271579504013
+    },
+    {
+        "title": "María Corina Machado llama a los venezolanos a las calles un día antes de la investidura de Maduro",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/06/corina-machado-konC-U7070566188AxF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/maria-corina-machado-llama-venezolanos-calles-dia-20250106005830-nt.html",
+        "date": "2025-01-05 23:58:31",
+        "sentiment_score": -0.004299044609069824
+    },
+    {
+        "title": "La esquina de la alegría",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/01/02/newspaint-1735829143964-1200x840-k3ZC--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-esquina-alegria-20250106223602-nts.html",
+        "date": "2025-01-05 22:24:06",
+        "sentiment_score": 0.014340102672576904
+    },
+    {
+        "title": "El atacante de Nueva Orleans había grabado la calle del atentado con gafas inteligentes",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/05/Jabbar1-kgTB-U7070461866xWF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/atacante-nueva-orleans-grabado-calle-atentado-gafas-20250105232011-nt.html",
+        "date": "2025-01-05 22:20:11",
+        "sentiment_score": -0.14306211471557617
+    },
+    {
+        "title": "Ganadores de los Golden Globes 2025: la lista completa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HAXISZ4HSNEZZAFPGOTCP3WL6M.jpg?auth=f3a96e3c36c7a9da1d2f20e584eee59b148561ecececd332547fc79ab63f23c8&width=1200",
+        "tags": [
+            "selena gómez",
+            "ralph fiennes",
+            "tilda swinton",
+            "zoe saldana",
+            "edward norton",
+            "timothée chalamet",
+            "sofía vergara",
+            "premios",
+            "pamela anderson",
+            "adam sandler",
+            "jesse plemons",
+            "daniel craig",
+            "globos de oro",
+            "angelina jolie",
+            "cate blanchett",
+            "estados unidos",
+            "televisión",
+            "hans zimmer",
+            "demi moore",
+            "denzel washington",
+            "ted danson",
+            "jesse eisenberg",
+            "cine",
+            "hugh grant",
+            "kathy bates",
+            "viola davis",
+            "zendaya",
+            "diego luna",
+            "adrien brody",
+            "jamie foxx",
+            "américa",
+            "nicole kidman",
+            "guy pearce",
+            "kate winslet",
+            "ariana grande",
+            "martin short"
+        ],
+        "link": "https://elpais.com/us/2025-01-06/ganadores-de-los-golden-globes-2025-la-lista-completa.html",
+        "date": "2025-01-06 01:27:05",
+        "sentiment_score": 0.7121988423168659
+    },
+    {
+        "title": "Escopetazo",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250106/escopetazo_258164.html",
+        "date": "2025-01-06 00:30:00",
+        "sentiment_score": -0.5033359378576279
+    },
+    {
+        "title": "La expulsión de Vinicius y el 'Caso Dani Olmo', en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/01/06/677b213c92f2b.r_d.856-343.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/expulsion-vinicius-caso-dani-olmo-tertulion-domingos-20250106_3072280.html",
+        "date": "2025-01-06 00:23:38",
+        "sentiment_score": -0.0779964029788971
+    },
+    {
+        "title": "\"Lo que nosotros no vemos, ellos lo huelen\": así trabajan perros adiestrados ante catástrofes naturales",
+        "image_url": "https://www.infobae.com/resizer/v2/YDKRDUN5IVAWLKLA62G7VCYJKY.jpg?auth=fda3722817d08777ef6793879fd46a7617907d7677a4ac3770762bec6d2b0ae5&height=2551&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/17/lo-que-nosotros-no-vemos-ellos-lo-huelen-asi-trabajan-perros-adiestrados-ante-catastrofes-naturales/",
+        "date": "2025-01-05 23:34:18",
+        "sentiment_score": -0.3604583889245987
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 6 de enero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/05/hoy-sera-noticia-lunes-6-de-enero/",
+        "date": "2025-01-05 23:15:59",
+        "sentiment_score": 0.04238846153020859
+    },
+    {
+        "title": "Los Reyes Magos desafían el mal tiempo para repartir ilusión y toneladas de caramelos",
+        "image_url": "https://images.ecestaticos.com/nwt7ltCJXm5FL4tOg_bwnMUivv8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F037%2F048%2Fca4%2F037048ca46ac7a0b1b878d67f7e208b7.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elconfidencial.com/espana/2025-01-06/los-reyes-magos-desafian-el-mal-tiempo-y-llenan-de-ilusion-las-calles-de-espana_4037128/",
+        "date": "2025-01-05 23:13:00",
+        "sentiment_score": -0.24503763020038605
+    },
+    {
+        "title": "Así progresan las reformas de los estadios mundialistas: La Rosaleda, el proyecto más caro",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosur.es/malagacf/reformas-estadios-mundialistas-larosaleda-proyectomascaro-20250105202631-nt.html",
+        "date": "2025-01-05 23:06:02",
+        "sentiment_score": 0.23665277659893036
+    },
+    {
+        "title": "Aitana estaría ilusionada con Jude Bellingham",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/01/Aitana-Jude-Bellingham-730x524.webp",
+        "tags": [
+            "sebastián yatra",
+            "placeres",
+            "jugador de fútbol",
+            "aitana",
+            "cantante",
+            "real madrid",
+            "ilusion",
+            "jude bellingham",
+            "españa"
+        ],
+        "link": "https://primicia.com.ve/placeres/aitana-estaria-ilusionada-con-jude-bellingham/",
+        "date": "2025-01-05 23:00:36",
+        "sentiment_score": -0.6694109700620174
+    },
+    {
+        "title": "Pelear a contrarreloj",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/14/pensamiento/847675268_12777166_1706x960.jpg?contentId=ESPIMA20240414_0044",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250106/pelear-contrarreloj/914288565_13.html",
+        "date": "2025-01-05 23:00:00",
+        "sentiment_score": -0.2455797642469406
+    },
+    {
+        "title": "Celta y Real Sociedad avanzan a octavos de final en la Copa del Rey",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/01/677a862c2b3de-1-730x432.webp",
+        "tags": [
+            "copa del rey",
+            "real sociedad",
+            "fútbol español",
+            "celta de vigo",
+            "deportes",
+            "octavos de final",
+            "clasificación"
+        ],
+        "link": "https://primicia.com.ve/deportes/celta-y-real-sociedad-avanzan-a-octavos-de-final-en-la-copa-del-rey/",
+        "date": "2025-01-05 22:46:11",
+        "sentiment_score": 0.30714570730924606
+    },
+    {
+        "title": "VÍDEO: Detenidas 14 personas vinculadas al cártel de Sinaloa tras el asesinato de un hombre en Cataluña",
+        "image_url": "https://www.infobae.com/resizer/v2/HELGC5YHERAM7ASUH4NMM7SMYM.jpg?auth=cd4c7a8eaa86a41080e1dd1ca889141eb2bb8769ee46159f40bde6bd115fb59d&height=1075&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/17/video-detenidas-14-personas-vinculadas-al-cartel-de-sinaloa-tras-el-asesinato-de-un-hombre-en-cataluna/",
+        "date": "2025-01-06 01:47:46",
+        "sentiment_score": -0.8346092477440834
+    },
+    {
+        "title": "La muerte de un motorista eleva a 7 las víctimas en accidente el fin de semana en Cataluña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/la-muerte-de-un-motorista-eleva-a-7-las-victimas-en-accidente-el-fin-de-semana-en-cataluna/",
+        "date": "2025-01-06 01:17:44",
+        "sentiment_score": -0.8723632795736194
+    },
+    {
+        "title": "Maddie, hija de Harry Bosch, se une a Ballard en la última novela de Michael Connelly",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/maddie-hija-de-harry-bosch-se-une-a-ballard-en-la-ultima-novela-de-michael-connelly/",
+        "date": "2025-01-06 01:17:07",
+        "sentiment_score": -0.5687163509428501
+    },
+    {
+        "title": "Isidoro Collado, el pastelero y discípulo del inventor del miguelito que custodia su receta original: \"Sabe como en los 60\"",
+        "image_url": "https://s1.elespanol.com/2024/12/16/actualidad/909170008_251730226_1706x960.jpg?contentId=ESPIMA20241216_0934",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250106/isidoro-collado-pastelero-discipulo-inventor-miguelito-custodia-receta-original-sabe/904660014_0.html",
+        "date": "2025-01-06 01:16:43",
+        "sentiment_score": 0.06557203829288483
+    },
+    {
+        "title": "Albiach (Comuns) pide a Illa un \"cambio de época\" en vivienda para aprobar los Presupuestos de 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/5KMJSMMRAZDLTOT5LALH6QBB6E.jpg?auth=38c9f539ef4e150713267857b53d321ee030dbaa83d04743fa7bf7af0ee88c17&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/17/albiach-comuns-pide-a-illa-un-cambio-de-epoca-en-vivienda-para-aprobar-los-presupuestos-de-2025/",
+        "date": "2025-01-06 01:04:23",
+        "sentiment_score": 0.40321241319179535
+    },
+    {
+        "title": "El Grupo MT y la RFEA donan 1.000 cascos a los afectados por la Dana en Valencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/17/el-grupo-mt-y-la-rfea-donan-1000-cascos-a-los-afectados-por-la-dana-en-valencia/",
+        "date": "2025-01-06 01:02:01",
+        "sentiment_score": 0.4255653917789459
+    },
+    {
+        "title": "Cristina Vallejo, abogada experta en vivienda: “Solo con el nuevo índice de referencia no se solucionará el problema del alquiler”",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/01/agente-inmobiliario-ofrece-firmar-contrato-alquiler-foto-2-300x200.jpg",
+        "tags": [
+            "control de precios",
+            "índice de referencia",
+            "cristina vallejo",
+            "actualización de renta",
+            "arrendamientos",
+            "legislación",
+            "actualidad",
+            "alquileres",
+            "ley de vivienda",
+            "derecho inmobiliario",
+            "app",
+            "znoticia portada1",
+            "artículos"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/cristina-vallejo-abogada-experta-en-vivienda-solo-con-el-nuevo-indice-de-referencia-no-se-solucionara-el-problema-del-alquiler/",
+        "date": "2025-01-06 01:00:35",
+        "sentiment_score": 0.31613218039274216
+    },
+    {
+        "title": "El Barça se entrega al dinero de Oriente Medio para resolver sus problemas económicos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/30/culemania/palco/912668726_13922607_1706x960.png?contentId=ESPIMA20241230_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250106/el-barca-oriente-medio-resolver-problemas-economicos/914158632_0.html",
+        "date": "2025-01-06 00:57:40",
+        "sentiment_score": -0.1956368386745453
     }
 ];
