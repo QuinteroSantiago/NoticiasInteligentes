@@ -200,16 +200,6 @@ export default [
         "sentiment_score": 0.008886516094207764
     },
     {
-        "title": "Scholz impone una votación a mano alzada para ratificar su candidatura electoral",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/04/SCHOLZ-RjdAKz5tPLN2FYbWGekkb1I-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/scholz-impone-votacion-mano-alzada-ratificar-candidatura-20250104140037-nt.html",
-        "date": "2025-01-04 13:00:37",
-        "sentiment_score": -0.10573062300682068
-    },
-    {
         "title": "España ante su desafío económico: estos son los 10 riesgos que enfrenta el país en 2025",
         "image_url": "https://imagenes.elpais.com/resizer/v2/T55ZFFYGSNGJPJM2CKAXTGDNLE.jpg?auth=4cb3e495e6ade407b25427ba47acab75bb41f057360739c84560cd5f2e8fcad7&width=1200",
         "tags": [
@@ -6473,5 +6463,376 @@ export default [
         "link": "https://www.superdeporte.es/baloncesto/2025/01/07/girona-hunde-barca-deja-sentenciado-113192927.html",
         "date": "2025-01-07 21:41:47",
         "sentiment_score": -0.859021320939064
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 8 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/VCPXRWTQAVGKZKCG2NCHVRFTU4.jpg?auth=e717d600ad3c90fa1f619772a5247455b8a5848d7061c90f66f8c5be67e13b48&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/08/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-8-de-enero/",
+        "date": "2025-01-08 02:01:55",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Unos 780 inmigrantes llegan a Canarias en diez embarcaciones en las últimas 24 horas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/08/unos-780-inmigrantes-llegan-a-canarias-en-diez-embarcaciones-en-las-ultimas-24-horas/",
+        "date": "2025-01-08 00:16:16",
+        "sentiment_score": 0.03585876524448395
+    },
+    {
+        "title": "Gobierno siente \"alivio\" tras la suspensión de la orden italiana de restitución al padre del hijo menor de Juana Rivas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/07/gobierno-siente-alivio-tras-la-suspension-de-la-orden-italiana-de-restitucion-al-padre-del-hijo-menor-de-juana-rivas/",
+        "date": "2025-01-07 23:45:32",
+        "sentiment_score": -0.2920457422733307
+    },
+    {
+        "title": "Julián Calero: \"Crecimos mucho desde el gol anulado\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/07/julian-calero-crecimos-mucho-desde-el-gol-anulado/",
+        "date": "2025-01-07 23:31:49",
+        "sentiment_score": 0.20749160647392273
+    },
+    {
+        "title": "Un informe cifra en 78 millones los empleos creados netos para 2030 pese a automatización",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/07/un-informe-cifra-en-78-millones-los-empleos-creados-netos-para-2030-pese-a-automatizacion/",
+        "date": "2025-01-07 23:16:52",
+        "sentiment_score": 0.17274129390716553
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 8 de enero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/07/hoy-sera-noticia-miercoles-8-de-enero/",
+        "date": "2025-01-07 23:16:12",
+        "sentiment_score": 0.035074397921562195
+    },
+    {
+        "title": "La jueza concede ‘in extremis’ la cautelar a Juana Rivas y paraliza la entrega de su hijo menor a su padre en Italia",
+        "image_url": "https://www.infobae.com/resizer/v2/MKNWM5CXJFHELFSD74SJR6DLLI.jpg?auth=9c615542a577d66aeb81c572c4fab144ba7459eed53e0d6ee30daa65a935ad5e&height=1174&smart=true&width=1600",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/07/la-jueza-concede-la-cautelar-a-juana-rivas-y-paraliza-la-entrega-de-su-hijo-menor-a-su-padre-en-italia/",
+        "date": "2025-01-07 23:08:54",
+        "sentiment_score": 0.10397820174694061
+    },
+    {
+        "title": "Dani Ponz: “La diferencia estuvo en la pegada\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/07/dani-ponz-la-diferencia-estuvo-en-la-pegada/",
+        "date": "2025-01-07 23:01:50",
+        "sentiment_score": -0.03890765458345413
+    },
+    {
+        "title": "Puente dice que el PSOE ve \"debilidad\" en algunos territorios y por eso encarga el liderazgo a sus \"mejores activos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/7RUXAADIGBFKBII3BU3LHSH24Y.jpg?auth=fb219ec5e627a16054a38dc4b06f1abe92dd1ac9208c0f535e57dff1b5663d8e&height=1376&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/07/puente-dice-que-el-psoe-ve-debilidad-en-algunos-territorios-y-por-eso-encarga-el-liderazgo-a-sus-mejores-activos/",
+        "date": "2025-01-07 23:00:52",
+        "sentiment_score": 0.3909677714109421
+    },
+    {
+        "title": "0-3. El Levante plasma su gran superioridad en la segunda parte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/07/0-3-el-levante-plasma-su-gran-superioridad-en-la-segunda-parte/",
+        "date": "2025-01-07 22:47:36",
+        "sentiment_score": 0.32941797375679016
+    },
+    {
+        "title": "Tiroteo en Ribera Occidental se suma a la tensión en Medio Oriente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192205165-20250108004336110.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tiroteo-ribera-occidental-gaza-israel-hamas-trump-panorama-mundial-tv/",
+        "date": "2025-01-08 02:05:17",
+        "sentiment_score": -0.3009539246559143
+    },
+    {
+        "title": "Autoridades de Los Ángeles advierten que los vientos podrían intensificar los incendios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendios-los-angeles-california-vientos-perspectivas-mexico-tv/",
+        "date": "2025-01-08 01:20:33",
+        "sentiment_score": -0.7306775450706482
+    },
+    {
+        "title": "La renuncia de una caricaturista del Washington Post pone sobre la mesa el tema de la censura",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2155587478-20250108005208505.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/renuncia-caricaturista-washington-post-dusa-tv-fast/",
+        "date": "2025-01-08 00:57:04",
+        "sentiment_score": -0.5288544520735741
+    },
+    {
+        "title": "Ordenan prisión sin fianza para el acusado de prender fuego a una mujer en el metro de Nueva York",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/apimages-053379b9576b43618cc0862490a96acb.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nueva-york-ataque-metro-mujer-quemada-directo-usa-tv/",
+        "date": "2025-01-08 00:05:32",
+        "sentiment_score": -0.8480267226696014
+    },
+    {
+        "title": "Trump insiste en promover una política exterior expansionista para EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192852939.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-busca-instalar-una-politica-exterior-expansionista-en-ee-uu/",
+        "date": "2025-01-07 23:56:53",
+        "sentiment_score": -0.26746582239866257
+    },
+    {
+        "title": "Féretro del expresidente Jimmy Carter llega al Capitolio para su funeral",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192865001.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-feretro-jimmy-carter-washington-funeral-dusa-tv-fast/",
+        "date": "2025-01-07 22:35:07",
+        "sentiment_score": -0.3263293094933033
+    },
+    {
+        "title": "El Gobierno de Maduro detiene a varios «mercenarios» de EE.UU., Colombia y Ucrania",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/08/maduro4-k2hF-U7077739483lNF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gobierno-maduro-detiene-varios-mercenarios-eeuu-colombia-20250108022414-nt.html",
+        "date": "2025-01-08 01:24:15",
+        "sentiment_score": -0.1903824806213379
+    },
+    {
+        "title": "Lo que dice la ciencia: el café por la mañana beneficia a tu salud",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/01/07/coffe.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/cafe-mejor-manana-20250108012300-nt.html",
+        "date": "2025-01-08 00:23:00",
+        "sentiment_score": -0.1677926778793335
+    },
+    {
+        "title": "¿Por qué tanta infamia?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/08/1490595472-RweUtHV3ju9ghrrhEhtK2QP-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/olga-emma-sanchez-gomez-tanta-infamia-20250108194613-nt.html",
+        "date": "2025-01-07 23:57:32",
+        "sentiment_score": -0.04630845785140991
+    },
+    {
+        "title": "Verlander y Gigantes acuerdan por 15 millones y un año, según fuente de AP",
+        "image_url": "https://dims.apnews.com/dims4/default/2294a6a/2147483647/strip/true/crop/5564x3704+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2Ff4%2Fee25ade63537381892273b509e75%2Fb36879bf0b3246f5931f91642db61bf0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/verlander-justin-gigantes-san-francisco-contrato-acuerdo-9078db9c2006c9d15b9a5483cc0a4c81",
+        "date": "2025-01-08 02:02:21",
+        "sentiment_score": 0.09928426519036293
+    },
+    {
+        "title": "Las autoridades kurdas de Siria piden a la ONU y a la coalición internacional \"acciones\" para evitar una \"tragedia\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250108022619_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-autoridades-kurdas-siria-piden-onu-coalicion-internacional-acciones-evitar-tragedia-20250108022619.html",
+        "date": "2025-01-08 01:26:19",
+        "sentiment_score": -0.42939773947000504
+    },
+    {
+        "title": "Ya se conoce la fecha de llegada de James Rodríguez a Barranquilla: hay ilusión en el Junior",
+        "image_url": "https://www.infobae.com/resizer/v2/SAHRZKFSBZHAHEDFEDVQROWEEM.jfif?auth=1f5f9eaa89cdd4743b4c8cd7194fb469af5c67850076c7deb24b8c7dea176ff3&height=2730&smart=true&width=4096",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/08/ya-se-conoce-la-fecha-de-llegada-de-james-rodriguez-a-barranquilla-hay-ilusion-en-el-junior/",
+        "date": "2025-01-08 01:25:34",
+        "sentiment_score": 0.5722933374345303
+    },
+    {
+        "title": "Suspenden por dos partidos a Vinicius tras la roja en Valencia",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/01/vinicius-calentamiento.jpeg",
+        "tags": [
+            "stole dimitrievski",
+            "vinicius",
+            "real madrid",
+            "valencia",
+            "deportes",
+            "sanción",
+            "agresión",
+            "fútbol"
+        ],
+        "link": "https://primicia.com.ve/deportes/suspenden-por-dos-partidos-a-vinicius-tras-la-roja-en-valencia/",
+        "date": "2025-01-08 01:14:55",
+        "sentiment_score": -0.6830824222415686
+    },
+    {
+        "title": "Elliott se une a Chargers tras firmar con equipo de prácticas",
+        "image_url": "https://dims.apnews.com/dims4/default/5a521c5/2147483647/strip/true/crop/4979x3314+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2Ff1%2F4750dbd671254e8ed871fe684578%2F503fa3f5e2124a289fd23708e2f4da8d",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/ezekiel-elliott-chargers-los-angeles-equipo-practicas-b603f77b0df258d031b202182dd0c242",
+        "date": "2025-01-08 01:07:36",
+        "sentiment_score": 0.3135066591203213
+    },
+    {
+        "title": "Un club argentino le envió una oferta formal a James Rodríguez: “Ya movió sus fichas”",
+        "image_url": "https://www.infobae.com/resizer/v2/EWOB72ZFUV2P6ELVYN3RHRHQJY.jpg?auth=209b7d4628fc58a3ea8a0befd22f597ab2db62cbc90bc7737789d70376531af0&height=570&smart=true&width=800",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/08/un-club-argentino-le-envio-una-oferta-formal-a-james-rodriguez-ya-movio-sus-fichas/",
+        "date": "2025-01-08 01:07:15",
+        "sentiment_score": -0.0903499498963356
+    },
+    {
+        "title": "Felipe y Letizia acuden a su último encuentro navideño en este coche: un SUV de corte deportivo y marca española",
+        "image_url": "https://s1.elespanol.com/2025/01/07/motor/914669021_252160169_1706x960.jpg?contentId=ESPIMA20250107_0497",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/motor/20250108/felipe-letizia-acuden-ultimo-encuentro-navideno-coche-suv-corte-deportivo-marca-espanola/914658604_0.html",
+        "date": "2025-01-08 01:00:18",
+        "sentiment_score": -0.06087670475244522
+    },
+    {
+        "title": "Casi 20 casas a mitad de precio a media hora del centro de Madrid: así puedes conseguir una por 67.747 euros",
+        "image_url": "https://s1.elespanol.com/2025/01/07/madrid/comunidad/914668941_252157759_1706x960.jpg?contentId=ESPIMA20250107_0417",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20250108/casas-mitad-precio-media-hora-centro-madrid-puedes-conseguir-euros/914658859_0.html",
+        "date": "2025-01-08 00:55:54",
+        "sentiment_score": -0.09050117433071136
+    },
+    {
+        "title": "La Comunidad 'vacía' el Castillo de Manzanares tras volver a manos privadas: los tapices ya están en la Real Fábrica",
+        "image_url": "https://s1.elespanol.com/2025/01/07/madrid/comunidad/914669099_252162568_1706x960.jpg?contentId=ESPIMA20250107_0575",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20250108/comunidad-vacia-castillo-manzanares-volver-manos-privadas-tapices-real-fabrica/914658899_0.html",
+        "date": "2025-01-08 00:55:53",
+        "sentiment_score": 0.14722466468811035
+    },
+    {
+        "title": "Vinicius sancionado, pero preparado para jugar en la Supercopa",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/08/2025010801505520928.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/vinicius-sancionado-partidos-podra-jugar-supercopa/20250108015341329839.html",
+        "date": "2025-01-08 00:53:41",
+        "sentiment_score": -0.8909942395985126
+    },
+    {
+        "title": "Quién es Luis Astolfi: El joven que revive el idilio de su padre con Elena de Borbón",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/portada-astolfi-photoroom_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/quien-luis-astolfi-joven-revive-idilio-padre-con-elena-borbon",
+        "date": "2025-01-08 02:00:00",
+        "sentiment_score": 0.18466253206133842
+    },
+    {
+        "title": "El innovador invento de una joven española que convierte tu coche en caravana en menos de cinco minutos y se instala fácil",
+        "image_url": "https://s1.elespanol.com/2024/12/31/omicrono/tecnologia/912918931_252033603_1706x960.jpg?contentId=ESPIMA20241231_0232",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250108/innovador-invento-joven-espanola-convierte-coche-caravana-minutos-instala-facil/912908735_0.html",
+        "date": "2025-01-08 01:55:35",
+        "sentiment_score": 0.5944451950490475
+    },
+    {
+        "title": "De la internacionalización a la gestión del caos de las averías: estos son los retos del futuro presidente de Renfe",
+        "image_url": "https://s1.elespanol.com/2024/12/24/madrid/sociedad/911169255_251927127_1706x960.jpg?contentId=ESPIMA20241224_0381",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20250108/internacionalizacion-gestion-caos-averias-retos-futuro-presidente-renfe/914658694_0.html",
+        "date": "2025-01-08 01:00:16",
+        "sentiment_score": -0.7482277359813452
+    },
+    {
+        "title": "El barré, la nueva disciplina deportiva con lista de espera y 4 locales nuevos en Madrid: \"Es un infierno, pero está de moda\"",
+        "image_url": "https://s1.elespanol.com/2025/01/07/madrid/ocio/914669151_252164160_1706x960.jpg?contentId=ESPIMA20250107_0627",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20250108/barre-nueva-disciplina-deportiva-lista-espera-locales-nuevos-madrid-infierno-moda/914658795_0.html",
+        "date": "2025-01-08 00:55:55",
+        "sentiment_score": 0.5510526038706303
+    },
+    {
+        "title": "Asturias: por una política de vivienda que deje de apuntar solo al turismo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oriente/opinion/2025/01/08/asturias-politica-vivienda-deje-apuntar-113194519.html",
+        "date": "2025-01-08 00:47:06",
+        "sentiment_score": -0.6408550143241882
+    },
+    {
+        "title": "07 ENE 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/07-ene-2025-partidazo-cope-20250108_3073064.html",
+        "date": "2025-01-08 00:36:14",
+        "sentiment_score": -0.754740659147501
+    },
+    {
+        "title": "Barça y Athletic, más enfrentados que nunca: la rivalidad más tensa a las puertas de la Supercopa",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/07/culemania/palco/914668663_13949074_1706x960.jpg?contentId=ESPIMA20250107_0139",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250108/barca-athletic-mas-enfrentados-la-rivalidad-supercopa/914658637_0.html",
+        "date": "2025-01-08 00:31:35",
+        "sentiment_score": -0.6767172738909721
     }
 ];
