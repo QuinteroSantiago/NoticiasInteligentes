@@ -1,327 +1,5 @@
 export default [
     {
-        "title": "La nutricionista Boticaria García despeja las dudas sobre guardar o no los bricks de leche en la nevera: “Vamos a aclarar esto...”",
-        "image_url": "https://www.infobae.com/resizer/v2/6JWEJX42EBCVDI4CL7DE6QQACE.png?auth=75a0ed4bd71a2f52ee18e24a0302007bbbcdd756ddc4d277dc13b1ff21112da0&height=483&smart=true&width=809",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/05/la-nutricionista-boticaria-garcia-despeja-las-dudas-sobre-guardar-o-no-los-bricks-de-leche-en-la-nevera-vamos-a-aclarar-esto/",
-        "date": "2025-01-05 17:08:07",
-        "sentiment_score": 0.16417619213461876
-    },
-    {
-        "title": "El Athletic buscará su cuarta Supercopa de España",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/05/el-athletic-buscara-su-cuarta-supercopa-de-espana/",
-        "date": "2025-01-05 17:03:55",
-        "sentiment_score": 0.1170586422085762
-    },
-    {
-        "title": "0-2. La Real Sociedad no falla",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/05/0-2-la-real-sociedad-no-falla/",
-        "date": "2025-01-05 17:03:38",
-        "sentiment_score": -0.010709494352340698
-    },
-    {
-        "title": "EE.UU. dona a Colombia otros 94.800 euros para damnificados por lluvias en el Chocó",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/17/eeuu-dona-a-colombia-otros-94800-euros-para-damnificados-por-lluvias-en-el-choco/",
-        "date": "2025-01-05 17:03:33",
-        "sentiment_score": -0.5395071022212505
-    },
-    {
-        "title": "Ministerio de Transición: Consellería de Interior desmonta argumentación de Mazón",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/17/ministerio-de-transicion-conselleria-de-interior-desmonta-argumentacion-de-mazon/",
-        "date": "2025-01-05 17:03:15",
-        "sentiment_score": -0.2486393228173256
-    },
-    {
-        "title": "Los Reyes Magos llegan a los pueblos de la dana cargados de magia, juguetes y dulces",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/05/los-reyes-magos-llegan-a-los-pueblos-de-la-dana-cargados-de-magia-juguetes-y-dulces/",
-        "date": "2025-01-05 17:03:02",
-        "sentiment_score": 0.34367261081933975
-    },
-    {
-        "title": "Estas son las terminaciones más premiadas de la Lotería del Niño",
-        "image_url": "https://www.infobae.com/resizer/v2/HSX25EFM6NFERNC3EM3PSESYBY.jpg?auth=7936bd76827c8f0d7d6628d8f958dc3d3df4d51975b96c25d2d6cf275f0dc2ed&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/05/estas-son-las-terminaciones-mas-premiadas-de-la-loteria-del-nino/",
-        "date": "2025-01-05 16:59:54",
-        "sentiment_score": -0.08865788578987122
-    },
-    {
-        "title": "Denegada la pensión de viudedad a una mujer tras morir su marido porque se habían casado en Francia y no se registraron en España",
-        "image_url": "https://www.infobae.com/resizer/v2/FGHOP66O35DLNOON7JJX56JABM.jpg?auth=8285643665f8c7bf6dffe41e66bfd4d7eae23f4c032fb158658f55415f8d8976&height=3447&smart=true&width=5171",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/05/denegada-la-pension-de-viudedad-a-una-mujer-tras-morir-su-marido-porque-se-habian-casado-en-francia-y-no-se-registraron-en-espana/",
-        "date": "2025-01-05 16:50:50",
-        "sentiment_score": -0.5784752555191517
-    },
-    {
-        "title": "1-2. El Leganés remonta y accede a los octavos de final",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/05/1-2-el-leganes-remonta-y-accede-a-los-octavos-de-final/",
-        "date": "2025-01-05 16:46:16",
-        "sentiment_score": 0.6424077972769737
-    },
-    {
-        "title": "El PSOE critica al PP por saltarse la Ley Animal en cabalgata con bueyes y petardos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/05/el-psoe-critica-al-pp-por-saltarse-la-ley-animal-en-cabalgata-con-bueyes-y-petardos/",
-        "date": "2025-01-05 16:45:56",
-        "sentiment_score": -0.9050725614652038
-    },
-    {
-        "title": "Hamás publica un vídeo de una rehén en Gaza: «No es la Liri que conocemos»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/25/1490355210-kPiB--366x256@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hamas-publica-video-rehen-gaza-liri-conocemos-20250105171525-nt.html",
-        "date": "2025-01-05 16:35:31",
-        "sentiment_score": -0.20547732710838318
-    },
-    {
-        "title": "Polémica por el rodillazo de un paje a un buey en la cabalgata del Heraldo Real en Granada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z7VFUSBQ6OBD6OK2KYWTDLUGNQ.jpg?auth=2ee224c239e3a7864b681129d231c81993ec9c1497f77a22dff04bcb738cf6d2&width=1200",
-        "tags": [
-            "andalucía",
-            "maltrato animal",
-            "provincia granada",
-            "reyes magos",
-            "navidad",
-            "animales",
-            "españa",
-            "pacma",
-            "granada"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2025-01-05/polemica-por-el-rodillazo-de-un-paje-a-un-buey-en-la-cabalgata-del-heraldo-real-en-granada.html",
-        "date": "2025-01-05 16:34:42",
-        "sentiment_score": -0.7271889187395573
-    },
-    {
-        "title": "Los Reyes Magos en la cabalgata de Barcelona: “Deseamos paz para la infancia y bondad con el mundo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HPSKFKI5J5HYZP5WPVBAYH4ZFE.jpg?auth=8f8bb6a12d2bf2e35b594bc0a55f1791efdc3e39c57953ddca1efe95064b8c1c&width=1200",
-        "tags": [
-            "jaume collboni",
-            "barcelona",
-            "reyes magos",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-05/los-reyes-magos-en-barcelona-deseamos-paz-para-la-infancia-y-bondad-con-el-mundo-que-nos-rodea.html",
-        "date": "2025-01-05 16:11:08",
-        "sentiment_score": 0.47479213029146194
-    },
-    {
-        "title": "Caída de un paje, pedida de mano e insultos a Sánchez: así fue la cabalgata de Sevilla",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EKVLT7FFNGSSWZLRZFGBYWMEXA.jpg?auth=3fcc462a8d0f4750db8ca8b8653d57284edc3e5b87bc6361e4f87a8ef230119f&width=1200",
-        "tags": [
-            "andalucía",
-            "reyes magos",
-            "sevilla",
-            "navidad",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2025-01-05/caida-de-un-paje-pedida-de-mano-e-insultos-a-sanchez-asi-fue-la-cabalgata-de-sevilla.html",
-        "date": "2025-01-05 15:52:38",
-        "sentiment_score": -0.8441329132765532
-    },
-    {
-        "title": "Muere arrollado por un tren entre Alfafar y Catarroja al cruzar por un paso indebido",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/K22QVUPPMNE5XM6GST5TBTAOBE.jpg?auth=98866c0425083706a04e47d1bf3601bfd6707c62f5f9a05ee38a1657aef23034&width=1200",
-        "tags": [
-            "transporte ferroviario",
-            "renfe",
-            "alfafar",
-            "sociedad",
-            "valencia",
-            "accidentes ferrocarril",
-            "investigación policial",
-            "catarroja",
-            "adif",
-            "guardia civil",
-            "comunidad valenciana",
-            "muertes"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-05/un-hombre-muere-arrollado-por-un-tren-entre-alfafar-y-catarroja-al-cruzar-por-un-paso-indebido.html",
-        "date": "2025-01-05 15:06:00",
-        "sentiment_score": -0.6107295081019402
-    },
-    {
-        "title": "Telemadrid anuncia el regreso del “Gaspar guapo” a la cabalgata de Reyes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JSEOFHSAFZEBTH7OKWSDOIP5RM.JPG?auth=62bc0ae9d54faab6cee80ce33c894d0eec86f142ff60d08c892caa1fef911234&width=1200",
-        "tags": [
-            "navidad",
-            "reyes magos",
-            "comunidad de madrid",
-            "madrid",
-            "telemadrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-05/telemadrid-anuncia-el-regreso-del-gaspar-guapo-a-la-cabalgata-de-reyes.html",
-        "date": "2025-01-05 14:42:20",
-        "sentiment_score": 0.19396746903657913
-    },
-    {
-        "title": "Sigue en directo las cabalgatas de Madrid y Barcelona",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/05/rey-gaspar-de-madrid.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5669624/0/cabalgata-reyes-magos-2025-madrid-barcelona-directo/",
-        "date": "2025-01-05 17:08:01",
-        "sentiment_score": 0.01569712907075882
-    },
-    {
-        "title": "Las cabalgatas recorren España con amenaza de lluvia en buena parte del mapa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3e570048-6589-4e4e-9444-7a62a5340d22_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20250105/cabalgatas-recorren-espana-amenaza-lluvia-113139364",
-        "date": "2025-01-05 17:05:52",
-        "sentiment_score": -0.029764562845230103
-    },
-    {
-        "title": "Federico y Mary de Dinamarca: los desafíos que definieron su primer año en el reinado",
-        "image_url": "https://www.infobae.com/resizer/v2/F2VFJD4CCBA4FAVM4VUERWL6AM.jpg?auth=2dcb7a9aa025dd465b160b7957ceff04fbdd7b115f5869a110623cf79c96fa39&height=768&smart=true&width=1366",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/realeza/2025/01/05/federico-y-mary-de-dinamarca-los-desafios-que-definieron-su-primer-ano-en-el-reinado/",
-        "date": "2025-01-05 17:05:50",
-        "sentiment_score": -0.1929072141647339
-    },
-    {
-        "title": "Los laportistas y la incompetencia",
-        "image_url": "https://static1.ara.cat/clip/c9f1b872-e96a-40dc-aa2b-404548273fd6_16-9-aspect-ratio_default_1042807.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/laportistas-incompetencia_129_5247669.html",
-        "date": "2025-01-05 17:04:06",
-        "sentiment_score": -0.810891643166542
-    },
-    {
-        "title": "La Real conocerá el miércoles a su próximo rival copero",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/456ffe95-cc81-4bbc-83d1-d9be33f501ee_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/01/05/real-conocera-miercoles-proximo-rival-9124231.html",
-        "date": "2025-01-05 17:03:37",
-        "sentiment_score": 0.04069298878312111
-    },
-    {
-        "title": "(Crónica) El Ourense y el Elche dan la campanada ante Valladolid y Las Palmas y pasan a octavos",
-        "image_url": "https://www.infobae.com/resizer/v2/FK4DUJU7LNAQVAKVFZOMTCWBHE.jpg?auth=50e25c3c9612514200f1b8a45026958224df060870c6bff84b9e8af79d57c08a&height=1079&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/05/cronica-el-ourense-y-el-elche-dan-la-campanada-ante-valladolid-y-las-palmas-y-pasan-a-octavos/",
-        "date": "2025-01-05 17:00:16",
-        "sentiment_score": 0.11243945360183716
-    },
-    {
-        "title": "El regalo de Carvajal a Xokas por Reyes",
-        "image_url": "https://cflvdg.avoz.es/sc/Jr_FnIhOxGI6c0u9s3aL-gWc0Cg=/768x/2025/01/05/00121736087538061423788/Foto/Dani-Carvajal-Xokas.jpg",
-        "tags": [
-            "selección española de fútbol",
-            "lugo ciudad",
-            "toni kroos",
-            "kylian mbappé",
-            "fc barcelona",
-            "real madrid",
-            "mundial de clubes",
-            "fútbol",
-            "cristiano ronaldo",
-            "instagram",
-            "daniel carvajal",
-            "leo messi",
-            "joselu mato"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2025/01/05/regalo-carvajal-xokas-reyes-viva-espana/00031736087579287297721.htm",
-        "date": "2025-01-05 16:49:00",
-        "sentiment_score": 0.5922904312610626
-    },
-    {
-        "title": "El Real Madrid baja a la mina en la Copa de las sorpresas",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/01/05/real-madrid-khBD-U230457306801HnB-1200x840@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/deportes/futbol/copa-del-rey/real-madrid-baja-mina-copa-sorpresas-20250105174522-ntrc.html",
-        "date": "2025-01-05 16:45:26",
-        "sentiment_score": -0.22892677783966064
-    },
-    {
-        "title": "El último troquelero de Castilla y León es salmantino: «Cuando empecé no sabía que esto existía»",
-        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2025/01/04/1troquel-U14317176587YfE-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/provincia/utimo-troquelero-castilla-leon-salmantino-empece-sabia-20250104174914-nt.html",
-        "date": "2025-01-05 17:03:48",
-        "sentiment_score": 0.4726904761046171
-    },
-    {
-        "title": "Kendry Páez comanda la Sub-20 de Ecuador en busca del título en Sudamericano de Venezuela",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/05/kendry-paez-comanda-la-sub-20-de-ecuador-en-busca-del-titulo-en-sudamericano-de-venezuela/",
-        "date": "2025-01-05 17:03:21",
-        "sentiment_score": 0.06212446093559265
-    },
-    {
-        "title": "Collboni recibe a los Reyes Magos en Barcelona pidiéndoles especialmente por los niños necesitados",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250105180238_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-collboni-recibe-reyes-magos-barcelona-pidiendoles-especialmente-ninos-necesitados-20250105180238.html",
-        "date": "2025-01-05 17:02:38",
-        "sentiment_score": -0.06752164661884308
-    },
-    {
-        "title": "Tu casa está en zona inundable: cómo saberlo con el mapa oficial del gobierno de España",
-        "image_url": "https://s1.elespanol.com/2024/12/30/elandroidelibre/noticias-y-novedades/912668883_252006195_1706x960.jpg?contentId=ESPIMA20241230_0159",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20250105/casa-zona-inundable-saberlo-mapa-oficial-gobierno-espana/912658806_0.html",
-        "date": "2025-01-05 17:00:00",
-        "sentiment_score": -0.40249839797616005
-    },
-    {
         "title": "Industrias Alegre, proveedor de Ford: cómo levantarse de nuevo al ser arrasada por la dana",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -432,16 +110,6 @@ export default [
         "sentiment_score": -0.6906268987804651
     },
     {
-        "title": "Biden condecora a Hillary Clinton y a Michael J. Fox con la Medalla Presidencial de la Libertad",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/medallas-clinton-fox.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/biden-clinton-michael-fox-medalla-libertad-trax/",
-        "date": "2025-01-05 18:14:00",
-        "sentiment_score": 0.20761701464653015
-    },
-    {
         "title": "Jesús Navas, testimonio de fe",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/06/jesus-navas-tribuna-R4DhAtv7PcFJoOqsB5fwtmM-1200x840@diario_abc.jpg",
         "tags": [
@@ -460,86 +128,6 @@ export default [
         "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-siembra-total-20250106213742-nts.html",
         "date": "2025-01-05 20:37:42",
         "sentiment_score": 0.031991153955459595
-    },
-    {
-        "title": "El Cinexín",
-        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/12/26/declaracion-kbLD--170x119@La%20Verdad.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-cinexin-20250106165443-nt.html",
-        "date": "2025-01-05 18:31:47",
-        "sentiment_score": -0.04919558763504028
-    },
-    {
-        "title": "Me llaman mala persona",
-        "image_url": "https://s3.ppllstatics.com/larioja/www/multimedia/2024/12/30/joyeria-kQPC--170x119@La%20Rioja.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jose-f-pelaez-llaman-mala-persona-20250106193127-nt.html",
-        "date": "2025-01-05 18:31:28",
-        "sentiment_score": -0.29622533917427063
-    },
-    {
-        "title": "Hablemos de Franco",
-        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2024/12/26/declaracion-kbLD--170x119@La%20Verdad.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/luis-del-val-hablemos-franco-20250106193113-nt.html",
-        "date": "2025-01-05 18:31:22",
-        "sentiment_score": -0.06712079048156738
-    },
-    {
-        "title": "Un perfume como de Babilonia",
-        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/huelva/2025/01/02/cabalga-plus-U28307025360Iow-170x119@huelva24.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/chapu-apaolaza-perfume-babilonia-20250106163836-nt.html",
-        "date": "2025-01-05 18:31:12",
-        "sentiment_score": -0.05617225170135498
-    },
-    {
-        "title": "Enseñanzas de la Epifanía",
-        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2024/12/30/cabalgata-cadiz-U67576854816EvU-170x119@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-ensenanzas-epifania-20250106193045-nt.html",
-        "date": "2025-01-05 18:30:58",
-        "sentiment_score": 0.00979563593864441
-    },
-    {
-        "title": "El motor del cambio",
-        "image_url": "https://s2.ppllstatics.com/burgosconecta/www/multimedia/2025/01/02/bodega-archivo-haro-k7UH--170x119@Burgosconecta.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/ignacio-camacho-motor-cambio-20250106193030-nt.html",
-        "date": "2025-01-05 18:30:31",
-        "sentiment_score": -0.09073662757873535
-    },
-    {
-        "title": "Creencias religiosas y Radiotelevisión Española",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/06/1490595472-RICWC5u6yMXkLmGQai0JPCO-350x624@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/alfredo-dagnino-guerra-creencias-religiosas-radiotelevision-espanola-20250106193015-nt.html",
-        "date": "2025-01-05 18:30:15",
-        "sentiment_score": -0.11193391680717468
-    },
-    {
-        "title": "Ya no es migración, es éxodo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/06/ENFOQUEABC_Exodo_SORMAN-R2gib1w73Oji88JIl7hRgHL-350x624@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/guy-sorman-migracion-exodo-20250106192959-nt.html",
-        "date": "2025-01-05 18:29:59",
-        "sentiment_score": -0.15654024481773376
     },
     {
         "title": "La noche que Helios, un niño con leucemia, hizo de Rey Mago en la Cabalgata de Madrid",
@@ -7202,5 +6790,613 @@ export default [
         "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250109/startup-espanola-convertido-calor-residual-mina-oro-industria-generar-energia-limpia/914658849_0.html",
         "date": "2025-01-09 00:45:07",
         "sentiment_score": 0.49141252413392067
+    },
+    {
+        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades",
+        "image_url": "https://www.infobae.com/resizer/v2/OLEXFIQ3VRCCBLPXP4SL2H2GAY.jpg?auth=00726a374ad59994d445fcec5c039e0c45e3a6e549b967a636c39d8adad367f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/09/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades/",
+        "date": "2025-01-09 06:31:18",
+        "sentiment_score": -0.19599322974681854
+    },
+    {
+        "title": "'El mejor trato', campaña de Educo para alertar sobre comportamientos poco respetuosos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/09/el-mejor-trato-campana-de-educo-para-alertar-sobre-comportamientos-poco-respetuosos/",
+        "date": "2025-01-09 06:16:15",
+        "sentiment_score": -0.25626692175865173
+    },
+    {
+        "title": "Bajo mínimos en la maternidad del Hospital La Paz: las matronas no pueden “garantizar la seguridad maternofetal”",
+        "image_url": "https://www.infobae.com/resizer/v2/2EMOCIEVKNBOVEQI2SBNSJEVAQ.jpg?auth=425811b6136881883b8820315f23a8793d5d8497263aeecc9c4e29d8165260dc&height=1285&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/09/bajo-minimos-en-la-maternidad-del-hospital-la-paz-las-matronas-no-pueden-garantizar-la-seguridad-maternofetal/",
+        "date": "2025-01-09 06:03:24",
+        "sentiment_score": -0.7814670521765947
+    },
+    {
+        "title": "Cerca de 400.000 venezolanos residen en España, 10 veces más que hace 10 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/09/cerca-de-400000-venezolanos-residen-en-espana-10-veces-mas-que-hace-10-anos/",
+        "date": "2025-01-09 05:16:13",
+        "sentiment_score": -0.06177447736263275
+    },
+    {
+        "title": "Tipo de cambio dólar-euro y proyecciones de este 9 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/WAR32O4AHFFKVFVRVVJ54UP6AQ.jpg?auth=198d63a8c07f1b7d8dc9d4e9e56de8f0a53783fe26ad48732f872a0ae5cbfaa3&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/09/tipo-de-cambio-dolar-euro-y-proyecciones-de-este-9-de-enero/",
+        "date": "2025-01-09 05:15:24",
+        "sentiment_score": 0.26047976315021515
+    },
+    {
+        "title": "El PP se vuelca en el apoyo al exilio venezolano en la víspera de la toma de posesión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/09/el-pp-se-vuelca-en-el-apoyo-al-exilio-venezolano-en-la-vispera-de-la-toma-de-posesion/",
+        "date": "2025-01-09 05:01:26",
+        "sentiment_score": 0.26385585963726044
+    },
+    {
+        "title": "Torres y Clavijo abordan un posible reparto puntual de menores migrantes entre comunidades",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/09/torres-y-clavijo-abordan-un-posible-reparto-puntual-de-menores-migrantes-entre-comunidades/",
+        "date": "2025-01-09 04:30:37",
+        "sentiment_score": 0.08574548736214638
+    },
+    {
+        "title": "Los reyes ofrecen la tradicional recepción al cuerpo diplomático acreditado en España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/09/los-reyes-ofrecen-la-tradicional-recepcion-al-cuerpo-diplomatico-acreditado-en-espana/",
+        "date": "2025-01-09 04:15:57",
+        "sentiment_score": 0.3804417848587036
+    },
+    {
+        "title": "¡Por la Hobonichi, ma-to! La agenda japonesa de moda también se agota en España: “Su estructura es muy básica, pero la clave está en el papel”",
+        "image_url": "https://www.infobae.com/resizer/v2/UQEMHV6YEFCZXBUML5LONSP3DA.png?auth=74281ae6e018b7b81a57e8556e027e7ffaed54b3030d41bbde40e9e0df41bc01&height=878&smart=true&width=1320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/01/09/por-la-hobonichi-ma-to-la-agenda-japonesa-de-moda-tambien-se-agota-en-espana-su-estructura-es-muy-basica-pero-la-clave-esta-en-el-papel/",
+        "date": "2025-01-09 04:06:58",
+        "sentiment_score": 0.40737334638834
+    },
+    {
+        "title": "“Sin ayudas al comercio local, no se podrá recuperar parte de la normalidad”: la realidad en Paiporta tras más de dos meses de la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/JNGXWX2YTBD4TPDDAFEFUSWREY.jpeg?auth=1315425799bc51b5fce249919c2dcd2105db5e2384159e25f34fb564cd71731c&height=1376&smart=true&width=1536",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/09/sin-ayudas-al-comercio-local-no-se-podra-recuperar-parte-de-la-normalidad-la-realidad-en-paiporta-tras-mas-de-dos-meses-de-la-dana/",
+        "date": "2025-01-09 04:00:00",
+        "sentiment_score": -0.22221960872411728
+    },
+    {
+        "title": "Excomandante de la Guardia Nacional de Venezuela habla sobre si cree que hay una fractura en la Fuerzas Armadas del régimen",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2163941058-20250109033923117.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fuerzas-armadas-venezuela-maduro-control-conclusiones-tv/",
+        "date": "2025-01-09 03:42:47",
+        "sentiment_score": -0.6611217819154263
+    },
+    {
+        "title": "Exmilitar de Venezuela critica la formación de los cuerpos castrenses en su país",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1462891844-20250109032716066.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-llamado-poder-edmundo-conclusiones-tv/",
+        "date": "2025-01-09 03:31:34",
+        "sentiment_score": -0.8743298891931772
+    },
+    {
+        "title": "Video muestra el momento en que vandalizan estatua de cera de Netanyahu en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/sequence-04-00-00-41-05-still049.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "méxico",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-muestra-estatua-netanyahu-destruida-mexico-trax-perspectivas-mexico-tv/",
+        "date": "2025-01-09 02:45:07",
+        "sentiment_score": -0.5697068087756634
+    },
+    {
+        "title": "Un dron capta imágenes de las fuertes inundaciones en la zona de Leicester y Rutland, Inglaterra",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/capture-ing.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dron-imagenes-inundaciones-inglaterra-orix/",
+        "date": "2025-01-09 02:39:42",
+        "sentiment_score": -0.7304594274610281
+    },
+    {
+        "title": "La IA que viene en 2025 trabaja de mayordomo y toma decisiones sola",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/09/agentes-ia-RFRnrFFBvJc43fYFpT0L1gK-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/ia-viene-2025-trabaja-mayordomo-toma-decisiones-20250109175615-nt.html",
+        "date": "2025-01-09 05:04:30",
+        "sentiment_score": -0.07932664453983307
+    },
+    {
+        "title": "Estas son las transferencias que tu banco te va a seguir cobrando a pesar de la nueva norma europea",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/08/cajero.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/transferencias-banco-seguir-cobrando-pesar-nueva-norma-europea-20250109162511-nt.html",
+        "date": "2025-01-09 05:00:03",
+        "sentiment_score": -0.06921136379241943
+    },
+    {
+        "title": "El cambio en las transferencias bancarias que llega a España a partir de hoy y afectará a tu bolsillo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/15/banquill-kfLB-U70746421527CH-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cambio-transferencias-bancarias-espana-hoy-afectara-bolsillo-20250109050000-nt.html",
+        "date": "2025-01-09 04:00:00",
+        "sentiment_score": -0.047906309366226196
+    },
+    {
+        "title": "Qué es el 'sleepmaxxing': el precio de buscar el sueño perfecto que obsesiona a la generación Z",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/01/07/salud-dormir-RmEBHJs4F8Pol07CJ8X9BhO-1200x840@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/sleepmaxxing-club-selecto-obsesionados-dormir-bien-20250107133034-nt.html",
+        "date": "2025-01-09 03:24:58",
+        "sentiment_score": -0.06544217467308044
+    },
+    {
+        "title": "El precio de la vivienda sube otro 5,9% y apunta a superar en 2025 el máximo histórico de la burbuja",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/09/1487715647-R2sJQG66Zq7uhdvcl2o8UMP-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/precio-vivienda-sube-apunta-superar-2025-maximo-20250109042203-nt.html",
+        "date": "2025-01-09 03:22:03",
+        "sentiment_score": -0.10000625252723694
+    },
+    {
+        "title": "Los sindicatos azuzan cambios en los planes de pensiones de empleo para permitir retiros anticipados",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/09/oficina-banca-RyjKPs3mvNph6ehAkxQZUBN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sindicatos-azuzan-cambios-planes-pensiones-empleo-permitir-20250109180659-nt.html",
+        "date": "2025-01-09 03:20:54",
+        "sentiment_score": -0.02385038137435913
+    },
+    {
+        "title": "Yolanda Díaz facilita las renuncias de trabajadores en empresas con problemas para pagar las nóminas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/09/YolandaDazEP-Rl4c6rSrSsPPfR9AgXaxNJJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/yolanda-diaz-facilita-renuncias-trabajadores-empresas-problemas-20250109200000-nt.html",
+        "date": "2025-01-09 03:20:13",
+        "sentiment_score": -0.0739952027797699
+    },
+    {
+        "title": "Trilantic se desliga de Abelló y de los Oriol y busca ya socio industrial para su 30% de Talgo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/09/aveTalgo-RGhiTLsMvq6hZNnrqhA3nMI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/trilantic-desliga-abello-oriol-busca-socio-industrial-20250109191356-nt.html",
+        "date": "2025-01-09 03:20:04",
+        "sentiment_score": -0.07063929736614227
+    },
+    {
+        "title": "El Gobierno de España cree que Edmundo no acudirá a la toma de posesión en Caracas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/08/edmundo-gonzalez-RYv3SINb0eVXijTPW46lMUJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gobierno-espana-cree-edmundo-acudira-toma-posesion-20250108191420-nt.html",
+        "date": "2025-01-09 03:13:21",
+        "sentiment_score": -0.1275835484266281
+    },
+    {
+        "title": "El hermano de Sánchez declara como imputado en Badajoz por una denuncia de Manos Limpias",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EGUU6UKVZZBSHIQZJAKXA44HFI.jpg?auth=3fdb1990c4c999ebd95a7f1862f0adae1303620f965e48becd9c34810403baa0&width=1200",
+        "tags": [
+            "diputación provincial badajoz",
+            "uco",
+            "malversación fondos",
+            "españa",
+            "guardia civil",
+            "extremadura",
+            "hacienda pública",
+            "pedro sánchez",
+            "badajoz",
+            "tribunales"
+        ],
+        "link": "https://elpais.com/espana/2025-01-09/el-hermano-de-sanchez-declara-como-imputado-en-badajoz-por-una-denuncia-de-manos-limpias.html",
+        "date": "2025-01-09 04:40:00",
+        "sentiment_score": -0.6517892144620419
+    },
+    {
+        "title": "Los actos por la muerte de Franco incomodan de nuevo al PP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FMWT56DMT5EXTD2JH4QIFHZSO4.jpg?auth=6527450309150d9c54e67712175c3767087263e7147582143cf0abda53151c02&width=1200",
+        "tags": [
+            "víctimas franquismo",
+            "mariano rajoy",
+            "memoria histórica",
+            "ley memoria democrática",
+            "josé maría aznar",
+            "guerra civil española",
+            "españa",
+            "ley memoria histórica",
+            "dictadura",
+            "pp",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://elpais.com/espana/2025-01-09/los-actos-por-la-muerte-de-franco-incomodan-de-nuevo-al-pp.html",
+        "date": "2025-01-09 04:40:00",
+        "sentiment_score": -0.8245628848671913
+    },
+    {
+        "title": "La Abogacía insiste en clonar el móvil de Miguel Ángel Rodríguez pero el juez Hurtado duda",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DEYNBMZD2S3XRWND456PG7GHXE.jpg?auth=d1f76c1441c3229ba7b1542357f007cac12532d6886c14e4d5a6ff5b8aa2f9db&width=1200",
+        "tags": [
+            "isabel díaz ayuso",
+            "fiscalía general estado",
+            "fiscalía",
+            "españa",
+            "hacienda pública",
+            "delitos fiscales",
+            "miguel ángel rodríguez",
+            "alberto gonzález amador"
+        ],
+        "link": "https://elpais.com/espana/2025-01-09/la-abogacia-insiste-en-clonar-el-movil-de-miguel-angel-rodriguez-pero-el-juez-hurtado-duda.html",
+        "date": "2025-01-09 04:40:00",
+        "sentiment_score": 0.2869867905974388
+    },
+    {
+        "title": "ERC aparca ahora su incorporación al Gobierno de Collboni para centrarse en los Presupuestos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/M26HYTGHFFCF7JACZFQLL2L37Q.jpg?auth=b5616988b47f7a9acb42a3722b548a58a58adcf66c8ebca5a3151bacf981bc40&width=1200",
+        "tags": [
+            "barcelona",
+            "erc",
+            "ayuntamiento barcelona",
+            "elisenda alamany",
+            "pactos postelectorales",
+            "cataluña",
+            "jaume collboni"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-09/erc-aparca-ahora-su-incorporacion-al-gobierno-de-collboni-para-centrarse-en-los-presupuestos.html",
+        "date": "2025-01-09 04:15:00",
+        "sentiment_score": -0.9124878253787756
+    },
+    {
+        "title": "Comuns augura acuerdos a largo plazo para los Presupuestos: “PSC y ERC necesitan tiempo. Pueden llegar a mayo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Z76EAF6ITVFB5HASGN62XETVIY.jpg?auth=7a947ccbe5fe7106fcc685d7df09c899623bab8822837a1d90d8412b0edb2a9b&width=1200",
+        "tags": [
+            "erc",
+            "presupuestos autonómicos",
+            "juntsxcat",
+            "jéssica albiach",
+            "cat en comú",
+            "oriol junqueras",
+            "salvador illa",
+            "gerardo pisarello",
+            "generalitat cataluña",
+            "cataluña",
+            "carles puigdemont",
+            "psc"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-09/comuns-augura-acuerdos-a-largo-plazo-para-los-presupuestos-psc-y-erc-necesitan-tiempo-pueden-llegar-a-mayo.html",
+        "date": "2025-01-09 04:15:00",
+        "sentiment_score": 0.21067988499999046
+    },
+    {
+        "title": "Una “sorpresa” para la duquesa del Infantado: “ni rastro” de la licencia turística del castillo de Manzanares El Real",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/32WTW26ZLVCFJO7G4UNYMJVK7Y.jpg?auth=40a591df5933f0c1ee79325fb59af4db58511261f5c61b4d533bd638f3c91894&width=1200",
+        "tags": [
+            "patrimonio histórico",
+            "licencias",
+            "patrimonio artístico",
+            "visitas turísticas",
+            "urbanismo",
+            "ayuntamientos",
+            "cultura",
+            "castillos",
+            "turismo",
+            "comunidad de madrid",
+            "madrid",
+            "manzanares el real",
+            "títulos nobiliarios"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-09/una-sorpresa-para-la-duquesa-del-infantado-no-hay-ni-rastro-de-la-licencia-para-explotar-el-castillo-de-manzanares-el-real-con-turistas.html",
+        "date": "2025-01-09 04:00:00",
+        "sentiment_score": -0.5585053786635399
+    },
+    {
+        "title": "Como un elefante en una juguetería",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SIONAZVCWNGETFSO5DWQTID5QU.jpg?auth=e2bd98431f04d8cebb6d2b5d755dccb17a9f4bd7b99f5a46b9e0131a83aa435c&width=1200",
+        "tags": [
+            "infancia",
+            "opinión",
+            "niños",
+            "navidad",
+            "tradiciones navidad",
+            "reyes magos",
+            "jugueterías",
+            "comunidad de madrid",
+            "madrid",
+            "juguetes"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-09/como-un-elefante-en-una-jugueteria.html",
+        "date": "2025-01-09 04:00:00",
+        "sentiment_score": -0.7351337186992168
+    },
+    {
+        "title": "El Seprona investiga a 21 personas por levantar viviendas en una zona no urbanizable e inundable de Alicante",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5IQZFKZXQRDZ7M7E6UZSKCB4YM.jpg?auth=c366677c3c3dbe7cfd1a0dc6694736f75f012b7f1aaf441422cb83558f82e7d0&width=1200",
+        "tags": [
+            "inmigración irregular",
+            "alicante",
+            "urbanismo",
+            "guardia civil",
+            "delitos urbanísticos",
+            "seprona",
+            "españa",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-09/el-seprona-investiga-a-21-personas-por-levantar-viviendas-en-una-zona-no-urbanizable-e-inundable-de-alicante.html",
+        "date": "2025-01-09 04:00:00",
+        "sentiment_score": -0.020290054380893707
+    },
+    {
+        "title": "Orrio, el pueblo navarro que lleva 244 años dando cuerda al reloj de la iglesia: “Lo hacemos entre 10 familias”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ROAIKLWZRBBKBBMH3WMSKPLCOY.jpg?auth=c6f619797f7ec3a95ed72806afeb23be93405777e50baaf3dce681f6095670dd&width=1200",
+        "tags": [
+            "antigüedades",
+            "orrios",
+            "iglesias",
+            "vecinos",
+            "comunidades autónomas",
+            "españa vacía",
+            "relojes",
+            "pamplona",
+            "españa",
+            "navarra"
+        ],
+        "link": "https://elpais.com/espana/2025-01-09/orrio-el-pueblo-navarro-que-lleva-244-anos-dando-cuerda-al-reloj-de-la-iglesia.html",
+        "date": "2025-01-09 04:00:00",
+        "sentiment_score": 0.023335963487625122
+    },
+    {
+        "title": "Las 5 horas en las que se frustró la aduana comercial en Ceuta",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1143545",
+        "date": "2025-01-09 06:20:15",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Adiós a la suciedad en tu cafetera italiana con estas pastillas limpiadoras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/W2G2RD34HRH4RN5NOFE63VGCBA.png?auth=124e5c02b809042b7190568368b63c6ef2d89b4a913ad59ab77f0921ae5388f7&width=1200",
+        "tags": [
+            "café",
+            "pastilla",
+            "amazon",
+            "casa hogar",
+            "limpieza",
+            "cafeteras"
+        ],
+        "link": "https://elpais.com/escaparate/top-reviews/2025-01-09/pastillas-limpiadoras-para-cafeteras-italianas.html",
+        "date": "2025-01-09 06:15:00",
+        "sentiment_score": 0.7200264483690262
+    },
+    {
+        "title": "Conflicto en Oriente Próximo, en directo | Hamás asegura que Israel le ha planteado retirarse de Gaza si la milicia libera a todos los rehenes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LGCDPRXGPOQSC4PJJHGSUHTG2Y.jpg?auth=266c6147620d8e8d0ccca3138f59190f99fc82d1b0ebef7aa4a63270554d9cc6&width=1200",
+        "tags": [
+            "tregua",
+            "franja gaza",
+            "bombardeos",
+            "oriente próximo",
+            "benjamin netanyahu",
+            "territorios palestinos",
+            "conflictos armados",
+            "jerusalén",
+            "conflicto árabe-israelí",
+            "palestina",
+            "tel aviv",
+            "israel",
+            "guerra",
+            "hamás",
+            "cisjordania"
+        ],
+        "link": "https://elpais.com/internacional/2025-01-09/conflicto-en-oriente-proximo-en-directo.html",
+        "date": "2025-01-09 06:13:23",
+        "sentiment_score": -0.8312760647386312
+    },
+    {
+        "title": "Toma nota: salen los horarios de la Copa del Rey",
+        "image_url": "https://images.ficheroslavoz.com/f0/f01e6ce0-3528-492a-9f9e-95d2e676f670.jpg?crop=2346%2C1321&expires=1767939134&height=1070&token=QcnUa3yHCMmI7x1nuL_usUoFx36wIMyOzLX5Mo72FQ8&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/285630/toma-nota-salen-los-horarios-de-la-copa-del-rey",
+        "date": "2025-01-09 06:11:04",
+        "sentiment_score": 0.0840114876627922
+    },
+    {
+        "title": "El conjunto \"Toro Sacro\" recibió más de 50.000 visitantes en 2024",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/457e3246-28a6-4966-9279-2646235311bb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "visitantes,turistas,turismo,toro sacro,turismo religioso,colegiata de toro,iglesias"
+        ],
+        "link": "https://www.laopiniondezamora.es/toro/2025/01/09/conjunto-toro-sacro-recibio-50-113222368.html",
+        "date": "2025-01-09 06:00:31",
+        "sentiment_score": -0.0740329846739769
+    },
+    {
+        "title": "Lista Forbes | Las 25 ideas que cambiarán 2025",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/01/25-Ideas_Web-1200x675.jpg",
+        "tags": [
+            "listas",
+            "idea",
+            "2025",
+            "lista"
+        ],
+        "link": "https://forbes.es/listas/585893/lista-forbes-las-25-ideas-que-cambiaran-2025/",
+        "date": "2025-01-09 06:00:00",
+        "sentiment_score": 0.3716966286301613
+    },
+    {
+        "title": "15 ofertas de Nike en moda, calzado y complementos para él y ella",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JXMWSSAPTBAPBIIJODRFY6IV44.png?auth=9dcc891d053c51daab0ff8bc5f3936b3ca036e3a4ccfd55d8e90b25ab5f891cc&width=1200",
+        "tags": [
+            "moda",
+            "nike",
+            "calzado",
+            "comercio electrónico",
+            "deportes",
+            "amazon",
+            "calzado deportivo",
+            "camisetas",
+            "rebajas"
+        ],
+        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2025-01-09/ofertas-zapatillas-nike-enero-2025.html",
+        "date": "2025-01-09 06:00:00",
+        "sentiment_score": 0.5882870759814978
+    },
+    {
+        "title": "El PSOE de 1975 contra el Sánchez de 2025: «La muerte de Franco no implica el fin de la dictadura»",
+        "image_url": "https://okdiario.com/img/2025/01/08/psoe-de-1975-contra-el-sanchez-de-2025-la-muerte-de-franco-interior.jpg",
+        "tags": [
+            "franquismo",
+            "francisco franco",
+            "psoe",
+            "españa",
+            "democracia",
+            "pedro sánchez"
+        ],
+        "link": "https://okdiario.com/espana/psoe-1975-contra-sanchez-2025-muerte-franco-no-implica-fin-dictadura-14085543",
+        "date": "2025-01-09 05:52:22",
+        "sentiment_score": -0.7040253560990095
+    },
+    {
+        "title": "Borrón y cuenta nueva para el Athletic tras caer en la Supercopa ante el Barça",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e953ad1a-4714-4e50-b550-a5da16c81d91_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/01/09/borron-cuenta-nueva-athletic-supercopa-9135949.html",
+        "date": "2025-01-09 05:34:47",
+        "sentiment_score": -0.260319322347641
+    },
+    {
+        "title": "El jefe del Ejército se perfila como favorito para presidir Líbano con el apoyo de varios grupos parlamentarios",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250109062532_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-jefe-ejercito-perfila-favorito-presidir-libano-apoyo-varios-grupos-parlamentarios-20250109062532.html",
+        "date": "2025-01-09 05:25:32",
+        "sentiment_score": 0.03172421455383301
+    },
+    {
+        "title": "Las ofertas de trabajo del SEPE para teletrabajar con empleo fijo y sueldos de hasta 3.250 euros",
+        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/01/ofertas-trabajo-sepe-teletrabajar-empleo-fijo-sueldos-3250-euros-4280403.jpg?tf=1200x",
+        "tags": [
+            "estilo de vida"
+        ],
+        "link": "https://www.businessinsider.es/desarrollo-profesional/ofertas-trabajo-sepe-teletrabajar-empleo-fijo-sueldos-3250-euros-1434434",
+        "date": "2025-01-09 06:30:03",
+        "sentiment_score": 0.665300453081727
+    },
+    {
+        "title": "Peras al Barça",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/opinion/columnistas/2025/01/09/peras-barca-9134623.html",
+        "date": "2025-01-09 06:25:11",
+        "sentiment_score": -0.52241250872612
+    },
+    {
+        "title": "Lo que debes saber hoy, 9 de enero, de Barcelona",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/05/28/ciutat-vella/858674151_13002599_1706x960.jpg?contentId=ESPIMA20240528_0027",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250109/lo-que-debes-saber-hoy-de-enero-barcelona/915158477_0.html",
+        "date": "2025-01-09 06:11:30",
+        "sentiment_score": 0.13235317170619965
+    },
+    {
+        "title": "El afanado ejército secreto de judíos que recorrió miles de kilómetros para acabar con Franco",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/01/08/19-de-agosto-de-1936-francisco-franco-comandante-en-el-sur-visita-el-cuartel-general-del-frente-norte-en-burgos.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.huffingtonpost.es/life/cultura/el-afanado-ejercito-secreto-judios-recorrio-miles-kilometros-acabar-franco.html",
+        "date": "2025-01-09 06:08:44",
+        "sentiment_score": -0.25605832040309906
+    },
+    {
+        "title": "Cuatro pasos claves para planificar la economía familiar del año",
+        "image_url": "https://static1.ara.cat/clip/3b48500f-228c-4ff6-8c1e-942b86850fbb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/criaturas/cuatro-pasos-claves-planificar-economia-familiar-ano_130_5250140.html",
+        "date": "2025-01-09 06:01:47",
+        "sentiment_score": -0.42806264013051987
+    },
+    {
+        "title": "Restaurantes donde disfrutar en enero por 35 euros o menos",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d9bbe791-660d-445e-a0fc-7cd68d622c6c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/gastronomia/2025/01/09/restaurantes-disfrutar-enero-35-euros-9135967.html",
+        "date": "2025-01-09 06:01:02",
+        "sentiment_score": 0.6547385826706886
+    },
+    {
+        "title": "Restaurantes donde disfrutar en enero por 35 euros o menos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eac357f3-6f5d-401b-b2ba-459952195617_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/ocio/gastronomia/2025/01/09/restaurantes-disfrutar-enero-35-euros-113225732.html",
+        "date": "2025-01-09 06:00:43",
+        "sentiment_score": 0.6636702194809914
     }
 ];
