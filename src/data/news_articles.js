@@ -110,26 +110,6 @@ export default [
         "sentiment_score": -0.20547732710838318
     },
     {
-        "title": "Muere Costas Simitis, ex primer ministro de Grecia y líder del partido socialista",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/05/costas-simitis-k11-U7069281928OiH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/muere-costas-simitis-primer-ministro-grecia-lider-20250105125332-nt.html",
-        "date": "2025-01-05 11:53:33",
-        "sentiment_score": -0.0472598671913147
-    },
-    {
-        "title": "Elegancia de encuesta",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/02/Alejandro%20Moreno-kMzG--170x119@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/angel-antonio-herrera-elegancia-encuesta-20250105123628-nt.html",
-        "date": "2025-01-05 11:36:34",
-        "sentiment_score": -0.03520137071609497
-    },
-    {
         "title": "Polémica por el rodillazo de un paje a un buey en la cabalgata del Heraldo Real en Granada",
         "image_url": "https://imagenes.elpais.com/resizer/v2/Z7VFUSBQ6OBD6OK2KYWTDLUGNQ.jpg?auth=2ee224c239e3a7864b681129d231c81993ec9c1497f77a22dff04bcb738cf6d2&width=1200",
         "tags": [
@@ -208,101 +188,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-01-05/telemadrid-anuncia-el-regreso-del-gaspar-guapo-a-la-cabalgata-de-reyes.html",
         "date": "2025-01-05 14:42:20",
         "sentiment_score": 0.19396746903657913
-    },
-    {
-        "title": "Las cabalgatas de Reyes Magos en España, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GZPGZBK7UBBWFA2DBQ3MQFYH6E.jpg?auth=903bbebc42c7c5b85ac1febec9ed67ee86c0a72f2a0f66e706470e3e972249e5&width=1200",
-        "tags": [
-            "paiporta",
-            "fiestas",
-            "reyes magos",
-            "niños",
-            "madrid",
-            "españa",
-            "espectáculos",
-            "tradiciones navidad",
-            "gijón",
-            "regalos",
-            "familia",
-            "vacaciones",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/2025-01-05/las-cabalgatas-de-reyes-magos-en-espana-en-imagenes.html",
-        "date": "2025-01-05 13:41:41",
-        "sentiment_score": -0.09393832832574844
-    },
-    {
-        "title": "Muere Ricard Lobo, exmonje de Montserrat y primer director del Diari Oficial de la Generalitat",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AS555A3MDBA5VHTFGWZXKVJ7MM.jpg?auth=9d0f5747dd5684bb3536e8f97f1628ba32ce88c16e4e3813f502466c4fed2f6f&width=1200",
-        "tags": [
-            "obituarios",
-            "cataluña",
-            "josep tarradellas",
-            "jordi pujol",
-            "generalitat cataluña",
-            "administración autonómica"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-05/muere-ricard-lobo-exmonje-de-montserrat-y-primer-director-del-diari-oficial-de-la-generalitat.html",
-        "date": "2025-01-05 12:32:09",
-        "sentiment_score": 0.06348066031932831
-    },
-    {
-        "title": "El Valencia CF encarga a FCC Construcción la finalización del Nou Mestalla",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DX3CRE2VCRK7JN4RJGUAFOXYIU.jpg?auth=0dad46b0cf7e4166812abe20de0a56772d5135e8e65a4a0136c02714893ffac0&width=1200",
-        "tags": [
-            "fútbol",
-            "estadios fútbol",
-            "valencia",
-            "mestalla",
-            "fcc",
-            "comunidad valenciana",
-            "deportes",
-            "valencia cf"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-05/el-valencia-cf-encarga-a-fcc-construccion-la-finalizacion-del-nou-mestalla.html",
-        "date": "2025-01-05 12:19:40",
-        "sentiment_score": 0.26394047401845455
-    },
-    {
-        "title": "Detenido un hombre de 70 años por matar con una escopeta a su compañero de piso en Málaga",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LCPSZGPXPZFAZLRID63HQDRFTM.jpg?auth=205ee236eeb35da44994c4e56e618380f21b8b59086bb2d7240cff569f93a9c0&width=1200",
-        "tags": [
-            "provincia málaga",
-            "asesinatos",
-            "málaga",
-            "costa del sol",
-            "sucesos",
-            "andalucía",
-            "armas de fuego",
-            "policía nacional",
-            "muertes",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-01-05/detenido-un-hombre-de-70-anos-por-matar-con-una-escopeta-a-su-companero-de-piso-en-malaga.html",
-        "date": "2025-01-05 11:34:44",
-        "sentiment_score": -0.35389694571495056
-    },
-    {
-        "title": "Así será la cabalgata de los Reyes Magos en Barcelona en 2025: del puerto de Barcelona a Montjuïc:",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SE7GOYTKAZBGJM2TDFRVOWTLBM.jpg?auth=58c82ff8267cd18d97dc2213d38702a1de35cd5cfc4a09072a3b3c268640ec8c&width=1200",
-        "tags": [
-            "danza",
-            "barcelona",
-            "navidad",
-            "icub",
-            "reyes magos",
-            "metro barcelona",
-            "cultura",
-            "infancia",
-            "once",
-            "coreografías",
-            "cataluña",
-            "tradiciones navidad",
-            "ayuntamiento barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-05/asi-sera-la-cabalgata-de-los-reyes-magos-en-barcelona-del-puerto-de-barcelona-a-montjuic.html",
-        "date": "2025-01-05 10:48:14",
-        "sentiment_score": 0.024216093122959137
     },
     {
         "title": "Sigue en directo las cabalgatas de Madrid y Barcelona",
@@ -6917,5 +6802,405 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2025/01/08/inigo-martinez-hemos-hecho-un-gran-trabajo/",
         "date": "2025-01-08 22:00:51",
         "sentiment_score": 0.8651392832398415
+    },
+    {
+        "title": "Cuánto cobran los concursantes de ‘La isla de las tentaciones’: así es sueldo en el programa",
+        "image_url": "https://www.infobae.com/resizer/v2/JQHLVQQQKNFYZESGU4MKVZBNJQ.png?auth=da4b8795c5707ada8c9ff2a8ef7930c94397bec9fdbcc4a3aaacf758d8cfdb0b&height=387&smart=true&width=689",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/09/cuanto-cobran-los-concursantes-de-la-isla-de-las-tentaciones-asi-es-sueldo-en-el-programa/",
+        "date": "2025-01-09 02:10:51",
+        "sentiment_score": 0.039983510971069336
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Barcelona este jueves 9 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/ONJH7QBNTNGC7GLL3NGC6JMREI.jpg?auth=874fdac2599f8804b20e49c27e80e10b4b8d64389e06d25fc0ee960b941001bf&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/09/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-barcelona-este-jueves-9-de-enero/",
+        "date": "2025-01-09 02:02:03",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Paraguay anuncia convocados para Sudamericano Sub 20, con refuerzos de Argentina y España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/paraguay-anuncia-convocados-para-sudamericano-sub-20-con-refuerzos-de-argentina-y-espana/",
+        "date": "2025-01-09 01:16:09",
+        "sentiment_score": 0.10122602432966232
+    },
+    {
+        "title": "Una pareja compra una casa y 5 años después acusan de “traición” al antiguo propietario por el moho y otros problemas: “Estamos medicados y en depresión”",
+        "image_url": "https://www.infobae.com/resizer/v2/V73C6XIA6JFIJGGKNCNAVK7SFI.jpg?auth=f0d3c6ef3566a3bfef255bc2d04fcc1cefb4657eb7e8fd4709609c4bc06ede11&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/09/una-pareja-compra-una-casa-y-5-anos-despues-acusan-de-traicion-al-antiguo-propietario-por-el-moho-y-otros-problemas-estamos-medicados-y-en-depresion/",
+        "date": "2025-01-09 00:44:33",
+        "sentiment_score": -0.6620238274335861
+    },
+    {
+        "title": "Dos estudios liderados por españoles avanzan en el tratamiento de un cáncer de hígado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/08/dos-estudios-liderados-por-espanoles-avanzan-en-el-tratamiento-de-un-cancer-de-higado/",
+        "date": "2025-01-08 23:46:55",
+        "sentiment_score": 0.4784453362226486
+    },
+    {
+        "title": "Las tasaciones hipotecarias de vivienda crecen un 16 % y su importe un 19 %, según la AEV",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/08/las-tasaciones-hipotecarias-de-vivienda-crecen-un-16-y-su-importe-un-19-segun-la-aev/",
+        "date": "2025-01-08 23:17:06",
+        "sentiment_score": 0.05865868180990219
+    },
+    {
+        "title": "La compraventa de viviendas creció un 9 % en noviembre y el precio se encareció casi 6 %",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/08/la-compraventa-de-viviendas-crecio-un-9-en-noviembre-y-el-precio-se-encarecio-casi-6/",
+        "date": "2025-01-08 23:16:44",
+        "sentiment_score": 0.30262503027915955
+    },
+    {
+        "title": "El Estudiantes toma ventaja ante el subcampeón en la ida de octavos de final (75-65)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/08/el-estudiantes-toma-ventaja-ante-el-subcampeon-en-la-ida-de-octavos-de-final-75-65/",
+        "date": "2025-01-08 22:32:23",
+        "sentiment_score": 0.5544722974300385
+    },
+    {
+        "title": "Horarios de los octavos de final de la Copa del Rey",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/08/horarios-de-los-octavos-de-final-de-la-copa-del-rey/",
+        "date": "2025-01-08 22:32:06",
+        "sentiment_score": 0.011348828673362732
+    },
+    {
+        "title": "El Movistar Inter remonta ante el campeón Betis en un gran segundo periodo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/08/el-movistar-inter-remonta-ante-el-campeon-betis-en-un-gran-segundo-periodo/",
+        "date": "2025-01-08 22:31:50",
+        "sentiment_score": 0.8741817642003298
+    },
+    {
+        "title": "Impactantes imágenes de dron muestran cubierto de nieve al monte Leinster, en Irlanda",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/monte-leinster-00-00-26-10-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – general",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/imagenes-dron-monte-leinster-alertas-meteorologicas-nevada-frio-extremo-orix/",
+        "date": "2025-01-09 02:11:05",
+        "sentiment_score": -0.5099950507283211
+    },
+    {
+        "title": "Anderson Cooper informa desde un incendio forestal de California",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/ac-20250108210102864-20250109014415115.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/anderson-cooper-california-incendios-trax/",
+        "date": "2025-01-09 02:06:51",
+        "sentiment_score": -0.6552929449826479
+    },
+    {
+        "title": "Los 100 primeros días de gobierno de Claudia Sheinbaum",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192374831.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/100-dias-gobierno-sheinbaum-balance-seguridad-violencia-economia-trump-perspectivas-mexico-tv/",
+        "date": "2025-01-09 01:49:12",
+        "sentiment_score": 0.07993638515472412
+    },
+    {
+        "title": "Vientos con fuerza de huracán expandieron incendios en Los Ángeles, dice la alcaldesa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192306745.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendios-los-angeles-vientos-fuerza-huracan-sequia-karen-bass-panorama-mundial-tv/",
+        "date": "2025-01-09 01:28:17",
+        "sentiment_score": -0.4258536100387573
+    },
+    {
+        "title": "Sirios celebran en el primer avión rumbo a Damasco desde la caída de Al-Assad",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/damasco-horiz-00-00-14-18-still001.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sirios-celebran-primer-vuelo-a-damasco-trax/",
+        "date": "2025-01-09 00:54:22",
+        "sentiment_score": 0.08534321188926697
+    },
+    {
+        "title": "La presidenta de México responde con ironía a la idea de Trump por el nombre del Golfo de México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21273207-10015-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-politica-expansionista-eeuu-polemica-directo-usa-tv/",
+        "date": "2025-01-09 00:32:53",
+        "sentiment_score": -0.8136004768311977
+    },
+    {
+        "title": "Incendios forestales fuera de control en California dejan un panorama \"apocalíptico\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193016272.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/california-clima-incendios-forestales-fuera-control-directo-usa-tv/",
+        "date": "2025-01-09 00:22:05",
+        "sentiment_score": -0.8736430825665593
+    },
+    {
+        "title": "Personas intentan salvar su casa de un incendio con una manguera de jardín",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/personas-salvar-casa-incendios-california-trax-00-00-38-09-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/personas-salvar-casa-incendios-california-trax/",
+        "date": "2025-01-09 00:18:51",
+        "sentiment_score": -0.712966438382864
+    },
+    {
+        "title": "Trump pide a la Corte Suprema suspender la sentencia en el caso de dinero por silencio en Nueva York",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2154692943.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-apelacion-sentencia-pendiente-nueva-york-directo-usa-tv/",
+        "date": "2025-01-09 00:15:07",
+        "sentiment_score": -0.7598586957901716
+    },
+    {
+        "title": "El líder opositor venezolano Edmundo González presentó en Panamá copias de las actas electorales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192374851.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-edmundo-gonzalez-visita-panama-directo-usa-tv/",
+        "date": "2025-01-08 23:53:17",
+        "sentiment_score": -0.08824101090431213
+    },
+    {
+        "title": "El presidente de Ecuador reitera su apoyo a González y Machado a dos días de la investidura en Venezuela",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250109030230_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-presidente-ecuador-reitera-apoyo-gonzalez-machado-dos-dias-investidura-venezuela-20250109030230.html",
+        "date": "2025-01-09 02:02:30",
+        "sentiment_score": 0.15339305996894836
+    },
+    {
+        "title": "Atlético Nacional reforzaría su ataque con jugador proveniente del fútbol mexicano",
+        "image_url": "https://www.infobae.com/resizer/v2/SGTFRUWFWNAAJJXQHEA2CVHS44.jpg?auth=756e95b675465307a3bcead23fb3404e558e4fa9a450d132fe6764126094ea51&height=1949&smart=true&width=3227",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/09/atletico-nacional-reforzaria-su-ataque-con-jugador-proveniente-del-futbol-mexicano/",
+        "date": "2025-01-09 01:56:04",
+        "sentiment_score": -0.8805167060345411
+    },
+    {
+        "title": "Yamal y Gavi llevan al Barcelona a final de la Supercopa de España al vencer al Athletic Bilbao",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/1946d07/2147483647/strip/true/crop/6514x3420+0+462/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc8%2Fe3%2Ff5f9a9a94ec10cbca0880f1f62d9%2Fdac7427e10e743f7a2778b6412122177",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-01-08/yamal-y-gavi-llevan-al-barcelona-a-final-de-la-supercopa-de-espana-al-vencer-al-athletic-bilbao",
+        "date": "2025-01-09 01:48:19",
+        "sentiment_score": 0.22884540259838104
+    },
+    {
+        "title": "Ascienden a cinco los muertos por los incendios en Los Ángeles (EEUU)",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250109022942_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-ascienden-cinco-muertos-incendios-angeles-eeuu-20250109022942.html",
+        "date": "2025-01-09 01:29:42",
+        "sentiment_score": -0.862762643955648
+    },
+    {
+        "title": "El jefe de Gabinete de Montero organizó una cita entre Aldama y la '3' de la Agencia Tributaria en Madrid por un aplazamiento",
+        "image_url": "https://s1.elespanol.com/2025/01/08/espana/914919287_252192944_1706x960.png?contentId=ESPIMA20250108_0788",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20250109/jefe-gabinete-montero-organizo-cita-aldama-agencia-tributaria-madrid-aplazamiento/914908681_0.html",
+        "date": "2025-01-09 01:18:50",
+        "sentiment_score": -0.19597668945789337
+    },
+    {
+        "title": "Fin del plazo para votar a tu candidata favorita en la XII Edición de 'Las Top 100': llega el turno del jurado experto",
+        "image_url": "https://s1.elespanol.com/2025/01/08/mujer/lastop100/914919093_252186587_1706x960.jpg?contentId=ESPIMA20250108_0594",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/lastop100/20250109/fin-plazo-votar-candidata-favorita-xii-edicion-top-llega-turno-jurado-experto/914908897_0.html",
+        "date": "2025-01-09 01:18:48",
+        "sentiment_score": 0.05738728865981102
+    },
+    {
+        "title": "Hamás reivindica el tiroteo mortal en Cisjordania junto a Yihad Islámica y las brigadas de Al Fatá",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250109021045_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-hamas-reivindica-tiroteo-mortal-cisjordania-junto-yihad-islamica-brigadas-fata-20250109021045.html",
+        "date": "2025-01-09 01:10:45",
+        "sentiment_score": -0.5599696487188339
+    },
+    {
+        "title": "Las batallas sin fin de Huertas y Llull",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f7ed4d9-556f-46df-9fa4-817fd8a865b2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/01/09/batallas-huertas-llull-113223430.html",
+        "date": "2025-01-09 01:00:59",
+        "sentiment_score": -0.2716962993144989
+    },
+    {
+        "title": "Arrestado un hombre por intentar entrar con un machete en el Capitolio de EEUU",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250109015908_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-arrestado-hombre-intentar-entrar-machete-capitolio-eeuu-20250109015908.html",
+        "date": "2025-01-09 00:59:08",
+        "sentiment_score": -0.7730396836996078
+    },
+    {
+        "title": "El 'monopoly' de la Iglesia en Madrid con la 'ley Almeida': hasta 106 edificios religiosos podrán albergar pisos baratos",
+        "image_url": "https://s1.elespanol.com/2025/01/08/madrid/capital/914919231_252191051_1706x960.jpg?contentId=ESPIMA20250108_0732",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20250109/monopoly-iglesia-madrid-ley-almeida-edificios-religiosos-podran-albergar-pisos-baratos/914909004_0.html",
+        "date": "2025-01-09 00:57:47",
+        "sentiment_score": -0.5121344849467278
+    },
+    {
+        "title": "El biólogu y xenetista Svante Pääbo, V Premiu \"Hipatia\" de Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/65580766-9e11-4a94-8479-9ae7d0905b93_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/01/09/biologu-xenetista-svante-paabo-v-113219145.html",
+        "date": "2025-01-09 02:00:09",
+        "sentiment_score": -0.05654677748680115
+    },
+    {
+        "title": "Estos son los estilos de mechas que serán tendencia este 2025",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/d99a7e4ae3dedacbaaec2f5a71b3fcf5/crop/0x924/3072x3228/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/02/17358070389197.jpg",
+        "tags": [
+            "mechas",
+            "tresb",
+            "pelo",
+            "belleza",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/belleza/2025/01/09/67764f90fc6c832e6f8b457e.html",
+        "date": "2025-01-09 01:47:10",
+        "sentiment_score": 0.4101296439766884
+    },
+    {
+        "title": "Joan Laporta celebra inscripción de Dani Olmo con vulgar gesto",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/01/AP24104699495792_579cd5.jpg",
+        "tags": [
+            "joan laporta",
+            "deportes",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2025/01/08/joan-laporta-celebra-inscripcion-de-dani-olmo-con-vulgar-gesto/",
+        "date": "2025-01-09 01:29:00",
+        "sentiment_score": 0.1258821040391922
+    },
+    {
+        "title": "El Laporta más visceral se carga al primer heredero de Messi en otra noche mágica del nuevo elegido",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/09/culemania/primer-equipo/915168475_13952492_1706x960.jpg?contentId=ESPIMA20250109_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250109/el-laporta-visceral-primer-heredero-messi-elegido/915158476_0.html",
+        "date": "2025-01-09 01:20:00",
+        "sentiment_score": 0.47281211614608765
+    },
+    {
+        "title": "Luis García y los Astros acordaron para evitar arbitraje salarial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes",
+            "mlb",
+            "luis garcía",
+            "arbitraje salarial",
+            "astros de houston"
+        ],
+        "link": "https://noticialdia.com/deportes/luis-garcia-y-los-astros-acordaron-para-evitar-arbitraje-salarial/",
+        "date": "2025-01-09 01:17:56",
+        "sentiment_score": 0.05644023418426514
+    },
+    {
+        "title": "El FC Barcelona subastará artículos del estadio Spotify Camp Nou",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/01/El-FC-Barcelona-subastara-articulos-del-estadio-Spotify-Camp-Nou-8-ene-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "venezuela",
+            "monagas",
+            "maturín",
+            "deportes"
+        ],
+        "link": "https://elorientaldemonagas.com/el-fc-barcelona-subastara-articulos-del-estadio-spotify-camp-nou/",
+        "date": "2025-01-09 01:00:00",
+        "sentiment_score": 0.10259245336055756
+    },
+    {
+        "title": "Lamine Yamal afirma que renovará su contrato con el Barcelona el mayor tiempo posible",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lamine yamal",
+            "deportes",
+            "renovación",
+            "contrato",
+            "fc barcelona"
+        ],
+        "link": "https://noticialdia.com/deportes/lamine-yamal-afirma-que-renovara-su-contrato-con-el-barcelona-el-mayor-tiempo-posible/",
+        "date": "2025-01-09 00:52:32",
+        "sentiment_score": 0.20110225677490234
+    },
+    {
+        "title": "La startup española que ha convertido el calor residual en la mina de oro de la industria para generar energía limpia",
+        "image_url": "https://s1.elespanol.com/2024/10/16/actualidad/893921081_250053516_1706x960.jpg?contentId=ESPIMA20241016_0482",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250109/startup-espanola-convertido-calor-residual-mina-oro-industria-generar-energia-limpia/914658849_0.html",
+        "date": "2025-01-09 00:45:07",
+        "sentiment_score": 0.49141252413392067
     }
 ];
