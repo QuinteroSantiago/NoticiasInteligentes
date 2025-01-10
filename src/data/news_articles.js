@@ -152,26 +152,6 @@ export default [
         "sentiment_score": -0.17633658647537231
     },
     {
-        "title": "Hamas aprueba lista de 34 rehenes para posible intercambio, reporta Reuters",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/lista-rehenes-hamas-israel-cafe-tv/",
-        "date": "2025-01-06 14:07:18",
-        "sentiment_score": -0.28555920720100403
-    },
-    {
-        "title": "Edmundo González Urrutia: El 10 de enero, debo asumir el rol de comandante en jefe",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191852881.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzales-urrutia-10-enero-mensaje-gira-cafe-tv/",
-        "date": "2025-01-06 13:40:04",
-        "sentiment_score": 0.005645722150802612
-    },
-    {
         "title": "Un nuevo estudio vincula el consumo de bebidas azucaradas con estas dos conocidas enfermedades",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/01/06/bebidas-azucaradas-enfermedades-RI8GY1dXSjuonmXZKqFlHeL-1200x840@diario_abc.JPG",
         "tags": [
@@ -180,115 +160,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/nuevo-estudio-vincula-consumo-bebidas-azucaradas-dos-20250106180000-nt.html",
         "date": "2025-01-06 17:00:00",
         "sentiment_score": -0.1923673003911972
-    },
-    {
-        "title": "El presidente de Austria encarga a la extrema derecha la tarea de formar gobierno",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/06/Herbert-Kickl-kKUH-U7072293251pgG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/presidente-austria-encarga-extrema-derecha-tarea-formar-20250106141615-nt.html",
-        "date": "2025-01-06 13:16:16",
-        "sentiment_score": -0.10490123927593231
-    },
-    {
-        "title": "La Pascual Militar 2025 con los Reyes y la princesa Leonor, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3HFX24SCONDGNAUQ2XL5ZVT56A.jpg?auth=71ac28025e9d934c444ee0b93239fd9209f52b153991cbd78b6407d6c544303e&width=1200",
-        "tags": [
-            "celebraciones",
-            "margarita robles",
-            "fernando grande-marlaska",
-            "princesa de asturias",
-            "desfiles militares",
-            "pedro sánchez",
-            "casa real",
-            "navidad",
-            "españa",
-            "felipe vi",
-            "reina letizia",
-            "ejército español",
-            "leonor de borbón"
-        ],
-        "link": "https://elpais.com/espana/2025-01-06/la-pascual-militar-2025-con-los-reyes-y-la-princesa-leonor-en-imagenes.html",
-        "date": "2025-01-06 13:06:47",
-        "sentiment_score": -0.1126646101474762
-    },
-    {
-        "title": "La administración de lotería del centro comercial Bonaire de Aldaia reparte cinco series del tercer premio del Niño",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SI7T4HCBVRA4RFXLK7NYA7WJD4.JPG?auth=9c874a3e09fa22759a8e03f5b66838bcd148933678682f40413d37eeee3060bd&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "inundaciones dana octubre 2024",
-            "aldaia",
-            "dana",
-            "lotería niño",
-            "paiporta",
-            "premios"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-06/una-administracion-de-loteria-de-aldaia-cerrada-por-la-dana-reparte-cinco-series-del-tercer-premio-del-nino.html",
-        "date": "2025-01-06 12:48:31",
-        "sentiment_score": -0.3520878590643406
-    },
-    {
-        "title": "El Rey agradece la tarea de los militares frente a la dana “como apoyo esencial a las administraciones públicas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NAQMSH3SHJDRJI53OANLU336VE.jpg?auth=6184aef3d04ff8401e7a49ef2417a6060941aac7e474012b9644e68a9da2f1c5&width=1200",
-        "tags": [
-            "casa real",
-            "fernando grande-marlaska",
-            "españa",
-            "leonor de borbón",
-            "ejército español",
-            "pedro sánchez",
-            "reina letizia",
-            "palacio real",
-            "felipe vi",
-            "margarita robles",
-            "militares carrera"
-        ],
-        "link": "https://elpais.com/espana/2025-01-06/el-rey-agradece-la-tarea-de-los-militares-frente-a-la-dana-como-apoyo-esencial-a-las-administraciones-publicas.html",
-        "date": "2025-01-06 12:40:59",
-        "sentiment_score": 0.23720351606607437
-    },
-    {
-        "title": "El Supremo confirma la condena a un hombre que trató de violar a la perra de una chica de la que intentó abusar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FJY3FMXUIFKRJW73VDBEEW5LLU.jpg?auth=1afc88ce387cc0e88eebcf80ec79418e387329becdaac1654ad5670b56b14ad4&width=1200",
-        "tags": [
-            "animales",
-            "barcelona",
-            "violaciones",
-            "terrassa",
-            "agresiones sexuales",
-            "delitos",
-            "tribunal supremo",
-            "abusos sexuales",
-            "cataluña",
-            "sentencias",
-            "ap barcelona",
-            "justicia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-06/el-supremo-confirma-la-condena-a-un-hombre-que-trato-de-violar-a-la-perra-de-una-chica-de-la-que-intento-abusar.html",
-        "date": "2025-01-06 12:12:39",
-        "sentiment_score": -0.12047980353236198
-    },
-    {
-        "title": "La subasta solidaria de SER Catalunya recauda 65.850 euros, récord histórico, con una gorra de Serrat como objeto más deseado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ATLCPNMDNZDCLOSKC7O632L5CI.jpg?auth=c415a32ef01e499227efe2dd7d52b288a6591943177709a9e42d454444993d38&width=1200",
-        "tags": [
-            "reyes magos",
-            "cadena ser",
-            "subastas",
-            "joan manuel serrat",
-            "cataluña",
-            "solidaridad",
-            "tradiciones navidad",
-            "rosalía",
-            "navidad",
-            "ràdio barcelona",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-06/la-subasta-solidaria-de-ser-catalunya-recauda-65850-euros-record-historico-con-una-gorra-de-serrat-como-objeto-mas-deseado.html",
-        "date": "2025-01-06 10:52:40",
-        "sentiment_score": -0.05836975574493408
     },
     {
         "title": "Este martes, las selecciones de fútbol Ceuta vuelven a los entrenos",
@@ -7374,5 +7245,361 @@ export default [
         "link": "https://es.ara.cat/sociedad/habia-gente-decia-sociata-infiltrado_128_5251126.html",
         "date": "2025-01-09 21:46:04",
         "sentiment_score": -0.04396519064903259
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 10 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/P5KFXWCWBVBU3K2ZW7ZXHTFE34.jpg?auth=26c36ff0b09ccfa650510e9f58c60fd598225f8db80790159bb11ac6a6309223&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/10/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-10-de-enero/",
+        "date": "2025-01-10 02:01:40",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "PSOE-A pide con enmiendas al Presupuesto la \"integración\" de plantillas 112 y GREA en la nueva Agencia de Emergencias",
+        "image_url": "https://www.infobae.com/resizer/v2/RGUX3SDY2RENVJ2T7OMDW5VAGU.jpg?auth=93ea2198ff6356c25078e0895f2b487fd79de7eeb9145b106a590b0551bd819a&height=1372&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/psoe-a-pide-con-enmiendas-al-presupuesto-la-integracion-de-plantillas-112-y-grea-en-la-nueva-agencia-de-emergencias/",
+        "date": "2025-01-10 01:49:26",
+        "sentiment_score": 0.18303263187408447
+    },
+    {
+        "title": "Rebajan la pena a un guardia civil condenado por colaborar con el 'narco' al no descartar que le provocasen",
+        "image_url": "https://www.infobae.com/resizer/v2/VW5YCLG4MVCU7AJWKLEA43EO6U.jpg?auth=a096dca2f92488cb3ea3c709a89b79cf3aca7b84bcaa94e535b0649335f947d8&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/rebajan-la-pena-a-un-guardia-civil-condenado-por-colaborar-con-el-narco-al-no-descartar-que-le-provocasen/",
+        "date": "2025-01-10 01:34:25",
+        "sentiment_score": -0.7810574602335691
+    },
+    {
+        "title": "Zona de Bajas Emisiones de Zaragoza: qué vehículos están exentos de las restricciones",
+        "image_url": "https://www.infobae.com/resizer/v2/AYWDE2BUWZA5BAKMJK5IGMMBSA.jpg?auth=aae4cc8b68a4e0203b5b1e08eeca504c539991fb1b59ceaf71b965d66059a7fc&height=1938&smart=true&width=3113",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/10/zona-de-bajas-emisiones-de-zaragoza-que-vehiculos-estan-exentos-de-las-restricciones/",
+        "date": "2025-01-10 01:26:55",
+        "sentiment_score": 0.0680772140622139
+    },
+    {
+        "title": "Sumar apura las negociaciones para intentar sacar adelante este lunes el paquete fiscal",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/sumar-apura-las-negociaciones-para-intentar-sacar-adelante-este-lunes-el-paquete-fiscal/",
+        "date": "2025-01-10 00:49:39",
+        "sentiment_score": 0.03099614381790161
+    },
+    {
+        "title": "España, Francia e Italia piden moratoria en medidas de gestión pesquera en el Mediterráneo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/espana-francia-e-italia-piden-moratoria-en-medidas-de-gestion-pesquera-en-el-mediterraneo/",
+        "date": "2025-01-10 00:49:20",
+        "sentiment_score": -0.1167370080947876
+    },
+    {
+        "title": "Wall Street empieza la semana en terreno mixto y el Dow Jones baja un 0,19 %",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/wall-street-empieza-la-semana-en-terreno-mixto-y-el-dow-jones-baja-un-019/",
+        "date": "2025-01-10 00:34:23",
+        "sentiment_score": 0.03870248794555664
+    },
+    {
+        "title": "Repuntan las llegadas irregulares a Canarias, con 5.626 en la primera mitad de noviembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/repuntan-las-llegadas-irregulares-a-canarias-con-5626-en-la-primera-mitad-de-noviembre/",
+        "date": "2025-01-10 00:19:26",
+        "sentiment_score": 0.21445322036743164
+    },
+    {
+        "title": "Ramón, guardia civil: Estoy acostumbrado al dolor pero aún estoy asimilando un poco todo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/ramon-guardia-civil-estoy-acostumbrado-al-dolor-pero-aun-estoy-asimilando-un-poco-todo/",
+        "date": "2025-01-10 00:19:04",
+        "sentiment_score": -0.3755452558398247
+    },
+    {
+        "title": "Edmundo González espera que la liberación de presos \"marque un nuevo rumbo\" en Venezuela",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/edmundo-gonzalez-espera-que-la-liberacion-de-presos-marque-un-nuevo-rumbo-en-venezuela/",
+        "date": "2025-01-10 00:04:32",
+        "sentiment_score": 0.3909009173512459
+    },
+    {
+        "title": "Los Ángeles analiza medidas de toque de queda por incendios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/2025-01-08t230032z-679939093-rc2y5caju7wz-rtrmadp-3-california-wildfires-20250109165747166.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/presser-karen-bass-toque-queda-incendios-los-angeles-panorama-mundial-tv/",
+        "date": "2025-01-10 02:11:01",
+        "sentiment_score": 0.06321786344051361
+    },
+    {
+        "title": "El gobierno de Venezuela dice que María Corina Machado fingió su detención",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/maria-corina.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "venezuela",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maria-corina-machado-detencion-tarek-willliam-saab-panorama-mundial-tv/",
+        "date": "2025-01-10 02:08:46",
+        "sentiment_score": -0.6495717614889145
+    },
+    {
+        "title": "La postura de México en relación con Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2166441376.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/postura-gobierno-mexicano-venezuela-relacion-perspectivas-mexico-tv/",
+        "date": "2025-01-10 01:48:10",
+        "sentiment_score": -0.020958304405212402
+    },
+    {
+        "title": "Así fue el funeral de Estado del expresidente Jimmy Carter",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/dusa-3-20250110010529140.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-carter-funeral-presidente-dusa-tv/",
+        "date": "2025-01-10 01:10:43",
+        "sentiment_score": 0.38318003714084625
+    },
+    {
+        "title": "Republicanos consiguen apoyo de demócratas para una ley sobre inmigración",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/dusa-2-20250110005824038.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-senado-proyecto-inmigracion-dusa-tv/",
+        "date": "2025-01-10 01:03:37",
+        "sentiment_score": -0.5695619061589241
+    },
+    {
+        "title": "“Dios mío, lo tenemos”: así fue el rescate de un perro perdido durante varios días de frío",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/110844-dronedogrescue-00-00-16-11-still002-20250110010000983.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dron-termico-encuentra-perro-desaparecido-trax/",
+        "date": "2025-01-10 01:01:12",
+        "sentiment_score": -0.22117099165916443
+    },
+    {
+        "title": "Autoridades investigan el origen del incendio en Los Ángeles",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/dusa-1-20250110004955624.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-incendios-california-devastacion-dusa-tv/",
+        "date": "2025-01-10 00:55:37",
+        "sentiment_score": -0.7076094299554825
+    },
+    {
+        "title": "Autoridades de Los Ángeles informan sobre el combate a los incendios forestales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2187555000.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/autoridades-california-los-angeles-incendios-perspectivas-tv-fast/",
+        "date": "2025-01-10 00:14:52",
+        "sentiment_score": 0.04388280212879181
+    },
+    {
+        "title": "Cámara de seguridad muestra cómo un pirómano prende fuego a sus pantalones en Australia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/australia-piromano-fuego-trax-00-00-08-28-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/australia-piromano-fuego-trax/",
+        "date": "2025-01-09 23:07:21",
+        "sentiment_score": -0.7257884349673986
+    },
+    {
+        "title": "Proyectan pérdidas por incendios en California de US$ 50.000 millones",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192409964.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-incendios-perdidas-economicas-millones-dolares-ush-orix/",
+        "date": "2025-01-09 23:01:07",
+        "sentiment_score": -0.7933849133551121
+    },
+    {
+        "title": "\"La Roldana\" reivindícase nel Muséu de Valladolid y la Llaboral",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/41ce8cc8-edf4-4bd8-a7ba-ad25c241c11c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/01/10/roldana-reivindicase-nel-museu-valladolid-113221254.html",
+        "date": "2025-01-10 02:00:03",
+        "sentiment_score": -0.05032312870025635
+    },
+    {
+        "title": "La agonía del presidente de la peña del Real Madrid en Los Ángeles por los incendios: \"La DANA de Valencia americana\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/01/10/678075034650d.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/agonia-presidente-pena-real-madrid-angeles-incendios-dana-valencia-americana-20250110_3074510.html",
+        "date": "2025-01-10 01:18:07",
+        "sentiment_score": -0.3551306277513504
+    },
+    {
+        "title": "Tensión en la Liga: Laporta, el aliado más codiciado por Tebas y Florentino Pérez",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/10/culemania/palco/915418451_13956902_1706x960.jpg?contentId=ESPIMA20250110_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250110/tension-liga-laporta-codiciado-tebas-florentino-perez/915408451_0.html",
+        "date": "2025-01-10 00:58:15",
+        "sentiment_score": 0.5578125268220901
+    },
+    {
+        "title": "Bodas de encanto o un hotel en el \"mejor\" castillo de Madrid: los negocios que se le abren a la duquesa en Manzanares",
+        "image_url": "https://s1.elespanol.com/2024/09/06/actualidad/883922676_249000289_1706x960.jpg?contentId=ESPIMA20240906_1077",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20250110/bodas-encanto-hotel-mejor-castillo-madrid-negocios-abren-duquesa-manzanares/915158577_0.html",
+        "date": "2025-01-10 00:46:14",
+        "sentiment_score": -0.14594720304012299
+    },
+    {
+        "title": "El \"único\" restaurante de Madrid con el ramen de los 'japoneses esquimales': \"No había ninguno con el sabor real\"",
+        "image_url": "https://s1.elespanol.com/2025/01/09/madrid/ocio/915169162_252214994_1706x960.jpg?contentId=ESPIMA20250109_0688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20250110/unico-restaurante-madrid-ramen-japoneses-esquimales-no-ninguno-sabor-real/915158732_0.html",
+        "date": "2025-01-10 00:46:14",
+        "sentiment_score": -0.052195996046066284
+    },
+    {
+        "title": "09 ENE 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/09-ene-2025-partidazo-cope-20250110_3074509.html",
+        "date": "2025-01-10 00:43:07",
+        "sentiment_score": -0.1657630205154419
+    },
+    {
+        "title": "Las mujeres de Dani Rodríguez y Dominik Greif, acosadas por un grupo de hombres en Arabia Saudí",
+        "image_url": "https://cflvdg.avoz.es/sc/Ink32IaT22akaZ6k8WViLrFs1_o=/768x/2025/01/10/00121736468643583405536/Foto/Dani-Rodriguez-EP.jpg",
+        "tags": [
+            "rcd mallorca",
+            "fútbol",
+            "supercopa de españa"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2025/01/10/mujeres-dani-rodriguez-dominik-greif-acosadas-grupo-hombres-arabia-saudi/00031736468706579330649.htm",
+        "date": "2025-01-10 00:30:00",
+        "sentiment_score": -0.6871741358190775
+    },
+    {
+        "title": "Sin dimisión, de momento",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250110/dimision-momento_259597.html",
+        "date": "2025-01-10 00:30:00",
+        "sentiment_score": -0.15776175633072853
+    },
+    {
+        "title": "Toni Freixa celebra el corte de mangas de Laporta en el palco de Yeda: \"Es el mismo que hice yo en mi casa\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2025/01/10/6780696a3cd49.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/toni-freixa-celebra-corte-mangas-laporta-palco-yeda-hice-mi-casa-20250110_3074503.html",
+        "date": "2025-01-10 00:27:26",
+        "sentiment_score": -0.0749102532863617
+    },
+    {
+        "title": "Los peores asesinos en serie (I): 'El Arropiero' y su pasión sexual por los cadáveres",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/arropiero-1_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/sucesos/peores-asesinos-serie-arropiero-pasion-sexual-cadaveres",
+        "date": "2025-01-10 02:00:00",
+        "sentiment_score": -0.8123653419315815
+    },
+    {
+        "title": "El Barcelona regresa a los entrenamientos tras cuatro días de descanso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/18/el-barcelona-regresa-a-los-entrenamientos-tras-cuatro-dias-de-descanso/",
+        "date": "2025-01-10 01:49:06",
+        "sentiment_score": 0.3701877873390913
+    },
+    {
+        "title": "El Joan Laporta más desconocido y conflictivo: De su carrera política a la abogacía",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/copia-de-diseno-sin-titulo-4-1736442277831_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/joan-laporta-mas-desconocido-conflictivo-carrera-politica-abogacia",
+        "date": "2025-01-10 01:00:00",
+        "sentiment_score": 0.5686271414160728
+    },
+    {
+        "title": "Asisa analiza cómo asumir en solitario Muface y más de un millón de sus mutualistas tras el rechazo de Adeslas y DKV",
+        "image_url": "https://s1.elespanol.com/2024/11/05/invertia/observatorios/sanidad/898920561_250623874_1706x960.jpg?contentId=ESPIMA20241105_0462",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20250110/asisa-analiza-asumir-solitario-muface-millon-mutualistas-rechazo-adeslas-dkv/915158615_0.html",
+        "date": "2025-01-10 00:56:25",
+        "sentiment_score": -0.7510442603379488
+    },
+    {
+        "title": "Daniela Forever :Sinopsis de la película, reparto, actores más conocidos y dónde ver",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/01/10/2025011001475542731.jpg",
+        "tags": [
+            "cine"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/cine/daniela-forever/20250110015500907012.html",
+        "date": "2025-01-10 00:55:00",
+        "sentiment_score": -0.839165898039937
+    },
+    {
+        "title": "El gran problema de Laporta con las dimisiones: no permite a sus profesionales ejercer el trabajo que les fue asignado",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/21/culemania/palco/910418958_13900289_1706x960.jpg?contentId=ESPIMA20241221_0009",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250110/el-problema-laporta-dimisiones-permite-profesionales-asignado/915158592_0.html",
+        "date": "2025-01-10 00:52:54",
+        "sentiment_score": -0.7961664944887161
     }
 ];
