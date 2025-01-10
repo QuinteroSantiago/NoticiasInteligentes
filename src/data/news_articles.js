@@ -1,175 +1,5 @@
 export default [
     {
-        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 6 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/EN7W2ZBPP5A53HRD6KUVZGR45U.jpg?auth=3425631a346bbef077bc916122b7cc24b8fd708eee4645417619e639ba410c48&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/06/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-6-de-enero/",
-        "date": "2025-01-06 06:31:25",
-        "sentiment_score": -0.4170665740966797
-    },
-    {
-        "title": "Todas las sorpresas de los Globos de Oro: ‘Emilia Perez’ se corona sin Karla Sofía Gascón",
-        "image_url": "https://www.infobae.com/resizer/v2/ULP4U43PT5CLCAKBS2A4Q274JU.jpg?auth=91861beb61a8850e6c5195fd10fd3f87b577d891f86edbc345384f093b7c93cf&height=2599&smart=true&width=3840",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/01/06/todas-las-sorpresas-de-los-globos-de-oro-emilia-perez-se-corona-sin-karla-sofia-gascon/",
-        "date": "2025-01-06 06:25:26",
-        "sentiment_score": 0.06632564961910248
-    },
-    {
-        "title": "España condena \"el recrucedimiento\" de los bombardeos de Israel sobre Beirut y Gaza",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/17/espana-condena-el-recrucedimiento-de-los-bombardeos-de-israel-sobre-beirut-y-gaza/",
-        "date": "2025-01-06 06:19:21",
-        "sentiment_score": -0.9035970252007246
-    },
-    {
-        "title": "España condena el aumento de los bombardeos israelíes en Líbano y Gaza",
-        "image_url": "https://www.infobae.com/resizer/v2/OR5HCXNV55BDVIGMXRWRDXB6NM.jpg?auth=69236a488e689d2013146f468ae8114ed286f61d5970bc65cf43aa2b3fdb52a7&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/17/espana-condena-el-aumento-de-los-bombardeos-israelies-en-libano-y-gaza/",
-        "date": "2025-01-06 06:18:44",
-        "sentiment_score": -0.8243225403130054
-    },
-    {
-        "title": "Efemérides del 7 de enero",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/06/efemerides-del-7-de-enero/",
-        "date": "2025-01-06 06:15:49",
-        "sentiment_score": -0.0526212677359581
-    },
-    {
-        "title": "El misterioso origen del Sorteo del Niño: la hipótesis más creíble señala que lo fundó una duquesa para recaudar fondos para hospitales infantiles",
-        "image_url": "https://www.infobae.com/resizer/v2/6SIRH4TCVJCOFDEBNVSKIRG6JA.png?auth=2dfbe65db92c3bb6c8e5ec654d1cbef9fbc60f156a6cc26829e2842017eca934&height=736&smart=true&width=1060",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/06/el-misterioso-origen-del-sorteo-del-nino-la-hipotesis-mas-creible-senala-que-lo-fundo-una-duquesa-para-recaudar-fondos-para-hospitales-infantiles/",
-        "date": "2025-01-06 06:00:00",
-        "sentiment_score": 0.24620741233229637
-    },
-    {
-        "title": "Las dos caras del acceso a la vivienda: sacrificio para las familias y oportunidades para los inversores extranjeros",
-        "image_url": "https://www.infobae.com/resizer/v2/P3KNUBCWUPVPMYWEJOF3LWPPUE.jpg?auth=a74c4dfd88be8a50a3280f382794d26fbb008c57db1c808371640dd70e2515ec&height=533&smart=true&width=800",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/06/las-dos-caras-del-acceso-a-la-vivienda-sacrificio-para-las-familias-y-oportunidades-para-los-inversores-extranjeros/",
-        "date": "2025-01-06 06:00:00",
-        "sentiment_score": 0.13370873034000397
-    },
-    {
-        "title": "Payal Kapadia, la directora india revelación de la temporada: nominada a los Globos de Oro con una película independiente al margen de Bollywood",
-        "image_url": "https://www.infobae.com/resizer/v2/JQH4S573KJGWVDZLJ2QO7SNGII.jpeg?auth=2e9313b73c72ca8e977c24d163f76c9bdb320f4f70eb01eaaabbb0fed2112720&height=1424&smart=true&width=2388",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/01/06/payal-kapadia-la-directora-india-revelacion-de-la-temporada-nominada-a-los-globos-de-oro-con-una-pelicula-independiente-al-margen-de-bollywood/",
-        "date": "2025-01-06 06:00:00",
-        "sentiment_score": 0.3145213723182678
-    },
-    {
-        "title": "¿Qué pasaría si Laporta dimite? El FC Barcelona podría quedarse sin presidente hasta el final de temporada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/01/06/que-pasaria-si-laporta-dimite-el-fc-barcelona-podria-quedarse-sin-presidente-hasta-el-final-de-temporada/",
-        "date": "2025-01-06 06:00:00",
-        "sentiment_score": -0.9197054319083691
-    },
-    {
-        "title": "La sanidad madrileña llega al siglo XXI: gastará 10,4 millones para que la radiografía de un paciente se pueda compartir en todos los hospitales",
-        "image_url": "https://www.infobae.com/resizer/v2/IDU53OE45RHSFOBLVWK4VDQBRY.jpg?auth=db0ff912f6e10b66554695dfd50e80f4c0daf0eabc4ddf543545321854f45c2f&height=4318&smart=true&width=6477",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/06/la-sanidad-madrilena-llega-al-siglo-xxi-gastara-104-millones-para-que-la-radiografia-de-un-paciente-se-pueda-compartir-en-todos-los-hospitales/",
-        "date": "2025-01-06 06:00:00",
-        "sentiment_score": 0.287949375808239
-    },
-    {
-        "title": "Obituario | Juan Manuel Villa, integrante de “Los Magníficos”",
-        "image_url": "https://www.laregion.es/media/laregion/images/2025/01/06/2025010607311380292.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.laregion.es/articulo/espanha/obituario-costas-simitis-politico-griego-fundador-pasok/202501060731251360983.html",
-        "date": "2025-01-06 06:31:25",
-        "sentiment_score": 0.07360374927520752
-    },
-    {
-        "title": "Todos los ganadores de los Globos de Oro 2024: consulta la lista completa",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/01/06/globos%20oro.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/pantallas/ganadores-globos-oro-2024-consulta-lista-completa-20250106071500-ntrc.html",
-        "date": "2025-01-06 06:15:01",
-        "sentiment_score": 0.09919840842485428
-    },
-    {
-        "title": "La leyenda de Juan Manuel Villa: \"Los Magníficos aquí no pagan, están ustedes invitados\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ed5d3c44-5509-4f81-ac9f-40835d62fcdb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2025/01/06/leyenda-juan-manuel-villa-magnificos-113141737.html",
-        "date": "2025-01-06 06:00:48",
-        "sentiment_score": -0.20482736825942993
-    },
-    {
-        "title": "Así es Photocall TV, la plataforma que te da acceso a más de 1.000 canales gratis de todo el mundo",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/04/10/servicios-de-streaming.r_d.891-73-5156.jpeg",
-        "tags": [
-            "aplicaciones"
-        ],
-        "link": "https://www.20minutos.es/tecnologia/aplicaciones/photocall-tv-1000-canales-gratis-television-5239327/",
-        "date": "2025-01-06 06:00:01",
-        "sentiment_score": 0.07777955755591393
-    },
-    {
-        "title": "Sara Fort, mejor jefa de sala de España: \"Prefiero que el cliente vuelva 10 veces a que me dé 1.000 euros de propina\"",
-        "image_url": "https://s1.elespanol.com/2025/01/03/actualidad/913669086_252091293_1706x960.jpg?contentId=ESPIMA20250103_0462",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20250106/sara-fort-mejor-jefa-sala-espana-prefiero-cliente-vuelva-veces-euros-propina/902660098_0.html",
-        "date": "2025-01-06 06:00:00",
-        "sentiment_score": 0.6314560920000076
-    },
-    {
-        "title": "Luis Callejo, actor: “Me fui a EE.UU. con 15 años; era un paletillo de Segovia que no había subido nunca unas escaleras mecánicas \"",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/12/24/676aac6f412d3.png",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavanguardia.com/motor/actualidad/20250106/10236639/luis-callejo-actor-fui-estados-unidos-15-anos-paletillo-segovia-habia-subido-nunca-escaleras-mecanicas.html",
-        "date": "2025-01-06 06:00:00",
-        "sentiment_score": -0.2269025444984436
-    },
-    {
-        "title": "El retorno de Exin Castillos, el mítico juguete nacido en Barcelona que la nostalgia hace resurgir",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bb58167f-780e-46ed-8503-8916a82353b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/sociedad/2025/01/06/retorno-exin-castillos-mitico-juguete-113150326.html",
-        "date": "2025-01-06 06:29:07",
-        "sentiment_score": -0.22251613438129425
-    },
-    {
         "title": "La escalada de Samsung hace subir a la bolsa de Seúl un 2,16 %",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6992,5 +6822,557 @@ export default [
         "link": "https://www.larazon.es/cataluna/collboni-expresa-apoyo-comunidad-venezolana-barcelona-defensa-democracia_2025010967800007af217500014b134f.html",
         "date": "2025-01-09 16:57:43",
         "sentiment_score": -0.008044429123401642
+    },
+    {
+        "title": "La oposición valora \"con buenos ojos\" que España no envíe representante a la toma de posesión de Maduro",
+        "image_url": "https://www.infobae.com/resizer/v2/7IMVVKBY5RAUHL6TG2PKEBCDNA.jpg?auth=e368ad20a25e302e349c56683e26d682e36c5ecb58eea9b565f7882a94b3fb1d&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/la-oposicion-valora-con-buenos-ojos-que-espana-no-envie-representante-a-la-toma-de-posesion-de-maduro/",
+        "date": "2025-01-09 22:15:51",
+        "sentiment_score": 0.18297266960144043
+    },
+    {
+        "title": "Enriqueta Chicano Jávega es reelegida presidenta del Tribunal de Cuentas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/enriqueta-chicano-javega-es-reelegida-presidenta-del-tribunal-de-cuentas/",
+        "date": "2025-01-09 22:04:39",
+        "sentiment_score": 0.10161982476711273
+    },
+    {
+        "title": "AJFV y JJpD celebran que el Supremo suspenda el voto delegado en las elecciones a varias salas de Gobierno",
+        "image_url": "https://www.infobae.com/resizer/v2/ELSAWYXB3VEUNLOGRGHS7GKYPY.jpg?auth=8d554d8cbbcd839bff8fb17b67d2a5d2bdf48bbaec58f2e2e467465dc9612088&height=1278&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/ajfv-y-jjpd-celebran-que-el-supremo-suspenda-el-voto-delegado-en-las-elecciones-a-varias-salas-de-gobierno/",
+        "date": "2025-01-09 22:04:20",
+        "sentiment_score": -0.8857801016420126
+    },
+    {
+        "title": "España preside grupo de países que intentan evitar Israel aplique ley contra UNRWA en Gaza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/18/espana-preside-grupo-de-paises-que-intentan-evitar-israel-aplique-ley-contra-unrwa-en-gaza/",
+        "date": "2025-01-09 21:49:26",
+        "sentiment_score": -0.5130963921546936
+    },
+    {
+        "title": "Vox Burgos buscará una fórmula para enmendar las ayudas a las ONG y que solo socorran a inmigrantes regularizados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/vox-burgos-buscara-una-formula-para-enmendar-las-ayudas-a-las-ong-y-que-solo-socorran-a-inmigrantes-regularizados/",
+        "date": "2025-01-09 21:49:08",
+        "sentiment_score": -0.2298567071557045
+    },
+    {
+        "title": "Carla Suárez, nombrada nueva seleccionadora nacional de tenis en la Copa Billie Jean King",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/09/carla-suarez-nombrada-nueva-seleccionadora-nacional-de-tenis-en-la-copa-billie-jean-king/",
+        "date": "2025-01-09 21:48:15",
+        "sentiment_score": 0.3390887416899204
+    },
+    {
+        "title": "La extenista Carla Suárez, nueva seleccionadora de España para la Copa Billie Jean King",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/la-extenista-carla-suarez-nueva-seleccionadora-de-espana-para-la-copa-billie-jean-king/",
+        "date": "2025-01-09 21:46:45",
+        "sentiment_score": 0.0869111567735672
+    },
+    {
+        "title": "La oposición venezolana valora \"con buenos ojos\" que España no envíe representante a la toma de posesión de Maduro",
+        "image_url": "https://www.infobae.com/resizer/v2/FWYNOU2YQBC4DHOYZNQVK5BDP4.jpg?auth=11eaed009bd1a17967a22f821cb1b430c95c7c6d672729434ec5efd20a9353ea&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/la-oposicion-venezolana-valora-con-buenos-ojos-que-espana-no-envie-representante-a-la-toma-de-posesion-de-maduro/",
+        "date": "2025-01-09 21:45:37",
+        "sentiment_score": 0.014293849468231201
+    },
+    {
+        "title": "Investigadores de España, Brasil, China, Colombia y EE.UU. analizan en Teruel cartografiado tridimensional de Javalambre",
+        "image_url": "https://www.infobae.com/resizer/v2/GS4QPH3AZRD2DMDEVYOC36MSMU.jpg?auth=5637c1fce89be2666df32908a9307b9a70280a0bd90fc6d30ddc5dc4f251e6a3&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/18/investigadores-de-espana-brasil-china-colombia-y-eeuu-analizan-en-teruel-cartografiado-tridimensional-de-javalambre/",
+        "date": "2025-01-09 21:34:19",
+        "sentiment_score": 0.2722900025546551
+    },
+    {
+        "title": "El mexicano Pumas UNAM ficha al español Álex Padilla, quien va cedido por seis meses",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/09/el-mexicano-pumas-unam-ficha-al-espanol-alex-padilla-quien-va-cedido-por-seis-meses/",
+        "date": "2025-01-09 21:33:16",
+        "sentiment_score": -0.04790526628494263
+    },
+    {
+        "title": "El gobierno de Venezuela niega detención de María Corina Machado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192519685.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/diosdado-cabello-niega-detencion-corina-machado-panorama-tv-fast/",
+        "date": "2025-01-09 21:58:25",
+        "sentiment_score": -0.7449165396392345
+    },
+    {
+        "title": "“Me quiero despedir de mis compañeros y de mis compatriotas”: el mensaje de Pepe Mujica tras el avance del cáncer que padece",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2186710594-20250109142012081.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jose-pepe-mujica-cancer-despedida-orix/",
+        "date": "2025-01-09 20:29:59",
+        "sentiment_score": -0.5626058503985405
+    },
+    {
+        "title": "“Ya no se pudo hacer nada”: habitantes de California hablan de la pérdida de sus hogares a causa del incendio Eaton",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192441559.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/afectados-incendio-eaton-california-redaccion-buenos-aires-tv-fast/",
+        "date": "2025-01-09 20:21:22",
+        "sentiment_score": -0.9067035438492894
+    },
+    {
+        "title": "Detienen a María Corina Machado, líder de la oposición de Venezuela, tras salir de manifestación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maria-corina-machado-detencion-venezuela-tv/",
+        "date": "2025-01-09 19:56:48",
+        "sentiment_score": -0.7596152406185865
+    },
+    {
+        "title": "Experto: La sostenibilidad de la deuda en EE.UU. es una preocupación a largo plazo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2191216177-1.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-economia-retos-2025-deuda-sostenibilidad-globoeconomia-tv/",
+        "date": "2025-01-09 19:30:33",
+        "sentiment_score": -0.2546071335673332
+    },
+    {
+        "title": "En medio de una economía saludable, la Reserva Federal aún tiene \"espacio\" para recortar las tasas de interés, afirma experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2182768263.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-economia-reserva-federal-analisis-intereses-globoeconomia-tv/",
+        "date": "2025-01-09 19:26:57",
+        "sentiment_score": 0.3359050899744034
+    },
+    {
+        "title": "“Venezuela es libre”, dice María Corina Machado tras reaparecer en una manifestación en Caracas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192505496.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "venezuela",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maria-corina-machado-reaparece-protestas-venezuela-redaccion-buenos-aires-tv/",
+        "date": "2025-01-09 19:03:39",
+        "sentiment_score": -0.3578217625617981
+    },
+    {
+        "title": "Comunidad venezolana recibe a Edmundo González Urrutia en República Dominicana",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/thumb-edmundo-20250109183531766.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-edmundo-gonzales-republica-dominicana/",
+        "date": "2025-01-09 18:53:01",
+        "sentiment_score": 0.30379055440425873
+    },
+    {
+        "title": "“Nos veremos pronto en Caracas en libertad”: Edmundo González agradece apoyo en República Dominicana",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192496009.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzales-republica-dominicana-abinader-tv/",
+        "date": "2025-01-09 18:28:13",
+        "sentiment_score": 0.4034574255347252
+    },
+    {
+        "title": "Miles de venezolanos protestan en Madrid contra Maduro en vísperas de su toma de posesión",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192501383.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/protestas-venezolanos-madrid-toma-posesion-maduro/",
+        "date": "2025-01-09 18:27:44",
+        "sentiment_score": -0.3836965039372444
+    },
+    {
+        "title": "El Banco de España impone multa de 540.000 euros a Sociedad de Tasación y a sus consejeros y director general",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/09/banco-espana-k7PD-U7088056700uvE-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/banco-espana-impone-multa-540000-euros-sociedad-20250109224003-nt.html",
+        "date": "2025-01-09 21:40:03",
+        "sentiment_score": -0.2480381429195404
+    },
+    {
+        "title": "Musk publicita gratis a AfD y acusa a Merkel de todos los males de Alemania",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/09/ultraderechi-R1fEUHLfz1zjCAOdeTZN5mJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/musk-publicita-gratis-afd-acusa-merkel-males-20250109212727-nt.html",
+        "date": "2025-01-09 20:27:27",
+        "sentiment_score": -0.1117280125617981
+    },
+    {
+        "title": "Muere el científico Manuel Elkin Patarroyo, padre de la vacuna contra la malaria",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/01/09/efe-kB8F-U7087254737ASF-1200x840@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/muere-cientifico-manuel-elkin-patarroyo-padre-vacuna-20250109203415-nt.html",
+        "date": "2025-01-09 19:35:19",
+        "sentiment_score": -0.02248057723045349
+    },
+    {
+        "title": "Respuestas 'creativas' en el juzgado de Badajoz",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/07/soy-entrenador-personal-error-perder-peso-navidad-kv1--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-respuestas-creativas-juzgado-badajoz-20250110201703-nt.html",
+        "date": "2025-01-09 19:23:30",
+        "sentiment_score": -0.17281420528888702
+    },
+    {
+        "title": "El fracaso social del Gobierno",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2025/01/07/mayores_2-U10118320210cEx-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-fracaso-social-gobierno-20250110195041-nt.html",
+        "date": "2025-01-09 19:00:05",
+        "sentiment_score": -0.07515603303909302
+    },
+    {
+        "title": "No es solo el SMI",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/09/1490618096-RmJk0gHN4Ne9gDg44XRqOXJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ignacio-marcogardoqui-solo-smi-20250109194537-nt.html",
+        "date": "2025-01-09 18:48:38",
+        "sentiment_score": -0.18752709031105042
+    },
+    {
+        "title": "Premios y condecoraciones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/10/250110TerceraGarcia-Rqzw3uLs28Td3dux57gOW9I-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/fernando-garciamercadal-premios-condecoraciones-20250110194216-nt.html",
+        "date": "2025-01-09 18:42:16",
+        "sentiment_score": -0.039540886878967285
+    },
+    {
+        "title": "La elegida",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-elegida-20250110194159-nt.html",
+        "date": "2025-01-09 18:42:07",
+        "sentiment_score": -0.16050919890403748
+    },
+    {
+        "title": "De garajes y 'butifarras'",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/provincia/2025/01/07/finca-venta-huelva--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alvaro-martinez-garajes-butifarras-20250110194144-nt.html",
+        "date": "2025-01-09 18:41:54",
+        "sentiment_score": -0.12072035670280457
+    },
+    {
+        "title": "El hermano de Sánchez trabaja en Spotify",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2024/12/29/vacaciones-tenerife-despide-trabajadores-kGo--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/maria-jose-fuentealamo-hermano-sanchez-trabaja-spotify-20250110194122-nt.html",
+        "date": "2025-01-09 18:41:35",
+        "sentiment_score": -0.13457268476486206
+    },
+    {
+        "title": "El Constitucional se dispone a apartar al magistrado Macías de la Ley de Amnistía por falta de imparcialidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SGWBI6ZX5NHBBBASPU6R7FIQCU.jpg?auth=081985f59e737b54d3ffd2dc64138c8c35a753088e3c11b11fddae1aa0e5ae42&width=1200",
+        "tags": [
+            "tribunal constitucional",
+            "ley de amnistía",
+            "amnistía",
+            "justicia"
+        ],
+        "link": "https://elpais.com/espana/2025-01-09/el-constitucional-se-dispone-a-apartar-al-magistrado-macias-de-la-ley-de-amnistia-por-falta-de-imparcialidad.html",
+        "date": "2025-01-09 19:50:23",
+        "sentiment_score": -0.6574766263365746
+    },
+    {
+        "title": "Miles de venezolanos se concentran en Madrid y otras ciudades para rechazar la investidura de Maduro: “Es el sentimiento de un país”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LPCDO63375BTFNXZDRNUT24WFU.JPG?auth=3d6cca2c72874f4ee9d541b535e15fc60f5dda1e1683629221e4784393d0ae84&width=1200",
+        "tags": [
+            "españa",
+            "latinoamérica",
+            "alberto núñez feijóo",
+            "nicolás maduro",
+            "venezuela",
+            "pp",
+            "chavismo",
+            "edmundo gonzález urrutia",
+            "caracas"
+        ],
+        "link": "https://elpais.com/espana/2025-01-09/miles-de-venezolanos-se-concentran-en-madrid-y-otras-ciudades-para-rechazar-la-investidura-de-maduro-es-el-sentimiento-de-un-pais.html",
+        "date": "2025-01-09 19:27:29",
+        "sentiment_score": -0.1377096176147461
+    },
+    {
+        "title": "Los Mossos despliegan unidades antidisturbios en La Mina para controlar el narcotráfico",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/43NOKOUOUBGRBF4CDOLCBHQJ2M.jpg?auth=8208c9ac404fc514627cfaa9c47624e8d9dbe5851bf474da488e6a26c3acd9a1&width=1200",
+        "tags": [
+            "tiroteos",
+            "salvador illa",
+            "patrullas ciudadanas",
+            "generalitat cataluña",
+            "mossos d'esquadra",
+            "sucesos",
+            "cataluña",
+            "núria parlon",
+            "barcelona",
+            "consejerías autonómicas",
+            "seguridad ciudadana",
+            "sant adrià de besòs"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-09/los-mossos-despliegan-unidades-antidisturbios-en-la-mina-para-controlar-el-narcotrafico.html",
+        "date": "2025-01-09 17:33:51",
+        "sentiment_score": -0.00922410935163498
+    },
+    {
+        "title": "Ford parará la producción de Almussafes 15 días en enero y febrero",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/P5R2OPSZDRDUNDZDKEHC5T7FXM.jpg?auth=abd9e0ae33c9e72d690018341ac5a30a37cc31df6e7b87eb1c6f45e5c5765c10&width=1200",
+        "tags": [
+            "erte",
+            "comunidad valenciana",
+            "industria",
+            "ford motor company",
+            "ford",
+            "economía",
+            "provincia valencia",
+            "empleo",
+            "vehículos",
+            "automoción",
+            "almussafes"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-09/ford-parara-la-produccion-de-almussafes-15-dias-en-enero-y-febrero.html",
+        "date": "2025-01-09 17:20:07",
+        "sentiment_score": 0.2977764531970024
+    },
+    {
+        "title": "Jagoba Arrasate: \"Los dos goles en la prolongación afean nuestro partido\"",
+        "image_url": "https://www.infobae.com/resizer/v2/VH7LAGARXRC5PASZZ77T7W6ZDA.jpg?auth=3efbe2a45d7082bd95a9ed6c5479ca972dbaa2a8c088a24dfd5a95de78cc4996&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/jagoba-arrasate-los-dos-goles-en-la-prolongacion-afean-nuestro-partido/",
+        "date": "2025-01-09 22:15:33",
+        "sentiment_score": 0.7334672659635544
+    },
+    {
+        "title": "El escandaloso final en el triunfo del Real Madrid ante Mallorca: los ásperos cruces entre Vinicius y Pablo Maffeo, ex convocado por Scaloni",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/09/el-escandaloso-final-en-el-triunfo-del-real-madrid-ante-mallorca-los-asperos-cruces-entre-vinicius-y-pablo-maffeo-ex-convocado-por-scaloni/",
+        "date": "2025-01-09 22:09:53",
+        "sentiment_score": 0.5499201118946075
+    },
+    {
+        "title": "Teófilo Gutiérrez podría regresar al Junior de Barranquilla para hacer dupla con James: esto se sabe",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/09/teofilo-gutierrez-podria-regresar-al-junior-de-barranquilla-para-hacer-dupla-con-james-esto-se-sabe/",
+        "date": "2025-01-09 22:06:40",
+        "sentiment_score": 0.2641076594591141
+    },
+    {
+        "title": "Nerea y Alba lo tienen claro: “Ayudaremos al Camoens a conseguir la permanencia”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1147021",
+        "date": "2025-01-09 22:06:04",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Ancelotti: “Estamos cerca de nuestro mejor nivel”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/ancelotti-estamos-cerca-de-nuestro-mejor-nivel/",
+        "date": "2025-01-09 22:02:14",
+        "sentiment_score": 0.8550660610198975
+    },
+    {
+        "title": "Le ganamos al Real Madrid",
+        "image_url": "https://s1.ppllstatics.com/starfish/latest/assets/images/placeholders/ideal-placeholder.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/opinion/jesus-lens-ganamos-real-madrid-20250110230034-nt.html",
+        "date": "2025-01-09 22:00:34",
+        "sentiment_score": 0.4874829351902008
+    },
+    {
+        "title": "Zidane como favorito de la prensa francesa para sustituir a Deschamps",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/01/Zidane-como-favorito-de-la-prensa-francesa-para-sustituir-a-Deschamps-9-ene-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "monagas",
+            "deportes",
+            "maturín",
+            "venezuela"
+        ],
+        "link": "https://elorientaldemonagas.com/zidane-como-favorito-de-la-prensa-francesa-para-sustituir-a-deschamps/",
+        "date": "2025-01-09 22:00:00",
+        "sentiment_score": -0.10641223192214966
+    },
+    {
+        "title": "Arrasate: «El final afea nuestro partido, pero hemos competido»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3144157.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/01/09/2303123/supercopa-espana-2025-jagoba-arrasate-rueda-prensa-tras-jugar-contra-real-madrid.html",
+        "date": "2025-01-09 21:54:00",
+        "sentiment_score": -0.06079775094985962
+    },
+    {
+        "title": "Ancelotti: «Hemos dado una buena versión, pero no la mejor»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3144155.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/01/09/2303121/supercopa-espana-2025-tecnico-del-real-madrid-analiza-victoria-frente-mallorca.html",
+        "date": "2025-01-09 21:47:00",
+        "sentiment_score": -0.01543736457824707
+    },
+    {
+        "title": "Así de espectacular se ha visto Mallorca desde Barcelona este jueves, 9 de enero",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/01/09/gran-barcelona/915168611_13956656_1706x960.jpg?contentId=ESPIMA20250109_0137",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250109/asi-de-espectacular-se-ha-visto-mallorca-desde-barcelona-este-jueves-enero/915158594_0.html",
+        "date": "2025-01-09 22:06:09",
+        "sentiment_score": 0.737050723284483
+    },
+    {
+        "title": "La obra del catalán Jordi Colomer se presentará en museo de la mexicana Monterrey",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/la-obra-del-catalan-jordi-colomer-se-presentara-en-museo-de-la-mexicana-monterrey/",
+        "date": "2025-01-09 22:02:30",
+        "sentiment_score": 0.15063576959073544
+    },
+    {
+        "title": "El esperpento de Joan Laporta",
+        "image_url": "https://s1.ppllstatics.com/starfish/latest/assets/images/placeholders/ideal-placeholder.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/opinion/editorial-esperpento-joan-laporta-20250110230011-nt.html",
+        "date": "2025-01-09 22:00:11",
+        "sentiment_score": -0.7543220520019531
+    },
+    {
+        "title": "La rentabilidad de las oficinas en Almería crece hasta el 9,2%, entre los más altos del país",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/01/09/Imagen%201490846649.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/rentabilidad-oficinas-almeria-crece-altos-pais-20250110225239-nt.html",
+        "date": "2025-01-09 21:52:40",
+        "sentiment_score": 0.7610754035413265
+    },
+    {
+        "title": "La Lotería Nacional deja dos segundos premios en Tenerife",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e404413a-8228-4314-8cde-e52b283485c4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/sociedad/2025/01/09/loteria-nacional-deja-segundos-premios-113257999.html",
+        "date": "2025-01-09 21:48:16",
+        "sentiment_score": 0.2713857591152191
+    },
+    {
+        "title": "Tchouaméni se apunta a la final: \"Estoy bien, no pasa nada\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/tchouameni-se-apunta-a-la-final-estoy-bien-no-pasa-nada/",
+        "date": "2025-01-09 21:47:01",
+        "sentiment_score": 0.342157781124115
+    },
+    {
+        "title": "Rodrygo Goes: \"Estamos preparados, queremos el primer título de 2025\"",
+        "image_url": "https://www.infobae.com/resizer/v2/VWDK24I2MVFUZFVDNUYQTCDPHA.jpg?auth=c2186319e3bef852afd95d25dd518d8b8f97dc067b0e53f6ea49eba4b6ede3a7&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/09/rodrygo-goes-estamos-preparados-queremos-el-primer-titulo-de-2025/",
+        "date": "2025-01-09 21:46:12",
+        "sentiment_score": 0.7149487305432558
+    },
+    {
+        "title": "\"Había gente que decía que yo era un 'sociata' infiltrado\"",
+        "image_url": "https://static1.ara.cat/clip/ac660b36-8f51-4bb2-b140-d7f1d788fd85_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/sociedad/habia-gente-decia-sociata-infiltrado_128_5251126.html",
+        "date": "2025-01-09 21:46:04",
+        "sentiment_score": -0.04396519064903259
     }
 ];
