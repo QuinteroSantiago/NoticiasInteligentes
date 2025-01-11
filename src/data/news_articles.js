@@ -164,49 +164,6 @@ export default [
         "sentiment_score": -0.18727128207683563
     },
     {
-        "title": "ANÁLISIS | ¿Cuál es el peso de la Fuerza Armada en la política de Venezuela y qué rol podrían jugar en la crisis tras las elecciones presidenciales?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/GettyImages-158095931-e1722877009888.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela",
-            "hugo chávez",
-            "nicolás maduro"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/07/analisis-fuerzas-armadas-venezuela-rol-crisis-elecciones-orix/",
-        "date": "2025-01-07 14:12:17",
-        "sentiment_score": -0.3004205971956253
-    },
-    {
-        "title": "Ucrania lanza contraataque en Kursk, es la primera invasión terrestre a Rusia desde la Segunda Guerra Mundial",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2166323107-20250107135647157.jpg?quality=100&strip=info",
-        "tags": [
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ucrania-contraataque-kursk-rusia-cafe-tv/",
-        "date": "2025-01-07 13:57:47",
-        "sentiment_score": -0.34144526720046997
-    },
-    {
-        "title": "El FBI revela grabaciones de las gafas inteligentes de Meta usadas por el atacante de Nueva Orleans",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/sequence-02-00-00-05-11-still001-20250107134223535.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/atacante-nueva-orleans-smart-glasses-ush-trax/",
-        "date": "2025-01-07 13:44:42",
-        "sentiment_score": -0.07358670234680176
-    },
-    {
-        "title": "Maduro acusa, sin pruebas, al Gobierno de Argentina de “planes violentos”",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192201703-20250107132802574.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-acusa-gobierno-argentina-planes-violentos-cafe-tv/",
-        "date": "2025-01-07 13:34:48",
-        "sentiment_score": -0.8939402773976326
-    },
-    {
         "title": "La Fiscalía chavista anuncia la excarcelación de otros 146 detenidos por protestar contra el fraude electoral de Maduro",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/07/detenido-venezuela-R86Fa1xYgGLwHNnnoVk6eIP-1200x840@diario_abc.jpg",
         "tags": [
@@ -265,46 +222,6 @@ export default [
         "link": "https://www.abc.es/economia/gobierno-elevara-emisiones-deuda-estado-5000-millones-20250107154939-nt.html",
         "date": "2025-01-07 14:53:19",
         "sentiment_score": -0.08480490744113922
-    },
-    {
-        "title": "Meta pone fin a sus sistemas de verificación de datos en favor de «la libertad de expresión»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/07/zuckerberg.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/meta-pone-fin-programa-verificacion-datos-favor-20250107143146-nt.html",
-        "date": "2025-01-07 13:44:57",
-        "sentiment_score": -0.10432875156402588
-    },
-    {
-        "title": "El escándalo de abusos a menores en Reino Unido que salpica a Starmer y que Musk ha resucitado",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/07/ELONMUSK-RoyoIfIssl9Ox53o24VVxqO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/escandalo-abusos-menores-reino-unido-salpica-starmer-20250107143219-nt.html",
-        "date": "2025-01-07 13:32:55",
-        "sentiment_score": -0.14135192334651947
-    },
-    {
-        "title": "El Gobierno internacionaliza Enaire para gestionar torres de control fuera de España",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/07/1444753896-RhR5JrQNIqdODxmlRNoKeOK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-internacionaliza-enaire-gestionar-torres-control-espana-20250107141359-nt.html",
-        "date": "2025-01-07 13:14:58",
-        "sentiment_score": -0.040039464831352234
-    },
-    {
-        "title": "Diciembre fue el mes con más bajas para Rusia desde que empezó la guerra de Ucrania, según los servicios de Inteligencia de Reino Unido",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/07/soldado-rusia-reuters-kRwD-U7075228634E6E-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/diciembre-mes-bajas-rusia-empezo-guerra-ucrania-20250107131842-nt.html",
-        "date": "2025-01-07 12:20:09",
-        "sentiment_score": -0.3303719460964203
     },
     {
         "title": "Las rebajas empiezan bajo el fenómeno del descuento permanente",
@@ -7571,5 +7488,353 @@ export default [
         "link": "https://www.diariodenavarra.es/noticias/deportes/atletismo/2025/01/10/jihad-essoubai-record-navarro-sub-23-1-500-m-barcelona-634381-2003.html",
         "date": "2025-01-10 21:24:28",
         "sentiment_score": -0.2657903954386711
+    },
+    {
+        "title": "El Senado insta al Gobierno a compensar los daños de la dana en las explotaciones agrarias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-senado-insta-al-gobierno-a-compensar-los-danos-de-la-dana-en-las-explotaciones-agrarias/",
+        "date": "2025-01-11 02:04:23",
+        "sentiment_score": -0.2912387400865555
+    },
+    {
+        "title": "El Congreso aprueba subir el IRPF al ahorro pero tumba el impuesto a la banca",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-congreso-aprueba-subir-el-irpf-al-ahorro-pero-tumba-el-impuesto-a-la-banca/",
+        "date": "2025-01-11 02:04:04",
+        "sentiment_score": 0.21443124115467072
+    },
+    {
+        "title": "Un manifiesto con 850 firmas apoya al científico amenazado por hablar de cambio climático",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/un-manifiesto-con-850-firmas-apoya-al-cientifico-amenazado-por-hablar-de-cambio-climatico/",
+        "date": "2025-01-11 02:03:45",
+        "sentiment_score": -0.5292549058794975
+    },
+    {
+        "title": "Conoce el clima de este día en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/VWXWIZXGTJCBZMFJPRZDH4OLMY.jpg?auth=d3300eed4cb600c7ca97a10816eceade765e87e08f90779570654cd4edecadfc&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/11/conoce-el-clima-de-este-dia-en-barcelona/",
+        "date": "2025-01-11 02:02:23",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Qué es el dígito de control de una cuenta bancaria y cómo se calcula",
+        "image_url": "https://www.infobae.com/resizer/v2/ZNHJZ7Y4VJGZ3M2RZKJSZHQRX4.jpeg?auth=1f1349df8aced918e644e9024d5cc2a42b6b956c28988c303fe3434919e67819&height=4480&smart=true&width=6720",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/11/que-es-el-digito-de-control-de-una-cuenta-bancaria-y-como-se-calcula/",
+        "date": "2025-01-11 01:29:21",
+        "sentiment_score": 0.7028339356184006
+    },
+    {
+        "title": "Temas del día de EFE Economía del lunes, 18 de noviembre de 2024 (19:00 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/temas-del-dia-de-efe-economia-del-lunes-18-de-noviembre-de-2024-1900-horas/",
+        "date": "2025-01-11 00:49:08",
+        "sentiment_score": 0.3798309341073036
+    },
+    {
+        "title": "Santi Denia: \"Será un orgullo sentarme en el banquillo del Carlos Belmonte\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/santi-denia-sera-un-orgullo-sentarme-en-el-banquillo-del-carlos-belmonte/",
+        "date": "2025-01-11 00:48:45",
+        "sentiment_score": 0.8025205545127392
+    },
+    {
+        "title": "Una estudiante vuelve a su casa tras la Navidad y descubre que un hombre vive allí y que tiró todos sus objetos personales: el intruso alegó que “no se acordaba de nada”",
+        "image_url": "https://www.infobae.com/resizer/v2/BRUWGCW6C5DP3PVMFAKM4CQTNA.jpg?auth=e6986914194eddb57a4954ce4fbffc84c01e1117680d486466f269a31679fe7d&height=816&smart=true&width=1456",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/11/una-estudiante-vuelve-a-su-casa-tras-la-navidad-y-descubre-que-un-hombre-vive-alli-y-que-tiro-todos-sus-objetos-personales-el-intruso-alego-que-no-se-acordaba-de-nada/",
+        "date": "2025-01-11 00:34:40",
+        "sentiment_score": -0.8192106876522303
+    },
+    {
+        "title": "Hugo González no estará en los Mundiales de Budapest",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/hugo-gonzalez-no-estara-en-los-mundiales-de-budapest/",
+        "date": "2025-01-11 00:34:23",
+        "sentiment_score": -0.03403357043862343
+    },
+    {
+        "title": "El venezolano Yangel Herrera sufre una lesión en el sóleo derecho",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-venezolano-yangel-herrera-sufre-una-lesion-en-el-soleo-derecho/",
+        "date": "2025-01-11 00:34:04",
+        "sentiment_score": -0.9074106123298407
+    },
+    {
+        "title": "Guaidó habla sobre el futuro de Venezuela y la oposición en el país",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1252233490.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-guaido-futuro-oposicion-perspectivas-mexico-tv-fast/",
+        "date": "2025-01-11 01:57:43",
+        "sentiment_score": -0.09534904360771179
+    },
+    {
+        "title": "¿Por qué es ilegítima la juramentación de Nicolás Maduro?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/nicolas-maduro-juramenta-nuevo-mandato-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/juramentacion-maduro-ilegitima-universidad-central-venezuela-panorama-mundial-tv/",
+        "date": "2025-01-11 01:55:18",
+        "sentiment_score": -0.32667558267712593
+    },
+    {
+        "title": "Alistan albergues e iglesias en Coahuila ante posible deportación masiva desde EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1235420981.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/deportaciones-masivas-migrantes-trump-albergues-coahuila-perspectivas-mexico-tv/",
+        "date": "2025-01-11 01:50:35",
+        "sentiment_score": -0.20780514180660248
+    },
+    {
+        "title": "Trump es sentenciado por 34 cargos, pero recibió una licencia incondicional que le evitará ir a prisión",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192581073.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-sentencia-juicio-dinero-silencio-stormy-daniels-directo-usa-tv/",
+        "date": "2025-01-11 01:08:28",
+        "sentiment_score": -0.70310939848423
+    },
+    {
+        "title": "Estados Unidos endureció las sanciones contra Nicolás Madura tras juramentarse como presidente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192618499.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-sanciones-gobierno-venezuela-nicolas-maduro-directo-usa-tv/",
+        "date": "2025-01-11 01:03:08",
+        "sentiment_score": -0.8419463876634836
+    },
+    {
+        "title": "“Ojalá me lo hubiera tomado un poco más en serio”, dice residente de Palisades tras perder su hogar",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192620108.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-california-incendio-palisades-propiedades-destruidas-dusa-tv/",
+        "date": "2025-01-11 01:02:59",
+        "sentiment_score": -0.9253780776634812
+    },
+    {
+        "title": "Nicolás Maduro se juramentó para un tercer mandato en medio de cuestionamientos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192621447.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "venezuela",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-actualidad-nicolas-maduro-edmundo-gonzalez-directo-usa-tv/",
+        "date": "2025-01-11 00:58:04",
+        "sentiment_score": -0.37840040028095245
+    },
+    {
+        "title": "Cómo escapar del llamado \"día de los desertores\" y cumplir tus propósitos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21280476-88064-55900000001-still.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-mantener-propositos-ano-nuevo-minuto-de-salud-fast/",
+        "date": "2025-01-11 00:57:14",
+        "sentiment_score": -0.19438262283802032
+    },
+    {
+        "title": "Una cámara corporal muestra el tiroteo mortal contra el atacante de Nueva Orleans",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/renamethishorizontal-00-01-02-13-still001-20250111002542120.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/camara-corporal-tiroteo-atacante-nueva-orleans-trax/",
+        "date": "2025-01-11 00:29:44",
+        "sentiment_score": -0.5923606269061565
+    },
+    {
+        "title": "Un vecino dice que esta casa fue \"tocada por Dios\" en una comunidad que ahora parece \"zona de guerra\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21279842-41292-183000000005-still.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-incendio-los-angeles-vecino-casa-tocada-dios-ush-trax/",
+        "date": "2025-01-10 23:12:24",
+        "sentiment_score": -0.8802317576482892
+    },
+    {
+        "title": "Caso Dani Olmo, el Barça juega con otras reglas",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-01/10/20/campaign_images/e93b7987fc18/caso-dani-olmo-el-barca-juega-con-otras-reglas-2-1587-1736539724-7_dblbig.jpg",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/caso-dani-olmo-el-barca-juega-con-otras-reglas",
+        "date": "2025-01-11 02:01:05",
+        "sentiment_score": -0.6856020838022232
+    },
+    {
+        "title": "La startup española que ha inventado una 'tarjeta de crédito' con la que predecir los fallos de los paneles solares",
+        "image_url": "https://s1.elespanol.com/2025/01/10/invertia/disruptores/ecosistema-startup/startups/915418527_252224868_1706x960.jpg?contentId=ESPIMA20250110_0078",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250111/startup-espanola-inventado-tarjeta-credito-predecir-fallos-paneles-solares/915158654_0.html",
+        "date": "2025-01-11 01:56:34",
+        "sentiment_score": 0.5320035815238953
+    },
+    {
+        "title": "¿Puigdemont? ¿Pedro Sánchez? ¿Laporta? La guerra política tras la cautelar que enfrenta a Tebas con el CSD",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/11/culemania/palco/915668433_13962048_1706x960.png?contentId=ESPIMA20250111_0009",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250111/puigdemont-pedro-sanchez-laporta-la-tebas-csd/915408548_0.html",
+        "date": "2025-01-11 01:09:57",
+        "sentiment_score": -0.23157644271850586
+    },
+    {
+        "title": "Hostilidades y tocamientos: el lucrativo negocio del fútbol en Arabia Saudí que mantiene en los juzgados a Rubiales y Piqué",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/11/culemania/palco/915668426_13961845_1706x960.jpg?contentId=ESPIMA20250111_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250111/hostilidades-tocamientos-en-arabia-saudi-rubiales-pique/915658427_0.html",
+        "date": "2025-01-11 00:58:12",
+        "sentiment_score": -0.9412439749576151
+    },
+    {
+        "title": "El clásico de Arabia, la solución final de Laporta para desarticular la moción de censura",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/01/08/culemania/palco/823427789_12223769_1706x960.jpg?contentId=ESPIMA20240108_0140",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250111/el-de-arabia-la-laporta-desarticular-mociondecensura/915658426_0.html",
+        "date": "2025-01-11 00:50:04",
+        "sentiment_score": -0.715694785118103
+    },
+    {
+        "title": "Multa de 60.001€ para un aficionado responsable de los perfiles en redes de 'Indar Gorri'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/multa-de-60001-para-un-aficionado-responsable-de-los-perfiles-en-redes-de-indar-gorri/",
+        "date": "2025-01-11 00:33:44",
+        "sentiment_score": -0.8607596419751644
+    },
+    {
+        "title": "Supercopa de España: tres días de polémicas y caos en Yeda",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/11/2025011101200595802.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/supercopa-espana-dias-polemicas-caos-yeda/20250111012110330210.html",
+        "date": "2025-01-11 00:21:10",
+        "sentiment_score": -0.869451217353344
+    },
+    {
+        "title": "El Bayer Leverkusen golpea al Borussia Dortmund y acecha al Bayern",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/11/2025011101070258213.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/bayer-leverkusen-golpea-borussia-dortmund-acecha-bayern/20250111010807330206.html",
+        "date": "2025-01-11 00:08:07",
+        "sentiment_score": 0.7592969574034214
+    },
+    {
+        "title": "El 'ataque' de Joan Gaspart al Athletic Club: Desvelamos el partido del presunto amaño",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/copia-de-diseno-sin-titulo-6-1736526667739_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/ataque-joan-gaspart-athletic-club-desvelamos-partido-presunto-amano",
+        "date": "2025-01-11 00:00:00",
+        "sentiment_score": -0.15960945188999176
+    },
+    {
+        "title": "Apolo Biotech reemplaza pesticidas agrícolas con una solución basada en ARN como las vacunas del covid",
+        "image_url": "https://s1.elespanol.com/2025/01/09/invertia/disruptores/america-tech/argentina/915169119_252213673_1706x960.jpg?contentId=ESPIMA20250109_0645",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/america-tech/argentina/20250111/apolo-biotech-reemplaza-pesticidas-agricolas-solucion-basada-arn-vacunas-covid/915158847_0.html",
+        "date": "2025-01-11 01:56:33",
+        "sentiment_score": 0.2697144001722336
+    },
+    {
+        "title": "Francisco Casavella, el escritor de culto que revivió la picaresca lumpen en 'Lo que sé de los vampiros'",
+        "image_url": "https://s1.elespanol.com/2025/01/10/el-cultural/letras/915418582_252226605_1706x960.png?contentId=ESPIMA20250110_0133",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20250111/francisco-casavella-escritor-culto-revivio-picaresca-lumpen-vampiros/915158835_0.html",
+        "date": "2025-01-11 01:00:00",
+        "sentiment_score": 0.03663650155067444
+    },
+    {
+        "title": "Horror en Barcelona: Niño maltratado fue ingresado a terapia intensiva y descubrieron a los culpables",
+        "image_url": "https://caraotadigital.net/wp-content/uploads/2025/01/image-10.jpg",
+        "tags": [
+            "anzoátegui",
+            "pequeño",
+            "maltrato infantil",
+            "sucesos",
+            "niño",
+            "barcelona"
+        ],
+        "link": "https://caraotadigital.net/crimenes/horror-en-barcelona-nino-maltratado-fue-ingresado-a-terapia-intensiva-y-descubrieron-a-los-culpables/",
+        "date": "2025-01-11 00:59:06",
+        "sentiment_score": -0.8812573859468102
+    },
+    {
+        "title": "Laporta y Toni Freixa, una historia de pasión, rencor y enfrentamiento electoral que acaba en reconciliación",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/10/culemania/palco/915418586_13961125_1706x960.jpg?contentId=ESPIMA20250110_0137",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250111/laporta-toni-freixa-historia-enfrentamiento-electoral-reconciliacion/915408537_0.html",
+        "date": "2025-01-11 00:50:09",
+        "sentiment_score": -0.33034219592809677
+    },
+    {
+        "title": "Descubre a la hermosa ciclista Puck Moonen, la neerlandesa que se casa con Callan O'Keeffe",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/11/2025011101371181510.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/descubre-hermosa-ciclista-puck-moonen-neerlandesa-que-casa-callan-okeeffe/20250111014026330212.html",
+        "date": "2025-01-11 00:40:26",
+        "sentiment_score": 0.09839752316474915
     }
 ];
