@@ -1,760 +1,5 @@
 export default [
     {
-        "title": "Las principales bolsas del Sudeste Asiático cierran con resultados dispares",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/las-principales-bolsas-del-sudeste-asiatico-cierran-con-resultados-dispares/",
-        "date": "2025-01-06 22:03:59",
-        "sentiment_score": -0.5217259749770164
-    },
-    {
-        "title": "El superávit comercial de la eurozona se triplicó en septiembre, hasta 12.500 millones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-superavit-comercial-de-la-eurozona-se-triplico-en-septiembre-hasta-12500-millones/",
-        "date": "2025-01-06 22:03:39",
-        "sentiment_score": 0.49737103283405304
-    },
-    {
-        "title": "La facturación de la industria de defensa crece un 15 % en 2023 hasta 13.900 millones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/la-facturacion-de-la-industria-de-defensa-crece-un-15-en-2023-hasta-13900-millones/",
-        "date": "2025-01-06 22:03:18",
-        "sentiment_score": 0.8155446294695139
-    },
-    {
-        "title": "Inversores de Hong Kong creen que Trump mejorará la economía global, según una encuesta",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/inversores-de-hong-kong-creen-que-trump-mejorara-la-economia-global-segun-una-encuesta/",
-        "date": "2025-01-06 22:03:00",
-        "sentiment_score": 0.4565974920988083
-    },
-    {
-        "title": "Hereu dice que Europa necesita un nuevo gobierno ante amenazas internas y externas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/hereu-dice-que-europa-necesita-un-nuevo-gobierno-ante-amenazas-internas-y-externas/",
-        "date": "2025-01-06 22:02:41",
-        "sentiment_score": 0.322302982211113
-    },
-    {
-        "title": "El Bathco BM Torrelavega a por su primera victoria europea ante un histórico",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-bathco-bm-torrelavega-a-por-su-primera-victoria-europea-ante-un-historico/",
-        "date": "2025-01-06 22:02:22",
-        "sentiment_score": 0.5802827551960945
-    },
-    {
-        "title": "El centro para personas con discapacidad de La Torre lanza un SOS posdana: \"Partimos de 0\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-centro-para-personas-con-discapacidad-de-la-torre-lanza-un-sos-posdana-partimos-de-0/",
-        "date": "2025-01-06 22:02:04",
-        "sentiment_score": -0.7200800478458405
-    },
-    {
-        "title": "Un estudio cifra en 17.000 millones el coste económico de la discriminación al extranjero",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/un-estudio-cifra-en-17000-millones-el-coste-economico-de-la-discriminacion-al-extranjero/",
-        "date": "2025-01-06 21:49:20",
-        "sentiment_score": -0.8222710099071264
-    },
-    {
-        "title": "Torres: La comparecencia de Sánchez sobre la dana será \"esclarecedora\" y \"clarificadora\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/torres-la-comparecencia-de-sanchez-sobre-la-dana-sera-esclarecedora-y-clarificadora/",
-        "date": "2025-01-06 21:49:02",
-        "sentiment_score": 0.3828624337911606
-    },
-    {
-        "title": "Will McPhail o la importancia de saber dibujar miradas que lo dicen (casi) todo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/will-mcphail-o-la-importancia-de-saber-dibujar-miradas-que-lo-dicen-casi-todo/",
-        "date": "2025-01-06 21:48:43",
-        "sentiment_score": 0.5807712785899639
-    },
-    {
-        "title": "Una avioneta aterrizó en el patio trasero de una casa en Los Ángeles",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/video1483342864-00-00-28-05-imagen-fija206.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/avioneta-estrellada-patio-casa-los-angeles-ush-orix/",
-        "date": "2025-01-06 22:10:29",
-        "sentiment_score": -0.7410163171589375
-    },
-    {
-        "title": "Con 312 votos electorales, Kamala Harris certifica la victoria de Donald Trump en el Congreso",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192171934.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/votos-congreso-kamala-harris-donald-trump-ush-trax/",
-        "date": "2025-01-06 20:38:42",
-        "sentiment_score": 0.2507154196500778
-    },
-    {
-        "title": "Esto opinan algunos trabajadores de California sobre el aumento al salario mínimo por hora en 2025",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-917517270.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/salario-minimo-california-reacciones-ush-orix/",
-        "date": "2025-01-06 20:32:29",
-        "sentiment_score": 0.02410760521888733
-    },
-    {
-        "title": "Astronauta capta impresionante aurora boreal",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/aurora-20250106200930502.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – general",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nasa-aurora-captada-espacio-redaccion-buenos-aires-tv/",
-        "date": "2025-01-06 20:17:19",
-        "sentiment_score": -0.012599959969520569
-    },
-    {
-        "title": "5 lugares para visitar en febrero de 2025, según Time Out",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21264081-429-333-still.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – general",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/5-lugares-para-visitar-en-febrero-time-out-redaccion-buenos-aires-tv/",
-        "date": "2025-01-06 20:16:53",
-        "sentiment_score": 0.11285123229026794
-    },
-    {
-        "title": "Así anunció Trudeau su renuncia como primer ministro y líder del Partido Liberal de Canadá",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192155751.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trudeau-renuncia-lider-partido-liberar-redaccion-buenos-aires-tv-fast/",
-        "date": "2025-01-06 20:07:15",
-        "sentiment_score": 0.027936145663261414
-    },
-    {
-        "title": "La nieve cubre pistas de aeropuertos tras las fuertes nevadas en Estados Unidos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/video1483342864-00-00-12-20-imagen-fija205.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nieve-tormenta-estados-unidos-aeropuertos-ush-orix/",
-        "date": "2025-01-06 20:04:32",
-        "sentiment_score": -0.8410243429243565
-    },
-    {
-        "title": "Un equipo sirio de materiales peligrosos muestra a CNN el interior de lo que parece ser un antiguo laboratorio químico",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/chemical-lab-5-20250106172126020.jpeg?quality=100&strip=info",
-        "tags": [
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/laboratorio-quimico-siria-trax/",
-        "date": "2025-01-06 19:08:11",
-        "sentiment_score": -0.7806152906268835
-    },
-    {
-        "title": "Saber que podéis",
-        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-saber-podeis-20250107202501-nts.html",
-        "date": "2025-01-06 20:00:19",
-        "sentiment_score": -0.0743803083896637
-    },
-    {
-        "title": "Cae la ministra de Bienes Nacionales de Chile por la compra fallida de la casa de Salvador Allende por parte del Gobierno",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/06/MarcelaSandoval-kBKG-U7073078588xWD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/cae-ministra-bienes-nacionales-chile-compra-fallida-20250106205552-nt.html",
-        "date": "2025-01-06 19:56:39",
-        "sentiment_score": -0.07556122541427612
-    },
-    {
-        "title": "Tudanca anunciará su retirada al frente del PSOE de Castilla y León y allana el camino al alcalde de Soria",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y44SLVLSBJFCPDWWWR3W6QPU7U.jpg?auth=1483ff8e5dd79b228068223f49166922e67e196bf08790bf5e5ee722e3b88b60&width=1200",
-        "tags": [
-            "carlos martínez mínguez",
-            "luis tudanca",
-            "alfonso fernández mañueco",
-            "pedro sánchez",
-            "psoe",
-            "españa",
-            "soria",
-            "psoe castilla y león"
-        ],
-        "link": "https://elpais.com/espana/2025-01-06/tudanca-anunciara-su-retirada-al-frente-del-psoe-de-castilla-y-leon-y-allana-el-camino-al-alcalde-de-soria.html",
-        "date": "2025-01-06 18:41:00",
-        "sentiment_score": -0.36798306182026863
-    },
-    {
-        "title": "Tras los malos desde las alturas",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/06/avionesa.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/tras-malos-alturas-20250107230121-nt.html",
-        "date": "2025-01-06 22:01:22",
-        "sentiment_score": -0.43863604962825775
-    },
-    {
-        "title": "El Real Madrid se impone al Baskonia y ata su billete para Copa",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/06/677c526ef280d.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/real-madrid-impone-baskonia-ata-billete-copa-20250106_3072400.html",
-        "date": "2025-01-06 22:00:41",
-        "sentiment_score": -0.05543476343154907
-    },
-    {
-        "title": "Real Madrid rota titulares, pero igual arrasa 5-0 a Deportiva Minera en la Copa del Rey",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/a3fe432/2147483647/strip/true/crop/2112x1408+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fef%2Fac%2F210c49d6fe27b83bc7ce9a901ac5%2F0e80e4a8cdba4f67bb1a8e27fe1a1e76",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-01-06/real-madrid-rota-titulares-pero-igual-arrasa-5-0-a-deportiva-minera-en-la-copa-del-rey",
-        "date": "2025-01-06 21:54:29",
-        "sentiment_score": 0.3128392696380615
-    },
-    {
-        "title": "España sufre el peor octubre en cifras de ahogamientos, sin contar las víctimas de la dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/espana-sufre-el-peor-octubre-en-cifras-de-ahogamientos-sin-contar-las-victimas-de-la-dana/",
-        "date": "2025-01-06 21:48:23",
-        "sentiment_score": -0.7556898556649685
-    },
-    {
-        "title": "Dónde ha tocado la Lotería del Niño 2025 en España: las ciudades y premios",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/01/05/sorteo-extraordinario-de-loteria-del-nino-en-espana-gsc1-1.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2025/01/06/donde-ha-tocado-loteria-nino-2025-1790044.html",
-        "date": "2025-01-06 21:37:41",
-        "sentiment_score": -0.07216892763972282
-    },
-    {
-        "title": "El Joventut Badalona certifica su billete para la Copa del Rey 2025",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/06/el-joventut-badalona-certifica-su-billete-para-la-copa-del-rey-2025/",
-        "date": "2025-01-06 21:31:16",
-        "sentiment_score": 0.5291237570345402
-    },
-    {
-        "title": "El Real Madrid, a octavos: ¿El rival del Almería?",
-        "image_url": "https://images.ficheroslavoz.com/d5/d5e3dd43-2a0c-416c-b616-2771311ac22a.jpg?crop=1438%2C810&expires=1767736234&height=1070&token=mg-UTLJWPpzAvhOG2-CF_--3IigCsZaENHRLwrXx6yQ&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/285506/el-real-madrid-a-octavos-el-rival-del-almeria",
-        "date": "2025-01-06 21:22:35",
-        "sentiment_score": -0.6552487313747406
-    },
-    {
-        "title": "Arda Güler: “Jugamos un muy buen partido como equipo”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/06/arda-guler-jugamos-un-muy-buen-partido-como-equipo/",
-        "date": "2025-01-06 21:17:53",
-        "sentiment_score": 0.875986123457551
-    },
-    {
-        "title": "Diego, Lorenzo Aguado y Chema: \"Es un sueño debutar con el Real Madrid\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/06/diego-lorenzo-aguado-y-chema-es-un-sueno-debutar-con-el-real-madrid/",
-        "date": "2025-01-06 21:17:37",
-        "sentiment_score": 0.6071999743580818
-    },
-    {
-        "title": "Popi: \"Los jugadores del Madrid salieron como bichos a comernos\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/06/popi-los-jugadores-del-madrid-salieron-como-bichos-a-comernos/",
-        "date": "2025-01-06 21:02:57",
-        "sentiment_score": -0.8902403190732002
-    },
-    {
-        "title": "Jorge Fernández Díaz gana el Nadal con su mezcla de memoria familiar y suspense",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/01/06/fernandez-diaz-premio-nadal-ki7H-U2304657734449VC-1200x840@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/culturas/libros/jorge-fernandez-diaz-gana-nadal-mezclando-memoria-20250106224124-ntrc.html",
-        "date": "2025-01-06 22:13:28",
-        "sentiment_score": 0.3123241364955902
-    },
-    {
-        "title": "Homenaje a Ana María Matute en su centenario",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/01/06/ana-maria-matute.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/culturas/libros/homenaje-ana-maria-matute-centenario-20250106230758-ntrc.html",
-        "date": "2025-01-06 22:08:00",
-        "sentiment_score": 0.1332969069480896
-    },
-    {
-        "title": "La patronal Fecalon ayuda a los Reyes con juguetes para 1.000 familias en Barcelona",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/06/business/914418614_13944659_1706x960.jpg?contentId=ESPIMA20250106_0065",
-        "tags": [
-            "business"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20250106/la-patronal-fecalon-reyes-juguetes-familias-barcelona/914408605_0.html",
-        "date": "2025-01-06 22:05:20",
-        "sentiment_score": 0.6972945556044579
-    },
-    {
-        "title": "El escritor argentino Jorge Fernández Díaz, Premio Nadal 2025 con 'El secreto de Marcial'",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/01/06/vivir-en-barcelona/914418615_13944688_1706x960.jpg?contentId=ESPIMA20250106_0066",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250106/el-escritor-argentino-jorge-fernandez-diaz-premio-nadal-con-secreto-de-marcial/914408606_0.html",
-        "date": "2025-01-06 22:04:10",
-        "sentiment_score": 0.11131930351257324
-    },
-    {
-        "title": "El argentino Jorge Fernández Díaz gana el 81 Premio Nadal con 'El secreto de Marcial'",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/06/el-argentino-jorge-fernandez-diaz-gana-el-81-premio-nadal-con-el-secreto-de-marcial/",
-        "date": "2025-01-06 22:01:25",
-        "sentiment_score": 0.4782343618571758
-    },
-    {
-        "title": "CSIF se opone a la posible supresión de Muface que plantea el Ministerio de Sanidad",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/csif-se-opone-a-la-posible-supresion-de-muface-que-plantea-el-ministerio-de-sanidad/",
-        "date": "2025-01-07 03:19:13",
-        "sentiment_score": -0.48528481647372246
-    },
-    {
-        "title": "'Génova' confía en que prospere la votación secreta a Ribera dentro de su pulso en Bruselas para retirar su candidatura",
-        "image_url": "https://www.infobae.com/resizer/v2/VKSOVOYJ3ZCJHMV6NAEIPMHAKA.jpg?auth=d748e950f8a86a8753dbfa8e6f5abbad2c762e18a1cff8c783e8bdcf9f069a35&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/genova-confia-en-que-prospere-la-votacion-secreta-a-ribera-dentro-de-su-pulso-en-bruselas-para-retirar-su-candidatura/",
-        "date": "2025-01-07 03:18:55",
-        "sentiment_score": -0.6433315090835094
-    },
-    {
-        "title": "Feijóo pide \"volver a ganar\" la confianza de los valencianos sin cometer más errores",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/feijoo-pide-volver-a-ganar-la-confianza-de-los-valencianos-sin-cometer-mas-errores/",
-        "date": "2025-01-07 03:18:35",
-        "sentiment_score": 0.4833454117178917
-    },
-    {
-        "title": "La APIF se opone al recurso contra el registro del despacho de García Ortiz y critica la \"parcialidad\" de la Fiscalía",
-        "image_url": "https://www.infobae.com/resizer/v2/43EOA5QPBJG4HCHGO4UO4XU7LA.jpg?auth=c8b76fd38d35be8d7113d2d04a0cb28b4cba44cbd083299ec7deab0af8cfa2bd&height=1262&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/la-apif-se-opone-al-recurso-contra-el-registro-del-despacho-de-garcia-ortiz-y-critica-la-parcialidad-de-la-fiscalia/",
-        "date": "2025-01-07 03:18:15",
-        "sentiment_score": -0.447833314538002
-    },
-    {
-        "title": "López Miras dice sobre Mazón que \"al menos ha dado explicaciones\", a diferencia de \"otros\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/lopez-miras-dice-sobre-mazon-que-al-menos-ha-dado-explicaciones-a-diferencia-de-otros/",
-        "date": "2025-01-07 03:17:54",
-        "sentiment_score": 0.19832932949066162
-    },
-    {
-        "title": "Los problemas políticos escalan al primer puesto en las preocupaciones de los españoles",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/los-problemas-politicos-escalan-al-primer-puesto-en-las-preocupaciones-de-los-espanoles/",
-        "date": "2025-01-07 03:17:25",
-        "sentiment_score": 0.34390218555927277
-    },
-    {
-        "title": "Tres personas con hipotermia rescatadas por un helicóptero tras acceder a pie al Teide",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/tres-personas-con-hipotermia-rescatadas-por-un-helicoptero-tras-acceder-a-pie-al-teide/",
-        "date": "2025-01-07 03:17:05",
-        "sentiment_score": -0.7913549765944481
-    },
-    {
-        "title": "Discriminar a los extranjeros cuesta en España 17.000 millones de euros, según un informe",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/18/discriminar-a-los-extranjeros-cuesta-en-espana-17000-millones-de-euros-segun-un-informe/",
-        "date": "2025-01-07 03:03:05",
-        "sentiment_score": -0.8305428614839911
-    },
-    {
-        "title": "COAG exige la suspensión inmediata del acuerdo agrícola entre la UE y Marruecos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/coag-exige-la-suspension-inmediata-del-acuerdo-agricola-entre-la-ue-y-marruecos/",
-        "date": "2025-01-07 02:48:22",
-        "sentiment_score": -0.8507264815270901
-    },
-    {
-        "title": "El Valencia vuelve al trabajo sin seis internacionales pero con Duro y Almeida ya a tono",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-valencia-vuelve-al-trabajo-sin-seis-internacionales-pero-con-duro-y-almeida-ya-a-tono/",
-        "date": "2025-01-07 02:48:03",
-        "sentiment_score": 0.40408438444137573
-    },
-    {
-        "title": "Maduro asegura que nada detendrá que asuma la presidencia, \"ni el imperialismo\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2166097952-20250107030310129.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/inteligencia-maduro-mercenarios-pelea-milei-argentina-venezuela-conclusiones-tv/",
-        "date": "2025-01-07 03:06:49",
-        "sentiment_score": -0.6232114732265472
-    },
-    {
-        "title": "Osos panda juegan en la nieve en el Zoológico Nacional Smithsoniano",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/osos-panda-jugando-nieve-zoologico-washington-trax/",
-        "date": "2025-01-07 02:37:48",
-        "sentiment_score": -0.23477216809988022
-    },
-    {
-        "title": "Posible liberación de rehenes tras acuerdo Israel-Hamas",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1742509908_d1ef5b.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/israel-hamas-conversaciones-liberacion-rehenes-gaza-panorama-mundial-tv/",
-        "date": "2025-01-07 02:14:07",
-        "sentiment_score": -0.029332607984542847
-    },
-    {
-        "title": "Los factores que pusieron a prueba el gobierno de Justin Trudeau",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/trudeau-20241217103352419.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/renuncia-justin-trudeau-primer-ministro-canada-panorama-mundial-tv/",
-        "date": "2025-01-07 02:08:00",
-        "sentiment_score": -0.8884995114058256
-    },
-    {
-        "title": "Autoridades anuncian que identificaron a presuntos atacantes del bar en Tabasco",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21262524-42003-343-still.jpg?quality=100&strip=info",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ataque-bar-tabasco-investigacion-perspectivas-mexico-tv/",
-        "date": "2025-01-07 01:36:53",
-        "sentiment_score": -0.6201903782784939
-    },
-    {
-        "title": "Menor sobrevive 5 días en un parque “infestado” de leones en Zimbabwe",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-915711072.jpg?quality=100&strip=info",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/milagro-zimbabwe-tinotenda-pudu-parque-leones-perspectivas-mexico-tv/",
-        "date": "2025-01-07 01:26:56",
-        "sentiment_score": -0.8103177417069674
-    },
-    {
-        "title": "La rosca de reyes se reinventa con nuevos sabores",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21265403-73972-still.jpg?quality=100&strip=info",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rosca-tacos-pastor-paletas-reyes-magos-perspectivas-mexico-tv/",
-        "date": "2025-01-07 01:17:08",
-        "sentiment_score": -0.0378061980009079
-    },
-    {
-        "title": "Ken Salazar: El sistema de migración de EE.UU. está quebrado",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192182109.jpg?quality=100&strip=info",
-        "tags": [
-            "xpress",
-            "fast – news variety",
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ken-salazar-sistema-migracion-eeuu-quebrado-perspectivas-mexico-tv-fast/",
-        "date": "2025-01-07 00:32:58",
-        "sentiment_score": -0.3485928252339363
-    },
-    {
-        "title": "Testigo del tiroteo en Georgia: “el guardia fue un héroe”",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21265565-5296-still-20250107002233528.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-testigo-tiroteo-consulado-honduras-georgia-perspectivas-mexico-tv-fast/",
-        "date": "2025-01-07 00:25:45",
-        "sentiment_score": -0.7074597999453545
-    },
-    {
-        "title": "Elon Musk critica a algunos políticos británicos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1760599795-20250107001850261.jpg?quality=100&strip=info",
-        "tags": [
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/elon-musk-politicos-inglaterra-trax/",
-        "date": "2025-01-07 00:24:54",
-        "sentiment_score": -0.8255185820162296
-    },
-    {
-        "title": "Masorange y Vodafone lanzan la venta del 40% de su empresa de fibra por hasta 4.000 millones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/07/ceo-masorange-Ra2f2eFowUDU3RBU8DZzT2K-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/masorange-vodafone-lanzan-venta-empresa-fibra-4000-20250107040236-nt.html",
-        "date": "2025-01-07 03:02:37",
-        "sentiment_score": 0.002589613199234009
-    },
-    {
-        "title": "Polonia asume la presidencia de una UE más frágil que nunca",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/06/tusk-RRRV5yxJgoHE5vYjDlzAxOP-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/polonia-asume-presidencia-ue-fragil-nunca-20250106040215-nt.html",
-        "date": "2025-01-07 03:02:15",
-        "sentiment_score": -0.08699026703834534
-    },
-    {
-        "title": "Trudeau, el icono progresista consumido por una crisis interna y los desprecios de Trump",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/06/trudeau-ReDlvwoy3nnrNhylgfrwU4L-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trudeau-icono-progresista-consumido-crisis-interna-desprecios-20250106040156-nt.html",
-        "date": "2025-01-07 03:01:56",
-        "sentiment_score": -0.06858214735984802
-    },
-    {
-        "title": "Por qué las rebajas necesitan reinventarse para sobrevivir y frenar la \"fiebre consumista\" de Shein y Temu",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/01/corte-ingles-4278552.jpg?tf=1200x",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.businessinsider.es/economia/rebajas-necesitan-reinventarse-sobrevivir-frenar-fiebre-consumista-shein-temu-1432854",
-        "date": "2025-01-07 03:15:02",
-        "sentiment_score": 0.18769186735153198
-    },
-    {
-        "title": "Las residencias de estudiantes y la vivienda flexible elevan la inversión en el sector residencial hasta los 2.600 millones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fe949ccb-c5fb-4e31-9ff7-9177003f2cc7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.epe.es/es/activos/20250107/inversion-living-residencial-2024-113016452",
-        "date": "2025-01-07 03:01:00",
-        "sentiment_score": 0.26877472549676895
-    },
-    {
-        "title": "Quieren una como esta",
-        "image_url": "https://uh.gsstatic.es/autor/carlos-meneses/10813.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/opinion/tribuna/2025/01/07/2301213/quieren-como-esta.html",
-        "date": "2025-01-07 03:00:01",
-        "sentiment_score": -0.10587209463119507
-    },
-    {
-        "title": "Lucha de gigantes en Yeda: el Mallorca contra los reyes del torneo",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3138125.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/01/07/2300797/supercopa-espana-2025-real-mallorca-contra-reyes-del-torneo.html",
-        "date": "2025-01-07 03:00:01",
-        "sentiment_score": -0.1484786570072174
-    },
-    {
-        "title": "Quieren una como esta",
-        "image_url": "https://men.gsstatic.es/autor/carlos-meneses/10813.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/01/07/2301261/quieren-como-esta-1.html",
-        "date": "2025-01-07 03:00:01",
-        "sentiment_score": -0.05986607074737549
-    },
-    {
-        "title": "El Ajuntament quiere el yelmo alado de Jaume I de vuelta en Palma para 2029",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3136655.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ultimahora.es/noticias/palma/2025/01/07/2300263/ajuntament-quiere-yelmo-alado-jaume-vuelta-palma-para-2029.html",
-        "date": "2025-01-07 03:00:01",
-        "sentiment_score": -0.0611458420753479
-    },
-    {
-        "title": "Los filandones leoneses irrumpen en la Biblioteca Nacional",
-        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/01/06/677c395cdc000.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodeleon.es/cultura/250107/1762294/filandones-leoneses-biblioteca-nacional.html",
-        "date": "2025-01-07 02:30:00",
-        "sentiment_score": 0.3077346011996269
-    },
-    {
-        "title": "El sorprendente consejo de un ex compañero a Cristiano Ronaldo, que involucra a Lionel Messi: “Sería fantástico”",
-        "image_url": "https://www.infobae.com/resizer/v2/FUFEXA4EKBDWVA7TJQFT7VWSWU.jpg?auth=3e4690b8b97eaca935a4c4ceae9507fad31aa5bde5d42bd9af81915317ed132f&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/01/07/el-sorprendente-consejo-de-un-ex-companero-a-cristiano-ronaldo-que-involucra-a-lionel-messi-seria-fantastico/",
-        "date": "2025-01-07 02:06:37",
-        "sentiment_score": 0.027619212865829468
-    },
-    {
-        "title": "Esther Romero pide ayuda a la Federación tras quedar sus trofeos maltrechos por la dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/esther-romero-pide-ayuda-a-la-federacion-tras-quedar-sus-trofeos-maltrechos-por-la-dana/",
-        "date": "2025-01-07 02:47:25",
-        "sentiment_score": -0.8485497683286667
-    },
-    {
-        "title": "Comiciencia, la ciencia a través del cómic",
-        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2025/01/06/677c360ccd406.r_d.1650-989-1813.jpeg",
-        "tags": [
-            "innova"
-        ],
-        "link": "https://www.diariodeleon.es/monograficos/innova/250107/1762286/comiciencia-ciencia-traves-comic-indira-alvarez.html",
-        "date": "2025-01-07 02:30:00",
-        "sentiment_score": 0.6906926333904266
-    },
-    {
-        "title": "Banco Sabadell lanza la emisión de un bono verde de 500 millones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/banco-sabadell-lanza-la-emision-de-un-bono-verde-de-500-millones/",
-        "date": "2025-01-07 02:04:01",
-        "sentiment_score": 0.4332514554262161
-    },
-    {
-        "title": "Rayo-Real Madrid, sábado 14 de diciembre (21:00) y Barcelona-Leganés el domingo (21:00)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/rayo-real-madrid-sabado-14-de-diciembre-2100-y-barcelona-leganes-el-domingo-2100/",
-        "date": "2025-01-07 02:03:43",
-        "sentiment_score": 0.07303180545568466
-    },
-    {
-        "title": "Bidasoa-Irun certificará su pase a octavos si gana en Polonia al Chrobry Glogow",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/bidasoa-irun-certificara-su-pase-a-octavos-si-gana-en-polonia-al-chrobry-glogow/",
-        "date": "2025-01-07 02:03:24",
-        "sentiment_score": 0.661308653652668
-    },
-    {
-        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/XV372Z2FVFHMVGNV5LHKP6VRGE.jpg?auth=2d0ff0b8fdc78fdc10b3cc5b33d8befa9665e81396f6b9f29efe5ae0a6a47274&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/07/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-barcelona/",
-        "date": "2025-01-07 02:02:05",
-        "sentiment_score": -0.054130785167217255
-    },
-    {
-        "title": "Aena lanza un plan para atrapar al turista chino en los aeropuertos de Barajas y El Prat",
-        "image_url": "https://s1.elespanol.com/2025/01/02/invertia/empresas/turismo/913418755_252060962_1706x960.jpg?contentId=ESPIMA20250102_0106",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/turismo/20250107/aena-lanza-plan-atrapar-turista-chino-aeropuertos-barajas-prat/912908811_0.html",
-        "date": "2025-01-07 01:35:18",
-        "sentiment_score": 0.4703171644359827
-    },
-    {
         "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 7 de enero",
         "image_url": "https://www.infobae.com/resizer/v2/BH4KJV5BDBE2HAFBG64UYMWK3A.jpg?auth=52553d42d49db16d48305e0af3d0c71bbfd97aca5381aa6f39b87cdeaede5667&height=1080&smart=true&width=1920",
         "tags": [
@@ -855,16 +100,6 @@ export default [
         "sentiment_score": -0.508859284222126
     },
     {
-        "title": "Chinchilla: Las imágenes de la caída de Bashar al-Assad deben estar muy presentes en Nicolás Maduro",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2148539668.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/venezuela-transicion-poder-edmundo-maduro-apoyo-internacional-conclusiones-tv/",
-        "date": "2025-01-07 03:26:43",
-        "sentiment_score": -0.25924064964056015
-    },
-    {
         "title": "Volver a la rutina y no ahogarse en el intento",
         "image_url": "https://imagenes.elpais.com/resizer/v2/ETEZE23RSJFP3H7DJJGDXRG2DY.jpg?auth=2e18c04f72a38417c70e3dfedfdd74e7120acad40f4d9918b1d291ef0a4342ec&width=1200",
         "tags": [
@@ -901,171 +136,6 @@ export default [
         "link": "https://elpais.com/escaparate/estilo-de-vida/2025-01-07/supercopa-de-espana-en-movistar-plus.html",
         "date": "2025-01-07 06:00:00",
         "sentiment_score": 0.4372666999697685
-    },
-    {
-        "title": "La extrema derecha cosecha ya uno de cada seis apoyos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LA5UJ6OTD5DUVM6GTP5YRKLOIU.png?auth=02078f42940b65df867459e9ba79e73b992ff91b1e45903c4e06ae214f4a37c1&width=1200",
-        "tags": [
-            "vox",
-            "santiago abascal",
-            "yolanda díaz",
-            "se acabó la fiesta (salf)",
-            "españa",
-            "pedro sánchez",
-            "congreso diputados",
-            "encuestas electorales",
-            "alvise pérez",
-            "podemos",
-            "sumar",
-            "juntsxcat",
-            "psoe",
-            "elecciones",
-            "erc"
-        ],
-        "link": "https://elpais.com/espana/2025-01-07/la-extrema-derecha-alcanza-el-16-de-estimacion-de-voto.html",
-        "date": "2025-01-07 04:40:00",
-        "sentiment_score": -0.21240252256393433
-    },
-    {
-        "title": "Más del 70% de la población ve al Gobierno “inestable” y “dividido” internamente",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4DHRK4XCB5FAXBCCFAEGYDI62Q.jpg?auth=cab7b1835fef8817e66b51ec641b88e7e2ae8e791f92bdf1ec55d983020d6c8b&width=1200",
-        "tags": [
-            "gobierno",
-            "yolanda díaz",
-            "santiago abascal",
-            "vox",
-            "se acabó la fiesta (salf)",
-            "españa",
-            "encuestas electorales",
-            "pedro sánchez",
-            "pp",
-            "encuestas",
-            "coaliciones electorales",
-            "alberto núñez feijóo",
-            "podemos",
-            "sumar",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/2025-01-07/mas-del-70-de-la-poblacion-ve-al-gobierno-inestable-y-dividido-internamente.html",
-        "date": "2025-01-07 04:40:00",
-        "sentiment_score": -0.472786620259285
-    },
-    {
-        "title": "Cascos se sienta este martes en el banquillo acusado de apropiación indebida por el partido que fundó",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TSDT2LVGTVBNDLPOCNT5ZK6VKY.jpg?auth=345883e530554c43f0d16c1e68f0663bc7934383eb6897ec1aa527e8babad702&width=1200",
-        "tags": [
-            "delitos",
-            "españa",
-            "pp",
-            "fac",
-            "principado de asturias",
-            "juicios",
-            "francisco álvarez cascos",
-            "apropiación indebida"
-        ],
-        "link": "https://elpais.com/espana/2025-01-07/cascos-se-sienta-este-martes-en-el-banquillo-acusado-de-apropiacion-indebida-por-el-partido-que-fundo.html",
-        "date": "2025-01-07 04:30:00",
-        "sentiment_score": -0.6491189170628786
-    },
-    {
-        "title": "El PSOE andaluz confía en que Espadas renuncie hoy a la reelección y abra la puerta a Montero",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HT5VYTCEF5CBTBELHPRDVSKD4I.jpg?auth=4e0fc0732cef1d85268194384880378511138cb32849e0d9fdc23e5cf7076f45&width=1200",
-        "tags": [
-            "psoe-a",
-            "españa",
-            "juan espadas cejas",
-            "pedro sánchez",
-            "primarias psoe",
-            "andalucía",
-            "psoe",
-            "maría jesús montero"
-        ],
-        "link": "https://elpais.com/espana/2025-01-07/el-psoe-andaluz-confia-en-que-espadas-renuncie-hoy-a-la-reeleccion-y-abra-la-puerta-a-montero.html",
-        "date": "2025-01-07 04:30:00",
-        "sentiment_score": -0.0218244269490242
-    },
-    {
-        "title": "Huir de la guerra y enfrentarse al rechazo: el periplo de los refugiados palestinos en España",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y3URVUFN4NF5BN7LAJMN5JCE6A.jpg?auth=e31a2605b55ca5e1fa9f7bbd4f7407f22807e196dfbe9247042ace8a26d65444&width=1200",
-        "tags": [
-            "migración",
-            "refugiados",
-            "barcelona",
-            "españa",
-            "asilo político",
-            "palestina",
-            "israel",
-            "conflicto árabe-israelí",
-            "ayuda humanitaria",
-            "cear"
-        ],
-        "link": "https://elpais.com/espana/2025-01-07/huir-de-la-guerra-y-enfrentarse-al-rechazo-el-periplo-de-los-refugiados-palestinos-en-espana.html",
-        "date": "2025-01-07 04:30:00",
-        "sentiment_score": -0.8729595923796296
-    },
-    {
-        "title": "Un informe del Govern alerta de indemnizaciones de hasta 50 millones por paralizar el Hard Rock",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HGBUCUMR2CQ4QXDJZRJN24EZ4Q.jpg?auth=2929400880f1d996dd55ac47d8dd64e8782e5b459350919bfe062a42d6efe5c5&width=1200",
-        "tags": [
-            "casinos",
-            "hard rock",
-            "tarragona",
-            "cat en comú",
-            "vila-seca",
-            "indemnizaciones",
-            "psc",
-            "salou",
-            "salvador illa",
-            "erc",
-            "generalitat cataluña",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2024-12-20/el-govern-se-enfrenta-a-una-indemnizacion-de-alrededor-de-50-millones-si-paraliza-el-hard-rock.html",
-        "date": "2025-01-07 04:15:00",
-        "sentiment_score": -0.8346515186131
-    },
-    {
-        "title": "El viacrucis de 120.000 madrileños sin metro desde hace cinco meses: “Ni está ni se le espera”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CAE5OBG6EVHFFK5ZKO7QV45BEU.JPG?auth=42a9b573121451a74bea4523023ab7a03e191bc8a9721a410b2eef4f4753b47a&width=1200",
-        "tags": [
-            "madrid",
-            "obras públicas",
-            "metro",
-            "pp madrid",
-            "metro madrid",
-            "isabel díaz ayuso",
-            "cercanías madrid",
-            "movilidad sostenible",
-            "autobuses urbanos",
-            "comunidad de madrid",
-            "coslada",
-            "pp",
-            "movilidad urbana",
-            "esperanza aguirre",
-            "autobuses",
-            "san fernando de henares",
-            "líneas ferrocarril"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-07/el-viacrucis-de-120000-madrilenos-sin-metro-desde-hace-cinco-meses-ni-esta-ni-se-le-espera.html",
-        "date": "2025-01-07 04:00:00",
-        "sentiment_score": -0.8977652182802558
-    },
-    {
-        "title": "Ciudades españolas que se miran en el espejo de ‘The New Yorker’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LQPCHSJRDZDP7E6RSCKQZLSD2I.jpg?auth=b1c1b76bd4ce0f64b32aff248ec76421dfcbf65783fa2f82e384e2bfb0bcf89b&width=1200",
-        "tags": [
-            "españa",
-            "ilustración",
-            "revistas divulgación",
-            "diseño gráfico",
-            "sevilla",
-            "málaga",
-            "noticias de españa",
-            "revistas"
-        ],
-        "link": "https://elpais.com/espana/2025-01-07/ciudades-espanolas-que-se-miran-en-el-espejo-de-the-new-yorker.html",
-        "date": "2025-01-07 04:00:00",
-        "sentiment_score": 0.3624669909477234
     },
     {
         "title": "La Copa es un tormento para la UD Las Palmas: siete años en un laberinto",
@@ -7688,5 +6758,537 @@ export default [
         "link": "https://www.lne.es/economia/2025/01/10/talgo-oscar-puente-gobierno-blinda-tutela-sidenor-113261959.html",
         "date": "2025-01-10 06:27:43",
         "sentiment_score": 0.07913036644458771
+    },
+    {
+        "title": "CEAR denuncia que se exija visado de tránsito a egipcios para evitar peticiones de asilo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/cear-denuncia-que-se-exija-visado-de-transito-a-egipcios-para-evitar-peticiones-de-asilo/",
+        "date": "2025-01-10 17:04:26",
+        "sentiment_score": -0.8162510376423597
+    },
+    {
+        "title": "La bolsa sube el 0,33 % con el apoyo de la banca y a pesar de las dudas de Wall Street",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/la-bolsa-sube-el-033-con-el-apoyo-de-la-banca-y-a-pesar-de-las-dudas-de-wall-street/",
+        "date": "2025-01-10 17:04:07",
+        "sentiment_score": 0.6328563839197159
+    },
+    {
+        "title": "Una asociación pide fotos para cuantificar daños de la dana en el patrimonio en Tarragona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/una-asociacion-pide-fotos-para-cuantificar-danos-de-la-dana-en-el-patrimonio-en-tarragona/",
+        "date": "2025-01-10 17:03:48",
+        "sentiment_score": -0.6443900279700756
+    },
+    {
+        "title": "EEUU mantiene un mercado laboral sólido al caer la tasa de paro en diciembre al 4,1 %",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/eeuu-mantiene-un-mercado-laboral-solido-al-caer-la-tasa-de-paro-en-diciembre-al-41/",
+        "date": "2025-01-10 17:02:46",
+        "sentiment_score": 0.3885674923658371
+    },
+    {
+        "title": "Montero y Luis Ángel Hierro, confirmados como únicos precandidatos en el PSOE de Andalucía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/montero-y-luis-angel-hierro-confirmados-como-unicos-precandidatos-en-el-psoe-de-andalucia/",
+        "date": "2025-01-10 17:02:26",
+        "sentiment_score": 0.1911596655845642
+    },
+    {
+        "title": "Cultura ve \"incompleta\" la propuesta ley del PSOE en lo concerniente a derogar los delitos de opinión",
+        "image_url": "https://www.infobae.com/resizer/v2/SD7UOG2Z65E3NK7TA6NC6DN2SI.jpg?auth=f79551cec1b16a1953a0ec6cf885d6846cf4e2155a05e12eaa3e9dec75f7ee01&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/cultura-ve-incompleta-la-propuesta-ley-del-psoe-en-lo-concerniente-a-derogar-los-delitos-de-opinion/",
+        "date": "2025-01-10 17:02:23",
+        "sentiment_score": -0.8716127891093493
+    },
+    {
+        "title": "No hay distancia que valga para disfrutar de los reencuentros en Pingüinos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/no-hay-distancia-que-valga-para-disfrutar-de-los-reencuentros-en-pinguinos/",
+        "date": "2025-01-10 17:02:10",
+        "sentiment_score": 0.1168137937784195
+    },
+    {
+        "title": "El Ibex cae el 1,5%, hasta 11.720 puntos, lastrada por Wall Street tras dato paro en EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/el-ibex-cae-el-15-hasta-11720-puntos-lastrada-por-wall-street-tras-dato-paro-en-eeuu/",
+        "date": "2025-01-10 17:01:53",
+        "sentiment_score": -0.6215398851782084
+    },
+    {
+        "title": "Cómo calcular la subida de tu alquiler con el nuevo índice de 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/UJ65WWFG75H5FNNLAAJ26HDKKI.jpg?auth=de529e4561e79dd2c278269ff3d828c0b30f64f4b37111463c0d539f1ee5503e&height=3402&smart=true&width=6048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/10/como-calcular-la-subida-de-tu-alquiler-con-el-nuevo-indice-de-2025/",
+        "date": "2025-01-10 17:00:38",
+        "sentiment_score": 0.05981467664241791
+    },
+    {
+        "title": "Jordi Valls cita a ocho de las trece campeonas olímpicas para la Copa del Mundo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/jordi-valls-cita-a-ocho-de-las-trece-campeonas-olimpicas-para-la-copa-del-mundo/",
+        "date": "2025-01-10 16:49:42",
+        "sentiment_score": 0.16947119683027267
+    },
+    {
+        "title": "Maduro llama “nazi sionista” a Javier Milei y critica a Gobiernos extranjeros en su discurso de juramentación",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21279276-12356-173-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maduro-discurso-milei-critica-gobiernos-extranjeros/",
+        "date": "2025-01-10 16:35:39",
+        "sentiment_score": -0.4919765740633011
+    },
+    {
+        "title": "Maduro dice que Venezuela “está en paz” en su primer discurso luego de prestar juramento presidencial",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21279276-20165-224-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nicolas-maduro-discurso-juramentacion-orix/",
+        "date": "2025-01-10 15:49:44",
+        "sentiment_score": 0.322335384786129
+    },
+    {
+        "title": "Mira el momento en el que Maduro se juramenta para un nuevo mandato en Venezuela",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nicolas-maduro-juramenta-nuevo-mandato-presidencial/",
+        "date": "2025-01-10 14:57:17",
+        "sentiment_score": -0.10371308028697968
+    },
+    {
+        "title": "Qué pasó en el juicio penal contra Donald Trump por supuestos pagos por silencio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/trump-juicio-mar-a-lago.jpg?quality=100&strip=info",
+        "tags": [
+            "análisis",
+            "donald trump",
+            "trump"
+        ],
+        "link": "https://cnnespanol.cnn.com/2025/01/10/juicio-dinero-secreto-donald-trump-trax/",
+        "date": "2025-01-10 14:00:00",
+        "sentiment_score": -0.7217016685754061
+    },
+    {
+        "title": "La angustia de un residente de Altadena al ver su casa destruida por los incendios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/alvaradothumb.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/altadena-incendios-california-residentes-llora-ush-tv/",
+        "date": "2025-01-10 13:39:27",
+        "sentiment_score": -0.8741699075326324
+    },
+    {
+        "title": "El proceso por la beatificación de Enrique Shaw",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_943a91.png",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/proceso-beatificacion-enrique-shaw-primera-manana-fast/",
+        "date": "2025-01-10 12:52:30",
+        "sentiment_score": -0.0018431544303894043
+    },
+    {
+        "title": "Toma de posesión del presidente de Venezuela, en vivo: última hora de Maduro y Gónzalez",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/edmundo-maduro-venezuela.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/2025/01/10/posesion-presidente-venezuela-maduro-gonzalez-noticias-orix/",
+        "date": "2025-01-10 11:52:21",
+        "sentiment_score": 0.05216749384999275
+    },
+    {
+        "title": "Cámara térmica muestra rescate de cinco personas en mar de Puerto Rico",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/rescatethumbh.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/camara-termica-rescate-mar-puerto-rico-orix/",
+        "date": "2025-01-10 08:44:38",
+        "sentiment_score": -0.547808576375246
+    },
+    {
+        "title": "Un hombre ayuda a un perro callejero lesionado entre los escombros de un incendio forestal de California",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/perrito-rescatado.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hombre-ayuda-perro-callejero-incendio-california-trax/",
+        "date": "2025-01-10 07:19:00",
+        "sentiment_score": -0.6647199392318726
+    },
+    {
+        "title": "Brasil exigirá explicaciones a Meta por el fin de sus programas de verificación",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/10/meta-reuters-k8EI-U7092336211jq-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/brasil-exigira-explicaciones-meta-fin-programas-verificacion-20250110175338-nt.html",
+        "date": "2025-01-10 16:53:38",
+        "sentiment_score": -0.12905000150203705
+    },
+    {
+        "title": "¿Importa que el próximo presidente de EE.UU. sea un delincuente convicto?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/DONADL-TRUMP_20250110172109-RQvgq0kchvMC51vncQPCGgM-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pedro-rodriguez-importa-proximo-presidente-eeuu-delincuente-convicto-20250110171804-nt.html",
+        "date": "2025-01-10 16:21:29",
+        "sentiment_score": -0.24654218554496765
+    },
+    {
+        "title": "Toma de posesión de Nicolás Maduro como presidente de Venezuela, en directo: última hora de las protestas y Edmundo González hoy",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/08/pescaderia-mercadona-kWqE--170x119@Ideal.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/toma-posesion-nicolas-maduro-presidente-venezuela-directo-ultima-hora-protestas-edmundo-gonzalez-hoy-20250110184030-di.html",
+        "date": "2025-01-10 15:28:18",
+        "sentiment_score": -0.01948614791035652
+    },
+    {
+        "title": "Maduro se queda solo: la izquierda latinoamericana se aparta del dictador",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/v2-R7UNYizTr0EbWtBShTmpUfK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/colombia-expresa-energico-rechazo-denunciados-abusos-ddhh-20250110104251-nt.html",
+        "date": "2025-01-10 15:04:22",
+        "sentiment_score": -0.061353474855422974
+    },
+    {
+        "title": "¿Qué enfermedad infecciosa puede suponer el mayor problema para los humanos en 2025?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/01/10/proxima-pandemia-RUBN7CZMTVbfQ4X46FpMipK-1200x840@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/enfermedad-infecciosa-puede-suponer-mayor-problema-humanos-20250110152444-nt.html",
+        "date": "2025-01-10 15:03:10",
+        "sentiment_score": -0.37442639470100403
+    },
+    {
+        "title": "Así influye el cerebro en los trastornos alimentarios durante la adolescencia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/01/10/adolescencia-anorexia.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/influye-cerebro-trastornos-alimentarios-adolescencia-20250110140648-nt.html",
+        "date": "2025-01-10 13:06:48",
+        "sentiment_score": -0.17991788685321808
+    },
+    {
+        "title": "La OTAN envía dos buques al Báltico tras el supuesto sabotaje de cables submarinos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/baltico-kabC-U7091034346zl-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/otan-envia-dos-buques-baltico-tras-supuesto-20250110134937-nt.html",
+        "date": "2025-01-10 12:49:37",
+        "sentiment_score": -0.09836581349372864
+    },
+    {
+        "title": "Nuevo frente diplomático: Francia acusa a Argelia de intentar «humillarla» por devolver a un 'influencer' deportado",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/ministro-exteriores-francia-kbaH-U70908212003OD-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/nuevo-frente-diplomatico-francia-acusa-argelia-intentar-20250110130855-nt.html",
+        "date": "2025-01-10 12:08:56",
+        "sentiment_score": -0.21502628922462463
+    },
+    {
+        "title": "TikTok gasta (casi) su última bala para evitar la prohibición en Estados Unidos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/10/tiktok-reu-2-ROOOR922HmQQKjQBtkCwedI-1200x840@diario_abc.JPG",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/tiktok-gasta-ultima-bala-evitar-prohibicion-estados-20250110125954-nt.html",
+        "date": "2025-01-10 11:59:55",
+        "sentiment_score": -0.15244083106517792
+    },
+    {
+        "title": "La IA mejora la detección de cáncer con mamografía en un estudio en 500.000 mujeres",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/01/10/mamografia.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/ia-mejora-tasas-deteccion-cancer-mamografia-estudio-20250110093516-nt.html",
+        "date": "2025-01-10 11:42:26",
+        "sentiment_score": -0.07054115831851959
+    },
+    {
+        "title": "La Abogacía del Estado denuncia un “juicio paralelo” al fiscal general",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YP2V7OJO2NBT7P6RFN4IGQXRZI.jpg?auth=cdffad2ca817b0af7d779316a89b117cd4fb3e04044b34df6f9ff102c942cbdf",
+        "tags": [
+            "justicia",
+            "isabel díaz ayuso",
+            "pp",
+            "acusación popular",
+            "fiscalía general estado",
+            "comunidad de madrid",
+            "miguel ángel rodríguez",
+            "fiscalía",
+            "españa",
+            "tribunal supremo",
+            "delitos",
+            "abogacía general estado",
+            "ángel hurtado",
+            "álvaro garcía ortiz",
+            "investigación judicial"
+        ],
+        "link": "https://elpais.com/espana/2025-01-10/la-abogacia-del-estado-denuncia-un-juicio-paralelo-al-fiscal-general.html",
+        "date": "2025-01-10 16:23:41",
+        "sentiment_score": -0.7248859498649836
+    },
+    {
+        "title": "Sorpresa en Exteriores por la reunión en Madrid de Ayuso con el embajador de España en Corea del Sur",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/R2K5WHCZ2NB2RPEKB6BOEJC2A4.jpg?auth=22e0dd639347d4eed3c3a193c0faa0941e1e7666b4ba481fbed90b470a28d3e4&width=1200",
+        "tags": [
+            "isabel díaz ayuso",
+            "madrid",
+            "corea del sur",
+            "comunidad de madrid",
+            "josé luis ábalos",
+            "ministerio de asuntos exteriores",
+            "empresas",
+            "diplomacia"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-10/sorpresa-en-exteriores-por-la-reunion-en-madrid-de-ayuso-con-el-embajador-de-espana-en-corea-del-sur.html",
+        "date": "2025-01-10 16:05:06",
+        "sentiment_score": 0.11155110038816929
+    },
+    {
+        "title": "José Zaragoza (PSC): “La foto Feijóo-Puigdemont llegará y será la victoria de Pedro Sánchez”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SR64GWPSJBG7LNNVAHJE3RH4HQ.jpeg?auth=68fed778ee5e3c258f9726be94c1cc0d88de6b1882736e4e4a1a64a3799e6738&width=1200",
+        "tags": [
+            "barcelona",
+            "la moncloa tv",
+            "cadena ser",
+            "partidos políticos",
+            "presupuestos generales estado",
+            "entrevistas radiofónicas",
+            "josé zaragoza",
+            "gobierno",
+            "cataluña",
+            "alberto núñez feijóo",
+            "carles puigdemont",
+            "generalitat cataluña",
+            "independentismo",
+            "pedro sánchez",
+            "política",
+            "congreso diputados",
+            "psoe",
+            "juntsxcat"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-10/jose-zaragoza-psc-la-foto-feijoo-puigdemont-llegara-y-sera-la-victoria-de-pedro-sanchez.html",
+        "date": "2025-01-10 15:55:17",
+        "sentiment_score": 0.419627383351326
+    },
+    {
+        "title": "Toni Comín presenta su candidatura para presidir la ‘Generalitat paralela’ de Puigdemont",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ESFBM7LPDREOZEJJLS5R5WATBM.jpg?auth=99bff9674add213ae94e14e20be8b0de16bac8df371ace8c02742a868df51373&width=1200",
+        "tags": [
+            "cataluña",
+            "república",
+            "independencia",
+            "antoni comín",
+            "auditoría",
+            "elecciones",
+            "candidaturas políticas",
+            "bruselas",
+            "carles puigdemont"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-10/toni-comin-presenta-su-candidatura-para-presidir-la-generalitat-paralela-de-puigdemont.html",
+        "date": "2025-01-10 14:12:15",
+        "sentiment_score": -0.7377599105238914
+    },
+    {
+        "title": "San Matías no es San Matías: un hombre financia pintar la iglesia de su pueblo e incluye su cara como un santo más",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/C474EMEFYZGATC7AVK7MMCUDHM.jpg?auth=a93dd0417c922bb54f4922c506b7c1712348f7f2d549409b2a0ca3e73962553d&width=1200",
+        "tags": [
+            "restauración patrimonio",
+            "españa",
+            "patrimonio histórico",
+            "fraudes",
+            "restauración artística",
+            "iglesias",
+            "restauración",
+            "patrimonio municipal",
+            "españa vacía",
+            "aragón"
+        ],
+        "link": "https://elpais.com/espana/2025-01-10/san-matias-no-es-san-matias-un-hombre-financia-pintar-la-iglesia-de-su-pueblo-e-incluye-su-cara-como-un-santo-mas.html",
+        "date": "2025-01-10 13:38:57",
+        "sentiment_score": -0.9310316694900393
+    },
+    {
+        "title": "Illa augura “pasos adelante” en enero sobre el traspaso de Rodalies en Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6SWD7LDLBWMQULZOGBYUTVWCMI.jpg?auth=8b67b97d08ee32306cc508f1acea755b694bdde3355863f8cc1198b0ff3aefef&width=1200",
+        "tags": [
+            "trenes",
+            "transporte ferroviario",
+            "generalitat cataluña",
+            "cercanías",
+            "raül blanco",
+            "santa perpètua de mogoda",
+            "barcelona",
+            "cataluña",
+            "óscar puente santiago",
+            "renfe"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-10/illa-augura-pasos-adelante-en-enero-sobre-el-traspaso-de-rodalies-en-cataluna.html",
+        "date": "2025-01-10 13:29:38",
+        "sentiment_score": 0.1273232251405716
+    },
+    {
+        "title": "1.154 personas murieron en las carreteras en 2024, 14 más que el año anterior",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WCMBSWK2V5L4RYNCDHNVAZODJY.jpg?auth=f6977033f66fd22b721b603c43436df3523af7e4c8c61e82ce1841bc55ef8cfb&width=1200",
+        "tags": [
+            "carreteras",
+            "españa",
+            "accidentes tráfico",
+            "motocicletas",
+            "guardia civil",
+            "fernando grande-marlaska",
+            "pere navarro",
+            "accidentes",
+            "autopistas",
+            "dgt",
+            "autovías",
+            "seguridad vial"
+        ],
+        "link": "https://elpais.com/espana/2025-01-10/1154-personas-murieron-en-las-carreteras-en-2024-14-mas-que-el-ano-anterior.html",
+        "date": "2025-01-10 13:12:40",
+        "sentiment_score": 0.1385587602853775
+    },
+    {
+        "title": "La Guardia Urbana incorporará pistolas taser ante la proliferación de armas blancas en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/F6FFE5U3RFESXAMZT2Q25N2K7M.jpg?auth=ab170b192aeaf7e372f48e4519f49b259c4ed87f3ffde6229bf4ae045c593175&width=1200",
+        "tags": [
+            "taser",
+            "ayuntamiento barcelona",
+            "guardia urbana",
+            "cataluña",
+            "policía municipal",
+            "barcelona",
+            "seguridad ciudadana",
+            "policía",
+            "mossos d'esquadra"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-10/la-guardia-urbana-incorporara-pistolas-taser-ante-la-proliferacion-de-armas-blancas-en-barcelona.html",
+        "date": "2025-01-10 12:33:19",
+        "sentiment_score": 0.3556975796818733
+    },
+    {
+        "title": "Los Mossos confirman que un asesor de Puigdemont fue espiado con Pegasus desde 2019",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KXYKDM7X5VG4RH5GF7F4WP6WWM.jpg?auth=2ce70deb7834e4e2203462285523b88efe64dbbfc9cc61a36a85eca94b510109&width=1200",
+        "tags": [
+            "carles puigdemont",
+            "investigación judicial",
+            "cataluña",
+            "telefonía",
+            "caso pegasus",
+            "espionaje",
+            "mossos d'esquadra"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-10/los-mossos-confirman-que-un-asesor-de-puigdemont-fue-espiado-con-pegasus-desde-2019.html",
+        "date": "2025-01-10 12:15:22",
+        "sentiment_score": -0.6927780527621508
+    },
+    {
+        "title": "Mazón, 70 días después de la dana: “Recibiré a los afectados cuando ellos quieran”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y562YRRIL5CDBBOW5QMVI3IJUI.jpg?auth=0458255670e1fbc75f1192ad53577b12372bb09a38235df9f949aee2e819beda&width=1200",
+        "tags": [
+            "coches",
+            "inundaciones dana octubre 2024",
+            "generalitat valenciana",
+            "inundaciones",
+            "comunidad valenciana",
+            "ppcv",
+            "lluvias torrenciales",
+            "carlos mazón",
+            "valencia",
+            "ayudas públicas",
+            "administración autonómica"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-10/mazon-70-dias-despues-de-la-dana-recibire-a-los-afectados-cuando-ellos-quieran.html",
+        "date": "2025-01-10 11:43:40",
+        "sentiment_score": -0.11043069511651993
+    },
+    {
+        "title": "Badalona desencalla el contrato de la limpieza pública por 540 millones",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2017/09/26/5fa3db82c5619.r_d.534-445-4526.jpeg",
+        "tags": [
+            "badalona barcelonès n."
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelones-nord/20250110/10273235/badalona-desencalla-contrato-limpieza-publica-540-millones.html",
+        "date": "2025-01-10 17:03:33",
+        "sentiment_score": 0.31407343968749046
+    },
+    {
+        "title": "El inesperado cambio que sufrirá La Revuelta de Broncano tras la aparición de Belén Esteban: los días que dejará de emitirse el programa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/750431a5-0e6a-4333-b321-70a8a788a92f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/videos/television/2025/01/10/inesperado-cambio-sufrira-revuelta-broncano-113282668.html",
+        "date": "2025-01-10 17:02:19",
+        "sentiment_score": -0.15816456079483032
+    },
+    {
+        "title": "Vinicius Jr. declarará en un juzgado por el \"puto mono\" que escuchó en el Barça-Madrid de la temporada pasada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3b2cb8dd-d381-4f8f-ab21-5c74e850a5b9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2025/01/10/vinicius-jr-declarara-juzgado-puto-113282547.html",
+        "date": "2025-01-10 16:57:45",
+        "sentiment_score": -0.6602959865704179
+    },
+    {
+        "title": "El PP pide explicaciones al Gobierno por la \"amnistía\" al Barcelona con Dani Olmo: \"Adultera la Liga\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/96f3f993-e915-4529-9603-7f5751ba9032_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/deportes/2025/01/10/pp-pide-explicaciones-gobierno-amnistia-113282931.html",
+        "date": "2025-01-10 17:07:14",
+        "sentiment_score": -0.8728720024228096
     }
 ];
