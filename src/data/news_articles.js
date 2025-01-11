@@ -1,263 +1,5 @@
 export default [
     {
-        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 7 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/BH4KJV5BDBE2HAFBG64UYMWK3A.jpg?auth=52553d42d49db16d48305e0af3d0c71bbfd97aca5381aa6f39b87cdeaede5667&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/07/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-7-de-enero/",
-        "date": "2025-01-07 06:31:15",
-        "sentiment_score": -0.13629769906401634
-    },
-    {
-        "title": "Jeju Air comienza a recortar operaciones en pleno escrutinio tras su accidente en Muan",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/07/jeju-air-comienza-a-recortar-operaciones-en-pleno-escrutinio-tras-su-accidente-en-muan/",
-        "date": "2025-01-07 06:30:44",
-        "sentiment_score": -0.5684314109385014
-    },
-    {
-        "title": "La historia real que inspiró ‘El juego del calamar’: una revuelta laboral contra el sistema que sacudió a la sociedad coreana por su violencia",
-        "image_url": "https://www.infobae.com/resizer/v2/OC6MCTMDEVGS7ERLGS5HSQ3HIA.jpg?auth=75125cb48d6a44ab02c23e39d0e931aed33a2aa5b6c18ac2f97a0e2452845857&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/01/07/la-historia-real-que-inspiro-el-juego-del-calamar-una-revuelta-laboral-contra-el-sistema-que-sacudio-a-la-sociedad-coreana-por-su-violencia/",
-        "date": "2025-01-07 06:20:53",
-        "sentiment_score": -0.9134189058095217
-    },
-    {
-        "title": "La ops de Cox, primera operación en liquidarse en un día (D+1) en el mercado español",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/la-ops-de-cox-primera-operacion-en-liquidarse-en-un-dia-d1-en-el-mercado-espanol/",
-        "date": "2025-01-07 06:17:07",
-        "sentiment_score": 0.868989191018045
-    },
-    {
-        "title": "Efemérides del 8 de enero",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/07/efemerides-del-8-de-enero/",
-        "date": "2025-01-07 06:15:53",
-        "sentiment_score": -0.04888664186000824
-    },
-    {
-        "title": "La bombona de butano sube a partir de mañana un 4,27 %, hasta los 16,61 euros",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/la-bombona-de-butano-sube-a-partir-de-manana-un-427-hasta-los-1661-euros/",
-        "date": "2025-01-07 06:04:25",
-        "sentiment_score": -0.7184002380818129
-    },
-    {
-        "title": "Jove Español ya vende entradas del partido ante la Real a la espera de la justicia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/jove-espanol-ya-vende-entradas-del-partido-ante-la-real-a-la-espera-de-la-justicia/",
-        "date": "2025-01-07 06:04:06",
-        "sentiment_score": -0.4800276979804039
-    },
-    {
-        "title": "Núñez (PP C-LM) valora la \"autocrítica\" de Mazón y su plan de reconstrucción: \"Hizo lo que tenía que hacer\"",
-        "image_url": "https://www.infobae.com/resizer/v2/ZD2RSLKAJBBTRCKMYUOP7YBTSA.jpg?auth=65c2ed19302426ddfe1eac99d84b11877b23f4398b5e837875b3fa4d55302b6e&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/nunez-pp-c-lm-valora-la-autocritica-de-mazon-y-su-plan-de-reconstruccion-hizo-lo-que-tenia-que-hacer/",
-        "date": "2025-01-07 06:03:47",
-        "sentiment_score": -0.6848418451845646
-    },
-    {
-        "title": "La Federación trabaja en recuperar los trofeos de Esther Romero dañados por la dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/la-federacion-trabaja-en-recuperar-los-trofeos-de-esther-romero-danados-por-la-dana/",
-        "date": "2025-01-07 06:03:28",
-        "sentiment_score": -0.7531334646046162
-    },
-    {
-        "title": "El juez del 'caso Begoña Gómez' imputa al directivo del IE y exconsejero madrileño Juan José Güemes",
-        "image_url": "https://www.infobae.com/resizer/v2/JFJHPSJASZAJJEB3D4WQAWE7K4.jpg?auth=069f30fd5a4e5fb29359afeb37015682ff56e049d652242815a4ca47f07fbd75&height=1268&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-juez-del-caso-begona-gomez-imputa-al-directivo-del-ie-y-exconsejero-madrileno-juan-jose-guemes/",
-        "date": "2025-01-07 06:03:09",
-        "sentiment_score": -0.508859284222126
-    },
-    {
-        "title": "Volver a la rutina y no ahogarse en el intento",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ETEZE23RSJFP3H7DJJGDXRG2DY.jpg?auth=2e18c04f72a38417c70e3dfedfdd74e7120acad40f4d9918b1d291ef0a4342ec&width=1200",
-        "tags": [
-            "año nuevo",
-            "hijos",
-            "comunidad de madrid",
-            "madrid",
-            "depresión",
-            "navidad",
-            "trabajo",
-            "felicidad",
-            "familia",
-            "estilo vida",
-            "fiestas"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-08/volver-a-la-rutina-y-no-ahogarse-en-el-intento.html",
-        "date": "2025-01-07 06:17:24",
-        "sentiment_score": 0.2179652452468872
-    },
-    {
-        "title": "La Supercopa de España se ve en Movistar Plus+ al mejor precio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZC3HKNF4UNAVXOHQK2IGJWQRVA.png?auth=62810ab82245bede520502eb853fe12663a3f501271c1cd18dfce2022c34534d&width=1200",
-        "tags": [
-            "athletic",
-            "comercio electrónico",
-            "rcd mallorca",
-            "supercopa españa",
-            "real madrid",
-            "fútbol",
-            "fc barcelona",
-            "deportes",
-            "movistar +"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2025-01-07/supercopa-de-espana-en-movistar-plus.html",
-        "date": "2025-01-07 06:00:00",
-        "sentiment_score": 0.4372666999697685
-    },
-    {
-        "title": "La Copa es un tormento para la UD Las Palmas: siete años en un laberinto",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8c005ab9-d708-42d1-aaf2-0f584ac6c6b2_16-9-aspect-ratio_default_0_x990y279.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/ud-las-palmas/2025/01/07/copa-tormento-ud-palmas-siete-113169479.html",
-        "date": "2025-01-07 06:10:46",
-        "sentiment_score": -0.10082411766052246
-    },
-    {
-        "title": "¿Si toca un gordo será gratis?",
-        "image_url": "https://images.ficheroslavoz.com/20/209e5189-c535-46aa-ab1f-aae6d55a4ae4.png?crop=697%2C393&expires=1767766274&height=1070&token=l49Da2l_7avyC3afwlaxqB4z8eIJo7Di3OwhOIKavYA&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/285540/si-toca-un-gordo-sera-gratis",
-        "date": "2025-01-07 06:10:17",
-        "sentiment_score": -0.3840453773736954
-    },
-    {
-        "title": "Nico Williams y Lamine Yamal: los otros ‘hermanos’ se reencuentran en Yeda",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7ab5b296-91ee-44fa-ac6b-99d4dc589099_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/01/07/nico-williams-lamine-yamal-hermanos-reencuentran-yeda-9127853.html",
-        "date": "2025-01-07 06:07:35",
-        "sentiment_score": -0.10572221875190735
-    },
-    {
-        "title": "La 'startup' Audioshake, ganadora de la segunda edición de MEET LALIGA EA SPORTS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/la-startup-audioshake-ganadora-de-la-segunda-edicion-de-meet-laliga-ea-sports/",
-        "date": "2025-01-07 06:02:48",
-        "sentiment_score": 0.8874187590554357
-    },
-    {
-        "title": "El 'factor pilota' en el serial de Dani Olmo",
-        "image_url": "https://static1.ara.cat/clip/d96cd94f-878f-4823-8e85-6dbc995d97f8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/factor-pilota-serial-dani-olmo_130_5248505.html",
-        "date": "2025-01-07 06:01:13",
-        "sentiment_score": -0.5083623081445694
-    },
-    {
-        "title": "Una ‘Copa’ por la reacción valencianista",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/57de5d55-c584-4afe-bfbd-8894d39c5310_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia-cf/2025/01/07/copa-del-rey-valencia-eldense-113165069.html",
-        "date": "2025-01-07 06:00:44",
-        "sentiment_score": 0.055037111043930054
-    },
-    {
-        "title": "El Valencia Basket quiere asegurar su hegemonía",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1a415737-d5ba-4747-ad57-752da4e08b47_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2025/01/07/valencia-basket-quiere-asegurar-hegemonia-113164869.html",
-        "date": "2025-01-07 06:00:43",
-        "sentiment_score": 0.015572398900985718
-    },
-    {
-        "title": "El sector insta a buscar otras aerolíneas para volar a Londres desde A Coruña: \"Easyjet, Brisith Airways o Iberia\"",
-        "image_url": "https://www.elidealgallego.com/images/showid/6991426",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elidealgallego.com/articulo/a-coruna/sector-insta-buscar-otras-aerolineas-volar-londres-desde-coruna-easyjet-brisith-airways-iberia-5128138",
-        "date": "2025-01-07 06:20:00",
-        "sentiment_score": 0.08798007667064667
-    },
-    {
-        "title": "Qué santo se celebra hoy: onomásticos del 7 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/PC3TCU6YCNCIHGQDRSY6KV7YXY.jpg?auth=c390deb019f6808127a5f90fa546d903b4d95e74f73d8e1bc0f3c5e99339e6f4&height=816&smart=true&width=1456",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/noticias/2025/01/07/que-santo-se-celebra-hoy-onomasticos-del-7-de-enero/",
-        "date": "2025-01-07 06:16:05",
-        "sentiment_score": 0.1561237797141075
-    },
-    {
-        "title": "El edificio modernista de Cataluña que parece sacado de una película de ciencia ficción",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2024/12/06/un-turista-en-barcelona.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.huffingtonpost.es/life/viajes/el-edificio-modernista-cataluna-parece-sacado-pelicula-ciencia-ficcion.html",
-        "date": "2025-01-07 06:13:41",
-        "sentiment_score": 0.01387852430343628
-    },
-    {
-        "title": "Iñigo Martínez, el jefe de la defensa culé",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c29865a9-bef3-40ae-8114-852be709a0fa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/01/07/inigo-martinez-jefe-defensa-barca-9127858.html",
-        "date": "2025-01-07 06:13:16",
-        "sentiment_score": -0.3115554302930832
-    },
-    {
-        "title": "9 restaurantes 'healthy' por la península para resetear después de fiestas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/37b36b1b-dc96-4555-bec1-c132414b704b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20250107/9-restaurantes-healthy-peninsula-resetear-113171977",
-        "date": "2025-01-07 06:03:16",
-        "sentiment_score": 0.1697774976491928
-    },
-    {
         "title": "Meta ficha a Dana White, destacado aliado de Trump, para darle entrada en su consejo",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -7290,5 +7032,544 @@ export default [
         "link": "https://www.laprovincia.es/deportes/2025/01/10/pp-pide-explicaciones-gobierno-amnistia-113282931.html",
         "date": "2025-01-10 17:07:14",
         "sentiment_score": -0.8728720024228096
+    },
+    {
+        "title": "Qué se sabe sobre el estreno de la quinta temporada de ‘Stranger Things’: será el final de la historia de los hermanos Duffer",
+        "image_url": "https://www.infobae.com/resizer/v2/JBW5GL3ECVEB3N3OXBRBUNDR4Y.jpg?auth=91f6c9099ce4b6aeec8490a9ad6bfab44089eb73b597e9a5e959f92f14b02810&height=1912&smart=true&width=3400",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/01/10/que-se-sabe-sobre-el-estreno-de-la-quinta-temporada-de-stranger-things-sera-el-final-de-la-historia-de-los-hermanos-duffer/",
+        "date": "2025-01-10 22:05:41",
+        "sentiment_score": 0.09301862865686417
+    },
+    {
+        "title": "El juicio de Samuel Luiz, a la espera de un \"veredicto justo\" un mes después de iniciarse",
+        "image_url": "https://www.infobae.com/resizer/v2/LNCZH7PRLRCW7FFKJFMMZFMA7I.jpg?auth=d1117e5865a52e743e83a3a9a73e534fd2439aadf2ff888376a960a5c9a811c0&height=1278&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-juicio-de-samuel-luiz-a-la-espera-de-un-veredicto-justo-un-mes-despues-de-iniciarse/",
+        "date": "2025-01-10 22:04:02",
+        "sentiment_score": -0.6261485479772091
+    },
+    {
+        "title": "El jurado del caso Samuel Luiz recibe el objeto del veredicto: un centenar de preguntas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/el-jurado-del-caso-samuel-luiz-recibe-el-objeto-del-veredicto-un-centenar-de-preguntas/",
+        "date": "2025-01-10 22:03:42",
+        "sentiment_score": -0.026226937770843506
+    },
+    {
+        "title": "Estos son los números ganadores del sorteo de Euromillones de este 10 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/7BDR6FFKCJFKLJ5DM5AYIIALHM.jpg?auth=02830d05ec51ec6d24a82be7f6eaa29519d0c47a0315f47913189a781ad2fe6e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/10/estos-son-los-numeros-ganadores-del-sorteo-de-euromillones-de-este-10-de-enero/",
+        "date": "2025-01-10 22:00:55",
+        "sentiment_score": 0.5332283265888691
+    },
+    {
+        "title": "Mariano García gana el duelo a Mechaal en una noche brillante de Elvin Josué Canales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/mariano-garcia-gana-el-duelo-a-mechaal-en-una-noche-brillante-de-elvin-josue-canales/",
+        "date": "2025-01-10 21:46:32",
+        "sentiment_score": 0.6613476611673832
+    },
+    {
+        "title": "0-0. El Granada añora a Uzuni ante un defensivo Burgos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/0-0-el-granada-anora-a-uzuni-ante-un-defensivo-burgos/",
+        "date": "2025-01-10 21:46:16",
+        "sentiment_score": -0.1539635807275772
+    },
+    {
+        "title": "Irene Montero pide ilegalizar a los “neonazis” de Desokupa tras sus amenazas de irrumpir en su acto en Lavapiés (Madrid)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/10/irene-montero-pide-ilegalizar-a-los-neonazis-de-desokupa-tras-sus-amenazas-de-irrumpir-en-su-acto-en-lavapies-madrid/",
+        "date": "2025-01-10 21:39:00",
+        "sentiment_score": -0.6115136686712503
+    },
+    {
+        "title": "Associated Press reducirá un 8 % su plantilla para acelerar su cambio al entorno digital",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/associated-press-reducira-un-8-su-plantilla-para-acelerar-su-cambio-al-entorno-digital/",
+        "date": "2025-01-10 21:34:15",
+        "sentiment_score": 0.553147979080677
+    },
+    {
+        "title": "Martínez Marcos se queda con Bimbo Valladolid para convertirla en una plataforma logística",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/martinez-marcos-se-queda-con-bimbo-valladolid-para-convertirla-en-una-plataforma-logistica/",
+        "date": "2025-01-10 21:33:55",
+        "sentiment_score": 0.5067198053002357
+    },
+    {
+        "title": "Iberdrola revela que tornados en dana en Valencia pusieron en aprieto el sistema eléctrico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/18/iberdrola-revela-que-tornados-en-dana-en-valencia-pusieron-en-aprieto-el-sistema-electrico/",
+        "date": "2025-01-10 21:19:10",
+        "sentiment_score": -0.6755498833954334
+    },
+    {
+        "title": "Un actor casi fue obligado a saltar al mar para escapar de un incendio forestal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/video1483342864-00-00-19-12-imagen-fija213.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendios-los-angeles-sebastian-harrison-ush-trax/",
+        "date": "2025-01-10 21:01:36",
+        "sentiment_score": -0.42551087588071823
+    },
+    {
+        "title": "Machado habla de lo sucedido tras la protesta y del regreso de González Urrutia a Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/maria-corina-thumb.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/machado-sucesos-protestas-regreso-edmundo-gonzalez/",
+        "date": "2025-01-10 20:58:32",
+        "sentiment_score": -0.631849117577076
+    },
+    {
+        "title": "María Corina Machado: “Hoy, 10 de enero, Maduro consolida un golpe de Estado”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21279917-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/maria-corina-machado-maduro-golpe-de-estado/",
+        "date": "2025-01-10 20:44:56",
+        "sentiment_score": -0.585710734128952
+    },
+    {
+        "title": "Donald Trump en su sentencia por pago de dinero a cambio de silencio: “Soy totalmente inocente”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/c-2025-01-10t144306z-1806335911-rc227caalxne-rtrmadp-3-usa-trump-new-york-20250110194941320.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-sentencia-condena-inocente-ush-trax/",
+        "date": "2025-01-10 20:06:50",
+        "sentiment_score": -0.7620987463742495
+    },
+    {
+        "title": "5 películas para ver en enero de 2025, según Metacritic",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/ranking-20250110194831546.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – general",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/5-peliculas-enero-2025-metacritic-redaccion-buenos-aires-tv/",
+        "date": "2025-01-10 19:51:26",
+        "sentiment_score": 0.5214922353625298
+    },
+    {
+        "title": "2025, ¿será un buen o mal año para las economías latinoamericanas?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cepal-economias-oppenheimer-presenta-tv/",
+        "date": "2025-01-10 19:36:16",
+        "sentiment_score": -0.762686237692833
+    },
+    {
+        "title": "¿Cómo afectará a la economía mexicana si Donald Trump cumple su promesa de imponer aranceles?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-trump-oppenheimer-presenta-tv/",
+        "date": "2025-01-10 19:14:02",
+        "sentiment_score": -0.11889529228210449
+    },
+    {
+        "title": "El pronóstico de la Cepal para América Latina, ¿son buenas noticias?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cepal-pronostico-america-latina-oppenheimer-presenta-tv/",
+        "date": "2025-01-10 19:13:18",
+        "sentiment_score": -0.05837756395339966
+    },
+    {
+        "title": "Ciudades del este y sureste de EE.UU. amanecen cubiertas de blanco por tormenta invernal",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tormenta-invernal-atlanta-ush-rba-tv/",
+        "date": "2025-01-10 18:46:55",
+        "sentiment_score": -0.8704334069043398
+    },
+    {
+        "title": "Edmundo González permanece en Santo Domingo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/edmundo-gonzalez-santo-domingo-redaccion-buenos-aires-tv-fast/",
+        "date": "2025-01-10 18:37:22",
+        "sentiment_score": 0.0587310791015625
+    },
+    {
+        "title": "Pactar con Vox",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/provincia/2025/01/09/control-guardia-civil-U43067022335QHC-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-pactar-vox-20250111225541-nts.html",
+        "date": "2025-01-10 21:59:44",
+        "sentiment_score": -0.04917639493942261
+    },
+    {
+        "title": "Aarón",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/01/09/viuda5-U82802871405xpT-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-aaron-20250111130935-nts.html",
+        "date": "2025-01-10 21:58:07",
+        "sentiment_score": -0.24893081188201904
+    },
+    {
+        "title": "Mercedes de los Reyes: una vida entregada a la docencia",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/11/docencia-tribuna.jpg-RWMJl9Keqwy8hnKJLZyrwoJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-mercedes-reyes-vida-entregada-docencia-20250111225523-nts.html",
+        "date": "2025-01-10 21:55:23",
+        "sentiment_score": 0.00881659984588623
+    },
+    {
+        "title": "Elogio a la pata de jamón",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/08/pescaderia-mercadona-kWqE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-elogio-pata-jamon-20250111225149-nts.html",
+        "date": "2025-01-10 21:54:51",
+        "sentiment_score": -0.12298393249511719
+    },
+    {
+        "title": "Apreturas en la Cartuja",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-apreturas-cartuja-20250111225130-nts.html",
+        "date": "2025-01-10 21:51:30",
+        "sentiment_score": 0.014763891696929932
+    },
+    {
+        "title": "Filibusteros del siglo XXI",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-filibusteros-siglo-xxi-20250111225116-nts.html",
+        "date": "2025-01-10 21:51:17",
+        "sentiment_score": -0.1344451904296875
+    },
+    {
+        "title": "El sobre de Martín Cartaya",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/11/1490524847_papel_xoptimizadax-RmKi3UqTogGd8Ws9VGOKcoN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-sobre-martin-cartaya-20250111225110-nts.html",
+        "date": "2025-01-10 21:51:10",
+        "sentiment_score": -0.052597641944885254
+    },
+    {
+        "title": "Frustración por la ausencia de Edmundo González en Caracas para su investidura",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/edmundo-RgQITWUwuXlSxljIGkHJ0EI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/frustracion-ausencia-edmundo-gonzalez-caracas-investidura-20250110220554-nt.html",
+        "date": "2025-01-10 21:14:17",
+        "sentiment_score": -0.16143342852592468
+    },
+    {
+        "title": "El bloqueo de la frontera dejó a miles de venezolanos varados en su propio país",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/cucutua-RNbQYf3GrC1tEhlHhtBCCxN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/bloqueo-frontera-dejo-miles-venezolanos-varados-propio-20250110212213-nt.html",
+        "date": "2025-01-10 20:22:56",
+        "sentiment_score": -0.07813093066215515
+    },
+    {
+        "title": "Encuentran sin vida a los diez tripulantes del avión accidentado en el noroeste de Colombia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/antioquia-kD8H-U7093252686EnC-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/encuentran-vida-diez-tripulantes-avion-accidentado-noroeste-20250110212010-nt.html",
+        "date": "2025-01-10 20:21:09",
+        "sentiment_score": -0.10425707697868347
+    },
+    {
+        "title": "Dos detenidos por la muerte de un operario de limpieza en un colegio dañado por la dana en Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ONASXR5ZLFHCTGBDVJC4TLXSOM.jpg?auth=4ce4330af69189a75f726d692bda46eb0fc87753386dd705b1a4bcac53239999&width=1200",
+        "tags": [
+            "homicidio imprudente",
+            "inundaciones",
+            "colegios",
+            "comunidad valenciana",
+            "massanassa",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "generalitat valenciana",
+            "tragsa",
+            "policía"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-10/dos-detenidos-por-la-muerte-de-un-operario-de-limpieza-en-un-colegio-danado-por-la-dana-en-valencia.html",
+        "date": "2025-01-10 21:55:08",
+        "sentiment_score": -0.6608127169311047
+    },
+    {
+        "title": "El juez rechaza archivar la investigación de los contratos sanitarios de Andalucía pero no extiende sus pesquisas a otras provincias",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UDYI2EN4CNGQBLRI2NC5MEAEN4.jpg?auth=0f0bd91784b91d0eca59fdd5ff09349881115e8c5dd16ef976e3c151b3d3a6f0&width=1200",
+        "tags": [
+            "españa",
+            "psoe-a",
+            "caso contratos emergencia sas",
+            "juan manuel moreno",
+            "coronavirus covid-19",
+            "contratos administrativos",
+            "contratos",
+            "pp-a",
+            "junta de andalucía"
+        ],
+        "link": "https://elpais.com/espana/2025-01-10/el-juez-rechaza-archivar-la-investigacion-de-los-contratos-sanitarios-de-andalucia-pero-no-extiende-sus-pesquisas-a-otras-provincias.html",
+        "date": "2025-01-10 19:37:05",
+        "sentiment_score": -0.37733443826436996
+    },
+    {
+        "title": "Cientos de simpatizantes respaldan a Irene Montero en Lavapiés ante la amenaza de boicot a la presentación de su libro",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KTVJ5KGM5SVNDVU3WRL2HFUPE4.jpg?auth=5cf518a817c4a949e3d763fae026113872f15127230bc2401bb99895ce04750c&width=1200",
+        "tags": [
+            "presentación libros",
+            "irene montero",
+            "manifestaciones",
+            "unidas podemos",
+            "madrid",
+            "podemos",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-01-10/cientos-de-manifestantes-respaldan-a-irene-montero-en-lavapies-ante-la-amenaza-de-boicot-a-la-presentacion-de-su-libro.html",
+        "date": "2025-01-10 19:16:10",
+        "sentiment_score": -0.2027382105588913
+    },
+    {
+        "title": "Muere un ciclista en un accidente con una moto en el barrio de Sarrià de Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AUCCROM5DNNF7BEJ2D2TB7YYYI.jpg?auth=364f0f76fc556f559f3a410f258cb2c73bd4863fe32ece4a8bf67e6b574eaafc&width=1200",
+        "tags": [
+            "emergencias",
+            "sucesos",
+            "movilidad urbana",
+            "accidentes tráfico",
+            "sarrià-sant gervasi",
+            "movilidad sostenible",
+            "ayuntamiento barcelona",
+            "bicicletas",
+            "cataluña",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-10/muere-un-ciclista-en-un-accidente-con-una-moto-en-el-barrio-de-sarria-de-barcelona.html",
+        "date": "2025-01-10 18:09:16",
+        "sentiment_score": -0.8052046820521355
+    },
+    {
+        "title": "Una orquesta de bandas sonoras desconcierta al Liceu y recibe cancelaciones: \"Es como pagar por los Rolling y tener a la banda de tu primo\"",
+        "image_url": "https://static.eldiario.es/clip/4a082787-d56d-4d72-b55f-c8b30efa7e5a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/cultura/orquesta-bandas-sonoras-desconcierta-liceu-recibe-cancelaciones-pagar-rolling-banda-primo_1_11952569.html",
+        "date": "2025-01-10 22:13:44",
+        "sentiment_score": -0.15966656804084778
+    },
+    {
+        "title": "El Real Valladolid de Tercera División con el Betis de Primera en 1932",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/10/vistaatras-kF0C-U2305038445036MH-1200x840@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/real-valladolid-tercera-division-betis-primera-1932-20250110230951-nt.html",
+        "date": "2025-01-10 22:09:51",
+        "sentiment_score": -0.15679283440113068
+    },
+    {
+        "title": "El Real Madrid confirma su cambio de imagen; derrota del Baskonia en un final de infarto",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/10/6781957251764.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/euroliga-real-madrid-baskonia-10-20250110_3075292.html",
+        "date": "2025-01-10 22:05:55",
+        "sentiment_score": -0.03728896379470825
+    },
+    {
+        "title": "Sin presupuesto, sin auditoría y sin transparencia: así se han reanudado las obras del nuevo estadio del Valencia CF",
+        "image_url": "https://static.eldiario.es/clip/ef2db79a-8b70-46e3-a4a5-9978ec861955_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/comunitat-valenciana/valencia/presupuesto-auditoria-transparencia-han-reanudado-obras-nuevo-estadio-valencia-cf_1_11954841.html",
+        "date": "2025-01-10 22:00:43",
+        "sentiment_score": -0.13273513317108154
+    },
+    {
+        "title": "Cuando El Niño sonrió a Avilés",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/01/10/101385947.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/aviles/nino-sonrio-aviles-20250111222609-nt.html",
+        "date": "2025-01-10 21:50:09",
+        "sentiment_score": 0.25393449515104294
+    },
+    {
+        "title": "La brutal patada que sacó de la cancha a Nico Paz y encendió las alarmas en la Selección: los estremecedores gritos de dolor",
+        "image_url": "https://www.infobae.com/resizer/v2/JGWUPDUCOBGQRHNQRA4HWQRBUQ.jpg?auth=a8c4c2691e4364e78640f3725f5183a838f5bf4b116589ece1331788aee0f706&height=720&smart=true&width=1280",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/10/la-brutal-patada-que-saco-de-la-cancha-a-nico-paz-y-encendio-las-alarmas-en-la-seleccion-los-estremecedores-gritos-de-dolor/",
+        "date": "2025-01-10 21:33:13",
+        "sentiment_score": -0.7860606396570802
+    },
+    {
+        "title": "Agenda gráfica para el día 11 de enero de 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/10/agenda-grafica-para-el-dia-11-de-enero-de-2025/",
+        "date": "2025-01-10 21:30:14",
+        "sentiment_score": 0.049465954303741455
+    },
+    {
+        "title": "Paseo del Real Madrid en Kaunas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0cb51ed0-6df5-47f7-a468-8fd592f1f703_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,baloncesto"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2025/01/10/paseo-real-madrid-kaunas-113288685.html",
+        "date": "2025-01-10 21:21:06",
+        "sentiment_score": 0.4520600289106369
+    },
+    {
+        "title": "El Zalgiris homenajea a Sabonis con motivo de la visita del Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/el-zalgiris-homenajea-a-sabonis-con-motivo-de-la-visita-del-real-madrid/",
+        "date": "2025-01-10 21:16:32",
+        "sentiment_score": 0.053907305002212524
+    },
+    {
+        "title": "Chus Mateo: \"Hubo un momento en el que algo hizo 'clic' y todo empezó a funcionar\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/chus-mateo-hubo-un-momento-en-el-que-algo-hizo-clic-y-todo-empezo-a-funcionar/",
+        "date": "2025-01-10 21:03:19",
+        "sentiment_score": 0.14772693812847137
+    },
+    {
+        "title": "Los entresijos de la venta de la Casa Gomis, la joya del racionalismo catalán: \"Es un consuelo que vaya a ser pública\"",
+        "image_url": "https://static.eldiario.es/clip/8b1a8fb4-d93c-40b8-b731-cbddf46d3410_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/entresijos-venta-casa-gomis-joya-racionalismo-catalan-consuelo-publica_1_11952208.html",
+        "date": "2025-01-10 22:13:43",
+        "sentiment_score": -0.022086530923843384
+    },
+    {
+        "title": "La Academia de Artes Escénicas premiará al teatro Palacio Valdés el lunes",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/aviles/academia-artes-escenicas-premiara-teatro-palacio-valdes-20250111222604-nt.html",
+        "date": "2025-01-10 21:50:05",
+        "sentiment_score": 0.3058817870914936
+    },
+    {
+        "title": "Euromillones deja un nuevo millonario en España y el bote sube a 62 millones",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/10/fuenlabrada.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5671434/0/euromillones-nuevo-millonario-espana-bote-sube-62-millones/",
+        "date": "2025-01-10 21:41:22",
+        "sentiment_score": 0.21586795151233673
+    },
+    {
+        "title": "Uribes se enzarza con el PP por la cautelar al Barça y salpica al presidente de la RFEF",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2024/11/bolanos-abogado-469x317.jpg",
+        "tags": [
+            "josé manuel rodríguez uribes",
+            "política",
+            "rfef",
+            "fc barcelona",
+            "consejo superior de deportes (csd)"
+        ],
+        "link": "https://theobjective.com/espana/politica/2025-01-10/uribes-pp-cautelar-barca-rfef/",
+        "date": "2025-01-10 21:34:09",
+        "sentiment_score": -0.10166914761066437
+    },
+    {
+        "title": "José Manuel Rodríguez Uribes se enzarza con el PP por el 'caso Olmo' y salpica a Rafael Louzán",
+        "image_url": "https://www.infobae.com/resizer/v2/JCOHKLJO6ZAP5LU7OEQ5WYQA2Y.jpg?auth=9dfc44cc9c5eca524e75d932942d7a33039248ab12e98a287db0299b7ee58b72&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/10/jose-manuel-rodriguez-uribes-se-enzarza-con-el-pp-por-el-caso-olmo-y-salpica-a-rafael-louzan/",
+        "date": "2025-01-10 21:30:32",
+        "sentiment_score": -0.8268147259950638
+    },
+    {
+        "title": "Jihad Essoubai, récord navarro sub-23 de 1.500 m en Barcelona",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/files/fp/uploads/2025/01/10/67818501e45ac.r_d.1959-1782-0.jpeg",
+        "tags": [
+            "atletismo"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/atletismo/2025/01/10/jihad-essoubai-record-navarro-sub-23-1-500-m-barcelona-634381-2003.html",
+        "date": "2025-01-10 21:24:28",
+        "sentiment_score": -0.2657903954386711
     }
 ];
