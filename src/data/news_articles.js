@@ -1,241 +1,5 @@
 export default [
     {
-        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 8 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/BHCFSRYDEZHDFKVQ7CBPABF5BU.jpg?auth=186d242ef0bcb9c149006f43f7f86fb00a0efd437169761b6db2d2bbe7814ee4&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/08/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-8-de-enero/",
-        "date": "2025-01-08 06:31:17",
-        "sentiment_score": -0.06122169271111488
-    },
-    {
-        "title": "Efemérides del 9 de enero",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/08/efemerides-del-9-de-enero/",
-        "date": "2025-01-08 06:15:40",
-        "sentiment_score": -0.054228417575359344
-    },
-    {
-        "title": "Bajada de la tasa de alcohol y casco integral para motoristas, objetivos de la DGT en 2025",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/08/bajada-de-la-tasa-de-alcohol-y-casco-integral-para-motoristas-objetivos-de-la-dgt-en-2025/",
-        "date": "2025-01-08 05:45:36",
-        "sentiment_score": 0.09869541227817535
-    },
-    {
-        "title": "Cambio de euro a dólar hoy 8 de enero: cómo está la cotización y previsiones",
-        "image_url": "https://www.infobae.com/resizer/v2/OEWSLM26XVFNDKGGIYU42QWSJ4.jpg?auth=3fdf9fc0d48c85aab0132c5597120dcad3bfaa7e50a32dfd9472b25d75692b89&height=538&smart=true&width=800",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/08/cambio-de-euro-a-dolar-hoy-8-de-enero-como-esta-la-cotizacion-y-previsiones/",
-        "date": "2025-01-08 05:15:33",
-        "sentiment_score": -0.09826283156871796
-    },
-    {
-        "title": "Guantánamo se vacía: solo quedan 15 reclusos en la prisión",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/08/guantanamo-RHJlXtgTD5A3LgK7KMqQ9LN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/guantanamo-vacia-solo-quedan-reclusos-prision-20250108061202-nt.html",
-        "date": "2025-01-08 05:12:02",
-        "sentiment_score": -0.36412790417671204
-    },
-    {
-        "title": "La Generalitat elude dar las comunicaciones remitidas a Mazón el día de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CCZJXLQ4HS2DFFANV2FOERZQHI.jpg?auth=918a0801229a37a2d97389a6780396850dff8902eddb01fe2a77f5ec25aec22c&width=1200",
-        "tags": [
-            "dana",
-            "pspv-psoe",
-            "inundaciones dana octubre 2024",
-            "valencia",
-            "comunidad valenciana",
-            "carlos mazón"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-08/la-generalitat-elude-dar-las-comunicaciones-remitidas-a-mazon-el-dia-de-la-dana.html",
-        "date": "2025-01-08 06:00:00",
-        "sentiment_score": 0.1543189436197281
-    },
-    {
-        "title": "Medicina personalizada para la psicosis: ¿pueden los genes y el sueño salvar a los adolescentes?",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250108073103_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-medicina-personalizada-psicosis-pueden-genes-sueno-salvar-adolescentes-20250108073103.html",
-        "date": "2025-01-08 06:31:03",
-        "sentiment_score": 0.17378263920545578
-    },
-    {
-        "title": "El Almería, a por el premio gordo",
-        "image_url": "https://images.ficheroslavoz.com/45/45e58024-c188-4380-9b3f-3a0ae1a7f072.jpg?crop=4700%2C2647&expires=1767852667&height=1070&token=vDj7Y1b74OcnNAjxBYpbR7EJIaGRtf0wLf4v_A_Qcek&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/285544/el-almeria-a-por-el-premio-gordo",
-        "date": "2025-01-08 06:10:08",
-        "sentiment_score": 0.793008478358388
-    },
-    {
-        "title": "Los aeropuertos canarios, una mina de oro al borde de la sobreexplotación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49b305ab-21b3-4fbd-b110-0bdb2c818e9f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2025/01/08/aeropuertos-canarios-mina-oro-borde-113196921.html",
-        "date": "2025-01-08 06:00:51",
-        "sentiment_score": -0.09532803297042847
-    },
-    {
-        "title": "Lo realista es prorrogar y un macrodecreto",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7ad5531c-1136-418b-8bff-4e70c854a598_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/opinion/2025/01/08/carlos-mazon-y-los-presupuestos-de-la-generalitat-lo-realista-es-prorrogar-y-un-macrodecreto-113192615.html",
-        "date": "2025-01-08 06:00:44",
-        "sentiment_score": -0.6474987640976906
-    },
-    {
-        "title": "Doblete de Güler y Endrick de vacío",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/524de3be-169b-48c1-967b-29d30614e6d8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2025/01/08/doblete-guler-endrick-vacio-113192817.html",
-        "date": "2025-01-08 06:00:43",
-        "sentiment_score": 0.07458889484405518
-    },
-    {
-        "title": "2025, año triunfal de Franco",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f533bccf-2a16-44b5-b76f-05e82d46e5bd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2025/01/08/2025-ano-triunfal-franco-113190069.html",
-        "date": "2025-01-08 06:00:39",
-        "sentiment_score": 0.028640180826187134
-    },
-    {
-        "title": "¿Dónde está Felipe VI y por qué no acude al primer acto contra el franquismo del Gobierno?",
-        "image_url": "https://www.elplural.com/uploads/s1/18/96/07/5/el-rey-felipe-vi-durante-la-pascua-militar-en-el-palacio-real-ep_7_480x270.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elplural.com/politica/espana/donde-esta-felipe-vi-no-acude-primer-acto-contra-franquismo-gobierno_344099102",
-        "date": "2025-01-08 06:00:00",
-        "sentiment_score": -0.016094177961349487
-    },
-    {
-        "title": "Panamá considera que el canal es una \"conquista irreversible\" tras las declaraciones de Trump",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250108065004_120.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-panama-considera-canal-conquista-irreversible-declaraciones-trump-20250108065004.html",
-        "date": "2025-01-08 05:50:04",
-        "sentiment_score": -0.775027371942997
-    },
-    {
-        "title": "Artillería consolida su espacio en Sevilla en menos de tres meses: ya se postula como sede permanente de Los Machado",
-        "image_url": "https://s1.elespanol.com/2025/01/07/sevilla/914669257_252167594_1706x960.jpg?contentId=ESPIMA20250107_0733",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/sevilla/20250108/artilleria-consolida-espacio-sevilla-meses-postula-sede-permanente-machado/914658897_0.html",
-        "date": "2025-01-08 05:50:00",
-        "sentiment_score": 0.403409019112587
-    },
-    {
-        "title": "El abrandamiento romántico de Àngel Guimerà",
-        "image_url": "https://static1.ara.cat/clip/3643a70c-1811-400c-a9af-9549c36f84fc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/abrandamiento-romantico-angel-guimera_1_5249343.html",
-        "date": "2025-01-08 06:16:01",
-        "sentiment_score": -0.09640693664550781
-    },
-    {
-        "title": "Así es la cámara de vigilancia superventas en Amazon: por menos de 24 euros y con casi 130.000 valoraciones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NJ3RKGOAJ5CJ3ARXZ45FSN3FVI.png?auth=0d7d5ab55dcd58de835f4097d9d8ce5c569ba342c4ef98cc9305c5271be8c937&width=1200",
-        "tags": [
-            "cámaras video",
-            "amazon",
-            "gadgets",
-            "casa hogar",
-            "comercio electrónico",
-            "wi-fi",
-            "tecnología",
-            "estilo vida"
-        ],
-        "link": "https://elpais.com/escaparate/lo-mas-vendido/2025-01-08/camara-vigilancia-tapo.html",
-        "date": "2025-01-08 06:15:00",
-        "sentiment_score": 0.8661652039736509
-    },
-    {
-        "title": "Pozo avisa a los grandes de la Copa",
-        "image_url": "https://images.ficheroslavoz.com/c0/c0766c5d-967d-42a4-9041-7bdd2f223c44.jpg?crop=4700%2C2647&expires=1767852667&height=1070&token=a-GwBjcmVJk0uyvuJT3CbjC2hzit6gmIgnOzlqcFtBA&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/285525/pozo-avisa-a-los-grandes-de-la-copa",
-        "date": "2025-01-08 06:10:10",
-        "sentiment_score": 0.17083607241511345
-    },
-    {
-        "title": "Carmen y Sabina las mellizas de la baronesa Thyssen, primera entrevista tras cumplir 18 años: ilusiones, retos y el legado de su madre",
-        "image_url": "https://www.hola.com/horizon/landscape/a9a5ceb5c431-1280x720-16.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/actualidad/20250108739183/carmen-sabina-mellizas-baronesa-thyssen-primera-entrevista-tras-cumplir-18-anyos/",
-        "date": "2025-01-08 06:10:09",
-        "sentiment_score": 0.3450116105377674
-    },
-    {
-        "title": "Cierran por gripe y el letrero que colocan es tremendo: hay alguien que va a flipar al verlo",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/files/fp/uploads/2025/01/07/el-cartel-que-ha-publicado-liosdevecinos-6361.r_d.320-114-10984.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/cierran-gripe-letrero-colocan-tremendo-hay-alguien-flipar-verlo.html",
-        "date": "2025-01-08 06:05:54",
-        "sentiment_score": -0.9104227758944035
-    },
-    {
-        "title": "Fiebre por apuntarse al gimnasio: el precio medio en España en pleno auge de matriculaciones",
-        "image_url": "https://album.mediaset.es/eimg/2025/01/07/fiebre-por-volver-al-gimnasio_b7e6.jpg",
-        "tags": [
-            "consumo"
-        ],
-        "link": "https://www.telecinco.es/noticias/economia/consumo/20250108/cuanto-cuesta-gimnasio-precios-mas-baratos-ofertas_18_014431066.html",
-        "date": "2025-01-08 06:05:40",
-        "sentiment_score": -0.2548110894858837
-    },
-    {
-        "title": "El sueño chino en el fútbol se convierte en pesadilla: un espejismo que amenaza al Espanyol y LaLiga",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/01/espanyol-rastar-chen-yansheng-750x375.jpg",
-        "tags": [
-            "chen yansheng",
-            "espanyol",
-            "rastar group",
-            "actualidad"
-        ],
-        "link": "https://lagradaonline.com/venta-espanyol-chen-yansheng-rastar-inversion-capital-chino-futbol/",
-        "date": "2025-01-08 06:05:02",
-        "sentiment_score": 0.4018070697784424
-    },
-    {
         "title": "Iberia logra marca histórica en 2024 al transportar a 30,7 millones de personas, un 7% más",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -497,46 +261,6 @@ export default [
         "link": "https://www.abc.es/economia/ryanair-reclama-15000-euros-pasajero-problematico-obligo-20250108112037-nt.html",
         "date": "2025-01-08 10:20:37",
         "sentiment_score": -0.3025378882884979
-    },
-    {
-        "title": "Así es la fortaleza donde se esconde Yoon Suk-yeol: alambrada de púas, barricadas y guardias patrullando",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/04/corea-U85140010165bSV-366x256@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/fortaleza-esconde-yoon-sukyeol-alambrada-puas-barricadas-20250108101631-nt.html",
-        "date": "2025-01-08 09:24:20",
-        "sentiment_score": -0.1855839192867279
-    },
-    {
-        "title": "Yolanda Díaz acusa a Cuerpo de bloquear la tramitación urgente de la reducción de jornada",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/08/1490161868-RemPNQEWu8OaRuDi6TVl5HL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/yoland-diaz-cuerpo-bloqueado-tramitacion-urgente-reduccion-20250108095718-nt.html",
-        "date": "2025-01-08 09:00:26",
-        "sentiment_score": -0.3110233321785927
-    },
-    {
-        "title": "Un hombre enmascarado y armado mata a dos trabajadores en una fábrica en Alemania",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/08/1486238068-kopC-U7078825240UTF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hombre-enmascarado-armado-mata-dos-trabajadores-fabrica-20250108095912-nt.html",
-        "date": "2025-01-08 08:59:12",
-        "sentiment_score": -0.5873508751392365
-    },
-    {
-        "title": "Tres muertos y cuatro supervivientes tras la caída al mar de un hidroavión en Australia",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/08/police-australia-kAeB-U7078829458sT-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/tres-muertos-cuatro-supervivientes-tras-caida-mar-20250108095332-nt.html",
-        "date": "2025-01-08 08:53:33",
-        "sentiment_score": -0.5431032031774521
     },
     {
         "title": "Fallece una anciana en Barcelona en un accidente con un trenecito navideño",
@@ -6988,5 +6712,363 @@ export default [
         "link": "https://www.mundodeportivo.com/elotromundo/gente/20250111/1002384614/carolina-monje-expareja-aless-lequio-da-luz-primer-hijo-flotando-nube-amor-dct.html",
         "date": "2025-01-11 16:51:26",
         "sentiment_score": 0.07944825291633606
+    },
+    {
+        "title": "María Becerra mostró las heridas que sufrió durante su concierto en España",
+        "image_url": "https://www.infobae.com/resizer/v2/L7FSOFJNP5BM5IG6HZFC4D2BRI.png?auth=f96b21a4e55f547c74573c021f7e2710e67622a865373750161f0aaa986cca2a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/01/11/maria-becerra-mostro-las-heridas-que-sufrio-durante-su-concierto-en-espana/",
+        "date": "2025-01-11 22:12:00",
+        "sentiment_score": -0.4025149568915367
+    },
+    {
+        "title": "Ter Stegen se suma a la concentración del Barcelona en Yeda para apoyar a su equipo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/ter-stegen-se-suma-a-la-concentracion-del-barcelona-en-yeda-para-apoyar-a-su-equipo/",
+        "date": "2025-01-11 22:01:34",
+        "sentiment_score": 0.16378601267933846
+    },
+    {
+        "title": "El Barça, el Jaén FS, el Palma y el Jimbee sacan su billete para la Copa de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/el-barca-el-jaen-fs-el-palma-y-el-jimbee-sacan-su-billete-para-la-copa-de-espana/",
+        "date": "2025-01-11 22:01:17",
+        "sentiment_score": -0.013932034373283386
+    },
+    {
+        "title": "Gallardo seguirá al frente del PSOE extremeño al ganar las primarias y con más respaldo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/gallardo-seguira-al-frente-del-psoe-extremeno-al-ganar-las-primarias-y-con-mas-respaldo/",
+        "date": "2025-01-11 22:00:57",
+        "sentiment_score": 0.5368582047522068
+    },
+    {
+        "title": "Miguel Angel Gallardo, el líder socialista que superó dos primarias en 315 días",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/miguel-angel-gallardo-el-lider-socialista-que-supero-dos-primarias-en-315-dias/",
+        "date": "2025-01-11 21:45:38",
+        "sentiment_score": 0.5225338526070118
+    },
+    {
+        "title": "25-25. El Costa del Sol cede un empate y el pase a cuartos se decidirá en Islandia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/25-25-el-costa-del-sol-cede-un-empate-y-el-pase-a-cuartos-se-decidira-en-islandia/",
+        "date": "2025-01-11 21:31:36",
+        "sentiment_score": 0.30472806096076965
+    },
+    {
+        "title": "Rafael Louzán: \"Viviremos una final apasionante entre dos grandes embajadores de España en el mundo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/TQJCTHR7OBH7JHJQ7G2AFBAZ6U.jpg?auth=19ac4c3828405bb6ba8ccf93cac03a85b210f9abba7dc219ed4d2519f8fe4f5f&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/11/rafael-louzan-viviremos-una-final-apasionante-entre-dos-grandes-embajadores-de-espana-en-el-mundo/",
+        "date": "2025-01-11 21:30:15",
+        "sentiment_score": 0.8350763767957687
+    },
+    {
+        "title": "Petro dice que el G20 está preocupado con los impactos de la inteligencia artificial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/petro-dice-que-el-g20-esta-preocupado-con-los-impactos-de-la-inteligencia-artificial/",
+        "date": "2025-01-11 21:19:39",
+        "sentiment_score": -0.8158542681485415
+    },
+    {
+        "title": "PP y Vox denuncian el secuestro de la comisión del Congreso para retrasar la votación de la ley fiscal",
+        "image_url": "https://www.infobae.com/resizer/v2/BNS4CNICYFHARGDHWQ2PWQYDWE.jpg?auth=19febdc926e1f5d65e252314512dcf228f403b6ecbae000b21d76344104c9dc2&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/pp-y-vox-denuncian-el-secuestro-de-la-comision-del-congreso-para-retrasar-la-votacion-de-la-ley-fiscal/",
+        "date": "2025-01-11 21:19:00",
+        "sentiment_score": -0.8838294893503189
+    },
+    {
+        "title": "Miguel Ángel Gallardo seguirá al frente del PSOE de Extremadura tras ganar las primarias con el 62,6% de los votos",
+        "image_url": "https://www.infobae.com/resizer/v2/6Z3KJMLFIVBVBE6SW52PNKE3OY.jpg?auth=c6d6aac9e6c9311250809beae94db71169e72cbcbd2a25d6136d20ad673a22bb&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/miguel-angel-gallardo-seguira-al-frente-del-psoe-de-extremadura-tras-ganar-las-primarias-con-el-626-de-los-votos/",
+        "date": "2025-01-11 21:15:52",
+        "sentiment_score": 0.2631797343492508
+    },
+    {
+        "title": "Ucrania muestra dos presuntos soldados de Corea del Norte capturados",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/renamethishorizontal-00-00-07-19-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ucrania-captura-soldados-corea-del-norte-orix/",
+        "date": "2025-01-11 17:28:07",
+        "sentiment_score": -0.8170497687533498
+    },
+    {
+        "title": "Imaginad la nieve",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/12/nieveensevilla-RvWvxO807P86XN6MFXSNTbM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jose-maria-jurado-garciaposada-imaginad-nieve-20250112214326-nts.html",
+        "date": "2025-01-11 20:43:27",
+        "sentiment_score": -0.08723786473274231
+    },
+    {
+        "title": "El desahogo fascinante de María Jesús Montero (Fisking)",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/12/montero-mitin-primarias-RXAeDvN5XfNB0u0wZGUcOpM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-desahogo-fascinante-maria-jesus-montero-fisking-20250112214323-nts.html",
+        "date": "2025-01-11 20:43:23",
+        "sentiment_score": -0.051529258489608765
+    },
+    {
+        "title": "Demasiadas flores",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/01/09/viuda5-U82802871405xpT-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-demasiadas-flores-20250112214322-nts.html",
+        "date": "2025-01-11 20:43:22",
+        "sentiment_score": -0.10503539443016052
+    },
+    {
+        "title": "Todos lo sabíamos",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-sabiamos-20250112214321-nts.html",
+        "date": "2025-01-11 20:43:21",
+        "sentiment_score": -0.17732468247413635
+    },
+    {
+        "title": "La estrategia del topicazo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/12/1490806730_papel_xoptimizadax-R9oIknd7SDhwnchAYVRIj1M-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-estrategia-topicazo-20250112214317-nts.html",
+        "date": "2025-01-11 20:43:18",
+        "sentiment_score": -0.10729286074638367
+    },
+    {
+        "title": "El «cohete» del crecimiento no llega a los hogares",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/01/10/bolido-kDkF--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-cohete-crecimiento-llega-hogares-20250112201907-nt.html",
+        "date": "2025-01-11 19:22:59",
+        "sentiment_score": -0.10446736216545105
+    },
+    {
+        "title": "UE: peor ahora que con el Brexit",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/sociedad/2025/01/09/repartido-glovo-cadiz-k6FI--170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-sanchez-ue-peor-brexit-20250112183312-nt.html",
+        "date": "2025-01-11 19:09:36",
+        "sentiment_score": -0.07528501749038696
+    },
+    {
+        "title": "Una decisión de España",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/10/papamovilcarlos-ktWB--170x119@El%20Norte.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-decision-espana-20250112115609-nt.html",
+        "date": "2025-01-11 19:09:09",
+        "sentiment_score": -0.11923566460609436
+    },
+    {
+        "title": "Lo del hermano es surrealista",
+        "image_url": "https://s1.ppllstatics.com/burgosconecta/www/multimedia/2025/01/08/monjas-belorado-musica-k7EH--170x119@Burgosconecta.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-hermano-surrealista-20250112174401-nt.html",
+        "date": "2025-01-11 19:08:48",
+        "sentiment_score": -0.1044124960899353
+    },
+    {
+        "title": "El valor de enfrentar a un muerto",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-valor-enfrentar-muerto-20250112160044-nt.html",
+        "date": "2025-01-11 19:08:32",
+        "sentiment_score": -0.137508362531662
+    },
+    {
+        "title": "Gallardo vuelve a ganar las primarias del PSOE extremeño",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HKEJNY5GT42E3R7GQ5JGQBT2WQ.jpg?auth=36d7ecd7edf0d6d04dee8117b0d1e45f64d539474b088ba92711e399782caf44&width=1200",
+        "tags": [
+            "psoe",
+            "pedro sánchez",
+            "españa",
+            "extremadura",
+            "política",
+            "primarias psoe",
+            "tribunales"
+        ],
+        "link": "https://elpais.com/espana/2025-01-11/gallardo-vuelve-a-ganar-las-primarias-del-psoe-extremeno.html",
+        "date": "2025-01-11 21:27:07",
+        "sentiment_score": -0.0467759370803833
+    },
+    {
+        "title": "La Fiscalía pide la imputación de Alvise Pérez por los altercados en las protestas en Ferraz de 2023",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7ZLJESF3FRGR7MEJDCGUUPJ3CQ.jpg?auth=534927eabe43049da04a3d1f60a2be7695a6da3956d09df8ef817e7da3907cd9&width=1200",
+        "tags": [
+            "españa",
+            "alvise pérez",
+            "fiscalía",
+            "fiscalía general estado",
+            "extrema derecha",
+            "justicia",
+            "financiación partidos",
+            "parlamento europeo",
+            "tribunales",
+            "tribunal supremo"
+        ],
+        "link": "https://elpais.com/espana/2025-01-11/la-fiscalia-pide-la-imputacion-de-alvise-perez-por-los-altercados-en-las-protestas-en-ferraz-de-2023.html",
+        "date": "2025-01-11 17:16:58",
+        "sentiment_score": -0.9033427350223064
+    },
+    {
+        "title": "La pesadilla interminable (1-1)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/64bf4e55-aabd-45ae-bea8-de83e5cccd12_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia cf,luis rioja,giorgi mamardashvili,josé luis gayá,sevilla fc,sánchez pizjuán"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/11/sevilla-valencia-pesadilla-interminable-113311125.html",
+        "date": "2025-01-11 22:13:09",
+        "sentiment_score": -0.23412872850894928
+    },
+    {
+        "title": "Ibon Navarro: \"Es bonito que el partido por el liderato de la Liga sea entre Unicaja y Valencia Basket\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/59d46581-1650-4916-9085-f29a49d211b1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/01/11/ibon-navarro-bonito-partido-liderato-bilbao-113311053.html",
+        "date": "2025-01-11 22:07:36",
+        "sentiment_score": 0.3173663467168808
+    },
+    {
+        "title": "Yeremay quiere perdurar",
+        "image_url": "https://cflvdg.avoz.es/sc/siIZDB0A-ulWTZ_ZykgOAKXcFRw=/768x/2025/01/11/00121736631782072349440/Foto/j_20250111_210614000.jpg",
+        "tags": [
+            "málaga cf",
+            "deportivo",
+            "torre de marathón",
+            "yeremay"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/torremarathon/2025/01/11/yeremay-quiere-perdurar/00031736632120111732142.htm",
+        "date": "2025-01-11 21:51:00",
+        "sentiment_score": -0.4683380573987961
+    },
+    {
+        "title": "Joan Laporta, sobre Olmo y Pau Víctor: \"Podíamos haber evitado esta situación\"",
+        "image_url": "https://www.infobae.com/resizer/v2/MFZHYYA6FNFRRDWNC7YEQXXOJI.jpg?auth=a8750c0da64e046fa39fac9bfda9518718a4150a16939b275ae6dfd362516feb&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/11/joan-laporta-sobre-olmo-y-pau-victor-podiamos-haber-evitado-esta-situacion/",
+        "date": "2025-01-11 21:45:16",
+        "sentiment_score": -0.6247735731303692
+    },
+    {
+        "title": "Andrea Navagiero, el veneciano que cambió la poesía española",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/fb79a7e1-01f8-104d-f8f00e9785c5ffb4.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/zfb79a6f4-e540-36f5-2c75373405dbb7b9/202501/andrea-navagiero-el-veneciano-que-cambio-la-poesia-espanola",
+        "date": "2025-01-11 21:40:16",
+        "sentiment_score": 0.30840206146240234
+    },
+    {
+        "title": "Louzán: \"La final es una manera de devolver parte del cariño recibido en Arabia Saudí\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/11/6782e117157a0.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/louzan-final-manera-devolver-parte-carino-recibido-arabia-saudi-20250111_3075434.html",
+        "date": "2025-01-11 21:25:01",
+        "sentiment_score": 0.0309315025806427
+    },
+    {
+        "title": "El Estudiantes logra una victoria de mucho mérito",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elfarodeceuta.es/?p=1147873",
+        "date": "2025-01-11 21:23:34",
+        "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "¿Cómo se actualizan en 2025 las rentas de alquiler? Adiós al IPC, llega el IRAB",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5a801582-739c-4b87-9637-e3749d1f240d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/economia/2025/01/11/actualizan-ahora-rentas-alquiler-adios-dv-113287793.html",
+        "date": "2025-01-11 22:01:04",
+        "sentiment_score": 0.018899358808994293
+    },
+    {
+        "title": "En las entrañas de la Cienciología, ¿religión, secta o autoayuda?: \"Está la 'fake new' de la placenta o que somos ricos, cuando hay fieles de todas las profesiones; tenemos muchos cerrajeros\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/99f75c5a35909f78809de805a2f681fc/crop/0x128/1700x1261/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/11/17366009963704.jpg",
+        "tags": [
+            "artículos javier cid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/01/11/67826d4321efa0c94f8b4572.html",
+        "date": "2025-01-11 21:51:05",
+        "sentiment_score": -0.5291642993688583
+    },
+    {
+        "title": "Gallardo afianza su liderazgo en el PSOE de Extremadura con el 62% de los votos en las primarias",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/01/11/6782e402d28a4.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.lavanguardia.com/politica/20250111/10275328/gallardo-afianza-liderazgo-psoe-extremadura-62-votos-primarias.html",
+        "date": "2025-01-11 21:39:04",
+        "sentiment_score": -0.26989342272281647
+    },
+    {
+        "title": "Ya está en Movistar Plus+ la película más nominada en los Goya 2025: un éxito en taquilla",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/11/12/6733809b68dfb.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20250111/1002384803/esta-movistar-plus-pelicula-mas-nominada-goya-2025-exito-taquilla-tvp-dct.html",
+        "date": "2025-01-11 21:35:15",
+        "sentiment_score": 0.7509325742721558
     }
 ];
