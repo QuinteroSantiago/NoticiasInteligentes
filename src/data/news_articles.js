@@ -183,26 +183,6 @@ export default [
         "sentiment_score": -0.7632785066962242
     },
     {
-        "title": "Imágenes satelitales revelan la rápida expansión del devastador incendio en California",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/incendio-pasadena-20250108134515105.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/incendio-california-los-angeles-fuego-eeuu-ush-orix/",
-        "date": "2025-01-08 13:46:57",
-        "sentiment_score": -0.8155105821788311
-    },
-    {
-        "title": "Proyecciones para el mercado inmobiliario en Argentina este 2025",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_db3aab.png",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/proyecciones-inmobiliario-argentina-2025-primera-manana-fast/",
-        "date": "2025-01-08 12:59:59",
-        "sentiment_score": 0.043547458946704865
-    },
-    {
         "title": "Advierten que un somnífero común puede causar daños en el cerebro en animales",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/01/08/dormir-pasti-R7qZHt7YAHJvLbRPDDSRNzI-1200x840@diario_abc.jpg",
         "tags": [
@@ -231,36 +211,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/exposicion-ruido-aviones-aumenta-riesgo-problemas-cardiacos-20250108170000-nt.html",
         "date": "2025-01-08 16:00:00",
         "sentiment_score": -0.15574264526367188
-    },
-    {
-        "title": "Oye, ¿sabes de qué murió Franco?",
-        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/01/03/guardia-civil-U88161736405bcA-170x119@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/agustin-pery-oye-sabes-murio-franco-20250108122011-nt.html",
-        "date": "2025-01-08 11:20:26",
-        "sentiment_score": -0.10750079154968262
-    },
-    {
-        "title": "El régimen chavista acosa a la madre de María Corina Machado",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/08/maria-corina-RoCSN3YfkpbhcWqcePE38kK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/regimen-chavista-acosa-madre-maria-corina-machado-20250108121851-nt.html",
-        "date": "2025-01-08 11:18:51",
-        "sentiment_score": -0.09618663787841797
-    },
-    {
-        "title": "Ryanair reclama más de 15.000 euros a un pasajero problemático que obligó a desviar a Oporto un vuelo de Dublín a Lanzarote",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/08/ryanair-ksu-U7079056000hjF-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ryanair-reclama-15000-euros-pasajero-problematico-obligo-20250108112037-nt.html",
-        "date": "2025-01-08 10:20:37",
-        "sentiment_score": -0.3025378882884979
     },
     {
         "title": "Fallece una anciana en Barcelona en un accidente con un trenecito navideño",
@@ -447,26 +397,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-01-08/la-acusada-de-agredir-a-laura-borras-en-tarragona-se-declara-culpable-y-le-pide-disculpas.html",
         "date": "2025-01-08 14:20:18",
         "sentiment_score": -0.7417505197227001
-    },
-    {
-        "title": "Condenados dos exviceconsejero de la Junta de Castilla y León por corrupción urbanística en el caso ‘Perla Negra’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZSF7MWLCLDI427XGJYXBLPYZOU.jpg?auth=f27061959cd894e1284ddab633e0e49236907a2f60e145b2ee3941af0095954a&width=1200",
-        "tags": [
-            "juan vicente herrera",
-            "castilla y león",
-            "psoe",
-            "españa",
-            "valladolid",
-            "juicios",
-            "corrupción",
-            "sentencias condenatorias",
-            "pp",
-            "urbanismo",
-            "vox"
-        ],
-        "link": "https://elpais.com/espana/2025-01-08/condenados-dos-exviceconsejero-de-la-junta-de-castilla-y-leon-por-corrupcion-urbanistica-en-el-caso-perla-negra.html",
-        "date": "2025-01-08 13:54:20",
-        "sentiment_score": -0.7702723033726215
     },
     {
         "title": "Movistar Plus+ emite la Supercopa sin necesidad de contratar el paquete de fútbol",
@@ -7070,5 +7000,318 @@ export default [
         "link": "https://www.mundodeportivo.com/elotromundo/television/20250111/1002384803/esta-movistar-plus-pelicula-mas-nominada-goya-2025-exito-taquilla-tvp-dct.html",
         "date": "2025-01-11 21:35:15",
         "sentiment_score": 0.7509325742721558
+    },
+    {
+        "title": "Este martes se espera un anticiclón en Península y Baleares y borrasca en Canarias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/este-martes-se-espera-un-anticiclon-en-peninsula-y-baleares-y-borrasca-en-canarias/",
+        "date": "2025-01-12 02:04:18",
+        "sentiment_score": 0.2624281346797943
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 12 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/5MRNAPTGPFFVBDSJZRLGRQV2FY.jpg?auth=ef0799be2d03b55fda9794cd6c0d356215ab703031203034d93ae75d5908c1b5&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/12/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-12-de-enero/",
+        "date": "2025-01-12 02:01:36",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Hoy será noticia. Domingo, 12 de enero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/12/hoy-sera-noticia-domingo-12-de-enero/",
+        "date": "2025-01-12 01:46:07",
+        "sentiment_score": 0.03080817684531212
+    },
+    {
+        "title": "Ranking de YouTube en España: la lista de los 10 videos musicales más populares hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/EV3UL2WMSZEZZH5OSSEHXU4KGY.jpg?auth=99f7d681a6f1d9445aebff70f7fa84650cf064c292c1d468676b19b837c66591&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/12/ranking-de-youtube-en-espana-la-lista-de-los-10-videos-musicales-mas-populares-hoy/",
+        "date": "2025-01-12 01:00:59",
+        "sentiment_score": 0.6010530963540077
+    },
+    {
+        "title": "Pimienta: \"Hemos marcado en la jugada más rara, pero antes lo habíamos merecido en otras\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/pimienta-hemos-marcado-en-la-jugada-mas-rara-pero-antes-lo-habiamos-merecido-en-otras/",
+        "date": "2025-01-11 23:30:28",
+        "sentiment_score": -0.01223638653755188
+    },
+    {
+        "title": "Corberán: \"No hay que venirse abajo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/corberan-no-hay-que-venirse-abajo/",
+        "date": "2025-01-11 23:15:41",
+        "sentiment_score": -0.3444982022047043
+    },
+    {
+        "title": "La RFEF quiere ampliar la Supercopa en Arabia hasta 2034 y dar más dinero a los clubes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/la-rfef-quiere-ampliar-la-supercopa-en-arabia-hasta-2034-y-dar-mas-dinero-a-los-clubes/",
+        "date": "2025-01-11 23:01:14",
+        "sentiment_score": 0.2989766076207161
+    },
+    {
+        "title": "Luis Rioja: \"No sabemos matar los partidos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/luis-rioja-no-sabemos-matar-los-partidos/",
+        "date": "2025-01-11 23:00:57",
+        "sentiment_score": -0.44727829098701477
+    },
+    {
+        "title": "Ocampo: \"Ha sido un final igualado en el que ha podido pasar de todo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/ocampo-ha-sido-un-final-igualado-en-el-que-ha-podido-pasar-de-todo/",
+        "date": "2025-01-11 23:00:41",
+        "sentiment_score": 0.028475940227508545
+    },
+    {
+        "title": "Fisac: \"Cualquiera podía haber ganado\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/11/fisac-cualquiera-podia-haber-ganado/",
+        "date": "2025-01-11 22:45:59",
+        "sentiment_score": -0.2346479892730713
+    },
+    {
+        "title": "\"Era una cosa que se esperaba\": venezolanos reaccionan ante el nuevo mandato de Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192618499_f057cd.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/reacciones-mandato-maduro-venezuela-mirador-mundial-tv-fast/",
+        "date": "2025-01-12 00:34:49",
+        "sentiment_score": 0.21754831075668335
+    },
+    {
+        "title": "Atlanta enfrenta nevada que no ocurría en más de 1.000 días",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192581319.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/atlanta-nevada-tormenta-invernal-mirador-mundial-tv/",
+        "date": "2025-01-12 00:14:51",
+        "sentiment_score": -0.6116595976054668
+    },
+    {
+        "title": "Mujer rompe en llanto al ver su casa quemada por incendios en California",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21282355-42302-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mujer-llanto-casa-california-mirador-mundial-tv/",
+        "date": "2025-01-12 00:08:13",
+        "sentiment_score": -0.8889089245349169
+    },
+    {
+        "title": "Hielo se desprende de auto en movimiento y se estrella contra un parabrisas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/21281961-before-after-fires-cln-00-01-51-23-still002.png",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hielo-se-desprende-de-auto-trax/",
+        "date": "2025-01-11 23:57:21",
+        "sentiment_score": -0.7632241006940603
+    },
+    {
+        "title": "Análisis de las polémicas declaraciones expansionistas de Donald Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/choque-1.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – general",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-panama-groenlandia-mexico-choue-dusa-tv-fast/",
+        "date": "2025-01-11 23:51:03",
+        "sentiment_score": -0.8685395419597626
+    },
+    {
+        "title": "Manifestantes en China se enfrentan a un muro de policías antidisturbios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/china-student-protests-jan2025-digital-20250111232309084.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/manifestantes-policia-china-trax/",
+        "date": "2025-01-11 23:27:49",
+        "sentiment_score": -0.8690060591325164
+    },
+    {
+        "title": "Video muestra el antes y el después de Pacific Palisades tras incendios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/21281961-before-after-fires-cln-00-00-12-28-still001.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendio-palisades-antes-y-despues-trax/",
+        "date": "2025-01-11 22:29:39",
+        "sentiment_score": -0.6764076091349125
+    },
+    {
+        "title": "Caracas, La Habana, Madrid",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/12/malecon-RoeUupKrkQiIqCVrOY3ZTmO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-caracas-habana-madrid-20250112010334-nt.html",
+        "date": "2025-01-12 00:03:51",
+        "sentiment_score": -0.16566866636276245
+    },
+    {
+        "title": "Villarejo y la parapsicología: \"He visto figuras atravesando paredes, pero no me toman en serio\"",
+        "image_url": "https://s1.elespanol.com/2025/01/10/actualidad/915419475_252254309_1706x960.jpg?contentId=ESPIMA20250110_1026",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250112/villarejo-parapsicologia-visto-figuras-atravesando-paredes-no-toman-serio/915408957_0.html",
+        "date": "2025-01-12 02:05:22",
+        "sentiment_score": -0.0005733668804168701
+    },
+    {
+        "title": "El 65% de las condenas por violencia sexual se dictan en CCAA sin competencias para dar apoyo legal a las víctimas",
+        "image_url": "https://s1.elespanol.com/2025/01/10/reportajes/915419366_252250906_1706x960.jpg?contentId=ESPIMA20250110_0917",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250112/condenas-violencia-sexual-dictan-ccaa-sin-competencias-dar-apoyo-legal-victimas/915158996_0.html",
+        "date": "2025-01-12 02:02:01",
+        "sentiment_score": -0.6156510561704636
+    },
+    {
+        "title": "James Rodríguez solo le faltaría la firma para llegar a León de México: así será su contrato para la temporada",
+        "image_url": "https://www.infobae.com/resizer/v2/JOGSA6TUBNEB5HBVJKD444EXD4.jpg?auth=fbbf0908b3910ae40ef4cfff72518b385ca826f0fe0105bbe9cac41d2ccb19db&height=1196&smart=true&width=2048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/12/james-rodriguez-solo-le-faltaria-la-firma-para-llegar-a-leon-de-mexico-asi-sera-su-contrato-para-la-temporada/",
+        "date": "2025-01-12 01:47:30",
+        "sentiment_score": 0.2023080512881279
+    },
+    {
+        "title": "Ángel Di María se consagró campeón con Benfica, superó a Cristiano Ronaldo y quedó entre los futbolistas más ganadores de la historia",
+        "image_url": "https://www.infobae.com/resizer/v2/A5IXC5XETRM4ZPSJGUU7AQOINQ.jpg?auth=1a6df472283b37e46baff91fbb39eb0425b5316ebef25ce22120b849c54ad974&height=5153&smart=true&width=7950",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/12/angel-di-maria-se-consagro-campeon-con-benfica-supero-a-cristiano-ronaldo-y-quedo-entre-los-futbolistas-mas-ganadores-de-la-historia/",
+        "date": "2025-01-12 00:46:29",
+        "sentiment_score": 0.7341726906597614
+    },
+    {
+        "title": "Real Madrid y Barcelona van por el primer título del año en Arabia Saudita",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2025/01/real-madrid-696x464.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/206765/real-madrid-y-barcelona-van-por-el-primer-titulo-del-ano-en-arabia-saudita/",
+        "date": "2025-01-12 00:36:19",
+        "sentiment_score": 0.3635488748550415
+    },
+    {
+        "title": "El Real Madrid, el gran tormento de Laporta en el campo y mucho menos en los despachos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/11/culemania/palco/915668451_13962617_1706x960.jpg?contentId=ESPIMA20250111_0027",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250112/el-real-madrid-el-laporta-en-despachos/915658454_0.html",
+        "date": "2025-01-12 00:16:12",
+        "sentiment_score": 0.4584053307771683
+    },
+    {
+        "title": "11 ENE 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/11-ene-2025-tramo-final-juego-20250112_3075452.html",
+        "date": "2025-01-12 00:05:52",
+        "sentiment_score": 0.1627032607793808
+    },
+    {
+        "title": "El majorero que desafía al desierto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3307fc02-1e03-4375-9763-c461564eecc7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/fuerteventura/2025/01/12/majorero-desafia-desierto-113307929.html",
+        "date": "2025-01-12 00:00:23",
+        "sentiment_score": 0.15929198265075684
+    },
+    {
+        "title": "Equipos históricos fútbol español (XIII): El Hércules CF y su conquista del Camp Nou",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/heerculesss_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/equipos-historicos-futbol-espanol-hercules-conquista-camp-nou",
+        "date": "2025-01-12 00:00:00",
+        "sentiment_score": 0.10574432089924812
+    },
+    {
+        "title": "La Real necesita volver a ganar mientras reza por la rodilla de Vanegas",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2025/01/12/chicasreal-U2201797878069ayG--1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/femenino/real-necesita-volver-ganar-reza-rodilla-vanegas-20250112083426-nt.html",
+        "date": "2025-01-12 00:00:00",
+        "sentiment_score": 0.059447288513183594
+    },
+    {
+        "title": "El 'caso Olmo': el último escándalo del fútbol español",
+        "image_url": "https://s1.elespanol.com/2025/01/11/opinion/editoriales/915668592_252261867_1024x576.jpg?contentId=ESPIMA20250111_0168",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20250112/caso-olmo-ultimo-escandalo-futbol-espanol/915548438_14.html",
+        "date": "2025-01-12 00:56:50",
+        "sentiment_score": -0.1964086890220642
+    },
+    {
+        "title": "Laporta recoge cable en busca de la indulgencia de la RFEF: el caso Olmo no ha terminado",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/12/culemania/palco/915918400_13964128_1706x960.jpg?contentId=ESPIMA20250112_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250112/laporta-de-la-indulgencia-rfef-olmo-terminado/915908401_0.html",
+        "date": "2025-01-12 00:36:18",
+        "sentiment_score": -0.22553177177906036
+    },
+    {
+        "title": "Alejarse de Pablo Escobar: ciudad europea busca prohibir la venta de ‘souvenirs’ sobre el capo colombiano",
+        "image_url": "https://www.infobae.com/resizer/v2/KFPNIZIHVFH7XFB5D5HJYKLGGM.jpg?auth=bebdd0004e1d7bf9b40a4ff3a52b55df1ed56405ba219b4539693a1ad11e5af6&height=2340&smart=true&width=3684",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/01/12/alejarse-de-pablo-escobar-ciudad-europea-busca-prohibir-la-venta-de-souvenirs-sobre-el-capo-colombiano/",
+        "date": "2025-01-12 00:21:37",
+        "sentiment_score": -0.7824807371944189
     }
 ];
