@@ -179,37 +179,6 @@ export default [
         "sentiment_score": -0.24748608469963074
     },
     {
-        "title": "Panorama de los destructivos incendios en California",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_694833.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/panorama-incendios-california-cafe-tv-fast/",
-        "date": "2025-01-09 14:05:01",
-        "sentiment_score": -0.6383653245866299
-    },
-    {
-        "title": "Imágenes muestran el antes y el después de un gran incendio forestal en California",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/starbucksthumbhdef.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/incendio-forestal-california-antes-despues-imagenes-ush-trax/",
-        "date": "2025-01-09 14:00:32",
-        "sentiment_score": -0.43450209125876427
-    },
-    {
-        "title": "Cámaras registran el imponente avance del fuego en Los Ángeles durante la noche",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/timelapse-thumb-wide-20250109134934359.png",
-        "tags": [
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/incendios-los-angeles-timelapse-noche-trax/",
-        "date": "2025-01-09 13:50:17",
-        "sentiment_score": -0.6508299428969622
-    },
-    {
         "title": "Insólita sintonía de Obama y Trump en el funeral de Carter",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/09/obama-trump-RrSIRWg8U1krCigCt5H5sSM-1200x840@diario_abc.jpg",
         "tags": [
@@ -258,56 +227,6 @@ export default [
         "link": "https://www.abc.es/internacional/compras-nerviosas-clima-prebelico-marchas-chavismo-oposicion-20250109151400-nt.html",
         "date": "2025-01-09 14:16:28",
         "sentiment_score": -0.07164731621742249
-    },
-    {
-        "title": "Lo que comemos afecta la salud y altera las funciones de nuestros genes",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/01/09/alimentos-procesados-RwqDcKSUtfdBYpDDW9Wyq7M-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/comemos-afecta-salud-altera-funcionamiento-genes-20250109125145-nt.html",
-        "date": "2025-01-09 14:00:00",
-        "sentiment_score": -0.0899934321641922
-    },
-    {
-        "title": "La hija de Edmundo González denuncia que sigue sin conocer el paradero de su marido: «Hasta el derecho a una llamada le ha sido negado»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/09/yerno-edmundo-kXeF-U7084348204NiH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hija-edmundo-gonzalez-denuncia-sigue-conocer-paradero-20250109134511-nt.html",
-        "date": "2025-01-09 13:00:41",
-        "sentiment_score": -0.17053364217281342
-    },
-    {
-        "title": "Los abogados de Yoon afirman que el presidente aceptará la decisión de la Justicia sobre su destitución",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/09/abogados-RqriEDVN4ACWDwjuXnB4mLP-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/abogado-yoon-dice-presidente-surcoreano-aceptara-decision-20250109104449-nt.html",
-        "date": "2025-01-09 12:51:23",
-        "sentiment_score": -0.09852811694145203
-    },
-    {
-        "title": "Facebook e Instagram ahora permiten llamar «anormales» y «enfermos» a los homosexuales",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/09/zuck-afp-2-Rrxvuk6w6NGOCoQmXhdfrfJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/facebook-instagram-permiten-llamar-anormales-enfermos-homosexuales-20250109134353-nt.html",
-        "date": "2025-01-09 12:43:54",
-        "sentiment_score": -0.15975825488567352
-    },
-    {
-        "title": "Hizbolá tira la toalla y permite la elección de un presidente cristiano en el Líbano",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/09/libano-RMouhrFHsM5hmPQhdzqVcyK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hizbola-tira-toalla-permite-eleccion-presidente-cristiano-20250109134314-nt.html",
-        "date": "2025-01-09 12:43:14",
-        "sentiment_score": -0.14734703302383423
     },
     {
         "title": "Un juzgado archiva la denuncia de Manos Limpias contra la Aemet y la Confederación del Júcar por la dana",
@@ -422,78 +341,6 @@ export default [
         "link": "https://elpais.com/espana/2025-01-09/dos-periodistas-declaran-que-accedieron-al-correo-filtrado-del-novio-de-ayuso-mucho-antes-de-que-lo-tuviera-el-fiscal-general.html",
         "date": "2025-01-09 14:15:18",
         "sentiment_score": -0.8160300310701132
-    },
-    {
-        "title": "Comuns sube el precio de los Presupuestos y pide multas de más de 90.000 para quien incumpla la ley de vivienda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MFUZTZKTDNH4TODHWSD46S745I.jpg?auth=b4159b9119913f10457eae023038349420f679f974a526176b1d343a3eedb607&width=1200",
-        "tags": [
-            "cataluña",
-            "parlament cataluña",
-            "cat en comú",
-            "vivienda",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-09/comuns-sube-el-precio-de-los-presupuestos-y-pide-multas-de-mas-de-90000-para-quien-incumpla-la-ley-de-vivienda.html",
-        "date": "2025-01-09 13:24:20",
-        "sentiment_score": -0.06495596468448639
-    },
-    {
-        "title": "Feijóo apuntala a Mazón y acusa a Sánchez de abandonar Valencia tras la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3DIIYNWHVJAJFCAD7ATFEQC444.JPG?auth=7fcc36d6542d12c770aed36371eeb2cd876802a09ea70ab510f2802ed96ead22&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "carlos mazón",
-            "psoe",
-            "gobierno de españa",
-            "inundaciones dana octubre 2024",
-            "política",
-            "pp",
-            "dana",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-09/feijoo-apuntala-a-mazon-y-acusa-a-sanchez-de-abandonar-valencia-tras-la-dana.html",
-        "date": "2025-01-09 12:52:46",
-        "sentiment_score": -0.9407653911039233
-    },
-    {
-        "title": "La jueza que investiga a Nacho Cano imputa al administrador del hotel y al director de la escuela que usaban los supuestos becarios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FS46HAS6PNGVDD37IOGRHR6WUM.jpg?auth=4bb32dd3d65aa20a33718462086ebf38b7d8925fee71753e5bb399e7944ac2b0&width=1200",
-        "tags": [
-            "justicia",
-            "madrid",
-            "becarios investigación",
-            "malinche entertainment",
-            "becarios",
-            "nacho cano",
-            "comunidad de madrid",
-            "plaza de castilla",
-            "explotación laboral"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-09/la-jueza-que-investiga-a-nacho-cano-imputa-al-administrador-del-hotel-y-la-escuela-que-usaban-los-supuestos-becarios.html",
-        "date": "2025-01-09 12:49:27",
-        "sentiment_score": -0.7462716717272997
-    },
-    {
-        "title": "La jueza del caso Esther López pide nuevas diligencias e impone 205.000 euros de fianza al sospechoso de su muerte",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MAL7C7EA3Y6QITZNR2N4VRZ5BQ.jpg?auth=283d10351b80ef4c75628a5f3a4aa8e501dd9c21d3a64f188a06f8f7af980b40&width=1200",
-        "tags": [
-            "casos sin resolver",
-            "valladolid",
-            "castilla y león",
-            "esther lópez",
-            "españa",
-            "asesinatos",
-            "juicios",
-            "imputados",
-            "delitos",
-            "homicidios",
-            "investigación judicial",
-            "traspinedo",
-            "sucesos"
-        ],
-        "link": "https://elpais.com/espana/2025-01-09/la-jueza-del-caso-esther-lopez-pide-nuevas-diligencias-e-impone-205000-euros-de-fianza-al-sospechoso-de-su-muerte.html",
-        "date": "2025-01-09 12:21:35",
-        "sentiment_score": -0.32039258256554604
     },
     {
         "title": "Cambia el coste de comisión de las transferencias inmediatas",
@@ -6436,5 +6283,326 @@ export default [
         "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/santi-canizares-le-indica-real-madrid-lado-bueno-derrota-supercopa-frente-barcelona-le-viene-mal-20250112_3075582.html",
         "date": "2025-01-12 22:08:04",
         "sentiment_score": -0.0703744888305664
+    },
+    {
+        "title": "La multinacional belga Protime abre un 'hub' digital en Barcelona con 250 trabajadores",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/la-multinacional-belga-protime-abre-un-hub-digital-en-barcelona-con-250-trabajadores/",
+        "date": "2025-01-13 02:04:14",
+        "sentiment_score": 0.4902171455323696
+    },
+    {
+        "title": "Chivite:El mensaje de VW \"tranquiliza\" en Navarra, donde continúa su \"inversión histórica\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/chiviteel-mensaje-de-vw-tranquiliza-en-navarra-donde-continua-su-inversion-historica/",
+        "date": "2025-01-13 02:03:55",
+        "sentiment_score": 0.7389418985694647
+    },
+    {
+        "title": "Sólo un 5 % de los autónomos afectados por la dana ha solicitado la prestación, según ATA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/solo-un-5-de-los-autonomos-afectados-por-la-dana-ha-solicitado-la-prestacion-segun-ata/",
+        "date": "2025-01-13 02:03:36",
+        "sentiment_score": -0.8301266245543957
+    },
+    {
+        "title": "Pareja colombiana murió en un accidente de tránsito en España: quedaron atrapados dentro del vehículo",
+        "image_url": "https://www.infobae.com/resizer/v2/CAHD3X4PXRCDFO74ZJCVDZB3HI.jpg?auth=ed17f2f4febc3488542b4410802992519f5aa31259ec8017a420eb4b8bc8fe5d&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/01/13/pareja-colombiana-murio-en-un-accidente-de-transito-en-espana-quedaron-atrapados-dentro-del-vehiculo/",
+        "date": "2025-01-13 01:53:06",
+        "sentiment_score": -0.7769681438803673
+    },
+    {
+        "title": "España se compromete ayudar a Ucrania el tiempo necesario al cumplirse mil días de guerra",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/espana-se-compromete-ayudar-a-ucrania-el-tiempo-necesario-al-cumplirse-mil-dias-de-guerra/",
+        "date": "2025-01-13 01:19:28",
+        "sentiment_score": -0.5772337168455124
+    },
+    {
+        "title": "Revilla: \"El problema es que España es un país de burócratas y de burocracia\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/revilla-el-problema-es-que-espana-es-un-pais-de-burocratas-y-de-burocracia/",
+        "date": "2025-01-13 01:19:10",
+        "sentiment_score": -0.33417610824108124
+    },
+    {
+        "title": "El Congreso aprueba el finiquito de Errejón por sus 8 meses trabajados esta legislatura",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/el-congreso-aprueba-el-finiquito-de-errejon-por-sus-8-meses-trabajados-esta-legislatura/",
+        "date": "2025-01-13 01:18:51",
+        "sentiment_score": -0.3352615311741829
+    },
+    {
+        "title": "Feijóo ve un \"esperpento\" que Sánchez se abra a votar a favor de los candidatos de Meloni y Orban a cambio de Ribera",
+        "image_url": "https://www.infobae.com/resizer/v2/THIKCB2H4NEGXPVACUYO2334WI.jpg?auth=3e1cee2b75bf516cda5183a164cb216829bea879ba49a97d6107d23aaa7bac9a&height=1397&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/feijoo-ve-un-esperpento-que-sanchez-se-abra-a-votar-a-favor-de-los-candidatos-de-meloni-y-orban-a-cambio-de-ribera/",
+        "date": "2025-01-13 01:04:26",
+        "sentiment_score": -0.8602551389485598
+    },
+    {
+        "title": "Confirman dos años más de cárcel al masajista de El Ejido (Almería) ya condenado por abusos a otra paciente",
+        "image_url": "https://www.infobae.com/resizer/v2/SUXNXM4TDJEK3GZPDTSL425UZA.jpg?auth=06040cd19e87581ef16c57fd7a2739040db8441fc42546f5e4b66496cd64ed95&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/confirman-dos-anos-mas-de-carcel-al-masajista-de-el-ejido-almeria-ya-condenado-por-abusos-a-otra-paciente/",
+        "date": "2025-01-13 01:03:55",
+        "sentiment_score": -0.7579486928880215
+    },
+    {
+        "title": "Ribera comparecerá mañana en el Senado para hablar sobre la DANA, justo después de hacerlo en el Congreso",
+        "image_url": "https://www.infobae.com/resizer/v2/AVYTIBIPSNDURMXNS36NTLA4QM.jpg?auth=fc5eb22302608647c86abed7467198d76c509724950bbf5d99ebe6dbb5a88ce4&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/ribera-comparecera-manana-en-el-senado-para-hablar-sobre-la-dana-justo-despues-de-hacerlo-en-el-congreso/",
+        "date": "2025-01-13 00:34:34",
+        "sentiment_score": -0.20982588827610016
+    },
+    {
+        "title": "¿Cómo ha sido la gestión de Sheinbaum los primeros 100 días de su mandato?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193007881.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/claudia-sheinbaum-100-dias-mexico-opina-tv-fast/",
+        "date": "2025-01-13 00:40:53",
+        "sentiment_score": 0.0020673051476478577
+    },
+    {
+        "title": "CNN sobrevuela Los Ángeles para ver daños causados por los incendios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/3tb.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/incendio-forestall-los-angeles-panorama-ush-trax/",
+        "date": "2025-01-13 00:37:05",
+        "sentiment_score": -0.8469993732869625
+    },
+    {
+        "title": "Maduro: Venezuela se prepara por si algún día hay que tomar las armas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193333568.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-dos-dias-de-mandato-nicolas-maduro-mirador-mundial-tv/",
+        "date": "2025-01-13 00:29:12",
+        "sentiment_score": -0.4833405613899231
+    },
+    {
+        "title": "Negocio familiar lucha por salir adelante tras incendios en Los Ángeles",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/thumbbbbb.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/negocio-familiar-luchar-incendio-los-angeles-ush-mirador-mundial-tv/",
+        "date": "2025-01-12 23:52:46",
+        "sentiment_score": -0.8151715658605099
+    },
+    {
+        "title": "México y Canadá envían ayuda para combatir incendios en California",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192884579.jpg?quality=100&strip=info",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/paises-estados-envian-ayuda-california-ush-mirador-mundial-tv-fast/",
+        "date": "2025-01-12 23:47:49",
+        "sentiment_score": 0.26572878658771515
+    },
+    {
+        "title": "Lo que mencionó Claudia Sheinbaum en su informe de 100 días de Gobierno",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193010793-20250112234340501.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/claudia-sheinbaum-100-cien-dias-de-gobierno-mexico-mirador-mundial-tv/",
+        "date": "2025-01-12 23:47:16",
+        "sentiment_score": -0.36158716678619385
+    },
+    {
+        "title": "Madre de James Rodríguez salió en defensa del ‘10′ tras fallido fichaje por Junior: “Un día quebraron tus alas”",
+        "image_url": "https://www.infobae.com/resizer/v2/KPAFOZHVAFADFEII56H7TZWZRM.png?auth=3b15069ef65806718f05f2447c5cbaaa3ffa3a70d3195fb109d61560251137cd&height=600&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/13/madre-de-james-rodriguez-salio-en-defensa-del-10-tras-fallido-fichaje-por-junior-un-dia-quebraron-tus-alas/",
+        "date": "2025-01-13 01:18:35",
+        "sentiment_score": -0.841530810110271
+    },
+    {
+        "title": "Aitana y Jude Bellingham: un romance frustrado por la discreción del futbolista",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/13/2025011302135224940.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/aitana-jude-bellingham-romance-frustrado-discrecion-futbolista/20250113021633330416.html",
+        "date": "2025-01-13 01:16:33",
+        "sentiment_score": -0.7565098302438855
+    },
+    {
+        "title": "Las alas infernales del Barça atormentan al Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/13/2025011301595577509.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/alas-infernales-barca-atormentaron-madrid/20250113020115330408.html",
+        "date": "2025-01-13 01:01:15",
+        "sentiment_score": 0.7743501290678978
+    },
+    {
+        "title": "Los peores asesinos en serie (II): El 'matamendigos' que sembró el pánico en Madrid",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/escaaaaaa_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/sucesos/los-peores-asesinos-serie-ii-matamendigos-que-sembro-panico-madrid",
+        "date": "2025-01-13 01:00:00",
+        "sentiment_score": -0.8081408645957708
+    },
+    {
+        "title": "Lamine Yamal, la bestia negra de Mbappé: tres goles y nueva exhibición que le consagra en el fútbol mundial",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/13/culemania/primer-equipo/916168375_13967381_1706x960.jpg?contentId=ESPIMA20250113_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250113/lamine-yamal-bestia-mbappe-exhibicion-consagra-mundial/916158376_0.html",
+        "date": "2025-01-13 00:58:42",
+        "sentiment_score": 0.5746997520327568
+    },
+    {
+        "title": "La Premier League puede acudir al rescate de Marco Asensio",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/13/2025011301392567626.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/premier-league-puede-acudir-rescate-marco-asensio/20250113014217330402.html",
+        "date": "2025-01-13 00:42:17",
+        "sentiment_score": -0.270363986492157
+    },
+    {
+        "title": "Gil Manzano, del penalti de Camavinga al revisar el VAR: “Es acción temeraria”",
+        "image_url": "https://www.infobae.com/resizer/v2/ONVEAL56I5C7RDAGDANUDQBCRQ.jpg?auth=e6242800d2b513471609f23ee25b25fd3015006a0ebe31409c45ec4f94296d93&height=2496&smart=true&width=3744",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/13/gil-manzano-del-penalti-de-camavinga-al-revisar-el-var-es-accion-temeraria/",
+        "date": "2025-01-13 00:30:52",
+        "sentiment_score": -0.34199757128953934
+    },
+    {
+        "title": "Rafael Louzán contempla llevar la Supercopa femenina a Arabia Saudí",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/13/2025011301291434822.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/rafael-louzan-contempla-llevar-supercopa-femenina-arabia-saudi/20250113012956330399.html",
+        "date": "2025-01-13 00:29:56",
+        "sentiment_score": 0.8320958558470011
+    },
+    {
+        "title": "El Barcelona, supercampeón con 'manita' al Real Madrid, en El Tertulión de los Domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/13/67845d420687c.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/barcelona-supercampeon-manita-real-madrid-tertulion-domingos-20250113_3075594.html",
+        "date": "2025-01-13 00:24:42",
+        "sentiment_score": -0.05362299084663391
+    },
+    {
+        "title": "James Rodríguez está cada vez más cerca de la liga mexicana",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/13/2025011301095775160.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/james-rodriguez-cada-vez-mas-cerca-liga-mexicana-cuando-debutaria/20250113011043330396.html",
+        "date": "2025-01-13 00:10:43",
+        "sentiment_score": 0.017338484525680542
+    },
+    {
+        "title": "Alarma ante el posible resurgir de ISIS: desafío único que pone en jaque la transición en Siria y la seguridad en Occidente",
+        "image_url": "https://s1.elespanol.com/2024/12/21/mundo/910419209_251874901_1706x960.jpg?contentId=ESPIMA20241221_0260",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/oriente-proximo/20250113/alarma-posible-resurgir-isis-desafio-unico-pone-jaque-transicion-siria-seguridad-occidente/915908414_0.html",
+        "date": "2025-01-13 02:13:28",
+        "sentiment_score": -0.7981690373271704
+    },
+    {
+        "title": "El PERTE Chip abre la segunda convocatoria de ayudas lanzadas a través del Ministerio de Industria y Turismo",
+        "image_url": "https://s1.elespanol.com/2021/06/18/treintayseis/economia/tecnologia/589955339_242545739_1706x960.jpg?contentId=ESPIMA20210618_4340",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20250113/perte-chip-abre-segunda-convocatoria-ayudas-lanzadas-traves-ministerio-industria-turismo/914908829_0.html",
+        "date": "2025-01-13 02:05:12",
+        "sentiment_score": -0.7280117589980364
+    },
+    {
+        "title": "Doctor Alberich, el ingeniero que detecta más de 150.000 cánceres con su IA: \"Es el futuro de la precisión médica\"",
+        "image_url": "https://s1.elespanol.com/2025/01/09/actualidad/915169217_252216813_1706x960.jpg?contentId=ESPIMA20250109_0743",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250113/doctor-alberich-ingeniero-detecta-canceres-ia-futuro-precision-medica/915158933_0.html",
+        "date": "2025-01-13 01:52:17",
+        "sentiment_score": 0.32347097992897034
+    },
+    {
+        "title": "Renfe seguirá lidiando con las averías: no tendrá renovada toda la flota de Cercanías y Rodalies hasta 2030",
+        "image_url": "https://s1.elespanol.com/2025/01/10/invertia/observatorios/movilidad/915419088_252241866_1706x960.png?contentId=ESPIMA20250110_0639",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20250113/renfe-seguira-lidiando-averias-no-renovada-toda-flota-cercanias-rodalies/915408832_0.html",
+        "date": "2025-01-13 00:51:47",
+        "sentiment_score": 0.08910687267780304
+    },
+    {
+        "title": "Copia el look de Laura Escanes: un abrigo de pelo y chándal gris para superar el frío del invierno",
+        "image_url": "https://s1.elespanol.com/2024/11/07/corazon/estilo/899421082_252261275_1706x960.jpg?contentId=ESPIMA20241107_1033",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/estilo/20250113/copia-look-laura-escanes-abrigo-pelo-chandal-gris-superar-frio-invierno/915658499_0.html",
+        "date": "2025-01-13 00:31:57",
+        "sentiment_score": 0.5287807956337929
+    },
+    {
+        "title": "La corrupción socialista debería ser sostenible",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/10/31/65416126b6574.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250113/corrupcion-socialista-deberia-sostenible_260256.html",
+        "date": "2025-01-13 00:30:00",
+        "sentiment_score": -0.4146782010793686
     }
 ];
