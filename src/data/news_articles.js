@@ -1,260 +1,5 @@
 export default [
     {
-        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/OLEXFIQ3VRCCBLPXP4SL2H2GAY.jpg?auth=00726a374ad59994d445fcec5c039e0c45e3a6e549b967a636c39d8adad367f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/09/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2025-01-09 06:31:18",
-        "sentiment_score": -0.19599322974681854
-    },
-    {
-        "title": "'El mejor trato', campaña de Educo para alertar sobre comportamientos poco respetuosos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/09/el-mejor-trato-campana-de-educo-para-alertar-sobre-comportamientos-poco-respetuosos/",
-        "date": "2025-01-09 06:16:15",
-        "sentiment_score": -0.25626692175865173
-    },
-    {
-        "title": "Bajo mínimos en la maternidad del Hospital La Paz: las matronas no pueden “garantizar la seguridad maternofetal”",
-        "image_url": "https://www.infobae.com/resizer/v2/2EMOCIEVKNBOVEQI2SBNSJEVAQ.jpg?auth=425811b6136881883b8820315f23a8793d5d8497263aeecc9c4e29d8165260dc&height=1285&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/09/bajo-minimos-en-la-maternidad-del-hospital-la-paz-las-matronas-no-pueden-garantizar-la-seguridad-maternofetal/",
-        "date": "2025-01-09 06:03:24",
-        "sentiment_score": -0.7814670521765947
-    },
-    {
-        "title": "Cerca de 400.000 venezolanos residen en España, 10 veces más que hace 10 años",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/09/cerca-de-400000-venezolanos-residen-en-espana-10-veces-mas-que-hace-10-anos/",
-        "date": "2025-01-09 05:16:13",
-        "sentiment_score": -0.06177447736263275
-    },
-    {
-        "title": "Tipo de cambio dólar-euro y proyecciones de este 9 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/WAR32O4AHFFKVFVRVVJ54UP6AQ.jpg?auth=198d63a8c07f1b7d8dc9d4e9e56de8f0a53783fe26ad48732f872a0ae5cbfaa3&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/09/tipo-de-cambio-dolar-euro-y-proyecciones-de-este-9-de-enero/",
-        "date": "2025-01-09 05:15:24",
-        "sentiment_score": 0.26047976315021515
-    },
-    {
-        "title": "Las 5 horas en las que se frustró la aduana comercial en Ceuta",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1143545",
-        "date": "2025-01-09 06:20:15",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "Adiós a la suciedad en tu cafetera italiana con estas pastillas limpiadoras",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W2G2RD34HRH4RN5NOFE63VGCBA.png?auth=124e5c02b809042b7190568368b63c6ef2d89b4a913ad59ab77f0921ae5388f7&width=1200",
-        "tags": [
-            "café",
-            "pastilla",
-            "amazon",
-            "casa hogar",
-            "limpieza",
-            "cafeteras"
-        ],
-        "link": "https://elpais.com/escaparate/top-reviews/2025-01-09/pastillas-limpiadoras-para-cafeteras-italianas.html",
-        "date": "2025-01-09 06:15:00",
-        "sentiment_score": 0.7200264483690262
-    },
-    {
-        "title": "Conflicto en Oriente Próximo, en directo | Hamás asegura que Israel le ha planteado retirarse de Gaza si la milicia libera a todos los rehenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LGCDPRXGPOQSC4PJJHGSUHTG2Y.jpg?auth=266c6147620d8e8d0ccca3138f59190f99fc82d1b0ebef7aa4a63270554d9cc6&width=1200",
-        "tags": [
-            "tregua",
-            "franja gaza",
-            "bombardeos",
-            "oriente próximo",
-            "benjamin netanyahu",
-            "territorios palestinos",
-            "conflictos armados",
-            "jerusalén",
-            "conflicto árabe-israelí",
-            "palestina",
-            "tel aviv",
-            "israel",
-            "guerra",
-            "hamás",
-            "cisjordania"
-        ],
-        "link": "https://elpais.com/internacional/2025-01-09/conflicto-en-oriente-proximo-en-directo.html",
-        "date": "2025-01-09 06:13:23",
-        "sentiment_score": -0.8312760647386312
-    },
-    {
-        "title": "Toma nota: salen los horarios de la Copa del Rey",
-        "image_url": "https://images.ficheroslavoz.com/f0/f01e6ce0-3528-492a-9f9e-95d2e676f670.jpg?crop=2346%2C1321&expires=1767939134&height=1070&token=QcnUa3yHCMmI7x1nuL_usUoFx36wIMyOzLX5Mo72FQ8&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/285630/toma-nota-salen-los-horarios-de-la-copa-del-rey",
-        "date": "2025-01-09 06:11:04",
-        "sentiment_score": 0.0840114876627922
-    },
-    {
-        "title": "El conjunto \"Toro Sacro\" recibió más de 50.000 visitantes en 2024",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/457e3246-28a6-4966-9279-2646235311bb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "visitantes,turistas,turismo,toro sacro,turismo religioso,colegiata de toro,iglesias"
-        ],
-        "link": "https://www.laopiniondezamora.es/toro/2025/01/09/conjunto-toro-sacro-recibio-50-113222368.html",
-        "date": "2025-01-09 06:00:31",
-        "sentiment_score": -0.0740329846739769
-    },
-    {
-        "title": "Lista Forbes | Las 25 ideas que cambiarán 2025",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/01/25-Ideas_Web-1200x675.jpg",
-        "tags": [
-            "listas",
-            "idea",
-            "2025",
-            "lista"
-        ],
-        "link": "https://forbes.es/listas/585893/lista-forbes-las-25-ideas-que-cambiaran-2025/",
-        "date": "2025-01-09 06:00:00",
-        "sentiment_score": 0.3716966286301613
-    },
-    {
-        "title": "15 ofertas de Nike en moda, calzado y complementos para él y ella",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JXMWSSAPTBAPBIIJODRFY6IV44.png?auth=9dcc891d053c51daab0ff8bc5f3936b3ca036e3a4ccfd55d8e90b25ab5f891cc&width=1200",
-        "tags": [
-            "moda",
-            "nike",
-            "calzado",
-            "comercio electrónico",
-            "deportes",
-            "amazon",
-            "calzado deportivo",
-            "camisetas",
-            "rebajas"
-        ],
-        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2025-01-09/ofertas-zapatillas-nike-enero-2025.html",
-        "date": "2025-01-09 06:00:00",
-        "sentiment_score": 0.5882870759814978
-    },
-    {
-        "title": "El PSOE de 1975 contra el Sánchez de 2025: «La muerte de Franco no implica el fin de la dictadura»",
-        "image_url": "https://okdiario.com/img/2025/01/08/psoe-de-1975-contra-el-sanchez-de-2025-la-muerte-de-franco-interior.jpg",
-        "tags": [
-            "franquismo",
-            "francisco franco",
-            "psoe",
-            "españa",
-            "democracia",
-            "pedro sánchez"
-        ],
-        "link": "https://okdiario.com/espana/psoe-1975-contra-sanchez-2025-muerte-franco-no-implica-fin-dictadura-14085543",
-        "date": "2025-01-09 05:52:22",
-        "sentiment_score": -0.7040253560990095
-    },
-    {
-        "title": "Borrón y cuenta nueva para el Athletic tras caer en la Supercopa ante el Barça",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e953ad1a-4714-4e50-b550-a5da16c81d91_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/01/09/borron-cuenta-nueva-athletic-supercopa-9135949.html",
-        "date": "2025-01-09 05:34:47",
-        "sentiment_score": -0.260319322347641
-    },
-    {
-        "title": "El jefe del Ejército se perfila como favorito para presidir Líbano con el apoyo de varios grupos parlamentarios",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250109062532_120.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-jefe-ejercito-perfila-favorito-presidir-libano-apoyo-varios-grupos-parlamentarios-20250109062532.html",
-        "date": "2025-01-09 05:25:32",
-        "sentiment_score": 0.03172421455383301
-    },
-    {
-        "title": "Las ofertas de trabajo del SEPE para teletrabajar con empleo fijo y sueldos de hasta 3.250 euros",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/01/ofertas-trabajo-sepe-teletrabajar-empleo-fijo-sueldos-3250-euros-4280403.jpg?tf=1200x",
-        "tags": [
-            "estilo de vida"
-        ],
-        "link": "https://www.businessinsider.es/desarrollo-profesional/ofertas-trabajo-sepe-teletrabajar-empleo-fijo-sueldos-3250-euros-1434434",
-        "date": "2025-01-09 06:30:03",
-        "sentiment_score": 0.665300453081727
-    },
-    {
-        "title": "Peras al Barça",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/opinion/columnistas/2025/01/09/peras-barca-9134623.html",
-        "date": "2025-01-09 06:25:11",
-        "sentiment_score": -0.52241250872612
-    },
-    {
-        "title": "Lo que debes saber hoy, 9 de enero, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/05/28/ciutat-vella/858674151_13002599_1706x960.jpg?contentId=ESPIMA20240528_0027",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250109/lo-que-debes-saber-hoy-de-enero-barcelona/915158477_0.html",
-        "date": "2025-01-09 06:11:30",
-        "sentiment_score": 0.13235317170619965
-    },
-    {
-        "title": "El afanado ejército secreto de judíos que recorrió miles de kilómetros para acabar con Franco",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/01/08/19-de-agosto-de-1936-francisco-franco-comandante-en-el-sur-visita-el-cuartel-general-del-frente-norte-en-burgos.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.huffingtonpost.es/life/cultura/el-afanado-ejercito-secreto-judios-recorrio-miles-kilometros-acabar-franco.html",
-        "date": "2025-01-09 06:08:44",
-        "sentiment_score": -0.25605832040309906
-    },
-    {
-        "title": "Cuatro pasos claves para planificar la economía familiar del año",
-        "image_url": "https://static1.ara.cat/clip/3b48500f-228c-4ff6-8c1e-942b86850fbb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/criaturas/cuatro-pasos-claves-planificar-economia-familiar-ano_130_5250140.html",
-        "date": "2025-01-09 06:01:47",
-        "sentiment_score": -0.42806264013051987
-    },
-    {
-        "title": "Restaurantes donde disfrutar en enero por 35 euros o menos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d9bbe791-660d-445e-a0fc-7cd68d622c6c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/gastronomia/2025/01/09/restaurantes-disfrutar-enero-35-euros-9135967.html",
-        "date": "2025-01-09 06:01:02",
-        "sentiment_score": 0.6547385826706886
-    },
-    {
-        "title": "Restaurantes donde disfrutar en enero por 35 euros o menos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eac357f3-6f5d-401b-b2ba-459952195617_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemurcia.es/ocio/gastronomia/2025/01/09/restaurantes-disfrutar-enero-35-euros-113225732.html",
-        "date": "2025-01-09 06:00:43",
-        "sentiment_score": 0.6636702194809914
-    },
-    {
         "title": "Airbus se queda en 2024 por debajo de su objetivo de 770 aviones entregados con 766",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6321,5 +6066,375 @@ export default [
         "link": "https://www.diariodepontevedra.es/articulo/pontevedra/abel-losada-consta-que-trabajando-dotar-pontevedra-vigo-buena-red-cercanias/202501121802541371020.html",
         "date": "2025-01-12 17:02:54",
         "sentiment_score": 0.2978643476963043
+    },
+    {
+        "title": "Un 30 % de las cooperativas de la provincia de Valencia está afectada por la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/un-30-de-las-cooperativas-de-la-provincia-de-valencia-esta-afectada-por-la-dana/",
+        "date": "2025-01-12 22:04:32",
+        "sentiment_score": -0.8610416799783707
+    },
+    {
+        "title": "El KH-7 domina otra etapa en Mission 1000 y recibe bonificación de puntos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/12/el-kh-7-domina-otra-etapa-en-mission-1000-y-recibe-bonificacion-de-puntos/",
+        "date": "2025-01-12 22:02:15",
+        "sentiment_score": 0.7011494059115648
+    },
+    {
+        "title": "Muere un motorista tras sufrir un accidente en la M-203, en Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/12/muere-un-motorista-tras-sufrir-un-accidente-en-la-m-203-en-madrid/",
+        "date": "2025-01-12 21:45:54",
+        "sentiment_score": -0.767220726236701
+    },
+    {
+        "title": "Las expediciones de Real Madrid y Barcelona regresan a España después de la final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/12/las-expediciones-de-real-madrid-y-barcelona-regresan-a-espana-despues-de-la-final/",
+        "date": "2025-01-12 21:31:48",
+        "sentiment_score": -0.06844983994960785
+    },
+    {
+        "title": "Raphinha, elegido mejor jugador de la final de la Supercopa de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/12/raphinha-elegido-mejor-jugador-de-la-final-de-la-supercopa-de-espana/",
+        "date": "2025-01-12 21:31:24",
+        "sentiment_score": 0.4740644842386246
+    },
+    {
+        "title": "El FC Barcelona, campeón de la Supercopa de España con un 2-5 al Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/HKDY76GLRJDCJI6GU473SQDERU.jpg?auth=c014ea94fabe6d38bf3e800e1d0dcd81a3faa998c743957b8bf16017f86ef47c&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/12/el-fc-barcelona-campeon-de-la-supercopa-de-espana-con-un-2-5-al-real-madrid/",
+        "date": "2025-01-12 21:30:52",
+        "sentiment_score": 0.46967988833785057
+    },
+    {
+        "title": "Gobierno de Dina Boluarte envía a España a exalcalde que contrató al prófugo Nicanor Boluarte",
+        "image_url": "https://www.infobae.com/resizer/v2/YWD24CAR75GGBIFRYVEVKVFB2U.png?auth=e5bf24ba8e8550d2d0b1f2bbc0f299741e3fd5d72b90a9f2990dc2c148ab44f9&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/01/12/gobierno-de-dina-boluarte-envia-a-espana-a-exalcalde-que-contrato-al-profugo-nicanor-boluarte/",
+        "date": "2025-01-12 21:21:15",
+        "sentiment_score": -0.35250771045684814
+    },
+    {
+        "title": "Un intratable FC Barcelona se levanta para aplastar al Real Madrid y proclamarse campeón de la Supercopa de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/01/12/un-intratable-fc-barcelona-se-levanta-para-aplastar-al-real-madrid-y-proclamarse-campeon-de-la-supercopa-de-espana/",
+        "date": "2025-01-12 21:08:39",
+        "sentiment_score": 0.6648627072572708
+    },
+    {
+        "title": "Las empresas cotizadas pagaron cerca de 29.000 millones en dividendos hasta octubre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/las-empresas-cotizadas-pagaron-cerca-de-29000-millones-en-dividendos-hasta-octubre/",
+        "date": "2025-01-12 21:04:29",
+        "sentiment_score": 0.23087813332676888
+    },
+    {
+        "title": "Osasuna y Villarreal empataron en el último partido tras una década de dominio 'groguet'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/osasuna-y-villarreal-empataron-en-el-ultimo-partido-tras-una-decada-de-dominio-groguet/",
+        "date": "2025-01-12 21:04:09",
+        "sentiment_score": 0.6990988291800022
+    },
+    {
+        "title": "Video muestra las consecuencias de la colisión de dos tranvías en Francia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/thumb-1-20250112012141464-20250112201619002.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colision-trenes-francia-heridos-trax/",
+        "date": "2025-01-12 20:19:10",
+        "sentiment_score": -0.6561496499925852
+    },
+    {
+        "title": "Residentes de California narran su angustiosa huida de los incendios",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/survivors-1-20250112182127348.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/residentes-california-incendios-evacuacion-trax/",
+        "date": "2025-01-12 18:24:30",
+        "sentiment_score": -0.8735088752582669
+    },
+    {
+        "title": "Dos meses en la lista de espera",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2025/01/09/declaracion-k0Z--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-dos-meses-lista-espera-20250113225405-nts.html",
+        "date": "2025-01-12 21:55:24",
+        "sentiment_score": -0.08799171447753906
+    },
+    {
+        "title": "y... Ý",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/13/libro-RRy5Geh8ajM7eCScNeSrTqL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-narbona-y-y-20250113225413-nts.html",
+        "date": "2025-01-12 21:54:13",
+        "sentiment_score": -0.12552499771118164
+    },
+    {
+        "title": "Luz ciega",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/sociedad/2025/01/09/repartido-glovo-cadiz-k6FI--170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-luz-ciega-20250113225405-nts.html",
+        "date": "2025-01-12 21:54:05",
+        "sentiment_score": -0.08611777424812317
+    },
+    {
+        "title": "El PP apuesta por la oferta",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2025/01/09/declaracion-k0Z--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-pp-apuesta-oferta-20250113202905-nt.html",
+        "date": "2025-01-12 20:40:18",
+        "sentiment_score": -0.0918450802564621
+    },
+    {
+        "title": "El momento polaco",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/13/ENFOQUEABC_DonaldTusk_SORMAN-RqiLT2sXT44V6RT152qu3kK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-momento-polaco-20250113154512-nt.html",
+        "date": "2025-01-12 20:07:18",
+        "sentiment_score": -0.030719488859176636
+    },
+    {
+        "title": "Sed de contemplar",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/13/TERCERAABC_Contemplar_Domingo-RIiDkkikYnUxE3I7ymekQiO-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rafael-domingo-osle-sed-contemplar-20250113153836-nt.html",
+        "date": "2025-01-12 20:06:58",
+        "sentiment_score": -0.015636146068572998
+    },
+    {
+        "title": "Un régimen profundamente enamorado",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2025/01/09/declaracion-k0Z--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-regimen-profundamente-enamorado-20250113155603-nt.html",
+        "date": "2025-01-12 20:06:46",
+        "sentiment_score": -0.14369440078735352
+    },
+    {
+        "title": "Si yo fuera el hijo de...",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/08/pescaderia-mercadona-kWqE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-hijo-20250113160450-nt.html",
+        "date": "2025-01-12 20:06:17",
+        "sentiment_score": -0.2501363307237625
+    },
+    {
+        "title": "El viejo 'lejía'",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/01/01/kellys-jubilacion-52anyos-k5pC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-viejo-lejia-20250113205953-nt.html",
+        "date": "2025-01-12 20:05:54",
+        "sentiment_score": -0.04975956678390503
+    },
+    {
+        "title": "Contra Sánchez, Transición",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/08/pescaderia-mercadona-kWqE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-sanchez-transicion-20250113205226-nt.html",
+        "date": "2025-01-12 19:55:51",
+        "sentiment_score": -0.26791033148765564
+    },
+    {
+        "title": "Hallan muerto al joven de 25 años desaparecido el sábado mientras hacía una ruta por Montserrat",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Q4ZP3R2ZHNDX3GJ67F3FRZZLL4.jpg?auth=bf3ab5c9b028db63dc746fb8fb88d3bfd40ce608be8cd99a058e46792684895b&width=1200",
+        "tags": [
+            "accidentes",
+            "emergencias",
+            "rescate víctimas",
+            "cataluña",
+            "bomberos",
+            "mossos d'esquadra",
+            "víctimas",
+            "muertes",
+            "montserrat"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-12/hallan-muerto-al-joven-de-25-anos-desaparecido-el-sabado-mientras-hacia-una-ruta-por-montserrat.html",
+        "date": "2025-01-12 18:58:40",
+        "sentiment_score": -0.03996933251619339
+    },
+    {
+        "title": "El PP exige al Gobierno que asuma la acogida de los menores migrantes en “situaciones críticas”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AFUAY7EBEBRVW2QWMOCHJ6WLTY.jpg?auth=115364a844b69c4a1f3c05827d1e4e90f3f66e95f6a4a20914adc05f59f12d20&width=1200",
+        "tags": [
+            "menores migrantes",
+            "coalición canaria",
+            "oviedo",
+            "gobierno de españa",
+            "alberto núñez feijóo",
+            "españa",
+            "pp",
+            "ángel víctor torres",
+            "inmigración",
+            "fernando clavijo",
+            "canarias",
+            "comunidades autónomas"
+        ],
+        "link": "https://elpais.com/espana/2025-01-12/el-pp-exige-al-gobierno-que-asuma-la-acogida-de-los-menores-migrantes-en-situaciones-criticas.html",
+        "date": "2025-01-12 18:23:20",
+        "sentiment_score": -0.5319848731160164
+    },
+    {
+        "title": "Muere el conductor temerario tras chocar contra un camión en un área de descanso en Vilademuls (Girona)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UIKEM53DOFH2JGH2SBIYQRHDVQ.jpg?auth=deaa0e6e354a8cd6a2ea3580eec35b9e2baa8650ef7955ba8ce360d6f7f81af1&width=1200",
+        "tags": [
+            "accidentes tráfico",
+            "autopistas",
+            "accidentes",
+            "tráfico",
+            "ap-7",
+            "cataluña",
+            "girona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-12/muere-el-conductor-temerario-tras-chocar-contra-un-camion-en-un-area-de-descanso-en-vilademuls-girona.html",
+        "date": "2025-01-12 17:22:47",
+        "sentiment_score": -0.5876543521881104
+    },
+    {
+        "title": "Barcelona golea al Real Madrid para consagrarse monarca de la Supercopa de España",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/b78078b/2147483647/strip/true/crop/5526x2901+0+391/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F8b%2F2cf68153039ad0d5a40cf8c1da1a%2F2a9a78aaa1904cb88419c64c4df8085f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-01-12/barcelona-golea-al-real-madrid-para-consagrarse-monarca-de-la-supercopa-de-espana",
+        "date": "2025-01-12 22:16:49",
+        "sentiment_score": 0.5165878161787987
+    },
+    {
+        "title": "Ancelotti rescata a Mbappé tras la derrota: \"Muy buen partido para él, del resto hay que olvidarse\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/11/carlo-ancelotti.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/noticia/5671726/0/ancelotti-rescata-mbappe-tras-derrota-supercopa-muy-buen-partido-para-el-resto-hay-que-olvidarse-/",
+        "date": "2025-01-12 22:16:19",
+        "sentiment_score": -0.6960500031709671
+    },
+    {
+        "title": "Lewandowski: \"Jugamos muy bien, sobre todo en la primera parte\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/12/lewandowski-jugamos-muy-bien-sobre-todo-en-la-primera-parte/",
+        "date": "2025-01-12 22:15:51",
+        "sentiment_score": 0.8376767281442881
+    },
+    {
+        "title": "Una primera vuelta digna de descenso",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c7b501d1-d4c5-4c6d-9512-3f140d01b7c2_16-9-aspect-ratio_default_0_x601y311.jpg",
+        "tags": [
+            "valencia cf,zaragoza,laliga"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/12/primera-vuelta-digna-descenso-113332454.html",
+        "date": "2025-01-12 22:15:43",
+        "sentiment_score": -0.2741963714361191
+    },
+    {
+        "title": "Ancelotti se disculpa ante la afición: “Lo sentimos mucho”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/12/ancelotti-se-disculpa-ante-la-aficion-lo-sentimos-mucho/",
+        "date": "2025-01-12 22:15:34",
+        "sentiment_score": 0.08564221858978271
+    },
+    {
+        "title": "Carlo Ancelotti: \"No me quedo con nada, hay que olvidarse y mirar adelante\"",
+        "image_url": "https://www.infobae.com/resizer/v2/TJDEEBD5HNBV5EDCNHBRNDMJGU.jpg?auth=9dfa831f45b13a3d42768f2e56a51f1a997a0c4806d2b62563382a730263e861&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/12/carlo-ancelotti-no-me-quedo-con-nada-hay-que-olvidarse-y-mirar-adelante/",
+        "date": "2025-01-12 22:15:19",
+        "sentiment_score": 3.24249267578125e-05
+    },
+    {
+        "title": "Paliza del FC Barcelona desata ola de memes contra Real Madrid",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/01/Real-Madrid-e1736719975434.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "supercopa de españa",
+            "fc barcelona",
+            "memes",
+            "real madrid"
+        ],
+        "link": "https://eldiariony.com/2025/01/12/paliza-del-fc-barcelona-desata-ola-de-memes-contra-real-madrid/",
+        "date": "2025-01-12 22:13:11",
+        "sentiment_score": 0.5024075731635094
+    },
+    {
+        "title": "Ancelotti: «Ha sido un mal partido desde el primer minuto hasta el último»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/01/12/ancelotti.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/deportes/futbol/ancelotti-mal-partido-primer-minuto-ultimo-20250112230706-ntrc.html",
+        "date": "2025-01-12 22:09:40",
+        "sentiment_score": -0.9148505181074142
+    },
+    {
+        "title": "Santi Cañizares le indica al Real Madrid el lado bueno de la derrota en la Supercopa frente al Barcelona: \"No le viene nada mal\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2025/01/12/67843c6f5afe7.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/santi-canizares-le-indica-real-madrid-lado-bueno-derrota-supercopa-frente-barcelona-le-viene-mal-20250112_3075582.html",
+        "date": "2025-01-12 22:08:04",
+        "sentiment_score": -0.0703744888305664
     }
 ];
