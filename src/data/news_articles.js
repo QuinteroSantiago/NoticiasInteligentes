@@ -130,49 +130,6 @@ export default [
         "sentiment_score": -0.10371308028697968
     },
     {
-        "title": "Qué pasó en el juicio penal contra Donald Trump por supuestos pagos por silencio",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/trump-juicio-mar-a-lago.jpg?quality=100&strip=info",
-        "tags": [
-            "análisis",
-            "donald trump",
-            "trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/10/juicio-dinero-secreto-donald-trump-trax/",
-        "date": "2025-01-10 14:00:00",
-        "sentiment_score": -0.7217016685754061
-    },
-    {
-        "title": "La angustia de un residente de Altadena al ver su casa destruida por los incendios",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/alvaradothumb.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/altadena-incendios-california-residentes-llora-ush-tv/",
-        "date": "2025-01-10 13:39:27",
-        "sentiment_score": -0.8741699075326324
-    },
-    {
-        "title": "El proceso por la beatificación de Enrique Shaw",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_943a91.png",
-        "tags": [
-            "xpress",
-            "fast – news variety"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/proceso-beatificacion-enrique-shaw-primera-manana-fast/",
-        "date": "2025-01-10 12:52:30",
-        "sentiment_score": -0.0018431544303894043
-    },
-    {
-        "title": "Toma de posesión del presidente de Venezuela, en vivo: última hora de Maduro y Gónzalez",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/edmundo-maduro-venezuela.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/10/posesion-presidente-venezuela-maduro-gonzalez-noticias-orix/",
-        "date": "2025-01-10 11:52:21",
-        "sentiment_score": 0.05216749384999275
-    },
-    {
         "title": "Brasil exigirá explicaciones a Meta por el fin de sus programas de verificación",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/10/meta-reuters-k8EI-U7092336211jq-1200x840@diario_abc.jpg",
         "tags": [
@@ -221,56 +178,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/enfermedad-infecciosa-puede-suponer-mayor-problema-humanos-20250110152444-nt.html",
         "date": "2025-01-10 15:03:10",
         "sentiment_score": -0.37442639470100403
-    },
-    {
-        "title": "Así influye el cerebro en los trastornos alimentarios durante la adolescencia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/01/10/adolescencia-anorexia.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/influye-cerebro-trastornos-alimentarios-adolescencia-20250110140648-nt.html",
-        "date": "2025-01-10 13:06:48",
-        "sentiment_score": -0.17991788685321808
-    },
-    {
-        "title": "La OTAN envía dos buques al Báltico tras el supuesto sabotaje de cables submarinos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/baltico-kabC-U7091034346zl-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/otan-envia-dos-buques-baltico-tras-supuesto-20250110134937-nt.html",
-        "date": "2025-01-10 12:49:37",
-        "sentiment_score": -0.09836581349372864
-    },
-    {
-        "title": "Nuevo frente diplomático: Francia acusa a Argelia de intentar «humillarla» por devolver a un 'influencer' deportado",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/10/ministro-exteriores-francia-kbaH-U70908212003OD-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nuevo-frente-diplomatico-francia-acusa-argelia-intentar-20250110130855-nt.html",
-        "date": "2025-01-10 12:08:56",
-        "sentiment_score": -0.21502628922462463
-    },
-    {
-        "title": "TikTok gasta (casi) su última bala para evitar la prohibición en Estados Unidos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/10/tiktok-reu-2-ROOOR922HmQQKjQBtkCwedI-1200x840@diario_abc.JPG",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/tiktok-gasta-ultima-bala-evitar-prohibicion-estados-20250110125954-nt.html",
-        "date": "2025-01-10 11:59:55",
-        "sentiment_score": -0.15244083106517792
-    },
-    {
-        "title": "La IA mejora la detección de cáncer con mamografía en un estudio en 500.000 mujeres",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/01/10/mamografia.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/ia-mejora-tasas-deteccion-cancer-mamografia-estudio-20250110093516-nt.html",
-        "date": "2025-01-10 11:42:26",
-        "sentiment_score": -0.07054115831851959
     },
     {
         "title": "La Abogacía del Estado denuncia un “juicio paralelo” al fiscal general",
@@ -339,137 +246,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-01-10/jose-zaragoza-psc-la-foto-feijoo-puigdemont-llegara-y-sera-la-victoria-de-pedro-sanchez.html",
         "date": "2025-01-10 15:55:17",
         "sentiment_score": 0.419627383351326
-    },
-    {
-        "title": "Toni Comín presenta su candidatura para presidir la ‘Generalitat paralela’ de Puigdemont",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ESFBM7LPDREOZEJJLS5R5WATBM.jpg?auth=99bff9674add213ae94e14e20be8b0de16bac8df371ace8c02742a868df51373&width=1200",
-        "tags": [
-            "cataluña",
-            "república",
-            "independencia",
-            "antoni comín",
-            "auditoría",
-            "elecciones",
-            "candidaturas políticas",
-            "bruselas",
-            "carles puigdemont"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-10/toni-comin-presenta-su-candidatura-para-presidir-la-generalitat-paralela-de-puigdemont.html",
-        "date": "2025-01-10 14:12:15",
-        "sentiment_score": -0.7377599105238914
-    },
-    {
-        "title": "San Matías no es San Matías: un hombre financia pintar la iglesia de su pueblo e incluye su cara como un santo más",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C474EMEFYZGATC7AVK7MMCUDHM.jpg?auth=a93dd0417c922bb54f4922c506b7c1712348f7f2d549409b2a0ca3e73962553d&width=1200",
-        "tags": [
-            "restauración patrimonio",
-            "españa",
-            "patrimonio histórico",
-            "fraudes",
-            "restauración artística",
-            "iglesias",
-            "restauración",
-            "patrimonio municipal",
-            "españa vacía",
-            "aragón"
-        ],
-        "link": "https://elpais.com/espana/2025-01-10/san-matias-no-es-san-matias-un-hombre-financia-pintar-la-iglesia-de-su-pueblo-e-incluye-su-cara-como-un-santo-mas.html",
-        "date": "2025-01-10 13:38:57",
-        "sentiment_score": -0.9310316694900393
-    },
-    {
-        "title": "Illa augura “pasos adelante” en enero sobre el traspaso de Rodalies en Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6SWD7LDLBWMQULZOGBYUTVWCMI.jpg?auth=8b67b97d08ee32306cc508f1acea755b694bdde3355863f8cc1198b0ff3aefef&width=1200",
-        "tags": [
-            "trenes",
-            "transporte ferroviario",
-            "generalitat cataluña",
-            "cercanías",
-            "raül blanco",
-            "santa perpètua de mogoda",
-            "barcelona",
-            "cataluña",
-            "óscar puente santiago",
-            "renfe"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-10/illa-augura-pasos-adelante-en-enero-sobre-el-traspaso-de-rodalies-en-cataluna.html",
-        "date": "2025-01-10 13:29:38",
-        "sentiment_score": 0.1273232251405716
-    },
-    {
-        "title": "1.154 personas murieron en las carreteras en 2024, 14 más que el año anterior",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WCMBSWK2V5L4RYNCDHNVAZODJY.jpg?auth=f6977033f66fd22b721b603c43436df3523af7e4c8c61e82ce1841bc55ef8cfb&width=1200",
-        "tags": [
-            "carreteras",
-            "españa",
-            "accidentes tráfico",
-            "motocicletas",
-            "guardia civil",
-            "fernando grande-marlaska",
-            "pere navarro",
-            "accidentes",
-            "autopistas",
-            "dgt",
-            "autovías",
-            "seguridad vial"
-        ],
-        "link": "https://elpais.com/espana/2025-01-10/1154-personas-murieron-en-las-carreteras-en-2024-14-mas-que-el-ano-anterior.html",
-        "date": "2025-01-10 13:12:40",
-        "sentiment_score": 0.1385587602853775
-    },
-    {
-        "title": "La Guardia Urbana incorporará pistolas taser ante la proliferación de armas blancas en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/F6FFE5U3RFESXAMZT2Q25N2K7M.jpg?auth=ab170b192aeaf7e372f48e4519f49b259c4ed87f3ffde6229bf4ae045c593175&width=1200",
-        "tags": [
-            "taser",
-            "ayuntamiento barcelona",
-            "guardia urbana",
-            "cataluña",
-            "policía municipal",
-            "barcelona",
-            "seguridad ciudadana",
-            "policía",
-            "mossos d'esquadra"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-10/la-guardia-urbana-incorporara-pistolas-taser-ante-la-proliferacion-de-armas-blancas-en-barcelona.html",
-        "date": "2025-01-10 12:33:19",
-        "sentiment_score": 0.3556975796818733
-    },
-    {
-        "title": "Los Mossos confirman que un asesor de Puigdemont fue espiado con Pegasus desde 2019",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KXYKDM7X5VG4RH5GF7F4WP6WWM.jpg?auth=2ce70deb7834e4e2203462285523b88efe64dbbfc9cc61a36a85eca94b510109&width=1200",
-        "tags": [
-            "carles puigdemont",
-            "investigación judicial",
-            "cataluña",
-            "telefonía",
-            "caso pegasus",
-            "espionaje",
-            "mossos d'esquadra"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-10/los-mossos-confirman-que-un-asesor-de-puigdemont-fue-espiado-con-pegasus-desde-2019.html",
-        "date": "2025-01-10 12:15:22",
-        "sentiment_score": -0.6927780527621508
-    },
-    {
-        "title": "Mazón, 70 días después de la dana: “Recibiré a los afectados cuando ellos quieran”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y562YRRIL5CDBBOW5QMVI3IJUI.jpg?auth=0458255670e1fbc75f1192ad53577b12372bb09a38235df9f949aee2e819beda&width=1200",
-        "tags": [
-            "coches",
-            "inundaciones dana octubre 2024",
-            "generalitat valenciana",
-            "inundaciones",
-            "comunidad valenciana",
-            "ppcv",
-            "lluvias torrenciales",
-            "carlos mazón",
-            "valencia",
-            "ayudas públicas",
-            "administración autonómica"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-10/mazon-70-dias-despues-de-la-dana-recibire-a-los-afectados-cuando-ellos-quieran.html",
-        "date": "2025-01-10 11:43:40",
-        "sentiment_score": -0.11043069511651993
     },
     {
         "title": "Badalona desencalla el contrato de la limpieza pública por 540 millones",
@@ -6434,5 +6210,341 @@ export default [
         "link": "https://www.eldiario.es/catalunya/junqueras-endurece-posicion-illa-preserva-alianza-sanchez_1_11959986.html",
         "date": "2025-01-13 21:21:33",
         "sentiment_score": -0.04190194606781006
+    },
+    {
+        "title": "Qué pasa con el reparto de la herencia si un heredero tiene deudas: así pueden aplicar un embargo los acreedores",
+        "image_url": "https://www.infobae.com/resizer/v2/L5PE452XJBGNDCCDOGY35IMA3U.jpg?auth=49591f564fd7334f3a0e771c361abeea1c1e7996b75182e4200d81cf4523e256&height=3375&smart=true&width=6000",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/14/que-pasa-con-el-reparto-de-la-herencia-si-un-heredero-tiene-deudas-asi-pueden-aplicar-un-embargo-los-acreedores/",
+        "date": "2025-01-14 02:10:28",
+        "sentiment_score": -0.03533638268709183
+    },
+    {
+        "title": "Registrada la ley de memoria trans que pide prestaciones para represaliados del franquismo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/registrada-la-ley-de-memoria-trans-que-pide-prestaciones-para-represaliados-del-franquismo/",
+        "date": "2025-01-14 02:03:17",
+        "sentiment_score": -0.3194904774427414
+    },
+    {
+        "title": "Roban 400 jamones y 500 cañas de lomo 100 % ibéricas a empresa de Corteconcepción (Huelva)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/roban-400-jamones-y-500-canas-de-lomo-100-ibericas-a-empresa-de-corteconcepcion-huelva/",
+        "date": "2025-01-14 02:03:04",
+        "sentiment_score": -0.837260166183114
+    },
+    {
+        "title": "Se intensifica la extracción y retirada de lodos de sótanos en 8 pueblos, también Paiporta",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/se-intensifica-la-extraccion-y-retirada-de-lodos-de-sotanos-en-8-pueblos-tambien-paiporta/",
+        "date": "2025-01-14 02:02:53",
+        "sentiment_score": -0.03864090144634247
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 14 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/I55OFDGKKRBQRDBM5XBUMWC6KE.jpg?auth=75429559268d5cb9b4850400f3e04532b64c0b8f9c21380c6a499f07e7400459&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/14/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-14-de-enero/",
+        "date": "2025-01-14 02:02:03",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Marcelo Botta reivindica las comunidades locales en 'Betânia', su ópera prima",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/marcelo-botta-reivindica-las-comunidades-locales-en-betania-su-opera-prima/",
+        "date": "2025-01-14 01:48:18",
+        "sentiment_score": 0.11617656797170639
+    },
+    {
+        "title": "El Gobierno crea un comisionado especial para reconstruir y reparar los daños de la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/el-gobierno-crea-un-comisionado-especial-para-reconstruir-y-reparar-los-danos-de-la-dana/",
+        "date": "2025-01-14 01:48:06",
+        "sentiment_score": -0.07472167909145355
+    },
+    {
+        "title": "Carlos Verdejo mantiene el acta como diputado de Vox en Ceuta y acusa a su presidente de boicotearle",
+        "image_url": "https://www.infobae.com/resizer/v2/DWEFO66W7JGLBJXVOI5NVELAMU.jpg?auth=ff1f502db8d6e081ee973d16a710b21ca202f6dfa31ef57ddcf0960254e3e537&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/carlos-verdejo-mantiene-el-acta-como-diputado-de-vox-en-ceuta-y-acusa-a-su-presidente-de-boicotearle/",
+        "date": "2025-01-14 01:33:01",
+        "sentiment_score": -0.8563071293756366
+    },
+    {
+        "title": "Ayuso rechaza entrar a hablar de errores e insiste en que ella está centrada en \"ayudar\" a Valencia",
+        "image_url": "https://www.infobae.com/resizer/v2/Z5VAK4F4CJHMPIAACXHUY3ODWQ.jpg?auth=5c0b665c2f20585970b4687424148aa2124f805af4fe7cb33a14a1c6de5dc3bb&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/ayuso-rechaza-entrar-a-hablar-de-errores-e-insiste-en-que-ella-esta-centrada-en-ayudar-a-valencia/",
+        "date": "2025-01-14 01:18:16",
+        "sentiment_score": -0.7940443847328424
+    },
+    {
+        "title": "El PP dice que Mazón ha \"asumido errores\" mientras que Sánchez no ha hecho \"autocrítica\" y ha \"actuado mal y de mala fe\"",
+        "image_url": "https://www.infobae.com/resizer/v2/FDIXWKHUGRCQRFXXGTAWXSMS2A.jpg?auth=1ee954831f1c56b1a950886689e5e9014462b6cac3644b09c901c8f3a3b82b40&height=1319&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/el-pp-dice-que-mazon-ha-asumido-errores-mientras-que-sanchez-no-ha-hecho-autocritica-y-ha-actuado-mal-y-de-mala-fe/",
+        "date": "2025-01-14 01:17:50",
+        "sentiment_score": -0.8965560924261808
+    },
+    {
+        "title": "Analista político Juan Carlos Hidalgo se lanza a la presidencia en Costa Rica",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/juan-carlos-hidalgo-dialogando-con-partidarios-del-pusc-1-2034x2048-1.jpeg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analista-politico-a-precandidato-presidencial-de-costa-rica-perspectivas-tv/",
+        "date": "2025-01-14 02:10:45",
+        "sentiment_score": -0.019617140293121338
+    },
+    {
+        "title": "Los volcanes Popocatépetl e Iztaccíhuatl regalan hermosas imágenes invernales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/postales-invernales-popocatepetl-iztaccihuatl-fotos-viral-perspectivas-mexico-tv/",
+        "date": "2025-01-14 01:04:08",
+        "sentiment_score": 0.0849856436252594
+    },
+    {
+        "title": "La red social TikTok, cerca de ser prohibida en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2192576107.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-tiktok-cerca-prohibida-perspectivas-mexico-tv-fast/",
+        "date": "2025-01-14 00:26:39",
+        "sentiment_score": -0.2971481680870056
+    },
+    {
+        "title": "Maduro advierte que Venezuela se prepara por si tienen que “tomar las armas para defender el derecho a la paz”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-armas-paz-dusa-tv-fast/",
+        "date": "2025-01-14 00:07:43",
+        "sentiment_score": -0.5920485705137253
+    },
+    {
+        "title": "“¿Es esta zona adecuada para los seres humanos?”: los gazatíes opinan sobre el “inminente” acuerdo de alto el fuego",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/habitantes-gaza-cese-fuego-hamas-israel-guerra-trax/",
+        "date": "2025-01-13 23:45:04",
+        "sentiment_score": 0.05600886046886444
+    },
+    {
+        "title": "Rescatan a un caballo del techo tras inundaciones de Sao Paulo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/06604303-85990615-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/caballo-rescate-techo-inundaciones-brasil-orix/",
+        "date": "2025-01-13 22:20:08",
+        "sentiment_score": -0.8107156082987785
+    },
+    {
+        "title": "Impotencia: cómo enderezar la situación más allá de la pastilla azul",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/01/09/disfuncion-erectil-RooDXzW6Ax9kic0kTIejsmI-1200x840@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/impotencia-enderezar-situacion-alla-pastilla-azul-20250109162553-nt.html",
+        "date": "2025-01-14 01:36:20",
+        "sentiment_score": -0.17953680455684662
+    },
+    {
+        "title": "James Rodríguez es nuevo jugador del León de México y jugará el Mundial de Clubes",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/56d96e4/2147483647/strip/true/crop/4487x2356+0+318/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Feb%2F72%2F6f21b99a038b62d870789dac5ab8%2Ff934fbc53c144f77a6bd5cc01fdea99f",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-01-13/james-rodriguez-es-nuevo-jugador-del-leon-de-mexico-y-jugara-el-mundial-de-clubes",
+        "date": "2025-01-14 02:09:51",
+        "sentiment_score": 0.30864106491208076
+    },
+    {
+        "title": "Efraín Juárez, técnico de Nacional, habló de la llegada de James Rodríguez al León de México: “Me parece para aplaudir”",
+        "image_url": "https://www.infobae.com/resizer/v2/TMBH33S425D5BNLKMX7AR6GOJA.png?auth=60e3ef0866b66ffd57c6061063fdbbfff624884aa447442aa548abf9d5bad910&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/14/efrain-juarez-tecnico-de-nacional-hablo-de-la-llegada-de-james-rodriguez-al-leon-de-mexico-me-parece-para-aplaudir/",
+        "date": "2025-01-14 02:04:58",
+        "sentiment_score": 0.8628569040447474
+    },
+    {
+        "title": "Giro en la vida de Adriana Abascal: La ex de Villalonga se une a Enmanuele de Saboya",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2025-01-13-a-las-160744_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/giro-vida-adriana-abascal-modelo-ex-villalonga-se-une-enmanuele-saboya",
+        "date": "2025-01-14 02:00:00",
+        "sentiment_score": -0.0373796671628952
+    },
+    {
+        "title": "Este es el León FC, el nuevo equipo de James Rodríguez: lleva poco más de 10 años en primera división",
+        "image_url": "https://www.infobae.com/resizer/v2/XHRPALZN75GKHHRYNZQH7KHBBA.png?auth=a74fb70174b7b5e6919f64ec003be6647ac370eb7b25d3e7a28a6967d6c12e8f&height=560&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/14/este-es-el-leon-fc-el-nuevo-equipo-de-james-rodriguez-lleva-poco-mas-de-10-anos-en-primera-division/",
+        "date": "2025-01-14 01:19:19",
+        "sentiment_score": 0.0883842445909977
+    },
+    {
+        "title": "Esta sería la fecha del debut de James Rodríguez con el León en la Liga MX: comenzaría en condición de local",
+        "image_url": "https://www.infobae.com/resizer/v2/YHMZJT3HPRGULHKKOLZ2N3OTLY.jpg?auth=e75bc13c3bb55048e7035299ea7756dfb97422db11a9c5349f8a6e3ff2f0c285&height=2157&smart=true&width=3241",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/14/esta-seria-la-fecha-del-debut-de-james-rodriguez-con-el-leon-en-la-liga-mx-comenzaria-en-condicion-de-local/",
+        "date": "2025-01-14 01:07:12",
+        "sentiment_score": 0.23836413398385048
+    },
+    {
+        "title": "Así ha cambiado la vida de Dani Molina, campeón paralímpico de triatlón: \"Llegué a pesar 100 kilos cuando no podía moverme, ahora estoy en 66 y me cuesta engordar de la actividad\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/dd9c8ff272307adc7c74502cbcdd7767/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/10/17364902219495.jpg",
+        "tags": [
+            "artículos cristina galafate",
+            "bienestar",
+            "deportes",
+            "estilo de vida"
+        ],
+        "link": "https://www.elmundo.es/vida-sana/cuerpo/2025/01/14/6780bf2421efa06e148b4572.html",
+        "date": "2025-01-14 01:00:58",
+        "sentiment_score": -0.7869464214891195
+    },
+    {
+        "title": "Arrom, la marca española que ha conquistado a Dabiz Muñoz, Rafa Zafra o los hermanos Torres con su atún rojo.... congelado a -60 grados",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/3752801a07683b2ce57053978244b153/crop/130x162/2563x1784/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/07/17362588767061.jpg",
+        "tags": [
+            "gastronomía"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/01/14/677d3604fdddff21338b4579.html",
+        "date": "2025-01-14 01:00:00",
+        "sentiment_score": 0.6051437184214592
+    },
+    {
+        "title": "Así acomodarán a James Rodríguez en León de México: primera prueba de fuego con el técnico Eduardo Berizzo",
+        "image_url": "https://www.infobae.com/resizer/v2/RKTLCDPMXRECBPQAZGUAKXJVT4.jpg?auth=9a70558ba7e935e218db5949ad417f8ae8bec15d74d74a99c9b9f317166c5096&height=860&smart=true&width=1450",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/14/asi-acomodaran-a-james-rodriguez-en-leon-de-mexico-primera-prueba-de-fuego-con-el-tecnico-eduardo-berizzo/",
+        "date": "2025-01-14 00:56:33",
+        "sentiment_score": -0.25001978501677513
+    },
+    {
+        "title": "Las 10 explicaciones que Laporta debe dar a los socios del Barça: el caso Olmo y mucho más",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/14/culemania/palco/916418350_13972934_1706x960.jpg?contentId=ESPIMA20250114_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250114/las-explicaciones-laporta-socios-barca-olmo-mucho/916408351_0.html",
+        "date": "2025-01-14 00:48:01",
+        "sentiment_score": -0.14916351437568665
+    },
+    {
+        "title": "La nueva era de Heura más allá de la carne vegetal: la 'foodtech' estrena laboratorio y sede con seis patentes sobre la mesa",
+        "image_url": "https://s1.elespanol.com/2025/01/13/invertia/disruptores/ecosistema-startup/startups/916169075_252298427_1706x960.jpg?contentId=ESPIMA20250113_0701",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250114/nueva-heura-alla-carne-vegetal-foodtech-estrena-laboratorio-sede-patentes-mesa/916158614_0.html",
+        "date": "2025-01-14 01:24:15",
+        "sentiment_score": 0.5754992850124836
+    },
+    {
+        "title": "El efecto oculto de liberalizar el tren: ciudades medianas como Elche y Cuenca multiplican su oferta y reducen precios",
+        "image_url": "https://s1.elespanol.com/2023/04/01/alicante/economia/752935003_232132439_1706x960.jpg?contentId=ESPIMA20230401_0304",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20250114/efecto-oculto-liberalizar-tren-ciudades-medianas-elche-cuenca-multiplican-oferta-reducen-precios/916158669_0.html",
+        "date": "2025-01-14 01:16:03",
+        "sentiment_score": -0.42338835448026657
+    },
+    {
+        "title": "El PP advierte de un posible fraude fiscal de 163 millones en material anticovid comprado por Sanidad y libre de IVA",
+        "image_url": "https://www.infobae.com/resizer/v2/APMO7NP3GFBZ7FJKPROARTEPZI.jpg?auth=1a08fc7a95964ac31a74b067fc7ccbaf1bb8b708e8fc2be8f5f7b48229fa8cc1&height=1343&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/el-pp-advierte-de-un-posible-fraude-fiscal-de-163-millones-en-material-anticovid-comprado-por-sanidad-y-libre-de-iva/",
+        "date": "2025-01-14 01:03:02",
+        "sentiment_score": -0.7293619085103273
+    },
+    {
+        "title": "Continente y contenido",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250114/continente-contenido_260550.html",
+        "date": "2025-01-14 00:30:00",
+        "sentiment_score": -0.04084107279777527
+    },
+    {
+        "title": "Juanfran, en El Partidazo de COPE: \"Simeone me quería matar porque yo soy muy positivo y así era en la prensa\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/14/6785abe93904b.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanfran-partidazo-cope-simeone-me-queria-matar-positivo-asi-prensa-20250114_3076325.html",
+        "date": "2025-01-14 00:19:53",
+        "sentiment_score": 0.11295661330223083
+    },
+    {
+        "title": "El aeropuerto de Barcelona-El Prat bate su récord de pasajeros: 55 millones en 2024",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/18/vida/871422930_13243176_1706x960.jpg?contentId=ESPIMA20240718_0081",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250114/el-aeropuerto-de-barcelona-el-prat-pasajeros-millones/916408352_0.html",
+        "date": "2025-01-14 00:08:58",
+        "sentiment_score": 0.3548584431409836
+    },
+    {
+        "title": "Falleció Vicente Vega leyenda de la Vinotinto",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/01/Fallecio-Vicente-Vega-leyenda-de-la-Vinotinto-13-ene-elorientaldemonagas.comk_-1024x477.gif",
+        "tags": [
+            "maturín",
+            "venezuela",
+            "deportes",
+            "monagas"
+        ],
+        "link": "https://elorientaldemonagas.com/fallecio-vicente-vega-leyenda-de-la-vinotinto/",
+        "date": "2025-01-14 00:00:00",
+        "sentiment_score": -0.5938687101006508
     }
 ];
