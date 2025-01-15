@@ -1,230 +1,5 @@
 export default [
     {
-        "title": "El PP articula su alternativa de vivienda durante el retiro de Feijóo con sus barones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/11/el-pp-articula-su-alternativa-de-vivienda-durante-el-retiro-de-feijoo-con-sus-barones/",
-        "date": "2025-01-11 06:15:37",
-        "sentiment_score": -0.0975509062409401
-    },
-    {
-        "title": "Un único reparto de 4.000 menores: el último intento de aliviar el colapso de Canarias",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/11/un-unico-reparto-de-4000-menores-el-ultimo-intento-de-aliviar-el-colapso-de-canarias/",
-        "date": "2025-01-11 06:15:20",
-        "sentiment_score": -0.2422056943178177
-    },
-    {
-        "title": "Draco Rosa anuncia la gira 'Sueños Peligrosos Tour 2025' por Latinoamérica, EEUU y España",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/18/draco-rosa-anuncia-la-gira-suenos-peligrosos-tour-2025-por-latinoamerica-eeuu-y-espana/",
-        "date": "2025-01-11 05:49:18",
-        "sentiment_score": 0.05150719732046127
-    },
-    {
-        "title": "Presidente de Generalitat de Valencia nombra a Marián Cano nueva consellera de Turismo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/presidente-de-generalitat-de-valencia-nombra-a-marian-cano-nueva-consellera-de-turismo/",
-        "date": "2025-01-11 05:48:40",
-        "sentiment_score": 0.5155233033001423
-    },
-    {
-        "title": "Alcaraz no se estrenará en la pista central Rod Laver Arena",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/11/alcaraz-no-se-estrenara-en-la-pista-central-rod-laver-arena/",
-        "date": "2025-01-11 05:46:10",
-        "sentiment_score": -0.4841381758451462
-    },
-    {
-        "title": "Los reyes despiden este sábado a la princesa Leonor, que zarpa en el Juan Sebastián Elcano",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/11/los-reyes-despiden-este-sabado-a-la-princesa-leonor-que-zarpa-en-el-juan-sebastian-elcano/",
-        "date": "2025-01-11 05:45:52",
-        "sentiment_score": -0.8286377266049385
-    },
-    {
-        "title": "Scariolo: “Tenemos que asegurar la clasificación\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/scariolo-tenemos-que-asegurar-la-clasificacion/",
-        "date": "2025-01-11 05:34:07",
-        "sentiment_score": 0.7528386618942022
-    },
-    {
-        "title": "Alcaraz, a completar el Grand Slam con el reto de imponerse al incontestable Sinner",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/11/alcaraz-a-completar-el-grand-slam-con-el-reto-de-imponerse-al-incontestable-sinner/",
-        "date": "2025-01-11 05:31:10",
-        "sentiment_score": 0.3661053329706192
-    },
-    {
-        "title": "Sánchez busca desbloquear con Von der Leyen el nombramiento de Ribera en la Comisión",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/18/sanchez-busca-desbloquear-con-von-der-leyen-el-nombramiento-de-ribera-en-la-comision/",
-        "date": "2025-01-11 05:19:29",
-        "sentiment_score": -0.0007613301277160645
-    },
-    {
-        "title": "Osasuna busca otra campanada",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d1812697-d931-4701-9add-24315ff4e213_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/01/11/osasuna-busca-campanada-9144092.html",
-        "date": "2025-01-11 06:28:06",
-        "sentiment_score": 0.6887051686644554
-    },
-    {
-        "title": "Crònica sentimental d’una derrota",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7d0f36b3-68bd-4b6b-842c-a0935403cadb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/postdata/2025/01/11/cronica-sentimental-d-derrota-113285059.html",
-        "date": "2025-01-11 06:01:03",
-        "sentiment_score": -0.29615573585033417
-    },
-    {
-        "title": "El día en que Mario Casas salió en defensa de su expareja, Berta Vázquez, debido a las críticas a su físico: “Bella”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2016/12/12/5fa3003bdd3a4.jpeg",
-        "tags": [
-            "protagonistas"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/protagonistas/20250111/10261596/dia-mario-casas-salio-defensa-expareja-berta-vazquez-debido-criticas-fisico-bella-gvm2.html",
-        "date": "2025-01-11 06:00:00",
-        "sentiment_score": 0.40382829308509827
-    },
-    {
-        "title": "Real Madrid - Barcelona: el clásico en la final de la Supercopa de España se podrá ver por menos de lo que te imaginas",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/10/27/671df244d8060.jpeg",
-        "tags": [
-            "elrecomendador"
-        ],
-        "link": "https://www.mundodeportivo.com/elrecomendador/20250111/1002383736/real-madrid-barcelona-clasico-final-supercopa-espana-podra-ver-te-imaginas.html",
-        "date": "2025-01-11 06:00:00",
-        "sentiment_score": 0.4652458280324936
-    },
-    {
-        "title": "Jordi Sánchez (Bayer): \"Si pusiéramos en fila todas las aspirinas que fabricamos viajaríamos tres veces a la Luna\"",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/9/8/0/JordiSanchezBayer.jpg",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://www.eleconomista.es/salud/noticias/13166096/01/25/jordi-sanchez-bayer-si-pusieramos-en-fila-todas-las-aspirinas-que-fabricamos-viajariamos-tres-veces-a-la-luna.html",
-        "date": "2025-01-11 06:00:00",
-        "sentiment_score": -0.1586933434009552
-    },
-    {
-        "title": "Rafael Olmos (Zummo): «España es la despensa de Europa y por eso se invierte tanto en agroalimentación»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/56dc84f7-3c07-44ad-9ec4-b2557b6b44dd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/economia/2025/01/11/olmos-zummo-despensa-inversiones-agroalimentacion-113282813.html",
-        "date": "2025-01-11 06:01:24",
-        "sentiment_score": 0.026969656348228455
-    },
-    {
-        "title": "Vithas Xanit Internacional incorpora al Dr. Antonio Rueda, referente en oncología",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ecc80b52-9260-43a0-b610-0fb7745a03fe_16-9-aspect-ratio_default_0_x789y649.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/economia/empresas-malaga/2025/01/11/vithas-xanit-internacional-incorpora-dr-113286575.html",
-        "date": "2025-01-11 06:01:05",
-        "sentiment_score": 0.5555456504225731
-    },
-    {
-        "title": "Tres libros y un documental regresan a la Barcelona de los 80: diseño y heroína, desencanto político y envidia pop de Madrid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cultura-pop/20250111/libros-juan-trejo-julia-guillamon-mar-padilla-barcelona-anos-80-documental-los-negativos-113263308",
-        "date": "2025-01-11 06:00:40",
-        "sentiment_score": -0.1991364061832428
-    },
-    {
-        "title": "Espanyol – Leganés: Batalla por la permanencia en el RCDE Stadium",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/01/espanyol-leganes-cartel-750x375.jpg",
-        "tags": [
-            "leganés",
-            "laliga ea sports",
-            "previa",
-            "jornada 19",
-            "actualidad",
-            "espanyol"
-        ],
-        "link": "https://lagradaonline.com/espanyol-leganes-previa-jornada-19-laliga-ea-sports-24-25/",
-        "date": "2025-01-11 06:00:36",
-        "sentiment_score": -0.019444748759269714
-    },
-    {
-        "title": "Crónica de Buenos Aires: la ciudad con el segundo Big Mac más caro del mundo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/494217d1-0435-4948-b330-64b98d9314a3_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.elperiodico.com/es/internacional/20250111/cronica-buenos-aires-ciudad-segundo-113222536",
-        "date": "2025-01-11 06:00:35",
-        "sentiment_score": -0.4397127330303192
-    },
-    {
-        "title": "El superalimento que previene la diabetes, protege el corazón y regula el apetito",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/09/una-persona-fotografia-los-alimentos-de-un-desayuno-copioso.jpeg",
-        "tags": [
-            "nutrición"
-        ],
-        "link": "https://www.20minutos.es/salud/nutricion/superalimento-cacao-previene-diabetes-protege-corazon-regula-apetito-5122829/",
-        "date": "2025-01-11 06:00:06",
-        "sentiment_score": 0.36278533190488815
-    },
-    {
-        "title": "Maldivas más allá del todo incluido",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/22/664e16575eda3.r_d.422-436-4590.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/viajes/20250111/10267999/nueva-cara-turismo-maldivas-mas-alla-todo-incluido.html",
-        "date": "2025-01-11 06:00:00",
-        "sentiment_score": 0.6536543555557728
-    },
-    {
-        "title": "La reforma exprés de Sánchez contra la acción penal afectará de lleno a víctimas del terrorismo y a la prensa",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/06/19/6672ff8dae5ae.r_d.558-516.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20250111/reforma-expres-sanchez-contra-accion-penal-afectara-lleno-victimas-terrorismo-prensa_260060.html",
-        "date": "2025-01-11 05:58:02",
-        "sentiment_score": -0.5412788540124893
-    },
-    {
         "title": "¿Pueden echarte del trabajo si te retiran el carnet de conducir?",
         "image_url": "https://www.infobae.com/resizer/v2/BIXWA6FNTFGNBAT7IB3HLGCBDY.jpg?auth=705981ca78d0f241bf323275754cd238116e2134464fe19ce2ae43cbd49b2213&height=3550&smart=true&width=4788",
         "tags": [
@@ -6129,5 +5904,369 @@ export default [
         "link": "https://www.laopiniondemalaga.es/salud/guia/2025/01/14/descubren-china-nuevo-virus-peligroso-humanos-113391118.html",
         "date": "2025-01-14 17:07:09",
         "sentiment_score": -0.3232700526714325
+    },
+    {
+        "title": "Buruaga abre alfombra roja a la inversión en Cantabria en el Banco Santander de México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/buruaga-abre-alfombra-roja-a-la-inversion-en-cantabria-en-el-banco-santander-de-mexico/",
+        "date": "2025-01-14 22:03:53",
+        "sentiment_score": 0.3478863686323166
+    },
+    {
+        "title": "0-2. El Valencia acaba con el sueño copero del Ourense",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/0-2-el-valencia-acaba-con-el-sueno-copero-del-ourense/",
+        "date": "2025-01-14 22:03:35",
+        "sentiment_score": -0.6848743334412575
+    },
+    {
+        "title": "Investigan el tiroteo en una casa de Vallecas como un ajuste de cuentas por drogas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/investigan-el-tiroteo-en-una-casa-de-vallecas-como-un-ajuste-de-cuentas-por-drogas/",
+        "date": "2025-01-14 22:02:58",
+        "sentiment_score": -0.7365421336144209
+    },
+    {
+        "title": "Felipe VI pide \"mantener la ayuda y apoyo\" a afectados por la dana en su visita a Chiva y Utiel",
+        "image_url": "https://www.infobae.com/resizer/v2/3OP7YIBIHVGIBM2OH55U62DGH4.jpg?auth=b899d68ab9d4c1d327feb673039de392a9ee79a8ca930ddaa1f7d7a7b3f4f36d&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/felipe-vi-pide-mantener-la-ayuda-y-apoyo-a-afectados-por-la-dana-en-su-visita-a-chiva-y-utiel/",
+        "date": "2025-01-14 22:02:53",
+        "sentiment_score": -0.11265133321285248
+    },
+    {
+        "title": "Estos son los resultados ganadores del sorteo de Euromillones del 14 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/QRGLWUIZQ5BY3OLTSQDKG7WL3M.jpg?auth=2a1c41611a83e1129cac7be8215c05f36d9c0d4cba6a2257794397194883795c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/14/estos-son-los-resultados-ganadores-del-sorteo-de-euromillones-del-14-de-enero/",
+        "date": "2025-01-14 22:00:57",
+        "sentiment_score": 0.048724688589572906
+    },
+    {
+        "title": "3-2. Soler inicia la reacción del nuevo West Ham",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/3-2-soler-inicia-la-reaccion-del-nuevo-west-ham/",
+        "date": "2025-01-14 21:48:22",
+        "sentiment_score": 0.17159783095121384
+    },
+    {
+        "title": "Álvaro Romero rescinde con el Tenerife tras jugar diez partidos oficiales en año y medio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/alvaro-romero-rescinde-con-el-tenerife-tras-jugar-diez-partidos-oficiales-en-ano-y-medio/",
+        "date": "2025-01-14 21:48:05",
+        "sentiment_score": 0.07393310964107513
+    },
+    {
+        "title": "Jugada ganadora y resultado del último sorteo de Eurojackpot",
+        "image_url": "https://www.infobae.com/resizer/v2/WDA47RRXR5CKLNJSQROO5C57DM.jpg?auth=f55e735d7e217dfcf90bb101e421a9334e37a24de37e38fc869fc71040323ecf&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/14/jugada-ganadora-y-resultado-del-ultimo-sorteo-de-eurojackpot/",
+        "date": "2025-01-14 21:47:37",
+        "sentiment_score": 0.05954809859395027
+    },
+    {
+        "title": "La Universidad de Cantabria elige a una catedrática de Empresas como su primera rectora",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/la-universidad-de-cantabria-elige-a-una-catedratica-de-empresas-como-su-primera-rectora/",
+        "date": "2025-01-14 21:32:05",
+        "sentiment_score": 0.31157223135232925
+    },
+    {
+        "title": "Puigdemont exige que el catalán sea oficial en la UE más allá de su uso en la Eurocámara",
+        "image_url": "https://www.infobae.com/resizer/v2/X3WHQPDKNFA6VNPTMM4UG57KKA.jpg?auth=2360f0a799cfc916d28550cc156dfcd2fc9e395e2f1bc9970420950fc5e3dd84&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/puigdemont-exige-que-el-catalan-sea-oficial-en-la-ue-mas-alla-de-su-uso-en-la-eurocamara/",
+        "date": "2025-01-14 21:30:17",
+        "sentiment_score": -0.20571115612983704
+    },
+    {
+        "title": "Evo Morales no se presentó a audiencia; juez la reprograma para el 17 de enero",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2189996549.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/evo-morales-no-se-presenta-audiencia-bolivia-redaccion-buenos-aires-tv-fast/",
+        "date": "2025-01-14 20:17:47",
+        "sentiment_score": -0.7753269309177995
+    },
+    {
+        "title": "Los 5 cafés más populares del mundo, según TasteAtlas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1151551789.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/5-cafe-populares-del-mundo-redaccion-buenos-aires-tv/",
+        "date": "2025-01-14 20:17:25",
+        "sentiment_score": 0.04401340335607529
+    },
+    {
+        "title": "¿Qué política monetaria adoptará la Reserva Federal en 2025?, un experto lo analiza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2165544300-20250114200845733.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-economia-analisis-2025-reserva-federal-globoeconomia-tv/",
+        "date": "2025-01-14 20:11:49",
+        "sentiment_score": 0.014298900961875916
+    },
+    {
+        "title": "Así se vio alrededor del mundo la “luna del lobo”, la primera luna llena del año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/luna-llena-del-lobo-enero-orix/",
+        "date": "2025-01-14 18:03:15",
+        "sentiment_score": 0.053627073764801025
+    },
+    {
+        "title": "Cuba anuncia la liberación de 553 presos tras la intermediación del Vaticano",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/14/diaz-canel-k7ME-U70109472631Nc-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/cuba-anuncia-liberacion-553-presos-tras-intermediacion-20250114223220-nt.html",
+        "date": "2025-01-14 21:57:00",
+        "sentiment_score": -0.2524433732032776
+    },
+    {
+        "title": "Empieza la operación policial para detener en su residencia al presidente de Corea del Sur destituido por declarar la ley marcial",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/14/policia-corea_sur-kEME-U70109457826tbD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/autoridades-surcoreanas-despliegan-residencia-yoon-suk-yeol-20250114224101-nt.html",
+        "date": "2025-01-14 21:49:44",
+        "sentiment_score": -0.4124596565961838
+    },
+    {
+        "title": "El Gobierno asegura que más de 47.600 millones de fondos del Plan de Recuperación ya han llegado a la economía real",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/14/montero-cuerpo-kUPD-U701092724127WH-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-asegura-47600-millones-fondos-plan-recuperacion-20250114221558-nt.html",
+        "date": "2025-01-14 21:15:59",
+        "sentiment_score": -0.018323004245758057
+    },
+    {
+        "title": "Brutal paliza homófoba de unos niños de 14 años junto a la iglesia de San Luis de Sevilla: «¿Sois maricones?»",
+        "image_url": "https://cdn.mnmstatic.net/cache/3d/50/media_thumb-link-4018402.webp",
+        "tags": [
+            "actualidad",
+            "lgtbiq+",
+            "homofobia",
+            "paliza",
+            "sevilla"
+        ],
+        "link": "https://www.meneame.net/story/brutal-paliza-homofoba-unos-ninos-14-anos-junto-iglesia-san-luis",
+        "date": "2025-01-14 21:00:06",
+        "sentiment_score": -0.6939931847155094
+    },
+    {
+        "title": "La inflación argentina sigue en caída libre y Milei celebra los resultados de su receta económica",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/14/milei-k4ZC-U70109235161HB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/inflacion-argentina-sigue-caida-libre-milei-celebra-20250114213215-nt.html",
+        "date": "2025-01-14 20:43:37",
+        "sentiment_score": -0.02999815344810486
+    },
+    {
+        "title": "Julio César",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/01/10/empleada5-U30882501870NEJ-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-diaz-julio-cesar-20250115212740-nts.html",
+        "date": "2025-01-14 20:27:41",
+        "sentiment_score": -0.13520868122577667
+    },
+    {
+        "title": "El hijo el presidente Petro será juzgado por corrupción",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/14/nicolas-RWhdbPoED4ah0YR9T5UQxNN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/hijo-presidente-petro-juzgado-corrupcion-20250114203716-nt.html",
+        "date": "2025-01-14 19:44:12",
+        "sentiment_score": -0.19140157103538513
+    },
+    {
+        "title": "Humillados y ofendidos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/15/AdobeStock_982204217-RExqmiybyFkQR3YKyzMzjXI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-benitez-burraco-humillados-ofendidos-20250115141740-nts.html",
+        "date": "2025-01-14 19:34:13",
+        "sentiment_score": -0.19066780805587769
+    },
+    {
+        "title": "Sánchez y la ultraderecha",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/12/amath1-kX9H--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/miguel-angel-robles-sanchez-ultraderecha-20250115125441-nts.html",
+        "date": "2025-01-14 19:33:45",
+        "sentiment_score": -0.23010951280593872
+    },
+    {
+        "title": "Algo habremos hecho",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2025/01/10/discapacidad--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/yolanda-vallejo-algo-habremos-hecho-20250115000419-nts.html",
+        "date": "2025-01-14 19:32:34",
+        "sentiment_score": -0.15261484682559967
+    },
+    {
+        "title": "Un herido grave por un disparo en la cabeza en una casa de Villa de Vallecas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VRADX62QRBFZBFIJTAI6YX7MYM.jpg?auth=6f0db29cfaccacec20d6428fea4619830c2a34c404e18e0cecd7e0ed443ef357",
+        "tags": [
+            "comunidad de madrid",
+            "investigación policial",
+            "sucesos",
+            "armas de fuego",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-01-14/un-herido-grave-por-un-disparo-en-la-cabeza-en-una-casa-de-villa-de-vallecas.html",
+        "date": "2025-01-14 20:31:37",
+        "sentiment_score": -0.7448084708303213
+    },
+    {
+        "title": "Aprobada la ayuda del Consell de 2.000 euros por coches siniestrados en la dana, que se pagará a partir de la próxima semana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MBLKLY2QAVGNJNHJIPJ3SJEVXM.jpg?auth=3e62a0d87abd151d88cfd72b54e090927f7f9e1e38ca9ab4afb5f67b1503c014&width=1200",
+        "tags": [
+            "generalitat valenciana",
+            "vehículos abandonados",
+            "dana",
+            "inundaciones dana octubre 2024",
+            "carlos mazón",
+            "inundaciones",
+            "vehículos",
+            "comunidad valenciana",
+            "vehículos arrollados"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-14/aprobada-la-ayuda-del-consell-de-2000-euros-por-coches-siniestrados-en-la-dana-que-se-pagara-a-partir-de-la-proxima-semana.html",
+        "date": "2025-01-14 18:51:10",
+        "sentiment_score": 0.07074713706970215
+    },
+    {
+        "title": "Madres solteras acusan a Educación de negarles la ampliación del permiso de maternidad en la Comunidad Valenciana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JCKLQHBSXFB5RCJ74HC56XLHNU.JPG?auth=cf1c61acd3c7b3ec5c67b7e9333f523f50dcb26a9dbd257eaeaba207021cdfda&width=1200",
+        "tags": [
+            "familia",
+            "maternidad",
+            "generalitat valenciana",
+            "familia monoparental",
+            "madres solteras",
+            "carlos mazón",
+            "ppcv",
+            "sociedad",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-14/madres-solteras-acusan-a-educacion-de-negarles-la-ampliacion-del-permiso-de-maternidad-en-la-comunidad-valenciana.html",
+        "date": "2025-01-14 18:27:05",
+        "sentiment_score": -0.8798418091610074
+    },
+    {
+        "title": "El fracaso en la Supercopa activa al Real Madrid en el mercado: fichaje de emergencia",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/22/culemania/real-madrid/910668967_13903737_1706x960.jpg?contentId=ESPIMA20241222_0043",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20250114/el-fracaso-en-supercopa-real-madrid-emergencia/916408462_0.html",
+        "date": "2025-01-14 22:12:05",
+        "sentiment_score": 0.018759876489639282
+    },
+    {
+        "title": "No es James Rodríguez: cuál ha sido el fichaje más caro en la historia del futbol mexicano",
+        "image_url": "https://www.infobae.com/resizer/v2/W4YI4NJ23BG23C4K2H4QPTP6S4.jpg?auth=81fc4458f42134bfd0184317b651978a80b2e3efb9a7c838fc46057df5676929&height=656&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/01/14/no-es-james-rodriguez-cual-ha-sido-el-fichaje-mas-caro-en-la-historia-del-futbol-mexicano/",
+        "date": "2025-01-14 21:56:00",
+        "sentiment_score": 0.3666554279625416
+    },
+    {
+        "title": "Laporta pasa de hacer autocrítica: atiza a prensa y oposición en un discurso reiterativo y victimista",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/14/culemania/palco/916418504_13977558_1706x960.png?contentId=ESPIMA20250114_0155",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250114/laporta-autocritica-prensa-oposicion-discurso-reiterativo-victimista/916408392_0.html",
+        "date": "2025-01-14 21:51:36",
+        "sentiment_score": -0.44945209473371506
+    },
+    {
+        "title": "El Real Madrid ata la llegada de Xabi Alonso para el próximo verano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d44b3491-ccad-4860-8154-e7cc9d66a868_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "xabi alonso,real madrid,bayer leverkusen"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/01/14/real-madrid-ata-llegada-xabi-113397419.html",
+        "date": "2025-01-14 21:47:16",
+        "sentiment_score": -0.14646847546100616
+    },
+    {
+        "title": "Le llegó competencia a Jhon Jader Durán: Aston Villa contrató a un temible delantero que viene del Borussia Dortmund",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/14/le-llego-competencia-a-jhon-jader-duran-aston-villa-contrato-a-un-temible-delantero-que-viene-del-borussia-dortmund/",
+        "date": "2025-01-14 22:09:29",
+        "sentiment_score": 0.7578227538615465
+    },
+    {
+        "title": "El Valencia entra en los cuartos y aparca la Copa hasta febrero (0-2)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3c65a616-411d-43c3-9093-17b2a32360ba_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia cf,valencia,var,copa del rey,ourense cf,umar sadiq"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/14/ourense-valencia-video-goles-copa-113397640.html",
+        "date": "2025-01-14 22:09:12",
+        "sentiment_score": 0.07510972023010254
+    },
+    {
+        "title": "Nova gent: el gos (1982)",
+        "image_url": "https://static1.ara.cat/clip/f23c73d1-663c-41af-9137-db5b1c560f0a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/nova-gent-gos-1982_1_5253946.html",
+        "date": "2025-01-14 22:00:31",
+        "sentiment_score": -0.3194574862718582
     }
 ];
