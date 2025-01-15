@@ -100,16 +100,6 @@ export default [
         "sentiment_score": -0.7749526724219322
     },
     {
-        "title": "Cámara corporal de la Policía de Jacksonville muestra el rescate de un gatito en medio de una autopista transitada.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/camara-corporal-gato-orix-00-00-30-17-still001.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/policia-jacksonville-rescate-gatito-orix/",
-        "date": "2025-01-11 10:34:55",
-        "sentiment_score": -0.5491870380938053
-    },
-    {
         "title": "Renfe anuncia una oferta con billetes desde 7 euros a partir del próximo 20 de enero",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/11/RenfeTaniaSieira-RXi62oZgugTlbNXtBNDhdVI-1200x840@diario_abc.JPG",
         "tags": [
@@ -118,16 +108,6 @@ export default [
         "link": "https://www.abc.es/economia/renfe-anuncia-oferta-billetes-euros-partir-proximo-20250111175030-nt.html",
         "date": "2025-01-11 16:51:17",
         "sentiment_score": -0.09805232286453247
-    },
-    {
-        "title": "La America de Donald Trump y la evolución geopolítica",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/08/pescaderia-mercadona-kWqE--170x119@Ideal.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/giuseppe-tringali-america-donald-trump-evolucion-geopolitica-20250111132210-nt.html",
-        "date": "2025-01-11 12:22:43",
-        "sentiment_score": -0.11264154314994812
     },
     {
         "title": "Un menor de edad mata a su padre a puñaladas en plena calle en Palencia",
@@ -226,77 +206,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-01-11/oriol-junqueras-descarta-negociar-con-salvador-illa-los-presupuestos-catalanes-de-este-ano.html",
         "date": "2025-01-11 15:06:03",
         "sentiment_score": -0.7208237797021866
-    },
-    {
-        "title": "Recuperada una pistola que perteneció al presidente de la II República Niceto Alcalá Zamora",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PVWWN37DMZBA7HQXCSGLBV6EG4.jpeg?auth=98e088fd444d671748622b8aef01cf6852292ca70797359454aadf51e56924c8",
-        "tags": [
-            "política",
-            "segunda república española",
-            "país vasco",
-            "españa",
-            "niceto alcalá zamora",
-            "eibar",
-            "francia",
-            "guardia civil"
-        ],
-        "link": "https://elpais.com/espana/2025-01-11/recuperada-una-pistola-que-pertenecio-al-presidente-de-la-ii-republica-niceto-alcala-zamora.html",
-        "date": "2025-01-11 12:48:59",
-        "sentiment_score": -0.39930685237050056
-    },
-    {
-        "title": "ERC, Comuns y CUP piden que Rull active el protocolo contra violencia machista al diputado Dalmases",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LBE2Y7WGPX7GBIDFAGC6EJNDEM.jpg?auth=b0c52efcd142e2aa9d13500d68bdf12cf827f4bb18a8b4027f38e99960504ad6&width=1200",
-        "tags": [
-            "parlamentos autonómicos",
-            "violencia género",
-            "cat en comú",
-            "cup",
-            "josep rull andreu",
-            "erc",
-            "violencia machista",
-            "barcelona",
-            "juntsxcat",
-            "cataluña",
-            "parlament cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-11/erc-comuns-y-cup-piden-que-rull-active-el-protocolo-contra-violencia-machista-al-diputado-dalmases.html",
-        "date": "2025-01-11 11:55:37",
-        "sentiment_score": -0.7750608827918768
-    },
-    {
-        "title": "La partida de Leonor a bordo del Elcano, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EYPBZGAYSCC4YDETWHZ43ASWNI.jpg?auth=a744443281bdc79b473d974d58a295171f948837a1e5826c7243b0f261f19c4b&width=1200",
-        "tags": [
-            "españa",
-            "princesa de asturias",
-            "armada",
-            "leonor de borbón",
-            "juan sebastián elcano",
-            "casa real",
-            "cádiz",
-            "felipe vi",
-            "reina letizia"
-        ],
-        "link": "https://elpais.com/espana/2025-01-11/la-partida-de-leonor-a-bordo-del-elcano-en-imagenes.html",
-        "date": "2025-01-11 11:50:38",
-        "sentiment_score": -0.015066467225551605
-    },
-    {
-        "title": "Netflix responde a Peral que la representación de su hija en ‘El cuerpo en llamas’ es “incidental”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HYVPP5V3GFDFRNANDQZVPYOJBU.jpg?auth=b30a769a4648d2d43b2e0038b868b6d57fb775440ef74b95dded9ed664ce0eb0&width=1200",
-        "tags": [
-            "mossos d'esquadra",
-            "asesinatos",
-            "demandas",
-            "netflix",
-            "series españolas",
-            "guardia urbana",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-11/netflix-responde-a-peral-que-la-representacion-de-su-hija-en-el-cuerpo-en-llamas-es-incidental.html",
-        "date": "2025-01-11 11:18:30",
-        "sentiment_score": -0.7026543561369181
     },
     {
         "title": "El antihéroe del Liverpool encuentra equipo en la Bundesliga 2",
@@ -6268,5 +6177,329 @@ export default [
         "link": "https://www.ara.cat/opinio/nova-gent-gos-1982_1_5253946.html",
         "date": "2025-01-14 22:00:31",
         "sentiment_score": -0.3194574862718582
+    },
+    {
+        "title": "Solaria encabeza las caídas del IBEX al bajar el 7,58 % tras presentar resultados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/solaria-encabeza-las-caidas-del-ibex-al-bajar-el-758-tras-presentar-resultados/",
+        "date": "2025-01-15 02:02:33",
+        "sentiment_score": -0.014247626066207886
+    },
+    {
+        "title": "Sánchez conversa con Biden en su previsible último encuentro antes de la llegada de Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/sanchez-conversa-con-biden-en-su-previsible-ultimo-encuentro-antes-de-la-llegada-de-trump/",
+        "date": "2025-01-15 01:47:55",
+        "sentiment_score": 0.009994536638259888
+    },
+    {
+        "title": "El paquete fiscal abre grietas en la relación del Gobierno con sus socios",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/el-paquete-fiscal-abre-grietas-en-la-relacion-del-gobierno-con-sus-socios/",
+        "date": "2025-01-15 01:47:44",
+        "sentiment_score": -0.3965245932340622
+    },
+    {
+        "title": "Marlaska dice que España evita el 40 % de trayectos de la ruta migratoria Argelia-Baleares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/marlaska-dice-que-espana-evita-el-40-de-trayectos-de-la-ruta-migratoria-argelia-baleares/",
+        "date": "2025-01-15 01:47:31",
+        "sentiment_score": -0.302040234208107
+    },
+    {
+        "title": "Puente admite que las obras en la red ferroviaria de Jaén pueden provocar afecciones: \"Trataremos que sean las mínimas\"",
+        "image_url": "https://www.infobae.com/resizer/v2/ZHQBYB2NAVF6LPJXB6SRSAGFDY.jpg?auth=a000eb797b90574656be7067eb7282b22a6aace3b713a986cf82ac26c4fe0bb6&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/puente-admite-que-las-obras-en-la-red-ferroviaria-de-jaen-pueden-provocar-afecciones-trataremos-que-sean-las-minimas/",
+        "date": "2025-01-15 01:32:30",
+        "sentiment_score": -0.35502467304468155
+    },
+    {
+        "title": "Sánchez mantiene un breve encuentro con Biden en el G20 y celebra bilaterales con los líderes de Vietnam y el FMI",
+        "image_url": "https://www.infobae.com/resizer/v2/JO4ZTVGEQBBJJPY2TCM73MZXCQ.jpg?auth=1d4d79c7feaa8a1e16f1e88e097a980813a59d514d2eb97800c7e8dccfb61df1&height=1277&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/sanchez-mantiene-un-breve-encuentro-con-biden-en-el-g20-y-celebra-bilaterales-con-los-lideres-de-vietnam-y-el-fmi/",
+        "date": "2025-01-15 01:18:00",
+        "sentiment_score": 0.27839117124676704
+    },
+    {
+        "title": "El Gobierno contrapone la \"claridad\" del jefe de la UME a la \"oscuridad en sobremesas\" de Mazón",
+        "image_url": "https://www.infobae.com/resizer/v2/2EWUXDYBVZGVNPXJCJVHQGRQ5A.jpg?auth=f2cf70f2865bd679df00273ca201337cc17fde1cef05b9fcfb030b988a3697ec&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/el-gobierno-contrapone-la-claridad-del-jefe-de-la-ume-a-la-oscuridad-en-sobremesas-de-mazon/",
+        "date": "2025-01-15 01:17:47",
+        "sentiment_score": -0.818187203258276
+    },
+    {
+        "title": "El Foro Latibex 2024 resalta el papel de la Bolsa para canalizar las inversiones de Latinoamérica en España",
+        "image_url": "https://www.infobae.com/resizer/v2/6IPJQH4BOBBDNDA453CT4DU4JI.jpg?auth=fd02bc8cb71cfc389f485a420d3df51699784481b05baba19c7d707c31396d05&height=1318&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/19/el-foro-latibex-2024-resalta-el-papel-de-la-bolsa-para-canalizar-las-inversiones-de-latinoamerica-en-espana/",
+        "date": "2025-01-15 01:02:40",
+        "sentiment_score": 0.581631675362587
+    },
+    {
+        "title": "Los reyes de España visitan pueblos arrasados por la riada y empatizan con los afectados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/19/los-reyes-de-espana-visitan-pueblos-arrasados-por-la-riada-y-empatizan-con-los-afectados/",
+        "date": "2025-01-15 00:48:06",
+        "sentiment_score": 0.27183888852596283
+    },
+    {
+        "title": "‘La Revuelta’ triunfa en los Premios Iris y David Broncano le dedica un galardón a ‘El Hormiguero’: “Tener un rival tan potente y consolidado nos ha hecho jugar mejor”",
+        "image_url": "https://www.infobae.com/resizer/v2/DSNXUCFDBZGP3CODDMYPLEY7KQ.jpg?auth=1635345bbb3bf0cabe0b8c7f060662a615f6c395995fbc730b691f8b05cfab32&height=1152&smart=true&width=1536",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/15/la-revuelta-triunfa-en-los-premios-iris-y-david-broncano-le-dedica-un-galardon-a-el-hormiguero-tener-un-rival-tan-potente-y-consolidado-nos-ha-hecho-jugar-mejor/",
+        "date": "2025-01-15 00:45:15",
+        "sentiment_score": 0.3664359971880913
+    },
+    {
+        "title": "OPINIÓN | Jorge Castañeda: Sheinbaum está de “luna de miel” con su electorado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193006970_9bd1e2.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "méxico",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/jorge-castaneda-sheinbaum-100-dias-trump-panorama-mundial-tv/",
+        "date": "2025-01-15 02:02:41",
+        "sentiment_score": -0.051793649792671204
+    },
+    {
+        "title": "Así respondió Sheinbaum al no ser invitada a investidura de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/still-21273207-10015-still_43ebb0.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-trump-invitacion-investidura-perspectivas-mexico-tv/",
+        "date": "2025-01-15 01:50:53",
+        "sentiment_score": -0.479483338072896
+    },
+    {
+        "title": "La carrera a la Luna podría incluir arte y tecnología en 2025",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/230526122239-hakuto-r-ispace-lunar-lander-results-scn-20250115011901382.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/carrera-luna-arte-tecnologia-trax/",
+        "date": "2025-01-15 01:19:47",
+        "sentiment_score": 0.27875030040740967
+    },
+    {
+        "title": "Karla Souza expresa dolor tras perder su hogar por el incendio Palisades",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/karla-souza-dolor-incendios-palisades-showbiz-orix/",
+        "date": "2025-01-15 00:15:06",
+        "sentiment_score": -0.8426371794193983
+    },
+    {
+        "title": "Así puede engañar a su cerebro para desarrollar hábitos alimentarios más saludables",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mente-alimentos-saludables-minuto-de-salud-fast/",
+        "date": "2025-01-14 23:57:32",
+        "sentiment_score": -0.8427234422415495
+    },
+    {
+        "title": "3 parte | 14 ENE 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3-parte-14-ene-2025-partidazo-cope-20250115_3077074.html",
+        "date": "2025-01-15 00:45:04",
+        "sentiment_score": -0.7276647165417671
+    },
+    {
+        "title": "Previa del FC Twente - Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/CHT3Z2Q4HNHE5MD5RFJVDCXHOM.jpg?auth=8d1b8b3e2f447b09200df811bebcccbdcf96556a7a57117b4f652c16d7fb9f65&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/19/previa-del-fc-twente-real-madrid/",
+        "date": "2025-01-15 00:32:47",
+        "sentiment_score": -0.05102202296257019
+    },
+    {
+        "title": "Azagramiento",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250115/azagramiento_260931.html",
+        "date": "2025-01-15 00:30:00",
+        "sentiment_score": -0.18233460187911987
+    },
+    {
+        "title": "Rivero: \"La experiencia en el Maccabi está siendo bastante buena\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/15/rivero-la-experiencia-en-el-maccabi-esta-siendo-bastante-buena/",
+        "date": "2025-01-15 00:16:53",
+        "sentiment_score": 0.8577439989894629
+    },
+    {
+        "title": "El festival ofensivo del Real Madrid y el Maccabi, un partido récord en la Euroliga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/el-festival-ofensivo-del-real-madrid-y-el-maccabi-un-partido-record-en-la-euroliga/",
+        "date": "2025-01-14 23:47:08",
+        "sentiment_score": 0.4944140315055847
+    },
+    {
+        "title": "Berenguer busca prolongar su excelente idilio con la Copa",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/01/14/berenguer-kcFG-U2305343358243dG-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/berenguer-busca-prolongar-excelente-idilio-copa-20250114004347-nt.html",
+        "date": "2025-01-14 23:43:47",
+        "sentiment_score": 0.37637219578027725
+    },
+    {
+        "title": "James Rodríguez: de México a España, los fichajes estelares que jugaron en LaLiga y llegaron a México",
+        "image_url": "https://www.infobae.com/resizer/v2/3UGX3Q7UGVDZPFRI4I5TRPCBSA.jpg?auth=2525558ae7a8d72006e250ab2a52143e7b253fdaf5673c65a8cfc5d782b628c2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/01/14/james-rodriguez-de-mexico-a-espana-los-fichajes-estelares-que-jugaron-en-laliga-y-llegaron-a-mexico/",
+        "date": "2025-01-14 23:37:11",
+        "sentiment_score": 0.8066426627337933
+    },
+    {
+        "title": "Chus Mateo, sobre Dennis Smith: \"Todavía no es oficial\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/14/chus-mateo-sobre-dennis-smith-todavia-no-es-oficial/",
+        "date": "2025-01-14 23:31:46",
+        "sentiment_score": -0.13635138422250748
+    },
+    {
+        "title": "Sadiq marca en su debut y Valencia vence a Ourense de 3ra división, en octavos de Copa del Rey",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/copa-rey-umar-sadiq-valencia-ourense-5d454ee6932b2aac0b61f44721936cca",
+        "date": "2025-01-14 23:31:33",
+        "sentiment_score": 0.378940187394619
+    },
+    {
+        "title": "Cae la fabricación de coches en España en 2024; el año pasado acaba con 70.000 vehículos menos producidos",
+        "image_url": "https://s1.elespanol.com/2025/01/14/motor/916418807_252320509_1706x960.jpg?contentId=ESPIMA20250114_0458",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/motor/20250115/cae-fabricacion-coches-espana-ano-pasado-acaba-vehiculos-producidos/916408502_0.html",
+        "date": "2025-01-15 01:42:10",
+        "sentiment_score": 0.13658107072114944
+    },
+    {
+        "title": "Iberia relanza el histórico Puente Aéreo: ¿podrá competir con la oferta y los precios bajos de Renfe, Ouigo e Iryo?",
+        "image_url": "https://s1.elespanol.com/2022/12/21/invertia/empresas/turismo/727687818_229677368_1706x960.jpg?contentId=ESPIMA20221221_0594",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20250115/iberia-relanza-historico-puente-aereo-podra-competir-oferta-precios-bajos-renfe-ouigo-iryo/916408607_0.html",
+        "date": "2025-01-15 01:40:45",
+        "sentiment_score": 0.4017189331352711
+    },
+    {
+        "title": "La Junta de Extremadura y Merlin se alían para llevar a la región dos centros de datos con 1 GW de capacidad cada uno",
+        "image_url": "https://s1.elespanol.com/2025/01/15/invertia/empresas/916668330_252331412_1706x960.jpg?contentId=ESPIMA20250115_0006",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20250115/junta-extremadura-merlin-alian-instalar-region-data-center-gw-capacidad/916658326_0.html",
+        "date": "2025-01-15 01:37:11",
+        "sentiment_score": 0.4688665568828583
+    },
+    {
+        "title": "España y Virginia (EEUU), las mejores ubicaciones del mundo para alzarse con el 'Top 1' en construir centros de datos",
+        "image_url": "https://s1.elespanol.com/2024/09/10/invertia/empresas/energia/884922036_249071676_1706x960.jpg?contentId=ESPIMA20240910_0537",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20250115/espana-virginia-eeuu-mejores-ubicaciones-mundo-alzarse-top-construir-centros-datos/916408628_0.html",
+        "date": "2025-01-15 01:37:07",
+        "sentiment_score": 0.0654011219739914
+    },
+    {
+        "title": "El vaso del café se recicla y consigna en la ciudad danesa de Aarhus ¿Cómo funciona?",
+        "image_url": "https://static.euronews.com/articles/stories/08/96/33/86/1200x675_cmsv2_6e759197-b411-5c3f-b128-15b8c3bfdf6f-8963386.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.euronews.com/green/2025/01/15/el-vaso-del-cafe-se-recicla-y-consigna-en-la-ciudad-danesa-de-aarhus-como-funciona",
+        "date": "2025-01-15 01:00:59",
+        "sentiment_score": 0.27735625207424164
+    },
+    {
+        "title": "Stephen Curry reveló cómo lo inspiró Lionel Messi en su carrera: “Aprecio su grandeza”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/15/stephen-curry-revelo-como-lo-inspiro-lionel-messi-en-su-carrera-aprecio-su-grandeza/",
+        "date": "2025-01-15 00:46:40",
+        "sentiment_score": 0.8622847236692905
+    },
+    {
+        "title": "María, la hija más mediática de Pep Guardiola y Cristina Serra: 'influencer', pasión por el lujo y su apoyo a la fundación familiar",
+        "image_url": "https://s1.elespanol.com/2025/01/14/corazon/famosos/916418643_252315472_1706x960.png?contentId=ESPIMA20250114_0294",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250115/maria-hija-mediatica-pep-guardiola-cristina-serra-influencer-pasion-lujo-apoyo-fundacion-familiar/916408495_0.html",
+        "date": "2025-01-15 00:22:47",
+        "sentiment_score": -0.037455737590789795
+    },
+    {
+        "title": "Govern y sector pactan grupo de trabajo para revisar caso a caso los cámpines con riesgo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/19/govern-y-sector-pactan-grupo-de-trabajo-para-revisar-caso-a-caso-los-campines-con-riesgo/",
+        "date": "2025-01-15 00:03:21",
+        "sentiment_score": 0.06015530973672867
     }
 ];
