@@ -1,214 +1,5 @@
 export default [
     {
-        "title": "Sepes lanza la convocatoria para comprar viviendas en los municipios afectados por la dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/19/sepes-lanza-la-convocatoria-para-comprar-viviendas-en-los-municipios-afectados-por-la-dana/",
-        "date": "2025-01-14 06:17:51",
-        "sentiment_score": 0.04360872507095337
-    },
-    {
-        "title": "Quién es el líder de goleo de LaLiga al cierre de la jornada 19",
-        "image_url": "https://www.infobae.com/resizer/v2/LDCYQBYB6ZC25GUPKKEHUUZJ5E.jpg?auth=8feba00e11bf192a30575f3d245c80c7aba08172f66c0bdff6d592670cc31694&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/01/14/quien-es-el-lider-de-goleo-de-laliga-al-cierre-de-la-jornada-19/",
-        "date": "2025-01-14 06:16:44",
-        "sentiment_score": 0.38904400169849396
-    },
-    {
-        "title": "La tasa de alumnos que termina la ESO se estanca pese a que la repetición de curso baja",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/14/la-tasa-de-alumnos-que-termina-la-eso-se-estanca-pese-a-que-la-repeticion-de-curso-baja/",
-        "date": "2025-01-14 06:15:56",
-        "sentiment_score": -0.5769922398030758
-    },
-    {
-        "title": "Ensayan un robot autónomo para repartir paquetes en las calles del Born de Barcelona",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/19/ensayan-un-robot-autonomo-para-repartir-paquetes-en-las-calles-del-born-de-barcelona/",
-        "date": "2025-01-14 06:03:14",
-        "sentiment_score": -0.037188440561294556
-    },
-    {
-        "title": "El Congreso cierra sus conclusiones sobre el suplicatorio de Ábalos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/14/el-congreso-cierra-sus-conclusiones-sobre-el-suplicatorio-de-abalos/",
-        "date": "2025-01-14 05:45:20",
-        "sentiment_score": -0.006425753235816956
-    },
-    {
-        "title": "España simplifica requisitos para regularizar migrantes que favorecerá a 900.000 en 3 años",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/19/espana-simplifica-requisitos-para-regularizar-migrantes-que-favorecera-a-900000-en-3-anos/",
-        "date": "2025-01-14 05:17:50",
-        "sentiment_score": 0.6079767867922783
-    },
-    {
-        "title": "Cuántos dólares cuesta un euro hoy 14 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/JTZMPSZR3RDIDCLHVCWWNMR4XM.jpg?auth=643a266d34b6b5fead82b19e554a786d9a0b86a1edded424c23195693979a6a3&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/14/cuantos-dolares-cuesta-un-euro-hoy-14-de-enero/",
-        "date": "2025-01-14 05:15:29",
-        "sentiment_score": -0.2213764786720276
-    },
-    {
-        "title": "El TC estudia un borrador que propone apartar a Macías del debate de la amnistía",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/14/el-tc-estudia-un-borrador-que-propone-apartar-a-macias-del-debate-de-la-amnistia/",
-        "date": "2025-01-14 05:15:19",
-        "sentiment_score": -0.7524507604539394
-    },
-    {
-        "title": "Cuidado a la hora de hacer el testamento, incluye esta cláusula para que el cotitular de tu cuenta bancaria pueda cobrar todo el dinero",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/10/herenc-Rzb4STon1tP3QB8GXDRSTwL-1200x840@diario_abc.PNG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cuidado-hora-testamento-incluye-clausula-cotitular-cuenta-20250114071500-nt.html",
-        "date": "2025-01-14 06:15:00",
-        "sentiment_score": -0.10689102113246918
-    },
-    {
-        "title": "Nueva subasta de Letras del Tesoro: esta es la rentabilidad a tres y nueve meses",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/14/be-k0KC-U70102049476cSC-1200x840@diario_abc.PNG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/nueva-subasta-letras-tesoro-rentabilidad-tres-nueve-20250114061500-nt.html",
-        "date": "2025-01-14 05:15:00",
-        "sentiment_score": -0.0712537169456482
-    },
-    {
-        "title": "El plantón de ERC a los presupuestos amenaza el despliegue del plan de gobierno de Illa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VNS6RRELSHLHM4XE55MC7BBGAY.jpg?auth=29c5cfb7bc18a847185c06900800b80b5c753b913dadb53067d225f15c136aa0&width=1200",
-        "tags": [
-            "psc",
-            "presupuestos autonómicos",
-            "servicios sociales",
-            "generalitat cataluña",
-            "médicos",
-            "erc",
-            "barcelona",
-            "cataluña",
-            "salvador illa",
-            "vivienda"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-14/el-planton-de-erc-a-los-presupuestos-amenaza-el-despliegue-del-plan-de-gobierno-de-illa.html",
-        "date": "2025-01-14 06:25:55",
-        "sentiment_score": -0.7447993904352188
-    },
-    {
-        "title": "De una foto con hijos a una con padres",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/e52f4512-cebb-4024-395b22e4e06c5711.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/ze52f421c-a91f-4dd7-2791b3935befd9b3/202501/de-una-foto-con-hijos-a-una-con-padres",
-        "date": "2025-01-14 06:29:49",
-        "sentiment_score": -0.5365517288446426
-    },
-    {
-        "title": "A licitación el mobiliario del Centro de Crisis 24 horas",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1148494",
-        "date": "2025-01-14 06:21:06",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "La Copa mide la resaca de Yeda",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7ce6ecee-ccd4-46ed-82bc-57c06ad8160d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/futbol/2025/01/14/copa-mide-resaca-yeda-9152213.html",
-        "date": "2025-01-14 06:20:26",
-        "sentiment_score": 0.403001144528389
-    },
-    {
-        "title": "Nopp y Hansemann, los otros cracks de Flick que destrozaron al Real Madrid en la pizarra",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ccc51d5-03d1-4ecb-8fcc-d002c8478bd5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "el periódico de españa,real madrid,fc barcelona,hansi flick,carlo ancelotti,futbol,supercopa de españa"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/01/14/nopp-hansemann-cracks-flick-destrozaron-113369427.html",
-        "date": "2025-01-14 06:08:11",
-        "sentiment_score": -0.06628689169883728
-    },
-    {
-        "title": "Mbappé vuelve a sentirse como en el PSG",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88348eee-0252-4d4a-a478-fce214c22275_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "supercopa de españa,kylian mbappé,futbol,arabia saudí,real madrid,el periódico de españa"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/01/14/mbappe-vuelve-sentirse-psg-real-madrid-barcelona-supercopa-espana-113369434.html",
-        "date": "2025-01-14 06:08:10",
-        "sentiment_score": -0.10511094331741333
-    },
-    {
-        "title": "De la butifarra de Laporta al manotazo de Flick",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/55d0da37-ee45-41a6-a927-e838f23d9716_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "supercopa de españa,fc barcelona,real madrid,futbol,carlo ancelotti,joan laporta,hansi flick"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/01/14/butifarra-laporta-manotazo-flick-real-madrid-barcelona-supercopa-espana-113369433.html",
-        "date": "2025-01-14 06:08:09",
-        "sentiment_score": 0.34710530936717987
-    },
-    {
-        "title": "El Barça de las maravillas se corona 'supercampeón' en Arabia (2-5)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ff2f3081-8783-4dbb-9611-8c747ca1fafb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "supercopa de españa,real madrid,fc barcelona,futbol,kylian mbappé,lamine yamal,hansi flick,carlo ancelotti"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/01/14/real-madrid-barcelona-resumen-goles-resultado-supercopa-espana-113369429.html",
-        "date": "2025-01-14 06:08:04",
-        "sentiment_score": -0.044282495975494385
-    },
-    {
-        "title": "Los genes pueden influir en los casos de depresión",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/e51edd3c-e787-cda5-fe8981942939f553.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/ze51ed63a-ed55-4765-d2301094792dd385/202501/los-genes-pueden-influir-en-los-casos-de-depresion",
-        "date": "2025-01-14 06:28:28",
-        "sentiment_score": -0.569531537592411
-    },
-    {
-        "title": "Lo que debes saber hoy, 14 de enero, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2017/08/12/vivir-en-barcelona/vivir_en_barcelona_238486152_10738920_1706x960.jpg?contentId=ESPIMA20170812_0003",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250114/lo-que-debes-saber-hoy-de-enero-barcelona/916408353_0.html",
-        "date": "2025-01-14 06:13:31",
-        "sentiment_score": 0.1837429255247116
-    },
-    {
         "title": "Galletas Gullón crece un 9,5% en 2024 hasta los 690 millones de euros de facturación",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6464,5 +6255,522 @@ export default [
         "link": "https://www.elperiodicomediterraneo.com/sucesos/2025/01/17/juzgado-emplaza-rosa-peral-netflix-113483454.html",
         "date": "2025-01-17 17:00:56",
         "sentiment_score": -0.41995054483413696
+    },
+    {
+        "title": "Dos fallecidos en un grave accidente de un camión que ha cortado la AP-6 en El Espinar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/17/dos-fallecidos-en-un-grave-accidente-de-un-camion-que-ha-cortado-la-ap-6-en-el-espinar/",
+        "date": "2025-01-17 22:02:41",
+        "sentiment_score": -0.8250722214579582
+    },
+    {
+        "title": "Melilla da comienzo a su Semana Santa con una solemne presentación del cartel",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/17/melilla-da-comienzo-a-su-semana-santa-con-una-solemne-presentacion-del-cartel/",
+        "date": "2025-01-17 22:02:24",
+        "sentiment_score": 0.622067229822278
+    },
+    {
+        "title": "0-1. Alemao frustra el debut de Fernández Romo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/17/0-1-alemao-frustra-el-debut-de-fernandez-romo/",
+        "date": "2025-01-17 21:47:42",
+        "sentiment_score": -0.9098490318283439
+    },
+    {
+        "title": "Árima reforma su consejo tras cerrarse la opa lanzada por JSS para fusionar ambas socimis",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/arima-reforma-su-consejo-tras-cerrarse-la-opa-lanzada-por-jss-para-fusionar-ambas-socimis/",
+        "date": "2025-01-17 21:33:05",
+        "sentiment_score": 0.480068638920784
+    },
+    {
+        "title": "La Bolsa de Milán baja un 0,29 % por temor a una escalada en Ucrania",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/la-bolsa-de-milan-baja-un-029-por-temor-a-una-escalada-en-ucrania/",
+        "date": "2025-01-17 21:32:52",
+        "sentiment_score": -0.7511276714503765
+    },
+    {
+        "title": "Trabajadores de Alcoa vuelven a la calle para exigir mayor implicación de Xunta y Gobierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/trabajadores-de-alcoa-vuelven-a-la-calle-para-exigir-mayor-implicacion-de-xunta-y-gobierno/",
+        "date": "2025-01-17 21:32:40",
+        "sentiment_score": -0.14052090048789978
+    },
+    {
+        "title": "Los números que dieron fortuna a los nuevos ganadores de Bonoloto",
+        "image_url": "https://www.infobae.com/resizer/v2/HBUV6NRKP5DY7C3LHNUPKWCGCI.jpg?auth=128971e7f3b0e69958bdcf38f8a3426d378912881b22aca6f8faf56cf8d2e9e3&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/17/los-numeros-que-dieron-fortuna-a-los-nuevos-ganadores-de-bonoloto/",
+        "date": "2025-01-17 21:30:56",
+        "sentiment_score": 0.09449587762355804
+    },
+    {
+        "title": "Antonio Catalán lanzará a principios de año la marca AC Essential",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/antonio-catalan-lanzara-a-principios-de-ano-la-marca-ac-essential/",
+        "date": "2025-01-17 21:17:44",
+        "sentiment_score": 0.17985746823251247
+    },
+    {
+        "title": "El Bakali se marca como objetivo en 2025 ganar su tercer Mundial consecutivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/17/el-bakali-se-marca-como-objetivo-en-2025-ganar-su-tercer-mundial-consecutivo/",
+        "date": "2025-01-17 21:17:11",
+        "sentiment_score": 0.4909121245145798
+    },
+    {
+        "title": "María Jesús Montero será la nueva líder del PSOE de Andalucía tras la retirada de Luis Ángel Hierro",
+        "image_url": "https://www.infobae.com/resizer/v2/JIJF4HPGOVADTNQS3HVV4ZSSAY.jpg?auth=4d7a535bf21e8120da50e149ee2f6587a0bd5c19685242e177e2a9491f512c1e&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/17/maria-jesus-montero-sera-la-nueva-lider-del-psoe-de-andalucia-tras-la-retirada-de-luis-angel-hierro/",
+        "date": "2025-01-17 21:17:01",
+        "sentiment_score": -0.06282031163573265
+    },
+    {
+        "title": "Las 5 mejores películas de David Lynch, según IMDB",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/5-mejores-peliculas-david-lynch-redaccion-buenos-aires-tv/",
+        "date": "2025-01-17 20:10:29",
+        "sentiment_score": 0.09351097047328949
+    },
+    {
+        "title": "¿Por qué el sector público debe liderar y ser protagonista en proyectos de infraestructura?, un experto lo analiza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/proyectos-infraestructura-sector-publico-desarrollo-inversion-globoeconomia-tv/",
+        "date": "2025-01-17 20:04:51",
+        "sentiment_score": 0.4582091085612774
+    },
+    {
+        "title": "Convertir una idea en proyecto: Experto explica la importancia de planificar antes de invertir en infraestructura",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/desarrollo-infraestructuras-preparacion-analisis-ideas-proyectos-globoeconomia-tv/",
+        "date": "2025-01-17 20:01:50",
+        "sentiment_score": 0.29544996470212936
+    },
+    {
+        "title": "Indígenas del Arenal",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/01/14/siemens-gamesa-U31318131874IjQ-170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/indigenas-arenal-20250118221434-nts.html",
+        "date": "2025-01-17 21:28:38",
+        "sentiment_score": -0.08261317014694214
+    },
+    {
+        "title": "Un hombre sobrevive aferrado a los cables de un tren de alta velocidad durante 30 kilómetros en Alemania",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/17/Tren-kmAC-U701252092071DE-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/hombre-sobrevive-aferrado-cables-tren-alta-velocidad-20250117221057-nt.html",
+        "date": "2025-01-17 21:10:57",
+        "sentiment_score": -0.15463975071907043
+    },
+    {
+        "title": "Israel da luz verde al acuerdo con Hamás: 33 rehenes israelíes por 2.000 presos palestinos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/17/rehen-ReQiXk3QFUWIy1WNsnUDPBJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/israel-luz-verde-acuerdo-hamas-rehenes-israelies-20250117214007-nt.html",
+        "date": "2025-01-17 20:46:35",
+        "sentiment_score": -0.01983383297920227
+    },
+    {
+        "title": "Biden, un adiós entre sombras",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/18/1491157870-U63633438814BYg-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-biden-adios-sombras-20250118205910-nt.html",
+        "date": "2025-01-17 19:59:42",
+        "sentiment_score": -0.1916315108537674
+    },
+    {
+        "title": "Un respeto a Muñoz",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-respeto-munoz-20250118205245-nts.html",
+        "date": "2025-01-17 19:54:41",
+        "sentiment_score": -0.06268101930618286
+    },
+    {
+        "title": "El enredo de las fiestas",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/16/eltejo-kXoE--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-enredo-fiestas-20250118205057-nts.html",
+        "date": "2025-01-17 19:52:26",
+        "sentiment_score": 0.005655407905578613
+    },
+    {
+        "title": "Federalismo centralista",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/16/eltejo-kXoE--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-federalismo-centralista-20250118205041-nts.html",
+        "date": "2025-01-17 19:50:42",
+        "sentiment_score": -0.18528136610984802
+    },
+    {
+        "title": "El miarmismo de la Feria",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/sociedad/2025/01/14/chino-huelva-sanchez-k9J--170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-miarmismo-feria-20250118204440-nts.html",
+        "date": "2025-01-17 19:45:23",
+        "sentiment_score": -0.07302889227867126
+    },
+    {
+        "title": "Evo Morales, declarado en «rebeldía» tras faltar por segunda vez a una audiencia en su contra",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/17/evo-morales.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/evo-morales-declarado-rebeldia-tras-faltar-segunda-20250117202822-nt.html",
+        "date": "2025-01-17 19:30:11",
+        "sentiment_score": -0.20854847133159637
+    },
+    {
+        "title": "Talgo se dispara en Bolsa ante los rumores de una posible opa del fondo estatal polaco PESA",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/17/aveTalgo-Rg3HmQpm6Y4FY7iJVlJbRMI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/talgo-dispara-bolsa-ante-rumores-posible-opa-20250117195300-nt.html",
+        "date": "2025-01-17 18:53:01",
+        "sentiment_score": -0.07383224368095398
+    },
+    {
+        "title": "El catedrático sevillano Luis Ángel Hierro retira su candidatura al PSOE andaluz al no lograr suficientes avales",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7IRRR67CCOQ32652L4ANNJOTL4.jpg?auth=561bb77b883625d213605ca72d4adbb92d20690574e094d6aa878049fbc5bbcc&width=1200",
+        "tags": [
+            "psoe-a",
+            "primarias psoe",
+            "psoe",
+            "españa",
+            "maría jesús montero"
+        ],
+        "link": "https://elpais.com/espana/2025-01-17/el-catedratico-sevillano-luis-angel-hierro-retira-su-candidatura-al-psoe-andaluz-al-no-lograr-suficientes-avales.html",
+        "date": "2025-01-17 19:38:50",
+        "sentiment_score": 0.013053089380264282
+    },
+    {
+        "title": "‘Dialogues des Carmélites’, obra maestra de la ópera moderna, llega a Les Arts con el aclamado montaje de Robert Carsen",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZYBCN2W6LVFNBPTHOJ24HTG3HI.jpg?auth=8b2c1173e2ea4c5f3899ae24cf2c03689ac1a737d1f22250e9ffa106c76cfd3e&width=1200",
+        "tags": [
+            "robert carsen",
+            "comunidad valenciana",
+            "ópera",
+            "palau de les arts",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-17/dialogues-des-carmelites-obra-maestra-de-la-opera-moderna-llega-a-les-arts-con-el-aclamado-montaje-de-robert-carsen.html",
+        "date": "2025-01-17 19:07:11",
+        "sentiment_score": 0.2214084193110466
+    },
+    {
+        "title": "Sánchez se vuelca con los líderes territoriales para reactivar al PSOE: “Tenemos que ganar para avanzar”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6YTYYX5PNLEJB7XWZKZP2WDZHQ.jpg?auth=2b36ffdd70baab80cf74536f9cb9f4307d9833f217f95c609dc33468ce5cc089&width=1200",
+        "tags": [
+            "adrián barbón",
+            "pedro sánchez",
+            "maría jesús montero",
+            "aragón",
+            "emiliano garcía-page",
+            "óscar lópez águeda",
+            "principado de asturias",
+            "psoe",
+            "castilla-la mancha",
+            "españa",
+            "extremadura",
+            "andalucía",
+            "gobierno de españa",
+            "pilar alegría",
+            "miguel ángel gallardo",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/2025-01-17/sanchez-se-vuelca-con-los-lideres-territoriales-para-reactivar-al-psoe-tenemos-que-ganar-para-avanzar.html",
+        "date": "2025-01-17 18:52:17",
+        "sentiment_score": 0.18789632245898247
+    },
+    {
+        "title": "Detenido por amenazar con un arma blanca a personal del centro de salud de La Mina",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DIWVJ2UDKXSFNFZT3H4FARJBWE.jpg?auth=3385580b54e62a8446d27350bfab210f46704c9ddd82635494d808007665120e&width=1200",
+        "tags": [
+            "mossos d'esquadra",
+            "cataluña",
+            "sucesos",
+            "sanidad pública",
+            "agresiones físicas",
+            "sanidad",
+            "sant adrià de besòs",
+            "armas blancas",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-17/detenido-por-amenazar-con-un-arma-blanca-a-personal-del-centro-de-salud-de-la-mina.html",
+        "date": "2025-01-17 17:24:47",
+        "sentiment_score": -0.8332610111683607
+    },
+    {
+        "title": "La Guardia Civil acusa a la Casa de Alba de causar un daño ambiental valorado en seis millones por el saqueo del agua",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7KAMWFNDCJHVVGJFT5WNR45X24.jpg?auth=3fa703d42992532e81928d6c958ed0dfc249bb5e908c287d6dc9eaa07c8f13e9&width=1200",
+        "tags": [
+            "fiscalía",
+            "andalucía",
+            "juzgados",
+            "delitos",
+            "agricultura",
+            "españa",
+            "medio ambiente",
+            "guardia civil",
+            "ecología",
+            "parque nacional doñana",
+            "aguas subterráneas",
+            "sevilla",
+            "casa de alba"
+        ],
+        "link": "https://elpais.com/espana/2025-01-17/la-guardia-civil-acusa-a-la-casa-de-alba-de-causar-un-dano-ambiental-valorado-en-seis-millones-por-el-saqueo-del-agua.html",
+        "date": "2025-01-17 17:13:02",
+        "sentiment_score": -0.7794401533901691
+    },
+    {
+        "title": "Khvicha Kvaratskhelia ficha con el campeón francés PSG hasta 2029",
+        "image_url": "https://dims.apnews.com/dims4/default/b68b0b3/2147483647/strip/true/crop/4103x2731+0+101/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2Fcd%2F79b61d6fe10a87291e715238a98a%2Ff83e5eb6c209407d87815f54c873adfc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/paris-saint-germain-napoli-khvicha-kvaratskhelia-df40b69340960cf24203422ff10ba364",
+        "date": "2025-01-17 22:05:47",
+        "sentiment_score": 0.10475051403045654
+    },
+    {
+        "title": "Real Madrid confirma lesión muscular de Eduardo Camavinga",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/01/Real-Madrid-confirma-lesion-muscular-de-Eduardo-Camavinga-17-ene-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "maturín",
+            "monagas",
+            "venezuela",
+            "deportes"
+        ],
+        "link": "https://elorientaldemonagas.com/real-madrid-confirma-lesion-muscular-de-eduardo-camavinga/",
+        "date": "2025-01-17 22:00:00",
+        "sentiment_score": -0.00771060585975647
+    },
+    {
+        "title": "9 de 24: el Espanyol cierra su “otra” Liga con un botín que puede quedarse corto para afrontar un calendario de vértigo; Manolo González resiste bajo la lupa",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/01/manolo-gonzalez-roberto-fernandez-750x375.jpg",
+        "tags": [
+            "valladolid",
+            "permanencia",
+            "actualidad",
+            "espanyol",
+            "laliga ea sports",
+            "manolo gonzález"
+        ],
+        "link": "https://lagradaonline.com/espanyol-valladolid-permanencia-laliga-ea-sports-manolo-gonzalez/",
+        "date": "2025-01-17 21:55:18",
+        "sentiment_score": 0.5221440196037292
+    },
+    {
+        "title": "2-0. Ekitike y Hojlund condenan al Dortmund y a Sahin",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/17/2-0-ekitike-y-hojlund-condenan-al-dortmund-y-a-sahin/",
+        "date": "2025-01-17 21:47:16",
+        "sentiment_score": -0.8330881260335445
+    },
+    {
+        "title": "La Junta valida la candidatura de Florentino Pérez a renovar la presidencia del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/OSKEDPE7BJDHRDOTDGVF4CUPGU.jpg?auth=3dfea41be3bab9a86cdfee985998aaafc37c49b3fa90c92d15e3fad3794ba358&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/17/la-junta-valida-la-candidatura-de-florentino-perez-a-renovar-la-presidencia-del-real-madrid/",
+        "date": "2025-01-17 21:45:15",
+        "sentiment_score": 0.18257010728120804
+    },
+    {
+        "title": "El Barça menos egoísta sigue en racha",
+        "image_url": "https://static1.ara.cat/clip/14ec6250-a87a-4642-9dff-234e1c42f803_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/baloncesto/euroliga/barca-egoista-sigue-racha_1_5258536.html",
+        "date": "2025-01-17 21:33:35",
+        "sentiment_score": -0.1894868016242981
+    },
+    {
+        "title": "LaLiga y Panini presentan la primera colección física de cromos en la historia de LaLiga Hypermotion",
+        "image_url": "https://www.infobae.com/resizer/v2/GLAFKX3ZRVFYZLJR4L5352G7DQ.jpg?auth=55041a097b571a247302c6a091e393788d572dc2d10ccdedd18ec669c5cde0fd&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/20/laliga-y-panini-presentan-la-primera-coleccion-fisica-de-cromos-en-la-historia-de-laliga-hypermotion/",
+        "date": "2025-01-17 21:33:18",
+        "sentiment_score": 0.44737367145717144
+    },
+    {
+        "title": "FIFA castigó al presidente de la Federación Panameña por comentarios gordofóbicos",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/01/AP25017407489482-e1737149332587.jpg",
+        "tags": [
+            "fifa",
+            "deportes",
+            "selección panamá",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2025/01/17/fifa-castigo-al-presidente-de-la-federacion-panamena-por-comentarios-gordofobicos/",
+        "date": "2025-01-17 21:29:29",
+        "sentiment_score": -0.7238052505999804
+    },
+    {
+        "title": "El Barça vuelve a estar con los mejores de la Euroliga",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/9f9c2e48-a46c-4827-93e6bbdd1e5fb0ba.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z9f9c2d30-d248-d863-4c48f8ed6c8d866c/202501/el-barca-vuelve-a-estar-con-los-mejores-de-la-euroliga",
+        "date": "2025-01-17 21:22:40",
+        "sentiment_score": 0.778997004032135
+    },
+    {
+        "title": "Música para una despedida",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/01/18/trazos%20(7).jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/culturas/trazos/musica-despedida-20250118231353-nt.html",
+        "date": "2025-01-17 22:13:53",
+        "sentiment_score": 0.1436619982123375
+    },
+    {
+        "title": "Realizaron 2do Congreso Comunal para impulsar el Sistema de Justicia de Paz Comunal en Anzoátegui",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "locales",
+            "tribunales",
+            "gobierno"
+        ],
+        "link": "https://eltiempove.com/realizaron-2do-congreso-comunal-para-impulsar-el-sistema-de-justicia-de-paz-comunal-en-anzoategui/",
+        "date": "2025-01-17 22:09:48",
+        "sentiment_score": 0.36293013393878937
+    },
+    {
+        "title": "90-80. El Barça alarga su buen momento en la Euroliga con un triunfo coral",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/17/90-80-el-barca-alarga-su-buen-momento-en-la-euroliga-con-un-triunfo-coral/",
+        "date": "2025-01-17 22:00:36",
+        "sentiment_score": 0.8934371508657932
+    },
+    {
+        "title": "Euromillones deja un nuevo millonario en España y el bote sube a 86 millones de euros",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/17/despacho-receptor.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5673721/0/euromillones-nuevo-millonario-espana-bote-sube-86-millones/",
+        "date": "2025-01-17 21:49:12",
+        "sentiment_score": 0.18885867297649384
+    },
+    {
+        "title": "Brigadas harán control de fauna en aeropuertos",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/01/fauna-aeropuerto.png",
+        "tags": [
+            "zxgeneral",
+            "más vida"
+        ],
+        "link": "https://ultimasnoticias.com.ve/noticias/mas-vida/brigadas-haran-control-de-fauna-en-aeropuertos/",
+        "date": "2025-01-17 21:48:04",
+        "sentiment_score": 0.0702291838824749
+    },
+    {
+        "title": "Llegan los primeros candidatos del año",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/24a918e1-e6e5-408a-9f8e-17cf1bf62338_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/motor/2025/01/17/llegan-primeros-candidatos-ano-113487341.html",
+        "date": "2025-01-17 21:30:27",
+        "sentiment_score": 0.21720003709197044
+    },
+    {
+        "title": "Cuando Mestalla vence al olvido",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f8770be5-d444-4982-a52a-3ec9d0d546aa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mestalla,valencia,memoria,aficionados,tribuna"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/17/mestalla-vence-olvido-113489153.html",
+        "date": "2025-01-17 21:21:00",
+        "sentiment_score": -0.14418278634548187
+    },
+    {
+        "title": "Sinéad Spelman, artista visual: \"Un artista ya no puede alquilar un local en Barcelona\"",
+        "image_url": "https://static.eldiario.es/clip/c4b10f88-ee6d-4078-960e-a7d20a93b647_16-9-discover-aspect-ratio_default_1109517.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/sinead-spelman-artista-visual-artista-no-alquilar-local-barcelona_1_11963887.html",
+        "date": "2025-01-17 21:12:06",
+        "sentiment_score": -0.06975856423377991
+    },
+    {
+        "title": "Cuarenta millones, comisiones ocultas y el empeño de Rubiales: así ha acabado el fútbol español jugando en Arabia Saudí",
+        "image_url": "https://static.eldiario.es/clip/b0917ee0-48b2-4c8e-af7c-b26bde227d81_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/cuarenta-millones-comisiones-ocultas-empeno-rubiales-acabado-futbol-espanol-jugando-arabia-saudi_1_11968545.html",
+        "date": "2025-01-17 21:12:03",
+        "sentiment_score": -0.05392575263977051
     }
 ];
