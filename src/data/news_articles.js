@@ -130,81 +130,6 @@ export default [
         "sentiment_score": 0.1656620055437088
     },
     {
-        "title": "Millones de devotos peregrinan para celebrar la purificación en la India",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/india-religion.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/devotos-religiosos-rio-purificacion-india-cafe-tv/",
-        "date": "2025-01-14 13:40:32",
-        "sentiment_score": 0.2673664391040802
-    },
-    {
-        "title": "Alto el fuego en la guerra entre Israel y Hamas está más cerca",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193307393.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/acuerdo-israel-hamas-cerca-cafe-tv/",
-        "date": "2025-01-14 13:32:00",
-        "sentiment_score": 0.050727665424346924
-    },
-    {
-        "title": "Rescatan a un bebé gorila que se encontraba en la bodega de un avión",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gorila-bebe.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rescate-gorila-bodega-turkish-airlines-cafe-tv/",
-        "date": "2025-01-14 13:22:43",
-        "sentiment_score": -0.2786111533641815
-    },
-    {
-        "title": "El turismo de verano en Buenos Aires",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_94cbdd.png",
-        "tags": [
-            "fast – general",
-            "xpress",
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/turismo-verano-buenos-aires-primera-manana-fast/",
-        "date": "2025-01-14 12:54:17",
-        "sentiment_score": 0.06537400931119919
-    },
-    {
-        "title": "Pedro Vaca: Carlos Correa defiende los derechos de los venezolanos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193193690.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/venezuela-maduro-derechos-humanos-desaparicion-activista-carlos-correa-aristegui-tv/",
-        "date": "2025-01-14 11:34:55",
-        "sentiment_score": -0.5206776410341263
-    },
-    {
-        "title": "¿Qué gobiernos respaldan al régimen de Maduro en Venezuela?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193333568-20250114112230690.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/venezuela-tercer-mandato-maduro-aliados-gobiernos-aristegui-cnnee/",
-        "date": "2025-01-14 11:26:31",
-        "sentiment_score": -0.5844309478998184
-    },
-    {
-        "title": "Última hora de la guerra en Gaza: posible acuerdo por alto el fuego, liberación de rehenes, noticias y más",
-        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png",
-        "tags": [
-            "rehenes",
-            "medio oriente",
-            "guerra en gaza",
-            "instanoticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/14/guerra-gaza-acuerdo-fuego-rehenes-noticias-trax/",
-        "date": "2025-01-14 10:56:24",
-        "sentiment_score": -0.0035797134041786194
-    },
-    {
         "title": "La plataforma de crowdfunding Enerfip alcanza los 600 millones recaudados",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/14/enerfip-RYu98Zm8sJI9sdJrw34VQYO-1200x840@diario_abc.jpg",
         "tags": [
@@ -233,76 +158,6 @@ export default [
         "link": "https://www.abc.es/economia/inmobiliario/urban-sky-vivir-cielo-malaga-20250114075500-nt.html",
         "date": "2025-01-14 14:56:17",
         "sentiment_score": 0.07872557640075684
-    },
-    {
-        "title": "La Audiencia Nacional absuelve 12 años después a los directivos acusados de falsear las cuentas del Banco de Valencia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/14/Capturadepantalla2025-01-14alas14.35.37-RJBGyj8nZZTeARHRtqn1T4M-1200x840@diario_abc.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/audiencia-nacional-absuelve-anos-despues-directivos-acusados-20250114143934-nt.html",
-        "date": "2025-01-14 13:39:34",
-        "sentiment_score": -0.22866515815258026
-    },
-    {
-        "title": "Archivos desclasificados revelan que Isabel II no fue informada durante nueve años de que un colaborador suyo era espía soviético",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/14/espia-k61H-U70107192300f1E-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/archivos-desclasificados-revelan-isabel-informada-nueve-anos-20250114134915-nt.html",
-        "date": "2025-01-14 12:49:15",
-        "sentiment_score": -0.08154040575027466
-    },
-    {
-        "title": "Los cuatro puntos del inminente acuerdo de paz en Gaza",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/14/return-RM2aRkmsT5x1AqrIkeyW1eL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/cuatro-puntos-inminente-acuerdo-paz-gaza-20250114133152-nt.html",
-        "date": "2025-01-14 12:35:11",
-        "sentiment_score": -0.2089124172925949
-    },
-    {
-        "title": "El Gobierno creará el Centro Nacional de Ciberseguridad para evitar ataques a los servicios esenciales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/14/marlaska.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/gobierno-creara-centro-nacional-ciberseguridad-evitar-ataques-20250114132957-nt.html",
-        "date": "2025-01-14 12:29:58",
-        "sentiment_score": -0.05574887990951538
-    },
-    {
-        "title": "Un nuevo barco de la 'flota en la sombra' rusa, visto sobre el gasoducto del Báltico",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/14/barco-kfbG-U70106587307YGD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nuevo-barco-flota-sombra-rusa-visto-sobre-20250114125041-nt.html",
-        "date": "2025-01-14 11:52:16",
-        "sentiment_score": -0.2267152965068817
-    },
-    {
-        "title": "Multa a Santander con casi cuatro millones por el uso de whatsapp en comunicaciones comerciales",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/14/banco-santander-kUuF-U70106502670vX-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/multa-santander-cuatro-millones-uso-whatsapp-comunicaciones-20250114122031-nt.html",
-        "date": "2025-01-14 11:20:31",
-        "sentiment_score": -0.11359788477420807
-    },
-    {
-        "title": "Probamos los segundos auriculares de Dyson: ¿tan buenos como sus aspiradoras?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/14/dyson-R3vns6nupvsOM2PFZiT9AbP-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/probamos-segundos-auriculares-dyson-buenos-aspiradoras-20250114121241-nt.html",
-        "date": "2025-01-14 11:12:42",
-        "sentiment_score": -0.05182179808616638
     },
     {
         "title": "Ayuso recurrirá al Constitucional para evitar que Sánchez recuerde con una placa las torturas franquistas en la sede de la Presidencia de Madrid",
@@ -6772,5 +6627,294 @@ export default [
         "link": "https://www.eldiario.es/sociedad/cuarenta-millones-comisiones-ocultas-empeno-rubiales-acabado-futbol-espanol-jugando-arabia-saudi_1_11968545.html",
         "date": "2025-01-17 21:12:03",
         "sentiment_score": -0.05392575263977051
+    },
+    {
+        "title": "Accionistas minoritarios del Sabadell piden al BBVA más información sobre la opa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/accionistas-minoritarios-del-sabadell-piden-al-bbva-mas-informacion-sobre-la-opa/",
+        "date": "2025-01-18 02:02:26",
+        "sentiment_score": -0.20535296201705933
+    },
+    {
+        "title": "Barcelona: la predicción del clima para este 18 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/5PXAHGYQVZBIJNODAOXOE7ZWEE.jpg?auth=dda4d0d2e6f522355c67a5e2db4098a3163cdba72b41d82a7678b15adc71d5f5&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/18/barcelona-la-prediccion-del-clima-para-este-18-de-enero/",
+        "date": "2025-01-18 02:02:20",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "EEUU celebra Acción de Gracias con precios más bajos pero un 20% más caros que hace 5 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/eeuu-celebra-accion-de-gracias-con-precios-mas-bajos-pero-un-20-mas-caros-que-hace-5-anos/",
+        "date": "2025-01-18 01:47:58",
+        "sentiment_score": 0.023192405700683594
+    },
+    {
+        "title": "Robles recalca que el material militar que España envía a Ucrania no tiene capacidad para atacar territorio ruso",
+        "image_url": "https://www.infobae.com/resizer/v2/EQWE5QI6RVCB3I7EH3IFFFCKXQ.jpg?auth=87118eaadce69100cebe40cee31b614e755294dbe5b27313b8b76c1b0ef3d76e&height=1324&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/20/robles-recalca-que-el-material-militar-que-espana-envia-a-ucrania-no-tiene-capacidad-para-atacar-territorio-ruso/",
+        "date": "2025-01-18 01:32:25",
+        "sentiment_score": -0.811146660707891
+    },
+    {
+        "title": "La banca europea avisa de que impuestos desproporcionados al sector pueden frenar región",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/la-banca-europea-avisa-de-que-impuestos-desproporcionados-al-sector-pueden-frenar-region/",
+        "date": "2025-01-18 01:02:38",
+        "sentiment_score": -0.7186623178422451
+    },
+    {
+        "title": "Trasladado al hospital un hombre de 62 años en silla de ruedas atropellado en Sevilla",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/trasladado-al-hospital-un-hombre-de-62-anos-en-silla-de-ruedas-atropellado-en-sevilla/",
+        "date": "2025-01-18 01:00:25",
+        "sentiment_score": -0.7371628228574991
+    },
+    {
+        "title": "Temas del día de EFE Economía del miércoles, 20 de noviembre de 2024 (19:30 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/temas-del-dia-de-efe-economia-del-miercoles-20-de-noviembre-de-2024-1930-horas/",
+        "date": "2025-01-18 00:47:41",
+        "sentiment_score": 0.0011316463351249695
+    },
+    {
+        "title": "Un juez investiga al jesuita Francesc Peris por unos abusos que pueden no haber prescrito",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/un-juez-investiga-al-jesuita-francesc-peris-por-unos-abusos-que-pueden-no-haber-prescrito/",
+        "date": "2025-01-18 00:47:27",
+        "sentiment_score": -0.8180140443146229
+    },
+    {
+        "title": "PP y Vox sacan adelante en el Congreso una iniciativa para construir una nueva comisaría de Policía en Pontevedra",
+        "image_url": "https://www.infobae.com/resizer/v2/XBACSYIA4JCPDNNMM3SZTHKQWE.jpg?auth=5a24a89cea01743f1405754b281d8dba085df8c12ee1963a9c0de305db20f8ae&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/pp-y-vox-sacan-adelante-en-el-congreso-una-iniciativa-para-construir-una-nueva-comisaria-de-policia-en-pontevedra/",
+        "date": "2025-01-18 00:33:33",
+        "sentiment_score": 0.6176490969955921
+    },
+    {
+        "title": "El PP echa en cara a Ribera \"huir\" hacia su cargo europeo sin atender los daños de la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/20/el-pp-echa-en-cara-a-ribera-huir-hacia-su-cargo-europeo-sin-atender-los-danos-de-la-dana/",
+        "date": "2025-01-18 00:33:20",
+        "sentiment_score": -0.9132340243086219
+    },
+    {
+        "title": "Petro en X: “Lo que ha cometido el ELN en el Catatumbo son crímenes de guerra”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2184995349.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colombia-petro-eln-crimenes-de-guerra-perspectivas-mexico-tv-fast/",
+        "date": "2025-01-18 00:16:37",
+        "sentiment_score": -0.8800704162567854
+    },
+    {
+        "title": "Mexicana enseña el arte vocal de los gritos guturales de bandas de metal en una escuela neerlandesa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/21296765-entrevista-marcela-bovio-00-03-18-17-still002.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cantante-mexicana-ensena-guturales-metal-europa-orix/",
+        "date": "2025-01-17 23:18:36",
+        "sentiment_score": 0.10380220413208008
+    },
+    {
+        "title": "Este es el interior de un hospital preparado para acoger a rehenes israelíes liberados",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/rehenes-israelies-liberados-trax-00-01-20-21-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rehenes-israelies-liberados-trax/",
+        "date": "2025-01-17 23:00:51",
+        "sentiment_score": -0.09264129400253296
+    },
+    {
+        "title": "Una enfermedad amenaza la vida de una niña de 2 años en una carrera contrarreloj en Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/53431775-19160114-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nina-gaza-enfermedad-evacuacion-medica-trax/",
+        "date": "2025-01-17 22:40:33",
+        "sentiment_score": -0.7799358032643795
+    },
+    {
+        "title": "Tensión en el Barça: Deco emprende acciones legales contra Víctor Font",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/13/2024121302184447034.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/tension-barca-deco-emprende-acciones-legales-victor-font/20250118025643330991.html",
+        "date": "2025-01-18 01:56:43",
+        "sentiment_score": -0.18038633465766907
+    },
+    {
+        "title": "David Beckham sorprende con un cambio físico que alarma a sus seguidores",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/06/2024120617541153405.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/david-beckham-preocupa-cambio-fisico/20250118024108330990.html",
+        "date": "2025-01-18 01:41:08",
+        "sentiment_score": -0.8878421429544687
+    },
+    {
+        "title": "Descubren los restos de nueve personas en una zona rural de Colombia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/65e3ba19-86fb-44a8-a98b-2079047be724_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/mundo/2025/01/18/descubren-restos-nueve-personas-zona-113491835.html",
+        "date": "2025-01-18 01:27:15",
+        "sentiment_score": -0.6828826162964106
+    },
+    {
+        "title": "Quién es Carlota Ruiz, la 'WAG discreta' detrás del exfutbolista Álvaro Arbeloa",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2025-01-16-a-las-172143_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/quien-carlota-ruiz-wag-discreta-detras-exfutbolista-alvaro-arbeloa",
+        "date": "2025-01-18 01:00:00",
+        "sentiment_score": -0.06121179461479187
+    },
+    {
+        "title": "El Betis pone el pie en el acelerador para incorporar a un refuerzo estrella",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/18/2024111818394082320.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/betis-pone-pie-acelerador-incorporar-refuerzo-estrella/20250118015029330985.html",
+        "date": "2025-01-18 00:50:29",
+        "sentiment_score": -0.19247465580701828
+    },
+    {
+        "title": "Lo que hay detrás de los Premios Zenda: Un 'cónclave' de iconos de nuestra literatura",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/los-poremiados_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/los-que-hay-detras-premios-zenda-conclave-iconos-nuestra-literatura",
+        "date": "2025-01-18 00:45:00",
+        "sentiment_score": 0.19845090061426163
+    },
+    {
+        "title": "#OasisDeLibertad (17-01-2025)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "oasisdelibertad"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/oasisdelibertad/audios/oasisdelibertad-17-20250118_3079449.html",
+        "date": "2025-01-18 00:24:15",
+        "sentiment_score": -0.28986092656850815
+    },
+    {
+        "title": "La nueva vía de ingresos del Camp Nou y el Bernabéu: modelo importado de Estados Unidos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/05/culemania/palco/914168621_13941680_1706x960.jpg?contentId=ESPIMA20250105_0047",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250118/la-de-camp-nou-bernabeu-estados-unidos/917158386_0.html",
+        "date": "2025-01-18 00:10:20",
+        "sentiment_score": 0.23374826088547707
+    },
+    {
+        "title": "El historial femenino de Ronaldo Nazario: Las mujeres que han marcado a 'El fenómeno'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2025-01-17-a-las-164549_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/vuelven-las-mujeres-que-han-marcado-ronaldo-nazario-historial-fenomeno",
+        "date": "2025-01-18 00:00:00",
+        "sentiment_score": 0.22686073184013367
+    },
+    {
+        "title": "«Trump ha creado a efectos prácticos una plutocracia abierta»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/01/17/Vasquezw-RRlTWfEgSitRdgSfuVvE8rL-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/culturas/libros/trump-creado-efectos-practicos-plutocracia-abierta-20250117194649-ntrc.html",
+        "date": "2025-01-17 23:45:06",
+        "sentiment_score": 0.23376064002513885
+    },
+    {
+        "title": "Laporta, frente al desafío de los agentes: la cara menos amable tras Mendes y Zahavi",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/22/empresas/796430351_8784289_1706x960.jpg?contentId=ESPIMA20230922_0002",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250118/laporta-frente-desafio-agentes-amable-mendes-zahavi/917158383_0.html",
+        "date": "2025-01-18 00:06:44",
+        "sentiment_score": -0.7794020660221577
+    },
+    {
+        "title": "Los hoteles de Bilbao, los octavos con los ingresos más altos por habitación",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/01/18/biz-hoteles-bilbao-ingresos-mas-altos-kOYG-U230566246020i6C-1200x750@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bizkaia/hoteles-bilbao-octavos-ingresos-altos-habitacion-20250118010358-nt.html",
+        "date": "2025-01-18 00:03:58",
+        "sentiment_score": 0.5909795090556145
+    },
+    {
+        "title": "Neymar contó que Mbappé se puso celoso por la llegada de Messi (+video)",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/01/neymar-mbbape-messi.jpeg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "psg",
+            "romario",
+            "entrevista",
+            "messi",
+            "lionel messi",
+            "celos",
+            "mbappé",
+            "neymar"
+        ],
+        "link": "https://primicia.com.ve/deportes/neymar-conto-que-mbappe-se-puso-celoso-por-la-llegada-de-messi-video/",
+        "date": "2025-01-17 23:37:41",
+        "sentiment_score": -0.5038050264120102
+    },
+    {
+        "title": "Jauregizar derriba la puerta",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/01/17/jauregizar-osasuna-k27H-U230565947229ViG-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/jauregizar-derriba-puerta-20250117003720-nt.html",
+        "date": "2025-01-17 23:37:20",
+        "sentiment_score": 0.36221103370189667
     }
 ];
