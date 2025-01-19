@@ -100,58 +100,6 @@ export default [
         "sentiment_score": -0.768285958096385
     },
     {
-        "title": "Maduro presenta su informe de gestión de 2024",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193332682.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/venezolanos-sobre-nuevo-mandato-maduro-tv/",
-        "date": "2025-01-15 13:43:34",
-        "sentiment_score": -0.13829216361045837
-    },
-    {
-        "title": "SpaceX lanza dos módulos para examinar la superficie de la Luna",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/nueva-grabacion-338-mejorada-v2-85p-00-00-05-03-still001.jpg?quality=100&strip=info",
-        "tags": [
-            "ciencia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/spacex-elon-musk-alunizaje-luna-ispace-firefly-aerospace-orix/",
-        "date": "2025-01-15 13:39:56",
-        "sentiment_score": 0.2087821513414383
-    },
-    {
-        "title": "¿Cómo se percibe en Gaza la posibilidad de un alto el fuego?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193357572.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/gaza-posibilidad-alto-fuego-hamas-cafe-tv/",
-        "date": "2025-01-15 13:23:26",
-        "sentiment_score": -0.1301734521985054
-    },
-    {
-        "title": "La inflación del 2024 en Argentina fue del 117,8% según datos oficiales",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_f1fe81.png",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/inflacion-2024-argentina-primera-manana/",
-        "date": "2025-01-15 12:58:11",
-        "sentiment_score": -0.041143517941236496
-    },
-    {
-        "title": "Ratones con gafas de realidad virtual: nuevas investigaciones buscan tratamientos contra el alzhéimer",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/captura-de-pantalla-2025-01-15-134735.jpg?quality=100&strip=info",
-        "tags": [
-            "ciencia",
-            "xpress",
-            "fast – general"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/gafas-realidad-virtual-ratones-alzheimer-cerebro-orix/",
-        "date": "2025-01-15 12:52:14",
-        "sentiment_score": 0.4905989319086075
-    },
-    {
         "title": "El régimen cubano comienza a excarcelar presos: estos son los primeros liberados",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/15/ReynaYacnaraBarretoBatista-RxaqOZ5c64lE1DXnQRI7j5I-1200x840@diario_abc.jpg",
         "tags": [
@@ -202,56 +150,6 @@ export default [
         "sentiment_score": -0.1571962833404541
     },
     {
-        "title": "Ryanair lanza una oferta con descuentos durante 48 horas: vuelos por menos de 17 euros a estos destinos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/15/aeropuerto-oferta-ryanair-RTGqITWAiqkv68vawUQmV8K-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ryanair-lanza-oferta-descuentos-horas-vuelos-euros-destinos-20250115141930-nt.html",
-        "date": "2025-01-15 13:24:36",
-        "sentiment_score": 0.014544397592544556
-    },
-    {
-        "title": "Agreden brutalmente al ex primer ministro de Georgia en un hotel",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/15/DAMBin(32)-kJNI-U70112182251zuE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/agreden-brutalmente-primer-ministro-georgia-hotel-20250115140252-nt.html",
-        "date": "2025-01-15 13:02:53",
-        "sentiment_score": -0.1684252768754959
-    },
-    {
-        "title": "Turquía, EE.UU., Rusia... Los países detrás de la caída del régimen de Al Assad",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/12/11/1489711070-U6033996597539XE-RxZ7W1zL5YgB95uEJI8gD7O-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/diferentes-actores-siria-provocado-caida-regimen-assad-20241211122755-nt.html",
-        "date": "2025-01-15 12:35:46",
-        "sentiment_score": -0.07692322134971619
-    },
-    {
-        "title": "Save the Children alerta de que más de medio millón de niños sirios sufren malnutrición",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2024/12/10/displaced-Rpnwy208VgFx92uxBhPknHO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/save-the-children-mama-puedes-encontrar-lugar-20241210174025-nt.html",
-        "date": "2025-01-15 12:33:53",
-        "sentiment_score": -0.19612690806388855
-    },
-    {
-        "title": "El régimen de Maduro detiene a la periodista venezolana Ana Carolina Guaita",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2024/08/21/ana-RJrykFYtNeBPiq2AzFTa3xM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/regimen-maduro-detiene-periodista-ana-carolina-guaita-20240821103237-nt.html",
-        "date": "2025-01-15 12:29:48",
-        "sentiment_score": -0.173660546541214
-    },
-    {
         "title": "La Junta de Andalucía cubre en menos de 24 hora la segunda convocatoria del Bono Alquiler Joven",
         "image_url": "https://imagenes.elpais.com/resizer/v2/TJNCRLVY4BFCNGB2PGTVNMMUEQ.jpg?auth=c66110cf070957d336783741619d0c7792726a4661be705095b9684ec9ee48ef",
         "tags": [
@@ -298,131 +196,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-01-15/un-paseo-atravesara-en-2027-el-zoo-de-barcelona-uniendo-la-vila-olimpica-y-ciutat-vella.html",
         "date": "2025-01-15 14:24:36",
         "sentiment_score": -0.15368745476007462
-    },
-    {
-        "title": "Ayuso, sobre el respaldo de la Fiscalía a investigar a su novio por nuevos delitos: “Le intentan destruir”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UCRSHGOBO7XNKV2BZ2QIFA3TDY.jpg?auth=b07609e2c0580a347555214f003d214838925c6462a3f20c2e68f21e2e308d6b",
-        "tags": [
-            "isabel díaz ayuso",
-            "fiscalía general estado",
-            "corrupción",
-            "madrid",
-            "caso ayuso",
-            "tribunal supremo",
-            "miguel ángel rodríguez",
-            "pp madrid",
-            "comunidad de madrid",
-            "alberto gonzález amador"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-15/ayuso-sobre-el-respaldo-de-la-fiscalia-a-investigar-a-su-novio-por-nuevos-delitos-le-intentan-destruir.html",
-        "date": "2025-01-15 13:46:44",
-        "sentiment_score": -0.901379999704659
-    },
-    {
-        "title": "España entregará 10 millones de euros al ejército libanés para consolidar el alto el fuego con Israel",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZJJLPUVNEDGLOJOSKAVYPCSMLI.jpg?auth=d6e6df43ceb8aa9259911a57ea212843ea2f39246da8da40a4042a76bc25d280",
-        "tags": [
-            "política exterior",
-            "cascos azules",
-            "españa",
-            "líbano",
-            "josé manuel albares",
-            "israel"
-        ],
-        "link": "https://elpais.com/espana/2025-01-15/espana-entregara-10-millones-de-euros-al-ejercito-libanes-para-consolidar-el-alto-el-fuego-con-israel.html",
-        "date": "2025-01-15 13:31:58",
-        "sentiment_score": -0.20896747708320618
-    },
-    {
-        "title": "Una máquina de hacer droga en el armario de la cocina: caen los narcotraficantes del chicle en Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/H452CDNQF5FQ3JV7QIUMZ3BFUU.jpeg?auth=96e7d2015fde548c81897f2003b8c649fde007f6bfe2659643d702bad31ac8d0",
-        "tags": [
-            "sucesos",
-            "detenciones",
-            "drogas",
-            "madrid",
-            "investigación policial",
-            "comunidad de madrid",
-            "policía"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-15/una-maquina-de-hacer-droga-en-el-armario-de-la-cocina-caen-los-narcotraficantes-del-chicle-en-madrid.html",
-        "date": "2025-01-15 13:28:18",
-        "sentiment_score": -0.08137372508645058
-    },
-    {
-        "title": "La Audiencia Nacional investiga la captación de altos cargos venezolanos para declarar contra Podemos por parte de la Policía de Rajoy",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YMF6A4PUHBCI3FIGDEEK4ELVJM.jpg?auth=e4c32388a276c838a824db77e4f091a6b1d24965c39a40364b28a683e17f35fc",
-        "tags": [
-            "investigación judicial",
-            "delitos",
-            "audiencia nacional",
-            "jorge fernandez diaz",
-            "corrupción política",
-            "gobierno",
-            "pablo iglesias",
-            "guerra sucia",
-            "mariano rajoy",
-            "pp",
-            "corrupción policial",
-            "podemos",
-            "santiago pedraz",
-            "ministerio del interior",
-            "justicia",
-            "españa",
-            "francisco martínez vázquez"
-        ],
-        "link": "https://elpais.com/espana/2025-01-15/la-audiencia-nacional-investiga-la-captacion-de-altos-cargos-venezolanos-para-declarar-contra-podemos-por-parte-de-la-policia-de-rajoy.html",
-        "date": "2025-01-15 13:25:45",
-        "sentiment_score": -0.5089385621249676
-    },
-    {
-        "title": "La Guardia Civil localiza en Soria una decena de gallos robados a una familia de Valladolid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AE6MEPTP2RAQJON3T47NRCPMIY.jpg?auth=969bf5fc5bc46f0fb564315cf61555c594db94c50c4959240e062089b43c10d1&width=1200",
-        "tags": [
-            "guardia civil",
-            "peleas gallos",
-            "valladolid",
-            "robos",
-            "soria",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-01-15/la-guardia-civil-localiza-en-soria-una-decena-de-gallos-robados-a-una-familia-de-valladolid.html",
-        "date": "2025-01-15 13:03:46",
-        "sentiment_score": -0.8353866320103407
-    },
-    {
-        "title": "Los socialistas alegan para adelantar la aplicación de la Zona de Bajas Emisiones de Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/424JLS42WZHWBKEYBT6FXG7TBY.JPG?auth=62f811d045eef3dec25c76db5a6ab9949e12769c1ac34dae969d27e427ed91f9&width=1200",
-        "tags": [
-            "ayuntamiento valencia",
-            "comunidad valenciana",
-            "ordenanzas municipales",
-            "calidad aire",
-            "zbe",
-            "contaminación atmosférica",
-            "valencia",
-            "restricciones circulación",
-            "pspv-psoe"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-15/los-socialistas-alegan-para-adelantar-la-aplicacion-de-la-zona-de-bajas-emisiones-de-valencia.html",
-        "date": "2025-01-15 12:54:12",
-        "sentiment_score": -0.08892449736595154
-    },
-    {
-        "title": "Las nuevas tarifas de los títulos de transporte público en Barcelona entran en vigor",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ROB4FWBWURESDHS4KUZFZH3RSI.jpg?auth=acc96cb6d086f056ef3b127ac95eb75d91f4142b4f8e29fc96954dc0b00696fa&width=1200",
-        "tags": [
-            "autobuses",
-            "tarifas transporte",
-            "metro",
-            "cataluña",
-            "trenes",
-            "transporte",
-            "precios"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-15/las-nuevas-tarifas-de-los-titulos-de-transporte-publico-en-barcelona-entran-en-vigor.html",
-        "date": "2025-01-15 12:39:12",
-        "sentiment_score": -0.12679145112633705
     },
     {
         "title": "La italiana Dedalus invertirá hasta 200 millones para digitalizar las historias clínicas de España",
@@ -6503,5 +6276,346 @@ export default [
         "link": "https://es.ara.cat/deportes/fc-barcelona/campo-minas-penalti-cisado-apuntes-caliente-getafe-barca_1_5259301.html",
         "date": "2025-01-18 21:59:18",
         "sentiment_score": -0.7472772300243378
+    },
+    {
+        "title": "Fundación Sanitas y Down España se unen para mejorar la salud bucodental de personas con síndrome de Down",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/21/fundacion-sanitas-y-down-espana-se-unen-para-mejorar-la-salud-bucodental-de-personas-con-sindrome-de-down/",
+        "date": "2025-01-19 02:02:49",
+        "sentiment_score": 0.15985460579395294
+    },
+    {
+        "title": "Economistas prevén aumento de concursos en personas, autónomos y micropymes por la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/economistas-preven-aumento-de-concursos-en-personas-autonomos-y-micropymes-por-la-dana/",
+        "date": "2025-01-19 02:02:37",
+        "sentiment_score": 0.18463543057441711
+    },
+    {
+        "title": "El Tesoro coloca 4.081 millones en deuda, entre ellas una nueva reapertura del bono verde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/el-tesoro-coloca-4081-millones-en-deuda-entre-ellas-una-nueva-reapertura-del-bono-verde/",
+        "date": "2025-01-19 02:02:25",
+        "sentiment_score": -0.457737497985363
+    },
+    {
+        "title": "El Gobierno detalla que ya hay 22.233 trabajadores protegidos por un ERTE por la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/el-gobierno-detalla-que-ya-hay-22233-trabajadores-protegidos-por-un-erte-por-la-dana/",
+        "date": "2025-01-19 01:48:16",
+        "sentiment_score": -0.030575647950172424
+    },
+    {
+        "title": "Quevedo lanzará este viernes su esperado segundo disco, 'Buenas noches'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/quevedo-lanzara-este-viernes-su-esperado-segundo-disco-buenas-noches/",
+        "date": "2025-01-19 01:48:04",
+        "sentiment_score": 0.6491935821250081
+    },
+    {
+        "title": "Bolaños recuerda a Podemos que lo que se vota hoy es un paquete fiscal \"progresista\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/bolanos-recuerda-a-podemos-que-lo-que-se-vota-hoy-es-un-paquete-fiscal-progresista/",
+        "date": "2025-01-19 01:47:52",
+        "sentiment_score": -0.4755290187895298
+    },
+    {
+        "title": "Aldama dice al juez del 'caso Koldo' que Begoña Gómez se reunió con Teresa Ribera para tratar la España vaciada",
+        "image_url": "https://www.infobae.com/resizer/v2/G2GRCKAUEVHJVJG3LZLEH5TNFM.jpg?auth=6294f737ee86135adbf81c6bc3320b4a81dc1976be8be4e6c84cd35692bcc9e8&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/aldama-dice-al-juez-del-caso-koldo-que-begona-gomez-se-reunio-con-teresa-ribera-para-tratar-la-espana-vaciada/",
+        "date": "2025-01-19 01:47:40",
+        "sentiment_score": -0.6793186739087105
+    },
+    {
+        "title": "El empleo del sector cultural crece un 4,4 % y se sitúa en más de 755.000 personas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/el-empleo-del-sector-cultural-crece-un-44-y-se-situa-en-mas-de-755000-personas/",
+        "date": "2025-01-19 01:47:27",
+        "sentiment_score": 0.5838276967406273
+    },
+    {
+        "title": "Sánchez convoca a los agentes sociales para analizar las consecuencias de la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/sanchez-convoca-a-los-agentes-sociales-para-analizar-las-consecuencias-de-la-dana/",
+        "date": "2025-01-19 01:33:29",
+        "sentiment_score": -0.15245561301708221
+    },
+    {
+        "title": "Bolaños, tras la declaración de Aldama que señala a Sánchez: \"Absoluto respeto a los procedimientos judiciales\"",
+        "image_url": "https://www.infobae.com/resizer/v2/A3DMMAQIDFC6RB2TBB47Q666BU.jpg?auth=b755a3b84549f7ab015eea8199d0be2404b71315cd6bf859bd1f03b164d8e4ac&height=1339&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/bolanos-tras-la-declaracion-de-aldama-que-senala-a-sanchez-absoluto-respeto-a-los-procedimientos-judiciales/",
+        "date": "2025-01-19 01:33:17",
+        "sentiment_score": 0.3534391298890114
+    },
+    {
+        "title": "Israel y Hamas se preparan para iniciar la tregua e intercambiar rehenes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2194600775.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/intercambio-rehenes-israel-hamas-mirador-mundial-tv/",
+        "date": "2025-01-19 01:16:59",
+        "sentiment_score": 0.09838137030601501
+    },
+    {
+        "title": "Varios heridos tras derrumbe de una silla de esquí en España",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/thumb-h-20250119005434970.jpg?quality=100&strip=info",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/derrumbe-torre-esqui-espana-astun-orix/",
+        "date": "2025-01-19 00:57:41",
+        "sentiment_score": -0.7559286132454872
+    },
+    {
+        "title": "Se cumplen 10 años de la muerte de Alberto Nisman",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/10-anos-muerte-nisman-fiscal-amia-mirador-mundial-tv/",
+        "date": "2025-01-19 00:41:14",
+        "sentiment_score": -0.8745384197682142
+    },
+    {
+        "title": "¿Cómo está el panorama en Gaza tras el cese del fuego entre Israel y Hamas?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cese-fuego-israel-hamas-gaza-que-sigue-mirador-mundial-tv/",
+        "date": "2025-01-19 00:39:19",
+        "sentiment_score": -0.2415292114019394
+    },
+    {
+        "title": "Los ganadores de los premios Gaudí 2025",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VMLIZYJ7FJCJE5IXADCBGTNBLQ.jpg?auth=54c28d9d04504c60e735695bd4285123ed39e2da109635a90fe3fc7ae5a66d39&width=1200",
+        "tags": [
+            "cine",
+            "premios gaudí",
+            "cataluña",
+            "cultura"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-19/los-ganadores-de-los-premios-gaudi-2025.html",
+        "date": "2025-01-19 00:15:47",
+        "sentiment_score": -0.15910692512989044
+    },
+    {
+        "title": "La lucha vecinal de los olvidados de Barcelona de ‘El 47’ conquista los premios Gaudí",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NGY3ECNU6J3KOHTYQASCSFOXMU.jpg?auth=9e0a8c3dd9b1e0f19babcfa7dcbd7b83f879080cfe0ab5bf7b033f571a1eec7b&width=1200",
+        "tags": [
+            "películas",
+            "eduard fernández",
+            "premios",
+            "cine",
+            "premios gaudí",
+            "cataluña",
+            "emma vilarasau"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-19/la-lucha-vecinal-de-los-olvidados-de-barcelona-de-el-47-conquista-los-premios-gaudi.html",
+        "date": "2025-01-19 00:14:51",
+        "sentiment_score": -0.26609714329242706
+    },
+    {
+        "title": "Barcelona no logra la victoria en su encuentro contra el Getafe",
+        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2025/01/Lamine-Yamal-7-860x645.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://reporteconfidencial.info/2025/01/18/barcelona-no-logra-la-victoria-en-su-encuentro-contra-el-getafe/",
+        "date": "2025-01-19 01:45:07",
+        "sentiment_score": 0.16232547163963318
+    },
+    {
+        "title": "San Andrés, la desconocida joya barroca en el corazón de La Latina con una de las cúpulas más imponentes de Madrid",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/a99c1b7a4e6025973cfb56a7549c495e/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/18/17372078741239.jpg",
+        "tags": [
+            "madrid",
+            "religión",
+            "arte",
+            "comunidad de madrid",
+            "arquitectura"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/01/19/678baf43e4d4d87c3f8b456f.html",
+        "date": "2025-01-19 01:42:16",
+        "sentiment_score": -0.6975216269493103
+    },
+    {
+        "title": "Jorge Calabrés, nuevo subdirector de investigación de El Español",
+        "image_url": "https://s1.elespanol.com/2025/01/17/actualidad/917169010_252418881_1706x960.jpg?contentId=ESPIMA20250117_0736",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20250119/jorge-calabres-nuevo-subdirector-investigacion-espanol/917158394_0.html",
+        "date": "2025-01-19 01:39:01",
+        "sentiment_score": 0.8363818861544132
+    },
+    {
+        "title": "España encadena récords turísticos y llegará a los 100 millones de visitantes en 2025: ¿son necesarios tantos?",
+        "image_url": "https://s1.elespanol.com/2025/01/16/invertia/916918441_252373842_1706x960.jpg?contentId=ESPIMA20250116_0142",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20250119/espana-encadena-records-turisticos-llegara-millones-visitantes-necesarios/916908688_0.html",
+        "date": "2025-01-19 01:36:45",
+        "sentiment_score": 0.426908265799284
+    },
+    {
+        "title": "Juan Manuel Loro, el criador de purasangres de alta competición que ganan en todos los hipódromos de España: \"Son Ferraris, la élite\"",
+        "image_url": "https://s1.elespanol.com/2025/01/17/actualidad/917169078_252420948_1706x960.jpg?contentId=ESPIMA20250117_0804",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250119/juan-manuel-loro-criador-purasangres-alta-competicion-ganan-hipodromos-espana-ferraris-elite/917158480_0.html",
+        "date": "2025-01-19 01:24:34",
+        "sentiment_score": -0.058440953493118286
+    },
+    {
+        "title": "Manuel de Cendra, el marqués chocolatero con un título creado a dedo por el Papa: \"Sánchez es un angelito al lado de los emperadores romanos\"",
+        "image_url": "https://s1.elespanol.com/2025/01/15/reportajes/916668732_252343606_1706x960.jpg?contentId=ESPIMA20250115_0408",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250119/manuel-cendra-marques-chocolatero-titulo-creado-dedo-papa-sanchez-angelito-lado-emperadores-romanos/916158910_0.html",
+        "date": "2025-01-19 01:24:23",
+        "sentiment_score": 0.5322494208812714
+    },
+    {
+        "title": "Soto Grado pitará el Celta-Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/K6XXOXVAQNHAPGSES64QESQCRU.jpg?auth=c80cf59200148396f1520341a29bf3fa5467202c415fce6f3419eb359f4706d4&height=2080&smart=true&width=3120",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/21/soto-grado-pitara-el-celta-barcelona/",
+        "date": "2025-01-19 01:18:07",
+        "sentiment_score": -0.3255811333656311
+    },
+    {
+        "title": "Coalición Canaria apoyará el paquete fiscal, que depende del voto de Podemos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/coalicion-canaria-apoyara-el-paquete-fiscal-que-depende-del-voto-de-podemos/",
+        "date": "2025-01-19 00:47:39",
+        "sentiment_score": 0.26047853007912636
+    },
+    {
+        "title": "El Athletic inicia en Vigo la defensa de su plaza Champions",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/01/18/GhlnuirW0AAkbTq-U23068980537uj-U230572490062LJC-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/athletic-inicia-vigo-defensa-plaza-champions-20250118013120-nt.html",
+        "date": "2025-01-19 00:31:20",
+        "sentiment_score": 0.1763514280319214
+    },
+    {
+        "title": "20 de diciembre de 2024: una fecha negra para el Ministerio de Trabajo con los Planes de Igualdad",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2024/12/trabajadores-companeros-300x169.jpg",
+        "tags": [
+            "app",
+            "planes de igualdad",
+            "silencio administrativo",
+            "znoticia portada1",
+            "artículos",
+            "legislación",
+            "derecho laboral",
+            "sindicatos",
+            "tribunal supremo"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/20-de-diciembre-de-2024-una-fecha-negra-para-el-ministerio-de-trabajo-con-los-planes-de-igualdad/",
+        "date": "2025-01-19 00:30:33",
+        "sentiment_score": -0.10698390007019043
+    },
+    {
+        "title": "La terminal",
+        "image_url": "https://static.grupojoly.com/clip/dff5e7f4-5202-4e2b-8a70-15a6277c21d2_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/terminal_0_2003166613.html",
+        "date": "2025-01-19 02:08:50",
+        "sentiment_score": -0.08872194588184357
+    },
+    {
+        "title": "Exsecretarios de Estado, el BdE, patronales, economistas y jóvenes, al unísono: \"Urge un pacto de Estado en vivienda\"",
+        "image_url": "https://s1.elespanol.com/2025/01/17/actualidad/917169244_252426066_1706x960.png?contentId=ESPIMA20250117_0970",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250119/exsecretarios-bde-patronales-economistas-jovenes-unisono-urge-pacto-vivienda/917158831_0.html",
+        "date": "2025-01-19 02:05:11",
+        "sentiment_score": 0.06764061748981476
+    },
+    {
+        "title": "Solo un empate en Getafe",
+        "image_url": "https://www.laregion.es/media/laregion/images/2025/01/19/2025011900213339131.jpg",
+        "tags": [
+            "deporte general"
+        ],
+        "link": "https://www.laregion.es/articulo/deportes/solo-empate-getafe/202501190022241364932.html",
+        "date": "2025-01-19 01:50:00",
+        "sentiment_score": -0.13248935341835022
+    },
+    {
+        "title": "Cuando los datos 'ponen en el escaparate' a la pyme española: la plataforma que les encuentra comprador en sólo tres meses",
+        "image_url": "https://s1.elespanol.com/2025/01/15/invertia/disruptores/ecosistema-startup/startups/916669302_252361134_1706x960.jpg?contentId=ESPIMA20250115_0978",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250119/datos-ponen-escaparate-pyme-espanola-plataforma-encuentra-comprador-solo-meses/916658797_0.html",
+        "date": "2025-01-19 01:45:42",
+        "sentiment_score": 0.6049428433179855
+    },
+    {
+        "title": "Tender puentes en mitad de un nuevo escenario tecnológico, el objetivo del Foro de Davos 2025",
+        "image_url": "https://s1.elespanol.com/2024/01/16/actualidad/825428263_239178374_1706x960.jpg?contentId=ESPIMA20240116_0814",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/europa/20250119/tender-puentes-mitad-nuevo-escenario-tecnologico-objetivo-foro-davos/916408481_0.html",
+        "date": "2025-01-19 01:42:17",
+        "sentiment_score": 0.2663985714316368
+    },
+    {
+        "title": "Dazia compra a Telefónica un edificio de oficinas por 37 millones que cambiará a viviendas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/dazia-compra-a-telefonica-un-edificio-de-oficinas-por-37-millones-que-cambiara-a-viviendas/",
+        "date": "2025-01-19 01:17:27",
+        "sentiment_score": 0.1892961598932743
     }
 ];
