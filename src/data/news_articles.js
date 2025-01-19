@@ -1,245 +1,5 @@
 export default [
     {
-        "title": "Organizan una nueva marcha el día 30 y concentraciones el 29, un mes después de la dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/19/organizan-una-nueva-marcha-el-dia-30-y-concentraciones-el-29-un-mes-despues-de-la-dana/",
-        "date": "2025-01-15 06:17:31",
-        "sentiment_score": 0.09010940045118332
-    },
-    {
-        "title": "Planas y las CCAA del Mediterráneo abordan las medidas para mantener su pesca de arrastre",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/15/planas-y-las-ccaa-del-mediterraneo-abordan-las-medidas-para-mantener-su-pesca-de-arrastre/",
-        "date": "2025-01-15 06:15:41",
-        "sentiment_score": 0.07983914017677307
-    },
-    {
-        "title": "El 78 % de los colegios, preparados para volver a afrontar una enseñanza virtual",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/15/el-78-de-los-colegios-preparados-para-volver-a-afrontar-una-ensenanza-virtual/",
-        "date": "2025-01-15 06:15:21",
-        "sentiment_score": 0.45715848356485367
-    },
-    {
-        "title": "Albares se reunirá con el líder de facto de Siria, Ahmed al Sharaa, en su viaje a Damasco",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/15/albares-se-reunira-con-el-lider-de-facto-de-siria-ahmed-al-sharaa-en-su-viaje-a-damasco/",
-        "date": "2025-01-15 05:30:58",
-        "sentiment_score": 0.05216235667467117
-    },
-    {
-        "title": "Esta es la ciudad de España más barata para comprar una vivienda de tres habitaciones: cuestan menos de 120.000 euros",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/15/casas-comprar-k1eC-U70107689676ct-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ciudad-espana-barata-comprar-vivienda-tres-habitaciones-20250115070000-nt.html",
-        "date": "2025-01-15 06:00:00",
-        "sentiment_score": -0.0416712760925293
-    },
-    {
-        "title": "Una traición y una vergüenza: la reacción sobre la decisión de Biden de retirar a Cuba de la lista de países patrocinadores del terrorismo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/15/cuba-kEFF-U70110231994uR-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/traicion-verguenza-reaccion-sobre-decision-biden-retirar-20250115063831-nt.html",
-        "date": "2025-01-15 05:40:50",
-        "sentiment_score": -0.15245792269706726
-    },
-    {
-        "title": "Las mafias digitales de la okupación que ofertan pisos, 2.000 euros en mano y la llave a tu disposición",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/diario_abc/2025/01/15/newspaint-1736872911405-1200x840-knnD-U70108024135qBF-1200x840@abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/mafias-digitales-okupacion-ofertan-pisos-3000-euros-20250115164228-nt.html",
-        "date": "2025-01-15 05:32:49",
-        "sentiment_score": -0.2077108472585678
-    },
-    {
-        "title": "Las últimas caravanas de emigrantes antes de Trump",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/14/mexico-RtdVxEGd8PmVZ6Aat60zdRL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ultimas-caravanas-emigrantes-trump-20250114061924-nt.html",
-        "date": "2025-01-15 05:19:25",
-        "sentiment_score": -0.05544695258140564
-    },
-    {
-        "title": "‘Maestros de la Costura’ vuelve con su edición ‘celebrity'",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/18ac1496-f996-a2c0-3dcf408b2df9edcd.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z18ac0f0b-aa63-5c4c-3920ad0608d52d90/202501/maestros-de-la-costura-vuelve-con-su-edicion-celebrity",
-        "date": "2025-01-15 06:29:31",
-        "sentiment_score": 0.5428611934185028
-    },
-    {
-        "title": "\"No quiero compasión, soy un privilegiado\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/82b1c7da-f51a-4ee8-ac89-7b1151fe7802_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2025/01/15/marc-cucalon-jugador-aragones-real-real-zaragoza-113394251.html",
-        "date": "2025-01-15 06:12:02",
-        "sentiment_score": 0.026425756514072418
-    },
-    {
-        "title": "La surrealista sanción de la FIFA a un club manchego de regional: un correo en 'spam', \"además en inglés\", y un fichaje que nunca pisó España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2f87ce5-b4ed-4af6-bda0-9bf05fc84104_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/deportes/2025/01/15/surrealista-sancion-fifa-club-manchego-113402048.html",
-        "date": "2025-01-15 06:10:32",
-        "sentiment_score": -0.7298695296049118
-    },
-    {
-        "title": "Favoritos ante un rival de Primera",
-        "image_url": "https://images.ficheroslavoz.com/60/60f1dfd1-df12-4a1f-a0b4-14c1d2ab0401.jpg?crop=4700%2C2647&expires=1768457467&height=1070&token=dKVHsF1TBXucb6MBSQsGuoxRIUt-_ddO0a1OcO0tWMk&width=1900",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdealmeria.com/noticia/338/ud-almeria/285838/favoritos-ante-un-rival-de-primera",
-        "date": "2025-01-15 06:09:58",
-        "sentiment_score": 0.4687267243862152
-    },
-    {
-        "title": "En busca de \"la mejor croqueta dulce y salada\" en el IES Almina",
-        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://elfarodeceuta.es/?p=1149012",
-        "date": "2025-01-15 06:05:55",
-        "sentiment_score": -0.005112245678901672
-    },
-    {
-        "title": "El Gobierno debate crear un nuevo impuesto o modificar Transmisiones para penalizar la compra de casas a extranjeros de fuera de la UE",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bec54e3a-d538-4ab4-8947-5759432732f0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/economia/2025/01/15/gobierno-nuevo-impuesto-itp-casas-extranjeros-113401999.html",
-        "date": "2025-01-15 06:05:09",
-        "sentiment_score": -0.016892433166503906
-    },
-    {
-        "title": "Las dudas del ‘gigante’",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/1888a694-0005-ab5d-39bdd046954e0af7.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z1888a58c-b234-af96-ed4214a8e771e229/202501/las-dudas-del-gigante",
-        "date": "2025-01-15 06:25:39",
-        "sentiment_score": -0.3369023725390434
-    },
-    {
-        "title": "Lo que debes saber hoy, 15 de enero, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2024/06/01/vivir-en-barcelona/859674057_13026754_1706x960.jpg?contentId=ESPIMA20240601_0033",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250115/lo-que-debes-saber-hoy-de-enero-barcelona/916658327_0.html",
-        "date": "2025-01-15 06:21:22",
-        "sentiment_score": 0.5238643363118172
-    },
-    {
-        "title": "Resolver casos jurídicos de una familia ficticia: 'Cicerón', el proyecto innovador para estudiantes de Derecho en la UB",
-        "image_url": "https://album.mediaset.es/eimg/2025/01/13/fachada-de-la-facultad-de-derecho-de-la-universitat-de-barcelona_01b5.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20250115/estudiantes-derecho-casos-juridicos-familia-ficticia-universidad-barcelona_18_014473677.html",
-        "date": "2025-01-15 06:20:34",
-        "sentiment_score": 0.636347584426403
-    },
-    {
-        "title": "La princesa Leonor: todos los detalles de su vida en Alta Mar",
-        "image_url": "https://www.hola.com/horizon/landscape/37e880adb92f-gettyimages-2193398942.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hola.com/realeza/casa_espanola/20250115740876/princesa-leonor-detalles-vida-alta-mar/",
-        "date": "2025-01-15 06:01:32",
-        "sentiment_score": 0.5849825739860535
-    },
-    {
-        "title": "Iñaki Domínguez: \"La nueva izquierda cree estar redimiéndose, cuando está siendo sometida\"",
-        "image_url": "https://static.grupojoly.com/clip/0492cde2-ed3b-418e-bd00-619d7d7ed4ce_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.huelvainformacion.es/entrevistas/inaki-dominguez-nueva-izquierda-redimiendose-sometida_0_2003144022.html",
-        "date": "2025-01-15 06:01:20",
-        "sentiment_score": -0.4918043538928032
-    },
-    {
-        "title": "Excelencia o sufrimiento",
-        "image_url": "https://static1.ara.cat/clip/08087a9f-eee0-419b-82e8-c9244a1ea5fa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/excelencia-sufrimiento_129_5255384.html",
-        "date": "2025-01-15 06:00:59",
-        "sentiment_score": -0.07799169421195984
-    },
-    {
-        "title": "La perla empresarial del Estado, de enhorabuena",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e485a2ff-b84d-423a-8b51-f1f61c946971_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20250115/perla-empresarial-enhorabuena-aena-113396765",
-        "date": "2025-01-15 06:00:54",
-        "sentiment_score": -0.16641779243946075
-    },
-    {
-        "title": "Así se cena en el restaurante donde importan ingredientes de Japón que no encontrará en ningún sitio más",
-        "image_url": "https://static1.ara.cat/clip/0ce5c7b4-d09d-499f-81e3-96910ce56bde_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/cena-restaurante-importan-ingredientes-japon-no-encontrara-sitio_1_5255376.html",
-        "date": "2025-01-15 06:00:53",
-        "sentiment_score": -0.44176244735717773
-    },
-    {
-        "title": "Todas las palabras del año",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/14e3b481-372a-4d59-b5cc-6f038009feb5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2025/01/15/palabras-ano-113391959.html",
-        "date": "2025-01-15 06:00:52",
-        "sentiment_score": -0.19202157855033875
-    },
-    {
-        "title": "A por otro cetro del Dakar con el coche de Jacky Ickx por las personas con TDAH",
-        "image_url": "https://www.mundodeportivo.com/files/image_948_465/uploads/2025/01/14/6786b68c4b32d.jpeg",
-        "tags": [
-            "dakar"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/rally-dakar/20250115/1002386713/cetro-dakar-coche-jacky-ickx-dar-visibilidad-tdah.html",
-        "date": "2025-01-15 06:00:00",
-        "sentiment_score": 0.19008614122867584
-    },
-    {
         "title": "Fitch y S&P reafirman la calificación de grado de inversión de Cellnex",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -390,20 +150,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/gafas-realidad-virtual-ratones-alzheimer-cerebro-orix/",
         "date": "2025-01-15 12:52:14",
         "sentiment_score": 0.4905989319086075
-    },
-    {
-        "title": "Última hora de la guerra en Gaza: posible acuerdo de alto al fuego, negociación para liberación de rehenes, noticias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
-        "tags": [
-            "gaza",
-            "israel noticias",
-            "medio oriente",
-            "hamas",
-            "minuto a minuto"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/15/ultima-hora-guerra-gaza-rehenes-noticias-y-mas-trax/",
-        "date": "2025-01-15 09:05:01",
-        "sentiment_score": 0.044734422117471695
     },
     {
         "title": "El régimen cubano comienza a excarcelar presos: estos son los primeros liberados",
@@ -6385,5 +6131,377 @@ export default [
         "link": "https://www.diariodenavarra.es/noticias/navarra/pamplona-comarca/2025/01/18/empresa-navarra-clabao-gestora-grande-pisos-turisticos-pamplona-dnexclusivo-635128-1002.html",
         "date": "2025-01-18 16:23:56",
         "sentiment_score": 0.2592514157295227
+    },
+    {
+        "title": "De la Torre pide a Sánchez una tasa de dos o tres euros por noche para pisos turísticos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/de-la-torre-pide-a-sanchez-una-tasa-de-dos-o-tres-euros-por-noche-para-pisos-turisticos/",
+        "date": "2025-01-18 22:02:53",
+        "sentiment_score": -0.08544283360242844
+    },
+    {
+        "title": "Carlos Alocén: \"Dejarlo nunca se me ha pasado por la cabeza\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/carlos-alocen-dejarlo-nunca-se-me-ha-pasado-por-la-cabeza/",
+        "date": "2025-01-18 22:02:41",
+        "sentiment_score": -0.30845215171575546
+    },
+    {
+        "title": "Rufián ve al PSOE desorientado porque no tiene un \"fontanero\" que negocie en el Congreso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/rufian-ve-al-psoe-desorientado-porque-no-tiene-un-fontanero-que-negocie-en-el-congreso/",
+        "date": "2025-01-18 22:02:29",
+        "sentiment_score": -0.8595221312716603
+    },
+    {
+        "title": "94-86. El Unicaja gana la lucha con Valencia Basket y es campeón de invierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/94-86-el-unicaja-gana-la-lucha-con-valencia-basket-y-es-campeon-de-invierno/",
+        "date": "2025-01-18 22:01:02",
+        "sentiment_score": 0.5577609017491341
+    },
+    {
+        "title": "Condenado a 6 años de cárcel por matar a su pareja en un rito esotérico en Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/condenado-a-6-anos-de-carcel-por-matar-a-su-pareja-en-un-rito-esoterico-en-madrid/",
+        "date": "2025-01-18 21:48:25",
+        "sentiment_score": -0.8737854091450572
+    },
+    {
+        "title": "Seis detenidos por el robo de mercancía de camiones en siete provincias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/seis-detenidos-por-el-robo-de-mercancia-de-camiones-en-siete-provincias/",
+        "date": "2025-01-18 21:48:13",
+        "sentiment_score": -0.6421785298734903
+    },
+    {
+        "title": "Detenido un hombre por el homicidio de otro, cuyo cadáver trasladó de lugar para ocultarlo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/detenido-un-hombre-por-el-homicidio-de-otro-cuyo-cadaver-traslado-de-lugar-para-ocultarlo/",
+        "date": "2025-01-18 21:48:01",
+        "sentiment_score": -0.6236099246889353
+    },
+    {
+        "title": "Podemos pide al Gobierno un compromiso de \"mínima\" recaudación del impuesto energetico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/podemos-pide-al-gobierno-un-compromiso-de-minima-recaudacion-del-impuesto-energetico/",
+        "date": "2025-01-18 21:47:49",
+        "sentiment_score": -0.14562460035085678
+    },
+    {
+        "title": "Tres detenidos en Algeciras por facilitar empadronamientos ficticios a inmigrantes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/tres-detenidos-en-algeciras-por-facilitar-empadronamientos-ficticios-a-inmigrantes/",
+        "date": "2025-01-18 21:47:37",
+        "sentiment_score": -0.7944001518189907
+    },
+    {
+        "title": "Ayuso apoya 100% el intento de veto a Ribera en Europa: \"Después de Valencia, no veo bien premiar a ningún político\"",
+        "image_url": "https://www.infobae.com/resizer/v2/ENXD3AT6XVBR5C7AOYXY2W4BHQ.jpg?auth=c48a47e36e48abcf67aa9a1638cb48fc0bca971ceccfa9868d68c81a5a0dba97&height=1278&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/ayuso-apoya-100-el-intento-de-veto-a-ribera-en-europa-despues-de-valencia-no-veo-bien-premiar-a-ningun-politico/",
+        "date": "2025-01-18 21:47:25",
+        "sentiment_score": -0.55259670317173
+    },
+    {
+        "title": "Elliott Abrams: Nadie sabe qué va a hacer Trump con Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2190485630-20250118191003255.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/trump-venezuela-edmundo-gonzalez-maduro-oppenheimer-presenta-tv/",
+        "date": "2025-01-18 19:14:44",
+        "sentiment_score": -0.26067210733890533
+    },
+    {
+        "title": "Nos extinguimos, pero lentamente (por suerte)",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/01/15/baja-U40277846817EyW-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-extinguimos-lentamente-suerte-20250119215649-nts.html",
+        "date": "2025-01-18 21:00:32",
+        "sentiment_score": -0.06161773204803467
+    },
+    {
+        "title": "El VAR del patrimonio",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2024/12/18/casa-k4HC--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-var-patrimonio-20250119194334-nts.html",
+        "date": "2025-01-18 20:59:49",
+        "sentiment_score": -0.07169273495674133
+    },
+    {
+        "title": "Cocalquivir",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/01/15/baja-U40277846817EyW-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-cocalquivir-20250119215746-nts.html",
+        "date": "2025-01-18 20:58:32",
+        "sentiment_score": -0.030117064714431763
+    },
+    {
+        "title": "Juan Lamillar entre las hojas amarillas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/17/libro-RIR2WnErKtmThqNi2AdCFHI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/lutgardo-garcia-juan-lamillar-hojas-amarillas-20250119215757-nts.html",
+        "date": "2025-01-18 20:57:57",
+        "sentiment_score": -0.05659165978431702
+    },
+    {
+        "title": "Atuendo",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/16/eltejo-kXoE--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-atuendo-20250119215737-nts.html",
+        "date": "2025-01-18 20:57:38",
+        "sentiment_score": -0.09658384323120117
+    },
+    {
+        "title": "Álvarez-Pallete se despide de los trabajadores de Telefónica: «Os pido la misma lealtad para el nuevo presidente»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/18/Pallete-kYpH-U70129223295uMG-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/alvarezpallete-despide-trabajadores-telefonica-pido-lealtad-nuevo-20250118210209-nt.html",
+        "date": "2025-01-18 20:02:10",
+        "sentiment_score": 0.05841723084449768
+    },
+    {
+        "title": "Taxi al aeropuerto",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/19/1490834935-RNPoIwoHwTftQbEmTQrE3DN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-taxi-aeropuerto-20250119204607-nts.html",
+        "date": "2025-01-18 19:46:07",
+        "sentiment_score": -0.1324290782213211
+    },
+    {
+        "title": "Donald Trump lanza su propia criptomoneda y su valor sube miles de millones en unas horas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/18/TrumpCriptobro-kY8G-U70129174123yqH-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/donald-trump-lanza-propia-criptomoneda-valor-sube-20250118201941-nt.html",
+        "date": "2025-01-18 19:19:42",
+        "sentiment_score": -0.1819838583469391
+    },
+    {
+        "title": "UGT alaba a Álvarez-Pallete como presidente de Telefónica y espera que el Gobierno «aclare» la razón de su cese",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/18/pallete-telef-RNq08ES0UROQeA9y6O0LKBI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ugt-alaba-alvarezpallete-presidente-telefonica-espera-gobierno-20250118191426-nt.html",
+        "date": "2025-01-18 18:15:42",
+        "sentiment_score": -0.0413910448551178
+    },
+    {
+        "title": "El gran proyecto de Trump",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/19/TERCERAABC_Trump_Ignatieff-RkmSb8ppi9B8WuVGsZzXmPP-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/michael-ignatieff-gran-proyecto-trump-20250119191404-nt.html",
+        "date": "2025-01-18 18:14:05",
+        "sentiment_score": -0.15382520854473114
+    },
+    {
+        "title": "Ortuzar se pone a disposición del PNV para aspirar a un cuarto mandato como presidente",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5XLKB6Y54JHNJMSQEMTD72NAVM.jpg?auth=a18d9047abf6263d68270ff015b88044244812f02a74fa38728b26f6f88f1bc6&width=1200",
+        "tags": [
+            "política",
+            "españa",
+            "país vasco",
+            "partidos políticos",
+            "eaj-pnv",
+            "andoni ortuzar"
+        ],
+        "link": "https://elpais.com/espana/2025-01-18/ortuzar-se-pone-a-disposicion-del-pnv-para-aspirar-a-un-cuarto-mandato-como-presidente.html",
+        "date": "2025-01-18 17:46:22",
+        "sentiment_score": 0.13160201907157898
+    },
+    {
+        "title": "Montero convoca a los socialistas a “recuperar la confianza de los andaluces” con un proyecto de izquierdas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7E3SV6SYEX4XH4E34WSUQSJ5QA.jpg?auth=d526f8b08f9f4bb6f9b2b78e08e75e20dc79435a80cb1535166c331b209e721f&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "maría jesús montero",
+            "españa",
+            "política",
+            "primarias psoe",
+            "partidos políticos",
+            "psoe-a",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2025-01-18/montero-convoca-a-los-socialistas-a-recuperar-la-confianza-de-los-andaluces-con-un-proyecto-de-izquierdas.html",
+        "date": "2025-01-18 17:17:41",
+        "sentiment_score": -0.1812657192349434
+    },
+    {
+        "title": "El Carpena y la épica coronan al Unicaja como líder de la primera vuelta de la Liga Endesa (94-86)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5586b0ea-df13-4b94-a359-c0f31d237c67_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/01/18/carpena-epica-unicaja-lider-valencia-113509993.html",
+        "date": "2025-01-18 22:11:05",
+        "sentiment_score": 0.36073943972587585
+    },
+    {
+        "title": "El Barça vuelve a las andadas en Liga y no pasa del empate ante el Getafe",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/18/678c225b08515.r_d.4893-1458-2000.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250118/barca-vuelve-andadas-liga-no-pasa-empate-ante-getafe_262234.html",
+        "date": "2025-01-18 22:03:25",
+        "sentiment_score": -0.31962498277425766
+    },
+    {
+        "title": "El Barça cae en la trampa del Getafe y no aprovecha el tropiezo del Atlético",
+        "image_url": "https://static1.ara.cat/clip/3295e7fe-8634-44a6-80c2-5ceadb160dda_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/barca-cae-trampa-getafe-no-aprovecha-tropiezo-atletico_1_5259297.html",
+        "date": "2025-01-18 21:58:49",
+        "sentiment_score": -0.547766700387001
+    },
+    {
+        "title": "Otro club extranjero entra en la puja por Yeremay. ¿De qué equipo estamos hablando?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/22/2024112216452892241.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/club-extranjero-entra-puja-yeremay-quien-estamos-hablando/20250118225722331054.html",
+        "date": "2025-01-18 21:57:22",
+        "sentiment_score": -0.37478866055607796
+    },
+    {
+        "title": "El malagueño cunero que guerreó por Almería",
+        "image_url": "https://images.ficheroslavoz.com/1c/1c9d86ce-721d-4c4f-86f3-cf044c47cdfc.jpg?crop=1404%2C791&expires=1768773314&height=1070&token=UKSZPJ7P7bQJjimMknSlLsIR4qylKcN67Wc12SwPXEU&width=1900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdealmeria.com/noticia/12/almeria/286053/el-malagueno-cunero-que-guerreo-por-almeria",
+        "date": "2025-01-18 21:54:24",
+        "sentiment_score": 0.10853777825832367
+    },
+    {
+        "title": "Como siempre... encomendados a Mestalla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1311c6f2-a677-4e90-9ac9-ef17d1923c4f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia cf,real sociedad,mestalla,el valencia,almeida,hugo duro,rubén baraja"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/18/encomendados-mestalla-113511478.html",
+        "date": "2025-01-18 21:53:42",
+        "sentiment_score": -0.6255381256341934
+    },
+    {
+        "title": "Pedro Martín explica el penalti no pitado de Uche a Koundé durante el Getafe-Barcelona: \"No le va a llamar\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/files/fp/uploads/2025/01/18/678be2e69d47f.r_d.1038-395-7042.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/pedro-martin-explica-penalti-pitado-uche-kounde-getafe-barcelona-le-llamar-20250118_3079582.html",
+        "date": "2025-01-18 21:51:03",
+        "sentiment_score": -0.05120155215263367
+    },
+    {
+        "title": "«No llegaremos a ningún barrio con la ORA si no es con la tarjeta de residente gratis»",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/01/18/101592277-kbRF--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/gijon/llegaremos-ningun-barrio-ora-tarjeta-residente-gratis-20250119223619-nt.html",
+        "date": "2025-01-18 21:47:50",
+        "sentiment_score": -0.20269795879721642
+    },
+    {
+        "title": "Los goles del empate entre el Getafe y el Barcelona",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/01/16/IMG-20250116-WA0251-kHyG--170x119@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/deportes/futbol/la-liga/liga-primera/goles-empate-getafe-barcelona-20250118231424-ntrc.html",
+        "date": "2025-01-18 22:14:25",
+        "sentiment_score": 0.36510637402534485
+    },
+    {
+        "title": "Ángel Escribano sustituirá a Murtra al frente de Indra",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b57117a8-ce0d-4c7f-aa2c-ce2a2c1c7db1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/economia/2025/01/18/angel-escribano-sustituira-murtra-frente-113512053.html",
+        "date": "2025-01-18 22:13:33",
+        "sentiment_score": 0.1385529339313507
+    },
+    {
+        "title": "Santos Cerdán: \"Cuando los jueces y magistrados cuestionan la legitimidad del Gobierno, ¿hay que señalarlo o hay que estar callados?\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef94431d-0699-4adc-bffe-75ec5439fa1f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/nacional/2025/01/18/santos-cerdan-jueces-magistrados-cuestionan-113511804.html",
+        "date": "2025-01-18 22:05:39",
+        "sentiment_score": -0.762279499322176
+    },
+    {
+        "title": "El Barça cae en la trampa del Getafe y da otro paso atrás en la Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/18/culemania/primer-equipo/917418328_13996981_1706x960.jpg?contentId=ESPIMA20250118_0079",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250118/el-barca-en-la-trampa-getafe-liga/917408293_0.html",
+        "date": "2025-01-18 22:00:56",
+        "sentiment_score": -0.9070525271818042
+    },
+    {
+        "title": "Un campo de minas y un penalti cisado: los apuntes en caliente del Getafe-Barça",
+        "image_url": "https://static1.ara.cat/clip/9922bca7-20b1-4194-9dc1-646a7059890c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/campo-minas-penalti-cisado-apuntes-caliente-getafe-barca_1_5259301.html",
+        "date": "2025-01-18 21:59:18",
+        "sentiment_score": -0.7472772300243378
     }
 ];
