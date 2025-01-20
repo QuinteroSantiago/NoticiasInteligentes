@@ -1,254 +1,5 @@
 export default [
     {
-        "title": "Amnistía denuncia el internamiento \"arbitrario\" de migrantes en centros de extranjería",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/20/amnistia-denuncia-el-internamiento-arbitrario-de-migrantes-en-centros-de-extranjeria/",
-        "date": "2025-01-16 06:18:13",
-        "sentiment_score": -0.8819927629083395
-    },
-    {
-        "title": "Las ventas mundiales del Grupo Renault aumentaron un 1,3 % en 2024",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/16/las-ventas-mundiales-del-grupo-renault-aumentaron-un-13-en-2024/",
-        "date": "2025-01-16 06:15:27",
-        "sentiment_score": 0.4824756346642971
-    },
-    {
-        "title": "Quién fue Juan Sebastián Elcano, el marino español que completó la primera vuelta a la Tierra: su relación con Magallanes y las posibles causas de su muerte",
-        "image_url": "https://www.infobae.com/resizer/v2/JRASYUNWVRHHNIZG7PYRSOGSSA.jpg?auth=fffbc7b7bc7f904cd4d4a84c75771588964550fd7ee42e3f9c25521af4df8435&height=627&smart=true&width=916",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/01/15/quien-fue-juan-sebastian-elcano-el-marino-espanol-que-completo-la-primera-vuelta-a-la-tierra-su-relacion-con-magallanes-y-las-posibles-causas-de-su-muerte/",
-        "date": "2025-01-16 06:15:06",
-        "sentiment_score": 0.13803385198116302
-    },
-    {
-        "title": "Samuraï, la mujer que pone rock al nuevo pop: Soy un señor con cerveza y camiseta de AC/DC",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/20/samurai-la-mujer-que-pone-rock-al-nuevo-pop-soy-un-senor-con-cerveza-y-camiseta-de-acdc/",
-        "date": "2025-01-16 06:02:55",
-        "sentiment_score": 0.28422917425632477
-    },
-    {
-        "title": "El jurado popular comienza la deliberación sobre la culpabilidad del anciano que mató a un ladrón en su casa",
-        "image_url": "https://www.infobae.com/resizer/v2/FF73INEECRBAFJILIA3YTQSPYM.jpg?auth=30f0942bcc45f703265a31ed6ae78f4e0715cd4adc24ab42986bd82ba83d8758&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/20/el-jurado-popular-comienza-la-deliberacion-sobre-la-culpabilidad-del-anciano-que-mato-a-un-ladron-en-su-casa/",
-        "date": "2025-01-16 06:02:43",
-        "sentiment_score": -0.6870680749416351
-    },
-    {
-        "title": "Comunidad de Madrid alude a una \"intencionalidad política\" por parte del Gobierno para querer atrasar las obras en A-5",
-        "image_url": "https://www.infobae.com/resizer/v2/E52BGDFHLVF65GPAFLGVLVXCDI.jpg?auth=8d86df6efd6568a1d972c39beef16167dc19b865e2f658edf788312aeab5d1eb&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/20/comunidad-de-madrid-alude-a-una-intencionalidad-politica-por-parte-del-gobierno-para-querer-atrasar-las-obras-en-a-5/",
-        "date": "2025-01-16 05:48:23",
-        "sentiment_score": -0.8486753106117249
-    },
-    {
-        "title": "Ford inicia una parada en vehículos por problemas en el suministro de proveedores",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/20/ford-inicia-una-parada-en-vehiculos-por-problemas-en-el-suministro-de-proveedores/",
-        "date": "2025-01-16 05:33:10",
-        "sentiment_score": -0.7173290159553289
-    },
-    {
-        "title": "El Hang Seng gana un 0,2 % impulsado por las inmobiliarias",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/20/el-hang-seng-gana-un-02-impulsado-por-las-inmobiliarias/",
-        "date": "2025-01-16 05:32:58",
-        "sentiment_score": 0.23940788954496384
-    },
-    {
-        "title": "Feijóo critica que Sánchez persista en Ribera como comisaria, una \"mala candidata\" y un \"mal nombramiento\" para la UE",
-        "image_url": "https://www.infobae.com/resizer/v2/VN62HHVAWFBTNFY6RLHFVXI5RE.jpg?auth=cee52a68dcb433639aef5b7a198754ffd8da4837d042b130b0a3adbc4df08d81&height=1332&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/20/feijoo-critica-que-sanchez-persista-en-ribera-como-comisaria-una-mala-candidata-y-un-mal-nombramiento-para-la-ue/",
-        "date": "2025-01-16 05:32:46",
-        "sentiment_score": -0.9451232040300965
-    },
-    {
-        "title": "El buque Juan Carlos I se vuelca en Valencia: \"No estáis solos y no os vamos a olvidar\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/20/el-buque-juan-carlos-i-se-vuelca-en-valencia-no-estais-solos-y-no-os-vamos-a-olvidar/",
-        "date": "2025-01-16 05:18:10",
-        "sentiment_score": -0.12921461462974548
-    },
-    {
-        "title": "Ayuso recurrirá ante el Tribunal Constitucional para evitar que el Gobierno convierta la Real Casa de Correos en un Lugar de Memoria Democrática",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "ley de memoria democrática",
-            "españa",
-            "tribunal constitucional",
-            "madrid",
-            "real casa de correos",
-            "comunidad de madrid",
-            "ángel víctor torres",
-            "gobierno de españa",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://www.estrelladigital.es/espana/20250116/real-casa-de-correos-2/",
-        "date": "2025-01-16 06:30:00",
-        "sentiment_score": -0.7988429348915815
-    },
-    {
-        "title": "Patxi Puñal: “Si el Athletic quiere a algún chico, tendrá que pagar bien pagado”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8fd577ce-1d17-4956-a0a1-8233bfa0e930_16-9-aspect-ratio_default_0_x998y597.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/01/16/patxi-punal-athletic-chico-bien-pagado-9160544.html",
-        "date": "2025-01-16 06:25:22",
-        "sentiment_score": 0.22936388850212097
-    },
-    {
-        "title": "Ángel Fernández, gana el Campeonato Provincial de Becadas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/54c5ed8c-6518-438b-b774-4c3b6c6a59ed_16-9-aspect-ratio_default_1349464.jpg",
-        "tags": [
-            "caza,jesús,federación,navarra"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2025/01/16/angel-fernandez-gana-campeonato-provincial-113424093.html",
-        "date": "2025-01-16 06:00:36",
-        "sentiment_score": 0.03849214315414429
-    },
-    {
-        "title": "Málaga supera los 30 trenes diarios de alta velocidad, mientras los precios continúan bajando",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd6d3426-d028-46a0-bc33-e9d8f2beef2d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2025/01/16/malaga-supera-30-trenes-diarios-precio-bajando-113418134.html",
-        "date": "2025-01-16 06:00:27",
-        "sentiment_score": 0.7406242918223143
-    },
-    {
-        "title": "El estudiante modelo del Real Madrid que triunfa en el club de su vida: \"La cantera del Celta tiene una suerte inmensa\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7e8d647d-a019-4d75-b97a-65292262760c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "futbol,copa del rey,real madrid,celta de vigo,el periódico de españa,carlo ancelotti"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/01/16/estudiante-modelo-real-madrid-triunfa-113429935.html",
-        "date": "2025-01-16 06:00:09",
-        "sentiment_score": 0.36839717626571655
-    },
-    {
-        "title": "Restaurante Mìzzica: la puerta de entrada a Sicilia está en el Eixample",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1bbcc2c3-fa16-4dec-8da7-57ea9693d473_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20250116/restaurante-mizzica-barcelona-italiano-sicilia-113235133",
-        "date": "2025-01-16 06:29:13",
-        "sentiment_score": -0.17988690733909607
-    },
-    {
-        "title": "Los mejores restaurantes de Barcelona que debes visitar antes de que acabe enero",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/766ae01b-9291-4fc5-9fe7-a425aee2244b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20250116/buenos-restaurantes-barcelona-contracorrent-casa-pepi-grace-bodega-gol-kresala-fronda-pasaje-113230530",
-        "date": "2025-01-16 06:28:21",
-        "sentiment_score": 0.49037324637174606
-    },
-    {
-        "title": "El trasplante de órganos en 2024 en Cataluña: \"el tercer mejor año de la historia\" pese a la caída de casos",
-        "image_url": "https://album.mediaset.es/eimg/2025/01/13/transplante-en-el-hospital-universitario-arnau-de-vilanova-de-lleida_26c4.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20250116/hospitales-catalanes-1-344-trasplante-organos-2024_18_014492235.html",
-        "date": "2025-01-16 06:20:32",
-        "sentiment_score": 0.3058519959449768
-    },
-    {
-        "title": "Carmen Thyssen adquiere obras de Sert y Urgell para su futuro museo de Barcelona",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2025/01/15/D9B2AD93-8A12-412E-BED0-9DA0CB67D341/gran-obra-modest-urgell-adquirida-carmen-thyssen_69.jpg?crop=1947%2C1095%2Cx61%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/carmen-thyssen-adquiere-obras-sert-urgell-futuro-museo-barcelona_202501166788a51d0c57370001b9ed23.html",
-        "date": "2025-01-16 06:20:13",
-        "sentiment_score": 0.8389866314828396
-    },
-    {
-        "title": "Lo que debes saber hoy, 16 de enero, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/08/22/vivir-en-barcelona/697440321_10955716_1706x960.jpg?contentId=ESPIMA20220822_0072",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250116/lo-que-debes-saber-hoy-de-enero-barcelona/916908302_0.html",
-        "date": "2025-01-16 06:11:27",
-        "sentiment_score": -0.0645197331905365
-    },
-    {
-        "title": "Collboni plantea una negociación de presupuestos expreso",
-        "image_url": "https://static1.ara.cat/clip/0ff60eb5-3851-470a-a111-7dfc761236fa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/sociedad/barcelona/collboni-plantea-negociacion-presupuestos-expreso_1_5256370.html",
-        "date": "2025-01-16 06:01:25",
-        "sentiment_score": 0.08169295638799667
-    },
-    {
-        "title": "El 'método L'Hospitalet' para tratar el síndrome de Diógenes: un caso de \"éxito\" que lleva meses paralizado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9bd31de0-b027-406a-9390-f26312e719ee_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.elperiodico.com/es/sanidad/20250116/metodo-hospitalet-sindrome-diogenes-tasa-exito-113419491",
-        "date": "2025-01-16 06:00:42",
-        "sentiment_score": -0.24439874291419983
-    },
-    {
-        "title": "Prensa Ibérica expone las conclusiones de su tercer Estudio de Tendencias Informativas con el ojo puesto en la lucha contra la desinformación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/39cc4340-f204-4ddd-9eb2-0820b41cbcfa_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20250116/prensa-iberica-tercer-estudio-tendencias-barcelona-113283987",
-        "date": "2025-01-16 06:00:41",
-        "sentiment_score": 0.3460130291059613
-    },
-    {
-        "title": "El Osasuna Promesas llega a Zamora muy necesitado de puntos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92f77c0b-2dc2-4e7c-ab8d-620e65f298b4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "osasuna,laliga,cd tenerife,rfef"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2025/01/16/osasuna-promesas-llega-zamora-necesitado-113424188.html",
-        "date": "2025-01-16 06:00:35",
-        "sentiment_score": 0.039346903562545776
-    },
-    {
         "title": "Proyecto aurífero de San Gabriel, en el sur de Perú, empezará a operar a mitad de 2025",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -397,29 +148,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/retos-globales-cambio-climatico-2025-primera-manana-fast/",
         "date": "2025-01-16 13:00:39",
         "sentiment_score": 0.05052000284194946
-    },
-    {
-        "title": "Mira cómo Blue Origin lanzó New Glenn, su primer cohete orbital",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/blue-origin-new-glenn-16x9-thumb1-1-20250116100113082.jpg?quality=100&strip=info",
-        "tags": [
-            "ciencia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/blue-origin-jeff-bezos-new-glenn-cohete-trax/",
-        "date": "2025-01-16 10:03:39",
-        "sentiment_score": 0.3653552979230881
-    },
-    {
-        "title": "Última hora de la guerra entre Hamas e Israel: alto el fuego, posible liberación de rehenes, noticias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
-        "tags": [
-            "medio oriente",
-            "israel noticias",
-            "minuto a minuto",
-            "hamas"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/16/guerra-israel-hamas-alto-el-fuego-liberacion-rehenes-noticias-trax/",
-        "date": "2025-01-16 08:58:35",
-        "sentiment_score": -0.027119316160678864
     },
     {
         "title": "Roberto Bodegas, nuevo presidente de OJD",
@@ -6237,5 +5965,395 @@ export default [
         "link": "https://elfarodeceuta.es/?p=1150715",
         "date": "2025-01-19 17:00:46",
         "sentiment_score": -0.005112245678901672
+    },
+    {
+        "title": "Dunarea Braila, Thüringer y el Larvik, rivales del Elche en la fase de grupos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/dunarea-braila-thuringer-y-el-larvik-rivales-del-elche-en-la-fase-de-grupos/",
+        "date": "2025-01-19 22:02:30",
+        "sentiment_score": -0.21864856779575348
+    },
+    {
+        "title": "1-0. El Valencia de Corberán suma su primer triunfo liguero y deja de ser el colista",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/1-0-el-valencia-de-corberan-suma-su-primer-triunfo-liguero-y-deja-de-ser-el-colista/",
+        "date": "2025-01-19 22:02:04",
+        "sentiment_score": -0.03473396599292755
+    },
+    {
+        "title": "Mbappe se sitúa a cuatro goles de Lewandowski",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/mbappe-se-situa-a-cuatro-goles-de-lewandowski/",
+        "date": "2025-01-19 22:01:48",
+        "sentiment_score": 0.040917426347732544
+    },
+    {
+        "title": "La canónica biografía de Franco escrita por el hispanista Paul Preston se adapta al cómic",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/la-canonica-biografia-de-franco-escrita-por-el-hispanista-paul-preston-se-adapta-al-comic/",
+        "date": "2025-01-19 21:48:13",
+        "sentiment_score": 0.04747180640697479
+    },
+    {
+        "title": "Un incendio en un polígono industrial de Asturias obliga a confinar a la población cercana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/un-incendio-en-un-poligono-industrial-de-asturias-obliga-a-confinar-a-la-poblacion-cercana/",
+        "date": "2025-01-19 21:48:01",
+        "sentiment_score": -0.8494470193982124
+    },
+    {
+        "title": "Comprobar Bonoloto: los ganadores de este 19 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/G3VCBHTQ7RBXVAKR3R3IJOPNEQ.jpg?auth=203b179773f4341598f0824250f49ed0de0ca9028dd79cac0f3871da25291b87&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/19/comprobar-bonoloto-los-ganadores-de-este-19-de-enero/",
+        "date": "2025-01-19 21:45:57",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "Italia dice que la CE tiene que cambiar la política climática para salvar a la industria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/italia-dice-que-la-ce-tiene-que-cambiar-la-politica-climatica-para-salvar-a-la-industria/",
+        "date": "2025-01-19 21:18:03",
+        "sentiment_score": 0.08259938657283783
+    },
+    {
+        "title": "España fue el país de la UE que más pescado capturó en 2023, un 21 % del total",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/espana-fue-el-pais-de-la-ue-que-mas-pescado-capturo-en-2023-un-21-del-total/",
+        "date": "2025-01-19 21:17:51",
+        "sentiment_score": 0.3546951860189438
+    },
+    {
+        "title": "Sheinbaum asegura que Trudeau \"no está de acuerdo\" en sacar a México del T-MEC",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/sheinbaum-asegura-que-trudeau-no-esta-de-acuerdo-en-sacar-a-mexico-del-t-mec/",
+        "date": "2025-01-19 21:17:39",
+        "sentiment_score": -0.6569705232977867
+    },
+    {
+        "title": "Mercedes-Benz quiere reducir sus costes en miles de millones al año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/mercedes-benz-quiere-reducir-sus-costes-en-miles-de-millones-al-ano/",
+        "date": "2025-01-19 21:17:26",
+        "sentiment_score": 0.4076361581683159
+    },
+    {
+        "title": "Los retos que enfrentan México y EE.UU. en el segundo mandato de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2167170614.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/retos-mexico-eeuu-segundo-mandato-trump-mexico-opina-tv-fast/",
+        "date": "2025-01-19 21:07:16",
+        "sentiment_score": -0.23253114521503448
+    },
+    {
+        "title": "Hamas libera a tres rehenes israelíes tras iniciar el alto el fuego",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_3b803b.png",
+        "tags": [
+            "fast – news variety",
+            "xpress"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/liberacion-primeras-rehenes-fast/",
+        "date": "2025-01-19 18:56:04",
+        "sentiment_score": 0.055973395705223083
+    },
+    {
+        "title": "Mira el momento en que Hamas libera a las tres primeras rehenes israelíes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/image-20250119174134649.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/momento-liberacion-primeras-rehenes-hamas-israel-orix/",
+        "date": "2025-01-19 17:47:49",
+        "sentiment_score": -0.08792518079280853
+    },
+    {
+        "title": "Trump calienta su investidura con un baño de masas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/19/trump_20250119212807-RWcT1f6R5lOdVPPKxeTEWoM-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-calienta-investidura-bano-masas-20250119213823-nt.html",
+        "date": "2025-01-19 20:38:24",
+        "sentiment_score": -0.12383571267127991
+    },
+    {
+        "title": "El narco está goleando",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/01/14/proteina-grasa-parda-adelgazar-kd4F--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-narco-goleando-20250120211448-nts.html",
+        "date": "2025-01-19 20:15:53",
+        "sentiment_score": -0.1290244460105896
+    },
+    {
+        "title": "Entre el cianuro y el botín",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/20/pedros-RQmxZnpdovYOaE53877a60H-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-marin-sicilia-cianuro-botin-20250120195704-nts.html",
+        "date": "2025-01-19 18:58:25",
+        "sentiment_score": -0.15092188119888306
+    },
+    {
+        "title": "El siglo de Trump",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/20/TERCERAABC_ElsiglodeTrump_RODRIGUEZ-R16EZ4wpK1c3gVuCN6oAkuI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-rodriguez-siglo-trump-20250120193035-nt.html",
+        "date": "2025-01-19 18:31:09",
+        "sentiment_score": -0.10067710280418396
+    },
+    {
+        "title": "No pudieron esperar al lunes",
+        "image_url": "https://s1.ppllstatics.com/larioja/www/multimedia/2025/01/16/hospital%20-k61F--170x119@La%20Rioja.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-pudieron-esperar-lunes-20250120192918-nt.html",
+        "date": "2025-01-19 18:29:26",
+        "sentiment_score": -0.16146519780158997
+    },
+    {
+        "title": "Gregorio o la vida",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/16/eltejo-kXoE--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-gregorio-vida-20250120191145-nt.html",
+        "date": "2025-01-19 18:29:11",
+        "sentiment_score": -0.14676710963249207
+    },
+    {
+        "title": "Una foto para la infamia",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/01/15/baja-U40277846817EyW-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-foto-infamia-20250120192844-nt.html",
+        "date": "2025-01-19 18:28:52",
+        "sentiment_score": -0.1686263531446457
+    },
+    {
+        "title": "Golpe de mano",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/01/14/1483647238-kiSE--170x119@Diario%20Sur.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-golpe-mano-20250120192828-nt.html",
+        "date": "2025-01-19 18:28:36",
+        "sentiment_score": -0.07898223400115967
+    },
+    {
+        "title": "La liberación de las tres rehenes silencia las armas en Gaza: «Es como una película de terror, pero real»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/19/israel-R1UNVPEm0Gb7tuA5Ru5BcGP-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/liberacion-tres-rehenes-silencia-armas-gaza-pelicula-20250119191633-nt.html",
+        "date": "2025-01-19 18:28:24",
+        "sentiment_score": -0.08721822500228882
+    },
+    {
+        "title": "Illa prevé que el tranvía de Tarragona se estrene en el primer trimestre de 2028",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2TZFHM6VBUNZHOFVSOE47KHPUU.jpg?auth=91676709f05f0f519c471f5d7dcf38d666f23af0690f9b680d45380ee4057acd&width=1200",
+        "tags": [
+            "tranvía",
+            "tarragona",
+            "salvador illa",
+            "salou",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-19/illa-preve-que-el-tranvia-de-tarragona-se-estrene-en-el-primer-trimestre-de-2028.html",
+        "date": "2025-01-19 18:08:42",
+        "sentiment_score": 0.06097893789410591
+    },
+    {
+        "title": "El Real Madrid, líder al ritmo de Mbappé",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/19/el-real-madrid-lider-al-ritmo-de-mbappe/",
+        "date": "2025-01-19 22:15:37",
+        "sentiment_score": 0.5545966289937496
+    },
+    {
+        "title": "Corberán y Duro señalan el camino a la salvación (1-0)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/820468c9-f260-4795-8881-c18a320ef8d2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/19/corberan-duro-senalan-camino-salvacion-113535399.html",
+        "date": "2025-01-19 22:08:15",
+        "sentiment_score": -0.02717047929763794
+    },
+    {
+        "title": "Florentino Pérez, reelegido como presidente del Real Madrid hasta el año 2029",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/01/EuropaPress_6383665_florentino_perez_rodriguez_president_of_real_madrid_attends_during_the-1-1200x675.jpg",
+        "tags": [
+            "florentino pérez",
+            "real madrid",
+            "presidente",
+            "fútbol",
+            "acs"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2025-01-19/florentino-perez-reelegido-presidente-madrid/",
+        "date": "2025-01-19 21:57:23",
+        "sentiment_score": 0.07159928232431412
+    },
+    {
+        "title": "El Hércules sale del «play-off»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4019dfc7-ceb7-4446-b018-8393e1e51300_16-9-aspect-ratio_default_1350200.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/hercules-cf/2025/01/19/hercules-sale-play-off-113535202.html",
+        "date": "2025-01-19 21:55:14",
+        "sentiment_score": -0.03033900260925293
+    },
+    {
+        "title": "Florentino Pérez elegido presidente del Real Madrid hasta 2029",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eltiempove.com/florentino-perez-elegido-presidente-del-real-madrid-hasta-2029/",
+        "date": "2025-01-19 21:48:54",
+        "sentiment_score": -0.022997170686721802
+    },
+    {
+        "title": "Qué hacer en la era de la desmovilización: \"Ha calado la idea de 'manifestar' cosas con velas, pero no manifestarse en la calle\"",
+        "image_url": "https://static.eldiario.es/clip/9d51311f-1895-488b-87e8-c6fde847eacd_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/era/politica-del-malestar-alicia-valdes_1_11962026.html",
+        "date": "2025-01-19 21:19:05",
+        "sentiment_score": -0.229409858584404
+    },
+    {
+        "title": "Tras un comienzo ilusionante, la UD sucumbe en el Bernabeu de forma clara (4-1)",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2025/01/19/678d5f7bced37.jpeg",
+        "tags": [
+            "deportes gran canaria"
+        ],
+        "link": "https://www.cope.es/emisoras/canarias/las-palmas/gran-canaria/deportes-gran-canaria/noticias/comienzo-ilusionante-ud-sucumbe-bernabeu-forma-clara-20250119_3079734.html",
+        "date": "2025-01-19 21:17:26",
+        "sentiment_score": -0.03727039694786072
+    },
+    {
+        "title": "Florentino Pérez, reelegido presidente del Real Madrid: séptimo mandato",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/25/culemania/real-madrid/903919600_13767973_1706x960.jpg?contentId=ESPIMA20241125_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20250119/florentino-perez-reelegido-presidente-real-madrid-septimo/917658281_0.html",
+        "date": "2025-01-19 21:14:03",
+        "sentiment_score": 0.3046250641345978
+    },
+    {
+        "title": "Nuevo récord y definidos los cuatro posibles rivales del Valencia BC en la Copa del Rey",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5266481f-82a1-4390-ace4-192f345d8a09_16-9-aspect-ratio_default_0_x1066y733.jpg",
+        "tags": [
+            "valencia basket,gran canaria,baxi manresa,fc barcelona,joventut de badalona,copa acb"
+        ],
+        "link": "https://www.superdeporte.es/valencia-basket/2025/01/19/definidos-cuatro-posibles-rivales-valencia-basket-copa-del-rey-113534530.html",
+        "date": "2025-01-19 21:12:41",
+        "sentiment_score": -0.8872656300663948
+    },
+    {
+        "title": "El claustro gótico más grande del mundo está en el barrio más exclusivo de Barcelona: siete siglos de historia",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/01/19/vivir-en-barcelona/917668282_13998930_1706x960.jpg?contentId=ESPIMA20250119_0058",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250119/el-claustro-gotico-mas-grande-del-mundo-esta-en-el-barrio-exclusivo-de-barcelona-siete-siglos-historia/917658283_0.html",
+        "date": "2025-01-19 22:10:34",
+        "sentiment_score": 0.5480610691010952
+    },
+    {
+        "title": "Impacto en Brasil: Neymar acordó su regreso al Santos",
+        "image_url": "https://www.infobae.com/resizer/v2/XS6OJTPCP32WEFXWSD4F6Z3KUY.jpg?auth=22d69a23f109993d9039faf3e03565519b2b9736112eb925e46b9a6efc36235a&height=3058&smart=true&width=4689",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/19/impacto-en-brasil-neymar-acordo-su-regreso-al-santos/",
+        "date": "2025-01-19 21:56:53",
+        "sentiment_score": -0.07322525978088379
+    },
+    {
+        "title": "Carles Sans trae su espectáculo \"Por fin solo\" al Gran Teatro de Córdoba el 3 de mayo",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/19/678d72567e33d.jpeg",
+        "tags": [
+            "córdoba"
+        ],
+        "link": "https://www.cope.es/emisoras/andalucia/cordoba-provincia/cordoba/noticias/carles-sans-trae-espectaculo-gran-teatro-cordoba-3-mayo-20250119_3079745.html",
+        "date": "2025-01-19 21:48:03",
+        "sentiment_score": -0.06056562066078186
+    },
+    {
+        "title": "El Jimbee Cartagena renueva su corona de Supercampeón",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2025/01/19/678d68bd85aab.jpeg",
+        "tags": [
+            "deportes cartagena"
+        ],
+        "link": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/cartagena/deportes-cartagena/noticias/jimbee-cartagena-renueva-corona-supercampeon-20250119_3079737.html",
+        "date": "2025-01-19 21:18:29",
+        "sentiment_score": 0.07705965638160706
+    },
+    {
+        "title": "Un equipo de altibajos y ocasiones perdidas",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/01/19/pantzar.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/equipo-altibajos-ocasiones-perdidas-20250119221227-nt.html",
+        "date": "2025-01-19 21:12:27",
+        "sentiment_score": -0.8419793676584959
+    },
+    {
+        "title": "En busca de rival a solo tres partidos de otra final de Copa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6d453fe1-2e5a-4d8d-ab45-119427aea767_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia cf,final de copa,el valencia,rfef"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/19/busca-rival-tres-partidos-final-113534265.html",
+        "date": "2025-01-19 20:53:08",
+        "sentiment_score": 0.107747882604599
     }
 ];
