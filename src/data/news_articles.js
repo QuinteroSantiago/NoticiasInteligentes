@@ -120,36 +120,6 @@ export default [
         "sentiment_score": -0.49562450498342514
     },
     {
-        "title": "¿Qué gana cada uno de los actores que llevaron al acuerdo de alto al fuego y liberación de rehenes entre Israel y Hamas?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/actores-alto-fuego-hamas-israel-cafe-tv/",
-        "date": "2025-01-16 13:45:12",
-        "sentiment_score": 0.00738564133644104
-    },
-    {
-        "title": "Israel retrasa la votación del gabinete sobre si ratificar el acuerdo de alto el fuego con Hamas",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2193567518.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/israel-retrasa-votacion-acuerdo-alto-fuego-hamas-cafe-tv/",
-        "date": "2025-01-16 13:38:34",
-        "sentiment_score": -0.23449766635894775
-    },
-    {
-        "title": "Los retos globales frente al cambio climático en 2025",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_e5abf3.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/retos-globales-cambio-climatico-2025-primera-manana-fast/",
-        "date": "2025-01-16 13:00:39",
-        "sentiment_score": 0.05052000284194946
-    },
-    {
         "title": "Roberto Bodegas, nuevo presidente de OJD",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/16/roberto-bodegas-RAiHWQgDlQzSio2LxXQJZvO-1200x840@diario_abc.jpg",
         "tags": [
@@ -198,56 +168,6 @@ export default [
         "link": "https://www.abc.es/internacional/alemania-impide-zarpar-petrolero-ruso-eventin-aclarar-20250116153302-nt.html",
         "date": "2025-01-16 15:10:52",
         "sentiment_score": -0.11498351395130157
-    },
-    {
-        "title": "Nintendo anuncia su nueva consola: la Switch 2",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/16/nintendo-2_20250116144017-RUsPpj8bkl4bXj5WiwbjUGM-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/nintendo-anuncia-nueva-consola-switch-20250116141211-nt.html",
-        "date": "2025-01-16 13:14:07",
-        "sentiment_score": 0.2883602622896433
-    },
-    {
-        "title": "La UE investiga a seis tecnológicas chinas por tráfico de datos de consumidores europeos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/16/1442464217-RvnaQcEwhjjFxN07QqN3a1M-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ue-investiga-seis-tecnologicas-chinas-trafico-datos-20250116134846-nt.html",
-        "date": "2025-01-16 12:48:47",
-        "sentiment_score": -0.19681105017662048
-    },
-    {
-        "title": "Ryanair cumple su amenaza contra Aena por la subida de tasas y suprime 800.000 plazas para España en verano",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/16/1490837028-RhWtmhwbbITFCX7fxDA5N3L-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ryanair-cumple-amenaza-aena-subida-tasas-suprime-20250116133721-nt.html",
-        "date": "2025-01-16 12:39:28",
-        "sentiment_score": -0.3066284954547882
-    },
-    {
-        "title": "Cantabria busca aprovecharse del apetito inversor de México",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/16/1491121907-RK0nmP9rv7y1OUj9diOUpvJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cantabria-busca-aprovecharse-apetito-inversor-mexico-20250116131826-nt.html",
-        "date": "2025-01-16 12:20:45",
-        "sentiment_score": 0.021533071994781494
-    },
-    {
-        "title": "«Adiós a mi espía chino»: el viral en el que los usuarios de TikTok se preparan para el cierre de la 'app' en EE.UU.",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/16/combo-tt-RqxJybwXncR1FwdWFMQPdKN-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/adios-espia-chino-viral-usuarios-tiktok-preparan-20250116130340-nt.html",
-        "date": "2025-01-16 12:03:40",
-        "sentiment_score": -0.05650213360786438
     },
     {
         "title": "Badenas, portavoz de Vox en Valencia, declara ante un juzgado por atribuir falsamente un crimen a un migrante",
@@ -365,57 +285,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-01-16/el-consorci-de-la-zona-franca-de-barcelona-preve-ampliar-la-dfactory-en-2026.html",
         "date": "2025-01-16 14:53:41",
         "sentiment_score": 0.6175113469362259
-    },
-    {
-        "title": "Albares defiende ante el nuevo líder sirio el levantamiento de sanciones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SGP6HA7LYL7VPKSODECC27FYFE.jpg?auth=11cbb4a0d97ca96723f867e8e6bdf1970859825d39dcb5578429b177c9a5d08b",
-        "tags": [
-            "guerra",
-            "gobierno",
-            "relaciones bilaterales",
-            "siria",
-            "españa",
-            "josé manuel albares",
-            "sanciones"
-        ],
-        "link": "https://elpais.com/espana/2025-01-16/albares-defiende-ante-el-nuevo-lider-sirio-el-levantamiento-de-sanciones.html",
-        "date": "2025-01-16 13:32:42",
-        "sentiment_score": -0.010890722274780273
-    },
-    {
-        "title": "El Colegio de Médicos de Madrid anula la elección del nuevo presidente, un mes después de su victoria",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z43PDQ65LFDEPMGX6SJB3KMDTI.JPG?auth=096a4c24b87960ab66ad0d51b7863fed2d1578bc60ba4ab5a99857501fe34aef",
-        "tags": [
-            "médicos",
-            "madrid",
-            "comunidad de madrid",
-            "icomem",
-            "elecciones"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-16/el-colegio-de-medicos-de-madrid-anula-la-eleccion-del-nuevo-presidente-un-mes-despues-de-su-victoria.html",
-        "date": "2025-01-16 13:28:31",
-        "sentiment_score": -0.1244564801454544
-    },
-    {
-        "title": "España encadena 33 años como líder mundial en trasplante de órganos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WLNMWKMRRBGDVBO3B6K4FYRERI.jpg?auth=8547c8a1ca4b88e91f77782e42cfea99868e4340d7d6fb551beabb57c730a509",
-        "tags": [
-            "donaciones médicas",
-            "liderazgo comunitario",
-            "donación órganos",
-            "sanidad pública",
-            "trasplantes",
-            "trasplante riñón",
-            "trasplante médula",
-            "trasplante hígado",
-            "trasplante corazón",
-            "trasplantes múltiples",
-            "solidaridad",
-            "sociedad"
-        ],
-        "link": "https://elpais.com/sociedad/2025-01-16/espana-encadena-33-anos-como-lider-mundial-en-trasplante-de-organos.html",
-        "date": "2025-01-16 13:19:58",
-        "sentiment_score": 0.7554603163152933
     },
     {
         "title": "El jet privado de Cristiano Ronaldo valorado en 73 millones de euros",
@@ -6355,5 +6224,294 @@ export default [
         "link": "https://www.superdeporte.es/valencia-cf/2025/01/19/busca-rival-tres-partidos-final-113534265.html",
         "date": "2025-01-19 20:53:08",
         "sentiment_score": 0.107747882604599
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Barcelona este lunes 20 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/FDZRHT44T5CHTCH3KXZ2OOIG5I.jpg?auth=da2d90218a7d169499d775f156e4cbc71e7b6dacf65c449a44cb35fa04422249&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/20/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-barcelona-este-lunes-20-de-enero/",
+        "date": "2025-01-20 02:03:01",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "FMI declina opinar de los planes proteccionistas de Trump y dice es pronto para especular",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/fmi-declina-opinar-de-los-planes-proteccionistas-de-trump-y-dice-es-pronto-para-especular/",
+        "date": "2025-01-20 02:02:29",
+        "sentiment_score": -0.7137632668018341
+    },
+    {
+        "title": "CGT convocará movilizaciones en Iryo para exigir el abono de nocturnidad y las dietas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/cgt-convocara-movilizaciones-en-iryo-para-exigir-el-abono-de-nocturnidad-y-las-dietas/",
+        "date": "2025-01-20 01:48:29",
+        "sentiment_score": -0.08393485099077225
+    },
+    {
+        "title": "Cristóbal Parralo: \"No me siento cuestionado\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/cristobal-parralo-no-me-siento-cuestionado/",
+        "date": "2025-01-20 01:48:17",
+        "sentiment_score": -0.0823516845703125
+    },
+    {
+        "title": "Giráldez recupera a todos los internacionales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/giraldez-recupera-a-todos-los-internacionales/",
+        "date": "2025-01-20 01:48:05",
+        "sentiment_score": 0.3111623525619507
+    },
+    {
+        "title": "Principales medidas incluidas en el paquete fiscal aprobado por el Congreso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/principales-medidas-incluidas-en-el-paquete-fiscal-aprobado-por-el-congreso/",
+        "date": "2025-01-20 01:47:53",
+        "sentiment_score": 0.13298331201076508
+    },
+    {
+        "title": "El TSJM tumba un nuevo intento de suspender las obras del centro de menores de La Cantueña en Fuenlabrada (Madrid)",
+        "image_url": "https://www.infobae.com/resizer/v2/2GAYPRXEB5B5FGPBWQCWDCDLYI.jpg?auth=dd230fb97151d84909010983f4bee2bacd286425a2a368143640f3c308a1f793&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/el-tsjm-tumba-un-nuevo-intento-de-suspender-las-obras-del-centro-de-menores-de-la-cantuena-en-fuenlabrada-madrid/",
+        "date": "2025-01-20 01:47:41",
+        "sentiment_score": -0.9004409220069647
+    },
+    {
+        "title": "La borrasca ‘Caetano’ traerá este viernes lluvias y vientos fuertes en el norte y este",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/la-borrasca-caetano-traera-este-viernes-lluvias-y-vientos-fuertes-en-el-norte-y-este/",
+        "date": "2025-01-20 01:47:27",
+        "sentiment_score": 0.45315973088145256
+    },
+    {
+        "title": "El Congreso aprueba definitivamente la reforma de la LORAFNA para blindar el traspaso de Tráfico a Navarra",
+        "image_url": "https://www.infobae.com/resizer/v2/4ATKET3M6VATBAAGF7CZ2TXKAQ.jpg?auth=7f74cea4b8cf901aecfcb1e9ebbf01e874562fab39e4c5d227b84a08c212202a&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/el-congreso-aprueba-definitivamente-la-reforma-de-la-lorafna-para-blindar-el-traspaso-de-trafico-a-navarra/",
+        "date": "2025-01-20 01:33:34",
+        "sentiment_score": 0.537118673324585
+    },
+    {
+        "title": "La Bolsa española sube el 0,19% y recupera el nivel de 11.600 puntos gracias a Wall Street",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/la-bolsa-espanola-sube-el-019-y-recupera-el-nivel-de-11600-puntos-gracias-a-wall-street/",
+        "date": "2025-01-20 01:33:20",
+        "sentiment_score": 0.6983390599489212
+    },
+    {
+        "title": "Daniel Noboa y Jorge Escala se enfrentan en debate sobre servicios públicos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/36753800-29159442-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/daniel-noboa-jorge-escala-vender-patria-debate-ecuador/",
+        "date": "2025-01-20 01:33:42",
+        "sentiment_score": -0.5614396668970585
+    },
+    {
+        "title": "¿Cómo sigue la liberación de rehenes en Gaza? Responde vocero de las FDI",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/kaplan.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/liberan-rehenes-gaza-israel-hamas-mirador-mundial-tv/",
+        "date": "2025-01-20 01:30:10",
+        "sentiment_score": -0.11143944412469864
+    },
+    {
+        "title": "Comienza la primera fase del cese del fuego entre Israel y Hamas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2194755688.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/primera-fase-guerra-israel-hamas-mirador-mundail-tv/",
+        "date": "2025-01-20 00:21:56",
+        "sentiment_score": -0.1240982636809349
+    },
+    {
+        "title": "Tensión y expectativa en frontera México-EE.UU. antes del regreso de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2194773966.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "méxico",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/frontera-estados-unidos-mexico-donald-trump-mirador-mundial-tv-fast/",
+        "date": "2025-01-20 00:16:29",
+        "sentiment_score": -0.05671921372413635
+    },
+    {
+        "title": "¿Por qué las motos no tienen la etiqueta eco de la DGT si contaminan como un híbrido? Esta es la (ilógica) respuesta",
+        "image_url": "https://s1.elespanol.com/2025/01/16/motor/916918837_252386353_1706x960.jpg?contentId=ESPIMA20250116_0538",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/motor/20250120/motos-no-etiqueta-eco-deladgt-contaminancomounhibrido-ilogica-respuesta/916658814_0.html",
+        "date": "2025-01-20 02:05:34",
+        "sentiment_score": 0.489546786993742
+    },
+    {
+        "title": "Alajuelense hace presión a FIFA para descalificar a León o Pachuca del Mundial de Clubes 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/HQKFFY6SIJE6NBNL7OELASOQ4M.jpg?auth=2a442e3a1707738211a72ed0e3a3c9a551489d46ef9dbea0c542cbb0f7326dd6&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/01/20/alajuelense-hace-presion-a-fifa-para-descalificar-a-leon-o-pachuca-del-mundial-de-clubes-2025/",
+        "date": "2025-01-20 02:02:20",
+        "sentiment_score": -0.7472453154623508
+    },
+    {
+        "title": "La CNMC señala a Iberdrola por sobresaturar la red eléctrica de Madrid con centros de datos",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/25d1b4c08193252ef590e5967a031bed/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/17/17371080351798.jpg",
+        "tags": [
+            "artículos paula maría",
+            "iberdrola"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/01/20/678a2a0ffc6c83a8178b4570.html",
+        "date": "2025-01-20 01:30:25",
+        "sentiment_score": -0.42480168491601944
+    },
+    {
+        "title": "Este es uno de los mejores coches eléctricos que he probado: la confirmación de que lo bueno hay que pagarlo",
+        "image_url": "https://s1.elespanol.com/2025/01/09/motor/915169316_252219827_1706x960.jpg?contentId=ESPIMA20250109_0842",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/motor/20250120/mejores-coches-electricos-probado-confirmacion-bueno-pagarlo/915158980_0.html",
+        "date": "2025-01-20 01:23:02",
+        "sentiment_score": 0.8602275922894478
+    },
+    {
+        "title": "La banca gana un 18% más en 2024 y supera los 31.000M de beneficio pese al impuesto y la bajada de los tipos de interés",
+        "image_url": "https://s1.elespanol.com/2023/10/20/sociedad/803430042_236963523_1706x960.jpg?contentId=ESPIMA20231020_0393",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20250120/banca-gana-supera-beneficio-pese-impuesto-bajada-tipos-interes/917158688_0.html",
+        "date": "2025-01-20 01:21:54",
+        "sentiment_score": 0.03254634141921997
+    },
+    {
+        "title": "Carlo Ancelotti manda mensaje directo a los detractores del Real Madrid",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/01/AP25009704041889.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "carlo ancelotti",
+            "real madrid"
+        ],
+        "link": "https://eldiariony.com/2025/01/19/carlo-ancelotti-manda-mensaje-directo-a-los-detractores-del-real-madrid/",
+        "date": "2025-01-20 01:13:19",
+        "sentiment_score": -0.7453994862735271
+    },
+    {
+        "title": "Unai Simón en la Liga. ¿Quién jugará en Europa?",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/01/19/Unai-kHE-U230579495914kpE-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/unai-simon-liga-jugara-europa-20250119020324-nt.html",
+        "date": "2025-01-20 01:03:25",
+        "sentiment_score": -0.14092093706130981
+    },
+    {
+        "title": "Dos obstáculos más que retrasarán las obras del Camp Nou (ahora y en 2026)",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/20/culemania/palco/879672102_13358197_1706x960.jpg?contentId=ESPIMA20240820_0078",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250120/dos-obstaculos-retrasaran-obras-camp-nou-ahora/917408271_0.html",
+        "date": "2025-01-20 00:59:18",
+        "sentiment_score": -0.9295582147315145
+    },
+    {
+        "title": "La cara y la cruz de Laporta: reforzado en el Barça y acusado por estafa en el caso Reus",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/02/18/culemania/palco/palco_12009191_1040870_1706x960.jpg?contentId=ESPIMA20150218_0392",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250120/la-laporta-reforzado-en-el-barca-reus/917658277_0.html",
+        "date": "2025-01-20 00:57:52",
+        "sentiment_score": -0.8790274504572153
+    },
+    {
+        "title": "El Congreso salva el veto del Senado y aprueba el traspaso de Tráfico a Navarra",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/21/el-congreso-salva-el-veto-del-senado-y-aprueba-el-traspaso-de-trafico-a-navarra/",
+        "date": "2025-01-20 00:47:55",
+        "sentiment_score": 0.3577253594994545
+    },
+    {
+        "title": "La \"continuidad horizontal\" se convierte en el mayor enemigo del incendio de Los Ángeles: así es la nueva realidad climática",
+        "image_url": "https://s1.elespanol.com/2025/01/16/enclave-ods/historias/916919145_252395936_1706x960.png?contentId=ESPIMA20250116_0846",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20250120/continuidad-horizontal-convierte-mayor-enemigo-incendio-angeles-nueva-realidad-climatica/916908879_0.html",
+        "date": "2025-01-20 00:42:42",
+        "sentiment_score": -0.6338168196380138
+    },
+    {
+        "title": "Puchi, PP y Vox",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6624045da.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250120/puchi-pp-vox_262348.html",
+        "date": "2025-01-20 00:30:00",
+        "sentiment_score": -0.0727081298828125
+    },
+    {
+        "title": "Mbappé lleva al liderato al Real Madrid y el Barça 'pincha', en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/20/678d981a14519.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-20250120_3079754.html",
+        "date": "2025-01-20 00:26:12",
+        "sentiment_score": 0.02700689435005188
+    },
+    {
+        "title": "Kylian Mbappé brilla al marcar doblete con el Real Madrid ante Las Palmas",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/01/Mbappe-goal-las-palmas.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol",
+            "kylian mbappé",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2025/01/19/kylian-mbappe-brilla-al-marcar-doblete-con-el-real-madrid-ante-las-palmas/",
+        "date": "2025-01-20 00:01:58",
+        "sentiment_score": -0.5993782505393028
     }
 ];
