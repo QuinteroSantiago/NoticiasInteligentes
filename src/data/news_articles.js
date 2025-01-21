@@ -100,47 +100,6 @@ export default [
         "sentiment_score": 0.3050828129053116
     },
     {
-        "title": "Desde perros hasta gallinas, así bendicen a los animales fuera de las iglesias en el día de San Antón en España",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1933169349.jpg?quality=100&strip=info",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/bendicion-animales-iglesia-dia-san-anton-cafe-tv/",
-        "date": "2025-01-17 14:06:01",
-        "sentiment_score": 0.18297943472862244
-    },
-    {
-        "title": "Esposa de persona secuestrada por Hamas descubre que su marido no figura en la primera lista de liberación de rehenes",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2179878292.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/esposa-rehen-hamas-lista-liberacion-cafe-tv/",
-        "date": "2025-01-17 13:56:23",
-        "sentiment_score": -0.4860154837369919
-    },
-    {
-        "title": "Las revelaciones del libro autobiográfico del papa Francisco",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/cnn-fast-20241213123945390_9435a7.png",
-        "tags": [
-            "fast – general",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/libro-autobiografico-papa-francisco-primera-manana-fast/",
-        "date": "2025-01-17 12:56:22",
-        "sentiment_score": 0.025284230709075928
-    },
-    {
-        "title": "Mira la nueva erupción de uno de los volcanes más activos del mundo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/thumb-1-20250117093931391-20250117110209778.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/volcan-erupcion-hawai-lava-orix/",
-        "date": "2025-01-17 11:04:26",
-        "sentiment_score": -0.3688831403851509
-    },
-    {
         "title": "Apple desactiva su nueva herramienta de IA para resumir la actualidad",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/17/apple-ktx-U70124502124QsC-1200x840@diario_abc.jpg",
         "tags": [
@@ -199,46 +158,6 @@ export default [
         "link": "https://www.abc.es/economia/fmi-eleva-crecimiento-espana-ano-preve-convergencia-20250117150749-nt.html",
         "date": "2025-01-17 14:20:12",
         "sentiment_score": -0.02031746506690979
-    },
-    {
-        "title": "All Iron aumenta sus ingresos un 50% entre enero y septiembre hasta los 5,8 millones de euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/17/ActivoAllIronSocimienVitoria-RNPitcYh5aFhg0eX4NXgc8H-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/all-iron-aumenta-ingresos-enero-septiembre-millones-20250117141306-nt.html",
-        "date": "2025-01-17 13:15:10",
-        "sentiment_score": -0.04989241063594818
-    },
-    {
-        "title": "Miles de mutualistas quedan entrampados en la vía fácil dispuesta por Hacienda para tramitar sus devoluciones de IRPF",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/17/AEATEFE-RQAkCJWS2i7GtF1bxqQwucN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/miles-mutualistas-quedan-entrampados-via-facil-dispuesta-20250117134759-nt.html",
-        "date": "2025-01-17 13:07:40",
-        "sentiment_score": -0.12621332705020905
-    },
-    {
-        "title": "Las pescaderías estallan contra Yolanda Díaz por la subida del SMI y la reducción de jornada",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/17/pesacderia-R0tx4VC8iSL32OL3lZgU7rL-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/pescaderias-estallan-yolanda-diaz-subida-smi-reduccion-20250117133757-nt.html",
-        "date": "2025-01-17 12:37:58",
-        "sentiment_score": -0.08285278081893921
-    },
-    {
-        "title": "Garamendi afirma que el 25% de los convenios ya pactaron 37,5 horas de jornada en 2024",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/17/1491142206-RsmgK20EL8HhCGbC1ssoP2L-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/garamendi-afirma-convenios-pactaron-375-horas-jornada-20250117131121-nt.html",
-        "date": "2025-01-17 12:11:22",
-        "sentiment_score": -0.03133478760719299
     },
     {
         "title": "El Gobierno de Ayuso rechaza la propuesta de Cultura para comprar conjuntamente la casa de Aleixandre",
@@ -308,124 +227,6 @@ export default [
         "link": "https://elpais.com/espana/2025-01-17/policia-y-guardia-civil-incautan-casi-tres-toneladas-de-cocaina-a-un-grupo-de-narcos-del-guadalquivir.html",
         "date": "2025-01-17 14:29:58",
         "sentiment_score": -0.5194300375878811
-    },
-    {
-        "title": "El FMI eleva dos décimas su previsión de crecimiento para España en 2025, hasta el 2,3%",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DHQ3OK5ER3KKLABVEU3UUTH4W4.jpg?auth=d95aae18e943321b4561c63334ca181f6f579402d2025d83deca31c9aab27396&width=1200",
-        "tags": [
-            "tipos interés",
-            "inflación",
-            "organismos financieros",
-            "coyuntura económica",
-            "crecimiento económico",
-            "norteamérica",
-            "economía",
-            "geopolítica",
-            "kristalina georgieva",
-            "organismos económicos",
-            "dólar",
-            "américa",
-            "estados unidos",
-            "noticias de españa",
-            "pib",
-            "zona euro",
-            "fmi",
-            "comercio internacional",
-            "previsiones económicas"
-        ],
-        "link": "https://elpais.com/economia/2025-01-17/el-fmi-eleva-dos-decimas-su-prevision-de-crecimiento-para-espana-en-2025-hasta-el-23.html",
-        "date": "2025-01-17 14:00:00",
-        "sentiment_score": 0.25023504346609116
-    },
-    {
-        "title": "Los mensajes entre Rodríguez y el novio de Ayuso desmontan su bulo de que el acuerdo con el fiscal se tumbó “por órdenes de arriba”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NPDZV44DXFCXBN3S6P4YKEC5TA.jpg?auth=8c32187d8fbfe8a24487b9a8816e8ad586c8c30934c74752092abde9dfeee404&width=1200",
-        "tags": [
-            "miguel ángel rodríguez",
-            "fiscalía general estado",
-            "alvaro ortiz",
-            "tribunal supremo",
-            "isabel díaz ayuso",
-            "alberto gonzález amador",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-01-17/los-mensajes-entre-miguel-angel-rodriguez-y-el-novio-de-ayuso-desmontan-su-bulo-de-que-el-acuerdo-con-la-fiscalia-se-tumbo-por-ordenes-de-arriba.html",
-        "date": "2025-01-17 13:36:20",
-        "sentiment_score": -0.8740787450224161
-    },
-    {
-        "title": "Tres detenidos por una presunta agresión sexual en grupo en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IIOGBZQL2RAV7PLXLBZX7OOI3A.jpg?auth=313aa303ea0924352bcc5c3120ca6eb5784c37a54cd9232f6ae10791f3c2bfec&width=1200",
-        "tags": [
-            "barcelona",
-            "violencia sexual",
-            "violencia género",
-            "cataluña",
-            "violaciones múltiples",
-            "violencia",
-            "sucesos",
-            "agresiones sexuales",
-            "mossos d'esquadra",
-            "violaciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-17/tres-detenidos-por-una-presunta-agresion-sexual-en-grupo-en-barcelona.html",
-        "date": "2025-01-17 13:36:16",
-        "sentiment_score": -0.09877589344978333
-    },
-    {
-        "title": "Yolanda Díaz advierte al PSOE: “No se avanza viviendo de las rentas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O6DEKSC37VFXZKVO4CBBS75AMM.jpg?auth=f20b552eb513bf5f33f79b538635eb92972f542e1b269968a7fb2c46f72cc0da&width=1200",
-        "tags": [
-            "jornada laboral",
-            "presupuestos generales estado",
-            "gobierno",
-            "sumar",
-            "psoe",
-            "yolanda díaz",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-01-17/yolanda-diaz-advierte-al-psoe-no-se-avanza-viviendo-de-las-rentas.html",
-        "date": "2025-01-17 13:18:28",
-        "sentiment_score": 0.627322182059288
-    },
-    {
-        "title": "La minera ICL se alía con la china Dynanonic para invertir 285 millones en una fábrica de componentes de baterías en Sallent",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DYIRJJWGTVIFQIV3LLQV2C7CSU.jpg?auth=bea494b56869b066dde2e87fb82c0642ef297ca67bd066dd59ba45f0b77a0d92&width=1200",
-        "tags": [
-            "baterías",
-            "fabricantes automóviles",
-            "industria",
-            "cataluña",
-            "iberpotash",
-            "sallent"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-17/la-minera-icl-se-alia-con-la-china-dynanonic-para-invertir-285-millones-en-una-fabrica-de-componentes-de-baterias-en-sallent.html",
-        "date": "2025-01-17 13:01:48",
-        "sentiment_score": 0.5093433298170567
-    },
-    {
-        "title": "5 planes gratis en Madrid del 17 al 24 de enero: recitales de flamenco y un concierto de niños violinistas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M2HA7YHKHRCXXO4BT5L3FBTASE.png?auth=4fbd8590686e383a23fad2451d4845e1ac78a9971ba4fd9acf54355c38d9a6c3&width=1200",
-        "tags": [
-            "prehistoria",
-            "exposiciones",
-            "madrid",
-            "neolítico",
-            "cultura",
-            "libros",
-            "espectáculos",
-            "conciertos",
-            "planes",
-            "teatro",
-            "flamenco",
-            "parques y jardines",
-            "fotografía",
-            "ocio",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-01-17/5-planes-gratis-en-madrid-del-17-al-24-de-enero-recitales-de-flamenco-y-un-concierto-de-ninos-violinistas.html",
-        "date": "2025-01-17 12:56:02",
-        "sentiment_score": 0.20222611725330353
     },
     {
         "title": "La Crema Catalana Orígens de La Fageda, reconocida por su calidad en Europa",
@@ -6307,5 +6108,352 @@ export default [
         "link": "https://www.eldiario.es/illes-balears/economia/ayguavives-suana-familia-rica-barcelona-pelea-desahuciar-cientos-trabajadores-okupas-ibiza_1_11978021.html",
         "date": "2025-01-20 21:39:15",
         "sentiment_score": -0.11314517259597778
+    },
+    {
+        "title": "El IBEX arranca la sesión con una subida del 0,25 %, pendiente de los PMI y de Lagarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/el-ibex-arranca-la-sesion-con-una-subida-del-025-pendiente-de-los-pmi-y-de-lagarde/",
+        "date": "2025-01-21 02:03:43",
+        "sentiment_score": -0.06294834613800049
+    },
+    {
+        "title": "Sara Aagesen, un perfil técnico para liderar la transición energética de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/sara-aagesen-un-perfil-tecnico-para-liderar-la-transicion-energetica-de-espana/",
+        "date": "2025-01-21 02:03:32",
+        "sentiment_score": 0.43862972781062126
+    },
+    {
+        "title": "Clima en Barcelona: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/E7MIZWNDVJCFJCCIPBLSQ5LTIU.jpg?auth=3e4057832e12bbed2a1ae30a914967619a47bbcc74e4c7339ac1182d09d212d2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/21/clima-en-barcelona-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2025-01-21 02:02:03",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "El grupo Santo Domingo cierra la venta del 5 % que tiene en Colonial por 165 millones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/el-grupo-santo-domingo-cierra-la-venta-del-5-que-tiene-en-colonial-por-165-millones/",
+        "date": "2025-01-21 01:33:10",
+        "sentiment_score": 0.1418660469353199
+    },
+    {
+        "title": "Nuevo trámite para obtener salvoconducto para desplazamientos por vías afectadas por dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/nuevo-tramite-para-obtener-salvoconducto-para-desplazamientos-por-vias-afectadas-por-dana/",
+        "date": "2025-01-21 01:32:58",
+        "sentiment_score": -0.08425828069448471
+    },
+    {
+        "title": "Sara Aagesen sustituirá a Ribera como vicepresidenta y ministra de Transición Ecológica",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/sara-aagesen-sustituira-a-ribera-como-vicepresidenta-y-ministra-de-transicion-ecologica/",
+        "date": "2025-01-21 01:32:46",
+        "sentiment_score": -0.05304650962352753
+    },
+    {
+        "title": "Inti Raymi se escenificará en España: la Fiesta del Sol se realizará este 25 de enero en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2VWSXLWDBF6BK6RACOJC4JGSM.jpg?auth=766fc8b83b1c8d87454d5574084bbda5a141e4c0d2c135ad48fc46a62f8539c5&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/01/21/inti-raymi-se-escenificara-en-espana-la-fiesta-del-sol-se-realizara-este-25-de-enero-en-madrid/",
+        "date": "2025-01-21 01:31:33",
+        "sentiment_score": 0.08028672635555267
+    },
+    {
+        "title": "Trump confunde a España con un miembro de los BRICS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/21/trump-confunde-a-espana-con-un-miembro-de-los-brics/",
+        "date": "2025-01-21 01:30:35",
+        "sentiment_score": -0.8424103651195765
+    },
+    {
+        "title": "El Diari Oficial de la Generalitat Valenciana publica los cambios en el Consell",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/el-diari-oficial-de-la-generalitat-valenciana-publica-los-cambios-en-el-consell/",
+        "date": "2025-01-21 01:18:43",
+        "sentiment_score": -0.04580259323120117
+    },
+    {
+        "title": "La caña común, invasora que destruye los bosques de ribera y su protección ante avenidas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/la-cana-comun-invasora-que-destruye-los-bosques-de-ribera-y-su-proteccion-ante-avenidas/",
+        "date": "2025-01-21 01:17:54",
+        "sentiment_score": -0.937867128290236
+    },
+    {
+        "title": "El lunes triste no es real, pero la depresión de temporada sí, dicen expertos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-901184648.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lunes-triste-blue-monday-depresion-minuto-de-salud-fast/",
+        "date": "2025-01-21 01:43:00",
+        "sentiment_score": -0.8543375674635172
+    },
+    {
+        "title": "Analista explica el alcance del cierre de la aplicación CBP One",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2194431653.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico",
+            "xpress",
+            "fast – news variety"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cierre-cbp-one-golpe-pieza-gobierno-biden-perspectivas-mexico-tv-fast/",
+        "date": "2025-01-21 00:50:22",
+        "sentiment_score": -0.21590637415647507
+    },
+    {
+        "title": "Imágenes muestran el impacto de un meteorito cerca de una casa en Canadá",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/meteorite-20250120235209666.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/impacto-meteorito-cerca-casa-canada-digivid-trax/",
+        "date": "2025-01-20 23:55:18",
+        "sentiment_score": -0.15235965698957443
+    },
+    {
+        "title": "Las consecuencias de que los carteles de la droga sean designados como organizaciones terroristas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2194971440.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-consecuencias-carteles-narcotrafico-organizaciones-terroristas-dusa-tv-fast/",
+        "date": "2025-01-20 23:04:27",
+        "sentiment_score": -0.6361923385411501
+    },
+    {
+        "title": "Bélgica abre una investigación contra Apple por el supuesto uso de «minerales de sangre» obtenidos del Congo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/20/Apple-kpDH-U70137641845pnF-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/belgica-abre-investigacion-apple-supuesto-uso-minerales-20250120001259-nt.html",
+        "date": "2025-01-20 23:15:17",
+        "sentiment_score": -0.5837006866931915
+    },
+    {
+        "title": "La Administración Trump cancela los vuelos para casi 1.660 refugiados afganos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/20/Afganistan-kA8G-U70137677246GCH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/administracion-trump-cancela-vuelos-1660-refugiados-afganos-20250120232301-nt.html",
+        "date": "2025-01-20 22:23:35",
+        "sentiment_score": -0.1493155062198639
+    },
+    {
+        "title": "Trump agita el fantasma de “aranceles del 100%” a España por gastar poco en defensa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TP4W22PVINATZP5HH5ETATWXGY?auth=0b8484a50cd7c57b6feef9c3f434065581cb2687bf71b7200805fc193c3e5e28&width=1200",
+        "tags": [
+            "otan",
+            "aranceles",
+            "comercio",
+            "noticias de españa",
+            "comercio internacional",
+            "investidura presidencial eeuu",
+            "américa",
+            "estados unidos",
+            "norteamérica",
+            "casa blanca",
+            "donald trump"
+        ],
+        "link": "https://elpais.com/internacional/2025-01-21/trump-agita-el-fantasma-de-aranceles-del-100-a-espana-por-gastar-poco-en-defensa.html",
+        "date": "2025-01-21 01:28:15",
+        "sentiment_score": -0.8816300248727202
+    },
+    {
+        "title": "Esta fue la razón por la que James Rodríguez portó la cinta de capitán en su debut con León",
+        "image_url": "https://www.infobae.com/resizer/v2/2O3XWAPTZBDIJO7GL26AOS43RU.jpg?auth=ce1501ba71bad67c4310dcad4886686749211748beed130638d9a7ad4ed20929&height=1151&smart=true&width=2048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/21/esta-fue-la-razon-por-la-que-james-rodriguez-porto-la-cinta-de-capitan-en-su-debut-con-leon/",
+        "date": "2025-01-21 02:09:38",
+        "sentiment_score": 0.5279101952910423
+    },
+    {
+        "title": "Los retos de Florentino Pérez hacia 2029: Superliga, nuevo Bernabéu, cambio en la estructura societaria, el futuro del banquillo... Y su sucesor",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/38f5c074763b186018259cc4ae2758b1/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/20/17373949037344.jpg",
+        "tags": [
+            "deportes",
+            "aleksander ceferin",
+            "superliga europea",
+            "xabi alonso",
+            "gianni infantino",
+            "artículos abraham romero",
+            "javier tebas",
+            "fifa",
+            "uefa",
+            "florentino pérez rodríguez",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://www.elmundo.es/deportes/futbol/2025/01/21/678e8bb1fc6c83782d8b45a1.html",
+        "date": "2025-01-21 01:38:16",
+        "sentiment_score": 0.1372251883149147
+    },
+    {
+        "title": "La Champions, una apuesta a todo o nada de Hansi Flick y Laporta: el Barça se juega mucho dinero y su prestigio",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/24/culemania/primer-equipo/895920414_13622795_1706x960.jpg?contentId=ESPIMA20241024_0015",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250121/la-champions-hansi-flick-laporta-barca-prestigio/917908233_0.html",
+        "date": "2025-01-21 01:18:54",
+        "sentiment_score": 0.47955865412950516
+    },
+    {
+        "title": "La maldición de Bela Gutman castiga al Benfica: ocho finales en Europa, ocho derrotas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/02/24/culemania/culemaniacos/culemaniacos_13509339_1719778_1706x960.jpg?contentId=ESPIMA20150224_0690",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20250121/la-maldicion-bela-gutman-benfica-ocho-europa/917908271_0.html",
+        "date": "2025-01-21 01:18:31",
+        "sentiment_score": -0.9096318343654275
+    },
+    {
+        "title": "Oriente Medio gana poder en la Champions: el dinero de Qatar, Emiratos y Arabia se impone en el fútbol europeo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/11/culemania/palco/915668491_14003211_1706x960.jpg?contentId=ESPIMA20250111_0067",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250121/oriente-medio-en-champions-qatar-emiratos-arabia/918158176_0.html",
+        "date": "2025-01-21 01:17:46",
+        "sentiment_score": -0.8245032839477062
+    },
+    {
+        "title": "Cristina Alberdi, Victoria Prego y Ana María Lajusticia: las tres Top 100 a las que se rendirá homenaje en el Teatro Real",
+        "image_url": "https://s1.elespanol.com/2025/01/17/mujer/lastop100/917168898_252415398_1706x960.png?contentId=ESPIMA20250117_0624",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/lastop100/20250121/cristina-alberdi-victoria-prego-ana-maria-lajusticia-top-rendira-homenaje-teatro-real/916908533_0.html",
+        "date": "2025-01-21 00:36:34",
+        "sentiment_score": 0.7143970280885696
+    },
+    {
+        "title": "La intimidad del desembarco de Keylor Navas en Newell’s: del gesto de Messi al “contrato europeo”",
+        "image_url": "https://www.infobae.com/resizer/v2/L6KUNK5DOKSKDJAMNQU5FPI7DM.jpg?auth=8af8fe09cedd52de26cd192f53f0b5a87689ef9cbf5625592ccc7425115ce3f0&height=1106&smart=true&width=1673",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/21/la-intimidad-del-desembarco-de-keylor-navas-en-newells-del-gesto-de-messi-al-contrato-europeo/",
+        "date": "2025-01-21 00:11:54",
+        "sentiment_score": 0.0628390870988369
+    },
+    {
+        "title": "La Champions ya es una prioridad para el Athletic",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/01/20/williams-kjWH-U230591385394z2B-1200x840@El%20Correo-ElCorreo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/champions-prioridad-athletic-20250120004934-nt.html",
+        "date": "2025-01-20 23:51:07",
+        "sentiment_score": 0.8833677880465984
+    },
+    {
+        "title": "«Estoy harta de las maneras habituales de matar»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/01/20/Yrisa-RdeHgDy5gdZM3TYtrLhbyMO-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/libros/harta-maneras-habituales-matar-20250120175534-ntrc.html",
+        "date": "2025-01-20 23:40:31",
+        "sentiment_score": -0.9192429836839437
+    },
+    {
+        "title": "Ouigo acaricia ser rentable con precios bajos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/01/18/678c0d7595e76.r_d.1372-1097-1795.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250121/10297375/ouigo-acaricia-rentable-precios-bajos.html",
+        "date": "2025-01-21 02:00:00",
+        "sentiment_score": 0.11387406289577484
+    },
+    {
+        "title": "El viento y las olas pondrán hoy en aviso a una decena de provincias, con olas de 4 metros y rachas de viento de 90 km/h",
+        "image_url": "https://www.infobae.com/resizer/v2/3W4REJG77RDWVB6KLKXSD5KXTQ.jpg?auth=11320da723fc498dddd9ddd6f3550cbfaffa25f7c3e0a78b868957377f06be9f&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/22/el-viento-y-las-olas-pondran-hoy-en-aviso-a-una-decena-de-provincias-con-olas-de-4-metros-y-rachas-de-viento-de-90-kmh/",
+        "date": "2025-01-21 01:48:34",
+        "sentiment_score": 0.05930759012699127
+    },
+    {
+        "title": "La mujer que arrolló a Rafael, el guardia civil al que dejó morir, movió el cadáver y lo ocultó \"en la cuneta\" para alterar la escena",
+        "image_url": "https://s1.elespanol.com/2025/01/20/reportajes/917919044_252476251_1706x960.jpg?contentId=ESPIMA20250120_0845",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250121/mujer-arrollo-rafael-guardia-civil-dejo-morir-movio-cadaver-oculto-cuneta-alterar-escena/917908621_0.html",
+        "date": "2025-01-21 01:46:15",
+        "sentiment_score": -0.7950187046080828
+    },
+    {
+        "title": "Los 17 hospitales con más negligencias médicas de España por comunidades: hubo 14.088 casos y 798 muertes en 2024",
+        "image_url": "https://s1.elespanol.com/2025/01/20/reportajes/917918557_252461046_1706x960.jpg?contentId=ESPIMA20250120_0358",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250121/hospitales-negligencias-medicas-espana-comunidades-casos-muertes/917908441_0.html",
+        "date": "2025-01-21 01:46:00",
+        "sentiment_score": -0.8598316088318825
+    },
+    {
+        "title": "Murtra ya ejerce de presidente de Telefónica: reuniones con su nuevo equipo con la renovación del consejo como primer hito",
+        "image_url": "https://s1.elespanol.com/2025/01/20/invertia/empresas/tecnologia/917918922_252472488_1706x960.jpg?contentId=ESPIMA20250120_0723",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/tecnologia/20250121/murtra-ejerce-presidente-telefonica-reuniones-nuevo-equipo-renovacion-consejo-primer-hito/917908629_0.html",
+        "date": "2025-01-21 01:39:50",
+        "sentiment_score": 0.13513340428471565
+    },
+    {
+        "title": "Campeona de karate y mujer de futbolista del Barça, Anna Lewandowska abre gimnasio: \"A mi marido y a mí nos encanta entrenar en pareja\"",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/177116140b65d041ff9151a956d54758/crop/21x395/2139x3219/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/15/17369711754263.jpg",
+        "tags": [
+            "estilo de vida",
+            "fitness",
+            "artículos cristina galafate",
+            "novedades fitness",
+            "bienestar"
+        ],
+        "link": "https://www.elmundo.es/yodona/lifestyle/2025/01/21/6788149de85eceb0748b45a2.html",
+        "date": "2025-01-21 01:38:23",
+        "sentiment_score": 0.03845551609992981
     }
 ];
