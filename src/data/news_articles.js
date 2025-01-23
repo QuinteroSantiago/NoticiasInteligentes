@@ -100,16 +100,6 @@ export default [
         "sentiment_score": -0.4249182492494583
     },
     {
-        "title": "Así se ve Gaza mientras entra en efecto el alto al fuego por la guerra",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/gaza-dron-alto-fuego-guerra-israel-hamas-palestina-orix/",
-        "date": "2025-01-19 14:09:56",
-        "sentiment_score": -0.5595304407179356
-    },
-    {
         "title": "Arrestos, persecuciones, ataques a albergues... se dispara la tensión en la frontera México-EE.UU.",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/19/frontera-RDp0B5JICSJmhIpYqaP1atJ-1200x840@diario_abc.JPG",
         "tags": [
@@ -128,16 +118,6 @@ export default [
         "link": "https://www.abc.es/internacional/trump-vuelta-washington-tiktok-memecoins-20250119164228-nt.html",
         "date": "2025-01-19 15:42:29",
         "sentiment_score": -0.08398771286010742
-    },
-    {
-        "title": "Un trabajo en equipo a favor de la inclusión y la diversidad",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/19/ferrovial-voluntariado1-RwaGOto6I0sL0vdUWJyoOhP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trabajo-equipo-favor-inclusion-diversidad-20250119191124-nt.html",
-        "date": "2025-01-19 10:46:58",
-        "sentiment_score": 0.0858822911977768
     },
     {
         "title": "Tráfico alerta de fuertes nevadas en Castilla y León",
@@ -169,59 +149,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-01-19/los-funcionarios-de-prisiones-exigen-mejorar-la-seguridad-en-modulos-conflictivos-de-valdemoro.html",
         "date": "2025-01-19 15:04:10",
         "sentiment_score": -0.022656112909317017
-    },
-    {
-        "title": "Montero pone el foco en Moreno y pide que Andalucía se “sacuda la actitud lastimosa y quejumbrosa”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2WCTXNUNYNHBNHQM5VDMFJUL44.jpg?auth=445a9cd63f40d80be1f1eb713e4dd645d8e00979061a51657e0131a81eb95af0&width=1200",
-        "tags": [
-            "maría jesús montero",
-            "juan manuel moreno",
-            "andalucía",
-            "pp-a",
-            "españa",
-            "junta de andalucía",
-            "psoe-a"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2025-01-19/montero-pone-el-foco-en-moreno-y-pide-que-andalucia-se-sacuda-la-actitud-lastimosa-y-quejumbrosa.html",
-        "date": "2025-01-19 14:00:01",
-        "sentiment_score": 0.07983840256929398
-    },
-    {
-        "title": "Sánchez reivindica la socialdemocracia frente a los “algoritmos amañados” del ‘trumpismo’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N3AKOC7NF7H3D35FFMCG2JV4VE.jpg?auth=6606b48233adce4871edae6229a0fef4667d749db683664afd5ae05f2436e13e&width=1200",
-        "tags": [
-            "barones psoe",
-            "psoe",
-            "gobierno de españa",
-            "españa",
-            "comunidades autónomas",
-            "extremadura",
-            "pedro sánchez",
-            "miguel ángel gallardo"
-        ],
-        "link": "https://elpais.com/espana/2025-01-19/sanchez-reivindica-la-socialdemocracia-frente-a-los-algoritmos-amanados-del-trumpismo.html",
-        "date": "2025-01-19 13:51:27",
-        "sentiment_score": 0.5043995976448059
-    },
-    {
-        "title": "Mazón, noqueado por Feijóo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PDB22WFVYFDRBAQUUHDMX3BGNE.JPG?auth=53139b09fb710ef1d3c909bfcf9e6f78a8277058bc63875c3d2eb621ef6dded5&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "valencia",
-            "pp",
-            "maría josé catalá",
-            "alberto núñez feijóo",
-            "carlos mazón",
-            "inundaciones",
-            "inundaciones dana octubre 2024",
-            "política",
-            "generalitat valenciana",
-            "ppcv"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-19/mazon-noqueado-por-feijoo.html",
-        "date": "2025-01-19 12:15:58",
-        "sentiment_score": -0.7252589203417301
     },
     {
         "title": "El Barça se deja media Liga ante los modestos y pierde a Dani Olmo",
@@ -6312,5 +6239,342 @@ export default [
         "link": "https://www.lavanguardia.com/local/barcelona/20250122/10310883/ramon-tremosa-anuncia-dejara-concejal-barcelona-docencia.html",
         "date": "2025-01-22 21:42:05",
         "sentiment_score": 0.17296834290027618
+    },
+    {
+        "title": "España: las predicciones del tiempo en Barcelona este 23 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/H6QTCLPQXRBHLMFNQGX4TBSXEM.jpg?auth=500a09997651c051aabaeec335a92646aee4f39588a78ef94611f11a1e64147f&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/23/espana-las-predicciones-del-tiempo-en-barcelona-este-23-de-enero/",
+        "date": "2025-01-23 02:02:03",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Temas del día de EFE Economía del viernes, 22 de noviembre de 2024 (19:00 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/temas-del-dia-de-efe-economia-del-viernes-22-de-noviembre-de-2024-1900-horas/",
+        "date": "2025-01-23 01:33:23",
+        "sentiment_score": 0.0009588375687599182
+    },
+    {
+        "title": "Aitor Ruibal y el canterano Guirao, novedades en una lista bética con siete bajas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/aitor-ruibal-y-el-canterano-guirao-novedades-en-una-lista-betica-con-siete-bajas/",
+        "date": "2025-01-23 01:33:11",
+        "sentiment_score": 0.027277573943138123
+    },
+    {
+        "title": "IU abre este sábado su 'Convocatoria por la Democracia', Sumar culmina su asamblea en Galicia y Podemos celebra su CCE",
+        "image_url": "https://www.infobae.com/resizer/v2/UNJGJB55YFHHBN3FK6KKWDJDGE.jpg?auth=8ef378fba7c8dc2659a54571b0d95f2a0becab7653c890711a85b3069fa402a6&height=1232&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/iu-abre-este-sabado-su-convocatoria-por-la-democracia-sumar-culmina-su-asamblea-en-galicia-y-podemos-celebra-su-cce/",
+        "date": "2025-01-23 01:32:59",
+        "sentiment_score": 0.528498936444521
+    },
+    {
+        "title": "Rego recuerda a los niños que son \"sujetos de derecho\" y su protección debe garantizarse",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/rego-recuerda-a-los-ninos-que-son-sujetos-de-derecho-y-su-proteccion-debe-garantizarse/",
+        "date": "2025-01-23 01:18:26",
+        "sentiment_score": -0.003068864345550537
+    },
+    {
+        "title": "Leiva anuncia 30 conciertos en España y publica un nuevo adelanto de su próximo álbum, 'Bajo presión'",
+        "image_url": "https://www.infobae.com/resizer/v2/VBCHCA2CCVC7FMHDIEFD7TCFRU.jpg?auth=438d9e7f03384dd8cd0379d43add4213a8ab7b5b574dc90a0fb27d6a42abd546&height=1081&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/22/leiva-anuncia-30-conciertos-en-espana-y-publica-un-nuevo-adelanto-de-su-proximo-album-bajo-presion/",
+        "date": "2025-01-23 01:18:14",
+        "sentiment_score": 0.24593044444918633
+    },
+    {
+        "title": "Sánchez cierra con Melilla su ronda autonómica, con la única ausencia de Ayuso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/sanchez-cierra-con-melilla-su-ronda-autonomica-con-la-unica-ausencia-de-ayuso/",
+        "date": "2025-01-23 01:18:01",
+        "sentiment_score": 0.5032888650894165
+    },
+    {
+        "title": "Leiva anuncia 30 conciertos en España en los que incluye Gran Canaria y Tenerife",
+        "image_url": "https://www.infobae.com/resizer/v2/NCJHFBUVBZDH5GVGATZCFWZGZQ.jpg?auth=3b76f912710ddc6b9c683027ce04eb181377371883b8e2c0588d9ce009e8c846&height=1081&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/22/leiva-anuncia-30-conciertos-en-espana-en-los-que-incluye-gran-canaria-y-tenerife/",
+        "date": "2025-01-23 01:17:50",
+        "sentiment_score": 0.12993528693914413
+    },
+    {
+        "title": "Chayanne vuelve a España diez años después para actuar el 1 de junio en Icónica",
+        "image_url": "https://www.infobae.com/resizer/v2/GMBWTB6S4NB5LCOBQX2A2LXX4I.jpg?auth=1c1b2e67f967be35a0da03ace809604e526c28048fbaacdc28d88b1f1cccc8b8&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/22/chayanne-vuelve-a-espana-diez-anos-despues-para-actuar-el-1-de-junio-en-iconica/",
+        "date": "2025-01-23 01:03:15",
+        "sentiment_score": 0.11981775239109993
+    },
+    {
+        "title": "Santander, BBVA, CaixaBank y Sabadell repiten como entidades sistémicas en España en 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/22/santander-bbva-caixabank-y-sabadell-repiten-como-entidades-sistemicas-en-espana-en-2025/",
+        "date": "2025-01-23 00:48:02",
+        "sentiment_score": -0.08177043497562408
+    },
+    {
+        "title": "La ONU condena la violencia y crisis en la región de Catatumbo en Colombia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/desplazados-colombia.jpg?quality=100&strip=info",
+        "tags": [
+            "xpress",
+            "fast – news variety",
+            "colombia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/onu-violencia-crisis-catatumbo-petro-colombia-panorama-mundial/",
+        "date": "2025-01-23 02:06:00",
+        "sentiment_score": -0.8522809660062194
+    },
+    {
+        "title": "¿Qué opciones tiene Claudia Sheinbaum para combatir el crimen organizado en México?, un académico las analiza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-crimen-organizado-analisis-claudia-sheinbaum-aristegui-tv/",
+        "date": "2025-01-23 01:35:39",
+        "sentiment_score": -0.5016462095081806
+    },
+    {
+        "title": "Experto analiza el posible alcance para América Latina de las medidas del presidente Donald Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/donald-trump-relacion-mexico-america-latina-analisis-aristegui-tv/",
+        "date": "2025-01-23 01:31:51",
+        "sentiment_score": -0.4691195413470268
+    },
+    {
+        "title": "Mulino: El canal de Panamá no fue una concesión ni una dádiva que hizo EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/canal-de-panama-no-fue-concesion-de-eeuu-perspectivas-mexico-tv-fast/",
+        "date": "2025-01-23 00:17:05",
+        "sentiment_score": -0.7412374168634415
+    },
+    {
+        "title": "“Estamos a la deriva”, dicen migrantes tras la eliminación de citas de asilo en EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migrantes-esperan-respuesta-citas-eliminadas-eeuu-perspectivas-mexico-tv-fast/",
+        "date": "2025-01-22 23:47:36",
+        "sentiment_score": -0.7920101247727871
+    },
+    {
+        "title": "Pez luna en Japón dejó de comer al sentirse solitario, sus cuidadores le pusieron visitantes de papel para animarlo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/paz-luna-solito-00-00-14-28-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/pez-luna-japon-solitario-visitantes-papel-orix/",
+        "date": "2025-01-22 22:59:16",
+        "sentiment_score": -0.49105918407440186
+    },
+    {
+        "title": "Luisa González evita pronunciarse sobre el régimen de Maduro en Venezuela",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2194246672.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ecuador-venezuela-maduro-luisa-gonzalez-revolucion-ciudadana-candidata-presidencia-conclusiones-tv/",
+        "date": "2025-01-22 22:45:08",
+        "sentiment_score": -0.6161294989287853
+    },
+    {
+        "title": "Adiós a los jóvenes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/opinion/2025/01/23/adios-jovenes-113627517.html",
+        "date": "2025-01-23 02:07:25",
+        "sentiment_score": -0.5314947217702866
+    },
+    {
+        "title": "El Tribunal Electoral ordena reactivar la selección de candidatos a jueces, magistrados y ministros para la elección judicial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ATWHS6BMABFBPOVXAKFNNHMHSQ.jpg?auth=1cb310df3abecaf4968d3440622ded277239df07cf1c7139afea5bdc31ec7fc4&width=1200",
+        "tags": [
+            "tepjf",
+            "américa",
+            "suprema corte de justicia de la nación",
+            "latinoamérica",
+            "méxico",
+            "poder judicial",
+            "reforma judicial",
+            "elecciones"
+        ],
+        "link": "https://elpais.com/mexico/2025-01-23/el-tribunal-electoral-ordena-reactivar-la-seleccion-de-candidatos-a-jueces-magistrados-y-ministros-para-la-eleccion-judicial.html",
+        "date": "2025-01-23 02:05:30",
+        "sentiment_score": -0.3712566904723644
+    },
+    {
+        "title": "La mayoría de los jueces del Supremo de Brasil vota contra la liberación de Robinho",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/22/la-mayoria-de-los-jueces-del-supremo-de-brasil-vota-contra-la-liberacion-de-robinho/",
+        "date": "2025-01-23 01:47:56",
+        "sentiment_score": -0.31598353385925293
+    },
+    {
+        "title": "Aficionados del Feyenoord, vetados de partido de Champions en Lille por temor a violencia",
+        "image_url": "https://dims.apnews.com/dims4/default/5aafd60/2147483647/strip/true/crop/8390x5585+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fc8%2Ff795a639eeb4d2ac0f9e82c6292b%2F3a1d8f5bfeff400297d551a5e3ab019a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/feyenoord-hinchas-champions-league-lille-bayern-82c9a326d7ce98e4a089ed315de4fa91",
+        "date": "2025-01-23 01:37:39",
+        "sentiment_score": -0.8826348390430212
+    },
+    {
+        "title": "Previa del Atlético de Madrid - Alavés",
+        "image_url": "https://www.infobae.com/resizer/v2/L7QNJ4WY5RG7PN6SB2TLGPNKWU.jpg?auth=2f8b2a1be29048e48c5f0445cdb3d9fd166872c22d290a8336567e67c3161cc7&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2023/10/28/previa-del-atletico-de-madrid-alaves/",
+        "date": "2025-01-23 01:33:36",
+        "sentiment_score": -0.03082166612148285
+    },
+    {
+        "title": "Las obras ilegales de un colegio religioso de Carabanchel en una parcela pública: una inspección revela que no tenía licencia",
+        "image_url": "https://s1.elespanol.com/2025/01/22/madrid/capital/918419177_252537868_1706x960.jpg?contentId=ESPIMA20250122_1028",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20250123/obras-ilegales-colegio-religioso-carabanchel-parcela-publica-inspeccion-revela-no-licencia/918408642_0.html",
+        "date": "2025-01-23 01:17:54",
+        "sentiment_score": -0.9013854525983334
+    },
+    {
+        "title": "Nuevo gerente general de los Titans, Mike Borgonzi, listo para el reto de reconstruir al equipo",
+        "image_url": "https://dims.apnews.com/dims4/default/dd6d656/2147483647/strip/true/crop/4500x2995+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2F63%2F5c932b3077aeb4b7e99673bd08a6%2Fc01b4613d94a493db67ec66c19dd32cc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/titans-gerente-reconstruccion-nfl-borgonzi-fa877c0781dcbdcbb3cbe86574a0bb55",
+        "date": "2025-01-23 01:14:52",
+        "sentiment_score": 0.6107521448284388
+    },
+    {
+        "title": "Elon Musk critica la iniciativa de inteligencia artificial promovida por Trump",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Z7AWBRTIFZGFNIWEX5HQPBFMOI.JPG?auth=63440b6b31b6eb02c724c448081a4142369877b255f6208a0fe9b0255b86f0ed&width=1200",
+        "tags": [
+            "tecnología",
+            "chatgpt",
+            "donald trump",
+            "openai",
+            "sam altman",
+            "inteligencia artificial",
+            "estados unidos",
+            "inversión",
+            "elon musk",
+            "américa"
+        ],
+        "link": "https://elpais.com/us/2025-01-23/elon-musk-critica-la-iniciativa-de-inteligencia-artificial-promovida-por-trump.html",
+        "date": "2025-01-23 00:59:02",
+        "sentiment_score": -0.14432361721992493
+    },
+    {
+        "title": "El Real Madrid, primer club de fútbol del mundo milmillonario en ingresos",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/01/23/bernabeu-nuevo-madrid-kU5-U230616404969sFE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/deportes/futbol/real-madrid-primer-club-futbol-mundo-milmilonario-20250123014007-ntrc.html",
+        "date": "2025-01-23 00:54:30",
+        "sentiment_score": 0.4678467735648155
+    },
+    {
+        "title": "Real Madrid goleó a Salzburgo y Vinicius llegó a 100 tantos",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/01/vini-100-730x524.webp",
+        "tags": [
+            "salzburgo",
+            "vinicius",
+            "girona",
+            "real madrid",
+            "champions league",
+            "manchester city",
+            "deportes",
+            "milan",
+            "fútbol",
+            "psg"
+        ],
+        "link": "https://primicia.com.ve/deportes/real-madrid-goleo-a-salzburgo-y-vinicius-llego-a-100-tantos/",
+        "date": "2025-01-23 00:54:09",
+        "sentiment_score": -0.7983561046421528
+    },
+    {
+        "title": "Angela Cullen: la hermosa asistente de Hamilton que roba miradas en Ferrari",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/23/2025012302224775005.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/descubre-a-angela/20250123022257331486.html",
+        "date": "2025-01-23 01:22:57",
+        "sentiment_score": 0.4206162430346012
+    },
+    {
+        "title": "El mapa de las mejores cafeterías de Madrid: talleres, catas repostería artesana, tostador y bizcochos de tomate",
+        "image_url": "https://s1.elespanol.com/2025/01/22/madrid/ocio/918418430_252515183_1706x960.jpg?contentId=ESPIMA20250122_0281",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20250123/mapa-mejores-cafeterias-madrid-talleres-catas-reposteria-artesana-tostador-bizcochos-tomate/918408375_0.html",
+        "date": "2025-01-23 01:17:56",
+        "sentiment_score": 0.6422763727605343
+    },
+    {
+        "title": "El valor de la terapia ocupacional para Rubén Vigil tras sufrir un ictus: \"Mi ilusión era darle el biberón a mi hija\"",
+        "image_url": "https://s1.elespanol.com/2025/01/22/enclave-ods/referentes/918419016_252532989_1706x960.jpg?contentId=ESPIMA20250122_0867",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20250123/valor-terapia-ocupacional-ruben-vigil-sufrir-ictus-ilusion-darle-biberon-hija/918408477_0.html",
+        "date": "2025-01-23 00:59:16",
+        "sentiment_score": -0.5124486759305
+    },
+    {
+        "title": "Demanda de talento tecnológico en España más allá de los ingenieros: salarios en alza y miles de vacantes por cubrir",
+        "image_url": "https://s1.elespanol.com/2025/01/20/invertia/disruptores/politica-digital/espana/917918929_252472665_1706x960.jpg?contentId=ESPIMA20250120_0730",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20250123/demanda-talento-tecnologico-espana-alla-ingenieros-salarios-alza-miles-vacantes-cubrir/917908631_0.html",
+        "date": "2025-01-23 00:50:35",
+        "sentiment_score": -0.85339564550668
     }
 ];
