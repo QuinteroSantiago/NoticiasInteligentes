@@ -121,51 +121,6 @@ export default [
         "sentiment_score": -0.7393612116575241
     },
     {
-        "title": "Milei asistirá a la investidura de Trump y al Foro Económico de Davos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "argentina",
-            "fast – news variety",
-            "xpress"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/milei-asiste-investidura-trump-y-foro-economico-davos-tv/",
-        "date": "2025-01-20 14:13:57",
-        "sentiment_score": -0.09000737220048904
-    },
-    {
-        "title": "Toma de posesión de Trump como presidente de EE.UU., en vivo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/GettyImages-2194863186.jpg?quality=100&strip=info",
-        "tags": [
-            "política",
-            "donld trump"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/20/toma-posesion-trump-presidente-eeuu-trax/",
-        "date": "2025-01-20 12:35:56",
-        "sentiment_score": -0.14073777198791504
-    },
-    {
-        "title": "El emotivo momento en el que rehenes israelíes liberados se reúnen con su familia en el hospital",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/reheneshthumb.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hospital-israel-gaza-rehenes-prisioneros-encuentro-trax/",
-        "date": "2025-01-20 12:24:21",
-        "sentiment_score": -0.021595388650894165
-    },
-    {
-        "title": "Estas son las personas elegidas por Donald Trump para cargos clave de su Gabinete",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1778646-departamento-de-justicia-de-ee-uu-acusa-a-tres-personas-por-intento-de-magnicidio-contra-trump.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "elecciones en estados unidos",
-            "donald trump",
-            "instanoticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/01/20/personas-designadas-trump-cargos-gabinete-orix/",
-        "date": "2025-01-20 12:00:10",
-        "sentiment_score": 0.028322577476501465
-    },
-    {
         "title": "Pros y contras de los milagrosos fármacos para la obesidad",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/01/20/ozempic.jpg",
         "tags": [
@@ -194,76 +149,6 @@ export default [
         "link": "https://www.abc.es/economia/asalto-gobierno-amenaza-perder-telefonica-presidencia-patronal-20250120155721-nt.html",
         "date": "2025-01-20 15:13:14",
         "sentiment_score": -0.11444982886314392
-    },
-    {
-        "title": "CaixaBank se consolida como el primer banco del sector agrario en España y acapara a la mitad de los clientes potenciales",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/20/1460662533-RcO4mwf5MBVN8xQMqhaGubM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/caixabank-consolida-primer-banco-sector-agrario-espana-20250120140316-nt.html",
-        "date": "2025-01-20 13:10:00",
-        "sentiment_score": 0.017409533262252808
-    },
-    {
-        "title": "El Papa escribe a Trump: «Construya una sociedad más justa, sin odio, ni discriminación ni exclusión»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/01/20/trump-pope-R03WCxgID9GmQzEEYKvziRJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/papa-escribe-trump-construya-sociedad-justa-odio-20250120135347-nt.html",
-        "date": "2025-01-20 12:53:48",
-        "sentiment_score": 0.011514544486999512
-    },
-    {
-        "title": "Donald Trump, en directo: discurso y última hora del mitin de investidura hoy",
-        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2025/01/17/avion-k0jB--170x119@La%20Verdad.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/donald-trump-directo-discurso-ultima-hora-mitin-20250119135102-di.html",
-        "date": "2025-01-20 12:53:18",
-        "sentiment_score": -8.309632539749146e-05
-    },
-    {
-        "title": "Investidura de Donald Trump como presidente de los Estados Unidos, en directo: discurso, actuaciones, invitados y última hora de la toma de posesión hoy",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/01/14/proteina-grasa-parda-adelgazar-kd4F--170x119@El%20Comercio.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/investidura-donald-trump-presidente-estados-unidos-directo-discurso-actuaciones-invitados-ultima-hora-toma-posesion-hoy-20250120162459-di.html",
-        "date": "2025-01-20 12:49:39",
-        "sentiment_score": 0.09532252326607704
-    },
-    {
-        "title": "La extrema derecha renuncia a sacar a Austria de la UE en las negociaciones para formar gobierno",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/01/20/kickl-Rwsfy5IRkRPp2LgsrxVMIQK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/extrema-derecha-renuncia-sacar-austria-ue-negociaciones-20250120132236-nt.html",
-        "date": "2025-01-20 12:22:59",
-        "sentiment_score": -0.09099015593528748
-    },
-    {
-        "title": "Los analistas pronostican que España incumplirá ya este año el objetivo de reducción del déficit pactado con Bruselas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/20/ValdisDombrovskisEFE-RQyY94oUVRwV4wSPVaCtuaK-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/analistas-pronostican-espana-incumplira-ano-objetivo-reduccion-20250120124602-nt.html",
-        "date": "2025-01-20 12:08:25",
-        "sentiment_score": -0.1261327862739563
-    },
-    {
-        "title": "Bluesky, la alternativa a 'X' tras la crisis de la red social que ha pasado de 2 a 25 millones de usuarios solo en 2024",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/20/Bluesky-his-new-user-landmark-as-kMlG-U70134229437Qb-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/bluesky-alternativa-tras-crisis-red-social-pasado-20250120130033-nt.html",
-        "date": "2025-01-20 12:01:46",
-        "sentiment_score": -0.1126372367143631
     },
     {
         "title": "La jueza que investiga al hermano de Sánchez indaga sobre su relación con un extrabajador de La Moncloa",
@@ -6850,5 +6735,371 @@ export default [
         "link": "https://www.superdeporte.es/futbol/2025/01/23/barca-pacta-renovacion-araujo-2031-ultima-pedri-113656901.html",
         "date": "2025-01-23 21:39:06",
         "sentiment_score": -0.20835472643375397
+    },
+    {
+        "title": "Detienen a un joven tras la muerte de un hombre en una pelea en Malagón (Ciudad Real)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/detienen-a-un-joven-tras-la-muerte-de-un-hombre-en-una-pelea-en-malagon-ciudad-real/",
+        "date": "2025-01-24 02:02:21",
+        "sentiment_score": -0.701217383146286
+    },
+    {
+        "title": "Podemos no atacará al PSOE por Aldama pero remarca que el caso Koldo es grave: \"Distinguimos el grano de la paja\"",
+        "image_url": "https://www.infobae.com/resizer/v2/H55EDUOHMRGXRASRPT53GOVSKQ.jpg?auth=45a4092a6cef223f83f7b2061407bb32a2c7730c523ca54a2d6c2f7fbfc07ced&height=1278&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/podemos-no-atacara-al-psoe-por-aldama-pero-remarca-que-el-caso-koldo-es-grave-distinguimos-el-grano-de-la-paja/",
+        "date": "2025-01-24 02:02:09",
+        "sentiment_score": -0.9298935756087303
+    },
+    {
+        "title": "Detenidas tres personas por profrerir insultos racistas en el Madrid-Barça",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/detenidas-tres-personas-por-profrerir-insultos-racistas-en-el-madrid-barca/",
+        "date": "2025-01-24 02:01:56",
+        "sentiment_score": -0.8891526889055967
+    },
+    {
+        "title": "La Comisión Bilateral de Cooperación Permanente entre Euskadi y el Estado se reunirá el miércoles",
+        "image_url": "https://www.infobae.com/resizer/v2/W4B6XEUMPVFMBCEXUVI2OH45H4.jpg?auth=46a4503acc64a85d9dcd12271b4dbd9825c12e122f3c83a9c4beaa79e2a677e0&height=1268&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/la-comision-bilateral-de-cooperacion-permanente-entre-euskadi-y-el-estado-se-reunira-el-miercoles/",
+        "date": "2025-01-24 02:01:44",
+        "sentiment_score": 0.10265693441033363
+    },
+    {
+        "title": "La Brigada 'Aragón' retorna este sábado a España tras seis meses en la zona sur de Líbano limítrofe con Israel",
+        "image_url": "https://www.infobae.com/resizer/v2/CEUQTGYONJFC5KDKX3TQVBN3VY.jpg?auth=8778406479bd08df30145b799ea8c1fc7e37f66ec98fc440955fc4d8c73466db&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/la-brigada-aragon-retorna-este-sabado-a-espana-tras-seis-meses-en-la-zona-sur-de-libano-limitrofe-con-israel/",
+        "date": "2025-01-24 01:48:46",
+        "sentiment_score": -0.18299077451229095
+    },
+    {
+        "title": "Desarticulan un grupo colombiano que robaba a representantes de joyería en España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/23/desarticulan-un-grupo-colombiano-que-robaba-a-representantes-de-joyeria-en-espana/",
+        "date": "2025-01-24 01:37:36",
+        "sentiment_score": -0.7901001870632172
+    },
+    {
+        "title": "Jotas por la igualdad: un giro feminista para las coplas tradicionales aragonesas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/jotas-por-la-igualdad-un-giro-feminista-para-las-coplas-tradicionales-aragonesas/",
+        "date": "2025-01-24 01:36:42",
+        "sentiment_score": 0.12209078669548035
+    },
+    {
+        "title": "Sánchez y Pradales presidirán el 27 la comisión que negociará el traspaso de competencias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/sanchez-y-pradales-presidiran-el-27-la-comision-que-negociara-el-traspaso-de-competencias/",
+        "date": "2025-01-24 01:36:30",
+        "sentiment_score": 0.034446705132722855
+    },
+    {
+        "title": "Podemos señala que Aldama ha hecho acusaciones muy graves contra el PSOE pero sin pruebas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/podemos-senala-que-aldama-ha-hecho-acusaciones-muy-graves-contra-el-psoe-pero-sin-pruebas/",
+        "date": "2025-01-24 01:36:22",
+        "sentiment_score": -0.7818502057343721
+    },
+    {
+        "title": "Morant exige la dimisión de Mazón para que la sociedad valenciana pueda \"superar el dolor\"",
+        "image_url": "https://www.infobae.com/resizer/v2/ELK4LSFJLJEF3KTY5PJHFNYAII.jpg?auth=2534fb323817f931df0ec00ef05436034ee92c76aadc98a05ace1eb357c92a9f&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/morant-exige-la-dimision-de-mazon-para-que-la-sociedad-valenciana-pueda-superar-el-dolor/",
+        "date": "2025-01-24 01:03:09",
+        "sentiment_score": -0.6256567239761353
+    },
+    {
+        "title": "Rusia reacciona con indiferencia a amenaza de aranceles de Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusia-reax-trump-aranceles-guerra-ucrania-panorama-mundial-tv/",
+        "date": "2025-01-24 02:04:49",
+        "sentiment_score": -0.7092661522328854
+    },
+    {
+        "title": "ANÁLISIS | Ante las amenazas de Donald Trump, ¿qué debería hacer México?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-mexico-relacion-analisis-donald-trump-claudia-sheinbaum-aristegui-tv/",
+        "date": "2025-01-24 01:52:34",
+        "sentiment_score": -0.25137459486722946
+    },
+    {
+        "title": "¿Se cobran tarifas diferentes a navíos de EE.UU. en el canal de Panamá?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tarifas-a-navios-eeuu-canal-de-panama-perspectivas-mexico-tv/",
+        "date": "2025-01-24 01:50:19",
+        "sentiment_score": -0.8911960311233997
+    },
+    {
+        "title": "Es inaceptable la tasa de mortalidad materna en Estados Unidos, aseguran expertos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-mortalidad-materna-inaceptable-minuto-de-salud-fast/",
+        "date": "2025-01-24 01:23:18",
+        "sentiment_score": -0.5260683000087738
+    },
+    {
+        "title": "\"Mi hija olvidó mi aspecto\", dice una palestina liberada al volver a casa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-israel-hamas-prisionera-palestina-casa-trax/",
+        "date": "2025-01-24 01:21:32",
+        "sentiment_score": -0.39600569754838943
+    },
+    {
+        "title": "Catatumbo: una región marcada por el conflicto armado en Colombia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "colombia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/catatumbo-violencia-colombia-conflicto-armado-explainer-orix/",
+        "date": "2025-01-24 00:11:42",
+        "sentiment_score": -0.7795785162597895
+    },
+    {
+        "title": "Multitud hace fila para ver la flor de cadáver, famosa por su olor a carne podrida",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/florece-flor-cadaver-sidney-orix/",
+        "date": "2025-01-23 23:48:09",
+        "sentiment_score": -0.5686367526650429
+    },
+    {
+        "title": "Llamadme Miguel Jordán",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/24/barco-RNt7H0NKdiUbgiCuMR1v5TN-350x624@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-llamadme-miguel-jordan-20250124000511-nt.html",
+        "date": "2025-01-24 00:43:57",
+        "sentiment_score": -0.0023445188999176025
+    },
+    {
+        "title": "El Gobierno de Milei impulsa un proyecto para eliminar la figura de feminicidio",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/01/24/milei-efe-ktQB-U701539716152qH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gobierno-milei-impulsa-proyecto-eliminar-figura-feminicidio-20250124012359-nt.html",
+        "date": "2025-01-24 00:23:59",
+        "sentiment_score": -0.06688076257705688
+    },
+    {
+        "title": "Peter Lim igualará el dinero de lo recaudado ante el Betis y lo donará a los afectados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/23/peter-lim-igualara-el-dinero-de-lo-recaudado-ante-el-betis-y-lo-donara-a-los-afectados/",
+        "date": "2025-01-24 01:48:20",
+        "sentiment_score": -0.13550396263599396
+    },
+    {
+        "title": "Tres detenidos por proferir insultos racistas contra dos jugadores del FC Barcelona en el Clásico de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/RELKP5BXENFI3F3WCJ7FZUKRPA.jpg?auth=72511a9763b256333c2256e77bd396baf95bebdb9570d844c75f6170d0e12d12&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/23/tres-detenidos-por-proferir-insultos-racistas-contra-dos-jugadores-del-fc-barcelona-en-el-clasico-de-octubre/",
+        "date": "2025-01-24 01:03:22",
+        "sentiment_score": -0.8203114978969097
+    },
+    {
+        "title": "¿Hasta cuándo va a poder pagar Ayuso el descuento del abono transporte? Lo presupuestado sólo aguanta hasta el verano",
+        "image_url": "https://s1.elespanol.com/2025/01/23/madrid/comunidad/918668369_252547682_1706x960.jpg?contentId=ESPIMA20250123_0245",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20250124/va-poder-pagar-ayuso-descuento-abono-transporte-presupuestado-solo-aguanta-verano/918658295_0.html",
+        "date": "2025-01-24 00:59:17",
+        "sentiment_score": 0.28566326946020126
+    },
+    {
+        "title": "Carlos Sainz no descarta colaborar con el Madrid: ¿será el sucesor de Florentino?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/11/10/2024111016343473346.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/carlos-sainz-descarta-colaborar-madrid-sera-sucesor-florentino/20250124015538331607.html",
+        "date": "2025-01-24 00:55:38",
+        "sentiment_score": 0.7838147655129433
+    },
+    {
+        "title": "Del arte urbano de Banksy en Madrid a una jornada de educación ambiental en Cádiz: estos son los planes ODS",
+        "image_url": "https://s1.elespanol.com/2025/01/23/enclave-ods/semanales/918668677_252557112_1706x960.jpg?contentId=ESPIMA20250123_0553",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/semanales/20250124/arte-urbano-banksy-madrid-jornada-educacion-ambiental-cadiz-planes-ods/918158620_0.html",
+        "date": "2025-01-24 00:49:10",
+        "sentiment_score": 0.2523144166916609
+    },
+    {
+        "title": "Un triple de Hezonja a falta de dos décimas le da una victoria agónica al Real Madrid frente al Baskonia",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/01/24/6792e1d9716eb.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20250124/triple-hezonja-falta-dos-decimas-le-da-victoria-agonica-real-madrid-frente-baskonia_263844.html",
+        "date": "2025-01-24 00:48:30",
+        "sentiment_score": 0.2907342314720154
+    },
+    {
+        "title": "23 ENE 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-ene-2025-partidazo-cope-20250124_3082881.html",
+        "date": "2025-01-24 00:42:12",
+        "sentiment_score": -0.7069305032491684
+    },
+    {
+        "title": "La dura realidad económica del Barça en contraposición con el Real Madrid: 300 millones menos en ingresos y mayor gasto en salarios",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/22/culemania/849675270_12826825_1706x960.jpg?contentId=ESPIMA20240422_0246",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250124/la-economica-barca-en-contraposicion-real-madrid/918658258_0.html",
+        "date": "2025-01-24 00:36:56",
+        "sentiment_score": 0.31650908291339874
+    },
+    {
+        "title": "Un error de cálculo de Bolaños en vísperas de Navidad dejó sentenciado el decreto ómnibus",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2022/12/23/63a587c155f38.r_d.964-500-6250.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20250124/error-calculo-bolanos-visperas-navidad-dejo-sentenciado-decreto-omnibus_263767.html",
+        "date": "2025-01-24 00:30:00",
+        "sentiment_score": -0.8956363815814257
+    },
+    {
+        "title": "La aldea de Astérix y Obélix",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.huelvainformacion.es/opinion/articulos/aldea-asterix-obelix_0_2003205272.html",
+        "date": "2025-01-24 02:05:58",
+        "sentiment_score": -0.6675578728318214
+    },
+    {
+        "title": "Yplasma, una startup nacida en un tubo supersónico",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/01/18/678c0d8ebb371.r_d.2933-2514-786.jpeg",
+        "tags": [
+            "emprendedores"
+        ],
+        "link": "https://www.lavanguardia.com/economia/emprendedores/20250124/10297380/startup-nacida-tubo-supersonico.html",
+        "date": "2025-01-24 02:00:00",
+        "sentiment_score": 0.06100015342235565
+    },
+    {
+        "title": "Juzgan a una banda que viajaba expresamente a Mallorca para asaltar chalés de lujo",
+        "image_url": "https://www.infobae.com/resizer/v2/AKXQB5HRLRDHTLDGZLWQA62O7M.jpg?auth=0bf9a56b2d9e0cf922986b1315218e1d6b56893181422b5dda24b54837ac2ace&height=1441&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/23/juzgan-a-una-banda-que-viajaba-expresamente-a-mallorca-para-asaltar-chales-de-lujo/",
+        "date": "2025-01-24 01:48:09",
+        "sentiment_score": -0.9035858009010553
+    },
+    {
+        "title": "Así es el primer tren del mundo fabricado con fibra de carbono: viajes mucho más rápidos, silenciosos y sin vibraciones",
+        "image_url": "https://s1.elespanol.com/2025/01/20/omicrono/tecnologia/917918458_252458060_1706x960.jpg?contentId=ESPIMA20250120_0259",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250124/primer-tren-mundo-fabricado-fibra-carbono-viajes-rapidos-silenciosos-sin-vibraciones/917908289_0.html",
+        "date": "2025-01-24 01:47:20",
+        "sentiment_score": 0.3543114513158798
+    },
+    {
+        "title": "Las familias de Palma, San Sebastián y Málaga destinan más del 60% de sus ingresos al pago de servicios básicos como la hipoteca, la luz o la cesta de la compra",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/graficos/1737653778_990x0.jpg",
+        "tags": [
+            "inflación",
+            "artículos gabriela galarza",
+            "málaga",
+            "ine",
+            "palma de mallorca",
+            "vivienda",
+            "cesta de la compra"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/01/24/67928989e9cf4adc788b4579.html",
+        "date": "2025-01-24 01:43:04",
+        "sentiment_score": -0.3163502961397171
+    },
+    {
+        "title": "Jorge Luis Pinto no tuvo piedad con Efraín Juárez: lo señaló de salir a “emborracharse” con los jugadores",
+        "image_url": "https://www.infobae.com/resizer/v2/FB7WLY2G2ZBLDOTINGSE3JWPZA.jpg?auth=52001ed208d62c36e7c74b1ab6e3c2137b80d122b12efe144683ff0ffcec31f5&height=1842&smart=true&width=3264",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/01/24/jorge-luis-pinto-no-tuvo-piedad-con-efrain-juarez-lo-senalo-de-salir-a-emborracharse-con-los-jugadores/",
+        "date": "2025-01-24 01:35:15",
+        "sentiment_score": -0.8626476461067796
+    },
+    {
+        "title": "Los secretos ocultos del caso Daniel Sancho: 'Muerte en Tailandia' los desvela",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/whatsapp-image-2025-01-23-at-182716_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/los-secretos-ocultos-del-caso-daniel-sancho-muerte-tailandia-los-desvela",
+        "date": "2025-01-24 01:30:00",
+        "sentiment_score": -0.7796376720070839
+    },
+    {
+        "title": "Joan Laporta cerca de aceptar una venta que dejaría en saldo negativo al FC Barcelona",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/01/2025010116435457234.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/joan-laporta-estaria-cerca-aceptar-venta-r/20250124022047331615.html",
+        "date": "2025-01-24 01:20:47",
+        "sentiment_score": 0.2655520737171173
     }
 ];
