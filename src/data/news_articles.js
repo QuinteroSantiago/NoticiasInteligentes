@@ -132,26 +132,6 @@ export default [
         "sentiment_score": 0.0459536612033844
     },
     {
-        "title": "La reacción en Medio Oriente tras la investidura de Trump",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1197117242.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/reaccion-medio-oriente-investidura-trump-cafe-tv/",
-        "date": "2025-01-21 13:48:43",
-        "sentiment_score": 0.4506388306617737
-    },
-    {
-        "title": "Mexicanos rechazan la propuesta de Trump de cambiarle el nombre al golfo de México",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/2025-01-21t020853z-1-lwd494121012025rp1-rtrwnev-d-4941-usa-trump-gulf-of-mexico-00-01-12-26-still004.jpg?quality=100&strip=info",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mexicanos-golfo-mexico-america-trump-orix/",
-        "date": "2025-01-21 11:41:37",
-        "sentiment_score": -0.3827572613954544
-    },
-    {
         "title": "Javier Escribano será el nuevo presidente del grupo familiar EM&E tras la marcha de su hermano Ángel a Indra",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/21/JavierEscribano-RcOYGVNwkkfGr8h3clkUOjL-1200x840@diario_abc.jpg",
         "tags": [
@@ -200,56 +180,6 @@ export default [
         "link": "https://www.abc.es/internacional/chef-jose-andres-asegura-dimitio-semana-pasada-20250121151848-nt.html",
         "date": "2025-01-21 14:18:49",
         "sentiment_score": -0.07366523146629333
-    },
-    {
-        "title": "Ana Botín en Davos: «Europa corre el riesgo de convertirse en un museo. Pero ahora no lo es»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/21/botinendavos-RfCHkKirUN12TlcD5Hsx9PP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ana-botin-davos-europa-corre-riesgo-convertirse-20250121150746-nt.html",
-        "date": "2025-01-21 14:07:46",
-        "sentiment_score": -0.01859566569328308
-    },
-    {
-        "title": "Los 27 aprueban los cambios de España al plan de recuperación para acceder a 25.000 millones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/21/recurso-dinero-ka2B-U70140903477m6B-1200x840@diario_abc.PNG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aprueban-cambios-espana-plan-recuperacion-acceder-25000-20250121143942-nt.html",
-        "date": "2025-01-21 13:39:42",
-        "sentiment_score": -0.06794245541095734
-    },
-    {
-        "title": "El Gobierno aprueba la subida del 6% para las pensiones mínimas sin tener garantizado el aval del Congreso",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/21/pensionistas_jubilado-RA8voJ66Q5aXM1c2lY5XSFL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-aprueba-subida-pensiones-minimas-tener-garantizado-20250121141717-nt.html",
-        "date": "2025-01-21 13:23:00",
-        "sentiment_score": -0.06186477839946747
-    },
-    {
-        "title": "Compartir piso en España ya cuesta 520 euros de media, casi 60 euros más que hace un año",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/21/compartir-piso-kqGF-U70140157609wAD-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/compartir-piso-espana-cuesta-520-euros-media-20250121135222-nt.html",
-        "date": "2025-01-21 12:54:19",
-        "sentiment_score": -0.08449159562587738
-    },
-    {
-        "title": "Airbnb defiende que eliminar todos los pisos turísticos solo bajaría el precio de la vivienda un 0,3% en Madrid y un 0,4% en Barcelona",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/21/1481494399-RsoquVk5xWTJlsQ6DlDl6lK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/airbnb-defiende-eliminar-pisos-turisticos-solo-bajaria-20250121134129-nt.html",
-        "date": "2025-01-21 12:42:58",
-        "sentiment_score": -0.13635851442813873
     },
     {
         "title": "Junts de Ripoll abre la puerta a la moción de censura contra la alcaldesa ultra Sílvia Orriols",
@@ -430,25 +360,6 @@ export default [
         "link": "https://elpais.com/espana/2025-01-21/el-pp-declara-el-maximo-respeto-a-trump-y-culpa-a-sanchez-de-la-amenaza-de-imponer-aranceles.html",
         "date": "2025-01-21 14:51:24",
         "sentiment_score": -0.7809175793081522
-    },
-    {
-        "title": "Los vigilantes del metro de Barcelona van a la huelga tras la agresión que dejó tuerto a un compañero",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TSROQDW6DVDE3D5K5W2WHBHR44.jpg?auth=1e7235062efec31f30f180370b4dbdc1f4f7a2bb75f6007333a2d6ed245ce1aa&width=1200",
-        "tags": [
-            "mossos d'esquadra",
-            "cataluña",
-            "barcelona",
-            "transporte ferroviario",
-            "metro barcelona",
-            "seguridad ciudadana",
-            "huelgas",
-            "vigilantes jurados",
-            "tmb",
-            "agresiones físicas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-01-21/los-vigilantes-del-metro-de-barcelona-van-a-la-huelga-tras-la-agresion-que-dejo-tuerto-a-un-companero.html",
-        "date": "2025-01-21 13:24:02",
-        "sentiment_score": -0.43492310494184494
     },
     {
         "title": "Madrid regulará los tuk tuk pero antes necesita clasificar este tipo de transporte",
@@ -6848,5 +6759,365 @@ export default [
         "link": "https://www.malagahoy.es/videos/video-nuevo-asesinato-hotel-abandonado-okupado-madrid_8_2003210748.html",
         "date": "2025-01-24 21:34:31",
         "sentiment_score": -0.8199093602597713
+    },
+    {
+        "title": "Temas del día de EFE Economía del domingo 24 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/temas-del-dia-de-efe-economia-del-domingo-24-de-noviembre-de-2024/",
+        "date": "2025-01-25 02:03:26",
+        "sentiment_score": -0.0017615705728530884
+    },
+    {
+        "title": "España sabrá el lunes su rival en las eliminatorias de clasificación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/espana-sabra-el-lunes-su-rival-en-las-eliminatorias-de-clasificacion/",
+        "date": "2025-01-25 02:03:14",
+        "sentiment_score": -0.017914772033691406
+    },
+    {
+        "title": "El Barça ajusta la Liga al acabar con la condición de invicto del Movistar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/el-barca-ajusta-la-liga-al-acabar-con-la-condicion-de-invicto-del-movistar/",
+        "date": "2025-01-25 02:03:02",
+        "sentiment_score": -0.531787134706974
+    },
+    {
+        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/5UQURLDZH5FDLNSYG2WYFHK24I.jpg?auth=48a97cfe99764e444dd605f5a5a4ab5393e9535a22ac01a43ff22c30408497af&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/25/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2025-01-25 02:02:26",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "España gana el bronce en el Europeo B de curling, pero no logra subir a la máxima división",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/espana-gana-el-bronce-en-el-europeo-b-de-curling-pero-no-logra-subir-a-la-maxima-division/",
+        "date": "2025-01-25 01:48:29",
+        "sentiment_score": -0.5948776230216026
+    },
+    {
+        "title": "31-38. El Barcelona impuso su ley ante Helvetia Anaitasuna en Pamplona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/31-38-el-barcelona-impuso-su-ley-ante-helvetia-anaitasuna-en-pamplona/",
+        "date": "2025-01-25 01:48:17",
+        "sentiment_score": -0.020207181572914124
+    },
+    {
+        "title": "4-1. El Girona golea al Espanyol para dormir en posiciones europeas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/4-1-el-girona-golea-al-espanyol-para-dormir-en-posiciones-europeas/",
+        "date": "2025-01-25 01:48:06",
+        "sentiment_score": 0.6103786006569862
+    },
+    {
+        "title": "Sumar Galicia elige su dirección por unanimidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/sumar-galicia-elige-su-direccion-por-unanimidad/",
+        "date": "2025-01-25 01:47:54",
+        "sentiment_score": 0.09747332334518433
+    },
+    {
+        "title": "Tres muertos en accidentes tráfico desde el viernes, entre ellos un ciclista y un peatón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/tres-muertos-en-accidentes-trafico-desde-el-viernes-entre-ellos-un-ciclista-y-un-peaton/",
+        "date": "2025-01-25 01:33:35",
+        "sentiment_score": -0.7151240315288305
+    },
+    {
+        "title": "Cristina García Rodero recibe el 27o Premio Europeo de Folklore Agapito Marazuela",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/23/cristina-garcia-rodero-recibe-el-27-premio-europeo-de-folklore-agapito-marazuela/",
+        "date": "2025-01-25 01:18:23",
+        "sentiment_score": 0.29465146362781525
+    },
+    {
+        "title": "Experto analiza cuán grave es el fenómeno de las desapariciones forzadas a nivel global",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-450242592.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-crisis-desapariciones-forzadas-congreso-mundial-aristegui-tv/",
+        "date": "2025-01-25 01:36:30",
+        "sentiment_score": -0.6714115254580975
+    },
+    {
+        "title": "La mayoría de los desaparecidos en el mundo son hombres, pero la mayor parte de buscadoras son mujeres, explica experta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-450219274.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/congreso-mundial-desapariciones-forzadas-derechos-humanos-aristegui-tv/",
+        "date": "2025-01-25 01:33:18",
+        "sentiment_score": -0.43220503628253937
+    },
+    {
+        "title": "Cómo evitar el consumo de colorante rojo número 3 antes de su eliminación en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-1480397872.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/como-evitar-consumo-colorante-rojo-3-minuto-de-salud-fast/",
+        "date": "2025-01-25 00:23:26",
+        "sentiment_score": -0.8164671044796705
+    },
+    {
+        "title": "El Catatumbo, en Colombia, enfrenta la peor crisis humanitaria de su historia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/gettyimages-2195107172.jpg?quality=100&strip=info",
+        "tags": [
+            "colombia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colombia-catatumbo-violencia-desplazados-crisis-ush-dusa-tv/",
+        "date": "2025-01-25 00:12:01",
+        "sentiment_score": -0.8896511476486921
+    },
+    {
+        "title": "Activistas proyectan “Heil” y saludo polémico de Elon Musk en fábrica de Tesla",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/activistas-heil-tesla/",
+        "date": "2025-01-24 23:23:37",
+        "sentiment_score": -0.1384553164243698
+    },
+    {
+        "title": "Carmen y otros nietos de Franco",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/25/franco-RIBfkacq4L0DtM3VthjwvoM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-carmen-nietos-franco-20250125013659-nt.html",
+        "date": "2025-01-25 00:38:04",
+        "sentiment_score": -0.09187889099121094
+    },
+    {
+        "title": "El chiringuito de Fitur",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/01/21/WhatsAppImage2025-01-21at13.32.56-U06758627411BHM-170x119@abc.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-chiringuito-fitur-20250125134247-nts.html",
+        "date": "2025-01-24 22:43:27",
+        "sentiment_score": -0.09228789806365967
+    },
+    {
+        "title": "¿Por qué va España como un tiro?",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/01/21/cartel-asturias-fitur-madrid-kl5G--170x119@El%20Comercio.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-espana-tiro-20250125201425-nts.html",
+        "date": "2025-01-24 22:42:03",
+        "sentiment_score": -0.1451198160648346
+    },
+    {
+        "title": "Miren al abuelo de Marta",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/01/15/baja-U40277846817EyW-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-miren-abuelo-marta-20250125191935-nts.html",
+        "date": "2025-01-24 22:39:51",
+        "sentiment_score": -0.14184170961380005
+    },
+    {
+        "title": "Recordemos a Ascen y Alberto",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/01/24/mercadona-supermercado-k6e--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-recordemos-ascen-alberto-20250125110501-nts.html",
+        "date": "2025-01-24 22:39:07",
+        "sentiment_score": -0.08563166856765747
+    },
+    {
+        "title": "Los Beefeater de Sevilla",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/01/21/cartel-asturias-fitur-madrid-kl5G--170x119@El%20Comercio.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-beefeater-sevilla-20250125233624-nts.html",
+        "date": "2025-01-24 22:36:24",
+        "sentiment_score": -0.10049471259117126
+    },
+    {
+        "title": "Barcelona apostó fuerte por Lewandowski, Raphinha y Koundé, y ahora rinden frutos",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/1157721/2147483647/strip/true/crop/5000x2625+0+354/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F22%2Fc6%2F1fc0cea1bd05f1dd7b8945a55da2%2F8b23166569884608bf3677ecce31ff17",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-01-24/barcelona-aposto-fuerte-por-lewandowski-raphinha-y-kounde-y-ahora-rinden-frutos",
+        "date": "2025-01-25 02:11:27",
+        "sentiment_score": 0.8572324980050325
+    },
+    {
+        "title": "Villaviciosa está de moda: estos son los famosos que se han enamorado del concejo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/036e0372-0b50-4c26-8f19-301cae87b3a2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/villaviciosa/2025/01/25/villaviciosa-moda-son-famosos-han-113691703.html",
+        "date": "2025-01-25 02:09:22",
+        "sentiment_score": 0.8070808947086334
+    },
+    {
+        "title": "El Valencia acelera las negociaciones para incorporar un nuevo fichaje. ¿De quién se trata?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/01/25/2025012502320094194.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/valencia-acelera-negociaciones-incorporar-nuevo-fichaje-quien-trata/20250125023232331750.html",
+        "date": "2025-01-25 01:32:32",
+        "sentiment_score": 0.09400852024555206
+    },
+    {
+        "title": "El Barça perdona 145 millones de euros a Limak por el retraso en las obras del Spotify Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/13/culemania/palco/908419257_13861448_1706x960.jpg?contentId=ESPIMA20241213_0108",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250125/el-barca-millones-limak-spotify-camp-nou/918908209_0.html",
+        "date": "2025-01-25 01:29:16",
+        "sentiment_score": -0.8636718327179551
+    },
+    {
+        "title": "Cristóbal Colón, 20o descendiente del descubridor: \"Mi antepasado protagonizó el hecho más importante de la Humanidad tras el nacimiento de Cristo\"",
+        "image_url": "https://s1.elespanol.com/2025/01/24/actualidad/918919047_252596416_1706x960.jpg?contentId=ESPIMA20250124_0948",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250125/cristobal-colon-descendiente-descubridor-antepasado-protagonizo-hecho-importante-humanidad-nacimiento-cristo/917908373_0.html",
+        "date": "2025-01-25 01:20:33",
+        "sentiment_score": -0.08541032671928406
+    },
+    {
+        "title": "María Luisa Merlo: \"Mis maridos me han mentido mucho, pero les pillaba. Los hombres mienten muy mal\"",
+        "image_url": "https://s1.elespanol.com/2025/01/24/reportajes/entrevistas/918918989_252594517_1706x960.jpg?contentId=ESPIMA20250124_0890",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250125/maria-luisa-merlo-maridos-mentido-pillaba-hombres-mienten-mal/918908612_0.html",
+        "date": "2025-01-25 01:20:30",
+        "sentiment_score": 0.7392466887831688
+    },
+    {
+        "title": "Inversión en chips: carrera de larga distancia con vallas",
+        "image_url": "https://s1.elespanol.com/2025/01/20/invertia/disruptores/opinion/917918314_252453648_1706x960.jpg?contentId=ESPIMA20250120_0115",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/opinion/20250125/inversion-chips-carrera-larga-distancia-vallas/918028191_12.html",
+        "date": "2025-01-25 00:47:32",
+        "sentiment_score": 0.12515246868133545
+    },
+    {
+        "title": "Perplexity: la startup valorada en 9.000 millones que combina la precisión de Google con la inteligencia de ChatGPT",
+        "image_url": "https://s1.elespanol.com/2025/01/24/invertia/disruptores/america-tech/estados-unidos/918918582_252581906_1706x960.jpg?contentId=ESPIMA20250124_0483",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/america-tech/estados-unidos/20250125/perplexity-startup-valorada-millones-combina-precision-google-inteligencia-chatgpt/918908413_0.html",
+        "date": "2025-01-25 00:47:28",
+        "sentiment_score": 0.5508979558944702
+    },
+    {
+        "title": "La mentira y el camino a la autocracia",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/15/666cc4ddba080.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250125/mentira-camino-autocracia_264058.html",
+        "date": "2025-01-25 00:30:00",
+        "sentiment_score": -0.23442009091377258
+    },
+    {
+        "title": "Argentina vapulea a Brasil y Ecuador le remonta a Bolivia en el Grupo B del Sudamericano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/25/argentina-vapulea-a-brasil-y-ecuador-le-remonta-a-bolivia-en-el-grupo-b-del-sudamericano/",
+        "date": "2025-01-25 02:01:06",
+        "sentiment_score": -0.0050849467515945435
+    },
+    {
+        "title": "Una jugada “a lo Messi”, show del Diablito Echeverri y goleada histórica: los seis tantos de Argentina a Brasil en el Sudamericano Sub 20",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/01/25/una-jugada-a-lo-messi-show-del-diablito-echeverri-y-goleada-historica-los-seis-tantos-de-argentina-a-brasil-en-el-sudamericano-sub-20/",
+        "date": "2025-01-25 01:43:00",
+        "sentiment_score": 0.8380905315279961
+    },
+    {
+        "title": "Contrato de Pérez con Medias Blancas incluye 5 millones y opción mutua de 10 millones para 2026",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/medias-blancas-perez-contrato-opcion-c0412c60fa871322a5bf5defcbea9ad4",
+        "date": "2025-01-25 01:20:39",
+        "sentiment_score": 0.11072387918829918
+    },
+    {
+        "title": "El compromiso de Almeida con la Fórmula 1 en Ifema: \"No habrá despilfarro en Madrid\"",
+        "image_url": "https://s1.elespanol.com/2025/01/24/madrid/capital/918918902_252591812_1706x960.jpg?contentId=ESPIMA20250124_0803",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20250125/compromiso-almeida-formula-ifema-no-despilfarro-madrid/918908465_0.html",
+        "date": "2025-01-25 01:04:25",
+        "sentiment_score": 0.18013601005077362
+    },
+    {
+        "title": "Habla una víctima de la santería en España: 'Captan a menores y sacrifican animales'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2025-01-24-a-las-145739_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/habla-victima-santeria-espana-captan-menores-sacrifican-animales",
+        "date": "2025-01-25 01:00:00",
+        "sentiment_score": -0.8467702474445105
+    },
+    {
+        "title": "Coleccionista de 11 años rechaza oferta de Piratas para canjear tarjeta única de Paul Skenes",
+        "image_url": "https://dims.apnews.com/dims4/default/e4b952c/2147483647/strip/true/crop/3245x2160+297+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Fe6%2Fd2bf0cc7926f03e5022e5d65c5e6%2F2b894a32b87140c88dcb636cdc865071",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/piratas-tarjeta-nino-skenes-canje-coleccionista-6033de52b716e2cbe9cb4855608f0552",
+        "date": "2025-01-25 00:50:24",
+        "sentiment_score": -0.5412030480802059
     }
 ];
