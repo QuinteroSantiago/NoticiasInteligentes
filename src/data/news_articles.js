@@ -6511,5 +6511,422 @@ export default [
         "link": "https://elpais.com/economia/negocios/2025-01-25/de-la-familia-ortega-a-juan-roig-visita-guiada-al-corazon-secreto-de-las-fortunas-espanolas.html",
         "date": "2025-01-25 16:50:00",
         "sentiment_score": -0.8537024389952421
+    },
+    {
+        "title": "El PP exige un plan anticorrupción, cambiar la elección del fiscal general y regular los lobbies para cumplir con la UE",
+        "image_url": "https://www.infobae.com/resizer/v2/2W7SO57JAJAXBKP25M57G52WPQ.jpg?auth=30feb51bc3fb54a1487ae8b0258414b5b78ae0efa68aa132c79874c089d16ca2&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/24/el-pp-exige-un-plan-anticorrupcion-cambiar-la-eleccion-del-fiscal-general-y-regular-los-lobbies-para-cumplir-con-la-ue/",
+        "date": "2025-01-25 22:03:40",
+        "sentiment_score": -0.23872541636228561
+    },
+    {
+        "title": "Clara Segura obtiene el premio Feroz a Mejor Actriz de Reparto en cine por 'El 47'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/25/clara-segura-obtiene-el-premio-feroz-a-mejor-actriz-de-reparto-en-cine-por-el-47/",
+        "date": "2025-01-25 22:00:54",
+        "sentiment_score": 0.695432148873806
+    },
+    {
+        "title": "Alberto Iglesias, premio Feroz a la mejor música original por \"La habitación de al lado\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/25/alberto-iglesias-premio-feroz-a-la-mejor-musica-original-por-la-habitacion-de-al-lado/",
+        "date": "2025-01-25 22:00:38",
+        "sentiment_score": 0.7057435624301434
+    },
+    {
+        "title": "\"Querer\", premio Feroz DAMA al Mejor Guión de Serie",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/25/querer-premio-feroz-dama-al-mejor-guion-de-serie/",
+        "date": "2025-01-25 22:00:22",
+        "sentiment_score": 0.6752842888236046
+    },
+    {
+        "title": "Más de 40 marchas de toda España clamarán mañana contra la violencia machista, algunas con feminismo dividido",
+        "image_url": "https://www.infobae.com/resizer/v2/XEQ24U6EGRESFAM3XV4RIO332M.jpg?auth=2eba9f335710b3985657b88ef7d23b761dd3ee70428d41af186f6f7ecd168ac5&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/24/mas-de-40-marchas-de-toda-espana-clamaran-manana-contra-la-violencia-machista-algunas-con-feminismo-dividido/",
+        "date": "2025-01-25 21:48:35",
+        "sentiment_score": -0.22134195268154144
+    },
+    {
+        "title": "Xabi López-Arostegui abandona la concentración de España por una sobrecarga en la rodilla",
+        "image_url": "https://www.infobae.com/resizer/v2/R3GCFJEMQJB7FFMXKURRTVBVCI.jpg?auth=ced2651b135e45705beb339175e790e39f4d491ce708d9c8c786cc8ffdc3c6b9&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/24/xabi-lopez-arostegui-abandona-la-concentracion-de-espana-por-una-sobrecarga-en-la-rodilla/",
+        "date": "2025-01-25 21:48:10",
+        "sentiment_score": -0.8696031179279089
+    },
+    {
+        "title": "ElPozo Murcia, pese a perder, y el Industrias estarán en la Copa de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/25/elpozo-murcia-pese-a-perder-y-el-industrias-estaran-en-la-copa-de-espana/",
+        "date": "2025-01-25 21:46:47",
+        "sentiment_score": 0.009074553847312927
+    },
+    {
+        "title": "Las estrellas de cine, encantadas con Galicia en una alfombra roja llena de glamour",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/25/las-estrellas-de-cine-encantadas-con-galicia-en-una-alfombra-roja-llena-de-glamour/",
+        "date": "2025-01-25 21:46:26",
+        "sentiment_score": 0.8207920156419277
+    },
+    {
+        "title": "La película \"Polvo serán\" obtiene el Premio Feroz al mejor Tráiler",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/25/la-pelicula-polvo-seran-obtiene-el-premio-feroz-al-mejor-trailer/",
+        "date": "2025-01-25 21:46:10",
+        "sentiment_score": 0.7254700735211372
+    },
+    {
+        "title": "Nora Navas ('Yo adicto'), premio Feroz a la Mejor Actriz de Reparto en Serie",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/25/nora-navas-yo-adicto-premio-feroz-a-la-mejor-actriz-de-reparto-en-serie/",
+        "date": "2025-01-25 21:45:53",
+        "sentiment_score": 0.5605469569563866
+    },
+    {
+        "title": "En exclusiva: Las primeras reacciones de la familia israelí de una rehén en el momento que es liberada por Hamas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/111039-hostage-s-families-wide-00-00-12-06-still001-20250125220227841.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/familia-rehen-israel-momento-liberacion-trax/",
+        "date": "2025-01-25 22:10:57",
+        "sentiment_score": -0.23513121902942657
+    },
+    {
+        "title": "Las medidas de Trump que más impactarían a México, según el expresidente Felipe Calderón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/medidas-trump-mexico-felipe-calderon-oppenheimer-presenta-tv/",
+        "date": "2025-01-25 19:40:06",
+        "sentiment_score": -0.39699414372444153
+    },
+    {
+        "title": "Quedó paralizado antes de graduarse, pero este tratamiento lo está ayudando",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/img-0652-20250125180901374.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tratamiento-celulas-madre-ush-trax/",
+        "date": "2025-01-25 18:20:13",
+        "sentiment_score": -0.04646851122379303
+    },
+    {
+        "title": "El Tribunal Supremo declara nulo el despido de un trabajador por reclamar el pago de sus horas extraordinarias",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/01/25/supremo.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/tribunal-supremo-declara-nulo-despido-trabajador-reclamar-20250125203225-nt.html",
+        "date": "2025-01-25 19:32:25",
+        "sentiment_score": -0.16073550283908844
+    },
+    {
+        "title": "Porno en el juzgado",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/01/22/2025_01_22_JUICIO_GANADERO_PAGARES_SIN_FONDOS_CABRAS-U53622854851xry-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-porno-juzgado-20250126171508-nt.html",
+        "date": "2025-01-25 19:14:20",
+        "sentiment_score": -0.14551076292991638
+    },
+    {
+        "title": "Grandeza de lo pequeño",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/26/TERCERAABC_Grandezap_Santonja-Ri3wWQoYW9PQf5vOeeahHDK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/gonzalo-santoja-grandeza-pequeno-20250126162949-nt.html",
+        "date": "2025-01-25 19:07:27",
+        "sentiment_score": -0.007321536540985107
+    },
+    {
+        "title": "Juicios y pasiones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/01/26/ABCDEFENSORA_26_01_25_SADABA-R6em2J4QAseXCuwmmVYq9NK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/defensora-del-lector-charo-sadaba-juicios-pasiones-20250126152720-nt.html",
+        "date": "2025-01-25 19:07:18",
+        "sentiment_score": -0.08750936388969421
+    },
+    {
+        "title": "La temeridad de jugar con las pensiones",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/01/21/cartel-asturias-fitur-madrid-kl5G--170x119@El%20Comercio.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-sanchez-temeridad-jugar-pensiones-20250126153942-nt.html",
+        "date": "2025-01-25 19:06:54",
+        "sentiment_score": -0.053741663694381714
+    },
+    {
+        "title": "Auschwitz, 80 años después",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/01/21/WhatsAppImage2025-01-21at13.32.56-U06758627411BHM-170x119@abc.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-auschwitz-anos-despues-20250126184032-nt.html",
+        "date": "2025-01-25 19:05:34",
+        "sentiment_score": -0.12054026126861572
+    },
+    {
+        "title": "Amor y tropas",
+        "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/sociedad/2025/01/21/posada-cortegana-booking_20250121113842-U14032716525rzd-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-amor-tropas-20250126161033-nt.html",
+        "date": "2025-01-25 19:05:09",
+        "sentiment_score": -0.048104166984558105
+    },
+    {
+        "title": "La risa del payaso",
+        "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/sociedad/2025/01/21/posada-cortegana-booking_20250121113842-U14032716525rzd-170x119@huelva24.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/karina-sainz-borgo-risa-payaso-20250126161946-nt.html",
+        "date": "2025-01-25 19:04:47",
+        "sentiment_score": -0.1501464545726776
+    },
+    {
+        "title": "La izquierda mató la conversación",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/01/21/WhatsAppImage2025-01-21at13.32.56-U06758627411BHM-170x119@abc.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-izquierda-mato-conversacion-20250126164618-nt.html",
+        "date": "2025-01-25 19:04:24",
+        "sentiment_score": -0.15372002124786377
+    },
+    {
+        "title": "Carlos es una gran actriz",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/01/24/mercadona-supermercado-k6e--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-carlos-gran-actriz-20250126170923-nt.html",
+        "date": "2025-01-25 19:03:36",
+        "sentiment_score": -0.19612888991832733
+    },
+    {
+        "title": "Aliança Catalana denuncia ante los Mossos el ataque a una carpa del partido en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZW5U4BNRPJG6ZK3ALVYQJIW7ZQ.jpg?auth=c51bac58a513881669a8acf3b383bb6f3e9b4554a5241c86d99aceeea55e4445&width=1200",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "aliança catalana"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-25/alianca-catalana-denuncia-ante-los-mossos-el-ataque-a-una-carpa-del-partido-en-barcelona.html",
+        "date": "2025-01-25 19:08:45",
+        "sentiment_score": -0.9154946189373732
+    },
+    {
+        "title": "Morant desvela que el PP cederá a Vox la presidencia de la comisión de investigación de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IMAXOGOKBZNANIFONIZ5VS25IY.jpg?auth=ce6e621b7fb82fefc16e594bb3df13ad86297b8b044689120169f733d6284c5d&width=1200",
+        "tags": [
+            "pspv-psoe",
+            "comunidad valenciana",
+            "dana",
+            "pp",
+            "vox",
+            "política",
+            "comisiones investigación",
+            "inundaciones dana octubre 2024",
+            "diana morant ripoll",
+            "corts valencianes"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-01-25/morant-desvela-que-el-pp-cedera-a-vox-la-presidencia-de-la-comision-de-investigacion-de-la-dana.html",
+        "date": "2025-01-25 18:08:45",
+        "sentiment_score": -0.8235486373305321
+    },
+    {
+        "title": "Mbappé lidera al Real Madrid más terrenal y mete presión al Barça en la Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/25/culemania/real-madrid/919168133_14022590_1706x960.jpg?contentId=ESPIMA20250125_0059",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20250125/mbappe-al-real-madrid-terrenal-barca-liga/919158139_0.html",
+        "date": "2025-01-25 22:07:07",
+        "sentiment_score": 0.615967720746994
+    },
+    {
+        "title": "Carmen Lomana desvela por qué no ha ido de invitada a 'La Revuelta': \"No me quieren\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/25/carmen-lomana-y-david-broncano.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.20minutos.es/television/carmen-lomana-la-revuelta-broncano-no-me-quieren-5676120/",
+        "date": "2025-01-25 22:06:09",
+        "sentiment_score": 0.4814685918390751
+    },
+    {
+        "title": "La arenga de Cesc Fábregas a sus jugadores tras perder ante la Atalanta: «Estoy orgulloso de vosotros»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/25/67955f13c5dc4.r_d.1525-394-6250.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/20250125/arenga-cesc-fabregas-jugadores-perder-ante-atalanta-estoy-orgulloso-vosotros_264286.html",
+        "date": "2025-01-25 22:04:51",
+        "sentiment_score": 0.5770004466176033
+    },
+    {
+        "title": "Mbappé sigue en estado de gracia y capitanea el triunfo del Madrid en Valladolid",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/25/6795585ee0657.r_d.4577-1397-2001.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250125/mbappe-sigue-estado-gracia-capitanea-triunfo-madrid-valladolid_264281.html",
+        "date": "2025-01-25 21:57:10",
+        "sentiment_score": 0.608258955180645
+    },
+    {
+        "title": "El asturiano Javier Hernanz, reelegido presidente de la Real Federación Española de Piragüismo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adb79596-11b1-4679-9063-7a0a1f58e860_16-9-aspect-ratio_default_0_x477y1082.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2025/01/25/asturiano-javier-hernanz-reelegido-presidente-113712944.html",
+        "date": "2025-01-25 21:50:38",
+        "sentiment_score": -0.1654004156589508
+    },
+    {
+        "title": "Florentino, sobre la Superliga: “Soy más optimista que nunca”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/24/florentino-sobre-la-superliga-soy-mas-optimista-que-nunca/",
+        "date": "2025-01-25 21:47:57",
+        "sentiment_score": 0.7610662374645472
+    },
+    {
+        "title": "Volver al \"estado natural\" o castidad frente a la \"vida gay\": así son los métodos de conversión religiosos activos en España",
+        "image_url": "https://static.eldiario.es/clip/b7eca8a8-6dc0-478c-b5eb-ba232710d39d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/sociedad/volver-natural-castidad-frente-vida-gay-son-metodos-conversion-religiosos-activos-espana_1_11979047.html",
+        "date": "2025-01-25 21:43:42",
+        "sentiment_score": -0.18654507398605347
+    },
+    {
+        "title": "Ipurua se resiste a ver ganar al Eibar",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2025/01/25/laura-camino-kqsC-U230665504517lMC-1200x840@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/sdeibar/ipurua-resiste-ver-ganar-eibar-20250125222729-nt.html",
+        "date": "2025-01-25 21:42:15",
+        "sentiment_score": -0.4450579285621643
+    },
+    {
+        "title": "Sánchez refuerza la alianza con China para hacer frente a Trump",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/082976e550c8c76db92b8187bf379a1d/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/25/17378219284305.jpg",
+        "tags": [
+            "china",
+            "pedro sánchez",
+            "psoe",
+            "josé luis rodríguez zapatero",
+            "artículos lucas de la cal"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/01/25/67950d3121efa05a758b457b.html",
+        "date": "2025-01-25 21:35:46",
+        "sentiment_score": -0.22961868345737457
+    },
+    {
+        "title": "Graciela Alfano se filmó desnuda por completo en una ducha: “La sirena vuelve al agua”",
+        "image_url": "https://www.infobae.com/resizer/v2/5PETUUBDKNDORLSZ77E2ARLBVM.PNG?auth=1432df71db1f1df925da476502a3db63d63e453f6126b52ef7faa211a0e4401f&height=824&smart=true&width=510",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/01/25/graciela-alfano-se-filmo-desnuda-por-completo-en-una-ducha-la-sirena-vuelve-al-agua/",
+        "date": "2025-01-25 22:06:56",
+        "sentiment_score": -0.6913461536169052
+    },
+    {
+        "title": "El Athletic da un nuevo paso hacia plazas europeas",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/01/26/athletic-f-nuevo-paso-plazas-europeas-kmuC-U230665566555mcE-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deporte-femenino/futbol/athletic-femenino/athletic-nuevo-paso-plazas-europeas-20250126230457-nt.html",
+        "date": "2025-01-25 22:04:57",
+        "sentiment_score": 0.7800092324614525
+    },
+    {
+        "title": "El noble proyecto que Ángel y Esperanza crearían con el dinero de Atrapa un millón: “Hay muchas cosas a nivel médica que les falta un empujón”",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/01/25/8F517130-B16E-4B4C-94EB-AD1C532C6541/angel-esperanza-concursantes-atrapa-millon_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena3",
+            "programas",
+            "atrapa un millón"
+        ],
+        "link": "https://www.antena3.com/programas/millon/noble-proyecto-que-angel-esperanza-crearian-dinero-hay-muchas-cosas-nivel-medica-que-les-falta-empujon_2025012567955fa3691a460001ee201b.html",
+        "date": "2025-01-25 22:03:15",
+        "sentiment_score": 0.3519706577062607
+    },
+    {
+        "title": "Tres acertantes se llevan más de 61.000 euros en la Bonoloto de este sábado",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2024/12/21/primitiva1-kgqC-U2303590597460CE-1200x840@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/tres-acertantes-llevan-61000-euros-bonoloto-sabado-20250125224345-nt.html",
+        "date": "2025-01-25 21:47:06",
+        "sentiment_score": 0.5246545150876045
+    },
+    {
+        "title": "El 'Azor': el símbolo de la dictadura de Franco, fondeado en Cantabria, acabó como reclamo de un motel de carretera",
+        "image_url": "https://static.eldiario.es/clip/86ef4087-247c-4bb9-9bce-8eb318302f78_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/cantabria/azor-cantabria-dictadura-de-franco-franco-yate-azor-puerto-de-requejada-lazaro-gonzalez-astilleros-bazan-fernando-sanchez-castillo-helga-de-alvear_1_11986252.html",
+        "date": "2025-01-25 21:43:42",
+        "sentiment_score": -0.10800820589065552
+    },
+    {
+        "title": "Dominique Salomon perdió a su familia en el Holocausto: “Tras lo que he vivido, tengo el deber de defender a Palestina”",
+        "image_url": "https://static.eldiario.es/clip/bec4087c-8536-4a35-b192-c55e75a88378_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/dominique-salomon-perdio-familia-holocausto-he-vivido-deber-defender-palestina_1_11991961.html",
+        "date": "2025-01-25 21:43:41",
+        "sentiment_score": -0.1388186514377594
     }
 ];
