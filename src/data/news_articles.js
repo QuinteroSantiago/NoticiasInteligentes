@@ -1,318 +1,5 @@
 export default [
     {
-        "title": "72-76. España recalcula la ruta en un frenético y surrealista viaje hacia el futuro",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/22/72-76-espana-recalcula-la-ruta-en-un-frenetico-y-surrealista-viaje-hacia-el-futuro/",
-        "date": "2025-01-23 06:18:30",
-        "sentiment_score": 0.7242920994758606
-    },
-    {
-        "title": "FINUL reclama libertad de movimiento para poder cumplir el acuerdo entre Líbano e Israel",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/23/finul-reclama-libertad-de-movimiento-para-poder-cumplir-el-acuerdo-entre-libano-e-israel/",
-        "date": "2025-01-23 06:15:21",
-        "sentiment_score": 0.037613362073898315
-    },
-    {
-        "title": "El PSOE presenta la demanda de conciliación previa a la querella contra Aldama e incluye también a Begoña Gómez",
-        "image_url": "https://www.infobae.com/resizer/v2/Q23GFTNOV5DHPCFIQ6YOOGT2GM.jpg?auth=976d57e484856ff1fd624fcd8c674e30302a58e3bd0764f4afdc81c19ca06737&height=1274&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/22/el-psoe-presenta-la-demanda-de-conciliacion-previa-a-la-querella-contra-aldama-e-incluye-tambien-a-begona-gomez/",
-        "date": "2025-01-23 06:03:29",
-        "sentiment_score": -0.17353270202875137
-    },
-    {
-        "title": "El proceso del 18 Congreso del PSOE Aragón comenzará el 24 de enero y concluirá con el cónclave el 15 y 16 de marzo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/22/el-proceso-del-18-congreso-del-psoe-aragon-comenzara-el-24-de-enero-y-concluira-con-el-conclave-el-15-y-16-de-marzo/",
-        "date": "2025-01-23 05:48:31",
-        "sentiment_score": 0.05718165636062622
-    },
-    {
-        "title": "El colombiano David Alonso se estrena en Moto2 en Jerez",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/22/el-colombiano-david-alonso-se-estrena-en-moto2-en-jerez/",
-        "date": "2025-01-23 05:47:53",
-        "sentiment_score": 0.0702817551791668
-    },
-    {
-        "title": "Menos memorizar y un caso práctico: Así serán las nuevas oposiciones a jueces y fiscales",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/23/menos-memorizar-y-un-caso-practico-asi-seran-las-nuevas-oposiciones-a-jueces-y-fiscales/",
-        "date": "2025-01-23 05:45:38",
-        "sentiment_score": -0.02889246493577957
-    },
-    {
-        "title": "'Ningún niño sin juguetes', lema de la décima edición de la San Silvestriña Solidaria",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/22/ningun-nino-sin-juguetes-lema-de-la-decima-edicion-de-la-san-silvestrina-solidaria/",
-        "date": "2025-01-23 05:33:28",
-        "sentiment_score": -0.08359338343143463
-    },
-    {
-        "title": "Baraja recupera a Duro y Jesús Vázquez y llama a los canteranos Córdoba, Madrigal y Tejón",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/22/baraja-recupera-a-duro-y-jesus-vazquez-y-llama-a-los-canteranos-cordoba-madrigal-y-tejon/",
-        "date": "2025-01-23 05:33:16",
-        "sentiment_score": -0.24947214126586914
-    },
-    {
-        "title": "España sobrevive a dos prórrogas para sumar ante Eslovaquia su primer triunfo (72-76)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/22/espana-sobrevive-a-dos-prorrogas-para-sumar-ante-eslovaquia-su-primer-triunfo-72-76/",
-        "date": "2025-01-23 05:33:05",
-        "sentiment_score": 0.5026056841015816
-    },
-    {
-        "title": "Rescatados dos cayucos con más de 200 personas al sur de Canarias, entre ellas tres bebés",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/22/rescatados-dos-cayucos-con-mas-de-200-personas-al-sur-de-canarias-entre-ellas-tres-bebes/",
-        "date": "2025-01-23 05:32:52",
-        "sentiment_score": -0.544652171432972
-    },
-    {
-        "title": "Meta, Google, X y TikTok plantan al gobierno de Brasil en una audiencia sobre desinformación",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/01/23/meta--kIJE-U70149565533mNG-1200x840@diario_abc.JPG",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/meta-google-tiktok-plantan-gobierno-brasil-audiencia-20250123070654-nt.html",
-        "date": "2025-01-23 06:06:54",
-        "sentiment_score": -0.14888392388820648
-    },
-    {
-        "title": "El Real Madrid, primer club de fútbol en superar los mil millones en ingresos en una temporada",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/01/real-madrid-florentino-perez-ingresos.jpg",
-        "tags": [
-            "deloitte",
-            "santiago bernabéu",
-            "uefa champions league",
-            "fútbol",
-            "laliga ea sports",
-            "fc barcelona",
-            "atlético de madrid",
-            "real madrid",
-            "florentino pérez"
-        ],
-        "link": "https://theobjective.com/deportes/futbol/2025-01-23/real-madrid-club-futbol-mil-millones/",
-        "date": "2025-01-23 06:30:33",
-        "sentiment_score": 0.5357583351433277
-    },
-    {
-        "title": "El Real Madrid, primer club de fútbol en superar los 1.000 millones de euros en ingresos en una temporada",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7b0509e3-eca2-4343-a1b3-0fb1d2aded7b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/futbol/20250123/real-madrid-primer-club-futbol-113633810",
-        "date": "2025-01-23 06:18:14",
-        "sentiment_score": 0.4305703192949295
-    },
-    {
-        "title": "Andalucía en FITUR: un lugar de encuentro para conocer todos los destinos y experiencias de una misma región",
-        "image_url": "https://okdiario.com/img/2025/01/16/expositor-andalucia-en-fitur-2025-2.jpg",
-        "tags": [
-            "feria internacional de turismo (fitur)",
-            "federico garcía lorca",
-            "no-publi",
-            "españa",
-            "úbeda",
-            "gastronomía",
-            "cultura",
-            "turismo",
-            "tecnología",
-            "pablo picasso",
-            "andalucía"
-        ],
-        "link": "https://okdiario.com/andalucia/andalucia-fitur-lugar-encuentro-conocer-todos-destinos-experiencias-misma-region-14126578",
-        "date": "2025-01-23 06:00:22",
-        "sentiment_score": 0.6279820241034031
-    },
-    {
-        "title": "Entre 3.000 y 4.000 euros por achatarrar un coche de más de 10 años y comprar uno nuevo, incluso diésel: el plan de Galicia",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/04/22/un-hombre-con-una-calculadora-las-llaves-del-coche-y-dinero-en-su-mesa.r_d.527-627.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/motor/actualidad/entre-3000-4000-euros-achatarrar-coche-mas-10-anos-comprar-uno-nuevo-incluso-diesel-el-plan-galicia-5674305/",
-        "date": "2025-01-23 06:00:00",
-        "sentiment_score": 0.3540167696774006
-    },
-    {
-        "title": "Supercopa femenina: En busca de una nueva final",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/44a0e5b1-3af0-4773-99f8-1bfc1d721db6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2025/01/23/supercopa-femenina-busca-nueva-final-9189484.html",
-        "date": "2025-01-23 05:59:33",
-        "sentiment_score": 0.03907939791679382
-    },
-    {
-        "title": "El ayuntamiento blindará 60 hectáreas de bosque \"virgen\" de la Devesa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b8aee135-c763-46f2-91fe-389bc9ca2d2e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia/2025/01/23/ayuntamiento-blindara-60-hectareas-bosque-113607549.html",
-        "date": "2025-01-23 05:51:48",
-        "sentiment_score": -0.03796184062957764
-    },
-    {
-        "title": "Patrimonio constata graves daños en las alquerías y barracas protegidas de la Torre-Faitanar, Forn d'Alcedo y Castellar-Oliveral",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9f083168-6743-4cfc-b6f4-e2ff395f79fc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia/2025/01/23/balance-danos-dana-alquerias-barracas-dana-valencia-113608742.html",
-        "date": "2025-01-23 05:51:46",
-        "sentiment_score": -0.6306639090180397
-    },
-    {
-        "title": "El PP tras infligir a Sánchez la mayor derrota de la legislatura junto a Junts: «Es un punto de inflexión»",
-        "image_url": "https://okdiario.com/img/2025/01/22/feijoo-gamarra.jpg",
-        "tags": [
-            "decreto",
-            "pp",
-            "gobierno",
-            "pedro sánchez",
-            "españa",
-            "junts"
-        ],
-        "link": "https://okdiario.com/espana/pp-ve-punto-inflexion-infligir-sanchez-mayor-derrota-esto-va-agudizar-14163531",
-        "date": "2025-01-23 05:50:25",
-        "sentiment_score": -0.6431223601102829
-    },
-    {
-        "title": "Paolo Giabardo: \"El mercado inmobiliario de lujo está en expansión y la Costa del Sol tiene precios asequibles\"",
-        "image_url": "https://s1.elespanol.com/2025/01/21/malaga/economia/918168399_252484098_1706x960.jpg?contentId=ESPIMA20250121_0225",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/malaga/economia/20250123/paolo-giabardo-mercado-inmobiliario-lujo-expansion-costa-sol-precios-asequibles/917908579_0.html",
-        "date": "2025-01-23 05:50:00",
-        "sentiment_score": 0.7771750390529633
-    },
-    {
-        "title": "Ocho de cada 10 turistas visitan Bilbao y al menos una comarca vizcaina más",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5b6466a1-63f7-4fc2-9cff-ce181c003e44_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2025/01/23/ocho-10-turistas-visitan-bilbao-9190118.html",
-        "date": "2025-01-23 05:30:12",
-        "sentiment_score": -0.07324513792991638
-    },
-    {
-        "title": "Restaurante Volta: una divertida y sabrosa vuelta por el Mediterráneo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5b9893a9-5db4-4f65-9f70-801af2b2427a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20250123/restaurante-volta-barcelona-hotel-borneta-113558688",
-        "date": "2025-01-23 06:29:52",
-        "sentiment_score": -0.11332041025161743
-    },
-    {
-        "title": "Antoñito Molina, 'uno di noi'",
-        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/carnaval/2025/01/23/molina-Rsaqm7fwF31fmvZC0ckirZP-758x531@abc.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdigital.es/carnaval/jose-maria-aguilera-antonito-molina-noi-20250123155321-ntv.html",
-        "date": "2025-01-23 06:19:01",
-        "sentiment_score": 0.023391753435134888
-    },
-    {
-        "title": "«Hay una avance reaccionario, pero no es irreversible»",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/01/22/antonio-maillo-iu-RiHbDL5dtxJzbMJRR1ykIjP-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/avance-reaccionario-irreversible-20250123071404-nt.html",
-        "date": "2025-01-23 06:14:05",
-        "sentiment_score": 0.05004563927650452
-    },
-    {
-        "title": "Lo que debes saber hoy, 23 de enero, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2020/02/07/vivir-en-barcelona/vivir_en_barcelona_465713426_9335897_1706x960.jpg?contentId=ESPIMA20200207_0002",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250123/lo-que-debes-saber-hoy-de-enero-barcelona/918158275_0.html",
-        "date": "2025-01-23 06:11:52",
-        "sentiment_score": 0.3869662433862686
-    },
-    {
-        "title": "La fortaleza milenaria a una hora de Barcelona construida sobre un \"barco\" de piedra",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/01/21/castillo-de-castellcir.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.huffingtonpost.es/life/viajes/la-fortaleza-milenaria-hora-barcelona-construida-sobre-barco-piedra.html",
-        "date": "2025-01-23 06:04:34",
-        "sentiment_score": 0.3994555324316025
-    },
-    {
-        "title": "La nueva cocina tradicional de Barcelona: platos clásicos renovados",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/842f47de-2ed2-4329-b623-d98c7150bb05_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20250123/nueva-cocina-tradicional-barcelona-platos-clasicos-renovados-restaurantes-113594145",
-        "date": "2025-01-23 06:01:01",
-        "sentiment_score": 0.2294389009475708
-    },
-    {
-        "title": "Málaga pisa los talones a Barcelona como tercera ciudad española con más viviendas turísticas",
-        "image_url": "https://static.grupojoly.com/clip/c7cad9e6-95f9-44d0-a81c-a36ccc984166_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.malagahoy.es/malaga/malaga-pisa-talones-barcelona-tercera-ciudad-viviendas-turisticas_0_2003190086.html",
-        "date": "2025-01-23 06:00:35",
-        "sentiment_score": 0.05982387065887451
-    },
-    {
-        "title": "Gonzalo Bernardos aclara el futuro del mercado inmobiliario: \"2025 será un grandísimo festival\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da85b66c-24a8-49ec-ab14-02cd4ec21d2b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/economia/2025/01/23/gonzalo-bernardos-aclara-futuro-mercado-dv-113596084.html",
-        "date": "2025-01-23 06:00:32",
-        "sentiment_score": 0.23750612139701843
-    },
-    {
         "title": "Salir del Mercosur tendría un \"costo muy importante\" para Argentina, advierten analistas",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6546,5 +6233,421 @@ export default [
         "link": "https://edatv.news/sucesos/intento-robo-barcelona-termina-con-dos-jovenes-heridos-por-arma-blanca",
         "date": "2025-01-26 16:43:00",
         "sentiment_score": 0.12009374797344208
+    },
+    {
+        "title": "Borja Jiménez: “Nos ha hecho muchísimo daño el primer gol”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/24/borja-jimenez-nos-ha-hecho-muchisimo-dano-el-primer-gol/",
+        "date": "2025-01-26 21:48:02",
+        "sentiment_score": -0.9302523471415043
+    },
+    {
+        "title": "Temas del día de EFE España del lunes 25 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/24/temas-del-dia-de-efe-espana-del-lunes-25-de-noviembre-de-2024/",
+        "date": "2025-01-26 21:33:43",
+        "sentiment_score": -0.020553644746541977
+    },
+    {
+        "title": "33-34. El Puente Genil mantuvo el ritmo para ganar y complicarle el futuro al Logroño",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/24/33-34-el-puente-genil-mantuvo-el-ritmo-para-ganar-y-complicarle-el-futuro-al-logrono/",
+        "date": "2025-01-26 21:18:02",
+        "sentiment_score": 0.780068825930357
+    },
+    {
+        "title": "Alonso: \"Reactivamos el espíritu UCAM, el equipo se entrega que da gusto\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/26/alonso-reactivamos-el-espiritu-ucam-el-equipo-se-entrega-que-da-gusto/",
+        "date": "2025-01-26 21:16:16",
+        "sentiment_score": 0.8352084513753653
+    },
+    {
+        "title": "El Sindicato Libre de Transporte desconvoca la huelga de autobuses al pactar como hizo UGT",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/24/el-sindicato-libre-de-transporte-desconvoca-la-huelga-de-autobuses-al-pactar-como-hizo-ugt/",
+        "date": "2025-01-26 21:03:46",
+        "sentiment_score": -0.7835970930755138
+    },
+    {
+        "title": "Los candidatos a número 2 de ERC se enzarzan por la continuidad de Junqueras o la renovación",
+        "image_url": "https://www.infobae.com/resizer/v2/UNZMPAG5TVE4PL6US3H6CY4JCU.jpg?auth=57166b538a3643721d93deb8f064256db2cb4e21103023311d33bfc2418e452e&height=1078&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/24/los-candidatos-a-numero-2-de-erc-se-enzarzan-por-la-continuidad-de-junqueras-o-la-renovacion/",
+        "date": "2025-01-26 21:03:10",
+        "sentiment_score": -0.0571533665060997
+    },
+    {
+        "title": "Alarma en Colombia por los aranceles y sanciones financieras anunciadas por Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/26/alarma-en-colombia-por-los-aranceles-y-sanciones-financieras-anunciadas-por-trump/",
+        "date": "2025-01-26 21:02:42",
+        "sentiment_score": -0.47910109907388687
+    },
+    {
+        "title": "Peñarroya: \"La defensa zonal hizo cambiar la dinámica ante un rival con mucho corazón\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/26/penarroya-la-defensa-zonal-hizo-cambiar-la-dinamica-ante-un-rival-con-mucho-corazon/",
+        "date": "2025-01-26 21:02:24",
+        "sentiment_score": 0.7248027212917805
+    },
+    {
+        "title": "Un acertante de la Bonoloto, que validó su boleto por internet, gana 3.018.251 euros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/26/un-acertante-de-la-bonoloto-que-valido-su-boleto-por-internet-gana-3018251-euros/",
+        "date": "2025-01-26 21:02:04",
+        "sentiment_score": 0.384176068007946
+    },
+    {
+        "title": "Estos son los números ganadores del sorteo de Bonoloto del 26 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/UTNZSBU4AZDHXENTSLZVTKP73Y.jpg?auth=3e4145acb29203b2c0343375baf7ac3985cdbd7e41b22cf1c5a0cba13752e4bd&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/26/estos-son-los-numeros-ganadores-del-sorteo-de-bonoloto-del-26-de-enero/",
+        "date": "2025-01-26 21:00:58",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "Última hora de las medidas de EE.UU. sobre inmigración: deportaciones, aranceles a Colombia y más",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/GettyImages-2194586669.jpg?quality=100&strip=info",
+        "tags": [
+            "noticias de donald trump",
+            "minuto a minuto"
+        ],
+        "link": "https://cnnespanol.cnn.com/2025/01/26/ultima-hora-de-las-medidas-de-ee-uu-sobre-inmigracion-deportaciones-aranceles-a-colombia-y-mas/",
+        "date": "2025-01-26 21:19:05",
+        "sentiment_score": -0.06278229504823685
+    },
+    {
+        "title": "Dron muestra a miles de palestinos que no pueden ingresar al norte de la Franja de Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/01/horizontales-00-00-47-12-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/palestinos-gaza-bloqueo-entrada-israel-trax/",
+        "date": "2025-01-26 18:57:29",
+        "sentiment_score": -0.8294329484924674
+    },
+    {
+        "title": "Memes de memes",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/26/1491463684-RfS7iBoFjCCGqNXp4gQGblK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-memes-memes-20250126230907-nt.html",
+        "date": "2025-01-26 22:09:08",
+        "sentiment_score": -0.17015329003334045
+    },
+    {
+        "title": "La oposición consolida su mayoría absoluta",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/21/carnero2-kYBH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-oposicion-consolida-mayoria-absoluta-20250127170826-nt.html",
+        "date": "2025-01-26 21:58:20",
+        "sentiment_score": -0.24862809479236603
+    },
+    {
+        "title": "El segundo banco de Cataluña es el BBVA",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/01/26/1491421326-RgMD4IJI3i0p93r1Vj68OVK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-segundo-banco-cataluna-bbva-20250126171824-nt.html",
+        "date": "2025-01-26 19:52:34",
+        "sentiment_score": -0.12634892761707306
+    },
+    {
+        "title": "La pasarela que dignificó los lunares",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/01/21/butano-kPeB-U230595563218x6-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-pasarela-dignifico-lunares-20250127193818-nts.html",
+        "date": "2025-01-26 19:26:47",
+        "sentiment_score": 0.006997972726821899
+    },
+    {
+        "title": "Meirás y la desmemoria histérica",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/01/27/PazGago-R2CF91DVAHKArg2BXhBhlHJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-maria-paz-gago-meiras-desmemoria-histerica-20250127165108-nt.html",
+        "date": "2025-01-26 18:44:44",
+        "sentiment_score": -0.1157863438129425
+    },
+    {
+        "title": "De Cervantes a Gaza",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/01/27/ENFOQUEABC_DeCervantesaGaza_SORMAN-RBmd7XeFAuZfACAdetDHwnK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-cervantes-gaza-20250127151918-nt.html",
+        "date": "2025-01-26 18:27:57",
+        "sentiment_score": -0.21872922778129578
+    },
+    {
+        "title": "Del volcán a la dana",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/01/21/WhatsAppImage2025-01-21at13.32.56-U06758627411BHM-170x119@abc.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/concepcion-pilar-barrio-del-olmo-volcan-dana-20250127161401-nt.html",
+        "date": "2025-01-26 18:27:35",
+        "sentiment_score": -0.005528688430786133
+    },
+    {
+        "title": "Humoradas",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/01/15/baja-U40277846817EyW-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-humoradas-20250127160104-nt.html",
+        "date": "2025-01-26 18:27:20",
+        "sentiment_score": -0.07741901278495789
+    },
+    {
+        "title": "Su soberbia le derrotará",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/01/21/carnero2-kYBH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-soberbia-derrotara-20250127152750-nt.html",
+        "date": "2025-01-26 18:27:00",
+        "sentiment_score": -0.21443885564804077
+    },
+    {
+        "title": "Hijos de Brianda Pereira",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/01/24/mercadona-supermercado-k6e--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-hijos-brianda-pereira-20250127154802-nt.html",
+        "date": "2025-01-26 18:26:41",
+        "sentiment_score": -0.045904964208602905
+    },
+    {
+        "title": "Una pelea multitudinaria en el Metro de Barcelona deja al menos dos heridos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TSROQDW6DVDE3D5K5W2WHBHR44.jpg?auth=1e7235062efec31f30f180370b4dbdc1f4f7a2bb75f6007333a2d6ed245ce1aa&width=1200",
+        "tags": [
+            "transporte público",
+            "metro",
+            "barcelona",
+            "mossos d'esquadra",
+            "peleas",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-01-26/una-pelea-multitudinaria-en-el-metro-de-barcelona-deja-al-menos-dos-heridos.html",
+        "date": "2025-01-26 19:02:35",
+        "sentiment_score": -0.6821246854960918
+    },
+    {
+        "title": "Dani Ceballos: “Valverde es una inspiración para todos nosotros”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/24/dani-ceballos-valverde-es-una-inspiracion-para-todos-nosotros/",
+        "date": "2025-01-26 22:03:38",
+        "sentiment_score": 0.8611764796078205
+    },
+    {
+        "title": "Valverde, capitán y comodín",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/24/valverde-capitan-y-comodin/",
+        "date": "2025-01-26 22:03:03",
+        "sentiment_score": 0.5114229023456573
+    },
+    {
+        "title": "El Barça endosa una paliza colosal al Valencia para redimirse en la Liga",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/26/culemania/primer-equipo/919418154_14025768_1706x960.jpg?contentId=ESPIMA20250126_0105",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250126/el-barca-endosa-colosal-valencia-redimirse-liga/919408105_0.html",
+        "date": "2025-01-26 21:58:58",
+        "sentiment_score": 0.589473370462656
+    },
+    {
+        "title": "El Barça recupera su brillo con un recital de fútbol ante un inofensivo Valencia",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/26/67969f17ca81c.r_d.2834-658-3367.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250126/barca-recupera-brillo-recital-futbol-ante-inofensivo-valencia_264401.html",
+        "date": "2025-01-26 21:54:55",
+        "sentiment_score": 0.40361781418323517
+    },
+    {
+        "title": "Carlo Ancelotti: \"Valverde es un lateral fantástico, el mejor del mundo después de Carvajal y Lucas\"",
+        "image_url": "https://www.infobae.com/resizer/v2/TDM4TGLARBGCRIL64YY5ZNHRSE.jpg?auth=788dbf9390645336afdba52192ccc1029a2ab4f23a090bd9dc2d77cee06d5807&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/24/carlo-ancelotti-valverde-es-un-lateral-fantastico-el-mejor-del-mundo-despues-de-carvajal-y-lucas/",
+        "date": "2025-01-26 21:48:15",
+        "sentiment_score": 0.8619379326701164
+    },
+    {
+        "title": "Naomi Girma firma con Chelsea en primer fichaje sobre el millón de dólares del fútbol femenino",
+        "image_url": "https://dims.apnews.com/dims4/default/83ca54c/2147483647/strip/true/crop/1392x927+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2F00%2Ffcd61e00c985689cc3118bcf108c%2F9929a45a8b194da9b40ceec7206aea6e",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/naomi-girm-chelsea-san-diego-wave-10a82fb6d4db2ccbf76e05d2f2655531",
+        "date": "2025-01-26 21:33:53",
+        "sentiment_score": 0.25685399025678635
+    },
+    {
+        "title": "Lunes 25 de noviembre de 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/24/lunes-25-de-noviembre-de-2024/",
+        "date": "2025-01-26 21:33:17",
+        "sentiment_score": -0.0136675164103508
+    },
+    {
+        "title": "El Barça sufre pero gana en la prórroga en Murcia liderado por Brizuela y Punter",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/01/26/6796a7311b6da.r_d.1337-455-6250.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20250126/barca-sufre-gana-prorroga-murcia-liderado-brizuela-punter_264404.html",
+        "date": "2025-01-26 21:24:13",
+        "sentiment_score": -0.07229416072368622
+    },
+    {
+        "title": "El Barcelona recobra el modo apisonadora",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/26/el-barcelona-recobra-el-modo-apisonadora/",
+        "date": "2025-01-26 22:17:00",
+        "sentiment_score": 0.2397540956735611
+    },
+    {
+        "title": "7-1. El Barcelona recupera el pulso en LaLiga con una exhibición",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/26/7-1-el-barcelona-recupera-el-pulso-en-laliga-con-una-exhibicion/",
+        "date": "2025-01-26 22:16:44",
+        "sentiment_score": 0.7714353278279305
+    },
+    {
+        "title": "Diakhaby vuelve tras una lesión de 11 meses que amenazó su carrera",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/26/diakhaby-vuelve-tras-una-lesion-de-11-meses-que-amenazo-su-carrera/",
+        "date": "2025-01-26 22:16:27",
+        "sentiment_score": -0.8567213173955679
+    },
+    {
+        "title": "Momentos de la jornada 21",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/26/momentos-de-la-jornada-21/",
+        "date": "2025-01-26 22:16:10",
+        "sentiment_score": 0.0614524707198143
+    },
+    {
+        "title": "Gayà: \"Hemos dado un paso enorme hacia atrás\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/26/gaya-hemos-dado-un-paso-enorme-hacia-atras/",
+        "date": "2025-01-26 22:15:54",
+        "sentiment_score": 0.8294769860804081
+    },
+    {
+        "title": "Fermín López: \"Seguro que vamos a luchar LaLiga hasta el final\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/26/fermin-lopez-seguro-que-vamos-a-luchar-laliga-hasta-el-final/",
+        "date": "2025-01-26 22:15:20",
+        "sentiment_score": 0.5815877374261618
+    },
+    {
+        "title": "Ridículo de un Valencia sin alma en Montjuïc (7-1)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/33fb7b24-7c15-473d-8582-81a01a30fd7b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2025/01/26/ridiculo-valencia-alma-montjuic-7-113737398.html",
+        "date": "2025-01-26 22:14:15",
+        "sentiment_score": -0.43909211456775665
+    },
+    {
+        "title": "Gayà: \"Pido perdón porque no hemos estado a la altura de la camiseta del Valencia CF\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b775d6a-9948-4be2-b85c-7098e7ee0080_16-9-aspect-ratio_default_0_x1180y707.jpg",
+        "tags": [
+            "valencia cf,altura,gayá"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/01/26/gaya-pido-perdon-hemos-altura-113737256.html",
+        "date": "2025-01-26 22:12:51",
+        "sentiment_score": -0.40828737616539
+    },
+    {
+        "title": "El Barça de Flick marca su gol número 100 en 32 partidos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/26/culemania/primer-equipo/919418148_14025594_1706x960.jpg?contentId=ESPIMA20250126_0099",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250126/el-barca-flick-marca-gol-numero-partidos/919408108_0.html",
+        "date": "2025-01-26 22:01:20",
+        "sentiment_score": 0.13009695708751678
+    },
+    {
+        "title": "Mirador indiscret (1929)",
+        "image_url": "https://static1.ara.cat/clip/f6a23c95-892c-4fce-a7a3-796afcb0fadf_16-9-aspect-ratio_default_0_x1005y313.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ara.cat/opinio/mirador-indiscret-1929_1_5260903.html",
+        "date": "2025-01-26 22:00:51",
+        "sentiment_score": -0.035803526639938354
     }
 ];
