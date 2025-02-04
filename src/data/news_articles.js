@@ -180,36 +180,6 @@ export default [
         "sentiment_score": -0.5519837662577629
     },
     {
-        "title": "EE.UU. aprueba el primer fármaco no opioide para el dolor agudo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/01/31/dormir-pasti.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/eeuu-aprueba-primer-farmaco-opioide-dolor-agudo-20250131144928-nt.html",
-        "date": "2025-01-31 13:49:29",
-        "sentiment_score": -0.1691286414861679
-    },
-    {
-        "title": "Qué es el síndrome del bebé zarandeado y por qué es tan peligroso",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/01/31/bebe-zarandeado-RLdNmLk0cQG4Xh51JDt8qrK-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/sindrome-bebe-zarandeado-peligroso-20250131133643-nt.html",
-        "date": "2025-01-31 12:37:26",
-        "sentiment_score": -0.43512049317359924
-    },
-    {
-        "title": "CC.OO. y UGT mantienen las protestas contra PP y Vox a pesar de que ya se ha desbloqueado la subida de las pensiones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/01/31/1490994228-RkgrNPGmCnlX0qU5VG7zL3L-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ccoo-ugt-mantienen-protestas-pp-vox-pesar-20250131133719-nt.html",
-        "date": "2025-01-31 12:37:20",
-        "sentiment_score": -0.04925766587257385
-    },
-    {
         "title": "Dieciocho organizaciones sociales piden la dimisión del subdelegado del Gobierno en Granada por la actuación de la policía en un desalojo",
         "image_url": "https://imagenes.elpais.com/resizer/v2/55EBQJVHTVHBHGGSEK277ZKI5Q.jpg?auth=e27e82f2179e8a68e8ad4f03894978b222856fefbb2d460316d55372f9b76aa5&width=1200",
         "tags": [
@@ -328,58 +298,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-01-31/cae-en-coslada-un-ladron-de-gasolineras-que-se-hizo-con-110-bombonas-para-revenderlas-en-el-mercado-negro.html",
         "date": "2025-01-31 14:31:05",
         "sentiment_score": -0.6821926198899746
-    },
-    {
-        "title": "Un tercio de la cúpula fiscal pide la dimisión de García Ortiz “por el bien de la institución”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/U7W6NURI5K75OTSKWAUO5RG7PU.jpg?auth=51a32c7b5220f4bb4a3f8bc74a9c7968cb54df2771b9d01dda5bfc60a7abd41e&width=1200",
-        "tags": [
-            "españa",
-            "isabel díaz ayuso",
-            "revelación secretos",
-            "tribunal supremo",
-            "fiscalía general estado",
-            "alberto gonzález amador",
-            "caso ayuso",
-            "álvaro garcía ortiz"
-        ],
-        "link": "https://elpais.com/espana/2025-01-31/un-tercio-de-la-cupula-fiscal-pide-la-dimision-de-garcia-ortiz-por-el-bien-de-la-institucion.html",
-        "date": "2025-01-31 13:50:07",
-        "sentiment_score": -0.8946553496643901
-    },
-    {
-        "title": "La travesía de la princesa Leonor en el ‘Juan Sebastián Elcano’, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DUCHASWZIRE6HMYD4YZNENKRFY.JPG?auth=1c25579cb1da8662fdc63c73e8c9f3f71c7ff36dac81cab2f16a1a745a777667&width=1200",
-        "tags": [
-            "leonor de borbón",
-            "españa",
-            "armada",
-            "princesa de asturias",
-            "juan sebastián elcano",
-            "monarquía",
-            "casa real"
-        ],
-        "link": "https://elpais.com/espana/2025-01-31/la-travesia-de-la-princesa-leonor-en-el-juan-sebastian-elcano-en-imagenes.html",
-        "date": "2025-01-31 13:38:23",
-        "sentiment_score": -0.04330435395240784
-    },
-    {
-        "title": "Cae una banda que asaltaba casas y amenazaba a sus dueños para localizar los objetos de valor",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IVRSHDKKRRMC3H7HYOF2OA6EKA.jpg?auth=20efa19fe57644df1aecadb6e1e24594d446a0e04ee14376f85e1a84e18ac698&width=1200",
-        "tags": [
-            "españa",
-            "málaga",
-            "sevilla",
-            "ladrones",
-            "armas de fuego",
-            "cádiz",
-            "robos",
-            "andalucía",
-            "guardia civil",
-            "córdoba"
-        ],
-        "link": "https://elpais.com/espana/2025-01-31/cae-una-banda-que-asaltaba-casas-y-amenazaba-a-sus-duenos-para-localizar-los-objetos-de-valor.html",
-        "date": "2025-01-31 12:57:43",
-        "sentiment_score": -0.3486921712756157
     },
     {
         "title": "La invitada más buscada de la prensa del corazón esta semana se suma a Ana Rosa Quintana en la nueva entrega de '¡De viernes!'",
@@ -7819,5 +7737,420 @@ export default [
         "link": "https://2001online.com/zona3d/salud/esta-es-la-infusion-casera-para-desinflamar-el-colon-2025231700",
         "date": "2025-02-03 21:00:00",
         "sentiment_score": 0.2013409212231636
+    },
+    {
+        "title": "A prisión los tres detenidos con propaganda yihadista en dos operaciones de la Guardia Civil en Ceuta y Sevilla",
+        "image_url": "https://www.infobae.com/resizer/v2/PRPSDFYJ35B27GNFN3JP3XVPLU.jpg?auth=16ac25642dadfa6932e4f66223a7784c34da656e5e3c1c83d3e1df8f93d4a78a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/28/a-prision-los-tres-detenidos-con-propaganda-yihadista-en-dos-operaciones-de-la-guardia-civil-en-ceuta-y-sevilla/",
+        "date": "2025-02-04 02:02:52",
+        "sentiment_score": -0.7877930924296379
+    },
+    {
+        "title": "Puente señala que no le consta \"ninguna ilegalidad\" en contratos de empresas públicas con mujeres vinculadas a Ábalos",
+        "image_url": "https://www.infobae.com/resizer/v2/2QDUDR4BL5D6HJXESWM776OWNA.jpg?auth=46d09bd2cfd29308100d93f768a54063c540489dbc4976cf75cb77b442c6d3c2&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/28/puente-senala-que-no-le-consta-ninguna-ilegalidad-en-contratos-de-empresas-publicas-con-mujeres-vinculadas-a-abalos/",
+        "date": "2025-02-04 02:02:33",
+        "sentiment_score": -0.3838048726320267
+    },
+    {
+        "title": "Más de 1.400 personas han visitado este jueves el Senado en su primera jornada de puertas abiertas, que seguirá mañana",
+        "image_url": "https://www.infobae.com/resizer/v2/ZNDX4M3WLZHMJAZVHXUSAL5RWI.jpg?auth=58166b2054ab9493d69d6713abc7d67c02240b34fd4e6d6f9a3a2df7f239d5c3&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/28/mas-de-1400-personas-han-visitado-este-jueves-el-senado-en-su-primera-jornada-de-puertas-abiertas-que-seguira-manana/",
+        "date": "2025-02-04 02:02:15",
+        "sentiment_score": 0.48776169307529926
+    },
+    {
+        "title": "Clima en España: la predicción del tiempo para Barcelona este 4 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/RTJ32G72T5DITHP3AKTV7OPUZ4.jpg?auth=6e0047bbf373853441c92f9d740a5d89d26b593eb33b176bedb7b804c2e0dc9a&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/04/clima-en-espana-la-prediccion-del-tiempo-para-barcelona-este-4-de-febrero/",
+        "date": "2025-02-04 02:02:04",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Bolaños reconoce injerencias de Rusia pero defiende: \"No hubo trama rusa en Cataluña en el proceso independentista\"",
+        "image_url": "https://www.infobae.com/resizer/v2/HORSL23EQZCGHGPOBQXWWOYSS4.jpg?auth=1cb670deb1ab7a7b5143d169ae5113ef351573048823502503fb52aaacbf97ea&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/28/bolanos-reconoce-injerencias-de-rusia-pero-defiende-no-hubo-trama-rusa-en-cataluna-en-el-proceso-independentista/",
+        "date": "2025-02-04 01:47:34",
+        "sentiment_score": -0.8011922314763069
+    },
+    {
+        "title": "El PSOE cerrará filas con Sánchez en un 41 Congreso marcado por la salida de Lobato y las acusaciones de Aldama",
+        "image_url": "https://www.infobae.com/resizer/v2/XTYCKZXVB5DE3BQGEDJMGMSQ3I.jpg?auth=db0cfaa02f1584ad434b780a12373d54d0108e882f8026f89f83ec050b0f5920&height=1303&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/28/el-psoe-cerrara-filas-con-sanchez-en-un-41-congreso-marcado-por-la-salida-de-lobato-y-las-acusaciones-de-aldama/",
+        "date": "2025-02-04 01:47:15",
+        "sentiment_score": -0.678507661446929
+    },
+    {
+        "title": "Ábalos reprocha al Gobierno que no declarase la emergencia nacional para hacer frente a la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/Y3WCJLZPDRGP5I2TRWGMKXAWCY.jpg?auth=88265ab259ea98b7f67f4c008e93ad98dfa91b06de309de3b44835ff22cc37ce&height=1096&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/28/abalos-reprocha-al-gobierno-que-no-declarase-la-emergencia-nacional-para-hacer-frente-a-la-dana/",
+        "date": "2025-02-04 01:46:53",
+        "sentiment_score": -0.8480399716645479
+    },
+    {
+        "title": "El castillo más bonito de Euskadi, según National Geographic: una joya arquitectónica del siglo XIV a 20 minutos de Bilbao",
+        "image_url": "https://www.infobae.com/resizer/v2/NUWSP2MFNNCMNCKIVXPXYAREWY.jpeg?auth=742fa1ce4ca5b763bd5f605c3c2bf09137e8996362a0431a861e765ae17eba00&height=2651&smart=true&width=4713",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2025/02/04/el-castillo-mas-bonito-de-euskadi-segun-national-geographic-una-joya-arquitectonica-del-siglo-xiv-a-20-minutos-de-bilbao/",
+        "date": "2025-02-04 01:19:27",
+        "sentiment_score": 0.12947480008006096
+    },
+    {
+        "title": "Previa del España - Corea del Sur",
+        "image_url": "https://www.infobae.com/resizer/v2/V6A5GXNLSZFDJNES6XZX6BEVH4.jpg?auth=e5a2bf30e0162a56666c9bdce2f779e0fccc8a8f24d0f07d70479d26e28baede&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/28/previa-del-espana-corea-del-sur/",
+        "date": "2025-02-04 01:17:13",
+        "sentiment_score": -0.07287977635860443
+    },
+    {
+        "title": "España y otros 5 países piden a fiscal del TPI que estime los abusos contra mujeres en su investigación sobre Afganistán",
+        "image_url": "https://www.infobae.com/resizer/v2/7IHHZT7LP5D77OUOSEKNDOOIEM.jpg?auth=4156247416465134c5dd723d62c394e7858085d8a62274aefac58a5bde339315&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/28/espana-y-otros-5-paises-piden-a-fiscal-del-tpi-que-estime-los-abusos-contra-mujeres-en-su-investigacion-sobre-afganistan/",
+        "date": "2025-02-04 01:02:27",
+        "sentiment_score": -0.5780179537832737
+    },
+    {
+        "title": "Un estudio a largo plazo busca encontrar respuestas sobre las enfermedades y trastornos cerebrales",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/32916465-97864349-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-salud-estudio-enfermedades-trastornos-cerebrales-fast/",
+        "date": "2025-02-04 01:43:58",
+        "sentiment_score": 0.2534988075494766
+    },
+    {
+        "title": "¿Qué se puede esperar del acuerdo por los aranceles pactado por Trump y Sheinbaum?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-mexico-aranceles-trump-sheinbaum-perspectivas-mexico-tv-fast/",
+        "date": "2025-02-04 00:23:00",
+        "sentiment_score": 0.09841610491275787
+    },
+    {
+        "title": "El secretario de Estado de EE.UU. llegó a El Salvador para reunirse con Nayib Bukele",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/marco-rubio-visita-salvador-agenda-migratoria-directo-usa-tv/",
+        "date": "2025-02-03 23:51:14",
+        "sentiment_score": 0.17461366951465607
+    },
+    {
+        "title": "Crecen los casos de cáncer de pulmón en no fumadores asociados a la contaminación",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/02/03/climate-change.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/crecen-casos-cancer-pulmon-fumadores-mundo-20250204134659-nt.html",
+        "date": "2025-02-04 00:53:13",
+        "sentiment_score": -0.1781086027622223
+    },
+    {
+        "title": "Los aranceles a Canadá, también suspendidos durante un mes tras negociaciones entre Trump y Trudeau",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/03/TRU-TRUMP-klLH-U70204721921F7-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trudeau-asegura-aranceles-eeuu-canada-paralizan-dias-20250203225144-nt.html",
+        "date": "2025-02-03 22:23:08",
+        "sentiment_score": -0.1936279982328415
+    },
+    {
+        "title": "Feijóo avisa que si se ceden embajadas, Hacienda y fronteras \"poco más quedaría por transferir que la Moncloa\"",
+        "image_url": "https://s1.elespanol.com/2025/02/03/espana/politica/921418712_252827483_1706x960.jpg?contentId=ESPIMA20250203_0863",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250204/feijoo-avisa-ceden-embajadas-hacienda-fronteras-quedaria-transferir-moncloa/921408373_0.html",
+        "date": "2025-02-04 02:05:21",
+        "sentiment_score": -0.8462749868631363
+    },
+    {
+        "title": "Ayuso alerta de borrados de whatsapps: la encriptación de los móviles del Gobierno complica las investigaciones de la UCO",
+        "image_url": "https://s1.elespanol.com/2025/02/04/espana/921667832_252828328_1706x960.png?contentId=ESPIMA20250204_0008",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20250204/ayuso-alerta-borrados-whatsapps-encriptacion-moviles-gobierno-complica-investigaciones-uco/921408434_0.html",
+        "date": "2025-02-04 02:05:15",
+        "sentiment_score": -0.4530804269015789
+    },
+    {
+        "title": "Javier Tebas responde con dureza al comunicado del Real Madrid sobre los árbitros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes",
+            "javier tebas"
+        ],
+        "link": "https://noticialdia.com/deportes/javier-tebas-responde-con-dureza-al-comunicado-del-real-madrid-sobre-los-arbitros/",
+        "date": "2025-02-04 02:03:32",
+        "sentiment_score": -0.5164406150579453
+    },
+    {
+        "title": "Cisma en la Casa Real: Por qué Felipe y Letizia no irán a la boda de Nicolás de Grecia",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2025-02-03-a-las-165549_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/cisma-familia-real-por-que-felipe-y-letizia-no-iran-boda-nicolas-grecia",
+        "date": "2025-02-04 02:00:00",
+        "sentiment_score": -0.06017812341451645
+    },
+    {
+        "title": "Pelmard y la vuelta del ‘pimientismo’",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0a573faf-6c5e-4bf7-825e-d092ef5325ec_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2025/02/04/pelmard-vuelta-pimientismo-113978145.html",
+        "date": "2025-02-04 01:57:13",
+        "sentiment_score": -0.014466673135757446
+    },
+    {
+        "title": "La anécdota de Cristiano Ronaldo con Messi que demuestra que se llevan bien",
+        "image_url": "https://cflvdg.avoz.es/sc/2xomo6TSl4CYlHOLfUw4TG1AYPI=/768x/2024/09/04/00121725479285389992201/Foto/Cristiano-Ronaldo-Leo-Messi-EFE.jpg",
+        "tags": [
+            "cristiano ronaldo",
+            "leo messi",
+            "fútbol"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2025/02/04/anecdota-cristiano-ronaldo-messi-demuestra-llevan-bien/00031738633719617504696.htm",
+        "date": "2025-02-04 01:52:00",
+        "sentiment_score": -0.8711856845766306
+    },
+    {
+        "title": "Edu Aguirre desvela el verdadero motivo por el que Cristiano Ronaldo dejó el Real Madrid: \"Le molestó mucho\"",
+        "image_url": "https://s1.elespanol.com/2025/02/04/bluper/921667854_252829019_1706x960.jpg?contentId=ESPIMA20250204_0030",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/bluper/20250204/edu-aguirre-desvela-verdadero-motivo-cristiano-ronaldo-dejo-real-madrid-molesto/921657830_0.html",
+        "date": "2025-02-04 01:35:14",
+        "sentiment_score": -0.41696663200855255
+    },
+    {
+        "title": "El desenfreno de prostitución y drogas en un 'narcokaraoke' de Parla en la celebración del Año Nuevo Chino: hay 23 detenidos",
+        "image_url": "https://s1.elespanol.com/2019/02/05/sociedad/sociedad_373974508_114007229_1706x960.jpg?contentId=ESPIMA20190205_1909",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20250204/desenfreno-prostitucion-drogas-narcokaraoke-parla-celebracion-ano-nuevo-chino-detenidos/921408146_0.html",
+        "date": "2025-02-04 01:17:59",
+        "sentiment_score": -0.679197583347559
+    },
+    {
+        "title": "La cirugía de Almeida al Paisaje de la Luz: reforma del Paseo del Prado, nuevo bulevar y posible lifting patrocinado a la Cibeles",
+        "image_url": "https://s1.elespanol.com/2024/11/11/madrid/capital/900420035_250768616_1706x960.jpg?contentId=ESPIMA20241111_0086",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20250204/cirugia-almeida-paisaje-luz-reforma-paseo-prado-nuevo-bulevar-posible-lifting-patrocinado-cibeles/921408215_0.html",
+        "date": "2025-02-04 01:17:56",
+        "sentiment_score": -0.6751409489661455
+    },
+    {
+        "title": "(Previa) El Mallorca quiere mirar hacia arriba cortando la reacción del Valencia",
+        "image_url": "https://www.infobae.com/resizer/v2/FEQYBH7TQBBEFHHHBUQKFN5HAM.jpg?auth=1bdc50d45b52158345524634463004f0497d77a77d5588a6ee5be52ad823c9c9&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/28/previa-el-mallorca-quiere-mirar-hacia-arriba-cortando-la-reaccion-del-valencia/",
+        "date": "2025-02-04 01:17:36",
+        "sentiment_score": -0.34142905101180077
+    },
+    {
+        "title": "Sameke, el inmigrante que sobrevivió a un brutal atropello en Murcia: \"Me dijo, '¡negro, dónde vas con la niña blanca!'\"",
+        "image_url": "https://s1.elespanol.com/2025/02/03/reportajes/921418574_252823215_1706x960.jpg?contentId=ESPIMA20250203_0725",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250204/sameke-inmigrante-sobrevivio-brutal-atropello-murcia-dijo-negro-vas-nina-blanca/921408144_0.html",
+        "date": "2025-02-04 02:05:46",
+        "sentiment_score": -0.6942082028836012
+    },
+    {
+        "title": "Man City ficha al mediocampista Nico González como alternativa a Rodri y supera los $200M en gastos",
+        "image_url": "https://dims.apnews.com/dims4/default/d8bba79/2147483647/strip/true/crop/6272x4175+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa7%2F23%2F4001dbdadc8977ce54b0461bb5a9%2Fd47a119aa51042d3ac7a0b293dc47af0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/manchester-city-traspasos-nico-gonzalez-porto-91c3e49b6b1118f0ade8940c79d351c1",
+        "date": "2025-02-04 01:27:52",
+        "sentiment_score": 0.2507323622703552
+    },
+    {
+        "title": "Hallazgo en la península ibérica que cambia la historia: los pastores neolíticos ya gestionaban su ganado de forma planificada hace 6.000 años",
+        "image_url": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2025/02/Portada-con-circulo-V2-74.jpg",
+        "tags": [
+            "animales",
+            "leche",
+            "yacimientos arqueológicos",
+            "alimentación",
+            "neolítico",
+            "montañas",
+            "historia",
+            "barcelona",
+            "península ibérica",
+            "ganadería",
+            "ciencia"
+        ],
+        "link": "https://www.muyinteresante.com/historia/hallazgo-pastores-neoliticos-gestion-ganado-iberia.html",
+        "date": "2025-02-04 01:24:00",
+        "sentiment_score": 0.1741580069065094
+    },
+    {
+        "title": "Joao Félix, inscrito con el Milan",
+        "image_url": "https://cflvdg.avoz.es/sc/Qy64bi3mH7FCt14Na459LKp0YX8=/768x/2025/02/04/00121738630472864880945/Foto/EuropaPress_6233762_24_september_2024_united_kingdom_london_chelseas_joao_felix_scores_his-EP.jpg",
+        "tags": [
+            "joao félix",
+            "fútbol"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2025/02/04/joao-felix-inscrito-milan/00031738630497403857736.htm",
+        "date": "2025-02-04 00:58:00",
+        "sentiment_score": -0.10755117982625961
+    },
+    {
+        "title": "David Rigau, investigador: \"Cuando todas las comidas se realizan a primera hora del día, el efecto adelgazante es mayor\"",
+        "image_url": "https://s1.elespanol.com/2025/01/31/actualidad/920668753_252770795_1706x960.png?contentId=ESPIMA20250131_0829",
+        "tags": [
+            "health",
+            "food"
+        ],
+        "link": "https://www.elespanol.com/ciencia/nutricion/20250204/david-rigau-investigador-todas-comidas-realizan-primera-hora-dia-efecto-adelgazante-mayor/920658412_0.html",
+        "date": "2025-02-04 00:57:32",
+        "sentiment_score": 0.4241495355963707
+    },
+    {
+        "title": "Carnavales 2025: En qué fecha se celebran en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738595033622.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/carnavales-2025-en-que-fecha-se-celebran-en-venezuela-2025332100",
+        "date": "2025-02-04 01:35:56",
+        "sentiment_score": 0.002594098448753357
+    },
+    {
+        "title": "Mercantil integra funciones del servicio Tpago a la app Móvil: Estos son los beneficios",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738625837877.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/mercantil-integra-funciones-del-servicio-tpago-a-la-app-movil-estos-son-los-beneficios-20252321320",
+        "date": "2025-02-04 01:32:00",
+        "sentiment_score": 0.07085726782679558
+    },
+    {
+        "title": "SimpleTV actualiza sus tarifas para el mes de febrero: la más alta es de 2.000 bolívares",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738627151619.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/simpletv-actualiza-sus-tarifas-para-el-mes-de-febrero-la-mas-alta-es-de-2-000-bolivares-20252321320",
+        "date": "2025-02-04 01:32:00",
+        "sentiment_score": -0.3597090356051922
+    },
+    {
+        "title": "Dan de baja a un integrante de la banda \"Los Pitufos\" en Petare: se resistió a la captura",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738631522466.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/dan-de-baja-a-un-integrante-de-la-banda-los-pitufos-en-petare-se-resistio-a-la-captura--20252321320",
+        "date": "2025-02-04 01:32:00",
+        "sentiment_score": -0.5956607013940811
+    },
+    {
+        "title": "Serie del Caribe: Venezuela remonta ante Puerto Rico para lograr su primera victoria con paliza incluida",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738631814097.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/serie-del-caribe-venezuela-remonta-ante-puerto-rico-para-lograr-su-primera-victoria-con-paliza-incluida-20252321310",
+        "date": "2025-02-04 01:31:00",
+        "sentiment_score": 0.09997294098138809
+    },
+    {
+        "title": "Monedas de colección USA: Así puedes identificar el ejemplar de la serie America The Beautiful valorada en $6.600",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738632210296.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/monedas-de-coleccion-usa-asi-puedes-identificar-el-ejemplar-de-la-serie-america-the-beautiful-valorada-en-6-600-20252321200",
+        "date": "2025-02-04 01:20:00",
+        "sentiment_score": -0.7683599703013897
+    },
+    {
+        "title": "Advierten sobre llamadas trampa del ICE para detener inmigrantes: Estos son los trucos que emplea",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738631203079.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/migracion/advierten-sobre-llamadas-trampa-del-ice-para-detener-inmigrantes-estos-son-los-trucos-que-emplea-2025232150",
+        "date": "2025-02-04 01:05:00",
+        "sentiment_score": -0.01574575901031494
+    },
+    {
+        "title": "Así funciona la nueva estafa digital en Estados Unidos que puede vaciar tu cuenta bancaria",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738632708265.webp?ch=212&cw=377&extw=jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-funciona-la-nueva-estafa-digital-en-estados-unidos-que-puede-vaciar-tu-cuenta-bancaria-2025232140",
+        "date": "2025-02-04 01:04:00",
+        "sentiment_score": -0.23998326063156128
+    },
+    {
+        "title": "Redadas del ICE: La ciudad de Texas que lidera las cifras de indocumentados detenidos",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738627879592.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/redadas-del-ice-la-ciudad-de-texas-que-lidera-las-cifras-de-indocumentados-detenidos-2025232080",
+        "date": "2025-02-04 00:08:00",
+        "sentiment_score": -0.18177835643291473
+    },
+    {
+        "title": "California anuncia cheque de estímulo por $725: Sepa cómo aplicar",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738627660190.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-anuncia-cheque-de-estimulo-por-725-sepa-como-aplicar-2025232060",
+        "date": "2025-02-04 00:06:00",
+        "sentiment_score": -0.7693840228021145
     }
 ];
