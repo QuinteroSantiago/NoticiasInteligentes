@@ -100,26 +100,6 @@ export default [
         "sentiment_score": -0.7779964450746775
     },
     {
-        "title": "Así celebran la liberación de 183 prisioneros palestinos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/celebran-liberacion-183-prisioneros-palestinos/",
-        "date": "2025-02-01 13:40:22",
-        "sentiment_score": -0.06769230961799622
-    },
-    {
-        "title": "Mira el momento en que Hamas libera a los rehenes Keith Siegel, Yarden Bibas y Ofer Kalderon",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/kalderon-release-thumb-20250201124729765.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hamas-libera-rehenes-yarden-bibas-trax/",
-        "date": "2025-02-01 12:50:23",
-        "sentiment_score": -0.19111211597919464
-    },
-    {
         "title": "Primeras dos víctimas mortales en México por la crisis de las minas terrestres",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/01/tamaulipas-minas-R8TPC683ZFCpGWjhAEa0UxH-1200x840@diario_abc.jpg",
         "tags": [
@@ -140,26 +120,6 @@ export default [
         "sentiment_score": -0.21984277665615082
     },
     {
-        "title": "Los conservadores alemanes perdieron la votación contra la reagrupación familiar de refugiados por doce votos propios",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/01/CDU-kI4E-U701943037970EF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/conservadores-alemanes-perdieron-votacion-reagrupacion-familiar-refugiados-20250201124244-nt.html",
-        "date": "2025-02-01 11:43:08",
-        "sentiment_score": -0.10297553241252899
-    },
-    {
-        "title": "Los primeros heridos cruzan el paso de Rafah desde Gaza a Egipto para recibir asistencia médica",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/01/paso-de-rafah-kMNI-U701941931770fE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/paso-rafah-abre-primera-vez-mayo-permitir-20250201120127-nt.html",
-        "date": "2025-02-01 11:05:01",
-        "sentiment_score": 0.17084302008152008
-    },
-    {
         "title": "Artur Mas invita a Junts a “hablar” con Aliança Catalana pero “sin estrategias conjuntas”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/6T7WWXPEJG3NMQQB6KCV7FM7TQ.jpg?auth=76e8f4e15187f28de08386c5d92ace1e4724b2f74843cf1d746f604dff20ba80",
         "tags": [
@@ -177,83 +137,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-02-01/artur-mas-invita-a-junts-a-hablar-con-alianca-catalana-pero-sin-estrategias-conjuntas.html",
         "date": "2025-02-01 14:49:14",
         "sentiment_score": 0.07861457765102386
-    },
-    {
-        "title": "Final Benidorm Fest 2025: orden de actuaciones y horario en TV del programa que elige la canción de España en Eurovisión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LGNTWCCYHFFBBNCFK4PZ3KY2PM.jpg?auth=d03446bac76d7fec2a7abfa3487e7307ef7bdada1fb51865364f79a3b892eb51&width=1200",
-        "tags": [
-            "televisión",
-            "cultura",
-            "benidorm fest",
-            "rtve",
-            "tve",
-            "festival eurovisión",
-            "cantantes",
-            "música",
-            "la 1",
-            "televisión pública",
-            "festivales música",
-            "noticias de españa"
-        ],
-        "link": "https://elpais.com/television/2025-02-01/final-benidorm-fest-2025-orden-de-actuaciones-y-horario-en-tv-del-programa-que-elige-la-cancion-de-espana-en-eurovision.html",
-        "date": "2025-02-01 13:05:28",
-        "sentiment_score": 0.2322535216808319
-    },
-    {
-        "title": "Sánchez advierte en Valencia de que “la coalición negacionista del PP y Vox es un auténtico peligro público”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IORV5W4IFBEATC7ZRBM2VAD5CQ.JPG?auth=0eddfc5e5fb53cd4affcae10f5caccb18260f818c36e7899b7c95ee95a48aa41&width=1200",
-        "tags": [
-            "pspv-psoe",
-            "carlos mazón",
-            "congresos",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "política",
-            "valencia",
-            "diana morant ripoll",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-02-01/sanchez-advierte-en-valencia-de-que-la-coalicion-negacionista-del-pp-y-vox-es-un-autentico-peligro-publico.html",
-        "date": "2025-02-01 12:36:52",
-        "sentiment_score": 0.15158474445343018
-    },
-    {
-        "title": "López e Illa ofrecen una “prosperidad compartida” de Madrid y Cataluña ante “la faraona” Ayuso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IZLXZ3NJY64BKIZSIK72XSBDEI.jpg?auth=0d65ff21826c3806ac4a47b3f3e1399310474847806707a0af4eabc2fff5c308&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "salvador illa",
-            "santos cerdán",
-            "madrid",
-            "félix bolaños garcía",
-            "josé manuel albares",
-            "psoe",
-            "gobierno comunidad de madrid",
-            "isabel díaz ayuso",
-            "óscar lópez águeda",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-02-01/lopez-e-illa-ofrecen-un-pacto-de-prosperidad-compartida-de-madrid-y-cataluna-ante-la-ultraderecha-de-la-faraona-ayuso.html",
-        "date": "2025-02-01 12:32:49",
-        "sentiment_score": -0.39611872285604477
-    },
-    {
-        "title": "Barcelona empieza a multar por circular en patinete eléctrico por la acera o sin casco",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JETQQJEW6VA6TJNYZZDAHK6LXA.jpg?auth=cb8b534673465c42f3bf90c61dba71caa8074fa0b3a95cb94252673f3fa874d3&width=1200",
-        "tags": [
-            "movilidad sostenible",
-            "bicicletas",
-            "jaume collboni",
-            "cataluña",
-            "ordenanzas municipales",
-            "multas",
-            "barcelona",
-            "movilidad urbana",
-            "patinetes eléctricos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-01/barcelona-empieza-a-multar-por-circular-en-patinete-electrico-por-la-acera-o-sin-casco.html",
-        "date": "2025-02-01 11:40:27",
-        "sentiment_score": -0.1312846541404724
     },
     {
         "title": "Llega otra borrasca en las próximas horas: \"Vamos a seguir hablando de lluvias, nieves y vientos fuertes\"",
@@ -7959,5 +7842,456 @@ export default [
         "link": "https://2001online.com/nacionales/destruyen-tres-campamentos-utilizados-para-la-produccion-de-drogas-en-el-zulia--20252416500",
         "date": "2025-02-04 20:50:00",
         "sentiment_score": -0.11779488250613213
+    },
+    {
+        "title": "Cuánto cobran Eva Arguiñano, Paco Roncero y Damián Betular en ‘Bake Off’ por cada programa",
+        "image_url": "https://www.infobae.com/resizer/v2/RZ5WTJO5SBC6ZB2A2AU44JVFHM.png?auth=536736509f15637d5f8954e9977730068c9bd2d726e56403df18677e16d48c8a&height=408&smart=true&width=612",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/05/cuanto-cobran-eva-arguinano-paco-roncero-y-damian-betular-en-bake-off-por-cada-programa/",
+        "date": "2025-02-05 01:53:42",
+        "sentiment_score": 0.028115682303905487
+    },
+    {
+        "title": "Jordi Pujol: \"Sabemos que Cataluña no será independiente\"",
+        "image_url": "https://www.infobae.com/resizer/v2/XZCTTDGFPFETBNFG4JTFFWJCPM.jpg?auth=f89953cf39b0c14aeba994bd07f8a7948d53a5dc0ccb1daab211f9b17ebd611a&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/29/jordi-pujol-sabemos-que-cataluna-no-sera-independiente/",
+        "date": "2025-02-05 01:47:59",
+        "sentiment_score": -0.3947605527937412
+    },
+    {
+        "title": "Bolaños resalta \"transformación\" y \"modernización\" de una Justicia que los ciudadanos deben ver como \"servicio público\"",
+        "image_url": "https://www.infobae.com/resizer/v2/5GT3O4CBGVCFFCBX6IGAAYJ7YQ.jpg?auth=8d1b156c85c4731cc13621cb0195fd5e81d82572dbf4ac05fbb4d7c9bf06e0c2&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/29/bolanos-resalta-transformacion-y-modernizacion-de-una-justicia-que-los-ciudadanos-deben-ver-como-servicio-publico/",
+        "date": "2025-02-05 01:47:43",
+        "sentiment_score": 0.5147311612963676
+    },
+    {
+        "title": "Bendodo destaca el papel de los alcaldes que eligen \"servir y no servirse\" y personaliza su labor en los de Valencia",
+        "image_url": "https://www.infobae.com/resizer/v2/QN426YS7ORGN7A5PYQ2TFO7VBY.jpg?auth=803cc54157b116789971c3307a0bda7fffd21e25a4d16ad29440eb1cebe68eca&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/29/bendodo-destaca-el-papel-de-los-alcaldes-que-eligen-servir-y-no-servirse-y-personaliza-su-labor-en-los-de-valencia/",
+        "date": "2025-02-05 01:47:21",
+        "sentiment_score": 0.6151182502508163
+    },
+    {
+        "title": "Albares se verá el miércoles con Metsola para tratar la oficialidad del catalán, euskera y gallego en la Eurocámara",
+        "image_url": "https://www.infobae.com/resizer/v2/Z6KBM2FVDZEALL44GTPH564JUI.jpg?auth=5e9d22362d3fb44d812d557c9389054ccf794c3868f1f0b978d7949c65455cbc&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/29/albares-se-vera-el-miercoles-con-metsola-para-tratar-la-oficialidad-del-catalan-euskera-y-gallego-en-la-eurocamara/",
+        "date": "2025-02-05 01:47:06",
+        "sentiment_score": 0.007100019603967667
+    },
+    {
+        "title": "Iker Casillas explota en redes por la polémica con Claudia Bavel, modelo de OnlyFans, y amenaza con tomar acciones legales: “No voy a permitir más intromisiones en mi vida privada”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/05/iker-casillas-explota-en-redes-por-la-polemica-con-claudia-bavel-modelo-de-onlyfans-y-amenaza-con-tomar-acciones-legales-no-voy-a-permitir-mas-intromisiones-en-mi-vida-privada/",
+        "date": "2025-02-05 01:30:00",
+        "sentiment_score": -0.4220471866428852
+    },
+    {
+        "title": "Aitana Sánchez-Gijón bromea sobre su discurso de los Goya en ‘La Revuelta’: “David Broncano es el faro que ha guiado mi carrera hasta el día de hoy y será el faro que me guiará el resto de mis días”",
+        "image_url": "https://www.infobae.com/resizer/v2/OEZYN4YSR5BIRAJ4W7QHZS7XAU.jpeg?auth=cca823ad9fb05bd2d3189844e8421518c753e8213101d98f5ed20995d45d7ee9&height=1215&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/05/aitana-sanchez-gijon-bromea-sobre-su-discurso-de-los-goya-en-la-revuelta-david-broncano-es-el-faro-que-ha-guiado-mi-carrera-hasta-el-dia-de-hoy-y-sera-el-faro-que-me-guiara-el-resto-de-mis-dias/",
+        "date": "2025-02-05 00:47:31",
+        "sentiment_score": 0.47667217068374157
+    },
+    {
+        "title": "Piden 9 años de prisión para un hombre acusado de atropellar deliberadamente a un viandante en Cazalegas (Toledo)",
+        "image_url": "https://www.infobae.com/resizer/v2/EXPYJN3DCVBN5O73KCZZ4FJILE.jpg?auth=84e78435f7502478ee370d16f3eb077f69d2bec572b467a3cc133b396f0e54c9&height=1446&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/29/piden-9-anos-de-prision-para-un-hombre-acusado-de-atropellar-deliberadamente-a-un-viandante-en-cazalegas-toledo/",
+        "date": "2025-02-05 00:47:18",
+        "sentiment_score": -0.8339279163628817
+    },
+    {
+        "title": "Condenado a dos años de cárcel un fisioterapeuta por abusar sexualmente de una paciente en una clínica de Santiago",
+        "image_url": "https://www.infobae.com/resizer/v2/ASJNBNYLR5CA5F4FLWE7SCEXNA.jpg?auth=d1ee7623dace0be3a5f9606e618bb05aa0eb27cdae73518ee0de8b316c7fb6e8&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/29/condenado-a-dos-anos-de-carcel-un-fisioterapeuta-por-abusar-sexualmente-de-una-paciente-en-una-clinica-de-santiago/",
+        "date": "2025-02-05 00:47:00",
+        "sentiment_score": -0.8104529250413179
+    },
+    {
+        "title": "Mazón se siente \"respaldado\" por Feijóo y asegura que el PP es \"consciente del esfuerzo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/RU7OQV7KDBHPJBEZIALSENXOII.jpg?auth=c2fc33b37870164e27c85259009f7c616ec5993773aecbf082a99fbaaf7fc7bb&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/11/29/mazon-se-siente-respaldado-por-feijoo-y-asegura-que-el-pp-es-consciente-del-esfuerzo/",
+        "date": "2025-02-05 00:32:46",
+        "sentiment_score": -0.5470502004027367
+    },
+    {
+        "title": "La princesa Catherine visita con un grupo de niños una galería tras superar tratamiento contra el cáncer",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2197092975.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/princesa-kate-tratamiento-cancer-orix/",
+        "date": "2025-02-05 02:05:58",
+        "sentiment_score": 0.26916566491127014
+    },
+    {
+        "title": "“Todos estaban en shock”: testigo del tiroteo en una escuela de Suecia describe lo que vio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2197102918.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/testigo-tiroteo-escuela-orebro-suecia-trax/",
+        "date": "2025-02-05 01:32:24",
+        "sentiment_score": -0.8543421663343906
+    },
+    {
+        "title": "Jefe de la guerrilla del ELN acusa a Petro de no cumplir con lo pactado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "colombia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colombia-analisis-actualidad-eln-antonio-garcia-directo-usa-tv/",
+        "date": "2025-02-04 23:56:48",
+        "sentiment_score": -0.713080283254385
+    },
+    {
+        "title": "Sheinbaum explicó el despliegue de la Guardia Nacional a la frontera norte",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21349111-129012-184-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guardia-nacional-frontera-eeuu-sheinbaum-trump-perspectivas-mexico-tv-fast/",
+        "date": "2025-02-04 23:48:34",
+        "sentiment_score": -0.8435948081314564
+    },
+    {
+        "title": "El Salvador propone recibir en sus cárceles a delincuentes convictos y deportados de EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1473759626.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estados-unidos-el-salvador-acuerdo-envio-migrantes-directo-usa-tv/",
+        "date": "2025-02-04 23:44:09",
+        "sentiment_score": -0.6361600086092949
+    },
+    {
+        "title": "¿Podrías ser candidato para un examen de detección de cáncer de pulmón?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1316395.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-de-salud-examen-deteccion-cancer-pulmon-fast/",
+        "date": "2025-02-04 23:29:49",
+        "sentiment_score": 0.0898510068655014
+    },
+    {
+        "title": "Trump saca a EE.UU. del Consejo de Derechos Humanos de la ONU y corta fondos a Gaza",
+        "image_url": "https://cdn.mnmstatic.net/cache/3d/6b/media_thumb-link-4025281.webp",
+        "tags": [
+            "gaza",
+            "onu",
+            "ee.uu.",
+            "fondos",
+            "actualidad",
+            "consejo de derechos humanos",
+            "trump"
+        ],
+        "link": "https://www.meneame.net/story/trump-saca-ee-uu-consejo-derechos-humanos-onu-corta-fondos-gaza",
+        "date": "2025-02-05 01:45:02",
+        "sentiment_score": -0.1657845824956894
+    },
+    {
+        "title": "Murió la actriz Norma Sebré: elegida por Alberto Olmedo, Alejandro Romay y famosa por una polémica publicidad",
+        "image_url": "https://www.infobae.com/resizer/v2/QIGMBTVYJFC4VIPJHED7WWQMAM.PNG?auth=68ced84c37f7bee7bb9c41c436cd54a45dfb6171ede1b51d9b65632f1cf55b1c&height=674&smart=true&width=535",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/02/05/murio-la-actriz-norma-sebre-elegida-por-alberto-olmedo-alejandro-romay-y-famosa-por-una-polemica-publicidad/",
+        "date": "2025-02-05 02:09:39",
+        "sentiment_score": 0.7240002658218145
+    },
+    {
+        "title": "El show de los argentinos en la victoria del Atlético de Madrid: la conexión de Julián Álvarez y De Paul, doblete de Simeone y exhibición de Correa",
+        "image_url": "https://www.infobae.com/resizer/v2/WP7Y3LODJ5BYNTM6VG7WXXBPIE.jpg?auth=57d01942e477adb841d5a2cc61b8977337a5e0b477ceec894ff1d52797d32075&height=1786&smart=true&width=2633",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/02/05/el-show-de-los-argentinos-en-la-victoria-del-atletico-de-madrid-la-conexion-de-julian-alvarez-y-de-paul-doblete-de-simeone-y-exhibicion-de-correa/",
+        "date": "2025-02-05 01:37:13",
+        "sentiment_score": 0.16471374034881592
+    },
+    {
+        "title": "El brasileño Rodrygo Goes entrena con normalidad y apunta al partido ante el Getafe CF de este domingo",
+        "image_url": "https://www.infobae.com/resizer/v2/LSFGBTFSJFCM3OT5VSFT3FS7NA.jpg?auth=4fe889e78f34fd52d823fb3577e5d5f4751e872896d7bfd90de1577504ff2c4d&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/11/29/el-brasileno-rodrygo-goes-entrena-con-normalidad-y-apunta-al-partido-ante-el-getafe-cf-de-este-domingo/",
+        "date": "2025-02-05 01:32:24",
+        "sentiment_score": 0.468755628913641
+    },
+    {
+        "title": "Zelenski afirma estar listo para negociar directamente con Putin \"si es la única forma\" de llevar paz a los ucranianos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250205022122_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-zelenski-afirma-estar-listo-negociar-directamente-putin-si-unica-forma-llevar-paz-ucranianos-20250205022122.html",
+        "date": "2025-02-05 01:21:22",
+        "sentiment_score": 0.15393133461475372
+    },
+    {
+        "title": "Del hijo de Ábalos a la mano derecha de Montero: quién es quién entre los 17 nuevos citados por el Supremo",
+        "image_url": "https://s1.elespanol.com/2024/10/23/espana/895671373_250307759_1706x960.png?contentId=ESPIMA20241023_0949",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20250205/hijo-abalos-mano-derecha-montero-nuevos-citados-supremo/921658193_0.html",
+        "date": "2025-02-05 01:15:25",
+        "sentiment_score": -0.451582171022892
+    },
+    {
+        "title": "Zoe Bonafonte, la actriz más joven de los Goya: \"Nos llaman 'generación de cristal', pero hicimos frente a una DANA y a la tasa más alta de suicidios\"",
+        "image_url": "https://s1.elespanol.com/2025/02/04/mujer/protagonistas/921668118_252837224_1706x960.jpg?contentId=ESPIMA20250204_0294",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250205/zoe-bonafonte-actriz-joven-goya-llaman-generacion-cristal-hicimos-frente-dana-tasa-alta-suicidios/921658030_0.html",
+        "date": "2025-02-05 01:14:12",
+        "sentiment_score": 0.7283463627099991
+    },
+    {
+        "title": "Los jueces estrechan el cerco a Moncloa: citan a cargos de Sánchez en el Gobierno y en el PSOE y a la asesora de su mujer",
+        "image_url": "https://s1.elespanol.com/2025/02/04/espana/politica/921668638_252853314_1706x960.jpg?contentId=ESPIMA20250204_0814",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250205/jueces-estrechan-cerco-moncloa-citan-cargos-sanchez-gobierno-psoe-asesora-mujer/921658327_0.html",
+        "date": "2025-02-05 01:13:42",
+        "sentiment_score": -0.34574810415506363
+    },
+    {
+        "title": "¿Por qué España es el único país en que se conoce a los árbitros por sus dos apellidos? \"Franco es muy malo\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/04/culemania/culemaniacos/921667858_14066070_1706x960.jpg?contentId=ESPIMA20250204_0034",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20250205/por-que-espana-es-arbitros-apellidos-franco/921657869_0.html",
+        "date": "2025-02-05 00:51:07",
+        "sentiment_score": 0.03552514314651489
+    },
+    {
+        "title": "04 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-feb-2025-partidazo-cope-20250205_3089876.html",
+        "date": "2025-02-05 00:37:53",
+        "sentiment_score": -0.1544140726327896
+    },
+    {
+        "title": "Giuliano Simeone anota 2 veces y el Atlético alcanza semifinales de Copa del Rey al golear a Getafe",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/espana-copa-rey-atletico-madrid-getafe-6bb08a1a4f0ba1fbe18e11119601e286",
+        "date": "2025-02-05 00:37:38",
+        "sentiment_score": 0.3694850355386734
+    },
+    {
+        "title": "Desorden Público anuncia gira mundial por su aniversario 40",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2025/02/DESORDENP_gira.jpg",
+        "tags": [
+            "lo actual",
+            "a - modulo 7 - b",
+            "desorden público",
+            "europa",
+            "gira",
+            "40 años"
+        ],
+        "link": "https://correodelcaroni.com/sociedad/actual/desorden-publico-anuncia-gira-mundial-por-su-aniversario-40/",
+        "date": "2025-02-05 01:23:29",
+        "sentiment_score": -0.2711421698331833
+    },
+    {
+        "title": "La lenta agonía de Juan Carlos, maniatado y torturado hasta la muerte en Badalona: los Mossos buscan a su compañero de piso",
+        "image_url": "https://s1.elespanol.com/2025/02/04/reportajes/921668565_252850909_1706x960.png?contentId=ESPIMA20250204_0741",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250205/lenta-agonia-juan-carlos-maniatado-torturado-muerte-badalona-mossos-buscan-companero-piso/921658224_0.html",
+        "date": "2025-02-05 01:14:04",
+        "sentiment_score": -0.33749523386359215
+    },
+    {
+        "title": "Laporta hace negocio con la Masía: el Barça ingresa 67 millones en traspasos de canteranos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/05/culemania/palco/921917800_14069316_1706x960.jpg?contentId=ESPIMA20250205_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250205/laporta-negocio-masia-barca-millones-traspasos-canteranos/921907801_0.html",
+        "date": "2025-02-05 01:10:12",
+        "sentiment_score": 0.6617005504667759
+    },
+    {
+        "title": "Pedro, Daniel y Rafael... así 'sedujeron' a los chinos estos tres empresarios para relanzar la marca Ebro en España",
+        "image_url": "https://s1.elespanol.com/2025/02/03/motor/921418698_252831815_1706x960.jpg?contentId=ESPIMA20250203_0849",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20250205/pedro-daniel-rafael-sedujeron-chinos-empresarios-relanzar-marca-ebro-espana/921657902_0.html",
+        "date": "2025-02-05 01:06:26",
+        "sentiment_score": 0.2783716805279255
+    },
+    {
+        "title": "Jupiter Wagons se guarda un as en la manga para allanar la compra de Talgo: su alianza con la asturiana Talleres Alegría",
+        "image_url": "https://s1.elespanol.com/2025/02/04/invertia/observatorios/movilidad/921668314_252843117_1706x960.jpg?contentId=ESPIMA20250204_0490",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20250205/jupiter-wagons-guarda-as-manga-allanar-compra-talgo-alianza-asturiana-talleres-alegria/921658175_0.html",
+        "date": "2025-02-05 01:06:25",
+        "sentiment_score": 0.26220788806676865
+    },
+    {
+        "title": "Tony Antonio y los humoristas, con la DANA: 'Los artistas jugamos un papel importante'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2025-02-04-a-las-191406_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/tony-antonio-humoristas-con-dana-artistas-jugamos-papel-importante",
+        "date": "2025-02-05 01:00:00",
+        "sentiment_score": 0.23727638646960258
+    },
+    {
+        "title": "Santos contrata a la promesa Gabriel Veron para reforzar el ataque liderado por Neymar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/05/santos-contrata-a-la-promesa-gabriel-veron-para-reforzar-el-ataque-liderado-por-neymar/",
+        "date": "2025-02-05 00:45:33",
+        "sentiment_score": 0.276419922709465
+    },
+    {
+        "title": "Anuncian demarcación vial en 3.1 kilómetros de La Dolorita",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738725280289.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/anuncian-demarcacion-vial-en-3-1-kilometros-de-la-dolorita-2025242290",
+        "date": "2025-02-05 02:09:00",
+        "sentiment_score": 0.12056651711463928
+    },
+    {
+        "title": "Gustavo Petro es confrontado en vivo por su vicepresidenta tras el regreso de Sarabia y Benedetti al gabinete",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738721507442.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/gustavo-petro-es-confrontado-en-vivo-por-su-vicepresidenta-tras-el-regreso-de-sarabia-y-benedetti-al-gabinete-20252421410",
+        "date": "2025-02-05 01:41:00",
+        "sentiment_score": -0.8012050800025463
+    },
+    {
+        "title": "Primer proyecto de reforma constitucional será presentado por Maduro en febrero: Irá a debate",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738717209890.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/primer-proyecto-de-reforma-constitucional-sera-presentado-por-maduro-en-febrero-ira-a-debate-20252421290",
+        "date": "2025-02-05 01:29:00",
+        "sentiment_score": 0.29669639095664024
+    },
+    {
+        "title": "Florida anuncia nuevo cheque de estímulo por $300: Sepa quiénes aplican",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738717574212.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/florida-anuncia-nuevo-cheque-de-estimulo-por-300-sepa-quienes-aplican-2025242160",
+        "date": "2025-02-05 01:06:00",
+        "sentiment_score": 0.07761294580996037
+    },
+    {
+        "title": "Cashea: Sepa cómo validar su identidad para poder usar la aplicación",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738683491650.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/cashea-sepa-como-validar-su-identidad-para-poder-usar-la-aplicacion-2025242100",
+        "date": "2025-02-05 01:00:00",
+        "sentiment_score": 0.0306071937084198
+    },
+    {
+        "title": "Banco del Tesoro: Estos son los límites para consumos internacionales con la tarjeta Master Debit",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738718602987.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banco-del-tesoro-estos-son-los-limites-para-consumos-internacionales-con-la-tarjeta-master-debit-20252420550",
+        "date": "2025-02-05 00:55:00",
+        "sentiment_score": -0.039386630058288574
+    },
+    {
+        "title": "¿Solo deportaciones? Sepa qué otras funciones tiene el ICE en Estados Unidos",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738718913201.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/solo-deportaciones-sepa-que-otras-funciones-tiene-el-ice-en-estados-unidos-20252420530",
+        "date": "2025-02-05 00:53:00",
+        "sentiment_score": -0.575752604752779
+    },
+    {
+        "title": "Cristiano Ronaldo cumple 40 años: Estos son los 10 momentos más legendarios de su carrera",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738716724882.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/cristiano-ronaldo-cumple-40-anos-estos-son-los-10-momentos-mas-legendarios-de-su-carrera-20252420100",
+        "date": "2025-02-05 00:10:00",
+        "sentiment_score": 0.8834371026605368
+    },
+    {
+        "title": "Gobierno de Trump recibe demanda por negar asilos en la frontera: El derecho está consagrado en la ley",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738714774023.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/gobierno-de-trump-recibe-demanda-por-negar-asilos-en-la-frontera-el-derecho-esta-consagrado-en-la-ley-2025242090",
+        "date": "2025-02-05 00:09:00",
+        "sentiment_score": 0.0015965700149536133
+    },
+    {
+        "title": "Más de 5 mil proyectos comunitarios recibirán los recursos está semana",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738713546093.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/mas-de-5-mil-proyectos-comunitarios-recibiran-los-recursos-esta-semana-2025242030",
+        "date": "2025-02-05 00:03:00",
+        "sentiment_score": 0.07717476598918438
     }
 ];
