@@ -110,36 +110,6 @@ export default [
         "sentiment_score": -0.04947846382856369
     },
     {
-        "title": "Jenni Hermoso declara en juicio contra Luis Rubiales",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/youtube-estilo-cnn-3-20250203140151737.png",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/jenni-hermoso-declara-juicio-rubiales-cafe-tv/",
-        "date": "2025-02-03 14:04:01",
-        "sentiment_score": -0.7749371100217104
-    },
-    {
-        "title": "¿Se reanudarán las negociaciones sobre Gaza mientras Netanyahu está en Washington?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/fecha-limite-negociaciones-gaza-netanyahu-washington-cafe-tv/",
-        "date": "2025-02-03 13:53:01",
-        "sentiment_score": -0.3927772492170334
-    },
-    {
-        "title": "Jenni Hermoso sobre el beso de Rubiales: \"Sabía que me estaba besando mi jefe y esto no debe ocurrir\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/jenni-hermoso-luis-rubiales-juicio-beso-sot/",
-        "date": "2025-02-03 13:00:57",
-        "sentiment_score": 0.27367277443408966
-    },
-    {
         "title": "El TS ve abusivo el interés de las 'revolving' si hay varias cláusulas no transparentes que lo afectan",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/02/03/fachada-ts-R0zmHn8q92YMx1OJBxiHEcI-1200x840@diario_abc.jpg",
         "tags": [
@@ -178,46 +148,6 @@ export default [
         "link": "https://www.abc.es/salud/estudio-desvela-afecta-paternidad-cerebro-hombre-clave-20250203161543-nt.html",
         "date": "2025-02-03 15:16:07",
         "sentiment_score": -0.1008654236793518
-    },
-    {
-        "title": "Condenado a más 14 años de cárcel Daniel Khalife, el exmilitar británico acusado de trabajar para Irán y huir de prisión",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/03/daniel-abed-khalife-kra-U70202685733Y6-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/condenado-anos-carcel-exmilitar-britanico-acusado-trabajar-20250203150038-nt.html",
-        "date": "2025-02-03 14:02:11",
-        "sentiment_score": -0.21508680284023285
-    },
-    {
-        "title": "Ferrovial construirá un túnel para la red eléctrica británica por 230 millones de libras",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/02/03/tunneling-project-in-uk-ferrovial-RaL5KzCGYtWtR2YfkuCeLeM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ferrovial-construira-tunel-red-electrica-britanica-230-20250203132626-nt.html",
-        "date": "2025-02-03 12:28:05",
-        "sentiment_score": -0.014028996229171753
-    },
-    {
-        "title": "Un coche bomba mata al menos 15 personas en el norte de Siria",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/03/DAMBin(57)-kAG-U70201468380QbC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/coche-bomba-mata-personas-norte-siria-20250203130312-nt.html",
-        "date": "2025-02-03 12:03:13",
-        "sentiment_score": -0.21802793443202972
-    },
-    {
-        "title": "Fallece el doctor Juan José Rufilanchas, uno de los grandes cirujanos cardiovasculares españoles",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/02/03/rufilanchas-R8WajqUl4enEt1YkNNtGdKJ-758x531@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/jose-luis-martin-del-yerro-fallece-doctor-juan-jose-rufilanchas-grandes-cirujanos-20250203124420-nt.html",
-        "date": "2025-02-03 11:44:21",
-        "sentiment_score": -0.02373388409614563
     },
     {
         "title": "Siete jóvenes detenidos en tres días acusados de difundir el ideario yihadista en actividades deportivas",
@@ -325,87 +255,6 @@ export default [
         "link": "https://elpais.com/espana/2025-02-03/el-juez-hurtado-resta-importancia-a-un-juicio-paralelo-a-garcia-ortiz-y-descarta-investigar-filtraciones-en-la-causa.html",
         "date": "2025-02-03 14:21:02",
         "sentiment_score": -0.755723811686039
-    },
-    {
-        "title": "Las hijas de Millet, citadas como imputadas por ocultar rentas para no indemnizar al Palau de la Música",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SBEEUAABTZCGBPDMUNW6VQSCME.jpg?auth=e1113cf05680ac704e759d8353c3460cb0b8a76c741887547fc2335509a7de63&width=1200",
-        "tags": [
-            "investigación judicial",
-            "félix millet",
-            "ap barcelona",
-            "caso palau",
-            "cataluña",
-            "palau música"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-03/las-hijas-de-millet-citadas-como-imputadas-por-ocultar-rentas-para-no-indemnizar-al-palau-de-la-musica.html",
-        "date": "2025-02-03 14:12:02",
-        "sentiment_score": -0.8971307268366218
-    },
-    {
-        "title": "Feijóo se reivindica tras las críticas por su viraje en el decreto: “A mí de momento no me da órdenes nadie”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LMV4Q5FAIVEYNL6WZ76HZ4UT5Y.JPG?auth=b09999ff751291eede33bb248ed93913307d338a81a48c84e6a114ac98952c23&width=1200",
-        "tags": [
-            "juan garcía-gallardo",
-            "encuestas electorales",
-            "españa",
-            "encuestas",
-            "pp",
-            "vox",
-            "santiago abascal",
-            "alberto núñez feijóo",
-            "castilla y león"
-        ],
-        "link": "https://elpais.com/espana/2025-02-03/feijoo-se-reivindica-tras-las-criticas-por-su-viraje-en-el-decreto-a-mi-de-momento-no-me-da-ordenes-nadie.html",
-        "date": "2025-02-03 13:50:07",
-        "sentiment_score": -0.7990651112049818
-    },
-    {
-        "title": "La Fundación Princesa de Girona premia un proyecto que proporciona incubadoras a hospitales sin recursos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WCE3SY6WQJDXHOBSRQT6CDT2AQ.jpg?auth=6b1b765a86fb1df4b1d1bdf921cedb54adb5e61d10dac774472cacee631cef56&width=1200",
-        "tags": [
-            "cataluña",
-            "casa real",
-            "premios",
-            "conferencias",
-            "inundaciones",
-            "juventud",
-            "princesa de asturias",
-            "girona",
-            "emprendedores",
-            "salvador illa",
-            "deportes",
-            "asociaciones benéficas",
-            "asociaciones",
-            "generalitat cataluña",
-            "barcelona",
-            "govern cataluña",
-            "felipe vi",
-            "jóvenes",
-            "inundaciones dana octubre 2024",
-            "fundaciones",
-            "reina letizia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-03/la-fundacion-princesa-de-girona-premia-un-proyecto-que-proporciona-incubadoras-a-hospitales-sin-recursos.html",
-        "date": "2025-02-03 13:16:04",
-        "sentiment_score": 0.4765632823109627
-    },
-    {
-        "title": "Los profesores de Literatura de Cataluña reclaman más presencia de esta materia en el bachillerato",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YXFGQC5EFJAXBD4LXBBXREVKHE.jpg?auth=239454bb89adf2d8a30d3fc937c9f36f18f20cb244e3ea1103bf3dbec3ac720d&width=1200",
-        "tags": [
-            "profesorado",
-            "literatura española",
-            "lomloe",
-            "literatura catalana",
-            "bachillerato",
-            "generalitat cataluña",
-            "literatura",
-            "estudiantes",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-03/los-profesores-de-literatura-de-cataluna-reclaman-mas-presencia-de-esta-materia-en-el-bachillerato.html",
-        "date": "2025-02-03 12:28:52",
-        "sentiment_score": -0.8493178263306618
     },
     {
         "title": "Carta del Real Madrid a la RFEF \"tras la grave actuación arbitral en el RCDE Stadium\"",
@@ -8630,5 +8479,475 @@ export default [
         "link": "https://2001online.com/deportes/el-emotivo-mensaje-de-cumpleanos-de-georgina-rodriguez-para-cristiano-ronaldo-2025261740",
         "date": "2025-02-06 21:04:00",
         "sentiment_score": 0.5443082097917795
+    },
+    {
+        "title": "Villarejo acude al Congreso para hablar de los atentados del 17A, tras negar Sanz Roldán la teoría de la conspiración",
+        "image_url": "https://www.infobae.com/resizer/v2/7VPT7FRVERAYNJZZBQVIAJFPGQ.jpg?auth=3f612ed0611205cd63549026bab18bc9c46a3cd6b4973cf2370e14caa37da253&height=1282&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/01/villarejo-acude-al-congreso-para-hablar-de-los-atentados-del-17a-tras-negar-sanz-roldan-la-teoria-de-la-conspiracion/",
+        "date": "2025-02-07 02:02:42",
+        "sentiment_score": -0.5567717850208282
+    },
+    {
+        "title": "Feijóo critica que el PSOE \"amenace a los jueces\" y espeta a Sánchez: \"Aguanta Pedro porque te vamos a echar\"",
+        "image_url": "https://www.infobae.com/resizer/v2/EFH6O67JVBBEBO5TSOTC5P57DU.jpg?auth=8032ac65a76ff9ec0891f0e226ac7e62d0a5c5c0474f1d1171849d795422a38b&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/01/feijoo-critica-que-el-psoe-amenace-a-los-jueces-y-espeta-a-sanchez-aguanta-pedro-porque-te-vamos-a-echar/",
+        "date": "2025-02-07 02:02:23",
+        "sentiment_score": -0.8928861198946834
+    },
+    {
+        "title": "España derrota a los 'All Blacks' y hace historia con su primera final de las Series Mundiales",
+        "image_url": "https://www.infobae.com/resizer/v2/IF4FF5NNAZGXJCAYRKISRG5ANA.jpg?auth=492421db6fc8e7535c67f127e428f0796bc44291acf33bccaaee5c7dee0dd2e4&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/01/espana-derrota-a-los-all-blacks-y-hace-historia-con-su-primera-final-de-las-series-mundiales/",
+        "date": "2025-02-07 02:02:04",
+        "sentiment_score": 0.5205350443720818
+    },
+    {
+        "title": "Reporte meteorológico: las temperaturas que se esperan en Barcelona este 7 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/AODCCUEC7BG5DJACPOCMIEB7NM.jpg?auth=45bd514282e7d553e590a5a7b9259936f003ec0f19a50275775c347134c840c8&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/07/reporte-meteorologico-las-temperaturas-que-se-esperan-en-barcelona-este-7-de-febrero/",
+        "date": "2025-02-07 02:01:38",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Sumar apuesta por acelerar la agenda del Gobierno para anular la ofensiva del PP",
+        "image_url": "https://www.infobae.com/resizer/v2/KELVW73XLRAW3AKSMXBWYA3S3M.jpg?auth=c05c2c67fb696ba0be9299ee9a20c63a1e484811ecdbaefb378c10fdf98fe420&height=1418&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/01/sumar-apuesta-por-acelerar-la-agenda-del-gobierno-para-anular-la-ofensiva-del-pp/",
+        "date": "2025-02-07 01:32:53",
+        "sentiment_score": -0.1292209029197693
+    },
+    {
+        "title": "Morant asegura que el PSPV llegó \"muy quebrado por el dolor\" de la dana al Congreso del PSOE pero sale \"más fuerte\"",
+        "image_url": "https://www.infobae.com/resizer/v2/GVXBI27PNNDLRBXEQN7BTY27PA.jpg?auth=8f81fcd73dd097b52fce3dfc488d183ec986928213103f6a5bc11e5d12af7776&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/01/morant-asegura-que-el-pspv-llego-muy-quebrado-por-el-dolor-de-la-dana-al-congreso-del-psoe-pero-sale-mas-fuerte/",
+        "date": "2025-02-07 01:32:31",
+        "sentiment_score": -0.8399981688708067
+    },
+    {
+        "title": "Álvarez (UGT) aplaude la iniciativa del PSOE de blindar en la Constitución la subida de las pensiones",
+        "image_url": "https://www.infobae.com/resizer/v2/YATXWPXFMNGVNKE7HICQTJXBAY.jpg?auth=706f248d37437e30dd4a06ee0155e643a336351585be71f20d32603615c816f1&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/01/alvarez-ugt-aplaude-la-iniciativa-del-psoe-de-blindar-en-la-constitucion-la-subida-de-las-pensiones/",
+        "date": "2025-02-07 01:32:16",
+        "sentiment_score": -0.40224552154541016
+    },
+    {
+        "title": "Alamany (ERC) ve \"extraño\" que Godàs llegue a pactar con 'Foc Nou' tras las diferencias expresadas",
+        "image_url": "https://www.infobae.com/resizer/v2/OKQOPGXUFBB6BCFMIOW2GKVABE.jpg?auth=d2a35300f8183ea1bcc0ec3b45b071c677635617221b1b02b8231fba5ed27568&height=1282&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/01/alamany-erc-ve-extrano-que-godas-llegue-a-pactar-con-foc-nou-tras-las-diferencias-expresadas/",
+        "date": "2025-02-07 01:17:09",
+        "sentiment_score": -0.8989045936614275
+    },
+    {
+        "title": "Pontón reivindica su liderazgo en un BNG más fuerte y avisa: \"No hay nada más revolucionario que llegar al gobierno\"",
+        "image_url": "https://www.infobae.com/resizer/v2/MTIKQ6F2SJELLC5KCMJYOMTPGM.jpg?auth=1113aec97f906d216fbe4ac334d256c6fd02e2789d7c7970b4e4140ec939b2d8&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/01/ponton-reivindica-su-liderazgo-en-un-bng-mas-fuerte-y-avisa-no-hay-nada-mas-revolucionario-que-llegar-al-gobierno/",
+        "date": "2025-02-07 01:03:25",
+        "sentiment_score": 0.3956714868545532
+    },
+    {
+        "title": "Bendodo: \"El Congreso del PSOE lo resumiría en Chaves y Griñán por la mañana y, por la tarde, Begoña. Fin de la cita\"",
+        "image_url": "https://www.infobae.com/resizer/v2/DTPEV7LV3JFPFFGULVRMPGRYU4.jpg?auth=1b4a1192c115e3d9bc416e45297eda829b40bdb8ebfaaa37eaa998e4d3412610&height=1315&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/01/bendodo-el-congreso-del-psoe-lo-resumiria-en-chaves-y-grinan-por-la-manana-y-por-la-tarde-begona-fin-de-la-cita/",
+        "date": "2025-02-07 01:03:06",
+        "sentiment_score": -0.26083533465862274
+    },
+    {
+        "title": "El momento en que EE.UU. confisca un segundo avión de Maduro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21358783-28934-58-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/avion-maduro-confiscado-marco-rubio-republica-dominicana-perspectivas-mexico-tv/",
+        "date": "2025-02-07 01:58:30",
+        "sentiment_score": -0.503808069974184
+    },
+    {
+        "title": "Histórico recorte en la tasa de interés en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnne-688463-banxico-baja-tasa-de-interes.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tasa-interes-banxico-perspectivas-mexico-tv/",
+        "date": "2025-02-07 01:37:20",
+        "sentiment_score": 0.18128101527690887
+    },
+    {
+        "title": "Fecundan con éxito un embrión de canguro “in vitro”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1444932504.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fecundacion-canguro-in-vitro-australia-perspectivas-mexico-tv/",
+        "date": "2025-02-07 01:33:05",
+        "sentiment_score": 0.49874141812324524
+    },
+    {
+        "title": "¿Mantiene Trump la amenaza de controlar el canal de Panamá? Esto dice el excanciller Ritter",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2196802290-20250207004628150.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mulino-peaje-pago-eeuu-canal-panama-perspectivas-mexico-tv-fast/",
+        "date": "2025-02-07 00:47:22",
+        "sentiment_score": -0.5217403639107943
+    },
+    {
+        "title": "Lluvias torrenciales destruyeron hogares en el norte de Bolivia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21358228-5065-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lluvias-torrenciales-bolivia-inundaciones-orix/",
+        "date": "2025-02-07 00:29:43",
+        "sentiment_score": -0.9178594024851918
+    },
+    {
+        "title": "Daniel Noboa y Luisa González marchan favoritos en las elecciones presidenciales de Ecuador",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1613791834.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/daniel-noboa-luisa-gonzalez-elecciones-presidenciales-ecuador/",
+        "date": "2025-02-07 00:28:16",
+        "sentiment_score": 0.06796634197235107
+    },
+    {
+        "title": "Palestinos construyen refugios en medio de la destrucción en Gaza para protegerse de la lluvia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21357509-0-still.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/palestinos-gaza-refugios-gaza-lluvia-orix/",
+        "date": "2025-02-07 00:02:14",
+        "sentiment_score": -0.6588168442249298
+    },
+    {
+        "title": "Tensión diplomática: El presidente de Panamá, José Raúl Mulino, confirmó que tendrá una llamada telefónica con Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21223649-1650-6670000000001-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-panama-tension-diplomatica-trump-mulino-directo-usa-tv/",
+        "date": "2025-02-06 23:47:18",
+        "sentiment_score": -0.12862636893987656
+    },
+    {
+        "title": "“Estamos comprometidos a seguir trabajando juntos”: Abinader recibe a Marco Rubio en República Dominicana",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2197411980.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/abinader-recibe-marco-rubio-eeuu-republica-dominicana-sot/",
+        "date": "2025-02-06 23:22:06",
+        "sentiment_score": 0.41797223687171936
+    },
+    {
+        "title": "Perder peso puede afectar las relaciones personales, afirma psicóloga",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/82414498-83210549-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-salud-glp-1-perder-peso-relaciones-personales-salud-fast/",
+        "date": "2025-02-06 23:12:20",
+        "sentiment_score": -0.08140076696872711
+    },
+    {
+        "title": "Probamos el TicWatch Atlas: el reloj inteligente de aventura definitivo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/02/06/reloj.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/probamos-ticwatch-atlas-reloj-inteligente-aventura-definitivo-20250206124102-nt.html",
+        "date": "2025-02-07 00:54:42",
+        "sentiment_score": 0.002705395221710205
+    },
+    {
+        "title": "El Gobierno de Milei logra aprobar en el Congreso de su proyecto para eliminar las primarias",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/07/milei-k6HH-U702231295880tG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gobierno-milei-logra-aprobar-congreso-proyecto-eliminar-20250207013345-nt.html",
+        "date": "2025-02-07 00:35:26",
+        "sentiment_score": -0.007752716541290283
+    },
+    {
+        "title": "Oleg Logunov y Dolla Logunova, los rusos números 1 y 4 del MIR de 2025: de estudiar en San Petersburgo a vivir en Valencia",
+        "image_url": "https://s1.elespanol.com/2025/02/06/actualidad/922168714_252913509_1706x960.jpg?contentId=ESPIMA20250206_0940",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250207/oleg-logunov-dolla-logunova-rusos-numeros-mir-estudiar-san-petersburgo-vivir-valencia/922158327_0.html",
+        "date": "2025-02-07 01:53:43",
+        "sentiment_score": -0.06458606570959091
+    },
+    {
+        "title": "Cuánto vale la playera de Sergio Ramos con Monterrey",
+        "image_url": "https://www.infobae.com/resizer/v2/XQOM27JKTZASVG3AMZOS35Q53E.jpg?auth=1c4f8fc7f7136efc63dedd5ab7fa693215b20f229eb887260d24bc00787dd6cf&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/02/07/cuanto-vale-la-playera-de-sergio-ramos-con-monterrey/",
+        "date": "2025-02-07 01:43:42",
+        "sentiment_score": 0.15406154096126556
+    },
+    {
+        "title": "Copa del Rey | Barcelona golea al Valencia y avanza a semifinales",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/02/Copa-del-Rey-Barcelona-golea-al-Valencia-y-avanza-a-semifinales-6-feb-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "monagas",
+            "maturín",
+            "venezuela",
+            "deportes"
+        ],
+        "link": "https://elorientaldemonagas.com/copa-del-rey-barcelona-golea-al-valencia-y-avanza-a-semifinales/",
+        "date": "2025-02-07 01:35:26",
+        "sentiment_score": -0.06014968454837799
+    },
+    {
+        "title": "'Manita' histórica del Barça al Valencia: la derrota más dura que ha recibido Mestalla",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/07/culemania/primer-equipo/922417758_14081046_1706x960.jpg?contentId=ESPIMA20250207_0009",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250207/manita-historica-barca-valencia-derrota-recibido-mestalla/922407754_0.html",
+        "date": "2025-02-07 01:30:56",
+        "sentiment_score": 0.7046119384467602
+    },
+    {
+        "title": "Sergio Ramos estremece el piso del fútbol mexicano, donde antes brillaron otras figuras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes",
+            "monterrey",
+            "fútbol",
+            "sergio ramos"
+        ],
+        "link": "https://eltiempove.com/sergio-ramos-estremece-el-piso-del-futbol-mexicano-donde-antes-brillaron-otras-figuras/",
+        "date": "2025-02-07 01:11:53",
+        "sentiment_score": 0.30484259128570557
+    },
+    {
+        "title": "Tarjeta amarilla: Carlos Corberán",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/07/culemania/culemaniacos/922417759_14081075_1706x960.png?contentId=ESPIMA20250207_0010",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20250207/tarjeta-amarilla-carlos-corberan/922407752_0.html",
+        "date": "2025-02-07 01:09:12",
+        "sentiment_score": 0.8039303161203861
+    },
+    {
+        "title": "Sergio Ramos ficha por Rayados de Monterrey",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f1ea-1f1f8.png",
+        "tags": [
+            "rayados de monterrey",
+            "liga de méxico",
+            "deportes",
+            "fútbol",
+            "sergio ramos"
+        ],
+        "link": "https://www.elnacional.com/deportes/sergio-ramos-ficha-por-rayados-de-monterrey/",
+        "date": "2025-02-07 00:51:54",
+        "sentiment_score": 0.27531617134809494
+    },
+    {
+        "title": "06 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/06-feb-2025-partidazo-cope-20250207_3091399.html",
+        "date": "2025-02-07 00:45:11",
+        "sentiment_score": -0.21913810819387436
+    },
+    {
+        "title": "3 parte | 06 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3-parte-06-feb-2025-partidazo-cope-20250207_3091398.html",
+        "date": "2025-02-07 00:44:32",
+        "sentiment_score": -0.37588346004486084
+    },
+    {
+        "title": "Sergio Ramos estremece el piso del fútbol mexicano, donde antes brillaron otras figuras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/07/sergio-ramos-estremece-el-piso-del-futbol-mexicano-donde-antes-brillaron-otras-figuras/",
+        "date": "2025-02-07 00:30:48",
+        "sentiment_score": -0.7317667342722416
+    },
+    {
+        "title": "Llegó la fecha límite de traspasos en la NBA; es hora de mirar adelante",
+        "image_url": "https://dims.apnews.com/dims4/default/28d6453/2147483647/strip/true/crop/4038x2688+0+177/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2Fca%2F12d90ad09c98d42646103b7aabb1%2Fff851350153e4146bce260ef05b18ea5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/traspasos-nba-limite-doncic-davis-butler-lavine-c959f908a14735ab8dc3fcfc129e58cd",
+        "date": "2025-02-07 01:47:13",
+        "sentiment_score": 0.4107220210134983
+    },
+    {
+        "title": "Seis de cada diez ayuntamientos medianos siguen sin canales para denunciar corrupción, un año después de ser obligatorio",
+        "image_url": "https://www.infobae.com/resizer/v2/ZZSFNJWW7BB5HJSSHR2GUISJOY.jpg?auth=f4a5afa91ba6edd54438a7566ce5fb1981880d35e16df4c7f1261883b2c8d3a2&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/01/seis-de-cada-diez-ayuntamientos-medianos-siguen-sin-canales-para-denunciar-corrupcion-un-ano-despues-de-ser-obligatorio/",
+        "date": "2025-02-07 01:02:27",
+        "sentiment_score": -0.7641090210527182
+    },
+    {
+        "title": "Adif Acerca incrementa un 6% las asistencias a viajeros con discapacidad o movilidad reducida hasta octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/SHRYBBZSNFBJVKTK6QYKVNRAHM.jpg?auth=856a3c8e6796399eb02b02a3b0c78eaaa7e75fbb471d664d0e00576ae7ba7d9b&height=1346&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/01/adif-acerca-incrementa-un-6-las-asistencias-a-viajeros-con-discapacidad-o-movilidad-reducida-hasta-octubre/",
+        "date": "2025-02-07 01:02:12",
+        "sentiment_score": 0.20495721697807312
+    },
+    {
+        "title": "De un torneo de pádel a una gala mágica: estos son los planes solidarios contra el cáncer infantil de ENCLAVE ODS",
+        "image_url": "https://s1.elespanol.com/2025/02/06/enclave-ods/semanales/922167867_252887264_1706x960.jpg?contentId=ESPIMA20250206_0093",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/semanales/20250207/torneo-padel-gala-magica-planes-solidarios-cancer-infantil-enclave-ods/922157849_0.html",
+        "date": "2025-02-07 00:45:47",
+        "sentiment_score": 0.10649696737527847
+    },
+    {
+        "title": "Consulado de México en Chicago ofrece ayuda a migrantes detenidos por el ICE: ¿Qué recomendaciones dan?",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738894245419.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/consulado-de-mexico-en-chicago-ofrece-ayuda-a-migrantes-detenidos-por-el-ice-que-recomendaciones-dan--2025262280",
+        "date": "2025-02-07 02:08:00",
+        "sentiment_score": -0.43942898511886597
+    },
+    {
+        "title": "Luto en el periodismo deportivo: Fallece Adán Manzano durante cobertura del Super Bowl",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738894241167.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/luto-en-el-periodismo-deportivo-fallece-adan-manzano-durante-cobertura-del-super-bowl-20252621540",
+        "date": "2025-02-07 01:54:00",
+        "sentiment_score": -0.8555609676986933
+    },
+    {
+        "title": "Diosdado Cabello y Héctor Rodríguez asumen nuevos cargos dentro del PSUV",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738892291630.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/diosdado-cabello-y-hector-rodriguez-asumen-nuevos-cargos-dentro-del-psuv-20252621380",
+        "date": "2025-02-07 01:38:00",
+        "sentiment_score": 0.5171559229493141
+    },
+    {
+        "title": "Este es el monto del Bono Contra la Guerra Económica de febrero 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738880027890.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/este-es-el-monto-del-bono-contra-la-guerra-economica-de-febrero-2025-20252621300",
+        "date": "2025-02-07 01:30:00",
+        "sentiment_score": 0.24223372340202332
+    },
+    {
+        "title": "La Nasa eleva la probabilidad de que el asteroide 2024 YR4 impacte contra la Tierra: Protocolos activados",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738890465234.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/la-nasa-eleva-la-probabilidad-de-que-el-asteroide-2024-yr4-impacte-contra-la-tierra-protocolos-activados-20252621300",
+        "date": "2025-02-07 01:30:00",
+        "sentiment_score": 0.17361818253993988
+    },
+    {
+        "title": "Maduro revela que han detenido dos nuevos grupos de terroristas: Planeaban varios atentados",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738891440592.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-revela-que-han-detenido-dos-nuevos-grupos-de-terroristas-planeaban-varios-atentados-20252621260",
+        "date": "2025-02-07 01:26:00",
+        "sentiment_score": -0.21579673886299133
+    },
+    {
+        "title": "Súper Bowl LIX: ¿Cuáles son los snacks más costosos de este partido?",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738893155708.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/super-bowl-lix-cuales-son-los-snacks-mas-costosos-de-este-partido--20252621190",
+        "date": "2025-02-07 01:19:00",
+        "sentiment_score": -0.040211766958236694
+    },
+    {
+        "title": "\"Nos trataron como delincuentes\": Inmigrantes venezolanos denuncian que el ICE entró a la fuerza a su casa en Denver",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738892905866.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/migracion/nos-trataron-como-delincuentes-inmigrantes-venezolanos-denuncian-que-el-ice-entro-a-la-fuerza-a-su-casa-en-denver-20252621100",
+        "date": "2025-02-07 01:10:00",
+        "sentiment_score": -0.6098899096250534
+    },
+    {
+        "title": "Ayuda económica USA: Cuatro cheques de estímulo que podrían ayudarte en el 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738890177861.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/ayuda-economica-usa-cuatro-cheques-de-estimulo-que-podrian-ayudarte-en-el-2025--2025262120",
+        "date": "2025-02-07 01:02:00",
+        "sentiment_score": -0.009608089923858643
+    },
+    {
+        "title": "Semana Santa 2025: Fechas de la celebración religiosa en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1738858200429.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/semana-santa-2025-fechas-de-la-celebracion-religiosa-en-venezuela-2025262100",
+        "date": "2025-02-07 01:00:00",
+        "sentiment_score": 0.004284605383872986
     }
 ];
