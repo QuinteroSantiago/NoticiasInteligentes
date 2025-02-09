@@ -1,244 +1,5 @@
 export default [
     {
-        "title": "Toyota anuncia la creación de una nueva unidad de baterías y vehículos eléctricos en China",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/05/toyota-anuncia-la-creacion-de-una-nueva-unidad-de-baterias-y-vehiculos-electricos-en-china/",
-        "date": "2025-02-05 06:31:49",
-        "sentiment_score": 0.39615021273493767
-    },
-    {
-        "title": "El oro revalida máximos históricos por encima de los 2.860 dólares",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/05/el-oro-revalida-maximos-historicos-por-encima-de-los-2860-dolares/",
-        "date": "2025-02-05 06:31:32",
-        "sentiment_score": 0.4170071631669998
-    },
-    {
-        "title": "Cuál es el precio de la gasolina este 5 de febrero en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/C5M6KEBOQRDTTCVORSI5BXRQEM.jpg?auth=8f67bf8006b75932ef65d5cb4907250f9012b710b43551b04faf5caac3725871&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/02/05/cual-es-el-precio-de-la-gasolina-este-5-de-febrero-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2025-02-05 06:31:23",
-        "sentiment_score": -0.0731721930205822
-    },
-    {
-        "title": "Nissan abandona las negociaciones para fusionarse con Honda, según el diario Nikkei",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/05/nissan-abandona-las-negociaciones-para-fusionarse-con-honda-segun-el-diario-nikkei/",
-        "date": "2025-02-05 06:31:16",
-        "sentiment_score": -0.7784695066511631
-    },
-    {
-        "title": "El Santander gana un 14 % más en 2024 y bate un nuevo récord por encima de 12.500 millones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/05/el-santander-gana-un-14-mas-en-2024-y-bate-un-nuevo-record-por-encima-de-12500-millones/",
-        "date": "2025-02-05 06:15:38",
-        "sentiment_score": 0.7198473382741213
-    },
-    {
-        "title": "El Santander gana un 14 % más en 2024 y bate un nuevo récord por encima de 12.000 millones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/05/el-santander-gana-un-14-mas-en-2024-y-bate-un-nuevo-record-por-encima-de-12000-millones/",
-        "date": "2025-02-05 06:00:43",
-        "sentiment_score": 0.722556946799159
-    },
-    {
-        "title": "Fallece Antonio Romero, exlíder de IU Andalucía y exdiputado en el Congreso y Parlamento andaluz",
-        "image_url": "https://www.infobae.com/resizer/v2/7FB5GXVCPVHBLPVYRNQHT76DZ4.jpg?auth=873725b7e48cf9bf03da177b3b6568ed7ca7723f02c1eb1a2ea26b03f154a301&height=1920&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/29/fallece-antonio-romero-exlider-de-iu-andalucia-y-exdiputado-en-el-congreso-y-parlamento-andaluz/",
-        "date": "2025-02-05 05:47:00",
-        "sentiment_score": -0.8589877793565392
-    },
-    {
-        "title": "Jordi Pujol sobre si Cataluña será independiente: \"Sabemos que no lo seremos\"",
-        "image_url": "https://www.infobae.com/resizer/v2/WCT7GU2LZNAEDB2N7RFERA7SX4.jpg?auth=99e578256b5f322f807f27f2c15d90fe214fe221f0d12b800068acc8fb9c6576&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/29/jordi-pujol-sobre-si-cataluna-sera-independiente-sabemos-que-no-lo-seremos/",
-        "date": "2025-02-05 05:32:41",
-        "sentiment_score": -0.19884412363171577
-    },
-    {
-        "title": "La tecnológica francesa Inetum prevé contratar 1.500 personas en 2025 en España",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/05/la-tecnologica-francesa-inetum-preve-contratar-1500-personas-en-2025-en-espana/",
-        "date": "2025-02-05 05:30:41",
-        "sentiment_score": 0.4406733848154545
-    },
-    {
-        "title": "Tipo de cambio dólar-euro y proyecciones de este 5 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/N6735Y7DVFB5JJUW73BCVHC4QQ.jpg?auth=99302afe1eb32d5d2e91c7356b99088c8f2cdff5f423b896b1c102dbebc5f24c&height=538&smart=true&width=800",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/02/05/tipo-de-cambio-dolar-euro-y-proyecciones-de-este-5-de-febrero/",
-        "date": "2025-02-05 05:15:39",
-        "sentiment_score": -0.32036420702934265
-    },
-    {
-        "title": "Caracas tilda a Marco Rubio de «obsesionado patético» por calificar a Venezuela como «enemigo de la humanidad»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/05/marco-rubio-kh8G-U702111578943NC-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/caracas-tilda-marco-rubio-obsesionado-patetico-calificar-20250205071019-nt.html",
-        "date": "2025-02-05 06:10:19",
-        "sentiment_score": -0.35229890048503876
-    },
-    {
-        "title": "Cuándo se cobra el paro en febrero: la fecha en Caixabank, ING, Santander, BBVA y resto de bancos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/02/05/sepe-kSUD-U702070659676t-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cuando-cobra-paro-febrero-fecha-caixabank-ing-santander-bbva-bancos-20250205123135-nt.html",
-        "date": "2025-02-05 05:15:01",
-        "sentiment_score": -0.06257098913192749
-    },
-    {
-        "title": "La guerra del Real Madrid contra los árbitros y la victoria del Atlético de Madrid, protagonistas de las portadas deportivas de hoy",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/02/05/67a30106b9bcd.r_d.186-67-0.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20250205/1002401274/guerra-real-madrid-arbitros-victoria-atletico-madrid-protagonistas-portadas-deportivas-galeria-dct.html",
-        "date": "2025-02-05 06:20:48",
-        "sentiment_score": 0.21849992871284485
-    },
-    {
-        "title": "El cine vasco, a por los Premios Goya",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/83945ba5-51b3-4788-9089-3424f5cee32a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/premios-goya/2025/02/05/cine-vasco-premios-goya-9239805.html",
-        "date": "2025-02-05 06:14:53",
-        "sentiment_score": -0.6286573857069016
-    },
-    {
-        "title": "El futbolista Dean Huijsen, uno de los socios de la promotora del parque acuático del Casar de Cáceres",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a58829f-498d-46f6-8536-a2f7314f03a9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2025/02/05/futbolista-dean-huijsen-socios-promotora-114007690.html",
-        "date": "2025-02-05 06:05:39",
-        "sentiment_score": 0.1265215277671814
-    },
-    {
-        "title": "El Espanyol esquiva el descenso... por ahora: ¿qué dice la predicción de la Inteligencia Artificial?",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/02/opta-jornada-22-750x375.jpg",
-        "tags": [
-            "opta",
-            "actualidad",
-            "espanyol",
-            "predicción",
-            "inteligencia artificial"
-        ],
-        "link": "https://lagradaonline.com/opta-inteligencia-artificial-prediccion-descenso-espanyol-jornada-22-laliga-ea-sports-24-25/",
-        "date": "2025-02-05 06:00:02",
-        "sentiment_score": 0.526509489864111
-    },
-    {
-        "title": "Ángel Niño: \"Madrid se alinea con las grandes potencias tecnológicas. No podemos perder ese tren\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/30/entrevista-a-angel-nino-concejal-delegado-de-innovacion-del-ayuntamiento-de-madrid.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/noticia/5679207/0/angel-nino-madrid-se-esta-alineando-con-las-grandes-potencias-tecnologicas-no-podemos-perder-ese-tren/",
-        "date": "2025-02-05 06:00:00",
-        "sentiment_score": 0.26671819016337395
-    },
-    {
-        "title": "Los buses interurbanos del corredor de la A-3 reubican sus cabeceras durante las obras en Conde de Casal",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/02/04/mapa-con-las-nuevas-cabeceras-de-los-buses-interurbanos-afectados-por-las-obras-de-conde-de-casal.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/noticia/5679254/0/los-buses-interurbanos-del-corredor-de-la-a-3-reubican-sus-cabeceras-durante-las-obras-en-conde-de-casal/",
-        "date": "2025-02-05 06:00:00",
-        "sentiment_score": -0.0277983620762825
-    },
-    {
-        "title": "Joan García responde a las críticas desde Madrid: indiferencia total",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/02/joan-garcia-espanyol-madrid-750x375.jpg",
-        "tags": [
-            "mbappe",
-            "espanyol",
-            "carlos romero",
-            "real madrid",
-            "joan garcía",
-            "actualidad"
-        ],
-        "link": "https://lagradaonline.com/joan-garcia-espanyol-real-madrid-carlos-romero-mbappe/",
-        "date": "2025-02-05 05:58:53",
-        "sentiment_score": 0.0585445761680603
-    },
-    {
-        "title": "La asesora de negocios imputada de Begoña Gómez tiene limitado su cargo a actos de Presidencia del Gobierno",
-        "image_url": "https://s.libertaddigital.com/2024/12/20/cristina-alvarez291124-16-9_1.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2025-02-05/la-asesora-de-negocios-imputada-de-begona-gomez-tiene-limitado-su-cargo-a-actos-de-presidencia-del-gobierno-7215444/",
-        "date": "2025-02-05 05:42:17",
-        "sentiment_score": -0.7360959444195032
-    },
-    {
-        "title": "Trump asegura que está teniendo \"conversaciones muy constructivas\" con Ucrania y Rusia",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250205063412_120.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.europapress.es/internacional/noticia-trump-asegura-teniendo-conversaciones-muy-constructivas-ucrania-rusia-20250205063412.html",
-        "date": "2025-02-05 05:34:12",
-        "sentiment_score": -0.3457101434469223
-    },
-    {
-        "title": "El menor que profirió insultos racistas a Vinícius en Vallecas se disculpa y realizará trabajos socioeducativos",
-        "image_url": "https://www.infobae.com/resizer/v2/RKJCNTHFSNDKPCXMWNO4EDBQPM.jpg?auth=cf5bd69a05601869090bdd5b0987611e9aad9fcf33eeae2c095584eb6aff2ae2&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/11/29/el-menor-que-profirio-insultos-racistas-a-vinicius-en-vallecas-se-disculpa-y-realizara-trabajos-socioeducativos/",
-        "date": "2025-02-05 05:32:03",
-        "sentiment_score": -0.7643257156014442
-    },
-    {
-        "title": "'La infiltrada', el 'thriller' sobre ETA que aspira a lo más alto en los Goya y ha seducido a los espectadores",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7b6b8df-307f-4bd8-9790-c4690100f0d5_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/ocio/cine/2025/02/05/infiltrada-thriller-eta-aspira-alto-114013005.html",
-        "date": "2025-02-05 06:31:40",
-        "sentiment_score": -0.061243653297424316
-    },
-    {
         "title": "Técnicas Reunidas logra un contrato de 3.260 millones en Emiratos y sube un 5,58% en bolsa",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -387,19 +148,6 @@ export default [
         "link": "https://cnnespanol.cnn.com/video/analisis-economia-argentina-enero-2025-primera-manana-fast/",
         "date": "2025-02-05 12:58:25",
         "sentiment_score": -0.03071559965610504
-    },
-    {
-        "title": "Última hora en la guerra en Gaza: Trump dice que tomará el control, repercusiones en la región, noticias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
-        "tags": [
-            "guerra medio oriente",
-            "hamas",
-            "medio oriente",
-            "israel noticias"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/02/05/guerra-gaza-trump-gaza-palestinos-en-vivo-trax/",
-        "date": "2025-02-05 08:12:07",
-        "sentiment_score": -0.040678005665540695
     },
     {
         "title": "El jefe del centro de ideas del Ministerio de Hacienda aboga por bloquear el acceso a Muface a los nuevos funcionarios",
@@ -8077,5 +7825,386 @@ export default [
         "link": "https://www.clm24.es/articulo/viral/muere-hombre-arrollado-tren-estacion-cuando-manipulaba-bici/20250208175115443405.html",
         "date": "2025-02-08 16:51:15",
         "sentiment_score": -0.37010161206126213
+    },
+    {
+        "title": "Eva Santidrián lidera una tarde 'mágica' para el 400 español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/08/eva-santidrian-lidera-una-tarde-magica-para-el-400-espanol/",
+        "date": "2025-02-08 22:01:29",
+        "sentiment_score": 0.7252273373305798
+    },
+    {
+        "title": "El día que el fútbol se detuvo en el minuto 20 para apoyar a Kirian Rodríguez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/08/el-dia-que-el-futbol-se-detuvo-en-el-minuto-20-para-apoyar-a-kirian-rodriguez/",
+        "date": "2025-02-08 22:01:13",
+        "sentiment_score": -0.10279656946659088
+    },
+    {
+        "title": "Mbappé iguala el gol de Julián Álvarez y el derbi acaba en empate (1-1)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/08/mbappe-iguala-el-gol-de-julian-alvarez-y-el-derbi-acaba-en-empate-1-1/",
+        "date": "2025-02-08 22:00:56",
+        "sentiment_score": 0.41325270384550095
+    },
+    {
+        "title": "Diego Martínez: \"Hemos merecido puntuar, pero nos ha faltado eficacia en el área rival\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/08/diego-martinez-hemos-merecido-puntuar-pero-nos-ha-faltado-eficacia-en-el-area-rival/",
+        "date": "2025-02-08 21:31:20",
+        "sentiment_score": -0.6453679390251637
+    },
+    {
+        "title": "La gala de los Goya comienza con un emocionado recuerdo a las víctimas de la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/08/la-gala-de-los-goya-comienza-con-un-emocionado-recuerdo-a-las-victimas-de-la-dana/",
+        "date": "2025-02-08 21:31:00",
+        "sentiment_score": -0.44361771643161774
+    },
+    {
+        "title": "Estos son todos los ganadores de los Premios Goya 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/5VPW26BNTNEL7D2U4HQBGTFTNE.jpg?auth=76d95aa02e776e81ca52f78b7a4c590c91dfbf6d75d6068430d93acef6e84028&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/02/08/estos-son-todos-los-ganadores-de-los-premios-goya-2025/",
+        "date": "2025-02-08 21:30:01",
+        "sentiment_score": 0.39611775428056717
+    },
+    {
+        "title": "Ayuso preside este martes en Sol el acto institucional con el que la Comunidad celebra el Día de la Constitución",
+        "image_url": "https://www.infobae.com/resizer/v2/3VY3XUME6RFJDAUDVBO44XYHJE.jpg?auth=8181be76905c55e6f59da665405a7478cfd6893f003cba1492ef4cd74c09e667&height=1268&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/02/ayuso-preside-este-martes-en-sol-el-acto-institucional-con-el-que-la-comunidad-celebra-el-dia-de-la-constitucion/",
+        "date": "2025-02-08 21:17:34",
+        "sentiment_score": 0.30027660354971886
+    },
+    {
+        "title": "Sánchez apela a la \"tolerancia y la diversidad\" frente a los discursos de \"regresión\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/08/sanchez-apela-a-la-tolerancia-y-la-diversidad-frente-a-los-discursos-de-regresion/",
+        "date": "2025-02-08 21:16:36",
+        "sentiment_score": -0.2855537533760071
+    },
+    {
+        "title": "La Primitiva: jugada ganadora y resultado del último sorteo",
+        "image_url": "https://www.infobae.com/resizer/v2/B6SNRWNAUFFC3IPYM2HZXRP7UU.jpg?auth=ba79ed2b621f422599334d6b3984c8e1d1ee0a33e8962b3d80256d9ac6ddb09b&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/08/la-primitiva-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
+        "date": "2025-02-08 21:15:56",
+        "sentiment_score": 0.4468725733458996
+    },
+    {
+        "title": "Las grandes ausencias de los Premios Goya 2025: de Pedro Almodóvar a Karla Sofía Gascón",
+        "image_url": "https://www.infobae.com/resizer/v2/ZULBVFKOWFDSTB6NVX3YVZ6TX4.jpg?auth=0b099c68eed57d1c77b4143ac54abf93995d4ce92c105038f0e39b7b45514ccf&height=2205&smart=true&width=3920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/08/las-grandes-ausencias-de-los-premios-goya-2025-de-pedro-almodovar-a-karla-sofia-gascon/",
+        "date": "2025-02-08 21:06:29",
+        "sentiment_score": 0.6652352102100849
+    },
+    {
+        "title": "Un hombre vandaliza el altar de la Basílica de San Pedro en el Vaticano",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/nested-sequence-05-00-00-07-05-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/vaticano-altar-vandaliza-basilica-orix/",
+        "date": "2025-02-08 18:02:49",
+        "sentiment_score": -0.8658331539481878
+    },
+    {
+        "title": "Cómplices absolutos",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/02/06/gc-kmTC--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/felix-machuca-complices-absolutos-20250209221513-nts.html",
+        "date": "2025-02-08 21:16:35",
+        "sentiment_score": -0.20811544358730316
+    },
+    {
+        "title": "¿La España irreversible?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/02/09/tribuna-revolucion-RqNoBbMC4KW6Qi5O2FUCvGL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/rogelio-reyes-espana-irreversible-20250209221523-nts.html",
+        "date": "2025-02-08 21:15:23",
+        "sentiment_score": -0.05752533674240112
+    },
+    {
+        "title": "La mezquindad incendiaria de Vox... y la gasolina del PSOE",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/02/09/abascal-RSgPcqsCwwswunLWeMUcXdK-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teodoro-leon-gross-mezquindad-incendiaria-vox-gasolina-psoe-20250209221505-nts.html",
+        "date": "2025-02-08 21:15:05",
+        "sentiment_score": -0.15175050497055054
+    },
+    {
+        "title": "La Concordia intransitable",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/02/05/aeropuerto_3-U56504305668Rnm-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-concordia-intransitable-20250209115511-nts.html",
+        "date": "2025-02-08 21:14:51",
+        "sentiment_score": -0.03917175531387329
+    },
+    {
+        "title": "Los cucos de lo cuqui",
+        "image_url": "https://s1.abcstatics.com/huelva24/www/multimedia/gurme/2025/02/05/plato-atun-huelva-U62368531320ACp-170x119@huelva24.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/daniel-ruiz-cucos-cuqui-20250209221445-nts.html",
+        "date": "2025-02-08 21:14:45",
+        "sentiment_score": -0.1036580502986908
+    },
+    {
+        "title": "El señor Juan Espadas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/02/09/tribuna-espadas-RDAltDzcLkJfeaZSpvub7JL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/senor-juan-espadas-20250209221436-nts.html",
+        "date": "2025-02-08 21:14:37",
+        "sentiment_score": -0.026610583066940308
+    },
+    {
+        "title": "I love Japan",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/08/ShigeruIshiba-Rkjy38dF62p7HGtRRh6I5NK-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/jose-m-de-areilza-love-japan-20250208163604-nt.html",
+        "date": "2025-02-08 20:04:38",
+        "sentiment_score": -0.16265295445919037
+    },
+    {
+        "title": "Megaoperativo policial de Perú y EE.UU. captura a 20 miembros del Tren de Aragua en Lima",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/08/hsi-RFVOMCe9jjA96oIlbqrAYzM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/megaoperativo-policial-peru-eeuu-captura-miembros-tren-20250208205126-nt.html",
+        "date": "2025-02-08 19:57:52",
+        "sentiment_score": -0.055317461490631104
+    },
+    {
+        "title": "Gaza: la teoría del 'hombre loco'",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/28/ibuprofeno-paracetamol-famaceutica.explica-cual-usar-kJ3D--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-gaza-teoria-hombre-loco-20250209193555-nt.html",
+        "date": "2025-02-08 19:19:01",
+        "sentiment_score": -0.14224566519260406
+    },
+    {
+        "title": "Generación del tatuaje",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/02/09/1480540014-U53603164523EMd-1200x630@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-generacion-tatuaje-20250209195815-nt.html",
+        "date": "2025-02-08 18:59:49",
+        "sentiment_score": -0.08089441061019897
+    },
+    {
+        "title": "El Ceuta, a ganar y soñar con todo",
+        "image_url": "https://elfarodeceuta.es/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "ad ceuta",
+            "estadio alfonso murube",
+            "deportes",
+            "futbol"
+        ],
+        "link": "https://elfarodeceuta.es/ceuta-ganar-sonar-con-todo/",
+        "date": "2025-02-08 22:14:14",
+        "sentiment_score": 0.6293405070900917
+    },
+    {
+        "title": "Los goles de Julián y Mbappé en el derbi",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/02/08/realmadrid-atletico-vi--758x531.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/deportes/futbol/la-liga/liga-primera/goles-julian-mbappe-derbi-20250208231314-ntrc.html",
+        "date": "2025-02-08 22:13:17",
+        "sentiment_score": 0.19340820610523224
+    },
+    {
+        "title": "Asombro en el Real Madrid: pisar a un rival no vale",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/fc3e70f1cb60a7f6ce2136af0fd2656b/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/08/17390525586782.jpg",
+        "tags": [
+            "diego simeone",
+            "julián álvarez",
+            "real madrid",
+            "atlético de madrid",
+            "fútbol",
+            "artículos iñako díaz-guerra",
+            "carlo ancelotti"
+        ],
+        "link": "https://www.elmundo.es/deportes/futbol/primera-division/2025/02/08/67a7d639e9cf4a0b238b457f.html",
+        "date": "2025-02-08 22:13:08",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Real Madrid y Atlético firman tablas en una alocada batalla que beneficia al Barça de Flick",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/08/culemania/real-madrid/922667823_14089772_1706x960.jpg?contentId=ESPIMA20250208_0099",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20250208/real-madrid-atletico-alocada-beneficia-barca-flick/922657795_0.html",
+        "date": "2025-02-08 22:10:14",
+        "sentiment_score": 0.2350330650806427
+    },
+    {
+        "title": "Real Madrid y Atlético firman las tablas en el Bernabéu en otro polémico partido",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/02/08/67a7d3e9dff5a.r_d.1156-468.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250208/real-madrid-atletico-firman-tablas-bernabeu-otro-polemico-partido_268560.html",
+        "date": "2025-02-08 22:01:09",
+        "sentiment_score": 0.21925665438175201
+    },
+    {
+        "title": "Paco González reacciona a la increíble premonición de Rubén Martín sobre los penaltis: \"Hay dos equipos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/02/08/67a7d33378ef8.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/paco-gonzalez-reacciona-increible-premonicion-ruben-martin-sobre-penaltis-hay-dos-equipos-20250208_3092371.html",
+        "date": "2025-02-08 22:00:43",
+        "sentiment_score": -0.0563279390335083
+    },
+    {
+        "title": "El Atlético de Simeone, casi 9 años sin victorias en el Bernabéu",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/08/el-atletico-de-simeone-casi-9-anos-sin-victorias-en-el-bernabeu/",
+        "date": "2025-02-08 22:00:16",
+        "sentiment_score": -0.7899415399879217
+    },
+    {
+        "title": "El",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/02/08/el-delantero-brasileno-del-real-madrid-rodrygo-se-lleva-el-balon-ante-el-defensa-del-atletico-de-madrid-javi-galan-durante-el-encuentro-de-este-sabado-en-el-estadio-santiago-bernabeu-en-madrid.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/el-real-madrid-atletico-madrid-sellan-derbi-madrileno-empate-11.html",
+        "date": "2025-02-08 21:59:34",
+        "sentiment_score": 0.16820964217185974
+    },
+    {
+        "title": "Real Madrid y Atlético empatan un derbi con polémica arbitral",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/02/florentino-conjura-mundial-469x317.jpg",
+        "tags": [
+            "luka modric",
+            "real madrid",
+            "santiago bernabéu",
+            "rodrygo goes",
+            "vinicius jr",
+            "diego pablo 'cholo' simeone",
+            "fútbol",
+            "antoine griezmann",
+            "atlético de madrid",
+            "kylian mbappé",
+            "thibaut courtois",
+            "jude bellingham",
+            "la liga"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2025-02-08/resumen-goles-real-madrid-atletico-liga/",
+        "date": "2025-02-08 21:58:57",
+        "sentiment_score": 0.5436975359916687
+    },
+    {
+        "title": "«Ryanair paga en Asturias la tasa por viajero más baja de Europa: 2 euros»",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/02/08/102206213-kf9D--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/asturias/ryanair-paga-asturias-tasa-viajero-baja-europa-20250209223446-nt.html",
+        "date": "2025-02-08 21:54:05",
+        "sentiment_score": -0.3314582034945488
+    },
+    {
+        "title": "La IA como aliada del oftalmólogo: más empatía en consulta y mejor diagnóstico",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c77a18b6-1e10-49e9-ad0b-84c649a27c45_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/elche/2025/02/08/oftalmologo-inteligencia-artificial-ia-facoelche-114112483.html",
+        "date": "2025-02-08 21:38:56",
+        "sentiment_score": 0.10696710646152496
+    },
+    {
+        "title": "Polideportivo malagueño: Importantes victorias de Los Dólmenes y el Ciudad Redonda",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/02/08/FotoJet(24)-U64057448227VwH-1920x1080@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosur.es/deportes/mas-deportes/polideportivo-malagueno-importantes-victorias-dolmenes-ciudad-redonda-20250208223639-nt.html",
+        "date": "2025-02-08 21:36:40",
+        "sentiment_score": 0.8072544988244772
+    },
+    {
+        "title": "El Govern de Illa cumple seis meses obligado a la geometría variable para cumplir sus promesas",
+        "image_url": "https://static.eldiario.es/clip/decf01bb-d6ef-4b21-83a1-7c5c12b202fc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/catalunya/govern-illa-cumple-seis-meses-obligado-geometria-variable-cumplir-promesas_1_12034447.html",
+        "date": "2025-02-08 21:33:02",
+        "sentiment_score": -0.0488753616809845
+    },
+    {
+        "title": "Cuánto puede empeorar la crisis de la vivienda en tres meses",
+        "image_url": "https://static.eldiario.es/clip/b1269965-cd56-4a01-ad32-4ef3082ab2f4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.eldiario.es/economia/empeorar-crisis-vivienda-tres-meses_1_12034895.html",
+        "date": "2025-02-08 21:33:01",
+        "sentiment_score": -0.021405786275863647
+    },
+    {
+        "title": "No es 'El 47': esta es la película por la que Eduard Fernández está nominado al Goya",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/08/creacion/922667817_14089618_1706x960.jpg?contentId=ESPIMA20250208_0093",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20250208/no-el-47-pelicula-eduard-fernandez-nominado-goya/922657798_0.html",
+        "date": "2025-02-08 21:23:11",
+        "sentiment_score": 0.07556266710162163
     }
 ];
