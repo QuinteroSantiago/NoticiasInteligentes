@@ -1,204 +1,5 @@
 export default [
     {
-        "title": "El precio de la discrepancia en Vox",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/06/el-precio-de-la-discrepancia-en-vox/",
-        "date": "2025-02-06 06:16:47",
-        "sentiment_score": -0.08290956914424896
-    },
-    {
-        "title": "Marlaska niega que el PSOE o el Gobierno hayan quedado \"comprometidos\" por la declaración de Lobato",
-        "image_url": "https://www.infobae.com/resizer/v2/HIS6Z7OJBRBBTJWZSUMCNVCQWQ.jpg?auth=cc08ac3ca27a0925840b05dd419ac51772e88e39968afdc3005d97c73a835e22&height=1210&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/30/marlaska-niega-que-el-psoe-o-el-gobierno-hayan-quedado-comprometidos-por-la-declaracion-de-lobato/",
-        "date": "2025-02-06 05:32:18",
-        "sentiment_score": -0.8013890795409679
-    },
-    {
-        "title": "Chaves subraya que está \"disponible\" para el PSOE, que \"ha echado de mí para muchas cosas que se ven y no\"",
-        "image_url": "https://www.infobae.com/resizer/v2/UQ6XKTWQIREZ7O2CWASUPIFAOQ.jpg?auth=9ce9ff9490a669a9ed9889ac7c086173fc8f3c0ee7a71ca95ae3bd2a5efd415a&height=1278&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/11/30/chaves-subraya-que-esta-disponible-para-el-psoe-que-ha-echado-de-mi-para-muchas-cosas-que-se-ven-y-no/",
-        "date": "2025-02-06 05:32:02",
-        "sentiment_score": -0.4292760640382767
-    },
-    {
-        "title": "IC-A pide a la CNMV que analice si hubo una \"acción concertada\" en el cese de Pallete",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/06/ic-a-pide-a-la-cnmv-que-analice-si-hubo-una-accion-concertada-en-el-cese-de-pallete/",
-        "date": "2025-02-06 05:30:24",
-        "sentiment_score": -0.39795946329832077
-    },
-    {
-        "title": "El BCNegra comienza este jueves con una exposición sobre Barcelona, Marsella y Nápoles",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/06/el-bcnegra-comienza-este-jueves-con-una-exposicion-sobre-barcelona-marsella-y-napoles/",
-        "date": "2025-02-06 05:15:55",
-        "sentiment_score": 0.10371047258377075
-    },
-    {
-        "title": "Actualización del tipo de cambio dólar-euro hoy 6 de febrero",
-        "image_url": "https://www.infobae.com/resizer/v2/IB2WW4GLNNGBBMWCT2FWQTETIM.jpg?auth=580aa3300c51e568e1a48c07678142ec6d52bc93ae4452c70919ac7c608e9ab2&height=538&smart=true&width=800",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/02/06/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-6-de-febrero/",
-        "date": "2025-02-06 05:15:26",
-        "sentiment_score": 0.26047976315021515
-    },
-    {
-        "title": "El Canal de Panamá desmiente que haya ajustado las tarifas a los buques de EE.UU.",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/06/canal-panama-k6XD-U70217777805fa-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/canal-panama-desmiente-ajustado-tarifas-buques-eeuu-20250206065015-nt.html",
-        "date": "2025-02-06 05:50:42",
-        "sentiment_score": -0.16352571547031403
-    },
-    {
-        "title": "Trump llega tarde",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/02/05/Trumpreuters-RW32TICmcWWixFCIZjBKKxL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/john-muller-trump-llega-tarde-20250205194238-nt.html",
-        "date": "2025-02-06 05:23:02",
-        "sentiment_score": -0.16987712681293488
-    },
-    {
-        "title": "Defendámonos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/99cc83d9-f26b-474a-9ddb-fc00b803c350_source-aspect-ratio_default_0.jpeg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.deia.eus/opinion/2025/02/06/defendamonos-9245056.html",
-        "date": "2025-02-06 06:22:38",
-        "sentiment_score": -0.056563302874565125
-    },
-    {
-        "title": "El parque automovilístico español tiene una media de 14 años y 166.000 kilómetros de media",
-        "image_url": "https://static.grupojoly.com/clip/c0193293-7cd3-42f7-ab2c-910466e4edd3_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.diariodecadiz.es/motor/parque-automovilistico-espanol-media-14_0_2003288557.html",
-        "date": "2025-02-06 06:00:51",
-        "sentiment_score": 0.12783025205135345
-    },
-    {
-        "title": "El Espanyol quiere romper el maleficio vasco ante una Real Sociedad en crisis",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/02/real-sociedad-imanol-alguacil-espanyol-manolo-gonzalez-750x375.jpg",
-        "tags": [
-            "datos",
-            "real sociedad",
-            "actualidad",
-            "estadísticas",
-            "espanyol"
-        ],
-        "link": "https://lagradaonline.com/real-sociedad-espanyol-previa-datos-estadisticas-jornada-23-laliga-ea-sports/",
-        "date": "2025-02-06 06:00:43",
-        "sentiment_score": 0.5519519150257111
-    },
-    {
-        "title": "El fútbol español afea la pataleta del Madrid mientras Florentino inicia su batalla legal",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/02/florentino-perez-real-madrid-750x375.jpg",
-        "tags": [
-            "espanyol",
-            "real madrid",
-            "actualidad"
-        ],
-        "link": "https://lagradaonline.com/real-madrid-espanyol-arbitraje-audios-var-comunicado-reacciones-denuncia/",
-        "date": "2025-02-06 05:55:27",
-        "sentiment_score": -0.7425981909036636
-    },
-    {
-        "title": "La declaración de la jefa de prensa de la RFEF contradice a la fiscal: «De la Fuente no participó en la reunión»",
-        "image_url": "https://okdiario.com/img/2025/02/05/el-sumario-del-caso-rubiales-interior.jpg",
-        "tags": [
-            "luis rubiales",
-            "juzgado",
-            "fiscalía de la audiencia nacional",
-            "audiencia nacional",
-            "españa",
-            "tribunales",
-            "jenni hermoso",
-            "besos"
-        ],
-        "link": "https://okdiario.com/espana/declaracion-jefa-prensa-rfef-contradice-fiscal-fuente-no-participo-reunion-14237397",
-        "date": "2025-02-06 05:53:05",
-        "sentiment_score": -0.12005427479743958
-    },
-    {
-        "title": "La Complutense revela pagos de 55.875 € a Begoña Gómez por unos másters que llegaron a tener 8 alumnos",
-        "image_url": "https://okdiario.com/img/2025/02/05/la-complutense-revela-interior-1.jpg",
-        "tags": [
-            "begoña gómez",
-            "universidad complutense de madrid",
-            "españa",
-            "pedro sánchez",
-            "psoe",
-            "gobierno"
-        ],
-        "link": "https://okdiario.com/espana/complutense-revela-pagos-55-875-begona-gomez-unos-masters-que-llegaron-tener-8-alumnos-14237446",
-        "date": "2025-02-06 05:45:58",
-        "sentiment_score": -0.242856964468956
-    },
-    {
-        "title": "En el Infierno de Dante, relatos de los vicios impenitentes",
-        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/02/Captura-de-pantalla-2025-02-05-232749.png",
-        "tags": [
-            "opinión",
-            "columnista"
-        ],
-        "link": "https://www.elnacional.com/opinion/en-el-infierno-de-dante-relatos-de-los-vicios-impenitentes/",
-        "date": "2025-02-06 05:21:29",
-        "sentiment_score": -0.25842398405075073
-    },
-    {
-        "title": "Las declaraciones apuntan que García Ortiz dio la «orden» directa de acceder a los datos del novio de Ayuso",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/04/24/66292e33b869a.r_d.763-759.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20250206/declaraciones-apuntan-garcia-ortiz-dio-orden-directa-acceder-datos-novio-ayuso_267695.html",
-        "date": "2025-02-06 05:17:36",
-        "sentiment_score": -0.021765075623989105
-    },
-    {
-        "title": "Ronaldo y Shakira, precedentes para la Abogacía que justifican la difusión de la nota de prensa sobre el novio de Ayuso",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e556123a-07dc-4dfe-a9f3-4f5f3e92663e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/nacional/2025/02/06/ronaldo-shakira-precedentes-abogacia-justifican-nota-de-prensa-novio-ayuso-114042338.html",
-        "date": "2025-02-06 06:30:45",
-        "sentiment_score": -0.7563796378672123
-    },
-    {
-        "title": "El tiempo en Barcelona y resto de Catalunya, en directo: última hora de las lluvias y el frío",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be124111-2263-48a4-aade-951b94684f8c_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20250206/el-tiempo-barcelona-cataluna-lluvia-frio-ultima-hora-directo-114042903",
-        "date": "2025-02-06 06:26:39",
-        "sentiment_score": 0.023691445589065552
-    },
-    {
         "title": "El FMI y Argentina trabajan de manera \"constructiva y frecuente\" en el nuevo programa",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -7402,5 +7203,401 @@ export default [
         "link": "https://www.heraldo.es/noticias/nacional/2025/02/09/menor-critico-dos-heridos-atropello-cuando-iban-bici-castellar-del-valles-barcelona-1798431.html",
         "date": "2025-02-09 16:45:45",
         "sentiment_score": -0.8304480630904436
+    },
+    {
+        "title": "Abascal interviene mañana en una cumbre política conservadora en Argentina y se verá con Milei",
+        "image_url": "https://www.infobae.com/resizer/v2/J7EG64CKV5GYFPPNFINO3KPEXQ.jpg?auth=e25ca466d4843e4e6954249f81f53fbb5342c0afb1d2b1e2a20a4f97afa73983&height=1278&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/03/abascal-interviene-manana-en-una-cumbre-politica-conservadora-en-argentina-y-se-vera-con-milei/",
+        "date": "2025-02-09 22:02:00",
+        "sentiment_score": 0.010225038975477219
+    },
+    {
+        "title": "Qué le pasa a tu cuerpo cuando duermes con dos almohadas: una fisioterapeuta lo explica",
+        "image_url": "https://www.infobae.com/resizer/v2/M2WFVSO4NFH7PLYISIA7VGJGWE.jpg?auth=1ab2ae401f38e6e46fe2f3696300adb0985bd3df192043b702aeebb95cb02207&height=653&smart=true&width=1161",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/09/que-le-pasa-a-tu-cuerpo-cuando-duermes-con-dos-almohadas-una-fisioterapeuta-lo-explica/",
+        "date": "2025-02-09 21:34:11",
+        "sentiment_score": -0.8979938179254532
+    },
+    {
+        "title": "Resultados de Bonoloto del 9 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/5LDRG2EARVE4RILICN24K67TJU.jpg?auth=b27126e121b00995235d98c4729e67e7dc4197238913745f864bb922bc83e9e9&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/09/resultados-de-bonoloto-del-9-de-febrero/",
+        "date": "2025-02-09 21:15:54",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "El Huesca se mete de lleno en la pelea por el ascenso directo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/09/el-huesca-se-mete-de-lleno-en-la-pelea-por-el-ascenso-directo/",
+        "date": "2025-02-09 21:03:03",
+        "sentiment_score": -0.08897291123867035
+    },
+    {
+        "title": "(27-28) Marcos Cancio impulsa al Anaitasuna a una justa victoria en Nava de la Asunción",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/09/27-28-marcos-cancio-impulsa-al-anaitasuna-a-una-justa-victoria-en-nava-de-la-asuncion/",
+        "date": "2025-02-09 21:02:46",
+        "sentiment_score": 0.7360144108533859
+    },
+    {
+        "title": "Los agricultores catalanes desconvocan los cortes al llegar a un pacto con el Govern",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/09/los-agricultores-catalanes-desconvocan-los-cortes-al-llegar-a-un-pacto-con-el-govern/",
+        "date": "2025-02-09 21:02:25",
+        "sentiment_score": 0.023336142301559448
+    },
+    {
+        "title": "Estos son los ingredientes verdaderos de la ensaladilla rusa, según una nativa residente en España: “Es bastante distinta”",
+        "image_url": "https://www.infobae.com/resizer/v2/LEBDZMCGJBB23BDVILKBSDHYHI.jpg?auth=7e1e14264a09a82add8d9b4dde0d037b3a2bfe95beefecf173ce808272afd801&height=2772&smart=true&width=4928",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/09/estos-son-los-ingredientes-verdaderos-de-la-ensaladilla-rusa-segun-una-nativa-residente-en-espana-es-bastante-distinta/",
+        "date": "2025-02-09 20:50:06",
+        "sentiment_score": -0.3334607444703579
+    },
+    {
+        "title": "Super Once: estos son los números ganadores del Sorteo 5 de este 9 febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/3QMNG3YTBFCF5FOOPV4W4PEUR4.jpg?auth=0c6015e95cf7834b4e9215274c934bbebad9fcef9b93ef1255e2c6043c223ff7&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/09/super-once-estos-son-los-numeros-ganadores-del-sorteo-5-de-este-9-febrero/",
+        "date": "2025-02-09 20:45:25",
+        "sentiment_score": 0.023861072957515717
+    },
+    {
+        "title": "Alguacil: \"El equipo estará más o menos fino, pero el esfuerzo nunca falta\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/09/alguacil-el-equipo-estara-mas-o-menos-fino-pero-el-esfuerzo-nunca-falta/",
+        "date": "2025-02-09 20:32:21",
+        "sentiment_score": 0.19360601902008057
+    },
+    {
+        "title": "5-2. Goleada del Cádiz al Cartagena en su octavo partido seguido sin perder",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/09/5-2-goleada-del-cadiz-al-cartagena-en-su-octavo-partido-seguido-sin-perder/",
+        "date": "2025-02-09 20:02:53",
+        "sentiment_score": 0.6949274726212025
+    },
+    {
+        "title": "¿Qué les preocupa a los ecuatorianos antes de votar?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/que-les-preocupa-ecuatorianos-votar-elecciones/",
+        "date": "2025-02-09 20:26:36",
+        "sentiment_score": -0.1577378697693348
+    },
+    {
+        "title": "Análisis: la crisis de seguridad en la frontera de México y EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/crisis-seguridad-frontera-estados-unidos-fentanilo-armas-mexico-opina-tv-fast/",
+        "date": "2025-02-09 20:21:35",
+        "sentiment_score": -0.3752955049276352
+    },
+    {
+        "title": "Elecciones en Ecuador: ciudadanos acuden a las urnas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2197994251.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/elecciones-ecuador-votar-urnas-ciudadanos/",
+        "date": "2025-02-09 19:35:05",
+        "sentiment_score": 0.16070085391402245
+    },
+    {
+        "title": "Las cosas han cambiado, a peor",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-cambiado-peor-20250210201050-nts.html",
+        "date": "2025-02-09 20:44:07",
+        "sentiment_score": -0.12105011940002441
+    },
+    {
+        "title": "¡Te vah a enterá(r)!",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/02/10/librow-RMdNBUpcIhjdIixnUkfCeAM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-narbona-vah-enterar-20250210213907-nts.html",
+        "date": "2025-02-09 20:41:29",
+        "sentiment_score": -0.11724215745925903
+    },
+    {
+        "title": "El 'Sputnik' chino",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/02/10/ENFOQUEABC_Sputnikchino_SORMAN-RUfEt0R1ApWSi1M9tkFh7gN-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-sputnik-chino-20250210145443-nt.html",
+        "date": "2025-02-09 18:50:31",
+        "sentiment_score": -0.12161366641521454
+    },
+    {
+        "title": "San Valentín",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/02/05/aeropuerto_3-U56504305668Rnm-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-san-valentin-20250210150436-nt.html",
+        "date": "2025-02-09 18:50:14",
+        "sentiment_score": -0.011828988790512085
+    },
+    {
+        "title": "Cuando el cine es un espejo",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/01/28/ibuprofeno-paracetamol-famaceutica.explica-cual-usar-kJ3D--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-cine-espejo-20250210142401-nt.html",
+        "date": "2025-02-09 18:49:49",
+        "sentiment_score": -0.10237419605255127
+    },
+    {
+        "title": "La 'fachaparty' y las verdes colinas de la izquierda",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-fachaparty-verdes-colinas-izquierda-20250210140606-nt.html",
+        "date": "2025-02-09 18:49:25",
+        "sentiment_score": -0.15474027395248413
+    },
+    {
+        "title": "La derecha está a punto de explotar",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/02/06/coche-U23316875677QIZ-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-derecha-punto-explotar-20250210141303-nt.html",
+        "date": "2025-02-09 18:49:00",
+        "sentiment_score": -0.12816250324249268
+    },
+    {
+        "title": "Extrema derecha caniche",
+        "image_url": "https://s2.ppllstatics.com/burgosconecta/www/multimedia/2025/02/06/monjas-cismaticas-belorado-2-k4hE--170x119@Burgosconecta.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-extrema-derecha-caniche-20250210165110-nt.html",
+        "date": "2025-02-09 18:48:40",
+        "sentiment_score": -0.15588775277137756
+    },
+    {
+        "title": "La cruel dictadora",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/02/10/ABCTERCERA_Crueldictadora_GONZALEZ-RfM2pQEn2dHfKC9xdGnyh1J-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/john-mario-gonzalez-cruel-dictadora-20250210191906-nt.html",
+        "date": "2025-02-09 18:26:19",
+        "sentiment_score": -0.1027570366859436
+    },
+    {
+        "title": "Queremos tanto a Trump",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-queremos-trump-20250210190123-nt.html",
+        "date": "2025-02-09 18:23:27",
+        "sentiment_score": -0.060260891914367676
+    },
+    {
+        "title": "LaLiga adquiere un tono rojo intenso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/09/laliga-adquiere-un-tono-rojo-intenso/",
+        "date": "2025-02-09 22:16:16",
+        "sentiment_score": -0.1443467140197754
+    },
+    {
+        "title": "Momentos de la jornada 23",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/09/momentos-de-la-jornada-23/",
+        "date": "2025-02-09 22:15:38",
+        "sentiment_score": 0.05128934606909752
+    },
+    {
+        "title": "El Barça se agarra de nuevo a la Liga",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/02/09/raphinha-kuBE-U230809504450lhF-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/deportes/futbol/liga-primera/cronica-sevilla-barcelona-jornada23-primera-20250209223129-ntrc.html",
+        "date": "2025-02-09 22:14:48",
+        "sentiment_score": 0.3462591841816902
+    },
+    {
+        "title": "El Barça se agarra a la Liga",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/02/09/raphinha-kuBE-U230809504450lhF-1200x840@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/cronica-sevilla-barcelona-jornada23-primera-20250209223129-ntrc.html",
+        "date": "2025-02-09 22:11:24",
+        "sentiment_score": 0.05605442821979523
+    },
+    {
+        "title": "Un Barça solvente conquista Sevilla y se pone a tiro del Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/09/culemania/primer-equipo/922917804_14093251_1706x960.jpg?contentId=ESPIMA20250209_0105",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250209/un-barca-solvente-conquista-sevilla-real-madrid/922907754_0.html",
+        "date": "2025-02-09 22:02:49",
+        "sentiment_score": 0.3502253219485283
+    },
+    {
+        "title": "La explosión goleadora de Dembélé, el batacazo del Liverpool y el acelerón del Bayern",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/09/la-explosion-goleadora-de-dembele-el-batacazo-del-liverpool-y-el-aceleron-del-bayern/",
+        "date": "2025-02-09 22:00:55",
+        "sentiment_score": 0.03334641456604004
+    },
+    {
+        "title": "El Barça asalta el Pizjuán y se mete en la pelea por la Liga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/02/09/67a922fde0499.r_d.1100-402.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250209/barca-asalta-pizjuan-mete-pelea-liga_268701.html",
+        "date": "2025-02-09 22:00:29",
+        "sentiment_score": -0.13179472088813782
+    },
+    {
+        "title": "El Barça golea al Sevilla en el Pizjuán y se reengancha a la lucha por el liderato",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/02/barcelona-sevilla-raphinha-e1739137277130-1200x675.jpg",
+        "tags": [
+            "raphinha",
+            "lamine yamal",
+            "robert lewandowski",
+            "fc barcelona",
+            "laliga ea sports",
+            "sevilla fc",
+            "fútbol"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2025-02-09/sevilla-barcelona-lewandowski-fermin-raphinha-eric/",
+        "date": "2025-02-09 22:00:16",
+        "sentiment_score": 0.5006988048553467
+    },
+    {
+        "title": "Del Nido Carrasco carga contra el Real Madrid: «Intenta destruir el fútbol español»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/02/09/delnido-carrasco-khbB--1920x1080@RC.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariosur.es/deportes/futbol/liga-primera/nido-carrasco-carga-real-madrid-intenta-destruir-20250209223600-ntrc.html",
+        "date": "2025-02-09 21:36:03",
+        "sentiment_score": -0.8860903270542622
+    },
+    {
+        "title": "“Nuestro plan es que el vuelo Bilbao-Nueva York sea un éxito para Euskadi y ayude a su crecimiento”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3714a1de-63b5-4d8f-8ef2-d16a270f9ced_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2025/02/09/plan-vuelo-bilbao-nueva-york-exito-euskadi-9259768.html",
+        "date": "2025-02-09 21:20:21",
+        "sentiment_score": 0.6931482255458832
+    },
+    {
+        "title": "1-4. El Barcelona liquida al Sevilla en la segunda parte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/09/1-4-el-barcelona-liquida-al-sevilla-en-la-segunda-parte/",
+        "date": "2025-02-09 22:16:49",
+        "sentiment_score": 0.1801156923174858
+    },
+    {
+        "title": "Locura generacional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bc15a8d7-3301-4cd2-a5fe-7d257f8668e7_16-9-aspect-ratio_default_0_x1174y650.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2025/02/09/locura-generacional-114145373.html",
+        "date": "2025-02-09 22:15:46",
+        "sentiment_score": -0.29553137719631195
+    },
+    {
+        "title": "1-4. El Barcelona sufre en la primera parte y arrasa al Sevilla en la segunda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/09/1-4-el-barcelona-sufre-en-la-primera-parte-y-arrasa-al-sevilla-en-la-segunda/",
+        "date": "2025-02-09 22:15:21",
+        "sentiment_score": 0.7139454260468483
+    },
+    {
+        "title": "22:00 | 09 FEB 2025 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-09-feb-2025-juego-20250209_3092552.html",
+        "date": "2025-02-09 22:14:29",
+        "sentiment_score": 0.06161980330944061
+    },
+    {
+        "title": "Club turco abandona partido de la liga por decisiones arbitrales",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/adana-demirspor-galatasaray-jugadores-abandonan-188457ee42d0ac07f47dcae4a8d96b30",
+        "date": "2025-02-09 22:01:51",
+        "sentiment_score": -0.8321062587201595
+    },
+    {
+        "title": "El postre preferido de Pedri: los apuntes en caliente del Sevilla-Barça",
+        "image_url": "https://static1.ara.cat/clip/67a646a8-1f92-4288-9b43-2ba834186d59_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/postre-preferido-pedri-apuntes-caliente-sevilla-barca_1_5280223.html",
+        "date": "2025-02-09 22:01:22",
+        "sentiment_score": 0.641543060541153
     }
 ];
