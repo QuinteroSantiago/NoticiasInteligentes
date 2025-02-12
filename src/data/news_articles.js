@@ -100,16 +100,6 @@ export default [
         "sentiment_score": -0.41905077546834946
     },
     {
-        "title": "Hamas libera a tres rehenes israelíes en medio de incertidumbre por el alto el fuego en Gaza",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/liberan-rehenes-israelies-quinta-ronda-vo/",
-        "date": "2025-02-08 14:05:20",
-        "sentiment_score": -0.3000881224870682
-    },
-    {
         "title": "El Govern mejorará “los canales de información” tras el accidente de tres camiones que cortó 14 horas la AP-7",
         "image_url": "https://imagenes.elpais.com/resizer/v2/6YAZXB7APBFPDMFJVM2G4RRMRM.png?auth=60373efef04727dcc411a9ac213fda2bfbe604802edaf001081639a5b16052e3&width=1200",
         "tags": [
@@ -166,26 +156,6 @@ export default [
         "link": "https://elpais.com/espana/2025-02-08/arnaldo-otegi-estamos-preparados-para-llegar-al-poder-y-para-gobernar.html",
         "date": "2025-02-08 14:23:11",
         "sentiment_score": 0.10275724530220032
-    },
-    {
-        "title": "La ultraderecha europea celebra en Madrid la llegada de su “compañero de armas” Trump",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YA4LSHRF6KTGVMSKQOXBNSPANA.jpg?auth=4cb507c9e661fd346b2010bf4adfeafe3a45088d02a81f33e57afcda93fc2873&width=1200",
-        "tags": [
-            "viktor orban",
-            "vox",
-            "extrema derecha",
-            "madrid",
-            "inmigración irregular",
-            "santiago abascal",
-            "donald trump",
-            "inmigración irregular españa",
-            "marine le pen",
-            "españa",
-            "ultraderecha"
-        ],
-        "link": "https://elpais.com/espana/2025-02-08/la-ultraderecha-europea-celebra-en-madrid-la-llegada-de-su-companero-de-armas-trump.html",
-        "date": "2025-02-08 14:09:56",
-        "sentiment_score": -0.7701853401958942
     },
     {
         "title": "Racionamiento de agua en Bogotá para la zona 2: estos son los barrios que estarán sin agua el 9 de febrero de 2025",
@@ -7555,5 +7525,454 @@ export default [
         "link": "https://2001online.com/servicios/operativo-del-intt-en-caracas-conozca-donde-podra-tramitar-todos-sus-documentos-este-13feb--202521116530",
         "date": "2025-02-11 20:53:00",
         "sentiment_score": 0.08356878161430359
+    },
+    {
+        "title": "Temperaturas en Barcelona: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/5JMXLDYFGJGE5JV4AEDZXY24PU.jpg?auth=b58713b05c6c2fff4df73087507f741d482483ff2df497a3288bde5330aade12&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/12/temperaturas-en-barcelona-preparate-antes-de-salir-de-casa/",
+        "date": "2025-02-12 02:01:59",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El juez recibe una lista \"incompleta\" con 11 cuentas en las que figura Begoña Gómez con un saldo total de 40,25 euros",
+        "image_url": "https://www.infobae.com/resizer/v2/2SZ2E75AT5HR5MGURJEUGW6NIQ.jpg?auth=529c3aadc5beb4bcecf38da2aaefb4ab2da4f43ac58470b549bd726dd9f0d9d6&height=2879&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/03/el-juez-recibe-una-lista-incompleta-con-11-cuentas-en-las-que-figura-begona-gomez-con-un-saldo-total-de-4025-euros/",
+        "date": "2025-02-12 00:02:05",
+        "sentiment_score": -0.5816490016877651
+    },
+    {
+        "title": "Sánchez se reúne en Moncloa con personas con discapacidad para conversar sobre avances conseguidos y retos por acometer",
+        "image_url": "https://www.infobae.com/resizer/v2/AFIOXKK4GJALPCLFWMPJ7T3B5I.jpg?auth=a516b420a83ff692ea7678f72de2ae7149dd58f459245180224dfe7383431e93&height=938&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/03/sanchez-se-reune-en-moncloa-con-personas-con-discapacidad-para-conversar-sobre-avances-conseguidos-y-retos-por-acometer/",
+        "date": "2025-02-11 23:47:30",
+        "sentiment_score": 0.40522443875670433
+    },
+    {
+        "title": "Marian Rojas, una psiquiatra que expone el peligro de la dopamina en ‘El Hormiguero’: “Es más fácil secuestrar nuestros instintos a que los dominemos”",
+        "image_url": "https://www.infobae.com/resizer/v2/GLTQFE65RNHYNO4OPI7S54O2C4.jpg?auth=b3ebcd72e9b32c33f495e21ba81ff538fd400e3e7d1c415701e6a840d426ef31&height=1152&smart=true&width=2048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/11/marian-rojas-una-psiquiatra-que-expone-el-peligro-de-la-dopamina-en-el-hormiguero-es-mas-facil-secuestrar-nuestros-instintos-a-que-los-dominemos/",
+        "date": "2025-02-11 23:45:27",
+        "sentiment_score": -0.88197997584939
+    },
+    {
+        "title": "Policía de Venezuela detiene a joven de 19 años acusada de trata de personas hacia España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/11/policia-de-venezuela-detiene-a-joven-de-19-anos-acusada-de-trata-de-personas-hacia-espana/",
+        "date": "2025-02-11 23:31:24",
+        "sentiment_score": -0.8035716749727726
+    },
+    {
+        "title": "El PP lleva ante el TEDH al Constitucional por avalar la reforma que permitió al CGPJ nombrar a dos magistrados del TC",
+        "image_url": "https://www.infobae.com/resizer/v2/XAJDOKZ6NVBI5CQ3KHHTWFLNEU.jpg?auth=9e75951b753d22b77b928cb15c6b134818661721cb414a38d68150d46c867ea7&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/11/el-pp-lleva-ante-el-tedh-al-constitucional-por-avalar-la-reforma-que-permitio-al-cgpj-nombrar-a-dos-magistrados-del-tc/",
+        "date": "2025-02-11 23:30:16",
+        "sentiment_score": 0.05962112545967102
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 12 de febrero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/11/hoy-sera-noticia-miercoles-12-de-febrero/",
+        "date": "2025-02-11 23:17:08",
+        "sentiment_score": 0.03667942062020302
+    },
+    {
+        "title": "David Broncano y Lalachus analizan las audiencias del resto de cadenas en ‘La Revuelta’: “No puedes pasar de ‘Cifras y Letras’ a ‘un coño en tu nuca’”",
+        "image_url": "https://www.infobae.com/resizer/v2/JXRKIMUTAVASNENF55JGLRXMKE.jpg?auth=0dd7204fb37aa5a7d5fcd247c9a2c65757bad74eda1595a6c7cccd02efcb4e4e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/11/david-broncano-y-lalachus-analizan-las-audiencias-del-resto-de-cadenas-en-la-revuelta-no-puedes-pasar-de-cifras-y-letras-a-un-cono-en-tu-nuca/",
+        "date": "2025-02-11 23:13:57",
+        "sentiment_score": 0.11098780483007431
+    },
+    {
+        "title": "Desde España habrían transcrito el diálogo entre Daniela Caracas y Mapi León durante su controvertido cruce",
+        "image_url": "https://www.infobae.com/resizer/v2/WT4UQ7ABBNDBDGCH3HBSATP6A4.jpg?auth=462c52e22670241724ee11be77cfb991972159f7e8d58e23e4ac365d73e49ced&height=1836&smart=true&width=3264",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/02/11/desde-espana-habrian-transcrito-el-dialogo-entre-daniela-caracas-y-mapi-leon-durante-su-controvertido-cruce/",
+        "date": "2025-02-11 23:13:22",
+        "sentiment_score": -0.8444356760010123
+    },
+    {
+        "title": "El nuevo embajador de España en Uruguay le entrega las cartas credenciales a Lacalle Pou",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/11/el-nuevo-embajador-de-espana-en-uruguay-le-entrega-las-cartas-credenciales-a-lacalle-pou/",
+        "date": "2025-02-11 23:00:52",
+        "sentiment_score": 0.012154914438724518
+    },
+    {
+        "title": "“Palestina estará aquí después de Trump\": Residentes de Gaza se rehúsan a abandonar el enclave costero tras amenazas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198244572.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/palestina-rehusan-abandonar-gaza-donald-trump-orix/",
+        "date": "2025-02-12 02:06:17",
+        "sentiment_score": -0.8382233735173941
+    },
+    {
+        "title": "Fiscal General de México afirmó que la DEA fabricó un expediente contra el general Cienfuegos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-521574880.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/fiscal-general-dea-expediente-cienfuegos-perspectivas-mexico-tv-fast/",
+        "date": "2025-02-12 00:34:59",
+        "sentiment_score": -0.4464525766670704
+    },
+    {
+        "title": "García Harfuch confirma que el detenido en el caso Zambada es “piloto de confianza de la célula delictiva”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21368960-1297360-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/piloto-detenido-caso-zambada-perspectivas-mexico-tv-fast/",
+        "date": "2025-02-12 00:29:33",
+        "sentiment_score": -0.557739470154047
+    },
+    {
+        "title": "Trump veta a periodistas que sigan usando el término «golfo de México»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/12/trump-golfo-kWiF-U70247511792c0G-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-veta-periodistas-sigan-usando-termino-golfo-20250212022030-nt.html",
+        "date": "2025-02-12 01:21:28",
+        "sentiment_score": -0.15279139578342438
+    },
+    {
+        "title": "David Sánchez y Goliat",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/yolanda-vallejo-david-sanchez-goliat-20250212234653-nts.html",
+        "date": "2025-02-11 22:47:24",
+        "sentiment_score": -0.13045988976955414
+    },
+    {
+        "title": "La dura confesión de Deyna Castellanos sobre La Vinotinto: «No es un lugar en el que sea feliz»",
+        "image_url": "https://caraotadigital.net/wp-content/uploads/2023/09/Deyna-Castellanos-CD.jpg",
+        "tags": [
+            "vinotinto",
+            "deportes",
+            "fútbol",
+            "deyna castellanos"
+        ],
+        "link": "https://caraotadigital.net/deportes/la-dura-confesion-de-deyna-castellanos-sobre-la-vinotinto-no-es-un-lugar-en-el-que-sea-feliz/",
+        "date": "2025-02-12 01:12:00",
+        "sentiment_score": 0.09968343377113342
+    },
+    {
+        "title": "Aficionados del Man City se burlan del Real Madrid y Vinicius Junior por el Balón de Oro",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/02/AP25043005944734.webp",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/aficionados-del-man-city-se-burlan-del-real-madrid-y-vinicius-junior-por-el-balon-de-oro/",
+        "date": "2025-02-12 00:46:42",
+        "sentiment_score": -0.07715979218482971
+    },
+    {
+        "title": "Vinculada a proceso la ‘influencer’ Marianne Gonzaga por lesiones dolosas: estará dos meses detenida",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5LJOMHSFLBENBJNCLCC44VJZ5E.jpg?auth=d6396f4185bdb69d373a91f48d3192ca6d4cdfdc4630dcf326766d4f9aada625&width=1200",
+        "tags": [
+            "méxico",
+            "ataques a personas",
+            "américa",
+            "violencia en méxico",
+            "latinoamérica",
+            "violencia",
+            "influencers",
+            "violencia machista"
+        ],
+        "link": "https://elpais.com/mexico/2025-02-12/vinculada-a-proceso-la-influencer-marianne-gonzaga-por-lesiones-dolosas-estara-dos-meses-detenida.html",
+        "date": "2025-02-12 00:45:29",
+        "sentiment_score": -0.7269569002091885
+    },
+    {
+        "title": "11 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/11-feb-2025-partidazo-cope-20250212_3094128.html",
+        "date": "2025-02-12 00:36:45",
+        "sentiment_score": 0.18091687560081482
+    },
+    {
+        "title": "Crónica del RCD Mallorca - FC Barcelona: 1-5",
+        "image_url": "https://www.infobae.com/resizer/v2/D62CW6WTJ5HHPPA53BAH7XOMMI.jpg?auth=fb9f33a4542732f4df79f79d71d1c5415ebd4701d2e656f4ca8597b12ac86d65&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/03/cronica-del-rcd-mallorca-fc-barcelona-1-5/",
+        "date": "2025-02-12 00:32:08",
+        "sentiment_score": -0.04169672727584839
+    },
+    {
+        "title": "#MundoMaldini (11-02-2025)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "mundo maldini"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/mundo-maldini/audios/mundomaldini-11-20250212_3094126.html",
+        "date": "2025-02-12 00:31:08",
+        "sentiment_score": -0.028352223336696625
+    },
+    {
+        "title": "El principio de no contradicción",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.eldebate.com/opinion/cartas-director/20250212/principio-no-contradiccion_269445.html",
+        "date": "2025-02-12 00:30:00",
+        "sentiment_score": -0.14557242393493652
+    },
+    {
+        "title": "Real Madrid le remontó al Manchester City en la ida del playoffs",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/02/bellingham-1102-730x524.webp",
+        "tags": [
+            "real madrid",
+            "juventus",
+            "psg",
+            "playoffs",
+            "deportes",
+            "manchester city",
+            "jude bellingham",
+            "fútbol",
+            "borussia dortmund",
+            "champios league"
+        ],
+        "link": "https://primicia.com.ve/deportes/real-madrid-le-remonto-al-manchester-city-en-la-ida-del-playoffs/",
+        "date": "2025-02-12 00:14:56",
+        "sentiment_score": 0.2614152580499649
+    },
+    {
+        "title": "Laporta choca con un muro de problemas para crear la futura Grada d'Animació del Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/12/16/culemania/palco/909169209_13876779_1706x960.png?contentId=ESPIMA20241216_0135",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20250212/laporta-problemas-futura-grada-danimacio-camp-nou/923407723_0.html",
+        "date": "2025-02-12 00:13:16",
+        "sentiment_score": -0.9207522729411721
+    },
+    {
+        "title": "La lista de imponderables del Barça que justifica los retrasos en las obras del nuevo Camp Nou y perdona las penalizaciones a Limak",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/11/culemania/palco/923417831_14103985_1706x960.jpg?contentId=ESPIMA20250211_0182",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250212/la-del-barca-las-camp-nou-limak/923407778_0.html",
+        "date": "2025-02-12 00:10:47",
+        "sentiment_score": 0.26069073006510735
+    },
+    {
+        "title": "Pagan el permiso parental a un trabajador de Barcelona de ocho semanas: cobra 4.000 euros más intereses",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/01/03/677822950f856.jpeg",
+        "tags": [
+            "barcelona provincia"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/noticias/pagan-permiso-parental-trabajador-barcelona-ocho-semanas-cobra-4-000-euros-intereses-20250212_3094131.html",
+        "date": "2025-02-12 02:00:00",
+        "sentiment_score": -0.13163404166698456
+    },
+    {
+        "title": "Jewel Lozano \"secuestró\" a la hija que tuvo con su ex y se la llevó a EEUU: ahora irá a prisión en España y pide que la indulten",
+        "image_url": "https://s1.elespanol.com/2025/02/11/reportajes/923418395_253032822_1706x960.jpg?contentId=ESPIMA20250211_0746",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250212/jewel-lozano-secuestro-hija-ex-llevo-eeuu-ahora-ira-prision-espana-pide-indulten/923408092_0.html",
+        "date": "2025-02-12 01:40:33",
+        "sentiment_score": -0.9011852163821459
+    },
+    {
+        "title": "Marta Moreno (AstraZeneca): \"La industria y el Gobierno buscan fórmulas para acelerar el acceso sin disparar el gasto\"",
+        "image_url": "https://s1.elespanol.com/2025/02/05/invertia/observatorios/sanidad/921918334_252871492_1706x960.jpg?contentId=ESPIMA20250205_0535",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20250212/marta-moreno-astrazeneca-industria-gobierno-buscan-formulas-acelerar-acceso-sin-disparar-gasto/921908140_0.html",
+        "date": "2025-02-12 01:26:19",
+        "sentiment_score": 0.4910492114722729
+    },
+    {
+        "title": "El Corte Inglés empieza a vender fondos de Mutua en más de una veintena de centros comerciales de toda España",
+        "image_url": "https://s1.elespanol.com/2025/02/11/invertia/mis-finanzas/fondos-de-inversion/923418552_253037868_1706x960.jpg?contentId=ESPIMA20250211_0903",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20250212/corte-ingles-empieza-vender-fondos-mutua-veintena-centros-comerciales-toda-espana/923408176_0.html",
+        "date": "2025-02-12 01:25:54",
+        "sentiment_score": 0.10526493191719055
+    },
+    {
+        "title": "Klosters Capital entra en Cataluña y se refuerza en Madrid con fichajes de peso en Abante y UBS",
+        "image_url": "https://s1.elespanol.com/2025/02/11/invertia/mis-finanzas/fondos-de-inversion/923418567_253038319_1706x960.jpg?contentId=ESPIMA20250211_0918",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20250212/klosters-capital-entra-cataluna-refuerza-madrid-fichajes-peso-abante-ubs/923408194_0.html",
+        "date": "2025-02-12 01:25:53",
+        "sentiment_score": -0.24732649326324463
+    },
+    {
+        "title": "'Ecos del océano', la exposición inmersiva que te convierte en una ballena",
+        "image_url": "https://s1.elespanol.com/2025/02/11/el-cultural/ciencia/923418523_253036930_1706x960.jpg?contentId=ESPIMA20250211_0874",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/ciencia/20250212/ecos-oceano-exposicion-inmersiva-convierte-ballena/923408128_0.html",
+        "date": "2025-02-12 01:18:41",
+        "sentiment_score": 0.14907173812389374
+    },
+    {
+        "title": "Espera antes de comprar un móvil nuevo: los modelos que se avecinan en próximas semanas con el MWC como escaparate",
+        "image_url": "https://s1.elespanol.com/2023/11/30/treintayseis/economia/empresas/813679710_242585801_1706x960.jpg?contentId=ESPIMA20231130_1086",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20250212/espera-comprar-movil-nuevo-modelos-avecinan-proximas-semanas-mwc-escaparate/923407731_0.html",
+        "date": "2025-02-12 01:02:44",
+        "sentiment_score": 0.515575859695673
+    },
+    {
+        "title": "¿Cuál es el tiempo medio para vender una vivienda en Bilbao?",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/02/11/vivienda-ktuD-U230828886843NYD-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bizkaia/tiempo-medio-vender-vivienda-bilbao-situa-dias-20250211013742-nt.html",
+        "date": "2025-02-12 00:37:42",
+        "sentiment_score": -0.6782258152961731
+    },
+    {
+        "title": "¡CLX Group y HONOR celebran el amor con un concurso para regalar un viaje a una pareja afortunada!",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739326070472.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/clx-group-y-honor-celebran-el-amor-con-un-concurso-para-regalar-un-viaje-a-una-pareja-afortunada--20252112200",
+        "date": "2025-02-12 02:00:00",
+        "sentiment_score": 0.8109796568751335
+    },
+    {
+        "title": "Reactivan rutas suburbanas de la UCV hacia los Valles del Tuy: conozca las cinco paradas",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739322537063.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/reactivan-rutas-suburbanas-de-la-ucv-hacia-los-valles-del-tuy-conozca-las-cinco-paradas-202521121310",
+        "date": "2025-02-12 01:31:00",
+        "sentiment_score": 0.5425725840032101
+    },
+    {
+        "title": "Nueva Jersey: Ofrecen empleo a latinos con preparatoria por $24 la hora",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739322465669.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/nueva-jersey-ofrecen-empleo-a-latinos-con-preparatoria-por-24-la-hora--20252112160",
+        "date": "2025-02-12 01:06:00",
+        "sentiment_score": 0.6964393146336079
+    },
+    {
+        "title": "INTT: Conozca el costo para tramitar la licencia de conducir y el Certificado de Saberes",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739294104049.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/intt-conozca-el-costo-para-tramitar-la-licencia-de-conducir-y-el-certificado-de-saberes-20252112100",
+        "date": "2025-02-12 01:00:00",
+        "sentiment_score": 0.020097456872463226
+    },
+    {
+        "title": "Consulado de Italia en Caracas reduce el número de citas: se desconoce la duración de la medida",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739321525006.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/consulado-de-italia-en-caracas-reduce-el-numero-de-citas-se-desconoce-la-duracion-de-la-medida-202521120540",
+        "date": "2025-02-12 00:54:00",
+        "sentiment_score": -0.14447980746626854
+    },
+    {
+        "title": "¿Puede el IRS colaborar con el ICE para deportar inmigrantes?: próximo paso de Trump",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739324755290.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/migracion/puede-el-irs-colaborar-con-el-ice-para-deportar-inmigrantes-proximo-paso-de-trump-202521120510",
+        "date": "2025-02-12 00:51:00",
+        "sentiment_score": -0.4151264391839504
+    },
+    {
+        "title": "Por una deuda de cinco dólares sujeto mata a puñaladas a un hombre en Aragua",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739322275587.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/por-una-deuda-de-cinco-dolares-sujeto-mata-a-punaladas-a-un-hombre-en-aragua-202521120430",
+        "date": "2025-02-12 00:43:00",
+        "sentiment_score": -0.780984541401267
+    },
+    {
+        "title": "Caravana de migrantes intenta volver a Venezuela por temor a Trump: Vamos de regreso a casa",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739320573244.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/caravana-de-migrantes-intenta-volver-a-venezuela-por-temor-a-trump-vamos-de-regreso-a-casa-202521120280",
+        "date": "2025-02-12 00:28:00",
+        "sentiment_score": -0.07436203584074974
+    },
+    {
+        "title": "Joven sufre quemaduras de primer y segundo grado: Le explotó el teléfono en el bolsillo del pantalón",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739318904267.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/tecnologia/joven-sufre-quemaduras-de-primer-y-segundo-grado-le-exploto-el-telefono-en-el-bolsillo-del-pantalon-202521120200",
+        "date": "2025-02-12 00:20:00",
+        "sentiment_score": -0.3842192981392145
+    },
+    {
+        "title": "UPS reduce entrega de pedidos de Amazon: ¿Cómo afectará a sus clientes?",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739321412918.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/ups-reduce-entrega-de-pedidos-de-amazon-como-afectara-a-sus-clientes--202521120200",
+        "date": "2025-02-12 00:20:00",
+        "sentiment_score": 0.06635918468236923
     }
 ];
