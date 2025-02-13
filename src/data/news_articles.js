@@ -120,19 +120,6 @@ export default [
         "sentiment_score": -0.034427009522914886
     },
     {
-        "title": "Elecciones en Ecuador 2025, en vivo: Noboa, González, votaciones, resultados, noticias y más",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1613791834.jpg?quality=100&strip=info",
-        "tags": [
-            "elecciones",
-            "instanoticias",
-            "ecuador",
-            "minuto a minuto"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/02/09/resultados-elecciones-ecuador-2025-primera-vuelta-orix/",
-        "date": "2025-02-09 13:44:45",
-        "sentiment_score": 0.12326337397098541
-    },
-    {
         "title": "Zelenski afirma que Rusia controla menos del 20% de los recursos minerales de Ucrania",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/09/landucrania-RZrvlLae7WrdtEarAlnJUUI-1200x840@diario_abc.jpg",
         "tags": [
@@ -197,45 +184,6 @@ export default [
         "link": "https://elpais.com/espana/2025-02-09/muere-un-escalador-en-leon-por-una-caida-en-pena-ubina.html",
         "date": "2025-02-09 15:11:47",
         "sentiment_score": -0.5175946280360222
-    },
-    {
-        "title": "Feijóo acusa al Gobierno de tratar a los menores migrantes como “adultos” para contentar al “separatismo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BC44DXYSKOMGC3VQLRAJWULTY4.jpg?auth=723f1b8de2d0755d7714da66fa623309b796c541807d1477cd876919a36cf01d&width=1200",
-        "tags": [
-            "pp",
-            "alberto núñez feijóo",
-            "zaragoza",
-            "vivienda",
-            "aragón",
-            "españa",
-            "pedro sánchez",
-            "gobierno"
-        ],
-        "link": "https://elpais.com/espana/2025-02-09/feijoo-ahora-resulta-que-los-menores-migrantes-dejan-de-ser-ninos-si-se-negocia-con-el-separatismo.html",
-        "date": "2025-02-09 13:38:57",
-        "sentiment_score": -0.5808957666158676
-    },
-    {
-        "title": "La guerra sin cuartel de la Generalitat ‘paralela’ de Puigdemont se amplía a la ANC: “La gestión es despótica”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4WXVL5C6CFTJIHJ7MIPAKHK4D4.jpg?auth=d8d2c76fe168c47e41fcad8524f738e3db76cfc246c07ee19936ef3a34738966&width=1200",
-        "tags": [
-            "josep costa",
-            "parlament cataluña",
-            "barcelona",
-            "lluís llach",
-            "independencia",
-            "valtonyc",
-            "cataluña",
-            "antoni comín",
-            "asociaciones",
-            "anc",
-            "política",
-            "bruselas",
-            "independentismo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-09/la-guerra-sin-cuartel-de-la-generalitat-paralela-de-puigdemont-se-amplia-a-la-anc-la-gestion-es-despotica.html",
-        "date": "2025-02-09 11:33:08",
-        "sentiment_score": -0.8756243484094739
     },
     {
         "title": "Tarde de cine para los granadinos premiados: así se vivió la Alfombra Roja de los Goya 2025",
@@ -8334,5 +8282,430 @@ export default [
         "link": "https://2001online.com/nacionales/fiscalia-restituye-vivienda-invadida-hace-17-anos-a-una-adulta-mayor-recibia-amenazas-constantes-202521216390",
         "date": "2025-02-12 20:39:00",
         "sentiment_score": -0.10119154304265976
+    },
+    {
+        "title": "La AJFV es la asociación judicial que más ha crecido en jueces afiliados en el último año, según datos del CGPJ",
+        "image_url": "https://www.infobae.com/resizer/v2/KE2MK5JUARBLJESA22PZXOAE2A.jpg?auth=d63b0e1a0dfc8aa0ecf8bbfddc43f5c6dd364c9cb1bbf2449e68e55e9ef0bd6c&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/04/la-ajfv-es-la-asociacion-judicial-que-mas-ha-crecido-en-jueces-afiliados-en-el-ultimo-ano-segun-datos-del-cgpj/",
+        "date": "2025-02-13 02:02:51",
+        "sentiment_score": 0.15400712937116623
+    },
+    {
+        "title": "Clima en España: el pronóstico del tiempo para Barcelona este 13 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/YBRQZOD3PRD4PHIREVADZDZBSU.jpg?auth=6069b1006ea758df89e1098d73b9ea555be1746eb3b974f491d62b802525ec90&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/13/clima-en-espana-el-pronostico-del-tiempo-para-barcelona-este-13-de-febrero/",
+        "date": "2025-02-13 02:01:38",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Condenado a 15 meses de cárcel por tener en \"condiciones extremas de sufrimiento\" a una decena de perros",
+        "image_url": "https://www.infobae.com/resizer/v2/NBZI5BTNF5D7LOR3KBM23RHTIY.jpg?auth=920c65aea3c90693305c2895ab06b7d3d264ae9396d91d103ddeb34b22847f56&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/04/condenado-a-15-meses-de-carcel-por-tener-en-condiciones-extremas-de-sufrimiento-a-una-decena-de-perros/",
+        "date": "2025-02-13 01:02:40",
+        "sentiment_score": -0.8871743390336633
+    },
+    {
+        "title": "Villarejo asegura en el Congreso que los atentados de Barcelona de 2017 se pudieron evitar y que él avisó al CNI",
+        "image_url": "https://www.infobae.com/resizer/v2/Q3474TJACFEAXIKQX5W2LYVTGU.jpg?auth=d82bab93543c327ba984e086d4eec984bf6db4872b855c7caca10a9c6df00553&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/04/villarejo-asegura-en-el-congreso-que-los-atentados-de-barcelona-de-2017-se-pudieron-evitar-y-que-el-aviso-al-cni/",
+        "date": "2025-02-13 00:17:11",
+        "sentiment_score": -0.16167140007019043
+    },
+    {
+        "title": "La candidata alternativa del PSOE en Extremadura insta a \"dejar a la militancia hablar\"",
+        "image_url": "https://www.infobae.com/resizer/v2/J6RYWZTCKRHHXIMWAC4SVHEAVQ.jpg?auth=66e342bde0afef25d1de009569877a2a3ce1a0c6d5e4a58e7ab536fee2e56b66&height=3398&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/04/la-candidata-alternativa-del-psoe-en-extremadura-insta-a-dejar-a-la-militancia-hablar/",
+        "date": "2025-02-13 00:02:52",
+        "sentiment_score": -0.19285861402750015
+    },
+    {
+        "title": "Ábalos comunica al juez del 'caso Koldo' en el Supremo que acudirá a declarar voluntariamente el 12 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/BEXP3GQS5JFNRFDKYZBLC4US74.jpg?auth=dd3a2d2ec602fea22240bae04598baefb6e50888bb4f164d22f5ae058d953806&height=1096&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/04/abalos-comunica-al-juez-del-caso-koldo-en-el-supremo-que-acudira-a-declarar-voluntariamente-el-12-de-diciembre/",
+        "date": "2025-02-13 00:02:31",
+        "sentiment_score": -0.07921648770570755
+    },
+    {
+        "title": "Los acusados del crimen de la autopista mantienen que el turista se tiró: \"El culpable es el alcohol\"",
+        "image_url": "https://www.infobae.com/resizer/v2/CO6H55ADAJHRDOQUMMDWO7WRPU.jpg?auth=36133f43ef4355cd69d4b87e5d0aea7e2d97dd17d87d680d3bdfc11dfa728db1&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/04/los-acusados-del-crimen-de-la-autopista-mantienen-que-el-turista-se-tiro-el-culpable-es-el-alcohol/",
+        "date": "2025-02-13 00:02:13",
+        "sentiment_score": -0.7305079512298107
+    },
+    {
+        "title": "Morant cree que Page va de víctima y le acusa de buscar el enfrentamiento continuo con compañeros del PSOE",
+        "image_url": "https://www.infobae.com/resizer/v2/UQWAJR2TBVB6NLDJ5NHNNYUW2A.jpg?auth=45a313cfc47f0af40d51dda1a1a5f1cd5174fde2f05f7dc148e7d724bb6bba2e&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/04/morant-cree-que-page-va-de-victima-y-le-acusa-de-buscar-el-enfrentamiento-continuo-con-companeros-del-psoe/",
+        "date": "2025-02-12 23:47:25",
+        "sentiment_score": -0.8164064791053534
+    },
+    {
+        "title": "Irene Montero tras el procesamiento contra el exmarido de Juana Rivas: \"España debe reparación a las madres protectoras\"",
+        "image_url": "https://www.infobae.com/resizer/v2/3S7A5CH6G5G3BPRI5H6U62PO6M.jpg?auth=d6a2481493a378f39f78e661f0780b6cead6942fb32967e9d1f0313625d73f42&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/04/irene-montero-tras-el-procesamiento-contra-el-exmarido-de-juana-rivas-espana-debe-reparacion-a-las-madres-protectoras/",
+        "date": "2025-02-12 23:32:13",
+        "sentiment_score": -0.383489653468132
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 13 de febrero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/12/hoy-sera-noticia-jueves-13-de-febrero/",
+        "date": "2025-02-12 23:16:50",
+        "sentiment_score": 0.03811819106340408
+    },
+    {
+        "title": "Una llamada de Trump ¿podría terminará la guerra en Ucrania?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/copia-de-foto-para-wp-71.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-ucrania-negociacion-paz-trump-llamada-putin-panorama-mundial/",
+        "date": "2025-02-13 02:13:08",
+        "sentiment_score": -0.04685789346694946
+    },
+    {
+        "title": "México, en riesgo de recesión por aranceles de Trump, advierten expertos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2190485630-20250212230632523_ac49f0.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aranceles-trump-mexico-recesion-perspectivas-mexico/",
+        "date": "2025-02-13 02:02:47",
+        "sentiment_score": -0.8084740042686462
+    },
+    {
+        "title": "Así negocia México para evitar los aranceles al acero y aluminio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198367328_ae7e9a.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aranceles-acero-aluminio-mexico-trump-sheinbaum-perspectivas-mexico/",
+        "date": "2025-02-13 01:25:38",
+        "sentiment_score": 0.1607682853937149
+    },
+    {
+        "title": "Doctor explica por qué la detección temprana de los problemas cardíacos congénitos es vital",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/09467106-81869559-generated-thumbnail.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/minuto-salud-deteccion-defectos-cardiacos-congenitos-salud-fast/",
+        "date": "2025-02-13 01:22:50",
+        "sentiment_score": -0.315657302737236
+    },
+    {
+        "title": "Más de 10 millones de personas participan en festival religioso en la India",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198424439.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/10-millones-personas-bano-sagrado-india-orix/",
+        "date": "2025-02-13 01:00:13",
+        "sentiment_score": 0.3610692769289017
+    },
+    {
+        "title": "Análisis: ¿Toma distancia Trump de la oposición venezolana?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2190485630-20250212230632523.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/venezuela-eeuu-maduro-trump-oposicion-oppeheimer-presenta-tv/",
+        "date": "2025-02-12 23:09:47",
+        "sentiment_score": -0.2957178205251694
+    },
+    {
+        "title": "La opa y el poder",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/02/13/torres-oliu-cuerpo_20250212190617-kIjC-Ra9CM6QaDEDT0mHwh8lpATL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-opa-poder-20250213014424-nt.html",
+        "date": "2025-02-13 00:45:41",
+        "sentiment_score": -0.12607122957706451
+    },
+    {
+        "title": "Grupo Roxu incorpora 151 máquinas nuevas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d455bd56-98ff-4f21-ba7d-7bb4f7d622dd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2025/02/13/grupo-roxu-incorpora-151-maquinas-114224355.html",
+        "date": "2025-02-13 02:00:54",
+        "sentiment_score": 0.12590088695287704
+    },
+    {
+        "title": "Jueves, 13 de febrero de 2025 (02:00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/13/jueves-13-de-febrero-de-2025-0200-gmt/",
+        "date": "2025-02-13 02:00:17",
+        "sentiment_score": -0.0058899372816085815
+    },
+    {
+        "title": "Barcelona-Atlético y Real Madrid-Real Sociedad en semifinales de la Copa del Rey",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/fe7464f/2147483647/strip/true/crop/1728x907+0+122/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F96%2F7478b63a11bdc322e0f79dcc899d%2F8e94263a1999424bb3cc85dc83748fd0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-02-12/barcelona-atletico-y-real-madrid-real-sociedad-en-semifinales-de-la-copa-del-rey",
+        "date": "2025-02-13 01:10:48",
+        "sentiment_score": -0.02546897530555725
+    },
+    {
+        "title": "Aficionados del Man City se burlan del Real Madrid y Vinicius Junior por el Balón de Oro",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c138bea/2147483647/strip/true/crop/5527x2902+0+392/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb2%2F5c%2F9b313401494622ebd4214acbda04%2Fd2f89ac6bae542ba8fe9bee4a478488c",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-02-12/aficionados-del-man-city-se-burlan-del-real-madrid-y-vinicius-junior-por-el-balon-de-oro",
+        "date": "2025-02-13 01:09:12",
+        "sentiment_score": -0.7725554294884205
+    },
+    {
+        "title": "Todos los presupuestos de la Liga 2024-25: los 20 equipos de Primera División",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/13/culemania/palco/923917600_14109979_1706x960.png?contentId=ESPIMA20250213_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250213/todos-los-presupuestos-de-liga-primera-division/923657741_0.html",
+        "date": "2025-02-13 00:31:34",
+        "sentiment_score": -0.05738058686256409
+    },
+    {
+        "title": "La Real busca las semifinales de Copa esta noche ante el Real Madrid",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2025/02/12/102299737-kJ2F--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/femenino/copa-reina-cuartos-semifinales-real-madrid-20250213070859-nt.html",
+        "date": "2025-02-13 00:00:00",
+        "sentiment_score": 0.5207503102719784
+    },
+    {
+        "title": "Definidas las semifinales de la Copa del Rey",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/02/Definidas-las-semifinales-de-la-Copa-del-Rey-12-de-feb-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "venezuela",
+            "monagas",
+            "maturín",
+            "deportes"
+        ],
+        "link": "https://elorientaldemonagas.com/definidas-las-semifinales-de-la-copa-del-rey/",
+        "date": "2025-02-13 00:00:00",
+        "sentiment_score": 0.08017476834356785
+    },
+    {
+        "title": "Juanma López Iturriaga, a los 'periodistas' del Proyecto Suma del CB Gran Canaria: «Hacer las preguntas que ningún periodista haría»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5676a8c9-7042-4c05-bcdc-6f505eb354ae_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2025/02/13/juanma-lopez-iturriaga-periodistas-proyecto-114247126.html",
+        "date": "2025-02-12 23:59:11",
+        "sentiment_score": 0.18413570523262024
+    },
+    {
+        "title": "Real Sociedad vs. Real Madrid y Barcelona vs. Atlético, semifinales de la Copa del Rey",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/02/copa-del-rey-e1739403996430.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2025/02/12/barcelona-vs-atletico-y-real-sociedad-vs-real-madrid-semifinales-de-la-copa-del-rey/",
+        "date": "2025-02-12 23:48:54",
+        "sentiment_score": 0.3907478451728821
+    },
+    {
+        "title": "2 parte | 12 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2-parte-12-feb-2025-partidazo-cope-20250213_3094868.html",
+        "date": "2025-02-12 23:43:52",
+        "sentiment_score": -0.6741300970315933
+    },
+    {
+        "title": "Asturies celebrará un \"Investor's Day\": ¿qué ye y cuándo va ser?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bd4db892-a951-4468-b501-a67ba07608d8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/02/13/asturies-celebrara-investors-day-ye-114209929.html",
+        "date": "2025-02-13 02:05:10",
+        "sentiment_score": -0.11827343702316284
+    },
+    {
+        "title": "\"El futuro de nuestra cooperativa, y del sector en general, pasa por el relevo generacional\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a713e5d4-6731-4097-ad10-1d56d6cae381_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2025/02/13/futuro-cooperativa-sector-general-pasa-114224354.html",
+        "date": "2025-02-13 02:00:53",
+        "sentiment_score": 0.33848699927330017
+    },
+    {
+        "title": "Presidenta de la Liga F pide no sacar de contexto la agresión de Mapi León a Daniela Caracas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "liga f",
+            "deportes"
+        ],
+        "link": "https://noticialdia.com/deportes/presidenta-de-la-liga-f-pide-no-sacar-de-contexto-la-agresion-de-mapi-leon-a-daniela-caracas/",
+        "date": "2025-02-13 01:18:59",
+        "sentiment_score": -0.7627025283873081
+    },
+    {
+        "title": "La otra afición del actor Eduard Fernández: Sus orígenes como amante de la Tauromaquia",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/europapress-6508393-actor-eduard-fernandez-posa-recibir-goya-mejor-actor-protagonista-marco-39_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/otra-aficion-actor-eduard-fernandez-origenes-aficionado-tauromaquia",
+        "date": "2025-02-13 01:00:00",
+        "sentiment_score": 0.8362870663404465
+    },
+    {
+        "title": "El videomarcador del nuevo Camp Nou genera muchas dudas a los socios abonados del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/03/05/culemania/palco/837676455_12564001_1706x960.jpg?contentId=ESPIMA20240305_0231",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250213/el-videomarcador-del-camp-nou-abonados-barca/923657760_0.html",
+        "date": "2025-02-13 00:17:56",
+        "sentiment_score": -0.5688680335879326
+    },
+    {
+        "title": "Niños indocumentados en USA podrían perder el acceso a la educación: cuatro estados buscan el cambio",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739412626664.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/ninos-indocumentados-en-usa-podrian-perder-el-acceso-a-la-educacion-cuatro-estados-buscan-el-cambio-202521220440",
+        "date": "2025-02-13 02:10:00",
+        "sentiment_score": 0.025139860808849335
+    },
+    {
+        "title": "Cabello: Estados Unidos tenía a grupo de venezolanos en un cuarto sin ventanas por más de un año",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739411707284.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cabello-estados-unidos-tenia-a-grupo-de-venezolanos-en-un-cuarto-sin-ventanas-por-mas-de-un-ano-202521221570",
+        "date": "2025-02-13 01:57:00",
+        "sentiment_score": -0.3154623955488205
+    },
+    {
+        "title": "Ballena Jorobada se traga a un joven venezolano: El momento en que lo escupe queda grabado en video",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739410137680.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/ballena-jorobada-se-traga-a-un-joven-venezolano-el-momento-en-que-lo-escupe-queda-grabado-en-video--202521221360",
+        "date": "2025-02-13 01:36:00",
+        "sentiment_score": -0.01876736432313919
+    },
+    {
+        "title": "Ballena Jorobada se traga a un joven de 20 años: El momento en que lo escupe queda grabado en video",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739410137680.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/ballena-jorobada-se-traga-a-un-joven-de-20-anos-el-momento-en-que-lo-escupe-queda-grabado-en-video-202521221360",
+        "date": "2025-02-13 01:36:00",
+        "sentiment_score": -0.01876736432313919
+    },
+    {
+        "title": "Abatido alias “El Bamder” durante enfrentamiento con el Cicpc en Catia: Un funcionario resultó herido",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739404094448.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/abatido-alias-el-bamder-durante-enfrentamiento-con-el-cicpc-en-catia-un-funcionario-resulto-herido-202521221360",
+        "date": "2025-02-13 01:36:00",
+        "sentiment_score": -0.5927794128656387
+    },
+    {
+        "title": "Anuncian arranque del Spring Break en Miami: La tarifa fija del estacionamiento para visitantes será de $100",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739411297403.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/anuncian-arranque-del-spring-break-en-miami-la-tarifa-fija-del-estacionamiento-para-visitantes-sera-de-100-202521221350",
+        "date": "2025-02-13 01:35:00",
+        "sentiment_score": 0.4744140934199095
+    },
+    {
+        "title": "Daddy Yankee no se rinde: Rechaza el fin de la disputa con su esposa",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739411479096.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/daddy-yankee-no-se-rinde-rechaza-el-fin-de-la-disputa-con-su-esposa-202521221220",
+        "date": "2025-02-13 01:22:00",
+        "sentiment_score": -0.4180269204080105
+    },
+    {
+        "title": "Familiares de venezolanos enviados a Guantánamo demandan al gobierno de Trump: exigen acceso a los detenidos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1723397046781.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/migracion/familiares-de-venezolanos-enviados-a-guantanamo-demandan-al-gobierno-de-trump-exigen-acceso-a-los-detenidos-20252122150",
+        "date": "2025-02-13 01:05:00",
+        "sentiment_score": -0.6503781527280807
+    },
+    {
+        "title": "Motorizados en Baruta: Conozca las 19 prohibiciones y multas de la nueva ordenanza",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739376551370.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/motorizados-en-baruta-conozca-las-19-prohibiciones-y-multas-de-la-nueva-ordenanza--20252122100",
+        "date": "2025-02-13 01:00:00",
+        "sentiment_score": -0.5071858540177345
+    },
+    {
+        "title": "Flujo migratorio inverso: Panamá y Costa Rica acuerdan medidas para el regreso de migrantes a países de origen",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739409145460.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/migracion/flujo-migratorio-inverso-panama-y-costa-rica-acuerdan-medidas-para-el-regreso-de-migrantes-a-paises-de-origen-202521220540",
+        "date": "2025-02-13 00:54:00",
+        "sentiment_score": 0.6770261749625206
     }
 ];
