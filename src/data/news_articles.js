@@ -100,16 +100,6 @@ export default [
         "sentiment_score": -0.01278473436832428
     },
     {
-        "title": "Trump defiende su plan para Gaza e insiste en la reubicación de los palestinos en otros países",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-983736810.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-defiende-plan-gaza-cafe-tv-fast/",
-        "date": "2025-02-12 13:36:30",
-        "sentiment_score": -0.7291532158851624
-    },
-    {
         "title": "Estados Unidos liberará al magnate ruso Vinnik como parte del intercambio de presos por Marc Fogel",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/12/vinnik-knPE-U7025121171767H-1200x840@diario_abc.jpg",
         "tags": [
@@ -188,26 +178,6 @@ export default [
         "link": "https://www.abc.es/internacional/jordania-egipto-maniobran-moderar-plan-trump-gaza-20250212160541-nt.html",
         "date": "2025-02-12 15:05:41",
         "sentiment_score": -0.0225314199924469
-    },
-    {
-        "title": "Rutte pide que antes de verano todos los aliados lleguen al 2% en Defensa y un nuevo listón «más pronto que tarde»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/12/rutte-kXcC-U70250300849LvC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rutte-pide-verano-aliados-lleguen-defensa-nuevo-20250212144034-nt.html",
-        "date": "2025-02-12 13:45:33",
-        "sentiment_score": 0.007357269525527954
-    },
-    {
-        "title": "Panamá y Costa Rica acuerdan medidas conjuntas ante el «flujo migratorio inverso» provocado por Trump",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/12/PANAMAINMigrantes-RYhO2RbiHADcI09t6GUNhiM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/panama-costa-rica-acuerdan-medidas-conjuntas-ante-20250212130111-nt.html",
-        "date": "2025-02-12 12:01:12",
-        "sentiment_score": -0.1528867483139038
     },
     {
         "title": "El Constitucional acepta que Conde-Pumpido se aparte de los recursos que afectan a la Fiscalía",
@@ -365,36 +335,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-02-12/los-premios-rey-jaime-i-opinan-que-las-politicas-de-trump-pueden-ser-una-oportunidad-para-atraer-talento-a-europa.html",
         "date": "2025-02-12 14:16:08",
         "sentiment_score": -0.8494621077552438
-    },
-    {
-        "title": "Las propias acusaciones piden al juez Peinado que argumente mejor una imputación",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KP6CILCDIVGQNOVDNCQ2NQ52VU.jpg?auth=2f55bac64ca13aeca299744b7f8557458b3e91fd678659bbd7eaa48ae1ab494b&width=1200",
-        "tags": [
-            "begoña gómez fernández",
-            "investigación judicial",
-            "juicios",
-            "españa",
-            "juan carlos peinado"
-        ],
-        "link": "https://elpais.com/espana/2025-02-12/las-propias-acusaciones-piden-al-juez-peinado-que-argumente-mejor-una-imputacion.html",
-        "date": "2025-02-12 13:38:13",
-        "sentiment_score": -0.6830629464238882
-    },
-    {
-        "title": "Madrid sube el precio del agua a todos los consumidores ante el aumento de la población",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OZM2SMTFBFGYDO7SNON6V7CXQU.jpg?auth=828f696ea69e1cb438200ad88c4aa669e2edb6ffcc3e585ad623566f6010b340&width=1200",
-        "tags": [
-            "canal de isabel ii",
-            "isabel díaz ayuso",
-            "madrid",
-            "gobierno comunidad de madrid",
-            "agua",
-            "comunidad de madrid",
-            "medio ambiente"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-02-12/madrid-sube-el-precio-del-agua-a-todos-los-consumidores-ante-el-aumento-de-la-poblacion.html",
-        "date": "2025-02-12 12:55:57",
-        "sentiment_score": 0.4419250302016735
     },
     {
         "title": "Atlético de Madrid recordó a Falcao luego de confirmarse el duelo en las semifinales de la Copa del Rey ante FC Barcelona",
@@ -8187,5 +8127,474 @@ export default [
         "link": "https://2001online.com/zona3d/belleza/estimula-el-crecimiento-del-cabello-con-este-ingrediente-de-cocina-202521516300",
         "date": "2025-02-15 20:30:00",
         "sentiment_score": -0.7791005149483681
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este domingo 16 de febrero: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/JVBPGC533NCSXBUU3JUQUMPIFU.jpg?auth=99be4e6ea69ffb77adee15375d2252166b700a5de4dec3102d58b51b7e407bf9&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/16/pronostico-del-clima-en-barcelona-este-domingo-16-de-febrero-temperatura-lluvias-y-viento/",
+        "date": "2025-02-16 02:01:16",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Los viajeros LGBTQ+ de EEUU ven a España como un destino prioritario para los próximos tres años, según Turespaña",
+        "image_url": "https://www.infobae.com/resizer/v2/22WXEHOILJAPRJD3ROUMSY6Y5Q.jpg?auth=c538cec443de90f377be145d2568236d63384959b168a9a3e283142c8018e8d0&height=1920&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/05/los-viajeros-lgbtq-de-eeuu-ven-a-espana-como-un-destino-prioritario-para-los-proximos-tres-anos-segun-turespana/",
+        "date": "2025-02-16 01:47:16",
+        "sentiment_score": 0.11788800358772278
+    },
+    {
+        "title": "La Xunta presentará un recurso de alzada para pedir al Gobierno que exija responsabilidades por los pélets",
+        "image_url": "https://www.infobae.com/resizer/v2/VP2V2KQ2ZBCL7CA7XPC6YPQ6QU.jpg?auth=23244d044c39ab33286cb00e7f0a6073e22051f09ef0006534b6cf66d104e20a&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/la-xunta-presentara-un-recurso-de-alzada-para-pedir-al-gobierno-que-exija-responsabilidades-por-los-pelets/",
+        "date": "2025-02-16 01:46:46",
+        "sentiment_score": -0.105876125395298
+    },
+    {
+        "title": "Govern balear: \"Si las condiciones de Vox son estas, la consecuencia evidente es prorrogar los presupuestos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/C5TMCURROZG77FEKQLJ65INO5M.jpg?auth=2d57827f5f10134b5302ce3d5ccded80cb619473c78c04d72d8c7a9b603f227b&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/govern-balear-si-las-condiciones-de-vox-son-estas-la-consecuencia-evidente-es-prorrogar-los-presupuestos/",
+        "date": "2025-02-16 01:32:14",
+        "sentiment_score": -0.6452657617628574
+    },
+    {
+        "title": "Les Corts se personan ante el recurso de inconstitucionalidad impulsado por Compromís contra la ley educativa",
+        "image_url": "https://www.infobae.com/resizer/v2/K5F5DILUERDFXDT3TGBIOSRNPU.jpg?auth=4ae9583700f27af62cdd7e9c718ada7efffc50c0ede6a90862ffd92c92f10773&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/les-corts-se-personan-ante-el-recurso-de-inconstitucionalidad-impulsado-por-compromis-contra-la-ley-educativa/",
+        "date": "2025-02-16 01:31:57",
+        "sentiment_score": -0.8105057030916214
+    },
+    {
+        "title": "La Audiencia de Lugo absuelve por falta de pruebas a un acusado de agresión sexual a la hija menor de edad de su pareja",
+        "image_url": "https://www.infobae.com/resizer/v2/RFG6JAG2N5DDRAKZ4LQJLCV2IU.jpg?auth=e1306a3a2499cd89c25e35e37e77cad1162ad04819ce3a446e8cfb0d49ae5f40&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/la-audiencia-de-lugo-absuelve-por-falta-de-pruebas-a-un-acusado-de-agresion-sexual-a-la-hija-menor-de-edad-de-su-pareja/",
+        "date": "2025-02-16 01:17:29",
+        "sentiment_score": -0.7525482773780823
+    },
+    {
+        "title": "Gamarra dice a Vox que con el PP \"las amenazas y presiones no funcionan\" y deberá explicar por qué deja sin Presupuestos",
+        "image_url": "https://www.infobae.com/resizer/v2/JEBQ5BSQIRAARIU7V5HWKNBLXU.jpg?auth=5cb92ebc559c441be02ed6227503dd175a8fad489baefc5daecf4764760ff89a&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/gamarra-dice-a-vox-que-con-el-pp-las-amenazas-y-presiones-no-funcionan-y-debera-explicar-por-que-deja-sin-presupuestos/",
+        "date": "2025-02-16 01:17:10",
+        "sentiment_score": -0.8127535302191973
+    },
+    {
+        "title": "Lo mejor de YouTube España: lista de los videos del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/CZN6ZD4I7VCCVA3U3HDGVDHO6E.jpg?auth=60e3ac26feae75412083ddd384c5dd2d0727424dbc5f9832266609b9b881bf25&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/16/lo-mejor-de-youtube-espana-lista-de-los-videos-del-momento/",
+        "date": "2025-02-16 01:01:04",
+        "sentiment_score": 0.12217892706394196
+    },
+    {
+        "title": "El PP dice que hacer ministro a López era una \"plataforma\" y le desea lo mismo que en CyL, tras perder \"por 23 puntos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/Q5SZTPB3RJFGFC7BHZKIXEIAXY.jpg?auth=f154f8f90f19eff9f97cb96238c9f0e05e990125f4e7eab33d048cd03605c0f7&height=1301&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/el-pp-dice-que-hacer-ministro-a-lopez-era-una-plataforma-y-le-desea-lo-mismo-que-en-cyl-tras-perder-por-23-puntos/",
+        "date": "2025-02-16 00:02:16",
+        "sentiment_score": -0.5290497615933418
+    },
+    {
+        "title": "José Cepeda (PSOE-M) elogia a Óscar López, apoya su candidatura y llama a la unidad en torno a este proyecto",
+        "image_url": "https://www.infobae.com/resizer/v2/MDDPSZ75FZCWPCWOFGLEXABRMQ.jpg?auth=8c2ddab4748b6ddab45ebdb7fae22279f21aa5e320f96f31a8f65966c03fb8d7&height=1253&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/jose-cepeda-psoe-m-elogia-a-oscar-lopez-apoya-su-candidatura-y-llama-a-la-unidad-en-torno-a-este-proyecto/",
+        "date": "2025-02-16 00:01:57",
+        "sentiment_score": 0.7815460301935673
+    },
+    {
+        "title": "Estampida en estación de tren deja 15 muertos en Nueva Delhi",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/estampida-tren-india-mirador-mundial-tv-00-00-05-13-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/estampida-tren-india-mirador-mundial-tv/",
+        "date": "2025-02-16 01:20:24",
+        "sentiment_score": -0.8594250455498695
+    },
+    {
+        "title": "Cochayuyo, el \"alimento del futuro\" que sustenta a familias chilenas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21382487-66466-679-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cochayuyo-alimento-familias-chilenas-mirador-mundial-tv/",
+        "date": "2025-02-16 01:15:45",
+        "sentiment_score": 0.204789936542511
+    },
+    {
+        "title": "Negociación entre Moscú-EE.UU. sería negativa para Ucrania, dice experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21169080-290-6670000000000.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-rusia-ucrania-washington-moscu-negociacion-mirador-mundial-tv/",
+        "date": "2025-02-16 00:45:21",
+        "sentiment_score": -0.19649817049503326
+    },
+    {
+        "title": "En Argentina la figura del desaparecido es muy fuerte, dice amigo de Iair Horn",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2199020411.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/amigo-rehen-liberado-israel-hamas-desaparecido-mirador-mundial-tv/",
+        "date": "2025-02-16 00:43:07",
+        "sentiment_score": -0.13272196054458618
+    },
+    {
+        "title": "Así fue el sexto canje de prisioneros entre Israel y Hamas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2199120412.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/intercambio-rehenes-prisioneros-israel-hamas-mirador-mundial-tv/",
+        "date": "2025-02-16 00:41:23",
+        "sentiment_score": -0.40270813554525375
+    },
+    {
+        "title": "Familiares y seres queridos despiden a víctimas de accidente de autobús en Guatemala",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198402124.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/victimas-accidente-autobus-guatemala-mirador-mundial-tv/",
+        "date": "2025-02-16 00:37:55",
+        "sentiment_score": -0.7248776126652956
+    },
+    {
+        "title": "El Vaticano asegura que papa Francisco no encabezará ceremonia del Ángelus",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2197914226.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/vaticano-salud-papa-francisco-mirador-mundial-tv-fast/",
+        "date": "2025-02-15 23:52:11",
+        "sentiment_score": -0.7010409589856863
+    },
+    {
+        "title": "Científicos estudian en China restos fosilizados del ave más antigua descubierta del período Jurásico tardío",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cientificos-china-restos-fosilizados-ave-mas-antigua-orix-00-00-14-11-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cientificos-china-restos-fosilizados-ave-mas-antigua-orix/",
+        "date": "2025-02-15 23:28:42",
+        "sentiment_score": -0.10118265450000763
+    },
+    {
+        "title": "La temporalidad se cronifica en el sector público",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-temporalidad-cronifica-sector-publico-20250216022719-nt.html",
+        "date": "2025-02-16 01:27:24",
+        "sentiment_score": -0.18633243441581726
+    },
+    {
+        "title": "Una estadística sin sospecha",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-estadistica-sospecha-20250216022703-nt.html",
+        "date": "2025-02-16 01:27:14",
+        "sentiment_score": -0.08396261930465698
+    },
+    {
+        "title": "Más de 1.000 personas asistirán a la gala de 'Las Top 100' en el Teatro Real: así será la ceremonia",
+        "image_url": "https://s1.elespanol.com/2025/02/15/mujer/lastop100/924417766_253151743_1706x960.jpg?contentId=ESPIMA20250215_0217",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/lastop100/20250216/personas-asistiran-gala-top-teatro-real-ceremonia/923657771_0.html",
+        "date": "2025-02-16 01:48:13",
+        "sentiment_score": 0.32728884369134903
+    },
+    {
+        "title": "Historia en 4 tiempos | Un día como hoy: \"¿Se ha pensado en la calle norte del Posío?\"",
+        "image_url": "https://static.laregion.es/clip/d7792e0f-312e-4992-aa8e-851fe63b9592_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/provincia/historia-4-tiempos-dia-hoy_1_20250216-3413831.html",
+        "date": "2025-02-16 01:30:31",
+        "sentiment_score": -0.04082157462835312
+    },
+    {
+        "title": "Laporta, Bartomeu, Rosell y Núñez: ¿Qué presidente ha ganado más títulos en la historia del Barça?",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/16/culemania/palco/924667525_14124336_1706x960.jpg?contentId=ESPIMA20250216_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250216/laporta-bartomeu-rosell-nunez-que-presidente-barca/924407603_0.html",
+        "date": "2025-02-16 01:28:06",
+        "sentiment_score": 0.7065048776566982
+    },
+    {
+        "title": "Jaka Lakovic: «Sin acierto en el triple es imposible ganar al Madrid»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9f913bf3-7f2a-441b-b82d-90bb594e0079_16-9-aspect-ratio_default_1355868.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2025/02/16/acierto-triple-imposible-ganar-madrid-114348954.html",
+        "date": "2025-02-16 01:01:01",
+        "sentiment_score": -0.34859780967235565
+    },
+    {
+        "title": "Triana, la otra Torre de Babel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/19733c9e-94cd-4727-872c-198036c67692_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2025/02/16/triana-torre-babel-114348942.html",
+        "date": "2025-02-16 01:01:01",
+        "sentiment_score": 0.09657169878482819
+    },
+    {
+        "title": "Negreira sigue presente",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2022/02/23/621666d1b4142.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250216/negreira-sigue-presente_270744.html",
+        "date": "2025-02-16 00:30:00",
+        "sentiment_score": 0.18601733446121216
+    },
+    {
+        "title": "Estados Unidos y Rusia inician contactos para la cumbre Trump-Putin",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "internacionales",
+            "política",
+            "estados unidos",
+            "rusia"
+        ],
+        "link": "https://noticialdia.com/politica/estados-unidos-y-rusia-inician-contactos-para-la-cumbre-trump-putin/",
+        "date": "2025-02-16 00:03:19",
+        "sentiment_score": 0.05024617165327072
+    },
+    {
+        "title": "El Atlético Paso visita ‘La Fábrica’ del Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c0d47adb-ce46-4a65-9c8c-882b6efac8d7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/deportes-canarias/2025/02/16/atletico-paso-visita-fabrica-madrid-114348995.html",
+        "date": "2025-02-16 00:00:00",
+        "sentiment_score": 0.30506885051727295
+    },
+    {
+        "title": "El Real Madrid va a recurrir la expulsión a Jude Bellingham",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/02/15/67b116ac86769.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/real-madrid-recurrir-expulsion-jude-bellingham-20250216_3096619.html",
+        "date": "2025-02-15 23:59:50",
+        "sentiment_score": -0.1726950854063034
+    },
+    {
+        "title": "«Performance» de acoso escolar",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b453d45-dcc1-4a86-a13d-8899de709c74_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2025/02/16/performance-acoso-escolar-114348739.html",
+        "date": "2025-02-15 23:51:49",
+        "sentiment_score": -0.7433592453598976
+    },
+    {
+        "title": "Otra visión sobre la España de ahora",
+        "image_url": "https://static.grupojoly.com/clip/dff5e7f4-5202-4e2b-8a70-15a6277c21d2_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/vision-espana-ahora_0_2003344915.html",
+        "date": "2025-02-16 02:07:23",
+        "sentiment_score": -0.15244800597429276
+    },
+    {
+        "title": "Hic sunt dracones",
+        "image_url": "https://static.laregion.es/clip/62ddf8f1-9c89-4871-88b7-aa72274e904f_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/opinion/hic-sunt-dracones_1_20250216-3414013.html",
+        "date": "2025-02-16 01:40:41",
+        "sentiment_score": -0.5536193624138832
+    },
+    {
+        "title": "Lo desconocido de Salva Reina: De estrella de 'El 47' a su amor por Kira Miró",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/portada-salva-reina_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/salva-reina-desconocido-estrella-47-amor-kira-miro",
+        "date": "2025-02-16 01:30:00",
+        "sentiment_score": 0.6872064098715782
+    },
+    {
+        "title": "El arte emergente brilla como medida de la historia con la Fundación Banco Santander",
+        "image_url": "https://s1.elespanol.com/2025/02/14/el-cultural/arte/924168396_253138951_1706x960.jpg?contentId=ESPIMA20250214_0822",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20250216/arte-emergente-brilla-medida-historia-fundacion-banco-santander/922408264_0.html",
+        "date": "2025-02-16 01:00:00",
+        "sentiment_score": 0.4957910403609276
+    },
+    {
+        "title": "Quin és el nou ‘star-system’ català?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MY64MQTLL5AGTHSXYBTEGPOCV4.jpg?auth=0cf656be4d743137e67a723c0bbb49b02e3a137eefe06568f318ab93cc82803e&width=1200",
+        "tags": [
+            "influencers",
+            "emma vilarasau",
+            "cataluña",
+            "televisión",
+            "cultura",
+            "tendencias",
+            "tv3"
+        ],
+        "link": "https://elpais.com/quadern/cinema-i-televisio/2025-02-16/quin-es-el-nou-star-system-catala.html",
+        "date": "2025-02-16 00:41:04",
+        "sentiment_score": -0.5354665145277977
+    },
+    {
+        "title": "Los 11 pactos de Barça y Nápoles para cerrar el fichaje más caro",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/14/culemania/historias-del-barca/924167801_14122048_1706x960.jpg?contentId=ESPIMA20250214_0227",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20250216/los-pactos-barca-napoles-para-cerrar-fichaje/924157688_0.html",
+        "date": "2025-02-16 00:31:07",
+        "sentiment_score": -0.3590082712471485
+    },
+    {
+        "title": "Juramentan comisión para Reforma Constitucional: Tendrá cuatro objetivos centrales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/juramentan-comision-para-reforma-constitucional-tendra-cuatro-objetivos-centrales-202521521350",
+        "date": "2025-02-16 01:35:00",
+        "sentiment_score": -0.058742955327034
+    },
+    {
+        "title": "JC Penney anuncia el cierre de 8 sucursales en diferentes ubicaciones: Sepa cuándo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/jc-penney-anuncia-el-cierre-de-8-sucursales-en-diferentes-ubicaciones-sepa-cuando--202521521110",
+        "date": "2025-02-16 01:11:00",
+        "sentiment_score": -0.7463537845760584
+    },
+    {
+        "title": "Multas de 100 euros en Baruta: Sepa qué infractores deben pagarlas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/multas-de-100-euros-en-baruta-sepa-que-infractores-deben-pagarlas-20252152100",
+        "date": "2025-02-16 01:00:00",
+        "sentiment_score": 0.29182426631450653
+    },
+    {
+        "title": "Buscan a venezolana desaparecida en Ecuador desde hace cinco meses: Iba a una entrevista de trabajo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/buscan-a-venezolana-desaparecida-en-ecuador-desde-hace-cinco-meses-iba-a-una-entrevista-de-trabajo-202521520300",
+        "date": "2025-02-16 00:30:00",
+        "sentiment_score": -0.10940494388341904
+    },
+    {
+        "title": "Casi 40 atletas de élite participarán en el Maratón CAF este 16 de febrero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/casi-40-atletas-de-elite-participaran-en-el-maraton-caf-este-16-de-febrero-202521520140",
+        "date": "2025-02-16 00:14:00",
+        "sentiment_score": 0.3066389858722687
+    },
+    {
+        "title": "La moneda de 1917 que puede valer $150.000: ¿Cómo identificar el ejemplar de 50 centavos?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/la-moneda-de-1917-que-puede-valer-150-000-como-identificar-el-ejemplar--20252152030",
+        "date": "2025-02-16 00:03:00",
+        "sentiment_score": 0.8089964613318443
+    },
+    {
+        "title": "Monica Lewinsky revive su relación con el expresidente Bill Clinton: No era agresión sexual",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/monica-lewinsky-revive-su-relacion-con-el-expresidente-bill-clinton-no-era-agresion-sexual--20252152000",
+        "date": "2025-02-16 00:00:00",
+        "sentiment_score": -0.39552272111177444
+    },
+    {
+        "title": "Cómo aceptar pagos y transferir montos desde tu usuario Patria: Cinco pasos sencillos",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739652269057/PENSIONADOS.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/como-aceptar-pagos-y-transferir-montos-desde-tu-usuario-patria-cinco-pasos-sencillos-20252152000",
+        "date": "2025-02-16 00:00:00",
+        "sentiment_score": 0.3873900752514601
+    },
+    {
+        "title": "Maduro presenta propuesta de reforma constitucional ante la AN",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-presenta-propuesta-de-reforma-constitucional-ante-la-an--202521519170",
+        "date": "2025-02-15 23:17:00",
+        "sentiment_score": 0.14864633232355118
+    },
+    {
+        "title": "Una mujer fue traicionada por su amigo: Convirtió en porno su imagen con IA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/una-mujer-fue-traicionada-por-su-amigo-convirtio-en-porno-su-imagen-con-ia-20252151900",
+        "date": "2025-02-15 23:00:00",
+        "sentiment_score": -0.18959319591522217
     }
 ];
