@@ -130,76 +130,6 @@ export default [
         "sentiment_score": -0.3938102275133133
     },
     {
-        "title": "Las partes presentan alegatos finales en el juicio a Rubiales",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_c43d04.png",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/alegatos-finales-juicio-rubiales-cafe-tv-fast/",
-        "date": "2025-02-13 14:08:45",
-        "sentiment_score": -0.04206741601228714
-    },
-    {
-        "title": "Hamas confirma liberación de rehenes israelíes, pero pide respeto al acuerdo y seguridad para el pueblo de Gaza",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2197703486.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hamas-confirma-liberacion-rehenes-cafe-tv/",
-        "date": "2025-02-13 14:03:14",
-        "sentiment_score": 0.26182931661605835
-    },
-    {
-        "title": "Liberan a estadounidense detenido en una prisión de Belarús",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21376395-739389-956-still.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/liberan-estadounidense-detenido-prision-belarus-cafe-tv/",
-        "date": "2025-02-13 13:57:52",
-        "sentiment_score": -0.3949916213750839
-    },
-    {
-        "title": "Análisis de la actualidad de la guerra entre Rusia y Ucrania",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_f3e936.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/analisis-actualidad-guerra-rusia-ucrania-primera-manana-fast/",
-        "date": "2025-02-13 12:58:52",
-        "sentiment_score": -0.1667778119444847
-    },
-    {
-        "title": "Así quedó la zona donde un coche atropelló a una multitud en Munich",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/raw-v1-00-00-10-00-still002-20250213124442283.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/munich-coche-atropella-trax/",
-        "date": "2025-02-13 12:47:24",
-        "sentiment_score": -0.8622988387942314
-    },
-    {
-        "title": "Cianobacterias en el río Uruguay dejan verde el agua",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/0-20250213123504867.jpg?quality=100&strip=info",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cianobacterias-rio-uruguay-redaccion-buenos-aires-tv/",
-        "date": "2025-02-13 12:38:50",
-        "sentiment_score": -0.411412812769413
-    },
-    {
-        "title": "Vídeos captan una explosión de gas en un centro comercial de Taiwán",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/taiwan-mall-gas-explosion-thumb-1-20250213105758366.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/explosion-centro-comercial-taiwan-trax/",
-        "date": "2025-02-13 11:01:38",
-        "sentiment_score": -0.7968297442421317
-    },
-    {
         "title": "Fedea aboga por excluir del radio de acción de la quita de deuda a las haciendas forales de Navarra y País Vasco",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/02/13/Noel_Montero_1-RIi8Ns93WMgOhXkEwNOaamL-1200x840@diario_abc.jpg",
         "tags": [
@@ -248,56 +178,6 @@ export default [
         "link": "https://www.abc.es/internacional/zelenski-revela-trump-transmitio-sensacion-putin-quiere-20250213163248-nt.html",
         "date": "2025-02-13 15:33:11",
         "sentiment_score": -0.1645539402961731
-    },
-    {
-        "title": "El Gobierno de Meloni apoya totalmente a Ucrania y pide que Europa participe en las negociaciones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/13/meloni-kfND-U702555728830WF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/gobierno-meloni-apoya-totalmente-ucrania-pide-europa-20250213143048-nt.html",
-        "date": "2025-02-13 13:34:37",
-        "sentiment_score": -0.07602640986442566
-    },
-    {
-        "title": "La Abogada General de la UE respalda las demandas de los inversores contra el Banco Popular previas a su disolución",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/02/13/angelron-RVjsAwWTePdDODZ6jxhv4dJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/abogada-general-ue-respalda-demandas-inversores-banco-20250213140804-nt.html",
-        "date": "2025-02-13 13:22:19",
-        "sentiment_score": -0.159826397895813
-    },
-    {
-        "title": "Decepción en Kiev: «Sin la OTAN, los ucranianos seguimos siendo vulnerables a las futuras agresiones de Rusia»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/13/guerra-ucrania-kpr-U70255344967dVB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/decepcion-kiev-otan-ucranianos-seguimos-vulnerables-futuras-20250213140618-nt.html",
-        "date": "2025-02-13 13:06:19",
-        "sentiment_score": -0.10277172923088074
-    },
-    {
-        "title": "Talgo se desploma más de un 6% en Bolsa tras el bloqueo del Gobierno a la opa polaca",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/02/13/1492236237-R4ozez8EpBp2c2zguCtPT9M-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/talgo-desploma-bolsa-tras-bloqueo-gobierno-opa-20250213133608-nt.html",
-        "date": "2025-02-13 12:37:45",
-        "sentiment_score": -0.1532398909330368
-    },
-    {
-        "title": "ING nombra a Alfonso Tolcheff consejero delegado en España y Portugal tras la marcha de Ignacio Juliá al Santander",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/02/13/1486932702-RErzn4DzJQdoHns0jsbEYyN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ing-nombra-alfonso-tolcheff-consejero-delegado-espana-20250213130824-nt.html",
-        "date": "2025-02-13 12:08:25",
-        "sentiment_score": 0.04486319422721863
     },
     {
         "title": "Barcelona ofrece la primera gran exposición de Botero en el Palau Martorell",
@@ -7823,5 +7703,435 @@ export default [
         "link": "https://2001online.com/farandula/suspende-concierto-hospitalizan-a-shakira-en-lima-202521616340",
         "date": "2025-02-16 20:34:00",
         "sentiment_score": -0.32162361592054367
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 17 de febrero en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/UZTM5LTKWNGDDJD2DNZLHLU3YQ.jpg?auth=92c77386879f63888ea4a177aa516acda7fe2db9e40dd43ab151c02b81becf59&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/17/clima-las-temperaturas-que-predominaran-este-17-de-febrero-en-barcelona/",
+        "date": "2025-02-17 02:02:12",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Controlan un escape de amoniaco en una empresa de Vilamalla (Girona) que deja 7 afectados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/17/controlan-un-escape-de-amoniaco-en-una-empresa-de-vilamalla-girona-que-deja-7-afectados/",
+        "date": "2025-02-17 01:46:26",
+        "sentiment_score": -0.7698195520788431
+    },
+    {
+        "title": "El secretario general del Congreso da la razón al PP frente a un veto del Gobierno a una ley del PP",
+        "image_url": "https://www.infobae.com/resizer/v2/AKS3L337LBBONC6NWRM3TBBEBU.jpg?auth=9060a957c75bcd2d639c9a24bf19eaa3dcce9aa1ca15919def2532b89319dd48&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/el-secretario-general-del-congreso-da-la-razon-al-pp-frente-a-un-veto-del-gobierno-a-una-ley-del-pp/",
+        "date": "2025-02-17 01:16:44",
+        "sentiment_score": -0.2257610559463501
+    },
+    {
+        "title": "Godàs (ERC) ofrece a 'Foc Nou' que la militancia vote en otoño de 2025 sobre el pacto con el PSC",
+        "image_url": "https://www.infobae.com/resizer/v2/6BYYMBJ575DEFCH2RFTBBZYYCA.jpg?auth=02ce863e1989d72d86a31b8fa332d684268e89d78a835afceddda5177877b26e&height=1361&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/05/godas-erc-ofrece-a-foc-nou-que-la-militancia-vote-en-otono-de-2025-sobre-el-pacto-con-el-psc/",
+        "date": "2025-02-17 01:02:06",
+        "sentiment_score": 0.21439407020807266
+    },
+    {
+        "title": "Feijóo dice que \"España no es fiable para la OTAN y la UE\" y que eso lo debilita ante EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/17/feijoo-dice-que-espana-no-es-fiable-para-la-otan-y-la-ue-y-que-eso-lo-debilita-ante-eeuu/",
+        "date": "2025-02-17 01:00:35",
+        "sentiment_score": -0.919050726108253
+    },
+    {
+        "title": "Herido grave un joven atropellado por un coche cuando iba en patinete por Pinto (Madrid)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/16/herido-grave-un-joven-atropellado-por-un-coche-cuando-iba-en-patinete-por-pinto-madrid/",
+        "date": "2025-02-16 23:46:10",
+        "sentiment_score": -0.8345227874815464
+    },
+    {
+        "title": "Cuál es la canción de K-pop más famosa en iTunes España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/GBOXIRAJE5GOTL6A3VJTKG5N7M.jpg?auth=31ca61fa5f3f7deb33418fa4447701e40f849d24f80328e16cb716218f013e20&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/16/cual-es-la-cancion-de-k-pop-mas-famosa-en-itunes-espana-hoy/",
+        "date": "2025-02-16 23:30:27",
+        "sentiment_score": 0.0644657239317894
+    },
+    {
+        "title": "Casares, nuevo secretario general del PSOE cántabro tras ganar las primarias con el 52% de los votos",
+        "image_url": "https://www.infobae.com/resizer/v2/VYU45TO5DZEDDPZN5DMYOCNXM4.jpg?auth=4970b7072d2858b852a27e28e2970a8eba6f8727a5b5af5e8992078447e3dc01&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/16/casares-nuevo-secretario-general-del-psoe-cantabro-tras-ganar-las-primarias-con-el-52-de-los-votos/",
+        "date": "2025-02-16 23:30:15",
+        "sentiment_score": 0.27080561220645905
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 17 de febrero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/16/hoy-sera-noticia-lunes-17-de-febrero/",
+        "date": "2025-02-16 23:16:11",
+        "sentiment_score": 0.04490754008293152
+    },
+    {
+        "title": "Cepyme calcula que la subida del 61 % del SMI ha impedido la creación de 350.000 empleos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/16/cepyme-calcula-que-la-subida-del-61-del-smi-ha-impedido-la-creacion-de-350000-empleos/",
+        "date": "2025-02-16 23:15:54",
+        "sentiment_score": -0.6822983957827091
+    },
+    {
+        "title": "Rusos recuerdan a Navalny, gran crítico de Putin, en su aniversario luctuoso",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2199271073.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusia-alexei-navalny-vladimir-putin-aniversario-muerte-trax/",
+        "date": "2025-02-17 00:52:54",
+        "sentiment_score": -0.5325937569141388
+    },
+    {
+        "title": "\"El fin del conflicto parece acordarse entre Rusia y EE.UU.\", dice experto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1202252353-20250217004348107.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/guerra-rusia-ucrania-europa-eeuu-mirador-mundial-tv/",
+        "date": "2025-02-17 00:44:36",
+        "sentiment_score": -0.2810807451605797
+    },
+    {
+        "title": "La salud del papa Francisco se mantiene estable, pero hay dudas sobre cuándo retomará sus actividades",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198441914.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francisco-salud-bronquitis-estable-mirador-mundial-tv/",
+        "date": "2025-02-17 00:42:45",
+        "sentiment_score": -0.28376827389001846
+    },
+    {
+        "title": "Ana Corina Sosa Machado habla de la situación que está viviendo su madre María Corina Machado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21384296-36413-797000000006-still.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ivan-allen-jr-justicia-social-georgia-instituto-premio-maria-corina-machado-hija-mirador-mundial-tv/",
+        "date": "2025-02-17 00:33:55",
+        "sentiment_score": -0.33483467996120453
+    },
+    {
+        "title": "Piden juicio contra Milei por escándalo de criptomoneda",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2159729334.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milei-criptomoneda-juicio-politico-mirador-mundial-tv-fast/",
+        "date": "2025-02-17 00:24:09",
+        "sentiment_score": -0.9086098577827215
+    },
+    {
+        "title": "República Dominicana lucha contra la migración ilegal por medio de un muro fronterizo con Haití",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2157899320.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/republica-dominicana-haiti-muro-fronterizo-mirador-mundial-tv/",
+        "date": "2025-02-17 00:12:41",
+        "sentiment_score": -0.32253752648830414
+    },
+    {
+        "title": "Lazos EE.UU-Israel continúan fortaleciéndose para estrategias conjuntas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2199339028.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-israel-estrategia-politica-mirador-mundial-tv/",
+        "date": "2025-02-16 23:26:00",
+        "sentiment_score": 0.3741641789674759
+    },
+    {
+        "title": "El cinco",
+        "image_url": "https://static.grupojoly.com/clip/6484f85b-d562-4c9b-b38e-97f7f53f985f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodecadiz.es/opinion/articulos/cinco_0_2003348381.html",
+        "date": "2025-02-17 02:04:16",
+        "sentiment_score": -0.045346349477767944
+    },
+    {
+        "title": "Las series favoritas del público en Prime Video México",
+        "image_url": "https://www.infobae.com/resizer/v2/64ZG4P2DH5GMLP6HIVPKXYWRHU.jpg?auth=776bf646a240b7869ed2599c3bffaf8233e942e35a69ad2d28f0139fa915c3ba&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/02/17/las-series-favoritas-del-publico-en-prime-video-mexico/",
+        "date": "2025-02-17 02:01:32",
+        "sentiment_score": 0.7547858096659184
+    },
+    {
+        "title": "Publican ranking de los 10 deportistas mejor pagados del mundo en 2025: Messi y CR7 vigentes",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739592830425.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/publican-ranking-de-los-10-deportistas-mejor-pagados-del-mundo-en-2025-messi-y-cr7-vigentes-20252162200",
+        "date": "2025-02-17 02:00:00",
+        "sentiment_score": 0.6809642184525728
+    },
+    {
+        "title": "Vídeo | Las Top 100 y la fuerza del liderazgo femenino: cuando el éxito se mide en impacto y solidaridad",
+        "image_url": "https://s1.elespanol.com/2025/02/17/espana/924927499_253174923_1706x960.jpg?contentId=ESPVID20250217_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/mujeres-historia/20250217/video-top-fuerza-liderazgo-femenino-exito-mide-impacto-solidaridad/924907504_0.html",
+        "date": "2025-02-17 01:10:17",
+        "sentiment_score": 0.5910954959690571
+    },
+    {
+        "title": "Starmer dice estar \"listo y dispuesto\" a enviar tropas británicas a Ucrania si se alcanza un acuerdo de paz",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250217014717_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-starmer-dice-estar-listo-dispuesto-enviar-tropas-britanicas-ucrania-si-alcanza-acuerdo-paz-20250217014717.html",
+        "date": "2025-02-17 00:47:17",
+        "sentiment_score": -0.09195616841316223
+    },
+    {
+        "title": "Tenerife acogerá uno de los diez conciertos para conmemorar el décimo aniversario del reinado de Felipe VI",
+        "image_url": "https://www.infobae.com/resizer/v2/K74G2W7BC5ASRBRBWKGLNQMOX4.jpg?auth=4f5b7fa9d8e78feac4eb73d8fee57712fe901790d0aa85e1567b19edd9db7b9d&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/05/tenerife-acogera-uno-de-los-diez-conciertos-para-conmemorar-el-decimo-aniversario-del-reinado-de-felipe-vi/",
+        "date": "2025-02-17 00:46:42",
+        "sentiment_score": 0.22077853977680206
+    },
+    {
+        "title": "¿Está bien expulsado Bellingham?, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/02/17/67b27e3a6c78a.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/expulsado-bellingham-tertulion-domingos-20250217_3096782.html",
+        "date": "2025-02-17 00:13:34",
+        "sentiment_score": -0.1584324687719345
+    },
+    {
+        "title": "El máximo goleador nacional de Tercera en 1969",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/02/17/102419028-kDmG--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/aviles/maximo-goleador-nacional-tercera-1969-20250217074406-nt.html",
+        "date": "2025-02-17 00:00:00",
+        "sentiment_score": 0.1424691379070282
+    },
+    {
+        "title": "El Atlético Paso estrena su casillero de puntos a domicilio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/87826c85-109b-4058-82cc-0eadcd0fadaa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/deportes-canarias/2025/02/17/atletico-paso-estrena-casillero-puntos-114373996.html",
+        "date": "2025-02-17 00:00:00",
+        "sentiment_score": 0.3090051859617233
+    },
+    {
+        "title": "Borja Cobeaga desmonta la monarquía",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/02/13/su-majestad-kXGB-U230851194733rKI-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elnortedecastilla.es/pantallas/series/borja-cobeaga-desmonta-monarquia-20250213003401-ntrc.html",
+        "date": "2025-02-16 23:48:58",
+        "sentiment_score": -0.8209282979369164
+    },
+    {
+        "title": "Los resultados récord impulsan a la banca en bolsa pese a la bajada de tipos y suben en mes y medio más que en todo 2024",
+        "image_url": "https://s1.elespanol.com/2025/02/14/invertia/mercados/924168257_253134690_1706x960.jpg?contentId=ESPIMA20250214_0683",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/mercados/20250217/resultados-record-impulsan-banca-bolsa-pese-bajada-tipos-suben-mes-medio/924158059_0.html",
+        "date": "2025-02-17 01:57:26",
+        "sentiment_score": 0.22604051604866982
+    },
+    {
+        "title": "Las 5 películas más populares de Penélope Cruz",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/QJVMWZ3GJNCCTJCZ3JXSRBOJPA.jpg?auth=4dc3cacb519ecf2427fbf78e91bf87ae25d2db702e1560478e8a0ddabf593c87&height=581&smart=true&width=1170",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/entretenimiento/2025/02/17/las-5-peliculas-mas-populares-de-penelope-cruz/",
+        "date": "2025-02-17 01:49:59",
+        "sentiment_score": 0.43399855494499207
+    },
+    {
+        "title": "Liga de Quito empata con el debutante Vinotinto en el comienzo de la liga en Ecuador",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/17/liga-de-quito-empata-con-el-debutante-vinotinto-en-el-comienzo-de-la-liga-en-ecuador/",
+        "date": "2025-02-17 01:30:35",
+        "sentiment_score": 0.36087072640657425
+    },
+    {
+        "title": "El Barça paga 50 veces más de alquiler en Montjuïc que el Rayo en Vallecas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/08/09/culemania/palco/785431681_8412417_1706x960.jpg?contentId=ESPIMA20230809_0232",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250217/el-barca-alquiler-en-montjuic-rayo-vallecas/924907501_0.html",
+        "date": "2025-02-17 01:05:26",
+        "sentiment_score": -0.07367570698261261
+    },
+    {
+        "title": "16 FEB 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/16-feb-2025-tertulion-domingos-20250217_3096793.html",
+        "date": "2025-02-17 01:00:00",
+        "sentiment_score": -0.6250969171524048
+    },
+    {
+        "title": "El cambio climático y el abandono rural se imponen a los árboles: este podría ser el nuevo paisaje español",
+        "image_url": "https://s1.elespanol.com/2025/02/12/actualidad/923667987_253052741_1706x960.jpg?contentId=ESPIMA20250212_0363",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20250217/cambio-climatico-abandono-rural-imponen-arboles-podria-nuevo-paisaje-espanol/923657864_0.html",
+        "date": "2025-02-17 00:38:28",
+        "sentiment_score": -0.7866655997931957
+    },
+    {
+        "title": "La infamia de Pedro y Francina",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6624045da.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250217/infamia-pedro-francina_270859.html",
+        "date": "2025-02-17 00:30:00",
+        "sentiment_score": -0.9447419224306941
+    },
+    {
+        "title": "Predicciones de la semana del 17 al 23 de febrero",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739537369735.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-17-al-23-de-febrero-20252162200",
+        "date": "2025-02-17 02:00:00",
+        "sentiment_score": -0.050962597131729126
+    },
+    {
+        "title": "Miami-Dade anuncia cambios para tramitar licencias de conducir: La medida busca mejorar el servicio",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739757467666.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/miami-dade-anuncia-cambios-para-tramitar-licencias-de-conducir-la-medida-busca-mejorar-el-servicio-202521621540",
+        "date": "2025-02-17 01:54:00",
+        "sentiment_score": 0.5718466937541962
+    },
+    {
+        "title": "Banco de Venezuela: Los tres requisitos para abrir una cuenta en dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739712535179.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banco-de-venezuela-los-tres-requisitos-para-abrir-una-cuenta-en-dolares-20252162100",
+        "date": "2025-02-17 01:00:00",
+        "sentiment_score": 0.06916100904345512
+    },
+    {
+        "title": "Real ID en California: ¿Cuáles son las tres formas de tramitar el documento gratis?",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739752873012.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/real-id-en-california-cuales-son-las-tres-formas-de-tramitar-el-documento-gratis--202521620380",
+        "date": "2025-02-17 00:38:00",
+        "sentiment_score": 0.03196949511766434
+    },
+    {
+        "title": "Hombre de 40 años cae al vacío en la estación del Metro La Bandera",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739751757311.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/hombre-de-40-anos-cae-al-vacio-en-la-estacion-del-metro-la-bandera-202521620200",
+        "date": "2025-02-17 00:20:00",
+        "sentiment_score": -0.42722228169441223
+    },
+    {
+        "title": "Saime: Siete pasos a seguir para solicitar la cédula de identidad para menores por primera vez",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739736384625.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/saime-siete-pasos-a-seguir-para-solicitar-la-cedula-de-identidad-para-menores-por-primera-vez-20252162000",
+        "date": "2025-02-17 00:00:00",
+        "sentiment_score": 0.08695316687226295
+    },
+    {
+        "title": "Hombre asesina a niña de 11 años por perder un partido en el videojuego Fortnite",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739746994230.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/hombre-asesina-a-nina-de-11-anos-por-perder-un-partido-en-el-videojuego-fortnite-202521619300",
+        "date": "2025-02-16 23:30:00",
+        "sentiment_score": -0.3057595416903496
+    },
+    {
+        "title": "Trump se reunirá con Putin para poner fin a la guerra en Ucrania: Muy pronto",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739748464219.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-se-reunira-con-putin-para-poner-fin-a-la-guerra-en-ucrania-muy-pronto-202521619300",
+        "date": "2025-02-16 23:30:00",
+        "sentiment_score": -0.02660471946001053
+    },
+    {
+        "title": "Texas busca almacenistas que hablen español por $560 semanales: Solo se requiere título de secundaria",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739748408614.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-busca-almacenistas-que-hablen-espanol-por-560-semanales-solo-se-requiere-titulo-de-secundaria-202521619250",
+        "date": "2025-02-16 23:25:00",
+        "sentiment_score": 0.10904432646930218
     }
 ];
