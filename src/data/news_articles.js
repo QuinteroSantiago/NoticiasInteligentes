@@ -120,56 +120,6 @@ export default [
         "sentiment_score": -0.3557301238179207
     },
     {
-        "title": "Hospitalizan al papa Francisco para tratar bronquitis",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_6675d1.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/hospitalizan-papa-francisco-bronquitis-cafe-tv-fast/",
-        "date": "2025-02-14 13:59:09",
-        "sentiment_score": -0.09903077781200409
-    },
-    {
-        "title": "Inflación en enero según el INDEC",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_525d2e.png",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/inflacion-enero-indec-primera-manana-fast/",
-        "date": "2025-02-14 13:46:36",
-        "sentiment_score": -0.08147664740681648
-    },
-    {
-        "title": "Líderes mundiales se reúnen en la Cumbre de Seguridad de Munich",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_144904.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/lideres-mundiales-cumbre-seguridad-munich-cafe-tv-fast/",
-        "date": "2025-02-14 13:25:53",
-        "sentiment_score": -0.017576009035110474
-    },
-    {
-        "title": "VIDEO | Ucrania afirma que Rusia atacó con drones Chernobyl",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/thumb-chernobyl-3-20250214124909595.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/chernobyl-ucrania-rusia-drones-trax/",
-        "date": "2025-02-14 12:50:24",
-        "sentiment_score": -0.7006967142224312
-    },
-    {
-        "title": "Guerra entre Rusia y Ucrania, en vivo: Zelensky se reúne con Vance",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198812887.jpg?quality=100&strip=info",
-        "tags": [
-            "minuto cnn"
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/02/14/guerra-rusia-ucrania-trump-noticias-trax/",
-        "date": "2025-02-14 12:24:48",
-        "sentiment_score": 0.027725771069526672
-    },
-    {
         "title": "El organismo de control del Tesoro de EE.UU. inicia una auditoría sobre el acceso del equipo de Musk al sistema federal de pagos",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/14/MuskTrump-kCnB-U702617528053XG-1200x840@diario_abc.jpg",
         "tags": [
@@ -208,56 +158,6 @@ export default [
         "link": "https://www.abc.es/economia/ayuda-1000-euros-padres-hijos-nacidos-partir-20250214153658-nt.html",
         "date": "2025-02-14 14:36:58",
         "sentiment_score": -0.11052964627742767
-    },
-    {
-        "title": "Von der Leyen: «Intensificaremos el trabajo para acelerar el proceso de adhesión de Ucrania en la UE»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/14/VONDER-LEYEN-RT8lCtzn9Aukr5BTBfZvxkN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/von-der-leyen-intensificaremos-trabajo-incorporar-ucrania-20250214144509-nt.html",
-        "date": "2025-02-14 13:46:54",
-        "sentiment_score": -0.06777969002723694
-    },
-    {
-        "title": "El Parlamento europeo aprueba adaptar la directiva del IVA a la era digital",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/02/14/Fachadadelparlamentoeuropeoenestrasburgo-RX5rGl4TWlSKToZBszq4RNI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/parlamento-europeo-aprueba-adaptar-directiva-iva-era-20250214143324-nt.html",
-        "date": "2025-02-14 13:37:41",
-        "sentiment_score": -0.08473645150661469
-    },
-    {
-        "title": "El ejército israelí afirma que se prepara para retirarse del Líbano",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/14/militar-libano-kBf-U70260928780kpB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ejercito-israeli-afirma-prepara-retirarse-libano-20250214140554-nt.html",
-        "date": "2025-02-14 13:05:54",
-        "sentiment_score": -0.04261639714241028
-    },
-    {
-        "title": "El nuevo atropello masivo en Alemania reabre el debate sobre los refugiados en campaña electoral",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/14/mini-k0QF-U702602666526aD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nuevo-atropello-masivo-alemania-reabre-debate-sobre-20250214131226-nt.html",
-        "date": "2025-02-14 12:12:27",
-        "sentiment_score": -0.14067138731479645
-    },
-    {
-        "title": "Sumar amplía el pulso con Montero por la subida del SMI y maniobra para que se traslade a los contratos públicos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/02/14/yolandadazmjmonterojaimegarcia-RvJIYOElaLQCdTkfmPgvQ9J-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sumar-amplia-pulso-montero-subida-smi-maniobra-20250214120329-nt.html",
-        "date": "2025-02-14 11:04:32",
-        "sentiment_score": -0.16601663827896118
     },
     {
         "title": "La Generalitat atribuye el envío de la alerta a los ciudadanos en la dana a la consejera cesada, Salomé Pradas",
@@ -363,80 +263,6 @@ export default [
         "link": "https://elpais.com/espana/2025-02-14/el-juez-peinado-llama-como-testigo-al-alto-cargo-de-la-moncloa-que-propuso-nombrar-a-la-asesora-de-begona-gomez.html",
         "date": "2025-02-14 14:19:28",
         "sentiment_score": -0.03835560753941536
-    },
-    {
-        "title": "El PP de Ayuso y Vox se unen para consultar al Consejo de Estado si Sánchez debe comparecer en la Asamblea por el ‘caso Begoña Gómez’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CMGUVDKIVBE33FHB2V6HTLER3U.jpg?auth=9ed6f2cc5963c32181f1f8991f20ba11278051208f72931253766fb78ae8e280&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "gobierno comunidad de madrid",
-            "comunidad de madrid",
-            "asamblea madrid",
-            "gobierno de españa",
-            "begoña gómez fernández",
-            "madrid",
-            "isabel díaz ayuso",
-            "parlamentos autonómicos"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-02-14/el-pp-de-ayuso-y-vox-se-unen-para-consultar-al-consejo-de-estado-si-sanchez-debe-comparecer-en-la-asamblea-por-el-caso-begona-gomez.html",
-        "date": "2025-02-14 13:56:49",
-        "sentiment_score": -0.45878855884075165
-    },
-    {
-        "title": "Felipe VI defiende en los premios Rey Jaime I que reconstruir con visión de futuro tras la dana es responsabilidad de todos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4WGNIM2OMJYAZI2YDWEQ5M7AJQ.jpg?auth=ddee06d6020121b77f21b6d7eb4b6b86e8217a05775518c06a75d8cf5b0a86fe&width=1200",
-        "tags": [
-            "felipe vi",
-            "vicente boluda fos",
-            "protestas sociales",
-            "premios rey jaime i",
-            "carlos mazón",
-            "valencia",
-            "comunidad valenciana",
-            "premios",
-            "mujeres ciencia",
-            "feminismo"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-02-14/felipe-vi-defiende-en-los-premios-rey-jaime-i-que-reconstruir-con-vision-de-futuro-tras-la-dana-es-responsabilidad-de-todos.html",
-        "date": "2025-02-14 13:41:09",
-        "sentiment_score": -0.6944044791162014
-    },
-    {
-        "title": "La pareja de Ayuso acusa al fiscal general de mentir sobre la difusión de sus datos personales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C2KWTWW5BYG6FLYZWFXNTUSQS4.jpg?auth=3bcf93624df7203baed4cbe1ada12ffdb7a20486c6dbe54ed5697df02bc5e2b7&width=1200",
-        "tags": [
-            "fiscalía general estado",
-            "caso ayuso",
-            "tribunal supremo",
-            "alberto gonzález amador",
-            "álvaro garcía ortiz",
-            "isabel díaz ayuso",
-            "isabel perelló",
-            "justicia",
-            "cgpj",
-            "revelación secretos",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-02-14/la-pareja-de-ayuso-acusa-al-fiscal-general-de-mentir-sobre-la-difusion-de-sus-datos-personales.html",
-        "date": "2025-02-14 13:30:55",
-        "sentiment_score": -0.787191117182374
-    },
-    {
-        "title": "La Sindicatura de Greuges de Barcelona pide revisar 388 licencias de pisos turísticos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M6WCGXS7CFBU5K4TUHDPM6G4RA.jpg?auth=fc152e8275ca77f01834f20bb9cde47a2c9bd914040b947e0cb76c4d8f7c2611&width=1200",
-        "tags": [
-            "pisos turísticos",
-            "síndic de greuges",
-            "vivienda",
-            "cataluña",
-            "ap barcelona",
-            "viviendas alquiler temporada",
-            "sentencias",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-14/la-sindicatura-de-greuges-de-barcelona-pide-revisar-388-licencias-de-pisos-turisticos.html",
-        "date": "2025-02-14 13:28:07",
-        "sentiment_score": -0.7243309114128351
     },
     {
         "title": "Guardiola confirma que Akanji estará \"8 o 10 semanas\" de baja por lesión y no disputará la vuelta ante el Real Madrid",
@@ -7690,5 +7516,382 @@ export default [
         "link": "https://2001online.com/nacionales/cabello-entre-los-migrantes-repatriados-de-estados-unidos-habian-dos-militares-desertores-20252171760",
         "date": "2025-02-17 21:06:00",
         "sentiment_score": -0.32031501457095146
+    },
+    {
+        "title": "Esteban (PNV) denuncia que la Constitución \"dificulte las aspiraciones del pueblo vasco\", como su renocimiento nacional",
+        "image_url": "https://www.infobae.com/resizer/v2/ACDVNDZMSJGALGBW2U4WURRHNE.jpg?auth=b186a953a200b4fc4289da6e21a17a818741610802e9fd1cd328c310f5ad6877&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/06/esteban-pnv-denuncia-que-la-constitucion-dificulte-las-aspiraciones-del-pueblo-vasco-como-su-renocimiento-nacional/",
+        "date": "2025-02-18 02:02:51",
+        "sentiment_score": -0.7466054633259773
+    },
+    {
+        "title": "Rueda ve necesario defender la Constitución \"mucho más\" ante un Gobierno con \"gravísimas\" denuncias de \"corrupción\"",
+        "image_url": "https://www.infobae.com/resizer/v2/47IOJF25TBAYXGHMFP55BDDD4M.jpg?auth=ce154e484f4c0d5be13df7b459c7cbbd66251a257b9162e6e712908266c5003c&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/06/rueda-ve-necesario-defender-la-constitucion-mucho-mas-ante-un-gobierno-con-gravisimas-denuncias-de-corrupcion/",
+        "date": "2025-02-18 02:02:34",
+        "sentiment_score": -0.6748730204999447
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/UKVHBCRBVBDU7LYWEVLEYMAFDE.jpg?auth=487143a77a41fe0aba8880d4a708a83fe7c4ce8636430d542e2c6f3547ed5500&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/18/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-barcelona/",
+        "date": "2025-02-18 02:02:03",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Feijóo acusa a Sánchez de \"deteriorar\" la independencia judicial y abrir la \"deconstrucción\" constitucional",
+        "image_url": "https://www.infobae.com/resizer/v2/T2EW7INALNDIRFIDL7YYA35ADI.jpg?auth=7f9f32f5f794f937096e7b6f2ba47957dbdd0454bfe1f4b5a7ad25349e1a5f1b&height=1268&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/06/feijoo-acusa-a-sanchez-de-deteriorar-la-independencia-judicial-y-abrir-la-deconstruccion-constitucional/",
+        "date": "2025-02-18 01:02:54",
+        "sentiment_score": -0.9059057086706161
+    },
+    {
+        "title": "Junqueras recuerda a Illa que \"la Generalitat existía siglos antes que la Constitución española\"",
+        "image_url": "https://www.infobae.com/resizer/v2/JE2URTQHRJBKBEIPHQ2UJLKXBY.jpg?auth=06bc9f20408e5529013d12fd140df78997cdcae11195be7783d02ea64380f11d&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/06/junqueras-recuerda-a-illa-que-la-generalitat-existia-siglos-antes-que-la-constitucion-espanola/",
+        "date": "2025-02-18 01:02:40",
+        "sentiment_score": -0.3858901634812355
+    },
+    {
+        "title": "Prohens defiende la reforma del sistema de financiación de Baleares y la autonomía fiscal",
+        "image_url": "https://www.infobae.com/resizer/v2/VMJ7P32M4JDSNPCWUCW2WMQQYQ.jpg?auth=facc9ee8290e01bb31fc423bdd93975e772106647cf1d45ed372a3b1fac9d227&height=1046&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/06/prohens-defiende-la-reforma-del-sistema-de-financiacion-de-baleares-y-la-autonomia-fiscal/",
+        "date": "2025-02-18 01:02:06",
+        "sentiment_score": -0.7946732994168997
+    },
+    {
+        "title": "España tiene \"buen historial\" en los últimos años en cumplir con sus objetivos fiscales, según DBRS",
+        "image_url": "https://www.infobae.com/resizer/v2/2KZM6PI3QNALLGWQAAGMVYTNGQ.jpg?auth=6f7b305de34ab8c83ff539d310d71a83eafd7430e28e2462b92c4a286f8e3a55&height=1920&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/06/espana-tiene-buen-historial-en-los-ultimos-anos-en-cumplir-con-sus-objetivos-fiscales-segun-dbrs/",
+        "date": "2025-02-18 00:32:33",
+        "sentiment_score": 0.7045525908470154
+    },
+    {
+        "title": "El Congreso festeja el nuevo artículo 49 de la Constitución subrayando la autonomía de las personas con discapacidad",
+        "image_url": "https://www.infobae.com/resizer/v2/VJ2STA2V6BFRRG5CI6VENXT5WM.jpg?auth=afa6cf72ca0eb1117cf2c246df4b7b6ce4d4defcc8cbd4f60010022520d2f970&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/06/el-congreso-festeja-el-nuevo-articulo-49-de-la-constitucion-subrayando-la-autonomia-de-las-personas-con-discapacidad/",
+        "date": "2025-02-18 00:17:23",
+        "sentiment_score": 0.5788210593163967
+    },
+    {
+        "title": "Armengol reivindica el consenso como \"única forma de éxito\" en un tiempo político \"agitado y atronador\"",
+        "image_url": "https://www.infobae.com/resizer/v2/ZPRCIZCTOVAXZDIWHNFQ63Z5UE.jpg?auth=e6af5bb21149b68640d9ae67922b5df606146c4a194e1317adf0e6495ef1efb8&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/06/armengol-reivindica-el-consenso-como-unica-forma-de-exito-en-un-tiempo-politico-agitado-y-atronador/",
+        "date": "2025-02-17 23:47:33",
+        "sentiment_score": 0.29543548822402954
+    },
+    {
+        "title": "Feijóo denuncia que Sánchez \"utiliza\" a los menores migrantes como \"rehenes\" para \"imponer\" su política migratoria",
+        "image_url": "https://www.infobae.com/resizer/v2/2J5R2MBWJBD4DLLBJJ6IRWMPEQ.jpg?auth=51be0bb216239644843aad4010b5bec68d22b6427d33ab215c6f54cf32402110&height=1268&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/06/feijoo-denuncia-que-sanchez-utiliza-a-los-menores-migrantes-como-rehenes-para-imponer-su-politica-migratoria/",
+        "date": "2025-02-17 23:47:15",
+        "sentiment_score": -0.2974786162376404
+    },
+    {
+        "title": "Adiós a Tongoele, vedete icono del cine de oro mexicano",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21390237-578-667-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/tongolele-muere-vedette-cine-de-oro-mexico-perspectivas-mexico-tv/",
+        "date": "2025-02-18 00:56:06",
+        "sentiment_score": 0.4770894944667816
+    },
+    {
+        "title": "¿Es seguro consumir huevos y leche, tras el brote de gripe aviar?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198243267.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gripe-aviar-cepa-consumo-huevos-leche-minuto-de-salud-fast/",
+        "date": "2025-02-18 00:32:57",
+        "sentiment_score": -0.6902431305497885
+    },
+    {
+        "title": "Así quedo un avión de pasajeros de Delta tras estrellarse en aeropuerto de Toronto",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/delta-20250217225029029.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/canada-accidente-delta-avion-toronto-dusa-tv/",
+        "date": "2025-02-17 22:51:39",
+        "sentiment_score": -0.7815023306757212
+    },
+    {
+        "title": "¿Quién fue Paquita la del Barrio?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/4111af60f0fc5c65ea66bae5928bb5308b7d3f42w.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/paquita-la-del-barrio-vida-voz-muerte-ejemplo-obit-perspectivas-mexico-tv/",
+        "date": "2025-02-17 22:41:34",
+        "sentiment_score": -0.2451120913028717
+    },
+    {
+        "title": "Milei se defiende tras las denuncias por estafa: «No lo promocioné, lo difundí»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/18/milei-cripto-k5nG-U70274903466AwF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/milei-defiende-tras-denuncias-estafa-promocione-difundi-20250218025513-nt.html",
+        "date": "2025-02-18 01:55:13",
+        "sentiment_score": -0.14748308062553406
+    },
+    {
+        "title": "El Barça recupera el liderato de la Liga 10 partidos y 79 días después: remontada de 8 puntos al Real Madrid",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/18/culemania/primer-equipo/925167487_14132657_1706x960.png?contentId=ESPIMA20250218_0013",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250218/el-barca-de-liga-remontada-real-madrid/925157478_0.html",
+        "date": "2025-02-18 02:06:40",
+        "sentiment_score": 0.3930516242980957
+    },
+    {
+        "title": "Carlo Ancelotti: \"Creo que me tiran demasiados palos, pero las críticas son gasolina para mejorar\"",
+        "image_url": "https://www.infobae.com/resizer/v2/5VHFIMBAVNHUZDNF63Q4IKWMSY.jpg?auth=9ff498b553d1f3ee53cdbda61bd09d434f43d260f459c1bceb263cb87abd65ba&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/06/carlo-ancelotti-creo-que-me-tiran-demasiados-palos-pero-las-criticas-son-gasolina-para-mejorar/",
+        "date": "2025-02-18 02:03:07",
+        "sentiment_score": -0.37034060060977936
+    },
+    {
+        "title": "El Barça de Flick manda en la Liga más igualada de los últimos años: Laporta, eufórico",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/17/culemania/primer-equipo/924917693_14132276_1706x960.jpg?contentId=ESPIMA20250217_0194",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250218/el-barca-de-flick-liga-igualada-laporta/924907616_0.html",
+        "date": "2025-02-18 01:43:07",
+        "sentiment_score": 0.5420851148664951
+    },
+    {
+        "title": "Escándalo en la izquierda en Baleares: al menos 10 mujeres acusan en redes a un político por presuntos abusos sexuales",
+        "image_url": "https://s1.elespanol.com/2025/02/17/actualidad/924918493_253205334_1706x960.jpg?contentId=ESPIMA20250217_0994",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250218/escandalo-izquierda-baleares-mujeres-acusan-redes-politico-presuntos-abusos-sexuales/924907782_0.html",
+        "date": "2025-02-18 01:37:48",
+        "sentiment_score": -0.7739809062331915
+    },
+    {
+        "title": "Hansi Flick: Mejorando nuestro juego",
+        "image_url": "https://i0.wp.com/reporteconfidencial.info/wp-content/uploads/2025/02/Hansi-Flick-2.jpg?resize=860%2C645&ssl=1",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://reporteconfidencial.info/2025/02/17/hansi-flick-mejorando-nuestro-juego/",
+        "date": "2025-02-18 01:30:08",
+        "sentiment_score": 0.6075954660773277
+    },
+    {
+        "title": "Este SUV híbrido enchufable con un precio de derribo está a medio camino entre el MG HS, Ebro S700 y el Hyundai Tucson",
+        "image_url": "https://s1.elespanol.com/2025/02/15/motor/924417802_253152862_1706x960.jpg?contentId=ESPIMA20250215_0253",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/motor/20250218/suv-hibrido-enchufable-precio-derribo-medio-camino-mg-hs-ebro-s700-hyundai-tucson/924907775_0.html",
+        "date": "2025-02-18 01:15:19",
+        "sentiment_score": 0.3103827089071274
+    },
+    {
+        "title": "Pellegrini anuncia la vuelta de Isco a la convocatoria para el partido ante el Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/KIX2TKQWENEODGAI4SBOBBM6OQ.jpg?auth=7654e0b8f1fb2fff260313d63524351a538cc40c3ea416f779d7e2a7ecdbc7be&height=962&smart=true&width=1442",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/06/pellegrini-anuncia-la-vuelta-de-isco-a-la-convocatoria-para-el-partido-ante-el-barcelona/",
+        "date": "2025-02-18 01:03:10",
+        "sentiment_score": 0.08139804005622864
+    },
+    {
+        "title": "Hicham Kabbaj (Dassault Systèmes): \"Somos una empresa de base científica con un fuerte foco en la innovación digital\"",
+        "image_url": "https://s1.elespanol.com/2025/02/13/invertia/disruptores/grandes-actores/tecnologicas/923918584_253107302_1706x960.jpg?contentId=ESPIMA20250213_0985",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20250218/hicham-kabbaj-dassault-systemes-empresa-base-cientifica-fuerte-foco-innovacion-digital/923907715_0.html",
+        "date": "2025-02-18 01:00:34",
+        "sentiment_score": 0.09293655306100845
+    },
+    {
+        "title": "Barcelona venció a Rayo Vallecano y es el nuevo líder en España",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/02/Lewandowski-1702-730x524.webp",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "rayo vallecano",
+            "españa",
+            "la liga",
+            "real madrid",
+            "robert lewandowski",
+            "barcelona"
+        ],
+        "link": "https://primicia.com.ve/deportes/barcelona-vencio-a-rayo-vallecano-y-es-el-nuevo-lider-en-espana/",
+        "date": "2025-02-18 00:45:48",
+        "sentiment_score": 0.2401236891746521
+    },
+    {
+        "title": "17 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/17-feb-2025-partidazo-cope-20250218_3097599.html",
+        "date": "2025-02-18 00:40:42",
+        "sentiment_score": 0.4737107381224632
+    },
+    {
+        "title": "Milei se despega de la estafa con el activo digital: \"Yo no lo promocioné, solo lo difundí\".",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50a280a7-7d24-4cbf-a886-ab2300f9b6d0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2025/02/18/milei-despega-estafa-activo-digital-114412338.html",
+        "date": "2025-02-18 01:48:23",
+        "sentiment_score": -0.4451504647731781
+    },
+    {
+        "title": "Historia en 4 tiempos | Un día como hoy: \" Sangriento suceso en Orense\"",
+        "image_url": "https://static.laregion.es/clip/93993c16-bbaa-4404-838c-ede8cd787650_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/ourense/historia-4-tiempos-dia-hoy_1_20250218-3415892.html",
+        "date": "2025-02-18 01:30:02",
+        "sentiment_score": -0.04082157462835312
+    },
+    {
+        "title": "Funvisis reporta un sismo de 4.2 en el estado Sucre este 17 de febrero",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739845252455.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/funvisis-reporta-un-sismo-de-4-2-en-el-estado-sucre-este-17-de-febrero-202521722110",
+        "date": "2025-02-18 02:11:00",
+        "sentiment_score": 0.010046377778053284
+    },
+    {
+        "title": "Sujeto apuñaló 16 veces a su amigo en Baruta: No le quería prestar el teléfono",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739843684240.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/por-negarle-una-llamada-telefonica-apunalo-a-su-amigo-16-veces-en-baruta-202521721570",
+        "date": "2025-02-18 01:57:00",
+        "sentiment_score": -0.32155483961105347
+    },
+    {
+        "title": "Estos son los servicios de salud que financia Cashea: Paga desde un 40% de inicial",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739842146039.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/estos-son-los-servicios-de-salud-que-financia-cashea-paga-desde-un-40-de-inicial-20252172120",
+        "date": "2025-02-18 01:02:00",
+        "sentiment_score": 0.4612811803817749
+    },
+    {
+        "title": "Thalía recuerda cómo fue actuar con Paquita la del Barrio: me puse tremendamente nerviosa",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739840489073.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/thalia-recuerda-como-fue-actuar-con-paquita-la-del-barrio-me-puse-tremendamente-nerviosa-20252172110",
+        "date": "2025-02-18 01:01:00",
+        "sentiment_score": -0.8361576059833169
+    },
+    {
+        "title": "Banesco: Pasos y requisitos para abrir una cuenta en dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739815184374.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banesco-pasos-y-requisitos-para-abrir-una-cuenta-en-dolares--20252172100",
+        "date": "2025-02-18 01:00:00",
+        "sentiment_score": 0.02072957158088684
+    },
+    {
+        "title": "El nuevo smartphone asequible de Apple está a punto de lanzarse: revelan que tendrá una pantalla más grande",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739840475471.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-nuevo-smartphone-asequible-de-apple-esta-a-punto-de-lanzarse-revelan-que-tendra-una-pantalla-mas-grande-20252172100",
+        "date": "2025-02-18 01:00:00",
+        "sentiment_score": 0.24246929585933685
+    },
+    {
+        "title": "Maduro anuncia cambios en su gabinete: Designa nuevos ministros para el Deporte y Ecosocialismo",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739838533075.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-cambios-en-su-gabinete-designa-nuevos-ministros-para-el-deporte-y-ecosocialismo-202521720300",
+        "date": "2025-02-18 00:30:00",
+        "sentiment_score": 0.08864398300647736
+    },
+    {
+        "title": "La herencia de Paquita la del Barrio: Sepa qué pasará y cuál es el monto",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739839492603.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/la-herencia-de-paquita-la-del-barrio-sepa-que-pasara-y-cual-es-el-monto-202521720270",
+        "date": "2025-02-18 00:27:00",
+        "sentiment_score": -0.523222703486681
+    },
+    {
+        "title": "La herencia de Paquita la del Barrios: Sepa qué pasará y cuál es el monto",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739839492603.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/la-herencia-de-paquita-la-del-barrios-sepa-que-pasara-y-cual-es-el-monto-202521720270",
+        "date": "2025-02-18 00:27:00",
+        "sentiment_score": -0.523222703486681
+    },
+    {
+        "title": "Maduro: Hemos extirpado una célula nazi vinculada con la extrema derecha",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1739836874874.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-hemos-extirpado-una-celula-nazi-vinculada-con-la-extrema-derecha-20252172050",
+        "date": "2025-02-18 00:05:00",
+        "sentiment_score": -0.023804500699043274
     }
 ];
