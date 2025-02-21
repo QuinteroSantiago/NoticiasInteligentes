@@ -140,57 +140,6 @@ export default [
         "sentiment_score": -0.2007748708128929
     },
     {
-        "title": "Maduro pone plazo para un proyecto de reforma de la Constitución para “una sociedad incluyente, democrática y libre”",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/nicolas-maduro-constitucion.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-plazo-proyecto-reforma-constitucion-cafe-tv/",
-        "date": "2025-02-17 13:57:35",
-        "sentiment_score": 0.37753840535879135
-    },
-    {
-        "title": "¿Qué se espera de las conversaciones sobre Ucrania entre los funcionarios de Trump y Putin?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198203762.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/conversaciones-ucrania-funcionarios-trump-putin-cafe-tv/",
-        "date": "2025-02-17 13:32:23",
-        "sentiment_score": -0.09883622825145721
-    },
-    {
-        "title": "Día de los Presidentes: ¿qué se celebra y cuál es el origen de este feriado de EE.UU.?",
-        "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-953640-121026075502-05george-washington-horizontal-large-gallery.jpg?c=16x9&q=w_800%2Cc_fill",
-        "tags": [
-            "instanoticias",
-            "ee.uu."
-        ],
-        "link": "https://cnnespanol.cnn.com/2025/02/17/dia-de-los-presidentes-que-se-celebra-origen-george-washington-trax/",
-        "date": "2025-02-17 13:15:38",
-        "sentiment_score": -0.09337238222360611
-    },
-    {
-        "title": "Actualización de la salud del papa Francisco",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_6a7a9b.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/actualizacion-salud-papa-francisco-primera-manana-fast/",
-        "date": "2025-02-17 12:58:23",
-        "sentiment_score": -0.0065488070249557495
-    },
-    {
-        "title": "Experta en Rusia señala el asunto \"más importante\" que debe plantear EE.UU. en las conversaciones con Moscú",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/dougherty-20250217002545594-20250217113712998.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rusia-ucrania-guerra-arabia-saudi-experta-trax/",
-        "date": "2025-02-17 11:41:08",
-        "sentiment_score": -0.005574434995651245
-    },
-    {
         "title": "Carlos Escoda : «Intervenir los pisos turísticos no es la solución al problema habitacional»",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/02/15/SRCEOCarlosEscoda_06-1-RWvJLDWYrCWyURTzzAB1cEJ-1200x840@diario_abc.jpg",
         "tags": [
@@ -219,76 +168,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/mujer-libre-cancer-anos-despues-terapia-celular-20250217142657-nt.html",
         "date": "2025-02-17 16:15:08",
         "sentiment_score": -0.15832708775997162
-    },
-    {
-        "title": "España cierra 2024 con 119.467 nuevas empresas, un 9,6% más respecto al año anterior",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/02/17/EFE-RpTYUmarZqOyao7hh1WBZvI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/espana-cierra-2024-119467-nuevas-empresas-respecto-20250217141542-nt.html",
-        "date": "2025-02-17 13:20:57",
-        "sentiment_score": -0.08874000608921051
-    },
-    {
-        "title": "Talgo adelanta pérdidas por la provisión de la multa de Renfe y CSIF anuncia movilizaciones en el fabricante de trenes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/02/17/1490601342-RuWfN2FX9kCSA39dUzXriRO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/talgo-adelanta-perdidas-provision-multa-renfe-csif-20250217135918-nt.html",
-        "date": "2025-02-17 13:13:01",
-        "sentiment_score": -0.12884540855884552
-    },
-    {
-        "title": "Israel anuncia la muerte de un alto cargo de Hamás en un bombardeo contra un vehículo en el sur de Líbano",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/17/DAMBin.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-anuncia-muerte-alto-cargo-hamas-bombardeo-20250217131711-nt.html",
-        "date": "2025-02-17 12:26:49",
-        "sentiment_score": -0.14344383776187897
-    },
-    {
-        "title": "Malestar entre los países de la UE que no han sido invitados a la cumbre de París",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/17/scholz-macron-ep-k5NG-U70271349080XyD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/malestar-paises-ue-invitados-cumbre-paris-20250217130230-nt.html",
-        "date": "2025-02-17 12:03:16",
-        "sentiment_score": -0.062366098165512085
-    },
-    {
-        "title": "El Kremlin confirma el inicio de negociaciones con Estados Unidos este martes en Arabia Saudí entre Lavrov y Rubio",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/17/PUTINYTRUMP.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/kremlin-confirma-inicio-negociaciones-estados-unidos-martes-20250217124443-nt.html",
-        "date": "2025-02-17 11:54:09",
-        "sentiment_score": -0.13972347974777222
-    },
-    {
-        "title": "Detenidas tres personas por obtener más de un millón de euros con páginas webs de fútbol y videojuegos ilegales",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/02/17/iptv.PNG",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/detenidas-tres-personas-obtener-millon-euros-paginas-20250217124045-nt.html",
-        "date": "2025-02-17 11:42:36",
-        "sentiment_score": -0.2607182115316391
-    },
-    {
-        "title": "La cuarta grande del rating insta al Gobierno a facilitar el regreso de los bonos patrióticos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/02/17/PedroSnchezconferenciapresidentes-RNfB4zdOfBoMKF0fiH5qXyH-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/cuarta-grande-rating-insta-gobierno-facilitar-regreso-20250217120034-nt.html",
-        "date": "2025-02-17 11:06:10",
-        "sentiment_score": -0.11169442534446716
     },
     {
         "title": "Almeida y el Delegado del Gobierno se lanzan insultos y eliminan cualquier intento de colaboración",
@@ -8835,5 +8714,498 @@ export default [
         "link": "https://2001online.com/sucesos/surge-el-anti-tren-la-nueva-banda-delictiva-que-rivaliza-con-el-tren-de-aragua-en-nueva-york-20252201710",
         "date": "2025-02-20 21:01:00",
         "sentiment_score": -0.624148715287447
+    },
+    {
+        "title": "Olimpia-Olancho y Motagua-Real España, las semifinales del Apertura de fútbol en Honduras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/09/olimpia-olancho-y-motagua-real-espana-las-semifinales-del-apertura-de-futbol-en-honduras/",
+        "date": "2025-02-21 02:03:15",
+        "sentiment_score": 0.44325993955135345
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Barcelona este 21 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/HWJVTLCESRHBFJH4LJ32U3RZG4.jpg?auth=bd4fcc9b76edfb7c5d08778ebc112c4e0d1e9afccd878fd379f9efa0173f47dc&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/21/clima-hoy-en-espana-temperaturas-para-barcelona-este-21-de-febrero/",
+        "date": "2025-02-21 02:01:00",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Maestrías en España con becas del 80%, así puede aplicar desde Colombia con el Icetex",
+        "image_url": "https://www.infobae.com/resizer/v2/DEAKE57ADJGAHDDECX5F4GCSNU.jpg?auth=67f357219bbc1dcc1473376bf6b0220e7c837b316566268a59ca684805a4f357&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/02/21/maestrias-en-espana-con-becas-del-80-asi-puede-aplicar-desde-colombia-con-el-icetex/",
+        "date": "2025-02-21 01:46:51",
+        "sentiment_score": 0.2785022556781769
+    },
+    {
+        "title": "Alerta roja por nevadas en cordillera Cantábrica y Picos de Europa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/08/alerta-roja-por-nevadas-en-cordillera-cantabrica-y-picos-de-europa/",
+        "date": "2025-02-21 01:33:30",
+        "sentiment_score": -0.6529294103384018
+    },
+    {
+        "title": "Los costes laborales de las pymes acumulan un alza del 18 % desde 2019, según Cepyme",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/08/los-costes-laborales-de-las-pymes-acumulan-un-alza-del-18-desde-2019-segun-cepyme/",
+        "date": "2025-02-21 01:18:19",
+        "sentiment_score": 0.23383210599422455
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 9 de diciembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/08/hoy-sera-noticia-lunes-9-de-diciembre/",
+        "date": "2025-02-21 01:18:06",
+        "sentiment_score": -0.592871505767107
+    },
+    {
+        "title": "Los empleados con elevada competencia digital cobran hasta un 65 % más por hora trabajada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/08/los-empleados-con-elevada-competencia-digital-cobran-hasta-un-65-mas-por-hora-trabajada/",
+        "date": "2025-02-21 01:17:52",
+        "sentiment_score": 0.8191786035895348
+    },
+    {
+        "title": "3-0. El Córdoba se impone al Tenerife en un duelo clave por la salvación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/08/3-0-el-cordoba-se-impone-al-tenerife-en-un-duelo-clave-por-la-salvacion/",
+        "date": "2025-02-21 01:02:27",
+        "sentiment_score": 0.8355644922703505
+    },
+    {
+        "title": "El Almería deja solo al Mirandés en la persecución del Racing",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/08/el-almeria-deja-solo-al-mirandes-en-la-persecucion-del-racing/",
+        "date": "2025-02-21 00:47:53",
+        "sentiment_score": 0.39533373713493347
+    },
+    {
+        "title": "Netflix invertirá 953 millones de euros para producir 20 películas al año en México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/21/netflix-invertira-953-millones-de-euros-para-producir-20-peliculas-al-ano-en-mexico/",
+        "date": "2025-02-21 00:47:33",
+        "sentiment_score": 0.4196341298520565
+    },
+    {
+        "title": "Sheinbaum quiere reforzar la soberanía tras acciones de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2199900298.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-sheinbaum-cambios-constitucion-soberania-trump-perspectivas-mexico/",
+        "date": "2025-02-21 01:25:31",
+        "sentiment_score": 0.06257471442222595
+    },
+    {
+        "title": "Israel afirma que Hamas devolvió cuerpos de los niños Bibas, pero no el de su madre",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/20250218-bibas-boys-20250221000041872.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-cuerpos-menores-bibas-madre-hamas-panorama-mundial-tv/",
+        "date": "2025-02-21 01:16:48",
+        "sentiment_score": -0.2411273568868637
+    },
+    {
+        "title": "Precio del limón en México se dispara por la extorsión a productores",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21400295-222382-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/extorsion-productores-limon-michoacan-perspectivas-mexico/",
+        "date": "2025-02-21 01:16:02",
+        "sentiment_score": -0.8210747763514519
+    },
+    {
+        "title": "¿Tiene miedo a volar en avión? Así puede enfrentarlo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2153434128.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/superar-miedo-a-volar-minuto-de-salud-fast/",
+        "date": "2025-02-21 00:56:00",
+        "sentiment_score": -0.6156296916306019
+    },
+    {
+        "title": "Macron dice que le pedirá a Trump no ceder ante Putin en su próxima visita a Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/macron-trump-thumb.jpeg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/macron-trump-putin-sot-orix/",
+        "date": "2025-02-21 00:24:17",
+        "sentiment_score": -0.27683181315660477
+    },
+    {
+        "title": "Monjas italianas rezan afuera del hospital donde está internado el papa Francisco",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/monjas-thumb.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/monjas-italianas-rezar-hospital-papa-francisco-orix/",
+        "date": "2025-02-21 00:12:35",
+        "sentiment_score": -0.4758908338844776
+    },
+    {
+        "title": "Presidente de Colombia nombra a militar activo como ministro de Defensa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/clip-4.jpg?quality=100&strip=info",
+        "tags": [
+            "colombia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ministro-defesa-colombia-militar-dusa-tv/",
+        "date": "2025-02-21 00:06:18",
+        "sentiment_score": -0.2235218733549118
+    },
+    {
+        "title": "Gobierno de Costa Rica recibe 200 deportados desde EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/clip-3-20250220235426493.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/osta-rica-deportados-trump-dusa-tv/",
+        "date": "2025-02-20 23:58:31",
+        "sentiment_score": 0.04496249556541443
+    },
+    {
+        "title": "Milei regala a Musk una motosierra en la Conferencia Política de Acción Conservadora",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2200059458.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/milei-musk-motosierra-cpac-orix/",
+        "date": "2025-02-20 23:58:05",
+        "sentiment_score": 0.18686126172542572
+    },
+    {
+        "title": "Probamos el Vivo X200 Pro: la cámara que también es móvil",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/02/20/vivo-kEwB-U70288991138xiG-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/moviles/probamos-vivo-x200-pro-camara-movil-20250220024014-nt.html",
+        "date": "2025-02-21 01:40:15",
+        "sentiment_score": 0.02647608518600464
+    },
+    {
+        "title": "Una juez certifica que la terapia Gestalt «no tiene base científica» y puede funcionar como «secta destructiva»",
+        "image_url": "https://cdn.mnmstatic.net/cache/3d/7f/media_thumb-link-4030415.webp?1740067626=",
+        "tags": [
+            "terapia gestalt",
+            "sectas",
+            "actualidad",
+            "salud"
+        ],
+        "link": "https://www.meneame.net/story/juez-certifica-terapia-gestalt-no-tiene-base-cientifica-puede",
+        "date": "2025-02-21 01:40:08",
+        "sentiment_score": -0.8627453036606312
+    },
+    {
+        "title": "La Policía Nacional expulsa a los imanes de la Jonquera y Figueres por sus discursos radicalizadores",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UY6ZJTA2FFNZNLF2C6A5F2VLEQ.jpg?auth=52f809cc3db153cf3f2e37278e0507667e1f797c28d99730d0384dd44fad59ff&width=1200",
+        "tags": [
+            "religión",
+            "girona",
+            "islam",
+            "figueres",
+            "la jonquera",
+            "mezquitas",
+            "imanes",
+            "ley extranjería",
+            "expulsiones",
+            "cataluña",
+            "policía nacional"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-02-20/la-policia-nacional-expulsa-a-los-imanes-de-la-jonquera-y-figueres-por-sus-discursos-radicalizadores.html",
+        "date": "2025-02-20 22:24:41",
+        "sentiment_score": -0.8959784740582108
+    },
+    {
+        "title": "Luiz Henrique proyecta la Intercontinental: \"Queremos ganar, no importa si es el Madrid\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/09/luiz-henrique-proyecta-la-intercontinental-queremos-ganar-no-importa-si-es-el-madrid/",
+        "date": "2025-02-21 02:02:47",
+        "sentiment_score": 0.3386608697474003
+    },
+    {
+        "title": "Valentina Suárez-Zuloaga, directora creativa de MBFWM: “La meta es saber vender más y mejor lo que tenemos”",
+        "image_url": "https://s1.elespanol.com/2025/02/19/mujer/protagonistas/925417514_253242201_1706x960.jpg?contentId=ESPIMA20250219_0065",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250221/valentina-suarez-zuloaga-directora-creativa-mbfwm-meta-saber-vender-mejor/925407476_0.html",
+        "date": "2025-02-21 01:47:43",
+        "sentiment_score": 0.6173393949866295
+    },
+    {
+        "title": "El Partido Popular en defensa de la propiedad privada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/opinion/2025/02/21/partido-popular-defensa-propiedad-privada-114520294.html",
+        "date": "2025-02-21 01:32:26",
+        "sentiment_score": -0.9471017457544804
+    },
+    {
+        "title": "Diego Pablo Simeone: \"El Madrid está ahí otra vez y el Barça enseguida se recupera\"",
+        "image_url": "https://www.infobae.com/resizer/v2/EPZAZN7MJZG7XCXA245OI6BPKU.jpg?auth=61d1ce2e66dd6112bd535f740cf1e9e909d9265306d850ba1a3acb7300dbcaa1&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/08/diego-pablo-simeone-el-madrid-esta-ahi-otra-vez-y-el-barca-enseguida-se-recupera/",
+        "date": "2025-02-21 01:18:34",
+        "sentiment_score": 0.730743370950222
+    },
+    {
+        "title": "Esta herramienta ayudará a la prensa a aterrizar la IA y abrir nuevos nichos de negocio con un retorno real de la inversión",
+        "image_url": "https://s1.elespanol.com/2025/02/20/actualidad/925667553_253276236_1706x960.jpg?contentId=ESPIMA20250220_0129",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250221/herramienta-ayudara-prensa-aterrizar-ia-abrir-nuevos-nichos-negocio-retorno-real-inversion/925157915_0.html",
+        "date": "2025-02-21 01:17:30",
+        "sentiment_score": 0.6364033278077841
+    },
+    {
+        "title": "García Pimienta: \"Ha sido mérito del Atlético, el equipo más en forma del campeonato\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/08/garcia-pimienta-ha-sido-merito-del-atletico-el-equipo-mas-en-forma-del-campeonato/",
+        "date": "2025-02-21 01:16:57",
+        "sentiment_score": 0.8268068805336952
+    },
+    {
+        "title": "Los 15 candidatos a salir del primer equipo y llenar las arcas del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/21/culemania/palco/925917405_14152384_1706x960.png?contentId=ESPIMA20250221_0006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250221/los-candidatos-del-primer-equipo-llenar-barca/925657574_0.html",
+        "date": "2025-02-21 01:06:38",
+        "sentiment_score": -0.7432011403143406
+    },
+    {
+        "title": "Nueve victorias seguidas del Atlético... 477 partidos después",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/08/nueve-victorias-seguidas-del-atletico-477-partidos-despues/",
+        "date": "2025-02-21 00:49:06",
+        "sentiment_score": 0.8334649708122015
+    },
+    {
+        "title": "Momentos de la jornada 16",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/08/momentos-de-la-jornada-16/",
+        "date": "2025-02-21 00:48:52",
+        "sentiment_score": -0.3911014497280121
+    },
+    {
+        "title": "Rechazo vecinal en Barcelona a las obras de ampliación del MACBA: \"Es un capricho elitista\"",
+        "image_url": "https://album.mediaset.es/eimg/2025/02/19/museu-d-art-contemporani-de-barcelona_c086.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250221/rechazo-vecinal-obras-macba-barcelona_18_014809766.html",
+        "date": "2025-02-21 02:00:29",
+        "sentiment_score": -0.9193057687953115
+    },
+    {
+        "title": "La sede de la empresa de Munuera Montero estuvo señalada como una oficina de LaLiga en Córdoba",
+        "image_url": "https://s1.elespanol.com/2025/02/20/deportes/futbol/925668553_253307020_1706x960.png?contentId=ESPIMA20250220_1129",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250221/sede-empresa-munuera-montero-senalada-oficina-laliga-cordoba/925657805_0.html",
+        "date": "2025-02-21 01:47:34",
+        "sentiment_score": 0.04353633522987366
+    },
+    {
+        "title": "Patricio y Pablo, los gemelos de 20 años del cártel de Sinaloa en España, detenidos por la muerte de un narco serbio en Tarragona",
+        "image_url": "https://s1.elespanol.com/2025/02/20/reportajes/925668343_253300341_1706x960.jpg?contentId=ESPIMA20250220_0919",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250221/patricio-pablo-gemelos-anos-cartel-sinaloa-espana-detenidos-muerte-narco-serbio-tarragona/925657858_0.html",
+        "date": "2025-02-21 01:47:16",
+        "sentiment_score": -0.8089290279895067
+    },
+    {
+        "title": "Hito médico: tratan por primera vez con éxito una enfermedad genética letal en una bebé desde antes de que nazca",
+        "image_url": "https://s1.elespanol.com/2025/02/20/actualidad/925668506_253305493_1706x960.jpg?contentId=ESPIMA20250220_1082",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20250221/hito-medico-tratan-primera-vez-exito-enfermedad-genetica-letal-bebe-nazca/925657939_0.html",
+        "date": "2025-02-21 01:47:11",
+        "sentiment_score": 0.18094812333583832
+    },
+    {
+        "title": "Sabadell apura el plazo para presentar sus alegaciones ante la CNMC y desmontará los argumentos de BBVA",
+        "image_url": "https://s1.elespanol.com/2025/02/10/actualidad/923168467_253002403_1706x960.jpg?contentId=ESPIMA20250210_0793",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20250221/sabadell-apura-plazo-presentar-alegaciones-cnmc-desmontara-argumentos-bbva/925657666_0.html",
+        "date": "2025-02-21 01:43:40",
+        "sentiment_score": -0.1608050838112831
+    },
+    {
+        "title": "De un festival en clave de mujer en Murcia a conocer el Lago Vivo de Valencia: estos son los planes ODS de la semana",
+        "image_url": "https://s1.elespanol.com/2025/02/20/enclave-ods/semanales/925667836_253284847_1706x960.jpg?contentId=ESPIMA20250220_0412",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/semanales/20250221/festival-clave-mujer-murcia-conocer-lago-vivo-valencia-planes-ods-semana/925407827_0.html",
+        "date": "2025-02-21 01:19:43",
+        "sentiment_score": 0.39678385108709335
+    },
+    {
+        "title": "Rauw Alejandro no consigue vender el palacete de Barcelona de dos millones de euros que compartió con Rosalía",
+        "image_url": "https://s1.elespanol.com/2024/04/04/corazon/famosos/845175560_241234307_1706x960.jpg?contentId=ESPIMA20240404_0086",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250221/rauw-alejandro-no-consigue-vender-palacete-barcelona-millones-euros-compartio-rosalia/925657599_0.html",
+        "date": "2025-02-21 01:16:30",
+        "sentiment_score": -0.23786406964063644
+    },
+    {
+        "title": "Niño de dos años se dispara accidentalmente en la cabeza: El arma era de la pareja de su madre",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740102253886.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/nino-de-dos-anos-se-dispara-accidentalmente-en-la-cabeza-el-arma-era-de-la-pareja-de-su-madre-202522021210",
+        "date": "2025-02-21 02:01:00",
+        "sentiment_score": -0.4507670998573303
+    },
+    {
+        "title": "FIBA: Venezuela hace respetar su casa y derrota a Argentina para soñar con el cupo a la AmeriCup",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740102714043.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/fiba-venezuela-hace-respetar-su-casa-y-derrota-a-argentina-para-sonar-con-el-cupo-a-la-americup-20252202210",
+        "date": "2025-02-21 02:01:00",
+        "sentiment_score": 0.6414629369974136
+    },
+    {
+        "title": "Refuerzan seguridad en la frontera con Colombia tras ataques en Cúcuta: esto es lo que dice Freddy Bernal",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740093336463.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/refuerzan-seguridad-en-la-frontera-con-colombia-tras-ataques-en-cucuta-esto-es-lo-que-dice-freddy-bernal-20252202200",
+        "date": "2025-02-21 02:00:00",
+        "sentiment_score": -0.7375911604613066
+    },
+    {
+        "title": "Movilnet instala oficina móvil en La Guaira: Sepa cuáles servicios ofrece",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740102230810.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/movilnet-instala-oficina-movil-en-la-guaira-sepa-cuales-servicios-ofrece-202522021450",
+        "date": "2025-02-21 01:45:00",
+        "sentiment_score": 0.2257458958774805
+    },
+    {
+        "title": "Sepa cómo solicitar las diferentes pensiones que ofrece el IVSS",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740098449007.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sepa-como-solicitar-las-diferentes-pensiones-que-ofrece-el-ivss-202522021330",
+        "date": "2025-02-21 01:33:00",
+        "sentiment_score": 0.0718508455902338
+    },
+    {
+        "title": "Escasez de sal golpea a Nueva York: Labores de mantenimiento vial por frío invernal se ven interrumpidas",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740101224071.webp?ch=212&cw=377&extw=jpg&height=582&oh=1500&ow=1200&rotate=0&scaleX=1&scaleY=1&width=960&x=120&y=459",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/escasez-de-sal-golpea-a-nueva-york-labores-de-mantenimiento-vial-por-frio-invernal-se-ven-interrumpidas-202522021220",
+        "date": "2025-02-21 01:22:00",
+        "sentiment_score": -0.7501719929277897
+    },
+    {
+        "title": "Natasha Araos: Chyno no contacta a su hijo hace más de año y medio porque Astrid Falcón no lo deja",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740097928156.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/natasha-araos-chyno-no-contacta-a-su-hijo-hace-mas-de-ano-y-medio-porque-astrid-falcon-no-lo-deja-202522021200",
+        "date": "2025-02-21 01:20:00",
+        "sentiment_score": -0.326347216963768
+    },
+    {
+        "title": "Cupones de Internet pueden usarse en Dollar Tree: La cadena tiene ciertas reglas",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740099971334.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cupones-de-internet-pueden-usarse-en-dollar-tree-la-cadena-tiene-ciertas-reglas-20252202150",
+        "date": "2025-02-21 01:05:00",
+        "sentiment_score": 0.03309790790081024
+    },
+    {
+        "title": "Carnavales 2025: Cinco disfraces en Cashea con iniciales menores a $20",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740066046350.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/carnavales-2025-cinco-disfraces-en-cashea-con-iniciales-menores-a-20-20252202100",
+        "date": "2025-02-21 01:00:00",
+        "sentiment_score": 0.44725168123841286
+    },
+    {
+        "title": "Maduro le envía mensaje a Donald Trump: Pida los informes sobre quiénes movieron al Tren de Aragua",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740099632939.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-le-envia-mensaje-a-donald-trump-pida-los-informes-sobre-quienes-movieron-al-tren-de-aragua--202522020560",
+        "date": "2025-02-21 00:56:00",
+        "sentiment_score": -0.12785456702113152
     }
 ];
