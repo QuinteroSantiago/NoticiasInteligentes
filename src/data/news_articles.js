@@ -130,26 +130,6 @@ export default [
         "sentiment_score": -0.41890276968479156
     },
     {
-        "title": "Trump culpa a Ucrania por la invasión rusa y Zelensky dice que el presidente de EE.UU. “vive en un espacio de desinformación”",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/youtube-estilo-cnn-1-20250219140106840.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-ucrania-rusia-zelensky-cafe-tv/",
-        "date": "2025-02-19 14:03:46",
-        "sentiment_score": -0.8648448772728443
-    },
-    {
-        "title": "El papa pasa una noche tranquila tras diagnóstico de neumonía",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_98501b.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/papa-tranquilo-diagnostico-neumonia-cafe-tv-fast/",
-        "date": "2025-02-19 13:50:21",
-        "sentiment_score": 0.4656621553003788
-    },
-    {
         "title": "Saludar a Boris Jonhson o hacerse una foto con él tiene precio: 121 libras",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/19/boris-johnson-kaNH-U70284908731BvE-1200x840@diario_abc.jpg",
         "tags": [
@@ -198,56 +178,6 @@ export default [
         "link": "https://www.abc.es/economia/precio-medio-vivienda-libre-sube-cierre-2024-20250219151355-nt.html",
         "date": "2025-02-19 14:14:23",
         "sentiment_score": -0.0882434993982315
-    },
-    {
-        "title": "Corea del Sur, dispuesta a acoger a los soldados norcoreanos capturados en Ucrania que busquen desertar",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/19/soldados-k8JI-U70282140626RqH-12-kCVG-U70283630646Cx-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/corea-sur-dispuesta-acoger-soldados-norcoreanos-capturados-20250219142047-nt.html",
-        "date": "2025-02-19 13:20:48",
-        "sentiment_score": -0.1532977968454361
-    },
-    {
-        "title": "Italia sufre ataques cibernéticos tras comparar su presidente a Rusia con el nazismo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/19/mattarella-k80G-U70282726034VkF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/italia-sufre-ataques-ciberneticos-tras-comparar-presidente-20250219140054-nt.html",
-        "date": "2025-02-19 13:00:55",
-        "sentiment_score": -0.2514154613018036
-    },
-    {
-        "title": "Amnistía Internacional alerta sobre la «pausa o cancelación» de las excarcelaciones de presos políticos en Cuba",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/19/diazcanel-k1H-U70283113157hWG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/amnistia-internacional-alerta-sobre-pausa-cancelacion-excarcelaciones-20250219134357-nt.html",
-        "date": "2025-02-19 12:44:45",
-        "sentiment_score": -0.21253961324691772
-    },
-    {
-        "title": "Bruselas se abre a reforzar el control de las importaciones agrícolas para aplacar al campo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/02/19/1479238106-RehXASbwEfz6A8Uv9vgjKfN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bruselas-abre-reforzar-control-importaciones-agricolas-aplacar-20250219131102-nt.html",
-        "date": "2025-02-19 12:13:12",
-        "sentiment_score": -0.056232303380966187
-    },
-    {
-        "title": "Zelenski dice que Trump vive en una «burbuja de desinformación»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/19/zelens-kbgB-U70282441655GKH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/zelenski-dice-trump-vive-burbuja-desinformacion-20250219121312-nt.html",
-        "date": "2025-02-19 11:15:21",
-        "sentiment_score": -0.28821027278900146
     },
     {
         "title": "El contrato telefónico desmiente el argumento de Mazón sobre la imposibilidad de mostrar las llamadas del día de la dana",
@@ -388,44 +318,6 @@ export default [
         "link": "https://elpais.com/espana/2025-02-19/la-ertzaintza-abre-una-investigacion-interna-tras-una-brutal-agresion-denunciada-por-una-mujer-en-san-sebastian.html",
         "date": "2025-02-19 14:15:29",
         "sentiment_score": -0.760316850617528
-    },
-    {
-        "title": "El jefe de la Policía Local de Granada dimite tras el registro a su despacho por presuntos amaños en las oposiciones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6UGD2WMWSVDENHPU5NK5AAYDME.jpg?auth=21e5d1d4762c245f6bcc3300f10ce4a439bb41c214ae0ee9f8982fe6aafb611a&width=1200",
-        "tags": [
-            "pp-a",
-            "psoe-a",
-            "tribunales",
-            "ayuntamiento granada",
-            "policía municipal",
-            "granada",
-            "españa",
-            "policía",
-            "oposiciones"
-        ],
-        "link": "https://elpais.com/espana/2025-02-19/el-jefe-de-la-policia-local-de-granada-dimite-tras-el-registro-a-su-despacho-por-presuntos-amanos-en-las-oposiciones.html",
-        "date": "2025-02-19 13:51:08",
-        "sentiment_score": -0.07649964094161987
-    },
-    {
-        "title": "Cierra la residencia Tàber de Barcelona por la presión inmobiliaria: “No se nos puede mover a los ancianos como a un mueble”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LJXK56CXFVDTFJX7UVAI4IY76E.jpg?auth=5639741ac72e66784721e6c57fa261f94452338552aef8c4d729f9c761e9bfd2&width=1200",
-        "tags": [
-            "desalojos",
-            "cataluña",
-            "ayuntamiento barcelona",
-            "especulación inmobiliaria",
-            "barcelona",
-            "residencias ancianos",
-            "generalitat cataluña",
-            "viviendas alquiler temporada",
-            "servicios sociales",
-            "vivienda",
-            "inversión inmobiliaria"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-19/cierra-la-residencia-taber-de-barcelona-por-la-presion-inmobiliaria-no-se-nos-puede-mover-a-los-ancianos-como-a-un-mueble.html",
-        "date": "2025-02-19 13:43:01",
-        "sentiment_score": -0.01309610903263092
     },
     {
         "title": "El PP reclama la creación de becas municipales para apoyar al talento deportivo en San Fernando",
@@ -8484,5 +8376,468 @@ export default [
         "link": "https://2001online.com/usa/servicios/clientes-de-bank-of-america-pueden-obtener-entradas-gratis-a-museos-sepa-cuando-pedirlas-202522216200",
         "date": "2025-02-22 20:20:00",
         "sentiment_score": 0.47761156037449837
+    },
+    {
+        "title": "Midas cierra su año fiscal con una facturación récord de 82,4 millones, un 10,9 % más",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/midas-cierra-su-ano-fiscal-con-una-facturacion-record-de-824-millones-un-109-mas/",
+        "date": "2025-02-23 01:47:57",
+        "sentiment_score": 0.6919996812939644
+    },
+    {
+        "title": "Trump trolea al presidente Trudeau, al que llama \"gobernador del gran estado de Canadá\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/trump-trolea-al-presidente-trudeau-al-que-llama-gobernador-del-gran-estado-de-canada/",
+        "date": "2025-02-23 01:47:45",
+        "sentiment_score": -0.9233536273241043
+    },
+    {
+        "title": "El Real Madrid celebrará un entrenamiento abierto para socios el 31 de enero a las 11:00",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/el-real-madrid-celebrara-un-entrenamiento-abierto-para-socios-el-31-de-enero-a-las-1100/",
+        "date": "2025-02-23 01:47:32",
+        "sentiment_score": 0.14607514441013336
+    },
+    {
+        "title": "España gana a Nueva Zelanda en Vancouver y se mete en su cuarta semifinal de la temporada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/23/espana-gana-a-nueva-zelanda-en-vancouver-y-se-mete-en-su-cuarta-semifinal-de-la-temporada/",
+        "date": "2025-02-23 01:45:15",
+        "sentiment_score": 0.5114925354719162
+    },
+    {
+        "title": "Sainz-Maza: \"Me imagino jugando con el Racing en Primera, sería la recuperación perfecta\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/sainz-maza-me-imagino-jugando-con-el-racing-en-primera-seria-la-recuperacion-perfecta/",
+        "date": "2025-02-23 01:34:00",
+        "sentiment_score": 0.8548160269856453
+    },
+    {
+        "title": "Gayà padece una lesión de el isquiotibial de la pierna derecha",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/gaya-padece-una-lesion-de-el-isquiotibial-de-la-pierna-derecha/",
+        "date": "2025-02-23 01:33:47",
+        "sentiment_score": -0.7721856581047177
+    },
+    {
+        "title": "Damián Rodríguez se une al grupo, en una sesión sin Manquillo y Jailson",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/damian-rodriguez-se-une-al-grupo-en-una-sesion-sin-manquillo-y-jailson/",
+        "date": "2025-02-23 01:33:34",
+        "sentiment_score": -0.15758542716503143
+    },
+    {
+        "title": "El narco se dispersa a los extremos del litoral andaluz, Murcia, Girona y Baleares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/el-narco-se-dispersa-a-los-extremos-del-litoral-andaluz-murcia-girona-y-baleares/",
+        "date": "2025-02-23 01:33:19",
+        "sentiment_score": -0.063479483127594
+    },
+    {
+        "title": "Los reyes parten rumbo a Italia para un viaje de Estado de tres días",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/los-reyes-parten-rumbo-a-italia-para-un-viaje-de-estado-de-tres-dias/",
+        "date": "2025-02-23 01:33:06",
+        "sentiment_score": 0.029730230569839478
+    },
+    {
+        "title": "Clavijo asegura tener un acuerdo con Junts si la reforma de extranjería vuelve a fracasar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/clavijo-asegura-tener-un-acuerdo-con-junts-si-la-reforma-de-extranjeria-vuelve-a-fracasar/",
+        "date": "2025-02-23 01:32:53",
+        "sentiment_score": -0.8893909342586994
+    },
+    {
+        "title": "Entre vendajes y muletas, Rusia regresa al frente a sus soldados heridos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/horiz-00-01-56-11-still001.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/soldados-heridos-rusia-guerra-ucrania-trax/",
+        "date": "2025-02-23 02:10:06",
+        "sentiment_score": -0.6479149721562862
+    },
+    {
+        "title": "¿Cómo está la salud del papa Francisco a estas horas?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2200459553.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/detalles-salud-papa-francisco-mirador-mundial-tv/",
+        "date": "2025-02-23 01:35:52",
+        "sentiment_score": -0.48376501724123955
+    },
+    {
+        "title": "\"El techo se estaba cayendo sobre nosotros\", dice sobreviviente al desplome de un centro comercial en Perú",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2200550145.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/peru-techo-desplome-sobreviviente-mirador-mundial-tv/",
+        "date": "2025-02-23 01:14:14",
+        "sentiment_score": -0.7060532737523317
+    },
+    {
+        "title": "Hamas libera seis nuevos rehenes israelíes y hay expectativa por la continuidad de la tregua",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2200643914.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/hamas-libera-nuevos-rehens-cese-al-fuego-mirador-mundial-tv/",
+        "date": "2025-02-23 00:33:18",
+        "sentiment_score": -0.006858944892883301
+    },
+    {
+        "title": "“Francisco, la ciudad reza por vos”: el Obelisco se ilumina en apoyo al papa",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2200123419.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/obelisco-buenos-aires-papa-francisco-orix/",
+        "date": "2025-02-23 00:28:32",
+        "sentiment_score": 0.31332191824913025
+    },
+    {
+        "title": "Migrantes venezolanos regresan a su país por temor a ser deportados",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1450733897.jpg?quality=100&strip=info",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migrantes-venezolanos-regresan-temor-deportaciones-eeuu-mirador-mundial-tv-fast/",
+        "date": "2025-02-23 00:24:30",
+        "sentiment_score": -0.8862676732242107
+    },
+    {
+        "title": "¿Qué implica el complejo cuadro clínico del papa Francisco? La explicación del Dr. Elmer Huerta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198441914-1.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francsico-estado-critico-que-significa-su-cuadro-elmer-huerta-mirador-mundial-tv/",
+        "date": "2025-02-23 00:21:28",
+        "sentiment_score": -0.6573921255767345
+    },
+    {
+        "title": "Montero mezcla experiencia y juventud en la cúpula del PSOE de Andalucía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QTWGDUR4CBGWPEYH647WRAL2CY.jpg?auth=6cd28062b6cd4fe0440aa534a977c78f3ae8889754adb3e264609e195427bf01&width=1200",
+        "tags": [
+            "españa",
+            "susana díaz",
+            "andalucía",
+            "junta de andalucía",
+            "provincia sevilla",
+            "provincia cádiz",
+            "psoe",
+            "maría jesús montero",
+            "psoe-a",
+            "provincia jaén"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2025-02-22/montero-combina-experiencia-y-juventud-en-la-cupula-del-psoe-de-andalucia.html",
+        "date": "2025-02-22 23:08:44",
+        "sentiment_score": -0.9142151344567537
+    },
+    {
+        "title": "\"Casta navarra\", por José Manuel Etxaniz",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2a8cefc7-2b67-4e81-b862-7e4918fca158_16-9-aspect-ratio_default_0_x848y565.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/opinion/una-unica-salud/2025/02/23/casta-navarra-jose-manuel-etxaniz-9311355.html",
+        "date": "2025-02-23 01:16:10",
+        "sentiment_score": -0.7177748456597328
+    },
+    {
+        "title": "La memoria de los niños",
+        "image_url": "https://static.laregion.es/clip/34e94b03-118a-496e-9840-a1dbcfb49ac2_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/opinion/memoria-ninos_1_20250223-3422712.html",
+        "date": "2025-02-23 00:59:23",
+        "sentiment_score": -0.1799093261361122
+    },
+    {
+        "title": "Flick culmina otro subidón culé en pleno Carnaval canario: que siga la fiesta de Laporta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/23/culemania/primer-equipo/926417352_14160318_1706x960.jpg?contentId=ESPIMA20250223_0003",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250223/flick-culmina-subidon-carnaval-canario-fiesta-laporta/926407351_0.html",
+        "date": "2025-02-23 00:57:35",
+        "sentiment_score": 0.845949487760663
+    },
+    {
+        "title": "Las joyas de pasar, una a una: estas son las piezas que sólo puede llevar Letizia y que Leonor lucirá cuando sea reina",
+        "image_url": "https://s1.elespanol.com/2021/12/13/corazon/casas-reales/634448969_218325896_1024x576.jpg?contentId=ESPIMA20211213_2420",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/royals/20250223/joyas-pasar-piezas-solo-puede-llevar-letizia-leonor-lucira-reina/917908611_0.html",
+        "date": "2025-02-23 00:50:50",
+        "sentiment_score": 0.3673790395259857
+    },
+    {
+        "title": "Clara Sanz, la geóloga que dejó la ciudad para cultivar flores en Soria: \"Recuerdo no ser dueña de mi vida\"",
+        "image_url": "https://s1.elespanol.com/2025/02/13/mujer/protagonistas/923917878_253085478_1706x960.jpg?contentId=ESPIMA20250213_0279",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250223/clara-sanz-geologa-dejo-ciudad-cultivar-flores-soria-recuerdo-no-duena-vida/923657901_0.html",
+        "date": "2025-02-23 00:50:04",
+        "sentiment_score": -0.11360082030296326
+    },
+    {
+        "title": "Sindicato Ferroviario convoca mañana una manifestación en defensa del ferrocarril público",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/sindicato-ferroviario-convoca-manana-una-manifestacion-en-defensa-del-ferrocarril-publico/",
+        "date": "2025-02-23 00:48:41",
+        "sentiment_score": -0.07507161796092987
+    },
+    {
+        "title": "El gancho juvenil de Pignoise desatado en la Santana 27",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/02/23/alvaro-benito-kWwG-U2309448249703XG-1200x840@El%20Correo.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/gancho-juvenil-pignoise-desatado-santana-20250223014713-nt.html",
+        "date": "2025-02-23 00:47:13",
+        "sentiment_score": -0.8934752773493528
+    },
+    {
+        "title": "El mediador internacional entre PSOE y Junts pide retirar la cuestión de confianza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/23/el-mediador-internacional-entre-psoe-y-junts-pide-retirar-la-cuestion-de-confianza/",
+        "date": "2025-02-23 00:46:05",
+        "sentiment_score": -0.6321127638220787
+    },
+    {
+        "title": "22 FEB 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-feb-2025-tramo-final-juego-20250223_3100910.html",
+        "date": "2025-02-23 00:08:41",
+        "sentiment_score": 0.10430414229631424
+    },
+    {
+        "title": "La pujanza de Aliança Catalana, con su nacionalismo extremo y anti inmigración, descoloca a Puigdemont",
+        "image_url": "https://phantom-elmundo.unidadeditorial.es/01e669fadfec88a6a80187b17b94685a/crop/328x212/2786x1850/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/22/17402558198300.jpg",
+        "tags": [
+            "carles puigdemont",
+            "sílvia orriols",
+            "artículos iñaki ellakuría",
+            "salvador illa",
+            "artur mas"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/02/23/67ba32d8e9cf4a9b2c8b4584.html",
+        "date": "2025-02-23 02:00:28",
+        "sentiment_score": -0.7817001193761826
+    },
+    {
+        "title": "Isabel Rodríguez (vivienda) en su laberinto",
+        "image_url": "https://s1.elespanol.com/2025/02/21/invertia/opinion/925917552_253312694_1706x960.jpg?contentId=ESPIMA20250221_0153",
+        "tags": [
+            "business",
+            "politics"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20250223/isabel-rodriguez-vivienda-laberinto/926037388_13.html",
+        "date": "2025-02-23 01:51:23",
+        "sentiment_score": -0.10341978073120117
+    },
+    {
+        "title": "El Premio Nadal de Novela recibe 769 obras de España y Latinoamérica en su 81 edición",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/10/el-premio-nadal-de-novela-recibe-769-obras-de-espana-y-latinoamerica-en-su-81-edicion/",
+        "date": "2025-02-23 01:18:26",
+        "sentiment_score": 0.4213488753885031
+    },
+    {
+        "title": "Silencio, lección y ovación en el regreso de Pedri a casa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/82ff1fd4-1468-48cd-b973-0e98c404bb80_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ud-las-palmas/2025/02/23/silencio-leccion-ovacion-regreso-pedri-114592477.html",
+        "date": "2025-02-23 00:54:05",
+        "sentiment_score": -0.6153274178504944
+    },
+    {
+        "title": "Corpoelec denunció ataque a torre de transmisión en Anzoátegui",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2025/02/corpoelec-696x392.jpg",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://elperiodiquito.com/venezuela/2051/corpoelec-denuncio-ataque-a-torre-de-transmision-en-anzoategui/",
+        "date": "2025-02-23 00:48:59",
+        "sentiment_score": -0.8524406887590885
+    },
+    {
+        "title": "Actriz de Euphoria molesta por el género en su pasaporte (+video)",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/02/hunter-schafer.jpeg",
+        "tags": [
+            "transgénero",
+            "hunter schafer",
+            "euphoria",
+            "pasaporte",
+            "espectáculos",
+            "actriz",
+            "placeres",
+            "género masculino",
+            "farándula",
+            "trans"
+        ],
+        "link": "https://primicia.com.ve/placeres/actriz-de-euphoria-molesta-por-el-genero-en-su-pasaporte-video/",
+        "date": "2025-02-23 00:33:52",
+        "sentiment_score": -0.8384084030985832
+    },
+    {
+        "title": "La céntrica tienda deportiva de uno de los fundadores del Barça: a 100 metros de la Casa Batlló",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/20/culemania/historias-del-barca/925667485_14147800_1706x960.jpg?contentId=ESPIMA20250220_0061",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20250223/la-deportiva-de-fundadores-barca-casa-batllo/925657481_0.html",
+        "date": "2025-02-23 00:33:20",
+        "sentiment_score": -0.02191886305809021
+    },
+    {
+        "title": "Lady Gaga llega a Brasil en mayo: Dará un concierto gratuito en Copacabana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/lady-gaga-llega-a-brasil-en-mayo-dara-un-concierto-gratuito-en-copacabana-202522221260",
+        "date": "2025-02-23 01:26:00",
+        "sentiment_score": 0.10329567641019821
+    },
+    {
+        "title": "Establecen nuevo horario de cierre en las playas de Puerto Cabello: Quieren prevenir accidentes",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740272458481/image.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/establecen-nuevo-horario-de-cierre-en-las-playas-de-puerto-cabello-quieren-prevenir-accidentes-202522221350",
+        "date": "2025-02-23 01:08:27",
+        "sentiment_score": -0.008811339735984802
+    },
+    {
+        "title": "Llega el fin del trabajo remoto al condado de Miami-Dade: Autoridades locales emiten un memorando",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740273947819/1.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/llega-el-fin-del-trabajo-remoto-al-condado-de-miami-dade-autoridades-locales-emiten-un-memorando-20252222120",
+        "date": "2025-02-23 01:02:00",
+        "sentiment_score": 0.08673015609383583
+    },
+    {
+        "title": "Gobernación de Anzoátegui repartirá 3 mil dólares en premios durante carnaval: Así puede participar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/gobernacion-de-anzoategui-repartira-3-mil-dolares-en-premios-durante-carnaval-asi-puede-participar-20252222100",
+        "date": "2025-02-23 01:00:00",
+        "sentiment_score": 0.13498036935925484
+    },
+    {
+        "title": "Pasaporte para menores de 9 años: Todo lo que necesita saber para tramitarlo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/pasaporte-para-menores-de-9-anos-todo-lo-que-necesita-saber-para-tramitarlo-20252222100",
+        "date": "2025-02-23 01:00:00",
+        "sentiment_score": -0.05290602147579193
+    },
+    {
+        "title": "Suspenden actividades en el Sambil La Candelaria: Corpoelec hará mantenimiento",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740267674152/IMG-20250222-WA0060.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/suspension-temporal-del-servicio-electrico-en-el-sambil-la-candelaria-corpoelec-hara-mantenimiento-202522219100",
+        "date": "2025-02-23 00:10:00",
+        "sentiment_score": -0.3215884417295456
+    },
+    {
+        "title": "MPPE: Conozca los requisitos para ejercer la carrera de docente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/mppe-conozca-los-requisitos-para-ejercer-la-carrera-de-docente-20252222000",
+        "date": "2025-02-23 00:00:00",
+        "sentiment_score": 0.06509457156062126
+    },
+    {
+        "title": "Papa Francisco se encuentra en estado crítico de salud: Tuvo una crisis respiratoria",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740267685923.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/papa-francisco-se-encuentra-en-estado-critico-de-salud-tuvo-una-crisis-respiratoria-202522219420",
+        "date": "2025-02-22 23:42:00",
+        "sentiment_score": -0.6999366283416748
+    },
+    {
+        "title": "¿Cuándo llega el reembolso del Crédito Tributario Adicional por Hijos? Aprende a rastrear el pago",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuando-llega-el-reembolso-del-credito-tributario-adicional-por-hijos-aprende-a-rastrear-el-pago-202522219300",
+        "date": "2025-02-22 23:30:00",
+        "sentiment_score": -0.015129372477531433
+    },
+    {
+        "title": "Abuelastro abusa de niño en Bolívar: El padre y la abuela lo encubrieron culpando a la familia materna",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740167805785.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/abuelastro-abusa-de-nino-en-bolivar-el-padre-y-la-abuela-lo-encubrieron-culpando-a-la-familia-materna-20252222000",
+        "date": "2025-02-22 23:09:27",
+        "sentiment_score": -0.28256748989224434
     }
 ];
