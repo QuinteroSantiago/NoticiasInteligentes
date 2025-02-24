@@ -1,302 +1,5 @@
 export default [
     {
-        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades de España",
-        "image_url": "https://www.infobae.com/resizer/v2/WKCKYTHUIBFSDNWG7SOBD6CDVI.jpg?auth=386c76de43c8f1b8dcffdc1c74698090cfa13cff774a4b918147125f95fd723b&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/02/20/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-de-espana/",
-        "date": "2025-02-20 06:31:21",
-        "sentiment_score": -0.006723970174789429
-    },
-    {
-        "title": "Ilunion y Amiab Albacete reeditarán en Ciudad Real las anteriores dos finales de la Supercopa de España",
-        "image_url": "https://www.infobae.com/resizer/v2/BZG7SMD62NAJLPZE4XT4KQ5WVU.jpg?auth=ff0eae25d03460bdc5e585503141ccbb54b1e72b8496fd09e58a88c06d0647e1&height=1203&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/07/ilunion-y-amiab-albacete-reeditaran-en-ciudad-real-las-anteriores-dos-finales-de-la-supercopa-de-espana/",
-        "date": "2025-02-20 06:19:00",
-        "sentiment_score": 0.2741910368204117
-    },
-    {
-        "title": "Barça y Real Madrid golean y se mantienen primero y segundo de la Liga F",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/07/barca-y-real-madrid-golean-y-se-mantienen-primero-y-segundo-de-la-liga-f/",
-        "date": "2025-02-20 06:18:45",
-        "sentiment_score": 0.8385465759783983
-    },
-    {
-        "title": "Cárcel para el exjefe de la Guardia Civil en el puerto de Valencia y otros tres detenidos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/07/carcel-para-el-exjefe-de-la-guardia-civil-en-el-puerto-de-valencia-y-otros-tres-detenidos/",
-        "date": "2025-02-20 06:18:31",
-        "sentiment_score": -0.7733331900089979
-    },
-    {
-        "title": "Rioja: “No estamos demostrando ser jugadores de Primera ni llevar este escudo”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/07/rioja-no-estamos-demostrando-ser-jugadores-de-primera-ni-llevar-este-escudo/",
-        "date": "2025-02-20 06:17:30",
-        "sentiment_score": -0.3708229660987854
-    },
-    {
-        "title": "La Angola del español Carlos Viver, campeona de balonmano femenino de África",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/07/la-angola-del-espanol-carlos-viver-campeona-de-balonmano-femenino-de-africa/",
-        "date": "2025-02-20 06:17:17",
-        "sentiment_score": 0.470325343310833
-    },
-    {
-        "title": "Gilsanz: “Seguramente el Zaragoza merecía el empate”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/07/gilsanz-seguramente-el-zaragoza-merecia-el-empate/",
-        "date": "2025-02-20 06:17:03",
-        "sentiment_score": 0.8371358886361122
-    },
-    {
-        "title": "Baraja: “Yo no abandono, mi obsesión es cambiar la situación”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/07/baraja-yo-no-abandono-mi-obsesion-es-cambiar-la-situacion/",
-        "date": "2025-02-20 06:16:49",
-        "sentiment_score": 0.6049860343337059
-    },
-    {
-        "title": "Así quiere el Pacto de Estado que el sistema sanitario plante cara a la violencia machista",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/02/20/asi-quiere-el-pacto-de-estado-que-el-sistema-sanitario-plante-cara-a-la-violencia-machista/",
-        "date": "2025-02-20 06:15:21",
-        "sentiment_score": -0.5135201811790466
-    },
-    {
-        "title": "Íñigo Pérez: “Me ha gustado cómo hemos sido capaces de sostener el resultado”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/07/inigo-perez-me-ha-gustado-como-hemos-sido-capaces-de-sostener-el-resultado/",
-        "date": "2025-02-20 06:03:23",
-        "sentiment_score": 0.7165052853524685
-    },
-    {
-        "title": "Petro nombra ministro de Defensa al general que halló a los cuatro menores desaparecidos en la selva en 2023",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/20/pedro-sanchez-colombia-kMIF-U702878512760MF-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/petro-nombra-ministro-defensa-general-hallo-cuatro-20250220070325-nt.html",
-        "date": "2025-02-20 06:03:26",
-        "sentiment_score": 0.022471189498901367
-    },
-    {
-        "title": "Chollo del día: 35% de descuento en un cojín que alivia los dolores de espalda y mejora la postura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6CY5MRDWCZDLPGKVCL2K5OFR5E.png?auth=78207c9d226153d487bc6a785fbc26ca9adf04813bebf204062da7532adb7f70&width=1200",
-        "tags": [
-            "salud"
-        ],
-        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2025-02-20/cojin-ergonomico.html",
-        "date": "2025-02-20 06:20:00",
-        "sentiment_score": 0.7100826054811478
-    },
-    {
-        "title": "Lamine Yamal y la victoria del Real Madrid en Champions, protagonistas de las portadas deportivas de hoy",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2025/02/20/67b6c7f85ec19.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20250220/1002411282/lamine-yamal-victoria-real-madrid-champions-protagonistas-portadas-deportivas-hoy-galeria-dct.html",
-        "date": "2025-02-20 06:16:35",
-        "sentiment_score": 0.18889857828617096
-    },
-    {
-        "title": "MediaMarkt tira el precio de los móviles Xiaomi por tiempo limitado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W5W4VZ2ZFNGBLB57ZZOWUSG6BU.png?auth=7b129a601be5bfe328e92c1113b8f9b3af58e2e323df2582cc6559fc819e453c&width=1200",
-        "tags": [
-            "xiaomi",
-            "tecnología",
-            "smartphone",
-            "media markt",
-            "comercio electrónico",
-            "sector descuentos",
-            "rebajas"
-        ],
-        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2025-02-20/mediamarkt-xiaomi-ofertas-moviles.html",
-        "date": "2025-02-20 06:15:00",
-        "sentiment_score": 0.5648159142583609
-    },
-    {
-        "title": "Así sabes tu cerebro si te mueves tú o lo hace el entorno",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250220071449_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-asi-sabes-cerebro-si-te-mueves-hace-entorno-20250220071449.html",
-        "date": "2025-02-20 06:14:49",
-        "sentiment_score": -0.14695177972316742
-    },
-    {
-        "title": "Le Normand: \"Fue un momento duro, estás con las dudas de poder volver a jugar o no\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/07/le-normand-fue-un-momento-duro-estas-con-las-dudas-de-poder-volver-a-jugar-o-no/",
-        "date": "2025-02-20 06:04:06",
-        "sentiment_score": 0.5420494265854359
-    },
-    {
-        "title": "Pol Lozano, la consagración de un perico de cuna",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/01/pol-lozano-espanyol-750x401.jpg",
-        "tags": [
-            "espanyol",
-            "primer equipo",
-            "pol lozano"
-        ],
-        "link": "https://lagradaonline.com/pol-lozano-espanyol-analisis-laliga-24-25/",
-        "date": "2025-02-20 06:00:59",
-        "sentiment_score": 0.08825713396072388
-    },
-    {
-        "title": "Mendizorroza, territorio maldito: el Espanyol busca romper su mal fario histórico en el campo del Alavés",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/02/coudet-alaves-manolo-gonzalez-espanyol-750x381.jpg",
-        "tags": [
-            "alavés",
-            "espanyol",
-            "estadísticas",
-            "curiosidades",
-            "primer equipo",
-            "datos"
-        ],
-        "link": "https://lagradaonline.com/alaves-espanyol-previa-estadisticas-datos-curiosidades/",
-        "date": "2025-02-20 06:00:29",
-        "sentiment_score": 0.359812393784523
-    },
-    {
-        "title": "Julen Lobete, el jugador del Málaga CF que disfruta de la soledad en el centro de la ciudad",
-        "image_url": "https://s1.elespanol.com/2025/02/20/malaga/deporte/malaga-c-f/925667428_253272337_1706x960.jpg?contentId=ESPIMA20250220_0004",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/malaga/deporte/malaga-c-f/20250220/julen-lobete-jugador-malaga-cf-disfruta-soledad-centro-ciudad/925657426_0.html",
-        "date": "2025-02-20 05:50:00",
-        "sentiment_score": 0.2670923247933388
-    },
-    {
-        "title": "Urko: “Firmo que el Espanyol y el Alavés nos salvemos”",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/02/urko-espanyol-1-750x422.jpg",
-        "tags": [
-            "urko",
-            "espanyol",
-            "primer equipo",
-            "alavés"
-        ],
-        "link": "https://lagradaonline.com/urko-gonzalez-zarate-alaves-espanyol-manolo-gonzalez-real-sociedad/",
-        "date": "2025-02-20 05:48:03",
-        "sentiment_score": 0.28882165253162384
-    },
-    {
-        "title": "Estas son las multas de tráfico que la DGT más pone a los conductores en Castilla-La Mancha",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/06/13/64886b888449a.jpeg",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.lavanguardia.com/motor/20250220/10404060/son-multas-trafico-dgt-mas-pone-conductores-castilla-mancha-pmv.html",
-        "date": "2025-02-20 06:27:08",
-        "sentiment_score": -0.32105518132448196
-    },
-    {
-        "title": "Lo que debes saber hoy, 20 de febrero, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/12/20/vivir-en-barcelona/818678234_12115014_1706x960.jpg?contentId=ESPIMA20231220_0110",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250220/lo-que-debes-saber-hoy-de-febrero-barcelona/925657428_0.html",
-        "date": "2025-02-20 06:11:32",
-        "sentiment_score": -0.5161425322294235
-    },
-    {
-        "title": "Despiece de un atún de casi 200 kilos y una cena posterior en Tunateca (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/305f92c3-b365-4f5e-b876-aceb465fab22_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20250220/despiece-atun-kaitai-restaurante-tunateca-barcelona-114205313",
-        "date": "2025-02-20 06:07:36",
-        "sentiment_score": 0.7183026298880577
-    },
-    {
-        "title": "¿Dónde comprar y comer el auténtico bacalao curado tradicional? Los bacaladeros crean un mapa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b7d4db2-4ca0-4e24-8462-26d685f616dd_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20250220/mapa-donde-comprar-comer-bacalao-catalunya-114463433",
-        "date": "2025-02-20 06:05:34",
-        "sentiment_score": 0.7103193327784538
-    },
-    {
-        "title": "4-1: El Barça hace los deberes ante el Betis y ya piensa en Europa",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/07/4-1-el-barca-hace-los-deberes-ante-el-betis-y-ya-piensa-en-europa/",
-        "date": "2025-02-20 06:03:10",
-        "sentiment_score": 0.5818116292357445
-    },
-    {
-        "title": "Nunca fallan: estos son algunos de los restaurantes más fiables de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2a194bbd-e66e-41cf-9b54-3c1d1e4f1e19_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20250220/restaurantes-barcelona-nunca-fallan-fiables-114444475",
-        "date": "2025-02-20 06:01:04",
-        "sentiment_score": -0.4864146411418915
-    },
-    {
-        "title": "Sergi Cadenas, artesano urbano de la forja y pintor de éxito de arte cinético",
-        "image_url": "https://static1.ara.cat/clip/01c9e959-1686-4ceb-8ef3-f82798cddc93_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/misc/sergi-cadenas-artesano-urbano-forja-pintor-exito-arte-cinetico_130_5290695.html",
-        "date": "2025-02-20 06:00:52",
-        "sentiment_score": -0.13144952058792114
-    },
-    {
-        "title": "¿Qué planetas podremos ver entre febrero y marzo de 2025? Mercurio es el primero",
-        "image_url": "https://pxcdn.2001online.com/2001/022025/1740029624314.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/curiosidades/que-planetas-podremos-ver-entre-febrero-y-marzo-de-2025-mercurio-es-el-primero-20252201330",
-        "date": "2025-02-20 05:33:00",
-        "sentiment_score": 0.05896268039941788
-    },
-    {
         "title": "Repsol sube el 7,84% en bolsa al aumentar dividendo y pese a reducir su beneficio un 44,6%",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -7863,5 +7566,464 @@ export default [
         "link": "https://2001online.com/internacionales/gustavo-petro-habla-de-la-salud-del-papa-francisco-que-no-se-vaya-mi-companero-del-alma-202522310480",
         "date": "2025-02-23 14:48:00",
         "sentiment_score": 0.348104752600193
+    },
+    {
+        "title": "10 datos de la jornada 25",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/23/10-datos-de-la-jornada-25/",
+        "date": "2025-02-23 22:16:14",
+        "sentiment_score": 0.0129922553896904
+    },
+    {
+        "title": "0-0. Cádiz y Castellón igualan en desaciertos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/23/0-0-cadiz-y-castellon-igualan-en-desaciertos/",
+        "date": "2025-02-23 22:15:57",
+        "sentiment_score": -0.4017597511410713
+    },
+    {
+        "title": "La Real refleja un beneficio de 1.505.050 euros para la 24/25 en la Junta de Accionistas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/la-real-refleja-un-beneficio-de-1505050-euros-para-la-2425-en-la-junta-de-accionistas/",
+        "date": "2025-02-23 22:03:51",
+        "sentiment_score": 0.5169338583946228
+    },
+    {
+        "title": "3-0. La Real golea al Leganés con tantos de Zakharyan, Kubo y Olasagasti",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/23/3-0-la-real-golea-al-leganes-con-tantos-de-zakharyan-kubo-y-olasagasti/",
+        "date": "2025-02-23 22:02:22",
+        "sentiment_score": 0.3174355775117874
+    },
+    {
+        "title": "El exfutbolista Jesús Navas y la filóloga Pilar Manchón, Hijos Predilectos de Andalucía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/23/el-exfutbolista-jesus-navas-y-la-filologa-pilar-manchon-hijos-predilectos-de-andalucia/",
+        "date": "2025-02-23 22:02:02",
+        "sentiment_score": -0.8296550251543522
+    },
+    {
+        "title": "Los jóvenes españoles a la cola de la UE para emanciparse por culpa del precio de la vivienda",
+        "image_url": "https://www.infobae.com/resizer/v2/32JJUWED35HVVH5SQCA2BVVTHY.jpg?auth=2cdd8c03e54c588fe0abbc361f819636ad296a19c857f73ceb0476806e3f82bf&height=4000&smart=true&width=6000",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/23/los-jovenes-espanoles-a-la-cola-de-la-ue-para-emanciparse-por-culpa-del-precio-de-la-vivienda/",
+        "date": "2025-02-23 21:59:00",
+        "sentiment_score": -0.6767277233302593
+    },
+    {
+        "title": "El exfutbolista Jesús Navas, hijo Predilecto de Andalucía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/23/el-exfutbolista-jesus-navas-hijo-predilecto-de-andalucia/",
+        "date": "2025-02-23 21:47:18",
+        "sentiment_score": -0.8225810397416353
+    },
+    {
+        "title": "Vivian: \"Que la gente nos vea como un rival tan fuerte siempre es algo que te motiva\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/vivian-que-la-gente-nos-vea-como-un-rival-tan-fuerte-siempre-es-algo-que-te-motiva/",
+        "date": "2025-02-23 21:18:42",
+        "sentiment_score": 0.6562695279717445
+    },
+    {
+        "title": "Ponsarnau: \"Estoy muy satisfecho; el equipo ha tenido muy buena mentalidad\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/ponsarnau-estoy-muy-satisfecho-el-equipo-ha-tenido-muy-buena-mentalidad/",
+        "date": "2025-02-23 21:18:29",
+        "sentiment_score": 0.7690947279334068
+    },
+    {
+        "title": "95-88. De Ridder impulsa al Surne Bilbao a un triunfo clave para estar en cuartos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/10/95-88-de-ridder-impulsa-al-surne-bilbao-a-un-triunfo-clave-para-estar-en-cuartos/",
+        "date": "2025-02-23 21:03:47",
+        "sentiment_score": 0.8306303210556507
+    },
+    {
+        "title": "¿Cuál podría ser el impacto de la controversia de $LIBRA para Javier Milei?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2201307161.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/javier-milei-criptomoneda-libra-conectados-tv-fast/",
+        "date": "2025-02-23 21:36:02",
+        "sentiment_score": -0.2910985201597214
+    },
+    {
+        "title": "Nuevo parte médico de Francisco dice que padece “signos leves de insuficiencia renal”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2198441914-20250223210549892.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/salud-francisco-parte-medico-domingo-orix-mirador-mundial-tv/",
+        "date": "2025-02-23 21:13:29",
+        "sentiment_score": -0.7122338246554136
+    },
+    {
+        "title": "Zelensky pide ser incluido en las negociaciones de EE.UU.-Rusia: “La guerra está en Ucrania”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2200880228.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/zelensky-dispuesto-renunciar-ucrania-trax/",
+        "date": "2025-02-23 17:22:12",
+        "sentiment_score": -0.0725603997707367
+    },
+    {
+        "title": "Las posibles coaliciones para que Merz sea canciller tras su victoria electoral en Alemania",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/23/coaliciones1-kB7G-U703103067877jC-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/posibles-coaliciones-merz-canciller-tras-victoria-electoral-20250223222904-nt.html",
+        "date": "2025-02-23 21:33:13",
+        "sentiment_score": -0.13606426119804382
+    },
+    {
+        "title": "En cabeza ajena",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/02/24/AdobeStock_401300570-Riv2Y1ZUvJrMjrCV8JfDTLI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-narbona-cabeza-ajena-20250224220734-nts.html",
+        "date": "2025-02-23 21:27:38",
+        "sentiment_score": -0.1569211483001709
+    },
+    {
+        "title": "Los héroes villanos de la pizarra",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/02/18/granadino-corta-jamon-rey-kkdD--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/heroes-villanos-pizarra-20250224220728-nts.html",
+        "date": "2025-02-23 21:27:37",
+        "sentiment_score": -0.04144728183746338
+    },
+    {
+        "title": "El Gobierno de España se dirime en Suiza con un prófugo",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-gobierno-espana-dirime-suiza-profugo-20250224163833-nt.html",
+        "date": "2025-02-23 20:17:33",
+        "sentiment_score": -0.43479686975479126
+    },
+    {
+        "title": "La erosión de la democracia",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/02/20/1P2A1157_20250220133454-U52432346025mbT-170x119@El%20Norte.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-erosion-democracia-20250224163107-nt.html",
+        "date": "2025-02-23 20:17:28",
+        "sentiment_score": -0.1580922156572342
+    },
+    {
+        "title": "Merz asegura que gobernará Alemania, pero no aclara con quién",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/23/Captura-RJtQsYV7di49HpEM2R16wfK-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/merz-asegura-gobernara-alemania-aclara-20250223195628-nt.html",
+        "date": "2025-02-23 18:56:28",
+        "sentiment_score": 0.006372332572937012
+    },
+    {
+        "title": "Unas 2.500 personas se manifiestan en Barcelona a favor de Ucrania a los tres años de la guerra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VPM555AVMX6YD3JDAWMFEKDHVQ.jpg?auth=8a42c0dc6302dde6dbef83ff871a2a3cf01a323e3172ab728fae0d6b6947985c&width=1200",
+        "tags": [
+            "ucrania",
+            "cataluña",
+            "manifestaciones",
+            "guerra de rusia en ucrania",
+            "rusia",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-02-23/unas-2500-personas-se-manifiestan-en-barcelona-a-favor-de-ucrania-a-los-tres-anos-de-la-guerra.html",
+        "date": "2025-02-23 19:17:10",
+        "sentiment_score": -0.8075344022363424
+    },
+    {
+        "title": "Feijóo se arma de expertos y exministros de Exteriores y Defensa tras los ataques de Sánchez",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UTRIQO2N5P4I7BYXLZ73YEPY2Q.jpg?auth=93e65b10308c22ecdd93e517d08b3ee8a3c3eb1a1f9c693ef9da5eab742f0a4b&width=1200",
+        "tags": [
+            "ucrania",
+            "pp",
+            "españa",
+            "volodimir zelenski",
+            "donald trump",
+            "gobierno",
+            "estados unidos",
+            "alberto núñez feijóo",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2025-02-23/feijoo-se-arma-de-expertos-y-exministros-de-exteriores-y-defensa-tras-los-ataques-de-sanchez.html",
+        "date": "2025-02-23 17:34:50",
+        "sentiment_score": -0.5421685427427292
+    },
+    {
+        "title": "El Polvorín logra un punto de oro en Boiro",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/02/23/2025022322564753369.jpg",
+        "tags": [
+            "deporte local lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/deporte-local-lugo/polvorin-logra-punto-oro-boiro/202502232306131850469.html",
+        "date": "2025-02-23 22:06:13",
+        "sentiment_score": 0.390491783618927
+    },
+    {
+        "title": "Tres sancionados para visitar al Barcelona",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0fb9fc31-c008-403f-92d9-d06bf7e823cc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/02/23/tres-sancionados-visitar-barcelona-9314993.html",
+        "date": "2025-02-23 22:04:55",
+        "sentiment_score": -0.8303231820464134
+    },
+    {
+        "title": "Courtois: \"No creo que Mbappé tenga nada grave\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/10/courtois-no-creo-que-mbappe-tenga-nada-grave/",
+        "date": "2025-02-23 22:03:24",
+        "sentiment_score": 0.4797388017177582
+    },
+    {
+        "title": "Ancelotti resta importancia a la lesión de Mbappé y apunta a sobrecarga muscular",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/10/ancelotti-resta-importancia-a-la-lesion-de-mbappe-y-apunta-a-sobrecarga-muscular/",
+        "date": "2025-02-23 22:02:43",
+        "sentiment_score": -0.8488465640693903
+    },
+    {
+        "title": "Sancet alcanza la tercera plaza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/23/sancet-alcanza-la-tercera-plaza/",
+        "date": "2025-02-23 22:00:51",
+        "sentiment_score": 0.32814325392246246
+    },
+    {
+        "title": "El Real Madrid resiste",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/23/el-real-madrid-resiste/",
+        "date": "2025-02-23 22:00:35",
+        "sentiment_score": -0.09951680898666382
+    },
+    {
+        "title": "LaLiga EA Sports | Jornada perfecta para el Espanyol: Valladolid y Leganés tampoco suman; el Getafe, a 3 puntos",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/02/laliga-ea-sports-24-25-jornada-25-domingo-750x373.jpg",
+        "tags": [
+            "alavés",
+            "primer equipo",
+            "laliga ea sports",
+            "resultados",
+            "espanyol",
+            "jornada 25",
+            "clasificación"
+        ],
+        "link": "https://lagradaonline.com/deportivo-alaves-rcd-espanyol-resultados-clasificacion-jornada-25-primera-division-laliga-ea-sports-domingo/",
+        "date": "2025-02-23 21:45:52",
+        "sentiment_score": 0.05616317689418793
+    },
+    {
+        "title": "Jaka Lakovic recupera efectivos a cuentagotas para su CB Gran Canaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/20255230-3eeb-4362-acc6-ff14af0c4c52_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2025/02/23/jaka-lakovic-recupera-efectivos-cuentagotas-114614997.html",
+        "date": "2025-02-23 21:37:44",
+        "sentiment_score": 0.24591191112995148
+    },
+    {
+        "title": "Miércoles 11 de diciembre de 2024 (22.00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/10/miercoles-11-de-diciembre-de-2024-2200-gmt/",
+        "date": "2025-02-23 21:33:54",
+        "sentiment_score": -0.21512212604284286
+    },
+    {
+        "title": "Un triunfo para asomarse a Europa",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2025/02/23/1492896955-kixF--758x531@Diario%20Vasco.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/triunfo-asomarse-europa-20250223225632-nt.html",
+        "date": "2025-02-23 22:00:34",
+        "sentiment_score": -0.9130070451647043
+    },
+    {
+        "title": "La gran incógnita de los pactos en la sede de la CDU: “Necesitamos formar un Gobierno viable”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2Q5DO4DC57GFJTCDV27HIOE5Z4.jpg?auth=b35552ebfc7ee0a754f5a49c05bf12fad3eab02086f54452696e4a172687f998&width=1200",
+        "tags": [
+            "extrema derecha",
+            "elecciones",
+            "spd alemania",
+            "afd",
+            "pactos postelectorales",
+            "elecciones alemania",
+            "conservadores",
+            "cdu",
+            "pactos políticos",
+            "alemania",
+            "friedrich merz"
+        ],
+        "link": "https://elpais.com/internacional/2025-02-23/la-gran-incognita-de-los-pactos-en-la-sede-de-la-cdu-necesitamos-formar-un-gobierno-viable.html",
+        "date": "2025-02-23 21:27:25",
+        "sentiment_score": 0.42117758095264435
+    },
+    {
+        "title": "1-5. El Bayern toma posiciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/10/1-5-el-bayern-toma-posiciones/",
+        "date": "2025-02-23 21:17:46",
+        "sentiment_score": 0.6803987883031368
+    },
+    {
+        "title": "Las mejores playas de Estados Unidos que puedes visitar durante estos Carnavales",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740169750794.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/las-mejores-playas-de-estados-unidos-que-puedes-visitar-durante-estos-carnavales--20252231800",
+        "date": "2025-02-23 22:00:00",
+        "sentiment_score": -0.14279939606785774
+    },
+    {
+        "title": "Rescatan a un hombre tras caer al río Guaire: Resultó lesionado con una fractura en la pierna",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740346514241.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/rescatan-a-un-hombre-tras-caer-al-rio-guaire-resulto-lesionado-con-una-fractura-en-la-pierna-202522317350",
+        "date": "2025-02-23 21:35:00",
+        "sentiment_score": -0.42344627529382706
+    },
+    {
+        "title": "Saime: Sepa dónde estarán ubicados los puntos de cedulación a partir del 24 de febrero",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740343919213.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/saime-sepa-donde-estaran-ubicados-los-puntos-de-cedulacion-a-partir-del-24-de-febrero-202522317320",
+        "date": "2025-02-23 21:32:00",
+        "sentiment_score": -0.01855742186307907
+    },
+    {
+        "title": "Embarcación con 25 personas a bordo naufraga en Güiria: Una niña fallecida y 10 desaparecidos",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740345423524.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/embarcacion-con-25-personas-a-bordo-naufraga-en-guiria-una-nina-fallecida-y-10-desaparecidos-202522317320",
+        "date": "2025-02-23 21:32:00",
+        "sentiment_score": -0.5159583687782288
+    },
+    {
+        "title": "Seguro Social USA: ¿Quiénes recibirán el último pago de $5.000 en febrero?",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740346450174.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-social-usa-quienes-recibiran-el-ultimo-pago-de-5-000-en-febrero--202522317310",
+        "date": "2025-02-23 21:31:00",
+        "sentiment_score": 0.07560837641358376
+    },
+    {
+        "title": "Fácil receta de tostón relleno con ensalada de atún",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740150433685.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - gastronomía"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/facil-receta-de-toston-relleno-con-ensalada-de-atun-20252231700",
+        "date": "2025-02-23 21:00:00",
+        "sentiment_score": -0.7168170213699341
+    },
+    {
+        "title": "¿Messi o CR7? Ronaldo Nazario aviva el debate sobre quién es el mejor futbolista",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740198843435.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/messi-o-cr7-ronaldo-nazario-aviva-el-debate-sobre-quien-es-el-mejor-futbolista-20252231700",
+        "date": "2025-02-23 21:00:00",
+        "sentiment_score": 0.8073606509715319
+    },
+    {
+        "title": "Venezolana fue secuestrada y prostituida por actor ponor en España",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740168538494.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/venezolana-fue-secuestrada-y-prostituida-por-actor-ponor-en-espana-20252231700",
+        "date": "2025-02-23 21:00:00",
+        "sentiment_score": -0.7653055544942617
+    },
+    {
+        "title": "Venezolano cuenta cómo fue arrestado por el ICE mientras trabajaba en una obra en Oklahoma: “No perdonan a nadie”",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740342318845.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/venezolano-cuenta-como-fue-arrestado-por-el-ice-mientras-trabajaba-en-una-obra-en-oklahoma-no-perdonan-a-nadie--202522316230",
+        "date": "2025-02-23 20:23:00",
+        "sentiment_score": -0.6474977768957615
+    },
+    {
+        "title": "Seguro Social USA: Beneficiarios perderán sus depósitos por no cumplir la ley",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740186585605.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-social-usa-beneficiarios-perderan-sus-depositos-por-no-cumplir-la-ley-20252231600",
+        "date": "2025-02-23 20:00:00",
+        "sentiment_score": -0.2405916340649128
     }
 ];
