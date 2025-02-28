@@ -120,56 +120,6 @@ export default [
         "sentiment_score": -0.40147994458675385
     },
     {
-        "title": "Masiva despedida al líder de Hezbollah en Beirut",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2200851634.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/masiva-despedida-lider-hezbollah-libano-cafe-tv/",
-        "date": "2025-02-24 13:45:26",
-        "sentiment_score": -0.8553492352366447
-    },
-    {
-        "title": "Cumbre de apoyo a Ucrania a tres años del conflicto",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_9a5ecd.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cumbre-apoyo-ucrania-tres-anos-conflicto-cafe-tv/",
-        "date": "2025-02-24 13:35:41",
-        "sentiment_score": -0.11139623820781708
-    },
-    {
-        "title": "El momento en que la Fuerza Aérea Italiana escolta un vuelo desviado de American Airlines",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/111352-italian-airforce-aa-raw-clean-00-00-11-26-still002-20250224130807798.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/avion-fuerza-aerea-italiana-american-airlines-trax/",
-        "date": "2025-02-24 13:09:09",
-        "sentiment_score": -0.765070840716362
-    },
-    {
-        "title": "El proyecto político de Axel Kicillof en un año electoral",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/cnn-fast-20241213123945390_fc8d76.png",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/proyecto-politico-axel-kicillof-buenos-aires-primera-manana-fast/",
-        "date": "2025-02-24 12:58:01",
-        "sentiment_score": -0.021194010972976685
-    },
-    {
-        "title": "Un médico valora un \"signo preocupante\" en la salud del papa Francisco",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/reiner-20250223230342522-20250224122736074.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/papa-francisco-salud-medico-hospital-rinones-trax/",
-        "date": "2025-02-24 12:41:15",
-        "sentiment_score": -0.6803109999746084
-    },
-    {
         "title": "Trump y Macron se reúnen en la Casa Blanca",
         "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
         "tags": [
@@ -188,86 +138,6 @@ export default [
         "link": "https://www.abc.es/tecnologia/videojuegos/jugamos-monster-hunter-wilds-titulo-unico-salvaje-20250224122214-nt.html",
         "date": "2025-02-24 15:45:03",
         "sentiment_score": -0.03562977910041809
-    },
-    {
-        "title": "Merz espera tener en Semana Santa una coalición con el SPD, pero los socialdemócratas no confirman su entrada en el gobierno",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/24/merz-cdu-rueda-prensa-kLhC-U70313977499vEI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/merz-espera-tener-semana-santa-coalicion-spd-20250224142500-nt.html",
-        "date": "2025-02-24 13:25:01",
-        "sentiment_score": -0.020157694816589355
-    },
-    {
-        "title": "El giro de EE.UU. sobre la guerra en Ucrania descoloca a sus socios en América Latina",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/24/3-kQiB-U70313835161XtG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/giro-eeuu-sobre-guerra-ucrania-descoloca-socios-20250224141936-nt.html",
-        "date": "2025-02-24 13:19:36",
-        "sentiment_score": 0.0003376007080078125
-    },
-    {
-        "title": "Apple anuncia un plan para invertir 500.000 millones en EE.UU. en plena guerra comercial lanzada por Trump",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/02/24/apple-kGAF-U70313829168TCC-758x531@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/apple-anuncia-plan-invertir-500000-millones-eeuu-20250224141443-nt.html",
-        "date": "2025-02-24 13:14:44",
-        "sentiment_score": -0.029487252235412598
-    },
-    {
-        "title": "Afrontemos los riesgos económicos con el respaldo del Seguro",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/02/24/paraguas-crisis-tormenta-seguros_20250224140127-RjkAzkT0X9RKG0CJIyGSZjO-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/afrontemos-riesgos-economicos-respaldo-seguro-20250224140359-nt.html",
-        "date": "2025-02-24 13:04:00",
-        "sentiment_score": -0.12301366031169891
-    },
-    {
-        "title": "La morosidad de la banca cae al 3,32%, la tasa más baja desde 2008",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/02/24/1488085550-Ro6RZxJ5pOMDSN4Ssh1OPjP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/morosidad-banca-cae-332-tasa-baja-2008-20250224135320-nt.html",
-        "date": "2025-02-24 12:53:20",
-        "sentiment_score": -0.11850589513778687
-    },
-    {
-        "title": "El Gobierno propone condonar 83.252 millones de deuda de las autonomías tras el pacto con ERC",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/02/24/1492879523-RBo70gy6dKXlNbZCJAlpLEO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-propone-condonar-83252-millones-deuda-autonomias-20250224132827-nt.html",
-        "date": "2025-02-24 12:34:53",
-        "sentiment_score": -0.14187394082546234
-    },
-    {
-        "title": "El Pentágono alerta del riesgo de que China use el Caribe para lanzar un ataque a EE.UU.",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/24/XIPUTIn-k8oD-U70313283745TPE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/pentagono-alerta-riesgo-china-use-caribe-lanzar-20250224130530-nt.html",
-        "date": "2025-02-24 12:05:31",
-        "sentiment_score": -0.09535607695579529
-    },
-    {
-        "title": "Bruselas anuncia un paquete de medidas para acelerar la integración de Ucrania en el mercado eléctrico en 2027",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/24/zaporiya-knLI-U70313006656VwC-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/bruselas-anuncia-paquete-medidas-acelerar-integracion-ucrania-20250224122652-nt.html",
-        "date": "2025-02-24 11:26:53",
-        "sentiment_score": 0.09114506840705872
     },
     {
         "title": "Amador choca con un cámara por accidente al salir del juzgado y Ayuso asegura que “fue agredido”",
@@ -430,23 +300,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-02-24/la-jueza-de-la-dana-insiste-en-la-responsabilidad-autonomica-de-la-tragedia-al-rechazar-una-querella-contra-el-gobierno.html",
         "date": "2025-02-24 14:19:53",
         "sentiment_score": -0.6951429918408394
-    },
-    {
-        "title": "Expulsado de España un peluquero de Mataró por captar combatientes para el Estado Islámico",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QTA6AAKSVFH2NGI2XFERVSQZGM.jpg?auth=d44f41619f7a223f78cc0f8417e244b18210224c7ab51f09a774ab42990407c8&width=1200",
-        "tags": [
-            "cataluña",
-            "expulsiones",
-            "terrorismo",
-            "barcelona",
-            "policía nacional",
-            "mataró",
-            "guardia civil",
-            "terrorismo islamista"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-24/expulsado-de-espana-un-peluquero-de-mataro-por-captar-combatientes-para-el-estado-islamico.html",
-        "date": "2025-02-24 14:05:39",
-        "sentiment_score": -0.8301885388791561
     },
     {
         "title": "La Real convoca a la afición en el Reale Arena para recibir al autobús del equipo ante el Madrid",
@@ -8418,5 +8271,398 @@ export default [
         "link": "https://2001online.com/comunidad/freddy-bernal-anuncia-suspension-de-carnavales-en-tachira-los-artistas-que-se-contrataron-no-quisieron-venir-202522716530",
         "date": "2025-02-27 20:53:00",
         "sentiment_score": -0.7258111033588648
+    },
+    {
+        "title": "Peruana es detenida en España por realizar cirugías estéticas en un quirófano clandestino en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/JYKBUK2EDVD5NJ2KZKYJZK2GHA.jpg?auth=81e887838477804c121d8dc74725e052d49d1622c1d7fefd308807646a189d1f&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/02/28/peruana-es-detenida-en-espana-por-realizar-cirugias-esteticas-en-un-quirofano-clandestino-en-madrid/",
+        "date": "2025-02-28 02:06:57",
+        "sentiment_score": -0.865082805044949
+    },
+    {
+        "title": "Los 5 pueblos poco conocidos e impresionantes de Andalucía que debes visitar alguna vez en la vida: piscinas naturales, castillos y leyendas sorprendentes",
+        "image_url": "https://www.infobae.com/resizer/v2/LHKLLYW5YRG43DFNCQ3XNLSIKY.jpg?auth=98cf1bb1cb2fddae32e1c7ef33287e2b9464489b077a989d78ca51e7303c7b9f&height=563&smart=true&width=1000",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2025/02/28/los-5-pueblos-poco-conocidos-e-impresionantes-de-andalucia-que-debes-visitar-alguna-vez-en-la-vida-piscinas-naturales-castillos-y-leyendas-sorprendentes/",
+        "date": "2025-02-28 02:05:00",
+        "sentiment_score": 0.6735341958701611
+    },
+    {
+        "title": "Clima en España: el estado del tiempo para Barcelona este 28 de febrero",
+        "image_url": "https://www.infobae.com/resizer/v2/FI6MWAEXGVCIHAV25ALIPIMJFY.jpg?auth=048ddb019ab5ed52d6e690c73faab727f3bfaebb161b9c46556c676385ad2244&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/02/28/clima-en-espana-el-estado-del-tiempo-para-barcelona-este-28-de-febrero/",
+        "date": "2025-02-28 02:01:10",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Acerinox ganó 225 millones de euros en 2024, un 1 % menos que el año anterior",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/acerinox-gano-225-millones-de-euros-en-2024-un-1-menos-que-el-ano-anterior/",
+        "date": "2025-02-28 00:46:24",
+        "sentiment_score": 0.3258447200059891
+    },
+    {
+        "title": "Cristina Bucsa se queda a las puertas de los cuartos de final que logra Kessler",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/cristina-bucsa-se-queda-a-las-puertas-de-los-cuartos-de-final-que-logra-kessler/",
+        "date": "2025-02-28 00:46:08",
+        "sentiment_score": 0.2980174124240875
+    },
+    {
+        "title": "Ferrovial gana 3.239 millones de euros en los últimos 12 meses, un 604 % más",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/27/ferrovial-gana-3239-millones-de-euros-en-los-ultimos-12-meses-un-604-mas/",
+        "date": "2025-02-27 23:46:37",
+        "sentiment_score": 0.3886944577097893
+    },
+    {
+        "title": "Un defecto en el transporte de grasas genera el Trastorno de Deficiencia TANGO2",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/27/un-defecto-en-el-transporte-de-grasas-genera-el-trastorno-de-deficiencia-tango2/",
+        "date": "2025-02-27 23:32:05",
+        "sentiment_score": -0.7055863682180643
+    },
+    {
+        "title": "Beneficios del mexicano Grupo Bimbo caen 11,6% a 184 millones de dólares en tercer periodo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/27/beneficios-del-mexicano-grupo-bimbo-caen-116-a-184-millones-de-dolares-en-tercer-periodo/",
+        "date": "2025-02-27 23:17:31",
+        "sentiment_score": 0.45960593596100807
+    },
+    {
+        "title": "La colombiana Arango vence a la britanica Jones y accede a los cuartos de final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/27/la-colombiana-arango-vence-a-la-britanica-jones-y-accede-a-los-cuartos-de-final/",
+        "date": "2025-02-27 23:17:13",
+        "sentiment_score": 0.3255946412682533
+    },
+    {
+        "title": "Hoy será noticia. Viernes, 28 de febrero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/27/hoy-sera-noticia-viernes-28-de-febrero/",
+        "date": "2025-02-27 23:16:34",
+        "sentiment_score": 0.04167510196566582
+    },
+    {
+        "title": "No habrá aranceles generalizados el 4 de marzo, opina especialista",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2182348964.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aranceles-trump-amenaza-analisis-perspectivas-mexico-tv/",
+        "date": "2025-02-28 01:35:15",
+        "sentiment_score": -0.15605591237545013
+    },
+    {
+        "title": "Trump suspende ley \"antisobornos\": ¿Crecerá la corrupción en América Latina?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1668657089.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/ley-antisobornos-eeuu-corrupcion-america-latina-oppenheimer-presenta-tv/",
+        "date": "2025-02-27 23:56:28",
+        "sentiment_score": -0.8149309661239386
+    },
+    {
+        "title": "Análisis: ¿Qué significa el anuncio de las extradiciones de criminales mexicanos a EE.UU.?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2201678474.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/analisis-extradiciones-mexico-rafael-quintero-perspectivas-tv-fast/",
+        "date": "2025-02-27 23:54:37",
+        "sentiment_score": -0.5351559743285179
+    },
+    {
+        "title": "Un 25% de los adultos estadounidenses tienen dolor en las rodillas, así podría prevenirlo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/prevenir-dolor-de-rodillas-minuto-de-salud-fast/",
+        "date": "2025-02-27 22:48:49",
+        "sentiment_score": -0.366876482963562
+    },
+    {
+        "title": "Los líderes europeos emplean la adulación para influir en la política de Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/02/27/starmer-donald-kNgG-U70349703225IeE-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/lideres-europeos-emplean-adulacion-influir-politica-trump-20250227231933-nt.html",
+        "date": "2025-02-27 22:19:57",
+        "sentiment_score": 0.016749292612075806
+    },
+    {
+        "title": "De jugadores a propietarios: 7 futbolistas que son dueños de clubes",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-02/27/23/campaign_images/335038840dae/de-jugadores-a-propietarios-7-futbolistas-que-son-2-5148-1740699343-0_dblbig.jpg",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/jugadores-que-son-duenos-de-clubes-de-futbol",
+        "date": "2025-02-28 02:01:03",
+        "sentiment_score": -0.22012675553560257
+    },
+    {
+        "title": "Los frentes de Carlos Ocaña en Telefónica: Por qué se ha aupado al amigo de Sánchez",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/ocana-1740674116844_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/frentes-carlos-ocana-telefonica-oor-que-se-aupa-amigo-sanchez",
+        "date": "2025-02-28 02:00:00",
+        "sentiment_score": -0.01367788016796112
+    },
+    {
+        "title": "Copa del Rey: Estos son los horarios de transmisión en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740704407952.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/copa-del-rey-estos-son-los-horarios-de-transmision-en-venezuela-202522720590",
+        "date": "2025-02-28 00:59:00",
+        "sentiment_score": 0.7003347594290972
+    },
+    {
+        "title": "La intimidad del primer día del Diablito Echeverri como jugador del Manchester City: saludo en inglés y autógrafo especial",
+        "image_url": "https://www.infobae.com/resizer/v2/WANJDPMBVNAMHBWO5SIV75IA3U.jpg?auth=a5a333c6fb1193a408be4c43612222942b81c52c340329a32912a5cf20c0c39f&height=2048&smart=true&width=2048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/02/28/la-intimidad-del-primer-dia-del-diablito-echeverri-como-jugador-del-manchester-city-saludo-en-ingles-y-autografo-especial/",
+        "date": "2025-02-28 00:48:24",
+        "sentiment_score": 0.32648687064647675
+    },
+    {
+        "title": "27 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/27-feb-2025-partidazo-cope-20250228_3104261.html",
+        "date": "2025-02-28 00:38:43",
+        "sentiment_score": 0.08920575678348541
+    },
+    {
+        "title": "La denuncia de un socio del Valencia al que el club le ha sancionado un año por insultos a la presidencia que asegura que no realizó",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2025/02/28/67c0fd37aa9ff.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/denuncia-socio-valencia-club-le-sancionado-ano-insultos-presidencia-asegura-realizo-20250228_3104257.html",
+        "date": "2025-02-28 00:04:43",
+        "sentiment_score": -0.3376259058713913
+    },
+    {
+        "title": "Azkona y Nahikari, las responsables del gol en el Athletic: «Es una oportunidad de oro para la Champions»",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/02/27/azkona-nahikari-kCDC-U230996085619I2B-366x256@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/deporte-femenino/futbol/athletic-femenino/azkona-nahikari-responsables-gol-athletic-oportunidad-oro-20250227004450-nt.html",
+        "date": "2025-02-27 23:44:51",
+        "sentiment_score": 0.680063359439373
+    },
+    {
+        "title": "Enrique Cerezo, en El Partidazo de COPE: \"El problema de los árbitros es el VAR, una herramienta que no va bien\"",
+        "image_url": "https://imagenes.cope.es/files/image_425_238/uploads/2024/07/09/668c7b923be3c.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/entrevista-enrique-cerezo-partidazo-cope-27-20250228_3104249.html",
+        "date": "2025-02-27 23:32:33",
+        "sentiment_score": 0.2020033746957779
+    },
+    {
+        "title": "Campazzo: \"En el momento en el que estamos es un buen paso porque es un rival directo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/27/campazzo-en-el-momento-en-el-que-estamos-es-un-buen-paso-porque-es-un-rival-directo/",
+        "date": "2025-02-27 23:31:29",
+        "sentiment_score": 0.8022754769772291
+    },
+    {
+        "title": "Chus Mateo: \"Hemos ganado los cuatro 'Clásicos' este año, pero no quiere decir nada\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/27/chus-mateo-hemos-ganado-los-cuatro-clasicos-este-ano-pero-no-quiere-decir-nada/",
+        "date": "2025-02-27 23:30:56",
+        "sentiment_score": -0.001418083906173706
+    },
+    {
+        "title": "Bogotá propuso un nuevo modelo de impuestos para distribuir las ganancias del turismo: este sería el cambio en la economía",
+        "image_url": "https://www.infobae.com/resizer/v2/ES4FRKY4HNEWLCGZH6UM3D2NS4.jpg?auth=0b0fdc090cf42d1d6609b8b2160fea27df763e751610271076ad3e279eb236a5&height=600&smart=true&width=1170",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/02/28/bogota-propuso-un-nuevo-modelo-de-impuestos-para-distribuir-las-ganancias-del-turismo-este-seria-el-cambio-en-la-economia/",
+        "date": "2025-02-28 01:10:34",
+        "sentiment_score": 0.6495746038854122
+    },
+    {
+        "title": "UCV cerca de lograr una gesta ante Corinthians",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/02/ucv.jpg",
+        "tags": [
+            "ucv",
+            "fútbol",
+            "deportes",
+            "copa libertadores"
+        ],
+        "link": "https://elsiglo.com.ve/ucv-cerca-de-lograr-una-gesta-ante-corinthians/",
+        "date": "2025-02-28 00:47:11",
+        "sentiment_score": 0.008051663637161255
+    },
+    {
+        "title": "3 parte | 27 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3-parte-27-feb-2025-partidazo-cope-20250228_3104260.html",
+        "date": "2025-02-28 00:38:15",
+        "sentiment_score": 0.1854976862668991
+    },
+    {
+        "title": "Yerai Martín: «Cada vez se ve menos imposible ganar al Barcelona»",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2025/02/27/102741454--758x531.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/sdeibar/yerai-martin-vez-imposible-ganar-barcelona-20250228064922-nt.html",
+        "date": "2025-02-28 00:00:00",
+        "sentiment_score": -0.7953221462666988
+    },
+    {
+        "title": "Valverde-Simeone, un clásico de la Liga que llega a 25 enfrentamientos",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/02/27/txingurri-cholo-kRjF-U230996057110vGI-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/valverdesimeone-clasico-liga-llega-enfrentamientos-20250227005958-nt.html",
+        "date": "2025-02-27 23:59:59",
+        "sentiment_score": 0.26376329362392426
+    },
+    {
+        "title": "Brote de sarampión en Estados Unidos registra su primera víctima mortal: un niño de 4 años sin vacuna",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740707981300.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/brote-de-sarampion-en-estados-unidos-registra-su-primera-victima-mortal-un-nino-de-4-anos-sin-vacuna-202522721590",
+        "date": "2025-02-28 01:59:00",
+        "sentiment_score": 0.23966455087065697
+    },
+    {
+        "title": "Argentina modificará resolución de personas con discapacidad: Ya no los llamarán imbéciles, idiotas o débiles mentales",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740704109753.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/argentina-modificara-resolucion-de-personas-con-discapacidad-ya-no-los-llamaran-imbeciles-idiotas-o-debiles-mentales-202522721450",
+        "date": "2025-02-28 01:45:00",
+        "sentiment_score": -0.6682567410171032
+    },
+    {
+        "title": "Real ID: Extienden los horarios en los DMV de Illinois para hacer trámites",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740708381305.webp?ch=212&cw=377&extw=webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/real-id-extienden-los-horarios-en-los-dmv-de-illinois-para-hacer-tramites-202522721390",
+        "date": "2025-02-28 01:39:00",
+        "sentiment_score": -0.030220583081245422
+    },
+    {
+        "title": "Inmigrantes venezolanos revelan los maltratos que sufrieron en centro de detención en Texas: algunos muestran heridas de gravedad",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740706644492.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/inmigrantes-venezolanos-revelan-los-maltratos-que-sufrieron-en-centro-de-detencion-en-texas-algunos-muestran-heridas-de-gravedad-20252272190",
+        "date": "2025-02-28 01:09:00",
+        "sentiment_score": -0.43328557908535004
+    },
+    {
+        "title": "Redadas ICE del 27 de febrero: condenan a inmigrante a más de 20 meses de prisión por reingreso ilegal",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740704734243.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/redadas-ice-del-27-de-febrero-condenan-a-inmigrante-a-ma-s-de-20-meses-de-prisio-n-por-reingreso-ilegal-20252272130",
+        "date": "2025-02-28 01:03:00",
+        "sentiment_score": -0.5710958000272512
+    },
+    {
+        "title": "Banco Digital de los Trabajadores: Los tres requisitos a consignar para la actualización de datos",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740669873206.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banco-digital-de-los-trabajadores-los-tres-requisitos-a-consignar-para-la-actualizacion-de-datos-20252272100",
+        "date": "2025-02-28 01:00:00",
+        "sentiment_score": -0.28921929001808167
+    },
+    {
+        "title": "Elba Escobar a los migrantes venezolanos: Necesitamos más valor que dolor",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740692137717.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/elba-escobar-a-los-migrantes-venezolanos-necesitamos-mas-valor-que-dolor-20252272100",
+        "date": "2025-02-28 01:00:00",
+        "sentiment_score": 0.587669774889946
+    },
+    {
+        "title": "Mira aquí la jornada 6 del FUTVE en vivo (+detalles)",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740703734276.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/mira-aqui-la-jornada-6-del-futve-en-vivo-detalles--202522720470",
+        "date": "2025-02-28 00:47:00",
+        "sentiment_score": 0.6514755301177502
+    },
+    {
+        "title": "Estos son los 29 capos del narcotráfico que México entregó a Estados Unidos: incluido el líder de los \"Zetas\"",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740705670478.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/estos-son-los-29-capos-del-narcotrafico-que-mexico-entrego-a-estados-unidos-incluido-el-lider-de-los-zetas--202522720370",
+        "date": "2025-02-28 00:37:00",
+        "sentiment_score": -0.811509296298027
     }
 ];
