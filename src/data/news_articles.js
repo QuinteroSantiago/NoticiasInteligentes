@@ -140,51 +140,6 @@ export default [
         "sentiment_score": 0.11326239258050919
     },
     {
-        "title": "Avión con 242 migrantes venezolanos llega a Caracas desde México",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21409154-51911-036-still-20250225140721806.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/avion-venezolanos-desde-mexico-cafe-tv/",
-        "date": "2025-02-25 14:08:33",
-        "sentiment_score": 0.15434446930885315
-    },
-    {
-        "title": "EE.UU. podría tener acceso a minerales raros tanto en Ucrania como en Rusia",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/trump-zelensky-putin_8ad474.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/eeuu-acceso-minerales-raros-ucrania-rusia-cafe-tv/",
-        "date": "2025-02-25 13:56:53",
-        "sentiment_score": 0.05360668897628784
-    },
-    {
-        "title": "Trump prohíbe a los científicos federales trabajar en un informe climático global crucial",
-        "image_url": "https://cdn.mnmstatic.net/cache/3d/85/media_thumb-link-4031863.webp?1740473467=",
-        "tags": [
-            "trump",
-            "científicos",
-            "actualidad",
-            "cambio climático",
-            "ipcc gobierno federal",
-            "usa"
-        ],
-        "link": "https://www.meneame.net/story/trump-prohibe-cientificos-federales-trabajar-informe-climatico",
-        "date": "2025-02-25 12:00:06",
-        "sentiment_score": -0.07851454615592957
-    },
-    {
-        "title": "Dramático video muestra el derrumbe de un puente en Corea del Sur",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/skorea-bridge-collapse-thumb-1-20250225102032358.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/corea-del-sur-puente-derrumbe-cafe-trax/",
-        "date": "2025-02-25 10:20:48",
-        "sentiment_score": -0.8674894254654646
-    },
-    {
         "title": "La Fundación Mutua Madrileña y el Colegio de Psicología ofrecen ayuda gratuita a los afectados de la dana",
         "image_url": "https://imagenes.elpais.com/resizer/v2/ZM6427ZRVBGEBGRX4GOK3JUDMU.jpg?auth=99e91bcf149ec6c4714b027911ca90598904e5abfe3049983d7e4e08b28578b3&width=1200",
         "tags": [
@@ -8402,5 +8357,390 @@ export default [
         "link": "https://2001online.com/comunidad/carnaval-2025-cual-es-el-presupuesto-para-armar-un-kit-playero-o-para-ir-a-acampar--202522816370",
         "date": "2025-02-28 20:37:00",
         "sentiment_score": 0.1271045319736004
+    },
+    {
+        "title": "Conoce el clima de este día en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/FL3THRTV2ZEZVGFI5T3UPRV6SU.jpg?auth=2c9828bc4b3339eefc36f634d3a07a4c8315a0e6395acb8b23248c97bbd70ec2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/03/01/conoce-el-clima-de-este-dia-en-barcelona/",
+        "date": "2025-03-01 02:02:07",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Yolanda Díaz pide crear una \"internacional de la esperanza\" para frenar el odio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/01/yolanda-diaz-pide-crear-una-internacional-de-la-esperanza-para-frenar-el-odio/",
+        "date": "2025-03-01 01:31:53",
+        "sentiment_score": -0.2469295710325241
+    },
+    {
+        "title": "42-35: Granollers tampoco puede con el fortín de Huerta del Rey",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/42-35-granollers-tampoco-puede-con-el-fortin-de-huerta-del-rey/",
+        "date": "2025-02-28 23:17:12",
+        "sentiment_score": -0.8092126222327352
+    },
+    {
+        "title": "Hoy será noticia. Sábado, 1 de marzo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/hoy-sera-noticia-sabado-1-de-marzo/",
+        "date": "2025-02-28 23:16:52",
+        "sentiment_score": 0.033008381724357605
+    },
+    {
+        "title": "Sumar tilda de \"intento de humillación\" a Zelenski la reunión en la Casa Blanca con Trump y pide una \"reacción\" a Europa",
+        "image_url": "https://www.infobae.com/resizer/v2/2GPJKDT7WFGDPNR4HJZ4MXGMPI.jpg?auth=cdf6213edb511044a7ddfc451a385156893e21f253420353d5b568d19b8fc62d&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/sumar-tilda-de-intento-de-humillacion-a-zelenski-la-reunion-en-la-casa-blanca-con-trump-y-pide-una-reaccion-a-europa/",
+        "date": "2025-02-28 23:15:33",
+        "sentiment_score": -0.8542021177709103
+    },
+    {
+        "title": "Diego Martínez asegura que el punto puede ser determinante",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/diego-martinez-asegura-que-el-punto-puede-ser-determinante/",
+        "date": "2025-02-28 23:03:38",
+        "sentiment_score": 0.44953469932079315
+    },
+    {
+        "title": "Álvaro Rubio: \"Nos falta estar más acertados, pero la actitud es la que queremos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/alvaro-rubio-nos-falta-estar-mas-acertados-pero-la-actitud-es-la-que-queremos/",
+        "date": "2025-02-28 23:03:22",
+        "sentiment_score": 0.23634397983551025
+    },
+    {
+        "title": "Sumar rechaza el \"reparto imperialista\" de Ucrania que pretenden Trump y Putin",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/sumar-rechaza-el-reparto-imperialista-de-ucrania-que-pretenden-trump-y-putin/",
+        "date": "2025-02-28 23:03:01",
+        "sentiment_score": -0.8577326890081167
+    },
+    {
+        "title": "1-1. Punto insuficiente para el Valladolid y Las Palmas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/1-1-punto-insuficiente-para-el-valladolid-y-las-palmas/",
+        "date": "2025-02-28 22:32:44",
+        "sentiment_score": -0.796846330165863
+    },
+    {
+        "title": "Javier Mascherano dice que sería \"ridículo\" pensar que no se siente la ausencia de Messi",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/28/javier-mascherano-dice-que-seria-ridiculo-pensar-que-no-se-siente-la-ausencia-de-messi/",
+        "date": "2025-02-28 22:19:20",
+        "sentiment_score": -0.8739907443523407
+    },
+    {
+        "title": "Llegar al diagnóstico de una enfermedad rara puede tomar años, pero así puede ayudar la IA",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-1755569288.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/avances-ia-enfermedades-raras-minuto-de-salud-fast/",
+        "date": "2025-03-01 01:39:39",
+        "sentiment_score": 0.5941354259848595
+    },
+    {
+        "title": "Cientos de miles de personas protestan en el segundo aniversario de un accidente de tren en Grecia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2202503049.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/miles-protestan-accidente-tren-grecia-trax/",
+        "date": "2025-03-01 01:10:19",
+        "sentiment_score": -0.8715529311448336
+    },
+    {
+        "title": "La razón por la cual México entregó a 29 prisioneros a Estados Unidos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/still-21421741-277103-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/razon-mexico-traslado-29-prisioners-eeuu-perspectivas-mexico-tv-fast/",
+        "date": "2025-03-01 00:47:44",
+        "sentiment_score": -0.6199395656585693
+    },
+    {
+        "title": "Zelenski no se disculpa ante Trump y asegura: «Nadie quiere la paz más que nosotros»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/fox-kWIB-U7035682506210-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/zelenski-disculpa-ante-trump-asegura-quiere-paz-20250301015951-nt.html",
+        "date": "2025-03-01 00:59:51",
+        "sentiment_score": 0.013066232204437256
+    },
+    {
+        "title": "Macron: «Hay un agresor, ruso; y un agredido, ucraniano»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/28/trump_20250228235916-RGrVeFxZkqAzY3sZn0qzlNP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/macron-agresor-ruso-agredido-ucraniano-20250228000229-nt.html",
+        "date": "2025-02-28 23:04:22",
+        "sentiment_score": -0.08803513646125793
+    },
+    {
+        "title": "Rotaciones de Hansi Flick ante la Real Sociedad: ¿prudencia o un riesgo innecesario?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/01/2025030102372476755.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/rotaciones-hansi-flick-real-sociedad-prudencia-riesgo-innecesario/20250301025951335710.html",
+        "date": "2025-03-01 01:59:51",
+        "sentiment_score": -0.8196395635604858
+    },
+    {
+        "title": "Claudia Bavel confirma mensajes con Vinicius y revela más detalles sobre Joaquín",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/01/2025030102190114879.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/claudia-bavel-confirma-mensajes-vinicius-revela-mas-detalles-joaquin/20250301022219335708.html",
+        "date": "2025-03-01 01:22:19",
+        "sentiment_score": -0.08264654129743576
+    },
+    {
+        "title": "Atraco a Nicolás Fonseca inspiró memes que tuvieron a James Rodríguez y Sergio Ramos como protagonistas",
+        "image_url": "https://www.infobae.com/resizer/v2/7LL3FWOP7BB7ZFTEC6SLZOYFJM.png?auth=1e1e40a76eae0e7afb3817dafa8ce2c613482dd1f1c5eb5417b53a91a55d4b86&height=1600&smart=true&width=2300",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/03/01/atraco-a-nicolas-fonseca-inspiro-memes-que-tuvieron-a-james-rodriguez-y-sergio-ramos-como-protagonistas/",
+        "date": "2025-03-01 01:06:38",
+        "sentiment_score": -0.7913688719272614
+    },
+    {
+        "title": "La UEFA multa al Real Madrid por comportamiento discriminatorio de hinchas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "liga de campeones",
+            "deportes",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://www.elnacional.com/deportes/la-uefa-multa-al-real-madrid-por-comportamiento-discriminatorio-de-hinchas/",
+        "date": "2025-03-01 00:36:21",
+        "sentiment_score": -0.8741135410964489
+    },
+    {
+        "title": "#OasisDeLibertad (28-02-2025)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "oasisdelibertad"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/oasisdelibertad/audios/oasisdelibertad-28-20250301_3105089.html",
+        "date": "2025-03-01 00:24:34",
+        "sentiment_score": -0.04780278354883194
+    },
+    {
+        "title": "3 parte | 28 FEB 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3-parte-28-feb-2025-partidazo-cope-20250301_3105088.html",
+        "date": "2025-03-01 00:21:45",
+        "sentiment_score": -0.03747573494911194
+    },
+    {
+        "title": "Marco Asensio brilla en la FA Cup y vuelve a llamar a la puerta de la Selección",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/01/2025030101033119930.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/marco-asensio-brilla-fa-cup-vuelve-llamar-puerta-seleccion/20250301010414335695.html",
+        "date": "2025-03-01 00:04:14",
+        "sentiment_score": 0.7617737613618374
+    },
+    {
+        "title": "Así juega el Atlético, próximo rival del Athletic: los fichajes le hacen volar",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/02/28/atleticooo-k5vF-U2301004720429WcC-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/juega-atletico-proximo-rival-athletic-fichajes-volar-20250228010116-nt.html",
+        "date": "2025-03-01 00:01:17",
+        "sentiment_score": 0.626649048179388
+    },
+    {
+        "title": "Un partido para soñar en grande",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/03/01/dep-athletic-un-partido-sonar-kxvG-U2301006981754lH-1200x590@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/partido-sonar-grande-20250301010059-nt.html",
+        "date": "2025-03-01 00:01:00",
+        "sentiment_score": 0.1313752382993698
+    },
+    {
+        "title": "Metro sortea las lamas de las estaciones de Santiago Bernabéu y Estadio Metropolitano con motivo del derbi madrileño de Champions",
+        "image_url": "https://phantom-elmundo.uecdn.es/4dbda4c839a40e9aad7b6b14f9ca82c4/crop/72x48/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/26/17405886461988.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/03/01/67bf478921efa01a338b4591.html",
+        "date": "2025-02-28 23:46:58",
+        "sentiment_score": -0.02357333153486252
+    },
+    {
+        "title": "Matías Tolsá y el libro 50 caras de la literatura",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/01/2025030101015041610.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.mundiario.com/articulo/cultura/matias-tolsa-libro-50-caras-literatura/20250301010914335603.html",
+        "date": "2025-03-01 00:09:14",
+        "sentiment_score": 0.09558556228876114
+    },
+    {
+        "title": "Las tiendas vuelven a la calle y recuperan el pulso frente al e-commerce: moda, restauración y belleza disparan un 50% las aperturas en zonas 'prime'",
+        "image_url": "https://phantom-elmundo.uecdn.es/1d950a01f3116016e4f10771b904cefe/crop/3x0/1427x949/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/28/17407697666096.jpg",
+        "tags": [
+            "artículos maría hernández",
+            "economía",
+            "inmobiliario"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2025/03/01/67c19686e4d4d8414e8b4570.html",
+        "date": "2025-02-28 23:29:43",
+        "sentiment_score": 0.12008951604366302
+    },
+    {
+        "title": "Visera en el campo de fútbol de Tinajo durante la campaña 2025-2026",
+        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2025/02/28/campo%20futbol%20Tinajo-kkHE-U2301003324611n1-1200x840@Canarias7.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.canarias7.es/canarias/lanzarote/visera-campo-futbol-tinajo-campana-20252026-20250301230752-nt.html",
+        "date": "2025-02-28 23:07:53",
+        "sentiment_score": 0.0876750685274601
+    },
+    {
+        "title": "PoliSucre impone estas nuevas restricciones a los motorizados que circulan por el municipio: activan dispositivo",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740794790131.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/polisucre-impone-estas-nuevas-restricciones-a-los-motorizados-que-circulan-por-el-municipio-activan-dispositivo-20252282260",
+        "date": "2025-03-01 02:06:00",
+        "sentiment_score": 0.0035399869084358215
+    },
+    {
+        "title": "Filtran llamada al 911 del trabajador que descubrió los cuerpos sin vida de Gene Hackman y su esposa: Suplicaba por ayuda",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740794218914.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/filtran-llamada-al-911-del-trabajador-que-descubrio-los-cuerpos-sin-vida-de-gene-hackman-y-su-esposa-suplicaba-por-ayuda-202522821590",
+        "date": "2025-03-01 01:59:00",
+        "sentiment_score": -0.15715890377759933
+    },
+    {
+        "title": "La ganancia económica que deja Shakira en Colombia tras gira de conciertos: son millones de dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740796667777.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/la-ganancia-economica-que-deja-shakira-en-colombia-tras-gira-de-conciertos-son-millones-de-dolares-202522822460",
+        "date": "2025-03-01 01:49:53",
+        "sentiment_score": 0.05000356584787369
+    },
+    {
+        "title": "Numismática USA: la moneda de 10 centavos que vale más de $500.000",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740792796668.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/numismatica-usa-la-moneda-de-10-centavos-que-vale-mas-de-500-000-202522821320",
+        "date": "2025-03-01 01:32:00",
+        "sentiment_score": 0.027210429310798645
+    },
+    {
+        "title": "Redadas ICE del 28 de febrero: algunos de los inmigrantes arrestados tienen historiales de delitos",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740792590103.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/redadas-ice-del-28-de-febrero-algunos-de-los-inmigrantes-arrestados-tienen-historiales-de-delitos-202522821270",
+        "date": "2025-03-01 01:27:00",
+        "sentiment_score": -0.4515540413558483
+    },
+    {
+        "title": "Diógenes Lara se juramenta como alcalde del mirandino municipio Sucre: Rangel Ávalos renuncia",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740798385631.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/diogenes-lara-se-juramenta-como-alcalde-del-mirandino-municipio-sucre-rangel-avalos-renuncia-202522821210",
+        "date": "2025-03-01 01:21:00",
+        "sentiment_score": 0.05870577320456505
+    },
+    {
+        "title": "Estos son los aeropuertos donde podrá tramitar el permiso de viaje para niños y adolescentes en Carnaval",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740781746369.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/estos-son-los-aeropuertos-donde-podra-tramitar-el-permiso-de-viaje-para-ninos-y-adolescentes-en-carnaval-20252282200",
+        "date": "2025-03-01 01:06:58",
+        "sentiment_score": 0.06880814954638481
+    },
+    {
+        "title": "Trump tras discusión con Zelensky: Estados Unidos puede dejar sola a Ucrania ante Rusia",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740793803670.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-tras-discusion-con-zelensky-estados-unidos-puede-dejar-sola-a-ucrania-ante-rusia-20252282240",
+        "date": "2025-03-01 01:06:58",
+        "sentiment_score": -0.8470570622012019
+    },
+    {
+        "title": "Megabono por más de 10 mil bolívares aumentó casi 90% en febrero: conozca quiénes lo cobran",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740781275158.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/megabono-por-mas-de-10-mil-bolivares-aumento-casi-90-en-febrero-conozca-quienes-lo-cobran-20252282140",
+        "date": "2025-03-01 01:04:00",
+        "sentiment_score": -0.0463743582367897
+    },
+    {
+        "title": "Marzo 2025: Conozca los feriados y efemérides que se celebran en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740763886562.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/marzo-2025-conozca-los-feriados-y-efemerides-que-se-celebran-en-venezuela-20252282100",
+        "date": "2025-03-01 01:00:00",
+        "sentiment_score": 0.2857334204018116
     }
 ];
