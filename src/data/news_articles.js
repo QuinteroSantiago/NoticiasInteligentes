@@ -120,36 +120,6 @@ export default [
         "sentiment_score": -0.28657659888267517
     },
     {
-        "title": "Maduro reacciona a anuncio de Trump sobre Venezuela: “A los fascistas les llegará la justicia”",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2193333568-20250116181810828.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-reacciona-sanciones-trump-orix/",
-        "date": "2025-02-27 13:39:18",
-        "sentiment_score": -0.7678055986762047
-    },
-    {
-        "title": "¿Podría influir Trump en el acuerdo de alto el fuego entre Israel y Hamas?",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/gettyimages-2177339477.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/trump-acuerdo-alto-el-fuego-israel-hamas-cafe-tv-fast/",
-        "date": "2025-02-27 13:34:26",
-        "sentiment_score": -0.20671457052230835
-    },
-    {
-        "title": "Influencers de viajes cuentan a CNN lo que vieron dentro de Corea del Norte",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/02/20250225-travel-influencers-20250227112413075.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/corea-del-norte-turismo-viajes-influencers-trax/",
-        "date": "2025-02-27 11:28:17",
-        "sentiment_score": -0.0364338755607605
-    },
-    {
         "title": "Reunión de Donald Trump y Keir Starmer en la Casa Blanca, en directo: búsqueda de un posible acuerdo de paz en Ucrania y última hora hoy",
         "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/02/20/MOTO%20UC-3-kl4D--170x119@Diario%20Montanes.jpg",
         "tags": [
@@ -198,56 +168,6 @@ export default [
         "link": "https://www.abc.es/internacional/lider-kurdo-ocalan-anuncia-disolucion-pkk-tras-20250227151725-nt.html",
         "date": "2025-02-27 14:17:26",
         "sentiment_score": -0.5050864443182945
-    },
-    {
-        "title": "Los siete mensajes políticos de Trump en el vídeo de su 'Riviera de Gaza'",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/27/abc-kSGG-U70344231597BnG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/siete-mensajes-politicos-trump-video-riviera-gaza-20250227122731-nt.html",
-        "date": "2025-02-27 12:50:51",
-        "sentiment_score": -0.243462935090065
-    },
-    {
-        "title": "China «no promete renunciar al uso de la fuerza» y realiza otra maniobra con 45 aviones cerca de Taiwán",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/27/avionestaiwanass-kMUF-U70345628210FMH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/china-promete-renunciar-uso-fuerza-realiza-maniobra-20250227125637-nt.html",
-        "date": "2025-02-27 11:57:37",
-        "sentiment_score": -0.11575451493263245
-    },
-    {
-        "title": "Francia, primer país de la UE que se interesa por las tierras raras de Ucrania para fines militares al margen de Bruselas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/27/macron-zelenski-kr7G-U70345326578YIG-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/francia-primer-pais-ue-interesa-tierras-raras-20250227123430-nt.html",
-        "date": "2025-02-27 11:34:30",
-        "sentiment_score": -0.0623725950717926
-    },
-    {
-        "title": "EE.UU. expulsará a todo el personal transgénero del Ejército en un plazo de 30 días",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/27/hegseth-kaTC-U70344990510rOB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-expulsara-personal-transgenero-ejercito-plazo-dias-20250227115736-nt.html",
-        "date": "2025-02-27 11:00:31",
-        "sentiment_score": -0.11120744049549103
-    },
-    {
-        "title": "La Fiscalía de Rumanía imputa al candidato prorruso a presidente tras confiscarle gran cantidad de armas y dinero",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/27/CalinGeorgescu-kHVD-U70344230458uOH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/fiscalia-rumania-imputa-candidato-prorruso-presidente-tras-20250227113552-nt.html",
-        "date": "2025-02-27 10:35:53",
-        "sentiment_score": -0.2076776921749115
     },
     {
         "title": "El Govern y los comunes acuerdan doblar el impuesto para la compra de edificios enteros",
@@ -337,102 +257,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-02-27/la-jueza-de-la-dana-pregunta-a-la-generalitat-si-en-comite-que-envio-la-alerta-hubo-algun-receso.html",
         "date": "2025-02-27 15:13:26",
         "sentiment_score": 0.15547801554203033
-    },
-    {
-        "title": "El Defensor del Pueblo pide información al Ayuntamiento de Madrid por el ruido que sufren los colegios de Chamberí",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SKBUMSBN7RCMHOCZQR6RTLGXIE.png?auth=55d250119eaa045a5ac6f33572a7f13865d2ed81d08f8eee4ce9413ec61b5d60&width=1200",
-        "tags": [
-            "colegios",
-            "educación primaria",
-            "hospitales",
-            "ayuntamiento madrid",
-            "tráfico",
-            "contaminación acústica",
-            "comunidad de madrid",
-            "madrid",
-            "ángel gabilondo",
-            "ordenanzas municipales",
-            "derechos niño",
-            "educación infantil",
-            "chamberí",
-            "defensor pueblo"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-02-27/el-defensor-del-pueblo-pide-informacion-al-ayuntamiento-de-madrid-por-el-ruido-que-sufren-los-colegios-de-chamberi.html",
-        "date": "2025-02-27 13:28:38",
-        "sentiment_score": -0.8802605737000704
-    },
-    {
-        "title": "La estación de Sant Vicenç de Calders, fuera de servicio este fin de semana por obras",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MYYCN7SOL5DZ5PDQLNKGTX4VJM.jpg?auth=311fb7f7a17165cff9974da4a320b759caa4c89fa6ff96b5c444f09d36b557ad&width=1200",
-        "tags": [
-            "cercanías",
-            "transporte ferroviario",
-            "generalitat cataluña",
-            "renfe",
-            "adif",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-02-27/la-estacion-de-sant-vicenc-de-calders-fuera-de-servicio-este-fin-de-semana-por-obras.html",
-        "date": "2025-02-27 13:25:36",
-        "sentiment_score": 0.35860519856214523
-    },
-    {
-        "title": "Más de 200 entidades convocan la quinta manifestación para pedir la dimisión de Mazón por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AUVSGI6SNNEJFEFZYJMAXSGU7U.jpeg?auth=4ae29353f14555255688bb65f4f23dec8d629db7642ab316208702d4e9697818&width=1200",
-        "tags": [
-            "inundaciones dana octubre 2024",
-            "valencia",
-            "dimisiones políticas",
-            "carlos mazón",
-            "comunidad valenciana",
-            "dana",
-            "manifestaciones"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-02-27/mas-de-200-entidades-convocan-la-quinta-manifestacion-para-pedir-la-dimision-de-mazon-por-la-dana.html",
-        "date": "2025-02-27 13:24:35",
-        "sentiment_score": -0.37125005945563316
-    },
-    {
-        "title": "Sánchez contesta a Trump: “Vamos a plantar cara a quienes nos ataquen con aranceles y amenazas veladas a nuestra soberanía”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FP3YQZ3IAGHEKDTLWINU3BZPNE.jpg?auth=567dbe7de06a393f6379024ffac1f01e4b113bc7feacb0c1eb61bb06b414ba91&width=1200",
-        "tags": [
-            "unión europea",
-            "pedro sánchez",
-            "aranceles",
-            "gobierno",
-            "guerra comercial",
-            "vox",
-            "donald trump",
-            "españa",
-            "comisión europea"
-        ],
-        "link": "https://elpais.com/espana/2025-02-27/sanchez-contesta-a-trump-vamos-a-plantar-cara-a-quienes-nos-ataquen-con-aranceles-y-amenazas-veladas-a-nuestra-soberania.html",
-        "date": "2025-02-27 13:18:32",
-        "sentiment_score": -0.16483183205127716
-    },
-    {
-        "title": "La defensa de Medina acusa al Ayuntamiento de Madrid de querer dar un “pelotazo” al tratar de “confiscarle” su comisión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DXHEROCPCWS2BMLK22BRNKWQ24.jpg?auth=c78d940b6501140379f08f0c54a92417043eb0ed6b677226251aad4bd77a6901&width=1200",
-        "tags": [
-            "empresarios",
-            "pandemia",
-            "luis medina abascal",
-            "justicia",
-            "ap madrid",
-            "juicios",
-            "delitos",
-            "coronavirus covid-19",
-            "psoe",
-            "corrupción",
-            "españa",
-            "caso medina y luceño",
-            "alberto luceño",
-            "malasia",
-            "más madrid"
-        ],
-        "link": "https://elpais.com/espana/2025-02-27/la-defensa-de-medina-acusa-al-ayuntamiento-de-madrid-de-querer-dar-un-pelotazo-al-tratar-de-confiscarle-su-comision.html",
-        "date": "2025-02-27 13:09:21",
-        "sentiment_score": -0.8041483517736197
     },
     {
         "title": "Teresa Abelleira se rompe el ligamento cruzado y dice adiós a la temporada y a la Eurocopa",
@@ -7787,5 +7611,465 @@ export default [
         "link": "https://2001online.com/usa/servicios/aprende-a-activar-zelle-en-tu-celular-este-es-el-procedimiento-completo-con-bank-of-america-y-wells-fargo-20253216160",
         "date": "2025-03-02 20:16:00",
         "sentiment_score": 0.0067293718457221985
+    },
+    {
+        "title": "Olimpia empata con Génesis en Honduras y escolta al líder Real España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/03/olimpia-empata-con-genesis-en-honduras-y-escolta-al-lider-real-espana/",
+        "date": "2025-03-03 01:45:33",
+        "sentiment_score": 0.5989013388752937
+    },
+    {
+        "title": "Un accidente en la N-225 en La Vall d'Uixò deja 2 personas fallecidas y seis heridas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/03/un-accidente-en-la-n-225-en-la-vall-duixo-deja-2-personas-fallecidas-y-seis-heridas/",
+        "date": "2025-03-03 01:31:11",
+        "sentiment_score": -0.7711889687925577
+    },
+    {
+        "title": "Reabierta la A-2 entre Guadalajara y Soria tras un corte de 45 kilómetros por la nieve",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/03/reabierta-la-a-2-entre-guadalajara-y-soria-tras-un-corte-de-45-kilometros-por-la-nieve/",
+        "date": "2025-03-03 01:16:08",
+        "sentiment_score": -0.5626325532793999
+    },
+    {
+        "title": "Atrapados en la A-2 lamentan la falta de información y asistencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/03/atrapados-en-la-a-2-lamentan-la-falta-de-informacion-y-asistencia/",
+        "date": "2025-03-03 01:15:51",
+        "sentiment_score": -0.834989570081234
+    },
+    {
+        "title": "La exportación de vehículos en Brasil aumentó un 44,2 % en el segundo semestre del año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/12/la-exportacion-de-vehiculos-en-brasil-aumento-un-442-en-el-segundo-semestre-del-ano/",
+        "date": "2025-03-03 00:49:33",
+        "sentiment_score": 0.7210209369659424
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 3 de marzo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/03/hoy-sera-noticia-lunes-3-de-marzo/",
+        "date": "2025-03-03 00:46:25",
+        "sentiment_score": 0.03877636045217514
+    },
+    {
+        "title": "El crudo baja más del 1 % tras augurar la AIE un exceso de producción en 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/12/el-crudo-baja-mas-del-1-tras-augurar-la-aie-un-exceso-de-produccion-en-2025/",
+        "date": "2025-03-03 00:34:09",
+        "sentiment_score": -0.2989545613527298
+    },
+    {
+        "title": "La australiana Marena Whittle regresa al Movistar Estudiantes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/12/la-australiana-marena-whittle-regresa-al-movistar-estudiantes/",
+        "date": "2025-03-03 00:19:10",
+        "sentiment_score": 0.848750650882721
+    },
+    {
+        "title": "Sanidad arranca el trámite de la norma que mejorará la financiación y precio de fármacos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/12/sanidad-arranca-el-tramite-de-la-norma-que-mejorara-la-financiacion-y-precio-de-farmacos/",
+        "date": "2025-03-03 00:04:13",
+        "sentiment_score": 0.5074786841869354
+    },
+    {
+        "title": "España pierde un recurso en R.Unido para cobrar la indemnización del seguro del Prestige",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/12/espana-pierde-un-recurso-en-runido-para-cobrar-la-indemnizacion-del-seguro-del-prestige/",
+        "date": "2025-03-02 23:49:14",
+        "sentiment_score": -0.8631574446335435
+    },
+    {
+        "title": "\"Estos brotes responden a la falta de vacunación\", dice infectólogo sobre el sarampión",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2201749974.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sarampion-brote-eeuu-vacunas-mirador-mundial-tv/",
+        "date": "2025-03-03 00:38:55",
+        "sentiment_score": -0.6616573669016361
+    },
+    {
+        "title": "Líderes europeos se reúnen en apoyo a Zelensky y buscan poner fin a la guerra",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2202256775.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/lideres-europeos-cumbre-apoyo-zelensky-ucrania-rusia-mirador-mundial-tv/",
+        "date": "2025-03-03 00:36:35",
+        "sentiment_score": -0.29755015671253204
+    },
+    {
+        "title": "Migrantes regresan a su tierra tras políticas migratorias de Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/still-21425632-2137400-still.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/migrantes-venezolanos-darien-sueno-americano-mirador-tv/",
+        "date": "2025-03-02 23:54:45",
+        "sentiment_score": -0.5730574689805508
+    },
+    {
+        "title": "El papa está estable, pero el riesgo de crisis permanece, dice el Vaticano",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2202191339.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/roma-vaticano-estado-salud-papa-pontifice-misa-mirador-mundial-tv/",
+        "date": "2025-03-02 23:48:40",
+        "sentiment_score": -0.46310730278491974
+    },
+    {
+        "title": "Secretario general de la ONU pide reanudación de ayuda humanitaria para Gaza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2201117331.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/onu-ayuda-humanitaria-gaza-mirador-mundial-tv/",
+        "date": "2025-03-02 23:47:10",
+        "sentiment_score": -0.22542648017406464
+    },
+    {
+        "title": "Ex astronauta de la NASA explica por qué el alunizaje del “Blue Ghost” de Firefly es tan raro",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/glbr-jix0aalh-d-20250302215634526.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/nasa-blue-ghost-firefly-astronauta-luna-trax/",
+        "date": "2025-03-02 22:25:03",
+        "sentiment_score": -0.2803981155157089
+    },
+    {
+        "title": "Europa asume que la paz en Ucrania pasa por un acuerdo con Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/02/ursula-RAdqeuomoMgNUoUF0BXE7EP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/europa-asume-paz-ucrania-pasa-acuerdo-trump-20250302031426-nt.html",
+        "date": "2025-03-03 02:14:27",
+        "sentiment_score": 0.007662147283554077
+    },
+    {
+        "title": "Un nuevo paradigma en defensa",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2025/02/24/muletas-U13436785763ILZ-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-nuevo-paradigma-defensa-20250303031206-nt.html",
+        "date": "2025-03-03 02:12:27",
+        "sentiment_score": 0.010913699865341187
+    },
+    {
+        "title": "No has dado las gracias suficientes veces",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/03/03/trump-RSxFmlOBdv8H07MJ6HFQXUJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-dado-gracias-suficientes-veces-20250303170109-nt.html",
+        "date": "2025-03-03 02:02:14",
+        "sentiment_score": -0.1720341295003891
+    },
+    {
+        "title": "Alemania naufraga en la batalla del talento cualificado",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/03/02/alemania-RG4eJi2g8uf1iZS5ElMnzOJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/alemania-naufraga-batalla-talento-cualificado-20250302032738-nt.html",
+        "date": "2025-03-03 01:07:11",
+        "sentiment_score": -0.13495983183383942
+    },
+    {
+        "title": "Francia y Reino Unido proponen una tregua parcial de un mes en Ucrania",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/03/StarmerMacronZelenski-Rto5Y5lDUFMOS2s1pY7L2MK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/francia-reino-unido-proponen-tregua-parcial-mes-20250303015737-nt.html",
+        "date": "2025-03-03 00:57:37",
+        "sentiment_score": -0.08876720070838928
+    },
+    {
+        "title": "La generosidad de Morante",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/02/25/policia-fallecido-k9B--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-generoridad-morante-20250303152533-nts.html",
+        "date": "2025-03-02 22:47:21",
+        "sentiment_score": -0.0630098283290863
+    },
+    {
+        "title": "Messi comanda una renovada Argentina para enfrentar a Uruguay y Brasil en eliminatorias",
+        "image_url": "https://dims.apnews.com/dims4/default/2eacf79/2147483647/strip/true/crop/5397x3592+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F17%2Fee14bb03e268fc78fee45e585d79%2F6aa112f4778647929d52b744392dabb9",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/argentina-messi-eliminatorias-scaloni-c51c77ded179dab43ca36628aaed694f",
+        "date": "2025-03-03 01:48:10",
+        "sentiment_score": 0.3135751932859421
+    },
+    {
+        "title": "Así es María Rodríguez, la soprano española que ha conquistado la ópera y la zarzuela",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/rodri-1740921975848_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/maria-rodriguez-soprano-espanola-ha-conquistado-opera-zarzuela",
+        "date": "2025-03-03 01:30:00",
+        "sentiment_score": 0.28540024906396866
+    },
+    {
+        "title": "02 MAR 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-mar-2025-tertulion-domingos-20250303_3105437.html",
+        "date": "2025-03-03 00:53:19",
+        "sentiment_score": -0.8663852792233229
+    },
+    {
+        "title": "Promesa de Inglaterra sueña con la Vinotinto: \"Quiero ganar un Mundial con Venezuela\" (+Video)",
+        "image_url": "https://pxcdn.meridiano.net/032025/1740960105422.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/promesa-de-inglaterra-suena-con-la-vinotinto-quiero-ganar-un-mundial-con-venezuela-video--20253220520",
+        "date": "2025-03-03 00:52:00",
+        "sentiment_score": 0.011816252022981644
+    },
+    {
+        "title": "Gavi pierde protagonismo en el Barça de Flick: ¿Fiebre o castigo?",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/03/03/culemania/primer-equipo/928417150_14198123_1706x960.jpg?contentId=ESPIMA20250303_0001",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250303/gavi-pierde-protagonismo-barca-flick-fiebre-castigo/928407151_0.html",
+        "date": "2025-03-03 00:43:21",
+        "sentiment_score": -0.8978103483095765
+    },
+    {
+        "title": "Napoleonchu, Napoleonchu ¿por qué nos persigues?",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/02/28/67c2118e534a7.jpeg",
+        "tags": [
+            "en primera línea"
+        ],
+        "link": "https://www.eldebate.com/opinion/en-primera-linea/20250303/napoleonchu-napoleonchu-persigues_274514.html",
+        "date": "2025-03-03 00:30:00",
+        "sentiment_score": -0.7170733585953712
+    },
+    {
+        "title": "Quién es Anna Castillo: La actriz que presagia 'el futuro' de la princesa Leonor",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/ana-castillo-1_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/quien-anna-castillo-actriz-que-aventura-futuro-princesa-leonor",
+        "date": "2025-03-03 00:30:00",
+        "sentiment_score": 0.5369929298758507
+    },
+    {
+        "title": "Nueva derrota del Real Madrid antes del derbi de Champions, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/03/03/67c4f0c5b27f9.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-02-20250303_3105428.html",
+        "date": "2025-03-03 00:07:41",
+        "sentiment_score": 0.03280624747276306
+    },
+    {
+        "title": "Zoe Saldaña, mejor actriz de reparto: “Soy la orgullosa hija de inmigrantes”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/03/03/67c50bcf6dfa6.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20250303/10426078/oscars-2025-zoe-saldana-reina-taquilla-gana-oscar-mejor-actriz-reparto-emilia-perez.html",
+        "date": "2025-03-03 01:51:50",
+        "sentiment_score": 0.5048364102840424
+    },
+    {
+        "title": "Independiente, Aucas y Nacional ceden empates y Barcelona es el líder absoluto en Ecuador",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/03/independiente-aucas-y-nacional-ceden-empates-y-barcelona-es-el-lider-absoluto-en-ecuador/",
+        "date": "2025-03-03 01:30:52",
+        "sentiment_score": 0.5602195560932159
+    },
+    {
+        "title": "Historia en 4 tiempos | Un día como hoy: \"Curso de secretarias en el Centro de Mariñamansa\"",
+        "image_url": "https://static.laregion.es/clip/aa70fba2-ee5c-4967-8d9e-2f05226120bb_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/ourense/historia-4-tiempos-dia-hoy_1_20250303-3433401.html",
+        "date": "2025-03-03 01:30:14",
+        "sentiment_score": -0.04082157462835312
+    },
+    {
+        "title": "Las bromas de Conan O'Brien s sobre Karla Sofía Gascón y Antonio Banderas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/03/03/67c5006e56bba.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20250303/10439169/oscars-2025-bromas-conan-brien-karla-sofia-gascon-antonio-banderas.html",
+        "date": "2025-03-03 01:09:50",
+        "sentiment_score": -0.5610576774924994
+    },
+    {
+        "title": "Felipe VI pide a la industria un desarrollo seguro y responsable de la IA",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2025/03/Felipe-VI-pide-a-la-industria-un-desarrollo-seguro-y-responsable-de-la-IA-e1740985102331.webp",
+        "tags": [
+            "nuevas tecnologías"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/felipe-vi-pide-a-la-industria-un-desarrollo-seguro-y-responsable-de-la-ia/",
+        "date": "2025-03-03 00:56:41",
+        "sentiment_score": 0.2926400154829025
+    },
+    {
+        "title": "El exuberante vestido de Kylie Jenner para los Oscar: repleto de aberturas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/03/03/67c4f3a373786.r_d.3441-1744-748.jpeg",
+        "tags": [
+            "moda"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/moda/20250303/10439162/exuberante-vestido-kylie-jenner-oscar-repleto-aberturas.html",
+        "date": "2025-03-03 00:47:01",
+        "sentiment_score": 0.5702966339886189
+    },
+    {
+        "title": "Predicciones de la semana del 3 al 9 de marzo",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740688396366.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-3-al-9-de-marzo-2025322200",
+        "date": "2025-03-03 02:00:00",
+        "sentiment_score": -0.08603308349847794
+    },
+    {
+        "title": "Bomberos de Caracas en alerta tras recientes incendios forestales: Protección Civil brinda asistencia",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740956788312.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/bomberos-de-caracas-en-alerta-tras-recientes-incendios-forestales-proteccion-civil-brinda-asistencia-20253221400",
+        "date": "2025-03-03 01:40:00",
+        "sentiment_score": 0.0027256011962890625
+    },
+    {
+        "title": "Premios Oscar 2025: Demi Moore deslumbra en la alfombra roja con un vestido metalizado",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740966782030.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/premios-oscar-2025-demi-moore-deslumbra-en-la-alfombra-roja-con-un-vestido-metalizado-20253221260",
+        "date": "2025-03-03 01:26:00",
+        "sentiment_score": 0.7897701617330313
+    },
+    {
+        "title": "Las oficinas del Seguro Social que cerrará por recortes de DOGE: Alternativas para hacer trámites",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740965177313.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/las-oficinas-del-seguro-social-que-cerrara-por-recortes-de-doge-alternativas-para-hacer-tramites-20253221230",
+        "date": "2025-03-03 01:23:00",
+        "sentiment_score": -0.04026215523481369
+    },
+    {
+        "title": "Accidente en la Colonia Tovar deja cuatro muertos: perdió el control del vehículo y cayó por un barranco",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740964244145.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/accidente-en-la-colonia-tovar-deja-cuatro-muertos-perdio-el-control-del-vehiculo-y-cayo-por-un-barranco-20253221120",
+        "date": "2025-03-03 01:12:00",
+        "sentiment_score": -0.11656122654676437
+    },
+    {
+        "title": "Extranjero en Venezuela: Esto es lo que necesitas saber sobre trámites de extranjería en el Saime",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740944473052.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/extranjero-en-venezuela-esto-es-lo-que-necesitas-saber-sobre-tramites-de-extranjeria-en-el-saime-2025322200",
+        "date": "2025-03-03 01:05:38",
+        "sentiment_score": -0.05333993583917618
+    },
+    {
+        "title": "Atención transportistas en Carnavales 2025: conozca las multas por circular fuera de su ruta",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740947681480.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/atencion-transportistas-en-carnavales-2025-conozca-las-multas-por-circular-fuera-de-su-ruta-2025322200",
+        "date": "2025-03-03 01:05:38",
+        "sentiment_score": -0.48174434900283813
+    },
+    {
+        "title": "Trump envía 3 mil tropas a la frontera para continuar deportaciones: es la segunda gran oleada militar en su mandato",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740962045771.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/trump-envia-3-mil-tropas-a-la-frontera-para-continuar-deportaciones-es-la-segunda-gran-oleada-militar-en-su-mandato-20253220230",
+        "date": "2025-03-03 00:23:00",
+        "sentiment_score": 0.04914695769548416
+    },
+    {
+        "title": "Ofrecerán $1.000 por denunciar a inmigrantes indocumentados en Missouri: presentan proyecto de ley al Senado",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740960952387.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/ofreceran-1-000-por-denunciar-a-inmigrantes-indocumentados-en-missouri-presentan-proyecto-de-ley-al-senado-20253220130",
+        "date": "2025-03-03 00:13:00",
+        "sentiment_score": 0.17636865004897118
+    },
+    {
+        "title": "Antecedentes Penales en Venezuela: Así puedes hacer el trámite por primera vez",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1740888074498.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/antecedentes-penales-en-venezuela-asi-puedes-hacer-el-tramite-por-primera-vez-2025322000",
+        "date": "2025-03-03 00:00:00",
+        "sentiment_score": 0.49948769621551037
     }
 ];
