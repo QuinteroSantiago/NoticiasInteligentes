@@ -1,86 +1,5 @@
 export default [
     {
-        "title": "La quinta manifestación para exigir la dimisión de Mazón por la dana recorre hoy València",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/01/la-quinta-manifestacion-para-exigir-la-dimision-de-mazon-por-la-dana-recorre-hoy-valencia/",
-        "date": "2025-03-01 05:15:38",
-        "sentiment_score": -0.6710470244288445
-    },
-    {
-        "title": "Entre el 'reality' y la encerrona, Trump hace estallar la relación con Zelenski",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/zelenski-trump2-kRIG-U70358959008Y1D-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/reality-encerrona-trump-estallar-relacion-zelenski-20250301062311-nt.html",
-        "date": "2025-03-01 05:35:00",
-        "sentiment_score": -0.07966312766075134
-    },
-    {
-        "title": "De raza le viene al galgo",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/02/25/alpinea290.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.leonoticias.com/motor/raza-viene-galgo-20250301065649-ntrc.html",
-        "date": "2025-03-01 05:56:54",
-        "sentiment_score": -0.7009079046547413
-    },
-    {
-        "title": "Los coches con etiqueta B y C dejarán de circular: ya hay fecha oficial",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ce2cea79-0c3e-4e6e-a60c-0111de69a267_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreogallego.es/movilidad-2023/2025/03/01/coches-etiqueta-b-c-dejaran-circular-dv-100864852.html",
-        "date": "2025-03-01 06:30:00",
-        "sentiment_score": 0.23070911318063736
-    },
-    {
-        "title": "Ramírez y el Sporting, reencuentro con el gran amor",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88923682-1339-4f1a-9a02-dd00fd6909e9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2025/03/01/ramirez-sporting-reencuentro-gran-amor-114807147.html",
-        "date": "2025-03-01 06:02:42",
-        "sentiment_score": 0.5775214433670044
-    },
-    {
-        "title": "Cuando íbamos al bar de la Estación de Cáceres",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cd4bbeda-7195-4435-9843-da80230bdb26_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2025/03/01/bar-renfe-adif-estacion-caceres-114790599.html",
-        "date": "2025-03-01 06:00:56",
-        "sentiment_score": -0.13495531678199768
-    },
-    {
-        "title": "Olga Osorio | “He tenido la suerte de compartir este viaje con Mario Casas y Michelle Jenner”",
-        "image_url": "https://www.elidealgallego.com/images/showid/7217065",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elidealgallego.com/articulo/a-coruna/olga-osorio-he-tenido-suerte-compartir-viaje-mario-casas-michelle-jenner-5200174",
-        "date": "2025-03-01 05:45:00",
-        "sentiment_score": 0.07627373933792114
-    },
-    {
-        "title": "LIBRERÍA DE VIEJO Tacarigua de la Laguna en el recuerdo",
-        "image_url": "https://cdn.bitlysdowssl-aws.com/wp-content/uploads/2025/03/Captura-de-pantalla-2025-02-28-121841.png",
-        "tags": [
-            "columnista",
-            "opinión"
-        ],
-        "link": "https://www.elnacional.com/opinion/libreria-de-viejo-tacarigua-de-la-laguna-en-el-recuerdo/",
-        "date": "2025-03-01 05:11:45",
-        "sentiment_score": -0.1992454081773758
-    },
-    {
         "title": "La belga Lotte Claes se apunta la Omloop Nieuwsblad femenina",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -221,46 +140,6 @@ export default [
         "sentiment_score": -0.24401865899562836
     },
     {
-        "title": "El Gobierno de Italia se divide: Meloni pide una cumbre entre EE.UU. y Europa, mientras Salvini exulta con Trump",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/meloni-klfG-U70359769840plB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/gobierno-italia-divide-meloni-pide-cumbre-eeuu-20250301100848-nt.html",
-        "date": "2025-03-01 09:08:48",
-        "sentiment_score": -0.02276739478111267
-    },
-    {
-        "title": "Reino Unido reafirma su apoyo a Ucrania tras el tenso enfrentamiento entre Trump y Zelenski",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/starmerzel-kOl-U70359515958DFI-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/reino-unido-reafirma-apoyo-ucrania-tras-tenso-20250301093731-nt.html",
-        "date": "2025-03-01 08:39:41",
-        "sentiment_score": 0.006281495094299316
-    },
-    {
-        "title": "El PKK declara un alto el fuego con Turquía para «facilitar» el final de casi 40 años de conflicto",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/pkk.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/pkk-declara-alto-fuego-turquia-facilitar-final-20250301092500-nt.html",
-        "date": "2025-03-01 08:29:27",
-        "sentiment_score": 0.0026999711990356445
-    },
-    {
-        "title": "Xi presume de coordinación con Putin mientras Trump grita a Zelenski",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/jiping-Shoigu-kBmD-U70359172612x7E-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/presume-coordinacion-putin-trump-grita-zelenski-20250301075620-nt.html",
-        "date": "2025-03-01 06:56:20",
-        "sentiment_score": -0.17340748012065887
-    },
-    {
         "title": "Los trenes de las líneas R2 y R4 acumulan retrasos generalizados",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JGTKN723EVAFTNQPNTCSZRP7SE.jpg?auth=a7355e75162ced3bcebf19aa38260b7b76bca2fa7351f4a10f9038aaa832c2f8&width=1200",
         "tags": [
@@ -378,37 +257,6 @@ export default [
         "link": "https://elpais.com/espana/2025-03-01/los-partidos-espanoles-salvo-vox-y-podemos-cierran-filas-con-ucrania.html",
         "date": "2025-03-01 12:35:08",
         "sentiment_score": -0.9005573242902756
-    },
-    {
-        "title": "Fallece la alcaldesa de Lugo tras el infarto que sufrió este viernes antes del pregón de carnaval",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4UFT5QSJGJAJVDMEQEDTAPX2V4.jpg?auth=2383a3dcb212ed0ab12e2cc3e108305e8cb626f127cc13d44e3ea102f77666a2&width=1200",
-        "tags": [
-            "galicia",
-            "alcaldía",
-            "obituarios",
-            "españa",
-            "lugo",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/2025-03-01/fallece-la-alcaldesa-de-lugo-tras-el-infarto-que-sufrio-este-viernes-antes-del-pregon-de-carnaval.html",
-        "date": "2025-03-01 10:15:05",
-        "sentiment_score": -0.2370545230805874
-    },
-    {
-        "title": "Ontinyent acogerá la primera facultad de Veterinaria pública de la Comunidad Valenciana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GP7UG2YZLJBLZJJEXASD34VZ7U.jpg?auth=308f79869460a0327d75a021c4072be62dbe92ea4970f7441e8946e65d4c7ae8&width=1200",
-        "tags": [
-            "ontinyent",
-            "universidad valencia",
-            "veterinaria",
-            "carlos mazón",
-            "jorge rodríguez",
-            "comunidad valenciana",
-            "universidades públicas"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-01/ontinyent-acogera-la-primera-facultad-de-veterinaria-publica-de-la-comunidad-valenciana.html",
-        "date": "2025-03-01 06:56:20",
-        "sentiment_score": 0.45489490777254105
     },
     {
         "title": "Directo | Betis - Real Madrid",
@@ -7333,5 +7181,619 @@ export default [
         "link": "https://2001online.com/sucesos/turista-chino-muere-tras-ser-arrollado-por-una-lancha-en-playa-de-falcon-detienen-al-lanchero-20253411300",
         "date": "2025-03-04 15:30:00",
         "sentiment_score": -0.3780571110546589
+    },
+    {
+        "title": "El ciclista Ibon Ruiz, operado con éxito de su clavícula izquierda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/el-ciclista-ibon-ruiz-operado-con-exito-de-su-clavicula-izquierda/",
+        "date": "2025-03-04 22:03:38",
+        "sentiment_score": 0.6739147882908583
+    },
+    {
+        "title": "El significado de la celebración de Brahim Díaz: el jugador del Real Madrid volvió a hacer el gesto en Champions ante el Atlético de Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/03/04/el-significado-de-la-celebracion-de-brahim-diaz-el-jugador-del-real-madrid-volvio-a-hacer-el-gesto-en-champions-ante-el-atletico-de-madrid/",
+        "date": "2025-03-04 22:01:49",
+        "sentiment_score": 0.030294165015220642
+    },
+    {
+        "title": "Rodrygo y Brahim dejan de cara la eliminatoria en Champions para el Real Madrid en el partido ante el Atlético de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/3CF4QCFP2J3KAAHLCSRNSPWT3M.jpg?auth=27dcc975d7ad5e8c3e681ce86de9ab23d5a332c02ee4e396aa18236e073f858a&height=3826&smart=true&width=5533",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/03/04/rodrygo-y-brahim-dejan-de-cara-la-eliminatoria-en-champions-para-el-real-madrid-en-el-partido-ante-el-atletico-de-madrid/",
+        "date": "2025-03-04 21:54:26",
+        "sentiment_score": -0.1454012170433998
+    },
+    {
+        "title": "Dos jugadores del equipo sub-20 del Bragantino sufren un grave accidente de tráfico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/dos-jugadores-del-equipo-sub-20-del-bragantino-sufren-un-grave-accidente-de-trafico/",
+        "date": "2025-03-04 21:47:23",
+        "sentiment_score": -0.7973699625581503
+    },
+    {
+        "title": "Saquon Barkley cierra un contrato récord con los Eagles por 41,2 millones de dólares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/saquon-barkley-cierra-un-contrato-record-con-los-eagles-por-412-millones-de-dolares/",
+        "date": "2025-03-04 21:47:06",
+        "sentiment_score": 0.533858172595501
+    },
+    {
+        "title": "33-30. El Benfica doblega a un Bidasoa plagado de juventud y con los deberes hechos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/33-30-el-benfica-doblega-a-un-bidasoa-plagado-de-juventud-y-con-los-deberes-hechos/",
+        "date": "2025-03-04 21:46:50",
+        "sentiment_score": -0.005245476961135864
+    },
+    {
+        "title": "El Antequera supera al Sinfín y accede a la tercera eliminatoria de la Copa del Rey",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/el-antequera-supera-al-sinfin-y-accede-a-la-tercera-eliminatoria-de-la-copa-del-rey/",
+        "date": "2025-03-04 21:33:21",
+        "sentiment_score": 0.3399037569761276
+    },
+    {
+        "title": "Aguirre asegura que jugar el Mundial en casa será una oportunidad para hacer historia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/aguirre-asegura-que-jugar-el-mundial-en-casa-sera-una-oportunidad-para-hacer-historia/",
+        "date": "2025-03-04 21:33:04",
+        "sentiment_score": 0.7107797246426344
+    },
+    {
+        "title": "Aprobada la fusión de Colonial y la francesa SFL, absorbida por la inmobiliaria española",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/aprobada-la-fusion-de-colonial-y-la-francesa-sfl-absorbida-por-la-inmobiliaria-espanola/",
+        "date": "2025-03-04 21:17:42",
+        "sentiment_score": 0.1871144324541092
+    },
+    {
+        "title": "Comprobar Bonoloto: los ganadores de este 4 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/XMR3IUISF5H2DARWSDZEWVN3XU.jpg?auth=f60a360722048eff3404c96ca0029875b95871970652f964a64a04f3df66366c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/03/04/comprobar-bonoloto-los-ganadores-de-este-4-de-marzo/",
+        "date": "2025-03-04 21:15:36",
+        "sentiment_score": 0.09449587762355804
+    },
+    {
+        "title": "Las 5 empresas de telecomunicaciones más valiosas de 2025, según Brand Finance",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/still-21430639-208-still.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/empresas-telecomunicaciones-2025-redaccion-buenos-aires-tv/",
+        "date": "2025-03-04 20:31:36",
+        "sentiment_score": 0.32252980023622513
+    },
+    {
+        "title": "Pedro Castillo calificó de \"pantomima\" el juicio en su contra en Perú",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/expresidente-peru-pedro-castillo-juicio-redaccion-buenos-aires-tv-fast/",
+        "date": "2025-03-04 20:10:10",
+        "sentiment_score": -0.8717236174270511
+    },
+    {
+        "title": "Estados Unidos y Ucrania ultiman el acuerdo sobre la explotación de las tierras raras",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/04/ZELENSKI-R97NsSKyNoy7UGRhJ5IFy4N-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/estados-unidos-ucrania-ultiman-acuerdo-sobre-explotacion-20250304214542-nt.html",
+        "date": "2025-03-04 20:45:43",
+        "sentiment_score": -0.025440245866775513
+    },
+    {
+        "title": "Un principio y un fin",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/02/25/palacio-justicia-badajoz---170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-diaz-principio-fin-20250305213821-nts.html",
+        "date": "2025-03-04 20:40:00",
+        "sentiment_score": -0.035909175872802734
+    },
+    {
+        "title": "Ni a tomar café",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/miguel-angel-robles-tomar-cafe-20250305213820-nts.html",
+        "date": "2025-03-04 20:38:21",
+        "sentiment_score": -0.1328892856836319
+    },
+    {
+        "title": "La Cuaresma: patrimonio inmaterial de Sevilla",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/03/05/cuaresma-RkntPCXIEwKFHrVHsYlrIdI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/pablo-borrallo-cuaresma-patrimonio-inmaterial-sevilla-20250305213816-nts.html",
+        "date": "2025-03-04 20:38:17",
+        "sentiment_score": 0.21712258458137512
+    },
+    {
+        "title": "Miércoles de ceniza",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2025/03/03/busqueda-U23075654022TTD--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/yolanda-vallejo-miercoles-ceniza-20250305001811-nts.html",
+        "date": "2025-03-04 20:38:15",
+        "sentiment_score": 0.006953060626983643
+    },
+    {
+        "title": "Aduanas identitarias",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2025/02/24/muletas-U13436785763ILZ-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-aduanas-identitarias-20250305185206-nt.html",
+        "date": "2025-03-04 20:19:58",
+        "sentiment_score": -0.11846281588077545
+    },
+    {
+        "title": "Misiles Patriot, tanques, obuses... ¿Qué pierde Ucrania tras la suspensión de ayuda militar de Estados Unidos?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/04/ayuda-militar-k6fC-U70397161975sID-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/misiles-patriot-tanques-obuses-pierde-ucrania-tras-20250304201629-nt.html",
+        "date": "2025-03-04 19:26:43",
+        "sentiment_score": -0.03092789649963379
+    },
+    {
+        "title": "París denuncia el «comportamiento peligroso» de un caza ruso contra un dron militar francés",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/04/Francia-kS0B-U703979039698MB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/paris-denuncia-comportamiento-peligroso-caza-ruso-dron-20250304201556-nt.html",
+        "date": "2025-03-04 19:15:56",
+        "sentiment_score": -0.37574099004268646
+    },
+    {
+        "title": "Al menos quince muertos en un ataque con coches bomba atribuido a los talibán paquistaníes",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/04/taliban-kvMB-U70397896549ezH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/quince-muertos-ataque-coches-bomba-atribuido-taliban-20250304200024-nt.html",
+        "date": "2025-03-04 19:00:24",
+        "sentiment_score": -0.2332921028137207
+    },
+    {
+        "title": "Xenófobo e inconstitucional",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/03/03/nieve-rescate-kOjF--170x119@El%20Norte.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-xenofobo-inconstitucional-20250305194351-nt.html",
+        "date": "2025-03-04 18:44:04",
+        "sentiment_score": -0.13100168108940125
+    },
+    {
+        "title": "El atrevimiento de ‘Hiperràbia’, de Ferran Grau, se lleva el premio Finestres de narrativa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BPK6LRORCJOMPNHMTQV6LWUPWQ.jpg?auth=d27fa5f7c1d1e2f1ea0af402e2369176c0afbdf2d43672941f8c8398f0fee445&width=1200",
+        "tags": [
+            "cómic",
+            "premios literarios",
+            "librerías",
+            "literatura",
+            "editoriales",
+            "narrativa",
+            "barcelona",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-03-04/hiperrabia-de-ferran-grau-se-lleva-el-premio-finestres-de-narrativa.html",
+        "date": "2025-03-04 21:05:13",
+        "sentiment_score": 0.46469569206237793
+    },
+    {
+        "title": "El choque de un tren de Rodalies con una piedra deja dos heridos leves en el Pirineo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JHDGZTQXSBHLZAXH6OOYCO2DRI.jpg?auth=cb25050082fc7bba7e0210d2ad8e49ebdd717cb410ba9dd08254cd1b8ca77b2c&width=1200",
+        "tags": [
+            "ribes de freser",
+            "planoles",
+            "cataluña",
+            "cercanías",
+            "renfe"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-03-04/el-choque-de-un-tren-de-rodalies-con-una-piedra-deja-dos-heridos-leves-en-el-pirineo.html",
+        "date": "2025-03-04 20:29:51",
+        "sentiment_score": -0.7478364072740078
+    },
+    {
+        "title": "El PP de Moreno destituye al secretario general de Sevilla y nombra a una persona de su confianza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6XHXFJGJ6NHJBEOTPFM6WMGK3M.jpg?auth=eb4eb2104d322528ee3687a399ab9b3213b8233b390df8027b2e9b16f1358b0a&width=1200",
+        "tags": [
+            "pp",
+            "dimisiones políticas",
+            "dimisiones",
+            "sevilla",
+            "españa",
+            "investigación judicial",
+            "casos judiciales",
+            "andalucía"
+        ],
+        "link": "https://elpais.com/espana/2025-03-04/el-pp-de-moreno-destituye-al-secretario-general-de-sevilla-y-nombra-a-una-persona-de-su-confianza.html",
+        "date": "2025-03-04 20:27:43",
+        "sentiment_score": -0.6917510405182838
+    },
+    {
+        "title": "La alcaldesa de Ripoll censura una exposición de instituto por unas fotos de alumnas con velo islámico",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MR3QDWVIZVAA3FM24ZWCVVJGVY.jpg?auth=bb0b45538272810c46e6b7cbdc13e85c33a28458c306ae0729be8d66e7e01612&width=1200",
+        "tags": [
+            "cataluña",
+            "exposiciones",
+            "islam",
+            "ripoll",
+            "cultura"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-03-04/la-alcaldesa-de-ripoll-censura-una-exposicion-de-instituto-por-unas-fotos-de-alumnas-con-velo-islamico.html",
+        "date": "2025-03-04 20:06:42",
+        "sentiment_score": -0.17807728424668312
+    },
+    {
+        "title": "Los trenes entre Tarragona y Barcelona continúan acumulando retrasos pese al fin de las obras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MYYCN7SOL5DZ5PDQLNKGTX4VJM.jpg?auth=311fb7f7a17165cff9974da4a320b759caa4c89fa6ff96b5c444f09d36b557ad&width=1200",
+        "tags": [
+            "barcelona",
+            "adif",
+            "renfe",
+            "trenes",
+            "cataluña",
+            "tarragona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-03-04/los-trenes-entre-tarragona-y-barcelona-continuan-acumulando-retrasos-pese-al-fin-de-las-obras.html",
+        "date": "2025-03-04 18:55:35",
+        "sentiment_score": -0.6809297688305378
+    },
+    {
+        "title": "Sanidad suspende las citas médicas programadas en Castellón, Valencia y departamentos de Dénia y Alcoi",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PRDBSB6J2REITDGONEQLOATRHY.JPG?auth=0db3b50b720713fe80fdc9e6c1241a18c2aaddbd6ddbc905be050f7c83936127&width=1200",
+        "tags": [
+            "sanidad",
+            "comunidad valenciana",
+            "generalitat valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-04/sanidad-suspende-las-citas-medicas-programadas-en-castellon-valencia-y-departamentos-de-denia-y-alcoi.html",
+        "date": "2025-03-04 18:18:19",
+        "sentiment_score": -0.7653749957680702
+    },
+    {
+        "title": "Vox patrocina en el Congreso un acto en el que se compara el feminismo con el nazismo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YQA7D3ZE3RDQRJIUCCKC5URXRI.png?auth=9f740acbdbd84e8a48b010d551d3b2c547181631f20f3e4b40ec98a2de00a711&width=1200",
+        "tags": [
+            "violencia machista",
+            "españa",
+            "víctimas",
+            "día de la mujer",
+            "víctimas violencia género",
+            "congreso diputados",
+            "vox",
+            "violencia vicaria"
+        ],
+        "link": "https://elpais.com/espana/2025-03-04/vox-patrocina-en-el-congreso-un-acto-en-el-que-se-compara-el-feminismo-con-el-nazismo.html",
+        "date": "2025-03-04 17:14:11",
+        "sentiment_score": -0.7954351399093866
+    },
+    {
+        "title": "Un derbi de contrastes: genialidades, dudas y un final abierto en el Metropolitano",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/04/2025030423150663607.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/derbi-contrastes-genialidades-dudas-final-abierto-metropolitano/20250304231700336165.html",
+        "date": "2025-03-04 22:17:00",
+        "sentiment_score": 0.5059325098991394
+    },
+    {
+        "title": "Julián Alvarez: \"Es un gol, quedan 90 minutos en casa con nuestra gente\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/04/julian-alvarez-es-un-gol-quedan-90-minutos-en-casa-con-nuestra-gente/",
+        "date": "2025-03-04 22:16:27",
+        "sentiment_score": 0.8408907353878021
+    },
+    {
+        "title": "Reactivada en Andalucía la fase de preemergencia ante el riesgo de inundaciones",
+        "image_url": "https://static.grupojoly.com/clip/b7e58231-1d63-45af-82d2-ac978e63d545_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodecadiz.es/andalucia/reactivada-andalucia-fase-preemergencia-riesgo_0_2003459469.html",
+        "date": "2025-03-04 22:16:20",
+        "sentiment_score": -0.7591015584766865
+    },
+    {
+        "title": "Los solistas del Real Madrid frustran a la orquesta rojiblanca",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/03/04/brahim-realmadrid-atletico-bernabeu-k4xC-U2301044145462PrG-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/deportes/futbol/liga-campeones/solistas-real-madrid-frustran-orquesta-rojiblanca-20250304230814-ntrc.html",
+        "date": "2025-03-04 22:16:12",
+        "sentiment_score": -0.9289625389501452
+    },
+    {
+        "title": "2-1. Brahim castiga la superioridad del Atlético",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/04/2-1-brahim-castiga-la-superioridad-del-atletico/",
+        "date": "2025-03-04 22:15:53",
+        "sentiment_score": 0.24306908249855042
+    },
+    {
+        "title": "Crónica del Real Madrid - Atlético de Madrid: 2-1",
+        "image_url": "https://www.infobae.com/resizer/v2/2LO3K4X5VVCLLMGKLHIRCJ73UY.jpg?auth=2b11c27ba68bec61b3707c1f4ce697de2262782ebdc40e555a6fb7fe83cf8748&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/04/cronica-del-real-madrid-atletico-de-madrid-2-1/",
+        "date": "2025-03-04 22:15:36",
+        "sentiment_score": -0.0532938688993454
+    },
+    {
+        "title": "Champions League: Real Madrid triunfa en casa ante el Atlético 2-1 y dejan todo para la vuelta",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741126863481.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/champions-league-real-madrid-triunfa-en-casa-ante-el-atletico-2-1-y-dejan-todo-para-la-vuelta-20253418130",
+        "date": "2025-03-04 22:13:00",
+        "sentiment_score": 0.6275796070694923
+    },
+    {
+        "title": "¿No están preparados? Los números de Vinicius Jr antes y después de perder el Balón de Oro",
+        "image_url": "https://pxcdn.meridiano.net/032025/1741126387299.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/no-estan-preparados-los-numeros-de-vinicius-jr-antes-y-despues-de-perder-el-balon-de-oro-20253418120",
+        "date": "2025-03-04 22:12:00",
+        "sentiment_score": 0.370264507830143
+    },
+    {
+        "title": "Valverde se viste de Carvajal y Brahim da ejemplo a Mbappé: \"Cuando vistes esta camiseta tienes que darlo todo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/82a47579-8b4f-4181-b55f-1175ee480f4f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,kylian mbappé,brahim díaz,futbol,champions league,atlético de madrid,el periódico de españa"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/03/04/valverde-viste-carvajal-brahim-da-114948319.html",
+        "date": "2025-03-04 22:11:12",
+        "sentiment_score": -0.012298047542572021
+    },
+    {
+        "title": "Monster Sushi apunta a los 20 millones, un 35% más, y crecerá en Barcelona y Madrid",
+        "image_url": "https://phantom-expansion.uecdn.es/00511dd45952d108a7ccf6667e9a6309/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/04/17411250063769.jpg",
+        "tags": [
+            "cataluña>",
+            "artículos david casals>",
+            "distribución>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/03/04/67c7760c468aeb90568b4574.html",
+        "date": "2025-03-04 22:08:42",
+        "sentiment_score": 0.05270235240459442
+    },
+    {
+        "title": "Brahim y Modric resucitan al Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/04/2025030423021614477.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/brahim-modric-resucitan-real-madrid/20250304230245336162.html",
+        "date": "2025-03-04 22:02:45",
+        "sentiment_score": -0.07589879631996155
+    },
+    {
+        "title": "Una maniobra para sortear a un peatón, una de las hipótesis del accidente de Barcelona",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/03/accidente-de-autocares-en-la-diagonal-de-barcelona-hay-51-heridos-entre-ellos-cuatro-criticos-y-un-menor-grave.webp",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5688053/0/una-maniobra-para-sortear-un-peaton-una-las-hipotesis-accidente-barcelona/",
+        "date": "2025-03-04 22:02:42",
+        "sentiment_score": -0.3593516908586025
+    },
+    {
+        "title": "Rompiendo patrones",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/03/04/mujer-R10FsqC5kxFJruQbrTckLNI-758x531@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/opinion/candelaria-carrera-asturiano-rompiendo-patrones-20250305230153-nt.html",
+        "date": "2025-03-04 22:01:54",
+        "sentiment_score": -0.7317611426115036
+    },
+    {
+        "title": "Restablecen servicio eléctrico en la calle San Miguel del sector El Cinco de Anaco",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "servicios públicos",
+            "locales",
+            "gobierno"
+        ],
+        "link": "https://eltiempove.com/restablecen-servicio-electrico-en-la-calle-san-miguel-del-sector-el-cinco-de-anaco/",
+        "date": "2025-03-04 21:53:48",
+        "sentiment_score": -0.41543324291706085
+    },
+    {
+        "title": "Lluvia de golazos en el ‘EuroDerbi’: el Madrid golpea primero al Atlético en Champions",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/03/real-madrid-atletico-resumen-goles-champions.jpg",
+        "tags": [
+            "kylian mbappé",
+            "luka modric",
+            "jude bellingham",
+            "antoine griezmann",
+            "real madrid",
+            "santiago bernabéu",
+            "fútbol",
+            "diego pablo 'cholo' simeone",
+            "vinicius jr",
+            "carlo ancelotti",
+            "uefa champions league",
+            "rodrygo goes",
+            "thibaut courtois",
+            "atlético de madrid"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2025-03-04/real-madrid-atletico-resumen-goles-champions/",
+        "date": "2025-03-04 21:52:52",
+        "sentiment_score": 0.7465412989258766
+    },
+    {
+        "title": "Qué impacto tendrá el traspaso de competencias de inmigración a Cataluña en aeropuertos y cómo afecta a Policía Nacional",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/03/04/67c7750a377ed.jpeg",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/audios/policia-nacional-aeropuerto-prat-revela-afectara-fronteras-cambio-competencias-inmigracion-hacian-20250304_3106868.html",
+        "date": "2025-03-04 21:52:12",
+        "sentiment_score": -0.044744282960891724
+    },
+    {
+        "title": "Barcelona declara la guerra a los VTC ilegales: más de 400 vehículos inmovilizados y una multa millonaria para el sector",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/01/19/movilidad/917668272_13998638_1706x960.jpg?contentId=ESPIMA20250119_0048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20250304/barcelona-declara-la-guerra-los-vtc-ilegales-mas-de-vehiculos-inmovilizados-una-multa-millonaria-para-el-sector/928657260_0.html",
+        "date": "2025-03-04 21:42:05",
+        "sentiment_score": -0.38284382224082947
+    },
+    {
+        "title": "La joven cuya eutanasia quedó paralizada se reafirma en su decisión",
+        "image_url": "https://static.laregion.es/clip/5c0a669f-dc3f-4a28-8acb-238e2ee4c6d8_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/espana/joven-cuya-eutanasia-quedo-paralizada_1_20250304-3436628.html",
+        "date": "2025-03-04 21:16:01",
+        "sentiment_score": -0.4393688850104809
+    },
+    {
+        "title": "Los alimentos y equipos electrónicos que aumentarán de precio por los aranceles de Trump: incluye carnes y celulares",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741126098151.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/los-alimentos-y-equipos-electronicos-que-aumentaran-de-precio-por-los-aranceles-de-trump-incluye-carnes-y-celulares-20253418120",
+        "date": "2025-03-04 22:12:00",
+        "sentiment_score": -0.5522784925997257
+    },
+    {
+        "title": "Estas son las opciones que tienen los venezolanos que perderán el TPS en abril: una de ellas es pedir el asilo",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741127088773.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/estas-son-las-opciones-que-tienen-los-venezolanos-que-perderan-el-tps-en-abril-una-de-ellas-es-pedir-el-asilo-2025341850",
+        "date": "2025-03-04 22:05:00",
+        "sentiment_score": -0.5936846751719713
+    },
+    {
+        "title": "La licencia que otorga el INTT para poder conducir una moto: Requisitos para solicitarla",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741098129644.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/la-licencia-que-otorga-el-intt-para-poder-conducir-una-moto-requisitos-para-solicitarla-2025341800",
+        "date": "2025-03-04 22:00:00",
+        "sentiment_score": -0.03770475089550018
+    },
+    {
+        "title": "Cena sin harina: Prepara unas deliciosas empanadas de plátano en 20 minutos",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741124578387.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - gastronomía"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/cena-sin-harina-prepara-unas-deliciosas-empanadas-de-platano-en-20-minutos-20253417500",
+        "date": "2025-03-04 21:50:00",
+        "sentiment_score": 0.534619165584445
+    },
+    {
+        "title": "Productos que puede comprar con envío gratis en Cashea: el peso límite es de hasta 30 kilos",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741122827150.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/productos-que-puede-comprar-con-envio-gratis-en-cashea-el-peso-limite-es-de-hasta-30-kilos-20253417180",
+        "date": "2025-03-04 21:18:00",
+        "sentiment_score": -0.0638216882944107
+    },
+    {
+        "title": "Cheque de estímulo DOGE: ¿Cuál es el procedimiento para que se apruebe?",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741122194421.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cheque-de-estimulo-doge-cual-es-el-procedimiento-para-que-se-apruebe--2025341720",
+        "date": "2025-03-04 21:02:00",
+        "sentiment_score": -0.48928800225257874
+    },
+    {
+        "title": "Requisitos para que un pensionado del IVSS solicite cambio de banco",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741109438211.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/requisitos-para-que-un-pensionado-del-ivss-solicite-cambio-de-banco-2025341700",
+        "date": "2025-03-04 21:00:00",
+        "sentiment_score": -0.05750780552625656
+    },
+    {
+        "title": "Así podrás organizar tu mente para la vuelta al trabajo",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740684767774.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - bienestar"
+        ],
+        "link": "https://2001online.com/zona3d/bienestar/asi-podras-organizar-tu-mente-para-la-vuelta-al-trabajo-2025341700",
+        "date": "2025-03-04 21:00:00",
+        "sentiment_score": 0.7354063633829355
+    },
+    {
+        "title": "CBP: El ingreso de huevos provenientes de México está prohibido y las multas pueden ser de hasta $10.000",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741121875334.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/cbp-el-ingreso-de-huevos-provenientes-de-mexico-esta-prohibido-y-las-multas-pueden-ser-de-hasta-10-000-20253416480",
+        "date": "2025-03-04 20:48:00",
+        "sentiment_score": -0.04134642332792282
     }
 ];
