@@ -100,46 +100,6 @@ export default [
         "sentiment_score": -0.08632456511259079
     },
     {
-        "title": "«Un nido de espías»: el megaproyecto chino en Europa por el que pasan los cables de uno de los centros financieros más importantes del planeta",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/16/emba-RhmYsG0u2EpSmdyVTxdPz9H-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nido-espias-megaproyecto-chino-europa-pasan-cables-20250302070000-nt.html",
-        "date": "2025-03-01 13:54:12",
-        "sentiment_score": -0.08013218641281128
-    },
-    {
-        "title": "Marine Le Pen apoya el eje Trump-Putin contra Ucrania y Europa",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/lepen-k9ZH-U70361439609JtE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/marine-pen-apoya-eje-trumpputin-ucrania-europa-20250301143233-nt.html",
-        "date": "2025-03-01 13:32:34",
-        "sentiment_score": -0.08955532312393188
-    },
-    {
-        "title": "Starmer y Zelenski adelantan la reunión a este sábado en medio de la tensión tras el encuentro con Trump",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/starmer-kQnC-U703612464343NF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/starmer-zelenski-adelantan-reunion-sabado-medio-tension-20250301135512-nt.html",
-        "date": "2025-03-01 13:13:04",
-        "sentiment_score": 0.022764891386032104
-    },
-    {
-        "title": "«La furia hierve en el Despacho Oval»: la prensa internacional reacciona a la bronca de Trump a Zelenski",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/6-kAAC-U703596873141YE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/furia-hierve-despacho-oval-prensa-internacional-reacciona-20250301111025-nt.html",
-        "date": "2025-03-01 10:29:14",
-        "sentiment_score": -0.24401865899562836
-    },
-    {
         "title": "Los trenes de las líneas R2 y R4 acumulan retrasos generalizados",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JGTKN723EVAFTNQPNTCSZRP7SE.jpg?auth=a7355e75162ced3bcebf19aa38260b7b76bca2fa7351f4a10f9038aaa832c2f8&width=1200",
         "tags": [
@@ -236,27 +196,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-03-01/barcelona-asesorara-a-las-comunidades-de-vecinos-para-evitar-la-instalacion-de-pisos-turisticos.html",
         "date": "2025-03-01 15:11:05",
         "sentiment_score": 0.28045257180929184
-    },
-    {
-        "title": "Los partidos españoles, salvo Vox y Podemos, cierran filas con Ucrania",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HPRWW47CKRV73SCPA35XQIQXLQ.jpg?auth=4b2c5c63cbfc96beab7fb9df8e72383f386c4b24cff21ae421e3f0c163336e30&width=1200",
-        "tags": [
-            "ucrania",
-            "pp",
-            "alberto núñez feijóo",
-            "españa",
-            "donald trump",
-            "pedro sánchez",
-            "guerra de rusia en ucrania",
-            "volodimir zelenski",
-            "casa blanca",
-            "santiago abascal",
-            "psoe",
-            "vox"
-        ],
-        "link": "https://elpais.com/espana/2025-03-01/los-partidos-espanoles-salvo-vox-y-podemos-cierran-filas-con-ucrania.html",
-        "date": "2025-03-01 12:35:08",
-        "sentiment_score": -0.9005573242902756
     },
     {
         "title": "Directo | Betis - Real Madrid",
@@ -7795,5 +7734,496 @@ export default [
         "link": "https://2001online.com/usa/internacionales/cbp-el-ingreso-de-huevos-provenientes-de-mexico-esta-prohibido-y-las-multas-pueden-ser-de-hasta-10-000-20253416480",
         "date": "2025-03-04 20:48:00",
         "sentiment_score": -0.04134642332792282
+    },
+    {
+        "title": "España y América Latina, más cerca gracias al acuerdo UE-Mercosur, según Glocal Fórum 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/13/espana-y-america-latina-mas-cerca-gracias-al-acuerdo-ue-mercosur-segun-glocal-forum-2024/",
+        "date": "2025-03-05 02:03:43",
+        "sentiment_score": 0.5256609693169594
+    },
+    {
+        "title": "Reino Unido reforma su sistema energético para alcanzar la carboneutralidad en 2030",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/13/reino-unido-reforma-su-sistema-energetico-para-alcanzar-la-carboneutralidad-en-2030/",
+        "date": "2025-03-05 02:02:15",
+        "sentiment_score": 0.7369111757725477
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 5 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/B7HSCV3EGRCETDL3HZRHE3TYKI.jpg?auth=1debe4b7b77228b99ce105e24bb81448606220c060ec6f274c2bd9019640226e&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/03/05/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-5-de-marzo/",
+        "date": "2025-03-05 02:01:27",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Aemet amplía al jueves la alerta naranja por lluvia en gran parte de Comunidad Valenciana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/05/aemet-amplia-al-jueves-la-alerta-naranja-por-lluvia-en-gran-parte-de-comunidad-valenciana/",
+        "date": "2025-03-05 01:45:46",
+        "sentiment_score": -0.19866742938756943
+    },
+    {
+        "title": "Bolivia calcula que carnavales generaron movimiento económico de 89,4 millones de euros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/05/bolivia-calcula-que-carnavales-generaron-movimiento-economico-de-894-millones-de-euros/",
+        "date": "2025-03-05 01:01:26",
+        "sentiment_score": 0.4799635298550129
+    },
+    {
+        "title": "Tres heridos leves al chocar un tren de la R3 con una piedra en Ribes de Freser (Girona)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/tres-heridos-leves-al-chocar-un-tren-de-la-r3-con-una-piedra-en-ribes-de-freser-girona/",
+        "date": "2025-03-04 23:30:54",
+        "sentiment_score": -0.8136239089071751
+    },
+    {
+        "title": "El cuidado de hijos ocupa al 37 % de las mujeres frente al 5,6 de los hombres, según Oxfam",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/el-cuidado-de-hijos-ocupa-al-37-de-las-mujeres-frente-al-56-de-los-hombres-segun-oxfam/",
+        "date": "2025-03-04 23:16:31",
+        "sentiment_score": 0.04422859102487564
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 5 de marzo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/04/hoy-sera-noticia-miercoles-5-de-marzo/",
+        "date": "2025-03-04 23:16:14",
+        "sentiment_score": 0.036398421972990036
+    },
+    {
+        "title": "Eva Soriano asegura en ‘La Revuelta’ que los hombres están “descolocados” a la hora de ligar: “Se bloquean y hacen la cosa más absurda que se les ocurre”",
+        "image_url": "https://www.infobae.com/resizer/v2/QRYH72ZCYBCORCTG2L5L54OHMA.jpeg?auth=3aec04a3e539f71715e6957159d52f98834277e2199a2a8e275f189c6982dd74&height=608&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/03/04/eva-soriano-confiesa-en-la-revuelta-que-los-hombres-estan-descolocados-a-la-hora-de-ligar-se-bloquean-y-hacen-la-cosa-mas-absurda-que-se-les-ocurre/",
+        "date": "2025-03-04 23:09:55",
+        "sentiment_score": 0.2864512503147125
+    },
+    {
+        "title": "Diego, un soltero de 78 años, se emociona en ‘First Dates’ al recibir su primer beso en años: “Cuánto tiempo hacía, por Dios”",
+        "image_url": "https://www.infobae.com/resizer/v2/HNPLUKRPS5ASNPMAIHEPFKGUZ4.jpg?auth=24ccc5dbc010b915786d62afff1e3c6361203751dcd7a45e91fd9588be976a26&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/03/04/diego-un-soltero-de-78-anos-se-emociona-en-first-dates-al-recibir-su-primer-beso-en-anos-cuanto-tiempo-hacia-por-dios/",
+        "date": "2025-03-04 23:01:54",
+        "sentiment_score": 0.13755127042531967
+    },
+    {
+        "title": "¿Cómo afectan los nuevos aranceles a la industria de autopartes de México?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-1659947972-20250213211505409.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/impacto-aranceles-autopartes-mexico-panorama-mundial-tv/",
+        "date": "2025-03-05 01:25:27",
+        "sentiment_score": -0.02118973433971405
+    },
+    {
+        "title": "China responde con aranceles y restricciones a EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/cnne-647715-china-shipping.jpeg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/china-reax-aranceles-restricciones-eeuu-trump-panorama-mundial-tv/",
+        "date": "2025-03-05 01:24:54",
+        "sentiment_score": 0.09546579420566559
+    },
+    {
+        "title": "Estos son 5 mitos comunes sobre el VPH",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/virus-vph-mitos-comunes-minuto-de-salud-fast/",
+        "date": "2025-03-05 01:05:55",
+        "sentiment_score": -0.5381675716489553
+    },
+    {
+        "title": "\"Vamos contra el nepotismo, pero ahorita no\", critica diputada mexicana que se aplazara la reforma a 2030",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/still-21431746-6605-703-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/congreso-mexico-reforma-nepotismo-electoral-203o-perspectivas-mexico-tv-fast/",
+        "date": "2025-03-05 00:55:32",
+        "sentiment_score": -0.6351857557892799
+    },
+    {
+        "title": "¿Sheinbaum podrá negociar la aplicación de aranceles con Trump?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/trump-sheinbaum.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-trump-aranceles-negociacion-respuesta-perspectivas-mexico-tv/",
+        "date": "2025-03-05 00:52:57",
+        "sentiment_score": -0.8268192689865828
+    },
+    {
+        "title": "Zelensky reitera compromiso de paz tras encuentro con Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2202261780.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/zelensky-trump-compromiso-dialogo-trax/",
+        "date": "2025-03-05 00:39:20",
+        "sentiment_score": 0.39946506917476654
+    },
+    {
+        "title": "El gusano de terciopelo es el \"insecto del año\" en Nueva Zelandia",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/peripatus-rod-morris565.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/gusano-terciopelo-insecto-nueva-zelandia-perspectivas-mexico-tv-fast/",
+        "date": "2025-03-05 00:25:38",
+        "sentiment_score": -0.09006375819444656
+    },
+    {
+        "title": "Jueces de la Corte Suprema, escépticos ante la demanda de México contra los fabricantes de armas en EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-1241484609.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-mexico-demanda-violencia-fabricantes-armas-directo-usa-tv/",
+        "date": "2025-03-04 23:38:51",
+        "sentiment_score": -0.7310688979923725
+    },
+    {
+        "title": "¿Qué supone para los consumidores en EE.UU. la imposición de aranceles de Trump?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-1247164920-20250304214325942.jpg?quality=100&strip=info",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eeuu-impacto-aranceles-economia-productos-donald-trump-directo-usa-tv/",
+        "date": "2025-03-04 23:29:21",
+        "sentiment_score": -0.12846392393112183
+    },
+    {
+        "title": "Diputados opositores lanzan granadas de humo y gases lacrimógenos en el Parlamento serbio",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/2025-03-04t115821z-1001469490-rc2b6dacvch4-rtrmadp-3-serbia-parliament.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-diputados-granadas-humo-gases-parlamento-serbio-orix/",
+        "date": "2025-03-04 23:04:40",
+        "sentiment_score": -0.8797503327950835
+    },
+    {
+        "title": "Tango, robots, nostalgia analógica y futuro digital en una nave industrial de Vallecas",
+        "image_url": "https://phantom-elmundo.uecdn.es/ae471f7c9db628e02bbfebf96faabeb1/crop/0x797/2281x2318/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/04/17411008459733.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/03/05/67c716d0fdddff57b58b457c.html",
+        "date": "2025-03-05 02:08:47",
+        "sentiment_score": 0.08436983078718185
+    },
+    {
+        "title": "José Bordalás: \"No le damos mayor importancia a que no hayamos sido capaces de ganar al Atlético\"",
+        "image_url": "https://www.infobae.com/resizer/v2/LK77YF2FJVBVVCUEVMS6R7HMNE.jpg?auth=daf8814a97ba76ccdebadd0e31d556c71a9cfa304bdecc31e25aa73681428032&height=1281&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/13/jose-bordalas-no-le-damos-mayor-importancia-a-que-no-hayamos-sido-capaces-de-ganar-al-atletico/",
+        "date": "2025-03-05 02:03:30",
+        "sentiment_score": 0.8187850285321474
+    },
+    {
+        "title": "La exabogada del 'rey del cachopo' muestra un dibujo que le hizo el asesino desde la cárcel: \"Estaba obsesionado conmigo\"",
+        "image_url": "https://album.mediaset.es/eimg/2025/03/05/2025-03-05-0031-rec-cuatro-rec-ts-0x0-156702122777700_1f94.jpg?w=1024",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.cuatro.com/noticias/20250305/rey-cachopo-dibujo-abogada-asesino-carcel_18_014938329.html",
+        "date": "2025-03-05 01:32:34",
+        "sentiment_score": -0.6392250396311283
+    },
+    {
+        "title": "Fernando Martín intenta esquivar ahora la cárcel: Cuántos millones le pagó a la Gürtel",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/martinsa2_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/fernando-martin-intenta-esquivar-carcel-admitiendo-que-pago-7-millones-gurtel",
+        "date": "2025-03-05 01:30:00",
+        "sentiment_score": -0.8158252909779549
+    },
+    {
+        "title": "La petición de los jugadores para frenar el boicot a Premier Padel: \"Renegociar el primer contrato\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/03/05/67c7a306af5fe.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/peticion-jugadores-frenar-boicot-premier-padel-renegociar-primer-contrato-20250305_3106892.html",
+        "date": "2025-03-05 01:11:37",
+        "sentiment_score": -0.11914137005805969
+    },
+    {
+        "title": "Benfica – FC Barcelona en la Champions League 24/25: previa, hora, cuándo y cómo ver por TV e internet",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/03/04/benfica-fc-barcelona-champions-league-previa-cuando-como-ver-tv-internet-orix/",
+        "date": "2025-03-05 01:03:49",
+        "sentiment_score": 0.038246866315603256
+    },
+    {
+        "title": "¿Cómo ver la jornada del miércoles 5 de marzo de la Champions League en Estados Unidos?",
+        "image_url": "https://pxcdn.meridiano.net/032025/1741136652851.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/futbol/futbol-internacional/como-ver-la-jornada-del-miercoles-5-de-marzo-de-la-champions-league-en-estados-unidos--2025342120",
+        "date": "2025-03-05 01:02:00",
+        "sentiment_score": 0.15201470255851746
+    },
+    {
+        "title": "Mbappé y Vinícius pasan desapercibidos pero Díaz brilla con el Madrid frente al Atlético",
+        "image_url": "https://dims.apnews.com/dims4/default/c1daac7/2147483647/strip/true/crop/1898x1263+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F83%2F6f23a0bddd7b59ddcd5e1ce9813d%2F9aa79ae713664ee3ad08a0b56468cfa6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/brahim-diaz-real-madrid-mbappe-vinicius-champions-649c0da7571008afd0607bf2a5951291",
+        "date": "2025-03-05 00:59:52",
+        "sentiment_score": 0.4043682962656021
+    },
+    {
+        "title": "Real Madrid golpeó primero en el derbi contra el Atlético en champions",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eltiempove.com/real-madrid-golpeo-primero-en-el-derbi-contra-el-atletico-en-champions/",
+        "date": "2025-03-05 00:55:38",
+        "sentiment_score": 0.34232594072818756
+    },
+    {
+        "title": "Así fue la actuación del hijo del Cholo Simeone ante el Real Madrid (+Estadísticas)",
+        "image_url": "https://pxcdn.meridiano.net/032025/1741136948286.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/asi-fue-la-actuacion-del-hijo-del-cholo-simeone-ante-el-real-madrid-estadisticas--20253420530",
+        "date": "2025-03-05 00:53:00",
+        "sentiment_score": 0.8877528384327888
+    },
+    {
+        "title": "Viladecans será salida de etapa en la Volta a Catalunya 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/IOWOQKNK25BDRF5DERTRWCMA7M.jpg?auth=5842a2ec4c6ae0eb5c69943f10f8ef82afcb68452399dfc51eff5abfb8cc6b48&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/13/viladecans-sera-salida-de-etapa-en-la-volta-a-catalunya-2025/",
+        "date": "2025-03-05 02:04:28",
+        "sentiment_score": 0.7496993560343981
+    },
+    {
+        "title": "Barcelona prueba un sistema con IA en autobuses para detectar invasiones de los carriles reservados",
+        "image_url": "https://album.mediaset.es/eimg/2025/02/28/imagen-de-lo-que-captan-las-camaras-de-hayden-ai-en-un-autobus-de-los-estados-unidos_19a8.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250305/barcelona-prueba-autobuses-ia-detectar-invasiones-carril_18_014903982.html",
+        "date": "2025-03-05 02:00:28",
+        "sentiment_score": -0.7402962520718575
+    },
+    {
+        "title": "La CNMC no exigirá a BBVA vender negocios para la fusión",
+        "image_url": "https://phantom-expansion.uecdn.es/34f6b7495417600765a9fb68baf4537f/crop/64x56/1934x1304/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/04/17200792061458.jpg",
+        "tags": [
+            "artículos alejandro montoro",
+            "banca"
+        ],
+        "link": "https://www.expansion.com/empresas/banca/2025/03/05/67c77192e5fdeaeb3e8b45b9.html",
+        "date": "2025-03-05 01:13:47",
+        "sentiment_score": -0.5985101573169231
+    },
+    {
+        "title": "LITEON reúne un equipo global para el MWC 2025",
+        "image_url": "https://mma.prnewswire.com/media/2633122/LITEON_Technology__________MWC.jpg?p=publish",
+        "tags": [
+            "ite",
+            "afi",
+            "stw",
+            "tls",
+            "internet technology",
+            "computer software",
+            "telecommunications industry",
+            "computer & electronics",
+            "artificial intelligence",
+            "cpr"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/liteon-reune-un-equipo-global-para-el-mwc-2025-302392390.html",
+        "date": "2025-03-05 01:09:00",
+        "sentiment_score": 0.5796521753072739
+    },
+    {
+        "title": "El Benfica marca el camino a Laporta con la venta de canteranos: 600 millones en 10 años",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/03/05/culemania/palco/928917103_14211909_1706x960.jpg?contentId=ESPIMA20250305_0004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250305/el-benfica-marca-camino-laporta-canteranos-millones/928657263_0.html",
+        "date": "2025-03-05 01:04:53",
+        "sentiment_score": 0.8305311854928732
+    },
+    {
+        "title": "He probado el móvil plegable que desafía a la física en el Mobile: delgadez al extremo para no molestar en tu bolsillo",
+        "image_url": "https://s1.elespanol.com/2025/03/03/elandroidelibre/moviles-android/analisis/928417946_253572772_1706x960.jpg?contentId=ESPIMA20250303_0797",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/elandroidelibre/moviles-android/analisis/20250305/probado-movil-plegable-desafia-fisica-mobile-delgadez-extremo-no-molestar-bolsillo/928407303_0.html",
+        "date": "2025-03-05 01:03:30",
+        "sentiment_score": 0.3265075758099556
+    },
+    {
+        "title": "Alianza Lima vence a Iquique y toma ventaja en Fase 3 de Copa Libertadores",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/copa-libertadores-alianza-lima-iquique-84d7a39f948b9c7a2ed8bc5d9e823a76",
+        "date": "2025-03-05 00:34:25",
+        "sentiment_score": 0.6581289060413837
+    },
+    {
+        "title": "La ONCE ve la IA como «un acompañante» contra la soledad para personas con discapacidad",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2025/03/once-acompanante-soledad-personas-1024x576.webp",
+        "tags": [
+            "nuevas tecnologías"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/la-once-ve-la-ia-como-un-acompanante-contra-la-soledad-para-personas-con-discapacidad/",
+        "date": "2025-03-05 00:26:25",
+        "sentiment_score": 0.07931508868932724
+    },
+    {
+        "title": "SNTP: Informan sobre la detención del periodista Román Camacho",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741138486537.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/sntp-informan-la-sobre-la-detencion-del-periodista-roman-camacho-20253421240",
+        "date": "2025-03-05 01:24:00",
+        "sentiment_score": -0.4701152890920639
+    },
+    {
+        "title": "Redadas ICE del 04 de marzo: destaca el arresto de un dueño de restaurante por albergar inmigrantes",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741136811422.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-04-de-marzo-destaca-el-arresto-de-un-dueno-de-restaurante-por-albergar-inmigrantes-2025342160",
+        "date": "2025-03-05 01:06:00",
+        "sentiment_score": -0.7484907042235136
+    },
+    {
+        "title": "Sigue la polémica: Daddy Yankee demanda a Mireddys González y su hermana por $250 millones",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741136672839.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/sigue-la-polemica-daddy-yankee-demanda-a-mireddys-gonzalez-y-su-hermana-por-250-millones-2025342150",
+        "date": "2025-03-05 01:05:00",
+        "sentiment_score": -0.8386632800102234
+    },
+    {
+        "title": "Jornadas de cedulación Saime: Sepa dónde habrá operativo este 5 de marzo",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741106143811.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/jornadas-de-cedulacion-saime-sepa-donde-habra-operativo-este-5-de-marzo-2025342100",
+        "date": "2025-03-05 01:00:00",
+        "sentiment_score": 0.031864773482084274
+    },
+    {
+        "title": "Miércoles de ceniza en Chicago: estos son los lugares donde habrá misa",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741138934217.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/miercoles-de-ceniza-en-chicago-estos-son-los-lugares-donde-habra-misa-20253420560",
+        "date": "2025-03-05 00:56:00",
+        "sentiment_score": 0.5037499666213989
+    },
+    {
+        "title": "Cambios con Zelle en 2025: hasta el 31 de marzo estos clientes podrán usar la aplicación",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741135837605.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cambios-con-zelle-en-2025-hasta-el-31-de-marzo-estos-clientes-podran-usar-la-aplicacion-20253420440",
+        "date": "2025-03-05 00:44:00",
+        "sentiment_score": -0.6815450619906187
+    },
+    {
+        "title": "Primer bono especial de marzo: conozca la fecha de pago y el monto que se asignaría",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741134288581.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/primer-bono-especial-de-marzo-conozca-la-fecha-de-pago-y-el-monto-que-se-asignaria-20253420210",
+        "date": "2025-03-05 00:21:00",
+        "sentiment_score": 0.15781643986701965
+    },
+    {
+        "title": "Cambios en las políticas migratorias de USA: tres programas dejan de admitir nuevas solicitudes",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741134068556.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cambios-en-las-politicas-migratorias-de-usa-tres-programas-dejan-de-admitir-nuevas-solicitudes-20253420200",
+        "date": "2025-03-05 00:20:00",
+        "sentiment_score": -0.5344897136092186
+    },
+    {
+        "title": "Seniat: Siete pasos para declarar el ISLR en línea",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741107409412.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/seniat-siete-pasos-para-declarar-el-islr-en-linea-2025342000",
+        "date": "2025-03-05 00:00:00",
+        "sentiment_score": 0.13576715625822544
+    },
+    {
+        "title": "Target advierte que en pocos días aumentarán precios por los aranceles: Best Buy también se prepara",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741132020806.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/target-advierte-que-en-pocos-dias-aumentaran-precios-por-los-aranceles-best-buy-tambien-se-prepara-20253419500",
+        "date": "2025-03-04 23:50:00",
+        "sentiment_score": -0.051777541637420654
     }
 ];
