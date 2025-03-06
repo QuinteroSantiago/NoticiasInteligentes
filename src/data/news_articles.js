@@ -1,906 +1,5 @@
 export default [
     {
-        "title": "McLaughlin logra la pole en St. Petersburg con Palou octavo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/01/mclaughlin-logra-la-pole-en-st-petersburg-con-palou-octavo/",
-        "date": "2025-03-01 22:02:10",
-        "sentiment_score": 0.41814571619033813
-    },
-    {
-        "title": "Milagros fusiona España y Latinoamérica en su gira colombiana con “Hecha de pedazos”",
-        "image_url": "https://www.infobae.com/resizer/v2/NORAVYTVI5GCHAMY4IBCHX2HTM.png?auth=4054a180774fa52de3e3bff9625348498e4f5a49940bd02d0909e346c4c39538&height=582&smart=true&width=1077",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/03/01/milagros-fusiona-espana-y-latinoamerica-en-su-gira-colombiana-con-hecha-de-pedazos/",
-        "date": "2025-03-01 21:50:00",
-        "sentiment_score": 0.3543191868811846
-    },
-    {
-        "title": "Números ganadores de la Primitiva de este 1 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/GJQFZWJENRGMZM5XF2PKTFSUS4.jpg?auth=dc25d6be878fe2a2164f8125eb909b020d79d5e78fa79964bb7d02d1d86dbd29&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/03/01/numeros-ganadores-de-la-primitiva-de-este-1-de-marzo/",
-        "date": "2025-03-01 21:30:40",
-        "sentiment_score": 0.4468725733458996
-    },
-    {
-        "title": "32-30. El Cuenca gana un partidazo ante un Bidasoa que prolonga su mala racha en El Sargal",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/01/32-30-el-cuenca-gana-un-partidazo-ante-un-bidasoa-que-prolonga-su-mala-racha-en-el-sargal/",
-        "date": "2025-03-01 21:02:59",
-        "sentiment_score": 0.058605313301086426
-    },
-    {
-        "title": "El Ferencváros no falla y el Mataró pasa segundo; el Sabadell y el Sant Andreu, primeros",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/01/el-ferencvaros-no-falla-y-el-mataro-pasa-segundo-el-sabadell-y-el-sant-andreu-primeros/",
-        "date": "2025-03-01 21:02:41",
-        "sentiment_score": -0.07807274162769318
-    },
-    {
-        "title": "Galarreta será baja ante el Mallorca por acumulación de amonestaciones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/01/galarreta-sera-baja-ante-el-mallorca-por-acumulacion-de-amonestaciones/",
-        "date": "2025-03-01 21:02:25",
-        "sentiment_score": -0.701223773881793
-    },
-    {
-        "title": "Resultados ganadores de la lotería 6/49 de este 1 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/RNLZ26CCQFFDRAT6M7X4FXDW4Y.jpg?auth=7f804040fd96b11bcd77c52015cdfb3d5f10148fe9c3e340c4e7e492a34b1b1f&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/03/01/resultados-ganadores-de-la-loteria-649-de-este-1-de-marzo/",
-        "date": "2025-03-01 21:00:24",
-        "sentiment_score": 0.03590221703052521
-    },
-    {
-        "title": "Suiza no repetirá referéndum que retrasó la jubilación femenina, impugnado por los Verdes",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/12/suiza-no-repetira-referendum-que-retraso-la-jubilacion-femenina-impugnado-por-los-verdes/",
-        "date": "2025-03-01 20:49:12",
-        "sentiment_score": -0.11592714488506317
-    },
-    {
-        "title": "Laura Redondo gana por décima vez en martillo y Nneka Naomey se estrena en disco",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/01/laura-redondo-gana-por-decima-vez-en-martillo-y-nneka-naomey-se-estrena-en-disco/",
-        "date": "2025-03-01 20:46:36",
-        "sentiment_score": 0.37842122465372086
-    },
-    {
-        "title": "Ceballos siguió el duelo de sus dos equipos en el Benito Villamarín",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/01/ceballos-siguio-el-duelo-de-sus-dos-equipos-en-el-benito-villamarin/",
-        "date": "2025-03-01 20:46:19",
-        "sentiment_score": -0.013702601194381714
-    },
-    {
-        "title": "Así fue el rescate de un niño atrapado en un Pozo en Perú",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/nino-del-pozo-ancho-00-00-01-13-still001.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rescate-nino-peru-pozo-orix/",
-        "date": "2025-03-01 20:54:23",
-        "sentiment_score": -0.4670657031238079
-    },
-    {
-        "title": "Guyana acusa a Venezuela de invadir sus aguas territoriales, pero Caracas lo niega",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/Guyana-kaUD-U70364823021ZVE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/guyana-acusa-venezuela-invadir-aguas-territoriales-caracas-20250301231112-nt.html",
-        "date": "2025-03-01 22:11:12",
-        "sentiment_score": -0.10148870944976807
-    },
-    {
-        "title": "Un asesor de Trump niega una «emboscada» a Zelenski y habla de su salida del Despacho Oval: «El equipo casi lloraba»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/MikeWaltz-kxDH-U70363777421oNH-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/asesor-trump-niega-emboscada-zelenski-habla-salida-20250301213107-nt.html",
-        "date": "2025-03-01 20:43:05",
-        "sentiment_score": -0.16934528946876526
-    },
-    {
-        "title": "Starmer abraza a Zelenski tras el choque con Trump mientras Europa cierra filas con Ucrania",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/starmer-zelensky-RUOfQIzK5P1kzV1WDmcrFwJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/starmer-abraza-zelenski-tras-choque-trump-europa-20250301195031-nt.html",
-        "date": "2025-03-01 18:51:27",
-        "sentiment_score": 0.06297191977500916
-    },
-    {
-        "title": "Familiares de las víctimas de la dana exigen por quinta vez la renuncia de Mazón: “Es una burla, no aguantamos más”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LIH3PGEKQZDQBCD4F5WPWU2VZ4.jpg?auth=afbdeee1ae15f728395ba333f243bd3f92de93d77d2669039cc6ee7bf0cd9207&width=1200",
-        "tags": [
-            "dana",
-            "protestas sociales",
-            "inundaciones dana octubre 2024",
-            "dimisiones políticas",
-            "valencia",
-            "carlos mazón",
-            "manifestaciones",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-01/familiares-de-las-victimas-de-la-dana-exigen-por-quinta-vez-la-renuncia-de-mazon-es-una-burla-no-aguantamos-mas.html",
-        "date": "2025-03-01 19:23:28",
-        "sentiment_score": -0.5693863406777382
-    },
-    {
-        "title": "Detenida por homicidio una conductora implicada en un accidente con un muerto y cinco heridos en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/K2WNAXQSJRH3FBRDBVEOEQCVA4.jpg?auth=539c7db04843548dafd93bdbdb509578e031679ed1af1d603f6bfea32e934193&width=1200",
-        "tags": [
-            "turismos",
-            "carreteras",
-            "coches",
-            "detenciones",
-            "homicidios",
-            "accidentes tráfico",
-            "cataluña",
-            "policía",
-            "mossos d'esquadra",
-            "accidentes"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-03-01/detenida-por-homicidio-una-conductora-implicada-en-un-accidente-con-un-muerto-y-cinco-heridos-en-barcelona.html",
-        "date": "2025-03-01 19:18:43",
-        "sentiment_score": -0.6597048379480839
-    },
-    {
-        "title": "Julián Álvarez vuelve a arañar y el Atlético duerme líder",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/03/01/atletico-athletic-julian-alvarez-kVE--1920x1080@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariosur.es/deportes/futbol/liga-primera/cronica-atletico-athletic-jornada26-primera-20250301180542-ntrc.html",
-        "date": "2025-03-01 22:10:24",
-        "sentiment_score": 0.35472775995731354
-    },
-    {
-        "title": "Canarias está blindada contra el sarampión, salvo en ciertos núcleos con muchas personas sin vacunar",
-        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2025/02/28/199361372-kiv--1200x840@Canarias7.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.canarias7.es/sociedad/salud/canarias-blindada-sarampion-salvo-ciertos-nucleos-personas-20250302211848-nt.html",
-        "date": "2025-03-01 22:05:30",
-        "sentiment_score": -0.8699047556146979
-    },
-    {
-        "title": "1-0. Julián Alvarez y los palos marcan la diferencia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/03/01/1-0-julian-alvarez-y-los-palos-marcan-la-diferencia/",
-        "date": "2025-03-01 22:01:32",
-        "sentiment_score": 0.47818663343787193
-    },
-    {
-        "title": "1-0. Un gol de Julián Alvarez presiona al Barcelona y frustra al Athletic",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/03/01/1-0-un-gol-de-julian-alvarez-presiona-al-barcelona-y-frustra-al-athletic/",
-        "date": "2025-03-01 22:01:09",
-        "sentiment_score": -0.7878453023731709
-    },
-    {
-        "title": "Chus Mateo necesita a Rathan-Mayes, pero su rendimiento sigue sin despegar",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/01/2025030122541594479.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/rathan-mayes-busca-sitio-madrid-fiasco-dennis-smith/20250301225531335771.html",
-        "date": "2025-03-01 21:55:31",
-        "sentiment_score": -0.37719858065247536
-    },
-    {
-        "title": "La Comisión Europea revisa la legalidad de las actuales bonificaciones a camiones en el Huerna",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/03/01/102801768.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/asturias/comision-europea-revisa-legalidad-actuales-bonificaciones-camiones-20250302223252-nt.html",
-        "date": "2025-03-01 21:50:26",
-        "sentiment_score": 0.041307687759399414
-    },
-    {
-        "title": "El desfile de Carnaval tiñe Palencia de fiesta y de disfraces",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/02/25/carna-k6jF--366x256@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/palencia/desfile-carnaval-tine-palencia-fiesta-disfraces-20250301224120-nt.html",
-        "date": "2025-03-01 21:41:21",
-        "sentiment_score": -0.07224905490875244
-    },
-    {
-        "title": "Del Fuente Vaqueros de Lorca a Cadaqués: siete lugares para conocer la historia de grandes personajes españoles",
-        "image_url": "https://static.eldiario.es/clip/df78a851-3092-4aea-8304-1873be16109d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/viajes/fuente-vaqueros-lorca-cadaques-siete-lugares-conocer-historia-grandes-personajes-espanoles_1_12089798.html",
-        "date": "2025-03-01 21:40:42",
-        "sentiment_score": 0.010039210319519043
-    },
-    {
-        "title": "CaixaBank reafirma su apuesta por la sostenibilidad y la innovación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b987a13d-39da-47b0-bdf7-8767ef865cd6_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20250301/caixabank-reafirma-apuesta-sostenibilidad-innovacion-114793325",
-        "date": "2025-03-01 21:59:15",
-        "sentiment_score": 0.5910194255411625
-    },
-    {
-        "title": "Telefónica presenta las soluciones tecnológicas más disruptivas en el MWC 2025",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2df35a94-99f6-46c8-afeb-cdb84de22151_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/ideas/Telefonica-MWC-2025/index.html",
-        "date": "2025-03-01 21:59:15",
-        "sentiment_score": 0.40402521565556526
-    },
-    {
-        "title": "Un policía asesinado en un motín en los juzgados",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/03/01/102802528-ktlF--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/gijon/policia-asesinado-motin-juzgados-20250302223329-nt.html",
-        "date": "2025-03-01 21:50:06",
-        "sentiment_score": -0.7303897347301245
-    },
-    {
-        "title": "«Nuestro criterio es maximizar los ingresos para invertir, pero sin subir impuestos»",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/03/01/102815969-kEqC--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcomercio.es/gijon/criterio-maximizar-ingresos-invertir-subir-impuestos-20250302223326-nt.html",
-        "date": "2025-03-01 21:50:05",
-        "sentiment_score": 0.18959350138902664
-    },
-    {
-        "title": "El legado de Paco Candel que alumbra la acogida de los 'nuevos catalanes' del siglo XXI",
-        "image_url": "https://static.eldiario.es/clip/c6100588-a241-4084-b8a9-b2f2f4fa2301_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/catalunya/legado-paco-candel-alumbra-acogida-nuevos-catalanes-siglo-xxi_1_12072907.html",
-        "date": "2025-03-01 21:40:41",
-        "sentiment_score": -0.18391406536102295
-    },
-    {
-        "title": "Del desahucio de Tatiana al drama del alquiler: las imágenes que retratan la lucha por el derecho a la vivienda",
-        "image_url": "https://static.eldiario.es/clip/924f4cae-aaf1-4fd7-bab7-8af5dc2b69d5_16-9-discover-aspect-ratio_default_1112538.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.eldiario.es/economia/desahucio-tatiana-drama-alquiler-imagenes-retratan-lucha-derecho-vivienda_1_12085803.html",
-        "date": "2025-03-01 21:40:36",
-        "sentiment_score": -0.1306425929069519
-    },
-    {
-        "title": "El Abanca Ademar no se fía del colista Huesca",
-        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/03/01/67c37cc5a2b64.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.diariodeleon.es/deportes/250301/1881888/ademar-fia-colista-huesca.html",
-        "date": "2025-03-01 21:34:16",
-        "sentiment_score": -0.8929629400372505
-    },
-    {
-        "title": "La explosiva frase de Ancelotti tras la caída del Real Madrid en la previa del duelo de octavos en la Champions League",
-        "image_url": "https://www.infobae.com/resizer/v2/AO3L6PIYDCG446EDURLBM5ASPA.jpg?auth=756f6ba505962a60835f85494d88cf9b048a0e4d3f08c41ed741a34f50ea39c4&height=3720&smart=true&width=5375",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/03/01/la-explosiva-frase-de-ancelotti-tras-la-caida-del-real-madrid-en-la-previa-del-duelo-de-octavos-en-la-champions/",
-        "date": "2025-03-01 21:23:09",
-        "sentiment_score": -0.7064141780138016
-    },
-    {
-        "title": "Cinco factores que aumentan el riesgo de osteoporosis",
-        "image_url": "https://pxcdn.2001online.com/2001/022025/1740604141116.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "variedades - salud"
-        ],
-        "link": "https://2001online.com/zona3d/salud/cinco-factores-que-aumentan-el-riesgo-de-osteoporosis-2025311800",
-        "date": "2025-03-01 22:00:00",
-        "sentiment_score": -0.44593654572963715
-    },
-    {
-        "title": "Estas son las oficinas del DMV habilitadas para tramitar Real ID los sábados en Illinois: Conoce los horarios de atención",
-        "image_url": "https://pxcdn.2001online.com/2001/032025/1740865133981.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/estas-son-las-oficinas-del-dmv-habilitadas-para-tramitar-real-id-los-sabados-en-illinois-conoce-los-horarios-de-atencion-20253117340",
-        "date": "2025-03-01 21:34:00",
-        "sentiment_score": -0.044707708060741425
-    },
-    {
-        "title": "Pasos para participar en el Sistema de Gobierno Popular: debes acceder a través de la Plataforma Patria",
-        "image_url": "https://pxcdn.2001online.com/2001/032025/1740864566407.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/pasos-para-participar-en-el-sistema-de-gobierno-popular-debes-acceder-a-traves-de-la-plataforma-patria-20253117280",
-        "date": "2025-03-01 21:28:00",
-        "sentiment_score": 0.009855836629867554
-    },
-    {
-        "title": "Hombre mata a su amigo de una puñalada tras una acalorada discusión: estaba en estado de embriaguez",
-        "image_url": "https://pxcdn.2001online.com/2001/032025/1740864222712.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/hombre-mata-a-su-amigo-de-una-punalada-tras-una-acalorada-discusion-estaba-en-estado-de-embriaguez-2025311760",
-        "date": "2025-03-01 21:06:00",
-        "sentiment_score": -0.47893983125686646
-    },
-    {
-        "title": "Niña es arrastrada hasta la muerte durante el robo de un auto: los responsables son dos adolescentes",
-        "image_url": "https://pxcdn.2001online.com/2001/032025/1740803216418.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/nina-es-arrastrada-hasta-la-muerte-durante-el-robo-de-un-auto-los-responsables-son-dos-adolescentes-2025311700",
-        "date": "2025-03-01 21:00:00",
-        "sentiment_score": -0.8150781542062759
-    },
-    {
-        "title": "Lujoso y con el logo de Loba: Así luce el nuevo avión de Shakira",
-        "image_url": "https://pxcdn.2001online.com/2001/022025/1740625592212.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/lujoso-y-con-el-logo-de-loba-asi-luce-el-nuevo-avion-de-shakira--2025311700",
-        "date": "2025-03-01 21:00:00",
-        "sentiment_score": 0.053155913949012756
-    },
-    {
-        "title": "Estos ingredientes prepararán tu piel para recibir los rayos del sol",
-        "image_url": "https://pxcdn.2001online.com/2001/022025/1740598299696.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "variedades - belleza"
-        ],
-        "link": "https://2001online.com/zona3d/belleza/estos-ingredientes-prepararan-tu-piel-para-recibir-los-rayos-del-sol-2025311700",
-        "date": "2025-03-01 21:00:00",
-        "sentiment_score": 0.5179185289889574
-    },
-    {
-        "title": "Eliminatorias Conmebol: Esta es la cantidad de puntos que necesita la Vinotinto para clasificar a su primer mundial",
-        "image_url": "https://pxcdn.2001online.com/2001/022025/1740717397021.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/eliminatorias-conmebol-esta-es-la-cantidad-de-puntos-que-necesita-la-vinotinto-para-clasificar-a-su-primer-mundial-2025311700",
-        "date": "2025-03-01 21:00:00",
-        "sentiment_score": 0.22959332540631294
-    },
-    {
-        "title": "Pan andino con sabor tachirense llega a anaqueles de Walmart en Orlando: esta disponible en dos presentaciones",
-        "image_url": "https://pxcdn.2001online.com/2001/032025/1740860735440.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/pan-andino-con-sabor-tachirense-llega-a-anaqueles-de-walmart-en-orlando-esta-disponible-en-dos-presentaciones-20253116150",
-        "date": "2025-03-01 20:15:00",
-        "sentiment_score": 0.2974308002740145
-    },
-    {
-        "title": "Agentes del ICE aplicarán este programa de detención de migrantes que estuvo prohibido",
-        "image_url": "https://pxcdn.2001online.com/2001/022025/1740619172251.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/internacionales/agentes-del-ice-aplicaran-este-programa-de-detencion-de-migrantes-que-estuvo-prohibido-2025311800",
-        "date": "2025-03-01 20:08:17",
-        "sentiment_score": -0.2683151960372925
-    },
-    {
-        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 2 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/NCULS6NYHJAAXPQXLHJJZR3XCA.jpg?auth=0c4a2d9721f728546ae49aa3b3dcc8cad0b439dcac23669c62f9e16161897513&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/03/02/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-2-de-marzo/",
-        "date": "2025-03-02 02:00:55",
-        "sentiment_score": 0.17115057818591595
-    },
-    {
-        "title": "Ayuso sobre la quita: \"Cada madrileño pagará 500 euros más, iré a los tribunales\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/02/ayuso-sobre-la-quita-cada-madrileno-pagara-500-euros-mas-ire-a-los-tribunales/",
-        "date": "2025-03-02 01:30:51",
-        "sentiment_score": -0.37306953221559525
-    },
-    {
-        "title": "El presidente de Panamá se reúne con el rey Felipe VI en Uruguay",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/02/el-presidente-de-panama-se-reune-con-el-rey-felipe-vi-en-uruguay/",
-        "date": "2025-03-02 01:30:34",
-        "sentiment_score": -0.026418820023536682
-    },
-    {
-        "title": "Astic prevé un crecimiento moderado del transporte de mercancías por carretera en 2025",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/12/astic-preve-un-crecimiento-moderado-del-transporte-de-mercancias-por-carretera-en-2025/",
-        "date": "2025-03-02 01:19:10",
-        "sentiment_score": -0.6393118798732758
-    },
-    {
-        "title": "¿Cuáles son las nuevas tendencias en YouTube en España?",
-        "image_url": "https://www.infobae.com/resizer/v2/X2MKUT4BYJAPDEPWEFBCIDNGYU.jpg?auth=881c17304f6e371794129438dce1d8c235a72229790aafaa700f0709ba576485&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/03/02/cuales-son-las-nuevas-tendencias-en-youtube-en-espana/",
-        "date": "2025-03-02 01:16:01",
-        "sentiment_score": 0.7510422933846712
-    },
-    {
-        "title": "Tenerife acoge el Campeonato de España de bádminton con más de 100 deportistas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/12/tenerife-acoge-el-campeonato-de-espana-de-badminton-con-mas-de-100-deportistas/",
-        "date": "2025-03-02 01:04:18",
-        "sentiment_score": 0.0958218164741993
-    },
-    {
-        "title": "Una embarcación de Salvamento Marítimo rescata a 65 migrantes al sur de El Hierro",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/12/una-embarcacion-de-salvamento-maritimo-rescata-a-65-migrantes-al-sur-de-el-hierro/",
-        "date": "2025-03-02 00:49:16",
-        "sentiment_score": 0.3491060733795166
-    },
-    {
-        "title": "Una pareja denuncia una agresión homófoba con patadas y golpes en el centro de Valladolid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/12/una-pareja-denuncia-una-agresion-homofoba-con-patadas-y-golpes-en-el-centro-de-valladolid/",
-        "date": "2025-03-02 00:34:10",
-        "sentiment_score": -0.8382055414840579
-    },
-    {
-        "title": "Las Cortes de Aragón tramitarán la propuesta del PAR de recuperar el carácter preferente de la custodia compartida",
-        "image_url": "https://www.infobae.com/resizer/v2/2FIKHX4AQ5H3JBHVOLVMMUM6AY.jpg?auth=c190014d5184732034b9524881ae52f41541bd61766c59181b16b3639579b9f1&height=1277&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/12/las-cortes-de-aragon-tramitaran-la-propuesta-del-par-de-recuperar-el-caracter-preferente-de-la-custodia-compartida/",
-        "date": "2025-03-01 23:49:05",
-        "sentiment_score": 0.429837379604578
-    },
-    {
-        "title": "China, España y Club de Madrid confían en multilateralismo para futuro de progreso y paz",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/12/china-espana-y-club-de-madrid-confian-en-multilateralismo-para-futuro-de-progreso-y-paz/",
-        "date": "2025-03-01 23:19:18",
-        "sentiment_score": 0.2660299837589264
-    },
-    {
-        "title": "Rusos muestran apoyo a Trump tras reunión con Zelensky en la Casa Blanca",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/chance-20250301214626157-20250302012951972.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/rusos-apoyan-trump-zelensky-tax/",
-        "date": "2025-03-02 01:32:24",
-        "sentiment_score": -0.3407455012202263
-    },
-    {
-        "title": "¿Eclipses artificiales para estudiar el universo? Esto son los planes que tiene la NASA",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-521520676.jpg?quality=100&strip=info",
-        "tags": [
-            "ciencia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nasa-misiones-spacex-elon-musk-mirador-mundial-tv-fast/",
-        "date": "2025-03-02 01:22:52",
-        "sentiment_score": 0.05010963976383209
-    },
-    {
-        "title": "Ucrania, entre el apoyo de Europa y las tensiones con EE.UU.",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/untitled-1-20250302004918125.jpeg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ucrania-apoyo-europa-eeuu-mirador-mundial-tv/",
-        "date": "2025-03-02 01:00:12",
-        "sentiment_score": 0.26865124702453613
-    },
-    {
-        "title": "\"Es inquietante\": Ucranianos reaccionan a la reunión de Trump y Zelensky",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/thumb-00-01-50-18-still001-20250302002750256.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ucranianos-reunion-trump-zelensky-trax/",
-        "date": "2025-03-02 00:31:01",
-        "sentiment_score": -0.6558912396430969
-    },
-    {
-        "title": "El papa ya es capaz de moverse un poco y oró, informa el Vaticano",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2201800299-20250301233210900.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/papa-francisco-salud-movimiento-mirador-mundial-tv/",
-        "date": "2025-03-02 00:03:19",
-        "sentiment_score": -0.4757020100951195
-    },
-    {
-        "title": "¿Te gustaría un cenicero hecho con lava del Etna? Así es como estos guías los hacen",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/etna-cenicero-copy-01-00-01-55-19-still004.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/cenicero-lava-etna-guia-orix/",
-        "date": "2025-03-01 23:15:09",
-        "sentiment_score": -0.39428574591875076
-    },
-    {
-        "title": "Israel adopta el plan estadounidense para ampliar la tregua en Gaza a la Pascua y Ramadán",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/02/israel.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-acepta-plan-estadounidense-ampliar-tregua-gaza-20250302012555-nt.html",
-        "date": "2025-03-02 00:31:44",
-        "sentiment_score": -0.07900300621986389
-    },
-    {
-        "title": "EE.UU. deporta a Cuba más de cien migrantes irregulares como parte de las de políticas migratorias más estrictas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/MIGRATNS-RYoYo4w6QATNlM3Y39D3ExH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-deporta-cuba-cien-migrantes-irregulares-parte-20250301231906-nt.html",
-        "date": "2025-03-01 22:19:06",
-        "sentiment_score": -0.16299158334732056
-    },
-    {
-        "title": "La inmigración se dispara entre las preocupaciones de los andaluces y el 67% ya la ve como un problema",
-        "image_url": "https://phantom-elmundo.uecdn.es/d343a3471d4c7e100f7093bbabd08aec/crop/10x0/3072x2041/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/01/17408544271787.jpg",
-        "tags": [
-            "andalucía",
-            "encuestas",
-            "inmigración",
-            "vivienda",
-            "empleo",
-            "gráficos",
-            "política",
-            "artículos silvia moreno"
-        ],
-        "link": "https://www.elmundo.es/espana/encuestas/2025/03/02/67c2fc2de85ece41578b457b.html",
-        "date": "2025-03-02 01:41:01",
-        "sentiment_score": -0.3538810908794403
-    },
-    {
-        "title": "Venezuela derrotó a Bolivia y se despide en séptimo lugar",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/03/Alexander-Vaamonde.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://ultimasnoticias.com.ve/deportes/venezuela-derroto-a-bolivia-y-se-despide-en-septimo-lugar/",
-        "date": "2025-03-02 01:39:04",
-        "sentiment_score": -0.2254212200641632
-    },
-    {
-        "title": "La visita relativa de Einstein a Bilbao",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/02/28/Einstein_y_Elsa1920-k0rE-U23010036602369KG-1200x840@El%20Correo.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/tiempo-de-historias/visita-relativa-einstein-bilbao-20250228202042-nt.html",
-        "date": "2025-03-02 00:13:53",
-        "sentiment_score": -0.2234560139477253
-    },
-    {
-        "title": "Rayo y Sevilla firman tablas con dos golazos de Ratiu y Lukébakio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/685b9105-ce17-4754-a609-a8dfb5efcf6a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "futbol,sevilla,rayo vallecano,primera división"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/03/02/1-1-rayo-sevilla-firman-114840587.html",
-        "date": "2025-03-02 00:03:26",
-        "sentiment_score": 0.6378075927495956
-    },
-    {
-        "title": "2 parte | 01 MAR 2025 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/2-parte-01-mar-2025-juego-20250302_3105264.html",
-        "date": "2025-03-01 23:43:20",
-        "sentiment_score": -0.1977858655154705
-    },
-    {
-        "title": "Una noche desagradable en el Metropolitano",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/03/02/Imagen%20Imagen%201493186876%20copia.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/athletic/atletico-athletic-liga-ea-sports-jornada-26-20250301105314-nt.html",
-        "date": "2025-03-01 23:25:37",
-        "sentiment_score": -0.906513107009232
-    },
-    {
-        "title": "Simeone: \"Julián es de esos jugadores especiales que tienen un don, algo diferente\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/03/01/simeone-julian-es-de-esos-jugadores-especiales-que-tienen-un-don-algo-diferente/",
-        "date": "2025-03-01 23:15:19",
-        "sentiment_score": 0.7195154316723347
-    },
-    {
-        "title": "Diego Pablo Simeone: \"Apareció la diosa Fortuna del travesaño y de tener a Julián Álvarez\"",
-        "image_url": "https://www.infobae.com/resizer/v2/JCY7L7UF5BHMDF5RWCFNRVDCDI.jpg?auth=5bb43f486d428ff97beacc8c10c4bf5a686a7707ce523d87f5c0b66faa7c83fb&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/03/01/diego-pablo-simeone-aparecio-la-diosa-fortuna-del-travesano-y-de-tener-a-julian-alvarez/",
-        "date": "2025-03-01 23:15:16",
-        "sentiment_score": 0.4070444852113724
-    },
-    {
-        "title": "Un arbitraje sin controversia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9a9a2893-64bc-4e86-b4b6-c90b1617083e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/03/02/arbitraje-controversia-9341113.html",
-        "date": "2025-03-01 23:06:12",
-        "sentiment_score": -0.7804114818572998
-    },
-    {
-        "title": "El Gobierno reta a las comunidades a pedirle los anticipos de la financiación",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/03/02/montero-kyaC-U2301013664426gaC-1200x840@RC.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/politica/gobierno-reta-comunidades-pedirle-anticipos-financiacion-20250302000213-ntrc.html",
-        "date": "2025-03-01 23:02:14",
-        "sentiment_score": 0.021301448345184326
-    },
-    {
-        "title": "El MWC avanza hacia la hidratación sostenible y el residuo cero",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2a30de42-b807-45a7-912a-90ba14290587_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.elperiodico.com/es/mobile-world-congress/20250302/mwc-avanza-hidratacion-sostenible-residuo-114787735",
-        "date": "2025-03-02 02:00:05",
-        "sentiment_score": 0.4861879348754883
-    },
-    {
-        "title": "Luis Díaz quiere seguir haciendo historia en la Premier League: así le apunta a un nuevo récord",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/03/02/luis-diaz-quiere-seguir-haciendo-historia-en-la-premier-league-asi-le-apunta-a-un-nuevo-record/",
-        "date": "2025-03-02 01:52:11",
-        "sentiment_score": 0.5525855869054794
-    },
-    {
-        "title": "20 años del día que Cataluña 'descubrió' la corrupción del 3%: \"Se nos ve la cara de estupor; le decíamos a Maragall, 'no entres al trapo'...\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/1937324dcffbeb9cc744f0d87825cf53/f/webp/assets/multimedia/imagenes/2025/03/01/17408542297678.jpg",
-        "tags": [
-            "artur mas",
-            "artículos cristina rubio",
-            "psc",
-            "parlament de cataluña",
-            "jordi pujol",
-            "cdc"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2025/03/02/67c353c3fc6c838d638b459e.html",
-        "date": "2025-03-02 01:43:16",
-        "sentiment_score": -0.8414692729711533
-    },
-    {
-        "title": "Barcelona afronta un Mobile atípico: estabilidad institucional en casa y el ojo puesto en la pugna entre Estados Unidos y Europa",
-        "image_url": "https://phantom-elmundo.uecdn.es/37eccc0653bbc277022d67771a8cebb2/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/28/17407455777702.jpg",
-        "tags": [
-            "innovación",
-            "mobile world congress",
-            "tecnología",
-            "artículos josé m. rodríguez silva"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2025/03/02/67c0babee9cf4a50588b45a5.html",
-        "date": "2025-03-02 01:40:51",
-        "sentiment_score": -0.058168843388557434
-    },
-    {
-        "title": "Piqué asegura que su vida sexual ha mejorado con Clara Chía: ahora voy mejor que antes",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/pique-asegura-que-su-vida-sexual-ha-mejorado-con-clara-chia-ahora-voy-mejor-que-antes-20253121230",
-        "date": "2025-03-02 01:23:00",
-        "sentiment_score": 0.3592904731631279
-    },
-    {
-        "title": "Samsung Galaxy A56, A36 y A26 llegan con Inteligencia Alucinante para búsquedas avanzadas y experiencias creativas",
-        "image_url": "https://www.infobae.com/resizer/v2/BYXYDPPJB5AYJIUXKTDEVASMLA.jpg?auth=383a87cf3c00ce50423b654e8bda981e1e887b48443dd4c65ba380f8d6ce7311&height=1256&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/03/02/samsung-galaxy-a56-a36-y-a26-llegan-con-inteligencia-alucinante-para-busquedas-avanzadas-y-experiencias-creativas/",
-        "date": "2025-03-02 00:45:33",
-        "sentiment_score": 0.8453965988010168
-    },
-    {
-        "title": "La callecita de Tetuán donde Mario Pacheco e Iván Zulueta celebraron las primeras fiestas psicodélicas en Madrid",
-        "image_url": "https://static.eldiario.es/clip/d5f7659b-7db3-4235-8006-9a1fcd32fcf6_16-9-discover-aspect-ratio_default_0_x319y5.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/tetuan/callecita-tetuan-mario-pacheco-e-ivan-zulueta-celebraron-primeras-fiestas-psicodelicas-madrid_1_12071075.html",
-        "date": "2025-03-02 00:00:26",
-        "sentiment_score": -0.07801419496536255
-    },
-    {
-        "title": "Horario y dónde ver por TV la tercera jornada de la Kings League",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/01/08/677ee7f31259a.jpeg",
-        "tags": [
-            "horarios"
-        ],
-        "link": "https://www.mundodeportivo.com/horarios/20250302/1002417324/horario-donde-ver-tv-tercera-jornada-kings-league.html",
-        "date": "2025-03-01 23:56:19",
-        "sentiment_score": 0.23968468233942986
-    },
-    {
-        "title": "Crecen estafas por llamadas perdidas: Así podrás evitarlas y proteger tu teléfono",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/curiosidades/crecen-estafas-por-llamadas-perdidas-asi-podras-evitarlas-y-proteger-tu-telefono-2025312200",
-        "date": "2025-03-02 02:00:00",
-        "sentiment_score": -0.7408612724393606
-    },
-    {
-        "title": "Redadas ICE del 1 de marzo: tres indocumentados fueron arrestados en un taller mecánico de Pensilvania",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/redadas-ice-del-1-de-marzo-tres-indocumentados-fueron-arrestados-en-un-taller-mecanico-de-pensilvania-20253121510",
-        "date": "2025-03-02 01:51:00",
-        "sentiment_score": -0.28453565761446953
-    },
-    {
-        "title": "Trump reporta cifras mínimas de presencia de migrantes en la frontera: más de 8 mil arrestos en febrero",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/migracion/trump-reporta-cifras-minimas-de-presencia-de-migrantes-en-la-frontera-mas-de-8-mil-arrestos-en-febrero-20253121460",
-        "date": "2025-03-02 01:46:00",
-        "sentiment_score": -0.33402175083756447
-    },
-    {
-        "title": "Estos bancos permiten hacer transferencias por Zelle: Montos y límites por transacción",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/estos-bancos-permiten-hacer-transferencias-por-zelle-montos-y-limites-por-transaccion-2025312180",
-        "date": "2025-03-02 01:08:00",
-        "sentiment_score": 0.13685179874300957
-    },
-    {
-        "title": "Carnavales 2025: conozca las actividades en El Hatillo y Baruta para este 2 de marzo",
-        "image_url": "https://pxcdn.2001online.com/2001/032025/1740866356734/4carnavales.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/carnavales-2025-conozca-las-actividades-en-el-hatillo-y-baruta-para-este-2-de-marzo-2025312200",
-        "date": "2025-03-02 01:04:01",
-        "sentiment_score": 0.006343148648738861
-    },
-    {
-        "title": "Fiscalía atiende solicitud de una abuela de 102 años: pide que le restituyan su local ubicado en la plaza El Hatillo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/fiscalia-atiende-solicitud-de-una-abuela-de-102-anos-pide-que-le-restituyan-su-local-ubicado-en-la-plaza-el-hatillo-20253120530",
-        "date": "2025-03-02 00:53:00",
-        "sentiment_score": 0.25271546840667725
-    },
-    {
-        "title": "Sigue estos pasos para solicitar CrediMujer en Banesco: con tasa de interés sujeta al BCV",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/sigue-estos-pasos-para-solicitar-credimujer-en-banesco-con-tasa-de-interes-sujeta-al-bcv-20253120480",
-        "date": "2025-03-02 00:48:00",
-        "sentiment_score": 0.03418174386024475
-    },
-    {
-        "title": "Nueva York busca persona que hable español por salario de $40 la hora: la empresa ofrece seguro médico.",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/nueva-york-busca-persona-que-hable-espanol-por-salario-de-40-la-hora-la-empresa-ofrece-seguro-medico--20253120150",
-        "date": "2025-03-02 00:15:00",
-        "sentiment_score": 0.26584622636437416
-    },
-    {
-        "title": "Avión de FedEx aterriza de emergencia: el motor estaba en llamas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/avion-de-fedex-aterriza-de-emergencia-el-motor-estaba-en-llamas-2025312080",
-        "date": "2025-03-02 00:08:00",
-        "sentiment_score": 0.19874388724565506
-    },
-    {
         "title": "El juez interroga este lunes a José Luis Moreno por un fraude fiscal de 3,4 millones",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -1001,288 +100,6 @@ export default [
         "sentiment_score": 0.6259275171905756
     },
     {
-        "title": "Así fue la juramentación de Yamandú Orsi como nuevo presidente de Uruguay",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2202721861.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/yamandu-orsi-jura-presidente-uruguay-mirador-mundial-tv/",
-        "date": "2025-03-02 02:57:13",
-        "sentiment_score": 0.27080821245908737
-    },
-    {
-        "title": "“La motosierra hoy es un símbolo de cambio de época”, aseguró Milei en su discurso",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2202135363.jpg?quality=100&strip=info",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/javier-milei-congreso-moto-sierra/",
-        "date": "2025-03-02 02:43:05",
-        "sentiment_score": 0.05638878047466278
-    },
-    {
-        "title": "El mejor de los occidentales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/2-kMzC-U70361032721gYC-350x624@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/jose-m-de-areilza-mejor-occidentales-20250301133423-nt.html",
-        "date": "2025-03-02 04:41:33",
-        "sentiment_score": -0.08104705810546875
-    },
-    {
-        "title": "Yan Xuetong: «El conflicto central entre China y EE.UU. no es por expansión ideológica sino por superioridad tecnológica»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/02/28/YanXuetong-RTIRF9dXwbcd8qCn8wgpWXK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/yan-xuetong-conflicto-central-china-eeuu-expansion-20250228054058-nt.html",
-        "date": "2025-03-02 04:40:58",
-        "sentiment_score": -0.16982756555080414
-    },
-    {
-        "title": "Trump-Putin: vidas paralelas de poder y ambición",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/rusia_20250301200706-R8JLbx3NfoecRBhlGoSR1EL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trumpputin-vidas-paralelas-poder-ambicion-20250301200939-nt.html",
-        "date": "2025-03-02 03:54:27",
-        "sentiment_score": -0.15458711981773376
-    },
-    {
-        "title": "El voto joven alemán se escora a los extremos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/02/alemania1-R74teB5icmEPnD0ek32HUHJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/voto-joven-aleman-20250302180357-nt.html",
-        "date": "2025-03-02 03:32:12",
-        "sentiment_score": -0.1291547268629074
-    },
-    {
-        "title": "La vida que dejamos atrás: cuando regresar ya no es una opción",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/02/27/desplazados-ucrania4--1200x672.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/vida-dejamos-atras-regresar-opcion-20250302041909-nt.html",
-        "date": "2025-03-02 03:19:39",
-        "sentiment_score": -0.09687638282775879
-    },
-    {
-        "title": "Los ucranianos cierran filas: «Solo nosotros mismos podemos salvarnos»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/01/zelenskillegauk-RnRhSoZWRhPINZSKXcmsztO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ucrania-sigue-conmocionada-tras-choque-trump-zelenski-20250301190229-nt.html",
-        "date": "2025-03-02 03:18:06",
-        "sentiment_score": -0.06463438272476196
-    },
-    {
-        "title": "Europa reforzará el apoyo militar a Zelenski tras su choque con Trump",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/02/starmer-zelenski-reuters3-k3eH-U70364396668CpG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/europa-reforzara-apoyo-militar-zelenski-tras-choque-20250302041621-nt.html",
-        "date": "2025-03-02 03:16:22",
-        "sentiment_score": 0.012215256690979004
-    },
-    {
-        "title": "Ser autónomo en Zamora, la provincia con más autoempleo de España: “O montas algo o te vas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QZUXDHLKARB4XBP6CTGRRP4UNA.jpg?auth=43f7f77e55f0d6d95fc9b35a009a5c050cc37c39152205ba36064d1771776e66&width=1200",
-        "tags": [
-            "españa vacía",
-            "despoblación",
-            "castilla y león",
-            "zamora",
-            "economía",
-            "empleo",
-            "trabajo agrícola",
-            "empleo autónomo",
-            "ganadería",
-            "agricultura",
-            "trabajo",
-            "demografía"
-        ],
-        "link": "https://elpais.com/economia/2025-03-02/ser-autonomo-en-zamora-la-provincia-con-mas-autoempleo-de-espana-o-montas-algo-o-te-vas.html",
-        "date": "2025-03-02 04:45:00",
-        "sentiment_score": -0.6503805350512266
-    },
-    {
-        "title": "Vox atrapa a Feijóo en el laberinto valenciano",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EBDQ6Z5CLV5WWREJFNOXAORPUE.jpg?auth=a57218bde3fcb7d3eb08ce4bc3e5db94e98f0de87a93aa1ceccccea9ac638094&width=1200",
-        "tags": [
-            "catástrofes",
-            "pp",
-            "españa",
-            "vox",
-            "comunidad valenciana",
-            "alberto núñez feijóo",
-            "ultraderecha",
-            "ppcv"
-        ],
-        "link": "https://elpais.com/espana/2025-03-02/vox-atrapa-a-feijoo-en-el-laberinto-valenciano.html",
-        "date": "2025-03-02 04:40:00",
-        "sentiment_score": -0.7183658163994551
-    },
-    {
-        "title": "‘Caso Monedero’: el escándalo que erosiona la imagen de Podemos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OKY42NPKQJCCVJJF5PTD5SP3KA.jpg?auth=05d10de6b9e00a1cea1f2d6cf6d38ca8ae5403c806bb6698556a26d5826d142c&width=1200",
-        "tags": [
-            "agresiones sexuales",
-            "ucm",
-            "podemos",
-            "españa",
-            "acoso sexual",
-            "irene montero",
-            "ione belarra",
-            "partidos políticos",
-            "juan carlos monedero",
-            "pablo iglesias"
-        ],
-        "link": "https://elpais.com/espana/2025-03-02/caso-monedero-el-escandalo-que-erosiona-la-imagen-de-podemos.html",
-        "date": "2025-03-02 04:40:00",
-        "sentiment_score": -0.7138389069586992
-    },
-    {
-        "title": "León reclama su sitio como región ante un declive sin freno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IZ5LMT33EJGXVIC5AOS2JOOFOY.jpg?auth=1c92013e7172d83561b20a4e93ed0dd728ef3673d6589e871d33ef65a7031ac5&width=1200",
-        "tags": [
-            "españa",
-            "castilla y león",
-            "león",
-            "minería",
-            "minas"
-        ],
-        "link": "https://elpais.com/espana/2025-03-02/leon-reclama-su-sitio-como-region-ante-un-declive-sin-freno.html",
-        "date": "2025-03-02 04:40:00",
-        "sentiment_score": -0.8972554448992014
-    },
-    {
-        "title": "Presión máxima sobre Mazón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2P2ENBZIAJG3BC4G3PNRI3JLZ4.jpg?auth=c4d382b60c374ebf58ccd745083ee2dd2baea4b8f11e271af8d84a3c24877d6e&width=1200",
-        "tags": [
-            "pp",
-            "inundaciones",
-            "inundaciones dana octubre 2024",
-            "carlos mazón",
-            "comunidad valenciana",
-            "alberto núñez feijóo",
-            "generalitat valenciana",
-            "ppcv",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-02/presion-maxima-sobre-mazon.html",
-        "date": "2025-03-02 04:40:00",
-        "sentiment_score": -0.9337862338870764
-    },
-    {
-        "title": "“Cuatro meses después del apocalipsis empezamos a vivir, pero necesitamos saber la verdad”",
-        "image_url": "https://imagenes.elpais.com/resizer/5B1YtBCOa7krdB927ZH3nRcrdmI=/arc-anglerfish-eu-central-1-prod-prisa/public/BKTYN56LRJBDHIAMRJOLKMNN34.jpg",
-        "tags": [
-            "catarroja",
-            "catástrofes",
-            "españa",
-            "valencia",
-            "inundaciones dana octubre 2024",
-            "inundaciones"
-        ],
-        "link": "https://elpais.com/espana/2025-03-02/cuatro-meses-despues-del-apocalipsis-empezamos-a-vivir-pero-necesitamos-saber-la-verdad.html",
-        "date": "2025-03-02 04:40:00",
-        "sentiment_score": -0.47297725081443787
-    },
-    {
-        "title": "El gran reemplazo: la operación de la ultraderecha para suplantar a los periodistas con agitadores digitales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KH5JIGE32BFHVLVSRPXFQZVZKI.jpg?auth=d3c093f0245d2d84dc5a1b1e2d4219e59337447cc08a678c9aea07765c1898cb&width=1200",
-        "tags": [
-            "periodismo",
-            "españa",
-            "vox",
-            "ultraderecha",
-            "fake news",
-            "congreso diputados",
-            "ultras",
-            "extrema derecha",
-            "bulos internet"
-        ],
-        "link": "https://elpais.com/espana/2025-03-02/el-gran-reemplazo-la-operacion-de-la-ultraderecha-para-suplantar-a-los-periodistas-con-agitadores-digitales.html",
-        "date": "2025-03-02 04:40:00",
-        "sentiment_score": -0.36513958498835564
-    },
-    {
-        "title": "España, líder en ensayos clínicos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PJM2A5KTXJDMNO7B337CLPPWNY.jpg?auth=a4d36760b53b762995fc6a9aee7f9c3fb3fdd78457020584a973f8a71de60dd4&width=1200",
-        "tags": [
-            "eventos",
-            "sanidad privada",
-            "salud",
-            "farmaindustria",
-            "atención al paciente",
-            "hospitales",
-            "innovación",
-            "negocios",
-            "medicamentos",
-            "empresas",
-            "economía",
-            "ensayos clínicos",
-            "sanidad pública",
-            "investigación médica",
-            "medicina",
-            "atención primaria",
-            "sistema sanitario",
-            "sanidad",
-            "tecnología sanitaria"
-        ],
-        "link": "https://elpais.com/extra/eventos/2025-03-02/espana-lider-en-ensayos-clinicos.html",
-        "date": "2025-03-02 04:31:00",
-        "sentiment_score": 0.7983151357620955
-    },
-    {
-        "title": "España, con riesgo de suspender en su objetivo del 0,7% del PIB, pero con sobresaliente frente al recorte de ayudas global",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RSRBMGASVOWS5SUXJBBGIESH34.jpg?auth=d0b57f0d3a389c4e2ce097fd3fd26fd037e6b1f8803e4e2af7a6f080018e991f&width=1200",
-        "tags": [
-            "áfrica occidental",
-            "desigualdad económica",
-            "noticias de españa",
-            "europa",
-            "cooperación y desarrollo",
-            "franja gaza",
-            "ucrania",
-            "ayuda humanitaria",
-            "macroeconomía",
-            "solidaridad",
-            "pib",
-            "unión europea",
-            "ong",
-            "pobreza",
-            "sur global",
-            "plataforma 0,7%",
-            "ocde"
-        ],
-        "link": "https://elpais.com/planeta-futuro/2025-03-02/espana-con-riesgo-de-suspender-en-su-objetivo-del-07-del-pib-pero-con-sobresaliente-frente-al-recorte-de-ayudas-global.html",
-        "date": "2025-03-02 04:30:00",
-        "sentiment_score": -0.2303643822669983
-    },
-    {
-        "title": "La fiesta en Barcelona se adelanta a la tarde",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EF2T6B3QYRGWPPEOFICTMFI4SA.jpg?auth=35950cfbfbd18b841e32113ad50ff59883ebc9717239f15628b4a5f0955b0eb5&width=1200",
-        "tags": [
-            "discotecas",
-            "bares",
-            "fiesta",
-            "cataluña",
-            "ocio nocturno",
-            "ocio",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-03-02/la-fiesta-en-barcelona-se-adelanta-a-la-tarde.html",
-        "date": "2025-03-02 04:15:00",
-        "sentiment_score": 0.4735210984945297
-    },
-    {
         "title": "La vida actual de Sonsoles Espinosa: sólido matrimonio con Zapatero y cantante de ópera",
         "image_url": "https://theobjective.com/wp-content/uploads/2025/02/ZAPA_MO_2802.jpg",
         "tags": [
@@ -1347,36 +164,6 @@ export default [
         "link": "https://elcierredigital.com/investigacion/asi-queda-herencia-ruphert-hermana-carmen-sobrinos-exnovio-osvaldo",
         "date": "2025-03-02 05:30:00",
         "sentiment_score": -0.02569606900215149
-    },
-    {
-        "title": "El Hostal dos Reis Católicos se afianza como el Parador que más factura en España: casi 40 millones en tres años",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7158701a-f902-41cf-877f-19d1496f9fc9_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreogallego.es/santiago/2025/03/02/hostal-reis-catolicos-afianza-parador-114836900.html",
-        "date": "2025-03-02 05:03:12",
-        "sentiment_score": 0.08646541833877563
-    },
-    {
-        "title": "El reto de montar ‘Grease’ desde los cimientos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d0b1ea49-1057-4da4-8197-ef7a5aa8df18_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeibiza.es/ibiza/2025/03/02/musical-ibiza-reto-montar-grease-cimientos-114831749.html",
-        "date": "2025-03-02 05:02:58",
-        "sentiment_score": -0.14952993392944336
-    },
-    {
-        "title": "Pérez Cascales: «Hay que ser machacones, no es suficiente que nos digan que la Dama de Elche no puede regresar»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7ffe559b-2c5b-4e36-93e4-b4fd2ec12fb5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.informacion.es/elche/2025/03/02/dama-de-elche-real-orden-de-la-dama-mari-carmen-perez-cascales-114830392.html",
-        "date": "2025-03-02 05:02:57",
-        "sentiment_score": -0.5180733948945999
     },
     {
         "title": "Eisenhower y el gudari asesinado",
@@ -1478,66 +265,6 @@ export default [
         "link": "https://www.elperiodico.com/es/sociedad/20250302/complejo-puzzle-desigualdades-empleo-hogar-114759497",
         "date": "2025-03-02 06:00:31",
         "sentiment_score": -0.0492999404668808
-    },
-    {
-        "title": "Cuatro centros médicos con servicio de nefrología gratuito en Caracas: debe llevar estos recaudos",
-        "image_url": "https://pxcdn.2001online.com/2001/032025/1740888544199.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/cuatro-centros-medicos-con-servicio-de-nefrologia-gratuito-en-caracas-debe-llevar-estos-recaudos-202532090",
-        "date": "2025-03-02 04:09:00",
-        "sentiment_score": -0.07103101909160614
-    },
-    {
-        "title": "Abogado de Barranquilla pide elliminar serie de Netflix: defiende el honor de la familia protagonista",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/farandula/abogado-de-barranquilla-pide-elliminar-serie-de-netflix-defiende-el-honor-de-la-familia-protagonista-20253123500",
-        "date": "2025-03-02 03:50:00",
-        "sentiment_score": -0.9045695569366217
-    },
-    {
-        "title": "Conozca cuándo inicia la Cuaresma: cuál es su origen y qué significa",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/comunidad/conozca-cuando-inicia-la-cuaresma-cual-es-su-origen-y-que-significa--20253123240",
-        "date": "2025-03-02 03:24:00",
-        "sentiment_score": -0.4877270609140396
-    },
-    {
-        "title": "Maduro reporta cerca de 300 accidentes de moto semanalmente: les pido que se cuiden en carnaval",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/nacionales/maduro-reporta-cerca-de-300-accidentes-de-moto-semanalmente-les-pido-que-se-cuiden-en-carnaval-20253122590",
-        "date": "2025-03-02 02:59:00",
-        "sentiment_score": -0.3915453851222992
-    },
-    {
-        "title": "Monedas valiosas en USA: El ejemplar de 1962 valorado en $18.000 dólares",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/monedas-valiosas-en-usa-el-ejemplar-de-1962-valorado-en-18-000-dolares-20253122580",
-        "date": "2025-03-02 02:58:00",
-        "sentiment_score": 0.18172088265419006
-    },
-    {
-        "title": "Salomón Rondón vuelve a brillar con el Pachuca: marcó su gol 30 desde que llegó al club",
-        "image_url": "https://pxcdn.2001online.com/2001/032025/1740884201663.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/salomon-rondon-vuelve-a-brillar-con-el-pachuca-marco-su-gol-30-desde-que-llego-al-club-20253122230",
-        "date": "2025-03-02 02:23:00",
-        "sentiment_score": 0.18540987372398376
     },
     {
         "title": "Peña dice que eventual tratado entre Mercosur y Emiratos sería un paso muy importante",
@@ -8340,5 +7067,735 @@ export default [
         "link": "https://2001online.com/servicios/emprendedores-pueden-solicitar-credito-en-el-banco-digital-de-los-trabajadores-dan-18-meses-de-pago-20253423100",
         "date": "2025-03-05 03:10:00",
         "sentiment_score": 0.11711284890770912
+    },
+    {
+        "title": "La inflación repunta en Venezuela en febrero, hasta el 12,8 % mensual y el 117 % anual",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/05/la-inflacion-repunta-en-venezuela-en-febrero-hasta-el-128-mensual-y-el-117-anual/",
+        "date": "2025-03-05 17:05:17",
+        "sentiment_score": 0.06029023975133896
+    },
+    {
+        "title": "Mueren cuatro personas en un choque frontal entre dos camiones en Fitero (Navarra)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/05/mueren-cuatro-personas-en-un-choque-frontal-entre-dos-camiones-en-fitero-navarra/",
+        "date": "2025-03-05 17:04:23",
+        "sentiment_score": -0.7941648457199335
+    },
+    {
+        "title": "Navas: \"Difícil dormir, ojalá se parara el tiempo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/14/navas-dificil-dormir-ojala-se-parara-el-tiempo/",
+        "date": "2025-03-05 17:04:07",
+        "sentiment_score": 0.048102349042892456
+    },
+    {
+        "title": "Dos testigos de Elisa Mouilaá piden aplazar su declaración del viernes por estar de baja",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/05/dos-testigos-de-elisa-mouilaa-piden-aplazar-su-declaracion-del-viernes-por-estar-de-baja/",
+        "date": "2025-03-05 17:04:06",
+        "sentiment_score": -0.6762149464339018
+    },
+    {
+        "title": "Junts acapara el foco con la cuestión de confianza, los PGE y sus exigencias a Sánchez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/14/junts-acapara-el-foco-con-la-cuestion-de-confianza-los-pge-y-sus-exigencias-a-sanchez/",
+        "date": "2025-03-05 17:03:53",
+        "sentiment_score": -0.8622387377545238
+    },
+    {
+        "title": "La bolsa sube el 1,4 % y recupera el nivel de 13.200 por los bancos y plazas europeas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/05/la-bolsa-sube-el-14-y-recupera-el-nivel-de-13200-por-los-bancos-y-plazas-europeas/",
+        "date": "2025-03-05 17:03:49",
+        "sentiment_score": 0.45116617903113365
+    },
+    {
+        "title": "El sector del dulce prevé una producción de 31.000 toneladas para la campaña de Navidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/14/el-sector-del-dulce-preve-una-produccion-de-31000-toneladas-para-la-campana-de-navidad/",
+        "date": "2025-03-05 17:03:39",
+        "sentiment_score": 0.4946847930550575
+    },
+    {
+        "title": "El PP lleva al Congreso una votación para declarar indelegable la política migratoria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/05/el-pp-lleva-al-congreso-una-votacion-para-declarar-indelegable-la-politica-migratoria/",
+        "date": "2025-03-05 17:03:33",
+        "sentiment_score": -0.44172048941254616
+    },
+    {
+        "title": "La OCU pide al Banco de España que sancione a los bancos que obligan a litigar a clientes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/05/la-ocu-pide-al-banco-de-espana-que-sancione-a-los-bancos-que-obligan-a-litigar-a-clientes/",
+        "date": "2025-03-05 17:03:16",
+        "sentiment_score": -0.8734620306640863
+    },
+    {
+        "title": "Un profesor español revela que paga 1.200 euros por una habitación en Irlanda: “El tema de la vivienda está fatal”",
+        "image_url": "https://www.infobae.com/resizer/v2/PZSSURPJNRB3PJK7QGYGBPYL6M.jpg?auth=ea381ea9f683655b5bf87253e53a01979b6cf7e23fad5160d916925c28d6ae27&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/03/05/un-profesor-espanol-revela-que-paga-1200-euros-por-una-habitacion-en-irlanda-el-tema-de-la-vivienda-esta-fatal/",
+        "date": "2025-03-05 17:02:38",
+        "sentiment_score": -0.0031245723366737366
+    },
+    {
+        "title": "Sheinbaum sobre aranceles: “Hay plan A, plan B y plan C”",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/still-21433916-136306-917-still.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/sheinbaum-tarifas-trump-plan-b-perspectivas-mexico/",
+        "date": "2025-03-05 15:04:59",
+        "sentiment_score": -0.04698827862739563
+    },
+    {
+        "title": "Inicia la Cuaresma y los fieles no podrán ver al papa Francisco encabezar la liturgia del Miércoles de Ceniza",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2003082379.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/inicia-cuaresma-papa-francisco-miercoles-ceniza-cafe-tv/",
+        "date": "2025-03-05 14:11:51",
+        "sentiment_score": -0.4689280465245247
+    },
+    {
+        "title": "Mira la advertencia de los medios estatales norcoreanos a Trump",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/9beb26af-9d30-4870-a45d-6b17f2f0f486-20250305132309790.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/corea-del-norte-medios-estatales-donald-trump-hermana-trax/",
+        "date": "2025-03-05 13:38:31",
+        "sentiment_score": -0.7817753031849861
+    },
+    {
+        "title": "¿Qué es la barrera del sonido y cómo se está rompiendo nuevamente?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/barrera-del-sonido.png",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/barrera-del-sonido-orix/",
+        "date": "2025-03-05 13:26:56",
+        "sentiment_score": -0.025618955492973328
+    },
+    {
+        "title": "La Corte Suprema de Estados Unidos no permitirá que Trump retenga el pago a grupos de ayuda extranjera",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/05/USAID-RaWl8cmGpME0XaDQwyMC1gM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/corte-suprema-estados-unidos-permitira-trump-retenga-20250305173108-nt.html",
+        "date": "2025-03-05 16:31:08",
+        "sentiment_score": -0.10441209375858307
+    },
+    {
+        "title": "El poder oculto de la aspirina: explican cómo puede combatir el cáncer",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/03/05/3248552000_3472cdb90c_k.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/poder-oculto-aspirina-explican-puede-combatir-cancer-20250305170000-nt.html",
+        "date": "2025-03-05 16:04:24",
+        "sentiment_score": -0.11584393680095673
+    },
+    {
+        "title": "La construcción afirma que en quince años faltarán tres millones de viviendas en España",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/05/1492763072-RSSlFsCh51ERI3zB9JnyhVK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/construccion-afirma-quince-anos-faltaran-tres-millones-20250305165954-nt.html",
+        "date": "2025-03-05 16:02:18",
+        "sentiment_score": -0.14944052696228027
+    },
+    {
+        "title": "Trump deja de compartir inteligencia con Ucrania tras el choque con Zelenski",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/05/antenna-R9wmHjtComAJR5kNJ6KEVcJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-deja-compartir-inteligencia-ucrania-tras-choque-20250305150642-nt.html",
+        "date": "2025-03-05 14:08:28",
+        "sentiment_score": -0.05906000733375549
+    },
+    {
+        "title": "La ayuda militar a Ucrania deja de llegar a Polonia tras cerrar EE.UU. el grifo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/05/abrams-k8bD-U70404659218PvE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ayuda-militar-ucrania-deja-llegar-polonia-tras-20250305132126-nt.html",
+        "date": "2025-03-05 12:22:02",
+        "sentiment_score": -0.062403738498687744
+    },
+    {
+        "title": "Choque de Cuerva y Garamendi en público frente a Pedro Sánchez por las elecciones en Cepyme",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/03/05/cuerva-sanchez-premioscepyme-ROaYAhKagRwdptdq9I4CJgK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/choque-cuerva-garamendi-publico-frente-pedro-sanchez-20250305131408-nt.html",
+        "date": "2025-03-05 12:17:39",
+        "sentiment_score": -0.03272402286529541
+    },
+    {
+        "title": "El primer ministro de Groenlandia, a Trump: «No queremos ser americanos»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/05/mute-egede-kh6E-U70404418502pPH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/primer-ministro-groenlandia-trump-queremos-americanos-20250305131514-nt.html",
+        "date": "2025-03-05 12:16:52",
+        "sentiment_score": -0.11611129343509674
+    },
+    {
+        "title": "El sector privado mantiene el ritmo en España a pesar del enfriamiento de la industria y el estancamiento de Europa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/05/1492061178-RxkuPrMkORGfMtC6ibZbLGM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/sector-privado-mantiene-ritmo-espana-pesar-enfriamiento-20250305131551-nt.html",
+        "date": "2025-03-05 12:15:52",
+        "sentiment_score": -0.12144702672958374
+    },
+    {
+        "title": "Rusia valora positivamente la posibilidad de unas negociaciones de paz con Ucrania",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/05/PUUUTIN-kt5B-U70404053778uXG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/rusia-valora-positivamente-posibilidad-negociaciones-paz-ucrania-20250305122643-nt.html",
+        "date": "2025-03-05 11:26:43",
+        "sentiment_score": -0.052757829427719116
+    },
+    {
+        "title": "Quién es Al Green, el diputado expulsado del Capitolio durante el discurso de Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/05/al-green-afp-kbBI-U70403177047DzB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/green-diputado-expulsado-capitolio-discurso-trump-20250305121706-nt.html",
+        "date": "2025-03-05 11:26:21",
+        "sentiment_score": -0.09531515836715698
+    },
+    {
+        "title": "Valencia mantiene este jueves la suspensión de las clases y de la ‘mascletà'",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XNZJOQODXZHXKARHLHYBXMFLT4.jpg?auth=0cfaa9b6390fedb8e7512177eb40977a3e6fa9a9cf6193134e04656ecb8b261a&width=1200",
+        "tags": [
+            "mascletá",
+            "fallas",
+            "lluvia",
+            "pp",
+            "educación",
+            "comunidad valenciana",
+            "lluvias torrenciales",
+            "valencia",
+            "ppcv"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-05/valencia-mantiene-este-jueves-la-suspension-de-las-clases-y-de-la-mascleta.html",
+        "date": "2025-03-05 16:57:02",
+        "sentiment_score": -0.7583180144429207
+    },
+    {
+        "title": "Las figuritas de Sargadelos cobran vida en el Carnaval de A Coruña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2CCTXTMHOVBWZNMITG4JQX5V24.jpg?auth=2cbb5c70d93966e96cb5dd2364c833f90e3eed4e949376c4825615e6c1dc7d74&width=1200",
+        "tags": [
+            "cerámica",
+            "españa",
+            "comparsas",
+            "fiestas",
+            "grupo sargadelos",
+            "carnavales",
+            "disfraces",
+            "arteixo",
+            "a coruña",
+            "galicia"
+        ],
+        "link": "https://elpais.com/espana/galicia/2025-03-05/las-figuritas-de-sargadelos-cobran-vida-en-el-carnaval-de-a-coruna.html",
+        "date": "2025-03-05 16:56:29",
+        "sentiment_score": 0.35112759470939636
+    },
+    {
+        "title": "El Gobierno de Mazón reconoce a la jueza que hubo un parón en el Cecopi el día de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CML734AZ4U4EUXGVHIVK4XFTAM.jpg?auth=de097fc241c20b87b6903258ff3bc0822bd5848256a83cc10f7f8c49f801e6c8&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "investigación judicial",
+            "catástrofes",
+            "inundaciones",
+            "carlos mazón",
+            "pp",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-05/el-gobierno-de-mazon-reconoce-a-la-jueza-que-hubo-un-paron-en-el-cecopi-el-dia-de-la-dana.html",
+        "date": "2025-03-05 16:02:32",
+        "sentiment_score": -0.5693406295031309
+    },
+    {
+        "title": "La repetición de las votaciones en tres agrupaciones encona la batalla por el liderazgo del PSOE en Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6N6L7WLHY2D2GUCJBVPLAS2M64.jpg?auth=ea5ca51debb67c83651ec32b53a13c3cd20cc8271f120ee2aee379f975b72bbc&width=1200",
+        "tags": [
+            "españa",
+            "primarias psoe",
+            "barones psoe",
+            "pspv-psoe",
+            "diana morant ripoll",
+            "psoe",
+            "carlos fernández bielsa",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/2025-03-05/la-repeticion-de-las-votaciones-en-tres-agrupaciones-mantiene-abierta-la-batalla-por-el-liderazgo-del-psoe-en-valencia.html",
+        "date": "2025-03-05 15:15:04",
+        "sentiment_score": 0.4075884521007538
+    },
+    {
+        "title": "Puentes ‘resilentes’ para combatir futuras danas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VIY336JRYJEN7AHZT335RSH4U4.JPG?auth=a5eed083f5eddaf2b16e39ce8336a5e2943350dc20678bf93118d81a3727d453&width=1200",
+        "tags": [
+            "paiporta",
+            "valencia",
+            "comunidad valenciana",
+            "picanya",
+            "óscar puente santiago"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-05/puentes-resilentes-para-combatir-futuras-danas.html",
+        "date": "2025-03-05 15:08:43",
+        "sentiment_score": 0.1260702759027481
+    },
+    {
+        "title": "Juan Manuel Badenas seguirá de concejal de València y asegura ser objeto de un montaje burdo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EK3HTJFTOMRVWVWLDAOEUEX5YM.jpg?auth=eaa310de46970533538ef660e269dad31d2a3ad9ded56c7e179a8d04bb60f3ab&width=1200",
+        "tags": [
+            "juzgados",
+            "ayuntamiento valencia",
+            "contratación pública",
+            "valencia",
+            "comunidad valenciana",
+            "gobierno municipal",
+            "juan manuel badenas",
+            "vox"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-05/juan-manuel-badenas-seguira-de-concejal-de-valencia-y-asegura-ser-objeto-de-un-montaje-burdo.html",
+        "date": "2025-03-05 14:25:20",
+        "sentiment_score": -0.6989035289734602
+    },
+    {
+        "title": "El Govern trabaja ‘in extremis’ para evitar que las oposiciones de docentes coincidan con el examen de C2 de catalán",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/S2VSZ3VDEBFGNJJYCULV5GRNR4.jpg?auth=00389106d0746ceddad29d0e6d4607d20a4642dcd9e0608c0da6662b83bd6fbf&width=1200",
+        "tags": [
+            "educación",
+            "política lingüística",
+            "exámenes",
+            "oposiciones docentes",
+            "cataluña",
+            "govern cataluña",
+            "oposiciones",
+            "catalán"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-03-05/el-govern-trabaja-in-extremis-para-evitar-que-las-oposiciones-de-docentes-coincidan-con-el-examen-de-c2-de-catalan.html",
+        "date": "2025-03-05 14:15:03",
+        "sentiment_score": -0.8482345622032881
+    },
+    {
+        "title": "Ayuso, que convocó a Begoña Gómez a la Asamblea, afea a Más Madrid que cite a su pareja en el Congreso: “No es político”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IMVGSZABFBOWD3M7K3IG4P63PU.jpg?auth=e82b94ec8883c50822d9b186049b74e8816b59992cf7022158ed144a162592e3&width=1200",
+        "tags": [
+            "congreso diputados",
+            "comunidad de madrid",
+            "gobierno comunidad madrid",
+            "miguel ángel rodríguez",
+            "quirónsalud",
+            "begoña gómez fernández",
+            "delitos fiscales",
+            "asamblea madrid",
+            "isabel díaz ayuso",
+            "investigación judicial",
+            "más madrid",
+            "comisiones investigación",
+            "valdemoro",
+            "caso ayuso",
+            "carlos mazón",
+            "alberto gonzález amador",
+            "pp madrid",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-03-05/ayuso-que-convoco-a-begona-gomez-a-la-asamblea-afea-a-mas-madrid-que-cite-a-su-pareja-en-el-congreso-no-es-politico.html",
+        "date": "2025-03-05 14:08:49",
+        "sentiment_score": -0.16593587398529053
+    },
+    {
+        "title": "La expresidenta de Adif asegura en el Supremo que Ábalos le preguntó cómo se contrataba al personal en la empresa que empleó a su pareja",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MRU7HBVQJRAFOBP4VGYH23Y4ZA.jpg?auth=4e866341f68b6644b0010a829d4b33bec2522c189c4e6f8c678531fc5708855a&width=1200",
+        "tags": [
+            "mascarillas",
+            "víctor de aldama",
+            "adif",
+            "corrupción",
+            "delitos",
+            "españa",
+            "koldo garcía",
+            "tribunal supremo",
+            "josé luis ábalos",
+            "caso koldo",
+            "ministerio de transportes",
+            "carreteras"
+        ],
+        "link": "https://elpais.com/espana/2025-03-05/la-expresidenta-de-adif-asegura-en-el-supremo-que-abalos-le-pregunto-como-se-contrataba-al-personal-en-la-empresa-que-empleo-a-su-pareja.html",
+        "date": "2025-03-05 13:59:16",
+        "sentiment_score": -0.060331180691719055
+    },
+    {
+        "title": "El juez prorroga seis meses la investigación contra el fiscal general",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SPIQPPSNX5GKPPJV25PARKJL54.jpg?auth=fba84a0e2e5ce4ddb96f4d8b79828f4d2485070383ce9622a11124910f2e607a&width=1200",
+        "tags": [
+            "españa",
+            "delitos",
+            "alberto gonzález amador",
+            "fiscalía general estado",
+            "isabel díaz ayuso",
+            "revelación secretos",
+            "álvaro garcía ortiz",
+            "tribunal supremo"
+        ],
+        "link": "https://elpais.com/espana/2025-03-05/el-juez-prorroga-seis-meses-la-investigacion-contra-el-fiscal-general.html",
+        "date": "2025-03-05 13:14:12",
+        "sentiment_score": -0.8399784341454506
+    },
+    {
+        "title": "Unos 4.000 veterinarios piden a Agricultura la derogación de la norma que les impide dispensar medicamentos a animales",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250305180948_120.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-4000-veterinarios-piden-agricultura-derogacion-norma-les-impide-dispensar-medicamentos-animales-20250305180948.html",
+        "date": "2025-03-05 17:09:48",
+        "sentiment_score": -0.1286044344305992
+    },
+    {
+        "title": "La final del Mundial de 2026 incluirá por primera vez un espectáculo de medio tiempo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/03/05/final-mundial-2026-tendra-espectaculo-medio-tiempo-trax/",
+        "date": "2025-03-05 17:03:40",
+        "sentiment_score": 0.17846709489822388
+    },
+    {
+        "title": "La respuesta, con cita bíblica, del hermano de Dorado al que no respetaron el minuto de silencio",
+        "image_url": "https://imagenes.eldebate.com/files/image_16_9_desktop/uploads/2025/03/05/67c880b679568.jpeg",
+        "tags": [
+            "champions league"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/champions-league/20250305/elegante-respuesta-cita-biblica-hermano-dorado-no-respetaron-minuto-silencio_276119.html",
+        "date": "2025-03-05 16:58:56",
+        "sentiment_score": -0.6700278371572495
+    },
+    {
+        "title": "Futbolistas brasileños sufren grave accidente de tránsito en camino al entrenamiento",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/03/Bragantino-e1741189060640.jpg",
+        "tags": [
+            "brasil",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2025/03/05/futbolistas-brasilenos-sufren-grave-accidente-de-transito-en-camino-al-entrenamiento/",
+        "date": "2025-03-05 16:57:56",
+        "sentiment_score": -0.1895657628774643
+    },
+    {
+        "title": "Athletic y Real Sociedad quieren golpear primero a la entonada Roma y el alicaído United",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250305175642_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-athletic-real-sociedad-quieren-golpear-primero-entonada-roma-alicaido-united-20250305175642.html",
+        "date": "2025-03-05 16:56:42",
+        "sentiment_score": 0.19864720106124878
+    },
+    {
+        "title": "La ley de vivienda no funciona: el precio del alquiler se ha incrementado un 13,2 % en el último año",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/01/22/65aeaed1ccce6.r_d.430-322.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.eldebate.com/economia/20250305/ley-vivienda-no-funciona-precio-alquiler-incrementado-132-ultimo-ano_276144.html",
+        "date": "2025-03-05 16:55:58",
+        "sentiment_score": -0.6895700395107269
+    },
+    {
+        "title": "La imagen de Mbappé ante el Atlético provoca dudas de su estado físico a Paco González: \"Por una muela no estás así\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/03/05/67c79df8da243.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/imagen-mbappe-atletico-provoca-dudas-fisico-paco-gonzalez-muela-asi-20250305_3106891.html",
+        "date": "2025-03-05 16:53:57",
+        "sentiment_score": -0.11489084362983704
+    },
+    {
+        "title": "Cohecho, tráfico de influencias, malversación, blanqueo de capitales y organización criminal: todos los delitos a los que podría enfrentarse Ábalos",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/03/jose-luis-abalos.png",
+        "tags": [
+            "jessica rodríguez",
+            "koldo garcia",
+            "organización criminal",
+            "cohecho",
+            "blanqueo de capitales",
+            "app",
+            "josé luis ábalos",
+            "tráfico de influencias",
+            "víctor de aldama",
+            "noticias jurídicas",
+            "znoticia portada1",
+            "delitos",
+            "pedro morales",
+            "malversación",
+            "reportajes"
+        ],
+        "link": "https://www.economistjurist.es/noticias-juridicas/cohecho-trafico-de-influencias-malversacion-blanqueo-de-capitales-y-organizacion-criminal-todos-los-delitos-a-los-que-podria-enfrentarse-abalos/",
+        "date": "2025-03-05 16:52:43",
+        "sentiment_score": -0.8122360911220312
+    },
+    {
+        "title": "Un tribunal de Boyacá anula la elección del ruso Mikhail Krasnov como alcalde de Tunja",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KA5BOIDWGBFD7NVDM66M32Y4QU.jpg?auth=3ef33ca271ecce3c78882e2c151ef8474aba7453d7750e45652604ee41c24348&width=1200",
+        "tags": [
+            "américa",
+            "colombia",
+            "alcaldías colombia",
+            "latinoamérica",
+            "boyacá",
+            "tunja",
+            "tribunales",
+            "elecciones alcaldías colombia",
+            "políticos",
+            "alcaldía",
+            "inhabilitación"
+        ],
+        "link": "https://elpais.com/america-colombia/2025-03-05/un-tribunal-de-boyaca-anula-la-eleccion-del-ruso-mikhail-krasnov-como-alcalde-de-tunja.html",
+        "date": "2025-03-05 17:09:10",
+        "sentiment_score": -0.5961962677538395
+    },
+    {
+        "title": "Las patronales Foment y Pimec aplauden el regreso de la sede de La Caixa a Catalunya",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aedcfad1-8e82-4cc6-b169-2729f6e6a0b5_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20250305/reacciones-regreso-barcelona-catalunya-criteria-fundacio-caixa-114978891",
+        "date": "2025-03-05 17:07:50",
+        "sentiment_score": 0.7370584979653358
+    },
+    {
+        "title": "El retorno de las empresas que trasladaron su sede fuera de Catalunya se acelera",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/01/23/67917b0289f77.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250305/10447331/criteria-caixa-fundacion-la-caixa-sede-cambio-empresas-catalunya.html",
+        "date": "2025-03-05 17:07:09",
+        "sentiment_score": 0.4221345856785774
+    },
+    {
+        "title": "La Caixa y Criteria vuelven a Catalunya: siete años y medio de una decisión inédita",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/01/66ab524d97311.r_d.2014-1074-1220.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250305/10446651/la-caixa-criteria-cataluna-sede-regreso-retorno-barcelona-decision.html",
+        "date": "2025-03-05 17:07:00",
+        "sentiment_score": 0.07053132355213165
+    },
+    {
+        "title": "La Caixa vuelve a Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/03/05/67c88723b11db.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250305/10446765/la-caixa-criteria-fundacion-sede-social-barcelona-cataluna-traslado.html",
+        "date": "2025-03-05 17:06:56",
+        "sentiment_score": 0.19900092482566833
+    },
+    {
+        "title": "Amplían la denuncia a una iglesia evangélica de Terrassa por \"vejaciones\" a feligreses",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2021/04/27/gran-barcelona/576952329_9985383_1706x960.jpg?contentId=ESPIMA20210427_0030",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sucesos/20250305/amplian-la-denuncia-una-iglesia-evangelica-de-terrassa-por-vejaciones-feligreses/928907197_0.html",
+        "date": "2025-03-05 17:05:35",
+        "sentiment_score": -0.9005968626588583
+    },
+    {
+        "title": "Amplían la denuncia a una iglesia evangélica de Terrassa por \"vejaciones\" a feligreses",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/05/juzgado-de-instruccion-4-de-terrassa-barcelona.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5688354/0/amplian-la-denuncia-a-una-iglesia-evangelica-de-terrassa-por-vejaciones-a-feligreses/",
+        "date": "2025-03-05 17:04:22",
+        "sentiment_score": 0.10448377206921577
+    },
+    {
+        "title": "Mariano Rajoy y Gabriel Rufián protagonizan un brutal enfrentamiento con cruce de 'zascas' en el Congreso: \"¿Sabe quién es Judas Iscariote?\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/03/05/67c8797cd720d.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20250305/1002419909/mariano-rajoy-gabriel-rufian-protagonizan-brutal-enfrentamiento-cruce-zascas-congreso-judas-iscariote-dct.html",
+        "date": "2025-03-05 17:03:53",
+        "sentiment_score": -0.14966267347335815
+    },
+    {
+        "title": "Barcelona abrirá en septiembre el casal de personas mayores de la manzana de Germanetes del Eixample",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e6eb2579-17af-444f-a4f7-f61286a32572_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20250305/barcelona-abrira-septiembre-casal-personas-mayores-germanetes-eixample-114978887",
+        "date": "2025-03-05 17:02:07",
+        "sentiment_score": 0.12113603949546814
+    },
+    {
+        "title": "La UVic inviste doctora Honoris causa a la lingüista Teresa Cabré",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250305180142_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-uvic-inviste-doctora-honoris-causa-linguista-teresa-cabre-20250305180142.html",
+        "date": "2025-03-05 17:01:42",
+        "sentiment_score": 0.0997239276766777
+    },
+    {
+        "title": "Inmigrante acusado de cargos críticos por el ICE: Hasta 12 años de prisión por Green Card falsa",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741193944503.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/inmigrante-acusado-de-cargos-criticos-por-el-ice-hasta-12-anos-de-prision-por-green-card-falsa-2025351330",
+        "date": "2025-03-05 17:03:00",
+        "sentiment_score": -0.6672984752804041
+    },
+    {
+        "title": "Nueva York facilita trámites para que inmigrantes sin papeles obtengan este documento",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741195583314.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/nueva-york-facilita-tramites-para-que-inmigrantes-sin-papeles-obtengan-este-documento--20253512510",
+        "date": "2025-03-05 16:51:00",
+        "sentiment_score": -0.3146055769175291
+    },
+    {
+        "title": "Dile adiós a los gases estomacales con este efectivo remedio casero",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741192473802.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/dile-adios-a-los-gases-estomacales-con-este-efectivo-remedio-casero-20253512400",
+        "date": "2025-03-05 16:40:00",
+        "sentiment_score": -0.3511776924133301
+    },
+    {
+        "title": "Mercantil se pronuncia por falla en su plataforma este miércoles 5 de marzo",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741191558185.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/mercantil-se-pronuncia-por-falla-en-su-plataforma-este-miercoles-5-de-marzo--20253512280",
+        "date": "2025-03-05 16:28:00",
+        "sentiment_score": -0.1986457146704197
+    },
+    {
+        "title": "Inicia la Cuaresma y continúa el júbilo por San José Gregorio Hernández en La Candelaria",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741198204955.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/inicia-la-cuaresma-y-continua-el-jubilo-por-san-jose-gregorio-hernandez-en-la-candelaria--20253512240",
+        "date": "2025-03-05 16:24:00",
+        "sentiment_score": 0.4695810601115227
+    },
+    {
+        "title": "Alberto Camardiel designado Director Ejecutivo de Bancamiga",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741191549479.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/alberto-camardiel-designado-director-ejecutivo-de-bancamiga-20253512240",
+        "date": "2025-03-05 16:24:00",
+        "sentiment_score": 0.6976203061640263
+    },
+    {
+        "title": "Así se cotiza el peso mexicano frente al dólar este 5 de marzo",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741190640513.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/dolarlatam/asi-se-cotiza-el-peso-mexicano-frente-al-dolar-este-5-de-marzo-20253512240",
+        "date": "2025-03-05 16:24:00",
+        "sentiment_score": 0.005220226943492889
+    },
+    {
+        "title": "Chepa Candela: El nuevo empate de Mariángel Ruiz dejó de ser clandestino",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741191175131.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farándula  - chepa candela"
+        ],
+        "link": "https://2001online.com/farandula/chepa-candela/chepa-candela-el-nuevo-empate-de-mariangel-ruiz-dejo-de-ser-clandestino-20253512150",
+        "date": "2025-03-05 16:15:00",
+        "sentiment_score": 0.8348745843395591
+    },
+    {
+        "title": "Duelo alemán en la Champions: Bayern y Bayer se miden por un lugar en cuartos",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741191432106.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/duelo-aleman-en-la-champions-bayern-y-bayer-se-miden-por-un-lugar-en-cuartos-20253512130",
+        "date": "2025-03-05 16:13:00",
+        "sentiment_score": 0.3362840265035629
+    },
+    {
+        "title": "Las cinco criptomonedas que usaría Trump para su nueva “reserva federal”",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741192288032.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/las-cinco-criptomonedas-que-usaria-trump-para-su-nueva-reserva-federal--20253512130",
+        "date": "2025-03-05 16:13:00",
+        "sentiment_score": 0.40496954321861267
     }
 ];
