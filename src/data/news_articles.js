@@ -140,16 +140,6 @@ export default [
         "sentiment_score": -0.7234835587441921
     },
     {
-        "title": "Zelensky afirma que la relación de Ucrania con EE.UU. continuará",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/zelensky-20250302234814775-20250303131248082.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/zelensky-ucrania-estados-unidos-rusia-guerra-trax/",
-        "date": "2025-03-03 13:16:32",
-        "sentiment_score": -0.1741444319486618
-    },
-    {
         "title": "¿Un DOGE a la europea? Las tecnológicas del continente miran a Estados Unidos",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/03/DAMBin-RAevATQWIPtcikvQcpUhLPL-1200x840@diario_abc.jpg",
         "tags": [
@@ -198,56 +188,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/embarazadas-sufre-depresion-ansiedad-recibe-tratamiento-20250303164940-nt.html",
         "date": "2025-03-03 15:49:41",
         "sentiment_score": -0.0033982694149017334
-    },
-    {
-        "title": "La Fiscalía Europea investiga el fraude de 464 millones de fondos comunitarios en España, casi la mitad por el IVA",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/03/1479576955-R4KyxWlXH5vmjAQN4L3x2aK-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/fiscalia-europea-investiga-fraude-464-millones-fondos-20250303131306-nt.html",
-        "date": "2025-03-03 12:13:07",
-        "sentiment_score": -0.18020936846733093
-    },
-    {
-        "title": "El Corte Inglés informa de un acceso no autorizado a datos de sus clientes, aunque sin riesgo de fraude",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/03/03/eci-k49H-U7037838351386H-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/corte-ingles-informa-acceso-autorizado-datos-clientes-20250303125745-nt.html",
-        "date": "2025-03-03 12:05:33",
-        "sentiment_score": -0.28268735110759735
-    },
-    {
-        "title": "Zelenski insiste en dar las gracias a EE.UU. por su apoyo y se ofrece a firmar el acuerdo sobre los minerales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/03/zelenskii-kCy-U70377666481sc-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/zelenski-insiste-dar-gracias-eeuu-apoyo-ofrece-20250303121425-nt.html",
-        "date": "2025-03-03 12:05:24",
-        "sentiment_score": 0.008470743894577026
-    },
-    {
-        "title": "La futura coalición alemana ultima un fondo especial de rearme de hasta 400.000 millones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/03/merz-ka4-U70378034570SwG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/futura-coalicion-alemana-ultima-fondo-especial-rearme-20250303123110-nt.html",
-        "date": "2025-03-03 12:00:48",
-        "sentiment_score": -0.05701223015785217
-    },
-    {
-        "title": "CSIF pide explicaciones a Tragsatec e Ineco ante el supuesto caso de enchufismo de la expareja de Ábalos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/03/balosjaimegarca-RCn8qFGniG7DbiBT1U9FfQI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/csif-pide-explicaciones-tragsatec-ineco-ante-supuesto-20250303125428-nt.html",
-        "date": "2025-03-03 11:55:55",
-        "sentiment_score": -0.8992355149239302
     },
     {
         "title": "ERC asegura que está ultimando con el Govern un acuerdo para regular los alquileres de temporada",
@@ -378,38 +318,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-03/la-generalitat-envia-a-los-bomberos-a-vigilar-barrancos-como-el-del-poyo-ante-la-alerta-naranja-por-lluvias.html",
         "date": "2025-03-03 14:40:23",
         "sentiment_score": -0.8243615459650755
-    },
-    {
-        "title": "Feijóo mantiene su respaldo a Mazón, pero afirma que su Gobierno “no ha estado a la altura”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WC7QWUXFDJIPLEGUZJ74XJGIJI.jpg?auth=ba04dbd5d582c85584ea3f65decb56bd49713b84225f0463ea14bd0e0c149a3a&width=1200",
-        "tags": [
-            "inundaciones dana octubre 2024",
-            "inundaciones",
-            "carlos mazón",
-            "alberto núñez feijóo",
-            "generalitat valenciana",
-            "españa",
-            "dimisiones políticas"
-        ],
-        "link": "https://elpais.com/espana/2025-03-03/feijoo-mantiene-su-respaldo-a-mazon-pero-afirma-que-su-gobierno-no-ha-estado-a-la-altura.html",
-        "date": "2025-03-03 14:17:55",
-        "sentiment_score": 0.012052014470100403
-    },
-    {
-        "title": "La Audiencia Provincial abre la vía para investigar a la pareja de Ayuso por dos nuevos delitos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GXV4YVLMAJHZXIKB7FK5W6YDRE.jpg?auth=2740ddbc7184f268a83363681d620db9c2fc6be4481d7ed391b27195374d05e9&width=1200",
-        "tags": [
-            "fraude fiscal",
-            "ap madrid",
-            "isabel díaz ayuso",
-            "juzgados",
-            "alberto gonzález amador",
-            "comunidad de madrid",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-03-03/la-audiencia-provincial-abre-la-via-para-investigar-a-la-pareja-de-ayuso-por-dos-nuevos-delitos.html",
-        "date": "2025-03-03 14:04:43",
-        "sentiment_score": -0.8099098317325115
     },
     {
         "title": "Cambio de hora 2025: esta es la fecha en la que empezará el horario de verano",
@@ -8571,5 +8479,484 @@ export default [
         "link": "https://2001online.com/usa/servicios/beneficiarios-del-seguro-social-usa-que-recibiran-hasta-5-108-el-proximo-miercoles-12-de-marzo-calendario-y-montos-20253616540",
         "date": "2025-03-06 20:54:00",
         "sentiment_score": 0.06534766405820847
+    },
+    {
+        "title": "La grandes economías evitan el 'aterrizaje brusco' en un año de tensiones geopolíticas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/la-grandes-economias-evitan-el-aterrizaje-brusco-en-un-ano-de-tensiones-geopoliticas/",
+        "date": "2025-03-07 02:18:46",
+        "sentiment_score": -0.8983449870720506
+    },
+    {
+        "title": "La compra de vivienda se dispara un 51% en octubre y suma el mayor dato en 17 años y medio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/la-compra-de-vivienda-se-dispara-un-51-en-octubre-y-suma-el-mayor-dato-en-17-anos-y-medio/",
+        "date": "2025-03-07 02:18:33",
+        "sentiment_score": 0.7671914622187614
+    },
+    {
+        "title": "El IBEX abre cauto, con una leve caída del 0,08 %, una semana marcada por bancos centrales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/el-ibex-abre-cauto-con-una-leve-caida-del-008-una-semana-marcada-por-bancos-centrales/",
+        "date": "2025-03-07 02:18:03",
+        "sentiment_score": -0.8863479746505618
+    },
+    {
+        "title": "Hoy será noticia. Viernes 7 de marzo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/07/hoy-sera-noticia-viernes-7-de-marzo/",
+        "date": "2025-03-07 02:15:34",
+        "sentiment_score": 0.042466580867767334
+    },
+    {
+        "title": "¿Cómo estará el clima en Barcelona?",
+        "image_url": "https://www.infobae.com/resizer/v2/WTKPH2N3KBGOJARMOATCFJTIHE.jpg?auth=61f256061691fb7cec8f4a640ee53be3198d67d21c38955f28ffe68ccbef92ae&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/03/07/como-estara-el-clima-en-barcelona/",
+        "date": "2025-03-07 02:00:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Lambán cree que es \"una anomalía\" que un ministro lidere la oposición a un presidente autonómico",
+        "image_url": "https://www.infobae.com/resizer/v2/FSHZBFCJ6FFJXC54LDTVI76ER4.jpg?auth=27238d7ed9899db7c07a54aac21a21b2f19baef283fddd172e522faf19a48545&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/lamban-cree-que-es-una-anomalia-que-un-ministro-lidere-la-oposicion-a-un-presidente-autonomico/",
+        "date": "2025-03-07 01:48:43",
+        "sentiment_score": -0.8953706119209528
+    },
+    {
+        "title": "Junqueras apuesta por la \"reconexión\" de ERC con la sociedad y pide nuevos acuerdos para las cuentas",
+        "image_url": "https://www.infobae.com/resizer/v2/GVTHQVVUVVHGPA7AG3KWK4KLMY.jpg?auth=89e94436c62766f50cbdc3436c7e3258626d8fdb6bec26d59522fd9a33b5cdf8&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/junqueras-apuesta-por-la-reconexion-de-erc-con-la-sociedad-y-pide-nuevos-acuerdos-para-las-cuentas/",
+        "date": "2025-03-07 01:48:28",
+        "sentiment_score": 0.3684874027967453
+    },
+    {
+        "title": "La Bolsa Seúl baja un 0,22 % tras la destitución del presidente surcoreano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/la-bolsa-seul-baja-un-022-tras-la-destitucion-del-presidente-surcoreano/",
+        "date": "2025-03-07 01:34:25",
+        "sentiment_score": -0.07943804562091827
+    },
+    {
+        "title": "La Bolsa de Shanghái cae un 0,16 % y la de Shenzhen, un 1,3 %",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/la-bolsa-de-shanghai-cae-un-016-y-la-de-shenzhen-un-13/",
+        "date": "2025-03-07 01:34:07",
+        "sentiment_score": 0.09646428376436234
+    },
+    {
+        "title": "El Nikkei cierra plano a la espera de las reuniones de política monetaria en Japón y EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/el-nikkei-cierra-plano-a-la-espera-de-las-reuniones-de-politica-monetaria-en-japon-y-eeuu/",
+        "date": "2025-03-07 01:33:53",
+        "sentiment_score": -0.5464759469032288
+    },
+    {
+        "title": "Cientos de monjes budistas novatos acuden a recitar las enseñanzas de Buda a emblemático templo",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/monjes-horiz-thumb.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/monjes-budistas-rezan-buda-nepal-orix/",
+        "date": "2025-03-07 02:12:11",
+        "sentiment_score": -0.0054961442947387695
+    },
+    {
+        "title": "Senado aprueba reforma que prohibiría la siembra de maíz transgénico en México",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-1243845002.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/senado-mexico-aprueba-reforma-proteger-maiz-nativo-perspectivas-mexico-tv-fast/",
+        "date": "2025-03-07 00:57:26",
+        "sentiment_score": -0.46742646396160126
+    },
+    {
+        "title": "La dieta, factor clave para un sistema digestivo saludable",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-71148282.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dieta-intestino-saludable-minuto-de-salud-fast/",
+        "date": "2025-03-07 00:21:40",
+        "sentiment_score": 0.25919269770383835
+    },
+    {
+        "title": "Se van a enterar los rusos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/03/07/plaza-roja_20250307020952-Rb7kNiO5o23esB6n9jOedsM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-van-enterar-rusos-20250307195312-nt.html",
+        "date": "2025-03-07 01:12:43",
+        "sentiment_score": -0.14276966452598572
+    },
+    {
+        "title": "Motosierra en la salud: el Gobierno argentino cierra el Instituto Nacional del Cáncer",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/07/1493194831-kjl-U70430903467A0G-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/motosierra-salud-gobierno-argentino-cierra-instituto-nacional-20250307020645-nt.html",
+        "date": "2025-03-07 01:06:45",
+        "sentiment_score": -0.13865125179290771
+    },
+    {
+        "title": "El Gobierno aumentará el gasto en Defensa y alcanzará el objetivo de llegar al 2% antes de 2029",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/23SDYVPB4NAMTD7ESCCZ5STKCA.jpg?auth=f913a906a5d927faaf6f81c8b7221018d3df477198f46db94ca24ff992b906ce&width=1200",
+        "tags": [
+            "oposición política",
+            "unión europea",
+            "españa",
+            "inmigración",
+            "defensa",
+            "pedro sánchez",
+            "juntsxcat",
+            "psoe",
+            "gobierno"
+        ],
+        "link": "https://elpais.com/espana/2025-03-06/el-gobierno-aumentara-el-gasto-en-defensa-y-avanzar-en-el-objetivo-de-llegar-al-2-antes-de-2029.html",
+        "date": "2025-03-06 22:29:41",
+        "sentiment_score": 0.37778574973344803
+    },
+    {
+        "title": "Constitucional admite un recurso de CSIF para recuperar pagas extras de empleados públicos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/constitucional-admite-un-recurso-de-csif-para-recuperar-pagas-extras-de-empleados-publicos/",
+        "date": "2025-03-07 01:33:11",
+        "sentiment_score": 0.12390364706516266
+    },
+    {
+        "title": "La comunidad universitaria discute cómo endurecer la vigilancia a los nuevos centros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/la-comunidad-universitaria-discute-como-endurecer-la-vigilancia-a-los-nuevos-centros/",
+        "date": "2025-03-07 01:18:36",
+        "sentiment_score": 0.6024617310613394
+    },
+    {
+        "title": "Efemérides del 17 de diciembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2023/12/16/efemerides-del-17-de-diciembre/",
+        "date": "2025-03-07 01:04:11",
+        "sentiment_score": -0.07900439202785492
+    },
+    {
+        "title": "Muface, objetores al aborto y Primaria copan el último Interterritorial del año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/16/muface-objetores-al-aborto-y-primaria-copan-el-ultimo-interterritorial-del-ano/",
+        "date": "2025-03-07 00:48:25",
+        "sentiment_score": 0.10185304284095764
+    },
+    {
+        "title": "Las CCAA retienen la recaudación patrimonial y suavizan Sucesiones",
+        "image_url": "https://phantom-expansion.uecdn.es/52549dea65b7f04e509e038018603959/crop/0x0/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/22/17059503593718.jpg",
+        "tags": [
+            "artículos juande portillo>",
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/03/07/67c9f466e5fdea282d8b457a.html",
+        "date": "2025-03-07 00:30:11",
+        "sentiment_score": 0.030717194080352783
+    },
+    {
+        "title": "El 'nuevo' United cumple un año entre recortes y lejos de las plazas europeas",
+        "image_url": "https://phantom-expansion.uecdn.es/6cc1a83ea113cc2504238c0910f03089/crop/82x35/1950x1280/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/06/17412886848929.jpg",
+        "tags": [
+            "reino unido>",
+            "premier league>",
+            "manchester united>"
+        ],
+        "link": "https://www.expansion.com/directivos/deporte-negocio/2025/03/07/67c9f4a0e5fdea820e8b4576.html",
+        "date": "2025-03-07 00:15:23",
+        "sentiment_score": -0.8495135037228465
+    },
+    {
+        "title": "Figura de la selección de Brasil se perdería partido contra Colombia por apuestas ilegales: piden suspensión de por vida",
+        "image_url": "https://www.infobae.com/resizer/v2/3J4BCCHRJJD2FBQHISJL6ATUV4.jpg?auth=fc9b93b5f7dbd88025ac81af9ebdd383e62524061211654046b14c237c181af8&height=1161&smart=true&width=1743",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/03/07/figura-de-la-seleccion-de-brasil-se-perderia-partido-contra-colombia-por-apuestas-ilegales-piden-suspension-de-por-vida/",
+        "date": "2025-03-07 00:15:03",
+        "sentiment_score": -0.8866409519687295
+    },
+    {
+        "title": "Stratesys crece un 15% y avanza en su plan de facturar 200 millones",
+        "image_url": "https://phantom-expansion.uecdn.es/ea06885fbad897b0f43a581b812e0686/crop/0x154/2048x1519/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/06/17412895746880.jpg",
+        "tags": [
+            "empresas>",
+            "transformación digital>",
+            "empresas de tecnología>",
+            "artículos nerea san esteban>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/03/07/67c9f4c3468aeb4b648b45cf.html",
+        "date": "2025-03-07 00:13:25",
+        "sentiment_score": 0.5684178844094276
+    },
+    {
+        "title": "Lo desconocido de Brahim Díaz: Los negocios y romances de la estrella del Real Madrid",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/imagen-brahim-2_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/lo-desconocido-brahim-diaz-negocios-amores-estrella-real-madrid",
+        "date": "2025-03-07 00:00:00",
+        "sentiment_score": 0.3596203401684761
+    },
+    {
+        "title": "Los secretos de Refik Anadol, el artista multimedia más importante del mundo: \"Me gusta dibujar con un pincel que piensa\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/1861b9a9fa57943b4e203b88b889c8c8/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/06/17412556313424.jpg",
+        "tags": [
+            "turquía",
+            "cultura",
+            "tecnología",
+            "medio ambiente",
+            "arte",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.elmundo.es/la-lectura/2025/03/06/67c1a7fdfdddffe3428b45fe.html",
+        "date": "2025-03-07 01:58:25",
+        "sentiment_score": 0.46747322753071785
+    },
+    {
+        "title": "Huawei publicó el documento técnico para redes LAN ópticas pasivas",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/8/92/8924a9ec-424b-5efb-9089-bfe56ab6acdd/67c9ab115ea97.image.jpg?resize=300%2C200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/tradeshow_news/huawei-public-el-documento-t-cnico-para-redes-lan-pticas-pasivas/article_48fac631-0418-5ad9-83b5-f60b9ae58281.html",
+        "date": "2025-03-07 01:33:00",
+        "sentiment_score": 0.13896044716238976
+    },
+    {
+        "title": "Huawei publicó el documento técnico para redes LAN ópticas pasivas",
+        "image_url": "https://mma.prnewswire.com/media/2635588/Huawei_White_Paper.jpg?p=publish",
+        "tags": [
+            "tls",
+            "networks",
+            "net",
+            "computer & electronics",
+            "telecommunications industry",
+            "cpr",
+            "telecommunications equipment",
+            "teq",
+            "iot",
+            "cloud computing/internet of things",
+            "internet technology",
+            "ite"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/huawei-publico-el-documento-tecnico-para-redes-lan-opticas-pasivas-302395285.html",
+        "date": "2025-03-07 01:33:00",
+        "sentiment_score": 0.09776883572340012
+    },
+    {
+        "title": "La musicoterapia tiene beneficios en los síntomas de depresión en personas con demencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/07/la-musicoterapia-tiene-beneficios-en-los-sintomas-de-depresion-en-personas-con-demencia/",
+        "date": "2025-03-07 01:15:17",
+        "sentiment_score": 0.23974203318357468
+    },
+    {
+        "title": "Tecno lanza el celular “más delgado del mundo”",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/03/telefono-delgano-tecno.png",
+        "tags": [
+            "celular",
+            "mwc 2025",
+            "barcelona",
+            "celular más delgado",
+            "tecnología",
+            "tecno spark slim",
+            "tecno",
+            "ciencia y tecnología"
+        ],
+        "link": "https://primicia.com.ve/mas/ciencia-y-tecnologia/tecno-lanza-el-celular-mas-delgado-del-mundo/",
+        "date": "2025-03-07 00:33:05",
+        "sentiment_score": 0.021461978554725647
+    },
+    {
+        "title": "Bienvenidos a la normalidad anormal",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/02/08/65c41a4046e54.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250307/bienvenidos-normalidad-anormal_276539.html",
+        "date": "2025-03-07 00:30:00",
+        "sentiment_score": 0.4382714480161667
+    },
+    {
+        "title": "Con la Caja y con La Caixa con Sánchez como el bolívar catalán",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/01/15/6787cf0c91bfa.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250307/caja-caixa-sanchez-como-bolivar-catalan_276537.html",
+        "date": "2025-03-07 00:30:00",
+        "sentiment_score": -0.0703309178352356
+    },
+    {
+        "title": "Ana López comparte el vídeo de la despedida de Borja González con su hijo Luca",
+        "image_url": "https://album.mediaset.es/eimg/2025/03/07/ana-lopez_1940.jpg",
+        "tags": [
+            "realities"
+        ],
+        "link": "https://www.telecinco.es/reality/20250307/supervivientes-ana-lopez-video-despedida-borja-gonzalez-hijo-luca_18_014962584.html",
+        "date": "2025-03-07 00:28:04",
+        "sentiment_score": -0.20688223838806152
+    },
+    {
+        "title": "Azora, Greystar, Hines y Plenium, a por las residencias de Brookfield",
+        "image_url": "https://phantom-expansion.uecdn.es/95c838a9403896badad6e4b425fb4f1f/crop/158x0/2048x1260/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/14/17052612390680.jpg",
+        "tags": [
+            "empresas>",
+            "inmobiliario y construcción>",
+            "mercado inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/03/07/67c9edc9468aebba5d8b4582.html",
+        "date": "2025-03-07 00:26:27",
+        "sentiment_score": 0.7632498722523451
+    },
+    {
+        "title": "Estados Unidos estaría por cerrar varios de sus consulados en el extranjero: uno de ellos en Latinoamérica",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741315222050.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/estados-unidos-estaria-por-cerrar-varios-de-sus-consulados-en-el-extranjero-uno-de-ellos-en-latinoamerica-20253622160",
+        "date": "2025-03-07 02:16:00",
+        "sentiment_score": 0.34425999969244003
+    },
+    {
+        "title": "Explota el cohete Starship de SpaceX: los escombros provocan la suspensión de vuelos en Miami",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741310756653.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/explota-el-cohete-starship-de-spacex-los-escombros-provocan-la-suspension-de-vuelos-en-miami-20253622250",
+        "date": "2025-03-07 02:08:49",
+        "sentiment_score": -0.6342528611421585
+    },
+    {
+        "title": "Se acerca la fecha en la que podría salir libre Yolanda Saldivar: conozca sus planes",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741312651193.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/se-acerca-la-fecha-en-la-que-podria-salir-libre-yolanda-saldivar-conozca-sus-planes-20253622550",
+        "date": "2025-03-07 02:08:49",
+        "sentiment_score": -0.8757746322080493
+    },
+    {
+        "title": "Petro dice que hablará con Maduro: quiere concretar una zona económica en El Catatumbo",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741313313044.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/petro-dice-que-hablara-con-maduro-quiere-concretar-una-zona-economica-en-el-catatumbo-2025362370",
+        "date": "2025-03-07 02:08:49",
+        "sentiment_score": -0.8129875268787146
+    },
+    {
+        "title": "Habilitan trámite de ficha catastral vía online en El Hatillo: así puede hacer la solicitud",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741316426452.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/habilitan-tramite-de-ficha-catastral-via-online-en-el-hatillo-asi-puede-hacer-la-solicitud-2025362270",
+        "date": "2025-03-07 02:08:49",
+        "sentiment_score": 0.18337156437337399
+    },
+    {
+        "title": "Redada ICE en Nuevo México: entre los detenidos se encuentra un mexicano con antecedentes penales",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741313324800.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/redada-ice-en-nuevo-mexico-entre-los-detenidos-se-encuentra-un-mexicano-con-antecedentes-penales-2025362260",
+        "date": "2025-03-07 02:06:00",
+        "sentiment_score": -0.7388803418725729
+    },
+    {
+        "title": "El Nazareno recorrerá las calles de Caracas: conoce las rutas desde el 8 de marzo",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741313157241.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/el-nazareno-recorrera-las-calles-de-caracas-conoce-las-rutas-desde-el-8-de-marzo-2025362240",
+        "date": "2025-03-07 02:04:00",
+        "sentiment_score": 0.06205018609762192
+    },
+    {
+        "title": "Deshazte de la piel muerta con este efectivo exfoliante de naranja",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741300067562.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/deshazte-de-la-piel-muerta-con-este-efectivo-exfoliante-de-naranja-2025362200",
+        "date": "2025-03-07 02:00:00",
+        "sentiment_score": 0.8449127580970526
+    },
+    {
+        "title": "Redadas ICE de este 6 de marzo: arrestan a cuatro indocumentados en local de Philadelphia",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741310867347.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-de-este-6-de-marzo-arrestan-a-cuatro-indocumentados-en-local-de-philadelphia--20253621270",
+        "date": "2025-03-07 01:27:00",
+        "sentiment_score": -0.7558658439666033
+    },
+    {
+        "title": "Departamento de Educación en riesgo de ser clausurado: Esto puede pasar con los programas de becas y financiamiento",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741310957235.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/departamento-de-educacion-en-riesgo-de-ser-clausurado-esto-puede-pasar-con-los-programas-de-becas-y-financiamiento-20253621240",
+        "date": "2025-03-07 01:24:00",
+        "sentiment_score": -0.8138999752700329
     }
 ];
