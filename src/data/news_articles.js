@@ -130,26 +130,6 @@ export default [
         "sentiment_score": 0.18633714318275452
     },
     {
-        "title": "“Vamos a seguir produciendo”, dice Maduro tras la orden de que Chevron abandone Venezuela",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/nicolas-maduro-petroleo.jpg?quality=100&strip=info",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/maduro-orden-chevron-abandone-eeuu-cafe-tv/",
-        "date": "2025-03-06 14:04:37",
-        "sentiment_score": -0.5051735043525696
-    },
-    {
-        "title": "Dentro de una redada antidroga: CNN sigue en Ecuador a la Policía en el terreno",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/captura-de-pantalla-2025-03-06-142946.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/ecuador-redada-antidroga-policia-trax/",
-        "date": "2025-03-06 13:48:17",
-        "sentiment_score": -0.07757307589054108
-    },
-    {
         "title": "Donald Trump decide pausar hasta el 2 de abril los aranceles a México tras hablar con Sheinbaum",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/06/Trmpysecretariocomercio-kgTD-U70423345671DvF-1200x840@diario_abc.jpg",
         "tags": [
@@ -208,46 +188,6 @@ export default [
         "link": "https://www.abc.es/internacional/onu-concluye-toma-rehenes-equivaler-crimenes-guerra-20250306160859-nt.html",
         "date": "2025-03-06 15:09:00",
         "sentiment_score": -0.3888093829154968
-    },
-    {
-        "title": "Telefónica fulmina de su equipo al 'hacker' Chema Alonso, la estrella de la era Pallete",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/03/06/chema-alonso-kEEE-U70421111449Z6E-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/telefonica-fulmina-equipo-chema-alonso-hacker-conocido-20250306141329-nt.html",
-        "date": "2025-03-06 13:33:33",
-        "sentiment_score": -0.02290165424346924
-    },
-    {
-        "title": "El BCE baja de nuevo los tipos: ¿cómo afecta esto a las hipotecas?",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/06/lagarde-rdp-R0VUPgTC9vZ9lcQnH5nCnDJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bce-baja-nuevo-tipos-afecta-hipotecas-20250306132957-nt.html",
-        "date": "2025-03-06 13:25:27",
-        "sentiment_score": -0.10298851132392883
-    },
-    {
-        "title": "El gasto en defensa y los aranceles dan una oportunidad a Europa para ser más competitiva, apunta Esade",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/03/06/1493366253-R9ZCb4X54cPIKIoZnQsDJGI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gasto-defensa-aranceles-dan-oportunidad-europa-competitiva-20250306141616-nt.html",
-        "date": "2025-03-06 13:18:31",
-        "sentiment_score": -0.08289903402328491
-    },
-    {
-        "title": "Más de 700 euros de diferencia en el salario medio entre las comunidades autónomas, según Adecco",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/06/yolandadazefe-RDu7AbZDyGOo3OYO4rpVMMP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/remuneracion-media-espanola-gana-poder-adquisitivo-587-20250306122540-nt.html",
-        "date": "2025-03-06 12:45:19",
-        "sentiment_score": -0.08395493030548096
     },
     {
         "title": "Detenido el ‘ángel del infierno’ que trató con un agente antidroga de EE UU creyendo que era un narco",
@@ -355,76 +295,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-03-06/el-juez-dicta-una-orden-de-alejamiento-para-la-profesora-de-la-garriga-barcelona-denunciada-por-agresion-sexual.html",
         "date": "2025-03-06 14:18:10",
         "sentiment_score": -0.27263982594013214
-    },
-    {
-        "title": "Cambio de patrón meteorológico: las lluvias seguirán el fin de semana, pero afectarán a otras zonas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JEZCT6OLHREVXJQG2ZZSFDLFAY.jpg?auth=e9b7bf72d15649ddbed597e17eca77c4ddc45bc79e15254c8b8a4c2f7facff81&width=1200",
-        "tags": [
-            "el tiempo",
-            "meteorología",
-            "climas",
-            "temperaturas mínimas",
-            "temperaturas máximas",
-            "noticias de españa",
-            "predicción meteorológica",
-            "temperaturas",
-            "aemet"
-        ],
-        "link": "https://elpais.com/espana/2025-03-06/cambio-de-patron-meteorologico-las-lluvias-seguiran-el-fin-de-semana-pero-afectaran-a-otras-zonas.html",
-        "date": "2025-03-06 14:12:48",
-        "sentiment_score": -0.8093421254307032
-    },
-    {
-        "title": "Una persona desaparecida y cuatro heridos tras una explosición de una pirotecnia en Alicante",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7DPKC7W22BKBKHBIQ64BVQOTUA.jpg?auth=7a8bb4f8413e1103aab1524677f357385b8c9e4b7c6373d0d6a9cea57d66e859&width=1200",
-        "tags": [
-            "emergencias",
-            "españa",
-            "alicante",
-            "explosiones",
-            "comunidad valenciana",
-            "sucesos"
-        ],
-        "link": "https://elpais.com/espana/2025-03-06/una-persona-desaparecida-y-cuatro-heridos-tras-una-explosicion-de-una-pirotecnia-en-alicante.html",
-        "date": "2025-03-06 14:05:48",
-        "sentiment_score": -0.8305943850427866
-    },
-    {
-        "title": "Feijóo plantea cambiar de ciudad el congreso del PP europeo previsto en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QDAVUK4UTNHZ3HEVM6JIMUWNDU.jpg?auth=113f08be9679abdebaeead80176da712a2ca6328743392d3950e970ea238a8ec&width=1200",
-        "tags": [
-            "pp",
-            "ppe",
-            "comunidad valenciana",
-            "dana",
-            "carlos mazón",
-            "españa",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://elpais.com/espana/2025-03-06/feijoo-plantea-cambiar-de-ciudad-el-congreso-del-pp-europeo-previsto-en-valencia.html",
-        "date": "2025-03-06 13:39:50",
-        "sentiment_score": -0.7947601452469826
-    },
-    {
-        "title": "Los alumnos vuelven el viernes a clase en Valencia y se retoman las fallas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DAO7QB5KYN2JVYIKGW3ENL4Q4M.jpg?auth=586cc3fcc7097c987232142300f1471172beefc9e554304abe68107a43b7767e&width=1200",
-        "tags": [
-            "aulas",
-            "fallas",
-            "comunidad valenciana",
-            "lluvia",
-            "educación",
-            "tormentas",
-            "colegios",
-            "ayuntamiento valencia",
-            "valencia",
-            "lluvias torrenciales",
-            "mascletá",
-            "maría josé catalá"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-06/los-alumnos-vuelven-el-viernes-a-clase-en-valencia-y-se-retoman-las-fallas.html",
-        "date": "2025-03-06 13:33:50",
-        "sentiment_score": 0.2496296763420105
     },
     {
         "title": "El atletismo palentino busca la gloria en el Europeo de pista cubierta",
@@ -8098,5 +7968,400 @@ export default [
         "link": "https://2001online.com/farandula/estos-son-los-conciertos-y-eventos-en-el-mes-de-marzo-que-puedes-pagar-con-cashea-20253917250",
         "date": "2025-03-09 20:12:32",
         "sentiment_score": 0.0944910142570734
+    },
+    {
+        "title": "PSC pide calma ante la advertencia de Puigdemont: \"No hay que perder el norte\"",
+        "image_url": "https://www.infobae.com/resizer/v2/SJPQXUFOMBD6JEFJUGHIE6YGRM.jpg?auth=d09ef541402f900fc33ebacc64e2fbf20ca4cc9227351d855bc2d192e7ee215d&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/psc-pide-calma-ante-la-advertencia-de-puigdemont-no-hay-que-perder-el-norte/",
+        "date": "2025-03-10 02:03:46",
+        "sentiment_score": 0.24566978216171265
+    },
+    {
+        "title": "Alquiler Seguro denuncia que limitar el temporal a 9 meses deja fuera miles de estudiantes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/alquiler-seguro-denuncia-que-limitar-el-temporal-a-9-meses-deja-fuera-miles-de-estudiantes/",
+        "date": "2025-03-10 02:03:31",
+        "sentiment_score": -0.8351489081978798
+    },
+    {
+        "title": "Montero vuelve a poner \"la mano en el fuego\" por su jefe de gabinete tras la declaración de Koldo García",
+        "image_url": "https://www.infobae.com/resizer/v2/U3YOP6K6LZCHNLZSYPAUI6WYYQ.jpg?auth=6c35cad2bae022b0c1ee72901d131f1bf5fef54f46edb7e79e1ba4c222b560bb&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/montero-vuelve-a-poner-la-mano-en-el-fuego-por-su-jefe-de-gabinete-tras-la-declaracion-de-koldo-garcia/",
+        "date": "2025-03-10 02:03:17",
+        "sentiment_score": -0.061457544565200806
+    },
+    {
+        "title": "Begoña Gómez entra al juzgado para declarar como investigada ante el juez Peinado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/begona-gomez-entra-al-juzgado-para-declarar-como-investigada-ante-el-juez-peinado/",
+        "date": "2025-03-10 02:03:02",
+        "sentiment_score": -0.8695870656520128
+    },
+    {
+        "title": "La facturación de la industria crece un 4,5 % en octubre tras dos meses a la baja",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/la-facturacion-de-la-industria-crece-un-45-en-octubre-tras-dos-meses-a-la-baja/",
+        "date": "2025-03-10 01:48:45",
+        "sentiment_score": 0.1610591784119606
+    },
+    {
+        "title": "Holaluz ve muy avanzadas las negociaciones con sus acreedores para ampliar su financiación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/holaluz-ve-muy-avanzadas-las-negociaciones-con-sus-acreedores-para-ampliar-su-financiacion/",
+        "date": "2025-03-10 01:48:21",
+        "sentiment_score": 0.7330293487757444
+    },
+    {
+        "title": "Las tarifas de peaje de Seitt suben en 2025 un 2% de base y un 11% para vehículos con Tag",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/las-tarifas-de-peaje-de-seitt-suben-en-2025-un-2-de-base-y-un-11-para-vehiculos-con-tag/",
+        "date": "2025-03-10 01:48:07",
+        "sentiment_score": 0.30368733406066895
+    },
+    {
+        "title": "Illa anuncia para 2025 un régimen sancionador por incumplir la ley de vivienda de Cataluña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/illa-anuncia-para-2025-un-regimen-sancionador-por-incumplir-la-ley-de-vivienda-de-cataluna/",
+        "date": "2025-03-10 01:47:38",
+        "sentiment_score": 0.2862601727247238
+    },
+    {
+        "title": "Las bolsas europeas abren levemente al alza en el día en el que la Fed decide sobre tipos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/las-bolsas-europeas-abren-levemente-al-alza-en-el-dia-en-el-que-la-fed-decide-sobre-tipos/",
+        "date": "2025-03-10 01:33:18",
+        "sentiment_score": -0.10873089730739594
+    },
+    {
+        "title": "El grupo CTT portugués compra la española de logística Cacesa por 91 millones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/el-grupo-ctt-portugues-compra-la-espanola-de-logistica-cacesa-por-91-millones/",
+        "date": "2025-03-10 01:33:04",
+        "sentiment_score": 0.655726557597518
+    },
+    {
+        "title": "\"Decidimos no volver a vivir a Bahía Blanca\", el dolor de una sobreviviente al temporal",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/doeyo.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/temporal-bahia-blanca-inundaciones-testimonio-victoria-doeyo-mirador-mundial-tv/",
+        "date": "2025-03-10 00:16:51",
+        "sentiment_score": -0.6492266729474068
+    },
+    {
+        "title": "¿Qué se juega en las elecciones primarias en Honduras?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2203633102.jpg?quality=100&strip=info",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/asi-se-viven-las-elecciones-primarias-en-honduras/",
+        "date": "2025-03-10 00:05:18",
+        "sentiment_score": -0.5045705121010542
+    },
+    {
+        "title": "Mark Carney será el sucesor de Trudeau y nuevo primer ministro canadiense",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2201257424.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mark-carney-primer-ministro-canada-trudeau-mirador-mundial-tv-fast/",
+        "date": "2025-03-09 23:23:05",
+        "sentiment_score": 0.11197946965694427
+    },
+    {
+        "title": "Enfrentamientos entre fuerzas de seguridad y partidarios de Assad en Siria dejan a más de 600 muertos",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2203610933-20250309174654315.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/muertos-enfrentamientos-siria-mirador-mundial-tv/",
+        "date": "2025-03-09 22:46:23",
+        "sentiment_score": -0.6848848424851894
+    },
+    {
+        "title": "“No tenemos aranceles con ellos ni ellos con nosotros”, Sheinbaum sobre EE.UU.",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2203657438.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/claudia-sheinbaum-zocalo-eeuu-aranceles-ush-orix-mirador-mundial-tv/",
+        "date": "2025-03-09 22:25:05",
+        "sentiment_score": -0.4093650057911873
+    },
+    {
+        "title": "Una avioneta con cinco pasajeros se estrella en el aparcamiento de una comunidad de jubilados en Pensilvania (EE.UU.)",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/10/GloaOn7WYAAYGYQ-kdCH-U70459120398BPF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/avioneta-cinco-pasajeros-estrella-aparcamiento-comunidad-jubilados-20250310014650-nt.html",
+        "date": "2025-03-10 00:47:23",
+        "sentiment_score": -0.533642441034317
+    },
+    {
+        "title": "El Real Madrid pagó una prima de 117 millones a Mbappé: el doble de gasto en fichajes que el Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/07/16/culemania/real-madrid/870923002_13233672_1706x960.jpg?contentId=ESPIMA20240716_0103",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250310/el-real-madrid-de-mbappe-el-barca/930156976_0.html",
+        "date": "2025-03-10 01:33:26",
+        "sentiment_score": -0.08428221195936203
+    },
+    {
+        "title": "09 MAR 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/09-mar-2025-tertulion-domingos-20250310_3109663.html",
+        "date": "2025-03-10 00:57:59",
+        "sentiment_score": -0.9202785575762391
+    },
+    {
+        "title": "Vidorreta: «La victoria nos permite seguir la estela del Madrid»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a18f8b20-76e9-4d11-84af-dd1e510b49b6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/03/10/vidorreta-victoria-permite-seguir-estela-115119698.html",
+        "date": "2025-03-10 00:31:59",
+        "sentiment_score": 0.6481284201145172
+    },
+    {
+        "title": "Pitos en la victoria del Real Madrid y el error de Correa en la derrota del Atleti, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/03/10/67ce31457bf56.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/pitos-victoria-real-madrid-error-correa-derrota-atleti-tertulion-domingos-20250310_3109653.html",
+        "date": "2025-03-10 00:27:53",
+        "sentiment_score": -0.05651438236236572
+    },
+    {
+        "title": "El Barça, lejos del top-5 de clubes con más socios del mundo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/11/10/culemania/culemaniacos/900170015_13703812_1706x960.jpg?contentId=ESPIMA20241110_0041",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20250310/el-barca-lejos-del-top-5-clubes-socios/928657178_0.html",
+        "date": "2025-03-09 23:26:08",
+        "sentiment_score": 0.05855828523635864
+    },
+    {
+        "title": "Efemérides del 19 de diciembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/efemerides-del-19-de-diciembre/",
+        "date": "2025-03-09 23:16:52",
+        "sentiment_score": 0.3864009529352188
+    },
+    {
+        "title": "«La ficción está para contar todas las realidades»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/03/10/AsuntosInternos.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiariomontanes.es/pantallas/series/ficcion-contar-realidades-20250310000535-ntrc.html",
+        "date": "2025-03-09 23:05:36",
+        "sentiment_score": 0.007642485201358795
+    },
+    {
+        "title": "Un camarero de Lleida consigue una pensión vitalicia por ser adicto al alcohol: el 100% de la base reguladora",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/03/10/67ce465712109.jpeg",
+        "tags": [
+            "lleida provincia"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/lleida-provincia/noticias/camarero-lleida-consigue-pension-vitalicia-adicto-alcohol-100-base-reguladora-20250310_3109665.html",
+        "date": "2025-03-10 02:04:11",
+        "sentiment_score": -0.2324470579624176
+    },
+    {
+        "title": "Laura Escanes aplaude la declaración de amor de Risto Mejide a Grecia Castta",
+        "image_url": "https://www.infobae.com/resizer/v2/O5XXP6PIQNDS5MCTF22ZFNKINY.jpg?auth=46eb52ba6e3b3326eed566a5cc7b55fbb90325e6d6dfcbfccc132ed15c4aa554&height=1439&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/18/laura-escanes-aplaude-la-declaracion-de-amor-de-risto-mejide-a-grecia-castta/",
+        "date": "2025-03-10 02:01:51",
+        "sentiment_score": 0.18866974115371704
+    },
+    {
+        "title": "El tritón del Montseny, en peligro crítico de extinción: reintroducen más de 350 ejemplares en su hábitat",
+        "image_url": "https://album.mediaset.es/eimg/2025/03/07/reintroduccion-del-triton-del-montseny-en-su-habitat-natura_b976.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250310/reintroduccion-triton-montseny-peligro-critico-extincion_18_014970792.html",
+        "date": "2025-03-10 02:00:20",
+        "sentiment_score": 0.20193418860435486
+    },
+    {
+        "title": "Seis de los diez yihadistas detenidos en Barcelona quedan en libertad pese a planear decapitaciones de críticos con el islam y tener una lista de objetivos",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/03/2025030715410981254-1-1.jpg",
+        "tags": [
+            "barcelona",
+            "violencia",
+            "terrorismo",
+            "policía",
+            "yihadismo",
+            "españa"
+        ],
+        "link": "https://gaceta.es/espana/seis-de-los-diez-yihadistas-detenidos-en-barcelona-quedan-en-libertad-pese-a-planear-decapitaciones-de-criticos-con-el-islam-y-tener-una-lista-de-objetivos-20250310-0259/",
+        "date": "2025-03-10 01:59:00",
+        "sentiment_score": -0.6707549914717674
+    },
+    {
+        "title": "El Santos de Neymar quedó eliminado del Campeonato Paulista: los dos argentinos que se convirtieron en verdugos",
+        "image_url": "https://www.infobae.com/resizer/v2/CLAL5DDNHVAHZLUIZF6GSXIXMY.jpg?auth=c06a9341b5238dfd331bc18ec3da64e3d4893509bd168633da49f50f2f76087a&height=2292&smart=true&width=3466",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/03/10/el-santos-de-neymar-quedo-eliminado-del-campeonato-paulista-los-dos-argentinos-que-se-convirtieron-en-verdugos/",
+        "date": "2025-03-10 01:51:51",
+        "sentiment_score": -0.4520428366959095
+    },
+    {
+        "title": "Historia en 4 tiempos | Un día como hoy: \"El Patronato del Enfermo Pobre\"",
+        "image_url": "https://static.laregion.es/clip/1f7e21aa-6690-49b9-9c5b-ddb80aa60152_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/provincia/historia-4-tiempos-dia-hoy_1_20250310-3442492.html",
+        "date": "2025-03-10 01:30:27",
+        "sentiment_score": -0.04082157462835312
+    },
+    {
+        "title": "Predicciones de la semana del 10 al 16 de marzo",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741357020680.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-10-al-16-de-marzo-2025392200",
+        "date": "2025-03-10 02:00:00",
+        "sentiment_score": -0.27272943407297134
+    },
+    {
+        "title": "Yulimar Rojas abandona competencia en España: regresa tras casi dos años de ausencia",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741571648352.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/yulimar-rojas-abandona-competencia-en-espana-regresa-tras-casi-dos-anos-de-ausencia-20253921540",
+        "date": "2025-03-10 01:54:00",
+        "sentiment_score": 0.8831864316016436
+    },
+    {
+        "title": "La moneda antigua de cobre que puede llegar a valer $22.800: así puede reconocerla",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741571176080.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/la-moneda-antigua-de-cobre-que-puede-llegar-a-valer-22-800-asi-puede-reconocerla-20253921450",
+        "date": "2025-03-10 01:45:00",
+        "sentiment_score": 0.6572788655757904
+    },
+    {
+        "title": "Eligen a Mark Carney para sustituir a Justin Trudeau como primer ministro de Canadá",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741570106715.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/eligen-a-mark-carney-para-sustituir-a-justin-trudeau-como-primer-ministro-de-canada-20253921280",
+        "date": "2025-03-10 01:28:00",
+        "sentiment_score": 0.34125301241874695
+    },
+    {
+        "title": "Así es como ICE identifica y rastrea a inmigrantes indocumentados: la agencia monitorea hasta las redes sociales",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741569002868.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-es-como-ice-identifica-y-rastrea-a-inmigrantes-indocumentados-la-agencia-monitorea-hasta-las-redes-sociales--2025392170",
+        "date": "2025-03-10 01:07:00",
+        "sentiment_score": -0.07841288298368454
+    },
+    {
+        "title": "Sistema Patria: Cómo certificar su número de teléfono y le lleguen los beneficios",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741433027179.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sistema-patria-como-certificar-su-numero-de-telefono-y-le-lleguen-los-beneficios-2025392100",
+        "date": "2025-03-10 01:00:00",
+        "sentiment_score": 0.5621940083801746
+    },
+    {
+        "title": "La fórmula natural para eliminar las ojeras rápidamente",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741566382347.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/la-formula-natural-para-eliminar-las-ojeras-rapidamente-2025392100",
+        "date": "2025-03-10 01:00:00",
+        "sentiment_score": -0.7979385405778885
+    },
+    {
+        "title": "Cheque de estímulo DOGE: Esto es lo que falta para comenzar a distribuir el dinero a los contribuyentes",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741565221634.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cheque-de-estimulo-doge-esto-es-lo-que-falta-para-comenzar-a-distribuir-el-dinero-a-los-contribuyentes-2025392040",
+        "date": "2025-03-10 00:04:00",
+        "sentiment_score": 0.08016926795244217
+    },
+    {
+        "title": "Michael Jackson: secuela del documental Leaving Neverland ya tiene fecha de estreno",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741148494197.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/michael-jackson-secuela-del-documental-leaving-neverland-ya-tiene-fecha-de-estreno-2025392000",
+        "date": "2025-03-10 00:00:00",
+        "sentiment_score": -0.5989063810557127
+    },
+    {
+        "title": "Conozca los requisitos para contraer matrimonio en el municipio Baruta",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741362759844.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conozca-los-requisitos-para-contraer-matrimonio-en-el-municipio-baruta-2025392000",
+        "date": "2025-03-10 00:00:00",
+        "sentiment_score": -0.07777957618236542
     }
 ];
