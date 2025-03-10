@@ -1,264 +1,5 @@
 export default [
     {
-        "title": "España cae ante Gran Bretaña y se queda sin opciones de estar en el torneo olímpico 2026",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/espana-cae-ante-gran-bretana-y-se-queda-sin-opciones-de-estar-en-el-torneo-olimpico-2026/",
-        "date": "2025-03-06 06:32:23",
-        "sentiment_score": -0.8333167731761932
-    },
-    {
-        "title": "35-29. La fuerte defensa del Nava desgasta al Guadalajara tras el descanso",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/35-29-la-fuerte-defensa-del-nava-desgasta-al-guadalajara-tras-el-descanso/",
-        "date": "2025-03-06 06:32:09",
-        "sentiment_score": 0.7422131486237049
-    },
-    {
-        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades este 6 de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/BTPA7NB3WNDPVH6AZCXWFO65IU.jpg?auth=a71f70287ab064cbe93da1b5dde0299ebf118d2b10fcd4ed48b326515faf24aa&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/03/06/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-este-6-de-marzo/",
-        "date": "2025-03-06 06:31:03",
-        "sentiment_score": -0.006723970174789429
-    },
-    {
-        "title": "Ristic sufre una lesión en el isquiotibial derecho",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/ristic-sufre-una-lesion-en-el-isquiotibial-derecho/",
-        "date": "2025-03-06 06:18:31",
-        "sentiment_score": -0.8569432105869055
-    },
-    {
-        "title": "Junqueras ve \"imposible\" nuevos acuerdos con los socialistas si no cumplen sus compromisos",
-        "image_url": "https://www.infobae.com/resizer/v2/H36VJ6GRDJFFZDDOEWQ22BJCQ4.jpg?auth=ab04f83df54906ec3ddae1d1058221bd5224ea558067da05420fe15cb2794b01&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/junqueras-ve-imposible-nuevos-acuerdos-con-los-socialistas-si-no-cumplen-sus-compromisos/",
-        "date": "2025-03-06 06:18:18",
-        "sentiment_score": -0.8619061894714832
-    },
-    {
-        "title": "Junqueras tiende la mano a sus adversarios internos y urge al PSOE a cumplir lo pactado",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/junqueras-tiende-la-mano-a-sus-adversarios-internos-y-urge-al-psoe-a-cumplir-lo-pactado/",
-        "date": "2025-03-06 06:18:04",
-        "sentiment_score": 0.23927290737628937
-    },
-    {
-        "title": "Godàs ve el cambio inevitable y no entrará en la ejecutiva de Junqueras: \"Sería pastelear\"",
-        "image_url": "https://www.infobae.com/resizer/v2/B43JDZHXRJAJHLABFS7U4NGSRQ.jpg?auth=51b24cbffa9b090aa0765e68e161f738e28d55d1adaad2acd40409ca0362b6cf&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/godas-ve-el-cambio-inevitable-y-no-entrara-en-la-ejecutiva-de-junqueras-seria-pastelear/",
-        "date": "2025-03-06 06:17:50",
-        "sentiment_score": 0.3461150825023651
-    },
-    {
-        "title": "Navas: \"Me queda un partido\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/navas-me-queda-un-partido/",
-        "date": "2025-03-06 06:17:34",
-        "sentiment_score": 0.4194433242082596
-    },
-    {
-        "title": "Godàs avisa de que ERC está dividida y pide \"respeto\" para los cargos que le han apoyado",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/godas-avisa-de-que-erc-esta-dividida-y-pide-respeto-para-los-cargos-que-le-han-apoyado/",
-        "date": "2025-03-06 06:17:21",
-        "sentiment_score": 0.08947956562042236
-    },
-    {
-        "title": "Brillos y estrellas contra el frío para dar calor a la alfombra roja de los Forqué",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/brillos-y-estrellas-contra-el-frio-para-dar-calor-a-la-alfombra-roja-de-los-forque/",
-        "date": "2025-03-06 06:17:07",
-        "sentiment_score": 0.686616312712431
-    },
-    {
-        "title": "El temporal de lluvia acaba hoy pero le sigue la llegada de una borrasca profunda el viernes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LZ3L6YSUM5AC4O6HM6NUELR2XI.jpg?auth=7f824ffdfdcf0cefa0a31620ec6d06a5aea6f6474d047407e31abe1c21604929&width=1200",
-        "tags": [
-            "aemet",
-            "meteorología",
-            "temperaturas máximas",
-            "temperaturas mínimas",
-            "noticias de españa",
-            "temperaturas",
-            "predicción meteorológica",
-            "el tiempo",
-            "climas"
-        ],
-        "link": "https://elpais.com/espana/2025-03-06/el-temporal-de-lluvia-acaba-hoy-pero-le-sigue-la-llegada-de-una-borrasca-profunda-el-viernes.html",
-        "date": "2025-03-06 06:32:04",
-        "sentiment_score": -0.4136410839855671
-    },
-    {
-        "title": "Brahim y Rodrygo dejan su sello",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/271ee43d-df48-89a8-d8120527c6d91bd4.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z271ee25b-c538-add2-379d990a00656063/202503/brahim-y-rodrygo-dejan-su-sello",
-        "date": "2025-03-06 06:17:02",
-        "sentiment_score": 0.36957816779613495
-    },
-    {
-        "title": "Regalos para el Día del Padre: 15 ideas para sorprender a un papá futbolero",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AKYLX5AZQVGZFOIFVOBHFUOOTA.png?auth=38b27ed11cd94863c518cebaac146092b9e63ef313a217b565a7266630db1130&width=1200",
-        "tags": [
-            "regalos",
-            "día del padre"
-        ],
-        "link": "https://elpais.com/escaparate/estilo-de-vida/2025-03-06/regalos-para-padres-futboleros.html",
-        "date": "2025-03-06 06:15:00",
-        "sentiment_score": 0.3020915798842907
-    },
-    {
-        "title": "Rayo y Real Madrid intercambian golpes en Vallecas (2-2)",
-        "image_url": "https://www.infobae.com/resizer/v2/45WIQL552JEZ7GOFBHSV5PGA4U.jpg?auth=e031fd19ad4686aa9269848c190913387f1e962efc7111371a84796384bdc316&height=4000&smart=true&width=6000",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/14/rayo-y-real-madrid-intercambian-golpes-en-vallecas-2-2/",
-        "date": "2025-03-06 06:03:25",
-        "sentiment_score": 0.26496340334415436
-    },
-    {
-        "title": "El Pachuca sobrevive en los penaltis y se jugará el título de la Intercontinental contra el Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/ZJDODBGFVBHC5HDFL7PMS3KVVA.jpg?auth=09688002fca75baa33a7b013e3df8d67c11b427bfda73cbd0eb10d4d6d00a5e4&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/14/el-pachuca-sobrevive-en-los-penaltis-y-se-jugara-el-titulo-de-la-intercontinental-contra-el-real-madrid/",
-        "date": "2025-03-06 06:02:50",
-        "sentiment_score": 0.41531335934996605
-    },
-    {
-        "title": "El Real Madrid reacciona a tiempo ante el Dépor y el Atlético vuelve a pinchar",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/14/el-real-madrid-reacciona-a-tiempo-ante-el-depor-y-el-atletico-vuelve-a-pinchar/",
-        "date": "2025-03-06 06:02:08",
-        "sentiment_score": 0.6669618040323257
-    },
-    {
-        "title": "La colaboración público-privada es clave para tener una identidad digital segura",
-        "image_url": "https://s10.s3c.es/imag/_v0/8000x4366/8/e/1/1200x655_imagenobsfuturo.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13251283/03/25/la-colaboracion-publicoprivada-es-clave-para-tener-una-identidad-digital-segura.html",
-        "date": "2025-03-06 06:00:52",
-        "sentiment_score": 0.30071116983890533
-    },
-    {
-        "title": "Una empresa familiar hortofrutícola e internacionalizada",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/1/8/8/clasol.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13251059/03/25/una-empresa-familiar-hortofruticola-e-internacionalizada.html",
-        "date": "2025-03-06 06:00:48",
-        "sentiment_score": 0.16294601187109947
-    },
-    {
-        "title": "«A las mujeres no nos queda otra que ser comprometidas y lanzarnos a por todas»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/11a3c3cc-67ef-4940-a878-695b24706a9d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2025/03/06/mujeres-queda-comprometidas-lanzarnos-114970241.html",
-        "date": "2025-03-06 06:00:43",
-        "sentiment_score": -0.11985549330711365
-    },
-    {
-        "title": "¿Cómo seguiremos oyendo la voz de Helga de Alvear?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b0559a8-069e-4245-85e1-5c7670619b53_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2025/03/06/seguiremos-oyendo-voz-helga-alvear-114981898.html",
-        "date": "2025-03-06 06:00:34",
-        "sentiment_score": 0.1980871707201004
-    },
-    {
-        "title": "Cuatro días de lluvias y mal tiempo: Cataluña se prepara para un fin de semana inestable",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/06/vida/914418550_13942747_1706x960.jpg?contentId=ESPIMA20250106_0001",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20250306/cuatro-de-lluvias-tiempo-cataluna-prepara-inestable/929157081_0.html",
-        "date": "2025-03-06 06:31:11",
-        "sentiment_score": -0.5864230878651142
-    },
-    {
-        "title": "Cocina de autor y producto en la nueva Bodega Gol",
-        "image_url": "https://static1.ara.cat/clip/5d1f3c2a-425d-4258-ac8a-ab594594530b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/comer/cocina-autor-producto-nueva-bodega-gol_1_5306030.html",
-        "date": "2025-03-06 06:30:41",
-        "sentiment_score": 0.01866161823272705
-    },
-    {
-        "title": "Montoya, España camisa rota, se marcha de la isla \"partío como una regañá\"",
-        "image_url": "https://static.grupojoly.com/clip/17995e3a-b250-429b-9f17-abba88fcac7a_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.huelvainformacion.es/television/montoya-espana-camisa-rota-marcha_0_2003469733.html",
-        "date": "2025-03-06 06:30:37",
-        "sentiment_score": -0.4460146427154541
-    },
-    {
-        "title": "Chollo del día: el sérum antiedad que arrasa en Amazon por menos de 13 euros",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JBA2VMFEBVHI3IKHV3C4XPDT3U.png?auth=ce757a3f2dbbe0592fc236a3afb008800f85c3b17752c2a3defad29f6efabc0a&width=1200",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://elpais.com/escaparate/ofertas-y-descuentos/2025-03-06/chollo-del-dia-serum-antiedad-con-vitamina-c.html",
-        "date": "2025-03-06 06:30:00",
-        "sentiment_score": 0.22590093314647675
-    },
-    {
-        "title": "Telefónica nombra hoy a Emilio Gayo nuevo CEO y reorganiza su cúpula directiva",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/03/06/emilio-gayo-kt2D-U2301055509133nDI-1200x840@RC.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elcomercio.es/economia/empresas/telefonica-consejo-emilio-gayo-nuevo-ceo-20250306193530-ntrc.html",
-        "date": "2025-03-06 06:24:56",
-        "sentiment_score": 0.18925126641988754
-    },
-    {
         "title": "Qué es el calcio storico, el histórico deporte italiano que combina fútbol, rugby y lucha",
         "image_url": "https://www.infobae.com/resizer/v2/5J6MYYO62JA2FIF3IADQYDDBGA.jpg?auth=0a1e9dc5bd8383b8db5ff5cadadd3ab5540cf8489148d453c3f10f29fd05fb01&height=1305&smart=true&width=1920",
         "tags": [
@@ -7806,5 +7547,556 @@ export default [
         "link": "https://2001online.com/curiosidades/lionsgate-revela-un-nuevo-avance-de-ballerina-confirman-fecha-de-estreno-2025391100",
         "date": "2025-03-09 15:00:00",
         "sentiment_score": 0.1507202833890915
+    },
+    {
+        "title": "Ecuador multa con 857 mil euros a proveedor de generadores eléctricos por incumplimiento",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/ecuador-multa-con-857-mil-euros-a-proveedor-de-generadores-electricos-por-incumplimiento/",
+        "date": "2025-03-09 22:02:50",
+        "sentiment_score": -0.7733933757990599
+    },
+    {
+        "title": "España dobla su número de medallas y concluye quinta en la clasificación por puestos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/09/espana-dobla-su-numero-de-medallas-y-concluye-quinta-en-la-clasificacion-por-puestos/",
+        "date": "2025-03-09 22:02:37",
+        "sentiment_score": 0.6560618579387665
+    },
+    {
+        "title": "3-0. El Granada corta su mala racha y hunde más al Racing de Ferrol",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/09/3-0-el-granada-corta-su-mala-racha-y-hunde-mas-al-racing-de-ferrol/",
+        "date": "2025-03-09 22:02:20",
+        "sentiment_score": -0.6642517000436783
+    },
+    {
+        "title": "0-1. Ejuka rescata tres puntos de oro para el Sevilla en San Sebastián",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/09/0-1-ejuka-rescata-tres-puntos-de-oro-para-el-sevilla-en-san-sebastian/",
+        "date": "2025-03-09 22:02:04",
+        "sentiment_score": 0.5218953341245651
+    },
+    {
+        "title": "0-1. Ejuke rescata tres puntos de oro para el Sevilla en San Sebastián",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/09/0-1-ejuke-rescata-tres-puntos-de-oro-para-el-sevilla-en-san-sebastian/",
+        "date": "2025-03-09 22:01:47",
+        "sentiment_score": 0.5662618428468704
+    },
+    {
+        "title": "Muere un anciano de O Valadouro (Lugo) al caer por un desnivel con su vehículo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/09/muere-un-anciano-de-o-valadouro-lugo-al-caer-por-un-desnivel-con-su-vehiculo/",
+        "date": "2025-03-09 22:01:28",
+        "sentiment_score": -0.7963548228144646
+    },
+    {
+        "title": "Congreso de El Salvador aprueba presupuesto estatal para 2025 por 9.203 millones de euros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/congreso-de-el-salvador-aprueba-presupuesto-estatal-para-2025-por-9203-millones-de-euros/",
+        "date": "2025-03-09 21:47:34",
+        "sentiment_score": 0.16625961661338806
+    },
+    {
+        "title": "Rescatan en estado grave a una pareja de ancianos tras incendiarse su vivienda en Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/rescatan-en-estado-grave-a-una-pareja-de-ancianos-tras-incendiarse-su-vivienda-en-madrid/",
+        "date": "2025-03-09 21:47:21",
+        "sentiment_score": -0.6676068678498268
+    },
+    {
+        "title": "Nueve municipios de Guadalajara reciben avisos de Es-alert ante posibles inundaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/09/nueve-municipios-de-guadalajara-reciben-avisos-de-es-alert-ante-posibles-inundaciones/",
+        "date": "2025-03-09 21:30:39",
+        "sentiment_score": -0.23471686989068985
+    },
+    {
+        "title": "Japón incurrió en un déficit comercial de 729 millones de euros en noviembre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/18/japon-incurrio-en-un-deficit-comercial-de-729-millones-de-euros-en-noviembre/",
+        "date": "2025-03-09 21:18:36",
+        "sentiment_score": -0.294385701417923
+    },
+    {
+        "title": "La Policía rescata a dos cachorros de león y a tres monos de beduinos en el sur de Israel",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/sequence-02-00-01-43-08-still001.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/policia-israel-leones-monos-beduinos-orix/",
+        "date": "2025-03-09 21:03:57",
+        "sentiment_score": -0.3041049465537071
+    },
+    {
+        "title": "Feminismo necesario",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/03/05/102897225-kuYC--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/feminismo-necesario-20250310114305-nts.html",
+        "date": "2025-03-09 21:06:08",
+        "sentiment_score": -0.07403194904327393
+    },
+    {
+        "title": "Diluvio",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/03/05/102897225-kuYC--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-diluvio-20250310220233-nts.html",
+        "date": "2025-03-09 21:02:46",
+        "sentiment_score": -0.1481231153011322
+    },
+    {
+        "title": "La Carrera Judicial y los disparates que la acechan",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/03/10/tribuna-justicia-RwydC3dVxt7A2qPQUoKBjlI-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-moreno-andrade-carrera-judicial-disparates-acechan-20250310220229-nts.html",
+        "date": "2025-03-09 21:02:45",
+        "sentiment_score": -0.1483752727508545
+    },
+    {
+        "title": "'Momotxorros'",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/03/06/plazaconstifizquierdo-U2201823311296zBH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-momotxorros-20250310203740-nt.html",
+        "date": "2025-03-09 19:42:00",
+        "sentiment_score": -0.11560854315757751
+    },
+    {
+        "title": "Zelenski, el profeta",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/03/10/ENFOQUEABC_Zelenskielprofeta_SORMAN-RXiUJXZZ3Gv0jXhmVjZzQTN-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-zelenski-profeta-20250310175155-nt.html",
+        "date": "2025-03-09 19:30:48",
+        "sentiment_score": -0.19319316744804382
+    },
+    {
+        "title": "¿Un TC arbitrario y parcial?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/03/10/TERCERAABC_TC_RODRIGUEZ-RlVpR7qDbIHrhz8eHqnMXYO-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-rodriguez-ramos-tc-arbitrario-parcial-20250310134816-nt.html",
+        "date": "2025-03-09 19:29:57",
+        "sentiment_score": -0.09730726480484009
+    },
+    {
+        "title": "El rearme de Sánchez y la inexistente política exterior",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/03/05/102897225-kuYC--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-ayllon-rearme-sanchez-inexistente-politica-exterior-20250310182215-nt.html",
+        "date": "2025-03-09 19:29:34",
+        "sentiment_score": -0.14543043076992035
+    },
+    {
+        "title": "Muy mujer",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/03/03/novelda%201-U37741448422qQD-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-mujer-20250310183247-nt.html",
+        "date": "2025-03-09 19:28:42",
+        "sentiment_score": -0.16612957417964935
+    },
+    {
+        "title": "El golfo de América",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-golfo-america-20250310133925-nt.html",
+        "date": "2025-03-09 19:28:17",
+        "sentiment_score": -0.1831846684217453
+    },
+    {
+        "title": "El antisanchismo no es un proyecto",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/03/06/plazaconstifizquierdo-U2201823311296zBH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/antisanchismo-proyecto-20250310132735-nt.html",
+        "date": "2025-03-09 19:26:55",
+        "sentiment_score": -0.12992219626903534
+    },
+    {
+        "title": "Un joven acaba con una mano amputada tras una pelea en un bar de L’Hospitalet",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4FOGXQLMY5EEFMG33N3KAOORSY.jpg?auth=614fd6777c308bb953889caf3651b28aff851ebfe56c1aef7ce8aca052e9832c&width=1200",
+        "tags": [
+            "mossos d'esquadra",
+            "armas blancas",
+            "peleas",
+            "investigación policial",
+            "sucesos",
+            "l'hospitalet de llobregat",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-03-09/un-joven-acaba-con-una-mano-amputada-tras-una-pelea-en-un-bar-de-lhospitalet.html",
+        "date": "2025-03-09 18:13:36",
+        "sentiment_score": -0.584470845758915
+    },
+    {
+        "title": "España participará en la misión europea en Ucrania si obtiene garantías",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E74UJGWIBJFABDQLXE3PNHUZSI.jpg?auth=fdab04d254f19a4efe5d4d554e3c0b85d2ca38c88d219ebcc15d703cbed361a3&width=1200",
+        "tags": [
+            "gasto militar",
+            "ucrania",
+            "psoe",
+            "sumar",
+            "españa",
+            "podemos",
+            "otan",
+            "pedro sánchez",
+            "unión europea",
+            "ministerio de defensa",
+            "ejército español",
+            "pp",
+            "guerra de rusia en ucrania",
+            "vox",
+            "guerra",
+            "donald trump",
+            "tropas"
+        ],
+        "link": "https://elpais.com/espana/2025-03-09/espana-participara-en-la-mision-europea-en-ucrania-si-obtiene-garantias.html",
+        "date": "2025-03-09 18:06:59",
+        "sentiment_score": -0.2042575180530548
+    },
+    {
+        "title": "La borrasca Jana se debilita tras desbordar el cauce de varios ríos por toda España",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AKG7PHNEORG67ELRLWQCGUM56I.jpg?auth=4351df45920f7c8fda53242cc9a0ec4e3e22405c4ebe996224108067f720f127&width=1200",
+        "tags": [
+            "temporales",
+            "emergencias 112 andalucía",
+            "guardia civil",
+            "cataluña",
+            "españa",
+            "lluvia",
+            "nieve",
+            "el tiempo",
+            "aemet",
+            "lluvias torrenciales",
+            "castilla y león"
+        ],
+        "link": "https://elpais.com/espana/2025-03-09/la-borrasca-jana-se-debilita-tras-desbordar-el-cauce-de-varios-rios-por-toda-espana.html",
+        "date": "2025-03-09 17:09:03",
+        "sentiment_score": -0.5332751236855984
+    },
+    {
+        "title": "10 datos de la jornada 27",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/09/10-datos-de-la-jornada-27/",
+        "date": "2025-03-09 22:00:35",
+        "sentiment_score": 0.007949251681566238
+    },
+    {
+        "title": "El Real Madrid sufre pero alcanza al Barça; desplome del Atlético en Getafe",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/09/el-real-madrid-sufre-pero-alcanza-al-barca-desplome-del-atletico-en-getafe/",
+        "date": "2025-03-09 22:00:18",
+        "sentiment_score": -0.42416033893823624
+    },
+    {
+        "title": "Las Palmas cae en Sevilla y regresa al descenso",
+        "image_url": "https://static.eldiario.es/clip/e50bcdc6-b81e-4041-be2d-8f662c9bbdd5_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/Deportes/futbol/palmas-cae-sevilla-regresa-descenso_1_12117556.html",
+        "date": "2025-03-09 21:57:07",
+        "sentiment_score": 0.03744858503341675
+    },
+    {
+        "title": "Dibu Martínez publicó el premio The Best que le mandó la FIFA, pero un descuido en la foto lo convirtió en viral",
+        "image_url": "https://www.infobae.com/resizer/v2/GFZ3ZREUYVBMRIJPAGPHB4NYVI.jpg?auth=9a5feddb61a2f550c5b892839e3d042f283d950b7f67f28b1ccea6dc61b6ef8c&height=684&smart=true&width=431",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/03/09/dibu-martinez-publico-el-premio-the-best-que-le-mando-la-fifa-pero-un-descuido-en-la-foto-lo-convirtio-en-viral/",
+        "date": "2025-03-09 21:40:36",
+        "sentiment_score": 0.7163673229515553
+    },
+    {
+        "title": "Así queda la clasificación en el grupo del Recre tras finalizar la jornada 27",
+        "image_url": "https://static.grupojoly.com/clip/93c67fe8-492a-4197-a4e9-6da15f1d2d92_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "recreativo de huelva"
+        ],
+        "link": "https://www.huelvainformacion.es/recreativo/queda-clasificacion-grupo-recre-finalizar_0_2003488142.html",
+        "date": "2025-03-09 21:26:14",
+        "sentiment_score": -0.7651859261095524
+    },
+    {
+        "title": "Carlo Ancelotti tras triunfo sufrido ante Rayo: \"El objetivo era sumar 3 puntos\"",
+        "image_url": "https://pxcdn.meridiano.net/032025/1741553248889.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/carlo-ancelotti-tras-triunfo-sufrido-ante-rayo-el-objetivo-era-sumar-3-puntos--20253917170",
+        "date": "2025-03-09 21:17:00",
+        "sentiment_score": 0.023260921239852905
+    },
+    {
+        "title": "El dinero que van a tener que desembolsar en 2025 los propietarios de perros tras aprobarse la nueva ley del Gobierno: 1400 euros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46d40993-7560-49c6-b6ac-cce64f6de8e6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/vida-y-estilo/mascotas/2025/03/09/dinero-desembolsar-2025-propietarios-perros-115117138.html",
+        "date": "2025-03-09 21:15:58",
+        "sentiment_score": 0.26009227335453033
+    },
+    {
+        "title": "“Una temeridad descomunal”: la gambeta de Augusto Batalla a Vinicius en Real Madrid-Rayo Vallecano que le valió una ovación",
+        "image_url": "https://www.infobae.com/resizer/v2/PEIJMQYWQ2NQ4ODQI6NT22XDCU.jpg?auth=a46c9fabfe4366984ff52e92fdc62482f6037be384681c3d32e4401457302479&height=3622&smart=true&width=5583",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/03/09/una-temeridad-descomunal-la-gambeta-de-augusto-batalla-a-vinicius-en-real-madrid-rayo-vallecano-que-le-valio-una-ovacion/",
+        "date": "2025-03-09 21:10:52",
+        "sentiment_score": 0.29927778244018555
+    },
+    {
+        "title": "Otra semana cosechando",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/03/09/2342247/athletic-club-real-mallorca-cinco-jornadas-seguidas-puntuando-perder.html",
+        "date": "2025-03-09 21:09:41",
+        "sentiment_score": 0.046703845262527466
+    },
+    {
+        "title": "La patronal de autónomos ATA lleva a decenas de empleados y sus familiares a votar en la reelección de Lorenzo Amor",
+        "image_url": "https://static.eldiario.es/clip/8faf1704-a56d-4f42-95fe-03abe0d391d2_16-9-discover-aspect-ratio_default_1112979.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.eldiario.es/economia/patronal-autonomos-ata-lleva-decenas-empleados-familiares-votar-reeleccion-lorenzo-amor_1_12110380.html",
+        "date": "2025-03-09 21:05:18",
+        "sentiment_score": 0.021918445825576782
+    },
+    {
+        "title": "La Laguna Tenerife asalta el Palau Blaugrana",
+        "image_url": "https://static.eldiario.es/clip/481df9f4-bc99-46db-8255-9e628b9c7569_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/deportes/baloncesto/laguna-tenerife-asalta-palau-blaugrana_1_12117554.html",
+        "date": "2025-03-09 21:49:15",
+        "sentiment_score": -0.01087293028831482
+    },
+    {
+        "title": "Escándalo por la separación de Ter Stegen: la infidelidad que habría derivado en la ruptura",
+        "image_url": "https://www.infobae.com/resizer/v2/DL3HRFZBEVDZNIFKSZIM5FOB5Q.jpg?auth=4a48308a4f402fcc29992e4cd0cd672ae5892b6c701b8a21bf7722efd287d9b4&height=879&smart=true&width=1562",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/03/09/escandalo-por-la-separacion-de-ter-stegen-la-infidelidad-que-habria-derivado-en-la-ruptura/",
+        "date": "2025-03-09 21:34:04",
+        "sentiment_score": -0.02777259051799774
+    },
+    {
+        "title": "La cloaca de Twitter",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/98c5a738-1b10-4640-8228-44ee0281d6cf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdenavarra.com/opinion/2025/03/09/cloaca-twitter-9374914.html",
+        "date": "2025-03-09 21:30:02",
+        "sentiment_score": -0.6831846870481968
+    },
+    {
+        "title": "MWC 2025: Estas son las nuevas tecnologías de IA presentadas en el Mobile World Congress",
+        "image_url": "https://static.euronews.com/articles/stories/09/09/26/76/1200x675_cmsv2_9c7ef58f-c625-5fcd-b107-5f16bb3bc3f6-9092676.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.euronews.com/next/2025/03/09/mwc-2025-estas-son-las-nuevas-tecnologias-de-ia-presentadas-en-el-mobile-world-congress",
+        "date": "2025-03-09 21:30:01",
+        "sentiment_score": 0.6204453445971012
+    },
+    {
+        "title": "Detenidas tres personas por amputar la mano a un joven en una pelea en un bar de Barcelona",
+        "image_url": "https://theobjective.com/wp-content/uploads/2024/11/mossos-barcelona.jpg",
+        "tags": [
+            "amputaciones",
+            "detenidos",
+            "barcelona",
+            "peleas",
+            "heridos",
+            "sucesos"
+        ],
+        "link": "https://theobjective.com/sociedad/suceso/2025-03-09/detenidas-personas-amputar-mano-joven/",
+        "date": "2025-03-09 21:25:16",
+        "sentiment_score": -0.877043817192316
+    },
+    {
+        "title": "Los pisos de Collboni",
+        "image_url": "https://s.libertaddigital.com/2024/10/15/homenaje-companys-rull-illa-collboni151024.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-03-09/jose-garcia-dominguez-los-pisos-de-collboni-7228678/",
+        "date": "2025-03-09 21:24:22",
+        "sentiment_score": -0.9054452478885651
+    },
+    {
+        "title": "Yulimar Rojas abandona en su regreso a las pistas veinte: «Hay que seguir trabajando y mejorando»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "competencia",
+            "regreso",
+            "yulimar rojas",
+            "pistas",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/deportes/yulimar-rojas-abandona-en-su-regreso-a-las-pistas-veinte/",
+        "date": "2025-03-09 21:21:13",
+        "sentiment_score": -0.6634941324591637
+    },
+    {
+        "title": "Latam Airlines cierra ruta internacional hacia Orlando: aquí los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741558825736.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/latam-airlines-cierra-ruta-internacional-hacia-orlando-aqui-los-detalles-20253918120",
+        "date": "2025-03-09 22:12:00",
+        "sentiment_score": 0.06003638356924057
+    },
+    {
+        "title": "Estados Unidos planea reducir gastos con el cierre de consulados: conoce las sedes diplomáticas que están en la mira",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741558107868.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/estados-unidos-planea-reducir-gastos-con-el-cierre-de-consulados-conoce-las-sedes-diplomaticas-que-estan-en-la-mira-2025391830",
+        "date": "2025-03-09 22:03:00",
+        "sentiment_score": 0.1759747676551342
+    },
+    {
+        "title": "Vida plena y equilibrada gracias al yoga ¡Te contamos cómo lograrlo!",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741374628763.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - bienestar"
+        ],
+        "link": "https://2001online.com/zona3d/bienestar/vida-plena-y-equilibrada-gracias-al-yoga-te-contamos-como-lograrlo--2025391800",
+        "date": "2025-03-09 22:00:00",
+        "sentiment_score": 0.7177634388208389
+    },
+    {
+        "title": "Ecuador no recibirá extranjeros deportados tras la suspensión de vuelos de Estados Unidos y Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741555891535.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/ecuador-no-recibira-extranjeros-deportados-tras-la-suspension-de-vuelos-de-estados-unidos-y-venezuela-20253917360",
+        "date": "2025-03-09 21:36:00",
+        "sentiment_score": 0.3076816014945507
+    },
+    {
+        "title": "Este banco ofrece crédito para vehículos nuevos y financia el 60% del valor: cuenta con aliados de varias marcas",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741557014005.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/este-banco-ofrece-credito-para-vehiculos-nuevos-y-financia-el-60-del-valor-cuenta-con-aliados-de-varias-marcas-20253917250",
+        "date": "2025-03-09 21:25:00",
+        "sentiment_score": 0.24617207050323486
+    },
+    {
+        "title": "CarMax: Momentos cuando conductor insatisfecho atropella a empleados en concesionario en California",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741554433234.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/carmax-momentos-cuando-conductor-insatisfecho-atropella-a-empleados-en-concesionario-en-california-2025391810",
+        "date": "2025-03-09 21:10:46",
+        "sentiment_score": -0.7236887346953154
+    },
+    {
+        "title": "No te quedes sin batería: los tres métodos más eficaces para cargar en caso de un apagón",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741146426070.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/no-te-quedes-sin-bateria-los-tres-metodos-mas-eficaces-para-cargar-en-caso-de-un-apagon-2025391700",
+        "date": "2025-03-09 21:00:00",
+        "sentiment_score": 0.05983812361955643
+    },
+    {
+        "title": "¿Tienes pareja y te sientes sola? ¡Esto dicen los expertos al respecto!",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741482595647.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - bienestar"
+        ],
+        "link": "https://2001online.com/zona3d/bienestar/tienes-pareja-y-te-sientes-sola-esto-dicen-los-expertos-al-respecto--2025391700",
+        "date": "2025-03-09 21:00:00",
+        "sentiment_score": -0.5114875100553036
+    },
+    {
+        "title": "Dónde están ubicados los quioscos para renovar la licencia en Illinois: estos son los trámites permitidos",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741551426320.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/donde-estan-ubicados-los-quioscos-para-renovar-la-licencia-en-illinois-estos-son-los-tramites-permitidos-20253916140",
+        "date": "2025-03-09 20:14:00",
+        "sentiment_score": 0.21150483936071396
+    },
+    {
+        "title": "Estos son los conciertos y eventos en el mes de marzo que puedes pagar con Cashea",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741552583100.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/estos-son-los-conciertos-y-eventos-en-el-mes-de-marzo-que-puedes-pagar-con-cashea-20253917250",
+        "date": "2025-03-09 20:12:32",
+        "sentiment_score": 0.0944910142570734
     }
 ];
