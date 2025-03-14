@@ -120,66 +120,6 @@ export default [
         "sentiment_score": -0.4611286148428917
     },
     {
-        "title": "Del taller al Vaticano: la historia del zapatero que cautivó al papa Francisco",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/13641834-88883590-generated-thumbnail.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/zapatero-peruano-papa-francisco-tv/",
-        "date": "2025-03-10 13:38:26",
-        "sentiment_score": 0.3612535744905472
-    },
-    {
-        "title": "Mark Carney, líder del Partido Liberal de Canadá, promete mantener aranceles \"hasta que los estadounidenses muestren respeto\"",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2201397130-20250309224642277.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/mark-carney-canada-critica-aranceles-trump-cafe-tv/",
-        "date": "2025-03-10 13:04:13",
-        "sentiment_score": -0.13966497778892517
-    },
-    {
-        "title": "La postura del Gobierno Sirio ante los enfrentamientos recientes",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/cnn-fast-20241213123945390_b575c7.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/gobierno-sirio-enfrentamientos-recientes-muertos-cafe-tv-fast/",
-        "date": "2025-03-10 12:54:16",
-        "sentiment_score": -0.2531721256673336
-    },
-    {
-        "title": "Sheinbaum confía en que México no enfrentará nuevos aranceles",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/cnn-fast-20241213123945390_0807bf.png",
-        "tags": [
-            "méxico"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/sheinbaum-confia-mexico-nuevos-aranceles-cafe-tv-fast/",
-        "date": "2025-03-10 12:35:24",
-        "sentiment_score": -0.13743148744106293
-    },
-    {
-        "title": "16 muertos y cientos de evacuados por el temporal en Bahía Blanca",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/cnn-fast-20241213123945390_802a6d.png",
-        "tags": [
-            "argentina"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/muertos-evacuados-temporal-bahia-blanca-primera-manana-fast/",
-        "date": "2025-03-10 12:24:39",
-        "sentiment_score": -0.6976135550066829
-    },
-    {
-        "title": "Dron capta dramáticos rescates en Australia tras fuerte tormenta",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/rescatethumbh-20250310104215222.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/australia-tormenta-ciclon-rescate-dron-orix/",
-        "date": "2025-03-10 10:44:32",
-        "sentiment_score": -0.8834576178342104
-    },
-    {
         "title": "Cierran durante varias horas el Tower Bridge de Londres después de que un hombre trepara por la estructura",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/10/TowerBridge-kzoF-U70466376916eUF-1200x840@diario_abc.jpg",
         "tags": [
@@ -238,46 +178,6 @@ export default [
         "link": "https://www.abc.es/economia/expertos-energeticos-reclaman-mayor-inversion-mejorar-redes-20250310160952-nt.html",
         "date": "2025-03-10 15:09:53",
         "sentiment_score": 0.03078317642211914
-    },
-    {
-        "title": "Dos empresas de referencia generacional impulsan el Foro Next Gen, el 'Davos' de millennials y zetas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/03/10/bebartletytrivu-RJDHYL92cKXU0joSV9MwB0I-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dos-empresas-referencia-generacional-impulsan-foro-next-20250310140253-nt.html",
-        "date": "2025-03-10 14:09:16",
-        "sentiment_score": 0.0355277955532074
-    },
-    {
-        "title": "Los hondureños votan en unas primarias marcadas por las irregularidades",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/10/honduras-kO8-U70464359488Zh-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hondurenos-votan-primarias-marcadas-irregularidades-20250310142908-nt.html",
-        "date": "2025-03-10 13:29:47",
-        "sentiment_score": -0.12088139355182648
-    },
-    {
-        "title": "Un petrolero y un buque mercante chocan frente a la costa oriental de Reino Unido",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/petrolero-buque-mercante-chocan-frente-costa-oriental-20250310134908-nt.html",
-        "date": "2025-03-10 12:53:11",
-        "sentiment_score": -0.5762905478477478
-    },
-    {
-        "title": "Claves de la crisis siria: de las torturas de Al Assad a las masacres con Al Sharaa",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/10/siria-kcaF-U70464096157h0-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/claves-crisis-siria-torturas-assad-masacres-sharaa-20250310134628-nt.html",
-        "date": "2025-03-10 12:48:21",
-        "sentiment_score": -0.23262274265289307
     },
     {
         "title": "Microsoft escoge a Barcelona para ubicar un nuevo centro de ventas para toda Europa",
@@ -445,16 +345,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-10/el-consorcio-de-seguros-ha-abonado-el-79-de-las-reclamaciones-por-la-dana-2308-millones-su-mayor-pago-en-70-anos-de-historia.html",
         "date": "2025-03-10 14:50:04",
         "sentiment_score": -0.8603255935013294
-    },
-    {
-        "title": "La jueza imputa a la exconsejera de Mazón que dirigió el dispositivo de emergencias durante la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KQFATYYTSZBFFJ2X2B3XPJ6Y2A.jpg?auth=4e888faa5e0be1932a6d2d496c2a7d2778786af3752c8035b5dd0380cd380870&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-03-10/la-jueza-imputa-a-la-exconsejera-de-mazon-que-dirigio-el-dispositivo-de-emergencias-durante-la-dana.html",
-        "date": "2025-03-10 13:53:39",
-        "sentiment_score": -0.6479431446641684
     },
     {
         "title": "Modric prepara su futuro fuera del fútbol: inyecta 22 millones de euros en su inmobiliaria",
@@ -8658,5 +8548,483 @@ export default [
         "link": "https://2001online.com/servicios/asi-puede-volverse-aliado-de-cashea-conoce-las-comisiones-202531317100",
         "date": "2025-03-13 21:10:00",
         "sentiment_score": 0.15875045955181122
+    },
+    {
+        "title": "El PP acusa al fiscal general de ocultar pruebas por el borrado de mensajes en su móvil",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/el-pp-acusa-al-fiscal-general-de-ocultar-pruebas-por-el-borrado-de-mensajes-en-su-movil/",
+        "date": "2025-03-14 02:04:00",
+        "sentiment_score": -0.8453087639063597
+    },
+    {
+        "title": "El Gobierno adjudica más de 75 millones para la creación de espacios de datos sectoriales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/el-gobierno-adjudica-mas-de-75-millones-para-la-creacion-de-espacios-de-datos-sectoriales/",
+        "date": "2025-03-14 02:03:47",
+        "sentiment_score": 0.705924566835165
+    },
+    {
+        "title": "La venta de lotería de Navidad en Letur (Albacete) se dispara tras la tragedia de la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/la-venta-de-loteria-de-navidad-en-letur-albacete-se-dispara-tras-la-tragedia-de-la-dana/",
+        "date": "2025-03-14 02:03:33",
+        "sentiment_score": 0.6495481915771961
+    },
+    {
+        "title": "Predicción del clima en Barcelona para este 14 de marzo",
+        "image_url": "https://www.infobae.com/resizer/v2/M2FFRVYDVVHUPFMY7GDK2IGZVY.jpg?auth=853da8cced806f4b2f84739ea8f95c046ac945b3dcbe37b932b3c674c345bd34&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/03/14/prediccion-del-clima-en-barcelona-para-este-14-de-marzo/",
+        "date": "2025-03-14 02:00:39",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Las bolsas europeas caen en torno al 0,70 % a la espera del PCE de EE. UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/las-bolsas-europeas-caen-en-torno-al-070-a-la-espera-del-pce-de-ee-uu/",
+        "date": "2025-03-14 01:48:19",
+        "sentiment_score": 0.10505174100399017
+    },
+    {
+        "title": "Los 'Jorge', Martín y Prado, encabezan un año de éxitos españoles del motociclismo mundial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/los-jorge-martin-y-prado-encabezan-un-ano-de-exitos-espanoles-del-motociclismo-mundial/",
+        "date": "2025-03-14 01:48:06",
+        "sentiment_score": 0.8793201986700296
+    },
+    {
+        "title": "Una de cada cinco personas que viven en la calle no tiene acceso a la red de atención",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/una-de-cada-cinco-personas-que-viven-en-la-calle-no-tiene-acceso-a-la-red-de-atencion/",
+        "date": "2025-03-14 01:33:57",
+        "sentiment_score": -0.8190446048974991
+    },
+    {
+        "title": "Marte y Mercurio y un eclipse total de luna, protagonistas del invierno que llega mañana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/marte-y-mercurio-y-un-eclipse-total-de-luna-protagonistas-del-invierno-que-llega-manana/",
+        "date": "2025-03-14 01:33:43",
+        "sentiment_score": 0.5830219611525536
+    },
+    {
+        "title": "Desmantelada en Barcelona una red de explotación sexual en una operación con 4 detenidos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/desmantelada-en-barcelona-una-red-de-explotacion-sexual-en-una-operacion-con-4-detenidos/",
+        "date": "2025-03-14 01:33:29",
+        "sentiment_score": -0.9189430065453053
+    },
+    {
+        "title": "Las empresas facturaron un 4,9 % más en octubre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2024/12/20/las-empresas-facturaron-un-49-mas-en-octubre/",
+        "date": "2025-03-14 01:03:30",
+        "sentiment_score": 0.3935242295265198
+    },
+    {
+        "title": "¿Quieres mudarte de país? Aquí tienes 4 cosas clave que los expertos quieren que sepas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/move-us-tips-thumb-01-20250314015534042.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/vivir-en-el-extranjero-consejos-salir-pais-trax/",
+        "date": "2025-03-14 02:03:25",
+        "sentiment_score": -0.2491537630558014
+    },
+    {
+        "title": "Con la consulta popular, Petro pretende ganar oxígeno político, dice analista",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "colombia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/colombia-constitucion-consulta-popular-petro-reformas-salud-laboral-conclusiones-tv/",
+        "date": "2025-03-14 02:02:20",
+        "sentiment_score": -0.5057922676205635
+    },
+    {
+        "title": "Patricia Bullrich justifica uso de granada de gas contra manifestantes",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2204173983-20250314015226626.jpg?quality=100&strip=info",
+        "tags": [
+            "argentina"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/bullrich-granadas-manifestantes-represion-argentina-conclusiones-tv/",
+        "date": "2025-03-14 01:55:34",
+        "sentiment_score": -0.8096401169896126
+    },
+    {
+        "title": "¿Persiste el riesgo de covid-19 prolongado?",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-1229935182.jpg?quality=100&strip=info",
+        "tags": [
+            "health"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/covid-19-prolongado-sintomas-minuto-de-salud-fast/",
+        "date": "2025-03-14 01:22:58",
+        "sentiment_score": -0.5928228683769703
+    },
+    {
+        "title": "Turista graba cómo le arrebata una cría de wombat de su madre",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/cnne-1710508-img-5183.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/cachorro-wombat-australia-turista-indigancion-panorama-mundial-tv/",
+        "date": "2025-03-14 01:10:04",
+        "sentiment_score": -0.8663215413689613
+    },
+    {
+        "title": "Rusia recupera control de la ciudad más grande de Kursk",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/still-21455347-30440-64-still.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rusia-recupera-control-sudzha-region-kursk-ucrania-panorama-mundial-tv/",
+        "date": "2025-03-14 00:46:46",
+        "sentiment_score": 0.04000726342201233
+    },
+    {
+        "title": "El camino del papa Francisco: un vistazo a sus 12 años al frente del Vaticano",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francisco-12-aniversario-trax/",
+        "date": "2025-03-14 00:13:39",
+        "sentiment_score": -0.5799369774758816
+    },
+    {
+        "title": "Violencia en México: investigan el reclutamiento de jóvenes por parte del crimen organizado",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-634207350.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/mexico-violencia-crimen-organizado-secuestro-jovenes-perspectivas-mexico-tv/",
+        "date": "2025-03-13 23:22:50",
+        "sentiment_score": -0.5787038709968328
+    },
+    {
+        "title": "Consejos para disfrutar el eclipse lunar total o \"luna de sangre\"",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-1006392364.jpg?quality=100&strip=info",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/eclipse-lunar-total-recomendaciones-perspectivas-mexico-tv/",
+        "date": "2025-03-13 23:17:51",
+        "sentiment_score": 0.060290902853012085
+    },
+    {
+        "title": "Rusia rechaza a Keith Kellogg, el enviado estrella de Trump a para negociar la paz",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/14/keith-kellogg-kx6H-U70500124037mQD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/rusia-rechaza-keith-kellogg-enviado-estrella-trump-20250314025828-nt.html",
+        "date": "2025-03-14 01:59:12",
+        "sentiment_score": -0.08918476104736328
+    },
+    {
+        "title": "Una soledad que cuesta otros 9.000 millones",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-soledad-cuesta-9000-millones-20250314192903-nt.html",
+        "date": "2025-03-13 23:24:49",
+        "sentiment_score": -0.1629907786846161
+    },
+    {
+        "title": "Serrano: “Estamos orgullosos de lo que hicimos en Madrid durante la pandemia”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/G34TLRKB3ZEU5L3FQLYDKMMTBI.png?auth=b08e163d0c87ffcdd26e042ee4b72862f0236ba7d76409b5774c96f5717138f7&width=1200",
+        "tags": [
+            "pandemia",
+            "coronavirus covid-19",
+            "residencias ancianos",
+            "sanidad pública",
+            "madrid",
+            "sanidad",
+            "isabel díaz ayuso",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-03-14/serrano-estamos-orgullosos-de-lo-que-hicimos-en-madrid-durante-la-pandemia.html",
+        "date": "2025-03-14 00:03:44",
+        "sentiment_score": -0.8598918542265892
+    },
+    {
+        "title": "La Habana de las tertulias",
+        "image_url": "https://ikona.telesurtv.net/content/uploads/2025/03/habana-2-768x432.jpg.webp",
+        "tags": [
+            "tertulias",
+            "domingo del monte",
+            "conspiración de la escalera",
+            "la habana",
+            "en profundidad"
+        ],
+        "link": "https://www.telesurtv.net/la-habana-de-las-tertulias/",
+        "date": "2025-03-14 02:06:11",
+        "sentiment_score": -0.15546420216560364
+    },
+    {
+        "title": "Escoge entre un montón de ropa y te diré por qué no llegaste a ser futbolista profesional",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/13/23/campaign_images/c85ebf13be5c/escoge-entre-un-monton-de-ropa-y-te-dire-por-que--2-1524-1741910283-0_dblbig.jpg",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/escoge-entre-un-monton-de-ropa-y-te-dire-por-que-no",
+        "date": "2025-03-14 02:01:05",
+        "sentiment_score": -0.5835024490952492
+    },
+    {
+        "title": "Insomnio familiar fatal, la enfermedad que quita el sueño y ha matado a 35 personas de una misma familia en Jaén",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32e076e3-a31e-46aa-82ff-6e3b2449ff02_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.epe.es/es/salud/20250314/insomnio-familiar-fatal-enfermedad-no-deja-dormir-jaen-115277428",
+        "date": "2025-03-14 02:00:04",
+        "sentiment_score": -0.9150167787447572
+    },
+    {
+        "title": "Champions League: dos venezolanos podrían ser convocados en los cuartos de final con Barcelona e Inter",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741918145087.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/champions-league-dos-venezolanos-podrian-ser-convocados-en-los-cuartos-de-final-con-barcelona-e-inter-202531321540",
+        "date": "2025-03-14 01:54:00",
+        "sentiment_score": 0.12938503175973892
+    },
+    {
+        "title": "Qué ha sido de las voces de la Covid: el Jefe de Estado 'dentro' del caso del hermano de Sánchez, el JEMAD en EEUU...",
+        "image_url": "https://s1.elespanol.com/2025/03/13/reportajes/930917793_253883671_1706x960.png?contentId=ESPIMA20250313_0894",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250314/voces-covid-jefe-dentro-caso-hermano-sanchez-jemad-eeuu/929157588_0.html",
+        "date": "2025-03-14 01:41:21",
+        "sentiment_score": -0.6258270666003227
+    },
+    {
+        "title": "Ayuso no tiene defensa posible",
+        "image_url": "https://s1.elespanol.com/2020/09/25/espana/isabel_diaz_ayuso-salvador_illa_roca-gobierno_de_espana_523460531_160963241_1706x960.jpg?contentId=ESPIMA20241006_0400",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20250314/ayuso-no-defensa-posible/931286865_13.html",
+        "date": "2025-03-14 01:36:20",
+        "sentiment_score": -0.8442005943506956
+    },
+    {
+        "title": "Lecciones aprendidas y pendientes tras la crisis Covid en 2020: \"Se habla de invertir un 2% del PIB en armamento y hay que recordar que un pequeño virus puede ser mucho más peligroso\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/233d7659c69a7bb3ed4a2d3808020f72/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/13/17418871226075.jpg",
+        "tags": [
+            "sanidad",
+            "artículos cristina g. lucio",
+            "ciencia y salud",
+            "vacunas",
+            "salud",
+            "enfermedades infecciosas",
+            "covid 19",
+            "artículos pilar pérez"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2025/03/14/67d306b9e9cf4ac06d8b457c.html",
+        "date": "2025-03-14 01:30:33",
+        "sentiment_score": -0.7185331452637911
+    },
+    {
+        "title": "Político colombiano se descargó en redes sociales tras penal anulado a Julián Álvarez en Champions: “No hubo intención”",
+        "image_url": "https://www.infobae.com/resizer/v2/2U47R7J52VA3VGIXK3XWK6GURE.png?auth=85fb6f4bbd5ae06c81cdabfbbadcc39da6b11ce5ba656ecc316f593ff874ecc0&height=600&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/03/14/politico-colombiano-se-descargo-en-redes-sociales-tras-penal-anulado-a-julian-alvarez-en-champions-no-hubo-intencion/",
+        "date": "2025-03-14 01:21:57",
+        "sentiment_score": -0.7644157689064741
+    },
+    {
+        "title": "La inesperada confesión de Ancelotti sobre la tanda de penales contra Atlético de Madrid",
+        "image_url": "https://www.lapatilla.com/wp-content/uploads/2025/03/5df2b781651817b4cd7c32bff3d55f91aab79715w.jpg?resize=640%2C427",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lapatilla.com/2025/03/13/la-inesperada-confesion-de-ancelotti-sobre-la-tanda-de-penales-contra-atletico-de-madrid/",
+        "date": "2025-03-14 01:07:47",
+        "sentiment_score": -0.34074049443006516
+    },
+    {
+        "title": "Estados Unidos y Venezuela pactaron la reanudación de los vuelos con migrantes deportados",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/35ffa487-e075-4e59-89b2-d1e19b0a2da2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/internacional/2025/03/14/estados-unidos-venezuela-pactaron-reanudacion-115276971.html",
+        "date": "2025-03-14 01:02:37",
+        "sentiment_score": -0.25637590885162354
+    },
+    {
+        "title": "Barcelona acoge la retrospectiva más completa de Sean Scully: más de 60 obras en La Pedrera",
+        "image_url": "https://album.mediaset.es/eimg/2025/03/13/una-de-las-obras-de-sean-scully-en-la-pedrera_4b2a.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250314/sean-scully-60-obras-pedrera-barcelona_18_015024497.html",
+        "date": "2025-03-14 02:00:47",
+        "sentiment_score": 0.3915617987513542
+    },
+    {
+        "title": "Nanopartículas contra las falsificaciones",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/03/08/67ccad0f2be09.jpeg",
+        "tags": [
+            "emprendedores"
+        ],
+        "link": "https://www.lavanguardia.com/economia/emprendedores/20250314/10459885/nanoparticulas-falsificaciones-distinkt.html",
+        "date": "2025-03-14 02:00:00",
+        "sentiment_score": 0.40790142863988876
+    },
+    {
+        "title": "Del pañuelo palestino y el saludo nazi a dirigir el sindicato de Vox: así ha sido el ascenso del concejal Jordi de la Fuente",
+        "image_url": "https://s1.elespanol.com/2025/03/13/espana/politica/930917885_253887345_1706x960.jpg?contentId=ESPIMA20250313_0986",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250314/panuelo-palestino-saludo-nazi-dirigir-sindicato-vox-ascenso-concejal-jordi-fuente/930907456_0.html",
+        "date": "2025-03-14 01:40:44",
+        "sentiment_score": -0.5257548168301582
+    },
+    {
+        "title": "Pearson (DHL Express): \"La principal preocupación es que los aranceles de Trump lleguen y se queden y aún no ha pasado\"",
+        "image_url": "https://s1.elespanol.com/2025/03/12/actualidad/930667523_253843142_1706x960.jpg?contentId=ESPIMA20250312_0599",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20250314/pearson-dhl-express-principal-preocupacion-aranceles-trump-lleguen-queden-no-pasado/930657374_0.html",
+        "date": "2025-03-14 01:38:10",
+        "sentiment_score": 0.5727957785129547
+    },
+    {
+        "title": "Verstappen se coronó por cuarto año seguido y McLaren ganó su primer título desde 1998",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2024/12/20/verstappen-se-corono-por-cuarto-ano-seguido-y-mclaren-gano-su-primer-titulo-desde-1998/",
+        "date": "2025-03-14 01:33:03",
+        "sentiment_score": 0.833284156396985
+    },
+    {
+        "title": "Entregan insumos al Metro de Caracas para optimizar el servicio: incluye herramientas de seguridad",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741918306001.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/entregan-insumos-al-metro-de-caracas-para-optimizar-el-servicio-incluye-herramientas-de-seguridad-202531322110",
+        "date": "2025-03-14 02:11:00",
+        "sentiment_score": 0.06651392579078674
+    },
+    {
+        "title": "Aprende a preparar un delicioso postre de coco con cuatro ingredientes",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741908045424.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - gastronomía"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/aprende-a-preparar-un-delicioso-postre-de-coco-con-cuatro-ingredientes-20253132200",
+        "date": "2025-03-14 02:00:00",
+        "sentiment_score": 0.3298015333712101
+    },
+    {
+        "title": "Así puedes comprobar si eres elegible para recibir pagos de estímulo en USA: evite ser víctima de fraude",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741917599611.webp?ch=212&cw=377&extw=jpg&height=587&oh=1500&ow=1000&rotate=0&scaleX=1&scaleY=1&width=968&x=72&y=546",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-puedes-comprobar-si-eres-elegible-para-recibir-pagos-de-estimulo-en-usa-evite-ser-victima-de-fraude-202531321540",
+        "date": "2025-03-14 01:54:00",
+        "sentiment_score": 0.26199570670723915
+    },
+    {
+        "title": "Trump acude a la Corte Suprema: pide que se limite el derecho a la ciudadanía por nacimiento",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741916294129.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/trump-acude-a-la-corte-suprema-pide-que-se-limite-el-derecho-a-la-ciudadania-por-nacimiento-202531321360",
+        "date": "2025-03-14 01:36:00",
+        "sentiment_score": -0.6730087250471115
+    },
+    {
+        "title": "Ofrecen empleo remoto para latinos con sueldo de 20 dólares la hora: cuentan con servicio médico",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741914644222.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/ofrecen-empleo-remoto-para-latinos-con-sueldo-de-20-dolares-la-hora-cuentan-con-servicio-medico-20253132110",
+        "date": "2025-03-14 01:10:00",
+        "sentiment_score": 0.1339253094047308
+    },
+    {
+        "title": "Detienen a dos mujeres en Guárico por el homicidio de un niño de seis años: son la tía y la prima",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741914740144.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-dos-mujeres-en-guarico-por-el-homicidio-de-un-nino-de-seis-anos-son-la-tia-y-la-prima-20253132240",
+        "date": "2025-03-14 01:08:09",
+        "sentiment_score": -0.06547988951206207
+    },
+    {
+        "title": "Redadas ICE del 13 de marzo: dos indocumentados y un fugitivo capturados en Boston y Filadelfia",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741914461566.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-13-de-marzo-dos-indocumentados-y-un-fugitivo-capturados-en-boston-y-filadelfia-20253132170",
+        "date": "2025-03-14 01:07:00",
+        "sentiment_score": -0.6870774459093809
+    },
+    {
+        "title": "Así puedes tramitar una tarjeta de crédito en el Banco de Venezuela: son pocos pasos",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741913805510.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/asi-puedes-tramitar-una-tarjeta-de-credito-en-el-banco-de-venezuela-son-pocos-pasos-20253132100",
+        "date": "2025-03-14 01:00:00",
+        "sentiment_score": 0.4048044364899397
+    },
+    {
+        "title": "Capturan a seis miembros del Tren de Aragua en Chile: los acusan de secuestro y homicidio frustrado",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1741907309054.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/capturan-a-seis-miembros-del-tren-de-aragua-en-chile-los-acusan-de-secuestro-y-homicidio-frustrado-20253132100",
+        "date": "2025-03-14 01:00:00",
+        "sentiment_score": 0.03626687079668045
     }
 ];
