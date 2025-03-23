@@ -1,297 +1,5 @@
 export default [
     {
-        "title": "El Grupo Ansasol inicia la tramitación de su mega planta de metanol verde en Huelva",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/el-grupo-ansasol-inicia-la-tramitacion-de-su-mega-planta-de-metanol-verde-en-huelva/",
-        "date": "2025-03-19 06:33:54",
-        "sentiment_score": 0.6794303823262453
-    },
-    {
-        "title": "Guardiola no renuncia a aprobar los presupuestos pero insiste en que no permitirá el \"bloqueo\" de Extremadura",
-        "image_url": "https://www.infobae.com/resizer/v2/V2JGHDPUGJDNRIRFY2XUBTAY6U.jpg?auth=796c48b75d15ae1d69e5a5b467e098c6fb77bb79ac1c0cf67bce9938324cb2cc&height=1440&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/guardiola-no-renuncia-a-aprobar-los-presupuestos-pero-insiste-en-que-no-permitira-el-bloqueo-de-extremadura/",
-        "date": "2025-03-19 06:33:40",
-        "sentiment_score": -0.1703549027442932
-    },
-    {
-        "title": "Hunosa cesa la combustión de carbón para iniciar una nueva etapa de biomasa",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/hunosa-cesa-la-combustion-de-carbon-para-iniciar-una-nueva-etapa-de-biomasa/",
-        "date": "2025-03-19 06:33:24",
-        "sentiment_score": 0.6280449442565441
-    },
-    {
-        "title": "Gobierno canario dice que las explicaciones del 'caso Mascarillas' \"se quedan cortas\" y pide clarificar todo",
-        "image_url": "https://www.infobae.com/resizer/v2/6TQUJYTK3FFLPCLZJSNJFU3URI.jpg?auth=aef50ffee0f7011d62ae60601e39f47ef15aeca4edece8e53c1038ca4165ef84&height=1160&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/gobierno-canario-dice-que-las-explicaciones-del-caso-mascarillas-se-quedan-cortas-y-pide-clarificar-todo/",
-        "date": "2025-03-19 06:33:10",
-        "sentiment_score": -0.07192650437355042
-    },
-    {
-        "title": "El Racing Ferrol ratifica su confianza en Cristóbal Parralo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/el-racing-ferrol-ratifica-su-confianza-en-cristobal-parralo/",
-        "date": "2025-03-19 06:32:55",
-        "sentiment_score": 0.7228937149047852
-    },
-    {
-        "title": "Vecinos de Alfafar piden la dimisión del alcalde y su equipo en un pleno de gran tensión",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/vecinos-de-alfafar-piden-la-dimision-del-alcalde-y-su-equipo-en-un-pleno-de-gran-tension/",
-        "date": "2025-03-19 06:32:26",
-        "sentiment_score": -0.2421005219221115
-    },
-    {
-        "title": "La selección española masculina de fútbol y Leyendas España protagonizan el calendario 2025 de Fundación CRIS",
-        "image_url": "https://www.infobae.com/resizer/v2/A7GFXVFO2FC67FZRKHQIQWDSPU.jpg?auth=5932448aa60c59a145d35e17ef05be32b605a8acf9889897de3ce1ea5de55050&height=1403&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2024/12/26/la-seleccion-espanola-masculina-de-futbol-y-leyendas-espana-protagonizan-el-calendario-2025-de-fundacion-cris/",
-        "date": "2025-03-19 06:32:12",
-        "sentiment_score": 0.5438568666577339
-    },
-    {
-        "title": "Por qué la mayoría de los gatos son capaces de volver a casa: esto dice la ciencia",
-        "image_url": "https://www.infobae.com/resizer/v2/FCFXYKWVRBF2PEEMOQ4A3UYLRE.jpg?auth=c88240a76c166b9c4c178bfd952e9e409b9287eb87690c0b7da99d8865a3ad9e&height=3648&smart=true&width=5472",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/03/19/por-que-la-mayoria-de-los-gatos-son-capaces-de-volver-a-casa-esto-dice-la-ciencia/",
-        "date": "2025-03-19 06:32:00",
-        "sentiment_score": 0.12344609200954437
-    },
-    {
-        "title": "El precio de la gasolina este 19 de marzo en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/KTGUOZZCKFFMDHDV3CIFEHZOHQ.jpg?auth=c59406e87c71ed443511e3fb5252b068f5e823897313c2c7fb583ea917e189e6&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/03/19/el-precio-de-la-gasolina-este-19-de-marzo-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2025-03-19 06:31:18",
-        "sentiment_score": 0.06712106615304947
-    },
-    {
-        "title": "Un juzgado cita a la Junta de Personal de las Cortes de CyL por la denuncia de acoso contra el letrado mayor",
-        "image_url": "https://www.infobae.com/resizer/v2/ESMSV7HFORFCRFI43B4TZWXWKQ.jpg?auth=6d98914c3a4ef9191369773aea82c16b778c4ecf45e1df4d61694aeb2a450115&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/un-juzgado-cita-a-la-junta-de-personal-de-las-cortes-de-cyl-por-la-denuncia-de-acoso-contra-el-letrado-mayor/",
-        "date": "2025-03-19 06:17:49",
-        "sentiment_score": -0.4520498961210251
-    },
-    {
-        "title": "La vergüenza no prescribe: familiares de víctimas en residencias exigen justicia ante el Supremo",
-        "image_url": "https://diario16plus.com/uploads/s1/21/55/19/0/7291-1.jpeg",
-        "tags": [
-            "crónica"
-        ],
-        "link": "https://diario16plus.com/analisis/cronica/verguenza-no-prescribe-familiares-victimas-en-residencias-exigen-justicia_506780_102.html",
-        "date": "2025-03-19 06:10:00",
-        "sentiment_score": -0.11230269074440002
-    },
-    {
-        "title": "Salva Rubio gana el Julio Alejandro, con el rondeño Alberto Herrera finalista",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/21c25c6f-0da4-4a22-ad86-277a65b94b86_16-9-aspect-ratio_default_0_x302y201.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/festival-cine-malaga/2025/03/19/salva-rubio-gana-julio-alejandro-115447987.html",
-        "date": "2025-03-19 06:00:42",
-        "sentiment_score": -0.024419456720352173
-    },
-    {
-        "title": "El reparto de los niños migrantes abre otra grave brecha política",
-        "image_url": "https://static.grupojoly.com/clip/477ba52f-3978-4a85-9c3a-85c86be6401c_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodejerez.es/andalucia/reparto-ninos-migrantes-abre-grave_0_2003555723.html",
-        "date": "2025-03-19 06:00:28",
-        "sentiment_score": -0.2920273244380951
-    },
-    {
-        "title": "Al Recreativo se le atragantan los equipos de abajo con la entrada de año",
-        "image_url": "https://static.grupojoly.com/clip/73ea9899-4b11-44f7-9ba8-149c615922ed_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "recreativo de huelva"
-        ],
-        "link": "https://www.huelvainformacion.es/recreativo/recreativo-le-atragantan-equipos-abajo_0_2003552939.html",
-        "date": "2025-03-19 06:00:21",
-        "sentiment_score": 0.18166455626487732
-    },
-    {
-        "title": "El Barça, reforzado con Neto y Metu, arranca la segunda vuelta ante el Estrella Roja",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2024/12/26/el-barca-reforzado-con-neto-y-metu-arranca-la-segunda-vuelta-ante-el-estrella-roja/",
-        "date": "2025-03-19 05:48:56",
-        "sentiment_score": 0.5123090129345655
-    },
-    {
-        "title": "Diez jornadas para volver a la Champions",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/50936bc9-43da-4028-ad77-e10b8068865f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/03/19/diez-jornadas-liga-volver-champions-athletic-9414750.html",
-        "date": "2025-03-19 05:46:22",
-        "sentiment_score": 0.2064538449048996
-    },
-    {
-        "title": "Sánchez maquilla el paro con empleo público: el Estado contrata 4,5 puntos más que el sector privado",
-        "image_url": "https://okdiario.com/img/2025/03/12/imagen_recortada-53-620x349.jpg",
-        "tags": [
-            "afiliados a la seguridad social",
-            "empleo público",
-            "trabajadores",
-            "empleo",
-            "paro",
-            "economía"
-        ],
-        "link": "https://okdiario.com/economia/sanchez-tapa-paro-empleo-publico-estado-contrata-45-puntos-mas-que-sector-privado-14463872",
-        "date": "2025-03-19 05:45:11",
-        "sentiment_score": 0.2104586362838745
-    },
-    {
-        "title": "«Soy optimista con cómo preservarán el patrimonio musical las próximas generaciones»",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/03/18/1493069880-kjDF-RMInDGc5esjruyAlH4DGl8I-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/culturas/musica/hevia-optimista-preservaran-patrimonio-musical-proximas-generaciones-20250319174354-nt.html",
-        "date": "2025-03-19 05:23:26",
-        "sentiment_score": 0.3546789810061455
-    },
-    {
-        "title": "Se acabaron tus problemas con las matemáticas",
-        "image_url": "https://www.elplural.com/uploads/s1/19/39/66/3/se-acabaron-tus-problemas-con-las-matema-ticas_7_480x270.jpeg",
-        "tags": [
-            "startup"
-        ],
-        "link": "https://www.elplural.com/el-telescopio/startup/acabaron-problemas-matematicas_348591102",
-        "date": "2025-03-19 06:33:02",
-        "sentiment_score": -0.02700325846672058
-    },
-    {
-        "title": "Esta es la primera hamburguesería ubicada en un hotel 4 estrellas de Canarias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9f7030fe-a183-4aed-a383-c2709c731cd9_16-9-aspect-ratio_default_1362433.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/las-palmas/2025/03/19/hamburgueseria-chef-deniz-sube-nivel-dv-115425311.html",
-        "date": "2025-03-19 06:31:27",
-        "sentiment_score": 0.6432621777057648
-    },
-    {
-        "title": "The Cacereñer, el homenaje local a la revista más cosmopolita",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/03/18/MARCESOLIS-RW5v009EDkp4EiOpBCQ8RCJ-1200x840@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.hoy.es/caceres/the-cacerener-homenaje-local-revista-cosmopolita-20250319183316-nt.html",
-        "date": "2025-03-19 06:25:57",
-        "sentiment_score": 0.41879281401634216
-    },
-    {
-        "title": "Últimas noticias de la guerra de Ucrania y Rusia | EE UU anuncia que las negociaciones para un alto al fuego en Ucrania seguirán el domingo en Arabia Saudí",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SPARCVJK473EOGPHCWO5XJKCHQ.jpg?auth=faf35ac79376e6caebf4566d5dac3e2461f5baddda6e6bebd48b0b97cf219038&width=1200",
-        "tags": [
-            "ucrania",
-            "volodimir zelenski",
-            "otan",
-            "ataques militares",
-            "rusia",
-            "conflictos internacionales",
-            "unión europea",
-            "guerra de rusia en ucrania",
-            "conflictos armados",
-            "relaciones internacionales",
-            "conflictos",
-            "guerra",
-            "vladimir putin"
-        ],
-        "link": "https://elpais.com/internacional/2025-03-19/ultimas-noticias-de-la-guerra-de-ucrania-y-rusia.html",
-        "date": "2025-03-19 06:23:11",
-        "sentiment_score": -0.3774247504770756
-    },
-    {
-        "title": "La historia detrás de la bufanda del Athletic lanzada a Jhayco en Barcelona: «Cómo no iba a dársela... ya se puso la del Recre»",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/03/19/jhayco-bufanda-kL0-U2301188082682SyE-1200x840@El%20Correo.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elcorreo.com/athletic/historia-detras-bufanda-athletic-lanzada-jhayco-barcelona-20250319190837-nt.html",
-        "date": "2025-03-19 06:18:50",
-        "sentiment_score": 0.09266093373298645
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de marzo, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/10/24/tiempo/804429799_10842340_1706x960.jpg?contentId=804429799",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250319/lo-que-debes-saber-hoy-de-marzo-barcelona/932406753_0.html",
-        "date": "2025-03-19 06:15:08",
-        "sentiment_score": -0.6443535834550858
-    },
-    {
-        "title": "Lluvias y fuerte oleaje en Cataluña: estas son las alertas activadas para este miércoles 19 de marzo",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/03/07/vida/929417266_14231004_1706x960.jpg?contentId=929417266",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20250319/lluvias-fuerte-oleaje-cataluna-alertas-activadas-miercoles/932406752_0.html",
-        "date": "2025-03-19 06:14:03",
-        "sentiment_score": -0.8196811461821198
-    },
-    {
-        "title": "Jose, José, Josete, Pepe... Todos los nombres del santo en el Día del Padre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/32MJCMADMJBGJFRDPKFSMY4MPA.jpg?auth=4ab1f8e30a1cc443ee1a9a92574a5cf98073972f4cbeae1a19111a45afeae077&width=1200",
-        "tags": [
-            "fiestas",
-            "españa",
-            "tradición oral",
-            "santos",
-            "ine",
-            "día del padre"
-        ],
-        "link": "https://elpais.com/actualidad/2025-03-19/jose-jose-josete-pepe-todos-los-nombres-del-santo-que-se-celebra-hoy.html",
-        "date": "2025-03-19 06:06:20",
-        "sentiment_score": 0.07761561125516891
-    },
-    {
-        "title": "29.000 personas reciben una prescripción social desde Atención Primaria para su bienestar emocional",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250319070447_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-29000-personas-reciben-prescripcion-social-atencion-primaria-bienestar-emocional-20250319070447.html",
-        "date": "2025-03-19 06:04:47",
-        "sentiment_score": -0.36777254939079285
-    },
-    {
         "title": "Un hombre de 30 años le exige a su abuela que le pase una pensión de 500 euros mensuales: desde que se graduó pasó por 14 empleos diferentes",
         "image_url": "https://www.infobae.com/resizer/v2/Y6IYN43DNFFMXJGQVE4N6L3XCE.jpeg?auth=e89bf6d32cd50d844d00e4a97cb20fe6d60d7ebd2c163cb0370d539e9c8878e4&height=3004&smart=true&width=4724",
         "tags": [
@@ -8148,5 +7856,531 @@ export default [
         "link": "https://2001online.com/usa/internacionales/lo-que-no-debes-decirle-a-un-vendedor-al-momento-de-comprar-un-auto-20253221100",
         "date": "2025-03-22 15:00:00",
         "sentiment_score": -0.08710258826613426
+    },
+    {
+        "title": "La campaña navideña dispara las financiaciones y el sobreendeudamiento, según un análisis",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/la-campana-navidena-dispara-las-financiaciones-y-el-sobreendeudamiento-segun-un-analisis/",
+        "date": "2025-03-22 22:03:47",
+        "sentiment_score": -0.11593033373355865
+    },
+    {
+        "title": "Ábalos, Koldo, De Aldama, Begoña Gómez y el fiscal general protagonizan el horizonte judicial de 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/EIKUGOQJEBCWJGWAJ37QQWSIOI.jpg?auth=1d3cf19f85de6d8483761617acbe6c7dbae5b65fdeacaaa600a0869024023f2b&height=1302&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/abalos-koldo-de-aldama-begona-gomez-y-el-fiscal-general-protagonizan-el-horizonte-judicial-de-2025/",
+        "date": "2025-03-22 22:03:07",
+        "sentiment_score": -0.27918365597724915
+    },
+    {
+        "title": "El corte de gas ruso por Ucrania tendrá \"severas consecuencias\" para UE, según Eslovaquia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/el-corte-de-gas-ruso-por-ucrania-tendra-severas-consecuencias-para-ue-segun-eslovaquia/",
+        "date": "2025-03-22 22:02:08",
+        "sentiment_score": -0.25268717110157013
+    },
+    {
+        "title": "El Festival de Málaga cierra la edición que consagra a 'Sorda' y a los hermanos Cervantes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/03/22/el-festival-de-malaga-cierra-la-edicion-que-consagra-a-sorda-y-a-los-hermanos-cervantes/",
+        "date": "2025-03-22 22:01:15",
+        "sentiment_score": -0.03874926269054413
+    },
+    {
+        "title": "España condena la violación del acuerdo de cese de hostilidades entre Líbano e Israel",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/03/22/espana-condena-la-violacion-del-acuerdo-de-cese-de-hostilidades-entre-libano-e-israel/",
+        "date": "2025-03-22 22:00:15",
+        "sentiment_score": -0.8835873175412416
+    },
+    {
+        "title": "Muere un camionero tras volcar su vehículo en la CL-631 en Toreno (León)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/muere-un-camionero-tras-volcar-su-vehiculo-en-la-cl-631-en-toreno-leon/",
+        "date": "2025-03-22 21:49:26",
+        "sentiment_score": -0.7853056155145168
+    },
+    {
+        "title": "Un hombre hiere con un cuchillo a cuatro personas en Oñati (Gipuzkoa) tras una discusión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/un-hombre-hiere-con-un-cuchillo-a-cuatro-personas-en-onati-gipuzkoa-tras-una-discusion/",
+        "date": "2025-03-22 21:49:12",
+        "sentiment_score": -0.8272944167256355
+    },
+    {
+        "title": "La sombra del \"apagón\" nuclear en España se evidencia más con la llegada de 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/la-sombra-del-apagon-nuclear-en-espana-se-evidencia-mas-con-la-llegada-de-2025/",
+        "date": "2025-03-22 21:48:14",
+        "sentiment_score": -0.1033112108707428
+    },
+    {
+        "title": "El Playas de Castellón afronta nueva temporada con 70 bajas por problemas en presupuesto",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/el-playas-de-castellon-afronta-nueva-temporada-con-70-bajas-por-problemas-en-presupuesto/",
+        "date": "2025-03-22 21:48:00",
+        "sentiment_score": -0.35260920226573944
+    },
+    {
+        "title": "El Gobierno empezará el año con un CPFF para intentar convencer a las CCAA con la condonación de la deuda",
+        "image_url": "https://www.infobae.com/resizer/v2/62TLKICBCJAOREAPC3PMKIO534.jpg?auth=cf550d110c5b63a3c515e6913dc70b667607e7fe350ea6207b73457b2b1997d1&height=1282&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/el-gobierno-empezara-el-ano-con-un-cpff-para-intentar-convencer-a-las-ccaa-con-la-condonacion-de-la-deuda/",
+        "date": "2025-03-22 21:47:43",
+        "sentiment_score": -0.585144404321909
+    },
+    {
+        "title": "Video tomado por turista muestra el momento cuando fue acorralado por monos en una piscina",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/thumb2-1-20250322191741497.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/video-monos-acorralan-a-turista-trax/",
+        "date": "2025-03-22 19:24:17",
+        "sentiment_score": -0.36566300690174103
+    },
+    {
+        "title": "Erdogan se enfrenta a las protestas más graves de la última década tras la detención del alcalde de Estambul",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/22/erdogan-RksqYoxiCLfHHxpUQWC6CLI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/erdogan-enfrenta-protestas-graves-ultima-decada-tras-20250322204219-nt.html",
+        "date": "2025-03-22 19:42:19",
+        "sentiment_score": -0.05174502730369568
+    },
+    {
+        "title": "Viaje al odio",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2025/03/18/jubilacion1-kg9--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/karina-sainz-borgo-viaje-odio-20250323192248-nt.html",
+        "date": "2025-03-22 18:23:46",
+        "sentiment_score": -0.22556109726428986
+    },
+    {
+        "title": "Presupuestos, Estado fallido y Senado",
+        "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/provincia/2025/03/19/islacristinaikesa-U08351226303LiA-170x119@huelva24.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-sanchez-presupuestos-estado-fallido-senado-20250323171508-nt.html",
+        "date": "2025-03-22 18:22:43",
+        "sentiment_score": -0.1029670238494873
+    },
+    {
+        "title": "Sanchezlandés para 'dummies'",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/03/14/experto-aclara-precio-aceite-oliva-bajara-lluvias-kNW--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-sanchezlandes-dummies-20250323192220-nt.html",
+        "date": "2025-03-22 18:22:31",
+        "sentiment_score": -0.14895744621753693
+    },
+    {
+        "title": "Carne de maltrato",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/03/14/experto-aclara-precio-aceite-oliva-bajara-lluvias-kNW--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-carne-maltrato-20250323125837-nt.html",
+        "date": "2025-03-22 18:22:22",
+        "sentiment_score": -0.11563423275947571
+    },
+    {
+        "title": "La leyenda del santo perdedor",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/03/17/subsidiook_1-U18505376017ILR-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-leyenda-santo-perdedor-20250323192206-nt.html",
+        "date": "2025-03-22 18:22:14",
+        "sentiment_score": -0.05734986066818237
+    },
+    {
+        "title": "Que sí, que sí... que aguantará",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/03/20/matalascanas--U23048075250MeB--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-aguantara-20250323190700-nt.html",
+        "date": "2025-03-22 18:22:03",
+        "sentiment_score": -0.16162043809890747
+    },
+    {
+        "title": "El libro maldito",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-libro-maldito-20250323172759-nt.html",
+        "date": "2025-03-22 18:21:45",
+        "sentiment_score": -0.15615257620811462
+    },
+    {
+        "title": "Un día sin mentiras",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/03/23/TERCERAABC_UNDIASINMENTIRAS_MOLINA-RvS9lGZrW5ju2oXwRf3hg3K-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/cesar-antonio-molina-dia-mentiras-20250323131836-nt.html",
+        "date": "2025-03-22 18:21:27",
+        "sentiment_score": -0.19141358137130737
+    },
+    {
+        "title": "La crecida de los ríos mantiene en alerta a municipios de Toledo, Madrid y Ávila",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LPURS6NY4VHW3D7QUU7GOHWL5E.jpg?auth=795f6973f616de0de86c0ad65238b0a924ae0e7fe1fcf3537aa7d45b9f5a283f&width=1200",
+        "tags": [
+            "ríos",
+            "castilla-la mancha",
+            "ávila",
+            "castilla y león",
+            "inundaciones",
+            "río tajo",
+            "lluvias torrenciales",
+            "españa",
+            "temporales"
+        ],
+        "link": "https://elpais.com/espana/2025-03-22/la-crecida-de-los-rios-mantiene-en-alerta-a-municipios-de-toledo-madrid-y-avila.html",
+        "date": "2025-03-22 20:48:59",
+        "sentiment_score": -0.7977077346295118
+    },
+    {
+        "title": "Tres montañeros mueren en el Parque Natural del Moncayo tras precipitarse en la zona de la Escupidera",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4HFW2USQTZARLOO7VQTIV5CY4M.jpg?auth=523a2d023c5bec9833e4fd74da96c4e88aab342ecb1f8669701df62814db230a&width=1200",
+        "tags": [
+            "sucesos",
+            "españa",
+            "zaragoza",
+            "accidentes",
+            "montana",
+            "montañismo"
+        ],
+        "link": "https://elpais.com/espana/2025-03-22/tres-montaneros-fallecen-en-el-parque-natural-del-moncayo-tras-precipitarse-en-la-zona-de-la-escupidera.html",
+        "date": "2025-03-22 18:38:08",
+        "sentiment_score": -0.7962699960917234
+    },
+    {
+        "title": "El Papa traslada al nuncio en España a Bruselas como representante del Vaticano ante la UE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XEI4WYBVP5B2HBWV77PHWTKM7I.jpg?auth=8452115f3a949e100663b0ccbc0cda27bcff58da5260bb9b91505ce6b7456e7d&width=1200",
+        "tags": [
+            "papa",
+            "diplomacia",
+            "sociedad",
+            "bruselas",
+            "iglesia católica",
+            "santa sede",
+            "iglesia católica española"
+        ],
+        "link": "https://elpais.com/sociedad/2025-03-22/el-papa-traslada-al-nuncio-en-espana-a-bruselas-como-representante-del-vaticano-ante-la-ue.html",
+        "date": "2025-03-22 17:17:42",
+        "sentiment_score": -0.1520347874611616
+    },
+    {
+        "title": "El Mirandés se pone líder y el Elche mantiene el ritmo del ascenso directo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250322230934_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-mirandes-pone-lider-elche-mantiene-ritmo-ascenso-directo-20250322230934.html",
+        "date": "2025-03-22 22:09:34",
+        "sentiment_score": 0.6679481491446495
+    },
+    {
+        "title": "Franck Ribéry considera una injusticia el Balón de Oro que le ‘quitó’ Cristiano Ronaldo",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/03/AP22294585194156-e1742675164974.jpg",
+        "tags": [
+            "cristiano ronaldo",
+            "fútbol",
+            "franck ribery",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2025/03/22/franck-ribery-considera-una-injusticia-el-balon-de-oro-que-le-quito-cristiano-ronaldo/",
+        "date": "2025-03-22 22:02:00",
+        "sentiment_score": -0.6432275995612144
+    },
+    {
+        "title": "Julián Álvarez habla por primera vez sobre su polémico penalti anulado ante el Real Madrid",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/03/22/E0126372-70B8-4171-B942-29CC5BC9B8BF/julian-alvarez-argentinaimagen-penalti-anulado-atletico-tanda-penaltis-real-madrid_98.jpg?crop=3264%2C1836%2Cx0%2Cy192&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/julian-alvarez-habla-primera-vez-polemico-penalti-anulado-real-madrid_2025032267df31abb425ef0001e7a114.html",
+        "date": "2025-03-22 21:54:51",
+        "sentiment_score": -0.28695913404226303
+    },
+    {
+        "title": "Con iPads, a pie y en vehículos: Así es como Apple recorre cada rincón para recopilar las imágenes de Mapas",
+        "image_url": "https://www.infobae.com/resizer/v2/K7YFBBEYRRHC5E7LO5FMM3PPDU.jpg?auth=4c3a3f59aedd142b480ddb933f6e2d4164c2cad6313003630e0d4c381d7765ae&height=1177&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/01/con-ipads-a-pie-y-en-vehiculos-asi-es-como-apple-recorre-cada-rincon-para-recopilar-las-imagenes-de-mapas/",
+        "date": "2025-03-22 21:33:50",
+        "sentiment_score": 0.42339927330613136
+    },
+    {
+        "title": "El calendario deportivo de 2025: Eurocopa, Eurobasket, Mundiales de natación y atletismo",
+        "image_url": "https://www.infobae.com/resizer/v2/YN3N3ZXZNFCKPLBHT5JJDYWIAM.jpg?auth=b4ca152578f98e589d90dd8cfbf69482198a36a16176a3c5953056d6ef882d5d&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/01/el-calendario-deportivo-de-2025-eurocopa-eurobasket-mundiales-de-natacion-y-atletismo/",
+        "date": "2025-03-22 21:19:20",
+        "sentiment_score": 0.5140003375709057
+    },
+    {
+        "title": "Dos cierres y una expulsión vecinal: las consecuencias de vender un edificio a un fondo en el centro de Madrid",
+        "image_url": "https://static.eldiario.es/clip/3fa6e5e3-b99a-4ded-93bc-c31c4d4d4a7c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/lavapies/cierres-expulsion-vecinal-consecuencias-vender-edificio-fondo-centro-madrid_1_12150711.html",
+        "date": "2025-03-22 21:15:13",
+        "sentiment_score": -0.08798322081565857
+    },
+    {
+        "title": "Claves de 'Adolescencia', la serie de Netflix que en Reino Unido piden poner en los institutos",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/03/20/el-protagonista-de-adolescencia-y-su-padre-en-un-fotograma-de-la-serie.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.huffingtonpost.es/life/cultura/claves-adolescencia-serie-netflix-reino-unido-piden-poner-institutos.html",
+        "date": "2025-03-22 21:13:24",
+        "sentiment_score": 0.29965740442276
+    },
+    {
+        "title": "«El reparto de menores emigrantes no es una concesión a Junts, es dar una solución de país»",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/03/22/sira_rego_ministra-R3OQdU7Dcx5c68y9sYwqt5L-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/asturias/sira-rego-reparto-menores-emigrantes-concesion-junts-dar-solucion-20250322213825-nt.html",
+        "date": "2025-03-22 21:04:00",
+        "sentiment_score": -0.11957603693008423
+    },
+    {
+        "title": "Odiar feo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/874cfa0f-fe1b-42fa-b583-0239db61b6e4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/opinion/2025/03/22/odiar-feo-115558803.html",
+        "date": "2025-03-22 21:00:41",
+        "sentiment_score": -0.640158623456955
+    },
+    {
+        "title": "Toca defenderse",
+        "image_url": "https://s1.ppllstatics.com/starfish/latest/assets/images/placeholders/ideal-placeholder.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/opinion/toca-defenderse-20250323165144-nt.html",
+        "date": "2025-03-22 22:14:16",
+        "sentiment_score": -0.3533681184053421
+    },
+    {
+        "title": "Cuatro acertantes de la Bonoloto se reparten 146.000 euros este sábado",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/03/22/15465E4-kIiB-U23012305060417HC-1200x840@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/sociedad/cuatro-acertantes-bonoloto-reparten-146000-euros-sabado-20250322230828-nt.html",
+        "date": "2025-03-22 22:08:29",
+        "sentiment_score": 0.28908876702189445
+    },
+    {
+        "title": "Cap Butaca Buida logra más de 71.000 espectadores en teatros en un día",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/10/10/creacion/892420757_13563903_1706x960.jpg?contentId=892420757",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20250322/cap-butaca-buida-logra-espectadores-en-teatros/933156727_0.html",
+        "date": "2025-03-22 22:03:30",
+        "sentiment_score": 0.7881136685609818
+    },
+    {
+        "title": "LaLiga borra a Dani Olmo y Pau Víctor de la plantilla del FC Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/DBPQAJ644NDTHA24V5CQGQLYLA.jpg?auth=33aeceb1561d8b900ff9d666c74d19f38bf9625681a9014c1ef99901801032dd&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/01/laliga-borra-a-dani-olmo-y-pau-victor-de-la-plantilla-del-fc-barcelona/",
+        "date": "2025-03-22 22:02:37",
+        "sentiment_score": -0.9022436290979385
+    },
+    {
+        "title": "El Tren de Aragua: sangre en Sudamérica y exageración en EEUU",
+        "image_url": "https://phantom-elmundo.uecdn.es/b309e5829634fc35f3a87a4927c59b89/crop/80x0/2555x1650/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/21/17425657588188.jpg",
+        "tags": [
+            "venezuela",
+            "gran angular"
+        ],
+        "link": "https://www.elmundo.es/internacional/2025/03/22/67dd71a121efa0da418b45a0.html",
+        "date": "2025-03-22 21:47:43",
+        "sentiment_score": -0.8507285555824637
+    },
+    {
+        "title": "Cinco acertantes de la Primitiva ganan 40.000 euros y el bote sube a 20 millones",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/22/administracion-de-loterias-2.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5693577/0/primitiva-acertantes-ganan-miles-euros-bote-sube-millones/",
+        "date": "2025-03-22 21:41:35",
+        "sentiment_score": 0.30022795498371124
+    },
+    {
+        "title": "La Primitiva deja un interesante pellizco en Burgos",
+        "image_url": "https://s1.elespanol.com/2023/09/24/treintayseis/actualidad/galicia/796930788_242632899_1706x960.jpg?contentId=796930788",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/burgos/20250322/primitiva-deja-interesante-pellizco-burgos/933156860_0.html",
+        "date": "2025-03-22 21:31:49",
+        "sentiment_score": 0.8028974421322346
+    },
+    {
+        "title": "Barcelona le habría seguido la pista a un jugador de la selección Colombia: dijo presente en partido contra Brasil",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/03/22/barcelona-le-habria-seguido-la-pista-a-un-jugador-de-la-seleccion-colombia-dijo-presente-en-partido-contra-brasil/",
+        "date": "2025-03-22 21:29:11",
+        "sentiment_score": 0.3002808839082718
+    },
+    {
+        "title": "Reportan incendio de gran magnitud en Aragua: el fuego consume una fábrica de plástico",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742674592352.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/reportan-incendio-de-gran-magnitud-en-aragua-el-fuego-consume-una-fabrica-de-plastico-20253221700",
+        "date": "2025-03-22 21:30:00",
+        "sentiment_score": 0.014453008770942688
+    },
+    {
+        "title": "Inmigrante venezolano se le prohíbe el paso a una lavandería en Chicago: el joven hurtaba la ropa y monedas",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742678612944.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/sucesos/inmigrante-venezolano-se-le-prohibe-el-paso-a-una-lavanderia-en-chicago-el-joven-es-acusado-de-robarse-la-ropa-y-monedas--202532217170",
+        "date": "2025-03-22 21:17:00",
+        "sentiment_score": -0.07022399827837944
+    },
+    {
+        "title": "INTT: con siete pasos puedes tramitar la licencia de conducir para menores de edad",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742677593059.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/intt-con-siete-pasos-puedes-tramitar-la-licencia-de-conducir-para-menores-de-edad-20253221730",
+        "date": "2025-03-22 21:03:00",
+        "sentiment_score": 0.34084996581077576
+    },
+    {
+        "title": "Exfutbolista francés arremete contra Messi: asegura que le regalaron el Mundial de 2022",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742616118149.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/exfutbolista-frances-arremete-contra-messi-asegura-que-le-regalaron-el-mundial-de-2022-20253221700",
+        "date": "2025-03-22 21:00:00",
+        "sentiment_score": -0.5788041055202484
+    },
+    {
+        "title": "Maduro encabeza despedida del buque escuela AB Simón Bolívar: recorrerá el Caribe durante 45 días",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742677320861.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-encabeza-despedida-del-buque-escuela-ab-simon-bolivar-recorrera-el-caribe-durante-45-dias-202532216420",
+        "date": "2025-03-22 20:42:00",
+        "sentiment_score": -0.04090344160795212
+    },
+    {
+        "title": "Aumentan las revisiones de dispositivos electrónicos en aeropuertos de USA: sepa cómo actuar",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742675143793.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/aumentan-las-revisiones-de-dispositivos-electronicos-en-aeropuertos-de-usa-sepa-como-actuar--202532216220",
+        "date": "2025-03-22 20:22:00",
+        "sentiment_score": 0.06681905686855316
+    },
+    {
+        "title": "Cierre parcial en la bajada de Tazón y restricciones para Túnel El Valle: estos son los horarios y las fechas",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742672963883/bajataz%C3%B3n.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/cierre-parcial-en-la-bajada-de-tazon-y-restricciones-para-tunel-el-valle-estos-son-los-horarios-y-las-fechas-20253221550",
+        "date": "2025-03-22 20:06:00",
+        "sentiment_score": 0.5374902784824371
+    },
+    {
+        "title": "Amazon y Walmart modifican política de reembolso: algunos productos no aplicarán para devoluciones",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742433181841.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/amazon-y-walmart-modifican-politica-de-reembolso-algunos-productos-no-aplicaran-para-devoluciones-20253221600",
+        "date": "2025-03-22 20:00:00",
+        "sentiment_score": 0.5976176373660564
+    },
+    {
+        "title": "Pagos en la Plataforma Patria: bonos y montos por cobrar del 24 al 31 de marzo",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742671088310.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/pagos-en-la-plataforma-patria-bonos-y-montos-por-cobrar-del-24-al-31-de-marzo-202532215210",
+        "date": "2025-03-22 19:21:00",
+        "sentiment_score": 0.14866218343377113
+    },
+    {
+        "title": "Papa Francisco será dado de alta mañana: continuará su recuperación en el Vaticano",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742670072464.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/papa-francisco-sera-dado-de-alta-manana-continuara-su-recuperacion-en-el-vaticano-20253221530",
+        "date": "2025-03-22 19:07:00",
+        "sentiment_score": -0.13292155787348747
     }
 ];
