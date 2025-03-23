@@ -110,26 +110,6 @@ export default [
         "sentiment_score": -0.22417818009853363
     },
     {
-        "title": "Familiares de rehenes de Hamas están preocupados por la reanudación de los ataques de Israel en Gaza",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2017/05/cnne-logo-video-bg.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/familiares-rehenes-temen-reanudacion-ataques-gaza-cafe-tv/",
-        "date": "2025-03-19 13:41:02",
-        "sentiment_score": -0.881716107018292
-    },
-    {
-        "title": "Los médicos afirman que la guerra de Gaza provocó la caída del cabello de esta niña",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/capturepalestina.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/doctor-pelo-nina-gaza-israel-trax/",
-        "date": "2025-03-19 13:01:57",
-        "sentiment_score": -0.8716100230813026
-    },
-    {
         "title": "Condenado a 49 años de cárcel el joven de 19 años que asesinó a su madre, hermano y hermana, y planeaba una masacre en su antiguo colegio",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/19/NicholasProsper-RviVV1NIQWEAVtukyDx1tQK-1200x700@diario_abc.jpg",
         "tags": [
@@ -178,56 +158,6 @@ export default [
         "link": "https://www.abc.es/economia/supremo-permite-trabajador-quedarse-12000-euros-subsidio-20250319161341-nt.html",
         "date": "2025-03-19 15:14:36",
         "sentiment_score": -0.11874797940254211
-    },
-    {
-        "title": "Dos trabajadores de la ONU mueren en un ataque a un edificio de la Organización en Gaza",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/19/abc-uh-klTD-U70559672209JeB-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/dos-trabajadores-onu-mueren-ataque-edificio-organizacion-20250319144815-nt.html",
-        "date": "2025-03-19 13:48:16",
-        "sentiment_score": -0.8223124220967293
-    },
-    {
-        "title": "Un avión militar se estrella en Argelia y su piloto muere, según medios locales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/19/abc-uh-kJQE-U70559640366t8E-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/avion-militar-estrella-argelia-piloto-muere-segun-20250319143931-nt.html",
-        "date": "2025-03-19 13:39:31",
-        "sentiment_score": -0.7930303486064076
-    },
-    {
-        "title": "La Fundación CEOE lanza un cómic de Nieto (ABC) para llevar el valor de las empresas a los colegios",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/03/19/baez-nieto-fundacionceoe-RMmeBgyFB7JMMEpxFw1XhlL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/fundacion-ceoe-lanza-comic-nieto-abc-llevar-20250319143101-nt.html",
-        "date": "2025-03-19 13:31:01",
-        "sentiment_score": -0.02256682515144348
-    },
-    {
-        "title": "Los funcionarios se revuelven contra el Gobierno y exigen ante Hacienda subida de sueldo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/03/19/1493999208-Rj9JhpZvPvuljncpFHDTO8J-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/funcionarios-revuelven-gobierno-exigen-ante-hacienda-subida-20250319130209-nt.html",
-        "date": "2025-03-19 12:18:12",
-        "sentiment_score": -0.0738290399312973
-    },
-    {
-        "title": "Montero deja ver su disconformidad con la subida a Muface y sugiere que fue «excesivamente alta»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/19/MonteroDazJaimeGarca-R7cdw95tXtpOgPWcozYkzXI-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/montero-deja-ver-disconformidad-subida-muface-sugiere-20250319130951-nt.html",
-        "date": "2025-03-19 12:12:55",
-        "sentiment_score": -0.04454141855239868
     },
     {
         "title": "Unas Fallas con Mazón ausente y atrincherado en el Palau de la Generalitat",
@@ -374,44 +304,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-19/felipe-vi-revoluciona-torrent-con-una-visita-relampago-en-plenas-fallas.html",
         "date": "2025-03-19 14:27:24",
         "sentiment_score": -0.7541447468101978
-    },
-    {
-        "title": "Los policías y guardias civiles vuelven a manifestarse contra el pacto migratorio con Junts alentados por el PP",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DF62PQTQYK2HCLL4UQP6MBJQEM.jpg?auth=591c4900aa318d030f2a20f9291e76bbdfe231c67a43f7514ff5311895051b5e&width=1200",
-        "tags": [
-            "españa",
-            "policía nacional",
-            "protestas sociales",
-            "pp",
-            "augc",
-            "delegaciones del gobierno",
-            "madrid",
-            "manifestaciones",
-            "guardia civil",
-            "sup",
-            "sindicatos policiales"
-        ],
-        "link": "https://elpais.com/espana/2025-03-19/los-policias-y-guardias-civiles-vuelven-a-manifestarse-contra-el-pacto-migratorio-con-junts-alentados-por-el-pp.html",
-        "date": "2025-03-19 13:47:27",
-        "sentiment_score": -0.8140093795955181
-    },
-    {
-        "title": "El PP andaluz, a punto de agotar su reserva de diputados",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MO3BHE7IQV4HM56YSVNDW3INZI.jpg?auth=e69ca8a88b9f8b41fe35019e11058578edf26802e117d2b588cf46ec986a6889&width=1200",
-        "tags": [
-            "pp-a",
-            "andalucía",
-            "españa",
-            "provincia córdoba",
-            "gabriel amat",
-            "juan bravo",
-            "elías bendodo",
-            "parlamento andalucía",
-            "provincia almería"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2025-03-19/el-pp-andaluz-a-punto-de-agotar-su-reserva-de-diputados.html",
-        "date": "2025-03-19 13:46:40",
-        "sentiment_score": 0.13989334553480148
     },
     {
         "title": "Vox Sevilla y Sanz acuerdan paralizar los centros resilientes de San Jerónimo y el Cerro en busca de \"alternativas\"",
@@ -8382,5 +8274,474 @@ export default [
         "link": "https://2001online.com/internacionales/papa-francisco-sera-dado-de-alta-manana-continuara-su-recuperacion-en-el-vaticano-20253221530",
         "date": "2025-03-22 19:07:00",
         "sentiment_score": -0.13292155787348747
+    },
+    {
+        "title": "Muere Joan Guinovart, fundador y exdirector del Institut de Recerca Biomèdica (IRB)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/muere-joan-guinovart-fundador-y-exdirector-del-institut-de-recerca-biomedica-irb/",
+        "date": "2025-03-23 02:03:04",
+        "sentiment_score": -0.16492536664009094
+    },
+    {
+        "title": "Llega a Baleares la primera patera del año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/llega-a-baleares-la-primera-patera-del-ano/",
+        "date": "2025-03-23 01:48:47",
+        "sentiment_score": -0.3884480223059654
+    },
+    {
+        "title": "Ligero aumento de las temperaturas máximas este jueves, sobre todo en el este peninsular",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/ligero-aumento-de-las-temperaturas-maximas-este-jueves-sobre-todo-en-el-este-peninsular/",
+        "date": "2025-03-23 01:32:10",
+        "sentiment_score": 0.20092511177062988
+    },
+    {
+        "title": "César Soto Grado arbitrará el Valencia-Real Madrid aplazado por la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/cesar-soto-grado-arbitrara-el-valencia-real-madrid-aplazado-por-la-dana/",
+        "date": "2025-03-23 01:17:41",
+        "sentiment_score": 0.0993180125951767
+    },
+    {
+        "title": "La batalla por el rebote marca el Breogán-Manresa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/la-batalla-por-el-rebote-marca-el-breogan-manresa/",
+        "date": "2025-03-23 01:17:23",
+        "sentiment_score": 0.6054052338004112
+    },
+    {
+        "title": "Fallece a los 59 años el DJ José María Castells, figura clave de la música de baile",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/fallece-a-los-59-anos-el-dj-jose-maria-castells-figura-clave-de-la-musica-de-baile/",
+        "date": "2025-03-23 01:16:53",
+        "sentiment_score": -0.8053622543811798
+    },
+    {
+        "title": "Bolivia, ante el reto de levantar su economía golpeada por inflación y falta de dólares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/bolivia-ante-el-reto-de-levantar-su-economia-golpeada-por-inflacion-y-falta-de-dolares/",
+        "date": "2025-03-23 01:03:12",
+        "sentiment_score": -0.7797083482146263
+    },
+    {
+        "title": "Hungría pierde 1.040 millones de fondos europeos por ataques al Estado de derecho",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/hungria-pierde-1040-millones-de-fondos-europeos-por-ataques-al-estado-de-derecho/",
+        "date": "2025-03-23 00:48:41",
+        "sentiment_score": -0.8170089311897755
+    },
+    {
+        "title": "Casademont Zaragoza quiere trasladar fuera de casa su buen momento en su pista",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/casademont-zaragoza-quiere-trasladar-fuera-de-casa-su-buen-momento-en-su-pista/",
+        "date": "2025-03-23 00:19:14",
+        "sentiment_score": 0.21031875908374786
+    },
+    {
+        "title": "El UCAM inicia el año tratando de sorprender al Unicaja en casa con Sant-Roos recuperado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/01/el-ucam-inicia-el-ano-tratando-de-sorprender-al-unicaja-en-casa-con-sant-roos-recuperado/",
+        "date": "2025-03-23 00:19:00",
+        "sentiment_score": 0.3780787065625191
+    },
+    {
+        "title": "Ciudades del mundo se unen apagando luces en la Hora del Planeta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2205778882.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/millones-apagan-luces-hora-planeta-orix/",
+        "date": "2025-03-23 01:03:22",
+        "sentiment_score": 0.27177005261182785
+    },
+    {
+        "title": "\"Teuchitlán muestra lo que ocurre de manera cotidiana en este país\", dice experta",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2205414676.jpg?quality=100&strip=info",
+        "tags": [
+            "méxico"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/rancho-izaguirre-teuchitlan-desaparecidos-mexico-mirador-mundial-tv/",
+        "date": "2025-03-23 00:48:31",
+        "sentiment_score": -0.5934805795550346
+    },
+    {
+        "title": "Israel y Hezbollah intercambian ataques y crece la tensión en Medio Oriente",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2205778890.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/israel-hezbollah-ataques-medio-oriente-mirador-mundial-tv/",
+        "date": "2025-03-23 00:46:35",
+        "sentiment_score": -0.6426065191626549
+    },
+    {
+        "title": "“La vida del papa estuvo en peligro dos veces”, afirma médico del pontífice",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2201800299-20250301233210900_7d5cbc.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/papa-francisco-alta-medica-mirador-mundial-tv-fast/",
+        "date": "2025-03-22 23:54:52",
+        "sentiment_score": -0.8336751088500023
+    },
+    {
+        "title": "Día Mundial del Agua ¿hay algo que celebrar? Experto responde",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-516939152.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/dia-mundial-del-agua-crisis-climatica-mirador-mundial-tv/",
+        "date": "2025-03-22 23:51:06",
+        "sentiment_score": -0.7214731592684984
+    },
+    {
+        "title": "¿Qué sigue tras la reapertura del aeropuerto Heathrow de Londres? Lo que debes saber sobre vuelos, retrasos y aerolíneas",
+        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2205549163.jpg?quality=100&strip=info",
+        "tags": [
+            "world"
+        ],
+        "link": "https://cnnespanol.cnn.com/video/aeropuerto-heathrow-reapertura-vuelos-trax/",
+        "date": "2025-03-22 23:49:04",
+        "sentiment_score": -0.7887989785522223
+    },
+    {
+        "title": "Como completos desconocidos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/03/23/dylan_20250322235826-R78xFz2axJaauVPKjoMmhtJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-completos-desconocidos-20250323004035-nt.html",
+        "date": "2025-03-22 23:40:49",
+        "sentiment_score": -0.07220321893692017
+    },
+    {
+        "title": "Al menos tres muertos y 15 heridos en un tiroteo en un parque de Nuevo México",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/03/22/fbi-a-kmMD-U705950431993WE-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/tres-muertos-heridos-tiroteo-parque-nuevo-mexico-20250322232354-nt.html",
+        "date": "2025-03-22 22:25:03",
+        "sentiment_score": -0.3970208019018173
+    },
+    {
+        "title": "Cap Butaca Buida supera su marca: más de 71.000 espectadores en teatros catalanes en un día",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LS3QMDD32NA2POJXITHULJQHBQ.jpg?auth=013c971a40c228a3cf5b3ff73a7396b7144bf174796958042d0d5c5aca4d3444&width=1200",
+        "tags": [
+            "cultura",
+            "espectáculos",
+            "teatro",
+            "cataluña",
+            "producción",
+            "generalitat cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-03-22/cap-butaca-buida-supera-su-marca-mas-de-71000-espectadores-en-teatros-catalanes-en-un-dia.html",
+        "date": "2025-03-22 23:38:49",
+        "sentiment_score": 0.33339938148856163
+    },
+    {
+        "title": "Metsola, Letta, Cormann y el exjefe del MI6, Dearlove, entre las figuras internacionales de 'Wake Up, Spain! 2025'",
+        "image_url": "https://s1.elespanol.com/2025/03/21/actualidad/932917588_254097680_1706x960.png?contentId=932917588",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/eventos/2025/wake-up-spain/20250323/metsola-letta-cormann-exjefe-mi6-dearlove-figuras-internacionales-wake-up-spain/932906976_0.html",
+        "date": "2025-03-23 02:09:46",
+        "sentiment_score": 0.2124635260552168
+    },
+    {
+        "title": "El Guadiana se convierte en la nueva autopista del narco: alijos millonarios, armas de guerra y quema de coches de guardias civiles",
+        "image_url": "https://s1.elespanol.com/2025/03/21/actualidad/932917862_254106352_1706x960.jpg?contentId=932917862",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250323/guadiana-convierte-nueva-autopista-narco-alijos-millonarios-armas-guerra-quema-coches-guardias-civiles/932907295_0.html",
+        "date": "2025-03-23 02:01:35",
+        "sentiment_score": -0.5220426321029663
+    },
+    {
+        "title": "Los accidentes de Madrid, calle a calle: cuáles son los puntos más peligrosos de tu barrio",
+        "image_url": "https://s1.elespanol.com/2025/03/21/madrid/932926720_254104800_1706x960.png?contentId=932926720",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/20250323/accidentes-madrid-calle-puntos-peligrosos-barrio/930157430_0.html",
+        "date": "2025-03-23 01:59:18",
+        "sentiment_score": -0.4105614125728607
+    },
+    {
+        "title": "Noboa ordena una \"histórica indemnización\" para los afectados por la rotura del oleoducto en el norte del país",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250323023924_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-noboa-ordena-historica-indemnizacion-afectados-rotura-oleoducto-norte-pais-20250323023924.html",
+        "date": "2025-03-23 01:39:24",
+        "sentiment_score": -0.7031732499599457
+    },
+    {
+        "title": "'Mitridate, Re di Ponto', la ópera que Mozart compuso con 14 años y que ahora llega al Real en versión 'Succession'",
+        "image_url": "https://s1.elespanol.com/2025/03/21/actualidad/932917617_254098578_1706x960.jpg?contentId=932917617",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/opera/20250323/mitridate-re-di-ponto-opera-mozart-compuso-anos-ahora-llega-real-version-succession/932656730_0.html",
+        "date": "2025-03-23 00:59:56",
+        "sentiment_score": 0.6437580734491348
+    },
+    {
+        "title": "Giro en la vida de Eusebio Sacristán: Su vuelta al fútbol tras superar un accidente",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/eusebio-sacristan-3_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/giro-vida-eusebio-sacristan-vuelta-futbol-superar-accidente",
+        "date": "2025-03-23 00:30:00",
+        "sentiment_score": -0.8101160954684019
+    },
+    {
+        "title": "El Real Madrid completa su primer entrenamiento del 2025 con la vista en el Valencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/01/el-real-madrid-completa-su-primer-entrenamiento-del-2025-con-la-vista-en-el-valencia/",
+        "date": "2025-03-23 00:02:26",
+        "sentiment_score": 0.2793978378176689
+    },
+    {
+        "title": "La realidad que Laporta oculta a los socios del Barça con el traslado a Montjuïc por las obras del Camp Nou",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/03/07/culemania/palco/929417200_14229062_1706x960.jpg?contentId=929417200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250323/la-laporta-del-barca-montjuic-camp-nou/932906783_0.html",
+        "date": "2025-03-22 23:59:39",
+        "sentiment_score": -0.8060833662748337
+    },
+    {
+        "title": "Montse Tomé: \"Animo a que haya cada vez más personas siguiéndonos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/01/montse-tome-animo-a-que-haya-cada-vez-mas-personas-siguiendonos/",
+        "date": "2025-03-22 23:48:24",
+        "sentiment_score": 0.5881593637168407
+    },
+    {
+        "title": "\"Pegar a un policía sale gratis\": se disparan las agresiones a los agentes de la autoridad un 28%, con dos ataques a la hora",
+        "image_url": "https://s1.elespanol.com/2025/03/22/actualidad/933166910_254116316_1706x960.png?contentId=933166910",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250323/pegar-policia-sale-gratis-disparan-agresiones-agentes-autoridad-ataques-hora/933156773_0.html",
+        "date": "2025-03-23 02:03:36",
+        "sentiment_score": -0.7982193119823933
+    },
+    {
+        "title": "Luis Alberto Pérez, investigado por estafar 250 millones a 10.000 clientes en México: ahora tiene un nuevo imperio empresarial en España",
+        "image_url": "https://s1.elespanol.com/2025/03/21/actualidad/932917767_254103302_1706x960.jpg?contentId=932917767",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250323/luis-alberto-perez-investigado-estafar-millones-clientes-mexico-ahora-nuevo-imperio-empresarial-espana/932907302_0.html",
+        "date": "2025-03-23 02:02:03",
+        "sentiment_score": 0.350600004196167
+    },
+    {
+        "title": "Martinho sigue afectando a buena parte de España con el foco en Toledo, Madrid y Ávila",
+        "image_url": "https://phantom-elmundo.uecdn.es/9b2f979c2a9db034fe8434676eb1ed91/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/23/17426949047834.jpg",
+        "tags": [
+            "ávila",
+            "toledo",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/03/23/67df689be85ece93668b458d.html",
+        "date": "2025-03-23 01:57:07",
+        "sentiment_score": -0.5018235296010971
+    },
+    {
+        "title": "Gipuzkoa estrena las zonas tensionadas con \"incertidumbre\" ante la escasez de oferta de viviendas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c31b83e3-a0b0-44c1-aa76-c551052e0a19_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2025/03/23/gipuzkoa-estrena-zonas-tensionadas-incertidumbre-9429092.html",
+        "date": "2025-03-23 01:27:22",
+        "sentiment_score": -0.7038233391940594
+    },
+    {
+        "title": "Día Internacional del Vermú: Ruta por Reus, cuna de la bebida que vuelve a estar de moda",
+        "image_url": "https://phantom-elmundo.uecdn.es/eba123da2fcc642614055caa2bd3003d/crop/4x803/2160x2338/resize/1200/f/webp/assets/multimedia/imagenes/2025/03/21/17425846927565.png",
+        "tags": [
+            "planes",
+            "gastronomía",
+            "escapadas"
+        ],
+        "link": "https://www.elmundo.es/metropoli/otros-planes/2025/03/23/67dd37d9e85ece22358b45bc.html",
+        "date": "2025-03-23 01:23:16",
+        "sentiment_score": 0.715601846575737
+    },
+    {
+        "title": "El atropello de Nueva Orleans, uno más de los muchos habidos en los últimos años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/01/el-atropello-de-nueva-orleans-uno-mas-de-los-muchos-habidos-en-los-ultimos-anos/",
+        "date": "2025-03-23 01:02:26",
+        "sentiment_score": -0.8291679844260216
+    },
+    {
+        "title": "¿Por qué miente el Gobierno en Vivienda?",
+        "image_url": "https://s1.elespanol.com/2025/03/19/actualidad/932416776_254005115_1706x960.jpg?contentId=932416776",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20250323/miente-gobierno-vivienda/932536738_13.html",
+        "date": "2025-03-23 00:45:59",
+        "sentiment_score": -0.870105717331171
+    },
+    {
+        "title": "Muere el científico Joan Guinovart, fundador del IRB Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/43PYDQ2WPZDOJMQ5CIVYNZ3JRM.jpg?auth=393031c3a915e9d719e2bbb227c1f8d4d313ee22816a0f6dad59b5e37c10d25b&height=2042&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/01/muere-el-cientifico-joan-guinovart-fundador-del-irb-barcelona/",
+        "date": "2025-03-23 00:33:23",
+        "sentiment_score": 0.7118485644459724
+    },
+    {
+        "title": "Eliminatorias: estos son los puntos para canjear las entradas del partido entre Venezuela y Perú",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/eliminatorias-estos-son-los-puntos-para-canjear-las-entradas-del-partido-entre-venezuela-y-peru-202532222120",
+        "date": "2025-03-23 02:12:00",
+        "sentiment_score": 0.25514437071979046
+    },
+    {
+        "title": "WhatsApp se reinventa: finalmente permite poner música en los estados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/whatsapp-se-reinventa-finalmente-permite-poner-musica-en-los-estados-20253222200",
+        "date": "2025-03-23 02:00:00",
+        "sentiment_score": 0.62538050301373
+    },
+    {
+        "title": "Bolsas CLAP: tome nota de los requisitos que se deben cumplir para optar por este beneficio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/bolsas-clap-tome-nota-de-los-requisitos-que-se-deben-cumplir-para-optar-por-este-beneficio-20253222200",
+        "date": "2025-03-23 02:00:00",
+        "sentiment_score": 0.04716607928276062
+    },
+    {
+        "title": "Accidente de tránsito deja tres heridos en la autopista Valencia-Tocuyito: chocaron contra un caballo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/accidente-de-transito-deja-tres-heridos-en-la-autopista-valencia-tocuyito-chocaron-contra-un-caballo-202532221550",
+        "date": "2025-03-23 01:55:00",
+        "sentiment_score": -0.8336118701845407
+    },
+    {
+        "title": "ICE anuncia el cierre de un centro de detención temporal en California: los inmigrantes detenidos serán trasladados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/ice-anuncia-el-cierre-de-un-centro-de-detencion-temporal-en-california-los-inmigrantes-detenidos-seran-trasladados-202532221420",
+        "date": "2025-03-23 01:42:00",
+        "sentiment_score": -0.6705049723386765
+    },
+    {
+        "title": "Empresario acusa a Aleska Génesis y su hermana de robarle un millón de dólares: Son ladronas totales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/empresario-acusa-a-aleska-genesis-y-su-hermana-de-robarle-un-millon-de-dolares-son-ladronas-totales-202532221300",
+        "date": "2025-03-23 01:30:00",
+        "sentiment_score": -0.792586324736476
+    },
+    {
+        "title": "El INTT lanza operativos del 24 de marzo al 3 de abril: Aquí los trámites y ubicaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/el-intt-lanza-operativos-del-24-de-marzo-al-3-de-abril-aqui-los-tramites-y-ubicaciones-20253222100",
+        "date": "2025-03-23 01:00:00",
+        "sentiment_score": 0.08847090974450111
+    },
+    {
+        "title": "Trump comienza su tercer mes de mandato abajo en las encuestas: 51% de estadounidenses desaprueban su gestión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/trump-comienza-su-tercer-mes-de-mandato-abajo-en-las-encuestas-51-de-estadounidenses-desaprueban-su-gestion-202532220480",
+        "date": "2025-03-23 00:48:00",
+        "sentiment_score": 0.014028940349817276
+    },
+    {
+        "title": "Cuando termina oficialmente el Parole Humanitario: cifras de venezolanos afectados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuando-termina-oficialmente-el-parole-humanitario-cifras-de-venezolanos-afectados-202532220260",
+        "date": "2025-03-23 00:26:00",
+        "sentiment_score": -0.8286328073590994
+    },
+    {
+        "title": "Renueva el estilo decorativo de tu hogar sin cometer errores",
+        "image_url": "https://pxcdn.2001online.com/2001/032025/1742568752623/3d-rendering-modern-dining-room-living-room-with-luxury-decor-green-sofa_105762-2140.jpeg",
+        "tags": [
+            "variedades - decoración"
+        ],
+        "link": "https://2001online.com/zona3d/decoracion/renueva-el-estilo-decorativo-de-tu-hogar-sin-cometer-errores-20253222000",
+        "date": "2025-03-23 00:00:00",
+        "sentiment_score": 0.37150396034121513
     }
 ];
