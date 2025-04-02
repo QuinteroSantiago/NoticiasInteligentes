@@ -1,235 +1,5 @@
 export default [
     {
-        "title": "Sumar inaugura la asamblea que redefinirá su proyecto político y el papel de Yolanda Díaz",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/29/sumar-inaugura-la-asamblea-que-redefinira-su-proyecto-politico-y-el-papel-de-yolanda-diaz/",
-        "date": "2025-03-29 06:30:51",
-        "sentiment_score": 0.1544451080262661
-    },
-    {
-        "title": "El PP arranca su interparlamentaria en un momento de gran fortaleza territorial",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/03/29/el-pp-arranca-su-interparlamentaria-en-un-momento-de-gran-fortaleza-territorial/",
-        "date": "2025-03-29 06:15:19",
-        "sentiment_score": 0.64317811653018
-    },
-    {
-        "title": "Chicharrones en El Comidista",
-        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodecadiz.es/blogs/con-la-venia/chicharrones-comidista_0_2003617353.html",
-        "date": "2025-03-29 06:25:44",
-        "sentiment_score": -0.043339937925338745
-    },
-    {
-        "title": "Guerra en Oriente Próximo, hoy en directo | Unos 921 palestinos han muerto por ataques de Israel desde el final del alto el fuego",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d043666-9e51-4185-a719-395086413376_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "israel,palestina,gaza,oriente próximo,líbano,benjamin netanyahu,irán"
-        ],
-        "link": "https://www.superdeporte.es/olimpiadas/2025/03/29/directo-ultima-hora-conflicto-palestina-106116735.html",
-        "date": "2025-03-29 06:05:00",
-        "sentiment_score": -0.8437315933406353
-    },
-    {
-        "title": "Día ‘D’ para la delantera",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef8a129b-bb5e-45aa-9d1b-053c1080e593_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/valencia-cf/2025/03/29/sadiq-hugo-duro-mallorca-115806862.html",
-        "date": "2025-03-29 06:01:03",
-        "sentiment_score": 0.24018144607543945
-    },
-    {
-        "title": "La Peña de Corberán",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6faa283c-1e07-4a2f-94d5-04f179b7c8f7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/opinion/2025/03/29/corberan-vcf-mll-valencia-cf-mestalla-cheste-mallorca-andy-kohlberg-phoenix-suns-torino-aurelio-martinez-115805524.html",
-        "date": "2025-03-29 06:01:03",
-        "sentiment_score": 0.16976338624954224
-    },
-    {
-        "title": "RCD Espanyol – Atletico de Madrid: El RCDE quiere hurgar en la herida del Atleti para acercarse a la permanencia",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/03/espanyol-atletico-madrid-cartel-1024x576.jpg",
-        "tags": [
-            "primer equipo y club",
-            "espanyol",
-            "atlético",
-            "jornada 29",
-            "previa",
-            "laliga ea sports"
-        ],
-        "link": "https://www.lagradaonline.com/espanyol-atletico-madrid-previa-jornada-29-laliga-ea-esports-24-25/",
-        "date": "2025-03-29 06:00:57",
-        "sentiment_score": -0.8975318521261215
-    },
-    {
-        "title": "La Junta alerta de que la falta de cuentas del Estado merma las políticas sociales",
-        "image_url": "https://static.grupojoly.com/clip/a9a72961-e163-44e7-a7cd-ef6b80ddee0f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodejerez.es/andalucia/junta-alerta-falta-cuentas-merma_0_2003617318.html",
-        "date": "2025-03-29 06:00:52",
-        "sentiment_score": 0.09525611996650696
-    },
-    {
-        "title": "Los vecinos de Héroes del Baleares, en contra del cambio de nombre de esta calle de San Fernando",
-        "image_url": "https://static.grupojoly.com/clip/0bee9b2b-fc8e-4574-9901-70d7751344f0_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodecadiz.es/sanfernando/vecinos-heroes-baleares-cambio-nombre_0_2003616102.html",
-        "date": "2025-03-29 06:00:49",
-        "sentiment_score": -0.07972997426986694
-    },
-    {
-        "title": "Real Madrid - Leganés: Horario, alineaciones y dónde ver el partido de LaLiga EA Sports, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/03/16/E41C1E71-6EEC-446B-A273-F4C99E1776EC/kylian-mbappe-celebra-uno-sus-goles-villarreal-ceramica_98.jpg?crop=4500%2C2532%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-leganes-horario-alineaciones-donde-ver-partido-laliga-sports-directo_2025032967e78c7c8ba0d3000105e6a7.html",
-        "date": "2025-03-29 06:00:28",
-        "sentiment_score": 0.07517180033028126
-    },
-    {
-        "title": "Fruit Attraction São Paulo 2025 celebra su segunda edición en Ifema",
-        "image_url": "https://s10.s3c.es/imag/_v0/2000x1091/7/d/2/1200x655_FRUIT_ATTRACTION_17042024_10H_INDY0606.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13280259/03/25/fruit-attraction-so-paulo-2025-celebra-su-segunda-edicion-en-ifema.html",
-        "date": "2025-03-29 06:00:25",
-        "sentiment_score": 0.7871294654905796
-    },
-    {
-        "title": "¿A dónde van los periodistas que más viajan? Cinco firmas de ‘La Vanguardia’ comparten sus destinos favoritos",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/03/27/67e53db16198e.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/viajes/20250329/10523984/donde-periodistas-mas-viajan-cinco-firmas-vanguardia-comparten-destinos-favoritos.html",
-        "date": "2025-03-29 06:00:00",
-        "sentiment_score": 0.08882725238800049
-    },
-    {
-        "title": "La línea del Miño renueva sus vías",
-        "image_url": "https://static.laregion.es/clip/edd13550-0e50-4a3a-98f4-8f74705208f8_source-aspect-ratio_default_0.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.atlantico.net/vigo/linea-mino-renueva-vias_1_20250329-3468048.html",
-        "date": "2025-03-29 06:30:21",
-        "sentiment_score": 0.4049135856330395
-    },
-    {
-        "title": "La vida de Bárbara Oteiza: de azafata en ‘La ruleta de la suerte’ a olímpica en Pekín y Atenas",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/03/barbara-oteiza-ruleta.jpeg",
-        "tags": [
-            "televisión",
-            "antena 3",
-            "celebrities",
-            "gente"
-        ],
-        "link": "https://theobjective.com/gente/2025-03-29/barbara-oteiza-azafata-ruleta-suerte-olimpica/",
-        "date": "2025-03-29 06:30:00",
-        "sentiment_score": 0.5563726108521223
-    },
-    {
-        "title": "'Foment', Cepyme y CEG convocan un acto público para que CNMC les escuche en la opa de BBVA sobre Sabadell",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/5/7/2/CaniFernandez.jpg",
-        "tags": [
-            "banca-finanzas"
-        ],
-        "link": "https://www.eleconomista.es/banca-finanzas/noticias/13292472/03/25/foment-cepyme-y-ceg-convocan-un-acto-publico-para-que-cnmc-les-escuche-en-la-opa-de-bbva-sobre-sabadell.html",
-        "date": "2025-03-29 06:15:37",
-        "sentiment_score": 0.030403047800064087
-    },
-    {
-        "title": "Peligro, gaviotas: “Tengo que correr si llevo comida”",
-        "image_url": "https://static1.ara.cat/clip/b217f646-ed76-4823-bb1f-f2de2e8a2bd9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/sociedad/barcelona/peligro-gaviotas-correr-llevo-comida_1_5331141.html",
-        "date": "2025-03-29 06:01:13",
-        "sentiment_score": -0.4523237571120262
-    },
-    {
-        "title": "\"La elegancia, más que un sentimiento es una cualidad innata que tiene la gente\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d1dc8e86-74d4-48f9-8c1f-6aaffe3ba5a0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sociedad/2025/03/29/jesus-segado-disenador-elegancia-gente-115800724.html",
-        "date": "2025-03-29 06:00:57",
-        "sentiment_score": 0.44108958542346954
-    },
-    {
-        "title": "La moda de Málaga y el cine: dos disciplinas con profundos vínculos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3f1a0d91-7db3-4648-a8aa-7e7bbd617334_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2025/03/29/moda-malaga-cine-disciplinas-profundos-115798821.html",
-        "date": "2025-03-29 06:00:57",
-        "sentiment_score": 0.25672388449311256
-    },
-    {
-        "title": "El fervor religioso en la Sevilla de Carlos V",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ccb62c62-704d-47c1-b822-30d865f55d22_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cuaresma,cuaresma 2025,semana santa 2025,semana santa"
-        ],
-        "link": "https://www.elcorreoweb.es/semana-santa/2025/03/29/fervor-religioso-sevilla-carlos-v-115711924.html",
-        "date": "2025-03-29 06:00:54",
-        "sentiment_score": 0.2086600512266159
-    },
-    {
-        "title": "Viaje al corazón logístico de Mango: así funciona la nave catalana de la que salen 180 millones de prendas al año",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c3203b2-3701-4055-bf64-c1eb4d51dd2b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20250329/asi-funciona-mango-centro-logistico-llica-180-millones-prendas-115521157",
-        "date": "2025-03-29 06:00:41",
-        "sentiment_score": -0.19432055950164795
-    },
-    {
-        "title": "Eufemismos políticos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a95ea5d0-400c-471b-a044-603caf1f607c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/opinion/cartas-al-director/2025/03/29/eufemismos-politicos-cartas-director-9455937.html",
-        "date": "2025-03-29 06:00:40",
-        "sentiment_score": -0.7732866145670414
-    },
-    {
-        "title": "Quién es Mariona’, la mujer mayor que protagoniza 30 cajas de luz en Les Corts",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/494ac216-e25c-4ece-a455-0a417bff4f5b_16-9-aspect-ratio_default_1364805.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20250329/mariona-mujer-mayor-protagoniza-cajas-luz-les-corts-115790243",
-        "date": "2025-03-29 06:00:37",
-        "sentiment_score": -0.3023170381784439
-    },
-    {
         "title": "El PP obligará a los partidos a votar en el Congreso si quieren o no presupuestos",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -7012,5 +6782,489 @@ export default [
         "link": "https://2001online.com/usa/internacionales/solo-un-presidente-en-usa-ha-gobernado-mas-de-dos-periodos-trump-podria-emularlo-de-esta-forma-20254112100",
         "date": "2025-04-01 16:10:00",
         "sentiment_score": -0.6839967221021652
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 2 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/hoy-sera-noticia-miercoles-2-de-abril/",
+        "date": "2025-04-01 22:16:55",
+        "sentiment_score": 0.03355005383491516
+    },
+    {
+        "title": "ONG apoya a los menores tras el incidente en el centro de acogida y pide que se investigue",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/ong-apoya-a-los-menores-tras-el-incidente-en-el-centro-de-acogida-y-pide-que-se-investigue/",
+        "date": "2025-04-01 21:17:23",
+        "sentiment_score": -0.48733892291784286
+    },
+    {
+        "title": "Detenido el presunto autor del homicidio de una niña de 5 años en Murcia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/detenido-el-presunto-autor-del-homicidio-de-una-nina-de-5-anos-en-murcia/",
+        "date": "2025-04-01 21:17:07",
+        "sentiment_score": -0.6770347971469164
+    },
+    {
+        "title": "El luso Danilo Pereira conduce al Al Ittihad a la final con un doblete en la prolongación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/el-luso-danilo-pereira-conduce-al-al-ittihad-a-la-final-con-un-doblete-en-la-prolongacion/",
+        "date": "2025-04-01 21:03:55",
+        "sentiment_score": 0.2820466235280037
+    },
+    {
+        "title": "2-1. Batacazo del Leverkusen ante el Arminia de tercera categoría alemana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/2-1-batacazo-del-leverkusen-ante-el-arminia-de-tercera-categoria-alemana/",
+        "date": "2025-04-01 21:03:38",
+        "sentiment_score": 0.32083556801080704
+    },
+    {
+        "title": "Maradona tenía pulmones, riñones, hígado y corazón dañados cuando murió, según autopsia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/maradona-tenia-pulmones-rinones-higado-y-corazon-danados-cuando-murio-segun-autopsia/",
+        "date": "2025-04-01 20:47:40",
+        "sentiment_score": -0.7644619159400463
+    },
+    {
+        "title": "La Guardia Civil investiga a Núcleo Nacional por un vídeo en el que llaman a luchar contra la \"invasión\" extranjera",
+        "image_url": "https://www.infobae.com/resizer/v2/NCTYRSEGBFDQDPSZG44Q6EVIIA.jpg?auth=94b6562dc09fef6998db5f51cdcbf22d9cf61c9802d2c0a243517769a88af7fb&height=1085&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/la-guardia-civil-investiga-a-nucleo-nacional-por-un-video-en-el-que-llaman-a-luchar-contra-la-invasion-extranjera/",
+        "date": "2025-04-01 20:45:52",
+        "sentiment_score": -0.4438292309641838
+    },
+    {
+        "title": "Más de un centenar de pilotos correrán el rally cordobés en el estreno del Europeo 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/mas-de-un-centenar-de-pilotos-correran-el-rally-cordobes-en-el-estreno-del-europeo-2025/",
+        "date": "2025-04-01 20:33:14",
+        "sentiment_score": 0.09163563326001167
+    },
+    {
+        "title": "La G. Civil investiga a Núcleo Nacional por vídeo en el que llama a luchar contra invasión",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/la-g-civil-investiga-a-nucleo-nacional-por-video-en-el-que-llama-a-luchar-contra-invasion/",
+        "date": "2025-04-01 20:32:37",
+        "sentiment_score": -0.1604660078883171
+    },
+    {
+        "title": "Carney y Sheinbaum conversan sobre comercio y soberanía ante los aranceles de EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/carney-y-sheinbaum-conversan-sobre-comercio-y-soberania-ante-los-aranceles-de-eeuu/",
+        "date": "2025-04-01 20:17:04",
+        "sentiment_score": 0.034908145666122437
+    },
+    {
+        "title": "El colesterol malo también se relaciona con un mayor riesgo de demencias",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/04/01/colesterol2.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/colesterol-malo-relaciona-mayor-riesgo-demencias-20250401125250-nt.html",
+        "date": "2025-04-01 21:30:01",
+        "sentiment_score": -0.23724234104156494
+    },
+    {
+        "title": "Declaración de la renta, en directo: consultar borrador, resultado positivo o negativo y últimas noticias de la campaña 2024-2025 hoy",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/01/renta-1200x840-Rn5LZBrcDziDsU9JzuA3YoK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/declaracion-renta/declaracion-renta-directo-consultar-borrador-resultado-positivo-negativo-ultimas-noticias-campana-2024-20250401121544-di.html",
+        "date": "2025-04-01 21:00:07",
+        "sentiment_score": 0.009327013045549393
+    },
+    {
+        "title": "Manuel práctico de la declaración de la renta 2024-25: calendario, fechas y citas previas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/01/manual-declaracion-RIlSsRFRWcKms26RLB8Rh8H-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/declaracion-renta/manuel-practico-declaracion-renta-calendario-fechas-20250401144741-nt.html",
+        "date": "2025-04-01 21:00:01",
+        "sentiment_score": -0.09072934091091156
+    },
+    {
+        "title": "El partido de Le Pen llama a «tomar la calle» entre acusaciones de «robo judicial»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/01/lepen-RxWk7RiVgY5ppQ9heq9GZdN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/partido-pen-llama-tomar-calle-acusaciones-robo-20250401214554-nt.html",
+        "date": "2025-04-01 19:46:46",
+        "sentiment_score": -0.08346083760261536
+    },
+    {
+        "title": "Mopongo",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-diaz-mopongo-20250402214527-nts.html",
+        "date": "2025-04-01 19:45:28",
+        "sentiment_score": -0.14669911563396454
+    },
+    {
+        "title": "La mujer y la enfermedad cardiovascular",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/04/02/AdobeStock_354256528-RxkZbx9lVEtwadsuyxtvQaM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-fabiani-mujer-enfermedad-cardiovascular-20250402214513-nts.html",
+        "date": "2025-04-01 19:45:14",
+        "sentiment_score": -0.14879648387432098
+    },
+    {
+        "title": "El mito y la caverna",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/03/28/labodegadeelnorte-joderlamarrana-kTOH--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/yolanda-vallejo-mito-caverna-20250402002632-nts.html",
+        "date": "2025-04-01 19:44:57",
+        "sentiment_score": -0.08591777086257935
+    },
+    {
+        "title": "La política del odio",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2025/03/30/ciberseguridad-kfO--170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/miguel-angel-robles-politica-odio-20250402214455-nts.html",
+        "date": "2025-04-01 19:44:55",
+        "sentiment_score": -0.16023218631744385
+    },
+    {
+        "title": "Esto es lo que puedes hacer para desgravarte el gimnasio en la declaración de la renta",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/01/gimnasio-RqRFjTNxtV8FV1m42ZqtHWL-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/declaracion-renta/puedes-desgravarte-gimnasio-declaracion-renta-20250401155020-nt.html",
+        "date": "2025-04-01 19:00:06",
+        "sentiment_score": -0.05210445821285248
+    },
+    {
+        "title": "Un accidente del pasado que nos avisa sobre el presente",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-accidente-pasado-avisa-sobre-presente-20250402192517-nt.html",
+        "date": "2025-04-01 18:44:32",
+        "sentiment_score": -0.26046912372112274
+    },
+    {
+        "title": "La Guardia Civil investigará al grupo ultra Núcleo Nacional por un vídeo en el que llama a la “lucha conjunta contra la invasión”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/66NQLOAUSZHUTLWN5G5FALG374.jpg?auth=3bccb94d8c8a8ad002fd353b478b3621e112859601750e39bf3fb45948680c18&width=1200",
+        "tags": [
+            "españa",
+            "twitter",
+            "guardia civil",
+            "ultras",
+            "delitos odio"
+        ],
+        "link": "https://elpais.com/espana/2025-04-01/la-guardia-civil-investigara-al-grupo-ultra-nucleo-nacional-por-un-video-en-el-que-llama-a-la-lucha-conjunta-contra-la-invasion.html",
+        "date": "2025-04-01 20:21:39",
+        "sentiment_score": -0.8988300506025553
+    },
+    {
+        "title": "La presión inmobiliaria obliga a la Generalitat a abandonar su sede en Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/C2J53H3TDRCBVCD27JKFNP37CI.jpg?auth=b22530d92be78a829fe1595d546d4f61490e97a11dcbbd451a8e7d3c50571c91&width=1200",
+        "tags": [
+            "madrid",
+            "generalitat cataluña",
+            "govern cataluña",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-01/la-presion-inmobiliaria-obliga-a-la-generalitat-a-abandonar-su-sede-en-madrid.html",
+        "date": "2025-04-01 19:56:19",
+        "sentiment_score": -0.1505466103553772
+    },
+    {
+        "title": "Zapatero: presidente, vate y cura obrero",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WJ3R4WM33FE65K3JR3V6VJIUHU.jpg?auth=2c7f5c32b784cf40b01c12ed2916cae60ea9e7f5e6ef83d0a65ec624ece27b08&width=1200",
+        "tags": [
+            "socialdemocracia",
+            "presentación libros",
+            "política",
+            "libros",
+            "madrid",
+            "josé luis rodríguez zapatero",
+            "psoe",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-04-01/zapatero-presidente-vate-y-cura-obrero.html",
+        "date": "2025-04-01 19:34:45",
+        "sentiment_score": -0.722355717793107
+    },
+    {
+        "title": "Zapatero pide que la reforzada defensa europea se base en una declaración en favor de la paz",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OADF4KVHY3BPHVP5YHYQCSG52U.jpg?auth=da2c1a374b2034158e7768d251006f0b514ad14ab3b39713869e44112f3582cd&width=1200",
+        "tags": [
+            "josé luis rodríguez zapatero",
+            "españa",
+            "política",
+            "socialdemocracia",
+            "libros",
+            "madrid",
+            "psoe",
+            "presentación libros"
+        ],
+        "link": "https://elpais.com/espana/2025-04-01/zapatero-pide-que-la-reforzada-defensa-europea-se-base-en-una-declaracion-en-favor-de-la-paz.html",
+        "date": "2025-04-01 19:24:52",
+        "sentiment_score": -0.8996171252802014
+    },
+    {
+        "title": "La pasarela 080 arranca con las firmas veteranas Simorra y Escorpion",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5DJAVMWH753ZRGDRERK5S4NYYQ.jpg?auth=f22296b08ee7bc796d5aec618134f31665b80a8717e11f01a2e5efb90791818d&width=1200",
+        "tags": [
+            "textil",
+            "pasarelas moda",
+            "cataluña",
+            "barcelona",
+            "industria",
+            "moda",
+            "080 barcelona fashion"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-01/la-pasarela-080-arranca-con-las-firmas-veteranas-simorra-y-escorpion.html",
+        "date": "2025-04-01 18:48:11",
+        "sentiment_score": 0.08618650957942009
+    },
+    {
+        "title": "Claves del nuevo DNI digital: cómo funciona, cuándo entra en vigor y la ‘app’ necesaria",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EJ5WZCUJ3VHHVH4WOHAKIVPGVQ.jpg?auth=1b8c36df1a83229acbbbeea09d12509f3bfe880b2a755ed9323ff6f893ba576d&width=1200",
+        "tags": [
+            "españa",
+            "dni",
+            "seguridad nacional",
+            "gobierno",
+            "documento identidad",
+            "policía nacional",
+            "documentación",
+            "fernando grande-marlaska",
+            "ministerio del interior"
+        ],
+        "link": "https://elpais.com/espana/2025-04-01/claves-del-nuevo-dni-digital-como-funciona-cuando-entra-en-vigor-y-la-app-necesaria.html",
+        "date": "2025-04-01 18:47:39",
+        "sentiment_score": 0.005560830235481262
+    },
+    {
+        "title": "El Govern invertirá 660 millones hasta 2030 para mejorar la red de carreteras catalanas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TYCMRDRAHQHELNLSYUBBWC5GW4.jpg?auth=c5bc509a68b06a5725bc46a317d7c447291ae0fcff5e56dbd03b7ada4a3cff8a&width=1200",
+        "tags": [
+            "sílvia paneque",
+            "cataluña",
+            "infraestructuras del transporte",
+            "barcelona",
+            "tráfico",
+            "carreteras",
+            "govern cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-01/el-govern-invertira-660-millones-hasta-2030-para-mejorar-la-red-de-carreteras-catalanas.html",
+        "date": "2025-04-01 18:43:04",
+        "sentiment_score": 0.04391610622406006
+    },
+    {
+        "title": "Montero pide disculpas por cuestionar la presunción de inocencia tras la absolución de Dani Alves",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WUBCBG54DRFRFSC2BJ7ZUAHCN4.jpg?auth=f27f72a842ce2f258e7b906f40794295afce2244df90474b5746cbf85e46190d&width=1200",
+        "tags": [
+            "sentencias absolutorias",
+            "españa",
+            "maría jesús montero",
+            "sentencias",
+            "daniel alves"
+        ],
+        "link": "https://elpais.com/espana/2025-04-01/montero-pide-disculpas-por-sus-criticas-a-los-jueces-tras-la-absolucion-de-alves.html",
+        "date": "2025-04-01 18:27:58",
+        "sentiment_score": -0.8926494251936674
+    },
+    {
+        "title": "La Audiencia Nacional rectifica y juzgará a López Madrid por contratar a Villarejo para hostigar a la doctora Pinto",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/42YPEZIXMU2RXHPQXJLPS2YY2E.jpg?auth=c24ae160c8902c5dfbb7327dcd1c34ab3443036bece72e9cd8188741f7b4c440&width=1200",
+        "tags": [
+            "javier lópez madrid",
+            "delitos",
+            "josé villarejo",
+            "corrupción",
+            "corrupción política",
+            "españa",
+            "justicia",
+            "juicios",
+            "audiencia nacional",
+            "investigación judicial"
+        ],
+        "link": "https://elpais.com/espana/2025-04-01/la-audiencia-nacional-rectifica-y-juzgara-a-lopez-madrid-por-contratar-a-villarejo-para-hostigar-a-la-doctora-pinto.html",
+        "date": "2025-04-01 17:46:28",
+        "sentiment_score": -0.6048275530338287
+    },
+    {
+        "title": "El pederasta que grabó agresiones sexuales a su hija de siete meses, condenado a 17 años de prisión",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ESKJMN7O4JBSBGNEVTWKCBAENM.jpg?auth=517dd13d9647457358b7a60cf7e15dd77f158d0fa4ce85f36ecf69b701aa3109&width=1200",
+        "tags": [
+            "madrid",
+            "investigación policial",
+            "menores",
+            "agresiones sexuales",
+            "sucesos",
+            "pederastia",
+            "policía",
+            "juicios",
+            "sentencias",
+            "violencia sexual",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-04-01/el-pederasta-que-grabo-agresiones-sexuales-a-su-hija-de-siete-meses-condenado-a-17-anos-de-prision.html",
+        "date": "2025-04-01 17:34:52",
+        "sentiment_score": -0.858744578436017
+    },
+    {
+        "title": "El Real Madrid sella su pase a la final de Copa en el manicomio del Bernabéu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f88f8741-7532-48f7-95b6-35b9c121ba5b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,futbol"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/04/02/real-madrid-real-sociedad-copa-del-rey-futbol-resumen-resultado-115949996.html",
+        "date": "2025-04-01 22:16:31",
+        "sentiment_score": 0.44227905571460724
+    },
+    {
+        "title": "Horario y dónde ver la final de la Copa del Rey 2024/25 entre Real Madrid y Barça o Atleti",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/04/01/image-71841a29-8441-4653-aba8-698fa6c7511f-85-2560-1440.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/copa-del-rey/2024-2025/final-real-madrid-barcelona-atleti-horario-donde-ver-television-hoy_sto23169210/story.shtml",
+        "date": "2025-04-01 22:16:30",
+        "sentiment_score": -0.01921173185110092
+    },
+    {
+        "title": "Zelle cambia las reglas: ¿Debe modificar el correo y número telefónico?",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740408855673.webp?ch=212&cw=377&extw=webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/zelle-cambia-las-reglas-debe-modificar-el-correo-y-numero-telefonico--20254118110",
+        "date": "2025-04-01 22:11:00",
+        "sentiment_score": -0.017669446766376495
+    },
+    {
+        "title": "Despliegan operativo en el Mercado Mayorista de Coche: verifican que comerciantes cumplan con la tasa del BCV",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743548409834.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/despliegan-operativo-en-el-mercado-mayorista-de-coche-verifican-que-comerciantes-cumplan-con-la-tasa-del-bcv-20254117440",
+        "date": "2025-04-01 21:44:00",
+        "sentiment_score": -0.22872589901089668
+    },
+    {
+        "title": "Miranda: anuncian suspensión de impuestos a entidades productivas del sector primario en el municipio Guaicaipuro",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743542951705.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/miranda-anuncian-suspension-de-impuestos-a-entidades-productivas-del-sector-primario-en-el-municipio-guaicaipuro-20254117190",
+        "date": "2025-04-01 21:19:00",
+        "sentiment_score": -0.049009375274181366
+    },
+    {
+        "title": "Lanzan oferta de empleo en Utah para latinos por $24 la hora: estos son los requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743543641862.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/lanzan-oferta-de-empleo-en-utah-para-latinos-por-24-la-hora-estos-son-los-requisitos-2025411760",
+        "date": "2025-04-01 21:06:00",
+        "sentiment_score": 0.8200451172888279
+    },
+    {
+        "title": "Aumentan montos de los ingresos para patrocinar una Green Card: conozca cuánto debe ganar",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743541624343.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/aumentan-montos-de-los-ingresos-para-patrocinar-una-green-card-conozca-cuanto-debe-ganar-2025411760",
+        "date": "2025-04-01 21:06:00",
+        "sentiment_score": -0.49295568466186523
+    },
+    {
+        "title": "Un sujeto abusó de su sobrina de 13 años: la mantuvo en cautiverio por dos días",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743541170381.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/un-sujeto-abuso-de-su-sobrina-de-13-anos-la-mantuvo-en-cautiverio-por-dos-dias-2025411740",
+        "date": "2025-04-01 21:04:00",
+        "sentiment_score": -0.8115770854055882
+    },
+    {
+        "title": "Inicia pago de evaluaciones al personal administrativo y obrero del Ministerio para la Educación",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743537619550.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/inicia-pago-de-evaluaciones-al-personal-administrativo-y-obrero-del-ministerio-para-la-educacion--2025411710",
+        "date": "2025-04-01 21:01:00",
+        "sentiment_score": 0.11847236752510071
+    },
+    {
+        "title": "Zoocriadero Antonio Abad realiza actividades de divulgación sobre la conservación y reproducción de especies en peligro",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743542489421.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/zoocriadero-antonio-abad-realiza-actividades-de-divulgacion-sobre-la-conservacion-y-reproduccion-de-especies-en-peligro-20254116580",
+        "date": "2025-04-01 20:58:00",
+        "sentiment_score": 0.6164029240608215
+    },
+    {
+        "title": "El Concurso “La Giralda Cocina con Venezuela” estrena su primera edición",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743541206638.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/el-concurso-la-giralda-cocina-con-venezuela-estrena-su-primera-edicion-20254116400",
+        "date": "2025-04-01 20:40:00",
+        "sentiment_score": 0.690602820366621
+    },
+    {
+        "title": "Documental del Kun Agüero tendrá su avant premiere en el Canneseries: Disney+ lo estrenará posteriormente",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743539972233.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/documental-del-kun-aguero-tendra-su-avant-premiere-en-el-canneseries-disney-lo-estrenara-posteriormente-20254116300",
+        "date": "2025-04-01 20:30:00",
+        "sentiment_score": 0.3692552261054516
     }
 ];
