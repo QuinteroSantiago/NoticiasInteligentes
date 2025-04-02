@@ -110,16 +110,6 @@ export default [
         "sentiment_score": -0.7377867326140404
     },
     {
-        "title": "Mira las mejores imágenes del eclipse solar parcial en el hemisferio norte",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/sequence-01-00-00-43-04-still001.jpg?quality=100&strip=info",
-        "tags": [
-            "ciencia"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/imagenes-eclipse-solar-parcial-29-marzo-orix/",
-        "date": "2025-03-29 13:35:50",
-        "sentiment_score": 0.20815393328666687
-    },
-    {
         "title": "Aumentan las manifestaciones en Corea del Sur mientras el Supremo evalúa el destino del presidente",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/29/corea-afp-kcxB-U70676876604B2G-1200x840@diario_abc.jpg",
         "tags": [
@@ -140,26 +130,6 @@ export default [
         "sentiment_score": -0.15290617942810059
     },
     {
-        "title": "La importancia del pragmatismo en momentos complicados",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/giuseppe-tringali-importancia-pragmatismo-momentos-complicados-20250329122853-nt.html",
-        "date": "2025-03-29 11:29:22",
-        "sentiment_score": 0.008727625012397766
-    },
-    {
-        "title": "Elon Musk vende la red social X a su empresa de inteligencia artificial xAI",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/03/29/elon-musk-reuters-Rm5LjJs7lik2VT39Kz0KBEK-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/elon-musk-vende-red-social-empresa-inteligencia-20250329115938-nt.html",
-        "date": "2025-03-29 10:59:39",
-        "sentiment_score": -0.05330178141593933
-    },
-    {
         "title": "Esteban quiere que el PNV “se ponga las pilas” para afrontar un “nuevo tiempo”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/BJKYTBEK5KBFGRMWS7NBEME5MA.jpg?auth=61c2d88e6bc97e0f8bdabafc00c681cbd901386f50b35f5038537177c647084c&width=1200",
         "tags": [
@@ -174,69 +144,6 @@ export default [
         "link": "https://elpais.com/espana/2025-03-29/esteban-quiere-que-el-pnv-se-ponga-las-pilas-para-afrontar-un-nuevo-tiempo.html",
         "date": "2025-03-29 16:25:29",
         "sentiment_score": -0.12771201878786087
-    },
-    {
-        "title": "El PP mantiene la distancia con el Gobierno en el gasto en defensa: “Sánchez es un mentiroso sin fronteras”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BEIZ3B53A6DVRORHLYB2OSPQ7U.jpg?auth=98478f192a0a49055cabe1a0af12e30008296bf9ece08c8a328cec6bd60c6e2c&width=1200",
-        "tags": [
-            "españa",
-            "sevilla",
-            "congreso diputados",
-            "alberto núñez feijóo",
-            "senado",
-            "tribunal constitucional",
-            "gasto militar",
-            "juan manuel moreno",
-            "pp",
-            "defensa",
-            "cuca gamarra"
-        ],
-        "link": "https://elpais.com/espana/2025-03-29/el-pp-mantiene-la-distancia-con-el-gobierno-en-el-gasto-en-defensa-sanchez-es-un-mentiroso-sin-fronteras.html",
-        "date": "2025-03-29 13:02:52",
-        "sentiment_score": -0.05965100973844528
-    },
-    {
-        "title": "Urtasun presume del acuerdo con Hacienda por el SMI: “Para eso estamos en el Gobierno”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4TZOGHTBERBQXDFPAQSN5DWMEM.jpg?auth=a2b042dfa187842630b39e54494534524ed82808a42ac48d07424d4c6abcd7c0&width=1200",
-        "tags": [
-            "rivas-vaciamadrid",
-            "izquierda unida",
-            "política",
-            "asamblea constituyente",
-            "congreso diputados",
-            "ernest urtasun domenech",
-            "sumar",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-03-29/urtasun-presume-del-acuerdo-con-hacienda-por-el-smi-para-eso-estamos-en-el-gobierno.html",
-        "date": "2025-03-29 12:30:47",
-        "sentiment_score": -0.10431115329265594
-    },
-    {
-        "title": "El futuro ‘hub’ audiovisual de las Tres Chimeneas estará en marcha en 2028",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PLQSLQHJ6NE45ISWRYQOVR2NUM.jpg?auth=47814077283b7fa031f5be6e6223b981615873534c609acdaa312fba759928f1&width=1200",
-        "tags": [
-            "terrassa",
-            "planes urbanísticos",
-            "térmicas del besos",
-            "salvador illa",
-            "ccma",
-            "inversión pública",
-            "cataluña",
-            "transformación digital",
-            "sant adrià de besòs",
-            "videojuegos",
-            "barcelona",
-            "universidades públicas",
-            "industria audiovisual",
-            "internet",
-            "albert dalmau",
-            "industria cine",
-            "generalitat cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-03-29/el-futuro-hub-audiovisual-de-las-tres-chimeneas-estara-en-marcha-en-2028.html",
-        "date": "2025-03-29 11:27:06",
-        "sentiment_score": 0.37640462070703506
     },
     {
         "title": "Al menos cuatro personas heridas tras ser apuñaladas en Noruega",
@@ -7266,5 +7173,367 @@ export default [
         "link": "https://2001online.com/deportes/documental-del-kun-aguero-tendra-su-avant-premiere-en-el-canneseries-disney-lo-estrenara-posteriormente-20254116300",
         "date": "2025-04-01 20:30:00",
         "sentiment_score": 0.3692552261054516
+    },
+    {
+        "title": "Almeida defiende en Miami la desregulación como clave para atraer capital",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/02/almeida-defiende-en-miami-la-desregulacion-como-clave-para-atraer-capital/",
+        "date": "2025-04-02 02:01:29",
+        "sentiment_score": -0.7488637119531631
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Málaga este miércoles 2 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/IAET4FOXTBABJPJFE4A53C2G4I.jpg?auth=aa39ecc6e3e1f151bd9734cdd91d4b7608e61571847107cf2664ada9a7832556&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/02/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-malaga-este-miercoles-2-de-abril/",
+        "date": "2025-04-02 02:01:28",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Madrid: la previsión meteorológica para este 2 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/OFZAHYOX3NBYFER3FIKG3XRVGA.jpg?auth=81b1f2c21fdb57485660687e6c0b36878ce6fba8e46cb87f70d81d8e934068ef&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/02/clima-en-madrid-la-prevision-meteorologica-para-este-2-de-abril/",
+        "date": "2025-04-02 01:30:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Cómo se hizo famosa Dulceida: de sus orígenes humildes a ser “la reina” de las influencers",
+        "image_url": "https://www.infobae.com/resizer/v2/PXPTOVK4UVFETKC3XKO2B3TSZE.png?auth=32ac21662145a5f97d0eab4fe0a4ad52a544e071f1974d6dabcc37378630df78&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/02/como-se-hizo-famosa-dulceida-de-sus-origenes-humildes-a-ser-la-reina-de-las-influencers/",
+        "date": "2025-04-02 00:31:29",
+        "sentiment_score": -0.15803595632314682
+    },
+    {
+        "title": "Remiro: “Jodido pero orgulloso”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/01/remiro-jodido-pero-orgulloso/",
+        "date": "2025-04-01 23:31:47",
+        "sentiment_score": 0.09787759184837341
+    },
+    {
+        "title": "Karla Sofía Gascón hace su primera entrevista en televisión como invitada de ‘El Hormiguero’ después de los últimos meses llenos de polémicas: “Me he sentido reflejada en la crucifixión”",
+        "image_url": "https://www.infobae.com/resizer/v2/J57LHAPMTVBSNCQCVO7PILKU7Q.jpg?auth=333fb5118b22b330f643897412b811b2ceb244ca0bdcd9fad26b0237f49eaa8e&height=449&smart=true&width=799",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/01/karla-sofia-gascon-hace-su-primera-entrevista-en-television-como-invitada-de-el-hormiguero-despues-de-los-ultimos-meses-llenos-de-polemicas-me-he-sentido-reflejada-en-la-crucifixion/",
+        "date": "2025-04-01 22:19:26",
+        "sentiment_score": -0.3539277873933315
+    },
+    {
+        "title": "Los españoles han sufrido 94 subidas de impuestos y cotizaciones desde que gobierna Sánchez",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/02/sanchez-Ri8htW1o9I6GDFjGINezAiJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/espanoles-sufrido-subidas-impuestos-cotizaciones-gobierna-sanchez-20250402130248-nt.html",
+        "date": "2025-04-02 02:10:36",
+        "sentiment_score": -0.11281409859657288
+    },
+    {
+        "title": "'Cuota de solidaridad' para sueldos de más de 59.000 euros y nueva subida del MEI",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/11/25/jubi2-Rac5DYqWz01z3G5GA3JkGYM-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cuota-solidaridad-sueldos-59000-euros-nueva-subida-20241125101020-nt.html",
+        "date": "2025-04-02 02:10:09",
+        "sentiment_score": -0.06624358892440796
+    },
+    {
+        "title": "La carga fiscal por IRPF que soportan los salarios y las pensiones alcanzó niveles récord en 2024",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/02/AEATPepDalmau-R87aU8kqtoy74gDfHZB9A9L-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/carga-fiscal-irpf-soportan-salarios-pensiones-alcanzo-20250402203007-nt.html",
+        "date": "2025-04-02 02:07:05",
+        "sentiment_score": -0.13124333322048187
+    },
+    {
+        "title": "Un senador demócrata rompe récords con un discurso de más de 24 horas para protestar contra Trump",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/02/cory-booker-kzoG-U70702803829T7D-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/senador-democrata-rompe-records-discurso-horas-protestar-20250402013217-nt.html",
+        "date": "2025-04-01 23:32:18",
+        "sentiment_score": -0.08806124329566956
+    },
+    {
+        "title": "Copa del Rey: ¿Cómo quedaron los últimos 10 enfrentamientos entre Barcelona y Atlético?",
+        "image_url": "https://pxcdn.meridiano.net/042025/1743559821269.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/copa-del-rey-como-quedaron-los-ultimos-10-enfrentamientos-entre-barcelona-y-atletico--2025412290",
+        "date": "2025-04-02 02:09:00",
+        "sentiment_score": 0.2356230802834034
+    },
+    {
+        "title": "Las comunidades del PP plantan cara al Gobierno: los cálculos del reparto de menores migrantes",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/02/2025040203492666283.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/reparto-menores-migrantes-enfrenta-gobierno-comunidades-pp/20250402035707339428.html",
+        "date": "2025-04-02 01:57:07",
+        "sentiment_score": -0.8737567625939846
+    },
+    {
+        "title": "Barcelona y Atlético buscarán la final soñada contra el Real Madrid (En vivo por Meridiano TV y Meridiano.net)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1743549357936.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-y-atletico-buscaran-la-final-sonada-contra-el-real-madrid-en-vivo-por-meridiano-tv-y-meridiano-net--20254121450",
+        "date": "2025-04-02 01:45:00",
+        "sentiment_score": 0.6913519762456417
+    },
+    {
+        "title": "El Real Madrid se aferró de nuevo a la épica para jugar la final de la Copa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://elperiodiquito.com/deportes/9659/el-real-madrid-se-aferro-de-nuevo-a-la-epica-para-jugar-la-final-de-la-copa/",
+        "date": "2025-04-02 01:21:10",
+        "sentiment_score": 0.39498480409383774
+    },
+    {
+        "title": "Antonio Rüdiger: el líder que combina locura y genialidad",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/02/2025040203032159557.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/antonio-rudiger-lider-que-combina-locura-genialidad/20250402030521339430.html",
+        "date": "2025-04-02 01:05:21",
+        "sentiment_score": 0.5688235312700272
+    },
+    {
+        "title": "\"La pandemia puso a prueba el liderazgo callado de los intensivistas\"",
+        "image_url": "https://static.grupojoly.com/clip/e48fcc98-7f05-41aa-acbd-09862aeadc8d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodejerez.es/entrevistas/pandemia-puso-prueba-liderazgo-callado_0_2003641845.html",
+        "date": "2025-04-02 01:00:56",
+        "sentiment_score": -0.8790202718228102
+    },
+    {
+        "title": "El juez plantea enviar al Supremo la causa contra Alvise por implicar \"a los gitanos\" en la muerte del joven Álvaro Prieto",
+        "image_url": "https://s1.elespanol.com/2025/04/01/actualidad/935667401_254382648_1706x960.jpg?contentId=935667401",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250402/juez-plantea-enviar-supremo-causa-alvise-implicar-gitanos-muerte-joven-alvaro-prieto/935656971_0.html",
+        "date": "2025-04-02 00:51:03",
+        "sentiment_score": -0.8742136340588331
+    },
+    {
+        "title": "Real Madrid requiere de prórroga para eliminar a Real Sociedad y avanzar a final de Copa del Rey",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/4818a83/2147483647/strip/true/crop/6827x3584+0+483/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F50%2F12766dee767a5590a059acc04f4d%2F2c3f32fde266470abc849b8fc52e7f1a",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-04-01/real-madrid-requiere-de-prorroga-para-eliminar-a-real-sociedad-y-avanzar-a-final-de-copa-del-rey",
+        "date": "2025-04-02 00:38:55",
+        "sentiment_score": -0.5112804025411606
+    },
+    {
+        "title": "El aumento descontrolado de los casos de autismo lleva a la Administración Trump a priorizar su investigación",
+        "image_url": "https://gaceta.es/wp-content/uploads/2024/11/EuropaPress_6341745_october_23_2024_duluth_georgia_usa_donald_trump_greets_robert_kennedy_jr_at-1-1.jpg",
+        "tags": [
+            "autismo",
+            "donald trump",
+            "estados unidos"
+        ],
+        "link": "https://gaceta.es/estados-unidos/el-aumento-descontrolado-de-los-casos-de-autismo-lleva-a-la-administracion-trump-a-priorizar-su-investigacion-20250402-0231/",
+        "date": "2025-04-02 00:31:00",
+        "sentiment_score": 0.18213444203138351
+    },
+    {
+        "title": "Desmienten que 19 beisbolistas venezolanos pidieron asilo en España: Están tratando de desprestigiarnos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743560384231.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/desmienten-que-19-beisbolistas-venezolanos-pidieron-asilo-en-espana-estan-tratando-de-desprestigiarnos-20254122150",
+        "date": "2025-04-02 02:15:00",
+        "sentiment_score": -0.032303474843502045
+    },
+    {
+        "title": "El plan de vías se enlaza con el plan \"Llave\" para hacer ciudad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06cec5ac-de43-4a2d-8f18-1bda54b6b0c6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2025/04/02/plan-vias-enlaza-plan-llave-115950230.html",
+        "date": "2025-04-02 02:02:15",
+        "sentiment_score": -0.030603885650634766
+    },
+    {
+        "title": "Automovilistas",
+        "image_url": "https://men.gsstatic.es/autor/margarita-caules/30.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/04/02/2358263/automovilistas.html",
+        "date": "2025-04-02 02:00:01",
+        "sentiment_score": 0.2249288111925125
+    },
+    {
+        "title": "Aena, en 'guerra' contra las tiendas duty free: Así quiere obtener 600 millones",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/lucena_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/aena-guerra-las-tiendas-duty-free-asi-quiere-obtener-600-millones",
+        "date": "2025-04-02 02:00:00",
+        "sentiment_score": 0.03460490703582764
+    },
+    {
+        "title": "Copa del Rey: ¿Cuál será la posible alineación del Atlético de Madrid para enfrentar al Barcelona? (En vivo por Meridiano Tv y Meridiano.net)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1743558344183.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/copa-del-rey-cual-sera-la-posible-alineacion-del-atletico-de-madrid-para-enfrentar-al-barcelona--20254118230",
+        "date": "2025-04-02 01:56:00",
+        "sentiment_score": -0.3638497553765774
+    },
+    {
+        "title": "Regresan los Casuals: Estos son los líderes de los ultras más violentos del Barça",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/ultras-1743503675062_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/regresan-los-casuals-estos-son-lideres-ultras-mas-violentos-barca",
+        "date": "2025-04-02 01:30:00",
+        "sentiment_score": -0.8179127350449562
+    },
+    {
+        "title": "La ULE refuerza el polo farma con perfiles de alta demanda con una microcredencial",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/01/67ec2797702c4.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/250402/1945840/ule-refuerza-polo-farma-perfiles-alta-demanda-microcredencial.html",
+        "date": "2025-04-02 01:30:00",
+        "sentiment_score": 0.0949513353407383
+    },
+    {
+        "title": "Carabobo no pudo con Estudiantes en su debut en la Libertadores",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/04/25092009740269.webp",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/carabobo-no-pudo-con-estudiantes-en-su-debut-en-la-libertadores/",
+        "date": "2025-04-02 01:27:40",
+        "sentiment_score": 0.3605118691921234
+    },
+    {
+        "title": "Recorrido del Nazareno de San Pablo en Chacao: conozca los preparativos anunciados por el alcalde",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743559303731.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/semana-santa/recorrido-del-nazareno-de-san-pablo-en-chacao-conozca-los-preparativos-anunciados-por-el-alcalde-2025412260",
+        "date": "2025-04-02 02:06:00",
+        "sentiment_score": 0.14826896041631699
+    },
+    {
+        "title": "Freddy Bernal informa la detención de directivo del IVSS en Táchira: también capturaron a dos registradores",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743550293668.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/freddy-bernal-informa-la-detencion-de-directivo-del-ivss-en-tachira-tambien-capturaron-a-dos-registradores-20254121300",
+        "date": "2025-04-02 01:30:00",
+        "sentiment_score": -0.04791085422039032
+    },
+    {
+        "title": "Ecuatoriano es arrestado durante su cita por asilo en USA: tiene tatuajes y lo acusan de pertenecer al Tren de Aragua",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743556249091.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ecuatoriano-es-arrestado-durante-su-cita-por-asilo-en-usa-tiene-tatuajes-y-lo-acusan-de-pertenecer-al-tren-de-aragua-20254121100",
+        "date": "2025-04-02 01:10:00",
+        "sentiment_score": -0.6678588390350342
+    },
+    {
+        "title": "Este es el drama por los derechos de autor de \"La Chilindrina\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/este-es-el-drama-por-los-derechos-de-autor-de-la-chilindrina--2025412100",
+        "date": "2025-04-02 01:00:00",
+        "sentiment_score": -0.7528739999979734
+    },
+    {
+        "title": "Montos de los bonos del Sistema Patria: así quedaron para abril 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743533161160.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/montos-de-los-bonos-del-sistema-patria-asi-quedaron-para-abril-2025-2025412100",
+        "date": "2025-04-02 01:00:00",
+        "sentiment_score": 0.07112569361925125
+    },
+    {
+        "title": "Maduro celebra decisión de anular la revocatoria del TPS a venezolanos: Me parece una buena decisión de este juez",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743555234344.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-celebra-decision-de-anular-la-revocatoria-del-tps-a-venezolanos-me-parece-una-buena-decision-de-este-juez-20254120560",
+        "date": "2025-04-02 00:56:00",
+        "sentiment_score": -0.3283752128481865
+    },
+    {
+        "title": "Estados Unidos retira la visa al expresidente de Costa Rica Oscar Arias: hizo críticas antes de la visita de Marco Rubio",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743556860946.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/estados-unidos-retira-la-visa-al-expresidente-de-costa-rica-oscar-arias-hizo-criticas-antes-de-la-visita-de-marco-rubio-20254120500",
+        "date": "2025-04-02 00:50:00",
+        "sentiment_score": -0.5087973810732365
+    },
+    {
+        "title": "Venezuela acuerda con este país la supresión de visas para ciudadanos con pasaportes ordinarios",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743555924883.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-acuerda-con-este-pais-la-supresion-de-visas-para-ciudadanos-con-pasaportes-ordinarios--20254120360",
+        "date": "2025-04-02 00:36:00",
+        "sentiment_score": 0.01954635977745056
+    },
+    {
+        "title": "Cuidado facial: suaviza la piel con esta mascarilla de pepino",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743543610347.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/cuidado-facial-suaviza-la-piel-con-esta-mascarilla-de-pepino-20254120350",
+        "date": "2025-04-02 00:35:00",
+        "sentiment_score": -0.811943780630827
     }
 ];
