@@ -140,46 +140,6 @@ export default [
         "sentiment_score": -0.19480055570602417
     },
     {
-        "title": "Noboa se reúne con Trump en Mar-a-Lago y pactan ayuda estadounidense para luchar contra la violencia en Ecuador",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/30/noboa-k1DF-U70682106303bJH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/noboa-reune-trump-maralago-pactan-ayuda-estadounidense-20250330145136-nt.html",
-        "date": "2025-03-30 12:51:37",
-        "sentiment_score": -0.06307703256607056
-    },
-    {
-        "title": "Vídeo | Las conexiones entre España y los documentos de JFK desclasificados por Trump",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/02/04/tdt-kMDD--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/documentos-desclasificados-trump-revelan-nuevos-datos-sobre-20250330104644-nt.html",
-        "date": "2025-03-30 11:38:27",
-        "sentiment_score": -0.5777671374380589
-    },
-    {
-        "title": "Netanyahu defiende su táctica de «negociar bajo el fuego» con Hamás y se marca vaciar Gaza como objetivo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/03/30/netan-kpkG-U70681590088GHB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/netanyahu-defiende-tactica-negociar-bajo-fuego-hamas-20250330132013-nt.html",
-        "date": "2025-03-30 11:20:40",
-        "sentiment_score": -0.05880853533744812
-    },
-    {
-        "title": "Nicaragua, paraíso de los expresidentes prófugos de la Justicia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/03/30/martinelli3-Ria6WUYpH1yUeD2YZivJFPN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nicaragua-paraiso-expresidentes-profugos-justicia-20250330121756-nt.html",
-        "date": "2025-03-30 10:36:54",
-        "sentiment_score": -0.09774094820022583
-    },
-    {
         "title": "Cataluña superó los 100.000 vehículos eléctricos matriculados en 2024",
         "image_url": "https://imagenes.elpais.com/resizer/v2/PVLJF23FRERXLGENZAHDGDW4AM.jpg?auth=4c9ab14baf37ab343820fc113e09f4f868ddcf0731f94b443cb607cc3efbdcd3&width=1200",
         "tags": [
@@ -196,84 +156,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-03-30/cataluna-supero-los-100000-vehiculos-electricos-matriculados-en-2024.html",
         "date": "2025-03-30 17:10:48",
         "sentiment_score": 0.8005764670670033
-    },
-    {
-        "title": "Aitor Esteban, presidente del PNV: “Nacionalistas sí, pero primero demócratas humanistas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VCRELI262ZCJ3E6VTWLZV5GALY.jpeg?auth=3f34ed344b0e701b2c2d5c508b406d94abf38ac7caa2318e7d062f98214e4569&width=1200",
-        "tags": [
-            "partidos políticos",
-            "país vasco",
-            "aitor esteban",
-            "nacionalismo",
-            "eaj-pnv",
-            "andoni ortuzar",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-03-30/aitor-esteban-presidente-del-pnv-nacionalistas-si-pero-primero-democratas-humanistas.html",
-        "date": "2025-03-30 13:08:10",
-        "sentiment_score": 0.06889297068119049
-    },
-    {
-        "title": "Yolanda Díaz: “No es tiempo de rearmar Europa, sino de refundarla”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YPOLK2G7SQXJ2XWI3YKSNX3ZKY.jpg?auth=1a0ac411a1585b9666bde62a15437742c8f28df2ea3a0da74222830fe7a04187&width=1200",
-        "tags": [
-            "yolanda díaz",
-            "izquierda unida",
-            "sumar",
-            "podemos",
-            "política",
-            "congreso diputados",
-            "madrid",
-            "ernest urtasun domenech",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-03-30/yolanda-diaz-no-es-tiempo-de-rearmar-europa-sino-de-refundarla.html",
-        "date": "2025-03-30 12:57:55",
-        "sentiment_score": 0.10968530178070068
-    },
-    {
-        "title": "Feijóo ataca a Sánchez por la falta de Presupuestos: “¡Pero qué república bananera cree que somos!”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7XNR4TYUFU7QP3WCJIWSPMMGZI.jpg?auth=8247e8f8389094072c0d1f337281268a285f37e0475ce1e11aa6f315eb21ec7b&width=1200",
-        "tags": [
-            "españa",
-            "juan manuel moreno",
-            "pp",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://elpais.com/espana/2025-03-30/feijoo-ataca-a-sanchez-por-la-falta-de-presupuestos-pero-que-republica-bananera-cree-que-somos.html",
-        "date": "2025-03-30 12:19:40",
-        "sentiment_score": -0.5755895264446735
-    },
-    {
-        "title": "Amnistía Internacional pide vetar la venta de armas de fuego a EE UU por su falta de control",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4RZAEWV2VAECK2NFFTNB3CRMGY.jpg?auth=61387321c0a8b8c61390cfe29769d51b7a39255b9bd7b4f43c8eb8303f3da327&width=1200",
-        "tags": [
-            "comercio exterior",
-            "congreso diputados",
-            "estados unidos",
-            "armas de fuego",
-            "exportaciones",
-            "armamento",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-03-30/amnistia-internacional-pide-vetar-la-venta-de-armas-de-fuego-a-ee-uu-por-su-falta-de-control.html",
-        "date": "2025-03-30 11:29:23",
-        "sentiment_score": -0.08988557755947113
-    },
-    {
-        "title": "El PNV se conjura para revalidar unido su primacía en Euskadi",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GHQP5CBVKWLBTNYHTZWGQY3F2Y.jpg?auth=dcb81ecc8b07f6931a5f28c145df144c180694348f737a079674aebc285924a3&width=1200",
-        "tags": [
-            "andoni ortuzar",
-            "españa",
-            "eaj-pnv",
-            "país vasco",
-            "partidos políticos",
-            "aitor esteban"
-        ],
-        "link": "https://elpais.com/espana/2025-03-30/el-pnv-se-conjura-para-revalidar-unido-su-primacia-en-euskadi.html",
-        "date": "2025-03-30 10:46:54",
-        "sentiment_score": -0.9196933545172215
     },
     {
         "title": "Aleix Febas recibió nueve faltas en el Córdoba - Elche",
@@ -7310,5 +7192,430 @@ export default [
         "link": "https://2001online.com/usa/internacionales/trump-anuncia-aranceles-globales-incluye-varios-paises-de-sudamerica-20254216490",
         "date": "2025-04-02 20:49:00",
         "sentiment_score": -0.09044770896434784
+    },
+    {
+        "title": "Aitor Esteban dice que Trump es un \"demagogo\" que culpa a otros de los problemas internos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/03/aitor-esteban-dice-que-trump-es-un-demagogo-que-culpa-a-otros-de-los-problemas-internos/",
+        "date": "2025-04-03 01:31:45",
+        "sentiment_score": -0.8706790590658784
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/YFSLDBCDPFG3VBZG2ITGDSTZNQ.jpg?auth=625afc6fd82f17149b4a627e4fd87f28f18dcc399827e8f3bd58d7c47ed47d5c&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/03/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-madrid/",
+        "date": "2025-04-03 01:31:24",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Trump castiga a España y al resto de Europa con un 20% de aranceles y desata la incertidumbre en los mercados: el vino y el aceite español, en el punto de mira",
+        "image_url": "https://www.infobae.com/resizer/v2/RVXKRQREAJF4XNAPTCZ7NKTZXU.JPG?auth=0ae1f7d58c8d3d4317f4f95169b43290104386c239e0f4c4ee8e70ab105dd669&height=3933&smart=true&width=5900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/03/trump-castiga-a-espana-y-al-resto-de-europa-con-un-20-de-aranceles-y-desata-la-incertidumbre-en-los-mercados-el-vino-y-el-aceite-espanol-en-el-punto-de-mira/",
+        "date": "2025-04-03 00:29:08",
+        "sentiment_score": -0.09813351929187775
+    },
+    {
+        "title": "Petro considera que EE.UU. se equivoca al imponer aranceles a todo el mundo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/02/petro-considera-que-eeuu-se-equivoca-al-imponer-aranceles-a-todo-el-mundo/",
+        "date": "2025-04-02 23:16:20",
+        "sentiment_score": -0.8359183575958014
+    },
+    {
+        "title": "PNV tilda a Trump de \"demagogo\" que engaña a su pueblo: \"Nosotros vamos a sufrir pero el pueblo estadounidense más\"",
+        "image_url": "https://www.infobae.com/resizer/v2/UW2EP3ZOT5B6NM7NNOR3GPEMUE.jpg?auth=0b058ffede65f611658352cdf2ae8ce958632a12136cb7706fc605c37ad6bf90&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/02/pnv-tilda-a-trump-de-demagogo-que-engana-a-su-pueblo-nosotros-vamos-a-sufrir-pero-el-pueblo-estadounidense-mas/",
+        "date": "2025-04-02 22:45:34",
+        "sentiment_score": -0.907452616840601
+    },
+    {
+        "title": "Meloni califica los aranceles de Trump a la Unión Europea de \"medida equivocada\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/02/meloni-califica-los-aranceles-de-trump-a-la-union-europea-de-medida-equivocada/",
+        "date": "2025-04-02 22:18:45",
+        "sentiment_score": -0.8900160240009427
+    },
+    {
+        "title": "El sector del vino europeo califica de \"duro golpe\" el arancel del 20% anunciado por Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/02/el-sector-del-vino-europeo-califica-de-duro-golpe-el-arancel-del-20-anunciado-por-trump/",
+        "date": "2025-04-02 22:18:29",
+        "sentiment_score": -0.8328582476824522
+    },
+    {
+        "title": "¿Por qué el presidente Trump empieza a ver el mundo como un clavo al que machacar?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/02/trump-kZrH-U70706667819Dm-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pedro-rodriguez-presidente-trump-empieza-ver-mundo-clavo-machacar-20250402130208-nt.html",
+        "date": "2025-04-03 02:02:44",
+        "sentiment_score": -0.24260595440864563
+    },
+    {
+        "title": "José Andrés: «Con los aranceles no gana nadie, perdemos todos»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/02/joseandres-Rt7ax2k10FAbwh009YnpXDP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/jose-andres-aranceles-gana-perdemos-20250402214404-nt.html",
+        "date": "2025-04-03 02:01:22",
+        "sentiment_score": -0.14421305060386658
+    },
+    {
+        "title": "Montero: y ahora, corrupción",
+        "image_url": "https://s1.ppllstatics.com/salamancahoy/www/multimedia/2025/04/01/angel-lozano-unamuno-k6GG--170x119@SalamancaHoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-montero-corrupcion-20250403014012-nt.html",
+        "date": "2025-04-02 23:40:24",
+        "sentiment_score": -0.12131926417350769
+    },
+    {
+        "title": "¿Cómo se aplica el arancelazo de Trump? Guía para comprender la guerra comercial desatada por EE.UU.",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/02/arancelazo-kgWE-U70710000456YDI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/aplica-arancelazo-trump-guia-comprender-guerra-comercial-20250402004900-nt.html",
+        "date": "2025-04-02 22:49:16",
+        "sentiment_score": -0.1487855464220047
+    },
+    {
+        "title": "La soledad no deseada del jefe",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/04/03/felicidad-tribuna-RB75cGdocQgr4C4hyB50nfN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-j-fernandez-romero-soledad-deseada-jefe-20250403134706-nts.html",
+        "date": "2025-04-02 22:30:38",
+        "sentiment_score": -0.12034621834754944
+    },
+    {
+        "title": "Los de atrás",
+        "image_url": "https://s2.abcstatics.com/huelva24/www/multimedia/sociedad/2025/03/31/fresas-huelva-mensaje--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/lucas-haurie-atras-20250403155802-nts.html",
+        "date": "2025-04-02 22:30:23",
+        "sentiment_score": -0.06029835343360901
+    },
+    {
+        "title": "Tierra quemada",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/03/14/experto-aclara-precio-aceite-oliva-bajara-lluvias-kNW--170x119@Ideal.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-tierra-quemada-20250403230816-nts.html",
+        "date": "2025-04-02 22:30:07",
+        "sentiment_score": -0.034418702125549316
+    },
+    {
+        "title": "Iván Mejía pidió a Andrea Guerrero la transmisión de la final de la Copa del Rey: “Presidenta chévere”",
+        "image_url": "https://www.infobae.com/resizer/v2/KHOP4AYRBBEQJLXQJOUK5X5LUA.png?auth=3fa0f0595f63bf267d4fc2cf0afa6aec39cc350a0b99f81daf670071a9770e28&height=600&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/04/03/ivan-mejia-pidio-a-andrea-guerrero-la-transmision-de-la-final-de-la-copa-del-rey-presidenta-chevere/",
+        "date": "2025-04-03 02:05:29",
+        "sentiment_score": 0.30906394869089127
+    },
+    {
+        "title": "Todos somos la mezcla de dos equipos de La Liga española y este quiz te dirá la tuya",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-04/02/22/thumb/XTw6CntCb.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/todos-somos-la-mezcla-de-dos-equipos-de-la-liga-espanola-y",
+        "date": "2025-04-03 02:01:03",
+        "sentiment_score": -0.4934382513165474
+    },
+    {
+        "title": "El 'poder inmobiliario' de los sindicatos: Así se distribuyen 80 edificios del Estado",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/sindicatos-edificios_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/inmobiliario-sindicatos-asi-se-distribuyen-80-edificios-del-estado",
+        "date": "2025-04-03 02:00:00",
+        "sentiment_score": 0.0976954847574234
+    },
+    {
+        "title": "¿Lamine Yamal es el próximo rey del fútbol?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/03/2025040303464795924.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lamine-yamal-es-proximo-rey-futbol/20250403034847339573.html",
+        "date": "2025-04-03 01:48:47",
+        "sentiment_score": 0.7669458612799644
+    },
+    {
+        "title": "Crisis del alquiler en Europa: las grandes ciudades españolas lideran las subidas de los precios de habitaciones y estudios",
+        "image_url": "https://phantom-elmundo.uecdn.es/091f15b47a7c4485e3773ead0718bcc0/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/02/17331613425307.jpg",
+        "tags": [
+            "artículos maría hernández",
+            "economía",
+            "alquiler",
+            "vivienda"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2025/04/03/67ed4f1de4d4d8a4338b4580.html",
+        "date": "2025-04-03 01:06:19",
+        "sentiment_score": -0.8264460116624832
+    },
+    {
+        "title": "El Gobierno subastará antes de verano conexiones a la red para resolver el caos de peticiones de industrias y centros de datos",
+        "image_url": "https://s1.elespanol.com/2024/12/26/invertia/empresas/energia/911669096_251946330_1706x960.jpg?contentId=911669096",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20250403/gobierno-subastara-verano-conexiones-red-resolver-caos-peticiones-industrias-centros-datos/1003743695713_0.html",
+        "date": "2025-04-03 00:56:25",
+        "sentiment_score": -0.8205604180693626
+    },
+    {
+        "title": "La Rioja, Castilla-La Mancha y Comunidad Valenciana, las CCAA que más solicitudes reciben del plan Moves 3",
+        "image_url": "https://s1.elespanol.com/2021/05/02/eldigitalcastillalamancha/578205207_188041236_1706x960.jpg?contentId=578205207",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/motor/20250403/rioja-castilla-la-mancha-comunidad-valenciana-ccaa-solicitudes-reciben-plan-moves/935906681_0.html",
+        "date": "2025-04-03 00:56:24",
+        "sentiment_score": 0.5562381036579609
+    },
+    {
+        "title": "Laporta se agarra al paraguas de Flick para capear la tormenta institucional",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/03/culemania/palco/1003742645941_14364823_1706x960.jpg?contentId=1003742645941",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250403/laporta-agarra-paraguas-flick-capear-tormenta-institucional/1003742645931_0.html",
+        "date": "2025-04-03 00:36:34",
+        "sentiment_score": -0.5303564295172691
+    },
+    {
+        "title": "El Rey de Copas contra el Real Madrid de Vinicius y Mbappé: 15 partidos para el triplete",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/03/culemania/primer-equipo/1003742645933_14364619_1706x960.jpg?contentId=1003742645933",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250403/el-rey-copas-real-madrid-vinicius-mbappe/1003742645932_0.html",
+        "date": "2025-04-03 00:18:48",
+        "sentiment_score": -0.023429185152053833
+    },
+    {
+        "title": "Mourinho pierde los papeles tras la eliminación del Fenerbahce y tira de la nariz al entrenador rival",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/04/03/67edceddd74d6.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/20250403/mourinho-pierde-papeles-eliminacion-fenerbahce-tira-nariz-entrenador-rival_284865.html",
+        "date": "2025-04-02 23:59:23",
+        "sentiment_score": -0.8246633242815733
+    },
+    {
+        "title": "¿Se lava las manos?: así se defiende el mánager de los 19 beisbolistas venezolanos que pidieron asilo en España",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f1fb-1f1ea.png",
+        "tags": [
+            "asilo en españa",
+            "julio guevara",
+            "béisbol",
+            "deportes",
+            "beisbolistas venezolanos en españa"
+        ],
+        "link": "https://www.elnacional.com/deportes/se-lava-las-manos-asi-se-defiende-el-manager-de-los-19-beisbolistas-venezolanos-que-pidieron-asilo-en-espana/",
+        "date": "2025-04-03 02:02:34",
+        "sentiment_score": -0.34302615374326706
+    },
+    {
+        "title": "El expediente disciplinario del Govern a Hidrobal por el agua de Maó",
+        "image_url": "https://men.gsstatic.es/autor/editorial/32.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/editorial/2025/04/03/2359249/expediente-disciplinario-del-govern-hidrobal-por-agua-mao.html",
+        "date": "2025-04-03 02:00:02",
+        "sentiment_score": -0.38893114030361176
+    },
+    {
+        "title": "Gobierno de Maduro investiga posible tráfico en caso de beisbolistas venezolanos en España",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2025/04/VZLA_Espana.jpg",
+        "tags": [
+            "beisbolistas",
+            "país político",
+            "a - modulo 7 - b",
+            "tráfico",
+            "españa",
+            "maduro",
+            "asilo"
+        ],
+        "link": "https://correodelcaroni.com/pais-politico/gobierno-de-maduro-investiga-posible-trafico-en-caso-de-beisbolistas-venezolanos-en-espana/",
+        "date": "2025-04-03 01:39:50",
+        "sentiment_score": -0.5562598928809166
+    },
+    {
+        "title": "María Pombo y su imperio, en caída: Qué esconde el cese de actividad de su marca",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/captura-de-pantalla-2025-04-02-182145_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/imperio-maria-pombo-caida-que-hay-tras-cese-actividad-marca",
+        "date": "2025-04-03 01:30:00",
+        "sentiment_score": -0.4114401116967201
+    },
+    {
+        "title": "Los hospitales Quirónsalud en Tenerife apuestan por una alimentación saludable y que cuida del planeta",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ab2218e1-54ca-4327-ad69-5cd2fcfeeaed_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/sociedad/2025/04/03/hospitales-quironsalud-tenerife-apuestan-alimentacion-115990242.html",
+        "date": "2025-04-03 01:18:16",
+        "sentiment_score": 0.6514445208013058
+    },
+    {
+        "title": "Olfato goleador y oportunismo de Paulo Díaz: así fue el primer gol de River Plate en la Copa Libertadores",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/04/03/olfato-goleador-y-oportunismo-de-paulo-diaz-asi-fue-el-primer-gol-de-river-plate-en-la-copa-libertadores/",
+        "date": "2025-04-03 01:07:53",
+        "sentiment_score": 0.6723388843238354
+    },
+    {
+        "title": "Nina, sobre las mujeres y la menopausia: \"Tengo una claridad de ideas, una experiencia y una calma que no cambio por nada. No vuelvo a los 18 años ni por todo el oro del mundo\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/164b96206690ff4580b3fe3beba5744c/crop/547x29/1934x1878/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/02/17435873861918.jpg",
+        "tags": [
+            "artículos mar muñiz",
+            "menopausia",
+            "yodona"
+        ],
+        "link": "https://www.elmundo.es/yodona/vida-saludable/2025/04/03/67ecfedde9cf4a13208b457d.html",
+        "date": "2025-04-03 01:06:47",
+        "sentiment_score": 0.7228595428168774
+    },
+    {
+        "title": "Redadas ICE del 2 de abril: cubano es arrestados por dar refugio temporal y trasladar indocumentados en El Paso",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743645592871.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/redadas-ice-del-2-de-abril-cubano-es-arrestados-por-dar-refugio-temporal-y-trasladar-indocumentados-en-el-paso-20254221560",
+        "date": "2025-04-03 01:56:00",
+        "sentiment_score": -0.6566946059465408
+    },
+    {
+        "title": "Diosdado Cabello anuncia la repatriación de 150 niños venezolanos: vienen desde México",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743645344602.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/diosdado-cabello-anuncia-la-repatriacion-de-150-ninos-venezolanos-vienen-desde-mexico-20254221550",
+        "date": "2025-04-03 01:55:00",
+        "sentiment_score": -0.01171392947435379
+    },
+    {
+        "title": "Estudiante colombiano es obligado a firmar su autodeportación en USA: conducía con la licencia vencida",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743644193673.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/estudiante-colombiano-es-obligado-a-firmar-su-autodeportacion-en-usa-conducia-con-la-licencia-vencida-20254221540",
+        "date": "2025-04-03 01:54:00",
+        "sentiment_score": -0.6780286952853203
+    },
+    {
+        "title": "Disminuye la cantidad de migrantes detectados en las fronteras de California: la reducción es del 85%",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743642256231.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/disminuye-la-cantidad-de-migrantes-detectados-en-las-fronteras-de-california-la-reduccion-es-del-85--20254220260",
+        "date": "2025-04-03 01:53:00",
+        "sentiment_score": -0.4501734748482704
+    },
+    {
+        "title": "Se encienden las alarmas en la Vinotinto: Rafael Romo es operado y podría perderse la próxima doble fecha",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743645511133.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/se-encienden-las-alarmas-en-la-vinotinto-rafael-romo-es-operado-y-podria-perderse-la-proxima-doble-fecha--20254221440",
+        "date": "2025-04-03 01:44:00",
+        "sentiment_score": 0.574040375649929
+    },
+    {
+        "title": "Redada ICE en Washington: 37 trabajadores inmigrantes son arrestados en una empresa para reparar techos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743646879406.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/migracion/redada-ice-en-washington-37-trabajadores-inmigrantes-son-arrestados-en-una-empresa-para-reparar-techos-20254221430",
+        "date": "2025-04-03 01:43:00",
+        "sentiment_score": -0.3244110830128193
+    },
+    {
+        "title": "Diferencias entre Zelle y Venmo: ¿Cuál aplicación transfiere más rápido el dinero?",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743643430704.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/diferencias-entre-zelle-y-venmo-cual-aplicacion-transfiere-mas-rapido-el-dinero--20254221230",
+        "date": "2025-04-03 01:23:00",
+        "sentiment_score": 0.17071151919662952
+    },
+    {
+        "title": "Numismática USA: estas son las monedas de 50 centavos de Franklin que pueden valer hasta $130.000",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743645709059.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/numismatica-usa-estas-son-las-monedas-de-50-centavos-de-franklin-que-pueden-valer-hasta-130-000-20254221220",
+        "date": "2025-04-03 01:22:00",
+        "sentiment_score": 0.47956014424562454
+    },
+    {
+        "title": "Los tres vuelos con migrantes repatriados que llegarán esta semana: uno de ellos con venezolanos encarcelados en USA",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743639217572.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/los-tres-vuelos-con-migrantes-repatriados-que-llegaran-esta-semana-uno-de-ellos-con-venezolanos-encarcelados-en-usa-2025422140",
+        "date": "2025-04-03 01:04:00",
+        "sentiment_score": -0.5864259451627731
+    },
+    {
+        "title": "Lanzan guía de salida voluntaria de Estados Unidos: estos son los pasos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743639028426.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/lanzan-guia-de-salida-voluntaria-de-estados-unidos-estos-son-los-pasos--2025422120",
+        "date": "2025-04-03 01:03:00",
+        "sentiment_score": -0.061727263033390045
     }
 ];
