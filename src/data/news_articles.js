@@ -150,56 +150,6 @@ export default [
         "sentiment_score": -0.877772344276309
     },
     {
-        "title": "“Nos damos cita para una unidad”, dice Luisa González tras sellar acuerdo con el movimiento indígena",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2207200954.jpg?quality=100&strip=info",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/luisa-gonzalez-acuerdo-movimiento-indigena-ecuador-tv/",
-        "date": "2025-03-31 13:54:33",
-        "sentiment_score": -0.03299573063850403
-    },
-    {
-        "title": "Hombre que cuidaba la tumba de sus padres en Corea del Sur podría haber provocado incendio mortal",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/cnn-fast-20241213123945390_a77e33.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/tumba-corea-del-sur-incendio-mortal-cafe-fast/",
-        "date": "2025-03-31 13:14:29",
-        "sentiment_score": -0.7136125341057777
-    },
-    {
-        "title": "Nuevo gobierno de transición sirio jura su cargo",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/cnn-fast-20241213123945390_31b07a.png",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/nuevo-gobierno-transicion-sirio-jura-cargo-cafe-fas/",
-        "date": "2025-03-31 13:10:28",
-        "sentiment_score": -0.04630483686923981
-    },
-    {
-        "title": "La Justicia declara a Marine Le Pen culpable de malversación de fondos",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2207287089.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/marine-le-pen-inhabilitada-elecciones-francia/",
-        "date": "2025-03-31 13:00:22",
-        "sentiment_score": -0.9245444349944592
-    },
-    {
-        "title": "En silencio: así dejó Marine Le Pen el tribunal en París antes de que se leyera su sentencia completa",
-        "image_url": "https://cnnespanol.cnn.com/wp-content/uploads/2025/03/gettyimages-2207287089_f9dfba.jpg?quality=100&strip=info",
-        "tags": [
-            "world"
-        ],
-        "link": "https://cnnespanol.cnn.com/video/marine-le-pen-silencio-tribunal-condena-francia-cafe-tv/",
-        "date": "2025-03-31 12:54:28",
-        "sentiment_score": -0.8421000204980373
-    },
-    {
         "title": "Si haces la declaración de la renta en Galicia, atento: estas son todas las deducciones de las que te puedes aprovechar",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/31/agenciatributaria-kNzG-U70689401310V3B-1200x840@diario_abc.JPG",
         "tags": [
@@ -425,66 +375,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-03-31/los-ferris-que-lleguen-a-barcelona-se-podran-conectar-a-una-red-electrica-para-no-consumir-combustibles-fosiles.html",
         "date": "2025-03-31 14:39:57",
         "sentiment_score": 0.4232510309666395
-    },
-    {
-        "title": "Illa anuncia un programa con 30 millones para atraer a investigadores “de excelencia” de Estados Unidos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YYMSICN3FBO2F4CAYNALRHJNNQ.jpg?auth=e35fa925a5678ba14cc2b6e55f491d342d46556abef41471653f6eac3732faa4&width=1200",
-        "tags": [
-            "barcelona",
-            "donald trump",
-            "generalitat cataluña",
-            "salvador illa",
-            "cataluña",
-            "investigación científica",
-            "inversión pública",
-            "universidades públicas",
-            "ciencia",
-            "medicina",
-            "estados unidos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-03-31/illa-anuncia-un-programa-con-30-millones-para-atraer-a-investigadores-de-excelencia-de-estados-unidos.html",
-        "date": "2025-03-31 14:09:28",
-        "sentiment_score": 0.28420547768473625
-    },
-    {
-        "title": "Susana Camarero defiende el presupuesto más social y la oposición critica que sea producto de la “extorsión de Vox”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CRGY65DMXNEBDJXJJFUNV3XZWM.JPG?auth=62c29d0ac76a7a6dec0f5f411a4fe2de5d75ee3ff94fef4dbedd4e9158281cfa&width=1200",
-        "tags": [
-            "francisco josé gan pampols",
-            "política",
-            "dana",
-            "presupuestos autonómicos",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "susana camarero",
-            "generalitat valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-03-31/susana-camarero-defiende-el-presupuesto-mas-social-y-la-oposicion-critica-que-sea-producto-de-la-extorsion-de-vox.html",
-        "date": "2025-03-31 13:40:52",
-        "sentiment_score": -0.5103579461574554
-    },
-    {
-        "title": "El penúltimo juicio del ‘caso Gürtel’ queda visto para sentencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JZSORDLPXNHYFBD5AD4GJO3YCY.jpg?auth=0bd52e4b6cb4b3b23dedfcfda03ce091108cf4f87e07dd52d91be982cb27abc4&width=1200",
-        "tags": [
-            "francisco correa",
-            "pablo crespo",
-            "corrupción",
-            "arganda del rey",
-            "ginés lópez rodríguez",
-            "corrupción política",
-            "justicia",
-            "investigación judicial",
-            "pp madrid",
-            "comunidad de madrid",
-            "delitos",
-            "caso gürtel",
-            "pp",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-03-31/el-penultimo-juicio-del-caso-gurtel-queda-visto-para-sentencia.html",
-        "date": "2025-03-31 13:30:54",
-        "sentiment_score": -0.8479021899402142
     },
     {
         "title": "La reventa del Barça-Real Madrid de Liga se dispara: mil euros por las entradas de Gol",
@@ -7452,5 +7342,382 @@ export default [
         "link": "https://2001online.com/migracion/plan-vuelta-a-la-patria-embajada-de-mexico-maneja-17-mil-solicitudes-de-migrantes-para-retornar-a-venezuela-20254316290",
         "date": "2025-04-03 20:29:00",
         "sentiment_score": -0.06000031530857086
+    },
+    {
+        "title": "La Fundación Hospitalarias acogerá la actividad asistencial de Hermanas Hospitalarias en España",
+        "image_url": "https://www.infobae.com/resizer/v2/QLGJQO4K3NFMNGHSO7T7NDMVJA.jpg?auth=5e14eda47003213f03c26c09c67f1e3a0b316f7ae947993e7adcbc220c04080e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/10/la-fundacion-hospitalarias-acogera-la-actividad-asistencial-de-hermanas-hospitalarias-en-espana/",
+        "date": "2025-04-04 02:03:51",
+        "sentiment_score": 0.3228914998471737
+    },
+    {
+        "title": "Clima en Madrid: cuál será la temperatura máxima y mínima este 4 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/EOTE65H7GFEVVBESP4C4ZGX44Y.jpg?auth=3bf240d0d27d35857a9a66d4759604233bdfba979ec86201117d6077cf5ec850&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/04/clima-en-madrid-cual-sera-la-temperatura-maxima-y-minima-este-4-de-abril/",
+        "date": "2025-04-04 01:30:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Daniela Ospina reveló el infierno que vivió en España y su nueva vida con Gabriel Coronel: “No sé cómo no caí en depresión”",
+        "image_url": "https://www.infobae.com/resizer/v2/G2447XRHNFCPLOII3M7VSYSF2Y.png?auth=21925d58994a8a6d6e79d6c686be873ce33f594808072878e40b6f3d3f87662d&height=327&smart=true&width=496",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/04/04/daniela-ospina-revelo-el-infierno-que-vivio-en-espana-y-su-nueva-vida-con-gabriel-coronel-no-se-como-no-cai-en-depresion/",
+        "date": "2025-04-04 01:25:58",
+        "sentiment_score": -0.8049763552844524
+    },
+    {
+        "title": "Fallece Miguel Beltrán, expresidente del Real Zaragoza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/fallece-miguel-beltran-expresidente-del-real-zaragoza/",
+        "date": "2025-04-04 01:18:34",
+        "sentiment_score": 0.7289770543575287
+    },
+    {
+        "title": "Granollers acogerá la Copa de la Reina del 14 al 16 de marzo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/granollers-acogera-la-copa-de-la-reina-del-14-al-16-de-marzo/",
+        "date": "2025-04-04 01:04:18",
+        "sentiment_score": 0.6296683829277754
+    },
+    {
+        "title": "Alfonso Díaz: “Alguna mujer fue acosada y es algo que no se puede producir”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/alfonso-diaz-alguna-mujer-fue-acosada-y-es-algo-que-no-se-puede-producir/",
+        "date": "2025-04-04 01:04:04",
+        "sentiment_score": -0.8498502224683762
+    },
+    {
+        "title": "Gilsanz: \"El mercado de enero es complicado, pero está ahí para aprovecharlo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/gilsanz-el-mercado-de-enero-es-complicado-pero-esta-ahi-para-aprovecharlo/",
+        "date": "2025-04-04 01:03:51",
+        "sentiment_score": 0.4076221063733101
+    },
+    {
+        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/KUA565M4GRBBFOFLAU563JDDFM.jpg?auth=5f9a0175810715b0ed38f273ee09ad653657abf189510b4432529495f9ee553d&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/04/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2025-04-04 01:00:42",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Igualdad, sobre el hijo de Juana Rivas: El Estado tiene la obligación de proteger al menor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/igualdad-sobre-el-hijo-de-juana-rivas-el-estado-tiene-la-obligacion-de-proteger-al-menor/",
+        "date": "2025-04-04 00:49:07",
+        "sentiment_score": 0.49679143726825714
+    },
+    {
+        "title": "Caen los contratos a personas con discapacidad un 0,8 %, la cifra más baja desde 2016",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/10/caen-los-contratos-a-personas-con-discapacidad-un-08-la-cifra-mas-baja-desde-2016/",
+        "date": "2025-04-04 00:48:54",
+        "sentiment_score": 0.5551632456481457
+    },
+    {
+        "title": "Trump presenta su «tarjeta dorada»: residencia en EE.UU. por cinco millones",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/04/gold-card-krOE-U70719234525w3F-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-presenta-tarjeta-dorada-residencia-eeuu-cinco-20250404012817-nt.html",
+        "date": "2025-04-03 23:28:17",
+        "sentiment_score": -0.06058785319328308
+    },
+    {
+        "title": "Planes para este fin de semana en Barcelona: monas de pascua y coches clásicos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SN6IGZKNAZDYJCEB6MEPU4N6IQ.jpg?auth=97cd2aa1bb5e2621ff33f43702467b8996731081c034dec3893bbc2a2c8c7739&width=1200",
+        "tags": [
+            "automóvil clásico",
+            "panaderías",
+            "coches",
+            "rallies",
+            "pascua",
+            "barcelona",
+            "pastelería",
+            "chocolate",
+            "gastronomía",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-04/planes-para-este-fin-de-semana-en-barcelona-monas-de-pascua-y-coches-clasicos.html",
+        "date": "2025-04-04 02:15:00",
+        "sentiment_score": 0.6952243968844414
+    },
+    {
+        "title": "Liga Endesa: Últimos 10 resultados del Real Madrid vs Barcelona (En vivo para Venezuela por Meridiano TV y Meridiano.net)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1743734331194.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/liga-endesa-ultimos-10-resultados-del-real-madrid-vs-barcelona-en-vivo-para-venezuela-por-meridiano-tv-y-meridiano-net--20254322120",
+        "date": "2025-04-04 02:12:00",
+        "sentiment_score": 0.25269169360399246
+    },
+    {
+        "title": "pablopablo nos habla de su primera vez en México, su nuevo disco y el consejo de su padre, el músico Jorge Drexler",
+        "image_url": "https://www.hola.com/horizon/landscape/046eebeea863-pablopablo-1-x-maxwell-granger.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20250404824318/pablopablo-primera-vez-mexico-nuevo-disco-festival-ceremonia-consejo-padre/",
+        "date": "2025-04-04 02:08:32",
+        "sentiment_score": 0.18844476342201233
+    },
+    {
+        "title": "Carin León confiesa que prepara una canción con Sergio Ramos: “Es un artistazo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QA3OLRUE3NDUTJYQ4KRZ6NFA64.jpg?auth=8bc5e52ebdda38a9c23794e6ea0485e19bd019db16976dcba42a97b2ed299c87&width=1200",
+        "tags": [
+            "famosos",
+            "sergio ramos",
+            "fútbol",
+            "latinoamérica",
+            "cantantes",
+            "música",
+            "real madrid",
+            "américa",
+            "méxico"
+        ],
+        "link": "https://elpais.com/mexico/2025-04-04/carin-leon-confiesa-que-prepara-una-cancion-con-sergio-ramos-es-un-artistazo.html",
+        "date": "2025-04-04 02:07:21",
+        "sentiment_score": 0.314631924033165
+    },
+    {
+        "title": "Alejandro Blanco apadrina la presentación del libro 'Fotoperiodismo deportivo' de Óscar J. Barroso",
+        "image_url": "https://www.infobae.com/resizer/v2/RZEWS3Y4TBDW3NS3C6OQKSJPBU.jpg?auth=dc62e8f9af3068fe32a3dcd072e370205d498ba1855d6c692d25b2dcaf66efd7&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/10/alejandro-blanco-apadrina-la-presentacion-del-libro-fotoperiodismo-deportivo-de-oscar-j-barroso/",
+        "date": "2025-04-04 01:34:15",
+        "sentiment_score": 0.17058457620441914
+    },
+    {
+        "title": "Más vigilancia ante el aumento de silicosis en los jóvenes",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/03/67eec8a982ae8.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/250404/1951497/vigilancia-auge-silicosis-jovenes.html",
+        "date": "2025-04-04 01:30:00",
+        "sentiment_score": -0.24450091645121574
+    },
+    {
+        "title": "Liga Endesa: ¿Cómo van Real Madrid y Barcelona en la tabla de posiciones antes del Clásico? (En Vivo para Venezuela por Meridiano TV y Meridiano.net)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1743732545167.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/liga-endesa-como-van-real-madrid-y-barcelona-en-la-tabla-de-posiciones-antes-del-clasico-en-vivo-para-venezuela-por-meridiano-tv-y-meridiano-net--2025432170",
+        "date": "2025-04-04 01:07:00",
+        "sentiment_score": 0.7379248887300491
+    },
+    {
+        "title": "Tini Stoessel se quebró en llanto al recibir un mensaje de Alejandro Sanz: “Mejoras cada día”",
+        "image_url": "https://www.infobae.com/resizer/v2/UFRNYI6ZOFBNLHQIOSSPE7S2RY.jpg?auth=ad80a1a99c2d8989ce42a944cdf33fc0c96c91390c3030854505c43e744c7961&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/04/04/tini-stoessel-se-quebro-en-llanto-al-recibir-un-mensaje-de-alejandro-sanz-mejoras-cada-dia/",
+        "date": "2025-04-04 01:01:03",
+        "sentiment_score": 0.7806574087589979
+    },
+    {
+        "title": "El cese de un marinero crea polémica en el Ejército: Su despido parado por la Justicia",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/whatsapp-image-2025-04-03-at-002307_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/cese-marinero-crea-polemica-ejercito-despido-parado-justicia",
+        "date": "2025-04-04 01:00:00",
+        "sentiment_score": -0.47827668115496635
+    },
+    {
+        "title": "Gorriones y nativos",
+        "image_url": "https://men.gsstatic.es/autor/alfredo-pastor-bodmer/12241.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/04/04/2359823/gorriones-nativos.html",
+        "date": "2025-04-04 02:00:01",
+        "sentiment_score": -0.33047134429216385
+    },
+    {
+        "title": "La nueva vida para Júlia Rita, primera de Balears en apnea y de vuelta al snipe",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3252221.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/04/04/2360037/nueva-vida-para-julia-rita-primera-balears-apnea-vuelta-snipe.html",
+        "date": "2025-04-04 02:00:01",
+        "sentiment_score": -0.06896430253982544
+    },
+    {
+        "title": "Ocho milicianos temerarios",
+        "image_url": "https://uh.gsstatic.es/autor/manuel-aguilera/10893.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/04/04/2359967/ocho-milicianos-temerarios.html",
+        "date": "2025-04-04 02:00:01",
+        "sentiment_score": -0.3771877884864807
+    },
+    {
+        "title": "Pèl de Gall regresa a ‘pleno pulmón’ y con mucha energía",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3252037.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/04/04/2359945/pel-gall-regresa-pleno-pulmon-mucha-energia.html",
+        "date": "2025-04-04 02:00:01",
+        "sentiment_score": 0.08866088092327118
+    },
+    {
+        "title": "La 080 más gamberra",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2025/04/03/67eef3ddb6112.r_d.590-1003-4024.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/250404/1952286/080-gamberra.html",
+        "date": "2025-04-04 01:30:00",
+        "sentiment_score": 0.32847288995981216
+    },
+    {
+        "title": "El arraigo inmigrante se multiplica por 7,65 en León en cuatro años",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/03/67eee986a726d.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/250404/1952086/arraigo-inmigrante-multiplica-7-65-leon-cuatro-anos.html",
+        "date": "2025-04-04 01:30:00",
+        "sentiment_score": -0.0029690489172935486
+    },
+    {
+        "title": "Abuela asesina a dos hombres en México: defendía su vivienda",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743732520792.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/abuela-asesina-a-dos-hombres-en-mexico-defendia-su-vivienda-20254322140",
+        "date": "2025-04-04 02:14:00",
+        "sentiment_score": -0.5777575969696045
+    },
+    {
+        "title": "Universidad Estatal de Colorado publica pronósticos de la temporada de huracanes: se esperan 17 tormentas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743732662625.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/universidad-estatal-de-colorado-publica-pronosticos-de-la-temporada-de-huracanes-se-esperan-17-tormentas-2025432290",
+        "date": "2025-04-04 02:09:00",
+        "sentiment_score": 0.28960854560136795
+    },
+    {
+        "title": "Cierran parcialmente la autopista Gran Cacique Guaicaipuro: reparan tubería de agua potable",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743731496889.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/cierran-parcialmente-la-autopista-gran-cacique-guaicaipuro-reparan-tuberia-de-agua-potable-20254321510",
+        "date": "2025-04-04 01:51:00",
+        "sentiment_score": 0.14568475633859634
+    },
+    {
+        "title": "Comisión Europea sobre aranceles de Trump: Son un duro golpe a la economía mundial",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743729020196.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/comision-europea-sobre-aranceles-de-trump-son-un-duro-golpe-a-la-economia-mundial-20254321310",
+        "date": "2025-04-04 01:31:00",
+        "sentiment_score": 0.0754135511815548
+    },
+    {
+        "title": "Fondo Monetario Internacional lanza advertencia tras aranceles de Trump: Son un riesgo significativo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743730421390.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/fondo-monetario-internacional-lanza-advertencia-tras-aranceles-de-trump-son-un-riesgo-significativo-20254321300",
+        "date": "2025-04-04 01:30:00",
+        "sentiment_score": -0.4913468584418297
+    },
+    {
+        "title": "Redadas ICE del 3 de abril: 174 extranjeros fueron deportados a México acusados de pertenecer a bandas criminales",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743729921098.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-3-de-abril-174-extranjeros-fueron-deportados-a-mexico-acusados-de-pertenecer-a-bandas-criminales--20254321300",
+        "date": "2025-04-04 01:30:00",
+        "sentiment_score": -0.3115978389978409
+    },
+    {
+        "title": "Tasas hipotecarias caen por los aranceles de Trump: precio promedio de vivienda ronda los $460.000",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743729634924.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/tasas-hipotecarias-caen-por-los-aranceles-de-trump-precio-promedio-de-vivienda-ronda-los-460-000-20254321180",
+        "date": "2025-04-04 01:18:00",
+        "sentiment_score": 0.530759759247303
+    },
+    {
+        "title": "Popular vegetal cuya agua es usada para bajar de peso: así se prepara",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743611100106.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/popular-vegetal-cuya-agua-es-usada-para-bajar-de-peso-asi-se-prepara-2025432150",
+        "date": "2025-04-04 01:05:00",
+        "sentiment_score": 0.41783162765204906
+    },
+    {
+        "title": "Carnet de la Patria por primera vez: seis pasos para solicitarlo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743691628981.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/carnet-de-la-patria-por-primera-vez-seis-pasos-para-solicitarlo--2025432100",
+        "date": "2025-04-04 01:00:00",
+        "sentiment_score": 0.27797997929155827
+    },
+    {
+        "title": "Juez federal plantea declarar en desacato al gobierno de Trump por deportaciones de migrantes a El Salvador",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743728254932.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/juez-federal-plantea-declarar-en-desacato-al-gobierno-de-trump-por-deportaciones-de-migrantes-a-el-salvador-2025432100",
+        "date": "2025-04-04 01:00:00",
+        "sentiment_score": -0.5940758232027292
     }
 ];
