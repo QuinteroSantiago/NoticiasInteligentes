@@ -2850,5 +2850,533 @@ export default [
         "link": "https://2001online.com/zona3d/belleza/crema-casera-de-dos-ingredientes-para-hidratar-tu-piel-mientras-duermes-20254820300",
         "date": "2025-04-09 00:30:00",
         "sentiment_score": 0.5667341984808445
+    },
+    {
+        "title": "África sólo aporta 1,6 % de la capacidad global de energía renovable pese a su potencial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/12/africa-solo-aporta-16-de-la-capacidad-global-de-energia-renovable-pese-a-su-potencial/",
+        "date": "2025-04-09 06:33:54",
+        "sentiment_score": 0.6989913806319237
+    },
+    {
+        "title": "Más de 26.000 cajas preservan en Córdoba la memoria documental de la UGT-Andalucía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/12/mas-de-26000-cajas-preservan-en-cordoba-la-memoria-documental-de-la-ugt-andalucia/",
+        "date": "2025-04-09 06:33:40",
+        "sentiment_score": 0.43011055141687393
+    },
+    {
+        "title": "Este es el precio de la gasolina este 9 de abril en Madrid, Barcelona y otras ciudades de España",
+        "image_url": "https://www.infobae.com/resizer/v2/7XOJMUAJWVHCDBKAXN6NK27ZAA.jpg?auth=7c9882c7442f5f20f7d8f37a5354b0b6033ce0bd54a9e621c68c3f07e1f8e730&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/09/este-es-el-precio-de-la-gasolina-este-9-de-abril-en-madrid-barcelona-y-otras-ciudades-de-espana/",
+        "date": "2025-04-09 06:31:04",
+        "sentiment_score": -0.022574491798877716
+    },
+    {
+        "title": "La Ertzaintza sigue investigando si la caída de un joven de un sexto piso fue accidental",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/12/la-ertzaintza-sigue-investigando-si-la-caida-de-un-joven-de-un-sexto-piso-fue-accidental/",
+        "date": "2025-04-09 06:19:11",
+        "sentiment_score": -0.6110977251082659
+    },
+    {
+        "title": "Illa empezará en Canarias la ronda de encuentros con presidentes autonómicos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/12/illa-empezara-en-canarias-la-ronda-de-encuentros-con-presidentes-autonomicos/",
+        "date": "2025-04-09 06:18:57",
+        "sentiment_score": 0.2932962439954281
+    },
+    {
+        "title": "La Toffana, la asesina de maltratadores en la vibrante Roma del XVII renace en una novela",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/la-toffana-la-asesina-de-maltratadores-en-la-vibrante-roma-del-xvii-renace-en-una-novela/",
+        "date": "2025-04-09 06:16:28",
+        "sentiment_score": -0.8864536406472325
+    },
+    {
+        "title": "Las reservas en casas rurales llegan al 80 % en una Semana Santa con buenas previsiones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/las-reservas-en-casas-rurales-llegan-al-80-en-una-semana-santa-con-buenas-previsiones/",
+        "date": "2025-04-09 06:16:11",
+        "sentiment_score": 0.7680570837110281
+    },
+    {
+        "title": "España suma 42.000 nuevos autónomos en 2024 y la mitad son de Andalucía y Madrid, según ATA",
+        "image_url": "https://www.infobae.com/resizer/v2/MGHAGPSYWZGR3KII3GRQBYEH4M.jpg?auth=79659c3e475fad34c96475f898d499fa2a10d9a31d3ccbc0076fa15bbd415b48&height=1131&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/12/espana-suma-42000-nuevos-autonomos-en-2024-y-la-mitad-son-de-andalucia-y-madrid-segun-ata/",
+        "date": "2025-04-09 06:04:19",
+        "sentiment_score": -0.08099305629730225
+    },
+    {
+        "title": "Duchas prohibidas hasta nuevo aviso en una residencia de ancianos infectada con legionela: “Mi madre no se ha duchado en cinco semanas”",
+        "image_url": "https://www.infobae.com/resizer/v2/347HSCEGDNFTPFENKX3ZFMPTEA.jpg?auth=f17458523688ebe7c652de7bc28e255c322f133e88751f907eb790f7246b50ec&height=2728&smart=true&width=4096",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/09/duchas-prohibidas-hasta-nuevo-aviso-en-una-residencia-de-ancianos-infectada-con-legionela-mi-madre-no-se-ha-duchado-en-cinco-semanas/",
+        "date": "2025-04-09 06:03:02",
+        "sentiment_score": 0.11311523616313934
+    },
+    {
+        "title": "Un Volkswagen Golf aparcado durante un año en un aeropuerto debe más de 200.000 euros: ya ha sido remolcado, pero nadie sabe de su dueño",
+        "image_url": "https://www.infobae.com/resizer/v2/RK64IR2K74URCIYTRICKAUN5CE.jpg?auth=386496c8a79297128f336dd1ae15ea368d131cd44a829d5dc823c2b2c1e0d1af&height=2560&smart=true&width=3840",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/09/un-volkswagen-golf-aparcado-durante-un-ano-en-un-aeropuerto-debe-mas-de-200000-euros-ya-ha-sido-remolcado-pero-nadie-sabe-de-su-dueno/",
+        "date": "2025-04-09 06:01:13",
+        "sentiment_score": 0.07795749232172966
+    },
+    {
+        "title": "Al menos 98 muertos y más de 150 heridos tras derrumbarse el techo de una discoteca en República Dominicana",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/gente/2025/04/09/discoteca-republica-dominican-U603399659753USH-U70775570536n6E-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/discoteca-republica-dominicana-20250409072131-nt.html",
+        "date": "2025-04-09 05:22:09",
+        "sentiment_score": -0.08727505803108215
+    },
+    {
+        "title": "Trump recibe el aval decisivo de la Justicia en las deportaciones",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/08/deportaciones-usa-RbEHPvQJ79TZ56N7mCtngEJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-recibe-aval-decisivo-justicia-deportaciones-20250408213110-nt.html",
+        "date": "2025-04-09 02:39:44",
+        "sentiment_score": -0.0346703827381134
+    },
+    {
+        "title": "A Estados Unidos se le acumulan los conflictos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/08/UKRAINE-SOLDADOS-ReTh4XG5EPCl7cs15Ql5uHJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/estados-unidos-acumulan-conflictos-20250408203838-nt.html",
+        "date": "2025-04-09 02:36:37",
+        "sentiment_score": -0.13705535233020782
+    },
+    {
+        "title": "Trump se abre a «acuerdos a medida por país», pero no detiene la guerra comercial global",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/09/trump-musculo-kubE-U707739464836dB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-abre-acuerdos-medida-pais-detiene-guerra-20250409042514-nt.html",
+        "date": "2025-04-09 02:25:15",
+        "sentiment_score": -0.10900457203388214
+    },
+    {
+        "title": "Última hora de la actualidad política, en directo | La oposición despliega una ofensiva parlamentaria contra María Jesús Montero",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T7CLSGSIZDGQZTCDTN2OQSMIFY.jpg?auth=4b102fe0328f12a65134c12b7c1a1979016d99d0bbbd187c62adc04504ba71a8&width=1200",
+        "tags": [
+            "debates parlamentarios",
+            "sumar",
+            "política",
+            "vox",
+            "partidos políticos",
+            "psoe",
+            "pp",
+            "alberto núñez feijóo",
+            "gobierno de españa",
+            "congreso diputados",
+            "españa",
+            "pedro sánchez",
+            "gobierno de coalición",
+            "santiago abascal",
+            "gobierno",
+            "xv legislatura españa",
+            "senado",
+            "legislaturas políticas",
+            "políticos",
+            "maría jesús montero",
+            "yolanda díaz"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/ultima-hora-de-la-actualidad-politica-en-directo.html",
+        "date": "2025-04-09 05:42:41",
+        "sentiment_score": -0.7825322058051825
+    },
+    {
+        "title": "Los socialistas atribuyen la movilización de solo unas docenas de bomberos el día de la dana al recorte presupuestario",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LK2ACKW62JFPZFRTLXLZB7XDZQ.JPG?auth=b5bc2092d845c1117acbf816656cfd04f24283cddadb36281fa35d810873dab0&width=1200",
+        "tags": [
+            "generalitat valenciana",
+            "comunidad valenciana",
+            "bomberos",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-09/los-socialistas-atribuyen-la-movilizacion-de-solo-unas-docenas-de-bomberos-el-dia-de-la-dana-al-recorte-presupuestario.html",
+        "date": "2025-04-09 05:35:15",
+        "sentiment_score": -0.8918587798252702
+    },
+    {
+        "title": "España fue el segundo país de la eurozona donde más se encareció la vivienda el año pasado",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VSOFMH6GIVGCXA3QIHSYONZP44.jpg?auth=a869fa7924e82553f4ed5f36b3bd08eee451f45b3ad67f2d308521e889014a29&width=1200",
+        "tags": [
+            "españa",
+            "legislación vivienda",
+            "nueva vivienda",
+            "mercado inmobiliario",
+            "sector inmobiliario",
+            "unión europea",
+            "precio vivienda",
+            "vivienda",
+            "construcción viviendas",
+            "portugal",
+            "zona euro",
+            "viviendas alquiler",
+            "estadísticas",
+            "eurostat",
+            "política vivienda",
+            "economía"
+        ],
+        "link": "https://elpais.com/economia/2025-04-09/espana-fue-el-segundo-pais-de-la-eurozona-donde-mas-se-encarecio-la-vivienda-el-ano-pasado.html",
+        "date": "2025-04-09 03:45:00",
+        "sentiment_score": -0.10329680889844894
+    },
+    {
+        "title": "El destino incierto del barco hacia Estados Unidos cargado con un millón de euros en aceite de Lleida",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LAEG25NH3VHY5NGAHGQAE5V3FQ.jpg?auth=c061d21446dc194522d41ad1784da5764a88e0c568e6f9e67aa64c4ac8e4288a&width=1200",
+        "tags": [
+            "estados unidos",
+            "aranceles",
+            "salvador illa",
+            "cataluña",
+            "donald trump",
+            "guerra comercial",
+            "aceite",
+            "lleida",
+            "exportaciones",
+            "generalitat cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-09/el-destino-incierto-del-barco-hacia-estados-unidos-cargado-con-un-millon-de-euros-en-aceite-de-lleida.html",
+        "date": "2025-04-09 03:45:00",
+        "sentiment_score": -0.8864495633170009
+    },
+    {
+        "title": "Daniel Campos, autor de ‘Guerrilla Lavapiés’: “Los policías infiltrados acaban, en cierto modo, tocados”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HMEUZ2NV7VEOREWBOLJHQWSHTQ.JPG?auth=a0858ca33c8213544e114281cef5ac3bead8b2217b29130e563c86343bc1b9b3&width=1200",
+        "tags": [
+            "españa",
+            "literatura",
+            "josé maría aznar",
+            "libros",
+            "policía nacional",
+            "ministerio del interior",
+            "movimientos sociales",
+            "pablo iglesias",
+            "periodismo",
+            "polémicas"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/daniel-campos-autor-de-guerrilla-lavapies-los-policias-infiltrados-acaban-en-cierto-modo-tocados.html",
+        "date": "2025-04-09 03:40:00",
+        "sentiment_score": -0.6659194715321064
+    },
+    {
+        "title": "Los socios de izquierdas enseñan los dientes con inmigración y vivienda tras el acercamiento de PSOE y PP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SFMXO6OG66NLFAKLGO3PCCCSSI.jpg?auth=ff80949b8afaf496d832a7e39184beee1c79a247249409eb5174d014f40794c7&width=1200",
+        "tags": [
+            "vox",
+            "inmigración irregular",
+            "política",
+            "españa",
+            "inmigración",
+            "partidos políticos",
+            "pp",
+            "bildu",
+            "pactos políticos",
+            "regularización inmigrantes",
+            "izquierda socialista",
+            "juntsxcat",
+            "erc",
+            "derecha alternativa",
+            "gobierno",
+            "francina armengol",
+            "grupos parlamentarios",
+            "mesa congreso",
+            "vivienda",
+            "psoe",
+            "leyes ordinarias",
+            "ilp",
+            "leyes orgánicas",
+            "congreso diputados",
+            "viviendas alquiler"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/los-socios-de-izquierdas-ensenan-los-dientes-con-inmigracion-y-vivienda-tras-el-acercamiento-de-psoe-y-pp.html",
+        "date": "2025-04-09 03:40:00",
+        "sentiment_score": 0.2512131333351135
+    },
+    {
+        "title": "El derrumbe de un puente en Soria obliga a rodeos de 45 minutos: “Es como si el otro lado fuese otro continente”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GICT5SOA2ZHNTGAUHRVJVB3FX4.jpg?auth=65ed688c0c80cedbb89ac5f0aa322c3f8f5f556c833cd4b1c4d40ebab1d752de&width=1200",
+        "tags": [
+            "españa",
+            "soria",
+            "el tiempo",
+            "puentes históricos",
+            "río duero",
+            "españa vacía",
+            "inundaciones",
+            "castilla y león",
+            "puentes",
+            "soria ¡ya!"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/el-hundimiento-del-puente-de-san-esteban-de-gormaz-obliga-a-rodeos-de-45-minutos-es-como-si-el-otro-lado-fuese-otro-continente.html",
+        "date": "2025-04-09 03:40:00",
+        "sentiment_score": -0.8646299047395587
+    },
+    {
+        "title": "El PP enfría su disposición al acuerdo sobre los aranceles aunque evita romper el diálogo con el Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CS3J654BNRDKXMJFV4CURY7SQA.jpg?auth=0f52d2e866bec82d712f85592e364390e2527cde1cf58acddb9b3c46ac24f1b9&width=1200",
+        "tags": [
+            "españa",
+            "mónica garcía gómez",
+            "economía",
+            "aranceles",
+            "estados unidos",
+            "gobierno de españa",
+            "donald trump",
+            "sumar",
+            "comercio",
+            "carlos cuerpo",
+            "psoe",
+            "unión europea",
+            "diana morant ripoll",
+            "pp",
+            "pilar alegría",
+            "fernando grande-marlaska"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/el-pp-enfria-su-disposicion-al-acuerdo-sobre-los-aranceles-aunque-evita-romper-el-dialogo-con-el-gobierno.html",
+        "date": "2025-04-09 03:40:00",
+        "sentiment_score": -0.8212327696382999
+    },
+    {
+        "title": "El Gobierno apura los plazos para la acogida del millar de menores refugiados ordenada por el Supremo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IB3BZ2WDJL552DAE2QEGFDTQRM.jpg?auth=cfb2bfc21d66fdab6e883f25598c392f63566ca552d46d8821faaafaf8a0f8d9&width=1200",
+        "tags": [
+            "españa",
+            "pateras canarias",
+            "tribunal superior",
+            "tribunal supremo",
+            "acogida niños",
+            "menores migrantes",
+            "menores"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/el-gobierno-apura-los-plazos-para-la-acogida-del-millar-de-menores-refugiados-ordenada-por-el-supremo.html",
+        "date": "2025-04-09 03:40:00",
+        "sentiment_score": 0.129700168967247
+    },
+    {
+        "title": "Sánchez en Vietnam: “En las guerras comerciales pierden todos, sobre todo las clases medias y los trabajadores”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/55R2BV6Q4ANB3QKEJJEZ2FILP4.jpg?auth=f556a13a1f7f92ce441b5633eb8c708371df989d238a8a7ea8cf18f4f69495fb&width=1200",
+        "tags": [
+            "donald trump",
+            "economía",
+            "gobierno",
+            "china",
+            "españa",
+            "vietnam",
+            "aranceles",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/sanchez-en-vietnam-en-las-guerras-comerciales-pierden-todos-sobre-todo-las-clases-medias-y-los-trabajadores.html",
+        "date": "2025-04-09 03:22:16",
+        "sentiment_score": -0.6403848826885223
+    },
+    {
+        "title": "Las portadas del miércoles: \"Obligados a otro milagro\" o \"Humillados\", sin piedad con el Real Madrid",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2024-2025/portadas-prensa-miercoles-9-de-abril-marca-as-mundo-deportivo-sport_sto23171500/story.shtml",
+        "date": "2025-04-09 06:20:18",
+        "sentiment_score": -0.9393496168777347
+    },
+    {
+        "title": "'El Hormiguero' y 'La Revuelta' bajan su media pero mantienen la distancia",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/04/09/67f60e37b60d5.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.lavanguardia.com/television/20250409/10567366/hormiguero-revuelta-bajan-media-mantienen-distancia.html",
+        "date": "2025-04-09 06:17:57",
+        "sentiment_score": -0.44040315970778465
+    },
+    {
+        "title": "Dos exresponsables de la candidatura del Mundial, sobre la exclusión de Vigo: errónea, engañosa, sin evidencia y 'copia pega'",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b597dad0-f9b3-48e0-8a55-c4506af74f20_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/deportes/2025/04/09/exresponsables-candidatura-mundial-exclusion-vigo-116197381.html",
+        "date": "2025-04-09 06:17:49",
+        "sentiment_score": -0.379302516579628
+    },
+    {
+        "title": "Desde Australia a Huelva: 16.505 km para jugar la Gañafote Cup",
+        "image_url": "https://static.grupojoly.com/clip/60a185a5-8d7c-4d38-b547-63afe740e752_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.huelvainformacion.es/deportes/australia-huelva-16-505-km_0_2003692206.html",
+        "date": "2025-04-09 06:10:24",
+        "sentiment_score": 0.26382046192884445
+    },
+    {
+        "title": "La exposición catalana a los aranceles trumpistas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/31/politica/920667952_14049226_1706x960.jpg?contentId=920667952",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20250409/la-exposicion-catalana-los-aranceles-trumpistas/1003742647599_0.html",
+        "date": "2025-04-09 06:09:58",
+        "sentiment_score": -0.004094898700714111
+    },
+    {
+        "title": "Tenía 28 años, dijo no a Napoleón y murió con un fusil: la historia del cántabro que desafió al imperio",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/04/26/2024042617414014642.jpg",
+        "tags": [
+            "camargo"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/camargo/pedro-velarde-heroe-muriedas-que-encendio-chispa-2-mayo/20250409080553557067.html",
+        "date": "2025-04-09 06:05:53",
+        "sentiment_score": -0.5180390253663063
+    },
+    {
+        "title": "Pequeños pero históricos pueblos que presumen de tener dos castillos",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2022/11/15/45F4B585-4143-43DA-8D92-29D3A1A63AA8/69.jpg?crop=700%2C394%2Cx0%2Cy26&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "castilla y león"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/pequenos-pero-historicos-pueblos-que-presumen-tener-dos-castillos_2025040967f60cf2eec2d300015fe217.html",
+        "date": "2025-04-09 06:00:18",
+        "sentiment_score": -0.5659087672829628
+    },
+    {
+        "title": "La mejor librería de cómics del mundo se encuentra en Barcelona (según Chris Ware)",
+        "image_url": "https://static1.ara.cat/clip/447eab9d-189e-4011-bdcc-66edee5d509e_16-9-aspect-ratio_default_0_x1919y849.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/mejor-libreria-comics-mundo-encuentra-barcelona-chris-ware_130_5342537.html",
+        "date": "2025-04-09 06:32:06",
+        "sentiment_score": -0.07511231303215027
+    },
+    {
+        "title": "“La estupidez es un enemigo más peligroso que la maldad”, decía Dietrich Bonhoeffer, mártir de la resistencia antinazi",
+        "image_url": "https://www.infobae.com/resizer/v2/PTZZAFLWEZEGVBQCLJFNSD5VII.jpg?auth=a530486d44c990b835eb4ced0ae68e425c4546525f22779ee2c50118224fc1a0&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/sociedad/2025/04/09/la-estupidez-es-un-enemigo-mas-peligroso-que-la-maldad-decia-dietrich-bonhoeffer-martir-de-la-resistencia-antinazi/",
+        "date": "2025-04-09 06:27:25",
+        "sentiment_score": -0.8852156549692154
+    },
+    {
+        "title": "El 'territorio cofrade' de un papón leonés: «Tenía claro cómo sería mi casa»",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/03/27/IMG_7677--366x256.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/semana-santa/casa-convertida-museo-semana-santa-leon-andalucia-20250409081913-nt.html",
+        "date": "2025-04-09 06:19:13",
+        "sentiment_score": 0.197376050055027
+    },
+    {
+        "title": "Canarias concentra avisos por viento, lluvia y tormenta debido a Olivier, con estabilidad en el resto del país",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250409081657_120.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-abril-2025-20250409081657.html",
+        "date": "2025-04-09 06:16:57",
+        "sentiment_score": 0.03146328032016754
+    },
+    {
+        "title": "Decreto de Emergencia Económica Nacional: Maduro ofrece trato especial a los venezolanos que regresan y quieren invertir",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744169546385.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/decreto-de-emergencia-economica-nacional-maduro-ofrece-trato-especial-a-los-venezolanos-que-regresan-y-quieren-invertir-20254823360",
+        "date": "2025-04-09 03:36:00",
+        "sentiment_score": 0.2637908533215523
+    },
+    {
+        "title": "Ministerio Público imputará a conductor de ambulancia que arrolló a mujer junto a su hija en Caracas: iba en sentido contrario",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744167145009.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/ministerio-publico-imputara-a-conductor-de-ambulancia-que-arrollo-a-mujer-junto-a-su-hija-en-caracas-iba-en-sentido-contrario-20254823360",
+        "date": "2025-04-09 03:36:00",
+        "sentiment_score": -0.07374036312103271
+    },
+    {
+        "title": "Semana Santa 2025: en estos destinos playeros de Venezuela se agotó la ocupación en posadas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744142847363.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/semana-santa-2025-en-estos-destinos-playeros-de-venezuela-se-agoto-la-ocupacion-en-posadas-20254823310",
+        "date": "2025-04-09 03:31:00",
+        "sentiment_score": -0.31945423036813736
+    },
+    {
+        "title": "Los números de teléfono activos del Sistema Patria: funcionan para mensajería",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744141709053.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/los-numeros-de-telefono-activos-del-sistema-patria-funcionan-para-mensajeria-2025482300",
+        "date": "2025-04-09 03:00:00",
+        "sentiment_score": 0.12423059344291687
+    },
+    {
+        "title": "En video: Dayana Mendoza critica la veneración de José Gregorio Hernández",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744142589703.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/en-video-dayana-mendoza-critica-la-veneracion-de-jose-gregorio-hernandez-2025482300",
+        "date": "2025-04-09 03:00:00",
+        "sentiment_score": -0.8350886525586247
+    },
+    {
+        "title": "Luego de la firma del Decreto de Emergencia Económica Nacional cuál es el siguiente paso para su aplicación",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744166812216.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/luego-de-la-firma-del-decreto-de-emergencia-economica-nacional-cual-es-el-siguiente-paso-para-su-aplicacion-20254822520",
+        "date": "2025-04-09 02:52:00",
+        "sentiment_score": 0.13716521486639977
     }
 ];
