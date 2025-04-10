@@ -4430,5 +4430,502 @@ export default [
         "link": "https://2001online.com/servicios/semana-santa-conoce-los-requisitos-para-viajar-al-exterior-con-menores-de-edad-durante-el-asueto-2025492120",
         "date": "2025-04-10 01:02:00",
         "sentiment_score": -0.11438016965985298
+    },
+    {
+        "title": "Amortiguar la incertidumbre y atraer inversiones, claves de la visita de Sánchez a China",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/amortiguar-la-incertidumbre-y-atraer-inversiones-claves-de-la-visita-de-sanchez-a-china/",
+        "date": "2025-04-10 06:31:18",
+        "sentiment_score": 0.17214693129062653
+    },
+    {
+        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 10 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/V6XUSJC3MBAI5HTKHKI7YJQXKI.jpg?auth=3385ba4e330e3a0960a653d9737049bdf82767bc7b02055c85e49abe808d3117&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/10/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-10-de-abril/",
+        "date": "2025-04-10 06:31:06",
+        "sentiment_score": -0.17097257822752
+    },
+    {
+        "title": "El exnúmero 2 de Emergencias en la Generalitat, a las 14.44 horas del 29O: \"Los barrancos están a punto de colapsar\"",
+        "image_url": "https://www.infobae.com/resizer/v2/U2HMULIWVNFPBPFEVBQ2EVXJ5E.jpg?auth=98fe4342c2f20d20896e54f8a4ec0fcc8206f5d64e0761f9a1339bcb2fc0c2a2&height=1239&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/el-exnumero-2-de-emergencias-en-la-generalitat-a-las-1444-horas-del-29o-los-barrancos-estan-a-punto-de-colapsar/",
+        "date": "2025-04-10 06:30:55",
+        "sentiment_score": -0.7709418293088675
+    },
+    {
+        "title": "Un tsunami de mentiras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/un-tsunami-de-mentiras/",
+        "date": "2025-04-10 06:30:39",
+        "sentiment_score": -0.8774985447525978
+    },
+    {
+        "title": "Bill Gates revela que sus hijos solo heredarán el 1% de su fortuna: “Quiero darles la oportunidad”",
+        "image_url": "https://www.infobae.com/resizer/v2/ODFB4NGSTZBKRCHDEXM3DI7Q3M.jpg?auth=fb2fc984c89314afa2060468d522bfc3e59b4b9bdcfed324c58c5dea2eb0cdfd&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/10/bill-gates-revela-que-sus-hijos-solo-heredaran-el-1-de-su-fortuna-quiero-darles-la-oportunidad/",
+        "date": "2025-04-10 06:26:11",
+        "sentiment_score": -0.12841206789016724
+    },
+    {
+        "title": "El agua micelar no es solo para desmaquillarte: todos los usos que puedes darle para limpiar, según una experta",
+        "image_url": "https://www.infobae.com/resizer/v2/HLLTUEAYDFHWLN7L5POCKVVKWY.jpg?auth=39bcdea70fe199af841f986038245f43b825232aa686982148be72c389218d60&height=4480&smart=true&width=6720",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/10/el-agua-micelar-no-es-solo-para-desmaquillarte-todos-los-usos-que-puedes-darle-para-limpiar-segun-una-experta/",
+        "date": "2025-04-10 06:17:53",
+        "sentiment_score": 0.4582760389894247
+    },
+    {
+        "title": "La Bolsa de Taipéi sube un 9,25 %, el mayor salto de su historia, tras pausa arancelaria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/la-bolsa-de-taipei-sube-un-925-el-mayor-salto-de-su-historia-tras-pausa-arancelaria/",
+        "date": "2025-04-10 06:16:31",
+        "sentiment_score": 0.5533302128314972
+    },
+    {
+        "title": "La ciudad de Osaka, dividida ante el gran flujo turístico que traerá su Expo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/la-ciudad-de-osaka-dividida-ante-el-gran-flujo-turistico-que-traera-su-expo/",
+        "date": "2025-04-10 06:16:15",
+        "sentiment_score": -0.6269527189433575
+    },
+    {
+        "title": "TSMC, el mayor fabricante de chips del mundo, logra ventas récord en el primer trimestre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/tsmc-el-mayor-fabricante-de-chips-del-mundo-logra-ventas-record-en-el-primer-trimestre/",
+        "date": "2025-04-10 06:15:58",
+        "sentiment_score": 0.7412601858377457
+    },
+    {
+        "title": "El Gran Museo Egipcio ya tiene fecha de apertura después de más de 20 años de obras: descubre todos sus secretos",
+        "image_url": "https://www.infobae.com/resizer/v2/RCEPJGT2DNAZBHNO5NK7QLG64Q.jpeg?auth=aacb5fa5f00ddcc2cdf966a3a5bf3f2dc16fa5e3e9b8939b56822497687e377f&height=2999&smart=true&width=4004",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2025/04/10/el-gran-museo-egipcio-ya-tiene-fecha-de-apertura-despues-de-mas-de-20-anos-de-obras-descubre-todos-sus-secretos/",
+        "date": "2025-04-10 06:15:21",
+        "sentiment_score": 0.4509279727935791
+    },
+    {
+        "title": "Oughourlian adelantará a mayo la junta de Prisa para frenar las maniobras de los accionistas afines a Moncloa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/10/Joughourlian-RfHK2w4eZLkA46a9nzya0kL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/oughourlian-adelantara-mayo-junta-prisa-frenar-maniobras-20250410194416-nt.html",
+        "date": "2025-04-10 02:48:48",
+        "sentiment_score": -0.10246959328651428
+    },
+    {
+        "title": "Los insultos de Trump hunden la imagen de EE.UU. en el mundo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/10/trump_20250409212640-RAnV8a1KmgwpCQIQ12CVXaJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/insultos-trump-hunden-imagen-eeuu-mundo-20250410043330-nt.html",
+        "date": "2025-04-10 02:33:30",
+        "sentiment_score": -0.11926507949829102
+    },
+    {
+        "title": "El petróleo cae un 14% y el gas un 18% ante la desaceleración mundial",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/09/petroleo-RFVz84NCL5JoyXipuvrTXGO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/petroleo-cae-gas-ante-desaceleracion-mundial-20250409200729-nt.html",
+        "date": "2025-04-10 02:32:03",
+        "sentiment_score": -0.1202351301908493
+    },
+    {
+        "title": "Sánchez ve el giro de Trump como “una puerta a la negociación”, pero defiende su viaje a China",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/U3SEXEWHEFCDDJKHHOWEGNYBBI.jpg?auth=9c515f6faa114fb12f63fa8ad661f844c7caa2fabb49055dbef01251e64539ef&width=1200",
+        "tags": [
+            "china",
+            "aranceles",
+            "gobierno de españa",
+            "estados unidos",
+            "guerra comercial",
+            "pedro sánchez",
+            "vietnam",
+            "españa",
+            "donald trump"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/sanchez-ve-el-giro-de-trump-como-una-puerta-a-la-negociacion-pero-defiende-su-viaje-a-china.html",
+        "date": "2025-04-10 06:29:02",
+        "sentiment_score": 0.5530086345970631
+    },
+    {
+        "title": "Una incidencia en la infraestructura obliga a circular por vía única en Castellbisbal (Barcelona)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/J3A3AUX65XU3CSIZLITVYSP52U.jpg?auth=6193a40f968ceb352f485bdf4888f678f645ebdd98d1d1ea77e3e2f3d51f8838&width=1200",
+        "tags": [
+            "óscar puente santiago",
+            "adif",
+            "cercanías",
+            "castellbisbal",
+            "renfe",
+            "generalitat cataluña",
+            "barcelona",
+            "cataluña",
+            "huelgas",
+            "trenes"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/una-incidencia-en-la-infraestructura-obliga-a-circular-por-via-unica-en-castellbisbal-barcelona.html",
+        "date": "2025-04-10 05:40:35",
+        "sentiment_score": -0.7361735962331295
+    },
+    {
+        "title": "Amnistía Internacional denuncia que la Generalitat vulneró el derecho a la vida durante la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KSONAOGIAZHRJH3NI5IV4QKUQ4.JPG?auth=9d506e3477bbafe5ad7250e7b78376518ab613c39340df5f7756dd7ca4524772&width=1200",
+        "tags": [
+            "amnistía",
+            "carlos mazón",
+            "comunidad valenciana",
+            "generalitat valenciana",
+            "catástrofes"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-10/amnistia-internacional-denuncia-que-la-generalitat-vulnero-el-derecho-a-la-vida-durante-la-dana.html",
+        "date": "2025-04-10 05:35:00",
+        "sentiment_score": -0.8337021786719561
+    },
+    {
+        "title": "Adiós a Vicent Aleixandre, el activista cultural y social que ayudaba a salvar vidas en el mar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SJBZ6IXN7BGHTBY2UM4YJ72G6Q.jpg?auth=542f963bb81e52d63c82614250ebe633e7bca5001b3a3f9fa96e42de33b24ab3&width=1200",
+        "tags": [
+            "migrantes",
+            "inmigrantes",
+            "comunidad valenciana",
+            "ong",
+            "castellón",
+            "obituarios",
+            "salvamento marítimo",
+            "humanismo"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-10/adios-a-vicent-aleixandre-el-activista-cultural-y-social-que-ayudaba-a-salvar-vidas-en-el-mar.html",
+        "date": "2025-04-10 05:28:06",
+        "sentiment_score": 0.2832261174917221
+    },
+    {
+        "title": "“Mi hija y mi marido han desaparecido”: la angustia en los últimos ‘whatsapps’ de las víctimas de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/I6GH5HEG3ZG7FBIU7NYYRUQ4LE.jpg?auth=2e60d96188dca4d5bf3567c5ebaa8da42b553f2fcee17c6c1d31fbab6bec6aa8&width=1200",
+        "tags": [
+            "españa",
+            "catástrofes",
+            "investigación judicial",
+            "carlos mazón",
+            "inundaciones dana octubre 2024",
+            "catarroja",
+            "víctimas",
+            "inundaciones",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/mi-hija-y-mi-marido-han-desaparecido-la-angustia-en-los-ultimos-whatsapps-de-las-victimas-de-la-dana.html",
+        "date": "2025-04-10 03:40:00",
+        "sentiment_score": -0.7536824252456427
+    },
+    {
+        "title": "El PP y el decreto de los aranceles: ¿un nuevo palacete del PNV a la vista?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/A7EN4QX3JFF4PORSBJBLHNUQJU.jpeg?auth=a6155876bf87820fee8183e36cf360fb3255c80a78e373913eb2e90063050ab1&width=1200",
+        "tags": [
+            "pp",
+            "españa",
+            "economía",
+            "aranceles",
+            "estados unidos",
+            "carlos cuerpo",
+            "gobierno"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/el-pp-y-el-decreto-de-los-aranceles-un-nuevo-palacete-del-pnv-a-la-vista.html",
+        "date": "2025-04-10 03:40:00",
+        "sentiment_score": -0.7364416159689426
+    },
+    {
+        "title": "Illa asume en Milán la presidencia del `lobby’ de los Cuatro Motores de Europa con el foco en los aranceles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7YHMOINLDB2HR4BJUPBJVC7TDY.jpg?auth=c9fb34f2f4578c2a883d5bc316f2c13a7b5388a9693662651d3149f054275406&width=1200",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "francia",
+            "milán",
+            "alemania"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/illa-asume-en-milan-la-presidencia-del-lobby-de-los-cuatro-motores-de-europa-con-el-foco-en-los-aranceles.html",
+        "date": "2025-04-10 03:20:00",
+        "sentiment_score": 0.00546746701002121
+    },
+    {
+        "title": "La CUP vuelve al tablero de juego",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RWW5ZJOJH52LXKZONGTNQL3EN4.jpg?auth=8e1aa165dd66877faff7489e0a4f39295dd36bdfb80cfe53ee5cb7d712c5af1b&width=1200",
+        "tags": [
+            "parlament cataluña",
+            "cataluña",
+            "política",
+            "vivienda",
+            "independentismo",
+            "salvador illa",
+            "viviendas alquiler",
+            "psc",
+            "cup"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/la-cup-vuelve-al-tablero-de-juego.html",
+        "date": "2025-04-10 03:15:00",
+        "sentiment_score": 0.08767169713973999
+    },
+    {
+        "title": "Los pisos protegidos de Cataluña no dejarán de serlo mientras estén en una zona tensionada",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3XIZOR4YTVE23FZGAMLCD2MZCE.jpg?auth=f839d9c9395b64b8de405a776fbf2dc9f9c94c35d53b28108996d07e96100caf&width=1200",
+        "tags": [
+            "vivienda",
+            "psc",
+            "parlament cataluña",
+            "erc",
+            "decretos",
+            "barcelona",
+            "precio vivienda",
+            "viviendas alquiler temporada",
+            "en comú podem",
+            "cataluña",
+            "incasòl",
+            "salvador illa",
+            "vpo",
+            "viviendas vacías",
+            "legislación vivienda",
+            "cup",
+            "viviendas alquiler",
+            "sílvia paneque",
+            "decretos autonómicos"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/los-pisos-protegidos-de-cataluna-no-dejaran-de-serlo-mientras-esten-en-una-zona-tensionada.html",
+        "date": "2025-04-10 03:15:00",
+        "sentiment_score": 0.2569829449057579
+    },
+    {
+        "title": "La mejor paella, la de Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HV7D4W2KQYGH5GAMV42ZO4CPYE.jpg?auth=558725037c7216fa01f70d36f5130d1cdf970cd7b8d6e80fa731429dd6454a1c&width=1200",
+        "tags": [
+            "inmigración",
+            "madrid",
+            "comida típica",
+            "paella",
+            "roma",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-04-10/la-mejor-paella-la-de-madrid.html",
+        "date": "2025-04-10 03:00:00",
+        "sentiment_score": -0.057922959327697754
+    },
+    {
+        "title": "El Congreso debate hoy el decreto para reubicar a los menores migrantes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cbfe43e7-8a5c-4fc7-8614-092ca967c21d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/sociedad/2025/04/10/congreso-debate-hoy-decreto-reubicar-116236479.html",
+        "date": "2025-04-10 06:29:46",
+        "sentiment_score": -0.0020260512828826904
+    },
+    {
+        "title": "Arde un coche en Sant Andreu de la Barca al amanecer",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/04/10/sucesos/1003742647965_14402520_1706x960.jpg?contentId=1003742647965",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20250410/arde-un-coche-en-sant-andreu-de-la-barca-al-amanecer/1003742647964_0.html",
+        "date": "2025-04-10 06:24:44",
+        "sentiment_score": -0.5563185475766659
+    },
+    {
+        "title": "La mejor fabada del mundo de 2025 (y otras noticias gastro)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/225a844a-a23c-4f2b-8486-d8d86acd3130_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/20250410/mejor-fabada-mundo-2025-casa-moran-aller-asturias-116141591",
+        "date": "2025-04-10 06:19:57",
+        "sentiment_score": 0.7183026298880577
+    },
+    {
+        "title": "Nueva mañana complicada en cuatro líneas de Cercanías",
+        "image_url": "https://static1.ara.cat/clip/3f4755c4-b637-40d0-b33b-274433b8544b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/sociedad/movilidad/nueva-manana-complicada-cuatro-lineas-cercanias_1_5343758.html",
+        "date": "2025-04-10 06:19:14",
+        "sentiment_score": -0.8891130238771439
+    },
+    {
+        "title": "Barcelona se prepara para las lluvias intensas en Semana Santa: el Meteocat avisa de cuáles serán los días clave",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/31/672342bb4fd93.r_d.2453-3155.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20250410/1002442690/barcelona-prepara-lluvias-intensas-semana-santa-meteocat-avisa-cuales-seran-dias-clave-dct.html",
+        "date": "2025-04-10 06:18:24",
+        "sentiment_score": 0.21484389901161194
+    },
+    {
+        "title": "El juguete que causó furor a finales del siglo XX que es posible que tengas en casa y que puede solucionarte la Semana Santa: un buen pellizco de dinero",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/04/10/67f75cfa4240d.jpeg",
+        "tags": [
+            "vivir"
+        ],
+        "link": "https://www.cope.es/actualidad/vivir/noticias/juguete-causo-furor-finales-siglo-xx-posible-tengas-casa-solucionarte-semana-santa-buen-pellizco-dinero-20250410_3131166.html",
+        "date": "2025-04-10 06:16:25",
+        "sentiment_score": -0.0096416175365448
+    },
+    {
+        "title": "Una incidencia en la infraestructura afecta los trenes en la estación de Fabra i Puig (Barcelona)",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250410081406_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-incidencia-infraestructura-afecta-trenes-estacion-fabra-puig-barcelona-20250410081406.html",
+        "date": "2025-04-10 06:14:06",
+        "sentiment_score": -0.8691204618662596
+    },
+    {
+        "title": "Las portadas del jueves: \"Lanzados a semis\" y \"festival\", la prensa se rinde a la exhibición culé",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/02/27/image-1edaa509-4794-418c-9a3a-abbdcd00c010-85-2560-1440.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/champions-league/2024-2025/portadas-prensa-jueves-10-de-abril-marca-as-mundo-deportivo-sport_sto23171844/story.shtml",
+        "date": "2025-04-10 06:09:49",
+        "sentiment_score": -0.8440608661621809
+    },
+    {
+        "title": "Todo sobre la nueva tasa de basuras que entra en vigor hoy",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/04/tasas-a-la-recogida-de-basura.jpeg",
+        "tags": [
+            "economía y finanzas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/todo-que-debes-saber-sobre-nueva-tasa-basuras-entra-vigor-hoy-5695994/",
+        "date": "2025-04-10 06:09:49",
+        "sentiment_score": -0.1244262233376503
+    },
+    {
+        "title": "Curazao North Sea Jazz 2025: leyendas de la música como Snoop Dogg, Ricky Martin y Gilberto Santa Rosa estarán presentes",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744257569634.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/curazao-north-sea-jazz-2025-leyendas-de-la-musica-como-snoop-dogg-ricky-martin-y-gilberto-santa-rosa-estaran-presentes-2025410000",
+        "date": "2025-04-10 04:00:00",
+        "sentiment_score": 0.7952944962307811
+    },
+    {
+        "title": "BFC SOCIEDAD DE CORRETAJE DE VALORES, C.A. 10 ABR 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744232665328.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "publi servicios - balances"
+        ],
+        "link": "https://2001online.com/balances/bfc-sociedad-de-corretaje-de-valores-c-a-10-abr-2025-2025410000",
+        "date": "2025-04-10 04:00:00",
+        "sentiment_score": 0.013890629634261131
+    },
+    {
+        "title": "Vinotinto femenina: Deyna Castellanos revela por qué estuvo ausente durante la doble fecha FIFA",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744256241804.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/vinotinto-femenina-deyna-castellanos-revela-por-que-estuvo-ausente-durante-la-doble-fecha-fifa-20254923580",
+        "date": "2025-04-10 03:58:00",
+        "sentiment_score": -0.5744447242468596
+    },
+    {
+        "title": "Mujer agrede a sus tres hijos con golpes y armas blancas: fue detenida en Aragua",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744256969125.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-agrede-a-sus-tres-hijos-con-golpes-y-armas-blancas-fue-detenida-en-aragua-20254923500",
+        "date": "2025-04-10 03:50:00",
+        "sentiment_score": -0.5307985283434391
+    },
+    {
+        "title": "Donald Trump firma decreto para liberar el agua en las regaderas: Me gusta tomar una buena ducha para mi hermoso cabello",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744262584433.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/donald-trump-firma-decreto-para-liberar-el-agua-en-las-regaderas-me-gusta-tomar-una-buena-ducha-para-mi-hermoso-cabello-20254923330",
+        "date": "2025-04-10 03:33:00",
+        "sentiment_score": -0.6409467570483685
+    },
+    {
+        "title": "Funcionarios policiales detienen y asesinan a un adolescente en Carabobo: serán imputados por la Fiscalía",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744250358735.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/funcionarios-policiales-detienen-y-asesinan-a-un-adolescente-en-carabobo-seran-imputados-por-la-fiscalia-2025492300",
+        "date": "2025-04-10 03:00:00",
+        "sentiment_score": -0.7543314695358276
+    },
+    {
+        "title": "Venezolano revela cómo sobrevivió a la tragedia de la discoteca Jet Set: Salvarme fue un milagro",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744257473308.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/venezolano-revela-como-sobrevivio-a-la-tragedia-de-la-discoteca-jet-set-salvarme-fue-un-milagro-20254922380",
+        "date": "2025-04-10 02:38:00",
+        "sentiment_score": -0.9357505608350039
+    },
+    {
+        "title": "Cabello anuncia nuevo vuelo con migrantes venezolanos: uno de ellos con código rojo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744252539239.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cabello-anuncia-nuevo-vuelo-con-migrantes-venezolanos-uno-de-ellos-con-codigo-rojo-20254922360",
+        "date": "2025-04-10 02:36:00",
+        "sentiment_score": -0.7713350169360638
+    },
+    {
+        "title": "Nueva vacante laboral en Arizona: buscan personas que hablen español por salario de $29 la hora",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744251756727.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/nueva-vacante-laboral-en-arizona-buscan-personas-que-hablen-espanol-por-salario-de-29-la-hora-20254922210",
+        "date": "2025-04-10 02:21:00",
+        "sentiment_score": 0.06749922782182693
+    },
+    {
+        "title": "A pensar en el Mundial: la Vinotinto sub 17 pierde la semifinal e irá por el tercer lugar del Sudamericano",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744251948648.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/a-pensar-en-el-mundial-la-vinotinto-sub-17-pierde-la-semifinal-e-ira-por-el-tercer-lugar-del-sudamericano-20254922170",
+        "date": "2025-04-10 02:17:00",
+        "sentiment_score": 0.11187656223773956
     }
 ];
