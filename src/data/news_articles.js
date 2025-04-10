@@ -3378,5 +3378,630 @@ export default [
         "link": "https://2001online.com/nacionales/luego-de-la-firma-del-decreto-de-emergencia-economica-nacional-cual-es-el-siguiente-paso-para-su-aplicacion-20254822520",
         "date": "2025-04-09 02:52:00",
         "sentiment_score": 0.13716521486639977
+    },
+    {
+        "title": "La compra de vivienda por parte de extranjeros se eleva un 10 % con británicos a la cabeza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/la-compra-de-vivienda-por-parte-de-extranjeros-se-eleva-un-10-con-britanicos-a-la-cabeza/",
+        "date": "2025-04-09 22:17:24",
+        "sentiment_score": 0.29937101900577545
+    },
+    {
+        "title": "Veolia dice tener muchos planes para su negocio en España pero por ahora no los concreta",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/veolia-dice-tener-muchos-planes-para-su-negocio-en-espana-pero-por-ahora-no-los-concreta/",
+        "date": "2025-04-09 22:17:07",
+        "sentiment_score": -0.08666251599788666
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 10 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/hoy-sera-noticia-jueves-10-de-abril/",
+        "date": "2025-04-09 22:16:29",
+        "sentiment_score": 0.03609243407845497
+    },
+    {
+        "title": "Madrid estalla con el trap de Khea en su última gira por España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/09/madrid-estalla-con-el-trap-de-khea-en-su-ultima-gira-por-espana/",
+        "date": "2025-04-09 22:01:09",
+        "sentiment_score": -0.023118704557418823
+    },
+    {
+        "title": "40-40 (3-4). El Huesca elimina al Eón en los penaltis y se clasifica para la fase final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/40-40-3-4-el-huesca-elimina-al-eon-en-los-penaltis-y-se-clasifica-para-la-fase-final/",
+        "date": "2025-04-09 21:33:17",
+        "sentiment_score": 0.35377223789691925
+    },
+    {
+        "title": "La selección sub 23 logra la primera victoria de su historia al golear a Alemania (10-1)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/la-seleccion-sub-23-logra-la-primera-victoria-de-su-historia-al-golear-a-alemania-10-1/",
+        "date": "2025-04-09 21:33:00",
+        "sentiment_score": 0.8154645450413227
+    },
+    {
+        "title": "El Alcobendas confirma su fama de 'matagigantes' y disputará fase final de la Copa del Rey",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/el-alcobendas-confirma-su-fama-de-matagigantes-y-disputara-fase-final-de-la-copa-del-rey/",
+        "date": "2025-04-09 21:19:04",
+        "sentiment_score": 0.41968269646167755
+    },
+    {
+        "title": "El número 2 de Emergencias en la dana pide que declaren cargos de Guardia Civil y Alvise",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/el-numero-2-de-emergencias-en-la-dana-pide-que-declaren-cargos-de-guardia-civil-y-alvise/",
+        "date": "2025-04-09 21:02:18",
+        "sentiment_score": -0.40869859233498573
+    },
+    {
+        "title": "Lotería 6/49: la combinación ganadora del sorteo de este 9 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/HJRKPMC3FNFRBMWUKXNSBCEDWQ.jpg?auth=3806fb622820b6de7394aef0640e4109de2089cc5622627181313bade23c8cc3&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/09/loteria-649-la-combinacion-ganadora-del-sorteo-de-este-9-de-abril/",
+        "date": "2025-04-09 21:00:22",
+        "sentiment_score": 0.03590221703052521
+    },
+    {
+        "title": "66-59. El Mersin turco vence al Bourges y será el rival del Valencia en semifinales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/09/66-59-el-mersin-turco-vence-al-bourges-y-sera-el-rival-del-valencia-en-semifinales/",
+        "date": "2025-04-09 20:46:37",
+        "sentiment_score": 0.09750879555940628
+    },
+    {
+        "title": "La justicia vuelve a pararle a Trump el envío de venezolanos a El Salvador",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/09/deportaciones-kRqD-U707882190723bC-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/justicia-vuelve-pararle-trump-envio-venezolanos-salvador-20250409001405-nt.html",
+        "date": "2025-04-09 22:14:26",
+        "sentiment_score": -0.12917834520339966
+    },
+    {
+        "title": "El hijo de la portera",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2025/04/02/excedencia_1-U42456451418EQe-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-hijo-portera-20250410124818-nt.html",
+        "date": "2025-04-09 19:36:29",
+        "sentiment_score": -0.08018171787261963
+    },
+    {
+        "title": "La sobrinita 'fake' y el hermanito zen",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/04/07/newspaint-1743951583076-1200x840-kodD--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/agustin-pery-sobrinita-fake-hermanito-zen-20250410125808-nt.html",
+        "date": "2025-04-09 19:36:19",
+        "sentiment_score": -0.14771613478660583
+    },
+    {
+        "title": "¿Somos ya poshumanos?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/04/09/250410TerceraNavarro.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/elvira-navarro-poshumanos-20250410134522-nt.html",
+        "date": "2025-04-09 19:36:12",
+        "sentiment_score": -0.10567019879817963
+    },
+    {
+        "title": "La mano rusa que meció el 1-O",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/04/10/1401720316-RrMYiUu32LyMjYrH57KeQPM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-mano-rusa-mecio-20250410191410-nt.html",
+        "date": "2025-04-09 19:36:10",
+        "sentiment_score": -0.14287030696868896
+    },
+    {
+        "title": "La naturaleza del escorpión",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/04/08/amazon_-k3RC--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-naturaleza-escorpion-20250410183708-nt.html",
+        "date": "2025-04-09 19:36:00",
+        "sentiment_score": -0.10282841324806213
+    },
+    {
+        "title": "Atoro mental con China",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/04/08/rodaje-segundatemporada-k2kD--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/berta-gonzalez-de-vega-atoro-mental-china-20250410185037-nt.html",
+        "date": "2025-04-09 19:35:34",
+        "sentiment_score": -0.11647036671638489
+    },
+    {
+        "title": "Trump y el culo",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/04/09/csalud-k7XF--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-trump-culo-20250410161117-nt.html",
+        "date": "2025-04-09 19:35:25",
+        "sentiment_score": -0.1429050862789154
+    },
+    {
+        "title": "Quién es Peter Navarro, el arquitecto de los aranceles de Trump que se inspiró en un economista ficticio y que está enfrentado a Elon Musk",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/09/navarr3-RyYSct0hmySsHVktMrlaMMK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/peter-navarro-asesor-trump-detras-aranceles-enfrentado-20250409194820-nt.html",
+        "date": "2025-04-09 18:09:20",
+        "sentiment_score": -0.1874423325061798
+    },
+    {
+        "title": "El jefe del Pentágono ataca a China y promete soberanía para el Canal durante su visita a Panamá",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/09/PeteHegsethmulino-RqVko429eDwfpyUPevblIUJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/jefe-pentagono-ataca-china-promete-soberania-canal-20250409193724-nt.html",
+        "date": "2025-04-09 17:37:25",
+        "sentiment_score": -0.1302969753742218
+    },
+    {
+        "title": "El Gobierno de Mazón ignoró el día de la dana la alerta de su ‘número dos’ de Emergencias",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NRNZFISGEBE2HLH4TPJAZZNZG4.jpg?auth=284941fb8aa1634f99bdbbff50777febdf4571cb80687c1acdbd02509915376c&width=1200",
+        "tags": [
+            "carlos mazón",
+            "generalitat valenciana",
+            "catástrofes",
+            "pp",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-09/el-gobierno-de-mazon-ignoro-el-dia-de-la-dana-la-alerta-de-su-numero-dos-de-emergencias.html",
+        "date": "2025-04-09 22:03:48",
+        "sentiment_score": -0.5350815057754517
+    },
+    {
+        "title": "Koldo García apremió a la presidenta de Adif para contratar a la expareja de Ábalos: “Si no, Jose me corta los huevos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JY7PVM6GO5EAPBML4R7PLVKT2A.jpg?auth=ccedf68e3ed9d5b23d71aeba6144844875f43a9a9a211d5da1581ae0a52f465e&width=1200",
+        "tags": [
+            "uco",
+            "españa",
+            "adif",
+            "ineco",
+            "corrupción",
+            "caso koldo",
+            "josé luis ábalos",
+            "renfe",
+            "guardia civil",
+            "tribunal supremo",
+            "investigación judicial",
+            "koldo garcía"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/koldo-garcia-apremio-a-la-presidenta-de-adif-para-contratar-a-la-expareja-de-abalos-si-no-jose-me-corta-los-huevos.html",
+        "date": "2025-04-09 19:47:00",
+        "sentiment_score": -0.7972212582826614
+    },
+    {
+        "title": "Juan Carlos I presenta una demanda contra Corinna Larsen por fraude y delitos contra el honor",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JIGK2KS5F3USHFA7MEHZKROJHI.jpg?auth=204229bae16b2cf17d3b5ae5aed467ebc2e58fa3f51da008e8defa877b93ac85&width=1200",
+        "tags": [
+            "denuncias",
+            "españa",
+            "corinna larsen",
+            "suiza",
+            "felipe vi",
+            "monarquía",
+            "juan carlos i"
+        ],
+        "link": "https://elpais.com/espana/2025-04-09/juan-carlos-i-presenta-una-demanda-contra-corinna-larsen-por-fraude-y-delitos-contra-el-honor.html",
+        "date": "2025-04-09 19:44:39",
+        "sentiment_score": -0.27796855568885803
+    },
+    {
+        "title": "Archivada la denuncia contra Garriga por presunta malversación con la tarjeta del Parlament",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FQVZVMQJG5FPDLB23FVYZSIEUY.jpg?auth=5bb386fc199b64df98542b2edafdce5edef3be6449a2c0d3b6695be1ec8f6dce&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-09/archivada-la-denuncia-contra-garriga-por-presunta-malversacion-con-la-tarjeta-del-parlament.html",
+        "date": "2025-04-09 19:33:51",
+        "sentiment_score": -0.7061933856457472
+    },
+    {
+        "title": "El sector inmobiliario y Foment creen que regular el alquiler temporal distorsiona el marco jurídico",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666&width=1200",
+        "tags": [
+            "vivienda",
+            "turismo",
+            "generalitat cataluña",
+            "fomento empresarial",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-09/el-sector-inmobiliario-y-foment-creen-que-regular-el-alquiler-temporal-distorsiona-el-marco-juridico.html",
+        "date": "2025-04-09 19:30:54",
+        "sentiment_score": -0.8401924949139357
+    },
+    {
+        "title": "Detenido un médico del CAP de Sitges acusado de consumir y distribuir pornografía infantil",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GVOTS4SIFZGBBEPNV5FDIH4BOA.jpg?auth=44f195e2849527b337b13ac3ee2d7bb25aa8bdaf40308c2208ec41c7125c8bbb&width=1200",
+        "tags": [
+            "médicos",
+            "policía nacional",
+            "europa",
+            "pedofilia",
+            "policía judicial",
+            "delitos informáticos",
+            "fiscalía menores",
+            "sitges",
+            "abusos sexuales",
+            "fbi",
+            "delitos sexuales",
+            "cataluña",
+            "abuso menores"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-09/detenido-un-medico-del-cap-de-sitges-acusado-de-consumir-y-distribuir-pornografia-infantil.html",
+        "date": "2025-04-09 18:47:07",
+        "sentiment_score": -0.06753159686923027
+    },
+    {
+        "title": "Un supuesto soborno de 500.000 euros lleva a la pareja de Ayuso ante la jueza: todas las claves del caso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6ZFKIZCIANBUNCM27FMKI5GLCQ.jpg?auth=b75f229531ed9daa37d9a4a651dcda875aa1fce7466117040e11e036c8513887&width=1200",
+        "tags": [
+            "isabel díaz ayuso",
+            "alberto gonzález amador",
+            "justicia",
+            "comunidad de madrid",
+            "hacienda pública",
+            "corrupción",
+            "pp",
+            "psoe",
+            "más madrid",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-04-09/un-supuesto-soborno-de-500000-euros-lleva-a-la-pareja-de-ayuso-ante-la-jueza-todas-las-claves-del-caso.html",
+        "date": "2025-04-09 18:29:27",
+        "sentiment_score": -0.8688277509063482
+    },
+    {
+        "title": "Javier Pacheco se despide de la dirección de CC OO Cataluña con un llamamiento a defender la democracia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3NEAB2FFCVWCNPUMQ5EXUHXTA4.jpg?auth=b687ec3b40cf6e94aeb493a75bf1181be32a59f151c2f5680dcb74409271e080&width=1200",
+        "tags": [
+            "comisiones obreras",
+            "trabajo",
+            "sindicalismo",
+            "cataluña",
+            "sindicatos",
+            "empleo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-09/javier-pacheco-se-despide-de-la-direccion-de-cc-oo-cataluna-con-un-llamamiento-a-defender-la-democracia.html",
+        "date": "2025-04-09 18:06:35",
+        "sentiment_score": 0.20347609743475914
+    },
+    {
+        "title": "Una gestora del 112 tras declarar ante la jueza de la dana: “Es imposible que la avalancha de llamadas no llegara al Cecopi”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/R55P6WQJRRDA3J2VFHVZBLJAN4.jpg?auth=1c3fe8d9cc7af9034179b5a8fcdf23a09eb76a25025f322c13f6c6b6285dee13&width=1200",
+        "tags": [
+            "generalitat valenciana",
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "dana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-09/una-gestora-del-112-tras-declarar-ante-la-jueza-de-la-dana-es-imposible-que-la-avalancha-de-llamadas-no-llegara-al-cecopi.html",
+        "date": "2025-04-09 17:57:59",
+        "sentiment_score": -0.6084931045770645
+    },
+    {
+        "title": "Puente se defiende y asegura que las incidencias en Rodalies se deben a las obras para modernizar la red ferroviaria",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CW65SNH7YNGUPMPLWR3EMMIXS4.jpeg?auth=d0f683fb6a301fd394d4595f9c9980b239bd5b37c5ce3b376915363f9c4b6a72&width=1200",
+        "tags": [
+            "cercanías",
+            "barcelona",
+            "óscar puente santiago",
+            "renfe",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-09/puente-se-defiende-y-asegura-que-las-incidencias-en-rodalies-se-deben-a-las-obras-para-modernizar-la-red-ferroviaria.html",
+        "date": "2025-04-09 17:51:43",
+        "sentiment_score": -0.851130586117506
+    },
+    {
+        "title": "El PSG derrotó al Aston Villa del Dibu Martínez en la ida de cuartos de la Champions",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f534.png",
+        "tags": [
+            "fútbol",
+            "aston villa",
+            "la champions",
+            "deportes",
+            "el psg"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-psg-derroto-al-aston-villa-del-dibu-martinez-en-la-ida-de-cuartos-de-la-champions/",
+        "date": "2025-04-09 22:00:01",
+        "sentiment_score": 0.03163880109786987
+    },
+    {
+        "title": "Los pronósticos de Marcos López para los partidos de vuelta de los cuartos de final de la Champions: \"Lo que dan para el Real Madrid-Arsenal...\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/04/09/67f6eb8ce6713.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/pronosticos-marcos-lopez-partidos-vuelta-cuartos-final-champions-dan-real-madrid-arsenal-20250409_3131102.html",
+        "date": "2025-04-09 21:50:10",
+        "sentiment_score": -0.08304554224014282
+    },
+    {
+        "title": "El gran miedo de Dani Senabre para las semifinales de la Champions League: \"Ha puesto en problemas al Barcelona\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/04/09/67f6e8f193b8a.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/gran-miedo-dani-senabre-semifinales-champions-league-puesto-problemas-barcelona-20250409_3131097.html",
+        "date": "2025-04-09 21:39:56",
+        "sentiment_score": 0.0052360594272613525
+    },
+    {
+        "title": "Champions League: Federico Valverde se pronuncia y también confía en la remontada merengue (+declaraciones)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1744232934402.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/champions-league-federico-valverde-se-pronuncia-y-tambien-confia-en-la-remontada-merengue-declaraciones--20254917350",
+        "date": "2025-04-09 21:35:00",
+        "sentiment_score": -0.9281904688104987
+    },
+    {
+        "title": "Así quedaron los partidos de ida de cuartos de final de Champions League",
+        "image_url": "https://pxcdn.meridiano.net/042025/1744233134641.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/asi-quedaron-los-partidos-de-ida-de-cuartos-de-final-de-champions-league-20254917120",
+        "date": "2025-04-09 21:12:00",
+        "sentiment_score": 0.08142994344234467
+    },
+    {
+        "title": "Cristian Mosquera, en el once de los intocables de la Liga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/482f665f-b1bc-414d-a60e-bfb418a18c41_16-9-aspect-ratio_default_0_x447y239.jpg",
+        "tags": [
+            "once,la liga,mosquera,valencia cf,kylian mbappé,martín zubimendi,lukebakio,javi puado,fede valverde"
+        ],
+        "link": "https://www.superdeporte.es/valencia-cf/2025/04/09/cristian-mosquera-once-intocables-liga-116230296.html",
+        "date": "2025-04-09 21:05:54",
+        "sentiment_score": -0.033625319600105286
+    },
+    {
+        "title": "Jessica Bouzas: \"Me gusta sentir el respaldo del equipo\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250409225540_120.jpg",
+        "tags": [
+            "deportes",
+            "tenis"
+        ],
+        "link": "https://www.europapress.es/deportes/tenis-00166/noticia-jessica-bouzas-me-gusta-sentir-respaldo-equipo-20250409225540.html",
+        "date": "2025-04-09 20:55:40",
+        "sentiment_score": -0.04158774018287659
+    },
+    {
+        "title": "Kovac: \"Hemos cometido demasiados errores que el Barça supo aprovechar con su calidad\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/09/kovac-hemos-cometido-demasiados-errores-que-el-barca-supo-aprovechar-con-su-calidad/",
+        "date": "2025-04-09 22:15:51",
+        "sentiment_score": -0.009857147932052612
+    },
+    {
+        "title": "Robert Lewandowski iguala a Cristiano Ronaldo en esta increíble estadística",
+        "image_url": "https://pxcdn.meridiano.net/042025/1744237612370.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/robert-lewandowski-iguala-a-cristiano-ronaldo-en-esta-increible-estadistica-20254918130",
+        "date": "2025-04-09 22:13:00",
+        "sentiment_score": 0.8622166775166988
+    },
+    {
+        "title": "La detección del alzhéimer con un sencillo análisis de sangre será una revolución «trascendental»",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/04/09/alzheimer-foto-terapias-k87E-U2301415006712nqG-1200x840@El%20Correo.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.elcorreo.com/sociedad/salud/deteccion-alzheimer-sencillo-analisis-sangre-revolucion-trascendental-20250409000923-nt.html",
+        "date": "2025-04-09 22:09:23",
+        "sentiment_score": 0.5457699671387672
+    },
+    {
+        "title": "Juanma Castaño alucina con el tridente del Barça tras la goleada ante el Dortmund: \"¿Qué se puede hacer?\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/04/10/67f6ee5a1c7ff.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-alucina-tridente-barca-goleada-dortmund-20250410_3131129.html",
+        "date": "2025-04-09 22:08:27",
+        "sentiment_score": 0.03632113337516785
+    },
+    {
+        "title": "Lamine Yamal pide el cambio y dispara las alarmas del barcelonismo: la última hora",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/10/culemania/primer-equipo/1003742647935_14401879_1706x960.jpg?contentId=1003742647935",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250409/lamine-yamal-cambio-dispara-alarmas-barcelonismo-ultima/1003742647932_0.html",
+        "date": "2025-04-09 22:06:29",
+        "sentiment_score": -0.7496783845126629
+    },
+    {
+        "title": "La ceremonia de becas de Fundación ”la Caixa” impulsa el talento investigador en España y Portugal",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/04/family-photo-fellowship-1-1440x808.jpeg",
+        "tags": [
+            "empresas",
+            "fundación la caixa"
+        ],
+        "link": "https://www.elindependiente.com/economia/empresas/2025/04/10/ceremonia-becas-fundacion-caixa-impulsa-talento-investigador-espana-portugal/",
+        "date": "2025-04-09 22:06:15",
+        "sentiment_score": 0.4240193720906973
+    },
+    {
+        "title": "Veolia quiere que Criteria sea un accionista satisfecho en el largo plazo",
+        "image_url": "https://s10.s3c.es/imag/_v0/6000x3275/1/0/c/1200x655_Brachlianoff.jpg",
+        "tags": [
+            "energia"
+        ],
+        "link": "https://www.eleconomista.es/energia/noticias/13311794/04/25/veolia-quiere-que-criteria-sea-un-accionista-satisfecho-en-el-largo-plazo.html",
+        "date": "2025-04-09 22:05:14",
+        "sentiment_score": 0.6986257843673229
+    },
+    {
+        "title": "1a parte | 09 ABR 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-09-abr-2025-partidazo-cope-20250410_3131130.html",
+        "date": "2025-04-09 22:04:07",
+        "sentiment_score": 0.4331369698047638
+    },
+    {
+        "title": "Niko Kovac: \"La derrota ha sido merecida y la vuelta será durísima\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250410000254_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-niko-kovac-derrota-sido-merecida-vuelta-sera-durisima-20250410000254.html",
+        "date": "2025-04-09 22:02:54",
+        "sentiment_score": -0.7641698606312275
+    },
+    {
+        "title": "Nueva ley en Idaho eliminará vacunas públicas para inmigrantes ilegales: tampoco habrá ayuda para embarazadas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744238619526.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/nueva-ley-en-idaho-eliminara-vacunas-publicas-para-inmigrantes-ilegales-tampoco-habra-ayuda-para-embarazadas-20254918180",
+        "date": "2025-04-09 22:18:00",
+        "sentiment_score": 0.6976506523787975
+    },
+    {
+        "title": "Kroger ofrece combo de comida para pascuas por menos de $6: estos son los productos que incluye",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1723170827879.webp?ch=212&cw=377&extw=jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/kroger-ofrece-combo-de-comida-para-pascuas-por-menos-de-6-estos-son-los-productos-que-incluye-2025491890",
+        "date": "2025-04-09 22:09:00",
+        "sentiment_score": 0.35704721696674824
+    },
+    {
+        "title": "Donald Trump planea deportar estadounidenses: irían a cárceles de El Salvador",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744235687496.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/donald-trump-planea-deportar-estadounidenses-irian-a-carceles-de-el-salvador-20254917520",
+        "date": "2025-04-09 21:52:00",
+        "sentiment_score": 0.04244673252105713
+    },
+    {
+        "title": "Festival \"¿Qué significa ser caraqueño?” redefine espacios públicos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744234270491.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/festival-que-significa-ser-caraqueno-redefine-espacios-publicos-2025491800",
+        "date": "2025-04-09 21:39:05",
+        "sentiment_score": 0.8690066989511251
+    },
+    {
+        "title": "Kurios y BNC: Uniendo fuerzas para impulsar el futuro de la educación",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744232465872.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/kurios-y-bnc-uniendo-fuerzas-para-impulsar-el-futuro-de-la-educacion-20254917300",
+        "date": "2025-04-09 21:24:32",
+        "sentiment_score": 0.58391372859478
+    },
+    {
+        "title": "La Liga Española de Baloncesto se acerca a la próxima fase. Estos son los juegos de la semana",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744233712647.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/la-liga-espanola-de-baloncesto-se-acerca-a-la-proxima-fase-estos-son-los-juegos-de-la-semana-20254917200",
+        "date": "2025-04-09 21:20:00",
+        "sentiment_score": 0.8705192878842354
+    },
+    {
+        "title": "IRS confirma reembolso de $1.600 a este grupo de contribuyentes: requisitos para obtenerlo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744233709002.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/irs-confirma-reembolso-de-1-600-a-este-grupo-de-contribuyentes-requisitos-para-obtenerlo--20254917180",
+        "date": "2025-04-09 21:18:00",
+        "sentiment_score": 0.07057114504277706
+    },
+    {
+        "title": "La programación de Semana Santa para Caracas: habrá conciertos, teatro y actos religiosos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744233254262.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/la-programacion-de-semana-santa-para-caracas-habra-conciertos-teatro-y-actos-religiosos-20254917160",
+        "date": "2025-04-09 21:16:00",
+        "sentiment_score": 0.06039451062679291
+    },
+    {
+        "title": "USCIS: conozca quiénes aplican para los permisos de trabajo por cinco años más",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744232906348.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/uscis-conozca-quienes-aplican-para-los-permisos-de-trabajo-por-cinco-anos-mas-2025491780",
+        "date": "2025-04-09 21:08:00",
+        "sentiment_score": 0.00581292062997818
+    },
+    {
+        "title": "Dominicana prevé cerrar operaciones de rescate en la discoteca Jet Set: van 124 muertos registrados",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744231949261.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/dominicana-preve-cerrar-operaciones-de-rescate-en-la-discoteca-jet-set-van-124-muertos-registrados-2025491730",
+        "date": "2025-04-09 21:03:00",
+        "sentiment_score": 0.13242917507886887
     }
 ];
