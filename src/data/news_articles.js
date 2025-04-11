@@ -4927,5 +4927,706 @@ export default [
         "link": "https://2001online.com/deportes/a-pensar-en-el-mundial-la-vinotinto-sub-17-pierde-la-semifinal-e-ira-por-el-tercer-lugar-del-sudamericano-20254922170",
         "date": "2025-04-10 02:17:00",
         "sentiment_score": 0.11187656223773956
+    },
+    {
+        "title": "Sindicatos aseguran que hay una gran adhesión a la huelga general en Argentina",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/sindicatos-aseguran-que-hay-una-gran-adhesion-a-la-huelga-general-en-argentina/",
+        "date": "2025-04-10 17:04:14",
+        "sentiment_score": 0.49865367263555527
+    },
+    {
+        "title": "Yago de Santiago, operado de una antigua lesión de hombro",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/yago-de-santiago-operado-de-una-antigua-lesion-de-hombro/",
+        "date": "2025-04-10 17:03:55",
+        "sentiment_score": -0.6065629739314318
+    },
+    {
+        "title": "El puertorriqueño Antonetti y los 'tocados' Pedrosa y Sow, en una lista sin Vargas y Akor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/el-puertorriqueno-antonetti-y-los-tocados-pedrosa-y-sow-en-una-lista-sin-vargas-y-akor/",
+        "date": "2025-04-10 17:03:39",
+        "sentiment_score": -0.753992099314928
+    },
+    {
+        "title": "Todo lo que se sabe sobre ‘Culpa nuestra’, la última película de la saga protagonizada por Nicole Wallace y Gabriel Guevara",
+        "image_url": "https://www.infobae.com/resizer/v2/6CX7FAX5FBFVPJWTUWTKSQ2CWQ.JPG?auth=7050e5592befd8d4e11d401f1465ccae7bf6cf92d302841a98da277fd0d4f87d&height=392&smart=true&width=700",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/04/10/todo-lo-que-se-sabe-sobre-culpa-nuestra-la-ultima-pelicula-de-la-saga-protagonizada-por-nicole-wallace-y-gabriel-guevara/",
+        "date": "2025-04-10 17:03:19",
+        "sentiment_score": 0.30230368860065937
+    },
+    {
+        "title": "Maria del Mar Bonet celebra 50 años del concierto en el Olympia con reedición del disco",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/maria-del-mar-bonet-celebra-50-anos-del-concierto-en-el-olympia-con-reedicion-del-disco/",
+        "date": "2025-04-10 17:02:46",
+        "sentiment_score": 0.27173060178756714
+    },
+    {
+        "title": "López cuestiona que el novio de Ayuso disponga de 5.000 euros para el alquiler de su ático",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/lopez-cuestiona-que-el-novio-de-ayuso-disponga-de-5000-euros-para-el-alquiler-de-su-atico/",
+        "date": "2025-04-10 17:02:29",
+        "sentiment_score": -0.13381944596767426
+    },
+    {
+        "title": "Colombiano pretendía escapar de España tras presuntamente asesinar a su pareja en las islas Canarias: la estranguló",
+        "image_url": "https://www.infobae.com/resizer/v2/F3SFKHE6MJFK7CTQCT7656CUSI.png?auth=e0d2fdaf12fffd31bd6e02af8542fc594e442b68702096558241d83dda9f0222&height=1063&smart=true&width=1890",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/04/10/colombiano-fue-capturado-en-espana-por-feminicidio-de-su-pareja-en-canarias-la-estrangulo-y-pretendia-huir-del-pais/",
+        "date": "2025-04-10 17:01:43",
+        "sentiment_score": -0.6905924025923014
+    },
+    {
+        "title": "Marruecos competirá con España por la final del Mundial 2030 construyendo \"el mejor estadio del mundo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/6DK5UJBR7RAAJJJJFUK5LYZ5CE.jpg?auth=2b116e6f9bbe01ab8714f7f01f5cd29fdaabaae065acc126ca0de0274a216fec&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/marruecos-competira-con-espana-por-la-final-del-mundial-2030-construyendo-el-mejor-estadio-del-mundo/",
+        "date": "2025-04-10 17:00:15",
+        "sentiment_score": 0.6372422613203526
+    },
+    {
+        "title": "Wall Street acelera la caída a media sesión por temor a una guerra comercial con China",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/wall-street-acelera-la-caida-a-media-sesion-por-temor-a-una-guerra-comercial-con-china/",
+        "date": "2025-04-10 16:50:04",
+        "sentiment_score": -0.8238209448754787
+    },
+    {
+        "title": "Mónica García pide que Ayuso aclare el alquiler de 5.000 euros por el ático que \"disfruta\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/monica-garcia-pide-que-ayuso-aclare-el-alquiler-de-5000-euros-por-el-atico-que-disfruta/",
+        "date": "2025-04-10 16:49:42",
+        "sentiment_score": 0.03523324429988861
+    },
+    {
+        "title": "Murtra señala su gran prioridad al frente de Telefónica: «Europa, Europa y más Europa»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/10/juntaTefignaciogil-RrXvMdhETTDstEt0sNynxUK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/murtra-senala-gran-prioridad-frente-telefonica-europa-20250410183004-nt.html",
+        "date": "2025-04-10 16:52:51",
+        "sentiment_score": -0.053239643573760986
+    },
+    {
+        "title": "Pekín contraataca a los aranceles de Trump con un golpe a Hollywood: frena la importación de películas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/10/Hollywood-kb2F-U70793476141kP-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/pekin-contraataca-aranceles-trump-golpe-hollywood-frena-20250410185053-nt.html",
+        "date": "2025-04-10 16:50:54",
+        "sentiment_score": -0.23501047492027283
+    },
+    {
+        "title": "La Casa Blanca aclara ahora que el arancel a China será todavía mayor: 145%",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/10/donaldj-trump-kQaF-U70793912105hlF-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/casa-blanca-aclara-arancel-china-mayor-145-20250410182840-nt.html",
+        "date": "2025-04-10 16:28:41",
+        "sentiment_score": -0.24334478378295898
+    },
+    {
+        "title": "Díaz fuerza la entrada de la patronal catalana amiga del Gobierno en la Comisión Nacional de Convenios",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/10/yoli-RixZHgtNufBBsHvdvdw0ThP-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/diaz-fuerza-entrada-patronal-catalana-amiga-gobierno-20250410180042-nt.html",
+        "date": "2025-04-10 16:19:18",
+        "sentiment_score": -0.04803958535194397
+    },
+    {
+        "title": "El FMI pide al Gobierno que se replantee el control de precios del alquiler, la reforma de las pensiones y la reducción de jornada",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/10/kristalinageorgievaFMI-RGVcyvn9epPu3PkED33bO3O-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fmi-pide-gobierno-replantee-control-precios-alquiler-20250410180935-nt.html",
+        "date": "2025-04-10 16:12:13",
+        "sentiment_score": 0.0880800187587738
+    },
+    {
+        "title": "Borrador renta 2025 en Álava: cómo obtenerlo y consultarlo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/10/declaracion-alava-RkaKFcknG8CZ48Tst1HrgYL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/declaracion-renta/borrador-renta-2025-alava-como-obtenerlo-consultarlo-20250410173204-nt.html",
+        "date": "2025-04-10 16:06:03",
+        "sentiment_score": -0.07679003477096558
+    },
+    {
+        "title": "Borrador renta 2025 en Vizcaya: cómo obtenerlo y consultarlo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/noticias/2025/04/10/renta1-k2ZE-U70793071513TYB-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/declaracion-renta/borrador-renta-2025-vizcaya-obtenerlo-consultarlo-20250410153352-nt.html",
+        "date": "2025-04-10 13:33:53",
+        "sentiment_score": -0.036842554807662964
+    },
+    {
+        "title": "Prada anuncia la compra de Versace por 1.250 millones de euros",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/10/Prada-k7XE-U70792989689QoH-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/prada-anuncia-compra-versace-1250-millones-euros-20250410151553-nt.html",
+        "date": "2025-04-10 13:15:55",
+        "sentiment_score": 0.36868035793304443
+    },
+    {
+        "title": "El caos bursátil expone 153.000 millones en ahorros de las familias españolas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/10/1495027034-ReZHHtFyFNCny4wGjCt2oWI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/caos-bursatil-expone-153000-millones-ahorros-familias-20250410142017-nt.html",
+        "date": "2025-04-10 12:22:16",
+        "sentiment_score": -0.15891282260417938
+    },
+    {
+        "title": "Los accionistas aprueban que Murtra sea presidente de Telefónica, con una participación del 64% en la junta",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/10/Murtra2-R8zp9W0cG0ISrJhK7XRDWWN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/accionistas-telefonica-20250410122834-nt.html",
+        "date": "2025-04-10 11:35:08",
+        "sentiment_score": -0.1511969119310379
+    },
+    {
+        "title": "El PP impide que la Asamblea de Madrid investigue el ‘caso FP’ que salpica al Gobierno de Ayuso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EHMXDTRBPD66QWLJTMQLFNU5M4.jpg?auth=874eead7fbeb50a5ace8882d2f117d65883e08f1dcbf135f9195ceea0ed06cf2&width=1200",
+        "tags": [
+            "gobierno comunidad madrid",
+            "pp madrid",
+            "comunidad de madrid",
+            "enrique ossorio crespo",
+            "madrid",
+            "asamblea madrid",
+            "formación profesional",
+            "isabel díaz ayuso",
+            "educación"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-04-10/el-pp-impide-que-la-asamblea-de-madrid-investigue-el-caso-fp-que-salpica-al-gobierno-de-ayuso.html",
+        "date": "2025-04-10 16:42:53",
+        "sentiment_score": -0.8704276606440544
+    },
+    {
+        "title": "El FMI eleva las previsiones de crecimiento de España al 2,5% pese a la guerra comercial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4TO7ZS2WXBCAJJSWXHIAWB34XQ.jpg?auth=ff291c3ebdb1b05bcb77c0a73a61eab1eeb39940fc387aa5bac902ee73ead01e&width=1200",
+        "tags": [
+            "crecimiento económico",
+            "españa",
+            "previsiones económicas",
+            "fmi",
+            "indicadores económicos",
+            "tasa paro",
+            "guerra comercial",
+            "pib",
+            "política económica",
+            "exportaciones",
+            "organismos económicos",
+            "importaciones",
+            "coyuntura económica",
+            "organismos financieros",
+            "economía"
+        ],
+        "link": "https://elpais.com/economia/2025-04-10/el-fmi-eleva-las-previsiones-de-crecimiento-de-espana-al-25-pese-a-la-guerra-comercial.html",
+        "date": "2025-04-10 16:00:19",
+        "sentiment_score": -0.7699037417769432
+    },
+    {
+        "title": "Conducir con una tasa de alcohol superior a 0,3 triplica los riesgos de accidente",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PLPEJQPIFFBJDKLZ7FRR6FXJIA.JPG?auth=132208482a1593f62c037bfcb50617fbb1ef9b5626d85f7592400f385c26bc63&width=1200",
+        "tags": [
+            "dgt",
+            "drogas",
+            "controles alcoholemia",
+            "españa",
+            "seguridad vial",
+            "accidentes",
+            "alcoholismo",
+            "accidentes tráfico",
+            "guardia civil"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/conducir-con-una-tasa-de-alcohol-superior-a-03-triplica-los-riesgos-de-accidente.html",
+        "date": "2025-04-10 15:13:19",
+        "sentiment_score": 0.09407846629619598
+    },
+    {
+        "title": "El Congreso aprueba la acogida de menores migrantes con el rechazo del PP",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UIVXCHUUCKEOVTNKVBIW4KDPFM.jpg?auth=d867b8e987c586ae5bc63d2d64ad7aefca2e661049a1dc96e606833b3662bf53&width=1200",
+        "tags": [
+            "eh bildu",
+            "erc",
+            "cristina valido",
+            "eaj-pnv",
+            "pp",
+            "españa",
+            "congreso diputados",
+            "canarias",
+            "jon iñarritu",
+            "fernando clavijo",
+            "coalición canaria",
+            "upn",
+            "juntsxcat",
+            "inmigración",
+            "menores",
+            "menores migrantes",
+            "leyes ordinarias",
+            "vox",
+            "inmigración irregular",
+            "debates parlamentarios",
+            "sira rego",
+            "ángel víctor torres",
+            "comunidades autónomas"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/el-congreso-aprueba-la-acogida-de-menores-migrantes-con-el-rechazo-del-pp.html",
+        "date": "2025-04-10 15:03:10",
+        "sentiment_score": -0.47557756304740906
+    },
+    {
+        "title": "El tiempo en Semana Santa, comunidad por comunidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QL7MPWRGFNAXJJLCQLBJJYAJ3M.jpg?auth=a617e4312ab3014b07b40e0ed7f79ac55dfb2246be5abe13aee416d568fff18a&width=1200",
+        "tags": [
+            "aemet",
+            "climas",
+            "meteorología",
+            "temperaturas mínimas",
+            "predicción meteorológica",
+            "noticias de españa",
+            "el tiempo",
+            "temperaturas máximas",
+            "temperaturas"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/el-tiempo-en-semana-santa-comunidad-por-comunidad.html",
+        "date": "2025-04-10 14:21:30",
+        "sentiment_score": -0.3296750336885452
+    },
+    {
+        "title": "El presunto pirómano de El Saler: “Que interés tengo en provocar un incendio en mi casa”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KQLDGTUJQNHKPHA6SAVG3VPRYA.JPG?auth=cd24e9483edb1af4f9158fe67c1ee26489db04f3954f2b6828fb46286cf15727&width=1200",
+        "tags": [
+            "bosques",
+            "incendios",
+            "comunidad valenciana",
+            "justicia",
+            "sucesos",
+            "incendios forestales",
+            "juicios",
+            "delitos",
+            "albufera de valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-10/el-presunto-piromano-de-el-saler-que-interes-tengo-en-provocar-un-incendio-en-mi-casa.html",
+        "date": "2025-04-10 13:48:28",
+        "sentiment_score": -0.6318926736712456
+    },
+    {
+        "title": "González Amador desvela a la jueza que paga 5.000 euros al mes por el ático que disfruta junto a Ayuso encima de su vivienda",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MHZ3QXAIN5DMTHW2O33SCQUYWQ.jpg?auth=ce896c07ff643506ca113eed61aae3d96bc30cc503271575eb65cdaf85b769f0&width=1200",
+        "tags": [
+            "vivienda",
+            "isabel díaz ayuso",
+            "jueces",
+            "madrid",
+            "comunidad de madrid",
+            "alberto gonzález amador"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-04-10/gonzalez-amador-desvela-a-la-jueza-que-paga-5000-euros-al-mes-por-el-que-atico-que-disfruta-junto-a-ayuso-encima-de-su-vivienda.html",
+        "date": "2025-04-10 13:46:31",
+        "sentiment_score": -0.14444087445735931
+    },
+    {
+        "title": "El Congreso aprueba la ley que permitirá disolver asociaciones franquistas sin el apoyo de PP y Vox",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CVSE4P2VLEVKXFYMH2YFOUYVEE.jpg?auth=4555cef56dd9cadf145a680842e00c8af1aab40bb96f87d86cdafef405945495&width=1200",
+        "tags": [
+            "pp",
+            "votaciones",
+            "partidos extraparlamentarios",
+            "españa",
+            "grupos parlamentarios",
+            "vox",
+            "psoe",
+            "congreso diputados",
+            "proyectos ley",
+            "cortes constituyentes",
+            "partidos conservadores",
+            "mesa congreso",
+            "gobierno",
+            "parlamento",
+            "ultras",
+            "cortes generales"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/el-congreso-aprueba-la-ley-que-permitira-disolver-asociaciones-franquistas-sin-el-apoyo-de-pp-y-vox.html",
+        "date": "2025-04-10 13:46:29",
+        "sentiment_score": -0.8862267881631851
+    },
+    {
+        "title": "Collboni pide ante la Unesco fondos para la alianza de administraciones contra el racismo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GV272MNII5LMQHGIL6X6USW4CM.jpg?auth=61cd97abedfb9c7cf7ca999963a983ade4474b92d9927ebfdf559b48fbd0272b&width=1200",
+        "tags": [
+            "racismo",
+            "jaume collboni",
+            "parís",
+            "onu",
+            "ciudades sostenibles",
+            "partido socialista",
+            "foros",
+            "unesco",
+            "cataluña",
+            "francia",
+            "ayuntamiento barcelona",
+            "discriminación",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/collboni-pide-ante-la-unesco-fondos-para-la-alianza-de-administraciones-contra-el-racismo.html",
+        "date": "2025-04-10 13:00:55",
+        "sentiment_score": 0.01987135410308838
+    },
+    {
+        "title": "El juzgado cita a Revilla el 16 de mayo para el acto de conciliación tras la denuncia del rey emérito",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BAR4YQPDLND5RDKHWAUVY7GFUE.jpg?auth=3146589309fb3532176d3fb7db18d89cd889f9732d71501767d63054d2424d4b&width=1200",
+        "tags": [
+            "juicios",
+            "juan carlos i",
+            "televisión",
+            "calumnias",
+            "miguel ángel revilla",
+            "españa",
+            "casa real",
+            "injurias",
+            "justicia"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/el-juzgado-cita-a-revilla-el-16-de-mayo-para-el-acto-de-conciliacion-tras-la-denuncia-del-rey-emerito.html",
+        "date": "2025-04-10 12:49:08",
+        "sentiment_score": -0.7006270363926888
+    },
+    {
+        "title": "Muere Leo Beenhakker, mítico técnico de la 'Quinta del Buitre'",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/937b8f73-5f09-451c-b4cb14eb989ea9b2.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/zf65382de-1e57-4d3b-8cf788f1866a94b7/202504/muere-leo-beenhakker-mitico-tecnico-de-la-quinta-del-buitre",
+        "date": "2025-04-10 16:56:18",
+        "sentiment_score": 0.33332349359989166
+    },
+    {
+        "title": "El \"cambio brusco\" que supondrá para muchas familias la nueva tasa de basuras: incrementos de hasta el 300%",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/04/09/67f646caad571.webp",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/noticias/cambio-brusco-supondra-muchas-familias-nueva-tasa-basuras-incrementos-300-20250410_3131801.html",
+        "date": "2025-04-10 16:56:13",
+        "sentiment_score": -0.13348181545734406
+    },
+    {
+        "title": "La coalición de voluntarios para Ucrania pide aumentar la presión a Rusia para que negocie una salida a la guerra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/W6PEWS62CBGYBQDTEVSUJBBHZU.jpg?auth=9b7125ae9fff0bbb26fae8360173cb01ace786fa54d48829bf7aa0655ebf194a&width=1200",
+        "tags": [
+            "conflictos",
+            "europa",
+            "unión europea",
+            "ataques militares",
+            "conflictos armados",
+            "guerra",
+            "guerra de rusia en ucrania",
+            "otan",
+            "conflictos internacionales",
+            "rusia",
+            "ucrania"
+        ],
+        "link": "https://elpais.com/internacional/2025-04-10/la-coalicion-de-voluntarios-para-ucrania-pide-aumentar-la-presion-a-rusia-para-que-negocie-una-salida-a-la-guerra.html",
+        "date": "2025-04-10 16:55:00",
+        "sentiment_score": -0.1112930178642273
+    },
+    {
+        "title": "La RFEF se plantea transformar el arbitraje con el uso de inteligencia artificial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/la-rfef-se-plantea-transformar-el-arbitraje-con-el-uso-de-inteligencia-artificial/",
+        "date": "2025-04-10 16:36:04",
+        "sentiment_score": 0.12189953774213791
+    },
+    {
+        "title": "El Congreso aprueba finalmente una declaración sobre el Pueblo Gitano tras apoyar Vox el texto",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250410183401_120.jpg",
+        "tags": [
+            "igualdad",
+            "ep social"
+        ],
+        "link": "https://www.europapress.es/epsocial/igualdad/noticia-congreso-aprueba-finalmente-declaracion-pueblo-gitano-apoyar-vox-texto-20250410183401.html",
+        "date": "2025-04-10 16:34:01",
+        "sentiment_score": 0.4790957421064377
+    },
+    {
+        "title": "María Pérez, sobre la desaparición olímpica del relevo mixto: \"Es una falta de respeto\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/maria-perez-sobre-la-desaparicion-olimpica-del-relevo-mixto-es-una-falta-de-respeto/",
+        "date": "2025-04-10 16:31:48",
+        "sentiment_score": -0.9291415773332119
+    },
+    {
+        "title": "(Previa) Un Valencia al alza busca mantener la fiabilidad en Mestalla ante un alicaído Sevilla",
+        "image_url": "https://www.infobae.com/resizer/v2/EQYVSMSGKNHD7LYOVNUEOKO2DY.jpg?auth=e990298d022070529d991dc3870c319db31263ab2673e0a3456e6ff15d3411ff&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/previa-un-valencia-al-alza-busca-mantener-la-fiabilidad-en-mestalla-ante-un-alicaido-sevilla/",
+        "date": "2025-04-10 16:31:28",
+        "sentiment_score": 0.05833730101585388
+    },
+    {
+        "title": "El FMI eleva el crecimiento español en 2025 pero advierte de mayores riesgos a la baja",
+        "image_url": "https://static.grupojoly.com/clip/dbc53084-65ec-45ed-b6b6-e1290d5af01c_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.huelvainformacion.es/economia/fmi-eleva-crecimiento-espanol-2025_0_2003708458.html",
+        "date": "2025-04-10 16:27:02",
+        "sentiment_score": -0.4546121209859848
+    },
+    {
+        "title": "El FMI sube al 2,5 % la previsión de crecimiento de España en 2025 pero señala más riesgos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/el-fmi-sube-al-25-la-prevision-de-crecimiento-de-espana-en-2025-pero-senala-mas-riesgos/",
+        "date": "2025-04-10 16:21:12",
+        "sentiment_score": 0.027532964944839478
+    },
+    {
+        "title": "Más del 35% de los educadores sociales cambian las entidades por el sector público",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/04/10/67f7fa1621d1f.r_d.3018-2404-1058.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250410/10575212/mas-35-educadores-sociales-cambian-entidades-sector-publico.html",
+        "date": "2025-04-10 17:11:00",
+        "sentiment_score": -0.7542036045342684
+    },
+    {
+        "title": "La plataforma Sant Jordi per la Llengua llama a \"dejar atrás el pesimismo\" y reivindicar el catalán",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/04/10/los-portavoces-de-la-plataforma-san-jordi-per-la-llengua-adria-font-y-nuria-alcaraz-en-la-rueda-de-prensa-de-este-jueves.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.20minutos.es/noticia/5699819/0/plataforma-sant-jordi-per-llengua-llama-dejar-atras-pesimismo-reivindicar-catalan/",
+        "date": "2025-04-10 17:10:48",
+        "sentiment_score": 0.31032322347164154
+    },
+    {
+        "title": "Los comités científicos de Mercadona en España y Portugal abordan riesgos y avances en seguridad alimentaria",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250410191030_120.jpg",
+        "tags": [
+            "aragón"
+        ],
+        "link": "https://www.europapress.es/illes-balears/noticia-comites-cientificos-mercadona-espana-portugal-abordan-riesgos-avances-seguridad-alimentaria-20250410162434.html",
+        "date": "2025-04-10 17:10:30",
+        "sentiment_score": 0.4836599826812744
+    },
+    {
+        "title": "Barcelona encara Semana Santa con una ocupación hotelera del 85%, \"similar\" a la del año pasado",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/06/01/turistas-entrando-en-uno-de-los-hoteles-situados-en-el-centro-de-barcelona.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5699821/0/barcelona-encara-semana-santa-con-una-ocupacion-hotelera-85-similar-ano-pasado/",
+        "date": "2025-04-10 17:09:59",
+        "sentiment_score": -0.012565135955810547
+    },
+    {
+        "title": "Barcelona inicia un nuevo tramo de la reforma de la avenida Meridiana: estas son las calles afectadas",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/11/06/informacion-municipal/807679392_11838778_1706x960.jpg?contentId=807679392",
+        "tags": [
+            "top"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250410/barcelona-inicia-un-nuevo-tramo-de-la-reforma-avenida-meridiana-estas-son-las-calles-afectadas/1003742648264_0.html",
+        "date": "2025-04-10 17:04:22",
+        "sentiment_score": 0.28601207584142685
+    },
+    {
+        "title": "La caída en la oferta de alquiler se ralentizará en 2025, con 35.418 inmuebles menos, según un estudio",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250410190220_120.jpg",
+        "tags": [
+            "construcción y vivienda",
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-caida-oferta-alquiler-ralentizara-2025-35418-inmuebles-menos-estudio-20250410190220.html",
+        "date": "2025-04-10 17:02:20",
+        "sentiment_score": -0.39522896707057953
+    },
+    {
+        "title": "La caída en la oferta de alquiler se ralentizará en 2025, con 35.418 inmuebles menos, según un estudio",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/04/fotonoticia_20250410190220_1920-1013x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/680383/la-caida-en-la-oferta-de-alquiler-se-ralentizara-en-2025-con-35-418-inmuebles-menos-segun-un-estudio/",
+        "date": "2025-04-10 17:02:20",
+        "sentiment_score": -0.03126925230026245
+    },
+    {
+        "title": "Los secretos de la Iglesiona",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/04/09/WhatsApp%20Image%202025-04-09%20at%2020.22.22(1)-Rr7YXtOqSSDq7phFYl0Z6mO-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/gijon/secretos-iglesiona-gijon-20250409203209-nt.html",
+        "date": "2025-04-10 17:02:04",
+        "sentiment_score": 0.34678880870342255
+    },
+    {
+        "title": "Un experto hipotecario explica cómo pagar menos impuestos en la declaración de la renta",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc53bd5c-8ae6-4dc6-8c31-fb8b685500ce_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.informacion.es/finanzas-personales/2025/04/10/declaracion-renta-movimiento-bancarios-dv-116256093.html",
+        "date": "2025-04-10 17:00:39",
+        "sentiment_score": 0.15224767103791237
+    },
+    {
+        "title": "Descubra qué tienen que ver las deportaciones en USA con sistemas como Amazon: ICE hace controvertida comparación",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744304377579.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/descubra-que-tienen-que-ver-las-deportaciones-en-usa-con-sistemas-como-amazon-ice-hace-controvertida-comparacion-20254101330",
+        "date": "2025-04-10 17:03:00",
+        "sentiment_score": -0.6474643275141716
+    },
+    {
+        "title": "Ahora son 145%: Trump dispara los aranceles a China",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744307319787.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/ahora-son-145-trump-dispara-los-aranceles-a-china--202541012570",
+        "date": "2025-04-10 16:57:00",
+        "sentiment_score": 0.21962040662765503
+    },
+    {
+        "title": "Fito Paez arremete contra el reggaetón: \"No es un género que tenga ni historia\"",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744304381859.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/fito-paez-arremete-contra-el-reggaeton-no-es-un-genero-que-tenga-ni-historia--202541012560",
+        "date": "2025-04-10 16:56:00",
+        "sentiment_score": -0.7011448498815298
+    },
+    {
+        "title": "PSUV: Diosdado Cabello anuncia candidatos a diputados para la Asamblea Nacional",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744306780960.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/psuv-diosdado-cabello-anuncia-candidatos-a-diputados-para-la-asamblea-nacional-202541012450",
+        "date": "2025-04-10 16:45:00",
+        "sentiment_score": 0.07476415112614632
+    },
+    {
+        "title": "Con comprobantes falsos de bancos cometía estafas en comercios",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744303219711.webp?ch=193&cw=342&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/con-comprobantes-falsos-de-bancos-cometia-estafas-en-comercios-202541012440",
+        "date": "2025-04-10 16:44:00",
+        "sentiment_score": -0.7328419033437967
+    },
+    {
+        "title": "Ricky Martin y su sobrino llegan a un acuerdo legal: aquí los detalles del caso",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744302286604.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/ricky-martin-y-su-sobrino-llegan-a-un-acuerdo-legal-aqui-los-detalles-del-caso-202541012250",
+        "date": "2025-04-10 16:25:00",
+        "sentiment_score": -0.18445294350385666
+    },
+    {
+        "title": "Proceso de registro en USCIS para venezolanos en USA: cómo hacerlo sin riesgos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744302768298.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/proceso-de-registro-en-uscis-para-venezolanos-en-usa-como-hacerlo-sin-riesgos-202541012150",
+        "date": "2025-04-10 16:15:00",
+        "sentiment_score": -0.6953826490789652
+    },
+    {
+        "title": "A cuánto asciende la fortuna de Rubby Pérez y quiénes son sus herederos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744301998600.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/a-cuanto-asciende-la-fortuna-de-rubby-perez-y-quienes-son-sus-herederos-202541012130",
+        "date": "2025-04-10 16:13:00",
+        "sentiment_score": -0.7400601096451283
+    },
+    {
+        "title": "Seguro de vivienda en Texas en alza: se ha incrementado hasta $1.200 desde 2021",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744302421524.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/seguro-de-vivienda-en-texas-en-alza-se-ha-incrementado-hasta-1-200-desde-2021-202541012120",
+        "date": "2025-04-10 16:12:00",
+        "sentiment_score": 0.42193008214235306
+    },
+    {
+        "title": "Tragedia del Jet Set: familia de hermanas barquisimetanas piden ayuda para repatriar sus restos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744302826547.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/tragedia-del-jet-set-familia-de-hermanas-barquisimetanas-piden-ayuda-para-repatriar-sus-restos-20254101270",
+        "date": "2025-04-10 16:07:00",
+        "sentiment_score": -0.04524347186088562
     }
 ];
