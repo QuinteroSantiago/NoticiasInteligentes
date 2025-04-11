@@ -5628,5 +5628,604 @@ export default [
         "link": "https://2001online.com/internacionales/tragedia-del-jet-set-familia-de-hermanas-barquisimetanas-piden-ayuda-para-repatriar-sus-restos-20254101270",
         "date": "2025-04-10 16:07:00",
         "sentiment_score": -0.04524347186088562
+    },
+    {
+        "title": "Hoy será noticia. Viernes, 11 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/hoy-sera-noticia-viernes-11-de-abril/",
+        "date": "2025-04-10 22:17:23",
+        "sentiment_score": 0.038478609174489975
+    },
+    {
+        "title": "Seis españoles muertos al caer un helicóptero en río Hudson de Nueva York, según alcalde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/seis-espanoles-muertos-al-caer-un-helicoptero-en-rio-hudson-de-nueva-york-segun-alcalde/",
+        "date": "2025-04-10 22:17:07",
+        "sentiment_score": -0.7889613891020417
+    },
+    {
+        "title": "De Marcos: \"Hemos picado piedra y no ha podido ser\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/de-marcos-hemos-picado-piedra-y-no-ha-podido-ser/",
+        "date": "2025-04-10 22:02:05",
+        "sentiment_score": -0.6563436910510063
+    },
+    {
+        "title": "Pellegrini: \"Esperamos hacer un partido completo allí y que nos clasificamos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/pellegrini-esperamos-hacer-un-partido-completo-alli-y-que-nos-clasificamos/",
+        "date": "2025-04-10 22:01:48",
+        "sentiment_score": 0.2966727167367935
+    },
+    {
+        "title": "El Athletic pone fin a una racha de 18 partidos seguidos marcando en Europa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/el-athletic-pone-fin-a-una-racha-de-18-partidos-seguidos-marcando-en-europa/",
+        "date": "2025-04-10 21:48:12",
+        "sentiment_score": 0.6030943542718887
+    },
+    {
+        "title": "Tavares: \"Hicimos un gran partido y estoy muy orgulloso por el equipo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/tavares-hicimos-un-gran-partido-y-estoy-muy-orgulloso-por-el-equipo/",
+        "date": "2025-04-10 21:47:55",
+        "sentiment_score": 0.9158815052360296
+    },
+    {
+        "title": "Cinco españoles muertos en accidente de helicóptero en Nueva York, según fuentes oficiales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/cinco-espanoles-muertos-en-accidente-de-helicoptero-en-nueva-york-segun-fuentes-oficiales/",
+        "date": "2025-04-10 21:47:17",
+        "sentiment_score": -0.6978078577667475
+    },
+    {
+        "title": "Bakambu: \"Un 2-0 no está mal, tenemos que ir allí a buscar la clasificación\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/bakambu-un-2-0-no-esta-mal-tenemos-que-ir-alli-a-buscar-la-clasificacion/",
+        "date": "2025-04-10 21:33:17",
+        "sentiment_score": 0.26213616877794266
+    },
+    {
+        "title": "Un equipo subacuático se une a la búsqueda del menor desaparecido en el rio en Palencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/10/un-equipo-subacuatico-se-une-a-la-busqueda-del-menor-desaparecido-en-el-rio-en-palencia/",
+        "date": "2025-04-10 21:32:55",
+        "sentiment_score": -0.28512876480817795
+    },
+    {
+        "title": "El Senado busca dictaminar los pliegos de los embajadores argentinos en Estados Unidos y España",
+        "image_url": "https://www.infobae.com/resizer/v2/LYRBEAFL4FHFZD22BS7FZWTJTM.jpeg?auth=ff89effdff80bc26d5c017bbeaaad758f0aa14d51435c844bab9365200124680&height=903&smart=true&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/politica/2025/04/10/el-senado-busca-dictaminar-los-pliegos-de-los-embajadores-argentinos-en-estados-unidos-y-espana/",
+        "date": "2025-04-10 21:29:11",
+        "sentiment_score": 0.0821208506822586
+    },
+    {
+        "title": "Sal y luz",
+        "image_url": "https://s3.ppllstatics.com/todoalicante/www/multimedia/2025/04/08/furgoneta-keEG--170x119@TodoAlicante.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-sal-luz-20250411221639-nts.html",
+        "date": "2025-04-10 20:18:22",
+        "sentiment_score": -0.11521899700164795
+    },
+    {
+        "title": "'Croché' de izquierda",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/04/08/amazon_-k3RC--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-croche-izquierda-20250411165153-nts.html",
+        "date": "2025-04-10 20:16:51",
+        "sentiment_score": -0.07197874784469604
+    },
+    {
+        "title": "Hechos para vivir en el paraíso",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/04/11/tribuna-paraiso-RRoigJlHlCl83QH8SFVIDKM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-benitez-burraco-vivir-paraiso-20250411221624-nts.html",
+        "date": "2025-04-10 20:16:24",
+        "sentiment_score": -0.08949494361877441
+    },
+    {
+        "title": "Un helicóptero se estrella en el río Hudson en Nueva York",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/10/Helicopter-kXo-U70795154720QaG-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/helicoptero-estrella-rio-hudson-nueva-york-20250410215945-nt.html",
+        "date": "2025-04-10 20:01:36",
+        "sentiment_score": -0.5208439137786627
+    },
+    {
+        "title": "Los ministros de Defensa de la OTAN preparan sin EE.UU. el futuro envío de tropas a Ucrania",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/10/kaja-kallas-RJTtctQfB7XZGxqYoDxInxM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ministros-defensa-otan-preparan-eeuu-futuro-envio-20250410202327-nt.html",
+        "date": "2025-04-10 18:23:27",
+        "sentiment_score": -0.09528100490570068
+    },
+    {
+        "title": "Dime cómo es tu pelvis y te diré qué problemas de salud tendrás",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/04/10/pelvis-estudio-R1f5KEJN3lwsUpVxcxXTA9O-1200x840@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/dime-pelvis-dire-problemas-salud-20250410155636-nt.html",
+        "date": "2025-04-10 18:18:47",
+        "sentiment_score": -0.10243621468544006
+    },
+    {
+        "title": "La pérdida de motivación en el cáncer no es solo emocional: es biológica",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/04/10/pexels-tima-miroshnichenko-6011602.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/perdida-motivacion-cancer-solo-emocional-biologica-20250410124833-nt.html",
+        "date": "2025-04-10 18:00:01",
+        "sentiment_score": -0.10906818509101868
+    },
+    {
+        "title": "La crianza intensiva",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/04/11/250411TerceraCebolla-RdlDWqHwrc5kFh3x4qLOuJI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/hector-cebolla-boado-crianza-intensiva-20250411151422-nt.html",
+        "date": "2025-04-10 17:47:41",
+        "sentiment_score": -0.05305933952331543
+    },
+    {
+        "title": "La lotería",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/04/07/newspaint-1743951583076-1200x840-kodD--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rosa-belmonte-loteria-20250411194709-nt.html",
+        "date": "2025-04-10 17:47:20",
+        "sentiment_score": -0.28803709149360657
+    },
+    {
+        "title": "Omertá",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/04/09/csalud-k7XF--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alvaro-martinez-omerta-20250411194651-nt.html",
+        "date": "2025-04-10 17:47:01",
+        "sentiment_score": -0.10584676265716553
+    },
+    {
+        "title": "Una mujer muere atropellada por un autobús desfrenado en la estación de Girona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MR75DMFG2AVPR653FQKDN3P2YQ.jpg?auth=d19eb25b6a47d186381eec159aab1bf396fb018ce90f7e773d961bc613dd614d&width=1200",
+        "tags": [
+            "cataluña",
+            "estacionamientos urbanos",
+            "accidentes",
+            "heridos",
+            "autobuses"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/una-mujer-muere-atropellada-por-un-autobus-desfrenado-en-la-estacion-de-girona.html",
+        "date": "2025-04-10 21:12:49",
+        "sentiment_score": -0.08347218483686447
+    },
+    {
+        "title": "Un español muerto y otro desaparecido en la catástrofe de República Dominicana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LSN5GUBLWPBXC6YKYPPIJOYTTE.jpg?auth=2467530d17b3e5a65c944d764a71056253412fe48e1f76d63b1154b359a1d2b9&width=1200",
+        "tags": [
+            "españa",
+            "discotecas",
+            "república dominicana",
+            "accidentes",
+            "latinoamérica",
+            "santo domingo"
+        ],
+        "link": "https://elpais.com/espana/2025-04-10/un-espanol-muerto-y-otro-desaparecido-en-la-catastrofe-de-republica-dominicana.html",
+        "date": "2025-04-10 18:08:01",
+        "sentiment_score": -0.004012010991573334
+    },
+    {
+        "title": "Muere un motorista en un accidente con un vehículo de los Mossos d’Esquadra en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OFOP3VJSZIWKE7Z4D7JLXPRUB4.jpg?auth=79b469053a7330f88c0faf3df792c743e27cf32ba77d864cc235864f5710aa92&width=1200",
+        "tags": [
+            "barcelona",
+            "hospitales",
+            "mossos d'esquadra",
+            "tráfico",
+            "cataluña",
+            "accidentes motoristas",
+            "víctimas",
+            "guardia urbana"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/muere-un-motorista-en-un-accidente-con-un-vehiculo-de-los-mossos-desquadra-en-barcelona.html",
+        "date": "2025-04-10 17:59:59",
+        "sentiment_score": -0.6590329334139824
+    },
+    {
+        "title": "Un diálogo entre Javier Cercas y Salvador Illa conmemorará el Sant Jordi de la Generalitat",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YHVXIMJIH3NKJ45A4HAOW2V6GQ.jpg?auth=d9d19a3ed11a623301b0af2bb60ebc001f40668f07a8e6ecaf664f0fc6316228&width=1200",
+        "tags": [
+            "barcelona",
+            "generalitat cataluña",
+            "ayuntamiento barcelona",
+            "libros",
+            "diada",
+            "fiestas",
+            "flores",
+            "sant jordi",
+            "cataluña",
+            "agenda cultural"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/un-dialogo-entre-javier-cercas-y-salvador-illa-conmemorara-el-sant-jordi-de-la-generalitat.html",
+        "date": "2025-04-10 17:59:45",
+        "sentiment_score": 0.6053970251232386
+    },
+    {
+        "title": "Illa mantendrá el plan antiaranceles para ayudar a las empresas pese a la prórroga dictada por Trump",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BLXY7E6DWJBUHLEC7LFDF4GHCI.jpg?auth=09bd9b7253d1628ad6b0ad46e70b44cc8ab7dc8d64f2699a95c58c94cbd3800b&width=1200",
+        "tags": [
+            "govern cataluña",
+            "aranceles",
+            "salvador illa",
+            "cataluña",
+            "donald trump",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-10/illa-mantendra-el-plan-antiaranceles-para-ayudar-a-las-empresas-pese-a-la-prorroga-dictada-por-trump.html",
+        "date": "2025-04-10 17:28:50",
+        "sentiment_score": -0.6579014286398888
+    },
+    {
+        "title": "El Gobierno se prepara para \"una batalla\" con el PP por el reparto de menores entre las CCAA: \"No están por la labor de acogerlos\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/9e92a35d28462b395bbc777b5f197e75/f/webp/assets/multimedia/imagenes/2025/04/10/17443151075576.jpg",
+        "tags": [
+            "inmigración"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/04/11/67f82259e9cf4a1a168b4584.html",
+        "date": "2025-04-10 22:17:09",
+        "sentiment_score": -0.5963761024177074
+    },
+    {
+        "title": "El Gobierno niega de nuevo irregularidades en el rescate de Air Europa: \"El expediente está limpio de polvo y paja\"",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/04/europapress-6531399-ex-ministro-transportes-jose-luis-abalos-1d-sale-declarar-tribunal-supremo-scaled-e1744306439678-1440x808.jpg",
+        "tags": [
+            "españa",
+            "pedro sánchez",
+            "gobierno de españa",
+            "partido popular (pp)",
+            "josé luis ábalos",
+            "corrupción",
+            "guardia civil",
+            "partido socialista obrero español (psoe)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/04/11/el-gobierno-niega-de-nuevo-irregularidades-en-el-rescate-de-air-europa-el-expediente-esta-limpio-de-polvo-y-paja/",
+        "date": "2025-04-10 22:05:10",
+        "sentiment_score": -0.6908676065504551
+    },
+    {
+        "title": "Walter Tavares se convierte en el segundo máximo reboteador en la historia de la Euroliga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/walter-tavares-se-convierte-en-el-segundo-maximo-reboteador-en-la-historia-de-la-euroliga/",
+        "date": "2025-04-10 22:01:09",
+        "sentiment_score": 0.28159721195697784
+    },
+    {
+        "title": "Campazzo: \"Para nuestra confianza es una victoria muy importante\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/campazzo-para-nuestra-confianza-es-una-victoria-muy-importante/",
+        "date": "2025-04-10 21:46:41",
+        "sentiment_score": 0.8901402177289128
+    },
+    {
+        "title": "Chus Mateo: \"Estamos preparados para jugar lo que venga\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/chus-mateo-estamos-preparados-para-jugar-lo-que-venga/",
+        "date": "2025-04-10 21:31:46",
+        "sentiment_score": 0.363416014239192
+    },
+    {
+        "title": "89-91. Tavares, sobre la bocina, deja el destino del Real Madrid en manos de Barça y Efes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/89-91-tavares-sobre-la-bocina-deja-el-destino-del-real-madrid-en-manos-de-barca-y-efes/",
+        "date": "2025-04-10 21:17:16",
+        "sentiment_score": -0.5123797096312046
+    },
+    {
+        "title": "Míchel, Lewandowski, Ochoa, Koeman... el mundo del fútbol llora la pérdida de Beenhakker",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/michel-lewandowski-ochoa-koeman-el-mundo-del-futbol-llora-la-perdida-de-beenhakker/",
+        "date": "2025-04-10 21:15:36",
+        "sentiment_score": -0.8926481977105141
+    },
+    {
+        "title": "Crónica del Partizan - Real Madrid, 89-91",
+        "image_url": "https://www.infobae.com/resizer/v2/LL2UUQ7DY5EQTLRKFP2E3XABQQ.jpg?auth=121e4c34f95e9aa1f15fcafffcde964f8caa7a3979f410ff7d181e1164b531e6&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/10/cronica-del-partizan-real-madrid-89-91/",
+        "date": "2025-04-10 21:15:19",
+        "sentiment_score": -0.09641263261437416
+    },
+    {
+        "title": "La viral reacción de Anne Hathaway frente a la victoria del Arsenal contra el Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/GPGQ66OMOFGUXBXUS5AA5AZACY.jpeg?auth=b029aee627886e0bf1375d83cdf84703c5cd6768a96e8b809926962ffef657c5&height=768&smart=true&width=432",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/entretenimiento/2025/04/10/la-viral-reaccion-de-anne-hathaway-frente-a-la-victoria-del-arsenal-contra-el-real-madrid/",
+        "date": "2025-04-10 21:08:15",
+        "sentiment_score": 0.7067194785922766
+    },
+    {
+        "title": "Un histórico 'fontanero' socialista catalán en el enchufe de la otra amiga de Ábalos: \"El problema de Gijón arreglado\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/acc53d97961a4e82c1c27ebc2862bc4d/crop/0x65/2458x1704/resize/1200/f/webp/assets/multimedia/imagenes/2023/02/20/16769172531096.jpg",
+        "tags": [
+            "gobierno de españa",
+            "artículos gerard melgar",
+            "tribunal supremo",
+            "uco",
+            "psoe",
+            "josé luis rodríguez zapatero",
+            "renfe",
+            "koldo garcía",
+            "psc",
+            "miquel iceta",
+            "josé luis ábalos",
+            "generalitat de cataluña",
+            "guardia civil",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/04/11/67f8254e21efa0633f8b4582.html",
+        "date": "2025-04-10 22:17:11",
+        "sentiment_score": -0.15990444272756577
+    },
+    {
+        "title": "Lluvia de premios de la Lotería Nacional en Gran Canaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18fcf8a9-77a5-4bb3-831b-0a16e2103a86_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/gran-canaria/2025/04/11/lluvia-premios-loteria-nacional-gran-116272765.html",
+        "date": "2025-04-10 22:10:23",
+        "sentiment_score": -0.11378243565559387
+    },
+    {
+        "title": "Con la bajada del Nazareno histórico inicia la Semana Santa en Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/04/Control_Security_300x250.png",
+        "tags": [
+            "cultura",
+            "zxgeneral",
+            "anzoátegui"
+        ],
+        "link": "https://ultimasnoticias.com.ve/general/con-la-bajada-del-nazareno-historico-inicia-la-semana-santa-en-barcelona/",
+        "date": "2025-04-10 22:08:25",
+        "sentiment_score": -0.2803589478135109
+    },
+    {
+        "title": "Dupla Chourio-Contreras no tuvo piedad con Senzatela",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "william contreras",
+            "deportes",
+            "mlb",
+            "béisbol",
+            "jackson chourio"
+        ],
+        "link": "https://eltiempove.com/dupla-chourio-contreras-no-tuvo-piedad-con-senzatela/",
+        "date": "2025-04-10 22:07:59",
+        "sentiment_score": -0.4880172088742256
+    },
+    {
+        "title": "Murtra orienta a Telefónica hacia Europa para luchar contra los \"titanes casi monopolísticos\" de EEUU y China",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/04/celebracion-junta-accionistas-2025-1-1440x808.jpg",
+        "tags": [
+            "telecomunicaciones",
+            "economía",
+            "telefónica",
+            "empresas"
+        ],
+        "link": "https://www.elindependiente.com/economia/2025/04/11/murtra-orienta-telefonica-europa-luchar-titanes-monopolisticos/",
+        "date": "2025-04-10 22:05:28",
+        "sentiment_score": 0.2448806781321764
+    },
+    {
+        "title": "Trapero reivindica una policía democráticamente \"avanzada\" que no actúe de forma partidista",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250411000155_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-trapero-reivindica-policia-democraticamente-avanzada-no-actue-forma-partidista-20250411000155.html",
+        "date": "2025-04-10 22:01:55",
+        "sentiment_score": -0.5264265015721321
+    },
+    {
+        "title": "Los dueños del Hotel Colón superan su cisma familiar y abrirán otro cinco estrellas en el corazón de Barcelona",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/17/business/917168388_13992777_1706x960.jpg?contentId=917168388",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250410/los-hotel-colon-superan-familiar-estrellas-barcelona/1003742648126_0.html",
+        "date": "2025-04-10 22:00:00",
+        "sentiment_score": -0.5744820460677147
+    },
+    {
+        "title": "¡Vivan los pingüinos!",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/04/vida/791931051_8610539_1706x960.jpg?contentId=791931051",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250410/vivan-los-pinguinos/1003742648298_13.html",
+        "date": "2025-04-10 22:00:00",
+        "sentiment_score": 0.032739460468292236
+    },
+    {
+        "title": "Tensionados",
+        "image_url": "https://www.diariodeferrol.com/images/3945855",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeferrol.com/articulo/opinion/tensionados-5252007",
+        "date": "2025-04-10 22:00:00",
+        "sentiment_score": -0.3529365211725235
+    },
+    {
+        "title": "Suspende pagos Feragar, fabricante de piezas para coches, de Vilanova i la Geltrú",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/10/business/confidente-vip/1003742648268_14408935_1706x960.jpg?contentId=1003742648268",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20250410/suspende-feragar-fabricante-de-piezas-vilanova-geltru/1003742648265_0.html",
+        "date": "2025-04-10 22:00:00",
+        "sentiment_score": -0.46185002103447914
+    },
+    {
+        "title": "Hallan el cadáver de una niña de un año en San Félix: estaba desaparecida",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744323020709.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/hallan-el-cadaver-de-una-nina-de-un-ano-en-san-felix-estaba-desaparecida-202541018110",
+        "date": "2025-04-10 22:11:00",
+        "sentiment_score": -0.14460178464651108
+    },
+    {
+        "title": "Cicpc captura a siete personas por casos de abuso sexual y físico contra menores en cinco estados",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744322486847.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/cicpc-captura-a-siete-personas-por-casos-de-abuso-sexual-y-fisico-contra-menores-en-cinco-estados-202541017560",
+        "date": "2025-04-10 21:56:00",
+        "sentiment_score": -0.00600038468837738
+    },
+    {
+        "title": "Vive El Sistema Fest enciende la escena en Venezuela con semanas de conciertos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744322522814.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/vive-el-sistema-fest-enciende-la-escena-en-venezuela-con-semanas-de-conciertos-202541017400",
+        "date": "2025-04-10 21:40:00",
+        "sentiment_score": 0.11368417553603649
+    },
+    {
+        "title": "Anuncian nuevas medidas para motorizados que hagan piruetas en Táchira: solo existe un espacio para estas prácticas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744319726890.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/anuncian-nuevas-medidas-para-motorizados-que-hagan-piruetas-en-tachira-solo-existe-un-espacio-para-estas-practicas-202541017360",
+        "date": "2025-04-10 21:36:00",
+        "sentiment_score": 0.1463063322007656
+    },
+    {
+        "title": "Estos residentes de Illinois podrán recibir un pago único por $1.000: requisitos y distribución",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744320919452.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/estos-residentes-de-illinois-podran-recibir-un-pago-unico-por-1-000-requisitos-y-distribucion-202541017340",
+        "date": "2025-04-10 21:34:00",
+        "sentiment_score": 0.03607314079999924
+    },
+    {
+        "title": "Justin Bieber explota contra los paparazzi: Solo les importa el dinero",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744320920236.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/justin-bieber-explota-contra-los-paparazzi-solo-les-importa-el-dinero-202541017310",
+        "date": "2025-04-10 21:31:00",
+        "sentiment_score": -0.6138017941266298
+    },
+    {
+        "title": "Más de 70 muertos en naufragio en el Congo: la embarcación ilegal viajaba de noche",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744319098181.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/mas-de-70-muertos-en-naufragio-en-el-congo-la-embarcacion-ilegal-viajaba-de-noche-20254101770",
+        "date": "2025-04-10 21:07:00",
+        "sentiment_score": 0.014900900423526764
+    },
+    {
+        "title": "Numismática USA: la moneda en honor a Lincoln que puede valer hasta $59.000",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744322963675.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/numismatica-usa-la-moneda-en-honor-a-lincoln-que-puede-valer-hasta-59-000-20254101720",
+        "date": "2025-04-10 21:02:00",
+        "sentiment_score": -0.03238625079393387
+    },
+    {
+        "title": "Conductores de San Francisco multados por exceso de velocidad pueden obtener descuentos: conozca quiénes",
+        "image_url": "https://pxcdn.2001online.com/2001/022025/1740756256401.webp?ch=212&cw=377&extw=webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conductores-de-san-francisco-multados-por-exceso-de-velocidad-pueden-obtener-descuentos-conozca-quienes-20254101710",
+        "date": "2025-04-10 21:01:00",
+        "sentiment_score": -0.12834277749061584
+    },
+    {
+        "title": "Solicita los bonos en la app VeMonedero con estos dos pasos: así la puedes descargar",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744314374785.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/solicita-los-bonos-en-la-app-vemonedero-con-estos-dos-pasos-asi-la-puedes-descargar-20254101700",
+        "date": "2025-04-10 21:00:00",
+        "sentiment_score": 0.2145388051867485
     }
 ];
