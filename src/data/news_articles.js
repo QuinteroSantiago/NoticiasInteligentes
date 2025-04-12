@@ -140,66 +140,6 @@ export default [
         "sentiment_score": -0.16059258580207825
     },
     {
-        "title": "La devaluación del bolívar pulveriza los salarios y dispara la incertidumbre de los venezolanos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/08/bolivar-RAmFG1xAN77th8ehJaGAhZJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/devaluacion-bolivar-pulveriza-salarios-dispara-incertidumbre-venezolanos-20250408153710-nt.html",
-        "date": "2025-04-08 13:41:37",
-        "sentiment_score": -0.19006213545799255
-    },
-    {
-        "title": "Dos pacientes se benefician de una innovadora terapia para el cáncer de páncreas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/04/08/cancer-terapia.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/dos-pacientes-benefician-innovadora-terapia-cancer-pancreas-20250408150000-nt.html",
-        "date": "2025-04-08 13:00:01",
-        "sentiment_score": -0.14559079706668854
-    },
-    {
-        "title": "Qué significa un resultado positivo y negativo en la declaración de la renta de Navarra",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/08/rentanavarra-RomiqBStssiesZb5D1s461O-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/declaracion-renta/significa-resultado-positivo-negativo-declaracion-renta-navarra-20250408194329-nt.html",
-        "date": "2025-04-08 12:34:52",
-        "sentiment_score": -0.07095170021057129
-    },
-    {
-        "title": "La extrema derecha centroeuropea abdica del liberalismo para alinearse con Trump",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/08/afd-RM5v5idbAZDoo4ASEUHaxBN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/extrema-derecha-centroeuropea-abdica-liberalismo-alinearse-trump-20250408135711-nt.html",
-        "date": "2025-04-08 11:57:12",
-        "sentiment_score": -0.12775284051895142
-    },
-    {
-        "title": "Recuperemos el valor de la atención en las aulas",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/04/01/jubilacion-parcial-cambios-k2tC--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-recuperemos-valor-atencion-aulas-20250408135038-nt.html",
-        "date": "2025-04-08 11:52:48",
-        "sentiment_score": -0.03978422284126282
-    },
-    {
-        "title": "Arabia Saudí, Irán e Irak concentraron el 91 por ciento de las ejecuciones en 2024, según Amnistía Internacional",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/08/protestst-ROlaqGWgFbtWn3yRTHu4WgO-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/arabia-saudi-iran-irak-concentraron-ciento-ejecuciones-20250408133945-nt.html",
-        "date": "2025-04-08 11:42:31",
-        "sentiment_score": -0.165906623005867
-    },
-    {
         "title": "El Congreso da el primer paso para hacer obligatorio el Debate del Estado de la Nación",
         "image_url": "https://imagenes.elpais.com/resizer/v2/TYOLPRC6G3PAWWOCVH6DYT6DSI.jpg?auth=ebee4916e5e6585b9c6ab2559fe1cea1fa3a59476586774bc9ea6148086dc2fb&width=1200",
         "tags": [
@@ -7132,5 +7072,397 @@ export default [
         "link": "https://2001online.com/nacionales/corpoelec-denuncia-nuevo-ataque-contra-el-sistema-electrico-nacional-aqui-el-comunicado-202541116430",
         "date": "2025-04-11 20:43:00",
         "sentiment_score": 0.7991914190351963
+    },
+    {
+        "title": "Clima en Madrid: cuál será la temperatura máxima y mínima este 12 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/2DAWARYA4JHPLPMEVVO5QN35BY.jpg?auth=71e5216dd60d8f7929f3586146bc657006a171b62a542fbf97ba51d60a5cb237&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/12/clima-en-madrid-cual-sera-la-temperatura-maxima-y-minima-este-12-de-abril/",
+        "date": "2025-04-12 01:32:02",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Top 10 de Prime Video en España: Estas son las películas más vistas en la plataforma",
+        "image_url": "https://www.infobae.com/resizer/v2/VSBMRAO2YFBM5PIH2P3G4FMP44.jpg?auth=8b4101907209a65b79f06d0821b1f467fbf99ee00b78e146e77545c16e139730&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/04/12/top-10-de-prime-video-en-espana-estas-son-las-peliculas-mas-vistas-en-la-plataforma/",
+        "date": "2025-04-12 01:31:04",
+        "sentiment_score": 0.5203738547861576
+    },
+    {
+        "title": "La austríaca Amiblu invierte 4,16 millones en su planta de Tarragona y crea 70 empleos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/la-austriaca-amiblu-invierte-416-millones-en-su-planta-de-tarragona-y-crea-70-empleos/",
+        "date": "2025-04-12 01:03:37",
+        "sentiment_score": 0.7600470241159201
+    },
+    {
+        "title": "El Sindicato de Inquilinas califica de \"insuficientes\" y \"cobardes\" las medidas de Sánchez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/el-sindicato-de-inquilinas-califica-de-insuficientes-y-cobardes-las-medidas-de-sanchez/",
+        "date": "2025-04-12 01:03:23",
+        "sentiment_score": -0.8576480839401484
+    },
+    {
+        "title": "El Baxi Manresa refuerza su juego interior con el fichaje del pívot Jaume Sorolla",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/el-baxi-manresa-refuerza-su-juego-interior-con-el-fichaje-del-pivot-jaume-sorolla/",
+        "date": "2025-04-12 01:03:08",
+        "sentiment_score": 0.5348379239439964
+    },
+    {
+        "title": "Benassi, sobre Yeremay: \"Él y sus agentes saben que la posición del Dépor es clara\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/benassi-sobre-yeremay-el-y-sus-agentes-saben-que-la-posicion-del-depor-es-clara/",
+        "date": "2025-04-12 01:02:54",
+        "sentiment_score": 0.5582514852285385
+    },
+    {
+        "title": "16-11. España estrena su título olímpico con una victoria ante Estados Unidos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/16-11-espana-estrena-su-titulo-olimpico-con-una-victoria-ante-estados-unidos/",
+        "date": "2025-04-12 01:02:39",
+        "sentiment_score": 0.5499081164598465
+    },
+    {
+        "title": "Esteban Albert: \"El Jairis ha demostrado que quiere estar arriba\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/esteban-albert-el-jairis-ha-demostrado-que-quiere-estar-arriba/",
+        "date": "2025-04-12 01:02:25",
+        "sentiment_score": 0.6867103613913059
+    },
+    {
+        "title": "Constatan que los deportistas de trail tienen mayor riesgo de desarrollar cáncer de piel",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/constatan-que-los-deportistas-de-trail-tienen-mayor-riesgo-de-desarrollar-cancer-de-piel/",
+        "date": "2025-04-12 01:02:10",
+        "sentiment_score": -0.6977086812257767
+    },
+    {
+        "title": "Feijóo participa en unas jornadas del PPE en Berlín este viernes y sábado, en plena campaña de las elecciones alemanas",
+        "image_url": "https://www.infobae.com/resizer/v2/JB4BCB7YMNEWHOXYLXEBJSEJHA.jpg?auth=29625f5f8db368e6b06dca0367f5590be19e9df8483e9fb12a23a82cce5e679c&height=1444&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/14/feijoo-participa-en-unas-jornadas-del-ppe-en-berlin-este-viernes-y-sabado-en-plena-campana-de-las-elecciones-alemanas/",
+        "date": "2025-04-12 00:49:27",
+        "sentiment_score": -0.09595037996768951
+    },
+    {
+        "title": "Rusia aprovecha la tregua fallida para tratar de avanzar en Ucrania",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/12/ucrania-kAzB-RJDgZAZJ5MPKsquNWX4csjP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/rusia-aprovecha-tregua-fallida-tratar-avanzar-ucrania-20250412235843-nt.html",
+        "date": "2025-04-12 02:02:11",
+        "sentiment_score": -0.062323689460754395
+    },
+    {
+        "title": "Trump empuja a Irán a la mesa de negociación nuclear bajo la amenaza de una acción militar",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/12/down-RfZwAtlJ7oH2TqeWJvTzstN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-empuja-iran-mesa-negociacion-nuclear-bajo-20250412205816-nt.html",
+        "date": "2025-04-12 02:01:01",
+        "sentiment_score": -0.17750872671604156
+    },
+    {
+        "title": "Un juez autoriza deportar al activista que lideró las protestas propalestinas en la Universidad de Columbia",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/12/Khali.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/juez-autoriza-deportar-activista-lidero-protestas-propalestinas-20250412004743-nt.html",
+        "date": "2025-04-11 22:48:19",
+        "sentiment_score": -0.1353919804096222
+    },
+    {
+        "title": "La Semana Santa",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3262695.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/04/12/2365407/semana-santa-8.html",
+        "date": "2025-04-12 02:00:01",
+        "sentiment_score": 0.051924943923950195
+    },
+    {
+        "title": "¿El último tren hacia Europa?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/04/12/2365665/real-sociedad-real-mallorca-ultimo-tren-hacia-europa-anoeta.html",
+        "date": "2025-04-12 02:00:01",
+        "sentiment_score": -0.3980286419391632
+    },
+    {
+        "title": "La trágica muerte de la nieta de Montal reaviva su legado: El alma del Barça moderno",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/fotonoticia-20170322111112-1200_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/muerte-nieta-agusti-montal-reaviva-legado-alma-del-barca-moderno",
+        "date": "2025-04-12 02:00:00",
+        "sentiment_score": -0.8976780585944653
+    },
+    {
+        "title": "Este es el colombiano que más se valorizó en el mercado de fichajes: aumentó su precio en 20 millones de euros",
+        "image_url": "https://www.infobae.com/resizer/v2/NON5FJGBUVBARAYEPMRT2JRHBU.jpg?auth=5efd8659e1844bb40fa32006b6960123a63c346f82bfb5c23879c2490e6d6948&height=2976&smart=true&width=4464",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/04/12/este-es-el-colombiano-que-mas-se-valorizo-en-el-mercado-de-fichajes-aumento-su-precio-en-20-millones-de-euros/",
+        "date": "2025-04-12 01:50:12",
+        "sentiment_score": 0.27345769107341766
+    },
+    {
+        "title": "El polémico once ideal de Guti del Real Madrid",
+        "image_url": "https://cflvdg.avoz.es/sc/6i0dgMewfnWmDaWmOIcBBY_Fauo=/768x/2024/09/24/00121727178009615385899/Foto/EuropaPress_5133699_jose_maria_gutierrez_guti-EP.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/escuadra/futbol/2025/04/12/polemico-once-ideal-guti-real-madrid/00031744421882731115185.htm",
+        "date": "2025-04-12 01:43:00",
+        "sentiment_score": -0.6463593728840351
+    },
+    {
+        "title": "Rahm no pierde la esperanza de una remontada y Josele se disculpa por carta con Augusta",
+        "image_url": "https://phantom-elmundo.uecdn.es/625df3150c92321b818da4d321bcdc52/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/12/17444211226693.jpg",
+        "tags": [
+            "masters de augusta",
+            "jon rahm"
+        ],
+        "link": "https://www.elmundo.es/deportes/golf/2025/04/12/67f9c06be85ece375a8b45c7.html",
+        "date": "2025-04-12 01:25:58",
+        "sentiment_score": -0.07130306959152222
+    },
+    {
+        "title": "LaLiga: Posible once de Barcelona para enfrentar a Leganés",
+        "image_url": "https://pxcdn.meridiano.net/042025/1744419900723.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/laliga-posible-once-de-barcelona-para-enfrentar-a-leganes-20254112190",
+        "date": "2025-04-12 01:09:00",
+        "sentiment_score": 0.2639258950948715
+    },
+    {
+        "title": "Jesús 'Sito' Pagador Guardiola, 10 años y 120 goles por temporada: \"Soy del Real Madrid, pero quiero jugar en La Masía como Lamine Yamal\"",
+        "image_url": "https://s1.elespanol.com/2025/04/11/actualidad/1003743711096_254701592_1706x960.jpg?contentId=1003743711096",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250412/jesus-sito-pagador-guardiola-anos-goles-temporada-real-madrid-quiero-jugar-masia-lamine-yamal/1003743709887_0.html",
+        "date": "2025-04-12 01:07:24",
+        "sentiment_score": 0.6649239137768745
+    },
+    {
+        "title": "La casa de los Franco: así marchan las obras de la finca de los 90 millones de euros un año después de su venta",
+        "image_url": "https://s1.elespanol.com/2025/04/11/actualidad/1003743710400_254687563_1706x960.jpg?contentId=1003743710400",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250412/casa-franco-marchan-obras-finca-millones-euros-ano-despues-venta/1003743710319_0.html",
+        "date": "2025-04-12 01:05:52",
+        "sentiment_score": 0.07051268219947815
+    },
+    {
+        "title": "Agustín y Mercè se enamoraron en Nueva York y a los 15 años murieron enseñándosela a sus hijos desde el helicóptero",
+        "image_url": "https://s1.elespanol.com/2025/04/11/actualidad/1003743711093_254701583_1706x960.jpg?contentId=1003743711093",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250412/agustin-merce-enamoraron-nueva-york-anos-murieron-ensenandosela-hijos-desdeelhelicoptero/1003743711091_0.html",
+        "date": "2025-04-12 01:05:51",
+        "sentiment_score": -0.6387263387441635
+    },
+    {
+        "title": "Una ventana al antiguo Egipto en el Museo de Ciutadella",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3263139.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/04/12/2365609/ventana-antiguo-egipto-museo-ciutadella.html",
+        "date": "2025-04-12 02:00:01",
+        "sentiment_score": 0.35262152552604675
+    },
+    {
+        "title": "El artista ‘En el corazón del corazón’",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/11/67f958ec5cdd5.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250412/1983932/artista-corazon-corazon.html",
+        "date": "2025-04-12 01:30:00",
+        "sentiment_score": 0.3112083747982979
+    },
+    {
+        "title": "La comunidad del surf le rendirá un sentido homenaje a Paco Valdano en la playa A Rapadoira",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/12/2025041203222792617.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/adios-leyenda-olas-ultimo-homenaje-paco-valdano/20250412032305340524.html",
+        "date": "2025-04-12 01:23:05",
+        "sentiment_score": 0.523333128541708
+    },
+    {
+        "title": "Científicos desvelan los factores que impulsan el osteosarcoma, un cáncer óseo agresivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/14/cientificos-desvelan-los-factores-que-impulsan-el-osteosarcoma-un-cancer-oseo-agresivo/",
+        "date": "2025-04-12 01:19:04",
+        "sentiment_score": 0.362539678812027
+    },
+    {
+        "title": "El Teatro Real estrena 'Eugenio Oneguin', la ópera \"íntima\" de Chaikovski: \"Es un manifiesto contra lo operístico\"",
+        "image_url": "https://www.infobae.com/resizer/v2/OLR6QWHNSNEXVPBRCVBAEFVB5E.jpg?auth=0c16d0419829775c6bff74bb7226b15fcf283bb5c20cf7dd243e2abd2dcd03f7&height=1281&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/14/el-teatro-real-estrena-eugenio-oneguin-la-opera-intima-de-chaikovski-es-un-manifiesto-contra-lo-operistico/",
+        "date": "2025-04-12 01:18:08",
+        "sentiment_score": 0.40096990019083023
+    },
+    {
+        "title": "El Descanso, el restaurante de Torrejón que sufrió el primer atentado yihadista en España hace 40 años: un caso \"olvidado\"",
+        "image_url": "https://s1.elespanol.com/2019/04/11/actualidad/actualidad_390223219_120196689_1706x960.jpg?contentId=390223219",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20250412/descanso-restaurante-torrejon-sufrio-primer-atentado-yihadista-espana-hace-anos-caso-olvidado/1003743710293_0.html",
+        "date": "2025-04-12 01:05:53",
+        "sentiment_score": -0.738181795924902
+    },
+    {
+        "title": "Semana Santa 2025: conozca cuándo bajan los Palmeros de Chacao",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744425561011.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/semana-santa-2025-conozca-cuando-bajan-los-palmeros-de-chacao-202541122100",
+        "date": "2025-04-12 02:10:00",
+        "sentiment_score": 0.10255013406276703
+    },
+    {
+        "title": "Miss Universo Madrid destaca talento venezolano: la gala se transmitirá por YouTube",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744418660385.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/miss-universo-madrid-destaca-talento-venezolano-la-gala-se-transmitira-por-youtube--20254112220",
+        "date": "2025-04-12 02:06:00",
+        "sentiment_score": 0.8856421448290348
+    },
+    {
+        "title": "Redadas ICE del 11 de abril: un exgobernador mexicano deportado y 18 inmigrantes arrestados por robo de identidad",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744423411441.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/redadas-ice-del-11-de-abril-un-exgobernador-mexicano-deportado-y-18-inmigrantes-arrestados-por-robo-de-identidad-20254112220",
+        "date": "2025-04-12 02:02:00",
+        "sentiment_score": 0.020750723779201508
+    },
+    {
+        "title": "En video: los internautas recuerdan el romance musical entre Rubby Pérez y Tatiana Capote",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744422750743.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/en-video-los-internautas-recuerdan-el-romance-musical-entre-rubby-perez-y-tatiana-capote-20254112210",
+        "date": "2025-04-12 02:01:00",
+        "sentiment_score": 0.4419567435979843
+    },
+    {
+        "title": "Inicia el cierre de fronteras terrestres en Ecuador por segunda vuelta electoral: conoce cuándo se reabre el paso",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744423133210.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/inicia-el-cierre-de-fronteras-terrestres-en-ecuador-por-segunda-vuelta-electoral-conoce-cuando-se-reabre-el-paso-20254112200",
+        "date": "2025-04-12 02:00:00",
+        "sentiment_score": -0.3860621675848961
+    },
+    {
+        "title": "Mamparas de baño: paso a paso para limpiarlas eficientemente",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744310458193.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/mamparas-de-bano-paso-a-paso-para-limpiarlas-eficientemente-202541121550",
+        "date": "2025-04-12 01:55:00",
+        "sentiment_score": 0.7092532459646463
+    },
+    {
+        "title": "Usuarios de Facebook reciben cheques de $40 por demanda de rastreo: está relacionado con el botón \"Me gusta\"",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744423835534.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/usuarios-de-facebook-reciben-cheques-de-40-por-demanda-de-rastreo-esta-relacionado-con-el-boton-me-gusta--202541121500",
+        "date": "2025-04-12 01:50:00",
+        "sentiment_score": 0.015553608536720276
+    },
+    {
+        "title": "Jueces federales amplían protección para venezolanos en Texas y Nueva York: abarca todos los detenidos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744422157840.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/jueces-federales-amplian-proteccion-para-venezolanos-en-texas-y-nueva-york-abarca-todos-los-detenidos-202541121210",
+        "date": "2025-04-12 01:21:00",
+        "sentiment_score": -0.11775096505880356
+    },
+    {
+        "title": "IRS Estados Unidos: el 15 de abril vence el plazo para el pago de estos impuestos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744420511491.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/irs-estados-unidos-el-15-de-abril-vence-el-plazo-para-el-pago-de-estos-impuestos--202541121140",
+        "date": "2025-04-12 01:14:00",
+        "sentiment_score": -0.05544546991586685
+    },
+    {
+        "title": "Redadas ICE: arrestan a esposa de militar activo en proceso de obtener la Green Card",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744422438114.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/redadas-ice-arrestan-a-esposa-de-militar-activo-en-proceso-de-obtener-la-green-card-202541121130",
+        "date": "2025-04-12 01:13:00",
+        "sentiment_score": -0.5986381080001593
     }
 ];
